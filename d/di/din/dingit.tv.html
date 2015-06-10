@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the dingit.tv privacy policy that was archived on 2014-11-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141130192637id_/http%3A//www.dingit.tv/legal/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the dingit.tv privacy policy that was archived on 2015-06-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150610031804id_/http%3A//www.dingit.tv/legal/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="js flexbox canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths" ng-app="dingit" style=""><head>
         <meta charset="utf-8">
@@ -28,11 +28,13 @@
         <script src="/js/lib/qtip.js"></script>
         <script src="/js/lib/modernizr-2.6.2-respond-1.1.0.min.js"></script>
         <script src="/js/lib/isotope.min.js"></script>
+        <script src="/js/lib/fuckadblock.js"></script>
         <script src="/js/global-config.js"></script>
         <script src="/js/utils.js"></script>
 
 
         <script src="/js/main.js"></script>
+        <script src="/js/ngControllers/ngFlag.js"></script>
         <script src="/js/ngControllers/profile.js"></script>
         <script src="/js/ngControllers/PublicProfile.js"></script>
         <script src="/js/ngControllers/MessagingControllers.js"></script>
@@ -40,6 +42,8 @@
         <script src="/js/ngControllers/CategoriesControllers.js"></script>
         <script src="/js/ngControllers/SubscriptionControllers.js"></script>
         <script src="/js/ngControllers/ChannelControllers.js"></script>
+        <script src="/js/ngControllers/BettingControllers.js"></script>
+        <script src="/js/ngControllers/EsportsControllers.js"></script>
             <style type="text/css">.fancybox-margin{margin-right:0px;}</style></head>
     <body style="">
         <div class="body-wrap">
@@ -140,6 +144,7 @@
                             <div class="field-row required clearfix">
                                 <select name="age" id="form-guest-become-partner-age" class="dropdown small-dropdown col100">
                                     <option value="" selected="selected">Year of Birth</option>
+                                                                            <option value="2007">2007</option>
                                                                             <option value="2006">2006</option>
                                                                             <option value="2005">2005</option>
                                                                             <option value="2004">2004</option>
@@ -242,7 +247,14 @@
                         </div>
                         <div class="col-lg-2">
                             <div class="field-row required clearfix">
-                                <input class="text-field" id="form-guest-become-partner-speed" type="text" name="speed" placeholder="Your Upload Speed">
+                                <select name="speed" id="form-guest-become-partner-speed" class="dropdown small-dropdown col100">
+                                    <option value="" selected="selected">Your Upload Speed</option>
+                                    <option value="1">1 Mbps</option>
+                                    <option value="2">2 Mbps</option>
+                                    <option value="4">4 Mbps</option>
+                                    <option value="6">6 Mbps</option>
+                                    <option value="10">&gt;10 Mbps</option>
+                                </select>
                             </div>
                             <div class="field-row required clearfix">
                                 <input class="text-field" id="form-guest-become-partner-processor" type="text" name="processor" placeholder="PC Processor">
@@ -251,7 +263,17 @@
                                 <input class="text-field" id="form-guest-become-partner-graphics" type="text" name="graphics" placeholder="PC Graphics Card">
                             </div>
                             <div class="field-row required clearfix">
-                                <input class="text-field" id="form-guest-become-partner-ram" type="text" name="ram" placeholder="Amount of RAM">
+                                <select name="ram" id="form-guest-become-partner-ram" class="dropdown small-dropdown col100">
+                                    <option value="" selected="selected">Amount of RAM</option>
+                                    <option value="2">2 GB</option>
+                                    <option value="4">4 GB</option>
+                                    <option value="6">6 GB</option>
+                                    <option value="8">8 GB</option>
+                                    <option value="12">12 GB</option>
+                                    <option value="16">16 GB</option>
+                                    <option value="24">24 GB</option>
+                                    <option value="36">36 GB</option>
+                                </select>
                             </div>
                         </div>
                     </div>
@@ -679,7 +701,7 @@ var RecaptchaOptions = {"theme":"red","lang":"en","custom_translations":[]}
         </div>
     </div>
 </div><div ng-controller="ChannelSubscription as signup">
-    <input id="btn-show-subscribe" type="hidden">
+    <input class="btn-show-subscribe" type="hidden">
 
     <div style="display: none;">
         <div id="modal-subscribe" class="modal-popup">
@@ -689,7 +711,7 @@ var RecaptchaOptions = {"theme":"red","lang":"en","custom_translations":[]}
 
             <div class="clearfix">
                 <ul class="plans-list clearfix">
-                    <li ng-class="{'plans-list-channel checked': signup.isSubscriptionSet(5)}">
+                    <li style="width: 260px;" ng-class="{'plans-list-channel checked': signup.isSubscriptionSet(5)}">
                         <h5 class="text-center">
                             Channel Subscription
                             <small><strong>$4.99</strong> / month</small>
@@ -707,7 +729,7 @@ var RecaptchaOptions = {"theme":"red","lang":"en","custom_translations":[]}
                             <li>Emoticons</li>
                             <li>Broadcaster Perks</li>
                         </ul>
-                        <button class="set-plan">
+                        <button style="width: 237px;" class="set-plan">
                             {{signup.selectedPlan(5)}}
                         </button>
                     </li>
@@ -729,7 +751,7 @@ var RecaptchaOptions = {"theme":"red","lang":"en","custom_translations":[]}
 
             <div class="clearfix">
                 <ul class="plans-list clearfix">
-                    <li ng-class="{'plans-list-channel checked': signup.isSubscriptionSet(8)}">
+                    <li style="width: 260px;" ng-class="{'plans-list-channel checked': signup.isSubscriptionSet(8)}">
                         <h5 class="text-center">
                             Esport Subscription
                             <small><strong>$4.99</strong> / month</small>
@@ -747,7 +769,7 @@ var RecaptchaOptions = {"theme":"red","lang":"en","custom_translations":[]}
                             <li>Emoticons</li>
                             <li>Broadcaster Perks</li>
                         </ul>
-                        <button class="set-plan">
+                        <button style="width: 237px;" class="set-plan">
                             {{signup.selectedPlan(8)}}
                         </button>
                     </li>
@@ -918,6 +940,7 @@ var RecaptchaOptions = {"theme":"red","lang":"en","custom_translations":[]}
                                     <div class="field-row required clearfix">
                                         <select name="age" id="form-become-partner-age" class="dropdown small-dropdown col100">
                                             <option value="" selected="selected">Year of Birth</option>
+                                                                                            <option value="2007">2007</option>
                                                                                             <option value="2006">2006</option>
                                                                                             <option value="2005">2005</option>
                                                                                             <option value="2004">2004</option>
@@ -1020,7 +1043,14 @@ var RecaptchaOptions = {"theme":"red","lang":"en","custom_translations":[]}
                                 </div>
                                 <div class="col-lg-3">
                                     <div class="field-row required clearfix">
-                                        <input class="text-field" id="form-become-partner-speed" type="text" name="speed" placeholder="Your Upload Speed">
+                                        <select name="speed" id="form-become-partner-speed" class="dropdown small-dropdown col100">
+                                            <option value="" selected="selected">Your Upload Speed</option>
+                                            <option value="1">1 Mbps</option>
+                                            <option value="2">2 Mbps</option>
+                                            <option value="4">4 Mbps</option>
+                                            <option value="6">6 Mbps</option>
+                                            <option value="10">&gt;10 Mbps</option>
+                                        </select>
                                     </div>
                                     <div class="field-row required clearfix">
                                         <input class="text-field" id="form-become-partner-processor" type="text" name="processor" placeholder="PC Processor">
@@ -1029,7 +1059,17 @@ var RecaptchaOptions = {"theme":"red","lang":"en","custom_translations":[]}
                                         <input class="text-field" id="form-become-partner-graphics" type="text" name="graphics" placeholder="PC Graphics Card">
                                     </div>
                                     <div class="field-row required clearfix">
-                                        <input class="text-field" id="form-become-partner-ram" type="text" name="ram" placeholder="Amount of RAM">
+                                        <select name="ram" id="form-become-partner-ram" class="dropdown small-dropdown col100">
+                                            <option value="" selected="selected">Amount of RAM</option>
+                                            <option value="2">2 GB</option>
+                                            <option value="4">4 GB</option>
+                                            <option value="6">6 GB</option>
+                                            <option value="8">8 GB</option>
+                                            <option value="12">12 GB</option>
+                                            <option value="16">16 GB</option>
+                                            <option value="24">24 GB</option>
+                                            <option value="36">36 GB</option>
+                                        </select>
                                     </div>
                                 </div>
                             </div>
@@ -1358,11 +1398,427 @@ var RecaptchaOptions = {"theme":"red","lang":"en","custom_translations":[]}
         </div>
     </div>
 </div>
+<div>
+    <button style="display: none;" id="btn-prompt-show-adblock-popup1" data-toggle="modal" data-target="#modal-prompt-adblock-popup1"></button>
 
-    <!-- Header menus -->
-    <div class="header-container">
-        <header class="r_wrapper clearfix">
-            <div class="browse-modal clearfix">
+    <div class="modal fade" id="modal-prompt-adblock-popup1" tabindex="-1" role="dialog" aria-labelledby="adblock-popup1-label" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close" onclick="$('#modal-prompt-adblock-popup1').modal('hide');"><span aria-hidden="true">×</span></button>
+                    <h4 class="modal-title" id="adblock-popup1-label">Disable adblock for better quality</h4>
+
+                    <div class="divider-bottom"></div>
+                </div>
+                <div class="modal-body">
+                    <div class="text-center">
+                        <img src="/img/icon-disable-adblock.png">
+                    </div>
+                    <p class="font-arial font-14 text-center padding-6">
+                        Please turn off adblock or subscribe, our content is primarily supported by adverts.
+                        <br>
+                        <br>
+                        <span class="font-bold">You have 30 mins of unrestricted viewing remaining.</span>
+                    </p>
+                </div>
+                <div class="modal-footer">
+                    <div class="row">
+                        <div class="col-xs-6 text-center">
+                            <p class="font-arial font-12">
+                                Create Pro account to avoid advertising
+                                <br>
+                                <span class="font-bold">for only $9.99/month</span>
+                            </p>
+                        </div>
+                        <div class="col-xs-6 text-center">
+                            <p class="font-arial font-12">
+                                Or create a Channel Subscription
+                                <br>
+                                <span class="font-bold">for just $4.99/month</span>
+                            </p>
+                        </div>
+                    </div>
+                    <div class="space10"></div>
+                    <div class="row">
+                        <div class="col-xs-6">
+                                                            <a class="btn-call-to-action centered-in-col btn-show-signup-viewer-go-pro" data-dismiss="modal">
+                                    <span class="icon-star"></span>
+                                    GO PRO
+                                </a>
+                                                    </div>
+                        <div class="col-xs-6">
+                                                                                                <a class="btn-call-to-action centered-in-col btn-show-signup-viewer-channel" data-dismiss="modal">
+                                        SUBSCRIBE
+                                    </a>
+                                                                                    </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div><div>
+    <button style="display: none;" id="btn-prompt-show-adblock-popup2" data-toggle="modal" data-target="#modal-prompt-adblock-popup2"></button>
+
+    <div class="modal fade" id="modal-prompt-adblock-popup2" tabindex="-1" role="dialog" aria-labelledby="adblock-popup2-label" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close" onclick="$('#modal-prompt-adblock-popup2').modal('hide');"><span aria-hidden="true">×</span></button>
+                    <h4 class="modal-title" id="adblock-popup2-label">Disable adblock for better quality</h4>
+
+                    <div class="divider-bottom"></div>
+                </div>
+                <div class="modal-body">
+                    <div class="text-center">
+                        <img src="/img/icon-disable-adblock.png">
+                    </div>
+                    <p class="font-arial font-14 text-center padding-6">
+                        We're glad you are enjoying, please turn off adblock or subscribe as our content is supported by adverts.
+                        <br>
+                        <br>
+                        <span class="font-bold">You have 15 mins of unrestricted viewing remaining.</span>
+                    </p>
+                </div>
+                <div class="modal-footer">
+                    <div class="row">
+                        <div class="col-xs-6 text-center">
+                            <p class="font-arial font-12">
+                                Create Pro account to avoid advertising
+                                <br>
+                                <span class="font-bold">for only $9.99/month</span>
+                            </p>
+                        </div>
+                        <div class="col-xs-6 text-center">
+                            <p class="font-arial font-12">
+                                Or create a Channel Subscription
+                                <br>
+                                <span class="font-bold">for just $4.99/month</span>
+                            </p>
+                        </div>
+                    </div>
+                    <div class="space10"></div>
+                    <div class="row">
+                        <div class="col-xs-6">
+                                                            <a class="btn-call-to-action centered-in-col btn-show-signup-viewer-go-pro" data-dismiss="modal">
+                                    <span class="icon-star"></span>
+                                    GO PRO
+                                </a>
+                                                    </div>
+                        <div class="col-xs-6">
+                                                                                                <a class="btn-call-to-action centered-in-col btn-show-signup-viewer-channel" data-dismiss="modal">
+                                        SUBSCRIBE
+                                    </a>
+                                                                                    </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div><div>
+    <button style="display: none;" id="btn-prompt-show-adblock-popup3" data-toggle="modal" data-target="#modal-prompt-adblock-popup3"></button>
+
+    <div class="modal fade" id="modal-prompt-adblock-popup3" tabindex="-1" role="dialog" aria-labelledby="adblock-popup3-label" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close" onclick="$('#modal-prompt-adblock-popup3').modal('hide');"><span aria-hidden="true">×</span></button>
+                    <h4 class="modal-title" id="adblock-popup3-label">Disable adblock for better quality</h4>
+
+                    <div class="divider-bottom"></div>
+                </div>
+                <div class="modal-body">
+                    <div class="text-center">
+                        <img src="/img/icon-disable-adblock.png">
+                    </div>
+                    <p class="font-arial font-14 text-center padding-6">
+                        We're glad you have enjoyed the 30 mins unrestricted viewing.
+                        <br>
+                        Our content and content creators are funded by advertising revenue and we detected you are using adblock.
+                        <br>
+                        <br>
+                        <span class="font-bold">You will be limited to low quality until you either disable adblock or subscribe.</span>
+                    </p>
+                </div>
+                <div class="modal-footer">
+                    <div class="row">
+                        <div class="col-xs-6 text-center">
+                            <p class="font-arial font-12">
+                                Create Pro account to avoid advertising
+                                <br>
+                                <span class="font-bold">for only $9.99/month</span>
+                            </p>
+                        </div>
+                        <div class="col-xs-6 text-center">
+                            <p class="font-arial font-12">
+                                Or create a Channel Subscription
+                                <br>
+                                <span class="font-bold">for just $4.99/month</span>
+                            </p>
+                        </div>
+                    </div>
+                    <div class="space10"></div>
+                    <div class="row">
+                        <div class="col-xs-6">
+                                                            <a class="btn-call-to-action centered-in-col btn-show-signup-viewer-go-pro" data-dismiss="modal">
+                                    <span class="icon-star"></span>
+                                    GO PRO
+                                </a>
+                                                    </div>
+                        <div class="col-xs-6">
+                                                                                                <a class="btn-call-to-action centered-in-col btn-show-signup-viewer-channel" data-dismiss="modal">
+                                        SUBSCRIBE
+                                    </a>
+                                                                                    </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div><div>
+    <button style="display: none;" id="btn-prompt-show-adblock-popup4" data-toggle="modal" data-target="#modal-prompt-adblock-popup4"></button>
+
+    <div class="modal fade" id="modal-prompt-adblock-popup4" tabindex="-1" role="dialog" aria-labelledby="adblock-popup4-label" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close" onclick="$('#modal-prompt-adblock-popup4').modal('hide');"><span aria-hidden="true">×</span></button>
+                    <h4 class="modal-title" id="adblock-popup4-label">Disable adblock for better quality</h4>
+
+                    <div class="divider-bottom"></div>
+                </div>
+                <div class="modal-body">
+                    <div class="text-center">
+                        <img src="/img/icon-disable-adblock.png">
+                    </div>
+                    <p class="font-arial font-14 text-center padding-6">
+                        Our content and content creators are funded by advertising revenue and we detected you are using adblock.
+                        <br>
+                        <br>
+                        <span class="font-bold">Please disable adblock or subscribe.</span>
+                    </p>
+                </div>
+                <div class="modal-footer">
+                    <div class="row">
+                        <div class="col-xs-6 text-center">
+                            <p class="font-arial font-12">
+                                Create Pro account to avoid advertising
+                                <br>
+                                <span class="font-bold">for only $9.99/month</span>
+                            </p>
+                        </div>
+                        <div class="col-xs-6 text-center">
+                            <p class="font-arial font-12">
+                                Or create a Channel Subscription
+                                <br>
+                                <span class="font-bold">for just $4.99/month</span>
+                            </p>
+                        </div>
+                    </div>
+                    <div class="space10"></div>
+                    <div class="row">
+                        <div class="col-xs-6">
+                                                            <a class="btn-call-to-action centered-in-col btn-show-signup-viewer-go-pro" data-dismiss="modal">
+                                    <span class="icon-star"></span>
+                                    GO PRO
+                                </a>
+                                                    </div>
+                        <div class="col-xs-6">
+                                                                                                <a class="btn-call-to-action centered-in-col btn-show-signup-viewer-channel" data-dismiss="modal">
+                                        SUBSCRIBE
+                                    </a>
+                                                                                    </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div><div>
+    <button style="display: none;" id="btn-prompt-show-adblock-popup5" data-toggle="modal" data-target="#modal-prompt-adblock-popup5"></button>
+
+    <div class="modal fade" id="modal-prompt-adblock-popup5" tabindex="-1" role="dialog" aria-labelledby="adblock-popup5-label" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close" onclick="$('#modal-prompt-adblock-popup5').modal('hide');"><span aria-hidden="true">×</span></button>
+                    <h4 class="modal-title" id="adblock-popup5-label">Disable adblock to watch</h4>
+
+                    <div class="divider-bottom"></div>
+                </div>
+                <div class="modal-body">
+                    <div class="text-center">
+                        <img src="/img/icon-disable-adblock.png">
+                    </div>
+                    <p class="font-arial font-14 text-center padding-6">
+                        Our content and content creators are funded by advertising revenue and we detected you are using adblock.
+                        <br>
+                        <br>
+                        <span class="font-bold">Please disable adblock or subscribe.</span>
+                    </p>
+                </div>
+                <div class="modal-footer">
+                    <div class="row">
+                        <div class="col-xs-6 text-center">
+                            <p class="font-arial font-12">
+                                Create Pro account to avoid advertising
+                                <br>
+                                <span class="font-bold">for only $9.99/month</span>
+                            </p>
+                        </div>
+                        <div class="col-xs-6 text-center">
+                            <p class="font-arial font-12">
+                                Or create a Channel Subscription
+                                <br>
+                                <span class="font-bold">for just $4.99/month</span>
+                            </p>
+                        </div>
+                    </div>
+                    <div class="space10"></div>
+                    <div class="row">
+                        <div class="col-xs-6">
+                                                            <a class="btn-call-to-action centered-in-col btn-show-signup-viewer-go-pro" data-dismiss="modal">
+                                    <span class="icon-star"></span>
+                                    GO PRO
+                                </a>
+                                                    </div>
+                        <div class="col-xs-6">
+                                                                                                <a class="btn-call-to-action centered-in-col btn-show-signup-viewer-channel" data-dismiss="modal">
+                                        SUBSCRIBE
+                                    </a>
+                                                                                    </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div>
+    <button style="display: none;" id="btn-prompt-show-trial-expired" data-toggle="modal" data-target="#modal-prompt-trial-expired"></button>
+
+    <div class="modal fade" id="modal-prompt-trial-expired" tabindex="-1" role="dialog" aria-labelledby="trial-expired-label" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close" onclick="$('#modal-prompt-trial-expired').modal('hide');"><span aria-hidden="true">×</span></button>
+                    <h4 class="modal-title" id="trial-expired-label">Subscribe for better quality</h4>
+
+                    <div class="divider-bottom"></div>
+                </div>
+                <div class="modal-body">
+                    <div class="text-center">
+                        <img src="/img/icon-disable-adblock.png">
+                    </div>
+                    <p class="font-arial font-14 text-center padding-6">
+                        We're glad you have enjoyed the 30 mins unrestricted viewing.
+                        <br>
+                        DingIt relies on Advertising income to pay for your bandwidth.
+                        <br>
+                        Advertising is not supported in your location.
+                        <br>
+                        <br>
+                        <span class="font-bold">Please subscribe or you will be limited to low quality.</span>
+                    </p>
+                </div>
+                <div class="modal-footer">
+                    <div class="row">
+                        <div class="col-xs-6 text-center">
+                            <p class="font-arial font-12">
+                                Create Pro account to avoid advertising
+                                <br>
+                                <span class="font-bold">for only $9.99/month</span>
+                            </p>
+                        </div>
+                        <div class="col-xs-6 text-center">
+                            <p class="font-arial font-12">
+                                Or create a Channel Subscription
+                                <br>
+                                <span class="font-bold">for just $4.99/month</span>
+                            </p>
+                        </div>
+                    </div>
+                    <div class="space10"></div>
+                    <div class="row">
+                        <div class="col-xs-6">
+                                                            <a class="btn-call-to-action centered-in-col btn-show-signup-viewer-go-pro" data-dismiss="modal">
+                                    <span class="icon-star"></span>
+                                    GO PRO
+                                </a>
+                                                    </div>
+                        <div class="col-xs-6">
+                                                                                                <a class="btn-call-to-action centered-in-col btn-show-signup-viewer-channel" data-dismiss="modal">
+                                        SUBSCRIBE
+                                    </a>
+                                                                                    </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div><div>
+    <button style="display: none;" id="btn-prompt-show-grey-subscribe" data-toggle="modal" data-target="#modal-prompt-grey-subscribe"></button>
+
+    <div class="modal fade" id="modal-prompt-grey-subscribe" tabindex="-1" role="dialog" aria-labelledby="grey-subscribe-label" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close" onclick="$('#modal-prompt-grey-subscribe').modal('hide');"><span aria-hidden="true">×</span></button>
+                    <h4 class="modal-title" id="grey-subscribe-label">Subscribe for better quality</h4>
+
+                    <div class="divider-bottom"></div>
+                </div>
+                <div class="modal-body">
+                    <div class="text-center">
+                        <img src="/img/icon-disable-adblock.png">
+                    </div>
+                    <p class="font-arial font-14 text-center padding-6">
+                        Our content and content creators are funded by advertising revenue.
+                        Advertising is not supported in your location.
+                        <br>
+                        <br>
+                        <span class="font-bold">Please subscribe or you will be limited to low quality.</span>
+                    </p>
+                </div>
+                <div class="modal-footer">
+                    <div class="row">
+                        <div class="col-xs-6 text-center">
+                            <p class="font-arial font-12">
+                                Create Pro account to avoid advertising
+                                <br>
+                                <span class="font-bold">for only $9.99/month</span>
+                            </p>
+                        </div>
+                        <div class="col-xs-6 text-center">
+                            <p class="font-arial font-12">
+                                Or create a Channel Subscription
+                                <br>
+                                <span class="font-bold">for just $4.99/month</span>
+                            </p>
+                        </div>
+                    </div>
+                    <div class="space10"></div>
+                    <div class="row">
+                        <div class="col-xs-6">
+                                                            <a class="btn-call-to-action centered-in-col btn-show-signup-viewer-go-pro" data-dismiss="modal">
+                                    <span class="icon-star"></span>
+                                    GO PRO
+                                </a>
+                                                    </div>
+                        <div class="col-xs-6">
+                                                                                                <a class="btn-call-to-action centered-in-col btn-show-signup-viewer-channel" data-dismiss="modal">
+                                        SUBSCRIBE
+                                    </a>
+                                                                                    </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="visible-lg">
+    
+        <!-- Header menus -->
+        <div class="header-container">
+            <header class="r_wrapper clearfix">
+                <div class="browse-modal clearfix">
     <a href="/site/browse" class="link-browse">Browse</a>
     <a href="#" class="toggle browse-modal-hide"></a>
 	<ul class="browse-columns">
@@ -1414,138 +1870,185 @@ var RecaptchaOptions = {"theme":"red","lang":"en","custom_translations":[]}
 			</ul>
 		</li>
 	</ul>
-</div>            <a href="/" class="logo">
-                <div class="label-beta">beta</div>
-            </a>
-            <ul class="head_menu pages_menu">
-                <li><a href="/browse" class="highlight pull-left">Browse</a></li>
-                <li><a class="highlight browse-modal-show pull-left">Categories</a></li>
-                <li><a href="/broadcasters" class="highlight pull-left">Broadcasters</a></li>
-                <li><a href="/esports" class="highlight pull-left">eSports</a></li>
-                <li><a href="http://blog.dingit.tv/" target="_blank" class="highlight pull-left">News</a></li>
-                <li><a href="http://kb.dingit.tv/" class="highlight pull-left" target="_blank">FAQ</a></li>
-                                    <li>
-                        <a class="btn-show-signup-viewer-go-pro">
-                            <div class="gopro-button-wrap">
-                                <span class="icon-star"></span>
-                                GO PRO
-                            </div>
+</div>                <div class="esports-modal clearfix">
+<!--    <a href="#" class="toggle esports-modal-hide"></a>-->
+	<ul class="browse-columns">
+		<li>
+			<ul>
+				<li class="column-head text-center">eSports</li>
+<!--				<li><a id="esport-link-nav" href="/esports">Calendar</a></li>-->
+				<li><a href="/giveaway">Giveaways</a></li>
+			</ul>
+		</li>
+	</ul>
+</div>                <a href="/" class="logo">
+                    <div class="label-beta">beta</div>
+                </a>
+                <ul class="head_menu pages_menu">
+                    <li><a href="/browse" class="highlight pull-left">Browse</a></li>
+                    <li><a class="highlight browse-modal-show pull-left">Categories</a></li>
+<!--                    <li><a class="highlight esports-modal-show pull-left">eSports</a></li>-->
+                    <li><a href="/esports" id="esport-link-nav" class="highlight pull-left">eSports</a></li>
+                    <li><a href="/mobile" class="highlight pull-left">Mobile</a></li>
+                    <li><a href="http://blog.dingit.tv/" target="_blank" class="highlight pull-left">News</a></li>
+                    <li><a href="http://kb.dingit.tv/" class="highlight pull-left" target="_blank">FAQ</a></li>
+                                            <li>
+                            <a class="btn-show-signup-viewer-go-pro">
+                                <div class="gopro-button-wrap">
+                                    <span class="icon-star"></span>
+                                    GO PRO
+                                </div>
+                            </a>
+                        </li>
+                                    </ul>
+
+                <ul class="head_menu login_menu">
+                    <li class="no-border">
+                        <a class="btn-show-signup-viewer">
+                            Sign Up
                         </a>
                     </li>
-                            </ul>
+                    <li class="no-border"><a class="login-button">Login</a></li>
+                </ul>
+            </header>
+        </div>
 
-            <ul class="head_menu login_menu">
-                <li class="no-border">
-                    <a class="btn-show-signup-viewer">
-                        Sign Up
-                    </a>
-                </li>
-                <li class="no-border"><a class="login-button">Login</a></li>
-            </ul>
-<!--            <ul class="head_menu additional_menu">-->
-<!--                <li class="search-form right-inner">-->
-<!--                    <form class="right-inner search-form" action="/categories/last_live">-->
-<!--                        <input placeholder="Search" type="text" name="search_text"/>-->
-<!--                        <i class="icon-search"></i>-->
-<!--                    </form>-->
-<!--                </li>-->
-<!--            </ul>-->
-        </header>
-    </div>
-
-    <script>
-        $(document).ready(function () {
-            $("#loginButton").click(function () {
-                $.ajax({
-                    type: 'POST',
-                    async: true,
-                    cache: false,
-                    url: 'http://www.dingit.tv/user/login',
-                    dataType: "json",
-                    success: function (ans) {
-                        if (ans.status == 2) {
-                            location.href='/BCDashboard/live';
-                        } else if (ans.status == 0) {
-location.reload();                        } else {
-                            $("#login_status").text(ans.text);
-                        }
-                    },
-                    data: $("#login-popup > form").serialize()
-                });
-                return false;
-            });
-
-            $("#resetPasswordButton").click(function () {
-                if ($("#resetPasswordButton").text() == "Close") {
-                    location.reload();
-                } else {
+        <script>
+            $(document).ready(function () {
+                $("#loginButton").click(function () {
                     $.ajax({
                         type: 'POST',
                         async: true,
                         cache: false,
-                        url: 'http://www.dingit.tv/user/reset_password',
+                        url: 'http://www.dingit.tv/user/login',
                         dataType: "json",
                         success: function (ans) {
-                            if (ans.status == 0) {
-                                $("#reset_password_notification").text("Check your mail.");
-                                $("#resetPasswordButton").text("Close");
-                            } else {
-                                $("#reset_password_notification").text(ans.text);
+                            if (ans.status == 0 || ans.status == 2) {
+    location.reload();                            } else {
+                                $("#login_status").text(ans.text);
                             }
                         },
-                        data: {
-                            email: $("#reset_password_mail").val()
-                        }
+                        data: $("#login-popup > form").serialize()
                     });
-                }
-                return false;
+                    return false;
+                });
+
+                $("#resetPasswordButton").click(function () {
+                    if ($("#resetPasswordButton").text() == "Close") {
+                        location.reload();
+                    } else {
+                        $.ajax({
+                            type: 'POST',
+                            async: true,
+                            cache: false,
+                            url: 'http://www.dingit.tv/user/reset_password',
+                            dataType: "json",
+                            success: function (ans) {
+                                if (ans.status == 0) {
+                                    $("#reset_password_notification").text("Check your mail.");
+                                    $("#resetPasswordButton").text("Close");
+                                } else {
+                                    $("#reset_password_notification").text(ans.text);
+                                }
+                            },
+                            data: {
+                                email: $("#reset_password_mail").val()
+                            }
+                        });
+                    }
+                    return false;
+                });
             });
-        });
-    </script>
+        </script>
 
-    <div style="display: none;">
-        <div id="login-popup" class="modal-popup">
-            <h3>Welcome Back to D!ngIt</h3>
-            <div class="space40"></div>
+        <div style="display: none;">
+            <div id="login-popup" class="modal-popup">
+                <h3>Welcome Back to D!ngIt</h3>
+                <div class="space40"></div>
 
-            <form action="/user/login" method="post" class="login-form">
-                <div class="field-row clearfix" style="font-family: 'Arial'; color: red; font-size: 12px;" id="login_status"></div>
-                <div class="field-row clearfix">
-                    <input class="text-field" type="text" name="email" placeholder="Email">
+                <form action="/user/login" method="post" class="login-form">
+                    <div class="field-row clearfix" style="font-family: 'Arial'; color: red; font-size: 12px;" id="login_status"></div>
+                    <div class="field-row clearfix">
+                        <input class="text-field" type="text" name="email" placeholder="Email">
+                    </div>
+                    <div class="field-row clearfix">
+                        <input class="text-field" type="password" name="password" placeholder="Password">
+                    </div>
+                    <div class="field-row clearfix">
+                        <a class="modal-pw-link">Forgot Password?</a>
+                    </div>
+                    <div class="field-row clearfix text-center">
+                        <button class="btn-large primary nonecase submit" type="submit" id="loginButton">Login</button>
+                    </div>
+                </form>
+
+            </div>
+        </div>
+
+        <div style="display: none;">
+            <div id="reset-pw-popup" class="modal-popup">
+                <h3>Reset your password</h3>
+                <div class="space40"></div>
+                <div class="modal-pw-label">
+                    We will send reset instructions to the email address associated with your account.
                 </div>
+                <div class="space40"></div>
                 <div class="field-row clearfix">
-                    <input class="text-field" type="password" name="password" placeholder="Password">
+                    <input class="text-field" type="text" name="email" placeholder="Your Email Address" id="reset_password_mail">
                 </div>
-                <div class="field-row clearfix">
-                    <a class="modal-pw-link">Forgot Password?</a>
-                </div>
+                <div id="reset_password_notification" class="space40"></div>
                 <div class="field-row clearfix text-center">
-                    <button class="btn-large primary nonecase submit" type="submit" id="loginButton">Login</button>
+                    <button class="btn-large primary nonecase submit" type="submit" id="resetPasswordButton">Send</button>
                 </div>
-            </form>
 
+            </div>
         </div>
     </div>
 
-    <div style="display: none;">
-        <div id="reset-pw-popup" class="modal-popup">
-            <h3>Reset your password</h3>
-            <div class="space40"></div>
-            <div class="modal-pw-label">
-                We will send reset instructions to the email address associated with your account.
-            </div>
-            <div class="space40"></div>
-            <div class="field-row clearfix">
-                <input class="text-field" type="text" name="email" placeholder="Your Email Address" id="reset_password_mail">
-            </div>
-            <div id="reset_password_notification" class="space40"></div>
-            <div class="field-row clearfix text-center">
-                <button class="btn-large primary nonecase submit" type="submit" id="resetPasswordButton">Send</button>
-            </div>
 
+<!--Mobile header-->
+<nav class="navbar navbar-inverse visible-xs visible-sm visible-md" role="navigation">
+    <div class="container-fluid">
+        <div class="navbar-header" style="min-height: 57px;">
+            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#header-navbar-collapse">
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <a class="navbar-brand logo" href="/" style="background-size: 102px 44px; background-position: 0 4px;">
+                <div class="label-beta">beta</div>
+            </a>
+
+
+                            <ul class="head_menu login_menu pull-left">
+                    <li class="no-border">
+                        <a class="btn-show-signup-viewer">
+                            Sign Up
+                        </a>
+                    </li>
+                    <li class="no-border"><a class="login-button">Login</a></li>
+                </ul>
+                                        <a class="btn-show-signup-viewer-go-pro">
+                    <div class="gopro-button-wrap" style="width: 89px; float: right; margin: 9px 20px 0 0;">
+                        <span class="icon-star"></span>
+                        GO PRO
+                    </div>
+                </a>
+                    </div>
+
+        <!-- Collect the nav links, forms, and other content for toggling -->
+        <div class="collapse navbar-collapse" id="header-navbar-collapse">
+            <ul class="nav navbar-nav font-20">
+                <li><a href="/browse">Browse</a></li>
+                <li><a href="/broadcasters">Broadcasters</a></li>
+                <li><a id="esport-link-nav-mob" href="/esports">eSports</a></li>
+                <li><a href="/mobile">Mobile</a></li>
+                <li><a href="http://blog.dingit.tv/">News</a></li>
+                <li><a href="http://kb.dingit.tv/">FAQ</a></li>
+            </ul>
         </div>
     </div>
-            <div class="legal-container">
+</nav>            <div class="legal-container">
 	<div class="r_wrapper clearfix">
 		<ul class="legal-menu">
 			<li><a href="/terms">Terms of Service</a></li>
@@ -1626,13 +2129,15 @@ location.reload();                        } else {
 <p>D!NGIT online checkout pages, My Account pages and the support portal use Secure Sockets Layer (SSL) encryption on all web pages where personal information is collected. To benefit from SSL encryption of your personal information transmitted over the Internet on these pages, you must use an SSL-enabled browser.</p>
 
 <h2>Correction or Deletion of Information Collected at the D!NGIT website</h2>
-<p>For personal information collected at the D!NGIT website, we make good faith efforts to accommodate requests that we correct your data if it is inaccurate or delete your data if D!NGIT is not required to retain it by law or for legitimate business purposes. We may decline to process requests that are unreasonably repetitive, require disproportionate technical effort, jeopardize the privacy of others, are extremely impractical, or for which access is not otherwise required by local law. Information correction or deletion requests can be made through support@dingit.tv.</p>
+<p>For personal information collected at the D!NGIT website, we make good faith efforts to accommodate requests that we correct your data if it is inaccurate or delete your data if D!NGIT is not required to retain it by law or for legitimate business purposes. We may decline to process requests that are unreasonably repetitive, require disproportionate technical effort, jeopardize the privacy of others, are extremely impractical, or for which access is not otherwise required by local law. Information correction or deletion requests can be made through support@dingit.tv.<script cf-hash="f9e31" type="text/javascript">
+/* <![CDATA[ */!function(){try{var t="currentScript"in document?document.currentScript:function(){for(var t=document.getElementsByTagName("script"),e=t.length;e--;)if(t[e].getAttribute("cf-hash"))return t[e]}();if(t&&t.previousSibling){var e,r,n,i,c=t.previousSibling,a=c.getAttribute("data-cfemail");if(a){for(e="",r=parseInt(a.substr(0,2),16),n=2;a.length-n;n+=2)i=parseInt(a.substr(n,2),16)^r,e+=String.fromCharCode(i);e=document.createTextNode(e),c.parentNode.replaceChild(e,c)}}}catch(u){}}();/* ]]> */</script></p>
 
 <h2>D!NGIT Commitment to Your Privacy</h2>
 <p>To make sure your personal information is secure; we communicate our privacy and security guidelines to all D!NGIT employees and strictly enforce privacy safeguards within the company.</p>
 
 <h2>D!NGIT Privacy Questions?</h2>
-<p>If you have any questions or concerns about D!NGIT Privacy Policy, please contact us through <a href="mailto:support@dingit.tv">support@dingit.tv</a>.<br>
+<p>If you have any questions or concerns about D!NGIT Privacy Policy, please contact us through <a href="mailto:support@dingit.tv">support@dingit.tv<script cf-hash="f9e31" type="text/javascript">
+/* <![CDATA[ */!function(){try{var t="currentScript"in document?document.currentScript:function(){for(var t=document.getElementsByTagName("script"),e=t.length;e--;)if(t[e].getAttribute("cf-hash"))return t[e]}();if(t&&t.previousSibling){var e,r,n,i,c=t.previousSibling,a=c.getAttribute("data-cfemail");if(a){for(e="",r=parseInt(a.substr(0,2),16),n=2;a.length-n;n+=2)i=parseInt(a.substr(n,2),16)^r,e+=String.fromCharCode(i);e=document.createTextNode(e),c.parentNode.replaceChild(e,c)}}}catch(u){}}();/* ]]> */</script></a>.<br>
 D!NGIT may update this Privacy Policy from time to time. When we change the policy in a significant way, a notice will be posted on our website along with the updated Privacy Policy.</p>		</div>
 	</div>
 </div>        </div>
@@ -1659,50 +2164,429 @@ D!NGIT may update this Privacy Policy from time to time. When we change the poli
         </div>
     </div>
 </div><div style="display: none;">
-    <div id="modal-info-advertise" class="modal-popup">
-        <h3 class="no-padding-btm">Advertise With Us</h3>
+    <a style="display: none;" class="btn-show-tos"></a>
+    <div id="modal-info-tos" class="modal-popup">
+        <h3 class="no-padding-btm">D!NGIT TERMS OF SERVICE</h3>
 
         <div class="clearfix modal-text-block">
-            <strong>Advertising</strong>
+        <h2>PLEASE READ CAREFULLY BEFORE ACCEPTING AND DOWNLOADING THE SOFTWARE OR USING THE PRODUCT(S)</h2>
+        <br>
+        <p>Welcome to the game video management and streaming platform operated by DingMedia Ltd. (“&nbsp;<strong>D!ngIt</strong>&nbsp;”) consisting of the web site available at the URL <a href="http://www.dingit.tv">http://www.DingIt.tv</a> and all related services, software applications and networks that allow for the authorized streaming and distribution of game video content over the internet (the “&nbsp;<strong>D!ngIt Service</strong>&nbsp;”). The D!ngIt Service also includes any other sites or services that link to these terms of service (the “<strong>Terms of Service</strong>”). Other services offered by D!ngIt may be subject to separate terms.</p>
+        <p>The following Terms of Service for the D!ngIt Service is a legal contract between you, an individual user of at least 13 years of age (see section below about minors using D!ngIt) or a single entity (“you”), and D!ngIt regarding your use of the D!ngIt Service.</p>
+        <p>D!ngIt may offer certain additional services for which you can agree to pay fees to D!ngIt. The applicable terms will be made available on the applicable D!ngIt web page and will supplement these Terms of Service. If you register and/or use any such paid fee services, you will be asked to agree to and comply with the&nbsp;<a href="/legal/tosale">D!ngIt Terms of Sale</a>.&nbsp;The D!ngIt Terms of Sale is hereby incorporated by reference.</p>
+        <br>
+        <p>PLEASE READ THESE TERMS OF SERVICE AND EULA CAREFULLY. BY REGISTERING FOR, ACCESSING, BROWSING, DOWNLOADING FROM OR USING THE D!NGIT SERVICE, YOU ACKNOWLEDGE THAT YOU HAVE READ, UNDERSTOOD, AND AGREE TO BE BOUND BY THESE TERMS OF SERVICE. IF AT ANY TIME YOU DO NOT AGREE TO THESE TERMS OF SERVICE, PLEASE IMMEDIATELY TERMINATE YOUR USE OF THE D!NGIT SERVICE.</p>
+        <p>IF YOU ARE USING OR OPENING AN ACCOUNT WITH D!NGIT ON BEHALF OF A COMPANY, ENTITY, OR ORGANIZATION (COLLECTIVELY, A “<strong>SUBSCRIBING ORGANIZATION</strong>”) THEN YOU REPRESENT AND WARRANT THAT YOU: (I) ARE AN AUTHORIZED REPRESENTATIVE OF THAT SUBSCRIBING ORGANIZATION WITH THE AUTHORITY TO BIND SUCH ORGANIZATION TO THESE TERMS OF SERVICE; (II) HAVE READ THE FOREGOING TERMS; (III) UNDERSTAND THESE TERMS OF SERVICE, AND (IV) AGREE TO THESE TERMS OF SERVICE ON BEHALF OF SUCH SUBSCRIBING ORGANIZATION.</p>
+        <br>
+        <h2>PURPOSE OF SOFTWARE:</h2>
+        <ol class="number-1-level">
+            <li>To provide real time button simulation of the keyboard and controller functions by the broadcast app</li>
+            <li>Enhanced walkthrough technology</li>
+            <li><strong>Streaming media technology that increases the quality and stability of video streams through the Internet to provide you with the highest quality streaming experience.</strong></li>
+        </ol>
+        <br>
+        <h2>YOUR AGREEMENT WITH D!NGIT</h2>
+        <ol class="number-2-level start-1 reset">
+            <li>D!ngIt’s technologies (<strong>“Cl!ck Pro”</strong> and <strong>“Enhanced Walkthrough Software”</strong> and other ‘D!ngIt’ branded software applications (together the “<strong>D!ngIt Software</strong>”), and associated documentation (whether in printed or electronic form) including any improvements, modifications, enhancements, fixes, updates, upgrades and future versions thereto (“<strong>Updates</strong>”) (collectively the “<strong>Software</strong>”) is licensed (not sold or transferred) to you by D!ngIt.</li>
+            <li>The features and products that are made available through the Software are provided to you by D!ngIt.</li>
+            <li><strong>“D!ngIt’s websites”</strong> means <a href="http://www.dingit.tv">http://www.DingIt.tv</a> or any site under the DingIt.tv domain are operated by D!ngIt.</li>
+            <li><strong>“Products”</strong> means collectively the Products; “you” or “your” means you, the user of the Software and licensee under these Terms.</li>
+            <li><strong>“D!ngIt”</strong> means DingMedia Ltd. Breda, Netherlands. </li>
+            <li>Your agreement with D!ngIt is made up of the terms and conditions set out in this document, together with any fair usage policies described in this document (collectively the “Terms”). In case of any inconsistency between the fair usage policies or any Additional Terms and this document, the terms and conditions established in this document shall prevail.</li>
+        </ol>
+        <br>
+        <h2>ACCEPTANCE OF THE TERMS</h2>
+        <ol class="number-2-level start-1">
+            <li>In order to download and/or use the Software, Products and/or D!ngIt Websites you must first accept these Terms. These Terms are accepted by you (a) when you click to accept or agree to the Terms; or (b) when you download and/or use the Software, Products and/or D!ngIt Websites. We advise you to print a copy of these Terms for your records. These Terms remain effective from the date of acceptance until terminated by you or D!ngIt in accordance with paragraph 9.</li>
+            <li>You cannot accept these Terms if (a) you are not lawfully entitled to use the Software, Products and/or D!ngIt Websites in the country in which you are located or resident or (b) if you are not of legal age to form a binding agreement with D!ngIt.</li>
+        </ol>
+
+        <h2>Use of D!ngIt by Minors and Blocked Persons.</h2>
+        <ol class="number-2-level start-1">
+            <li>The D!ngIt Service is not available to persons under the age of 13. If you are between the ages of 13 and 18 (or between 13 and the age of legal majority in your country of residence), you may only use the D!ngIt Service under the supervision of a parent or legal guardian who agrees to be bound by these Terms of Service. BY DOWNLOADING, INSTALLING OR OTHERWISE USING THE D!NGIT SERVICE, YOU REPRESENT THAT YOU ARE AT LEAST 13 YEARS OF AGE AND HAVE NOT BEEN PREVIOUSLY SUSPENDED OR REMOVED FROM THE D!NGIT SERVICE.</li>
+        </ol>
+        <br>
+        <h2>2. CHANGES TO THE TERMS</h2>
+        <ol class="number-2-level start-2 reset">
+            <li>D!ngIt may make changes to these Terms from time to time. D!ngIt will publish the changes at: <a href="http://www.dingit.tv/terms">http://www.DingIt.tv/terms</a></li>
+        </ol>
+        <p>Changes to the fair usage policies and/or Additional Terms will be posted on the applicable D!ngIt Website. The changes will be effective when published. Please review the Terms on a regular basis. You understand and agree that your express acceptance of the Terms or your use of the Software, Products and/or D!ngIt Websites after the date of publication shall constitute your agreement to the updated Terms. If you do not agree with the amended Terms, you may terminate your relationship with D!ngIt in accordance with paragraph 9 below.</p>
+        <br>
+        <h2>LICENSE</h2>
+        <p>The D!ngIt Service is owned and operated by D!ngIt. Unless otherwise indicated, all Content and other materials on the D!ngIt Services, including, without limitation, D!ngIt's logos, the visual interfaces, graphics, design, compilation, information, software, computer code (including source code or object code), services, text, pictures, information, data, sound files, other files and the selection and arrangement thereof (collectively, the “&nbsp;<strong>Materials</strong>&nbsp;”) are protected by United States copyright, trade dress, patent, and trademark laws, international conventions, and all other relevant intellectual property and proprietary rights, and applicable laws (including in your country of residence). All Materials contained on the D!ngIt Service are the proprietary property of D!ngIt or its subsidiaries or affiliated companies and/or third-party licensors. All trademarks, service marks, and trade names are proprietary to D!ngIt or its affiliates and/or third-party licensors. D!ngIt reserves all rights not expressly granted in these Terms of Service.</p>
+
+        <ol class="number-2-level start-2">
+            <li><strong>License</strong>. Subject to your compliance with these Terms, you are granted a limited, non-exclusive, non-sublicensable, non-assignable, license to download and install the Software on a personal computer, mobile phone or other device; and personally use the Software. For the avoidance of doubt, (a) IT administrators working on behalf of a company may download and install the D!ngIt Software onto personal computers or other devices used by personnel of such company; and (b) you are permitted to use the Software at a university or other educational institution, or at work. D!ngIt reserves all rights not expressly granted to you under these Terms.</li>
+            <li>Restrictions. You may not and you agree not to:
+                <ol class="literal-1-level">
+                    <li>sub-license, sell, assign, rent, lease, export, import, distribute or transfer or otherwise grant rights to any third party in the Software;</li>
+                    <li>undertake, cause, permit or authorize the modification, creation of derivative works or improvements, translation, reverse engineering, decompiling, disassembling, decryption, emulation, hacking, discovery or attempted discovery of the source code or protocols of the Software or any part or features thereof (except to the extent permitted by law);</li>
+                    <li>modify or otherwise making any derivative uses of the D!ngIt Service or the Materials, or any portion of them;</li>
+                    <li>use of any data mining, robots or similar data gathering or extraction methods;</li>
+                    <li>downloading (except page caching) of any portion of the D!ngIt Service, the Materials or any information contained in them, except as expressly permitted on the D!ngIt Service;</li>
+                    <li>undertake, cause, permit or authorize the modification, creation of derivative works or improvements, translation, reverse engineering, decompiling, disassembling, decryption, emulation, hacking, to gain unauthorized or illegal access to the data distributed by the Software (except to the extent permitted by law);</li>
+                    <li>remove, obscure or alter any copyright notices or other proprietary notices included in the Software;</li>
+                    <li>use the Software or cause the Software (or any part of it) to be used within or to provide any products or services to third parties;</li>
+                    <li>other than for the purposes of download and installation, use the Software except in conjunction with D!ngIt streaming services;</li>
+                    <li>any use of the D!ngIt Service or the Materials except for their intended purposes.</li>
+                </ol>
+            </li>
+            <li>Any use of the D!ngIt Service or the Materials except as specifically authorized in these Terms of Service, without the prior written permission of D!ngIt, is strictly prohibited and your failure to comply with them may have legal consequences which may include violating applicable laws, including copyright and trademark laws and applicable communications regulations and statutes. Unless explicitly stated in these Terms of Service, nothing in them shall be interpreted as conferring any license to intellectual property rights, whether by estoppel, implication or other legal principles.</li>
+            <li>When using the D!ngIt Service, you will be subject to any additional posted guidelines or rules applicable to specific services and features which may be posted online and notified to you from time to time (the “<strong>Guidelines</strong>”). All these Guidelines are hereby incorporated by reference into these Terms of Service (i.e. they are made part of these Terms of Service).</li>
+            <li><strong>Third Party Technology</strong>. If you are using Software pre-loaded on, embedded in, combined, distributed or used with or downloaded onto third party products, hardware, software applications, programs or devices (“<strong>Third Party Technology</strong>”), you agree and acknowledge that: (a) you may be required to enter into a separate license agreement with the relevant third party owner or licensor for the use of such Third Party Technology; (b) some Products and/or functionality may not be accessible through the Third Party Technology and (c) D!ngIt cannot guarantee that the Software shall always be available on or in connection with such Third Party Technology.</li>
+            <li><strong>Third Party Notices</strong>. The Software may include third party code that D!ngIt, not the third party, licenses to you under this agreement. Notices, if any, for the third party code are included for your information only. Third party scripts, linked to, called or referenced from the Software, are licensed to you by the third parties that own such code, not by D!ngIt.</li>
+        </ol>
+        <br>
+        <h2>USE OF THE SOFTWARE, PRODUCTS AND D!NGIT WEBSITES</h2>
+        <ol class="number-2-level start-2">
+            <li><strong>Equipment</strong>: In order to use the Software and the Products you will need an Internet broadband connection. You are responsible for providing all equipment required to access the Internet.</li>
+            <li><strong>Use of Your Equipment</strong>: If your use of the Internet Media Distribution Software is dependent upon the use of a processor and bandwidth owned or controlled by a third party, you acknowledge and agree that your license to use the Internet Media Distribution Software is subject to you obtaining consent from the relevant third party for such use. You represent and warrant that by accepting these Terms, you have obtained such consent.</li>
+            <li><strong>Updates to the Software</strong>: D!ngIt may automatically check your version of the D!ngIt Software. D!ngIt will automatically from time to time update the Software. These updates are required to maintain software compatibility, provide security updates or bug fixes, or offer new features, functionality or versions. You agree to receive such updates from D!ngIt in order to continue using the D!ngIt Software and you agree to accept such Updates subject to these Terms.</li>
+            <li><strong>Suspension, technical improvement and maintenance</strong>: From time to time, D!ngIt may need to perform maintenance on or upgrade the Software, Products or D!ngIt Websites or the underlying infrastructure that enables you to use the Software, Products or D!ngIt Websites. This may require D!ngIt to temporarily suspend or limit your use of some or all of the Software, Products or D!ngIt Websites until such time as this maintenance and/or upgrade can be completed. To the extent possible and unless an intervention is urgently required, D!ngIt will publish the time and date of such suspension or limitation on the D!ngIt Website in advance. You will not be entitled to claim damages for such suspension or limitation of the use of any Software, Product or D!ngIt Website.</li>
+            <li><strong>Quality</strong>: D!ngIt cannot guarantee that the Software, Products or D!ngIt Websites will always function without disruptions, delay or errors. A number of factors may impact the quality of your communications and use of the Software, Products (depending on the Products used) or D!ngIt Websites, and may result in the failure of your media distribution including but not limited to: your local network, firewall, your internet service provider, the public internet, and your power supply. D!ngIt takes no responsibility for any disruption, interruption or delay caused by any failure of or inadequacy in any of these items or any other items over which we have no control.</li>
+            <li><strong>Changes to Products</strong>: D!ngIt is constantly improving the Software and Products and may also need to change technical features from time to time in order to comply with applicable regulations. Accordingly, you acknowledge and agree that the Products and functionality of the Software may vary from time to time. Technical requirements for use of Products and Software and feature descriptions are available on the D!ngIt Website. If you do not agree with any changes to Software and Products, you may terminate your relationship with D!ngIt in accordance with paragraph 9. In addition, you acknowledge and agree that certain Products may be subject to usage limits or geographical restrictions, which may vary from time to time.</li>
+            <li><strong>Unsolicited Ideas</strong>. If you send any Unsolicited Feedback to D!ngIt through the D!ngIt Website or otherwise, you acknowledge and agree, that D!ngIt shall not be under any obligation of confidentiality with respect to the Unsolicited Feedback.</li>
+            <li><strong>Linking</strong>. You may link to the D!ngIt Website from another website owned by you, provided you do so in a way that is fair and legal and does not damage our reputation or take advantage of it. You must not establish a link in such a way as to suggest any form of association, approval or endorsement by D!ngIt where none exists. You may not frame the Site on any other site.</li>
+        </ol>
+        <br>
+        <h2>YOUR OBLIGATIONS</h2>
+        <ol class="number-2-level start-2">
+            <li><strong>Lawful Use</strong>: You must use the Software, Products and D!ngIt Websites in accordance with the laws of where you are located.</li>
+            <li><strong>Prohibited Use</strong>: You may not:
+                <ol class="literal-1-level">
+                    <li>intercept or monitor, damage or modify any media distribution which is not intended for you;</li>
+                    <li>use any type of spider, virus, worm, trojan-horse, time bomb or any other codes or instructions that are designed to distort, delete, damage, emulate or disassemble the Software, Products, D!ngIt Websites, communication or protocols;</li>
+                    <li>impact or attempt to impact the availability of the Software, Products or D!ngIt Websites for example, with a denial of service (DoS) or distributed denial of service (DDoS) attack;</li>
+                    <li>use or launch any automated system, including without limitation, robots, spiders or offline readers that access the Software, Products or D!ngIt Websites. Notwithstanding the foregoing, you agree that D!ngIt grants to the operators of public search engines permission to use spiders to copy materials from the D!ngIt Website for the sole purpose of creating publicly available searchable indices of the materials, but not caches or archives of such materials. D!ngIt reserves the right to revoke these exceptions at any time.</li>
+                </ol>
+            </li>
+        </ol>
+
+        <h2>Digital Millennium Copyright Act.</h2>
+        <ol class="number-2-level start-2">
+            <li>Please note that since we respect game designer, game publisher and other Content (as defined below) owner rights, it is D!ngIt’s policy to respond to notices of alleged infringement that comply with the Digital Millennium Copyright Act (the “ DMCA ”). If you believe that anything in the D!ngIt Services infringes upon any copyright that you own or control, you may file a notification of such infringement to: <a href="mailto:support@dingit.tv">support@dingit.tv<script cf-hash="f9e31" type="text/javascript">
+/* <![CDATA[ */!function(){try{var t="currentScript"in document?document.currentScript:function(){for(var t=document.getElementsByTagName("script"),e=t.length;e--;)if(t[e].getAttribute("cf-hash"))return t[e]}();if(t&&t.previousSibling){var e,r,n,i,c=t.previousSibling,a=c.getAttribute("data-cfemail");if(a){for(e="",r=parseInt(a.substr(0,2),16),n=2;a.length-n;n+=2)i=parseInt(a.substr(n,2),16)^r,e+=String.fromCharCode(i);e=document.createTextNode(e),c.parentNode.replaceChild(e,c)}}}catch(u){}}();/* ]]> */</script></a></li>
+        </ol>
+        <p>Please see <a href="http://www.law.cornell.edu/uscode/text/17/512" target="_blank">17 U.S.C. §512(c)(3)</a> for the requirements of a proper notification. You should note that if you knowingly misrepresent in your notification that the material or activity is infringing, you will be liable for any damages, including costs and attorneys' fees, incurred by us or the alleged infringer as the result of our relying upon such misrepresentation in removing or disabling access to the material or activity claimed to be infringing.</p>
+        <p>In accordance with the DMCA and other applicable laws around the world, D!ngIt has adopted a policy that it will promptly terminate without notice any user’s access to the D!ngIt Service if that user is determined by D!ngIt to be a “repeat infringer.” A repeat infringer includes, without limitation a user who has been notified by D!ngIt of infringing activity violations more than twice and/or who has had their Broadcaster Content or any other user-submitted content removed from the D!ngIt Service more than twice. D!ngIt may also at our sole discretion limit access to the D!ngIt Service and/or terminate the accounts of any users who infringe any intellectual property rights of others, whether or not there is any repeat infringement.</p>
+        <p>In addition, D!ngIt accommodates and does not interfere with standard technical measures used by intellectual property rights owners to protect their materials.</p>
+
+        <ol class="number-2-level start-2">
+            <li>User Submissions Please exercise respect when participating in any features of the D!ngIt Websites or Software such as Forums, Blogs, email functions, and/or publishing or any other function on the D!ngIt Websites or of the D!ngIt Software which allows you to post, upload, edit and/or publish content. You acknowledge and agree that: (i) by using the D!ngIt Websites and/or Software you may be exposed to content that you may find offensive or indecent and you do so at your own risk; (ii) you are solely responsible for, and D!ngIt has no responsibility to you or any third party for any User Submissions that you create, submit, post or publish on the D!ngIt Websites or through the Software; (iii) D!ngIt does not guarantee any confidentiality with respect to User Submissions, whether or not they are published (iv) D!ngIt is not responsible for any User Submissions that you may have access to through your use of the D!ngIt Websites or Software and all User Submissions are the responsibility of the person from whom such User Submissions originated. D!ngIt does not endorse any User Submissions or any opinion, recommendation, or advice expressed therein, and expressly disclaims any and all liability in connection with User Submissions.<br>
+                In connection with your User Submissions, you represent and warrant that you
+                <ol class="roman-1-level">
+                    <li>own or have the necessary licenses, rights, consents, and permissions to use and authorize D!ngIt</li>
+                    <li>to use all copyrights, trademarks, trade secrets, patents and other intellectual property or proprietary rights in and to any and all User Submissions in accordance with these Terms;</li>
+                </ol>
+                <p>and
+                    (ii) you have the written consent, release and /or permission of each and every identifiable individual person in the User Submission to use the name and/or likeness of each and every such individual in the User Submission, to enable inclusion and use thereof in the manner contemplated by these Terms. You shall not copy, post or use text, photos, pictures, music, sounds, images or any other content from any third party or source (“Third Party Content”) without specific permission from the owner. Such Third Party Content may be protected by intellectual property laws and the owners of the intellectual property rights in such content may object to its use. You must not use any Third Party Content without first obtaining the permission of the owner of the intellectual property rights in such content.</p>
+                <p>If, at any time you choose to upload or post User Submissions to the D!ngIt Websites or through the Software (excluding Reports and excluding the content of your communications) you automatically grant D!ngIt a non-exclusive, worldwide, irrevocable, royalty-free, perpetual, sub-licensable and transferable license of all rights to use, edit, modify, include, incorporate, adapt, record, publicly perform, display, transmit and reproduce the User Submissions including, without limitation, all trademarks associated therewith, in connection with the D!ngIt Websites and D!ngIt’s Software and Products including for the purpose of promoting or redistributing part or all of the D!ngIt Websites and/or the Software or Products, in any and all media now known or hereafter devised. You also hereby grant each user of the D!ngIt Website and/or D!ngIt’s Software or Products a non-exclusive license to access your User Submission through the D!ngIt Website and/or Software or Products and to use, copy, distribute, prepare derivative works of, display, perform and transmit such User Submissions solely as permitted through the functionality of the D!ngIt Websites and/or Software or Products and pursuant to these Terms of Use. In addition, you waive any so-called “moral rights” in and to the User Submissions, to the extent permitted by applicable law.</p>
+                <p>You may not submit or publish through the D!ngIt Website or Software any User Submissions that are libelous, defamatory, harassing, hateful, an invasion of privacy, obscene, abusive, illegal, racist, offensive, harmful to a minor or an infringement of any intellectual property rights or a trade secret of a third party, or would otherwise violate the rights of any third party or give rise to civil or criminal liability. Furthermore, you may not submit or publish User Submissions that contain falsehoods or misrepresentations, solicit funds or services, contain advertising, promotional materials, junk mail, spam, chain letters or any form of solicitation, impersonate others or include programs that contain viruses or any other programs designed to impair the functionality of any computer. You agree not to solicit, for commercial purposes, any users of the D!ngIt Website or Software with respect to their User Submissions. You agree not to circumvent, disable or otherwise interfere with the security related features of the D!ngIt Website or Software or features that prevent or restrict the use of any content thereof.</p>
+            </li>
+            <li><strong>No Reselling</strong>. The Software and Products are for your individual use. You shall not resell or commercialize the Software and/or Products to any third party.</li>
+            <li><strong>Import and export</strong>. You agree to fully comply with all local export and import laws, regulations, rules and orders, or any government agency or authority, and not to directly or indirectly export, re-export, transfer, or release the Software, any other commodities, software or technology received from D!ngIt, or any direct product thereof, for any proscribed end-use, or to any proscribed country, entity or person (wherever located), without proper authorization from the relevant government. You further agree to assume responsibility for and bear all expenses relating to your compliance with the described laws, regulations, rules and orders, and obtaining all necessary authorizations and clearances.</li>
+        </ol>
+        <br>
+        <h2>PROPRIETARY RIGHTS</h2>
+        <ol class="number-2-level start-2">
+            <li>The Software, Products and D!ngIt Websites contain proprietary and confidential information that is protected by intellectual property laws and treaties.</li>
+            <li>The content and compilation of content included on the D!ngIt Websites, (excluding User Submissions) such as sounds, text, graphics, logos, icons, images, audio clips, digital downloads and software, are the property of D!ngIt, its affiliates or licensors and are protected by United States and international copyright laws. Such copyright protected content cannot be reproduced without D!ngIt’s express permission. D!ngIt reserves all rights not expressly granted in the D!ngIt Websites.</li>
+            <li>D!ngIt and/or its licensors retain exclusive ownership of the Software, Products and D!ngIt Websites and all intellectual property therein (whether or not registered and anywhere in the world). You will not take any action to jeopardize, limit or interfere with D!ngIt’s intellectual property rights in the Software, Products and/or D!ngIt Websites.</li>
+            <li>“D!ngIt”, associated trademarks and logos and the “Infinity” logo are trademarks of D!ngIt. D!ngIt has registered and filed applications to register its trademarks in many countries worldwide. D!ngIt’s trademarks and trade dress may not be used in connection with any product or service that is not D!ngIt’s, in any manner that is likely to cause confusion among customers, or in any manner that disparages or discredits D!ngIt. All other trademarks not owned by D!ngIt or its affiliates that appear on the D!ngIt Website are the property of their respective owners. You are not permitted to and shall not register or use any trade name, trademark, logo, domain name or any other name or sign that incorporates any of D!ngIt’s intellectual property (in whole or part) or that is confusingly similar thereto. </li>
+            <li>You may not use any metatags or any other hidden text utilizing “D!ngIt” or any other name, trademark or product or service name of D!ngIt without our prior written permission. In addition, the look and feel of the D!ngIt Service, including all page headers, custom graphics, button icons and scripts, is the service mark, trademark and/or trade dress of D!ngIt and may not be copied, imitated or used, in whole or in part, without our prior written permission. All other trademarks, registered trademarks, product names and company names or logos mentioned in the D!ngIt Service are the property of their respective owners. Reference to any products, services, processes or other information, by trade name, trademark, manufacturer, and supplier or otherwise does not constitute or imply endorsement, sponsorship or recommendation thereof by us or any other affiliation.</li>
+        </ol>
+
+        <h2>3. Broadcasters.</h2>
+        <p>D!ngIt allows certain users (“<strong>Broadcaster</strong>”) to distribute streaming live and pre-recorded videos of video game related activities.</p>
+        <ol class="number-2-level start-3 reset">
+            <li><strong>License from D!ngIt.</strong>
+                <p>If you sign up for an account as a Broadcaster, subject to your compliance with these Terms of Service, D!ngIt hereby grants to you a personal, limited, non-exclusive, non-transferable, freely revocable license to use the D!ngIt Service for the uploading and distributing of authorized digital content, including videos (“ <strong>Broadcaster Content</strong>”).</p>
+            </li>
+            <li><strong>License to D!ngIt</strong>
+                <p>Unless otherwise agreed to in a written agreement between you and D!ngIt that was signed by an authorized representative of D!ngIt:</p>
+                <ol class="literal-1-level">
+                    <li>By distributing or disseminating Broadcaster Content through the D!ngIt Service, you hereby grant to D!ngIt a worldwide, nonexclusive, royalty-free, perpetual, transferable and fully sublicensable right to use, host, convert for streaming, reproduce, modify, adapt, publish, translate, create derivative works from, distribute, perform, display and otherwise exploit your Broadcaster Content, in any form, format, media or media channels now known or later developed or discovered. You grant D!ngIt and our sublicensees the right to use the name that you submit in connection with that content, if we or they choose.</li>
+                </ol>
+            </li>
+            <li><strong>Broadcaster Content Representations and Warranties.</strong>
+                <p>You are solely responsible for your Broadcaster Content and the consequences of posting or publishing it. By uploading and publishing your Broadcaster Content, you represent, and warrant that: (1) you are the creator and owner of the Broadcaster Content or otherwise have sufficient rights and authority to grant the rights granted herein; (2) your Broadcaster Content does not and will not (a) infringe, violate, or misappropriate any third-party right, including any copyright, trademark, patent, trade secret, moral right, privacy right, right of publicity, or any other intellectual property or proprietary right or (b) slander, defame, or libel any other person; (3) your Broadcaster Content does not contain any viruses, adware, spyware, worms, or other harmful or malicious code or (4) unless you have received prior written authorization, your Broadcaster Content specifically does not contain any prerelease or non-public beta software or game content or any confidential information of D!ngIt or third parties. D!ngIt reserves all rights and remedies against any Broadcasters who breach these representations and warranties.</p>
+            </li>
+            <li><strong>Content is Uploaded at Your Own Risk.</strong>
+                <p>D!ngIt uses reasonable security measures in order to attempt to protect Broadcaster Content. However D!ngIt cannot guarantee that there will be no unauthorized copying or distribution of Broadcaster Content nor will D!ngIt be liable for any copying or usage of the Broadcaster Content not authorized by D!ngIt. You hereby release and forever waive any claims you may have against D!ngIt for any such unauthorized copying or usage of the Broadcaster Content, under any theory. THE SECURITY MEASURES TO PROTECT BROADCASTER CONTENT USED BY D!NGIT HEREIN ARE PROVIDED AND USED “AS-IS” AND WITH NO WARRANTIES OR ASSURANCES THAT SUCH SECURITY MEASURES WILL WITHSTAND ATTEMPTS TO EVADE SECURITY MECHANISMS OR THAT THERE WILL BE NO CRACKS, DISABLEMENTS OR OTHER CIRCUMVENTION OF SUCH SECURITY MEASURES.</p>
+            </li>
+            <li><strong>Prevention of Unauthorized Use of Broadcaster account.</strong>
+                <p>Unless expressly permitted in writing by D!ngIt, you may not sell, rent, lease, share or provide access to your Broadcaster account to any third party, including without limitation charging any remuneration (e.g. money) to any third party for access to administrative rights on your Broadcaster account. D!ngIt reserves all available legal rights and remedies to prevent unauthorized use of the D!ngIt Service, including, but not limited to, technological barriers, IP mapping, and in serious cases directly contacting your Internet Service Provider (ISP) regarding such unauthorized use.</p>
+            </li>
+            <li><strong>Promotions</strong>
+                <p>Broadcasters may promote, administer or conduct a promotion on, through or utilizing D!ngIt (a “Promotion”). If you are a Broadcaster and you choose to promote, administer or conduct a Promotion, you must follow the following rules:</p>
+                <ol class="literal-1-level">
+                    <li>You may carry out Promotions to the extent permitted by applicable local law and you are solely responsible for ensuring that you and any Promotions comply with any and all applicable local law obligations and restrictions.</li>
+                    <li>You, at your expense, will be solely responsible for all aspects of your Promotion, including, without limitation, the execution, administration, and operation of the Promotion; drafting and posting any official rules; selecting winners; issuing prizes; and obtaining all necessary third-party permissions and approvals, including, without limitation, filing any and all necessary registrations and bonds. D!ngIt has the right to remove your Promotion from the D!ngIt Service for any reason.</li>
+                    <li>D!ngIt is not responsible for and does not endorse or support any such Promotions. You may not indicate that D!ngIt is a sponsor or co-sponsor of the Promotion.</li>
+                </ol>
+            </li>
+        </ol>
+
+        <h2>4. Prohibited Conduct.</h2>
+        <p>The D!ngIt Services may include interactive areas or services (“ Interactive Areas ”), such as chat boxes or web forums, in which you or other users may create, post or store content, messages, materials, data, information, text, music, sound, photos, video, graphics, applications, code or other items or materials on the D!ngIt Services (“ User Content ” and collectively with Broadcaster Content, “ Content ”). You are solely responsible for your use of such Interactive Areas and use them at your own risk. BY USING THE D!NGIT SERVICE, INCLUDING THE INTERACTIVE AREAS, YOU AGREE NOT TO violate any law, contract, intellectual property or other third-party right or commit a tort, and that you are solely responsible for your conduct while on the D!ngIt Service. You agree that you will abide by these Terms of Service.</p>
+        <p>You agree that you will comply with these Terms of Service and will not:</p>
+        <ol class="number-2-level start-4 reset">
+            <li>use the D!ngIt Service for any purposes except to disseminate or receive original or appropriately licensed content and/or to access the D!ngIt Service;</li>
+            <li>rent, lease, loan, sell, resell, sublicense, distribute or otherwise transfer the licenses granted in these Terms of Service or any Materials (as defined in section 4);</li>
+            <li>post, upload, or distribute any defamatory, libelous, or inaccurate Content;</li>
+            <li>impersonate any person or entity, falsely claim an affiliation with any person or entity, or access the D!ngIt Service accounts of others without permission, forge another persons’ digital signature, misrepresent the source, identity, or content of information transmitted via the D!ngIt Service, or perform any other similar fraudulent activity;</li>
+            <li>delete the copyright or other proprietary rights notices on the D!ngIt Service or Content;</li>
+            <li>make unsolicited offers, advertisements, proposals, or send junk mail or spam to other Users of the D!ngIt Service, including, without limitation, unsolicited advertising, promotional materials, or other solicitation material, bulk mailing of commercial advertising, chain mail, informational announcements, charity requests, petitions for signatures, or any of the preceding things related to promotional giveaways (such as raffles and contests), and other similar activities;</li>
+            <li>harvest or collect the email addresses or other contact information of other users from the D!ngIt Service for the purpose of sending spam or other commercial messages;</li>
+            <li>use the D!ngIt Service for any illegal purpose, or in violation of any local, state, national, or international law, including, without limitation, laws governing intellectual property and other proprietary rights, and data protection and privacy;</li>
+            <li>defame, harass, abuse, threaten or defraud Users of the D!ngIt Service, or collect, or attempt to collect, personal information about Users or third parties without their consent;</li>
+            <li>remove, circumvent, disable, damage or otherwise interfere with security-related features of the D!ngIt Service or Content, features that prevent or restrict use or copying of any content accessible through the D!ngIt Service, or features that enforce limitations on the use of the D!ngIt Service or Content;</li>
+            <li>reverse engineer, decompile, disassemble or otherwise attempt to discover the source code of the D!ngIt Service or any part thereof, except and only to the extent that this activity is expressly permitted by the law of your country of residence;</li>
+            <li>modify, adapt, translate or create derivative works based upon the D!ngIt Service or any part thereof, except and only to the extent that such activity is expressly permitted by applicable law notwithstanding this limitation;</li>
+            <li>intentionally interfere with or damage operation of the D!ngIt Service or any user’s enjoyment of them, by any means, including uploading or otherwise disseminating viruses, adware, spyware, worms, or other malicious code;</li>
+            <li>relay email from a third party’s mail servers without the permission of that third party;</li>
+            <li>use any robot, spider, scraper, crawler or other automated means to access the D!ngIt Service for any purpose or bypass any measures D!ngIt may use to prevent or restrict access to the D!ngIt Service;</li>
+            <li>manipulate identifiers in order to disguise the origin of any Content transmitted through the D!ngIt Service;</li>
+            <li>interfere with or disrupt the D!ngIt Service or servers or networks connected to the D!ngIt Service, or disobey any requirements, procedures, policies or regulations of networks connected to the D!ngIt Service; use the D!ngIt Service in any manner that could interfere with, disrupt, negatively affect or inhibit other users from fully enjoying the D!ngIt Service, or that could damage, disable, overburden or impair the functioning of the D!ngIt Service in any manner;</li>
+            <li>use or attempt to use another user's account without authorization from that user and D!ngIt;</li>
+            <li>attempt to circumvent any content filtering techniques we employ, or attempt to access any service or area of the D!ngIt Service that you are not authorized to access; or</li>
+            <li>attempt to indicate in any manner that you have a relationship with us or that we have endorsed you or any products or services for any purpose.
+            </li>
+        </ol>
+        <ol class="number-2-level start-4">
+            <li>Content that would constitute, encourage or provide instructions for a criminal offense, violate the rights of any party, or that would otherwise create liability or violate any local, state, national or international law or regulation;</li>
+            <li>Content that may infringe any patent, trademark, trade secret, copyright or other intellectual or proprietary right of any party. By posting any Content, you represent and warrant that you have the lawful right to distribute and reproduce such Content;</li>
+            <li>Content that is unlawful, libelous, defamatory, obscene, pornographic, indecent, lewd, suggestive, harassing, threatening, invasive of privacy or publicity rights, abusive, inflammatory, fraudulent or otherwise objectionable;</li>
+            <li>Content that impersonates any person or entity or otherwise misrepresents your affiliation with a person or entity;</li>
+            <li>private information of any third party, including, without limitation, addresses, phone numbers, email addresses, Social Security numbers and credit card numbers;</li>
+            <li>viruses, corrupted data or other harmful, disruptive or destructive files; and</li>
+            <li>Content that, in the judgment of D!ngIt, is objectionable or which restricts or inhibits any other person from using or enjoying the Interactive Areas or the D!ngIt Service, or which may expose D!ngIt or our users to any harm or liability.</li>
+            <li>D!ngIt takes no responsibility and assumes no liability for any Content posted, stored or uploaded by you or any third party, or for any loss or damage thereto, nor is D!ngIt liable for any mistakes, defamation, slander, libel, omissions, falsehoods, obscenity, pornography or profanity you may encounter. Your use of the D!ngIt Service is at your own risk. Enforcement of the user content or conduct rules set forth in these Terms of Service is solely at D!ngIt's discretion, and failure to enforce such rules in some instances does not constitute a waiver of our right to enforce such rules in other instances. In addition, these rules do not create any private right of action on the part of any third party or any reasonable expectation that the D!ngIt Service will not contain any content that is prohibited by such rules. As a provider of interactive services, D!ngIt is not liable for any statements, representations or Content provided by our users in any public forum, personal home page or other Interactive Area. D!ngIt does not endorse any Content or any opinion, recommendation or advice expressed therein, and D!ngIt expressly disclaims any and all liability in connection with Content. Although D!ngIt has no obligation to screen, edit or monitor any of the Content posted in any Interactive Area, D!ngIt reserves the right, and has absolute discretion, to remove, screen or edit any Content posted or stored on the D!ngIt Service at any time and for any reason without notice, and you are solely responsible for creating backup copies of and replacing any Content you post or store on the D!ngIt Service at your sole cost and expense. Any use of the Interactive Areas or other portions of the D!ngIt Service in violation of the foregoing violates these Terms and may result in, among other things, termination or suspension of your rights to use the Interactive Areas and/or the D!ngIt Service.</li>
+            <li><strong>Rights in User Content</strong>
+                <p>If you submit or post User Content to the D!ngIt Service you grant D!ngIt a worldwide, nonexclusive, royalty-free, perpetual, irrevocable and fully sublicensable right to use, reproduce, modify, adapt, publish, translate, create derivative works from, distribute, perform and display such User Content in any form, format, media or media channels now known or hereafter developed or discovered. You grant D!ngIt and our sublicenses the right to use the name that you submit in connection with such content, if we or they choose.</p>
+                <p>By submitting or posting User Content to the D!ngIt Service, you agree that: (a) such User Content is non-confidential; (b) you own and control all of the rights to the User Content that you post or you otherwise have all necessary rights to post such User Content to the D!ngIt Service; (c) the User Content is accurate and not misleading or harmful in any manner; and (d) the User Content, and your use and posting of that User Content in connection with the D!ngIt Service, does not and will not violate these Terms of Service or any applicable law, rule or regulation in your country or elsewhere</p>
+            </li>
+        </ol>
+
+        <h2>Account</h2>
+        <p><strong>Account and Password.</strong></p>
+        <p>You may wish to open a D!ngIt account with us for a number of reasons, including a more personalized D!ngIt experience or to upload and/or download or purchase content or any products, services, or information from D!ngIt.</p>
+        <p>In order to open an account, you will asked to provide us with certain information like an account name and password (all of which will be protected by our Privacy Policy).</p>
+        <p>Once you have a D!ngIt account you can purchase products and services (including subscriptions) via D!ngIt.</p>
+        <p>While D!ngIt uses reasonable security precautions, you are solely responsible for maintaining the confidentiality of your account and password, for restricting access to your computer and for all activities that occur under your account or password. Please make sure you provide to D!ngIt on registration and at all other times information which will be true, accurate, current, complete and kept up to date to the best of your ability.</p>
+        <p>If you have reason to believe that your account is no longer secure (e.g., in the event of a loss, theft or unauthorized disclosure or use of your account ID, password, or any credit, debit or charge card number, if applicable), then you must immediately notify D!ngIt at <a href="mailto:legal@dingit.tv">legal@DingIt.tv<script cf-hash="f9e31" type="text/javascript">
+/* <![CDATA[ */!function(){try{var t="currentScript"in document?document.currentScript:function(){for(var t=document.getElementsByTagName("script"),e=t.length;e--;)if(t[e].getAttribute("cf-hash"))return t[e]}();if(t&&t.previousSibling){var e,r,n,i,c=t.previousSibling,a=c.getAttribute("data-cfemail");if(a){for(e="",r=parseInt(a.substr(0,2),16),n=2;a.length-n;n+=2)i=parseInt(a.substr(n,2),16)^r,e+=String.fromCharCode(i);e=document.createTextNode(e),c.parentNode.replaceChild(e,c)}}}catch(u){}}();/* ]]> */</script></a>.</p>
+        <br>
+        <h2>ENDING YOUR RELATIONSHIP WITH D!NGIT</h2>
+        <ol class="number-2-level start-4">
+            <li>You may terminate your relationship with D!ngIt at any time and without recourse to the courts by ceasing to use the Software, Products and/or D!ngIt Websites and removing the Software from your computer or device. Instructions for removing D!ngIt from your computer can be found here:
+                <a href="http://www.dingit.tv/uninstall" target="_blank">http://www.dingit.tv/uninstall</a></li>
+            <li>D!ngIt may terminate its relationship with you, or may terminate or suspend your use of the Software, Products or D!ngIt Websites at any time and without recourse to the courts:
+                <ol class="literal-1-level">
+                    <li>if you are in breach of these Terms;</li>
+                    <li>if D!ngIt reasonably suspects that you are using the Software, the Products and/or D!ngIt Websites to break the law or infringe third party rights;</li>
+                    <li>if D!ngIt reasonably suspects that you are trying to unfairly exploit or misuse any of our policies;</li>
+                    <li>if D!ngIt reasonably suspects that you have or are trying to breach any copyrights, patent rights or any proprietary rights of the D!ngIt software or technology;</li>
+                    <li>if D!ngIt reasonably suspects that you are using our Products, Software and/or D!ngIt Websites fraudulently;</li>
+                    <li>in respect of a particular Product, on thirty (30) days’ notice if D!ngIt decides to cease offering that Product;</li>
+                    <li>immediately, if required due to a change in laws/regulation by a regulator or authority with a lawful mandate, or by any of D!ngIt’s partners;</li>
+                    <li>immediately,  if D!ngIt decides to cease offering the Software to users in your jurisdiction generally.</li>
+                </ol>
+            </li>
+            <li>D!ngIt shall effect such termination by disabling the functionality of the Software, Products and/or D!ngIt Websites (as applicable). </li>
+            <li><strong>Consequences of Termination:</strong> Upon termination of your relationship with D!ngIt: (a) all licenses and rights to use the Software, Products and/or D!ngIt Websites shall immediately terminate; (b) you will immediately cease any and all use of the Software, Products and/or D!ngIt Websites; and (c) you will immediately remove the Software from all hard drives, networks and other storage media and destroy all copies of the Software in your possession or under your control.</li>
+        </ol>
+
+        <ol class="number-2-level start-4">
+            <li><strong>Indemnification.</strong>
+                <p>The following section only applies to you if you are resident in the USA or elsewhere in the world (but does not apply if you are a consumer resident in the European Union):</p>
+                <p>You agree to indemnify, defend, and hold harmless D!ngIt, its affiliated companies, contractors, employees, agents and its third-party suppliers, licensors, and partners from any claims, losses, damages, liabilities, including legal fees and expenses, arising out of your use or misuse of the D!ngIt Service, any Content you post, store or otherwise transmit in or through the D!ngIt Service, your violation of the rights of any third party, any violation by you of these Terms of Service, or any breach of the representations, warranties, and covenants made by you herein. D!ngIt reserves the right, at your expense, to assume the exclusive defense and control of any matter for which you are required to indemnify D!ngIt, and you agree to cooperate with D!ngIt’s defense of these claims. D!ngIt will use reasonable efforts to notify you of any such claim, action, or proceeding upon becoming aware of it. If you are a Broadcaster, the forgoing indemnity includes, without limitation, any claims, losses, damages, liabilities, including legal fees and expenses, arising out of your Promotions or Broadcaster Content.</p>
+            </li>
+        </ol>
+        <br>
+        <h2>EXCLUSION OF WARRANTIES, LIMITATION OF LIABILITY AND INDEMNITY</h2>
+        <ol class="number-2-level start-4">
+            <li>
+                For the purposes of this paragraph 10, "D!ngIt" includes its subsidiary companies and affiliated legal entities and all their directors, officers, agents, licensors and employees.
+            </li>
+        </ol>
+        <p>No Warranties: TO THE MAXIMUM EXTENT PERMITTED BY LAW: THE SOFTWARE, PRODUCTS AND DINGITWEBSITES ARE PROVIDED “AS IS” AND USED AT YOUR SOLE RISK WITH NO WARRANTIES WHATSOEVER; DINGITDOES NOT MAKE ANY WARRANTIES, CLAIMS OR REPRESENTATIONS AND EXPRESSLY DISCLAIMS ALL SUCH WARRANTIES OF ANY KIND, WHETHER EXPRESS, IMPLIED OR STATUTORY, WITH RESPECT TO THE SOFTWARE, PRODUCTS AND/OR DINGITWEBSITES INCLUDING, WITHOUT LIMITATION, WARRANTIES OR CONDITIONS OF QUALITY, PERFORMANCE, NON-INFRINGEMENT, MERCHANTABILITY, OR FITNESS FOR USE FOR A PARTICULAR PURPOSE. DINGITFURTHER DOES NOT REPRESENT OR WARRANT THAT THE SOFTWARE, PRODUCTS AND/OR DINGITWEBSITES WILL ALWAYS BE AVAILABLE, ACCESSIBLE, UNINTERRUPTED, TIMELY, SECURE, ACCURATE, COMPLETE AND ERROR-FREE OR WILL OPERATE WITHOUT PACKET LOSS, NOR DOES DINGITWARRANT ANY CONNECTION TO OR TRANSMISSION FROM THE INTERNET, OR ANY QUALITY OF MEDIA DISTRIBUTION MADE THROUGH THE SOFTWARE. D!NGIT CANNOT AND DOES NOT REPRESENT OR WARRANT THAT THE D!NGIT SERVICE OR OUR SERVER(S) ARE FREE OF VIRUSES OR OTHER HARMFUL COMPONENTS, AND THEREFORE, YOU SHOULD USE INDUSTRY-RECOGNIZED SOFTWARE TO DETECT AND DISINFECT VIRUSES FROM ANY DOWNLOAD. NO ADVICE OR INFORMATION, WHETHER ORAL OR WRITTEN, OBTAINED BY YOU FROM D!NGIT OR THROUGH THE D!NGIT SERVICE WILL CREATE ANY WARRANTY NOT EXPRESSLY STATED HEREIN. YOU EXPRESSLY ACKNOWLEDGE THAT AS USED IN THIS SECTION 17, THE TERM “D!NGIT” INCLUDES D!NGIT’S OFFICERS, DIRECTORS, EMPLOYEES, SHAREHOLDERS, AGENTS, LICENSORS AND SUBCONTRACTORS.</p>
+
+        <ol class="number-2-level start-4">
+            <li>Nothing in these Terms shall exclude or restrict D!ngIt's liability for (a) death or personal injury, (b) loss resulting from D!ngIt's wilful default or gross negligence, (c) fraud or deliberate misrepresentation, or (d) any liability, which cannot be limited or excluded by applicable law.</li>
+            <li><strong>No Liability:</strong> YOU ACKNOWLEDGE AND AGREE THAT DINGITWILL HAVE NO LIABILITY WHATSOEVER, WHETHER IN CONTRACT, TORT (INCLUDING NEGLIGENCE) OR ANY OTHER THEORY OF LIABILITY, AND WHETHER OR NOT THE POSSIBILITY OF SUCH DAMAGES OR LOSSES HAS BEEN NOTIFIED TO D!NGIT, IN CONNECTION WITH OR ARISING FROM YOUR USE OF D!NGIT WEBSITES, OR THE INTERNET COMMUNICATIONS SOFTWARE OR OTHER SOFTWARE THAT IS PROVIDED FREE OF CHARGE. YOUR ONLY RIGHT OR REMEDY WITH RESPECT TO ANY PROBLEMS OR DISSATISFACTION WITH SUCH SOFTWARE AND/OR D!NGIT WEBSITES IS TO IMMEDIATELY DEINSTALL SUCH SOFTWARE AND CEASE USE OF SUCH SOFTWARE AND/OR D!NGIT WEBSITES.</li>
+            <li>
+                <strong>Limitation of Liability:</strong> Subject to paragraphs  10.3 - 10.4 above, D!ngIt shall not be liable to you, whether in contract, tort (including negligence) or any other theory of liability, and whether or not the possibility of such damages or losses has been notified to D!ngIt, for:
+                <ol class="literal-1-level">
+                    <li>any indirect, special, incidental or consequential damages; or</li>
+                    <li>any loss of income, business, actual or anticipated profits, opportunity, goodwill or reputation (whether direct or indirect); or</li>
+                    <li>any damage to or corruption of data (whether direct or indirect);</li>
+                    <li>any claim, damage or loss (whether direct or indirect) arising from or relating to:</li>
+                    <li>your inability to use the Software,</li>
+                    <li>any claim, damage or loss (whether direct or indirect) arising from or relating to:</li>
+                    <li>any product or service provided by a third party under their own terms of service;</li>
+                    <li>any Third Party Technology;</li>
+                    <li>any third party website.</li>
+                </ol>
+            </li>
+            <li>Subject to paragraphs 10.3 - 10.5 above, D!ngIt’s total liability to you under or in connection with these Terms (whether in contract, tort (including negligence) or any other theory of liability)) SHALL NOT EXCEED IN AGGREGATE THE AMOUNT PAID BY YOU FOR THE PRODUCTS IN THE 12 MONTH PERIOD IMMEDIATELY PRIOR TO THE DATE OF THE EVENT GIVING RISE TO THE RELEVANT CLAIM.</li>
+            <li>If any third party brings a claim against D!ngIt in connection with, or arising out of (i) your breach of these Terms; (ii) your breach of any applicable law of regulation; (iii) your infringement or violation of the rights of any third parties (including intellectual property rights); (iv) your User Submissions or (v) your complaint in relation to any User Submission, you will indemnify and hold D!ngIt harmless from and against all damages, liability, loss, costs and expenses (including reasonable legal fees and costs) related to such claim.</li>
+            <li><strong>Basis of the Bargain.</strong>
+                <p>YOU ACKNOWLEDGE AND AGREE THAT D!NGIT HAS OFFERED THE D!NGIT SERVICES, BROADCASTER CONTENT, MATERIALS AND OTHER CONTENT AND INFORMATION, SET ITS PRICES, AND ENTERED INTO THESE TERMS OF SERVICE IN RELIANCE UPON THE WARRANTY DISCLAIMERS AND THE LIMITATIONS OF LIABILITY SET FORTH HEREIN, THAT THE WARRANTY DISCLAIMERS AND THE LIMITATIONS OF LIABILITY SET FORTH HEREIN REFLECT A REASONABLE AND FAIR ALLOCATION OF RISK BETWEEN YOU AND D!NGIT, AND THAT THE WARRANTY DISCLAIMERS AND THE LIMITATIONS OF LIABILITY SET FORTH HEREIN FORM AN ESSENTIAL BASIS OF THE BARGAIN BETWEEN YOU AND D!NGIT. D!NGIT WOULD NOT BE ABLE TO PROVIDE THE D!NGIT SERVICE TO YOU ON AN ECONOMICALLY REASONABLE BASIS WITHOUT THESE LIMITATIONS.</p>
+            </li>
+        </ol>
+        <br>
+        <h2>THIRD PARTY WEBSITES PRODUCTS AND SERVICES</h2>
+        <ol class="number-2-level start-4">
+            <li>Third parties may offer products or services via the Software and/or D!ngIt Websites. Whilst D!ngIt takes no responsibility for such products or services, if you encounter any problems with payment for or download, use of installation of such products or services, D!ngIt will use commercially reasonable endeavours to assist or resolve the problems. The third party products or services may be subject to the third party provider’s own terms and privacy policy that you may have to accept upon download or installation. You should review such terms before making any purchase or using any third party product or service and D!ngIt shall not be responsible for your failure to do so.</li>
+            <li>You acknowledge and agree that any third party product information and pricing that is shown on the D!ngIt Websites regarding third party products and services is given to D!ngIt by the applicable third party merchant (“Merchant”). The Merchant has the ability to change their pricing or terminate their product availability at any time. D!ngIt is not involved in any transactions between you and any Merchant whose products and/or services are listed on the D!ngIt Websites. D!ngIt does not control, is not responsible for and does not guarantee: (i) the pricing, quality, performance, availability or terms and conditions of purchase of products or services provided by the Merchant; (ii) any payment transactions, delivery, returns or after sales activities related to the products or services purchased on the Merchants’ websites; (iii) the availability of the Merchant’s websites; (iv) the completeness, truth or accuracy of any advertising or other materials on, or available from, the Merchants’ websites, nor any listing or other content about such products and services displayed on the D!ngIt Websites; (v) links to the Merchants’ websites that are featured on the D!ngIt Websites. Any questions, complaints, or claims related to any product or service provided by a Merchant should be directed to the applicable Merchant.</li>
+            <li>The Software and D!ngIt Websites may include hyperlinks to other third party websites. D!ngIt is not responsible for such third party websites or the availability of such websites and does not endorse any content or material on such third party websites. Your use of each of these third party websites is subject to the terms and conditions posted on the applicable website.</li>
+        </ol>
+        <br>
+        <h2>YOUR CONFIDENTIAL INFORMATION AND YOUR PRIVACY</h2>
+        <ol class="number-2-level start-4">
+            <li>D!ngIt is committed to respecting your privacy and the confidentiality of your personal information. We will process your personal information, the traffic data in accordance with our Privacy Policy: <a href="http://www.dingit.tv/legal/privacy">http://www.DingIt.tv/legal/privacy</a></li>
+        </ol>
+        <br>
+        <h2>HOW TO CONTACT D!NGIT</h2>
+        <ol class="number-2-level start-4">
+            <li>To contact D!ngIt in relation to the D!ngIt Software or “D!ngIt” branded Products, please submit a support request to: <a href="mailto:support@dingit.tv">support@dingit.tv<script cf-hash="f9e31" type="text/javascript">
+/* <![CDATA[ */!function(){try{var t="currentScript"in document?document.currentScript:function(){for(var t=document.getElementsByTagName("script"),e=t.length;e--;)if(t[e].getAttribute("cf-hash"))return t[e]}();if(t&&t.previousSibling){var e,r,n,i,c=t.previousSibling,a=c.getAttribute("data-cfemail");if(a){for(e="",r=parseInt(a.substr(0,2),16),n=2;a.length-n;n+=2)i=parseInt(a.substr(n,2),16)^r,e+=String.fromCharCode(i);e=document.createTextNode(e),c.parentNode.replaceChild(e,c)}}}catch(u){}}();/* ]]> */</script></a></li>
+            <li>If you contact D!ngIt by any means other than as set out in paragraphs 13.1 your request may not be acknowledged.</li>
+        </ol>
+        <br>
+        <h2>MISCELLANEOUS</h2>
+        <ol class="number-2-level start-4">
+            <li>You agree to the use of electronic communication in order to enter into contracts and create other records and to the electronic delivery of notices, policies and changes thereto and records of transactions with D!ngIt.</li>
+            <li>For your convenience, D!ngIt may provide you with a translation of the English language version of these Terms. In the event of any inconsistency between a non-English version of these Terms and the English version, the English version shall govern your relationship with D!ngIt.</li>
+            <li>These Terms constitute the entire agreement between you and D!ngIt with respect to your use of the Software, Products and/or D!ngIt Websites and replace any prior agreements between you and D!ngIt with respect to the Software, Products and/or D!ngIt Websites.</li>
+            <li>If any provision of these Terms (or part of it), is found by any court or administrative body of competent jurisdiction to be illegal, invalid or unenforceable, then such provision (or part of it) shall be removed from the Terms without affecting the legality, validity or enforceability of the remainder of the Terms.</li>
+            <li>The failure by D!ngIt to exercise, or delay in exercising, a legal right or remedy provided by these Terms or by law shall not constitute a waiver of D!ngIt’s right or remedy. If D!ngIt waives a breach of these Terms, this shall not operate as a waiver of a subsequent breach of the Terms.</li>
+            <li>You may not assign these Terms or any rights or obligations contained in them. D!ngIt may, without prior notice, assign these Terms or any rights or obligations contained in them to any third party.</li>
+            <li>This paragraph 14, along with paragraphs, 4.2, 10 and any other provisions, which are expressed or clearly intended to survive or operate in the event of termination, shall survive termination of the Terms.</li>
+            <li>You acknowledge and agree that if D!ngIt is unable to provide the Software, Products and/or D!ngIt Websites as a result of a force majeure event, D!ngIt will not be in breach of any of its obligations towards you under these Terms. A force majeure event means any event beyond the control of D!ngIt.</li>
+        </ol>
+
+        <h2>Applicable Law and Venue</h2>
+        <p>PLEASE READ THE FOLLOWING PARAGRAPH CAREFULLY BECAUSE IT REQUIRES YOU TO ARBITRATE DISPUTES WITH D!NGIT AND LIMITS THE MANNER IN WHICH YOU CAN SEEK RELIEF FROM D!NGIT.</p>
+        <p>You and D!ngIt agree to arbitrate any dispute arising from these Terms of Service or your use of the D!ngIt Service, except that you and D!ngIt are not required to arbitrate any dispute in which either party seeks equitable and other relief for the alleged unlawful use of copyrights, trademarks, trade names, logos, trade secrets, or patents. ARBITRATION PREVENTS YOU FROM SUING IN COURT OR FROM HAVING A JURY TRIAL. You and D!ngIt agree that you will notify each other in writing of any dispute within thirty (30) days of when it arises. Notice to D!ngIt shall be sent to DingMedia Ltd., Prinsenhil 29, 4825 AX Breda, The Netherlands.  You and D!ngIt further agree: to attempt informal resolution prior to any demand for arbitration; that any arbitration will occur in London, United Kingdom; that arbitration will be conducted confidentially by a single arbitrator in accordance with the rules of ICC; and that the courts of London, England shall have exclusive jurisdiction over any appeals of an arbitration award and over any suit between the parties not subject to arbitration. Other than class procedures and remedies discussed below, the arbitrator has the authority to grant any remedy that would otherwise be available in court. Any dispute between the parties will be governed by this Agreement and the laws of the United Kingdom and applicable English law, without giving effect to any conflict of laws principles that may provide for the application of the law of another jurisdiction. Whether the dispute is heard in arbitration or in court, you and D!ngIt will not commence against the other a class action, class arbitration or other representative action or proceeding.</p>
+        <ol class="literal-1-level">
+            <li><strong>Waiver.</strong>
+                The failure of either you or us to exercise or enforce any right or provision of these Terms of Service will not constitute a waiver of such right or provision. Any waiver of any provision of these Terms of Service will be effective only if in writing and signed by the relevant party.
+            </li>
+            <li><strong>Severability.</strong>
+                If any provision of these Terms of Service or any guidelines is held to be unlawful, void, or for any reason unenforceable, then for both you and us that provision will be limited or eliminated from these Terms of Service to the minimum extent necessary and will not affect the validity and enforceability of any remaining provisions.
+            </li>
+            <li><strong>Assignment.</strong>
+                These Terms of Service and related Guidelines, and any rights and licenses granted hereunder, may not be transferred or assigned by you, but may be assigned by D!ngIt without restriction. Any assignment attempted to be made in violation of this Terms of Service shall be void.
+            </li>
+            <li><strong>Survival.</strong>
+                <p>Upon termination of these Terms of Service, any provision which, by its nature or express terms should survive, will survive such termination or expiration.</p>
+            </li>
+            <li><strong>Entire Agreement.</strong>
+                <p>The Terms of Service, together with the Terms of Sale, the Privacy Policy and the Guidelines, is the entire agreement between you and D!ngIt relating to the subject matter herein and will not be modified except in writing, signed or otherwise agreed to by both parties, or by a change to these Terms of Service.</p>
+            </li>
+            <li><strong>Claims.</strong>
+                <p>If you are a consumer resident in the European Union and you disagree with the above, we encourage you contact us as soon as possible after you start using the D!ngIt Service at legal@DingIt.tv<script cf-hash="f9e31" type="text/javascript">
+/* <![CDATA[ */!function(){try{var t="currentScript"in document?document.currentScript:function(){for(var t=document.getElementsByTagName("script"),e=t.length;e--;)if(t[e].getAttribute("cf-hash"))return t[e]}();if(t&&t.previousSibling){var e,r,n,i,c=t.previousSibling,a=c.getAttribute("data-cfemail");if(a){for(e="",r=parseInt(a.substr(0,2),16),n=2;a.length-n;n+=2)i=parseInt(a.substr(n,2),16)^r,e+=String.fromCharCode(i);e=document.createTextNode(e),c.parentNode.replaceChild(e,c)}}}catch(u){}}();/* ]]> */</script> since otherwise they will be binding on you after a reasonable time period (usually 30 days unless there are exceptional circumstances).</p>
+            </li>
+        </ol>
+
+        <p>The following section only applies to you if you are resident in the USA or elsewhere in the world (but does not apply if you are a consumer resident in the European Union):</p>
+        <br>
+        <p>YOU AND D!NGIT AGREE THAT ANY CAUSE OF ACTION ARISING OUT OF OR RELATED TO THE D!NGIT SERVICE MUST COMMENCE WITHIN ONE (1) YEAR AFTER THE CAUSE OF ACTION ACCRUES. OTHERWISE, SUCH CAUSE OF ACTION IS PERMANENTLY BARRED.</p>
+        <p><br><br><br>YOU EXPRESSLY ACKNOWLEDGE THAT YOU HAVE READ THESE TERMS AND UNDERSTAND THE RIGHTS, OBLIGATIONS, TERMS AND CONDITIONS SET FORTH HEREIN. BY CLICKING ON THE ACCEPT OR AGREE BUTTON AND/OR CONTINUING TO INSTALL THE SOFTWARE OR USE THE SOFTWARE, PRODUCTS AND/OR DINGITWEBSITES, YOU EXPRESSLY CONSENT TO BE BOUND BY ITS TERMS AND CONDITIONS AND GRANT TO DINGITTHE RIGHTS SET FORTH HEREIN.</p>
+        </div>
+    </div>
+</div><div style="display: none;">
+    <div id="modal-info-advertise" class="modal-popup">
+        <h3 class="no-padding-btm">Advertise With Us</h3>
+        <div class="clearfix modal-text-block">
+            <strong>Who is D!ngIt</strong>
             <div class="space20"></div>
 
             <p>
-                D!ngIt’s advertising staff can help brands, agencies, trading desks and buyers target a range of
-                audiences through our global reach. Our audience is mostly male, 18-30-something, and are one of the
-                more engaged fan audience that you’ll find on the web.
+                D!ngIt is a live gaming platform specializing in the fastest growing content in the world: eSport
+                events. In the short period since its launch, D!ngIt.tv’s audience has grown to over 100k unique
+                viewers, supports 200 gaming broadcasters and one live eSport event per day. Over the next six
+                months, D!ngIt’s eSport channel will provide 120 live eSport events monthly and become the first
+                live 24x7 eSport channel online.
             </p>
 
             <div class="space20"></div>
-            <strong>Why D!ngIt?</strong>
+            <strong>Live eSports Opportunities</strong>
             <div class="space20"></div>
 
             <p>
-                D!ngIt’s content is a cut above other gaming UGC content. We hand select each broadcaster, ensuring a
-                professional level of skill. We also look for what we think our audiences will like: engaging
-                personalities, a history of broadcasting on other live streaming sites or UCG video sites, which we
-                think helps the viewer cut through the noise of interactive web video. As a result, our audience is more
-                engaged, helping reach a targeted and engaged viewer.
+                eSPorts and gaming broadcasting is exploding in popularity. With the League of Legends World
+                Championships garnering an astonishing 72M viewers, these streamed events are boasting
+                numbers that rival traditional sports. Users will watch 16 billion minutes of live streaming this
+                month on Twitch alone. Game platforms are more successful at reaching 18-34 males than even
+                the most popular television programs. In the U.S., Twitch.tv (a competitive platform) reaches
+                some 15% more of this audience than the popular “Walking Dead” series. Viewers are making a
+                significant shift in their viewing patterns. D!ngIt is on the cusp of this curve.
             </p>
 
             <div class="space20"></div>
+            <strong>18-34 Males Are on D!ngIt…</strong>
+            <div class="space20"></div>
+
             <p>
-                D!ngIt’s team can help arrange a number of custom ad packages for any brands interested in reaching our
-                viewers and broadcasters.
+                D!ngit’s audience is 90% male with 76% between the ages of 18-49. 15% are boomers, 40%
+                Generation X, and 45% Millennials with the majority living in the U.S. D!ngIt’s audience also
+                includes the desirable Western European demographics (Germany, The Nordics, France), but
+                also a large audience from key English speaking regions (the UK, Canada and Australia). This
+                audience flocks to D!ngIt’s native (and exclusive) eSport events to watch 20+ hours a week of
+                gaming with ad completion rates of 85% or more.
             </p>
 
             <div class="space20"></div>
+            <strong>And They Are Engaged</strong>
+            <div class="space20"></div>
+
             <p>
-                Want more information about our uniques, demos, geos, metrics and how we’ve applied a no tolerance
-                policy against ad blockers? You can reach us at advertise “at” dingit.tv. We will get back to you within
-                a business day.
+                Gamers are social. An average eSport event lasts 240 minutes and 80% of the viewers are
+                engaged for the entire event where they chat with friends, gamers and broadcasters as well as
+                watch the event. According to a recent survey, gamers are more social, educated, successful and
+                family oriented than non-gamers. They watch more live streaming and use the latest tech to
+                consume content and connect to their friends and peers. Gamers tune into live gaming 5x more
+                often than they do to TV and these preferences reflect the tidal wave that is remaking the media
+                environment. Gamers’ tastes are the future of media.
             </p>
 
             <div class="space20"></div>
+            <strong>Broadcast T.V.-like Ad Viewing Experience</strong>
+            <div class="space20"></div>
+
             <p>
-                If you are an agency or would like information about advertising with us, please
-                <a href="mailto:advertise@dingit.tv" target="_top">
-                    CONTACT US</a>.
+                D!ngIt’s unique proprietary technology provide viewers with a TV like linear ad experience. Ads
+                are inserted during organic breaks between eSport events. Viewers cannot skip ads and are
+                engaged throughout the ad break period guaranteeing a high ad completion rate.
             </p>
+
+            <div class="space20"></div>
+            <strong>Our Inventory</strong>
+            <div class="space20"></div>
+
+            <p>
+                Video products include Cross Screen and Desktop videos with Companion ads for: live eSport
+                events during natural breaks (mid rolls), standard broadcast events (pre-roll, mid-roll, post-roll)
+                and VOD (pre-roll, mid-roll, post-roll). &nbsp;
+            </p>
+            <p>
+                Display products in various sizes as well as Newsletter and Blog content spots are available.
+            </p>
+            <div class="space20"></div>
+            <div class="text-center">
+                <strong>For More Information</strong>
+                <p class="font-chalet font-20" style="color: #FF503E">
+                    rachel.parker@dingit.tv<script cf-hash="f9e31" type="text/javascript">
+/* <![CDATA[ */!function(){try{var t="currentScript"in document?document.currentScript:function(){for(var t=document.getElementsByTagName("script"),e=t.length;e--;)if(t[e].getAttribute("cf-hash"))return t[e]}();if(t&&t.previousSibling){var e,r,n,i,c=t.previousSibling,a=c.getAttribute("data-cfemail");if(a){for(e="",r=parseInt(a.substr(0,2),16),n=2;a.length-n;n+=2)i=parseInt(a.substr(n,2),16)^r,e+=String.fromCharCode(i);e=document.createTextNode(e),c.parentNode.replaceChild(e,c)}}}catch(u){}}();/* ]]> */</script>
+                </p>
+                <p class="font-chalet font-20" style="color: #FF503E">
+                    dingit.tv
+                </p>
+            </div>
         </div>
     </div>
 </div><div style="display: none;">
@@ -1749,79 +2633,32 @@ D!NGIT may update this Privacy Policy from time to time. When we change the poli
         </div>
     </div>
 </div><div>
-    <div style="display: none;">
-        <div id="modal-monthly-income-calculator" class="modal-popup">
-            <h3>Broadcaster Monthly Income Calculator</h3>
-            <div class="space10"></div>
+    <button style="display: none;" id="btn-show-chrome-ext-ad" data-toggle="modal" data-target="#modal-chrome-ext-ad"></button>
 
-            <div class="clearfix padding-2">
-                <div class="text-center font-20 font-arial">
-                    <div class="padding-20 container-out">
-                        Select number of followers:
-                        <div class="space20"></div>
-                        <div class="row no-margin">
-                            <div class="col-xs-2">
-                                <a class="btn btn-info" onclick="calculateIncome(500);">
-                                    500
-                                </a>
-                            </div>
-                            <div class="col-xs-2">
-                                <a class="btn btn-info" onclick="calculateIncome(1500);">
-                                    1500
-                                </a>
-                            </div>
-                            <div class="col-xs-2">
-                                <a class="btn btn-info" onclick="calculateIncome(4000);">
-                                    4000
-                                </a>
-                            </div>
-                            <div class="col-xs-2">
-                                <a class="btn btn-info" onclick="calculateIncome(10000);">
-                                    10k
-                                </a>
-                            </div>
-                            <div class="col-xs-2">
-                                <a class="btn btn-info" onclick="calculateIncome(30000);">
-                                    30k
-                                </a>
-                            </div>
-                            <div class="col-xs-2">
-                                <a class="btn btn-info" onclick="calculateIncome(100000);">
-                                    100k
-                                </a>
-                            </div>
-                        </div>
-                        <div class="space20"></div>
-                        <div class="row no-margin">
-                            <div class="col-xs-8 col-xs-offset-2">
-                                <div class="pull-left">
-                                    Or input another value:
-                                </div>
-                                <input id="number-of-followers" class="text-field col30 pull-left" type="text" onkeypress="validateNumber(event);" onkeyup="calculateIncome();">
-                            </div>
-                        </div>
+    <div class="modal fade" id="modal-chrome-ext-ad" tabindex="-1" role="dialog" aria-labelledby="chrome-ext-ad-label" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close" onclick="$('#modal-chrome-ext-ad').modal('hide');"><span aria-hidden="true">×</span></button>
+                    <h4 class="modal-title" id="adblock-popup1-label">Free Chrome Extension</h4>
+                    <div class="divider-bottom"></div>
+                </div>
+                <div class="modal-body">
+                    <div class="text-center">
+                        <img src="/img/logo-chrome-with-text.png">
                     </div>
-                    <div class="space40"></div>
-
-                    <div class="row no-margin">
-                        <p>
-                            <label for="input-subscription-conversion">Select your expected Channel Subscriptions Percentage:</label>
-                            <input type="text" id="input-subscription-conversion" readonly="" style="border:0; color:#46b8da; background: #f9f9f9; width: 52px;" onchange="calculateIncome();">
-                        </p>
-                        <div class="space10"></div>
-                        <div class="col-xs-6 col-xs-offset-3">
-                            <div id="slider-subscription-conversion"></div>
-                        </div>
-                    </div>
-
-                    <div class="space40"></div>
-
-                    <div class="padding-20 container-out">
-                        <div>Expected income:</div>
-                        <div class="space20"></div>
-                        <div id="calculated-income-sum" class="font-arial font-40 text-orange">
-                            0
-                        </div>
+                    <p class="font-arial font-17 text-center text-grey padding-6">
+                        <a href="https://chrome.google.com/webstore/detail/dingit-infinite-hd-app/llnhnfikffkjbdnfallfpgikamegbbag" target="_blank">
+                            Install our free Chrome browser extension
+                        </a> now as<br>an alternative to our desktop app!
+                    </p>
+                </div>
+                <div class="modal-footer">
+                    <div class="text-center">
+                        <img src="/img/mobile/icon-d-red.png" width="41px" height="41px" style="margin-top: -9px;">
+                        <span class="font-chalet font-33 text-grey" style="padding: 10px;">
+                            DingIt.tv
+                        </span>
                     </div>
                 </div>
             </div>
@@ -1840,7 +2677,6 @@ D!NGIT may update this Privacy Policy from time to time. When we change the poli
                         Broadcast Partner
                     </a>
                 </li>
-                <li><a class="btn-show-monthly-income-calculator">Income Calculator</a></li>
                 <li><a class="btn-show-advertise">Advertise</a></li>
                 <li><a class="btn-show-press">Press</a></li>
                 <li><a href="/terms">Terms</a></li>
@@ -1848,18 +2684,49 @@ D!NGIT may update this Privacy Policy from time to time. When we change the poli
                 <li><a href="mailto:support@dingit.tv">Support</a></li>
             </ul>
         </div>
+
         <ul class="l-list">
             <li><a class="btn-show-about-us">About</a></li>
             <li><a href="http://blog.dingit.tv/" target="_blank">News</a></li>
             <li><a href="/viewers">Viewers</a></li>
-            <li><a class="btn-show-signup-viewer">Subscribe</a></li>
+            <li><a href="/broadcasters">Broadcasters</a></li>
+            <li><a class="btn-show-signup-viewer">Subscribe</a>
+            </li>
         </ul>
         <ul class="social">
-            <li><a href="https://www.youtube.com/channel/UCAUuoB4zopviW1_aF4RsEMQ" target="_blank" class="icon-youtube"></a></li>
-            <li><a href="https://plus.google.com/u/0/105912185538950598791/" target="_blank" class="icon-gplus"></a></li>
-            <li><a href="https://instagram.com/dingittv" target="_blank" class="icon-instagram"></a></li>
-            <li><a href="https://www.facebook.com/dingittv" target="_blank" class="icon-facebook"></a></li>
-            <li><a href="https://twitter.com/dingittv" target="_blank" class="icon-twitter"></a></li>
+            <li>
+                <a href="https://play.google.com/store/apps/details?id=tv.dingit.dingit" target="_blank" class="pull-left" style="margin-left: 40px;">
+                    <img src="/img/mobile/btn-buy-in-playstore.png">
+                </a>
+                <a href="https://itunes.apple.com/app/id981833026" target="_blank" class="pull-left" style="margin-left: 10px;">
+                    <img src="/img/mobile/btn-buy-in-appstore.png">
+                </a>
+            </li>
+            <li>
+                <a href="https://instagram.com/dingittv" target="_blank">
+                    <img src="/img/social/icon-instagram.png">
+                </a>
+            </li>
+            <li>
+                <a href="https://twitter.com/dingittv" target="_blank">
+                    <img src="/img/social/icon-twitter.png">
+                </a>
+            </li>
+            <li>
+                <a href="https://www.youtube.com/channel/UCAUuoB4zopviW1_aF4RsEMQ" target="_blank">
+                    <img src="/img/social/icon-youtube.png">
+                </a>
+            </li>
+            <li>
+                <a href="https://www.facebook.com/dingittv" target="_blank">
+                    <img src="/img/social/icon-fb.png">
+                </a>
+            </li>
+            <li>
+                <a href="https://plus.google.com/u/0/105912185538950598791/" target="_blank">
+                    <img src="/img/social/icon-g.png">
+                </a>
+            </li>
         </ul>
         <span class="lang">
         <div id="google_translate_element"></div><script type="text/javascript">
@@ -1882,5 +2749,10 @@ D!NGIT may update this Privacy Policy from time to time. When we change the poli
 
 </script>
 
-    
+    <script type="text/javascript">
+/* <![CDATA[ */
+(function(){try{var s,a,i,j,r,c,l=document.getElementsByTagName("a"),t=document.createElement("textarea");for(i=0;l.length-i;i++){try{a=l[i].getAttribute("href");if(a&&a.indexOf("/cdn-cgi/l/email-protection") > -1  && (a.length > 28)){s='';j=27+ 1 + a.indexOf("/cdn-cgi/l/email-protection");if (a.length > j) {r=parseInt(a.substr(j,2),16);for(j+=2;a.length>j&&a.substr(j,1)!='X';j+=2){c=parseInt(a.substr(j,2),16)^r;s+=String.fromCharCode(c);}j+=1;s+=a.substr(j,a.length-j);}t.innerHTML=s.replace(/</g,"&lt;").replace(/>/g,"&gt;");l[i].setAttribute("href","mailto:"+t.value);}}catch(e){}}}catch(e){}})();
+/* ]]> */
+</script>
+
 </body></html>
