@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the aeccafe.com privacy policy that was archived on 2014-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141223213603id_/http%3A//www10.aeccafe.com/policy/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aeccafe.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610161740id_/http%3A//www10.aeccafe.com/policy/privacy_policy.php) for the most accurate reproduction.*
 
-# IBSystems, Inc., Privacy Policy
+# AECCafe: Privacy Policy
 
 **Internet Business Systems, Inc.**
 
@@ -45,7 +45,7 @@ IBS will not monitor or disclose any private e-mail message or address informati
 
 **General**
 
-  * You can edit your IBS Account Information at any time by [clicking here](http://www10.aeccafe.com/common/request_form/request_form.php?subject=Privacy+Policy+Issues&email=cHJpdmFjeUBpYnN5c3RlbXMuY29t&attach=no) to contact us. 
+  * You can edit your IBS Account Information at any time by [clicking here](http://www10.aeccafe.com/common/request_form/request_form.php?subject=Privacy+Policy+Issues&ee=cHJpdmFjeUBpYnN5c3RlbXMuY29t&attach=no) to contact us. 
   * We reserve the right to send you certain communications relating to the IBS service, such as service announcements, administrative messages and IBS Newsletters that are considered part of your IBS account, without offering you the opportunity to opt-out of receiving them. 
   * You can delete your IBS newsletter account by visiting [http://www10. **AECCafe**.com/nl/newsletter_subscribe.php](http://www10.aeccafe.com/nl/newsletter_subscribe.php) where " **AECCafe** " is the site you receive your newsletter from. For example, if you receive your newsletter from EDACafe.com then the deletion url would be <http://www10.edacafe.com/nl/newsletter_subscribe.php>. 
 
@@ -65,4 +65,4 @@ IBS will not monitor or disclose any private e-mail message or address informati
 Internet Business Systems, Inc.   
 Privacy Policy Issues   
 Phone: +1 (408) 850-9202   
-[Contact Us](http://www10.aeccafe.com/common/request_form/request_form.php?subject=Privacy+Policy+Issues&email=cHJpdmFjeUBpYnN5c3RlbXMuY29t&attach=no)
+[Contact Us](http://www10.aeccafe.com/common/request_form/request_form.php?subject=Privacy+Policy+Issues&ee=cHJpdmFjeUBpYnN5c3RlbXMuY29t&attach=no)
