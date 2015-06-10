@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the jonacuff.com privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217120802id_/http%3A//www.daveramsey.com/store/privacy-policy/cPRI-p1.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jonacuff.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610112652id_/http%3A//www.daveramsey.com/store/privacy-policy/cPRI-p1.html) for the most accurate reproduction.*
 
 # Privacy Policy
-
-Customer Care: 888.227.3223
-
-[](https://web.archive.org/store/index.ep)
 
   * [Home](https://web.archive.org/store/index.ep)
     *       * [Store Home](https://web.archive.org/store/)
@@ -13,6 +9,10 @@ Customer Care: 888.227.3223
     *       * [Financial Peace University](https://web.archive.org/store/financial-peace-university/financial-peace-university/cFpuClasses.html)
 
 Everything you wish you knew about financial freedom
+
+      * [Smart Money Smart Kids](https://web.archive.org/store/cSmartMoneySmartKids.html)
+
+Learn how to teach your kids to win with money
 
       * [The Legacy Journey](https://web.archive.org/store/the-legacy-journey/clegacy.html)
 
@@ -48,10 +48,6 @@ Control your cash and spending.
 
 Live coaching conferences and more
 
-      * [Budgeting Software](https://web.archive.org/store/budgeting-software/cBudSoft.html)
-
-Track every dollar and where it goes.
-
       * [Dave's ELPs](https://web.archive.org/store/endorsed-local-providers/cElpMain.html)
 
 Find an Endorsed Local Provider.
@@ -78,7 +74,7 @@ The industry leader in personal finance curriculum
 
 The basics of budgeting, dumping debt, planning for retirement, and much more!
 
-      * [EntreLeadership 1-Day](https://web.archive.org/store/dave_ramseys_entreleadership_live_event/cLiveEntre.html)
+      * [EntreLeadership](https://web.archive.org/store/dave_ramseys_entreleadership_live_event/cLiveEntre.html)
 
 Learning the essentials of business and leadership
 
@@ -162,6 +158,10 @@ In certain instances, you may be asked to provide personal information on our si
 
 Non-personally identifiable information may be collected by our web-based tools for the purpose of online advertising and is completely anonymous.  This information may include such information as your IP address, date and time of visit, domain type, and their activity on our website. None of this information, individually or grouped together, can be traced back to you as an individual.   
 In web language, a cookie is used to store data on a computer's hard drive. Almost all websites utilize cookies to one extent or another. Some of our web-based tools utilize cookies.  These cookies only collect and utilize non-personally identifiable information. 
+
+We use the Google AdWords remarketing service to advertise on third-party websites (including Google) to previous visitors of our site. For example, we may advertise to previous visitors who haven’t completed a task on our site (i.e., completing the checkout process). This could be in the form of an advertisement on the Google search results page, or a site in the Google Display Network.
+
+Third-party vendors, including Google, use cookies to serve ads based on a user’s past visits to a website. Of course, any data collected will be used in accordance with our own privacy policy and Google’s privacy policy. You can set preferences for how Google advertises to you using the Google Ads Preferences page. If you wish, you can opt out of interest-based advertising entirely by adjusting your cookie settings or using a browser plugin.
 
 ## Use of Information
 
