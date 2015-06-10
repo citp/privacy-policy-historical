@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the promocodeslady.com privacy policy that was archived on 2014-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141022082108id_/http%3A//promocodeslady.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the promocodeslady.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610042839id_/http%3A//promocodeslady.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Promo Codes 2014
+# Privacy Policy - Promo Codes 2015
 
 At **[PromoCodesLady.com](http://promocodeslady.com/)** ****, We consider the privacy of our visitors and readers to be extremely important and this is the privacy policy document describes all type of personal information and other details collected and recorded by **http://PromoCodesLady.com/** and how we use it.
 
