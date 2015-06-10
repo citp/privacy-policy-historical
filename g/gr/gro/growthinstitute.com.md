@@ -1,99 +1,65 @@
-> *The following text is extracted and transformed from the growthinstitute.com privacy policy that was archived on 2013-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131108033630id_/http%3A//www.growthinstitute.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the growthinstitute.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610052741id_/http%3A//growthinstitute.com/en/privacy-policy) for the most accurate reproduction.*
 
-# Growth Institute | Our Commitment to Your Privacy
+# Gazelles Growth Institute
 
-We will always respect your privacy, your email address, and the information you give us. We’re not going to sell it, trade it, or abuse any information you submit to us. Here’s some commonly asked questions that you may also have going through your mind.
+Welcome to GrowthInstitute.com (the "Site").We understand that privacy online is important to users of our Site, especially when conducting business.This statement governs our privacy policies with respect to those users of the Site ("Visitors") who visit without transacting business and Visitors who register to transact business on the Site and make use of the various services offered by Growth Institute, LLC (collectively, "Services") ("Authorized Customers").
 
-When you sign up for our Products or Services, you’ll be receiving relevant information about Growth Institute LLC., invites to our online events, as well as information about programs or products that pertain to help you rocket your business to new heights.
+## "Personally Identifiable Information"
 
-If you wish to stop receiving emails from us, you may unsubscribe at any time using the link provided at the bottom of all our emails. But if you’re still receiving emails from us, don’t worry, we will be more than happy to fix the problem.
+Refers to any information that identifies or can be used to identify, contact, or locate the person to whom such information pertains, including, but not limited to, name, address, phone number, fax number, email address, financial profiles, social security number, and credit card information. Personally Identifiable Information does not include information that is collected anonymously (that is, without identification of the individual user) or demographic information not connected to an identified individual.
 
-All you have to do is drop us an email. [Send one from our ‘Contact’ page here »](http://www.growthinstitute.com/contact/)
+## What Personally Identifiable Information is collected?
 
-Your information’s safe with us. So don’t worry about getting spam emails you really don’t want. We’ll never give out your email address or any of the information you submit on this site to anyone else.
+We may collect basic user profile information from all of our Visitors. We collect the following additional information from our Authorized Customers: the names, addresses, phone numbers and email addresses of Authorized Customers, the nature and size of the business, and the nature and size of the advertising inventory that the Authorized Customer intends to purchase or sell.
 
-Your emails are confidential; we won’t share your email, data, or email address. It’s just between us.
+## What organizations are collecting the information?
 
-Yes, but our cookies don’t contain any personal information. We use them to help you make using our website easier, such as:
+In addition to our direct collection of information, our third party service vendors (such as credit card companies, clearinghouses and banks) who may provide such services as credit, insurance, and escrow services may collect this information from our Visitors and Authorized Customers. We do not control how these third parties use such information, but we do ask them to disclose how they use personal information provided to them from Visitors and Authorized Customers. Some of these third parties may be intermediaries that act solely as links in the distribution chain, and do not store, retain, or use the information given to them.
 
-  * to remember your country and language preferences
-  * to deliver information that match your interests
-  * to help us understand our audience and traffic patterns
-  * to let you automatically log into programs and parts of our site that require membership
-  * to manage and present site info displayed on our website that will be specific to you
+## How does the Site use Personally Identifiable Information?
 
+We use Personally Identifiable Information to customize the Site, to make appropriate service offerings, and to fulfill buying and selling requests on the Site. We may email Visitors and Authorized Customers about research or purchase and selling opportunities on the Site or information related to the subject matter of the Site. We may also use Personally Identifiable Information to contact Visitors and Authorized Customers in response to specific inquiries, or to provide requested information.
 
+## With whom may the information may be shared?
 
-We also use Web Beacons to collect non-personal data on how you use our site, such as how long did you visit our page, what web browser you’re using, what’s your operating system, and who’s your Internet service provider. In addition we also use Google Analytics data and the DoubleClick cookie to serve ads based on a user’s prior visits to our website. This data is collected from thousands of site visits and analyzed as a whole. This helps us build a better website to match our visitors’ needs.
+Personally Identifiable Information about Authorized Customers may be shared with other Authorized Customers who wish to evaluate potential transactions with other Authorized Customers. We may share aggregated information about our Visitors, including the demographics of our Visitors and Authorized Customers, with our affiliated agencies and third party vendors. We also offer the opportunity to "opt out" of receiving information or being contacted by us or by any agency acting on our behalf.
 
-Occasionally we hold public discussions through forums within our site. This may be on blog posts we put up or in our membership area. Please be aware that this is public space and do not post anything that you would not want everyone to see or know. Use this same discretion when you post in our forums and when commenting.
+## How is Personally Identifiable Information stored?
 
-We’re real good. We have a ton of administrative, managerial, and technical security measures put in place to protect your personal information. We’ve never had a breach of security and always strive for excellence in maintaining your privacy.
+Personally Identifiable Information collected by Growth Institute, LLC is securely stored and is not accessible to third parties or employees of Growth Institute, LLC except for use as indicated above.
 
-For the full privacy policy, read below.
+## What choices are available to Visitors regarding collection, use and distribution of the information?
 
-**We want to make your experience with us as pleasant and rewarding as possible, and we want you to be able to use the Internet’s extensive amount of information, tools, and opportunities with complete confidence.**
+Visitors and Authorized Customers may opt out of receiving unsolicited information from or being contacted by us and/or our vendors and affiliated agencies by responding to emails as instructed, or by contacting us at 701 Brazos Street, Suite 1601.
 
-We have created this Privacy Policy to demonstrate our firm commitment to privacy and security. This Privacy Policy describes how our company collects information from all end users of our Internet services (the “Services”), including those who access some of our Services but do not have accounts (“Visitors”) and those who may purchase Products and/or pay a monthly service fee to subscribe to the Service (“Members”). This Policy also explains what we do with the information we collect, and the choices Visitors and Members have concerning the collection and use of such information. We request that you read this Privacy Policy carefully.
+## Are Cookies Used on the Site?
 
-## Introduction
+Cookies are used for a variety of reasons. We use Cookies to obtain information about the preferences of our Visitors and the services they select. We also use Cookies for security purposes to protect our Authorized Customers. For example, if an Authorized Customer is logged on and the site is unused for more than 10 minutes, we will automatically log the Authorized Customer off.
 
-Members may be asked to provide certain personal information when they sign up for our Products or Services including name, address, telephone number, billing information (such as a credit card number), and the type of personal computer being used to access the Services. The personal information collected from Members during the registration process (or at any other time) is used primarily to provide a customized experience as you use our Products and Services. Your information will never be licensed or sold to any third party. However, we may make limited disclosure of personal information under the specific circumstances described in the “Disclosure” section below.
+## How does Growth Institute, LLC use login information?
 
-## Affiliate Links
+Growth Institute, LLC uses login information, including, but not limited to, IP addresses, ISPs, and browser types, to analyze trends, administer the Site, track a user's movement and use, and gather broad demographic information.
 
-Occasionally you may have clicked on one of Growth Institute LLC’s affiliate links and signed up or bought something via that link. In this case, the person or organization in charge of the affiliate link will have the information that you have submitted. This may be your email address, name, address, or whatever else they asked you. If you have signed up for bought something from Growth Institute LLC via an affiliate link, please check the privacy policy on their site.
+## What partners or service providers have access to Personally Identifiable Information from Visitors and/or Authorized Customers on the Site?
 
-## Online shopping
+Growth Institute, LLC has entered into and will continue to enter into partnerships and other affiliations with a number of vendors.Such vendors may have access to certain Personally Identifiable Information on a need to know basis for evaluating Authorized Customers for service eligibility. Our privacy policy does not cover their collection or use of this information. Disclosure of Personally Identifiable Information to comply with law. We will disclose Personally Identifiable Information in order to comply with a court order or subpoena or a request from a law enforcement agency to release information. We will also disclose Personally Identifiable Information when reasonably necessary to protect the safety of our Visitors and Authorized Customers.
 
-If you order services or products directly from our Company we will use the personal information you provide only to process that order. We do not share this information with outside parties except to the extent necessary to complete that order.
+## How does the Site keep Personally Identifiable Information secure?
 
-If you complete an order for some other company(ies) that may be linked to our Site, such as an online gift order sent directly to a recipient, you may be asked to provide information about the recipient, such as the recipient’s name, address, and phone number. Our company has no control over the third parties’ use of any personal information you provide when placing such an order. Please exercise care when doing so. We recommend that you familiarize yourself with the Privacy and Terms of Use policies of any other company(ies) whose web sites you may access from our site.
+All of our employees are familiar with our security policy and practices. The Personally Identifiable Information of our Visitors and Authorized Customers is only accessible to a limited number of qualified employees who are given a password in order to gain access to the information. We audit our security systems and processes on a regular basis. Sensitive information, such as credit card numbers or social security numbers, is protected by encryption protocols, in place to protect information sent over the Internet. While we take commercially reasonable measures to maintain a secure site, electronic communications and databases are subject to errors, tampering and break-ins, and we cannot guarantee or warrant that such events will not take place and we will not be liable to Visitors or Authorized Customers for any such occurrences.
 
-## Responses to email inquiries
+## How can Visitors correct any inaccuracies in Personally Identifiable Information?
 
-When Visitors or Members send email inquiries to our company, the return email address is used to answer the email inquiry we receive. Our company does not use the return email address for any other purpose and does not share the return email address with any third party.
+Visitors and Authorized Customers may contact us to update Personally Identifiable Information about them or to correct any inaccuracies by emailing us at [support@growthinstitute.com](mailto:support@growthinstitute.com)
 
-## Automatic collection of information
+## Can a Visitor delete or deactivate Personally Identifiable Information collected by the Site?
 
-Cookies: Our Company may use “Cookies” to collect information. Cookies are small pieces of information stored by your browser on your computer’s hard drive, at a web site’s request. Our Company Cookies do not contain any personal information, but are used primarily as follows:
+We provide Visitors and Authorized Customers with a mechanism to delete/deactivate Personally Identifiable Information from the Site's database by contacting. However, because of backups and records of deletions, it may be impossible to delete a Visitor's entry without retaining some residual information. An individual who requests to have Personally Identifiable Information deactivated will have this information functionally deleted, and we will not sell, transfer, or use Personally Identifiable Information relating to that individual in any way moving forward.
 
-  * to keep track of temporary information. For example, Cookies allow us to keep track of the pictures you upload and download;
-  * to register you in special programs. Cookies allow us to remember you when you login to the places on our site that require Membership;
-  * to remember your country and language preferences;
-  * to help us understand the size of our audience and traffic patterns;
-  * to collect and record information about what you viewed on our Web site and what you viewed in our e-mail;
-  * to manage and present site information and the pictures displayed on your computer, and
-  * to deliver information specific to your interests.
+## What happens if the Privacy Policy Changes?
 
+We will let our Visitors and Authorized Customers know about changes to our privacy policy by posting such changes on the Site. However, if we are changing our privacy policy in a manner that might cause disclosure of Personally Identifiable Information that a Visitor or Authorized Customer has previously requested not be disclosed, we will contact such Visitor or Authorized Customer to allow such Visitor or Authorized Customer to prevent such disclosure.
 
+## Links
 
-Web Beacons: We may also place small “tracker gifs” or “beacons” on many of the pages on our website, in online advertising with third parties, and in our email. We use these beacons, in connection with Cookies, to collect non-personal data on the usage of our site including but not limited to the date and time of the visit, the pages visited, the referring web page, the type of browser (e.g., Internet Explorer, NetScape), the type of operating system (e.g., Windows, Linux, or Mac), and the domain name of the visitor’s Internet service provider (e.g., AOL). This information is collected about thousands of site visits and analyzed as a whole. This information is useful in, for example, tracking the performance of our online advertising such as online banner ads and to determine where to place future advertising on other web sites.
-
-**Disabling Cookies and Beacons** : If you are uncomfortable with the collection of such information through the use of Cookies and Beacons, we recommend disabling these features through your browser preferences, though please understand this will limit the performance and functionality of our Company’s Web site. Your browser documentation should provide specific procedures for disabling cookie and beacon support.
-
-You may also opt out of the DoubleClick cookie by visiting the Google advertising opt-out page:
-
-<http://www.google.com/policies/privacy/ads/>
-
-Or you may opt out of Google Analytics by visiting the Google Analytics Opt-out page.
-
-[http://tools.google.com/dlpage/gaoptout](https://tools.google.com/dlpage/gaoptout)
-
-## Public forums
-
-Some parts of our site may enable you to participate in public services such as discussion boards, chats, and live events. Please use discretion when posting personal information about yourself when using these services. Be aware that when you disclose personal information at these sites, such as your name, member name, email address, etc., the information may be collected and used by others to send unsolicited email. The services are open to the public, and what you post there can be seen by anyone and is not protected. We try to moderate the comments as best we can but we can’t guarantee total control of the comments that you may receive while you participate in these services. Sometimes, you may find other people’s comments to be offensive, harmful or inaccurate.
-
-## Our company’s commitment to data security
-
-We implement a variety of administrative, managerial, and technical security measures to help protect your personal information. Our Company has various internal control standards which relate specifically to the handling of personal information. These include certain controls to help safeguard the information we collect online. Our employees are trained to understand and comply with these controls and we communicate our Privacy Notice, practices and guidelines to our employees. However, while we strive to protect your personal information, you must also take steps to protect your information. We urge you to take every precaution to protect your personal information while you are on the Internet.
-
-Services and Web sites we sponsor have security measures in place to protect the loss, misuse, and alteration of the information under our control. While we make every effort to ensure the integrity and security of our network and systems, we cannot guarantee that our security measures will prevent third-party “hackers” from illegally obtaining this information.
-
-## Revisions to this policy
-
-Our Company reserves the right to revise, amend, or modify this policy, our [Terms Of Use & Service agreement](http://www.growthinstitute.com/terms-of-use/), and our other policies and agreements at any time and in any manner, by updating this posting.
-
-Thanks for reading our privacy policy.
-
-If you have any questions about this Privacy Policy or the practices described herein, you may contact us through the [contact information](http://www.growthinstitute.com/contact/) provided on this website.
+GrowthInstitute.com contains links to other web sites. Please note that when you click on one of these links, you are moving to another web site. We encourage you to read the privacy statements of these linked sites as their privacy policies may differ from ours.
