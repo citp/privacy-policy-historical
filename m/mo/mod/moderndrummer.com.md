@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the moderndrummer.com privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217134239id_/http%3A//www.moderndrummer.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moderndrummer.com privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611010736id_/http%3A//www.moderndrummer.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Modern Drummer MagazineModern Drummer Magazine
 
 **Privacy Policy  
 **
@@ -13,9 +13,11 @@ Privacy Matters
 
 Modern Drummer Publications, Inc.
 
-12 Old Bridge Road
+271 Route 46 West
 
-Cedar Grove, NJ 07009
+Suite H-212
+
+Fairfield, NJ 07004
 
 Phone: 973-239-4140
 
