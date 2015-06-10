@@ -1,10 +1,9 @@
-> *The following text is extracted and transformed from the jobmarket.com.hk privacy policy that was archived on 2013-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130519113524id_/http%3A//www.jobmarket.com.hk/privacy_statement.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobmarket.com.hk privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610033356id_/http%3A//www.jobmarket.com.hk/privacy_statement.jsp) for the most accurate reproduction.*
 
 # JobMarket 求職廣場
 
   | 
 
-  
 JobMarket Online, www.jobmarket.com.hk, is owned and operated by A Wholly owned subsidiary of Sing Tao News Corporation Limited, Job Market Publishing Limited and its parents, subsidiaries and/or its affiliates (hereafter collectively referred to as "the Company"). Your use of the services ("the Services") available through this Internet site is subject to the terms and conditions set out in this Privacy Policy Statement ("Privacy Policy!"). 
 
 **About this Privacy Policy Statement**  
@@ -64,4 +63,5 @@ This Privacy Policy is subject to changes and revisions from time to time. Pleas
 
 This Privacy Policy was last updated on 07 July, 2006. 
 
-|  
+|    
+---|---|---
