@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nakedpizzadelivery.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121073232id_/http%3A//www.nakedpizzadelivery.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nakedpizzadelivery.com privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611003723id_/http%3A//www.nakedpizzadelivery.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy NakedPizzaDelivery
 
@@ -46,4 +46,4 @@ The website uses security techniques generally accepted in the information indus
 
 **MODIFICATION OF THE PRIVACY POLICY**
 
-NDP reserves the right to modify this privacy policy to adapt future development and service, legislation or jurisprudential.
+NPD reserves the right to modify this privacy policy to adapt future development and service, legislation or jurisprudential.
