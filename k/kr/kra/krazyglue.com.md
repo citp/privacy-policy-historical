@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the krazyglue.com privacy policy that was archived on 2014-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141014095141id_/http%3A//www.krazyglue.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the krazyglue.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610043332id_/http%3A//www.krazyglue.com/privacy) for the most accurate reproduction.*
 
 # Krazy Glue Privacy Policy
 
@@ -50,3 +50,25 @@ Krazy Glue
 Westerville, Ohio 43082  
 Attn: Consumer Response  
 Email: comments@krazyglue.com
+
+## Terms of Service
+
+Krazy Glue®, an Elmer’s brand, owns and operates several online platforms, including, but not limited to the KrazyGlue.com website, Facebook.com/KrazyGlue and Twitter.com/KrazyGlueExpert. By tagging @KrazyGlueExpert, #KrazyBigFix, #fixthefail, #WhenTheBeatDropsContest or other Krazy Glue sponsored terms or by commenting, liking, posting or otherwise engaging with the Krazy Glue brand, you grant Krazy Glue a nonexclusive, royalty-free, perpetual, transferable, irrevocable and fully sublicensable right to use, reproduce, modify, distribute, publish, create derivative works from and publicly display your content in any media, now known or hereafter devised, for any purpose. You also permit Krazy Glue to use the name that you submit in connection with such content. The connecting content will be treated as non-confidential and non-proprietary. Krazy Glue takes no responsibility for any content submitted by other users that uses the aforementioned terms or is otherwise submitted to Krazy Glue and is not liable for said content.
+
+## #WhenTheBeatDropsContest Rules
+
+**SPONSOR:** Krazy Glue®, Inc. (Krazy Glue)  
+460 Polaris Parkway, Suite 500  
+Westerville, OH 43082
+
+**ENTRY:** To enter the #WhenTheBeatDropsContest, Twitter users must share their favorite beat-droppin’ moments from the 2015 Billboard Music Awards* and tag @KrazyGlueExpert and #WhenTheBeatDropsContest on Twitter between 8 p.m. ET, Sunday, May 17 and 8 p.m. ET Monday, May 18. No purchase necessary to enter. Only one entry per person per Twitter account; multiple entries will not be considered. Anyone found to use multiple accounts to enter will be ineligible. Krazy Glue reserves the right to disqualify any person it finds to be tampering with the entry process.
+
+**ELIGIBILITY:** This contest is open only to legal residents of the U.S. over the age of 18 who agree to Krazy Glue’s above Terms of Service. Employees of Krazy Glue and their immediate family members are not eligible. This contest is void where prohibited.
+
+**WINNER SELECTION & NOTIFICATION:** One (1) winner who has met the entry and eligibility requirements will be chosen at random and will be contacted via Twitter by 8 p.m. ET Wednesday, May 20. Inability to contact with the winner within 48 hours of Krazy Glue’s first attempt to contact him/her on Twitter will result in disqualification and selection of an alternate winner.
+
+**PRIZE:** The winner will receive an unofficial DJ Starter Kit, including Beats Mixr™ on ear headphones. (Beats by Dr. Dre® is not a sponsoring partner of this contest.) The total prize value will not exceed $400. The winner is responsible for all applicable local, state and federal taxes. Odds of winning depend on the number of eligible entries received.
+
+**LIMITATIONS OF LIABILITY:** Krazy Glue is not responsible for late, lost or misdirected entries or for any other technical malfunctions. If for any reason the contest is unable to run as planned, Krazy Glue reserves the right to cancel or modify the contest. Entrants further agree to release Krazy Glue from any liability resulting from or related to contest participation.
+
+*Krazy Glue is an advertiser, but not a sponsor of, the Billboard Music Awards. Billboard Music Awards is not a sponsor of or affiliated in any way with this contest.
