@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the manofmany.com privacy policy that was archived on 2014-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141125170144id_/http%3A//manofmany.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the manofmany.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610042838id_/http%3A//manofmany.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Man of Many
 
