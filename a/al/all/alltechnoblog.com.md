@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the alltechnoblog.com privacy policy that was archived on 2014-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141209010600id_/http%3A//alltechnoblog.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alltechnoblog.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610080503id_/http%3A//alltechnoblog.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | ALL TECHNO BLOG - Technology Blog
 
 AllTechnoBlog has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Website.
 
