@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the corel.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231084428id_/http%3A//www2.corel.com/us/corel-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the corel.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610050354id_/http%3A//www.corel.com/us/corel-privacy-policy) for the most accurate reproduction.*
 
 # Corel Privacy Policy - Legal Information
 
