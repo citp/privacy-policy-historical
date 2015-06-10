@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the publicmutual.com.my privacy policy that was archived on 2014-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141106115458id_/http%3A//www.publicmutual.com.my/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the publicmutual.com.my privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610103436id_/http%3A//publicmutual.com.my/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Public Mutual Berhad
 
@@ -20,8 +20,7 @@ In accordance with strict compliance to Guidelines by Securities Commission, and
 
 If the Customer does not wish to have the Customer's information shared with any other party, or the Customer does not wish to be solicited for products or services offered by PMB or parties it provides information to, please write in to the PMB at the address below:
 
-**e-Marketing Unit**  
-Marketing & Financial Planning Department  
+**Marketing & Corporate Communications Department**  
 Public Mutual Berhad  
 3rd Floor, Block C, Sri Damansara Business Park  
 Persiaran Industri, Bandar Sri Damansara  
@@ -48,8 +47,8 @@ Although the primary purpose of acquiring the information is to confine its use 
 
 Any questions or complaints relating to the PMB's handling of personal information may be made to:
 
-**e-Marketing Unit**  
-Marketing & Financial Planning Department  
+  
+**Marketing & Corporate Communications Department**  
 Public Mutual Berhad  
 3rd Floor, Block C, Sri Damansara Business Park  
 Persiaran Industri, Bandar Sri Damansara  
