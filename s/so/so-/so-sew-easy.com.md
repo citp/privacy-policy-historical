@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the so-sew-easy.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120132411id_/http%3A//so-sew-easy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the so-sew-easy.com privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611004847id_/http%3A//so-sew-easy.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - So Sew Easy
 
