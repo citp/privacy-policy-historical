@@ -1,10 +1,13 @@
-> *The following text is extracted and transformed from the mirrorsedge.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120233308id_/http%3A//tos.ea.com/legalapp/WEBPRIVACY/en/en/PC) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mirrorsedge.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610045954id_/http%3A//tos.ea.com/legalapp/WEBPRIVACY/en/en/PC) for the most accurate reproduction.*
 
 # 
 
 ELECTRONIC ARTS PRIVACY AND COOKIE POLICY
 
 Effective Date: June 28, 2013
+
+  
+
 
 [](http://privacy.truste.com/privacy-seal/Electronic-Arts/validation?rid=1cc8e153-d5a9-45d1-b59d-5fe13b8709c5 "TRUSTe European SafeHarbor certification")
 
