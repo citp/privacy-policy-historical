@@ -1,10 +1,11 @@
-> *The following text is extracted and transformed from the fuckmyindiangf.com privacy policy that was archived on 2014-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141116030311id_/http%3A//fuckmyindiangf.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fuckmyindiangf.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610075941id_/http%3A//fuckmyindiangf.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
 YellowPlum Ltd.  
-Stasikratous, 16,   
-1065, Nicosia  
+Avlonos 1,  
+Maria House,  
+Nicosia, 1075  
 Cyprus
 
 We can be reached via e-mail at [ support@247mg.com](mailto:support@247mg.com)
