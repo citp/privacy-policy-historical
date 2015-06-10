@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the iclassprov2.com privacy policy that was archived on 2014-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140325131339id_/http%3A//www.iclasspro.com/notice/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iclassprov2.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610042406id_/http%3A//www.iclasspro.com/notice/privacy-policy) for the most accurate reproduction.*
 
-# None
-
-Last Updated: July, 09 2012
+# Privacy Policy - iClassPro Class Management Software - Gymnastics, Cheer, Swim, and Dance
 
 **Our Commitment to Privacy**  
 Our Privacy Policy was developed as an extension of our commitment to combine the highest-quality products and services with the highest level of integrity in dealing with our clients and partners. The Policy is designed to assist you in understanding how we collect, use and safeguard the personal information you provide to us and to assist you in making informed decisions when using our site and our products and services. This statement will be continuously assessed against new technologies, business practices and our customers' needs.
@@ -47,7 +45,7 @@ From time to time you may notice offers from outside companies advertised on our
 We may enter into strategic marketing alliances or partnerships with third parties who may be given access to personal information including your name, address, telephone number and email for the purpose of providing you information regarding products and services that we think will be of interest to you. In connection with strategic marketing alliances or partnerships, we will retain all ownership rights to the information, and we will not share information regarding your social security number or other personal financial data.
 
 **Notice of New Services and Changes**  
-Occasionally, we may also use the information we collect to notify you about important changes to our Web site, new services and special offers we think you will find valuable. As our client, you will be given the opportunity to notify us of your desire not to receive these offers by clicking on a response box when you receive such an offer or by sending us an email request at support@iclasspro.com.
+Occasionally, we may also use the information we collect to notify you about important changes to our Web site, new services and special offers we think you will find valuable. As our client, you will be given the opportunity to notify us of your desire not to receive these offers by clicking on a response box when you receive such an offer or by sending us an email request at [support@iclasspro.com](mailto:support@iclasspro.com).
 
 **How Do We Secure Information Transmissions?**  
 When you send confidential personal credit card information to us on our Web site, a secure server software which we have licensed encrypts all information you input before it is sent to us. The information is scrambled en route and decoded once it reaches our Web site.
@@ -66,7 +64,7 @@ Periodically, our operations and business practices are reviewed for compliance 
 Our corporate values, ethical standards, policies and practices are committed to the protection of customer information. In general, our business practices limit employee access to confidential information, and limit the use and disclosure of such information to authorized persons, processes and transactions.
 
 **How Can You Access and Correct Your Information?**  
-You may request access to all your personally identifiable information that we collect online and maintain in our database by emailing support@iclasspro.com or by changing the information within the iClassPro Application.
+You may request access to all your personally identifiable information that we collect online and maintain in our database by emailing [support@iclasspro.com](mailto:support@iclasspro.com) or by changing the information within the iClassPro Application.
 
 **Do We Disclose Information to Outside Parties?**  
 We may provide aggregate information about our customers, sales, Web site traffic patterns and related Web site information to our affiliates or reputable third parties, but this information will not include personally identifying data, except as otherwise provided in this Privacy Policy.
