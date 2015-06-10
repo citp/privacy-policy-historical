@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the business.com privacy policy that was archived on 2014-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141228210339id_/http%3A//www.business.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the business.com privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611010628id_/http%3A//www.business.com/info/privacy) for the most accurate reproduction.*
 
 # 
 
@@ -15,6 +15,10 @@ When you interact with us through the Site or the Services, we may collect Perso
 We collect Personal Data from you when you voluntarily provide such information to us, such as when you register for access to the Services (for example, your name and mailing address), use certain Services, contact us with inquiries or respond to one of our surveys. Wherever the Company collects Personal Data we make an effort to provide a link to this Privacy Policy.
 
 **By voluntarily providing us with Personal Data, you are consenting to our use of it in accordance with this Privacy Policy. If you provide Personal Data, you acknowledge and agree that such Personal Data may be transferred from your current location to the offices and servers of the Company and the authorized third parties referred to herein located in the United States.**
+
+### Social Login:
+
+By clicking Sign in with a social network, you agree to let Business.com store your social network profile.
 
 ### Non-Identifiable or Aggregated Data:
 
