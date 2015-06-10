@@ -1,58 +1,54 @@
-> *The following text is extracted and transformed from the proactiveinvestors.co.uk privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120203901id_/http%3A//www.proactiveinvestors.co.uk/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the proactiveinvestors.co.uk privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610153641id_/http%3A//www.proactiveinvestors.co.uk/pages/privacy) for the most accurate reproduction.*
 
-# Proactive Investors - Leading source of Financial News, Investor Forums, CEO Interviews, Financial Columnists, Stock Information - Privacy
+# Proactive Investors - Leading source of Financial News, Investor Forums, CEO Interviews, Financial Columnists, Stock Information - Privacy Policy
 
-### Introduction
+## Privacy Policy
 
-This Privacy Policy sets out the principles governing our use of your Personal Data under the Data Protection Act 1998 and all related regulations ("the Act"). By registering to use the services available on our website (the "Site") and by using the Site generally, you agree to the principles set out below. Defined terms in this Privacy Policy have the same meanings as in the General Site Conditions and the Act.
+**Proactive Investors Limited (the “Company,” “we” or “us”)** respects your privacy and undertakes to protect any personal information entrusted to it. Generally, you may visit our Site without giving us any information about yourself (but we may use Cookies to gather information about you, even if you do not register as a user – please see the section on Cookies below). There are times when we may need to obtain information from you through a registration process in order to provide certain services. Below we describe how we gather and use data. If you are not comfortable with any of the practices or policies described in our privacy policy, we ask that you discontinue use of our Site. Our privacy policy may change from time to time, so please revisit this page frequently to remain fully informed of our latest practices and policies.
 
-What Personal Data do we collect and why
+**How we use your personal information**
 
-When you register and use the Site, we will ask you to provide certain data, such as your contact details and demographic information. We may supplement the information that you provide us with information we receive from our Service Providers and/or other third parties.
+  
+The Company collects, records, retains and uses your personal information only for legitimate business purposes; including (i) to provide, administer, support, improve and obtain feedback on our services and to send you information that you have requested; (ii) to comply with applicable laws, enforce our Terms of Use or other agreements; and to protect the rights or property of the Company, our users and others; (iii) to solicit your opinions about our services or to introduce new services; and/or (iv) for quality control, regulatory, and monitoring purposes.  
+We may also use your contact details to occasionally send you information about our partners that may be of interest to you. You may opt-out of this in your user profile.
 
-The principal purposes for which we process and store your Personal Data are:
+**Wehn we may disclose your personal information**
 
-  * to allow you to personalise services provided via the Site (for example, allowing you to create and customise your own alerts);
-  * to speed up the qualification process for our introductory services;
-  * to monitor, improve and administer the Site and the services provided on the Site;
-  * to enable us to conduct surveys and aggregate user profiles;
-  * to provide you with information on selected products and selected services that we think may be of interest to you (unless you have asked us not to do so); and
-  * to enable us to comply with our legal and regulatory obligations.
-  * to contact you to ensure customer satisfaction 
+  
+**To Third Parties:**  
+We will not sell or rent your personal information to third parties. We do aggregrate certain user data to create profiles of "typical" users, which aggregate data may be disclosed to applicable third parties. We will disclose information when required to do so by law or in response to a request from a law enforcement agency or authority.
 
+  
+**To Others in Your Own Organization:**  
+If you use any of our services through your employer, then we may pass certain information to your employer regarding your use of such services where your employer has a legitimate reason to receive such information, as determined by us in our sole discretion. Similarly, if you are the point contact person in your organization for a service, we may pass your contact details to those in your organization for this purpose.
 
+**How we collect your personal information**
 
-Full details of the purposes are set out in our Data Protection registration.
+  
+**Information Collected Through Our Services:**  
+If you choose to register for any of our services, we will gather information from the registration process. We collect information about your use of our services, such as generic types of data accessed, times and volume of use of the services and traffic data. Traffic data includes logs, details of networks, data and systems accessed details of the sender and recipients of messages sent over our services, times and location of log on or access, duration of sessions, clickstream and similar usage or system data. Before you register with us, we do not gather any personally identifiable information about you.
 
-As part of our customer service we may also share your Personal Data with other companies so that we can provide you with appropriate information about our or other company's products and selected services. You will be able to indicate on the Site if you do not wish to receive such information. You may also notify us at any time on the "My Account" page on the Site or by contacting the Proactive Investor London office on 0207 989 0813 if you decide you do not want to receive such information.
+**Information Collected Through Cookies:**  
+In order to personalize and enhance your experience on our Site, we may also collect information through “cookies.” Cookies are small strings of text sent by our Site to your browser and then stored by your browser on your computer’s hard drive. Cookies enable us to collect information about how our services are used. Until you have registered with us, the cookie will only track general usage patterns and technical information about your computer type and will not be used to identify you individually. After registration, cookies will be used to collect information on an aggregate basis, to track the readership of stories and usage of our products, to analyze traffic patterns on our sites and to provide anonymous reporting of usage. You can turn off the ability to receive cookies by adjusting the browser in your computer. However, you should note that if you do so, it might materially distort the quality of service and data you receive. Therefore, you do so at your own risk.
 
-If you decide you would rather not receive email communications on selected products and selected services then you can unsubscribe from these by:  
-using the ‘unsubscribe’ link in emails; or   
-by going to 'subscriptions’ section of ‘My Account’.
+**Information Collected Through Advertising:**  
+Where advertising is served on the Site, there may be cookies used to collect technical information and generic usage information. However, third party advertisers will not be able to relate such information to you as an individual without your prior consent. However, please note that by interacting with an advertiser, you are thereby providing consent to data collection by that advertiser.
 
-### Use of Cookies
+**Information Collected Through Digital Signatures/Certificates:**  
+If the product you are using has digital certificates/certificate signatures, then your name and related details may be displayed as part of any certificate issued to you. It will be seen by those to whom your certificate or signature is presented or who rely on your certificate or signature. Your details may also need to be entered into a related status directory of certificates issued.
 
-### Security of your Personal Data
+**How we protect your information**  
+We use commercially reasonable efforts to provide security safeguards to protect your information, such as firewall protection on our servers to prevent unauthorized access to any information we may store. Although these measures are typically effective, use of the Internet and related computer systems are inherently vulnerable to unauthorized access or “hacking.” No guarantee can be given to ensure that information you provide to us will not be accessed by unauthorized persons.
 
-We endeavour to take all reasonable steps to protect your Personal Data, but cannot guarantee the security of any Personal Data you disclose online. You accept the inherent security implications of dealing online over the internet and will not hold us responsible for any breach of security unless we have been negligent or in wilful default.
+**Links to third party websites**  
+Our Site may offer links to other websites, which may have information policies and practices different from ours. We do not control and are not responsible for the privacy policies or practices of any third party sites.
 
-For further information on the security of the Site and your Personal Data please click here to view our Security Policy.
+**Interception of mail**  
+We may reject, delay or remove content from emails which have a nature, content or attachments which, in our sole discretion, may (x) disrupt our systems or pose security issues such as viruses, or (y) be offensive, unwanted or constitute spam. In certain circumstances, this may result in "innocent" emails being affected.
 
-### Communications
+**Consent**  
+By using this Site, you consent to our collection and use of any personal information in accordance with this Privacy Policy. We may, at any time, to modify or update this Privacy Policy. Every time you use our site as an unregistered user, your continued use of the Site constitutes your acceptance and agreement to the then current version of this Privacy Policy, whether or not you have read it at that time. It is up to you to recheck this Privacy Policy to update yourself of any changes. If you are a registered user, we will notify you of any changes to this Privacy Policy by emailing you a link to the revised Privacy Policy to the email address you have given us. Your continued use of the Site following our sending of such a notification constitutes acceptance by you of the new Privacy Policy.
 
-We may intercept, record and/or monitor any communication(s) (including telephone calls, email, text messages and instant messaging services) between you and us. We may do so in order to resolve queries in the future and for the purposes of complying with our regulatory and legal responsibilities.
-
-In the case of communications by email you should note that as emails are not currently encrypted (and may therefore be intercepted by third parties) and as the identity of the sender cannot be confirmed you must NOT provide your security details by email and should avoid providing any Personal Data to us by email. We will not provide Personal Data to you be email.
-
-We have certain responsibilities under the Money Laundering Regulations 2003 and the FCA Rules to verify the identity of clients and may need to make certain enquiries and obtain certain information from you for that purpose. You confirm that all information you supply will be accurate and that we may disclose such information as we consider necessary to comply with any reporting or legal and regulatory requirements.
-
-You agree that we may disclose to the FCA and to any other regulatory authority to which we are subject and to, or to any person empowered to require such information by or under any legal enactment, any information they may request or require relating to you or, if relevant, any of your clients.
-
-Obtaining copies of and changing your Personal Data
-
-In the event that you wish to see a copy of your Personal Data held by us please visit the "Your Personal Details" page on the Site or write to:
-
-**Proactive Investors UK Limited, The Business Centre, Wool House, 74 Back Church Lane London E1 1AF  
-Tel: +44 (0)207 989 0813**
-
-We will amend or delete any Personal Data relating to you which is found to be incorrect or not relevant in accordance with the Act. If you are aware of any changes that should be made to your Personal Data please visit the "My Profiles" page on the Site or otherwise notify Proactive Investors on **0207 989 0813** as soon as possible.
+**Privacy questions**  
+If you have any questions regarding our privacy policy, please contact us through the [Contact Us](http://na.proactiveinvestors.com/contact_us) page on the Site. You may also view your personal information at any time by logging in to your account page.  
+**END.**
