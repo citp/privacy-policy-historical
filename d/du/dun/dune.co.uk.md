@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the dune.co.uk privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120122521id_/http%3A//www.dunelondon.com/private-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dune.co.uk privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610052836id_/http%3A//www.dunelondon.com/private-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Dune Shoes Online
 
 __
 
-Effective Date: 16 January 2014
+Effective Date: 09 April 2015
 
 Dune Group Limited ( **We** ) are committed to protecting and respecting your privacy.
 
@@ -22,11 +22,13 @@ In this Privacy Policy, references to "we" or "us" are to Dune Group Limited, a 
 
 **2.2 Information we collect about you.** With regard to each of your visits to this Website we may automatically collect the following information: technical information, including the Internet protocol (IP) address used to connect your computer to the Internet, your login information, browser type and version, time zone setting, browser plug-in types and versions, operating system and platform. We may also automatically collect the full Uniform Resource Locators (URL) clickstream to, through and from this Website (including date and time); products you viewed or searched for; page response times, download errors, length of visits to certain pages, page interaction information (such as scrolling, clicks, and mouse-overs), and methods used to browse away from the page and any phone number used to call our customer service number. We partner with third parties who may collect anonymous usage or statistical data through your use of our website. These third parties may collect similar information about your online activities over time and across third party websites through your use of our website.
 
-**2.3 Information we receive from other sources.** We work, from time to time, closely with third parties (including, for example, business partners, sub-contractors in technical, payment and delivery services, advertising networks, analytics providers, search information providers, credit reference agencies) and may receive information about you from them.
+**2.3 Information we receive from other sources.** We work, from time to time, closely with third parties (including, for example, business partners, sub-contractors in technical, payment and delivery services, advertising networks, analytics providers, search information providers, credit reference agencies) and may receive information about you from them.  We may use the services of third parties to collect and use anonymous information about your visits to and interactions with our website through the use of technologies such as cookies to personalise advertisements for goods and services. To learn more, or to opt of recieving online display advertisements tailored to your interests by our third party partners, visit the European Interactive Digital Advertising Alliance at <http://youronlinechoices.eu/>.
 
 **3\. Cookies**
 
 3.1 This Website uses cookies. Cookies are small files stored on your computer's hard drive which are used to collect information about your visit to the Website. Cookies help to provide users with a good experience when browsing this Website and also allow us to improve this Website.
+
+We may also use technologies, such as our own cookies, to provide you with personalised online display advertising tailored to your interests.  To opt out of these ads, please click here.
 
 3.2 You can find more information about the individual cookies we use and the purposes for which we use them in the table below:
 
@@ -43,8 +45,27 @@ ASPSESSIONIDCAASRTSD |  This cookie creates a non-identifiable id – which we u
 recentlyViewed |  This cookie is used to generate a history of the products you have browsed while on this Website. The information may be displayed in the recently viewed section of the product detail page but is not used for any other purpose.  
 DoubleClick  
 DoubleClick Floodlight |  Google's DoubleClick is used to report on the effectiveness of our advertising campaigns. Any data passed to Doubleclick is anonymous statistical data.  
-mediaFORGE |  mediaFORGE is a retargeting tool for advertisers that collects anonymous usage data from visitors and users to provide visitors with personalised ads when visiting other selected websites.  
 lsclick_midXXXXX |  This cookie tracks advert views and traffic from our affiliate advertising partner Rakuten Linkshare's network. Any data passed is anonymous statistical data.  
+_#srchist |  This cookie stores the history of traffic sources a user has arrived to the site by.  
+_#sess |  This cookie stores information about the session.  
+_#vdf |  This cookie stores the visit definition - ts type, number of visits, expiry.  
+_#uid |  This cookie stores a user identifier (only within a site).  
+_#slid |  This cookie stores the unique sale ID.  
+_#clkid |  This cookie stores unique identifier for a click generating a landing.  
+_#lps |  This cookie flags that the last page was secure and therefore has no referrer.  
+_#tsa |  This cookie stores the referrer details to avoid duplicate Landing events.  
+_#env |  This cookie flags whether the environment variables (screen size, browser etc) need to be collected again.  
+DotomiUser  
+dtm_token  
+DotomiNet  
+rt_NNNN  
+DotomiSession_NNNN  
+DotomiRRNNNN |  These cookies are used by our advertising partner, Conversant, for interest-based advertising. These cookies are used to deliver advertisements that are more relevant to you and your interests. They are also used to limit the number of times you see an advertisement as well as help measure the effectiveness of the advertising campaign. These cookies do not collect any personal information.  
+DotomiStatus |  This Conversant cookie is used to honor a user’s interest-based advertising opt-out preference.  
+MPEL |  This MotionPoint cookie is used to allow customers to switch between international sites using the "Welcome" functionality.  
+mp_srchkwd |  This MotionPoint cookie is used to populate the correctly translated search keyword on our international sites.  
+MP_COUNTRY |  This MotionPoint cookie is used identify a users previously selected country of delivery.  
+MP_LANG |  This MotionPoint cookie is used identify a users previously selected preferred language.  
   
 3.3 You may choose to refuse cookies but, if you do so, some of the functionality of this Website may no longer be available to you.
 
