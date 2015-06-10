@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the i-am-bored.com privacy policy that was archived on 2014-11-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141120112301id_/http%3A//www.i-am-bored.com/im_bored_privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the i-am-bored.com privacy policy that was archived on 2015-06-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150610052900id_/http%3A//www.i-am-bored.com/im_bored_privacy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
 		<title>I Am Bored - Sites for when you're bored.</title>
@@ -35,7 +35,7 @@
             }
 		</style>
 	
-		<script async="" src="http://cdn-www.i-am-bored.com/ui/scripts/get-mobile-app.js?v=9"></script><script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
+		<script async="" src="http://cdn-www.i-am-bored.com/ui/scripts/get-mobile-app.js?v=9"></script><script type="text/javascript" async="" src="https://cdn.krxd.net/controltag?confid=JSZXnYMG"></script><script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
 		<script type="text/javascript" src="http://cdn-www.i-am-bored.com/iab2.js?v=4"></script>
 		
 		<!-- // BEGIN: GOES BEFORE HTML HEADER FOR SEARCH SUGGESTION WIDGET -->
@@ -74,6 +74,52 @@
         <!-- Demdex Tag Insertion Manager -->
         <script type="text/javascript" src="http://cdn-www.i-am-bored.com/ui/scripts/dil_i-am-bored.js"></script>
         <!-- End Demdex Tag Insertion Manager -->
+
+		<!-- BEGIN Krux Control Tag -->
+		<script class="kxct" data-id="JSZXnYMG" data-timing="async" data-version="1.9" type="text/javascript">
+		  window.Krux||((Krux=function(){Krux.q.push(arguments)}).q=[]);
+		  (function(){
+		    var k=document.createElement('script');k.type='text/javascript';k.async=true;
+		    var m,src=(m=location.href.match(/\bkxsrc=([^&]+)/))&&decodeURIComponent(m[1]);
+		    k.src = /^https?:\/\/([a-z0-9_\-\.]+\.)?krxd\.net(:\d{1,5})?\//i.test(src) ? src : src === "disable" ? "" :
+		      (location.protocol==="https:"?"https:":"http:")+"//cdn.krxd.net/controltag?confid=JSZXnYMG"
+		  ;
+		    var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(k,s);
+		  }());
+		</script>
+		<!-- END Krux Controltag -->
+		<!-- BEGIN DFP Legacy Interchange Tag -->
+		<script>
+		  window.Krux || ((Krux = function() {
+		    Krux.q.push(arguments);
+		  }).q = []);
+		  (function() {
+		    function retrieve(n) {
+		      var m, k = 'kx' + n;
+		      if (window.localStorage) {
+		        return window.localStorage[k] || "";
+		      } else if (navigator.cookieEnabled) {
+		        m = document.cookie.match(k + '=([^;]*)');
+		        return (m && unescape(m[1])) || "";
+		      } else {
+		        return '';
+		      }
+		    }
+		    Krux.user = retrieve('user');
+		    Krux.segments = retrieve('segs') && retrieve('segs').split(',') || [];
+		    
+		    //DFP Premium Interchange
+		    var dfpp = [];
+		    if (Krux.user) {
+		      dfpp.push('kuid=' + Krux.user);
+		    }
+		    for (var i = 0; i < Krux.segments.length; i++ ) {
+		      dfpp.push('ksg=' + Krux.segments[i]);
+		    }
+		    Krux.dfppKeyValues = dfpp.length ? dfpp.join(';') + ';' : '';
+		  })();
+		</script>
+		<!-- END DFP Legacy Interchange Tag -->
 	</head>
 
 <body bgcolor="#000000" link="#D1D1FE" vlink="#D1D1FE" alink="#D1D1FE" text="#FFFFFF" onload="MM_preloadImages('http://cdn-www.i-am-bored.com/art/bored_star.gif','http://cdn-www.i-am-bored.com/art/bored_star_gray.gif')">
@@ -214,7 +260,7 @@ COMSCORE.beacon({
 		{
 			var intOrd = Math.random() * 10000000000000000;
 		}
-		var strTag = '<scr' + 'ipt language="JavaScript" src="http://ad.doubleclick.net/adj/dmd.iambored/community;sz=728x90;cat=;ctype=;rating=;aff=;%dx%;pub_url=${i-am-bored.com};envr=;dcopt=ist;dc_ref=' + window.location.href + ';tile=1;ord=' + intOrd + '?" type="text/javascript"></scr' + 'ipt>';
+		var strTag = '<scr' + 'ipt language="JavaScript" src="http://ad.doubleclick.net/adj/dmd.iambored/community;sz=728x90;cat=;ctype=;rating=;aff=;%dx%;%krux%;pub_url=${i-am-bored.com};envr=;dcopt=ist;dc_ref=' + window.location.href + ';tile=1;ord=' + intOrd + '?" type="text/javascript"></scr' + 'ipt>';
         if (typeof dexQS !== "undefined" && dexQS.length > 0)
         {
             strTag = strTag.replace('%dx%', dexQS);
@@ -223,8 +269,16 @@ COMSCORE.beacon({
         {
             strTag = strTag.replace('%dx%', "");
         }
+        if (typeof window.Krux.dfppKeyValues !== "undefined" && window.Krux.dfppKeyValues.length > 0)
+        {
+            strTag = strTag.replace('%krux%', window.Krux.dfppKeyValues);
+        }
+        else
+        {
+            strTag = strTag.replace('%krux%', "");
+        }
 		document.write(strTag);
-		</script><script language="JavaScript" src="http://ad.doubleclick.net/adj/dmd.iambored/community;sz=728x90;cat=;ctype=;rating=;aff=;;pub_url=${i-am-bored.com};envr=;dcopt=ist;dc_ref=https://web.archive.org/web/20141120112301id_/http%3A//www.i-am-bored.com/im_bored_privacy.asp;tile=1;ord=4048355339731173.5?" type="text/javascript"></script><noscript><a href="http://ad.doubleclick.net/jump/dmd.iambored/community;sz=728x90;cat=;ctype=;rating=;aff=;pub_url=${i-am-bored.com};envr=;tile=1;ord=201411203231?" target="_blank"><img src="http://ad.doubleclick.net/ad/dmd.iambored/community;sz=728x90;cat=;ctype=;rating=;aff=;pub_url=${i-am-bored.com};envr=;tile=1;ord=201411203231?" width="728" height="90" border="0" alt=""></a></noscript>
+		</script><script language="JavaScript" src="http://ad.doubleclick.net/adj/dmd.iambored/community;sz=728x90;cat=;ctype=;rating=;aff=;;;pub_url=${i-am-bored.com};envr=;dcopt=ist;dc_ref=https://web.archive.org/web/20150610052900id_/http%3A//www.i-am-bored.com/im_bored_privacy.asp;tile=1;ord=9484833612748548?" type="text/javascript"></script><noscript><a href="http://ad.doubleclick.net/jump/dmd.iambored/community;sz=728x90;cat=;ctype=;rating=;aff=;pub_url=${i-am-bored.com};envr=;tile=1;ord=20156922290?" target="_blank"><img src="http://ad.doubleclick.net/ad/dmd.iambored/community;sz=728x90;cat=;ctype=;rating=;aff=;pub_url=${i-am-bored.com};envr=;tile=1;ord=20156922290?" width="728" height="90" border="0" alt=""></a></noscript>
 		<!-- End: DartAdTag -->
 		</div>
 
@@ -318,7 +372,7 @@ COMSCORE.beacon({
 			var intOrd = Math.random() * 10000000000000000;
 		}
 		
-		var strTag = '<iframe class="AdModule" src="http://ad.doubleclick.net/adi/dmd.iambored/community;sz=300x250;cat=;ctype=;rating=;aff=;%dx%;pub_url=${i-am-bored.com};envr=;loc=atf;dc_ref=' + window.location.href + ';tile=2;ord=' + intOrd + '?" width="300" height="250" marginwidth="0" marginheight="0" frameborder="0" scrolling="no"><scr' + 'ipt language="JavaScript" src="http://ad.doubleclick.net/adj/dmd.iambored/community;sz=300x250;cat=;ctype=;rating=;aff=;%dx%;pub_url=${i-am-bored.com};envr=;loc=atf;dc_ref=' + window.location.href + ';abr=!ie;tile=2;ord=' + intOrd + '?" type="text/javascript"></scr' + 'ipt></iframe>';
+		var strTag = '<iframe class="AdModule" src="http://ad.doubleclick.net/adi/dmd.iambored/community;sz=300x250;cat=;ctype=;rating=;aff=;%dx%;%krux%;pub_url=${i-am-bored.com};envr=;loc=atf;dc_ref=' + window.location.href + ';tile=2;ord=' + intOrd + '?" width="300" height="250" marginwidth="0" marginheight="0" frameborder="0" scrolling="no"><scr' + 'ipt language="JavaScript" src="http://ad.doubleclick.net/adj/dmd.iambored/community;sz=300x250;cat=;ctype=;rating=;aff=;%dx%;%krux%;pub_url=${i-am-bored.com};envr=;loc=atf;dc_ref=' + window.location.href + ';abr=!ie;tile=2;ord=' + intOrd + '?" type="text/javascript"></scr' + 'ipt></iframe>';
         if (typeof dexQS !== "undefined" && dexQS.length > 0)
         {
             strTag = strTag.replace('%dx%', dexQS);
@@ -327,9 +381,17 @@ COMSCORE.beacon({
         {
             strTag = strTag.replace('%dx%', "");
         }
+        if (typeof window.Krux.dfppKeyValues !== "undefined" && window.Krux.dfppKeyValues.length > 0)
+        {
+            strTag = strTag.replace('%krux%', window.Krux.dfppKeyValues);
+        }
+        else
+        {
+            strTag = strTag.replace('%krux%', "");
+        }
 		document.write(strTag);
-		</script><iframe class="AdModule" src="http://ad.doubleclick.net/adi/dmd.iambored/community;sz=300x250;cat=;ctype=;rating=;aff=;;pub_url=${i-am-bored.com};envr=;loc=atf;dc_ref=https://web.archive.org/web/20141120112301id_/http%3A//www.i-am-bored.com/im_bored_privacy.asp;tile=2;ord=4048355339731173.5?" width="300" height="250" marginwidth="0" marginheight="0" frameborder="0" scrolling="no"><script language="JavaScript" src="http://ad.doubleclick.net/adj/dmd.iambored/community;sz=300x250;cat=;ctype=;rating=;aff=;%dx%;pub_url=${i-am-bored.com};envr=;loc=atf;dc_ref=https://web.archive.org/web/20141120112301id_/http%3A//www.i-am-bored.com/im_bored_privacy.asp;abr=!ie;tile=2;ord=4048355339731173.5?" type="text/javascript"></script></iframe>
-		<noscript><a href="http://ad.doubleclick.net/jump/dmd.iambored/community;sz=300x250;cat=;ctype=;rating=;aff=;pub_url=${i-am-bored.com};envr=;loc=atf;abr=!ie4;abr=!ie5;abr=!ie6;tile=2;ord=201411203231?" target="_blank"><img src="http://ad.doubleclick.net/ad/dmd.iambored/community;sz=300x250;cat=;ctype=;rating=;aff=;pub_url=${i-am-bored.com};envr=;loc=atf;abr=!ie4;abr=!ie5;abr=!ie6;tile=2;ord=201411203231?" width="300" height="250" border="0" alt=""></a></noscript>
+		</script><iframe class="AdModule" src="http://ad.doubleclick.net/adi/dmd.iambored/community;sz=300x250;cat=;ctype=;rating=;aff=;;;pub_url=${i-am-bored.com};envr=;loc=atf;dc_ref=https://web.archive.org/web/20150610052900id_/http%3A//www.i-am-bored.com/im_bored_privacy.asp;tile=2;ord=9484833612748548?" width="300" height="250" marginwidth="0" marginheight="0" frameborder="0" scrolling="no"><script language="JavaScript" src="http://ad.doubleclick.net/adj/dmd.iambored/community;sz=300x250;cat=;ctype=;rating=;aff=;%dx%;%krux%;pub_url=${i-am-bored.com};envr=;loc=atf;dc_ref=https://web.archive.org/web/20150610052900id_/http%3A//www.i-am-bored.com/im_bored_privacy.asp;abr=!ie;tile=2;ord=9484833612748548?" type="text/javascript"></script></iframe>
+		<noscript><a href="http://ad.doubleclick.net/jump/dmd.iambored/community;sz=300x250;cat=;ctype=;rating=;aff=;pub_url=${i-am-bored.com};envr=;loc=atf;abr=!ie4;abr=!ie5;abr=!ie6;tile=2;ord=20156922290?" target="_blank"><img src="http://ad.doubleclick.net/ad/dmd.iambored/community;sz=300x250;cat=;ctype=;rating=;aff=;pub_url=${i-am-bored.com};envr=;loc=atf;abr=!ie4;abr=!ie5;abr=!ie6;tile=2;ord=20156922290?" width="300" height="250" border="0" alt=""></a></noscript>
 		<!-- End: DartAdTag -->
 
 
@@ -352,7 +414,7 @@ COMSCORE.beacon({
 	</div>
 	<div style="margin:0px 20px 0px 0px; float:left;">
 		<a rel="nofollow" target="_blank" href="http://twitter.com/iambored" title="twitter"><img src="http://cdn-www.i-am-bored.com/art/twitter_58x57.png" border="0"></a>
-		<br><center><a rel="nofollow" target="_blank" href="http://twitter.com/iambored_com" title="twitter">twitter</a></center>
+		<br><center><a rel="nofollow" target="_blank" href="http://twitter.com/iambored" title="twitter">twitter</a></center>
 	</div>
 	<div style="float:left;">
 		<a target="_blank" href="http://www.i-am-bored.com/rss_latest.xml" title="rss"><img src="http://cdn-www.i-am-bored.com/art/rss_58x57.png" border="0"></a>
@@ -366,7 +428,7 @@ COMSCORE.beacon({
 
 <table width="100%" class="right_col_header"><tbody><tr><td>friends</td><td align="right"><a class="right_col_header_link" href="im_bored_friends.asp">more friends</a> | <a class="right_col_header_link" href="im_bored_friends_contact.asp">add your site</a></td></tr></tbody></table>
 <table width="100%" class="right_col_box"><tbody><tr><td>
-<table class="copy_small" width="100%" border="0"><tbody><tr><td valign="top" width="50%"><img border="0" width="6" height="7" src="http://cdn-www.i-am-bored.com/art/tinyarrow.gif"> <a rel="nofollow" target="linky" href="http://www.funny-stuff-central.com/"><b>Funny Stuff</b></a><br><img src="http://cdn-www.i-am-bored.com/art/pix.gif" width="1" height="5"><br><img border="0" width="6" height="7" src="http://cdn-www.i-am-bored.com/art/tinyarrow.gif"> <a rel="nofollow" target="linky" href="http://www.oddee.com"><b>Oddee</b></a><br><img src="http://cdn-www.i-am-bored.com/art/pix.gif" width="1" height="5"><br><img border="0" width="6" height="7" src="http://cdn-www.i-am-bored.com/art/tinyarrow.gif"> <a rel="nofollow" target="linky" href="http://www.extremefunnyhumor.com"><b>Extreme Humor</b></a><br><img src="http://cdn-www.i-am-bored.com/art/pix.gif" width="1" height="5"><br><img border="0" width="6" height="7" src="http://cdn-www.i-am-bored.com/art/tinyarrow.gif"> <a rel="nofollow" target="linky" href="http://collegehumor.com/videos/"><b>Funny Videos</b></a><br><img src="http://cdn-www.i-am-bored.com/art/pix.gif" width="1" height="5"><br><img border="0" width="6" height="7" src="http://cdn-www.i-am-bored.com/art/tinyarrow.gif"> <a rel="nofollow" target="linky" href="http://asylum.com"><b>Asylum</b></a><br><img src="http://cdn-www.i-am-bored.com/art/pix.gif" width="1" height="5"><br><img border="0" width="6" height="7" src="http://cdn-www.i-am-bored.com/art/tinyarrow.gif"> <a rel="nofollow" target="linky" href="http://www.ihateworkinginretail.com/"><b>I hate retail </b></a><br><img src="http://cdn-www.i-am-bored.com/art/pix.gif" width="1" height="5"><br><img border="0" width="6" height="7" src="http://cdn-www.i-am-bored.com/art/tinyarrow.gif"> <a rel="nofollow" target="linky" href="http://chaostrophic.com/"><b>Chaostrophic</b></a><br><img src="http://cdn-www.i-am-bored.com/art/pix.gif" width="1" height="5"><br><img border="0" width="6" height="7" src="http://cdn-www.i-am-bored.com/art/tinyarrow.gif"> <a rel="nofollow" target="linky" href="http://www.gorillamask.net/"><b>Gorilla Mask</b></a><br><img src="http://cdn-www.i-am-bored.com/art/pix.gif" width="1" height="5"><br><img border="0" width="6" height="7" src="http://cdn-www.i-am-bored.com/art/tinyarrow.gif"> <a rel="nofollow" target="linky" href="http://www.funny-games.biz/"><b>Funny Games</b></a><br><img src="http://cdn-www.i-am-bored.com/art/pix.gif" width="1" height="5"><br><img border="0" width="6" height="7" src="http://cdn-www.i-am-bored.com/art/tinyarrow.gif"> <a rel="nofollow" target="linky" href="http://www.coolfreebielinks.com"><b>Free Samples</b></a><br><img src="http://cdn-www.i-am-bored.com/art/pix.gif" width="1" height="5"><br><img border="0" width="6" height="7" src="http://cdn-www.i-am-bored.com/art/tinyarrow.gif"> <a rel="nofollow" target="linky" href="http://www.crazygames.dk"><b>Crazy Games</b></a><br><img src="http://cdn-www.i-am-bored.com/art/pix.gif" width="1" height="5"><br><img border="0" width="6" height="7" src="http://cdn-www.i-am-bored.com/art/tinyarrow.gif"> <a rel="nofollow" target="linky" href="http://www.123games.dk/engindex.htm"><b>123 Games</b></a><br><img src="http://cdn-www.i-am-bored.com/art/pix.gif" width="1" height="5"><br><img border="0" width="6" height="7" src="http://cdn-www.i-am-bored.com/art/tinyarrow.gif"> <a rel="nofollow" target="linky" href="http://www.angelsfire.nl"><b>Angelsfire.nl</b></a><br><img src="http://cdn-www.i-am-bored.com/art/pix.gif" width="1" height="5"><br><img border="0" width="6" height="7" src="http://cdn-www.i-am-bored.com/art/tinyarrow.gif"> <a rel="nofollow" target="linky" href="http://www.tempemail.net"><b>Anon email</b></a><br><img src="http://cdn-www.i-am-bored.com/art/pix.gif" width="1" height="5"><br></td><td valign="top" width="50%"><img border="0" width="6" height="7" src="http://cdn-www.i-am-bored.com/art/tinyarrow.gif"> <a rel="nofollow" target="linky" href="http://www.nothingtodo.co.uk"><b>Nothing To Do?</b></a><br><img src="http://cdn-www.i-am-bored.com/art/pix.gif" width="1" height="5"><br><img border="0" width="6" height="7" src="http://cdn-www.i-am-bored.com/art/tinyarrow.gif"> <a rel="nofollow" target="linky" href="http://www.insanepictures.com"><b>Insane Pictures</b></a><br><img src="http://cdn-www.i-am-bored.com/art/pix.gif" width="1" height="5"><br><img border="0" width="6" height="7" src="http://cdn-www.i-am-bored.com/art/tinyarrow.gif"> <a rel="nofollow" target="linky" href="http://www.afunnystuff.com/"><b>Funny stuff</b></a><br><img src="http://cdn-www.i-am-bored.com/art/pix.gif" width="1" height="5"><br><img border="0" width="6" height="7" src="http://cdn-www.i-am-bored.com/art/tinyarrow.gif"> <a rel="nofollow" target="linky" href="http://www.freegameheaven.com"><b>FreeGame Heaven</b></a><br><img src="http://cdn-www.i-am-bored.com/art/pix.gif" width="1" height="5"><br><img border="0" width="6" height="7" src="http://cdn-www.i-am-bored.com/art/tinyarrow.gif"> <a rel="nofollow" target="linky" href="http://www.dailyfreegames.com/"><b>DailyFreeGames</b></a><br><img src="http://cdn-www.i-am-bored.com/art/pix.gif" width="1" height="5"><br><img border="0" width="6" height="7" src="http://cdn-www.i-am-bored.com/art/tinyarrow.gif"> <a rel="nofollow" target="linky" href="http://www.escapegames24.com/"><b>Escape Games 24</b></a><br><img src="http://cdn-www.i-am-bored.com/art/pix.gif" width="1" height="5"><br><img border="0" width="6" height="7" src="http://cdn-www.i-am-bored.com/art/tinyarrow.gif"> <a rel="nofollow" target="linky" href="http://www.pugorama.com"><b>Pugorama</b></a><br><img src="http://cdn-www.i-am-bored.com/art/pix.gif" width="1" height="5"><br><img border="0" width="6" height="7" src="http://cdn-www.i-am-bored.com/art/tinyarrow.gif"> <a rel="nofollow" target="linky" href="http://comicworld.zip.net"><b>Comic World</b></a><br><img src="http://cdn-www.i-am-bored.com/art/pix.gif" width="1" height="5"><br><img border="0" width="6" height="7" src="http://cdn-www.i-am-bored.com/art/tinyarrow.gif"> <a rel="nofollow" target="linky" href="http://www.vivalagames.com"><b>Viva La Games</b></a><br><img src="http://cdn-www.i-am-bored.com/art/pix.gif" width="1" height="5"><br><img border="0" width="6" height="7" src="http://cdn-www.i-am-bored.com/art/tinyarrow.gif"> <a rel="nofollow" target="linky" href="http://www.cityrag.com"><b>CityRag</b></a><br><img src="http://cdn-www.i-am-bored.com/art/pix.gif" width="1" height="5"><br><img border="0" width="6" height="7" src="http://cdn-www.i-am-bored.com/art/tinyarrow.gif"> <a rel="nofollow" target="linky" href="http://www.urlesque.com"><b>Urlesque</b></a><br><img src="http://cdn-www.i-am-bored.com/art/pix.gif" width="1" height="5"><br></td></tr></tbody></table>
+<table class="copy_small" width="100%" border="0"><tbody><tr><td valign="top" width="50%"><img border="0" width="6" height="7" src="http://cdn-www.i-am-bored.com/art/tinyarrow.gif"> <a rel="nofollow" target="linky" href="http://chaostrophic.com/"><b>Chaostrophic</b></a><br><img src="http://cdn-www.i-am-bored.com/art/pix.gif" width="1" height="5"><br><img border="0" width="6" height="7" src="http://cdn-www.i-am-bored.com/art/tinyarrow.gif"> <a rel="nofollow" target="linky" href="http://www.extremefunnyhumor.com"><b>Extreme Humor</b></a><br><img src="http://cdn-www.i-am-bored.com/art/pix.gif" width="1" height="5"><br><img border="0" width="6" height="7" src="http://cdn-www.i-am-bored.com/art/tinyarrow.gif"> <a rel="nofollow" target="linky" href="http://www.oddee.com"><b>Oddee</b></a><br><img src="http://cdn-www.i-am-bored.com/art/pix.gif" width="1" height="5"><br><img border="0" width="6" height="7" src="http://cdn-www.i-am-bored.com/art/tinyarrow.gif"> <a rel="nofollow" target="linky" href="http://www.coolfreebielinks.com"><b>Free Samples</b></a><br><img src="http://cdn-www.i-am-bored.com/art/pix.gif" width="1" height="5"><br><img border="0" width="6" height="7" src="http://cdn-www.i-am-bored.com/art/tinyarrow.gif"> <a rel="nofollow" target="linky" href="http://www.gorillamask.net/"><b>Gorilla Mask</b></a><br><img src="http://cdn-www.i-am-bored.com/art/pix.gif" width="1" height="5"><br><img border="0" width="6" height="7" src="http://cdn-www.i-am-bored.com/art/tinyarrow.gif"> <a rel="nofollow" target="linky" href="http://www.freegameheaven.com"><b>FreeGame Heaven</b></a><br><img src="http://cdn-www.i-am-bored.com/art/pix.gif" width="1" height="5"><br><img border="0" width="6" height="7" src="http://cdn-www.i-am-bored.com/art/tinyarrow.gif"> <a rel="nofollow" target="linky" href="http://comicworld.zip.net"><b>Comic World</b></a><br><img src="http://cdn-www.i-am-bored.com/art/pix.gif" width="1" height="5"><br><img border="0" width="6" height="7" src="http://cdn-www.i-am-bored.com/art/tinyarrow.gif"> <a rel="nofollow" target="linky" href="http://www.crazygames.dk"><b>Crazy Games</b></a><br><img src="http://cdn-www.i-am-bored.com/art/pix.gif" width="1" height="5"><br><img border="0" width="6" height="7" src="http://cdn-www.i-am-bored.com/art/tinyarrow.gif"> <a rel="nofollow" target="linky" href="http://www.insanepictures.com"><b>Insane Pictures</b></a><br><img src="http://cdn-www.i-am-bored.com/art/pix.gif" width="1" height="5"><br><img border="0" width="6" height="7" src="http://cdn-www.i-am-bored.com/art/tinyarrow.gif"> <a rel="nofollow" target="linky" href="http://www.123games.dk/engindex.htm"><b>123 Games</b></a><br><img src="http://cdn-www.i-am-bored.com/art/pix.gif" width="1" height="5"><br><img border="0" width="6" height="7" src="http://cdn-www.i-am-bored.com/art/tinyarrow.gif"> <a rel="nofollow" target="linky" href="http://www.not-healthy.com"><b>Not Healthy</b></a><br><img src="http://cdn-www.i-am-bored.com/art/pix.gif" width="1" height="5"><br><img border="0" width="6" height="7" src="http://cdn-www.i-am-bored.com/art/tinyarrow.gif"> <a rel="nofollow" target="linky" href="http://www.hotgames.dk/"><b>Hot Games</b></a><br><img src="http://cdn-www.i-am-bored.com/art/pix.gif" width="1" height="5"><br><img border="0" width="6" height="7" src="http://cdn-www.i-am-bored.com/art/tinyarrow.gif"> <a rel="nofollow" target="linky" href="http://www.funny-stuff-central.com/"><b>Funny Stuff</b></a><br><img src="http://cdn-www.i-am-bored.com/art/pix.gif" width="1" height="5"><br><img border="0" width="6" height="7" src="http://cdn-www.i-am-bored.com/art/tinyarrow.gif"> <a rel="nofollow" target="linky" href="http://collegehumor.com/videos/"><b>Funny Videos</b></a><br><img src="http://cdn-www.i-am-bored.com/art/pix.gif" width="1" height="5"><br></td><td valign="top" width="50%"><img border="0" width="6" height="7" src="http://cdn-www.i-am-bored.com/art/tinyarrow.gif"> <a rel="nofollow" target="linky" href="http://www.funny-games.biz/"><b>Funny Games</b></a><br><img src="http://cdn-www.i-am-bored.com/art/pix.gif" width="1" height="5"><br><img border="0" width="6" height="7" src="http://cdn-www.i-am-bored.com/art/tinyarrow.gif"> <a rel="nofollow" target="linky" href="http://www.thedollpalace.com/doll-maker/dress-up-games.php"><b>Dress Up Games</b></a><br><img src="http://cdn-www.i-am-bored.com/art/pix.gif" width="1" height="5"><br><img border="0" width="6" height="7" src="http://cdn-www.i-am-bored.com/art/tinyarrow.gif"> <a rel="nofollow" target="linky" href="http://www.cavemancircus.com"><b>Caveman Circus</b></a><br><img src="http://cdn-www.i-am-bored.com/art/pix.gif" width="1" height="5"><br></td></tr></tbody></table>
 
 </td></tr></tbody></table>
 
@@ -385,7 +447,7 @@ COMSCORE.beacon({
 			var intOrd = Math.random() * 10000000000000000;
 		}
 		
-		var strTag = '<iframe class="AdModule" src="http://ad.doubleclick.net/adi/dmd.iambored/community;sz=300x250;cat=;ctype=;rating=;aff=;%dx%;pub_url=${i-am-bored.com};envr=;loc=btf;dc_ref=' + window.location.href + ';tile=3;ord=' + intOrd + '?" width="300" height="250" marginwidth="0" marginheight="0" frameborder="0" scrolling="no"><scr' + 'ipt language="JavaScript" src="http://ad.doubleclick.net/adj/dmd.iambored/community;sz=300x250;cat=;ctype=;rating=;aff=;%dx%;pub_url=${i-am-bored.com};envr=;loc=btf;dc_ref=' + window.location.href + ';abr=!ie;tile=3;ord=' + intOrd + '?" type="text/javascript"></scr' + 'ipt></iframe>';
+		var strTag = '<iframe class="AdModule" src="http://ad.doubleclick.net/adi/dmd.iambored/community;sz=300x250;cat=;ctype=;rating=;aff=;%dx%;%krux%;pub_url=${i-am-bored.com};envr=;loc=btf;dc_ref=' + window.location.href + ';tile=3;ord=' + intOrd + '?" width="300" height="250" marginwidth="0" marginheight="0" frameborder="0" scrolling="no"><scr' + 'ipt language="JavaScript" src="http://ad.doubleclick.net/adj/dmd.iambored/community;sz=300x250;cat=;ctype=;rating=;aff=;%dx%;%krux%;pub_url=${i-am-bored.com};envr=;loc=btf;dc_ref=' + window.location.href + ';abr=!ie;tile=3;ord=' + intOrd + '?" type="text/javascript"></scr' + 'ipt></iframe>';
         if (typeof dexQS !== "undefined" && dexQS.length > 0)
         {
             strTag = strTag.replace('%dx%', dexQS);
@@ -394,9 +456,17 @@ COMSCORE.beacon({
         {
             strTag = strTag.replace('%dx%', "");
         }
+        if (typeof window.Krux.dfppKeyValues !== "undefined" && window.Krux.dfppKeyValues.length > 0)
+        {
+            strTag = strTag.replace('%krux%', window.Krux.dfppKeyValues);
+        }
+        else
+        {
+            strTag = strTag.replace('%krux%', "");
+        }
 		document.write(strTag);
-		</script><iframe class="AdModule" src="http://ad.doubleclick.net/adi/dmd.iambored/community;sz=300x250;cat=;ctype=;rating=;aff=;;pub_url=${i-am-bored.com};envr=;loc=btf;dc_ref=https://web.archive.org/web/20141120112301id_/http%3A//www.i-am-bored.com/im_bored_privacy.asp;tile=3;ord=4048355339731173.5?" width="300" height="250" marginwidth="0" marginheight="0" frameborder="0" scrolling="no"><script language="JavaScript" src="http://ad.doubleclick.net/adj/dmd.iambored/community;sz=300x250;cat=;ctype=;rating=;aff=;%dx%;pub_url=${i-am-bored.com};envr=;loc=btf;dc_ref=https://web.archive.org/web/20141120112301id_/http%3A//www.i-am-bored.com/im_bored_privacy.asp;abr=!ie;tile=3;ord=4048355339731173.5?" type="text/javascript"></script></iframe>
-		<noscript><a href="http://ad.doubleclick.net/jump/dmd.iambored/community;sz=300x250;cat=;ctype=;rating=;aff=;pub_url=${i-am-bored.com};envr=;loc=btf;abr=!ie4;abr=!ie5;abr=!ie6;tile=3;ord=201411203231?" target="_blank"><img src="http://ad.doubleclick.net/ad/dmd.iambored/community;sz=300x250;cat=;ctype=;rating=;aff=;pub_url=${i-am-bored.com};envr=;loc=btf;abr=!ie4;abr=!ie5;abr=!ie6;tile=3;ord=201411203231?" width="300" height="250" border="0" alt=""></a></noscript>
+		</script><iframe class="AdModule" src="http://ad.doubleclick.net/adi/dmd.iambored/community;sz=300x250;cat=;ctype=;rating=;aff=;;;pub_url=${i-am-bored.com};envr=;loc=btf;dc_ref=https://web.archive.org/web/20150610052900id_/http%3A//www.i-am-bored.com/im_bored_privacy.asp;tile=3;ord=9484833612748548?" width="300" height="250" marginwidth="0" marginheight="0" frameborder="0" scrolling="no"><script language="JavaScript" src="http://ad.doubleclick.net/adj/dmd.iambored/community;sz=300x250;cat=;ctype=;rating=;aff=;%dx%;%krux%;pub_url=${i-am-bored.com};envr=;loc=btf;dc_ref=https://web.archive.org/web/20150610052900id_/http%3A//www.i-am-bored.com/im_bored_privacy.asp;abr=!ie;tile=3;ord=9484833612748548?" type="text/javascript"></script></iframe>
+		<noscript><a href="http://ad.doubleclick.net/jump/dmd.iambored/community;sz=300x250;cat=;ctype=;rating=;aff=;pub_url=${i-am-bored.com};envr=;loc=btf;abr=!ie4;abr=!ie5;abr=!ie6;tile=3;ord=20156922290?" target="_blank"><img src="http://ad.doubleclick.net/ad/dmd.iambored/community;sz=300x250;cat=;ctype=;rating=;aff=;pub_url=${i-am-bored.com};envr=;loc=btf;abr=!ie4;abr=!ie5;abr=!ie6;tile=3;ord=20156922290?" width="300" height="250" border="0" alt=""></a></noscript>
 		<!-- End: DartAdTag -->
 
 
@@ -570,7 +640,7 @@ In the course of serving advertisements to this site, our third-party advertiser
 	<a href="http://www.i-am-bored.com/im_bored_copyright.asp">Copyright Policy</a> | 
 	<a href="http://www.i-am-bored.com/im_bored_rss.asp"><img align="absmiddle" src="http://cdn-www.i-am-bored.com/art/rss.gif" border="0"></a>
 	<br>
-	© 2014 Demand Media, Inc. All rights reserved.<br>
+	© 2015 Demand Media, Inc. All rights reserved.<br>
 	<img src="http://cdn-www.i-am-bored.com/ui/images/driven-by-demand-media.png" border="0" vspace="5">
 </span>
 </center>
