@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thinktosustain.com privacy policy that was archived on 2014-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141211164608id_/http%3A//www.thinktosustain.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thinktosustain.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610091659id_/http%3A//www.thinktosustain.com/privacy) for the most accurate reproduction.*
 
 # Privacy | ThinktoSustain.com
 
