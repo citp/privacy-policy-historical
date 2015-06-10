@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the fieldsupply.com privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123064857id_/http%3A//www.fieldsupply.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fieldsupply.com privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611010336id_/http%3A//www.fieldsupply.com/privacy) for the most accurate reproduction.*
 
 # Field Supply - Privacy Policy | Field Supply
 
-At   we are the white hats, the good guys, the Dudley Do-Rights saving the damsel in distress. We believe in God, Family, Country, Corps, and enjoy cheap laughs, quality products, and killer prices. We want you to buy with confidence. We've been doing this kind of thing for over 18 years and sincerely appreciate the trust you place in us and all Brandshopper sites.  We are committed to respecting your privacy and securing your personal information. We collect certain bits of information to do some basic things: ship your packages, let you enjoy our site features and offers, and improve our products and customer service.
+At Field Supply we are the white hats, the good guys, the Dudley Do-Rights saving the damsel in distress. We believe in God, Family, Country, Corps, and enjoy cheap laughs, quality products, and killer prices. We want you to buy with confidence. We've been doing this kind of thing for 20 years and sincerely appreciate the trust you place in us and all Brandshopper sites.  We are committed to respecting your privacy and securing your personal information. We collect certain bits of information to do some basic things: ship your packages, let you enjoy our site features and offers, and improve our products and customer service.
 
 ## Or, as our expensive lawyers with the fancy suits put it:
 
