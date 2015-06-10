@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the nutritionix.com privacy policy that was archived on 2014-11-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141122001208id_/http%3A//www.nutritionix.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the nutritionix.com privacy policy that was archived on 2015-06-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150610233429id_/http%3A//www.nutritionix.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml" lang="en"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -12,8 +12,8 @@
 <meta name="apple-itunes-app" content="app-id=917647392">
 <meta property="og:description" content="Nutritionix - Privacy Policy">
  
-<link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Open+Sans:400,600,700">
-<link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Archivo+Black">
+<link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Open+Sans:400,600,700">
+<link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Archivo+Black">
  
  
 <link rel="apple-touch-icon-precomposed" sizes="152x152" href="/images/apple-touch-icon-152x152-precomposed.png">
@@ -34,25 +34,57 @@
 <link rel="image_src" href="/images/image-coming-soon-small.png">
 <meta name="keywords" content="Nutritionix, Privacy Policy">
 <meta name="description" content="Nutritionix - Privacy Policy">
-<link rel="stylesheet" type="text/css" href="/assets/cb6cbd17/nix199_2b715f5790a784699b929a6f4c0bef9c.css">
-<script async="" src="//rum-static.pingdom.net/prum.min.js"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript" src="/assets/cb6cbd17/nix199_a1313e91f97e273a01fc18e0f3f716b0.js"></script>
-<title>Nutritionix - Privacy Policy</title>
+<link rel="stylesheet" type="text/css" href="http://d2eawub7utcl6.cloudfront.net/s0/assets/mainsite/vbabe3/assets/compressed/nix_babe3_4b3c5067490ed4f7cc30be010aa53ec3.css">
+<script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" src="//rum-static.pingdom.net/prum.min.js"></script><script type="text/javascript" src="http://d2eawub7utcl6.cloudfront.net/s0/assets/mainsite/vbabe3/assets/compressed/nix_babe3_ad752288bee11a9f592022a29c4d8be8.js"></script>
 <script type="text/javascript">
-		var _gaq = _gaq || [];
-		_gaq.push(['_setAccount', 'UA-19183277-1']);
-		_gaq.push(['_setDomainName', 'nutritionix.com']);
-		_gaq.push(['_setAllowHash', false]);
-		_gaq.push(['_trackPageview']);
+/*<![CDATA[*/
 
-		(function(){
-			var ga = document.createElement('script');
-			ga.type = 'text/javascript';
-			ga.async = true;
-			ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
-			var s = document.getElementsByTagName('script')[0];
-			s.parentNode.insertBefore(ga, s);
-		})();
-	</script>
+            window.recaptchaWidgets = function(){
+                $.each(window.recaptchaWidgets.list, function(i){
+                    var submitButtons = $('#' + i)
+                                            .closest('form')
+                                            .find('submit, button[type=submit], input[type=submit]');
+                    var widget;
+
+                    submitButtons.on('click', function(e){
+                        if(widget && grecaptcha.getResponse(widget).length === 0){
+                            e.preventDefault();
+                            return false;
+                        }
+                    });
+
+                    submitButtons.addClass('disabled').attr('disabled', true);
+
+                    window.recaptchaWidgets.list[i] = widget = grecaptcha.render(i, {
+                        sitekey : window.recaptchaWidgets.siteKey,
+                        theme : 'light',
+                        callback: function(){
+                            submitButtons.removeClass('disabled').attr('disabled', false);
+                        },
+                        'expired-callback': function(){
+                            submitButtons.addClass('disabled').attr('disabled', true);
+                        }
+                    });
+                });
+            };
+            window.recaptchaWidgets.reset = function() {
+                $.each(window.recaptchaWidgets.list, function(i, widget){
+                    $('#' + i)
+                        .closest('form')
+                        .find('submit, button[type=submit], input[type=submit]')
+                        .addClass('disabled')
+                        .attr('disabled', true);
+
+                    grecaptcha.reset(widget);
+                });
+            };
+            window.recaptchaWidgets.siteKey = '6Le85OQSAAAAAN9HqLo1BpXxUu6DWap-caFTZsYj';
+            window.recaptchaWidgets.list = {};
+        
+window.recaptchaWidgets.list['g-recaptcha-1'] = null;
+/*]]>*/
+</script>
+<title>Nutritionix - Privacy Policy</title>
 <script>
 	var _prum = [['id', '532360a8abe53d324155f145'], ['mark', 'firstbyte', (new Date()).getTime()]];
 	(function() {
@@ -156,11 +188,8 @@ Wherever we collect sensitive information (such as credit card data), that infor
 While we use encryption to protect sensitive information transmitted online, we also protect your information offline. Only employees who need the information to perform a specific job (for example, billing or customer service) are granted access to personally identifiable information. The computers/servers in which we store personally identifiable information are kept in a secure environment.
 </p>
 <p>
-If you feel that we are not abiding by this privacy policy, you should contact us immediately via e-mail at <a href="mailto:support@nutritionix.com">support@nutritionix.com<script type="text/javascript">
-/* <![CDATA[ */
-(function(){try{var s,a,i,j,r,c,l,b=document.getElementsByTagName("script");l=b[b.length-1].previousSibling;a=l.getAttribute('data-cfemail');if(a){s='';r=parseInt(a.substr(0,2),16);for(j=2;a.length-j;j+=2){c=parseInt(a.substr(j,2),16)^r;s+=String.fromCharCode(c);}s=document.createTextNode(s);l.parentNode.replaceChild(s,l);}}catch(e){}})();
-/* ]]> */
-</script></a>
+If you feel that we are not abiding by this privacy policy, you should contact us immediately via e-mail at <a href="mailto:support@nutritionix.com">support@nutritionix.com<script cf-hash="f9e31" type="text/javascript">
+/* <![CDATA[ */!function(){try{var t="currentScript"in document?document.currentScript:function(){for(var t=document.getElementsByTagName("script"),e=t.length;e--;)if(t[e].getAttribute("cf-hash"))return t[e]}();if(t&&t.previousSibling){var e,r,n,i,c=t.previousSibling,a=c.getAttribute("data-cfemail");if(a){for(e="",r=parseInt(a.substr(0,2),16),n=2;a.length-n;n+=2)i=parseInt(a.substr(n,2),16)^r,e+=String.fromCharCode(i);e=document.createTextNode(e),c.parentNode.replaceChild(e,c)}}}catch(u){}}();/* ]]> */</script></a>
 </p></span><br><br>
 <div class="clear"></div>
 </div>
@@ -174,7 +203,7 @@ If you feel that we are not abiding by this privacy policy, you should contact u
 <g:plusone size="small" href="http://www.nutritionix.com"></g:plusone>
 </li>
 </ul>
-<script type="text/javascript" src="http://apis.google.com/js/plusone.js"></script>
+<script type="text/javascript" src="//apis.google.com/js/plusone.js"></script>
 </div>
 <ul id="followUs">
 <li class="usda"><a class="linkExternal" href="http://blog.nutritionix.com/2012/03/15/nutritionix-joins-national-strategic-partnership-usda/"></a></li>
@@ -197,7 +226,7 @@ If you feel that we are not abiding by this privacy policy, you should contact u
 <li class="active"><a alt="Privacy" title="Privacy" href="/privacy">Privacy</a></li>
 <li><a alt="Terms &amp; Conditions" title="Terms &amp; Conditions" href="/terms">Terms &amp; Conditions</a></li>
 </ul></div>
-<script type="text/javascript" src="http://apis.google.com/js/plusone.js"></script>
+<script type="text/javascript" src="//apis.google.com/js/plusone.js"></script>
 <div id="modal-feedback">
 <form id="feedbackForm" action="/site/feedback?mode=submit" method="post"><h4>Send Us Feedback</h4>
 <div class="form-item">
@@ -216,21 +245,29 @@ If you feel that we are not abiding by this privacy policy, you should contact u
 <div class="form-item" style="width:450px;">
 <label for="FeedbackForm_message" class="required">Message:</label> <textarea class="formTextarea w320" rows="8" cols="60" name="FeedbackForm[message]" id="FeedbackForm_message"></textarea> <div class="errorMessage" id="FeedbackForm_message_em_" style="display:none"></div></div>
 <div class="form-item captcha" style="overflow:visible; width:450px;">
-<label for="FeedbackForm_verifyCode">Captcha:</label> <input class="formText w160" maxlength="5" name="FeedbackForm[verifyCode]" id="FeedbackForm_verifyCode" type="text"> <div class="clear"></div>
-<label>&nbsp;</label>
-<img class="captcha mTop6 floatL" style="margin-right: 4px; width:167px" id="feedbackCaptcha" src="/site/feedbackCaptcha?v=546fd4f204bb5" alt=""> <div class="errorMessage" id="FeedbackForm_verifyCode_em_" style="display:none"></div> <div class="clear"></div>
+<label for="FeedbackForm_verifyCode">Captcha:</label> <input name="FeedbackForm[verifyCode]" id="FeedbackForm_verifyCode" type="hidden"><div id="g-recaptcha-1" style="display: inline-block;"></div> <div class="errorMessage" id="FeedbackForm_verifyCode_em_" style="display:none"></div> <div class="clear"></div>
 </div>
 <div class="button-wrap">
 <input class="formButton green" id="feedback" type="submit" name="yt0" value="Send"></div>
 <input name="FeedbackForm[referrer]" id="FeedbackForm_referrer" type="hidden"><input name="FeedbackForm[ajaxError]" id="FeedbackForm_ajaxError" type="hidden"><div class="errorMessage" id="FeedbackForm_ajaxError_em_" style="display:none"></div></form><br><br>
-<div class="msgBox"></div></div><div id="modal-feedback-success">
+<div class="msgBox"></div>
+</div><div id="modal-feedback-success">
 <h4>Thank You!</h4>
 <div class="modal-msg-text"><p>Your feedback has been submitted.</p></div></div>
 <div id="fb-root"><script async="" src="https://connect.facebook.net/en_US/all.js"></script></div>
 <input type="hidden" id="showFocus" value="1">
-<script type="text/javascript" src="/assets/cb6cbd17/nix199_6801e6f8ee2a57480a4b124cd8bf0db4.js"></script>
+<script type="text/javascript" src="https://www.google.com/recaptcha/api.js?render=explicit&amp;onload=recaptchaWidgets"></script>
+<script type="text/javascript" src="http://d2eawub7utcl6.cloudfront.net/s0/assets/mainsite/vbabe3/assets/compressed/nix_babe3_d756e1a33c59e6589f066bba1cdfb532.js"></script>
 <script type="text/javascript">
 /*<![CDATA[*/
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+             (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+             m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+             })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+             ga('create', {'trackingId':'UA-19183277-1','cookieDomain':'nutritionix.com'});
+             ga('send', 'pageview');
+             
 
 		window.fbAsyncInit = function(){
 			FB.init({appId: '114419098592332', cookie: true, xfbml: true, status: true});
@@ -245,24 +282,10 @@ If you feel that we are not abiding by this privacy policy, you should contact u
 		}());
 	
 jQuery(function($) {
-$("#q").nixAutocomplete({endpoint: "https://api.nutritionix.com", appId: "4923352a",appKey: "92ba2038b71107c4231dd4070071fd1c"})
+$("#q").nixAutocomplete({endpoint: "https://api.nutritionix.com", appId: "732e2c1b",appKey: "ec0253de172a689b75f2266e3386dfa5"})
 jQuery('#modal-feedback').dialog({'title':'Your feedback is important to us','autoOpen':false,'resizable':false,'modal':true,'width':700,'zIndex':10000,'dialogClass':'dialogModal modal','position':'center','close':function(event, ui){
 				$("#showFocus").val(1);
 			}});
-jQuery('#feedbackCaptcha').after("<a rel=\"nofollow\" id=\"feedbackCaptcha_button\" href=\"\/site\/feedbackCaptcha?refresh=1\">Get a new code<\/a>");
-jQuery(document).on('click', '#feedbackCaptcha_button, #feedbackCaptcha', function(){
-	jQuery.ajax({
-		url: "\/site\/feedbackCaptcha?refresh=1",
-		dataType: 'json',
-		cache: false,
-		success: function(data) {
-			jQuery('#feedbackCaptcha').attr('src', data['url']);
-			jQuery('body').data('/site/feedbackCaptcha.hash', [data['hash1'], data['hash2']]);
-		}
-	});
-	return false;
-});
-
 jQuery('#feedbackForm').yiiactiveform({'validateOnSubmit':true,'validateOnChange':false,'validateOnType':false,'inputContainer':'input','beforeValidate':function(form) {
 			showMessage.success({ text: ["We are processing your request. Please wait..."], autoClose: false });
 			return true;
@@ -274,8 +297,8 @@ jQuery('#feedbackForm').yiiactiveform({'validateOnSubmit':true,'validateOnChange
 				$("#modal-feedback").dialog("close");
 				$("#modal-feedback-success").dialog("open");
 				form.trigger("reset");
-				$(".captcha", form).trigger("click");
 			}
+			recaptchaWidgets.reset()
 			return false;
 		},'attributes':[{'id':'FeedbackForm_firstName','inputID':'FeedbackForm_firstName','errorID':'FeedbackForm_firstName_em_','model':'FeedbackForm','name':'firstName','enableAjaxValidation':true,'hideErrorMessage':true,'clientValidation':function(value, messages, attribute) {
 
@@ -307,35 +330,11 @@ if(jQuery.trim(value)=='') {
 	messages.push("Please enter a message.");
 }
 
-}},{'id':'FeedbackForm_verifyCode','inputID':'FeedbackForm_verifyCode','errorID':'FeedbackForm_verifyCode_em_','model':'FeedbackForm','name':'verifyCode','enableAjaxValidation':true,'hideErrorMessage':true,'clientValidation':function(value, messages, attribute) {
-
-if(jQuery.trim(value)!='') {
-	
-if(value.length<5) {
-	messages.push("Captcha is too short (minimum is 5 characters).");
-}
-
-if(value.length>5) {
-	messages.push("Captcha is too long (maximum is 5 characters).");
-}
-
-}
-
-
-var hash = jQuery('body').data('/site/feedbackCaptcha.hash');
-if (hash == null)
-	hash = 529;
-else
-	hash = hash[1];
-for(var i=value.length-1, h=0; i >= 0; --i) h+=value.toLowerCase().charCodeAt(i);
-if(h != hash) {
-	messages.push("The verification image that you entered isn't correct.");
-}
-
-}},{'id':'FeedbackForm_ajaxError','inputID':'FeedbackForm_ajaxError','errorID':'FeedbackForm_ajaxError_em_','model':'FeedbackForm','name':'ajaxError','enableAjaxValidation':true,'hideErrorMessage':true}],'errorCss':'error'});
+}},{'id':'FeedbackForm_verifyCode','inputID':'FeedbackForm_verifyCode','errorID':'FeedbackForm_verifyCode_em_','model':'FeedbackForm','name':'verifyCode','enableAjaxValidation':true,'hideErrorMessage':true},{'id':'FeedbackForm_ajaxError','inputID':'FeedbackForm_ajaxError','errorID':'FeedbackForm_ajaxError_em_','model':'FeedbackForm','name':'ajaxError','enableAjaxValidation':true,'hideErrorMessage':true}],'errorCss':'error'});
 jQuery('#modal-feedback-success').dialog({'title':'Feedback sent','autoOpen':false,'resizable':false,'modal':true,'width':510,'zIndex':10000,'dialogClass':'dialogModal modal','position':'center','close':function(event, ui){
 				$("#showFocus").val(1);
 			}});
+$("input, textarea").placeholder();
 2
 
 	// Search
