@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bangladeshresult.com privacy policy that was archived on 2014-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141203235555id_/http%3A//bangladeshresult.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bangladeshresult.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610061149id_/http%3A//bangladeshresult.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Bangladesh Result
 
@@ -10,7 +10,7 @@ Updated on: 25-August-2014
 
   * Google Analytics  
 Personal Data: Cookie and Usage Data  
-Google Analytics is a web analysis service provided by Google. Google utilizes the data collected to track and examine the use of [bangladeshresult.com](http://bangladeshresult24.com/ "bangladeshresult.com"), to prepare reports on its activities and share them with other Google services.  
+Google Analytics is a web analysis service provided by Google. Google utilizes the data collected to track and examine the use of [Bangladeshresult.com](http://bangladeshresult.com/ "bangladeshresult.com"), to prepare reports on its activities and share them with other Google services.  
 Google may use the data collected to contextualize and personalize the ads of its own advertising network.Personal data collected: Cookie and Usage Data. Place of processing: USA. Find Google’s [privacy policy here](http://www.google.com/intl/en/policies/privacy/ "privacy").
   * You can opt out by clicking [Opt Out](https://tools.google.com/dlpage/gaoptout?hl=en)
 
@@ -58,7 +58,7 @@ Please also visit our Terms and Conditions section establishing the use, disclai
 
 ### **Your Consent**
 
-By using our site, you consent to our [websites privacy policy](http://bangladeshresult24.com/privacy-policy/ "privacy-policy").
+By using our site, you consent to our [websites privacy policy](http://bangladeshresult.com/privacy-policy/ "privacy-policy").
 
 ### **Changes to our Privacy Policy**
 
@@ -66,4 +66,4 @@ If we decide to change our privacy policy, we will post those changes on this pa
 
 ## **Contacting Us**
 
-If there are any questions regarding this privacy policy you may [contact us](http://bangladeshresult24.com/contact/ "Contact").
+If there are any questions regarding this privacy policy you may [contact us](http://bangladeshresult.com/contact/ "Contact").
