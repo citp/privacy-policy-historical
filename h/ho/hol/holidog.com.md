@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the holidog.com privacy policy that was archived on 2013-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130622045127id_/http%3A//us.holidog.com/Legal/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the holidog.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610041859id_/http%3A//us.holidog.com/Legal/PrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-[ Print this page ]()
+Print this page 
 
-Last Updated December 20, 2012 
+Last Updated July 07, 2013 
 
 ### 1.Use of Information
 
-Holidog, Inc. ("Holidog","we","our","us") takes your privacy seriously. We have established this Privacy Policy to carefully explain how we gather and disseminate information provided to us by you. By accessing our website [www.holidog.com](https://web.archive.org/) ("website" and/or "Site"), you acknowledge and agree to comply with this Privacy Policy and our Terms of Service, which can be found at [http://us.holidog.com/Legal/ConditionsOfUse](https://web.archive.org/Legal/ConditionsOfUse). Unless otherwise defined herein, the terms in this Privacy Policy have the same meaning as in our Terms of Service. You acknowledge that we gather information from you, our users, customers and those who visit the Site subject to the terms of this Privacy Policy. Our primary goal in collecting and using information is to improve our services and the Site. When you first set up an account with Holidog you will be asked for certain information that will be used to create your profile. The profile will generally contain first name, last name, motivation, pictures, and availability. This information will be publicly available on the Site. 
+Holidog, Inc. ("Holidog","we","our","us") takes your privacy seriously. We have established this Privacy Policy to carefully explain how we gather and disseminate information provided to us by you. By accessing our website [us.holidog.com](https://web.archive.org/) ("website" and/or "Site"), you acknowledge and agree to comply with this Privacy Policy and our Terms of Service, which can be found at [http://us.holidog.com/Legal/ConditionsOfUse](https://web.archive.org/Legal/ConditionsOfUse). Unless otherwise defined herein, the terms in this Privacy Policy have the same meaning as in our Terms of Service. You acknowledge that we gather information from you, our users, customers and those who visit the Site subject to the terms of this Privacy Policy. Our primary goal in collecting and using information is to improve our services and the Site. When you first set up an account with Holidog you will be asked for certain information that will be used to create your profile. The profile will generally contain first name, last name, motivation, pictures, and availability. This information will be publicly available on the Site. 
 
 ### 2.Personally Identifiable Information
 
@@ -36,7 +36,7 @@ Holidog is very concerned with identity theft and the practice currently known a
 
 ### 8.Policy towards Children
 
-Holidog does not knowingly collect Personal Data or any personally identifiable information from persons under the age of 13. Holidog does not knowingly allow persons under the age of 13 to use the website. Persons under 13 are not allowed to use the webiste. 
+Holidog does not knowingly collect Personal Data or any personally identifiable information from persons under the age of 16. Holidog does not knowingly allow persons under the age of 13 to use the website. Persons under 16 are not allowed to use the webiste. 
 
 ### 9.Law Enforcement Compliance
 
@@ -64,9 +64,9 @@ Our service is hosted and provided from Chicago, USA. If you access and use our 
 
 ### 15.Contact Information
 
-We welcome feedback concerning our website and services. By using www.holidog.com you consent to our Privacy Policy and Terms of Use. If you have any questions about this Privacy Policy or wish to opt out from receiving messages sent by us, please contact us at:   
+We welcome feedback concerning our website and services. By using us.holidog.com you consent to our Privacy Policy and Terms of Use. If you have any questions about this Privacy Policy or wish to opt out from receiving messages sent by us, please contact us at:   
 Name: Julien Muller   
-Email: julien@holidog.com
+Email: contact@holidog.com
 
 ### 16.Changes To Privacy Policy
 
