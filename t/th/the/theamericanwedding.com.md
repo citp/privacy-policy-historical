@@ -1,144 +1,94 @@
-> *The following text is extracted and transformed from the theamericanwedding.com privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123124301id_/http%3A//www.theamericanwedding.com/customerservice/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theamericanwedding.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610151953id_/http%3A//www.theamericanwedding.com/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
 
-# Privacy Policy | Customer Service | The American Wedding
+# Privacy Policy | The American Wedding
 
-American Stationery Company, Inc. (the Company), as owner and operator of several commercial web sites, including:
+Please replace this text with you Privacy Policy. Please add any additional cookies your website uses below (e.g., Google Analytics) 
 
-  * [www.americanstationery.com](http://www.americanstationery.com/)
-  * [www.theamericanwedding.com](http://www.theamericanwedding.com/)
+This privacy policy sets out how The American Wedding uses and protects any information that you give The American Wedding when you use this website. The American Wedding is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement. The American Wedding may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. 
 
+## What we collect
 
+We may collect the following information:
 
-is committed to your online security and privacy. We believe that your online shopping experience should be safe, secure and enjoyable. We take measures to make that happen. This statement provides details concerning our policies and procedures to protect your online security and privacy. This privacy statement does not apply to information we may gather through sources other than our web sites, including, but not limited to, orders that are transmitted by telephone, fax or mail.
-
-  * Information Collection and Use
-    * Information Collection 
-      * Registration
-      * Order
-      * Referrals
-    * Information Use
-      * Cookies
-      * Third Party Advertising
-      * Log Files
-      * Communications From Site
-      * Sharing
-      * Choice & Opt-in/out
-      * Links
-      * Surveys & Contests
-      * Email To Friend
-    * Security
-      * Personal Information
-      * Billing Information
-      * SSL Encryption
-    * Additional Information 
-      * Children's Guidelines
-      * Notification of Changes
-      * Contact Information
+  * name
+  * contact information including email address
+  * demographic information such as postcode, preferences and interests
+  * other information relevant to customer surveys and/or offers
 
 
 
-## Information Collection and Use
+For the exhaustive list of cookies we collect see the List of cookies we collect section. 
 
-### Information Collection
+## What we do with the information we gather
 
-The Company is the sole owner of the information collected on our web sites. The Company collects information from our users at different points on this web site.
+We require this information to understand your needs and provide you with a better service, and in particular for the following reasons: 
 
-**Registration**  
-In order to browse this web site, a user need not register. To use advanced web site features, such as online personalization, save my work or email to a friend, a user must complete a short registration form where we will ask for the user's name and email address. The user's email address becomes the user's login ID. Account security is protected by asking for a user defined password. Please do not share your password with anyone. If lost or forgotten, we have provided recovery features to help you retrieve your forgotten password. 
+  * Internal record keeping.
+  * We may use the information to improve our products and services.
+  * We may periodically send promotional emails about new products, special offers or other information which we think you may find interesting using the email address which you have provided. 
+  * From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail. We may use the information to customise the website according to your interests. 
 
-Registration enables us to establish a user account for you, and enables the advanced features. We also use this information to provide a more personalized experience on our site.
 
-Once your user account has been inactive for a period of 12 months or more or if it is 6 months after the wedding date, we may remove it from our online database and you will need to re-register in order to use those features again. Invalid email addresses will be removed. 
-
-**Catalog Requests**  
-When you order a catalog online you will receive an order confirmation, and a shipping confirmation via e-mail. As a catalog requestor, you will also receive e-mail promotions that can be used on future orders. You may opt-out at any time by clicking the link at the bottom of the e-mail. 
-
-**Order**  
-When ordering, we request additional information from the user. This includes contact information (such as phone number, and address) for billing and shipping, and financial information (such as credit card number, expiration date or checking account number and bank routing number). This information is used for billing purposes and to fill customer's orders. If we have trouble processing an order, the information is used to contact the user.
-
-**Referrals**  
-We believe in helping others. We believe that our customers may wish to share their good experiences on our site with their friends and relatives who may also be interested in similar products. To this end, we may ask our customers to provide us with email addresses of others who may enjoy visiting our site. We will send a promotional email to those referred, containing a link to our web site. We will identify you as the person who has referred them to us. Referring others to us is always voluntary.
-
-### Information Use
-
-**Cookies**  
-A cookie is a piece of data stored on the user's computer tied to information about the user. We use session ID cookies and persistent cookies. Once users close the browser, the session ID cookie simply terminates. A persistent cookie is a small text file stored on the user's hard drive for an extended period of time. Persistent cookies can be removed by following Internet browser help file directions. 
-
-By allowing a cookie from our site, users would not have to log in a password more than once, thereby saving time while on our site. If users reject the cookie, they may still use our site. The only drawback to this is that the user will be limited in some areas of our site. For example, the user will not be able to participate in some marketing promotions that may be offered from time to time, to users matching a specific profile. Persistent cookies enable us to track and target the interests of our users to enhance the experience on our site.
-
-  **Log Files**  
-Like most standard web sites, we use log files. This includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, track user's movement in the aggregate, and gather broad demographic information for aggregate use. IP addresses, etc. are not linked to personally identifiable information. The information we gather through log files is never tied to your personally identifiable information. We reserve the right to share information we gather in the aggregate, through the use of log files. 
-
-**Communications from the Site**  
-Special Offers and Updates  
-We send new registrants a welcoming email to verify password and username. Established members may occasionally receive information on products, services and special promotions. Out of respect for the privacy of our users we present the option to not receive these types of communications. Please see the Opt-in/out & Update section.
-
-Service Announcements  
-Service announcements are typically not promotional in nature. They are sent to our customers to provide specific services or information. For instance, when a customer's order is shipped from our manufacturing facility, we will advise the customer by email of the shipping specifics, and provide (if applicable) a tracking number, and method for the customer to track their order. We may send email notices to our users advising them of changes to this policy, or to our terms and conditions or to announce new products/product lines. Additionally, from time to time, we may send a service email to all our users in order to clean our database. Such messages allow us to purge invalid email addresses, and also afford all users an opportunity to review and change, if desired, their opt in/opt out status.
-
-Customer Service  
-We communicate with users on a regular basis to provide requested services. In regard to issues relating to their account we may reply via email or phone, fax, postal mail, or such other communications as we deem most appropriate.
-
-**Sharing  
-**
-
-Legal Disclaimer
-
-Although we make every effort to preserve user privacy, we may need to disclose personal information when required by law wherein we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order or legal process served on our web site.
-
-Third Party Intermediaries  
-We use third party credit card processing and check processing companies to bill users for goods and services. These companies do not retain, share, store or use personally identifiable information for any secondary purposes.
-
-Business Transitions  
-In the event the Company goes through a business transition, such as a merger, being acquired by another company, or selling a portion of its assets, users' personal information will, in most instances, be part of the assets transferred. 
-
-**Opt-in/out & Update**  
-By using our web site, our users agree to the uses of information described in this statement, and are "opting-in" to receive communications as herein described. Our users always have a choice. They are given the opportunity to 'opt-out' of having their information used for purposes not directly related to our site. Users who no longer wish to receive our promotional communications may opt-out of receiving these communications by following the opt-out instructions contained in the email or clicking [here](https://web.archive.org/opt/optout/index/). Our users may update their information in "My Account" at any time. From time to time, we may send a service email to all our users in order to clean our database. Such messages allow us to purge invalid email addresses, and also afford all users an opportunity to review and change, if desired, their opt in/opt out status.
-
-**Links**  
-This web site may contain links to other sites. Please be aware that we are not responsible for the privacy practices of other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by this web site.
-
-**Surveys & Contests**  
-From time to time, our site may request information from users via surveys or contests. Participation in these surveys or contests is completely voluntary and the user therefore has a choice whether or not to disclose this information. The requested information typically includes contact information (such as name and shipping address), and demographic information (such as zip code). Contact information will be used to notify the winners and award prizes. Survey information will be used for purposes of monitoring or improving the use and satisfaction of this site. Though we may use an intermediary to conduct these surveys or contests, they may not use users' personally identifiable information for any secondary purposes.   
-**  
-Email To Friend**  
-If a user elects to use our Email To Friend feature, for inviting a friend or relative to comment on a particular project the user is working on, we provide a form for our user to enter the friend’s email address, their own email address (to identify who it is from) and to add a note to the friend. The Company will automatically send the friend an email containing a link to preview the user's work. The friend will only be able to view the user's project. The friend will not have access to the user's account, personal information or other projects. The friend will not be able to change, edit, modify, add or delete anything from the user's account or saved work file. The Company may add text to your email to a friend, offering the visiting friend the opportunity to establish their own account. Special promotional offers may also be inserted in the email invitations to your friends. The Company NEVER harvests the email addresses you insert in the email to a friend form, for any purpose, including follow on promotional emails. We do not send unsolicited promotional emails. 
 
 ## Security
 
-This web site takes reasonable precautions to protect our users' information. When users submit sensitive information via the web site, their information is protected both online and off-line.
+We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure, we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online. 
 
-When our registration/order form asks users to enter sensitive information, that information is encrypted and is protected with the best encryption software in the industry - SSL. While on a secure page, such as our order form, the lock icon on the bottom of web browsers such as Netscape Navigator and Microsoft Internet Explorer becomes locked, as opposed to un-locked, or open, when users are just 'surfing'.
+## How we use cookies
 
-While we use SSL encryption to protect sensitive information online, we also take steps to protect user-information off-line. All of our users' information, not just the sensitive information mentioned above, is restricted in our offices. Only employees who need the information to perform a specific job (for example, our billing clerk or a customer service representative) are granted access to personally identifiable information.
+A cookie is a small file which asks permission to be placed on your computer's hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences. 
 
-**Personal Information**  
-We use the information internally, to insure the accurate and timely fulfillment of the user's order. We may also use the information internally, for specific marketing or promotional campaigns, as described within this statement. We may share some information with our affiliate partners and/or our third-party affiliate management company, to ensure proper payment of affiliate commissions. From time to time, we may sell, license or rent lists, containing your name and address information, but never email address, credit card or payment information, to others, unless you request us not to do so. Our users’ election, to have their information shared, or withheld, may be changed at time of ordering. We NEVER sell, license or rent your email address to others.
+We use traffic log cookies to identify which pages are being used. This helps us analyse data about web page traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system. 
 
-**Billing Information**  
-Billing information, including credit card account numbers, expiration dates, checking account numbers and bank routing identifiers are never shared with third parties, except those companies associated with order and payment processing.
+Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us. You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website. 
 
-**SSL Encryption**  
-Digital certificates encrypt data using [Secure Sockets Layer](http://developer.netscape.com/tech/security/ssl/howitworks.html) (SSL) technology, the industry-standard method for protecting web communications developed by Netscape Communications Corporation. The SSL security protocol provides data encryption, server authentication, message integrity, and optional client authentication for a TCP/IP connection. Because SSL is built into all major browsers and web servers, simply installing a digital certificate turns on their SSL capabilities.   
-SSL comes in two strengths, 40-bit and 128-bit, which refer to the length of the "session key" generated by every encrypted transaction. The longer the key, the more difficult it is to break the encryption code. Most browsers support 40-bit SSL sessions, and the latest browsers enable users to encrypt transactions in 128-bit sessions - trillions of times stronger than 40-bit sessions. Our web site supports 128-bit sessions.
+## Links to other websites
 
-## Additional Information 
+Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question. 
 
-**Children's Guidelines**  
-The Company is committed to protecting the online privacy of children. We will not knowingly or intentionally collect personal information from or about children under the age of 16 without prior parental consent. If you are under 16 and would like to purchase items from the Company, or provide personal information about yourself or your family, please ask a parent or guardian for assistance.  
-The Company cannot prevent minors from visiting this site. The Company must rely on parents, guardians and those responsible for supervising children under the age of 16 to decide which materials are appropriate for such children to view and/or purchase.
+## Controlling your personal information
 
-Each time you purchase a product from this site, or provide information about yourself or your family, you are representing to the Company that you are 16 years or older.
+You may choose to restrict the collection or use of your personal information in the following ways:
 
-**Notification of Changes**  
-We reserve the right to make changes to this policy at our sole discretion. If we change our privacy policy, we will post the new, updated privacy statement on our web site, and other places we deem appropriate so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We may, at our option, send an email notification to our users, advising them of changes to this policy, or changes in our terms and conditions.
+  * whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes 
+  * if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at donotreply@theamericanwedding.com 
 
-  **Contact Information  
-**If users have any questions or suggestions regarding our privacy policy, please contact us at:
 
-[www.tawhelp.com](http://www.tawhelp.com/)  
-Phone: 1-765-473-4438   
-Fax: 1-765-472-8510   
-Postal Address: The American Stationery Company, Inc.  
-100 N. Park Avenue  
-Peru, Indiana 46970
+
+We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen. 
+
+You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please write to 100 North Park Avenue Peru, Indiana 46970-1701. 
+
+If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect. 
+
+## List of cookies we collect
+
+The table below lists the cookies we collect and what information they store.
+
+COOKIE name | COOKIE Description  
+---|---  
+CART | The association with your shopping cart.  
+CATEGORY_INFO | Stores the category info on the page, that allows to display pages more quickly.  
+COMPARE | The items that you have in the Compare Products list.  
+CURRENCY | Your preferred currency  
+CUSTOMER | An encrypted version of your customer id with the store.  
+CUSTOMER_AUTH | An indicator if you are currently logged into the store.  
+CUSTOMER_INFO | An encrypted version of the customer group you belong to.  
+CUSTOMER_SEGMENT_IDS | Stores the Customer Segment ID  
+EXTERNAL_NO_CACHE | A flag, which indicates whether caching is disabled or not.  
+FRONTEND | You sesssion ID on the server.  
+GUEST-VIEW | Allows guests to edit their orders.  
+LAST_CATEGORY | The last category you visited.  
+LAST_PRODUCT | The most recent product you have viewed.  
+NEWMESSAGE | Indicates whether a new message has been received.  
+NO_CACHE | Indicates whether it is allowed to use cache.  
+PERSISTENT_SHOPPING_CART | A link to information about your cart and viewing history if you have asked the site.  
+POLL | The ID of any polls you have recently voted in.  
+POLLN | Information on what polls you have voted on.  
+RECENTLYCOMPARED | The items that you have recently compared.   
+STF | Information on products you have emailed to friends.  
+STORE | The store view or language you have selected.  
+USER_ALLOWED_SAVE_COOKIE | Indicates whether a customer allowed to use cookies.  
+VIEWED_PRODUCT_IDS | The products that you have recently viewed.  
+WISHLIST | An encrypted list of products added to your Wishlist.  
+WISHLIST_CNT | The number of items in your Wishlist.
