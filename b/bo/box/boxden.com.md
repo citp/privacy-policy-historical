@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the boxden.com privacy policy that was archived on 2014-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141213012715id_/http%3A//slumz.boxden.com/faq.php%3Ffaq%3Dprivacy_statement%23faq_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boxden.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610054020id_/http%3A//slumz.boxden.com/faq.php%3Ffaq%3Dprivacy_statement%23faq_privacy) for the most accurate reproduction.*
 
-# Boxden.Com - Stay First. Follow BX. - FAQ: Privacy
+# Boxden.Com - The urban web's front page - FAQ: Privacy
 
 Boxden.com values your privacy. Your registration information and any other details you place on our sites are subject to our Privacy Policy. Any and all personal information you provide us will be kept strictly confidential and will not be sold, reused, rented, disclosed, or loaned to anyone outside Boxden.com. 
 
@@ -12,4 +12,4 @@ Use of the website involve use of "cookies.”. This includes retention of your 
 
 * Google, as a third party vendor, uses cookies to serve ads on this site.  
 * Google's use of the DART cookie enables it to serve ads to you based on the visit to this site and other sites on the Internet.  
-* You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
+* You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy. Google Advertiser features is used; Advertiser Features include Demographics and Interest reporting, Remarketing, GDN Impression Reporting and the DoubleClick Campaign Manager integration. You may opt out by following this link: https://tools.google.com/dlpage/gaoptout/
