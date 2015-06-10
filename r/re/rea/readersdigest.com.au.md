@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the readersdigest.com.au privacy policy that was archived on 2014-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141113110813id_/http%3A//www.readersdigest.com.au/privacy-policy%3Ficm%3Dfooter%26icn%3DPrivacy%252BPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the readersdigest.com.au privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610025319id_/http%3A//www.readersdigest.com.au/privacy-policy%3Ficm%3Dfooter%26icn%3DPrivacy%252BPolicy) for the most accurate reproduction.*
 
-# Privacy Policy | Reader’s Digest Australia
+# Privacy Policy | Reader's Digest Australia
 
-**TO SERVE YOU BETTER…**
+## TO SERVE YOU BETTER... 
 
 **General statement**
 
@@ -33,7 +33,7 @@ Without this information, RD would not be able to do any of this, so if you do n
 
 In addition, RD occasionally, through proper contractual arrangements with reputable companies, acquires information regarding Australian consumers (who have so consented). The only purpose for such arrangements is to afford us the opportunity to provide these consumers promotional offers and prize draw opportunities that we believe will be of interest.
 
-Furthermore, RD will occasionally, through proper contractual agreements, share personal information from its customer lists, (who have so consented) with reliable third party companies to allow these latter to provide products/service offers that we believe may be of interest.
+Furthermore, RD will occasionally, through proper contractual agreements, share personal information from its customer lists, with reliable third party companies to allow these latter to provide products/service offers that we believe may be of interest.
 
 RD also has contracts with independent suppliers who provide services related to our prize draws, payment processing and fraud screening, prize delivery etc., and these suppliers may occasionally have limited access to your personal information, in the course of providing their services. These suppliers are required to protect the personal information of all RD customers.
 
