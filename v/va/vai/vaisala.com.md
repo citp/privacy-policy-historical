@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the vaisala.com privacy policy that was archived on 2014-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141206101702id_/http%3A//www.vaisala.com/en/contact/Pages/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vaisala.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610022955id_/http%3A//www.vaisala.com/en/contact/Pages/privacypolicy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Vaisala
 
 (Effective as of 2014-05-06, Ref. DOC229710-A)
 
