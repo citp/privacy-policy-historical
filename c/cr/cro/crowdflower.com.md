@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crowdflower.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120105026id_/http%3A//www.crowdflower.com/legal-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crowdflower.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610055251id_/https%3A//www.crowdflower.com/legal-privacy) for the most accurate reproduction.*
 
 # CrowdFlower | Legal Privacy
 
@@ -242,4 +242,4 @@ Crowdflower has agreed to TRUSTe dispute resolution for disputes relating to our
 
 If you have any questions about this Policy, please contact us at privacy@crowdflower.com or 2111 Mission Street, Suite 302 San Francisco, CA 94110.
 
-Copyright ©2014 CrowdFlower, Inc. 
+Copyright ©2015 CrowdFlower, Inc. 
