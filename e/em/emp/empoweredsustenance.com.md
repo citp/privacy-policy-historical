@@ -1,6 +1,18 @@
-> *The following text is extracted and transformed from the empoweredsustenance.com privacy policy that was archived on 2014-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141225180450id_/http%3A//empoweredsustenance.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the empoweredsustenance.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610053131id_/http%3A//empoweredsustenance.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Empowered Sustenance
+
+**My advertising policy**
+
+On Empowered Sustenance, I write about products/services which I use personally. I only work with companies to promote their products/services when I’ve had an extremely positive experience with their product, when I’ve personally spoken with the founder(s), and when I admire the integrity of the company.
+
+When it comes to running the advertisements in the sidebar, header and footer of this blog, however, I am unable to sift through all the advertisements you may see. I need to run these type of advertisements because the revenue makes it possible for me to continue blogging, so I appreciate your understanding.
+
+**What’s this?  **
+
+This is a disclosure page required by one of the companies for which I serve ads, Gourmet Ads.
+
+**Advertising privacy policy**
 
 This privacy policy sets out how Empowered Sustenance LLC uses and protects any information that you give while using empoweredsustenance.com
 
