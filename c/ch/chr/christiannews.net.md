@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the christiannews.net privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121102527id_/http%3A//christiannews.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the christiannews.net privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610052936id_/http%3A//christiannews.net/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Christian News Network
 
@@ -73,4 +73,4 @@ By using this Site, you signify your acceptance of this policy and terms of serv
 
 **Contacting us**
 
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please feel free to [contact us](http://christiannews.net/contact-us/). 
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please feel free to [contact us](http://christiannews.net/contact-us/).
