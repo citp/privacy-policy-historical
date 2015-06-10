@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the infiniteskills.com privacy policy that was archived on 2014-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141223085647id_/http%3A//www.infiniteskills.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infiniteskills.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610021801id_/http%3A//www.infiniteskills.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Infinite Skills Privacy and Security Policy
+# O'Reilly Privacy and Security Policy
 
 This is the web site of Infinite Skills Inc.
 
@@ -32,9 +32,9 @@ From time to time, we may use customer information for new, unanticipated uses n
 
 If you feel that this site is not following its stated information policy, you may contact us at the above e-mail address or phone number.
 
-#### Praise for Infinite Skills
+#### Praise for O'Reilly
 
-[Apple OS X Lion Server] I had to learn OS X Lion Server over a weekend before I went on a deployment course for work, as knowledge of this was a pre-requisite. Having previous experience with Snow Leopard and Leopard server, I didn't have time to read the book, so watched the videos from this course. Everything was clear and concise and gave me all the knowledge I needed, not only for the deployment course, but to use this at work right away. Ian B.
+I can't thank you enough for this course. I had been battling between buying an old version of FCPro7, a new version of 10 or Adobe Premier Pro. I decided on Adobe even though I knew I'd have another learning curve to ride out. So I did a search and found a Master Class by Infinite Skills. WOW! I am in love with the product already thanks to this EXCELLENT instruction. Easy to follow, great voice and manner, well organized and abundant downloadable practice tools and tips. After one day, my knowledge and confidence have increased dramatically. I know I've made the right choice in software AND in taking this amazing course. THANK YOU! Rebecca M.
 
 [
 
