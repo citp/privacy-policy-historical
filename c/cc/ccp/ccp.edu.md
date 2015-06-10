@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ccp.edu privacy policy that was archived on 2014-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141008020121id_/http%3A//www.ccp.edu/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ccp.edu privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610085220id_/http%3A//ccp.edu/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | Community College of Philadelphia
 
