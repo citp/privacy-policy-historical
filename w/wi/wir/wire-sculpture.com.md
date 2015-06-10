@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wire-sculpture.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231153932id_/http%3A//www.wire-sculpture.com/pages/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wire-sculpture.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610031607id_/http%3A//www.wire-sculpture.com/pages/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy: Wire Jewelry | Wire Wrap Tutorials | Jewelry Making Wire
 
@@ -91,3 +91,9 @@ If we decide to change our privacy policy, we will post those changes on this pa
 **Contacting Us**
 
 If there are any questions regarding this privacy policy you may contact us using the information below. 
+
+This website uses the Google AdWords remarketing service to advertise on third party websites (including Google) to previous visitors to our site. It could mean that we advertise to previous visitors who haven't completed a task on our site, for example using the contact form to make an enquiry. 
+
+This could be in the form of an advertisement on the Google search results page, or a site in the Google Display Network. Third-party vendors, including Google, use cookies to serve ads based on someone's past visits to the Wire-Sculpture.com website. Of course, any data collected will be used in accordance with our own privacy policy and Google's privacy policy.
+
+You can set preferences for how Google advertises to you using the Google Ad Preferences page, and if you want to you can opt out of interest-based advertising entirely by cookie settings or permanently using a browser plugin.
