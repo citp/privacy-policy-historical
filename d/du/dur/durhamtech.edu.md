@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the durhamtech.edu privacy policy that was archived on 2014-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141225192042id_/http%3A//www.durhamtech.edu/html/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the durhamtech.edu privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610085738id_/http%3A//www.durhamtech.edu/html/privacy.htm) for the most accurate reproduction.*
 
 # Durham Technical Community College Web Site Privacy Policy
 
