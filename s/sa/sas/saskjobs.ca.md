@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the saskjobs.ca privacy policy that was archived on 2014-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141127145413id_/http%3A//www.economy.gov.sk.ca/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the saskjobs.ca privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610050814id_/http%3A//www.economy.gov.sk.ca/privacy) for the most accurate reproduction.*
 
 # Privacy - Economy - Government of Saskatchewan
 
@@ -16,14 +16,14 @@ Some Government of Saskatchewan websites may distribute a small file to your bro
 
 Questions or concerns regarding our management of this privacy statement may be directed to:
 
-**Ms. Tammy Davey  
-** Legislative and Contract Services Facilitator  
+**Mr. James Kirby  
+** Acting Manager, Legislative and Contract Services  
 Saskatchewan Ministry of the Economy  
-300 - 2103 - 11th Avenue  
+1000 - 2103 - 11th Avenue  
 REGINA SK  S4P 3Z8  
-Phone: (306) 798-9905  
-Fax: (306) 787-3872  
-E-mail:  [tammy.davey@gov.sk.ca](mailto:tammy.davey@gov.sk.ca)
+Phone: (306) 787-4483  
+Fax: (306) 787-2198  
+E-mail:  [james.kirby@gov.sk.ca](mailto:james.kirby@gov.sk.ca)
 
 If you are not satisfied with our response to your privacy concern, you may wish to contact the:
 
