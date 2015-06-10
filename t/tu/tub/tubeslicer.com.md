@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tubeslicer.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121145921id_/http%3A//www.tubeslicer.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tubeslicer.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610155412id_/http%3A//www.tubeslicer.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | YouTube Slicer
 
