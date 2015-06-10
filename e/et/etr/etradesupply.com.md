@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the etradesupply.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230185229id_/http%3A//www.etradesupply.com/knowledge-base/cat/policies-terms/post/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the etradesupply.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610093151id_/http%3A//www.etradesupply.com/knowledge-base/cat/policies-terms/post/privacy-policy) for the most accurate reproduction.*
 
-# Knowledge Base - Privacy Policy
+# Knowledge Base - Privacy Policy - ETrade Supply
 
 ETradeSupply.com respects customers privacy, and make it strict policy to protect your personal information. Please note that this privacy policy only applies to this site. It does not necessarily apply to any offline collection of your personal information. Please see below for details: 
 
