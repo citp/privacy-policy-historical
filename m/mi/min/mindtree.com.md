@@ -1,32 +1,54 @@
-> *The following text is extracted and transformed from the mindtree.com privacy policy that was archived on 2013-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131126171326id_/http%3A//www.mindtree.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mindtree.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610021745id_/http%3A//www.mindtree.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy | Mindtree
+# Privacy Policy | Mindtree
 
-**Mindtree Ltd.** is committed to respecting your privacy rights and protecting personal information about you at all times. The following discloses our information gathering and dissemination practices for [www.mindtree.com](http://www.mindtree.com/) and [www.mindtreefoundation.org](http://www.mindtreefoundation.org/ "www.mindtreefoundation.org")
+Your privacy is important to us. Mindtree Limited and its subsidiaries or affiliated companies hereinafter referred as ‘Mindtree,’ is committed to respect your privacy while using our website. This policy applies to information collected by us on our website.
 
-This website is administered by Mindtree Ltd. The primary purpose of mindtree.com is to be a dynamic resource and business tool for our clients, prospects, analysts, researchers and media. We want you to feel secure when visiting our site and we are committed to maintaining your privacy when doing so.
+**The information we collect:**
 
-The following provides an overview of how we protect your privacy during your visit.
+We do not collect personally identifiable information about you, unless you choose to fill out your information on this website. In general, you may browse our website without providing any personally identifiable information about yourself. We do automatically collect certain non-personally identifiable information when you visit our website such as the type of operating system, the type of browser you are using, your IP address in order to provide better usability.
 
-**What information do we gather?**  
-Information on mindtree.com is gathered in two ways: (1) indirectly (for example, through our site's technology); and (2) directly (for example, when you provide information on various pages of mindtree.com).
+**How we normally use information about you**
 
-One example of information we collect indirectly is through our Internet access logs. When you access mindtree.com, your Internet address is automatically collected and is placed in our Internet access logs.
+We use non-personally identifiable information to analyse site usage for us to improve our website.
 
-We collect information directly from you in a number of ways, some of which we describe in this Privacy Statement. One way is through the use of cookies. Cookies are small files of information which save and retrieve information about your visit to mindtree.com—for example, how you entered our site, how you navigated through the site, and what information was of interest to you. (If you are uncomfortable regarding the use of cookies, please keep in mind that you can disable cookies on your computer by changing the settings in preferences or the options menu in your browser.)
+We use personally identifiable information you provide solely to respond to your inquiry or to process an application form you have completed on our website or to respond to any legal process or as required by law in response to any court order, subpoena or a law enforcement agency or to take action against any illegal activity and to address any potential threat to the physical safety of a person.
 
-We also collect information when you voluntarily submit it to us. Throughout our site, we provide the opportunity to request for information, submit a query, register for an event or conference, order a white paper, or participate in an online survey. It is completely up to you whether or not you want to provide it.
+We may share your personally identifiable information within Mindtree, our offices or with any of our subsidiaries, business partners, service vendors, authorized third-party agents, or contractors, located in any part of the world for the purposes of data processing, storage, or to provide a requested service or transaction, after ensuring that such entities are contractually bound by data privacy obligations. You expressly agree to such transfer.
 
-**How do we use this information?**  
-We analyze it to determine what is most effective about our site, to help us identify ways to improve it, and eventually, to determine how we can tailor mindtree.com to make it more effective. We may also use data for other purposes, which we would describe to you at the point we collect the information.
+**Consent**
 
-We also use this information to send out EDMs (Electronic Direct Mails) to announce the launch of our new services, invitations to our events and other informational mails from our senior management. Users may opt-out of receiving future mailings by choosing the unsubscribe option in the mail.
+You consent to Mindtree using such personally identifiable information as per this policy. Mindtree may, if you so choose, send direct mailers to you at the address given by you.
 
-**Will we share this with outside parties?**  
-As a global organization, the data we collect may be transferred internationally throughout Mindtree's worldwide organization. We will not sell any individual’s information and will share it only with our employees and trusted partners. This site may contain links to other sites; Mindtree is not responsible for the privacy practices or the content of such Web sites.
+**Right to opt out and withdrawal**
 
-**Do we give you access to your information?**  
-You are entitled to know whether we hold information about you and, if we do, to have access to that information or if you require it to be corrected incase it is inaccurate, you can do so by ** **[ **sending us an e-mail**](http://www.mindtree.com/about-us/contact-us/contact-us).
+Mindtree respects your privacy considerations and hence provides an option to you, to not provide the personally identifiable information or information sought to be collected. You can also withdraw your consent which was earlier given to Mindtree, and the same must be communicated to Mindtree in writing.
 
-**What about data security?**  
-We take appropriate steps to maintain the security of all your data on mindtree.com. You should understand that the open nature of the Internet is such that data may flow over networks without security measures and may be accessed and used by people other than those for whom the data is intended. Having said that, this site has security measures in place to protect the loss, misuse, and/or alteration of information under our control. The data resides behind a firewall, with access restricted to authorized Mindtree personnel.
+**Authenticity**
+
+Mindtree shall not be responsible for the authenticity of the information and it is your duty to ensure that the information provided is authentic.
+
+**Cookies and other technologies**
+
+Our website uses cookies. A cookie is a text-only string of information that a website transfers to the cookie file of the browser on your computer’s hard disk so that website can remember who you are. By continuing to use our website, you are agreeing to our placing cookies on your computer in order to analyse the way you use our website. Please read our Cookie Policy carefully for more details about the information we collect when you use this site. If you do not wish to accept cookies in connection with your use of this website, you must stop using our site.
+
+**Links to third party websites**
+
+Our website may contain links to other sites including social media sites, whose information practices may be different from ours. You should read such third party’s websites privacy notices and Mindtree does not control those sites or their privacy practices. We do not endorse or make any representations about third-party websites.
+
+**Our commitment to security**
+
+Mindtree utilizes appropriate physical, technical and administrative procedures to safeguard the information we collect. Mindtree takes reasonable steps to ensure that all dealings in personally identifiable information is processed fairly & lawfully after receiving consent of the information provider. Mindtree may retain your personally identifiable information as long as there is a business requirement, or if otherwise required under applicable laws.
+
+**Grievance Redressal**
+
+Any grievance or complaint, in relation to processing of information, should be sent to Mindtree in writing to following contact email ID. Grievance shall be redressed as expeditiously as possible.
+
+The details of the Grievance Officer are as follows;
+
+Name – Satish Dorepalli  
+E-mail id- [Satish.Dorepalli@mindtree.com](mailto:Satish.Dorepalli@mindtree.com)
+
+**Changes to this Policy**
+
+Please note that this policy may change from time to time. Please review the policy periodically for changes.
