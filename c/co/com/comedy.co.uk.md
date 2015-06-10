@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the comedy.co.uk privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120213144id_/http%3A//www.comedy.co.uk/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the comedy.co.uk privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610042803id_/http%3A//www.comedy.co.uk/info/privacy) for the most accurate reproduction.*
 
 # British Comedy Guide - Help and Info - Privacy Policy
 
@@ -50,4 +50,4 @@ The login cookie is the only cookie we set. Our advertising vendors (primarily A
 
 If you require any additional information on our data usage or wish to clarify something above, we would welcome your email: please do [get in touch](https://web.archive.org/contact/other/).
 
-© 2014 British Comedy Guide.
+© 2015 British Comedy Guide.
