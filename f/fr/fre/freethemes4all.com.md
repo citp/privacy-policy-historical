@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freethemes4all.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231215506id_/http%3A//www.freethemes4all.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freethemes4all.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610063249id_/http%3A//www.freethemes4all.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Free Website Templates Download
 
