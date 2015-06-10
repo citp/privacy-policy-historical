@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the designerpages.com privacy policy that was archived on 2014-07-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140720014025id_/https%3A//www.designerpages.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the designerpages.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610053001id_/https%3A//www.designerpages.com/privacy) for the most accurate reproduction.*
 
 # Designer Pages: Privacy Policy
 
@@ -7,17 +7,9 @@ Designer Pages Online LLC ("We," "Our," or "the Company") respects the privacy o
 Personal information is information about you that is personally identifiable and that is not otherwise publicly available, such as your address, email address, and phone number. We may collect personal information when you register with Our Site, when you use certain products and Services, when you visit Our Site or the websites of certain third parties, and when you enter promotions or sweepstakes. For example:
 
   * When you register on Our Site, We collect and store your email address, zip code, occupation, industry, and personal interests. We may also collect and store information We are able to gather about you through social media and networking websites, including but not limited to, Facebook, Twitter, and LinkedIn. Once you register with the Company and sign into Our Services, you are not anonymous to the Company.
-  * If you use Our location-enabled Services, We may collect and reveal to the public your physical location, including but not limited to your GPS data, in addition to any additional comments and information you may post.
-  * We collect information about your interactions with the Company and with some third parties whose information you have viewed through our Site, such as advertisers, manufacturers and showroom owners, including wholesale distributors and retailers ("Third Parties"). We may share the information We collect about you with such Third Parties.
-  * We automatically gather general statistical information from your browser, including your IP address, cookie information, and the pages you request. We use this data to determine how much users use parts of Our Site so We can improve Our Site and report this data to Third Parties in the aggregate to provide information on designer behavior trends. We may also use and report individual data, including personally identifiable data, to Third Parties that you interact with using Our Site.
+  * If you use Our location-enabled Services, We may collect your physical location, including but not limited to your GPS data, in addition to any additional comments and information you may post.
+  * We collect information about your interactions with the Company and with some third parties whose information you have viewed through our Site, such as advertisers, manufacturers and showroom owners, including wholesale distributors and retailers ("Third Parties"). We may only share the information We collect about you with such Third Parties in accordance with Section 2.
   * We may combine information about you that We have with information We obtain from Third Parties, social media and networking websites, including but not limited to, Facebook, Twitter, LinkedIn, and other companies.
-
-
-
-The information We may collect is categorized as follows:
-
-  * Application Information- information you provide to the Company through Our Site and through other means. Examples include your name, address, and telephone number.
-  * Information from Outside Sources- information from outside sources regarding your background and other relationships. Examples include your public record information available on social media and networking websites.
 
 
 
