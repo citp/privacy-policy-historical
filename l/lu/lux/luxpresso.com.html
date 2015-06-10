@@ -1,20 +1,19 @@
-<!--The following is the downloaded HTML source of the luxpresso.com privacy policy that was archived on 2014-10-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141014211559id_/http%3A//luxpresso.com/privacypolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the luxpresso.com privacy policy that was archived on 2015-06-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150610085105id_/http%3A//luxpresso.com/privacypolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <title>Privacy Policy | Luxpresso.com</title>
 <meta name="keywords" content="luxury, luxury living, designer clothes, celebrity news, high end gadgets, luxury travel, luxury vacation, food, dining, beauty, makeup, designer collection, Indian jewellery, bridal jewellery, spas, real estate, luxury home, private jet, yachts">
 <meta name="description" content="All you need to know about luxury living in India - shopping, travel, lifestyle, celebrity news, gadgets, art, food and more.">
-<meta name="Author" content="ninjas">
 <link rel="canonical" href="http://luxpresso.com/privacypolicy">
 <link rel="stylesheet" type="text/css" href="http://luxpresso.com/css/style.css?ver=2.4">
 <link href="http://images.idiva.com/css/common_header_footer.css?ver=1.5" rel="stylesheet" type="text/css">
 <link href="http://luxpresso.com/images/favicon.ico" rel="shortcut icon">
-<script src="http://apis.google.com/js/plusone.js" async=""></script><script src="//platform.twitter.com/widgets.js" async=""></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script type="text/javascript" src="http://images.idiva.com/js/jquery-1.7.min.js?v=1.0"></script>
+<script id="twitter-wjs" src="https://platform.twitter.com/widgets.js"></script><script src="http://apis.google.com/js/plusone.js" async=""></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script type="text/javascript" src="http://images.idiva.com/js/jquery-1.7.min.js?v=1.0"></script>
 <script type="text/javascript" src="http://images.idiva.com/js/jquery.joverlay.pack.js?v=1.0"></script>
 <script type="text/javascript" src="http://images.idiva.com/js/jquery.blockUI.js"></script>
-<script type="text/javascript" src="http://luxpresso.com/js/common.js?ver=1.2"></script>
+<script type="text/javascript" src="http://luxpresso.com/js/common.js?ver=1.4"></script>
 
 <style type="text/css">
 .middiv{margin:0 auto;}
@@ -52,6 +51,7 @@
 })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
 	ga('create', 'UA-429254-24', 'luxpresso.com');
+	ga('require', 'displayfeatures');
 		ga('send', 'pageview');
 //-->
 </script>
@@ -160,10 +160,10 @@ googletag.cmd = googletag.cmd || [];
 </div>
 <div class="logindiv">
 <div id="LoginDivContent" class="clearfix">
-<div id="CommonLoginDiv" style="display:block;">
+<!--<div id="CommonLoginDiv" style="display:block;">
     <p class="FL"><a href="javascript:;" onclick="clickTracking('Loggedin', 'select', 'Login');showPopupDiv('popup/loginPopup.php',550,180,'');">LOGIN</a><span class="gL_15tl">&nbsp;/&nbsp;</span><a href="javascript:;" id="globalSigninPopup" onclick="clickTracking('Loggedin', 'select', 'Signup');showPopupDiv('popup/registerationpopup.php',600,180,'');">SIGNUP</a><span class="gL_15tl">&nbsp;/&nbsp; </span></p>
 <p id="facebook-connect-placeholder" class="FR"><a href="javascript:;" class="fConnectBtn" onclick="clickTracking('Loggedin', 'select', 'Fconnect');getFacebookLogin();"></a></p>
-</div>
+</div>-->
 
 <div class="clearfix" style="display:none;" id="SiteLoginDiv">
 </div>
@@ -334,21 +334,20 @@ function streamPublish(name,  hrefTitle, hrefLink, userPrompt)
 		
 	window.fbAsyncInit = function() {
       FB.init({appId: api_id, status: true, cookie: true, xfbml: true, oauth: true});
-      FB.Event.subscribe('edge.create', function(href, widget) {
-			//console.log(widget);
-			var fb_div_id = widget.dom.id;
-			var fb_track_label = '';
-			//alert(fb_div_id);
-			if ( fb_div_id == "fbliketop" )
-			{
-				clickTracking('Social', 'select', 'fbliketop');
-			}
-			else if ( /^FBlike(HP|SC)Story/.test(fb_div_id) )
-			{
-				clickTracking('Story', 'select', fb_div_id);
-			}			
+      FB.Event.subscribe('edge.create', function(href, widget) {			var social_config_obj =  { 'hitType': 'social','socialNetwork': 'Facebook', 'socialAction': 'Like', 'socialTarget': href };
+                        social_tracking(social_config_obj);
 		});
-      
+      //Unlikes the page 
+        FB.Event.subscribe('edge.remove', function(href, widget) { 
+            var social_config_obj =  { 'hitType': 'social','socialNetwork': 'Facebook', 'socialAction': 'Unlike', 'socialTarget': href };
+            social_tracking(social_config_obj);
+        }); 
+        //Send or Share The Page 
+        FB.Event.subscribe('message.send', function(href, widget) { 
+            console.log('here');
+            var social_config_obj =  { 'hitType': 'social','socialNetwork': 'Facebook', 'socialAction': 'Send', 'socialTarget': href };
+            social_tracking(social_config_obj);
+        });
       FB.getLoginStatus(function(response) {
         if(response.status === 'connected') {
           update_user_box();
@@ -376,6 +375,11 @@ function streamPublish(name,  hrefTitle, hrefLink, userPrompt)
 <!--</div>--> <!--end contbody only use for iplbanner --->
 
 <div class="contbody"><!-- Start: contbody div -->
+
+	
+<a href="http://luxpresso.com/guesteditor-feroze-gujral" id="mfa21">
+    <img src="http://luxpresso.com/images/feroz-strip-banner2.png" id="mf66">
+</a>
 
 <div class="mainbody clearfix">
 <h1 class="b_30">PRIVACY POLICY</h1>
@@ -454,7 +458,7 @@ function streamPublish(name,  hrefTitle, hrefLink, userPrompt)
     <p class="gD_13 MT7"><strong>f)</strong> You may also contact us in case you have any questions / suggestions about the Privacy Policy using the contact information mentioned above.</p>
 </div>
 <div id="footer"><!--start footer-->
-<p class="heart"></p> <div class="innerblock"> <p class="title">Sites we love</p> <div class="blockbox"> <div class="borderbox"> <div class="listbox"> <ul> <li class="nbb"> <span class="thumb"><a href="http://idiva.com/news-entertainment/diwali-food-fest/785" title="Festive Recipes: Unique Treats to Surprise Your Guests" target="_blank" onclick="clickTracking('SiteweLove', 'select', 'iDivaStorypic');"> <img src="http://luxpresso.com/images/transparent.gif" original_link="http://images.idiva.com/media//content/2014/Oct/unique_diwali_recipes_200x150.jpg" class="lazyload1second" width="200" height="150" border="0" alt="Festive Recipes: Unique Treats to Surprise Your Guests"> </a></span> </li> <li class="first"><a href="http://idiva.com/news-entertainment/diwali-food-fest/785" title="Festive Recipes: Unique Treats to Surprise Your Guests" target="_blank" onclick="clickTracking('SiteweLove', 'select', 'iDivaStory1');">Festive Recipes: Unique Treats to Surprise Your Guests</a></li> <li><a href="http://idiva.com/news-ifood/easy-potato-recipes-potato-roasty-as-a-festive-snack/32869" title="How to Make Potato Roasty [Video]" target="_blank" onclick="clickTracking('SiteweLove', 'select', 'iDivaStory2');">How to Make Potato Roasty [Video]</a></li> <li><a href="http://idiva.com/photogallery-iparenting/parenting-tips-internet-safety-for-children/32868" title="5 Internet Lessons for Your Kids Before They Turn 10" target="_blank" onclick="clickTracking('SiteweLove', 'select', 'iDivaStory3');">5 Internet Lessons for Your Kids Before They Turn 10</a></li> <li class="last"><a href="http://idiva.com/photogallery-iparenting/side-effects-during-pregnancy/32867" title="7 Side Effects of Pregnancy and How to Tackle Them" target="_blank" onclick="clickTracking('SiteweLove', 'select', 'iDivaStory4');">7 Side Effects of Pregnancy and How to Tackle Them</a></li> </ul><ul> <li class="nbb"> <span class="thumb"><a href="http://idiva.com/photogallery-entertainment/world-smile-day-celebrities-who-need-show-their-pearly-whites-more-often/32862" title="World Smile Day: Celebrities Who Need Show Their Pearly Whites More Often" target="_blank" onclick="clickTracking('SiteweLove', 'select', 'iDivaStorypic');"> <img src="http://luxpresso.com/images/transparent.gif" original_link="http://images.idiva.com/media//photogallery/2014/Oct/world_smile_day_spl_200x150.jpg" class="lazyload1second" width="200" height="150" border="0" alt="World Smile Day: Celebrities Who Need Show Their Pearly Whites More Often"> </a></span> </li> <li class="first"><a href="http://idiva.com/photogallery-entertainment/world-smile-day-celebrities-who-need-show-their-pearly-whites-more-often/32862" title="World Smile Day: Celebrities Who Need Show Their Pearly Whites More Often" target="_blank" onclick="clickTracking('SiteweLove', 'select', 'iDivaStory5');">World Smile Day: Celebrities Who Need Show Their Pearly Whites More Often</a></li> <li><a href="http://idiva.com/photogallery-ifood/delish-and-nutritious-recipes-for-the-gourmand/32863" title="10 Delish and Nutritious Recipes for the Gourmand" target="_blank" onclick="clickTracking('SiteweLove', 'select', 'iDivaStory6');">10 Delish and Nutritious Recipes for the Gourmand</a></li> <li><a href="http://idiva.com/news-entertainment/upcoming-bollywood-2015-movie-tevar-first-look/32857" title="Tevar [First Look]" target="_blank" onclick="clickTracking('SiteweLove', 'select', 'iDivaStory7');">Tevar [First Look]</a></li> <li class="last"><a href="http://idiva.com/news-entertainment/sonakshi-sinha-goes-svelte-sexy-for-action-jackson/32853" title="OMG! Sonakshi Sinha Goes Svelte &amp; Sexy for Action Jackson" target="_blank" onclick="clickTracking('SiteweLove', 'select', 'iDivaStory8');">OMG! Sonakshi Sinha Goes Svelte &amp; Sexy for Action Jackson</a></li> </ul> <div class="logobox"> <a href="http://idiva.com/" class="fidiva" target="_blank" onclick="clickTracking('SiteweLove', 'select', 'iDivaLogo');"></a> </div> </div> <div class="listbox"> <ul> <li class="nbb"> <span class="thumb"><a href="http://healthmeup.com/news-recipes/healthy-snack-recipe-chunky-vegetable-spread/32831" title="Healthy Snack Recipe: Chunky Vegetable Spread" target="_blank" onclick="clickTracking('SiteweLove', 'select', 'HmuStorypic');"> <img src="http://luxpresso.com/images/transparent.gif" original_link="http://images.idiva.com/media/healthmeup/content/2014/Oct/recipe3_200x150.jpg" class="lazyload1second" width="200" height="150" border="0" alt="Healthy Snack Recipe: Chunky Vegetable Spread"> </a></span> </li> <li class="first"><a href="http://healthmeup.com/news-recipes/healthy-snack-recipe-chunky-vegetable-spread/32831" title="Healthy Snack Recipe: Chunky Vegetable Spread" target="_blank" onclick="clickTracking('SiteweLove', 'select', 'HmuStory1');">Healthy Snack Recipe: Chunky Vegetable Spread</a></li> <li><a href="http://healthmeup.com/news-healthy-living/6-science-backed-ways-to-boost-self-confidence/32843" title="6 Science-Backed Ways to Boost Self-Confidence" target="_blank" onclick="clickTracking('SiteweLove', 'select', 'HmuStory2');">6 Science-Backed Ways to Boost Self-Confidence</a></li> <li><a href="http://healthmeup.com/news-healthy-living/causes-of-a-coma/32841" title="Understanding The Causes of a Coma" target="_blank" onclick="clickTracking('SiteweLove', 'select', 'HmuStory3');">Understanding The Causes of a Coma</a></li> <li class="last"><a href="http://healthmeup.com/news-healthy-living/the-super-indian-spice/32823" title="The Super Indian Spice" target="_blank" onclick="clickTracking('SiteweLove', 'select', 'HmuStory4');">The Super Indian Spice</a></li> </ul><ul> <li class="nbb"> <span class="thumb"><a href="http://healthmeup.com/photogallery-healthy-living/the-truth-about-caffeine/32834" title="The Truth about Caffeine" target="_blank" onclick="clickTracking('SiteweLove', 'select', 'HmuStorypic');"> <img src="http://luxpresso.com/images/transparent.gif" original_link="http://images.idiva.com/media/healthmeup/photogallery/2014/Oct/coffee1_200x150.jpg" class="lazyload1second" width="200" height="150" border="0" alt="The Truth about Caffeine"> </a></span> </li> <li class="first"><a href="http://healthmeup.com/photogallery-healthy-living/the-truth-about-caffeine/32834" title="The Truth about Caffeine" target="_blank" onclick="clickTracking('SiteweLove', 'select', 'HmuStory5');">The Truth about Caffeine</a></li> <li><a href="http://healthmeup.com/photogallery-diet-fitness/healthy-benefits-of-lady-finger/32824" title="Why You Should Eat Lady Finger Regularly" target="_blank" onclick="clickTracking('SiteweLove', 'select', 'HmuStory6');">Why You Should Eat Lady Finger Regularly</a></li> <li><a href="http://healthmeup.com/news-healthy-living/world-mental-health-day-2014-top-tips/8248" title="World Mental Health Day 2014: Top Tips" target="_blank" onclick="clickTracking('SiteweLove', 'select', 'HmuStory7');">World Mental Health Day 2014: Top Tips</a></li> <li class="last"><a href="http://healthmeup.com/news-recipes/healthy-recipe-babycorn-and-paneer-subzi/32813" title="Healthy Recipe: Babycorn and Paneer Stir-fry" target="_blank" onclick="clickTracking('SiteweLove', 'select', 'HmuStory8');">Healthy Recipe: Babycorn and Paneer Stir-fry</a></li> </ul> <div class="logobox"> <a href="http://healthmeup.com/" class="fhealthmeup" target="_blank" onclick="clickTracking('SiteweLove', 'select', 'HmuLogo');"></a> </div> </div> </div> </div> </div><!--F:C-->
+<p class="heart"></p> <div class="innerblock"> <p class="title">Sites we love</p> <div class="blockbox"> <div class="borderbox"> <div class="listbox"> <ul> <li class="nbb"> <span class="thumb"><a href="http://idiva.com/news-health/10-unknown-facts-about-your-vagina/15061079" title="10 Facts You Probably Didn’t Know About Your Vagina" target="_blank" onclick="clickTracking('SiteweLove', 'select', 'iDivaStorypic');"> <img src="http://luxpresso.com/images/transparent.gif" original_link="http://images.idiva.com/media//content/2015/Jun/10_things_you_didnt_know_about_the_vagina_200x150.jpg" class="lazyload1second" width="200" height="150" border="0" alt="10 Facts You Probably Didn’t Know About Your Vagina"> </a></span> </li> <li class="first"><a href="http://idiva.com/news-health/10-unknown-facts-about-your-vagina/15061079" title="10 Facts You Probably Didn’t Know About Your Vagina" target="_blank" onclick="clickTracking('SiteweLove', 'select', 'iDivaStory1');">10 Facts You Probably Didn’t Know About Your Vagina</a></li> <li><a href="http://idiva.com/news-ifood/7-summer-recipes-that-are-super-simple/15060966" title="7 Tantalising Summer Recipes That are Super Simple" target="_blank" onclick="clickTracking('SiteweLove', 'select', 'iDivaStory2');">7 Tantalising Summer Recipes That are Super Simple</a></li> <li><a href="http://idiva.com/news-relationships/is-the-mangalsutra-relevant-today/15060977" title="What Must I Do with My Mangalsutra?" target="_blank" onclick="clickTracking('SiteweLove', 'select', 'iDivaStory3');">What Must I Do with My Mangalsutra?</a></li> <li class="last"><a href="http://idiva.com/photogallery-entertainment/10-bollywood-actors-we-miss-on-the-silver-screen/15060976" title="10 Bollywood Actors We Miss On the Silver Screen" target="_blank" onclick="clickTracking('SiteweLove', 'select', 'iDivaStory4');">10 Bollywood Actors We Miss On the Silver Screen</a></li> </ul><ul> <li class="nbb"> <span class="thumb"><a href="http://idiva.com/news-work-life/16-year-old-refugee-mezon-almellehan-is-the-next-malala-yousafzai/15060974" title="This 16-Year-Old Refugee is Now Being Hailed As the Next Malala Yousafzai" target="_blank" onclick="clickTracking('SiteweLove', 'select', 'iDivaStorypic');"> <img src="http://luxpresso.com/images/transparent.gif" original_link="http://images.idiva.com/media//content/2015/Jun/malala_mezon_syria_200x150.jpg" class="lazyload1second" width="200" height="150" border="0" alt="This 16-Year-Old Refugee is Now Being Hailed As the Next Malala Yousafzai"> </a></span> </li> <li class="first"><a href="http://idiva.com/news-work-life/16-year-old-refugee-mezon-almellehan-is-the-next-malala-yousafzai/15060974" title="This 16-Year-Old Refugee is Now Being Hailed As the Next Malala Yousafzai" target="_blank" onclick="clickTracking('SiteweLove', 'select', 'iDivaStory5');">This 16-Year-Old Refugee is Now Being Hailed As the Next Malala Yousafzai</a></li> <li><a href="http://idiva.com/news-entertainment/our-favourite-90s-pop-songs-that-will-take-you-back-in-time/15060975" title="Our Favourite 90s Pop Songs That Will Take You Back in Time" target="_blank" onclick="clickTracking('SiteweLove', 'select', 'iDivaStory6');">Our Favourite 90s Pop Songs That Will Take You Back in Time</a></li> <li><a href="http://idiva.com/news-relationships/these-posters-show-popular-stereotypes-that-every-indian-home-has-seen/15060971" title="These Posters Show Popular Stereotypes That Every Indian Home Has Seen" target="_blank" onclick="clickTracking('SiteweLove', 'select', 'iDivaStory7');">These Posters Show Popular Stereotypes That Every Indian Home Has Seen</a></li> <li class="last"><a href="http://idiva.com/opinion-work-life/barbie-doll-goes-sensible-and-wears-flat-shoes/15060969" title="Life in Plastic: Barbie Stays Real with Sensible Clothing and Flats" target="_blank" onclick="clickTracking('SiteweLove', 'select', 'iDivaStory8');">Life in Plastic: Barbie Stays Real with Sensible Clothing and Flats</a></li> </ul> <div class="logobox"> <a href="http://idiva.com/" class="fidiva" target="_blank" onclick="clickTracking('SiteweLove', 'select', 'iDivaLogo');"></a> </div> </div> <div class="listbox"> <ul> <li class="nbb"> <span class="thumb"><a href="http://healthmeup.com/news-healthy-living/8-things-that-affect-your-blood-sugar-levels/15060961" title="8 Things That Affect Your Blood Sugar Levels" target="_blank" onclick="clickTracking('SiteweLove', 'select', 'HmuStorypic');"> <img src="http://luxpresso.com/images/transparent.gif" original_link="http://images.idiva.com/media/healthmeup/content/2015/Jun/diabetes_200x150.jpg" class="lazyload1second" width="200" height="150" border="0" alt="8 Things That Affect Your Blood Sugar Levels"> </a></span> </li> <li class="first"><a href="http://healthmeup.com/news-healthy-living/8-things-that-affect-your-blood-sugar-levels/15060961" title="8 Things That Affect Your Blood Sugar Levels" target="_blank" onclick="clickTracking('SiteweLove', 'select', 'HmuStory1');">8 Things That Affect Your Blood Sugar Levels</a></li> <li><a href="http://healthmeup.com/news-healthy-living/5-strange-reasons-why-you-make-bad-decisions/15060967" title="5 Strange Reasons Why You Make Bad Decisions" target="_blank" onclick="clickTracking('SiteweLove', 'select', 'HmuStory2');">5 Strange Reasons Why You Make Bad Decisions</a></li> <li><a href="http://healthmeup.com/news-recipes/how-to-make-sprouts-kadhi/15060956" title="How to Make Sprouts Kadhi" target="_blank" onclick="clickTracking('SiteweLove', 'select', 'HmuStory3');">How to Make Sprouts Kadhi</a></li> <li class="last"><a href="http://healthmeup.com/news-healthy-living/10-things-you-should-do-for-a-healthy-vagina/15060964" title="10 Things You Should Do for a Healthy Vagina" target="_blank" onclick="clickTracking('SiteweLove', 'select', 'HmuStory4');">10 Things You Should Do for a Healthy Vagina</a></li> </ul><ul> <li class="nbb"> <span class="thumb"><a href="http://healthmeup.com/photogallery-healthy-living/skincare-tips-you-must-follow-this-monsoon/15060954" title="Skincare Tips You Must Follow this Monsoon" target="_blank" onclick="clickTracking('SiteweLove', 'select', 'HmuStorypic');"> <img src="http://luxpresso.com/images/transparent.gif" original_link="http://images.idiva.com/media/healthmeup/photogallery/2015/Jun/monsoons-skincare_200x150.gif" class="lazyload1second" width="200" height="150" border="0" alt="Skincare Tips You Must Follow this Monsoon"> </a></span> </li> <li class="first"><a href="http://healthmeup.com/photogallery-healthy-living/skincare-tips-you-must-follow-this-monsoon/15060954" title="Skincare Tips You Must Follow this Monsoon" target="_blank" onclick="clickTracking('SiteweLove', 'select', 'HmuStory5');">Skincare Tips You Must Follow this Monsoon</a></li> <li><a href="http://healthmeup.com/news-recipes/coconut-rice-with-beans/15060833" title="Coconut Rice with Beans" target="_blank" onclick="clickTracking('SiteweLove', 'select', 'HmuStory6');">Coconut Rice with Beans</a></li> <li><a href="http://healthmeup.com/news-diet-fitness/work-those-legs/15060842" title="Work Those Legs" target="_blank" onclick="clickTracking('SiteweLove', 'select', 'HmuStory7');">Work Those Legs</a></li> <li class="last"><a href="http://healthmeup.com/news-diet-fitness/foods-you-should-avoid-if-youre-on-antibiotics/15060836" title="Foods You Should Avoid If You’re on Antibiotics" target="_blank" onclick="clickTracking('SiteweLove', 'select', 'HmuStory8');">Foods You Should Avoid If You’re on Antibiotics</a></li> </ul> <div class="logobox"> <a href="http://healthmeup.com/" class="fhealthmeup" target="_blank" onclick="clickTracking('SiteweLove', 'select', 'HmuLogo');"></a> </div> </div> </div> </div> </div><!--F:C-->
 <div class="clear"></div>
 
 	<div class="lowerfooter"><!--start lowerfooter-->
@@ -489,7 +493,7 @@ function streamPublish(name,  hrefTitle, hrefLink, userPrompt)
 		<div class="hozline"></div>
 
 		<div class="innerlower">
-			<div class="copyright">Copyright © 2014 <a href="http://timesinternet.in" title="Times Internet Limited" target="_blank">Times Internet Limited</a>. All Rights Reserved.</div>
+			<div class="copyright">Copyright © 2015 <a href="http://timesinternet.in" title="Times Internet Limited" target="_blank">Times Internet Limited</a>. Powered By Indiatimes Lifestyle Network. All Rights Reserved.</div>
 			<ul class="btmlink">
 			<li class="oSites">Other sites:</li>
 			<li><a title="Indiatimes" target="_blank" href="http://www.indiatimes.com/">Indiatimes</a></li>
@@ -518,7 +522,9 @@ function streamPublish(name,  hrefTitle, hrefLink, userPrompt)
             <li class="divider">|</li>
             <li><a title="Hotels" target="_blank" href="http://www.happytrips.com/hotels">Hotels</a></li>
             <li class="divider">|</li>
-        	<li><a href="http://www.timescity.com" target="_blank" title="Trending in City">Trending in City</a></li>
+            <li><a href="http://www.timescity.com" target="_blank" title="Trending in City">Trending in City</a></li>
+	    <li class="divider">|</li>
+            <li><a href="http://www.dineout.co.in/" target="_blank" title="Restaurants in Delhi">Restaurants in Delhi</a></li>
 			</ul>
 
 		</div>
@@ -634,7 +640,38 @@ function streamPublish(name,  hrefTitle, hrefLink, userPrompt)
 	//add('//connect.facebook.net/en_US/all.js', 'facebook-jssdk');
 	
 	// Twitter SDK
-	add('//platform.twitter.com/widgets.js');
+	window.twttr = (function (d,s,id) {
+	  var t, js, fjs = d.getElementsByTagName(s)[0];
+	  if (d.getElementById(id)) return; js=d.createElement(s); js.id=id;
+	  js.src="https://platform.twitter.com/widgets.js"; fjs.parentNode.insertBefore(js, fjs);
+	  return window.twttr || (t = { _e: [], ready: function(f){ t._e.push(f) } });
+	}(document, "script", "twitter-wjs"));
+twttr.ready(function (twttr) {
+	  twttr.events.bind('tweet', tweetIntentToAnalytics);	 
+          twttr.events.bind('follow', tweetIntentToAnalytics);
+	});
+        function tweetIntentToAnalytics (intent_event) {
+            if (!intent_event) return;
+            var opt_pagePath;
+            if (intent_event.target && intent_event.target.nodeName == 'IFRAME') {              var opt_target = extractParamFromUri(intent_event.target.src, 'url');              if(intent_event.type == 'tweet'){
+              var social_config_obj =  { 'hitType': 'social','socialNetwork': 'Twitter', 'socialAction': 'Tweet', 'socialTarget': opt_target };                  
+             }else if(intent_event.type == 'follow'){
+                var social_config_obj =  { 'hitType': 'social','socialNetwork': 'Twitter', 'socialAction': 'Follow', 'socialTarget': opt_target };
+             }
+             social_tracking(social_config_obj);
+            }          
+        }
+        function extractParamFromUri(uri, paramName) {
+          if (!uri) {
+            return;
+          }
+          var regex = new RegExp('[\\?&#]' + paramName + '=([^&#]*)');
+          var params = regex.exec(uri);
+          if (params != null) {
+            return unescape(params[1]);
+          }
+          return;
+        }
 
 	
 	fjs.parentNode.insertBefore(frag, fjs);
