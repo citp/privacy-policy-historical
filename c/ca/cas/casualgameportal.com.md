@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the casualgameportal.com privacy policy that was archived on 2014-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141206062744id_/http%3A//www.casualgameportal.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the casualgameportal.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610022208id_/http%3A//www.casualgameportal.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy Notice | CasualGamePortal.com
 
@@ -14,6 +14,8 @@ We may collect the following information:
   * other information relevant to customer surveys and/or offers
 
 
+
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here http://www.networkadvertising.org/managing/opt_out.asp.
 
 **What we do with the information we gather**
 
