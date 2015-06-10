@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kinderart.com privacy policy that was archived on 2014-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140530070115id_/http%3A//www.kinderart.com/legal/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kinderart.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610085206id_/http%3A//www.kinderart.com/legal/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy: KinderArt.com
 
@@ -25,14 +25,14 @@ What we **WON'T** do with your personal information:
 **Advertising**  
 We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/managing/opt_out.asp). 
 
-  * **Google** , as a third party vendor, uses cookies to serve ads on our site. 
-  * Google's use of the DART cookie enables it to serve ads to our users based on their visit to our site and other sites on the Internet. 
-  * Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html). 
+  * **Google** , as a third party vendor, uses cookies including the Google Analytics cookie and/or the DoubleClick cookie to serve ads on our site. As of September 2014, we have upgraded to Universal Analytics. 
+  * Google's use of these cookies enables it to serve ads to our users based on their visit to our site and other sites on the Internet.
+  * To provide website visitors with the ability to prevent their data from being used by Google Analytics, Google has developed the Google Analytics opt out browser add-on for the Google Analytics JavaScript (ga.js, analytics.js, dc.js). If you want to opt out, download and install the add-on for your web browser. Find more information [here](https://tools.google.com/dlpage/gaoptout/). 
 
 
 
 **For Newsletter Subscribers Only:**  
-So that we can provide you with a free email newsletter, we request your email information from you. If you have been sent a newsletter and you did not sign up to receive it, please send visit [THIS PAGE](https://web.archive.org/web/20140530070115id_/http%3A//www.kinderart.com/color) to unsubscribe. 
+So that we can provide you with a free email newsletter, we request your email information from you. If you have been sent a newsletter and you did not sign up to receive it, please send visit [THIS PAGE](https://web.archive.org/web/20150610085206id_/http%3A//www.kinderart.com/color) to unsubscribe. 
 
 **Children's Privacy**  
 This statement discloses the privacy practices for portions of our site directed at children under 13. 
@@ -48,7 +48,7 @@ This statement discloses the privacy practices for portions of our site directed
 We place prominent notices wherever personally identifiable information is collected requesting the child to ask a parent for permission to proceed. 
 
 **COPPA**  
-Because we care about the safety and privacy of children online, we comply with the Children's Online Privacy Protection Act of 1998 (COPPA). If you have any questions regarding this policy or the safety of kids at KinderArt, please contact us via our [Contact Form](https://web.archive.org/web/20140530070115id_/http%3A//www.kinderart.com/contact.shtml). 
+Because we care about the safety and privacy of children online, we comply with the Children's Online Privacy Protection Act of 1998 (COPPA). If you have any questions regarding this policy or the safety of kids at KinderArt, please contact us via our [Contact Form](https://web.archive.org/web/20150610085206id_/http%3A//www.kinderart.com/contact.shtml). 
 
   
 
