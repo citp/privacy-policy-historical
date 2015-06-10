@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the websouls.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701120410id_/http%3A//www.websouls.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the websouls.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610143136id_/http%3A//www.websouls.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
