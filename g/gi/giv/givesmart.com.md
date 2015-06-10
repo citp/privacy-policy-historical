@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the givesmart.com privacy policy that was archived on 2014-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140921191248id_/http%3A//www.givesmart.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the givesmart.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610042435id_/http%3A//www.givesmart.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | GiveSmart
 
-**Notice of Privacy Practices  **
-
-Effective Date: May 12, 2014
+Effective Date: May 12 2014
 
 **General**
 
@@ -46,7 +44,7 @@ The information we collect falls into two categories: Personal Information and S
 
 **“Personal Information”** as used in this Notice is information that we directly associate with a specific person or entity, such as name, address, payment information (including payment card number, expiration date, cardholder name and CVV code), mobile telephone number, email address, bid item, bid amount and donation amount. Please note that any payment information we collect is not stored by us.
 
-The Personal Information you provide will vary based upon the context, and we will not collect your Personal Information unless you make it available. You are not required to provide Personal Information at any time while visiting the Websites; however, you may be required to provide Personal Information to use certain GiveSmart services, such as registering for an event, bidding on an item or making a donation.  You may also submit Personal Information to us in other ways, such as by answering questions posed on the Websites by event-sponsoring clients (the “ **Auction Sponsors** ”) about your affiliation with the Auction Sponsors or certain preferences regarding the event or the items to be auctioned at an event. In addition, you may provide us with Personal information by participating in online surveys, subscribing to newsletters and other recurring offerings through the Websites, and in connection with other products, services, features, or requests made available through the Websites. If you provide Personal Information to us regarding others, we rely on you to obtain that other person’s consent for disclosing their information to us and inform that other person about how we will use the information and our contact details for any queries.
+The Personal Information you provide will vary based upon the context, and we will not collect your Personal Information unless you make it available. You are not required to provide Personal Information at any time while visiting the Websites; however, you may be required to provide Personal Information to use certain GiveSmart services, such as registering for an event, bidding on an item or making a donation. You may also submit Personal Information to us in other ways, such as by answering questions posed on the Websites by event-sponsoring clients (the “ **Auction Sponsors** ”) about your affiliation with the Auction Sponsors or certain preferences regarding the event or the items to be auctioned at an event. In addition, you may provide us with Personal information by participating in online surveys, subscribing to newsletters and other recurring offerings through the Websites, and in connection with other products, services, features, or requests made available through the Websites. If you provide Personal Information to us regarding others, we rely on you to obtain that other person’s consent for disclosing their information to us and inform that other person about how we will use the information and our contact details for any queries.
 
 “ **Site-Level Data** ” as used in this Notice is anonymous information regarding use of our Websites or services that is collected and/or aggregated by or on behalf of GiveSmart through the use of automated means, which include cookies and web beacons. “Cookies” are small identifiers sent from a web server that are stored on your computer’s hard drive for the purpose of identifying your browser during interaction on websites or storing information or settings in your browser. A “web beacon,” also known as an Internet tag, pixel tag or clear GIF, links web pages to web servers and their cookies and may be used to transmit information collected through cookies back to a web server. Site-Level Data collected through these automated means may include information that we gather and store about your visit to, and use of, the Websites, such as your IP address, type of browser and operating system used, date and time you access the websites, pages you visit, and, if you linked to the Websites from another website, the address of that website. Site-Level Data does not include Personal Information and is not treated as Personal Information under this Notice, but it may include the IP address of your device.
 
@@ -58,8 +56,8 @@ Most web browsers automatically accept cookies, but you can usually modify your 
 
 We may use the Personal Information we collect for the following purposes:
 
-  1. for our everyday business purposes, such as establishing and managing your customer account, providing services you request, processing and collecting payments and  providing customer support;
-  2. to collect bids and donations from you in connection with an event and in accordance with the Terms of Use <<hyperlink to Terms of Use>>;
+  1. for our everyday business purposes, such as establishing and managing your customer account, providing services you request, processing and collecting payments and providing customer support;
+  2. to collect bids and donations from you in connection with an event and in accordance with the Terms of Use <>;
   3. to offer our services and/or the products or services of others to you;
   4. to evaluate and improve our business, including developing new products and services and analyzing the effectiveness of products, services and Websites;
   5. to perform data analyses, including market and consumer search, trend analysis, demographic analysis and financial analysis; and
@@ -70,26 +68,24 @@ We may use the Personal Information we collect for the following purposes:
 In addition, we use Site-Level Data collected through automated means for purposes such as:
 
   1. customizing visits to our Websites based on observable user preferences;
-
-
-  1. delivering content (including advertising) correlating to our users’ interests based on the ways in which our users interact with our Websites;
-  2. diagnosing technical and service problems; and
-  3. administering our Websites.
+  2. delivering content (including advertising) correlating to our users’ interests based on the ways in which our users interact with our Websites;
+  3. diagnosing technical and service problems; and
+  4. administering our Websites.
 
 
 
 **Applications And Widgets**
 
-We may include applications or widgets from third parties on some pages of this Website that allows interaction or content sharing by users. “Widgets” are mini-programs that provide specific services or content from a third party. These widgets, such as a Facebook “Share” or “Like” button, are visible to you on the webpage you visit. Your interaction with a widget typically allows the third party to collect some information about you through the third party’s cookies or its registration information. In some cases, the third party may recognize you through its widgets and cookies even when you do not interact with the widget. Please visit the third-parties’ respective privacy policy to better understand their data collection practices and controls they make available to you at: www.facebook.com, [www.twitter.com](http://www.twitter.com/), [www.pinterest.com](http://www.pinterest.com/), https://plus.google.com/.  The privacy policies of those third parties apply to, and control, all data collection practices via interaction with such widgets.
+We may include applications or widgets from third parties on some pages of this Website that allows interaction or content sharing by users. “Widgets” are mini-programs that provide specific services or content from a third party. These widgets, such as a Facebook “Share” or “Like” button, are visible to you on the webpage you visit. Your interaction with a widget typically allows the third party to collect some information about you through the third party’s cookies or its registration information. In some cases, the third party may recognize you through its widgets and cookies even when you do not interact with the widget. Please visit the third-parties’ respective privacy policy to better understand their data collection practices and controls they make available to you at: www.facebook.com, [www.twitter.com](http://www.twitter.com/), [www.pinterest.com](http://www.pinterest.com/), https://plus.google.com/. The privacy policies of those third parties apply to, and control, all data collection practices via interaction with such widgets.
 
 **Information We Share**
 
 We may share Site-Level Data with third parties, including our affiliates, for any reason and without notice to you. We do not sell or otherwise share Personal Information except as described below:
 
-  1. Affiliates. GiveSmart may share your Personal Information with its affiliates so long as the disclosure and use of your Personal Information by such entities is consistent with this Notice.
+  1. GiveSmart may share your Personal Information with its affiliates so long as the disclosure and use of your Personal Information by such entities is consistent with this Notice.
   2. Auction Sponsors. GiveSmart may share your Personal Information with the Auction Sponsors for the purpose of preparing for the event, awarding you the items you bid on, acknowledging your bids and donations, other event-related matters. In addition, the Auction Sponsors may use your Personal Information in its programs and activities so they can contact you to obtain your input, provide information about their current and future programs and events, or request contributions. The Auction Sponsor may also share the Personal Information with its volunteers, vendors and service providers that assist Auction Sponsor with Auction Sponsor’s activities and programs, such as by fulfilling orders, managing data and processing donations.
-  3. Service Providers.  We may engage third parties to provide or support the services offered through the Websites on our behalf, or other services with us. In such cases, we require such providers to maintain your Personal Information in accordance with this Notice and to use such information in accordance with the contractual arrangements we have in place with those providers.
-  4. Other. We may access or disclose information, including Personal Information, to: (i) protect or defend our interests and the legal rights or property of GiveSmart and our affiliates; (ii) protect the rights, interest and safety and security of users of our Websites or members of the public,; (iii) protect against fraud or for risk management purposes; or (iv) comply with prudent legal practice as we may determine, applicable law or legal process. In addition, if we sell all or substantially all of our business or sell or transfer all or a material part of our assets, or are otherwise involved in a merger or transfer of all or a material part of our business, we may transfer all information we have collected and stored, including your Personal Information, to the party or parties involved in the transaction as part of that transaction.
+  3. Service Providers. We may engage third parties to provide or support the services offered through the Websites on our behalf, or other services with us. In such cases, we require such providers to maintain your Personal Information in accordance with this Notice and to use such information in accordance with the contractual arrangements we have in place with those providers.
+  4. We may access or disclose information, including Personal Information, to: (i) protect or defend our interests and the legal rights or property of GiveSmart and our affiliates; (ii) protect the rights, interest and safety and security of users of our Websites or members of the public,; (iii) protect against fraud or for risk management purposes; or (iv) comply with prudent legal practice as we may determine, applicable law or legal process. In addition, if we sell all or substantially all of our business or sell or transfer all or a material part of our assets, or are otherwise involved in a merger or transfer of all or a material part of our business, we may transfer all information we have collected and stored, including your Personal Information, to the party or parties involved in the transaction as part of that transaction.
 
 
 
@@ -99,11 +95,11 @@ You are entitled to make certain choices about how we communicate with you and t
 
 You may elect to opt out of receipt of email and text communications from us by following the instructions provided in such communications or by contacting us as provided below. Even after opting out, you may still receive service oriented, non-promotional communications from us and promotional communications from third parties as a result of their own interactions or transactions with you.
 
-Most web browsers automatically accept cookies, but you can usually modify your browser’s setting to decline cookies if you prefer.  You may also render some web beacons unusable by rejecting their associated cookies and disable or delete similar data used by browser add-ons, such as Flash cookies, by changing the add-on’s settings or visiting the website of the manufacturer.  If you choose to decline cookies or similar technologies, however, please note that certain features may not function properly or at all as a result.
+Most web browsers automatically accept cookies, but you can usually modify your browser’s setting to decline cookies if you prefer. You may also render some web beacons unusable by rejecting their associated cookies and disable or delete similar data used by browser add-ons, such as Flash cookies, by changing the add-on’s settings or visiting the website of the manufacturer. If you choose to decline cookies or similar technologies, however, please note that certain features may not function properly or at all as a result.
 
 **California Residents’ Privacy Rights**
 
-Pursuant to Section 1798.83 of the California Civil Code, residents of California have the right to request from a business, with whom the California resident has an established business relationship, certain information with respect to the types of personal information the business shares with third parties for direct marketing purposes by such third party and the identities of the third parties with whom the business has shared such information during the immediately preceding calendar year. To request a copy of such information, please contact us as described in the “How To Contact Us” section below, and we will respond within 30 days as required by law.
+ Pursuant to Section 1798.83 of the California Civil Code, residents of California have the right to request from a business, with whom the California resident has an established business relationship, certain information with respect to the types of personal information the business shares with third parties for direct marketing purposes by such third party and the identities of the third parties with whom the business has shared such information during the immediately preceding calendar year. To request a copy of such information, please contact us as described in the “How To Contact Us” section below, and we will respond within 30 days as required by law.
 
 As of the effective date of this Privacy Statement, there is no commonly accepted response for Do Not Track signals initiated by browsers, therefore we do not respond to them.
 
@@ -125,11 +121,11 @@ GiveSmart uses commercially reasonable administrative, technical, personnel, and
 
 **Updates To This Notice**
 
-We may update this Notice to provide clarification or notice of changes to our practices. If we make changes, we will revise the date at the top of this Notice.  If we propose to use Personal Information in a materially different way, we will provide you with additional notice by posting notice of the changes on the Websites for at least 30 days before we implement those changes, and we will obtain your consent if required by law for any material change regarding disclosure of Personal Information.
+We may update this Notice to provide clarification or notice of changes to our practices. If we make changes, we will revise the date at the top of this Notice. If we propose to use Personal Information in a materially different way, we will provide you with additional notice by posting notice of the changes on the Websites for at least 30 days before we implement those changes, and we will obtain your consent if required by law for any material change regarding disclosure of Personal Information.
 
 **How To Contact Us**
 
-If you have any questions or comments about this Notice or if you would like us to update information we have about you or your preferences, please contact us by email at: [hello@givesmart.com](mailto:hello@givesmart.com), Phone: (855) 322 4483.
+If you have any questions or comments about this Notice or if you would like us to update information we have about you or your preferences, please contact us by email at: hello@givesmart.com, Phone: (855) 322 4483.
 
 You also may write to us at:
 
