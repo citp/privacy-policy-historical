@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smartsavvyliving.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121030003id_/http%3A//www.smartsavvyliving.com/disclosure-and-privacy-policies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartsavvyliving.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610045248id_/http%3A//www.smartsavvyliving.com/disclosure-and-privacy-policies) for the most accurate reproduction.*
 
 # Disclosure and Privacy Policies - Smart Savvy Living
 
@@ -113,5 +113,3 @@ This policy was last modified on 4/8/13
 If you have any questions, please email us at [smartsavvyliving@gmail.com](mailto:smartsavvyliving@gmail.com).
 
 This policy is powered by Trust Guard, your [PCI compliance](http://cdnsmartsavvyliving.michellepegram.netdna-cdn.com/wp-content/uploads/2013/04/65.htm) authority.
-
-[](http://pinterest.com/ssavvyliving)
