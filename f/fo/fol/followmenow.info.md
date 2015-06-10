@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the followmenow.info privacy policy that was archived on 2014-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141106100724id_/http%3A//www.followmenow.info/privacy-policies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the followmenow.info privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610085340id_/http%3A//www.followmenow.info/privacy-policies) for the most accurate reproduction.*
 
 # Privacy Policies › FollowMeNow.info : Powerful social bookmarking submission service | Get back links from social bookmarking websites leading to high traffic and SEO ranking
 
