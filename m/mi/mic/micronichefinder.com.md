@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the micronichefinder.com privacy policy that was archived on 2014-08-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140804075943id_/http%3A//www.thenetresults.com/misc/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the micronichefinder.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610105646id_/http%3A//www.thenetresults.com/misc/privacy.php) for the most accurate reproduction.*
 
 # The Net Results: Privacy Policy
 
@@ -60,4 +60,4 @@ Where to Direct Questions About Our Privacy Policy: If you have any questions ab
 
 Revisions to This Policy: Our company reserves the right to revise, amend, or modify this policy, our Terms Of Service agreement, and our other policies and agreements at any time and in any manner, by updating this posting. 
 
-© 2014 James J Jones, LLC
+© 2015 James J Jones, LLC
