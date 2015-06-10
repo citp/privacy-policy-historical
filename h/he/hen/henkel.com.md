@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the henkel.com privacy policy that was archived on 2014-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140927055358id_/http%3A//www.henkel.com/privacy-statement%3FpageID%3D9388) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the henkel.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610054830id_/http%3A//www.henkel.com/privacy-statement%3FpageID%3D9388) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -58,24 +58,23 @@ Stored data will be deleted by Henkel upon expiration of the statutory or contra
 
 The Federal Data Protection Act (BDSG) stipulates in § 4 g that the data protection officer shall make the following data available to anyone in a suitable manner in accordance with § 4 e:
 
-(1) Name of the responsible entity:| Henkel AG & Co. KGaA  
----|---  
-(2) Personally liable partner / Management Board| Henkel Management AG  
-  
-| Kasper Rorsted (Chairman)  
-  
-| Carsten Knobel  
-  
-| Jan-Dirk Auris  
-  
-| Hans Van Bylen  
-  
-| Bruno Piacenza  
-  
-| Kathrin Menges  
-Corporate Senior Vice President Data Processing| Joachim Jaeckle  
-(3) Address of the responsible entity:| 40191 Düsseldorf, Germany  
-  
+ **(1) Name of the responsible entity:** Henkel AG & Co. KGaA
+
+ **(2) Personally liable partner / Management Board:** Henkel Management AG
+
+  * Kasper Rorsted (Chairman)
+  * Carsten Knobel
+  * Jan-Dirk Auris
+  * Hans Van Bylen
+  * Bruno Piacenza
+  * Kathrin Menges
+
+
+
+Corporate Senior Vice President Data Processing: Joachim Jaeckle
+
+ **(3) Address of the responsible entity:** 40191 Düsseldorf, Germany
+
  **(4) Intended purpose of data collection, processing or use:**
 
   * The object of the corporation is the manufacture and distribution of chemical products of all kinds, especially detergents, cleaning agents and care products, chemical raw materials, adhesives and industrial chemicals;
