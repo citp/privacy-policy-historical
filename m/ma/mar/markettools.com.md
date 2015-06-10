@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the markettools.com privacy policy that was archived on 2014-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141124181306id_/http%3A//www.metrixlab.com/%3Fp%3D1603) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the markettools.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610103405id_/http%3A//www.metrixlab.com/%3Fp%3D1603) for the most accurate reproduction.*
 
 # Privacy Statement | MetrixLab
 
