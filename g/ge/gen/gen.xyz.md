@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gen.xyz privacy policy that was archived on 2014-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140906175550id_/http%3A//gen.xyz/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gen.xyz privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610061151id_/http%3A//gen.xyz/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | .xyz Domain Names | Join Generation XYZ
 
