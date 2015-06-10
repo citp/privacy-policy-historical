@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the capitalone.co.uk privacy policy that was archived on 2014-11-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141120110208id_/http%3A//www.capitalone.co.uk/web/privacy-statement.jsf) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the capitalone.co.uk privacy policy that was archived on 2015-06-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150610021301id_/http%3A//www.capitalone.co.uk/web/privacy-statement.jsf) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en-GB"><!-- InstanceBeginEditable name="java" --><!-- InstanceEndEditable --><head><script async="" src="https://nexus.ensighten.com/capitaloneuk/Bootstrap.js?_=1580350892542"></script>
+<!DOCTYPE html><html lang="en-GB"><!-- InstanceBeginEditable name="java" --><!-- InstanceEndEditable --><head><script async="" src="https://nexus.ensighten.com/capitaloneuk/Bootstrap.js?_=1580350891211"></script>
 <!-- Page You Are On = -->
 
 <meta charset="UTF-8">
@@ -12,11 +12,12 @@
 
 
 <meta name="description" content="Capital One's privacy policy applies to anyone who visits our websites. It explains how we may collect, protect and use your information when you visit our sites.">
+<link rel="alternate" media="only screen and (max-width: 640px) " http:="" m.capitalone.co.uk="" web="" privacy-statement.jsf"="">
 
 
 <meta name="format-detection" content="telephone=no">
 <link href="/css/reset.css" rel="stylesheet" type="text/css">
-<link href="/css/master.css?=7" rel="stylesheet" type="text/css">
+<link href="/css/master.css?=8" rel="stylesheet" type="text/css">
 
 
 
@@ -34,6 +35,7 @@
 <script type="text/javascript" src="/js/vs-links.js"></script>
 <script type="text/javascript" src="/js/jquery.pngFix.js"></script>
 <script type="text/javascript" src="/js/popup.js"></script>
+<script src="//service.maxymiser.net/cdn/capitalone/js/mmcore.js"></script>
 <script type="text/javascript">
 // LOAD ENSIGHTEN BOOTSTRAP
 
@@ -43,11 +45,10 @@ var CookiePref = null;
 if($.cookie('preferences') != null ) { 
 	var CookiePref = $.cookie('preferences').substring(0,1); // set the first value for performance cookies
 }
-if(CookiePref == "N") { 
-	// do not load bootstrap
-} else {
+if(CookiePref !== "N") {
 	// load bootstrap
 	$.getScript('//nexus.ensighten.com/capitaloneuk/Bootstrap.js');
+
 }
 </script>
 <script type="text/javascript">
@@ -65,7 +66,7 @@ if(CookiePref == "N") {
 
 	// Create visitor ID cookie
 	if( CookiePref == null || CookiePref == "Y") {
-		var jSess = 'DxvXJtKKyKtFSG9cGpFQJvQLnwyWNLgk7crbJknmJ4xVBQwpMKTg!857587557!1416481290153';
+		var jSess = 'ijPbPfGewk9m6nxsv5ikOeI6jkvQDVdsEkxoR3rbfSE3g--2yj7O!-1936955699!1433902379422';
 		var alphaSess = jSess.replace(/\W/g, '').substring(0,99);
 		if ($.cookie('sc_vi')== null) {
 			$.cookie('sc_vi', alphaSess, { expires: 365, path: '/', domain: sc_cookieDomain});
@@ -247,7 +248,7 @@ if(CookiePref == "N") {
 
 		// Accordions
 		//$('dt.closed .accordion-title').live("click", function() {
-		$(document).on('click', 'dt.closed .accordion-title', function() {  // changed .live() to .on() as .live() is depreciated -- http://stackoverflow.com/a/18859713/633056
+		$(document).on('click', 'dt.closed .accordion-title', function() {
 			//console.info('accordion clicked');
 			var sc_clicked = $(this).html();
 			var sc_contentType = "cu";
@@ -365,7 +366,10 @@ if(CookiePref == "N") {
 	var sc_chanType;
 	var sc_camStack;
 	var sc_chanStack; 
-
+	
+	var sc_totbanRef;
+	sc_totbanRef = ""
+	
 	var sc_sol;
 	sc_sol = ""
 	sc_sol = (sc_sol.substr(0,5));
@@ -731,40 +735,42 @@ $(document).ready(function() {
 </head>
 <body>
 
-<form id="web-privacy:j_id_id2" name="web-privacy:j_id_id2" method="post" action="/web/privacy-statement.jsf">
+<form id="web-privacy:j_id_id2" name="web-privacy:j_id_id2" method="post" action="/web/privacy-statement.jsf;jsessionid=ijPbPfGewk9m6nxsv5ikOeI6jkvQDVdsEkxoR3rbfSE3g--2yj7O!-1936955699">
 <input type="hidden" name="web-privacy:j_id_id2" value="web-privacy:j_id_id2">
 
 <div id="body-wrapper">
 	<div id="main">
-					<div id="prefBanner" style="display: block;"><div class="icon fl"></div>
+					<a href="#startcontent" id="skip">Skip to main content</a> 
+			<div id="prefBanner" style="display: block;"><div class="icon fl"></div>
 				<p>To help us improve our websites, provide you with relevant advertising and useful functionality, our websites use cookies. By using our websites, you consent to cookies being used. See our <a href="/web/cookie-policy.jsf" id="pB">Cookie policy</a> to learn more about cookies or change your cookie preferences.</p>
 			</div>
 
 		
-		<div id="header-o">
+		<div id="header-o" class="capone-rsp-desktop" role="banner">
 	<div id="header-i">
-		<div class="header-logo"> <a href="/web/index.jsf"><img src="/images/common/logos/img-logo-capitalone.gif" alt="Capital One" title="Capital One" width="172" height="60"></a> </div>
+		<div class="header-logo"> <a href="/web/index.jsf"><img src="/images/common/logos/img-logo-capitalone.gif" alt="Capital One" width="172" height="60"></a> </div>
 		<div class="header-account" id="header-account">
-			<h2>Your Card Account</h2>
-			<a href="/web/sign-in.jsf" class="cta-primary fl mr10">Sign in<span class="icon"></span></a> <a href="/web/register.jsf" class="cta-secondary fl">Register</a>
+			<p>Your Card Account</p>
+			<a href="/web/sign-in.jsf" class="cta-primary fl mr10" role="button" tabindex="0">Sign in<span class="icon"></span></a> 
+			<a href="/web/register.jsf" class="cta-secondary fl" role="button" tabindex="0">Register</a>
 			<ul class="header-account-links fl unlist">
 				<script type="text/javascript">
 					var desktopChosen = readCookie('showDesktop');
 						if (desktopChosen == "Y") {	
 							$('<li class="mobile-return-link"><a href=\"javascript:mobileLink()\;\">Back to Mobile</a></li>').appendTo('.header-account-links ');
-							$('<li><a href=\"/support/contact-us.jsf\">Contact us</a></li>').appendTo('.header-account-links ');
-							$('<li><a href=\"/web/cookie-policy.jsf\">Cookie Policy</a></li>').appendTo('.header-account-links ');
+							$('<li><a href=\"/support/contact-us.jsf\" role="link" tabindex="0">Contact us</a></li>').appendTo('.header-account-links ');
+							$('<li><a href=\"/web/cookie-policy.jsf\" role="link" tabindex="0">Cookie Policy</a></li>').appendTo('.header-account-links ');
 							$('.header-account-links').addClass('mobile-return');
 						}
 						else
 						{
-							$('<li><a href=\"/support/contact-us.jsf\">Contact us</a></li>').appendTo('.header-account-links ');
-							$('<li><a href=\"/web/cookie-policy.jsf\">Cookie Policy</a></li>').appendTo('.header-account-links ');
+							$('<li><a href=\"/support/contact-us.jsf\" role="link" tabindex="0">Contact us</a></li>').appendTo('.header-account-links ');
+							$('<li><a href=\"/web/cookie-policy.jsf\" role="link" tabindex="0">Cookie Policy</a></li>').appendTo('.header-account-links ');
 						}
-				</script><li><a href="/support/contact-us.jsf">Contact us</a></li><li><a href="/web/cookie-policy.jsf">Cookie Policy</a></li>
+				</script><li><a href="/support/contact-us.jsf" role="link" tabindex="0">Contact us</a></li><li><a href="/web/cookie-policy.jsf" role="link" tabindex="0">Cookie Policy</a></li>
 				<noscript>
-					<li><a href="/support/contact-us.jsf">Contact us</a></li>
-					<li><a href="/web/cookie-policy.jsf">Cookie Policy</a></li>
+					<li><a href="/support/contact-us.jsf" role="link" tabindex="0">Contact us</a></li>
+					<li><a href="/web/cookie-policy.jsf" role="link" tabindex="0">Cookie Policy</a></li>
 				</noscript>
 
 			</ul>
@@ -773,7 +779,7 @@ $(document).ready(function() {
 </div>
 
 		
-		<div id="primary-navigation">
+		<div id="primary-navigation" role="navigation">
 	<ul class="unlist">
 		<li><a href="/web/index.jsf" id="primary-home">Home</a></li>
 		<li><a href="/creditcards/credit-card-range.jsf" id="primary-creditcards">Credit Cards</a></li>
@@ -798,7 +804,7 @@ $(document).ready(function() {
 		<li> <a href="/web/legal-information.jsf" id="secondary-legal" class="active">Legal Information</a><span class="nav-secondary-arrow"></span> </li>
 	</ul>
 </div>
-
+<div id="startcontent"></div>
 		
 		<div class="container_12"> 
 			<div class="container_12 clearfix">
@@ -870,18 +876,19 @@ $(document).ready(function() {
 			<div class="grid_12">
 				<div class="sitemap-column-o short">
 					<div class="sitemap-column-i">
-						<h4><a href="/creditcards/credit-card-range.jsf">Credit Cards</a></h4>
+						<div class="header" aria-hidden="true"><a href="/creditcards/credit-card-range.jsf">Credit Cards</a></div>
 						<ul class="unlist">
-							<li><a id="footer-credit-card-range" href="/creditcards/credit-card-range.jsf">Credit Card Range</a></li>
-							<li><a id="footer-compare-credit-cards" href="/creditcards/compare-credit-cards.jsf">Compare Credit Cards</a></li>
-							<li><a id="footer-aspire-business-credit-card" href="/creditcards/aspire-business-credit-card.jsf">Aspire® Business Card</a></li>
-                            <li><a id="footer-bad-credit" href="/creditcards/credit-cards-for-bad-credit.jsf">Bad Credit Credit Cards</a></li>
+							<li><a id="footer-credit-card-range" href="/creditcards/credit-card-range.jsf">Our Credit Cards</a></li>
+							<li><a id="footer-compare-credit-cards" href="/creditcards/classic-mastercard-credit-card.jsf">Classic Credit Card</a></li>
+                            <li><a id="footer-bad-credit" href="/creditcards/credit-cards-for-bad-credit.jsf">Bad Credit Credit Card</a></li>
+                            <li><a id="footer-compare-credit-cards" href="/creditcards/balance-plus-credit-card.jsf">Balance Plus Card</a></li>
+                            <li><a id="footer-eligibility-checker" href="/creditcards/credit-card-eligibility-checker.jsf">Eligibility Checker</a></li>
 						</ul>
 					</div>
 				</div>
 				<div class="sitemap-column-o">
 					<div class="sitemap-column-i">
-						<h4><a href="/creditmadeclearer/index.jsf">Credit Made Clearer</a></h4>
+						<div class="header"><a href="/creditmadeclearer/index.jsf">Credit Made Clearer</a></div>
 						<ul class="unlist">
 							<li><a href="/creditmadeclearer/credit-knowledge.jsf">Credit Knowledge</a></li>
 							<li><a href="/creditmadeclearer/using-credit-cards.jsf">Using Credit Cards</a></li>
@@ -892,26 +899,22 @@ $(document).ready(function() {
 				</div>
 				<div class="sitemap-column-o">
 					<div class="sitemap-column-i">
-						<h4><a href="/benefits/index.jsf">Features</a></h4>
+						<div class="header"><a href="/benefits/index.jsf">Features</a></div>
 						<ul class="unlist">
 							<li><a href="/benefits/mobile-app.jsf">Mobile App</a></li>
 							<li><a href="/benefits/online-servicing.jsf">Online Account Servicing</a></li>
-							<li><a href="/benefits/aspire-elite.jsf">Aspire® Card Features</a></li>
 							<li><a href="/benefits/contactless-payments.jsf">Contactless Payments</a></li>
 						</ul>
 					</div>
 				</div>
 				<div class="sitemap-column-o">
 					<div class="sitemap-column-i">
-						<h4><a href="/support/index.jsf">Support</a></h4>
+						<div class="header"><a href="/support/index.jsf">Support</a></div>
 						<ul class="unlist">
 							<li><a href="/support/faqs-about-credit.jsf">FAQs</a></li>
 							<li><a href="/support/contact-us.jsf">Contact Us</a></li>
-							
 							<li><a href="/support/ppi-complaints.jsf">PPI Complaints</a></li>
-							
 							<li><a href="/support/safety-and-security.jsf">Safety and Security</a></li>
-                       
 							<li><a href="/support/card-fraud.jsf#tabs1-sso">Shopping safely online</a></li>
 							<li><a href="/web/sitemap.jsf">Sitemap</a></li>
 						</ul>
@@ -919,9 +922,9 @@ $(document).ready(function() {
 				</div>
 				<div class="sitemap-column-o">
 					<div class="sitemap-column-i">
-						<h4><a href="/aboutus/who-are-capital-one.jsf">About Us</a></h4>
+						<div class="header"><a href="/aboutus/who-are-capital-one.jsf">About Us</a></div>
 						<ul class="unlist">
-							<li><a href="/aboutus/who-are-capital-one.jsf">About Capital One</a></li>
+							<li aria-hidden="true"><a href="/aboutus/who-are-capital-one.jsf">About Capital One</a></li>
 							<li><a href="/aboutus/careers.jsf">Careers</a></li>
 							<li><a href="/aboutus/corporate-social-responsibility.jsf">Social Responsibility</a></li>
 							<li><a href="/media/media-centre.jsf">Media Centre</a></li>
@@ -932,7 +935,7 @@ $(document).ready(function() {
 				</div>
 				<div class="sitemap-column-o short">
 					<div class="sitemap-column-i last">
-						<h4><a href="/youraccount/index.jsf">Your Account</a></h4>
+						<div class="header"><a href="/youraccount/index.jsf">Your Account</a></div>
 						<ul class="unlist">
 							<li><a href="/web/sign-in.jsf">Sign In</a></li>
 							<li><a href="/web/register.jsf">Register</a></li>
@@ -941,11 +944,10 @@ $(document).ready(function() {
 					</div>
 				</div>
 				<div class="sponsorship"> <a href="/aboutus/capital-one-cup.jsf" id="capitalonecup-logo">Capital One Cup</a>
-					<p class="designation"><a href="/aboutus/capital-one-cup.jsf">Official Credit Card of The Football League</a></p>
 				</div>
               <div class="socialmedia"> <p><a href="http://www.facebook.com/capitaloneuk" target="_blank" id="facebook-logo">Facebook</a>
               <a href="http://www.twitter.com/CapitalOneUK" target="_blank" id="twitter-logo">Twitter</a>
-              <a href="https://plus.google.com/116748370513869488131" rel="publisher"></a>
+              <a href="https://plus.google.com/116748370513869488131" class="google-plus-logo" rel="publisher">Google+</a>
               </p>
 				</div>
 			</div>
@@ -962,15 +964,17 @@ $(document).ready(function() {
 	</div>
 	 
 	
-	<div id="footer" class="footer-whitelinks">
-
-<a href="/web/legal-information.jsf" target="_blank">Legal Information</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/web/privacy-statement.jsf" target="_blank">Privacy Policy</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/web/terms-of-use.jsf" target="_blank">Terms of Use</a><br>
- © <span id="copyright-date">2014</span> Capital One (Europe) plc, Trent House, Station Street, Nottingham NG2 3FB. Capital One Aspire® Elite and the Vauxhall Rewards Capital One Card are World™ MasterCards®.<br>
-MasterCard® and World MasterCard® are registered trademarks of MasterCard International Incorporated.</div>
-
+	<div class="ffooter capone-rsp-desktop footer-whitelinks" role="contentinfo">
+  <div class="ffooter-text"> <a class="ffooter" href="/web/legal-information.jsf" target="_blank">Legal Information</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/web/privacy-statement.jsf" target="_blank">Privacy Policy</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/web/terms-of-use.jsf" target="_blank">Terms of Use</a><br>
+    © <span id="copyright-date"><script>document.write(new Date().getFullYear())</script>2020</span> Capital One (Europe) plc, Trent House, Station Street, Nottingham, NG2 3HX. Capital One® and Capital One Aspire® are registered trademarks of Capital One. Capital One Aspire® Elite is a World Elite™ MasterCard®. Vauxhall Rewards credit card is a World MasterCard®.<br>
+    MasterCard®, World MasterCard® and World Elite™ MasterCard® are registered trademarks of MasterCard International Incorporated. </div>
+  <div class="ffooter-logo"> <img src="/images/common/capone-logo.png" alt="Capital One the card in your corner" width="113" height="53"></div>
+</div>
 	 
 	
-	<img src="/images/vs/zag.gif" width="5" height="5" alt="">
+	
+<div aria-hidden="true">
+<img src="/images/vs/zag.gif" width="5" height="5" alt="">
 
 <script type="text/javascript">
 var axel = Math.random() + "";
@@ -989,9 +993,9 @@ var google_remarketing_only = true;
 }
 </script>
 <script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js"></script>
-
+</div>
 	  </div>
-<input type="hidden" name="javax.faces.ViewState" id="javax.faces.ViewState" value="j_id5:j_id6">
+<input type="hidden" name="javax.faces.ViewState" id="javax.faces.ViewState" value="j_id1:j_id2">
 </form>
 <!-- InstanceEndEditable -->
 
