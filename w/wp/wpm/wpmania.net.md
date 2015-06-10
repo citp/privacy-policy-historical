@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wpmania.net privacy policy that was archived on 2014-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140817221250id_/http%3A//wpmania.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wpmania.net privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610022255id_/http%3A//wpmania.net/Store/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Premium WordPress Theme Download
+# Privacy Policy | Premium WordPress Themes & WordPress Templates
 
 ****Your privacy is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and disclose and make use of personal information. The following outlines our privacy policy.
 
@@ -15,5 +15,3 @@
 
 
 We are committed to conducting our business in accordance with these principles in order to ensure that the confidentiality of personal information is protected and maintained.
-
-Copyright © 2009-2013 WpMania.Net 
