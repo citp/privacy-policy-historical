@@ -1,522 +1,635 @@
-<!--The following is the downloaded HTML source of the cloudways.com privacy policy that was archived on 2014-08-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140808055832id_/http%3A//www.cloudways.com/en/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the cloudways.com privacy policy that was archived on 2015-06-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150610085505id_/http%3A//www.cloudways.com/en/privacy.php) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en"><head>
-<title>Privacy Policy | Cloudways</title>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<meta name="keywords" content="Privacy Policy Cloudways, cloudways privacy policy, privacy policy"> 
-<meta name="Description" content="Cloudways Privacy Policy on Data protection and encryption, usage of personal information, cookies, payment information and more.">
-<meta name="msvalidate.01" content="11C5B0C57D69857DD41D8396C491DCE0">
-<meta name="SKYPE_TOOLBAR" content="SKYPE_TOOLBAR_PARSER_COMPATIBLE">
-<!--[if IE]><meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1" /><![endif]-->
-<meta name="author" content="CloudWays">
-<link rel="icon" type="image/png" href="http://www.cloudways.com/template/default/img/favicon.ico">
-<link rel="shortcut icon" href="http://www.cloudways.com/template/default/img/favicon.ico" type="image/x-icon">
-<link rel="stylesheet" type="text/css" href="http://www.cloudways.com/min/g=all_css">
-<script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript" src="http://www.cloudways.com/min/g=all_js"></script>
-<script type="text/javascript">
-	jQuery(document).ready(function()
-	{
-		//Ajax Content Path
-		var path = 'http://www.cloudways.com/ajax_content/';
-		//All Mix Small Events Define Here
-		mixEvents(path, 'Search');
-		
-				
-		//new website related js
-		$('.js-promo-1').click(function() {
-			if(!$('.js-code1').is(':visible'))
-			{
-				$('.js-email1').css({width:'235px'});
-				$('.js-code1').fadeIn();
-				$('.js-promo-1').html('Remove Promo Code');
-			}
-			else
-			{
-				$('.js-code1').fadeOut(300, function() {
-					$('.js-code1').val('');
-					$('.js-email1').css({width:'459px'});
-					$('.js-promo-1').html('Got Promo Code?');
-				});
-			}
-		});
-		
-		tiles	= '';
-					$("html").niceScroll({
-				zindex:1200,
-				//scrollspeed: 60,
-				//mousescrollstep: 30,
-				cursorwidth: 12,
-				cursorborder: 0,
-				cursorcolor: '#00AEEF',
-				cursorborderradius: 0,
-				autohidemode: false,
-				background: '#C9F0FF',
-			});
-		
-			
-			if($(window).scrollTop() == 0)
-			{
-				tiles	= $(".js-fadein").fadeTo(0,0);
-			}
-				
-		var bg	= $('.hd-nw_nav ul li a').css('background-image');
-		$(window).scroll(function(d,h) {
-							if(tiles != '')
-				{
-					tiles.each(function(i) {
-						//a = $(this).offset().top + $(this).height();
-						a = $(this).offset().top + 100;
-						b = $(window).scrollTop() + $(window).height();
-						if (a < b) $(this).fadeTo(700,1);
-					});
-				}
-						
-							//header scrolling
-				var scroll_top		= $(window).scrollTop();
-				//var top_space		= ($('#hellobar-wrapper').length > 0) ? 33 : 0;
-				var top_space		= 33;
-				if(scroll_top > top_space)
-				{
-					$('#headr-nw').css({'position':'fixed','top':'0px','z-index':'1000'});
-					if($('#headr-nw').height() > 55)
-					{
-						$('#headr-nw').stop().animate({height: "15px"}, 200, function() {
-							$(this).addClass('glb-shad2');
-						});
-						$('.hd-nw_nav ul').css({'margin-top':"-25px",'padding-top:':'9px'});
-						$('.hd-nw_logo').css({'margin-top':"-10px", 'height':'40px'});
-						$('.hd-nw_nav ul li a').css({'background-image':'none','padding-top':'26px','height':'40px'});
-					}
-				}
-				else if(scroll_top < top_space)
-				{
-					$('#headr-nw').css({'position':''});
-					if($('#headr-nw').height() < 55)
-					{
-						$('#headr-nw').stop().animate({height: "60px"}, 200, function() {
-							$(this).removeClass('glb-shad2');
-						});
-						$('.hd-nw_nav ul').css({'margin-top':"0px"});
-						$('.hd-nw_logo').css({'margin-top':"0px", 'height':'60px'});
-						$('.hd-nw_nav ul li a').css({'background-image':bg,'padding-top':'45px','height':'auto'});
-					}
-				}
-				
-					});
-			
-			});
-</script>
-<!--[if lt IE 7]>
-<script type="text/javascript">window.onload=pngLoader('');</script>
-<![endif]-->
-<!--[if lt IE 9]>
-<script src="http://www.cloudways.com/template/default/js//html5shiv.min.js"></script>
-<![endif]-->
+<!DOCTYPE html><html><head>
+        <title>Privacy Policy | Cloudways</title>
 
- 
-<script type="text/javascript">
-//google analytics code
-var _gaq = _gaq || [];
-var pluginUrl = '//www.google-analytics.com/plugins/ga/inpage_linkid.js';
-_gaq.push(['_require', 'inpage_linkid', pluginUrl]);
-_gaq.push(['_setAccount', 'UA-24286262-1']);
-_gaq.push(['_setDomainName', '.cloudways.com']);
-_gaq.push(['_trackPageview']);
-
-(function() {
-var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
-var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-})();
-</script>
-
-</head><body><div id="olark" style="display: none;"><olark><iframe frameborder="0" id="olark-loader"></iframe></olark></div>
-
-<!--Header Container | Start-->
-<!--Header-->   
-<div id="headr-nw">
-	<div class="headr-nw-inr">
-	<a href="http://www.cloudways.com/en/" class="hd-nw_logo"></a>
-	<div class="hd-nw_nav">
-		<ul>
-			<li class="br-lft_0"><a href="http://www.cloudways.com/en/features.php" class="hdr-nav ">Features</a></li>
-			<li><a href="http://www.cloudways.com/en/pricing.php" class="hdr-nav2 ">Pricing</a></li>
-			<li><a href="http://www.cloudways.com/en/testimonials.php" class="hdr-nav3 ">Customers</a></li>
-			<li><a href="http://www.cloudways.com/en/power_cloud.php" class="hdr-nav4 ">Enterprise</a></li>
-			<li><a href="http://www.cloudways.com/blog/" target="_blank" class="hdr-nav5">Blog</a></li>
-			<li><a href="http://www.cloudways.com/en/login.php" class="hdr-nav6 ">LOGIN</a></li>
-			<li><a href="https://clickngo.cloudways.com/signup/" class="hdr-nav7">Free Trial</a></li>
-		</ul>
-	</div>
-	</div>
-</div>
-<!--Header-->
-<!--Header Container | End-->
-<!--Mid Container | Start-->
-<div id="container">
-
-	<div class="legal-bnr privc-bnr">
-	<span>Cloudways</span>
-    <h1>Privacy policy</h1>
-</div><br class="clear">
-
-<div class="mid_container legal-page">
-	<div class="page_tit">Privacy policy</div>
-	<div class="page_full_colum2"><p>“We”/”Us”/”Our”/”Cloudways Ltd.” means Cloudways Ltd. (C 55975) of 52 Springvale</p>
+            <meta name="keywords" content="Privacy Policy Cloudways, cloudways privacy policy, privacy policy">
+            <meta name="description" content="Cloudways Privacy Policy on Data protection and encryption, usage of personal information, cookies, payment information and more.">
             
-			<p>Pope Pius XII Street, Mosta, Malta and/or any of its subsidiaries and/ or affiliates involved in providing the Services.</p>
+            <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+            <!--[if IE]><meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1" /><![endif]-->
+            <meta name="msvalidate" content="11C5B0C57D69857DD41D8396C491DCE0">
+            <meta name="SKYPE_TOOLBAR" content="SKYPE_TOOLBAR_PARSER_COMPATIBLE">
+            <meta name="author" content="CloudWays">
+            <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+    
+    <link rel="stylesheet" href="/assets/fonts/css/droidsans.css" type="text/css">
+    <link rel="icon" href="/assets/img/fav.ico">
+    <link rel="icon" href="/assets/img/fav.ico" type="image/x-icon">
 
-			<p>“You”/”Your”/”Yourself”/”User” means the user of the Website and/or customer of the Services.</p>
-            
-			<p>“Services” means any services offered by Cloudways Ltd. on its Website including but not limited to cloud application deployment, management and infrastructure management. The Services also currently include various cloud-based solutions for individuals, businesses and developers. “Cloudways Click&amp;Go” means Services focused towards solving cloud application deployment needs for individuals and developers. “Power Cloud” means Services which are targeted towards businesses with websites and applications requiring customized cloud environment, high availability and real time scalability.“Cloudways Managed Cloud Solutions” include complete application, server and infrastructure level management for individuals and businesses who want to focus on what’s core for their business, rather than system administration.</p>
+    <link href="/assets/css/a-builds/fffb11cf288b6839b900cfd82db4b47e.1033.css" type="text/css" rel="stylesheet">
 
-			<h4>Preliminary</h4>
-			<p>This Privacy Policy relates to your use of the Services provided by Cloudways Ltd. under the domain name cloudways.com (‘the Website’)</p>
-            
-			<p>We have the right to revise and amend this Privacy Policy and/or the Services from time to time to reflect changes in market conditions affecting our business, changes in technology, changes in payment methods, changes in relevant laws and regulatory requirements and changes in our system’s capabilities or for any other reason in our sole discretion which we may decide. Your continued access to or use of the Website and/or the Services constitutes your acceptance of any such change and/or amendment.</p>
-
-            <h4>In using the Website and/or the Services, you agree as follows,</h4>
-
-			<p>1) Acceptance of the Terms. Your continued access to or use of the Website and/or the Services constitutes your acceptance of our <u><a href="https://www.cloudways.com/en/terms.php"><u>Terms of Service</u></a></u>, of our <u><a href="https://www.cloudways.com/en/acceptable-use-policy.php"><u>Acceptable Use Policy</u></a></u>, of our <u><a href="https://www.cloudways.com/en/refund.php"><u>Refund Policy</u></a></u>, of our <u><a href="https://www.cloudways.com/en/sla.php"><u>SLA</u></a></u> and these Terms. Certain Services may require additional terms and conditions in which case your clicking of “I ACCEPT” buttons and/or other prompts and/or any other similar methods of acquiring your consent will constitute your acceptance of the said terms and conditions. Your consent to the processing of your Personal Data (as defined hereunder) by us in the manner specified below.</p>
-
-			2) Cloudways Ltd. and the subsidiaries we own or control worldwide (collectively¸ "Cloudways") respect your privacy. Any information you provide on the Website will be held with the utmost care and will not be used in ways that you have not consented to (unless we may do so under any applicable law, including but not limited to the Maltese Data Protection.<br>
-			
-            <h4>Act [Chapter 440 of the Laws of Malta].</h4>
-            
-			The cloud or application credentials entered into the Services are used exclusively per your instructions throughout the process. These credentials are stored in encrypted form in the database and are not released to third parties¸ or transmitted across any network in unencrypted form.<br>
-
-			<h4>Access to cloud computing instances</h4>
-			You authorize Cloudways Ltd. support staff to log into your cloud accounts¸ application¸ or over SSH protocol¸ to your computing instances as part of the Services and perform various configuration and maintenance tasks. This can be done when a) you require initial setup¸ b) you ask for support and c) when suspicious activity detected on your instance that may damage or interrupt the Services’ operations¸ data or instances of other ‘Cloudways’ clients.<br>
-
-			<h4>Personal Data We Collect</h4>
-            
-			Personally Data means any information relating to an identified or identifiable natural person; an identifiable person is one who can be identified, directly or indirectly, in particular by reference to an identification number or to one or more factors specific to his physical, physiological, mental, economic, cultural or social identity. This definition includes information that can be directly associated with an individual (such as a name¸ an e-mail address¸ or a telephone number)¸ or information about activities directly linked to an individual (such as products and services he/she has used or purchased) hereinafter ‘Personal Data’.<br>
-			You¸ or someone acting on your behalf¸ may provide Personal Data to us when you interact with us online and offline.<br>
-			<br>
-
-			Furthermore¸ in the course of using the Services¸ you or someone else in your organization may provide us with information about your systems infrastructure and access to your systems infrastructure. In addition¸ Cloudways Ltd. may ‘self-discover’ this information by analyzing additional parts of your systems infrastructure that you did not explicitly input into the product. This information may include¸ but is not limited to:<br>
-			<br>
-			• Names and IP addresses of servers<br>
-			• Operating systems of servers<br>
-			• Applications installed on servers<br>
-			• Usernames and passwords of server and database administrators<br>
-			• Usernames and passwords of application users<br>
-			• Keys to systems infrastructure<br>
-			• Performance of elements within the systems infrastructure<br>
-			• Configuration information for elements within the systems infrastructure<br>
-			• Operational logs of elements within the systems infrastructure<br>
-			• Locations of files and databases within the infrastructure<br>
-			<br>
-            
-			<h4>We undertake to process any such Personal Data in accordance with the provisions of the Maltese Data Protection Act (Chapter 440 of the Laws of Malta) and related subsidiary legislation.</h4>
-
-			<strong style="font-size:18px;  #3a3a3a;  'droid_sansbold';	">Payment Information</strong><br>
-			For some of the Services¸ we also request credit card or other payment account information¸ which we neither process nor store¸ but instead transmit directly (in encrypted form) to our third-party credit card processing provider. The third-party provider may store this information¸ and we may use it indirectly through them to charge your account for Services.<br>
-			<br>
-
-			<strong style="font-size:18px;  #3a3a3a;  'droid_sansbold';">Log and Usage History</strong><br>
-			When you use the Services¸ we track operational behavior of your usage (including¸ without limitation¸ starting servers¸ installing applications¸ and other commands available from our console)¸ as well as the general behavior of any cloud servers that you engage (including¸ without limitation¸ startup times¸ system performance and uptime). We also maintain server logs for our company website and for the software that operates the Services¸ and these server logs may include information such as your web request(s)¸ Internet Protocol address¸ browser type¸ browser language¸ the date and time of your request and one or more cookies that may uniquely identify your browser. We may use this information to diagnose problems¸ operate our system more efficiently¸ or to produce and publish aggregate statistics across customers.<br><br>
-
-			<strong style="font-size:18px;  #3a3a3a;  'droid_sansbold';	">Cookies</strong><br>
-			Like many companies¸ we use browser cookies on this web site. We send one or more cookies - a small file containing a string of characters - to your computer that uniquely identifies your browser. We use cookies to improve the quality of our service. Most browsers are initially set up to accept cookies¸ but you can reset your browser to refuse all cookies or to indicate when a cookie is being sent .<br>
-			<br>
-			These cookies and similar technologies enable us to collect certain types of information about your visit to our Website (or related websites) or online services such as: <br>
-			<br>
-			• Internet Protocol Address;<br>
-			• Browser type;<br>
-			• Browser language;<br>
-			• Operating system;<br>
-			• Referring site (site you visited before coming to our Website);<br>
-			• Date and time of visit;<br>
-			• URL of pages visited; and<br>
-			• Other browsing behavior¸ such as products and white papers downloaded.<br>
-			<br>
-
-			We may link this information to your Personal Data to provide better service to you and to improve our offerings and the Services. If you do not wish to have navigational patterns analyzed¸ please disable cookies in your browser. However¸ to properly use ‘Cloudways’ Services we strongly recommend you enable cookies .<br>
-
-			<h4>How We Use Information We Collect</h4>
-			We use Personal Data to conduct business¸ provide information and support for products and services¸ better understand your needs and interests¸ refine and develop our business¸ improve services¸ personalize communications and ensure a quality experience for users of the Website and Services. For example¸ we may use your information to:<br>
-			<br>
-			• Communicate¸ interact and build our relationship with you;<br>
-			• Contact you with relevant promotions and information about Cloudways Ltd. and affiliated third-parties;<br>
-			• Process¸ fulfill and follow up on transactions and requests for products¸ services¸ support¸ training and information;<br>
-			• Create and maintain an account and register products and services;<br>
-			• Measure¸ analyze and improve our products and services¸ the effectiveness of our Website (and related websites)s¸ and our advertising and marketing;<br>
-			• Personalize content and advertising;<br>
-			• Help identify and communicate offers of products¸ programs and services that may be of interest to you;<br>
-			• Send "refer-a-friend" email on your behalf with your consent;<br>
-			• Comply with legal requirements; or<br>
-			• Enforce our <a href="https://www.cloudways.com/en/terms.php">Terms of Service</a> and our ‘Acceptable Use Policy’¸ and prevent fraud and other prohibited or illegal actives.<br>
-			<br>
-            
-			<h4>Other Websites</h4>
-
-			This Privacy Policy applies to ‘Cloudways’ Services only. We do not exercise control over third-party sites to which we link¸ including without limitation open source software project sites¸ software license sites¸ or cloud service provider sites. These third-party website sites may place their own cookies or other files on your computer¸ collect data or solicit personal information from you.<br>
-			<br>
-			<u>Links that we provide to third-party websites are clearly marked and we are not in any way responsible for the content of such websites. We suggest that users should read the privacy policies of such third-party websites.</u><br>
-			<br>
-
-			<h4>Information Sharing and Disclosure</h4>
-            
-			Cloudways Ltd. does not rent¸ sell¸ or share personal information about you with other people or non-affiliated companies except to provide products or services you´ve requested¸ when we have your permission¸ or under the following circumstances: <br>
-			<br>
-			• We provide the information to trusted partners who work on behalf of or with Cloudways Ltd. under confidentiality agreements.<br>
-			• We respond to subpoenas¸ court orders¸ or legal process¸ or to establish or exercise our legal rights or defend against legal claims.<br>
-			• We transfer information about you if Cloudways Ltd. is acquired by or merged with another company. In this event¸ Cloudways ltd. will notify you before information about you is transferred and becomes subject to a different privacy policy.<br>
-			• We may collect and use Personal Data to send direct marketing material on our products, promotions and offers that may be of interest to you, to provide you with information that you request, to respond to feedback that you submit to the Site, to allow you to participate in any of our online surveys and competitions and generally to be able to correspond with you after we receive a request from you (including requests for correcting/updating any of your Personal Data). However, we do not send unsolicited mail, messages or junk mail. Customers have a right to request not to receive direct marketing material by writing to us at the address above .<br><br>
-
-			<h4>Data Protection and Encryption</h4>
-			All Personal Data¸ cloud and application credentials¸ public and private keys and passwords are stored in encrypted format¸ using strong cryptographic algorithms. We take appropriate security measures to protect against unauthorized access to or unauthorized alteration¸ disclosure or destruction of data. These include internal reviews of our data collection¸ storage and processing practices and security measures¸ as well as physical security measures to guard against unauthorized access to systems where we store personal data. We restrict access to personal information to Cloudways employees¸ contractors and agents who need to know that information in order to operate¸ develop or improve our services. These individuals are bound by confidentiality obligations and may be subject to discipline¸ including termination and criminal prosecution¸ if they fail to meet these obligations.<br>
-			<br>
-			<u>By its very nature, the Internet is not a secure medium and data sent via this medium can potentially be subject to unauthorised acts by third parties. We cannot guarantee the privacy or confidentiality of any information passing over our Website.</u><br>
-			<br>
-			<u>We shall accept no responsibility or liability whatsoever for the security of your data while in transit through the Internet.</u><br>
-			<br>
-            
-			<h4>Changes to this Privacy Policy</h4>
-			We reserve the right, at our complete discretion, to change, modify, add and/or remove portions of this Privacy Policy at any time. Your continued access to or use of the Website will mean that you agree to any and all such changes.<br>
-			<br>
-			We will notify you about significant changes in the way we treat Personal Data by sending a notice to the primary email address specified in your ‘Cloudways account’ or by placing a notice on our Website<p></p>
-            
-            <div class="leg-btm">
-                <h2>Other Policies</h2>
-                <strong>Terms of Service</strong>
-                <p>
-                    <a href="https://www.cloudways.com/en/terms.php"><b>Click here</b></a> to view Cloudways Terms of Service.
-                </p><br>
-
-                <strong>Acceptable Use Policy</strong>
-                <p>
-                    <a href="https://www.cloudways.com/en/acceptable-use-policy.php"><b>Click here</b></a> to view Cloudways Acceptable Use Policy.
-                </p><br>
-                
-                <strong>Refund Policy</strong>
-                <p>
-					<a href="https://www.cloudways.com/en/refund.php"><b>Click here</b></a> to view Cloudways Refund Policy.
-                </p><br>
-
-                <strong>Service Level Agreement</strong>
-                <p>
-                	<a href="http://www.cloudways.com/en/sla.php"><b>Click here</b></a> to view Cloudways SLA.
-                </p>
-            </div></div>
-</div>
-</div><br class="clear">
-<!--Main Container | End-->
+    <script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script src="/assets/js/a-builds/83f7e5fdb9b23db583bbf25c4e53df7d.1033.js" type="text/javascript"></script>
 
 
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+        <script src="/assets/vendor/html5shiv/html5shiv.min.js" type="text/javascript"></script>
+        <script src="/assets/vendor/respondjs/respond.min.js" type="text/javascript"></script>
+    <![endif]-->
 
-<!--footer-nw-->
-<div id="footer-nw">
-    <div class="footer-nw">
-        <div class="fot-nw_cont_1">
-            <h4>Quick Links</h4>
-            <ul>
-                <li><a href="http://www.cloudways.com/en/">Home</a></li>
-                <li><a href="http://www.cloudways.com/en/about_us.php">About us</a></li>
-                <li><a href="http://www.cloudways.com/en/features.php">Features</a></li>
-                <li><a href="http://www.cloudways.com/en/pricing.php">Plans &amp; Pricing</a></li>
-                <li><a href="http://www.cloudways.com/en/power_cloud.php">Enterprise</a></li>
-                <li><a href="http://www.cloudways.com/en/testimonials.php">Customers</a></li>
-                <li><a href="http://www.cloudways.com/en/partners/cloud-affiliate-program.php">Affiliate Program</a></li>
-                <li><a href="http://www.cloudways.com/en/partners.php">Partners</a></li>
-                <li><a href="http://www.cloudways.com/en/contributors.php">Contributors</a></li>				</ul>
+<!-- BEGIN google analytic -->
+    <script type="text/javascript">
+        var _gaq = _gaq || [];
+        var pluginUrl = '//www.google-analytics.com/plugins/ga/inpage_linkid.js';
+        _gaq.push(['_setAccount', 'UA-24286262-1']);
+        _gaq.push(['_setDomainName', '.cloudways.com']);
+        _gaq.push(['_addIgnoredRef', 'www.cloudways.com']);
+        _gaq.push(['_addIgnoredRef', '.cloudways.com']);
+        _gaq.push(['_addIgnoredRef', 'cloudways.com']);
+        _gaq.push(['_addIgnoredRef', 'clickngo.cloudways.com']);
+        _gaq.push(['_require', 'inpage_linkid', pluginUrl]);
+
+                    _gaq.push(['_trackPageview']);
+        
+        (function () {
+            var ga = document.createElement('script');
+            ga.type = 'text/javascript';
+            ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+            var s = document.getElementsByTagName('script')[0];
+            s.parentNode.insertBefore(ga, s);
+            console.log('Google Analytic Loaded...!');
+        })();
+    </script><!-- END google analytic -->
+
+    </head>
+            <body id="cw-body" class="cw-privacy">
+    
+    <!-- BEGIN google tag manager -->
+    <noscript>
+        <iframe src="//www.googletagmanager.com/ns.html?id=GTM-NWBZTT" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+
+    <script type="text/javascript">
+        var dataLayer = [];
+        $(document).ready(function () {
+            setTimeout(function () {
+                (function (w, d, s, l, i) {
+                    w[l].push({'gtm.start':
+                            new Date().getTime(), event: 'gtm.js'});
+                    var f = d.getElementsByTagName(s)[0],
+                            j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : '';
+                    j.async = true;
+                    j.src ='//www.googletagmanager.com/gtm.js?id=' + i + dl;
+                    f.parentNode.insertBefore(j, f);
+                })(window, document, 'script', 'dataLayer', 'GTM-NWBZTT');
+                console.log('Google Tag Maanger Loaded...!');
+            }, 7500);
+        });
+    </script><!-- END google tag manager -->
+
+    <!-- BEGIN main container -->
+    <main id="cw-page" class="container-fluid">
+
+        
+        <!-- BEGIN header -->
+        <header id="cw-header" class="navbar-fixed-top pull-wide cw-shadow-1">
+            <!-- BEGIN hellobar -->
+    <div class="hlobar pull-wide cw-animate-nav_3">
+        <div class="container">
+            <span class="hlobar-text">
+                DigitalOcean Servers With TWO MONTHS of FREE HOSTING: ONLY 115 SERVERS LEFT!
+            </span>
+            <a href="digital-ocean-cloud-hosting.php" onclick="_gaq.push(['_trackEvent', 'Hello-Bar', 'Click-on-site', 'DO-50-Promo']);" class="btn btn-primary">Get Offer &gt;&gt;</a>
         </div>
-        <div class="fot-nw_cont_1" style="width:170px">
-            <h4>Featured Services</h4>
-            <ul>
-                <li><a href="http://www.cloudways.com/en/magento-managed-cloud-hosting.php">Managed Magento Hosting</a></li>
-                <li><a href="http://www.cloudways.com/en/wordpress-cloud-hosting.php">Managed WordPress Hosting</a></li>
-                <li><a href="http://www.cloudways.com/en/drupal-cloud-hosting.php">Managed Drupal Hosting</a></li>
-                <li><a href="http://www.cloudways.com/en/managed-mediawiki-cloud-hosting.php">Managed MediaWiki Hosting</a></li>
-
-                <li><a href="http://www.cloudways.com/en/joomla-cloud.php">Managed Joomla Hosting</a></li>
-                <li><a href="http://www.cloudways.com/en/sitemap.php#othr-serv">Other Services </a></li>
-            </ul>
-        </div>
-        <div class="fot-nw_cont_1" style="width:110px">
-            <h4>Support</h4>
-            <ul>
-                <li><a href="http://www.cloudways.com/en/tools.php">Tools</a></li>
-                <li><a href="http://www.cloudways.com/en/faqs.php" rel="nofollow">FAQs</a></li>
-                <li><a href="https://support.cloudways.com/forums" target="_blank">Knowledge base</a></li>
-                <li><a href="http://www.cloudways.com/en/contact_us.php">Contact us</a></li>
-                <li><a class="dead_link" onclick="olark('api.box.expand')">Live Chat</a></li>
-                <li><a href="http://www.cloudways.com/en/login.php">Login</a></li>
-                <li><a href="http://www.cloudways.com/en/quotation.php">Free Consultation</a></li>
-                <li><a href="http://www.cloudways.com/en/sitemap.php">Sitemap</a></li>
-            </ul>
-        </div>
-        <div class="fot-nw_cont_1" style="width:130px">
-            <h4>Legal</h4>
-            <ul>
-                <li><a href="http://www.cloudways.com/en/sla.php" rel="nofollow">SLA</a></li>
-                <li><a href="http://www.cloudways.com/en/terms.php" rel="nofollow">Terms of Service</a></li>
-                <li><a href="http://www.cloudways.com/en/privacy.php" rel="nofollow">Privacy Policy</a></li>
-                <li><a href="http://www.cloudways.com/en/refund.php" rel="nofollow">Refund Policy</a></li>
-                <li><a href="http://www.cloudways.com/en/acceptable-use-policy.php" rel="nofollow">Acceptable Use Policy</a></li>
-            </ul>
-        </div>
-
-        <div class="fot-nw_cont_1 fot-nw_cont_social" style="width:65px">
-            <h4>Social</h4>
-            <ul>
-                <li><a href="http://www.cloudways.com/blog/" target="_blank" class="ftr-nw-blog">Blog</a></li>
-                <li><a href="http://www.facebook.com/cloudways" target="_blank" class="ftr-nw-fb">Facebook</a></li>
-                <li><a href="https://plus.google.com/+Cloudways/" target="_blank" class="ftr-nw-google">Google+</a></li>
-                <li><a href="http://twitter.com/cloudways" target="_blank" class="ftr-nw-twt">Twitter</a></li>
-                <li><a href="http://www.linkedin.com/company/cloudways" target="_blank" class="ftr-nw-lnk">LinkedIn</a></li>
-                <li><a href="http://www.cloudways.com/blog/category/cloudways-updates/" target="_blank" class="ftr-nw-nws">News</a></li>
-            </ul>
-        </div>
-
-
-        <div class="fot-nw_cont_2">
-            <span>© 2009-2014 Cloudways Ltd. All rights reserved</span>
-                        <br class="clear">
-
-        </div><br class="clear">
     </div>
-</div>
-<!--footer-nw-->
+    <!-- END hellobar -->
+    
+    <div id="cw-navbar-secondary_bg" class="pull-wide cw-animate-nav_3">
+        &nbsp;
+    </div>
+    <div id="cw-header-default" class="container">
+        <nav class="navbar navbar-default" role="Primary-Navigation">
 
+            <!-- BEGIN logo/collapse button -->
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#cw-navbar">
+                    <span class="sr-only">Navigation</span>
+                    <span class="icon-bar cw-animate-nav_3"></span>
+                    <span class="icon-bar cw-animate-nav_3"></span>
+                    <span class="icon-bar cw-animate-nav_3"></span>
+                </button>
+                <a class="navbar-brand cw-animate-nav_1 text-hide" href="http://www.cloudways.com/en/">
+                    CloudWays                </a>
+                <a id="cw-navbar-header-free_trial" class="visible-xs cw-animate-nav_3" href="https://clickngo.cloudways.com/signup/">
+                    FREE TRIAL                </a>
+            </div><!-- END logo/collapse button -->
 
+            <!-- BEGIN pages navigation -->
+            <div class="collapse navbar-collapse" id="cw-navbar">
+                <ul class="nav navbar-nav navbar-right cw-animate-nav_3">
+                    <li id="cw-navbar-feature">
+                        <a href="http://www.cloudways.com/en/features.php" class="cw-animate-nav_3">
+                            <i class="cw-animate-nav_2"></i>
+                            <span>FEATURES</span>
+                        </a>
+                    </li>
+                    <li id="cw-navbar-pricing">
+                        <a href="http://www.cloudways.com/en/pricing.php" class="cw-animate-nav_3">
+                            <i class="cw-animate-nav_2"></i>
+                            <span>PRICING</span>
+                        </a>
+                    </li>
+                    <li id="cw-navbar-testimonial">
+                        <a href="http://www.cloudways.com/en/testimonials.php" class="cw-animate-nav_3">
+                            <i class="cw-animate-nav_2"></i>
+                            <span>CUSTOMERS</span>
+                        </a>
+                    </li>
+                    <li id="cw-navbar-partner">
+                        <a href="http://www.cloudways.com/en/partners.php" class="cw-animate-nav_3">
+                            <i class="cw-animate-nav_2"></i>
+                            <span>PARTNER</span>
+                        </a>
+                    </li>
+                    <li id="cw-navbar-pc">
+                        <a href="http://www.cloudways.com/en/power_cloud.php" class="cw-animate-nav_3">
+                            <i class="cw-animate-nav_2"></i>
+                            <span>ENTERPRISE</span>
+                        </a>
+                    </li>
+                    <li id="cw-navbar-support">
+                        <a href="https://support.cloudways.com/forums/" class="cw-animate-nav_3" target="_blank">
+                            <i class="cw-animate-nav_2"></i>
+                            <span>SUPPORT</span>
+                        </a>
+                    </li>
+                </ul>
 
+                <ul id="cw-navbar-secondary" class="nav navbar-nav cw-animate-nav_3">
+                    <li id="cw-navbar-blog">
+                        <a href="http://www.cloudways.com/blog/">
+                            BLOG                        </a>
+                    </li>
+                    <li id="cw-navbar-company">
+                        <a href="http://www.cloudways.com/en/about_us.php">
+                            COMPANY                        </a>
+                    </li>
+                    <li id="cw-navbar-login">
+                        <a href="http://www.cloudways.com/en/login.php">
+                            LOGIN                        </a>
+                    </li>
+                    <li id="cw-navbar-free_trial">
+                        <a href="https://clickngo.cloudways.com/signup/">
+                            FREE TRIAL                        </a>
+                    </li>
+                </ul>
+            </div><!-- END pages navigation -->
+        </nav>
+    </div>
+        </header><!-- END header -->
 
-<!-- begin olark code -->
-<script type="text/javascript">
-//user snap code start
-    var _usersnapconfig = {
-        mode: 'report',
-        shortcut: true,
-        apiKey: 'c60fe586-c64a-45ec-8d4b-859b8391747f',
-        valign: 'bottom',
-        halign: 'left',
-        tools: ["pen", "highlight", "note"],
-        lang: 'en',
-        commentBox: true,
-        emailBox: true
-    };
+        <!-- BEGIN page content -->
+        <section id="cw-content" class="row">
+            
+    <!-- BEGIN privacy policy -->
+    <section id="legal-main" class="pull-wide">
 
-    function downloadJSAtOnload()
-    {
+        <div class="legal-wrapper pull-wide">
+            <div id="privacy-title" class="legal-title pull-wide">
+                <h1>
+                    <span data-bind="scrollAnimate" data-effect="pulse">Cloudways</span>
+                </h1>
+                <h2>
+                    <span data-bind="scrollAnimate" data-effect="pulse">PRIVACY POLICY</span>
+                </h2>
+            </div>
+            <br clear="all">
 
+            <div class="legal-container container" data-bind="scrollAnimate" data-effect="fadeIn">
 
-        //olark code start
-        window.olark || (function(c) {
-            var f = window, d = document, l = f.location.protocol == "https:" ? "https:" : "http:", z = c.name, r = "load";
-            var nt = function() {
-                f[z] = function() {
-                    (a.s = a.s || []).push(arguments)
-                };
-                var a = f[z]._ = {}, q = c.methods.length;
-                while (q--) {
-                    (function(n) {
-                        f[z][n] = function() {
-                            f[z]("call", n, arguments)
-                        }
-                    })(c.methods[q])
-                }
-                a.l = c.loader;
-                a.i = nt;
-                a.p = {0: +new Date};
-                a.P = function(u) {
-                    a.p[u] = new Date - a.p[0]
-                };
-                function s() {
-                    a.P(r);
-                    f[z](r)
-                }
-                f.addEventListener ? f.addEventListener(r, s, false) : f.attachEvent("on" + r, s);
-                var ld = function() {
-                    function p(hd) {
-                        hd = "head";
-                        return["<", hd, "></", hd, "><", i, ' onl' + 'oad="var d=', g, ";d.getElementsByTagName('head')[0].", j, "(d.", h, "('script')).", k, "='", l, "//", a.l, "'", '"', "></", i, ">"].join("")
-                    }
-                    var i = "body", m = d[i];
-                    if (!m) {
-                        return setTimeout(ld, 100)
-                    }
-                    a.P(1);
-                    var j = "appendChild", h = "createElement", k = "src", n = d[h]("div"), v = n[j](d[h](z)), b = d[h]("iframe"), g = "document", e = "domain", o;
-                    n.style.display = "none";
-                    m.insertBefore(n, m.firstChild).id = z;
-                    b.frameBorder = "0";
-                    b.id = z + "-loader";
-                    if (/MSIE[ ]+6/.test(navigator.userAgent)) {
-                        b.src = "javascript:false"
-                    }
-                    b.allowTransparency = "true";
-                    v[j](b);
-                    try {
-                        b.contentWindow[g].open()
-                    } catch (w) {
-                        c[e] = d[e];
-                        o = "javascript:var d=" + g + ".open();d.domain='" + d.domain + "';";
-                        b[k] = o + "void(0);"
-                    }
-                    try {
-                        var t = b.contentWindow[g];
-                        t.write(p());
-                        t.close()
-                    } catch (x) {
-                        b[k] = o + 'd.write("' + p().replace(/"/g, String.fromCharCode(92) + '"') + '");d.close();'
-                    }
-                    a.P(2)
-                };
-                ld()
+                <h3>Privacy policy</h3>
+                <p>
+                    "We"/"Us"/"Our"/"Cloudways Ltd." means Cloudways Ltd. (C 55975) of 52 Springvale
+                    <br>
+                    <br>
+                    Pope Pius XII Street, Mosta, Malta and/or any of its subsidiaries and/ or affiliates involved in providing the Services.
+                    <br>
+                    <br>
+                    "You"/"Your"/"Yourself"/"User" means the user of the Website and/or customer of the Services.
+                    <br>
+                    <br>
+                    "Services" means any services offered by Cloudways Ltd. on its Website including but not limited to cloud application deployment, management and infrastructure management.
+                </p>
+
+                <h4>Preliminary</h4>
+                <p>
+                    This Privacy Policy relates to your use of the Services provided by Cloudways Ltd. under the domain name cloudways.com ('the Website')
+                    <br>
+                    <br>
+                    We have the right to revise and amend this Privacy Policy and/or the Services from time to time to reflect changes in market conditions affecting our business, changes in technology, changes in payment methods, changes in relevant laws and regulatory requirements and changes in our system’s capabilities or for any other reason in our sole discretion which we may decide. Your continued access to or use of the Website and/or the Services constitutes your acceptance of any such change and/or amendment.
+                </p>
+
+                <h4>In using the Website and/or the Services, you agree as follows,</h4>
+                <p>
+                    1) Acceptance of the Terms. Your continued access to or use of the Website and/or the Services constitutes your acceptance of our <a href="http://www.cloudways.com/en/terms.php">Terms of Service</a>, of our <a href="http://www.cloudways.com/en/acceptable-use-policy.php">Acceptable Use Policy</a>, of our <a href="http://www.cloudways.com/en/sla.php">SLA</a> and these Terms. Certain Services may require additional terms and conditions in which case your clicking of “I ACCEPT” buttons and/or other prompts and/or any other similar methods of acquiring your consent will constitute your acceptance of the said terms and conditions. Your consent to the processing of your Personal Data (as defined hereunder) by us in the manner specified below.
+                    <br>
+                    <br>
+                    2) Cloudways Ltd. and the subsidiaries we own or control worldwide (collectively¸ "Cloudways") respect your privacy. Any information you provide on the Website will be held with the utmost care and will not be used in ways that you have not consented to (unless we may do so under any applicable law, including but not limited to the Maltese Data Protection.
+                </p>
+
+                <h4>Act [Chapter 440 of the Laws of Malta].</h4>
+                <p>
+                    The cloud or application credentials entered into the Services are used exclusively per your instructions throughout the process. These credentials are stored in encrypted form in the database and are not released to third parties¸ or transmitted across any network in unencrypted form.
+                </p>
+
+                <h4>Access to cloud computing instances</h4>
+                <p>
+                    You authorize Cloudways Ltd. support staff to log into your cloud accounts¸ application¸ or over SSH protocol¸ to your computing instances as part of the Services and perform various configuration and maintenance tasks. This can be done when a) you require initial setup¸ b) you ask for support and c) when suspicious activity detected on your instance that may damage or interrupt the Services’ operations¸ data or instances of other 'Cloudways' clients.
+                </p>
+
+                <h4>Personal Data We Collect</h4>
+                <p>
+                    Personally Data means any information relating to an identified or identifiable natural person; an identifiable person is one who can be identified, directly or indirectly, in particular by reference to an identification number or to one or more factors specific to his physical, physiological, mental, economic, cultural or social identity. This definition includes information that can be directly associated with an individual (such as a name¸ an e-mail address¸ or a telephone number)¸ or information about activities directly linked to an individual (such as products and services he/she has used or purchased) hereinafter 'Personal Data'.
+                    <br>
+                    You¸ or someone acting on your behalf¸ may provide Personal Data to us when you interact with us online and offline.
+                    <br>
+                    <br>
+                    Furthermore¸ in the course of using the Services¸ you or someone else in your organization may provide us with information about your systems infrastructure and access to your systems infrastructure. In addition¸ Cloudways Ltd. may ‘self-discover’ this information by analyzing additional parts of your systems infrastructure that you did not explicitly input into the product. This information may include¸ but is not limited to:
+                    <br>
+                    </p><ul>
+                        <li>Names and IP addresses of servers</li>
+                        <li>Operating systems of servers</li>
+                        <li>Applications installed on servers</li>
+                        <li>Usernames and passwords of server and database administrators</li>
+                        <li>Usernames and passwords of application users</li>
+                        <li>Keys to systems infrastructure</li>
+                        <li>Performance of elements within the systems infrastructure</li>
+                        <li>Configuration information for elements within the systems infrastructure</li>
+                        <li>Operational logs of elements within the systems infrastructure</li>
+                        <li>Locations of files and databases within the infrastructure</li>
+                    </ul>
+                <p></p>
+
+                <h4>We undertake to process any such Personal Data in accordance with the provisions of the Maltese Data Protection Act (Chapter 440 of the Laws of Malta) and related subsidiary legislation.</h4>
+                <p>
+                    <b>Payment Information</b>
+                    For some of the Services¸ we also request credit card or other payment account information¸ which we neither process nor store¸ but instead transmit directly (in encrypted form) to our third-party credit card processing provider. The third-party provider may store this information¸ and we may use it indirectly through them to charge your account for Services.
+                    <br>
+                    <br>
+                    <b>Log and Usage History</b>
+                    When you use the Services¸ we track operational behavior of your usage (including¸ without limitation¸ starting servers¸ installing applications¸ and other commands available from our console)¸ as well as the general behavior of any cloud servers that you engage (including¸ without limitation¸ startup times¸ system performance and uptime). We also maintain server logs for our company website and for the software that operates the Services¸ and these server logs may include information such as your web request(s)¸ Internet Protocol address¸ browser type¸ browser language¸ the date and time of your request and one or more cookies that may uniquely identify your browser. We may use this information to diagnose problems¸ operate our system more efficiently¸ or to produce and publish aggregate statistics across customers.
+                    <br>
+                    <br>
+                    <b>Cookies</b>
+                    Like many companies¸ we use browser cookies on this web site. We send one or more cookies - a small file containing a string of characters - to your computer that uniquely identifies your browser. We use cookies to improve the quality of our service. Most browsers are initially set up to accept cookies¸ but you can reset your browser to refuse all cookies or to indicate when a cookie is being sent.
+                    <br>
+                    <br>
+                    These cookies and similar technologies enable us to collect certain types of information about your visit to our Website (or related websites) or online services such as:
+                    <br>
+                    <br>
+                    </p><ul>
+                        <li>Internet Protocol Address;</li>
+                        <li>Browser type;</li>
+                        <li>Browser language;</li>
+                        <li>Operating system;</li>
+                        <li>Referring site (site you visited before coming to our Website);</li>
+                        <li>Date and time of visit;</li>
+                        <li>URL of pages visited; and</li>
+                        <li>Other browsing behavior¸ such as products and white papers downloaded.</li>
+                    </ul>
+                    <br>
+                    We may link this information to your Personal Data to provide better service to you and to improve our offerings and the Services. If you do not wish to have navigational patterns analyzed¸ please disable cookies in your browser. However¸ to properly use ‘Cloudways’ Services we strongly recommend you enable cookies .
+                <p></p>
+
+                <h4>How We Use Information We Collect</h4>
+                <p>
+                    We use Personal Data to conduct business¸ provide information and support for products and services¸ better understand your needs and interests¸ refine and develop our business¸ improve services¸ personalize communications and ensure a quality experience for users of the Website and Services. For example¸ we may use your information to:
+                    <br>
+                    <br>
+                    </p><ul>
+                        <li>Communicate¸ interact and build our relationship with you;</li>
+                        <li>Contact you with relevant promotions and information about Cloudways Ltd. and affiliated third-parties;</li>
+                        <li>Process¸ fulfill and follow up on transactions and requests for products¸ services¸ support¸ training and information;</li>
+                        <li>Create and maintain an account and register products and services;</li>
+                        <li>Measure¸ analyze and improve our products and services¸ the effectiveness of our Website (and related websites)s¸ and our advertising and marketing;</li>
+                        <li>Personalize content and advertising;</li>
+                        <li>Help identify and communicate offers of products¸ programs and services that may be of interest to you;</li>
+                        <li>Send "refer-a-friend" email on your behalf with your consent;</li>
+                        <li>Comply with legal requirements; or</li>
+                        <li>Enforce our <a href="http://www.cloudways.com/en/terms.php">Terms of Service</a> and our Acceptable Use Policy¸ and prevent fraud and other prohibited or illegal actives.</li>
+                    </ul>
+                <p></p>
+
+                <h4>Other Websites</h4>
+                <p>
+                    This Privacy Policy applies to ‘Cloudways’ Services only. We do not exercise control over third-party sites to which we link¸ including without limitation open source software project sites¸ software license sites¸ or cloud service provider sites. These third-party website sites may place their own cookies or other files on your computer¸ collect data or solicit personal information from you.
+                </p>
+                <p class="cw-underline">
+                    Links that we provide to third-party websites are clearly marked and we are not in any way responsible for the content of such websites. We suggest that users should read the privacy policies of such third-party websites.
+                </p>
+
+                <h4>Information Sharing and Disclosure</h4>
+                <p>
+                    Cloudways Ltd. does not rent¸ sell¸ or share personal information about you with other people or non-affiliated companies except to provide products or services you´ve requested¸ when we have your permission¸ or under the following circumstances:
+                    <br>
+                    <br>
+                    </p><ul>
+                        <li>We provide the information to trusted partners who work on behalf of or with Cloudways Ltd. under confidentiality agreements.</li>
+                        <li>We respond to subpoenas¸ court orders¸ or legal process¸ or to establish or exercise our legal rights or defend against legal claims.</li>
+                        <li>We transfer information about you if Cloudways Ltd. is acquired by or merged with another company. In this event¸ Cloudways ltd. will notify you before information about you is transferred and becomes subject to a different privacy policy.</li>
+                        <li>We may collect and use Personal Data to send direct marketing material on our products, promotions and offers that may be of interest to you, to provide you with information that you request, to respond to feedback that you submit to the Site, to allow you to participate in any of our online surveys and competitions and generally to be able to correspond with you after we receive a request from you (including requests for correcting/updating any of your Personal Data). However, we do not send unsolicited mail, messages or junk mail. Customers have a right to request not to receive direct marketing material by writing to us at the address above .</li>
+                    </ul>
+                <p></p>
+
+                <h4>Data Protection and Encryption</h4>
+                <p>
+                    All Personal Data¸ cloud and application credentials¸ public and private keys and passwords are stored in encrypted format¸ using strong cryptographic algorithms. We take appropriate security measures to protect against unauthorized access to or unauthorized alteration¸ disclosure or destruction of data. These include internal reviews of our data collection¸ storage and processing practices and security measures¸ as well as physical security measures to guard against unauthorized access to systems where we store personal data. We restrict access to personal information to Cloudways employees¸ contractors and agents who need to know that information in order to operate¸ develop or improve our services. These individuals are bound by confidentiality obligations and may be subject to discipline¸ including termination and criminal prosecution¸ if they fail to meet these obligations.
+                </p>
+                <p class="cw-underline">
+                    By its very nature, the Internet is not a secure medium and data sent via this medium can potentially be subject to unauthorised acts by third parties. We cannot guarantee the privacy or confidentiality of any information passing over our Website.
+                </p>
+                <p class="cw-underline">
+                    We shall accept no responsibility or liability whatsoever for the security of your data while in transit through the Internet.
+                </p>
+
+                <h4>Changes to this Privacy Policy</h4>
+                <p>
+                    We reserve the right, at our complete discretion, to change, modify, add and/or remove portions of this Privacy Policy at any time. Your continued access to or use of the Website will mean that you agree to any and all such changes.
+                    <br>
+                    <br>
+                    We will notify you about significant changes in the way we treat Personal Data by sending a notice to the primary email address specified in your ‘Cloudways account’ or by placing a notice on our Website
+                </p>
+
+                <h4>Other Policies</h4>
+                <h5>Terms of Service</h5>
+                <p>
+                    <b><a href="http://www.cloudways.com/en/terms.php">Click here</a></b> to view Cloudways Terms of Service.
+                </p>
+                <h5>Acceptable Use Policy</h5>
+                <p>
+                    <b><a href="http://www.cloudways.com/en/acceptable-use-policy.php">Click here</a></b> to view Cloudways Acceptable Use Policy.
+                </p>
+                <h5>Service Level Agreement</h5>
+                <p>
+                    <b><a href="http://www.cloudways.com/en/sla.php">Click here</a></b> to view Cloudways SLA.
+                </p>
+
+            </div>
+        </div>
+
+    </section><!-- END privacy policy -->
+
+        </section><!-- END page content -->
+
+        <!-- BEGIN footer -->
+        <footer id="cw-footer" class="row">
+            <div id="footer-container" class="container" data-bind="scrollAnimate" data-effect="fadeIn">
+
+        <!-- BEGIN quick links navigation -->
+        <div class="footer-nav col-lg-2 col-md-2 col-sm-2">
+            <a class="footer-nav-heading pull-wide" data-toggle="collapse" href="#footer-nav_quick" aria-expanded="true" aria-controls="footer-nav_quick">
+                QUICK LINKS            </a>
+            <div id="footer-nav_quick" class="footer-nav_content pull-wide collapse in" aria-expanded="true">
+                <ul class="nav nav-pills nav-stacked">
+                    <li>
+                        <a href="http://www.cloudways.com/en/">Home</a>
+                    </li>
+                    <li>
+                        <a href="http://www.cloudways.com/en/about_us.php">About us</a>
+                    </li>
+                    <li>
+                        <a href="http://www.cloudways.com/en/features.php">Features</a>
+                    </li>
+                    <li>
+                        <a href="http://www.cloudways.com/en/pricing.php">Pricing &amp; Plans</a>
+                    </li>
+                    <li>
+                        <a href="http://www.cloudways.com/en/power_cloud.php">Enterprise</a>
+                    </li>
+                    <li>
+                        <a href="http://www.cloudways.com/en/testimonials.php">Customers</a>
+                    </li>
+                    <li>
+                        <a href="http://www.cloudways.com/en/partners/cloud-affiliate-program.php">Affiliate Program</a>
+                    </li>
+                    <li>
+                        <a href="http://www.cloudways.com/en/partners.php">Partners</a>
+                    </li>
+                    <li>
+                        <a href="http://www.cloudways.com/en/contributors.php">Contributors</a>
+                    </li>
+                </ul>
+            </div>
+            <br clear="all">
+        </div><!-- END quick links navigation -->
+
+        <!-- BEGIN feature services navigation -->
+        <div class="footer-nav col-lg-3 col-md-3 col-sm-4">
+            <a class="footer-nav-heading pull-wide collapsed" data-toggle="collapse" href="#footer-nav_feature" aria-expanded="false" aria-controls="footer-nav_feature">
+                FEATURED SERVICES            </a>
+            <div id="footer-nav_feature" class="footer-nav_content pull-wide collapse" aria-expanded="false">
+                <ul class="nav nav-pills nav-stacked">
+                    <li>
+                        <a href="http://www.cloudways.com/en/magento-managed-cloud-hosting.php">Managed Magento Hosting</a>
+                    </li>
+                    <li>
+                        <a href="http://www.cloudways.com/en/wordpress-cloud-hosting.php">Managed WordPress Hosting</a>
+                    </li>
+                    <li>
+                        <a href="http://www.cloudways.com/en/woocommerce-hosting.php">Managed WooCommerce Hosting</a>
+                    </li>
+                    <li>
+                        <a href="http://www.cloudways.com/en/drupal-cloud-hosting.php">Managed Drupal Hosting</a>
+                    </li>
+                    <li>
+                        <a href="http://www.cloudways.com/en/managed-mediawiki-cloud-hosting.php">Managed MediaWiki Hosting</a>
+                    </li>
+                    <li>
+                        <a href="http://www.cloudways.com/en/joomla-cloud.php">Managed Joomla Hosting</a>
+                    </li>
+                    <li>
+                        <a href="http://www.cloudways.com/en/prestashop-hosting.php">Managed Prestashop Hosting</a>
+                    </li>
+                    <li>
+                        <a href="http://www.cloudways.com/en/sitemap.php#othr-serv">Other Services</a>
+                    </li>
+                </ul>
+            </div>
+            <br clear="all">
+        </div><!-- END feature services navigation -->
+
+        <!-- BEGIN support content -->
+        <div class="footer-nav col-lg-2 col-md-2 col-sm-2">
+            <a class="footer-nav-heading pull-wide collapsed" data-toggle="collapse" href="#footer-nav_support" aria-expanded="false" aria-controls="footer-nav_support">
+                SUPPORT            </a>
+            <div id="footer-nav_support" class="footer-nav_content pull-wide collapse" aria-expanded="false">
+                <ul class="nav nav-pills nav-stacked">
+                    <li>
+                        <a href="http://www.cloudways.com/en/tools.php">Tools</a>
+                    </li>
+                    <li>
+                        <a href="http://www.cloudways.com/en/faqs.php">FAQs</a>
+                    </li>
+                    <li>
+                        <a href="https://support.cloudways.com/forums/" target="_blank">Knowledge base</a>
+                    </li>
+                    <li>
+                        <a href="http://www.cloudways.com/en/free-website-migration-service.php">Migration Service</a>
+                    </li>
+                    <li>
+                        <a href="http://www.cloudways.com/en/contact_us.php">Contact us</a>
+                    </li>
+                    <li>
+                        <a href="javascript:void(0);" onclick="LC_API.open_chat_window(); return false;">Live Chat</a>
+                    </li>
+                    <li>
+                        <a href="http://feedback.cloudways.com/" target="_blank">Feedback</a>
+                    </li>
+                    <li>
+                        <a href="http://www.cloudways.com/en/login.php">Login</a>
+                    </li>
+                    <li>
+                        <a href="http://www.cloudways.com/en/sitemap.php">Sitemap</a>
+                    </li>
+                </ul>
+            </div>
+            <br clear="all">
+        </div><!-- END support navigation -->
+
+        <!-- BEGIN legal conditions navigation -->
+        <div class="footer-nav col-lg-3 col-md-3 col-sm-2">
+            <a class="footer-nav-heading pull-wide collapsed" data-toggle="collapse" href="#footer-nav_legal" aria-expanded="false" aria-controls="footer-nav_legal">
+                LEGAL            </a>
+            <div id="footer-nav_legal" class="footer-nav_content pull-wide collapse" aria-expanded="false">
+                <ul class="nav nav-pills nav-stacked">
+                    <li>
+                        <a href="http://www.cloudways.com/en/sla.php">SLA</a>
+                    </li>
+                    <li>
+                        <a href="http://www.cloudways.com/en/terms.php">Terms of Service</a>
+                    </li>
+                    <li>
+                        <a href="http://www.cloudways.com/en/privacy.php">Privacy Policy</a>
+                    </li>
+                    <li>
+                        <a href="http://www.cloudways.com/en/acceptable-use-policy.php">Acceptable Use Policy</a>
+                    </li>
+                </ul>
+            </div>
+            <br clear="all">
+        </div><!-- END legal conditions navigation -->
+
+        <!-- BEGIN social navigation -->
+        <div class="footer-nav col-lg-2 col-md-2 col-sm-2">
+            <a class="footer-nav-heading pull-wide collapsed" data-toggle="collapse" href="#footer-nav_social" aria-expanded="false" aria-controls="footer-nav_social">
+                SOCIAL            </a>
+            <div id="footer-nav_social" class="footer-nav_content pull-wide collapse" aria-expanded="false">
+                <ul class="nav nav-pills nav-stacked">
+                    <li>
+                        <a href="http://www.cloudways.com/blog/" class="footer-nav_icon_blog" target="_blank">Blog</a>
+                    </li>
+                    <li>
+                        <a href="http://www.facebook.com/cloudways" class="footer-nav_icon_facebook" target="_blank">Facebook</a>
+                    </li>
+                    <li>
+                        <a href="https://plus.google.com/+Cloudways/" class="footer-nav_icon_google" target="_blank">Google+</a>
+                    </li>
+                    <li>
+                        <a href="http://twitter.com/cloudways" class="footer-nav_icon_twitter" target="_blank">Twitter</a>
+                    </li>
+                    <li>
+                        <a href="http://www.linkedin.com/company/cloudways" class="footer-nav_icon_linked" target="_blank">LinkedIn</a>
+                    </li>
+                    <li>
+                        <a href="http://www.cloudways.com/blog/category/cloudways-updates/" class="footer-nav_icon_news" target="_blank">News</a>
+                    </li>
+                </ul>
+            </div>
+            <br clear="all">
+        </div><!-- END social navigation -->
+
+        <div id="footer-copyright" class="pull-wide">
+            © 2011-2015 Cloudways Ltd. All rights reserved        </div>
+
+    </div>
+
+        </footer><!-- END footer -->
+
+    </main><!-- END main container -->
+
+    <script type="text/javascript" id="body_end_script">
+        var lang = 'en',
+            device = $.parseJSON('{\"type\":\"desktop\"}'),
+            routes = $.parseJSON('{\"pages\":{\"home\":\"http:\\/\\/www.cloudways.com\\/en\\/\",\"feature\":\"http:\\/\\/www.cloudways.com\\/en\\/features.php\",\"pricing\":\"http:\\/\\/www.cloudways.com\\/en\\/pricing.php\",\"testimonial\":\"http:\\/\\/www.cloudways.com\\/en\\/testimonials.php\",\"about_us\":\"http:\\/\\/www.cloudways.com\\/en\\/about_us.php\",\"faq\":\"http:\\/\\/www.cloudways.com\\/en\\/faqs.php\",\"sitemap\":\"http:\\/\\/www.cloudways.com\\/en\\/sitemap.php\",\"contributor\":\"http:\\/\\/www.cloudways.com\\/en\\/contributors.php\",\"special_discount\":\"http:\\/\\/www.cloudways.com\\/en\\/digital-ocean-cloud-hosting.php\",\"special_discount_b\":\"http:\\/\\/www.cloudways.com\\/en\\/digital-ocean-cloud-hosting_b.php\",\"use_cases\":\"http:\\/\\/www.cloudways.com\\/en\\/use-cases.php\"},\"pc\":{\"power_cloud\":\"http:\\/\\/www.cloudways.com\\/en\\/power_cloud.php\",\"quotation\":\"http:\\/\\/www.cloudways.com\\/en\\/quotation.php\",\"tool\":\"http:\\/\\/www.cloudways.com\\/en\\/tools.php\"},\"contact\":{\"contact_us\":\"http:\\/\\/www.cloudways.com\\/en\\/contact_us.php\"},\"captcha\":{\"captcha\":\"http:\\/\\/www.cloudways.com\\/en\\/captcha.php\"},\"sign_up\":{\"sign_up\":\"http:\\/\\/www.cloudways.com\\/en\\/sign_up.php\"},\"legal\":{\"sla\":\"http:\\/\\/www.cloudways.com\\/en\\/sla.php\",\"terms\":\"http:\\/\\/www.cloudways.com\\/en\\/terms.php\",\"privacy\":\"http:\\/\\/www.cloudways.com\\/en\\/privacy.php\",\"acceptable\":\"http:\\/\\/www.cloudways.com\\/en\\/acceptable-use-policy.php\"},\"partner_network\":{\"partner\":\"http:\\/\\/www.cloudways.com\\/en\\/partners.php\",\"group\":{\"prefix\":\"\\/partners\",\"routes\":{\"award_recognition\":\"http:\\/\\/www.cloudways.com\\/en\\/partners\\/awards-and-recognitions.php\",\"affiliate_program\":\"http:\\/\\/www.cloudways.com\\/en\\/partners\\/cloud-affiliate-program.php\",\"business_partner\":\"http:\\/\\/www.cloudways.com\\/en\\/partners\\/business-partners.php\",\"business_partnership\":\"http:\\/\\/www.cloudways.com\\/en\\/partners\\/business-cloud-partnership.php\",\"managed_partner\":\"http:\\/\\/www.cloudways.com\\/en\\/partners\\/managed-partners.php\",\"managed_partnership\":\"http:\\/\\/www.cloudways.com\\/en\\/partners\\/managed-cloud-partnership.php\",\"technology_partner\":\"http:\\/\\/www.cloudways.com\\/en\\/partners\\/technology-partners.php\",\"partnership_request\":\"http:\\/\\/www.cloudways.com\\/en\\/partners\\/partnership_request.php\"}}},\"thank_you\":{\"thank_you-default\":\"http:\\/\\/www.cloudways.com\\/en\\/thankyou-form.php\",\"thank_you-quotation\":\"http:\\/\\/www.cloudways.com\\/en\\/quotation_thankyou.php\"},\"migration\":{\"wp_migration\":\"http:\\/\\/www.cloudways.com\\/en\\/free-website-migration-service.php\",\"wp_migration_app\":\"http:\\/\\/www.cloudways.com\\/en\\/wordpress-migrator.php\"}}'),
+            exclude = $.parseJSON('{\"partial\":{\"hellobar\":false},\"third_party\":{\"adroll\":false,\"crazyegg\":false,\"ga\":false,\"gtm\":false,\"livechat\":false,\"optin\":true,\"picreel\":false,\"uservoice\":true}}'),
+            URL = {
+                get: $.parseJSON('{\"blog\":{\"base\":\"http:\\/\\/www.cloudways.com\\/blog\\/\",\"news\":\"http:\\/\\/www.cloudways.com\\/blog\\/category\\/cloudways-updates\\/\"},\"social\":{\"base\":\"\",\"facebook\":\"http:\\/\\/www.facebook.com\\/cloudways\",\"google\":\"https:\\/\\/plus.google.com\\/+Cloudways\\/\",\"twitter\":\"http:\\/\\/twitter.com\\/cloudways\",\"linkedin\":\"http:\\/\\/www.linkedin.com\\/company\\/cloudways\"},\"cng\":{\"base\":\"https:\\/\\/clickngo.cloudways.com\\/\",\"signup\":\"https:\\/\\/clickngo.cloudways.com\\/signup\\/\"},\"cng_domain\":{\"base\":\"clickngo.cloudways.com\"},\"feedback\":{\"base\":\"http:\\/\\/feedback.cloudways.com\\/\"},\"site_domain\":{\"base\":\"cloudways.com\"},\"support\":{\"base\":\"https:\\/\\/support.cloudways.com\\/\",\"ticket\":\"https:\\/\\/support.cloudways.com\\/anonymous_requests\\/new\\/\",\"forum\":\"https:\\/\\/support.cloudways.com\\/forums\\/\"},\"status\":{\"base\":\"http:\\/\\/status.cloudways.com\\/\"},\"forum\":{\"base\":\"https:\\/\\/support.cloudways.com\\/\"},\"aws\":{\"base\":\"http:\\/\\/s3.amazonaws.com\\/cloudways-website-videos\\/\"},\"livechat\":{\"base\":\"LC_API.open_chat_window(); return false;\"},\"lang\":{\"base\":\"http:\\/\\/www.cloudways.com\\/en\\/\"},\"uservoice\":{\"base\":\"https:\\/\\/cloudways.uservoice.com\\/\",\"forum\":\"https:\\/\\/cloudways.uservoice.com\\/forums\\/\"},\"void\":{\"base\":\"javascript:void(0);\"},\"assets\":{\"base\":\"\\/assets\\/\"},\"css\":{\"base\":\"\\/assets\\/css\\/\",\"a-generic\":\"\\/assets\\/css\\/a-generic\\/\",\"layouts\":\"\\/assets\\/css\\/layouts\\/\",\"pages\":\"\\/assets\\/css\\/pages\\/\",\"widgets\":\"\\/assets\\/css\\/widgets\\/\"},\"fonts\":{\"base\":\"\\/assets\\/fonts\\/\",\"icons\":\"\\/assets\\/fonts\\/icons\\/\",\"css\":\"\\/assets\\/fonts\\/css\\/\"},\"img\":{\"base\":\"\\/assets\\/img\\/\"},\"js\":{\"base\":\"\\/assets\\/js\\/\",\"a-generic\":\"\\/assets\\/js\\/a-generic\\/\",\"layouts\":\"\\/assets\\/js\\/layouts\\/\",\"pages\":\"\\/assets\\/js\\/pages\\/\",\"widgets\":\"\\/assets\\/js\\/widgets\\/\"},\"player\":{\"base\":\"\\/assets\\/player\\/\"},\"uploads\":{\"base\":\"\\/assets\\/uploads\\/\",\"cms\":\"\\/assets\\/uploads\\/cms\\/\",\"docs\":\"\\/assets\\/uploads\\/cms\\/docs\\/\",\"testim\":\"\\/assets\\/uploads\\/cms\\/testim\\/\",\"partner\":\"\\/assets\\/uploads\\/cms\\/partner\\/\"},\"vendor\":{\"base\":\"\\/assets\\/vendor\\/\",\"animate\":\"\\/assets\\/vendor\\/animate\\/\",\"bootbox\":\"\\/assets\\/vendor\\/bootbox\\/\",\"bootstrap\":\"\\/assets\\/vendor\\/bootstrap\\/\",\"html5shiv\":\"\\/assets\\/vendor\\/html5shiv\\/\",\"jquery\":\"\\/assets\\/vendor\\/jquery\\/\",\"respondjs\":\"\\/assets\\/vendor\\/respondjs\\/\",\"smoothscroll\":\"\\/assets\\/vendor\\/smoothscroll\\/\",\"videojs\":\"\\/assets\\/vendor\\/videojs\\/\"},\"videos\":{\"base\":\"\\/assets\\/videos\\/\"}}')
             };
-            nt()
-        })({loader: "static.olark.com/jsclient/loader0.js", name: "olark", methods: ["configure", "extend", "declare", "identify"]});
-        /* custom configuration goes here (www.olark.com/documentation) */
-        olark.identify('1732-616-10-1178');/*]]>{/literal}*/
-        olark('api.chat.onBeginConversation', function()
-        {
-            jQuery.get('http://www.cloudways.com/en/update_chat_counter.php', '', function(response) {
-            });
+
+        $("#body_end_script").remove();
+    </script>
+
+    <!-- BEGIN adroll -->
+    <script type="text/javascript">
+        adroll_adv_id = "GVQ5TNZC4RDX7D2TMA56EF";
+        adroll_pix_id = "MZ7PKNYAURGBPJ5GTFKEB5";
+        __adroll_loaded = true;
+
+        $(document).ready(function () {
+            setTimeout(function () {
+                var scr = document.createElement("script");
+                var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
+                scr.setAttribute('async', 'true');
+                scr.type = "text/javascript";
+                scr.src = host + "/j/roundtrip.js";
+                ((document.getElementsByTagName('head') || [null])[0] ||
+                document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
+                console.log('Adroooollll Loaded...!');
+            }, 10000);
         });
-        //olark div
-        $('#olark_tab').fadeIn();
-        //olark code end
-
-            //user snap code start
-            var s = document.createElement('script');
-            s.type = 'text/javascript';
-            s.async = true;
-            s.src = '//api.usersnap.com/usersnap.js';
-            var x = document.getElementsByTagName('head')[0];
-            x.appendChild(s);
-            //user snap code end
-
-        //adroll code start
-    }
-    if (window.addEventListener)
-        window.addEventListener("load", downloadJSAtOnload, false);
-    else if (window.attachEvent)
-        window.attachEvent("onload", downloadJSAtOnload);
-    else
-        window.onload = downloadJSAtOnload;
-
-    function googleTracking() {
-        $('#tck').click(function(e) {
-            _gaq.push(['_trackEvent', 'HelloBar', '', 'http://www.cloudways.com/en/privacy.php', 1, false]);
+    </script><!-- END adroll -->
+    <!-- BEGIN crazy egg -->
+    <script type="text/javascript">
+        $(document).ready(function () {
+            setTimeout(function () {
+                var a = document.createElement("script");
+                var b = document.getElementsByTagName("script")[0];
+                a.src = document.location.protocol + "//dnn506yrbagrg.cloudfront.net/pages/scripts/0017/1343.js?" + Math.floor(new Date().getTime() / 3600000);
+                a.async = true;
+                a.type = "text/javascript";
+                b.parentNode.insertBefore(a, b);
+                console.log('crazyyyyeggg Loaded...!');
+            }, 10000);
         });
-    }
+    </script><!-- END crazy egg -->
+    <!-- BEGIN live chat -->
+    <script type="text/javascript">
+        var __lc = {};
+        __lc.license = 4817491;
+        __lc.params = [
+            {name: 'IP', value: '204.236.235.245'},
+            {name: 'Location', value: 'US'},
+            {name: 'Device', value: 'ia_archiver'}
+        ];
 
-    function fireWhenReady()
-    {
-        if (typeof fnLoadPage != 'undefined')
-        {
-            fnLoadPage();
-            fnLoadPage2();
-        }
-        else
-        {
-            setTimeout(fireWhenReady, 100);
-        }
-    }
-</script>
-    <script src="//system.picreel.com/js/jstracker.min.js"></script>
+        $(document).ready(function () {
+            setTimeout(function () {
+                var lc = document.createElement('script');
+                lc.type = 'text/javascript';
+                lc.async = true;
+                lc.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'cdn.livechatinc.com/tracking.js';
+                var s = document.getElementsByTagName('script')[0];
+                s.parentNode.insertBefore(lc, s);
+                console.log('Live chat Loaded...!');
+
+                            }, 10000);
+        });
+    </script><!-- END live chat -->
+        <!-- BEGIN picreel -->
+    <script type="text/javascript">
+        $(document).ready(function () {
+            setTimeout(function () {
+                var b = document.getElementsByTagName('body')[0];
+                var s = document.createElement("script");
+                s.setAttribute('src', 'https://system.picreel.com/js/jstracker-async.min.js');
+                b.appendChild(s);
+                console.log('Picreeel chat Loaded...!');
+            }, 10000);
+        });
+    </script><!-- END picreel -->
+    
 
 </body></html>
