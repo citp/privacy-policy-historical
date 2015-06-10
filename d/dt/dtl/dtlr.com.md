@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dtlr.com privacy policy that was archived on 2014-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141205084018id_/http%3A//www.dtlr.com/document/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dtlr.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610052913id_/http%3A//www.dtlr.com/document/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - DTLR - Your Fashion Your Lifestyle
 
@@ -20,7 +20,7 @@ We collect the browser type and IP address of all DTLR.COM visitors.  We also s
 
 Users post User Content (as defined in the DTLR.COM Terms of Use) on DTLR.COM at their own risk.  We cannot control the actions of other Users with whom you may choose to share information. 
 
-Any improper collection or misuse of information provided on DTLR.COM is a violation of the DTLR.COM Terms of Service and should be reported to orders@dtlr.com. 
+Any improper collection or misuse of information provided on DTLR.COM is a violation of the DTLR.COM Terms of Service and should be reported to dtlr-online@tnbmail.com. 
 
 DTLR.COM takes reasonable precautions to protect our Users' information, including locating account information on a secured server behind a firewall. Sensitive information (such as passwords), is encrypted using secure socket layer technology (SSL).  No security measures are perfect or impenetrable. Therefore, we cannot and do not guarantee that User Content you post on DTLR.COM will not be viewed by unauthorized persons. We are not responsible for circumvention of any privacy settings or security measures contained on DTLR.COM. You understand and acknowledge that, even after removal, copies of User Content may remain viewable in cached and archived pages or if other Users have copied or stored your User Content.  Because email messages are not recognized as secure communications, we request that you not send private information to us by email or instant messaging services.
 
@@ -28,7 +28,7 @@ DTLR.COM may collect credit card information in connection with the purchase of 
 
 By using DTLR.COM, you are consenting to have your personal data transferred and processed in the United States.
 
-If you have any questions about the security of DTLR.COM, please contact us at orders@DTLR.com. 
+If you have any questions about the security of DTLR.COM, please contact us at dtlr-online@tnbmail.com. 
 
 **2. Use of Information By DTLR.COM**
 
@@ -76,4 +76,4 @@ Your use of DTLR.COM, and any disputes arising from it, is subject to this Priva
 
 DTLR.COM reserves the right to change its Privacy Policy and Terms of Use at any time. Non-material changes and clarifications will take effect immediately, and material changes will take effect within 30 days of their posting on the DTLR.COM website. If we make changes, we will post them and will indicate at the top of this page the policy's new effective date. If we make material changes to this policy, we will notify you here, by email, or through notice on our home page. Unless stated otherwise, our current privacy policy applies to all information that we have about you and your account.
 
-If you have any questions about this privacy policy, please contact us at orders@dtlr.com. 
+If you have any questions about this privacy policy, please contact us at dtlr-online@tnbmail.com. 
