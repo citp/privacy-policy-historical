@@ -1,30 +1,22 @@
-> *The following text is extracted and transformed from the mos.org privacy policy that was archived on 2014-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141224181126id_/http%3A//www.mos.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mos.org privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611003531id_/http%3A//www.mos.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Museum of Science, Boston
-
-## Museum of Science Online Privacy Policy
 
 An educational institution that serves 1.7 million adults and children each year and receives 2 million visits to its website — the Museum of Science, Boston, is dedicated to providing the best possible experience for our visitors. To that end, we are committed to protecting the private information of those who interact with us online. The Museum of Science website adheres to the following policy for ensuring the privacy of your — and your children's — personally identifiable information (such as full name, address, email address, telephone number, and/or other identifiable information).
 
 ### Gathering and Use of Information
 
   1. We will not collect personally identifiable information from you, other than what you supply to us on a voluntary basis, except as stated in this privacy policy.
-
-  2. You might be asked to provide some personally identifiable information in order to participate in some online activities. This could be in connection with the following:
-
+  2. You might be asked to provide some personally identifiable information in order to participate in some online activities. This could be in connection with the following: 
     * contest or sweepstakes registration
     * subscription registration for services such as email newsletters or events, courses or other museum programming
     * transactions in our Online Ticket Store
     * sales or products or other services
     * content submissions, community postings (i.e., forums or bulletin boards), comments and suggestions, voting, or online surveys
   3. The Museum of Science may use your personally identifiable information to extend promotional offers (such as invitations to Museum events) or to send administrative or service-related announcements.
-
   4. When you disclose personal information on the Museum website, we may use your address internally to inform you of events and opportunities at the Museum. On occasion, the Museum uses trusted 3rd party providers to provide communications. The Museum only uses providers that we believe impose reasonable safeguards on the privacy of your information.
-
   5. We may use personally identifiable information in order to prevent improper use of our site, or as otherwise necessary to defend against or assist in the investigation of improper or illegal activity on the website.
-
   6. We may use or disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights; to protect the rights, safety, or property of others; and/or to participate in a judicial proceeding, comply with a court order, respond to other legal process served on us or our website, or complete a transaction involving the transfer of the Museum operations to which the information pertains, or due diligence and preparatory work relating to such a transaction.
-
 
 
 
@@ -73,6 +65,18 @@ As our website grows, it may be necessary for us to change our privacy policy to
 ### Contact Us
 
 If you have any questions or concerns about this privacy statement, our online practices, or your dealings with this website, please contact:
+
+Museum of Science
+
+Online Privacy
+
+1 Science Park
+
+Boston, MA 02114
+
+617-723-2500
+
+[privacy@mos.org](mailto:privacy@mos.org)
 
 ### Effective Date
 
