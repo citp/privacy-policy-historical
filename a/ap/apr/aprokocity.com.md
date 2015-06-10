@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the aprokocity.com privacy policy that was archived on 2014-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140917031536id_/http%3A//www.aprokocity.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aprokocity.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610130515id_/http%3A//www.aprokocity.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Aprokocity is the city for African-American and Black celebs|celebrity gossip and entertainment gist| tatafo, aproko, amebo and ofofo for the hardcore Nigerian | Nollywood celebrities and entertainment news
 
 Welcome to **Aprokocity.com** , an interactive online news service operated by Inbrand Nig limited. We are dedicated to preserving and safeguarding your privacy during your visit to our site and we are committed to protecting your personal identifiable information you may provide us through our Website.
 
