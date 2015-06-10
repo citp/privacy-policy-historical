@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the thesouledstore.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625074608id_/http%3A//thesouledstore.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thesouledstore.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610021342id_/http%3A//thesouledstore.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# The Souled Store
+
+####  Privacy Policy
 
 The Souled Store respects every user of our service and is committed to protecting your privacy when you use The Souled Store. **Your trust is very important to us, and we will go out of our way to earn it and keep it. We will not ever rent or sell your personal information to any third party, and we do not send spam**. This Privacy Policy describes the information that we collect from you, how we collect this information, and what we do with it after we collect it. The Souled Store shall have the right to modify this Privacy Policy, which modification shall be effective immediately following The Souled Store's posting of such change on the website. Your use of The Souled Store’s service following such posting shall be deemed to constitute your acceptance of such modification. If you have any questions or comments regarding this Privacy Policy, please [contact us](http://thesouledstore.com/index.php?route=information/contact).
 
