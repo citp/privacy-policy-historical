@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oneall.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121013701id_/http%3A//www.oneall.com/company/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oneall.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610162415id_/http%3A//www.oneall.com/company/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | oneall.com
 
@@ -6,7 +6,7 @@
 
 ###  About us 
 
-OneAll LLC (“OneAll”, ”we”, ”us”) is a registered technology company offering a set of web-delivered tools and services for establishing and optimizing a site’s connection with many social networks and providers such as Facebook, Twitter, Yahoo! and LinkedIn amongst others. 
+OneAll Sàrl (“OneAll”, ”we”, ”us”) is a registered technology company offering a set of web-delivered tools and services for establishing and optimizing a site’s connection with many social networks and providers such as Facebook, Twitter, Yahoo! and LinkedIn amongst others. 
 
 The OneAll social optimization platform enables online businesses (“Developers”) to (a) easily connect their sites to all the major social platforms and integrate with Open ID and other external authentication providers; (b) offer their site visitors (“End Users”) on-site authentication, sharing and social features to enhance their connected experience; and (c) analyze a site’s social activity with helpful use data and metrics. 
 
@@ -77,7 +77,7 @@ Anyone with a registered OneAll account may review, update, correct or delete th
 
 The security of your information is important to us, including but not limited to the PII collected via the Site and Service. We have implemented reasonable security measures to protect the information in our care, both during transmission and once we receive it. This includes, but is not limited to the use of firewalls and encryption. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your information, we cannot guarantee its absolute security. 
 
-###  8\. International Transfer – Storage in the European Union 
+###  8\. Storage in the European Union 
 
 Information collected on this Site or via the Service may be transferred to — and maintained on — computers located outside of your state, province, country or other governmental jurisdiction where the privacy laws may not be as protective as those in your jurisdiction. If you are located outside the European Union and choose to provide information to OneAll, please be advised that we transfer PII to the European Union and process it there. Your consent to this Privacy Policy followed by your submission of such information represents your consent to that transfer. 
 
