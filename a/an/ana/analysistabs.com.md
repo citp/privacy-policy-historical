@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the analysistabs.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122141211id_/http%3A//analysistabs.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the analysistabs.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610033316id_/http%3A//analysistabs.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - ANALYSISTABS - Innovating Awesome Tools for Data Analysis!
 
 Privacy of our visitors is extremely importance to us. This page outlines the Privacy Policy and types of personal information collected on this website and how it is used.
 
- **Effective Jan 2013:**
+**Effective Jan 2013:**
 
 #### We may collect the following information:
 
