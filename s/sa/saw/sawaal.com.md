@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sawaal.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120010403id_/http%3A//www.sawaal.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sawaal.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610030934id_/http%3A//www.sawaal.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
