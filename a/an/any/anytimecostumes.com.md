@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the anytimecostumes.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121003404id_/http%3A//www.anytimecostumes.com/privacy-security.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anytimecostumes.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610155526id_/http%3A//www.anytimecostumes.com/privacy-security.html) for the most accurate reproduction.*
 
 # Halloween Costumes For Adults & Kids from Anytime Costumes
 
@@ -25,7 +25,7 @@ When checking out, you can opt out of email promotions. Also, every email will h
 **Anytime Costumes**  
 40 Queens St #792  
 Syossett, NY 11791  
-877-546-2757  
+605-271-7875  
 [customerservice@anytimecostumes.com](mailto:customerservice@anytimecostumes.com)
 
 ### Cookies
