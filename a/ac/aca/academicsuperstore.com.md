@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the academicsuperstore.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122080548id_/http%3A//www.academicsuperstore.com/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the academicsuperstore.com privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611013544id_/http%3A//www.academicsuperstore.com/page/privacy) for the most accurate reproduction.*
 
 # Academic Superstore : Academic Software discounts for students, teachers and schools
 
 Privacy Policy 
 
-Last updated: May 30, 2012
+Last updated: November 17, 2014
 
 BY USING THIS WEBSITE OR SUBMITTING PERSONAL INFORMATION TO JOURNEYED.COM THROUGH THIS WEBSITE, YOU ARE CONSENTING TO THE COLLECTION, USE, TRANSFER, AND DISCLOSURE OF INFORMATION AS DESCRIBED IN THIS PRIVACY STATEMENT. 
 
