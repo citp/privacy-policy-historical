@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wildguns.co.uk privacy policy that was archived on 2014-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141221181005id_/http%3A//agbserver.gameforge.com/rewrite.php%3Fgame%3Dwildguns%26page%3Dprivacy%26lang%3Den) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wildguns.co.uk privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610041726id_/http%3A//agbserver.gameforge.com/rewrite.php%3Fgame%3Dwildguns%26page%3Dprivacy%26lang%3Den) for the most accurate reproduction.*
 
 # Gameforge
 
