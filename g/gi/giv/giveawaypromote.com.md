@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the giveawaypromote.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231033605id_/http%3A//www.giveawaypromote.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the giveawaypromote.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610052958id_/http%3A//www.giveawaypromote.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Giveaway Promote
 
@@ -75,6 +75,5 @@ This policy was last modified on 9/2/2012
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-http://www.giveawaypromote.com/contact/
-
+http://www.giveawaypromote.com/contact/  
 info |at| giveawaypromote DOT com
