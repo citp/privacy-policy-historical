@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the anthropologie.eu privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120084441id_/http%3A//www.anthropologie.eu/anthro/category/privacy%2B%2526%2Bsecurity/help-privacy.jsp%3Fcm_sp%3DFOOTER-_-Main-_-Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anthropologie.eu privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610042717id_/http%3A//www.anthropologie.eu/anthro/category/privacy%2B%2526%2Bsecurity/help-privacy.jsp%3Fcm_sp%3DFOOTER-_-Main-_-Privacy) for the most accurate reproduction.*
 
 # Privacy & Security - Misc. - anthropologie.eu
 
@@ -83,10 +83,8 @@ Anthropologie is a trading name of URBN UK Limited, a U.K. registered company (c
 
 ## Anthro Loyalty Program
 
-If you have joined our _anthro_ program, based on your mailing preferences, you will receive our catalogue as well as email updates from us that will include advanced notice of sales and promotions, new merchandise, store openings and other news that we think you'll enjoy.
+If you have joined our anthro program, based on your mailing preferences, you will receive our catalogue as well as email updates from us that will include advanced notice of sales and promotions, new merchandise, store openings and other news that we think you'll enjoy.
 
 Addresses provided to us are only used internally for the purpose of sending you communication from us. We respect your privacy rights and will not sell or rent your postal or email addresses to other companies.
 
-Anthro members are entitled to free U.K. standard delivery on orders over £75, until 23:59 GMT, Wednesday, 31st December 2014. To activate, log into Anthro account and enter code at checkout. For all future orders, the promotion will be automatically applied at checkout when logged in. Excludes furniture and found items. Not available with any other offer or promotion.
-
-If you would like to unsubscribe from our anthro program, please email [anthro@anthropologie.eu](mailto:anthro@anthropologie.eu) or call 00800 0026 8476. You may also click on the unsubscribe link at the bottom of our emails. We will remove your name from our lists as soon as possible. Please recognise that you may receive another catalogue or email before we are able to remove you.
+Anthro members are entitled to free U.K. standard delivery on orders over £75. To activate, log into Anthro account and enter code at checkout. For all future orders, the promotion will be automatically applied at checkout when logged in. Excludes furniture and found items. Not available with any other offer or promotion.
