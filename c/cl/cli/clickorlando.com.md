@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clickorlando.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120131756id_/http%3A//www.clickorlando.com/Privacy-Policy/2694030) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clickorlando.com privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611003539id_/http%3A//www.clickorlando.com/Privacy-Policy/2694030) for the most accurate reproduction.*
 
 # Privacy Policy | Home - Home
 
@@ -34,7 +34,7 @@ We may also use any personally identifiable information you provide for marketin
 
  _Sharing with Service Providers:_ We may share your personally identifiable information with our business partners and/or other third party service providers, such as Web site or database hosting companies, address list hosting companies, e-mail service providers, analytics companies, distribution companies, fulfillment companies, payment processing companies and other similar vendors and services providers, which perform services for us and which use such information on our behalf (collectively "Service Providers").
 
- _Internet Broadcasting Systems Inc.:_ One of our Service Providers, Internet Broadcasting Systems Inc. ("IB"), is integral to the operation and administration of many aspects of this Site. IB collects and uses user information to perform its services and the day to day operation of the Web site.
+ _LAKANA:_ One of our Service Providers, LAKANA, a division of Nexstar Broadcasting, Inc. ("LAKANA"), is integral to the operation and administration of many aspects of this Site. LAKANA collects and uses user information, including personally identifiable information, to perform its services and the day to day operation of the Web site, including but not limited to the creation and/or maintenance of personalized user profiles.  We may share personally identifiable information from our users with LAKANA in connection with LAKANA's performance of services related to the operation of the Site or App, including but not limited to the creation and/or maintenance of personalized user properties.
 
  _Sharing with Third-Party Marketers:_ We may share your personally identifiable information with, and make our customer lists available to, third parties (outside of WKMG), who may choose to contact you to promote their own goods and services, or who may use such information for other purposes, including direct marketing. Additionally, when you enter a contest or sweepstakes that is sponsored by a third party, independently or jointly with us, your personally identifiable information may be shared with that third party for their use, in their discretion and in accordance with their privacy policies, including for their direct marketing purposes. While some of our contests and sweepstakes will ask you at the time of entry whether you would like your personally identifiable information to be shared with the third-party sponsor, other contests will not give you that option. Thus, in that event, if you do not want your information to be shared, you should not enter the contest. We are not responsible for how our co-sponsors or such other third parties may use your information. **If you want us to stop sharing your personally identifiable information with third parties for their direct marketing use, follow the directions in the "What are my opt-out rights?" section below.**
 
@@ -56,7 +56,7 @@ We use technologies such as cookies and tracking pixels to collect information f
 
 We also may use "tracking pixels" (aka "clear GIFs" or "pixel tags") or similar technologies in the Site and/or in our communications with you to enable us to know whether you have visited a Web page or received a message. A Web beacon is typically a one-pixel, transparent image located on a Web page or in an e-mail or other type of message. These electronic images help us measure the effectiveness of our online advertising and/or e-mail or other messaging campaigns by, for example, counting the number of individuals who visit the Site or the number of individuals who open or act upon an e-mail or other type of message.
 
-Any or all of the above-described activities with respect to cookies and tracking pixels may be performed on our behalf by our Services Providers (defined above).
+Any or all of the above-described activities with respect to cookies and tracking pixels may be performed on our behalf by our Services Providers (defined above), and such information may be shared with our Service Providers.
 
  **What about _Third-Party Advertisers_?**
 
@@ -98,4 +98,4 @@ We reserve the right, in our sole discretion, to modify, alter or otherwise upda
 
 If you have other questions or concerns about our privacy policies or data use with respect to this Site, please contact us by clicking [here](mailto:websitepolicy@grahammedia.com).
 
- **Effective: June 15, 2010**
+ **Effective: March 31, 2015**
