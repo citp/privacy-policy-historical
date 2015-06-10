@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the youlookfab.com privacy policy that was archived on 2014-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141130033848id_/http%3A//youlookfab.com/backstage/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the youlookfab.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610131027id_/http%3A//youlookfab.com/backstage/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - YouLookFab Backstage
+
+## Privacy Policy
 
 _Last updated on August 28, 2010_
 
