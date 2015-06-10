@@ -1,10 +1,53 @@
-<!--The following is the downloaded HTML source of the drlam.com privacy policy that was archived on 2014-11-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141122152356id_/http%3A//www.drlam.com/privacystatement.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the drlam.com privacy policy that was archived on 2015-06-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150610155253id_/http%3A//www.drlam.com/privacystatement.asp) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
-      <title>www.DrLam.com Privacy Statement - DrLam® - Body. Mind. Nutrition®</title>
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" lang="en"><head>
+    <meta charset="utf-8">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="keywords" content="">
+    <meta name="author" content="">
+
+    <title>Privacy Statement</title>
+
+    <!-- Bootstrap core CSS -->
+    <link rel="stylesheet" type="text/css" href="./css/bootstrap.min.css">
+
+    <!-- Google Fonts -->
+    <link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Open+Sans:400,700,700italic,400italic">
+    <link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Merriweather:400,400italic">
+
+    <!-- Social Media Icon Font -->
+    <link rel="stylesheet" type="text/css" href="./css/socicon.css">
+
+    <!-- Custom styles -->
+    <link rel="stylesheet" type="text/css" href="./css/default.css">
+    <link rel="stylesheet" type="text/css" href="./css/magnific-popup.css">
+    <link rel="stylesheet" type="text/css" href="./css/highslide.css">
+
+    <link rel="stylesheet" type="text/css" href="./css/jquery.jscrollpane.css" media="all">
+    <link rel="stylesheet" type="text/css" href="./css/font-awesome.min.css">
+    <link rel="stylesheet" type="text/css" href="./css/videoGallery_buttons.css">
+
+    <!-- jQuery core -->
+    <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+
+    <!-- Helper javascript files -->
+    <script type="text/javascript" src="./js/highslide-full.js"></script>
+    <script type="text/javascript" src="./js/pubfunc.js"></script>
+
+    <link rel="shortcut icon" href="./images/favicon.ico">
+
+    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+      <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
     <!-- :START Google Analytics: -->
-    <script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
+    <script type="text/javascript">
       var _gaq = _gaq || [];
       _gaq.push(['_setAccount', 'UA-6102315-1']);
       _gaq.push(['_trackPageview']);
@@ -14,544 +57,345 @@
         ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
         var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
       })();
-
-      var setCookie = function()
-      {
-        var dt = new Date("1/1/2100");
-        var dts = dt.toGMTString();
-        var s = "ODSVerify=HelpMyAdrenalExitStatus; expires=" + dts + "";
-        document.cookie = s;
-      }
-
-      function getCookie(cname)
-      {
-        var name = cname + "=";
-        var ca = document.cookie.split(';');
-        for(var i=0; i<ca.length; i++)
-        {
-          var c = ca[i];
-          while (c.charAt(0)==' ') c = c.substring(1);
-          if (c.indexOf(name) != -1)
-            return c.substring(name.length, c.length);
-        }
-        return "";
-      }
-
-      function checkCookie()
-      {
-        var ODS = getCookie("ODSVerify");
-        var rVal = false;
-        //alert("Test::" + ODS + "::");
-
-        if(ODS == "")
-        {
-          rVal = true;
-        }
-        return rVal;
-      }
-
-      var onExitNav = function()
-      {
-        return {
-          // are we getting ready to leave?
-          shouldFire: true,
-          execute: function()
-          {
-            if(onExitNav.shouldFire)
-            {
-              var width = 700;
-              var height = 550;
-
-              args = "width=" + width + ",";
-              args += "height=" + height + ",";
-              args += "location=0" + ",";
-              args += "menubar=0" + ",";
-              args += "resizable=1" + ",";
-              args += "scrollbars=0" + ",";
-              args += "status=0" + ",";
-              args += "titlebar=0" + ",";
-              args += "toolbar=0" + ",";
-              args += "hotkeys=0";
-
-              var exitNavWin = window.open("../AlldrenalExit.html", "exitNav", args);
-              setCookie();
-
-              try
-              {
-                exitNavWin.focus();
-              }
-              catch(err3)
-              {
-              };
-            }
-          },
-
-          cancel: function()
-          {
-            onExitNav.shouldFire = false;
-          }
-        }
-      }();
-
-
-      if(checkCookie())
-      {
-        //window.onunload = onExitNav.execute;
-      }
-
-      document.forms[0].onsubmit = onExitNav.cancel;
-
     </script>
-            <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-            <meta name="keywords" content="adrenal fatigue, adrenal, fatigue, estrogen dominance, hormonal imbalance, anti-aging, menopause, cholesterol, aging, alternative medicine, high blood pressure, anti aging, hgh, women's health, human growth hormone, herbal medicine, womens health, herbal remedy, vitamin e, growth hormone, herbal supplements, antiaging, vitamin supplements, longevity, Anti-Aging, Menopause, Cholesterol, Aging, Alternative Medicine, High Blood Pressure, Anti Aging, Hgh, Women's Health, Human Growth Hormone, Herbal Medicine, Womens Health, Herbal Remedy, Vitamin E, Growth Hormone, Herbal Supplements, Antiaging, Vitamin Supplements, Longevity, ANTI-AGING, MENOPAUSE, CHOLESTEROL, AGING, ALTERNATIVE MEDICINE, HIGH BLOOD PRESSURE, ANTI AGING, HGH, WOMEN'S HEALTH, HUMAN GROWTH HORMONE, HERBAL MEDICINE, WOMENS HEALTH, HERBAL REMEDY, VITAMIN E, GROWTH HORMONE, HERBAL SUPPLEMENTS, ANTIAGING, VITAMIN SUPPLEMENTS, LONGEVITY, Anti-aging, menopause, cholesterol, aging, Alternative medicine, High blood pressure, Anti aging, HGH, Women's health, Human growth hormone, Herbal medicine, Womens health, Herbal remedy, Vitamin e, Growth hormone, Herbal supplements, antiaging, Vitamin supplements, longevity">
+<style>
+    /*
+    .temp-notice {
+        padding: 3px 0;
+        color: #fff;
+        text-align: center;
+        background-color: #c0392b;
+    }
 
-            <meta name="description" content="">
-            <link rel="shortcut icon" href="./images/favicon.ico">
-            <link rel="stylesheet" type="text/css" href="./css/afc_style.css">
-            <link rel="stylesheet" type="text/css" href="./css/article_style.css">
-            <link rel="stylesheet" type="text/css" href="./highslide/highslide.css">
-            <link rel="stylesheet" type="text/css" href="./plugins/dualSlider/css/jquery.dualSlider.0.3.min.css">
-            <link rel="stylesheet" type="text/css" href="./plugins/dualSlider/css/clearfix.css">
-            <link rel="stylesheet" type="text/css" href="./css/featuredcontentglider.css">
-            <link rel="stylesheet" type="text/css" href="./css/new_styles.css">
-            <!--[if IE]>
-            <link rel="stylesheet" type="text/css" href="./highslide/highslide-ie6.css" />
-            <![endif]-->
-            
+    .temp-notice a {
+        color: #fff;
+    }
 
-            <script type="text/javascript" src="./js/jquery-1.2.2.pack.js"></script>
-            <script type="text/javascript" src="./js/AC_ActiveX.js"></script>
-            <script type="text/javascript" src="./js/AC_RunActiveContent.js"></script>
-            <script type="text/javascript" src="./highslide/highslide-full.js"></script>
-            <script type="text/javascript" src="./js/functions.js"></script>
-            <script type="text/javascript" src="./js/featuredcontentglider.js">
-                /***********************************************
-                * Featured Content Glider script- (c) Dynamic Drive DHTML code library (www.dynamicdrive.com)
-                * Visit http://www.dynamicDrive.com for hundreds of DHTML scripts
-                * This notice must stay intact for legal use
-                ***********************************************/
-            </script>
-              <script type="text/javascript">
-                (function() {
-                  var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
-                  po.src = 'https://apis.google.com/js/plusone.js';
-                  var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
-                })();
-              </script>
-              <style type="text/css">
-  		.cssPopOver
-  		{
-  			/*border-bottom: 1px dotted #000000;*/
-  			color: #000000;
-  			outline: none;
-  			text-decoration: none;
-  			position: relative;
-  		}
-  		.cssPopOver span
-  		{
-  			margin-left: -999em;
-  			position: absolute;
-  			color: #000000;
-  		}
-  		.cssPopOver:hover span
-  		{
-  			border-radius: 5px 5px;
-  			-moz-border-radius: 5px;
-  			-webkit-border-radius: 5px;
-  			color: #000000;
+    @media only screen and (min-width: 768px) {
+        .dl-header {
+            margin-top: 140px;
+        }
+    }
 
-  			font-family: Arial, Helvetica, sans-serif;
-  			position: absolute;
-  			left: -68px;
-  			top: 2em;
-  			z-index: 9999;
-  			margin-left: 0;
-  			width: 270px;
-  		}
-  		.cssPopOver img
-  		{
-  		  margin: 0px;
-  		  padding: 0px;
-  		  display: block;
-  		  float: left;
-  			margin: -10px 0 0 -55px;
-  	  }
-  		.cssPopOver:hover em
-  		{
-  			font-family: Arial, Helvetica, sans-serif;
-  			font-size: 1.2em;
-  			font-weight: bold;
-  			display: block;
-  			color: #000000;
-  		}
-  		.phone
-  		{
-  		  background-color: #D7EBFF;
-  		  background-image: url("./images/callus_bg.gif");
-  		  padding: 0.5em 0.8em 0.8em 2em;
-  		  border: solid 3px #336699;
-  			color: #000000;
-  		}
-		</style>
-            </head>
+    @media only screen and (min-width: 992px) {
+        .dl-header-2 {
+            top: 95px;
+        }
+    }
+    */
+</style></head>
+<!-- temp style -->
 
-            <body oncopy="Copyright.showContext();return false;">
-              <iframe style="height:0px;width:0px;" src="..\ROI.asp?click="></iframe>
-      <div id="copyright_protected" class="copyright_protected" style="display:none; position: absolute; z-index: 1500; top: 20%; left: 50%; margin-left: -340px; width: 560px;">
-      <div class="box" style="border: solid 2px #000000; background: #FFFFFF; padding: 8px; border-radius: 8px" onclick="javascript:Copyright.hideContext();return false;">
-        <h5 class="title" style="font-size: 16pt; margin: 4px">This content is copyright protected</h5>
-        <p style="text-align: center; margin-top: 0px;"><sup>Click on this dialog to close</sup></p>
-        <p>This Web Site and all content and materials included on this Web Site, including without limitation all information, text, graphics, illustrations, photos, video, sound and software (collectively the "Content"), are copyrighted and protected under U.S. and international copyright laws, trademark and other intellectual property laws and treaties and are the exclusive property of Dr. Michael Lam. Dr. Michael Lam hereby retains all right, title, and interest in the Content.</p>
-        <p>All rights are reserved. You may not store, modify, create derivative works of, translate, distribute, publish, transmit, sell or participate in any sale of, or exploit in any way any Content in any form or by any means. You acknowledge that you do not acquire any ownership rights by downloading material from this Web Site. You are authorized to view this Web Site for informational purposes only. No part of this Web Site or Content can be redistributed, copied, adapted or reproduced without the prior written consent of Dr. Michael Lam.</p>
-        <p><a href="http://www.DrLam.com">DrLam.com</a></p>
-        <div class="box_spacer"></div>
-      </div></div>
-                <div id="wrapper" style="border-left: solid 1px #7F7F7F; border-right: solid 1px #7F7F7F;">
-                    <div id="header" style="background-image: url('./images/new_header.png');">
-                        <select style="float: left; position: absolute; clear: right; display: block; width: 150px; margin: 9px 10px 2px 22px" id="mlang" onchange="window.open('http://translate.google.com/translate?u='+encodeURIComponent(location.href)+'&amp;hl=en&amp;langpair=auto|'+this.value+'&amp;tbb=1'); return false;">
-                          <option value="en" selected="">English</option>
-                          <option value="fr">French</option>
-                          <option value="de">German</option>
-                          <option value="es">Spanish</option>
-                          <option value="es">Italian</option>
-                          <option value="nl">Dutch</option>
-                          <option value="ru">Russian</option>
-                          <option value="pt">Portuguese</option>
-                          <option value="ja">Japanese</option>
-                          <option value="ko">Korean</option>
-                          <option value="ar">Arabic</option>
-                          <option value="zh-CN">Chinese Simplified</option>
-                        </select>
-                        <a href="http://www.drlam.com" style="height: 88px; padding: 0px 215px 110px 0px; z-index: 1"></a>
-
-                        <!-- GOOGLE SEARCH FORM -->
-                        <script type="text/javascript" src="http://www.google.com/cse/brand?form=cse-search-box&amp;lang=en"></script>
-                        <fieldset id="search" style="left: 170px">
-                            <form action="./search.asp" id="cse-search-box">
-                                <div>
-                                    <input type="hidden" name="cx" value="partner-pub-7963028063620295:gob5ry-vk68">
-                                    <input type="hidden" name="cof" value="FORID:9">
-                                    <input type="hidden" name="ie" value="ISO-8859-1">
-                                    <input type="text" name="q" size="31" id="google_bar" onclick="this.value=''" value="Search DrLam.com">
-                                    <input type="submit" name="sa" value="Search" class="orangebutton" style="width:78px;">
-                                </div>
-                            </form>
-                        </fieldset>
-                        <!-- END GOOGLE SEARCH FORM -->
-
-                        <fieldset id="newsletter" style="left: 414px">
-                          <!--START OF REACHMAIL FORM, CUT FROM HERE DOWN-->
-                          <script language="JavaScript">
-                          <!--
-                          function submitIt(form) {
-                          var checkEmail = "@.";
-                          var checkStr = form.rm_email.value;
-                          var EmailValid = false;
-                          var EmailAt = false;
-                          var EmailPeriod = false;
-                          var bad = "";
-                          for (i = 0;  i < checkStr.length;  i++)
-                          {
-                               ch = checkStr.charAt(i);
-                               for (j = 0;  j < checkEmail.length;  j++)
-                               {
-                                  if (ch == checkEmail.charAt(j) && ch == "@")
-                                  EmailAt = true;
-                                  if (ch == checkEmail.charAt(j) && ch == ".")
-                                     EmailPeriod = true;
-                          	      if (EmailAt && EmailPeriod)
-                          		          break;
-                          	      if (j == checkEmail.length)
-                          		          break;
-                          	    }
-                                if (EmailAt && EmailPeriod)
-                                {
-                          		    EmailValid = true
-                          		    break;
-                          	    }
-                          }
-                          if (!EmailValid)
-                          {
-                          bad = bad + "\n    Please enter a valid Email Address.";
-                          }
-                          if (bad != "") {alert("Please fill in the following fields:"+bad +"\n"); return (false);}
-                          return (true);
-                          }
-                          //-->
-                          </script>
-                          <!--END OF JAVASCRIPT-->
-                          <form name="signup" method="post" onsubmit="return submitIt(this);" action="https://go.reachmail.net/libraries/form_wizard/process_subscribe.asp">
-                            <input type="text" id="nlemail" name="rm_email" style="width:160px; color:#000000;" onclick="swapContent(this.id, 'Enter Your Email')" onblur="swapContent(this.id, 'Enter Your Email')" value="Enter Your Email" class="cleardefault">
-                            <input type="hidden" name="rm_name" value="">
-                            <input type="hidden" name="form_id" value="1967">
-                            <input type="hidden" name="list_name" value="XLIST_8296_20111223134550">
-                            <input type="hidden" name="list_id" value="225479">
-                            <input type="hidden" name="el_list" value="email,name">
-                            <input type="hidden" name="list_uname" value="">
-                            <input type="hidden" name="list_umsg" value="">
-                            <input type="hidden" name="page_confirm" value="http://www.drlam.com/nlthankyou.asp">
-                            <input type="hidden" name="list_fromname" value="">
-                            <input type="hidden" name="list_fromemail" value="">
-                            <input type="hidden" name="list_subject" value="">
-                            <input type="submit" name="Submit" value="Get My Newsletter" style="width:120px;">
-                          </form>
-                          <!--REACHMAIL FORM ENDS HERE-->
-                        </fieldset>
-
-                        <fieldset id="member_area" style="top: -3px">
-                            <form action="./MyAccount.asp" method="post" target="_parent">
-                            
-                                <input type="submit" id="signup_button" name="signup" value="REGISTER" style="border: solid 1px #000000; cursor: pointer">
-                            
-                            </form>
-                            <form action="./login.asp" method="post" target="_parent">
-                            
-                                <input type="submit" id="login_button" name="login" value="LOG IN" style="background: #E0E0E0; border: solid 1px #000000; cursor: pointer">
-                            
-                            </form>
-                        </fieldset>
-                        <p style="font-family: 'Times New Roman'; font-size: 16pt; text-align: center; margin: 0px; padding: 0px; padding-top: 45px; line-height: 15pt; color: #486794;"><span style="font-weight: 700; font-style: italic; color: #669966;">My
-                        mission is to empower you<br>to take control of your health.</span> - Dr. Lam, MD</p>
-                        <div style="-webkit-margin-before:13px;left:716px;top:26px;position:absolute;"><!-- -63 -->
-                          <p><a class="cssPopOver" href="./contactus.asp"><img src="./images/_header_callus.png" style="margin:0px;float:right;position:absolute;top:-1px;-webkit-margin-before:-13px;left:22px;"><span class="phone"><img src="./images/callus_icon.png" alt="Contact Us" height="48" width="48"><em>Call Us Local*</em>
-                          <b>United States:</b><!-- +1 --> 626 571 1234<br>
-                          <b>Toll Free:</b><!-- +1 --> 888 375 2688<br><br>
-                          <b>Australia:</b><!-- +61 --> 2 8003 7526<br>
-                      		<b>Denmark:</b><!-- +45 --> 65 71 12 37<br>
-                          <b>Finland:</b><!-- +358 --> 2 3619 1237<br>
-                          <b>Hong Kong:</b><!-- +852 --> 8919 1237<br>
-                          <b>Japan:</b><!-- x +81 --> 50 5809 9237<br>
-                          <b>New Zealand:</b><!-- +64 --> 3 669 0237<br>
-                          <b>South Africa:</b><!-- x +27 --> 110838237<br>
-                          <b>Sweden:</b><!-- +46 --> 40 692 82 37<br>
-                          <b>United Kingdom:</b><!-- +44 --> 20 3290 0237<br><br>
-                          *All calls forwarded to our Los Angeles area office<br><br>
-                          <b>Skype:</b> drlam.cservice</span></a></p><p></p>
-                        </div>
-                    </div> <!-- end header -->
-      <div class="nav_bg editable">
-          <ul>
-          <li><a href="./index.asp">ADRENAL FATIGUE CENTER</a> |</li>
-          <li><a href="./library.asp">RESOURCES</a> |</li>
-          <li><a href="./supplements/index.asp">SUPPLEMENTS</a> |</li>
-          <li><a href="./blog/health-centers/">HEALTH CENTERS</a> |</li>
-          <li><a href="./blog/index.php">BLOG</a> |</li>
-          <li><a href="./our_services.asp">OUR SERVICES</a> |</li>
-          <li><a href="./About_Us.asp">ABOUT US</a> |</li>
-          <li><a href="./contactus.asp">CONTACT US</a></li>
-        </ul>
-      </div>
-
-<div id="toolbarwrap" style="z-index: 9999">
-  <div id="toolbar" class="noPrint">
-    <ul id="toolbar_items" class="editable">
-      <li id="share_link"><a href="#">Share This Page</a>
-      <!--[if IE]>
-      <ul id="share_list_ie">
-        <li><a href="mailto:?&amp;subject=Comprehensive Adrenal Fatigue Article&amp;body=Take%20a%20look%20at%20this%20excellent%20article%20at%20DrLam.com:%20http://www.www.drlam.com/privacystatement.asp">Email</a><img alt="" src="./include/images/email.gif" id="share_email_ie" /></li>
-        <li><a href="http://www.facebook.com/sharer.php?u=http://www.www.drlam.com/privacystatement.asp" target="_blank">Facebook</a><img alt="" src="./include/images/facebook.gif" id="share_facebook_ie" /></li>
-        <li><a href="http://twitter.com/home?status=Currently%20reading:%20http://www.www.drlam.com/privacystatement.asp" target="_blank">Twitter</a><img alt="" src="./include/images/twitter.gif" id="share_twitter_ie" /></li>
-        <li><a href="http://www.reddit.com/submit?url=http://www.www.drlam.com/privacystatement.asp" target="_blank">Reddit</a><img alt="" src="./include/images/reddit.gif" id="share_reddit_ie" /></li>
-        <li><a href="http://digg.com/submit?url=http://www.www.drlam.com/privacystatement.asp&amp;title=Comprehensive%20Adrenal%20Fatigue%20Article%20by%20Dr.%20Lam" target="_blank">Digg</a><img alt="" src="./include/images/digg.gif" id="share_digg_ie" /></li>
-        <li><a href="http://delicious.com/save?v=5&amp;noui&amp;jump=close&amp;url=http://www.www.drlam.com/privacystatement.asp&amp;title=Comprehensive%20Adrenal%20Fatigue%20Article%20by%20Dr.%20Lam" target="_blank">Delicious</a><img alt="" src="./include/images/delicious.gif" id="share_delicious_ie" /></li>
-        <li><a href="http://www.stumbleupon.com/submit?url=http://www.www.drlam.com/privacystatement.asp%26title%3DComprehensive%20Adrenal%20Fatigue%20Article%20by%20Dr.%20Lam" target="_blank">StumbleUpon</a><img alt="" src="./include/images/stumbleupon.gif" id="share_stumbleupon_ie" /></li>
-        <li><a href="http://www.pinterest.com/drlam" target="_blank">Pinterest</a><img id="share_pinterest_ie" src="/include/images/pinterest.gif" alt="" /></li>
-      </ul></li><![endif]-->
-      <ul id="share_list">
-        <li><a href="mailto:?&amp;subject=Comprehensive Adrenal Fatigue Article&amp;body=Take%20a%20look%20at%20this%20excellent%20article%20at%20DrLam.com:%20http://www.www.drlam.com/privacystatement.asp">Email</a>&nbsp;<img id="share_email" src="/include/images/email.gif" alt=""></li>
-        <li><a href="http://www.facebook.com/sharer.php?u=http://www.www.drlam.com/privacystatement.asp" target="_blank">Facebook</a>&nbsp;<img id="share_facebook" src="/include/images/facebook.gif" alt=""></li>
-        <li><a href="http://twitter.com/home?status=Currently%20reading:%20http://www.www.drlam.com/privacystatement.asp" target="_blank">Twitter</a>&nbsp;<img id="share_twitter" src="/include/images/twitter.gif" alt=""></li>
-        <li><a href="http://www.reddit.com/submit?url=http://www.www.drlam.com/privacystatement.asp" target="_blank">Reddit</a>&nbsp;<img id="share_reddit" src="/include/images/reddit.gif" alt=""></li>
-        <li><a href="http://digg.com/submit?url=http://www.www.drlam.com/privacystatement.asp&amp;title=Comprehensive%20Adrenal%20Fatigue%20Article%20by%20Dr.%20Lam" target="_blank">Digg</a>&nbsp;<img id="share_digg" src="/include/images/digg.gif" alt=""></li>
-        <li><a href="http://delicious.com/save?v=5&amp;noui&amp;jump=close&amp;url=http://www.www.drlam.com/privacystatement.asp&amp;title=Comprehensive%20Adrenal%20Fatigue%20Article%20by%20Dr.%20Lam" target="_blank">Delicious</a>&nbsp;<img id="share_delicious" src="/include/images/delicious.gif" alt=""></li>
-        <li><a href="http://www.stumbleupon.com/submit?url=http://www.www.drlam.com/privacystatement.asp%26title%3DComprehensive%20Adrenal%20Fatigue%20Article%20by%20Dr.%20Lam" target="_blank">StumbleUpon</a>&nbsp;<img id="share_stumbleupon" src="/include/images/stumbleupon.gif" alt=""></li>
-        <li><a href="http://www.pinterest.com/drlam" target="_blank">Pinterest</a>&nbsp;<img id="share_pinterest" src="/include/images/pinterest.gif" alt=""></li>
-      </ul></li>
-      <li><a onclick="return hs.htmlExpand(this, { objectType: 'iframe', width: '800', height: '570' } )" href=".//ask_me.asp">Ask Dr. Lam</a></li>
-      <li><g:plusone size="small"></g:plusone></li>
-    </ul>
-  </div>
-</div>
-<script type="text/javascript" src="../../js/jquery-1.7.1.min.js"></script>
-<script type="text/javascript" src="../../js/jquery.sticky.js"></script>
-<script>
-  $(document).ready(function(){
-    $(".sidebar").sticky({topSpacing:64, bottomSpacing:$("#footer").height() + 48});
-  });
-</script>
-
-
-<table class="sidebar">
-  <tbody><tr>
-    <td style="border-color: #336699; background: #336699; background-position: center center; background-image: url('../images/ATDCtA.png')">
-    <div style="color: #FFFFFF; background: transparent; font-size: 24px; text-shadow: 2px 2px 2px #1F1F1F;">Have a Health<br>Question?<br><span style="text-shadow: 3px 3px 2px #1F1F1F; font-size: 19pt">Ask Me For Free!</span></div>
-    <form method="post" action="../Myaccount.asp" name="AskMe">
-      <div style="text-align: center; width: 208px; margin: auto; padding-bottom: 8px; background: transparent">
-        <textarea cols="25" rows="8" name="question" style="width: 200px; height: 100px; max-width: 200px; max-height: 200px; min-width: 200px; min-height: 100px; font-family: Verdana, Geneva, Arial, Helvetica, sans-serif; font-size: 14px; color: #969696; padding: 4px; margin: 8px 0px" onblur="if(this.value == '') {this.style.color = '#969696'; this.value = ''; } " onclick="if(this.style.color == 'rgb(150, 150, 150)' || this.style.color == '#969696') { this.value = ''; this.style.color = '#336699'; }"></textarea>
-        <input type="hidden" name="refPage" value="/privacystatement.asp">
-        <input type="button" name="go" value="Ask Me" style="cursor: pointer; vertical-align: middle; font-size: 14px; font-weight: 700; width: 78px; height: 22px; color: #FFFFFF; border: solid 2px #FFFFFF; background: #DFA5AA;" onclick="javascript:AskMe.submit(); void(0);"><br>
-      </div>
-    </form></td>
-  </tr>
-  <tr>
-    <td style="background: #FFFFFF; border-color: #7F0000">
-    <div style="background: #7F0000; color: #FFFFFF">New From Dr. Lam!</div>
-    <p style="font-style: italic; margin: 0px 2px"><br><a style="color: #7F0000; font-size: 14px; text-decoration: underline; font-weight: bold;" href="http://www.adrenalfatiguesyndromebook.com/"><img alt="" title="" src="./images/afs3D.png" style=""></a></p>
-    <p style="font-size: 14px; font-weight: bold; margin: 0px">Click <a style="color: #7F0000; font-size: 14px; text-decoration: underline; font-weight: bold;" href="http://www.drlam.com/adrenalfatiguesyndromebook.com/">here</a>!<br>&nbsp;</p></td>
-  </tr>
-   <tr>
-		<td style="background:#FFFFFF;border-color:#336699">
-		<div style="background:#336699;color:#FFFFFF">Join Us!</div>
-    <p style="text-align:center;padding:0px;margin:0px">
-    <a href="https://www.facebook.com/drlammd" target="_blank"><img src="../../../images/social-media-facebook.png" style="border:none;padding:16px 0 8px 0"></a>
-    <a href="https://plus.google.com/112025684392651951454/posts" target="_blank"><img src="../../../images/social-media-google.png" style="border:none;padding:8px 0"></a>
-    <a href="https://twitter.com/drlammd" target="_blank"><img src="../../../images/social-media-twitter.png" style="border:none;padding:8px 0 16px 0"></a></p></td>
-	</tr>
-  <tr>
-		<td style="background:#FFFFFF;border-color:#AFC59D">
-		<div style="background:#AFC59D;">Change Font Size</div>
-    <p style="text-align:center;padding:0px;margin:0px">
-    <a style="color:#7F0000;font-size:18px;font-weight:700;text-decoration:none" href="javascript:changeFontSize(18);">A</a>
-    <a style="color:#7F0000;font-size:14px;font-weight:700;text-decoration:none" href="javascript:changeFontSize(0);">A</a>
-    <a style="color:#7F0000;font-size:11px;font-weight:700;text-decoration:none" href="javascript:changeFontSize(11);">A</a></p></td>
-	</tr>
-  <tr>
-    <td style="background: url('./images/vcbg.jpg') bottom center; border-color: #336699">
-    <div style="background: #336699; color: #FFFFFF"><img src="./images/new_button.gif">&nbsp;Video Channel&nbsp;<img src="./images/new_button.gif"></div>
-    <a style="color: #7F0000; font-size: 14px; font-weight: 700; text-decoration: underline" href="./vc">Click here to visit<br>my new Video Channel
-    <img src="./images/vcad.png" style="width: 200px; margin: 8px 0px"></a></td>
-  </tr>
-  <tr>
-    <td style="background: #FFFFFF; border-color: #ACCDFC">
-    <div style="background: #ACCDFC">Related Links</div>
-    <ul>
-      <li><a href="./articles/Top_10_adrenal_fatigue_facts_made_easy.asp">Top 10 Adrenal Fatigue Facts Made Easy</a><br>&nbsp;</li>
-      <li><a href="./articles/adrenal_fatigue.asp">Comprehensive Adrenal Fatigue Article</a><br>&nbsp;</li>
-      <li><a href="./articles/ovarian_adrenal_thyroid.asp">Ovarian Adrenal Thyroid (OAT) Axis Imbalance</a><br>&nbsp;</li>
-      <li><a href="./articles/7mistakesofadrenalfatigue.asp">7 Adrenal Fatigue Recovery Mistakes</a><br>&nbsp;</li>
-      <li><a href="./articles/adrenal_fatigue_myths.asp">Adrenal Fatigue Myths</a><br>&nbsp;</li>
-      <li><a href="./articles/adrenalexhaustion.asp">Adrenal Fatigue Stage 3 (Adrenal Exhaustion)</a><br>&nbsp;</li>
-      <li><a href="./articles/adrenal_fatigue_and_body_types.asp">Adrenal Fatigue and Body Types</a><br>&nbsp;</li>
-      <div id="toggle_relatedlinks" class="hidden" style="font-weight: 400; font-size: 14px; line-height: 120%">
-        <li><a href="./articles/adrenal_crash_and_recovery_cycle.asp">Adrenal Crash and Recovery Cycle</a><br>&nbsp;</li>
-        <li><a href="./articles/adrenal_fatigue_and_exercise.asp">Adrenal Fatigue and Exercise</a><br>&nbsp;</li>
-        <li><a href="./articles/adrenal_fatigue_related_conditions.asp">Adrenal Fatigue Related Health Conditions</a><br>&nbsp;</li>
-        <li><a href="./articles/adrenal_fatigue_and_hormone.asp">Adrenal Fatigue and Hormone Therapy</a><br>&nbsp;</li>
-        <li><a href="./articles/adrenal_fatigue_and_hypoglycemia.asp">Adrenal Fatigue and Hypoglycemia</a><br>&nbsp;</li>
-        <li><a href="./articles/adrenal_fatigue_and_blood_pressure.asp">Adrenal Fatigue and Blood Pressure</a><br>&nbsp;</li>
-        <li><a href="./articles/adrenalrecovery.asp">Adrenal Fatigue Recovery</a><br>&nbsp;</li>
-        <li><a href="./articles/adrenal_fatigue_and_sleep.asp">Adrenal Fatigue and Sleep</a><br>&nbsp;</li>
-        <li><a href="./articles/adrenal_fatigue_and_toxic_relationships.asp">Adrenal Fatigue and Toxic Relationships</a><br>&nbsp;</li>
-        <li><a href="./articles/adrenalfatiguevshypothyroidism.asp">Adrenal Fatigue vs. Hypothyroidism</a><br>&nbsp;</li>
-        <li><a href="./articles/pantothenic_acid_and_pantethine.asp">Pantothenic Acid and Pantethine</a><br>&nbsp;</li>
-        <li><a href="./articles/adrenal_fatigue_glandular_and_herbal_therapy.asp">Adrenal Fatigue Glandular and Herbal Therapy</a><br>&nbsp;</li>
-        <li><a href="./askarchive/askarchive.asp">Ask Me Archives</a><br>&nbsp;</li>
-        <li><a href="./conditioncareguide/adrenalhealth.asp?tab=5&amp;condition=adrenalhealth">Frequently Asked Questions</a><br>&nbsp;</li>
-        <li><a href="./articles/estrogen_dominance.asp">Estrogen Dominance</a><br>&nbsp;</li>
-        <li><a href="./articles/hypothyroidism.asp">Hypothyroidism</a><br>&nbsp;</li>
-        <li><a href="./articles/progesterone.asp">Progesterone</a><br>&nbsp;</li>
-        <li><a href="./articles/liposomal_encapsulation_technology.asp">Liposomal Encapsulation Technology</a><br>&nbsp;</li>
-      </div>
-    </ul>
-    <p><a style="font-weight: 700; cursor: pointer; text-decoration: underline; color: #0000FF" onclick="javascript:unhide('toggle_relatedlinks'); if(this.innerHTML == 'View More…') this.innerHTML = 'View Less…'; else this.innerHTML = 'View More…';">View More…</a></p></td>
-  </tr>
-  <tr>
-    <td style="border-color: #336699;">
-    <div style="background: #336699; color: #FFFFFF">Client Reviews</div><p style="font-size: 12pt; font-weight: 700; text-align: left; padding: 0px 4px; margin: 1.22em 0px 8px 0px">Andie expresses her gratitude for her improved quality of life that she found by following a personalized program from Dr. Lam's Nutritional Coaching Team.</p>
-    <object style="margin-left: 4px; width: 200px; height: 122px;">
-      <param name="movie" value="http://www.youtube.com/v/FN717tEr6fI?version=3">
-      <param name="allowFullScreen" value="true">
-      <param name="allowScriptAccess" value="always">
-      <param name="wmode" value="opaque">
-      <embed wmode="opaque" src="http://www.youtube.com/v/FN717tEr6fI?version=3" type="application/x-shockwave-flash" allowfullscreen="true" allowscriptaccess="always" width="200" height="122">
-    </object><br>&nbsp;<br>
-    <a href="./our_services.asp#reviews">Click here to read other reviews!</a></td>
-  </tr>
-  <tr>
-    <td style="background: #336699; border: 0px">
-    <script type="text/javascript">
-      featuredcontentglider.init({
-        gliderid: "slideshow", //ID of main glider container
-        contentclass: "glidecontent", //Shared CSS class name of each glider content
-        togglerid: "p-select", //ID of toggler container
-        remotecontent: "", //Get gliding contents from external file on server? "filename" or "" to disable
-        selected: 0, //Default selected content index (0=1st)
-        persiststate: false, //Remember last content shown within browser session (true/false)?
-        speed: 500, //Glide animation duration (in milliseconds)
-        direction: "rightleft", //set direction of glide: "updown", "downup", "leftright", or "rightleft"
-        autorotate: true, //Auto rotate contents (true/false)?
-        autorotateconfig: [4000, 0] //if auto rotate enabled, set [milliseconds_btw_rotations, cycles_before_stopping]
-      })
-    </script>
-    <div id="slideshow" class="glidecontentwrapper" style="background: #E8E8E8; width: 220px; height: 153px; border: 0px; border-bottom: solid 1px #000000">
-      <div class="glidecontent" style="background: #E8E8E8; width: 220px; height: 153px"><a href="./opinion/anti-agingstrategiesbrief.asp"><img alt="" src="./images/slide100strategies.jpg" class="glideimage" style="width: 220px; height: 153px"></a></div>
-      <div class="glidecontent" style="background: #E8E8E8; width: 220px; height: 153px"><a href="./adrenalfatiguecenter/index.asp"><img alt="" src="./images/slideadrenalfatigue.jpg" class="glideimage" style="width: 220px; height: 153px"></a></div>
-      <div class="glidecontent" style="background: #E8E8E8; width: 220px; height: 153px"><a href="./blood_type_diet/index.asp"><img alt="" src="./images/slidebloodtypediet.jpg" style="width: 220px; height: 153px" class="glideimage"></a></div>
+<body>
+	<div class="navbar navbar-default navbar-fixed-top dl-navbar-top" role="navigation">
+	    <!--<div class="visible-md visible-lg temp-notice"><div class="container">DrLam.com has been redesigned! Give us your feedback <a href="./ContactUs.asp">here</a></div></div>-->
+    	<div class="container">
+        	<div class="navbar-header">
+          		<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#dl-navbar-collapse-top">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+          		</button>
+          		<a class="navbar-brand dl-brand" href="./">
+                    <img src="./images/logo.png" alt="Dr. Lam logo">
+          		</a>
+          		<a class="dl-small-brand" href="./">
+                    <img src="./images/logo.png" alt="Dr. Lam logo">
+                </a>
+                <ul class="dl-flex-nav visible-xs visible-sm visible-md">
+                    <li><a href="./blog/index.php" class="visible-md">Blog</a></li>
+                    <li><a href="./our_services.asp" class="visible-sm visible-md">Services</a></li>
+                    <li><a href="./About_Us.asp" class="visible-md">About</a></li>
+                    <li><a href="./ContactUs.asp" class="visible-sm visible-md">Contact</a></li>
+                    <li><a href="./Login.asp">Log In</a></li>
+                    <li><a href="./MyAccount.asp" class="dl-register">Register</a></li>
+                </ul>
+        	</div>
+        	<div class="navbar-collapse collapse dl-navbar" id="dl-navbar-collapse-top">
+            	<ul class="nav navbar-nav">
+                    <li><a href="./library.asp">Resources</a></li>
+                    <li><a href="./blog/health-centers/">Health Centers</a></li>
+                    <li><a href="./blog/index.php" class="visible-xs visible-sm visible-lg">Blog</a></li>
+                    <li><a href="./our_services.asp" class="visible-xs visible-lg">Services</a></li>
+                    <li><a href="./About_Us.asp" class="visible-xs visible-sm visible-lg">About</a></li>
+                    <li><a href="./ContactUs.asp" class="visible-xs visible-lg">Contact</a></li>
+                    <li><a href="./Login.asp" class="visible-lg">Log In</a></li>
+                    <li><a href="./MyAccount.asp" class="dl-register visible-lg">Register</a></li>
+                    <li><a href="#" class="visible-xs" data-toggle="modal" data-target="#dl-af-essentials">AF Essentials</a></li>
+                    <li><a href="#" class="visible-xs" data-toggle="modal" data-target="#dl-af-more">More AF Info</a></li>
+                    <li><a href="#" class="visible-xs" data-toggle="modal" data-target="#dl-af-recovery">AF Recovery</a></li>
+                    <li><a href="#" class="visible-xs" data-toggle="modal" data-target="#dl-af-complications">AF Complications</a></li>
+                    <li><a href="./vc" class="visible-xs">Video Channel</a></li>
+                    <li><a href="#" class="visible-xs" data-toggle="modal" data-target="#dl-lang">Language</a></li>
+                </ul>
+          		<script type="text/javascript" src="http://www.google.com/cse/brand?form=cse-search-box&amp;lang=en"></script>
+                <form class="navbar-form navbar-right" role="form" action="./search.asp" id="cse-search-box">
+                    <input type="hidden" name="cx" value="partner-pub-7963028063620295:gob5ry-vk68">
+                    <input type="hidden" name="cof" value="FORID:9">
+                    <input type="hidden" name="ie" value="ISO-8859-1">
+                    <div class="input-group dl-search">
+                        <input type="text" class="form-control" name="q" id="google_bar" placeholder="Search">
+                        <span class="input-group-btn">
+                            <button class="btn btn-default" type="submit" name="sa" value="Search">Go</button>
+                        </span>
+                    </div><!-- /input-group -->
+                </form>
+        	</div><!--/.navbar-collapse -->
+		</div>
     </div>
-    <div class="notranslate" style="background: #336699; width: 220px; position: relative; overflow: hidden; margin-top: 3px">
-      <div class="notranslate" style="background: #336699; float: left; position: relative; left: 50%">
-        <div id="p-select" class="notranslate glidecontenttoggler" style="background: #336699; float: left; position: relative; left: -50%">
-          <a href="#" class="white prev"><span style="line-height: 2.44em !important">«</span></a>
-          <a href="#" class="white toc"><span>Anti-<br>Aging</span></a>
-          <a href="#" class="white toc"><span>Adrenal<br>Fatigue</span></a>
-          <!-- <a href="#" class="white toc"><span>Hormonal<br />Imbalance</span></a> -->
-          <a href="#" class="white toc"><span>Blood<br>Type Diet</span></a>
-          <a href="#" class="white next"><span style="line-height: 2.44em !important">»</span></a>
+
+    <!-- second line menu bar -->
+    <div class="dl-header-2 visible-sm visible-md visible-lg">
+        <div class="container text-center visible-xs visible-sm">
+            <button type="button" class="btn btn-primary btn-sm" data-toggle="modal" data-target="#dl-af-essentials">AF Essentials</button>
+            <button type="button" class="btn btn-primary btn-sm" data-toggle="modal" data-target="#dl-af-more">More AF Info</button>
+            <button type="button" class="btn btn-primary btn-sm" data-toggle="modal" data-target="#dl-af-recovery">AF Recovery</button>
+            <button type="button" class="btn btn-primary btn-sm" data-toggle="modal" data-target="#dl-af-complications">AF Complications</button>
+            <a href="./vc" class="btn btn-primary btn-sm" role="button">Video Channel</a>
+            <button type="button" class="btn btn-success btn-sm" data-toggle="modal" data-target="#dl-lang">Language</button>
         </div>
-      </div>
-    </div><br></td>
-  </tr>
-  <tr>
-    <td style="background: #FFFFFF; border-color: #AFC59C">
-    <div style="background: #AFC59C;">Need to Know</div>
-    <ul>
-      <li><p><a href="./articles/adrenal_fatigue.asp">Comprehensive Article on Adrenal Fatigue</a><br>
-        Read the most complete and extensive article on the web about Adrenal Fatigue. This article covers everything you need to know about Adrenal Fatigue.</p>
-      </li>
-      <li><p><a href="./articles/Top_10_adrenal_fatigue_facts_made_easy.asp">Top 10 Adrenal Fatigue Facts Made Easy</a><br>
-        There are many facts about Adrenal Fatigue. Here are the Top 10 to help you with you get a better understanding of the condition.</p>
-      </li>
-      <li><p><a href="./articles/Adrenal_Fatigue_Myths.asp">Adrenal Fatigue Myths</a><br>
-        There are many misconceptions about Adrenal Fatigue. Learn about some of the more common myths associated with Adrenal Fatigue to stay informed.</p>
-      </li>
-      <div id="toggle_needtoknow" class="hidden" style="font-weight: 400; font-size: 14px; line-height: 120%">
-        <li><p><a href="./articles/adrenalexhaustion.asp">Adrenal Exhaustion</a><br>
-          Adrenal Exhaustion is the third stage of Adrenal Fatigue. Find out what signs and symptoms to watch out for and why it affects you.</p>
-        </li>
-        <li><p><a href="./articles/ovarian_adrenal_thyroid.asp">O.A.T. Axis Imbalance</a><br>
-          The ovaries, adrenals, and the thyroid gland must all be in a state of optimum balance for a woman to feel good. Find out more on this state of imbalance here.</p>
-        </li>
-        <li><p><a href="./articles/Adrenal_Fatigue_and_Body_Types.asp">Adrenal Fatigue and Body Types</a><br>
-          Everyone's body deals with Adrenal Fatigue differently. It is important to know which body type you have to help in your recovery.</p>
-        </li>
-        <li><p><a href="./articles/Adrenal_crash_and_recovery_cycle.asp">Crash &amp; Recovery Cycles</a><br>
-          Do you have Adrenal Fatigue and have you crashed before? Learn about the crash and recovery cycle so you can manage your next crash.</p>
-        </li>
-        <li><p><a href="./articles/adrenal_fatigue_related_conditions.asp">Adrenal Fatigue-Related Health Conditions</a><br>
-          Weak adrenals can lead to many systematic de-compensatory actions and show many symptoms. Find out what else is being affected by your adrenals here.</p>
-        </li>
-      </div>
-    </ul>
-    <p><a style="font-weight: 700; cursor: pointer; text-decoration: underline; color: #0000FF" onclick="javascript:unhide('toggle_needtoknow'); if(this.innerHTML == 'View More…') this.innerHTML = 'View Less…'; else this.innerHTML = 'View More…';">View More…</a></p></td>
-  </tr>
+        <div class="container text-center visible-md visible-lg">
+            <div class="btn-group">
+                <button class="btn btn-primary dropdown-toggle" type="button" data-toggle="dropdown" data-hover="dropdown" aria-expanded="true">
+                    Adrenal Fatigue Essentials
+                    <span class="caret"></span>
+                </button>
+                <ul class="dropdown-menu" role="menu">
+                    <li><a href="../../../../../../../articles/adrenal_fatigue.asp">Adrenal Fatigue Syndrome</a></li>
+                    <li><a href="../../../../../../../articles/Top_10_adrenal_fatigue_facts_made_easy.asp">Top 10 Adrenal Fatigue Facts Made Easy</a></li>
+                    <li><a href="../../../../../../../articles/Adrenal_Fatigue_Myths.asp">Adrenal Fatigue Myths</a></li>
+                    <li><a href="../../../../../../../articles/adrenalexhaustion.asp">Adrenal Exhaustion</a></li>
+                    <li><a href="../../../../../../../articles/ovarian_adrenal_thyroid.asp">O.A.T. Axis Imbalance</a></li>
+                    <li><a href="../../../../../../../articles/why_conventional_medicine_rejects_adrenal_fatigue.asp">Why Conventional Medicine Rejects Adrenal Fatigue</a></li>
+                    <li><a href="../../../../../../../articles/Adrenal_Fatigue_and_Body_Types.asp">Adrenal Fatigue &amp; Body Types</a></li>
+                    <li><a href="../../../../../../../articles/Adrenal_crash_and_recovery_cycle.asp">Crash &amp; Recovery Cycles</a></li>
+                    <li><a href="../../../../../../../articles/adrenal_fatigue_related_conditions.asp">Adrenal Fatigue-Related Health Conditions</a></li>
+                    <li><a href="/conditioncareguide/adrenalhealth.asp?tab=5&amp;condition=adrenalhealth">Adrenal Fatigue FAQ</a></li>
+                </ul>
+            </div>
+            <div class="btn-group">
+                <button class="btn btn-primary dropdown-toggle" type="button" data-toggle="dropdown" data-hover="dropdown" aria-expanded="true">
+                    More AF Info
+                    <span class="caret"></span>
+                </button>
+                <ul class="dropdown-menu" role="menu">
+                    <li><a href="../../../../../../../blog/fluid-balance-and-adrenal-fatigue-syndrome/4997/">Fluid Balance &amp; Adrenal Fatigue Syndrome</a></li>
+                    <li><a href="../../../../../../../blog/acupuncture-tcm-and-adrenal-fatigue-syndrome/4603/">Acupuncture, TCM, &amp; Adrenal Fatigue Syndrome</a></li>
+                    <li><a href="../../../../../../../blog/reproductive-system-disruptions-and-adrenal-fatigue-syndrome/4745/">Reproductive System Disruptions &amp; Adrenal Fatigue Syndrome</a></li>
+                    <li><a href="../../../../../../../blog/electromagnetic-fields-emf-and-adrenal-fatigue-syndrome/4410/"> Electromagnetic Fields (EMF) &amp; Adrenal Fatigue Syndrome</a></li>
+                    <li><a href="../../../../../../../blog/adrenal-fatigue-syndrome-in-teenagers-and-young-adults/4484/">Adrenal Fatigue Syndrome in Teenagers &amp; Young Adults</a></li>
+                    <li><a href="../../../../../../../articles/adrenal_fatigue_and_laboratory_testing.asp">Laboratory Testing</a></li>
+                    <li><a href="../../../../../../../articles/Adrenal_Fatigue_and_Toxic_Relationships.asp">Adrenal Fatigue &amp; Toxic Relationships</a></li>
+                    <li><a href="../../../../../../../articles/Adrenal_fatigue_and_hypoglycemia.asp"> Adrenal Fatigue &amp; Hypoglycemia</a></li>
+                    <li><a href="../../../../../../../articles/Adrenal_Fatigue_and_Blood_Pressure.asp">Adrenal Fatigue &amp; Blood Pressure</a></li>
+                    <li><a href="../../../../../../../videos/Fibromyalgia_and_Adrenal_Fatigue.asp">Fibromyalgia &amp; Adrenal Fatigue</a></li>
+                    <li><a href="../../../../../../../videos/prezi00001.asp">Chronic Fatigue Syndrome &amp; Adrenal Fatigue</a></li>
+                    <li><a href="../../../../../../../articles/Estrogen_Dominance.asp">Estrogen Dominance</a></li>
+                    <li><a href="../../../../../../../articles/75_Signs_Symptoms_and_alerts_of_AFS.asp">75 Signs, Symptoms and Alerts of Adrenal Fatigue Syndrome</a></li>
+                </ul>
+            </div>
+            <div class="btn-group">
+                <button class="btn btn-primary dropdown-toggle" type="button" data-toggle="dropdown" data-hover="dropdown" aria-expanded="true">
+                    AF Recovery
+                    <span class="caret"></span>
+                </button>
+                <ul class="dropdown-menu" role="menu">
+                    <li><a href="../../../../../../../blog/pyroluria-and-adrenal-fatigue-syndrome/5273/">Pyroluria &amp; Adrenal Fatigue Syndrome</a></li>
+                    <li><a href="../../../../../../../blog/mthfr-and-adrenal-fatigue-syndrome/4549/">MTHFR &amp; Adrenal Fatigue Syndrome</a></li>
+                    <li><a href="../../../../../../../blog/snacks-and-adrenal-fatigue-syndrome/3408/">Snacks &amp; Adrenal Fatigue Syndrome</a></li>
+                    <li><a href="../../../../../../../blog/anxiety-and-adrenal-fatigue-syndrome/4445/">Anxiety &amp; Adrenal Fatigue Syndrome</a></li>
+                    <li><a href="../../../../../../../blog/weight-loss-and-adrenal-fatigue/3065/">Weight Loss &amp; Adrenal Fatigue</a></li>
+                    <li><a href="../../../../../../../blog/heat-therapy-and-adrenal-fatigue-syndrome/2525/">Heat Therapy &amp; Adrenal Fatigue Syndrome</a></li>
+                    <li><a href="../../../../../../../articles/7mistakesofadrenalfatigue.asp">7 Adrenal Fatigue Recovery Mistakes</a></li>
+                    <li><a href="../../../../../../../articles/adrenalrecovery.asp">Adrenal Fatigue Recovery - Am I On The Right Track?</a></li>
+                    <li><a href="../../../../../../../articles/Adrenal_Fatigue_Glandular_and_Herbal_Therapy.asp">Adrenal Fatigue Glandular &amp; Herbal Therapy</a></li>
+                    <li><a href="../../../../../../../articles/Adrenal_fatigue_and_hormone.asp">Adrenal Fatigue &amp; Hormone Therapy</a></li>
+                    <li><a href="../../../../../../../articles/Adrenal_Fatigue_and_Exercise.asp">Adrenal Fatigue &amp; Exercise</a></li>
+                    <li><a href="../../../../../../../articles/Adrenal_Fatigue_and_Sleep.asp">Adrenal Fatigue &amp; Sleep</a></li>
+                    <li><a href="../../../../../../../articles/progesterone.asp">Progesterone</a></li>
+                    <li><a href="../../../../../../../articles/Liposomal_Encapsulation_Technology.asp">Liposomal Encapsulation Technology</a></li>
+                </ul>
+            </div>
+            <div class="btn-group">
+                <button class="btn btn-primary dropdown-toggle" type="button" data-toggle="dropdown" data-hover="dropdown" aria-expanded="true">
+                    AF Complications
+                    <span class="caret"></span>
+                </button>
+                <ul class="dropdown-menu" role="menu">
+                    <li><a href="../../../../../../../blog/adrenals-and-thyroid-connection/5298/">Adrenals &amp; Thyroid Connection</a></li>
+                    <li><a href="../../../../../../../blog/biological-rhythm-disruptions-and-adrenal-fatigue-syndrome/5615/">Biological Rhythm Disruptions &amp; AFS</a></li>
+                    <li><a href="../../../../../../../blog/brain-fog/1962/">Brain Fog</a></li>
+                    <li><a href="../../../../../../../blog/catabolic-state-and-adrenal-fatigue-syndrome/">Catabolic State &amp; Adrenal Fatigue Syndrome</a></li>
+                    <li><a href="../../../../../../../blog/copper-overload-and-adrenal-fatigue-syndrome/4820/">Copper Overload &amp; Adrenal Fatigue Syndrome</a></li>
+                    <li><a href="../../../../../../../blog/detoxification-and-adrenal-fatigue-syndrome/3114/">Detoxification &amp; Adrenal Fatigue Syndrome</a></li>
+                    <li><a href="../../../../../../../blog/essential-oils-and-adrenal-fatigue-syndrome/5560/">Essential Oils &amp; Adrenal Fatigue Syndrome</a></li>
+                    <li><a href="../../../../../../../blog/extracellular-matrix-and-adrenal-fatigue-syndrome/4970/">Extracellular Matrix (ECM) &amp; Adrenal Fatigue Syndrome</a></li>
+                    <li><a href="../../../../../../../blog/fermented-herbs-and-adrenal-fatigue-syndrome/4665/">Fermented Herbs &amp; Adrenal Fatigue Syndrome</a></li>
+                    <li><a href="../../../../../../../blog/gratitude-and-advanced-adrenal-fatigue-syndrome/4772/">Gratitude &amp; Advanced Adrenal Fatigue Syndrome</a></li>
+                    <li><a href="../../../../../../../blog/histamine-and-adrenal-fatigue-syndrome/4642/">Histamine &amp; Adrenal Fatigue Syndrome</a></li>
+                    <li><a href="../../../../../../../blog/liver-congestion-and-adrenal-fatigue-syndrome/4945/">Liver Congestion &amp; Adrenal Fatigue Syndrome</a></li>
+                    <li><a href="../../../../../../../blog/mitochondrial-diseases-and-adrenal-fatigue-syndrome/5337/">Mitochondrial Diseases &amp; Adrenal Fatigue Syndrome</a></li>
+                    <li><a href="../../../../../../../blog/neurotransmitter-balance-and-adrenal-fatigue-syndrome/5544/">Neurotransmitters &amp; Adrenal Fatigue Syndrome</a></li>
+                    <li><a href="../../../../../../../blog/niacin-as-a-detoxing-tool-and-sleep-aid/4420/">Niacin as a Detoxing Tool &amp; Sleep Aid</a></li>
+                    <li><a href="../../../../../../../blog/postural-orthostatic-tachycardia-syndrome-and-adrenal-fatigue-syndrome/5116/">POTS &amp; Adrenal Fatigue Syndrome</a></li>
+                    <li><a href="../../../../../../../blog/receptor_disorders_and_adrenal_fatigue_syndrome/5205/">Receptor Disorders &amp; Adrenal Fatigue Syndrome</a></li>
+                    <li><a href="../../../../../../../blog/retoxification-reaction-and-adrenal-fatigue-syndrome/5061/">Retoxification &amp; Adrenal Fatigue Syndrome</a></li>
+                    <li><a href="../../../../../../../blog/stealth-infection-and-adrenal-fatigue-syndrome/4714/">Stealth Infection &amp; Adrenal Fatigue Syndrome</a></li>
+                </ul>
+            </div>
+            <a href="./vc" class="btn btn-primary" role="button">Video Channel</a>
+            <div class="btn-group">
+                <button class="btn btn-success dropdown-toggle" type="button" data-toggle="dropdown" data-hover="dropdown" aria-expanded="true">
+                    Language
+                    <span class="caret"></span>
+                </button>
+                <ul class="dropdown-menu" role="menu">
+                    <li><a href="http://www.drlam.com">English</a></li>
+                    <li><a href="#" onclick="window.open('http://translate.google.com/translate?u='+encodeURIComponent(location.href)+'&amp;hl=en&amp;langpair=auto|fr&amp;tbb=1'); return false;">French</a></li>
+                    <li><a href="#" onclick="window.open('http://translate.google.com/translate?u='+encodeURIComponent(location.href)+'&amp;hl=en&amp;langpair=auto|de&amp;tbb=1'); return false;">German</a></li>
+                    <li><a href="#" onclick="window.open('http://translate.google.com/translate?u='+encodeURIComponent(location.href)+'&amp;hl=en&amp;langpair=auto|es&amp;tbb=1'); return false;">Spanish</a></li>
+                    <li><a href="#" onclick="window.open('http://translate.google.com/translate?u='+encodeURIComponent(location.href)+'&amp;hl=en&amp;langpair=auto|it&amp;tbb=1'); return false;">Italian</a></li>
+                    <li><a href="#" onclick="window.open('http://translate.google.com/translate?u='+encodeURIComponent(location.href)+'&amp;hl=en&amp;langpair=auto|nl&amp;tbb=1'); return false;">Dutch</a></li>
+                    <li><a href="#" onclick="window.open('http://translate.google.com/translate?u='+encodeURIComponent(location.href)+'&amp;hl=en&amp;langpair=auto|ru&amp;tbb=1'); return false;">Russian</a></li>
+                    <li><a href="#" onclick="window.open('http://translate.google.com/translate?u='+encodeURIComponent(location.href)+'&amp;hl=en&amp;langpair=auto|pt&amp;tbb=1'); return false;">Portuguese</a></li>
+                    <li><a href="#" onclick="window.open('http://translate.google.com/translate?u='+encodeURIComponent(location.href)+'&amp;hl=en&amp;langpair=auto|ja&amp;tbb=1'); return false;">Japanese</a></li>
+                    <li><a href="#" onclick="window.open('http://translate.google.com/translate?u='+encodeURIComponent(location.href)+'&amp;hl=en&amp;langpair=auto|ko&amp;tbb=1'); return false;">Korean</a></li>
+                    <li><a href="#" onclick="window.open('http://translate.google.com/translate?u='+encodeURIComponent(location.href)+'&amp;hl=en&amp;langpair=auto|ar&amp;tbb=1'); return false;">Arabic</a></li>
+                    <li><a href="#" onclick="window.open('http://translate.google.com/translate?u='+encodeURIComponent(location.href)+'&amp;hl=en&amp;langpair=auto|zh-CN&amp;tbb=1'); return false;">Chinese Simplified</a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
 
-</tbody></table>
-  <div> <!-- todo: fix this orphaned div -->
-    <div class="article" style="padding-bottom: 0px; margin-bottom: 16px;">
+    <div class="jumbotron dl-header dl-inner-header">
+      	<div class="container">
+            <div class="row visible-md visible-lg">
+                <div class="col-md-7" id="dl-left-header">
+                    <p class="dl-title">
+                        Adrenal Fatigue Center<br><small>Empowering Sufferers Since 2001</small>
+                    </p>
+                    <!--
+                    <p class="text-uppercase">
+                        <a class="btn btn-warning btn-lg dl-wrap-btn callBtn" role="button">
+                            <span class="glyphicon glyphicon-earphone" aria-hidden="true"></span>
+                            Call Us for Free! 1-888-DRLAM-88
+                        </a>
+                    </p>
+                    -->
 
-  <div style="float: left">
+                    <a class="callBtn" role="button">
+                        <ul id="js-news" class="js-hidden">
+                            <li class="news-item"><span class="glyphicon glyphicon-earphone" aria-hidden="true"></span> Call Us for Free! &nbsp;&nbsp;1-888-DRLAM-88</li>
+                            <li class="news-item"><span class="glyphicon glyphicon-earphone" aria-hidden="true"></span> Call Us for Free! &nbsp;&nbsp;USA : &nbsp;&nbsp;626 571 1234</li>
+                            <li class="news-item"><span class="glyphicon glyphicon-earphone" aria-hidden="true"></span> Call Us for Free! &nbsp;&nbsp;Australia : &nbsp;&nbsp;+61 2 8003 7526</li>
+                            <li class="news-item"><span class="glyphicon glyphicon-earphone" aria-hidden="true"></span> Call Us for Free! &nbsp;&nbsp;Denmark : &nbsp;&nbsp;+45 65 71 12 37</li>
+                            <li class="news-item"><span class="glyphicon glyphicon-earphone" aria-hidden="true"></span> Call Us for Free! &nbsp;&nbsp;Finland : &nbsp;&nbsp;+358 2 3619 1237</li>
+                            <li class="news-item"><span class="glyphicon glyphicon-earphone" aria-hidden="true"></span> Call Us for Free! &nbsp;&nbsp;Hong Kong : &nbsp;&nbsp;+852 8191 1237</li>
+                            <li class="news-item"><span class="glyphicon glyphicon-earphone" aria-hidden="true"></span> Call Us for Free! &nbsp;&nbsp;Japan : &nbsp;&nbsp;+81 50 5809 9237</li>
+                            <li class="news-item"><span class="glyphicon glyphicon-earphone" aria-hidden="true"></span> Call Us for Free! &nbsp;&nbsp;New Zealand : &nbsp;&nbsp;+64 3 669 0237</li>
+                            <li class="news-item"><span class="glyphicon glyphicon-earphone" aria-hidden="true"></span> Call Us for Free! &nbsp;&nbsp;South Africa : &nbsp;&nbsp;+27 110 838 237</li>
+                            <li class="news-item"><span class="glyphicon glyphicon-earphone" aria-hidden="true"></span> Call Us for Free! &nbsp;&nbsp;Sweden : &nbsp;&nbsp;+46 40 692 82 37</li>
+                            <li class="news-item"><span class="glyphicon glyphicon-earphone" aria-hidden="true"></span> Call Us for Free! &nbsp;&nbsp;UK : &nbsp;&nbsp;+44 20 3290 0237</li>
+                        </ul>
+                    </a>
+                </div>
+                <div class="col-md-5">
+                    <h2 class="text-center">Watch Our Testimonials</h2>
+                    <div class="dl-vid-container center-block">
+                        <div class="dl-vid dl-vid-0"></div>
+                        <div class="dl-vid dl-vid-1"></div>
+                        <div class="clearfix"></div>
+                    </div>
+                </div>
+            </div>
+            <div class="row visible-xs visible-sm">
+                <p class="dl-title">
+                    Adrenal Fatigue Center<br><small>Empowering Sufferers Since 2001</small>
+                </p>
+                <div class="dl-intro">
+                    <h2 class="text-center">Watch Our Testimonials</h2>
+                    <div class="dl-vid-container center-block">
+                        <div class="dl-vid dl-vid-0"></div>
+                        <div class="dl-vid dl-vid-1"></div>
+                        <div class="clearfix"></div>
+                    </div>
+                </div>
+                <!--
+                <p class="text-uppercase">
+                    <br />
+                    <a class="btn btn-warning btn-lg dl-wrap-btn callBtn" role="button">
+                        <span class="glyphicon glyphicon-earphone" aria-hidden="true"></span>
+                        Call Us for Free! 1-888-DRLAM-88
+                    </a>
+                </p>
+                -->
 
-  </div>
-  <!-- BEGIN listen now odiogo.com #3 -->
-  <script type="text/javascript" language="javascript">
-    showInitialOdiogoReadNowFrame(_odiogo_feed_id, 'www.DrLam.com Privacy Statement', 290, 0);
-  </script>
-  <!-- END listen now odiogo.com #3 -->
+                <a class="callBtn" role="button">
+                    <ul id="js-news2" class="js-hidden">
+                        <li class="news-item"><span class="glyphicon glyphicon-earphone" aria-hidden="true"></span> Call Us for Free!<br>1-888-DRLAM-88</li>
+                        <li class="news-item"><span class="glyphicon glyphicon-earphone" aria-hidden="true"></span> Call Us for Free!<br>USA : &nbsp;&nbsp;626 571 1234</li>
+                        <li class="news-item"><span class="glyphicon glyphicon-earphone" aria-hidden="true"></span> Call Us for Free!<br>Australia : &nbsp;&nbsp;+61 2 8003 7526</li>
+                        <li class="news-item"><span class="glyphicon glyphicon-earphone" aria-hidden="true"></span> Call Us for Free!<br>Denmark : &nbsp;&nbsp;+45 65 71 12 37</li>
+                        <li class="news-item"><span class="glyphicon glyphicon-earphone" aria-hidden="true"></span> Call Us for Free!<br>Finland : &nbsp;&nbsp;+358 2 3619 1237</li>
+                        <li class="news-item"><span class="glyphicon glyphicon-earphone" aria-hidden="true"></span> Call Us for Free!<br>Hong Kong : &nbsp;&nbsp;+852 8191 1237</li>
+                        <li class="news-item"><span class="glyphicon glyphicon-earphone" aria-hidden="true"></span> Call Us for Free!<br>Japan : &nbsp;&nbsp;+81 50 5809 9237</li>
+                        <li class="news-item"><span class="glyphicon glyphicon-earphone" aria-hidden="true"></span> Call Us for Free!<br>New Zealand : &nbsp;&nbsp;+64 3 669 0237</li>
+                        <li class="news-item"><span class="glyphicon glyphicon-earphone" aria-hidden="true"></span> Call Us for Free!<br>South Africa : &nbsp;&nbsp;+27 110 838 237</li>
+                        <li class="news-item"><span class="glyphicon glyphicon-earphone" aria-hidden="true"></span> Call Us for Free!<br>Sweden : &nbsp;&nbsp;+46 40 692 82 37</li>
+                        <li class="news-item"><span class="glyphicon glyphicon-earphone" aria-hidden="true"></span> Call Us for Free!<br>UK : &nbsp;&nbsp;+44 20 3290 0237</li>
+                    </ul>
+                </a>
+            </div>
+        </div>
+    </div>
 
-<div class="articleheader centered">www.DrLam.com Privacy Statement</div>
+
+    <div class="container">
+        <div class="row">
+
+            <div class="col-md-9 dl-article">
+
+                <h1>Privacy Statement<br>
+</h1>
+
+                <!--socmed buttons-->
+                <a href="http://www.facebook.com/sharer.php?u=http://www.drlam.com/privacystatement.asp" target="_blank" role="button" class="btn btn-primary" aria-label="Share on Facebook">
+                    <span class="glyphicon socicon socicon-facebook" aria-hidden="true"></span>
+                </a>
+                <a href="http://twitter.com/home?status=Currently%20reading:%20http://www.drlam.com/privacystatement.asp" target="_blank" srole="button" class="btn btn-info" aria-label="Share on Twitter">
+                    <span class="glyphicon socicon socicon-twitter" aria-hidden="true"></span>
+                </a>
+                <a href="https://plus.google.com/share?url=http://www.drlam.com/privacystatement.asp" role="button" class="btn btn-danger" aria-label="Share on Google+">
+                    <span class="glyphicon socicon socicon-google-plus" aria-hidden="true"></span>
+                </a>
+                <div class="btn-group" role="group" aria-label="Print">
+                    <a href="#" role="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown" aria-expanded="false">
+                        <span class="glyphicon glyphicon-print" aria-hidden="true"></span>
+                    </a>
+                    <ul class="dropdown-menu" role="menu">
+                        <li><a href="?pgpr=yes&amp;page=1" target="_blank">This Page Only</a></li>
+                        <li><a href="?print=yes" target="_blank">This article</a></li>
+                    </ul>
+                </div>
+                <div class="btn-group" role="group" aria-label="Share on other platform">
+                    <a href="#" role="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown" aria-expanded="false">
+                        <span class="glyphicon glyphicon-plus" aria-hidden="true"></span>
+                    </a>
+                    <ul class="dropdown-menu" role="menu">
+                        <li><a href="mailto:?subject=Privacy+Statement%20on%20DrLam.com&amp;body=Take%20a%20look%20at%20this%20excellent%20article%20at%20DrLam.com:%20http://www.drlam.com/privacystatement.asp">Email</a></li>
+                        <li><a href="http://www.reddit.com/submit?url=http://www.drlam.com/privacystatement.asp" target="_blank">Reddit</a></li>
+                        <li><a href="http://digg.com/submit?url=http://www.drlam.com/privacystatement.asp&amp;title=Privacy+Statement" target="_blank">Digg</a></li>
+                        <li><a href="http://delicious.com/save?v=5&amp;noui&amp;jump=close&amp;url=http://www.drlam.com/privacystatement.asp&amp;title=Privacy+Statement" target="_blank">Delicious</a></li>
+                        <li><a href="http://www.stumbleupon.com/submit?url=http://www.drlam.com/privacystatement.asp%26title%3DPrivacy+Statement" target="_blank">StumbleUpon</a></li>
+                        <li><a href="http://www.pinterest.com/drlam" target="_blank">Pinterest</a></li>
+                    </ul>
+                </div>
+                <!--/socmed buttons-->
+
 
 <!--------------------------- Start Body ---------------------------->
-    <p><font class="articlesubheader">Privacy Statement</font></p>
+    <hr>
     <p class="default">This privacy policy was last updated Dec 1, 2008
     </p><p class="default"><strong>Information Collection and Use<br>
     </strong>The <a href="http://www.DrLam.com">www.DrLam.com</a> Web site collects information from our users at several different points on our Web site. When you use the Web site, some basic, general information is collected. This general information is used internally in connection with our business to improve the Web site, including our marketing and advertising efforts, and to make your use of the Web site as enjoyable and efficient as possible.</p>
@@ -603,150 +447,727 @@
     If you have any questions about this privacy policy or believe that the <a href="http://www.DrLam.com">www.DrLam.com</a> Web site is not abiding by our privacy policy, please contact our Webmaster by e-mail at<a href="mailto:DrLam.com@gmail.com"> DrLam.com@gmail.com</a></p>
 <!---------------------------- End Body ----------------------------->
 
-<div style="background:#669966;color:#FFFFFF;text-align: center;font-size: 30px;height: 32px;line-height: 32px;border-radius: 8px;border-bottom-left-radius: 0px;border-bottom-right-radius: 0px;">Dr. Lam’s Adrenal Line</div>
-  <p style="text-align:center;padding:0px 6px;margin:0px;font-size: 16px;font-family:Arial;border: solid 3px #696;background:#FFFFFF;background-image:url('../images/sidebarplugbg.jpg');border-radius: 8px;border-top-left-radius: 0px;border-top-right-radius: 0px;">
-  <a href="../supplements/index.asp?aid=662425055432#662425055432"><img src="../images/ADN-Sidebar.png" style="width:90px;border:0px;float:left"></a><br>
-  Dr. Lam’s Adrenal Daily Nutrient comes in powder form and allows you the ability to consume your daily fruit and vegetable intake along with necessary nutrients to help support your adrenals.<br>This drink also acts as a complete multivitamin!<br>
-  <br><a href="../supplements/index.asp?aid=662425055432#662425055432" style=""><img src="../images/sidebarplugbutton.png" style="border:0px"></a><br>&nbsp;</p><br>&nbsp;
-</div>
-        <div class="clear"></div>
-        <div id="footer" class="clear" style="margin-top: 0px; padding-top: 0px">
-      <div class="nav_bg editable">
-          <ul>
-          <li><a href="./index.asp">ADRENAL FATIGUE CENTER</a> |</li>
-          <li><a href="./library.asp">RESOURCES</a> |</li>
-          <li><a href="./supplements/index.asp">SUPPLEMENTS</a> |</li>
-          <li><a href="./blog/health-centers/">HEALTH CENTERS</a> |</li>
-          <li><a href="./blog/index.php">BLOG</a> |</li>
-          <li><a href="./our_services.asp">OUR SERVICES</a> |</li>
-          <li><a href="./About_Us.asp">ABOUT US</a> |</li>
-          <li><a href="./contactus.asp">CONTACT US</a></li>
-        </ul>
-      </div>
-          <div id="footer_fill">
-            <div style="border:solid 2px #336699;margin:4px;border-radius:8px;background:#DDEEFF">
-              <table style="border:none;border-collapse:collapse;margin:auto">
-                <tbody><tr>
-                  <td style="border:none;"><a href=".//AppInfo_All.asp"><img src="./images/iOS.png" style="float:left;margin:10px 25px;border:0px"></a></td>
-                  <td style="border:none;"><a href=".//AppInfo_All.asp"><p style="font-weight:700;color:#336699;text-align:center;font-size:22px;">Click here to check out our new free mobile apps!</p></a><p style="font-size:18px;text-align:center;"><a href=".//AppInfo_All.asp">Available on iPhone and Android devices.</a></p>
-                  </td><td style="border:none;"><a href=".//AppInfo_All.asp"><img src="./images/android.png" style="float:right;margin:10px 25px;border:0px"></a></td>
-                </tr>
-              </tbody></table>
+                <div>
+                </div>
+                <br>
+                
+                <br>
+                <!--socmed buttons-->
+                <a href="http://www.facebook.com/sharer.php?u=http://www.drlam.com/privacystatement.asp" target="_blank" role="button" class="btn btn-primary" aria-label="Share on Facebook">
+                    <span class="glyphicon socicon socicon-facebook" aria-hidden="true"></span>
+                </a>
+                <a href="http://twitter.com/home?status=Currently%20reading:%20http://www.drlam.com/privacystatement.asp" target="_blank" srole="button" class="btn btn-info" aria-label="Share on Twitter">
+                    <span class="glyphicon socicon socicon-twitter" aria-hidden="true"></span>
+                </a>
+                <a href="https://plus.google.com/share?url=http://www.drlam.com/privacystatement.asp" role="button" class="btn btn-danger" aria-label="Share on Google+">
+                    <span class="glyphicon socicon socicon-google-plus" aria-hidden="true"></span>
+                </a>
+                <div class="btn-group" role="group" aria-label="Print">
+                    <a href="#" role="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown" aria-expanded="false">
+                        <span class="glyphicon glyphicon-print" aria-hidden="true"></span>
+                    </a>
+                    <ul class="dropdown-menu" role="menu">
+                        <li><a href="?pgpr=yes&amp;page=1" target="_blank">This Page Only</a></li>
+                        <li><a href="?print=yes" target="_blank">This article</a></li>
+                    </ul>
+                </div>
+                <div class="btn-group" role="group" aria-label="Share on other platform">
+                    <a href="#" role="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown" aria-expanded="false">
+                        <span class="glyphicon glyphicon-plus" aria-hidden="true"></span>
+                    </a>
+                    <ul class="dropdown-menu" role="menu">
+                        <li><a href="mailto:?subject=Privacy+Statement%20on%20DrLam.com&amp;body=Take%20a%20look%20at%20this%20excellent%20article%20at%20DrLam.com:%20http://www.drlam.com/privacystatement.asp">Email</a></li>
+                        <li><a href="http://www.reddit.com/submit?url=http://www.drlam.com/privacystatement.asp" target="_blank">Reddit</a></li>
+                        <li><a href="http://digg.com/submit?url=http://www.drlam.com/privacystatement.asp&amp;title=Privacy+Statement" target="_blank">Digg</a></li>
+                        <li><a href="http://delicious.com/save?v=5&amp;noui&amp;jump=close&amp;url=http://www.drlam.com/privacystatement.asp&amp;title=Privacy+Statement" target="_blank">Delicious</a></li>
+                        <li><a href="http://www.stumbleupon.com/submit?url=http://www.drlam.com/privacystatement.asp%26title%3DPrivacy+Statement" target="_blank">StumbleUpon</a></li>
+                        <li><a href="http://www.pinterest.com/drlam" target="_blank">Pinterest</a></li>
+                    </ul>
+                </div>
+                <!--/socmed buttons-->
+                <br><br>
+            </div><!--/span-->
+
+            <div class="col-md-3">
+                <div class="row">
+                    <div class="col-sm-6 col-md-12">
+                        <div class="well dl-adv">
+                            <h3 class="text-danger">Get Your Copy Today!</h3>
+                            <a href="http://www.adrenalfatiguesyndrome.com/">
+                                <img class="img-responsive center-block" src="./images/adrenal-fatigue-syndrome-book.png" alt="Adrenal Fatigue Syndrome by Michael Lam, M.D., M.P.H.">
+                            </a>
+                            <a class="btn btn-danger btn-md dl-wrap-btn" role="button" href="http://www.adrenalfatiguesyndrome.com/">
+                                <span class="glyphicon glyphicon-shopping-cart" aria-hidden="true"></span>
+                                Click here to get your copy today!
+                            </a>
+                        </div>
+                    </div>
+
+                    <div class="col-sm-6 col-md-12">
+                        <!-- Questions Box for md and lg screen -->
+                        <div class="panel panel-primary visible-md visible-lg" id="dl-sbi-1" data-spy="affix" data-offset-top="555" data-offset-bottom="1410">
+                            <div class="panel-heading">
+                                <h3 class="panel-title">Questions? Ask Us Here</h3>
+                            </div>
+                            <div class="panel-body">
+                                <form method="post" action="../Myaccount.asp" name="AskMe">
+                                    <div class="form-group">
+                                        <textarea class="form-control" placeholder="If you have a specific health concern and wish my personalized nutritional recommendation, write to me by clicking here." name="question"></textarea>
+                                    </div>
+                                    <input type="hidden" name="refPage" value="/privacystatement.asp">
+                                    <button type="submit" name="go" class="btn btn-primary">Submit</button>
+                                </form>
+                            </div>
+                        </div>
+                        <!-- Questions Box for xs and sm screen -->
+                        <div class="panel panel-primary visible-xs visible-sm">
+                            <div class="panel-heading">
+                                <h3 class="panel-title">Questions? Ask Us Here</h3>
+                            </div>
+                            <div class="panel-body">
+                                <form>
+                                    <div class="form-group">
+                                        <textarea class="form-control" rows="4" placeholder="If you have a specific health concern and wish my personalized nutritional recommendation, write to me by clicking here."></textarea>
+                                    </div>
+                                    <button type="submit" class="btn btn-primary">Submit</button>
+                                </form>
+                            </div>
+                        </div>
+
+                        <!-- Test Banner for md and lg screen -->
+                        <a href="./afs_test.asp" class="visible-md visible-lg dl-extra-bottom" id="dl-sbi-2" data-spy="affix" data-offset-top="555" data-offset-bottom="1295">
+                            <img class="img-responsive center-block" src="./images/test-banner.jpg" alt="Adrenal Fatigue Test">
+                        </a>
+                        <!-- Test Banner for xs and sm screen -->
+                        <a href="./afs_test.asp" class="visible-xs visible-sm dl-extra-bottom">
+                            <img class="img-responsive center-block" src="./images/test-banner.jpg" alt="Adrenal Fatigue Test">
+                        </a>
+                    </div>
+                </div>
+
+                <div class="row">
+                    <div class="col-sm-12 col-md-12">
+                        
+                        <!-- Testimonial Box for md and lg screen -->
+                        <div class="well dl-adv visible-md visible-lg" id="dl-sbi-3" data-spy="affix" data-offset-top="555" data-offset-bottom="1065">
+                            <h3 class="text-center">Testimonials</h3>
+                            <div class="embed-responsive embed-responsive-16by9 dl-extra-bottom">
+                                <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/PQtBt4cyJeI?rel=0&amp;wmode=transparent" wmode="Opaque"></iframe>
+                            </div>
+                            <p>
+                                <a class="btn btn-primary" href="./our_services.asp#reviews" role="button">
+                                    <span class="glyphicon glyphicon-plus-sign" aria-hidden="true"></span>
+                                    More testimonials
+                                </a>
+                            </p>
+                        </div>
+                        <!-- Testimonial Box for md and lg screen -->
+                        <div class="well dl-adv visible-xs visible-sm">
+                            <h3 class="text-center">Testimonials</h3>
+                            <div class="embed-responsive embed-responsive-16by9 dl-extra-bottom">
+                                <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/PQtBt4cyJeI?rel=0&amp;wmode=transparent" wmode="Opaque"></iframe>
+                            </div>
+                            <p>
+                                <a class="btn btn-primary" href="./our_services.asp#reviews" role="button">
+                                    <span class="glyphicon glyphicon-plus-sign" aria-hidden="true"></span>
+                                    More testimonials
+                                </a>
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div><!--/span-->
+
+        </div><!--/row-->
+
+        <hr>
+
+        <div class="row">
+            <div class="col-md-12 dl-vspace">
+                <a href="./AppInfo_All.asp" class="dl-title-link"><h2 class="text-center">Click here to check out our free mobile apps!<br><small>Available on iPhone<!-- and Android devices-->.</small></h2></a>
             </div>
-            <p align="center" class="articlesubheader">Ownership and Use</p>
-            <p style="font-weight: 400">This Web Site and all content and materials included on this Web Site, including without limitation all information, text, graphics, illustrations, photos, video, sound and software (collectively the "Content"), are copyrighted and protected under U.S. and international copyright laws, trademark and other intellectual property laws and treaties and are the exclusive property of Dr. Michael Lam. Dr. Michael Lam hereby retains all right, title, and interest in the Content.</p>
-            <p style="font-weight: 400">All rights are reserved. You may not store, modify, create derivative works of, translate, distribute, publish, transmit, sell or participate in any sale of, or exploit in any way any Content in any form or by any means. You acknowledge that you do not acquire any ownership rights by downloading material from this Web Site. You are authorized to view this Web Site for informational purposes only. No part of this Web Site or Content can be redistributed, copied, adapted or reproduced without the prior written consent of Dr. Michael Lam.</p>
-            <p align="center" style="font-weight: 400"><a href="./Disclaimer.asp">Disclaimer &amp; Terms of Service</a> / <a href="./privacystatement.asp">Privacy Statement</a><br>Copyright © 2001 - 2014 by Michael Lam, M.D.. All Rights Reserved.<br>DrLam<span style="font-size: 60%">®</span> and Body. Mind. Nutrition<span style="font-size: 60%">®</span> are registered with the U.S. Patent and Trademark Office as trade mark and service marks of Dr. Michael Lam.</p>
-            <p style="font-weight: 400">The contents of this website are primarily based upon the opinions of Dr. Lam unless otherwise noted. Individual articles are based upon the opinions of the respective author, who retains copyright as marked. No doctor-patient relationship is established by your visit to or your participation in our website. No claim or opinion on these pages is intended to be, nor should they be construed to be, medical advice. Please consult with a healthcare professional before starting any health program, especially if you are pregnant, nursing, taking medication or if you have a medical condition. Statements on this website have not been evaluated by the Food and Drug Administration. Any products mentioned are not intended to diagnose, treat, cure or prevent any disease.</p>
-          </div> <!-- end id="footer_fill" -->
-        </div> <!-- End id="footer" -->
-      </div> <!-- End Content -->
-    </div> <!-- End Wrapper -->
+            <div class="col-md-2">&nbsp;</div>
+            <div class="col-md-4 col-sm-6 dl-vspace">
+                <a href="https://itunes.apple.com/us/app/drlam.com/id679215809?ls=1&amp;mt=8">
+                    <img class="img-responsive center-block" src="./images/download-on-app-store.png" alt="Download on the App Store">
+                </a>
+            </div>
+            <div class="col-md-4 col-sm-6 dl-vspace">
+                <a href="https://play.google.com/store/apps/details?id=com.drlam.drlam.com&amp;feature=search_result#?t=W251bGwsMSwyLDEsImNvbS5kcmxhbS5kcmxhbS5jb20iXQ">
+                    <img class="img-responsive center-block" src="./images/download-on-google-play.png" alt="Download on Google Play">
+                </a>
+            </div>
+            <div class="col-md-2">&nbsp;</div>
+        </div>
+    </div> <!-- /container -->
 
-    <!-- :START HIGHSLIDE SCRIPT: -->
+    <div class="jumbotron dl-footer dl-xfooter">
+        <div class="container">
+            <p>This Web Site and all content and materials included on this Web Site, including without limitation all information, text, graphics, illustrations, photos, video, sound and software (collectively the "Content"), are copyrighted and protected under U.S. and international copyright laws, trademark and other intellectual property laws and treaties and are the exclusive property of Dr. Michael Lam. Dr. Michael Lam hereby retains all right, title, and interest in the Content.</p>
+            <p>All rights are reserved. You may not store, modify, create derivative works of, translate, distribute, publish, transmit, sell or participate in any sale of, or exploit in any way any Content in any form or by any means. You acknowledge that you do not acquire any ownership rights by downloading material from this Web Site. You are authorized to view this Web Site for informational purposes only. No part of this Web Site or Content can be redistributed, copied, adapted or reproduced without the prior written consent of Dr. Michael Lam.</p>
+            <p>The contents of this website are primarily based upon the opinions of Dr. Lam unless otherwise noted. Individual articles are based upon the opinions of the respective author, who retains copyright as marked. No doctor-patient relationship is established by your visit to or your participation in our website. No claim or opinion on these pages is intended to be, nor should they be construed to be, medical advice. Please consult with a healthcare professional before starting any health program, especially if you are pregnant, nursing, taking medication or if you have a medical condition. Statements on this website have not been evaluated by the Food and Drug Administration. Any products mentioned are not intended to diagnose, treat, cure or prevent any disease.</p>
+            <hr>
+            <footer>
+                <p>
+                    Copyright © 2015 by Michael Lam, M.D.. All Rights Reserved. · <a href="./privacystatement.asp">Privacy</a> · <a href="./Disclaimer.asp">Disclaimer &amp; Terms</a><br>
+                    DrLam® and Body. Mind. Nutrition® are registered with the U.S. Patent and Trademark Office as trade mark and service marks of Dr. Michael Lam.
+                </p>
+            </footer>
+        </div>
+    </div>
+
+    
+    <div class="dl-header-nl">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-6 dl-vspace">
+                    <strong>Sign Up for the World's First Adrenal Fatigue Newsletter and Get A FREE 21 Page Whitepaper: Fatigued Out of Life.</strong>
+                </div>
+                <div class="col-md-6">
+                    <!--START OF REACHMAIL FORM, CUT FROM HERE DOWN-->
+                    <script language="JavaScript">
+                    <!--
+                        function submitIt(form) {
+                        var checkEmail = "@.";
+                        var checkStr = form.rm_email.value;
+                        var EmailValid = false;
+                        var EmailAt = false;
+                        var EmailPeriod = false;
+                        var bad = "";
+                        for (i = 0;  i < checkStr.length;  i++)
+                        {
+                        ch = checkStr.charAt(i);
+                        for (j = 0;  j < checkEmail.length;  j++)
+                        {
+                          if (ch == checkEmail.charAt(j) && ch == "@")
+                          EmailAt = true;
+                          if (ch == checkEmail.charAt(j) && ch == ".")
+                             EmailPeriod = true;
+                          if (EmailAt && EmailPeriod)
+                                  break;
+                          if (j == checkEmail.length)
+                                  break;
+                        }
+                        if (EmailAt && EmailPeriod)
+                        {
+                            EmailValid = true
+                            break;
+                        }
+                        }
+                        if (!EmailValid)
+                        {
+                        bad = bad + "\n    Please enter a valid Email Address.";
+                        }
+                        if (bad != "") {alert("Please fill in the following fields:"+bad +"\n"); return (false);}
+                        return (true);
+                        }
+                        //-->
+                    </script>
+                    <!--END OF JAVASCRIPT-->
+                    <form name="signup" method="post" onsubmit="return submitIt(this);" action="https://go.reachmail.net/libraries/form_wizard/process_subscribe.asp">
+                        <input type="hidden" name="rm_name" value="">
+                        <input type="hidden" name="form_id" value="1967">
+                        <input type="hidden" name="list_name" value="XLIST_8296_20111223134550">
+                        <input type="hidden" name="list_id" value="225479">
+                        <input type="hidden" name="el_list" value="email,name">
+                        <input type="hidden" name="list_uname" value="">
+                        <input type="hidden" name="list_umsg" value="">
+                        <input type="hidden" name="page_confirm" value="http://www.drlam.com/nlthankyou.asp">
+                        <input type="hidden" name="list_fromname" value="">
+                        <input type="hidden" name="list_fromemail" value="">
+                        <input type="hidden" name="list_subject" value="">
+                        <div class="input-group">
+                            <input type="text" id="nlemail" name="rm_email" class="form-control" placeholder="Enter email">
+                            <span class="input-group-btn">
+                                <button class="btn btn-warning" type="submit" name="Submit" value="Get My Newsletter">Subscribe</button>
+                            </span>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+
+    <!-- Modals -->
+    <div class="modal fade" id="phoneNumbers" tabindex="-1" role="dialog" aria-labelledby="phoneNumbersLabel" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">×</span></button>
+                    <h4 class="modal-title" id="phoneNumbersLabel">Call Us</h4>
+                </div>
+                <div class="modal-body">
+                    <p class="text-center">All calls forwarded to our Los Angeles area office.</p>
+                    <p><a class="btn btn-danger btn-lg dl-wrap-btn" style="display: block;" href="tel:+16265711234"><span class="glyphicon glyphicon-earphone"></span> Direct Line in USA:<br>+1 626 571 1234</a></p>
+                    <p><a class="btn btn-danger btn-lg dl-wrap-btn" style="display: block;" href="tel:+18883752688"><span class="glyphicon glyphicon-earphone"></span> USA Toll Free:<br>+1 888 375 2688</a></p>
+                    <p><a class="btn btn-primary dl-wrap-btn" style="display: block;" href="tel:+61280037526"><span class="glyphicon glyphicon-earphone"></span> Australia: +61 2 8003 7526</a></p>
+                    <p><a class="btn btn-primary dl-wrap-btn" style="display: block;" href="tel:+4565711237"><span class="glyphicon glyphicon-earphone"></span> Denmark: +45 65 71 12 37</a></p>
+                    <p><a class="btn btn-primary dl-wrap-btn" style="display: block;" href="tel:+358236191237"><span class="glyphicon glyphicon-earphone"></span> Finland: +358 2 3619 1237</a></p>
+                    <p><a class="btn btn-primary dl-wrap-btn" style="display: block;" href="tel:+85281911237"><span class="glyphicon glyphicon-earphone"></span> Hong Kong: +852 8191 1237</a></p>
+                    <p><a class="btn btn-primary dl-wrap-btn" style="display: block;" href="tel:+815058099237"><span class="glyphicon glyphicon-earphone"></span> Japan: +81 50 5809 9237</a></p>
+                    <p><a class="btn btn-primary dl-wrap-btn" style="display: block;" href="tel:+6436690237"><span class="glyphicon glyphicon-earphone"></span> New Zealand: +64 3 669 0237</a></p>
+                    <p><a class="btn btn-primary dl-wrap-btn" style="display: block;" href="tel:+27110838237"><span class="glyphicon glyphicon-earphone"></span> South Africa: +27 110838237</a></p>
+                    <p><a class="btn btn-primary dl-wrap-btn" style="display: block;" href="tel:+46406928237"><span class="glyphicon glyphicon-earphone"></span> Sweden: +46 40 692 82 37</a></p>
+                    <p><a class="btn btn-primary dl-wrap-btn" style="display: block;" href="tel:+442032900237"><span class="glyphicon glyphicon-earphone"></span> United Kingdom: +44 20 3290 0237</a></p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="modal fade" id="dl-about-drlam" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-dialog modal-lg">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">×</span></button>
+                    <h4 class="modal-title">About The Author</h4>
+                </div>
+                <div class="modal-body">
+                    <div class="row">
+                        <div class="col-sm-2">
+                            <img class="img-responsive center-block dl-extra-bottom" src="./images/dr_lam_large.jpg" alt="Michael Lam, M.D., M.P.H., A.B.A.A.M." title="Michael Lam, M.D., M.P.H., A.B.A.A.M.">
+                        </div>
+                        <div class="col-sm-10" style="font-size: .9em;">
+                            <p><strong>Michael Lam, M.D., M.P.H., A.B.A.A.M.</strong>, is a western trained physician specializing in nutritional and anti-aging medicine. Dr. Lam received his Bachelor of Science degree from Oregon State University, and his Doctor of Medicine degree from the Loma Linda University School of Medicine in California. He also holds a Master’s degree in Public Health. He is board certified by the American Board of Anti-Aging Medicine where he has also served as a board examiner. Dr. Lam is a pioneer in using nontoxic, natural compounds to promote the healing of many age-related degenerative conditions. He utilizes optimum blends of nutritional supplementation that manipulate food, vitamins, natural hormones, herbs, enzymes, and minerals into specific protocols to rejuvenate cellular function.</p>
+                            <p>Dr. Lam was first to coin the term, ovarian-adrenal-thyroid (OAT) hormone axis, and to describe its imbalances. He was first to scientifically tie in Adrenal Fatigue Syndrome (AFS) as part of the overall neuroendocrine stress response continuum of the body. He systematized the clinical significance and coined the various phases of Adrenal Exhaustion. He has written five books: <em><a href="#" class="articleboldblue">Adrenal Fatigue Syndrome - Reclaim Your Energy and Vitality with Clinically Proven Natural Programs</a></em>, <em><a href="#" class="articleboldblue">The Five Proven Secrets to Longevity</a></em>, <em><a href="#" class="articleboldblue">Beating Cancer with Natural Medicine (Free PDF version)</a></em>, <em><a href="#" class="articleboldblue">How to Stay Young and Live Longer</a></em>, and <em><a href="#" class="articleboldblue">Estrogen Dominance</a></em>. In 2001, Dr. Lam established <a href="#" class="articleboldblue">www.DrLam.com</a> as a free, educational website on evidence-based alternative medicine for the public and for health professionals. It featured the world’s most comprehensive library on AFS. Provided free as a public service, he has answered countless questions through the website on alternative health and AFS. His personal, telephone-based nutritional coaching services have enabled many around the world to regain control of their health using natural therapies.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="modal fade" id="dl-about-dorine" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-dialog modal-lg">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">×</span></button>
+                    <h4 class="modal-title">About The Author</h4>
+                </div>
+                <div class="modal-body">
+                    <div class="row">
+                        <div class="col-sm-2">
+                            <img class="img-responsive center-block dl-extra-bottom" src="./images/dorine_large.jpg" alt="Dorine Lam, R.D., M.S., M.P.H." title="Dorine Lam, R.D., M.S., M.P.H.">
+                        </div>
+                        <div class="col-sm-10" style="font-size: .9em;">
+                            <p><strong>Dorine Lam, R.D., M.S., M.P.H.</strong>, is a registered dietitian and holistic clinical nutritionist specializing in Adrenal Fatigue Syndrome and natural hormonal balancing. She received her Bachelor of Science degree in Dietetics, holds a Master’s Degree in Public Health in Nutrition, and a Master of Science degree in Nutrition from Loma Linda University, in Loma Linda, California. She is also a board-certified, Anti-Aging Health Practitioner by the American Academy of Anti-Aging Medicine. She coauthored with Michael Lam, M.D., the books <em><a href="#" class="articleboldblue">Adrenal Fatigue Syndrome - Reclaim Your Energy and Vitality with Clinically Proven Natural Programs</a></em> and <em><a href="#" class="articleboldblue">Estrogen Dominance</a></em> and numerous articles on Adrenal Fatigue Syndrome. Her personal research and writing focuses on the metabolic aspect of Adrenal Fatigue Syndrome. She is married to Michael Lam and is an integral part of the telephone-based nutritional coaching team helping people overcome Adrenal Fatigue Syndrome.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="modal fade" id="dl-lang" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-dialog modal-sm">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">×</span></button>
+                    <h4 class="modal-title">Language</h4>
+                </div>
+                <div class="modal-body">
+                    <ul>
+                        <li><a href="http://www.drlam.com">English</a></li>
+                        <li><a href="#" onclick="window.open('http://translate.google.com/translate?u='+encodeURIComponent(location.href)+'&amp;hl=en&amp;langpair=auto|fr&amp;tbb=1'); return false;">French</a></li>
+                        <li><a href="#" onclick="window.open('http://translate.google.com/translate?u='+encodeURIComponent(location.href)+'&amp;hl=en&amp;langpair=auto|de&amp;tbb=1'); return false;">German</a></li>
+                        <li><a href="#" onclick="window.open('http://translate.google.com/translate?u='+encodeURIComponent(location.href)+'&amp;hl=en&amp;langpair=auto|es&amp;tbb=1'); return false;">Spanish</a></li>
+                        <li><a href="#" onclick="window.open('http://translate.google.com/translate?u='+encodeURIComponent(location.href)+'&amp;hl=en&amp;langpair=auto|it&amp;tbb=1'); return false;">Italian</a></li>
+                        <li><a href="#" onclick="window.open('http://translate.google.com/translate?u='+encodeURIComponent(location.href)+'&amp;hl=en&amp;langpair=auto|nl&amp;tbb=1'); return false;">Dutch</a></li>
+                        <li><a href="#" onclick="window.open('http://translate.google.com/translate?u='+encodeURIComponent(location.href)+'&amp;hl=en&amp;langpair=auto|ru&amp;tbb=1'); return false;">Russian</a></li>
+                        <li><a href="#" onclick="window.open('http://translate.google.com/translate?u='+encodeURIComponent(location.href)+'&amp;hl=en&amp;langpair=auto|pt&amp;tbb=1'); return false;">Portuguese</a></li>
+                        <li><a href="#" onclick="window.open('http://translate.google.com/translate?u='+encodeURIComponent(location.href)+'&amp;hl=en&amp;langpair=auto|ja&amp;tbb=1'); return false;">Japanese</a></li>
+                        <li><a href="#" onclick="window.open('http://translate.google.com/translate?u='+encodeURIComponent(location.href)+'&amp;hl=en&amp;langpair=auto|ko&amp;tbb=1'); return false;">Korean</a></li>
+                        <li><a href="#" onclick="window.open('http://translate.google.com/translate?u='+encodeURIComponent(location.href)+'&amp;hl=en&amp;langpair=auto|ar&amp;tbb=1'); return false;">Arabic</a></li>
+                        <li><a href="#" onclick="window.open('http://translate.google.com/translate?u='+encodeURIComponent(location.href)+'&amp;hl=en&amp;langpair=auto|zh-CN&amp;tbb=1'); return false;">Chinese Simplified</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="modal fade" id="dl-af-essentials" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-dialog modal-lg">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">×</span></button>
+                    <h4 class="modal-title">Adrenal Fatigue Essentials</h4>
+                </div>
+                <div class="modal-body">
+                    <ul class="dl-toc-body">
+                        <li><a href="../../../../../../../articles/adrenal_fatigue.asp">Adrenal Fatigue Syndrome</a></li>
+                        <li><a href="../../../../../../../articles/Top_10_adrenal_fatigue_facts_made_easy.asp">Top 10 Adrenal Fatigue Facts Made Easy</a></li>
+                        <li><a href="../../../../../../../articles/Adrenal_Fatigue_Myths.asp">Adrenal Fatigue Myths</a></li>
+                        <li><a href="../../../../../../../articles/adrenalexhaustion.asp">Adrenal Exhaustion</a></li>
+                        <li><a href="../../../../../../../articles/ovarian_adrenal_thyroid.asp">O.A.T. Axis Imbalance</a></li>
+                        <li><a href="../../../../../../../articles/why_conventional_medicine_rejects_adrenal_fatigue.asp">Why Conventional Medicine Rejects Adrenal Fatigue</a></li>
+                        <li><a href="../../../../../../../articles/Adrenal_Fatigue_and_Body_Types.asp">Adrenal Fatigue &amp; Body Types</a></li>
+                        <li><a href="../../../../../../../articles/Adrenal_crash_and_recovery_cycle.asp">Crash &amp; Recovery Cycles</a></li>
+                        <li><a href="../../../../../../../articles/adrenal_fatigue_related_conditions.asp">Adrenal Fatigue-Related Health Conditions</a></li>
+                        <li><a href="/conditioncareguide/adrenalhealth.asp?tab=5&amp;condition=adrenalhealth">Adrenal Fatigue FAQ</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="modal fade" id="dl-af-more" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-dialog modal-lg">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">×</span></button>
+                    <h4 class="modal-title">More Adrenal Fatigue Info</h4>
+                </div>
+                <div class="modal-body">
+                    <ul class="dl-toc-body">
+                        <li><a href="../../../../../../../blog/fluid-balance-and-adrenal-fatigue-syndrome/4997/">Fluid Balance &amp; Adrenal Fatigue Syndrome</a></li>
+                        <li><a href="../../../../../../../blog/acupuncture-tcm-and-adrenal-fatigue-syndrome/4603/">Acupuncture, TCM, &amp; Adrenal Fatigue Syndrome</a></li>
+                        <li><a href="../../../../../../../blog/reproductive-system-disruptions-and-adrenal-fatigue-syndrome/4745/">Reproductive System Disruptions &amp; Adrenal Fatigue Syndrome</a></li>
+                        <li><a href="../../../../../../../blog/electromagnetic-fields-emf-and-adrenal-fatigue-syndrome/4410/"> Electromagnetic Fields (EMF) &amp; Adrenal Fatigue Syndrome</a></li>
+                        <li><a href="../../../../../../../blog/adrenal-fatigue-syndrome-in-teenagers-and-young-adults/4484/">Adrenal Fatigue Syndrome in Teenagers &amp; Young Adults</a></li>
+                        <li><a href="../../../../../../../articles/adrenal_fatigue_and_laboratory_testing.asp">Laboratory Testing</a></li>
+                        <li><a href="../../../../../../../articles/Adrenal_Fatigue_and_Toxic_Relationships.asp">Adrenal Fatigue &amp; Toxic Relationships</a></li>
+                        <li><a href="../../../../../../../articles/Adrenal_fatigue_and_hypoglycemia.asp"> Adrenal Fatigue &amp; Hypoglycemia</a></li>
+                        <li><a href="../../../../../../../articles/Adrenal_Fatigue_and_Blood_Pressure.asp">Adrenal Fatigue &amp; Blood Pressure</a></li>
+                        <li><a href="../../../../../../../videos/Fibromyalgia_and_Adrenal_Fatigue.asp">Fibromyalgia &amp; Adrenal Fatigue</a></li>
+                        <li><a href="../../../../../../../videos/prezi00001.asp">Chronic Fatigue Syndrome &amp; Adrenal Fatigue</a></li>
+                        <li><a href="../../../../../../../articles/Estrogen_Dominance.asp">Estrogen Dominance</a></li>
+                        <li><a href="../../../../../../../articles/75_Signs_Symptoms_and_alerts_of_AFS.asp">75 Signs, Symptoms and Alerts of Adrenal Fatigue Syndrome</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="modal fade" id="dl-af-recovery" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-dialog modal-lg">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">×</span></button>
+                    <h4 class="modal-title">Adrenal Fatigue Recovery</h4>
+                </div>
+                <div class="modal-body">
+                    <ul class="dl-toc-body">
+                        <li><a href="../../../../../../../blog/pyroluria-and-adrenal-fatigue-syndrome/5273/">Pyroluria &amp; Adrenal Fatigue Syndrome</a></li>
+                        <li><a href="../../../../../../../blog/mthfr-and-adrenal-fatigue-syndrome/4549/">MTHFR &amp; Adrenal Fatigue Syndrome</a></li>
+                        <li><a href="../../../../../../../blog/snacks-and-adrenal-fatigue-syndrome/3408/">Snacks &amp; Adrenal Fatigue Syndrome</a></li>
+                        <li><a href="../../../../../../../blog/anxiety-and-adrenal-fatigue-syndrome/4445/">Anxiety &amp; Adrenal Fatigue Syndrome</a></li>
+                        <li><a href="../../../../../../../blog/weight-loss-and-adrenal-fatigue/3065/">Weight Loss &amp; Adrenal Fatigue</a></li>
+                        <li><a href="../../../../../../../blog/heat-therapy-and-adrenal-fatigue-syndrome/2525/">Heat Therapy &amp; Adrenal Fatigue Syndrome</a></li>
+                        <li><a href="../../../../../../../articles/7mistakesofadrenalfatigue.asp">7 Adrenal Fatigue Recovery Mistakes</a></li>
+                        <li><a href="../../../../../../../articles/adrenalrecovery.asp">Adrenal Fatigue Recovery - Am I On The Right Track?</a></li>
+                        <li><a href="../../../../../../../articles/Adrenal_Fatigue_Glandular_and_Herbal_Therapy.asp">Adrenal Fatigue Glandular &amp; Herbal Therapy</a></li>
+                        <li><a href="../../../../../../../articles/Adrenal_fatigue_and_hormone.asp">Adrenal Fatigue &amp; Hormone Therapy</a></li>
+                        <li><a href="../../../../../../../articles/Adrenal_Fatigue_and_Exercise.asp">Adrenal Fatigue &amp; Exercise</a></li>
+                        <li><a href="../../../../../../../articles/Adrenal_Fatigue_and_Sleep.asp">Adrenal Fatigue &amp; Sleep</a></li>
+                        <li><a href="../../../../../../../articles/progesterone.asp">Progesterone</a></li>
+                        <li><a href="../../../../../../../articles/Liposomal_Encapsulation_Technology.asp">Liposomal Encapsulation Technology</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="modal fade" id="dl-af-complications" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-dialog modal-lg">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">×</span></button>
+                    <h4 class="modal-title">Adrenal Fatigue Complications</h4>
+                </div>
+                <div class="modal-body">
+                    <ul class="dl-toc-body">
+                        <li><a href="../../../../../../../blog/adrenals-and-thyroid-connection/5298/">Adrenals &amp; Thyroid Connection</a></li>
+                        <li><a href="../../../../../../../blog/biological-rhythm-disruptions-and-adrenal-fatigue-syndrome/5615/">Biological Rhythm Disruptions &amp; AFS</a></li>
+                        <li><a href="../../../../../../../blog/brain-fog/1962/">Brain Fog</a></li>
+                        <li><a href="../../../../../../../blog/catabolic-state-and-adrenal-fatigue-syndrome/">Catabolic State &amp; Adrenal Fatigue Syndrome</a></li>
+                        <li><a href="../../../../../../../blog/copper-overload-and-adrenal-fatigue-syndrome/4820/">Copper Overload &amp; Adrenal Fatigue Syndrome</a></li>
+                        <li><a href="../../../../../../../blog/detoxification-and-adrenal-fatigue-syndrome/3114/">Detoxification &amp; Adrenal Fatigue Syndrome</a></li>
+                        <li><a href="../../../../../../../blog/essential-oils-and-adrenal-fatigue-syndrome/5560/">Essential Oils &amp; Adrenal Fatigue Syndrome</a></li>
+                        <li><a href="../../../../../../../blog/extracellular-matrix-and-adrenal-fatigue-syndrome/4970/">Extracellular Matrix (ECM) &amp; Adrenal Fatigue Syndrome</a></li>
+                        <li><a href="../../../../../../../blog/fermented-herbs-and-adrenal-fatigue-syndrome/4665/">Fermented Herbs &amp; Adrenal Fatigue Syndrome</a></li>
+                        <li><a href="../../../../../../../blog/gratitude-and-advanced-adrenal-fatigue-syndrome/4772/">Gratitude &amp; Advanced Adrenal Fatigue Syndrome</a></li>
+                        <li><a href="../../../../../../../blog/histamine-and-adrenal-fatigue-syndrome/4642/">Histamine &amp; Adrenal Fatigue Syndrome</a></li>
+                        <li><a href="../../../../../../../blog/liver-congestion-and-adrenal-fatigue-syndrome/4945/">Liver Congestion &amp; Adrenal Fatigue Syndrome</a></li>
+                        <li><a href="../../../../../../../blog/mitochondrial-diseases-and-adrenal-fatigue-syndrome/5337/">Mitochondrial Diseases &amp; Adrenal Fatigue Syndrome</a></li>
+                        <li><a href="../../../../../../../blog/neurotransmitter-balance-and-adrenal-fatigue-syndrome/5544/">Neurotransmitters &amp; Adrenal Fatigue Syndrome</a></li>
+                        <li><a href="../../../../../../../blog/niacin-as-a-detoxing-tool-and-sleep-aid/4420/">Niacin as a Detoxing Tool &amp; Sleep Aid</a></li>
+                        <li><a href="../../../../../../../blog/postural-orthostatic-tachycardia-syndrome-and-adrenal-fatigue-syndrome/5116/">Postural Orthostatic Tachycardia Syndrome (POTS) &amp; Adrenal Fatigue Syndrome</a></li>
+                        <li><a href="../../../../../../../blog/receptor_disorders_and_adrenal_fatigue_syndrome/5205/">Receptor Disorders &amp; Adrenal Fatigue Syndrome</a></li>
+                        <li><a href="../../../../../../../blog/retoxification-reaction-and-adrenal-fatigue-syndrome/5061/">Retoxification &amp; Adrenal Fatigue Syndrome</a></li>
+                        <li><a href="../../../../../../../blog/stealth-infection-and-adrenal-fatigue-syndrome/4714/">Stealth Infection &amp; Adrenal Fatigue Syndrome</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+
+    <div class="modal fade" id="dl-signup" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-dialog modal-lg">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">×</span></button>
+                    <h4 class="modal-title">Sign Up to Our Newsletter Now!</h4>
+                </div>
+                <div class="modal-body">
+                    <h2 class="text-center">Subscribe Now!</h2>
+                    <img class="img-responsive center-block" src="./images/free-white-paper.jpg">
+                    <p class="text-center dl-extra-top" style="font-size: 1.5em; line-height: 1.7em">
+                        Sign Up for the World's First Adrenal Fatigue Newsletter and <strong>Get A FREE 21 Page Whitepaper: Fatigued Out of Life.</strong>
+                    </p>
+
+                    <!-- Use a custom submit form -->
+                    <form name="signup" method="post" onsubmit="return submitIt(this);" action="https://go.reachmail.net/libraries/form_wizard/process_subscribe.asp">
+                        <input type="hidden" name="rm_name" value="">
+                        <input type="hidden" name="form_id" value="1967">
+                        <input type="hidden" name="list_name" value="XLIST_8296_20111223134550">
+                        <input type="hidden" name="list_id" value="225479">
+                        <input type="hidden" name="el_list" value="email,name">
+                        <input type="hidden" name="list_uname" value="">
+                        <input type="hidden" name="list_umsg" value="">
+                        <input type="hidden" name="page_confirm" value="http://www.drlam.com/nlthankyou.asp">
+                        <input type="hidden" name="list_fromname" value="">
+                        <input type="hidden" name="list_fromemail" value="">
+                        <input type="hidden" name="list_subject" value="">
+                        <div class="input-group">
+                            <input type="text" id="nlemail" name="rm_email" class="form-control" placeholder="Enter email">
+                            <span class="input-group-btn">
+                                <button class="btn btn-warning" type="submit" name="Submit" value="Get My Newsletter">Subscribe</button>
+                            </span>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="modal fade" id="dl-video-playlist" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-dialog modal-lg">
+            <div class="modal-content">
+                <div id="mainWrapper"></div>
+            </div>
+        </div>
+    </div>
+
+    <div id="playlist_list">
+        <div id="testimonials" data-address="testimonials">
+            <!-- youtube playlist
+            data-path: playlist id
+            data-limit: number of results to retrieve (if not set, all results will be retrieved! Youtube playlist contains maximum of 200 entries.)
+            -->
+            <div class="playlistNonSelected" data-address="youtube_playlist" data-type="youtube_playlist" data-path="PLolcEYnKvEM1jRlu3STK1C-x5XuNTYW9t"></div>
+        </div>
+    </div>
+
+	<!-- Bootstrap core JavaScript -->
+    <script type="text/javascript" src="./js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="./js/bootstrap-hover-dropdown.min.js"></script>
+    <script type="text/javascript" src="./js/jquery.magnific-popup.min.js"></script>
+    <script type="text/javascript" src="./js/jquery.placeholder.js"></script>
+    <script type="text/javascript" src="./js/jquery.cookie.js"></script>
+
+    <script type="text/javascript" src="./js/jquery.address.js"></script><!-- deeplink -->
+    <script type="text/javascript" src="./js/jquery.mousewheel.min.js"></script><!-- scroll -->
+    <script type="text/javascript" src="./js/jquery.jscrollpane.min.js"></script><!-- scroll -->
+    <script type="text/javascript" src="./js/froogaloop.js"></script><!-- vimeo -->
+    <script type="text/javascript" src="./js/jquery.dotdotdot-1.5.1.js"></script><!-- description shortener -->
+    <script type="text/javascript" src="./js/jquery.aprvp.min.js"></script>
+    <script type="text/javascript" src="./js/jquery.ticker.js"></script>
+
     <script type="text/javascript">
-      // Apply the Highslide settings
-      hs.graphicsDir = '/highslide/graphics/';
-      hs.outlineType = 'rounded-white';
+        jQuery(document).ready(function($) {
+            $('input, textarea').placeholder();
 
-      hs.outlineType = 'rounded-white';
-      hs.outlineWhileAnimating = true;
-      hs.allowSizeReduction = true;
-      // always use this with flash, else the movie will be stopped on close:
-      hs.preserveContent = false;
-      hs.wrapperClassName = 'draggable-header no-footer';
+            $('#js-news').ticker({
+                controls: false,
+                titleText: '',
+                displayType: 'fade'
+            });
 
-      // create a shorthand function so we don't need to put all this in the opener's onclick
-      function openYouTube(opener)
-      {
-        var returnValue;
-        // Safari Mobile doesn't have Flash, so we just let the device use the built-in
-        // YouTube viewer.
-        if(/(iPhone|iPod|iPad)/.test(navigator.userAgent))
-        {
-          opener.href = opener.href.replace('/v/', '/watch?v=');
-          returnValue = true;
-        }
-        else returnValue = hs.htmlExpand(opener,
-        {
-          objectType: 'swf',
-          headingEval: 'this.a.title',
-          objectWidth: 480,
-          objectHeight: 385,
-          width: 480,
-          wrapperClassName: 'draggable-header no-footer',
-          allowSizeReduction: false,
-          preserveContent: false,
-          swfOptions: {params: {allowfullscreen: 'true'}},
-          src: opener.href.replace("watch?", "").replace("=", "/")+'&amp;autoplay=1', // convert from Youtube page to movie
-          maincontentText: 'You need to upgrade your Flash player'
+            $('#js-news2').ticker({
+                controls: false,
+                titleText: '',
+                displayType: 'fade'
+            });
+
+            function showPopUp() {
+                $('#dl-signup').modal('show');
+                setInterval(function(){ $('#dl-signup').modal('show'); }, 3600000);
+            }
+
+            
+                /*$(document).scroll(function() {
+                    if ($(document).scrollTop() >= ($(document).height() * 0.25) && ($.cookie('dl_visit') == 'undefined' || $.cookie('dl_visit') != 1)){
+                        $('#dl-signup').modal('show');
+
+                        var date = new Date();
+                        var minutes = 60;
+                        date.setTime(date.getTime() + (minutes * 60 * 1000));
+
+                        $.cookie('dl_visit', '1', { expires: date, path: '/' });
+                    }
+                });*/
+
+                setTimeout(function () { showPopUp(); }, 60000);
+            
+
+            var $callBtn = $('.callBtn');
+            var isMobile = {
+                Android: function() {
+                    return navigator.userAgent.match(/Android/i);
+                },
+                BlackBerry: function() {
+                    return navigator.userAgent.match(/BlackBerry/i);
+                },
+                iOS: function() {
+                    return navigator.userAgent.match(/iPhone/i);
+                },
+                Opera: function() {
+                    return navigator.userAgent.match(/Opera Mini/i);
+                },
+                Windows: function() {
+                    return navigator.userAgent.match(/IEMobile/i);
+                },
+                any: function() {
+                    return (isMobile.Android() || isMobile.BlackBerry() || isMobile.iOS() || isMobile.Opera() || isMobile.Windows());
+                }
+            };
+
+            if(isMobile.any()){
+                $callBtn.attr('data-toggle', 'modal');
+                $callBtn.attr('data-target', '#phoneNumbers');
+            } else {
+                $callBtn.attr('href', './ContactUs.asp');
+            }
+
+            function getRandomInt(min, max) {
+                return Math.floor(Math.random() * (max - min + 1)) + min;
+            }
+
+            var video = ['0','1','3','4','5','6','7','8','9','10','11','12','13','14','15'];
+            var i;
+            var arr = [];
+            var playNow;
+
+            while (arr.length < 3) {
+                var randomNum = getRandomInt(0, 14);
+                var found = false;
+                for (i = 0; i < arr.length; i++) {
+                    if (arr[i] == randomNum) {
+                        found = true;
+                        break;
+                    }
+                }
+                if (!found) {
+                    arr[arr.length] = randomNum;
+                }
+            }
+
+            for (i = 0; i < 2; i++){
+                $('.dl-vid-' + i).html('<a class="dl-video" href="javascript:void(0)" data-video-idx="' + video[arr[i]] + '" data-toggle="modal" data-target="#dl-video-playlist"><img src="./images/preview/' + video[arr[i]] + '.jpg" /></a>');
+            }
+
+            $('.dl-video').on('click', function(){
+                playNow = $(this).data('video-idx');
+            });
+
+            var hap_players = [];
+
+            /* SETTINGS */
+            var rvp_settings = {
+                /* mediaId: unique string for player identification (if multiple player instances were used, then strings need to be different!) */
+                mediaId:'player1',
+                /* useDeeplink: true, false */
+                useDeeplink:false,
+                /*activePlaylist: Active playlist to start with. If no deeplink is used, enter element 'id' attribute, or if deeplink is used enter (data-address) deeplink string like 'playlist1'.  */
+                activePlaylist:'testimonials',
+                /*activeItem: Active video to start with. Enter number, -1 = no video loaded, 0 = first video, 1 = second video etc */
+                activeItem: 0,
+                /* GENERAL SETTINGS */
+                /*defaultVolume: 0-1 */
+                defaultVolume:0.5,
+                /*autoPlay: true/false (defaults to false on mobile)*/
+                autoPlay:true,
+                /*randomPlay: true/false */
+                randomPlay:false,
+                /* loopingOn: on playlist end rewind to beginning (last item in playlist) */
+                loopingOn: true,
+                /*autoAdvanceToNextVideo: true/false (use this to loop video) */
+                autoAdvanceToNextVideo:true,
+                /*autoOpenDescription: true/false  */
+                autoOpenDescription:false,
+                usePlaylist:true,
+                useControls:true,
+                /*autoHideControls: auto hide player controls on mouse out: true/false. Defaults to false on mobile. */
+                autoHideControls:false,
+                /*controlsTimeout: time after which controls and playlist hides in fullscreen if screen is inactive, in miliseconds. */
+                controlsTimeout:3000,
+                /*playlistOrientation: vertical/horizontal  */
+                playlistOrientation:'vertical',
+                /*scrollType: scroll/buttons  */
+                scrollType:'scroll',
+
+                /* YOUTUBE SETTINGS */
+                // ytAppId:'AIzaSyDeqvaVCC5GEldPL1uOpI04h9sFoeH7WlY',/* youtube api key: https://developers.google.com/youtube/registering_an_application */
+                ytAppId:'AIzaSyCqjTZGp3u5jQqz-sgYQ_jmwT9TbwYrcuo', /* production */
+                ytTheme:'dark',
+                ytShowinfo:true,
+
+                /*playlistList: dom element which holds list of playlists */
+                playlistList:'#playlist_list',
+
+                /* showControlsInAdvert: true/false (show controls while video advert plays)  */
+                showControlsInAdvert:true,
+                /* disableSeekbarInAdvert: true/false (disable seekbar while video advert plays)  */
+                disableSeekbarInAdvert:true,
+                /* showSkipButtonInAdvert: true/false (show skip button while video advert plays)  */
+                showSkipButtonInAdvert:true,
+                advertSkipBtnText:'SKIP AD >',
+                advertSkipVideoText:'You can skip to video in',
+
+                logoPath: '',
+                logoPosition: 'tl',/* tl, tr, bl, br */
+                logoXOffset: 5,
+                logoYOffset: 5,
+                logoUrl: 'http://www.drlam.com',
+                logoTarget: '_blank',
+
+                useShare: false,
+                /*fsAppId: facebook application id (if you use facebook share, https://developers.facebook.com/apps) */
+                fsAppId:'644413448983338'
+            };
+
+            $('#dl-video-playlist').on('shown.bs.modal', function(){
+                rvp_settings.activeItem = playNow;
+                hap_players[0] = $('#mainWrapper').aprvp(rvp_settings);
+            });
+
+            $('#dl-video-playlist').on('hidden.bs.modal', function(){
+                hap_players[0].pauseMedia();
+                hap_players.splice(0, 1);
+                $('#mainWrapper').empty();
+            });
         });
-        return returnValue;
-      }
-      function clearInput(e)
-      {
-        if(e.cleared)
-        {
-          return;
-        }
-        e.cleared = true;
-        e.value = '';
-        e.style.color = '#000';
-      }
-      function showHide(shID)
-      {
-        if(document.getElementById(shID))
-        {
-          if(document.getElementById(shID+'-show').style.display != 'none')
-          {
-            document.getElementById(shID+'-show').style.display = 'none';
-            document.getElementById(shID).style.display = 'block';
-          }
-          else
-          {
-            document.getElementById(shID+'-show').style.display = 'inline';
-            document.getElementById(shID).style.display = 'none';
-          }
-        }
-      }
-
-      function CheckEmail()
-      {
-        if(document.emailme.FieldData1.value != document.emailme.FieldData2.value)
-        {
-          alert("The email addresses do not match. Please reconfirm your email address");
-          document.emailme.FieldData2.value = "";
-          setTimeout("document.emailme.FieldData2.focus()", 10);
-        }
-      }
-
-      $(document).ready(function()
-      {
-        $(".toggle_container").hide();
-        $("h2.trigger").click(
-          function()
-          {
-            $(this).toggleClass("active").next().slideToggle("slow");
-          }
-        );
-      });
     </script>
-
-    <script type="text/javascript">
-      var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-      document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-    </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
 
     <!-- Start of StatCounter Code -->
     <script type="text/javascript">
-      var sc_project=4227100;
-      var sc_invisible=1;
-      var sc_security="63ec20c1";
-    </script>
-
-    <script type="text/javascript" src="http://www.statcounter.com/counter/counter_xhtml.js"></script><noscript><div class="statcounter"><a title="customisable counter" class="statcounter" href="http://statcounter.com/free_hit_counter.html"><img class="statcounter" src="http://c.statcounter.com/4227100/0/63ec20c1/1/" alt="customisable counter" /></a></div></noscript>
+    var sc_project=4227100;
+    var sc_invisible=1;
+    var sc_security="63ec20c1";
+    var scJsHost = (("https:" == document.location.protocol) ?
+    "https://secure." : "http://www.");
+    document.write("<sc"+"ript type='text/javascript' src='" +
+    scJsHost+
+    "statcounter.com/counter/counter.js'></"+"script>");
+    </script><script type="text/javascript" src="https://secure.statcounter.com/counter/counter.js"></script>
+    <noscript><div class="statcounter"><a title="shopify
+    analytics" href="http://statcounter.com/shopify/"
+    target="_blank"><img class="statcounter"
+    src="http://c.statcounter.com/4227100/0/63ec20c1/1/"
+    alt="shopify analytics"></a></div></noscript>
     <!-- End of StatCounter Code -->
-
-    <a href="https://plus.google.com/112025684392651951454" rel="publisher">Google+</a>
   
-</body></html>
+
+<div class="highslide-container" style="padding: 0px; border: none; margin: 0px; position: absolute; left: 0px; top: 0px; width: 100%; z-index: 1001; direction: ltr;"><a class="highslide-loading" title="Click to cancel" href="javascript:;" style="position: absolute; top: -9999px; opacity: 0.75; z-index: 1;">Loading...</a><div style="display: none;"></div><div class="highslide-viewport highslide-viewport-size" style="padding: 0px; border: none; margin: 0px; visibility: hidden;"></div><table cellspacing="0" style="padding: 0px; border: none; margin: 0px; visibility: hidden; position: absolute; border-collapse: collapse; width: 0px;"><tbody style="padding: 0px; border: none; margin: 0px;"><tr style="padding: 0px; border: none; margin: 0px; height: auto;"><td style="padding: 0px; border: none; margin: 0px; line-height: 0; font-size: 0px;"></td><td style="padding: 0px; border: none; margin: 0px; line-height: 0; font-size: 0px;"></td><td style="padding: 0px; border: none; margin: 0px; line-height: 0; font-size: 0px;"></td></tr><tr style="padding: 0px; border: none; margin: 0px; height: auto;"><td style="padding: 0px; border: none; margin: 0px; line-height: 0; font-size: 0px;"></td><td class="drop-shadow highslide-outline" style="padding: 0px; border: none; margin: 0px; position: relative;"></td><td style="padding: 0px; border: none; margin: 0px; line-height: 0; font-size: 0px;"></td></tr><tr style="padding: 0px; border: none; margin: 0px; height: auto;"><td style="padding: 0px; border: none; margin: 0px; line-height: 0; font-size: 0px;"></td><td style="padding: 0px; border: none; margin: 0px; line-height: 0; font-size: 0px;"></td><td style="padding: 0px; border: none; margin: 0px; line-height: 0; font-size: 0px;"></td></tr></tbody></table></div></body></html>
