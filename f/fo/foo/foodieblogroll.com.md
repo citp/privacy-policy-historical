@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the foodieblogroll.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120110000id_/http%3A//foodieblogroll.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foodieblogroll.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610055826id_/http%3A//foodieblogroll.com/privacy) for the most accurate reproduction.*
 
 # Foodie Blogroll : Privacy Policy
 
-[Home](https://web.archive.org/web/20141120110000id_/http%3A//foodieblogroll.com/privacy?mode=home) > Privacy Policy 
+[Home](https://web.archive.org/web/20150610055826id_/http%3A//foodieblogroll.com/privacy?mode=home) > Privacy Policy 
 
 Your privacy on the Internet is very important to us. Because we gather certain types of information about our users, we feel you should fully understand our policy and the terms and conditions surrounding the collection and use of that information. This online Privacy Policy (the "Privacy Policy") tells you about the information Foodie Blogroll.com collects through its website (the "Site") and its Network and how we use that information. By using our services and accessing the Foodie Blogroll.com, you are consenting to the information collection and use practices described in the Privacy Policy, as modified from time to time by us. 
 
@@ -121,20 +121,10 @@ This document was last updated on September 26, 2012
 
 |  | 
 
-| Average Daily Visits: |   **1,241,554** (past 7 days)  
+| Average Daily Visits: |   **885,623** (past 7 days)  
 ---|---  
    
-This Month: |   **18,986,522**  
-This Year: |   **531,933,620**  
+This Month: |   **20,770,721**  
+This Year: |   **120,970,275**  
   
-## Total Blogs: [17501](http://foodieblogroll.com/blogs)
-
-[](http://foodieblogroll.com/contests/blogger-appreciation-giveaway-nov-2014-allclad-edition "Blogger Appreciation Giveaway - Nov 2014 - AllClad Edition")  
-  
----  
-  
-### Blogger Appreciation Giveaway - Nov 2014 - AllClad Edition  
-  
-[](http://foodieblogroll.com/contests/promote-each-other-giveaway "Promote Each Other Giveaway")  
-  
-### Promote Each Other Giveaway
+## Total Blogs: [16451](http://foodieblogroll.com/blogs)
