@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mobilephonesdirect.co.uk privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121032021id_/http%3A//www.mobilephonesdirect.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobilephonesdirect.co.uk privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611010730id_/http%3A//www.mobilephonesdirect.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Mobile Phones Direct
 
@@ -120,6 +120,8 @@ If you are an existing customer, we will only contact you by electronic means (e
 
 If you are a new customer, and where we permit selected third parties to use your data, we (or they) will contact you by electronic means only if you have consented to this.
 
-If you do not want us to use your data in this way, or to pass your details on to third parties for marketing purposes, please tick the relevant box situated on the form on which we collect your data when you place your order.
+By agreeing to our terms and conditions at the point of sale you are giving consent for Mobile Phones Direct to use your details for the marketing and research purposes listed above.
+
+If you do not want us to use your data in this way, or to pass your details on to third parties for marketing purposes, you will be given the opportunity to unsubscribe from our marketing list when we contact you for the first time. If you wish to be removed from our mailing list beforehand however, please contact us via [webshop@mobilephonesdirect.co.uk](mailto:webshop@mobilephonesdirect.co.uk) and you will receive confirmation on the removal of your data from all marketing purposes. 
 
 Some of our products and services may be used to promote products and services of other companies. We do not disclose information about identifiable individuals to our advertisers or any other company, except to a member of our group (as indicated in the section on sharing your personal data below), for marketing purposes without your prior consent.  We may however provide aggregate information about our users (for example, we may inform them that 500 men aged under 30 have clicked on their advertisement on any given day). We may also use such aggregate information to help advertisers reach the kind of audience they want to target (for example, women in SW1). We may make use of the personal data we have collected from you to enable us to comply with our advertisers' wishes by displaying their advertisement to that target audience.
