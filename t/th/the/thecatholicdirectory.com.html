@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the thecatholicdirectory.com privacy policy that was archived on 2014-11-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141121091356id_/http%3A//www.thecatholicdirectory.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the thecatholicdirectory.com privacy policy that was archived on 2015-06-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150610020610id_/http%3A//www.thecatholicdirectory.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
@@ -44,6 +44,105 @@
 	
 	
 </script>
+<script type="text/javascript" src="//maps.googleapis.com/maps/api/js?sensor=true"></script>
+<script type="text/javascript">
+	// Initialize default variables
+	var geocoder;
+	var lat;
+	var lon;
+	var latlng;
+	var maxAge = 300000;
+	var forceRefresh = false;
+	var addr = "";
+	var destination = "";
+	
+	function goToLocationPage(enableForcedRefresh, pageType)
+	{	
+		destination = pageType;
+		
+		if (navigator.geolocation)
+		{
+			if (enableForcedRefresh == true) {
+				maxAge = 0;
+				forceRefresh = true;
+			}
+			
+			navigator.geolocation.getCurrentPosition(success, error, {enableHighAccuracy: true, maximumAge: maxAge});
+		}
+		else
+		{
+			alert("HTML5 geolocation unsupported.");
+		}
+	}
+	
+	function success(position)
+	{
+		lat = position.coords.latitude;
+		lon = position.coords.longitude;
+		
+		if (forceRefresh == true | addr == "") {
+			// Google reverse geocoder
+			geocoder = new google.maps.Geocoder();
+			latlng = new google.maps.LatLng(lat,lon);
+			
+			geocoder.geocode({'latLng': latlng}, function(results, status) {
+				if (status == google.maps.GeocoderStatus.OK) {
+					if (results[1]) {
+						updateLocation(results[1].formatted_address, true);
+					} else {
+						updateLocation("No results found", true);
+					}
+				} else {
+					updateLocation("Geocoder failed due to: " + status, true);
+				}
+			});
+		}
+		else {
+			updateLocation(addr, false);
+		}
+	}
+	
+	function error(err)
+	{
+		switch (err.code) {
+			case 1:
+				// PERMISSION_DENIED
+				alert("Permission to access your location was denied. Check your settings to allow access.");
+				break;
+			case 2:
+				// POSITION_UNAVAILABLE
+				alert("Unable to determine your location.");
+				break;
+			case 3:
+				// TIMEOUT
+				alert("Timed out while trying to determine your location.");
+				break;
+			default:
+				// UNKNOWN_ERROR
+				alert("An unknown error occurred while trying to determine your location.");
+		}
+	}
+	
+	function updateLocation(locationStr, updateAddr) {
+		if (updateAddr) {
+			addr = locationStr;
+		}
+		
+		if(destination == "list")
+		{
+			location.href = "directory.cfm?fuseaction=search_location&lat=" + lat + "&lon=" + lon + "&addr=" + encodeURI(locationStr) + "&radius=50&measurement=mi";
+		}
+		else if(destination == "map")
+		{
+			location.href = "map/dsp_map_results_home.cfm?lat=" + lat + "&lon=" + lon + "&addr=" + encodeURI(locationStr);
+		}
+		
+		// Reset variables to defaults
+		maxAge = 300000;
+		forceRefresh = false;
+	}
+</script>
+<style>.fancybox-inner{overflow:scroll!important;-webkit-overflow-scrolling:touch!important;width:100%;height:100%;}</style>
 <title>TheCatholicDirectory.com Privacy Policy</title>
 <meta name="description" content="Privacy Policy Find look up and search The Catholic Directory for Catholic Church Mass Times Diocese Schools Ministry Clergy Priest Nuns Directions Maps Bulletin Schedule Knights of Columbus Ministries and Catholic organizations.">
 <meta name="keywords" content="catholic,directory,bulletin,mass times,schedule,mass,church,parish,diocese,archdiocese,prayer,priest,clergy,pope,bishop,the catholic directory,catholic directory"></head>
@@ -62,7 +161,7 @@ try{(function(a){var b="http://",c="www.thecatholicdirectory.com",d="/cdn-cgi/cl
 &nbsp;|&nbsp;
 <a class="sign_in" style="color:#FFFFFF;" href="http://www.thecatholicdirectory.com/mass">Mass Videos</a>
 &nbsp;|&nbsp;
-<a class="sign_in" style="color:#FFFFFF;" href="http://www.thecatholicdirectory.com/advertising/">Advertising</a>
+<a class="sign_in" style="color:#FFFFFF;" href="http://advertise.catholicdirectory.com/" target="_blank">Advertising</a>
 &nbsp;|&nbsp;
 <a class="sign_in" style="color:#FFFFFF;" id="display_free_account" href="http://www.thecatholicdirectory.com/web_signup.cfm?fancybox=1">Free Account</a>
 &nbsp;|&nbsp;
@@ -419,9 +518,10 @@ Facsimile: 877-611-4626
 </div>
 <div id="footer">
 <div id="footer_text">
-<ul class="footer_list">
+<ul class="footer_list" style="margin-left: -25px; width: 154px;">
 <li>Company</li>
 <li><a href="http://www.thecatholicdirectory.com/dsp_about_us.cfm">About Us</a></li>
+<li><a href="http://www.thecatholicdirectory.com/dsp_official.cfm">Official Catholic Directory</a></li>
 <li><a href="http://helpdesk.catholicdirectory.com" target="_blank">Get Support</a></li>
 <li><a href="http://www.thecatholicdirectory.com/dsp_request_info.cfm">Contact Us</a></li>
 <li><a id="open_mikogo" href="http://www.thecatholicdirectory.com/viewer/index.cfm" class="mikagoarea">Web Viewer</a></li>
@@ -435,15 +535,17 @@ Facsimile: 877-611-4626
 </ul>
 <ul class="footer_list">
 <li>Resources</li>
+<li><a href="javascript:goToLocationPage(true, 'map');">Nearby Google Map</a></li>
+<li><a href="javascript:goToLocationPage(true, 'list');">Nearby Church List</a></li>
+<li><a href="http://www.thecatholicdirectory.com/dsp_search_location.cfm">Search By Address</a></li>
 <li><a href="http://www.thecatholicdirectory.com/readings">Daily Readings</a></li>
 <li><a href="http://www.thecatholicdirectory.com/saint">Saint of the Day</a></li>
 <li><a href="http://www.thecatholicdirectory.com/mass">Mass Videos</a></li>
 </ul>
 <ul class="footer_list">
 <li>Advertising</li>
-<li><a href="http://www.thecatholicdirectory.com/advertising/">Ad Info &amp; Rates</a></li>
-<li><a href="http://www.thecatholicdirectory.com/advertising/learnmore/dsp_contact.cfm">Get an Ad Quote</a></li>
-<li><a href="https://www.thecatholicdirectory.com/advertising/dsp_ad_builder.cfm" target="_blank">Order Online Now!</a></li>
+<li><a href="http://advertise.catholicdirectory.com/" target="_blank">Ad Info &amp; Rates</a></li>
+<li><a href="http://advertise.catholicdirectory.com/contact/" target="_blank">Get a Quote</a></li>
 </ul>
 <ul class="footer_list">
 <li>Mobile</li>
@@ -469,7 +571,7 @@ Facsimile: 877-611-4626
 <div id="company_footer" align="center">
 <div id="company_footer_text">
 <div>
-Copyright © 2000-2014 TheCatholicDirectory.com<br>
+Copyright © 2000-2015 TheCatholicDirectory.com<br>
 <a href="http://www.thecatholicdirectory.com/legal">Legal</a> | <a href="http://www.thecatholicdirectory.com/terms">Terms of Use</a> | <a href="http://www.thecatholicdirectory.com/privacy">Privacy Policy</a> | <a href="http://www.thecatholicdirectory.com/cancellation_refund">Refunds &amp; Cancellations</a>
 </div>
 </div>
