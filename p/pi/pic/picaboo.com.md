@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the picaboo.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220091010id_/http%3A//www.picaboo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the picaboo.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610030735id_/http%3A//www.picaboo.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Picaboo
 
@@ -106,8 +106,6 @@ Picaboo may amend this Privacy Policy from time to time. Use of information we c
 
 If you have any questions or concerns regarding privacy at Picaboo site, please send us a detailed message to support@picaboo.com. We will make every effort to resolve your concerns.
 
-Picaboo Corporation
-
-255 Shoreline Dr. STE 100
-
-Redwood City, CA 94065
+Picaboo Corporation  
+15 Lebanon St.  
+Hanover, NH 03755
