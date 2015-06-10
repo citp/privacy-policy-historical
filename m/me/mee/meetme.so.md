@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the meetme.so privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227063043id_/http%3A//www.scheduleonce.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the meetme.so privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610233711id_/http%3A//www.scheduleonce.com/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -104,12 +104,12 @@ We may revise and update this Policy if our practices change, as technology chan
 
   8. ## 8\. CONTACTING US
 
-If you have any questions or comments about this Policy, the privacy practices of the Service, or your dealings with ScheduleOnce, please contact us via our [contact form](https://web.archive.org/web/20141227063043id_/http://www.scheduleonce.com/contactus.aspx). 
+If you have any questions or comments about this Policy, the privacy practices of the Service, or your dealings with ScheduleOnce, please contact us via our [contact form](https://web.archive.org/web/20150610233711id_/http://www.scheduleonce.com/contactus.aspx). 
 
 
   
   
 |   
    
-|  |  © Copyright ScheduleOnce 2014. All rights reserved.  |  |  [](https://plus.google.com/106047279285543324959) |  [ ](http://twitter.com/scheduleonce) |  [ ](http://www.facebook.com/ScheduleOnce) |  [ ](http://www.linkedin.com/company/2277459) |  [ ](https://www.youtube.com/scheduleonce#g/f)  
+|  |  © Copyright ScheduleOnce 2015. All rights reserved.  |  |  [](https://plus.google.com/106047279285543324959) |  [ ](http://twitter.com/scheduleonce) |  [ ](http://www.facebook.com/ScheduleOnce) |  [ ](http://www.linkedin.com/company/2277459) |  [ ](https://www.youtube.com/scheduleonce#g/f)  
 ---|---|---|---|---
