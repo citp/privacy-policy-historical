@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spurst.com privacy policy that was archived on 2014-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141127102026id_/http%3A//spurst.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spurst.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610055327id_/http%3A//spurst.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Spurst.com
 
