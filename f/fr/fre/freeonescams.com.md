@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freeonescams.com privacy policy that was archived on 2014-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141125170030id_/http%3A//www.freeonescams.com/privacy.html%3F) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeonescams.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610155407id_/http%3A//www.freeonescams.com/privacy.html%3F) for the most accurate reproduction.*
 
 # FreeOnesCams - Privacy Policy
 
@@ -50,4 +50,4 @@ The address for correspondence by post is
 ICF Technology, Inc.  
 PO Box 21508  
 Seattle, WA 98111  
-USA 
+USA
