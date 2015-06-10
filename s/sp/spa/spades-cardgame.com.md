@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spades-cardgame.com privacy policy that was archived on 2014-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141109180632id_/http%3A//www.spades-cardgame.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spades-cardgame.com privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611002040id_/http%3A//www.spades-cardgame.com/privacy) for the most accurate reproduction.*
 
 # PRIVACY POLICY
 
