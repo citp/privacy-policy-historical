@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shopeverlast.com privacy policy that was archived on 2014-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141224040250id_/http%3A//www.shopeverlast.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shopeverlast.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610021802id_/http%3A//www.shopeverlast.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
