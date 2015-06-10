@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kygunco.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122075809id_/http%3A//www.kygunco.com/info/index.cfm%3Finfo%3Dprivacy-statment) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kygunco.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610050359id_/http%3A//www.kygunco.com/info/index.cfm%3Finfo%3Dprivacy-statment) for the most accurate reproduction.*
 
 # The Kentucky Gun Co.
 
@@ -57,7 +57,7 @@ _**Contacting Us**_
 If there are any questions regarding this privacy policy you may contact us using the information below. 
 
 www.kygunco.com  
-P.O. Box 847  
+401 Glenwood Drive  
 Bardstown, KY 40004  
 US  
 info@kygunco.com
