@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the speedpost.com.sg privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121081224id_/http%3A//www.speedpost.com.sg/home/group-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the speedpost.com.sg privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610042634id_/http%3A//www.speedpost.com.sg/home/group-privacy-policy) for the most accurate reproduction.*
 
 # Speedpost - Group Privacy Policy
 
