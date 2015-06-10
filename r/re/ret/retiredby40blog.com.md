@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the retiredby40blog.com privacy policy that was archived on 2014-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140703010507id_/http%3A//www.retiredby40blog.com/google-adsense-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the retiredby40blog.com privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611012149id_/http%3A//www.retiredby40blog.com/hirecontact/google-adsense-privacy-policy) for the most accurate reproduction.*
 
-# {Privacy Policy} | Retired By 40!Retired By 40!
+# Privacy Policy - Retired by 40
 
 Privacy Policy for www.retiredby40blog.com
 
