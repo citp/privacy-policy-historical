@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indiantradecenter.com privacy policy that was archived on 2014-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140328104849id_/https%3A//www.indiantradecenter.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indiantradecenter.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610103545id_/https%3A//www.indiantradecenter.com/privacy_policy.php) for the most accurate reproduction.*
 
 # IndianTradeCenter - Indian Manufacturers Suppliers Exporters Directory
 
