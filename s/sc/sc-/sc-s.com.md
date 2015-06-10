@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sc-s.com privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123170445id_/http%3A//sc-s.com/other/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sc-s.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610040040id_/http%3A//sc-s.com/other/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Swag Codes Spoiler
 
@@ -53,6 +53,4 @@ You can access all your personally identifiable information that we collect onli
 
 ### **How To Contact Us**
 
-Should you have other questions or concerns about these privacy policies, please send us e-mail at swagcodespoiler@gmail.com
-
-© 2010 – 2013, [Swag Codes Spoiler](http://sc-s.com/). All rights reserved. “SwagBucks”, “SwagCodes” and “Swagstakes” are trademarks of Prodege LLC, all rights reserved. All trademarks and registered trademarks appearing on this site are property of their respective owners.
+Should you have other questions or concerns about these privacy policies, please send us e-mail to admin@sc-s.com
