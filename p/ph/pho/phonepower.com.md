@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the phonepower.com privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217010152id_/http%3A//www.phonepower.com/info/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phonepower.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610085830id_/http%3A//www.phonepower.com/info/privacy.aspx) for the most accurate reproduction.*
 
 # Phone Power - Privacy Policy | VoIP Service & FREE VoIP Phone Calls
 
