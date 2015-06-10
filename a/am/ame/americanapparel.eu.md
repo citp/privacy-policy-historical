@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the americanapparel.eu privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121110714id_/http%3A//store.americanapparel.eu/aboutus/privacypolicy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americanapparel.eu privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610053135id_/http%3A//store.americanapparel.eu/aboutus/privacypolicy.jsp) for the most accurate reproduction.*
 
 # Sign In/Create Account
 
