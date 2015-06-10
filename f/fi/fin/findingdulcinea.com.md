@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the findingdulcinea.com privacy policy that was archived on 2014-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141020124333id_/http%3A//www.findingdulcinea.com/info/privacy-promise.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the findingdulcinea.com privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611000217id_/http%3A//www.findingdulcinea.com/info/privacy-promise.html) for the most accurate reproduction.*
 
 # findingDulcinea's Privacy Policy / findingDulcinea
 
