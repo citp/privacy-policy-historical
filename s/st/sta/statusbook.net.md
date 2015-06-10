@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the statusbook.net privacy policy that was archived on 2014-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140430205153id_/http%3A//www.statusbook.net/terms/Privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the statusbook.net privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610204440id_/http%3A//statusbook.net/terms/Privacy.php) for the most accurate reproduction.*
 
 # PRIVACY POLICY
 
