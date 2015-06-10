@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the performanceboats.com privacy policy that was archived on 2014-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141011004338id_/http%3A//www.performanceboats.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the performanceboats.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610093247id_/http%3A//www.performanceboats.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Performance Boats Online - Event Coverage, Photos, Videos, Forums and News Privacy Policy
 
