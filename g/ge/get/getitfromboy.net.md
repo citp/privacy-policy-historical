@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the getitfromboy.net privacy policy that was archived on 2014-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141106121043id_/http%3A//getitfromboy.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getitfromboy.net privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611005634id_/http%3A//getitfromboy.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
-
-  
-
 
 This Privacy Policy may be modified from time to time; the date of the most recent revisions will appear on this page, so check back often. Continued access of the Website by you will constitute your acceptance of any changes or revisions to the Privacy Policy.
 
