@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the traveltriangle.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625083129id_/http%3A//traveltriangle.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the traveltriangle.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610085532id_/http%3A//traveltriangle.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - TravelTriangle
 
@@ -13,15 +13,18 @@ Cook: A "cookie" is a small piece of information stored by a Web server on a Web
 
   3. **Sharing of personal information**  
 We may share personal information withour other corporate entities and affiliates to: help detect and prevent identity theft, fraud and other potentially illegal acts; correlate related or multiple accounts to prevent abuse of our services; and to facilitate joint or co-branded services that you request where such services are provided by more than one corporate entity. Those entities and affiliates may not market to you as a result of such sharing unless you explicitly opt-in. We may disclose personal information if required to do so by law or in the good faith belief that such disclosure is reasonably necessary to respond to subpoenas, court orders, or other legal process. We may disclose personal information to law enforcement offices, third party rights owners, or others in the good faith belief that such disclosure is reasonably necessary to: enforce our Terms or Privacy Policy; respond to claims that an advertisement, posting or other content violates the rights of a third party; or protect the rights, property or personal safety of our users or the general public. TravelTriangle.com and its affiliates will share some or all of your personal information with another business entity should we (or our assets) plan to merge with, or be acquired by that business entity. Should such a transaction occur, that other business entity (or the new combined entity) will be required to follow this privacy policy with respect to your personal information. 
-  4. **Links to Other Sites**  
+  4. **Sharing of travel photos / videos**  
+By submitting Your videos/photos on our website or through email or any other medium of communication to traveltriangle.com, for good and valuable consideration, the sufficiency and receipt of which You acknowledge, You grant to TravelTriangle.com a non-exclusive, perpetual, worldwide, fully paid and royalty - free, transferable, and sub-licensable, license to edit, telecast, rerun, reproduce, use, syndicate, license, print, distribute and otherwise exploit in any manner the materials You submit, or any portion thereof, in or in connection with any of TravelTriangle.com and any of its affiliates’ websites, programming, platforms and/or applications, and in connection with the promotion, marketing and advertisement of any of the foregoing (the manner, mode and extent of which are subject to change without notice to You), in any manner and in any medium or forum, whether now known or hereafter devised, throughout the world and the universe. You represent and warrant to TravelTriangle.com that you have the full legal right, power and authority to grant to TravelTriangle.com the license provided for herein, that you own or control the complete Submission(s).   
+You agree that Your Submission(s), and the exercise of the rights granted herein, pursuant to these Terms, does not and will not violate any applicable state laws or regulations, or cause a breach of any agreement(s) with any third parties; and that none of the Submissions will infringe any copyright, invade any right of privacy, right of publicity, contain any libellous or slanderous material, or infringe or violate any intellectual property right or other right (including common law rights) of any other person or entity. 
+  5. **Links to Other Sites**  
 Our site links to other websites that may collect personally identifiable information about you. TravelTriangle.com is not responsible for the privacy practices or the content of those linked websites. 
-  5. **Security Precautions**  
+  6. **Security Precautions**  
 Our site has stringent security measures in place to protect the loss, misuse, and alteration of the information under our control. Whenever you change or access your account information, we offer the use of a secure server. Once your information is in our possession we adhere to strict security guidelines, protecting it against unauthorized access. 
-  6. **Choice/Opt-Out**  
+  7. **Choice/Opt-Out**  
 TravelTriangle.com provides all users with the opportunity to opt-out of receiving non-essential (promotional, marketing-related) communications from us on behalf of our partners, and from us in general, after setting up an account. To remove your contact information from all TravelTriangle.com lists and newsletters, Please contact us at the address below. 
-  7. **Questions?**  
+  8. **Questions?**  
 Questions regarding this statement should be directed to the following address: support@TravelTriangle.com 
-  8. **Advertisements on TravelTriangle.com**  
+  9. **Advertisements on TravelTriangle.com**  
 We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. 
 
 
