@@ -1,54 +1,82 @@
-> *The following text is extracted and transformed from the blink182.com privacy policy that was archived on 2014-07-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140719040551id_/http%3A//blink-182.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blink182.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610060605id_/https%3A//blink182merch.com/pages/privacy-policy) for the most accurate reproduction.*
 
-# Blink-182 "Untitled", 10th Anniversary Shows
+# Privacy Policy | blink-182 Merch
 
-The relationship we have built with our customers is very important to us. Modlife Inc. ("Modlife") is committed to providing our customers with a secure website and will only collect the personal information that is necessary to process your order or provide you with other services as described below.
+PRIVACY STATEMENT
 
-Rest assured, access will be limited to the appropriate employees and will never be sold to any other company. Please read the following information to learn more about how and why we collect information and how the information is safeguarded against misuse.
+\----
 
-**YOUR CALIFORNIA PRIVACY RIGHTS**   
-For any inquiries regarding Modlife's Privacy Policy, including your California Privacy Rights, please email info@modlife.com or write to Modlife, Attn: Website Privacy Policy, 2251 Las Palmas Drive, Carlsbad, CA 92011. 
+SECTION 1 - WHAT DO WE DO WITH YOUR INFORMATION?
 
-**What information do we need when you make a purchase?**  
-We will ask you to provide:
+When you purchase something from our store, as part of the buying and selling process, we collect the personal information you give us such as your name, address and email address.   
+When you browse our store, we also automatically receive your computer’s internet protocol (IP) address in order to provide us with information that helps us learn about your browser and operating system.  
+Email marketing (if applicable): With your permission, we may send you emails about our store, new products and other updates. 
 
-payment method   
-credit card account number and expiration date (if applicable)   
-name (as it appears on credit card)   
-billing address (as it appears on your credit card statement)   
-shipping address (if required and different from billing address)   
-daytime phone number   
-e-mail address 
+SECTION 2 - CONSENT
 
-As a Premium Subscriber on modlife.com, you will be asked to provide credit card or Paypal account information. Subscription services require credit/debit card payment. All account management is done through your MY ACCOUNT page. To access this page, please log in to www.modlife.com and choose MY ACCOUNT from the menu. Then click on MY SUBSCRIPTIONS to access all of your subscription information. To cancel a subscription, simply click on "Cancel a subscription" and then choose the one you'd like to cancel.
+How do you get my consent?  
+When you provide us with personal information to complete a transaction, verify your credit card, place an order, arrange for a delivery or return a purchase, we imply that you consent to our collecting it and using it for that specific reason only.  
+If we ask for your personal information for a secondary reason, like marketing, we will either ask you directly for your expressed consent, or provide you with an opportunity to say no. 
 
-As our customer, we confidently assure that your personal information is transmitted over secure servers. We only ask for the information necessary to process your order. When we process a credit card transaction, your information is forwarded directly to our credit card processor for authorization. We guarantee you will only pay for authorized items that you have ordered.
+How do I withdraw my consent?  
+If after you opt-in, you change your mind, you may withdraw your consent for us to contact you, for the continued collection, use or disclosure of your information, at anytime, by contacting us at support@bompa.com or mailing us at:  
+Blink-182 Official Store  
+1062 Calle Negocio #J San Clemente California US 92673
 
-Modlife collaborates with government agencies and security organizations to prevent fraud and fraudulent use of your personal information. During fraud prevention investigations, we may share information with the agencies that assist us, as permitted and required by US law. This information will never be used for marketing purposes. Usage is strictly assigned to assist and prevent fraud investigations.
+SECTION 3 - DISCLOSURE
 
-"Cookie" is the term we use for a text file that is stored on the database of your computer. Nearly all modern websites use cookies to enhance your browsing experience and provide more streamlined interactivity. Cookies are used to send information to your Internet browser from a web server. These little bits of information are stored on your computer's hard drive. We use the information collected by cookies to determine which parts of our website are visited most often. They are also used to figure out where on our site you may be experiencing technical difficulties.
+We may disclose your personal information if we are required by law to do so or if you violate our Terms of Service. 
 
-Our goal is to improve the quality of our website, tailor our products and services to suit your personal interests, track and/or analyze visiting patterns and resolve difficulties you may encounter while on our site.
+SECTION 4 - SHOPIFY
 
-Modlife offers a variety of fun and exciting online contests. Most of these contests are open to U.S. residents 13 years of age and older. **If you are a teen under 16 years of age, it is absolutely necessary to obtain your parent or guardian's permission before providing any personal information.**
+Our store is hosted on Shopify Inc. They provide us with the online e-commerce platform that allows us to sell our products and services to you.   
+Your data is stored through Shopify’s data storage, databases and the general Shopify application. They store your data on a secure server behind a firewall.
 
-Third Party Advertising The ads appearing on modlife.com are delivered to users by our web advertising partners. Information about users' visit to modlife.com, such as number of times they have viewed an ad (but not user name, address, or other personal information), is used to serve ads to users on our website. This Privacy Policy covers the use of cookies by Modlife only and does not cover the use of cookies by any advertisers. 
+Payment:  
+If you choose a direct payment gateway to complete your purchase, then Shopify stores your credit card data. It is encrypted through the Payment Card Industry Data Security Standard (PCI-DSS). Your purchase transaction data is stored only as long as is necessary to complete your purchase transaction. After that is complete, your purchase transaction information is deleted.  
+All direct payment gateways adhere to the standards set by PCI-DSS as managed by the PCI Security Standards Council, which is a joint effort of brands like Visa, MasterCard, American Express and Discover.   
+PCI-DSS requirements help ensure the secure handling of credit card information by our store and its service providers.  
+For more insight, you may also want to read Shopify’s Terms of Service here or Privacy Statement here.
 
-An IP address is a computer identification number that is used any time your computer is connected to the Internet. Web serves, the computers that "serve up" web pages, identify your computer by its IP address. Modlife collects IP addresses for the purposes of system administration and to audit the use of our website. When visitors request pages from our website, our servers log the visitors' IP addresses. WE do not link IP addresses to anything personally identifiable, which means that a visitor's session on our website will be logged, but the user remains anonymous to us. WE can and will use IP addresses to identify a user when we feel it is necessary to enforce compliance with our Terms of Use, to protect our services, site, customers or others.
+SECTION 5 - THIRD-PARTY SERVICES
 
-Modlife takes every precaution to protect our users' information. When users submit sensitive information via modlife.com, their information is protected both online and off-line.
+In general, the third-party providers used by us will only collect, use and disclose your information to the extent necessary to allow them to perform the services they provide to us.   
+However, certain third-party service providers, such as payment gateways and other payment transaction processors, have their own privacy policies in respect to the information we are required to provide to them for your purchase-related transactions.  
+For these providers, we recommend that you read their privacy policies so you can understand the manner in which your personal information will be handled by these providers.   
+In particular, remember that certain providers may be located in or have facilities that are located a different jurisdiction than either you or us. So if you elect to proceed with a transaction that involves the services of a third-party service provider, then your information may become subject to the laws of the jurisdiction(s) in which that service provider or its facilities are located.  
+As an example, if you are located in Canada and your transaction is processed by a payment gateway located in the United States, then your personal information used in completing that transaction may be subject to disclosure under United States legislation, including the Patriot Act.  
+Once you leave our store’s website or are redirected to a third-party website or application, you are no longer governed by this Privacy Policy or our website’s Terms of Service. 
 
-Your personal information is contained behind secured networks and is only accessible by a limited number of employees who have special access rights to such systems. Please be aware, however, that no data transmission over the Internet can be guaranteed to be 100% secure. As a result, while we strive to protect your personal information, Modlife cannot insure or warrant the security of any information you transmit to us or from our online products or services. Once we receive your transmission, we make our best effort to ensure its security on our systems.
+Links  
+When you click on links on our store, they may direct you away from our site. We are not responsible for the privacy practices of other sites and encourage you to read their privacy statements.  
+SECTION 6 - SECURITY
 
-We do not intentionally collect information from children under 13 years of age. If you are a parent and you think we have inadvertently collected such information from your child, you may e-mail us at info@modlife.com. 
+To protect your personal information, we take reasonable precautions and follow industry best practices to make sure it is not inappropriately lost, misused, accessed, disclosed, altered or destroyed.  
+If you provide us with your credit card information, the information is encrypted using secure socket layer technology (SSL) and stored with a AES-256 encryption. Although no method of transmission over the Internet or electronic storage is 100% secure, we follow all PCI-DSS requirements and implement additional generally accepted industry standards.
 
-The Fair Credit Billing Act was passed by Congress in 1975. This Act prohibits your bank or credit card processor from holding you liable for more than $50 on fraudulent charges made to your credit card. If you are held liable for this charge, Modlife will reimburse you the $50.
+SECTION 7 - COOKIES
 
-**In Summary**  
-Modlife is committed to protecting your privacy. We use the information we collect on the site to service you and to enhance your overall experience. We do not sell, trade, or rent your personal information to others.
+Here is a list of cookies that we use. We’ve listed them here so you that you can choose if you want to opt-out of cookies or not.  
+_session_id, unique token, sessional, Allows Shopify to store information about your session (referrer, landing page, etc).  
+_shopify_visit, no data held, Persistent for 30 minutes from the last visit, Used by our website provider’s internal stats tracker to record the number of visits  
+_shopify_uniq, no data held, expires midnight (relative to the visitor) of the next day, Counts the number of visits to a store by a single customer.  
+cart, unique token, persistent for 2 weeks, Stores information about the contents of your cart.  
+_secure_session_id, unique token, sessional  
+storefront_digest, unique token, indefinite If the shop has a password, this is used to determine if the current visitor has access.  
+n  
+SECTION 8 - AGE OF CONSENT
 
-**Your Consent**   
-By using the products and services available on modlife.com, you consent to the collection and use of this information by Modlife. If we decide to change our Privacy Policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it. Your continued use of our website following the posting of changes to these terms will mean you accept those changes.
+By using this site, you represent that you are at least the age of majority in your state or province of residence, or that you are the age of majority in your state or province of residence and you have given us your consent to allow any of your minor dependents to use this site.
 
-**Questions or Comments**  
-Please contact us with any questions or comments. 
+SECTION 9 - CHANGES TO THIS PRIVACY POLICY
+
+We reserve the right to modify this privacy policy at any time, so please review it frequently. Changes and clarifications will take effect immediately upon their posting on the website. If we make material changes to this policy, we will notify you here that it has been updated, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we use and/or disclose it.  
+If our store is acquired or merged with another company, your information may be transferred to the new owners so that we may continue to sell products to you.
+
+QUESTIONS AND CONTACT INFORMATION
+
+If you would like to: access, correct, amend or delete any personal information we have about you, register a complaint, or simply want more information contact our Privacy Compliance Officer at support@bompa.com or by mail at   
+Blink-182 Official Store  
+[Re: Privacy Compliance Officer]   
+[1062 Calle Negocio #J San Clemente California US 92673  
+\---- 
