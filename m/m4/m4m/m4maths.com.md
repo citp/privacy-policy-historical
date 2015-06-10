@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the m4maths.com privacy policy that was archived on 2013-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131204115452id_/http%3A//www.m4maths.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the m4maths.com privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611010606id_/http%3A//www.m4maths.com/privacy.php) for the most accurate reproduction.*
 
 # M4maths Privacy policy
 
@@ -18,7 +18,8 @@ We want to give you information about our privacy policy and assure you that we 
 
 **M4MATHS** does not engage in or support spamming or misuse of email addresses. 
 
-We require your email address when you register as a member to our Site. Your email address is used once to send you a welcome notice, and may be used to send The mail such as a major change to our service, Weekly result, or to send your password if you lose/forget it and mail if your friend invite you to join the site. If you take part in our contests, and are a winner, your prize notification will also be sent at that address. Any other emails from **M4MATHS** will only be sent to you if you explicitly ask us to send them. 
+We require your email address when you register as a member to our Site. Your email address is used once to send you a welcome notice, and may be used to send The mail such as a major change to our service, Weekly result, or to send your password if you lose/forget it and mail if your friend invite you to join the site. If you take part in our contests, and are a winner, your prize notification will also be sent at that address. Any other emails from **M4MATHS** will only be sent to you if you explicitly ask us to send them.  
+m4maths can send you email related to m4maths or its other product(iitbrain, 0mrp). If you don't want to get any promotional email then you can un-subscribe for email. 
 
 When you use the "invite your friend" feature on the **M4MATHS** web site, the email address of your friend is used only to send your invitation mail with your message. No further emails are sent to that address, nor is that address revealed to any third party. 
 
