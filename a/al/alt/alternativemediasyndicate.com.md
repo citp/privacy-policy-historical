@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alternativemediasyndicate.com privacy policy that was archived on 2014-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141205072322id_/http%3A//alternativemediasyndicate.com/sample-page) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alternativemediasyndicate.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610162108id_/http%3A//alternativemediasyndicate.com/sample-page) for the most accurate reproduction.*
 
 # Privacy Policy « ALTERNATIVE MEDIA SYNDICATE
 
