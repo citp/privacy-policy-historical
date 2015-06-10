@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the musicloops.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122080703id_/http%3A//www.musicloops.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the musicloops.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610044757id_/http%3A//www.musicloops.com/privacy.php) for the most accurate reproduction.*
 
 # Musicloops.com's Privacy Policy Statement
 
