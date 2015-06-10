@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the somothemes.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120065354id_/http%3A//one.somothemes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the somothemes.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610032348id_/http%3A//one.somothemes.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -10,7 +10,7 @@ When visiting somothemes.com, the IP address used to access the site will be log
 
 Cookies may be used to remember visitor preferences when interacting with the website. They may be used to track your return visits to the website.
 
-Where registration is required, the visitor’s email, username and other relevant information will be stored on the server. Email addresses will NEVER be sold, rented or leased to 3rd parties. Emails may be sent to inform you of news of our services or offers by us.
+Where registration is required, the visitor's email, username and other relevant information will be stored on the server. Email addresses will NEVER be sold, rented or leased to 3rd parties. Emails may be sent to inform you of news of our services or offers by us.
 
 **Third-Party Sites**
 
@@ -18,7 +18,7 @@ We have included links on this site for your use and reference. We are not respo
 
 **Changes to this Privacy Statement**
 
-From time to time, the contents of this statement may be altered at any time, at our discretion. To keep up-to-date with Somothemes.com’s privacy policy, please check this page periodically. If you have any questions regarding the privacy policy of Somothemes.com, you may contact us.
+From time to time, the contents of this statement may be altered at any time, at our discretion. To keep up-to-date with Somothemes.com's privacy policy, please check this page periodically. If you have any questions regarding the privacy policy of Somothemes.com, you may contact us.
 
 The information we collect is disclosed when legally required to do so, at the request of governmental authorities conducting an investigation, to verify or enforce compliance with the policies governing our website and applicable laws or to protect against misuse or unauthorized use of our Website.
 
