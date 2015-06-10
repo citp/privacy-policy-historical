@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the sseairtricity.com privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123172313id_/http%3A//www.sseairtricity.com/ie/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sseairtricity.com privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611005542id_/http%3A//www.sseairtricity.com/ie/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# 
+
+## Privacy Policy
 
 SSE Airtricity Limited, a company registered in Ireland with company number 317386 and having its registered office at Red Oak South, South County Business Park, Leopardstown, Dublin 18 and a member of the Scottish and Southern Energy Group (hereinafter referred to as “ **SSE Airtricity** ”, “ **Our** ”, “ **We** ” or “ **Us** ”) is committed to protecting and respecting your privacy.
 
