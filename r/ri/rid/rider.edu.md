@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rider.edu privacy policy that was archived on 2014-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141223124656id_/http%3A//www.rider.edu/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rider.edu privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610235824id_/http%3A//www.rider.edu/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Rider University
 
