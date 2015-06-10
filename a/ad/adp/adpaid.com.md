@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adpaid.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625054114id_/http%3A//adpaid.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adpaid.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610124339id_/http%3A//adpaid.com/privacy.php) for the most accurate reproduction.*
 
 # AdPaid.com Privacy Statement
 
@@ -29,4 +29,4 @@ AdPaid.com gives users the following options for changing and modifying informat
 
 ## **Sponsor Ads**
 
-[](http://www.v2cigs.com/3459-32-1-680.html)
+[](http://viru5.com/index.php?x=5163)
