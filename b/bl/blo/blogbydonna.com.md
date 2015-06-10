@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blogbydonna.com privacy policy that was archived on 2014-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141119225844id_/http%3A//blogbydonna.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blogbydonna.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610085833id_/http%3A//blogbydonna.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Blog By DonnaBlog By Donna
 
@@ -62,4 +62,4 @@ To learn more about this behavioral advertising practice visit the NAI at [http:
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
 [http://blogbydonna.com](http://blogbydonna.com/)  
-[donna@blogbydonna.com](https://web.archive.org/web/20141119225844id_/http://blogbydonna.com/privacy-policy/donna@blogbydonna.com)
+[donna@blogbydonna.com](https://web.archive.org/web/20150610085833id_/http://blogbydonna.com/privacy-policy/donna@blogbydonna.com)
