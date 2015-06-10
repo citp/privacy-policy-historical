@@ -1,67 +1,77 @@
-> *The following text is extracted and transformed from the pcb.com.pk privacy policy that was archived on 2010-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100305140525id_/http%3A//www.pcb.com.pk/Pakistan/Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pcb.com.pk privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610021728id_/http%3A//www.pcb.com.pk/pcb-privacy-statment.html) for the most accurate reproduction.*
 
-# Pakistan Cricket Board - official website
+# PCB is committed to safeguarding your privacy online.
 
-The PCB respects your privacy and is committed to protect your personal information. This section details our policy on data collection, protection and any use of your information while providing the services and information you request over the internet. 
+### PCB PRIVACY STATEMENT
 
-This policy is not applicable to third party suppliers, (PCB sponsors, licensees and other partners) who, from time to time may perform some specialised activity for PCB. If any personal information is supplied to these third parties in order for them to perform their agreed activities, PCB will ensure that they are aware of their obligations under Law.
+PCB is committed to safeguarding your privacy online. Please read the following statement to understand how your personal information will be treated as you make full use of the PCB website and services. http://www.pcb.com.pk/ is owned and operated by Pakistan Cricket Board.
 
-**Information collection**
+**Summary**
 
-The PCB, from time to time and to conduct its business may collect the following personal information, for the following purposes: 
+Our primary goal in collecting user information is to enhance your experience on our website and the web. We use aggregated (gathered up data across all user accounts) information to develop content targeted to users' interests and to better the website user experience. PCB is committed to your privacy and other than as provided herein or after receiving your specific consent, PCB will not share any personal information with any third party at any time, unless required by law.
 
-\- contact details and names of participants in cricket matches and cricket competitions organised by us or played under our auspices;
+#### What this Privacy Policy Covers
 
-\- contact details and names of participants/users or visitors to corporate hospitality and events, to help analyse the market and for direct marketing purposes, unless advised otherwise;
+This privacy policy covers the website and activities of _PCB.com.pk_. Please be aware that PCB.com.pk sponsors, advertisers and partners or affiliates with co-branded modules or sections on _PCB.com.pk_ may collect personally identifiable information about you while on our website. The information practices of those parties are not covered by this privacy statement. We encourage you to be aware when you leave our site and to read the privacy statements of each and every website that collects personally identifiable information. This privacy statement applies only to information collected by us.
 
-\- contact details and names of participants in any PCB coaching clinics for contact in an emergency and for direct marketing purposes, unless advised otherwise;
+_PCB.com.pk_ users should also be aware that, when you voluntarily disclose personal information in chat areas or bulletin boards, that information may be collected by others and may result in unsolicited messages from others. We are not responsible for the personally identifiable information you choose to submit in these forums. To request removal of your personal information from our blog or community forum, contact us at [online@pcb.com.pk](mailto:online@pcb.com.pk) … In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
 
-\- contact details and names of individuals, corporations or other entities who have requested priority notice of ticket sales or special events, so that the notice may be provided;
+his is the website of SportsBlog.com ("we" or "us"). We are committed to maintaining the privacy of the information that you provide to us in using this site. The following privacy policy applies to the information we collect from you and how we use and protect it. This privacy policy applies only to this site and does not apply to any third-party websites linked to this site. We are not responsible for the privacy practices or the contents of any third-party linked website.
 
-\- contact details and names of subscribers to the PCB on-line and email newsletters, so that the service is provided and for direct marketing purposes, unless advised otherwise;
+### What information do we collect?
 
-\- contact details and names of clients of the PCB on-line shop, so that the service is provided and for direct marketing purposes, unless advised otherwise;
+When you register as a user of this site, we may collect your email address, username and password, name and address, telephone number, fax number, and payment information (e.g., credit card number and billing address).
 
-\- contact details and names of subscribers to any of the sections of the PCB website that require registration for access, so that the access is provided and for direct marketing purposes, unless advised otherwise;
+Additionally, when you visit this site, we automatically collect some non-personally identifiable computer information, such as the type of computer operating system (such as Windows XP or Mac OS) and web browser (such as Netscape or Internet Explorer) you are using, information regarding your Internet service provider, and the frequency with which you visit various parts of this site. We use this information to manage the Website and make it more interesting and useful to you.
 
-\- contact details and names of registrants of the PCB website who participate in any survey towards the development of a user database, so that improved features and other content may be provided and for direct marketing purposes, unless advised otherwise.
+We may offer public forums through this site. If you use a public forum on this site and disclose personally identifiable information, you should be aware that such information could be read, collected or used by other users. We are not responsible for the personally identifiable information you choose to submit through public forums.
 
+### How do we use the information we collect?
 
-At the time of collection of the above information, where possible, the PCB will:  \- inform the surfer or visitor to the PCB website of the purpose;
+The information we collect is used to communicate with users regarding their account, improve the content of this site, customize the content and/or layout of this site for each individual visitor, notify consumers about updates to this site, and contact consumers for marketing purposes. The information we collect is shared as necessary with agents or contractors who assist in providing support for our internal operations. The information we collect is disclosed when legally required to do so, at the request of governmental authorities conducting an investigation, to verify or enforce compliance with the policies governing this site and applicable laws or to protect against misuse or unauthorized use of this site, and to a successor entity in connection with a corporate merger, consolidation, sale of assets or other corporate change respecting this site. We never give your e-mail address or other personally identifiable information to advertisers on our website or to other third parties for marketing purposes without your affirmative permission.
 
-\- request the surfer or visitor to the PCB website for consent to the proposed use of his/her personal information; and
+### How to opt out of receiving email
 
-\- give the surfer or visitor to the PCB website an option to refuse receiving of offers, invitations or other information. 
+If you do not want to receive e-mail from us in the future, you should let us know by sending a removal request to us at online@pcb.com.pk, We honor all removal requests.
 
+### What are cookies, and how do we use them?
 
+A cookie is a small piece of information that we place in your computer browser to collect information regarding your preferences. We use cookies to identify you when you visit us and to keep track of where you go so we can provide you with a personalized version of this site. Cookies do not contain any personally identifiable information. Cookies could enable us to relate your use of this site to personal information you have provided, but we do not use them for this purpose. You can use your browser settings to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. If you turn off cookies, you will not have access to some of the features that make your experience on this site smoother, and some of our services may not function properly.
 
+### Linked websites
 
-**Information storage**
+This site may contain links to other websites, including those of sponsors and advertisers. The information practices on those sites may be different from ours and are not covered by our privacy policy. We encourage you to consult the privacy notices on those sites.
 
-PCB will ensure that any personal information is stored securely and the methodology will be: 
+### Third-party advertising
 
-\- storage of records on paper in a physically secure place; 
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see:<http://www.networkadvertising.org/managing/opt_out.asp>
 
-\- use of encrypted and appropriate access controls in relation to the PCB information systems; and 
+### How to request information maintained about you
 
-\- storage of electronic format information in a secure and protected database which is inaccessible via the internet. 
+Upon request, we will provide you with access to all information (including proprietary information) that we maintain about you. You can access this information by emailing us at online@pcb.com.pk
 
+### We cannot guarantee the security of this site
 
+We take seriously our obligation to safeguard the confidentiality, security and integrity of personal information collected from our users and have established and will maintain procedures that are designed for that purpose. You should be aware, however, that no system is completely secure from hackers, network failure and error, and we cannot guarantee the confidentiality, security and integrity of information maintained on this site.
 
+### Modification of privacy policy
 
-**Use of information**
+To accommodate new services and features on this site and to ensure up-to-date compliance with privacy laws, we may modify our privacy policy from time to time. When we modify our privacy policy, we will notify you by a posting on this webpage. Any changes will become effective as of the date of posting with respect to information we then collect in the future. We will treat all personal information we collect, however, in accordance with the privacy policy in effect at the time the information is collected. We urge you to review this privacy policy often so you are always fully informed.
 
-PCB will only use the information collected and store it for the purpose that has been communicated or for which consent has been obtained. 
+### Contact us
 
-PCB may, from time to time, carry out research using the information in order to improve its business, products and services. This research analysis would be carried out using aggregate information not related to specific individuals. 
+If you have any questions or comments about our privacy policy, please contact us at:
 
-PCB may, from time to time, use the information to communicate with customers or potential customers about a product or service offering which may be of interest to them. Each time the PCB contacts a customer they will be asked whether they wish to receive or not receive any further communications. If advised that they do not wish to receive further communications of that nature, the PCB will comply. 
+### By email:
 
-**Disclosure of information**
+online@pcb.com.pk
 
-The Pakistan Cricket Board (PCB) will not disclose or share your personal information except as described in this policy or when the PCB is legally required to do. 
+### By regular mail:
 
-**Further information**
+Pakistan Cricket Board
 
-Please feel free to contact the PCB for any further information about the use of personal information. You may also do so if at any time your details change or you would like access to the information collected or if you do not wish to receive offers or other information.   
-For more informtion, please contact Pakistan Cricket Board [Feedback](https://web.archive.org/Pakistan/Feedback.html)
+Qaddafi Stadium. Lahore
+
+Pakistan
+
+[http://www.pcb.com.pk/](https://web.archive.org/web/20150610021728id_/http%3A/)
