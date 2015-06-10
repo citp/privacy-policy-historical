@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the livsports.in privacy policy that was archived on 2014-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141225083711id_/http%3A//www.livsports.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livsports.in privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610065845id_/http%3A//www.livsports.in/privacy-policy) for the most accurate reproduction.*
 
-# LIVSports.in | Privacy Policy
+# LIVSports.in | LIV Sports
 
 ## Privacy Policy
 
