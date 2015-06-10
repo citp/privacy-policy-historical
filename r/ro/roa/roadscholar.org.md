@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the roadscholar.org privacy policy that was archived on 2014-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141204105528id_/http%3A//www.roadscholar.org/about/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roadscholar.org privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610084816id_/http%3A//www.roadscholar.org/about/privacy.asp) for the most accurate reproduction.*
 
 # Road Scholar : Privacy Policy
 
@@ -20,7 +20,7 @@ When you are conducting an account transaction or registering to receive the Roa
 
 You can verify our compliance at any time by clicking on the VeriSign logo located on our registration form.
 
-If you feel uncomfortable completing your registration via our website, please feel free to contact our registration staff toll-free: 1-800-454-5768, Monday-Friday, 8 a.m. to 7 p.m. ET.
+If you feel uncomfortable completing your registration via our website, please feel free to contact our registration staff toll-free: 1-800-454-5768, Monday-Friday: 8 a.m. to 7 p.m. ET.
 
 **How we use "cookies" information:**
 
@@ -44,7 +44,7 @@ Boston, MA 02111-1746
 
 Call us toll-free at  
 1-800-454-5768,   
-Monday-Friday, 8 a.m. to 7 p.m. ET 
+Monday-Friday: 8 a.m. to 7 p.m. ET 
 
 You can also fax us toll-free at   
 1-877-426-2166
@@ -52,10 +52,7 @@ You can also fax us toll-free at
 |  |    
 
 
-[](http://www.roadscholar.org/n/40years?cm_sp=Plug-_-Boomer-_-40thprograms)
-
-  
-
+[](https://web.archive.org/friendscontest)
 
 **I WANT TO LEARN ABOUT ...**   
   
@@ -66,15 +63,17 @@ You can also fax us toll-free at
 
 Add price, activity level and more. 
 
-  
+[ ](http://www.roadscholar.org//about/pos_page.asp?cm_sp=Plug-_-Boomer-_-Top10)
 
+[](https://web.archive.org/lps/blog_participants.asp#Read_Nancy_s_Blog)
 
 [ ](http://www.roadscholar.org/programs/enewslanding.asp?ecode=AWP&layout=PL&cm_sp=Plug-_-Boomer-_-TopRatedB611)
 
 [ ](http://www.roadscholar.org/programs/special_offers.asp?cm_sp=Plug-_-Boomer-_-SpecialOffers)
 
-Tell a friend about Road Scholar and this month you could win a [**$1,000 gift certificate!**](http://www.roadscholar.org//n/forms/referafriend_form.aspx?src=DEE&cm_sp=Plug-_-Boomer-_-RAF1211B)   
-**Congratulations to our latest winner, Sharon D.**
+Tell a friend about Road Scholar and this month you could win a [ **$1,000 gift certificate!**](http://www.roadscholar.org//n/forms/referafriend_form.aspx?src=DEE&cm_sp=Plug-_-Boomer-_-RAF1211B)   
+**Congratulations to our latest winner, Dr. William and Ann W.**
 
-Two Great Gift Ideas  
-for the Holidays! 
+[ ](http://www.roadscholar.org/programs/enewslanding.asp?ecode=FGR&cm_sp=Plug-_-Boomer-_-intergen0615)
+
+[ ](http://www.roadscholar.org/ambassador/default.asp?cm_sp=Plug-_-Boomer-_-ambassador0615)
