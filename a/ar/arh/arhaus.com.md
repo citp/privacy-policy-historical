@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the arhaus.com privacy policy that was archived on 2014-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141225031422id_/http%3A//www.arhaus.com/corp/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arhaus.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610052800id_/http%3A//www.arhaus.com/corp/privacy) for the most accurate reproduction.*
 
 # Privacy | Arhaus Furniture
 
 This site requires cookies to be enabled. Please change your browser to accept cookies before proceeding. [Learn more](https://web.archive.org/corp/privacy/)
 
 [ ](https://web.archive.org/)
-
-[ ](https://web.archive.org/mailinglist/default.aspx)
 
 Arhaus is committed to protecting your privacy. Through this policy we want you to understand that we respect and honor your right to protect personal information.
 
