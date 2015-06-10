@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cashconverters.co.uk privacy policy that was archived on 2014-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141221063158id_/http%3A//www.cashconverters.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cashconverters.co.uk privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610105806id_/http%3A//www.cashconverters.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Cash Converters
 
@@ -13,7 +13,7 @@ We are Cash Converters (UK) Limited, a company registered in England and Wales w
 
 #### About this Policy
 
-This privacy policy applies to any use we make of your personal details collected by us, whether through this website or as a result of your use of this website, or when you otherwise apply for or use any of our products and services, including any application you make for a loan (whether or not successful) through our website [www.cashconverters.co.uk](http://cashconverters.co.uk/ "Cash Converters UK") or otherwise.
+This privacy policy applies to any use we make of your personal details collected by us, whether through this website or as a result of your use of this website, or when you otherwise apply for or use any of our products and services, including any application you make for a loan (whether or not successful) through our website [www.cashconverters.co.uk](http://www.cashconverters.co.uk/ "Cash Converters UK") or otherwise.
 
 This Privacy Policy explains our commitment to protecting your information and privacy. It also explains how we use the information you provide to us when you visit our website or when you contact us or use our products and services.
 
