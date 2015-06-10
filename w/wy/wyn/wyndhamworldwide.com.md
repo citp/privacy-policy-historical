@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the wyndhamworldwide.com privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123181549id_/http%3A//www.wyndhamworldwide.com/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wyndhamworldwide.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610021350id_/http%3A//www.wyndhamworldwide.com/privacy-notice) for the most accurate reproduction.*
 
 # Privacy Notice | Wyndham Worldwide
 
-[](http://wyndhamworldwide.com/print/1718 "Display a printer-friendly version of this page.")
+[](http://www.wyndhamworldwide.com/print/1718 "Display a printer-friendly version of this page.")
 
 Wyndham Worldwide Corporation is concerned about privacy issues and wants you to be familiar with how we collect, use and disclose information.  This Privacy Notice describes our practices in connection with information that we collect through  websites operated by us from which you are accessing this Privacy Notice (the “ **Websites** ”), through the software applications made available by us for use on or through computers and mobile devices (the “ **Apps** ”), and through our social media pages that we control from which you are accessing this Privacy Notice (collectively, our “ **Social Media Pages** ”), (collectively, including the Websites, the Apps and our Social Media Pages, the “ **Services** ”).  This Privacy Notice also applies to our offline collection of information. The information you provide helps us to operate effectively and continually provide you with the best hospitality products, services and experiences.
 
