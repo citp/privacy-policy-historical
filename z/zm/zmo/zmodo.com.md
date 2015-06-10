@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zmodo.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120132918id_/http%3A//www.zmodo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zmodo.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610031343id_/http%3A//www.zmodo.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -19,21 +19,18 @@ Zmodo may collect information about how you use our websites and applications by
   * inquiries about and orders for our products and services;
   * information that assists us in identifying the products and services that best you’re your requirements;
   * event registration information;
-  * feedback from you about our websites and our products and services generally;
-  * your general information about the browsing session, a hashed version of the Facebook ID, and the URL being viewed for our Facebook Ads. use;*
+  * feedback from you about our websites and our products and services generally; and
   * any information as collected pursuant to the description under “information collected automatically” below.
 
 
 
 You are not required to provide any of this information, but if you do not, we may not be able to provide you the requested service or complete your transaction.
 
-*For information about Facebook Ads targeting and to opt out, please go to http://www.aboutads.info/choices/
-
-### Information collected automatically
+### Information collected automatically 
 
 We collect information about your visit to our sites, including what pages you view, the number of bytes transferred, the links you click, the materials you access, and other actions taken within Zmodo's sites. On sites that you enter with a user ID, we may connect this information with your identity to determine your potential interests in our products and services. We also collect certain standard information that your browser sends to every website you visit, such as your Internet Protocol (IP) address, your browser type and capabilities and language, your operating system, the date and time you access the site, and the website from which you linked to our site. We do not link this information to your identity.
 
-### How does Zmodo use your personal information?
+### How does Zmodo use your personal information? 
 
 Zmodo uses the information we collect about you in a number of ways, such as:
 
@@ -46,13 +43,7 @@ Zmodo uses the information we collect about you in a number of ways, such as:
   * To administer our services or website (including any searches or requests for information about our products or services); 
   * For assessment and analysis of our market, customers, products and services, including asking you for your opinions on our products and Services and carrying out customer surveys; 
   * To enable us to monitor, review and improve the products and services which we offer; 
-  * To use for our Facebook Ads. targeting purposes;*
   * For internal record keeping.
-
-
-
-*For information about Facebook Ads targeting and to opt out, please go to http://www.aboutads.info/choices/
-
 
 
 
@@ -76,9 +67,9 @@ The personal information we collect on our websites may be sent to the United St
 
 ### Security
 
-We are committed to ensure that your Personal Data is kept and stored securely and we maintain reasonable physical, technical and organizational measures and procedures to safeguard and secure the information we collect through our Services and our website.
+We are committed to ensure that your Personal Data is kept and stored securely and we maintain reasonable physical, technical and organizational measures and procedures to safeguard and secure the information we collect through our Services and our website. 
 
-This has been done with a view to preventing unauthorized or unlawful processing of your Personal Data and accidental, unauthorized or unlawful access, use, processing, copying, alteration, transfer, loss or destruction of, or damage to your Personal Data. Whilst we have done all of this, and comply with the standards required by applicable laws, we cannot guarantee that your Personal Data is secure when submitted or otherwise communicated through insecure means. We protect the security of your Personal Data by:
+This has been done with a view to preventing unauthorized or unlawful processing of your Personal Data and accidental, unauthorized or unlawful access, use, processing, copying, alteration, transfer, loss or destruction of, or damage to your Personal Data. Whilst we have done all of this, and comply with the standards required by applicable laws, we cannot guarantee that your Personal Data is secure when submitted or otherwise communicated through insecure means. We protect the security of your Personal Data by: 
 
   * using encryption where appropriate;
   * using password protection where appropriate;and 
@@ -86,22 +77,20 @@ This has been done with a view to preventing unauthorized or unlawful processing
 
 
 
-However, these measures do not release you from taking appropriate steps to keep your Personal Data safe and secure, in particular by avoiding obvious user ID's or passwords, by changing your password regularly and by ensuring that you do not disclose your password(s) or grant any other person access to your user account and your Personal Data.
+However, these measures do not release you from taking appropriate steps to keep your Personal Data safe and secure, in particular by avoiding obvious user ID's or passwords, by changing your password regularly and by ensuring that you do not disclose your password(s) or grant any other person access to your user account and your Personal Data. 
 
 We endeavor to protect the privacy of your account and other Personal Information we hold in our records, but we cannot guarantee complete security. Unauthorized entry or use, hardware or software failure, and other factors, may compromise the security of user information at any time.
 
 ### Reviewing your personal information
 
-In some cases, you can review and correct personal information provided through our websites by going to the page on which you provided the information. In all cases, you can make a request to review and correct your personal information collected via our websites or asks Zmodo to stop using it by completing our Contact Us form. We may take steps to verify your identity before providing you access to your personal information. You can help us to maintain the accuracy of your information by notifying us of any change to your mailing address, phone number, or e-mail address. Note that we need to retain certain records for legal or internal business reasons and that some of your information may remain on backup systems, in compliance with applicable law. We will retain your personal information for as long as necessary to provide you with the websites and applications you are eligible to use with your Zmodo ID, or as needed to comply with our legal obligations or enforce our agreements.
+In some cases, you can review and correct personal information provided through our websites by going to the page on which you provided the information. In all cases, you can make a request to review and correct your personal information collected via our websites or asks Zmodo to stop using it by completing our Contact Us form. We may take steps to verify your identity before providing you access to your personal information. You can help us to maintain the accuracy of your information by notifying us of any change to your mailing address, phone number, or e-mail address. Note that we need to retain certain records for legal or internal business reasons and that some of your information may remain on backup systems, in compliance with applicable law. We will retain your personal information for as long as necessary to provide you with the websites and applications you are eligible to use with your Zmodo ID, or as needed to comply with our legal obligations or enforce our agreements. 
 
 ### Changes to this privacy policy
 
-Zmodo may occasionally update this privacy policy. When we do, we will revise the "last updated" date at the bottom of the privacy policy. We will obtain your opt-in consent for any updates to this privacy policy that materially expand the sharing or use of your personal information in ways not disclosed in this privacy policy at the time of collection.
+Zmodo may occasionally update this privacy policy. When we do, we will revise the "last updated" date at the top and bottom of the privacy policy. We will obtain your opt-in consent for any updates to this privacy policy that materially expand the sharing or use of your personal information in ways not disclosed in this privacy policy at the time of collection. 
 
 ### Enforcement of this privacy policy
 
 If you do not wish to receive email or other mail from us, contact us at [privacy@Zmodo.com](mailto:privacy@Zmodo.com). Please note that if you do not want to receive legal notices from us, such as this Privacy Policy, those legal notices will still govern your use of the Service, and you are responsible for reviewing such legal notices for changes.
 
 If you have questions regarding this statement or our handling of your personal information, please contact us. We will promptly address your concern and strive to reach a satisfactory resolution.
-
-_Last modified: Aug 29, 2014_
