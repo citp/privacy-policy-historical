@@ -1,9 +1,9 @@
-<!--The following is the downloaded HTML source of the carbon38.com privacy policy that was archived on 2014-09-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140921014455id_/http%3A//www.carbon38.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the carbon38.com privacy policy that was archived on 2015-06-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150610103724id_/http%3A//www.carbon38.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><!--<![endif]--><head>
-<meta content="text/html; charset=utf-8">
-<meta http-equiv="X-UA-Compatible" content="IE=edge"><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UwcCUlBRGwcHVlFQDwM="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e){function n(t,e,n){n||(n={});for(var r=o[t],a=r&&r.length||0,s=n[i]||(n[i]={}),u=0;a>u;u++)r[u].apply(s,e);return s}function r(t,e){var n=o[t]||(o[t]=[]);n.push(e)}var o={},i="nr@context";e.exports={on:r,emit:n}},{}],2:[function(t){function e(t,e,n,i,s){try{u?u-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(c){try{r("ierr",[c,(new Date).getTime(),!0])}catch(d){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t(5),a=window.onerror,s=!1,u=0;t("loader").features.push("err"),window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(c){"stack"in c&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(4),s=!0)}i.on("fn-start",function(){s&&(u+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&u>0&&(u-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:4,3:3,4:6,5:1,6:14,handle:"D5DuLP",loader:"G9z0Bl"}],3:[function(t){function e(t){r.inPlace(t,["addEventListener","removeEventListener"],"-",n)}function n(t){return t[1]}var r=t(1),o=(t(3),t(2));if(e(window),"getPrototypeOf"in Object){for(var i=document;i&&!i.hasOwnProperty("addEventListener");)i=Object.getPrototypeOf(i);i&&e(i);for(var a=XMLHttpRequest.prototype;a&&!a.hasOwnProperty("addEventListener");)a=Object.getPrototypeOf(a);a&&e(a)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&e(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=e["nr@wrapped"]?t[1]=e["nr@wrapped"]:e["nr@wrapped"]=t[1]=r(e,"fn-"):"function"==typeof e.handleEvent&&r.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:15,2:1,3:14}],4:[function(t){var e=(t(3),t(1)),n=t(2);e.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=e(t[0],"fn-")})},{1:15,2:1,3:14}],5:[function(t){function e(t){var e=t[0];"string"==typeof e&&(e=new Function(e)),t[0]=n(e,"fn-")}var n=(t(3),t(1)),r=t(2);n.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",e)},{1:15,2:1,3:14}],6:[function(t){function e(){o.inPlace(this,s,"fn-")}function n(t,e){o.inPlace(e,["onreadystatechange"],"fn-")}function r(t,e){return e}var o=t(1),i=t(2),a=window.XMLHttpRequest,s=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];window.XMLHttpRequest=function(t){var n=new a(t);try{i.emit("new-xhr",[],n),o.inPlace(n,["addEventListener","removeEventListener"],"-",function(t,e){return e}),n.addEventListener("readystatechange",e,!1)}catch(r){try{i.emit("internal-error",r)}catch(s){}}return n},window.XMLHttpRequest.prototype=a.prototype,o.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",r),i.on("send-xhr-start",n),i.on("open-xhr-start",n)},{1:15,2:1}],7:[function(t){function e(){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;u>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,c="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,d=e(c);if(d&&(r.rxSize=d),this.sameOrigin){var f=t.getResponseHeader("X-NewRelic-App-Data");f&&(n.cat=f.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}t("loader").features.push("xhr");var o=t("handle"),i=t(1),a=t(5),s=["load","error","abort","timeout"],u=s.length,c=t(2);t(3),t(4),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var c=e(o);c&&(r.txSize=c)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",e)}catch(r){}}};for(var d=0;u>d;d++)n.addEventListener(s[d],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+c(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+c(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&e()},{1:8,2:11,3:3,4:6,5:1,handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e){var n=r[t];return n?n.apply(this,e):(o[t]||(o[t]=[]),void o[t].push(e))}var r={},o={};e.exports=n,n.queues=o,n.handlers=r},{}],11:[function(t,e){function n(t){if(!t||"object"!=typeof t&&"function"!=typeof t)return-1;if(t===window)return 0;if(o.call(t,"__nr"))return t.__nr;try{return Object.defineProperty(t,"__nr",{value:r,writable:!0,enumerable:!1}),r}catch(e){return t.__nr=r,r}finally{r+=1}}var r=1,o=Object.prototype.hasOwnProperty;e.exports=n},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&u&&u.body){p.proto="https"===f.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=u.createElement("script");e.src=p.proto+t.agent,u.body.appendChild(e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,u=s.document,c="addEventListener",d="attachEvent",f=(""+location).split("?")[0],p=e.exports={offset:i(),origin:f,features:[]};u[c]?(u[c]("DOMContentLoaded",o,!1),s[c]("load",n,!1)):(u[d]("onreadystatechange",r),s[d]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],14:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],15:[function(t,e){function n(t,e,r,s){function nrWrapper(){try{var n,a=u(arguments),c=this,d=r&&r(a,c)||{}}catch(f){i([f,"",[a,c,s],d])}o(e+"start",[a,c,s],d);try{return n=t.apply(c,a)}catch(p){throw o(e+"err",[a,c,p],d),p}finally{o(e+"end",[a,c,n],d)}}return a(t)?t:(e||(e=""),nrWrapper[n.flag]=!0,nrWrapper)}function r(t,e,r,o){r||(r="");var i,s,u,c="-"===r.charAt(0);for(u=0;u<e.length;u++)s=e[u],i=t[s],a(i)||(t[s]=n(i,c?s+r:r,o,s,t))}function o(t,e,n){try{s.emit(t,e,n)}catch(r){i([r,t,e,n])}}function i(t){try{s.emit("internal-error",t)}catch(e){}}function a(t){return!(t&&"function"==typeof t&&t.apply&&!t[n.flag])}var s=t(1),u=t(2);e.exports=n,n.inPlace=r,n.flag="nr@wrapper"},{1:1,2:14}]},{},["G9z0Bl",2,7]);</script>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge"><script src="https://js-agent.newrelic.com/nr-632.min.js"></script><script type="text/javascript" async="" src="https://tag.perfectaudience.com/serve/52cf7792254839768900000e.js"></script><script id="ltkSDK" src="http://cdn.listrakbi.com/scripts/script.js?m=ROjCuw8zGdHk&amp;v=1"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UwcCUlBRGwcHVlFQDwM="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),u=c.length,f=i(a,o,r),d=0;u>d;d++)c[d].apply(f,n);return f}function a(t,e){u[t]=s(t).concat(e)}function s(t){return u[t]||[]}function c(){return n(e)}var u={};return{on:a,emit:e,create:c,listeners:s,_events:u}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:20,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(u){try{r("ierr",[u,(new Date).getTime(),!0])}catch(f){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(3),window.onerror=e;try{throw new Error}catch(u){"stack"in u&&(t(4),t(5),"addEventListener"in window&&t(1),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&t(2),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:8,3:3,4:7,5:6,6:21,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:21,2:22,ee:"QJf3ax",gos:"7eSDFh"}],6:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:22,2:21,ee:"QJf3ax"}],7:[function(t,e){function n(t,e,n){t[0]=o(t[0],"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:22,2:21,ee:"QJf3ax"}],8:[function(t,e){function n(){u.inPlace(this,p,"fn-")}function r(t,e){u.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),u=c(a),f=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),f.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,u.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:5,2:22,ee:"QJf3ax"}],9:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var a=t.responseType,u="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=n(u);if(f&&(r.rxSize=f),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(e.cat=d.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,o("xhr",[e,r,this.startTime])}}}function n(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,u=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=e,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,e){var r=this.metrics,o=t[0],i=this;if(r&&o){var u=n(o);u&&(r.txSize=u)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{a.emit("internal-error",[n])}catch(r){}}};for(var f=0;c>f;f++)e.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:10,3:8,4:5,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],10:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],11:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:20,2:21,handle:"D5DuLP"}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info,e=u.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){e in t||(t[e]=n)});var n="https"===f.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=u.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=(t(2),window),u=c.document,f=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-632.min.js"},p=e.exports={offset:i(),origin:f,features:{}};u.addEventListener?(u.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(u.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()])},{1:20,2:11,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],20:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],21:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],22:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,u;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){f([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return u=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,u],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,u(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,u="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,u?s+o:o,i,s))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){f([o,e,n,r])}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){f([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function f(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:21,ee:"QJf3ax"}]},{},["G9z0Bl",4,9]);</script>
 <title>Privacy Policy</title>
 <meta name="description" content="Elevating Fitness to the Level of High Fashion
 ">
@@ -12,39 +12,21 @@
 <link rel="icon" href="http://d10d8p3bp9wpno.cloudfront.net/skin/frontend/default/c38/favicon.ico" type="image/x-icon">
 <link rel="shortcut icon" href="http://d10d8p3bp9wpno.cloudfront.net/skin/frontend/default/c38/favicon.ico" type="image/x-icon">
 <link href="//fonts.googleapis.com/css?family=Dosis:200,300,400,500,600,700" rel="stylesheet" type="text/css">
+<link href="//fonts.googleapis.com/css?family=Poiret+One" rel="stylesheet" type="text/css">
+<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" type="text/css">
 <link rel="stylesheet" type="text/css" href="//cloud.typography.com/7165312/790944/css/fonts.css">
 				
-<link rel="stylesheet" type="text/css" href="http://d10d8p3bp9wpno.cloudfront.net/js/calendar/calendar-win2k-1.css">
-<link rel="stylesheet" type="text/css" href="http://d10d8p3bp9wpno.cloudfront.net/skin/frontend/default/c38/aw_islider/representations/default/style.css" media="all">
-<link rel="stylesheet" type="text/css" href="http://d10d8p3bp9wpno.cloudfront.net/skin/frontend/default/c38/css/c38-styles.css" media="all">
-<link rel="stylesheet" type="text/css" href="http://d10d8p3bp9wpno.cloudfront.net/skin/frontend/default/c38/css/c38-ajaxcartpro.css" media="all">
-<script type="text/javascript" src="http://d10d8p3bp9wpno.cloudfront.net/js/prototype/prototype.js"></script>
-<script type="text/javascript" src="http://d10d8p3bp9wpno.cloudfront.net/js/lib/ccard.js"></script>
-<script type="text/javascript" src="http://d10d8p3bp9wpno.cloudfront.net/js/prototype/validation.js"></script>
-<script type="text/javascript" src="http://d10d8p3bp9wpno.cloudfront.net/js/scriptaculous/builder.js"></script>
-<script type="text/javascript" src="http://d10d8p3bp9wpno.cloudfront.net/js/scriptaculous/effects.js"></script>
-<script type="text/javascript" src="http://d10d8p3bp9wpno.cloudfront.net/js/scriptaculous/dragdrop.js"></script>
-<script type="text/javascript" src="http://d10d8p3bp9wpno.cloudfront.net/js/scriptaculous/controls.js"></script>
-<script type="text/javascript" src="http://d10d8p3bp9wpno.cloudfront.net/js/scriptaculous/slider.js"></script>
-<script type="text/javascript" src="http://d10d8p3bp9wpno.cloudfront.net/js/varien/js.js"></script>
-<script type="text/javascript" src="http://d10d8p3bp9wpno.cloudfront.net/js/varien/form.js"></script>
-<script type="text/javascript" src="http://d10d8p3bp9wpno.cloudfront.net/js/varien/menu.js"></script>
-<script type="text/javascript" src="http://d10d8p3bp9wpno.cloudfront.net/js/mage/translate.js"></script>
-<script type="text/javascript" src="http://d10d8p3bp9wpno.cloudfront.net/js/mage/cookies.js"></script>
-<script type="text/javascript" src="http://d10d8p3bp9wpno.cloudfront.net/js/jquery/jquery-1.8.2.min.js"></script>
-<script type="text/javascript" src="http://d10d8p3bp9wpno.cloudfront.net/js/calendar/calendar.js"></script>
-<script type="text/javascript" src="http://d10d8p3bp9wpno.cloudfront.net/js/calendar/calendar-setup.js"></script>
-<script type="text/javascript" src="http://d10d8p3bp9wpno.cloudfront.net/skin/frontend/default/c38/js/modernizr.js"></script>
-<script type="text/javascript" src="http://d10d8p3bp9wpno.cloudfront.net/skin/frontend/default/c38/js/c38-scripts.js"></script>
-<script type="text/javascript" src="http://d10d8p3bp9wpno.cloudfront.net/skin/frontend/default/c38/js/neklo_login.js"></script>
+<link rel="stylesheet" type="text/css" href="http://d10d8p3bp9wpno.cloudfront.net/media/css/88da6951754740188d68e184b6beb939.css">
+<link rel="stylesheet" type="text/css" href="http://d10d8p3bp9wpno.cloudfront.net/media/css/bf22cc1509b0ef918a07b49ded1b1795.css" media="all">
+<script type="text/javascript" src="http://d10d8p3bp9wpno.cloudfront.net/media/js/9362976397b8ed17b21f014a5fbfd491.js"></script>
 <!--[if lt IE 9]>
-<link rel="stylesheet" type="text/css" href="http://d10d8p3bp9wpno.cloudfront.net/skin/frontend/default/c38/css/ie.css" media="all" />
+<link rel="stylesheet" type="text/css" href="http://d10d8p3bp9wpno.cloudfront.net/media/css/713f6665bb8ea33e134087c4aa5b67ce.css" media="all" />
 <![endif]-->
 
 <script type="text/javascript">
 //<![CDATA[
 Mage.Cookies.path     = '/';
-Mage.Cookies.domain   = '.carbon38.com';
+Mage.Cookies.domain   = '.www.carbon38.com';
 //]]>
 </script>
 
@@ -53,24 +35,66 @@ Mage.Cookies.domain   = '.carbon38.com';
 optionalZipCountries = ["HK","IE","MO","PA"];
 //]]>
 </script>
-<!-- BEGIN GOOGLE ANALYTICS CODEs -->
-<script type="text/javascript">
-//<![CDATA[
-    var _gaq = _gaq || [];
-    
-_gaq.push(['_setAccount', 'UA-36740325-1']);
+        <!-- BEGIN GOOGLE ANALYTICS CODEs -->
+    <script type="text/javascript">
+    //<![CDATA[
+         (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+        ga('create', 'UA-36740325-1', {'cookieDomain': 'www.carbon38.com'});
+        ga('require', 'displayfeatures');
 
-_gaq.push(['_trackPageview']);
-    
-    (function() {
-        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-    })();
+        Event.observe(document, 'browser:google_analytics_tracking_virtual_page', function (event) {
+            virtualPagesTracking(event.memo.section);
+        });
+        Event.fire(document, 'browser:google_analytics_tracking_virtual_page', {"section": 'default'});
 
-//]]>
-</script>
-<!-- END GOOGLE ANALYTICS CODE -->
+        function virtualPagesTracking(section) {
+            if (!(window && window.ga)) {
+                return;
+            }
+            switch (section) {
+                case 'cart':
+                    ga('send','pageview','/checkout/cart/');
+                    break;
+
+                case 'onepage':
+                    ga('send', 'pageview', '/vp/checkout/onepage/');
+                    break;
+
+                case 'billing':
+                    ga('send', 'pageview', '/vp/checkout/onepage/billing');
+                    break;
+
+                case 'shipping':
+                case 'shipping_method':
+                    ga('send', 'pageview', '/vp/checkout/onepage/shipping');
+                    break;
+
+                case 'payment':
+                    ga('send', 'pageview', '/vp/checkout/onepage/payment');
+                    break;
+
+                case 'review':
+                    ga('send', 'pageview', '/vp/checkout/onepage/review');
+                    break;
+
+                case 'placeorder':
+                    ga('send', 'pageview', '/vp/checkout/onepage/placeorder');
+                    break;
+
+                default :
+                    ga('send', 'pageview');
+                    break;
+            }
+        }
+        //]]>
+    </script>
+    <!-- END GOOGLE ANALYTICS CODE -->
+
+<!-- Criteo OneTag Start -->
+ <!-- Criteo OneTag End -->
 
 <script type="text/javascript">
 //<![CDATA[
@@ -158,15 +182,8 @@ Calendar._TT["TIME"] = "Time:";
                     <li class="top-links-list__item"><a class="js_popup_open top-links-list__link" data-target="popup-login" href="https://www.carbon38.com/customer/account/login/">Sign In</a></li>
             <li class="top-links-list__item"><a class="js_popup_open top-links-list__link" data-target="popup-reg" href="https://www.carbon38.com/customer/account/create/">Register</a></li>
                 <li id="li-gym-bag" class="top-links-list__item top-links-list__item_bag"><a href="http://www.carbon38.com/checkout/cart/" class="top-links-list__link">Gym Bag (<span id="qty-gym-bag">0</span>)</a></li>
-        <style>
-#shopping_cart_topbar {
-  position: relative; 
-  background: #FFFFFF; 
-  z-index: 10; 
-  top: 26px;
-}
-</style>
-<div id="shopping_cart_topbar" class="shoppingCart" style="display: none; ">
+    </ul>
+    <div id="shopping_cart_topbar" class="shoppingCart" style="display: none; ">
   <div class="top-cart">
       <span class="shop-total">Gym bag</span>
   </div>
@@ -186,7 +203,6 @@ jQuery(window).load(function(){
   */
 });
 </script>
-    </ul>
 </div>        
 <div class="search">
 	<form id="search_mini_form" action="http://www.carbon38.com/catalogsearch/result/" method="get">
@@ -195,32 +211,48 @@ jQuery(window).load(function(){
 		<div id="search_autocomplete" class="search-autocomplete"></div>
 		<script>
 		//<![CDATA[  
-			var searchForm = new Varien.searchForm('search_mini_form', 'search', 'Search entire store here...');
+			var searchForm = new Varien.searchForm('search_mini_form', 'search', 'Search...');
 			//searchForm.initAutocomplete('http://www.carbon38.com/catalogsearch/ajax/suggest/', 'search_autocomplete');
 		//]]>
 		</script>
 	</form>
 </div>	
         <div class="header__invite">
-            <p>$100+ Enjoy Free Shipping &amp; Returns</p>
+            <p>Free Shipping &amp; Returns On Orders $200+</p>
                     </div>
 
         <a href="http://www.carbon38.com/" class="logo">
-            <img src="http://d10d8p3bp9wpno.cloudfront.net/skin/frontend/default/c38/images/logo.png" alt="Carbon38">
+            <img src="http://d10d8p3bp9wpno.cloudfront.net/skin/frontend/default/c38/images/logo.png" onerror="this.onerror=null; this.src='http://d10d8p3bp9wpno.cloudfront.net/skin/frontend/default/c38/images/logo.png'" alt="Carbon38">
         </a>
         <nav class="navigation">
     <ul id="nav" class="navigation__list">
-                <li class="navigation__item level0 nav-1 first level-top parent"><a href="http://www.carbon38.com/what-s-new-27.html" class=" navigation__link level-top"><span>SHOP</span></a><div class="navigation__sub-menu"><div class="navigation__dropdown"><div class="title-line"><h2 class="title-line__text">SHOP</h2></div><ul class="designers  level0"><li class="designers__item level1 nav-1-1 first"><a href="http://www.carbon38.com/what-s-new-27/what-s-new.html" class="designers__link"><span>New Arrivals</span></a></li><li class="designers__item level1 nav-1-2"><a href="http://www.carbon38.com/what-s-new-27/sale.html" class="designers__link"><span>SALE - UP TO 70% OFF</span></a></li><li class="designers__item level1 nav-1-3"><a href="http://www.carbon38.com/what-s-new-27/our-bestsellers.html" class="designers__link"><span>Our Bestsellers</span></a></li><li class="designers__item level1 nav-1-4"><a href="http://www.carbon38.com/what-s-new-27/printed-leggings.html" class="designers__link"><span>Printed Leggings </span></a></li><li class="designers__item level1 nav-1-5"><a href="http://www.carbon38.com/what-s-new-27/black-leggings-all-day.html" class="designers__link"><span>Spandex All Day</span></a></li><li class="designers__item level1 nav-1-6"><a href="http://www.carbon38.com/what-s-new-27/briana-evigan.html" class="designers__link"><span>Briana Evigan</span></a></li><li class="designers__item level1 nav-1-7"><a href="http://www.carbon38.com/what-s-new-27/fall-trend-preview.html" class="designers__link"><span>Fall Trend Preview</span></a></li><li class="designers__item level1 nav-1-8"><a href="http://www.carbon38.com/what-s-new-27/bootcamp-babe.html" class="designers__link"><span>Bootcamp Babe</span></a></li><li class="designers__item level1 nav-1-9"><a href="http://www.carbon38.com/what-s-new-27/color-trends.html" class="designers__link"><span>Color Trends</span></a></li><li class="designers__item level1 nav-1-10 last"><a href="http://www.carbon38.com/what-s-new-27/travel-diaries-montauk.html" class="designers__link"><span>Travel Diaries: Montauk</span></a></li></ul><ul class="designers level1"></ul></div></div></li><li class="navigation__item level0 nav-2 level-top parent"><a href="http://www.carbon38.com/#" class=" navigation__link level-top"><span>Designers</span></a><div class="navigation__sub-menu"><div class="navigation__dropdown"><div class="title-line"><h2 class="title-line__text">Designers</h2></div><ul class="designers  level0"><li class="designers__item level1 nav-2-1 first"><a href="http://www.carbon38.com/designers/adidas-by-stella-mccartney.html" class="designers__link"><span>Adidas–Stella McCartney</span></a></li><li class="designers__item level1 nav-2-2"><a href="http://www.carbon38.com/designers/alala.html" class="designers__link"><span>Alala</span></a></li><li class="designers__item level1 nav-2-3"><a href="http://www.carbon38.com/designers/alo-yoga.html" class="designers__link"><span>Alo Yoga</span></a></li><li class="designers__item level1 nav-2-4"><a href="http://www.carbon38.com/designers/carbon38.html" class="designers__link"><span>Carbon38</span></a></li><li class="designers__item level1 nav-2-5"><a href="http://www.carbon38.com/designers/c-c-sport.html" class="designers__link"><span>C&amp;C Sport</span></a></li><li class="designers__item level1 nav-2-6"><a href="http://www.carbon38.com/designers/charli-cohen.html" class="designers__link"><span>Charli Cohen</span></a></li><li class="designers__item level1 nav-2-7"><a href="http://www.carbon38.com/designers/daquini.html" class="designers__link"><span>Daquini</span></a></li><li class="designers__item level1 nav-2-8"><a href="http://www.carbon38.com/designers/drop-of-mindfulness.html" class="designers__link"><span>Drop of Mindfulness</span></a></li><li class="designers__item level1 nav-2-9"><a href="http://www.carbon38.com/designers/espalier.html" class="designers__link"><span>Espalier</span></a></li><li class="designers__item level1 nav-2-10"><a href="http://www.carbon38.com/designers/frends.html" class="designers__link"><span>Frends</span></a></li></ul><ul class="designers level1"><li class="designers__item level1 nav-2-11"><a href="http://www.carbon38.com/designers/heroine-sport.html" class="designers__link"><span>Heroine Sport</span></a></li><li class="designers__item level1 nav-2-12"><a href="http://www.carbon38.com/designers/koral.html" class="designers__link"><span>Koral</span></a></li><li class="designers__item level1 nav-2-13"><a href="http://www.carbon38.com/designers/lesportsac.html" class="designers__link"><span>LeSportsac</span></a></li><li class="designers__item level1 nav-2-14"><a href="http://www.carbon38.com/designers/lucas-hugh.html" class="designers__link"><span>Lucas Hugh</span></a></li><li class="designers__item level1 nav-2-15"><a href="http://www.carbon38.com/designers/michi.html" class="designers__link"><span>Michi</span></a></li><li class="designers__item level1 nav-2-16"><a href="http://www.carbon38.com/designers/monreal.html" class="designers__link"><span>Monreal</span></a></li><li class="designers__item level1 nav-2-17"><a href="http://www.carbon38.com/designers/naked-sports-gear.html" class="designers__link"><span>Naked Sports Gear</span></a></li><li class="designers__item level1 nav-2-18"><a href="http://www.carbon38.com/designers/norma-kamali.html" class="designers__link"><span>Norma Kamali</span></a></li><li class="designers__item level1 nav-2-19"><a href="http://www.carbon38.com/designers/nux.html" class="designers__link"><span>NUX</span></a></li><li class="designers__item level1 nav-2-20"><a href="http://www.carbon38.com/designers/olympia.html" class="designers__link"><span>Olympia</span></a></li></ul><ul class="designers level1"><li class="designers__item level1 nav-2-21"><a href="http://www.carbon38.com/designers/onzie.html" class="designers__link"><span>Onzie</span></a></li><li class="designers__item level1 nav-2-22"><a href="http://www.carbon38.com/designers/pilot-athletic.html" class="designers__link"><span>Pilot Athletic</span></a></li><li class="designers__item level1 nav-2-23"><a href="http://www.carbon38.com/designers/pointe-studio.html" class="designers__link"><span>Pointe Studio</span></a></li><li class="designers__item level1 nav-2-24"><a href="http://www.carbon38.com/designers/poprageous.html" class="designers__link"><span>Poprageous</span></a></li><li class="designers__item level1 nav-2-25"><a href="http://www.carbon38.com/designers/prism-sport.html" class="designers__link"><span>Prismsport</span></a></li><li class="designers__item level1 nav-2-26"><a href="http://www.carbon38.com/designers/shashi.html" class="designers__link"><span>Shashi</span></a></li><li class="designers__item level1 nav-2-27"><a href="http://www.carbon38.com/designers/spiritual-gangster.html" class="designers__link"><span>Spiritual Gangster</span></a></li><li class="designers__item level1 nav-2-28"><a href="http://www.carbon38.com/designers/the-upside.html" class="designers__link"><span>The Upside</span></a></li><li class="designers__item level1 nav-2-29"><a href="http://www.carbon38.com/designers/toesox.html" class="designers__link"><span>ToeSox</span></a></li><li class="designers__item level1 nav-2-30"><a href="http://www.carbon38.com/designers/tully-lou.html" class="designers__link"><span>Tully Lou</span></a></li></ul><ul class="designers level1"><li class="designers__item level1 nav-2-31"><a href="http://www.carbon38.com/designers/vie-active.html" class="designers__link"><span>Vie Active</span></a></li><li class="designers__item level1 nav-2-32"><a href="http://www.carbon38.com/designers/vimmia.html" class="designers__link"><span>Vimmia</span></a></li><li class="designers__item level1 nav-2-33"><a href="http://www.carbon38.com/designers/vmfitt.html" class="designers__link"><span>VMFITT</span></a></li><li class="designers__item level1 nav-2-34"><a href="http://www.carbon38.com/designers/work-out-life.html" class="designers__link"><span>Work Out Life</span></a></li><li class="designers__item level1 nav-2-35 last"><a href="http://www.carbon38.com/designers/zoe-karssen.html" class="designers__link"><span>Zoe Karssen</span></a></li></ul></div></div></li><li class="navigation__item level0 nav-3 level-top parent"><a href="http://www.carbon38.com/sports-bras.html" class=" navigation__link level-top"><span>Bras</span></a><div class="navigation__sub-menu"><div class="navigation__dropdown"><div class="title-line"><h2 class="title-line__text">Bras</h2></div><ul class="designers  level0"><li class="designers__item level1 nav-3-1 first"><a href="http://www.carbon38.com/sports-bras/light-support.html" class="designers__link"><span>Light Support</span></a></li><li class="designers__item level1 nav-3-2"><a href="http://www.carbon38.com/sports-bras/medium-support.html" class="designers__link"><span>Medium Support</span></a></li><li class="designers__item level1 nav-3-3"><a href="http://www.carbon38.com/sports-bras/max-support.html" class="designers__link"><span>Max Support</span></a></li><li class="designers__item level1 nav-3-4"><a href="http://www.carbon38.com/sports-bras/crossback.html" class="designers__link"><span>Crossback</span></a></li><li class="designers__item level1 nav-3-5"><a href="http://www.carbon38.com/sports-bras/racerback.html" class="designers__link"><span>Racerback</span></a></li><li class="designers__item level1 nav-3-6"><a href="http://www.carbon38.com/sports-bras/bralette.html" class="designers__link"><span>Bralette</span></a></li><li class="designers__item level1 nav-3-7 last"><a href="http://www.carbon38.com/sports-bras/padded.html" class="designers__link"><span>Padded</span></a></li></ul></div></div></li><li class="navigation__item level0 nav-4 level-top parent"><a href="http://www.carbon38.com/tops.html" class=" navigation__link level-top"><span>Tops</span></a><div class="navigation__sub-menu"><div class="navigation__dropdown"><div class="title-line"><h2 class="title-line__text">Tops</h2></div><ul class="designers  level0"><li class="designers__item level1 nav-4-1 first"><a href="http://www.carbon38.com/tops/crop-tops.html" class="designers__link"><span>Crop Tops</span></a></li><li class="designers__item level1 nav-4-2"><a href="http://www.carbon38.com/tops/tanks.html" class="designers__link"><span>Tanks</span></a></li><li class="designers__item level1 nav-4-3"><a href="http://www.carbon38.com/tops/built-in-bras.html" class="designers__link"><span>Built in Bras</span></a></li><li class="designers__item level1 nav-4-4"><a href="http://www.carbon38.com/tops/racerback.html" class="designers__link"><span>Racerback</span></a></li><li class="designers__item level1 nav-4-5"><a href="http://www.carbon38.com/tops/long-sleeves.html" class="designers__link"><span>Long Sleeves</span></a></li><li class="designers__item level1 nav-4-6"><a href="http://www.carbon38.com/tops/tees.html" class="designers__link"><span>Tees</span></a></li><li class="designers__item level1 nav-4-7"><a href="http://www.carbon38.com/tops/muscle-tee.html" class="designers__link"><span>Muscle Tee</span></a></li><li class="designers__item level1 nav-4-8"><a href="http://www.carbon38.com/tops/v-neck.html" class="designers__link"><span>V-Neck</span></a></li><li class="designers__item level1 nav-4-9 last"><a href="http://www.carbon38.com/tops/hoodie.html" class="designers__link"><span>Sweatshirts</span></a></li></ul></div></div></li><li class="navigation__item level0 nav-5 level-top parent"><a href="http://www.carbon38.com/bottoms.html" class=" navigation__link level-top"><span>Bottoms</span></a><div class="navigation__sub-menu"><div class="navigation__dropdown"><div class="title-line"><h2 class="title-line__text">Bottoms</h2></div><ul class="designers  level0"><li class="designers__item level1 nav-5-1 first"><a href="http://www.carbon38.com/bottoms/capri.html" class="designers__link"><span>Capris</span></a></li><li class="designers__item level1 nav-5-2"><a href="http://www.carbon38.com/bottoms/legging.html" class="designers__link"><span>Leggings</span></a></li><li class="designers__item level1 nav-5-3"><a href="http://www.carbon38.com/bottoms/pant.html" class="designers__link"><span>Pants</span></a></li><li class="designers__item level1 nav-5-4"><a href="http://www.carbon38.com/bottoms/short.html" class="designers__link"><span>Shorts</span></a></li><li class="designers__item level1 nav-5-5"><a href="http://www.carbon38.com/bottoms/sweatpant.html" class="designers__link"><span>Sweatpants</span></a></li><li class="designers__item level1 nav-5-6"><a href="http://www.carbon38.com/bottoms/high-waist.html" class="designers__link"><span>High Waist</span></a></li><li class="designers__item level1 nav-5-7 last"><a href="http://www.carbon38.com/bottoms/dress.html" class="designers__link"><span>Dresses &amp; Skirts</span></a></li></ul></div></div></li><li class="navigation__item level0 nav-6 last level-top parent"><a href="http://www.carbon38.com/extras.html" class=" navigation__link level-top"><span>Extras</span></a><div class="navigation__sub-menu"><div class="navigation__dropdown"><div class="title-line"><h2 class="title-line__text">Extras</h2></div><ul class="designers  level0"><li class="designers__item level1 nav-6-1 first"><a href="http://www.carbon38.com/extras/socks-971.html" class="designers__link"><span>Socks</span></a></li><li class="designers__item level1 nav-6-2"><a href="http://www.carbon38.com/extras/bags.html" class="designers__link"><span>Bags</span></a></li><li class="designers__item level1 nav-6-3"><a href="http://www.carbon38.com/extras/gift-card.html" class="designers__link"><span>Gift Card</span></a></li><li class="designers__item level1 nav-6-4"><a href="http://www.carbon38.com/extras/gloves.html" class="designers__link"><span>Gloves</span></a></li><li class="designers__item level1 nav-6-5"><a href="http://www.carbon38.com/extras/hats.html" class="designers__link"><span>Hats</span></a></li><li class="designers__item level1 nav-6-6 last"><a href="http://www.carbon38.com/extras/headphones-earbuds.html" class="designers__link"><span>Headphones</span></a></li></ul></div></div></li>    </ul>
+        <li class="navigation__item level0 nav-1 first level-top"><a href="http://www.carbon38.com/what-s-new-130.html" class=" navigation__link level-top"><span>WHAT'S NEW</span></a></li><li class="navigation__item level0 nav-2 level-top parent"><a href="http://www.carbon38.com/designers.html" class=" navigation__link level-top"><span>Designers </span></a><div class="navigation__sub-menu"><div class="navigation__dropdown"><div class="title-line"><h2 class="title-line__text">Designers </h2></div><ul class="designers  level0"><li class="designers__item level1 nav-2-1 first"><a href="http://www.carbon38.com/designers/2xu.html" class="designers__link"><span>2XU</span></a></li><li class="designers__item level1 nav-2-2"><a href="http://www.carbon38.com/designers/adidas-by-stella-mccartney.html" class="designers__link"><span>Adidas–Stella McCartney</span></a></li><li class="designers__item level1 nav-2-3"><a href="http://www.carbon38.com/designers/alala.html" class="designers__link"><span>Alala</span></a></li><li class="designers__item level1 nav-2-4"><a href="http://www.carbon38.com/designers/alo-yoga.html" class="designers__link"><span>Alo Yoga</span></a></li><li class="designers__item level1 nav-2-5"><a href="http://www.carbon38.com/designers/alternative-apparel.html" class="designers__link"><span>Alternative</span></a></li><li class="designers__item level1 nav-2-6"><a href="http://www.carbon38.com/designers/beth-richards.html" class="designers__link"><span>Beth Richards</span></a></li><li class="designers__item level1 nav-2-7"><a href="http://www.carbon38.com/designers/beyond-yoga.html" class="designers__link"><span>Beyond Yoga</span></a></li><li class="designers__item level1 nav-2-8"><a href="http://www.carbon38.com/designers/blanc-noir.html" class="designers__link"><span>Blanc Noir</span></a></li><li class="designers__item level1 nav-2-9"><a href="http://www.carbon38.com/designers/blue-life-fit.html" class="designers__link"><span>Blue Life Fit</span></a></li><li class="designers__item level1 nav-2-10"><a href="http://www.carbon38.com/designers/carbon38.html" class="designers__link"><span>Carbon38</span></a></li><li class="designers__item level1 nav-2-11"><a href="http://www.carbon38.com/designers/duskii.html" class="designers__link"><span>Duskii</span></a></li><li class="designers__item level1 nav-2-12"><a href="http://www.carbon38.com/designers/good-hyouman.html" class="designers__link"><span>Good Hyouman</span></a></li><li class="designers__item level1 nav-2-13"><a href="http://www.carbon38.com/designers/heroine-sport.html" class="designers__link"><span>Heroine Sport</span></a></li></ul><ul class="designers level1"><li class="designers__item level1 nav-2-14"><a href="http://www.carbon38.com/designers/hey-jo.html" class="designers__link"><span>Hey Jo</span></a></li><li class="designers__item level1 nav-2-15"><a href="http://www.carbon38.com/designers/k-way.html" class="designers__link"><span>K-Way</span></a></li><li class="designers__item level1 nav-2-16"><a href="http://www.carbon38.com/designers/kings-of-cole.html" class="designers__link"><span>Kings of Cole</span></a></li><li class="designers__item level1 nav-2-17"><a href="http://www.carbon38.com/designers/koral-activewear.html" class="designers__link"><span>Koral Activewear</span></a></li><li class="designers__item level1 nav-2-18"><a href="http://www.carbon38.com/designers/lanston.html" class="designers__link"><span>Lanston</span></a></li><li class="designers__item level1 nav-2-19"><a href="http://www.carbon38.com/designers/laundry-room.html" class="designers__link"><span>Laundry Room</span></a></li><li class="designers__item level1 nav-2-20"><a href="http://www.carbon38.com/designers/lesportsac.html" class="designers__link"><span>LeSportsac</span></a></li><li class="designers__item level1 nav-2-21"><a href="http://www.carbon38.com/designers/lisa-lozano.html" class="designers__link"><span>Lisa Lozano</span></a></li><li class="designers__item level1 nav-2-22"><a href="http://www.carbon38.com/designers/lorna-jane.html" class="designers__link"><span>Lorna Jane</span></a></li><li class="designers__item level1 nav-2-23"><a href="http://www.carbon38.com/designers/lucas-hugh.html" class="designers__link"><span>Lucas Hugh</span></a></li><li class="designers__item level1 nav-2-24"><a href="http://www.carbon38.com/designers/manduka.html" class="designers__link"><span>Manduka </span></a></li><li class="designers__item level1 nav-2-25"><a href="http://www.carbon38.com/designers/michi.html" class="designers__link"><span>Michi</span></a></li><li class="designers__item level1 nav-2-26"><a href="http://www.carbon38.com/designers/monreal.html" class="designers__link"><span>Monreal</span></a></li></ul><ul class="designers level1"><li class="designers__item level1 nav-2-27"><a href="http://www.carbon38.com/designers/move-active.html" class="designers__link"><span>Move Active</span></a></li><li class="designers__item level1 nav-2-28"><a href="http://www.carbon38.com/designers/natori.html" class="designers__link"><span>Natori</span></a></li><li class="designers__item level1 nav-2-29"><a href="http://www.carbon38.com/designers/nat-j.html" class="designers__link"><span>Nat + J</span></a></li><li class="designers__item level1 nav-2-30"><a href="http://www.carbon38.com/designers/nimble.html" class="designers__link"><span>Nimble Activewear</span></a></li><li class="designers__item level1 nav-2-31"><a href="http://www.carbon38.com/designers/nux.html" class="designers__link"><span>NUX</span></a></li><li class="designers__item level1 nav-2-32"><a href="http://www.carbon38.com/designers/olympia.html" class="designers__link"><span>Olympia</span></a></li><li class="designers__item level1 nav-2-33"><a href="http://www.carbon38.com/designers/onzie.html" class="designers__link"><span>Onzie</span></a></li><li class="designers__item level1 nav-2-34"><a href="http://www.carbon38.com/designers/pilot-athletic.html" class="designers__link"><span>Pilot Athletic</span></a></li><li class="designers__item level1 nav-2-35"><a href="http://www.carbon38.com/designers/pointe-studio.html" class="designers__link"><span>Pointe Studio</span></a></li><li class="designers__item level1 nav-2-36"><a href="http://www.carbon38.com/designers/private-party.html" class="designers__link"><span>Private Party</span></a></li><li class="designers__item level1 nav-2-37"><a href="http://www.carbon38.com/designers/props-athletics.html" class="designers__link"><span>Props Athletics</span></a></li><li class="designers__item level1 nav-2-38"><a href="http://www.carbon38.com/designers/rains.html" class="designers__link"><span>Rains</span></a></li><li class="designers__item level1 nav-2-39"><a href="http://www.carbon38.com/designers/s-well.html" class="designers__link"><span>S'Well</span></a></li></ul><ul class="designers level1"><li class="designers__item level1 nav-2-40"><a href="http://www.carbon38.com/designers/seamless-thread.html" class="designers__link"><span>Seamless Thread</span></a></li><li class="designers__item level1 nav-2-41"><a href="http://www.carbon38.com/designers/shashi.html" class="designers__link"><span>Shashi</span></a></li><li class="designers__item level1 nav-2-42"><a href="http://www.carbon38.com/designers/shock-absorber.html" class="designers__link"><span>Shock Absorber</span></a></li><li class="designers__item level1 nav-2-43"><a href="http://www.carbon38.com/designers/solow.html" class="designers__link"><span>Solow </span></a></li><li class="designers__item level1 nav-2-44"><a href="http://www.carbon38.com/designers/spiritual-gangster.html" class="designers__link"><span>Spiritual Gangster</span></a></li><li class="designers__item level1 nav-2-45"><a href="http://www.carbon38.com/designers/splits59.html" class="designers__link"><span>Splits59</span></a></li><li class="designers__item level1 nav-2-46"><a href="http://www.carbon38.com/designers/stance.html" class="designers__link"><span>Stance</span></a></li><li class="designers__item level1 nav-2-47"><a href="http://www.carbon38.com/designers/style-stalker.html" class="designers__link"><span>Style Stalker</span></a></li><li class="designers__item level1 nav-2-48"><a href="http://www.carbon38.com/designers/sukishufu.html" class="designers__link"><span>SukiShufu</span></a></li><li class="designers__item level1 nav-2-49"><a href="http://www.carbon38.com/designers/summer-bummer.html" class="designers__link"><span>Summer Bummer</span></a></li><li class="designers__item level1 nav-2-50"><a href="http://www.carbon38.com/designers/the-upside.html" class="designers__link"><span>The Upside</span></a></li><li class="designers__item level1 nav-2-51"><a href="http://www.carbon38.com/designers/teeki.html" class="designers__link"><span>Teeki</span></a></li><li class="designers__item level1 nav-2-52"><a href="http://www.carbon38.com/designers/toesox.html" class="designers__link"><span>ToeSox</span></a></li></ul><ul class="designers level1"><li class="designers__item level1 nav-2-53"><a href="http://www.carbon38.com/designers/ultracore.html" class="designers__link"><span>Ultracor</span></a></li><li class="designers__item level1 nav-2-54"><a href="http://www.carbon38.com/designers/under-armour.html" class="designers__link"><span>Under Armour</span></a></li><li class="designers__item level1 nav-2-55"><a href="http://www.carbon38.com/designers/under-the-sun.html" class="designers__link"><span>Under The Same Sun</span></a></li><li class="designers__item level1 nav-2-56"><a href="http://www.carbon38.com/designers/varley.html" class="designers__link"><span>Varley</span></a></li><li class="designers__item level1 nav-2-57"><a href="http://www.carbon38.com/designers/vagabond.html" class="designers__link"><span>Vagabond</span></a></li><li class="designers__item level1 nav-2-58"><a href="http://www.carbon38.com/designers/vie-active.html" class="designers__link"><span>Vie Active</span></a></li><li class="designers__item level1 nav-2-59"><a href="http://www.carbon38.com/designers/vimmia.html" class="designers__link"><span>Vimmia</span></a></li><li class="designers__item level1 nav-2-60"><a href="http://www.carbon38.com/designers/vitamin-a.html" class="designers__link"><span>Vitamin A</span></a></li><li class="designers__item level1 nav-2-61"><a href="http://www.carbon38.com/designers/we-are-handsome.html" class="designers__link"><span>We Are Handsome</span></a></li><li class="designers__item level1 nav-2-62 last"><a href="http://www.carbon38.com/designers/zara-terez.html" class="designers__link"><span>Zara Terez</span></a></li></ul></div></div></li><li class="navigation__item level0 nav-3 level-top parent"><a href="http://www.carbon38.com/what-s-new-127.html" class=" navigation__link level-top"><span>SHOP</span></a><div class="navigation__sub-menu"><div class="navigation__dropdown"><div class="title-line"><h2 class="title-line__text">SHOP</h2></div><ul class="designers  level0"><li class="designers__item level1 nav-3-1 first"><a href="http://www.carbon38.com/what-s-new-127/tops.html" class="designers__link"><span>TOPS</span></a></li><li class="designers__item level1 nav-3-2"><a href="http://www.carbon38.com/what-s-new-127/sport-bras.html" class="designers__link"><span>SPORT BRAS</span></a></li><li class="designers__item level1 nav-3-3"><a href="http://www.carbon38.com/what-s-new-127/outerwear.html" class="designers__link"><span>OUTERWEAR</span></a></li><li class="designers__item level1 nav-3-4"><a href="http://www.carbon38.com/what-s-new-127/dresses-and-jumpsuits.html" class="designers__link"><span>DRESSES AND JUMPSUITS</span></a></li><li class="designers__item level1 nav-3-5"><a href="http://www.carbon38.com/what-s-new-127/bottoms.html" class="designers__link"><span>BOTTOMS</span></a></li><li class="designers__item level1 nav-3-6"><a href="http://www.carbon38.com/what-s-new-127/swim.html" class="designers__link"><span>SWIM</span></a></li><li class="designers__item level1 nav-3-7"><a href="http://www.carbon38.com/what-s-new-127/accessories.html" class="designers__link"><span>ACCESSORIES</span></a></li><li class="designers__item level1 nav-3-8"><a href="http://www.carbon38.com/what-s-new-127/gift-card.html" class="designers__link"><span>Gift Card</span></a></li><li class="designers__item level1 nav-3-9 last"><a href="http://www.carbon38.com/what-s-new-127/sale.html" class="designers__link"><span>SALE </span></a></li></ul></div></div></li><li class="navigation__item level0 nav-4 level-top parent"><a href="http://www.carbon38.com/our-bestsellers.html" class=" navigation__link level-top"><span>TRENDS</span></a><div class="navigation__sub-menu"><div class="navigation__dropdown"><div class="title-line"><h2 class="title-line__text">TRENDS</h2></div><ul class="designers  level0"><li class="designers__item level1 nav-4-1 first"><a href="http://www.carbon38.com/our-bestsellers/our-bestsellers.html" class="designers__link"><span>The Hot List</span></a></li><li class="designers__item level1 nav-4-2"><a href="http://www.carbon38.com/our-bestsellers/get-sexy-kick-ass-repeat.html" class="designers__link"><span>Get Sexy. Kick Ass. Repeat</span></a></li><li class="designers__item level1 nav-4-3"><a href="http://www.carbon38.com/our-bestsellers/pretty-in-pink.html" class="designers__link"><span>Pretty in Pink</span></a></li><li class="designers__item level1 nav-4-4"><a href="http://www.carbon38.com/our-bestsellers/the-circuit-ss15-1.html" class="designers__link"><span>The Circuit SS15/1</span></a></li><li class="designers__item level1 nav-4-5"><a href="http://www.carbon38.com/our-bestsellers/blue-crush.html" class="designers__link"><span>Blue Crush</span></a></li><li class="designers__item level1 nav-4-6"><a href="http://www.carbon38.com/our-bestsellers/trending-perforated.html" class="designers__link"><span>Trending: Perforated</span></a></li><li class="designers__item level1 nav-4-7"><a href="http://www.carbon38.com/our-bestsellers/back-to-the-future.html" class="designers__link"><span>Back to the Future</span></a></li><li class="designers__item level1 nav-4-8"><a href="http://www.carbon38.com/our-bestsellers/the-circuit-2.html" class="designers__link"><span>The Circuit SS15/2</span></a></li><li class="designers__item level1 nav-4-9"><a href="http://www.carbon38.com/our-bestsellers/violet-hues.html" class="designers__link"><span>Violet Hues</span></a></li><li class="designers__item level1 nav-4-10"><a href="http://www.carbon38.com/our-bestsellers/baja-sunrise.html" class="designers__link"><span>Baja Sunrise</span></a></li><li class="designers__item level1 nav-4-11"><a href="http://www.carbon38.com/our-bestsellers/t-shirts-6-ways.html" class="designers__link"><span>T-Shirts 6 Ways</span></a></li><li class="designers__item level1 nav-4-12"><a href="http://www.carbon38.com/our-bestsellers/yoga-style-guide.html" class="designers__link"><span>Yoga Style Guide</span></a></li><li class="designers__item level1 nav-4-13"><a href="http://www.carbon38.com/our-bestsellers/strappy-backs.html" class="designers__link"><span>Strappy Backs</span></a></li></ul><ul class="designers level1"><li class="designers__item level1 nav-4-14"><a href="http://www.carbon38.com/our-bestsellers/fresh-fruity.html" class="designers__link"><span>Fresh &amp; Fruity</span></a></li><li class="designers__item level1 nav-4-15"><a href="http://www.carbon38.com/our-bestsellers/suit-up.html" class="designers__link"><span>Suit Up</span></a></li><li class="designers__item level1 nav-4-16"><a href="http://www.carbon38.com/our-bestsellers/beach-layers.html" class="designers__link"><span>Beach Layers</span></a></li><li class="designers__item level1 nav-4-17"><a href="http://www.carbon38.com/our-bestsellers/beach-bootcamp.html" class="designers__link"><span>Beach Bootcamp</span></a></li><li class="designers__item level1 nav-4-18 last"><a href="http://www.carbon38.com/our-bestsellers/studio-to-street.html" class="designers__link"><span>Studio To Street</span></a></li></ul></div></div></li><li class="navigation__item level0 nav-5 last level-top parent"><a href="#" onclick="return false;" class=" navigation__link level-top"><span>Locker Room</span></a><div class="navigation__sub-menu"><div class="navigation__dropdown"><div class="title-line"><h2 class="title-line__text">Locker Room</h2></div><ul class="designers  level0"><li class="designers__item level1 nav-5-1 first"><a href="http://www.carbon38.com/locker-room/simone-trainer-secrets.html" class="designers__link"><span>Simone De La Rue: Trainer Secrets</span></a></li><li class="designers__item level1 nav-5-2"><a href="http://www.carbon38.com/locker-room/danielle-pascente.html" class="designers__link"><span>Danielle Pascente: Trainer Secrets</span></a></li><li class="designers__item level1 nav-5-3"><a href="http://www.carbon38.com/locker-room/lacey-stone.html" class="designers__link"><span>Lacey Stone: Trainer Secrets</span></a></li><li class="designers__item level1 nav-5-4"><a href="http://www.carbon38.com/locker-room/diana-newton.html" class="designers__link"><span>Diana Newton</span></a></li><li class="designers__item level1 nav-5-5"><a href="http://www.carbon38.com/locker-room/astrid-swan.html" class="designers__link"><span>Astrid Swan</span></a></li><li class="designers__item level1 nav-5-6"><a href="http://www.carbon38.com/locker-room/jennifer-johnson.html" class="designers__link"><span>Jennifer Johnson</span></a></li><li class="designers__item level1 nav-5-7"><a href="http://www.carbon38.com/locker-room/aree-khodai.html" class="designers__link"><span>Aree Khodai</span></a></li><li class="designers__item level1 nav-5-8"><a href="http://www.carbon38.com/locker-room/christine-bullock.html" class="designers__link"><span>Christine Bullock</span></a></li><li class="designers__item level1 nav-5-9"><a href="http://www.carbon38.com/locker-room/erica-hood.html" class="designers__link"><span>Erica Hood</span></a></li><li class="designers__item level1 nav-5-10"><a href="http://www.carbon38.com/locker-room/lauren-decierdo.html" class="designers__link"><span>Lauren Decierdo</span></a></li><li class="designers__item level1 nav-5-11"><a href="http://www.carbon38.com/locker-room/dance.html" class="designers__link"><span>Dance</span></a></li><li class="designers__item level1 nav-5-12"><a href="http://www.carbon38.com/locker-room/bootcamp.html" class="designers__link"><span>Bootcamp</span></a></li><li class="designers__item level1 nav-5-13"><a href="http://www.carbon38.com/locker-room/spin.html" class="designers__link"><span>Spin</span></a></li></ul><ul class="designers level1"><li class="designers__item level1 nav-5-14"><a href="http://www.carbon38.com/locker-room/running.html" class="designers__link"><span>Running</span></a></li><li class="designers__item level1 nav-5-15"><a href="http://www.carbon38.com/locker-room/yoga.html" class="designers__link"><span>Yoga</span></a></li><li class="designers__item level1 nav-5-16 last"><a href="http://www.carbon38.com/locker-room/pilates.html" class="designers__link"><span>Pilates</span></a></li></ul></div></div></li>    </ul>
 </nav>
+
+<script>
+    // Google analytics
+    $$('#nav .designers__link span').each(function(element) {
+        element.observe('click', function(event) {
+            var element = event.element();
+            if (element) {
+                var main_category = element.up(".navigation__dropdown").select(".title-line__text").first().innerHTML;
+                main_category = main_category.charAt(0) + main_category.slice(1).toLowerCase();
+                if (!!(window && window.ga)) {
+                    ga('send', 'event', 'Top Nav-' + main_category, 'click', element.innerHTML);
+                }
+            }
+        });
+    });
+</script>
             </div>
 </header>
         <div class="main-container col1-layout">
             <div class="main">
                                 <div class="col-main">
                                         
-    <div class="page-title">
+    <!-- <div class="page-title">
         <h1>Privacy Policy</h1>
-    </div>
+    </div>-->
 <div class="std"><div class="page_statics">
 <div class="wrapper">
 <h2 class="title_45">PRIVACY POLICY</h2>
@@ -271,28 +303,74 @@ jQuery(window).load(function(){
         
                 
 
-<div id="acp-overlay" class="popup-bg"></div><script type="text/javascript">
-//<![CDATA[
-  var loginPopup = new NekloLogin({
-      form: 'neklo-login-popup-form',
-      button: 'neklo-login-popup-btn',
-      url: 'http://www.carbon38.com/neklologin/ajax/login/'
-  });
+<!-- Listrak Script Block -->
+<script type="text/javascript">
+    (function(d) { if (document.addEventListener) document.addEventListener('ltkAsyncListener', d);
+    else {e = document.documentElement; e.ltkAsyncProperty = 0; e.attachEvent('onpropertychange', function (e) {
+    if (e.propertyName == 'ltkAsyncProperty'){d();}});}})(function() {
+        _ltk.Click.Submit();
+_ltk.SCA.CaptureEmail('newsletter');
+_ltk.SCA.CaptureEmail('ltkmodal-email');
+    });
+</script>
 
-var forgotPasswordPopup = new NekloLogin({
-    form: 'neklo-forgot-popup-form',
-    button: 'neklo-forgot-popup-btn',
-    url: 'http://www.carbon38.com/neklologin/ajax/forgot/',
-    messagesPlaceholder: 'neklo-forgot-popup-msg'
-});
-//]]>
+<!-- Listrak Analytics - Script Source -->
+<script type="text/javascript">
+(function (d, s, id, url) {
+    var js, ljs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) return;
+    js = d.createElement(s); js.id = id; js.src = url;
+    ljs.parentNode.insertBefore(js, ljs);
+})(document, 'script', 'ltkSDK', 'http://cdn.listrakbi.com/scripts/script.js?m=ROjCuw8zGdHk&v=1');
+</script>
+
+<script type="text/javascript">
+Listrak_Remarketing = new function() {
+    this.updateCart = function() {
+            new Ajax.Request('http://www.carbon38.com/remarketing/ajax/cart/');
+	    };
+};
+</script>
+
+
+
+
+<!-- Perfect Audience -->
+    <script type="text/javascript">
+        (function() {
+            window._pa = window._pa || {};
+                                                var pa = document.createElement('script'); pa.type = 'text/javascript'; pa.async = true;
+            pa.src = ('https:' == document.location.protocol ? 'https:' : 'http:') + "//tag.perfectaudience.com/serve/52cf7792254839768900000e.js";
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(pa, s);
+        })();
+    </script>
+<!-- End Perfect Audience -->
+<div id="acp-overlay" class="popup-bg"></div><script type="text/javascript">
+    //<![CDATA[
+    var loginPopup = new NekloLogin({
+        form: 'neklo-login-popup-form',
+        button: 'neklo-login-popup-btn',
+        url: 'http://www.carbon38.com/neklologin/ajax/login/',
+        onSuccess: function () {
+            location.reload(false);
+            return false;
+        }
+    });
+
+    var forgotPasswordPopup = new NekloLogin({
+        form: 'neklo-forgot-popup-form',
+        button: 'neklo-forgot-popup-btn',
+        url: 'http://www.carbon38.com/neklologin/ajax/forgot/',
+        messagesPlaceholder: 'neklo-forgot-popup-msg'
+    });
+    //]]>
 </script>
 <!--popup-->
 <div class="popup popup-login">
     <span class="popup-close"></span>
     <p class="title">ALREADY HAVE AN ACCOUNT?</p>
-    <form id="neklo-login-popup-form" action="" class="form">
-        <input name="form_key" type="hidden" value="7wervzfbk1BqUXYu">
+    <form id="neklo-login-popup-form" class="form">
+        <input name="form_key" type="hidden" value="ITglg0OhEUhvOpX8">
         <div class="form__row">
             <div class="text-input">
                 <input type="text" placeholder="Email Address" name="login[username]" value="" id="email" class="input-text required-entry validate-email" title="Email Address">
@@ -310,8 +388,8 @@ var forgotPasswordPopup = new NekloLogin({
             <button id="neklo-login-popup-btn" class="btn black" type="submit">Sign In</button>
         </p>
     </form>
-    <form id="neklo-forgot-popup-form" action="" class="form">
-        <input name="form_key" type="hidden" value="7wervzfbk1BqUXYu">
+    <form id="neklo-forgot-popup-form" class="form">
+        <input name="form_key" type="hidden" value="ITglg0OhEUhvOpX8">
         <div class="notification">
             <i class="arrow"></i>
             <p class="tar clearfix">
@@ -322,7 +400,7 @@ var forgotPasswordPopup = new NekloLogin({
             <!--row-->
             <div class="form__row">
                 <div class="text-input">
-                    <input type="text" placeholder="YOUR EMAIL ADDRESS" name="email" alt="email" id="email_address" class="input-text required-entry validate-email" value="">
+                    <input type="text" placeholder="YOUR EMAIL ADDRESS" name="email" title="email" id="email_address" class="input-text required-entry validate-email" value="">
                 </div>
             </div>
             <!--end row-->
@@ -337,14 +415,64 @@ var forgotPasswordPopup = new NekloLogin({
         button: 'neklo-register-popup-btn',
         url: 'http://www.carbon38.com/neklologin/ajax/register/'
     });
+    registerPopup.onLoginSuccess = function (transport) {
+        var response = {};
+        if (transport && transport.responseText) {
+            try {
+                response = eval('(' + transport.responseText + ')');
+            } catch (e) {
+            }
+        }
+
+        if (response.messages) {
+            this.addMessage(response.messages);
+        }
+
+        if (!response.error && this.config.onSuccess) {
+            var result = this.config.onSuccess.bind(this)();
+            // To prevent following redirect as it might happen
+            // in onSuccess callback
+            // Similar to onclick="return false;"
+            if (!result) {
+                return;
+            }
+        }
+
+        // Google analytics
+        if (!response.error) {
+            var selector = $('email_registration');
+            if (selector) {
+                var email = selector.value,
+                    redirectUrl = response.redirectUrl;
+                if (!!(window && window.ga)) {
+                    ga('send', 'event', 'Email Sign Up', 'submit', email);
+                }
+
+                new Ajax.Request('/nekcustom/ajax/isUserEmailSubscriber', {
+                    method: 'post',
+                    onSuccess: function (response) {
+                        if (!!(window && window.ga)) {
+                            ga('send', 'pageview', {
+                                'dimension3': response.responseText
+                            });
+                        }
+                        if (redirectUrl) {
+                            document.location.href = redirectUrl;
+                        }
+                    }
+                });
+            }
+        }
+
+    };
     //]]>
 </script>
 <!--popup-->
 <div class="popup popup-reg">
     <span class="popup-close"></span>
     <p class="title">NEW TO CARBON38?</p>
-    <form id="neklo-register-popup-form" action="" class="form">
-        <input name="form_key" type="hidden" value="7wervzfbk1BqUXYu">
+    <form id="neklo-register-popup-form" class="form">
+        <input name="form_key" type="hidden" value="ITglg0OhEUhvOpX8">
         <div class="form__row">
             <div class="text-input">
                 <input type="text" placeholder="First Name" name="firstname" class="input-text required-entry" id="firstname" title="First Name">
@@ -357,13 +485,23 @@ var forgotPasswordPopup = new NekloLogin({
         </div>
         <div class="form__row">
             <div class="text-input">
-                <input type="text" placeholder="Email Address" name="email" value="" id="email" class="input-text required-entry validate-email" title="Email Address">
+                <input type="text" placeholder="Email Address" name="email" value="" id="email_registration" class="input-text required-entry validate-email" title="Email Address">
             </div>
         </div>
         <div class="form__row">
             <div class="text-input">
-                <input type="password" placeholder="Password" name="password" class="input-text required-entry validate-password" id="pass" title="Password">
+                <input type="password" placeholder="Password" name="password" class="input-text required-entry validate-password" id="pass-reg" title="Password">
             </div>
+        </div>
+        <div class="form__row">
+            <label class="checkbox">
+                <input type="checkbox" name="is_subscribed" id="is_subscribed" value="1" title="Sign Up for Newsletter">
+                <b></b>
+                <span>Sign Up for Newsletter</span>
+            </label>
+            <script type="text/javascript">
+            $('is_subscribed').checked = 1;
+            </script>
         </div>
         <p class="tac mt10">
             <a href="http://www.carbon38.com/terms-conditions" class="link-border">TERMS &amp; CONDITIONS</a>
@@ -381,7 +519,13 @@ var forgotPasswordPopup = new NekloLogin({
         form: 'neklo-subscribe-popup-form',
         button: 'neklo-subscribe-popup-btn',
         url: 'http://www.carbon38.com/neklologin/ajax/subscribe/',
-        messagesPlaceholder: 'neklo-subscribe-popup-msg'
+        messagesPlaceholder: 'neklo-subscribe-popup-msg',
+        onSuccess: function() {
+            jQuery('.popup-subscribe, .popup-bg').fadeOut();
+            jQuery('.popup-subscribe').find('input').val('');
+            jQuery('.popup-subscribe').find('.validation-advice').remove();
+            jQuery('.popup-subscribe').find('.messages').remove();
+        }
     });
     //]]>
 </script>
@@ -396,11 +540,11 @@ var forgotPasswordPopup = new NekloLogin({
 		<i>SEXY SPANDEX</i>
 	</p>
 	<p class="descr">Sign up for Exclusive Access to the Best of Fitness Fashion</p>
-	<form id="neklo-subscribe-popup-form" action="" class="form">
-        <input name="form_key" type="hidden" value="7wervzfbk1BqUXYu">
+	<form id="neklo-subscribe-popup-form" class="form">
+        <input name="form_key" type="hidden" value="ITglg0OhEUhvOpX8">
 		<div class="form__row">
 			<div class="text-input">
-				<input type="text" placeholder="Enter Email Address" name="email" id="email" class="input-text required-entry validate-email" title="Enter Email Address">
+				<input type="text" placeholder="Enter Email Address" name="email" id="email-sub" class="input-text required-entry validate-email" title="Enter Email Address">
                 <div class="mt5">
                     <div id="neklo-subscribe-popup-msg"></div>
                 </div>
@@ -417,13 +561,11 @@ var forgotPasswordPopup = new NekloLogin({
 <footer class="footer">
 	<div class="wrapper">
         <!--left-->
-<div class="col-l"><a class="logo" href="/"> <img src="http://d10d8p3bp9wpno.cloudfront.net/skin/frontend/default/c38/images/logo-footer.png" alt=""> </a>
+<div class="col-l"><a class="logo" href="/"> <img src="http://d10d8p3bp9wpno.cloudfront.net/skin/frontend/default/c38/images/logo.svg" alt=""> </a>
 <div class="clearfix"><!--list--> <ul class="footer-list">
-                    <li class="415"><a href="http://www.carbon38.com/what-s-new-27.html">SHOP</a></li>
-                            <li class="287"><a href="http://www.carbon38.com/sports-bras.html">Bras</a></li>
-                    <li class="286"><a href="http://www.carbon38.com/tops.html">Tops</a></li>
-                    <li class="288"><a href="http://www.carbon38.com/bottoms.html">Bottoms</a></li>
-                    <li class="289"><a href="http://www.carbon38.com/extras.html">Extras</a></li>
+                    <li class="602"><a href="http://www.carbon38.com/what-s-new-130.html">WHAT'S NEW</a></li>
+                            <li class="415"><a href="http://www.carbon38.com/what-s-new-127.html">SHOP</a></li>
+                    <li class="603"><a href="http://www.carbon38.com/our-bestsellers.html">TRENDS</a></li>
     </ul> <!--end list--> <!--list-->
 <ul class="footer-list">
 <li><a href="/contactus">CONTACT US</a></li>
@@ -431,31 +573,30 @@ var forgotPasswordPopup = new NekloLogin({
 <li><a href="/privacy-policy">PRIVACY</a></li>
 <li><a href="/terms-conditions">TERMS</a></li>
 <li><a href="/aboutus">ABOUT US</a></li>
+<li><a href="/careers">Careers</a></li>
 </ul>
 <!--end list--> <!--list-->
 <ul class="footer-list">
-<li><a class="icon fb" href="https://www.facebook.com/Carbon38" target="_blank">Facebook <i></i> </a></li>
-<li><a class="icon in" href="http://instagram.com/carbon38" target="_blank">Instagram<i></i></a></li>
-<li><a class="icon tw" href="https://twitter.com/carbon38/" target="_blank">Twitter<i></i></a></li>
-<li><a class="icon pint" href="http://www.pinterest.com/carbon38/" target="_blank">PINTEREST<i></i></a></li>
-<li><a class="icon youtube" href="https://www.youtube.com/user/TheCarbon38" target="_blank">Youtube<i></i></a></li>
+<li><a class="icon fb" href="https://www.facebook.com/Carbon38" target="_blank">Facebook <em></em> </a></li>
+<li><a class="icon in" href="http://instagram.com/carbon38" target="_blank">Instagram<em></em></a></li>
+<li><a class="icon tw" href="https://twitter.com/carbon38/" target="_blank">Twitter<em></em></a></li>
+<li><a class="icon pint" href="http://www.pinterest.com/carbon38/" target="_blank">PINTEREST<em></em></a></li>
+<li><a class="icon youtube" href="https://www.youtube.com/user/TheCarbon38" target="_blank">Youtube<em></em></a></li>
 </ul>
 <!--end list--></div>
 </div>
 <!--end left-->
 <p>&nbsp;</p>
-<p><!--right-->
-</p><div class="col-r">
+<div><!--right-->
+<div class="col-r">
 
     <p class="title">Stay <br> <em>Connected</em></p>
     <form action="https://www.carbon38.com/newsletter/subscriber/new/" method="post" id="newsletter-validate-detail">
         <div class="footer-form">
-
             <div class="text-input">
                 <input type="text" name="email" id="newsletter" placeholder="Email Address" title="Sign up for our newsletter" class="input-text required-entry validate-email">
             </div>
             <button class="btn turquoise" type="submit" title="Subscribe"><span>+</span> Join Carbon38</button>
-
         </div>
     </form>
 
@@ -468,6 +609,6 @@ var forgotPasswordPopup = new NekloLogin({
     </script>
 
 </div>
-<!--end right--><p></p>	</div>
-</footer><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-1.newrelic.com","licenseKey":"63b9b85a41","applicationID":"4720282","transactionName":"ZAQHZEpTWUVUU0VeXV1OJFNMW1hYGlNcRB1DAAJVF0ReU0I=","queueTime":0,"applicationTime":918,"ttGuid":"","agentToken":"","atts":"SEMEEgJJSks=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-412.min.js"}</script>
-<script src="https://js-agent.newrelic.com/nr-412.min.js"></script></body></html>
+<!--end right--></div>	</div>
+</footer><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"63b9b85a41","applicationID":"4720282","transactionName":"ZAQHZEpTWUVUU0VeXV1OJFNMW1hYGlNcRB1DAAJVF0ReU0I=","queueTime":0,"applicationTime":400,"ttGuid":"","agentToken":"","atts":"SEMEEgJJSks=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-632.min.js"}</script>
+</body></html>
