@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the desu.edu privacy policy that was archived on 2014-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141112091340id_/http%3A//www.desu.edu/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the desu.edu privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610064420id_/http%3A//www.desu.edu/privacy-statement) for the most accurate reproduction.*
 
 # DSU | Privacy Statement
 
