@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theenergycollective.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121104951id_/http%3A//theenergycollective.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theenergycollective.com privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611002117id_/http%3A//theenergycollective.com/privacy) for the most accurate reproduction.*
 
 # Privacy | The Energy Collective
 
@@ -10,13 +10,15 @@ The Energy Collective only collects information on our web site submitted by reg
 
 The Energy Collective's web site employs the use of "cookies". A cookie is a small text file that our web server places on a user’s computer hard drive to be a unique identifier. Cookies enable The Energy Collective to track usage patterns and deliver customized content to users.
 
-The Energy Collective does not divulge any personally identifiable information about registered users or The Energy Collective members to outside parties for any reason (with the exception of a request made for such information [which is legally warranted and presented in person] by an official law enforcement official or agency).  Members can choose the level of access to their profile information the allow by using the “Permission” setting on the profile pages.  
+The Energy Collective does not divulge any personally identifiable information about registered users or The Energy Collective members to outside parties without permission for any reason (with the exception of a request made for such information [which is legally warranted and presented in person] by an official law enforcement official or agency).
+
+We will ask your permission to share your contact information with our sponsors when we conduct specific initiatives around our content or the content of our sponsors. This permission is something you may choose not to grant by “opting out” on our webforms.
 
 For COPPA compliance (Children's Online Privacy Protection Act), The Energy Collective asserts that its web site contains nothing designed, displayed or formatted to attract, influence, interest, or solicit anyone under the age of eighteen. The Energy Collective memberships are available only to individuals 18 and older.
 
 Part II. Information Usage
 
-The information collected by The Energy Collective is used for the purposes of this web site only. Registered users may receive additional announcements from us about site news, events, private messages, uploaded photos, blog posts, and web site updates. Out of respect for the privacy of our registered users, we present the option to not receive these types of communications.
+The information collected by The Energy Collective is used for the purposes of this web site only. Registered users may receive additional announcements from us about site news, events, private messages, uploaded photos, blog posts, and web site updates. Out of respect for the privacy of our registered users, we present the option to not receive these types of communications. We may also provide you with content suggestions as well as SMT commercial opportunities based on your on-site behavior observed through cookies.
 
 We do offer links to other web sites. Please note: When you click on links to other web sites, we encourage you to read their privacy policies. Their standards may differ from ours.
 
@@ -26,8 +28,8 @@ We reserve the right to update our web site privacy policy without notice. We re
 
 Part III. Access to Information
 
-Registered users who wish to delete their information from our database must notify us by email.
+Registered users who wish to delete their information from our database must notify us by [email](mailto:theenergycollective@socialmediatoday.com).
 
 Part IV. Problem Resolution
 
-If problems arises from your use of this website, please feel free to email The Energy Collective.
+If problems arises from your use of this website, please feel free to [email](mailto:theenergycollective@socialmediatoday.com) The Energy Collective.
