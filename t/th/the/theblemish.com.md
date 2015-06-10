@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theblemish.com privacy policy that was archived on 2014-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141204143619id_/http%3A//theblemish.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theblemish.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610035504id_/http%3A//theblemish.com/privacy-policy) for the most accurate reproduction.*
 
 # The Blemish Privacy Policy | The Blemish
 
