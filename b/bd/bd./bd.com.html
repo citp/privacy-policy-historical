@@ -1,7 +1,11 @@
-<!--The following is the downloaded HTML source of the bd.com privacy policy that was archived on 2014-11-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141124211711id_/http%3A//www.bd.com/legal/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bd.com privacy policy that was archived on 2015-06-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150610052007id_/http%3A//www.bd.com/legal/privacy_policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js" lang="en" dir="ltr"><!--<![endif]--><head>
+
+
+
+
 	    <meta charset="utf-8">
 	    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 
@@ -10,11 +14,12 @@
 
 
         <!-- CSS -->
+        <link rel="stylesheet" href="/_styles/local-styles.css">
         <link rel="stylesheet" href="/_styles/main.min.css">
         <link rel="stylesheet" href="/_styles/home.css">
         <link rel="stylesheet" href="/_styles/VerticalTabs.css">
-        <link rel="stylesheet" href="/_styles/local-styles.css">
-
+        <link rel="stylesheet" href="/_styles/ProductGallery.css">
+        <link rel="stylesheet" href="/_scripts/lytebox/lytebox.css">
 
         <!--[if IE 7]>
         <link rel="stylesheet" href="/_styles/IE7.css"> 
@@ -22,16 +27,78 @@
 
 
         <!-- Feature Detection -->
-        <script async="" src="/includes/js/webtrends.min.js"></script><script src="/_scripts/lib/modernizr.js"></script>
+        <script src="/_scripts/lib/modernizr.js"></script>
 
         <script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+        <script src="/_scripts/local-scripts.js"></script>
         <script src="/_scripts/jquery.js"></script>
         <script src="/_scripts/jquery.easing.js"></script>
         <script src="/_scripts/script.js"></script>
         <script src="/_scripts/webFunctions.js"></script>
         <script src="/_scripts/verticaltabs.pack.js"></script>
         <script src="/_scripts/swfobject.js"></script>
-        <script src="/_scripts/local-scripts.js"></script>
+        <script src="/_scripts/jquery.product-gallery.js"></script>
+        <script src="/_scripts/lytebox/lytebox.js"></script>
+
+
+        <script language="javascript" type="text/javascript"> 
+ 
+	$(function() {
+ 
+    var galleries = $('.ad-gallery').adGallery();
+ 
+    $('#switch-effect').change(
+ 
+      function() {
+ 
+        galleries[0].settings.effect ='none'// $(this).val();
+ 
+        return false;
+ 
+      }
+ 
+    );
+ 
+    $('#toggle-slideshow').click(
+ 
+      function() {
+ 
+        galleries[0].slideshow.toggle();
+ 
+        return false;
+ 
+      }
+ 
+    );
+ 
+    $('#toggle-description').click(
+ 
+      function() {
+ 
+        if(!galleries[0].settings.description_wrapper) {
+ 
+          galleries[0].settings.description_wrapper = $('#descriptions');
+ 
+        } else {
+ 
+          galleries[0].settings.description_wrapper = false;
+ 
+        }
+ 
+        return false;
+ 
+      }
+ 
+    );
+ 
+  });
+  
+  function getCountryProdLink(){
+      top.window.location.href = $('.ad-thumb-list li a.ad-active img').attr('uslink');
+  }   
+ 
+</script>
+        
 
         
 
@@ -43,18 +110,19 @@
 
     <body>
 		<form method="post" action="index.aspx" id="form1">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTg0NjMxOTk2NA9kFgJmD2QWAgIDDxYCHgZhY3Rpb24FCmluZGV4LmFzcHgWAgICD2QWCgIFDxYCHgtfIUl0ZW1Db3VudAIDFgZmD2QWAmYPFQIEL2NhLwtDYW5hZGEgKGVuKWQCAQ9kFgJmDxUCCy9jYS9mcmVuY2gvC0NhbmFkYSAoZnIpZAICD2QWAmYPFQIEL3VzLw1Vbml0ZWQgU3RhdGVzZAIJDxYCHwECBRYKZg9kFgJmDxUCCy9hcmdlbnRpbmEvCUFyZ2VudGluYWQCAQ9kFgJmDxUCCC9icmFzaWwvBkJyYXppbGQCAg9kFgJmDxUCBy9jaGlsZS8FQ2hpbGVkAgMPZBYCZg8VAgovY29sb21iaWEvCENvbG9tYmlhZAIED2QWAmYPFQIIL21leGljby8GTWV4aWNvZAINDxYCHwECDRYaZg9kFgJmDxUCCy9iZS9mcmVuY2gvDEJlbGdpdW0gKGZyKWQCAQ9kFgJmDxUCCi9iZS9kdXRjaC8MQmVsZ2l1bSAobmwpZAICD2QWAmYPFQIEL2RrLwdEZW5tYXJrZAIDD2QWAmYPFQIEL2ZpLwdGaW5sYW5kZAIED2QWAmYPFQIEL2ZyLwZGcmFuY2VkAgUPZBYCZg8VAgQvZGUvB0dlcm1hbnlkAgYPZBYCZg8VAgQvdWsvB0lyZWxhbmRkAgcPZBYCZg8VAgQvaXQvBUl0YWx5ZAIID2QWAmYPFQIEL25sLwtOZXRoZXJsYW5kc2QCCQ9kFgJmDxUCBC9lcy8FU3BhaW5kAgoPZBYCZg8VAgQvc2UvBlN3ZWRlbmQCCw9kFgJmDxUCCy9jaC9nZXJtYW4vC1N3aXR6ZXJsYW5kZAIMD2QWAmYPFQIEL3VrLw5Vbml0ZWQgS2luZ2RvbWQCEQ8WAh8BAgYWDGYPZBYCZg8VAgwvaHUvZW5nbGlzaC8MSHVuZ2FyeSAoZW4pZAIBD2QWAmYPFQIEL2h1LwxIdW5nYXJ5IChodSlkAgIPZBYCZg8VAgQvcGwvBlBvbGFuZGQCAw9kFgJmDxUCBC9ydS8GUnVzc2lhZAIED2QWAmYPFQIEL3phLwxTb3V0aCBBZnJpY2FkAgUPZBYCZg8VAgQvdHIvBlR1cmtleWQCFQ8WAh8BAg0WGmYPZBYCZg8VAgUvYW56LwxBdXN0cmFsaWEvTlpkAgEPZBYCZg8VAgcvY2hpbmEvBUNoaW5hZAICD2QWAmYPFQIEL2hrLwlIb25nIEtvbmdkAgMPZBYCZg8VAgcvaW5kaWEvBUluZGlhZAIED2QWAmYPFQIEL2lkLwlJbmRvbmVzaWFkAgUPZBYCZg8VAhVodHRwOi8vd3d3LmJkai5jby5qcC8FSmFwYW5kAgYPZBYCZg8VAgQva3IvBUtvcmVhZAIHD2QWAmYPFQIEL215LwhNYWxheXNpYWQCCA9kFgJmDxUCDS9waGlsaXBwaW5lcy8LUGhpbGlwcGluZXNkAgkPZBYCZg8VAgQvc2cvCVNpbmdhcG9yZWQCCg9kFgJmDxUCBC90dy8GVGFpd2FuZAILD2QWAmYPFQIKL3RoYWlsYW5kLwhUaGFpbGFuZGQCDA9kFgJmDxUCBC92bi8HVmlldG5hbWRki8yHRNj4HAzOUseB8IJBGzfZ5u+TP0jFTTP+A060Jko=">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTg0NjMxOTk2NA9kFgJmD2QWAgIDDxYCHgZhY3Rpb24FCmluZGV4LmFzcHgWAgICD2QWCgIFDxYCHgtfIUl0ZW1Db3VudAIEFghmD2QWAmYPFQIEL2NhLwtDYW5hZGEgKEVuKWQCAQ9kFgJmDxUCCy9jYS9mcmVuY2gvC0NhbmFkYSAoRnIpZAICD2QWAmYPFQIIL21leGljby8GTWV4aWNvZAIDD2QWAmYPFQIEL3VzLw1Vbml0ZWQgU3RhdGVzZAIJDxYCHwECBBYIZg9kFgJmDxUCCy9hcmdlbnRpbmEvCUFyZ2VudGluYWQCAQ9kFgJmDxUCCC9icmFzaWwvBkJyYXppbGQCAg9kFgJmDxUCBy9jaGlsZS8FQ2hpbGVkAgMPZBYCZg8VAgovY29sb21iaWEvCENvbG9tYmlhZAINDxYCHwECExYmZg9kFgJmDxUDAAsvYmUvZnJlbmNoLwxCZWxnaXVtIChGcilkAgEPZBYCZg8VAwAKL2JlL2R1dGNoLwxCZWxnaXVtIChObClkAgIPZBYCZg8VAwAEL2RrLwdEZW5tYXJrZAIDD2QWAmYPFQMACC9ldXJvcGUvBkV1cm9wZWQCBA9kFgJmDxUDAAQvZmkvB0ZpbmxhbmRkAgUPZBYCZg8VAwAEL2ZyLwZGcmFuY2VkAgYPZBYCZg8VAwAEL2RlLwdHZXJtYW55ZAIHD2QWAmYPFQMADC9odS9lbmdsaXNoLwxIdW5nYXJ5IChFbilkAggPZBYCZg8VAwAEL2h1Lw1IdW5nYXJ5IChNYWcpZAIJD2QWAmYPFQMABC91ay8HSXJlbGFuZGQCCg9kFgJmDxUDHDwvdWw+PHVsIGNsYXNzPSdoYWxmLXdpZHRoJz4EL2l0LwVJdGFseWQCCw9kFgJmDxUDAAQvbmwvC05ldGhlcmxhbmRzZAIMD2QWAmYPFQMABC9wbC8GUG9sYW5kZAIND2QWAmYPFQMABC9ydS8GUnVzc2lhZAIOD2QWAmYPFQMABC9lcy8FU3BhaW5kAg8PZBYCZg8VAwAEL3NlLwZTd2VkZW5kAhAPZBYCZg8VAwALL2NoL2dlcm1hbi8LU3dpdHplcmxhbmRkAhEPZBYCZg8VAwAEL3RyLwZUdXJrZXlkAhIPZBYCZg8VAwAEL3VrLw5Vbml0ZWQgS2luZ2RvbWQCEQ8WAh8BAgIWBGYPZBYCZg8VAwAFL2VtYS8DTUVBZAIBD2QWAmYPFQMcPC91bD48dWwgY2xhc3M9J2hhbGYtd2lkdGgnPgQvemEvDFNvdXRoIEFmcmljYWQCFQ8WAh8BAg4WHGYPZBYCZg8VAgUvYW56LwlBdXN0cmFsaWFkAgEPZBYCZg8VAgcvY2hpbmEvBUNoaW5hZAICD2QWAmYPFQIEL2hrLwlIb25nIEtvbmdkAgMPZBYCZg8VAgcvaW5kaWEvBUluZGlhZAIED2QWAmYPFQIEL2lkLwlJbmRvbmVzaWFkAgUPZBYCZg8VAhVodHRwOi8vd3d3LmJkai5jby5qcC8FSmFwYW5kAgYPZBYCZg8VAgQva3IvBUtvcmVhZAIHD2QWAmYPFQIEL215LwhNYWxheXNpYWQCCA9kFgJmDxUCBS9hbnovC05ldyBaZWFsYW5kZAIJD2QWAmYPFQINL3BoaWxpcHBpbmVzLwtQaGlsaXBwaW5lc2QCCg9kFgJmDxUCBC9zZy8JU2luZ2Fwb3JlZAILD2QWAmYPFQIEL3R3LwZUYWl3YW5kAgwPZBYCZg8VAgovdGhhaWxhbmQvCFRoYWlsYW5kZAIND2QWAmYPFQIEL3ZuLwdWaWV0bmFtZGTRE3jrN4uuxLnlnRFbCgEfQf1dw/LeTKDSMjBITdAoDw==">
 
-<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAdQmTRRL3d/QZ9pTajHfuwy6MtwVnVezEGFdux/ykZr5Jb7vWlgtOKiDKuCYXvJWZhxRQs7WfaDrm+zTUQo63NQoj2Sva9zu61dJnYA1XYaQKGw+1dnoa0ZENki284gV6z4sCwEIlbZs0ZxmUR3M9KBfwkUjzhkr0wBrhHAQDXQ9XSFD3dY9zzrSlHUjOCQzSU=">
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="41E102F7">
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAdjINbZDpGYJ+hHrnXotafI6MtwVnVezEGFdux/ykZr5Jb7vWlgtOKiDKuCYXvJWZhxRQs7WfaDrm+zTUQo63NQoj2Sva9zu61dJnYA1XYaQKGw+1dnoa0ZENki284gV6z4sCwEIlbZs0ZxmUR3M9KBVwzU8RORz4IaLJvQCCdHZj6pxhw7D9FBgYEE5Ef8dqo=">
 			<div id="page" class="">
 		  		<div id="header" role="banner">
 					<div class="inner">
 			      		<div class="span-8-24">
 			        		
 				         		<h1 class="logo">
-				            		<a href="/" title="BD Worldwide">
+				            		  <a href="/" title="BD Worldwide">
 				              			<img src="/_Images/49-6695logo-main.png" alt="BD Worldwide">
-				            		</a>
+				            		  </a>
 				          		</h1>
 			        		
 			      		</div>
@@ -63,33 +131,35 @@
   <div class="inner">
     <ul class="menu-primary">
       <li onmouseover="" onmouseout=""><a title="About BD" href="/aboutbd">About BD</a></li>
-      <li onmouseover="document.getElementById('ProductsDrop').style.display='block'" onmouseout="document.getElementById('ProductsDrop').style.display='none'"><a title="Products" href="/products">Products</a><div id="ProductsDrop" style="display: none;" onmouseover="document.getElementById('ProductsDrop').style.display='block'" onmouseout="document.getElementById('ProductsDrop').style.display='none'">
+      <li onmouseover="document.getElementById('ProductsDrop').style.display='block'" onmouseout="document.getElementById('ProductsDrop').style.display='none'"><a title="Products" href="/products/categories/injection/">Products</a><div id="ProductsDrop" style="display: none;" onmouseover="document.getElementById('ProductsDrop').style.display='block'" onmouseout="document.getElementById('ProductsDrop').style.display='none'">
           <ul class="productsDrop-col1">
-            <li><a href="/products/product-categories/">Injection</a></li>
-            <li><a href="/products/product-categories/infusion.aspx">Infusion</a></li>
-            <li><a href="/products/product-categories/anesthesia.aspx">Anesthesia </a></li>
-            <li><a href="/products/product-categories/diabetes-care.aspx">Diabetes Care</a></li>
-            <li class="productsDrop-doublehigh"><a href="/products/product-categories/pharmaceutical.aspx">Pharmaceutical Drug
+            <li><a href="/products/categories/injection/">Injection</a></li>
+            <li><a href="/products/categories/infusion/">Infusion</a></li>
+            <li><a href="/products/categories/anesthesia/">Anesthesia </a></li>
+            <li><a href="/products/categories/diabetes/">Diabetes Care</a></li>
+            <li class="productsDrop-doublehigh"><a href="/products/categories/pharmaceutical/">Pharmaceutical Drug
 Delivery Systems</a></li>
-            <li><a href="/products/product-categories/pharmacy.aspx">Pharmacy</a></li>
-            <li><a href="/products/product-categories/disposal.aspx">Disposal</a></li>
+            <li><a href="/products/categories/pharmacy/">Pharmacy</a></li>
+            <li><a href="/products/categories/disposal/">Disposal</a></li>
           </ul>
           <ul class="productsDrop-col2">
-            <li><a href="/products/product-categories/microbiology.aspx">Microbiology Solutions</a></li>
-            <li><a href="/products/product-categories/molecular.aspx">Molecular Diagnostics</a></li>
-            <li><a href="/products/product-categories/womenshealth.aspx">Women's Health
+            <li><a href="/products/categories/microbiology/">Microbiology Solutions</a></li>
+            <li><a href="/products/categories/molecular/">Molecular Diagnostics</a></li>
+            <li><a href="/products/categories/womens-health/">Women's Health
 &amp; Cancer</a></li>
-            <li><a href="/products/product-categories/industrial.aspx">Industrial Microbiology </a></li>
-            <li><a href="/products/product-categories/laboratory.aspx">Laboratory Automation</a></li>
-            <li class="productsDrop-doublehigh"><a href="/products/product-categories/diagnostic.aspx">Diagnostic Systems
+            <li><a href="/products/categories/industrial/">Industrial Microbiology </a></li>
+            <li><a href="/products/categories/laboratory/">Laboratory Automation</a></li>
+            <li class="productsDrop-doublehigh"><a href="/products/categories/diagnostic/">Diagnostic Systems
 Technical Service &amp; Support</a></li>
-            <li><a href="/products/product-categories/sample.aspx">Sample Collection</a></li>
+            <li><a href="/products/categories/specimen/">Specimen Collection</a></li>
           </ul>
           <ul class="productsDrop-col3">
-            <li><a href="/products/product-categories/research.aspx">Research Systems</a></li>
-            <li><a href="/products/product-categories/clinical.aspx">Clinical Systems</a></li>
+            <li><a href="/products/categories/research/">Research Systems</a></li>
+            <li><a href="/products/categories/clinical/">Clinical Systems</a></li>
             <li></li>
             <li><a href="http://catalog.bd.com/bdCat/displayTop3Categories.doCustomer?categoryID=0" target="_blank">Product Catalog</a></li>
+            <li></li>
+            <li><a href="/leaving/?http://www.carefusion.com">CareFusion</a></li>
           </ul>
         </div>
       </li>
@@ -104,7 +174,7 @@ Technical Service &amp; Support</a></li>
 						<div class="header-extras">
 							<div class="inner">
 								<div class="location-current">
-					            		<a href="/" title="WORLDWIDE">
+					            		<a href="" title="WORLDWIDE">
 											WORLDWIDE	
 					            		</a>
 								</div>
@@ -119,16 +189,18 @@ Technical Service &amp; Support</a></li>
           <li><span>North America</span>
             <ul>
             
-              <li><a href="/ca/">Canada (en)</a></li>
+              <li><a href="/ca/">Canada (En)</a></li>
             
-              <li><a href="/ca/french/">Canada (fr)</a></li>
+              <li><a href="/ca/french/">Canada (Fr)</a></li>
+            
+              <li><a href="/mexico/">Mexico</a></li>
             
               <li><a href="/us/">United States</a></li>
             
               <li><div class="location-spacer"></div></li>
             </ul>
           </li>
-          <li><span>Latin America</span>
+          <li><span>South America</span>
             <ul>
             
               <li><a href="/argentina/">Argentina</a></li>
@@ -139,68 +211,90 @@ Technical Service &amp; Support</a></li>
             
               <li><a href="/colombia/">Colombia</a></li>
             
-              <li><a href="/mexico/">Mexico</a></li>
-            
             </ul>
           </li>
         </ul>
         <ul class="location-box2">
-          <li><a href="/europe/" class="location-region-link"><span>Europe</span></a>
-            <ul>
+          <li><span>Europe</span><br>
+            <ul class="half-width">
             
-              <li><a href="/be/french/">Belgium (fr)</a></li>
+			  
+              <li><a href="/be/french/">Belgium (Fr)</a></li>
             
-              <li><a href="/be/dutch/">Belgium (nl)</a></li>
+			  
+              <li><a href="/be/dutch/">Belgium (Nl)</a></li>
             
+			  
               <li><a href="/dk/">Denmark</a></li>
             
+			  
+              <li><a href="/europe/">Europe</a></li>
+            
+			  
               <li><a href="/fi/">Finland</a></li>
             
+			  
               <li><a href="/fr/">France</a></li>
             
+			  
               <li><a href="/de/">Germany</a></li>
             
+			  
+              <li><a href="/hu/english/">Hungary (En)</a></li>
+            
+			  
+              <li><a href="/hu/">Hungary (Mag)</a></li>
+            
+			  
               <li><a href="/uk/">Ireland</a></li>
             
+			  </ul><ul class="half-width">
               <li><a href="/it/">Italy</a></li>
             
+			  
               <li><a href="/nl/">Netherlands</a></li>
             
-              <li><a href="/es/">Spain</a></li>
-            
-              <li><a href="/se/">Sweden</a></li>
-            
-              <li><a href="/ch/german/">Switzerland</a></li>
-            
-              <li><a href="/uk/">United Kingdom</a></li>
-            
-            </ul>
-          </li>
-        </ul>
-        <ul class="location-box2">
-          <li><a href="/ema/" class="location-region-link"><span>Eastern Europe, Middle East &amp; Africa</span></a>
-            <ul>
-            
-              <li><a href="/hu/english/">Hungary (en)</a></li>
-            
-              <li><a href="/hu/">Hungary (hu)</a></li>
-            
+			  
               <li><a href="/pl/">Poland</a></li>
             
+			  
               <li><a href="/ru/">Russia</a></li>
             
-              <li><a href="/za/">South Africa</a></li>
+			  
+              <li><a href="/es/">Spain</a></li>
             
+			  
+              <li><a href="/se/">Sweden</a></li>
+            
+			  
+              <li><a href="/ch/german/">Switzerland</a></li>
+            
+			  
               <li><a href="/tr/">Turkey</a></li>
+            
+			  
+              <li><a href="/uk/">United Kingdom</a></li>
+            
+			  <li><div class="location-spacer"><br></div></li>
+            </ul>
+          </li>
+          <li><span>Middle East/Africa</span><br>
+            <ul class="half-width">
+            
+			  
+              <li><a href="/ema/">MEA</a></li>
+            
+			  </ul><ul class="half-width">
+              <li><a href="/za/">South Africa</a></li>
             
             </ul>
           </li>
         </ul>
-        <ul class="location-box2">
-          <li><span>Asia Pacific</span>
+        <ul class="location-box3">
+          <li><span>Asia/Pacific</span>
             <ul>
             
-              <li><a href="/anz/">Australia/NZ</a></li>
+              <li><a href="/anz/">Australia</a></li>
             
               <li><a href="/china/">China</a></li>
             
@@ -216,6 +310,8 @@ Technical Service &amp; Support</a></li>
             
               <li><a href="/my/">Malaysia</a></li>
             
+              <li><a href="/anz/">New Zealand</a></li>
+            
               <li><a href="/philippines/">Philippines</a></li>
             
               <li><a href="/sg/">Singapore</a></li>
@@ -226,7 +322,7 @@ Technical Service &amp; Support</a></li>
             
               <li><a href="/vn/">Vietnam</a></li>
             
-              <li><span class="all-countries"><a href="/support/contact/international.asp">All other countries</a></span></li>
+              <li><!--<span class="all-countries">--><a href="/support/contact/international.asp">All other countries</a><!--</span>--></li>
             </ul>
           </li>
         </ul>
@@ -281,13 +377,13 @@ Technical Service &amp; Support</a></li>
                            <div class="sidebar-a" role="complementary">
 			        <div class="inner">
 				    <div class="section-navigation">
-                                          <h1><a href="/legal">Legal</a></h1>		
+                                          <h1><a href="/legal/privacy_policy/">Legal</a></h1>		
 
                                           <ul>
   <li class="active"><a class="active" title="Privacy Policy" href="/legal/privacy_policy">Privacy Policy</a></li>
   <li><a title="Terms and Conditions" href="/legal/terms">Terms and Conditions</a></li>
   <li><a title="Trademark Usage Guidelines " href="/legal/trademark_usage">Trademark Usage Guidelines </a></li>
-  <li><a title="Permission Request Form" href="/legal/permission_request">Permission Request Form</a></li>
+  <li><a title="Permission Request Form" href="/legal/privacy_policy/">Permission Request Form</a></li>
 </ul>		
 	 
                                      </div>
@@ -577,7 +673,7 @@ Or visit our “<a href="/support/contact/">Contact Us</a>” section.</p><p>[&n
 			        		<div class="span-24-24">
 								<ul class="menu-footer"><li class="first"><a href="/" title="BD Worldwide" class="" target="_self">BD Worldwide</a></li><li><a href="/support/contact/" title="Contact BD" class="" target="_self">Contact BD</a></li><li><a href="/legal/privacy_policy/" title="Privacy" class="" target="_self">Privacy</a></li><li><a href="/legal/terms/" title="Terms &amp; Conditions" class="" target="_self">Terms &amp; Conditions</a></li><li><a href="https://forms.bd.com/BDPERM/index.sp" title="Permission Request" class="" target="_self">Permission Request</a></li><li><a href="/legal/trademark_usage/" title="Trademarks" class="" target="_self">Trademarks</a></li><li class="last"><a href="/site_map.aspx" title="Site Map" class="" target="_self">Site Map</a></li></ul>
 		          				<p>
-		          					<small>Unless otherwise noted, BD, BD Logo and all other trademarks are property of Becton, Dickinson and Company. © 2014 BD</small>
+		          					<small>Unless otherwise noted, BD, BD Logo and all other trademarks are property of Becton, Dickinson and Company. © 2015 BD</small>
 	          					</p>
 			        		</div>
 				      	</div>
@@ -587,6 +683,12 @@ Or visit our “<a href="/support/contact/">Contact Us</a>” section.</p><p>[&n
 		  		<!-- end #footer -->
 			</div>
 			<!-- end #page -->
+
+
+                                <script src="/_scripts/cookieconsent-pre.js"></script>
+
+
+
 
 			
 	<!--SITE_EDIT_INIT-->
@@ -600,25 +702,80 @@ Or visit our “<a href="/support/contact/">Contact Us</a>” section.</p><p>[&n
 <!-- Copyright (c) 2014 Webtrends Inc.  All rights reserved. -->
  
 
-<script> 
-window.webtrendsAsyncInit=function(){
-    var dcs=new Webtrends.dcs().init({
-        dcsid:"dcs4vi8m07dv0hkn0whlp6gmw_9w2f",
-        domain:"statse.webtrendslive.com",
-        timezone:-5,
-        i18n:true,
-        offsite:true,
-        download:true,
-        downloadtypes:"xls,doc,pdf,txt,csv,zip,docx,xlsx,rar,gzip",
-        anchor:true,
-        javascript: true,
-        onsitedoms:new RegExp(".bd.com"),
-        fpcdom:".bd.com",
-        plugins:{
-            hm:{src:"//s.webtrends.com/js/webtrends.hm.js"}
-        }
-        }).track();
-};
+<script language="javascript">  
+if ($.cookie("BDCookiesSettings") != null) {
+	if ($.cookie("BDCookiesSettings") == 2) { 
+ 
+		window.webtrendsAsyncInit=function(){
+			var dcs=new Webtrends.dcs().init({
+				dcsid:"dcs4vi8m07dv0hkn0whlp6gmw_9w2f",
+				domain:"statse.webtrendslive.com",
+				timezone:-5,
+				cookieTypes:"none",
+				i18n:true,
+				offsite:true,
+				download:true,
+				downloadtypes:"xls,doc,pdf,txt,csv,zip,docx,xlsx,rar,gzip",
+				anchor:true,
+				javascript: true,
+				onsitedoms:new RegExp(".bd.com"),
+				fpcdom:".bd.com",
+				plugins:{
+					hm:{src:"//s.webtrends.com/js/webtrends.hm.js"}
+				}
+				}).track();
+		};		
+		
+	} else {
+	
+		window.webtrendsAsyncInit=function(){
+			var dcs=new Webtrends.dcs().init({
+				dcsid:"dcs4vi8m07dv0hkn0whlp6gmw_9w2f",
+				domain:"statse.webtrendslive.com",
+				timezone:-5,
+				cookieTypes:"all",
+				i18n:true,
+				offsite:true,
+				download:true,
+				downloadtypes:"xls,doc,pdf,txt,csv,zip,docx,xlsx,rar,gzip",
+				anchor:true,
+				javascript: true,
+				onsitedoms:new RegExp(".bd.com"),
+				fpcdom:".bd.com",
+				plugins:{
+					hm:{src:"//s.webtrends.com/js/webtrends.hm.js"}
+				}
+				}).track();
+		};	
+	
+	};
+} else {
+	
+		window.webtrendsAsyncInit=function(){
+			var dcs=new Webtrends.dcs().init({
+				dcsid:"dcs4vi8m07dv0hkn0whlp6gmw_9w2f",
+				domain:"statse.webtrendslive.com",
+				timezone:-5,
+				cookieTypes:"all",
+				i18n:true,
+				offsite:true,
+				download:true,
+				downloadtypes:"xls,doc,pdf,txt,csv,zip,docx,xlsx,rar,gzip",
+				anchor:true,
+				javascript: true,
+				onsitedoms:new RegExp(".bd.com"),
+				fpcdom:".bd.com",
+				plugins:{
+					hm:{src:"//s.webtrends.com/js/webtrends.hm.js"}
+				}
+				}).track();
+		};	
+	
+	};
+ 
+
+
+
 (function(){
     var s=document.createElement("script"); s.async=true; s.src="/includes/js/webtrends.min.js";    
     var s2=document.getElementsByTagName("script")[0]; s2.parentNode.insertBefore(s,s2);
@@ -632,4 +789,4 @@ window.webtrendsAsyncInit=function(){
 			
 		</form>
     
-</body></html>
+<div id="lbOverlay" class="grey" style="display: none;"></div><div id="lbMain" style="display: none;"><div id="lbOuterContainer" class="grey"><div id="lbIframeContainer" style="display: none;"><iframe id="lbIframe" name="lbIframe" frameborder="0" style="display: none; border: none;"></iframe></div><div id="lbImageContainer"><img id="lbImage"><div id="lbHoverNav"><a id="lbPrev" class="grey" href="#"></a><a id="lbNext" class="grey" href="#"></a></div></div><div id="lbLoading"></div></div><div id="lbDetailsContainer" class="grey"><div id="lbDetailsData" class="grey"><div id="lbDetails"><span id="lbCaption"></span><span id="lbNumberDisplay"></span><span id="lbNavDisplay" style="display: none;"></span></div><div id="lbBottomNav"><a id="lbClose" class="grey" href="#"></a><a id="lbPause" class="grey" href="#" style="display: none;"></a><a id="lbPlay" class="grey" href="#" style="display: none;"></a></div></div></div></div></body></html>
