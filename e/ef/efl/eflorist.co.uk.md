@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eflorist.co.uk privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231045300id_/http%3A//www.eflorist.co.uk/privacy-policy-cn28) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eflorist.co.uk privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610052842id_/http%3A//www.eflorist.co.uk/privacy-policy-cn28) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -36,7 +36,7 @@ We do our best to ensure that all information held relating to you is kept up-to
 
 **Use of Cookies**
 
-Unless you have indicated your objection when disclosing your information to us, our system will issue cookies to your computer when you log on to the Website. Cookies are small amounts of information regarding your browsing habits which we store on your computer. Cookies make it easier for you to log on to and use the Website during future visits. They also allow us to monitor Website traffic and to personalise the content of the Website for you. You may have the ability to accept or decline cookies. Most web browsers automatically accept cookies, but if you prefer you may be able to modify your browser settings to decline all cookies, or to notify you each time a cookie is tendered and permit you to accept or decline cookies on an individual basis. If you choose to decline cookies, however, that may hinder the performance of the web Website. For specific details about how to configure your browser you should refer to its supplier or manufacturer.
+Unless you have indicated your objection when disclosing your information to us, our system will issue cookies to your computer when you log on to the Website. Cookies are small amounts of information regarding your browsing habits which we store on your computer. Cookies make it easier for you to log on to and use the Website during future visits. They also allow us to monitor Website traffic and to personalise the content of the Website for you. You may have the ability to accept or decline cookies. Most web browsers automatically accept cookies, but if you prefer you may be able to modify your browser settings to decline all cookies, or to notify you each time a cookie is tendered and permit you to accept or decline cookies on an individual basis. If you choose to decline cookies, however, that may hinder the performance of the web Website. For specific details about how to configure your browser you should refer to its supplier or manufacturer. We use cookies for the purposes of remarketing and by accepting our cookie policy you agree to the use of cookies for remarketing purposes. The cookies stored on your computer can be cleared to prevent products being displayed after leaving our site.
 
 **Security**
 
