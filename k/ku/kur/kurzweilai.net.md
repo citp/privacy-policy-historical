@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kurzweilai.net privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120122911id_/http%3A//www.kurzweilai.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kurzweilai.net privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610053109id_/http%3A//www.kurzweilai.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | KurzweilAI
 
