@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wishesmessages.com privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217195726id_/http%3A//wishesmessages.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wishesmessages.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610025338id_/http%3A//wishesmessages.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | WishesMessages.com
 
@@ -28,7 +28,7 @@ WishesMessages.com may contain links to other websites or services. We are not r
 We will not be responsible for data and information practices of advertising partners and third party applications. We will not be held responsible for any losses or damages caused by your online activities. Although we try our best to deliver a safe browsing environment, your privacy and online safety is ultimately your responsibility due to the inherent risks of the internet and related data transmission. To find out more about how you can stay safe online, please click [here](http://www.google.com/goodtoknow/online-safety/).
 
 **Changes**  
-We reserve the right to change this privacy policy any time by updating this page. Please check this page for updates. Last updated: 6 November 2013
+We reserve the right to change this privacy policy any time by updating this page. Please check this page for updates. Last updated: 15 February 2015
 
 **Contact**  
 If you have any queries, please [contact us](http://wishesmessages.com/contact-us).
