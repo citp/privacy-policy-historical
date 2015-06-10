@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sharefaith.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121025756id_/http%3A//www.sharefaith.com/faith/privacyPolicy/view.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sharefaith.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610045253id_/http%3A//www.sharefaith.com/faith/privacyPolicy/view.do) for the most accurate reproduction.*
 
 # Privacy Policy
 
