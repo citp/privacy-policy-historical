@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the talkingpointsmemo.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230042948id_/http%3A//talkingpointsmemo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the talkingpointsmemo.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610165855id_/http%3A//talkingpointsmemo.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -23,5 +23,3 @@ The Services may contain links to other sites. Please be aware that TPM Media is
 Your information may be stored and processed in the United States or any other country where TPM Media LLC has facilities, and by subscribing to our services, you consent to the transfer of information outside of your country.
 
 TPM may choose to amend this policy periodically. Any changes will be available for review on this page. 
-
-December 29, 2014, 8:35 PM EST Rep. Michael Grimm (R-NY) plans to resign from Congress in the wake of pleading guilty to tax evasion, according to… [Read More → ](https://web.archive.org/livewire/michael-grimm-resign-tuesday-wednesday-congress) December 29, 2014, 6:29 PM EST After the Washington Post reported that House Majority Whip Steve Scalise (R-LA) spoke at a 2002 event hosted by a… [Read More → ](https://web.archive.org/livewire/erick-erickson-scalise-david-duke) December 29, 2014, 4:49 PM EST Attendees at a New York Police Department graduation ceremony could be heard booing New York City Mayor Bill de Blasio… [Read More → ](https://web.archive.org/livewire/bill-de-blasio-booed-nypd-graduation) December 29, 2014, 4:01 PM EST House Majority Whip Steve Scalise (R-LA) spoke at a 2002 meeting hosted by a white nationalist group, the Washington Post… [Read More → ](https://web.archive.org/livewire/steve-scalise-david-duke-wat) December 29, 2014, 3:56 PM EST Director Judd Apatow took to Twitter on Friday to criticize theaters that still have Bill Cosby performances scheduled, despite the… [Read More → ](https://web.archive.org/livewire/judd-apatow-twitter-bill-cosby)
