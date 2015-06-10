@@ -1,15 +1,13 @@
-<!--The following is the downloaded HTML source of the delhisexchat.com privacy policy that was archived on 2014-12-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141204200514id_/http%3A//www.delhisexchat.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the delhisexchat.com privacy policy that was archived on 2015-06-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150610235918id_/http%3A//www.delhisexchat.com/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en-US" prefix="og: http://ogp.me/ns#"><head>
-<meta name="wp_lang" content="">
-<meta charset="utf-8"><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-KSMTD2"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VQYGU19WGwABV1lRDgc="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),u=c.length,f=i(a,o,r),d=0;u>d;d++)c[d].apply(f,n);return f}function a(t,e){u[t]=s(t).concat(e)}function s(t){return u[t]||[]}function c(){return n(e)}var u={};return{on:a,emit:e,create:c,listeners:s,_events:u}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(u){try{r("ierr",[u,(new Date).getTime(),!0])}catch(f){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(4),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(u){"stack"in u&&(t(5),t(3),"addEventListener"in window&&t(1),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(2),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:4,2:7,3:5,4:18,5:6,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],4:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:18,2:19,ee:"QJf3ax",gos:"7eSDFh"}],5:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:19,2:18,ee:"QJf3ax"}],6:[function(t,e){function n(t,e,n){var r=t[0];"string"==typeof r&&(r=new Function(r)),t[0]=o(r,"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:19,2:18,ee:"QJf3ax"}],7:[function(t,e){function n(){c.inPlace(this,d,"fn-")}function r(t,e){c.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}var i=t("ee").create(),a=t(1),s=t(2),c=s(i),u=s(a),f=window.XMLHttpRequest,d=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=i,window.XMLHttpRequest=function(t){var e=new f(t);try{i.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",function(t,e){return e}),e.addEventListener("readystatechange",n,!1)}catch(r){try{i.emit("internal-error",[r])}catch(o){}}return e},window.XMLHttpRequest.prototype=f.prototype,c.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),i.on("send-xhr-start",r),i.on("open-xhr-start",r)},{1:4,2:19,ee:"QJf3ax"}],8:[function(t){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,u="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(u);if(f&&(r.rxSize=f),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(n.cat=d.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r,this.startTime])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,u=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var u=e(o);u&&(r.txSize=u)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",[e])}catch(r){}}};for(var f=0;c>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:9,3:7,4:4,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],9:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&c&&c.body){p.proto="https"===d.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=c.createElement("script");e.src=p.proto+t.agent,c.body.appendChild(e)}}function r(){"complete"===c.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,c=s.document,u="addEventListener",f="attachEvent",d=(""+location).split("?")[0],p=e.exports={offset:i(),origin:d,features:{}};c[u]?(c[u]("DOMContentLoaded",o,!1),s[u]("load",n,!1)):(c[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],18:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],19:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,u;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){f([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return u=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,u],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,u(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,u="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,u?s+o:o,i,s,t))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){f([o,e,n,r])}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){f([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function f(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:18,ee:"QJf3ax"}]},{},["G9z0Bl",3,8]);</script>
+<!DOCTYPE html><html lang="en-US"><head><script src="https://js-agent.newrelic.com/nr-632.min.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VQYGU19WGwABV1lRDgc="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:23,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(5),window.onerror=e;try{throw new Error}catch(f){"stack"in f&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&t(4),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:10,2:9,3:7,4:11,5:3,6:24,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t){t("loader").features.ins=!0},{loader:"G9z0Bl"}],6:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(1),i=t(2);t("loader").features.stn=!0,t(3),n.on("fn-start",function(t){var e=t[0];e instanceof Event&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof Event&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),i.on("fn-start",function(){this.bstStart=Date.now()}),i.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1),window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:10,2:9,3:8,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],7:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:24,2:25,ee:"QJf3ax",gos:"7eSDFh"}],8:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState"],"-")},{1:25,2:24,ee:"QJf3ax"}],9:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:25,2:24,ee:"QJf3ax"}],10:[function(t,e){function n(t,e,n){t[0]=o(t[0],"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:25,2:24,ee:"QJf3ax"}],11:[function(t,e){function n(){f.inPlace(this,p,"fn-")}function r(t,e){f.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),f=c(a),u=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,f.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:7,2:25,ee:"QJf3ax"}],12:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=n(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(e.cat=d.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,o("xhr",[e,r,this.startTime])}}}function n(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=e,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,e){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=n(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{a.emit("internal-error",[n])}catch(r){}}};for(var u=0;c>u;u++)e.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:13,3:11,4:7,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],13:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],14:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:23,2:24,handle:"D5DuLP"}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info,e=f.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){e in t||(t[e]=n)});var n="https"===u.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=(t(2),window),f=c.document,u=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-632.min.js"},p=e.exports={offset:i(),origin:u,features:{}};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(f.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()])},{1:23,2:14,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],23:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],24:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],25:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:24,ee:"QJf3ax"}]},{},["G9z0Bl",4,12,6,5]);</script>
+<meta charset="utf-8">
 <title>Privacy Policy - Delhi Sex Chat</title>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="geo.country" content="in">
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="mobile-web-app-capable" content="yes">
-<script type="text/javascript">var bhittani_plugin_kksr_js={"nonce":"426d5e1ac3","grs":true,"ajaxurl":"http:\/\/www.delhisexchat.com\/wp-admin\/admin-ajax.php","func":"kksr_ajax","msg":"","fuelspeed":400,"thankyou":"","error_msg":"","tooltip":"0","tooltips":[{"tip":"","color":"#ffffff"},{"tip":"","color":"#ffffff"},{"tip":"","color":"#ffffff"},{"tip":"","color":"#ffffff"},{"tip":"","color":"#ffffff"}]};</script>
  
 <meta name="description" content="It is advisable that you read our privacy policy before you become the member of DelhiSexChat. Please go through on all these information.">
 <link rel="canonical" href="http://www.delhisexchat.com/privacy-policy/">
@@ -19,70 +17,171 @@
 <meta property="og:description" content="It is advisable that you read our privacy policy before you become the member of DelhiSexChat. Please go through on all these information.">
 <meta property="og:url" content="http://www.delhisexchat.com/privacy-policy/">
 <meta property="og:site_name" content="Delhi Sex Chat">
+<script type="application/ld+json">{"@context":"http:\/\/schema.org","@type":"WebSite","url":"http:\/\/www.delhisexchat.com\/","name":"Delhi Sex Chat"}</script>
  
-<script pagespeed_no_defer="">(function(){var d=window,e=document,f="getItem",n="localStorage",q="indexOf",t="length",u="prototype",v="substring",w=function(b){var a=d;if(a.addEventListener)a.addEventListener("load",b,!1);else if(a.attachEvent)a.attachEvent("onload",b);else{var c=a.onload;a.onload=function(){b.call(this);c&&c.call(this)}}};d.pagespeed=d.pagespeed||{};var x=d.pagespeed,y=function(){this.a=!0};y[u].c=function(b){b=parseInt(b[v](0,b[q](" ")),10);return!isNaN(b)&&b<=Date.now()};y[u].hasExpired=y[u].c;y[u].b=function(b){return b[v](b[q](" ",b[q](" ")+1)+1)};y[u].getData=y[u].b;y[u].d=function(b){var a=e.getElementsByTagName("script"),a=a[a[t]-1];a.parentNode.replaceChild(b,a)};y[u].replaceLastScript=y[u].d;
-y[u].e=function(b){var a=d[n][f]("pagespeed_lsc_url:"+b),c=e.createElement(a?"style":"link");a&&!this.c(a)?(c.type="text/css",c.appendChild(e.createTextNode(this.b(a)))):(c.rel="stylesheet",c.href=b,this.a=!0);this.d(c)};y[u].inlineCss=y[u].e;
-y[u].f=function(b,a){var c=d[n][f]("pagespeed_lsc_url:"+b+" pagespeed_lsc_hash:"+a),h=e.createElement("img");c&&!this.c(c)?h.src=this.b(c):(h.src=b,this.a=!0);for(var c=2,m=arguments[t];c<m;++c){var k=arguments[c][q]("=");h.setAttribute(arguments[c][v](0,k),arguments[c][v](k+1))}this.d(h)};y[u].inlineImg=y[u].f;
-var z=function(b,a,c,h){a=e.getElementsByTagName(a);for(var m=0,k=a[t];m<k;++m){var g=a[m],r=g.getAttribute("pagespeed_lsc_hash"),l=g.getAttribute("pagespeed_lsc_url");if(r&&l){l="pagespeed_lsc_url:"+l;c&&(l+=" pagespeed_lsc_hash:"+r);var p=g.getAttribute("pagespeed_lsc_expiry"),p=p?(new Date(p)).getTime():"",g=h(g);if(!g){var s=d[n][f](l);s&&(g=b.b(s))}g&&(d[n].setItem(l,p+" "+r+" "+g),b.a=!0)}}},A=function(b){z(b,"img",!0,function(a){return a.src});z(b,"style",!1,function(a){return a.firstChild?
-a.firstChild.nodeValue:null})};
-x.g=function(){if(d[n]){var b=new y;x.localStorageCache=b;w(function(){A(b)});w(function(){if(b.a){for(var a=[],c=[],h=0,m=Date.now(),k=0,g=d[n][t];k<g;++k){var r=d[n].key(k);if(!r[q]("pagespeed_lsc_url:")){var l=d[n][f](r),p=l[q](" "),s=parseInt(l[v](0,p),10);if(!isNaN(s))if(s<=m){a.push(r);continue}else if(s<h||0==h)h=s;c.push(l[v](p+1,l[q](" ",p+1)))}}m="";h&&(m="; expires="+(new Date(h)).toUTCString());e.cookie="_GPSLSC="+c.join("!")+m;k=0;for(g=a[t];k<g;++k)d[n].removeItem(a[k]);b.a=!1}})}};
-x.localStorageCacheInit=x.g;})();
-pagespeed.localStorageCacheInit();</script><style id="bhittani_plugin_kksr-css" media="all" pagespeed_lsc_url="http://www.delhisexchat.com/wp-content/plugins/kk-star-ratings/css.css?ver=2.4" pagespeed_lsc_hash="rr61gh3G-g" pagespeed_lsc_expiry="Fri, 04 Dec 2015 13:28:51 GMT">.kk-star-ratings{width:120px}.kk-star-ratings.top-left,.kk-star-ratings.top-right{margin-top:3px}.kk-star-ratings.lft{float:left;margin-right:10px}.kk-star-ratings.rgt{float:right;margin-left:10px}.kk-star-ratings .kksr-stars{height:24px;position:relative}.kk-star-ratings .kksr-star{background-position:0px 0px}.kk-star-ratings .kksr-star.gray{background-image:url(/wp-content/plugins/kk-star-ratings/xgray.png.pagespeed.ic.EtqJMpVjQD.png)}.kk-star-ratings .kksr-star.yellow{background-image:url(/wp-content/plugins/kk-star-ratings/xyellow.png.pagespeed.ic.BLgtpQBrLF.png)}.kk-star-ratings .kksr-star.orange{background-image:url(/wp-content/plugins/kk-star-ratings/xorange.png.pagespeed.ic.06bnAelgjW.png)}.kk-star-ratings .kksr-stars .kksr-fuel{height:24px;position:absolute;top:0px;left:0px;z-index:0}.kk-star-ratings .kksr-stars a{width:24px;height:24px;float:left;position:relative;z-index:1}.kk-star-ratings .kksr-legend{font-size:12px;color:#999;text-align:center;line-height:18px;padding:3px;font-family:Arial,Helvetica,sans-serif}.kk-star-ratings .kksr-legend .kksr-title{display:none}</style>
-<style id="lc_app_front-css" media="all" pagespeed_lsc_url="http://www.delhisexchat.com/wp-content/plugins/livechat/assets/css/livechat.app.css?ver=1.1.0" pagespeed_lsc_hash="uy8MNqCLjQ" pagespeed_lsc_expiry="Fri, 04 Dec 2015 13:28:50 GMT"></style>
-<link rel="stylesheet" id="bootstrap-css" href="/wp-content/themes/livechat/assets/css/A.bootstrap.min.css,qver=3.2.0.pagespeed.cf.AaoxDNRwWD.css" type="text/css" media="all">
-<link rel="stylesheet" id="mmenu-css" href="/wp-content/themes/livechat/assets/plugins/mmenu/src/css/A.jquery.mmenu.all.css,qver=1.0.0.pagespeed.cf.Rf2Phc4GX9.css" type="text/css" media="all">
-<link rel="stylesheet" id="app-css" href="/wp-content/themes/livechat/assets/css/A.style.css,qver=1.0.9.pagespeed.cf.Vf7ShoTIE-.css" type="text/css" media="all">
-<link rel="stylesheet" id="custom-css" href="/wp-content/themes/livechat/assets/css/A.custom.css,qver=1.0.14.pagespeed.cf.8fmMafHOH8.css" type="text/css" media="all">
+<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"http:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"wpemoji":"http:\/\/www.delhisexchat.com\/wp-includes\/js\/wp-emoji.js?ver=4.2.2","twemoji":"http:\/\/www.delhisexchat.com\/wp-includes\/js\/twemoji.js?ver=4.2.2"}};
+			( function( window, document, settings ) {
+	var src, ready;
+
+	/**
+	 * Detect if the browser supports rendering emoji or flag emoji. Flag emoji are a single glyph
+	 * made of two characters, so some browsers (notably, Firefox OS X) don't support them.
+	 *
+	 * @since 4.2.0
+	 *
+	 * @param type {String} Whether to test for support of "simple" or "flag" emoji.
+	 * @return {Boolean} True if the browser can render emoji, false if it cannot.
+	 */
+	function browserSupportsEmoji( type ) {
+		var canvas = document.createElement( 'canvas' ),
+			context = canvas.getContext && canvas.getContext( '2d' );
+
+		if ( ! context || ! context.fillText ) {
+			return false;
+		}
+
+		/*
+		 * Chrome on OS X added native emoji rendering in M41. Unfortunately,
+		 * it doesn't work when the font is bolder than 500 weight. So, we
+		 * check for bold rendering support to avoid invisible emoji in Chrome.
+		 */
+		context.textBaseline = 'top';
+		context.font = '600 32px Arial';
+
+		if ( type === 'flag' ) {
+			/*
+			 * This works because the image will be one of three things:
+			 * - Two empty squares, if the browser doesn't render emoji
+			 * - Two squares with 'G' and 'B' in them, if the browser doesn't render flag emoji
+			 * - The British flag
+			 *
+			 * The first two will encode to small images (1-2KB data URLs), the third will encode
+			 * to a larger image (4-5KB data URL).
+			 */
+			context.fillText( String.fromCharCode( 55356, 56812, 55356, 56807 ), 0, 0 );
+			return canvas.toDataURL().length > 3000;
+		} else {
+			/*
+			 * This creates a smiling emoji, and checks to see if there is any image data in the
+			 * center pixel. In browsers that don't support emoji, the character will be rendered
+			 * as an empty square, so the center pixel will be blank.
+			 */
+			context.fillText( String.fromCharCode( 55357, 56835 ), 0, 0 );
+			return context.getImageData( 16, 16, 1, 1 ).data[0] !== 0;
+		}
+	}
+
+	function addScript( src ) {
+		var script = document.createElement( 'script' );
+
+		script.src = src;
+		script.type = 'text/javascript';
+		document.getElementsByTagName( 'head' )[0].appendChild( script );
+	}
+
+	settings.supports = {
+		simple: browserSupportsEmoji( 'simple' ),
+		flag:   browserSupportsEmoji( 'flag' )
+	};
+
+	settings.DOMReady = false;
+	settings.readyCallback = function() {
+		settings.DOMReady = true;
+	};
+
+	if ( ! settings.supports.simple || ! settings.supports.flag ) {
+		ready = function() {
+			settings.readyCallback();
+		};
+
+		if ( document.addEventListener ) {
+			document.addEventListener( 'DOMContentLoaded', ready, false );
+			window.addEventListener( 'load', ready, false );
+		} else {
+			window.attachEvent( 'onload', ready );
+			document.attachEvent( 'onreadystatechange', function() {
+				if ( 'complete' === document.readyState ) {
+					settings.readyCallback();
+				}
+			} );
+		}
+
+		src = settings.source || {};
+
+		if ( src.concatemoji ) {
+			addScript( src.concatemoji );
+		} else if ( src.wpemoji && src.twemoji ) {
+			addScript( src.twemoji );
+			addScript( src.wpemoji );
+		}
+	}
+
+} )( window, document, window._wpemojiSettings );
+		</script><script src="http://www.delhisexchat.com/wp-includes/js/twemoji.js?ver=4.2.2" type="text/javascript"></script><script src="http://www.delhisexchat.com/wp-includes/js/wp-emoji.js?ver=4.2.2" type="text/javascript"></script>
+<style type="text/css">img.wp-smiley,img.emoji{display:inline!important;border:none!important;box-shadow:none!important;height:1em!important;width:1em!important;margin:0 .07em!important;vertical-align:-0.1em!important;background:none!important;padding:0!important;}</style>
+<link rel="stylesheet" id="lc_app_front-css" href="http://www.delhisexchat.com/wp-content/themes/livechat/core/assets/css/livechat.app.css?ver=1.2.9" type="text/css" media="all">
+<link rel="stylesheet" id="app-css" href="http://www.delhisexchat.com/wp-content/themes/livechat/assets/css/style.css?ver=1.5.2" type="text/css" media="all">
+<link rel="stylesheet" id="custom-css" href="http://www.delhisexchat.com/wp-content/themes/livechat/assets/css/custom.css?ver=1.5.2" type="text/css" media="all">
 <link rel="stylesheet" id="zendesk-css" href="//assets.zendesk.com/external/zenbox/v2.6/zenbox.css?ver=2.6" type="text/css" media="all">
-<script type="text/javascript" src="/wp-includes/js/jquery/jquery.js,qver=1.11.1.pagespeed.jm.z9hb-Gxqf6.js"></script>
-<script type="text/javascript" src="/wp-includes/js/jquery/jquery-migrate.js,qver=1.2.1.pagespeed.jm.pE1rtGPryg.js"></script>
-<script type="text/javascript" src="/wp-content/plugins/kk-star-ratings/js.min.js,qver=2.4.pagespeed.jm.fUAwPXCLmh.js"></script>
+<script type="text/javascript" src="http://www.delhisexchat.com/wp-includes/js/jquery/jquery.js?ver=1.11.2"></script>
+<script type="text/javascript" src="http://www.delhisexchat.com/wp-includes/js/jquery/jquery-migrate.js?ver=1.2.1"></script>
 <script type="text/javascript" src="//assets.zendesk.com/external/zenbox/v2.6/zenbox.js?ver=2.6" async="async"></script>
-<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js,qver=1.0.2,23pubid=ra-51fe24226e691039.pagespeed.jm.uwJY30dXi9.js" async="async"></script>
-<meta name="generator" content="WordPress 4.0">
-<style>.kk-star-ratings{width:100px}.kk-star-ratings .kksr-stars a{width:20px}.kk-star-ratings .kksr-stars,.kk-star-ratings .kksr-stars .kksr-fuel,.kk-star-ratings .kksr-stars a{height:20px}.kk-star-ratings .kksr-star.gray{background-image:url(/wp-content/uploads/2013/11/xgray.png.pagespeed.ic._9h6fFG_1Z.png)}.kk-star-ratings .kksr-star.yellow{background-image:url(/wp-content/uploads/2013/11/xyellow.png.pagespeed.ic.tgzLZUCyY4.png)}.kk-star-ratings .kksr-star.orange{background-image:url(/wp-content/uploads/2013/11/xorange.png.pagespeed.ic.r23407y2zn.png)}</style>
-<script type="text/javascript">var _gaq=_gaq||[];_gaq.push(['_setAccount','UA-19705846-1']);_gaq.push(['_trackPageview']);(function(){var ga=document.createElement('script');ga.type='text/javascript';ga.async=true;ga.src=('https:'==document.location.protocol?'https://ssl':'http://www')+'.google-analytics.com/ga.js';var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(ga,s);})();</script>
+<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js?ver=1.0.2#pubid=ra-51fe24226e691039" async="async"></script>
+<script type="text/javascript">
+
+			var _gaq = _gaq || [];
+			_gaq.push(['_setAccount', 'UA-19705846-1']);
+			_gaq.push(['_trackPageview']);
+
+			(function() {
+				var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+				ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+				var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+			})();
+
+		</script>
 </head>
-<body class="page page-id-55 page-template-default" data-env="">
- 
-<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-KSMTD2" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-KSMTD2');</script>
- 
-<input type="hidden" name="user_id" id="user_id" value="0">
-<input type="hidden" name="page_id" id="page_id" value="55">
+<body class="page page-id-55 page-template-default">
+<div id="mobile-navigation" class="navmenu navmenu-default navmenu-fixed-left offcanvas">
+<nav id="top-navigation-mobile" class="menu-top-member-container"><ul id="menu-top-member" class="topnav-mobile"><li id="menu-item-5562" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5562"><a href="http://www.delhisexchat.com/">Home</a></li>
+<li id="menu-item-17828" class="gold-link-menu menu-item menu-item-type-post_type menu-item-object-page menu-item-17828"><a href="http://www.delhisexchat.com/add-credit/">Add Minutes</a></li>
+<li id="menu-item-280037" class="gold-link-menu menu-item menu-item-type-post_type menu-item-object-page menu-item-280037"><a href="http://www.delhisexchat.com/vip/">VIP Zone</a></li>
+<li id="menu-item-82" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-82"><a href="http://www.delhisexchat.com/how-does-it-work/">How does it work?</a></li>
+<li id="menu-item-81" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-81"><a href="http://www.delhisexchat.com/faq/">FAQ</a></li>
+<li id="menu-item-18554" class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-18554"><a href="http://www.delhisexchat.com/blog-2/">Blog</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom"><a href="#login_modal" id="login" data-toggle="modal">Login</a></li></ul></nav> </div>
 <div class="container">
-<header class="mobile visible-sm visible-xs">
-<a class="menu-opener" href="#top-navigation-mobile"></a>
-<a class="brand" href="/">
-<img class="logo" src="/wp-content/themes/livechat/assets/images/xlogo.png.pagespeed.ic.7z8PQXuA5r.png" alt="Delhi Sex Chat" width="297" height="50">
+<header class="main">
+<div class="navbar navbar-inverse navbar-fixed-top visible-sm visible-xs">
+<a href="#login_modal" class="navbar-login navbar-btn btn-link" id="login" data-toggle="modal">Login</a>
+<button type="button" class="navbar-btn navbar-toggle" data-toggle="offcanvas" data-target="#mobile-navigation" data-canvas="body">
+<i class="fa fa-bars"></i>
+</button>
+<div class="navbar-header">
+<a class="navbar-brand" href="http://www.delhisexchat.com">
+<img src="http://www.delhisexchat.com/wp-content/themes/livechat/assets/images/logo.png" alt="Delhi Sex Chat">
 </a>
-<div class="lang-bar clearfix">
-<a href="#myModal" id="login" data-toggle="modal">Login</a> </div>
-<nav id="top-navigation-mobile" class="menu-top-guest-container"><ul id="menu-top-guest" class="topnav-mobile"><li id="menu-item-5563" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5563"><a href="/">Home</a></li>
-<li id="menu-item-475" class="gold-link-menu menu-item menu-item-type-post_type menu-item-object-page menu-item-475"><a href="/buy-credit/">Get Minutes</a></li>
-<li id="menu-item-179818" class="gold-link-menu menu-item menu-item-type-post_type menu-item-object-page menu-item-179818"><a href="/vip/">VIP Zone (new)</a></li>
-<li id="menu-item-476" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-476"><a href="/how-does-it-work/">How does it work?</a></li>
-<li id="menu-item-18555" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18555"><a href="/blog/">Blog</a></li>
-<li id="menu-item-477" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-477"><a href="/faq/">FAQ</a></li>
-<li class="menu-item menu-item-type-custom menu-item-object-custom"><a href="#myModal" id="login" data-toggle="modal">Login</a></li></ul></nav>
-</header>
-<header class="main visible-md visible-lg">
+</div>
+</div>
+<div class="hidden-sm hidden-xs">
 <div class="row">
 <div class="col-md-3">
-<a class="brand" href="/">
-<img class="logo" src="/wp-content/themes/livechat/assets/images/xlogo.png.pagespeed.ic.7z8PQXuA5r.png" alt="Delhi Sex Chat" width="297" height="50">
+<a class="brand" href="http://www.delhisexchat.com">
+<img class="logo" src="http://www.delhisexchat.com/wp-content/themes/livechat/assets/images/logo.png?v=1" alt="Delhi Sex Chat">
 </a>
 </div>
 <div class="col-md-9">
 <nav class="top-navigation">
-<div class="menu-top-guest-container"><ul id="menu-top-guest-1" class="topnav nav nav-pills pull-right"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5563"><a href="/">Home</a></li>
-<li class="gold-link-menu menu-item menu-item-type-post_type menu-item-object-page menu-item-475"><a href="/buy-credit/">Get Minutes</a></li>
-<li class="gold-link-menu menu-item menu-item-type-post_type menu-item-object-page menu-item-179818"><a href="/vip/">VIP Zone (new)</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-476"><a href="/how-does-it-work/">How does it work?</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18555"><a href="/blog/">Blog</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-477"><a href="/faq/">FAQ</a></li>
-<li class="menu-item menu-item-type-custom menu-item-object-custom"><a href="#myModal" id="login" data-toggle="modal">Login</a></li></ul></div>
+<div class="menu-top-guest-container"><ul id="menu-top-guest" class="topnav nav nav-pills pull-right"><li id="menu-item-5563" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5563"><a href="http://www.delhisexchat.com/">Home</a></li>
+<li id="menu-item-475" class="gold-link-menu menu-item menu-item-type-post_type menu-item-object-page menu-item-475"><a href="http://www.delhisexchat.com/buy-credit/">Get Minutes</a></li>
+<li id="menu-item-280043" class="gold-link-menu menu-item menu-item-type-post_type menu-item-object-page menu-item-280043"><a href="http://www.delhisexchat.com/vip/">VIP Zone (new)</a></li>
+<li id="menu-item-476" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-476"><a href="http://www.delhisexchat.com/how-does-it-work/">How does it work?</a></li>
+<li id="menu-item-18555" class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-18555"><a href="http://www.delhisexchat.com/blog-2/">Blog</a></li>
+<li id="menu-item-477" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-477"><a href="http://www.delhisexchat.com/faq/">FAQ</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom"><a href="#login_modal" id="login" data-toggle="modal">Login</a></li></ul></div>
 </nav>
+</div>
 </div>
 </div>
 </header>
@@ -131,32 +230,34 @@ pagespeed.localStorageCacheInit();</script><style id="bhittani_plugin_kksr-css" 
 <div class="row">
 <div class="col-md-12">
 <footer>
-<div class="menu-footer-container"><ul id="menu-footer" class="nav nav-pills"><li id="menu-item-179820" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-179820"><a href="/vip/">VIP Zone (new)</a></li>
-<li id="menu-item-374" class="zendesk_pop menu-item menu-item-type-post_type menu-item-object-page menu-item-374"><a href="/contact/">Contact Customer Support</a></li>
+<div class="footer-navigation">
+<div class="menu-footer-container"><ul id="menu-footer" class="nav nav-pills"><li id="menu-item-179820" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-179820"><a href="http://www.delhisexchat.com/vip/">VIP Zone (new)</a></li>
+<li id="menu-item-374" class="zendesk_pop menu-item menu-item-type-post_type menu-item-object-page menu-item-374"><a href="http://www.delhisexchat.com/contact/">Contact Customer Support</a></li>
 <li id="menu-item-1404" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1404"><a href="http://www.indianphonesex.com/English/">No Credit Card?</a></li>
-<li id="menu-item-380" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-380"><a href="/terms-of-use/">Terms of Use</a></li>
-<li id="menu-item-375" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-55 current_page_item menu-item-375"><a href="/privacy-policy/">Privacy Policy</a></li>
-<li id="menu-item-376" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-376"><a href="/%e0%a4%b8%e0%a5%8d%e0%a4%aa%e0%a4%be%e0%a4%ae-%e0%a4%b5%e0%a4%bf%e0%a4%b0%e0%a5%8b%e0%a4%a7%e0%a5%80-%e0%a4%a8%e0%a5%80%e0%a4%a4%e0%a4%bf/">Anti Spam Policy</a></li>
-<li id="menu-item-77225" class="red menu-item menu-item-type-post_type menu-item-object-page menu-item-77225"><a href="/hiring/">We are hiring girls</a></li>
+<li id="menu-item-380" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-380"><a href="http://www.delhisexchat.com/terms-of-use/">Terms of Use</a></li>
+<li id="menu-item-375" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-375"><a href="http://www.delhisexchat.com/privacy-policy/">Privacy Policy</a></li>
+<li id="menu-item-376" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-376"><a href="http://www.delhisexchat.com/%e0%a4%b8%e0%a5%8d%e0%a4%aa%e0%a4%be%e0%a4%ae-%e0%a4%b5%e0%a4%bf%e0%a4%b0%e0%a5%8b%e0%a4%a7%e0%a5%80-%e0%a4%a8%e0%a5%80%e0%a4%a4%e0%a4%bf-2/">Anti Spam Policy</a></li>
+<li id="menu-item-77225" class="green menu-item menu-item-type-post_type menu-item-object-page menu-item-77225"><a href="http://www.delhisexchat.com/hiring/">We are hiring girls</a></li>
 <li id="menu-item-74605" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-74605"><a href="http://www.ipecash.com/?affID=DSC">Adult affiliates program – Webmasters make money</a></li>
-<li id="menu-item-93081" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-93081"><a href="/how-to-use-android-app/">How to use Android App</a></li>
+<li id="menu-item-93081" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-93081"><a href="http://www.delhisexchat.com/how-to-use-android-app/">How to use Android App</a></li>
 </ul></div>
+</div>
 </footer>
 </div>
 </div>
 <div class="row">
 <div class="col-md-12">
 <div class="bottom-footer">
-<a href="#"><img src="/wp-content/themes/livechat/assets/images/xfooter-rta.png.pagespeed.ic._pNYzG1QK5.jpg" alt="" width="106" height="52"></a>
-<a href="#"><img src="/wp-content/themes/livechat/assets/images/xfooter-asacp.png.pagespeed.ic.msVvj1HljE.jpg" alt="" width="106" height="52"></a><br>
+<a href="#"><img src="http://www.delhisexchat.com/wp-content/themes/livechat/assets/images/footer-rta.png" alt=""></a>
+<a href="#"><img src="http://www.delhisexchat.com/wp-content/themes/livechat/assets/images/footer-asacp.png" alt=""></a><br>
 <a href="https://epoch.com/billingsupport">Billing Support</a> |
 <a href="https://epoch.com/">Please visit Epoch.com – our authorized sales agent</a> |
-<a href="/2257-2/">18 U.S.C. 2257 Record-Keeping Requirements Compliance Statement</a><br>
+<a href="http://www.delhisexchat.com/2257-2/">18 U.S.C. 2257 Record-Keeping Requirements Compliance Statement</a><br>
 <p>This website is strictly for adults only! This website contains sexually explicit content. You must be at least 18 years of age to enter this website. <br>© 2013 DelhiSexChat.com All Rights Reserved</p>
 </div>
 </div>
 </div>
-<div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+<div class="modal fade" id="login_modal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
 <div class="modal-dialog">
 <div class="modal-content">
 <div class="modal-header">
@@ -166,8 +267,8 @@ pagespeed.localStorageCacheInit();</script><style id="bhittani_plugin_kksr-css" 
 <div class="modal-body">
 <form class="form-horizontal" role="form" id="lc_login" action="" method="post">
 <input type="hidden" name="user-cookie" value="1">
-<input type="hidden" id="security" name="security" value="9b2a988995"><input type="hidden" name="_wp_http_referer" value="/privacy-policy/">
-<div class="error alert alert-danger" style="display:none">
+<input type="hidden" id="security" name="security" value="346d4ef559"><input type="hidden" name="_wp_http_referer" value="/privacy-policy/">
+<div class="error alert alert-danger" style="display: none;">
 <p></p>
 </div>
 <div class="form-group">
@@ -188,8 +289,8 @@ pagespeed.localStorageCacheInit();</script><style id="bhittani_plugin_kksr-css" 
 <label for="rememberme">
 <input type="checkbox" name="rememberme" value="forever" checked="checked" id="rememberme"> Remember me </label>
 </div>
-<p class="pull-right" style="padding-top:7px">
-<a href="/wp-login.php?action=lostpassword&amp;redirect_to=http://www.delhisexchat.com" title="Forgot Your Password?">Forgot Your Password?</a>
+<p class="pull-right" style="padding-top: 7px;">
+<a href="http://www.delhisexchat.com/wp-login.php?action=lostpassword&amp;redirect_to=http://www.delhisexchat.com" title="Forgot Your Password?">Forgot Your Password?</a>
 </p>
 </div>
 </div>
@@ -205,22 +306,22 @@ pagespeed.localStorageCacheInit();</script><style id="bhittani_plugin_kksr-css" 
 </div>
 </div>
 </section></div>
-<script type="text/javascript">var livechat={"ajaxurl":"http:\/\/www.delhisexchat.com\/wp-admin\/admin-ajax.php"};</script>
-<script type="text/javascript" src="/wp-content/plugins/livechat/assets/js/livechat.js,qver=1.1.0.pagespeed.jm.MrTE4gyFEW.js" async="async"></script>
-<script type="text/javascript" src="/wp-content/themes/livechat/assets/js/bootstrap.min.js,qver=3.2.0.pagespeed.jm.0Id1t9M31f.js" async="async"></script>
-<script type="text/javascript" async="async">(function(factory){if(typeof define==='function'&&define.amd){define(['jquery'],factory);}else{factory(jQuery);}}(function($){var pluses=/\+/g;function raw(s){return s;}
-function decoded(s){return decodeURIComponent(s.replace(pluses,' '));}
-function converted(s){if(s.indexOf('"')===0){s=s.slice(1,-1).replace(/\\"/g,'"').replace(/\\\\/g,'\\');}
-try{return config.json?JSON.parse(s):s;}catch(er){}}
-var config=$.cookie=function(key,value,options){if(value!==undefined){options=$.extend({},config.defaults,options);if(typeof options.expires==='number'){var days=options.expires,t=options.expires=new Date();t.setDate(t.getDate()+days);}
-value=config.json?JSON.stringify(value):String(value);return(document.cookie=[config.raw?key:encodeURIComponent(key),'=',config.raw?value:encodeURIComponent(value),options.expires?'; expires='+options.expires.toUTCString():'',options.path?'; path='+options.path:'',options.domain?'; domain='+options.domain:'',options.secure?'; secure':''].join(''));}
-var decode=config.raw?raw:decoded;var cookies=document.cookie.split('; ');var result=key?undefined:{};for(var i=0,l=cookies.length;i<l;i++){var parts=cookies[i].split('=');var name=decode(parts.shift());var cookie=decode(parts.join('='));if(key&&key===name){result=converted(cookie);break;}
-if(!key){result[name]=converted(cookie);}}
-return result;};config.defaults={};$.removeCookie=function(key,options){if($.cookie(key)!==undefined){$.cookie(key,'',$.extend(options,{expires:-1}));return true;}
-return false;};}));</script>
-<script type="text/javascript" src="/wp-content/themes/livechat/assets/plugins/mmenu/src/js/jquery.mmenu.min.all.js,qver=1.0.0.pagespeed.jm.aNoc2hB7hS.js" async="async"></script>
-<script type="text/javascript">var app_object={"show_more_photos":"Show More Images","hide_extra_photos":"Hide Extra Images","menu_header":"Main Menu","ajax_url":"http:\/\/www.delhisexchat.com\/wp-admin\/admin-ajax.php"};</script>
-<script type="text/javascript" src="/wp-content/themes/livechat/assets/js/app.js,qver=1.0.10.pagespeed.jm.ACe_sTpZHK.js" async="async"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var livechat = {"ajaxurl":"http:\/\/www.delhisexchat.com\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://www.delhisexchat.com/wp-content/themes/livechat/core/assets/js/livechat.js?ver=1.2.9" async="async"></script>
+<script type="text/javascript" src="http://www.delhisexchat.com/wp-content/themes/livechat/assets/js/bootstrap.min.js?ver=3.2.0" async="async"></script>
+<script type="text/javascript" src="http://www.delhisexchat.com/wp-content/themes/livechat/vendors/jasny-bootstrap/dist/js/jasny-bootstrap.min.js?ver=3.2.0" async="async"></script>
+<script type="text/javascript" src="http://www.delhisexchat.com/wp-content/themes/livechat/assets/js/jquery.cookie.js?ver=1.4.1"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var app = {"show_more_photos":"Show More Images","hide_extra_photos":"Hide Extra Images","menu_header":"Main Menu","ajax_url":"http:\/\/www.delhisexchat.com\/wp-admin\/admin-ajax.php","post_id":"55"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://www.delhisexchat.com/wp-content/themes/livechat/assets/js/app.js?ver=1.5.1" async="async"></script>
 
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-3.newrelic.com","licenseKey":"8f5b1a9f4e","applicationID":"3138396","transactionName":"b1ADYRNZX0pUUhFRV1YaIFYVUV5XGkEEX10=","queueTime":0,"applicationTime":193,"ttGuid":"","agentToken":"","atts":"QxcAF1tDTEQ=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-476.min.js"}</script>
-<script src="https://js-agent.newrelic.com/nr-476.min.js"></script></body></html>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"8f5b1a9f4e","applicationID":"3138396","transactionName":"b1ADYRNZX0pUUhFRV1YaIFYVUV5XGkEEX10=","queueTime":0,"applicationTime":38,"atts":"QxcAF1tDTEQ=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-632.min.js"}</script>
+
+ </body></html>
