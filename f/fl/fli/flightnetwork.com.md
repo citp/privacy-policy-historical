@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flightnetwork.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121025615id_/http%3A//www.flightnetwork.com/pages/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flightnetwork.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610045232id_/http%3A//www.flightnetwork.com/pages/privacy.shtml) for the most accurate reproduction.*
 
 # Privacy Policy - FlightNetwork.com
 
@@ -90,6 +90,12 @@ If you are the Main Account holder of a My FlightNetwork® account you may recei
 
 If you have asked FlightNetwork® to ‘track a flight’ via the ‘track a flight’ link on the search results page, you will receive an email notification when your initial request is made. You also may receive an email notification if the price increases or decreases thereafter.
 
+### Advertising within email communications
+
+We, or a data provider we have engaged, may place or recognize a unique cookie on your browser to enable you to receive customized ads, content or services. No personally identifiable information is placed into these cookies. The cookies may reflect de-identified demographic or other data linked to data you voluntarily have submitted to us, e.g., your email address, in hashed, non-human readable form. To opt-out of these cookies or learn more please go to <http://www.networkadvertising.org/managing/opt_out.asp>
+
+Additionally, emails we send may contain a bit of code known as a “web beacon.” This code allows us to understand the time and date of when a user has opened an email and when he/she has utilized a link within the email to visit a website. Our web beacons do not collect personally identifiable information. Users wishing to disable our web beacons should do so by turning images “off” in their email client (e.g., Outlook, Outlook Express). Please see your email client for more information.
+
 ### My FlightNetwork® Accounts
 
 When registered for a My FlightNetwork® Account you can:  
@@ -119,6 +125,75 @@ We do not disclose any of your Personally Identifiable Information to our advert
 ### Third-Party Sites
 
 Remember, FlightNetwork® will not sell any of your personal information, including your name, address, credit-card number, shopping, or transaction history to any third party without your permission. Please be aware that our site contains links to other sites and that the privacy practices of other sites may differ from those of FlightNetwork®. In certain situations, you may link to another site within a FlightNetwork® frame that shows a FlightNetwork® URL. In these cases FlightNetwork® makes all reasonable efforts to confirm the security and privacy practices of these sites, but despite the FlightNetwork®.com frame and URL, each site is responsible for its own privacy practices.
+
+* Flight Network’s Accessible Service Policy 
+
+### Intent
+
+FlightNetwork.com strives at all times to provide goods and/or services in a way that respects the dignity and independence of persons with disabilities. 
+
+### This policy is available in alternate formats upon request.
+
+  
+
+
+#### Practice
+
+###### Communication:
+
+FlightNetwork.com employees will communicate to persons with disabilities in ways that take into account their disability.
+
+###### Training:
+
+FlightNetwork.com will ensure that all employees who interact with our customers and other third parties receive training as required by the Accessibility Standards for Customer Service. In addition, training will be provided to our employees as part of orientation training for new employees and on a continuing basis as required, such as when changes are made to our Accessible Customer Service Policy. 
+
+Training will include:
+
+  * • A review of the purposes of the Accessibility for Ontarians with Disabilities Act, 2005, and the requirements of the Accessibility Standards for Customer Service; 
+  * • Information about FlightNetwork.com’s policies, procedures and guidelines pertaining to the provision of FlightNetwork.com’s goods and/or services to customers with disabilities;
+  * • How to interact and communicate with persons with various types of disabilities;
+  * • What to do if a person with a disability is having difficulty in accessing goods, services or resources;
+  * • How to interact with persons with disabilities who use assistive devices or require the assistance of a service animal or a support person;
+
+  
+
+
+###### Assistive Devices:
+
+FlightNetwork.com is committed to serving persons with disabilities who use assistive devices to obtain, use or benefit from our goods and/or services.
+
+While FlightNetwork.com and its employees are committed to familiarizing themselves with the various assistive devices that may be used by customers, where an employee is not immediately able to service the customer via the assistive device he/she uses, that employee will immediately refer the matter to Victoria MacDonald, CHRO (Victoria.macdonald@flightnetwork.com), who will be vested with the responsibility to achieve the necessary customer service to that customer via that assistive device as quickly as reasonably possible.
+
+###### Use of Service Animals and Support Persons:
+
+FlightNetwork.com is committed to serving persons with disabilities who use assistive devices to obtain, use or benefit from our goods and/or services.
+
+Persons with disabilities may bring their service animal on the parts of our premises that are open to our customers or other third parties, and the animal is not otherwise excluded by law. FlightNetwork.com will ensure that all employees, including volunteers and third parties, dealing with customers are trained in how to interact with persons with disabilities who are accompanied by a service animal. It is the responsibility of the person with a service animal to control the animal at all times. In the event an employee is allergic to animals, alternative arrangements will be negotiated.
+
+Any person with a disability who is accompanied by a support person will be allowed to enter FilghtNetwork.com’s premises open to customers or other third parties with his or her support person. At no time will a person with a disability who is accompanied by a support person be prevented from having access to his or her support person while on the Company’s premises. 
+
+Consent from the person with a disability is required when communicating private issues related to the person with a disability, in the presence of a support person. 
+
+######  Notice of Temporary Disruptions:
+
+FlightNetwork.com will make reasonable effort to provide customers with notice in the event of a planned or unexpected disruption in the facilities or services normally used by persons with disabilities. This notice will include information about the reason for the disruption, how long the disruption is expected to last, and a description of any alternative facilities or services, if available.
+
+This notice will be provided in accessible formats and will be displayed prominently on the company’s website.
+
+######  Feedback Process:
+
+FlightNetwork.com welcomes feedback, including feedback in the delivery of goods and/or services to persons with disabilities. Customers can submit feedback to Allison Eberle, Vice President Operations (allison.eberle@flightnetwork.com) . Customers can expect to hear back in 72 hours. Complaints will be addressed according to the Company’s regular complaint management procedures. 
+
+###### Modifications to this or Other Policies:
+
+FlightNetwork.com is committed to developing customer service policies that respect and promote the dignity and independence of persons with disabilities. Therefore, no change will be made to this policy before considering the impact on persons with disabilities. Any Company policy that does not respect and promote the dignity and independence of persons with disabilities will be modified or removed.
+
+###### Questions about this Policy:
+
+This policy exists to achieve service excellence to customers with disabilities. If anyone has a question about this policy please contact:
+
+Victoria MacDonald, CHRO  
+Victoria.macdonald@flightnetwork.com 
 
 ### Changes to the Privacy Policy
 
