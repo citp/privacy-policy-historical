@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the southern-electric.co.uk privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122001031id_/http%3A//www.southern-electric.co.uk/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the southern-electric.co.uk privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610054600id_/http%3A//www.southern-electric.co.uk/PrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy - Southern Electric
 
@@ -29,3 +29,6 @@ By submitting your information, you consent to the use of that information as se
 
 7. Access to information  
 You have the right under the Data Protection Act 1998 to access the information we hold on you. You may submit a request to us in writing accompanied with the applicable £10 fee.
+
+_Privacy policy last updated: January 2014_  
+
