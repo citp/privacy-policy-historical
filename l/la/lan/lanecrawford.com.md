@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lanecrawford.com privacy policy that was archived on 2014-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141205090530id_/http%3A//www.lanecrawford.com/about/content.jsp%3Fid%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lanecrawford.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610085958id_/http%3A//www.lanecrawford.com/about/content.jsp%3Fid%3Dprivacy) for the most accurate reproduction.*
 
 # Lane Crawford
 
@@ -30,15 +30,15 @@ Different levels of your personal data may be collected by us, both on our Site 
 
 • If you are not a registered user, you will be browsing our Site as a guest. We will not collect or use any personal data from you (except when you choose to place an order with us as a guest) but you may not be able to use all the services and features that we offer to registered users.
 
-• You will need to input certain of your personal data when registering with us on our Site, in order to receive various features and services that we offer to our registered users, such as email updates, responses to your queries, and to participate in our private sales.
+• You will need to input certain personal data when registering with us on our Site, in order to receive various features and services that we offer to our registered users, such as email updates, responses to your queries, and to participate in our private sales.
 
-• You can place an order with us as a guest or as a registered user on our Site. In both cases, we will only collect information necessary to fulfill the relevant order (such as your name, contact details and payment/credit card information) If however, you use log in using our social media feature then will we also collect information relating to your interests, circle of friends and followers if you agree to share this information with us to use the features provided.
+• You can place an order with us as a guest or as a registered user on our Site. In both cases, we will only collect information necessary to fulfil the relevant order (such as your name, contact details and payment/credit card information) If, however, you log in using our social media feature then will we also collect information relating to your interests, circle of friends and followers if you agree to share this information with us to use the features provided.
 
 • You may from time to time provide us with your personal data at our physical stores, via your applications for or use of various services that we provide. For instance, you may be required to provide us with your personal data when you apply for or use our Privilege Card; to purchase from us or make enquiries at our stores or over the telephone; to use our concierge services; to provide feedback to us (such as via a survey); or to participate in our promotions and events (such as Private Sales).
 
-• You can also log into our Site using sign in services that bridge your social media log in information with our Site. These services will authenticate your indentity and provide you with the option to share certain personal data with us such as your name and email address to pre-populate the sign up form for our Site. These services give you the option to post information about your activities on the Site to your profile page to share with others within your personal network.
+• You can also log into our Site using sign in services that bridge your social media log in information with our Site. These services will authenticate your identity and provide you with the option to share certain personal data with us such as your name and email address, to pre-populate the sign up form for our Site. These services give you the option to post information about your activities on the Site via your profile page to share with others within your personal network.
 
-• You may also use other social media features, widgets and/or interactive mini programs that run on our Site. These features are small content modules that may collect personal data including your IP address, the page your are viewing on our Site or set a cookie to enable the feature to function properly. These social media feature are either hosted by us or by a third party on our Site. If the feature is provided by a third party the use of your personal data will be governed by the privacy policy of that third party. Please review these third party privacy policies.
+• You may also use other social media features, widgets and/or interactive mini programs that run on our Site. These features are small content modules that may collect personal data including your IP address, the page your are viewing on our Site or set a cookie to enable the feature to function properly. These social media features are either hosted by us or by a third party on our Site. If a feature is provided by a third party, the use of your personal data will be governed by the privacy policy of that third party. Please review these third party privacy policies.
 
 _Use of your personal data_
 
@@ -60,7 +60,7 @@ Please also note that:
 
 • If you do not provide your personal data to us, we may not be able to provide all of our services and features to you.
 
-• Subject to, or where otherwise required by law or permitted by law to protect our interests, we will (a) only retain your personal data for as long as it is necessary to fulfill the Purposes, and (b) erase any of your personal data that we have stored as soon as reasonably practicable, if you choose to delete your account with us (c) procure that data held by a third party is erased if you choose to delete your account with us or terminate use of social media features
+• Subject to, or where otherwise required by law or permitted by law to protect our interests, we will (a) only retain your personal data for as long as it is necessary to fulfill the Purposes, and (b) erase any of your personal data that we have stored as soon as reasonably practicable, if you choose to delete your account with us (c) procure that data held by a third party if you choose to delete your account with us or terminate use of social media features
 
 • You may from time to time provide us with various third parties’ personal data (for instance, in relation to their receipt of benefits or Merchandise from us). You agree that you have procured the relevant third party’s consent to provide us with their personal data (to be collected, used and stored in accordance with this Privacy Policy) prior to such provision by you.
 
@@ -72,7 +72,7 @@ Separately, we may collect certain other data from you on our Site:
 
 • We also use functionality that sets a unique identifier to track your use of our Site across multiple devices so that your sessions are reported on our system as a single user rather than as multiple users.
 
-• If you are browsing our Site (whether as a guest or as a registered user), it may place a cookie on your computer that identifies your computer to us and allows us to personalize your shopping experience and provide you with various services (such as maintaining the content of your shopping cart). Cookies are small information files stored on your hard drive and are automatically accepted by most browsers. It does not allow us to access the rest of your computer or your personal data. Please change your browser’s settings if you do not wish to accept cookies. Please note that you may not be able to use all features and services offered on our Site if your browser does not accept cookies.
+• If you are browsing our Site (whether as a guest or as a registered user), it may place a cookie on your computer that identifies your computer to us and allows us to personalise your shopping experience and provide you with various services (such as maintaining the content of your shopping cart). Cookies are small information files stored on your hard drive and are automatically accepted by most browsers. It does not allow us to access the rest of your computer or your personal data. Please change your browser’s settings if you do not wish to accept cookies. Please note that you may not be able to use all features and services offered on our Site if your browser does not accept cookies.
 
 Back to Top >
 
@@ -82,11 +82,11 @@ Back to Top >
 
 You agree that we may use the personal data you provide to us to offer direct marketing communications to you from time to time, in accordance with the below provisions and the remainder of this Privacy Policy:
 
-• We may market to you our goods and services, and the goods and services of our: (a) our related companies (including our affiliate and subsidiary companies), (b) joint venture partners, and (c) other third party providers. Such marketing communications may be in various forms, including advertisements, special events notifications or newsletters, and delivered via various methods in accordance with the personal data that you provide to us, such as by email, SMS, smartphone app push notifications, notifications on your social media pages, in –app messaging or postal mail.
+• We may market to you our goods and services, and the goods and services of: (a) our related companies (including our affiliate and subsidiary companies), (b) joint venture partners, and (c) other third party providers. Such marketing communications may be in various forms, including advertisements, special events notifications or newsletters, and delivered via various methods in accordance with the personal data that you provide to us, such as by email, SMS, smartphone app push notifications, notifications on your social media pages, in –app messaging or postal mail.
 
-• Such marketing communications may market or offer products or services (including special events and promotions) in the following categories: dining, food and beverages, sports, music, film, television and other entertainment, clothing and accessories, jewellery, luggages and bags, cosmetics, personal health and hygiene, electronics, home furnishings, and housewares, automobiles, transport and travel, hotels, financial services, loyalty and reward programs, media services, entertainment services, social networking services, payment services, on-line advertising services, other e-commerce, information and communications and services, concierge services, and other products and services that we think may be relevant to you based on information you provide to us (for instance, via your participation in our surveys).
+• Such marketing communications may market or offer products or services (including special events and promotions) in the following categories: Dining, food and beverages, sports, music, film, television and other entertainment, clothing and accessories, jewellery, luggage and bags, cosmetics, personal health and hygiene, electronics, home furnishings, and housewares, automobiles, transport and travel, hotels, financial services, loyalty and reward programs, media services, entertainment services, social networking services, payment services, on-line advertising services, other e-commerce, information and communications and services, concierge services, and other products and services that we think may be relevant to you based on information you provide to us (for instance, via your participation in our surveys).
 
-You may partially or entirely opt-out of receiving such direct marketing communications at any time by: (a) amending your preferences in accordance with “How to check and update your personal data” section below, (b) contacting our Privacy Officer at [_privacyofficer@lanecrawford.com_](mailto:privacyofficer@lanecrawford.com) or mail to Privacy Officer, Lane Crawford, 30F, One Island South, 2 Heung Yip Road Wong Chuk Hang, Hong Kong, (c) in the case of emails, by clicking the “unsubscribe” link at the bottom of such emails.
+You may partially or entirely opt-out of receiving such direct marketing communications at any time by: (a) amending your preferences in accordance with “How to check and update your personal data” section below, (b) contacting our Privacy Officer at [_privacyofficer@lanecrawford.com_](mailto:privacyofficer@lanecrawford.com) or mailing to; Privacy Officer, Lane Crawford, 30F, One Island South, 2 Heung Yip Road Wong Chuk Hang, Hong Kong, (c) in the case of emails, by clicking the “unsubscribe” link at the bottom of such emails.
 
 Back to Top >
 
@@ -98,7 +98,7 @@ We protect the personal data that you provide to us by reasonable physical, elec
 
 To protect your personal data while you are on our Site, we will encrypt any personal data you transmit to us via our Site using Secure Socket Layer (SSL) — an industry standard for encryption over the Internet.
 
-If you are a registered user on our Site, you may decide to store your credit card details with us to make your shopping faster and simpler. Once saved, only your last four digits will be displayed, so that you know which credit card you are using. You will need to re-enter your credit card details if you decide to ship an order to a new shipping address - this is to protect your details and to guarantee that your credit card is only used for shipping addresses that you have approved. We will not transfer your credit card details to any third parties except with your prior consent. 
+If you are a registered user on our Site, you may decide to store your credit card details with us to make your shopping faster and simpler. Once saved, only your last four digits will be displayed, so that you know which credit card you are using. You will need to re-enter your credit card details if you decide to ship an order to a new shipping address. This is to protect your details and to guarantee that your credit card is only used for shipping addresses that you have approved. We will not transfer your credit card details to any third parties except with your prior consent. 
 
 Nothing in this Privacy Policy shall limit any of your rights to the extent such rights cannot be limited by law.
 
@@ -108,11 +108,11 @@ Back to Top >
 
 ## DISCLOSURE OF YOUR PERSONAL INFORMATION
 
-Your personal data held by us will be kept confidential, except we may disclose your personal data to the following parties (who may be located and use your personal data outside of Hong Kong):
+Your personal data held by us will be kept confidential, except we may disclose your personal data to the following parties (who may be located, and use your personal data, outside of Hong Kong):
 
-• Any: (a) of our related companies (including our affiliate and subsidiary companies), or (b) person or company (including third party agent or sub-contractor) who is acting for, on behalf of or jointly with us; (c) any service provider of features on our Site; in all cases to fulfill any of the Purposes, provided that such parties are subject to confidentiality and privacy obligations that are materially equivalent to those set out in this Privacy Policy
+• Any: (a) of our related companies (including our affiliate and subsidiary companies), or (b) person or company (including third party agent or sub-contractor) who is acting for, on behalf of or jointly with us; (c) any service provider of features on our Site; in all cases to fulfil any of the Purposes, provided that such parties are subject to confidentiality and privacy obligations that are materially equivalent to those set out in this Privacy Policy
 
-• Any financial institutions, charge or credit card issuing companies, credit information or reference bureau, or collection agencies where necessary to establish and support the payment of any products and services being requested by you; and
+• Any financial institutions, charge or credit card issuing companies, credit information or reference bureaus, or collection agencies where necessary to establish and support the payment of any products and services being requested by you; and
 
 • Any other party where such disclosure is mandated by statutory or contractual obligations or as required by law or court of law, or where such disclosure is necessary to protect our interests (as permitted by law).
 
@@ -130,7 +130,7 @@ Back to Top >
 
 ## HOW TO CHECK AND UPDATE YOUR INFORMATION
 
-You may wish to access, verify or update any of your personal data that we hold.  You can do so by: (a) contacting our Privacy Officer (at the details as set out at “Our Contact Details” section below), or (b) completing “Customer Information renewal Form” at one of our stores.
+You may wish to access, verify or update any of your personal data that we hold.  You can do so by: (a) contacting our Privacy Officer (at the details as set out at “Our Contact Details” section below), or (b) completing “Customer Information Renewal Form” at one of our stores.
 
 Back to Top >
 
