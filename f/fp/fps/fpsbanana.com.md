@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fpsbanana.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120111755id_/http%3A//gamebanana.com/wikis%3Fpage%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fpsbanana.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610030330id_/http%3A//gamebanana.com/wikis%3Fpage%3Dprivacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy (Wikis > Rules) - GAMEBANANA
 
@@ -89,8 +89,8 @@ Avenger Corp.™
 Post Count
      1 
 ViewCount
-    71,347
+    120,598
 Date Added
     3 years ago
 Date Modified
-    2 years ago
+    3 years ago
