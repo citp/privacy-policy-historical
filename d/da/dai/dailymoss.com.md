@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dailymoss.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120224532id_/http%3A//www.dailymoss.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailymoss.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610052940id_/http%3A//www.dailymoss.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The DailyMoss – Short stories and amusing lists from India
 
@@ -22,4 +22,4 @@ We use cookies to enhance user experience. When you visit our website, your brow
 
 _The DailyMoss_ reserves the right to change the privacy policy from time to time and it will be communicated.
 
-_This policy was last updated on July 19 2014._
+_This policy was last updated on January 17 2015._
