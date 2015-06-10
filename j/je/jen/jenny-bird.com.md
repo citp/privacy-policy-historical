@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jenny-bird.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120170734id_/http%3A//jenny-bird.com/cms/terms-of-use) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jenny-bird.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610053726id_/http%3A//jenny-bird.com/cms/terms-of-use) for the most accurate reproduction.*
 
 # Terms of Use | JENNY BIRD
 
@@ -51,6 +51,6 @@ President of Jenny Bird Holdings Inc.
 174 Spadina Ave Studio 508  
 Tel.      (647) 346-2473  
 Fax.     (647) 342-0528  
-Email   [customerservice@jenny-bird.com](https://web.archive.org/web/20141120170734id_/http://jenny-bird.com/cms/terms-of-use/customerservice@jennybird.com)
+Email   [customerservice@jenny-bird.com](https://web.archive.org/web/20150610053726id_/http://jenny-bird.com/cms/terms-of-use/customerservice@jennybird.com)
 
 For more information, please see Jenny Bird’s full Privacy Policy, viewable [here](http://jenny-bird.com/cms/terms-of-use/jenny-bird-privacy-policy/).
