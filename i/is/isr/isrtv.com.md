@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the isrtv.com privacy policy that was archived on 2014-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141224170214id_/http%3A//www.isrtv.com/3176-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the isrtv.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610065745id_/http%3A//www.isrtv.com/3176-2) for the most accurate reproduction.*
 
-# Privacy Policy » Inside Sim Racing
+# Privacy Policy - Inside Sim Racing
 
 The following discloses our information gathering and dissemination practices for this website. Your IP address is used to gather broad demographic information. We use cookies to deliver content specific to your interests and to save your password so you don’t have to re-enter it each time you visit our site.
 
