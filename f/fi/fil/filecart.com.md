@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the filecart.com privacy policy that was archived on 2014-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141125194306id_/http%3A//www.filecart.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the filecart.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610024010id_/http%3A//www.filecart.com/privacy-policy) for the most accurate reproduction.*
 
 # FileCart - Terms of Service
 
