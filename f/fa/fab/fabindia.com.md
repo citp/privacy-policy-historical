@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fabindia.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120110534id_/http%3A//www.fabindia.com/intl/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fabindia.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610021250id_/http%3A//www.fabindia.com/intl/privacy-policy) for the most accurate reproduction.*
 
 # Fabindia.com | Privacy policy
 
