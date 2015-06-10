@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the exalead.fr privacy policy that was archived on 2014-08-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140815103634id_/http%3A//www.exalead.fr/search/privacypolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the exalead.fr privacy policy that was archived on 2015-06-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150610084534id_/http%3A//www.exalead.fr/search/privacypolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
     
@@ -20,7 +20,7 @@
 
     <link type="application/opensearchdescription+xml" rel="search" title="Exalead" href="/go/opensearchdescription/">
     
-    <link href="/content/css/base-min.css?1408098994" rel="stylesheet" type="text/css">
+    <link href="/content/css/base-min.css?1433925934" rel="stylesheet" type="text/css">
 
     
     <!-- <link href="/content/bootstrap/css/bootstrap.css" rel="stylesheet" media="screen"> -->
@@ -246,14 +246,14 @@
       <ul class="nav nav-list hidden-phone">
         <li class="nav-header">Help</li>
         <li><a href="/search/faq">FAQ</a></li>
-        <li><a href="http://www.3ds.com/products/exalead/contact/">Feedback / Bugs</a></li>
+        <li><a href="/search/web/contact/">Feedback / Bugs</a></li>
       </ul>
       <ul class="nav nav-list hidden-phone">
         <li class="nav-header">Webmasters</li>
-        <li><a href="/search/web/submit/">Add your site to the Exalead index</a></li>
-        <li><a href="/search/checkRobot/">Can Exalead index your website?</a></li>
+        <li><a href="/search/web/submit/">Add your site to the EXALEAD index</a></li>
+        <li><a href="/search/checkRobot/">Can EXALEAD index your website?</a></li>
         <li><a href="/search/webmasterguide">Webmaster's guide</a></li>
-        <li><a href="/search/widgets/search/generate/">Add the Exalead search to your website</a></li>
+        <li><a href="/search/widgets/search/generate/">Add the EXALEAD search to your website</a></li>
       </ul>
       <ul class="nav nav-list hidden-phone">
         <li class="nav-header">Downloads</li>
@@ -262,12 +262,13 @@
       </ul>
       <ul class="nav nav-list hidden-phone">
         <li class="nav-header">The company</li>
-        <li><a href="http://blog.exalead.com/">Blog</a></li>
-        <li><a href="http://www.3ds.com/company/about-dassault-systemes/">Company profile</a></li>
-        <li><a href="http://www.3ds.com/products/exalead/solutions/">Enterprise search solutions</a></li>
-        <li><a href="http://www.3ds.com/jobs/jobs-search">Jobs</a></li>
-        <li><a href="http://www.3ds.com/press-releases/all-press-releases/?brand/exalead/">Press</a></li>
-        <li><a href="http://www.3ds.com/products-services/exalead/contact/">Contact</a></li>
+        <li><a target="_blank" href="http://blog.exalead.com/">Blog</a></li>
+        <li><a target="_blank" href="http://www.3ds.com/products-services/exalead/">Company profile</a></li>
+        <li><a target="_blank" href="http://www.3ds.com/jobs/jobs-search">Jobs</a></li>
+        <li><a target="_blank" href="http://www.3ds.com/contact-us">Contact</a></li>
+        <li><a target="_blank" href="https://fr.linkedin.com/company/exalead">LinkedIn </a></li>
+        <li><a target="_blank" href="https://www.youtube.com/user/exalead">YouTube</a></li>
+        <li><a target="_blank" href="https://twitter.com/3dsexalead">Twitter</a></li>
       </ul>
       <div class="legal"><small>
         <a href="/search/privacypolicy">Privacy policy</a>
@@ -275,7 +276,7 @@
         <a href="/search/termsofservices">Terms of services</a>
         |
         <a href="/search/legalnotice">Legal Notice</a><br>
-        More than 16 billion pages - © 2000-2014 Exalead - <a href="http://www.3ds.com/" class="cloaked">Dassault Systèmes</a></small>
+        More than 16 billion pages - © 2000-2015 Exalead - <a href="http://www.3ds.com/" class="cloaked">Dassault Systèmes</a></small>
       </div>
     </div>
   </div>
@@ -298,7 +299,7 @@ var queryWithoutRefines = '';
 </script>
 
 
-      <script src="/content/js/base-min.js?1408098994"></script>
+      <script src="/content/js/base-min.js?1433925934"></script>
 
       <noscript>
         <style type="text/css">
@@ -315,12 +316,14 @@ var queryWithoutRefines = '';
         (function($) {
             $content = $('#content > .row-fluid.adjustable > [class*="span"]');
             function sizeMainContent() {
-                if ($(window).width() > 979) {
-                    if ($(window).height() > $(".search-container").height() + $("#header").height() + $("#content").height()) {
-                      $('footer').addClass('navbar-fixed-bottom');
-                      $('footer').removeClass('navbar-bottom');
-//                    $content.height($("footer").offset().top - ($(".search-container").offset().top + $(".search-container").height()));
-                    }
+                if ($(window).width() > 979 && $(window).height() > $(".search-container").height() + $("#header").height() + $("#content").height()) {
+                    $('footer').addClass('navbar-fixed-bottom');
+                    $('footer').removeClass('navbar-bottom');
+                    $('#content').css("paddingBottom", $("footer").height() + "px");
+                } else {
+                    $('footer').removeClass('navbar-fixed-bottom');
+                    $('footer').addClass('navbar-bottom');
+                    $('#content').css("paddingBottom", "0");
                 }
             }
 
@@ -334,6 +337,7 @@ var queryWithoutRefines = '';
                     console.log("click");
                     $('footer').toggleClass('opened');
                     $('footer li:not(.nav-header)').toggle();
+                    sizeMainContent();
                 });
 
                 $('#searchField').typeahead({
