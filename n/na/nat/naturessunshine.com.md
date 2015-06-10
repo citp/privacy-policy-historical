@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the naturessunshine.com privacy policy that was archived on 2013-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131230011105id_/http%3A//www.naturessunshine.com/us/general/privacystatement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the naturessunshine.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610021626id_/http%3A//www.naturessunshine.com/us/general/privacystatement) for the most accurate reproduction.*
 
-# Privacy Statement | Natures Sunshine Products
+# Privacy Statement
 
 ### Introduction: Our Commitment to Privacy
 
@@ -29,6 +29,14 @@ When visiting our website to order products, make requests, check your account, 
 
 
 
+### Mobile VIP Club (Text or SMS Messages)
+
+Members can choose to receive important promotional, event, and educational information via text message (or SMS). Members who join the club will receive up to 4 messages per week. Message and data rates may apply. Text **NSPSTOP** to opt-out, or **NSPHELP** for help.
+
+Members will receive messages from: 22403 
+
+**Text "NSP" to 22403 to join.** [Terms and Conditions](https://web.archive.org/us/Shop/c1/SMS1/Terms-Conditions/)
+
 ### Our Commitment to Data Security
 
 Keeping personal information secure is a top priority. To prevent unauthorized access and to maintain data accuracy, we have implemented administrative, technical and physical safeguards to secure information we collect.
@@ -45,7 +53,7 @@ We believe that it is important to protect children's privacy. Nature's Sunshine
 
 ### Safe Harbor
 
-The United States Department of Commerce and the European Commission have agreed on a set of data protection principles and frequently asked questions (the "Safe Harbor Principles") to enable U.S. companies to satisfy the requirement under European Union law that adequate protection be given to personal information transferred from the EU to the United States. The European Economic Area has recognized the U.S. Safe Harbor as providing adequate data protection (OJ L 45, 15.2.2001, p. 47). Consistent with its commitment to protect personal privacy, Nature's Sunshine Products, Inc. adheres to the Safe Harbor Principles. <http://www.export.gov/safeharbor/index.html>
+The United States Department of Commerce and the European Commission have agreed on a set of data protection principles and frequently asked questions (the "Safe Harbor Principles") to enable U.S. companies to satisfy the requirement under European Union law that adequate protection be given to personal information transferred from the EU to the United States. The European Economic Area has recognized the U.S. Safe Harbor as providing adequate data protection (OJ L 45, 15.2.2001, p. 47). Consistent with its commitment to protect personal privacy, Nature's Sunshine Products, Inc. adheres to the Safe Harbor Principles. <http://www.export.gov/safeharbor/>
 
 ### Links to Other Websites
 
@@ -54,6 +62,3 @@ Our Website may contain links to other sites that are not controlled or operated
 ### How to Update or Correct Information
 
 To ensure that the information we have is accurate and current, we provide opportunities for you to review and correct your personal information through our Website and via the telephone.
-
-|  |   
----|---|---
