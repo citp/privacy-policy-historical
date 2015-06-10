@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the deramores.com privacy policy that was archived on 2014-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141208130146id_/http%3A//www.deramores.com/privacy-and-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deramores.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610093245id_/http%3A//www.deramores.com/privacy-and-security) for the most accurate reproduction.*
 
 # Privacy and Security | Deramores
 
