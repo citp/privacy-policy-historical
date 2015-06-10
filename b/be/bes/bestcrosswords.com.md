@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bestcrosswords.com privacy policy that was archived on 2012-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120621040620id_/http%3A//www.bestcrosswords.com/bestcrosswords/Policy.page) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestcrosswords.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610090032id_/http%3A//www.bestcrosswords.com/bestcrosswords/Policy.page) for the most accurate reproduction.*
 
 # BestCrosswords.com - BESTCROSSWORDS.COM Privacy Policy
 
@@ -8,7 +8,7 @@ Welcome to BESTCROSSWORDS.COM, which is provided by PYROMOD SOFTWARE INC (either
 
 ## TERMS OF SERVICE
 
-Please review our [Terms of Service](https://web.archive.org/bestcrosswords/TermsOfService.page;jsessionid=47F31A2E2E1A096C847A3B5569898FEA), which also governs your visit to BESTCROSSWORDS.COM. 
+Please review our [Terms of Service](https://web.archive.org/bestcrosswords/TermsOfService.page), which also governs your visit to BESTCROSSWORDS.COM. 
 
 ## CHANGES TO THIS PRIVACY POLICY
 
@@ -28,7 +28,7 @@ The information we learn from customers helps us personalize and continually imp
 
 The information we collect is used to improve the content of our web site and the quality of our service, and is not shared with or sold to other organizations for commercial purposes, except to provide products or services you've requested, when we have your permission, or under the following circumstances: 
 
-  * When it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of our [Terms of Service](https://web.archive.org/bestcrosswords/TermsOfService.page;jsessionid=47F31A2E2E1A096C847A3B5569898FEA), or as otherwise required by law. 
+  * When it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of our [Terms of Service](https://web.archive.org/bestcrosswords/TermsOfService.page), or as otherwise required by law. 
   * If PYROMOD SOFTWARE INC is acquired by or merged with another company. In this event, PYROMOD SOFTWARE INC will notify you before information about you is transferred and becomes subject to a different privacy policy. 
 
 
@@ -45,7 +45,7 @@ PYROMOD SOFTWARE INC processes personal information only for the purposes for wh
 
 ## QUESTIONS
 
-If you have any questions about this privacy policy, the practices of this site, or your dealings with this web site, you can contact us [here](https://web.archive.org/bestcrosswords/Contact.page;jsessionid=47F31A2E2E1A096C847A3B5569898FEA). 
+If you have any questions about this privacy policy, the practices of this site, or your dealings with this web site, you can contact us [here](https://web.archive.org/bestcrosswords/Contact.page). 
 
 |  |   
 ---|---|---|---|---
