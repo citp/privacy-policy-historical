@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nothingbutsoftware.com privacy policy that was archived on 2014-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140925172600id_/http%3A//www.nothingbutsoftware.com/ContentPage/8-Privacy-Statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nothingbutsoftware.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610021319id_/http%3A//www.nothingbutsavings.com/ContentPage/8-Privacy-Statement) for the most accurate reproduction.*
 
 # NothingButSavings.com - Privacy Statement
 
