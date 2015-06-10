@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cpatrainingvault.com privacy policy that was archived on 2014-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141205185830id_/http%3A//www.cpatrainingvault.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cpatrainingvault.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610084030id_/http%3A//www.cpatrainingvault.com/privacy) for the most accurate reproduction.*
 
-# Privacy
+# Privacy | CPA Training Vault
 
 This Privacy Policy Applies for all Websites owned by Vault Media Inc. including this website.
 
