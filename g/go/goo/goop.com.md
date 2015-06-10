@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the goop.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122082156id_/http%3A//www.goop.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goop.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610080627id_/http%3A//goop.com/privacy-cookies-policy) for the most accurate reproduction.*
 
-# Privacy policy | Cookie policy | goop.com
+# Privacy & Cookies Policy | Goop
 
-## Privacy Policy for goop.com and mobile applications
-
-### About Us
+## About Us
 
 We are Goop Inc., a company registered in Delaware, USA with registered number 5406040 whose registered office is at 200 Park Avenue South, 8th Floor, New York, NY 10003. (and we refer to ourselves as “ **we** ”, “ **us** ” or “ **our** ” in this document). We own and operate this “ **Website** ” (meaning the www.goop.com website) and any “ **App** ” (meaning applications that we provide for mobile devices, including, without limitation, Apple iOS and Android) on our own behalf.
 
@@ -14,13 +12,13 @@ In this Privacy Policy, references to “ **you** ” means any person submittin
 
 When you use different aspects of the Website or an App, we may ask you to supply us with various information about you or anyone whom you represent. This Privacy Policy sets out the way in which we may use such information.
 
-We are committed to protecting and respecting your privacy. This Privacy Policy (together with our "[Website Terms of Use](https://web.archive.org/about/terms-of-use)", "[Terms & Conditions](https://web.archive.org/about/terms-and-conditions)", the relevant "[App Terms of Use](https://web.archive.org/about/app-terms-of-use)" and any other documents referred to in them) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us.
+We are committed to protecting and respecting your privacy. This Privacy Policy (together with our “[Website Terms of Use](http://www.goop.com/about/terms-of-use)“, “[Terms & Conditions](http://www.goop.com/about/terms-and-conditions)“, the relevant “[App Terms of Use](http://www.goop.com/about/app-terms-of-use)” and any other documents referred to in them) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us.
 
 Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
 
 ### Contacting us
 
-Questions, comments, requests or suggestions regarding this Privacy Policy are welcomed and should be addressed to [customerservices@goop.com](mailto:customerservices@goop.com).
+Questions, comments, requests or suggestions regarding this Privacy Policy are welcomed and should be addressed to [customerservices@goop.com](mailto:customerservices@goop.com).
 
 ### Your Privacy
 
@@ -64,13 +62,13 @@ We may also use your data in order to manage the Website and an App, collect pay
 > 
 > 7\. To allow us and our suppliers to use your data, to provide you with information about goods and services which may be of interest to you.
 
-We also need to use your contact details and other information for any aspect of the Website and an App (including, but without limitation, providing customer support, preventing or investigating prohibited activity, enforcing the "[Terms and Conditions](https://web.archive.org/about/terms-and-conditions)", the "[Website Terms of Use](https://web.archive.org/about/terms-of-use)" and the relevant "[App Terms of Use](https://web.archive.org/about/app-terms-of-use)", and verifying information).
+We also need to use your contact details and other information for any aspect of the Website and an App (including, but without limitation, providing customer support, preventing or investigating prohibited activity, enforcing the “[Terms and Conditions](http://www.goop.com/about/terms-and-conditions)“, the “[Website Terms of Use](http://www.goop.com/about/terms-of-use)” and the relevant “[App Terms of Use](http://www.goop.com/about/app-terms-of-use)“, and verifying information).
 
 You acknowledge that we have no obligations to monitor your access to or use of the Website or an App, but that we have the right to do so for the purposes set out in this Privacy Policy.
 
 ### Your obligations as to your data
 
-You must only submit to us, the Website or an App, information which is accurate and not misleading and you must keep it up-to-date and inform us of changes. You may do that through the “[My Account](https://web.archive.org/shop/customer/account/)” part of the Website or by email to [customerservices@goop.com](mailto:customerservices@goop.com). By submitting data in respect of you and anyone else, you must ensure that you have full authority and consent to supply us with that data on their behalf and you warrant to us that you have that authority.
+You must only submit to us, the Website or an App, information which is accurate and not misleading and you must keep it up-to-date and inform us of changes. You may do that through the “[My Account](http://shop.goop.com/customer/account/)” part of the Website or by email to [customerservices@goop.com](mailto:customerservices@goop.com). By submitting data in respect of you and anyone else, you must ensure that you have full authority and consent to supply us with that data on their behalf and you warrant to us that you have that authority.
 
 ### Third Parties and Links
 
@@ -92,7 +90,7 @@ Other than as set out in this Privacy Policy, we shall NOT sell or disclose your
 
 The Website and Apps use cookies. When you login to your account on the Website, we place cookies which store details relating to your session on the Website, details relating to your Facebook account if you have accessed the Website through Facebook, and details of whether you logged in to your account by inserting your details or whether your details were saved for easy login.
 
-Cookies are tiny text files which identify your computer to our server as a unique user when you visit certain pages on the Website and an App and they are stored by your Internet browser on your computer's or mobile device’s hard drive. Cookies can be used to recognise your Internet Protocol address, saving you time while you are on, or want to enter, the Website or an App. We only use cookies for your convenience in using the Website and an App and not for obtaining or using any other information about you (for example targeted advertising). Your browser can be set to not accept cookies, but this would restrict your use of the Website and an App. Please accept our assurance that our use of cookies does not contain any personal or private details and are free from viruses. If you want to find out more information about cookies, go to [http://www.allaboutcookies.org](http://www.allaboutcookies.org/) or to find out about removing them from your browser, go to <http://www.allaboutcookies.org/manage-cookies/>.
+Cookies are tiny text files which identify your computer to our server as a unique user when you visit certain pages on the Website and an App and they are stored by your Internet browser on your computer’s or mobile device’s hard drive. Cookies can be used to recognise your Internet Protocol address, saving you time while you are on, or want to enter, the Website or an App. We only use cookies for your convenience in using the Website and an App and not for obtaining or using any other information about you (for example targeted advertising). Your browser can be set to not accept cookies, but this would restrict your use of the Website and an App. Please accept our assurance that our use of cookies does not contain any personal or private details and are free from viruses. If you want to find out more information about cookies, go to [http://www.allaboutcookies.org](http://www.allaboutcookies.org/) or to find out about removing them from your browser, go to <http://www.allaboutcookies.org/manage-cookies/>.
 
 The Website and an App may, from time to time, contain links to and from the websites or mobile applications of suppliers, partner networks, advertisers and affiliates. Please note that those websites and mobile applications may also use cookies and that we do not accept any responsibility or liability for their use of cookies. Please check those websites and mobile applications and their privacy policies before using them.
 
@@ -131,7 +129,7 @@ eCommerce cookies
       WISHLIST_CNT		The number of items in your Wishlist.
       heartBeat		Checks if session is still active.
       noMoreModal		Disable the signup modal window if it has already been displayed
-     
+    
 
 Cookies Set By Google Analytics Google Analytics sets the following cookies as described in the table below
     
@@ -143,11 +141,11 @@ Cookies Set By Google Analytics Google Analytics sets the following cookies as d
       __utmc	Historically, this cookie operated in conjunction with the __utmb cookie to determine whether or not to establish a new session for the user. For backwards compatibility purposes with sites still using the urchin.js tracking code, this cookie will continue to be written and will expire when the user exits the browser. However, if you are debugging your site tracking and you use the ga.js tracking code, you should not interpret the existence of this cookie in relation to a new or expired session.	       
       __utmz	This cookie stores the type of referral used by the visitor to reach your site, whether via a direct method, a referring link, a website search, or a campaign such as an ad or an email link. It is used to calculate search engine traffic, ad campaigns and page navigation within your own site. The cookie is updated with each page view to your site.	   
       __utmv	This cookie is not normally present in a default configuration of the tracking code. The __utmv cookie passes the information provided via the _setVar() method, which you use to create a custom user segment. This string is then passed to the Analytics servers in the GIF request URL via the utmcc parameter. This cookie is only written if you have added the _setVar() method for the tracking code on your website page.	    
-       
+    
 
 ### Where we store your personal data
 
-The data that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area ("EEA"). It may also be processed by staff operating outside the EEA who work for us or for one of our suppliers, partners, advertisers and affiliates. Such staff maybe engaged in, among other things, the fulfilment of any order for a Product that you make via or through the Website, the processing of your payment details and the provision of support services. By submitting your personal data, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy but, in any event, the person or entity storing or processing your data will be part of the EEA or part of the United States “Safe Harbor” framework.
+The data that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area (“EEA”). It may also be processed by staff operating outside the EEA who work for us or for one of our suppliers, partners, advertisers and affiliates. Such staff maybe engaged in, among other things, the fulfilment of any order for a Product that you make via or through the Website, the processing of your payment details and the provision of support services. By submitting your personal data, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy but, in any event, the person or entity storing or processing your data will be part of the EEA or part of the United States “Safe Harbor” framework.
 
 We have in place appropriate technical and security measures to prevent unauthorised or unlawful access to or accidental loss of or destruction or damage to your information.
 
@@ -165,7 +163,7 @@ Unfortunately, the transmission of information via the Internet is not completel
 
 ### Your Rights
 
-You have the right to ask us not to process your personal data, to provide information to you (whether by email or otherwise) or marketing information about the Products, the Website or Apps. You can email us on[ customerservices@goop.com](mailto:customerservices@goop.com) to make these changes, or follow the “unsubscribe” link in any marketing communication that we send to you by email. You can also make changes to your privacy settings at the “[My Account](https://web.archive.org/shop/customer/account/)” part of the Website. We will change what you receive within a reasonable time. However, changing your privacy settings may inhibit your ability to use the Website or receive any information or email that we offer or use an App, so we do not recommend that you do this.
+You have the right to ask us not to process your personal data, to provide information to you (whether by email or otherwise) or marketing information about the Products, the Website or Apps. You can email us on[customerservices@goop.com](mailto:customerservices@goop.com) to make these changes, or follow the “unsubscribe” link in any marketing communication that we send to you by email. You can also make changes to your privacy settings at the “[My Account](http://shop.goop.com/customer/account/)” part of the Website. We will change what you receive within a reasonable time. However, changing your privacy settings may inhibit your ability to use the Website or receive any information or email that we offer or use an App, so we do not recommend that you do this.
 
 The Website and an App may, from time to time, contain links to and from the websites or mobile applications of suppliers, partner networks, advertisers and affiliates. If you follow a link to any of those websites or mobile applications, please note that those websites and mobile applications have their own privacy policies and that we do not accept any responsibility or liability for those policies. Please check those privacy policies before you submit any personal data to those websites or mobile applications. Changes to this Privacy Policy We may amend this Privacy Policy from time to time. Any amended Privacy Policy will be posted on the Website. The amended Privacy Policy will apply immediately for new users and 30 days (or such other timeframe as we say when posting) after first posting for all existing users. Each time you enter the Website, order a Product or download, install, access or use an App, you agree that the Privacy Policy current at that time shall apply to all information which we hold about you.
 
@@ -175,4 +173,4 @@ By submitting data to us, using the Website or downloading, installing, accessin
 
 You also consent to us (or third party advertisers working through the Website or an App) placing cookies on your hard drive or mobile device. You can turn these off if you want, through the settings on your browser. See the “IP addresses and cookies” section above. Please note that we will not place cookies on your hard drive by which you can be personally identified; if we do, we will ask for more, further, specific consent from you.
 
- _This Privacy Policy was most recently updated on 01 June 2014._
+_This Privacy Policy was most recently updated on 01 June 2014._
