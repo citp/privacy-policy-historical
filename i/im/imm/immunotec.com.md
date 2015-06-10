@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the immunotec.com privacy policy that was archived on 2014-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141205215321id_/http%3A//www.immunotec.com/IRL/Public/en/USA/d2012_privacy.wcp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the immunotec.com privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611010902id_/http%3A//www.immunotec.com/IRL/Public/en/CAN/d2012_privacy.wcp) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -10,7 +10,7 @@ This document contains information about our policy regarding the protection of 
 
 #### Personal information
 
-“Personal information” refers to any information about a private individual or information that makes it possible to identify said individual. This includes but is not limited to your name, mailing address, telephone numbers, e-mail address, credit card numbers, social security number, and other information relating to billing records and accounts. 
+“Personal information” refers to any information about a private individual or information that makes it possible to identify said individual. This includes but is not limited to your name, mailing address, telephone numbers, e-mail address, credit card numbers, social security number, and other information relating to billing records and accounts.
 
 #### Reasons for collecting personal information
 
@@ -34,13 +34,13 @@ Our website includes security mechanisms that protect the information that you e
 
 Our website contains links to websites operated by third parties. Our policy regarding the protection of personal information does not cover these websites, and we recommend that users read the personal information policies that affect these sites. We cannot be held responsible for the content of websites operated by third parties or for the practices of third parties in terms of protecting personal information.
 
+TOP OF PAGE
+
 #### Access to your personal information
 
 You, your Consultant and the sponsoring Consultants of your Consultant have access to your personal information. However, authorized access for Consultants and their sponsors is strictly limited to your name, address, phone number and purchasing history.
 
 We are committed to not disclose your personal information to third parties other than those mentioned in this policy or unless we are required to do so by law or regulation. As well, we will seek your consent should we decide to disclose your personal information to third parties other than those mentioned here.
-
-TOP OF PAGE
 
 #### Protecting your personal information
 
@@ -49,6 +49,8 @@ Immunotec is serious about protecting the personal information of our customers 
 We limit the length of time we retain personal information about our customers to a period that allows us to supply our products and services, that allows us to respect the timeframes imposed by laws and regulations and that allows us to fulfill legal requirements. At the end of this period, we close each file, and we ensure that all personal information in our possession is destroyed.
 
 We use our best efforts to keep the contents of your personal file up to date. This means that we rely on you to inform us of any changes. You can also help us maintain up-to-date information by periodically verifying the personal information about you in our possession, by informing our Chief Privacy Officer of any change to the personal information in our possession or by filling out the update form on our website at [www.immunotec.com](http://www.immunotec.com/).
+
+TOP OF PAGE
 
 #### Your rights
 
@@ -62,8 +64,6 @@ You have the right to:
 
 To ensure that your personal information is well protected, we are required to request adequate proof of your identity. This obligation applies to all requests for access, use, retention, correction, modification of consent and communication of any of your personal information in our possession. This proof of identity will be used only for this purpose.
 
-TOP OF PAGE
-
 #### Immunotec reserves the right to refuse your request for access to your personal information if the information
 
   * is protected by attorney-client or physician-client privilege
@@ -74,7 +74,7 @@ TOP OF PAGE
 
 To have access to, modify or limit the use of your personal information, please contact our Chief Privacy Officer in writing at the address found at the end of this document.
 
-An excellent source of information is available to you from the: Federal Trade Commission’s website at: [www.ftc.gov/privacy/index.html](http://www.ftc.gov/privacy/index.html).[ ****](http://www.ftc.gov/privacy/index.html)
+An excellent source of information is available to you from the: Federal Trade Commission’s website at: [www.ftc.gov/privacy/index.html](http://www.ftc.gov/privacy/index.html).
 
 #### Amendments to this Policy
 
