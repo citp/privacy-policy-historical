@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the allfreecopycatrecipes.com privacy policy that was archived on 2014-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141207092841id_/http%3A//www.allfreecopycatrecipes.com/index.php/hct/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allfreecopycatrecipes.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610042723id_/http%3A//www.allfreecopycatrecipes.com/index.php/hct/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | AllFreeCopycatRecipes.com
 
-Privacy Policy / Your California Privacy Rights  
-Revised and posted as of July 28, 2014
+**Privacy Policy / Your California Privacy Rights**  
+Revised and posted as of March 25, 2015
 
 Prime Publishing, LLC ("Company," "we" or "us") reserves the right to revise this Privacy Policy at any time simply by posting such revision, so we encourage you to review it periodically. In order to track any changes to this Privacy Policy, we will include a historical reference at the top of this document.
 
-This Privacy Policy will tell you, among other things:
+**This Privacy Policy will tell you, among other things:**
 
 Your California privacy rights.  
 How we collect information and what information we collect.  
@@ -15,18 +15,13 @@ How we may use information.
 How we may share information.  
 Your choices regarding the sharing of information.
 
-**Acknowledgement/Your Agreement**
-
-  
+**ACKNOWLEDGEMENT/YOUR AGREEMENT**  
 Company websites are not intended for use by individuals under the age of 18 or those who are not legal residents of the United States. By using our website or submitting information to us, you consent to the Company's use and sharing of the information collected or submitted as described in this Privacy Policy. If you are not 18 years of age or older and a valid resident of the United States or you do not agree with the terms of this Privacy Policy, do not provide us with any information or use any of the products or services offered or provided on Company websites or through Company technology.
 
-**Your California Privacy Rights**
-
-  
+**YOUR CALIFORNIA PRIVACY RIGHTS**  
 Beginning January 1, 2005 under California's "Shine the Light" law, California residents who provide personal information in obtaining products or services for personal, family or household use are entitled to either: (1) a list detailing the categories of information shared and the entities to which such information was provided; or (2) to be notified of a mechanism by which a consumer may opt-out of having their information shared with third parties. We have elected the second option. To opt-out of having your information shared with third parties please write to us.
 
-**How do we collect information and what information do we collect?**
-
+**HOW DO WE COLLECT INFORMATION AND WHAT INFORMATION DO WE COLLECT?**  
 We collect and combine personally identifiable information ("PII") and non-personally identifiable information ("Non-PII") through various sources, including those discussed below. For your reference, PII is data collected with an intention to specifically identify, contact or locate a person, including but not limited to name, address, telephone number, or e-mail address. Conversely, Non-PII is data that is not used to specifically identify, contact or locate an individual, including but not limited to zip code, gender, age, or IP address.
 
 **Distribution Partners**  
@@ -62,9 +57,7 @@ Additionally, we may use pixel tracking technology to track the completion of tr
 **Government Forms**  
 The Company may be required to create, collect, maintain, and submit certain information required by the government, such as IRS Forms W-9 and 1099. This information, which may include your taxpayer identification number, will not be used, shared, transferred, or sold for marketing purposes.
 
-**How do we use this information?**
-
-  
+**HOW DO WE USE THIS INFORMATION?**  
 We may use the collected PII and Non-PII for any legally permissible purpose in our sole discretion, including but not limited to those explained below.
 
 **Ad Serving**  
@@ -87,8 +80,7 @@ By submitting your credit card information to us or to one of our advertisers, y
 **Marketing**  
 We may use your information in our online (e.g., e-mail marketing) and offline (e.g., telemarketing, cell phone text messaging, skip tracing, and direct mail) marketing programs. If you would like to be removed from these programs please write to us.
 
-**How do we share information?**
-
+**HOW DO WE SHARE INFORMATION?**  
 We may share the collected PII and Non-PII for any legally permissible purpose in our sole discretion, including but not limited to those explained below.
 
 **Within the Company**  
@@ -123,7 +115,13 @@ Additionally, we may share, license or sell your information to third parties fo
 
 **Third Party Cookies**
 
-Notwithstanding anything else in this policy, we or a data provider we have engaged may place or recognize a unique cookie on your browser to enable you to receive customized ads or content.   These cookies contain no personally identifiable information.  The cookies may reflect de-identified demographic or other data linked to data you voluntarily have submitted to us, e.g., your email address, that we may share with a data provider solely in hashed, non-human readable form. To opt-out of these cookies, please go to <http://www.aboutads.info/choices>.
+Notwithstanding anything else in this policy, we or a data provider we have engaged may place or recognize a unique cookie on your browser to enable you to receive customized ads or content.   These cookies contain no personally identifiable information.  The cookies may reflect de-identified demographic or other data linked to data you voluntarily have submitted to us, e.g., your email address, that we may share with a data provider solely in hashed, non-human readable form.
+
+**How You Can Control Third Party Advertising Cookies**
+
+You can use [Ads Settings](http://www.google.com/ads/preferences/?hl=en) to manage the Google ads you see and opt out of interest-based ads. Even if you opt out of interest-based ads, you may still see ads based on factors such as your general location derived from your IP address, your browser type and recent, previous searches related to your current search.
+
+You can also manage many companies’ cookies used for online advertising at the US-based [aboutads.info choices](http://www.aboutads.info/choices/) page or the EU-based [Your Online Choices](http://www.youronlinechoices.com/uk/your-ad-choices).
 
 **Governmental Agencies or Other Companies**  
 We may share your information with law enforcement officials or governmental agencies: (1) in response to their request; (2) when permitted or required by law; or (3) to establish our compliance with applicable laws, rules, regulations, or guidelines.
@@ -137,30 +135,25 @@ In all cases, this information is not provided to these entities or persons for 
 **Right to Transfer**  
 Should the Company choose to sell or transfer business assets, it is possible that the information we possess may be transferred as part of that transaction. The Company may decide to retain a copy of the information post sale or transfer.
 
-**Company Customer Choices**
+**COMPANY CUSTOMER CHOICES**
 
 **Marketing Communications and Unsubscribe Information**  
-By completing and submitting a Company registration form, you are consenting to receive marketing communications from the Company and its third party marketing partners. If, after you have shared your information with the Company, you decide that you do not want to receive marketing communications or newsletters from the Company and its third party marketing partners, you can discontinue the communications by [clicking here](http://www.allfreecopycatrecipes.com/section/subctr/) and filling out our form. If you have registered or submitted information under more than one e-mail account, you must submit separate unsubscribe requests for each account.
+By completing and submitting a Company registration form, you are consenting to receive marketing communications from the Company and its third party marketing partners. If, after you have shared your information with the Company, you decide that you do not want to receive marketing communications or newsletters from the Company and its third party marketing partners, you can discontinue the communications by [clicking here](http://www.favecrafts.com/section/subctr) and filling out our form. If you have registered or submitted information under more than one e-mail account, you must submit separate unsubscribe requests for each account.
 
 **Request for More Information**  
-As it relates to marketing communications or any other questions you might have about our Privacy Policy, please write to us at Prime Publishing, LLC, 3400 Dundee Road, Suite 220, Northbrook, IL  60062.
+As it relates to marketing communications or any other questions you might have about our Privacy Policy, please write to us at Prime Publishing, LLC, 3400 Dundee Road, Suite 220, Northbrook, IL 60062.
 
-**What happends if I  hit a link to another site from a Company website?**
-
+**WHAT HAPPENS IF I HIT A LINK TO ANOTHER SITE FROM A COMPANY WEBSITE?**  
 Our websites may offer links to other websites. Other websites have their own terms of use and privacy and security policies. If you choose to visit one of these sites, you should review the policies that govern that particular site.
 
-**Application of this Privacy Policy**
-
+**APPLICATION OF THIS PRIVACY POLICY**  
 This Privacy Policy applies to all information collected by or submitted to the Company. Other affiliated entities of the Company may obtain information independently from transactions and experiences with you or from other sources. This Privacy Policy does not pertain to that information.
 
-**What is the policy with respect to communicating with children?**
-
+**WHAT IS THE POLICY WITH RESPECT TO COMMUNICATING WITH CHILDREN?**  
 We recognize the unique privacy concerns regarding children. We are committed to carefully protecting privacy where children are involved no matter the point of contact. In particular, our intention is to fully comply with the Children's Online Privacy Protection Act ("COPPA"). Per COPPA guidelines, we do not knowingly collect PII from children under the age of 13. If a parent or guardian is made aware that a child under the age of 13 has provided us with PII through any point of contact, click here to contact us and we will delete the information about the child referenced from our files.
 
-**Security**
-
+**SECURITY**  
 There is no such thing as complete security on the Internet or otherwise. The Company uses various security techniques on our websites to help protect against the loss, misuse or modification of information we've collected from you. When you access your personal information or transmit information to us, that information is stored on servers that we have taken steps to protect from unauthorized access or intrusion. While we strive to protect your information, the Company cannot ensure or warrant the security of any information you transmit to us. You acknowledge and assume this risk when communicating with the Company, its partners and affiliates.
 
-**Limitation of Liability**
-
+**LIMITATION OF LIABILITY**  
 YOU UNDERSTAND AND AGREE THAT ANY DISPUTE OVER PRIVACY IS SUBJECT TO THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY, AS WELL AS THE TERMS AND CONDITIONS OF THIS WEBSITE (INCLUDING LIMITATIONS ON DAMAGES). YOU AGREE THAT THE COMPANY'S LIABILITY FOR ANY BREACH OF THIS PRIVACY POLICY SHALL BE LIMITED TO THE VALUE OF THE TRANSACTIONS OR SERVICES PROVIDED TO YOU BY THE COMPANY TO THE EXTENT SUCH CLAIM IS NOT OTHERWISE BARRED BY OUR TERMS AND CONDITIONS.
