@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the worldwidegolfshops.com privacy policy that was archived on 2014-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141219022511id_/http%3A//www.worldwidegolfshops.com/Privacy_Policy_2010.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldwidegolfshops.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610153557id_/http%3A//www.worldwidegolfshops.com/Privacy_Policy_2010.aspx) for the most accurate reproduction.*
 
-# Privacy Policy - Golf Clubs, Drivers, Irons, Hybrids, Wedges, Golf Shoes and Golf Equipment at Edwin Watts Golf
+# Privacy Policy - Worldwide Golf Shops
 
 ### [Home]() > Privacy Policy
 
