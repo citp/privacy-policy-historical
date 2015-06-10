@@ -1,8 +1,16 @@
-> *The following text is extracted and transformed from the simpsonswiki.com privacy policy that was archived on 2014-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141008111612id_/http%3A//simpsonswiki.com/wiki/Wikisimpsons%3APrivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simpsonswiki.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610090057id_/http%3A//simpsonswiki.com/wiki/Wikisimpsons%3APrivacy_policy) for the most accurate reproduction.*
 
 # Wikisimpsons:Privacy policy - Wikisimpsons, the Simpsons Wiki
 
   |  [](http://twitter.com/simpsonswiki "Twitter") [](http://wikisimpsons.deviantart.com/ "deviantART") [](http://www.facebook.com/wikisimpsons "Facebook")[](http://tumblr.simpsonswiki.net/ "Tumblr")[](https://plus.google.com/104723308372789955884/ "Google+")
+
+**[Make an account!](https://simpsonswiki.com/w/index.php?title=Special:UserLogin&type=signup)** It's easy, free, and your work on the wiki can be attributed to you. 
+
+Do you have a question about _The Simpsons_? Ask on [Wikisimpsons Answers](http://answers.simpsonswiki.com/ "answers:")! 
+
+**Want to keep up with the latest _The Simpsons_ news?! [Subscribe to our blog](http://news.simpsonswiki.com/subscribe/) to get email notifications of new posts!**
+
+0 days, 0 hours, 0 minutes and 0 seconds until [Season 27](https://web.archive.org/wiki/Season_27 "Season 27")!
 
 ### Wikisimpsons - The Simpsons Wiki
 
