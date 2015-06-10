@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the groupon.sg privacy policy that was archived on 2014-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140920073940id_/http%3A//www.groupon.sg/data_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the groupon.sg privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611014053id_/http%3A//www.groupon.sg/data_privacy) for the most accurate reproduction.*
 
 # Up to 70% discount on restaurants, spas, travel, shopping - GROUPON.sg
 
