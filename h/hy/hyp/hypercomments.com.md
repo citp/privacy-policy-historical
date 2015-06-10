@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hypercomments.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120164203id_/http%3A//www.hypercomments.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hypercomments.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610043358id_/http%3A//www.hypercomments.com/en/privacy) for the most accurate reproduction.*
 
 # Privacy - HyperComments
 
@@ -40,10 +40,10 @@ HyperComments cares about safeguarding your information. We go about reasonable 
 
 If you have any questions about this Privacy Guidelines, please contact us at 
 
-**SiteHeart Inc.**
+**MIDDLEWARE INC.,**
 
-111 N. Market St., office 670
+2711 Centerville Road, Suite 400, Wilmington,
 
-San Jose, CA 
+New Castle County, 19808
 
 E-mail: support@hypercomments.com
