@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vitaminworld.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122182214id_/http%3A//www.vitaminworld.com/privacy-policy/privacy-policy.html%3Ficid%3Dros-_-footer-_-privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vitaminworld.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610030828id_/http%3A//www.vitaminworld.com/privacy-policy/privacy-policy.html%3Ficid%3Dros-_-footer-_-privacyPolicy) for the most accurate reproduction.*
 
 # eCommerce Solutions On-Demand | Demandware Privacy Policy
 
