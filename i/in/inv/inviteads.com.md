@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inviteads.com privacy policy that was archived on 2014-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141222213437id_/http%3A//www.inviteads.com/privacy-copyright/end-user-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inviteads.com privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611003214id_/http%3A//www.inviteads.com/privacy-copyright/end-user-privacy-policy) for the most accurate reproduction.*
 
 # End User Privacy Policy | inviteAds
 
