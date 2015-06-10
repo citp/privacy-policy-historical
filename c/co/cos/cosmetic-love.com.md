@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cosmetic-love.com privacy policy that was archived on 2014-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141125172648id_/http%3A//cosmetic-love.com/index.php%3Fdispatch%3Dpages.view%26page_id%3D3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cosmetic-love.com privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611005057id_/http%3A//cosmetic-love.com/index.php%3Fdispatch%3Dpages.view%26page_id%3D3) for the most accurate reproduction.*
 
 # Privacy policy -
 
@@ -60,4 +60,4 @@ By using our site, you consent to our privacy policy.
 
 If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below.
 
-This policy was last modified on 01.12.2012
+This policy was last modified on 03.26.2015
