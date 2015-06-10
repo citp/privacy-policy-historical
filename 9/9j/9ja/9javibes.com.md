@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 9javibes.com privacy policy that was archived on 2014-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141107123349id_/http%3A//9javibes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 9javibes.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610124628id_/http%3A//9javibes.com/privacy-policy) for the most accurate reproduction.*
 
 # PRIVACY POLICY - 9JA VIBES
 
