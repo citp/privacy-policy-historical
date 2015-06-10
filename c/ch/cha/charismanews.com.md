@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the charismanews.com privacy policy that was archived on 2014-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141225184451id_/http%3A//www.charismamag.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the charismanews.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610060425id_/http%3A//www.charismamag.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -71,158 +71,182 @@ By using our website, you consent to the collection and use of this information.
 
   * [
 
-#### Terror Alert: Holy War in America’s Bible Belt
+#### Billy Graham's Daughter: We're Coming Close to the End of Human History as We Know It
 
-](http://www.charismamag.com/blogs/prophetic-insight/22109-terror-alert-holy-war-in-america-s-bible-belt "city disaster")
+](http://www.charismamag.com/spirit/prophecy/23475-billy-graham-s-daughter-we-re-coming-close-to-the-end-of-human-history-as-we-know-it "Anne Graham Lotz")
 
-"I saw an American city destroyed by terrorist bombing. There was carnage in the streets, smoke ...
-
-  * [
-
-#### Get R.T. Kendall's New Book & Devotional
-
-](https://secure.strangmagazines.com/~strangma/charisma/2014/two_books/?utm_source=charismamag.com&utm_medium=most%20popular%20banner "Get R.T. Kendall's New Book &amp; Devotional")
-
-Experience the Holy Spirit in a way that will change your life!
+And God's judgment may not come like we expect, Anne Graham Lotz claims.
 
   * [
 
-#### 5 Signs There's Idolatry in Your Church
+#### What Nobody Is Saying About the Duggar Scandal
 
-](http://www.charismamag.com/spirit/spiritual-growth/22082-5-signs-there-s-idolatry-in-your-church "Worship concert")
+](http://www.charismamag.com/life/women/23502-what-nobody-is-saying-about-the-duggar-scandal "Duggar family")
 
-The idol of celebrity preachers is just one of the five. Do you see the other four operating in ...
-
-  * [
-
-#### WATCH: What's the Meaning of Creflo Dollar's Prophetic Dream About Myles Munroe?
-
-](http://www.charismamag.com/spirit/prophecy/22099-watch-creflo-dollar-reveals-prophetic-myles-munroe-dream "Creflo Dollar had a prophetic dream about Myles Munroe three days after his death.")
-
-In the dream, Dollar says, they were in the Bahamas with other ministers for the leadership ...
+Josh Duggar's admission of molesting his sisters has made headlines. Yet here's one thing ...
 
   * [
 
-#### Bill Johnson: The Secret to Walking in Extraordinary Miracles
+#### 33 Things the Holy Spirit Does
 
-](http://www.charismamag.com/spirit/supernatural/22075-bill-johnson-the-secret-to-walking-in-extraordinary-miracles "supernatural clouds")
+](https://secure.strangmagazines.com/~strangma/charisma/2014/print_2/?utm_campaign=12%20for%2015%20-%2033%20Things&utm_source=charismamag.com&utm_medium=Native%20Ad%20Under%20Article%20Mobile "33 Things the Holy Spirit Does")
 
-Here's what happens when you're saturated in God's presence.
-
-  * [
-
-#### Bible Scholar: The NEW Date for Christ's Return
-
-](http://www.charismamag.com/spirit/spiritual-growth/15875-bible-scholar-the-new-date-for-christ-s-return "F.-Kenton-"Doc"-Beshore")
-
-Why one Bible scholar is arguing that Hal Lindsey's famous 1988 prediction for Christ's ...
+Though many Christians overlook the importance of the Holy Spirit, Scripture is clear about not only His vital role, but also His divine actions.
 
   * [
 
-#### Intercessors, Will You Respond to This Call From God?
+#### Prophetic Dream: The Perfect Storm Is Upon America
 
-](http://www.charismamag.com/blogs/the-plumb-line/22078-intercessors-will-you-respond-to-this-call-from-god "praying teenager")
+](http://www.charismamag.com/blogs/prophetic-insight/23457-prophetic-dream-the-perfect-storm-is-upon-america "America's perfect storm is coming. ")
 
-In this critical hour, you can make a difference—your prayers can help tip the bowls that ...
-
-  * [
-
-#### 5 Ways to Position Yourself to Fulfill God's Call
-
-](http://www.charismamag.com/life/women/22060-5-ways-to-position-yourself-to-fulfill-god-s-call "Mary Seidler becoming ordained")
-
-I watched a single woman become ordained to go to the nations last Sunday. Here are 5 things she ...
-
-
-
+"As I looked up over the Atlantic Ocean, I noticed two enormous storms beginning to form. The ...
 
   * [
 
-#### Stop Whining About the ‘War’ on Christmas
+#### Why I'm for the Duggars
 
-](http://www.charismamag.com/blogs/fire-in-my-bones/22114-stop-whining-about-the-war-on-christmas "Christmas war")
+](http://www.charismamag.com/life/women/23467-why-i-m-for-the-duggars "Josh and Anna Duggar")
 
-What we call "persecution" in the United States is nothing compared to what Christians ...
-
-  * [
-
-#### Get R.T. Kendall's New Book & Devotional
-
-](https://secure.strangmagazines.com/~strangma/charisma/2014/two_books/?utm_source=charismamag.com&utm_medium=most%20popular%20banner "Get R.T. Kendall's New Book &amp; Devotional")
-
-Experience the Holy Spirit in a way that will change your life!
+Here's why a woman who has experienced sexual abuse is for the Duggars.
 
   * [
 
-#### WATCH: This Pastor May Have Confessed Cancer Away
+#### 5 Reasons You Should Not Leave a Church
 
-](http://www.charismamag.com/spirit/spiritual-growth/22106-watch-pastor-preaches-peace-without-ceasing-before-cancer-surgery "Pastor Julian Malone counted his cancer battle as joy and got a miracle.")
+](http://www.charismamag.com/spirit/church-ministry/23445-5-reasons-you-should-not-leave-a-church "Many church services are half empty. Many are leaving for all the wrong reasons.")
 
-He was diagnosed with an aggressive, inoperable form of cancer but he refused to confess the ...
-
-  * [
-
-#### WATCH: Is This 10-Year-Old the Next Kari Jobe?
-
-](http://www.charismamag.com/life/culture/22115-is-this-10-year-old-the-next-kari-jobe "Kaitlin Maher, 10, sings Kari Jobe's "Find You On My Knees."")
-
-Kaitlin Maher is becoming an Internet sensation. See what all the hype is about.
+People are leaving or changing churches at a record pace—when should we NOT leave a church?
 
   * [
 
-#### James Goll: Heeding the Call the Prophetic Ministry
+#### God Said: 'This Is Just a Taste of What Is Coming'
 
-](http://www.charismamag.com/blogs/a-voice-calling-out/22101-james-goll-heeding-the-call-the-prophetic-ministry "man praying")
+](http://www.charismamag.com/blogs/fire-in-my-bones/23468-god-said-this-is-just-a-taste-of-what-is-coming "Bolivian ministry leader Fernando Villalobos shares during the recent Bold Venture men's retreat.")
 
-"I spent much time in prayer, worship, community and sitting under anointed teaching. But I ...
-
-  * [
-
-#### Why We Don't Exchange Christmas Gifts
-
-](http://www.charismamag.com/life/women/22095-why-we-don-t-exchange-christmas-gifts "holiday dinner")
-
-Here's why one family has never exchanged Christmas presents.
+Last weekend, the Holy Spirit visited an interracial group of men gathered in Georgia.
 
   * [
 
-#### How Christian Marriages Don't Enjoy One of God's Greatest Gifts
+#### The Isaiah 22:22 Prophetic Act That Breaks Down Barriers
 
-](http://www.charismamag.com/life/women/22073-how-christian-marriages-don-t-enjoy-one-of-god-s-greatest-gifts "couple")
+](http://www.charismamag.com/blogs/the-plumb-line/23481-the-isaiah-22-22-prophetic-act-that-breaks-down-barriers "The key of David can open doors no man can shut.")
 
-Sex and romance got the lowest scores in a recent survey conducted by a marriage and family ...
-
-  * [
-
-#### Franklin Graham: The Storm Is Coming
-
-](http://www.charismamag.com/spirit/spiritual-growth/22084-franklin-graham-the-storm-is-coming "Megyn Kelly and Franklin Graham")
-
-With Christmas approaching, Billy Graham's son expects hostility against Christians to rise.
+As spiritual warriors, many of us have become experts at binding and loosing with the keys to the ...
 
   * [
 
-#### 9 Ways to Understand What Your Wife Is Really Saying
+#### WATCH: 9 Ways to Discern Between a True and False Prophet
 
-](http://www.charismamag.com/life/men/22034-9-ways-to-understand-what-your-wife-is-really-saying "Communication")
+](http://www.charismamag.com/spirit/prophecy/23463-watch-9-ways-to-discern-between-a-true-and-false-prophet "Jim Bakker")
 
-For men who thought it was impossible to understand women, here is a key for decoding some of your ...
+The answer may be easier than you expect. 
 
-  * [
 
-#### Why I Don't Tell My Children About Santa
 
-](http://www.charismamag.com/life/women/22056-why-i-don-t-tell-my-children-about-santa "Santa's")
-
-This mom shares why she doesn't include Santa in her Christmas celebration.
 
   * [
 
-#### How to Pray With Life-Changing Boldness
+#### Struggling With Obesity: How to Move From the Dark to the Light
 
-](http://www.charismamag.com/spirit/prayer/21819-how-to-pray-with-life-changing-boldness)
+](http://www.charismamag.com/life/health/23473-struggling-with-obesity-how-to-move-from-the-dark-to-the-light "Has obesity kept you in the darkness long enough?")
 
-What Jesus says about pushing the boundaries in prayer isn't just startling, it's ...
+Here's how you can renounce your friendship with lies and the darkness of the enemy.
+
+  * [
+
+#### Why This Pastor's Kid Loves Her Parents
+
+](http://www.charismamag.com/life/women/23489-why-this-pastor-s-kid-loves-her-parents "Pastor Barb and Brent Rudoski of Faith Alive Church")
+
+Pastor's kids are usually the most wayward or rebellious towards their parents when they turn ...
+
+  * [
+
+#### 33 Things the Holy Spirit Does
+
+](https://secure.strangmagazines.com/~strangma/charisma/2014/print_2/?utm_campaign=12%20for%2015%20-%2033%20Things&utm_source=charismamag.com&utm_medium=Native%20Ad%20Under%20Article%20Desktop "33 Things the Holy Spirit Does")
+
+Though many Christians overlook the importance of the Holy Spirit, Scripture is clear about not only His vital role, but also His divine actions.
+
+  * [
+
+#### Beating Dementia: 'Two Weeks to a Younger Brain'
+
+](http://www.charismamag.com/life/health/23448-beating-dementia-two-weeks-to-a-younger-brain "Prevention can be the best medicine, but can dementia be slowed down and even reversed?")
+
+With dementia reaching epic proportions, UCLA's Dr. Gary Small details how to improve your ...
+
+  * [
+
+#### 5 Practical Habits of Men in the Happiest Marriages
+
+](http://www.charismamag.com/life/men/23460-5-practical-habits-of-men-in-the-happiest-marriages "Here are some steps you can take to ensure harmony in your marriage.")
+
+Here is a very practical approach men can use to ensure harmony in their marriage.
+
+  * [
+
+#### If You're Struggling to Trust God in Your Trial, Read This
+
+](http://www.charismamag.com/life/women/23456-if-you-re-struggling-to-trust-god-in-your-trial-read-this "woman in storm")
+
+Life can be overwhelming but with this one thing, you can live with faith when circumstances scream ...
+
+  * [
+
+#### Is Baptism Necessary for Salvation?
+
+](http://www.charismamag.com/spirit/church-ministry/23430-is-baptism-necessary-for-salvation "Baptism")
+
+There seems to be misunderstanding around Scriptures that relate to water baptism. What does the ...
+
+  * [
+
+#### 7 Reasons I'm Not a Christian Dominionist
+
+](http://www.charismamag.com/spirit/church-ministry/23465-7-reasons-i-m-not-a-christian-dominionist "Garden of Eden")
+
+Christian dominion theology has been under fire for decades. Joseph Mattera offers plenty of ...
+
+  * [
+
+#### Don't Quench the Spirit in the Next Move of God
+
+](http://www.charismamag.com/blogs/fire-in-my-bones/23416-don-t-quench-the-spirit-in-the-next-move-of-god "Have we trivialized the Holy Spirit?")
+
+When the Spirit came in power in the 1960s, we made five fatal mistakes.
+
+  * [
+
+#### WATCH: By Building the Hadron Collider, Are Scientists Opening a Wormhole for Demons?
+
+](http://www.charismamag.com/spirit/spiritual-warfare/23425-watch-by-building-the-hadron-collider-are-scientists-opening-a-wormhole-for-demons "Tom Horn")
+
+"However, there's a reason God put them on the other side of that veil."
+
+  * [
+
+#### The Key to Breaking the Rule of Fear in Your Life
+
+](http://www.charismamag.com/life/women/23441-the-key-to-breaking-the-rule-of-fear-in-your-life "fear")
+
+Teresa battled the bondage of fear until she did this one thing.
+
+  * [
+
+#### God's Power at Work in the Church Today
+
+](http://www.charismamag.com/blogs/the-strang-report "God's Power at Work in the Church Today")
+
+Charisma's founder, Steve Strang writes about today's hottest topics affecting the Christian faith.
+
+  * [
+
+#### How Do You Begin Your Prayer or Worship Time?
+
+](http://www.charismamag.com/spirit/prayer/23411-how-do-you-begin-your-prayer-or-worship-time "How do you begin your worship time?")
+
+Starting off with this may simply make your time with God not only more effective but also more ...
 
 
 
