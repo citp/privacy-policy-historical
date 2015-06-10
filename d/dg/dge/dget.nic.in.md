@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dget.nic.in privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121165334id_/http%3A//www.dget.nic.in/content/innerpage/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dget.nic.in privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610021310id_/http%3A//dget.nic.in/content/innerpage/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy:: Directorate General of Employment & Training (DGE&T)
 
