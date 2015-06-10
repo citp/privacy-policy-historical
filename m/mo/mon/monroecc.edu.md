@@ -1,32 +1,22 @@
-> *The following text is extracted and transformed from the monroecc.edu privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121102700id_/http%3A//www.monroecc.edu/mccprivacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the monroecc.edu privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610032012id_/http%3A//www.monroecc.edu/mccprivacypolicy.htm) for the most accurate reproduction.*
 
-# Privacy Policy | Monroe Community College | Rochester, NY
+# Privacy Statement | Monroe Community College | Rochester, NY
 
 **Monroecc.edu's Commitment to Privacy**
 
 At Monroe Community College (MCC), we are committed to protecting your privacy and making it easier and more efficient for individuals and businesses to interact with MCC. We recognize that it is critical for individuals and businesses to be confident that their privacy is protected when they visit monroecc.edu. You can travel through most of monroecc.edu without giving us any information about yourself. Sometimes we do need information to provide services that you request, and this commitment of privacy explains our online information practices.
 
-MCC does not collect any _personal information_ about you unless you provide that information voluntarily by sending e-mail, completing an online information request form, completing the online application, or completing online registration.
+MCC does not collect any _personal information_ about you unless you provide that information voluntarily by sending email, completing an online information request form, completing the online application, or completing online registration.
 
 This policy is consistent with the provisions of the Internet Security and Privacy Act, the Freedom of Information Law, and the Personal Privacy Protection Law.
 
 **Information Collected Automatically When You Visit monroecc.edu**
 
-When visiting monroecc.edu, MCC automatically collects and stores the following information about your visit:
-
-  * The Internet Protocol address of the computer that accessed our Web site
-  * The type of browser, its version and the operating system on which that browser is running
-  * The Web page from which the _user_ accessed the current Web page
-  * The date and time of the _user's_ request
-  * The pages that were visited and the amount of time spent at each page
-
-
-
-None of the above-mentioned information is deemed to constitute _personal information_ by the Internet Privacy and Security Act. The information that is collected automatically is used to improve monroecc.edu's content and to help MCC understand how _users_ are interacting with its Web site. This information is collected for statistical analysis and to determine what information is of most and least interest to our _users_. The information is not collected for commercial marketing purposes and MCC is not authorized to sell or otherwise disclose the information collected from monroecc.edu for commercial marketing purposes.
+None of the above-mentioned information is deemed to constitute personal information by the Internet Privacy and Security Act. The information that is collected automatically is used several ways, including to improve monroecc.edu's content and to help MCC understand how visitors are interacting with its website. This information is also used for statistical analysis and to determine what information is of most and least interest to our website visitors. Please see the section entitled "Remarketing" for more information on how MCC may use this information to advertise MCC services.
 
 **Information Collected When You E-mail monroecc.edu or Complete a Transaction**
 
-During your visit to monroecc.edu you may send an e-mail to MCC. Your e-mail address and the contents of your message will be collected. The information collected is not limited to text characters and may include audio, video, and graphic information formats included in the message. Your e-mail address and the information included in your message will be used to respond to you, to address issues you identify, to improve this Web site, or to forward your message to another MCC department for appropriate action. Your e-mail address is not collected for commercial purposes and MCC is not authorized to sell or otherwise disclose your e-mail address for commercial purposes.
+During your visit to monroecc.edu you may send an email to MCC. Your email address and the contents of your message will be collected. The information collected is not limited to text characters and may include audio, video, and graphic information formats included in the message. Your email address and the information included in your message will be used to respond to you, to address issues you identify, to improve this Web site, or to forward your message to another MCC department for appropriate action. Your email address is not collected for commercial purposes and MCC is not authorized to sell or otherwise disclose your email address for commercial purposes.
 
 During your visit to monroecc.edu you may complete a transaction such as an online application or an online information request form. The information collected by MCC, including _personal information_ volunteered by you in completing the transaction, is used by MCC and may be disclosed by MCC for those purposes that may be reasonably ascertained from the nature and terms of the transaction in which the information was submitted.
 
@@ -42,7 +32,7 @@ Further, the disclosure of information, including _personal information_ , colle
 
 MCC may disclose _personal information_ to federal or state law enforcement authorities to enforce its rights against unauthorized access or attempted unauthorized access to MCC’s information technology assets.
 
-**Retention of Information Collected through this Web site**
+**Retention of Information Collected through this Website**
 
 The information collected through monroecc.edu is retained by MCC in accordance with the records retention and disposition requirements of the New York State Arts & Cultural Affairs Law. Information on the requirements of the Arts & Cultural Affairs Law may be found at http://www.archives.nysed.gov/services/recmgmt.htm. In general, the Internet services logs of MCC, comprising electronic files or automated logs created to monitor access and use of College services provided through monroecc.edu, are archived for future reference. Information concerning these records retention and disposition schedules may be obtained through the Internet privacy policy contact listed in this policy.
 
@@ -65,15 +55,21 @@ MCC is strongly committed to protecting _personal information_ collected through
 
 In addition, MCC has implemented procedures to safeguard the integrity of its information technology assets, including, but not limited to, authentication, authorization, monitoring, auditing, and encryption. These security procedures have been integrated into the design, implementation, and day-to-day operations of monroecc.edu as part of our continuing commitment to the security of electronic content as well as the electronic transmission of information.
 
-For Web site security purposes and to maintain the availability of monroecc.edu for all _users_ , MCC employs software to monitor traffic to identify unauthorized attempts to upload or change information or otherwise damage monroecc.edu.
+For website security purposes and to maintain the availability of monroecc.edu for all _users_ , MCC employs software to monitor traffic to identify unauthorized attempts to upload or change information or otherwise damage monroecc.edu.
 
 **Cookies**
 
-Cookies are small pieces of information that are stored by the _user's_ browser on the hard drive of your computer. Monroecc.edu utilizes temporary session cookies in certain portions of it’s website.
+Cookies are small pieces of information that are stored by the _user's_ browser on the hard drive of your computer. Monroecc.edu utilizes session cookies in certain portions of its website.
+
+**Remarketing**
+
+MCC may make use of various third-party services for behavioral and remarketing campaigns. These campaigns may involve showing digital advertisements to users whose online use habits indicate an interest in MCC educational services and displaying digital advertisements or follow-up messages to users who have visited one or more of MCC's websites.
+
+Third party vendors, including Google, may use cookies to track Internet use. Information gathered by these cookies may be used to display MCC advertisements on sites across the Internet. Any data collected will be used in accordance with our privacy policy and with Google's privacy policy. You can opt out of interest-based advertising by adjusting your cookie settings or permanently using a browser plugin.
 
 **Disclaimer**
 
-The information provided in this privacy policy should not be construed as giving business, legal, or other advice, or warranting as fail proof, the security of information provided through monroecc.edu.
+The information provided in this privacy statement should not be construed as giving business, legal, or other advice, or warranting as fail proof, the security of information provided through monroecc.edu.
 
 **Contact Information**
 
