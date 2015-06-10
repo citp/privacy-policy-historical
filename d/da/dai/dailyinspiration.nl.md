@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dailyinspiration.nl privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231001017id_/http%3A//www.dailyinspiration.nl/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailyinspiration.nl privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610033432id_/http%3A//www.dailyinspiration.nl/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Daily Inspiration
 
@@ -9,7 +9,7 @@
 
 
 
-We just released our biggest post so far. Read all about Mattia's 'No flying for a year' experience [in this post](http://www.dailyinspiration.nl/one-year-without-flying/)! __
+[Subscribe](http://www.dailyinspiration.nl/announcement/) to our newsletter, to follow everything we're working on! __
 
 When accessing our Website, Daily Inspiration (DI) will learn certain information about you during your visit. How DI will handle information we learn about you depends upon what you do when visiting DI’s site.
 
