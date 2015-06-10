@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yoursingapore.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121171742id_/http%3A//www.yoursingapore.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yoursingapore.com privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611013321id_/http%3A//www.yoursingapore.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy – YourSingapore
 
@@ -28,6 +28,6 @@ We use cookie technology to improve and customise your experience on this websit
 
 Some of the cookies we use are session cookies and only last until you close your browser, others are persistent cookies which are stored on your computer for longer. However, the cookies cannot read data off your hard disk.
 
-Third party features such as videos and maps may be integrated into this website to provide you with a better experience. The providers of these integrations may collect your non-personally identifiable information when you view or use them, and may do this using cookies or other similar technologies. Please review their privacy policies to learn more about the information they collect or receive.
+We may share non-personally identifiable information with third parties so as to provide suggestions to you, personalise content and to enhance your browsing experience on and off our website. These third parties may also collect your non-personally identifiable information when you view or use their applications or websites, and may do this using cookies or other similar technologies. Please review their privacy policies to learn more about the information they collect or receive.
 
 To browse without cookies, you can configure your browser to reject all cookies or notify you when a cookie is set. Your experience of this website may be different if you have configured your browser to block cookies as you may not be able to use all interactive features on our sites.
