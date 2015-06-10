@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rockler.com privacy policy that was archived on 2014-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141107011759id_/http%3A//www.rockler.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rockler.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610053559id_/http%3A//www.rockler.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -80,6 +80,10 @@ The paragraphs below outline some of the common practices used by a majority of 
 Rockler's website, online services, interactive applications, e-mail messages, and advertisements may use 'cookies' and other technologies such as pixel tags and web beacons. These technologies help us better understand user behavior, tell us which parts of our website people have visited, and facilitate and measure the effectiveness of our communications and web searches. We treat information collected by cookies and other technologies as non-personal information. Similarly, to the extent that non-personal information is combined with personal information, we treat the combined information as personal information for the purposes of this Privacy Policy.
 
 Rockler and our partners also use cookies and other technologies to 'remember' how you use our website, online services, and applications. Our goal in these cases is to make your experience with Rockler more convenient and personal. For example, knowing your first name lets us welcome you the next time you visit Rockler's websites. Knowing someone using your computer or device has shopped for a certain product helps us make our e-mail communications and product suggestions more relevant to your interests. You may set your web browser to notify you when you receive a cookie. However, should you decide not to accept cookies from our sites, you will limit the functionality we can provide when you visit our sites.
+
+Our company and our trusted third parties may share with one another anonymous versions of user information collected at this site. We may use that information to link to and issue anonymous cookies containing demographic or intent-based data for online behavioral advertising purposes.  Such cookies do not contain personally identifiable information.  If you would like to opt out of online behavioral advertising, click on one of these links: 
+
+http://www.aboutads.info/choices or http://networkadvertising.org/choices. 
 
 As is true of most websites, our web servers gather some information automatically and store it in log files. This information includes Internet Protocol (IP) addresses, browser type and language, Internet service provider (ISP), referring and exit pages, operating system, date/time stamp, and clickstream data. We use this information to understand and analyze trends, to administer the site, to learn about user behavior on the site, and to gather demographic information about our user base as a whole. Rockler may use this information in our marketing and advertising services.
 
