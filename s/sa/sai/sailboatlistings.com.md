@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sailboatlistings.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120202044id_/http%3A//sailboatlistings.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sailboatlistings.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610030944id_/http%3A//sailboatlistings.com/privacy) for the most accurate reproduction.*
 
 # Sailboat Listings privacy policy
 
