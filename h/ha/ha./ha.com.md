@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ha.com privacy policy that was archived on 2014-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141207111046id_/http%3A//www.ha.com/c/privacy.zx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ha.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610045826id_/http%3A//www.ha.com/c/privacy.zx) for the most accurate reproduction.*
 
 # Heritage Privacy Policy
 
@@ -61,9 +61,9 @@ Heritage limits access to personal information about you to those employees who 
 In the interest of privacy and security, we automatically expire your session when a specific period goes by without activity. Heritage takes reasonable precautions - including administrative, technical, and physical measures - to safeguard your personal information against loss, theft, and misuse, as well as unauthorized access, disclosure, alteration, and destruction.
 
 **Reviewing and changing your information**  
-Heritage has safeguards in place to keep your personal information accurate, complete, and up to date for the purposes for which it is used. Naturally, you always have the right to access and correct the personal information you have provided. You can help us ensure that your contact information and preferences are accurate, complete, and up to date by going to your [MyProfile](https://web.archive.org/c/my/profile/) page. 
+Heritage has safeguards in place to keep your personal information accurate, complete, and up to date for the purposes for which it is used. Naturally, you always have the right to access and correct the personal information you have provided. You can help us ensure that your contact information and preferences are accurate, complete, and up to date by going to your [MyProfile](https://www.ha.com/c/my/profile/) page. 
 
-For any personally identifiable information that cannot be updated via your [MyProfile](https://web.archive.org/c/my/profile/) page, please make a request to have it changed, if needed, using the contact information listed above.
+For any personally identifiable information that cannot be updated via your [MyProfile](https://www.ha.com/c/my/profile/) page, please make a request to have it changed, if needed, using the contact information listed above.
 
 **Do Not Track notice and disclosure**  
 Heritage does not currently respond to Web browser “do not track” signals and similar signals as providers of these signals do not currently operate according to common, industry-accepted standards. However, as stated earlier in this policy, your browser provides tools to allow you to change your privacy and security settings. For instructions, consult your browser’s Help menu. 
