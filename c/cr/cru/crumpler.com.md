@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the crumpler.com privacy policy that was archived on 2014-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140529063704id_/http%3A//www.crumpler.com/us/help/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crumpler.com privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611013501id_/http%3A//www.crumpler.com/au/help/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Crumpler
 
 Crumpler Limited ("Crumpler", "we", "us, and "our") provide you with access to our site: Crumpler.com.  This Privacy Policy explains to you how certain information about you may be processed. By using this site and placing orders, you expressly consent to the use of your data in accordance with this Privacy Policy.
 
@@ -54,7 +54,7 @@ i. amend your preferences accordingly in your online account;
 
 ii. use the facility contained in any such communication; or
 
-iii. email us at [us_enquiries@crumpler.com](mailto:us_enquiries@crumpler.com) stating your name and desire to be removed from the list. Your request to be removed from our email list may take up to five (5) business days to become effective.  Please note that you may receive emails that were already in process even though we have removed you from our list.  Even if you are removed from our list, please know that if you place an order on our site we will send you an email confirmation.
+iii. email us at [au_enquiries@crumpler.com](mailto:au_enquiries@crumpler.com) stating your name and desire to be removed from the list. Your request to be removed from our email list may take up to five (5) business days to become effective.  Please note that you may receive emails that were already in process even though we have removed you from our list.  Even if you are removed from our list, please know that if you place an order on our site we will send you an email confirmation.
 
 3.3 your data will be held by us for so long as is necessary for the purposes for which it was collected, for the settlement of any potential disputes which may be raised or otherwise in accordance with legal requirements.
 
@@ -86,7 +86,7 @@ iii. email us at [us_enquiries@crumpler.com](mailto:us_enquiries@crumpler.com) s
 
 ### 7\. ACCESS TO AND UPDATING YOUR DATA
 
-7.1 Where you are a registered online account holder, you may access and update your data contained in your online account. You must make sure that you update your data as soon as possible with any and all relevant changes. 7.2 If you would like to receive a copy of your data held by us, please email [us_enquiries@crumpler.com](mailto:us_enquiries@crumpler.com)
+7.1 Where you are a registered online account holder, you may access and update your data contained in your online account. You must make sure that you update your data as soon as possible with any and all relevant changes. 7.2 If you would like to receive a copy of your data held by us, please email [au_enquiries@crumpler.com](mailto:au_enquiries@crumpler.com)
 
 ### 8\. LOCATION OF AND TRANSFERS OF YOUR DATA
 
@@ -98,7 +98,7 @@ Please be aware that the site may link to other web sites that may be accessed b
 
 ### 10\. CONTACTING US
 
-If you have any questions about our Privacy Policy or how we use your data please contact us by email at [us_enquiries@crumpler.com](mailto:us_enquiries@crumpler.com).
+If you have any questions about our Privacy Policy or how we use your data please contact us by email at [au_enquiries@crumpler.com](mailto:au_enquiries@crumpler.com).
 
 Thank you,
 
