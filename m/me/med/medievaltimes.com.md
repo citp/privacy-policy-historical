@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the medievaltimes.com privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123115555id_/http%3A//www.medievaltimes.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the medievaltimes.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610060850id_/http%3A//www.medievaltimes.com/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Medieval Times Dinner & Tournament » Privacy Policy
 
