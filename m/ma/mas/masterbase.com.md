@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the masterbase.com privacy policy that was archived on 2013-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131014115801id_/http%3A//www.en.masterbase.com/about/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the masterbase.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610082719id_/http%3A//www.en.masterbase.com/about/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -38,4 +38,4 @@ For any questions or comments refer to our privacy policy or send us an email to
 
 3700 Commerce Blvd. Suite 101W, Kissimmee, FL 34741. USA. Phone: 1-407-329-4782
 
-[« Back](https://web.archive.org/web/20131014115801id_/http%3A//www.en.masterbase.com/about/default.asp "Back")
+[« Back](https://web.archive.org/web/20150610082719id_/http%3A//www.en.masterbase.com/about/default.asp "Back")
