@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the nyc.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701210829id_/http%3A//www.nyc.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nyc.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610042935id_/http%3A//www.nyc.com/privacy.htm) for the most accurate reproduction.*
 
 # NYC.com Privacy Policy
-
-#### NYC.com Privacy Policy
 
 As New York City's portal, our goal is to offer the best of the city in one convenient site while maintaining a total commitment to your privacy needs and expectations. Please read on for details about our privacy policy. 
 
