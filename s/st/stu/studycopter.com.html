@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the studycopter.com privacy policy that was archived on 2014-12-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141230091615id_/http%3A//studycopter.com/privacypolicy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the studycopter.com privacy policy that was archived on 2015-06-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150611003341id_/http%3A//studycopter.com/privacypolicy.php) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"><html xmlns="http://www.w3.org/1999/xhtml" class=" js no-flexbox canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths"><!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ --><!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]--><!--[if IE 7]>    <html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]--><!--[if IE 8]>    <html class="no-js lt-ie9" lang="en"> <![endif]--><!-- Consider adding a manifest.appcache: h5bp.com/d/Offline --><!--[if gt IE 8]><!--><!--<![endif]--><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ --><!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]--><!--[if IE 7]>    <html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]--><!--[if IE 8]>    <html class="no-js lt-ie9" lang="en"> <![endif]--><!-- Consider adding a manifest.appcache: h5bp.com/d/Offline --><!--[if gt IE 8]><!--><!--<![endif]--><head>
 	<meta charset="utf-8">
 	<link rel="icon" type="image/ico" href="favicon.png">
 	<!-- Use the .htaccess and remove these lines to avoid edge case issues.
@@ -42,9 +42,9 @@
 	<div id="dialog" class="window">
 		<!-- close button is defined as close class -->
 			<div class="invite-modal">
-				<span class="close-button"><a href="#" class="close"><img src="html/static/images/modal-close-button.png" alt="close-button"></a></span>
-				<button class="button fb-button" onclick="document.location.href='https://www.facebook.com/dialog/oauth?client_id=390864724306977&amp;redirect_uri=http://studycopter.com/facebooksignup.php&amp;state=abc12345&amp;scope=email,read_stream'">Sign in with Facebook</button>
-				 <button class="button google-button" onclick="document.location.href='https://www.google.com/accounts/o8/ud?openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&amp;openid.mode=checkid_setup&amp;openid.return_to=http%3A%2F%2Fstudycopter.com%2Floginwithgoogle.php&amp;openid.realm=http%3A%2F%2Fstudycopter.com&amp;openid.ns.ax=http%3A%2F%2Fopenid.net%2Fsrv%2Fax%2F1.0&amp;openid.ax.mode=fetch_request&amp;openid.ax.type.namePerson_first=http%3A%2F%2Faxschema.org%2FnamePerson%2Ffirst&amp;openid.ax.type.namePerson_last=http%3A%2F%2Faxschema.org%2FnamePerson%2Flast&amp;openid.ax.type.contact_email=http%3A%2F%2Faxschema.org%2Fcontact%2Femail&amp;openid.ax.required=namePerson_first%2CnamePerson_last%2Ccontact_email&amp;openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select'"> Sign in with Google</button>
+				<span class="close-button"><a href="#" class="close"><img src="http://studycopter.com/html/static/images/modal-close-button.png" alt="close-button"></a></span>
+				<button class="button fb-button" onclick="document.location.href='https://www.facebook.com/dialog/oauth?client_id=390864724306977&amp;redirect_uri=http://studycopter.com/facebooksignup.php&amp;state=abc12345&amp;scope=email,read_stream,read_custom_friendlists'">Sign in with Facebook</button>
+				 <button class="button google-button" onclick="document.location.href='loginwithgoogle.php'"> Sign in with Google</button>
 				<h1>Sign in</h1>
 				<form name="frmlogin" action="#" method="post" id="login_form">
 					<div class="cell">
@@ -67,52 +67,84 @@
 						<button class="button-blue">Logging in</button>
 					</div>	
 				</form>
-			</div>	<!--end of invite-modal -->	
+			</div>	
+	    <!--end of invite-modal -->	
 			<div class="invite-errata" id="msgbox" style="display:none;"></div>
 			<br>
 			<div class="invite-modal">
-				<p>Not signed up yet? <a href="#dialogsignup" name="modal2">Sign up now</a></p>
+				<p>Not signed up yet? <a href="#dialogsignup" id="signup" name="modal2">Sign up now</a></p>
 			</div>
 	</div>
 	<!-- Do not remove div#mask, because you'll need it to fill the whole screen --> 
 	<div id="mask"></div>
+	
 	<!-- #customize your modal window here -->
 	<div id="dialogsignup" class="window2">
 		<!-- close button is defined as close class -->
 			<div class="invite-modal">
-				<span class="close-button"><a href="#" class="close"><img src="html/static/images/modal-close-button.png" alt="close-button"></a></span>
+				<span class="close-button"><a href="#" class="close"><img src="http://studycopter.com/html/static/images/modal-close-button.png" alt="close-button"></a></span>
 		  		<h1>Sign up for new account</h1>
 				<form name="frmsignup" action="#" method="post" id="frmsignup" onsubmit="return checksignup();">
 					<div class="cell">
 						<label>Your Name</label>
-						<input type="text" class="textbox" name="txtname" id="username2" value="">
+						<input type="text" class="textbox" required="" name="txtname" id="username2" value="">
 					</div>
 					<div class="error-message-login" id="errorname" style="display:none;"></div>
 					<div class="cell">
 						<label>Your E-mail address</label>
-						<input type="text" class="textbox" name="useremail" id="useremail" value="" onchange="if (isValidEmail(document.forms['frmsignup'].useremail.value)) { $('#erroremail2').hide(); } else { $('#erroremail2').fadeTo(200,0.1,function() {$(this).html('NOT a valid email address').addClass('error-message-login').fadeTo(900,1);});  useremail.focus(); return false; }">
+						<input type="text" class="textbox" required="" name="useremail" id="useremail" value="" onchange="if (isValidEmail(document.forms['frmsignup'].useremail.value)) { $('#erroremail2').hide(); } else { $('#erroremail2').fadeTo(200,0.1,function() {$(this).html('NOT a valid email address').addClass('error-message-login').fadeTo(900,1);});  useremail.focus(); return false; }">
 					</div>
 					<div class="error-message-login" id="erroremail2" style="display:none;"></div>
 					<div class="cell">	
 						<label>Password</label>
-						<input type="password" class="textbox" name="txtpassword" id="password2" value="">
+						<input type="password" class="textbox" required="" name="txtpassword" id="password2" value="">
 					</div>
 					<div class="error-message-login" id="errorpassword" style="display:none;"></div>
 					<div class="cell">	
-						<label>Re-enter Password</label>
-						<input type="password" class="textbox" name="txtcpassword" id="txtcpassword" value="">
+						<label>Mobile No.</label>
+						<input id="mobile-number" type="tel" required="" class="textbox" name="txtcpassword" value="">
+						<input type="hidden" id="user-country" value="">
 					</div>
+
 					<div class="error-message-login" id="errorcpassword" style="display:none;"></div>
 					<div class="cell">	
 						<label>Choose Course</label><br>
-						<select name="coursename" style="width:250px; height:30px;" id="usercourse">
-															<option value="4">GMAT</option>
-																<option value="5">IBPS Bank Clerk CWE-launching soon</option>
-														</select>
+						<div class="coursepopup">
+						<div class="tick" id="ibpsso_tick"><img src="images/green-tick-talkelectricianforumcouk.png" alt="IBPS Bank PO and Clerk Exam Preparation"></div>
+						<input type="radio" value="5" id="ibpsso_course" name="coursename" class="course-ch">				
+						<div class="cbutton-dblue courseImg" id="ibpsso">IBPS SO</div>
+						</div>
+
+						<div class="coursepopup">
+						<div class="tick" id="ibpspo_tick"><img src="images/green-tick-talkelectricianforumcouk.png" alt="IBPS Bank PO and Clerk Exam Preparation"></div>
+						<input type="radio" value="17" id="ibpspo_course" name="coursename" class="course-ch">				
+						<div class="cbutton-dblue courseImg" id="ibpspo">IBPS PO</div>
+						</div>
+
+						<div class="coursepopup">
+						<div class="tick" id="ibpsclerk_tick"><img src="images/green-tick-talkelectricianforumcouk.png" alt="IBPS Bank PO and Clerk Exam Preparation"></div>
+						<input type="radio" value="18" id="ibpsclerk_course" name="coursename" class="course-ch">				
+						<div class="cbutton-dblue courseImg" id="ibpsclerk">IBPS Clerk </div>
+						</div>
+                        
+                        
+						<div class="coursepopup">
+						<div class="tick" id="gmat_tick"><img src="images/green-tick-talkelectricianforumcouk.png" alt="IBPS Bank PO and Clerk Exam Preparation"></div>
+						<input type="radio" value="4" id="gmat_course" name="coursename" class="course-ch">				
+						<div class="cbutton-teal courseImg" id="gmat">GMAT</div>
+						</div>
+
+						<div class="coursepopup">
+						<div class="tick" id="ssc_cgl_tick"><img src="images/green-tick-talkelectricianforumcouk.png" alt="IBPS Bank PO and Clerk Exam Preparation"></div>
+						<input type="radio" value="6" id="ssc_cgl_course" name="coursename" class="course-ch">				
+						<div class="cbutton-red courseImg" id="ssc_cgl">SSC CGL-1 </div>
+						</div>
+
 					</div>
 					<div class="error-message-login" id="errorcourse" style="display:none;"></div>
 					<div class="cell"> 	
-											</div>
+						
+					</div>
 					<div class="error-message-login" id="errortermsandconditons" style="display:none;"></div>
 					
                     <div class="cell" id="loginsignupcell">	
@@ -124,7 +156,8 @@
 						<button class="button-blue">Processing....</button>
 					</div>
 				</form>
-			</div><!--end of invite-modal -->	
+			</div>
+		<!--end of invite-modal -->	
 			<div class="invite-errata" id="msgbox2" style="display:none;"></div>
 			<br>
 			<div class="invite-modal">
@@ -136,11 +169,12 @@
 	<div id="mask2"></div>
 	<!-- #customize your modal window here -->
 	<div id="dialog3" class="window3">
+		
 		<!-- close button is defined as close class -->
 			<div class="invite-modal">
-				<span class="close-button"><a href="#" class="close"><img src="html/static/images/modal-close-button.png" alt="close button"></a></span>
+				<span class="close-button"><a href="#" class="close"><img src="http://studycopter.com/html/static/images/modal-close-button.png" alt="close button"></a></span>
 		  		<h1 id="forgotpassmsg">Forgot Password?</h1>
-				<form method="post" action="" name="frmforgotpass" id="frmforgotpass">
+				<form method="post" name="frmforgotpass" id="frmforgotpass">
 					<div class="cell" id="cellemail">
 						<label>Enter E-mail address that you used to register</label>
 						<input type="text" class="textbox" name="email" id="email" value="">
@@ -172,7 +206,9 @@
 						<div class="end-note"><a href="studentdashboard.php"><img src="html/static/images/icon-test-dashboard.png" alt="Back to Dashboard"> Go to Dashboard</a></div>
 					</div>	
 				</form>
-			</div>	<!-- end of invite-modal -->	
+			</div>	
+		<!-- end of invite-modal -->	
+		
 			<br>
 			<div class="invite-modal" id="belowboxmsg">
 				<p>Remember your password? <a href="#dialog" name="loginbutton">Sign in now</a></p>
@@ -181,7 +217,30 @@
 	</div>
 	<!--Do not remove div#mask, because you'll need it to fill the whole screen --> 
 	<div id="mask3"></div>
-</div>  <!-- Prompt IE 6 users to install Chrome Frame. Remove this if you support IE 6.
+</div>
+	
+<link rel="stylesheet" property="stylesheet" type="text/css" href="build/css/intlTelInput.css">
+<link rel="stylesheet" property="stylesheet" type="text/css" href="build/css/demo.css">
+
+  <!-- Load jQuery from CDN so can run demo immediately -->
+
+    <script type="text/javascript" src="build/js/intlTelInput.js"></script>
+    <script>
+      $("#mobile-number").intlTelInput({
+        //autoFormat: false,
+        //autoHideDialCode: false,
+        defaultCountry: "auto",
+        //ipinfoToken: "yolo",
+        //nationalMode: false,
+        //numberType: "MOBILE",
+        //onlyCountries: ['us', 'gb', 'ch', 'ca', 'do'],
+        //preferredCountries: ['cn', 'jp'],
+        //preventInvalidNumbers: true,
+        utilsScript: "lib/libphonenumber/build/utils.js"
+      });
+	   
+</script>
+  <!-- Prompt IE 6 users to install Chrome Frame. Remove this if you support IE 6.
        chromium.org/developers/how-tos/chrome-frame-getting-started -->
   <!--[if lt IE 7]><p class=chromeframe>Your browser is <em>ancient!</em> <a href="http://browsehappy.com/">Upgrade to a different browser</a> or <a href="http://www.google.com/chromeframe/?redirect=true">install Google Chrome Frame</a> to experience this site.</p><![endif]-->
   <div class="home-header">
@@ -190,8 +249,8 @@
 			<ul class="static-main-menu">
 				<li><a href="about.php" class="other-page">About Us</a></li>
 				<li><a href="features.php" class="other-page">Features</a></li>
-				<li><a href="gmat_prep_course_android_app.php" class="other-page">Get Android App</a></li>
-                <li><a href="gmat-prep-course-iphone-app.php" class="other-page">Get iPhone App</a></li>
+				<li><a href="test_prep_course_android_app.php" class="other-page">Get Android App</a></li>
+                <li><a href="test-prep-course-iphone-app.php" class="other-page">Get iPhone App</a></li>
 				<li><a href="#how">&nbsp; &nbsp;&nbsp;&nbsp;</a></li>
 				<li>Already have an account?</li>
 				<li><button class="button-blue" name="#dialog" id="loginbutton">Login</button></li>
@@ -204,13 +263,14 @@
  		 	<ul>
  		 		<li><a href="features.php">Features</a></li>
  		 		<li><a href="about.php">About</a></li>
-                <li><a href="gmat_prep_course_android_app.php">Get Android App</a></li>
-                <li><a href="gmat-prep-course-iphone-app.php">Get iPhone App</a></li>
- 		 		<li><a href="my-gmat-tutor.php">GMAT Tutor</a></li>
+                <li><a href="test_prep_course_android_app.php">Get Android App</a></li>
+                <li><a href="test-prep-course-iphone-app.php">Get iPhone App</a></li>
+ 		 		<li><a href="my-private-tutor.php">Private Tutor</a></li>
                 <li><a href="gmat-practice-tests.php">Adaptive Practice Tests</a></li>
                 <li><a href="jobs.php">Jobs</a></li>
  		 		<li><a href="contact.php">Contact</a></li> 				 				 				
  		 		<li><a href="faq.php">FAQ</a></li>
+                <li><a href="comprehensive-courses.php">Courses</a></li>
  		 		<li><a href="http://studycopter.com/blog/" target="_blank">Blog</a></li>
  		 	</ul>
  		 </div><!-- end of inner-sidebar -->
@@ -252,8 +312,8 @@
 		<li><a href="privacypolicy.php">Privacy Policy</a></li>
 		<li><a href="refundpolicy.php">Refund Policy</a></li>
 		<li><a href="http://studycopter.com/blog/" target="_blank">Blog</a></li>
-		<li><a href="gmat_prep_course_android_app.php" class="tooltip" title="Get Android App"><img src="images/studycopter-android-app.jpg" alt="Get Android App"></a></li>
-        <li><a href="gmat-prep-course-iphone-app.php" class="tooltip" title="Get iPhone App"><img src="images/apple-logo-website-bottom-nav-bar.png" alt="Get iPhone App"></a></li>
+		<li><a href="test_prep_course_android_app.php" class="tooltip" title="Get Android App"><img src="images/studycopter-android-app.jpg" alt="Get Android App"></a></li>
+        <li><a href="test-prep-course-iphone-app.php" class="tooltip" title="Get iPhone App"><img src="images/apple-logo-website-bottom-nav-bar.png" alt="Get iPhone App"></a></li>
 			</ul>
 	<span class="footer-signature">© 2012 Digiraatis Infotech</span>
 	</div>
