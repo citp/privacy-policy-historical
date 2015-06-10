@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fxcm.co.uk privacy policy that was archived on 2014-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141130044216id_/http%3A//www.fxcm.com/uk/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fxcm.co.uk privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610062912id_/http%3A//www.fxcm.com/uk/legal/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy, Security Info for Clients and Applicants - FXCM UK
+# Privacy Policy, Security Info for Clients and Applicants - FXCM
 
 Forex Capital Markets ("FXCM") respects each individual's right to privacy. We value our relationship with you, and we take pride in maintaining loyalty and respect with each individual client by providing you with security. The provisions of this notice apply to former clients, current clients, and applicants.
 
@@ -44,7 +44,7 @@ Under limited circumstances, FXCM may disclose your personal information to thir
 
 You are not required to supply any of the personal information that we may request; however, failure to do so may result in our being unable to open or maintain your account or to provide services to you. While we make every effort to ensure that all information we hold about you is accurate, complete, and up to date, you can help us considerably in this regard by promptly notifying us if there are any changes to your personal information.
 
-If you do not wish to have your personal information disclosed to our affiliates or other third parties as described in this Policy, please contact us via e-mail at: [compliance@fxcm.com](mailto:compliance@fxcm.com)
+If you do not wish to have your personal information disclosed to our affiliates or other third parties as described in this Policy, please contact us via email at: [compliance@fxcm.com](mailto:compliance@fxcm.com)
 
 or send your request to: 
 
