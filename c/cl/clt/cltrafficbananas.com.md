@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cltrafficbananas.com privacy policy that was archived on 2014-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141201204148id_/http%3A//cltrafficbananas.com/legal/Privacy%2520Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cltrafficbananas.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610064159id_/http%3A//cltrafficbananas.com/legal/Privacy%2520Policy.html) for the most accurate reproduction.*
 
 # No Income Claims
 
