@@ -1,115 +1,161 @@
-> *The following text is extracted and transformed from the reviversoft.com privacy policy that was archived on 2014-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141129115459id_/http%3A//www.reviversoft.com/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reviversoft.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610035438id_/http%3A//www.reviversoft.com/company/privacy) for the most accurate reproduction.*
 
 # ReviverSoft Privacy Policy
 
-Last Updated: 5/1/2014
+Review Corel's/ReviverSoft's legal and privacy notices for details on how we collect, use and protect your personal information on the website.
 
-ReviverSoft, LLC's ("ReviverSoft") privacy policy ("Privacy Policy") covers the collection and use of personal information ("Personal Information") that we may gather any time you interact with us, such as when you visit our Web site, purchase ReviverSoft products, or when you contact our customer support or sales departments. This policy describes our data privacy practices, including what type of information is gathered, how ReviverSoft uses the information, and how we safeguard your Personal Information when you submit it to us at www.reviversoft.com. At ReviverSoft, protecting your privacy is important to us. After all, online privacy and security is what we're all about. **You expressly consent to the processing of your Personal Information according to this Privacy Policy. Personal Information may be processed by ReviverSoft in the country where it was collected as well as other countries (including the United States) where laws regarding processing of Personal Data may be less stringent.**
+Your use of and access to any website or software application (Corel/ReviverSoft Property') either (i) made available to you directly or indirectly from this website; or (ii) with a direct link to this privacy policy is subject to this privacy policy. This privacy policy explains the data that we collect and how we use it. 
 
-## Why ReviverSoft Collects Personal Information
+We respect your privacy. If you have any privacy concerns or questions about this privacy policy, you can contact us by email at: [privacy@corel.com](mailto:privacy@corel.com).
 
-ReviverSoft only collects your Personal Information where it is required to provide you the best services and products available. By maintaining an accurate customer database, we are able to send notifications via e-mail to keep you informed about the status of your orders or accounts and to provide updates and technical notices. These messages are essential to the maintenance of your subscription and the functionality of our products and services.
+#### Contents
 
-## What Information We Collect
-
-ReviverSoft collects your Personal Information at a variety of points, including when you place an order, (which may require you to provide personal information, including a credit card number, to our commerce provider Cleverbridge), register software, request services or take part in other activities on our Web site. For example, we often ask for your Personal Information when you are conferring with one of our customer support technicians, downloading a new product or program update, registering your software or purchasing a product. During these interactions we will collect Personal Information relevant to your transacting with ReviverSoft, such as your name, mailing address, e-mail address, shipping address and credit card information along with information about the ReviverSoft products you own, such as the activation code or key code, date of purchase and information relating to a support issue. We use this information for billing purposes and to fill your orders. If we have trouble processing an order, we will use this information to contact you. When you register, you will be provided with an option to opt-out of receiving promotional information on our products and services. We will not use your personal information for anything other than what you have intended it for. Please be aware that if you prefer not to provide us with your Personal Information, because such information may be necessary for us to provide certain services, we may not be able to, or may choose not to, make such services available to you.
-
-ReviverSoft also assigns a unique identifier (UID) that is created using information about the hardware that is exclusive to each computer. The UID contains no personally identifiable information and is used solely for verification purposes to provide product updates, verify compliance to licensing terms, prevent fraud and prevent piracy. Apart from the registration key, version details and application settings no other information is transmitted. The UID is never distributed or shared and cannot be reverse engineered by a third-party.
-
-## Regarding Children
-
-ReviverSoft does not intentionally gather Personal Information about visitors who are under the age of 13.
-
-## Cookies and Other Technologies
-
-Following common e-commerce practices, ReviverSoft uses "cookies" and other technologies to collect non-personal data that enables us to better understand and improve the usability, performance and effectiveness of ReviverSoft's Web site, and for reporting purposes to track sales. Cookies are unique text files sent to your browser and stored on your computer. We do not store any personal information with these cookies. Use of these third party cookies by our tracking utility company or service providers is not governed by this Privacy Policy. We do not have access or control over these cookies.
-
-If you do not want ReviverSoft to send cookies to your browser, you can set your browser options to reject cookies or notify you when a Web site tries to put a cookie in your browser software. Rejecting cookies may affect your ability to use some of our Web site services.
-
-Additionally, ReviverSoft gathers general information about visits to our Web site and stores this information in log files. This information is stored in anonymous profiles and is not associated with a user's account. This information includes the number of total visits to our Web site, and which browser is used to view our Web site (including the version number). No Personal Information is contained in this data. Our current partners help us to track our website usage. No personally identifiable information is collected. ReviverSoft uses this information to understand traffic and downloads on our Web site, enabling us to improve the site, provide the best online experience possible and improve our ability to serve our customers.
-
-We use clear gifs in our HTML-based emails to let us know which emails have been opened by recipients. This allows us to gauge the effectiveness of certain communications and the effectiveness of our marketing campaigns. 
-
-ReviverSoft uses Google Analytics to collect non-personal information in the form of various usage and user metrics when you visit and use our websites. These tools and technologies collect and analyze certain types of information, including page views, how you arrived at our site and how long you have spent on our site. This information is depersonalized and is displayed as numbers, meaning it cannot be tracked back to individuals. This information is used to see what content is popular on our website, and so we can continue to give you more of the things you enjoy reading and watching.
-
-ReviverSoft uses the Google AdWords remarketing service to advertise on third party websites (including Google) to previous visitors to our site. It could mean that we advertise to previous visitors who haven’t completed a task on our site, for example visiting a product information page. This could be in the form of an advertisement on the Google search results page, or a site in the Google Display Network. Of course, any data collected will be used in accordance with our own privacy policy and Google’s privacy policy.
-
-You may opt out of the Google Adwords cookie by visiting the [Google advertising opt-out page](http://www.google.com/policies/technologies/ads/) or you may opt out of Google Analytics by visiting the [Google Analytics opt-out page](https://tools.google.com/dlpage/gaoptout).
-
-## Sharing Your Personal Information
-
-ReviverSoft is committed to protecting your privacy. ReviverSoft will not, under any circumstances, share, rent or sell your Personal Information in ways other than as outlined in this privacy policy nor does ReviverSoft trade or exchange mailing lists with any other organization. Furthermore, ReviverSoft only shares your Personal Information with our contractors that assist us in our efforts to fulfill our obligations to you, and then only with partners that commit to adhere to the same level of commitment as ReviverSoft to protect your privacy and data. We use an outside shipping company to fulfill orders containing a physical medium, such as backup CDs, a credit card processing company to bill you for goods and services, an email service provider to send out emails on our behalf and a customer support provider to supply live chat. These companies do not retain, share, store or use personal information for any other purposes.
-
-ReviverSoft maintains this information; but we reserve the right to disclose your Personal Information as required by law and when we believe that disclosure is necessary to protect our rights and/or comply with a judicial proceeding, court order, or legal process served on our Website. If you choose to use our chat forum and require assistance, and would like someone to follow-up with you, then you will be asked to provide an email address. The email address is stored in "chat logs" by a third party, but is not utilized in any way by them and remains our information.
-
-If our company or our assets are acquired by another company, that company will possess the Personal Information collected by us and it will assume the rights and obligations regarding your Personal Information as described in this Privacy Policy.
-
-## How We Communicate with You
-
-ReviverSoft has an optional e-mail service for customers who wish to periodically receive promotional information, such as general product, service and ReviverSoft news. Users can sign up for emails through one of the following processes: (1) an online Purchase; (2) registering through the full application; (3) registering through the trial application; and (4) signing up on the ReviverSoft website.
-
-Customers are provided the option to opt-out within each e-mail. If you no longer wish to receive ReviverSoft communications, you may "unsubscribe" from our mailing program at any time in the following ways:
-
-  * By clicking on the auto-unsubscribe link included in each e-mail
-  * By contacting our technical support department at support@reviversoft.com
-  * By visiting [our unsubscribe page](http://www.reviversoft.com/unsubscribe/) and completing the form.
+About us  
+Your information  
+Tracking and Cookies  
+Email  
+Which organizations collect the information  
+Advertising  
+Security  
+Children  
+Changing your preferences  
+Other disclosures  
+Overseas transfers  
+Your consent  
+Your rights  
 
 
+**_ABOUT US AND THIS POLICY_**
 
-We will then update our database and take reasonable measures so that no further promotional correspondence should be sent to the e-mail address. You may, however, still receive transactional messages.
+All references to "we", "us" or "our" refer to (1) Corel Corporation and/or one or more of its corporate affiliates. 
 
-## Transactional Messages
+This policy gives you the details of who we are and the details of our privacy policies, including: what data we collect about you when you use Corel/ReviverSoft Property; what organization is collecting the information; how the information will be used or disclosed; what choices are available to you regarding collection and use of the data; what security measures are in place to protect your personal information; and how you can correct any inaccuracies in the information.
 
-ReviverSoft sends required notifications via e-mail to keep you informed of the status of your orders or accounts and to provide updates and technical notices. This service is used for messages that are important for the maintenance of your subscription and the functionality of our services. When you purchase or register a product online, we require an e-mail address for completion of the transaction, which we will use for these communications. In order to stop receiving these notifications, please contact our technical support team at support@reviversoft.com. You will be opted out of further communications within 10 business days.
+This policy may be amended from time to time without notice and it is your responsibility to read it carefully and review any changes that may have been made. Since changes will be posted on this page, we encourage you to check this page regularly. 
 
-## Ways to Update Your Personal Information
+For all users in locations other than in Europe, this policy, the processing of your online account data and any other data we collect shall be governed by the laws of the State of California and shall be subject to the exclusive jurisdiction of the courts in Santa Clara, California. For all users located in Europe, this policy, the processing of your online account data and any other data we collect is subject to any mandatory laws in the country in which the user resides.
 
-ReviverSoft carefully maintains our customer database in an effort to keep your Personal Information accurate for the purposes for which it is used. It is your right to be able to update your Personal Information as needed. You can correct out-of-date information, update information, remove information, delete your Personal Information or review any information previously provided to ReviverSoft by visiting www.revisersoft.com/myaccount/ or by contacting our support department at support@reviversoft.com. Changes will be implemented within 10 business days. Please note, however, that we may retain certain information relating to software licensing and your information may also be retained in our archives and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. When contacting customer service, we will verify your identification through the use of security questions before sharing any Personal Information as it appears in our customer database.
+Back to top
 
-## ReviverSoft's Commitment to Data Security
+**_YOUR INFORMATION: WHAT WE COLLECT, HOW WE COLLECT IT, AND HOW IT IS USED_**
 
-ReviverSoft has security measures in place, such as the following, to protect against the loss, misuse and alteration of your Personal Information in our customer database. Personal Information provided to ReviverSoft is stored in secure facilities with access restricted to authorized personnel only. We have put in place a series of access-control procedures required for retrieval of personal information. The ReviverSoft Web site is regularly tested for security breaches to protect against unauthorized viewing of Personal Information.
+In common with most other websites and on-line services, we collect certain data about your visit to the Corel/ReviverSoft Properties. Any data we gather through your use of Corel/ReviverSoft Property falls into three categories: (1) personal information that you supply to us, such as information you provide when you register (including your e-mail address), create an account, create a user name, complete a survey, enter a contest, or purchase products or services; (2) information that is collected as you use Corel/ReviverSoft Property that becomes identified with your personal information; and (3) information that does not directly identify you and is collected as you use Corel/ReviverSoft Property, including your IP address, and information gathered with the use of a "cookie" (cookies are discussed further below), and information related to searches or recommendations on Corel/ReviverSoft Property. Such information collected includes, without limitation, which pages and content are browsed, interactions with advertising and content, and other data related to preferences and usage. We use this information to better provide products and services, including, without limitation, to better target advertising and content, and to generate statistics and reports.
 
-To provide secure credit card processing when ordering, orders placed on our Web site are processed through a payment gateway which operates under its own privacy policy.
+You may use certain Corel/ReviverSoft Property without registering or creating an account. We may nonetheless build a history of your interactions with the Corel/ReviverSoft Property even though we don't know who you are.In respect of certain Corel/ReviverSoft Properties which are products, Corel/ReviverSoft may also employ update management software to collect installation and registry information from your computer, including product, version, build, language and original equipment manufacturer. Where you use multiple Corel/ReviverSoft Properties, Corel/ReviverSoft may combine or link information collected from various Corel/ReviverSoft Properties and use it for the purposes outlined in this privacy policy.
 
-ReviverSoft DOES NOT store credit card information. ReviverSoft does not handle financial transactions via the Web, so it has no need for streaming encryption products. ReviverSoft works with a third party to serve as a trusted intermediary to handle e-commerce transactions with our customers. Our commerce partner handles e-commerce on a secure server which encrypts all of our customers' personal information. To learn more about how our commerce partners manages the privacy of information in conjunction with these e-commerce transactions, please see their complete Privacy Policy located on our co-branded purchase pages. If at any time you would like to make a purchase, but do not want to provide your credit card information online, you may contact a support representative at sales@reviversoft.com.
+**Personal information**  
+As is common across websites, to use certain features of Corel/ReviverSoft Property we ask you to register, create an account, provide your full name and email address and create a password. Once you have created an account, you will have the option to fill out a form (all or portions of which may be included in your profile).  When you create your profile, we collect personal information about you, such as name, address, location, e-mail address, favourite actors, music, etc. which will be stored in order to provide services to you and to conduct activities including, without limitation, using it to process your registration, maintain a profile about you, process your request to receive newsletters and email announcements, or to voluntarily participate in surveys or contests and/or to communicate with you about services and products we think may be of interest to you. 
 
-Although we make good faith efforts to store the Personal Information we collect in a secure operating environment that is not accessible to unauthorized users, we cannot guarantee complete security.
+Corel/ReviverSoft may allow you to set up profiles that may be viewed by other users of the Corel/ReviverSoft Properties. To enrich your profile you may chose to include some personal information in your public profile so that other users can identify you. You should only include information in your public profile that you do not mind making publicly available without restriction. 
 
-## Links to other sites
+To process your purchase orders we require your name, billing address, phone number, email address, shipping address, credit card information and credit card security codes. We use this information to process your order and, if any questions arise, to contact you about your order. We may also use it to contact you about other products and services we feel may be of interest to you. In general Corel/ReviverSoft will try to email you first but may phone or send an electronic message to you if you have provided these details and you consent to our so doing. 
 
-Our Site and Software includes links to other Web sites whose privacy practices may differ from those of ReviverSoft, LLC. If you submit personal information to any of those sites, your information is governed by their privacy statements. We encourage you to carefully read the privacy statement of any Web site you visit.
+In respect of 'ReviverSoft' branded Corel/ReviverSoft Property, registering your product indicates that you have informed us of your interest in receiving offers and information from us and from third parties and we will contact you after registration unless you specify that you do not wish to receive such contact by notifying us at [privacy@corel.com](mailto:privacy@corel.com). For those who elect to receive such materials from third parties, Corel/ReviverSoft may release personal information to those third parties. Information released may include your name, email address and other information supplied in the Corel/ReviverSoft registration process.
 
-## Social Media Widgets
+Personal information is also used to provide personalised services to you, such as show tracking and recommendations.
 
-Our Web site includes Social Media Features, such as the Facebook Like button. These feature may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it.
+Back to top
 
-## Public forums
+**_TRACKING INFORMATION - COOKIES, FLASH COOKIES , CLEAR GIFS, AND IP ADDRESSES_**
 
-Our Web site offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, contact us at support@reviversoft.com. In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
+We store and track user information by using "cookies" and clear GIFs, which are also sometimes called web bugs or web beacons. Cookies alone do not tell us your e-mail address or other personal information. However, information provided through cookies may be associated with personal information if you provide this information to us by, for example, registering to use certain Corel/ReviverSoft Properties. A cookie is data sent to your browser from a web server. It is stored on your computer and contains a unique identifier that allows our sites to recognize your computer. If you have an account with Corel/ReviverSoft , a cookie on your computer lets us remember your user name and password so you don't have to re-enter that information each time you visit the site. Another cookie is a Flash cookie that is embedded in the Adobe Flash Player, which is a web tool that allows rapid development of dynamic content. Adobe Flash cookies may be used in certain situations where we use Flash to provide some content such as video clips or animation and to remember settings, preferences and usage. They are similar to 'browser' cookies (as described above) but are managed through a different interface than the one provided by your web browser.
 
-## Acceptance of this Privacy Policy
+The use of cookies is standard on the Internet and you will find they are currently used by many major websites. You can set your web browser preferences to alert you when a cookie is sent to your hard drive, or to refuse cookies altogether. We do not require you to use cookies, but please keep in mind that certain features and services will not function properly if you set your browser to refuse cookies.
 
-By using the Web site or any services provided through the Web site, you expressly consent to the use and disclosure of information as described in this Privacy Policy.
+"Clear GIFs" are very small image files that we sometimes place on web pages and within web-based email newsletters or other communication we send. Clear GIFs let us accurately count the number of users who have visited specific pages and the number of times those pages are accessed. Clear GIFs also let us know how many people opened an email. 
 
-## Privacy Policy Revisions and Notifications
+We may use cookies, clear GIFs and related tracking technology to collect information such as your browser type, the type of operating system you use, the domain name of your Internet service provider, IP address, pages visited on the site, services used and how you have used them. 
 
-If we decide to change our privacy policy, we will post those changes to this privacy policy, the home page, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+We may provide data about our users, traffic patterns, products, services and site information to third-parties (such as vendors, advertisers and our business partners), but we will use reasonable efforts to provide it in a form that does not directly identify you.
 
-We reserve the right to modify this privacy policy at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, and by means of a prominent notice on our home page, posted 30 calendar days prior to implementing the change.
+Find out how to disable/enable browser cookies by clicking on the "Manage Cookies" section of the Interactive Advertising Bureau website on the following link <http://www.allaboutcookies.org/>. You may access and manage Flash management tools such as flash cookies from Adobe's web site directly at <http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager06.html>.
 
-## ReviverSoft Contact Information
+Back to top
 
-For sales questions: sales@reviversoft.com  
-For technical support: http://www.reviversoft.com/support/  
-Send all other correspondence to:
+**_EMAIL_**
 
-ReviverSoft LLC  
-1875 Olympic Blvd., Suite 202.  
-Walnut Creek, CA 94596.  
-USA  
-[www.reviversoft.com](http://www.reviversoft.com/) | [Contact Us](mailto:suggestions@reviversoft.com?subject=Suggestions)  
-Copyright 2012 ReviverSoft LLC  
-All Rights Reserved 
+Email addresses are used for identification, inviting new friends to Corel/ReviverSoft Properties, searching for and finding friends, general communication, order processing and to send notifications to you. To facilitate searching for and finding friends on the Corel/ReviverSoft Properties, Corel/ReviverSoft allows users to search for other members using text searches, first and last name, email address, and by using other attributes. Users can invite friends to join certain Corel/ReviverSoft Properties by sending invitation emails via our automated invitation system. Where permitted by applicable law, Corel/ReviverSoft stores these email addresses so that the respondents may be added to the friend list of the member sending the invitations and to establish relationships between users. 
 
-We use clear gifs in our HTML-based emails to let us know which emails have been opened by recipients. This allows us to gauge the effectiveness of certain communications and the effectiveness of our marketing campaigns. 
+Back to top
+
+**_WHICH ORGANIZATIONS ARE COLLECTING THE INFORMATION?_**
+
+When you provide information to Corel/ReviverSoft , that information is collected and maintained either by Corel/ReviverSoft or by an authorized agent or contractor of Corel/ReviverSoft such as web hosting companies, customer care service providers, and transaction processing service providers, unless specifically stated otherwise at the point of collection.
+
+Back to top
+
+**_ADVERTISING_**
+
+We may use your personal information and non-personal information to serve ads to you via Corel/ReviverSoft Property as well as to provide you with promotions, products and services. We may also use third-party advertising companies and other business partners to serve ads on Corel/ReviverSoft Property and provide you with promotions, products and services. These third-party advertising companies and our business partners may be located throughout the world. 
+
+These third-party advertising companies and business partners may receive information relating to the advertisements that they serve you including, without limitation, date and time of ad shown, the banner ad that was shown and your IP address and your interactions with such advertisements. These third-party advertising companies and business partners may use cookies, clear GIFs and anonymous information about your visits to Corel/ReviverSoft Property and other websites to measure and improve the effectiveness of their ads, promotions, products and services. This information may also be used for online preference and other targeted marketing purposes. The information received by these third-party advertising companies and business partners is subject to the privacy policies of these third-party advertising companies and business partners. We may be given access to this information by these third-party advertising companies and business partners which we may use for purposes including, without limitation, to better target advertising and content to you and to generate statistics and reports that help us develop our products and services.
+
+With your consent (as indicated when you set up your account) we may make certain information about you (including personal information, where you consent) available to third-party advertising companies and other business partners under agreements between us and those third-party advertising companies and business partners. The third-party advertising companies and business partners will use that information to target advertising to you or provide and market promotions, products and services to you. You may withdraw your consent to our providing your personal information to advertising companies and business partners at any time by adjusting your preferences in the preference page of the relevant Corel/ReviverSoft Property. If you do so we will not provide your personal information from the relevant Corel/ReviverSoft Property to third party advertisers or business partners from the time you opt out. However where permitted by applicable law, we may still provide them with information that does not directly identify you from which they may send you targeted advertisements.
+
+Many of our advertising partners are part of the Network Advertising Initiative. You may opt-out of behavioural advertising for Network Advertising Initiative member companies by following the link below and opting-out of all or some of the advertising networks: <http://www.networkadvertising.org/managing/opt_out.asp>
+
+Opting out of Flash Cookies is described above in the Advertising section.
+
+Back to top
+
+**_SECURITY_**
+
+We use commercially reasonable efforts to safeguard the confidentiality of your personal information. However, due to the design of the Internet, ever-changing technology and other factors outside of our control, we cannot guarantee that communications between you and our servers will be free from unauthorized access by third parties. We will have no liability for disclosure of personal information due to errors in transmission or unauthorized or unlawful acts of third parties. 
+
+You are responsible for the security of your Corel/ReviverSoft user name, ID and password. Please take care when using and storing them.
+
+Back to top
+
+**_COMMITMENT TO CHILDRENS' PRIVACY_**
+
+Protecting the privacy of children is important to us. For that reason, none of our Corel/ReviverSoft Properties are directed at anyone under 13 and they are not structured specifically to attract anyone under 13.  We also do not collect or maintain personal information from those users who we actually know are under 13. Should we learn or be notified that we have collected information from users under the age of 13, we will immediately delete such personal information.
+
+Back to top
+
+**_CHANGING YOUR PERSONAL INFORMATION & PREFERENCES_**
+
+**Your Right to Choose**  
+When you register to access certain Corel/ReviverSoft Properties, you can let us know that you do not wish to receive announcements from us by opting out at the time you give us your personal information. You may also later opt out of providing us personal identifiable information by changing your preferences in the set up areas of the Corel/ReviverSoft Properties or changing the necessary settings in your profile. For certain Corel/ReviverSoft Properties opting out may only be possible if you delete your account for that Corel/ReviverSoft Property. If you opt out or do not provide your personal information then some services and features (such as personal information services, recommendations and tracking of ratings and likes and dislikes) may not be available to you or may be deleted. All newsletters and email announcements from us will contain an unsubscribe link that also allows you to opt out at any time from these messages.
+
+**Review and Correction**  
+You may review and update the personal information that you have provided us by visiting the relevant set up page of the Corel/ReviverSoft Property and updating your account profile.
+
+Back to top
+
+**_OTHER DISCLOSURE OF PERSONAL INFORMATION_**
+
+We will not otherwise use or disclose your personal information without your consent except (i) as described in this privacy policy, (ii) as required by court order or other government or law enforcement authorities in order to comply with legal process or law, (iii) in the event of a merger where another company has acquired the relevant Corel/ReviverSoft Property, (iv) in order to protect against the misuse or unauthorized use of Corel/ReviverSoft Property, (v) in order to protect and defend our rights and property, or (vi) in order to protect the personal safety or property of our users or the public.
+
+If Corel/ReviverSoft sells assets (or the assets of a division or subsidiary) to another entity, including, without limitation, in the event of bankruptcy, or if Corel/ReviverSoft (or a division or subsidiary) is acquired by, or merged with, another entity, Corel/ReviverSoft may provide to such entity user information (both anonymised and/or aggregate and personal information) that is related to that part of the business that was sold to or merged with the other entity.
+
+**Links to Third Party Websites**  
+Corel/ReviverSoft Properties may display links to websites operated by third parties. If you click on a link, the relevant third party operator or others may collect data about you when you visit the linked website. They are responsible for the collection and further processing of such data and we have no control over it. We advise you to check the terms of use and privacy policies of any linked websites you visit to find out what data they are collecting and the purposes for which they process your personal data.
+
+Back to top
+
+**_OVERSEAS TRANSFERS AND PROCESSING OF YOUR INFORMATION_**
+
+Your personal information may be used by us and our affiliates, subsidiaries and our suppliers who may be located in countries outside the country where you are located or the purposes outlined in this policy to manage Corel/ReviverSoft 's global business. The data protection laws in these countries may not offer the same level of protection as those in the country where you are located. By providing your personal information to us you understand and expressly consent to us and our suppliers processing your data in any jurisdiction, including without limitation the United States of America, in accordance with this privacy policy.
+
+Back to top
+
+**_YOUR CONSENT_**
+
+**BY USING ANY COREL/ReviverSoft PROPERTIES, YOU ARE CONSENTING TO THE COLLECTION AND USE OF YOUR INFORMATION DESCRIBED IN THIS PRIVACY POLICY AND YOU ACCEPT AND AGREE TO THIS PRIVACY POLICY.**
+
+Back to top
+
+**_YOUR RIGHTS_**
+
+Your European Privacy Rights. If you are located in Europe, some of the data that we process may be protected by data protection laws such as, in the United Kingdom, the Data Protection Act 1998 (the "Act"). Under the Act, you have certain rights to request information about, get access to or request the amendment of any such personal data. If you wish to exercise these rights, please contact us at [privacy@corel.com](mailto:privacy@corel.com). Please see the UK Information Commissioner's Office website at: <http://www.ico.gov.uk/> for further details.
+
+Your California Privacy Rights. If you are a resident of the State of California, we provide you in this Privacy Policy with information on how to exercise your disclosure choice options such as your right to opt-out (or "unsubscribe") of our use and sharing of your Personal Information for marketing purposes. Therefore, pursuant to the California Civil Code, we are not required to maintain or disclose a list of the third parties that received your Personal Information for marketing purposes during the preceding year. 
+
+If you are a California resident and wish to request information about how to exercise your third party disclosure choices, please send a request by email to our Privacy Administrator at [privacy@corel.com](mailto:privacy@corel.com). All requests must be labelled "Your California Privacy Rights" in the email subject line. For all requests, please clearly state that the request is related to "Your California Privacy Rights", include your name, street address, city, state, zip code and e-mail address (your street address is optional if you wish to receive a response to your request via email) and indicate your preference on how our response to your request should be sent (email or postal mail). We are unable to accept requests via the telephone or by facsimile. We are not responsible for notices that are not labelled or sent properly, or do not have complete information.
+
+Back to top
+
+**Inquiries**  
+If you have any concern about privacy at Corel/ReviverSoft , please send us a thorough description of your concern to [privacy@corel.com](mailto:privacy@corel.com) or the address above, and we will try to resolve it.
+
+This privacy policy was last updated on: February 2012.
