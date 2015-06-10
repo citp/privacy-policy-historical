@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the couchbase.com privacy policy that was archived on 2014-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141026102337id_/http%3A//www.couchbase.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the couchbase.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610024918id_/http%3A//www.couchbase.com/privacy-policy) for the most accurate reproduction.*
 
-# Couchbase Website Privacy Policy
+# Couchbase
 
-Couchbase, Inc. owns and operates the Couchbase website. Please read the following to learn more about our privacy policy. You may also want to review our [Terms of Service](https://web.archive.org/terms-of-service "Terms of Service").
+Couchbase, Inc. owns and operates the Couchbase website. Please read the following to learn more about our privacy policy. You may also want to review our [Terms of Service](https://web.archive.org/docs/common/terms-of-service.html "Terms of Service").
 
 **Privacy Policy Scope**  
 This policy covers how Couchbase treats information about you that Couchbase collects and receives, including information related to your use of Couchbase products and services. This policy does not apply to the practices of companies that Couchbase does not own or control, or to people that Couchbase does not employ or manage. In addition, certain Couchbase partners may have their own privacy policies and statements.
