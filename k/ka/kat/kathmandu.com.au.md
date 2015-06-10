@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kathmandu.com.au privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123000935id_/http%3A//www.kathmandu.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kathmandu.com.au privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611013812id_/http%3A//www.kathmandu.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -60,7 +60,7 @@ In this policy ‘we’, ‘us’, ‘our’ and ‘Kathmandu’ refers to (and 
 
 If you have any questions regarding Kathmandu’s Privacy Policy, please call Customer Service in Australia on 1800 333 484, New Zealand on 0800 001 234, United Kingdom on 0800 066 5018, or email us at [privacy@kathmandu.co.nz](mailto:privacy@kathmandu.co.nz). If you would like Kathmandu to send you a copy of this policy, please contact us and we will do so.
 
-By visiting our websites and/or providing your personal information to us, you consent to the terms and conditions in this Privacy Policy, unless you tell us to the contrary by contacting our [Privacy Contact Officer](http://www.virginaustralia.com/about-us/legal-policies/privacy/#privacy_officer).
+By visiting our websites and/or providing your personal information to us, you consent to the terms and conditions in this Privacy Policy, unless you tell us to the contrary by contacting our [Privacy Contact Officer](mailto:privacy@kathmandu.co.nz).
 
 This privacy policy is effective from March 2014.  From time to time, our privacy policies and procedures will be reviewed and, if appropriate, updated.  If any changes are made to this policy, these will be posted on our websites.
 
