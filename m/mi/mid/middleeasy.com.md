@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the middleeasy.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120060701id_/http%3A//www.middleeasy.com/index.php/gaming/item/3269) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the middleeasy.com privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611003559id_/http%3A//www.middleeasy.com/index.php/gaming/item/3269) for the most accurate reproduction.*
 
 # MiddleEasy.com Privacy Policy
 
