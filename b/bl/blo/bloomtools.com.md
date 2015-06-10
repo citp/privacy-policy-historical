@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bloomtools.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122010828id_/http%3A//www.bloomtools.com/index.php%3Fid%3D1000609) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bloomtools.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610131858id_/http%3A//www.bloomtools.com/index.php%3Fid%3D1000609) for the most accurate reproduction.*
 
 # Bloomtools Privacy Policy for clients
 
@@ -29,7 +29,7 @@ Bloomtools also will not, except for reasons stated below, disclose to third par
 
 
 
-## Contact Information
+##  Contact Information
 
 To find out more information, you can email Bloomtools through the [contact us](https://web.archive.org/index.php?id=1000356) form, or you can mail:
 
