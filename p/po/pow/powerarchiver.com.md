@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the powerarchiver.com privacy policy that was archived on 2014-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141128170022id_/http%3A//www.powerarchiver.com/powerarchiver-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the powerarchiver.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610080427id_/http%3A//www.powerarchiver.com/powerarchiver-privacy) for the most accurate reproduction.*
 
-# PowerArchiver – Privacy Policy | PowerArchiver – ZIP for Windows
+# PowerArchiver - Privacy Policy | PowerArchiver - ZIP, RAR, ISO for Windows
 
 ## ConeXware Privacy Policy
 
@@ -73,3 +73,7 @@ Protecting your privacy online is an evolving area, and ConeXware is committed t
 ## U.S.-EU Safe Harbor Framework
 
 ConeXware complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. The company has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view the company’s certification, please visit [http://www.export.gov/safeharbor/](http://www.export.gov/safeharbor)
+
+## PowerArchiver End-User Licensing Agreement (EULA)
+
+For full PowerArchiver End-User Licensing Agreement (EULA), please visit [our Wiki page](http://www.powerarchiver.com/wiki/en:help:additional_information:license). If you have any questions or need more information about our end-user licensing agreement, please [contact us](https://web.archive.org/?page_id=77).
