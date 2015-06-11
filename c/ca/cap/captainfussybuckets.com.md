@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the captainfussybuckets.com privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227165215id_/http%3A//www.captainfussybuckets.com/disclosure-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the captainfussybuckets.com privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611102158id_/http%3A//www.captainfussybuckets.com/disclosure-privacy-policy) for the most accurate reproduction.*
 
 # Disclosure Policy - Life with Captain Fussybuckets
 
@@ -38,7 +38,7 @@ How we use collected information
 
 Life With Captain Fussybuckets may collect and use Users personal information for the following purposes:
 
-\- To improve customer service  
+– To improve customer service  
     Information you provide helps us respond to your customer service requests and support needs more efficiently.  
 – To personalize user experience  
     We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.  
@@ -93,4 +93,4 @@ The following two tabs change content below.
 
 
 
-Gena is the mom of three boys, ages 5, 3, and brand new! She is the wife of a great man, a Christian, blogger, and former kindergarten teacher turned stay-at-home mom. They live in the Dallas/ Ft. Worth, Texas area.
+Gena is the mom of three boys, ages 6, 4, and feisty toddler. She is the wife of a great man, a Christian, blogger, and former kindergarten teacher turned stay-at-home mom. They live in the Dallas/ Ft. Worth, Texas area.
