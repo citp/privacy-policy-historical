@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indianmoney.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120170411id_/http%3A//indianmoney.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indianmoney.com privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611080634id_/http%3A//www.indianmoney.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - IndianMoney.com is India's Only On-Call Money Advisor, It provides Free Financial Advice on Phone
 
