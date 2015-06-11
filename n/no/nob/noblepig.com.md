@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the noblepig.com privacy policy that was archived on 2014-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141125092935id_/http%3A//noblepig.com/press/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the noblepig.com privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611103224id_/http%3A//noblepig.com/press/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Noble Pig
 
