@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thetiebar.com privacy policy that was archived on 2014-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141221064745id_/http%3A//www.thetiebar.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thetiebar.com privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611183211id_/http%3A//www.thetiebar.com/privacy) for the most accurate reproduction.*
 
 # The Tie Bar - Privacy Policy
 
@@ -176,12 +176,13 @@ If you have any questions or comments about this Privacy Notice, or if you would
 
 ### **Referral Program**
 
-Referred friend must make their first The Tie Bar purchase through the unique referral link you share, and order $25 USD or more (excluding any taxes, shipping or other fees). If items are returned, you will not receive referral credit. You will be emailed about your referral credit(s), which will appear in your account 30 days after the qualifying purchase is made. Your referral credit(s) are for one-time use, non-refundable, non-transferable, may not be redeemed for cash, and may not be used towards e-Gift Certificate purchases.
+Referred friend must make their first The Tie Bar purchase through the unique referral link you share, and order $25 USD or more (excluding any taxes, shipping or other fees). If items are returned, you will not receive referral credit. Both parties will be emailed about referral credit(s) 30 days after the qualifying purchase is made. Your referral credit(s) are for one-time use, non-refundable, non-transferable, may not be redeemed for cash, and may not be used towards Gift Card purchases.
 
-**       The Tie Bar.com**  
-**      **123 Ambassador Drive #Unit 123  
-**    ****    **Naperville IL 60564  
-**    ****    **Phone 877-888-TIES  
-[**    ****    **info@thetiebar.com](mailto:info@thetiebar.com)
+   **The Tie Bar**  
+  224 North Desplaines,  
+  Suite 200  
+  Chicago IL 60661  
+  Phone 877-888-TIES  
+  [info@thetiebar.com](mailto:info@thetiebar.com)
 
 Privacy Policy last updated as of November 06, 2014.
