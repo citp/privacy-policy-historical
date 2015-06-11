@@ -1,43 +1,51 @@
-> *The following text is extracted and transformed from the greekmythology.com privacy policy that was archived on 2003-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031207125626id_/http%3A//www.greekmythology.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greekmythology.com privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611140957id_/http%3A//www.greekmythology.com/about/%23privacypolicy) for the most accurate reproduction.*
 
-# Privacy Statement for GreekMythology.
+# About | Contact | Disclaimer | Privacy Policy
 
-**Privacy Statement for GreekMythology.com**
+### About GreekMythology.com
 
-GreekMythology.com has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site: GreekMythology.com
+GreekMythology.comTM is the Internet's very first Greek Mythology website, launched in [1997](https://web.archive.org/web/19981111190525/http://www.greekmythology.com/).
 
-**Information Automatically Logged**
+### Contact GreekMythology.com
 
-We only use your IP address to help diagnose problems with our server and to administer our Web site.
+You can contact GreekMythology.com via:
 
-**Third Party Advertising**
+\- Email at info@greekmythology.com
 
-We use DoubleClick and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please [click here](http://www.networkadvertising.org/optout_nonppii.asp).
+### Disclaimer
 
-**Third Party Cookies**
+The information contained in this website is for general information purposes only. The information is provided by GreekMythology.com and while we endeavour to keep the information up to date and correct, we make no representations or warranties of any kind, express or implied, about the completeness, accuracy, reliability, suitability or availability with respect to the website or the information, products, services, or related graphics contained on the website for any purpose. Any reliance you place on such information is therefore strictly at your own risk.
 
-In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser.
+In no event will we be liable for any loss or damage including without limitation, indirect or consequential loss or damage, or any loss or damage whatsoever arising from loss of data or profits arising out of, or in connection with, the use of this website.
 
-**Personal Information**
+Through this website you are able to link to other websites which are not under the control of GreekMythology.com. We have no control over the nature, content and availability of those sites. The inclusion of any links does not necessarily imply a recommendation or endorse the views expressed within them.
 
-This Web site does not request any personal information or collect any information that personally identifies you. We only collect email addresses of those visitors of the site that request to be included in our Mailing List about Greek Mythology. We personally contact those visitors strictly only about subjects related to our Mailing List about Greek Mythology
+Every effort is made to keep the website up and running smoothly. However, GreekMythology.com takes no responsibility for, and will not be liable for, the website being temporarily unavailable due to technical issues beyond our control.
 
-We do not share any personal information with any third parties nor do we use any personal information for any purposes.
+Any e-book excerpts on this website are in the public domain.  
+Any pictures with © under them are © their respective owners and used under permission from the owner and/or DeviantArt, Inc.  
+All other content is produced by GreekMythology.com editors & copyrighted by GreekMythology.com 
 
-**External Links**
+### Privacy Policy
 
-This site contains links to other sites. GreekMythology.com is not responsible for the privacy practices or the content of such Web sites.
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at info@greekmythology.com.
 
-**Public Forums**
+At GreekMythology.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by GreekMythology.com and how it is used.
 
-This site intends to make chat rooms, forums, message boards, and/or news groups available to its users shortly. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information.
+Log Files
 
-**Security**
+Like many other Web sites, GreekMythology.com makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
 
-This site has security measures in place to protect the loss, misuse, and alteration of the information under our control.
+Cookies and Web Beacons
 
-**Contacting the Web Site**
+GreekMythology.com does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser.
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact:
+Some of our advertising partners may use cookies and web beacons on our site.
 
-privacy@GreekMythology.com
+These third-party ad servers or ad networks use technology to the advertisements and links that appear on GreekMythology.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
+
+GreekMythology.com has no access to or control over these cookies that are used by third-party advertisers.
+
+You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. GreekMythology.com's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
+
+If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites.
