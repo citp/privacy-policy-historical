@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the weblyest.com privacy policy that was archived on 2014-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141205210515id_/http%3A//www.weblyest.com/pages/content/8) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weblyest.com privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611032423id_/http%3A//www.weblyest.com/pages/content/8) for the most accurate reproduction.*
 
 # Weblyest - Privacy Policy
 
