@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the oversixty.com.au privacy policy that was archived on 2014-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141212165918id_/http%3A//oversixty.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oversixty.com.au privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611183843id_/http%3A//www.oversixty.com.au/privacy) for the most accurate reproduction.*
 
 # Privacy | OverSixty
-
-PRIVACY POLICY - Last Updated on 27 June 2014
 
 Summary
 
