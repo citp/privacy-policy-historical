@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ahalife.com privacy policy that was archived on 2014-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141221062635id_/http%3A//www.ahalife.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ahalife.com privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611095531id_/http%3A//www.ahalife.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | AHAlife
 
