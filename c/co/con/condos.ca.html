@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the condos.ca privacy policy that was archived on 2014-12-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141219073622id_/http%3A//condos.ca/info/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the condos.ca privacy policy that was archived on 2015-06-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150611190343id_/http%3A//condos.ca/info/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml" xml:lang="en" lang="en" dir="ltr"><head>
 	<meta charset="utf-8">
@@ -13,9 +13,9 @@
 			<link href="/application/css.php?request=application/themes/responsivetheme/theme.css" media="screen" rel="stylesheet" type="text/css">
 <link href="/favicon.ico" rel="favicon" type="image/x-icon">
 	
-					<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/utility/tasks?notrigger=1&amp;pid=2068620661&amp;mode=js"></script>	<!--<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+						<!--<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
 	<script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.10.4/jquery-ui.min.js"></script>-->
-	<script type="text/javascript">
+	<script type="text/javascript" async="" src="https://d31qbv1cthcecs.cloudfront.net/atrk.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
 		var _gaq = _gaq || [];
 		_gaq.push(['_setAccount', 'UA-26054041-1']);
 		_gaq.push(['_setDomainName', 'condos.ca']);
@@ -59,7 +59,7 @@
 						<li><a href="toronto/king-west">King West</a></li>
 						<li><a href="toronto/queen-west">Queen West</a></li>
 						<li><a href="toronto/the-core">The Core</a></li>
-						<li><a href="toronto/city-place">City Place</a></li>
+						<li><a href="toronto/cityplace">CityPlace</a></li>
 			   			<li><a href="toronto/yorkville">Yorkville</a></li>
 						<li><a href="toronto/distillery-district">Distillery District</a></li>
 						<li><a href="toronto/bay-st-corridor">Bay St Corridor</a></li>
@@ -209,7 +209,7 @@
 				<li><i class="instagram"></i><a href="http://instagram.com/condosdotca" target="_blank" title="Check out our Condos.ca Instagram Page">Instagram</a></li>
 			</ul>
 		</li>
-							<li class="user_login"><a>Log in/Sign up</a>	<!-- login bar form -->
+							<li class="user_login"><a>Login / Sign up</a>	<!-- login bar form -->
 					<ul id="menu-login-form-ul">
 						<form onsubmit="return login()" id="login_form" method="post" enctype="application/x-www-form-urlencoded">
 							<table>
@@ -224,6 +224,12 @@
 								</tr>
 								<tr>
 									<td><input id="password" type="password" name="password" required=""></td>
+								</tr>
+								<tr>
+									<td>
+										<input id="remember" type="checkbox" value="1" name="remember">
+										<label class="optional" for="remember">Remember me</label>
+									</td>
 								</tr>
 								<tr>
 									<td>
@@ -277,9 +283,14 @@ function login (){
 			else document.getElementById("login_error").innerHTML=responseText;
 		}
 	}
+	if($("#remember").is(':checked'))
+		var rem = 1;
+	else
+		var rem = 0;
+	
 	xmlhttp.open("POST","ajaxlogin",true);
 	xmlhttp.setRequestHeader("Content-type","application/x-www-form-urlencoded");
-	xmlhttp.send("email="+document.getElementById("email").value+"&password="+document.getElementById("password").value);
+	xmlhttp.send("email="+document.getElementById("email").value+"&password="+document.getElementById("password").value+"&remember="+rem);
 	return false;
 }
 </script>
@@ -409,10 +420,17 @@ function login (){
 	<ul class="footer-head"><li><a href="/condominiums">Condo guide</a><span class="footer-menu-separator">&nbsp;/&nbsp;</span></li><li><a href="/info/terms">Terms of Use</a><span class="footer-menu-separator">&nbsp;/&nbsp;</span></li><li><a href="/info/privacy">Privacy Policy</a><span class="footer-menu-separator">&nbsp;/&nbsp;</span></li><li><a href="/sitemap">Site Map</a><span class="footer-menu-separator">&nbsp;/&nbsp;</span></li><li><a href="/info/contact">Contact</a><span class="footer-menu-separator">&nbsp;/&nbsp;</span></li><li><a href="pages/careers">Careers</a></li></ul>	<div class="clear">
 	</div>
 	<div id="copyright">
-		Copyright © 2014 Condos.ca All rights reserved.
+		Copyright © 2015 Condos.ca All rights reserved.
 	</div>
 </div>
-<div class="clear"></div></div>
+<div class="clear"></div>
+<!-- Start Alexa Certify Javascript -->
+<script type="text/javascript">
+_atrk_opts = { atrk_acct:"Sm9Zh1aon800MT", domain:"condos.ca",dynamic: true};
+(function() { var as = document.createElement('script'); as.type = 'text/javascript'; as.async = true; as.src = "https://d31qbv1cthcecs.cloudfront.net/atrk.js"; var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(as, s); })();
+</script>
+<noscript><img src="https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=Sm9Zh1aon800MT" style="display:none" height="1" width="1" alt="" /></noscript>
+<!-- End Alexa Certify Javascript -->  </div>
 </div>
 </div>
 	</div>
