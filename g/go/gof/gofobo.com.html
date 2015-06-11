@@ -1,725 +1,233 @@
-<!--The following is the downloaded HTML source of the gofobo.com privacy policy that was archived on 2014-10-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141024045542id_/http%3A//www.gofobo.com/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the gofobo.com privacy policy that was archived on 2015-06-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150611203738id_/http%3A//www.gofobo.com/main/privacy_policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UAYPV1ZACQQAXVFW"};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),u=c.length,f=i(a,o,r),d=0;u>d;d++)c[d].apply(f,n);return f}function a(t,e){u[t]=s(t).concat(e)}function s(t){return u[t]||[]}function c(){return n(e)}var u={};return{on:a,emit:e,create:c,listeners:s,_events:u}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(u){try{r("ierr",[u,(new Date).getTime(),!0])}catch(f){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(4),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(u){"stack"in u&&(t(5),t(3),"addEventListener"in window&&t(1),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(2),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:4,2:7,3:5,4:18,5:6,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],4:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:18,2:19,ee:"QJf3ax",gos:"7eSDFh"}],5:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:19,2:18,ee:"QJf3ax"}],6:[function(t,e){function n(t,e,n){var r=t[0];"string"==typeof r&&(r=new Function(r)),t[0]=o(r,"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:19,2:18,ee:"QJf3ax"}],7:[function(t,e){function n(){c.inPlace(this,d,"fn-")}function r(t,e){c.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}var i=t("ee").create(),a=t(1),s=t(2),c=s(i),u=s(a),f=window.XMLHttpRequest,d=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=i,window.XMLHttpRequest=function(t){var e=new f(t);try{i.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",function(t,e){return e}),e.addEventListener("readystatechange",n,!1)}catch(r){try{i.emit("internal-error",[r])}catch(o){}}return e},window.XMLHttpRequest.prototype=f.prototype,c.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),i.on("send-xhr-start",r),i.on("open-xhr-start",r)},{1:4,2:19,ee:"QJf3ax"}],8:[function(t){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,u="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(u);if(f&&(r.rxSize=f),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(n.cat=d.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r,this.startTime])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,u=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var u=e(o);u&&(r.txSize=u)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",[e])}catch(r){}}};for(var f=0;c>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:9,3:7,4:4,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],9:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&c&&c.body){p.proto="https"===d.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=c.createElement("script");e.src=p.proto+t.agent,c.body.appendChild(e)}}function r(){"complete"===c.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,c=s.document,u="addEventListener",f="attachEvent",d=(""+location).split("?")[0],p=e.exports={offset:i(),origin:d,features:{}};c[u]?(c[u]("DOMContentLoaded",o,!1),s[u]("load",n,!1)):(c[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],18:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],19:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,u;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){f([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return u=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,u],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,u(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,u="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,u?s+o:o,i,s,t))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){f([o,e,n,r])}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){f([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function f(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:18,ee:"QJf3ax"}]},{},["G9z0Bl",3,8]);</script>
-  <title>gofobo Privacy Policy | Gofobo</title>
-  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<meta http-equiv="x-dns-prefetch-control" content="on">
-<link rel="dns-prefetch" href="//cdn.gofobo.com">
-<link rel="shortcut icon" href="http://cdn.gofobo.com/sites/all/themes/gofobo_fusion/favicon.ico" type="image/x-icon">
-  <!-- CSS aggregated by CDN module. -->
-<link type="text/css" rel="stylesheet" media="all" href="http://cdn.gofobo.com/files/css/cdn_css_http_14394c24129f72d3791ee404f7fe4e01_fivestar.css">
-<link type="text/css" rel="stylesheet" media="all" href="http://cdn.gofobo.com/files/css/cdn_css_http_da5301e2a74cbb38cbec9e4a370eeab4_defaults.css">
-<link type="text/css" rel="stylesheet" media="all" href="http://cdn.gofobo.com/files/css/cdn_css_http_78805367beaae2b2247bbf3b7fb99b7a_system.css">
-<link type="text/css" rel="stylesheet" media="all" href="http://cdn.gofobo.com/files/css/cdn_css_http_fbc3258c7ceac3599819f1505c858497_system-menus.css">
-<link type="text/css" rel="stylesheet" media="all" href="http://cdn.gofobo.com/files/css/cdn_css_http_42eb79aef539e692b5654d06dea41960_user.css">
-<link type="text/css" rel="stylesheet" media="all" href="http://cdn.gofobo.com/files/css/cdn_css_http_2a3816be5a5f8f2b46a3de278a15f29d_content-module.css">
-<link type="text/css" rel="stylesheet" media="all" href="http://cdn.gofobo.com/files/css/cdn_css_http_0b99306859f7da689347d79c27c79316_css_injector_96.css">
-<link type="text/css" rel="stylesheet" media="all" href="http://cdn.gofobo.com/files/css/cdn_css_http_3bc6de713754aac6671bb83f71137f6d_css_injector_176.css">
-<link type="text/css" rel="stylesheet" media="all" href="http://cdn.gofobo.com/files/css/cdn_css_http_d6b0372828ae647a3bf0461685f8846f_css_injector_181.css">
-<link type="text/css" rel="stylesheet" media="all" href="http://cdn.gofobo.com/files/css/cdn_css_http_f0db618335a7531571aa80db5d07a790_css_injector_201.css">
-<link type="text/css" rel="stylesheet" media="all" href="http://cdn.gofobo.com/files/css/cdn_css_http_7c80d414d3288012d555f96f77fe23dc_css_injector_216.css">
-<link type="text/css" rel="stylesheet" media="all" href="http://cdn.gofobo.com/files/css/cdn_css_http_ff767d9df0ea651d3692c4e8d48ce5eb_ctools.css">
-<link type="text/css" rel="stylesheet" media="all" href="http://cdn.gofobo.com/files/css/cdn_css_http_7d0332d5d043955889355c0d78733514_date.css">
-<link type="text/css" rel="stylesheet" media="all" href="http://cdn.gofobo.com/files/css/cdn_css_http_453c2734818a2479437d7f8e270e1ac1_jquery-ui.css">
-<link type="text/css" rel="stylesheet" media="all" href="http://cdn.gofobo.com/files/css/cdn_css_http_d8fac537fb26579ee663569a8f460217_datepicker.1.7.css">
-<link type="text/css" rel="stylesheet" media="all" href="http://cdn.gofobo.com/files/css/cdn_css_http_148e90d1bd19f0b5f2f212b1408b0e31_jquery.timeentry.css">
-<link type="text/css" rel="stylesheet" media="all" href="http://cdn.gofobo.com/files/css/cdn_css_http_2824b7bce78fb37b9c67a61bad5d14fa_fbconnect.css">
-<link type="text/css" rel="stylesheet" media="all" href="http://cdn.gofobo.com/files/css/cdn_css_http_c828cb946478ce09c4fbd28ed0ba8a39_filefield.css">
-<link type="text/css" rel="stylesheet" media="all" href="http://cdn.gofobo.com/files/css/cdn_css_http_aa724348dfd9441d5f8c7bd6bd87367b_google_admanager.css">
-<link type="text/css" rel="stylesheet" media="all" href="http://cdn.gofobo.com/files/css/cdn_css_http_cf4ae1d1c9759ab8e504681b2778a07a_logintoboggan.css">
-<link type="text/css" rel="stylesheet" media="all" href="http://cdn.gofobo.com/files/css/cdn_css_http_773d3330a54b1c41d3882b54b633b2de_mollom.css">
-<link type="text/css" rel="stylesheet" media="all" href="http://cdn.gofobo.com/files/css/cdn_css_http_ae05b3c831645fe77b6f3b3b0e0e5e91_og.css">
-<link type="text/css" rel="stylesheet" media="all" href="http://cdn.gofobo.com/files/css/cdn_css_http_fabc38948dc3e9ba1d3dba9f10847c45_om_maximenu.css">
-<link type="text/css" rel="stylesheet" media="all" href="http://cdn.gofobo.com/files/css/cdn_css_http_f961483d0c9963d8505965f1eb2cdb3a_no_style.css">
-<link type="text/css" rel="stylesheet" media="all" href="http://cdn.gofobo.com/files/css/cdn_css_http_0bf5436829a597094b5737855792c27f_thickbox.css">
-<link type="text/css" rel="stylesheet" media="all" href="http://cdn.gofobo.com/files/css/cdn_css_http_c6f0669c271e74a249c9a6cc3e0446b6_thickbox_ie.css">
-<link type="text/css" rel="stylesheet" media="all" href="http://cdn.gofobo.com/files/css/cdn_css_http_86d204087ba7e2401591811d79762657_views_slideshow.css">
-<link type="text/css" rel="stylesheet" media="all" href="http://cdn.gofobo.com/files/css/cdn_css_http_61d0e700c6d38ce726d632701d17a044_views_slideshow.css">
-<link type="text/css" rel="stylesheet" media="all" href="http://cdn.gofobo.com/files/css/cdn_css_http_bed9089f1e07359c961b9fef6aab7d54_views_slideshow.css">
-<link type="text/css" rel="stylesheet" media="all" href="http://cdn.gofobo.com/files/css/cdn_css_http_1e6daac5746bf000f534116b36f37329_fieldgroup.css">
-<link type="text/css" rel="stylesheet" media="all" href="http://cdn.gofobo.com/files/css/cdn_css_http_f103cd549a23f323571053cc89720abe_gofobo_core.css">
-<link type="text/css" rel="stylesheet" media="all" href="http://cdn.gofobo.com/files/css/cdn_css_http_a7c0fd1c5d0d87dac5b1f901abd6d897_style.css">
-<link type="text/css" rel="stylesheet" media="all" href="http://cdn.gofobo.com/files/css/cdn_css_http_1dce39378462edb946d5dd48ebeef6c1_typography.css">
-<link type="text/css" rel="stylesheet" media="all" href="http://cdn.gofobo.com/files/css/cdn_css_http_7f1bdad7d007babc591cdc0ef7d3caf6_superfish.css">
-<link type="text/css" rel="stylesheet" media="all" href="http://cdn.gofobo.com/files/css/cdn_css_http_b0aa8bcefcfb489578633df6d68355e3_superfish-navbar.css">
-<link type="text/css" rel="stylesheet" media="all" href="http://cdn.gofobo.com/files/css/cdn_css_http_cefd6c5efb8dc21ea8e33153bc50b6c6_superfish-vertical.css">
-<link type="text/css" rel="stylesheet" media="all" href="http://cdn.gofobo.com/files/css/cdn_css_http_d770e6612de5f118115008faa359c282_base.css">
-<link type="text/css" rel="stylesheet" media="all" href="http://cdn.gofobo.com/files/css/cdn_css_http_b6fcf8eeb34eeff76465a81e96afa1e2_blocks.css">
-<link type="text/css" rel="stylesheet" media="all" href="http://cdn.gofobo.com/files/css/cdn_css_http_0c19a0ec34c749d67a52e9486b605f11_buttons.css">
-<link type="text/css" rel="stylesheet" media="all" href="http://cdn.gofobo.com/files/css/cdn_css_http_b0e4c61918136078ff5c1d391fe612e2_navigation.css">
-<link type="text/css" rel="stylesheet" media="all" href="http://cdn.gofobo.com/files/css/cdn_css_http_f246c1b1fe1424709ca908ce195af53a_node.css">
-<link type="text/css" rel="stylesheet" media="all" href="http://cdn.gofobo.com/files/css/cdn_css_http_c451f830e8572fae13d150f901cd716f_views.css">
-<link type="text/css" rel="stylesheet" media="all" href="http://cdn.gofobo.com/files/css/cdn_css_http_9d373c292e110ab71d104e051e622c91_forms.css">
-<link type="text/css" rel="stylesheet" media="all" href="http://cdn.gofobo.com/files/css/cdn_css_http_3441b956a77b26603a8848c0e888bf64_gofobo-fivestar.css">
-<link type="text/css" rel="stylesheet" media="all" href="http://cdn.gofobo.com/files/css/cdn_css_http_8e7361b03dcd9550d86d573c878f2909_gofobo_twitter.css">
-<link type="text/css" rel="stylesheet" media="all" href="http://cdn.gofobo.com/files/css/cdn_css_http_a40880f6eb94ac3c2415b0c38248fa12_comment.css">
-<link type="text/css" rel="stylesheet" media="all" href="http://cdn.gofobo.com/files/css/cdn_css_http_6d9e0266ef46d6d3f178187998eb4cd3_modalframe.parent.css">
-<link type="text/css" rel="stylesheet" media="all" href="http://cdn.gofobo.com/files/css/cdn_css_http_9d3fb4d75314e677b1b788ac36656ded_modalframe.child.css">
-<link type="text/css" rel="stylesheet" media="all" href="http://cdn.gofobo.com/files/css/cdn_css_http_47f1c972eac6f655e26fea52f807987b_partner-rsvp.css">
-<link type="text/css" rel="stylesheet" media="all" href="http://cdn.gofobo.com/files/css/cdn_css_http_fe49c027fd742ccef64a3b3187ccb59e_iphone-rsvp.css">
-<link type="text/css" rel="stylesheet" media="all" href="http://cdn.gofobo.com/files/css/cdn_css_http_e26e0f5995198ba0825ad42a28f0fed0_active_tags.css">
-<link type="text/css" rel="stylesheet" media="all" href="http://cdn.gofobo.com/files/css/cdn_css_http_2156b09c92591b6c086dff4a9d72fecd_special_pages.css">
-<!-- CSS aggregated by CDN module. -->
-  <link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/fusion/fusion_core/css/grid16-960.css?D">
-  <!--[if IE 8]>
-  <link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/fusion/fusion_core/css/ie8-fixes.css?D" />
-<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/gofobo_fusion/css/ie8-fixes.css?D" />
-  <![endif]-->
-  <!--[if IE 7]>
-  <link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/fusion/fusion_core/css/ie7-fixes.css?D" />
-<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/gofobo_fusion/css/ie7-fixes.css?D" />
-  <![endif]-->
-  <!--[if lte IE 6]>
-  <link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/fusion/fusion_core/css/ie6-fixes.css?D"/>
-<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/gofobo_fusion/css/ie6-fixes.css?D"/>
-  <![endif]-->
-    <script type="text/javascript" src="http://cdn.gofobo.com/files/js/js_5a49f1ca2e33bb4289e475285efb3e88.jsmin.js"></script>
-<script type="text/javascript">
-<!--//--><![CDATA[//><!--
-jQuery.extend(Drupal.settings, {"basePath":"\/","fivestar":{"titleUser":"Your rating: ","titleAverage":"Average: ","feedbackSavingVote":"Saving your vote...","feedbackVoteSaved":"Your vote has been saved.","feedbackDeletingVote":"Deleting your vote...","feedbackVoteDeleted":"Your vote has been deleted."},"fbconnect":{"user_pictures":"allow","language_code":"en_US","app_id":"129341820459103","debug":1,"connect_js":"document.location.protocol + '\/\/connect.facebook.net\/en_US\/all.js'","loginout_mode":"manual","invite_name":"Gofobo","fast_reg_mode":"0","fast_reg_autoname":0,"fbuid":null,"user":{"uid":0,"fbuid":null}},"thickbox":{"close":"Close","next":"Next \u003e","prev":"\u003c Prev","esc_key":"or Esc Key","next_close":"Next \/ Close on last","image_count":"Image !current of !total"}});
-//--><!]]>
+<!DOCTYPE html><html class=" js csstransitions"><head>
+	<title>Privacy Policy</title>
+	<meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0">
+<meta http-equiv="content-type" content="text/html;charset=utf-8">
+
+<link rel="icon" type="image/png" href="/assets/img/favicon.ico?v=2">
+
+
+<link rel="stylesheet" type="text/css" href="/assets/css/fonts.css">
+<link rel="stylesheet" type="text/css" href="/assets/css/global.css">
+<link rel="stylesheet" type="text/css" href="/assets/css/mobile.css">
+<link rel="stylesheet" type="text/css" href="/assets/css/desktop.css">
+<link rel="stylesheet" type="text/css" href="/assets/css/vendor.css">
+<!--[if lte IE 8]><link rel="stylesheet" type="text/css" href="css/ie8-lte.css" /><![endif]-->
+
+<script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="/assets/js/jquery-1.10.2.min.js"></script>
+<script type="text/javascript" src="/assets/js/jquery.cookie.js"></script>
+<script type="text/javascript" src="/assets/js/jquery.form.js"></script>
+<script type="text/javascript" src="/assets/js/jquery.validate.min.js"></script>
+<!--[if lte IE 8]><script type="text/javascript" src="js/selectivizr-min.js"></script><![endif]-->
+<script type="text/javascript" src="/assets/js/ui.js"></script>
+<script type="text/javascript" src="/assets/js/modernizr.custom.js"></script><script async="" src="//static.hotjar.com/c/hotjar-6292.js?sv=3"></script></head>
+
+<body style="">
+	
+	<!-- ANALYTICS -->
+	
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-145160-3', 'auto');
+  ga('send', 'pageview');
+
 </script>
-<script type="text/javascript">
-<!--//--><![CDATA[//><!--
-document.write(unescape("%3Cscript src='//partner.googleadservices.com/gampad/google_service.js' type='text/javascript'%3E%3C/script%3E"));
 
-//--><!]]>
-</script><script src="//partner.googleadservices.com/gampad/google_service.js" type="text/javascript"></script>
-<script type="text/javascript">
-<!--//--><![CDATA[//><!--
-GS_googleAddAdSenseService("ca-pub-4785899285823896");
-GS_googleEnableAllServices();
-
-//--><!]]>
+<script>
+    (function(f,b){
+        var c;
+        f.hj=f.hj||function(){(f.hj.q=f.hj.q||[]).push(arguments)};
+        f._hjSettings={hjid:6292, hjsv:3};
+        c=b.createElement("script");c.async=1;
+        c.src="//static.hotjar.com/c/hotjar-6292.js?sv=3";
+        b.getElementsByTagName("head")[0].appendChild(c); 
+    })(window,document);
 </script>
-<script type="text/javascript">
-<!--//--><![CDATA[//><!--
-GA_googleAddSlot("ca-pub-4785899285823896", "sidebar_last-skyscraper");
-GA_googleAddSlot("ca-pub-4785899285823896", "header_top-leaderboard");
-GA_googleAddSlot("ca-pub-4785899285823896", "footer-leaderboard");
 
-//--><!]]>
-</script>
-<script type="text/javascript">
-<!--//--><![CDATA[//><!--
-GA_googleFetchAds();
+	
+	<!-- MENU -->
+	<div class="content-anchor"></div>
+<!-- Desktop Menu -->
+<div class="menu">
+	<div class="top-border-left"></div>		
 
-//--><!]]>
-</script>
-<script type="text/javascript">
-<!--//--><![CDATA[//><!--
-$(document).ready(function(){
-        $("#menu_search_radius").click(function(event){
-         $(this).parent().parent().parent().parent().parent().parent().parent().parent().addClass("open");
-         $(this).parent().parent().parent().parent().parent().parent().parent().parent().removeClass("closed");
-        });
-    });
-    
-//--><!]]>
-</script>
-<script type="text/javascript">
-<!--//--><![CDATA[//><!--
-$(document).ready(function(){
-     $("ul#om-menu-menu-project-x-menu li.last .om-maximenu-middle").css("display","none");
-  });
-//--><!]]>
-</script>
-    <!--[if lte IE 8]><script src="http://www.gofobo.com/sites/all/themes/gofobo_fusion/js/excanvas/excanvas.js"></script><![endif]-->
-</head>
-
-<body id="pid-privacy-policy" class="not-front not-logged-in page-node node-type-page no-sidebars full-node layout-main-last sidebars-split font-size-12 grid-type-960 grid-width-16">
-  <div id="page" class="page">
-    <div id="page-inner" class="page-inner">
-      <div id="skip">
-        <a href="#main-content-area">Skip to Main Content Area</a>
-      </div>
-
-      <!-- header-top row: width = grid_width -->
-      <div id="header-top-wrapper" class="header-top-wrapper full-width">
-<div id="header-top" class="header-top row grid16-16">
-<div id="header-top-inner" class="header-top-inner inner clearfix">
-
-<div id="block-gofobo_ads-gofobo_ads-header_top-leaderboar" class="block block-gofobo_ads odd first last block-padding-10px fusion-center-content grid16-16">
-  <div class="inner clearfix">
-            <div class="content clearfix">
-      <div id="gam-holder-header_top-leaderboard" class="gam-holder"><script type="text/javascript">GA_googleFillSlot("header_top-leaderboard");</script></div>    </div>
-  </div><!-- /block-inner -->
-</div><!-- /block -->
-</div><!-- /header-top-inner -->
-</div><!-- /header-top -->
-</div><!-- /header-top-wrapper -->
-
-      <!-- header-group row: width = grid_width -->
-      <div id="header-group-wrapper" class="header-group-wrapper full-width">
-        <div id="header-group" class="header-group row grid16-16">
-          <div id="header-group-inner" class="header-group-inner inner clearfix">
-                        
-                        <div id="header-site-info" class="header-site-info block">
-              <div id="header-site-info-inner" class="header-site-info-inner inner">
-                                <div id="logo">
-                  <a href="/" title="Home"><img src="http://cdn.gofobo.com/sites/all/themes/gofobo_fusion/logo.png" alt="Home"></a>
-                </div>
-                              </div><!-- /header-site-info-inner -->
-            </div><!-- /header-site-info -->
-            
-            <div id="header-region">
-              
-<div id="block-gofobo_core-gofobo_core_login" class="block block-gofobo_core odd first fusion-center-content">
-  <div class="inner clearfix">
-            <h2 class="title block-title">Login</h2>
-        <div class="content clearfix">
-      
-<div id="gofobo-core-login">
-  <div class="content clearfix">
-    <a href="http://www.gofobo.com/user/login" class="login_button_header"></a><span class="fbconnect_button_header"><fb:login-button size="small" onlogin="facebook_onlogin_ready();" background="dark" v="2" scope="email,publish_stream">Connect</fb:login-button></span><a href="http://www.gofobo.com/user/register" class="register_button_header"></a>  </div>
-</div><!-- gofobo-core-login -->
-    </div>
-  </div><!-- /block-inner -->
-</div><!-- /block -->
-
-<div id="block-gofobo_core-gofobo_core_search_header" class="block block-gofobo_core even  last ">
-  <div class="inner clearfix">
-            <h2 class="title block-title">Search</h2>
-        <div class="content clearfix">
-      <form action="/privacy_policy" accept-charset="UTF-8" method="post" id="search-block-form">
-<div><div class="container-inline">
-  <div class="form-item form-item-textfield" id="edit-search-block-form-1-wrapper">
- <label for="edit-search-block-form-1">Search site: </label>
-<div class="form-item-input">
- <input type="text" maxlength="128" name="search_block_form" id="edit-search-block-form-1" size="15" value="find movies, actors, more" title="Enter the terms you wish to search for." onfocus="this.value = ''" class="form-text">
+	
+	<div class="top-border-right">
+		
+								<div class="top-links ">
+				<ul>
+					<li><a href="/main/login">LOGIN</a></li>
+					<li><a href="/main/account_create">SIGN UP</a></li>
+					<li><a href="/main/contact">CONTACT</a></li>
+							</ul>
+		</div>
+	</div>	
+	<div class="inner">
+		<div id="trigger-overlay" class="trigger"></div>
+		<a class="logo" href="/"></a>
+		<ul class="">
+			<li><a href="/main/code_redeem">REDEEM</a>	</li>		
+			<li><a href="/main/local_screenings">FIND SCREENINGS</a></li>
+			<li><a href="/main/sweepstakes_browse">SWEEPSTAKES</a></li>
+			<li><a href="/main/how_it_works">HOW IT WORKS</a></li>
+			<li><a href="/main/about">ABOUT US</a></li>
+			<li><a href="/main/movies">MOVIES</a></li>
+			<li><a href="/main/events">EVENTS</a></li>
+		</ul>
+	</div>
 </div>
-</div>
-<input type="submit" name="op" id="edit-submit" value="Search" class="form-submit">
-<input type="hidden" name="form_build_id" id="form-1oZpLcc86OI123ppI8qB5JK2pPUTLCJXATG4x6mm9Zo" value="form-1oZpLcc86OI123ppI8qB5JK2pPUTLCJXATG4x6mm9Zo">
-<input type="hidden" name="form_id" id="edit-search-block-form" value="search_block_form">
+<!-- Mobile Menu -->
+<div class="overlay overlay-hugeinc">
+	<img class="mobile-logo" src="https://s3-us-west-2.amazonaws.com/gofobo/assets/emailImages/logo.png">
+	<button type="button" class="overlay-close">Close</button>
+	<ul>
+		<li><a href="/main/code_redeem">REDEEM</a></li>		
+		<li><a href="/main/local_screenings">FIND SCREENINGS</a></li>
+		<li><a href="/main/sweepstakes_browse">SWEEPSTAKES</a></li>
+		<li><a href="/main/how_it_works">HOW IT WORKS</a></li>
+		<li><a href="/main/about">ABOUT US</a></li>
+		<li><a href="/main/movies">MOVIES</a></li>
+		<li><a href="/main/events">EVENTS</a></li>
+				<li><a class="red-buttons" href="/main/login">LOGIN</a></li>
+		<li><a class="red-buttons" href="/main/account_create">SIGN UP</a></li>
+		<li><a class="red-buttons" href="/main/contact">CONTACT</a></li>
+			</ul>
 </div>
 
-</div></form>
-    </div>
-  </div><!-- /block-inner -->
-</div><!-- /block -->
-            </div>
-            <div id="primary-menu" class="primary-menu block">
-<div id="primary-menu-inner" class="primary-menu-inner inner clearfix">
-<ul class="menu sf-menu"><li class="leaf first"><a href="/screenings/search">Screenings</a></li>
-<li class="expanded"><a href="/movies">Movies</a><ul class="menu"><li class="leaf first"><a href="/movies/box_office" class="mi-featured">Box Office</a></li>
-<li class="leaf"><a href="/movies/in_theaters" class="mi-featured">In Theaters</a></li>
-<li class="leaf"><a href="/movies/popular" class="mi-featured">Popular</a></li>
-<li class="leaf"><a href="/movies/upcoming" class="mi-featured">Upcoming</a></li>
-<li class="leaf"><a href="/movies/events">Events</a></li>
-<li class="leaf"><a href="/movies/groups">Groups</a></li>
-<li class="leaf"><a href="/movies/news">News</a></li>
-<li class="leaf"><a href="/movies/photos">Photos</a></li>
-<li class="leaf"><a href="/movies/user_reviews">User Reviews</a></li>
-<li class="leaf last"><a href="/movies/videos">Videos</a></li>
-</ul></li>
-<li class="expanded"><a href="/actors">Actors</a><ul class="menu"><li class="leaf first"><a href="/actors/popular" class="mi-featured">Popular</a></li>
-<li class="leaf"><a href="/actors/events">Events</a></li>
-<li class="leaf"><a href="/actors/groups">Groups</a></li>
-<li class="leaf"><a href="/actors/news">News</a></li>
-<li class="leaf"><a href="/actors/photos">Photos</a></li>
-<li class="leaf last"><a href="/actors/videos">Videos</a></li>
-</ul></li>
-<li class="expanded"><a href="/sweepstakes">Sweepstakes</a><ul class="menu"><li class="leaf first"><a href="/sweepstakes/current">Current</a></li>
-<li class="leaf last"><a href="/sweepstakes/past">Past</a></li>
-</ul></li>
-<li class="collapsed last"><a href="/my_fobo" title="My Fobo" class="mi-myfobo">My Fobo</a></li>
-</ul></div><!-- /primary-menu-inner -->
-</div><!-- /primary-menu -->
-          </div><!-- /header-group-inner -->
-        </div><!-- /header-group -->
-      </div><!-- /header-group-wrapper -->
+	
+	<!-- HEADER -->
+	<div class="top-banner-blue with-bottom-footer"></div>
 
-      <!-- preface-top row: width = grid_width -->
-      
-      <!-- main row: width = grid_width -->
-      <div id="main-wrapper" class="main-wrapper full-width">
-        <div id="main" class="main row grid16-16">
-          <div id="main-inner" class="main-inner inner clearfix">
+	<!-- CONTENT -->
+	<div class="content with-bottom-footer">
+		<div class="inner">
+			<h1 class="mt0_5">PRIVACY POLICY</h1>
+			<div class="chunk left eightyfive expandable">
+				<p>Welcome to gofobo, an online community for movie fans to interact with movies through advance movie screenings, promotions, contests, sweepstakes and special events.</p>
 
-            <!-- main group: width = grid_width - sidebar_first_width -->
-            <div id="main-group" class="main-group row nested grid16-12">
-              <div id="main-group-inner" class="main-group-inner inner">
-                
-                <div id="main-content" class="main-content row nested">
-                  <div id="main-content-inner" class="main-content-inner inner">
-                    <!-- content group: width = grid_width - (sidebar_first_width + sidebar_last_width) -->
-                    <div id="content-group" class="content-group row nested grid16-12">
-                      <div id="content-group-inner" class="content-group-inner inner">
+				<h4 class="mt1">INFORMATION COLLECTED BY GOFOBO.</h4>
 
-                                                <h1 class="title">gofobo Privacy Policy</h1>
-                        
-                                                
-                        
-                        
-                        <div id="content-region" class="content-region row nested">
-                          <div id="content-region-inner" class="content-region-inner inner">
-                            <a name="main-content-area" id="main-content-area"></a>
-                            <div id="content-inner" class="content-inner block">
-                              <div id="content-inner-inner" class="content-inner-inner inner">
-                                                                <div id="content-content" class="content-content">
-                                  
-<div id="node-16204" class="node odd full-node node-type-page">
-  <div class="inner">
+				<p>At gofobo, we take your privacy seriously. Our site may request users to provide contact, demographic and/or personal information (such as their name, location, gender, age and e-mail address). The demographic information is used to enhance user experience so we can be more content-specific. The contact information is used to notify users of new content and for surveys and newsletters, via e-mail. Personal information that is collected is used primarily for in-house statistics, advertising and marketing information. Gofobo collects the users' ZIP codes to provide specific theatre and event demographics in their areas.</p>
 
-    
-    
-    
-    <div class="content">
-      <h1>UPDATED May 3, 2012</h1>
-<p>Welcome to gofobo, an online community for movie fans to interact with movies through advance movie screenings, promotions, contests, sweepstakes and special events.</p>
-<ol>
-<li>
-  <p><strong>Information Collected by Gofobo.</strong><br>
-    At gofobo, we take your privacy seriously. Our site may request users to provide contact, demographic and/or personal information (such as their name, location, gender, age and e-mail address). The demographic information is used to enhance user experience so we can be more content-specific. The contact information is used to notify users of new content and for surveys and newsletters, via e-mail. Personal information that is collected is used primarily for in-house statistics, advertising and marketing information. Gofobo collects the users' ZIP codes to provide specific theatre and event demographics in their areas.</p>
-</li>
-<li>
-  <p><strong>Use of Information.</strong><br>
-    </p><p>We will display your personal information on your profile and elsewhere on the site, according to the preferences you set in your account, where may be seen by other members or nonmembers. Members' full names are never directly revealed to other members. As with any online service, we encourage users to think carefully about what personal information they will disclose on their profile.</p>
+				<h4 class="mt1">USE OF INFORMATION.</h4>
 
-<p>We may use your information, such as your age, ZIP code or IP address, in aggregate form to statistically analyze site usage and customize our site's content, layout and services. The resulting information will allow us to improve our site and better understand and serve our users.  We may provide informational reports with our business partners who are involved with providing free content to gofobo members.</p>
+				<p>We will display your personal information on your profile and elsewhere on the site, according to the preferences you set in your account, where may be seen by other members or nonmembers. Members' full names are never directly revealed to other members. As with any online service, we encourage users to think carefully about what personal information they will disclose on their profile.</p>
 
-<p>If you elect to OPT-IN to receive additional promotional information from gofobo during the registration process, we may provide your personally identifiable information to other businesses, companies and organizations with which we partner or which we carefully select to offer you products, services and promotions through our Web site or offline.</p>
+				<p>We may use your information, such as your age, ZIP code or IP address, in aggregate form to statistically analyze site usage and customize our site's content, layout and services. The resulting information will allow us to improve our site and better understand and serve our users. We may provide informational reports with our business partners who are involved with providing free content to gofobo members.</p>
+				<p>If you elect to OPT-IN to receive additional promotional information from gofobo during the registration process, we may provide your personally identifiable information to other businesses, companies and organizations with which we partner or which we carefully select to offer you products, services and promotions through our Web site or offline.</p>
+				<p>Also, if you elect to OPT-IN to participate in any sweepstakes, surveys, questionnaires or other events during your visit to our Web site, the rules or terms and conditions for those events may indicate that your personally identifiable information will be shared with third parties. By choosing to elect to OPT-IN to participate and submitting your personally identifiable information with respect to such events, you consent to disclosure of your personally identifiable information to such third parties.</p>
+				<p>Finally, we will disclose your personally identifiable information if we reasonably believe we are required to do so by law, regulation or other government authority or to protect the rights and property of gofobo, its affiliates or the public.</p>
 
-<p>Also, if you elect to OPT-IN to participate in any sweepstakes, surveys, questionnaires or other events during your visit to our Web site, the rules or terms and conditions for those events may indicate that your personally identifiable information will be shared with third parties. By choosing to elect to OPT-IN to participate and submitting your personally identifiable information with respect to such events, you consent to disclosure of your personally identifiable information to such third parties.</p>
+				<h4 class="mt1">E-MAIL POLICIES.</h4>
+				<p>By default, we will send you weekly updates of various site information including new movies, screenings, sweepstakes, contests, events and a variety of transactional e-mails, such as when users post comments to your profile and the occasional site announcement.</p>
+				<p>You have full control regarding which of these e-mails you want to receive. To change your options, simply click "My Account" at the top right corner of any page and then select "Edit Profile."</p>
+				<p>Some e-mails that are sent, such as "Screening Updates" and "Event Reminder," are automatically generated because you have participated in a contest and/or downloaded a ticket for a movie screening. By participating in a contest or downloading a free ticket, you agree to receive these e-mails even if you have previously opted out of our e-mail list.</p>
 
-<p>Finally, we will disclose your personally identifiable information if we reasonably believe we are required to do so by law, regulation or other government authority or to protect the rights and property of gofobo, its affiliates or the public.</p>
+				<h4 class="mt1">REFER A FRIEND.</h4>
+				<p>Many of our events will provide a refer-a-friend feature that allows you to forward the event information to friends. When you choose to refer a friend, we will send a single preformatted e-mail to the addresses you enter indicating that it is a message from you.</p>
 
-<p></p>
-</li>
-<li>
-  <p><strong>E-mail Policies.</strong><br>
-    By default, we will send you weekly updates of various site information including new movies, screenings, sweepstakes, contests, events and a variety of transactional e-mails, such as when users post comments to your profile and the occasional site announcement.</p>
-  <p>You have full control regarding which of these e-mails you want to receive. To change your options, simply click "MY FOBO" at the top right corner of any page and then select "Edit Profile."</p>
-  <p> Some e-mails that are sent, such as "Screening Updates" and "Event Reminder," are automatically generated because you have participated in a contest and/or downloaded a ticket for a movie screening. By participating in a contest or downloading a free ticket, you agree to receive these e-mails even if you have previously opted out of our e-mail list.</p>
-</li>
-<li>
-  <p><strong>Refer a Friend.</strong><br>
-    Many of our events will provide a refer-a-friend feature that allows you to forward the event information to friends. When you choose to refer a friend, we will send a single preformatted e-mail to the addresses you enter indicating that it is a message from you.</p>
-</li>
-<li>
-  <p><strong>Inviting Friends.</strong><br>
-    Inviting friends to gofobo is always completely optional. When you choose to invite friends, we will send an e-mail to the addresses you enter, indicating that it is a message from you. We will share your name and e-mail address with anyone you invite so that they know who the invitation is coming from. If a friend does not respond to the initial invitation after a little while, we will send up to two reminder messages on your behalf.</p>
-  <p> For your convenience, gofobo may offer the ability to import e-mail addresses from common address books such as Hotmail/Yahoo!/Gmail/AOL. If you choose to use this feature, we will access your address book using the log-in details that you provide. We access your address book only once to retrieve your friends' information so that you may select whom to invite. We do not store your log-in details nor do we use them for any other purpose than to retrieve your contacts. We never send invitations to contacts you do not explicitly select, and your invitations are the only e-mail we will ever send to your friends unless they register to join the site. </p>
-</li>
-<li>
-  <p><strong>Children.</strong><br>
-    Children under the age of 13 are not eligible to use our service. If we become aware that any user is under the age of 13, we cancel their account and delete all of their personal information. In the case of movie screening tickets, admittance into the event will adhere to the standards of the Motion Picture Association of America rating system. </p>
-</li>
-<li>
-  <p><strong>Use of Cookies.</strong><br>
-    Cookies are a standard Internet technology, and many major Web sites use them to provide useful features for their members. Cookies allow us to store and retrieve log-in information on a user's system. They provide us with data that we can use to improve the quality of our service and make it easier to use. Most browsers are initially set up to accept cookies. If you'd prefer, you can set yours to refuse cookies.</p>
-</li>
-<li>
-  <p><strong>Links.</strong><br>
-    Gofobo.com contains links to other sites. Gofobo is not responsible for the privacy policies and/or practices on other sites. When linking to another site a user should read the privacy policy stated on that site.</p>
-</li>
-<li>
-  <p><strong>Third-Party Advertising.</strong><br>
-    Gofobo may share profile information in a personally identifiable manner and aggregate usage information in a non-personally identifiable manner to advertisers and other third parties in order to present to members more targeted advertising, products and services. Advertisements that appear on this Web site are delivered to users by our advertising partners. Our advertising partners may set cookies.</p>
-</li>
-<li>
-  <p><strong>Acquisition or Business Transfer.</strong><br>
-  We reserve the right to transfer your personal information in the event of a merger, acquisition or reorganization of ownership of gofobo.</p>
-</li>
-<li>
-  <p><strong>Security.</strong><br>
-    While gofobo cannot guarantee that unauthorized access will never occur, we take great care to ensure that your private information is as safe as possible through the use of secure technology and internal processes.</p>
-  <p>We recommend that you do not divulge your password to anyone. Please remember to sign out of your account and close your browser window when you have finished on the site. This is to ensure that others cannot access your personal information and correspondence if you share a computer with someone else or are using a computer in a public place like a library or Internet cafe. Unfortunately, no data transmission over the Internet or any wireless network can be guaranteed to be 100% secure. As a result, gofobo cannot ensure or warrant the security of any information you transmit, and you do so at your own risk.</p>
-</li>
-<li>
-  <p><strong>Changes in Privacy Policy.</strong><br>
-    Gofobo may occasionally update the Privacy Policy to reflect changes in our practices and services. If we make material changes in the way we collect, use or share your personal information, we will notify you by sending you an e-mail to the e-mail address you most recently provided to us and/or by prominently posting notice of the changes on our Web site. </p>
-</li>
-<li>
-  <p><strong>Canceling Membership.</strong><br>
-    You have the ability to cancel your membership at any time. If you no longer wish to participate with gofobo, please click on the "contact gofobo" at the bottom of the page, then fill out the contact form with your information and in the message request your membership be canceled.</p>
-</li>
-<li>
-  <p><strong>Contact.</strong><br>
-    If you have any questions about this privacy statement, the practices of this Web site or your dealings with this Web site, please send your comments to us by using the "Contact Us" link at the bottom of every page.</p>
-</li>
-<li>
-  <p><strong>Dispute Resolution.</strong><br>
-The Privacy Policy and the relationship between you and gofobo.com shall be governed by the laws of the United States and the State of Texas without regard to its conflict of law provisions. Any action or proceeding arising from, relating to or in connection with the Privacy Policy will be brought exclusively in the federal or state courts located in Houston, Texas, and you irrevocably consent to the personal jurisdiction of such courts and agree that it is a convenient forum and that you will not seek to transfer such action or proceeding to any other forum or jurisdiction, under the doctrine of forum non conveniens or otherwise. No failure or delay by gofobo.com in exercising any right, power or privilege under the Privacy Policy will operate as a waiver thereof, nor will any single or partial exercise of any right, power or privilege preclude any other or further exercise thereof or the exercise of any other right, power, or privilege under the Privacy Policy. The invalidity or unenforceability of any provision of the Privacy Policy will not affect the validity or enforceability of any other provision, all of which will remain in full force and effect. You agree that regardless of any statute or law to the contrary, any claim or cause of action arising out of, related to or connected with the use of the Service or the Privacy Policy must be filed within one (1) year after such claim or cause of action arose or be forever barred. The section titles in the Privacy Policy are for convenience only and have no legal or contractual effect. The Privacy Policy represents the entire understanding of the parties regarding its subject matter, and supersede all prior and contemporaneous agreements and understandings between the parties regarding its subject matter. These terms and conditions are binding upon and shall ensure to the benefit of both parties and their respective successors, heirs, executor, administrators, personal representatives and permitted assigns. You shall not assign your rights or obligations hereunder without gofobo.com's prior written consent.<br>
-</p></li></ol>    </div>
+				<h4 class="mt1">INVITING FRIENDS.</h4>
+				<p>Inviting friends to gofobo is always completely optional. When you choose to invite friends, we will send an e-mail to the addresses you enter, indicating that it is a message from you. We will share your name and e-mail address with anyone you invite so that they know who the invitation is coming from. If a friend does not respond to the initial invitation after a little while, we will send up to two reminder messages on your behalf.</p>
+				<p>For your convenience, gofobo may offer the ability to import e-mail addresses from common address books such as Hotmail/Yahoo!/Gmail/AOL. If you choose to use this feature, we will access your address book using the log-in details that you provide. We access your address book only once to retrieve your friends' information so that you may select whom to invite. We do not store your log-in details nor do we use them for any other purpose than to retrieve your contacts. We never send invitations to contacts you do not explicitly select, and your invitations are the only e-mail we will ever send to your friends unless they register to join the site.</p>
 
-    
+				<h4 class="mt1">CHILDREN.</h4>
+				<p>Children under the age of 13 are not eligible to use our service. If we become aware that any user is under the age of 13, we cancel their account and delete all of their personal information. In the case of movie screening tickets, admittance into the event will adhere to the standards of the Motion Picture Association of America rating system.</p>
 
-  </div><!-- /inner -->
+				<h4 class="mt1">USE OF COOKIES.</h4>
+				<p>Cookies are a standard Internet technology, and many major Web sites use them to provide useful features for their members. Cookies allow us to store and retrieve log-in information on a user's system. They provide us with data that we can use to improve the quality of our service and make it easier to use. Most browsers are initially set up to accept cookies. If you'd prefer, you can set yours to refuse cookies.</p>
 
-</div><!-- /node-16204 -->                                                                  </div><!-- /content-content -->
-                                                              </div><!-- /content-inner-inner -->
-                            </div><!-- /content-inner -->
-                          </div><!-- /content-region-inner -->
-                        </div><!-- /content-region -->
+				<h4 class="mt1">LINKS.</h4>
+				<p>Gofobo.com contains links to other sites. Gofobo is not responsible for the privacy policies and/or practices on other sites. When linking to another site a user should read the privacy policy stated on that site.</p>
 
-                                              </div><!-- /content-group-inner -->
-                    </div><!-- /content-group -->
+				<h4 class="mt1">THIRD-PARTY ADVERTISING.</h4>
+				<p>Gofobo may share profile information in a personally identifiable manner and aggregate usage information in a non-personally identifiable manner to advertisers and other third parties in order to present to members more targeted advertising, products and services. Advertisements that appear on this Web site are delivered to users by our advertising partners. Our advertising partners may set cookies.</p>
+				
+				<h4 class="mt1">Acquisition or Business Transfer.</h4>
+				<p>We reserve the right to transfer your personal information in the event of a merger, acquisition or reorganization of ownership of gofobo.</p>
 
-                    
-                  </div><!-- /main-content-inner -->
-                </div><!-- /main-content -->
+				<h4 class="mt1">SECURITY.</h4>
+				<p>While gofobo cannot guarantee that unauthorized access will never occur, we take great care to ensure that your private information is as safe as possible through the use of secure technology and internal processes.</p>
+				<p>We recommend that you do not divulge your password to anyone. Please remember to sign out of your account and close your browser window when you have finished on the site. This is to ensure that others cannot access your personal information and correspondence if you share a computer with someone else or are using a computer in a public place like a library or Internet cafe. Unfortunately, no data transmission over the Internet or any wireless network can be guaranteed to be 100% secure. As a result, gofobo cannot ensure or warrant the security of any information you transmit, and you do so at your own risk.</p>
 
-                              </div><!-- /main-group-inner -->
-            </div><!-- /main-group -->
+				<h4 class="mt1">CHANGES IN PRIVACY POLICY.</h4>
+				<p>Gofobo may occasionally update the Privacy Policy to reflect changes in our practices and services. If we make material changes in the way we collect, use or share your personal information, we will notify you by sending you an e-mail to the e-mail address you most recently provided to us and/or by prominently posting notice of the changes on our Web site.</p>
 
-            <div id="sidebar-last" class="sidebar-last row nested grid16-4">
-<div id="sidebar-last-inner" class="sidebar-last-inner inner clearfix">
+				<h4 class="mt1">CANCELING MEMBERSHIP.</h4>
+				<p>You have the ability to cancel your membership at any time. If you no longer wish to participate with gofobo, please access your account and click “Delete My Account.”  Please follow all prompts and steps to completely deactivate your account.</p>
 
-<div id="block-gofobo_core-gofobo_core_legal_links_sidebar" class="block block-gofobo_core odd first block-border-aqua-glow-thin block-padding-10px grid16-4">
-  <div class="inner clearfix">
-            <div class="content clearfix">
-      <ul class="menu"><li class="leaf first"><a href="/about">About</a></li>
-<li class="leaf"><a href="/feedback">Contact</a></li>
-<li class="leaf"><a href="/faq" title="Frequently Asked Questions">FAQ</a></li>
-<li class="leaf"><a href="/jobs">Jobs</a></li>
-<li class="leaf active-trail"><a href="/privacy_policy" title="gofobo Privacy Policy" class="active">Privacy Policy</a></li>
-<li class="leaf last"><a href="/legal" title="GOFOBO Terms &amp; Conditions of Service">Terms &amp; Conditions of Service</a></li>
-</ul>    </div>
-  </div><!-- /block-inner -->
-</div><!-- /block -->
+				<h4 class="mt1">CONTACT.</h4>
+				<p>If you have any questions about this privacy statement, the practices of this Web site or your dealings with this Web site, please send your comments to us by using the "Contact Us" link at the bottom of every page.</p>
 
-<div id="block-gofobo_ads-gofobo_ads-sidebar_last-skyscrap" class="block block-gofobo_ads even  last fusion-center-content grid16-4">
-  <div class="inner clearfix">
-            <div class="content clearfix">
-      <div id="gam-holder-sidebar_last-skyscraper" class="gam-holder"><script type="text/javascript">GA_googleFillSlot("sidebar_last-skyscraper");</script></div>    </div>
-  </div><!-- /block-inner -->
-</div><!-- /block -->
-</div><!-- /sidebar-last-inner -->
-</div><!-- /sidebar-last -->
-
-          </div><!-- /main-inner -->
-        </div><!-- /main -->
-      </div><!-- /main-wrapper -->
-
-      <!-- postscript-bottom row: width = grid_width -->
-      <div id="postscript-bottom-wrapper" class="postscript-bottom-wrapper full-width">
-<div id="postscript-bottom" class="postscript-bottom row grid16-16">
-<div id="postscript-bottom-inner" class="postscript-bottom-inner inner clearfix">
-
-<div id="block-gofobo_ads-gofobo_ads-footer-leaderboard" class="block block-gofobo_ads odd first fusion-center-content grid16-16">
-  <div class="inner clearfix">
-            <div class="content clearfix">
-      <div id="gam-holder-footer-leaderboard" class="gam-holder"><script type="text/javascript">GA_googleFillSlot("footer-leaderboard");</script></div>    </div>
-  </div><!-- /block-inner -->
-</div><!-- /block -->
-
-<div id="block-gofobo_movie-gofobo_movie_list_top" class="block block-gofobo_movie even  blocktitle-centered block-border-none-black-bg block-padding-10px nodetitle-white-bold fusion-2-col-list clearfix grid16-8">
-  <div class="inner clearfix">
-            <h2 class="title block-title">Top Movies</h2>
-        <div class="content clearfix">
-      <div id="view-id-gofobo_movie_list_top-block_1" class="view view-gofobo-movie-list-top view-id-gofobo_movie_list_top view-display-id-block_1 view-dom-id-2 ">
-    
-  
-  
-      <div class="view-content">
-        <div class="views-row views-row-1 views-row-odd views-row-first">
-      
-  <div class="views-field-title">
-                <span class="field-content"><h4><a href="/movie/the_one_i_love_2014">The One I Love</a></h4></span>
-  </div>
-  </div>
-  <div class="views-row views-row-2 views-row-even">
-      
-  <div class="views-field-title">
-                <span class="field-content"><h4><a href="/movie/lets_be_cops_2014">Let's Be Cops</a></h4></span>
-  </div>
-  </div>
-  <div class="views-row views-row-3 views-row-odd">
-      
-  <div class="views-field-title">
-                <span class="field-content"><h4><a href="/movie/teenage_mutant_ninja_turtles_2014">Teenage Mutant Ninja Turtles</a></h4></span>
-  </div>
-  </div>
-  <div class="views-row views-row-4 views-row-even">
-      
-  <div class="views-field-title">
-                <span class="field-content"><h4><a href="/movie/into_the_storm_2014">Into the Storm</a></h4></span>
-  </div>
-  </div>
-  <div class="views-row views-row-5 views-row-odd">
-      
-  <div class="views-field-title">
-                <span class="field-content"><h4><a href="/movie/the_maze_runner_2014">The Maze Runner</a></h4></span>
-  </div>
-  </div>
-  <div class="views-row views-row-6 views-row-even">
-      
-  <div class="views-field-title">
-                <span class="field-content"><h4><a href="/movie/hercules_2014">Hercules</a></h4></span>
-  </div>
-  </div>
-  <div class="views-row views-row-7 views-row-odd">
-      
-  <div class="views-field-title">
-                <span class="field-content"><h4><a href="/movie/if_i_stay_2014">If I Stay</a></h4></span>
-  </div>
-  </div>
-  <div class="views-row views-row-8 views-row-even">
-      
-  <div class="views-field-title">
-                <span class="field-content"><h4><a href="/movie/and_so_it_goes_2014">And So It Goes</a></h4></span>
-  </div>
-  </div>
-  <div class="views-row views-row-9 views-row-odd">
-      
-  <div class="views-field-title">
-                <span class="field-content"><h4><a href="/movie/tcm_presents_the_birds_2014">TCM Presents "THE BIRDS"</a></h4></span>
-  </div>
-  </div>
-  <div class="views-row views-row-10 views-row-even views-row-last">
-      
-  <div class="views-field-title">
-                <span class="field-content"><h4><a href="/movie/tcm_presents_miracle_on_34th_street_2014">TCM Presents "MIRACLE ON 34TH STREET"</a></h4></span>
-  </div>
-  </div>
-    </div>
-    <div class="clear"></div>
-  
-  
-  
-  
-  
-  
-</div> <div class="clear"></div>    </div>
-  </div><!-- /block-inner -->
-</div><!-- /block -->
-
-<div id="block-gofobo_actor-gofobo_actor_list_top" class="block block-gofobo_actor odd  last blocktitle-centered block-border-none-black-bg block-padding-10px nodetitle-white-bold fusion-2-col-list clearfix grid16-8">
-  <div class="inner clearfix">
-            <h2 class="title block-title">Top Actors</h2>
-        <div class="content clearfix">
-      <div id="view-id-gofobo_actor_list_top-block_1" class="view view-gofobo-actor-list-top view-id-gofobo_actor_list_top view-display-id-block_1 view-dom-id-2 ">
-    
-  
-  
-      <div class="view-content">
-        <div class="views-row views-row-1 views-row-odd views-row-first">
-      
-  <div class="views-field-title">
-                <span class="field-content"><h4><a href="/actor/denzel_washington">Denzel Washington</a></h4></span>
-  </div>
-  </div>
-  <div class="views-row views-row-2 views-row-even">
-      
-  <div class="views-field-title">
-                <span class="field-content"><h4><a href="/actor/brad_pitt">Brad Pitt</a></h4></span>
-  </div>
-  </div>
-  <div class="views-row views-row-3 views-row-odd">
-      
-  <div class="views-field-title">
-                <span class="field-content"><h4><a href="/actor/mark_wahlberg">Mark Wahlberg</a></h4></span>
-  </div>
-  </div>
-  <div class="views-row views-row-4 views-row-even">
-      
-  <div class="views-field-title">
-                <span class="field-content"><h4><a href="/actor/morgan_freeman">Morgan Freeman</a></h4></span>
-  </div>
-  </div>
-  <div class="views-row views-row-5 views-row-odd">
-      
-  <div class="views-field-title">
-                <span class="field-content"><h4><a href="/actor/tyler_perry">Tyler Perry</a></h4></span>
-  </div>
-  </div>
-  <div class="views-row views-row-6 views-row-even">
-      
-  <div class="views-field-title">
-                <span class="field-content"><h4><a href="/actor/emma_stone">Emma Stone</a></h4></span>
-  </div>
-  </div>
-  <div class="views-row views-row-7 views-row-odd">
-      
-  <div class="views-field-title">
-                <span class="field-content"><h4><a href="/actor/jason_statham">Jason Statham</a></h4></span>
-  </div>
-  </div>
-  <div class="views-row views-row-8 views-row-even">
-      
-  <div class="views-field-title">
-                <span class="field-content"><h4><a href="/actor/bruce_willis">Bruce Willis</a></h4></span>
-  </div>
-  </div>
-  <div class="views-row views-row-9 views-row-odd">
-      
-  <div class="views-field-title">
-                <span class="field-content"><h4><a href="/actor/jennifer_aniston">Jennifer Aniston</a></h4></span>
-  </div>
-  </div>
-  <div class="views-row views-row-10 views-row-even views-row-last">
-      
-  <div class="views-field-title">
-                <span class="field-content"><h4><a href="/actor/anne_hathaway">Anne Hathaway</a></h4></span>
-  </div>
-  </div>
-    </div>
-    <div class="clear"></div>
-  
-  
-  
-  
-  
-  
-</div> <div class="clear"></div>    </div>
-  </div><!-- /block-inner -->
-</div><!-- /block -->
-</div><!-- /postscript-bottom-inner -->
-</div><!-- /postscript-bottom -->
-</div><!-- /postscript-bottom-wrapper -->
-
-      <!-- footer row: width = grid_width -->
-      <div id="footer-wrapper" class="footer-wrapper full-width">
-<div id="footer" class="footer row grid16-16">
-<div id="footer-inner" class="footer-inner inner clearfix">
-
-<div id="block-gofobo_core-gofobo_core_primary_links" class="block block-gofobo_core odd first ">
-  <div class="inner clearfix">
-            <h2 class="title block-title">Primary Links</h2>
-        <div class="content clearfix">
-      <ul class="menu"><li class="leaf first"><a href="/screenings/search">Screenings</a></li>
-<li class="expanded"><a href="/movies">Movies</a><ul class="menu"><li class="leaf first"><a href="/movies/box_office" class="mi-featured">Box Office</a></li>
-<li class="leaf"><a href="/movies/in_theaters" class="mi-featured">In Theaters</a></li>
-<li class="leaf"><a href="/movies/popular" class="mi-featured">Popular</a></li>
-<li class="leaf"><a href="/movies/upcoming" class="mi-featured">Upcoming</a></li>
-<li class="leaf"><a href="/movies/events">Events</a></li>
-<li class="leaf"><a href="/movies/groups">Groups</a></li>
-<li class="leaf"><a href="/movies/news">News</a></li>
-<li class="leaf"><a href="/movies/photos">Photos</a></li>
-<li class="leaf"><a href="/movies/user_reviews">User Reviews</a></li>
-<li class="leaf last"><a href="/movies/videos">Videos</a></li>
-</ul></li>
-<li class="expanded"><a href="/actors">Actors</a><ul class="menu"><li class="leaf first"><a href="/actors/popular" class="mi-featured">Popular</a></li>
-<li class="leaf"><a href="/actors/events">Events</a></li>
-<li class="leaf"><a href="/actors/groups">Groups</a></li>
-<li class="leaf"><a href="/actors/news">News</a></li>
-<li class="leaf"><a href="/actors/photos">Photos</a></li>
-<li class="leaf last"><a href="/actors/videos">Videos</a></li>
-</ul></li>
-<li class="expanded"><a href="/sweepstakes">Sweepstakes</a><ul class="menu"><li class="leaf first"><a href="/sweepstakes/current">Current</a></li>
-<li class="leaf last"><a href="/sweepstakes/past">Past</a></li>
-</ul></li>
-<li class="collapsed last"><a href="/my_fobo" title="My Fobo" class="mi-myfobo">My Fobo</a></li>
-</ul>    </div>
-  </div><!-- /block-inner -->
-</div><!-- /block -->
-
-<div id="block-gofobo_core-gofobo_core_secondary_links" class="block block-gofobo_core even  ">
-  <div class="inner clearfix">
-            <h2 class="title block-title">Secondary Links</h2>
-        <div class="content clearfix">
-      <ul class="menu"><li class="leaf first"><a href="/events">Events</a></li>
-<li class="leaf"><a href="/groups">Groups</a></li>
-<li class="leaf"><a href="/news">News</a></li>
-<li class="leaf"><a href="/photos">Photos</a></li>
-<li class="leaf"><a href="/movie_reviews">Reviews</a></li>
-<li class="leaf"><a href="/videos">Videos</a></li>
-<li class="leaf last"><a href="http://www.gofoboshop.com" target="_blank">gofobo shop </a></li>
-</ul>    </div>
-  </div><!-- /block-inner -->
-</div><!-- /block -->
-
-<div id="block-gofobo_core-gofobo_core_legal_links" class="block block-gofobo_core odd  last ">
-  <div class="inner clearfix">
-            <h2 class="title block-title">Legal</h2>
-        <div class="content clearfix">
-      <ul class="menu"><li class="leaf first"><a href="/about">About</a></li>
-<li class="leaf"><a href="/feedback">Contact</a></li>
-<li class="leaf"><a href="/faq" title="Frequently Asked Questions">FAQ</a></li>
-<li class="leaf"><a href="/jobs">Jobs</a></li>
-<li class="leaf active-trail"><a href="/privacy_policy" title="gofobo Privacy Policy" class="active">Privacy Policy</a></li>
-<li class="leaf last"><a href="/legal" title="GOFOBO Terms &amp; Conditions of Service">Terms &amp; Conditions of Service</a></li>
-</ul>    </div>
-  </div><!-- /block-inner -->
-</div><!-- /block -->
-</div><!-- /footer-inner -->
-</div><!-- /footer -->
-</div><!-- /footer-wrapper -->
-
-      <!-- footer-message row: width = grid_width -->
-      <div id="footer-message-wrapper" class="footer-message-wrapper full-width">
-        <div id="footer-message" class="footer-message row grid16-16">
-          <div id="footer-message-inner" class="footer-message-inner inner clearfix">
-                      </div><!-- /footer-message-inner -->
-        </div><!-- /footer-message -->
-      </div><!-- /footer-message-wrapper -->
-
-      <!-- footer-bottom row: width = grid_width -->
-      <div id="footer-bottom-wrapper" class="footer-bottom-wrapper full-width">
-<div id="footer-bottom" class="footer-bottom row full-width">
-<div id="footer-bottom-inner" class="footer-bottom-inner inner clearfix">
-
-<div id="block-gofobo_core-gofobo_core_footer_copyright" class="block block-gofobo_core odd first fusion-center-content grid16-0">
-  <div class="inner clearfix">
-            <div class="content clearfix">
-      © 2007-2014, Entertainment Printing Services, LLC. All rights reserved. All images are property of their respective copyright holders.<br>
-    Operating under US patents: 7490756 B1 and 7472823 B1 <br> GOFOBO and the GOFOBO logo are trademarks of Entertainment Printing Services, LLC, and registered in the U.S. and Canada.<br>
-    Use of this website constitutes acceptance of gofobo's <a href="/terms_of_service">Terms of Service</a>,<a href="http://www.gofobo.it/gofobocookiepolicy"> Cookie Policy</a> and <a href="/privacy_policy">Privacy Policy</a>    </div>
-  </div><!-- /block-inner -->
-</div><!-- /block -->
-</div><!-- /footer-bottom-inner -->
-</div><!-- /footer-bottom -->
-</div><!-- /footer-bottom-wrapper -->
-
-    </div><!-- /page-inner -->
-  </div><!-- /page -->
-  <div id="feedback-tab"><a href="/feedback">feedback</a></div>
-  <div id="fb-root"><script src="https://connect.facebook.net/en_US/all.js" async=""></script></div>
-<script type="text/javascript">
-<!--//--><![CDATA[//><!--
-  jQuery.extend(Drupal.settings, {"fb":{"base_url":"http:\/\/www.gofobo.com","ajax_event_url":"http:\/\/www.gofobo.com\/fb\/ajax","is_anonymous":true,"fb_init_settings":{"xfbml":false,"status":false,"oauth":true,"cookie":true,"channelUrl":"http:\/\/www.gofobo.com\/fb\/channel"},"test_login_status":false,"get_login_status":true,"controls":"","js_sdk_url":"http:\/\/connect.facebook.net\/en_US\/all.js"}});
-
-if (typeof(FB) == 'undefined') {
-  var e = document.createElement('script');
-  e.async = true;
-  e.src = Drupal.settings.fb.js_sdk_url;
-  document.getElementById('fb-root').appendChild(e);
-}
+				<h4 class="mt1">DISPUTE RESOLUTION.</h4>
+				<p>The Privacy Policy and the relationship between you and gofobo.com shall be governed by the laws of the United States and the State of California without regard to its conflict of law provisions. Any action or proceeding arising from, relating to or in connection with the Privacy Policy will be brought exclusively in the federal or state courts located in San Diego, California, and you irrevocably consent to the personal jurisdiction of such courts and agree that it is a convenient forum and that you will not seek to transfer such action or proceeding to any other forum or jurisdiction, under the doctrine of forum non convenient or otherwise. No failure or delay by gofobo.com in exercising any right, power or privilege under the Privacy Policy will operate as a waiver thereof, nor will any single or partial exercise of any right, power or privilege preclude any other or further exercise thereof or the exercise of any other right, power, or privilege under the Privacy Policy. The invalidity or unenforceability of any provision of the Privacy Policy will not affect the validity or enforceability of any other provision, all of which will remain in full force and effect. You agree that regardless of any statute or law to the contrary, any claim or cause of action arising out of, related to or connected with the use of the Service or the Privacy Policy must be filed within one (1) year after such claim or cause of action arose or be forever barred. The section titles in the Privacy Policy are for convenience only and have no legal or contractual effect. The Privacy Policy represents the entire understanding of the parties regarding its subject matter, and supersede all prior and contemporaneous agreements and understandings between the parties regarding its subject matter. These terms and conditions are binding upon and shall ensure to the benefit of both parties and their respective successors, heirs, executor, administrators, personal representatives and permitted assigns. You shall not assign your rights or obligations hereunder without gofobo.com's prior written consent.</p>
 
 
-//--><!]]>
-
-</script>
-
-      <div id="fb-root"></div>
-      <script type="text/javascript">
-        window.fbAsyncInit = function() {
-          FB.init({
-            appId  : '129341820459103',
-            status : true, // check login status
-            cookie : true, // enable cookies to allow the server to access the session
-            xfbml  : true,
-            logging: '1',
-            channelURL: 'http://www.gofobo.com/sites/all/modules/fbconnect/channel.html',
-            oauth : true
-          });
-
-          jQuery(document).trigger('fb:init');
-        };
-
-        (function() {
-          var e = document.createElement('script');
-          e.src = document.location.protocol + '//connect.facebook.net/en_US/all.js';
-          e.async = true;
-          document.getElementById('fb-root').appendChild(e);
-        }());
-      </script>
-<div style="display: none"><form action="/privacy_policy?destination=node%2F16204" accept-charset="UTF-8" method="post" id="fbconnect-autoconnect-form">
-<div><input type="submit" name="op" id="edit-connect" value="Connect" class="form-submit">
-<input type="hidden" name="form_build_id" id="form-kyRjgbbjnI63cM7XCmoz9uoXPD83C0FYWvM-E2kJpN8" value="form-kyRjgbbjnI63cM7XCmoz9uoXPD83C0FYWvM-E2kJpN8">
-<input type="hidden" name="form_id" id="edit-fbconnect-autoconnect-form" value="fbconnect_autoconnect_form">
-
-</div></form>
+			</div>
+			<br class="clear">
+			<br class="clear">
+		</div>
+		<br class="clear"><br class="clear">
+	</div>
+	
+	<!-- FOOTER -->
+	<div class="footer bottom"><div class="footer">
+<style>
+.ig-b- { display: inline-block; }
+.ig-b- img { visibility: hidden; }
+.ig-b-:hover { background-position: 0 -60px; } .ig-b-:active { background-position: 0 -120px; }
+.ig-b-32 { width: 32px; height: 32px; background: url(//badges.instagram.com/static/images/ig-badge-sprite-32.png) no-repeat 0 0; }
+@media only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (min--moz-device-pixel-ratio: 2), only screen and (-o-min-device-pixel-ratio: 2 / 1), only screen and (min-device-pixel-ratio: 2), only screen and (min-resolution: 192dpi), only screen and (min-resolution: 2dppx) {
+.ig-b-32 { background-image: url(//badges.instagram.com/static/images/ig-badge-sprite-32@2x.png); background-size: 60px 178px; } }
+</style>
+	
+	<div class="top-border"></div>
+	<div class="inner footer-logo">
+		<ul>
+			<li class="footer-bold">COMPANY</li>
+			<li><a href="/main/how_it_works">How It Works</a></li>
+			<li><a href="/main/login">Log In</a></li>
+			<li><a href="/main/account_create">Sign Up</a></li>
+			<li><a href="/main/about">About</a></li>
+			<li><a href="/main/contact">Contact</a></li>
+			<li><a href="/main/advertise">Advertise With Us</a></li>
+			<li><a href="/main/faq">FAQ</a></li>
+			<li><a href="/main/terms_of_service">Terms And Conditions</a></li>
+			<li><a href="/main/privacy_policy">Privacy Policy</a></li>
+			<li><a href="/main/sitemap">Sitemap</a></li>
+		</ul>
+		<ul>
+			<li class="footer-bold">GETTING PASSES</li>
+			<li><a href="/main/code_redeem">Redeem a Code</a></li>
+			<li><a href="/main/local_screenings">Upcoming Screenings</a></li>
+			<li><a href="/main/sweepstakes_browse">Sweepstakes</a></li>
+		</ul>
+		<div class="eighty block-center mt1">
+			<hr class="blue">
+		</div>
+		<ul class="social">
+			<li class="footer-bold">CONNECT</li>
+			<li><a class="icon fb-white fl" href="https://www.facebook.com/gofobo" target="_blank"></a></li>
+			<li><a class="icon tw-white fl" href="https://twitter.com/gofobo"></a></li>
+			<li><a class="icon gp-white fl" href="https://google.com/+gofobo" target="_blank"></a></li>
+			<li><a class="icon in-white fl" href="https://www.youtube.com/user/gofobo" target="_blank"></a></li>
+			<li><a class="icon ig-white fl" href="http://instagram.com/gofobo_official?ref=badge" target="_blank"></a></li>
+		</ul>
+		<ul>
+			<li class="copyright">© 2014 gofobo All Rights Reserved.</li>
+		</ul> 
+	</div>
 </div>
-<!-- server: 10.222.134.172 --><br><br><br><script type="text/javascript">
-<!--//--><![CDATA[//><!--
-var _gaq = _gaq || [];_gaq.push(["_setAccount", "UA-145160-3"]);_gaq.push(["_trackPageview"]);(function() {var ga = document.createElement("script");ga.type = "text/javascript";ga.async = true;ga.src = ("https:" == document.location.protocol ? "https://ssl" : "http://www") + ".google-analytics.com/ga.js";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ga, s);})();
-//--><!]]>
-</script>
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-6.newrelic.com","licenseKey":"8fa50662c1","applicationID":"170904","transactionName":"MldRN0pSV0VXU00MVwsdcgBMWlZYGV5WAV06QlIEXWxPX1NH","queueTime":0,"applicationTime":850,"ttGuid":"","agentToken":"","atts":"HhBSQQJIREs=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-476.min.js"}</script>
+<script type="text/javascript" src="/assets/js/classie.js"></script>
+<script type="text/javascript" src="/assets/js/demo1.js"></script></div>
+	
 
-<script src="https://js-agent.newrelic.com/nr-476.min.js"></script></body></html>
+
+
+</body></html>
