@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ebooks.com privacy policy that was archived on 2014-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140705052819id_/http%3A//www.ebooks.com/information/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebooks.com privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611202658id_/http%3A//www.ebooks.com/information/privacy.asp) for the most accurate reproduction.*
 
 # Help - Privacy
 
@@ -57,7 +57,7 @@ We use a credit card processing company to bill you for goods and services. Thes
 
 Cookies are pieces of information that a website can transfer to an individual's web browser on their computer hard drive for record keeping. Cookies can make using websites easier by storing information about your preferences on a particular website. The information remains on your computer after the Internet session finishes. 
 
-eBooks.com cookies to improve the functionality of its site and support all browsers. eBooks.com uses cookies to assess the performance of the Website and to confirm your preferences.
+eBooks.com uses cookies to improve the functionality of it's site and to support all browsers. eBooks.com uses cookies to assess the performance of the Website and to confirm your preferences. eBooks.com also uses cookies to determine the effectiveness of our third party partners' and our own marketing efforts and communications.
 
 Most Internet browsers are pre-set to accept cookies. If you prefer not to receive cookies, you can adjust your Internet browser to refuse cookies or to warn you when cookies are being used. These cookies do not contain any personally identifiable information. 
 
