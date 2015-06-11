@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the apresults2014.in privacy policy that was archived on 2014-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141228181906id_/http%3A//www.apresults2014.in/2014/07/privacy-policy-and-disclaimer.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apresults2014.in privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611115443id_/http%3A//www.apresults2014.in/2014/07/privacy-policy-and-disclaimer.html) for the most accurate reproduction.*
 
 # Privacy Policy and Disclaimer | Exam Results Recruitment web counselling Eamcet, icet, deecet, pgecet
 
