@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the southeastbymidwest.com privacy policy that was archived on 2014-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141208185927id_/http%3A//southeastbymidwest.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the southeastbymidwest.com privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611145052id_/http%3A//southeastbymidwest.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Southeast by Midwest
 
@@ -67,6 +67,6 @@ This policy was last modified on 03/30/14
 
 ## Contacting Us
 
-If there are any questions regarding this privacy policy you may contacting me via email at cassie@southeastbymidwest.com
+If there are any questions regarding this privacy policy you may contacting me via email at ctucker7907@gmail.com
 
 This policy is powered by Free Privacy Policy and Rhino Support help desk software.
