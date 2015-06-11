@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the kalynskitchen.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120122332id_/http%3A//kalynskitchen.blogspot.com/2005/04/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kalynskitchen.com privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612000450id_/http%3A//kalynskitchen.blogspot.com/2005/04/privacy-policy.html) for the most accurate reproduction.*
 
-# Kalyn's Kitchen®: Privacy Policy
+# Privacy Policy | Kalyn's Kitchen®
 
 **General Statement About Privacy:**  
 Kalyn's Kitchen is committed to maintaining the privacy and protection of your personal information when you visit this website. This policy outlines what information may be collected when you visit the site, and how that information is used. When you continue to visit this website, you are consenting to the practices described in this policy.
@@ -23,9 +23,6 @@ If you would like to contact the Advertisers to learn more about their privacy p
 BlogHer Publishing Network  
 <http://www.blogher.com/privacy-policy>
 
-PlateFull Ad Network  
-<http://www.coxdigitalsolutions.com/privacy-policy>
-
 Lijit Networks Inc.  
 <http://www.lijit.com/company/privacy-policy>
 
@@ -37,6 +34,6 @@ If you have any questions about this policy please contact kalynskitchen (at) co
 **Changes to This Policy:**  
 We reserve the right to update or change this privacy policy at any time. Any such change, modification, or addition to the privacy policy on Kalyn's Kitchen will become effective immediately upon posting on the site.
 
-This policy last updated on January 21, 2014.
+This policy last updated on December 17, 2014.
 
 [](http://www.statcounter.com/)
