@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thecrazyprogrammer.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231012718id_/http%3A//www.thecrazyprogrammer.com/p/privacy-policy_6362.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thecrazyprogrammer.com privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611055344id_/http%3A//www.thecrazyprogrammer.com/p/privacy-policy_6362.html) for the most accurate reproduction.*
 
-# Privacy Policy | The Crazy Programmer
+# Privacy Policy | The Crazy Programmer - Programming, Design & Development
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at  _ **sareneeru94@gmail.com**_.   
   
