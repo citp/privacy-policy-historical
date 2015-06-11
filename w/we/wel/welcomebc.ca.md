@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the welcomebc.ca privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217120217id_/http%3A//www2.gov.bc.ca/gov/admin/privacy.page) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the welcomebc.ca privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612004636id_/http%3A//www2.gov.bc.ca/gov/admin/privacy.page) for the most accurate reproduction.*
 
 # copyright
 
