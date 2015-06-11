@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mercaporn.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220074701id_/http%3A//www.mercaporn.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mercaporn.com privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611083657id_/http%3A//www.mercaporn.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - MercaPorn.com
 
