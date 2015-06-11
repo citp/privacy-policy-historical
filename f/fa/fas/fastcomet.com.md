@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fastcomet.com privacy policy that was archived on 2014-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141224131442id_/http%3A//www.fastcomet.com/terms/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fastcomet.com privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611100853id_/http%3A//www.fastcomet.com/terms/privacy-policy) for the most accurate reproduction.*
 
 # FastComet - Web Hosting Services
 
