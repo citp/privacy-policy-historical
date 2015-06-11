@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the agriculture.gov.au privacy policy that was archived on 2014-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141210040947id_/http%3A//www.agriculture.gov.au/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the agriculture.gov.au privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612004553id_/http%3A//www.agriculture.gov.au/about/privacy) for the most accurate reproduction.*
 
-# About Privacy
+# Department of Agriculture Privacy - Department of Agriculture and Water Resources
 
 ​​The department provides the following Privacy Policy in accordance with the Privacy Act 1988.
 
@@ -12,7 +12,7 @@ The purpose of this privacy policy is to:
 
 
 
-This condensed privacy policy has been developed to follow the ‘layered policy’ format, which means that it offers layers of greater or lesser detail so people can read as much as they wish and find what they need. This document provides you with a succinct overview of how we handle your personal information. Our complete privacy policy ( Word [[127 KB](https://web.archive.org/Style%20Library/Images/DAFF/__data/assets/word_doc/0004/2376796/Complete_privacy_policy.doc)]) can be accessed on our website.
+This condensed privacy policy has been developed to follow the ‘layered policy’ format, which means that it offers layers of greater or lesser detail so people can read as much as they wish and find what they need. This document provides you with a succinct overview of how we handle your personal information. Our complete privacy policy ( Word [[146 KB](https://web.archive.org/Style%20Library/Images/DAFF/__data/assets/word_doc/0004/2376796/Complete_privacy_policy.doc)]) can be accessed on our website.
 
 If you wish to make any comments or suggestions about the privacy policy, you can do so by contacting the privacy team in the Office of the General Counsel within the department via:
 
@@ -32,7 +32,7 @@ The privacy policy was last reviewed in March 2014.
 
 ## Our obligations under the Privacy Act
 
-This privacy policy sets out how we comply with our obligations under the [_Privacy Act 1988_](http://www.comlaw.gov.au/Search/privacy%20Act%201988) (Privacy Act). As an Australian Government agency, we are bound by the Australian Privacy Principles (APP) in the Privacy Act which regulate how government agencies collect, use, store and disclose personal information, and how individuals may access and correct personal information held about them.
+This privacy policy sets out how we comply with our obligations under the [ _Privacy Act 1988_](http://www.comlaw.gov.au/Search/privacy%20Act%201988) (Privacy Act). As an Australian Government agency, we are bound by the Australian Privacy Principles (APP) in the Privacy Act which regulate how government agencies collect, use, store and disclose personal information, and how individuals may access and correct personal information held about them.
 
 ## Personal information
 
@@ -139,6 +139,7 @@ A variety of information is collected by using the department’s website and on
 | 
 
 The department’s servers may record your email address if you send us a message online. Your email address will not be added to a mailing list unless you have provided it to the department in order to subscribe to one of our subscription services.  
+When you send us a message online the department’s servers may also record your usage data in the form of page URLs that you have visited on our websites. These URLs will be used for research purposes only within the department.​  
 Where you choose to send the department a completed electronic form that includes your personal details, the department collects personal information such as name, address and email address. The information collected by email or electronic forms will be used only for the purpose for which you provided it, unless an exception applies.  
 For those who do not wish to use the internet to transmit information, the department provides alternative ways of providing information. For example, forms may be printed (or obtained in hard copy) and lodged by post.  
   
