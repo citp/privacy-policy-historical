@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the swift.com privacy policy that was archived on 2014-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141221214638id_/http%3A//www.swift.com/about_swift/legal/privacy_statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swift.com privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611084015id_/http%3A//www.swift.com/about_swift/legal/privacy_statement) for the most accurate reproduction.*
 
 # Privacy Statement
 
