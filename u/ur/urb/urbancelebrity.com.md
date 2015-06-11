@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the urbancelebrity.com privacy policy that was archived on 2014-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141205135842id_/http%3A//www.urbancelebrity.com/privacy-policy-i4) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the urbancelebrity.com privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611030029id_/http%3A//www.urbancelebrity.com/privacy-policy-i4) for the most accurate reproduction.*
 
 # Privacy Policy
 
