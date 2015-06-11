@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marketingeye.com.au privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702010122id_/http%3A//www.marketingeye.com.au/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marketingeye.com.au privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611032638id_/http%3A//www.marketingeye.com.au/privacy.html) for the most accurate reproduction.*
 
 # Privacy - Marketing Eye
 
@@ -15,3 +15,29 @@ By using our Web site, you give Marketing Eye permission to collect information 
 If you are under the age of 18, you must not provide your name, e-mail address, or any other identifying information without the consent of your parent or guardian, or as otherwise provided for by applicable law.
 
 If you have any questions regarding our privacy policy, please [contact us](http://www.marketingeye.com.au/contact-us.html). Any changes to this policy will be posted here, and will be effective once uploaded to this site. 
+
+### Latest Blogs
+
+  * #### [Why your narrative has to change](http://www.marketingeye.com.au/marketing-blog/mellissah-smith/why-your-narrative-has-to-change.html)
+
+I've recently changed the narrative of my business. It's not something I took lightly. Re-defining what value you provide to the market place can be game-changing, or business destroying. If you look at Uber for instance, they could have failed, but… 
+
+[ Read more... ](http://www.marketingeye.com.au/marketing-blog/mellissah-smith/why-your-narrative-has-to-change.html)
+  * #### [Why you must look at new markets for brand traction](http://www.marketingeye.com.au/marketing-blog/marketing/brand-positioning-in-new-markets.html)
+
+The rise of video gaming as a lucrative, commercial industry should be enough to have advertisers banging down the doors of gaming companies. It seems, however that, brand positioning within the gaming community isn’t high on their agenda. Perhaps this… 
+
+[ Read more... ](http://www.marketingeye.com.au/marketing-blog/marketing/brand-positioning-in-new-markets.html)
+  * 
+
+
+###  Connect with Us
+
+#### Newsletter Subscribe
+
+Sign up today and never miss another deal again!  
+[Subscribe](http://www.marketingeye.com.au/newsletter-subscribe.html "Newsletter Subscribe form")
+
+### Latest Marketing Eye Tweets
+
+[__](http://www.marketingeye.com.au/privacy.html#)
