@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the naturallyella.com privacy policy that was archived on 2014-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141126072830id_/http%3A//naturallyella.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the naturallyella.com privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611083746id_/http%3A//naturallyella.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Naturally Ella
 
@@ -20,9 +20,9 @@ Our Site may use “cookies” to enhance User experience. User’s web browser 
 
 Naturally Ella may collect and use Users personal information for the following purposes:
 
-  * _\- To improve our Site_  
+  * _– To improve our Site_  
 We may use feedback you provide to improve our products and services.
-  * _\- To send periodic emails_  
+  * _– To send periodic emails_  
 We may use the email address to respond to their inquiries, questions, and/or other requests.
 
 
