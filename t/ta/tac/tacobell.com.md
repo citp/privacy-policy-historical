@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tacobell.com privacy policy that was archived on 2014-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141229045234id_/http%3A//www.tacobell.com/Company/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tacobell.com privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611084245id_/http%3A//www.tacobell.com/Company/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | Taco Bell
 
