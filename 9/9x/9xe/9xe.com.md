@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 9xe.com privacy policy that was archived on 2014-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141208171428id_/http%3A//9xe.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 9xe.com privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611191107id_/http%3A//www.9xe.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # 
 
