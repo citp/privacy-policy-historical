@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the demon-tweeks.com privacy policy that was archived on 2014-06-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140626023141id_/http%3A//www.demon-tweeks.co.uk/privacy-statement) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the demon-tweeks.com privacy policy that was archived on 2015-06-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150611203126id_/http%3A//www.demon-tweeks.co.uk/privacy-statement) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -8,22 +8,23 @@
 <meta name="description" content="Privacy Statement">
 <link href="/css/ebs.css" rel="stylesheet" type="text/css">
 <link href="/css/menu-dt.css" rel="stylesheet" type="text/css">
-<link rel="SHORTCUT ICON" href="/oncirrus/3/system/favicon.ico">
+<link rel="SHORTCUT ICON" href="/oncirrus/3/system/4/favicon.ico">
 <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script language="JavaScript" type="text/javascript" src="/js/ebs.js"></script>
 <script language="JavaScript" type="text/javascript" src="/js/home.js"></script>
 <script language="JavaScript" type="text/javascript" src="/js/menu-dt.js"></script>
+<script language="JavaScript" type="text/javascript" src="/js/jquery-1.9.1.js"></script>
 
     <script type="text/javascript">
         var _gaq = _gaq || [];
-        _gaq.push(['_setAccount', 'UA-4099379-1']);
-        _gaq.push(['_trackPageview']);
-        _gaq.push(['_trackPageLoadTime']);
+_gaq.push(['_setAccount', 'UA-4099379-1']);
+_gaq.push(['_trackPageview']);
+_gaq.push(['_trackPageLoadTime']);
 
-        (function() {
-            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-        })();
+(function() {
+var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
     </script>
 
 
@@ -45,23 +46,23 @@
                 <img src="/oncirrus/3/system/4/tel.jpg" alt="Demon Tweeks telephone number" border="0">
             </div>
             <div id="checkout">
-                <a href="/signin" class="stdBoldUpper">Sign in</a><span class="spacer">|</span><a href="/register" class="stdBoldUpper">Register</a><span class="spacer">|</span><a href="/account" class="stdBoldUpper">Your Account</a><span class="spacer">|</span><a href="/basket" class="stdBoldUpper">Your Basket</a><span class="spacer">|</span><a href="/checkout" class="stdBoldUpper">Checkout</a>
+                <a href="/signin" class="stdBoldUpper">Sign in</a><span class="spacer">|</span><a href="/register" class="stdBoldUpper">Register</a><span class="spacer">|</span><a href="/account" class="stdBoldUpper">Account</a><span class="spacer">|</span><a href="/checkout" class="stdBoldUpper">Checkout</a>
             </div>
             <div id="currency" style="clear: right; float: right">
                 
-                    <div class="vat-button" onclick="setVat('EX')">
+                
+                    <div class="vat-button">
                         <span style="font-size: 9px; font-weight: bold">VAT EX</span>
                     </div>
                     <div class="vat-button" style="margin-top: 45px" onclick="setVat('EX')">
-                        <span style="padding-right: 5px"><img src="/oncirrus/3/system/4/vat-circle.png" border="0" alt="Vat"></span>
+                        <span style="padding-right: 5px"><img src="/oncirrus/3/system/4/vat-circle-on.png" border="0" alt="Vat"></span>
                     </div>
                     <div class="vat-button" style="margin-right: 5px" onclick="setVat('INC')">
                         <span style="font-size: 9px; font-weight: bold">VAT INC</span>
                     </div>
                     <div class="vat-button" style="margin-top: 45px" onclick="setVat('INC')">
-                        <span style="padding-right: 5px"><img src="/oncirrus/3/system/4/vat-circle-on.png" border="0" alt="Vat"></span>
+                        <span style="padding-right: 5px"><img src="/oncirrus/3/system/4/vat-circle.png" border="0" alt="Vat"></span>
                     </div>
-                
                 
                 <div id="currency-button">
                     
@@ -300,13 +301,13 @@
                     <td style="width: 321px; padding-left: 5px">
                         
                             
-                                <a href="/about-us" class="std">About us</a>
+                                <a href="/contact-us" class="std">Contact Us</a>
                             
                             
                         
                             
                             
-                                <span class="spacer">|</span><a href="/contact-us" class="std">Contact Us</a>
+                                <span class="spacer">|</span><a href="/about-us" class="std">About Us</a>
                             
                         
                             
@@ -364,7 +365,7 @@
                     <td style="width: 321px; padding-right: 5px">
                         <div style="float: right">
                             <div class="basket-button">
-                                <img src="/oncirrus/system/basket.png">&nbsp;<a href="/basket" class="stdnu" alt="Basket" onmouseover="showWindow('basket')" onmouseout="hideWindow('basket')">Your basket <span id="basket-qty">0</span> items <span id="basket-price">£0.00</span></a>
+                                <img src="/oncirrus/system/basket.png">&nbsp;<a href="/basket" class="stdnu" alt="Basket" onmouseover="showBasket()" onmouseout="hideBasket()">Your basket <span id="basket-qty">0</span> items <span id="basket-price">£0.00 Ex</span></a>
                             </div>
                             <div class="spacer basket-button">|</div>
                             <div class="basket-button">
@@ -382,16 +383,16 @@
             
                 <div id="left-menu">
                     
+                        <a href="/10-saving-when-paying-in-euros" class="std left-menu-item">
+                            <img src="/oncirrus/system/arrow-right-grey.png" alt="10% Saving When Paying In Euros" border="0">&nbsp;10% Saving When Paying In Euros
+                        </a>
+                    
                         <a href="/about-us" class="std left-menu-item">
-                            <img src="/oncirrus/system/arrow-right-grey.png" alt="About us" border="0">&nbsp;About us
+                            <img src="/oncirrus/system/arrow-right-grey.png" alt="About Us" border="0">&nbsp;About Us
                         </a>
                     
-                        <a href="/bike-fitting-centre" class="std left-menu-item">
-                            <img src="/oncirrus/system/arrow-right-grey.png" alt="Bike Fitting Centre" border="0">&nbsp;Bike Fitting Centre
-                        </a>
-                    
-                        <a href="/car-fitting-centre" class="std left-menu-item">
-                            <img src="/oncirrus/system/arrow-right-grey.png" alt="Car Fitting Centre" border="0">&nbsp;Car Fitting Centre
+                        <a href="/click-and-collect" class="std left-menu-item">
+                            <img src="/oncirrus/system/arrow-right-grey.png" alt="Click and Collect" border="0">&nbsp;Click and Collect
                         </a>
                     
                         <a href="/contact-us" class="std left-menu-item">
@@ -402,16 +403,36 @@
                             <img src="/oncirrus/system/arrow-right-grey.png" alt="Delivery &amp; Returns" border="0">&nbsp;Delivery &amp; Returns
                         </a>
                     
+                        <a href="/2015-shift-clothing-sneak-preview" class="std left-menu-item">
+                            <img src="/oncirrus/system/arrow-right-grey.png" alt="2015 Shift Clothing Sneak Preview" border="0">&nbsp;2015 Shift Clothing Sneak Preview
+                        </a>
+                    
+                        <a href="/bike-fitting-centre" class="std left-menu-item">
+                            <img src="/oncirrus/system/arrow-right-grey.png" alt="Bike Fitting Centre" border="0">&nbsp;Bike Fitting Centre
+                        </a>
+                    
+                        <a href="/car-fitting-centre" class="std left-menu-item">
+                            <img src="/oncirrus/system/arrow-right-grey.png" alt="Car Fitting Centre" border="0">&nbsp;Car Fitting Centre
+                        </a>
+                    
                         <a href="/demon-tweeks-careers" class="std left-menu-item">
                             <img src="/oncirrus/system/arrow-right-grey.png" alt="Demon Tweeks Careers" border="0">&nbsp;Demon Tweeks Careers
+                        </a>
+                    
+                        <a href="/disclaimer" class="std left-menu-item">
+                            <img src="/oncirrus/system/arrow-right-grey.png" alt="Disclaimer" border="0">&nbsp;Disclaimer
+                        </a>
+                    
+                        <a href="/email-newsletter-sign-up" class="std left-menu-item">
+                            <img src="/oncirrus/system/arrow-right-grey.png" alt="Email Newsletter Sign Up" border="0">&nbsp;Email Newsletter Sign Up
                         </a>
                     
                         <a href="/demon-tweeks-facebook-competition-terms-and-conditions" class="std left-menu-item">
                             <img src="/oncirrus/system/arrow-right-grey.png" alt="Demon Tweeks Facebook Competition Terms And Conditions" border="0">&nbsp;Demon Tweeks Facebook Competition Terms And Conditions
                         </a>
                     
-                        <a href="/disclaimer" class="std left-menu-item">
-                            <img src="/oncirrus/system/arrow-right-grey.png" alt="Disclaimer" border="0">&nbsp;Disclaimer
+                        <a href="/falken-tyres-free-fuel-offer" class="std left-menu-item">
+                            <img src="/oncirrus/system/arrow-right-grey.png" alt="Falken Tyres - Free Fuel Offer" border="0">&nbsp;Falken Tyres - Free Fuel Offer
                         </a>
                     
                         <a href="/faqs-frequently-asked-questions" class="std left-menu-item">
@@ -430,20 +451,20 @@
                             <img src="/oncirrus/system/arrow-right-grey.png" alt="Focused Events" border="0">&nbsp;Focused Events
                         </a>
                     
+                        <a href="/free-50-pound-dainese-voucher-with-metzeler-roadtec-z8-interact-tyres" class="std left-menu-item">
+                            <img src="/oncirrus/system/arrow-right-grey.png" alt="Free 50 Pound Dainese Voucher With Metzeler Roadtec Z8 Interact Tyres" border="0">&nbsp;Free 50 Pound Dainese Voucher With Metzeler Roadtec Z8 Interact Tyres
+                        </a>
+                    
                         <a href="/japanese-customer-information" class="std left-menu-item">
                             <img src="/oncirrus/system/arrow-right-grey.png" alt="Japanese Customer Information" border="0">&nbsp;Japanese Customer Information
                         </a>
                     
-                        <a href="/motorcycle-open-day-2014" class="std left-menu-item">
-                            <img src="/oncirrus/system/arrow-right-grey.png" alt="Motorcycle Open Day 2014" border="0">&nbsp;Motorcycle Open Day 2014
+                        <a href="/pirelli-free-3-day-bsb-ticket-offer" class="std left-menu-item">
+                            <img src="/oncirrus/system/arrow-right-grey.png" alt="Pirelli Free 3-Day BSB Ticket Offer" border="0">&nbsp;Pirelli Free 3-Day BSB Ticket Offer
                         </a>
                     
-                        <a href="/pirelli-dainese-back-protector-offer-hurry-offer-ends-30th-june" class="std left-menu-item">
-                            <img src="/oncirrus/system/arrow-right-grey.png" alt="Pirelli Dainese Back Protector Offer - Hurry Offer Ends 30th June!" border="0">&nbsp;Pirelli Dainese Back Protector Offer - Hurry Offer Ends 30th June!
-                        </a>
-                    
-                        <a href="/pirelli-free-bsb-ticket-offer" class="std left-menu-item">
-                            <img src="/oncirrus/system/arrow-right-grey.png" alt="Pirelli Free BSB Ticket offer" border="0">&nbsp;Pirelli Free BSB Ticket offer
+                        <a href="/pirelli-dainese-back-protector-offer-while-stocks-last" class="std left-menu-item">
+                            <img src="/oncirrus/system/arrow-right-grey.png" alt="Pirelli Dainese Back Protector Offer - While Stocks Last" border="0">&nbsp;Pirelli Dainese Back Protector Offer - While Stocks Last
                         </a>
                     
                         <a href="/pole-position" class="std left-menu-item">
@@ -478,24 +499,32 @@
                             <img src="/oncirrus/system/arrow-right-grey.png" alt="Terms &amp; Conditions" border="0">&nbsp;Terms &amp; Conditions
                         </a>
                     
-                        <a href="/view-the-latest-karting-email-campaign-14-23" class="std left-menu-item">
-                            <img src="/oncirrus/system/arrow-right-grey.png" alt="View The Latest Karting Email Campaign (14 23)" border="0">&nbsp;View The Latest Karting Email Campaign (14 23)
+                        <a href="/trustpilot-reviews" class="std left-menu-item">
+                            <img src="/oncirrus/system/arrow-right-grey.png" alt="Trustpilot Reviews" border="0">&nbsp;Trustpilot Reviews
                         </a>
                     
-                        <a href="/view-the-latest-motorcycle-email-campaign-14-23" class="std left-menu-item">
-                            <img src="/oncirrus/system/arrow-right-grey.png" alt="View The Latest Motorcycle Email Campaign (14 23)" border="0">&nbsp;View The Latest Motorcycle Email Campaign (14 23)
+                        <a href="/view-the-latest-karting-email-campaign-5" class="std left-menu-item">
+                            <img src="/oncirrus/system/arrow-right-grey.png" alt="View The Latest Karting Email Campaign" border="0">&nbsp;View The Latest Karting Email Campaign
                         </a>
                     
-                        <a href="/" class="std left-menu-item">
-                            <img src="/oncirrus/system/arrow-right-grey.png" alt="View The Latest Motorsport Email Campaign (14 21)" border="0">&nbsp;View The Latest Motorsport Email Campaign (14 21)
+                        <a href="/view-the-latest-motorcycle-email-campaign-10" class="std left-menu-item">
+                            <img src="/oncirrus/system/arrow-right-grey.png" alt="View The Latest Motorcycle Email Campaign" border="0">&nbsp;View The Latest Motorcycle Email Campaign
                         </a>
                     
-                        <a href="/view-the-latest-mx-email-campaign-14-17" class="std left-menu-item">
-                            <img src="/oncirrus/system/arrow-right-grey.png" alt="View The Latest MX Email Campaign (14 17)" border="0">&nbsp;View The Latest MX Email Campaign (14 17)
+                        <a href="/view-the-latest-motorsport-email-campaign-33" class="std left-menu-item">
+                            <img src="/oncirrus/system/arrow-right-grey.png" alt="View The Latest Motorsport Email Campaign" border="0">&nbsp;View The Latest Motorsport Email Campaign
                         </a>
                     
-                        <a href="/view-the-latest-performance-email-campaign-14-22" class="std left-menu-item">
-                            <img src="/oncirrus/system/arrow-right-grey.png" alt="View The Latest Performance Email Campaign (14 22)" border="0">&nbsp;View The Latest Performance Email Campaign (14 22)
+                        <a href="/view-the-latest-mx-email-campaign-3" class="std left-menu-item">
+                            <img src="/oncirrus/system/arrow-right-grey.png" alt="View The Latest MX Email Campaign" border="0">&nbsp;View The Latest MX Email Campaign
+                        </a>
+                    
+                        <a href="/view-the-latest-performance-email-campaign-16" class="std left-menu-item">
+                            <img src="/oncirrus/system/arrow-right-grey.png" alt="View The Latest Performance Email Campaign" border="0">&nbsp;View The Latest Performance Email Campaign
+                        </a>
+                    
+                        <a href="/view-the-latest-tools-workshop-email-campaign-5" class="std left-menu-item">
+                            <img src="/oncirrus/system/arrow-right-grey.png" alt="View The Latest Tools &amp; Workshop Email Campaign" border="0">&nbsp;View The Latest Tools &amp; Workshop Email Campaign
                         </a>
                     
                         <a href="/worldwide-delivery" class="std left-menu-item">
@@ -512,7 +541,79 @@
                         </tr>
                     </tbody></table>
                     <div style="width: 760px; margin-top: 10px; line-height: 1.5em">
-                        <div>Privacy issues are very important to us, given the current regulatory and technical environment and we are committed to protecting your privacy.</div><div>&nbsp;</div><div><b>Use of Personal Data</b>&nbsp;</div><div>We will collect information and use it for the following purposes:</div><ul><li>When opening an Account and placing an order with us we need to know your name, e-mail address, delivery address, credit or debit card number and the card's expiry date. We use this information in order to process and run your Account, for credit purposes, marketing, market research and analysis and to notify you of the status of the order.</li><li><div>We also ask you for your telephone number which enables us to contact you urgently in the event of there being a problem or query with your order or Account.</div></li><li>Should you enter a competition or other promotional feature on our website we may ask you for your name, address and e-mail address in order that we may efficiently administer the competition and promotion as well as notifying the winners.</li><li>We may disclose your information to other parties for the purposes of processing and fulfilling your order.</li><li>We may also use the information that we collect from you to notify you from time to time about functionality changes to our website, the service that we provide and details of special or promotional offers.</li></ul><div><b>Protection of Personal Data</b></div><div>We have taken every possible precaution to create a secure environment to protect the personal information supplied by you to us when making an order or opening an Account. When an order is placed or Account opened we offer the use of a secure service. Essentially we have adopted the industry standard encryption methods in that the secure service software (SSL) encrypts all information input before it is sent to us. In order to comply with the Data Protection Act 1998 and for maximum peace of mind we can advise that we have implemented strict security procedures in relation to the storage and disclosure of information which you have given to us for the purpose of preventing unauthorised access. For security reasons and to protect your right to privacy we may occasionally request proof of identity from you before disclosing any sensitive information to you or accepting any order from you.</div><div>&nbsp;</div><div><b>Cookies </b></div><div>Cookies are small pieces of information that websites transfer to your computer hard drive and we use to enable our website to provide features such as automatic login, personalised greetings and storage of items in your Shopping Basket.&nbsp;Cookies can be turned off in your browser or you can be notified when you receive a cookie so you choose whether to accept it.&nbsp;The Help menu of your browser should contain information on how to do this.&nbsp;However, changing these settings may mean that you will not be able to take advantage of some of the advanced features on the site.&nbsp;If you do wish to remove cookies after a visit to the site, perhaps because you are using a shared computer, you can clear the cookies by clicking on the sign out link.</div><div>&nbsp;</div><div><b>Disclosure of Information to Third Parties</b></div><div>We do not sell, trade or rent your personal information (data) to others. We may choose to do so in the future with carefully selected and trustworthy third parties. Should you not wish us to do so then kindly advise us by sending an e-mail to customerservices@demon-tweeks.co.uk. We may provide statistics or analytical records about our customers, sales, and traffic patterns to reputable third party vendors but this information will not include any personally identifying information on you.</div><div>&nbsp;</div><div>We employ third parties and individuals to perform certain functions on our behalf. Examples of these might be a courier delivering your goods to you, analysis of data, provision of marketing assistance, processing credit card payments and provision of a customer services department. Please rest assured that those companies and individuals who have access to any such personal information are not permitted to use this information for any other purposes and they are required to process any such data in accordance with the Data Protection Act 1998.</div><div>&nbsp;</div><div><b>Transfer of Data </b></div><div>The information that you enter may be transferred outside the European Economic Area for the purposes of processing and maintaining your Account with us. Any transfer of personal information outside the European Economic Area will be done so as to ensure that the information is processed only in accordance with our Privacy Policy and in strict compliance with the Data Protection Act 1998.</div><div>&nbsp;</div><div><b>Access to Information</b></div><div>You may obtain details of the personal information we hold on you by e-mailing us at security@demon-tweeks.co.uk. Our Data Protection Officer will revert to you within 5 working days.</div><div>&nbsp;</div><div>There is a statutory fee of £10.00 payable prior to accessing this information.</div><div>&nbsp;</div><div><b>Consent and Data Protection</b></div><div>By using our website you irrevocably consent to authorising us to collate, collect and use this information. Any changes to our privacy policy will be updated and posted on this page of our website.</div><div>&nbsp;</div><div><b>Opt Out </b></div><div>You can opt out of e-mail updates by clicking the relevant link listed at the bottom of each email campaign that we send. The link will allow you to either amend your details to let us know which information you would like to receive or to remove yourself entirely from our email updates.</div><div>&nbsp;</div><div><b>Contact </b></div><div>If you have any comments, suggestions or concerns about this Privacy Policy please e-mail security@demon-tweeks.co.uk.</div><div>&nbsp;</div>
+                        <div>Privacy issues are very important to us, given the current regulatory and technical environment and we are committed to protecting your privacy.</div>
+
+<div>&nbsp;</div>
+
+<div><b>Use of Personal Data</b>&nbsp;</div>
+
+<div>We will collect information and use it for the following purposes:</div>
+
+<ul>
+	<li>When opening an Account and placing an order with us we need to know your name, e-mail address, delivery address, credit or debit card number and the card's expiry date. We use this information in order to process and run your Account, for credit purposes, marketing, market research and analysis and to notify you of the status of the order.</li>
+	<li>
+	<div>We also ask you for your telephone number which enables us to contact you urgently in the event of there being a problem or query with your order or Account.</div>
+	</li>
+	<li>Should you enter a competition or other promotional feature on our website we may ask you for your name, address and e-mail address in order that we may efficiently administer the competition and promotion as well as notifying the winners.</li>
+	<li>We may disclose your information to other parties for the purposes of processing and fulfilling your order.</li>
+	<li>We may also use the information that we collect from you to notify you from time to time about functionality changes to our website, the service that we provide and details of special or promotional offers.</li>
+</ul>
+
+<div><b>Protection of Personal Data</b></div>
+
+<div>We have taken every possible precaution to create a secure environment to protect the personal information supplied by you to us when making an order or opening an Account. When an order is placed or Account opened we offer the use of a secure service. Essentially we have adopted the industry standard encryption methods in that the secure service software (SSL) encrypts all information input before it is sent to us. In order to comply with the Data Protection Act 1998 and for maximum peace of mind we can advise that we have implemented strict security procedures in relation to the storage and disclosure of information which you have given to us for the purpose of preventing unauthorised access. For security reasons and to protect your right to privacy we may occasionally request proof of identity from you before disclosing any sensitive information to you or accepting any order from you.</div>
+
+<div>&nbsp;</div>
+
+<div><b>Cookies </b></div>
+
+<div>Cookies are small pieces of information that websites transfer to your computer hard drive and we use to enable our website to provide features such as automatic login, personalised greetings and storage of items in your Shopping Basket.&nbsp;Cookies can be turned off in your browser or you can be notified when you receive a cookie so you choose whether to accept it.&nbsp;The Help menu of your browser should contain information on how to do this.&nbsp;However, changing these settings may mean that you will not be able to take advantage of some of the advanced features on the site.&nbsp;If you do wish to remove cookies after a visit to the site, perhaps because you are using a shared computer, you can clear the cookies by clicking on the sign out link.</div>
+
+<div>&nbsp;</div>
+
+<div><b>Disclosure of Information to Third Parties</b></div>
+
+<div>We do not sell, trade or rent your personal information (data) to others. We may choose to do so in the future with carefully selected and trustworthy third parties. Should you not wish us to do so then kindly advise us by sending an e-mail to customerservices@demon-tweeks.co.uk. We may provide statistics or analytical records about our customers, sales, and traffic patterns to reputable third party vendors but this information will not include any personally identifying information on you.</div>
+
+<div>&nbsp;</div>
+
+<div>We employ third parties and individuals to perform certain functions on our behalf. Examples of these might be a courier delivering your goods to you, analysis of data, provision of marketing assistance, processing credit card payments and provision of a customer services department. Please rest assured that those companies and individuals who have access to any such personal information are not permitted to use this information for any other purposes and they are required to process any such data in accordance with the Data Protection Act 1998.</div>
+
+<div>&nbsp;</div>
+
+<div><b>Transfer of Data </b></div>
+
+<div>The information that you enter may be transferred outside the European Economic Area for the purposes of processing and maintaining your Account with us. Any transfer of personal information outside the European Economic Area will be done so as to ensure that the information is processed only in accordance with our Privacy Policy and in strict compliance with the Data Protection Act 1998.</div>
+
+<div>&nbsp;</div>
+
+<div><b>Access to Information</b></div>
+
+<div>You may obtain details of the personal information we hold on you by e-mailing us at security@demon-tweeks.co.uk. Our Data Protection Officer will revert to you within 5 working days.</div>
+
+<div>&nbsp;</div>
+
+<div>There is a statutory fee of £10.00 payable prior to accessing this information.</div>
+
+<div>&nbsp;</div>
+
+<div><b>Consent and Data Protection</b></div>
+
+<div>By using our website you irrevocably consent to authorising us to collate, collect and use this information. Any changes to our privacy policy will be updated and posted on this page of our website.</div>
+
+<div>&nbsp;</div>
+
+<div><b>Opt Out </b></div>
+
+<div>You can opt out of e-mail updates by clicking the relevant link listed at the bottom of each email campaign that we send. The link will allow you to either amend your details to let us know which information you would like to receive or to remove yourself entirely from our email updates.</div>
+
+<div>&nbsp;</div>
+
+<div><b>Contact </b></div>
+
+<div>If you have any comments, suggestions or concerns about this Privacy Policy please e-mail security@demon-tweeks.co.uk.</div>
+
+<div>&nbsp;</div>
                     </div>
                 </div>
             
@@ -539,62 +640,45 @@
                 <a href="/privacy-statement" class="std">Privacy Statement</a>
             
                 <span style="padding-left: 10px; padding-right: 10px">|</span>
-                <a href="/disclaimer-2" class="std">Disclaimer</a>
+                <a href="/disclaimer" class="std">Disclaimer</a>
+            
+                <span style="padding-left: 10px; padding-right: 10px">|</span>
+                <a href="/finance" class="std">Finance</a>
             <br><br>
-            Demon Tweeks, 75 Ash Road South, Wrexham Industrial Estate, Wrexham, LL13 9UG. Company no. 01049663, Vat no. GB 840 2501 70<br>Copyright © 2014 Demon Tweeks. All rights reserved
+            Demon Tweeks, 75 Ash Road South, Wrexham Industrial Estate, Wrexham, LL13 9UG. Company no. 01049663, Vat no. GB 840 2501 70<br>Copyright © 2015 Demon Tweeks. All rights reserved
         </div>
         <div id="search-pane">
             <span id="searchResult"></span>
         </div>
-        <div id="basket" onmouseover="showWindow('basket')" onmouseout="hideWindow('basket')">
-            <table cellpadding="2" cellspacing="0" style="width: 228px; font-size: 11px">
-                
-                    <tbody><tr>
-                        <td colspan="2" style="padding-top: 15px; padding-bottom: 5px; text-align: center">
-                            <span id="basket-dtl">
-                                <table cellpadding="0" cellspacing="0" style="width: 226px">
+        <div id="basket" onmouseover="showBasketBody()" onmouseout="hideBasketBody()">
+            <span id="basket-dtl">
+                <table cellpadding="2" cellspacing="0" style="width: 290px; font-size: 11px">
+                    
+                        <tbody><tr>
+                            <td colspan="2" style="padding-top: 15px; padding-bottom: 15px; text-align: center">
+                                <table cellpadding="0" cellspacing="0" style="width: 290px">
                                     <tbody><tr>
-                                        <td style="width: 228px; text-align: center">
+                                        <td style="text-align: center">
                                             Basket is empty
                                         </td>
                                     </tr>
                                 </tbody></table>
-                            </span>
-                        </td>
-                    </tr>
-                
-                
-                <tr>
-                    <td colspan="2" style="padding-bottom: 3px; text-align: center">
-                        <a href="/basket" class="stdBold" style="display: block">
-                            Go to your basket
-                        </a>
-                    </td>
-                </tr>
-            </tbody></table>
+                            </td>
+                        </tr>
+                    
+                    
+                </tbody></table>
+            </span>
         </div>
         <div id="viewed" onmouseover="showWindow('viewed')" onmouseout="hideWindow('viewed')">
             <table cellpadding="2" cellspacing="0" style="width: 228px; font-size: 11px">
                 
-                
                     <tbody><tr>
-                        <td colspan="2" style="padding-top: 10px; padding-bottom: 10px">
-                            <table cellpadding="0" cellspacing="0" style="width: 226px">
-                                
-                                    
-                                        <tbody><tr>
-                                            <td style="width: 60px; height: 60px; text-align: center; vertical-align: middle">
-                                                <a href="/motorsport/dash-displays/stack-st700-dash-display-system-with-speedometer"><img src="http://www.demon-tweeks.co.uk/oncirrus/3/images/product/thumb/sta_st700-dash-display-blk.jpg" alt="Stack ST700 Dash Display System With Speedometer" title="Stack ST700 Dash Display System With Speedometer" border="0" width="60" height="60"></a>
-                                            </td>
-                                            <td style="padding-left: 3px; padding-right: 3px">
-                                                <a href="/motorsport/dash-displays/stack-st700-dash-display-system-with-speedometer" class="std">Stack ST700 Dash Display System With Speedometer</a>
-                                            </td>
-                                        </tr>
-                                    
-                                
-                            </tbody></table>
+                        <td colspan="2" style="text-align: center; padding-top: 15px; padding-bottom: 10px">
+                            Viewed items is empty
                         </td>
                     </tr>
+                
                 
                 <tr>
                     <td colspan="2" style="padding-bottom: 3px; text-align: center">
@@ -653,9 +737,9 @@
                             <td valign="top">
                                 
                                 
-                                    
-                                    
                                 
+                                    
+                                    
                                 
                                 <table cellpadding="0" cellspacing="0" class="menuLeft">
                                     <tbody><tr>
@@ -718,6 +802,12 @@
                                                 
                                                     
                                                         <li>
+                                                            <a href="/motorsport/data-logging" class="menuRedStd">Data Logging</a> 
+                                                        </li>
+                                                    
+                                                
+                                                    
+                                                        <li>
                                                             <a href="/motorsport/driver-health-hydration" class="menuRedStd">Driver Health &amp; Hydration</a> 
                                                         </li>
                                                     
@@ -752,10 +842,6 @@
                                                         </li>
                                                     
                                                 
-                                                    
-                                                        <li>
-                                                            <a href="/motorsport/fire-extinguishers-accessories" class="menuRedStd">Fire Extinguishers &amp; Accessories</a> 
-                                                        </li>
                                                     
                                                 
                                                     
@@ -853,6 +939,12 @@
                                                 
                                                     
                                                 
+                                                    
+                                                
+                                                    
+                                                        <li>
+                                                            <a href="/motorsport/fire-extinguishers-accessories" class="menuRedStd">Fire Extinguishers &amp; Accessories</a>
+                                                        </li>
                                                     
                                                 
                                                     
@@ -1043,6 +1135,8 @@
                                                     
                                                 
                                                     
+                                                
+                                                    
                                                         <li>
                                                             <a href="/motorsport/oils-lubricants" class="menuRedStd">Oils &amp; Lubricants</a>
                                                         </li>
@@ -1139,10 +1233,10 @@
                             </td>
                             <td valign="top" class="menuBorderLeftRed menuSep">
                                 
-                                
-                                
                                     
                                     
+                                
+                                
                                 
                                 <table cellpadding="0" cellspacing="0" class="menuRight">
                                     <tbody><tr>
@@ -1151,7 +1245,7 @@
                                                 
                                                     
                                                         <li>
-                                                            <a href="/sparco" class="menuRedStd">Sparco</a>
+                                                            <a href="/aim-motorsport" class="menuRedStd">AIM Motorsport</a>
                                                         </li>
                                                     
                                                 
@@ -1163,13 +1257,7 @@
                                                 
                                                     
                                                         <li>
-                                                            <a href="/omp" class="menuRedStd">OMP</a>
-                                                        </li>
-                                                    
-                                                
-                                                    
-                                                        <li>
-                                                            <a href="/bell" class="menuRedStd">Bell</a>
+                                                            <a href="/a-p-racing" class="menuRedStd">A P Racing</a>
                                                         </li>
                                                     
                                                 
@@ -1181,184 +1269,13 @@
                                                 
                                                     
                                                         <li>
-                                                            <a href="/stilo" class="menuRedStd">Stilo</a>
-                                                        </li>
-                                                    
-                                                
-                                                    
-                                                        <li>
-                                                            <a href="/peltor" class="menuRedStd">Peltor</a>
-                                                        </li>
-                                                    
-                                                
-                                                    
-                                                        <li>
-                                                            <a href="/sabelt" class="menuRedStd">Sabelt</a>
-                                                        </li>
-                                                    
-                                                
-                                                    
-                                                        <li>
-                                                            <a href="/lifeline" class="menuRedStd">Lifeline</a>
-                                                        </li>
-                                                    
-                                                
-                                                    
-                                                        <li>
-                                                            <a href="/stack" class="menuRedStd">Stack</a>
-                                                        </li>
-                                                    
-                                                
-                                                    
-                                                        <li>
-                                                            <a href="/a-p-racing" class="menuRedStd">A P Racing</a>
-                                                        </li>
-                                                    
-                                                
-                                                    
-                                                        <li>
-                                                            <a href="/toyo" class="menuRedStd">Toyo</a>
-                                                        </li>
-                                                    
-                                                
-                                                    
-                                                        <li>
-                                                            <a href="/cobra" class="menuRedStd">Cobra</a>
-                                                        </li>
-                                                    
-                                                
-                                                    
-                                                
-                                                    
-                                                
-                                                    
-                                                
-                                                    
-                                                
-                                                    
-                                                
-                                                    
-                                                
-                                                    
-                                                
-                                                    
-                                                
-                                                    
-                                                
-                                                    
-                                                
-                                                    
-                                                
-                                                    
-                                                
-                                                    
-                                                
-                                                    
-                                                
-                                                    
-                                                
-                                                    
-                                                
-                                                    
-                                                
-                                                    
-                                                
-                                                    
-                                                
-                                                    
-                                                
-                                                    
-                                                
-                                                    
-                                                
-                                                    
-                                                
-                                                    
-                                                
-                                                    
-                                                
-                                            </ul>
-                                        </td>
-                                        <td valign="top">
-                                            <ul>
-                                                
-                                                    
-                                                
-                                                    
-                                                
-                                                    
-                                                
-                                                    
-                                                
-                                                    
-                                                
-                                                    
-                                                
-                                                    
-                                                
-                                                    
-                                                
-                                                    
-                                                
-                                                    
-                                                
-                                                    
-                                                
-                                                    
-                                                
-                                                    
-                                                
-                                                    
-                                                        <li>
-                                                            <a href="/schroth" class="menuRedStd">Schroth</a>
-                                                        </li>
-                                                    
-                                                
-                                                    
-                                                        <li>
-                                                            <a href="/samco" class="menuRedStd">Samco</a>
-                                                        </li>
-                                                    
-                                                
-                                                    
-                                                        <li>
-                                                            <a href="/yokohama" class="menuRedStd">Yokohama</a>
-                                                        </li>
-                                                    
-                                                
-                                                    
-                                                        <li>
-                                                            <a href="/intercomp" class="menuRedStd">Intercomp</a>
-                                                        </li>
-                                                    
-                                                
-                                                    
-                                                        <li>
-                                                            <a href="/goodridge" class="menuRedStd">Goodridge</a>
-                                                        </li>
-                                                    
-                                                
-                                                    
-                                                        <li>
-                                                            <a href="/varley" class="menuRedStd">Varley</a>
-                                                        </li>
-                                                    
-                                                
-                                                    
-                                                        <li>
-                                                            <a href="/kn-filters" class="menuRedStd">K&amp;N Filters</a>
-                                                        </li>
-                                                    
-                                                
-                                                    
-                                                        <li>
                                                             <a href="/atl" class="menuRedStd">ATL </a>
                                                         </li>
                                                     
                                                 
                                                     
                                                         <li>
-                                                            <a href="/momo" class="menuRedStd">Momo</a>
+                                                            <a href="/bell" class="menuRedStd">Bell</a>
                                                         </li>
                                                     
                                                 
@@ -1376,7 +1293,13 @@
                                                 
                                                     
                                                         <li>
-                                                            <a href="/ferodo" class="menuRedStd">Ferodo</a>
+                                                            <a href="/cobra" class="menuRedStd">Cobra</a>
+                                                        </li>
+                                                    
+                                                
+                                                    
+                                                        <li>
+                                                            <a href="/cosworth" class="menuRedStd">Cosworth</a>
                                                         </li>
                                                     
                                                 
@@ -1384,6 +1307,181 @@
                                                         <li>
                                                             <a href="/davies-craig" class="menuRedStd">Davies Craig</a>
                                                         </li>
+                                                    
+                                                
+                                                    
+                                                        <li>
+                                                            <a href="/ferodo" class="menuRedStd">Ferodo</a>
+                                                        </li>
+                                                    
+                                                
+                                                    
+                                                        <li>
+                                                            <a href="/goodridge" class="menuRedStd">Goodridge</a>
+                                                        </li>
+                                                    
+                                                
+                                                    
+                                                
+                                                    
+                                                
+                                                    
+                                                
+                                                    
+                                                
+                                                    
+                                                
+                                                    
+                                                
+                                                    
+                                                
+                                                    
+                                                
+                                                    
+                                                
+                                                    
+                                                
+                                                    
+                                                
+                                                    
+                                                
+                                                    
+                                                
+                                                    
+                                                
+                                                    
+                                                
+                                                    
+                                                
+                                                    
+                                                
+                                                    
+                                                
+                                                    
+                                                
+                                                    
+                                                
+                                                    
+                                                
+                                                    
+                                                
+                                                    
+                                                
+                                                    
+                                                
+                                                    
+                                                
+                                                    
+                                                
+                                            </ul>
+                                        </td>
+                                        <td valign="top">
+                                            <ul>
+                                                
+                                                    
+                                                
+                                                    
+                                                
+                                                    
+                                                
+                                                    
+                                                
+                                                    
+                                                
+                                                    
+                                                
+                                                    
+                                                
+                                                    
+                                                
+                                                    
+                                                
+                                                    
+                                                
+                                                    
+                                                
+                                                    
+                                                
+                                                    
+                                                
+                                                    
+                                                        <li>
+                                                            <a href="/intercomp" class="menuRedStd">Intercomp</a>
+                                                        </li>
+                                                    
+                                                
+                                                    
+                                                        <li>
+                                                            <a href="/kn-filters" class="menuRedStd">K&amp;N Filters</a>
+                                                        </li>
+                                                    
+                                                
+                                                    
+                                                        <li>
+                                                            <a href="/lifeline" class="menuRedStd">Lifeline</a>
+                                                        </li>
+                                                    
+                                                
+                                                    
+                                                        <li>
+                                                            <a href="/longacre" class="menuRedStd">Longacre</a>
+                                                        </li>
+                                                    
+                                                
+                                                    
+                                                        <li>
+                                                            <a href="/momo" class="menuRedStd">Momo</a>
+                                                        </li>
+                                                    
+                                                
+                                                    
+                                                        <li>
+                                                            <a href="/omp" class="menuRedStd">OMP</a>
+                                                        </li>
+                                                    
+                                                
+                                                    
+                                                        <li>
+                                                            <a href="/peltor" class="menuRedStd">Peltor</a>
+                                                        </li>
+                                                    
+                                                
+                                                    
+                                                        <li>
+                                                            <a href="/pipercross" class="menuRedStd">Pipercross</a>
+                                                        </li>
+                                                    
+                                                
+                                                    
+                                                        <li>
+                                                            <a href="/recaro" class="menuRedStd">Recaro</a>
+                                                        </li>
+                                                    
+                                                
+                                                    
+                                                        <li>
+                                                            <a href="/revotec" class="menuRedStd">Revotec</a>
+                                                        </li>
+                                                    
+                                                
+                                                    
+                                                        <li>
+                                                            <a href="/sabelt" class="menuRedStd">Sabelt</a>
+                                                        </li>
+                                                    
+                                                
+                                                    
+                                                        <li>
+                                                            <a href="/samco" class="menuRedStd">Samco</a>
+                                                        </li>
+                                                    
+                                                
+                                                    
+                                                        <li>
+                                                            <a href="/schroth" class="menuRedStd">Schroth</a>
+                                                        </li>
+                                                    
+                                                
                                                     
                                                 
                                                     
@@ -1469,25 +1567,7 @@
                                                 
                                                     
                                                         <li>
-                                                            <a href="/revotec" class="menuRedStd">Revotec</a>
-                                                        </li>
-                                                    
-                                                
-                                                    
-                                                        <li>
-                                                            <a href="/recaro" class="menuRedStd">Recaro</a>
-                                                        </li>
-                                                    
-                                                
-                                                    
-                                                        <li>
-                                                            <a href="/longacre" class="menuRedStd">Longacre</a>
-                                                        </li>
-                                                    
-                                                
-                                                    
-                                                        <li>
-                                                            <a href="/pipercross" class="menuRedStd">Pipercross</a>
+                                                            <a href="/sealey" class="menuRedStd">Sealey</a>
                                                         </li>
                                                     
                                                 
@@ -1499,31 +1579,25 @@
                                                 
                                                     
                                                         <li>
-                                                            <a href="/quaife" class="menuRedStd">Quaife</a>
+                                                            <a href="/sparco" class="menuRedStd">Sparco</a>
                                                         </li>
                                                     
                                                 
                                                     
                                                         <li>
-                                                            <a href="/willans" class="menuRedStd">Willans</a>
+                                                            <a href="/stack" class="menuRedStd">Stack</a>
                                                         </li>
                                                     
                                                 
                                                     
                                                         <li>
-                                                            <a href="/sealey" class="menuRedStd">Sealey</a>
+                                                            <a href="/stilo" class="menuRedStd">Stilo</a>
                                                         </li>
                                                     
                                                 
                                                     
                                                         <li>
-                                                            <a href="/trs" class="menuRedStd">TRS</a>
-                                                        </li>
-                                                    
-                                                
-                                                    
-                                                        <li>
-                                                            <a href="/cosworth" class="menuRedStd">Cosworth</a>
+                                                            <a href="/sytec" class="menuRedStd">Sytec</a>
                                                         </li>
                                                     
                                                 
@@ -1535,7 +1609,37 @@
                                                 
                                                     
                                                         <li>
-                                                            <a href="/sytec" class="menuRedStd">Sytec</a>
+                                                            <a href="/toyo" class="menuRedStd">Toyo</a>
+                                                        </li>
+                                                    
+                                                
+                                                    
+                                                        <li>
+                                                            <a href="/trs" class="menuRedStd">TRS</a>
+                                                        </li>
+                                                    
+                                                
+                                                    
+                                                        <li>
+                                                            <a href="/quaife" class="menuRedStd">Quaife</a>
+                                                        </li>
+                                                    
+                                                
+                                                    
+                                                        <li>
+                                                            <a href="/varley" class="menuRedStd">Varley</a>
+                                                        </li>
+                                                    
+                                                
+                                                    
+                                                        <li>
+                                                            <a href="/willans" class="menuRedStd">Willans</a>
+                                                        </li>
+                                                    
+                                                
+                                                    
+                                                        <li>
+                                                            <a href="/yokohama" class="menuRedStd">Yokohama</a>
                                                         </li>
                                                     
                                                 
@@ -1986,10 +2090,10 @@
                         <tr>
                             <td valign="top">
                                 
-                                    
-                                    
                                 
                                 
+                                    
+                                    
                                 
                                 <table cellpadding="0" cellspacing="0" class="menuLeft">
                                     <tbody><tr>
@@ -2005,6 +2109,12 @@
                                                     
                                                         <li>
                                                             <a href="/performance/air-filters-accessories" class="menuBlueStd">Air Filters &amp; Accessories</a> 
+                                                        </li>
+                                                    
+                                                
+                                                    
+                                                        <li>
+                                                            <a href="/performance/autumn-winter-essentials" class="menuBlueStd">Autumn &amp; Winter Essentials</a> 
                                                         </li>
                                                     
                                                 
@@ -2084,14 +2194,6 @@
                                                         <li>
                                                             <a href="/performance/engine-components" class="menuBlueStd">Engine Components</a> 
                                                         </li>
-                                                    
-                                                
-                                                    
-                                                        <li>
-                                                            <a href="/performance/engine-tuning-parts-accessories" class="menuBlueStd">Engine Tuning Parts &amp; Accessories</a> 
-                                                        </li>
-                                                    
-                                                
                                                     
                                                 
                                                     
@@ -2195,6 +2297,12 @@
                                                 
                                                     
                                                         <li>
+                                                            <a href="/performance/engine-tuning-parts-accessories" class="menuBlueStd">Engine Tuning Parts &amp; Accessories</a>
+                                                        </li>
+                                                    
+                                                
+                                                    
+                                                        <li>
                                                             <a href="/performance/exhausts" class="menuBlueStd">Exhausts</a>
                                                         </li>
                                                     
@@ -2232,12 +2340,6 @@
                                                     
                                                         <li>
                                                             <a href="/performance/ignition-system" class="menuBlueStd">Ignition System</a>
-                                                        </li>
-                                                    
-                                                
-                                                    
-                                                        <li>
-                                                            <a href="/performance/in-car-entertainment" class="menuBlueStd">In Car Entertainment</a>
                                                         </li>
                                                     
                                                 
@@ -2287,8 +2389,6 @@
                                                         <li>
                                                             <a href="/performance/seats-accessories" class="menuBlueStd">Seats &amp; Accessories</a>
                                                         </li>
-                                                    
-                                                
                                                     
                                                 
                                                     
@@ -2446,7 +2546,7 @@
                                                 
                                                     
                                                         <li>
-                                                            <a href="/performance/tyres-test-2" class="menuBlueStd">Tyres</a>
+                                                            <a href="/performance/tyres" class="menuBlueStd">Tyres</a>
                                                         </li>
                                                     
                                                 
@@ -2480,12 +2580,6 @@
                                                         </li>
                                                     
                                                 
-                                                    
-                                                        <li>
-                                                            <a href="/performance/winter-essentials" class="menuBlueStd">Winter Essentials</a>
-                                                        </li>
-                                                    
-                                                
                                             </ul>
                                         </td>
                                     </tr>
@@ -2493,9 +2587,9 @@
                             </td>
                             <td valign="top" class="menuBorderLeftBlue menuSep">
                                 
-                                    
-                                    
                                 
+                                    
+                                    
                                 
                                 
                                 <table cellpadding="0" cellspacing="0" class="menuRight">
@@ -2618,6 +2712,12 @@
                                                     
                                                 
                                                     
+                                                        <li>
+                                                            <a href="/gmax" class="menuBlueStd">Gmax</a>
+                                                        </li>
+                                                    
+                                                
+                                                    
                                                 
                                                     
                                                 
@@ -2736,10 +2836,6 @@
                                                 
                                                     
                                                 
-                                                    
-                                                        <li>
-                                                            <a href="/gmax" class="menuBlueStd">Gmax</a>
-                                                        </li>
                                                     
                                                 
                                                     
@@ -2840,6 +2936,12 @@
                                                 
                                                     
                                                         <li>
+                                                            <a href="/revo-technik" class="menuBlueStd">Revo Technik</a>
+                                                        </li>
+                                                    
+                                                
+                                                    
+                                                        <li>
                                                             <a href="/richbrook" class="menuBlueStd">Richbrook</a>
                                                         </li>
                                                     
@@ -2892,6 +2994,8 @@
                                         </td>
                                         <td valign="top">
                                             <ul>
+                                                
+                                                    
                                                 
                                                     
                                                 
@@ -3583,8 +3687,18 @@
                                                 
                                                     
                                                         <li>
-                                                            <a href="/grex" class="menuGreenStd">Grex</a>
+                                                            <a href="/king-carbon" class="menuGreenStd">King Carbon</a>
                                                         </li>
+                                                    
+                                                
+                                                    
+                                                        <li>
+                                                            <a href="/knox" class="menuGreenStd">Knox</a>
+                                                        </li>
+                                                    
+                                                
+                                                    
+                                                
                                                     
                                                 
                                                     
@@ -3664,16 +3778,6 @@
                                                 
                                                     
                                                 
-                                                    
-                                                        <li>
-                                                            <a href="/king-carbon" class="menuGreenStd">King Carbon</a>
-                                                        </li>
-                                                    
-                                                
-                                                    
-                                                        <li>
-                                                            <a href="/knox" class="menuGreenStd">Knox</a>
-                                                        </li>
                                                     
                                                 
                                                     
@@ -3726,7 +3830,7 @@
                                                 
                                                     
                                                         <li>
-                                                            <a href="/rukka" class="menuGreenStd">rukka</a>
+                                                            <a href="/rukka" class="menuGreenStd">Rukka</a>
                                                         </li>
                                                     
                                                 
@@ -3734,6 +3838,26 @@
                                                         <li>
                                                             <a href="/rg-racing" class="menuGreenStd">R&amp;G Racing</a>
                                                         </li>
+                                                    
+                                                
+                                                    
+                                                        <li>
+                                                            <a href="/scorpion" class="menuGreenStd">Scorpion</a>
+                                                        </li>
+                                                    
+                                                
+                                                    
+                                                        <li>
+                                                            <a href="/scottoiler" class="menuGreenStd">Scottoiler</a>
+                                                        </li>
+                                                    
+                                                
+                                                    
+                                                        <li>
+                                                            <a href="/sealey" class="menuGreenStd">Sealey</a>
+                                                        </li>
+                                                    
+                                                
                                                     
                                                 
                                                     
@@ -3814,26 +3938,18 @@
                                                     
                                                 
                                                     
-                                                        <li>
-                                                            <a href="/scorpion" class="menuGreenStd">Scorpion</a>
-                                                        </li>
-                                                    
                                                 
-                                                    
-                                                        <li>
-                                                            <a href="/scottoiler" class="menuGreenStd">Scottoiler</a>
-                                                        </li>
-                                                    
-                                                
-                                                    
-                                                        <li>
-                                                            <a href="/sealey" class="menuGreenStd">Sealey</a>
-                                                        </li>
                                                     
                                                 
                                                     
                                                         <li>
                                                             <a href="/shoei" class="menuGreenStd">Shoei</a>
+                                                        </li>
+                                                    
+                                                
+                                                    
+                                                        <li>
+                                                            <a href="/sidi" class="menuGreenStd">Sidi</a>
                                                         </li>
                                                     
                                                 
@@ -3882,6 +3998,24 @@
                                                     
                                                         <li>
                                                             <a href="/yoshimura" class="menuGreenStd">Yoshimura</a>
+                                                        </li>
+                                                    
+                                                
+                                                    
+                                                        <li>
+                                                            <a href="/rst" class="menuGreenStd">RST</a>
+                                                        </li>
+                                                    
+                                                
+                                                    
+                                                        <li>
+                                                            <a href="/akrapovic" class="menuGreenStd">Akrapovic</a>
+                                                        </li>
+                                                    
+                                                
+                                                    
+                                                        <li>
+                                                            <a href="/alpinestars" class="menuGreenStd">Alpinestars</a>
                                                         </li>
                                                     
                                                 
@@ -4167,10 +4301,10 @@
                             </td>
                             <td valign="top" class="menuBorderLeftBrown menuSep">
                                 
-                                    
-                                    
                                 
                                 
+                                    
+                                    
                                 
                                 <table cellpadding="0" cellspacing="0" class="menuRight">
                                     <tbody><tr>
@@ -4217,8 +4351,6 @@
                                                         <li>
                                                             <a href="/one-industries" class="menuBrownStd">One Industries</a>
                                                         </li>
-                                                    
-                                                
                                                     
                                                 
                                                     
@@ -4320,8 +4452,6 @@
                                                 
                                                     
                                                 
-                                                    
-                                                
                                             </ul>
                                         </td>
                                         <td valign="top">
@@ -4387,12 +4517,6 @@
                                                 
                                                     
                                                         <li>
-                                                            <a href="/motrax" class="menuBrownStd">Motrax</a>
-                                                        </li>
-                                                    
-                                                
-                                                    
-                                                        <li>
                                                             <a href="/smith-optics" class="menuBrownStd">Smith Optics</a>
                                                         </li>
                                                     
@@ -4432,10 +4556,10 @@
                         <tr>
                             <td valign="top">
                                 
-                                
-                                
                                     
                                     
+                                
+                                
                                 
                                 <table cellpadding="0" cellspacing="0" class="menuLeft">
                                     <tbody><tr>
@@ -4488,6 +4612,8 @@
                                                         <li>
                                                             <a href="/tools-workshop/garage-equipment" class="menuPurpleStd">Garage Equipment</a> 
                                                         </li>
+                                                    
+                                                
                                                     
                                                 
                                                     
@@ -4603,6 +4729,8 @@
                                                 
                                                     
                                                 
+                                                    
+                                                
                                             </ul>
                                         </td>
                                         <td valign="top">
@@ -4682,6 +4810,12 @@
                                                         </li>
                                                     
                                                 
+                                                    
+                                                        <li>
+                                                            <a href="/tools-workshop/workwear-clothing" class="menuPurpleStd">Workwear Clothing</a>
+                                                        </li>
+                                                    
+                                                
                                             </ul>
                                         </td>
                                     </tr>
@@ -4690,9 +4824,9 @@
                             <td valign="top" class="menuBorderLeftPurple menuSep">
                                 
                                 
-                                    
-                                    
                                 
+                                    
+                                    
                                 
                                 <table cellpadding="0" cellspacing="0" class="menuRight">
                                     <tbody><tr>
@@ -4701,15 +4835,43 @@
                                                 
                                                     
                                                         <li>
+                                                            <a href="/beta" class="menuPurpleStd">Beta</a>
+                                                        </li>
+                                                    
+                                                
+                                                    
+                                                        <li>
+                                                            <a href="/boxo" class="menuPurpleStd">Boxo</a>
+                                                        </li>
+                                                    
+                                                
+                                                    
+                                                
+                                                    
+                                                
+                                                    
+                                                
+                                            </ul>
+                                        </td>
+                                        <td valign="top">
+                                            <ul>
+                                                
+                                                    
+                                                
+                                                    
+                                                
+                                                    
+                                                        <li>
+                                                            <a href="/dickies" class="menuPurpleStd">Dickies</a>
+                                                        </li>
+                                                    
+                                                
+                                                    
+                                                        <li>
                                                             <a href="/sealey" class="menuPurpleStd">Sealey</a>
                                                         </li>
                                                     
                                                 
-                                            </ul>
-                                        </td>
-                                        <td valign="top">
-                                            <ul>
-                                                
                                                     
                                                 
                                             </ul>
@@ -4717,6 +4879,18 @@
                                         <td valign="top">
                                             <ul>
                                                 
+                                                    
+                                                
+                                                    
+                                                
+                                                    
+                                                
+                                                    
+                                                
+                                                    
+                                                        <li>
+                                                            <a href="/siegen" class="menuPurpleStd">Siegen</a>
+                                                        </li>
                                                     
                                                 
                                             </ul>
@@ -4731,7 +4905,29 @@
         
     </div>
     
-        
+    
+        <!-- Google Code for Adwords Remarketing Tag -->
+<script type="text/javascript">
+var google_tag_params = {
+ecomm_prodid: ,
+ecomm_pagetype: other,
+ecomm_totalvalue: 0.00,
+};
+</script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 1050777884;
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1050777884/?value=0&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>
     
 
 
