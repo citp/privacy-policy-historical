@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the onlinechic.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122161420id_/http%3A//onlinechic.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlinechic.com privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611190317id_/http%3A//onlinechic.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy — Online Chic
+# Privacy Policy - Online Chic
 
 Our team here at onlinechic is fully committed to protecting all our users privacy online. By continuing to use this site, you acknowledge that you have read and agree to all terms stated in this policy.
 
