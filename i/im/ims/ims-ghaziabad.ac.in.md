@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the ims-ghaziabad.ac.in privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625124114id_/http%3A//www.ims-ghaziabad.ac.in//privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ims-ghaziabad.ac.in privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612012628id_/http%3A//www.ims-ghaziabad.ac.in/privacy.php) for the most accurate reproduction.*
 
 # IMS Ghaziabad Group of Institution
-
-## Privacy Policy
 
 This Privacy Policy applies to the website www.ims-ghaziabad.ac.in and other websites associated with such URL (collectively the "Website") operated by IMS Ghaziabad. By using the Website, you consent to the practices described herein. We may update this Privacy Policy from time to time to reflect company and customer feedback. You should periodically review this Privacy Policy to stay informed of our practices. Your continued use of the Website following any changes to this Privacy Policy constitutes your acceptance of those changes.
 
@@ -12,7 +10,7 @@ IMS Ghaziabad may collect through some portions of the Website personal identifi
 
 When you access or use the Website and any features contained therein, we also automatically collect technical information about your computer hardware and software. This information can include your IP address, browser type, domain names, access times, and referring web site addresses, etc. This technical information is not considered Personal Information except when it is used in conjunction with other information that personally identifies you.
 
-We may aggregate your demographic and/or technical information to help us understand our users' trends and needs, and to improve the quality of our services. Such aggregated data will remove personally-identifying information and will not be considered Personal Information. 
+We may aggregate your demographic and/or technical information to help us understand our users' trends and needs, and to improve the quality of our services. Such aggregated data will remove personally-identifying information and will not be considered Personal Information.
 
 Please keep in mind that any information you post on or send through the Website's discussion forums, chat rooms, or messaging functions is publicly available and not confidential. If you disclose your Personal Information or other personally sensitive data through such channels, it may be collected and used by others, and IMS Ghaziabad shall not be liable for any resulting claims, losses, or damages.
 
@@ -40,7 +38,7 @@ We may use third parties to better understand your user preferences and deliver 
 
 We may, but are not obligated to, monitor and retain any and all data you transmit through our servers, including without limitation communications sent through or posted on the Website's discussion forums, chat rooms, and messaging functions, whether or not marked "private" by you. You acknowledge and agree that you have no expectation of privacy with respect to any such data transmitted, and you consent to any monitoring we may conduct.
 
-#### Security of your Personal Information 
+#### Security of your Personal Information
 
 We use commercially reasonable efforts to secure your Personal Information from unauthorized access, use, or disclosure. We secure the Personal Information you provide on computer servers in a controlled, secure environment, protected from unauthorized access, use, or disclosure. We also use industry-standard encryption, such as the Secure Socket Layer (SSL) protocol, to protect certain kinds of information transmitted through the Website, such as your account password. Unfortunately, there are many factors beyond our control that could result in disclosure of Personal Information or any other information that you provide to us, and no data transmission over the Internet can be guaranteed to be 100% secure. As a result, we cannot ensure, and we disclaim any warranties or representations relating to, the security of any information you transmit to us, and you do so at your own risk.
 
