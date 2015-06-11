@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the imgstudio.org privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227171203id_/http%3A//www.imgstudio.org/page-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imgstudio.org privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611043033id_/http%3A//imgstudio.org/page-Policy.html) for the most accurate reproduction.*
 
 # Policy - ImgStudio.org|Earn money sharing images
 
