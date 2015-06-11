@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the startec.com privacy policy that was archived on 2014-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141216083714id_/http%3A//www.startec.com/us/en/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the startec.com privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611034421id_/http%3A//www.startec.com/us/en/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Startec
 
@@ -151,7 +151,7 @@ Although we work hard to protect personal information that we collect and store,
 **Contact Information**  
 If you have questions, concerns or suggestions related to our Privacy Policy or our privacy practices you may contact us at:
 
-Elizabeth Leverson, Privacy Officer
+Privacy Officer
 
 Impact Telecom
 
