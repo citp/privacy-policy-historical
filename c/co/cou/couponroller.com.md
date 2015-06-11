@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the couponroller.com privacy policy that was archived on 2014-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141107010257id_/http%3A//www.couponroller.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the couponroller.com privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611125946id_/http%3A//www.couponroller.com/privacy-policy) for the most accurate reproduction.*
 
-# 
+# privacy policy coupon
 
 This Privacy Policy governs the manner in which Coupon Roller LLC collects, uses, maintains and discloses information collected from users (each, a "User") of the [http://www.couponroller.com](http://www.couponroller.com/) Website ("Website"). This privacy policy applies to the Website and all products and services offered by Coupon Roller LLC.
 
