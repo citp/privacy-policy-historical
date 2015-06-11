@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the eyes4tech.com privacy policy that was archived on 2014-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141204064046id_/http%3A//www.eyes4tech.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eyes4tech.com privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611105253id_/http%3A//www.eyes4tech.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy Eyes4Tech
 
 [](http://www.eyes4tech.com/privacy-policy/privacy-policy-2/)
 
-If you require any more information or have any questions about our **privacy policy** , please feel free to contact us by email at adm[...](http://www.google.com/recaptcha/mailhide/d?k=01MqKj4CSghIvwRzNxGtO-pg==&c=EGl9ALXpHrgame5S9npTwurX3PaNO5S98uSFbXg7Bcs= "Reveal this e-mail address")@eyes4tech.com.
+If you require any more information or have any questions about our **privacy policy** , please feel free to contact us by email at [admin@eyes4tech.com](mailto:admin@eyes4tech.com "Email Us").
 
 At **www.eyes4tech.com** , the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by **www.eyes4tech.com** and how it is used.
 
