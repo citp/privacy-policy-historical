@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hiphoplead.com privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123131305id_/http%3A//www.hiphoplead.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hiphoplead.com privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611233549id_/http%3A//www.hiphoplead.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Hip Hop Lead
+# Privacy Policy - HipHopLead.com
 
 HipHopLead.com (“HipHop Lead Media”) owns and operates this website (the “Site”). HipHop Lead Media may, from time to time, also deliver advertising to websites owned by third-party publishers that are not part of the HipHop Lead Media Network (“Non-Affiliated Sites”). This Privacy and Security Policy applies to (i) the collection of information on HipHop Lead Media Site that link to or display this Privacy and Security Policy and the use of that information, (ii) the collection of information on the Affiliated Sites and the use of that information when you view ads from our advertisers, and (iii) the collection of information on the Non-Affiliated Sites and the use of that information when you view ads from our advertisers.
 
