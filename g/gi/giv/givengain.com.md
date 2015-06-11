@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the givengain.com privacy policy that was archived on 2014-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141114122257id_/http%3A//www.givengain.com/rules/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the givengain.com privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611163130id_/http%3A//www.givengain.com/rules/privacy) for the most accurate reproduction.*
 
 # Privacy - If you have something to give, you have a lot to gain!
+
+"We are immune to advertising. Just forget it."  \- The Cluetrain Manifesto
 
 ## Privacy Policy
 
