@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the aadharcardstatus.net.in privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120204724id_/http%3A//www.aadharcardstatus.net.in/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aadharcardstatus.net.in privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611161055id_/http%3A//www.aadharcardstatus.net.in/privacy) for the most accurate reproduction.*
 
-# Privacy & Disclaimer
+# Aadhar Card Status » Privacy & Disclaimer
+
+## [Privacy & Disclaimer](http://www.aadharcardstatus.net.in/privacy/ "Permanent Link to Privacy & Disclaimer")
 
 **What kind of details we collect.**
 
