@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usawatchdog.com privacy policy that was archived on 2014-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141212000305id_/http%3A//usawatchdog.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usawatchdog.com privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611164751id_/http%3A//usawatchdog.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | Greg Hunter’s USAWatchdog
 
