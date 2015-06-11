@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nationalresearch.com privacy policy that was archived on 2014-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141205220901id_/http%3A//www.nationalresearch.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationalresearch.com privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612011637id_/http%3A//www.nationalresearch.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | National Research Corporation
 
