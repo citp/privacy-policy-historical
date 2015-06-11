@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the empirenews.net privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120205205id_/http%3A//empirenews.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the empirenews.net privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612012107id_/http%3A//empirenews.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Empire News
 
