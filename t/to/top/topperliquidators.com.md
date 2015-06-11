@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the topperliquidators.com privacy policy that was archived on 2014-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141229063832id_/http%3A//topperliquidators.com/index.php%3Fmain_page%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the topperliquidators.com privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611195035id_/http%3A//topperliquidators.com/index.php%3Fmain_page%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy Notice : Topper Liquidators - Fine Merchandise, Closeouts, Overstocks and More
 
