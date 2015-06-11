@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the goldspot.com privacy policy that was archived on 2014-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141124000249id_/http%3A//www.goldspot.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goldspot.com privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611082801id_/http%3A//www.goldspot.com/privacy-policy) for the most accurate reproduction.*
 
-# Fountain Pens - Discount on Waterman, Parker, Cross, Pelikan, Montegrappa, Acme and fine writing pens. - Goldspot
+# Privacy Policy - Goldspot
 
 Respecting and protecting your privacy is very important to Goldspot. We recognize that when you choose to provide us with information about yourself, you trust us to act in a responsible manner. Below we describe why we gather customer and member information, what information we collect, how we collect it, what we use the information for and how you can instruct us if you prefer to limit the use of that information. This Privacy Policy is part of the Terms of Use, which governs your use of Goldspot.com. 
 
