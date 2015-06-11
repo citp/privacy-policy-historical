@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ukoptions.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120122937id_/http%3A//ukoptions.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ukoptions.com privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611030207id_/http%3A//ukoptions.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - UKOptions
+# UKOptions – Privacy Policy
 
 ### **PRIVACY POLICY:**
 
@@ -22,4 +22,4 @@
 
 In addition, the company may, on occasion, seek to contact clients, whether by phone or by email, for the purpose of informing them of unique promotional offerings provided by **UK Options** for the client. Clients consent to the receipt of such contact when they consent to our [_Terms and Conditions_](http://ukoptions.com/terms-and-conditions/ "Terms and Conditions") of use when registering with **UK Options**.
 
-Any person wishing to opt out of further contact with **UK Options** at any time whatsoever is entitled to do so, simply by contacting the company whether by phone or email and requesting that no further contact on behalf of the company will be made.
+Any person wishing to opt out of further contact with **UK Options** at any time whatsoever is entitled to do so, simply by contacting the company whether by phone or email and requesting that no further contact on behalf of the company will be made. 
