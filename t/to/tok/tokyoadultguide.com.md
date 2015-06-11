@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tokyoadultguide.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120123038id_/http%3A//tokyoadultguide.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tokyoadultguide.com privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611085313id_/http%3A//tokyoadultguide.com/pages/privacy) for the most accurate reproduction.*
 
 # Tokyo Adult Guide - Privacy Policy | Tokyo Adult Guide
 
@@ -90,6 +90,6 @@ helpdesk@tokyoadultguide.com
 Published:
     Jul 23, 2014
 Page Views:
-    286
+    837
 
 [ ](http://tokyoadultguide.com/)
