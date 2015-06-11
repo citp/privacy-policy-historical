@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getnulledscripts.com privacy policy that was archived on 2014-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141130121529id_/http%3A//getnulledscripts.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getnulledscripts.com privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611082302id_/http%3A//getnulledscript.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Get Nulled Scripts
 
@@ -18,4 +18,4 @@ As we have mentioned that we don’t share or sell your personal information wit
 
 GETNULLEDSCRIPTS.COM reserves the right to change the terms and conditions of this privacy policy time to time. Your continued use of this site after any changes in this privacy policy will constitute your acceptance of such change. GETNULLEDSCRIPTS.COM visitors should frequently visit this page for any changes to the privacy policies.
 
-If you have any queries about this privacy statement or the practices of this website, you can contact us via our contact us form or email us at [admin@getnulledscripts.com](mailto:admin@getnulledscripts.com).
+If you have any queries about this privacy statement or the practices of this website, you can contact us via our contact us form or email us at [admin@getnulledscript.com](mailto:admin@getnulledscript.com).
