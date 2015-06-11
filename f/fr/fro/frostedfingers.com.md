@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the frostedfingers.com privacy policy that was archived on 2014-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141222164741id_/http%3A//frostedfingers.com/contact/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the frostedfingers.com privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611085858id_/http%3A//frostedfingers.com/contact/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Frosted Fingers | Baking & Reviews | Chicago Mom Blogger
 
