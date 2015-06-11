@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nlb.gov.sg privacy policy that was archived on 2014-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141109173521id_/http%3A//www.nlb.gov.sg/PrivacyStatement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nlb.gov.sg privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612001616id_/http%3A//www.nlb.gov.sg/PrivacyStatement.aspx) for the most accurate reproduction.*
 
 # National Library Board > Privacy Statement
 
@@ -8,32 +8,33 @@ Please read carefully our policy on data collection and use of the data collecte
 
 **When is information collected from you?**
 
-  * When you register as a member of NLB or for any services offered by NLB
-  * When you use any NLB service and provide your personal particulars
-  * When you take part in any contest, survey or promotion conducted by NLB and/or its business partners
-  * When you register as a member of websites hosted by NLB on behalf of its business partners or use services on such websites
+  * When you register as a member of the NLB or for any services offered by the NLB.
+  * When you use any the NLB service and provide your personal particulars
+  * When you take part in any contest, survey or promotion conducted by the NLB and/or its business partners
+  * When you register as a member of websites hosted by the NLB on behalf of its business partners or use services on such websites
 
 
 
 **What is the information used for?**
 
-  * To provide goods and services by NLB or its designated representatives and/or business partners to you or parties designated by you and matters ancillary thereto
+  * To provide goods and services by the NLB or its designated representatives and/or business partners to you or parties designated by you and matters ancillary thereto
   * To verify and process payment when you purchase goods and services from our sites
   * For verification and record of your personal particulars including comparing it with information from other sources and using the information to communicate with you
   * To conduct statistical analysis of the users of our sites including the number of users, the frequency of use, profile of users and using such analysis for our business plans, the enhancement of our products and services, targeted advertisements and conveying such information in broad terms (but not information in relation to specific individuals) to third parties who have or propose to have business dealings with us
   * To send you information, promotions and updates including marketing and advertising materials in relation to our goods and services and those of third party organizations selected by us
   * To comply with any order of court or directive from authorities investigating any alleged offence, misdeeds and/or abuse or for the purposes of taking legal action against any users for breach of the Conditions of Use.
   * For the above purposes by third parties (who may be based outside Singapore) who offer goods and services or sponsor contests or other promotional programs on our site, whether in conjunction with us or not, if you purchase such goods, use such services or participate in such contests and promotional programs.
+  * The NLB may share necessary data with other Singapore Government agencies, so as to serve to serve you in the most efficient and effective way unless such sharing is prohibited by law.
 
 
 
 **What about Children's Privacy?**
 
-NLB takes special care to protect the privacy needs of children under the age of 13 and encourages parents to be an active participant in their child's online activities and interests.
+The NLB takes special care to protect the privacy needs of children under the age of 13 and encourages parents to be an active participant in their child's online activities and interests.
 
 **Can you opt out?**
 
-Whenever we send you any information, we will include instructions on how to unsubscribe and a link to do so. If you do not wish to receive further information of a similar nature, you may unsubscribe via this link or by sending us email at [helpdesk@library.nlb.gov.sg](mailto:helpdesk@nlb.gov.sg "helpdesk@nlb.gov.sg").
+Whenever we send you any information, we will include instructions on how to unsubscribe and a link to do so. If you do not wish to receive further information of a similar nature, you may unsubscribe via this link or by sending us email at [helpdesk@library.nlb.gov.sg](mailto:helpdesk@nlb.gov.sg "helpdesk@nlb.gov.sg").
 
 **Will your personal information be shared with anyone?**
 
@@ -41,11 +42,11 @@ We are committed to safeguarding your privacy. As a general rule, we do not disc
 
 **How your data is protected?**
 
-NLB will take reasonable steps to ensure that personal data are protected from unauthorized access. Any information gathered by NLB is stored in systems that may only be accessed by authorized staff of NLB using assigned user ids and passwords.
+The NLB will take reasonable steps to ensure that personal data are protected from unauthorized access. Any information gathered by the NLB is stored in systems that may only be accessed by authorized staff of the NLB using assigned user ids and passwords.
 
 **Use of cookies**
 
-NLB uses "cookies", where a small data file is sent to your browser to store and track information about you when you enter our websites. The cookie is used to track information such as the number of users and their frequency of use, profiles of users and their preferred sites. While this cookie can tell us when you enter our sites and which pages you visit, it cannot read data off your hard disk.
+The NLB uses "cookies", where a small data file is sent to your browser to store and track information about you when you enter our websites. The cookie is used to track information such as the number of users and their frequency of use, profiles of users and their preferred sites. While this cookie can tell us when you enter our sites and which pages you visit, it cannot read data off your hard disk.
 
 If you choose to make an application or send us an email for which you provide us with personally identifiable data, we may share necessary data with other Singapore Government agencies, so as to serve you in a most efficient and effective way, unless such sharing is prohibited by legislation. We will NOT share your personal data with non-Singapore Government entities, except where such entities have been authorized to carry out specific Singapore Government services.
 
@@ -57,6 +58,8 @@ This site may contain links to non-Singapore Government sites whose data protect
 
 **Contact Us**
 
-Please email to [qsm@library.nlb.gov.sg](mailto:qsm@library.nlb.gov.sg "qsm@library.nlb.gov.sg").  
+Please email to [qsm@library.nlb.gov.sg](mailto:qsm@library.nlb.gov.sg "qsm@library.nlb.gov.sg").
+
+  
 (a) For any enquires or feedback on our data protection policies and procedures,  
-(b) If you require more information on or access to the data which you have earlier provided to us. 
+(b) If you require more information on or access to the data which you have earlier provided to us.
