@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the revenews.com privacy policy that was archived on 2014-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141124102342id_/http%3A//www.revenews.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the revenews.com privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611091733id_/http%3A//www.revenews.com/privacy) for the most accurate reproduction.*
 
 # ReveNews Privacy Policy | ReveNewsReveNews
 
@@ -143,12 +143,3 @@ In accordance with California Civil Code Sec. 1789.3, California resident users 
 For more information about protecting your privacy, you may wish to visit: www.ftc.gov
 
 If you have questions about this policy, please contact us at legal@affiliatesummit.com
-
-The following two tabs change content below.
-
-  * Bio
-  * Latest Posts
-
-
-
-Former ReveNews and CostPerNews Publisher, Former Affiliate Marketer, Current Middle School Science Teacher, Current Publisher of AffiliateHack
