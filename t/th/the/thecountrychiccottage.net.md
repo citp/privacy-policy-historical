@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thecountrychiccottage.net privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702220238id_/http%3A//www.thecountrychiccottage.net/p/terms-and-disclosure.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thecountrychiccottage.net privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611145016id_/http%3A//www.thecountrychiccottage.net/p/terms-and-disclosure.html) for the most accurate reproduction.*
 
 # Terms and Disclosure - * THE COUNTRY CHIC COTTAGE (DIY, Home Decor, Crafts, Farmhouse)
 
