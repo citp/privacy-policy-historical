@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the astrocamp.com privacy policy that was archived on 2014-08-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140811081755id_/http%3A//www.astrocamp.com/PrivacyPolicy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the astrocamp.com privacy policy that was archived on 2015-06-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150612012324id_/http%3A//www.astrocamp.com/PrivacyPolicy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
     <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
@@ -26,7 +26,28 @@
                 <!--include virtual="/include_db.asp"-->
 
 
-    <script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=112718628891441"></script><script type="text/javascript">
+<!--app download script-->
+<script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=112718628891441"></script><script type="text/javascript">
+    window.onload = function () {
+        if (isMobileJS.Android()) {
+            if (!getCookiesAppPopup()) {
+                if (document.getElementById('appDownload').style.display == 'none') {
+                    document.getElementById('overlayshow').style.display = "block";
+                    document.getElementById('appDownload').style.display = "block";
+                    setonclickfunctionapp();
+                }
+            }
+        }
+
+        if ('' == 'true')
+        {
+            showHidediv(document.getElementById('ddlCountry'));
+        }
+    }
+</script>
+ <!---end--->
+
+    <script type="text/javascript">
         window.google_analytics_uacct = "UA-245702-6";
     </script>
     
@@ -60,11 +81,24 @@
     </script>
 
 <table border="0" width="100%">
-    <tbody><tr>
-     <td width="220" scope="col">
-          <a href="/horoscope/horoscope2014.asp" class="topmenu" style="text-decoration:underline;" title="Get Horoscope 2014"><b>Horoscope 2014</b></a> |
-          
-          <a href="/horoscope/rashiphal2014.asp" class="topmenu" style="text-decoration:underline;" title="राशिफल 2014"><b>राशिफल 2014</b></a>
+<tbody><tr>
+<td colspan="6">
+<div class="topbg">
+    <a href="/horoscope/horoscope2015.asp" class="topmenu" title="Get Horoscope 2015"><b>Horoscope 2015</b></a> | 
+    <!--<a href="/chinese-horoscope-2015.html" class="topmenu" title="Chinese Horoscope 2015"><b>Chinese Horoscope 2015</b></a> |
+    <a href="/horoscope/rashiphal2015.asp" class="topmenu" title="राशिफल 2015"><b>राशिफल 2015</b></a> | -->
+    
+    <a href="/horoscope/rashifal2015.asp" class="topmenu" title="Rashifal 2015"><b>Rashifal 2015</b></a> |
+    <a href="/rasi-palan-2015.asp" class="topmenu" title="Rasi Palan 2015"><b>Rasi Palan 2015</b></a> |
+     <a href="/hindu-calendar-2015.asp" class="topmenu" title="Hindu Calendar 2015"><b>Hindu Calendar 2015</b></a> |
+    <a href="/Lal-kitab-astrology-2015-summarized.asp" class="topmenu" title="Lalkitab Horoscope 2015"><b>Lalkitab Horoscope 2015</b></a>
+</div>
+
+</td>
+</tr>
+    <tr>
+     <td scope="col">
+        
           </td>
                <td scope="col">
         <a href="http://www.youtube.com/AstroSageIndia" target="_blank">
@@ -90,7 +124,8 @@
                         
                         <a href="mailto:customercare@astrocamp.com" class="popup topmenu" title="Contact AstroCAMP.com Customer Care" style="text-decoration:none">Customer 
             Care
-            <span class="Mobnum"><font style="font-size:13px;">customercare@astrocamp.com<br>+91 95606 70006 (10AM to 6PM IST)</font></span></a>
+            <span class="Mobnum"><font style="font-size:13px;">customercare@astrocamp.com<script cf-hash="f9e31" type="text/javascript">
+/* <![CDATA[ */!function(){try{var t="currentScript"in document?document.currentScript:function(){for(var t=document.getElementsByTagName("script"),e=t.length;e--;)if(t[e].getAttribute("cf-hash"))return t[e]}();if(t&&t.previousSibling){var e,r,n,i,c=t.previousSibling,a=c.getAttribute("data-cfemail");if(a){for(e="",r=parseInt(a.substr(0,2),16),n=2;a.length-n;n+=2)i=parseInt(a.substr(n,2),16)^r,e+=String.fromCharCode(i);e=document.createTextNode(e),c.parentNode.replaceChild(e,c)}}}catch(u){}}();/* ]]> */</script><br>+91 95606 70006 (10AM to 6PM IST)</font></span></a>
                         
                                       
                        
@@ -124,7 +159,7 @@
                           <table cellspacing="0" cellpadding="0" width="100%" border="0">
                     <tbody><tr>
                       <td><div align="left">
-                        <a href="/horoscope/aries-horoscope.asp" onmouseover="roll('aries', '/images/sign_images/aries-hover.gif')" onmouseout="roll('aries', '/images/sign_images/aries.gif')">
+                        <a title="Aries Horoscope 2015" href="/horoscope/arieshoroscope2015.asp" onmouseover="roll('aries', '/images/sign_images/aries-hover.gif')" onmouseout="roll('aries', '/images/sign_images/aries.gif')">
 
                           <img src="/images/sign_images/aries.gif" width="50" height="65" border="0" alt="Aries Horoscope – Aries Astrology" name="aries">
 
@@ -133,7 +168,7 @@
                       </td>
                        <td>
                         <div align="left">
-                          <a href="/horoscope/taurus-horoscope.asp" onmouseover="roll('taurus', '/images/sign_images/taurus-hover.gif')" onmouseout="roll('taurus', '/images/sign_images/taurus.gif')">
+                          <a title="Taurus Horoscope 2015" href="/horoscope/taurushoroscope2015.asp" onmouseover="roll('taurus', '/images/sign_images/taurus-hover.gif')" onmouseout="roll('taurus', '/images/sign_images/taurus.gif')">
 
                             <img src="/images/sign_images/taurus.gif" width="50" height="65" border="0" alt="Taurus Horoscope – Astrology" name="taurus">
 
@@ -142,7 +177,7 @@
                       </td>
                       <td>
                         <div align="left">
-                          <a href="/horoscope/gemini-horoscope.asp" onmouseover="roll('gemini', '/images/sign_images/gemini-hover.gif')" onmouseout="roll('gemini', '/images/sign_images/gemini.gif')">
+                          <a title="Gemini Horoscope 2015" href="/horoscope/geminihoroscope2015.asp" onmouseover="roll('gemini', '/images/sign_images/gemini-hover.gif')" onmouseout="roll('gemini', '/images/sign_images/gemini.gif')">
 
                             <img src="/images/sign_images/gemini.gif" width="50" height="65" border="0" alt="Gemini Horoscope - Astrology" name="gemini">
 
@@ -151,7 +186,7 @@
                       </td>
                       <td>
                         <div align="left">
-                          <a href="/horoscope/cancer-horoscope.asp" onmouseover="roll('cancer', '/images/sign_images/cancer-hover.gif')" onmouseout="roll('cancer', '/images/sign_images/cancer.gif')">
+                          <a title="Cancer Horoscope 2015" href="/horoscope/cancerhoroscope2015.asp" onmouseover="roll('cancer', '/images/sign_images/cancer-hover.gif')" onmouseout="roll('cancer', '/images/sign_images/cancer.gif')">
 
                             <img src="/images/sign_images/cancer.gif" width="50" height="65" border="0" alt="Cancer Horoscope - Astrology" name="cancer">
 
@@ -160,7 +195,7 @@
                       </td>
                       <td>
                         <div align="left">
-                          <a href="/horoscope/leo-horoscope.asp" onmouseover="roll('leo', '/images/sign_images/leo-hover.gif')" onmouseout="roll('leo', '/images/sign_images/leo.gif')">
+                          <a title="Leo Horoscope 2015" href="/horoscope/leohoroscope2015.asp" onmouseover="roll('leo', '/images/sign_images/leo-hover.gif')" onmouseout="roll('leo', '/images/sign_images/leo.gif')">
 
                             <img src="/images/sign_images/leo.gif" width="50" height="65" border="0" alt="Leo Horoscope - Astrology" name="leo">
 
@@ -169,7 +204,7 @@
                       </td>
                       <td>
                         <div align="left">
-                          <a href="/horoscope/virgo-horoscope.asp" onmouseover="roll('virgo', '/images/sign_images/virgo-hover.gif')" onmouseout="roll('virgo', '/images/sign_images/virgo.gif')">
+                          <a title="Virgo Horoscope 2015" href="/horoscope/virgohoroscope2015.asp" onmouseover="roll('virgo', '/images/sign_images/virgo-hover.gif')" onmouseout="roll('virgo', '/images/sign_images/virgo.gif')">
 
                             <img src="/images/sign_images/virgo.gif" width="50" height="65" border="0" alt="Virgo Horoscope - Astrology" name="virgo">
 
@@ -178,7 +213,7 @@
                       </td>
                       <td>
                         <div align="left">
-                          <a href="/horoscope/libra-horoscope.asp" onmouseover="roll('libra', '/images/sign_images/libra-hover.gif')" onmouseout="roll('libra', '/images/sign_images/libra.gif')">
+                          <a title="Libra Horoscope 2015" href="/horoscope/librahoroscope2015.asp" onmouseover="roll('libra', '/images/sign_images/libra-hover.gif')" onmouseout="roll('libra', '/images/sign_images/libra.gif')">
 
                             <img src="/images/sign_images/libra.gif" width="50" height="65" border="0" alt="Libra Horoscope - Astrology" name="libra">
 
@@ -187,7 +222,7 @@
                       </td>
                       <td>
                         <div align="left">
-                          <a href="/horoscope/scorpio-horoscope.asp" onmouseover="roll('scorpio', '/images/sign_images/scorpio-hover.gif')" onmouseout="roll('scorpio', '/images/sign_images/scorpio.gif')">
+                          <a title="Scorpio Horoscope 2015" href="/horoscope/scorpiohoroscope2015.asp" onmouseover="roll('scorpio', '/images/sign_images/scorpio-hover.gif')" onmouseout="roll('scorpio', '/images/sign_images/scorpio.gif')">
 
                             <img src="/images/sign_images/scorpio.gif" width="50" height="65" border="0" alt="Scorpio Horoscope - Astrology" name="scorpio">
 
@@ -196,7 +231,7 @@
                       </td>
                       <td>
                         <div align="left">
-                          <a href="/horoscope/sagittarius-horoscope.asp" onmouseover="roll('sagittarius', '/images/sign_images/sagittarius-hover.gif')" onmouseout="roll('sagittarius', '/images/sign_images/sagittarius.gif')">
+                          <a title="Sagittarius Horoscope 2015" href="/horoscope/sagittariushoroscope2015.asp" onmouseover="roll('sagittarius', '/images/sign_images/sagittarius-hover.gif')" onmouseout="roll('sagittarius', '/images/sign_images/sagittarius.gif')">
 
                             <img src="/images/sign_images/sagittarius.gif" width="50" height="65" border="0" alt="Sagittarius Horoscope - Astrology" name="sagittarius">
 
@@ -205,7 +240,7 @@
                       </td>
                       <td>
                         <div align="left">
-                          <a href="/horoscope/capricorn-horoscope.asp" onmouseover="roll('capricorn', '/images/sign_images/capricorn-hover.gif')" onmouseout="roll('capricorn', '/images/sign_images/capricorn.gif')">
+                          <a title="Capricorn Horoscope 2015" href="/horoscope/capricornhoroscope2015.asp" onmouseover="roll('capricorn', '/images/sign_images/capricorn-hover.gif')" onmouseout="roll('capricorn', '/images/sign_images/capricorn.gif')">
 
                             <img src="/images/sign_images/capricorn.gif" width="50" height="65" border="0" alt="Capricorn Horoscope - Astrology" name="capricorn">
 
@@ -214,7 +249,7 @@
                       </td>
                       <td>
                         <div align="left">
-                          <a href="/horoscope/aquarius-horoscope.asp" onmouseover="roll('aquarius', '/images/sign_images/aquarius-hover.gif')" onmouseout="roll('aquarius', '/images/sign_images/aquarius.gif')">
+                          <a title="Aquarius Horoscope 2015" href="/horoscope/aquariushoroscope2015.asp" onmouseover="roll('aquarius', '/images/sign_images/aquarius-hover.gif')" onmouseout="roll('aquarius', '/images/sign_images/aquarius.gif')">
 
                             <img src="/images/sign_images/aquarius.gif" width="50" height="65" border="0" alt="Aquarius Horoscope - Astrology" name="aquarius">
 
@@ -223,7 +258,7 @@
                       </td>
                       <td>
                         <div align="left">
-                          <a href="/horoscope/pisces-horoscope.asp" onmouseover="roll('pisces', '/images/sign_images/pisces-hover.gif')" onmouseout="roll('pisces', '/images/sign_images/pisces.gif')">
+                          <a title="Pisces Horoscope 2015" href="/horoscope/pisceshoroscope2015.asp" onmouseover="roll('pisces', '/images/sign_images/pisces-hover.gif')" onmouseout="roll('pisces', '/images/sign_images/pisces.gif')">
 
                             <img src="/images/sign_images/pisces.gif" width="50" height="65" border="0" alt="Pisces Horoscope - Astrology" name="pisces">
 
@@ -311,48 +346,77 @@
                 </ul>
             </li>
             
-            <li><a href="/horoscope/monthly-horoscope.asp" title="Monthly August Horoscope and Astrology" style="padding-right: 15px;"><span class="SMS"><img src="/images/v_arrow.gif" alt="+" style="display:block;border:0;width:0;height:0;"></span>&nbsp;&nbsp;Monthly Horoscopes&nbsp;&nbsp;</a>
+            <li><a href="/horoscope/monthly-horoscope.asp" title="Monthly June Horoscope and Astrology" style="padding-right: 15px;"><span class="SMS"><img src="/images/v_arrow.gif" alt="+" style="display:block;border:0;width:0;height:0;"></span>&nbsp;&nbsp;Monthly Horoscopes&nbsp;&nbsp;</a>
             <ul class="SM">
-                    <li><a href="/horoscope/monthly-aries-horoscope.asp" title="Get August Aries Horoscope Here">August Aries Horoscope </a></li>
-                    <li><a href="/horoscope/monthly-taurus-horoscope.asp" title="Get August Taurus Horoscope Here">August Taurus Horoscope </a></li>
-                    <li><a href="/horoscope/monthly-gemini-horoscope.asp" title="Get August Gemini Horoscope Here">August Gemini Horoscope </a></li>
-                    <li><a href="/horoscope/monthly-cancer-horoscope.asp" title="Get August Cancer Horoscope Here">August Cancer Horoscope </a></li>
-                    <li><a href="/horoscope/monthly-leo-horoscope.asp" title="Get August Leo Horoscope Here">August Leo Horoscope </a></li>
-                    <li><a href="/horoscope/monthly-virgo-horoscope.asp" title="Get August Virgo Horoscope Here">August Virgo Horoscope </a></li>
-                    <li><a href="/horoscope/monthly-libra-horoscope.asp" title="Get August Libra Horoscope Here">August Libra Horoscope </a></li>
-                    <li><a href="/horoscope/monthly-scorpio-horoscope.asp" title="Get August Scorpio Horoscope Here">August Scorpio Horoscope </a></li>
-                    <li><a href="/horoscope/monthly-sagittarius-horoscope.asp" title="Get August Sagittarius Horoscope Here">August Sagittarius Horoscope </a></li>
-                    <li><a href="/horoscope/monthly-capricorn-horoscope.asp" title="Get August Capricorn Horoscope Here">August Capricorn Horoscope </a></li>
-                    <li><a href="/horoscope/monthly-aquarius-horoscope.asp" title="Get August Aquarius Horoscope Here">August Aquarius Horoscope </a></li>
-                    <li class="NOSEPARATOR"><a href="/horoscope/monthly-pisces-horoscope.asp" title="Get August Pisces Horoscope Here">August Pisces Horoscope </a></li>
+                    <li><a href="/horoscope/monthly-aries-horoscope.asp" title="Get June Aries Horoscope Here">June Aries Horoscope </a></li>
+                    <li><a href="/horoscope/monthly-taurus-horoscope.asp" title="Get June Taurus Horoscope Here">June Taurus Horoscope </a></li>
+                    <li><a href="/horoscope/monthly-gemini-horoscope.asp" title="Get June Gemini Horoscope Here">June Gemini Horoscope </a></li>
+                    <li><a href="/horoscope/monthly-cancer-horoscope.asp" title="Get June Cancer Horoscope Here">June Cancer Horoscope </a></li>
+                    <li><a href="/horoscope/monthly-leo-horoscope.asp" title="Get June Leo Horoscope Here">June Leo Horoscope </a></li>
+                    <li><a href="/horoscope/monthly-virgo-horoscope.asp" title="Get June Virgo Horoscope Here">June Virgo Horoscope </a></li>
+                    <li><a href="/horoscope/monthly-libra-horoscope.asp" title="Get June Libra Horoscope Here">June Libra Horoscope </a></li>
+                    <li><a href="/horoscope/monthly-scorpio-horoscope.asp" title="Get June Scorpio Horoscope Here">June Scorpio Horoscope </a></li>
+                    <li><a href="/horoscope/monthly-sagittarius-horoscope.asp" title="Get June Sagittarius Horoscope Here">June Sagittarius Horoscope </a></li>
+                    <li><a href="/horoscope/monthly-capricorn-horoscope.asp" title="Get June Capricorn Horoscope Here">June Capricorn Horoscope </a></li>
+                    <li><a href="/horoscope/monthly-aquarius-horoscope.asp" title="Get June Aquarius Horoscope Here">June Aquarius Horoscope </a></li>
+                    <li class="NOSEPARATOR"><a href="/horoscope/monthly-pisces-horoscope.asp" title="Get June Pisces Horoscope Here">June Pisces Horoscope </a></li>
                 </ul>
-            </li>             
-            <li><a href="/horoscope/horoscope2014.asp" title="Get 2014 Horoscope Here" style="padding-right: 15px;"><span class="SMS"><img src="/images/v_arrow.gif" alt="+" style="display:block;border:0;width:0;height:0;"></span>&nbsp;&nbsp;Horoscope 2014&nbsp;&nbsp;</a>
-             <ul class="SM">
-                    <li><a href="/horoscope/arieshoroscope2014.asp" title="Get 2014 Aries Horoscope">Aries Horoscope 2014</a></li>
-                    <li><a href="/horoscope/taurushoroscope2014.asp" title="Get 2014 Taurus Horoscope">Taurus Horoscope 2014</a></li>
-                    <li><a href="/horoscope/geminihoroscope2014.asp" title="Get 2014 Gemini Horoscope">Gemini Horoscope 2014</a></li>
-                    <li><a href="/horoscope/cancerhoroscope2014.asp" title="Get 2014 Cancer Horoscope">Cancer Horoscope 2014</a></li>
-                    <li><a href="/horoscope/leohoroscope2014.asp" title="Get 2014 Leo Horoscope">Leo Horoscope 2014</a></li>
-                    <li><a href="/horoscope/virgohoroscope2014.asp" title="Get 2014 Virgo Horoscope">Virgo Horoscope 2014</a></li>
-                    <li><a href="/horoscope/librahoroscope2014.asp" title="Get 2014 Libra Horoscope">Libra Horoscope 2014</a></li>
-                    <li><a href="/horoscope/scorpiohoroscope2014.asp" title="Get 2014 Scorpio Horoscope">Scorpio Horoscope 2014</a></li>
-                    <li><a href="/horoscope/sagittariushoroscope2014.asp" title="Get 2014 Sagittarius Horoscope">Sagittarius Horoscope 2014</a></li>
-                    <li><a href="/horoscope/capricornhoroscope2014.asp" title="Get 2014 Capricorn Horoscope">Capricorn Horoscope 2014</a></li>
-                    <li><a href="/horoscope/aquariushoroscope2014.asp" title="Get 2014 Aquarius Horoscope">Aquarius Horoscope 2014</a></li>
-                    <li class="NOSEPARATOR"><a href="/horoscope/pisceshoroscope2014.asp" title="Get 2014 Pisces Horoscope">Pisces Horoscope 2014</a></li>
+            </li>       
+            <li><a href="/horoscope/horoscope2015.asp" title="Get 2015 Horoscope Here" style="padding-right: 15px;"><span class="SMS"><img src="/images/v_arrow.gif" alt="+" style="display:block;border:0;width:0;height:0;"></span>&nbsp;&nbsp;Horoscope 2015&nbsp;&nbsp;</a> 
+            <ul class="SM">
+                    <li><a href="/horoscope/arieshoroscope2015.asp" title="Get 2015 Aries Horoscope">Aries Horoscope 2015</a></li>
+                    <li><a href="/horoscope/taurushoroscope2015.asp" title="Get 2015 Taurus Horoscope">Taurus Horoscope 2015</a></li>
+                    <li><a href="/horoscope/geminihoroscope2015.asp" title="Get 2015 Gemini Horoscope">Gemini Horoscope 2015</a></li>
+                    <li><a href="/horoscope/cancerhoroscope2015.asp" title="Get 2015 Cancer Horoscope">Cancer Horoscope 2015</a></li>
+                    <li><a href="/horoscope/leohoroscope2015.asp" title="Get 2015 Leo Horoscope">Leo Horoscope 2015</a></li>
+                    <li><a href="/horoscope/virgohoroscope2015.asp" title="Get 2015 Virgo Horoscope">Virgo Horoscope 2015</a></li>
+                    <li><a href="/horoscope/librahoroscope2015.asp" title="Get 2015 Libra Horoscope">Libra Horoscope 2015</a></li>
+                    <li><a href="/horoscope/scorpiohoroscope2015.asp" title="Get 2015 Scorpio Horoscope">Scorpio Horoscope 2015</a></li>
+                    <li><a href="/horoscope/sagittariushoroscope2015.asp" title="Get 2015 Sagittarius Horoscope">Sagittarius Horoscope 2015</a></li>
+                    <li><a href="/horoscope/capricornhoroscope2015.asp" title="Get 2015 Capricorn Horoscope">Capricorn Horoscope 2015</a></li>
+                    <li><a href="/horoscope/aquariushoroscope2015.asp" title="Get 2015 Aquarius Horoscope">Aquarius Horoscope 2015</a></li>
+                    <li class="NOSEPARATOR"><a href="/horoscope/pisceshoroscope2015.asp" title="Get 2015 Pisces Horoscope">Pisces Horoscope 2015</a></li>
+                </ul></li>
+            
+                 
+            
+
+            <li><a href="/chinese-horoscope-2015.html" title="Get 2015 Horoscope Here">&nbsp;&nbsp;Chinese Horoscope 2015&nbsp;&nbsp;</a></li>
+             <li><a href="/rasi-palan-2015.asp" title="Get Rasi Palan 2015">&nbsp;&nbsp;Rasi Palan 2015&nbsp;&nbsp;</a></li>
+              <li><a href="/rasi-palan-2015.asp" title="Get Rashifal 2015">&nbsp;&nbsp;Rashifal 2015 (Roman)&nbsp;&nbsp;</a></li>
+
+
+            <li><a href="/tarot-reading-2015-horoscope.asp" title="Tarot Horoscope 2015">&nbsp;&nbsp;Tarot Horoscope 2015&nbsp;&nbsp;</a></li>
+            <li class="NOSEPARATOR"><a href="/horoscope/rashiphal2015.asp" title="2015 के लिए राशिफल" style="padding-right: 15px;"><span class="SMS"><img src="/images/v_arrow.gif" alt="+" style="display:block;border:0;width:0;height:0;"></span>&nbsp;&nbsp;राशिफल
+                2015&nbsp;&nbsp;</a>
+                <ul class="SM">
+                   
+                    <li><a href="/horoscope/meshrashiphal2015.asp" title="Get मेष राशिफल 2015">मेष राशिफल
+                        2015</a></li>
+                    <li><a href="/horoscope/vrishabharashiphal2015.asp" title="Get वृषभ राशिफल 2015">वृषभ
+                        राशिफल 2015</a></li>
+                    <li><a href="/horoscope/mithunrashiphal2015.asp" title="Get थुन राशिफल 2015">मिथुन राशिफल
+                        2015</a></li>
+                    <li><a href="/horoscope/karkarashiphal2015.asp" title="Get कर्क  राशिफल 2015">कर्क राशिफल
+                        2015</a></li>
+                    <li><a href="/horoscope/simharashiphal2015.asp" title="Get सिंह राशिफल 2015">सिंह राशिफल
+                        2015</a></li>
+                    <li><a href="/horoscope/kanyarashiphal2015.asp" title="Get कन्या राशिफल 2015">कन्या
+                        राशिफल 2015</a></li>
+                    <li><a href="/horoscope/tularashiphal2015.asp" title="Get तुला राशिफल 2015">तुला राशिफल
+                        2015</a></li>
+                    <li><a href="/horoscope/vrishchikarashiphal2015.asp" title="Get वृश्चिक राशिफल 2015">
+                        वृश्चिक राशिफल 2015</a></li>
+                    <li><a href="/horoscope/dhanurashiphal2015.asp" title="Get धनु राशिफल 2015">धनु राशिफल
+                        2015</a></li>
+                    <li><a href="/horoscope/makararashiphal2015.asp" title="Get मकर राशिफल 2015">मकर राशिफल
+                        2015</a></li>
+                    <li><a href="/horoscope/kumbharashiphal2015.asp" title="Get कुम्भ राशिफल 2015">कुम्भ
+                        राशिफल 2015</a></li>
+                    <li class="NOSEPARATOR"><a href="/horoscope/meenarashiphal2015.asp" title="Get मीन राशिफल 2015">मीन राशिफल
+                        2015</a></li>
                 </ul>
-            </li>
-            <li><a href="/horoscope/chinesehoroscope2014.asp" title="Get Chinese Horoscope 2014">&nbsp;&nbsp;Chinese Horoscope 2014&nbsp;&nbsp;</a></li>
-            <li><a href="/horoscope/rashiphal2014.asp" title="2014 के लिए राशिफल">&nbsp;&nbsp;राशिफल 2014&nbsp;&nbsp;</a></li>
-            <li><a href="/horoscope/rashifal2014.asp" title="Rashifal 2014">&nbsp;&nbsp;Rashifal 2014&nbsp;&nbsp;</a></li>
-            <li><a href="/2013/astrology2013.asp" title="Get Astrology 2013">&nbsp;&nbsp;Astrology 2013&nbsp;&nbsp;</a></li>
-            <li><a href="/horoscope/sex-horoscope-2013.asp" title="Get Sex Horoscope 2013">&nbsp;&nbsp;Sex Horoscope 2013&nbsp;&nbsp;</a></li>
-            <li><a href="/horoscope/health-horoscope-2013.asp" title="Get Health Horoscope 2013">&nbsp;&nbsp;Health Horoscope 2013&nbsp;&nbsp;</a></li>
-            <li><a href="/horoscope/love-horoscope-2013.asp" title="Get love Horoscope 2013">&nbsp;&nbsp;Love Horoscope 2013&nbsp;&nbsp;</a></li>
-            <li><a href="/horoscope/rasipalan-2013-tamil-astrology.asp" title="Get Tamil Horoscope 2013">&nbsp;&nbsp;Tamil Horoscope 2013&nbsp;&nbsp;</a></li>
-            <li><a href="/horoscope/numerology-2013.asp" title="Get Numerology Horoscope 2013">&nbsp;&nbsp;Numerology 2013&nbsp;&nbsp;</a></li>            
-            <li class="NOSEPARATOR"><a href="/horoscope/hairstyle-2013-haircut-2013.asp" title="Get Hairstyles 2013">&nbsp;&nbsp;Hairstyles 2013&nbsp;&nbsp;</a></li>            
+            </li>          
         </ul>
     </li>
     <li><a href="/astrology-software.asp" title="Softwares" style="padding-right: 15px;"><span class="MMS" style="top: 9px; right: 4px; display: block;"><img src="/images/h_arrow_over.gif" alt="+" style="display:block;border:0;width:0;height:0;"></span>&nbsp;&nbsp;Softwares&nbsp;&nbsp;</a>
@@ -466,7 +530,7 @@
                     </td>
                     <td width="10%" scope="col">
                         <div align="center">
-                            <a class="menufontdivider" title="Career Horoscope Services and Reports" href="/service.asp?service_id=4">
+                            <a class="menufontdivider" title="Career Horoscope Services and Reports" href="/service.asp?service_id=62">
                                 <img src="/images/icon_education.gif" width="67" height="35" border="0"></a></div>
                     </td>
                     <td width="1%" rowspan="2" scope="col">
@@ -475,7 +539,7 @@
                     </td>
                     <td width="8%" scope="col">
                         <div align="center">
-                            <a class="menufontdivider" title="Finance Horoscope Services and Reports." href="/service.asp?service_id=12">
+                            <a class="menufontdivider" title="Finance Horoscope Services and Reports." href="/service.asp?service_id=63">
                                 <img src="/images/icon_finance.gif" width="34" height="40" border="0"></a></div>
                     </td>
                     <td width="1%" rowspan="2" scope="col">
@@ -484,7 +548,7 @@
                     </td>
                     <td width="10%" scope="col">
                         <div align="center">
-                            <a class="menufontdivider" title="Gemstone and Remedies Astrology Services and Reports" href="/service.asp?service_id=13">
+                            <a class="menufontdivider" title="Gemstone and Remedies Astrology Services and Reports" href="/service.asp?service_id=65">
                                 <img src="/images/icon_gemstone.gif" width="51" height="37" border="0"></a></div>
                     </td>
                     <td width="1%" rowspan="2" scope="col">
@@ -493,7 +557,7 @@
                     </td>
                     <td width="9%" scope="col">
                         <div align="center">
-                            <a class="menufontdivider" title="Love and Marriage Astrology Services and Reports" href="/service.asp?service_id=6">
+                            <a class="menufontdivider" title="Love and Marriage Astrology Services and Reports" href="/service.asp?service_id=61">
                                 <img src="/images/icon_love.gif" width="42" height="34" border="0"></a></div>
                     </td>
                     <td width="1%" rowspan="2" scope="col">
@@ -542,30 +606,30 @@
                     </td>
                     <td scope="col" width="73px">
                         <div align="center">
-                            <span><a class="menufontdivider" title="2014 Horoscope and 2014 Personalized Reports" href="/allservices.asp?Cat_Id=1">2014
+                            <span><a class="menufontdivider" title="2015 Horoscope and 2015 Personalized Reports" href="/allservices.asp?Cat_Id=1">2015
                                 Reports</a></span>
                         </div>
                     </td>
                     <td scope="col" width="115px">
                         <div align="center">
-                            <span><a class="menufontdivider" title="Get consultation over phone" href="/service.asp?service_id=14" "="">Phone Consultation</a></span></div>
+                            <span><a class="menufontdivider" title="Get consultation over phone" href="/allservices.asp?Cat_Id=4">Phone Consultation</a></span></div>
                     </td>
                     <td scope="col" width="88px">
                         <div align="center">
-                            <span><a class="menufontdivider" title="Career Astrology Reports" href="/service.asp?service_id=4">Career</a></span></div>
+                            <span><a class="menufontdivider" title="Career Astrology Reports" href="/service.asp?service_id=62">Career</a></span></div>
                     </td>
                     <td scope="col" width="123px">
                         <div align="center">
-                            <span><a class="menufontdivider" title="Finance Astrology Reports" href="/service.asp?service_id=12">Finance</a></span></div>
+                            <span><a class="menufontdivider" title="Finance Astrology Reports" href="/service.asp?service_id=63">Finance</a></span></div>
                     </td>
                     <td scope="col" width="105px">
                         <div align="center">
-                            <span><a class="menufontdivider" title="Gemstone and Remedies Horoscope and Astrology" href="/service.asp?service_id=13">Gemstone &amp;<br>
+                            <span><a class="menufontdivider" title="Gemstone and Remedies Horoscope and Astrology" href="/service.asp?service_id=65">Gemstone &amp;<br>
                                 Remedies</a></span></div>
                     </td>
                     <td scope="col" width="125px">
                         <div align="center">
-                            <span><a class="menufontdivider" title="Love and Marriage Analysis Services" href="/service.asp?service_id=6">Love &amp; Marriage</a></span></div>
+                            <span><a class="menufontdivider" title="Love and Marriage Analysis Services" href="/service.asp?service_id=61">Love &amp; Marriage</a></span></div>
                     </td>
                     <td scope="col" width="71px">
                         <div align="center">
@@ -592,6 +656,38 @@
         </td>
     </tr>
 </tbody></table>
+
+<script type="text/javascript" src="/script/appdownload-popup.js"></script>
+<link rel="stylesheet" href="/css/appdownload-popup.css" type="text/css">
+
+
+
+<!-- Modal -->
+<div id="overlayshow" style="display:none;"></div>
+<div id="appDownload" style="display:none;">
+            <div class="popup-header">
+                <a href="#" onclick="appDownloadPopup('cancel-app-popup', 'download-app');" class="closeapp">×</a>
+                <h4 class="popup-title">
+                    <b>AstroSage Kundli Android App</b>
+                 </h4>
+            </div>
+            <div align="center">
+                <br>
+
+                <h4 align="center" class="popup-title">Free Kundli Software &amp; More</h4>
+                <br>
+                <div class="popup-button">
+                    <a href="https://play.google.com/store/apps/details?id=com.ojassoft.astrosage&amp;referrer=utm_source=astrocamppopup&amp;utm_medium=popup&amp;utm_campaign=mobileapp" rel="nofollow" onclick="appDownloadPopup('download-app-popup', 'download-app');">Download FREE
+                        <h6>In less than a Minute</h6>
+                    </a>
+                </div>
+                <div align="center">
+                    <a href="https://play.google.com/store/apps/details?id=com.ojassoft.astrosage&amp;referrer=utm_source=astrocamppopup&amp;utm_medium=popup&amp;utm_campaign=mobileapp" rel="nofollow" onclick="appDownloadPopup('download-app-popup', 'download-app');">
+                        <img src="/images/app-download.jpg" class="resimg"></a></div>
+            </div>
+ </div>
+<!-- /.modal -->
+
                 <!--End Header -->
             </td>
         </tr>
@@ -644,7 +740,8 @@
   </strong>Our web site may contain links to other web sites. AstroCAMP is not responsible for the privacy practices followed by other such web sites.<br>
 </p>
 <p><strong>4. Contacting us<br>
-  </strong>If you have any questions about this privacy statement, the practices of this site, or your dealings with this web site, you can contact us at <a href="mailto:query@astrocamp.com">query@astrocamp.com</a></p>
+  </strong>If you have any questions about this privacy statement, the practices of this site, or your dealings with this web site, you can contact us at <a href="mailto:query@astrocamp.com">query@astrocamp.com<script cf-hash="f9e31" type="text/javascript">
+/* <![CDATA[ */!function(){try{var t="currentScript"in document?document.currentScript:function(){for(var t=document.getElementsByTagName("script"),e=t.length;e--;)if(t[e].getAttribute("cf-hash"))return t[e]}();if(t&&t.previousSibling){var e,r,n,i,c=t.previousSibling,a=c.getAttribute("data-cfemail");if(a){for(e="",r=parseInt(a.substr(0,2),16),n=2;a.length-n;n+=2)i=parseInt(a.substr(n,2),16)^r,e+=String.fromCharCode(i);e=document.createTextNode(e),c.parentNode.replaceChild(e,c)}}}catch(u){}}();/* ]]> */</script></a></p>
 <p></p>
 
 
@@ -817,13 +914,29 @@ function validform(theform) {
         <td scope="col" height="8">
         </td>
     </tr>
+     <tr>
+         <td align="center">
+             <div class="ad-view-sm ad-view-1">
+                 <img src="/ads/marriage-halfbanner-ad.gif" alt="Free AstroSage Matrimony - Shaadi" width="230">
+                 <div class="ad-mask">
+                     <a href="https://marriage.astrosage.com/?utm_source=astrocamp&amp;utm_medium=halfbanner&amp;utm_campaign=asmarriage" class="ad-info" title="www.AstroSageMarriage.com: Free Matrimony - Shaadi">Join
+                         Now FREE</a>
+                 </div>
+             </div>
+        </td>
+    </tr>
+     <tr>
+        <td scope="col" height="8">
+        </td>
+    </tr>
     <tr>
          <td valign="top" bgcolor="#FEFCF6" scope="col" class="table">
           <table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">   
            <tbody><tr>
         <td scope="col" height="8">
         </td>
-    </tr>           
+    </tr>  
+             
              <tr>
                    
                     <th width="100%" scope="col">
@@ -860,7 +973,7 @@ function validform(theform) {
             <div class="tab_section">
                 <ul id="articletabs1" class="shadetabs">
                     <li><a href="#" rel="Articles" class="selected" style="width:82px; text-align:center">Articles</a></li>
-                    <li><a href="#" rel="2014" style="width:82px; text-align:center" class="">2014</a></li>
+                    <li><a href="#" rel="2014" style="width:82px; text-align:center" class="">2015</a></li>
                 </ul>
                 <table width="94%" border="0" align="center" cellpadding="0" cellspacing="0">
                     <tbody><tr>
@@ -882,28 +995,32 @@ function validform(theform) {
                                 </div>
                                 <div id="2014" class="tabcontent" style="display: none;">
                                             <div style="height:400px; overflow-y:scroll;">          
-            <li><a href="/lal-kitab-horoscope-2014.html">Lal Kitab 2014 Horoscope</a></li> 
-            <li><a href="/horoscope/horoscope2014.asp">Horoscope 2014</a></li>        
-            <li><a href="/horoscope/chinesehoroscope2014.asp" title="Get Chinese horoscope 2014">Chinese Horoscope 2014</a></li>
-            <li><a href="/horoscope/rashiphal2014.asp" title="राशिफल 2014">राशिफल 2014</a></li>
-            <li><a href="/horoscope/rashifal2014.asp" title="Rashifal 2014">Rashifal 2014</a></li>
-            <li><a href="/wallpapers2014.asp" title="2014 Wallpaper &amp; Backgrounds">2014 Wallpaper - New Year Wallpapers</a></li>
-            <li><a href="/vivah-muhurat-2014-marriage-muhurat.html">Vivah Muhurat 2014: Marriage Muhurat for 2014</a></li>
-            <li><a href="/vidyarambh-muhurat-2014.html">Vidyarambh Sanskar Muhurat 2014 - Vidyarambh 2014 Muhurat</a></li>
-            <li><a href="/commodity-market-2014-astrology-predictions.html">Commodity Market 2014 Astrology - Commodity Trading 2014 Astrology</a></li>
-            <li><a href="/sensex-nifty-astrology-predictions-2014.html">Sensex-Nifty Astrology Predictions 2014</a></li>           
-            <li><a href="/pushyamrit-yoga-2014.html">Pushya Amrit Yoga 2014 - Pushya Nakshatra 2014</a></li>
-            <li><a href="/sarvartha-siddhi-yoga-2014.html">Sarvartha Siddhi Yoga in 2014</a></li>
-            <li><a href="/amrit-siddhi-yoga-2014.html">Amrit Siddhi Yoga in 2014</a></li>
-            <li><a href="/namkaran-muhurat-2014.html">Namkaran Muhurat 2014 - Baby Naming Ceremony 2014</a></li>
-            <li><a href="/annaprashan-sanskar-muhurat-2014.html">Annaprashan Muhurat 2014 - Baby Feeding Ceremony Muhurat 2014</a></li>
-            <li><a href="/karnvedh-2014-muhurat.html">Ear Piercing Ceremony Muhurat 2014 - Karnvedh Sanskar 2014 Muhurat</a></li>
-            <li><a href="/nutan-griha-pravesh-2014-muhurat.html">Housewarming Ceremony Muhurat 2014 - Griha Pravesh Muhurat 2014</a></li>
-            <li><a href="/ekadashi-2014-dates.html">Ekadashi 2014 - Ekadashi Vrat 2014 Dates</a></li>
-            <li><a href="/jupiter-transit-2014-horoscope.html">Jupiter Transit 2014 Horoscope</a></li>
-            <li><a href="/rahu-transit-2014-horoscope.html">Rahu Transit 2014 Horoscope</a></li>
-            <li><a href="/diwali-2014-date.html">Diwali 2014 - The Festival Of Lights</a></li>
-            
+            <li><a href="/horoscope/horoscope2015.asp">Horoscope 2015</a></li>        
+            <li><a href="/chinese-horoscope-2015.html" title="Get Chinese horoscope 2015">Chinese Horoscope 2015</a></li>
+            <li><a href="/rasi-palan-2015.asp" title="2015 Wallpapers">Rasi Palan 2015</a></li>    
+            <li><a href="/horoscope/rashiphal2015.asp" title="राशिफल 2015">राशिफल 2015</a></li>
+            <li><a href="/horoscope/rashifal2015.asp" title="Rashifal 2015">Rashifal 2015 (Roman)</a></li>  
+            <li><a href="/Lal-kitab-astrology-2015-summarized.asp" title="Lal Kitab Astrology 2015">Lal Kitab Astrology 2015</a></li>   
+            <li><a href="/tarot-reading-2015-horoscope.asp" title="Tarot Horoscope 2015 - Tarot Reading 2015">Tarot Horoscope 2015 - Tarot Reading 2015</a></li>
+            <li><a href="/rahu-transit-2015.asp" title="Rahu Transit 2015: Unveil Your Future For 2015">Rahu Transit 2015: Unveil Your Future For 2015</a></li> 
+            <li><a href="/ketu-transit-2015.asp" title="Ketu Transit 2015">Ketu Transit 2015</a></li>
+            <li><a href="/purnima-2015-dates.html" title="Purnima 2015 Dates">Purnima 2015 Dates</a></li>  
+            <li><a href="/ketu-peyarchi-palangal-2015.html" title="Ketu Peyarchi Palan 2015">Ketu Peyarchi Palan 2015</a></li> 
+            <li><a href="/saturn-transit-2015.html" title="Saturn Transit 2015 Horoscope">Saturn Transit 2015 Horoscope</a></li>
+            <li><a href="/rahu-ketu-peyarchi-2015.html" title="Rahu Ketu Peyarchi Palangal 2015">Rahu Ketu Peyarchi Palangal 2015</a></li>
+            <li><a href="/guru-peyarchi-2015.html" title="Rahu Guru Peyarchi 2015 Palan">Guru Peyarchi 2015 Palan</a></li> 
+            <li><a href="/rahu-peyarchi-2015.html" title="Rahu Peyarchi 2015 Palangal">Rahu Peyarchi 2015 Palangal</a></li>
+            <li><a href="sani-peyarchi-palangal-2015.html" title="Sani Peyarchi Palangal 2015">Sani Peyarchi Palangal 2015 - Rasi Palangal 2015</a></li>  
+            <li><a href="/hindu-calendar-2015.asp" title="Hindu Calendar 2015">Hindu Calendar 2015</a></li>
+            <li><a href="/bank-holidays-2015.asp" title="Bank Holiday 2015">Bank Holidays 2015</a></li>   
+            <li><a href="/tamil-calendar-2015.asp" title="Tamil Calendar 2015">Tamil Calendar 2015</a></li>
+            <li><a href="/telugu-calendar-2015.asp" title="Telugu Calendar 2015">Telugu Calendar 2015</a></li>
+              <li><a href="/holiday-calendar-2015.asp" title="Holiday Calendar 2015">Holiday Calendar 2015</a></li>     
+            <li><a href="/islamic-calendar-2015.html" title="Islamic Calendar 2015 - Hijri Calendar 2015"> Islamic Calendar 2015 - Hijri Calendar 2015</a></li> 
+             <li><a href="/pradosh-vrat-2015.html" title="Pradosham 2015">Pradosham 2015: Neelkanth Absorbs Your Venomous Negativity! </a></li> 
+             <li><a href="/chaturthi-2015.html" title="Chaturthi 2015">Chaturthi 2015: The Day To Commemorate Ganpati</a></li> 
+            <li><a href="/printable-calendar-2015.html" title="Printable Calendar 2015">Printable Calendar 2015</a></li> 
+            <li><a href="/wallpapers2015.asp" title="2015 Wallpapers">2015 Wallpapers</a></li>     
             </div>
 
                                 </div>
@@ -942,6 +1059,7 @@ function validform(theform) {
         <td scope="col" height="8">
         </td>
     </tr>
+   
  <tr>
         <td height="208" valign="top" bgcolor="#FEFCF6" scope="col" class="table">
             <table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
@@ -1156,7 +1274,7 @@ function validform(theform) {
             <div class="ac-ui-w2-ah">
     <form method="post" action="/kundli/personalized-horoscope.asp" onsubmit="return Validation1(this)"></form>
     <fieldset>
-        <legend>Free Personalized Horoscope 2014</legend>
+        <legend>Free Personalized Horoscope 2015</legend>
         <label for="name">
             Name</label>
         <input name="astroname" id="astroname" type="text">
@@ -1928,40 +2046,40 @@ function validform(theform) {
             <div class="ac-ui-w3-wrapp">
     <form method="post" action="http://www.astrocamp.com/include/i_astrosage-widget-services.asp"></form>
         <fieldset>
-            <legend>2014 Reports</legend>
+            <legend>2015 Reports</legend>
             <div class="ac-ui-w3-rdo">
                 <span>
                     <input type="radio" id="radioWidgetService11" value="18" name="radioWidgetServices" checked="checked">
                     <label for="radioWidgetService11">
-                        <span></span>2014 Personalized Horoscope - $30</label>
+                        <span></span>2015 Personalized Horoscope - $30</label>
                 </span>
                 <div class="ac-ui-w3-clear">
                 </div>
                 <span>
                     <input type="radio" id="radioWidgetService21" value="19" name="radioWidgetServices">
                     <label for="radioWidgetService21">
-                        <span></span>2014 Personal Life Report - $25</label>
+                        <span></span>2015 Personal Life Report - $25</label>
                 </span>
                 <div class="ac-ui-w3-clear">
                 </div>
                 <span>
                     <input type="radio" id="radioWidgetService31" value="20" name="radioWidgetServices">
                     <label for="radioWidgetService31">
-                        <span></span>2014 Professional Life Report - $25</label>
+                        <span></span>2015 Professional Life Report - $25</label>
                 </span>
                 <div class="ac-ui-w3-clear">
                 </div>
                 <span>
                     <input type="radio" id="radioWidgetService41" value="21" name="radioWidgetServices">
                     <label for="radioWidgetService41">
-                        <span></span>2014 Love Report - $25</label>
+                        <span></span>2015 Love Report - $25</label>
                 </span>
                 <div class="ac-ui-w3-clear">
                 </div>
                 <span>
                     <input type="radio" id="radioWidgetService51" value="22" name="radioWidgetServices">
                     <label for="radioWidgetService51">
-                        <span></span>2014 Job Report - $25</label>
+                        <span></span>2015 Job Report - $25</label>
                 </span>
                 <div class="ac-ui-w3-clear">
                 </div>
@@ -2172,14 +2290,14 @@ function validform(theform) {
                             <div class="SiteMapHeading" style="margin-left: 40px;">
                                 Reports</div>
                             <ul style="margin-top:6px;">
-                                <li><a href="/allservices.asp?Cat_Id=1" title="Get 2014 Reports">2014 Reports</a></li>
+                                <li><a href="/allservices.asp?Cat_Id=1" title="Get 2015 Reports">2015 Reports</a></li>
                                 <li><a href="/service.asp?service_id=3" title="Get Business Reports">Business</a></li>
-                                <li><a href="/service.asp?service_id=4" title="Get Career Reports">Career</a></li>
-                                <li><a href="/service.asp?service_id=12" title="Get Finance Reports">Finance</a></li>
-                                <li><a href="/service.asp?service_id=13" title="Get Gemstone &amp; Remedies Reports">Gemstone &amp; Remedies</a></li>
-                                <li><a href="/service.asp?service_id=6" title="Get Love &amp; Marriage Reports">Love &amp; Marriage</a></li>
+                                <li><a href="/service.asp?service_id=62" title="Get Career Reports">Career</a></li>
+                                <li><a href="/service.asp?service_id=63" title="Get Finance Reports">Finance</a></li>
+                                <li><a href="/service.asp?service_id=65" title="Get Gemstone &amp; Remedies Reports">Gemstone &amp; Remedies</a></li>
+                                <li><a href="/service.asp?service_id=61" title="Get Love &amp; Marriage Reports">Love &amp; Marriage</a></li>
                                 <li><a href="/service.asp?service_id=5" title="Get Lal Kitab Reports">Lal Kitab</a></li>
-                                <li><a href="/service.asp?service_id=1" title="Get Questions Reports">Questions</a></li>
+                                <li><a href="/service.asp?service_id=64" title="Get Questions Reports">Detailed 1 Question</a></li>
                                 <li><a href="/service.asp?service_id=7" title="Get Health Reports">Health</a></li>
                                 <li><a href="/service.asp?service_id=2" title="Get Birth Time Rectification Reports">Birth Time
                                     Rectification</a></li>
@@ -2302,46 +2420,62 @@ function validform(theform) {
                 <a href="/terms.asp" class="footerfont">Terms of Use</a>
                 <!--<span class="footerfontdivider">|</span>  <a href="#" class="footerfont">Disclaimer</a>-->
                 <br>
-                <span class="copyright">© Copyright 2014 AstroCAMP.com All Rights Reserved</span></div>
+                <span class="copyright">© Copyright 2015 AstroCAMP.com All Rights Reserved</span></div>
         </td>
     </tr>
     <tr>
     <td>
       <div>
-    <a href="/horoscope/horoscope2014.asp" class="topmenu">Horoscope 2014</a> 
- : <a href="/horoscope/arieshoroscope2014.asp" class="topmenu">Aries 2014 Horoscope</a> 
- <span class="topmenudivider"> | </span><a href="/horoscope/taurushoroscope2014.asp" class="topmenu">Taurus 2014 Horoscope</a> 
- <span class="topmenudivider"> | </span><a href="/horoscope/geminihoroscope2014.asp" class="topmenu">Gemini 2014 Horoscope</a> 
- <span class="topmenudivider"> | </span><a href="/horoscope/cancerhoroscope2014.asp" class="topmenu">Cancer 2014 Horoscope</a> 
- <span class="topmenudivider"> | </span><a href="/horoscope/leohoroscope2014.asp" class="topmenu">Leo 2014 Horoscope</a> 
- <span class="topmenudivider"> | </span><a href="/horoscope/virgohoroscope2014.asp" class="topmenu">Virgo 2014 Horoscope</a> 
- <span class="topmenudivider"> | </span><a href="/horoscope/librahoroscope2014.asp" class="topmenu">Libra 2014 Horoscope</a> 
- <span class="topmenudivider"> | </span><a href="/horoscope/scorpiohoroscope2014.asp" class="topmenu">Scorpio 2014 Horoscope</a> 
- <span class="topmenudivider"> | </span><a href="/horoscope/sagittariushoroscope2014.asp" class="topmenu">Sagittarius 2014 Horoscope</a> 
- <span class="topmenudivider"> | </span><a href="/horoscope/capricornhoroscope2014.asp" class="topmenu">Capricorn 2014 Horoscope</a> 
- <span class="topmenudivider"> | </span><a href="/horoscope/aquariushoroscope2014.asp" class="topmenu">Aquarius 2014 Horoscope</a> 
- <span class="topmenudivider"> | </span><a href="/horoscope/pisceshoroscope2014.asp" class="topmenu">Pisces 2014 Horoscope</a> 
+    <a href="/horoscope/horoscope2015.asp" class="topmenu">Horoscope 2015</a> 
+ : <a href="/horoscope/arieshoroscope2015.asp" class="topmenu">Aries 2015 Horoscope</a> 
+ <span class="topmenudivider"> | </span><a href="/horoscope/taurushoroscope2015.asp" class="topmenu">Taurus 2015 Horoscope</a> 
+ <span class="topmenudivider"> | </span><a href="/horoscope/geminihoroscope2015.asp" class="topmenu">Gemini 2015 Horoscope</a> 
+ <span class="topmenudivider"> | </span><a href="/horoscope/cancerhoroscope2015.asp" class="topmenu">Cancer 2015 Horoscope</a> 
+ <span class="topmenudivider"> | </span><a href="/horoscope/leohoroscope2015.asp" class="topmenu">Leo 2015 Horoscope</a> 
+ <span class="topmenudivider"> | </span><a href="/horoscope/virgohoroscope2015.asp" class="topmenu">Virgo 2015 Horoscope</a> 
+ <span class="topmenudivider"> | </span><a href="/horoscope/librahoroscope2015.asp" class="topmenu">Libra 2015 Horoscope</a> 
+ <span class="topmenudivider"> | </span><a href="/horoscope/scorpiohoroscope2015.asp" class="topmenu">Scorpio 2015 Horoscope</a> 
+ <span class="topmenudivider"> | </span><a href="/horoscope/sagittariushoroscope2015.asp" class="topmenu">Sagittarius 2015 Horoscope</a> 
+ <span class="topmenudivider"> | </span><a href="/horoscope/capricornhoroscope2015.asp" class="topmenu">Capricorn 2015 Horoscope</a> 
+ <span class="topmenudivider"> | </span><a href="/horoscope/aquariushoroscope2015.asp" class="topmenu">Aquarius 2015 Horoscope</a> 
+ <span class="topmenudivider"> | </span><a href="/horoscope/pisceshoroscope2015.asp" class="topmenu">Pisces 2015 Horoscope</a> 
  </div>
   
 <link rel="stylesheet" type="text/css" href="/css/popupbox.css">
 <script type="text/javascript">
-    var overlayid = ["overlay0", "overlay1"];
-    var popupid = ["popup0", "popup1"];
-    var cookiesname = ["ishowadv0", "ishowadv1"];
+    var overlayid = ["overlay2","overlay0", "overlay1"];
+    var popupid = ["popup2","popup0", "popup1"];
+    var cookiesname = ["ishowadv2","ishowadv0", "ishowadv1"];
     var interval = 1000 * 120;
-    var passcookie;  
+    var passcookie, currentpopupid;
+    
+
+    function setonclickfunction() {
+        document.addEventListener("click", function(e) {
+            if (ovr.style.visibility == "visible" && pop.style.visibility == "visible") {
+                closePopup("trans", "trans", overlayid[currentpopupid], popupid[currentpopupid]);
+            }
+        });
+    }
+
+
     function setpopuptimer(i) {
+        currentpopupid = i;
         var timeOutValue = setTimeout(function() {            
             ovr = document.getElementById(overlayid[i]);
             pop = document.getElementById(popupid[i]);
             ovr.style.visibility = (ovr.style.visibility == "visible") ? "hidden" : "visible";
             pop.style.visibility = (pop.style.visibility == "visible") ? "hidden" : "visible";
             passcookie = cookiesname[i];
+            setonclickfunction()
         }, interval);
         return timeOutValue;
     }
+    
+    
+    
     function closePopup(tag, tagvalue, overlayidpass, popupidpass) {
-        //alert('before');
+        //alert(tag+","+ tagvalue+","+ overlayidpass+","+ popupidpass);
         document.getElementById(overlayidpass).style.visibility = 'hidden';
         document.getElementById(popupidpass).style.visibility = 'hidden';
         _gaq.push(['_trackEvent', tag, tagvalue]);
@@ -2357,58 +2491,59 @@ function validform(theform) {
             if (xmlhttp.readyState == 4 && xmlhttp.status == 200) {                
             }
         }
-        xmlhttp.open("GET", "/include/create-cookies.asp?cookiesname=" + passcookie, false);
+        xmlhttp.open("GET", "/include/create-cookies.asp?cookiesname=" + passcookie, true)
         xmlhttp.send();        
     }
 
 </script>
 
 
-<div id="overlay0"></div>
-<div id="popup0">
+<div id="overlay2"></div>
+<div id="popup2">
     <div class="box-area">
-        <a href="javascript:closePopup('cancel-youtube','cross-english','overlay0','popup0')" class="close"></a>
-        <div class="col1">
-            <div align="center" style="margin-top: 30px;" class="ui-img">
-            <a href="http://www.youtube.com/user/AstroSageIndia?sub_confirmation=1" rel="nofollow" onclick="javascript:closePopup('subscribe-youtube','icon','overlay0','popup0');">
-                <img src="/images/promotion/videoicon.png" width="200"></a></div>
-            <div align="center" style="margin-top: 55px;">
-                <a href="http://www.youtube.com/user/AstroSageIndia?sub_confirmation=1" rel="nofollow" onclick="javascript:closePopup('subscribe-youtube','left','overlay0','popup0');">
-                  <img src="/images/promotion/subscribe-btn.png" width="230"></a>
-                   
-            </div>
-        </div>
-        <div class="col2">
-            <div class="header-area">
-                <h2 align="center">
-                <a href="http://www.youtube.com/user/AstroSageIndia?sub_confirmation=1" rel="nofollow" onclick="javascript:closePopup('subscribe-youtube','logo','overlay0','popup0')">
-                    
-                     <img src="/images/promotion/astrosage-tv2.png" width="300"></a></h2>
-                <div style="clear: both">
-                </div>
-            </div>
-            <div class="content-area">
-                <ul>
-                    <li>Learn astrology with astrology masters</li>
-                    <li>Tips on improving life</li>
-                    <li>How to achieve success in life with astrology</li>
-                    <li>Secrets &amp; mysteries of astrology</li> 
-                </ul>
-                <div align="right" style="margin-top: 16px; margin-right: 15px">
-                    <a href="http://www.youtube.com/user/AstroSageIndia?sub_confirmation=1" rel="nofollow" onclick="javascript:closePopup('subscribe-youtube','right','overlay0','popup0')">
-                        <img src="/images/promotion/subscribe-large-btn.png" width="379"></a>
-                      
-                </div>
-                <div style="clear: both">
-                </div>
-            </div>
-            <div class="footer-area">
-            </div>
-        </div>
-        <div style="clear: both">
-        </div>
+    <div>
+       <div class="brtop-red"></div>
+       <div class="brtop-yallow"></div>
+       <div class="brtop-green"></div>       
+       <div class="brtop-orange"></div>
+       <div style="clear:both"></div>
     </div>
-</div><script type="text/javascript">setpopuptimer(0)</script>
+        <a href="javascript:closePopup('cancel-marriage','cross-english','overlay2','popup2')" class="close"></a>
+        <div class="col1-1">     
+              <div class="punchline"><h3>Do you want to get married?</h3></div>
+              <div class="url"><a href="https://marriage.astrosage.com?&amp;utm_source=astrocamp&amp;utm_medium=popup&amp;utm_campaign=asmarriage" target="_blank" rel="nofollow" onclick="javascript:closePopup('register-marriage','link','overlay2','popup2')">https://www.AstroSageMarriage.com/</a></div>
+          
+            <div align="center">
+            <a href="https://marriage.astrosage.com?&amp;utm_source=astrocamp&amp;utm_medium=popup&amp;utm_campaign=asmarriage" rel="nofollow" target="_blank" onclick="javascript:closePopup('register-marriage','icon','overlay2','popup2')">
+            <img src="/images/promotion/matrimony-img/marriage.png" width="250" class="p-img">
+            </a>
+            </div>
+        </div>
+        <div class="col2-2">
+            <div class="content-area">
+             <div align="center">
+             <a href="https://marriage.astrosage.com?&amp;utm_source=astrocamp&amp;utm_medium=popup&amp;utm_campaign=asmarriage" rel="nofollow" target="_blank" onclick="javascript:closePopup('register-marriage','logo','overlay2','popup2')">
+             <img src="/images/promotion/matrimony-img/logo1.png" width="300" class="p-img">
+             </a>
+             </div>
+               <div class="punchline"><h2>FREE Matrimony site by No. 1 astrology portal AstroSage.com</h2></div>
+               <div align="center" style=" margin-top:30px;"> 
+                <a href="https://marriage.astrosage.com?&amp;utm_source=astrocamp&amp;utm_medium=popup&amp;utm_campaign=asmarriage" target="_blank" class="pro-btn" rel="nofollow" onclick="javascript:closePopup('register-marriage','button','overlay2','popup2');">Register Now</a>
+               </div>
+            </div>
+            <div style=" height:20px;"></div>
+        </div>
+        <div style="clear: both"></div>
+         <div>
+       <div class="brbtm-red"></div>
+       <div class="brbtm-yallow"></div>
+       <div class="brbtm-green"></div>       
+       <div class="brbtm-orange"></div>
+       <div style="clear:both"></div>
+    </div>
+    </div>
+</div>
+<script type="text/javascript">setpopuptimer(0)</script>
     </td>
     </tr>
 </tbody></table>
@@ -2441,5 +2576,10 @@ pageTracker._trackPageview();
             </td>
         </tr>
     </tbody></table>
+<script type="text/javascript">
+/* <![CDATA[ */
+(function(){try{var s,a,i,j,r,c,l=document.getElementsByTagName("a"),t=document.createElement("textarea");for(i=0;l.length-i;i++){try{a=l[i].getAttribute("href");if(a&&a.indexOf("/cdn-cgi/l/email-protection") > -1  && (a.length > 28)){s='';j=27+ 1 + a.indexOf("/cdn-cgi/l/email-protection");if (a.length > j) {r=parseInt(a.substr(j,2),16);for(j+=2;a.length>j&&a.substr(j,1)!='X';j+=2){c=parseInt(a.substr(j,2),16)^r;s+=String.fromCharCode(c);}j+=1;s+=a.substr(j,a.length-j);}t.innerHTML=s.replace(/</g,"&lt;").replace(/>/g,"&gt;");l[i].setAttribute("href","mailto:"+t.value);}}catch(e){}}}catch(e){}})();
+/* ]]> */
+</script>
 
 </body></html>
