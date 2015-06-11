@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the official-drivers.com privacy policy that was archived on 2014-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141017170638id_/http%3A//www.official-drivers.com/installer/privacy.php%3Flocal%3Den%26seed%3Dwindows) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the official-drivers.com privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612014128id_/http%3A//www.official-drivers.com/installer/privacy.php) for the most accurate reproduction.*
 
-# Windows Drivers & Downloads - Windows
+# Windows Drivers Download - Windows
 
 We are committed to safeguarding the privacy of our website visitors; this policy sets out how we will treat your personal information . 
 
@@ -28,3 +28,9 @@ We are committed to safeguarding the privacy of our website visitors; this polic
 (7) **Policy amendments** We may update this privacy policy from time-to-time by posting a new version on our website. You should check this page occasionally to ensure you are happy with any changes . 
 
 (8) **Third party websites** The website contains links to other websites. We are not responsible for the privacy policies of third party websites . 
+
+Driver Update Utility 
+
+DriverTuner was created to save your time resolving driver problems by providing you with a single, automatic tool. 
+
+Compatible with Windows 7/8/8.1 
