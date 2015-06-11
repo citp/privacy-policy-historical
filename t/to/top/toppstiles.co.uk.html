@@ -1,10 +1,10 @@
-<!--The following is the downloaded HTML source of the toppstiles.co.uk privacy policy that was archived on 2014-11-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141122152530id_/http%3A//www.toppstiles.co.uk/page62/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the toppstiles.co.uk privacy policy that was archived on 2015-06-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150611102733id_/http%3A//www.toppstiles.co.uk/page62/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
 	<meta name="verify-v1" content="UqidCvKxh6h3ne/x/0N+A5qhefUitXDO3pt/I56JSAQ=">
 
-	<link rel="alternate" media="only screen and (max-width: 640px)" href="http://m.toppstiles.co.uk/page62/privacy.html?page=62">
+	<link rel="alternate" media="only screen and (max-width: 640px)" href="http://m.toppstiles.co.uk/page62/privacy.html">
 	
 <!-- include file="domain_redirector.asp" -->
 
@@ -23,7 +23,6 @@
 <script type="text/javascript" src="/js/jquery.js"></script>
 <script type="text/javascript" src="/js/jquery.helper.js"></script>
 <![endif]-->
-
 <!--[if lt IE 7]>
 <script language="JavaScript" src="/js/ltie7.js"></script>
 <![endif]-->
@@ -32,8 +31,13 @@
 <script type="text/javascript" src="/js/jquery.cycle.all.2.74.js"></script>
 <script type="text/javascript" src="/js/metadims_scripts.js"></script>
 
-<link rel="stylesheet" type="text/css" href="/css/jqueryNav_v2.css">
+<!-- qTip2 is the ToolTip component - see http://qtip2.com/ for more information -->
+<script type="text/javascript" src="/js/jquery.qtip.min.js"></script>
+<link type="text/css" rel="stylesheet" href="/css/jquery.qtip.css">
 
+<!-- this is the homepage slider - see http://www.basic-slider.com/ for more information -->
+<script type="text/javascript" src="/js/bjqs-1.3.min.js"></script>
+<link type="text/css" rel="stylesheet" href="/css/bjqs.css">
 
 
 	<!--http-->
@@ -82,10 +86,12 @@
 </script>
 <!-- ~~~~~~~~~~ Bazaarvoice ~~~~~~~~~~ -->
 
-
-<link href="/e360/s_store_css.css" rel="stylesheet" type="text/css" media="screen">
+<link href="/e360/s_store_css.css?20150330" rel="stylesheet" type="text/css" media="screen">
 <link href="/e360/s_store_print_css.css" rel="stylesheet" type="text/css" media="print">
-<link href="/css/main.css?date=20140911" rel="stylesheet" type="text/css">
+
+	<link rel="stylesheet" type="text/css" href="/css/main.css?20150505">
+	<link rel="stylesheet" type="text/css" href="/css/jqueryNav_v2.css?20150505">
+	
 <script language="javascript" src="/js/mini_basket_scripts.js"></script>
 
 	<title>Privacy | Topps Tiles</title>
@@ -96,9 +102,9 @@
 	<link rel="shortcut icon" href="/favicon.ico">
 </head>
 <body>
-
     <div class="newWrapper">
-		<style>
+		<script type="text/javascript" src="/js/search_scripts.js"></script>
+<style>
 	#whoson_chat_link {display:inline-block; position:fixed; bottom:0; right:50px; z-index:999999;}
 </style>
 
@@ -106,16 +112,28 @@
 <script type="text/javascript" src="http://www.toppstiles.co.uk:8080/include.js?domain=www.toppstiles.co.uk"></script>
 <script type="text/javascript">
 function overrideLoad() {
+	var objDate = new Date();
+	var hr = objDate.getHours();
+	var min = objDate.getMinutes();
+	strTime = ('0' + objDate.getHours()).slice(-2) + ('0' + objDate.getMinutes()).slice(-2)
+
 	//get the appropriate image
 	if (sWOImage.width == 1) {
-		strImage = "http://www.toppstiles.co.uk/images/TT_Live_Chat_Button_OFFLINE.png";
+		if (strTime > 0830 && strTime < 1700) {
+			//image says Busy
+			strImage = "TT_Live_Chat_Button_v2_BUSY.png";
+		}
+		else {
+			//image says Offline
+			strImage = "TT_Live_Chat_Button_v2_OFFLINE.png";
+		}
 	}
 	else {
-		strImage = "http://www.toppstiles.co.uk/images/TT_Live_Chat_Button_ONLINE.png";
+		strImage = "TT_Live_Chat_Button_v2_ONLINE.png";
 	}
 	//create the image object
 	var sWOOnline = document.createElement('img');
-	sWOOnline.src = strImage;
+	sWOOnline.src = "http://www.toppstiles.co.uk/images/"+strImage;
 	//append image object to the element AND set the onclick event
 	sWOChatElement.href = sWOChatstart;
 	sWOChatElement.appendChild(sWOOnline);
@@ -125,22 +143,17 @@ sWOImageLoaded=overrideLoad;
 if(typeof sWOTrackPage=='function')sWOTrackPage();
 </script>
 <!-- End of embedded WhosOn -->
-<script type="text/javascript" src="/js/search_scripts.js"></script>
 <script type="text/javascript" src="/js/basket_scripts.js?date=20140108"></script>
 <div id="header_top">
-	
-		<span>Customer Services: <strong>0800 783 6262</strong></span> | <a href="/trade/">Trade</a> | <a href="/brochure/">Brochure Request</a> | <a href="/wysiwyg_page_hr.asp?page=79">Recruiting Now</a> | <a href="/youraccount_login.asp">My Account</a> | <a href="/cookie_statement.asp">Cookie Policy</a>
-	
+	<span>Customer Services: <strong>0800 783 6262</strong></span> | <a href="/trade/">Trade</a> | <a href="/brochure/">Brochure Request</a> | <a href="/careers/">Recruiting Now</a> | <a href="/youraccount_login.asp">My Account</a> | <a href="/cookie_statement.asp">Cookie Policy</a>
 </div>
-
-
 <div id="header_content">
 	<div id="header_logo">
-		<a href="http://www.toppstiles.co.uk"><img src="/images/ToppsTiles_Logo.png"></a>
+		<a href="http://www.toppstiles.co.uk/"><img src="/images/ToppsTiles_Logo.png"></a>
 	</div>
 	<div id="header_store-locator">
 		<a href="/store_finder/"><img src="/images/store-locator_v2.png" alt="" title="" border="0"></a>
-		<span>336 stores nationwide</span>
+		<span>346 stores nationwide</span>
 	</div>
 	<div id="header_minibasket">
 		<a href="/e360/s_basket_view_basket.asp"><img src="/images/basket_icon.png" alt="View Basket" title="" id="MiniBasketIcon" style="margin-bottom:10px"></a><br>
@@ -148,27 +161,20 @@ if(typeof sWOTrackPage=='function')sWOTrackPage();
 	</div>
 	<!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ start of scroll-down basket html ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
 	<div id="BasketOverlay" style="display:none; position:absolute; top:85px; right:20px;">
-		<div style="padding:15px 20px 0 20px">
-			<div id="BasketMessage"></div>
-			<div id="BasketContents"></div>
-			<div id="BasketTotals"></div>
-		</div>
-		<div style="padding:0 20px 15px 20px; height:25px">
-			<a href="/e360/s_basket_view_basket.asp"><img src="/images/basket_overlay_view_basket.png" alt="View Basket" title="" border="0" style="float:left"></a>
-			<a href="/e360/s_basket_view_basket.asp"><img src="/images/basket_overlay_checkout.png" alt="Checkout" title="" border="0" style="float:right"></a>
-		</div>
-		<img src="/images/basket_overlay_delivery_message.png" alt="">
-		<img src="/images/basket_overlay_close_button.jpg" alt="Close Basket" style="cursor:pointer" onclick="HideBasketNow();">
+		<div id="BasketMessage"></div>
+		<div id="BasketContents"></div>
+		<div id="BasketTotals"></div>
+		<a href="/e360/s_basket_view_basket.asp"><input type="submit" style="width:228px" value="Secure Checkout" class="css_button_charcoal"></a>
 	</div>
 	<!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ end of scroll-down basket html ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
 	<div id="header_quicksearch_title"><img src="/images/simple_search_title.png" alt=""></div>
 	<div id="header_quicksearch">
 		<form id="form_quicksearch" method="get" action="/search.asp" onsubmit="return search_box_submit(this)">
-		<input id="ps" name="ps" type="text" autocomplete="off" value="Search for..." onfocus="this.value=''" onkeyup="search_box_type();">
-		<input id="s" name="s" type="text" style="display:none">
+		<input type="text" id="ps" name="ps" autocomplete="off" value="Search for..." onfocus="this.value=''" onkeyup="search_box_type();">
+		<input type="text" id="s" name="s" style="display:none">
 		<input type="image" name="submit" src="/images/search_magnifying_glass.png">
 		<input type="hidden" name="n" value="1">
-		<input type="hidden" name="tradesite" id="tradesite" value="">
+		<input type="hidden" id="tradesite" name="tradesite" value="0">
 		</form>
 	</div>
 	<div id="search_results_loader" class="search_results_loader"></div>
@@ -176,494 +182,502 @@ if(typeof sWOTrackPage=='function')sWOTrackPage();
 
 
 	<div class="navBG_new">
+		<!-- start of menu -->
 		<ul id="topnav_new">
-			<li class="double-line"><a href="/section168/page1/tiles/">Tiles</a>
-				<div class="sub" style="margin-left:0">
+			<li><a href="/section1156/page1/bathroom-tiles/">Bathroom<br>Tiles</a>
+				<div class="sub" style="margin-left:0;">
 					
-		<div id="collections_current_Tiles" style="display:none"></div>
-		<div class="collections">
-			<h2>Shop by collection...</h2>
-			<div class="collections_image" id="collections_menu_Tiles_6"><a href="/section1501/page1/up-to-1-3-off-tiles"><img src="/s_menu_images/Sept14_Tiles_3rdOFF.jpg" alt=""></a></div><div class="collections_image" id="collections_menu_Tiles_7"><a href="/range507/page1/Belleza.html"><img src="/s_menu_images/Sept14_BathroomTiles_Belleza.jpg" alt=""></a></div><div class="collections_image" id="collections_menu_Tiles_3"><a href="/section1427/page1/wood-effect-tiles"><img src="/s_menu_images/Sept14_Tiles_WoodEffectTiles.jpg" alt=""></a></div><div class="collections_image" id="collections_menu_Tiles_8"><a href="/section1416/page1/large-format-tiles/"><img src="/s_menu_images/Sept14_Tiles_LargeFormat.jpg" alt=""></a></div><div class="collections_image" id="collections_menu_Tiles_1"><a href="/section1039/page1/cream-tiles/"><img src="/s_menu_images/Sept14_Tiles_ClassicCreams.jpg" alt=""></a></div><div class="collections_image" id="collections_menu_Tiles_2"><a href="/section1036/page1/beige-tiles/"><img src="/s_menu_images/Sept14_Tiles_EarthyBeige.jpg" alt=""></a></div><div class="collections_image" id="collections_menu_Tiles_4"><a href="/section1037/page1/black-tiles/"><img src="/s_menu_images/Sept14_Tiles_DramaticBlacks.jpg" alt=""></a></div><div class="collections_image" id="collections_menu_Tiles_5"><a href="/section1046/page1/white-tiles/"><img src="/s_menu_images/Sept14_Tiles_SimplyWhites.jpg" alt=""></a></div>
-			<div class="collections_menu">
-				<div class="collections_menu_tab" id="collections_menu_Tiles_6_tab" onmouseover="SwapCollectionsTabs('collections_current_Tiles', 'collections_menu_Tiles_6');"><a href="/section1501/page1/up-to-1-3-off-tiles">Up to 1/3 off</a></div><div class="collections_menu_tab" id="collections_menu_Tiles_7_tab" onmouseover="SwapCollectionsTabs('collections_current_Tiles', 'collections_menu_Tiles_7');"><a href="/range507/page1/Belleza.html">Belleza</a></div><div class="collections_menu_tab" id="collections_menu_Tiles_3_tab" onmouseover="SwapCollectionsTabs('collections_current_Tiles', 'collections_menu_Tiles_3');"><a href="/section1427/page1/wood-effect-tiles">Wood Effect Tiles</a></div><div class="collections_menu_tab" id="collections_menu_Tiles_8_tab" onmouseover="SwapCollectionsTabs('collections_current_Tiles', 'collections_menu_Tiles_8');"><a href="/section1416/page1/large-format-tiles/">Large Format</a></div><div class="collections_menu_tab" id="collections_menu_Tiles_1_tab" onmouseover="SwapCollectionsTabs('collections_current_Tiles', 'collections_menu_Tiles_1');"><a href="/section1039/page1/cream-tiles/">Classic Creams</a></div><div class="collections_menu_tab" id="collections_menu_Tiles_2_tab" onmouseover="SwapCollectionsTabs('collections_current_Tiles', 'collections_menu_Tiles_2');"><a href="/section1036/page1/beige-tiles/">Earthy Beiges</a></div><div class="collections_menu_tab" id="collections_menu_Tiles_4_tab" onmouseover="SwapCollectionsTabs('collections_current_Tiles', 'collections_menu_Tiles_4');"><a href="/section1037/page1/black-tiles/">Dramatic Blacks</a></div><div class="collections_menu_tab" id="collections_menu_Tiles_5_tab" onmouseover="SwapCollectionsTabs('collections_current_Tiles', 'collections_menu_Tiles_5');"><a href="/section1046/page1/white-tiles/">Simply Whites</a></div>
-			</div>
-		</div>
-		<script type="text/javascript">
-			//trigger the tabs
-			$(document).ready(function() {
-				SwapCollectionsTabs('collections_current_Tiles', 'collections_menu_Tiles_6');
-			});
-		</script>
-		
 					<div class="row">
 						<ul>
 							<li><h2>Room</h2></li>
 							<li><a href="/section99/page1/bathroom-wall-tiles/">Bathroom Wall Tiles</a></li>
 							<li><a href="/section249/page1/bathroom-floor-tiles/">Bathroom Floor Tiles</a></li>
-							<li><a href="/section100/page1/kitchen-wall-tiles/">Kitchen Wall Tiles</a></li>
-							<li><a href="/section248/page1/kitchen-floor-tiles/">Kitchen Floor Tiles</a></li>
+							<li><a href="/section1493/page1/wet-rooms/">Wet Rooms</a></li>
 							<li>&nbsp;</li>
-							<li><h2>Types</h2></li>
-							<li><a href="/section1314/page1/border-tiles/">Border Tiles</a></li>
-							<li><a href="/section118/page1/mosaic-tiles/">Mosaic Tiles</a></li>
-							<li><a href="/section1416/page1/large-format-tiles/">Large Format</a></li>
+							<li><h2>Size</h2></li>
+							<li><a href="/section1535/page1/small-format/">Small Tiles</a></li>
+							<li><a href="/section1536/page1/medium-tiles/">Medium Tiles</a></li>
+							<li><a href="/section1416/page1/large-format-tiles/">Large Tiles</a></li>
+							<li><a href="/section1530/page1/modular-tiles/">Modular Tiles</a></li>
+						</ul>
+						<ul>
+							<li><h2>Colours</h2></li>
+							<li><a href="/section1036/page1/beige-tiles/">Beige Tiles</a></li>
+							<li><a href="/section1037/page1/black-tiles/">Black Tiles</a></li>
+							<li><a href="/section1035/page1/blue-tiles/">Blue Tiles</a></li>
+							<li><a href="/section1038/page1/brown-tiles/">Brown Tiles</a></li>
+							<li><a href="/section1039/page1/cream-tiles/">Cream Tiles</a></li>
+							<li><a href="/section1525/page1/gold-tiles/">Gold Tiles</a></li>
+							<li><a href="/section1040/page1/green-tiles/">Green Tiles</a></li>
+							<li><a href="/section1041/page1/grey-tiles/">Grey Tiles</a></li>
+							<li><a href="/section1529/page1/multicoloured-tiles/">Multicoloured Tiles</a></li>
+							<li><a href="/section1042/page1/orange-tiles/">Orange Tiles</a></li>
+							<li><a href="/section1527/page1/patterned-tiles/">Patterned Tiles</a></li>
+							<li><a href="/section1528/page1/pearl-tiles/">Pearl Tiles</a></li>
+							<li><a href="/section1043/page1/pink-tiles/">Pink Tiles</a></li>
+							<li><a href="/section1049/page1/purple-tiles/">Purple Tiles</a></li>
+							<li><a href="/section1048/page1/red-tiles/">Red Tiles</a></li>
+							<li><a href="/section1044/page1/silver-tiles/">Silver Tiles</a></li>
+							<li><a href="/section1526/page1/teal-tiles/">Teal Tiles</a></li>
+							<li><a href="/section1045/page1/terracotta-tiles/">Terracotta Tiles</a></li>
+							<li><a href="/section1046/page1/white-tiles/">White Tiles</a></li>
+							<li><a href="/section1047/page1/yellow-tiles/">Yellow Tiles</a></li>
 						</ul>
 						<ul>
 							<li><h2>Material</h2></li>
 							<li><a href="/section887/page1/ceramic-tiles/">Ceramic Tiles</a></li>
-							<li><a href="/section901/page1/porcelain-tiles/">Porcelain Tiles</a></li>
 							<li><a href="/section135/page1/glass-tiles/">Glass Tiles</a></li>
-							<li><a href="/section113/page1/travertine-tiles/">Travertine Tiles</a></li>
-							<li><a href="/section112/page1/slate-tiles/">Slate Tiles</a></li>
-							<li><a href="/section110/page1/marble-tiles/">Marble Tiles</a></li>
-							<li><a href="/section109/page1/limestone-tiles/">Limestone Tiles</a></li>
+							<li><a href="/section901/page1/porcelain-tiles/">Porcelain Tiles</a></li>
 							<li><a href="/section108/page1/granite-tiles/">Granite Tiles</a></li>
-						</ul>
-						<ul>
-							<li><h2>Colours</h2></li>
-							<li><a href="/section1046/page1/white-tiles/">White Tiles</a></li>
-							<li><a href="/section1036/page1/beige-tiles/">Beige Tiles</a></li>
-							<li><a href="/section1037/page1/black-tiles/">Black Tiles</a></li>
-							<li><a href="/section1035/page1/blue-tiles/">Blue Tiles</a></li>
-							<li><a href="/section1038/page1/brown-tiles/">Brown Tiles</a></li>
-							<li><a href="/section1039/page1/cream-tiles/">Cream Tiles</a></li>
-							<li><a href="/section1040/page1/green-tiles/">Green Tiles</a></li>
-							<li><a href="/section1041/page1/grey-tiles/">Grey Tiles</a></li>
-							<li><a href="/section1045/page1/terracotta-tiles/">Terracotta Tiles</a></li>
+							<li><a href="/section109/page1/limestone-tiles/">Limestone Tiles</a></li>
+							<li><a href="/section110/page1/marble-tiles/">Marble Tiles</a></li>
+							<li><a href="/range157/page1/Quarry-Tiles.html">Quarry Tiles</a></li>
+							<li><a href="/range172/page1/Stardust.html">Quartz &amp; Resin Tiles</a></li>
+							<li><a href="/section1499/page1/quartzite-tiles">Quartzite Tiles</a></li>
+							<li><a href="/section112/page1/slate-tiles/">Slate Tiles</a></li>
+							<li><a href="/range591/page1/Terracotta.html">Terracotta Tiles</a></li>
+							<li><a href="/section113/page1/travertine-tiles">Travertine Tiles</a></li>
 						</ul>
 					</div>
-				</div>
-			</li>
-			<li><a href="/section1156/page1/bathroom-tiles/">Bathroom<br>Tiles</a>
-				<div class="sub" style="margin-left:0">
-					
-		<div id="collections_current_BathroomTiles" style="display:none"></div>
-		<div class="collections">
-			<h2>Shop by range...</h2>
-			<div class="collections_image" id="collections_menu_BathroomTiles_72"><a href="/section1445/page1/patchwork-and-pattern"><img src="/s_menu_images/Sept14_BathroomTiles_PatchworkAndPatterns.jpg" alt=""></a></div><div class="collections_image" id="collections_menu_BathroomTiles_9"><a href="/range411/page1/Diamante.html"><img src="/s_menu_images/Sept14_BathroomTiles_Diamante.jpg" alt=""></a></div><div class="collections_image" id="collections_menu_BathroomTiles_10"><a href="/range16/page1/Metro-Tiles.html"><img src="/s_menu_images/Sept14_BathroomTiles_Metro.jpg" alt=""></a></div><div class="collections_image" id="collections_menu_BathroomTiles_11"><a href="/range425/page1/Regal.html"><img src="/s_menu_images/Sept14_BathroomTiles_Regal.jpg" alt=""></a></div><div class="collections_image" id="collections_menu_BathroomTiles_12"><a href="/range549/page1/Hexa.html"><img src="/s_menu_images/Sept14_BathroomTiles_Hexa.jpg" alt=""></a></div><div class="collections_image" id="collections_menu_BathroomTiles_13"><a href="/range415/page1/Bengal.html"><img src="/s_menu_images/Sept14_BathroomTiles_Bengal.jpg" alt=""></a></div><div class="collections_image" id="collections_menu_BathroomTiles_14"><a href="/range412/page1/Stratum.html"><img src="/s_menu_images/Sept14_BathroomTiles_Stratum.jpg" alt=""></a></div><div class="collections_image" id="collections_menu_BathroomTiles_15"><a href="/range314/page1/Chic-Craquele.html"><img src="/s_menu_images/dropdown_bathroomTiles_ChicCraquele.jpg" alt=""></a></div>
-			<div class="collections_menu">
-				<div class="collections_menu_tab" id="collections_menu_BathroomTiles_72_tab" onmouseover="SwapCollectionsTabs('collections_current_BathroomTiles', 'collections_menu_BathroomTiles_72');"><a href="/section1445/page1/patchwork-and-pattern">Patchwork &amp; Pattern</a></div><div class="collections_menu_tab" id="collections_menu_BathroomTiles_9_tab" onmouseover="SwapCollectionsTabs('collections_current_BathroomTiles', 'collections_menu_BathroomTiles_9');"><a href="/range411/page1/Diamante.html">Diamante</a></div><div class="collections_menu_tab" id="collections_menu_BathroomTiles_10_tab" onmouseover="SwapCollectionsTabs('collections_current_BathroomTiles', 'collections_menu_BathroomTiles_10');"><a href="/range16/page1/Metro-Tiles.html">Metro</a></div><div class="collections_menu_tab" id="collections_menu_BathroomTiles_11_tab" onmouseover="SwapCollectionsTabs('collections_current_BathroomTiles', 'collections_menu_BathroomTiles_11');"><a href="/range425/page1/Regal.html">Regal</a></div><div class="collections_menu_tab" id="collections_menu_BathroomTiles_12_tab" onmouseover="SwapCollectionsTabs('collections_current_BathroomTiles', 'collections_menu_BathroomTiles_12');"><a href="/range549/page1/Hexa.html">Hexa</a></div><div class="collections_menu_tab" id="collections_menu_BathroomTiles_13_tab" onmouseover="SwapCollectionsTabs('collections_current_BathroomTiles', 'collections_menu_BathroomTiles_13');"><a href="/range415/page1/Bengal.html">Bengal</a></div><div class="collections_menu_tab" id="collections_menu_BathroomTiles_14_tab" onmouseover="SwapCollectionsTabs('collections_current_BathroomTiles', 'collections_menu_BathroomTiles_14');"><a href="/range412/page1/Stratum.html">Stratum</a></div><div class="collections_menu_tab" id="collections_menu_BathroomTiles_15_tab" onmouseover="SwapCollectionsTabs('collections_current_BathroomTiles', 'collections_menu_BathroomTiles_15');"><a href="/range314/page1/Chic-Craquele.html">Chic Craquele</a></div>
-			</div>
-		</div>
-		<script type="text/javascript">
-			//trigger the tabs
-			$(document).ready(function() {
-				SwapCollectionsTabs('collections_current_BathroomTiles', 'collections_menu_BathroomTiles_72');
-			});
-		</script>
-		
-					<div class="row">
-						<ul>
-							<li><h2>Bathroom Tiles</h2></li>
-							<li><a href="/section99/page1/bathroom-wall-tiles/">Bathroom Wall Tiles</a></li>
-							<li><a href="/section249/page1/bathroom-floor-tiles/">Bathroom Floor Tiles</a></li>
-							<li><a href="/section1493/page1/wet-rooms/">Wet Rooms</a></li>
-						</ul>
-						<ul>
-							<li><h2>Colours</h2></li>
-							<li><a href="/section1046/page1/white-tiles/">White Tiles</a></li>
-							<li><a href="/section1036/page1/beige-tiles/">Beige Tiles</a></li>
-							<li><a href="/section1037/page1/black-tiles/">Black Tiles</a></li>
-							<li><a href="/section1035/page1/blue-tiles/">Blue Tiles</a></li>
-							<li><a href="/section1038/page1/brown-tiles/">Brown Tiles</a></li>
-							<li><a href="/section1039/page1/cream-tiles/">Cream Tiles</a></li>
-							<li><a href="/section1040/page1/green-tiles/">Green Tiles</a></li>
-							<li><a href="/section1041/page1/grey-tiles/">Grey Tiles</a></li>
-							<li><a href="/section1045/page1/terracotta-tiles/">Terracotta Tiles</a></li>
-						</ul>
-					</div>
+					<div class="bottom_bar"><img src="/images/menu_message_1.png" alt=""></div>
 				</div>
 			</li>
 			<li><a href="/section1157/page1/kitchen-tiles/">Kitchen<br>Tiles</a>
-				<div class="sub" style="margin-left:0">
+				<div class="sub" style="margin-left:0;">
 					
-		<div id="collections_current_KitchenTiles" style="display:none"></div>
-		<div class="collections">
-			<h2>Shop by range...</h2>
-			<div class="collections_image" id="collections_menu_KitchenTiles_17"><a href="/range16/page1/Metro-Tiles.html"><img src="/s_menu_images/Sept14_KitchenTiles_Metro.jpg" alt=""></a></div><div class="collections_image" id="collections_menu_KitchenTiles_18"><a href="/range411/page1/Diamante.html"><img src="/s_menu_images/Sept14_KitchenTiles_Diamante.jpg" alt=""></a></div><div class="collections_image" id="collections_menu_KitchenTiles_20"><a href="/section1427/page1/wood-effect-tiles"><img src="/s_menu_images/Sept14_KitchenTiles_WoodEffectTiles.jpg" alt=""></a></div><div class="collections_image" id="collections_menu_KitchenTiles_19"><a href="/range427/page1/Batik.html"><img src="/s_menu_images/Sept14_KitchenTiles_Batik.jpg" alt=""></a></div><div class="collections_image" id="collections_menu_KitchenTiles_21"><a href="/tprod4187/section1149/Rectified-White-Gloss-Wall-Tile.html"><img src="/s_menu_images/Sept14_KitchenTiles_RectifiedWhite.jpg" alt=""></a></div><div class="collections_image" id="collections_menu_KitchenTiles_22"><a href="/range375/page1/Pilkingtonandrsquos-Matrix-Range.html"><img src="/s_menu_images/Sept14_KitchenTiles_Matrix.jpg" alt=""></a></div><div class="collections_image" id="collections_menu_KitchenTiles_23"><a href="/range428/page1/Sandwaves.html"><img src="/s_menu_images/Sept14_KitchenTiles_Sandwaves.jpg" alt=""></a></div><div class="collections_image" id="collections_menu_KitchenTiles_24"><a href="/range415/page1/Bengal.html"><img src="/s_menu_images/Sept14_KitchenTiles_Bengal.jpg" alt=""></a></div>
-			<div class="collections_menu">
-				<div class="collections_menu_tab" id="collections_menu_KitchenTiles_17_tab" onmouseover="SwapCollectionsTabs('collections_current_KitchenTiles', 'collections_menu_KitchenTiles_17');"><a href="/range16/page1/Metro-Tiles.html">Metro</a></div><div class="collections_menu_tab" id="collections_menu_KitchenTiles_18_tab" onmouseover="SwapCollectionsTabs('collections_current_KitchenTiles', 'collections_menu_KitchenTiles_18');"><a href="/range411/page1/Diamante.html">Diamante</a></div><div class="collections_menu_tab" id="collections_menu_KitchenTiles_20_tab" onmouseover="SwapCollectionsTabs('collections_current_KitchenTiles', 'collections_menu_KitchenTiles_20');"><a href="/section1427/page1/wood-effect-tiles">Wood Effect Tiles</a></div><div class="collections_menu_tab" id="collections_menu_KitchenTiles_19_tab" onmouseover="SwapCollectionsTabs('collections_current_KitchenTiles', 'collections_menu_KitchenTiles_19');"><a href="/range427/page1/Batik.html">Batik</a></div><div class="collections_menu_tab" id="collections_menu_KitchenTiles_21_tab" onmouseover="SwapCollectionsTabs('collections_current_KitchenTiles', 'collections_menu_KitchenTiles_21');"><a href="/tprod4187/section1149/Rectified-White-Gloss-Wall-Tile.html">Rectified White</a></div><div class="collections_menu_tab" id="collections_menu_KitchenTiles_22_tab" onmouseover="SwapCollectionsTabs('collections_current_KitchenTiles', 'collections_menu_KitchenTiles_22');"><a href="/range375/page1/Pilkingtonandrsquos-Matrix-Range.html">Matrix</a></div><div class="collections_menu_tab" id="collections_menu_KitchenTiles_23_tab" onmouseover="SwapCollectionsTabs('collections_current_KitchenTiles', 'collections_menu_KitchenTiles_23');"><a href="/range428/page1/Sandwaves.html">Sandwaves</a></div><div class="collections_menu_tab" id="collections_menu_KitchenTiles_24_tab" onmouseover="SwapCollectionsTabs('collections_current_KitchenTiles', 'collections_menu_KitchenTiles_24');"><a href="/range415/page1/Bengal.html">Bengal</a></div>
-			</div>
-		</div>
-		<script type="text/javascript">
-			//trigger the tabs
-			$(document).ready(function() {
-				SwapCollectionsTabs('collections_current_KitchenTiles', 'collections_menu_KitchenTiles_17');
-			});
-		</script>
-		
 					<div class="row">
 						<ul>
-							<li><h2>Kitchen Tiles</h2></li>
+							<li><h2>Room</h2></li>
 							<li><a href="/section100/page1/kitchen-wall-tiles/">Kitchen Wall Tiles</a></li>
 							<li><a href="/section248/page1/kitchen-floor-tiles/">Kitchen Floor Tiles</a></li>
 							<li><a href="/section834/page1/kitchen-splashbacks/">Splashbacks</a></li>
+							<li>&nbsp;</li>
+							<li><h2>Size</h2></li>
+							<li><a href="/section1535/page1/small-format/">Small Tiles</a></li>
+							<li><a href="/section1536/page1/medium-tiles/">Medium Tiles</a></li>
+							<li><a href="/section1416/page1/large-format-tiles/">Large Tiles</a></li>
+							<li><a href="/section1530/page1/modular-tiles/">Modular Tiles</a></li>
 						</ul>
 						<ul>
 							<li><h2>Colours</h2></li>
-							<li><a href="/section1046/page1/white-tiles/">White Tiles</a></li>
 							<li><a href="/section1036/page1/beige-tiles/">Beige Tiles</a></li>
 							<li><a href="/section1037/page1/black-tiles/">Black Tiles</a></li>
 							<li><a href="/section1035/page1/blue-tiles/">Blue Tiles</a></li>
 							<li><a href="/section1038/page1/brown-tiles/">Brown Tiles</a></li>
 							<li><a href="/section1039/page1/cream-tiles/">Cream Tiles</a></li>
+							<li><a href="/section1525/page1/gold-tiles/">Gold Tiles</a></li>
 							<li><a href="/section1040/page1/green-tiles/">Green Tiles</a></li>
 							<li><a href="/section1041/page1/grey-tiles/">Grey Tiles</a></li>
+							<li><a href="/section1529/page1/multicoloured-tiles/">Multicoloured Tiles</a></li>
+							<li><a href="/section1042/page1/orange-tiles/">Orange Tiles</a></li>
+							<li><a href="/section1527/page1/patterned-tiles/">Patterned Tiles</a></li>
+							<li><a href="/section1528/page1/pearl-tiles/">Pearl Tiles</a></li>
+							<li><a href="/section1043/page1/pink-tiles/">Pink Tiles</a></li>
+							<li><a href="/section1049/page1/purple-tiles/">Purple Tiles</a></li>
+							<li><a href="/section1048/page1/red-tiles/">Red Tiles</a></li>
+							<li><a href="/section1044/page1/silver-tiles/">Silver Tiles</a></li>
+							<li><a href="/section1526/page1/teal-tiles/">Teal Tiles</a></li>
 							<li><a href="/section1045/page1/terracotta-tiles/">Terracotta Tiles</a></li>
+							<li><a href="/section1046/page1/white-tiles/">White Tiles</a></li>
+							<li><a href="/section1047/page1/yellow-tiles/">Yellow Tiles</a></li>
+						</ul>
+						<ul>
+							<li><h2>Material</h2></li>
+							<li><a href="/section887/page1/ceramic-tiles/">Ceramic Tiles</a></li>
+							<li><a href="/section135/page1/glass-tiles/">Glass Tiles</a></li>
+							<li><a href="/section901/page1/porcelain-tiles/">Porcelain Tiles</a></li>
+							<li><a href="/section108/page1/granite-tiles/">Granite Tiles</a></li>
+							<li><a href="/section109/page1/limestone-tiles/">Limestone Tiles</a></li>
+							<li><a href="/section110/page1/marble-tiles/">Marble Tiles</a></li>
+							<li><a href="/range157/page1/Quarry-Tiles.html">Quarry Tiles</a></li>
+							<li><a href="/range172/page1/Stardust.html">Quartz &amp; Resin Tiles</a></li>
+							<li><a href="/section1499/page1/quartzite-tiles">Quartzite Tiles</a></li>
+							<li><a href="/section112/page1/slate-tiles/">Slate Tiles</a></li>
+							<li><a href="/range591/page1/Terracotta.html">Terracotta Tiles</a></li>
+							<li><a href="/section113/page1/travertine-tiles">Travertine Tiles</a></li>
 						</ul>
 					</div>
+					<div class="bottom_bar"><img src="/images/menu_message_1.png" alt=""></div>
 				</div>
 			</li>
-			<li><a href="/section1403/page1/floor-tiles">Floor<br>Tiles</a>
-				<div class="sub" style="margin-left:-50px">
+			<li><a href="/section1403/page1/floor-tiles/">Floor<br>Tiles</a>
+				<div class="sub" style="margin-left:0;">
 					
-		<div id="collections_current_FloorTiles" style="display:none"></div>
-		<div class="collections">
-			<h2>Shop by range...</h2>
-			<div class="collections_image" id="collections_menu_FloorTiles_25"><a href="/range384/page1/Henley.html"><img src="/s_menu_images/Sept14_FloorTiles_Henley.jpg" alt=""></a></div><div class="collections_image" id="collections_menu_FloorTiles_31"><a href="/range619/page1/Devon.html"><img src="/s_menu_images/Sept14_FloorTiles_DevonBone.jpg" alt=""></a></div><div class="collections_image" id="collections_menu_FloorTiles_26"><a href="/range499/page1/Francisco-Segarra.html"><img src="/s_menu_images/Sept14_FloorTiles_FranciscoSeggara.jpg" alt=""></a></div><div class="collections_image" id="collections_menu_FloorTiles_29"><a href="/range501/page1/Camden.html"><img src="/s_menu_images/Sept14_FloorTiles_Camden.jpg" alt=""></a></div><div class="collections_image" id="collections_menu_FloorTiles_28"><a href="/range422/page1/Clays.html "><img src="/s_menu_images/Sept14_FloorTiles_Clays.jpg" alt=""></a></div><div class="collections_image" id="collections_menu_FloorTiles_27"><a href="/range593/page1/Tabula.html"><img src="/s_menu_images/Sept14_FloorTiles_Tabula.jpg" alt=""></a></div><div class="collections_image" id="collections_menu_FloorTiles_30"><a href="/range604/page1/Isis-Cream-Limestone.html"><img src="/s_menu_images/Sept14_FloorTiles_IsisCream.jpg" alt=""></a></div><div class="collections_image" id="collections_menu_FloorTiles_32"><a href="/range415/page1/Bengal.html"><img src="/s_menu_images/Sept14_FloorTiles_BengalSierra.jpg" alt=""></a></div>
-			<div class="collections_menu">
-				<div class="collections_menu_tab" id="collections_menu_FloorTiles_25_tab" onmouseover="SwapCollectionsTabs('collections_current_FloorTiles', 'collections_menu_FloorTiles_25');"><a href="/range384/page1/Henley.html">Henley</a></div><div class="collections_menu_tab" id="collections_menu_FloorTiles_31_tab" onmouseover="SwapCollectionsTabs('collections_current_FloorTiles', 'collections_menu_FloorTiles_31');"><a href="/range619/page1/Devon.html">Devon</a></div><div class="collections_menu_tab" id="collections_menu_FloorTiles_26_tab" onmouseover="SwapCollectionsTabs('collections_current_FloorTiles', 'collections_menu_FloorTiles_26');"><a href="/range499/page1/Francisco-Segarra.html">Francisco Segarra</a></div><div class="collections_menu_tab" id="collections_menu_FloorTiles_29_tab" onmouseover="SwapCollectionsTabs('collections_current_FloorTiles', 'collections_menu_FloorTiles_29');"><a href="/range501/page1/Camden.html">Camden</a></div><div class="collections_menu_tab" id="collections_menu_FloorTiles_28_tab" onmouseover="SwapCollectionsTabs('collections_current_FloorTiles', 'collections_menu_FloorTiles_28');"><a href="/range422/page1/Clays.html ">Clays</a></div><div class="collections_menu_tab" id="collections_menu_FloorTiles_27_tab" onmouseover="SwapCollectionsTabs('collections_current_FloorTiles', 'collections_menu_FloorTiles_27');"><a href="/range593/page1/Tabula.html">Tabula</a></div><div class="collections_menu_tab" id="collections_menu_FloorTiles_30_tab" onmouseover="SwapCollectionsTabs('collections_current_FloorTiles', 'collections_menu_FloorTiles_30');"><a href="/range604/page1/Isis-Cream-Limestone.html">Isis Cream</a></div><div class="collections_menu_tab" id="collections_menu_FloorTiles_32_tab" onmouseover="SwapCollectionsTabs('collections_current_FloorTiles', 'collections_menu_FloorTiles_32');"><a href="/range415/page1/Bengal.html">Bengal</a></div>
-			</div>
-		</div>
-		<script type="text/javascript">
-			//trigger the tabs
-			$(document).ready(function() {
-				SwapCollectionsTabs('collections_current_FloorTiles', 'collections_menu_FloorTiles_25');
-			});
-		</script>
-		
 					<div class="row">
 						<ul>
-							<li><h2>Floor Tiles</h2></li>
+							<li><h2>Room</h2></li>
 							<li><a href="/section249/page1/bathroom-floor-tiles/">Bathroom Floor Tiles</a></li>
 							<li><a href="/section248/page1/kitchen-floor-tiles/">Kitchen Floor Tiles</a></li>
-							<li><a href="/section169/page1/laminate-and-real-wood-flooring/">Wood Flooring</a></li>
+							<li>&nbsp;</li>
+							<li><h2>Size</h2></li>
+							<li><a href="/section1535/page1/small-format/">Small Tiles</a></li>
+							<li><a href="/section1536/page1/medium-tiles/">Medium Tiles</a></li>
+							<li><a href="/section1416/page1/large-format-tiles/">Large Tiles</a></li>
+							<li><a href="/section1530/page1/modular-tiles/">Modular Tiles</a></li>
 						</ul>
 						<ul>
 							<li><h2>Colours</h2></li>
-							<li><a href="/section1046/page1/white-tiles/">White Tiles</a></li>
-							<li><a href="/section1036/page1/beige-tiles/">Beige Tiles</a></li>
-							<li><a href="/section1037/page1/black-tiles/">Black Tiles</a></li>
-							<li><a href="/section1035/page1/blue-tiles/">Blue Tiles</a></li>
-							<li><a href="/section1038/page1/brown-tiles/">Brown Tiles</a></li>
-							<li><a href="/section1039/page1/cream-tiles/">Cream Tiles</a></li>
-							<li><a href="/section1040/page1/green-tiles/">Green Tiles</a></li>
-							<li><a href="/section1041/page1/grey-tiles/">Grey Tiles</a></li>
-							<li><a href="/section1045/page1/terracotta-tiles/">Terracotta Tiles</a></li>
+							<li><a href="/search_results.asp?section=1036&amp;n=1&amp;method=ajax&amp;view=ranges&amp;p_5=Beige&amp;p_38=Floor">Beige Tiles</a></li>
+							<li><a href="/search_results.asp?section=1037&amp;n=1&amp;method=ajax&amp;view=ranges&amp;p_5=Black&amp;p_38=Floor">Black Tiles</a></li>
+							<li><a href="/search_results.asp?section=1035&amp;n=1&amp;method=ajax&amp;view=ranges&amp;p_5=Blue&amp;p_38=Floor">Blue Tiles</a></li>
+							<li><a href="/search_results.asp?section=1038&amp;n=1&amp;method=ajax&amp;view=ranges&amp;p_5=Brown&amp;p_38=Floor">Brown Tiles</a></li>
+							<li><a href="/search_results.asp?section=1039&amp;n=1&amp;method=ajax&amp;view=ranges&amp;p_5=Cream&amp;p_38=Floor">Cream Tiles</a></li>
+							<li><a href="/search_results.asp?section=1525&amp;n=1&amp;method=ajax&amp;view=ranges&amp;p_5=Gold&amp;p_38=Floor">Gold Tiles</a></li>
+							<li><a href="/search_results.asp?section=1040&amp;n=1&amp;method=ajax&amp;view=ranges&amp;p_5=Green&amp;p_38=Floor">Green Tiles</a></li>
+							<li><a href="/search_results.asp?section=1041&amp;n=1&amp;method=ajax&amp;view=ranges&amp;p_5=Grey&amp;p_38=Floor">Grey Tiles</a></li>
+							<li><a href="/search_results.asp?section=1529&amp;n=1&amp;method=ajax&amp;view=ranges&amp;p_5=Mixed&amp;p_38=Floor">Multicoloured Tiles</a></li>
+							<li><a href="/search_results.asp?section=1042&amp;n=1&amp;method=ajax&amp;view=ranges&amp;p_5=Orange&amp;p_38=Floor">Orange Tiles</a></li>
+							<li><a href="/search_results.asp?section=1527&amp;n=1&amp;method=ajax&amp;view=ranges&amp;p_5=Patterned&amp;p_38=Floor">Patterned Tiles</a></li>
+							<li><a href="/search_results.asp?section=1043&amp;n=1&amp;method=ajax&amp;view=ranges&amp;p_5=Pink&amp;p_38=Floor">Pink Tiles</a></li>
+							<li><a href="/search_results.asp?section=1049&amp;n=1&amp;method=ajax&amp;view=ranges&amp;p_5=Purple&amp;p_38=Floor">Purple Tiles</a></li>
+							<li><a href="/search_results.asp?section=1048&amp;n=1&amp;method=ajax&amp;view=ranges&amp;p_5=Red&amp;p_38=Floor">Red Tiles</a></li>
+							<li><a href="/search_results.asp?section=1044&amp;n=1&amp;method=ajax&amp;view=ranges&amp;p_5=Silver&amp;p_38=Floor">Silver Tiles</a></li>
+							<li><a href="/search_results.asp?section=1045&amp;n=1&amp;method=ajax&amp;view=ranges&amp;p_5=Terracotta&amp;p_38=Floor">Terracotta Tiles</a></li>
+							<li><a href="/search_results.asp?section=1046&amp;n=1&amp;method=ajax&amp;view=ranges&amp;p_5=White&amp;p_38=Floor">White Tiles</a></li>
+							<li><a href="/search_results.asp?section=1047&amp;n=1&amp;method=ajax&amp;view=ranges&amp;p_5=Yellow&amp;p_38=Floor">Yellow Tiles</a></li>
+						</ul>
+						<ul>
+							<li><h2>Material</h2></li>
+							<li><a href="/search_results.asp?section=887&amp;n=1&amp;method=ajax&amp;view=ranges&amp;p_34=Ceramic&amp;p_38=Floor">Ceramic Tiles</a></li>
+							<li><a href="/search_results.asp?section=135&amp;n=1&amp;method=ajax&amp;view=ranges&amp;p_34=Glass&amp;p_38=Floor">Glass Tiles</a></li>
+							<li><a href="/search_results.asp?section=901&amp;n=1&amp;method=ajax&amp;view=ranges&amp;p_34=Porcelain&amp;p_38=Floor">Porcelain Tiles</a></li>
+							<li><a href="/search_results.asp?section=108&amp;n=1&amp;method=ajax&amp;view=ranges&amp;p_34=Granite&amp;p_38=Floor">Granite Tiles</a></li>
+							<li><a href="/search_results.asp?section=109&amp;n=1&amp;method=ajax&amp;view=ranges&amp;p_34=Limestone&amp;p_38=Floor">Limestone Tiles</a></li>
+							<li><a href="/search_results.asp?section=110&amp;n=1&amp;method=ajax&amp;view=ranges&amp;p_34=Marble&amp;p_38=Floor">Marble Tiles</a></li>
+							<li><a href="/search_results.asp?rangeid=157&amp;n=1&amp;method=ajax&amp;view=ranges&amp;p_38=Floor">Quarry Tiles</a></li>
+							<li><a href="/search_results.asp?rangeid=172&amp;n=1&amp;method=ajax&amp;view=ranges&amp;p_38=Floor">Quartz &amp; Resin Tiles</a></li>
+							<li><a href="/search_results.asp?section=1499&amp;n=1&amp;method=ajax&amp;view=ranges&amp;p_34=Quartzite&amp;p_38=Floor">Quartzite Tiles</a></li>
+							<li><a href="/search_results.asp?section=112&amp;n=1&amp;method=ajax&amp;view=ranges&amp;p_34=Slate&amp;p_38=Floor">Slate Tiles</a></li>
+							<li><a href="/search_results.asp?rangeid=591&amp;n=1&amp;method=ajax&amp;view=ranges&amp;p_38=Floor">Terracotta Tiles</a></li>
+							<li><a href="/search_results.asp?section=113&amp;n=1&amp;method=ajax&amp;view=ranges&amp;p_34=Travertine&amp;p_38=Floor">Travertine Tiles</a></li>
 						</ul>
 					</div>
+					<div class="bottom_bar"><img src="/images/menu_message_1.png" alt=""></div>
 				</div>
 			</li>
-			<li><a href="/section1421/page1/wall-tiles">Wall<br>Tiles</a>
-				<div class="sub" style="margin-left:-120px">
+			<li><a href="/section1421/page1/wall-tiles/">Wall<br>Tiles</a>
+				<div class="sub" style="margin-left:-28px;">
 					
-		<div id="collections_current_WallTiles" style="display:none"></div>
-		<div class="collections">
-			<h2>Shop by range...</h2>
-			<div class="collections_image" id="collections_menu_WallTiles_33"><a href="/range16/page1/Metro-Tiles.html"><img src="/s_menu_images/Sept14_WallTiles_Metro.jpg" alt=""></a></div><div class="collections_image" id="collections_menu_WallTiles_34"><a href="/range411/page1/Diamante.html"><img src="/s_menu_images/Sept14_WallTiles_Diamante.jpg" alt=""></a></div><div class="collections_image" id="collections_menu_WallTiles_35"><a href="/section1494/page1/minton-hollins"><img src="/s_menu_images/Sept14_WallTiles_MintonHollins.jpg" alt=""></a></div><div class="collections_image" id="collections_menu_WallTiles_36"><a href="/range415/page1/Bengal.html"><img src="/s_menu_images/Sept14_WallTiles_BengalSierra.jpg" alt=""></a></div><div class="collections_image" id="collections_menu_WallTiles_37"><a href="/range507/page1/Belleza.html"><img src="/s_menu_images/Sept14_WallTiles_Belleza.jpg" alt=""></a></div><div class="collections_image" id="collections_menu_WallTiles_38"><a href="/range412/page1/Stratum.html"><img src="/s_menu_images/Sept14_WallTiles_Stratum.jpg" alt=""></a></div><div class="collections_image" id="collections_menu_WallTiles_39"><a href="/range425/page1/Regal.html"><img src="/s_menu_images/Sept14_WallTiles_Regal.jpg" alt=""></a></div><div class="collections_image" id="collections_menu_WallTiles_40"><a href="/range427/page1/Batik.html"><img src="/s_menu_images/Sept14_WallTiles_Batik.jpg" alt=""></a></div>
-			<div class="collections_menu">
-				<div class="collections_menu_tab" id="collections_menu_WallTiles_33_tab" onmouseover="SwapCollectionsTabs('collections_current_WallTiles', 'collections_menu_WallTiles_33');"><a href="/range16/page1/Metro-Tiles.html">Metro</a></div><div class="collections_menu_tab" id="collections_menu_WallTiles_34_tab" onmouseover="SwapCollectionsTabs('collections_current_WallTiles', 'collections_menu_WallTiles_34');"><a href="/range411/page1/Diamante.html">Diamante</a></div><div class="collections_menu_tab" id="collections_menu_WallTiles_35_tab" onmouseover="SwapCollectionsTabs('collections_current_WallTiles', 'collections_menu_WallTiles_35');"><a href="/section1494/page1/minton-hollins">Minton Hollins</a></div><div class="collections_menu_tab" id="collections_menu_WallTiles_36_tab" onmouseover="SwapCollectionsTabs('collections_current_WallTiles', 'collections_menu_WallTiles_36');"><a href="/range415/page1/Bengal.html">Bengal</a></div><div class="collections_menu_tab" id="collections_menu_WallTiles_37_tab" onmouseover="SwapCollectionsTabs('collections_current_WallTiles', 'collections_menu_WallTiles_37');"><a href="/range507/page1/Belleza.html">Belleza</a></div><div class="collections_menu_tab" id="collections_menu_WallTiles_38_tab" onmouseover="SwapCollectionsTabs('collections_current_WallTiles', 'collections_menu_WallTiles_38');"><a href="/range412/page1/Stratum.html">Stratum</a></div><div class="collections_menu_tab" id="collections_menu_WallTiles_39_tab" onmouseover="SwapCollectionsTabs('collections_current_WallTiles', 'collections_menu_WallTiles_39');"><a href="/range425/page1/Regal.html">Regal</a></div><div class="collections_menu_tab" id="collections_menu_WallTiles_40_tab" onmouseover="SwapCollectionsTabs('collections_current_WallTiles', 'collections_menu_WallTiles_40');"><a href="/range427/page1/Batik.html">Batik</a></div>
-			</div>
-		</div>
-		<script type="text/javascript">
-			//trigger the tabs
-			$(document).ready(function() {
-				SwapCollectionsTabs('collections_current_WallTiles', 'collections_menu_WallTiles_33');
-			});
-		</script>
-		
 					<div class="row">
 						<ul>
-							<li><h2>Wall Tiles</h2></li>
+							<li><h2>Room</h2></li>
 							<li><a href="/section99/page1/bathroom-wall-tiles/">Bathroom Wall Tiles</a></li>
 							<li><a href="/section100/page1/kitchen-wall-tiles/">Kitchen Wall Tiles</a></li>
+							<li>&nbsp;</li>
+							<li><h2>Size</h2></li>
+							<li><a href="/section1535/page1/small-format/">Small Tiles</a></li>
+							<li><a href="/section1536/page1/medium-tiles/">Medium Tiles</a></li>
+							<li><a href="/section1416/page1/large-format-tiles/">Large Tiles</a></li>
+							<li><a href="/section1530/page1/modular-tiles/">Modular Tiles</a></li>
 						</ul>
 						<ul>
 							<li><h2>Colours</h2></li>
-							<li><a href="/section1046/page1/white-tiles/">White Tiles</a></li>
-							<li><a href="/section1036/page1/beige-tiles/">Beige Tiles</a></li>
-							<li><a href="/section1037/page1/black-tiles/">Black Tiles</a></li>
-							<li><a href="/section1035/page1/blue-tiles/">Blue Tiles</a></li>
-							<li><a href="/section1038/page1/brown-tiles/">Brown Tiles</a></li>
-							<li><a href="/section1039/page1/cream-tiles/">Cream Tiles</a></li>
-							<li><a href="/section1040/page1/green-tiles/">Green Tiles</a></li>
-							<li><a href="/section1041/page1/grey-tiles/">Grey Tiles</a></li>
-							<li><a href="/section1045/page1/terracotta-tiles/">Terracotta Tiles</a></li>
+							<li><a href="/search_results.asp?section=1036&amp;n=1&amp;method=ajax&amp;view=ranges&amp;p_5=Beige&amp;p_38=Wall">Beige Tiles</a></li>
+							<li><a href="/search_results.asp?section=1037&amp;n=1&amp;method=ajax&amp;view=ranges&amp;p_5=Black&amp;p_38=Wall">Black Tiles</a></li>
+							<li><a href="/search_results.asp?section=1035&amp;n=1&amp;method=ajax&amp;view=ranges&amp;p_5=Blue&amp;p_38=Wall">Blue Tiles</a></li>
+							<li><a href="/search_results.asp?section=1038&amp;n=1&amp;method=ajax&amp;view=ranges&amp;p_5=Brown&amp;p_38=Wall">Brown Tiles</a></li>
+							<li><a href="/search_results.asp?section=1039&amp;n=1&amp;method=ajax&amp;view=ranges&amp;p_5=Cream&amp;p_38=Wall">Cream Tiles</a></li>
+							<li><a href="/search_results.asp?section=1525&amp;n=1&amp;method=ajax&amp;view=ranges&amp;p_5=Gold&amp;p_38=Wall">Gold Tiles</a></li>
+							<li><a href="/search_results.asp?section=1040&amp;n=1&amp;method=ajax&amp;view=ranges&amp;p_5=Green&amp;p_38=Wall">Green Tiles</a></li>
+							<li><a href="/search_results.asp?section=1041&amp;n=1&amp;method=ajax&amp;view=ranges&amp;p_5=Grey&amp;p_38=Wall">Grey Tiles</a></li>
+							<li><a href="/search_results.asp?section=1529&amp;n=1&amp;method=ajax&amp;view=ranges&amp;p_5=Mixed&amp;p_38=Wall">Multicoloured Tiles</a></li>
+							<li><a href="/search_results.asp?section=1042&amp;n=1&amp;method=ajax&amp;view=ranges&amp;p_5=Orange&amp;p_38=Wall">Orange Tiles</a></li>
+							<li><a href="/search_results.asp?section=1527&amp;n=1&amp;method=ajax&amp;view=ranges&amp;p_5=Patterned&amp;p_38=Wall">Patterned Tiles</a></li>
+							<li><a href="/search_results.asp?section=1528&amp;n=1&amp;method=ajax&amp;view=ranges&amp;p_5=Pearl&amp;p_38=Wall">Pearl Tiles</a></li>
+							<li><a href="/search_results.asp?section=1043&amp;n=1&amp;method=ajax&amp;view=ranges&amp;p_5=Pink&amp;p_38=Wall">Pink Tiles</a></li>
+							<li><a href="/search_results.asp?section=1049&amp;n=1&amp;method=ajax&amp;view=ranges&amp;p_5=Purple&amp;p_38=Wall">Purple Tiles</a></li>
+							<li><a href="/search_results.asp?section=1048&amp;n=1&amp;method=ajax&amp;view=ranges&amp;p_5=Red&amp;p_38=Wall">Red Tiles</a></li>
+							<li><a href="/search_results.asp?section=1044&amp;n=1&amp;method=ajax&amp;view=ranges&amp;p_5=Silver&amp;p_38=Wall">Silver Tiles</a></li>
+							<li><a href="/search_results.asp?section=1526&amp;n=1&amp;method=ajax&amp;view=ranges&amp;p_5=Teal&amp;p_38=Wall">Teal Tiles</a></li>
+							<li><a href="/search_results.asp?section=1045&amp;n=1&amp;method=ajax&amp;view=ranges&amp;p_5=Terracotta&amp;p_38=Wall">Terracotta Tiles</a></li>
+							<li><a href="/search_results.asp?section=1046&amp;n=1&amp;method=ajax&amp;view=ranges&amp;p_5=White&amp;p_38=Wall">White Tiles</a></li>
+							<li><a href="/search_results.asp?section=1047&amp;n=1&amp;method=ajax&amp;view=ranges&amp;p_5=Yellow&amp;p_38=Wall">Yellow Tiles</a></li>
+						</ul>
+						<ul>
+							<li><h2>Material</h2></li>
+							<li><a href="/search_results.asp?section=887&amp;n=1&amp;method=ajax&amp;view=ranges&amp;p_34=Ceramic&amp;p_38=Wall">Ceramic Tiles</a></li>
+							<li><a href="/search_results.asp?section=135&amp;n=1&amp;method=ajax&amp;view=ranges&amp;p_34=Glass&amp;p_38=Wall">Glass Tiles</a></li>
+							<li><a href="/search_results.asp?section=901&amp;n=1&amp;method=ajax&amp;view=ranges&amp;p_34=Porcelain&amp;p_38=Wall">Porcelain Tiles</a></li>
+							<li><a href="/search_results.asp?section=108&amp;n=1&amp;method=ajax&amp;view=ranges&amp;p_34=Granite&amp;p_38=Wall">Granite Tiles</a></li>
+							<li><a href="/search_results.asp?section=109&amp;n=1&amp;method=ajax&amp;view=ranges&amp;p_34=Limestone&amp;p_38=Wall">Limestone Tiles</a></li>
+							<li><a href="/search_results.asp?section=110&amp;n=1&amp;method=ajax&amp;view=ranges&amp;p_34=Marble&amp;p_38=Wall">Marble Tiles</a></li>
+							<li><a href="/search_results.asp?rangeid=172&amp;n=1&amp;method=ajax&amp;view=ranges&amp;p_38=Wall">Quartz &amp; Resin Tiles</a></li>
+							<li><a href="/search_results.asp?section=112&amp;n=1&amp;method=ajax&amp;view=ranges&amp;p_34=Slate&amp;p_38=Wall">Slate Tiles</a></li>
+							<li><a href="/search_results.asp?section=113&amp;n=1&amp;method=ajax&amp;view=ranges&amp;p_34=Travertine&amp;p_38=Wall">Travertine Tiles</a></li>
 						</ul>
 					</div>
+					<div class="bottom_bar"><img src="/images/menu_message_1.png" alt=""></div>
 				</div>
 			</li>
 			<li><a href="/section118/page1/mosaic-tiles/">Mosaic<br>Tiles</a>
-				<div class="sub" style="margin-left:-20px">
+				<div class="sub" style="margin-left:0;">
 					
-		<div id="collections_current_Mosaics" style="display:none"></div>
-		<div class="collections">
-			<h2>Shop by range...</h2>
-			<div class="collections_image" id="collections_menu_Mosaics_41"><a href="/range425/page1/Regal.html"><img src="/s_menu_images/Sept14_MosaicTiles_RegalCubis.jpg" alt=""></a></div><div class="collections_image" id="collections_menu_Mosaics_42"><a href="/range510/page1/Botella-Mosaics.html"><img src="/s_menu_images/Sept14_MosaicTiles_Botella.jpg" alt=""></a></div><div class="collections_image" id="collections_menu_Mosaics_43"><a href="/tprod41617/section0/Monaco-Pearl-Mosaic"><img src="/s_menu_images/Sept14_MosaicTiles_MonacoPearl.jpg" alt=""></a></div><div class="collections_image" id="collections_menu_Mosaics_44"><a href="/range624/page1/Singapore-Mosaics.html"><img src="/s_menu_images/Sept14_MosaicTiles_Singapore.jpg" alt=""></a></div><div class="collections_image" id="collections_menu_Mosaics_45"><a href="/range625/page1/Shanghai-Mosaics.html"><img src="/s_menu_images/Sept14_MosaicTiles_Shanghai.jpg" alt=""></a></div><div class="collections_image" id="collections_menu_Mosaics_46"><a href="/tprod41607/section0/Hong-Kong-Autumn-Mix-Square-Mosaic.html"><img src="/s_menu_images/Sept14_MosaicTiles_HongKongAutumn.jpg" alt=""></a></div><div class="collections_image" id="collections_menu_Mosaics_47"><a href="/tprod44183/section118/Chic-Grey-Shades-Brick-Mosaic.html"><img src="/s_menu_images/Sept14_MosaicTiles_Chic.jpg" alt=""></a></div><div class="collections_image" id="collections_menu_Mosaics_48"><a href="/tprod41603/section0/Arabia-Blue-Mosaic.html"><img src="/s_menu_images/Sept14_MosaicTiles_ArabiaBlue.jpg" alt=""></a></div>
-			<div class="collections_menu">
-				<div class="collections_menu_tab" id="collections_menu_Mosaics_41_tab" onmouseover="SwapCollectionsTabs('collections_current_Mosaics', 'collections_menu_Mosaics_41');"><a href="/range425/page1/Regal.html">Regal Cubis</a></div><div class="collections_menu_tab" id="collections_menu_Mosaics_42_tab" onmouseover="SwapCollectionsTabs('collections_current_Mosaics', 'collections_menu_Mosaics_42');"><a href="/range510/page1/Botella-Mosaics.html">Botella</a></div><div class="collections_menu_tab" id="collections_menu_Mosaics_43_tab" onmouseover="SwapCollectionsTabs('collections_current_Mosaics', 'collections_menu_Mosaics_43');"><a href="/tprod41617/section0/Monaco-Pearl-Mosaic">Monaco Pearl</a></div><div class="collections_menu_tab" id="collections_menu_Mosaics_44_tab" onmouseover="SwapCollectionsTabs('collections_current_Mosaics', 'collections_menu_Mosaics_44');"><a href="/range624/page1/Singapore-Mosaics.html">Singapore</a></div><div class="collections_menu_tab" id="collections_menu_Mosaics_45_tab" onmouseover="SwapCollectionsTabs('collections_current_Mosaics', 'collections_menu_Mosaics_45');"><a href="/range625/page1/Shanghai-Mosaics.html">Shanghai</a></div><div class="collections_menu_tab" id="collections_menu_Mosaics_46_tab" onmouseover="SwapCollectionsTabs('collections_current_Mosaics', 'collections_menu_Mosaics_46');"><a href="/tprod41607/section0/Hong-Kong-Autumn-Mix-Square-Mosaic.html">Hong Kong</a></div><div class="collections_menu_tab" id="collections_menu_Mosaics_47_tab" onmouseover="SwapCollectionsTabs('collections_current_Mosaics', 'collections_menu_Mosaics_47');"><a href="/tprod44183/section118/Chic-Grey-Shades-Brick-Mosaic.html">Chic Mosaic</a></div><div class="collections_menu_tab" id="collections_menu_Mosaics_48_tab" onmouseover="SwapCollectionsTabs('collections_current_Mosaics', 'collections_menu_Mosaics_48');"><a href="/tprod41603/section0/Arabia-Blue-Mosaic.html">Arabia Blue</a></div>
-			</div>
-		</div>
-		<script type="text/javascript">
-			//trigger the tabs
-			$(document).ready(function() {
-				SwapCollectionsTabs('collections_current_Mosaics', 'collections_menu_Mosaics_41');
-			});
-		</script>
-		
 					<div class="row">
 						<ul>
 							<li><h2>Mosaic Tiles</h2></li>
-							<li><a href="/section1422/page1/coloured-mosaics">Coloured Mosaics</a></li>
-							<li><a href="/section1423/page1/white-and-silver-mosaics">White &amp; Silver Mosaics</a></li>
-							<li><a href="/section1424/page1/black-white-and-grey-mosaics">Black, White &amp; Grey Mosaics</a></li>
-							<li><a href="/section1425/page1/natural-stone-mosaics">Natural Stone Mosaics</a></li>
-							<li><a href="/section1426/page1/neutral-mosaics">Neutral Mosaics</a></li>
+							<li><a href="/section1422/page1/coloured-mosaics/">Coloured Mosaics</a></li>
+							<li><a href="/section1423/page1/white-and-silver-mosaics/">White &amp; Silver Mosaics</a></li>
+							<li><a href="/section1424/page1/black-white-and-grey-mosaics/">Black, White &amp; Grey Mosaics</a></li>
+							<li><a href="/section1425/page1/natural-stone-mosaics/">Natural Stone Mosaics</a></li>
+							<li><a href="/section1426/page1/neutral-mosaics/">Neutral Mosaics</a></li>
+						</ul>
+					</div>
+				</div>
+			</li>
+			<li><a href="/section1158/page1/natural-stone/">Natural<br>Stone</a>
+				<div class="sub" style="margin-left:0;">
+					
+					<div class="row">
+						<ul>
+							<li><h2>Natural Stone</h2></li>
+							<li><a href="/section1498/page1/natural-stone/">All Natural Stone</a></li>
+							<li><a href="/section113/page1/travertine-tiles/">Travertine</a></li>
+							<li><a href="/section110/page1/marble-tiles/">Marble</a></li>
+							<li><a href="/section112/page1/slate-tiles/">Slate</a></li>
+							<li><a href="/section1499/page1/quartzite-tiles/">Quartzite</a></li>
+							<li><a href="/section108/page1/granite-tiles/">Granite</a></li>
+							<li><a href="/section109/page1/limestone-tiles/">Limestone</a></li>
+							<li><a href="/range403/page1/Flagstone-by-Topps-Tiles.html">Flagstones</a></li>
+							<li><a href="/section1313/page1/split-face-natural-stone/">Split Face Mosaics</a></li>
+							<li><a href="/range591/page1/Terracotta.html">Terracotta</a></li>
+							<li><a href="/section1357/page1/natural-stone-protection-cleaning-and-maintenance/">Cleaning &amp; Protection</a></li>
 						</ul>
 					</div>
 				</div>
 			</li>
 			<li><a href="/section169/page1/laminate-and-real-wood-flooring/">Wood<br>Flooring</a>
-				<div class="sub" style="margin-left:-85px">
+				<div class="sub" style="margin-left:0;">
 					
-		<div id="collections_current_WoodFlooring" style="display:none"></div>
-		<div class="collections">
-			<h2>Shop by range...</h2>
-			<div class="collections_image" id="collections_menu_WoodFlooring_57"><a href="/section1503/page1/up-to-1-3-off-wood-flooring"><img src="/s_menu_images/Sept14_WoodFlooring_3rdOFFWood.jpg" alt=""></a></div><div class="collections_image" id="collections_menu_WoodFlooring_58"><a href="/tprod43667/section116/Solid-Antarctic-White-Half-Filled"><img src="/s_menu_images/Sept14_WoodFlooring_Antarctic.jpg" alt=""></a></div><div class="collections_image" id="collections_menu_WoodFlooring_59"><a href="/tprod43660/section117/Pine-Rough-Sawn-Wide-Plank"><img src="/s_menu_images/Sept14_WoodFlooring_RoughPine.jpg" alt=""></a></div><div class="collections_image" id="collections_menu_WoodFlooring_60"><a href="/tprod44083/section117/Chic-Floral"><img src="/s_menu_images/Sept14_WoodFlooring_ChicFloral.jpg" alt=""></a></div><div class="collections_image" id="collections_menu_WoodFlooring_61"><a href="/tprod43668/section116/Brushed-Matt-Lacquer-190"><img src="/s_menu_images/Sept14_WoodFlooring_BrushedMattLacquer.jpg" alt=""></a></div><div class="collections_image" id="collections_menu_WoodFlooring_62"><a href="/tprod44081/section117/Playtime-Hands"><img src="/s_menu_images/Sept14_WoodFlooring_PlayTimeHands.jpg" alt=""></a></div><div class="collections_image" id="collections_menu_WoodFlooring_63"><a href="/tprod43652/section115/Coffee-Handscraped-LP-189mm"><img src="/s_menu_images/Sept14_WoodFlooring_CoffeeHandscraped.jpg" alt=""></a></div><div class="collections_image" id="collections_menu_WoodFlooring_64"><a href="/tprod43657/section117/Mustang-Slate"><img src="/s_menu_images/Sept14_WoodFlooring_MustangSlate.jpg" alt=""></a></div>
-			<div class="collections_menu">
-				<div class="collections_menu_tab" id="collections_menu_WoodFlooring_57_tab" onmouseover="SwapCollectionsTabs('collections_current_WoodFlooring', 'collections_menu_WoodFlooring_57');"><a href="/section1503/page1/up-to-1-3-off-wood-flooring">Up to 1/3 off</a></div><div class="collections_menu_tab" id="collections_menu_WoodFlooring_58_tab" onmouseover="SwapCollectionsTabs('collections_current_WoodFlooring', 'collections_menu_WoodFlooring_58');"><a href="/tprod43667/section116/Solid-Antarctic-White-Half-Filled">Antarctic</a></div><div class="collections_menu_tab" id="collections_menu_WoodFlooring_59_tab" onmouseover="SwapCollectionsTabs('collections_current_WoodFlooring', 'collections_menu_WoodFlooring_59');"><a href="/tprod43660/section117/Pine-Rough-Sawn-Wide-Plank">Rough Pine</a></div><div class="collections_menu_tab" id="collections_menu_WoodFlooring_60_tab" onmouseover="SwapCollectionsTabs('collections_current_WoodFlooring', 'collections_menu_WoodFlooring_60');"><a href="/tprod44083/section117/Chic-Floral">Chic Floral</a></div><div class="collections_menu_tab" id="collections_menu_WoodFlooring_61_tab" onmouseover="SwapCollectionsTabs('collections_current_WoodFlooring', 'collections_menu_WoodFlooring_61');"><a href="/tprod43668/section116/Brushed-Matt-Lacquer-190">Brushed Matt Lacquer</a></div><div class="collections_menu_tab" id="collections_menu_WoodFlooring_62_tab" onmouseover="SwapCollectionsTabs('collections_current_WoodFlooring', 'collections_menu_WoodFlooring_62');"><a href="/tprod44081/section117/Playtime-Hands">Playtime Hands</a></div><div class="collections_menu_tab" id="collections_menu_WoodFlooring_63_tab" onmouseover="SwapCollectionsTabs('collections_current_WoodFlooring', 'collections_menu_WoodFlooring_63');"><a href="/tprod43652/section115/Coffee-Handscraped-LP-189mm">Coffee Handscraped</a></div><div class="collections_menu_tab" id="collections_menu_WoodFlooring_64_tab" onmouseover="SwapCollectionsTabs('collections_current_WoodFlooring', 'collections_menu_WoodFlooring_64');"><a href="/tprod43657/section117/Mustang-Slate">Mustang Slate</a></div>
-			</div>
-		</div>
-		<script type="text/javascript">
-			//trigger the tabs
-			$(document).ready(function() {
-				SwapCollectionsTabs('collections_current_WoodFlooring', 'collections_menu_WoodFlooring_57');
-			});
-		</script>
-		
 					<div class="row">
 						<ul>
 							<li><h2>Wood Flooring</h2></li>
-							<li><a href="/section117/page1/laminate-flooring/">All Laminate Flooring</a></li>
-							<li><a href="/section115/page1/engineered-wood-flooring/">All Engineered Wood Flooring</a></li>
-							<li><a href="/section116/page1/hardwood-flooring/">All Solid Wood Flooring</a></li>
-							<li><a href="/section1407/page1/vinyl-flooring/">All Vinyl Flooring</a></li>
+							<li><a href="/section117/page1/laminate-flooring/">Laminate Flooring</a></li>
+							<li><a href="/section115/page1/engineered-wood-flooring/">Engineered Wood Flooring</a></li>
+							<li><a href="/section116/page1/hardwood-flooring/">Solid Wood Flooring</a></li>
+							<li><a href="/section1407/page1/vinyl-flooring/">Vinyl Flooring</a></li>
 							<li><a href="/section1466/page1/wood-flooring-accessories/">Wood Tools &amp; Accessories</a></li>
 							<li><a href="/section1440/page1/underlay/">Underlay</a></li>
 						</ul>
 					</div>
 				</div>
 			</li>
-			<li><a href="/section1158/page1/natural-stone/">Natural<br>Stone</a>
-				<div class="sub" style="margin-left:-160px">
-					
-		<div id="collections_current_NaturalStone" style="display:none"></div>
-		<div class="collections">
-			<h2>Shop by range...</h2>
-			<div class="collections_image" id="collections_menu_NaturalStone_75"><a href="/section1502/page1/up-to-1-3-off-natural-stone"><img src="/s_menu_images/Sept14_NaturalStone_3rdOFF.jpg" alt=""></a></div><div class="collections_image" id="collections_menu_NaturalStone_49"><a href="/section113/page1/travertine-tiles/"><img src="/s_menu_images/Sept14_NaturalStone_Travertine.jpg" alt=""></a></div><div class="collections_image" id="collections_menu_NaturalStone_50"><a href="/section108/page1/granite-tiles/"><img src="/s_menu_images/Sept14_NaturalStone_Granite.jpg" alt=""></a></div><div class="collections_image" id="collections_menu_NaturalStone_51"><a href="/section112/page1/slate-tiles/"><img src="/s_menu_images/nav_image_natural_stone_rustic_slate.jpg" alt=""></a></div><div class="collections_image" id="collections_menu_NaturalStone_52"><a href="/section110/page1/marble-tiles/"><img src="/s_menu_images/Sept14_NaturalStone_Marble.jpg" alt=""></a></div><div class="collections_image" id="collections_menu_NaturalStone_53"><a href="/section109/page1/limestone-tiles/"><img src="/s_menu_images/Sept14_NaturalStone_Limestone.jpg" alt=""></a></div><div class="collections_image" id="collections_menu_NaturalStone_54"><a href="/range403/page1/flagstone-by-topps-tiles/"><img src="/s_menu_images/nav_image_natural_stone_flagstone_aegean_blue.jpg" alt=""></a></div>
-			<div class="collections_menu">
-				<div class="collections_menu_tab" id="collections_menu_NaturalStone_75_tab" onmouseover="SwapCollectionsTabs('collections_current_NaturalStone', 'collections_menu_NaturalStone_75');"><a href="/section1502/page1/up-to-1-3-off-natural-stone">1/3 off Natural Stone</a></div><div class="collections_menu_tab" id="collections_menu_NaturalStone_49_tab" onmouseover="SwapCollectionsTabs('collections_current_NaturalStone', 'collections_menu_NaturalStone_49');"><a href="/section113/page1/travertine-tiles/">Travertine Tiles</a></div><div class="collections_menu_tab" id="collections_menu_NaturalStone_50_tab" onmouseover="SwapCollectionsTabs('collections_current_NaturalStone', 'collections_menu_NaturalStone_50');"><a href="/section108/page1/granite-tiles/">Granite Tiles</a></div><div class="collections_menu_tab" id="collections_menu_NaturalStone_51_tab" onmouseover="SwapCollectionsTabs('collections_current_NaturalStone', 'collections_menu_NaturalStone_51');"><a href="/section112/page1/slate-tiles/">Slate Tiles</a></div><div class="collections_menu_tab" id="collections_menu_NaturalStone_52_tab" onmouseover="SwapCollectionsTabs('collections_current_NaturalStone', 'collections_menu_NaturalStone_52');"><a href="/section110/page1/marble-tiles/">Marble Tiles</a></div><div class="collections_menu_tab" id="collections_menu_NaturalStone_53_tab" onmouseover="SwapCollectionsTabs('collections_current_NaturalStone', 'collections_menu_NaturalStone_53');"><a href="/section109/page1/limestone-tiles/">Limestone Tiles</a></div><div class="collections_menu_tab" id="collections_menu_NaturalStone_54_tab" onmouseover="SwapCollectionsTabs('collections_current_NaturalStone', 'collections_menu_NaturalStone_54');"><a href="/range403/page1/flagstone-by-topps-tiles/">Flagstones</a></div>
-			</div>
-		</div>
-		<script type="text/javascript">
-			//trigger the tabs
-			$(document).ready(function() {
-				SwapCollectionsTabs('collections_current_NaturalStone', 'collections_menu_NaturalStone_75');
-			});
-		</script>
-		
-					<div class="row">
-						<ul>
-							<li><h2><a href="/section1158/page1/natural-stone/">Natural Stone</a></h2></li>
-							<li><a href="/section1357/page1/natural-stone-protection-cleaning-and-maintenance/">Cleaning &amp; Protection</a></li>
-						</ul>
-					</div>
-				</div>
-			</li>
-			<li><a href="/section1446/page1/tools-and-accessories">Tools &amp;<br>Essentials</a>
-				<div class="sub" style="margin-left:0px">
+			<li><a href="/section1446/page1/tools-and-essentials/">Tools &amp;<br>Essentials</a>
+				<div class="sub" style="margin-left:0;">
 					<div class="row">
 						<ul>
 							<li><h2>Tools &amp; Essentials</h2></li>
-							<li><a href="/section1152/page1/tile-trims">Trims</a></li>
-							<li><a href="/section173/page1/tile-grout">Grout</a></li>
-							<li><a href="/section172/page1/tile-adhesive">Adhesive</a></li>
-							<li><a href="/section1495/page1/cutters">Cutters</a></li>
-							<li><a href="/section1477/page1/tiling-accessories">Tools &amp; Accessories</a></li>
-							<li><a href="/section1478/page1/cleaning-and-maintenance">Cleaning &amp; Maintenance</a></li>
-							<li><a href="/section1479/page1/preparation">Prepare for the Job</a></li>
-							<li><a href="/section1480/page1/underfloor-heating">Underfloor Heating</a></li>
-							<li><a href="/section20/page1/wet-rooms">Wet Rooms</a></li>
-							<li><a href="/section1466/page1/wood-flooring-accessories">Wood Tools &amp; Accessories</a></li>
+							<li><a href="/section1152/page1/tile-trims/">Trims</a></li>
+							<li><a href="/section173/page1/tile-grout/">Grout</a></li>
+							<li><a href="/section172/page1/tile-adhesive/">Adhesive</a></li>
+							<li><a href="/section1495/page1/cutters/">Cutters</a></li>
+							<li><a href="/section1477/page1/tools-and-accessories">Tools &amp; Accessories</a></li>
+							<li><a href="/section1478/page1/cleaning-and-maintenance/">Cleaning &amp; Maintenance</a></li>
+							<li><a href="/section1479/page1/preparation/">Prepare for the Job</a></li>
+							<li><a href="/section1480/page1/underfloor-heating/">Underfloor Heating</a></li>
+							<li><a href="/section1493/page1/wet-rooms/">Wet Rooms</a></li>
+							<li><a href="/section1466/page1/wood-flooring-accessories/">Wood Tools &amp; Accessories</a></li>
 							<li><a href="/how-to/">How To Videos</a></li>
 						</ul>
 					</div>
 				</div>
 			</li>
-			<li><a href="/design_inspiration/">Inspiration<br>&amp; Advice</a>
-				<div class="sub" style="margin-left:0">
+			<li><a href="/style-and-inspiration/">Style &amp;<br>Inspiration</a>
+				<div class="sub" style="margin-left:0;">
 					<div class="row">
 						<ul>
-							<li><h2>Design &amp; Inspiration</h2></li>
-							<li><a href="/design_inspiration/">Design &amp; Inspiration</a></li>
-							<li><a href="/advice_centre/">Advice Centre</a></li>
-							<li><a href="/brochure/">Request a Brochure</a></li>
+							<li><h2>Style &amp; Inspiration</h2></li>
 							<li><a href="#null" onclick="popupVisualizer1('');">Visualiser</a></li>
-							<li><a href="/brochure_pages/style_guides.asp">Style Guides</a></li>
-							<li><a href="/showcase/">Photo Gallery</a></li>
-							<li><a href="/about-us/">About Us</a></li>
-							<li><a href="/appointments/">Book a free consultation</a></li>
-							<li><a href="/how-to/">How To Videos</a></li>
+							<li><a href="/blog/">Topps Tiles Blog</a></li>
+							<li><a href="/tile-style/">Tile Style</a></li>
+							<li><a href="/style-and-inspiration/photo-gallery/">Photo Gallery</a></li>
+							<li><a href="/style-and-inspiration/customer-photos/">Customer Photo Gallery</a></li>
+							<li><a href="/style-and-inspiration/video-gallery/">Watch Our Videos</a></li>
+							<li><a href="/brochure/">New Brochure</a></li>
+							<li><a href="/style-and-inspiration/laying-patterns/">Laying Patterns</a></li>
+							<li><a href="http://viewer.zmags.com/publication/22f4d2e9" target="_blank">Look Book</a></li>
+						</ul>
+					</div>
+				</div>
+			</li>
+			<li><a href="/advice_centre/">Advice<br>Centre</a>
+				<div class="sub" style="margin-left:-30px;">
+					<div class="row">
+						<ul>
+							<li><h2>Advice Centre</h2></li>
+							<li><a href="/style-and-inspiration/video-gallery/">Video Content</a></li>
+							<li><a href="/advice_centre/blog">Advice Blog</a></li>
 							<li><a href="/tile-calculator/">Tile Calculator</a></li>
-							<li><a href="/contact_us/">Contact Us</a></li>
-							<li><a href="/media-centre/investors.asp">Investors</a></li>
+							<li><a href="/appointments/">Book a Consultation</a></li>
+							<li><a href="/style-and-inspiration/">Style &amp; Inspiration</a></li>
+							<li><a href="/advice_centre/guide-to-underfloor-heating/">Guide to Underfloor Heating</a></li>
+							<li><a href="/advice_centre/leaflets">Leaflets</a></li>
 						</ul>
 					</div>
 				</div>
 			</li>
 			<li><a href="/about-us/">About<br>Us</a>
-				<div class="sub" style="margin-left:0">
+				<div class="sub" style="margin-left:-30px;">
 					<div class="row">
 						<ul>
 							<li><h2>About Us</h2></li>
-							<li><a href="/about-us/latest-news/">News &amp; Articles</a></li>
+							<li><a href="/blog/">Topps Tiles Blog</a></li>
 							<li><a href="/media-centre/company-profile.asp">Company Profile</a></li>
 							<li><a href="/about-us/topps-on-tv.asp">Topps on TV</a></li>
 							<li><a href="/media-centre/investors.asp">Investor Information</a></li>
 							<li><a href="/media-centre/">Media Centre</a></li>
-							<li><a href="/wysiwyg_page_hr.asp?page=79">Careers</a></li>
+							<li><a href="/careers/">Careers</a></li>
 							<li><a href="/property/">Property</a></li>
 						</ul>
 					</div>
 				</div>
 			</li>
 			<li><a href="/sale/">Special<br>Offers</a>
-				<div class="sub" style="margin-left:-330px">
+				<div class="sub" style="margin-left:-95px;">
 					
-		<div id="collections_current_SpecialOffers" style="display:none"></div>
-		<div class="collections">
-			<h2>Special Offers</h2>
-			<div class="collections_image" id="collections_menu_SpecialOffers_65"><a href="/section1501/page1/up-to-1-3-off-tiles"><img src="/s_menu_images/Sept14_SpecialOffers_Tiles.jpg" alt=""></a></div><div class="collections_image" id="collections_menu_SpecialOffers_67"><a href="/section1502/page1/up-to-1-3-off-natural-stone"><img src="/s_menu_images/Sept14_SpecialOffers_NaturalStone.jpg" alt=""></a></div><div class="collections_image" id="collections_menu_SpecialOffers_68"><a href="/section1503/page1/up-to-1-3-off-wood-flooring"><img src="/s_menu_images/Sept14_SpecialOffers_WoodFlooring.jpg" alt=""></a></div><div class="collections_image" id="collections_menu_SpecialOffers_70"><a href="/section1504/page1/20percent-off-underfloor-heating"><img src="/s_menu_images/Sept14_SpecialOffers_UnderfloorHeating.jpg" alt=""></a></div><div class="collections_image" id="collections_menu_SpecialOffers_71"><a href="/section1505/page1/up-to-1-3-off-tools"><img src="/s_menu_images/Sept14_SpecialOffers_Tools.jpg" alt=""></a></div><div class="collections_image" id="collections_menu_SpecialOffers_74"><a href="/section1506/page1/up-to-1-3-off-vax"><img src="/s_menu_images/Sept14_SpecialOffers_VAX.jpg" alt=""></a></div><div class="collections_image" id="collections_menu_SpecialOffers_76"><a href="/section1433/page1/reduced-to-clear"><img src="/s_menu_images/Sept14_Reduced_to_Clear.jpg" alt=""></a></div><div class="collections_image" id="collections_menu_SpecialOffers_77"><a href="/sale/"><img src="/s_menu_images/Sept14_SpecialOffers_ViewAll.jpg" alt=""></a></div>
-			<div class="collections_menu">
-				<div class="collections_menu_tab" id="collections_menu_SpecialOffers_65_tab" onmouseover="SwapCollectionsTabs('collections_current_SpecialOffers', 'collections_menu_SpecialOffers_65');"><a href="/section1501/page1/up-to-1-3-off-tiles">1/3 off Tiles</a></div><div class="collections_menu_tab" id="collections_menu_SpecialOffers_67_tab" onmouseover="SwapCollectionsTabs('collections_current_SpecialOffers', 'collections_menu_SpecialOffers_67');"><a href="/section1502/page1/up-to-1-3-off-natural-stone">1/3 off Natural Stone</a></div><div class="collections_menu_tab" id="collections_menu_SpecialOffers_68_tab" onmouseover="SwapCollectionsTabs('collections_current_SpecialOffers', 'collections_menu_SpecialOffers_68');"><a href="/section1503/page1/up-to-1-3-off-wood-flooring">1/3 off Wood Flooring</a></div><div class="collections_menu_tab" id="collections_menu_SpecialOffers_70_tab" onmouseover="SwapCollectionsTabs('collections_current_SpecialOffers', 'collections_menu_SpecialOffers_70');"><a href="/section1504/page1/20percent-off-underfloor-heating">20% off Underfloor Heating</a></div><div class="collections_menu_tab" id="collections_menu_SpecialOffers_71_tab" onmouseover="SwapCollectionsTabs('collections_current_SpecialOffers', 'collections_menu_SpecialOffers_71');"><a href="/section1505/page1/up-to-1-3-off-tools">1/3 off Tools</a></div><div class="collections_menu_tab" id="collections_menu_SpecialOffers_74_tab" onmouseover="SwapCollectionsTabs('collections_current_SpecialOffers', 'collections_menu_SpecialOffers_74');"><a href="/section1506/page1/up-to-1-3-off-vax">1/3 off Vax</a></div><div class="collections_menu_tab" id="collections_menu_SpecialOffers_76_tab" onmouseover="SwapCollectionsTabs('collections_current_SpecialOffers', 'collections_menu_SpecialOffers_76');"><a href="/section1433/page1/reduced-to-clear">Reduced to Clear</a></div><div class="collections_menu_tab" id="collections_menu_SpecialOffers_77_tab" onmouseover="SwapCollectionsTabs('collections_current_SpecialOffers', 'collections_menu_SpecialOffers_77');"><a href="/sale/">View All Special Offers</a></div>
-			</div>
-		</div>
-		<script type="text/javascript">
-			//trigger the tabs
-			$(document).ready(function() {
-				SwapCollectionsTabs('collections_current_SpecialOffers', 'collections_menu_SpecialOffers_65');
-			});
-		</script>
-		
+					<div class="row">
+						<ul>
+							<li><h2>Special Offers</h2></li>
+							<li><a href="/section1548/page1/15-percent-off-selected-new-ranges/">15% off New Ranges</a></li>							
+							<li><a href="/section1433/page1/reduced-to-clear/">Reduced to Clear</a></li>
+						</ul>
+					</div>
 				</div>
 			</li>
 			<li class="double-line no-right-border"><a href="/view_wishlist.asp">Wishlist</a></li>
 		</ul>
+		<!-- end of menu -->
 		<div style="clear:both"></div>
 	</div>
 
-	<script type="text/javascript">
-    /* dw_Tooltip.content_vars = {
-        Beige: 'Beige',
-        Black: 'Black',
-        Blue: 'Blue',
-        Brown: 'Brown',
-        Cream: 'Cream',
-        Green: 'Green',
-        Grey: 'Grey',
-        Orange: 'Orange',
-        Pink: 'Pink',
-        Silver: 'Silver',
-        Terracotta: 'Terracotta',
-        White: 'White',
-        Yellow: 'Yellow',
-        Red: 'Red',
-        Purple: 'Purple',
-        Mixed: 'Mixed'
-    }*/
-    </script>
-    
-	<div style="float:left; margin-top:2px;; clear:left">
-        
-    </div>
+		<!-- include file="standardSearch.asp"-->
+		<div class="wysiwyg_content">
+			<h1>
+	Topps Tiles Privacy Policy</h1>
+<p>
+	Topps Tiles (UK) ("We") are committed to protecting and respecting your privacy.</p>
+<p>
+	This policy (together with our <a href="/page63/terms-of-website-use.html">terms of website use</a> and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it. By visiting www.toppstiles.co.uk you are accepting and consenting to the practices described in this policy.</p>
+<p>
+	For the purpose of the Data Protection Act 1998 (the Act), the data controller is Topps Tiles (UK) of Grove Park, Thorpe Way, Enderby, Leicestershire, LE19 1SU.</p>
+<p>
+	<strong>INFORMATION WE MAY COLLECT FROM YOU</strong></p>
+<p>
+	We may collect and process the following data about you:</p>
+<ul class="bullets">
+	<li>
+		<strong>Information you give us.</strong> You may give us information about you by filling in forms on our site www.toppstiles.co.uk (our site) or by corresponding with us by phone, e-mail or otherwise. This includes information you provide when you register to use our site, , place an order on our site, participate in discussion boards or other social media functions on our site, enter a competition, promotion or survey, sign up to our email programme, order a brochure, book a store appointment and when you report a problem with our site. The information you give us may include your name, address, e-mail address and phone number, financial and credit card information, personal description and photograph.</li>
+	<li>
+		<strong>Information we collect about you.</strong> With regard to each of your visits to our site we may automatically collect the following information:
+		<ul class="bullets">
+			<li>
+				technical information, including the Internet protocol (IP) address used to connect your computer to the Internet, your login information, browser type and version, time zone setting, browser plug-in types and versions, operating system and platform;</li>
+			<li>
+				information about your visit, including the full Uniform Resource Locators (URL) clickstream to, through and from our site (including date and time); products you viewed or searched for; page response times, download errors, length of visits to certain pages, page interaction information (such as scrolling, clicks, and mouse-overs), and methods used to browse away from the page and any phone number used to call our customer service number.</li>
+		</ul>
+	</li>
+	<li>
+		<strong>Information we receive from other sources.</strong> We may receive information about you if you use any of the other websites we operate or the other services we provide. [In this case we will have informed you when we collected that data that it may be shared internally and combined with data collected on this site.] We are also working closely with third parties (including, for example, business partners, sub-contractors in technical, payment and delivery services, advertising networks, analytics providers, search information providers, credit reference agencies) and may receive information about you from them.</li>
+</ul>
+<p>
+	<strong>COOKIES</strong></p>
+<p>
+	Our website uses cookies to distinguish you from other users of our website. This helps us to provide you with a good experience when you browse our website and also allows us to improve our site. For detailed information on the cookies we use and the purposes for which we use them see our <a href="/cookie_statement.asp">Cookie policy</a>.</p>
+<p>
+	<strong>USES MADE OF THE INFORMATION</strong></p>
+<p>
+	We use information held about you in the following ways:</p>
+<ul class="bullets">
+	<li>
+		<strong>Information you give to us.</strong> We will use this information:
+		<ul class="bullets">
+			<li>
+				to carry out our obligations arising from any contracts entered into between you and us and to provide you with the information, products and services that you request from us;</li>
+			<li>
+				to provide you with information about other goods and services we offer that are similar to those that you have already purchased or enquired about;</li>
+			<li>
+				to provide you, or permit selected third parties to provide you, with information about goods or services we feel may interest you. If you are an existing customer, we will only contact you by electronic means (e-mail or SMS) with information about goods and services similar to those which were the subject of a previous sale or negotiations of a sale to you. If you are a new customer, and where we permit selected third parties to use your data, we (or they) will contact you by electronic means only if you have consented to this. If you do not want us to use your data in this way, or to pass your details on to third parties for marketing purposes, please tick the relevant box situated on the form on which we collect your data (the [order form <strong>OR</strong> registration form]);</li>
+			<li>
+				to notify you about changes to our service;</li>
+			<li>
+				to ensure that content from our site is presented in the most effective manner for you and for your computer.</li>
+		</ul>
+	</li>
+	<li>
+		<strong>Information we collect about you.</strong> We will use this information:
+		<ul class="bullets">
+			<li>
+				to administer our site and for internal operations, including troubleshooting, data analysis, testing, research, statistical and survey purposes;</li>
+			<li>
+				to improve our site to ensure that content is presented in the most effective manner for you and for your computer;</li>
+			<li>
+				to allow you to participate in interactive features of our service, when you choose to do so;</li>
+			<li>
+				as part of our efforts to keep our site safe and secure;</li>
+			<li>
+				to measure or understand the effectiveness of advertising we serve to you and others, and to deliver relevant advertising to you;</li>
+			<li>
+				to make suggestions and recommendations to you and other users of our site about goods or services that may interest you or them.</li>
+		</ul>
+	</li>
+	<li>
+		<strong>Information we receive from other sources.</strong> We may combine this information with information you give to us and information we collect about you. We may us this information and the combined information for the purposes set out above (depending on the types of information we receive).</li>
+</ul>
+<p>
+	<strong>DISCLOSURE OF YOUR INFORMATION</strong></p>
+<p>
+	We may share your personal information with any member of our group, which means our subsidiaries, our ultimate holding company and its subsidiaries, as defined in section 1159 of the UK Companies Act 2006.</p>
+<p>
+	We may share your information with selected third parties including:</p>
+<ul class="bullets">
+	<li>
+		Business partners, suppliers and sub-contractors for the performance of any contract we enter into with [them or] you.</li>
+	<li>
+		Analytics and search engine providers that assist us in the improvement and optimisation of our site.</li>
+	<li>
+		Credit reference agencies for the purpose of assessing your credit score where this is a condition of us entering into a contract with you.</li>
+</ul>
+<p>
+	We may disclose your personal information to third parties:</p>
+<ul class="bullets">
+	<li>
+		In the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets.</li>
+	<li>
+		If Topps Tiles or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets.</li>
+	<li>
+		If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our <a href="/page63/terms-of-website-use.html">terms of website use</a> or <a href="/page52/terms.html">terms and conditions of supply</a> and other agreements; or to protect the rights, property, or safety of Topps Tiles, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.</li>
+</ul>
+<p>
+	<strong>WHERE WE STORE YOUR PERSONAL DATA</strong></p>
+<p>
+	The data that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area ("EEA"). It may also be processed by staff operating outside the EEA who work for us or for one of our suppliers. Such staff maybe engaged in, among other things, the fulfilment of your order, the processing of your payment details and the provision of support services. By submitting your personal data, you agree to this transfer, storing or processing. [COMPANY NAME OR We] will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy.</p>
+<p>
+	[All information you provide to us is stored on our secure servers. Any payment transactions will be encrypted [using SSL technology].] Where we have given you (or where you have chosen) a password which enables you to access certain parts of our site, you are responsible for keeping this password confidential. We ask you not to share a password with anyone.</p>
+<p>
+	Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our site; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access.</p>
+<p>
+	<strong>YOUR RIGHTS</strong></p>
+<p>
+	You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data. You can also exercise the right at any time by contacting us at customerservices@toppstiles.co.uk.</p>
+<p>
+	Our site may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal data to these websites.</p>
+<p>
+	<strong>ACCESS TO INFORMATION</strong></p>
+<p>
+	The Act gives you the right to access information held about you. Your right of access can be exercised in accordance with the Act. Any access request may be subject to a fee of £10 to meet our costs in providing you with details of the information we hold about you.</p>
+<p>
+	<strong>CHANGES TO OUR PRIVACY POLICY</strong></p>
+<p>
+	Any changes we may make to our privacy policy in the future will be posted on this page and, where appropriate, notified to you by e-mail. Please check back frequently to see any updates or changes to our privacy policy.</p>
+<p>
+	<strong>CONTACT</strong></p>
+<p>
+	Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to customerservices@toppstiles.co.uk</p>
 
-			<div class="productRightBlock" style="width:710px !important">
-				<div class="wysiwyg_content">
-					<h1>Topps Tiles Privacy Policy</h1>
-<p>Topps Tiles (UK) ("We") are committed to protecting and respecting your privacy.</p>
-<p>This policy (together with our <a href="/page63/terms-of-website-use.html">terms of website use</a> and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us.  Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it. By visiting www.toppstiles.co.uk you are accepting and consenting to the practices described in this policy.</p>
-<p>For the purpose of the Data Protection Act 1998 (the Act), the data controller is Topps Tiles (UK) of Grove Park, Thorpe Way, Enderby, Leicestershire, LE19 1SU.</p>
-<p><strong>INFORMATION WE MAY COLLECT FROM YOU</strong></p>
-<p>We may collect and process the following data about you:</p>
-<ul class="bullets">
-<li><strong>Information you give us.</strong> You may give us information about you by filling in forms on our site www.toppstiles.co.uk (our site) or by corresponding with us by phone, e-mail or otherwise. This includes information you provide when you register to use our site, , place an order on our site, participate in discussion boards or other social media functions on our site, enter a competition, promotion or survey, sign up to our email programme, order a brochure, book a store appointment and when you report a problem with our site. The information you give us may include your name, address, e-mail address and phone number, financial and credit card information, personal description and photograph.</li>
-<li><strong>Information we collect about you.</strong> With regard to each of your visits to our site we may automatically collect the following information:
-	<ul class="bullets">
-	<li>technical information, including the Internet protocol (IP) address used to connect your computer to the Internet, your login information, browser type and version, time zone setting, browser plug-in types and versions, operating system and platform;</li>
-	<li>information about your visit, including the full Uniform Resource Locators (URL) clickstream to, through and from our site (including date and time); products you viewed or searched for; page response times, download errors, length of visits to certain pages, page interaction information (such as scrolling, clicks, and mouse-overs), and methods used to browse away from the page and any phone number used to call our customer service number.</li>
-	</ul>
-</li>
-<li><strong>Information we receive from other sources.</strong> We may receive information about you if you use any of the other websites we operate or the other services we provide. [In this case we will have informed you when we collected that data that it may be shared internally and combined with data collected on this site.] We are also working closely with third parties (including, for example, business partners, sub-contractors in technical, payment and delivery services, advertising networks, analytics providers, search information providers, credit reference agencies) and may receive information about you from them.</li>
-</ul>
-<p><strong>COOKIES</strong></p>
-<p>Our website uses cookies to distinguish you from other users of our website. This helps us to provide you with a good experience when you browse our website and also allows us to improve our site. For detailed information on the cookies we use and the purposes for which we use them see our <a href="/cookie_statement.asp">Cookie policy</a>.</p>
-<p><strong>USES MADE OF THE INFORMATION</strong></p>
-<p>We use information held about you in the following ways:</p>
-<ul class="bullets">
-<li><strong>Information you give to us.</strong> We will use this information:
-	<ul class="bullets">
-	<li>to carry out our obligations arising from any contracts entered into between you and us and to provide you with the information, products and services that you request from us;</li>
-	<li>to provide you with information about other goods and services we offer that are similar to those that you have already purchased or enquired about;</li>
-	<li>to provide you, or permit selected third parties to provide you, with information about goods or services we feel may interest you. If you are an existing customer, we will only contact you by electronic means (e-mail or SMS) with information about goods and services similar to those which were the subject of a previous sale or negotiations of a sale to you. If you are a new customer, and where we permit selected third parties to use your data, we (or they) will contact you by electronic means only if you have consented to this. If you do not want us to use your data in this way, or to pass your details on to third parties for marketing purposes, please tick the relevant box situated on the form on which we collect your data (the [order form <strong>OR</strong> registration form]);</li>
-	<li>to notify you about changes to our service;</li>
-	<li>to ensure that content from our site is presented in the most effective manner for you and for your computer.</li>
-	</ul>
-</li>
-<li><strong>Information we collect about you.</strong> We will use this information:
-	<ul class="bullets">
-	<li>to administer our site and for internal operations, including troubleshooting, data analysis, testing, research, statistical and survey purposes;</li>
-	<li>to improve our site to ensure that content is presented in the most effective manner for you and for your computer;</li>
-	<li>to allow you to participate in interactive features of our service, when you choose to do so;</li>
-	<li>as part of our efforts to keep our site safe and secure;</li>
-	<li>to measure or understand the effectiveness of advertising we serve to you and others, and to deliver relevant advertising to you;</li>
-	<li>to make suggestions and recommendations to you and other users of our site about goods or services that may interest you or them.</li>
-	</ul>
-</li>
-<li><strong>Information we receive from other sources.</strong> We may combine this information with information you give to us and information we collect about you. We may us this information and the combined information for the purposes set out above (depending on the types of information we receive).</li>
-</ul>
-<p><strong>DISCLOSURE OF YOUR INFORMATION</strong></p>
-<p>We may share your personal information with any member of our group, which means our subsidiaries, our ultimate holding company and its subsidiaries, as defined in section 1159 of the UK Companies Act 2006.</p>
-<p>We may share your information with selected third parties including:</p>
-<ul class="bullets">
-<li>Business partners, suppliers and sub-contractors for the performance of any contract we enter into with [them or] you.</li>
-<li>Analytics and search engine providers that assist us in the improvement and optimisation of our site.</li>
-<li>Credit reference agencies for the purpose of assessing your credit score where this is a condition of us entering into a contract with you.</li>
-</ul>
-<p>We may disclose your personal information to third parties:</p>
-<ul class="bullets">
-<li>In the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets.</li>
-<li>If Topps Tiles or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets.</li>
-<li>If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our <a href="/page63/terms-of-website-use.html">terms of website use</a> or <a href="/page52/terms.html">terms and conditions of supply</a> and other agreements; or to protect the rights, property, or safety of Topps Tiles, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.</li>
-</ul>
-<p><strong>WHERE WE STORE YOUR PERSONAL DATA</strong></p>
-<p>The data that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area ("EEA"). It may also be processed by staff operating outside the EEA who work for us or for one of our suppliers. Such staff maybe engaged in, among other things,  the fulfilment of your order, the processing of your payment details and the provision of support services. By submitting your personal data, you agree to this transfer, storing or processing. [COMPANY NAME OR We] will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy.</p>
-<p>[All information you provide to us is stored on our secure servers. Any payment transactions will be encrypted [using SSL technology].] Where we have given you (or where you have chosen) a password which enables you to access certain parts of our site, you are responsible for keeping this password confidential. We ask you not to share a password with anyone.</p>
-<p>Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our site; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access.</p>
-<p><strong>YOUR RIGHTS</strong></p>
-<p>You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data.  You can also exercise the right at any time by contacting us at customerservices@toppstiles.co.uk.</p>
-<p>Our site may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates.  If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies.  Please check these policies before you submit any personal data to these websites.</p>
-<p><strong>ACCESS TO INFORMATION</strong></p>
-<p>The Act gives you the right to access information held about you. Your right of access can be exercised in accordance with the Act. Any access request may be subject to a fee of £10 to meet our costs in providing you with details of the information we hold about you.</p>
-<p><strong>CHANGES TO OUR PRIVACY POLICY</strong></p>
-<p>Any changes we may make to our privacy policy in the future will be posted on this page and, where appropriate, notified to you by e-mail. Please check back frequently to see any updates or changes to our privacy policy.</p>
-<p><strong>CONTACT</strong></p>
-<p>Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to customerservices@toppstiles.co.</p>
-				</div>
-			</div>
-			
+		</div>
 		<div class="clearBoth"></div>
 	</div>
 	
+
 	<div class="newFooter" style="text-align:left">
 		
 		<div style="border-bottom:2px solid #d7d7d7; margin:0 0 22px 0; clear:both"></div>
@@ -691,8 +705,6 @@ if(typeof sWOTrackPage=='function')sWOTrackPage();
 		<div class="footerSection">
 			<span>General Information: </span><br><br>
 			<a href="/delivery/">Delivery &amp; Store Collection</a><br>
-			<a href="/help/">Help</a><br>
-			
 			<a href="/topps-tiles-store-list.asp">Store List</a><br>
 			<a href="/appointments/">Book a free store consultation</a><br>
 			<a href="/topps-tiles-store-list.asp?early=true">Stores Opening Early</a><br>
@@ -706,7 +718,7 @@ if(typeof sWOTrackPage=='function')sWOTrackPage();
 			<a href="/contact_us/">Contact Us</a><br>
 			<a href="https://plus.google.com/107275170975318471177" rel="publisher">Find us on Google+</a><br>
 			<a href="/unbeatable_value/page1/">New Looks at Great Value</a><br>
-			<a href="/wysiwyg_page_hr.asp?page=79">Careers with Topps Tiles</a><br>
+			<a href="/careers/">Careers with Topps Tiles</a><br>
 			<a href="/comms-centre/decorating-tips-for-first-time-buyers/">Decorating Tips</a><br>
 			<a href="/comms-centre/infographic.asp">The UK's Attitude to DIY</a><br>
 			<a href="/media-centre/investors.asp">Investor's Section</a><br>
@@ -741,13 +753,9 @@ if(typeof sWOTrackPage=='function')sWOTrackPage();
 			All rights reserved |
 			Web Development by <a href="http://www.360ss.com">360</a>
 		</div>
-		Copyright © Topps Tiles 2014
+		Copyright © Topps Tiles 2015
 	</div>
 	<div style="clear:both"></div>
-
-    <!--JQUERY FOR NEW NAV-->
-    <script type="text/javascript" src="/js/jquery.hoverIntent.js"></script>
-    <script type="text/javascript" src="/js/navscripts_v2.js"></script>
 
 	<!-- ~~~~~~~~~~ Start of Google Analytics bottom-part script ~~~~~~~~~~ -->
 	<script type="text/javascript">
@@ -771,6 +779,10 @@ if(typeof sWOTrackPage=='function')sWOTrackPage();
 	</noscript>
 	<!-- ~~~~~~~~~~ End of Google Code for Sitewide Tag ~~~~~~~~~~ -->
 
+
+<!--JQUERY FOR NEW NAV-->
+<script type="text/javascript" src="/js/jquery.hoverIntent.js"></script>
+<script type="text/javascript" src="/js/navscripts_v2.js"></script>
 
 <script language="javascript" src="/js/visualizer_include.js"></script>
 
