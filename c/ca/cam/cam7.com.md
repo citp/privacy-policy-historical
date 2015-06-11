@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cam7.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120205201id_/http%3A//www.cam7.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cam7.com privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612001016id_/http%3A//www.cam7.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - cam7
 
