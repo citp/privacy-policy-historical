@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vertbaudet.co.uk privacy policy that was archived on 2014-07-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140707095617id_/http%3A//www.vertbaudet.co.uk/page/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vertbaudet.co.uk privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612003212id_/http%3A//www.vertbaudet.co.uk/page/privacy-policy.htm) for the most accurate reproduction.*
 
 # Vertbaudet Privacy Policy
 
@@ -42,7 +42,7 @@ Your name, date of birth, address, customer number, telephone number, e-mail add
 #### General Information
 
   * To confirm receipt of your order, process it and keep you informed of progress
-  * To approve, open and run any Credit Account you may have with us and to run any Credit Account you may have with other members of Redcats Group (including payment recovery and debtor tracing)
+  * To approve, open and run any Credit Account you may have with us and to run any Credit Account you may have with other members of La Redoute Group (including payment recovery and debtor tracing)
   * To keep you up to date with new services, facilities, special offers and promotions (further details below)
   * To enhance your shopping experience in the future by tailoring the site to meet your needs
   * To administer prize draws and competitions you may enter
@@ -56,28 +56,29 @@ We may also use the information you provide to perform a credit search. Before p
 
 
 
-If we perform a credit search, we will search the files of credit reference agencies who record the search whether or not credit is granted. This search may also include people with whom you are "financially linked" or your "associates". You are financially linked or associated with someone if you have applied for or hold joint credit agreements or accounts with that person. The search will be seen by other lenders who use the information to make credit decisions about you. We will use this information along with credit scoring methods to assess your application and to verify your identity. To prevent or detect fraud or to assist in verifying your identity we may also make searches of the records of other companies in the Cyrillus Vertbaudet Group. As part of the sale referred to in the first section of this policy, we have agreed with Redcats Group that they will continue to manage Vertbaudet credit agreements and accounts on our behalf for a period of time. Searches may also be made by Redcats Group on our behalf against records held by companies within Redcats Group, e.g. if you already have a credit agreement with another Redcats brand, such as La Redoute or Daxon. 
+If we perform a credit search, we will search the files of credit reference agencies who record the search whether or not credit is granted. This search may also include people with whom you are "financially linked" or your "associates". You are financially linked or associated with someone if you have applied for or hold joint credit agreements or accounts with that person. The search will be seen by other lenders who use the information to make credit decisions about you. We will use this information along with credit scoring methods to assess your application and to verify your identity. To prevent or detect fraud or to assist in verifying your identity we may also make searches of the records of other companies which were formerly members of Redcats Group and were sister companies of Redcats (Brands) Limited, e.g. La Redoute and Daxon. As part of the sale referred to in the first section of this policy, we have agreed with La Redoute Group that they will continue to manage Vertbaudet credit agreements and accounts on our behalf for a period of time. Searches may also be made by La Redoute Group on our behalf against records held by companies within La Redoute Group, e.g. if you already have a credit agreement with another brand, such as La Redoute or Daxon. 
 
 If we enter into a credit agreement with you, we will supply details of that agreement to the credit reference agencies as well as ongoing details of your account and how you manage it. If you do not repay on time or in full we will tell the credit reference agencies who will record details of the debt. All of that information will be seen by other organisations carrying out later searches and may be used by them to make decisions about whether or not to lend to you or those individuals who are financially linked or associated with you. The information may also be used for debt tracing and the prevention of money laundering.
 
 We, credit reference agencies and fraud prevention agencies may also use the records for statistical analysis about credit, insurance and fraud. We may pass information to financial and other organisations involved in fraud prevention to protect ourselves and our customers from theft and fraud. If you give us false or inaccurate information and we suspect fraud, we will record this.
 
-We may use your information held within Cyrillus Vertbaudet Group, including shopping habits, to run your Credit Account if you have one. We may make periodic searches of the records of Cyrillus Vertbaudet Group and Redcats Group companies, credit reference agencies and fraud prevention agencies to manage your account with us, to take decisions regarding credit (including whether to make credit available or to continue or extend existing credit). Those searches will not be available to other lenders for credit assessment purposes. If you require details of the credit reference agencies from whom we obtain and with whom we record information about you please [write to us](https://web.archive.org/contact.htm "contact us") at our Head Office address below or telephone our [Customer Care Team](https://web.archive.org/contact.htm "contact us") on the number given below.
+We may use your information held within Cyrillus Vertbaudet Group, including shopping habits, to run your Credit Account if you have one. We may make periodic searches of the records of Cyrillus Vertbaudet Group and La Redoute Group companies (La Redoute and Daxon as explained above), credit reference agencies and fraud prevention agencies to manage your account with us, to take decisions regarding credit (including whether to make credit available or to continue or extend existing credit). Those searches will not be available to other lenders for credit assessment purposes. If you require details of the credit reference agencies from whom we obtain and with whom we record information about you please [write to us](https://web.archive.org/contact.htm "contact us") at our Head Office address below or telephone our [Customer Care Team](https://web.archive.org/contact.htm "contact us").
 
 #### Marketing
 
 We may also use your information, including shopping habits, for marketing as set out below. If you do not wish to be contacted for marketing purposes, please see the section below headed ”How to unsubscribe from marketing”.
 
-  * We may contact you by mail, telephone, email or any other reasonable method in relation to products we offer for sale whether as Vertbaudet or as other brands we operate, e.g. Vertbaudet.
+  * We may contact you by mail, telephone, email or any other reasonable method in relation to products we offer for sale whether as Vertbaudet or as other brands we operate.
   * We may contact you by mail, telephone, email or any other reasonable method to introduce products offered for sale by other Cyrillus Vertbaudet Group members and carefully selected third parties.
   * We may share your details with other members of the Cyrillus Vertbaudet Group and those members may contact you by mail, telephone, email or any other reasonable method.
+  * We may share your details with our former sister companies, La Redoute and Daxon.
   * We may share your details with carefully selected third parties and those organisations may contact you by mail. We will not allow such organisations to contact you by email or telephone unless you have given us express permission for us to do so.
 
 
 
 ## How to unsubscribe from marketing
 
-If you decide at any time that you do not wish to be contacted for marketing purposes by Vertbaudet or you decide that you do not wish Vertbaudet to share information for marketing purposes with other brands we operate from time to time, with other members of the Cyrillus Vertbaudet Group or with carefully selected third parties, you can unsubscribe easily by following the instructions below.
+If you decide at any time that you do not wish to be contacted for marketing purposes by Vertbaudet or you decide that you do not wish Vertbaudet to share information for marketing purposes with other brands we operate from time to time, with other members of the Cyrillus Vertbaudet Group, with La Redoute and Daxon, or with carefully selected third parties, you can unsubscribe easily by following the instructions below.
 
   * #### • Marketing from Vertbaudet, our other brands or other Cyrillus Vertbaudet Group members
 
@@ -115,7 +116,7 @@ We are required by the Data Protection Act 1998 to follow strict security proced
 
 ## Changes to our Privacy Policy
 
-We keep our Policy under regular review and we will place any updates on this webpage. This Policy was last updated on 4 July 2013.
+We keep our Policy under regular review and we will place any updates on this webpage. This Policy was last updated on June 2014.
 
 ## Head Office Contact Details
 
