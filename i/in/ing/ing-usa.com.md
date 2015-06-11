@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ing-usa.com privacy policy that was archived on 2014-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141221105835id_/http%3A//voya.com/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ing-usa.com privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611111810id_/http%3A//voya.com/privacy-notice) for the most accurate reproduction.*
 
 # Privacy Notice | Voya Financial
 
@@ -96,12 +96,12 @@ Your choices will apply to everyone on your account.
  **Affiliates**  
 Companies related by common ownership or control. They can be financial and nonfinancial companies.
 
-  * Our affiliates include companies with the Voya name; financial companies such as ReliaStar Life Insurance Company; and nonfinancial companies such as Voya Services Company.
+  * Our affiliates include companies with the Voya name; financial companies such as Voya Retirement Insurance and Annuity Company; and nonfinancial companies such as Voya Services Company.
 
 
 
 **Nonaffiliates**  
-Companies not related by common ownership of control. They can be financial and nonfinancial companies.
+Companies not related by common ownership or control. They can be financial and nonfinancial companies.
 
   * Voya does not share with nonaffiliates so they can market to you.
 
@@ -116,10 +116,10 @@ A formal agreement between nonaffiliated financial companies that together marke
 
 ### Other important information
 
-We will comply with more restrictive state laws to the extent that they apply. If you live in an "opt-in" state such as Alaska, California or Vermont, we will obtain your affirmative consent to share your personal information with nonaffiliates who do not currently assist us in servicing your account or conducting our business. If you are a participant in a retirement plan sponsored by your current or former employer, we will not share your personal information to the extent prohibited by your plan sponsor.
+We will comply with more restrictive state laws to the extent that they apply. If you live in an "opt-in" state such as California or Vermont, we will obtain your affirmative consent to share your personal information with nonaffiliates who do not currently assist us in servicing your account or conducting our business. If you are a participant in a retirement plan sponsored by your current or former employer, we will not share your personal information to the extent prohibited by your plan sponsor.
 
 ### Voya affiliates
 
 This notice is provided by: Directed Services LLC; Midwestern United Life Insurance Company; ReliaStar Life Insurance Company; ReliaStar Life Insurance Company of New York; Security Life Assignment Corp.; Security Life of Denver Insurance Company; Voya America Equities, Inc.; Voya Capital Corporation, LLC; Voya Financial, Inc.; Voya Financial Partners, LLC; Voya Funds; Voya Funds Services, LLC; Voya Institutional Plan Services, LLC; Voya Institutional Trust Company; Voya Insurance and Annuity Company; Voya Investments, LLC; Voya Investments Distributor, LLC; Voya Retirement Advisors, LLC; Voya Retirement Insurance and Annuity Company.
 
-Note: If you are a client of Voya Financial Advisors, Inc., [click here](https://www2.ing-usa.com/stellent/public/168057.pdf) to view the Privacy Notice.
+Note: If you are a client of Voya Financial Advisors, Inc., [click here](https://professionals.voya.com/stellent/public/168057.pdf) to view the Privacy Notice.
