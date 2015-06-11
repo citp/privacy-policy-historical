@@ -1,10 +1,11 @@
-> *The following text is extracted and transformed from the brookdalecc.edu privacy policy that was archived on 2014-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141207044650id_/http%3A//www.brookdalecc.edu/about/website-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brookdalecc.edu privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611145231id_/http%3A//www.brookdalecc.edu/about/website-privacy) for the most accurate reproduction.*
 
-# Website Privacy Policy | Brookdale Community CollegeBrookdale Community College
+# Website Privacy Policy - Brookdale Community CollegeBrookdale Community College
 
 ## Brookdale Community College Web Privacy Guidelines
 
-First and foremost, Brookdale Community College respects the privacy rights of our online visitors and we recognize the importance of information collected from you. We have developed these guidelines so that you can understand the choices you can make to preserve your privacy when browsing our site. Please read the following carefully. When you use our site, you acknowledge that you have read, understood, and agree to be bound by this Privacy Policy.
+First and foremost, Brookdale Community College respects the privacy rights of our online visitors and we recognize the importance of information collected from you. We have developed these guidelines so that you can understand the choices you can make to preserve your privacy when browsing our site. Please read the following carefully. When you use our  
+site, you acknowledge that you have read, understood, and agree to be bound by this Privacy Policy.
 
 ### Information Collection and Use
 
