@@ -1,0 +1,721 @@
+<!--The following is the downloaded HTML source of the wikileaf.com privacy policy that was archived on 2015-06-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150611043225id_/http%3A//www.wikileaf.com/privacy-policy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html lang="en"><!--<![endif]--><script type="text/javascript" async="" src="//assets.mantisadnetwork.com/mantodea.min.js"></script><head>
+<meta charset="utf-8">
+<meta name="SKYPE_TOOLBAR" content="SKYPE_TOOLBAR_PARSER_COMPATIBLE">
+<meta name="p:domain_verify" content="278cf661f8767c4a3d7e1b2fb25575fb">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Wikileaf</title>
+	<meta name="description" content="Wikileaf">
+	<meta name="keywords" content="Wikileaf"><!--css included here-->
+<link rel="shortcut icon" type="image/x-icon" href="http://www.wikileaf.com/favicon.ico">
+<link rel="stylesheet" media="all" href="http://www.wikileaf.com/css/fonts.css">
+<link rel="stylesheet" media="all" href="http://www.wikileaf.com/css/style.css">
+<link rel="stylesheet" media="all" href="http://www.wikileaf.com/css/print.css">
+<!--css for custom dropdown-->
+<link rel="stylesheet" media="all" href="http://www.wikileaf.com/css/selectbox.css">
+<!--css for image slider-->
+<link rel="stylesheet" media="all" href="http://www.wikileaf.com/css/jquery.bxslider.css">
+<!--css for range slider-->
+<link rel="stylesheet" media="all" href="http://www.wikileaf.com/css/jquery.nouislider.min.css">
+<!--css for mobile menu-->
+<link rel="stylesheet" type="text/css" href="http://www.wikileaf.com/css/mobilemenu.css">
+<!--css for easy responsive tabs-->
+<link rel="stylesheet" type="text/css" href="http://www.wikileaf.com/css/easy-responsive-tabs.css">
+<!--css for tabs in  strain page-->
+<link rel="stylesheet" type="text/css" href="http://www.wikileaf.com/css/coda-slider.css">
+<link rel="stylesheet" type="text/css" href="http://www.wikileaf.com/css/chart.css">
+<!--css for mobile menu-->
+<link rel="stylesheet" type="text/css" href="http://www.wikileaf.com/css/component.css">
+<!--css for strin slider-->
+<link rel="stylesheet" type="text/css" href="http://www.wikileaf.com/css/elastislide.css">
+<!--responsive css-->
+<link rel="stylesheet" media="all" href="http://www.wikileaf.com/css/responsive.css">
+<!--google font included here-->
+<link href="http://fonts.googleapis.com/css?family=Lato:100,300,400,700,900,100italic,300italic,400italic,700italic,900italic" rel="stylesheet" type="text/css">
+<!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+<!--[if lt IE 9]>
+  <script src="http://www.wikileaf.com/js/html5shiv.js"></script>
+  <script src="http://www.wikileaf.com/js/respond.min.js"></script>
+<![endif]-->
+<!--common jquery file-->
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js#xfbml=1&amp;appId=482652381797029&amp;version=v2.0"></script><script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="http://www.wikileaf.com/js/modernizr-2.7.1.min.js"></script>
+<!--share this script-->
+<!--map script for dispensary listing page-->
+<!--map script for dispensary detail page-->
+<script type="text/javascript">
+function initialize(){
+	if(navigator.geolocation) {
+    	navigator.geolocation.getCurrentPosition(function(position) {
+		$("#user_lat").val(position.coords.latitude);
+		$("#user_long").val(position.coords.longitude);
+		/*$("#user_lat").val('47.661284');
+		$("#user_long").val('-122.350324');*/
+    	});
+  	}
+}
+function initialize_strains(){
+	if(navigator.geolocation) {
+    	navigator.geolocation.getCurrentPosition(function(position) {
+		/*$.post("http://www.wikileaf.com/aja_dispdata.php", { user_lat: '47.661284',user_long: '-122.350324',sid: $("#sid").val()},*/
+		$.post("http://www.wikileaf.com/aja_dispdata.php", { user_lat: position.coords.latitude,user_long: position.coords.longitude},
+		function(data){
+			$("#main-section").append(data);
+			$( '#carousel' ).elastislide( {
+				minItems : 2
+			});
+			$(".head-strip").click(function(e) {
+				if($(this).hasClass('close')){
+					$(this).removeClass('close').addClass('open');
+					$('.fixed-mob-bar').show();
+					$('body').css('overflow-y','hidden');
+				}else{
+					$(this).removeClass('open').addClass('close');
+					$('.fixed-mob-bar').hide();
+					$('body').css('overflow-y','auto');
+				}
+			});
+			$(".fixed-close a").click(function(e) {
+				$(".fixed-bar").hide();
+				$(".head-strip-desktop").show();
+			});
+			$(".head-strip-desktop").click(function(e) {
+                $(".fixed-bar").show();
+				$(".head-strip-desktop").hide();
+            });
+    	});
+		});
+  	}
+}
+</script>
+</head>
+<body>
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&appId=482652381797029&version=v2.0";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-39805017-1']);
+  _gaq.push(['_trackPageview']);
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+<div class="wrapper">
+	<!--header starts here-->
+	<header>
+    	<div class="header-strip ">
+        	<div class="main cf">
+            	<div class="disp-link">
+                                <a href="http://www.recreational.wikileaf.com/">Click here</a> to visit our Recreational marketplace.
+                                </div>
+            	<div class="sign-link">For Dispensaries&nbsp;:&nbsp;<a href="http://www.wikileaf.com/admin/">Login</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.wikileaf.com/signup/">Sign Up</a></div>
+            </div>
+        </div>
+		<div id="header-main" class="">
+			<div class="main cf">
+				<div class="logobox">
+					                    <a href="http://www.wikileaf.com/" title="wikileaf"><img src="http://www.wikileaf.com/images/logo.png" alt="wikileaf"></a>
+                    				</div>
+				<div class="menu ">
+					<ul>
+						<li><a href="http://www.wikileaf.com/strains/" title="Strains">Strains</a></li>
+						<li id="dispensaries"><a href="javascript:void(0);" title="Dispensaries">Dispensaries</a></li>
+						<!--<li><a href="#" title="Blog">Blog</a></li>
+						<li><a href="#" title="Sign Up">Sign Up</a></li>-->
+					</ul>
+				</div>
+				<!--mobile menu code starts here-->
+				<div class="wikimobmenu">
+            		<div id="dl-menu" class="dl-menuwrapper">
+						<button class="dl-trigger">Open Menu</button>
+						<ul class="dl-menu">
+                        	<li><a href="http://www.wikileaf.com/strains/" title="Strains">Strains</a></li>
+							<li><a href="#" title="Dispensaries">Dispensaries</a>
+								<ul class="dl-submenu">
+                                										<li><a href="#">Arizona</a>
+										<ul class="dl-submenu">
+																						<li><a href="http://www.wikileaf.com/dispensary/in/arizona/kingman-bullhead-and-havasu-city/">Kingman Bullhead and Havasu City</a></li>
+																						<li><a href="http://www.wikileaf.com/dispensary/in/arizona/mesa-gilbert-and-chandler/">Mesa Gilbert and Chandler</a></li>
+																						<li><a href="http://www.wikileaf.com/dispensary/in/arizona/phoenix/">Phoenix</a></li>
+																						<li><a href="http://www.wikileaf.com/dispensary/in/arizona/tucson/">Tucson</a></li>
+																					</ul>
+									</li>
+																		<li><a href="#">California</a>
+										<ul class="dl-submenu">
+																						<li><a href="http://www.wikileaf.com/dispensary/in/california/alameda-county/">Alameda County</a></li>
+																						<li><a href="http://www.wikileaf.com/dispensary/in/california/aliso-viejo/">Aliso Viejo</a></li>
+																						<li><a href="http://www.wikileaf.com/dispensary/in/california/anaheim/">Anaheim</a></li>
+																						<li><a href="http://www.wikileaf.com/dispensary/in/california/antioch/">Antioch</a></li>
+																						<li><a href="http://www.wikileaf.com/dispensary/in/california/bakersfield/">Bakersfield</a></li>
+																						<li><a href="http://www.wikileaf.com/dispensary/in/california/berkeley/">Berkeley</a></li>
+																						<li><a href="http://www.wikileaf.com/dispensary/in/california/brea/">Brea</a></li>
+																						<li><a href="http://www.wikileaf.com/dispensary/in/california/buena-park/">Buena Park</a></li>
+																						<li><a href="http://www.wikileaf.com/dispensary/in/california/cameron-park/">Cameron Park</a></li>
+																						<li><a href="http://www.wikileaf.com/dispensary/in/california/carlsbad/">Carlsbad</a></li>
+																						<li><a href="http://www.wikileaf.com/dispensary/in/california/carmichael/">Carmichael</a></li>
+																						<li><a href="http://www.wikileaf.com/dispensary/in/california/chico/">Chico</a></li>
+																						<li><a href="http://www.wikileaf.com/dispensary/in/california/chula-vista/">Chula Vista</a></li>
+																						<li><a href="http://www.wikileaf.com/dispensary/in/california/clairemont/">Clairemont</a></li>
+																						<li><a href="http://www.wikileaf.com/dispensary/in/california/compton/">Compton</a></li>
+																						<li><a href="http://www.wikileaf.com/dispensary/in/california/concord/">Concord</a></li>
+																						<li><a href="http://www.wikileaf.com/dispensary/in/california/costa-mesa/">Costa Mesa</a></li>
+																						<li><a href="http://www.wikileaf.com/dispensary/in/california/culver-city/">Culver City</a></li>
+																						<li><a href="http://www.wikileaf.com/dispensary/in/california/cypress/">Cypress</a></li>
+																						<li><a href="http://www.wikileaf.com/dispensary/in/california/dana-point/">Dana Point</a></li>
+																						<li><a href="http://www.wikileaf.com/dispensary/in/california/del-mar/">Del Mar</a></li>
+																						<li><a href="http://www.wikileaf.com/dispensary/in/california/downey/">Downey</a></li>
+																						<li><a href="http://www.wikileaf.com/dispensary/in/california/el-cajon/">El Cajon</a></li>
+																						<li><a href="http://www.wikileaf.com/dispensary/in/california/encinitas/">Encinitas</a></li>
+																						<li><a href="http://www.wikileaf.com/dispensary/in/california/escondido/">Escondido</a></li>
+																						<li><a href="http://www.wikileaf.com/dispensary/in/california/fallbrook/">Fallbrook</a></li>
+																						<li><a href="http://www.wikileaf.com/dispensary/in/california/fountain-valley/">Fountain Valley</a></li>
+																						<li><a href="http://www.wikileaf.com/dispensary/in/california/fullerton/">Fullerton</a></li>
+																						<li><a href="http://www.wikileaf.com/dispensary/in/california/garden-grove/">Garden Grove</a></li>
+																						<li><a href="http://www.wikileaf.com/dispensary/in/california/hacienda-heights/">Hacienda Heights</a></li>
+																						<li><a href="http://www.wikileaf.com/dispensary/in/california/hollywood/">Hollywood</a></li>
+																						<li><a href="http://www.wikileaf.com/dispensary/in/california/huntington-beach/">Huntington Beach</a></li>
+																						<li><a href="http://www.wikileaf.com/dispensary/in/california/irvine/">Irvine</a></li>
+																						<li><a href="http://www.wikileaf.com/dispensary/in/california/la-habra/">La Habra</a></li>
+																						<li><a href="http://www.wikileaf.com/dispensary/in/california/la-jolla/">La Jolla</a></li>
+																						<li><a href="http://www.wikileaf.com/dispensary/in/california/la-mesa/">La Mesa</a></li>
+																						<li><a href="http://www.wikileaf.com/dispensary/in/california/laguna-beach/">Laguna Beach</a></li>
+																						<li><a href="http://www.wikileaf.com/dispensary/in/california/laguna-hills/">Laguna Hills</a></li>
+																						<li><a href="http://www.wikileaf.com/dispensary/in/california/laguna-niguel/">Laguna Niguel</a></li>
+																						<li><a href="http://www.wikileaf.com/dispensary/in/california/lake-elsinore/">Lake Elsinore</a></li>
+																						<li><a href="http://www.wikileaf.com/dispensary/in/california/lake-forest/">Lake Forest</a></li>
+																						<li><a href="http://www.wikileaf.com/dispensary/in/california/lake-tahoe/">Lake Tahoe</a></li>
+																						<li><a href="http://www.wikileaf.com/dispensary/in/california/long-beach/">Long Beach</a></li>
+																						<li><a href="http://www.wikileaf.com/dispensary/in/california/los-angeles/">Los Angeles</a></li>
+																						<li><a href="http://www.wikileaf.com/dispensary/in/california/mendocino/">Mendocino</a></li>
+																						<li><a href="http://www.wikileaf.com/dispensary/in/california/mission-hills/">Mission Hills</a></li>
+																						<li><a href="http://www.wikileaf.com/dispensary/in/california/mission-valley/">Mission Valley</a></li>
+																						<li><a href="http://www.wikileaf.com/dispensary/in/california/mission-viejo/">Mission Viejo</a></li>
+																						<li><a href="http://www.wikileaf.com/dispensary/in/california/monterey/">Monterey</a></li>
+																						<li><a href="http://www.wikileaf.com/dispensary/in/california/mountain-view/">Mountain View</a></li>
+																						<li><a href="http://www.wikileaf.com/dispensary/in/california/newport-beach/">Newport Beach</a></li>
+																						<li><a href="http://www.wikileaf.com/dispensary/in/california/north-hills/">North Hills</a></li>
+																						<li><a href="http://www.wikileaf.com/dispensary/in/california/north-hollywood/">North Hollywood</a></li>
+																						<li><a href="http://www.wikileaf.com/dispensary/in/california/north-inland/">North Inland</a></li>
+																						<li><a href="http://www.wikileaf.com/dispensary/in/california/oakland/">Oakland</a></li>
+																						<li><a href="http://www.wikileaf.com/dispensary/in/california/ocean-beach/">Ocean Beach</a></li>
+																						<li><a href="http://www.wikileaf.com/dispensary/in/california/oceanside/">Oceanside</a></li>
+																						<li><a href="http://www.wikileaf.com/dispensary/in/california/orange/">Orange</a></li>
+																						<li><a href="http://www.wikileaf.com/dispensary/in/california/pacific-beach/">Pacific Beach</a></li>
+																						<li><a href="http://www.wikileaf.com/dispensary/in/california/pacoima/">Pacoima</a></li>
+																						<li><a href="http://www.wikileaf.com/dispensary/in/california/palm-springs/">Palm Springs</a></li>
+																						<li><a href="http://www.wikileaf.com/dispensary/in/california/palmdale/">Palmdale</a></li>
+																						<li><a href="http://www.wikileaf.com/dispensary/in/california/panorama-city/">Panorama City</a></li>
+																						<li><a href="http://www.wikileaf.com/dispensary/in/california/pearblossom/">Pearblossom</a></li>
+																						<li><a href="http://www.wikileaf.com/dispensary/in/california/playa-del-rey/">Playa Del Rey</a></li>
+																						<li><a href="http://www.wikileaf.com/dispensary/in/california/point-loma/">Point Loma</a></li>
+																						<li><a href="http://www.wikileaf.com/dispensary/in/california/poway/">Poway</a></li>
+																						<li><a href="http://www.wikileaf.com/dispensary/in/california/rancho-bernardo/">Rancho Bernardo</a></li>
+																						<li><a href="http://www.wikileaf.com/dispensary/in/california/reseda/">Reseda</a></li>
+																						<li><a href="http://www.wikileaf.com/dispensary/in/california/rocklin/">Rocklin</a></li>
+																						<li><a href="http://www.wikileaf.com/dispensary/in/california/rosamond/">Rosamond</a></li>
+																						<li><a href="http://www.wikileaf.com/dispensary/in/california/roseville/">Roseville</a></li>
+																						<li><a href="http://www.wikileaf.com/dispensary/in/california/sacramento/">Sacramento</a></li>
+																						<li><a href="http://www.wikileaf.com/dispensary/in/california/san-clemente/">San Clemente</a></li>
+																						<li><a href="http://www.wikileaf.com/dispensary/in/california/san-diego/">San Diego</a></li>
+																						<li><a href="http://www.wikileaf.com/dispensary/in/california/san-francisco/">San Francisco</a></li>
+																						<li><a href="http://www.wikileaf.com/dispensary/in/california/san-jose/">San Jose</a></li>
+																						<li><a href="http://www.wikileaf.com/dispensary/in/california/san-marcos/">San Marcos</a></li>
+																						<li><a href="http://www.wikileaf.com/dispensary/in/california/san-pedro/">San Pedro</a></li>
+																						<li><a href="http://www.wikileaf.com/dispensary/in/california/san-rafael/">San Rafael</a></li>
+																						<li><a href="http://www.wikileaf.com/dispensary/in/california/santa-ana/">Santa Ana</a></li>
+																						<li><a href="http://www.wikileaf.com/dispensary/in/california/santa-barbara/">Santa Barbara</a></li>
+																						<li><a href="http://www.wikileaf.com/dispensary/in/california/shingle-springs/">Shingle Springs</a></li>
+																						<li><a href="http://www.wikileaf.com/dispensary/in/california/solana-beach/">Solana Beach</a></li>
+																						<li><a href="http://www.wikileaf.com/dispensary/in/california/sonoma/">Sonoma</a></li>
+																						<li><a href="http://www.wikileaf.com/dispensary/in/california/sun-valley/">Sun Valley</a></li>
+																						<li><a href="http://www.wikileaf.com/dispensary/in/california/sunland/">Sunland</a></li>
+																						<li><a href="http://www.wikileaf.com/dispensary/in/california/sylmar/">Sylmar</a></li>
+																						<li><a href="http://www.wikileaf.com/dispensary/in/california/toluca-lake/">Toluca Lake</a></li>
+																						<li><a href="http://www.wikileaf.com/dispensary/in/california/torrance/">Torrance</a></li>
+																						<li><a href="http://www.wikileaf.com/dispensary/in/california/tujunga/">Tujunga</a></li>
+																						<li><a href="http://www.wikileaf.com/dispensary/in/california/tustin/">Tustin</a></li>
+																						<li><a href="http://www.wikileaf.com/dispensary/in/california/vallejo/">Vallejo</a></li>
+																						<li><a href="http://www.wikileaf.com/dispensary/in/california/van-nuys/">Van Nuys</a></li>
+																						<li><a href="http://www.wikileaf.com/dispensary/in/california/venice/">Venice</a></li>
+																						<li><a href="http://www.wikileaf.com/dispensary/in/california/visalia/">Visalia</a></li>
+																						<li><a href="http://www.wikileaf.com/dispensary/in/california/vista/">Vista</a></li>
+																						<li><a href="http://www.wikileaf.com/dispensary/in/california/walnut-creek/">Walnut Creek</a></li>
+																						<li><a href="http://www.wikileaf.com/dispensary/in/california/watts/">Watts</a></li>
+																						<li><a href="http://www.wikileaf.com/dispensary/in/california/west-hollywood/">West Hollywood</a></li>
+																						<li><a href="http://www.wikileaf.com/dispensary/in/california/west-los-angeles/">West Los Angeles</a></li>
+																						<li><a href="http://www.wikileaf.com/dispensary/in/california/wilmington/">Wilmington</a></li>
+																					</ul>
+									</li>
+																		<li><a href="#">Colorado</a>
+										<ul class="dl-submenu">
+																						<li><a href="http://www.wikileaf.com/dispensary/in/colorado/colorado-springs/">Colorado Springs</a></li>
+																						<li><a href="http://www.wikileaf.com/dispensary/in/colorado/denver/">Denver</a></li>
+																						<li><a href="http://www.wikileaf.com/dispensary/in/colorado/lakewood/">Lakewood</a></li>
+																						<li><a href="http://www.wikileaf.com/dispensary/in/colorado/northglenn/">Northglenn</a></li>
+																					</ul>
+									</li>
+																		<li><a href="#">Montana</a>
+										<ul class="dl-submenu">
+																						<li><a href="http://www.wikileaf.com/dispensary/in/montana/bozeman/">Bozeman</a></li>
+																					</ul>
+									</li>
+																		<li><a href="#">Nevada</a>
+										<ul class="dl-submenu">
+																						<li><a href="http://www.wikileaf.com/dispensary/in/nevada/las-vegas/">Las Vegas</a></li>
+																					</ul>
+									</li>
+																		<li><a href="#">Oregon</a>
+										<ul class="dl-submenu">
+																						<li><a href="http://www.wikileaf.com/dispensary/in/oregon/ashland/">Ashland</a></li>
+																						<li><a href="http://www.wikileaf.com/dispensary/in/oregon/beaverton/">Beaverton</a></li>
+																						<li><a href="http://www.wikileaf.com/dispensary/in/oregon/bend/">Bend</a></li>
+																						<li><a href="http://www.wikileaf.com/dispensary/in/oregon/corvallis/">Corvallis</a></li>
+																						<li><a href="http://www.wikileaf.com/dispensary/in/oregon/eugene/">Eugene</a></li>
+																						<li><a href="http://www.wikileaf.com/dispensary/in/oregon/gladstone/">Gladstone</a></li>
+																						<li><a href="http://www.wikileaf.com/dispensary/in/oregon/lincoln-city/">Lincoln City</a></li>
+																						<li><a href="http://www.wikileaf.com/dispensary/in/oregon/oregon-city/">Oregon City</a></li>
+																						<li><a href="http://www.wikileaf.com/dispensary/in/oregon/portland/">Portland</a></li>
+																						<li><a href="http://www.wikileaf.com/dispensary/in/oregon/roseburg/">Roseburg</a></li>
+																						<li><a href="http://www.wikileaf.com/dispensary/in/oregon/salem/">Salem</a></li>
+																						<li><a href="http://www.wikileaf.com/dispensary/in/oregon/seaside/">Seaside</a></li>
+																						<li><a href="http://www.wikileaf.com/dispensary/in/oregon/springfield/">Springfield</a></li>
+																					</ul>
+									</li>
+																		<li><a href="#">Washington</a>
+										<ul class="dl-submenu">
+																						<li><a href="http://www.wikileaf.com/dispensary/in/washington/bellingham/">Bellingham</a></li>
+																						<li><a href="http://www.wikileaf.com/dispensary/in/washington/kitsap-county/">Kitsap County</a></li>
+																						<li><a href="http://www.wikileaf.com/dispensary/in/washington/north-seattle/">North Seattle</a></li>
+																						<li><a href="http://www.wikileaf.com/dispensary/in/washington/olympia/">Olympia</a></li>
+																						<li><a href="http://www.wikileaf.com/dispensary/in/washington/puyallup/">Puyallup</a></li>
+																						<li><a href="http://www.wikileaf.com/dispensary/in/washington/seattle/">Seattle</a></li>
+																						<li><a href="http://www.wikileaf.com/dispensary/in/washington/seattle-central/">Seattle Central</a></li>
+																						<li><a href="http://www.wikileaf.com/dispensary/in/washington/shoreline/">Shoreline</a></li>
+																						<li><a href="http://www.wikileaf.com/dispensary/in/washington/south-seattle/">South Seattle</a></li>
+																						<li><a href="http://www.wikileaf.com/dispensary/in/washington/spokane/">Spokane</a></li>
+																						<li><a href="http://www.wikileaf.com/dispensary/in/washington/tacoma/">Tacoma</a></li>
+																						<li><a href="http://www.wikileaf.com/dispensary/in/washington/vancouver/">Vancouver</a></li>
+																					</ul>
+									</li>
+																	</ul>
+							</li>
+							                            <!--<li><a href="http://recreational.wikileaf.org/" title="Recreational">Recreational</a></li>-->
+                                                        <li><a href="http://www.wikileaf.com/admin/" title="Log In">Log In</a></li>
+							<li><a href="http://www.wikileaf.com/signup/" title="Sign Up">Sign Up</a></li>
+						</ul>
+					</div>
+            	</div>
+				<script src="http://www.wikileaf.com/js/jquery.dlmenu.js"></script>
+				<script>
+					$(function() {
+						$( '#dl-menu' ).dlmenu();
+					});
+				</script>
+				<!--mobile menu code ends here-->
+				<div class="search cf">
+					<div class="search-input">
+						<label></label><input type="text" name="txt_search" id="txt_search" placeholder="Search" onkeyup="getinnovatorname('http://www.wikileaf.com',0);">
+                        <div id="autosuggest2" class="autosuggest"></div>
+					</div>
+					<div class="search-btn">
+						<input type="button" name="btn-search" value="&nbsp;">
+					</div>
+				</div>
+				<!--megha menu code starts here-->
+				<div class="bigmenu ">
+					<div class="bigmenutop">
+						<ul>
+														<li><a href="#">Arizona</a>
+								<div class="bigbottommenu">
+									<ul>
+																				<li><a href="http://www.wikileaf.com/dispensary/in/arizona/kingman-bullhead-and-havasu-city/">Kingman Bullhead and Havasu City</a></li>
+																				<li><a href="http://www.wikileaf.com/dispensary/in/arizona/mesa-gilbert-and-chandler/">Mesa Gilbert and Chandler</a></li>
+																				<li><a href="http://www.wikileaf.com/dispensary/in/arizona/phoenix/">Phoenix</a></li>
+																				<li><a href="http://www.wikileaf.com/dispensary/in/arizona/tucson/">Tucson</a></li>
+																			</ul>
+								</div>
+							</li>
+														<li><a href="#">California</a>
+								<div class="bigbottommenu">
+									<ul>
+																				<li><a href="http://www.wikileaf.com/dispensary/in/california/alameda-county/">Alameda County</a></li>
+																				<li><a href="http://www.wikileaf.com/dispensary/in/california/aliso-viejo/">Aliso Viejo</a></li>
+																				<li><a href="http://www.wikileaf.com/dispensary/in/california/anaheim/">Anaheim</a></li>
+																				<li><a href="http://www.wikileaf.com/dispensary/in/california/antioch/">Antioch</a></li>
+																				<li><a href="http://www.wikileaf.com/dispensary/in/california/bakersfield/">Bakersfield</a></li>
+																				<li><a href="http://www.wikileaf.com/dispensary/in/california/berkeley/">Berkeley</a></li>
+																				<li><a href="http://www.wikileaf.com/dispensary/in/california/brea/">Brea</a></li>
+																				<li><a href="http://www.wikileaf.com/dispensary/in/california/buena-park/">Buena Park</a></li>
+																				<li><a href="http://www.wikileaf.com/dispensary/in/california/cameron-park/">Cameron Park</a></li>
+																				<li><a href="http://www.wikileaf.com/dispensary/in/california/carlsbad/">Carlsbad</a></li>
+																				<li><a href="http://www.wikileaf.com/dispensary/in/california/carmichael/">Carmichael</a></li>
+																				<li><a href="http://www.wikileaf.com/dispensary/in/california/chico/">Chico</a></li>
+																				<li><a href="http://www.wikileaf.com/dispensary/in/california/chula-vista/">Chula Vista</a></li>
+																				<li><a href="http://www.wikileaf.com/dispensary/in/california/clairemont/">Clairemont</a></li>
+																				<li><a href="http://www.wikileaf.com/dispensary/in/california/compton/">Compton</a></li>
+																				<li><a href="http://www.wikileaf.com/dispensary/in/california/concord/">Concord</a></li>
+																				<li><a href="http://www.wikileaf.com/dispensary/in/california/costa-mesa/">Costa Mesa</a></li>
+																				<li><a href="http://www.wikileaf.com/dispensary/in/california/culver-city/">Culver City</a></li>
+																				<li><a href="http://www.wikileaf.com/dispensary/in/california/cypress/">Cypress</a></li>
+																				<li><a href="http://www.wikileaf.com/dispensary/in/california/dana-point/">Dana Point</a></li>
+																				<li><a href="http://www.wikileaf.com/dispensary/in/california/del-mar/">Del Mar</a></li>
+																				<li><a href="http://www.wikileaf.com/dispensary/in/california/downey/">Downey</a></li>
+																				<li><a href="http://www.wikileaf.com/dispensary/in/california/el-cajon/">El Cajon</a></li>
+																				<li><a href="http://www.wikileaf.com/dispensary/in/california/encinitas/">Encinitas</a></li>
+																				<li><a href="http://www.wikileaf.com/dispensary/in/california/escondido/">Escondido</a></li>
+																				<li><a href="http://www.wikileaf.com/dispensary/in/california/fallbrook/">Fallbrook</a></li>
+																				<li><a href="http://www.wikileaf.com/dispensary/in/california/fountain-valley/">Fountain Valley</a></li>
+																				<li><a href="http://www.wikileaf.com/dispensary/in/california/fullerton/">Fullerton</a></li>
+																				<li><a href="http://www.wikileaf.com/dispensary/in/california/garden-grove/">Garden Grove</a></li>
+																				<li><a href="http://www.wikileaf.com/dispensary/in/california/hacienda-heights/">Hacienda Heights</a></li>
+																				<li><a href="http://www.wikileaf.com/dispensary/in/california/hollywood/">Hollywood</a></li>
+																				<li><a href="http://www.wikileaf.com/dispensary/in/california/huntington-beach/">Huntington Beach</a></li>
+																				<li><a href="http://www.wikileaf.com/dispensary/in/california/irvine/">Irvine</a></li>
+																				<li><a href="http://www.wikileaf.com/dispensary/in/california/la-habra/">La Habra</a></li>
+																				<li><a href="http://www.wikileaf.com/dispensary/in/california/la-jolla/">La Jolla</a></li>
+																				<li><a href="http://www.wikileaf.com/dispensary/in/california/la-mesa/">La Mesa</a></li>
+																				<li><a href="http://www.wikileaf.com/dispensary/in/california/laguna-beach/">Laguna Beach</a></li>
+																				<li><a href="http://www.wikileaf.com/dispensary/in/california/laguna-hills/">Laguna Hills</a></li>
+																				<li><a href="http://www.wikileaf.com/dispensary/in/california/laguna-niguel/">Laguna Niguel</a></li>
+																				<li><a href="http://www.wikileaf.com/dispensary/in/california/lake-elsinore/">Lake Elsinore</a></li>
+																				<li><a href="http://www.wikileaf.com/dispensary/in/california/lake-forest/">Lake Forest</a></li>
+																				<li><a href="http://www.wikileaf.com/dispensary/in/california/lake-tahoe/">Lake Tahoe</a></li>
+																				<li><a href="http://www.wikileaf.com/dispensary/in/california/long-beach/">Long Beach</a></li>
+																				<li><a href="http://www.wikileaf.com/dispensary/in/california/los-angeles/">Los Angeles</a></li>
+																				<li><a href="http://www.wikileaf.com/dispensary/in/california/mendocino/">Mendocino</a></li>
+																				<li><a href="http://www.wikileaf.com/dispensary/in/california/mission-hills/">Mission Hills</a></li>
+																				<li><a href="http://www.wikileaf.com/dispensary/in/california/mission-valley/">Mission Valley</a></li>
+																				<li><a href="http://www.wikileaf.com/dispensary/in/california/mission-viejo/">Mission Viejo</a></li>
+																				<li><a href="http://www.wikileaf.com/dispensary/in/california/monterey/">Monterey</a></li>
+																				<li><a href="http://www.wikileaf.com/dispensary/in/california/mountain-view/">Mountain View</a></li>
+																				<li><a href="http://www.wikileaf.com/dispensary/in/california/newport-beach/">Newport Beach</a></li>
+																				<li><a href="http://www.wikileaf.com/dispensary/in/california/north-hills/">North Hills</a></li>
+																				<li><a href="http://www.wikileaf.com/dispensary/in/california/north-hollywood/">North Hollywood</a></li>
+																				<li><a href="http://www.wikileaf.com/dispensary/in/california/north-inland/">North Inland</a></li>
+																				<li><a href="http://www.wikileaf.com/dispensary/in/california/oakland/">Oakland</a></li>
+																				<li><a href="http://www.wikileaf.com/dispensary/in/california/ocean-beach/">Ocean Beach</a></li>
+																				<li><a href="http://www.wikileaf.com/dispensary/in/california/oceanside/">Oceanside</a></li>
+																				<li><a href="http://www.wikileaf.com/dispensary/in/california/orange/">Orange</a></li>
+																				<li><a href="http://www.wikileaf.com/dispensary/in/california/pacific-beach/">Pacific Beach</a></li>
+																				<li><a href="http://www.wikileaf.com/dispensary/in/california/pacoima/">Pacoima</a></li>
+																				<li><a href="http://www.wikileaf.com/dispensary/in/california/palm-springs/">Palm Springs</a></li>
+																				<li><a href="http://www.wikileaf.com/dispensary/in/california/palmdale/">Palmdale</a></li>
+																				<li><a href="http://www.wikileaf.com/dispensary/in/california/panorama-city/">Panorama City</a></li>
+																				<li><a href="http://www.wikileaf.com/dispensary/in/california/pearblossom/">Pearblossom</a></li>
+																				<li><a href="http://www.wikileaf.com/dispensary/in/california/playa-del-rey/">Playa Del Rey</a></li>
+																				<li><a href="http://www.wikileaf.com/dispensary/in/california/point-loma/">Point Loma</a></li>
+																				<li><a href="http://www.wikileaf.com/dispensary/in/california/poway/">Poway</a></li>
+																				<li><a href="http://www.wikileaf.com/dispensary/in/california/rancho-bernardo/">Rancho Bernardo</a></li>
+																				<li><a href="http://www.wikileaf.com/dispensary/in/california/reseda/">Reseda</a></li>
+																				<li><a href="http://www.wikileaf.com/dispensary/in/california/rocklin/">Rocklin</a></li>
+																				<li><a href="http://www.wikileaf.com/dispensary/in/california/rosamond/">Rosamond</a></li>
+																				<li><a href="http://www.wikileaf.com/dispensary/in/california/roseville/">Roseville</a></li>
+																				<li><a href="http://www.wikileaf.com/dispensary/in/california/sacramento/">Sacramento</a></li>
+																				<li><a href="http://www.wikileaf.com/dispensary/in/california/san-clemente/">San Clemente</a></li>
+																				<li><a href="http://www.wikileaf.com/dispensary/in/california/san-diego/">San Diego</a></li>
+																				<li><a href="http://www.wikileaf.com/dispensary/in/california/san-francisco/">San Francisco</a></li>
+																				<li><a href="http://www.wikileaf.com/dispensary/in/california/san-jose/">San Jose</a></li>
+																				<li><a href="http://www.wikileaf.com/dispensary/in/california/san-marcos/">San Marcos</a></li>
+																				<li><a href="http://www.wikileaf.com/dispensary/in/california/san-pedro/">San Pedro</a></li>
+																				<li><a href="http://www.wikileaf.com/dispensary/in/california/san-rafael/">San Rafael</a></li>
+																				<li><a href="http://www.wikileaf.com/dispensary/in/california/santa-ana/">Santa Ana</a></li>
+																				<li><a href="http://www.wikileaf.com/dispensary/in/california/santa-barbara/">Santa Barbara</a></li>
+																				<li><a href="http://www.wikileaf.com/dispensary/in/california/shingle-springs/">Shingle Springs</a></li>
+																				<li><a href="http://www.wikileaf.com/dispensary/in/california/solana-beach/">Solana Beach</a></li>
+																				<li><a href="http://www.wikileaf.com/dispensary/in/california/sonoma/">Sonoma</a></li>
+																				<li><a href="http://www.wikileaf.com/dispensary/in/california/sun-valley/">Sun Valley</a></li>
+																				<li><a href="http://www.wikileaf.com/dispensary/in/california/sunland/">Sunland</a></li>
+																				<li><a href="http://www.wikileaf.com/dispensary/in/california/sylmar/">Sylmar</a></li>
+																				<li><a href="http://www.wikileaf.com/dispensary/in/california/toluca-lake/">Toluca Lake</a></li>
+																				<li><a href="http://www.wikileaf.com/dispensary/in/california/torrance/">Torrance</a></li>
+																				<li><a href="http://www.wikileaf.com/dispensary/in/california/tujunga/">Tujunga</a></li>
+																				<li><a href="http://www.wikileaf.com/dispensary/in/california/tustin/">Tustin</a></li>
+																				<li><a href="http://www.wikileaf.com/dispensary/in/california/vallejo/">Vallejo</a></li>
+																				<li><a href="http://www.wikileaf.com/dispensary/in/california/van-nuys/">Van Nuys</a></li>
+																				<li><a href="http://www.wikileaf.com/dispensary/in/california/venice/">Venice</a></li>
+																				<li><a href="http://www.wikileaf.com/dispensary/in/california/visalia/">Visalia</a></li>
+																				<li><a href="http://www.wikileaf.com/dispensary/in/california/vista/">Vista</a></li>
+																				<li><a href="http://www.wikileaf.com/dispensary/in/california/walnut-creek/">Walnut Creek</a></li>
+																				<li><a href="http://www.wikileaf.com/dispensary/in/california/watts/">Watts</a></li>
+																				<li><a href="http://www.wikileaf.com/dispensary/in/california/west-hollywood/">West Hollywood</a></li>
+																				<li><a href="http://www.wikileaf.com/dispensary/in/california/west-los-angeles/">West Los Angeles</a></li>
+																				<li><a href="http://www.wikileaf.com/dispensary/in/california/wilmington/">Wilmington</a></li>
+																			</ul>
+								</div>
+							</li>
+														<li><a href="#">Colorado</a>
+								<div class="bigbottommenu">
+									<ul>
+																				<li><a href="http://www.wikileaf.com/dispensary/in/colorado/colorado-springs/">Colorado Springs</a></li>
+																				<li><a href="http://www.wikileaf.com/dispensary/in/colorado/denver/">Denver</a></li>
+																				<li><a href="http://www.wikileaf.com/dispensary/in/colorado/lakewood/">Lakewood</a></li>
+																				<li><a href="http://www.wikileaf.com/dispensary/in/colorado/northglenn/">Northglenn</a></li>
+																			</ul>
+								</div>
+							</li>
+														<li><a href="#">Montana</a>
+								<div class="bigbottommenu">
+									<ul>
+																				<li><a href="http://www.wikileaf.com/dispensary/in/montana/bozeman/">Bozeman</a></li>
+																			</ul>
+								</div>
+							</li>
+														<li><a href="#">Nevada</a>
+								<div class="bigbottommenu">
+									<ul>
+																				<li><a href="http://www.wikileaf.com/dispensary/in/nevada/las-vegas/">Las Vegas</a></li>
+																			</ul>
+								</div>
+							</li>
+														<li><a href="#">Oregon</a>
+								<div class="bigbottommenu">
+									<ul>
+																				<li><a href="http://www.wikileaf.com/dispensary/in/oregon/ashland/">Ashland</a></li>
+																				<li><a href="http://www.wikileaf.com/dispensary/in/oregon/beaverton/">Beaverton</a></li>
+																				<li><a href="http://www.wikileaf.com/dispensary/in/oregon/bend/">Bend</a></li>
+																				<li><a href="http://www.wikileaf.com/dispensary/in/oregon/corvallis/">Corvallis</a></li>
+																				<li><a href="http://www.wikileaf.com/dispensary/in/oregon/eugene/">Eugene</a></li>
+																				<li><a href="http://www.wikileaf.com/dispensary/in/oregon/gladstone/">Gladstone</a></li>
+																				<li><a href="http://www.wikileaf.com/dispensary/in/oregon/lincoln-city/">Lincoln City</a></li>
+																				<li><a href="http://www.wikileaf.com/dispensary/in/oregon/oregon-city/">Oregon City</a></li>
+																				<li><a href="http://www.wikileaf.com/dispensary/in/oregon/portland/">Portland</a></li>
+																				<li><a href="http://www.wikileaf.com/dispensary/in/oregon/roseburg/">Roseburg</a></li>
+																				<li><a href="http://www.wikileaf.com/dispensary/in/oregon/salem/">Salem</a></li>
+																				<li><a href="http://www.wikileaf.com/dispensary/in/oregon/seaside/">Seaside</a></li>
+																				<li><a href="http://www.wikileaf.com/dispensary/in/oregon/springfield/">Springfield</a></li>
+																			</ul>
+								</div>
+							</li>
+														<li><a href="#">Washington</a>
+								<div class="bigbottommenu">
+									<ul>
+																				<li><a href="http://www.wikileaf.com/dispensary/in/washington/bellingham/">Bellingham</a></li>
+																				<li><a href="http://www.wikileaf.com/dispensary/in/washington/kitsap-county/">Kitsap County</a></li>
+																				<li><a href="http://www.wikileaf.com/dispensary/in/washington/north-seattle/">North Seattle</a></li>
+																				<li><a href="http://www.wikileaf.com/dispensary/in/washington/olympia/">Olympia</a></li>
+																				<li><a href="http://www.wikileaf.com/dispensary/in/washington/puyallup/">Puyallup</a></li>
+																				<li><a href="http://www.wikileaf.com/dispensary/in/washington/seattle/">Seattle</a></li>
+																				<li><a href="http://www.wikileaf.com/dispensary/in/washington/seattle-central/">Seattle Central</a></li>
+																				<li><a href="http://www.wikileaf.com/dispensary/in/washington/shoreline/">Shoreline</a></li>
+																				<li><a href="http://www.wikileaf.com/dispensary/in/washington/south-seattle/">South Seattle</a></li>
+																				<li><a href="http://www.wikileaf.com/dispensary/in/washington/spokane/">Spokane</a></li>
+																				<li><a href="http://www.wikileaf.com/dispensary/in/washington/tacoma/">Tacoma</a></li>
+																				<li><a href="http://www.wikileaf.com/dispensary/in/washington/vancouver/">Vancouver</a></li>
+																			</ul>
+								</div>
+							</li>
+													</ul>
+					</div>
+					<div class="clear"></div>
+				</div>
+				<!--megha menu code ends here-->
+			</div>
+		</div>
+			</header>
+	<!--header ends here-->
+	<!--page content starts here-->
+	<section id="main-section"><div id="midd-container" class="innerpage">
+	<div class="content-section">
+		<div class="main cf">
+			<div class="searchtitlebox cf">
+            	<h1 class="pagemaintitle">Privacy Policy</h1>
+            </div>
+            <div class="static-content">
+            	<p>Wikileaf.com, Inc., (Wikileaf), is committed to keeping any and all personal information collected of those individuals that visit our website and make use of our online facilities and services accurate, confidential, secure and private. Our privacy policy has been designed and created to ensure those affiliated with Wikileaf.com, Inc. of our commitment and realization of our obligation not only to meet but to exceed most existing privacy standards.</p>
+				<p><strong><i>THEREFORE</i></strong>, this Privacy Policy Agreement shall apply to Wikileaf.com, Inc., and thus it shall govern any and all data collection and usage thereof. Through the use of www.wikileaf.com you are herein consenting to the following data procedures expressed within this agreement.</p>
+				<p><strong><u>Collection of Information</u></strong><br>
+				This website collects various types of information, such as:</p>
+				<ul>
+                	<li>Voluntarily provided information which may include your name, address, email address, billing and/or credit card information etc., which may be used when you purchase products and/or services and to deliver the services you have requested.</li>   
+					<li>Information automatically collected when visiting our website, which may include cookies, third party tracking technologies and server logs.</li>
+                </ul>                                   
+				<p>Please rest assured that this site shall only collect personal information that you knowingly and willingly provide by way of surveys, completed membership forms, and emails. It is the intent of this site to use personal information only for the purpose for which it was requested and any additional uses specifically provided on this site.</p>						
+				<p>Wikileaf.com, Inc. may have the occasion to collect anonymous demographic information, such as age, gender, household income, political affiliation, race and religion at a later time. We may also gather information about the type of browser you are using, IP address or type of operating system to assist us in providing and maintaining superior quality service.</p> 
+				<p>It is highly recommended and suggested that you review the privacy policies and statements of any website you choose to use or frequent as a means to better understand the way in which other websites garner, make use of and share information collected. </p> 
+				<p><strong><u>Use of Information Collected</u></strong><br>
+				Wikileaf.com, Inc. may collect and may make use of personal information to assist in the operation of our website and to ensure delivery of the services you need and request. At times, we may find it necessary to use personally identifiable information as a means to keep you informed of other possible products and/or services that may be available to you from www.wikileaf.com. Wikileaf.com, Inc. may also be in contact with you with regards to completing surveys and/or research questionnaires related to your opinion of current or potential future services that may be offered.</p> 
+				<p>Wikileaf.com, Inc. may feel it necessary, from time to time, to make contact with you on behalf of other external business partners with regards to a potential new offer which may be of interest to you. If you consent or show interest in presented offers, then, at that time, specific identifiable information, such as name, email address and/or telephone number, may be shared with the third party.</p> 
+				<p>Wikileaf.com, Inc. may find it beneficial to share specific data with our trusted partners in an effort to conduct statistical analysis, provide you with email and/or postal mail, deliver support and/or arrange for deliveries to be made. Those third parties shall be strictly prohibited from making use of your personal information, other than to deliver those services which you requested, and as such they are thus required, in accordance with this agreement, to maintain the strictest of confidentiality with regards to all your information. </p> 
+				<p>Wikileaf.com, Inc. may deem it necessary to follow websites and/or pages that our users may frequent in an effort to gleam what types of services and/or products may be the most popular to customers or the general public.</p> 
+				<p>Wikileaf.com, Inc. may disclose your personal information, without prior notice to you, only if required to do so in accordance with applicable laws and/or in a good faith belief that such action is deemed necessary or is required in an effort to:</p>
+                <ul>
+                	<li>Remain in conformance with any decrees, laws and/or statutes or in an effort to comply with any process which may be served upon Wikileaf.com, Inc. and/or our website;</li> 
+					<li>Maintain, safeguard and/or preserve all the rights and/or property of Wikileaf.com, Inc.; and</li> 
+					<li>Perform under demanding conditions in an effort to safeguard the personal safety of users of www.wikileaf.com and/or the general public. </li>
+                </ul>
+				<p><strong><u>PERSONS UNDER AGE 21</u></strong><br>
+				Wikileaf.com, Inc. does not knowingly collect personal identifiable information from persons under age 21. If it is determined that such information has been inadvertently collected on anyone under the age of twenty-one (21), we shall immediately take the necessary steps to ensure that such information is deleted from our system's database.</p> 
+				<p><strong><u>Unsubscribe or Opt-Out</u></strong><br>
+				All users and/or visitors to our website have the option to discontinue receiving communication from us and/or reserve the right to discontinue receiving communications by way of email or newsletters. To discontinue or unsubscribe to our website please send an email that you wish to unsubscribe to Dan@wikileaf,com. If you wish to unsubscribe or opt-out from any third party websites, you must go to that specific website to unsubscribe and/or opt-out.</p> 
+				<p><strong><u>Links to Other Web Sites</u></strong><br>
+				Our website does contain links to affiliate and other websites. Wikileaf.com, Inc. does not claim nor accept responsibility for any privacy policies, practices and/or procedures of other such websites. Therefore, we encourage all users and visitors to be aware when they leave our website and to read the privacy statements of each and every website that collects personally identifiable information. The aforementioned Privacy Policy Agreement applies only and solely to the information collected by our website.</p> 
+				<p><strong><u>Security</u></strong><br>
+				Wikileaf.com, Inc. shall endeavor and shall take every precaution to maintain adequate physical, procedural and technical security with respect to our offices and information storage facilities so as to prevent any loss, misuse, unauthorized access, disclosure or modification of the user's personal information under our control.</p> 
+				<p><strong><u>Changes to Privacy Policy Agreement</u></strong><br>
+				Wikileaf.com, Inc. reserves the right to update and/or change the terms of our privacy policy, and as such we will post those change to our website homepage at www.wikileaf.com, so that our users and/or visitors are always aware of the type of information we collect, how it will be used, and under what circumstances, if any, we may disclose such information. If at any point in time Wikileaf.com, Inc. decides to make use of any personally identifiable information on file, in a manner vastly different from that which was stated when this information was initially collected, the user or users shall be promptly notified by email. Users at that time shall have the option as to whether or not to permit the use of their information in this separate manner.</p> 
+				<p><strong><u>Acceptance of Terms</u></strong><br>
+				Through the use of this website, you are hereby accepting the terms and conditions stipulated within the aforementioned Privacy Policy Agreement. If you are not in agreement with our terms and conditions, then you should refrain from further use of our sites. In addition, your continued use of our website following the posting of any updates or changes to our terms and conditions shall mean that you are in agreement and acceptance of such changes.</p> 
+				<p><strong><u>How to Contact Us</u></strong><br>
+				If you have any questions or concerns regarding the Privacy Policy Agreement related to our website, please feel free to contact us at the following email, telephone number or mailing address.</p>
+				<p><strong>Email:</strong> support@wikileaf.com</p>
+				<p><strong>Telephone Number:</strong> 206-459-6667</p>
+            </div>
+		</div>
+	</div>
+</div>
+	</section>
+	<!--page content ends here-->
+	<!--footer starts here-->
+    	<footer>
+		<div id="footer-main">
+			<div class="main cf">
+				<div class="footer-part1">
+					<div class="foot-logobox"><a href="http://www.wikileaf.com/" title="Wikileaf">
+                                        <img src="http://www.wikileaf.com/images/logo_footer.png" alt="Wikileaf Logo">
+                                        </a></div>
+					<div class="foot-menu">
+						<ul>
+                        	<li><a href="http://www.wikileaf.com/signup/">Dispensary Sign Up</a></li>
+                        	<li><a href="http://www.wikileaf.com/contact-us/">Contact Us</a></li>
+							<li><a href="http://www.wikileaf.com/privacy-policy/">Privacy Policy</a></li>
+							<li><a href="http://www.wikileaf.com/terms-of-services/">Terms Of Services</a></li>
+                        </ul>
+                     </div>
+				</div>
+				<div class="footer-part2 second">
+					<div class="foot-title">Quick Links</div>
+					<div class="foot-menu">
+						<ul>
+							<!--<li><a href="#">About Us</a></li>-->
+							<li><a href="http://www.wikileaf.com/strains/">Strains</a></li>
+                            <li><a href="http://www.wikileaf.com/strains/indica/">Indica Strains</a></li>
+                            <li><a href="http://www.wikileaf.com/strains/sativa/">Sativa Strains</a></li>
+                            <li><a href="http://www.wikileaf.com/strains/hybrid/">Hybrid Strains</a></li>
+                            <!--<li><a href="http://www.wikileaf.com/contact-us/">Contact Us</a></li>-->
+						</ul>
+					</div>
+				</div>
+				<div class="footer-part2 third">
+					<div class="foot-title">Indica Strains</div>
+					<div class="foot-menu">
+						<ul>
+                        								<li><a href="http://www.wikileaf.com/strain/hindu-kush/">Hindu Kush</a></li>
+                            							<li><a href="http://www.wikileaf.com/strain/blue-mystic/">Blue Mystic</a></li>
+                            							<li><a href="http://www.wikileaf.com/strain/maple-leaf-indica/">Maple Leaf Indica</a></li>
+                            							<li><a href="http://www.wikileaf.com/strain/grape-ape/">Grape Ape</a></li>
+                            						</ul>
+					</div>
+				</div>
+				<div class="clearthird"></div>
+				<div class="footer-part2 forth">
+					<div class="foot-title">Sativa Strains</div>
+					<div class="foot-menu">
+						<ul>
+                        								<li><a href="http://www.wikileaf.com/strain/hawaiian-snow/">Hawaiian Snow</a></li>
+														<li><a href="http://www.wikileaf.com/strain/blue-mystic/">Blue Mystic</a></li>
+														<li><a href="http://www.wikileaf.com/strain/panama-red/">Panama Red</a></li>
+														<li><a href="http://www.wikileaf.com/strain/chocolope/">Chocolope</a></li>
+													</ul>
+					</div>
+				</div>
+				<div class="footer-part2 fifth">
+					<div class="foot-title">Popular Strains</div>
+					<div class="foot-menu">
+						<ul>
+                        								<li><a href="http://www.wikileaf.com/strain/nyc-diesel/">NYC Diesel</a></li>
+														<li><a href="http://www.wikileaf.com/strain/green-crack/">Green Crack</a></li>
+														<li><a href="http://www.wikileaf.com/strain/sour-diesel/">Sour Diesel</a></li>
+													</ul>
+					</div>
+				</div>
+				<div class="footer-part2 last ">
+					<div class="foot-title">Get Social With Wikileaf</div>
+                    <div class="social-links cf">
+                        <div class="soc-icons cf">
+                            <a href="https://www.facebook.com/Wikileaf" title="Facebook" target="_blank"><div class="soc-icon facebook">&nbsp;</div></a>
+                            <a href="https://twitter.com/Wiki_Leaf" title="Twitter" target="_blank"><div class="soc-icon twitter last">&nbsp;</div></a>
+                            <!--<a href="#" title="Google Plus"><div class="soc-icon gplus last">&nbsp;</div></a>-->
+                        </div>
+                    </div>
+                    <div class="subscribe-form">
+                    	<div class="subscribe-input"><input type="text" name="txt_emailaddress" id="txt_emailaddress" placeholder="Enter your email address"></div>
+                        <div class="subscribe-error" id="emailerror"></div>
+                        <div class="subscribe-btn"><input type="button" id="subscribe_btn" name="subscribe" value="Yes! Sign me up!" onclick="subscribeme('http://www.wikileaf.com')"></div>
+                        <div class="subscribe-success" id="subsuccessmsg"></div>
+                    </div>
+				</div>
+			</div>
+		</div>
+	</footer>
+    	<!--footer ends here-->
+</div>
+<div class="popupbox" id="popupbox">
+    <div class="popupinnerbox">
+        <div class="popup-logo"><img src="http://www.wikileaf.com/images/logo.png" alt="wikileaf"></div>
+        <div class="popup-title">
+            <div class="ptitle-left">Like us on Facebook</div>
+            <div class="ptitle-right">
+                <div class="fb-like" data-href="https://www.facebook.com/Wikileaf" data-width="150" data-layout="button" data-action="like" data-show-faces="false" data-share="false"></div>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <div class="popup-image"><img src="http://www.wikileaf.com/images/tshirt.png" alt="wikileaf shirt"></div>
+        <div class="popup-text">We give away wikileaf shirts every week.</div>
+    </div>
+</div>
+<a class="fancybox" href="#popupbox" id="popuplink">popup</a>
+<!--scripts starts here--> 
+<!--custom dropdown js-->
+<script src="http://www.wikileaf.com/js/jquery.selectbox-0.2.js"></script>
+<!--mobile menu js-->
+<!--responsive tabs js-->
+<script src="http://www.wikileaf.com/js/easyResponsiveTabs.js" type="text/javascript"></script>
+<!--image slider js-->
+<script src="http://www.wikileaf.com/js/jquery.bxslider.min.js"></script>
+<!--script for tabs in strain page-->
+<script type="text/javascript" src="http://www.wikileaf.com/js/jquery.fancybox.js?v=2.1.5"></script>
+<link rel="stylesheet" type="text/css" href="http://www.wikileaf.com/css/jquery.fancybox.css?v=2.1.5" media="screen">
+<script type="text/javascript">
+    setTimeout(function() {
+	    $("#popuplink").fancybox().trigger('click');
+		$('.fancybox').fancybox();
+	}, 5000);
+</script>
+<script type="text/javascript">
+$(document).ready(function($) {
+		$(".reviewbtn").click(function() {
+			$('html,body').animate({
+				scrollTop: $("#writereview").offset().top-100},
+				'slow');
+		});
+	});
+</script>
+<!--general scritps-->
+<script src="http://www.wikileaf.com/js/general.js"></script>
+<script type="text/javascript">
+	MANTIS = {
+		site: '554137eb52a5595835ea5fb7'
+	};
+</script>
+<script type="text/javascript">
+	var z = document.createElement("script");
+	z.type = "text/javascript";
+	z.async = true;
+	z.src = "//assets.mantisadnetwork.com/mantodea.min.js";
+	var s = document.getElementsByTagName('head')[0];
+	s.parentNode.insertBefore(z, s);
+</script>
+<!--scripts starts here-->
+
+
+                            </body></html>
