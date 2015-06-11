@@ -1,395 +1,273 @@
-<!--The following is the downloaded HTML source of the anh-usa.org privacy policy that was archived on 2014-12-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141203072046id_/http%3A//www.anh-usa.org/%3Fpage_id%3D1242) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the anh-usa.org privacy policy that was archived on 2015-06-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150611024747id_/http%3A//www.anh-usa.org/%3Fpage_id%3D1242) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en-US"><head profile="http://gmpg.org/xfn/11">
-<meta name="google-site-verification" content="KMPdmoVfxQIWNmGo2GQKCq7FPy9ezzcWaqMsS_HI54I">
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<!DOCTYPE html><html lang="en-US"><!--<![endif]--><head>
 
-<title>Privacy Policy | The Alliance for Natural Health USA</title>
 
-<meta name="description" content="Alliance for Natural Health USA is dedicated to protecting access to integrative medicine and promoting the benefits of natural health.">
-    
-<link rel="icon" href="http://www.anh-usa.org/favicon.ico">
+<meta charset="UTF-8">
+<title>  Privacy Policy</title>
 
-<!-- include bootstrap for homepage redesign -->
-<link rel="stylesheet" href="http://www.anh-usa.org/wp-content/themes/anhus/css/bootstrap.min.css" type="text/css" media="screen">
-<!-- end bootstrap include -->
-
-<link rel="stylesheet" href="http://www.anh-usa.org/wp-content/themes/anhus/style.css" type="text/css" media="screen">
-<link rel="stylesheet" href="/wp-content/themes/anhus/anhus.css" type="text/css" media="screen">
-
-<!--
-  include web fonts for use on label gmo landing page at anh-usa.org/gmo 
-  this can be removed once the campaign has ended.
--->
-<link href="http://fonts.googleapis.com/css?family=Titillium+Web" rel="stylesheet" type="text/css">
-<link href="http://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css">
-<!-- end webfont include -->
-
+ 
+<meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="pingback" href="http://www.anh-usa.org/xmlrpc.php">
-
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js" type="text/javascript"></script>
-<script src="/includes/jquery.innerfade.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-<script type="text/javascript">
-try{
-var pageTracker = _gat._getTracker("UA-12127933-1");
-pageTracker._trackPageview();
-var secondTracker = _gat._getTracker("UA-8534738-9");
-secondTracker._setDomainName("none");
-secondTracker._setAllowLinker(true);
-secondTracker._initData();
-secondTracker._trackPageview();
-} catch(err) {}</script>
-
-<!--
-<script src="http://maps.google.com/maps?file=api&v=2&key=ABQIAAAAZ6YTIfpce8vA-AgONbQXiRRasg3QDJL-yc4nS5rSEGanv5jSuhQQ_NCy03sI200EvNPG__lT-9lpaw" type="text/javascript"></script>
-
-<script type="text/javascript">
-    //<![CDATA[
-    var map;
-    var geocoder;
-
-    function load() {
-      if (GBrowserIsCompatible()) {
-        geocoder = new GClientGeocoder();
-        map = new GMap2(document.getElementById('map'));
-        map.addControl(new GSmallMapControl());
-        map.addControl(new GMapTypeControl());
-        map.setCenter(new GLatLng(40, -100), 4);
-      }
-	  searchLocations();
-    }
-
-   function searchLocations() {
-     var address = document.getElementById('addressInput').value;
-     geocoder.getLatLng(address, function(latlng) {
-       if (!latlng) {
-         if (address != ''){
-			 alert(address + ' not found');
-		 }
-       } else {
-         searchLocationsNear(latlng);
-       }
-     });
-   }
-
-   function searchLocationsNear(center) {
-     var radius = document.getElementById('radiusSelect').value;
-     var searchUrl = '/gmap.php?lat=' + center.lat() + '&lng=' + center.lng() + '&radius=' + radius;
-     GDownloadUrl(searchUrl, function(data) {
-       var xml = GXml.parse(data);
-       var markers = xml.documentElement.getElementsByTagName('marker');
-       map.clearOverlays();
-
-       var sidebar = document.getElementById('map_sidebar');
-       sidebar.innerHTML = '';
-       if (markers.length == 0) {
-         sidebar.innerHTML = 'No results found.';
-         map.setCenter(new GLatLng(40, -100), 4);
-         return;
-       }
-
-       var bounds = new GLatLngBounds();
-       for (var i = 0; i < markers.length; i++) {
-         var name = markers[i].getAttribute('practicename');
-         var address = markers[i].getAttribute('address');
-		 var member = markers[i].getAttribute('memberid');
-         var distance = parseFloat(markers[i].getAttribute('distance'));
-         var point = new GLatLng(parseFloat(markers[i].getAttribute('bg_lat')),
-                                 parseFloat(markers[i].getAttribute('bg_long')));
-         
-         var marker = createMarker(point, name, address, member);
-         map.addOverlay(marker);
-         var sidebarEntry = createSidebarEntry(marker, name, address, distance, member);
-         sidebar.appendChild(sidebarEntry);
-         bounds.extend(point);
-       }
-       map.setCenter(bounds.getCenter(), map.getBoundsZoomLevel(bounds));
-     });
-   }
-
-    function createMarker(point, name, address, member) {
-      var marker = new GMarker(point);
-      var html = '<a href="?page_id=1247&member='+member+'"><b>' + name + '</b></a> <br/>' + address;
-      GEvent.addListener(marker, 'click', function() {
-        marker.openInfoWindowHtml(html);
-      });
-      return marker;
-    }
-
-    function createSidebarEntry(marker, name, address, distance, member) {
-      var div = document.createElement('div');
-      var html = '<a href="?page_id=1247&member='+member+'"><b>' + name + '</b></a> (' + distance.toFixed(1) + ')<br/>' + address;
-      div.innerHTML = html;
-      div.style.cursor = 'pointer';
-      div.style.marginBottom = '5px'; 
-      GEvent.addDomListener(div, 'click', function() {
-        GEvent.trigger(marker, 'click');
-      });
-      GEvent.addDomListener(div, 'mouseover', function() {
-        div.style.backgroundColor = '#eee';
-      });
-      GEvent.addDomListener(div, 'mouseout', function() {
-        div.style.backgroundColor = '#fff';
-      });
-      return div;
-    }
-    //]]>
-
-  </script>
- -->
-  <script type="text/javascript">
-   function hideobject(){
-   document.getElementById("Countdown").style.display='none';
-   document.getElementById("Link").style.display='block';
-   }
-   function showobject(){
-   document.getElementById("Countdown").style.display='block';
-   document.getElementById("Link").style.display='none';
-   }
-  </script>
-
-  <script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher:'6e818abb-7b4a-4753-9a51-4c478813e142'});</script>
+	
+<link rel="shortcut icon" href="http://www.anh-usa.org/wp-content/uploads/2014/08/favicon.ico">	
 
 
-<meta name="CMS" content="Pods 1.7.8">
+<style>
+@media only screen and (max-width: 799px) {
+.top-bar .search { display:block !important; text-align:center; float:none  !important; margin:8px auto  !important; width:100%}
+.top-bar .search:after {content: '\a'; position: static; white-space: pre;}
+.social { display:block; margin:18px auto 2px auto }
+.top-bar { height:88px !important;}
+}
+</style>
 
-        <!-- wp_css_menu_dropdown dynamic menu widths -->
-        <style type="text/css" media="screen">
-            .menu {width: px}
-            * html .menu {width:px; w\idth:px;}
-            .menu li {width:-0.0054347826087px; }
-            .menu a, .menu a:visited {width:-10.0054347826px; }
-            * html .menu a, * html .menu a:visited {width:-10.0054347826px; w\idth:-12.0054347826px;}
-            .menu ul ul a, .menu ul ul a:visited {width:128px;}
-            * html .menu ul ul a, * html .menu ul ul a:visited {width:150px;w\idth:128px;}       
-            .menu ul ul ul {width:-0.0054347826087px; left:-0.0054347826087px}
-            .menu ul ul {width:-0.0054347826087px;}                     
-        </style>
-        <!-- /dynamic menu widths -->
-        
-        <link rel="alternate" type="application/rss+xml" title="The Alliance for Natural Health USA » Feed" href="http://www.anh-usa.org/feed/">
-<link rel="alternate" type="application/rss+xml" title="The Alliance for Natural Health USA » Comments Feed" href="http://www.anh-usa.org/comments/feed/">
-<link rel="alternate" type="application/rss+xml" title="The Alliance for Natural Health USA » Privacy Policy Comments Feed" href="http://www.anh-usa.org/privacy-policy/feed/">
-<script type="text/javascript" src="http://www.anh-usa.org/wp-includes/js/jquery/jquery.js?ver=1.3.2"></script>
-<script type="text/javascript" src="http://www.anh-usa.org/wp-content/plugins/events-calendar/js/jquery.bgiframe.js?ver=2.1"></script>
-<script type="text/javascript" src="http://www.anh-usa.org/wp-includes/js/swfupload/swfupload.js?ver=2201"></script>
-<script type="text/javascript" src="http://www.anh-usa.org/wp-includes/js/comment-reply.js?ver=20090102"></script>
+	
+<link rel="alternate" type="application/rss+xml" title="The Alliance for Natural Health » Feed" href="http://www.anh-usa.org/feed/">
+<link rel="alternate" type="application/rss+xml" title="The Alliance for Natural Health » Comments Feed" href="http://www.anh-usa.org/comments/feed/">
+<link rel="alternate" type="application/rss+xml" title="The Alliance for Natural Health » Privacy Policy Comments Feed" href="http://www.anh-usa.org/privacy-policy/feed/">
+		<script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js#xfbml=1&amp;version=v2.0"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"http:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/www.anh-usa.org\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.2.2"}};
+			!function(a,b,c){function d(a){var c=b.createElement("canvas"),d=c.getContext&&c.getContext("2d");return d&&d.fillText?(d.textBaseline="top",d.font="600 32px Arial","flag"===a?(d.fillText(String.fromCharCode(55356,56812,55356,56807),0,0),c.toDataURL().length>3e3):(d.fillText(String.fromCharCode(55357,56835),0,0),0!==d.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script><script src="http://www.anh-usa.org/wp-includes/js/wp-emoji-release.min.js?ver=4.2.2" type="text/javascript"></script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel="stylesheet" id="contact-form-7-css" href="http://www.anh-usa.org/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.1.2" type="text/css" media="all">
+<link rel="stylesheet" id="smartmag-fonts-css" href="http://fonts.googleapis.com/css?family=Open+Sans:400,600,700|Roboto+Slab" type="text/css" media="all">
+<link rel="stylesheet" id="smartmag-core-css" href="http://www.anh-usa.org/wp-content/themes/anh-usa-2014/style.css?ver=4.2.2" type="text/css" media="all">
+<link rel="stylesheet" id="smartmag-responsive-css" href="http://www.anh-usa.org/wp-content/themes/smart-mag/css/responsive.css?ver=4.2.2" type="text/css" media="all">
+<link rel="stylesheet" id="pretty-photo-css" href="http://www.anh-usa.org/wp-content/themes/smart-mag/css/prettyPhoto.css?ver=4.2.2" type="text/css" media="all">
+<link rel="stylesheet" id="font-awesome-css" href="http://www.anh-usa.org/wp-content/themes/smart-mag/css/fontawesome/css/font-awesome.min.css?ver=4.2.2" type="text/css" media="all">
+<link rel="stylesheet" id="slb_core-css" href="http://www.anh-usa.org/wp-content/plugins/simple-lightbox/client/css/app.css?ver=2.4.0" type="text/css" media="all">
+<link rel="stylesheet" id="custom-css-css" href="http://www.anh-usa.org/?bunyad_custom_css=1&amp;ver=4.2.2" type="text/css" media="all">
+<script type="text/javascript" src="http://www.anh-usa.org/wp-includes/js/jquery/jquery.js?ver=1.11.2"></script>
+<script type="text/javascript" src="http://www.anh-usa.org/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1"></script>
+<script type="text/javascript" src="http://www.anh-usa.org/wp-content/themes/anh-usa-2014/js/anh-usa.js?ver=4.2.2"></script>
+<script type="text/javascript" src="http://www.anh-usa.org/wp-content/themes/smart-mag/js/jquery.prettyPhoto.js?ver=4.2.2"></script>
+<script type="text/javascript" src="http://www.anh-usa.org/wp-content/plugins/advanced-iframe/js/ai.js?ver=471047"></script>
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.anh-usa.org/xmlrpc.php?rsd">
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.anh-usa.org/wp-includes/wlwmanifest.xml"> 
-<link rel="index" title="The Alliance for Natural Health USA" href="http://www.anh-usa.org">
-<meta name="generator" content="WordPress 2.8.4">
-
-<!-- All in One SEO Pack 1.6.12.1 by Michael Torbert of Semper Fi Web Design[396,462] -->
+<meta name="generator" content="WordPress 4.2.2">
 <link rel="canonical" href="http://www.anh-usa.org/privacy-policy/">
-<!-- /all in one seo pack -->
-<link type="text/css" rel="stylesheet" href="http://www.anh-usa.org/wp-content/plugins/comments-likes/comments-likes.css">
-<script type="text/javascript" src="http://www.anh-usa.org/wp-content/plugins/comments-likes/js/jquery.js"></script>
-<script type="text/javascript" src="http://www.anh-usa.org/wp-content/plugins/comments-likes/js/comments-likes.js"></script>
-<!-- Start Of Script Generated By Events-Calendar [Luke Howell | www.lukehowell.com] and [R. MALKA | www.heirem.fr] -->
-<!-- More information at http://wp-eventscalendar.com. -->
-<link type="text/css" rel="stylesheet" href="http://www.anh-usa.org/wp-includes/js/thickbox/thickbox.css">
-<link type="text/css" rel="stylesheet" href="http://www.anh-usa.org/wp-content/plugins/events-calendar/css/events-calendar.css">
- <script type="text/javascript">
-	// <![CDATA[
-	var ecd = {};
-	ecd.jq = jQuery.noConflict(false);
-	//]]>
- </script>
-<!-- End Of Script Generated By Events-Calendar - Version: 6.7.6 -->
+<link rel="shortlink" href="http://www.anh-usa.org/?p=1242">
+	<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
 
 
-<!-- Plugin: Open external links a new window. Plugin by Kristian Risager Larsen, http://kristianrisagerlarsen.dk . Download it at http://wordpress.org/extend/plugins/open-external-links-in-a-new-window/ -->
-<script type="text/javascript">//<![CDATA[
-	function external_links_in_new_windows_loop() {
-		if (!document.links) {
-			document.links = document.getElementsByTagName('a');
-		}
-		var change_link = false;
-		var force = '';
-		var ignore = '\#data';
+	<link rel="stylesheet" href="http://www.anh-usa.org/wp-content/themes/anh-usa-2014/anh-PrintStyles.css" type="text/css" media="print">
+<!--[if lt IE 9]>
+<script src="http://www.anh-usa.org/wp-content/themes/smart-mag/js/html5.js" type="text/javascript"></script>
+<![endif]-->
 
-		for (var t=0; t<document.links.length; t++) {
-			var all_links = document.links[t];
-			change_link = false;
+<link rel="stylesheet" href="http://www.anh-usa.org/wp-content/themes/anh-usa-2014/lib/fancybox/jquery.fancybox.css">
+<script src="http://www.anh-usa.org/wp-content/themes/anh-usa-2014/lib/fancybox/jquery.fancybox.pack.js"></script>
+
+
+
+</head>
+
+<body class="page page-id-1242 page-template-default page-builder right-sidebar full">
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-12127933-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+<div class="main-wrap">
+
+	<div class="top-bar">
+
+		<div class="wrap">
+			<section class="top-bar-content">
 			
-			if(document.links[t].hasAttribute('onClick') == false) {
-				// forced if the address starts with http (or also https), but does not link to the current domain
-				if(all_links.href.search(/^http/) != -1 && all_links.href.search('www.anh-usa.org') == -1) {
-					// alert('Changeda '+all_links.href);
-					change_link = true;
-				}
-					
-				if(force != '' && all_links.href.search(force) != -1) {
-					// forced
-					// alert('force '+all_links.href);
-					change_link = true;
-				}
-				
-				if(ignore != '' && all_links.href.search(ignore) != -1) {
-					// alert('ignore '+all_links.href);
-					// ignored
-					change_link = false;
-				}
+								<div class="trending-ticker">
+					<span class="heading">Trending Stories:</span>
 
-				if(change_link == true) {
-					// alert('Changed '+all_links.href);
-					document.links[t].setAttribute('onClick', 'javascript:window.open(\''+all_links.href+'\'); return false;');
-					document.links[t].removeAttribute('target');
-				}
-			}
-		}
-	}
-	
-	// Load
-	function external_links_in_new_windows_load(func)
-	{	
-		var oldonload = window.onload;
-		if (typeof window.onload != 'function'){
-			window.onload = func;
-		} else {
-			window.onload = function(){
-				oldonload();
-				func();
-			}
-		}
-	}
-
-	external_links_in_new_windows_load(external_links_in_new_windows_loop);
-	//]]></script>
-
-<script charset="utf-8" type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher:'79065177-5047-4d49-b43b-1f70d867d14b'});var st_type='wordpress2.8.4';</script></head>
-<body class="page page-id-1242 page-template page-template-campaign_home-php">
-<div id="page">
-
-
-<div id="header" role="banner">
-	<div id="header_logo">
-		<a href="/index.php" onclick="javascript:window.open('https://web.archive.org/index.php'); return false;"><img src="/wp-content/themes/anhus/images/logo-new.png" border="0"></a>
-	</div>
-	
-	<div id="header_login">
+					<ul>
+												
+												
+							<li><a href="http://www.anh-usa.org/yet-another-anti-supplement-sneak-attack-from-blumenthal-and-durbin/" title="Yet Another Anti-Supplement Sneak Attack from Blumenthal and Durbin">Yet Another Anti-Supplement Sneak Attack from Blumenthal and Durbin</a></li>
 						
-        <form id="loginform" action="https://secure3.convio.net/aahf/site/CRConsAPI" method="post">
-         
-          <input type="hidden" name="api_key" id="api_key" value="anhusa">
-          <input type="hidden" name="v" id="v" value="1.0">
-          <input type="hidden" name="method" id="method" value="login">
-          <input type="hidden" name="success_redirect" value="http://www.anh-usa.org/new_site/wp-content/themes/anhus/members.php?cons_id=${loginResponse/cons_id}">
-          <input type="hidden" name="error_redirect" value="http://aahf.convio.net/site/UserLogin">
-          <input type="hidden" name="sign_redirects" id="sign_redirects" value="true">
+												
+							<li><a href="http://www.anh-usa.org/feds-to-reinvent-school-lunches-with-flavored-skim-milk-full-of-toxic-additives/" title="Feds to Reinvent School Lunches—with Flavored Skim Milk Full of Toxic Additives!">Feds to Reinvent School Lunches—with Flavored Skim Milk Full of Toxic Additives!</a></li>
+						
+												
+							<li><a href="http://www.anh-usa.org/lactose-intolerant-a-better-milk-is-coming/" title="Lactose Intolerant? A Better Milk Is Coming!">Lactose Intolerant? A Better Milk Is Coming!</a></li>
+						
+												
+							<li><a href="http://www.anh-usa.org/action-alert-federal-milk-bill/" title="Action Alert: Federal Milk Bill">Action Alert: Federal Milk Bill</a></li>
+						
+												
+							<li><a href="http://www.anh-usa.org/action-alert-stop-durbins-latest-sneak-attack-on-supplements/" title="Action Alert: Stop Durbin’s Latest Sneak Attack on Supplements">Action Alert: Stop Durbin’s Latest Sneak Attack on Supplements</a></li>
+						
+												
+							<li><a href="http://www.anh-usa.org/fda-fires-direct-shot-at-small-local-artisanal-food-producers/" title="FDA Fires Direct Shot at Small, Local, Artisanal Food Producers">FDA Fires Direct Shot at Small, Local, Artisanal Food Producers</a></li>
+						
+												
+							<li><a href="http://www.anh-usa.org/government-data-on-vaccine-injuries/" title="Government Data on Vaccine Injuries">Government Data on Vaccine Injuries</a></li>
+						
+												
+							<li><a href="http://www.anh-usa.org/bad-vaccine-bill-on-the-fast-track-in-california/" title="Bad Vaccine Bill on the Fast Track in California">Bad Vaccine Bill on the Fast Track in California</a></li>
+						
+												
+							<li><a href="http://www.anh-usa.org/action-alert-fda-and-artisanal-food-prodcers/" title="Action Alert: FDA and Artisanal Food Prodcers">Action Alert: FDA and Artisanal Food Prodcers</a></li>
+						
+												
+							<li><a href="http://www.anh-usa.org/big-pharma-meds-turned-her-into-a-walking-zombie-unable-to-have-a-child/" title="Big Pharma Meds Turned Her into a “Walking Zombie,” Unable to Have a Child">Big Pharma Meds Turned Her into a “Walking Zombie,” Unable to Have a Child</a></li>
+						
+												
+											</ul>
+				</div>
+				
+				<div class="search">
+					<form action="http://www.anh-usa.org/" method="get">
+						<input type="text" name="s" class="query" value="" placeholder="Search...">
+						<button class="search-button" type="submit"><i class="fa fa-search"></i></button>
+					</form>
+				</div> <!-- .search -->
 
-          <div class="item">
-            <input class="input" type="text" name="user_name" id="user_name" value="Username" onfocus="if(this.value=='Username'){this.value=''}" onblur="if(this.value==''){this.value='Username'}">
-          </div>
+				<div class="social">
+					<a href="https://twitter.com/anhusa" target="_blank"><img src="http://www.anh-usa.org/wp-content/themes/anh-usa-2014/images/social/twitter-small.png"></a>
+					<a href="https://www.facebook.com/ANHUSA" target="_blank"><img src="http://www.anh-usa.org/wp-content/themes/anh-usa-2014/images/social/facebook-small.png"></a>
+					<a href="https://www.linkedin.com/company/2402007" target="_blank"><img src="http://www.anh-usa.org/wp-content/themes/anh-usa-2014/images/social/linkedin-small.png"></a>
+					<a href="http://www.pinterest.com/allnathealth/" target="_blank"><img src="http://www.anh-usa.org/wp-content/themes/anh-usa-2014/images/social/pinterest-small.png"></a>
+					<a href="http://feeds.feedburner.com/TheAllianceForNaturalHealthUsa"><img src="http://www.anh-usa.org/wp-content/themes/anh-usa-2014/images/social/rss-small.png"></a>
+				</div>
 
-          <div class="item">
-            <input class="input" type="password" name="password" id="password" value="Password" onfocus="if(this.value=='Password'){this.value=''}" onblur="if(this.value==''){this.value='Password'}">
-          </div>
-
-          <div class="item">
-            <input type="submit" class="go" value="" name="wp-submit" id="wp-submit">
-          </div>
-
-        </form>
-  			</div>
-	
-	<div id="header_search">
-
-    <div id="share_buttons">
-      <!-- AddThis Button BEGIN -->
-      <div class="addthis_toolbox addthis_default_style ">
-      <a class="addthis_button_preferred_1"></a>
-      <a class="addthis_button_preferred_2"></a>
-      <a class="addthis_button_preferred_3"></a>
-      <a class="addthis_button_preferred_4"></a>
-      <a class="addthis_button_compact"></a>
-      <a class="addthis_counter addthis_bubble_style"></a>
-      </div>
-      <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=xa-4fafe9cf5eeab9b6"></script>
-      <!-- AddThis Button END -->
-    </div>
-
-    <div id="advanced_search">
-  		<div style="margin:5px;"><a href="http://www.anh-usa.org/?s=+&amp;cat=">ADVANCED SEARCH »</a></div>
-  		<form name="searchform" action="/index.php" method="get">
-  			<div class="item"><input class="input" type="text" name="s" value="Search this Site" onclick="this.value=''" onblur="if(this.value==''){this.value='Search this Site'}"></div>
-  			<div class="item"><input type="button" class="go" onclick="document.searchform.submit();"></div>
-  		</form>
-    </div>
-	</div>
-	
-	
-<div id="anniv">
-  			<div class="textwidget"><a href="http://www.anh-usa.org/gmo/"><img src="http://www.anh-usa.org/wp-content/uploads/2013/10/label-gmo-header-ad.gif" style="margin-left: 23px;"></a></div>
+								
+			</section>
 		</div>
-	
-	<div id="menu">
-		<ul>
-			<li><a href="/index.php" onclick="javascript:window.open('https://web.archive.org/index.php'); return false;">HOME</a></li>
-			
-		<li class="menu_item menu_item_3762 parent"><a href="http://www.anh-usa.org/main-menu/anh-campaigns/" class="menu_item_link menu_item_link_3762 parent" rel="bookmark" title="CAMPAIGNS">CAMPAIGNS<!--[if IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]-->
-		<ul>
-		<li class="menu_item menu_item_4247 "><a href="http://www.anh-usa.org/main-menu/anh-campaigns/food-and-supplements/" class="menu_item_link menu_item_link_4247 " rel="bookmark" title="Food and Supplements Are Not Drugs">Food and Supplements Are Not Drugs</a></li>
-		<li class="menu_item menu_item_8903 "><a href="http://www.anh-usa.org/main-menu/anh-campaigns/main-menuanh-campaignstell-the-truth-2/" class="menu_item_link menu_item_link_8903 " rel="bookmark" title="Tell the Truth">Tell the Truth</a></li>
-		<li class="menu_item menu_item_4279 "><a href="http://www.anh-usa.org/main-menu/anh-campaigns/natural-health-medicine/" class="menu_item_link menu_item_link_4279 " rel="bookmark" title="Stop Censoring Medical Science">Stop Censoring Medical Science</a></li>
-		<li class="menu_item menu_item_4295 "><a href="http://www.anh-usa.org/main-menu/anh-campaigns/keep-organic-foods-organic-2/" class="menu_item_link menu_item_link_4295 " rel="bookmark" title="Real, Not Phony Food Safety">Real, Not Phony Food Safety</a></li>
-		<li class="menu_item menu_item_4275 "><a href="http://www.anh-usa.org/main-menu/anh-campaigns/protect-our-right-to-choose-natural-and-sustainable-healthcare/" class="menu_item_link menu_item_link_4275 " rel="bookmark" title="Fight Healthcare Monopolies">Fight Healthcare Monopolies</a></li>
-		<li class="menu_item menu_item_4293 "><a href="http://www.anh-usa.org/main-menu/anh-campaigns/protect-our-children/" class="menu_item_link menu_item_link_4293 " rel="bookmark" title="Protect Our Children">Protect Our Children</a></li></ul><!--[if lte IE 6]></td></tr></table></a><![endif]--></li>
-		<li class="menu_item menu_item_2 parent"><a href="http://www.anh-usa.org/main-menu/about/" class="menu_item_link menu_item_link_2 parent" rel="bookmark" title="WHO WE ARE">WHO WE ARE<!--[if IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]-->
-		<ul>
-		<li class="menu_item menu_item_116 "><a href="http://www.anh-usa.org/main-menu/about/overview/" class="menu_item_link menu_item_link_116 " rel="bookmark" title="Overview">Overview</a></li>
-		<li class="menu_item menu_item_120 "><a href="http://www.anh-usa.org/main-menu/about/history/" class="menu_item_link menu_item_link_120 " rel="bookmark" title="Accomplishments">Accomplishments</a></li>
-		<li class="menu_item menu_item_125 "><a href="http://www.anh-usa.org/main-menu/about/the-building-blocks/" class="menu_item_link menu_item_link_125 " rel="bookmark" title="Our Approach">Our Approach</a></li>
-		<li class="menu_item menu_item_134 "><a href="http://www.anh-usa.org/main-menu/about/leadership/" class="menu_item_link menu_item_link_134 " rel="bookmark" title="ANH-USA Leadership">ANH-USA Leadership</a></li>
-		<li class="menu_item menu_item_136 "><a href="http://www.anh-usa.org/main-menu/about/contact-us/" class="menu_item_link menu_item_link_136 " rel="bookmark" title="Contact Us">Contact Us</a></li>
-		<li class="menu_item menu_item_8106 "><a href="http://www.anh-usa.org/main-menu/about/jobs/" class="menu_item_link menu_item_link_8106 " rel="bookmark" title="Jobs at ANH-USA">Jobs at ANH-USA</a></li></ul><!--[if lte IE 6]></td></tr></table></a><![endif]--></li>
-		<li class="menu_item menu_item_32 parent"><a href="http://www.anh-usa.org/main-menu/take-action/" class="menu_item_link menu_item_link_32 parent" rel="bookmark" title="TAKE ACTION AND BE HEARD!">TAKE ACTION AND BE HEARD!<!--[if IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]-->
-		<ul>
-		<li class="menu_item menu_item_8556 "><a href="http://www.anh-usa.org/main-menu/take-action/subscribe-to-our-free-newsletter/" class="menu_item_link menu_item_link_8556 " rel="bookmark" title="Subscribe to our Free Newsletter">Subscribe to our Free Newsletter</a></li>
-		<li class="menu_item menu_item_8558 "><a href="http://www.anh-usa.org/main-menu/take-action/join-us-on-facebook/" class="menu_item_link menu_item_link_8558 " rel="bookmark" title="Join Us on Facebook">Join Us on Facebook</a></li>
-		<li class="menu_item menu_item_8560 "><a href="http://www.anh-usa.org/main-menu/take-action/join-us-on-twitter/" class="menu_item_link menu_item_link_8560 " rel="bookmark" title="Join Us on Twitter">Join Us on Twitter</a></li>
-		<li class="menu_item menu_item_1986 "><a href="http://www.anh-usa.org/main-menu/take-action/join/" class="menu_item_link menu_item_link_1986 " rel="bookmark" title="Become a Member">Become a Member</a></li>
-		<li class="menu_item menu_item_1685 "><a href="http://www.anh-usa.org/main-menu/take-action/action-center/" class="menu_item_link menu_item_link_1685 " rel="bookmark" title="Take Action">Take Action</a></li>
-		<li class="menu_item menu_item_1993 "><a href="http://www.anh-usa.org/main-menu/take-action/donate/" class="menu_item_link menu_item_link_1993 " rel="bookmark" title="Donate">Donate</a></li></ul><!--[if lte IE 6]></td></tr></table></a><![endif]--></li>
-		<li class="menu_item menu_item_75 parent"><a href="http://www.anh-usa.org/main-menu/resources/" class="menu_item_link menu_item_link_75 parent" rel="bookmark" title="RESOURCES">RESOURCES<!--[if IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]-->
-		<ul>
-		<li class="menu_item menu_item_8192 "><a href="http://www.anh-usa.org/main-menu/resources/calendar-of-events/" class="menu_item_link menu_item_link_8192 " rel="bookmark" title="Calendar of Events">Calendar of Events</a></li>
-		<li class="menu_item menu_item_8210 "><a href="http://www.anh-usa.org/main-menu/resources/find-a-practitioner/" class="menu_item_link menu_item_link_8210 " rel="bookmark" title="Find a Practitioner">Find a Practitioner</a></li>
-		<li class="menu_item menu_item_2991 "><a href="/tag/readers-corner" class="menu_item_link menu_item_link_2991 " rel="bookmark" title="Readers’ Corner" onclick="javascript:window.open('https://web.archive.org/tag/readers-corner'); return false;">Readers’ Corner</a></li>
-		<li class="menu_item menu_item_16 "><a href="http://www.anh-usa.org/main-menu/resources/position-papers/" class="menu_item_link menu_item_link_16 " rel="bookmark" title="Position Papers">Position Papers</a></li>
-		<li class="menu_item menu_item_3036 "><a href="http://www.anh-usa.org/main-menu/resources/anh-usa-recommended-reading/" class="menu_item_link menu_item_link_3036 " rel="bookmark" title="Recommended Reading">Recommended Reading</a></li>
-		<li class="menu_item menu_item_18 "><a href="http://www.anh-usa.org/main-menu/resources/media/" class="menu_item_link menu_item_link_18 " rel="bookmark" title="Media Center">Media Center</a></li>
-		<li class="menu_item menu_item_1118 "><a href="http://www.anh-usa.org/main-menu/resources/activist-tool-kit/" class="menu_item_link menu_item_link_1118 " rel="bookmark" title="Advocate Tool Kit">Advocate Tool Kit</a></li>
-		<li class="menu_item menu_item_8114 "><a href="http://www.anh-usa.org/main-menu/resources/know-your-state-medical-board/" class="menu_item_link menu_item_link_8114 " rel="bookmark" title="Know Your State Medical Board">Know Your State Medical Board</a></li>
-		<li class="menu_item menu_item_1979 "><a href="http://www.anh-usa.org/main-menu/resources/nhaf/" class="menu_item_link menu_item_link_1979 " rel="bookmark" title="Natural Health Alliance Foundation">Natural Health Alliance Foundation</a></li></ul><!--[if lte IE 6]></td></tr></table></a><![endif]--></li>			<li style="float:right;"><a>ANH REGIONS<!--[if IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]-->
-				<ul style="left:-85px; background-color:#FFFFFF;">
-					<li><a href="http://www.anh-europe.org" onclick="javascript:window.open('http://www.anh-europe.org/'); return false;"><img src="http://www.anh-usa.org/wp-content/themes/anhus/images/europe.png" border="0"></a></li>
-					<li><a href="http://www.anhinternational.org/" onclick="javascript:window.open('http://www.anhinternational.org/'); return false;"><img src="http://www.anh-usa.org/wp-content/themes/anhus/images/international.png" border="0"></a></li>
-				</ul><!--[if lte IE 6]></td></tr></table></a><![endif]-->
-			</li>
-		</ul>
+		
 	</div>
 
-</div>
+	<div id="main-head" class="main-head">
+		
+		<div class="wrap">
+		
+			<nav class="navigation cf" data-sticky-nav="0">
+				<div class="mobile"><a href="#" class="selected"><span class="text">Navigate</span><span class="current"></span> <i class="fa fa-bars"></i></a></div>
+				
+				<div class="menu-main-menu-container"><ul id="menu-main-menu" class="menu"><li id="menu-item-13890" class="home-icon menu-item menu-item-type-custom menu-item-object-custom menu-item-13890"><a href="/"><i class="fa fa-home"></i> ANH USA</a></li>
+<li id="menu-item-13705" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-13705"><a href="#">Campaigns</a>
+<ul class="sub-menu">
+	<li id="menu-item-14863" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-cat-123 menu-item-14863"><a href="http://www.anh-usa.org/category/microsites/">Hot Topics</a>
+	<ul class="sub-menu">
+		<li id="menu-item-13656" class="menu-item menu-item-type-post_type menu-item-object-microsite menu-item-13656"><a href="http://www.anh-usa.org/microsite/gmo-fact-check/">GMO Fact Check</a></li>
+		<li id="menu-item-13654" class="menu-item menu-item-type-post_type menu-item-object-microsite menu-item-13654"><a href="http://www.anh-usa.org/microsite/are-my-supplements-safe/">Supplement Fact Check</a></li>
+		<li id="menu-item-13655" class="menu-item menu-item-type-post_type menu-item-object-microsite menu-item-13655"><a href="http://www.anh-usa.org/microsite/really-eat-right/">Really Eat Right</a></li>
+		<li id="menu-item-14338" class="menu-item menu-item-type-post_type menu-item-object-microsite menu-item-14338"><a href="http://www.anh-usa.org/microsite/save-compounding/">Save Compounding</a></li>
+		<li id="menu-item-15233" class="menu-item menu-item-type-post_type menu-item-object-microsite menu-item-15233"><a href="http://www.anh-usa.org/microsite/protect-vaccine-choice/">Protect Vaccine Choice</a></li>
+	</ul>
+</li>
+	<li id="menu-item-15672" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-15672"><a href="#">Other Campaigns</a>
+	<ul class="sub-menu">
+		<li id="menu-item-13874" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-cat-35 menu-item-13874"><a href="http://www.anh-usa.org/category/campaigns/protect-our-children/government-is-not-a-parent/">Government is Not a Parent</a>
+		<ul class="sub-menu">
+			<li id="menu-item-13876" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-cat-14 menu-item-13876"><a href="http://www.anh-usa.org/category/campaigns/protect-our-children/runaway-vaccine-schedules/">Runaway Vaccine Schedules</a></li>
+			<li id="menu-item-13875" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-cat-39 menu-item-13875"><a href="http://www.anh-usa.org/category/campaigns/protect-our-children/overdrugged-children/">No to More and More Drugs for Children at Younger and Younger Ages</a></li>
+		</ul>
+</li>
+		<li id="menu-item-15675" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-cat-5 menu-item-15675"><a href="http://www.anh-usa.org/category/campaigns/fight-healthcare-monopolies/">Fight Healthcare Monopolies</a>
+		<ul class="sub-menu">
+			<li id="menu-item-15674" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-cat-119 menu-item-15674"><a href="http://www.anh-usa.org/category/and-ada-monopoly/">AND (Dietitians) Monopoly</a></li>
+			<li id="menu-item-13867" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-cat-24 menu-item-13867"><a href="http://www.anh-usa.org/category/campaigns/fight-healthcare-monopolies/ama-monopoly/">American Medical Association Monopoly</a></li>
+			<li id="menu-item-15676" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-cat-30 menu-item-15676"><a href="http://www.anh-usa.org/category/campaigns/fight-healthcare-monopolies/doctors-threatened-with-jail/">Doctors Threatened With Jail</a></li>
+		</ul>
+</li>
+		<li id="menu-item-15677" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-cat-10 menu-item-15677"><a href="http://www.anh-usa.org/category/campaigns/fight-healthcare-monopolies/natural-and-sustainable-healthcare/">Natural and Sustainable Healthcare</a>
+		<ul class="sub-menu">
+			<li id="menu-item-15681" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-cat-16 menu-item-15681"><a href="http://www.anh-usa.org/category/campaigns/medical-science-censorship/">Stop Censoring Medical Science</a></li>
+			<li id="menu-item-15679" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-cat-13 menu-item-15679"><a href="http://www.anh-usa.org/category/campaigns/real-food-safety/">Real, Not Phony Food Safety</a></li>
+			<li id="menu-item-15680" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-cat-102 menu-item-15680"><a href="http://www.anh-usa.org/category/reform-fda/">Reform FDA</a></li>
+			<li id="menu-item-15678" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-cat-33 menu-item-15678"><a href="http://www.anh-usa.org/category/campaigns/food-and-supplements/new-dietary-ingredients/">FDA Overreach Threatens New Dietary Ingredients and Supplements</a></li>
+		</ul>
+</li>
+		<li id="menu-item-13873" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-cat-7 menu-item-13873"><a href="http://www.anh-usa.org/category/campaigns/fight-healthcare-monopolies/government-for-sale/">Government for Sale</a>
+		<ul class="sub-menu">
+			<li id="menu-item-13878" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-cat-21 menu-item-13878"><a href="http://www.anh-usa.org/category/campaigns/tell-the-truth/what-the-government-doesnt-tell-you-about-your-food-and-drugs/">What the Government Doesn’t Tell You About Your Food and Drugs</a></li>
+			<li id="menu-item-13872" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-cat-29 menu-item-13872"><a href="http://www.anh-usa.org/category/campaigns/fight-healthcare-monopolies/crony-capitalism/">Crony Capitalism</a></li>
+		</ul>
+</li>
+	</ul>
+</li>
+</ul>
+</li>
+<li id="menu-item-14520" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-cat-163 menu-item-14520"><a href="http://www.anh-usa.org/category/action-alerts/">Take Action</a>
+<ul class="sub-menu">
+	<li id="menu-item-14550" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-cat-163 menu-item-14550"><a href="http://www.anh-usa.org/category/action-alerts/">Action Alerts</a></li>
+	<li id="menu-item-14337" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14337"><a href="http://www.anh-usa.org/donate/">Donate</a></li>
+	<li id="menu-item-14542" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14542"><a href="http://www.anh-usa.org/contact-anh-usa/">Contact ANH-USA</a></li>
+	<li id="menu-item-14548" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14548"><a href="http://www.anh-usa.org/tell-your-story/">Tell Your Story</a></li>
+</ul>
+</li>
+<li id="menu-item-13614" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-13614"><a href="http://www.anh-usa.org/about-2/overview/">About Us</a>
+<ul class="sub-menu">
+	<li id="menu-item-13616" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13616"><a href="http://www.anh-usa.org/about-2/overview/">Who We Are</a></li>
+	<li id="menu-item-13615" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13615"><a href="http://www.anh-usa.org/about-2/history/">History</a></li>
+	<li id="menu-item-14884" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14884"><a href="http://www.anh-usa.org/accomplishments/">Accomplishments</a></li>
+	<li id="menu-item-13617" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13617"><a href="http://www.anh-usa.org/about-2/leadership/">Leadership</a></li>
+</ul>
+</li>
+<li id="menu-item-15661" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-15661"><a href="#">Resources</a>
+<ul class="sub-menu">
+	<li id="menu-item-13624" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13624"><a href="http://www.anh-usa.org/position-papers/">Position Papers</a></li>
+	<li id="menu-item-13625" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13625"><a href="http://www.anh-usa.org/know-your-state-medical-board/">Know Your State Medical Board</a></li>
+	<li id="menu-item-13626" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13626"><a href="http://www.anh-usa.org/nhaf/">Natural Health Alliance Foundation</a></li>
+</ul>
+</li>
+<li id="menu-item-13695" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-13695"><a href="#">Regions</a>
+<ul class="sub-menu">
+	<li id="menu-item-13697" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13697"><a target="_blank" href="http://www.anhinternational.org/">ANH International</a></li>
+	<li id="menu-item-13696" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13696"><a target="_blank" href="http://www.anh-europe.org/">ANH Europe</a></li>
+</ul>
+</li>
+</ul></div>			</nav>
+			
+		</div>
+		
+	</div>
 
+<div class="mobileLogo"><img src="/wp-content/uploads/2014/08/sidebar-logo.png"></div>
 
+<div class="main wrap cf">
 
-	<div id="page_content">
+	<div class="row">
+		<div class="col-8 main-content">
+			
+			
+			<article id="post-1242" class="post-1242 page type-page status-publish">
 
-				<div class="post" id="post-1242">
-		<!---<h2>Privacy Policy</h2>--->
-			<div style="float:right;margin-right:10px;"><a href="http://www.anh-usa.org/privacy-policy/printpage/" title="Print This Page" rel="nofollow" target="_blank"><img class="WP-PrintIcon" src="http://www.anh-usa.org/wp-content/plugins/wp-print/images/print.gif" alt="Print This Page" title="Print This Page" style="border: 0px;"></a>&nbsp;<a href="http://www.anh-usa.org/privacy-policy/printpage/" title="Print This Page" rel="nofollow" target="_blank">Print This Page</a>
-  </div>
-			<div class="entry">
+						
+				<header class="post-header">				
+					
+								
+					<h1 class="main-heading">
+						Privacy Policy					</h1>
+				</header><!-- .post-header -->
+				
+					
+			<div class="post-content">			
+				
 				<p><span style="font-size: large;"><strong>Privacy Policy</strong></span></p>
-<hr><span style="font-size: medium;"><strong>We respect your privacy.</strong></span><p></p>
-<p>The Alliance for Natural Health USA (ANH-USA) is committed to protecting  the personal information that you entrust to us when using ANH-USA’s  websites. This online privacy statement (the “Privacy Statement”)  describes how we treat all user data collected by ANH-USA during your  visit to www.anh-usa.org and its affiliated sites. It covers both  technical data that is automatically collected and data that you  voluntarily provide.</p>
+<hr>
+<p><span style="font-size: medium;"><strong>We respect your privacy.</strong></span></p>
+<p>The Alliance for Natural Health USA (ANH-USA) is committed to protecting the personal information that you entrust to us when using ANH-USA’s websites. This online privacy statement (the “Privacy Statement”) describes how we treat all user data collected by ANH-USA during your visit to www.anh-usa.org and its affiliated sites. It covers both technical data that is automatically collected and data that you voluntarily provide.</p>
 <p><span style="font-size: medium;"><strong>Our Promises to you:</strong></span></p>
 <ul>
 <li><strong>We do not rent, sell, or trade our member list to third parties.</strong></li>
@@ -412,134 +290,235 @@ secondTracker._trackPageview();
 </ul>
 </li>
 </ul>
-<p>If you would like more information about what kind of data we collect and how we use it, <a href="http://www.anh-usa.org/privacy-details/">please click here to read further</a>. The above Promises are a binding agreement between ANH-USA and you. In the event there is a discrepancy between the technical details and the our Promises, our Promise to you will be kept. Nothing in the technical details shall be interpreted to invalidate any of our Promises to you.</p>
-
+<p>If you would like more information about what kind of data we collect and how we use it, <a href="/privacy-details/">please click here to read further</a>. The above Promises are a binding agreement between ANH-USA and you. In the event there is a discrepancy between the technical details and the our Promises, our Promise to you will be kept. Nothing in the technical details shall be interpreted to invalidate any of our Promises to you.</p>
 				
 			</div>
+
+			</article>
+			
 		</div>
-				<div style="text-align:right;margin:0px 10px 20px 0px;"><a href="http://www.anh-usa.org/privacy-policy/printpage/" title="Print This Page" rel="nofollow" target="_blank"><img class="WP-PrintIcon" src="http://www.anh-usa.org/wp-content/plugins/wp-print/images/print.gif" alt="Print This Page" title="Print This Page" style="border: 0px;"></a>&nbsp;<a href="http://www.anh-usa.org/privacy-policy/printpage/" title="Print This Page" rel="nofollow" target="_blank">Print This Page</a>
-  </div>
-		</div>
-	
-	<div id="page_sidebar">
 		
-		<div id="sidebar_image">
-			<img src="/wp-content/themes/anhus/images/fruit_veggies.jpg">
-		</div>
-		<div id="donate_page">
-			<h2>DONATE TO ANH-USA</h2>
-			<div id="buttons">
-				<div class="button">
-					<h3><a href="https://secure3.convio.net/aahf/site/Donation2?df_id=1780&amp;1780.donation=form1" onclick="javascript:window.open('https://secure3.convio.net/aahf/site/Donation2?df_id=1780&amp;1780.donation=form1'); return false;">LOBBYING</a></h3>
-				</div>
-				<div class="divider"></div>
-				<div class="button">
-					<h3><a href="&#9;http://aahf.convio.net/site/Donation2?df_id=2260&amp;2260.donation=form1" onclick="javascript:window.open('http://aahf.convio.net/site/Donation2?df_id=2260&amp;2260.donation=form1'); return false;">LEGAL FUND</a></h3>
-				</div>
-				<div class="divider"></div>
-				<div class="button">
-					<h3><a href="http://www.anh-usa.org/main-menu/take-action/join/">MEMBERSHIP</a></h3>
-				</div>
-			</div>
-		</div>
-		<div class="green_bar"></div>
-		<div id="take_action_small">
-			<h1>Take Action!</h1>
-			<form name="actions" action="">
-				<select id="action_dropdown" name="action" onchange="window.location = this.value">
-					<option value="">
-					Select Action</option>
-										
-								<option value="https://secure3.convio.net/aahf/site/Advocacy?cmd=display&amp;page=UserAction&amp;id=1085">Protect Vaccine Choice in Vermont</option>
-												
-								<option value="https://secure3.convio.net/aahf/site/Advocacy?cmd=display&amp;page=UserAction&amp;id=1021">Tell Congress to Reject the Research Works Act!</option>
-												
-								<option value="https://secure3.convio.net/aahf/site/Advocacy?cmd=display&amp;page=UserAction&amp;id=977">New York Action Alert on Licensed Dietician/Nutritionists Bill</option>
-												
-								<option value="https://secure3.convio.net/aahf/site/Advocacy?cmd=display&amp;page=UserAction&amp;id=863">Oppose ADA Monopoly in New Jersey!</option>
-												
-								<option value="https://secure3.convio.net/aahf/site/Advocacy?cmd=display&amp;page=UserAction&amp;id=927">Tell Congress to Restore Free Speech for Nutritional Supplement Companies!</option>
-												
-								<option value="https://secure3.convio.net/aahf/site/Advocacy?cmd=display&amp;page=UserAction&amp;id=930">Tell Them: No Protecting Monsanto!</option>
-												
-								<option value="https://secure3.convio.net/aahf/site/Advocacy?cmd=display&amp;page=UserAction&amp;id=915">Defeat the HPV Bill in New York!</option>
-												
-								<option value="https://secure3.convio.net/aahf/site/Advocacy?cmd=display&amp;page=UserAction&amp;id=877">Tell the FDA to Warn Consumers about Antidepressants and Violence!</option>
-												
-								<option value="https://secure3.convio.net/aahf/site/Advocacy?cmd=display&amp;page=UserAction&amp;id=873">Tell Congress to Permit Interstate Commerce of Unpasteurized Dairy Products</option>
-												
-								<option value="https://secure3.convio.net/aahf/site/Advocacy?cmd=display&amp;page=UserAction&amp;id=867">Tell FDA to Stop Listening to Big Food Interests on the “Gluten-Free” Definition</option>
-												
-								<option value="https://secure3.convio.net/aahf/site/Advocacy?cmd=display&amp;page=UserAction&amp;id=855">Maryland Residents: Tell Then to Make Smart Meters Optional!</option>
-												
-								<option value="https://secure3.convio.net/aahf/site/Advocacy?cmd=display&amp;page=UserAction&amp;id=833">Tell Congress the Draft Guidance on NDIs is Bad for Consumers</option>
-												
-								<option value="https://secure3.convio.net/aahf/site/Advocacy?cmd=display&amp;page=UserAction&amp;id=836">Tell Congress to Oppose the Dietary Supplement Labeling Act</option>
-												
-								<option value="https://secure3.convio.net/aahf/site/Advocacy?cmd=display&amp;page=UserAction&amp;id=823">Tell Congress to Expand "Eligible Medical Expenses" Coverage!</option>
-												
-								<option value="https://secure3.convio.net/aahf/site/Advocacy?cmd=display&amp;page=UserAction&amp;id=811">Tell Congress to Support the Preservation of Antibiotics for Medical Treatment Act!</option>
-											</select>
-			</form>
-		</div>
-		<div id="newsletter">
-			<h2><a href="http://www.anh-usa.org/subscribe">SUBSCRIBE TO OUR NEWSLETTER »</a></h2>
-		</div>
-		<div class="green_bar"></div>
-	</div>
+				
+		<aside class="col-4 sidebar">
+			<ul>
+			
+			<li id="text-2" class="widget widget_text">			<div class="textwidget"><div class="micrositeBtns">
 
-
-
-	<div id="resources">
-		<div id="content">
-			<div class="section">
-				<br>				<h1>Follow us on...</h1>
-				<div id="social">
-					<a href="http://twitter.com/anhusa" onclick="javascript:window.open('http://twitter.com/anhusa'); return false;"><img class="button" src="http://www.anh-usa.org/wp-content/themes/anhus/images/twitter.png" border="0"></a>
-					<a href="http://www.facebook.com/ANHUSA" onclick="javascript:window.open('http://www.facebook.com/ANHUSA'); return false;"><img class="button" src="http://www.anh-usa.org/wp-content/themes/anhus/images/facebook.png" border="0"></a>
-					<a href="/?feed=rss2" onclick="javascript:window.open('https://web.archive.org/?feed=rss2'); return false;"><img class="button" src="http://www.anh-usa.org/wp-content/themes/anhus/images/rss.png" border="0"></a>
-					<a href="http://www.youtube.com/watch?v=PPOI4AlTkbo" onclick="javascript:window.open('http://www.youtube.com/watch?v=PPOI4AlTkbo'); return false;"><img class="button" src="http://www.anh-usa.org/wp-content/themes/anhus/images/youtube.png" border="0"></a>
-				</div>
-			</div>
-		</div>
-	</div>
-    <div style="clear:both;"></div>
-<div id="footer"></div>
+<div class="sidebar-logo">
+  <a href="/"><img src="/wp-content/uploads/2014/08/sidebar-logo.png"></a>
 </div>
-<div class="footer">
-	<div id="cc-icons">
-		<img src="http://www.anh-usa.org/wp-content/themes/anhus/images/creative-commons-logos.png">
-	</div>
-	<div id="copyright">
-		<p>Copyright © 2013 Alliance for Natural Health USA (ANH-USA). Permission granted to forward, copy, or reprint with date and attribution (including link to original content) to ANH-USA. Except where otherwise noted, content on this site is licensed under a <a mce_href="http://creativecommons.org/licenses/by/3.0/" href="http://creativecommons.org/licenses/by/3.0/" onclick="javascript:window.open('http://creativecommons.org/licenses/by/3.0/'); return false;">Creative Commons 
-Attribution 3.0 License</a>.</p><p><i><b>Use of This Website:</b> The entire contents of this website are based upon the opinions of the Alliance for Natural Health USA (ANH-USA), unless otherwise noted. Information on this website is provided for educational purposes only; it is not intended as a substitute for medical or professional advice of any kind. It is intended as a sharing of knowledge and information from the research and experience of ANH-USA and the natural health community. Reliance upon any such opinion, advice, statement, or other information shall also be at your own risk.&nbsp; Neither ANH-USA, nor any of its respective agents, employees, information providers, or content providers shall be liable to any user or anyone else for any use or misuse of the information, inaccuracy, error, omission, interruption, lack of timeliness, incompleteness, deletion, defect, failure of performance, computer virus, communication line failure, alteration of, or use of any content herein, regardless of cause, or for any damages resulting therefrom.</i></p><p><i>Privacy: Reader privacy is respected. Addresses are not shared with others. For more information, please see our <a target="" title="" href="http://www.anh-usa.org/privacy-policy/">privacy policy</a>.</i><br></p>
-<!--EndFragment-->	</div>
-	<div id="links" style="float:right; margin: 4px 10px 0 0;">
-		<a href="http://www.anh-usa.org/?page_id=1242">Privacy Policy</a>
-		<a href="/sitemap.xml" onclick="javascript:window.open('https://web.archive.org/sitemap.xml'); return false;">Site Map</a>
-		<a href="http://www.anh-usa.org/?page_id=1240">Tems of Use</a>
-	</div>
+
+<div class="heading">
+<h3>Act Now!</h3>
+</div>
+<div class="sideBarBanner subscribeRightBanner">
+<div class="bannerThumb"><img src="/wp-content/uploads/2015/03/subscribe_thumb.png" width="74" height="74" alt="Subscrible Now!"></div>
+<div class="bannerText">
+<a class="lightbox" href="#pulse-of-natural-health-subscribe">Subscribe</a></div>
+</div>
+<div class="sideBarBanner2 rightBannerShort">
+<div class="bannerText">
+<a href="/category/action-alerts/">Take<br>
+Action</a></div>
+</div>
+<div class="sideBarBanner3 rightBannerShort">
+<div class="bannerText">
+<a href="/donate">Donate</a></div><a href="/donate">
+</a></div><a href="/donate">
+<div style="clear:both; height:0;margin-bottom:18px;"></div>
+<div class="heading">
+  <h3>Explore Key Campaigns</h3>
+</div>  
+</a><div class="sideBarBanner gmoColor"><a href="/donate">
+<div class="bannerThumb"><img src="/wp-content/uploads/2015/03/GMO-sidebar_thumb.jpg" width="74" height="74" alt="GMO Fact Check"></div>
+</a><div class="bannerText"><a href="/donate">
+</a><a href="/microsite/gmo-fact-check/">GMO<br>
+Fact Check</a></div>
+</div>
+<div class="sideBarBanner supplementColor">
+<div class="bannerThumb"><img src="/wp-content/uploads/2015/03/supliment-fact-check-thumb.jpg" width="74" height="74" alt="Supplement Fact Check"></div>
+<div class="bannerText">
+<a href="/microsite/are-my-supplements-safe/">SUPPLEMENT<br>
+Fact Check</a></div>
+</div>
+<div class="sideBarBanner eatRight">
+<div class="bannerThumb"><img src="/wp-content/uploads/2015/03/eat-right-thumb.jpg" width="74" height="74" alt="Really Eat Right"></div>
+<div class="bannerText">
+<a href="/microsite/really-eat-right/">REALLY<br>
+Eat Right</a></div>
+</div>
+<div class="sideBarBanner compoundingColor">
+<div class="bannerThumb"><img src="/wp-content/uploads/2015/03/compounding-thumb.jpg" width="74" height="74" alt="Save Compounding"></div>
+<div class="bannerText">
+<a href="/microsite/save-compounding/">SAVE<br>
+Compounding</a></div>
+</div>
+
+<div class="sideBarBanner vaccineColor">
+<div class="bannerThumb"><img src="/wp-content/uploads/2015/03/protect-vaccine-choice.jpg" width="74" height="74" alt="Protect Vaccine Choice"></div>
+<div class="bannerText">
+<a href="/protect-vaccine-choice/">SAVE<br>
+Vaccine Choice</a></div>
+</div>
+
+<!--
+<div class="heading">
+  <h3>Get ANH Gear</h3>
+</div>
+<img width="325" height="91" alt="Shop Online" style="margin-bottom:22px" src="http://www.gmofactcheck.com/proofs/images/shopping_btn.gif"> 
+-->
+<div class="headingFacebook">
+<h3>Like Us On Facebook</h3>
 </div>
 
 
 
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.0";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+<div class="fb-like-box" data-href="https://www.facebook.com/ANHUSA" data-width="325px" data-height="500px" data-colorscheme="light" data-show-faces="false" data-header="false" data-stream="true" data-show-border="true"></div></div>
+		</div></li>
+	
+			</ul>
+		</aside>		
+	</div> <!-- .row -->
+</div> <!-- .main -->
+
+<style>
+p {
+    font-size: 15px;
+ }
+</style>	
+<footer class="main-footer">
+	
+					<div class="wrap cf">
+				<div class="row">
+					<div class="col-8">
+					<div class="footerAddress">
+							<p>Alliance for Natural Health USA<br>
+								3525 Piedmont Rd. NE, Bld. 6 Ste. 310, Atlanta, GA 30305 <span class="bullet">•</span> 1.800.230.2762 <span class="bullet">•</span> Fax: 202.315.5837 <br> <a href="/contact-anh-usa/">Contact Us Online</a>
+							</p>
+						</div>
+						<p>Copyright © 2015 Alliance for Natural Health USA (ANH-USA). Permission granted to forward, copy, or reprint with date and attribution (including link to original content) to ANH-USA. Except where otherwise noted, content on this site is licensed under a Creative Commons Attribution 3.0 License. <a href="/terms-and-conditions-of-use/">View complete terms and conditions</a>.</p>
+					</div>
+					<aside class="col-4">
+						<div class="smFooter">
+							<p>Connect with ANH-USA</p>
+							<ul>
+								<li><a href="https://www.facebook.com/ANHUSA" target="_blank"><img src="http://www.anh-usa.org/wp-content/themes/anh-usa-2014/images/social/facebook.png" width="60" height="60" alt="Like Us On Facebook"></a></li>
+								<li><a href="https://twitter.com/anhusa" target="_blank"><img src="http://www.anh-usa.org/wp-content/themes/anh-usa-2014/images/social/twitter.png" width="60" height="60" alt="Follow Us On Twitter"></a></li>
+								<li><a href="https://plus.google.com/+ANHUSAORG/about" target="_blank"><img src="http://www.anh-usa.org/wp-content/themes/anh-usa-2014/images/social/google-plus.png" width="60" height="60" alt="Visit Us On Google Plus"></a></li>
+								<li><a href="https://www.linkedin.com/company/2402007" target="_blank"><img src="http://www.anh-usa.org/wp-content/themes/anh-usa-2014/images/social/linkedIn.png" width="60" height="60" alt="Network With Us"></a></li>
+								<li><a href="https://www.youtube.com/channel/UCrDLm4mwdzBgdT1RzqqjJ8Q/feed?view_as=public" target="_blank"><img src="http://www.anh-usa.org/wp-content/themes/anh-usa-2014/images/social/youTube.png" width="60" height="60" alt="View Our Video Channel At YouTube"></a></li>
+								<li><a href="https://vimeo.com/user30349854" target="_blank"><img src="http://www.anh-usa.org/wp-content/themes/anh-usa-2014/images/social/vimeo.png" width="60" height="60" alt="Watch Our Videos On Vimeo"></a></li>
+								<li><a href="http://feeds.feedburner.com/TheAllianceForNaturalHealthUsa"><img src="http://www.anh-usa.org/wp-content/themes/anh-usa-2014/images/social/RSS.png" width="60" height="60" alt="Subscribe To Our Feed"></a></li>
+								<li><a href="http://www.pinterest.com/allnathealth/" target="_blank"><img src="http://www.anh-usa.org/wp-content/themes/anh-usa-2014/images/social/pinterest.png" width="60" height="60" alt="Pin Us On Pinterest"></a></li>
+							</ul>
+							<div style="clear:left"></div>
+						</div>
+					</aside>
+				</div> <!-- .row -->
+			</div>
+		        
+   <div id="pulse-of-natural-health-subscribe" style="display:none">
+  <div class="subscribePop" id="subscribe_to_our_free_newsletter">
+   <form action="https://secure3.convio.net/aahf/site/SSurvey" method="POST" id="newsletter_subscribe_form">
+
+      <input type="hidden" value="t" id="cons_info_component" name="cons_info_component">
+      <input type="hidden" value="Subscriber" name="cons_first_name">
+      <input type="hidden" value="Subscriber" name="cons_last_name">
+
+      <input type="hidden" value="t" id="cons_mail_opt_in" name="cons_mail_opt_in">
+      <input type="hidden" value="true" name="cons_email_format_requested" id="cons_email_format_requested">
+      <input type="hidden" value="true" name="cons_postal_opt_in_requested" id="cons_postal_opt_in_requested">
+
+      <input type="hidden" alt="This field is used to prevent form submission by scripts." value="" id="denySubmit" name="denySubmit">
+
+      <input type="hidden" value="anhusa" id="api_key">
+      <input type="hidden" value="1.0" id="v">
+      <input type="hidden" value="https://secure3.convio.net/aahf/site/CRConsAPI" id="servlet">
+      <input type="hidden" value="UNITED KINGDOM" id="msg_united_kingdom">
+      <input type="hidden" value="Error" id="msg_server_error">
+      <input type="hidden" value="-- My address is not in this list --" id="msg_address_not_in_list">
+      <input type="hidden" value="1321" id="3157_4140_3_1761_1" name="3157_4140_3_1761">
+      <input type="hidden" value="1302" id="3157_4140_3_1761_2" name="3157_4140_3_1761">
+      <input type="hidden" value="1201" id="3157_4140_3_1761_3" name="3157_4140_3_1761">
+      <input type="hidden" value="1301" id="3157_4140_3_1761_4" name="3157_4140_3_1761">
+      <input type="hidden" value="4140" id="SURVEY_ID" name="SURVEY_ID">
+
+      <input onblur="if(this.value==''){this.value='Email'}" onfocus="if(this.value=='Email'){this.value=''}" value="Email" class="pop_Email" name="cons_email">
+      
+            <input onblur="if(this.value==''){this.value='Zip/Postal'}" onfocus="if(this.value=='Zip/Postal'){this.value=''}" value="Zip/Postal" class="pop_Zip" name="cons_zip_code">
+           
+            <div style="clear:both; height:0"></div>
+           
+            
+<br>
+      <input type="submit" class="subscribeSubmit" value="Subscribe" id="ACTION_SUBMIT_SURVEY_RESPONSE" name="ACTION_SUBMIT_SURVEY_RESPONSE">
+
+    </form>
+  </div>
+</div>
+
+	</footer>
+	
+</div> <!-- .main-wrap -->
+
+<script type="text/javascript">if(window.aiModifyParent) {aiModifyParent();}</script><link rel="stylesheet" id="emc2alerts_css-css" href="http://www.anh-usa.org/wp-content/plugins/emc2-alert-boxes/emc2-alert-boxes.css?ver=4.2.2" type="text/css" media="all">
+<script type="text/javascript" src="http://www.anh-usa.org/wp-includes/js/comment-reply.min.js?ver=4.2.2"></script>
+<script type="text/javascript" src="http://www.anh-usa.org/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.51.0-2014.06.20"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var _wpcf7 = {"loaderUrl":"http:\/\/www.anh-usa.org\/wp-content\/plugins\/contact-form-7\/images\/ajax-loader.gif","sending":"Sending ..."};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://www.anh-usa.org/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=4.1.2"></script>
+<script type="text/javascript" src="http://www.anh-usa.org/wp-content/plugins/wp-retina-2x/js/retina.min.js?ver=1.3.0"></script>
+<script type="text/javascript" src="http://www.anh-usa.org/wp-content/themes/smart-mag/js/bunyad-theme.js?ver=4.2.2"></script>
+<script type="text/javascript" src="http://www.anh-usa.org/wp-content/themes/smart-mag/js/jquery.flexslider-min.js?ver=4.2.2"></script>
+<script type="text/javascript" src="http://www.anh-usa.org/wp-content/plugins/emc2-alert-boxes/emc2-alert-boxes.js?ver=4.2.2"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var countVars = {"disqusShortname":"anhusa"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://www.anh-usa.org/wp-content/plugins/disqus-comment-system/media/js/count.js?ver=4.2.2"></script>
+<script type="text/javascript" id="slb_context">/* <![CDATA[ */if ( !!window.jQuery ) {(function($){$(document).ready(function(){if ( !!window.SLB ) { {$.extend(SLB, {"context":["public","user_guest"]});} }})})(jQuery);}/* ]]> */</script>
+
+<script src="//static.getclicky.com/js" type="text/javascript"></script>
+<script type="text/javascript">try{ clicky.init(100766253); }catch(e){}</script>
+<script type="text/javascript">
+var loc = location.href;
+if(loc == "http://www.anh-usa.org/old-action-alerts/") {
+var x = document.getElementsByClassName('column');
+    for(i=1;i<x.length;i++)
+    {
+        if(i == 9) {
+            break;
+        }
+        x[i].style.display = 'none';
+        
+    }
+}
+</script>
 
 
-<!-- Performance optimized by W3 Total Cache. Learn more: http://www.w3-edge.com/wordpress-plugins/
+<script type="text/javascript">
+ $(function() {
+  if (typeof jQuery.fancybox === 'function') {
+    $('.lightbox').fancybox();
+  }
+    
+  });
+</script>
 
-Served from: www.anh-usa.org @ 2014-12-03 02:10:47 -->
 
-<!-- W3 Total Cache: Page cache debug info:
-Engine:             disk: basic
-Cache key:          w3tc_www.anh-usa.org_1_page_6b797c518fb89e541cad4a7ebe8dba37
-Caching:            enabled
-Status:             cached
-Creation Time:      0.000s
-Header info:
-Last-Modified:      Wed, 03 Dec 2014 07:10:47 GMT
-Vary:               Accept-Encoding, Cookie
-X-Powered-By:       W3 Total Cache/0.9.2.4
-Content-Encoding:   gzip
-X-Pingback:         http://www.anh-usa.org/xmlrpc.php
-Content-Type:       text/html; charset=UTF-8
---></body></html>
+<noscript><p><img alt="Clicky" width="1" height="1" src="//in.getclicky.com/100766253ns.gif" /></p></noscript>
+
+
+</body></html>
