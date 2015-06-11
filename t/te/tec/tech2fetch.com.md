@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tech2fetch.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121105510id_/http%3A//www.tech2fetch.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tech2fetch.com privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611045529id_/http%3A//www.tech2fetch.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -65,7 +65,7 @@ By using this Site, you signify your acceptance of this policy and terms of ser
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site
 
-**Please[contact us](http://www.tech2fetch.com/contact-us/ "contact us") at:**  
+**Please[contact us](http://www.tech2fetch.com/contact-us/) at:**  
 [Tech2Fetch](http://www.tech2fetch.com/)
 
 Contact Number: +92-3125268399
