@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thewarehouse.co.nz privacy policy that was archived on 2014-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141221160816id_/http%3A//www.thewarehouse.co.nz/red/content/homepage/security-payment/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thewarehouse.co.nz privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611083916id_/http%3A//www.thewarehouse.co.nz/red/content/homepage/security-payment/privacy) for the most accurate reproduction.*
 
 # Privacy - Security & Payment - Content Pages - The Warehouse
 
