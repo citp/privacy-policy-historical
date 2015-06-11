@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the leerburg.com privacy policy that was archived on 2014-12-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141219045029id_/http%3A//leerburg.com/privacy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the leerburg.com privacy policy that was archived on 2015-06-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150611142503id_/http%3A//leerburg.com/privacy.htm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
@@ -7,7 +7,7 @@
 <meta name="Keywords" content="leerburg, dog, training, information, technologies, video">
 <meta name="Description" content="Modern information and communication technologies play a fundamental role in the activities of an organization like Leerburg Video Production. We are based in the USA.">
 <link rel="stylesheet" type="text/css" href="css/styles.css">
-<script type="text/javascript" async="" id="_casrc" src="//t.channeladvisor.com/v2/12013712.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1"></script><script src="https://jqueryjs.googlecode.com/files/jquery-1.2.6.min.js" type="text/javascript"></script>
+<script async="" src="//www.google-analytics.com/analytics.js"></script><script id="twitter-wjs" src="https://platform.twitter.com/widgets.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=717963561658553"></script><script src="https://jqueryjs.googlecode.com/files/jquery-1.2.6.min.js" type="text/javascript"></script>
 <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
 <script type="text/javascript">
 $(document).ready(function() {
@@ -27,7 +27,7 @@ $(document).ready(function() {
 <style>
 td.text{border:1px solid #cccccc;padding:3px;}
 </style>
-<meta name="viewport" content="initial-scale=1.0,width=device-width"><link href="https://leerburg.com/js/accordion/css/dcaccordion.css" rel="stylesheet" type="text/css"><link href="//fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,700" rel="stylesheet" type="text/css"><link href="//fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700" rel="stylesheet" type="text/css"><script type="text/javascript" src="https://leerburg.com/js/accordion/js/jquery.dcjqaccordion.2.7.min.js"></script><script type="text/javascript" src="https://leerburg.com/js/accordion/js/jquery.cookie.js"></script><script type="text/javascript" src="https://leerburg.com/js/mmenu.hoverIntent.min.js"></script><script type="text/javascript">
+<meta name="viewport" content="initial-scale=1.0,width=device-width"><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><link href="//fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,700" rel="stylesheet" type="text/css"><link href="//fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700" rel="stylesheet" type="text/css"><link href="//fonts.googleapis.com/css?family=Open+Sans:400,600,700" rel="stylesheet" type="text/css"><script type="text/javascript" src="//leerburg.com/js/jquery-1.11.2.min.js"></script><script type="text/javascript" src="//leerburg.com/js/jquery-migrate-1.2.1.min.js"></script><script type="text/javascript" src="//leerburg.com/js/jquery-ui.min.js"></script><script type="text/javascript">
 function checkOptions(i, numOptions)  // Use this SINGLE function for every buy button the page that is set up to use it ;)
 {
 	okToSubmit=true;
@@ -39,44 +39,52 @@ function checkOptions(i, numOptions)  // Use this SINGLE function for every buy 
 	if(okToSubmit==false) alert("Please select an option.");
 	return okToSubmit;
 }
+
+// Shows the selected add-on for products with groups (e.g. patches)
+function showChild(productGroupID,choice)
+{
+	$.post('ajax/showChild.php?action=update&choice='+choice, $("#form_group_"+productGroupID).serialize(), function(data) {
+					$('#child_'+choice).html(data);
+		});	
+}
+
+// For buybutton_group - calls checkOptions() and then checks to make sure add-ons have been selected if needed
+function checkAll(parentModel,numOptions,numChoices)
+{
+	if(numOptions>0 && !(checkOptions(parentModel,numOptions))) return false;
+	for(i=0;i<numChoices;i++)
+	{
+		var choice=document.getElementById("choice_"+i).value;
+		if(choice=="")
+		{
+			alert("Please make a selection for Choice "+(i+1)+"!");
+			return false;
+		}
+	}
+}
 </script><script type="text/javascript">
-//mega menu
-$(document).ready(function() {
-	function addMega(){  
-  	$(this).addClass("dropdown_3columnsh"); 
-  }  
-  function removeMega(){  
-  	$(this).removeClass("dropdown_3columnsh");  
-  }  	  
-	var megaConfig = {
-	  interval: 100,
-	  sensitivity: 4,
-	  over: addMega,
-	  timeout: 400,
-	  out: removeMega
-  };
-  $("li.dropdown_3columns").hoverIntent(megaConfig)
-});
+  $(document).ready(function() {
+    $('#shop-button-mobile').find('.accordion-toggle').click(function(){
 
-jQuery(document).ready(function(){
-	jQuery("a.closemenu").click(function(){
-		$('.dropdown_3columnsh').find('div.dd3').removeClass('dd3').addClass('hidemenu');			
-		$('.dropdown_3columns').mouseout().find('div.hidemenu').removeClass('hidemenu').addClass('dd3');
+      //Expand or collapse this panel
+      $(this).next().slideToggle('fast');
+
+			//Hide the other panels
+      $(".accordion-content").not($(this).next()).slideUp('fast');
+			
+    });
+  });
+</script><script type="text/javascript" src="//leerburg.com/js/jquery.hoverIntent.minified.js"></script><script type="text/javascript">
+// jquery for link highlights and changing which div is revealed in shop dropdown
+jQuery(function($) {
+	$( '.master-category-list a' ).hoverIntent(function() {
+			$('.hovered-link').removeClass('hovered-link'); // remove .hovered-link from any a that has it
+			$(this).addClass('hovered-link'); // add .hovered-link to the current one
+			$('div.dropdown-category-sections').removeClass("show-category-div"); // hides any div that may have the display:block class
+			$('#'+$(this).attr('id')+'-div').addClass("show-category-div"); // shows the div connected to this link
 	});
 });
-//accordion
-$(document).ready(function($){
-	$('#accordion').dcAccordion({
-		eventType: 'click',
-		autoClose: false,
-		saveState: true,
-		disableLink: true,
-		speed: 'fast',
-		classActive: 'test',
-		showCount: true
-	});
-});
-</script><script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
+</script></head>
 
 
 
@@ -89,17 +97,62 @@ $(document).ready(function($){
 
 
 
-     
-            
+<!-- jQuery for select box errors -->
+  
+
+<!-- jQuery for new header, updated 03/2015 -->
+<!-- accordion (mobile dropdown)  -->
+
+
+<!-- hover Intent (desktop dropdown) -->
+
+
+
 <body>
+
+<!--  Facebook code -->
+
+<!-- Original FB code -->
 <div id="fb-root"></div>
-<script>(function(d, s, id) {
+
+<script>
+(function(d, s, id) {
   var js, fjs = d.getElementsByTagName(s)[0];
   if (d.getElementById(id)) return;
   js = d.createElement(s); js.id = id;
-  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+   js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=717963561658553";
   fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));</script>
+}(document, 'script', 'facebook-jssdk'));
+</script>
+
+<!-- Leerburg.com Facebook App Id code; saving for posterity
+<div
+  class="fb-like"
+  id="fb-root"
+  data-share="true"
+  data-width="450"
+  data-show-faces="true">
+</div>
+
+<script>
+  window.fbAsyncInit = function() {
+    FB.init({
+      appId      : '717963561658553',
+      xfbml      : true,
+			status      : true,
+      version    : 'v2.3'
+    });
+  };
+
+  (function(d, s, id){
+     var js, fjs = d.getElementsByTagName(s)[0];
+     if (d.getElementById(id)) {return;}
+     js = d.createElement(s); js.id = id;
+     js.src = "//connect.facebook.net/en_US/sdk.js";
+     fjs.parentNode.insertBefore(js, fjs);
+   }(document, 'script', 'facebook-jssdk'));
+</script>-->
+
 
 <!--[if lte IE 7]><div style="top:0;left:0;width:100%;background-color:#EDCB62;color:#00000;padding:5px;padding-bottom:6px;font-family:Arial;font-size:16px;"><span style="color:#ee3124;font-weight:bold;">Does this page look messed up?</span> This website doesn't support browsers IE7 or lower. Please update your Internet browser <a href="http://windows.microsoft.com/en-us/internet-explorer/download-ie">here</a>. If you are on IE8+, you may have accidentally enabled compatibility mode. Click <a href="http://windows.microsoft.com/en-us/internet-explorer/use-compatibility-view#ie=ie-10">here</a> to learn how to fix it.</div><![endif]-->
 
@@ -110,834 +163,773 @@ $(document).ready(function($){
     <div id="login-bar">     
         <div style="float:left;margin-top:1px;" class="login-row">
             <div id="tiny-logo" class="mobile-show2">
-                <a href="http://leerburg.com"><img src="https://leerburg.com/Photos/mobile-logo.png" width="72px" height="38px"></a>
+                <a href="http://leerburg.com"><img src="//leerburg.com/Photos/mobile-logo.png" width="72px" height="38px"></a>
             </div>
                             <a href="http://leerburg.com/cart/login.php" class="tbar">Log In</a> &nbsp; | &nbsp; 
                 <a href="http://leerburg.com/cart/register.php" class="tbar">Sign Up</a> &nbsp;
                         <span class="none">| &nbsp;</span> <a href="http://leerburg.com/cart/viewwishlist.php" class="tbar none">Wish List</a> &nbsp;<span class="none"> &nbsp;</span>
         </div> 	
         <!--Facebook Button-->
-        <div style="float:left;margin-top:-1px;margin-right:6px;" class="none2"><div class="fb-like" data-href="http://facebook.com/leerburg" data-send="false" data-layout="button_count" data-width="50" data-show-faces="false"></div></div>
+        <div style="float:left;margin-top:-1px;margin-right:6px;" class="social-icons"><div class="fb-like" data-href="http://facebook.com/leerburg" data-send="false" data-layout="button_count" data-width="50" data-show-faces="false"></div></div>
         <!--Twitter Button-->  
-        <div style="float:left;margin-right:7px;margin-top:0px;margin-left:1px" class="none2"><iframe allowtransparency="true" frameborder="0" scrolling="no" src="//platform.twitter.com/widgets/follow_button.html?screen_name=leerburg&amp;lang=en&amp;show_count=false&amp;show_screen_name=false" style="width:58px; height:20px;-moz-border-radius:2px;border-radius:2px;"></iframe></div>
+        <div style="float:left;margin-right:7px;margin-top:0px;margin-left:1px" class="social-icons">
+          <a href="https://twitter.com/leerburg" class="twitter-follow-button" data-show-count="false" data-show-screen-name="false">Follow @leerburg</a>
+          <script>window.twttr=(function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],t=window.twttr||{};if(d.getElementById(id))return t;js=d.createElement(s);js.id=id;js.src="https://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);t._e=[];t.ready=function(f){t._e.push(f);};return t;}(document,"script","twitter-wjs"));			 					</script>
+				</div>
         <!--Google+ Button-->
-        <div style="float:left;margin-right:7px;margin-top:0px;" class="none2"><a href="https://plus.google.com/115334324100729868313?prsrc=3" rel="author" style="text-decoration:none;"><img src="https://ssl.gstatic.com/images/icons/gplus-16.png" alt="" style="border:2px solid #ffffff;width:16px;height:16px;margin-right:7px;-moz-border-radius:2px;border-radius:2px"></a></div>
-    
+        <div style="float:left;margin-right:7px;margin-top:0px;" class="social-icons"><a href="https://plus.google.com/115334324100729868313?prsrc=3" rel="author" style="text-decoration:none;"><img src="//ssl.gstatic.com/images/icons/gplus-16.png" alt="" style="border:2px solid #ffffff;width:16px;height:16px;margin-right:7px;-moz-border-radius:2px;border-radius:2px"></a></div>
+    	
         <table align="right" class="checkout-row">
             <tbody><tr>
-                <td class="below800"><img src="https://leerburg.com/Photos/paypaltop.png" alt="We accept PayPal."></td>
-                <td class="below800"><img src="https://leerburg.com/Photos/mastercard.png" alt="We accept Mastercard."></td>
-                <td class="below800"><img src="https://leerburg.com/Photos/visa.png" alt="We accept Visa."></td><td>&nbsp;</td>
-                <td class="checkout800"><span class="cart_btn2"><a href="http://leerburg.com/cart/viewcart.php" class="cart_btn_text"><span style="color:#ffffff;">SHOPPING CART (0)</span></a></span></td>
+                <td class="below800"><img src="//leerburg.com/Photos/paypaltop.png" alt="We accept PayPal."></td>
+                <td class="below800"><img src="//leerburg.com/Photos/discovercard.png" alt="We accept Discover."></td>
+                <td class="below800"><img src="//leerburg.com/Photos/mastercard.png" alt="We accept Mastercard."></td>
+                <td class="below800"><img src="//leerburg.com/Photos/visa.png" alt="We accept Visa."></td><td>&nbsp;</td>
                 <td class="checkout800"><span class="cart_btn"><a href="http://leerburg.com/cart/viewcart.php" class="cart_btn_text">CHECKOUT</a></span></td>
             </tr>
         </tbody></table>
         
         <div style="float:right;text-align:right;padding-top:10px;padding-right:0px;" class="mobile-show">
             <span class="cart_btn"><a href="http://leerburg.com/cart/viewcart.php" class="cart_btn_text"><b>CART</b></a></span>
-        </div>  
+        </div> 
     </div>
 </div>
 
-
+<!-- ----------------- -->
 <!--MAIN NAVIGATION BAR-->
-<div class="main-bar">  
-	<div class="nav-container"> 
-        <div style="float:left;width:15.625%;" class="none"><a href="http://leerburg.com"><img src="https://leerburg.com/Photos/red_logo.jpg" style="padding-top:11px;max-width:100%;"></a></div>   
-        <div style="float:left;position:absolute;" class="mid-show"><a href="http://leerburg.com"><img src="https://leerburg.com/Photos/red_logo.jpg" style="padding-top:11px;width:115px;"></a></div>
-        
-        
-        
-        <div class="whole-main-nav" style="float:left;margin-left:15px">
-            <center><a href="http://leerburg.com" class="topmenu">HOME</a> 
-            <a href="http://leerburgonlineuniversity.com" class="topmenu">ONLINE COURSES</a>
-            <a href="http://leerburg.com/flix/index.php" class="topmenu">VIDEO ON DEMAND</a>
-            <a href="http://leerburg.com/webboard/forum.php" class="topmenu">WEBBOARD</a>
-            <a href="http://leerburg.com/qa/index.php" class="topmenu">Q &amp; A</a>
-            <a href="http://leerburg.com/catalog.htm" class="topmenu">FREE CATALOG</a>
-            <!--<a href="http://leerburg.com/contact.htm" class="topmenu">CONTACT US</a>-->
-            <a href="http://leerburg.com/aboutus.htm" class="topmenu" style="border-right:0px;">ABOUT US</a>
-            </center>
-                        
-            <div class="only-mobile below480" id="main-search" style="clear:both;text-align:center;margin-top:5px;">
-              <form id="formsearch" name="formsearch" method="get" action="http://leerburg.com/search/dosearch.php">
-                <input type="text" class="searchbox2" name="terms" value="" style="width:65%;height:20px;">
-                <button name="Submit" title="Submit Search" style="height:26px;">Search</button>
-              </form>
-            </div>            
+<!-- ----------------- -->
+
+<div class="main-nav-gradient-bg"> 
+		<!-- Logo, Support Nav, and 4.99 Shipping --> 
+		<div class="support-container">
+    	<!-- Logo (Desktop) -->
+      <div class="nav-logo-container">
+    		<a href="http://leerburg.com/index.htm"><img src="//leerburg.com/photos/header-icons-logos/logo_redLetters.png" class="red-letter-logo"></a>
+      </div>
+      <!-- -->
+      <!-- Support Navigation (Articles, Webboard, etc) -->
+      <!-- -->
+      <!-- Desktop Version -->
+      <!-- -->
+      <ul id="free-pages-links">
+        <li><a href="http://leerburg.com/index.htm">Home</a></li>
+        <li><a href="http://leerburg.com/training-articles.htm">Articles</a></li>
+        <li id="qa-link-width"><a href="http://leerburg.com/qa/index.php">Q &amp; A</a></li>
+        <li><a href="http://leerburg.com/webboard/forum.php">Webboard</a></li>
+        <li id="catalog-link-width" class="last-link-no-margin-right"><a href="http://leerburg.com/catalog.htm">Free Catalog</a></li>
+        <!-- Fixes Floats -->
+        <div class="clear-floats"></div>
+      </ul>
+          <!-- -->
+          <!-- Mobile; Hidden by Default -->
+          <!-- -->
+          <ul id="free-pages-links-mobile-3col">
+            <li><a href="http://leerburg.com/index.htm">Home</a></li>
+            <li><a href="http://leerburg.com/training-articles.htm">Articles</a></li>
+            <li class="last-link-no-margin-right"><a href="http://leerburg.com/qa/index.php">Q &amp; A</a></li>
+            <!-- Fixes Floats -->
+            <div class="clear-floats"></div>
+          </ul>
+          <ul id="free-pages-links-mobile-2col">
+            <li><a href="http://leerburg.com/webboard/forum.php">Webboard</a></li>
+            <li class="last-link-no-margin-right"><a href="http://leerburg.com/catalog.htm">Free Catalog</a></li>
+            <!-- Fixes Floats -->
+            <div class="clear-floats"></div>
+          </ul>
+          <!-- $4.99 Shipping Deal -->
+          <!-- Desk -->
+          <div class="nav-ship-container">
+            <a href="http://leerburg.com/coupon3.htm"><img src="//leerburg.com/photos/header-icons-logos/499ship_horizontal.png" class="ship499"></a>
+          </div>
+          <!-- End Mobile -->
+          
+      <!-- Fixes Floats -->
+      <div class="clear-floats"></div>
+    </div> <!-- ends .support-container -->
+    
+    <!-- Main Nav Desktop/Tablet -- Shop, LOU, VOD, Search, Cart -->
+    <div class="main-nav-container-min620">
+    	<ul id="shop-nav-list">
+      	<li id="shop-button">
+        	<!-- Open wide screen version -->
+        	<a id="shop-link-for-desktop" href="#" onclick="$('#shop-dropdown-wrapper-desktop').toggle();">
+          	<img src="//leerburg.com/photos/header-icons-logos/menu-icon.png">
+            <p class="hide-text">SHOP</p>
+          </a>
+          <!-- Open tablet version; hidden by default -->
+          <a class="accordion-toggle" id="shop-link-for-tablet" href="#" onclick="$('#shop-dropdown-wrapper-tablet').toggle();" style="display:none;">
+          	<img src="//leerburg.com/photos/header-icons-logos/menu-icon.png">
+            <p class="hide-text">SHOP</p>
+          </a>
+        </li>
+        <li class="main-nav-center-ext-link" id="main-link-online"><a href="https://leerburgonlineuniversity.com/">Online Courses</a></li>
+        <li class="main-nav-spacer"></li>
+        <li class="main-nav-center-ext-link" id="main-link-vod"><a href="https://leerburg.com/flix/index.php">Video On Demand</a></li>
+        <li class="main-nav-spacer"></li>
+        <li class="main-nav-center-search">
+          <div id="main-search">
+            <form id="formsearch" name="formsearch" method="get" action="//leerburg.com/search/dosearch.php">
+              <input type="text" class="searchbox2" name="terms" value="">
+              <button name="Submit" title="Submit Search">Search</button>
+            </form>
+          </div> 
+        </li>
+        <li id="cart-button">
+        	<a href="https://leerburg.com/cart/viewcart.php">
+          	<img src="//leerburg.com/photos/header-icons-logos/cart-icon.png" class="hide-icon">
+            <p>CART (0)</p>
+          </a>
+        </li>
+        <!-- Fixes Floats -->
+        <div class="clear-floats"></div>
+      </ul> <!-- ends #shop-nav-list -->
+      
+      <!-- -->
+      <!-- Main Dropdown - Desktop and Wide Screen Version; hidden by default -->
+      <!-- For screen width 1001px and larger -->
+      <!-- -->
+      <div id="shop-dropdown-wrapper-desktop" style="display:none;">
+      	<!-- Master Category List -->
+      	<ul class="master-category-list">
+        	<li><a href="#" id="dvds-link" class="hovered-link">DVDs</a></li>
+          <li><a href="#" id="leashes-link">Leashes</a></li>
+          <li><a href="#" id="collars-link">Collars</a></li>
+          <li><a href="#" id="HarnAndVests-link">Harnesses &amp; Vests</a></li>
+          <li><a href="#" id="e-collars-link">Electric Collars</a></li>
+          <li><a href="#" id="muzzles-link">Muzzles</a></li>
+          <li><a href="#" id="toys-link">Toys</a></li>
+          <li><a href="#" id="houseSupplies-link">In The Home</a></li>
+          <li><a href="#" id="puppies-link">Puppies</a></li>
+          <li><a href="#" id="obedTraining-link">Obedience Training</a></li>
+          <li><a href="#" id="protectSports-link">Protection Sports</a></li>
+          <li><a href="#" id="policeK9-link">Police K9</a></li>
+          <li><a href="#" id="healthcare-link">Healthcare</a></li>
+          <li><a href="#" id="dogFood-link">All-Natural Dog Food</a></li>
+          <li><a href="#" id="treats-link">Treats</a></li>
+          <li><a href="#" id="grooming-link">Grooming</a></li>
+          <li><a href="#" id="apparel-link">Apparel</a></li>
+          <li><a href="#" id="dogSports-link">Dog Sports</a></li>
+          <li><a href="#" id="books-link">Books</a></li>
+          <li><a href="//leerburg.com/new.htm" id="brandNew-link">New Products</a></li>
+          <li><a href="//leerburg.com/clearance.htm" id="clearance-link">Clearance</a></li>
+        </ul>
+        <!-- Category Sections -->
+        <div class="dropdown-category-sections show-category-div" id="dvds-link-div">
+        	<!-- DVDS -->
+          <div class="2col-dropdown-img">
+          		<img src="//leerburg.com/photos/dropdown-navigation-imgs/2col-dvds.jpg" style="margin:14px 14px 0;">
+          </div>
+        	<!-- Column 1 -->
+          <div class="dropdown-column" style="border-right:1px solid #ee3124;">
+            <ul class="sub-category-list">
+              <!-- big label/link --><li class="major-category-name">General Dog Training</li>
+              <li><a href="http://leerburg.com/obediencedvds.htm">Obedience Training</a></li>
+              <li><a href="http://leerburg.com/ellisdvds.htm">Michael Ellis</a></li>
+              <li><a href="http://leerburg.com/keatingdvds.htm">Mark Keating</a></li>
+              <li><a href="http://leerburg.com/EngagementDVD.htm">Forrest Micke</a></li>
+              <li><a href="http://leerburg.com/ecollardvds.htm">Electric Collar</a></li>
+              <li><a href="http://leerburg.com/dominantdvds.htm">Dominant Dog</a></li>
+              <li><a href="http://leerburg.com/puppydvds.htm">Puppy Training</a></li>
+              <li><a href="http://leerburg.com/relationshipbuilding.htm">Relationship Building</a></li>
+            </ul>
+            <ul class="sub-category-list">
+              <!-- big label/link --><li class="major-category-name">Working Dogs</li>
+              <li><a href="http://leerburg.com/policedvds.htm">Police Service</a></li>
+              <li><a href="http://leerburg.com/servicedogdvds.htm">Service Dogs</a></li>
+              <li><a href="http://leerburg.com/trackingdvds.htm">Tracking S&amp;R</a></li>
+              <li><a href="http://leerburg.com/protectiondvds.htm">Protection Dog Training</a></li>
+            </ul>
+          </div> <!-- end Column 1 -->
+          
+          <!-- Column 2 -->
+          <div class="dropdown-column">
+            <ul class="sub-category-list">
+              <!-- big label/link --><li class="major-category-name">Dog Sports</li>
+              <li><a href="http://leerburg.com/agilitydvds.htm">Agility</a></li>
+              <li><a href="http://leerburg.com/frenchringdvds.htm">French Ring Sport</a></li>
+              <li><a href="http://leerburg.com/knpvdvds.htm">KNPV</a></li>
+              <li><a href="http://leerburg.com/mondiodvds.htm">Mondio Ring</a></li>
+              <li><a href="http://leerburg.com/schutzhunddvds.htm">Schutzhund</a></li>
+              <li><a href="http://leerburg.com/noseworkdvds.htm">Nosework</a></li>
+            </ul>
+            <ul class="sub-category-list">
+              <!-- big label/link --><li class="major-category-name">Miscellaneous</li>
+              <li><a href="http://leerburg.com/sheepdvds.htm">Sheep Herding</a></li>
+              <li><a href="http://leerburg.com/horsedvds.htm">Horses &amp; Dogs</a></li>
+              <li><a href="http://leerburg.com/464.htm">Nutrition &amp; Feeding</a></li>
+            </ul>
+            <ul class="sub-category-list">
+              <!-- ALL label/link --><li><a href="//leerburg.com/dvd.htm" class="sub-category-title">All DVDs</a></li>
+            </ul>
+          </div> <!-- end Column 2 -->
+          <!-- Fixes Floats -->
+        	<div class="clear-floats"></div>
         </div>
         
-        <div class="truck499">
-        	<a href="coupon3.htm"><img src="https://leerburg.com/Photos/499-shipping-sp.png"></a>
-        </div>
+        <!-- Leashes -->
+        <div class="dropdown-category-sections" id="leashes-link-div">
+        	<div class="1col-dropdown-img">
+          		<img src="//leerburg.com/photos/dropdown-navigation-imgs/1col-leashes.jpg" style="margin:14px 14px 0;">
+          </div>
+       		<!-- Column 1 -->
+          <div class="dropdown-column">
+            <ul class="sub-category-list">
+            	<!-- ALL label/link --><li><a href="//leerburg.com/leashes.htm" class="sub-category-title">Leashes</a></li>
+              <li><a href="//leerburg.com/amishleashes.htm">Amish Leather</a></li>
+              <li><a href="//leerburg.com/longlines.htm">Long Lines</a></li>
+              <li><a href="//leerburg.com/shortleash.htm">Short Leashes</a></li>
+              <li><a href="//leerburg.com/lcone.htm">Leash Collar Combo</a></li>
+              <li><a href="//leerburg.com/lightleash.htm">Light Weight Leash</a></li>
+              <li><a href="//leerburg.com/prongleashes.htm">Prong Collar Leashes</a></li>
+              <li><a href="//leerburg.com/specialleashes.htm">Specialty Leashes</a></li>
+              <li><a href="//leerburg.com/l-accessories.htm">Leash Accessories</a></li>
+            </ul>
+          </div> <!-- end Column 1 -->
+        </div><!-- Leashes -->
         
-        <!---DROP DOWN MENUS--->
-        <ul id="navbar" style="margin-top:1px;">    
-            <li class="dropdown_3columns" style="text-align:center;"><a href="http://leerburg.com/dvdbooks.htm" class="nav" style="border-left:1px solid #6E6E6E;">Training Videos<span class="below800"> &amp; Books</span></a>
-            	<div class="dd3" id="dvdbooks">                    
-                	<div class="column5">
-                    	<span class="tab_pretitle">SHOP FOR</span>
-                    	<span class="tab_title"><br>VIDEOS &amp; BOOKS</span><br><br>    
-                        <a href="http://leerburg.com/new.htm" class="boxlinks">NEW PRODUCTS</a>
-                        <a href="http://leerburg.com/exclusive.htm" class="boxlinks">LEERBURG EXCLUSIVE</a>
-                        <a href="http://leerburg.com/clearance.htm" class="boxlinks">CLEARANCE</a>
-                        <a href="http://leerburg.com/giftcertificate.htm" class="boxlinks">GIFT CERTIFICATES</a>
-                        <br>
-                        <center>
-                        <a href="http://leerburg.com/newpuppy.htm"><img src="https://leerburg.com/Photos/newpup-header.jpg"></a>
-                        </center>											
-                    </div>
-                    
-                    <div class="column5">
-                        <a href="http://leerburg.com/flix" class="linkhead">VIDEO ON DEMAND</a>
-                        <a href="http://leerburg.com/flix/category.php?categoryid=30">590 <b>FREE</b> Streaming Videos</a>
-                        <a href="http://leerburg.com/flix/ppv.php">72 Pay-Per-View Training Videos</a><br>
-                        		
-                        <a href="http://leerburg.com/populardvds.htm" class="linkhead">MOST POPULAR DVDS</a>
-                        <a href="http://leerburg.com/puppydvds.htm">Puppy Training</a>
-                        <a href="http://leerburg.com/obediencedvds.htm">Obedience Training</a>
-                        <a href="http://leerburg.com/ellisdvds.htm">Michael Ellis</a>
-                        <a href="http://leerburg.com/keatingdvds.htm">Mark Keating</a>
-                        <a href="http://leerburg.com/ecollardvds.htm">Electric Collar</a>
-                        <a href="http://leerburg.com/dominantdvds.htm">Dominant AGG Dog</a>
-                        <a href="http://leerburg.com/relationshipbuilding.htm">Relationship Building</a>
-                        <a href="http://leerburg.com/combo.htm">DVD Box Sets</a><br>
-                        
-                        <a href="http://leerburg.com/workingdogdvds.htm" class="linkhead">WORKING DOG DVDS</a>
-                        <a href="http://leerburg.com/policedvds.htm">Police Service</a>
-                        <a href="http://leerburg.com/protectiondvds.htm">Protection Dog Training</a>
-                    		<a href="http://leerburg.com/servicedogdvds.htm">Service Dogs</a>
-                    		<a href="http://leerburg.com/trackingdvds.htm">Tracking S&amp;R</a><br>
-                                                
-                        <a href="http://leerburgonlineuniversity.com" target="_blank" class="linkhead">ONLINE DOG TRAINING</a>	                  
-                    </div>
-                    
-                    <div class="column5">
-                    		<a href="http://leerburg.com/breedingdvds.htm" class="linkhead">BREEDING DOGS</a><br>	
-                    
-                    	<a href="http://leerburg.com/showsdvds.htm" class="linkhead">DOG SHOWS</a>
-                        <a href="http://leerburg.com/belgianringdvds.htm">Belgian Ring</a>
-                        <a href="http://leerburg.com/bundessiegerdvds.htm">Bundessieger</a>
-                        <a href="http://leerburg.com/dvgdvds.htm">DVG</a>
-                        <a href="http://leerburg.com/meventsdvds.htm">Mondio Events</a>
-                        <a href="http://leerburg.com/rottdvds.htm">Rottweiler</a>
-                        <a href="http://leerburg.com/schutzcompdvds.htm">Schutzhund/IPO Competition</a>
-                        <a href="http://leerburg.com/siegerdvds.htm">Sieger Shows</a><br>
-                    
-                    	<a href="http://leerburg.com/dogsportsdvds.htm" class="linkhead">DOG SPORTS DVDS</a> 
-                        <a href="http://leerburg.com/noseworkdvds.htm">Nosework</a>
-                        <a href="http://leerburg.com/agilitydvds.htm">Agility</a>
-                        <a href="http://leerburg.com/frenchringdvds.htm">French Ring Sport</a>
-                        <a href="http://leerburg.com/knpvdvds.htm">KNPV</a>
-                        <a href="http://leerburg.com/mondiodvds.htm">Mondio Ring</a>
-                        <a href="http://leerburg.com/schutzhunddvds.htm">Schutzhund/IPO</a><br>
-                        
-                        <a href="#" class="linkhead">MISCELLANEOUS DVDS</a>
-                        <a href="http://leerburg.com/sheepdvds.htm">Sheep Herding</a>
-                    	<a href="http://leerburg.com/horsedvds.htm">Horses &amp; Dogs</a>
-                        <a href="http://leerburg.com/464.htm">Nutrition &amp; Feeding DVD</a><br>                         												
-                    </div>
-                    
-                    <div class="column5">
-                        <a href="http://leerburg.com/books.htm" class="linkhead">BOOKS</a>
-                        <a href="http://leerburg.com/agilitybooks.htm">Agility</a>
-                        <a href="http://leerburg.com/behaviorbooks.htm">Behavioral Problems</a>
-                        <a href="http://leerburg.com/clickerbooks.htm">Clicker Training</a>
-                        <a href="http://leerburg.com/electronicbooks.htm">eBooks</a>
-                        <a href="http://leerburg.com/miscbooks.htm">Miscellaneous</a>
-                        <a href="http://leerburg.com/noseworkbooks.htm">Nosework</a>
-                        <a href="http://leerburg.com/nutritionbooks.htm">Nutrition &amp; Health</a>
-                        <a href="http://leerburg.com/protbooks.htm">Protection Dog Training</a>
-                        <a href="http://leerburg.com/schutzhundbooks.htm">Schutzhund/IPO</a>
-                        <a href="http://leerburg.com/srbooks.htm">Search &amp; Rescue</a>
-                        <a href="http://leerburg.com/posteritems.htm">Posters</a>
-                        <a href="http://leerburg.com/workingbooks.htm">Working Dogs</a>
-                        <a href="http://leerburg.com/allbooks.htm"><b>View all books</b></a><br>	 
-                        <a href="http://leerburg.com/dogtrainingebooks.htm" class="linkhead">LEERBURG eBOOKS</a>
-                        <a href="http://leerburg.com/housetrainingebook.htm">Common Sense Solutions <br>to House Training</a>
-                        <a href="http://leerburg.com/dogtrainingebooks.htm">+ 38 FREE eBooks</a><br>											
-                    </div>
-                    
-                    <!--FEATURED PRODUCT FOR VIDEOS AND BOOKS--> 
-                    <div class="columnLast">
-                    	<span class="tab_pretitle">FEATURED DVD</span>
-                        <a href="http://leerburg.com/LeashSkillswithEllisDVD.htm" style="padding:0px;margin:0px;"><span class="tab_title">Leash Skills with Michael Ellis DVD </span></a><br>
-                        <center><a href="http://leerburg.com/LeashSkillswithEllisDVD.htm" style="padding:0px;margin:0px;"><img src="https://leerburg.com/cart/img/233-D-new.png"></a></center><br>
-                        <span style="color:#cccccc;font-size:11px;line-height:120%;text-align:justify;">We have produced this DVD on how to use your leash as a tool to communicate with your dog. </span><br><br>
-                        <div class="cart_btn" style="width:74px;color:#ffffff;margin-left:45px;"><a href="http://leerburg.com/LeashSkillswithEllisDVD.htm" class="cart_btn_text"><span style="color:#ffffff">SHOP NOW</span></a></div>
-                    </div>
-                    <!--END VIDEOS AND BOOKS-->	 
-                 </div>		
-            </li>
-           
-           
-            <li class="dropdown_3columns" style="text-align:center;"><a href="http://leerburg.com/equip.htm" class="nav" rel="equipment">Training Gear</a> 
-            	<div class="dd3" id="gear"><!--style="margin-left:-304px;"-->                    
-                    <div class="column5">
-                        <span class="tab_pretitle">SHOP FOR</span>
-                        <span class="tab_title"><br>TRAINING GEAR</span><br><br> 
-                        <a href="http://leerburg.com/new.htm" class="boxlinks">NEW PRODUCTS</a>
-                        <a href="http://leerburg.com/exclusive.htm" class="boxlinks">LEERBURG EXCLUSIVE</a>
-                        <a href="http://leerburg.com/clearance.htm" class="boxlinks">CLEARANCE</a>
-                        <a href="http://leerburg.com/giftcertificate.htm" class="boxlinks">GIFT CERTIFICATES</a>
-                        <br>
-                        <center>
-                        <a href="http://leerburg.com/newpuppy.htm"><img src="https://leerburg.com/Photos/newpup-header.jpg"></a>
-                        </center>											
-                    </div>
-                    
-                    <div class="column5">
-                        <a href="http://leerburg.com/gengear.htm" class="linkhead">GENERAL DOG GEAR</a>
-                        <a href="http://leerburg.com/baitbag.htm">Bait Bags</a>
-                        <a href="http://leerburg.com/balls.htm">Balls</a>
-                        <a href="http://leerburg.com/bellswhistles.htm">Bells &amp; Whistles</a>
-                        <a href="http://leerburg.com/clickertraining.htm">Clicker/Marker Training</a>
-                        <a href="http://leerburg.com/collars.htm">Collars</a>
-                        <a href="http://leerburg.com/dogvests.htm">Dog Vests</a>
-                        <a href="http://leerburg.com/lighttoys.htm">Reflective Vests</a>
-                        <a href="http://leerburg.com/alldumbbells.htm">Dumbbells</a>
-                        <a href="http://leerburg.com/harnesses.htm">Harnesses</a>
-                        <a href="http://leerburg.com/leashes.htm">Leashes</a>
-                        <a href="http://leerburg.com/clickertraining.htm">Marker Training Equip.</a>
-                        <a href="http://leerburg.com/muzzle.htm">Muzzles</a>
-                        <a href="http://leerburg.com/obedienceequip.htm">Obedience Equip.</a>
-                        <a href="http://leerburg.com/smdogequip.htm">Small Dog Equipment</a>
-                        <a href="http://leerburg.com/toy.htm">Toys</a>
-                        <a href="http://leerburg.com/trainersvests.htm">Trainer Vests</a>
-                        <a href="http://leerburg.com/treat.htm">Treats</a>
-                        <a href="http://leerburg.com/puppytug.htm">Tugs</a><br>
-                        
-                        <a href="http://leerburg.com/inthehouse.htm" class="linkhead">IN THE HOUSE</a>
-                        <a href="http://leerburg.com/dogbeds.htm">Beds, Mats, &amp; Heating Pads</a>
-                        <a href="http://leerburg.com/cratepenfence.htm">Crates, Pens, &amp; Fences</a>
-                        <a href="http://leerburg.com/crate.htm">&nbsp;&nbsp;‣ Crates</a>
-                        <a href="http://leerburg.com/crateaccessories.htm">&nbsp;&nbsp;‣ Crate Accessories</a>
-                        <a href="http://leerburg.com/doggates.htm">&nbsp;&nbsp;‣ Dog Gates and Pens</a>
-                        <a href="http://leerburg.com/ingroundfence.htm">&nbsp;&nbsp;‣ In-Ground Fencing</a>
-                        <a href="http://leerburg.com/temperature.htm">&nbsp;&nbsp;‣ Shade &amp; Temp. Control</a>
-                        <a href="http://leerburg.com/dogdishes.htm">Dishes</a>
-                        <a href="http://leerburg.com/grooming.htm">Grooming</a>
-                        <a href="http://leerburg.com/nighttime.htm">Night Time Safety &amp; Fun</a>
-                        <a href="http://leerburg.com/travelaccessories.htm">Travel Accessories</a><br>
-                        
-                        <a href="http://leerburg.com/audiocds.htm" class="linkhead">AUDIO CDs</a><br>									
-                    </div>
-                    
-                    <div class="column5">
-                        <a href="http://leerburg.com/newpupequip.htm" class="linkhead">PUPPY</a>
-                        <a href="http://leerburg.com/breedwhelp.htm">Breeding Equip.</a>
-                        <a href="http://leerburg.com/tattooequip.htm">&nbsp;&nbsp;‣ Tattoo Equipment</a>
-                        <a href="http://leerburg.com/aiequip.htm">&nbsp;&nbsp;‣ Artificial Insemination</a>
-                        <a href="http://leerburg.com/whelpingequip.htm">&nbsp;&nbsp;‣ Whelping Equip.</a>
-                        <a href="http://leerburg.com/puppybooks.htm">Books</a>
-                        <a href="http://leerburg.com/puppycollars.htm">Puppy Collars</a>
-                        <a href="http://leerburg.com/puppypens.htm">Puppy Crates/Pens</a>
-                        <a href="http://leerburg.com/puppydvds.htm">Puppy DVDs</a>
-                        <a href="http://leerburg.com/puppytoy.htm">Puppy Toys</a>
-                        <a href="http://leerburg.com/allpupequip.htm"><b>All Puppy Equipment</b></a><br>
-                        
-                        <a href="http://leerburg.com/electric.htm" class="linkhead">ELECTRIC COLLARS</a>
-                        <a href="http://leerburg.com/electric_educator.htm">Educator</a>
-                        <a href="http://leerburg.com/electric_smdog.htm">Small Dog Electric Collars</a>   
-                        <a href="http://leerburg.com/electric_tritronics.htm">Tri-Tronics/Garmin</a>
-                        <a href="http://leerburg.com/electric_dogtra.htm">Dogtra</a>
-                        <a href="http://leerburg.com/barkcollars.htm">Bark Collars</a>
-                        <a href="http://leerburg.com/ingroundfence.htm">In-Ground Fencing</a>
-                        <a href="http://leerburg.com/electric_all.htm"><b>All Electric Collars</b></a><br>
-                        
-                        <a href="http://leerburg.com/sportdog.htm" class="linkhead">DOG SPORTS</a>
-                        <a href="http://leerburg.com/agilityequip.htm">Agility</a>
-                        <a href="http://leerburg.com/blinds.htm">Blinds, Jumps, and Hurdles</a>
-                        <a href="http://leerburg.com/schutzhundbooks.htm">Books</a>
-                        <a href="http://leerburg.com/noseworkequip.htm">Nosework</a>
-                        <a href="http://leerburg.com/obedienceequip.htm">Obedience</a>
-                        <a href="http://leerburg.com/schutzhundequip.htm">Schutzhund/IPO</a>
-                        <a href="http://leerburg.com/sportdog_all.htm"><b>All Dog Sports Equipment</b></a>	<br>                       
-                    </div>
-                    
-                    <div class="column5">
-                        <a href="http://leerburg.com/bitetrainequip.htm" class="linkhead">BITE TRAINING EQUIP.</a> 
-                        <a href="http://leerburg.com/bitebars.htm">Bite Wedges</a>
-                        <a href="http://leerburg.com/bitesuits.htm">Bite Suits &amp; Scratch Pants</a>
-                        <a href="http://leerburg.com/legsleeve.htm">Leg Sleeves</a>
-                        <a href="http://leerburg.com/muzzle.htm">Muzzles</a>
-                        <a href="http://leerburg.com/bitesleeves.htm">Arm Sleeves</a>
-                        <a href="http://leerburg.com/puppytug.htm">Tugs</a>
-                        <a href="http://leerburg.com/whips.htm">Whips and Sticks</a> 
-                        <a href="http://leerburg.com/bitetrainequip_all.htm"><b>All Bite Training Equip.</b></a><br> 
-                                                
-                        <a href="http://leerburg.com/collars.htm" class="linkhead">COLLARS</a>
-                        <a href="http://leerburg.com/leathercollars.htm">Amish Leather Collars</a>
-                        <a href="http://leerburg.com/prongcollars.htm">Prong Collars</a>
-                        <a href="http://leerburg.com/slipcollars.htm">Slip Collars</a>
-                        <a href="http://leerburg.com/electric.htm">Electric Collar</a>
-                        <a href="http://leerburg.com/lcone.htm">Leash Collar Combo</a>
-                        <a href="http://leerburg.com/fur-saver-collars.htm">Fur Saver Collars</a>
-                        <a href="http://leerburg.com/lighttoys.htm">Lighted Collars</a>
-                        <a href="http://leerburg.com/collars_all.htm"><b>All Collars</b></a><br>
-                        
-                        <a href="http://leerburg.com/leashes.htm" class="linkhead">LEASHES</a>
-                        <a href="http://leerburg.com/amishleashes.htm">Amish Leather Leashes</a>
-                        <a href="http://leerburg.com/longlines.htm">Long Lines</a>
-                        <a href="http://leerburg.com/shortleash.htm">Short Leashes</a>
-                        <a href="http://leerburg.com/lcone.htm">Leash Collar Combo</a>
-                        <a href="http://leerburg.com/otherleashes.htm">Other Leashes</a>
-                        <a href="http://leerburg.com/lighttoys.htm">Lighted Leashes</a>
-                        <a href="http://leerburg.com/leashes_all.htm"><b>All Leashes</b></a><br>
-                                                    
-                        <a href="http://leerburg.com/miscellaneous.htm" class="linkhead">MISCELLANEOUS</a><br>
-                        
-                        <a href="http://leerburg.com/apparel.htm" class="linkhead">APPAREL</a><br>	                        
-                                                
-                         <a href="http://leerburg.com/tactical" class="linkhead">POLICE K9/S&amp;R</a>										
-                    </div>
-                    
-                    <!--FEATURED PRODUCT FOR TRAINING GEAR-->
-                    <div class="columnLast">
-                        <span class="tab_pretitle">FEATURED ITEM</span>
-                        <a href="http://leerburg.com/ET300.htm" style="padding:0px;margin:0px;"><span class="tab_title">Educator ET300 Mini Ecollar</span></a><br>
-                        <center><a href="http://leerburg.com/ET300.htm" style="padding:0px;margin:0px;"><img src="https://leerburg.com/cart/img/et300_best.jpg"></a></center><br>
-                        <span style="color:#cccccc;font-size:11px;line-height:120%;">The Educator ET300 is medium range trainer loaded with unique features making it the most humane and effective trainer available. </span><br><br>
-                        <div class="cart_btn" style="width:74px;color:#ffffff;margin-left:45px;"><a href="http://leerburg.com/ET300.htm" class="cart_btn_text"><span style="color:#ffffff">SHOP NOW</span></a></div>
-                    </div>
-                    <!--END TRAINING GEAR-->
-                    
-                 </div>	   
-            </li> 
-            
-            
-            <li class="dropdown_3columns" style="text-align:center;"><a href="http://leerburg.com/toy.htm" class="nav">Toys</a>
-            	<div class="dd3" id="toys"><!--style="margin-left:-388px;"-->
-                    <div class="column5">
-                        <span class="tab_pretitle">SHOP FOR</span>
-                        <span class="tab_title"><br>DOG TOYS</span><br><br>
-                        <a href="http://leerburg.com/new.htm" class="boxlinks">NEW PRODUCTS</a>
-                        <a href="http://leerburg.com/exclusive.htm" class="boxlinks">LEERBURG EXCLUSIVE</a>
-                        <a href="http://leerburg.com/clearance.htm" class="boxlinks">CLEARANCE</a>
-                        <a href="http://leerburg.com/giftcertificate.htm" class="boxlinks">GIFT CERTIFICATES</a>	
-                        <br>
-                        <center>
-                        <a href="http://leerburg.com/newpuppy.htm"><img src="https://leerburg.com/Photos/newpup-header.jpg"></a>
-                        </center>										
-                    </div>
-                    
-                    <div class="column5">
-                    	<a href="http://leerburg.com/toy_all.htm" class="linkhead">ALL TOYS</a><br>
-                        <a href="http://leerburg.com/puppytoy.htm" class="linkhead">PUPPY TOYS</a><br> 
-                        <a href="http://leerburg.com/lighttoys.htm" class="linkhead">LIGHTED TOYS &amp; VESTS</a><br> 
-                        <a href="http://leerburg.com/watertoys.htm" class="linkhead">WATER TOYS</a><br>
-                        <a href="http://leerburg.com/alldumbbells.htm" class="linkhead">DUMBBELLS</a><br>
-                        <a href="http://leerburg.com/tosstoys.htm" class="linkhead">TOSS &amp; RETRIEVE</a>
-                        <a href="http://leerburg.com/balls.htm">Balls</a>
-                        <a href="http://leerburg.com/flyingdiscs.htm">Flying Discs</a>
-                        <a href="http://leerburg.com/launchertoys.htm">Launchers</a>
-                        <a href="http://leerburg.com/top-matic.htm">Magnetic Balls</a>
-                        <a href="http://leerburg.com/tosstoys_all.htm"><b>All Toss &amp; Retrieve Toys</b></a>										
-                    </div>
-                    
-                    <div class="column5">
-                        <a href="http://leerburg.com/interactivetoys.htm" class="linkhead">INTERACTIVE</a>
-                        <a href="http://leerburg.com/bitebars.htm">Bite Wedges</a>
-                        <a href="http://leerburg.com/ropetoys.htm">Rope</a>
-                        <a href="http://leerburg.com/top-matic.htm">Top-Matic</a>
-                        <a href="http://leerburg.com/tosstoys.htm">Toss &amp; Retrieve</a>
-                        <a href="http://leerburg.com/puppytug.htm">Tugs</a>
-                        <a href="http://leerburg.com/interactivetoys_all.htm"><b>All Interactive Toys</b></a><br>
-                        
-                        <a href="http://leerburg.com/treattoys.htm" class="linkhead">TREAT TOYS</a>
-                        <a href="http://leerburg.com/everlastingtoys.htm">Everlasting</a>
-                        <a href="http://leerburg.com/1235.htm">Bob-a-Lot</a>
-                        <a href="http://leerburg.com/1124.htm">Buster Cube</a>
-                        <a href="http://leerburg.com/DogPuzzles.htm">Doy Puzzles</a>
-                        <a href="http://leerburg.com/1168.htm">Refills</a>
-                        <a href="http://leerburg.com/treattoys_all.htm"><b>All Treat Toys</b></a><br>	
-                    </div>
-                    
-                    <div class="column5">
-                        <a href="http://leerburg.com/balls.htm" class="linkhead">BALLS</a>
-                        <a href="http://leerburg.com/chuckittoys.htm">ChuckIt!</a>
-                        <a href="http://leerburg.com/orbeetoys.htm">Orbee</a>
-                        <a href="http://leerburg.com/goughnutstoys.htm">GoughNuts</a>
-                        <a href="http://leerburg.com/ropetoys.htm">Rope</a>
-                        <a href="http://leerburg.com/top-matic.htm">Magnetic</a>
-                        <a href="http://leerburg.com/balls.htm"><b>All Balls</b></a><br>    
-                                                
-                        <a href="http://leerburg.com/plushtoys.htm" class="linkhead">PLUSH/SOFT</a>
-                        <a href="http://leerburg.com/megamightytuffy.htm">Mega, Mighty, Tuffy</a>
-                        <a href="http://leerburg.com/fleecetugs.htm">Fleece Tugs</a>
-                        <a href="http://leerburg.com/pogo.htm">Pogo Plush</a>
-                        
-                        <a href="http://leerburg.com/plushtoys_all.htm"><b>All Plush/Soft Toys</b></a><br>
-                        
-                        <a href="http://leerburg.com/chewtoys.htm" class="linkhead">CHEW TOYS</a><br>
-                        
-                        <a href="http://leerburg.com/durability.htm" class="linkhead">GUARANTEED DURABILITY</a>		
-                    </div>
-                    
-                    <!--FEATURED PRODUCT FOR TOYS-->  
-                    <div class="columnLast">
-                        <span class="tab_pretitle">FEATURED ITEM</span>
-                        <a href="http://leerburg.com/1505.htm" style="padding:0px;margin:0px;"><span class="tab_title">Top-Matic PROFI-Set</span></a><br>
-                        <center><a href="http://leerburg.com/1505.htm" style="padding:0px;margin:0px;"><img src="https://leerburg.com/cart/img/1505-new.jpg"></a></center><br>
-                        <span style="color:#cccccc;font-size:11px;line-height:120%;">The Top-MaticÂ® Training System is self-motivating and allows the handler to reward the dog exactly to the point. You will recognize and see the success of this system after only a few training sessions! </span><br><br>
-                        <div class="cart_btn" style="width:74px;color:#ffffff;margin-left:45px;"><a href="http://leerburg.com/1505.htm" class="cart_btn_text"><span style="color:#ffffff">SHOP NOW</span></a></div>
-                    </div>
-                    <!--END TOYS-->
-            	</div>          
-            </li>
-            
-            
-            <li class="dropdown_3columns" style="text-align:center;"><a href="http://leerburg.com/healthnutrition.htm" class="nav">Healthcare<span class="below800"> &amp; Nutrition</span></a>
-            	<div class="dd3" id="health"><!--style="margin-left:-427px;"-->
-                    <div class="column5">
-                        <span class="tab_pretitle">SHOP FOR</span>
-                        <span class="tab_title"><br>HEALTHCARE &amp; NUTRITION</span><br><br>
-                        <a href="http://leerburg.com/new.htm" class="boxlinks">NEW PRODUCTS</a>
-                        <a href="http://leerburg.com/exclusive.htm" class="boxlinks">LEERBURG EXCLUSIVE</a>
-                        <a href="http://leerburg.com/giftcertificate.htm" class="boxlinks">GIFT CERTIFICATES</a>	
-                        <br>
-                        <center>
-                        <a href="http://leerburg.com/newpuppy.htm"><img src="https://leerburg.com/Photos/newpup-header.jpg"></a>
-                        </center>									
-                    </div>
-                    
-                    <div class="column5">
-                        <a href="http://leerburg.com/supplements.htm" class="linkhead">SUPPLEMENTS</a>
-                        <a href="http://leerburg.com/assorted.htm">Assorted Healthcare Products</a>
-                        <a href="http://leerburg.com/digest.htm">Digestive Health</a>
-                        <a href="http://leerburg.com/fleas.htm">Flea, Fly, &amp; Tick Prevention</a>
-                        <a href="http://leerburg.com/herbsmith.htm">Herbsmith</a>
-                        <a href="http://leerburg.com/immune.htm">Immune System Support</a>
-                        <a href="http://leerburg.com/joint.htm">Joint Pain &amp; Arthritic Relief</a>
-                        <a href="http://leerburg.com/panocare.htm">Pano Care</a>
-                        <a href="http://leerburg.com/parvocare.htm">Parvovirus Care</a>
-                        <a href="http://leerburg.com/skin.htm">Skin &amp; Coat</a>
-                        <a href="http://leerburg.com/stress.htm">Stress Relief for Dogs</a>
-                        <a href="http://leerburg.com/workingandperf.htm">Working &amp; Performance Dogs</a>
-                        <a href="http://leerburg.com/supplements_all.htm"><b>All Supplements</b></a><br>								
-                    </div>
-                    
-                    <div class="column5">
-                        <a href="http://leerburg.com/nutritionbooks.htm" class="linkhead">BOOKS</a><br>
-                        
-                        <a href="http://leerburg.com/firstaid.htm" class="linkhead">FIRST AID</a><br>
-                        
-                        <a href="http://leerburg.com/fleas.htm" class="linkhead">FLEAS &amp; TICKS</a><br>
-                        
-                        <a href="http://leerburg.com/grooming.htm" class="linkhead">GROOMING</a>
-                        <a href="http://leerburg.com/brushes.htm">Brushes/Rakes</a>
-                        <a href="http://leerburg.com/shampoo.htm">Shampoo &amp; Conditioner</a>
-                        <a href="http://leerburg.com/grooming.htm"><b>All Grooming Products</b></a><br>
-                        
-                        <a href="http://leerburg.com/dogfood.htm" class="linkhead">ALL-NATURAL DOG FOOD</a>
-                        <a href="http://leerburg.com/moon.htm">Barking at the Moon</a>
-                        <a href="http://leerburg.com/hkfoods.htm">Honest Kitchen</a>
-                        <a href="http://leerburg.com/redbarn.htm">Red Barn</a>
-                        <a href="http://leerburg.com/dogfood_all.htm"><b>All Natural Dog Foods</b></a><br>	
-                        
-                        <a href="http://leerburg.com/breedwhelp.htm" class="linkhead">BREEDING DOGS</a>	
-                    </div>
-                    
-                    <div class="column5">
-                        <a href="http://leerburg.com/treat.htm" class="linkhead">TREATS</a>
-                        <a href="http://leerburg.com/baitbag.htm">Bait Bags</a>
-                        <a href="http://leerburg.com/treat.htm">Treats</a>
-                        <a href="http://leerburg.com/treattoys.htm">Treat Toys</a>
-                        <a href="http://leerburg.com/treat.htm"><b>All Treats</b></a><br>		
-                        
-                        <a href="http://leerburg.com/dogdishes.htm" class="linkhead">DOG DISHES &amp; BOWLS</a>
-                        <a href="http://leerburg.com/specialtybowls.htm">Non-Spill/Specialty</a>
-                        <a href="http://leerburg.com/stainlessbowls.htm">Stainless Steel</a>
-                        <a href="http://leerburg.com/travelbowls.htm">Travel/Cloth</a>
-                        <a href="http://leerburg.com/dogdishes.htm"><b>All Dishes &amp; Bowls</b></a><br>	
-                        
-                        <a href="http://leerburg.com/indigo.htm" class="linkhead">INDIGO MOON CAT FOOD</a><br>		
-                        
-                        <a href="http://leerburg.com/articles-recommended.htm" class="linkhead">RECOMMENDED ARTICLES</a>	
-                        <a href="http://leerburg.com/health.htm"><b>View All Health Articles</b></a>	
-                        <a href="http://leerburg.com/feedingarawdiet.htm">Q&amp;A Feeding a Raw Diet</a>
-                        <a href="http://leerburg.com/savepup.htm">Treating a Sick Newborn Puppy</a>
-                        <a href="http://leerburg.com/tapingears.htm">Taping German Shepherds Ears</a>
-                        <a href="http://leerburg.com/hipart.htm">Correct Positioning is Critical <br>&nbsp; &nbsp;for Canine Hip X-rays</a>
-                        <a href="http://leerburg.com/pano.htm">Panosteitis</a>
-                        <a href="http://leerburg.com/othersources.htm">Other Resources for Information</a><br>		
-                    </div>
-                    
-                    <!--FEATURED PRODUCTS FOR HEALTHCARE AND NUTRITION-->
-                    <div class="columnLast">
-                        <span class="tab_pretitle">FEATURED ITEM</span>
-                        <a href="http://leerburg.com/love.htm" style="padding:0px;margin:0px;"><span class="tab_title">Honest Kitchen Love Dehydrated Dog Food</span></a><br>
-                        <center><a href="http://leerburg.com/love.htm" style="padding:0px;margin:0px;"><img src="https://leerburg.com/cart/img/love_small.png"></a></center><br> 
-                        <span style="color:#cccccc;font-size:11px;line-height:120%;">Love is the newest addition to Honest Kitchen's line of grain-free dog foods. Itâ€™s complete and balanced made with dehydrated hormone-free beef, vegetables, fruits and love. Itâ€™s ideal for puppies and active adult dogs, particularly those with food sensitivities to grains, gluten, eggs and those who need a low carbohydrate diet. Like all of our diets, Love is 100% human-grade, made in the USA, and does not contain corn, soy, rice, beet pulp or wheat. Just add water for a fresh, wholesome and human grade meal.</span><br><br>
-                        <div class="cart_btn" style="width:74px;color:#ffffff;margin-left:45px;"><a href="http://leerburg.com/love.htm" class="cart_btn_text"><span style="color:#ffffff">SHOP NOW</span></a></div>
-                    </div>
-                    <!--END HEALTHCARE AND NUTRITION-->   
-                </div>	
-            </li> 
-            
-            
-            <li class="dropdown_3columns" style="text-align:center;"><a href="http://leerburg.com/training-articles.htm" class="nav">Training Articles</a>
-            	<div class="dd3" id="articles">
-                    <div class="column5">
-                        <span class="tab_pretitle">Read Leerburg's</span>
-                        <span class="tab_title"><br>DOG TRAINING ARTICLES</span><br><br>
-                        <a href="http://leerburg.com/new.htm" class="boxlinks">NEW PRODUCTS</a>
-                        <a href="http://leerburg.com/exclusive.htm" class="boxlinks">LEERBURG EXCLUSIVE</a>
-                        <a href="http://leerburg.com/giftcertificate.htm" class="boxlinks">GIFT CERTIFICATES</a>	
-                        <br>
-                        <center>
-                        <a href="http://leerburg.com/newpuppy.htm"><img src="https://leerburg.com/Photos/newpup-header.jpg"></a>
-                        </center>									
-                    </div>
-                    
-                    <div class="column5">					
-                        <a href="http://leerburg.com/training-articles.htm" class="linkhead">SEE ALL ARTICLES</a><br>
-                        
-                        <a href="http://leerburg.com/articles-recommended.htm" class="linkhead">RECOMMENDED BY ED &amp; CINDY</a><br>
-                        
-                        <a href="http://leerburg.com/articles-mostpopular.htm" class="linkhead">MOST POPULAR</a><br>
-                        
-                        <a href="http://leerburg.com/philosophy.htm" class="linkhead">OUR PHILOSOPHY OF TRAINING</a><br>
-                        
-                        <a href="http://leerburg.com/articles-obedtraining.htm" class="linkhead">OBEDIENCE TRAINING</a><br>
-                        
-                        <!--<a href="http://leerburg.com/ellis.htm" class="linkhead">MICHAEL ELLIS</a><br />-->
-                        
-                        <a href="http://leerburg.com/articles-markertraining.htm" class="linkhead">MARKER TRAINING</a><br>
-                        
-                        <a href="http://leerburg.com/articles-puppytraining.htm" class="linkhead">PUPPY TRAINING</a><br>
-                        
-                        <a href="http://leerburg.com/articles-structure.htm" class="linkhead">PACK STRUCTURE</a><br>                              
-                    </div>
-                    
-                    <div class="column5">
-                                                
-                        <a href="http://leerburg.com/articles-dominance.htm" class="linkhead">DOMINANCE &amp; AGGRESSION</a><br>
-                        
-                        <a href="http://leerburg.com/articles-dog_bites.htm" class="linkhead">DOG BITES</a><br> 	
-                    
-                        <a href="http://leerburg.com/articles-dogsandkids.htm" class="linkhead">DOGS &amp; KIDS</a><br>
-                    
-                    		<a href="http://leerburg.com/articles-behavior.htm" class="linkhead">BEHAVIORAL PROBLEMS</a><br>
-                        
-                        <a href="http://leerburg.com/articles-breeding.htm" class="linkhead">BREEDING &amp; RAISING PUPPIES</a><br>	
-                    
-                        <a href="http://leerburg.com/articles-dogsports.htm" class="linkhead">DOG SPORTS</a>
-                        <!--<a href="http://leerburg.com/dogsports.htm#agility">Agility</a>
-                        <a href="http://leerburg.com/dogsports.htm#schutzhund">Schutzhund</a>
-                        <a href="http://leerburg.com/dogsports.htm#ringsports">Ring Sports</a>
-                        <a href="http://leerburg.com/dogsports.htm#sheepherding">Sheep Herding</a>
-                        <a href="http://leerburg.com/dogsports.htm#nosework">Nosework</a>	
-                        <a href="http://leerburg.com/dogsports.htm#obedience">Obedience</a>	
-                        <a href="http://leerburg.com/dogsports.htm"><b>All Dog Sports</b></a>--><br>
-                    
-                        <a href="http://leerburg.com/articles-health.htm" class="linkhead">HEALTH</a><br>
-                    
-                        <a href="http://leerburg.com/articles-feeding.htm" class="linkhead">FEEDING DOGS</a><br>
-                        
-                        <a href="http://leerburg.com/articles-petloss.htm" class="linkhead">DEATH, GRIEF, &amp; PET LOSS</a><br>                                
-                    </div>
-                    
-                    <div class="column5">
-                        <a href="http://leerburg.com/articles-policek9.htm" class="linkhead">POLICE K9</a>
-                        <a href="http://leerburg.com/articles-patroldogs.htm">Patrol Dogs</a>
-                        <a href="http://leerburg.com/articles-trackingdetector.htm">Tracking &amp; Detector Dogs</a>
-                        <a href="http://leerburg.com/articles-searchrescue.htm">Search &amp; Rescue</a>
-                        <a href="http://leerburg.com/articles-policek9.htm"><b>All Police Service</b></a><br>
-                    
-                        <a href="http://leerburg.com/articles-remote.htm" class="linkhead">REMOTE COLLAR WORK</a><br>
-                    
-                        <a href="http://leerburg.com/article-dogkennels.htm" class="linkhead">DOG KENNELS</a><br>	
-                        
-                        <a href="http://leerburg.com/dogtrainingpodcasts.htm" class="linkhead">PODCASTS</a><br>
-                        
-                        <a href="http://leerburg.com/article-ebooks.htm" class="linkhead">E-BOOKS</a><br>	
-                        
-                        <a href="http://leerburg.com/articles.htm" class="linkhead">SEE ALL ARTICLES</a>			
-                    </div>
-                    
-                    <!--FEATURED PRODUCT (ARTICLE) FOR TRAINING CATEGORIES-->
-                    <div class="columnLast">
-                        <span class="tab_pretitle">FEATURED ARTICLE</span>
-                        <a href="http://leerburg.com/diet.htm" style="padding:0px;margin:0px;"><span class="tab_title">All-Natural Diet for Dogs</span></a><br>
-                        <center><a href="http://leerburg.com/diet.htm" style="padding:0px;margin:0px;"><img src="https://leerburg.com/Photos/Endy_header.jpg" width="180px"></a></center><br>
-                        <span style="color:#cccccc;font-size:11px;line-height:120%;">There is a lot of talk in the dog world these days about ALL-NATURAL DIETS (AN). The purpose of this article is to explain what these diets are and the reasons why I feel everyone should consider feeding their dog a natural diet.</span><br><br>
-                        <div class="cart_btn" style="width:74px;color:#ffffff;margin-left:45px;"><a href="http://leerburg.com/diet.htm" class="cart_btn_text"><span style="color:#ffffff">READ NOW</span></a></div>
-                    </div>
-                    <!--END TRAINING CATEGORIES-->
-               </div>	
-            </li>
-            
-            
-            <li class="dropdown_3columns" style="text-align:center;"><a href="http://leerburg.com/tactical/index.htm" class="nav">Tactical K9</a>
-            	<div class="dd3" id="about">
-                    <div class="column5">
-                        <span class="tab_pretitle">Check Out Our</span>
-                        <span class="tab_title"><br>TACTICAL K9</span><br><br>
-                        <a href="http://leerburg.com/new.htm" class="boxlinks">NEW PRODUCTS</a>
-                        <a href="http://leerburg.com/exclusive.htm" class="boxlinks">LEERBURG EXCLUSIVE</a>
-                        <a href="http://leerburg.com/clearance.htm" class="boxlinks">CLEARANCE</a>
-                        <a href="http://leerburg.com/giftcertificate.htm" class="boxlinks">GIFT CERTIFICATES</a>	
-                        <br>
-                        <center>
-                        <a href="http://leerburg.com/newpuppy.htm"><img src="https://leerburg.com/Photos/newpup-header.jpg"></a>
-                        </center>									
-                    </div>
-                    
-                    <div class="column5">		
-                    	<a href="http://leerburg.com/tactical/" class="linkhead">TACTICAL K9</a><br>
-                    			
-                        <a href="http://leerburg.com/tactical/biteequip.htm" class="linkhead">PROTECTION EQUIPMENT</a>
-                        <a href="http://leerburg.com/tactical/legsleeves.htm">Leg Sleeves</a>
-                        <a href="http://leerburg.com/tactical/armsleeves.htm">Arm Sleeves</a>
-                        <a href="http://leerburg.com/tactical/bitesuits.htm">Bite Suits</a>
-                        <a href="http://leerburg.com/tactical/tugsandballs.htm">Tugs &amp; Balls</a>
-                        <a href="http://leerburg.com/tactical/whipsandsticks.htm">Whips &amp; Sticks</a>
-                        <!--<a href="biteequip.htm"><b>All Protection Equip.</b></a>--><br> 
-                        
-                        <a href="http://leerburg.com/tactical/muzzles.htm" class="linkhead">MUZZLES</a>
-                        <a href="http://leerburg.com/tactical/leathermuzzles.htm">Leather Muzzles</a>
-                        <a href="http://leerburg.com/plasticmuzzles.htm">Plastic Muzzles</a>
-                        <a href="http://leerburg.com/1395.htm">Baskerville Muzzles</a>
-                        <a href="http://leerburg.com/wirebasketmuzzles.htm">Wire Basket Muzzles</a>
-                        <!--<a href="muzzles.htm"><b>All Muzzles</b></a>--><br>          
-                    </div>
-                    
-                    <div class="column5">
-                        <a href="http://leerburg.com/tactical/tacticalgear.htm" class="linkhead">TACTICAL GEAR</a>
-                        <a href="http://leerburg.com/tactical/harnessesvests.htm">Harnesses &amp; Vests</a>
-                        <a href="http://leerburg.com/tactical/leashes.htm">Leashes</a>
-                        <a href="http://leerburg.com/tactical/collars.htm">Collars</a>
-                        <a href="http://leerburg.com/tactical/molle.htm">MOLLE</a><br><br>
-            
-                        <a href="http://leerburg.com/tactical/remotecollars.htm" class="linkhead">REMOTE COLLARS</a>
-                        <a href="http://leerburg.com/tactical/educator.htm">Educator</a>
-                        <a href="http://leerburg.com/tactical/dogtra.htm">Dogtra</a>
-                        <a href="http://leerburg.com/tactical/tritronics.htm">Tritronics</a><br> 
-                        
-                        <a href="http://leerburg.com/tactical/healthcare.htm" class="linkhead">HEALTHCARE</a>
-                        <a href="http://leerburg.com/tactical/grooming.htm">Grooming Equipment</a>
-            			<a href="http://leerburg.com/tactical/medical.htm">Medical Kit</a><br>                               
-                    </div>
-                    
-                    <div class="column5">                        
-                        <a href="http://leerburg.com/tactical/policeservice.htm" class="linkhead">POLICE SERVICE DOGS</a>
-                        <a href="http://leerburg.com/tactical/patroldog.htm">Patrol Dog Gear</a>
-                        <a href="http://leerburg.com/tactical/tracking.htm">Tracking Gear</a>
-                        <a href="http://leerburg.com/tactical/detectordog.htm">Detector Dog Gear</a>
-                        <a href="http://leerburg.com/tactical/searchandrescue.htm">Search &amp; Rescue Gear</a><br> 
-                                        
-                        <a href="http://leerburg.com/tactical/dvds.htm" class="linkhead">DVDs</a><br>	
-                        
-                        <a href="http://leerburg.com/tactical/books.htm" class="linkhead">BOOKS</a><br>	
-                    </div>
-                    
-                    <!--FEATURED PRODUCT (ARTICLE) FOR TRAINING CATEGORIES-->
-                    <div class="columnLast">
-                        <span class="tab_pretitle">FEATURED PRODUCT</span>
-                        <a href="http://leerburg.com/708.htm" style="padding:0px;margin:0px;"><span class="tab_title">Police Style Leather Muzzle</span></a><br>
-                        <center><a href="http://leerburg.com/708.htm" style="padding:0px;margin:0px;"><img src="https://leerburg.com/cart/img/708B.jpg" width="180px"></a></center><br>
-                        <span style="color:#cccccc;font-size:11px;line-height:120%;">There is little doubt that the Police style leather muzzle is the finest muzzle money can buy. The police style muzzle offers the security and the best air flow of any muzzle on the market for a leather muzzle.</span><br><br>
-                        <div class="cart_btn" style="width:74px;color:#ffffff;margin-left:45px;"><a href="http://leerburg.com/708.htm" class="cart_btn_text"><span style="color:#ffffff">BUY NOW</span></a></div>
-                    </div>
-                    <!--END TRAINING CATEGORIES-->
-               </div>
-            </li>
-
-						<li class="dropdown_3columns" style="text-align:center;"><a href="http://leerburgonlineuniversity.com" class="nav">Online Courses</a>
-            		<div class="dd3" id="courses">
-                    <div class="column5">
-                        <span class="tab_pretitle">Check Out Our</span>
-                        <span class="tab_title"><br>ONLINE COURSES</span><br><br>
-                        <a href="http://leerburg.com/new.htm" class="boxlinks">NEW PRODUCTS</a>
-                        <a href="http://leerburg.com/exclusive.htm" class="boxlinks">LEERBURG EXCLUSIVE</a>
-                        <a href="http://leerburg.com/clearance.htm" class="boxlinks">CLEARANCE</a>
-                        <a href="http://leerburg.com/giftcertificate.htm" class="boxlinks">GIFT CERTIFICATES</a>	
-                        <br>							
-                    </div>
-                    
-                    <div class="column5">		
-                    		<a href="http://leerburgonlineuniversity.com/" target="_blank" class="linkhead">LEERBURG ONLINE<br>UNIVERSITY</a><br>
-                    			
-                        <a href="http://leerburgonlineuniversity.com/Course/viewall" target="_blank" class="linkhead">COURSES</a>
-                        <a href="https://leerburgonlineuniversity.com/Course/view/42">Basic Dog Obedience</a>
-                        <a href="https://leerburgonlineuniversity.com/Course/view/44">Teaching Engagement Skills</a>
-                        <a href="https://leerburgonlineuniversity.com/Course/view/54">Teaching Dogs the Rules of Play</a>
-                        <a href="https://leerburgonlineuniversity.com/Course/view/62">The Heeler's Toolbox / Beginner</a>
-                        <a href="https://leerburgonlineuniversity.com/Course/view/66">Housebreaking 101</a>
-                        <!--<a href="biteequip.htm"><b>All Protection Equip.</b></a>--><br>        
-                    </div>
-                    
-                    <div class="column5">
-                    		<a href="https://leerburgonlineuniversity.com/Pages/about" class="linkhead">ABOUT</a><br>
-                    
-                        <a href="http://leerburgonlineuniversity.com/Instructor/viewall" class="linkhead">VIEW INSTRUCTORS</a><br>
-                        
-                        <a href="http://leerburgonlineuniversity.com/Pages/testimonials" class="linkhead">TESTIMONIALS</a><br>
-                        
-                        <a href="http://leerburgonlineuniversity.com/Pages/faq" class="linkhead">FAQ</a><br>                   
-                    </div>
-                    
-                   <div class="column5">     
-                                     
-                        <a class="linkhead">FEATURES</a>	
-                        <a>Course Videos</a>
-                        <a>Online Chats</a>
-                        <a>Discussion Forums</a>
-                        <a>Private Messaging</a>
-                        <a>Student Video Uploads</a>
-                        <a>Course Certificates</a>    
-                                       
-                    </div>
-                   
-                    
-                    <!--FEATURED PRODUCT (ARTICLE) FOR TRAINING CATEGORIES-->
-                    <div class="columnLast">
-                    	<br>
-                      <a href="http://leerburgonlineuniversity.com"><img src="https://leerburg.com/Photos/uni-logo.png" width="160px" alt="Leerburg Online University"></a><br>
-                      
-                      <div class="cart_btn" style="width:74px;color:#ffffff;margin-left:45px;"><a href="http://leerburgonlineuniversity.com" target="_blank" class="cart_btn_text"><span style="color:#ffffff">SIGN UP NOW!</span></a></div>
-                    </div>
-                    <!--END TRAINING CATEGORIES-->
-               </div>
-            </li>
-            
-            <li style="width:15.7%;text-align:center;">
-            	<div id="searchbar" style="margin-top:8px;margin-left:8px;"><form id="formsearch" name="formsearch" method="get" action="http://leerburg.com/search/dosearch.php">
-                <input type="text" class="searchbox" name="terms" value="">
-                <input type="image" src="https://leerburg.com/Photos/search_trans.png" name="Submit" title="Submit Search" class="searchbox_submit" value=""></form></div>
-            </li>
-        </ul>      
-   </div>
-   
-   <!--Accordian Menu-->
-    	<ul class="accordion only-mobile below480" id="accordion" style="margin-top:10px;">
-       <li><a href="#" class="nav"><span style="font-size:18px;">Equipment &amp; DVDs</span> <span class="menu-arrow-main" id="m1">▼</span></a>
-            <ul>
-                <li><a href="#" class="nav">Training Videos &amp; Books <span class="menu-arrow" id="m2">▼</span></a>
-                    <ul class="addtitle">
-                        <li><a href="http://leerburg.com/flix">Video on Demand »</a></li>
-                        <li><a href="http://leerburg.com/dvd.htm">DVDs »</a></li>
-                        <li><a href="http://leerburg.com/combo.htm">DVD Sets »</a></li>
-                        <li><a href="http://leerburg.com/books.htm">Books »</a></li>
-                        <li><a href="http://leerburg.com/dogtrainingebooks.htm">Leerburg eBooks »</a></li>
-                    </ul>
-                </li>
-                <li><a href="#" class="nav" rel="equipment">Training Gear <span class="menu-arrow" id="m3">▼</span></a>
-                    <ul>
-                        <li><a href="http://leerburg.com/equip.htm">General Dog Gear »</a></li>
-                        <li><a href="http://leerburg.com/audiocds.htm">Audio CDs »</a></li>	
-                        <li><a href="http://leerburg.com/newpupequip.htm">Puppy Gear »</a></li>
-                        <li><a href="http://leerburg.com/electric.htm">Electric Collars »</a></li>
-                        <li><a href="http://leerburg.com/servicedog.htm">Service Dog Gear »</a></li>
-                        <li><a href="http://leerburg.com/sportdog.htm">Dog Sports Gear »</a></li>
-                        <li><a href="http://leerburg.com/leashcollar.htm">Leashes &amp; Collars »</a></li>
-                        <li><a href="http://leerburg.com/miscellaneous.htm">Miscellaneous »</a></li>
-                        <li><a href="http://leerburg.com/apparel.htm">Apparel »</a></li>
-                    </ul>
-                </li>
-                <li><a href="#" class="nav" id="m-toys">Toys <span class="menu-arrow" id="m4">▼</span></a>
-                    <ul>
-                        <li><a href="http://leerburg.com/puppytoy.htm">Puppy Toys »</a></li>
-                        <li><a href="http://leerburg.com/watertoys.htm">Water Toys »</a></li>
-                        <li><a href="http://leerburg.com/alldumbbells.htm">Dumbbells »</a></li>
-                        <li><a href="http://leerburg.com/tosstoys.htm">Toss &amp; Retrieve »</a></li>
-                        <li><a href="http://leerburg.com/interactivetoys.htm">Interactive Toys »</a></li>
-                        <li><a href="http://leerburg.com/balls.htm">Balls »</a></li>
-                        <li><a href="http://leerburg.com/pogo.htm">Plush &amp; Soft »</a></li>
-                        <li><a href="http://leerburg.com/chewtoys.htm">Chew Toys »</a></li>
-                        <li><a href="http://leerburg.com/durability.htm">Guaranteed Durability »</a></li>
-                    </ul>
-                </li>
-                <li><a href="#" class="nav" id="m-health">Healthcare &amp; Nutrition <span class="menu-arrow" id="m5">▼</span></a>
-                    <ul>
-                        <li><a href="http://leerburg.com/supplements.htm">Supplements »</a></li>
-                        <li><a href="http://leerburg.com/nutritionbooks.htm">Books »</a></li>
-                        <li><a href="http://leerburg.com/firstaid.htm">First Aid »</a></li>
-                        <li><a href="http://leerburg.com/fleas.htm">Fleas &amp; Ticks »</a></li>
-                        <li><a href="http://leerburg.com/grooming.htm">Grooming »</a></li>
-                        <li><a href="http://leerburg.com/dogfood.htm">All-Natural Dog Food »</a></li>
-                        <li><a href="http://leerburg.com/treat.htm">Treats »</a></li>
-                        <li><a href="http://leerburg.com/dogdishes.htm">Dog Dishes &amp; Bowls »</a></li>
-                        <li><a href="http://leerburg.com/indigo.htm">Indigo Moon Cat Food »</a></li>
-                    </ul>
-                </li>
-                <li><a href="#" class="nav" id="m-articles">Training Articles <span class="menu-arrow" id="m6">▼</span></a>
-                    <ul>
-                        <li><a href="http://leerburg.com/philosophy.htm">Philosophy of Training »</a></li>
-                        <li><a href="http://leerburg.com/ellis.htm">Obedience Training »</a></li>
-                        <li><a href="http://leerburg.com/ellis.htm">Michael Ellis »</a></li>
-                        <li><a href="http://leerburg.com/markertraining.htm">Marker Training »</a></li>
-                        <li><a href="http://leerburg.com/puppytraining.htm">Puppy Training »</a></li>
-                        <li><a href="http://leerburg.com/structure.htm">Pack Structure »</a></li>
-                        <li><a href="http://leerburg.com/dominance.htm">Dominance &amp; Aggression »</a></li>
-                        <li><a href="http://leerburg.com/dog_bites.htm">Dog Bites »</a></li>
-                        <li><a href="http://leerburg.com/dogsandkids.htm">Dogs &amp; Kids »</a></li>
-                        <li><a href="http://leerburg.com/behavior.htm">Behavioral Problems »</a></li>
-                        <li><a href="http://leerburg.com/health.htm">Breeding »</a></li>
-                        <li><a href="http://leerburg.com/health.htm">Dog Sport »</a></li>
-                        <li><a href="http://leerburg.com/health.htm">Health »</a></li>
-                        <li><a href="http://leerburg.com/feeding.htm">Feeding Dogs »</a></li>
-                        <li><a href="http://leerburg.com/petloss.htm">Death, Grief, &amp; Pet Loss »</a></li>
-                        <li><a href="http://leerburg.com/policek9.htm">Police K9 »</a></li>
-                        <li><a href="http://leerburg.com/remote.htm">Remote Collar Work »</a></li>
-                        <li><a href="http://leerburg.com/dogkennels.htm">Dog Kennels »</a></li>
-                        <li><a href="http://leerburg.com/listofpodcasts.htm">All Podcasts »</a></li>
-                        <li><a href="http://leerburg.com/listofebooks.htm">All eBooks »</a></li>
-                        <li><a href="http://leerburg.com/articles.htm">See All Articles »</a></li>
-                    </ul>
-                </li>
-                <li class="dropdown_3columns"><a href="#" class="nav" id="m-more">Tactical K9 <span class="menu-arrow" id="m8">▼</span></a>
-                    <ul>
-                        <li><a href="http://leerburg.com/tactical/biteequip.htm">Protection Equipment »</a></li>
-                        <li><a href="http://leerburg.com/tactical/muzzles.htm">Muzzles »</a></li>
-                        <li><a href="http://leerburg.com/tactical/tacticalgear.htm">Tactical Gear »</a></li>
-                        <li><a href="http://leerburg.com/tactical/remotecollars.htm">Remote Collars »</a></li>
-                        <li><a href="http://leerburg.com/tactical/healthcare.htm">Healthcare »</a></li>
-                        <li><a href="http://leerburg.com/tactical/policeservice.htm">Police Service Dogs »</a></li>
-                        <li><a href="http://leerburg.com/tactical/dvds.htm">DVDs »</a></li>
-                        <li><a href="http://leerburg.com/tactical/books.htm">Books »</a></li>
-                    </ul>
-                </li>
-                <li class="dropdown_3columns"><a href="#" class="nav" id="m-more">Online Courses <span class="menu-arrow" id="m8">▼</span></a>
-                    <ul>
-                        <li><a href="http://leerburgonlineuniversity.com/">Leerburg Online University »</a></li>
-                        <li><a href="http://leerburgonlineuniversity.com/Course/viewall">Online Courses »</a></li>
-                        <li><a href="https://leerburgonlineuniversity.com/Pages/about">About »</a></li>
-                        <li><a href="http://leerburgonlineuniversity.com/Instructor/viewall">View Instructors »</a></li>
-                        <li><a href="http://leerburgonlineuniversity.com/Pages/testimonials">Testimonials »</a></li>
-                        <li><a href="http://leerburgonlineuniversity.com/Pages/faq">FAQs »</a></li>
-                    </ul>
-                </li>
-                <li class="dropdown_3columns"><a href="#" class="nav" id="m-more">More <span class="menu-arrow" id="m8">▼</span></a>
-                    <ul>
-                        <li><a href="http://leerburg.com/new.htm">New Products »</a></li>
-                        <li><a href="http://leerburg.com/exclusive.htm">Leerburg Exclusive »</a></li>
-                        <li><a href="http://leerburg.com/clearance.htm">Clearance Corner »</a></li>
-                        <li><a href="http://leerburg.com/giftcertificate.htm">Gift Certificates »</a></li>
-                    </ul>
-                </li>
-                <li class="dropdown_3columns"><a href="http://leerburg.com/search/searchresults.php" class="nav" id="m-search">Search <span class="menu-arrow" id="m8">▶</span></a></li>
-            </ul>            
-    	</li>
-    </ul>  
+        <!-- Collars -->
+        <div class="dropdown-category-sections" id="collars-link-div">
+        	<div class="1col-dropdown-img">
+          		<img src="//leerburg.com/photos/dropdown-navigation-imgs/1col-collars.jpg" style="margin:14px 14px 0;">
+          </div>
+       		<!-- Column 1 -->
+          <div class="dropdown-column">
+            <ul class="sub-category-list">
+            	<!-- ALL label/link --><li><a href="http://leerburg.com/collars.htm" class="sub-category-title">Collars</a></li>
+              <li><a href="http://leerburg.com/leathercollars.htm">Amish Leather</a></li>
+              <li><a href="http://leerburg.com/flatcollars.htm">Flat Collars</a></li>
+              <li><a href="http://leerburg.com/prongcollars.htm">Prong Collars</a></li>
+              <li><a href="http://leerburg.com/slipcollars.htm">Slip Collars</a></li>
+              <li><a href="http://leerburg.com/fur-saver-collars.htm">Fur Savers</a></li>
+              <li><a href="http://leerburg.com/lcone.htm">Leash Collar Combo</a></li>
+              <li><a href="//leerburg.com/specialcollars.htm">Specialty Collars</a></li>
+              <li><a href="http://leerburg.com/electric.htm">Electric Collars</a></li>
+              <li><a href="//leerburg.com/c-accessories.htm">Collar Accessories</a></li>
+            </ul>
+          </div> <!-- end Column 1 -->
+        </div> <!-- End Collars -->
         
-</div>
+        <!-- Harnesses and Vests -->
+        <div class="dropdown-category-sections" id="HarnAndVests-link-div">
+        	<div class="1col-dropdown-img">
+          		<img src="//leerburg.com/photos/dropdown-navigation-imgs/1col-vests.jpg" style="margin:14px 14px 0;">
+          </div>
+        	<!-- Column 1 -->
+          <div class="dropdown-column">
+            <ul class="sub-category-list">
+            <!-- ALL label/link --><li><a href="http://leerburg.com/tactical/harnessesvests.htm" class="sub-category-title">Harnesses &amp; Vests</a></li>
+            <!-- Temp link, need non-tactical themed version ^-- -->
+            	<!-- Temp Link Until pages below created --><li><a href="http://leerburg.com/harnesses.htm">Dog Harnesses</a></li>
+              <!-- Temp Link Until pages below created --><li><a href="http://leerburg.com/dogvests.htm">Dog Vests</a></li>
+              <!-- Need Pages Yet : 
+              <li><a href="">Amish Leather Harnesses</a></li>-->
+              <li><a href="http://leerburg.com/servicevests.htm">Service Dog Vests</a></li>
+              <!--
+              <li><a href="">Safety Vests &amp; Harnesses</a></li>
+              <li><a href="">Padded &amp; Nylon Harnesses</a></li> -->
+              <li><a href="http://leerburg.com/tactical/policevests.htm">Police K9 Vests</a></li>
+              <li><a href="http://leerburg.com/tactical/molle.htm">MOLLE Harnesses &amp; Vests</a></li>
+              <!--
+              <li><a href="">Tracking Harnesses</a></li>
+              <li><a href="">Protection Sport Harnesses</a></li>-->
+              <li><a href="http://leerburg.com/trainersvests.htm">Trainer Vests</a></li>
+              <!--
+              <li><a href="">Accessories</a></li>
+              -->
+            </ul>
+          </div> <!-- end Column 1 -->
+        </div> <!-- End Harnesses and Vests -->
+        
+        <!-- E-Collars -->
+        <div class="dropdown-category-sections" id="e-collars-link-div">
+        	<div class="1col-dropdown-img">
+          		<img src="//leerburg.com/photos/dropdown-navigation-imgs/1col-e-collars.jpg" style="margin:14px 14px 0;">
+          </div>
+        	<!-- Column 1 -->
+          <div class="dropdown-column">
+            <ul class="sub-category-list">
+            	<!-- ALL label/link --><li><a href="http://leerburg.com/electric.htm" class="sub-category-title">Electric Collars</a></li>
+              <li><a href="http://leerburg.com/electric_educator.htm">Educator</a></li>
+              <li><a href="http://leerburg.com/electric_dogtra.htm">Dogtra</a></li>
+              <li><a href="http://leerburg.com/electric_smdog.htm">Small Dog E-collars</a></li>
+              <li><a href="http://leerburg.com/barkcollars.htm">Bark Collars</a></li>
+              <li><a href="http://leerburg.com/ingroundfence.htm">Electric Fencing</a></li>
+              <li><a href="//leerburg.com/e-col-accessories.htm">Electric Collar Accessories</a></li>
+            </ul>
+          </div> <!-- end Column 1 -->
+        </div> <!-- Ends E-Collars -->
+        
+        <!-- Muzzles -->
+        <div class="dropdown-category-sections" id="muzzles-link-div">
+        	<div class="1col-dropdown-img">
+          		<img src="//leerburg.com/photos/dropdown-navigation-imgs/1col-muzzles.jpg" style="margin:14px 14px 0;">
+          </div>
+       		<!-- Column 1 -->
+          <div class="dropdown-column">
+            <ul class="sub-category-list">
+            	<!-- ALL label/link --><li><a href="http://leerburg.com/muzzle.htm" class="sub-category-title">Muzzles</a></li>
+              <li><a href="http://leerburg.com/plasticmuzzles.htm">Jafco Plastic Muzzles</a></li>
+              <li><a href="http://leerburg.com/wirebasketmuzzles.htm">Wire Basket Muzzles</a></li>
+              <li><a href="http://leerburg.com/clothmuzzle.htm">Cloth Muzzles</a></li>
+              <li><a href="http://leerburg.com/1395.htm">Baskerville Muzzles</a></li>
+              <li><a href="http://leerburg.com/leathermuzzles.htm">Leather Muzzles</a></li>
+            </ul>
+          </div> <!-- end Column 1 -->
+        </div> <!-- Ends Muzzles -->
+        
+        <!-- Toys -->
+        <div class="dropdown-category-sections" id="toys-link-div">
+        	<div class="2col-dropdown-img">
+          		<img src="//leerburg.com/photos/dropdown-navigation-imgs/2col-toys.jpg" style="margin:14px 14px 0;">
+          </div>
+        	<!-- Column 1 -->
+          <div class="dropdown-column" style="border-right:1px solid #ee3124;">
+            <ul class="sub-category-list">
+           		<!-- ALL label/link --><li><a href="http://leerburg.com/toy.htm" class="sub-category-title">Toys</a></li>
+              <li><a href="http://leerburg.com/puppytug.htm">Tugs</a></li>
+              <li><a href="http://leerburg.com/balls.htm">Balls</a></li>
+              <li><a href="http://leerburg.com/sticks.htm">Sticks &amp; Bones</a></li>
+              <li><a href="http://leerburg.com/ropetoys.htm">Rope Toys</a></li>
+              <li><a href="http://leerburg.com/flyingdiscs.htm">Flying Discs</a></li>
+              
+              <li><a href="http://leerburg.com/tosstoys.htm">Toss &amp; Retrieve</a></li>
+              <li><a href="http://leerburg.com/treattoys.htm">Treat Toys</a></li>
+              <li><a href="http://leerburg.com/plushtoys.htm">Plush &amp; Soft Toys</a></li>
+              <li><a href="http://leerburg.com/fleecetugs.htm">Fleece Tugs</a></li>
+              <li><a href="http://leerburg.com/lighttoys.htm">Lighted &amp; Glowing Toys</a></li>
+              
+            </ul>
+          </div> <!-- end Column 1 -->
+          
+          <!-- Column 2 -->
+          <div class="dropdown-column">
+            <ul class="sub-category-list">
+            	<!-- Blank space --><li><a class="sub-category-title" style="color:#ffffff;">More Toys</a></li>
+           		
+              <li><a href="http://leerburg.com/launchertoys.htm">Launcher Toys</a></li>
+              <li><a href="http://leerburg.com/top-matic.htm">Top-Matic</a></li>
+              <li><a href="http://leerburg.com/zogoflex.htm">Zogoflex</a></li>
+              <li><a href="http://leerburg.com/goughnutstoys.htm">GoughNuts</a></li>
+              <li><a href="http://leerburg.com/orbeetoys.htm">Orbee</a></li>
+              
+              <li><a href="http://leerburg.com/alldumbbells.htm">Dumbbells</a></li>
+              <li><a href="http://leerburg.com/bitebars.htm">Bite Wedges</a></li>
+              <li><a href="http://leerburg.com/durability.htm">Guranteed Durability</a></li>
+              <li><a href="http://leerburg.com/puppytoy.htm">Puppy Toys</a></li>
+            </ul>
+          </div> <!-- end Column 2 -->
+          <!-- Fixes Floats -->
+        	<div class="clear-floats"></div>
+        </div> <!-- Ends Toys -->
+        
+        <!-- In the Home -->
+        <div class="dropdown-category-sections" id="houseSupplies-link-div">
+        	<div class="1col-dropdown-img">
+          		<img src="//leerburg.com/photos/dropdown-navigation-imgs/1col-house.jpg" style="margin:14px 14px 0;">
+          </div>
+        	<!-- Column 1 -->
+          <div class="dropdown-column">
+            <ul class="sub-category-list">
+            	<!-- ALL label/link --><li><a href="http://leerburg.com/inthehouse.htm" class="sub-category-title">In The Home</a></li>
+              <li><a href="http://leerburg.com/dogbeds.htm">Beds &amp; Mats</a></li>
+              <li><a href="http://leerburg.com/crate.htm">Crates</a></li>
+              <li><a href="http://leerburg.com/doggates.htm">Gates &amp; Pens</a></li>
+              <li><a href="http://leerburg.com/dogdishes.htm">Dishes &amp; Bowls</a></li>
+              <li><a href="http://leerburg.com/grooming.htm">Grooming</a></li>
+              <li><a href="http://leerburg.com/firstaid.htm">First Aid</a></li>
+              <li><a href="http://leerburg.com/travelaccessories.htm">Travel Accesories</a></li>
+              <li><a href="http://leerburg.com/temperature.htm">Shade &amp; Temperature Control</a></li>
+              <li><a href="http://leerburg.com/nighttime.htm">Night Time Safety &amp; Fun</a></li>
+              <li><a href="http://leerburg.com/clean-up.htm">Clean Up</a></li>
+              <li><a href="http://leerburg.com/ingroundfence.htm">Electric Fencing</a></li>
+              <li><a href="http://leerburg.com/smdogequip.htm">Small Dog Equipmenet</a></li>
+            </ul>
+          </div> <!-- end Column 1 -->
+        </div> <!-- ends In the House -->
+        
+        <!-- Puppies -->
+        <div class="dropdown-category-sections" id="puppies-link-div">
+        	<div class="1col-dropdown-img">
+          		<img src="//leerburg.com/photos/dropdown-navigation-imgs/1col-puppies.jpg" style="margin:14px 14px 0;">
+          </div>
+        	<!-- Column 1 -->
+          <div class="dropdown-column">
+            <ul class="sub-category-list">
+            	<!-- ALL label/link --><li><a href="http://leerburg.com/newpupequip.htm" class="sub-category-title">Puppy Supplies</a></li>
+              <!-- Also contains harnesses and rando stuff :\ --><li><a href="http://leerburg.com/puppycollars.htm">Collars &amp; Leashes</a></li>
+              <li><a href="http://leerburg.com/puppytoy.htm">Puppy Toys</a></li>
+              <li><a href="http://leerburg.com/breedwhelp.htm">Breeding Equipment</a></li>
+              <li><a href="http://leerburg.com/puppypens.htm">Puppy Crates &amp; Pens</a></li>
+              <li><a href="http://leerburg.com/tattooequip.htm">Tattoo Equipment</a></li>
+              <li><a href="http://leerburg.com/aiequip.htm">Artificial Insemination Equipment</a></li>
+              <li><a href="http://leerburg.com/whelpingequip.htm">Whelping Equipment</a></li>
+            </ul>
+          </div> <!-- end Column 1 -->
+        </div> <!-- ends Puppies -->
+        
+        <!-- Obedience Training -->
+        <div class="dropdown-category-sections" id="obedTraining-link-div">
+        	<div class="1col-dropdown-img">
+          		<img src="//leerburg.com/photos/dropdown-navigation-imgs/1col-obed-gear.jpg" style="margin:14px 14px 0;">
+          </div>
+        	<!-- Column 1 -->
+          <div class="dropdown-column">
+            <ul class="sub-category-list">
+            	<!-- ALL label/link --><li><a href="http://leerburg.com/obedienceequip.htm" class="sub-category-title">Obedience Training</a></li><a href="http://leerburg.com/obedienceequip.htm" class="sub-category-title">
+              </a><li><a href="http://leerburg.com/obedienceequip.htm" class="sub-category-title"></a><a href="http://leerburg.com/baitbag.htm">Bait Bags</a></li>
+              <li><a href="http://leerburg.com/clickertraining.htm">Clicker Training</a></li>
+              <li><a href="http://leerburg.com/bellswhistles.htm">Bells &amp; Whistles</a></li>
+              <li><a href="http://leerburg.com/trainersvests.htm">Trainer Vests</a></li>
+            </ul>
+          </div> <!-- end Column 1 -->
+        </div> <!-- ends Obedience Training -->
+        
+        <!-- Protect Sports -->
+        <div class="dropdown-category-sections" id="protectSports-link-div">
+        	<div class="1col-dropdown-img">
+          		<img src="//leerburg.com/photos/dropdown-navigation-imgs/1col-protect-gear.jpg" style="margin:14px 14px 0;">
+          </div>
+        	<!-- Column 1 -->
+          <div class="dropdown-column">
+            <ul class="sub-category-list">
+            	<!-- ALL label/link --><li><a href="http://leerburg.com/bitetrainequip.htm" class="sub-category-title">Protection Sports</a></li>
+              <li><a href="http://leerburg.com/bitesuits.htm">Bite Suits &amp; Scratch Pants</a></li>
+              <li><a href="http://leerburg.com/bitesleeves.htm">Arm Sleeves</a></li>
+              <li><a href="http://leerburg.com/legsleeve.htm">Leg Sleeves</a></li>
+              <li><a href="http://leerburg.com/bitebars.htm">Bite Wedges</a></li>
+              <li><a href="http://leerburg.com/puppytug.htm">Tugs</a></li>
+              <li><a href="http://leerburg.com/whips.htm">Whips &amp; Sticks</a></li>
+              <li><a href="http://leerburg.com/muzzle.htm">Muzzles</a></li>
+            </ul>
+          </div> <!-- end Column 1 -->
+        </div>  <!-- ends Protect Sports -->
+        
+        <!-- Police K9 -->
+        <div class="dropdown-category-sections" id="policeK9-link-div">
+        	<div class="1col-dropdown-img">
+          		<img src="//leerburg.com/photos/dropdown-navigation-imgs/1col-police.jpg" style="margin:14px 14px 0;">
+          </div>
+        	<!-- Column 1 -->
+          <div class="dropdown-column">
+            <ul class="sub-category-list">
+            	<!-- ALL label/link --><li><a href="http://leerburg.com/tactical/index.htm" class="sub-category-title">Police K9</a></li>
+              <li><a href="http://leerburg.com/tactical/molle.htm">MOLLE Harnesses</a></li>
+              <li><a href="http://leerburg.com/tactical/policevests.htm">Police K9 Vests</a></li>
+              <li><a href="http://leerburg.com/tactical/leashes.htm">Police Leashes</a></li>
+              <li><a href="http://leerburg.com/tactical/collars.htm">Police K9 Collars</a></li>
+              <li><a href="http://leerburg.com/tactical/muzzles.htm">Muzzles</a></li>
+              <li><a href="http://leerburg.com/tactical/remotecollars.htm">E-Collars</a></li>
+              <li><a href="http://leerburg.com/tactical/patroldog.htm">Patrol Dog Gear</a></li>
+              <li><a href="http://leerburg.com/tactical/tracking.htm">Tracking Gear</a></li>
+              <li><a href="http://leerburg.com/tactical/detectordog.htm">Detector Dog Gear</a></li>
+              <li><a href="http://leerburg.com/tactical/searchandrescue.htm">Search &amp; Rescue</a></li>
+              <li><a href="http://leerburg.com/tactical/medical.htm">Medical Kit</a></li>
+              <li><a href="http://leerburg.com/tactical/biteequip.htm">Protection Equipment</a></li>
+            </ul>
+          </div> <!-- end Column 1 -->
+        </div> <!-- ends Police K9 -->
+        
+        <!-- Healthcare -->
+        <div class="dropdown-category-sections" id="healthcare-link-div">
+        	<div class="1col-dropdown-img">
+          		<img src="//leerburg.com/photos/dropdown-navigation-imgs/1col-healthcare.jpg" style="margin:14px 14px 0;">
+          </div>
+       		<!-- Column 1 -->
+          <div class="dropdown-column">
+            <ul class="sub-category-list">
+            	<!-- ALL label/link --><li><a href="http://leerburg.com/healthnutrition.htm" class="sub-category-title">Healthcare</a></li>
+              <li><a href="http://leerburg.com/digest.htm">Digestive Health</a></li>
+              <li><a href="http://leerburg.com/fleas.htm">Flea, Fly &amp; Tick Prevention</a></li>
+              <li><a href="http://leerburg.com/herbsmith.htm">Herbsmith</a></li>
+              <li><a href="http://leerburg.com/immune.htm">Immune System Support</a></li>
+              <li><a href="http://leerburg.com/joint.htm">Joint Pain &amp; Arthritic Relief</a></li>
+              <li><a href="http://leerburg.com/panocare.htm">Pano Care</a></li>
+              <li><a href="http://leerburg.com/parvocare.htm">Parvovirus Care</a></li>
+              <li><a href="http://leerburg.com/skin.htm">Skin &amp; Coat</a></li>
+              <li><a href="http://leerburg.com/stress.htm">Stress Relief for Dogs</a></li>
+              <li><a href="http://leerburg.com/firstaid.htm">First Aid</a></li>
+              <li><a href="http://leerburg.com/workingandperf.htm">Working Dog Performance Supplements</a></li>
+            </ul>
+          </div> <!-- end Column 1 -->
+        </div> <!-- ends Healthcare -->
+        
+        <!-- Dog Food -->
+        <div class="dropdown-category-sections" id="dogFood-link-div">
+        	<div class="1col-dropdown-img">
+          		<img src="//leerburg.com/photos/dropdown-navigation-imgs/1col-food.jpg" style="margin:14px 14px 0;">
+          </div>
+        	<!-- Column 1 -->
+          <div class="dropdown-column">
+            <ul class="sub-category-list">
+            	<!-- ALL label/link --><li><a href="http://leerburg.com/dogfood.htm" class="sub-category-title">All-Natural Dog Food</a></li>
+              <li><a href="http://leerburg.com/hkfoods.htm">Honest Kitchen</a></li>
+              <li><a href="http://leerburg.com/solidgold.htm">All-Natural Kibble</a></li>
+              <li><a href="http://leerburg.com/treat.htm">Treats</a></li>
+              <li><a href="http://leerburg.com/dogdishes.htm">Dishes &amp; Bowls</a></li>
+              <li><a href="http://leerburg.com/hcbooks.htm">Nutrition &amp; Health Books</a></li>
+            </ul>
+          </div> <!-- end Column 1 -->
+        </div> <!-- ends Dog Food -->
+        
+        <!-- Treats -->
+        <div class="dropdown-category-sections" id="treats-link-div">
+        	<div class="1col-dropdown-img">
+          		<img src="//leerburg.com/photos/dropdown-navigation-imgs/1col-treats.jpg" style="margin:14px 14px 0;">
+          </div>
+        	<!-- Column 1 -->
+          <div class="dropdown-column">
+            <ul class="sub-category-list">
+            	<!-- ALL label/link --><li><a href="http://leerburg.com/treat.htm" class="sub-category-title">Treats</a></li>
+              <li><a href="http://leerburg.com/trainingtreat.htm">Training Treats</a></li>
+              <li><a href="http://leerburg.com/treattoys.htm">Treat Toys</a></li>
+              <li><a href="http://leerburg.com/baitbag.htm">Bait Bags</a></li>
+              <li><a href="http://leerburg.com/meatrolls.htm">Meat Rolls</a></li>
+            </ul>
+          </div> <!-- end Column 1 -->
+        </div> <!-- ends Treats -->
+         
+        <!-- Grooming --> 
+        <div class="dropdown-category-sections" id="grooming-link-div">
+        	<div class="1col-dropdown-img">
+          		<img src="//leerburg.com/photos/dropdown-navigation-imgs/1col-grooming.jpg" style="margin:14px 14px 0;">
+          </div>
+        	<!-- Column 1 -->
+          <div class="dropdown-column">
+            <ul class="sub-category-list">
+            	<!-- ALL label/link --><li><a href="http://leerburg.com/grooming.htm" class="sub-category-title">Grooming</a></li>
+              <li><a href="http://leerburg.com/brushes.htm">Brushes &amp; Rakes</a></li>
+              <li><a href="http://leerburg.com/shampoo.htm">Shampoo</a></li>
+              <li><a href="http://leerburg.com/clippers.htm">Nail Clippers</a></li>
+              <li><a href="http://leerburg.com/dryers.htm">Dryers</a></li>
+            </ul>
+          </div> <!-- end Column 1 -->
+        </div> <!-- ends Grooming --> 
+        
+        <!-- Apparel -->
+        <div class="dropdown-category-sections" id="apparel-link-div">
+        	<div class="1col-dropdown-img">
+          		<img src="//leerburg.com/photos/dropdown-navigation-imgs/1col-apparel.jpg" style="margin:14px 14px 0;">
+          </div>
+        	<!-- Column 1 -->
+          <div class="dropdown-column">
+            <ul class="sub-category-list">
+            	<!-- ALL label/link --><li><a href="http://leerburg.com/apparel.htm" class="sub-category-title">Apparel</a></li>
+              <li><a href="http://leerburg.com/trainersvests.htm">Training Vests</a></li>
+              <li><a href="http://leerburg.com/tshirts.htm">T-Shirts</a></li>
+              <li><a href="http://leerburg.com/longsleeves.htm">Long Sleeve Tops</a></li>
+            </ul>
+          </div> <!-- end Column 1 -->
+        </div> <!-- ends Apparel -->
+        
+        <!-- Dog Sports -->
+        <div class="dropdown-category-sections" id="dogSports-link-div">
+        	<div class="1col-dropdown-img">
+          		<img src="//leerburg.com/photos/dropdown-navigation-imgs/1col-sports.jpg" style="margin:14px 14px 0;">
+          </div>
+        	<!-- Column 1 -->
+          <div class="dropdown-column">
+            <ul class="sub-category-list">
+            	<!-- ALL label/link --><li><a href="http://leerburg.com/sportdog.htm" class="sub-category-title">Dog Sports</a></li>
+              <li><a href="http://leerburg.com/noseworkequip.htm">Nosework</a></li>
+              <li><a href="http://leerburg.com/blinds.htm">Blinds, Jumps &amp; Hurdles</a></li>
+              <li><a href="http://leerburg.com/alldumbbells.htm">Dumbbells</a></li>
+              <li><a href="http://leerburg.com/trackequip.htm">Tracking Gear</a></li>
+            </ul>
+          </div> <!-- end Column 1 -->
+        </div> <!-- ends Dog Sports -->
+        
+        <!-- Books -->
+        <div class="dropdown-category-sections" id="books-link-div">
+        	<div class="1col-dropdown-img">
+          		<img src="//leerburg.com/photos/dropdown-navigation-imgs/1col-books.jpg" style="margin:14px 14px 0;">
+          </div>
+        	<!-- Column 1 -->
+          <div class="dropdown-column">
+            <ul class="sub-category-list">
+            	<!-- ALL label/link --><li><a href="http://leerburg.com/books.htm" class="sub-category-title">Books</a></li>
+              <li><a href="http://leerburg.com/agilitybooks.htm">Agility</a></li>
+              <li><a href="http://leerburg.com/behaviorbooks.htm">Behavioral Problems</a></li>
+              <li><a href="http://leerburg.com/clickerbooks.htm">Clicker Training</a></li>
+              <li><a href="http://leerburg.com/noseworkbooks.htm">Nosework</a></li>
+              <li><a href="http://leerburg.com/nutritionbooks.htm">Nutrition &amp; Health</a></li>
+              <li><a href="http://leerburg.com/protbooks.htm">Protection Dog Training</a></li>
+              <li><a href="http://leerburg.com/schutzhundbooks.htm">Schutzhund</a></li>
+              <li><a href="http://leerburg.com/srbooks.htm">Search &amp; Rescue</a></li>
+              <li><a href="http://leerburg.com/workingbooks.htm">Working Dogs</a></li>
+              <li><a href="http://leerburg.com/electronicbooks.htm">eBooks</a></li>
+              <li><a href="http://leerburg.com/posteritems.htm">Posters</a></li>
+              <li><a href="http://leerburg.com/miscbooks.htm">Miscellaneous</a></li>
+            </ul>
+          </div> <!-- end Column 1 -->
+        </div> <!-- ends Books -->
+        
+        <div class="dropdown-category-sections" id="brandNew-link-div"></div>
+        <div class="dropdown-category-sections" id="clearance-link-div"></div>
+      </div> <!-- ends #shop-dropdown-wrapper-desktop -->
+      
+      <!-- -->
+      <!-- Main Dropdown - Tablet and Medium Screen Version; hidden by default -->
+      <!-- For screen widths between 1000px and 621px -->
+      <!-- -->
+      <div id="shop-dropdown-wrapper-tablet" style="display:none;">
+        <table>
+        <!-- Row 1 -->
+        <tbody><tr>
+            <td><a href="//leerburg.com/dvd.htm"><span class="one-Line">DVDs</span></a></td>
+            <td><a href="//leerburg.com/leashes.htm"><span class="one-Line">Leashes</span></a></td>
+            <td><a href="//leerburg.com/collars.htm"><span class="one-Line">Collars</span></a></td>
+            <td><a href="//leerburg.com/tactical/harnessesvests.htm"><span class="two-Line">Harnesses<br>&amp; Vests</span></a></td>
+            <td><a href="//leerburg.com/electric.htm"><span class="two-Line">Electric<br>Collars</span></a></td>
+        </tr>
+        <!-- Row 2 -->
+        <tr>
+            <td><a href="//leerburg.com/muzzle.htm"><span class="one-Line">Muzzles</span></a></td>
+            <td><a href="//leerburg.com/toy.htm"><span class="one-Line">Toys</span></a></td>
+            <td><a href="//leerburg.com/inthehouse.htm"><span class="one-Line">In The Home</span></a></td>
+            <td><a href="//leerburg.com/newpupequip.htm"><span class="one-Line">Puppies</span></a></td>
+            <td><a href="//leerburg.com/obedienceequip.htm"><span class="two-Line">Obedience<br>Training</span></a></td>
+        </tr>
+        <!-- Row 3 -->
+        <tr>
+            <td><a href="//leerburg.com/bitetrainequip.htm"><span class="two-Line">Protection<br>Sports</span></a></td>
+            <td><a href="//leerburg.com/tactical/index.htm"><span class="one-Line">Police K9</span></a></td>
+            <td><a href="//leerburg.com/healthnutrition.htm"><span class="one-Line">Healthcare</span></a></td>
+            <td><a href="//leerburg.com/dogfood.htm"><span class="two-Line">All-Natural<br>Dog Food</span></a></td>
+            <td><a href="//leerburg.com/treat.htm"><span class="one-Line">Treats</span></a></td>
+        </tr>                    
+        <!-- Row 4 -->
+        <tr>
+        		<td><a href="//leerburg.com/grooming.htm"><span class="one-Line">Grooming</span></a></td>
+            <td><a href="//leerburg.com/apparel.htm"><span class="one-Line">Apparel</span></a></td>
+            <td><a href="//leerburg.com/sportdog.htm"><span class="one-Line">Dog Sports</span></a></td>
+            <td><a href="//leerburg.com/allbooks.htm"><span class="one-Line">Books</span></a></td>
+            <td><a href="//leerburg.com/new.htm"><span class="one-Line">New Products</span></a></td>
+        </tr>
+        <!-- Row 5 -->
+        <tr>
+            <td><a href="//leerburg.com/clearance.htm"><span class="one-Line">Clearance</span></a></td>
+            <td colspan="4" class"dropdown-cell-filler"="" style="background-color:#ee3124 !important;"></td>
+        </tr>
+        </tbody></table>
+    </div> <!--  id="shop-dropdown-mobile" class="accordion-content" -->
+    <!-- Fixes Floats -->
+    <div class="clear-floats"></div>
+      
+      
+    </div> <!-- ends .main-nav-container-min620 -->
+       
+       <!-- -->        
+       <!-- Main Nav Mobile -- Search, Lou & Vod, Shop -->
+       <!-- -->
+       
+        <div class="main-nav-container-max620">
+          <ul id="shop-nav-list">
+     
+            <!-- Other Site Buttons - Lou & Vod min 420px wide -->
+            <li class="main-nav-center-ext-link" id="main-link-online"><a href="https://leerburgonlineuniversity.com/">Online Courses</a></li>
+              <!-- Small Verbage --><li class="main-nav-center-ext-link" id="main-link-online-mobile"><a href="https://leerburgonlineuniversity.com/">Courses</a></li>
+            <li class="main-nav-spacer"></li>
+            <li class="main-nav-center-ext-link" id="main-link-vod"><a href="http://leerburg.com/flix/index.php">Video On Demand</a></li>
+              <!-- Small Verbage --><li class="main-nav-center-ext-link" id="main-link-vod-mobile"><a href="http://leerburg.com/flix/index.php">Streaming</a></li>
+            <li class="main-nav-spacer" id="hide-main-nav-spacer"></li>
+            <!-- Search Bar -->
+            <li class="main-nav-center-search">
+              <div id="main-search">
+                <form id="main-nav-formsearch" name="main-nav-formsearch" method="get" action="//leerburg.com/search/dosearch.php">
+                  <input type="text" class="searchbox2" name="terms" value="">
+                  <button name="Submit" title="Submit Search">Search</button>
+                </form>
+              </div> 
+            </li>
+          </ul>
+            <!-- Shop Button -->
+            <div id="shop-button-mobile">
+              <div class="accordion-toggle">
+                <img src="//leerburg.com/photos/header-icons-logos/menu-icon.png" id="menu-icon-mobile">
+                <p>SHOP BY CATEGORY</p>
+                <img src="//leerburg.com/photos/header-icons-logos/arrow-icon_down.png" id="arrow-icon-mobile">
+                <!-- Fixes Floats -->
+                <div class="clear-floats"></div>
+              </div>
+              
+              <!-- Dropdown Hidden By Default -->
+              <div id="shop-dropdown-mobile" class="accordion-content">
+                <table>
+                <!-- Row 1 -->
+                <tbody><tr>
+                    <td><a href="//leerburg.com/dvd.htm"><span class="one-Line">DVDs</span></a></td>
+                    <td><a href="//leerburg.com/leashes.htm"><span class="one-Line">Leashes</span></a></td>
+                    <td><a href="//leerburg.com/collars.htm"><span class="one-Line">Collars</span></a></td>
+                </tr>
+                <!-- Row 2 -->
+                <tr>
+                    <td><a href="//leerburg.com/tactical/harnessesvests.htm"><span class="two-Line">Harnesses<br>&amp; Vests</span></a></td>
+                    <td><a href="//leerburg.com/electric.htm"><span class="two-Line">Electric<br>Collars</span></a></td>
+                    <td><a href="//leerburg.com/muzzle.htm"><span class="one-Line">Muzzles</span></a></td>
+                </tr>
+                <!-- Row 3 -->
+                <tr>
+                    <td><a href="//leerburg.com/toy.htm"><span class="one-Line">Toys</span></a></td>
+                    <td><a href="//leerburg.com/inthehouse.htm"><span class="one-Line">In The Home</span></a></td>
+                    <td><a href="//leerburg.com/newpupequip.htm"><span class="one-Line">Puppies</span></a></td>
+                </tr>                    
+                <!-- Row 4 -->
+                <tr>
+                    <td><a href="//leerburg.com/obediencedvds.htm"><span class="two-Line">Obedience<br>Training</span></a></td>
+                    <td><a href="//leerburg.com/bitetrainequip.htm"><span class="two-Line">Protection<br>Sports</span></a></td>
+                    <td><a href="//leerburg.com/tactical/index.htm"><span class="one-Line">Police K9</span></a></td>
+                </tr>
+                <!-- Row 5 -->
+                <tr>
+                    <td><a href="//leerburg.com/healthnutrition.htm"><span class="one-Line">Healthcare</span></a></td>
+                    <td><a href="//leerburg.com/dogfood.htm"><span class="two-Line">All-Natural<br>Dog Food</span></a></td>
+                    <td><a href="//leerburg.com/treat.htm"><span class="one-Line">Treats</span></a></td>
+                </tr>
+                <!-- Row 6 -->
+                <tr>
+                    <td><a href="//leerburg.com/grooming.htm"><span class="one-Line">Grooming</span></a></td>
+                    <td><a href="//leerburg.com/apparel.htm"><span class="one-Line">Apparel</span></a></td>
+                    <td><a href="//leerburg.com/sportdog.htm"><span class="one-Line">Dog Sports</span></a></td>
+                </tr>
+                <!-- Row 7 -->
+                <tr>
+                    <td><a href="//leerburg.com/allbooks.htm"><span class="one-Line">Books</span></a></td>
+                    <td><a href="//leerburg.com/new.htm"><span class="one-Line">New Products</span></a></td>
+                    <td><a href="//leerburg.com/clearance.htm"><span class="one-Line">Clearance</span></a></td>
+								</tr>
+                </tbody></table>
+            </div>
+            <!-- Fixes Floats -->
+            <div class="clear-floats"></div>
+         </div> <!-- shop-button-mobile -->     
 
-<div class="only-mobile below480" style="clear:both;">&nbsp;</div>
+        
+</div> <!-- ends main-nav-gradient-bg -->
 
 <div style="position:fixed;top:55px;right:0px;">
-<a href="http://leerburgonlineuniversity.com" class="tabmouseover0"></a>
-<a href="http://leerburg.com/giveaway.htm" class="tabmouseover1"></a>
-<a href="http://leerburg.com/qa/contact.php?" class="tabmouseover2"></a>
-<a href="http://leerburg.com/newsletter.htm" class="tabmouseover3"></a></div>
+  <a href="http://leerburgonlineuniversity.com" class="tabmouseover0"></a>
+  <a href="http://leerburg.com/giveaway.htm" class="tabmouseover1"></a>
+  <a href="http://leerburg.com/qa/contact.php?" class="tabmouseover2"></a>
+  <a href="http://leerburg.com/newsletter.htm" class="tabmouseover3"></a>
+</div>
 
+<!-- Category Pages tool-tip  
+<script type="text/javascript" src="https://leerburg.com/js/jquery.tools.min.js"></script> -->
+
+<!-- Product Pages showcase link -->
+<script type="text/javascript" src="https://leerburg.com/js/jquery.aw-showcase.min.js"></script>  
+
+<!-- a wrapper for the container that wraps around the footer; </div> located in footer.php -->
+<div id="container-white-wrapper" class="clearfix">
+ <div id="shadow-under-header"></div>
+
+<!-- original container for the content -->
 <div id="container" class="gallery clearfix">	
    
 			   
 <div id="main">
 			
-<a href="http://leerburg.com"><u>Leerburg</u></a> » <b>Information about our Organization and Website</b><br><br>	
+<a href="http://leerburg.com"><u>Leerburg</u></a> � <b>Information about our Organization and Website</b><br><br>	
 
 <div class="maintitle">Information about our Organization and Website</div>
 <br>
@@ -1266,14 +1258,14 @@ function clearCart()
 	var answer=confirm("Are you sure you want to empty your cart?");
 	if(answer)
 	{
-		$('#sidecartitems').load('http://leerburg.com/ajax/emptyCart.php?time=10:50:28');
+		$('#sidecartitems').load('http://leerburg.com/ajax/emptyCart.php?time=09:25:04');
 	}
 	return false;
 
 }
 function removeItem(cartItemsID)
 {
-	$('#sidecartitems').load('http://leerburg.com/ajax/emptyCart.php?action=remove&cartitemsid='+cartItemsID+'&time=10:50:28');
+	$('#sidecartitems').load('http://leerburg.com/ajax/emptyCart.php?action=remove&cartitemsid='+cartItemsID+'&time=09:25:04');
 	$('#sidebar').load('http://leerburg.com/includes/sidebar.php');
 	return false;
 }
@@ -1303,7 +1295,7 @@ function removeItem(cartItemsID)
 			
 		</tbody></table>
 	</div>		<hr>
-		<center><img src="https://leerburg.com/Photos/paypal_side.jpg" style="padding-top:0px;padding-bottom:3px;" alt="Now accepting Paypal with Visa and Mastercard."></center>
+		<center><img src="https://leerburg.com/Photos/payment-options-sidebar.jpg" style="padding-top:0px;padding-bottom:3px;" alt="Now accepting Paypal Visa Mastercard Discover."></center>
 			</div> 	
 	
 	
@@ -1311,56 +1303,56 @@ function removeItem(cartItemsID)
 	<div class="section" align="center">
 		<a href="http://leerburg.com/bitesuit-mechanics-dvd.htm"><img src="https://leerburg.com/cart/img/270.png" alt="The Mechanics of Working a Dog in a Bite Suit DVD" style="padding-bottom:6px"></a><br>
 		<a href="http://leerburg.com/bitesuit-mechanics-dvd.htm"><span style="line-height:100%;font-weight:bold;">The Mechanics of Working a Dog in a Bite Suit DVD</span></a><br>
-        <form action="/cart/addCart.php" method="POST"><input type="hidden" name="ItemID" value="2696"><input type="hidden" name="ItemQuantity" value="1"><input type="hidden" name="UID" value=""><input type="hidden" name="Date" value="2014:351:2014-12-18"><table width="100%" border="0"><tbody><tr><td colspan="2" align="center"><span class="redtext">$55.00</span><span class="text">+s&amp;h</span></td></tr><tr><td colspan="2" align="center"><center><input type="image" src="https://leerburg.com/photos/addtocart_i.png" class="addtocart" align="center" height="28px" width="106px"></center></td></tr></tbody></table></form>	</div>
+        <form action="/cart/addCart.php" method="POST"><input type="hidden" name="ItemID" value="2696"><input type="hidden" name="ItemQuantity" value="1"><input type="hidden" name="UID" value="20150611092438204.236.226.210"><input type="hidden" name="Date" value="2015:161:2015-06-11"><table width="100%" border="0"><tbody><tr><td colspan="2" align="center"><span class="redtext">$55.00</span><span class="text">+s&amp;h</span></td></tr><tr><td colspan="2" align="center"><center><input type="image" src="https://leerburg.com/photos/addtocart_i.png" class="addtocart" align="center" height="28px" width="106px"></center></td></tr></tbody></table></form>	</div>
 	
 		
 	<div class="section" align="center">
 		<a href="http://leerburg.com/746.htm"><img src="https://leerburg.com/cart/img/746A-vid.jpg" alt="Dominant Dog Collar" style="padding-bottom:6px"></a><br>
 		<a href="http://leerburg.com/746.htm"><span style="line-height:100%;font-weight:bold;">Dominant Dog Collar</span></a><br>
-        <form action="/cart/addCart.php" method="POST"><input type="hidden" name="ItemID" value="332"><input type="hidden" name="ItemQuantity" value="1"><input type="hidden" name="UID" value=""><input type="hidden" name="Date" value="2014:351:2014-12-18"><table width="100%" border="0"><tbody><tr><td align="center" class="ybtext" colspan="2" style="font-size:10px">Option 1: <select name="option1" id="option1_746a"><option value="select">Select</option><option value="-10">10 inch</option><option value="-11">11 Inch</option><option value="-12">12 Inch</option><option value="-13">13 Inch</option><option value="-14">14 Inch</option><option value="-15">15 Inch</option><option value="-16">16 inch</option><option value="-17">17 Inch</option><option value="-18">18 Inch</option><option value="-19">19 Inch</option><option value="-20">20 Inch</option><option value="-21">21 Inch</option><option value="-22">22 Inch</option><option value="-23">23 Inch</option><option value="-24">24 Inch</option><option value="-25">25 Inch</option><option value="-26">26 Inch</option><option value="-27">27 inch</option><option value="-7">07 inch</option><option value="-8">08 Inch</option><option value="-9">09 Inch</option></select></td></tr><tr><td align="center" class="ybtext" colspan="2" style="font-size:10px">Option 2: <select name="option2" id="option2_746a"><option value="select">Select</option><option value="-BLACK">Black</option><option value="-BLUE">Blue  </option><option value="-GREEN">Green </option><option value="-RED">Red</option></select></td></tr><tr><td colspan="2" align="center"><span class="redtext">$14.50</span><span class="text">+s&amp;h</span></td></tr><tr><td colspan="2" align="center"><center><input type="image" src="https://leerburg.com/photos/addtocart_i.png" class="addtocart" align="center" height="28px" width="106px" onclick="return checkOptions('746a', '2')"></center></td></tr></tbody></table></form>	</div>
+        <form action="/cart/addCart.php" method="POST"><input type="hidden" name="ItemID" value="4668"><input type="hidden" name="ItemQuantity" value="1"><input type="hidden" name="UID" value="20150611092438204.236.226.210"><input type="hidden" name="Date" value="2015:161:2015-06-11"><table width="100%" border="0"><tbody><tr><td align="center" class="ybtext" colspan="2" style="font-size:10px">Option 1: <select name="option1" id="option1_CLR0005001"><option value="select">Select</option><option value="-10">10 Inch</option><option value="-11">11 Inch</option><option value="-12">12 Inch</option><option value="-13">13 Inch</option><option value="-14">14 Inch</option><option value="-15">15 Inch</option><option value="-16">16 Inch</option><option value="-17">17 Inch</option><option value="-18">18 Inch</option><option value="-19">19 Inch</option><option value="-20">20 Inch</option><option value="-21">21 Inch</option><option value="-22">22 Inch</option><option value="-23">23 Inch</option><option value="-24">24 Inch</option><option value="-25">25 Inch</option><option value="-26">26 Inch</option><option value="-27">27 Inch</option><option value="-7">7 Inch</option><option value="-8">8 Inch</option><option value="-9">9 Inch</option></select></td></tr><tr><td align="center" class="ybtext" colspan="2" style="font-size:10px">Option 2: <select name="option2" id="option2_CLR0005001"><option value="select">Select</option><option value="-BLK">Black</option><option value="-BLU">Blue</option><option value="-GRN">Green</option><option value="-RED">Red</option></select></td></tr><tr><td colspan="2" align="center"><span class="redtext">$14.50</span><span class="text">+s&amp;h</span></td></tr><tr><td colspan="2" align="center"><center><input type="image" src="https://leerburg.com/photos/addtocart_i.png" class="addtocart" align="center" height="28px" width="106px" onclick="return checkOptions('CLR0005001', '2')"></center></td></tr></tbody></table></form>	</div>
 	
 		
 	<div class="section" align="center">
-		<a href="http://leerburg.com/ET300.htm"><img src="https://leerburg.com/cart/img/et300_best.jpg" alt="Educator ET300TS Mini Ecollar" style="padding-bottom:6px"></a><br>
-		<a href="http://leerburg.com/ET300.htm"><span style="line-height:100%;font-weight:bold;">Educator ET300TS Mini Ecollar</span></a><br>
-        <form action="/cart/addCart.php" method="POST"><input type="hidden" name="ItemID" value="2264"><input type="hidden" name="ItemQuantity" value="1"><input type="hidden" name="UID" value=""><input type="hidden" name="Date" value="2014:351:2014-12-18"><table width="100%" border="0"><tbody><tr><td align="center" class="ybtext" colspan="2" style="font-size:10px">Option 1: <select name="option1" id="option1_et300"><option value="select">Select</option><option value="-1">1 Dog - ($179.99)</option><option value="-2">2 Dog - ($289.99)</option></select></td></tr><tr><td colspan="2" align="center"><span style="color:#525252;font-size:11px;">Retail: $199.99 - $329.99</span><br>Our price: <span class="redtext">$179.99 - $289.99</span>+s&amp;h</td></tr><tr><td colspan="2" align="center"><center><input type="image" src="https://leerburg.com/photos/addtocart_i.png" class="addtocart" align="center" height="28px" width="106px" onclick="return checkOptions('et300', '1')"></center></td></tr></tbody></table></form>	</div>
+		<a href="http://leerburg.com/ET300.htm"><img src="https://leerburg.com/cart/img/et300_best.jpg" alt="Educator ET300 Mini Remote Dog Trainer" style="padding-bottom:6px"></a><br>
+		<a href="http://leerburg.com/ET300.htm"><span style="line-height:100%;font-weight:bold;">Educator ET300 Mini Remote Dog Trainer</span></a><br>
+        <form action="/cart/addCart.php" method="POST"><input type="hidden" name="ItemID" value="4700"><input type="hidden" name="ItemQuantity" value="1"><input type="hidden" name="UID" value="20150611092438204.236.226.210"><input type="hidden" name="Date" value="2015:161:2015-06-11"><table width="100%" border="0"><tbody><tr><td align="center" class="ybtext" colspan="2" style="font-size:10px">Option 1: <select name="option1" id="option1_ECR0019001"><option value="select">Select</option><option value="-1">1 Dog - ($179.99)</option><option value="-2">2 Dog - ($289.99)</option></select></td></tr><tr><td colspan="2" align="center"><span style="color:#525252;font-size:11px;">Retail: $199.99 - $329.99</span><br>Our price: <span class="redtext">$179.99 - $289.99</span>+s&amp;h</td></tr><tr><td colspan="2" align="center"><center><input type="image" src="https://leerburg.com/photos/addtocart_i.png" class="addtocart" align="center" height="28px" width="106px" onclick="return checkOptions('ECR0019001', '1')"></center></td></tr></tbody></table></form>	</div>
 	
 		
 	<div class="section" align="center">
 		<a href="http://leerburg.com/302.htm"><img src="https://leerburg.com/cart/img/302-d.png" alt="Basic Dog Obedience DVD" style="padding-bottom:6px"></a><br>
 		<a href="http://leerburg.com/302.htm"><span style="line-height:100%;font-weight:bold;">Basic Dog Obedience DVD</span></a><br>
-        <form action="/cart/addCart.php" method="POST"><input type="hidden" name="ItemID" value="57"><input type="hidden" name="ItemQuantity" value="1"><input type="hidden" name="UID" value=""><input type="hidden" name="Date" value="2014:351:2014-12-18"><table width="100%" border="0"><tbody><tr><td colspan="2" align="center"><span class="redtext">$40.00</span><span class="text">+s&amp;h</span></td></tr><tr><td colspan="2" align="center"><center><input type="image" src="https://leerburg.com/photos/addtocart_i.png" class="addtocart" align="center" height="28px" width="106px"></center></td></tr></tbody></table></form>	</div>
+        <form action="/cart/addCart.php" method="POST"><input type="hidden" name="ItemID" value="57"><input type="hidden" name="ItemQuantity" value="1"><input type="hidden" name="UID" value="20150611092438204.236.226.210"><input type="hidden" name="Date" value="2015:161:2015-06-11"><table width="100%" border="0"><tbody><tr><td colspan="2" align="center"><span class="redtext">$40.00</span><span class="text">+s&amp;h</span></td></tr><tr><td colspan="2" align="center"><center><input type="image" src="https://leerburg.com/photos/addtocart_i.png" class="addtocart" align="center" height="28px" width="106px"></center></td></tr></tbody></table></form>	</div>
 	
 		
 	<div class="section" align="center">
 		<a href="http://leerburg.com/1448.htm"><img src="https://leerburg.com/cart/img/1448.jpg" alt="Green Military Leerburg T-Shirt" style="padding-bottom:6px"></a><br>
 		<a href="http://leerburg.com/1448.htm"><span style="line-height:100%;font-weight:bold;">Green Military Leerburg T-Shirt</span></a><br>
-        <form action="/cart/addCart.php" method="POST"><input type="hidden" name="ItemID" value="2554"><input type="hidden" name="ItemQuantity" value="1"><input type="hidden" name="UID" value=""><input type="hidden" name="Date" value="2014:351:2014-12-18"><table width="100%" border="0"><tbody><tr><td align="center" class="ybtext" colspan="2" style="font-size:10px">Option 1: <select name="option1" id="option1_1448"><option value="select">Select</option><option value="-1">Small</option><option value="-2">Medium</option><option value="-3">Large</option><option value="-4">XLarge</option></select></td></tr><tr><td colspan="2" align="center"><span class="redtext">$15.00</span><span class="text">+s&amp;h</span></td></tr><tr><td colspan="2" align="center"><center><input type="image" src="https://leerburg.com/photos/addtocart_i.png" class="addtocart" align="center" height="28px" width="106px" onclick="return checkOptions('1448', '1')"></center></td></tr></tbody></table></form>	</div>
+        <form action="/cart/addCart.php" method="POST"><input type="hidden" name="ItemID" value="5009"><input type="hidden" name="ItemQuantity" value="1"><input type="hidden" name="UID" value="20150611092438204.236.226.210"><input type="hidden" name="Date" value="2015:161:2015-06-11"><table width="100%" border="0"><tbody><tr><td align="center" class="ybtext" colspan="2" style="font-size:10px">Option 1: <select name="option1" id="option1_APL0003004"><option value="select">Select</option><option value="-L">Large</option><option value="-M">Medium</option><option value="-SM">Small</option><option value="-XL">XLarge</option><option value="-XXL">XXLarge</option></select></td></tr><tr><td colspan="2" align="center"><span class="redtext">$15.00</span><span class="text">+s&amp;h</span></td></tr><tr><td colspan="2" align="center"><center><input type="image" src="https://leerburg.com/photos/addtocart_i.png" class="addtocart" align="center" height="28px" width="106px" onclick="return checkOptions('APL0003004', '1')"></center></td></tr></tbody></table></form>	</div>
 	
 		
 	<div class="section" align="center">
 		<a href="http://leerburg.com/120.htm"><img src="https://leerburg.com/cart/img/120-D.png" alt="Your Puppy 8 Weeks to 8 Months DVD" style="padding-bottom:6px"></a><br>
 		<a href="http://leerburg.com/120.htm"><span style="line-height:100%;font-weight:bold;">Your Puppy 8 Weeks to 8 Months DVD</span></a><br>
-        <form action="/cart/addCart.php" method="POST"><input type="hidden" name="ItemID" value="29"><input type="hidden" name="ItemQuantity" value="1"><input type="hidden" name="UID" value=""><input type="hidden" name="Date" value="2014:351:2014-12-18"><table width="100%" border="0"><tbody><tr><td colspan="2" align="center"><span class="redtext">$40.00</span><span class="text">+s&amp;h</span></td></tr><tr><td colspan="2" align="center"><center><input type="image" src="https://leerburg.com/photos/addtocart_i.png" class="addtocart" align="center" height="28px" width="106px"></center></td></tr></tbody></table></form>	</div>
+        <form action="/cart/addCart.php" method="POST"><input type="hidden" name="ItemID" value="29"><input type="hidden" name="ItemQuantity" value="1"><input type="hidden" name="UID" value="20150611092438204.236.226.210"><input type="hidden" name="Date" value="2015:161:2015-06-11"><table width="100%" border="0"><tbody><tr><td colspan="2" align="center"><span class="redtext">$40.00</span><span class="text">+s&amp;h</span></td></tr><tr><td colspan="2" align="center"><center><input type="image" src="https://leerburg.com/photos/addtocart_i.png" class="addtocart" align="center" height="28px" width="106px"></center></td></tr></tbody></table></form>	</div>
 	
 		
 	<div class="section" align="center">
 		<a href="http://leerburg.com/1205-2.htm"><img src="https://leerburg.com/cart/img/1205-2.jpg" alt="Roni Ball with T Handle" style="padding-bottom:6px"></a><br>
 		<a href="http://leerburg.com/1205-2.htm"><span style="line-height:100%;font-weight:bold;">Roni Ball with T Handle</span></a><br>
-        <form action="/cart/addCart.php" method="POST"><input type="hidden" name="ItemID" value="1609"><input type="hidden" name="ItemQuantity" value="1"><input type="hidden" name="UID" value=""><input type="hidden" name="Date" value="2014:351:2014-12-18"><table width="100%" border="0"><tbody><tr><td colspan="2" align="center"><span class="redtext">$15.00</span><span class="text">+s&amp;h</span></td></tr><tr><td colspan="2" align="center"><center><input type="image" src="https://leerburg.com/photos/addtocart_i.png" class="addtocart" align="center" height="28px" width="106px"></center></td></tr></tbody></table></form>	</div>
+        <form action="/cart/addCart.php" method="POST"><input type="hidden" name="ItemID" value="4831"><input type="hidden" name="ItemQuantity" value="1"><input type="hidden" name="UID" value="20150611092438204.236.226.210"><input type="hidden" name="Date" value="2015:161:2015-06-11"><table width="100%" border="0"><tbody><tr><td colspan="2" align="center"><span class="redtext">$15.00</span><span class="text">+s&amp;h</span></td></tr><tr><td colspan="2" align="center"><center><input type="image" src="https://leerburg.com/photos/addtocart_i.png" class="addtocart" align="center" height="28px" width="106px"></center></td></tr></tbody></table></form>	</div>
 	
 		
 	<div class="section" align="center">
 		<a href="http://leerburg.com/training-with-food.htm"><img src="https://leerburg.com/cart/img/220-2-D.png" alt="The Power of Training Dogs with Food DVD" style="padding-bottom:6px"></a><br>
 		<a href="http://leerburg.com/training-with-food.htm"><span style="line-height:100%;font-weight:bold;">The Power of Training Dogs with Food DVD</span></a><br>
-        <form action="/cart/addCart.php" method="POST"><input type="hidden" name="ItemID" value="2555"><input type="hidden" name="ItemQuantity" value="1"><input type="hidden" name="UID" value=""><input type="hidden" name="Date" value="2014:351:2014-12-18"><table width="100%" border="0"><tbody><tr><td colspan="2" align="center"><span class="redtext">$65.00</span><span class="text">+s&amp;h</span></td></tr><tr><td colspan="2" align="center"><center><input type="image" src="https://leerburg.com/photos/addtocart_i.png" class="addtocart" align="center" height="28px" width="106px"></center></td></tr></tbody></table></form>	</div>
+        <form action="/cart/addCart.php" method="POST"><input type="hidden" name="ItemID" value="2555"><input type="hidden" name="ItemQuantity" value="1"><input type="hidden" name="UID" value="20150611092438204.236.226.210"><input type="hidden" name="Date" value="2015:161:2015-06-11"><table width="100%" border="0"><tbody><tr><td colspan="2" align="center"><span class="redtext">$65.00</span><span class="text">+s&amp;h</span></td></tr><tr><td colspan="2" align="center"><center><input type="image" src="https://leerburg.com/photos/addtocart_i.png" class="addtocart" align="center" height="28px" width="106px"></center></td></tr></tbody></table></form>	</div>
 	
 	</div>				
 </div>	
 		
 <!-- Bottom Ad-->
 <div class="bottom-ad">
-<a href="http://leerburg.com/flix/special.php" target="_blank"><img src="https://leerburg.com/photos/ad_35offMEStreams.jpg" alt="35% off Michael Ellis streaming videos" style="max-height:150px"></a>
+<a href="https://leerburgonlineuniversity.com/Master/view/mcid/3" target="_blank"><img src="https://leerburg.com/photos/ad-banner-HTB2.png" alt="Heeler's Toolbox with Forrest Micke Self Study and Interactive" style="max-height:150px"></a>
 <a href="#" class="closead"><img src="https://leerburg.com/Photos/ad-close.png" alt="Closed"></a>
 </div>
 
@@ -1368,12 +1360,12 @@ function removeItem(cartItemsID)
 
 $(function() {
     if (localStorage) { //if local storage
-        if (!localStorage.getItem('12152014ellis')) { // if not site is visited before
+        if (!localStorage.getItem('05212015HTB2')) { // if not site is visited before
             $('.bottom-ad').show(); //show element
 			$( "a.closead" ).click(function( event ) { 
 				event.preventDefault();
 				$( ".bottom-ad" ).slideUp();
-				localStorage.setItem('12152014ellis', true); //set flag, site now visited
+				localStorage.setItem('05212015HTB2', true); //set flag, site now visited
 				}); 		           
         }
 		else {
@@ -1390,57 +1382,70 @@ $(function() {
 <div id="footer">
 	<div style="margin:0px auto;width:100%;">
 		<div style="float:left;background-color:#ffffff;padding-left:15px;"><img src="https://leerburg.com/Photos/footer_logo.png" alt="Leerburg"></div>
-		<div style="float:right;padding-top:20px;background-color:#ffffff;padding-right:15px;"><a href="#top">Back to Top</a> <a href="#top"><img src="https://leerburg.com/Photos/top.png" alt="Back to Top"></a></div>
+		<div style="float:right;padding-top:20px;background-color:#ffffff;padding-right:15px;">
+    	<a href="#top">Back to Top</a>
+      <a href="#top"><img src="https://leerburg.com/Photos/top.png" alt="Back to Top"></a>
+    </div>
 		<div style="clear:both;border-bottom:1px solid #7D7D7D;background-color:#ffffff;">&nbsp;</div>
+    
 		<div style="padding-top:30px;background-color:#ffffff;width:100%;" class="none">
+    
 			<div class="columns" style="padding-left:57px;width:170px;">
 				<a href="http://leerburg.com/" class="header">HOME</a><br>
 				<a href="http://leerburg.com/flix" class="header">VIDEOS</a>
-					<div style="padding-left:10px;margin-top:-3px;line-height:180%">
-						<a href="http://leerburg.com/flix" class="columns">Video On Demand</a><br>
-						<a href="http://leerburg.com/dvd.htm" class="columns">Leerburg DVDs</a><br>
-						<a href="http://www.youtube.com/user/leerburg" class="columns">Youtube</a><br>
-					</div>
-			<br></div>
+        <div style="padding-left:10px;margin-top:-3px;line-height:180%">
+          <a href="http://leerburg.com/flix" class="columns">Video On Demand</a><br>
+          <a href="http://leerburg.com/dvd.htm" class="columns">Leerburg DVDs</a><br>
+          <a href="http://www.youtube.com/user/leerburg" class="columns">Youtube</a><br>
+        </div>
+				<br>
+      </div>
+      
 			<div class="columns">
 				<a href="http://www.leerburg.com/articles.htm" class="header">TRAINING</a><br>
-					<div style="padding-left:10px;margin-top:-3px;line-height:180%">
-						<a href="http://www.leerburg.com/obediencetrainingdogs.htm" class="columns">Dog Obedience</a><br>
-						<a href="http://www.leerburg.com/dominantdogs.htm" class="columns">Aggression &amp; Dominance</a><br>
-						<a href="http://www.leerburg.com/puppytraining.htm" class="columns">Puppy Training</a><br>
-						<a href="http://www.leerburg.com/housetraining.htm" class="columns">House Training</a><br>
-						<a href="http://www.leerburg.com/feedingdogs.htm" class="columns">Feeding</a><br>
-						<a href="http://www.leerburg.com/breedingdogs.htm" class="columns">Breeding</a><br>
-						<a href="http://www.leerburg.com/qaelectric.htm" class="columns">Electric Collar</a><br>
-						<a href="http://www.leerburg.com/tactical" class="columns">K9 Training</a><br>
-					</div>
+        <div style="padding-left:10px;margin-top:-3px;line-height:180%">
+          <a href="http://www.leerburg.com/obediencetrainingdogs.htm" class="columns">Dog Obedience</a><br>
+          <a href="http://www.leerburg.com/dominantdogs.htm" class="columns">Aggression &amp; Dominance</a><br>
+          <a href="http://www.leerburg.com/puppytraining.htm" class="columns">Puppy Training</a><br>
+          <a href="http://www.leerburg.com/housetraining.htm" class="columns">House Training</a><br>
+          <a href="http://www.leerburg.com/feedingdogs.htm" class="columns">Feeding</a><br>
+          <a href="http://www.leerburg.com/breedingdogs.htm" class="columns">Breeding</a><br>
+          <a href="http://www.leerburg.com/qaelectric.htm" class="columns">Electric Collar</a><br>
+          <a href="http://www.leerburg.com/tactical" class="columns">K9 Training</a><br>
+        </div>
 			<br>
 			</div>
+      
 			<div class="columns">
 				<a href="http://leerburg.com/equip.htm" class="header">EQUIPMENT</a><br>
-					<div style="padding-left:10px;margin-top:-3px;line-height:180%">
-						<a href="http://leerburg.com/dvdbooks.htm" class="columns">DVDs &amp; Books</a><br>
-						<a href="http://leerburg.com/equip.htm" class="columns">Training Gear</a><br>
-						<a href="http://leerburg.com/toy.htm" class="columns">Dog Toys</a><br>
-						<a href="http://leerburg.com/healthnutrition.htm" class="columns">Health &amp; Nutrition</a><br>			
-					</div>
+        <div style="padding-left:10px;margin-top:-3px;line-height:180%">
+          <a href="http://leerburg.com/dvdbooks.htm" class="columns">DVDs &amp; Books</a><br>
+          <a href="http://leerburg.com/equip.htm" class="columns">Training Gear</a><br>
+          <a href="http://leerburg.com/toy.htm" class="columns">Dog Toys</a><br>
+          <a href="http://leerburg.com/healthnutrition.htm" class="columns">Health &amp; Nutrition</a><br>			
+        </div>
+        
 				<a href="http://leerburg.com/qa/index.php" class="header">Q&amp;A</a>
-					<div style="padding-left:10px;margin-top:-3px;line-height:180%">
-						<a href="http://leerburg.com/obedienceequip.htm" class="columns">Q&amp;A Puppy &amp; Obedience</a><br>
-						<a href="http://leerburg.com/qa/qna_category.php?categoryid=31" class="columns">Q&amp;A Behavioral Problems</a><br>
-						<a href="http://leerburg.com/qa/qna_category.php?categoryid=55" class="columns">Q&amp;A Protection Training</a><br>
-						<a href="http://leerburg.com/qa/qna_category.php" class="columns">More Q&amp;A »</a><br>
-					</div>
+        <div style="padding-left:10px;margin-top:-3px;line-height:180%">
+          <a href="http://leerburg.com/obedienceequip.htm" class="columns">Q&amp;A Puppy &amp; Obedience</a><br>
+          <a href="http://leerburg.com/qa/qna_category.php?categoryid=31" class="columns">Q&amp;A Behavioral Problems</a><br>
+          <a href="http://leerburg.com/qa/qna_category.php?categoryid=55" class="columns">Q&amp;A Protection Training</a><br>
+          <a href="http://leerburg.com/qa/qna_category.php" class="columns">More Q&amp;A »</a><br>
+        </div>
+        
 			</div>
+      
 			<div class="columnF">
 				<div style="float:left;width:140px;border:0px solid #000000;">
-				<a href="http://leerburg.com/aboutus.htm" class="header">ABOUT US</a>
-					<div style="padding-left:10px;margin-top:-3px;line-height:180%">
-						<a href="http://leerburg.com/leerburgstaff.htm" class="columns">Meet the Staff</a><br>
-						<a href="http://leerburg.com/contact.htm" class="columns">Contact Us</a><br>
-						<a href="http://leerburg.com/affiliate.htm" class="columns">Affiliate Program</a><br>
-					</div>
+          <a href="http://leerburg.com/aboutus.htm" class="header">ABOUT US</a>
+          <div style="padding-left:10px;margin-top:-3px;line-height:180%">
+            <a href="http://leerburg.com/leerburgstaff.htm" class="columns">Meet the Staff</a><br>
+            <a href="http://leerburg.com/contact.htm" class="columns">Contact Us</a><br>
+            <a href="http://leerburg.com/order.htm" class="columns">Order Information</a><br>
+            <a href="http://leerburg.com/return.htm" class="columns">Return Policy</a><br>
+          </div>
 				</div>
+        
 				<div style="float:right;width:120px;border:0px solid #000000;">
 				<a href="#" class="header">FOLLOW US</a><br>
 					<div style="padding-left:10px;margin-top:-3px;line-height:180%">
@@ -1452,21 +1457,31 @@ $(function() {
 						<a href="http://leerburg.com/newsletter.htm" class="columns">Newsletter</a><br>
 					</div>
 				</div>
+        
 				<div style="clear:both;white-space:nowrap;padding-top:40px;text-align:right">
-				<div id="searchwrapper">
-				<form id="formsearch" name="formsearch" method="get" action="http://leerburg.com/search/dosearch.php">
-					<input type="text" class="searchbox" name="terms" value="">
-					<input type="image" src="https://leerburg.com/Photos/search_trans.png" name="Submit" title="Submit Search" class="searchbox_submit" value="">
-				</form>
-			</div>
-				</div>				
-			</div>
-		</div>
-	</div>
+          <div id="searchwrapper">
+            <form id="formsearch" name="formsearch" method="get" action="http://leerburg.com/search/dosearch.php">
+              <input type="text" class="searchbox" name="terms" value="">
+              <input type="image" src="https://leerburg.com/Photos/search_trans.png" name="Submit" title="Submit Search" class="searchbox_submit" value="">
+            </form>
+          </div>
+        </div> <!-- closes search div-->				
+      </div> <!-- closes columnF -->
+    </div> <!-- closes div containing columns -->
+	</div> <!-- closes div -->
 
-	<div class="f_text" style="background-color:#ffffff;"><br>Copyright 2014 Leerburg® Enterprises, Inc. All rights reserved. All photos and content on leerburg.com are part of a registered copyright owned by Leerburg Enterprise, Inc.<br><br>By accessing any information within Leerburg.com, you agree to abide by the Leerburg.com <a href="http://leerburg.com/privacy.htm" target="_blank">Privacy Policy</a> and <a href="http://leerburg.com/termsofuse.htm" target="_blank">Terms of Use</a>.
-</div>	
+	<div class="f_text" style="background-color:#ffffff;"><br>Copyright 2014 Leerburg® Enterprises, Inc. All rights reserved. All photos and content on leerburg.com are part of a registered copyright owned by Leerburg Enterprise, Inc. <br>Background pattern <a href="http://subtlepatterns.com/tweed">"Tweed"</a> CC BY-SA 3.0 - Simon Leo<br><br>By accessing any information within Leerburg.com, you agree to abide by the Leerburg.com <a href="http://leerburg.com/privacy.htm" target="_blank">Privacy Policy</a> and <a href="http://leerburg.com/termsofuse.htm" target="_blank">Terms of Use</a>.
+  </div>	
+  
+<div class="clear-floats"></div>
+</div><!--/footer -->  
+<div class="clear-floats"></div>
 </div><!--/container-->
+
+<div class="clear-floats"></div>
+<!-- a wrapper for the container that also wraps around the footer; <div> located in header.php -->
+</div>
+
 
 
 <script language="JavaScript">
@@ -1475,48 +1490,16 @@ $(function() {
 	}
 </script>
 
-<script type="text/javascript">
-                var _caq = _caq || [];
-                (function () {
-                                var ca = document.createElement("script"); 
-                                ca.type = "text/javascript"; 
-                                ca.async = true;
-                                ca.id = "_casrc"; 
-                                ca.src = "//t.channeladvisor.com/v2/12013712.js";
-                                var ca_script = document.getElementsByTagName("script")[0]; 
-                                ca_script.parentNode.insertBefore(ca, ca_script);
-                })();
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-11086961-1', 'auto');
+  ga('send', 'pageview');
+
 </script>
-
-<!--Add Role code -->
-<script type="text/javascript">
-adroll_adv_id = "5XAOLAAFQZB2FDZI66B4EX";
-adroll_pix_id = "ET2M4DBUL5FQNL3MPJGDBZ";
-(function () {
-var oldonload = window.onload;
-window.onload = function(){
-   __adroll_loaded=true;
-   var scr = document.createElement("script");
-   var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
-   scr.setAttribute('async', 'true');
-   scr.type = "text/javascript";
-   scr.src = host + "/j/roundtrip.js";
-   ((document.getElementsByTagName('head') || [null])[0] ||
-    document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
-   if(oldonload){oldonload()}};
-}());
-</script>
-
-
-<script type="text/javascript">
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-<script type="text/javascript">
-try {
-var pageTracker = _gat._getTracker("UA-11086961-1");
-pageTracker._trackPageview();
-} catch(err) {}</script>
 
 
 </body></html>
