@@ -1,97 +1,92 @@
-> *The following text is extracted and transformed from the recipecommunity.com.au privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120061120id_/http%3A//www.recipecommunity.com.au/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the recipecommunity.com.au privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612014016id_/http%3A//www.recipecommunity.com.au/content/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Official Thermomix Forum & Recipe Community
 
-Your privacy and the security of your personal information are very important to us. We want you to be as comfortable as possible visiting our website.
+**Privacy Statement:**  
+At Thermomix in Australia Pty Ltd (ACN 069 944 930) ( **Thermomix in Australia** ), we recognise the importance of protecting your personal information ( **Personal Information** ). We are bound by the Privacy Act 1988 (Cth) and the Australian Privacy Principles. 
 
-Thermomix in Australia is committed to ensuring that your personal information is professionally managed in accordance with the Privacy Act 1988 (Cth) and all relevant State legislation (Privacy Legislation). The Privacy Act 1988 contains the National Privacy Principles which, in conjunction with other Privacy Legislation, sets the standards for the way in which private organisations, such as Thermomix in Australia, handle personal information. For further information about the Privacy Legislation, please go to <http://www.comlaw.gov.au/>
+The Privacy Policy relates to the collection and use of Personal Information you may supply to us when you interact with us, such as at a demonstration, cooking class or through your conduct on our [website](http://www.thermomix.com.au/) or the [recipe community](http://www.recipecommunity.com.au/) (together the Site). 
 
-This Privacy Policy governs the Australian websites operated by us at [http://www.recipecommunity.com.au](http://www.recipecommunity.com.au/) (Website) and explains how we collect your personal information on our Website how we protect such information, how we ensure that that information is kept secure, and how you can obtain access to that information. Please read this Privacy Policy carefully. Except as disclosed in this Privacy Policy, we will not sell, share, license, trade, or rent your personal information to others.
+By using the Site and providing us with your Personal Information, you consent and agree to the Privacy Policy of Thermomix in Australia as follows. We are not responsible for the privacy of any Personal Information that you reveal in any public form on the Site (e.g. message boards, blogs etc). 
 
-In this policy where we refer to:
+We reserve the right, at our discretion, to modify or remove portions of this Privacy Policy from time to time. You should review this Privacy Policy periodically to ensure you are updated on any changes.
 
-  * “Thermomix in Australia”, “we”, “us”, and “our” means Thermomix in Australia Pty Ltd ACN 069 944 930 of Suite 3, 5 Stretton Place, Balcatta, Western Australia.
-  * "personal information”, this means information which identifies an individual or from which an individual’s identity can be reasonably ascertained; and
-  * “you” or “your”, this means the registered and unregistered users of our Website.
+**What Personal Information do we collect?**  
+We may collect your Personal Information such as your name, date of birth, address, email address, age, sex, marital status, contact details, occupation, preferences, personal interests, financial information and credit card details for any services you purchase from us. We may also collect the following information for marketing purposes and to improve your experience with us: 
 
-
-
-We may, from time to time, without further notice to you review and update this Privacy Policy to take account of new laws and technology, changes to our operations and practices. By using our Website, offerings, features, tools or resources that we provide on our Website you agree to the terms of this Privacy Policy.  
-If you have questions about data protection or would like to receive information about your personal data that is held by us, please contact us at [info@thermomix.com.au](mailto:info@thermomix.com.au). 
-
-Please remember that this Privacy Policy applies only to information collected by our Website. We are not responsible for the privacy of any information you reveal or post in any public form (e.g. message board, blog, group, etc.) or through our Website, or for the privacy practices of third parties or third party websites, even if those other websites are accessed from this Website. 
-
-**1\. What information about you is collected on our Website?**
-
-We collect two types of information: Personally Identifiable Information and non-Personally Identifiable Information.
-
-  * Personally Identifiable Information: is information from which your identity is apparent or can reasonably be ascertained and includes personal information under applicable Privacy Legislation such as your name, address, email address, telephone number, birth date (primarily for eligibility purposes); and
-  * Non-Personally Identifiable Information: is information that by itself cannot be used to identify or contact you, such as demographic information (age, profession or gender), food habits, Thermomix model, information identifying you as an employee of Thermomix, username, password, server IP addresses, browser types, domain names, and anonymous statistical data involving the use of our Website.
+  * your server address;
+  * domain name;
+  * the date and time of your visit to the Site;
+  * the pages viewed and information downloaded;
+  * food habits;
+  * Thermomix model;
+  * the previous sites visited; and
+  * the type of browser used.
 
 
 
-**2\. To enable us to generate access statistics, we store the following Non-Personally Identifiable Information when you access our Website:**
+You do not need to provide us with your Personal Information, however, you may not be able to visit all sections of our Site or utilise the full services we offer.
 
-  * Details about your browser and operating system;
-  * The URL of the page that you access;
-  * The referrer (the URL of the previous site that referred you to the current page);
-  * The date and time of access
-  * This data is stored in so-called server log files and is used for the statistical evaluation of accesses to the website. Non-Personally Identifiable Information is used to help us understand who uses our Website and to improve and market our Website.
+**How do we collect your Personal Information?**  
+We may collect your Personal Information using various means such as: directly from you e.g. through the Site, order forms, questionnaires or when you register as a user; from social media networks where we have a connection e.g. facebook, Twitter; by your usage of the Site e.g. the pages that you visit, what links you click. 
 
+**How do we use your Personal Information?**  
+We may use your Personal Information for the following purposes:
 
-
-**3\. What are the main consequences if you do not provide Personally Identifiable Information?**
-
-You do not have to provide us with any Personally Identifiable Information to visit our Website. However, if you choose to withhold requested information, you may not be able to visit all sections of our Website.
-
-**4\. Where and when is information collected on our website (including with cookies)?**
-
-  * Registered users: To access certain parts of our Website such as the Shopping Cart, you must first complete certain steps to become registered user. During these steps, you may be required to provide us with information (including Personally Identifiable Information) such as your name, address , credit card and email address.
-  * Cookies: Cookies are used when the Website is accessed. Cookies are data sets that are saved by your browser and which contain pseudonymised data. Cookies are used on the Website to improve its user-friendliness and to display the website individually and in accordance with user requirements. Cookies are also used to analyse and realise marketing opportunities, such as, in particular, advertising banners. The following data is saved when cookies are used: language, region of origin and login date. You can deactivate cookies in your browser and also remove cookies that have already been set. More information is available via the Help function on your browser.
-  * Personal Information: Thermomix collects only personal information that you supply when registering with or otherwise contacting Thermomix. When you open a user account on our Website, the following Personally Identifiable Information will be collected – first name, surname, Thermomix model, information identifying you as an employee of Thermomix (if applicable), email address, username and password. Thermomix uses this personal information solely in accordance with the relevant Privacy Legislation, however particularly to provide the services offered on the website.
+  * to better understand who uses a Thermomix and the Site;
+  * to provide products and services to you;
+  * to send information updates, marketing materials and newsletters to you;
+  * we may disclose your Personal Information to other businesses who assist us in providing products or services or who perform functions on our behalf;
+  * to verify your identity and registered user status;
+  * to improve our products and services, our website and directory. 
 
 
 
-**5\. Is the information we collect secure?**
+**To whom do we disclose your Personal Information?**  
+We may disclose your Personal Information to third parties but only on a needs basis and for purposes contemplated by your use of a Thermomix. These third parties may include:
 
-  * In general, we use the information collected on our Website to help us understand who uses our Website and how our Website is used, to personalise your online experience and to improve our Website.
-  * If you become a registered user of our Website, we may use your information to send you a welcoming email that may confirm your user name and password. If you no longer desire to receive these communications, we will provide you with the option to change your preferences.
-  * In addition, if you identify yourself to us by sending us an email with questions or comments, we may use your information (including Personally Identifiable Information) to respond to your questions or comments, and we may file your questions or comments for future reference.
-  * We may also use the information collected to send you important service announcements and updates regarding our Website.
-  * We store your e-mail address in order to: 
-    * \- send a user its username and password after first registration or in the event that the password is re-requested later;
-    * \- facilitate private messaging; and send users changes to the Terms of Use.
-  * The username entered by the user serves to identify the user in communications with other users, particularly when accessing the Shopping Cart.
-  * The date and time at which a user profile is created and the date and time of the last login are saved to identify inactive user profiles.
+  * our agents or contractors; 
+  * email marketing providers such as Vision 6;
+  * our related entities;
+  * our professional advisers. 
 
 
 
-**6\. Is the information we collect secure?**
+Third parties to whom we disclose Personal Information may be located outside Australia, including Vorwerk International Strecker & Co in Switzerland and Germany.  
+When we disclose your Personal Information with a third party, we will require the third party to handle your Personal Information in accordance this policy and Australian privacy laws.
 
-  * We want your information (including Personally Identifiable Information) to remain as secure as reasonably possible. We strive to provide secure transmission of your information from your computer to our servers through industry-standard techniques.
-  * You should be aware that there is always some risk involved in transmitting information over the Internet. There is also some risk that others could find a way to thwart our security systems. As a result, we cannot ensure or warrant the security and privacy of any information you transmit to us, and you do so at your own risk.
+**Security**  
+We strive to ensure the security of your Personal Information and we take reasonable steps to protect your Personal Information from: 
 
-
-
-**7\. Can you access, delete, update or correct your Personally Identifiable Information?**
-
-You can always contact us in order to:
-
-  * access your Personally Identifiable Information;
-  * update or correct your Personally Identifiable Information;
-  * change your preferences with respect to communications and other information you receive from us, or you can delete your user profile, as long as you are logged in with your username and password. To do so, just send an e-mail with the subject “Delete profile” to [info@thermomix.com.au](mailto:info@thermomix.com.au). In this case, no personal data will be retained.
+  * from misuse, interference and loss; and
+  * from unauthorised access, modification or disclosure.
 
 
 
-You should be aware that it is not technologically possible to remove each and every record of the information you have provided to us from our systems. However, we will ensure that promptly after receiving your request, all Personally Identifiable Information stored in databases we actively use and other readily searchable media will be updated, corrected, changed or deleted, as appropriate, as soon as reasonably practicable.  
-We will generally not delete uploaded recipes and photos, even if your membership has ended. See the [Terms & Conditions](http://www.recipecommunity.com.au/content/terms-use-thermomix) for more information. 
+We will review and update our physical and data security measures in light of current technologies. Unfortunately, no data transmission over mobile data and communication services can be guaranteed to be totally secure. 
 
-**8\. Revocation of consent**
+In addition, our employees and contractors who provide services related to our information systems are obliged to respect the confidentiality of any Personal Information held by us. 
 
-  * You may revoke your consent to the collection, saving, use and forwarding of your personal information at any time. To do so, send an e-mail to [info@thermomix.com.au](mailto:info@thermomix.com.au).
-  * Please note where your consent is necessary for the performance of services to you under a contract, any contract or terms shall terminate and that obligation will not apply to us with immediate effect.
+We will do everything reasonably within our power and control to prevent unauthorised use or disclosure of your Personal Information. However, we will not be held responsible for events arising from any unauthorised use or access to your Personal Information.
 
+**Accuracy of your Personal Information**  
+We will take reasonable steps to ensure that your Personal Information that we collect, use or disclose is accurate, complete and up-to-date. However, the accuracy of the information held by us largely depends on the accuracy of the information that you supplied to us. If at any time you discover that any information concerning you is inaccurate, out of date, incomplete, irrelevant or misleading, please contact us to correct the information. 
 
+**Marketing**  
+From time to time, we may send emails containing marketing materials or promotions of our products and services to you. By your use of the Site, you consent to us doing so. However, you may unsubscribe from these marketing materials at any time by clicking on the unsubscribe option or by sending an email to us. We will remove you from the mailing list. 
 
-**9\. Further information**  
-If you require any further information regarding this policy, please contact Thermomix in Australia at: [info@thermomix.com.au](mailto:info@thermomix.com.au)
+**Access to your Personal Information and Complaints**  
+Your privacy is very important to us and we take the matter very seriously. If you have any concerns about your privacy or how your Personal Information is being handled, please contact us at the email address at the bottom of this policy. We will take steps to address your concerns and we aim to provide you with a written response within 14 days. 
+
+**Cookies**  
+When you visit the Site or use any of our services, the Site may send one or more Cookies - a small text file containing a string of alphanumeric characters - to your computer that uniquely identifies your browser. Our servers may also record anonymous information such as the time, date and URL relating to your use of the Site. Cookies, which are industry standard and are used by most web sites, including the Site, can facilitate a user's ongoing access to and use of a website. The use of Cookies will allow us to customise the Site to your needs, remember your preferences and also assists us in improving the performance of the Site. We may engage third parties to analyse the information collected by cookies or perform statistics about usage of the Site. 
+
+Sometimes, cookies may collect and store your Personal Information. We treat such information in the same manner as other Personal Information that you provide to us. You can deactivate the cookies by resetting your web browser to refuse all cookies or to indicate when a cookie is being sent. However, the Site and our services may not function properly if you disable the cookies. 
+
+**Third Party Sites**  
+From time to time we may provide links to third party websites ( **Linked Sites** ). These Linked Sites are not under our control and we do not accept responsibility or liability for the conduct of the Linked Sites or their businesses and the information available on the Linked Sites. We recommend that you refer to the privacy policy of the Linked Sites before disclosing your Personal Information to the Linked Sites. 
+
+**Contact Us** If you have any further queries relating to our Privacy Policy or you have any comments or feedback, please contact us at: [info@thermomix.com.au](mailto:info@thermomix.com.au). 
+
+**Further Privacy Information**  
+For more information about privacy issues in Australia and protecting your privacy, visit the Australian Government, Office of the Australian Information Commissioner website. [www.oaic.gov.au](http://www.oaic.gov.au/). 
