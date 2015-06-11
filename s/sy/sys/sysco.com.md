@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sysco.com privacy policy that was archived on 2014-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141018073211id_/http%3A//www.sysco.com/privacy-policy-legacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sysco.com privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611143500id_/http%3A//www.sysco.com/privacy-policy-legacy.html) for the most accurate reproduction.*
 
 # Sysco | Privacy Policy
 
