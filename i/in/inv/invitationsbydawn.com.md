@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the invitationsbydawn.com privacy policy that was archived on 2014-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141214112204id_/http%3A//www.invitationsbydawn.com/custserv_content.jsp%3FpageName%3Dprivacy_security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the invitationsbydawn.com privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611183902id_/http%3A//www.invitationsbydawn.com/custserv_content.jsp%3FpageName%3Dprivacy_security) for the most accurate reproduction.*
 
 # Privacy & Security Policy | Invitations By Dawn
 
-[Home](http://www.invitationsbydawn.com/home.jsp) · [Customer Service](http://www.invitationsbydawn.com/custserv/custserv.jsp) · Privacy & Security Policy
+Privacy & Security Policy
 
   
 Last Updated: February 1, 2011
@@ -36,7 +36,7 @@ You may decline cookies, but by doing so, you may not be able to use certain fea
 **Do We Share Your Information?**  
 We may transfer or otherwise disclose information collected from and about you to the following entities for the following purposes: (1) to our service providers, suppliers and business associates, if the disclosure will enable them to fulfill your request for products or services from us for another vendor on our site; (2) to our service providers and business associates, if the disclosure will enable them to perform a business, professional or technical support function for us; (3) to our affiliates and other third parties so that they may contact you with marketing offers of their own; (4) to other companies, credit bureaus or government agencies in connection with issues related to fraud, credit or debt collection; (5) as necessary if we believe that there has been a violation of our site Terms of Use, of the law or of our rights or the rights of any third party; (6) to respond to judicial process and provide information to law enforcement agencies or in connection with an investigation on matters related to public safety, as permitted by law, or otherwise as required by law; and (7) if our company or substantially all of its assets are acquired, your personal information may be one of the transferred assets.
 
-Any personal information or content that you voluntarily upload or submit for posting to the site becomes publicly available and can be collected and used by others. It is in violation of the site's [Terms of Use](http://www.invitationsbydawn.com/custserv_content.jsp?pageName=terms_conditions) for you to post any content that requests personally identifiable information.
+Any personal information or content that you voluntarily upload or submit for posting to the site becomes publicly available and can be collected and used by others. It is in violation of the site’s [Terms of Use](http://www.invitationsbydawn.com/custserv_content.jsp?pageName=terms_conditions) for you to post any content that requests personally identifiable information.
 
 **Can I Change My Information?**  
 You may change or update your personal information by sending an email to: [contact@invitationsbydawn.com](mailto:contact@invitationsbydawn.com). Please include "Change My Information" in the subject line.
