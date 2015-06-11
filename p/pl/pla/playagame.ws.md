@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the playagame.ws privacy policy that was archived on 2014-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141009140940id_/http%3A//www.gamesxl.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the playagame.ws privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611103055id_/http%3A//www.gamesxl.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Games XL .com
 
