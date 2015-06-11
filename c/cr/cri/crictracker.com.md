@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the crictracker.com privacy policy that was archived on 2014-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141216012832id_/http%3A//www.crictracker.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crictracker.com privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612000728id_/http%3A//www.crictracker.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Cricket Tracker
-
-[Home](http://www.crictracker.com/) Privacy Policy
 
 **Privacy Policy**  
 This Privacy Policy was last modified on Nov 9, 2014.  
