@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the androidevolved.com privacy policy that was archived on 2014-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141130181625id_/http%3A//androidevolved.com/forums/android-forums-rules-tos-annoucements/4-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the androidevolved.com privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612005016id_/http%3A//androidevolved.com/forums/android-forums-rules-tos-annoucements/4-privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
