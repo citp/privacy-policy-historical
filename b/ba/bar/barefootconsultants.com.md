@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the barefootconsultants.com privacy policy that was archived on 2014-07-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140715021526id_/http%3A//www.barefootconsultants.com/public/Privacy_Policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the barefootconsultants.com privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611182107id_/http%3A//www.barefootconsultants.com/public/Privacy_Policy.cfm) for the most accurate reproduction.*
 
 # Privacy Policy
 
   
-[](https://web.archive.org/web/20140715021526id_/http%3A//www.barefootconsultants.com/public/275print.cfm)
+[](https://web.archive.org/web/20150611182107id_/http%3A//www.barefootconsultants.com/public/275print.cfm)
 
-PRIVACY POLICY Last Updated: April 12, 2010
+PRIVACY POLICY Last Updated: January 2, 2015
 
 BarefootConsultants.com strives to offer its visitors the many advantages of Internet technology and to provide an interactive and personalized experience. We may use Personally Identifiable Information (your name, e-mail address, street address, telephone number) subject to the terms of this privacy policy. We will never sell, barter, or rent your email address to any unauthorized third party. Period."
 
@@ -46,9 +46,9 @@ Email: privacy@churchillmethod.com
 Address:
 
 Churchill Method, Inc.  
-9330 LBJ Freeway  
-Suite 900  
-Dallas, TX  75243  
+JP Morgan International Plaza III  
+14241 Dallas Parkway Suite 650   
+Dallas, TX 75254  
 USA
 
 Changes to this Policy
@@ -63,4 +63,4 @@ If it proves impossible to arrive at a mutually satisfactory solution through me
 
 BarefootConsultants.com is controlled, operated and administered entirely within Texas. This statement and the policies outlined herein are not intended to and do not create any contractual or other legal rights in or on behalf of any party.
 
-[](https://web.archive.org/web/20140715021526id_/http%3A//www.barefootconsultants.com/public/275print.cfm)
+[](https://web.archive.org/web/20150611182107id_/http%3A//www.barefootconsultants.com/public/275print.cfm)
