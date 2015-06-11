@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the vodafone.ie privacy policy that was archived on 2014-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141223232550id_/http%3A//www.vodafone.ie/terms/privacy/%23cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vodafone.ie privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611084330id_/http%3A//www.vodafone.ie/terms/privacy/%23cookies) for the most accurate reproduction.*
 
-# Vodafone Ireland's Privacy Policy
+# Vodafone Ireland's Privacy Policy | Vodafone Ireland
 
 * Acquisition
 * Use and Disclosure of Information
@@ -47,7 +47,7 @@ The content of WAP sites and SMS services (in particular premium rate services) 
 
  **10.** If Data has been obtained for a purpose without advising you of other compatible secondary purposes for which it is subsequently to be used, the Data will not be so used without advising you.
 
- **11.** Where you have agreed to be in included in our directory enquiry list your information will automatically be included in the National Directory Database (NDD) currently hosted by eircom (as nominated by the Commission for Communications Regulation (ComReg)). We will automatically list you as preferring not to receive direct telemarketing from third parties. You may wish to contact us if you would like to amend this preference.
+ **11.** Where you have agreed to be in included in our directory enquiry list your information will automatically be included in the National Directory Database (NDD) currently hosted by Eircom (as nominated by the Commission for Communications Regulation (ComReg)). We will automatically list you as preferring not to receive direct telemarketing from third parties. You may wish to contact us if you would like to amend this preference.
 
 ## Retention
 
