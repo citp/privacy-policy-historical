@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the airtasker.com privacy policy that was archived on 2014-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140704041138id_/https%3A//www.airtasker.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the airtasker.com privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612005227id_/https%3A//www.airtasker.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Airtasker.com
 
@@ -72,7 +72,9 @@ Airtasker does not control, and does not accept any responsibility or liability 
 
 If Airtasker is involved in a merger, acquisition or asset sale, We will give affected users of the Site notice before their personal information is transferred to another entity or becomes subject to a different privacy policy.
 
-Third-party vendors, including Google, may show Airtasker ads on sites across the Internet. 
+Third-party vendors, including Google, may show Airtasker ads on sites across the Internet.
+
+The Airtasker website and Mobile Apps make use of the Google Maps API to assist with location based information. More information about the Google Maps API and the related privacy policy can be found here <http://www.google.com/privacy.html>
 
 ### 5\. Marketing
 
