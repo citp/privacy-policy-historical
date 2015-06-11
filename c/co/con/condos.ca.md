@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the condos.ca privacy policy that was archived on 2014-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141219073622id_/http%3A//condos.ca/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the condos.ca privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611190343id_/http%3A//condos.ca/info/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Condos.ca
 
