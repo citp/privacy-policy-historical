@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the craftsburst.com privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227120034id_/http%3A//www.craftsburst.com/index.php/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the craftsburst.com privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611191009id_/http%3A//www.craftsburst.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | CraftsBurst
 
