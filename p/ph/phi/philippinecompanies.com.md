@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the philippinecompanies.com privacy policy that was archived on 2014-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141125081951id_/http%3A//www.philippinecompanies.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the philippinecompanies.com privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611184521id_/http%3A//www.philippinecompanies.com/privacy.php) for the most accurate reproduction.*
 
 # Philippine Business Directory - Advertise With Us
 
