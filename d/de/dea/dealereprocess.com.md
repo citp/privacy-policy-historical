@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dealereprocess.com privacy policy that was archived on 2014-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141112085858id_/http%3A//www.dealereprocess.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dealereprocess.com privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611135753id_/http%3A//www.dealereprocess.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy - Dealer E Process
 
@@ -20,7 +20,7 @@ While we have not done so at this time, in the future we may contract with other
 
 Dealer e-Process’ privacy practices are designed to provide a high level of protection for your personal information and our computer systems.
 
-### **Interest-Based/Online Behavioral Advertising:**
+### Interest-Based/Online Behavioral Advertising:
 
 Interest-Based/Online Behavioral Advertising. On some pages of our site we may allow third-party advertising partners to set web tracking tools (e.g., cookies and web beacons) to collect anonymous, non-personally identifiable information regarding your activities on those pages (e.g., your IP address, page(s) visited, time of day). We may also share such information we have collected with third-party advertising partners. These advertising partners may use this information (and similar information collected from other websites) for purposes of delivering future targeted advertisements to you when you visit other sites within their networks. This practice is commonly referred to as “interest-based advertising” or “online behavioral advertising.”
 
