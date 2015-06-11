@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the edugeeks.in privacy policy that was archived on 2014-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141108041456id_/http%3A//edugeeks.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edugeeks.in privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611054407id_/http%3A//edugeeks.in/privacy-policy) for the most accurate reproduction.*
 
-# edugeeks.in: SBI Associate PO Review GA GK Questions | SSC CHSL Review Answer Key | General Awareness | IBPS CLERK Study MATERIALS | Banking Awareness | Computer Knowledge | Current Affairs |Results | Answer Key | Reviews| Admit Cards | Computer Awareness | IBPS CLERK Study Materials | Hall Ticket
+# Privacy Policy
 
 [](http://edugeeks.in/wp-content/uploads/2014/04/current-affairs-pk-privacy-policy.png)Edugeeks is website created as a resource to help people know about latest recruitment, exams and results, answer key, admit cad etc. The site primarily focused on Government jobs, bank jobs, railway jobs, defence jobs, private jobs, exam results, exam admit card, answer keys, interview, previous question papers, exam syllabus, admissions, entrance exams and more. It intends to be a great platform for job seekers without getting involved in legal suits. So, here is the disclaimer policy for www.edugeeks.in
 
