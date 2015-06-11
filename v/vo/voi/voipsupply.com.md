@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the voipsupply.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121070646id_/http%3A//www.voipsupply.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the voipsupply.com privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611103110id_/http%3A//www.voipsupply.com/privacy) for the most accurate reproduction.*
 
 # Privacy — VoIP Supply
 
@@ -36,4 +36,4 @@ The data we collect is for our purposes only. It will not be sold to any third p
 
 **All sensitive data is encrypted using a Geotrust SSL certificate.**
 
-Should you have any comments or concerns with regards to your privacy when using our websites, please [contact us](mailto:sales@voipsupply.com) and we will gladly explain in further details anything you may wish to know about the use of your personal information on our sites.
+Should you have any comments or concerns with regards to your privacy when using our websites, please [contact us](mailto:wecare@voipsupply.com) and we will gladly explain in further details anything you may wish to know about the use of your personal information on our sites.
