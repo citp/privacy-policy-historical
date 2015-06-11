@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dazeinfo.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220090448id_/http%3A//www.dazeinfo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dazeinfo.com privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611102218id_/http%3A//dazeinfo.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy l Dazeinfo
+# Privacy Policy - Dazeinfo
 
 Dazeinfo.com is a Technology analysis blog which showcases amazing insights of IT Industry. Dazeinfo is committed to safeguard privacy of its users while online at Dazeinfo.com. We have right to collect information (whenever necessary) from our users like name, email address, etc. And we abide by the terms and conditions and we never share/sell any of your information to any third party authority by any means. Like most web services we keep track of visitor logs which involves information like IP address, Browser Info, Operating System Info, [Internet](http://dazeinfo.com/tag/internet/ "Internet") Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze [trends](http://dazeinfo.com/tag/trends/ "trends"), administer the site, track user’s movement around the site, and gather demographic information. and other such information are not linked to any information that is personally identifiable. This log may be used to improve service offered by us and to find copyright violators. These logs will not be made public unless required by law.
 
@@ -78,7 +78,7 @@ If we decide to change our privacy policy, we will post those changes on this pa
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-http://www.dazeinfo.com/connect/
+http://dazeinfo.com/connect/
 
 No 95/5, 12th Cross, 8th Main  
 Wilson Garden  
