@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the interpunk.com privacy policy that was archived on 2014-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141224040437id_/http%3A//www.interpunk.com/privacypolicy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the interpunk.com privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611204033id_/http%3A//interpunk.com/privacypolicy.cfm) for the most accurate reproduction.*
 
 # Privacy Policy @ Interpunk.com - The Ultimate Punk Music Store
 
