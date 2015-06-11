@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the affiliates.de privacy policy that was archived on 2014-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140921075241id_/http%3A//www.crobo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the affiliates.de privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611092511id_/http%3A//www.crobo.com/privacy-policy) for the most accurate reproduction.*
 
 # 
 
