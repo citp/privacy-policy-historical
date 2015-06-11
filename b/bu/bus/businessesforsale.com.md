@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the businessesforsale.com privacy policy that was archived on 2014-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141225021453id_/http%3A//www.businessesforsale.com/info/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the businessesforsale.com privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612003539id_/http%3A//www.businessesforsale.com/info/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Dynamis' Privacy Policy
 
@@ -8,7 +8,7 @@ We are committed to protecting your privacy. We have established this statement 
 
 This Privacy Policy relates to the use of any personal information you provide to us through Dynamis websites and its partner websites (“our websites”) (where this policy appears in relation to the collection of information). Dynamis websites include, but are not limited to, BusinessesForSale.com (“the site”) FranchiseSales.com, PropertySales.com and FranchiseAVendre.fr.
 
-**“Dynamis” includes Dynamis Ltd and Dynamis APAC Pty Ltd.** For more information about these companies please see our [Terms and Conditions](http://www.businessesforsale.com/cobrands/global/info/privacypolicy.aspx).
+**“Dynamis” includes Dynamis Ltd and Dynamis APAC Pty Ltd.** For more information about these companies please see our [Terms and Conditions](http://www.businessesforsale.com/cobrands/global/info/termsConditions.aspx).
 
 By accepting the Privacy Policy and the Terms and Conditions during registration or the sending of an enquiry, you expressly consent to our collection, storage, use and disclosure of your personal information as described in this Privacy Policy.
 
