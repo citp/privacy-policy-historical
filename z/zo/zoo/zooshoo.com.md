@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the zooshoo.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220023101id_/http%3A//zooshoo.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zooshoo.com privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611054425id_/http%3A//zooshoo.com/pages/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | ZOOSHOO
 
 ZooShoo.com understands and respects how your personal information is used and shared. Your privacy and security of your personal information is very important to us.
 
@@ -17,7 +17,7 @@ We collect your name, billing & shipping address, phone number, credit card info
 
 ##### IS IT SAFE TO SHOP ON ZOOSHOO.COM?
 
-This site, ZooShoo.com, incorporates physical, electronic, and administrative procedures to safeguard the confidentiality of your personal information. Ordering from ZooShoo.com is safe and secure as we use SSL (Secure Socket Layer) encryption from the moment you enter our site, you are on a secure server. Your credit card and personal information is encrypted when transmitted to us in a secure environment. The encryption keeps your personal information, including credit card information, protected from theft. ZooShoo.com is actively monitored 24/7 to make sure that we are always open, safe, and available for your shopping experience. 
+This site, ZooShoo.com, incorporates physical, electronic, and administrative procedures to safeguard the confidentiality of your personal information. Ordering from ZooShoo.com is safe and secure as we use SSL (Secure Socket Layer) encryption from the moment you proceed to checkout, you are on a secure server. Your credit card and personal information is encrypted when transmitted to us in a secure environment. The encryption keeps your personal information, including credit card information, protected from theft. ZooShoo.com is actively monitored 24/7 to make sure that we are always open, safe, and available for your shopping experience. 
 
 ##### WHAT ARE COOKIES AND HOW DOES ZOOSHOO.COM USE THEM?
 
