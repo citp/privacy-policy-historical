@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eqads.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231181536id_/http%3A//www.eqworks.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eqads.com privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611052143id_/http%3A//www.eqworks.com/privacy-policy) for the most accurate reproduction.*
 
 # Online Privacy Policy | EQ Works
 
@@ -58,3 +58,5 @@ Toronto, On
 M5R 2A9  
 Tel: 416-260-4493  
 Fax: 416-597-2345
+
+Scroll to top
