@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the adsriver.com privacy policy that was archived on 2014-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141029074631id_/http%3A//www.adsriver.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adsriver.com privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611043805id_/http%3A//www.adsriver.com/privacy.php) for the most accurate reproduction.*
 
-# USA, free classifieds - Adsriver Classifieds
+# India, free classifieds - Adsriver Classifieds
 
 ## Privacy Policy
 
