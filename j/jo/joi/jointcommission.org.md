@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the jointcommission.org privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217125353id_/http%3A//www.jointcommission.org/copyright_and_disclaimer.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jointcommission.org privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612011553id_/http%3A//www.jointcommission.org/copyright_and_disclaimer.aspx) for the most accurate reproduction.*
 
 # Copyright, Disclaimer and Privacy Policy | Joint Commission
 
 ##   
 Copyright
 
-Copyright © 2014 Joint Commission, One Renaissance Boulevard, Oakbrook Terrace, IL 60181
+Copyright © 2015 Joint Commission, One Renaissance Boulevard, Oakbrook Terrace, IL 60181
 
 All materials posted on this site are subject to copyrights owned by the Joint Commission ("the Joint Commission"). The Joint Commission hereby provides limited permission for the user of this site to reproduce, retransmit, or reprint for such user's own personal use (and for such personal use only) part or all of any document on this site as long as the copyright notice and permission notice contained in such document or portion thereof is included in such reproduction, retransmission, or reprinting. All other reproduction, retransmission, or reprinting of all or part of any document found on this site is expressly prohibited, unless the Joint Commission has expressly granted its prior written consent to so reproduce, retransmit, or reprint the material. All other rights reserved. See Permissions/Reprints Policy.
 
@@ -96,5 +96,5 @@ This site has security policies and technology in place to protect the loss, mis
 
 You should be aware that other internet sites that link to The Joint Commission site or to an e-mail may contain privacy provisions which differ from the provisions of this Website Privacy Policy.  To ensure your privacy is protected, we recommend that you review the privacy policies of any internet site you visit. 
 
-Last Update January 1, 2014.  
+Last Update January 1, 2015.  
  
