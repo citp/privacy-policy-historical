@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wallstreetmojo.com privacy policy that was archived on 2014-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141228145300id_/http%3A//www.wallstreetmojo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wallstreetmojo.com privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611120548id_/http%3A//www.wallstreetmojo.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Wall Street Mojo
+# Privacy Policy - Free Investment Banking Tutorials |WallStreetMojo
 
 The following Privacy Policy governs the online information collection practices of WallstreetMojo.com ”we” or “us”). Specifically, it outlines the types of information that we gather about you while you are using the WallstreetMojo.com website (the “Site”), and the ways in which we use this information. This Privacy Policy, including our children’s privacy statement, does not apply to any information you may provide to us or that we may collect offline and/or through other means (for example, at a live event, via telephone, or through the mail).
 
