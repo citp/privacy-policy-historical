@@ -1,100 +1,84 @@
-> *The following text is extracted and transformed from the wallpapershome.com privacy policy that was archived on 2012-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120314200414id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wallpapershome.com privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611183837id_/http%3A//www.wallpapershome.com/privacy-policy) for the most accurate reproduction.*
 
-# Legal Agreement
+# Privacy Policy
 
-**Go Daddy Respects Your Privacy**
+WallpapersHome.com respects the privacy of the visitors to this web site and any co-branded, mirrored, or successor sites (the "Website") and are committed to protecting their privacy. WallpapersHome.com has established this Privacy Policy Statement to inform you of our policies and practices regarding how we collect personal identifiable information from you, how we use and disclose it, and your rights with respect to such information. By using this Website, you acknowledge and agree to the terms and conditions of this WallpapersHome.com Privacy Policy Statement ("Privacy Policy"). If you do not agree to these terms and conditions, please do not use this Website.
 
-**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
+We reserve the right to change or modify our privacy practices that are described herein from time to time simply by posting a revised Privacy Policy on this Website. Any such change shall be effective immediately upon posting of the revised Privacy Policy on this Website. We reserve the right to make the revised or changed Privacy Policy effective for information we already have about you, as well as any information we receive in the future. We encourage you to refer to this Privacy Policy on an ongoing basis so that you understand our current privacy practices.
 
-**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
+Like many websites, we gather information about how visitors use this Website. In general, you can visit many of the web pages on this Website without telling us who you are or revealing any personal information about yourself. We, however, may track your Internet Protocol (IP) address and other anonymous information from your web browser for trends and statistics (including, but not limited to, browser version, pages requested and pages visited), but you will remain anonymous unless you provide us with personal information during your visit to this Website or during an earlier or subsequent visit and we are able to link your IP address between your current visit and one of these other visits.  
+We also work with service providers who use tracking technologies to serve ads across the Internet or track email communication response rates on our behalf. These companies may collect personal informationabout your visits to this Website and your interaction with our communications, including advertising.
 
-**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
+In addition to anonymous information, we also collect personal information from you at this Website when you voluntarily submit it to us. We request personal information from you (which may include your name, address, telephone number, email address) when you:  
+1\. Complete a registration, survey, application or other form;  
+2\. Purchase a product or service from us or from one of our vendors, suppliers or other agents;  
+3\. Sign-up to receive email newsletters or other correspondence;  
+4\. Participate in a promotion, contest, sweepstakes or similar promotional activity;  
+5\. Submit materials to our Website;  
+6\. Request e-mail, fax, mail, or telephone support or services.
 
-**Information Collection and Use**
+We also collect information about your activities on and through this Website from our third party business partners, suppliers, vendors and other agents.  
+You may choose not to provide us with any personal information. In such event, you can still access and use many portions of this Website; however, you will not be able to access and use those portions of this Website or the services available on or through this Website that require your personal information.
 
-Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
+Using Information  
+We may use the information we collect to:  
+1\. Customize and/or personalize your communications, surfing, viewing and/or shopping experience;  
+2\. Better respond to your customer service inquiries;  
+3\. Communicate with you about your purchase, account information, or customer service needs;  
+4\. Communicate with you about our products and events, and for other promotional purposes;  
+5\. Improve our business;  
+6\. Administer contests, promotions, surveys or other website features;  
+7\. Provide technical support to you;  
+8\. Perform any other lawful acts except for those acts expressly prohibited by the terms and conditions set forth herein.
 
-We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
+Sharing Information  
+Except as expressly set forth herein, we do not loan, give away, sell, distribute or rent your personal information to any third party.  
+We will disclose your personal information to third parties if you have previously consented to such disclosures and in special circumstances, including, but not limited to, the sale of WallpapersHome.com; the due diligence in connection with a potential sale of WallpapersHome.com; any bankruptcy, insolvency or liquidation of WallpapersHome.com, or in other similar circumstances.  
+For the purpose of operating our business and providing you with certain services and products and to process your purchases, shipments and payments, we may disclose your personal information to one or more of our business partners, distributors, suppliers, affiliates, service providers or other third parties who are assisting WallpapersHome.com in performing such services. Without limiting the foregoing, these third parties may provide WallpapersHome.com with credit card processing, shipping, data management, email distribution, live text chat, email response, market research, information analysis, and promotions management services. We provide such parties with the personal information they need to perform their respective services and we use commercially reasonable efforts to require them to safeguard your personal information and limit their use of it.  
+We also may provide your personal information to other WallpapersHome.com affiliated companies (including, but not limited to, affiliates, subsidiaries and our parent companies) who may use your personal information for any legal purposes whatsoever.  
+We also may disclose personal information about you upon request by the government; in response to a court order; when required by law or when we believe in good faith is required by law; to enforce our Privacy Policy, terms and conditions or other agreements on this Website; upon your request; or to contact, identify or bring legal action against someone who may be causing injury to or interference with our or others' rights or property. We may also share information with companies assisting in fraud protection or investigation. We do not provide information to these agencies or companies for marketing purposes.  
+We may also provide aggregated, non-personally identifiable information to third parties for any legal purposes whatsoever.
 
-We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
+Protecting Your Information  
+We use commercially reasonable efforts to safeguard and secure your personal information while stored on our computer systems. We use a variety of industry standard security measures, including encryption and authentication tools, to maintain the confidentiality of your personal information. Your personal information is stored behind industry standard firewalls and is only accessible by a limited number of persons who are authorized to access such systems, and are required to keep the information confidential. Regardless of these efforts by us, no system connected to the internet can be guaranteed to be 100% secure.  
+We use commercially reasonable efforts to safeguard and secure the transmission of your personal information from your computer to our computers. When you place orders or access your personal information, we offer the use of a secure server. To the extent you select the secure server method and your browser supports such functionality, all credit card information you supply is transmitted via Secure Socket Layer (SSL) technology. Regardless of these efforts by us, no data transmission over the public Internet can be guaranteed to be 100% secure.  
+To help protect your computer and personal information, make sure you have current anti-virus and firewall software installed on your computer and update such software on a regular basis. Also, please review your credit card statement carefully and verify that all transactions are authorized and report any discrepancies immediately to your credit card company.
 
-We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
+Cookies  
+This Website uses cookies. A cookie is a small, removable data file that is stored by your web browser on your computer. Cookies allow you to place an order on this Website and allow us to enhance, facilitate and personalize your online surfing and shopping experience. For example, we use cookies to:  
+1\. Recognize you when you return to this Website;  
+2\. Remember your stored preferences on this Website;  
+3\. Present relevant content to you when you visit this Website;  
+4\. Analyze visitor behavior; and  
+5\. Facilitate other similar type of activities.
 
-We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
+You can choose to have your computer warn you each time a cookie is being sent or you can choose to turn off all cookies. You do this through your web browser settings.  
+If you turn cookies off, you won't have access to many features that make your visit to this Website more efficient and enjoyable, and in some cases, some of our services will not function or will function with limited capability.
 
-Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
+Children's Online Privacy  
+We do not knowingly collect personal information from children under the age of 18. This Website is not intended to solicit information of any kind from children under the age of 18 and we have made commercially reasonable efforts to design this Website to prevent our knowing acceptance of any such information.  
+It is possible that by fraud, deception or error, we may receive information pertaining to children under the age of 18. If we are notified of this, as soon as we verify the information, we will immediately obtain parental consent or otherwise delete the information from our servers. If you want to notify us of our receipt of personal information belonging to a child under the age of 18, please do so with our contact form.
 
-This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
+Email Marketing Practices  
+When you submit any personal information, you understand and agree that WallpapersHome.com, its partners, and affiliates may access, store, and use your customer profile in any of the countries in which WallpapersHome.com and its affiliates provide services, including without limitation the United States. We collect this information for a variety of reasons, including WallpapersHome.com's effort to inform you of new products, special offers, and other products and services from WallpapersHome.com. WallpapersHome.com recognizes and appreciates the importance of responsible use of the information you choose to provide. WallpapersHome.com may selectively provide certain information to other companies or organizations whose products or services we think may interest you.  
+WallpapersHome.com and its partners may often sponsor contests that you can enter. Your participation in these contests is entirely optional. WallpapersHome.com may also conduct surveys online, via e-mail, or by telephone. Your participation in these surveys is entirely optional. Survey participants are anonymous unless otherwise stated in the survey.
 
-**Security**
+Chat Rooms and Forums  
+This Website may now or in the future include web logs (i.e., blogs), chat rooms, post-it boards, forums, message boards, and/or news groups. Any information that is disclosed in these areas becomes public information. You should exercise caution before disclosing your personal information via these public venues, which you do at your own risk. If you do so, you may receive, among other things, unsolicited emails or "spam" from others. WallpapersHome.com cannot safeguard the privacy of personal information that is disclosed online in this manner.
 
-This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
+Other Websites  
+When browsing this Website, you may be directed to other websites that are beyond our control. These other websites may use cookies and pixel tags, collect data, or solicit personal information. Even though WallpapersHome.com may be affiliated with these websites, we have no control over them or how they collect, distribute or otherwise use your personal information or how they safeguard and secure your personal information. WallpapersHome.com is not responsible or liable for the conduct, policies or actions of the owners of such websites or the content displayed on these websites. These websites are linked to this Website only for your convenience and you access them at your own risk.
 
-**Updating Your Information**
+Unsubscribing, Removing or Modifying Your Information  
+We want to communicate with you only if you want to hear from us.  
+To modify or delete any or all of the personal information you have provided to us, please login and update your profile.  
+You may unsubscribe from receiving emails, and other correspondence from us including, but not limited to, faxes and U.S. postal service mail, at any time by using the unsubscribe link, or by contacting us using the information, included at the bottom of each email communication.  
+In some limited circumstances, such as to resolve disputes, troubleshoot problems and enforce our Terms of Use Agreement, we may retain in our files information you have requested to remove. Further, your personal information is never completely removed from our databases due to technical constraints and the fact that we back up our systems. Therefore, you should not expect that all of your personal information will be completely removed from our databases in response to your requests.  
+We reserve the right to send you certain communications related to this Website that are considered part of your account, such as technical alerts, without offering you the opportunity to opt out of receiving them.
 
-You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
+Terms and Conditions of Use  
+WallpapersHome.com has a Terms and Conditions of Use Agreement that sets forth the terms and conditions under which we provide products, services and information to you from this Website, and your use of, and access to, this Website. It is your responsibility to read, understand and comply with the terms and conditions set forth therein. That agreement can be found atWallpapersHome.com/terms-and-conditions.
 
-        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
-
-       ii.      You may send mail to Go Daddy at the following postal address:   
-               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
-
-      iii.      You may call us at: (480) 505-8800
-
-       iv.      You may fax us at: (480) 505-8844
-
-**Sending Emails**
-
-We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
-
-The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
-
-**Compliance with Laws and Law Enforcement**
-
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
-
-**Third Party Service Providers**
-
-We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
-
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
-
-**Supplementation of Information**
-
-In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
-
-**Contests/Surveys**
-
-From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
-
-We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
-
-**Tell-A-Friend**
-
-If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
-
-**What Happens to my Personal Information if I Opt Out?**
-
-If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information as necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
-
-**Transfer of Data Abroad**
-
-If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
-
-**Changes in Our Practices**
-
-We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
-
-If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
-
-**Contacting Our Site**
-
-If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
-
-* * *
-
-Go Daddy   
-ATTN: Web Team   
-14455 North Hayden Rd.   
-Suite 219   
-Scottsdale, AZ, 85260, U.S.A.
+Questions and Feedback  
+We welcome your questions, comments, and concerns about this Privacy Policy and our privacy practices. Please send us feedback pertaining to these matters or any other issue you may have with WallpapersHome.com or this Website.  
+You may contact us using the contact form located at <http://wallpapershome.com/contact-us/>
