@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the news.me privacy policy that was archived on 2014-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141030084820id_/http%3A//www.news.me/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the news.me privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611190744id_/http%3A//www.news.me/privacy) for the most accurate reproduction.*
 
 # News.me - Privacy Policy
 
