@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the raisingcanes.com privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217083728id_/http%3A//www.raisingcanes.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the raisingcanes.com privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611092955id_/http%3A//www.raisingcanes.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | Raising Cane's | Chicken Fingers | Cane's Sauce
 
-Raising Cane’s USA, LLC (hereinafter referred to as either, “The Company”, “We”, “Us” or “Our”) is committed to protecting the privacy of personal information you may provide Us on this website (the “Site”). We believe it is important for you to know how We treat your personal information. We updated this Privacy Policy effective as of 11/17/2008. The terms of this Privacy Policy apply to all users of this Site. If you do not agree with the terms of this Privacy Policy, you should immediately cease the use of this Site. Below you will find answers to several questions regarding Our revised Privacy Policy.
+Raising Cane’s USA, LLC (hereinafter referred to as either, “The Company”, “We”, “Us” or “Our”) is committed to protecting the privacy of personal information you may provide Us on this website (the “Site”). We believe it is important for you to know how We treat your personal information. We updated this Privacy Policy effective as of 3/17/2015. The terms of this Privacy Policy apply to all users of this Site. If you do not agree with the terms of this Privacy Policy, you should immediately cease the use of this Site. Below you will find answers to several questions regarding Our revised Privacy Policy.
 
   * What information does the Company collect about me on this Site?
   * What does the Company do with the information collected?
@@ -14,6 +14,7 @@ Raising Cane’s USA, LLC (hereinafter referred to as either, “The Company”,
   * What is the effective date of the Company Privacy Policy and how will the Company notify me of changes to its Privacy Policy?
   * How does the Company handle children’s privacy online?
   * How do I contact the Company?
+  * What is your Mobile Privacy Policy?
 
 
 
@@ -96,6 +97,93 @@ BACK TO TOP
 #### 10\. How do I contact the Company?
 
 If you have any further questions concerning the Company’s Privacy Policy and the use of your Personal Information, please contact [info@raisingcanes.com](mailto:info@raisingcanes.com).
+
+BACK TO TOP
+
+#### 11\. What is your Mobile Privacy Policy?
+
+Raising Cane's Restaurants, LLC ("Raising Cane's" or "We") respects your privacy and is committed to protecting it through our compliance with this policy. This policy describes:
+
+  * The types of information we may collect or that you may provide when you text to enter a Contest (a "Text-to-Win Contest" or a "Contest"); and
+  * Our practices for collecting, using, maintaining, protecting and disclosing that information.
+
+
+
+This policy applies only to information we collect in a Text-to-Win Contest. This policy DOES NOT apply to information that:
+
+  * We may collect offline or on any Raising Cane’s websites.
+  * You provide to or is collected by any third party.
+
+
+
+Our website has its own privacy policies, which we encourage you to read before providing information on or through it.
+
+Please read this policy carefully to understand our policies and practices regarding your information and how we will treat it. If you do not agree with our policies and practices, do not text us to enter a Contest. By texting us, you agree to this privacy policy. This policy may change from time to time. Your continued use of texting to enter a Contest after we make changes is deemed to be acceptance of those changes, so please check the policy periodically for updates.
+
+_Children under the Age of 13_
+
+Entering a Contest via text message is not intended for children under 13 years of age, and we do not knowingly collect personal information from children under 13. If we learn we have collected or received personal information from a child under 13 without verification of parental consent, we will delete that information. If you believe we might have any information from or about a child under 13, please contact us at [info@raisingcanes.com](mailto:info@raisingcanes.com).
+
+_Information We Collect and How We Collect It_
+
+We collect information directly from you when you provide it to us via text message.
+
+_Information You Provide to Us._
+
+If you text us to enter a Contest, or are chosen as a potential winner of a Contest that you texted to enter, we may ask you to provide the following information:
+
+  * **Personal Information.** Information by which you may be personally identified, such as name, date of birth, postal address, e-mail address, and/or telephone number
+
+
+
+If you do not want us to collect this information, do not text to enter a Contest or, if you have already texted us, you may opt out at any time by texting STOP to the number you texted to enter.
+
+_How We Use Your Information_
+
+We use information that we collect about you or that you provide to us, including any personal information, to:
+
+  * Contact you regarding the Contest.
+  * Fulfill any other purpose for which you explicitly provide it.
+  * Carry out our obligations and enforce our rights arising from any contracts entered into between you and us.
+
+
+
+_Disclosure of Your Information_
+
+We may disclose aggregated information about our users, and information that does not identify any individual, without restriction.
+
+In addition, we may disclose personal information that we collect or you provide:
+
+  * To our subsidiaries and affiliates.
+  * To contractors, service providers and other third parties we use to support our business.
+  * To a buyer or other successor in the event of a merger, divestiture, restructuring, reorganization, dissolution or other sale or transfer of some or all of our assets, whether as a going concern or as part of bankruptcy, liquidation or similar proceeding, in which personal information held by us about consumers who text to win a Contest is among the assets transferred.
+  * To fulfill the purpose for which you provide it.
+  * For any other purpose disclosed by us when you provide the information.
+  * With your consent.
+  * To comply with any court order, law or legal process, including to respond to any government or regulatory request.
+  * If we believe disclosure is necessary or appropriate to protect the rights, property, or safety of Raising Cane's, our Customers or others. [This includes exchanging information with other companies and organizations for the purposes of fraud protection and credit risk reduction.]
+
+
+
+_Your California Privacy Rights_
+
+California Civil Code Section 1798.83 permits consumers who are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an e-mail to [info@raisingcanes.com](mailto:info@raisingcanes.com) or write us at: 6800 Bishop Rd., Plano, TX 75024.
+
+_Data Security_
+
+We have implemented measures designed to secure your personal information from accidental loss and from unauthorized access, use, alteration and disclosure.
+
+Unfortunately, the transmission of information via mobile platforms is not completely secure. Although we do our best to protect your personal information, we cannot guarantee the security of your personal information transmitted via texting. Any transmission of personal information is at your own risk.
+
+_Changes to Our Privacy Policy_
+
+We may update our privacy policy from time to time. If we make material changes to how we treat our users' personal information, we will post the new privacy policy on this page with a notice that the privacy policy has been updated. The date the privacy policy was last revised is identified at the top of the page.
+
+_Contact Information_
+
+To ask questions or comment about this privacy policy and our privacy practices, contact us at: [info@raisingcanes.com](mailto:info@raisingcanes.com)
+
+BACK TO TOP
 
 NOTICE REGARDING FRANCHISE OFFERS OR SALES
 
