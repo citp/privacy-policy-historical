@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the virtualworldsland.com privacy policy that was archived on 2014-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141126101420id_/http%3A//www.virtualworldsland.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the virtualworldsland.com privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611103042id_/http%3A//www.virtualworldsland.com/privacy) for the most accurate reproduction.*
 
 # Virtual Worlds Land! - Privacy Policy
 
