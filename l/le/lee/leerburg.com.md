@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the leerburg.com privacy policy that was archived on 2014-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141219045029id_/http%3A//leerburg.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leerburg.com privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611142503id_/http%3A//leerburg.com/privacy.htm) for the most accurate reproduction.*
 
 # Leerburg | Information about our Organization and Website
 
 [_Leerburg_](http://leerburg.com/)
 
-» **Information about our Organization and Website**
+� **Information about our Organization and Website**
 
 Information about our Organization and Website
 
