@@ -1,79 +1,135 @@
-> *The following text is extracted and transformed from the diningguide.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625093415id_/http%3A//metroguide-inc.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the diningguide.com privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611150229id_/http%3A//diningguide.com/privacy.html) for the most accurate reproduction.*
 
-# MetroGuide Privacy Policy
+# diningguide.com | Privacy Policy
 
-What's New at MetroGuide
+**What information do we collect?**
 
-| 
+We collect information from you when you register on our site or subscribe to our newsletter. 
 
-[MetroGuide](http://metroguide-inc.com/) > [About](http://metroguide-inc.com/about.html) > Privacy Policy 
+When ordering or registering on our site, as appropriate, you may be asked to enter your: name or e-mail address. You may, however, visit our site anonymously.
 
-MetroGuide.com, Inc. ("MetroGuide") is committed to protecting the privacy of consumers of its interactive products and services. The purpose of this privacy policy is to inform you of the type of information we may gather about you, and how we may use or disclose that information. Please note that this policy applies only to MetroGuide, which includes the guide services listed above, and not to other companies' or organizations' Web sites to which we link or which may link to us. 
+Google, as a third party vendor, uses cookies to serve ads on your site. Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy..
 
-## Information about Visitors in General
+ **DoubleClick DART Cookie**
 
-In general, our service automatically gathers information like the numbers of visitors, which we examine and use in the aggregate. This helps us determine how much our customers use parts of the site, so we can continue to improve our site. For example, MetroGuide uses a technology nicknamed "cookies" that tells us how and when pages in our site are visited, and by how many people. We do not use cookies to collect personally identifiable information and we do not combine information collected through cookies with other personally identifiable information to enable us to identify you. Aside from information you may voluntarily provide to our partners and affiliates, we never provide information about you personally to third parties, though we may provide aggregate statistical information to our partners and affiliates so that they may improve the quality of their sites. If you are a member of the MetroGuide .Community or considering becoming a member, please also read the information contained in the �Use of Cookies� section below. 
+.:: Google, as a third party vendor, uses cookies to serve ads on diningguide.com.  
+.:: Google's use of the DART cookie enables it to serve ads to your users based on their visit to diningguide.com and other sites on the Internet.   
+.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - http://google.com/privacy_ads.html 
 
-## Information about You as a Visitor to MetroGuide
+Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include .......   
+Google Adsense   
+Commission Junction   
+Widget Bucks   
+Adbrite   
+Clickbank   
+Epic / Azoogle   
+Chitika   
+Linkshare   
+Amazon   
+Kontera   
+Advertising.com   
+CPAStorm   
+Burst   
+Valueclick   
+InfoLinks   
+Vibrant Media   
+24/7 Real Media   
+Tribal Fusion   
+Casale   
+Tremor Media   
+Adify   
 
-Occasionally, either we or a partner or affiliate will specifically ask for information about you when you sign up to use a service or when you order a product. We will need certain information -- such as name, Internet address, billing address, credit card number -- in order to provide that service or product to you. We may also use that information to let you know of additional products and services about which you might be interested. If we ever ask you for information about your interests, you may always decide whether or not to respond, and if ever you wish not to receive information about additional products or services, you may inform us and we will discontinue sending you such information. You may elect to write a review of a hotel, restaurant, business, or other establishment. In doing so, you provide content and information that identifies you as the contributor of the review. This content and identifying that you provide may be made available to others who read this information, either on one of the MetroGuide sites or a third party site that displays the information. 
 
-## Information About You When You Become a Member of the MetroGuide .Community
+These third-party ad servers or ad networks use technology to the advertisements and links that appear on diningguide.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see. 
 
-MetroGuide offers an online service that helps people find local businesses and services by soliciting and aggregating reviews and other information about these establishments. To accomplish this, visitors to the MetroGuide .Network and members of the MetroGuide.Community write reviews about local services that may then appear on the MetroGuide family of websites. These reviews can then be accessed and read by visitors to MetroGuide and members of the MetroGuide.Community. For the purposes of this Privacy Policy, a "user" is defined as someone using the MetroGuide site, regardless of whether they are a member of the MetroGuide .Community or a visitor to the site. A "friend" is defined as someone you have explicitly invited to share reviews with you. We display a limited amount of personal information so that readers are able to evaluate the trustworthiness of the information appearing on the site that has been contributed by a visitor or member. By becoming a member of the MetroGuide .Community, you permit the collection and use of your personal information as outlined below in our Privacy Policy. You should visit this page periodically to review any changes to the Privacy Policy. 
+We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit networkadvertising.org.
 
-## Information We Collect
+diningguide.com has no access to or control over these cookies that are used by third-party advertisers. 
 
-MetroGuide collects user submitted information including name and email address to identify you and send you notifications related to the use of the service. MetroGuide also may collect additional user submitted information pertaining to geographic location including city, state or zip, as well as other demographic information such as gender, age, and marital status. MetroGuide also collects user submitted photos, reviews, ratings, and comments about local businesses and service providers. Some of the information that MetroGuide collects is not explicitly submitted by the user. For example, MetroGuide will log information pertaining to your Internet browser, IP address, requested URL, referring URL, and timestamp, and other information that is digitally passed to our computers when your Internet browser requests a webpage. 
+You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. diningguide.com's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. 
 
-## How We Use Your Information
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here http://www.networkadvertising.org/managing/opt_out.asp
 
-Information such as your name, geographic location, photo and any personally identifiable information you have included in your reviews, or provided when signing up to become a member of the MetroGuide .Community, or at a later time, may be shown to other users in conjunction with reviews and other content you have contributed to the MetroGuide .Community. If a person is a friend they may also be able to see your name or email address in their list of friends. In addition, we may distribute or sell your reviews and the other content you contribute to the MetroGuide .Community to third parties, in which case your name and any other personally identifiable information you have included in your reviews or provided us with authorization to make available to users may be shown to users of such third party web sites. Your full name and email address may also be used when you send an email notification to a friend (such as in an invitation to join the MetroGuide .Community, or when sharing a review). We may also use your email address to send you updates or news regarding our site, but you may choose not to receive email of this type by accessing the "Shared Setting� portion of the �Edit My Profile� tab of the web site and updating your notification settings. Additionally, we use your email address to contact you on behalf of your friends (such as when someone sends you a personal message). Browser-type related information, IP address, requested URL, referring URL, and timestamp data help us diagnose problems with our server, administer MetroGuide, and otherwise provide the highest possible level of service to you. In addition, we use this information to perform statistical analyses of user behavior and characteristics in order to measure interest in and use of the various areas of the site and to inform advertisers of such information as well as the number of users that have been exposed to, or clicked on, their advertising banners. 
+If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites. 
 
-## Transfer of Information
+**What do we use your information for?**
 
-We may distribute or sell your reviews to third parties. Your name, profile photo, any submitted photos of businesses, and any other personally identifiable information you have included in your reviews, or provided when signing up to become a member of the MetroGuide .Community, may be transferred to such third parties and displayed on their websites in connection with such third parties� publications. Except as set forth in this Privacy Policy, we do not sell, rent, share, trade or give away any of your personal information. MetroGuide will disclose information about individual users to governmental or judicial authorities or law enforcement agencies, or to other individuals or entities in response to subpoenas, court orders, or other legal processes. Further, MetroGuide may share information in order to investigate, prevent, or take action regarding illegal activities or suspected fraud, or to enforce or apply the terms and conditions of this Privacy Policy. We reserve the right to transfer your personal information in the event of a transfer of ownership of MetroGuide, such as an acquisition by or merger with another company. In such an event, MetroGuide will notify you before information about you is transferred and becomes subject to a different privacy policy. MetroGuide will notify you when information about you may be provided to third parties in ways other than set forth in its privacy policy and, where possible, you will have the option to prevent such information sharing. 
+Any of the information we collect from you may be used in one of the following ways: 
 
-## Links to Third Party Web Sites
+\- To personalize your experience  
+(your information helps us to better respond to your individual needs)
 
-Our website may contain links to third party web sites to which we have no affiliation. MetroGuide does not share your personal information with those websites and is not responsible for their privacy practices. We suggest you read the privacy polices on these third party websites. 
+\- To improve our website  
+(we continually strive to improve our website offerings based on the information and feedback we receive from you)
 
-## Use of Cookies
+\- To improve customer service  
+(your information helps us to more effectively respond to your customer service requests and support needs)
 
-Like most websites, MetroGuide requires cookies to function properly. Cookies are small text files that reside on a user's computer and identify you as a unique user. We use cookies to refine our site and simplify the user experience. For example, the use of cookies allows registered users to enter our site without explicitly typing in their email address and password every time. We allow advertisers and other third parties to place cookies onto your computer when you visit this website. These cookies are placed to keep track of the web searches you make while visiting this website, as well as your web surfing behavior on this website and other websites you may visit. That information is used to customize ads to you on this and other websites, and/or to keep track of your response to each ad. Our ad servers cannot use this information to identify you personally. To learn more about the practices of third party ad servers in general, or to get opt out cookies from advertising networks that are members of the Network Advertising Initiative (NAI), please [click here](http://www.networkadvertising.org/consumer/opt_out.asp). You should be aware that MetroGuide cannot control the use of cookies by advertisers or any information advertisers may gather from their use of cookies. If you do not want information collected through the use of cookies, and prefer not to get opt-out cookies from ad servers that belong to the NAI, there is a simple procedure in most browsers that allows you to deny or accept the cookie feature. Cookies may be necessary to enable certain features available on the MetroGuide .Community. 
+\- To process transactions
 
-## Controlling Your Personal Information
+> Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
 
-You should be aware that when you voluntarily disclose personally identifiable information (e.g., name, e-mail address, gender) via reviews, messages, forums, postings, or in other areas of the MetroGuide .Community, that information, along with any substantive information disclosed in your communication, can be collected and correlated and used by third parties and may result in unsolicited messages from other posters or third parties. Such activities are beyond the control of MetroGuide. Please do not post any personal information on the MetroGuide .Community or in other areas that you expect to keep private. As a registered member of the MetroGuide .Community, you can modify your personal information at any time by accessing the Shared Setting� portion of the �Edit My Profile� tab of the web site. Also, upon your request, MetroGuide will use commercially reasonable efforts to functionally remove you and your personal information from the site; however, it may be impossible to remove your entry without some residual information being retained by MetroGuide or third party sources to which the information was distributed or sold. MetroGuide .Community members who wish to close their account should contact MetroGuide. 
+\- To administer a contest, promotion, survey or other site feature
 
-## Security
+\- To share with our third party marketing partners so they may send you offers for goods and services which you may find of interest
 
-Your MetroGuide .Community account is password-protected. MetroGuide tries very hard to protect its users' information. We use industry standard measures to protect your information that is stored within our database. We limit the access to your information to those employees who need access to perform their job function such as our customer service personnel. Although we take appropriate measures to safeguard against unauthorized disclosures of information, we cannot assure you that personally identifiable information that we collect will never be disclosed in a manner that is inconsistent with this Privacy Policy. You hereby acknowledge that MetroGuide is not responsible for any intercepted information sent via the Internet, and you hereby release us from any and all claims arising out of or related to the use of intercepted information in any unauthorized manner. 
+\- To send periodic emails
 
-## Emails and Opt-out
+> The email address you provide for order processing, may be used to send you information and updates pertaining to your order, in addition to receiving occasional company news, updates, related product or service information, advertisements etc. The email address you provide to subscribe to a newsletter, receive information or enter to win a prize may be used to send you information and updates, relevant content and advertisements.
 
-At this time, registered members cannot opt-out of personal messages initiated by friends and users, however they may opt-out of receiving notifications initiated by MetroGuide (note: notification settings can be found under the " Shared Setting� portion of the �Edit My Profile� tab of the web site. Unregistered users that do not wish to receive emails may opt-out of receiving any communications by following the instructions contained in all emails. 
+Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
 
-## Children
+ **How do we protect your information?**
 
-This website is not directed to children, and MetroGuide does not knowingly solicit information from any child under the age of 13. Should a child whom we know to be under 13 send personal information to us, we will use that information only to respond directly to that child (or a parent or guardian) to inform him or her that we must have parental consent before receiving his or her personal information. 
+We implement a variety of security measures to maintain the safety of your personal information when you access your personal information. 
 
-## Terms and Modifications to this Privacy Statement
+**Do we use cookies?**
 
-By using the website, you signify your agreement to the terms of our Privacy Policy. If you do not agree with these terms, you should not use the site. MetroGuide may modify this Privacy Policy at any time. If a material change is made to this Privacy Policy and/or the way we use our users� personally identifiable information, then we will post a prominent notice of the nature of such change on the first page of this Privacy Policy and also on our home page. You are responsible for reviewing this Privacy Policy periodically to ensure that you are aware of any changes to it. Your continued use of the site indicates your assent to any changes to this Privacy Policy. 
+Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information
 
-If you have any questions or concerns about this privacy policy, our practices, or your dealings with us, please [click here](http://forms.metromanager.com/asp/ContactMG.asp?s=mg|hp&p=hnv). 
+We use cookies to understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.
 
-You can also send us mail at:  
-MetroGuide.com, Inc.  
-c/o Legal Department  
-12717 West Sunrise Blvd., Suite #264  
-Fort Lauderdale, FL 33323. 
+If you prefer, you can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies via your browser settings. Like most websites, if you turn your cookies off, some of our services may not function properly. However, you can still place orders by contacting customer service.
 
-The effective date of this **Privacy Policy** is January 8, 2007. 
+ **Do we disclose any information to outside parties?**
 
-[MetroGuide](http://metroguide-inc.com/) > [About](http://metroguide-inc.com/about.html) > Privacy Policy 
+Other than described in this privacy policy, we do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, third party marketers, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses. 
 
-« Top of Page
+**Third party links**
 
-| 
+Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+
+ **California Online Privacy Protection Act Compliance**
+
+Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
+
+ **Childrens Online Privacy Protection Act Compliance**
+
+We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
+
+ **Online Privacy Policy Only**
+
+This online privacy policy applies only to information collected through our website and not to information collected offline. 
+
+**Your Consent**
+
+By using our site, you consent to our web site privacy policy. 
+
+**Changes to our Privacy Policy**
+
+If we decide to change our privacy policy, we will post those changes on this page. 
+
+**Contacting Us**
+
+If there are any questions regarding this privacy policy or you wish to unsubscribe from our site and services you may contact us using the information below or by writing to us at:
+
+2885 Sanford Ave  
+SW #19781  
+Grandville, MI 49418  
+USA 
+
+diningguide.com 
+
+Email:  
+contact@diningguide.com  
+
