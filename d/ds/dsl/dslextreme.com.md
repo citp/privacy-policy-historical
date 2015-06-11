@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dslextreme.com privacy policy that was archived on 2014-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141202135533id_/http%3A//www.dslextreme.com/termsconditions%3Fi%3D8) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dslextreme.com privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611035748id_/http%3A//www.dslextreme.com/termsconditions%3Fi%3D8) for the most accurate reproduction.*
 
 # DSL Extreme - Privacy Policy
 
@@ -31,4 +31,4 @@ All customer/visitor information, not just the sensitive information mentioned a
 Customer Service**  
 DSL Extreme  
 21540 Plummer Street - Suite A  
-Chatsworth CA, 91311
+Chatsworth CA, 91311 
