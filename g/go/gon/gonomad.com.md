@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the gonomad.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230072446id_/http%3A//www.gonomad.com/corp/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gonomad.com privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611102023id_/http%3A//www.gonomad.com/corp/privacy.html) for the most accurate reproduction.*
 
 # Our Privacy Statement - GoNOMAD Travel
-
-Tags: GoNOMAD
 
 **GoNOMAD.com Privacy Statement**
 
@@ -64,7 +62,7 @@ Hike by the Mediterranean hi sugar! > sounds like we could do this in a day... *
 
 [Still More Handy Travel Gadgets From GoNOMAD.com](http://www.gonomad.com/2364-still-more-handy-travel-gadgets-from-gonomad-com "travel gadgets: Nicole Sobel writes about six new handy travel gadgets including cases and covers for your iPhone, an easy-to-use lock for bags and purses and an ergonomic computer mouse.")
 
-**GoNOMAD.com** By Nicole Sobel Traveling with gadgets that make traveling easier is always a plus  
+From **GoNOMAD.com** By Nicole Sobel Traveling with gadgets that make traveling easier is always a plus  
   
 |  | 
 
@@ -76,4 +74,4 @@ on **GoNOMAD.com** Gen Y Goes to Africa : 20-30-something trips Many Ways to See
 
 [Zanzibar, Tanzania Destination Guide](http://www.gonomad.com/1304-zanzibar-tanzania-destination-guide "A destination guide to Stone Town Zanzibar, part of the African Guides section of GoNOMAD.com")
 
-of travel to and within Zanzibar. zanzibar.net/webca m Live webcam images of Zanzibar. Read more on articles about Zanzibar, Tanzania on **GoNOMAD.com** Travel: 
+of Zanzibar. Read more on articles about Zanzibar, Tanzania on **GoNOMAD.com** Travel: 
