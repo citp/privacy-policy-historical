@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the anh-usa.org privacy policy that was archived on 2014-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141203072046id_/http%3A//www.anh-usa.org/%3Fpage_id%3D1242) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anh-usa.org privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611024747id_/http%3A//www.anh-usa.org/%3Fpage_id%3D1242) for the most accurate reproduction.*
 
-# Privacy Policy | The Alliance for Natural Health USA
+# Privacy Policy
 
 **Privacy Policy**
 
@@ -25,4 +25,4 @@ The Alliance for Natural Health USA (ANH-USA) is committed to protecting the per
 
 
 
-If you would like more information about what kind of data we collect and how we use it, [please click here to read further](http://www.anh-usa.org/privacy-details/). The above Promises are a binding agreement between ANH-USA and you. In the event there is a discrepancy between the technical details and the our Promises, our Promise to you will be kept. Nothing in the technical details shall be interpreted to invalidate any of our Promises to you.
+If you would like more information about what kind of data we collect and how we use it, [please click here to read further](https://web.archive.org/privacy-details/). The above Promises are a binding agreement between ANH-USA and you. In the event there is a discrepancy between the technical details and the our Promises, our Promise to you will be kept. Nothing in the technical details shall be interpreted to invalidate any of our Promises to you.
