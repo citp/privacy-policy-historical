@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the demandforce.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122015416id_/http%3A//www.demandforce.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the demandforce.com privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612000725id_/http%3A//www.demandforce.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Demandforce
 
@@ -88,7 +88,7 @@ Demandforce will update this policy from time to time. A "last revised" date wil
 
 If you have any questions about this privacy policy or if you feel that Demandforce is not abiding by its posted privacy policy, you can contact us by e-mailing your questions or concerns to [privacy@Demandforce.com](mailto:privacy@Demandforce.com) or mail us at 22 Fourth Street, 12th Floor, San Francisco, CA 94104.
 
-© 2014 Intuit Inc. All rights reserved. _May 18, 2012_
+© 2015 Intuit Inc. All rights reserved. _May 18, 2012_
 
   
 
