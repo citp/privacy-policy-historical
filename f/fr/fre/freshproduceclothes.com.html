@@ -1,12 +1,12 @@
-<!--The following is the downloaded HTML source of the freshproduceclothes.com privacy policy that was archived on 2014-12-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141224021357id_/http%3A//freshproduceclothes.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the freshproduceclothes.com privacy policy that was archived on 2015-06-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150611204122id_/http%3A//freshproduceclothes.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><!--<![endif]--><head>
 
 
 
 <title>Privacy Policy</title>
-<meta http-equiv="X-UA-Compatible" content="IE=8"><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UwQPVF9UGwcGVFNRDwQ="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),u=c.length,f=i(a,o,r),d=0;u>d;d++)c[d].apply(f,n);return f}function a(t,e){u[t]=s(t).concat(e)}function s(t){return u[t]||[]}function c(){return n(e)}var u={};return{on:a,emit:e,create:c,listeners:s,_events:u}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(u){try{r("ierr",[u,(new Date).getTime(),!0])}catch(f){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(4),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(u){"stack"in u&&(t(5),t(3),"addEventListener"in window&&t(1),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(2),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:4,2:7,3:5,4:18,5:6,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],4:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:18,2:19,ee:"QJf3ax",gos:"7eSDFh"}],5:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:19,2:18,ee:"QJf3ax"}],6:[function(t,e){function n(t,e,n){var r=t[0];"string"==typeof r&&(r=new Function(r)),t[0]=o(r,"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:19,2:18,ee:"QJf3ax"}],7:[function(t,e){function n(){c.inPlace(this,d,"fn-")}function r(t,e){c.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}var i=t("ee").create(),a=t(1),s=t(2),c=s(i),u=s(a),f=window.XMLHttpRequest,d=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=i,window.XMLHttpRequest=function(t){var e=new f(t);try{i.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",function(t,e){return e}),e.addEventListener("readystatechange",n,!1)}catch(r){try{i.emit("internal-error",[r])}catch(o){}}return e},window.XMLHttpRequest.prototype=f.prototype,c.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),i.on("send-xhr-start",r),i.on("open-xhr-start",r)},{1:4,2:19,ee:"QJf3ax"}],8:[function(t){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,u="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(u);if(f&&(r.rxSize=f),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(n.cat=d.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r,this.startTime])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,u=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var u=e(o);u&&(r.txSize=u)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",[e])}catch(r){}}};for(var f=0;c>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:9,3:7,4:4,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],9:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&c&&c.body){p.proto="https"===d.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=c.createElement("script");e.src=p.proto+t.agent,c.body.appendChild(e)}}function r(){"complete"===c.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,c=s.document,u="addEventListener",f="attachEvent",d=(""+location).split("?")[0],p=e.exports={offset:i(),origin:d,features:{}};c[u]?(c[u]("DOMContentLoaded",o,!1),s[u]("load",n,!1)):(c[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],18:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],19:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,u;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){f([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return u=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,u],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,u(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,u="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,u?s+o:o,i,s,t))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){f([o,e,n,r])}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){f([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function f(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:18,ee:"QJf3ax"}]},{},["G9z0Bl",3,8]);</script>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-TNJC8S"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UwQPVF9UGwcGVFNRDwQ="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),u=c.length,f=i(a,o,r),d=0;u>d;d++)c[d].apply(f,n);return f}function a(t,e){u[t]=s(t).concat(e)}function s(t){return u[t]||[]}function c(){return n(e)}var u={};return{on:a,emit:e,create:c,listeners:s,_events:u}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:20,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(u){try{r("ierr",[u,(new Date).getTime(),!0])}catch(f){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(3),window.onerror=e;try{throw new Error}catch(u){"stack"in u&&(t(4),t(5),"addEventListener"in window&&t(1),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&t(2),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:8,3:3,4:7,5:6,6:21,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:21,2:22,ee:"QJf3ax",gos:"7eSDFh"}],6:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:22,2:21,ee:"QJf3ax"}],7:[function(t,e){function n(t,e,n){t[0]=o(t[0],"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:22,2:21,ee:"QJf3ax"}],8:[function(t,e){function n(){u.inPlace(this,p,"fn-")}function r(t,e){u.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),u=c(a),f=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),f.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,u.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:5,2:22,ee:"QJf3ax"}],9:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var a=t.responseType,u="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=n(u);if(f&&(r.rxSize=f),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(e.cat=d.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,o("xhr",[e,r,this.startTime])}}}function n(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,u=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=e,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,e){var r=this.metrics,o=t[0],i=this;if(r&&o){var u=n(o);u&&(r.txSize=u)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{a.emit("internal-error",[n])}catch(r){}}};for(var f=0;c>f;f++)e.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:10,3:8,4:5,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],10:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],11:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:20,2:21,handle:"D5DuLP"}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],G9z0Bl:[function(t,e){function n(){var t=l.info=NREUM.info;if(t&&t.licenseKey&&t.applicationID&&u&&u.body){s(h,function(e,n){e in t||(t[e]=n)}),l.proto="https"===p.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=u.createElement("script");e.src=l.proto+t.agent,u.body.appendChild(e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=(t(2),window),u=c.document,f="addEventListener",d="attachEvent",p=(""+location).split("?")[0],h={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-627.min.js"},l=e.exports={offset:i(),origin:p,features:{}};u[f]?(u[f]("DOMContentLoaded",o,!1),c[f]("load",n,!1)):(u[d]("onreadystatechange",r),c[d]("onload",n)),a("mark",["firstbyte",i()])},{1:20,2:11,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],20:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],21:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],22:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,u;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){f([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return u=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,u],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,u(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,u="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,u?s+o:o,i,s))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){f([o,e,n,r])}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){f([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function f(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:21,ee:"QJf3ax"}]},{},["G9z0Bl",4,9]);</script>
 <meta name="viewport" content="initial-scale=1,user-scalable=yes,maximum-scale=3,width=device-width">
 <meta name="keywords" content="Fresh Produce, Clothing, Sportswear">
 <meta name="robots" content="INDEX,FOLLOW">
@@ -64,8 +64,17 @@ function toggleMenu(el, over)
     var cp_base_url = "/";
     var cp_use_pin = true;
 </script>
-<link rel="stylesheet" type="text/css" href="http://freshproduceclothes.com/media/css/79d36edfa38ce1200baa05d6ef567c56.css" media="all">
-<link rel="stylesheet" type="text/css" href="http://freshproduceclothes.com/media/css/5887345cdf8a9e6489baa1ae49df98d8.css" media="print">
+<link rel="stylesheet" type="text/css" href="http://freshproduceclothes.com/skin/frontend/freshproduce/default/css/lookbook/modal_overlay.css" media="all">
+<link rel="stylesheet" type="text/css" href="http://freshproduceclothes.com/skin/frontend/freshproduce/default/css/widgets.css" media="all">
+<link rel="stylesheet" type="text/css" href="http://freshproduceclothes.com/skin/frontend/freshproduce/default/css/34styles.css" media="all">
+<link rel="stylesheet" type="text/css" href="http://freshproduceclothes.com/skin/frontend/freshproduce/default/css/cp14.css" media="all">
+<link rel="stylesheet" type="text/css" href="http://freshproduceclothes.com/skin/frontend/freshproduce/default/css/nick9.css" media="all">
+<link rel="stylesheet" type="text/css" href="http://freshproduceclothes.com/skin/frontend/freshproduce/default/css/tipTip3.css" media="all">
+<link rel="stylesheet" type="text/css" href="http://freshproduceclothes.com/skin/frontend/freshproduce/default/css/freshproduce/jquery-ui-1.9.1.custom.min.css" media="all">
+<link rel="stylesheet" type="text/css" href="http://freshproduceclothes.com/skin/frontend/freshproduce/default/css/responsive4.css" media="all">
+<link rel="stylesheet" type="text/css" href="http://freshproduceclothes.com/skin/frontend/freshproduce/default/css/freshproduce/font-awesome.min.css" media="all">
+<link rel="stylesheet" type="text/css" href="http://freshproduceclothes.com/skin/frontend/freshproduce/default/facebox/facebox2.css" media="all">
+<link rel="stylesheet" type="text/css" href="http://freshproduceclothes.com/skin/frontend/freshproduce/default/css/print.css" media="print">
 <script type="text/javascript" src="http://freshproduceclothes.com/js/prototype/prototype.js"></script>
 <script type="text/javascript" src="http://freshproduceclothes.com/js/prototype/validation.js"></script>
 <script type="text/javascript" src="http://freshproduceclothes.com/js/scriptaculous/builder.js"></script>
@@ -92,7 +101,7 @@ function toggleMenu(el, over)
 <script type="text/javascript" src="http://freshproduceclothes.com/skin/frontend/freshproduce/default/js/email_placeholder.js"></script>
 <![endif]-->
 <!--[if lt IE 8]>
-<link rel="stylesheet" type="text/css" href="http://freshproduceclothes.com/media/css/2fb97212afbb8746c3bad3b1db6253f4.css" media="all" />
+<link rel="stylesheet" type="text/css" href="http://freshproduceclothes.com/skin/frontend/freshproduce/default/css/styles-ie.css" media="all" />
 <![endif]-->
 <!--[if lt IE 7]>
 <script type="text/javascript" src="http://freshproduceclothes.com/js/lib/ds-sleight.js"></script>
@@ -101,7 +110,7 @@ function toggleMenu(el, over)
 
 <link href="//fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic" rel="stylesheet" type="text/css">
 
-<meta http-equiv="X-UA-Compatible" content="IE=8">
+
 <script type="text/javascript">
 //<![CDATA[
 Mage.Cookies.path     = '/';
@@ -144,9 +153,19 @@ html body li.colorswatch.size span.size.pallet {
 }
 </style>
 <![endif]-->
-<!--<script type="text/javascript" src="//location3.blob.core.windows.net/analytics/freshproduce.analytics.min.js"></script>-->
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://upfront.thefind.com/scripts/main/utils-init-ajaxlib/upfront-badgeinit.js">thefind.upfront.init('tf_upfront_badge', '10cb55f76d52a455436e9e10be6e1aee')</script></head>
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script></head>
 <body class=" cms-page-view cms-privacy-policy">
+    <div class="googleTagManager">
+        <!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-TNJC8S"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-TNJC8S');</script>
+<!-- End Google Tag Manager -->
+    </div>
     <div class="doubleclick">
         <!-- doubleclick pixel -->
 <!-- Tag for Activity Group: Fresh Produce Remarketing, Activity Name: Fresh Produce Remarketing, Activity ID: 1753774 -->
@@ -169,7 +188,7 @@ Creation Date: 06/09/2014
 var axel = Math.random() + "";
 var a = axel * 10000000000000;
 document.write('<iframe src="http://4441759.fls.doubleclick.net/activityi;src=4441759;type=fp-rmkt;cat=fprmkt01;ord=' + a + '?" width="1" height="1" frameborder="0" style="display:none"></iframe>');
-</script><iframe src="http://4441759.fls.doubleclick.net/activityi;src=4441759;type=fp-rmkt;cat=fprmkt01;ord=7186378812869.467?" width="1" height="1" frameborder="0" style="display:none"></iframe>
+</script><iframe src="http://4441759.fls.doubleclick.net/activityi;src=4441759;type=fp-rmkt;cat=fprmkt01;ord=3351861252811.794?" width="1" height="1" frameborder="0" style="display:none"></iframe>
 <noscript>
 <iframe src="http://4441759.fls.doubleclick.net/activityi;src=4441759;type=fp-rmkt;cat=fprmkt01;ord=1?" width="1" height="1" frameborder="0" style="display:none"></iframe>
 </noscript>
@@ -178,7 +197,8 @@ document.write('<iframe src="http://4441759.fls.doubleclick.net/activityi;src=44
     </div>
     <div class="criteoOne">
             </div>
-    <div class="optimizely"></div>
+    <div class="optimizely">    <script type="text/javascript" src="//cdn.optimizely.com/js/353720015.js"></script>
+</div>
    
 
 <!-- BEGIN GOOGLE ANALYTICS CODE -->
@@ -215,14 +235,14 @@ _gaq.push(['_trackPageview']);
  <div class="header-container">
     <div class="header">        
      <div class="branding">
-        <h1 class="logo">
+        <div class="logo">
         	<a id="hidehome" href="http://freshproduceclothes.com/" title="Fresh Produce Clothes" class="logo">
         		<img src="http://freshproduceclothes.com/skin/frontend/freshproduce/default/images/freshproduce/header-logo.png">
         	</a>
-        </h1>        
+        </div>        
      </div>
-    <div id="emailHeader">
-        <div id="emailBlock">
+	<div id="topPromo"><a href="/fp-shipping"><img src="http://fpimages.freshproduceclothes.com/media/header-free-ship.png" alt="free shipping"></a></div>
+    <div id="emailHeader"><div id="emailBlock">
     <img src="http://freshproduceclothes.com/skin/frontend/freshproduce/default/images/freshproduce/email-in-header.png" alt="">
     <div id="emailInput">
         <form action="http://email.freshproduceclothes.com/public/webform/process/" method="post">
@@ -233,71 +253,12 @@ _gaq.push(['_trackPageview']);
             <script type="text/javascript">
                 var fieldMaps = {};
             </script>
-            <input type="text" value="enter your email address" id="brontoinput" onclick="this.value=''" class="text field fb-email" size="30" name="55356">
+            <input type="text" value="enter your email" id="brontoinput" onclick="this.value=''" class="text field fb-email" size="30" name="55356">
             <input id="footeremailbutton" type="image" src="/skin/frontend/freshproduce/default/images/2012/chevron.png" name="submit">
         </form>
     </div>
 </div>
-    </div>       
-          
-     <!-- <a href="/checkout/cart/" class="my-bag">My Bag 
-	     	         ( 0 )
-	     	 </a> -->
-
-	 <div class="top-nav-links">
-		    	 
-         <a href="/checkout/cart/" class="my-bag">My bag / checkout</a>
-		 <a href="https://freshproduceclothes.com/customer/account/login/">account</a>
-	 </div>
-        <div class="quick-access">
-            <div id="blogft">
-                <table border="0" cellspacing="0" cellpadding="0">
-                  <tbody><tr>
-    
-                    <td width="50">
-                        <div style="display:block; width:50px; height:24px">
-                            <a id="toblog" href="http://blog.freshproduceclothes.com">
-                                <span>visit our blog</span>
-                            </a>
-                       </div>
-                   </td>
-                   
-                   <td width="18">
-                        <div style="display:block; width:18px; height:20px">
-                            <a target="_blank" id="tofb" href="http://www.facebook.com/FreshProduceClothing?ref=ts" onclick="_gaq.push(['_trackEvent', 'Social Link', 'Click', 'Facebook Icon']);">
-                                <span>Facebook</span>
-                            </a>
-                        </div>
-                   </td>
-    
-                    <td width="16">
-                        <div style="display:block; width:16px; height:24px">
-                            <a target="_blank" id="totw" href="http://twitter.com/#!/freshproducenow" onclick="_gaq.push(['_trackEvent', 'Social Link', 'Click', 'Twitter Icon']);">
-                                <span>Twitter</span>
-                            </a>
-                        </div>
-                    </td>
-                    <td width="24">
-                        <div style="display:block; width:24px; height:21px;">
-                        	<a target="_blank" id="topinterest" href="http://pinterest.com/freshproducenow/" onclick="_gaq.push(['_trackEvent', 'Social Link', 'Click', 'Pinterest Icon']);">
-                            	 <span>Pinterest</span>
-	                        </a>
-                        </div>
-                    </td>
-                       
-                    <td width="100" id="fndstore" align="right">
-                        <div style="display:block; width:100px; height:24px; text-align:center">
-                            <a id="tofndst" href="/stores/">
-                                <span>Find a Store</span>
-                           </a>
-                        </div>
-                    </td>                
-                    
-                  </tr>
-                </tbody></table>
-            </div>
-
-        </div>
+</div> 
     </div>
     <div class="navbar navbar-inverse">
 	<div class="navbar-inner">
@@ -324,7 +285,7 @@ _gaq.push(['_trackPageview']);
 </a>
 </li><li class="level1 nav-1-3 last">
 <a href="http://freshproduceclothes.com/whats-new/accessories">
-<span>Accessories</span>
+<span>Just Arrived Accessories</span>
 </a>
 </li>
 </ul>
@@ -342,78 +303,82 @@ _gaq.push(['_trackPageview']);
 <span>Just Arrived</span>
 </a>
 </li><li class="level1 nav-2-3 parent" onmouseover="toggleMenu(this,1)" onmouseout="toggleMenu(this,0)">
-<a href="http://freshproduceclothes.com/clothes/tops">
+<a href="http://freshproduceclothes.com/clothes/tops-2">
 <span>Tops</span>
 </a>
 <ul class="level1">
 <li class="level2 nav-2-3-1 first">
-<a href="http://freshproduceclothes.com/clothes/tops/tanks">
+<a href="http://freshproduceclothes.com/clothes/tops-2/tanks">
 <span>Tanks</span>
 </a>
-</li><li class="level2 nav-2-3-2 parent" onmouseover="toggleMenu(this,1)" onmouseout="toggleMenu(this,0)">
-<a href="http://freshproduceclothes.com/clothes/tops/tees">
+</li><li class="level2 nav-2-3-2">
+<a href="http://freshproduceclothes.com/clothes/tops-2/v-neck">
+<span>V-Neck</span>
+</a>
+</li><li class="level2 nav-2-3-3">
+<a href="http://freshproduceclothes.com/clothes/tops-2/crew-neck">
+<span>Crew Neck</span>
+</a>
+</li><li class="level2 nav-2-3-4 parent" onmouseover="toggleMenu(this,1)" onmouseout="toggleMenu(this,0)">
+<a href="http://freshproduceclothes.com/clothes/tops-2/tees">
 <span>Tees</span>
 </a>
 <ul class="level2">
-<li class="level3 nav-2-3-2-1 first">
-<a href="http://freshproduceclothes.com/clothes/tops/tees/crew-neck">
+<li class="level3 nav-2-3-4-1 first">
+<a href="http://freshproduceclothes.com/clothes/tops-2/tees/crew-neck">
 <span>Crew Neck</span>
 </a>
-</li><li class="level3 nav-2-3-2-2 last">
-<a href="http://freshproduceclothes.com/clothes/tops/tees/v-neck">
-<span>V-Neck</span>
-</a>
-</li>
-</ul>
-</li><li class="level2 nav-2-3-3">
-<a href="http://freshproduceclothes.com/clothes/tops/half-sleeve">
-<span>Half Sleeve</span>
-</a>
-</li><li class="level2 nav-2-3-4 parent" onmouseover="toggleMenu(this,1)" onmouseout="toggleMenu(this,0)">
-<a href="http://freshproduceclothes.com/clothes/tops/3-quarter-sleeve">
-<span>3/4 Sleeve</span>
-</a>
-<ul class="level2">
-<li class="level3 nav-2-3-4-3 first last">
-<a href="http://freshproduceclothes.com/clothes/tops/3-quarter-sleeve/v-neck">
+</li><li class="level3 nav-2-3-4-2 last">
+<a href="http://freshproduceclothes.com/clothes/tops-2/tees/v-neck">
 <span>V-Neck</span>
 </a>
 </li>
 </ul>
 </li><li class="level2 nav-2-3-5 parent" onmouseover="toggleMenu(this,1)" onmouseout="toggleMenu(this,0)">
-<a href="http://freshproduceclothes.com/clothes/tops/long-sleeve">
-<span>Long Sleeve</span>
+<a href="http://freshproduceclothes.com/clothes/tops-2/3-quarter-sleeve">
+<span>3/4 Sleeve</span>
 </a>
 <ul class="level2">
-<li class="level3 nav-2-3-5-4 first">
-<a href="http://freshproduceclothes.com/clothes/tops/long-sleeve/crew-neck">
-<span>Crew Neck </span>
-</a>
-</li><li class="level3 nav-2-3-5-5 last">
-<a href="http://freshproduceclothes.com/clothes/tops/long-sleeve/v-neck">
+<li class="level3 nav-2-3-5-3 first last">
+<a href="http://freshproduceclothes.com/clothes/tops-2/3-quarter-sleeve/v-neck">
 <span>V-Neck</span>
 </a>
 </li>
 </ul>
-</li><li class="level2 nav-2-3-6">
-<a href="http://freshproduceclothes.com/clothes/tops/button-down">
+</li><li class="level2 nav-2-3-6 parent" onmouseover="toggleMenu(this,1)" onmouseout="toggleMenu(this,0)">
+<a href="http://freshproduceclothes.com/clothes/tops-2/long-sleeve">
+<span>Long Sleeve</span>
+</a>
+<ul class="level2">
+<li class="level3 nav-2-3-6-4 first">
+<a href="http://freshproduceclothes.com/clothes/tops-2/long-sleeve/crew-neck">
+<span>Crew Neck </span>
+</a>
+</li><li class="level3 nav-2-3-6-5 last">
+<a href="http://freshproduceclothes.com/clothes/tops-2/long-sleeve/v-neck">
+<span>V-Neck</span>
+</a>
+</li>
+</ul>
+</li><li class="level2 nav-2-3-7">
+<a href="http://freshproduceclothes.com/clothes/tops-2/button-down">
 <span>Button Down</span>
 </a>
-</li><li class="level2 nav-2-3-7">
-<a href="http://freshproduceclothes.com/clothes/tops/drape-tops">
+</li><li class="level2 nav-2-3-8">
+<a href="http://freshproduceclothes.com/clothes/tops-2/drape-tops">
 <span>Drape Tops</span>
 </a>
-</li><li class="level2 nav-2-3-8">
-<a href="http://freshproduceclothes.com/clothes/tops/patterened-tops">
+</li><li class="level2 nav-2-3-9">
+<a href="http://freshproduceclothes.com/clothes/tops-2/blouses">
+<span>Blouses</span>
+</a>
+</li><li class="level2 nav-2-3-10">
+<a href="http://freshproduceclothes.com/clothes/tops-2/patterened-tops">
 <span>Printed Tops</span>
 </a>
-</li><li class="level2 nav-2-3-9">
-<a href="http://freshproduceclothes.com/clothes/tops/plain-tops">
+</li><li class="level2 nav-2-3-11 last">
+<a href="http://freshproduceclothes.com/clothes/tops-2/plain-tops">
 <span>Solid Tops</span>
-</a>
-</li><li class="level2 nav-2-3-10 last">
-<a href="http://freshproduceclothes.com/clothes/tops/blouses">
-<span>Blouses</span>
 </a>
 </li>
 </ul>
@@ -422,29 +387,25 @@ _gaq.push(['_trackPageview']);
 <span>Tunics</span>
 </a>
 </li><li class="level1 nav-2-5 parent" onmouseover="toggleMenu(this,1)" onmouseout="toggleMenu(this,0)">
-<a href="http://freshproduceclothes.com/clothes/sweaters">
+<a href="http://freshproduceclothes.com/clothes/sweaters-1">
 <span>Sweaters</span>
 </a>
 <ul class="level1">
-<li class="level2 nav-2-5-11 first">
-<a href="http://freshproduceclothes.com/clothes/sweaters/v-neck">
-<span>V-Neck</span>
-</a>
-</li><li class="level2 nav-2-5-12">
-<a href="http://freshproduceclothes.com/clothes/sweaters/crew-neck">
-<span>Crew Neck</span>
+<li class="level2 nav-2-5-12 first">
+<a href="http://freshproduceclothes.com/clothes/sweaters-1/cashmere">
+<span>Cashmere</span>
 </a>
 </li><li class="level2 nav-2-5-13">
-<a href="http://freshproduceclothes.com/clothes/sweaters/cowl-neck">
+<a href="http://freshproduceclothes.com/clothes/sweaters-1/cowl-neck">
 <span>Cowl Neck</span>
 </a>
 </li><li class="level2 nav-2-5-14">
-<a href="http://freshproduceclothes.com/clothes/sweaters/cashmere">
-<span>Cashmere</span>
+<a href="http://freshproduceclothes.com/clothes/sweaters-1/lightweight">
+<span>Lightweight </span>
 </a>
 </li><li class="level2 nav-2-5-15 last">
-<a href="http://freshproduceclothes.com/clothes/sweaters/lightweight">
-<span>Lightweight </span>
+<a href="http://freshproduceclothes.com/clothes/sweaters-1/half-sleeve">
+<span>Half Sleeve</span>
 </a>
 </li>
 </ul>
@@ -487,173 +448,154 @@ _gaq.push(['_trackPageview']);
 <span>Jackets</span>
 </a>
 </li><li class="level1 nav-2-9 parent" onmouseover="toggleMenu(this,1)" onmouseout="toggleMenu(this,0)">
-<a href="http://freshproduceclothes.com/clothes/skirts">
-<span>Skirts</span>
-</a>
-<ul class="level1">
-<li class="level2 nav-2-9-21 first">
-<a href="http://freshproduceclothes.com/clothes/skirts/above-the-knee">
-<span>Above the Knee</span>
-</a>
-</li><li class="level2 nav-2-9-22">
-<a href="http://freshproduceclothes.com/clothes/skirts/below-the-knee">
-<span>Below the Knee</span>
-</a>
-</li><li class="level2 nav-2-9-23 last">
-<a href="http://freshproduceclothes.com/clothes/skirts/maxi">
-<span>Maxi</span>
-</a>
-</li>
-</ul>
-</li><li class="level1 nav-2-10">
-<a href="http://freshproduceclothes.com/clothes/skorts-1">
-<span>Skorts</span>
-</a>
-</li><li class="level1 nav-2-11">
-<a href="http://freshproduceclothes.com/clothes/beach-cover-ups">
-<span>Beach Cover Ups</span>
-</a>
-</li><li class="level1 nav-2-12 parent" onmouseover="toggleMenu(this,1)" onmouseout="toggleMenu(this,0)">
-<a href="http://freshproduceclothes.com/clothes/dresses">
-<span>Dresses</span>
-</a>
-<ul class="level1">
-<li class="level2 nav-2-12-24 first">
-<a href="http://freshproduceclothes.com/clothes/dresses/knee-length">
-<span>Knee Length</span>
-</a>
-</li><li class="level2 nav-2-12-25">
-<a href="http://freshproduceclothes.com/clothes/dresses/maxi">
-<span>Maxi</span>
-</a>
-</li><li class="level2 nav-2-12-26">
-<a href="http://freshproduceclothes.com/clothes/dresses/tank">
-<span>Tank</span>
-</a>
-</li><li class="level2 nav-2-12-27">
-<a href="http://freshproduceclothes.com/clothes/dresses/short-sleeve">
-<span>Short Sleeve</span>
-</a>
-</li><li class="level2 nav-2-12-28">
-<a href="http://freshproduceclothes.com/clothes/dresses/long-sleeve">
-<span>Long Sleeve</span>
-</a>
-</li><li class="level2 nav-2-12-29">
-<a href="http://freshproduceclothes.com/clothes/dresses/wrap">
-<span>Wrap Dresses</span>
-</a>
-</li><li class="level2 nav-2-12-30 last">
-<a href="http://freshproduceclothes.com/clothes/dresses/sundresses">
-<span>Sundresses</span>
-</a>
-</li>
-</ul>
-</li><li class="level1 nav-2-13 parent" onmouseover="toggleMenu(this,1)" onmouseout="toggleMenu(this,0)">
-<a href="http://freshproduceclothes.com/clothes/shorts">
-<span>Shorts</span>
-</a>
-<ul class="level1">
-<li class="level2 nav-2-13-31 first">
-<a href="http://freshproduceclothes.com/clothes/shorts/above-the-knee">
-<span>Above the Knee</span>
-</a>
-</li><li class="level2 nav-2-13-32">
-<a href="http://freshproduceclothes.com/clothes/shorts/knee-length">
-<span>Knee Length</span>
-</a>
-</li><li class="level2 nav-2-13-33 last">
-<a href="http://freshproduceclothes.com/clothes/shorts/bermuda">
-<span>Bermuda</span>
-</a>
-</li>
-</ul>
-</li><li class="level1 nav-2-14 parent" onmouseover="toggleMenu(this,1)" onmouseout="toggleMenu(this,0)">
-<a href="http://freshproduceclothes.com/clothes/pants">
-<span>Pants</span>
-</a>
-<ul class="level1">
-<li class="level2 nav-2-14-34 first">
-<a href="http://freshproduceclothes.com/clothes/pants/capri">
-<span>Capri</span>
-</a>
-</li><li class="level2 nav-2-14-35">
-<a href="http://freshproduceclothes.com/clothes/pants/long">
-<span>Long</span>
-</a>
-</li><li class="level2 nav-2-14-36">
-<a href="http://freshproduceclothes.com/clothes/pants/jeans">
-<span>Jeans</span>
-</a>
-</li><li class="level2 nav-2-14-37 last">
-<a href="http://freshproduceclothes.com/clothes/pants/patterned">
-<span>Printed</span>
-</a>
-</li>
-</ul>
-</li><li class="level1 nav-2-15">
-<a href="http://freshproduceclothes.com/clothes/denim">
-<span>Denim</span>
-</a>
-</li><li class="level1 nav-2-16">
-<a href="http://freshproduceclothes.com/clothes/cashmere-collection">
-<span>Cashmere</span>
-</a>
-</li><li class="level1 nav-2-17 last parent" onmouseover="toggleMenu(this,1)" onmouseout="toggleMenu(this,0)">
 <a href="http://freshproduceclothes.com/clothes/graphic">
 <span>Graphic</span>
 </a>
 <ul class="level1">
-<li class="level2 nav-2-17-38 first parent" onmouseover="toggleMenu(this,1)" onmouseout="toggleMenu(this,0)">
+<li class="level2 nav-2-9-21 first parent" onmouseover="toggleMenu(this,1)" onmouseout="toggleMenu(this,0)">
 <a href="http://freshproduceclothes.com/clothes/graphic/tops">
 <span>Tops</span>
 </a>
 <ul class="level2">
-<li class="level3 nav-2-17-38-6 first">
+<li class="level3 nav-2-9-21-6 first">
 <a href="http://freshproduceclothes.com/clothes/graphic/tops/tanks">
 <span>Tanks</span>
 </a>
-</li><li class="level3 nav-2-17-38-7 parent" onmouseover="toggleMenu(this,1)" onmouseout="toggleMenu(this,0)">
+</li><li class="level3 nav-2-9-21-7 parent" onmouseover="toggleMenu(this,1)" onmouseout="toggleMenu(this,0)">
 <a href="http://freshproduceclothes.com/clothes/graphic/tops/short-sleeve">
 <span>Short Sleeve</span>
 </a>
 <ul class="level3">
-<li class="level4 nav-2-17-38-7-1 first last">
+<li class="level4 nav-2-9-21-7-1 first last">
 <a href="http://freshproduceclothes.com/clothes/graphic/tops/short-sleeve/v-neck">
 <span>V-Neck</span>
 </a>
 </li>
 </ul>
-</li><li class="level3 nav-2-17-38-8">
+</li><li class="level3 nav-2-9-21-8 last">
 <a href="http://freshproduceclothes.com/clothes/graphic/tops/3-4-sleeve">
 <span>3/4 Sleeve</span>
 </a>
-</li><li class="level3 nav-2-17-38-9 last">
-<a href="http://freshproduceclothes.com/clothes/graphic/tops/long-sleeve">
-<span>Long Sleeve</span>
-</a>
 </li>
 </ul>
-</li><li class="level2 nav-2-17-39">
-<a href="http://freshproduceclothes.com/clothes/graphic/sweatshirts">
-<span>Sweatshirts</span>
-</a>
-</li><li class="level2 nav-2-17-40 last parent" onmouseover="toggleMenu(this,1)" onmouseout="toggleMenu(this,0)">
+</li><li class="level2 nav-2-9-22 last">
 <a href="http://freshproduceclothes.com/clothes/graphic/dresses">
 <span>Dresses</span>
 </a>
-<ul class="level2">
-<li class="level3 nav-2-17-40-10 first">
-<a href="http://freshproduceclothes.com/clothes/graphic/dresses/tank-dresses">
-<span>Graphic Tank Dresses</span>
+</li>
+</ul>
+</li><li class="level1 nav-2-10 parent" onmouseover="toggleMenu(this,1)" onmouseout="toggleMenu(this,0)">
+<a href="http://freshproduceclothes.com/clothes/skirts-1">
+<span>Skirts</span>
 </a>
-</li><li class="level3 nav-2-17-40-11 last">
-<a href="http://freshproduceclothes.com/clothes/graphic/dresses/short-sleeve">
+<ul class="level1">
+<li class="level2 nav-2-10-23 first">
+<a href="http://freshproduceclothes.com/clothes/skirts-1/above-the-knee">
+<span>Above the Knee</span>
+</a>
+</li><li class="level2 nav-2-10-24">
+<a href="http://freshproduceclothes.com/clothes/skirts-1/below-the-knee">
+<span>Below the Knee</span>
+</a>
+</li><li class="level2 nav-2-10-25 last">
+<a href="http://freshproduceclothes.com/clothes/skirts-1/maxi">
+<span>Maxi</span>
+</a>
+</li>
+</ul>
+</li><li class="level1 nav-2-11">
+<a href="http://freshproduceclothes.com/clothes/skorts-1">
+<span>Skorts</span>
+</a>
+</li><li class="level1 nav-2-12">
+<a href="http://freshproduceclothes.com/clothes/beach-cover-ups">
+<span>Beach Cover Ups</span>
+</a>
+</li><li class="level1 nav-2-13 parent" onmouseover="toggleMenu(this,1)" onmouseout="toggleMenu(this,0)">
+<a href="http://freshproduceclothes.com/clothes/dresses">
+<span>Dresses</span>
+</a>
+<ul class="level1">
+<li class="level2 nav-2-13-26 first">
+<a href="http://freshproduceclothes.com/clothes/dresses/knee-length">
+<span>Knee Length</span>
+</a>
+</li><li class="level2 nav-2-13-27">
+<a href="http://freshproduceclothes.com/clothes/dresses/tank">
+<span>Tank</span>
+</a>
+</li><li class="level2 nav-2-13-28">
+<a href="http://freshproduceclothes.com/clothes/dresses/short-sleeve">
 <span>Short Sleeve</span>
 </a>
+</li><li class="level2 nav-2-13-29">
+<a href="http://freshproduceclothes.com/clothes/dresses/long-sleeve">
+<span>Long Sleeve</span>
+</a>
+</li><li class="level2 nav-2-13-30">
+<a href="http://freshproduceclothes.com/clothes/dresses/cotton-dresses">
+<span>Cotton Dresses</span>
+</a>
+</li><li class="level2 nav-2-13-31 last">
+<a href="http://freshproduceclothes.com/clothes/dresses/sundresses">
+<span>Sundresses</span>
+</a>
 </li>
 </ul>
+</li><li class="level1 nav-2-14 parent" onmouseover="toggleMenu(this,1)" onmouseout="toggleMenu(this,0)">
+<a href="http://freshproduceclothes.com/clothes/shorts">
+<span>Shorts</span>
+</a>
+<ul class="level1">
+<li class="level2 nav-2-14-32 first">
+<a href="http://freshproduceclothes.com/clothes/shorts/above-the-knee">
+<span>Above the Knee</span>
+</a>
+</li><li class="level2 nav-2-14-33">
+<a href="http://freshproduceclothes.com/clothes/shorts/knee-length">
+<span>Knee Length</span>
+</a>
+</li><li class="level2 nav-2-14-34 last">
+<a href="http://freshproduceclothes.com/clothes/shorts/bermuda">
+<span>Bermuda</span>
+</a>
 </li>
 </ul>
+</li><li class="level1 nav-2-15 parent" onmouseover="toggleMenu(this,1)" onmouseout="toggleMenu(this,0)">
+<a href="http://freshproduceclothes.com/clothes/pants">
+<span>Pants</span>
+</a>
+<ul class="level1">
+<li class="level2 nav-2-15-35 first">
+<a href="http://freshproduceclothes.com/clothes/pants/capri">
+<span>Capri</span>
+</a>
+</li><li class="level2 nav-2-15-36">
+<a href="http://freshproduceclothes.com/clothes/pants/long">
+<span>Long</span>
+</a>
+</li><li class="level2 nav-2-15-37">
+<a href="http://freshproduceclothes.com/clothes/pants/jeans">
+<span>Jeans</span>
+</a>
+</li><li class="level2 nav-2-15-38 last">
+<a href="http://freshproduceclothes.com/clothes/pants/patterned">
+<span>Printed</span>
+</a>
+</li>
+</ul>
+</li><li class="level1 nav-2-16">
+<a href="http://freshproduceclothes.com/clothes/maxis-1">
+<span>Maxis</span>
+</a>
+</li><li class="level1 nav-2-17">
+<a href="http://freshproduceclothes.com/clothes/denim">
+<span>Denim</span>
+</a>
+</li><li class="level1 nav-2-18 last">
+<a href="http://freshproduceclothes.com/clothes/cashmere-collection">
+<span>Cashmere</span>
+</a>
 </li>
 </ul>
 </li>                        				    				        <li class="level0 nav-3 parent" onmouseover="toggleMenu(this,1)" onmouseout="toggleMenu(this,0)">
@@ -665,128 +607,106 @@ _gaq.push(['_trackPageview']);
 <a href="http://freshproduceclothes.com/plus-size/just-arrived">
 <span>Just Arrived</span>
 </a>
-</li><li class="level1 nav-3-2">
-<a href="http://freshproduceclothes.com/plus-size/cozy-holiday-for-plus">
-<span>A Cozy Holiday</span>
-</a>
-</li><li class="level1 nav-3-3 parent" onmouseover="toggleMenu(this,1)" onmouseout="toggleMenu(this,0)">
+</li><li class="level1 nav-3-2 parent" onmouseover="toggleMenu(this,1)" onmouseout="toggleMenu(this,0)">
 <a href="http://freshproduceclothes.com/plus-size/tops">
 <span>Tops</span>
 </a>
 <ul class="level1">
-<li class="level2 nav-3-3-1 first">
-<a href="http://freshproduceclothes.com/plus-size/tops/tanks">
-<span>Tanks</span>
-</a>
-</li><li class="level2 nav-3-3-2">
+<li class="level2 nav-3-2-1 first">
 <a href="http://freshproduceclothes.com/plus-size/tops/short-sleeve">
 <span>Short Sleeve</span>
 </a>
-</li><li class="level2 nav-3-3-3">
+</li><li class="level2 nav-3-2-2">
 <a href="http://freshproduceclothes.com/plus-size/tops/3-4-sleeve">
 <span>3/4 Sleeve</span>
 </a>
-</li><li class="level2 nav-3-3-4">
+</li><li class="level2 nav-3-2-3">
 <a href="http://freshproduceclothes.com/plus-size/tops/long-sleeve">
 <span>Long Sleeve</span>
 </a>
-</li><li class="level2 nav-3-3-5 last">
+</li><li class="level2 nav-3-2-4 last">
 <a href="http://freshproduceclothes.com/plus-size/tops/button-down">
 <span>Button Down</span>
 </a>
 </li>
 </ul>
-</li><li class="level1 nav-3-4">
+</li><li class="level1 nav-3-3">
 <a href="http://freshproduceclothes.com/plus-size/sweaters">
 <span>Sweaters</span>
 </a>
-</li><li class="level1 nav-3-5">
+</li><li class="level1 nav-3-4">
 <a href="http://freshproduceclothes.com/plus-size/cardigans">
 <span>Cardigans</span>
 </a>
-</li><li class="level1 nav-3-6">
+</li><li class="level1 nav-3-5">
 <a href="http://freshproduceclothes.com/plus-size/sweatshirts">
 <span>Sweatshirts</span>
 </a>
-</li><li class="level1 nav-3-7 parent" onmouseover="toggleMenu(this,1)" onmouseout="toggleMenu(this,0)">
+</li><li class="level1 nav-3-6 parent" onmouseover="toggleMenu(this,1)" onmouseout="toggleMenu(this,0)">
 <a href="http://freshproduceclothes.com/plus-size/skirts">
 <span>Skirts</span>
 </a>
 <ul class="level1">
-<li class="level2 nav-3-7-6 first">
+<li class="level2 nav-3-6-5 first">
 <a href="http://freshproduceclothes.com/plus-size/skirts/above-the-knee">
 <span>Above the Knee</span>
 </a>
-</li><li class="level2 nav-3-7-7 last">
+</li><li class="level2 nav-3-6-6 last">
 <a href="http://freshproduceclothes.com/plus-size/skirts/below-the-knee">
 <span>Below the Knee</span>
 </a>
 </li>
 </ul>
-</li><li class="level1 nav-3-8 parent" onmouseover="toggleMenu(this,1)" onmouseout="toggleMenu(this,0)">
+</li><li class="level1 nav-3-7 parent" onmouseover="toggleMenu(this,1)" onmouseout="toggleMenu(this,0)">
 <a href="http://freshproduceclothes.com/plus-size/dresses">
 <span>Dresses</span>
 </a>
 <ul class="level1">
-<li class="level2 nav-3-8-8 first">
+<li class="level2 nav-3-7-7 first">
 <a href="http://freshproduceclothes.com/plus-size/dresses/knee-length">
 <span>Knee Length</span>
 </a>
-</li><li class="level2 nav-3-8-9">
+</li><li class="level2 nav-3-7-8">
 <a href="http://freshproduceclothes.com/plus-size/dresses/below-the-knee">
 <span>Below the Knee</span>
 </a>
-</li><li class="level2 nav-3-8-10 last">
+</li><li class="level2 nav-3-7-9 last">
 <a href="http://freshproduceclothes.com/plus-size/dresses/maxi">
 <span>Maxi</span>
 </a>
 </li>
 </ul>
-</li><li class="level1 nav-3-9">
+</li><li class="level1 nav-3-8">
 <a href="http://freshproduceclothes.com/plus-size/shorts">
 <span>Shorts</span>
 </a>
-</li><li class="level1 nav-3-10 parent" onmouseover="toggleMenu(this,1)" onmouseout="toggleMenu(this,0)">
+</li><li class="level1 nav-3-9 parent" onmouseover="toggleMenu(this,1)" onmouseout="toggleMenu(this,0)">
 <a href="http://freshproduceclothes.com/plus-size/pants">
 <span>Pants</span>
 </a>
 <ul class="level1">
-<li class="level2 nav-3-10-11 first">
+<li class="level2 nav-3-9-10 first">
 <a href="http://freshproduceclothes.com/plus-size/pants/capri">
 <span>Capri</span>
 </a>
-</li><li class="level2 nav-3-10-12 last">
+</li><li class="level2 nav-3-9-11 last">
 <a href="http://freshproduceclothes.com/plus-size/pants/long">
 <span>Long</span>
 </a>
 </li>
 </ul>
+</li><li class="level1 nav-3-10">
+<a href="http://freshproduceclothes.com/plus-size/the-resort-collection">
+<span>The Resort Collection</span>
+</a>
 </li><li class="level1 nav-3-11">
 <a href="http://freshproduceclothes.com/plus-size/classics-collection-plus-size">
 <span>The Classics Collection</span>
 </a>
-</li><li class="level1 nav-3-12">
+</li><li class="level1 nav-3-12 last">
 <a href="http://freshproduceclothes.com/plus-size/plus-size-vintage-collection">
-<span>Vintage Collection</span>
+<span>The Vintage Collection</span>
 </a>
-</li><li class="level1 nav-3-13 last parent" onmouseover="toggleMenu(this,1)" onmouseout="toggleMenu(this,0)">
-<a href="http://freshproduceclothes.com/plus-size/graphic">
-<span>Graphic</span>
-</a>
-<ul class="level1">
-<li class="level2 nav-3-13-13 first last parent" onmouseover="toggleMenu(this,1)" onmouseout="toggleMenu(this,0)">
-<a href="http://freshproduceclothes.com/plus-size/graphic/tops">
-<span>Tops</span>
-</a>
-<ul class="level2">
-<li class="level3 nav-3-13-13-1 first last">
-<a href="http://freshproduceclothes.com/plus-size/graphic/tops/short-sleeve">
-<span>Short Sleeve</span>
-</a>
-</li>
-</ul>
-</li>
-</ul>
 </li>
 </ul>
 </li>                        				    				        <li class="level0 nav-4 parent" onmouseover="toggleMenu(this,1)" onmouseout="toggleMenu(this,0)">
@@ -807,11 +727,7 @@ _gaq.push(['_trackPageview']);
 <a href="http://freshproduceclothes.com/accessories-2/home-goods/candles">
 <span>Candles</span>
 </a>
-</li><li class="level2 nav-4-2-2">
-<a href="http://freshproduceclothes.com/accessories-2/home-goods/radios">
-<span>Radios</span>
-</a>
-</li><li class="level2 nav-4-2-3 last">
+</li><li class="level2 nav-4-2-2 last">
 <a href="http://freshproduceclothes.com/accessories-2/home-goods/bath">
 <span>Bath and Body Products Collection</span>
 </a>
@@ -822,27 +738,30 @@ _gaq.push(['_trackPageview']);
 <span>Jewelry</span>
 </a>
 <ul class="level1">
-<li class="level2 nav-4-3-4 first">
+<li class="level2 nav-4-3-3 first">
 <a href="http://freshproduceclothes.com/accessories-2/jewelry/earrings">
 <span>Earrings</span>
 </a>
-</li><li class="level2 nav-4-3-5">
+</li><li class="level2 nav-4-3-4 parent" onmouseover="toggleMenu(this,1)" onmouseout="toggleMenu(this,0)">
 <a href="http://freshproduceclothes.com/accessories-2/jewelry/necklaces">
 <span>Necklaces</span>
 </a>
-</li><li class="level2 nav-4-3-6">
+<ul class="level2">
+<li class="level3 nav-4-3-4-1 first last">
+<a href="http://freshproduceclothes.com/accessories-2/jewelry/necklaces/long-necklaces">
+<span>Long Necklaces</span>
+</a>
+</li>
+</ul>
+</li><li class="level2 nav-4-3-5">
 <a href="http://freshproduceclothes.com/accessories-2/jewelry/bracelets">
 <span>Bracelets</span>
 </a>
-</li><li class="level2 nav-4-3-7">
-<a href="http://freshproduceclothes.com/accessories-2/jewelry/rings">
-<span>Rings</span>
-</a>
-</li><li class="level2 nav-4-3-8">
+</li><li class="level2 nav-4-3-6">
 <a href="http://freshproduceclothes.com/accessories-2/jewelry/watches">
 <span>Watches</span>
 </a>
-</li><li class="level2 nav-4-3-9 last">
+</li><li class="level2 nav-4-3-7 last">
 <a href="http://freshproduceclothes.com/accessories-2/jewelry/jewelry-under-50">
 <span>Jewelry Under $50</span>
 </a>
@@ -869,8 +788,8 @@ _gaq.push(['_trackPageview']);
 <span>Belts</span>
 </a>
 </li><li class="level1 nav-4-9 last">
-<a href="http://freshproduceclothes.com/accessories-2/cold-weather-accessories">
-<span>Cold Weather Must-Haves</span>
+<a href="http://freshproduceclothes.com/accessories-2/shoes">
+<span>Shoes</span>
 </a>
 </li>
 </ul>
@@ -879,117 +798,126 @@ _gaq.push(['_trackPageview']);
 <span>Trends</span>
 </a>
 <ul class="level0">
-<li class="level1 nav-5-1 first">
-<a href="http://freshproduceclothes.com/trends/mix-style-prints">
-<span>Mixing Prints</span>
-</a>
-</li><li class="level1 nav-5-2">
+<li class="level1 nav-5-1 first parent" onmouseover="toggleMenu(this,1)" onmouseout="toggleMenu(this,0)">
 <a href="http://freshproduceclothes.com/trends/work-out-to-day-out-collection">
 <span>Work Out to Day Out</span>
 </a>
-</li><li class="level1 nav-5-3">
-<a href="http://freshproduceclothes.com/trends/color-story-red-coral">
-<span>Color Story: Red Coral</span>
-</a>
-</li><li class="level1 nav-5-4">
-<a href="http://freshproduceclothes.com/trends/color-story-currant">
-<span>Color Story: Currant</span>
-</a>
-</li><li class="level1 nav-5-5">
-<a href="http://freshproduceclothes.com/trends/color-story-luna">
-<span>Color Story: Luna</span>
-</a>
-</li><li class="level1 nav-5-6">
-<a href="http://freshproduceclothes.com/trends/lookbook-cozy-holiday">
-<span>Lookbook: Cozy Holiday</span>
-</a>
-</li><li class="level1 nav-5-7">
-<a href="http://freshproduceclothes.com/trends/lookbook-reflections-of-autumn">
-<span>Lookbook: Autumn</span>
-</a>
-</li><li class="level1 nav-5-8">
-<a href="http://freshproduceclothes.com/trends/lookbook-moonrise">
-<span>Lookbook: Moonrise</span>
-</a>
-</li><li class="level1 nav-5-9">
-<a href="http://freshproduceclothes.com/trends/lookbook-fresh-for-fall">
-<span>Lookbook: Fresh for Fall</span>
-</a>
-</li><li class="level1 nav-5-10">
-<a href="http://freshproduceclothes.com/trends/endless-summer-lookbook-14">
-<span>Lookbook: Endless Summer</span>
-</a>
-</li><li class="level1 nav-5-11">
-<a href="http://freshproduceclothes.com/trends/fresh-for-fall-video">
-<span>Fresh for Fall Video Styles</span>
-</a>
-</li><li class="level1 nav-5-12">
-<a href="http://freshproduceclothes.com/trends/copy-this-outfit">
-<span>Get the Look</span>
-</a>
-</li><li class="level1 nav-5-13">
-<a href="http://freshproduceclothes.com/trends/new-for-fall-colors">
-<span>Fall Colors</span>
-</a>
-</li><li class="level1 nav-5-14">
-<a href="http://freshproduceclothes.com/trends/indigo-blue-story">
-<span>Indigo Blue</span>
-</a>
-</li><li class="level1 nav-5-15">
-<a href="http://freshproduceclothes.com/trends/me-s-picks">
-<span>ME's Picks</span>
-</a>
-</li><li class="level1 nav-5-16 last parent" onmouseover="toggleMenu(this,1)" onmouseout="toggleMenu(this,0)">
-<a href="http://freshproduceclothes.com/trends/7-fave-fall-looks">
-<span>7 Fave Fall Looks</span>
-</a>
 <ul class="level1">
-<li class="level2 nav-5-16-1 first">
-<a href="http://freshproduceclothes.com/trends/7-fave-fall-looks/fall-look-three">
-<span>Fall Look #1</span>
+<li class="level2 nav-5-1-1 first">
+<a href="http://freshproduceclothes.com/trends/work-out-to-day-out-collection/look-one-workout">
+<span>Look #1</span>
 </a>
-</li><li class="level2 nav-5-16-2">
-<a href="http://freshproduceclothes.com/trends/7-fave-fall-looks/fall-look-two">
-<span>Fall Look #2</span>
+</li><li class="level2 nav-5-1-2">
+<a href="http://freshproduceclothes.com/trends/work-out-to-day-out-collection/look-two-workout">
+<span>Look #2</span>
 </a>
-</li><li class="level2 nav-5-16-3">
-<a href="http://freshproduceclothes.com/trends/7-fave-fall-looks/fall-look-six">
-<span>Fall Look #3</span>
+</li><li class="level2 nav-5-1-3">
+<a href="http://freshproduceclothes.com/trends/work-out-to-day-out-collection/look-three-workout">
+<span>Look #3</span>
 </a>
-</li><li class="level2 nav-5-16-4">
-<a href="http://freshproduceclothes.com/trends/7-fave-fall-looks/fall-look-five">
-<span>Fall Look #4</span>
-</a>
-</li><li class="level2 nav-5-16-5">
-<a href="http://freshproduceclothes.com/trends/7-fave-fall-looks/fall-look-four">
-<span>Fall Look #5</span>
-</a>
-</li><li class="level2 nav-5-16-6">
-<a href="http://freshproduceclothes.com/trends/7-fave-fall-looks/fall-look-seven">
-<span>Fall Look #6</span>
-</a>
-</li><li class="level2 nav-5-16-7 last">
-<a href="http://freshproduceclothes.com/trends/7-fave-fall-looks/fall-look-7">
-<span>Fall Look #7</span>
+</li><li class="level2 nav-5-1-4 last">
+<a href="http://freshproduceclothes.com/trends/work-out-to-day-out-collection/look-four-workout">
+<span>Look #4</span>
 </a>
 </li>
 </ul>
+</li><li class="level1 nav-5-2">
+<a href="http://freshproduceclothes.com/trends/color-story-brights">
+<span>Color Story: Brights</span>
+</a>
+</li><li class="level1 nav-5-3">
+<a href="http://freshproduceclothes.com/trends/lookbook-love-and-whimsy">
+<span>Lookbook: Love &amp; Whimsy</span>
+</a>
+</li><li class="level1 nav-5-4">
+<a href="http://freshproduceclothes.com/trends/lookbook-find-your-sunshine">
+<span>Lookbook: Find Your Sunshine</span>
+</a>
+</li><li class="level1 nav-5-5">
+<a href="http://freshproduceclothes.com/trends/indigo-blue-story">
+<span>Indigo Blue</span>
+</a>
+</li><li class="level1 nav-5-6">
+<a href="http://freshproduceclothes.com/trends/beach-bag-essentials">
+<span>Beach Bag Essentials</span>
+</a>
+</li><li class="level1 nav-5-7">
+<a href="http://freshproduceclothes.com/trends/color-story-pinks-feb">
+<span>Color Story: Pinks</span>
+</a>
+</li><li class="level1 nav-5-8 parent" onmouseover="toggleMenu(this,1)" onmouseout="toggleMenu(this,0)">
+<a href="http://freshproduceclothes.com/trends/ready-set-cruise">
+<span>Ready, Set, Cruise!</span>
+</a>
+<ul class="level1">
+<li class="level2 nav-5-8-5 first">
+<a href="http://freshproduceclothes.com/trends/ready-set-cruise/look-one-cruise">
+<span>Look #1</span>
+</a>
+</li><li class="level2 nav-5-8-6">
+<a href="http://freshproduceclothes.com/trends/ready-set-cruise/look-two-cruise">
+<span>Look #2</span>
+</a>
+</li><li class="level2 nav-5-8-7">
+<a href="http://freshproduceclothes.com/trends/ready-set-cruise/look-three-cruise">
+<span>Look #3</span>
+</a>
+</li><li class="level2 nav-5-8-8">
+<a href="http://freshproduceclothes.com/trends/ready-set-cruise/look-four-cruise">
+<span>Look #4</span>
+</a>
+</li><li class="level2 nav-5-8-9">
+<a href="http://freshproduceclothes.com/trends/ready-set-cruise/look-five-cruise">
+<span>Look #5</span>
+</a>
+</li><li class="level2 nav-5-8-10">
+<a href="http://freshproduceclothes.com/trends/ready-set-cruise/look-six-cruise">
+<span>Look #6</span>
+</a>
+</li><li class="level2 nav-5-8-11 last">
+<a href="http://freshproduceclothes.com/trends/ready-set-cruise/look-seven-cruise">
+<span>Look #7</span>
+</a>
+</li>
+</ul>
+</li><li class="level1 nav-5-9">
+<a href="http://freshproduceclothes.com/trends/sun-soaked-shades">
+<span>Sun Soaked Shades</span>
+</a>
+</li><li class="level1 nav-5-10">
+<a href="http://freshproduceclothes.com/trends/cotton-skirts">
+<span>Cotton Skirts </span>
+</a>
+</li><li class="level1 nav-5-11">
+<a href="http://freshproduceclothes.com/trends/loungewear">
+<span>Loungewear</span>
+</a>
+</li><li class="level1 nav-5-12">
+<a href="http://freshproduceclothes.com/trends/marina-skirt-collection">
+<span>Marina Skirt Collection</span>
+</a>
+</li><li class="level1 nav-5-13 last">
+<a href="http://freshproduceclothes.com/trends/allure-t-collection">
+<span>Allure T Collection</span>
+</a>
 </li>
 </ul>
 </li>                                                    <li class="level0 nav-8 parent" onmouseout="toggleMenu(this,0)" onmouseover="toggleMenu(this,1)"><a href="http://freshproduceclothes.com/collections"><span>Shops</span></a>
                             <ul class="level0">
-<li class="level1"><a href="http://freshproduceclothes.com/collections/gifts-for-her"><span>Holiday Gift Guide</span></a></li>
-<li class="level1"><a href="http://freshproduceclothes.com/collections/american-made-favorites"><span>American Made Favorites</span></a></li>
 <li class="level1"><a href="http://freshproduceclothes.com/prints"><span>The Print Shop</span></a></li>
+<li class="level1"><a href="http://freshproduceclothes.com/collections/tee-shop"><span>The Tee Shop</span></a></li>
+<li class="level1"><a href="http://freshproduceclothes.com/collections/dyed-pieces"><span>To Dye For Collection</span></a></li>
 <li class="level1"><a href="http://freshproduceclothes.com/collections/theclassics"><span>The Classics Collection</span></a></li>
 <li class="level1"><a href="http://freshproduceclothes.com/collections/the-essentials"><span>The Essentials Collection</span></a></li>
 <li class="level1"><a href="http://freshproduceclothes.com/collections/the-vintage-collection"><span>The Vintage Collection</span></a></li>
 <li class="level1"><a href="http://freshproduceclothes.com/collections/one-size-collection"><span>The One Size Collection</span></a></li>
-<li class="level1"><a href="http://freshproduceclothes.com/collections/the-fire-collection"><span>The Fire Collection</span></a></li>
-<li class="level1"><a href="http://freshproduceclothes.com/collections/tee-shop"><span>The Tee Shop</span></a></li>
+<li class="level1"><a href="http://freshproduceclothes.com/collections/indigo-resort"><span>The Indigo Resort Collection</span></a></li>
+<li class="level1"><a href="http://freshproduceclothes.com/collections/american-made-favorites"><span>American Made Favorites</span></a></li>
 <li class="level1"><a href="http://freshproduceclothes.com/fp/womens-resort-wear"><span>Resort Wear</span></a></li>
 <li class="level1"><a href="http://freshproduceclothes.com/fp/cruise-wear"><span>Cruise Wear</span></a></li>
-</ul>                            </li>
+</ul>
+
+                            </li>
                         				    				        <li class="level0 nav-6 parent" onmouseover="toggleMenu(this,1)" onmouseout="toggleMenu(this,0)">
 <a href="http://freshproduceclothes.com/sale">
 <span>SALE</span>
@@ -1097,11 +1025,7 @@ _gaq.push(['_trackPageview']);
 <a href="http://freshproduceclothes.com/sale/pants/capri">
 <span>Capri</span>
 </a>
-</li><li class="level2 nav-6-12-12">
-<a href="http://freshproduceclothes.com/sale/pants/clamdigger">
-<span>Clamdigger</span>
-</a>
-</li><li class="level2 nav-6-12-13 last">
+</li><li class="level2 nav-6-12-12 last">
 <a href="http://freshproduceclothes.com/sale/pants/long">
 <span>Long</span>
 </a>
@@ -1112,30 +1036,30 @@ _gaq.push(['_trackPageview']);
 <span>Graphic</span>
 </a>
 <ul class="level1">
-<li class="level2 nav-6-13-14 first parent" onmouseover="toggleMenu(this,1)" onmouseout="toggleMenu(this,0)">
+<li class="level2 nav-6-13-13 first parent" onmouseover="toggleMenu(this,1)" onmouseout="toggleMenu(this,0)">
 <a href="http://freshproduceclothes.com/sale/graphic/tops">
 <span>Tops</span>
 </a>
 <ul class="level2">
-<li class="level3 nav-6-13-14-1 first">
+<li class="level3 nav-6-13-13-1 first">
 <a href="http://freshproduceclothes.com/sale/graphic/tops/tanks">
 <span>Tanks</span>
 </a>
-</li><li class="level3 nav-6-13-14-2">
+</li><li class="level3 nav-6-13-13-2">
 <a href="http://freshproduceclothes.com/sale/graphic/tops/short-sleeve">
 <span>Short Sleeve</span>
 </a>
-</li><li class="level3 nav-6-13-14-3">
+</li><li class="level3 nav-6-13-13-3">
 <a href="http://freshproduceclothes.com/sale/graphic/tops/3-4-sleeve">
 <span>3/4 Sleeve</span>
 </a>
-</li><li class="level3 nav-6-13-14-4 last">
+</li><li class="level3 nav-6-13-13-4 last">
 <a href="http://freshproduceclothes.com/sale/graphic/tops/long-sleeve">
 <span>Long Sleeve</span>
 </a>
 </li>
 </ul>
-</li><li class="level2 nav-6-13-15 last">
+</li><li class="level2 nav-6-13-14 last">
 <a href="http://freshproduceclothes.com/sale/graphic/dresses">
 <span>Dresses</span>
 </a>
@@ -1150,106 +1074,110 @@ _gaq.push(['_trackPageview']);
 <span>50% Off</span>
 </a>
 </li><li class="level1 nav-6-16">
+<a href="http://freshproduceclothes.com/sale/print-shop">
+<span>Print Shop </span>
+</a>
+</li><li class="level1 nav-6-17">
 <a href="http://freshproduceclothes.com/sale/accessories-1">
 <span>Accessories</span>
 </a>
-</li><li class="level1 nav-6-17">
+</li><li class="level1 nav-6-18">
 <a href="http://freshproduceclothes.com/sale/kids-sale">
 <span>Kids</span>
 </a>
-</li><li class="level1 nav-6-18 parent" onmouseover="toggleMenu(this,1)" onmouseout="toggleMenu(this,0)">
+</li><li class="level1 nav-6-19 parent" onmouseover="toggleMenu(this,1)" onmouseout="toggleMenu(this,0)">
 <a href="http://freshproduceclothes.com/sale/plus-size">
 <span>Plus Size</span>
 </a>
 <ul class="level1">
-<li class="level2 nav-6-18-16 first parent" onmouseover="toggleMenu(this,1)" onmouseout="toggleMenu(this,0)">
+<li class="level2 nav-6-19-15 first parent" onmouseover="toggleMenu(this,1)" onmouseout="toggleMenu(this,0)">
 <a href="http://freshproduceclothes.com/sale/plus-size/tops">
 <span>Tops</span>
 </a>
 <ul class="level2">
-<li class="level3 nav-6-18-16-5 first">
+<li class="level3 nav-6-19-15-5 first">
 <a href="http://freshproduceclothes.com/sale/plus-size/tops/tanks">
 <span>Tanks</span>
 </a>
-</li><li class="level3 nav-6-18-16-6">
+</li><li class="level3 nav-6-19-15-6">
 <a href="http://freshproduceclothes.com/sale/plus-size/tops/short-sleeve">
 <span>Short Sleeve</span>
 </a>
-</li><li class="level3 nav-6-18-16-7">
+</li><li class="level3 nav-6-19-15-7">
 <a href="http://freshproduceclothes.com/sale/plus-size/tops/3-4-sleeve">
 <span>3/4 Sleeve</span>
 </a>
-</li><li class="level3 nav-6-18-16-8">
+</li><li class="level3 nav-6-19-15-8">
 <a href="http://freshproduceclothes.com/sale/plus-size/tops/long-sleeve">
 <span>Long Sleeve</span>
 </a>
-</li><li class="level3 nav-6-18-16-9 last">
+</li><li class="level3 nav-6-19-15-9 last">
 <a href="http://freshproduceclothes.com/sale/plus-size/tops/button-down">
 <span>Button Down</span>
 </a>
 </li>
 </ul>
-</li><li class="level2 nav-6-18-17">
+</li><li class="level2 nav-6-19-16">
 <a href="http://freshproduceclothes.com/sale/plus-size/skirts-1">
 <span>Skirts</span>
 </a>
-</li><li class="level2 nav-6-18-18 parent" onmouseover="toggleMenu(this,1)" onmouseout="toggleMenu(this,0)">
+</li><li class="level2 nav-6-19-17 parent" onmouseover="toggleMenu(this,1)" onmouseout="toggleMenu(this,0)">
 <a href="http://freshproduceclothes.com/sale/plus-size/dresses">
 <span>Dresses</span>
 </a>
 <ul class="level2">
-<li class="level3 nav-6-18-18-10 first">
+<li class="level3 nav-6-19-17-10 first">
 <a href="http://freshproduceclothes.com/sale/plus-size/dresses/knee-length">
 <span>Knee Length</span>
 </a>
-</li><li class="level3 nav-6-18-18-11">
+</li><li class="level3 nav-6-19-17-11">
 <a href="http://freshproduceclothes.com/sale/plus-size/dresses/below-the-knee">
 <span>Below the Knee</span>
 </a>
-</li><li class="level3 nav-6-18-18-12 last">
+</li><li class="level3 nav-6-19-17-12 last">
 <a href="http://freshproduceclothes.com/sale/plus-size/dresses/maxi">
 <span>Maxi</span>
 </a>
 </li>
 </ul>
-</li><li class="level2 nav-6-18-19">
+</li><li class="level2 nav-6-19-18">
 <a href="http://freshproduceclothes.com/sale/plus-size/shorts">
 <span>Shorts</span>
 </a>
-</li><li class="level2 nav-6-18-20 parent" onmouseover="toggleMenu(this,1)" onmouseout="toggleMenu(this,0)">
+</li><li class="level2 nav-6-19-19 parent" onmouseover="toggleMenu(this,1)" onmouseout="toggleMenu(this,0)">
 <a href="http://freshproduceclothes.com/sale/plus-size/pants">
 <span>Pants</span>
 </a>
 <ul class="level2">
-<li class="level3 nav-6-18-20-13 first">
+<li class="level3 nav-6-19-19-13 first">
 <a href="http://freshproduceclothes.com/sale/plus-size/pants/capri">
 <span>Capri</span>
 </a>
-</li><li class="level3 nav-6-18-20-14 last">
+</li><li class="level3 nav-6-19-19-14 last">
 <a href="http://freshproduceclothes.com/sale/plus-size/pants/clamdigger">
 <span>Clamdigger</span>
 </a>
 </li>
 </ul>
-</li><li class="level2 nav-6-18-21">
+</li><li class="level2 nav-6-19-20">
 <a href="http://freshproduceclothes.com/sale/plus-size/30-off">
 <span>30% Off</span>
 </a>
-</li><li class="level2 nav-6-18-22 last">
+</li><li class="level2 nav-6-19-21 last">
 <a href="http://freshproduceclothes.com/sale/plus-size/50-off">
 <span>50% Off</span>
 </a>
 </li>
 </ul>
-</li><li class="level1 nav-6-19">
+</li><li class="level1 nav-6-20">
 <a href="http://freshproduceclothes.com/sale/25-and-under">
 <span>$25 and Under</span>
 </a>
-</li><li class="level1 nav-6-20">
+</li><li class="level1 nav-6-21">
 <a href="http://freshproduceclothes.com/sale/50-and-under">
 <span>$50 and Under</span>
 </a>
-</li><li class="level1 nav-6-21 last">
+</li><li class="level1 nav-6-22 last">
 <a href="http://freshproduceclothes.com/sale/customer-favorites">
 <span>Customer Favorites</span>
 </a>
@@ -1260,7 +1188,6 @@ _gaq.push(['_trackPageview']);
 			<div class="nav-plus-size">
 				<ul id="nav">
 															     <li class="level0"><a href="/plus-size/just-arrived"><span>Just Arrived</span></a></li>
-										     <li class="level0"><a href="/plus-size/cozy-holiday-for-plus"><span>A Cozy Holiday</span></a></li>
 										     <li class="level0"><a href="/plus-size/tops"><span>Tops</span></a></li>
 										     <li class="level0"><a href="/plus-size/sweaters"><span>Sweaters</span></a></li>
 										     <li class="level0"><a href="/plus-size/cardigans"><span>Cardigans</span></a></li>
@@ -1269,9 +1196,9 @@ _gaq.push(['_trackPageview']);
 										     <li class="level0"><a href="/plus-size/dresses"><span>Dresses</span></a></li>
 										     <li class="level0"><a href="/plus-size/shorts"><span>Shorts</span></a></li>
 										     <li class="level0"><a href="/plus-size/pants"><span>Pants</span></a></li>
+										     <li class="level0"><a href="/plus-size/the-resort-collection"><span>The Resort Collection</span></a></li>
 										     <li class="level0"><a href="/plus-size/classics-collection-plus-size"><span>The Classics Collection</span></a></li>
-										     <li class="level0"><a href="/plus-size/plus-size-vintage-collection"><span>Vintage Collection</span></a></li>
-										     <li class="level0"><a href="/plus-size/graphic"><span>Graphic</span></a></li>
+										     <li class="level0"><a href="/plus-size/plus-size-vintage-collection"><span>The Vintage Collection</span></a></li>
 									</ul>
 			</div>
 			<div class="nav-sale">
@@ -1291,6 +1218,7 @@ _gaq.push(['_trackPageview']);
 										     <li class="level0"><a href="/sale/graphic"><span>Graphic</span></a></li>
 										     <li class="level0"><a href="/sale/30-off"><span>30% Off</span></a></li>
 										     <li class="level0"><a href="/sale/50-off"><span>50% Off</span></a></li>
+										     <li class="level0"><a href="/sale/print-shop"><span>Print Shop </span></a></li>
 										     <li class="level0"><a href="/sale/accessories-1"><span>Accessories</span></a></li>
 										     <li class="level0"><a href="/sale/kids-sale"><span>Kids</span></a></li>
 										     <li class="level0"><a href="/sale/plus-size"><span>Plus Size</span></a></li>
@@ -1325,14 +1253,14 @@ jQuery('.btn-sale').click(function() {
 </script>
 
 
-    <form id="searchform" name="searchform" action="http://shop.freshproduceclothes.com/search" method="get" onsubmit="ajaxsearchsubmit(this);return false;">
+    <form name="searchform" action="http://shop.freshproduceclothes.com/search" method="get" id="SliSearchProductForm" onsubmit="ajaxsearchsubmit(this);return false;">
     <div class="form-search">
-        <input type="text" name="w" id="sli_search_1" class="input-text" autocomplete="off" placeholder="search">
-        <input type="image" value="search" class="search-button" src="http://freshproduceclothes.com/skin/frontend/freshproduce/default/images/2012/magnify2.png">
+        <input type="text" name="w" id="sli_search_1" class="input-text" autocomplete="off">
+		<input type="image" value="search" class="search-button" src="http://freshproduceclothes.com/skin/frontend/freshproduce/default/images/2012/magnify2.png">
     </div>
     <script type="text/javascript">
     //<![CDATA[
-        var searchForm = new Varien.searchForm('SliSearchProductForm', 'sli_search_1', 'Search entire store here...');
+        var searchForm = new Varien.searchForm('SliSearchProductForm', 'sli_search_1', 'Search');
     //]]>
     </script>
 </form>
@@ -1348,42 +1276,25 @@ jQuery('.btn-sale').click(function() {
     }
 </script>
 
+
  	    
 </div>
-<div id="newlnx">
-	<div id="topmesgx"><span>
-<style>#topmesgx { width: 440px !important } .ltmarg { margin-left: 5px; font-size: 8pt;}</style>
-<script type="text/javascript">
+<div id="newlnx" style="clear: both;">
+	<div id="topmesgx"></div>
+	<!--<div id="topshipmgx"></div>-->
 
-function openRadio()
-{
-
-if (isMobile()) {
-    window.open('http://player.listenlive.co/32641/en', '_blank');
-} else {
-    window.open('http://freshproduceclothes.com/radioincolor.html', 'Radio_In_Color', 'width=500,height=575,resizable=no,scrollbars=no,menubar=no,left=50,top=50,screenX=50,screenY=50' );
-}
-
-}
-</script>
-<a class="radiolink" href="javascript:void(0);" onclick="openRadio();"><img src="http://fpimages.freshproduceclothes.com/website/2014/11/holiday-RIC.jpg" alt="play radio"></a>
-</span>
-<span class="ltmarg"><a href="http://freshproduceclothes.com/radioincolor.html" target="_blank">view as webpage</a></span></div>
-	<div id="topshipmgx"><p><span style="color: #808080; font-size: small; margin-left: 25px !important;">FREE SHIPPING </span><span style="color: #808080; font-size: x-small; !important;"><a href="http://freshproduceclothes.com/fp-shipping">ON ORDERS OVER $150</a></span></p></div> 
-
-           
-	
-	<div id="toplinxright">
-<!-- this is in app/design/frontend/freshproduce/default/template/page/template/links.phtml -->
-<table>
-   <tbody><tr>
+</div>
+<div id="toplinxright"><!-- this is in app/design/frontend/freshproduce/default/template/page/template/links.phtml -->
    
-   <!--<td class="topx"><a href="checkout/cart/"><span>checkout</span></a></td>-->
-   <td class="topx"><a href="http://freshproduceclothes.com/checkout/cart/"><span class="newbutton">&nbsp;my bag / checkout</span></a></td>
    
-   <td class="topx"><a href="https://freshproduceclothes.com//customer/account/"><span>my account</span></a></td>
-  </tr>
-</tbody></table></div>
+<div class="mini_links">
+	<ul>
+		<li><a href="http://freshproduceclothes.com/find-a-store"><span>FIND A STORE</span></a></li>
+		<li><a href="https://freshproduceclothes.com/customer/account/login"><span>My Account</span></a></li>
+		<li><a href="http://freshproduceclothes.com/checkout/cart/"><span style="color: #FF8C73;">my bag / checkout</span></a></li>
+	</ul>
+</div>
+
 </div>
  
 <!-- ESI END DUMMY COMMENT [] -->
@@ -1518,196 +1429,36 @@ if (isMobile()) {
  
 <div class="homepageClear"><img src="/skin/frontend/freshproduce/default/images/2012/line.png" alt=""></div>
 
-<div class="footer-container">
+<div class="footer-container"> 
 	
 <div class="footer">
 
         <div class="col" id="col1footer">
+			<ul class="socialMedia">
+				<li>
+					<a href="https://www.facebook.com/FreshProduceClothing" target="_blank"><img src="http://freshproduceclothes.com/skin/frontend/freshproduce/default/images/freshproduce/140921_email-template_14.jpg" onclick="_gaq.push(['_trackEvent', 'social_link(fb site like)', 'Click', 'fb site like']);" alt="Facebook">
+					</a>
+				</li>
+				<li>
+					<a href="https://twitter.com/freshproducenow" target="_blank"><img src="http://freshproduceclothes.com/skin/frontend/freshproduce/default/images/freshproduce/140921_email-template_15.jpg" onclick="_gaq.push(['_trackEvent', 'social_link(twitter site tweet)', 'Click', 'twitter site tweet']);" alt="Twitter">
+					</a>
+				</li>
+				<li>
+					<a href="http://pinterest.com/freshproducenow/" target="_blank"><img src="http://freshproduceclothes.com/skin/frontend/freshproduce/default/images/freshproduce/140921_email-template_16.jpg" onclick="_gaq.push(['_trackEvent', 'social_link(pinterest site link)', 'Click', 'pinterest site link']);" alt="Pinterest">
+					</a>
+				</li>
+				<li>
+					<a href="http://vimeopro.com/user23699688/fresh-produce-videos" target="_blank"><img src="http://freshproduceclothes.com/skin/frontend/freshproduce/default/images/freshproduce/140921_email-template_17.jpg" onclick="_gaq.push(['_trackEvent', 'social_link(vimeo portfolio)', 'Click', 'vimeo portfolio']);" alt="Vimeo Portfolio">
+					</a>
+				</li>
+				<li>
+					<a href="http://blog.freshproduceclothes.com" target="_blank"><img src="http://freshproduceclothes.com/skin/frontend/freshproduce/default/images/freshproduce/140921_email-template_18.jpg" onclick="_gaq.push(['_trackEvent', 'social_link(blog)', 'Click', 'blog']);" alt="The Spot, Blog">
+					</a>
+				</li>
+			</ul>
         </div>
 
-        
-		<script type="text/javascript" src="https://services.sheerid.com/jsapi/SheerID.js"></script>
-		<script type="text/javascript">
-		addSheerIDEventListeners = function() {
-			$$('form.verify-form-ajax').each(function(form) {
-				Event.observe(form, 'submit', function(event) {
-					var validator = typeof Validation == 'function' ? new Validation(form) : (function(){return{validate:function(){return true;}}}());
-					if (validator.validate()) {
-						var wrap = form.up('#sheerid_verify')
-						wrap.select('.verify-messages')[0].update('');
-						var loader = form.select('.verify-please-wait')[0];
-						loader.show();
-						this.request({
-							evalJSON : 'force',
-							parameters: {
-								'ajax' : true
-							},
-							onFailure: function() {
-								loader.hide();
-							},
-							onSuccess: function(t) {
-								loader.hide();
-								var resp = t.responseJSON;
-								if (resp.result) {
-									wrap.select('.verify-messages')[0].removeClassName('error').update(resp.message || 'Success!');
-									form.hide();
-									wrap.select('.verify-prompt').invoke('hide');
-									wrap.select('.verify-status').invoke('hide');
-								} else {
-									if (resp.allow_upload) {
-										resp.errors.push('<a href="javascript:;" class="link-upload">Upload proof of affiliation</a>');
-									}
-									wrap.select('.verify-messages')[0].addClassName('error').update(resp.errors.join('<br/>'));
-									
-									var uploadLinks = wrap.select('.verify-messages .link-upload');
-									if (uploadLinks.length) {
-										var link = uploadLinks[0];
-										link.onclick = function(){
-											var ctUpload = 'verify-upload-' + new Date()/1;
-											form.replace('<div id="' + ctUpload + '">Loading...</div>');
-											wrap.select('.verify-messages').each(function(msgs){ msgs.update(); });
-											wrap.select('.verify-status').invoke('hide');
-
-											var failureMsg = 'Unable to prepare upload form.';
-
-											var request = new Ajax.Request("http://freshproduceclothes.com/SheerID/verify/uploadToken/", {
-									                method: 'post',
-									                onSuccess: function(transport) {
-														if (transport && transport.responseText){
-															var response;
-															try{
-																response = eval('(' + transport.responseText + ')');
-															} catch (e) {
-																response = {};
-															}
-															if (response.token) {
-																SheerID.load('asset', '1.0', {
-																	config: {
-																		container : ctUpload,
-																		maxFiles: 3,
-																		baseUrl : response.baseUrl,
-																		success : 'http://freshproduceclothes.com/SheerID/verify/verifyUploadSuccess',
-																		failure : 'http://freshproduceclothes.com/SheerID/verify/verifyUploadFailure',
-																		onSuccess : function() {
-																			var success_msg = 'Your documentation has been uploaded successfully. Your discount has been applied.';
-																			var keep_shopping = 'Click <a href="http://freshproduceclothes.com/">here</a> to continue shopping.';
-																			wrap.select('.verify-prompt').each(function(msgs){ msgs.update(); });
-																			$(ctUpload).update('<p>' + success_msg + '</p><p>' + keep_shopping + '</p>');
-																			location.reload();
-																		},
-																		ajax: true,
-																		token: response.token
-																	}
-																});
-															}
-												        } else {
-															$(ctUpload).update(failureMsg);
-														}
-													},
-													onFailure: function(transport) {
-														$(ctUpload).update(failureMsg);
-													},
-									                parameters: {}
-									  			});
-										};
-									}
-								}
-
-								// fresh produce code for awesome checkout
-								if (resp.checkout_refresh) {
-									payment.save();
-									
-									jQuery.get("http://freshproduceclothes.com/anattadesign_awesomecheckout/onepage/reloadReview/", null, function(response) {
-										response = jQuery.parseJSON(response);
-										checkout.reloadProgressBlock('review');									
-										checkout.setStepResponse(response);										
-										jQuery("#checkout-review-load").html(response.update_section.html);
-										
-										jQuery('#checkout-review-table > tfoot > tr:last, #checkout-review-table > tfoot > tr:eq(1)').delay(200).queue(function(next){
-											jQuery(this).addClass('shine');
-											next();
-										}).delay(1000).queue(function(next){
-											jQuery(this).removeClass('shine');
-											next();
-										});
-									});			
-								}
-								else if (resp.refresh) {
-									window.location.reload();
-								}
-								if (resp.discountSubmit) {
-									typeof discountForm != 'undefined' && discountForm.submit(false, true);
-								}
-					        }
-						});
-					}
-				    Event.stop(event);
-				});
-			});
-			$$('form.verify-form').each(function(form) {
-				var wrap = form.up('#sheerid_verify')
-				var buffered;
-				wrap.select('.affiliation-type-choice').each(function(el){
-					if (!$(el).hasClassName('observing')) {
-						$(el).observe('change', function(event) {
-							if (buffered) {
-								window.clearTimeout(buffered);
-							}
-							buffered = window.setTimeout(function(){
-								if (el.value) {
-									var params = {affiliation_types:el.value, form_only: true};
-									if (wrap.up('.opc')) {
-										params.use_ajax = false;
-										params.submit = false;
-										params.use_quote_information = true;
-									}
-									new Ajax.Request("http://freshproduceclothes.com/SheerID/verify/", {
-										method: 'get',
-										parameters: params,
-										onComplete: function(response) {
-											form.update(response.responseText);
-											addSheerIDEventListeners();
-										}
-									});
-								} else {
-									form.update('');
-								}
-								delete buffered;
-							}, 50);
-						});
-						$(el).addClassName('observing');
-					}
-				});
-			});
-
-			SheerIDOrganizationFields = $$('.sheerid-orgs');
-			for (var i=0; i<SheerIDOrganizationFields.length; i++) {
-				var field = SheerIDOrganizationFields[i];
-				var m = field.className.match(/sheerid-orgs-(\w+)/);
-				if (m) {
-					var isFixed = false;
-					field.ancestors().each(function(el){ var pos = el.getStyle('position'); if (pos == 'fixed'){ isFixed = true; return false; } });
-					SheerID.load('combobox', '1.0', {
-						baseUrl : 'https://services.sheerid.com/jsapi',
-						config: {
-							baseUrl: 'https://services.sheerid.com',
-							allowName: true,
-							input: field,
-							fixedPosition: isFixed,
-							params: {
-								type: m[1].toUpperCase()
-							}
-						}
-					});
-				}
-			}
-
-			
-		}
-		addSheerIDEventListeners();
-		</script>
-
-		<div style="display:none;" id="signupText">
+        <div style="display:none;" id="signupText">
 
 <form accept-charset="" action="http://email.freshproduceclothes.com/public/webform/process/" method="post">
 <div style="top:434px; left:50px; position:relative">
@@ -1741,38 +1492,36 @@ var fieldMaps = {};
 <!-- li><a href="http://www.fpdealer.com/" _mce_href="http://www.fpdealer.com/" target="_blank">Dealer Resources</a></li -->
 <li><a href="/inside-our-stores">Inside Stores</a></li>
 <li><a href="/careers">Careers</a></li>
-<li><a href="/affiliates">Affiliates</a></li>
+<li class="nonz"><a href="/recent-news">Recent News</a></li>
 </ul>
 </div>
 <!-- press column -->
 <div class="col" id="footer-press">
 <ul id="press">
-<li class="nonz"><a href="/recent-news">Recent News</a></li>
-<li class="nonz"><a href="/as-seen-in">As Seen In</a></li>
-<li class="nonz"><a href="/lookbooks">Lookbooks</a></li>
+<li><a href="/contacts/index">Contact Us</a></li>
+<li class="nonz"><a href="/stores/">Find A Store</a></li>
+<li><a href="/orderstatus">Order Status</a></li>
+<li><a href="/fp-shipping">Shipping</a></li>
+<li><a href="/returns-and-exchanges">Returns/Exchanges</a></li>
 </ul>
 </div>
 <!-- Shop -->
 <div class="col" id="footer-shop">
 <ul id="press">
-<li class="nonz"><a href="/stores/">Find A Store</a></li>
-<li class="nonz"><a href="/collections/gift-cards">Gift Cards</a></li>
-<li class="nonz"><a href="/military-discount">Military Discount</a></li>
-<li class="nonz"><a href="/teacher-discount">Teacher Discount</a></li>
+<li class="nonz"><a href="/giftcards">Gift Cards</a></li>
+<li><a href="/affiliates">Affiliates</a></li>
+<li><a href="/privacy-policy">Privacy Policy</a></li>
 </ul>
 </div>
 <!-- customer care column -->
 <div class="col" id="footer-customer">
 <ul>
-<li><a href="/orderstatus">Order Status</a></li>
-<li><a href="/contacts/index">Contact Us</a></li>
 <li><a href="/size-chart">Size Charts</a></li>
 <li><a href="/product-info">Product Info</a></li>
 <li><a href="/fresh-produce-glossary">FP Glossary</a></li>
 <li><a href="/fp-faq">FAQ</a></li>
-<li><a href="/fp-shipping">Shipping</a></li>
-<li><a href="/returns-and-exchanges">Returns/Exchanges</a></li>
-<li><a href="/privacy-policy">Privacy Policy</a></li>
+<li class="nonz"><a href="http://shop.freshproduceclothes.com/">Popular Products</a></li>
+<li><a href="/catalog/seo_sitemap/category">Sitemap</a></li>
 </ul>
 </div><div id="emailFooter">
 <div id="emailBlock">
@@ -1794,64 +1543,57 @@ var fieldMaps = {};
 </div>
 
                 <div>
-        <a class="tf_upfront_badge" href="http://www.thefind.com/store/about-freshproduceclothes" title="TheFind Upfront"><img border="0" src="//upfront.thefind.com/images/badges/r/10/cb/10cb55f76d52a455436e9e10be6e1aee.png" alt="Fresh Produce Clothes is an Upfront Merchant on TheFind. Click for info."></a>
-  <script type="text/javascript">
-    (function() {
-      var upfront = document.createElement('SCRIPT'); upfront.type = "text/javascript"; upfront.async = true;
-      upfront.src = document.location.protocol + "//upfront.thefind.com/scripts/main/utils-init-ajaxlib/upfront-badgeinit.js";
-      upfront.text = "thefind.upfront.init('tf_upfront_badge', '10cb55f76d52a455436e9e10be6e1aee')";
-      document.getElementsByTagName('HEAD')[0].appendChild(upfront);
-    })();
-  </script>
-
         </div>
 
         <div class="footer-left">
-        
-		    <ul class="footer-small">
-			    <li class="dropdown" data-id="#footer-us">
-			    	<a class="dropdown-link" href="http://freshproduceclothes.com/our-story/">Company</a>
-			    </li>
-			    <li class="dropdown" data-id="#footer-press">
-			    	<a class="dropdown-link" href="http://freshproduceclothes.com/recent-news/">Press</a>
-			    </li>
-			    <li class="dropdown" data-id="#footer-shop">
-			    	<a class="dropdown-link" href="http://freshproduceclothes.com/stores/">Shop</a>
-			    </li>
-			    <li class="dropdown" data-id="#footer-customer">
-			    	<a class="dropdown-link" href="http://freshproduceclothes.com/contact-us/">Customer Care</a>
-			    </li>
-			    <li>
-			    	<a href="http://freshproduceclothes.com/catalog/seo_sitemap/category/">Site Map</a>
-			    </li>
-		    </ul>
-		    
-		    <ul class="social">
-				<li>
-				    <a id="toblog" href="http://blog.freshproduceclothes.com">
-				        <span>visit our blog</span>
-				    </a>
-				</li>
-				<li>
-		            <a target="_blank" id="tofb" href="http://www.facebook.com/FreshProduceClothing?ref=ts" onclick="_gaq.push(['_trackEvent', 'Social Link', 'Click', 'Facebook Icon']);">
-		                <span>Facebook</span>
-		            </a>
-				</li>
-				<li>
-		            <a target="_blank" id="totw" href="http://twitter.com/#!/freshproducenow" onclick="_gaq.push(['_trackEvent', 'Social Link', 'Click', 'Twitter Icon']);">
-		                <span>Twitter</span>
-		            </a>
-				</li>	
-				<li>
-		        	<a target="_blank" id="topinterest" href="http://pinterest.com/freshproducenow/" onclick="_gaq.push(['_trackEvent', 'Social Link', 'Click', 'Pinterest Icon']);">
-		            	<span>Pinterest</span>
-		            </a>
-				</li>						    
-		    </ul> 
-		    
 			<div class="ouraddress">
-				<address class="copyright">©2013 Fresh Produce Sportswear</address>   
-                
+				<i id="footerMenu" class="fa fa-bars fa-2x" onclick="jQuery('.footerLinks').toggle('slow');"></i>
+				<div class="footerLinks">
+					<ul class="footerMenu">
+						<li><a href="javascript:void(0);" onclick="showSection('l1');">Company</a>
+							<ul>
+								<li class="l1"><a href="/our-story">Our Story</a></li>
+								<li class="l1"><a href="/inside-our-stores">Inside Our Stores</a></li>
+								<li class="l1"><a href="/careers">Careers</a></li>
+								<li class="l1"><a href="/affiliates">Affiliates</a></li>
+								<li class="l1"><a href="http://www.fpdealers.com">Dealers</a></li>
+							</ul>
+						</li>
+						<li><a href="javascript:void(0);" onclick="showSection('l2');">Press</a>
+							<ul>
+								<li class="l2"><a href="/recent-news">Recent News</a></li>
+								<li class="l2"><a href="/as-seen-in">As Seen In</a></li>
+								<li class="l2"><a href="/lookbooks">Lookbooks</a></li>
+								<li class="l2"><a href="http://shop.freshproduceclothes.com/">Popular Products</a></li>
+							</ul>
+						</li>
+						<li><a href="javascript:void(0);" onclick="showSection('l3');">Shop</a>
+							<ul>
+								<li class="l3"><a href="/stores">Find A Store</a></li>
+								<li class="l3"><a href="/giftcards">Gift Cards</a></li>
+								<li class="l3"><a href="/military-discount">Military Discount</a></li>
+								<li class="l3"><a href="/teacher-discount">Teacher Discount</a></li>
+							</ul>
+						</li>
+						<li><a href="javascript:void(0);" onclick="showSection('l4');">Customer Care</a>
+							<ul>
+								<li class="l4"><a href="/orderstatus">Order Status</a></li>
+								<li class="l4"><a href="/contacts/index">Contact Us</a></li>
+								<li class="l4"><a href="/size-chart">Size Charts</a></li>
+								<li class="l4"><a href="/product-info">Product Info</a></li>
+								<li class="l4"><a href="/fresh-produce-glossary">FP Glossary</a></li>
+								<li class="l4"><a href="/fp-faq">FAQ</a></li>
+								<li class="l4"><a href="/fp-shipping">Shipping</a></li>
+								<li class="l4"><a href="/returns-and-exchanges">Returns/Exchanges</a></li>
+								<li class="l4"><a href="/privacy-policy">Privacy Policy</a></li>
+							</ul>
+						</li>
+						<li><a href="/catalog/seo_sitemap/category">Site Map</a></li>
+					</ul>
+				</div>
+				<span class="shippingmsg"><a href="/fp-shipping"><img src="http://fpimages.freshproduceclothes.com/media/header-free-ship.png" alt="free shipping"></a></span>
+				<div class="footerTagline"><img src="http://fpimages.freshproduceclothes.com/media/footer-llec.png" alt="live life, enjoy color"></div>
+				<address class="copyright">©2009-2015 Fresh Produce Holdings, LLC</address>   
 			</div>		     
 	    
 	    </div>      
@@ -1865,15 +1607,83 @@ var fieldMaps = {};
         function(){
             window.location = "http://freshproduceclothes.com/checkout/cart/";
     });
+
+	function showSection(section) {
+		jQuery(".footerLinks ."+section).toggle('slow');
+	}
 </script>                    
 
 <div id="ouraddress" style="clear:both; margin-top:10px">
-	<address class="copyright">©2009-2014 Fresh Produce Sportswear&nbsp;&nbsp;<span><a href="http://freshproduceclothes.com/catalog/seo_sitemap/category">Site Map</a></span><span style="float:none;" id="dealerx"><a href="http://www.fpdealer.com/" _mce_href="http://www.fpdealer.com/" target="_blank"><span>Dealer Resources</span></a></span></address>
+	<address class="copyright">
+		<span><img src="http://fpimages.freshproduceclothes.com/media/footer-llec.png" alt="live life, enjoy color"></span><br><br>
+		<span><p>2015, Blue Stripe LLC, dba Fresh Produce&nbsp;&nbsp;</p></span><br><br>
+	</address>
 </div>
  
 <!-- ESI END DUMMY COMMENT [] -->
-         <script type="text/javascript" src="//www.beetailer.com/javascripts/beetailer.js"></script>  <script type="text/javascript" src="//freshproduce.resultspage.com/rac/sli-rac.config.js">    </div>
-</div>
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-3.newrelic.com","licenseKey":"1f230bcd27","applicationID":"4602385","transactionName":"Ml1RNUoFCkEEVhEPXAsXcgJMDQtcSlYIFRwVWVQEFxINVxI=","queueTime":0,"applicationTime":213,"atts":"HhpSQwIfGU8=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-476.min.js"}</script>
+         <script type="text/javascript" src="//www.beetailer.com/javascripts/beetailer.js"></script>  
 
-</div></div></body></html>
+<script type="text/javascript">
+if (document.addEventListener) {
+  document.addEventListener('bronto:popup-submitted', function(e) {
+    new Ajax.Request('http://freshproduceclothes.com/btnewsletter/index/submit/', {
+      method: 'post',
+      parameters: { emailAddress: e.detail.email }
+    });
+  }, false);
+}
+</script>
+
+
+<script type="text/javascript">
+    //<![CDATA[
+    var scrProtocol  = (document.location.protocol == "https:") ? "https:" : "http:";
+    var scriptString = '%3Cscript src="' + scrProtocol + '//p.bm23.com/bta.js" type="text/javascript"%3E%3C/script%3E';
+    document.write(unescape(scriptString));
+    //]]>
+</script><script src="https://p.bm23.com/bta.js" type="text/javascript"></script>
+<script type="text/javascript">
+    //<![CDATA[
+    var bta = new __bta('bdfbfc72faf4d707a10b0c51708bbf1b');
+    //]]>
+</script>
+
+
+<script type="text/javascript">
+    //<![CDATA[
+
+    // Handle Magento Email Fields
+    Event.observe(window, 'load', function() {
+        $$('input.validate-email').each(function(item) {
+            item.observe('change', function(event) {
+                captureEmail(item.value);
+            });
+        });
+    });
+
+    // Handle Popup Event
+    if (document.addEventListener) {
+        document.addEventListener('bronto:popup-created', function(e) {
+            $$('.popup-dialog input[id*=inputs-email]').each(function(item) {
+                item.observe('change', function(event) {
+                    captureEmail(item.value);
+                });
+            });
+        }, false);
+    }
+
+    // Trigger AJAX call to capture Email Address
+    function captureEmail(emailAddress) {
+        var targetUrl = 'http://freshproduceclothes.com/emailcapture/index/capture/';
+        new Ajax.Request(targetUrl, {
+            method: 'post',
+            parameters: {emailAddress: emailAddress}
+        });
+    }
+    //]]>
+</script>
+<script type="text/javascript" src="//freshproduce.resultspage.com/rac/sli-rac.config.js"></script>    </div>
+</div>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"1f230bcd27","applicationID":"4602385","transactionName":"Ml1RNUoFCkEEVhEPXAsXcgJMDQtcSlYIFRwVWVQEFxINVxI=","queueTime":0,"applicationTime":477,"atts":"HhpSQwIfGU8=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-627.min.js"}</script>
+
+<script src="https://js-agent.newrelic.com/nr-627.min.js"></script></body></html>
