@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cobrasmarketview.com privacy policy that was archived on 2014-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141214111502id_/http%3A//www.cobrasmarketview.com/%3Fpage_id%3D243) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cobrasmarketview.com privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611184640id_/http%3A//www.cobrasmarketview.com/%3Fpage_id%3D243) for the most accurate reproduction.*
 
 # Privacy Policy | Cobra's Market View
 
@@ -14,7 +14,7 @@ We collect information from you when you register on our site.
 
 When ordering or registering on our site, as appropriate, you may be asked to enter your: name or e-mail address. You may, however, visit our site anonymously. 
 
-Google, as a third party vendor, uses cookies to serve ads on your site. Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.. 
+Google, as a third party vendor, uses cookies to serve ads on your site. Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.. 
 
 **What do we use your information for?**
 
@@ -52,7 +52,7 @@ Occasionally, at our discretion, we may include or offer third party products or
 
 Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent. 
 
-As part of the California Online Privacy Protection Act, all users of our site may make any changes to their information at anytime by logging into their control panel and going to the ‘Edit Profile’ page. 
+As part of the California Online Privacy Protection Act, all users of our site may make any changes to their information at anytime by logging into their control panel and going to the 'Edit Profile' page. 
 
 **Online Privacy Policy Only**
 
