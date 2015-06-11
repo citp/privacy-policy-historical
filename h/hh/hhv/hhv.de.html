@@ -1,1429 +1,273 @@
-<!--The following is the downloaded HTML source of the hhv.de privacy policy that was archived on 2014-05-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140527163349id_/http%3A//www.hhv.de/shop/en/help/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the hhv.de privacy policy that was archived on 2015-06-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150611183749id_/http%3A//www.hhv.de/shop/en/help/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en"><!--<![endif]--><head>
-	<meta charset="utf-8">
-<script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1"></script><script async="" src="//connect.facebook.net/en_US/fbds.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-5.newrelic.com","errorBeacon":"jserror.newrelic.com","licenseKey":"20a46eb852","applicationID":"1120066","transactionName":"dVpWFUZZWFlQQEtVDxldXQ1EGVBaVkcJVQ9CaksJW0RA","queueTime":0,"applicationTime":404,"ttGuid":"","agentToken":null,"agent":"js-agent.newrelic.com/nr-411.min.js"}</script>
-<script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VgQFVVdVGwIBVlFSAQc="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e){function n(t,e,n){n||(n={});for(var r=o[t],a=r&&r.length||0,s=n[i]||(n[i]={}),u=0;a>u;u++)r[u].apply(s,e);return s}function r(t,e){var n=o[t]||(o[t]=[]);n.push(e)}var o={},i="nr@context";e.exports={on:r,emit:n}},{}],2:[function(t){function e(t,e,n,i,s){return u?u-=1:r("err",[s||new UncaughtException(t,e,n)]),"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t(5),a=window.onerror,s=!1,u=0;t("loader").features.push("err"),window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(d){"stack"in d&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(4),s=!0)}i.on("fn-start",function(){s&&(u+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&u>0&&(u-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:4,3:3,4:6,5:1,6:14,handle:"D5DuLP",loader:"G9z0Bl"}],3:[function(t){function e(t){r.inPlace(t,["addEventListener","removeEventListener"],"-",n)}function n(t){return t[1]}var r=t(1),o=(t(3),t(2));if(e(window),"getPrototypeOf"in Object){for(var i=document;i&&!i.hasOwnProperty("addEventListener");)i=Object.getPrototypeOf(i);i&&e(i);for(var a=XMLHttpRequest.prototype;a&&!a.hasOwnProperty("addEventListener");)a=Object.getPrototypeOf(a);a&&e(a)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&e(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=e["nr@wrapped"]?t[1]=e["nr@wrapped"]:e["nr@wrapped"]=t[1]=r(e,"fn-"):"function"==typeof e.handleEvent&&r.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:15,2:1,3:14}],4:[function(t){var e=(t(3),t(1)),n=t(2);e.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=e(t[0],"fn-")})},{1:15,2:1,3:14}],5:[function(t){function e(t){var e=t[0];"string"==typeof e&&(e=new Function(e)),t[0]=n(e,"fn-")}var n=(t(3),t(1)),r=t(2);n.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",e)},{1:15,2:1,3:14}],6:[function(t){function e(){o.inPlace(this,s,"fn-")}function n(t,e){o.inPlace(e,["onreadystatechange"],"fn-")}function r(t,e){return e}var o=t(1),i=t(2),a=window.XMLHttpRequest,s=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];window.XMLHttpRequest=function(t){var n=new a(t);try{i.emit("new-xhr",[],n),o.inPlace(n,["addEventListener","removeEventListener"],"-",function(t,e){return e}),n.addEventListener("readystatechange",e,!1)}catch(r){try{i.emit("internal-error",r)}catch(s){}}return n},window.XMLHttpRequest.prototype=a.prototype,o.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",r),i.on("send-xhr-start",n),i.on("open-xhr-start",n)},{1:15,2:1}],7:[function(t){function e(){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;u>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,d="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(d);if(f&&(r.rxSize=f),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}t("loader").features.push("xhr");var o=t("handle"),i=t(1),a=t(5),s=["load","error","abort","timeout"],u=s.length,d=t(2);t(3),t(4),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var d=e(o);d&&(r.txSize=d)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",e)}catch(r){}}};for(var f=0;u>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&e()},{1:8,2:11,3:3,4:6,5:1,handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e){var n=r[t];return n?n.apply(this,e):(o[t]||(o[t]=[]),void o[t].push(e))}var r={},o={};e.exports=n,n.queues=o,n.handlers=r},{}],11:[function(t,e){function n(t){if(!t||"object"!=typeof t&&"function"!=typeof t)return-1;if(t===window)return 0;if(o.call(t,"__nr"))return t.__nr;try{return Object.defineProperty(t,"__nr",{value:r,writable:!0,enumerable:!1}),r}catch(e){return t.__nr=r,r}finally{r+=1}}var r=1,o=Object.prototype.hasOwnProperty;e.exports=n},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&u&&u.body){p.proto="https"===c.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=u.createElement("script");e.src=p.proto+t.agent,u.body.appendChild(e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,u=s.document,d="addEventListener",f="attachEvent",c=(""+location).split("?")[0],p=e.exports={offset:i(),origin:c,features:[]};u[d]?(u[d]("DOMContentLoaded",o,!1),s[d]("load",n,!1)):(u[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],14:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],15:[function(t,e){function n(t,e,r,s){function nrWrapper(){try{var n,a=u(arguments),d=this,f=r&&r(a,d)||{}}catch(c){i([c,"",[a,d,s],f])}o(e+"start",[a,d,s],f);try{return n=t.apply(d,a)}catch(p){throw o(e+"err",[a,d,p],f),p}finally{o(e+"end",[a,d,n],f)}}return a(t)?t:(e||(e=""),nrWrapper[n.flag]=!0,nrWrapper)}function r(t,e,r,o){r||(r="");var i,s,u,d="-"===r.charAt(0);for(u=0;u<e.length;u++)s=e[u],i=t[s],a(i)||(t[s]=n(i,d?s+r:r,o,s,t))}function o(t,e,n){try{s.emit(t,e,n)}catch(r){i([r,t,e,n])}}function i(t){try{s.emit("internal-error",t)}catch(e){}}function a(t){return!(t&&"function"==typeof t&&t.apply&&!t[n.flag])}var s=t(1),u=t(2);e.exports=n,n.inPlace=r,n.flag="nr@wrapper"},{1:1,2:14}]},{},["G9z0Bl",2,7]);</script>
-	<meta name="author" content="www.hhv.de">
-	<meta name="description" content="Customer service help page that offers you all the information about &quot;Privacy&quot;.">
-	<meta name="keywords" content="hhv, hhv.de, hhvde, hiphopvinyl, records, vinyl, music, clothing, merchandise, underground, hip hop, rap, soul, funk, jazz, rare, second hand, used vinyl">
-	<meta name="p:domain_verify" content="97c14db48d439c50d845df4aef6c7e81">
-	<meta name="robots" content="index,follow">
-	
-	<title>Privacy | hhv.de | shop</title>
-	
+<!DOCTYPE html><html class=" js touch rgba cssgradients no-audio cors" lang="en"><!--<![endif]--><head>
+		<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<script src="https://js-agent.newrelic.com/nr-632.min.js"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"20a46eb852","applicationID":"1120066","transactionName":"dVpWFUZZWFlQQEtVDxldXQ1EGVBaVkcJVQ9CaksJW0RA","queueTime":0,"applicationTime":20,"agent":"js-agent.newrelic.com/nr-632.min.js"}</script>
+<script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VgQFVVdVGwIBVlFSAQc="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:23,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(5),window.onerror=e;try{throw new Error}catch(f){"stack"in f&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&t(4),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:10,2:9,3:7,4:11,5:3,6:24,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t){t("loader").features.ins=!0},{loader:"G9z0Bl"}],6:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(1),i=t(2);t("loader").features.stn=!0,t(3),n.on("fn-start",function(t){var e=t[0];e instanceof Event&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof Event&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),i.on("fn-start",function(){this.bstStart=Date.now()}),i.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1),window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:10,2:9,3:8,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],7:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:24,2:25,ee:"QJf3ax",gos:"7eSDFh"}],8:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState"],"-")},{1:25,2:24,ee:"QJf3ax"}],9:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:25,2:24,ee:"QJf3ax"}],10:[function(t,e){function n(t,e,n){t[0]=o(t[0],"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:25,2:24,ee:"QJf3ax"}],11:[function(t,e){function n(){f.inPlace(this,p,"fn-")}function r(t,e){f.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),f=c(a),u=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,f.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:7,2:25,ee:"QJf3ax"}],12:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=n(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(e.cat=d.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,o("xhr",[e,r,this.startTime])}}}function n(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=e,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,e){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=n(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{a.emit("internal-error",[n])}catch(r){}}};for(var u=0;c>u;u++)e.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:13,3:11,4:7,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],13:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],14:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:23,2:24,handle:"D5DuLP"}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info,e=f.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){e in t||(t[e]=n)});var n="https"===u.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=(t(2),window),f=c.document,u=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-632.min.js"},p=e.exports={offset:i(),origin:u,features:{}};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(f.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()])},{1:23,2:14,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],23:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],24:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],25:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:24,ee:"QJf3ax"}]},{},["G9z0Bl",4,12,6,5]);</script>
+
+
+<meta name="author" content="www.hhv.de">
+
+	<meta name="description" lang="de" content="Kundenservice Hilfeseite auf der du alle Informationen zum Thema &quot;Privacy&quot; findest.">
+	<meta name="description" lang="en" content="Customer service help page that offers you all the information about &quot;Privacy&quot;.">
+
+<meta name="viewport" content="width=1100">
+<meta name="p:domain_verify" content="97c14db48d439c50d845df4aef6c7e81">
+<meta name="robots" content="index,follow">
+<meta name="format-detection" content="telephone=no">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="hhv.de">
+<meta property="og:locale" content="en_US">
+<meta property="og:image" content="http://www.hhv.de/assets/logos/corporate/hhv_logo_2001x1221_0d0d0d-ebc4eef1154b215da1908aeb05f2d3c1.png">
+
+	<title>Privacy | hhv.de</title>
+
 	<link rel="alternate" hreflang="de" href="http://www.hhv.de/shop/de/hilfe/privacy">
 
 	<link rel="alternate" hreflang="en" href="http://www.hhv.de/shop/en/help/privacy">
 
 
-	<link rel="alternate" type="application/rss+xml" title="hhv.de news" href="http://www.hhv.de/shop/en/rss">
-	<link rel="apple-touch-icon" href="http://www.hhv.de/apple-touch-icon.png">
-	<link rel="apple-touch-icon-precomposed" href="http://www.hhv.de/apple-touch-icon-precomposed.png">
-	
-	<link href="/assets/default-e2e2b2b3d15e71fb88ce7e880e31f49e.css" media="screen" rel="stylesheet" type="text/css">
-	<meta content="authenticity_token" name="csrf-param">
-<meta content="coE/MSUdgQiudL2SMftRqyaq46V84pyX5bo2Hv2jVQs=" name="csrf-token">
+<link rel="alternate" type="application/rss+xml" title="hhv.de news" href="http://www.hhv.de/shop/en/rss">
 
-	<script type="text/javascript">
+<link rel="shortcut icon" href="http://www.hhv.de/favicon.ico">
+<link rel="apple-touch-icon-precomposed" sizes="152x152" href="http://www.hhv.de/apple-touch-icon-152x152-precomposed.png">
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://www.hhv.de/apple-touch-icon-144x144-precomposed.png">
+<link rel="apple-touch-icon-precomposed" sizes="120x120" href="http://www.hhv.de/apple-touch-icon-120x120-precomposed.png">
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://www.hhv.de/apple-touch-icon-114x114-precomposed.png">
+<link rel="apple-touch-icon-precomposed" sizes="76x76" href="http://www.hhv.de/apple-touch-icon-76x76-precomposed.png">
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://www.hhv.de/apple-touch-icon-72x72-precomposed.png">
+<link rel="apple-touch-icon-precomposed" href="http://www.hhv.de/apple-touch-icon-precomposed.png">
 
-	var _gaq = _gaq || [];
-	_gaq.push(['_require', 'inpage_linkid', '//www.google-analytics.com/plugins/ga/inpage_linkid.js']);
-	_gaq.push(['_setAccount', 'UA-87226-1']);
-	_gaq.push(['_trackPageview']);
-
-	(function() {
-		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-		ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
-		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-	})();
-</script>
-
-		<script type="text/javascript">
-		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-			(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-			m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-		})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-		ga('create', 'UA-87226-2', 'hhv.de');
-		ga('require', 'ecommerce', 'ecommerce.js');
-		ga('require', 'displayfeatures');
-		ga('require', 'linkid', 'linkid.js');
-		ga('send', 'pageview');
-	</script>
-
-	
-
-		<script type="text/javascript">
-		window.emosTrackVersion = 2;
-	</script>
-
-	<script type="text/javascript" src="http://www.hhv.de/emos2_cm49.3.js"></script>
-
-	<script type="text/javascript">
-		window.emosPropertiesEvent({
-langid: 'en',
-siteid: 'hhv.de',
-pageId: '13e4ae6abdba5fb871005ab33bdda725',
-content: '/shop/en/help/privacy'
-});
-	</script>
+<link href="/assets/default-30771df7c61bd978c3bc51ebf6ff4173.css" media="screen" rel="stylesheet" type="text/css">
+<meta content="authenticity_token" name="csrf-param">
+<meta content="NSkxeBMhOjI6urr/+YTsvNWtbG3vNYybprlKegA5hKw=" name="csrf-token">
 
 
-	
-	<script>(function() {
-		var _fbq = window._fbq || (window._fbq = []);
-		if (!_fbq.loaded) {
-			var fbds = document.createElement('script');
-			fbds.async = true;
-			fbds.src = '//connect.facebook.net/en_US/fbds.js';
-			var s = document.getElementsByTagName('script')[0];
-			s.parentNode.insertBefore(fbds, s);
-			_fbq.loaded = true;
-		}
-		_fbq.push(['addPixelId', '1493577127521018']);
-	})();
-	window._fbq = window._fbq || [];
-	window._fbq.push(['track', 'PixelInitialized', {}]);
-	</script>
-	<noscript><img height="1" width="1" border="0" alt="" style="display:none" src="https://www.facebook.com/tr?id=1493577127521018&ev=NoScript" /></noscript>
+	<style type="text/css">.fb_hidden{position:absolute;top:-10000px;z-index:10001}.fb_invisible{display:none}.fb_reset{background:none;border:0;border-spacing:0;color:#000;cursor:auto;direction:ltr;font-family:"lucida grande", tahoma, verdana, arial, sans-serif;font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:1;margin:0;overflow:visible;padding:0;text-align:left;text-decoration:none;text-indent:0;text-shadow:none;text-transform:none;visibility:visible;white-space:normal;word-spacing:normal}.fb_reset>div{overflow:hidden}.fb_link img{border:none}
+.fb_dialog{background:rgba(82, 82, 82, .7);position:absolute;top:-10000px;z-index:10001}.fb_reset .fb_dialog_legacy{overflow:visible}.fb_dialog_advanced{padding:10px;-moz-border-radius:8px;-webkit-border-radius:8px;border-radius:8px}.fb_dialog_content{background:#fff;color:#333}.fb_dialog_close_icon{background:url(http://static.ak.fbcdn.net/rsrc.php/v2/yq/r/IE9JII6Z1Ys.png) no-repeat scroll 0 0 transparent;_background-image:url(http://static.ak.fbcdn.net/rsrc.php/v2/yL/r/s816eWC-2sl.gif);cursor:pointer;display:block;height:15px;position:absolute;right:18px;top:17px;width:15px}.fb_dialog_mobile .fb_dialog_close_icon{top:5px;left:5px;right:auto}.fb_dialog_padding{background-color:transparent;position:absolute;width:1px;z-index:-1}.fb_dialog_close_icon:hover{background:url(http://static.ak.fbcdn.net/rsrc.php/v2/yq/r/IE9JII6Z1Ys.png) no-repeat scroll 0 -15px transparent;_background-image:url(http://static.ak.fbcdn.net/rsrc.php/v2/yL/r/s816eWC-2sl.gif)}.fb_dialog_close_icon:active{background:url(http://static.ak.fbcdn.net/rsrc.php/v2/yq/r/IE9JII6Z1Ys.png) no-repeat scroll 0 -30px transparent;_background-image:url(http://static.ak.fbcdn.net/rsrc.php/v2/yL/r/s816eWC-2sl.gif)}.fb_dialog_loader{background-color:#f6f7f8;border:1px solid #606060;font-size:24px;padding:20px}.fb_dialog_top_left,.fb_dialog_top_right,.fb_dialog_bottom_left,.fb_dialog_bottom_right{height:10px;width:10px;overflow:hidden;position:absolute}.fb_dialog_top_left{background:url(http://static.ak.fbcdn.net/rsrc.php/v2/ye/r/8YeTNIlTZjm.png) no-repeat 0 0;left:-10px;top:-10px}.fb_dialog_top_right{background:url(http://static.ak.fbcdn.net/rsrc.php/v2/ye/r/8YeTNIlTZjm.png) no-repeat 0 -10px;right:-10px;top:-10px}.fb_dialog_bottom_left{background:url(http://static.ak.fbcdn.net/rsrc.php/v2/ye/r/8YeTNIlTZjm.png) no-repeat 0 -20px;bottom:-10px;left:-10px}.fb_dialog_bottom_right{background:url(http://static.ak.fbcdn.net/rsrc.php/v2/ye/r/8YeTNIlTZjm.png) no-repeat 0 -30px;right:-10px;bottom:-10px}.fb_dialog_vert_left,.fb_dialog_vert_right,.fb_dialog_horiz_top,.fb_dialog_horiz_bottom{position:absolute;background:#525252;filter:alpha(opacity=70);opacity:.7}.fb_dialog_vert_left,.fb_dialog_vert_right{width:10px;height:100%}.fb_dialog_vert_left{margin-left:-10px}.fb_dialog_vert_right{right:0;margin-right:-10px}.fb_dialog_horiz_top,.fb_dialog_horiz_bottom{width:100%;height:10px}.fb_dialog_horiz_top{margin-top:-10px}.fb_dialog_horiz_bottom{bottom:0;margin-bottom:-10px}.fb_dialog_iframe{line-height:0}.fb_dialog_content .dialog_title{background:#6d84b4;border:1px solid #3a5795;color:#fff;font-size:14px;font-weight:bold;margin:0}.fb_dialog_content .dialog_title>span{background:url(http://static.ak.fbcdn.net/rsrc.php/v2/yd/r/Cou7n-nqK52.gif) no-repeat 5px 50%;float:left;padding:5px 0 7px 26px}body.fb_hidden{-webkit-transform:none;height:100%;margin:0;overflow:visible;position:absolute;top:-10000px;left:0;width:100%}.fb_dialog.fb_dialog_mobile.loading{background:url(http://static.ak.fbcdn.net/rsrc.php/v2/ya/r/3rhSv5V8j3o.gif) white no-repeat 50% 50%;min-height:100%;min-width:100%;overflow:hidden;position:absolute;top:0;z-index:10001}.fb_dialog.fb_dialog_mobile.loading.centered{max-height:590px;min-height:590px;max-width:500px;min-width:500px}#fb-root #fb_dialog_ipad_overlay{background:rgba(0, 0, 0, .45);position:absolute;left:0;top:0;width:100%;min-height:100%;z-index:10000}#fb-root #fb_dialog_ipad_overlay.hidden{display:none}.fb_dialog.fb_dialog_mobile.loading iframe{visibility:hidden}.fb_dialog_content .dialog_header{-webkit-box-shadow:white 0 1px 1px -1px inset;background:-webkit-gradient(linear, 0% 0%, 0% 100%, from(#738ABA), to(#2C4987));border-bottom:1px solid;border-color:#1d4088;color:#fff;font:14px Helvetica, sans-serif;font-weight:bold;text-overflow:ellipsis;text-shadow:rgba(0, 30, 84, .296875) 0 -1px 0;vertical-align:middle;white-space:nowrap}.fb_dialog_content .dialog_header table{-webkit-font-smoothing:subpixel-antialiased;height:43px;width:100%}.fb_dialog_content .dialog_header td.header_left{font-size:12px;padding-left:5px;vertical-align:middle;width:60px}.fb_dialog_content .dialog_header td.header_right{font-size:12px;padding-right:5px;vertical-align:middle;width:60px}.fb_dialog_content .touchable_button{background:-webkit-gradient(linear, 0% 0%, 0% 100%, from(#4966A6), color-stop(.5, #355492), to(#2A4887));border:1px solid #2f477a;-webkit-background-clip:padding-box;-webkit-border-radius:3px;-webkit-box-shadow:rgba(0, 0, 0, .117188) 0 1px 1px inset, rgba(255, 255, 255, .167969) 0 1px 0;display:inline-block;margin-top:3px;max-width:85px;line-height:18px;padding:4px 12px;position:relative}.fb_dialog_content .dialog_header .touchable_button input{border:none;background:none;color:#fff;font:12px Helvetica, sans-serif;font-weight:bold;margin:2px -12px;padding:2px 6px 3px 6px;text-shadow:rgba(0, 30, 84, .296875) 0 -1px 0}.fb_dialog_content .dialog_header .header_center{color:#fff;font-size:16px;font-weight:bold;line-height:18px;text-align:center;vertical-align:middle}.fb_dialog_content .dialog_content{background:url(http://static.ak.fbcdn.net/rsrc.php/v2/y9/r/jKEcVPZFk-2.gif) no-repeat 50% 50%;border:1px solid #555;border-bottom:0;border-top:0;height:150px}.fb_dialog_content .dialog_footer{background:#f6f7f8;border:1px solid #555;border-top-color:#ccc;height:40px}#fb_dialog_loader_close{float:left}.fb_dialog.fb_dialog_mobile .fb_dialog_close_button{text-shadow:rgba(0, 30, 84, .296875) 0 -1px 0}.fb_dialog.fb_dialog_mobile .fb_dialog_close_icon{visibility:hidden}
+.fb_iframe_widget{display:inline-block;position:relative}.fb_iframe_widget span{display:inline-block;position:relative;text-align:justify}.fb_iframe_widget iframe{position:absolute}.fb_iframe_widget_fluid_desktop,.fb_iframe_widget_fluid_desktop span,.fb_iframe_widget_fluid_desktop iframe{max-width:100%}.fb_iframe_widget_fluid_desktop iframe{min-width:220px;position:relative}.fb_iframe_widget_lift{z-index:1}.fb_hide_iframes iframe{position:relative;left:-10000px}.fb_iframe_widget_loader{position:relative;display:inline-block}.fb_iframe_widget_fluid{display:inline}.fb_iframe_widget_fluid span{width:100%}.fb_iframe_widget_loader iframe{min-height:32px;z-index:2;zoom:1}.fb_iframe_widget_loader .FB_Loader{background:url(http://static.ak.fbcdn.net/rsrc.php/v2/y9/r/jKEcVPZFk-2.gif) no-repeat;height:32px;width:32px;margin-left:-16px;position:absolute;left:50%;z-index:4}</style></head>
 
-</head>
-
-<body class="en">
-	<div id="container">
-		<div id="header">
-	<div class="upper">	
-		<a href="http://www.hhv.de/shop/en" class="logo"></a>
+	<body class="en help document_short document privacy" data-controller="en_help_document_short">
 		
-		<div class="segment language_switch_search">
-			<div class="search">
-				<form accept-charset="UTF-8" action="https://www.hhv.de/shop/en/search" class="formtastic search" id="new_search" method="post" novalidate="novalidate"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"><input name="authenticity_token" type="hidden" value="coE/MSUdgQiudL2SMftRqyaq46V84pyX5bo2Hv2jVQs="></div>
-					<fieldset class="inputs"><ol>
-						<li class="string input optional stringish" id="search_term_input"><input id="search_term" name="search[term]" placeholder="Search ..." type="text">
-
-</li>
-</ol></fieldset>					
-					<fieldset class="actions"><ol>
-						<li class="action input_action " id="search_submit_action"><input name="commit" type="submit" value=""></li>
-</ol></fieldset></form>			</div>
-			
-			<div class="language_switch clearfix">
-				<div class="text">Language:</div>
-				
-				<a href="http://www.hhv.de/shop/de/hilfe/privacy" class="flag de" title="Deutsch"></a>
-				<a href="http://www.hhv.de/shop/en/help/privacy" class="flag en" title="English"></a>
-			</div>
-		</div>
-		
-		<div class="facebook">
-			<a href="http://www.facebook.com/hhv.de" class="title" rel="external">hhv.de on Facebook</a>
-
-			<div class="fb-like" data-href="http://www.facebook.com/hhv.de" data-send="false" data-layout="button_count" data-width="150" data-show-faces="false" data-font="arial" data-colorscheme="dark"></div>
-		</div>
-		
-		<div class="segment profile">
-			<a href="https://www.hhv.de/shop/en/profile" class="title logged_in hidden">My Account</a>
-			<a href="https://www.hhv.de/shop/en/profile/login" class="title not_logged_in hidden">My Account</a>
-			
-			<a href="https://www.hhv.de/shop/en/profile" class="name hidden"></a>
-			
-			<a href="https://www.hhv.de/shop/en/profile/logout" class="sign off hidden" data-method="post" rel="nofollow">Logout</a>
-			<a href="https://www.hhv.de/shop/en/profile/login" class="sign on hidden">Login</a>
-		</div>
-		
-		<div class="segment wishlist">
-			<a href="https://www.hhv.de/shop/en/profile/wishlist" class="title">Wishlist</a>
-
-			<a href="https://www.hhv.de/shop/en/profile/wishlist" class="items single hidden">1 Item</a>
-			<a href="https://www.hhv.de/shop/en/profile/wishlist" class="items multiple hidden">XXX Items</a>
-		</div>
-		
-		<div class="segment cart">
-			<a href="https://www.hhv.de/shop/en/cart" class="items single hidden">1 Item</a>
-			<a href="https://www.hhv.de/shop/en/cart" class="items multiple hidden">XXX Items</a>
-			
-			<div class="value hidden">
-				<a href="https://www.hhv.de/shop/en/cart" class="euro"></a>
-				<span class="separator">/</span>
-				<a href="https://www.hhv.de/shop/en/cart" class="bonus_coins">XXX Bonus Coins</a>
+<div id="header">
+	<div class="top">
+		<div class="inset">
+			<div class="corporate_links default">
+				<span class="separator"></span>
+				<a href="http://www.hhv-mag.com/" class="mag" target="_blank">hhv.de mag</a>
+				<span class="separator"></span>
+				<a href="http://www.hhv.de/shop/en/store" class="store">hhv.de Store</a>
+				<span class="separator"></span>
+				<a href="/shop/en/hhv-de-label/p:voCcFa" class="label">hhv.de Label</a>
+				<span class="separator"></span>
+				<a href="http://www.facebook.com/hhv.de" class="facebook" target="_blank">hhv.de bei</a>
+				<span class="separator"></span>
+				<a href="/shop/en/gift-coupons/p:wZD06b">Gift Coupons</a>
+				<span class="separator"></span>
 			</div>
 
-			<a href="https://www.hhv.de/shop/en/cart" class="title hidden">Cart</a>
-			<a href="https://www.hhv.de/shop/en/cart" class="cart">To Cart</a>
-		</div>
-	</div>
-
-	<div class="navigation">
-	<div class="anchors clearfix">
-		<a href="" class="news" data-flyout-anchor="top_navigation_news"></a>
-		
-		<div class="separator dark"></div>
-		<div class="separator bright"></div>
-		
-		<a href="" class="top100" data-flyout-anchor="top_navigation_top_100"></a>
-		
-		<div class="separator dark"></div>
-		<div class="separator bright"></div>
-		
-		<a href="http://www.hhv.de/shop/en/music" class="music" data-flyout-anchor="top_navigation_music"></a>
-		
-		<div class="separator dark"></div>
-		<div class="separator bright"></div>
-		
-		<a href="http://www.hhv.de/shop/en/merchandise" class="merchandise" data-flyout-anchor="top_navigation_merchandise"></a>
-		
-		<div class="separator dark"></div>
-		<div class="separator bright"></div>
-	
-		<a href="http://www.hhv.de/shop/en/clothing" class="clothing" data-flyout-anchor="top_navigation_clothing"></a>
-		
-		<div class="separator dark"></div>
-		<div class="separator bright"></div>
-		
-		<a href="http://www.hhv.de/shop/en/shoes" class="shoes" data-flyout-anchor="top_navigation_shoes"></a>
-		
-		<div class="separator dark"></div>
-		<div class="separator bright"></div>
-			
-		<a href="http://www.hhv.de/shop/en/print-and-design" class="print_design" data-flyout-anchor="top_navigation_print_design" title="Print &amp; Design"></a>
-		
-		<div class="separator dark"></div>
-		<div class="separator bright"></div>
-			
-		<a href="http://www.hhv.de/shop/en/equipment" class="equipment" data-flyout-anchor="top_navigation_equipment"></a>
-		
-		<div class="separator dark"></div>
-		<div class="separator bright"></div>
-		
-		<a href="http://www.hhv.de/shop/en/sale" class="sale" data-flyout-anchor="top_navigation_sale"></a>
-	</div>
-	
-	
-<div data-flyout="top_navigation_news" data-flyout-close-callback="top_navigation_close_flyout" data-flyout-open-callback="top_navigation_open_flyout" class="top_navigation_flyout hidden">
-	<div class="cols clearfix">
-		<div class="col wide">
-			<div class="segment">
-				<div class="title">
-					<a href="http://www.hhv.de/shop/en/music/all/sort:N">Music – New In Stock</a>
-				</div>
-				
-				<div class="list">
-					<a href="http://www.hhv.de/shop/en/music/all/sort:N" class="entry">All Genres</a>
-					<a href="http://www.hhv.de/shop/en/music/hip-hop/g:59/sort:N" class="entry">Hip Hop</a>
-					<a href="http://www.hhv.de/shop/en/music/german-hip-hop/g:60/sort:N" class="entry">German Hip Hop</a>
-					<a href="http://www.hhv.de/shop/en/music/organic-grooves/g:62/sort:N" class="entry">Organic Grooves</a>
-					<a href="http://www.hhv.de/shop/en/music/electronic-dance/g:64/sort:N" class="entry">Electronic / Dance</a>
-					<a href="http://www.hhv.de/shop/en/music/rock-indie/g:63/sort:N" class="entry">Rock / Indie</a>
-					<a href="http://www.hhv.de/shop/en/music/reggae-dancehall/g:83/sort:N" class="entry">Reggae / Dancehall</a>
-					<span class="entry no_hover">&nbsp;</span>
-					<a href="http://www.hhv.de/shop/en/music/all/sort:N" class="entry">... all Genres</a>
-				</div>
-			</div>
-		</div>
-		
-		<div class="col joint wide">
-			<div class="segment">
-				<div class="title">
-					&nbsp;
-				</div>
-				
-				
-				<div class="list">
-					<a href="http://www.hhv.de/shop/en/music/all/sort:N" class="entry">All</a>
-					<a href="http://www.hhv.de/shop/en/music/all/nis:1/sort:a" class="entry">Today</a>
-					<a href="http://www.hhv.de/shop/en/music/all/nis:2/sort:a" class="entry">Today and Yesterday</a>
-					<a href="http://www.hhv.de/shop/en/music/all/nis:5/sort:a" class="entry">Last 5 Days</a>
-					<a href="http://www.hhv.de/shop/en/music/all/nis:7/sort:a" class="entry">Last Week</a>
-					<a href="http://www.hhv.de/shop/en/music/all/nis:14/sort:a" class="entry">Last 2 Weeks</a>
-					<a href="http://www.hhv.de/shop/en/music/all/nis:30/sort:a" class="entry">Last 4 Weeks</a>
-					<span class="entry no_hover">&nbsp;</span>
-					<a href="http://www.hhv.de/shop/en/music?show=nis#overview" class="entry">... go to Overview</a>
-				</div>
-			</div>
-		</div>
-		
-		<div class="col wide">
-			<div class="segment">
-				<div class="title">
-					<a href="http://www.hhv.de/shop/en/music/all/no-used-vinyl/sort:C">Music – Back In Stock</a>
-				</div>
-				
-				
-				<div class="list">
-					<a href="http://www.hhv.de/shop/en/music/all/no-used-vinyl/sort:C" class="entry">All</a>
-					<a href="http://www.hhv.de/shop/en/music/all/no-used-vinyl/bis:1/sort:a" class="entry">Today</a>
-					<a href="http://www.hhv.de/shop/en/music/all/no-used-vinyl/bis:2/sort:a" class="entry">Today and Yesterday</a>
-					<a href="http://www.hhv.de/shop/en/music/all/no-used-vinyl/bis:5/sort:a" class="entry">Last 5 Days</a>
-					<a href="http://www.hhv.de/shop/en/music/all/no-used-vinyl/bis:7/sort:a" class="entry">Last Week</a>
-					<a href="http://www.hhv.de/shop/en/music/all/no-used-vinyl/bis:14/sort:a" class="entry">Last 2 Weeks</a>
-					<a href="http://www.hhv.de/shop/en/music/all/no-used-vinyl/bis:30/sort:a" class="entry">Last 4 Weeks</a>
-					<span class="entry no_hover">&nbsp;</span>
-					<a href="http://www.hhv.de/shop/en/music?show=bis#overview" class="entry">... go to Overview</a>
-				</div>
-			</div>
-		</div>
-
-		<div class="col wide">
-			<div class="segment">
-				<div class="title">
-					<a href="http://www.hhv.de/shop/en/music/all/used-vinyl/sort:C">Music – Used Vinyl</a>
-				</div>
-
-
-				<div class="list">
-					<a href="http://www.hhv.de/shop/en/music/all/used-vinyl/sort:C" class="entry">All</a>
-						<a href="http://www.hhv.de/shop/en/music/all/used-vinyl/bis:1/sort:a" class="entry">Today</a>
-						<a href="http://www.hhv.de/shop/en/music/all/used-vinyl/bis:2/sort:a" class="entry">Today and Yesterday</a>
-						<a href="http://www.hhv.de/shop/en/music/all/used-vinyl/bis:5/sort:a" class="entry">Last 5 Days</a>
-						<a href="http://www.hhv.de/shop/en/music/all/used-vinyl/bis:7/sort:a" class="entry">Last Week</a>
-						<a href="http://www.hhv.de/shop/en/music/all/used-vinyl/bis:14/sort:a" class="entry">Last 2 Weeks</a>
-						<a href="http://www.hhv.de/shop/en/music/all/used-vinyl/bis:30/sort:a" class="entry">Last 4 Weeks</a>
-					<span class="entry no_hover">&nbsp;</span>
-					<a href="http://www.hhv.de/shop/en/music?show=uv#overview" class="entry">... go to Overview</a>
-				</div>
-			</div>
-		</div>
-		
-		<div class="col wide">
-			<div class="segment">
-				<div class="title">
-					Further Categories
-				</div>
-				
-				<div class="list">
-					<a href="http://www.hhv.de/shop/en/clothing/all" class="entry">Clothing</a>
-					<a href="http://www.hhv.de/shop/en/clothing/men/c:431" class="entry">Clothing Men</a>
-					<a href="http://www.hhv.de/shop/en/clothing/women/c:432" class="entry">Clothing Women</a>
-					<a href="http://www.hhv.de/shop/en/shoes/all" class="entry">Shoes</a>
-					<a href="http://www.hhv.de/shop/en/shoes/men/c:416" class="entry">Shoes Men</a>
-					<a href="http://www.hhv.de/shop/en/shoes/women/c:417" class="entry">Shoes Women</a>
-					<a href="http://www.hhv.de/shop/en/print-and-design/all" class="entry">Print &amp; Design</a>
-					<a href="http://www.hhv.de/shop/en/merchandise/all/sort:N" class="entry">Merchandise</a>
-					<a href="http://www.hhv.de/shop/en/equipment/all/sort:N" class="entry">Equipment</a>
-				</div>
-			</div>
-		</div>
-	</div>
-	
-	<div class="arrow"></div>
-</div>
-<div data-flyout="top_navigation_top_100" data-flyout-close-callback="top_navigation_close_flyout" data-flyout-open-callback="top_navigation_open_flyout" class="top_navigation_flyout hidden">
-	<div class="cols clearfix">
-		<div class="col wide">
-			<div class="segment">
-				<div class="title">
-					<a href="http://www.hhv.de/shop/en/top100/music">Music</a>
-				</div>
-				
-				<div class="list">
-					<a href="http://www.hhv.de/shop/en/top100/music" class="entry">All Genres</a>
-					<a href="http://www.hhv.de/shop/en/top100/music/hip-hop" class="entry">Hip Hop</a>
-					<a href="http://www.hhv.de/shop/en/top100/music/german-hip-hop" class="entry">German Hip Hop</a>
-					<a href="http://www.hhv.de/shop/en/top100/music/organic-grooves" class="entry">Organic Grooves</a>
-					<a href="http://www.hhv.de/shop/en/top100/music/electronic-dance" class="entry">Electronic / Dance</a>
-					<a href="http://www.hhv.de/shop/en/top100/music/rock-indie" class="entry">Rock / Indie</a>
-					<a href="http://www.hhv.de/shop/en/top100/music/reggae-dancehall" class="entry">Reggae / Dancehall</a>
-					<span class="entry no_hover">&nbsp;</span>
-					<a href="http://www.hhv.de/shop/en/top100/music" class="entry">... all Genres</a>
-				</div>
-			</div>
-		</div>
-		
-		<div class="col wide">
-			<div class="segment">
-				<div class="title">
-					Further Categories
-				</div>
-				
-				<div class="list">
-					<a href="http://www.hhv.de/shop/en/top100/clothing" class="entry">Clothing</a>
-					<a href="http://www.hhv.de/shop/en/top100/clothing-men" class="entry">Clothing Men</a>
-					<a href="http://www.hhv.de/shop/en/top100/clothing-women" class="entry">Clothing Women</a>
-					<a href="http://www.hhv.de/shop/en/top100/shoes" class="entry">Shoes</a>
-					<a href="http://www.hhv.de/shop/en/top100/shoes-men" class="entry">Shoes Men</a>
-					<a href="http://www.hhv.de/shop/en/top100/shoes-women" class="entry">Shoes Women</a>
-					<a href="http://www.hhv.de/shop/en/top100/print-and-design" class="entry">Print &amp; Design</a>
-					<a href="http://www.hhv.de/shop/en/top100/merchandise" class="entry">Merchandise</a>
-					<a href="http://www.hhv.de/shop/en/top100/equipment" class="entry">Equipment</a>
-				</div>
-			</div>
-		</div>
-
-		<div class="col wide">
-			<div class="segment">
-				<div class="title">
-					hhv.de Music Topseller
-				</div>
-
-				<div class="list">
-					<a href="http://www.hhv.de/shop/en/top100/music-2013" class="entry">Top 100 of 2013</a>
-					<a href="http://www.hhv.de/shop/en/top100/music-2012" class="entry">Top 100 of 2012</a>
-					<span class="entry no_hover">&nbsp;</span>
-				</div>
-			</div>
-
-			<div class="segment mag">
-				<div class="title">
-					hhv.de mag Charts
-				</div>
-
-				<div class="list">
-					<a href="http://www.hhv.de/shop/en/top100/hhv-de-mag-users-rating-vinyl-charts" class="entry">User's Rating Vinyl Charts</a>
-					<a href="http://www.hhv.de/shop/en/top100/hhv-de-mag-editors-rating-vinyl-charts" class="entry">Editors's Rating Vinyl Charts</a>
-					<a href="http://www.hhv.de/shop/en/top100/hhv-de-mag-artist-vinyl-charts" class="entry">Artist &amp; Partner Vinyl Charts</a>
-				</div>
-			</div>
-		</div>
-	</div>
-	
-	<div class="arrow"></div>
-</div>
-<div data-flyout="top_navigation_sale" data-flyout-close-callback="top_navigation_close_flyout" data-flyout-open-callback="top_navigation_open_flyout" class="top_navigation_flyout hidden">
-	<div class="cols clearfix">
-		<div class="col wide">
-			<div class="segment">
-				<div class="title">
-					<a href="http://www.hhv.de/shop/en/sale">Categories</a>
-				</div>
-				
-				<div class="list">
-					<a href="http://www.hhv.de/shop/en/music/all/sale" class="entry">Music</a>
-					<a href="http://www.hhv.de/shop/en/clothing/all/sale/sort:S" class="entry">Clothing</a>
-					<a href="http://www.hhv.de/shop/en/clothing/men/sale/c:431/sort:S" class="entry">Clothing Men</a>
-					<a href="http://www.hhv.de/shop/en/clothing/women/sale/c:432/sort:S" class="entry">Clothing Women</a>
-					<a href="http://www.hhv.de/shop/en/shoes/all/sale/sort:S" class="entry">Shoes</a>
-					<a href="http://www.hhv.de/shop/en/shoes/men/sale/c:416/sort:S" class="entry">Shoes Men</a>
-					<a href="http://www.hhv.de/shop/en/shoes/women/sale/c:417/sort:S" class="entry">Shoes Women</a>
-					<a href="http://www.hhv.de/shop/en/print-and-design/all/sale/sort:S" class="entry">Print &amp; Design</a>
-					<a href="http://www.hhv.de/shop/en/merchandise/all/sale" class="entry">Merchandise</a>
-					<a href="http://www.hhv.de/shop/en/equipment/all/sale" class="entry">Equipment</a>
-				</div>
-			</div>
-		</div>
-	</div>
-	
-	<div class="arrow"></div>
-</div>
-<div data-flyout="top_navigation_music" data-flyout-close-callback="top_navigation_close_flyout" data-flyout-open-callback="top_navigation_open_flyout" class="top_navigation_flyout hidden">
-	<div class="cols clearfix">
-		<div class="col">
-			<div class="segment">
-				<div class="title">
-					<a href="http://www.hhv.de/shop/en/music/all">Genres</a>
-				</div>
-				
-				<div class="list">
-					<a href="http://www.hhv.de/shop/en/music/hip-hop/g:59" class="entry">Hip Hop</a>
-					<a href="http://www.hhv.de/shop/en/music/german-hip-hop/g:60" class="entry">German Hip Hop</a>
-					<a href="http://www.hhv.de/shop/en/music/organic-grooves/g:62" class="entry">Organic Grooves</a>
-					<a href="http://www.hhv.de/shop/en/music/electronic-dance/g:64" class="entry">Electronic / Dance</a>
-					<a href="http://www.hhv.de/shop/en/music/rock-indie/g:63" class="entry">Rock / Indie</a>
-					<a href="http://www.hhv.de/shop/en/music/reggae-dancehall/g:83" class="entry">Reggae / Dancehall</a>
-					<a href="http://www.hhv.de/shop/en/music/pop/g:142" class="entry">Pop</a>
-					<a href="http://www.hhv.de/shop/en/music/classical-music/g:298" class="entry">Classical Music</a>
-					<a href="http://www.hhv.de/shop/en/music/all" class="entry">... all Genres</a>
-				</div>
-			</div>
-		</div>
-		
-		<div class="col formats">
-			<div class="segment">
-				<div class="title">
-					<a href="http://www.hhv.de/shop/en/music/all">Formats</a>
-				</div>
-				
-				<div class="list">
-					<a href="http://www.hhv.de/shop/en/music/all/f:65" class="entry">Vinyl</a>
-					<a href="http://www.hhv.de/shop/en/music/all/f:70" class="entry">LP</a>
-					<a href="http://www.hhv.de/shop/en/music/all/f:67" class="entry">7"</a>
-					<a href="http://www.hhv.de/shop/en/music/all/f:68" class="entry">10"</a>
-					<a href="http://www.hhv.de/shop/en/music/all/f:69" class="entry">12"</a>
-					<a href="http://www.hhv.de/shop/en/music/all/f:71" class="entry">CD</a>
-					<a href="http://www.hhv.de/shop/en/music/all/f:74" class="entry">Tape</a>
-					<a href="http://www.hhv.de/shop/en/music/all/f:362" class="entry">DVD</a>
-					<a href="http://www.hhv.de/shop/en/music/all" class="entry">... all Formats</a>
-				</div>
-			</div>
-		</div>
-		
-		<div class="col">
-			<div class="segment">
-				<div class="title">
-					<a href="http://www.hhv.de/shop/en/music/all/sort:N">New In Stock</a>
-				</div>
-				
-				
-				<div class="list">
-					<a href="http://www.hhv.de/shop/en/music/all/sort:N" class="entry">All</a>
-					<a href="http://www.hhv.de/shop/en/music/all/nis:1/sort:a" class="entry">Today</a>
-					<a href="http://www.hhv.de/shop/en/music/all/nis:2/sort:a" class="entry">Today and Yesterday</a>
-					<a href="http://www.hhv.de/shop/en/music/all/nis:5/sort:a" class="entry">Last 5 Days</a>
-					<a href="http://www.hhv.de/shop/en/music/all/nis:7/sort:a" class="entry">Last Week</a>
-					<a href="http://www.hhv.de/shop/en/music/all/nis:14/sort:a" class="entry">Last 2 Weeks</a>
-					<a href="http://www.hhv.de/shop/en/music/all/nis:30/sort:a" class="entry">Last 4 Weeks</a>
-					<span class="entry no_hover">&nbsp;</span>
-					<a href="http://www.hhv.de/shop/en/music?show=nis#overview" class="entry">... go to Overview</a>
-				</div>
-			</div>
-		</div>
-		
-		<div class="col">
-			<div class="segment">
-				<div class="title">
-					<a href="http://www.hhv.de/shop/en/music/all/no-used-vinyl/sort:C">Back In Stock</a>
-				</div>
-				
-				
-				<div class="list">
-					<a href="http://www.hhv.de/shop/en/music/all/no-used-vinyl/sort:C" class="entry">All</a>
-					<a href="http://www.hhv.de/shop/en/music/all/no-used-vinyl/bis:1/sort:a" class="entry">Today</a>
-					<a href="http://www.hhv.de/shop/en/music/all/no-used-vinyl/bis:2/sort:a" class="entry">Today and Yesterday</a>
-					<a href="http://www.hhv.de/shop/en/music/all/no-used-vinyl/bis:5/sort:a" class="entry">Last 5 Days</a>
-					<a href="http://www.hhv.de/shop/en/music/all/no-used-vinyl/bis:7/sort:a" class="entry">Last Week</a>
-					<a href="http://www.hhv.de/shop/en/music/all/no-used-vinyl/bis:14/sort:a" class="entry">Last 2 Weeks</a>
-					<a href="http://www.hhv.de/shop/en/music/all/no-used-vinyl/bis:30/sort:a" class="entry">Last 4 Weeks</a>
-					<span class="entry no_hover">&nbsp;</span>
-					<a href="http://www.hhv.de/shop/en/music?show=bis#overview" class="entry">... go to Overview</a>
-				</div>
-			</div>
-		</div>
-
-		<div class="col">
-			<div class="segment">
-				<div class="title">
-					<a href="http://www.hhv.de/shop/en/music/all/used-vinyl/sort:C">Used Vinyl</a>
-				</div>
-
-
-				<div class="list">
-					<a href="http://www.hhv.de/shop/en/music/all/used-vinyl/sort:C" class="entry">All</a>
-						<a href="http://www.hhv.de/shop/en/music/all/used-vinyl/bis:1/sort:a" class="entry">Today</a>
-						<a href="http://www.hhv.de/shop/en/music/all/used-vinyl/bis:2/sort:a" class="entry">Today and Yesterday</a>
-						<a href="http://www.hhv.de/shop/en/music/all/used-vinyl/bis:5/sort:a" class="entry">Last 5 Days</a>
-						<a href="http://www.hhv.de/shop/en/music/all/used-vinyl/bis:7/sort:a" class="entry">Last Week</a>
-						<a href="http://www.hhv.de/shop/en/music/all/used-vinyl/bis:14/sort:a" class="entry">Last 2 Weeks</a>
-						<a href="http://www.hhv.de/shop/en/music/all/used-vinyl/bis:30/sort:a" class="entry">Last 4 Weeks</a>
-					<span class="entry no_hover">&nbsp;</span>
-					<a href="http://www.hhv.de/shop/en/music?show=uv#overview" class="entry">... go to Overview</a>
-				</div>
-			</div>
-		</div>
-		
-		<div class="col narrow">
-			<div class="segment sale">
-				<div class="title">
-					<a href="http://www.hhv.de/shop/en/music/all/sale">Sale</a>
-				</div>
-				
-				<div class="list clearfix">
-					<a href="http://www.hhv.de/shop/en/music/all/sale" class="entry">All</a>
-					<a href="http://www.hhv.de/shop/en/music/all/sale/ss:0-30" class="entry">0 - 30 %</a>
-					<a href="http://www.hhv.de/shop/en/music/all/sale/ss:30-50" class="entry">30 - 50 %</a>
-					<a href="http://www.hhv.de/shop/en/music/all/sale/ss:50-*" class="entry">More than 50 %</a>
-					<span class="entry no_hover">&nbsp;</span>
-				</div>
-			</div>
-			
-			<div class="segment">
-				<div class="title">
-					&nbsp;
-				</div>
-				
-				<div class="list">
-					<a href="http://www.hhv.de/shop/en/music/all" class="entry">Topseller</a>
-					<a href="http://www.hhv.de/shop/en/top100/music" class="entry">Top 100</a>
-				</div>
-			</div>
-		</div>
-		
-		<div class="col">
-			<div class="segment flags">
-				<div class="title">
-					&nbsp;
-				</div>
-				
-				<div class="list">
-					<a href="http://www.hhv.de/shop/en/music/all/bo:1" class="entry bonus_coins">Bonus Coins</a>
-					<a href="http://www.hhv.de/shop/en/music/all/sd:1" class="entry special_deal">Special Deals</a>
-					<a href="http://www.hhv.de/shop/en/music/all/used-vinyl/sort:C" class="entry used_vinyl">Used Vinyl</a>
-					<a href="http://www.hhv.de/shop/en/music/all/preorder" class="entry preorder">Preorder</a>
-				</div>
-			</div>
-		</div>
-	</div>
-	
-	<div class="arrow"></div>
-</div>
-
-<div data-flyout="top_navigation_clothing" data-flyout-close-callback="top_navigation_close_flyout" data-flyout-open-callback="top_navigation_open_flyout" class="top_navigation_flyout hidden">
-	<div class="cols clearfix">
-		<div class="col wide">
-			<div class="segment">
-				<div class="title">
-					<a href="http://www.hhv.de/shop/en/clothing/men/c:431">Men</a>
-				</div>
-
-				<div class="list">
-					<a href="http://www.hhv.de/shop/en/clothing/men-accessories/c:113" class="entry">Accessories</a>
-					<a href="http://www.hhv.de/shop/en/clothing/men-bags/c:144" class="entry">Bags</a>
-					<a href="http://www.hhv.de/shop/en/clothing/men-headgear/c:78" class="entry">Headgear</a>
-					<a href="http://www.hhv.de/shop/en/clothing/men-hooded-sweater/c:86" class="entry">Hooded Sweater</a>
-					<a href="http://www.hhv.de/shop/en/clothing/men-jackets/c:122" class="entry">Jackets</a>
-					<a href="http://www.hhv.de/shop/en/clothing/men-knitwear/c:175" class="entry">Knitwear</a>
-					<a href="http://www.hhv.de/shop/en/clothing/men-long-sleeves/c:87" class="entry">Long Sleeves</a>
-					<a href="http://www.hhv.de/shop/en/clothing/men-pants/c:129" class="entry">Pants</a>
-					<a href="http://www.hhv.de/shop/en/clothing/men-polo-shirts/c:127" class="entry">Polo Shirts</a>
-					<a href="http://www.hhv.de/shop/en/clothing/men-shirts/c:167" class="entry">Shirts</a>
-				</div>
-			</div>
-		</div>
-
-		<div class="col joint">
-			<div class="segment">
-				<div class="title">
-					&nbsp;
-				</div>
-
-				<div class="list">
-						<a href="http://www.hhv.de/shop/en/clothing/men-shorts/c:134" class="entry">Shorts</a>
-						<a href="http://www.hhv.de/shop/en/clothing/men-sweaters/c:97" class="entry">Sweaters</a>
-						<a href="http://www.hhv.de/shop/en/clothing/men-t-shirts/c:77" class="entry">T-Shirts</a>
-					<a href="http://www.hhv.de/shop/en/clothing/men/c:431" class="entry">... all Categories</a>
-					<span class="entry no_hover">&nbsp;</span>
-					<a href="http://www.hhv.de/shop/en/clothing/men/c:431" class="entry">News</a>
-					<a href="http://www.hhv.de/shop/en/clothing/men/c:431/sort:S" class="entry">Topseller</a>
-					<a href="http://www.hhv.de/shop/en/clothing/men/sale/c:431/sort:S" class="entry">Sale</a>
-				</div>
-			</div>
-		</div>
-		
-		<div class="col wide">
-			<div class="segment">
-				<div class="title">
-					<a href="http://www.hhv.de/shop/en/clothing/women/c:432">Women</a>
-				</div>
-				
-				<div class="list">
-					<a href="http://www.hhv.de/shop/en/clothing/women-accessories/c:455" class="entry">Accessories</a>
-					<a href="http://www.hhv.de/shop/en/clothing/women-bags/c:513" class="entry">Bags</a>
-					<a href="http://www.hhv.de/shop/en/clothing/women-dresses/c:540" class="entry">Dresses</a>
-					<a href="http://www.hhv.de/shop/en/clothing/women-headgear/c:434" class="entry">Headgear</a>
-					<a href="http://www.hhv.de/shop/en/clothing/women-hoodies/c:448" class="entry">Hoodies</a>
-					<a href="http://www.hhv.de/shop/en/clothing/women-jackets/c:473" class="entry">Jackets</a>
-					<a href="http://www.hhv.de/shop/en/clothing/women-knitwear/c:528" class="entry">Knitwear</a>
-					<a href="http://www.hhv.de/shop/en/clothing/women-leggings/c:573" class="entry">Leggings</a>
-					<a href="http://www.hhv.de/shop/en/clothing/women-long-sleeves/c:451" class="entry">Long Sleeves</a>
-					<a href="http://www.hhv.de/shop/en/clothing/women-pants/c:490" class="entry">Pants</a>
-					<a href="http://www.hhv.de/shop/en/clothing/women-skirts/c:541" class="entry">Skirts</a>
-				</div>
-			</div>
-		</div>
-
-		<div class="col joint">
-			<div class="segment">
-				<div class="title">
-					&nbsp;
-				</div>
-
-				<div class="list">
-						<a href="http://www.hhv.de/shop/en/clothing/women-sweaters/c:452" class="entry">Sweaters</a>
-						<a href="http://www.hhv.de/shop/en/clothing/women-t-shirts/c:433" class="entry">T-Shirts</a>
-						<a href="http://www.hhv.de/shop/en/clothing/women-tops/c:524" class="entry">Tops</a>
-					<a href="http://www.hhv.de/shop/en/clothing/women/c:432" class="entry">... all Categories</a>
-					<span class="entry no_hover">&nbsp;</span>
-					<a href="http://www.hhv.de/shop/en/clothing/women/c:432" class="entry">News</a>
-					<a href="http://www.hhv.de/shop/en/clothing/women/c:432/sort:S" class="entry">Topseller</a>
-					<a href="http://www.hhv.de/shop/en/clothing/women/sale/c:432/sort:S" class="entry">Sale</a>
-				</div>
-			</div>
-		</div>
-		
-		<div class="col wide">
-			<div class="segment">
-				<div class="title">
-					<a href="http://www.hhv.de/shop/en/clothing#clothingpage_brands_box">Top Brands</a>
-				</div>
-				
-				<div class="list">
-					<a href="http://www.hhv.de/shop/en/clothing/all/brand:10-deep" class="entry">10 Deep</a>
-					<a href="http://www.hhv.de/shop/en/clothing/all/brand:adidas" class="entry">adidas</a>
-					<a href="http://www.hhv.de/shop/en/clothing/all/brand:akomplice" class="entry">Akomplice</a>
-					<a href="http://www.hhv.de/shop/en/clothing/all/brand:alife" class="entry">Alife</a>
-					<a href="http://www.hhv.de/shop/en/clothing/all/brand:barbour" class="entry">Barbour</a>
-					<a href="http://www.hhv.de/shop/en/clothing/all/brand:brixton" class="entry">Brixton</a>
-					<a href="http://www.hhv.de/shop/en/clothing/all/brand:carhartt" class="entry">Carhartt</a>
-					<a href="http://www.hhv.de/shop/en/clothing/all/brand:cazal" class="entry">Cazal</a>
-					<a href="http://www.hhv.de/shop/en/clothing/all/brand:cheap-monday" class="entry">Cheap Monday</a>
-					<a href="http://www.hhv.de/shop/en/clothing/all/brand:cleptomanicx" class="entry">Cleptomanicx</a>
-					<a href="http://www.hhv.de/shop/en/clothing/all/brand:diamond-supply-co" class="entry">Diamond Supply Co.</a>
-					<a href="http://www.hhv.de/shop/en/clothing/all/brand:edwin" class="entry">Edwin</a>
-					<a href="http://www.hhv.de/shop/en/clothing/all/brand:fjallraven" class="entry">Fjällräven</a>
-					<a href="http://www.hhv.de/shop/en/clothing/all/brand:g-shock" class="entry">G-Shock</a>
-					<a href="http://www.hhv.de/shop/en/clothing/all/brand:herschel" class="entry">Herschel</a>
-				</div>
-			</div>
-		</div>
-
-		<div class="col joint">
-			<div class="segment">
-				<div class="title">
-					&nbsp;
-				</div>
-
-				<div class="list">
-						<a href="http://www.hhv.de/shop/en/clothing/all/brand:huf" class="entry">HUF</a>
-						<a href="http://www.hhv.de/shop/en/clothing/all/brand:komono" class="entry">Komono</a>
-						<a href="http://www.hhv.de/shop/en/clothing/all/brand:mishka" class="entry">Mishka</a>
-						<a href="http://www.hhv.de/shop/en/clothing/all/brand:nike" class="entry">Nike</a>
-						<a href="http://www.hhv.de/shop/en/clothing/all/brand:obey" class="entry">Obey</a>
-						<a href="http://www.hhv.de/shop/en/clothing/all/brand:odd-future-ofwgkta" class="entry">Odd Future (OFWGKTA)</a>
-						<a href="http://www.hhv.de/shop/en/clothing/all/brand:only-ny" class="entry">Only NY</a>
-						<a href="http://www.hhv.de/shop/en/clothing/all/brand:penfield" class="entry">Penfield</a>
-						<a href="http://www.hhv.de/shop/en/clothing/all/brand:staple" class="entry">Staple</a>
-						<a href="http://www.hhv.de/shop/en/clothing/all/brand:stussy" class="entry">Stüssy</a>
-						<a href="http://www.hhv.de/shop/en/clothing/all/brand:the-north-face" class="entry">The North Face</a>
-						<a href="http://www.hhv.de/shop/en/clothing/all/brand:ucon-acrobatics" class="entry">Ucon Acrobatics</a>
-						<a href="http://www.hhv.de/shop/en/clothing/all/brand:undefeated" class="entry">Undefeated</a>
-						<a href="http://www.hhv.de/shop/en/clothing/all/brand:wemoto" class="entry">Wemoto</a>
-					<a href="http://www.hhv.de/shop/en/clothing#clothingpage_brands_box" class="entry">... all Brands</a>
-				</div>
-			</div>
-		</div>
-		
-		<div class="col narrow">
-			<div class="segment sale">
-				<div class="title">
-					<a href="http://www.hhv.de/shop/en/clothing/all/sale/sort:S">Sale</a>
-				</div>
-				
-				<div class="list clearfix">
-					<a href="http://www.hhv.de/shop/en/clothing/all/sale/sort:S" class="entry">All</a>
-					<a href="http://www.hhv.de/shop/en/clothing/all/sale/ss:0-30/sort:S" class="entry">0 - 30 %</a>
-					<a href="http://www.hhv.de/shop/en/clothing/all/sale/ss:30-50/sort:S" class="entry">30 - 50 %</a>
-					<a href="http://www.hhv.de/shop/en/clothing/all/sale/ss:50-*/sort:S" class="entry">More than 50 %</a>
-				</div>
-			</div>
-
-			<div class="segment flags">
-				<div class="title">
-					&nbsp;
-				</div>
-				
-				<div class="list">
-					<a href="http://www.hhv.de/shop/en/clothing/all/bo:1" class="entry bonus_coins">Bonus Coins</a>
-				</div>
-			</div>
-		</div>
-	</div>
-	
-	<div class="arrow"></div>
-</div>
-<div data-flyout="top_navigation_shoes" data-flyout-close-callback="top_navigation_close_flyout" data-flyout-open-callback="top_navigation_open_flyout" class="top_navigation_flyout hidden">
-	<div class="cols clearfix">
-		<div class="col">
-			<div class="segment">
-				<div class="title">
-					<a href="http://www.hhv.de/shop/en/shoes/men/c:416">Men</a>
-				</div>
-				
-				<div class="list">
-					<a href="http://www.hhv.de/shop/en/shoes/men-boots/c:254" class="entry">Boots</a>
-					<a href="http://www.hhv.de/shop/en/shoes/men-casuals/c:253" class="entry">Casuals</a>
-					<a href="http://www.hhv.de/shop/en/shoes/men-kids/c:610" class="entry">Kids</a>
-					<a href="http://www.hhv.de/shop/en/shoes/men-sneakers/c:251" class="entry">Sneakers</a>
-					<a href="http://www.hhv.de/shop/en/shoes/men-special-editions/c:262" class="entry">Special Editions</a>
-					<a href="http://www.hhv.de/shop/en/shoes/men/c:416" class="entry">... all Categories</a>
-					<span class="entry no_hover">&nbsp;</span>
-					<a href="http://www.hhv.de/shop/en/shoes/men/c:416" class="entry">News</a>
-					<a href="http://www.hhv.de/shop/en/shoes/men/c:416/sort:S" class="entry">Topseller</a>
-					<a href="http://www.hhv.de/shop/en/shoes/men/sale/c:416/sort:S" class="entry">Sale</a>
-				</div>
-			</div>
-		</div>
-		
-		<div class="col">
-			<div class="segment">
-				<div class="title">
-					<a href="http://www.hhv.de/shop/en/shoes/women/c:417">Women</a>
-				</div>
-				
-				<div class="list">
-					<a href="http://www.hhv.de/shop/en/shoes/women-boots/c:426" class="entry">Boots</a>
-					<a href="http://www.hhv.de/shop/en/shoes/women-casuals/c:425" class="entry">Casuals</a>
-					<a href="http://www.hhv.de/shop/en/shoes/women-kids/c:611" class="entry">Kids</a>
-					<a href="http://www.hhv.de/shop/en/shoes/women-sneakers/c:418" class="entry">Sneakers</a>
-					<a href="http://www.hhv.de/shop/en/shoes/women-special-editions/c:430" class="entry">Special Editions</a>
-					<a href="http://www.hhv.de/shop/en/shoes/women/c:417" class="entry">... all Categories</a>
-					<span class="entry no_hover">&nbsp;</span>
-					<a href="http://www.hhv.de/shop/en/shoes/women/c:417" class="entry">News</a>
-					<a href="http://www.hhv.de/shop/en/shoes/women/c:417/sort:S" class="entry">Topseller</a>
-					<a href="http://www.hhv.de/shop/en/shoes/women/sale/c:417/sort:S" class="entry">Sale</a>
-				</div>
-			</div>
-		</div>
-		
-		<div class="col">
-			<div class="segment">
-				<div class="title">
-					<a href="http://www.hhv.de/shop/en/shoes#shoespage_brands_box">Top Brands</a>
-				</div>
-				
-				<div class="list">
-					<a href="http://www.hhv.de/shop/en/shoes/all/brand:adidas" class="entry">adidas</a>
-					<a href="http://www.hhv.de/shop/en/shoes/all/brand:asics" class="entry">Asics</a>
-					<a href="http://www.hhv.de/shop/en/shoes/all/brand:clae" class="entry">Clae</a>
-					<a href="http://www.hhv.de/shop/en/shoes/all/brand:converse" class="entry">Converse</a>
-					<a href="http://www.hhv.de/shop/en/shoes/all/brand:jordan-brand" class="entry">Jordan Brand</a>
-					<a href="http://www.hhv.de/shop/en/shoes/all/brand:new-balance" class="entry">New Balance</a>
-					<a href="http://www.hhv.de/shop/en/shoes/all/brand:nike" class="entry">Nike</a>
-					<a href="http://www.hhv.de/shop/en/shoes/all/brand:pointer" class="entry">Pointer</a>
-					<a href="http://www.hhv.de/shop/en/shoes/all/brand:supra" class="entry">Supra</a>
-					<a href="http://www.hhv.de/shop/en/shoes/all/brand:vans" class="entry">Vans</a>
-					<a href="http://www.hhv.de/shop/en/shoes#shoespage_brands_box" class="entry">... all Brands</a>
-				</div>
-			</div>
-		</div>
-		
-		<div class="col">
-			<div class="segment sale">
-				<div class="title">
-					<a href="http://www.hhv.de/shop/en/shoes/all/sale/sort:S">Sale</a>
-				</div>
-				
-				<div class="list clearfix">
-					<a href="http://www.hhv.de/shop/en/shoes/all/sale/sort:S" class="entry">All</a>
-					<a href="http://www.hhv.de/shop/en/shoes/all/sale/ss:0-30/sort:S" class="entry">0 - 30 %</a>
-					<a href="http://www.hhv.de/shop/en/shoes/all/sale/ss:30-50/sort:S" class="entry">30 - 50 %</a>
-					<a href="http://www.hhv.de/shop/en/shoes/all/sale/ss:50-*/sort:S" class="entry">More than 50 %</a>
-				</div>
-			</div>
-			
-			<div class="segment flags">
-				<div class="title">
-					&nbsp;
-				</div>
-				
-				<div class="list">
-					<a href="http://www.hhv.de/shop/en/shoes/all/bo:1" class="entry bonus_coins">Bonus Coins</a>
-					<a href="http://www.hhv.de/shop/en/shoes/all/preorder" class="entry preorder">Preorder</a>
-				</div>
-			</div>
-		</div>
-		
-		<div class="col">
-			<div class="segment">
-				<div class="title">
-					&nbsp;
-				</div>
-				
-				<div class="list">
-					<a href="http://www.hhv.de/shop/en/shoes/all" class="entry">News</a>
-					<a href="http://www.hhv.de/shop/en/shoes/all/sort:S" class="entry">Topseller</a>
-					<a href="http://www.hhv.de/shop/en/top100/shoes" class="entry">Top 100</a>
-					<a href="http://www.hhv.de/shop/en/shoes/men/c:416" class="entry">Men</a>
-					<a href="http://www.hhv.de/shop/en/shoes/women/c:417" class="entry">Women</a>
-				</div>
-			</div>
-		</div>
-	</div>
-	
-	<div class="arrow"></div>
-</div>
-<div data-flyout="top_navigation_print_design" data-flyout-close-callback="top_navigation_close_flyout" data-flyout-open-callback="top_navigation_open_flyout" class="top_navigation_flyout hidden">
-	<div class="cols clearfix">
-		<div class="col">
-			<div class="segment">
-				<div class="title">
-					<a href="http://www.hhv.de/shop/en/print-and-design/all">Categories</a>
-				</div>
-				
-				<div class="list">
-					<a href="http://www.hhv.de/shop/en/print-and-design/books/c:94" class="entry">Books</a>
-					<a href="http://www.hhv.de/shop/en/print-and-design/magazines/c:95" class="entry">Magazines</a>
-					<a href="http://www.hhv.de/shop/en/print-and-design/marker/c:545" class="entry">Marker</a>
-					<a href="http://www.hhv.de/shop/en/print-and-design/posters/c:123" class="entry">Posters</a>
-					<a href="http://www.hhv.de/shop/en/print-and-design/skate-decks/c:147" class="entry">Skate Decks</a>
-					<a href="http://www.hhv.de/shop/en/print-and-design/all" class="entry">... all Categories</a>
-				</div>
-			</div>
-		</div>
-
-		<div class="col">
-			<div class="segment">
-				<div class="title">
-					<a href="http://www.hhv.de/shop/en/print-and-design/all">Top Magazines</a>
-				</div>
-
-				<div class="list">
-						<a href="http://www.hhv.de/shop/en/print-and-design/all/label-brand:waxpoetics" class="entry">Waxpoetics</a>
-						<a href="http://www.hhv.de/shop/en/print-and-design/all/label-brand:intro" class="entry">Intro</a>
-						<a href="http://www.hhv.de/shop/en/print-and-design/all/label-brand:sneaker-freaker" class="entry">Sneaker Freaker</a>
-						<a href="http://www.hhv.de/shop/en/print-and-design/all/label-brand:sneakers" class="entry">Sneakers</a>
-						<a href="http://www.hhv.de/shop/en/print-and-design/all/label-brand:electronic-beats" class="entry">Electronic Beats</a>
-						<a href="http://www.hhv.de/shop/en/print-and-design/all/label-brand:complex" class="entry">Complex</a>
-						<a href="http://www.hhv.de/shop/en/print-and-design/all/label-brand:xxl" class="entry">XXL</a>
-						<a href="http://www.hhv.de/shop/en/print-and-design/all/label-brand:lodown" class="entry">Lodown</a>
-					<a href="http://www.hhv.de/shop/en/print-and-design/magazines/c:95" class="entry">... all Magazines</a>
-				</div>
-			</div>
-		</div>
-
-		<div class="col">
-			<div class="segment">
-				<div class="title">
-					<a href="http://www.hhv.de/shop/en/print-and-design/all">Top Publishers</a>
-				</div>
-
-				<div class="list">
-						<a href="http://www.hhv.de/shop/en/print-and-design/all/label-brand:arkitip" class="entry">Arkitip</a>
-						<a href="http://www.hhv.de/shop/en/print-and-design/all/label-brand:dokument" class="entry">Dokument</a>
-						<a href="http://www.hhv.de/shop/en/print-and-design/all/label-brand:gingko-press" class="entry">Gingko Press</a>
-						<a href="http://www.hhv.de/shop/en/print-and-design/all/label-brand:from-here-to-fame" class="entry">From Here To Fame</a>
-						<a href="http://www.hhv.de/shop/en/print-and-design/all/label-brand:gestalten" class="entry">Gestalten</a>
-						<a href="http://www.hhv.de/shop/en/print-and-design/all/label-brand:taschen" class="entry">Taschen</a>
-					<a href="http://www.hhv.de/shop/en/print-and-design/all" class="entry">... all Publishers</a>
-				</div>
-			</div>
-		</div>
-		
-		<div class="col">
-			<div class="segment sale">
-				<div class="title">
-					<a href="http://www.hhv.de/shop/en/print-and-design/all/sale/sort:S">Sale</a>
-				</div>
-				
-				<div class="list clearfix">
-					<a href="http://www.hhv.de/shop/en/print-and-design/all/sale/sort:S" class="entry">All</a>
-					<a href="http://www.hhv.de/shop/en/print-and-design/all/sale/ss:0-30/sort:S" class="entry">0 - 30 %</a>
-					<a href="http://www.hhv.de/shop/en/print-and-design/all/sale/ss:30-50/sort:S" class="entry">30 - 50 %</a>
-					<a href="http://www.hhv.de/shop/en/print-and-design/all/sale/ss:50-*/sort:S" class="entry">More than 50 %</a>
-				</div>
-			</div>
-			
-			<div class="segment">
-				<div class="title">
-					&nbsp;
-				</div>
-				
-				<div class="list">
-					<a href="http://www.hhv.de/shop/en/print-and-design/all" class="entry">News</a>
-					<a href="http://www.hhv.de/shop/en/print-and-design/all/sort:S" class="entry">Topseller</a>
-					<a href="http://www.hhv.de/shop/en/top100/print-and-design" class="entry">Top 100</a>
-				</div>
-			</div>
-		</div>
-		
-		<div class="col">
-			<div class="segment flags">
-				<div class="title">
-					&nbsp;
-				</div>
-				
-				<div class="list">
-					<a href="http://www.hhv.de/shop/en/print-and-design/all/bo:1" class="entry bonus_coins">Bonus Coins</a>
-					<a href="http://www.hhv.de/shop/en/print-and-design/all/preorder" class="entry preorder">Preorder</a>
-				</div>
-			</div>
-		</div>
-	</div>
-	
-	<div class="arrow"></div>
-</div>
-<div data-flyout="top_navigation_merchandise" data-flyout-close-callback="top_navigation_close_flyout" data-flyout-open-callback="top_navigation_open_flyout" class="top_navigation_flyout hidden">
-	<div class="cols clearfix">
-		<div class="col">
-			<div class="segment">
-				<div class="title">
-					<a href="http://www.hhv.de/shop/en/merchandise/men/c:431">Men</a>
-				</div>
-				
-				<div class="list">
-					<a href="http://www.hhv.de/shop/en/merchandise/men/c:431/g:59" class="entry">Hip Hop</a>
-					<a href="http://www.hhv.de/shop/en/merchandise/men/c:431/g:62" class="entry">Organic Grooves</a>
-					<a href="http://www.hhv.de/shop/en/merchandise/men/c:431/g:64" class="entry">Electronic / Dance</a>
-					<a href="http://www.hhv.de/shop/en/merchandise/men/c:431/g:63" class="entry">Rock / Indie</a>
-					<a href="http://www.hhv.de/shop/en/merchandise/men/c:431/g:83" class="entry">Reggae / Dancehall</a>
-					<a href="http://www.hhv.de/shop/en/merchandise/men/c:431/g:142" class="entry">Pop</a>
-					<a href="http://www.hhv.de/shop/en/merchandise/men/c:431" class="entry">... all Genres</a>
-				</div>
-			</div>
-		</div>
-		
-		<div class="col">
-			<div class="segment">
-				<div class="title">
-					<a href="http://www.hhv.de/shop/en/merchandise/women/c:432">Women</a>
-				</div>
-				
-				<div class="list">
-					<a href="http://www.hhv.de/shop/en/merchandise/women/c:432/g:59" class="entry">Hip Hop</a>
-					<a href="http://www.hhv.de/shop/en/merchandise/women/c:432/g:62" class="entry">Organic Grooves</a>
-					<a href="http://www.hhv.de/shop/en/merchandise/women/c:432/g:64" class="entry">Electronic / Dance</a>
-					<a href="http://www.hhv.de/shop/en/merchandise/women/c:432/g:63" class="entry">Rock / Indie</a>
-					<a href="http://www.hhv.de/shop/en/merchandise/women/c:432/g:83" class="entry">Reggae / Dancehall</a>
-					<a href="http://www.hhv.de/shop/en/merchandise/women/c:432/g:142" class="entry">Pop</a>
-					<a href="http://www.hhv.de/shop/en/merchandise/women/c:432" class="entry">... all Genres</a>
-				</div>
-			</div>
-		</div>
-
-		<div class="col wide">
-			<div class="segment">
-				<div class="title">
-					<a href="http://www.hhv.de/shop/en/merchandise/all">Top Artists</a>
-				</div>
-
-				<div class="list">
-						<a href="http://www.hhv.de/shop/en/merchandise/all/artist:a-tribe-called-quest" class="entry">A Tribe Called Quest</a>
-						<a href="http://www.hhv.de/shop/en/merchandise/all/artist:beastie-boys" class="entry">Beastie Boys</a>
-						<a href="http://www.hhv.de/shop/en/merchandise/all/artist:bob-marley" class="entry">Bob Marley</a>
-						<a href="http://www.hhv.de/shop/en/merchandise/all/artist:huss-und-hodn" class="entry">Huss und Hodn</a>
-						<a href="http://www.hhv.de/shop/en/merchandise/all/artist:j-dilla-aka-jay-dee" class="entry">J Dilla aka Jay Dee</a>
-						<a href="http://www.hhv.de/shop/en/merchandise/all/artist:johnny-cash" class="entry">Johnny Cash</a>
-						<a href="http://www.hhv.de/shop/en/merchandise/all/artist:k-i-z" class="entry">K.I.Z.</a>
-						<a href="http://www.hhv.de/shop/en/merchandise/all/artist:mf-doom" class="entry">MF Doom</a>
-						<a href="http://www.hhv.de/shop/en/merchandise/all/artist:modeselektor" class="entry">Modeselektor</a>
-						<a href="http://www.hhv.de/shop/en/merchandise/all/artist:roots-the" class="entry">Roots, The</a>
-						<a href="http://www.hhv.de/shop/en/merchandise/all/artist:suicidal-tendencies" class="entry">Suicidal Tendencies</a>
-						<a href="http://www.hhv.de/shop/en/merchandise/all/artist:wu-tang-clan" class="entry">Wu-Tang Clan</a>
-				</div>
-			</div>
-		</div>
-
-		<div class="col wide">
-			<div class="segment">
-				<div class="title">
-					<a href="http://www.hhv.de/shop/en/merchandise/all">Top Labels</a>
-				</div>
-
-				<div class="list">
-					<a href="http://www.hhv.de/shop/en/merchandise/all/label-brand:blue-note" class="entry">Blue Note</a>
-					<a href="http://www.hhv.de/shop/en/merchandise/all/label-brand:delicious-vinyl" class="entry">Delicious Vinyl</a>
-					<a href="http://www.hhv.de/shop/en/merchandise/all/label-brand:dmc" class="entry">DMC</a>
-					<a href="http://www.hhv.de/shop/en/merchandise/all/label-brand:entbs-entourage" class="entry">ENTBS / Entourage</a>
-					<a href="http://www.hhv.de/shop/en/merchandise/all/label-brand:la-coka-nostra" class="entry">La Coka Nostra</a>
-					<a href="http://www.hhv.de/shop/en/merchandise/all/label-brand:melting-pot-music" class="entry">Melting Pot Music</a>
-					<a href="http://www.hhv.de/shop/en/merchandise/all/label-brand:okayplayer" class="entry">Okayplayer</a>
-					<a href="http://www.hhv.de/shop/en/merchandise/all/label-brand:rhymesayers" class="entry">Rhymesayers</a>
-					<a href="http://www.hhv.de/shop/en/merchandise/all/label-brand:stones-throw" class="entry">Stones Throw</a>
-					<a href="http://www.hhv.de/shop/en/merchandise/all/label-brand:sub-pop" class="entry">Sub Pop</a>
-					<a href="http://www.hhv.de/shop/en/merchandise/all/label-brand:wasted-german-youth" class="entry">Wasted German Youth</a>
-				</div>
-			</div>
-		</div>
-		
-		<div class="col">
-			<div class="segment sale">
-				<div class="title">
-					<a href="http://www.hhv.de/shop/en/merchandise/all/sale">Sale</a>
-				</div>
-				
-				<div class="list clearfix">
-					<a href="http://www.hhv.de/shop/en/merchandise/all/sale" class="entry">All</a>
-					<a href="http://www.hhv.de/shop/en/merchandise/all/sale/ss:0-30" class="entry">0 - 30 %</a>
-					<a href="http://www.hhv.de/shop/en/merchandise/all/sale/ss:30-50" class="entry">30 - 50 %</a>
-					<a href="http://www.hhv.de/shop/en/merchandise/all/sale/ss:50-*" class="entry">More than 50 %</a>
-				</div>
-			</div>
-
-			<div class="segment">
-				<div class="title">
-					&nbsp;
-				</div>
-
-				<div class="list">
-					<a href="http://www.hhv.de/shop/en/merchandise/all/sort:N" class="entry">News</a>
-					<a href="http://www.hhv.de/shop/en/merchandise/all" class="entry">Topseller</a>
-					<a href="http://www.hhv.de/shop/en/top100/merchandise" class="entry">Top 100</a>
-				</div>
-			</div>
-			
-			<div class="segment flags">
-				<div class="title">
-					&nbsp;
-				</div>
-				
-				<div class="list">
-					<a href="http://www.hhv.de/shop/en/merchandise/all/bo:1" class="entry bonus_coins">Bonus Coins</a>
-				</div>
-			</div>
-		</div>
-	</div>
-	
-	<div class="arrow"></div>
-</div>
-<div data-flyout="top_navigation_equipment" data-flyout-close-callback="top_navigation_close_flyout" data-flyout-open-callback="top_navigation_open_flyout" class="top_navigation_flyout hidden">
-	<div class="cols clearfix">
-		<div class="col wide">
-			<div class="segment">
-				<div class="title">
-					<a href="http://www.hhv.de/shop/en/equipment/all">Categories</a>
-				</div>
-				
-				<div class="list">
-					<a href="http://www.hhv.de/shop/en/equipment/turntables/c:88" class="entry">Turntables</a>
-					<a href="http://www.hhv.de/shop/en/equipment/bags-cases/c:100" class="entry">Bags &amp; Cases</a>
-					<a href="http://www.hhv.de/shop/en/equipment/headphones/c:89" class="entry">Headphones</a>
-					<a href="http://www.hhv.de/shop/en/equipment/cartridges/c:91" class="entry">Cartridges</a>
-					<a href="http://www.hhv.de/shop/en/equipment/mixers/c:96" class="entry">Mixers</a>
-					<a href="http://www.hhv.de/shop/en/equipment/accessories/c:98" class="entry">Accessories</a>
-					<a href="http://www.hhv.de/shop/en/equipment/digital-dj/c:380" class="entry">Digital DJ</a>
-					<a href="http://www.hhv.de/shop/en/equipment/producer-studio-tools/c:409" class="entry">Producer &amp; Studio Tools</a>
-					<a href="http://www.hhv.de/shop/en/equipment/speakers/c:637" class="entry">Speakers</a>
-					<a href="http://www.hhv.de/shop/en/equipment/all" class="entry">... all Categories</a>
-				</div>
-			</div>
-		</div>
-		
-		<div class="col">
-			<div class="segment">
-				<div class="title">
-					<a href="http://www.hhv.de/shop/en/equipment/all">Manufacturers</a>
-				</div>
-				
-				<div class="list">
-					<a href="http://www.hhv.de/shop/en/equipment/all/manufacturer:akai" class="entry">Akai</a>
-					<a href="http://www.hhv.de/shop/en/equipment/all/manufacturer:akg" class="entry">AKG</a>
-					<a href="http://www.hhv.de/shop/en/equipment/all/manufacturer:magma" class="entry">Magma</a>
-					<a href="http://www.hhv.de/shop/en/equipment/all/manufacturer:marshall" class="entry">Marshall</a>
-					<a href="http://www.hhv.de/shop/en/equipment/all/manufacturer:native-instruments" class="entry">Native Instruments</a>
-					<a href="http://www.hhv.de/shop/en/equipment/all/manufacturer:numark" class="entry">Numark</a>
-					<a href="http://www.hhv.de/shop/en/equipment/all/manufacturer:ortofon" class="entry">Ortofon</a>
-					<a href="http://www.hhv.de/shop/en/equipment/all/manufacturer:rane" class="entry">Rane</a>
-					<a href="http://www.hhv.de/shop/en/equipment/all/manufacturer:sennheiser" class="entry">Sennheiser</a>
-					<a href="http://www.hhv.de/shop/en/equipment/all/manufacturer:serato" class="entry">Serato</a>
-					<a href="http://www.hhv.de/shop/en/equipment/all/manufacturer:shure" class="entry">Shure</a>
-					<a href="http://www.hhv.de/shop/en/equipment/all/manufacturer:stanton" class="entry">Stanton</a>
-					<a href="http://www.hhv.de/shop/en/equipment/all/manufacturer:technics" class="entry">Technics</a>
-					<a href="http://www.hhv.de/shop/en/equipment/all/manufacturer:udg" class="entry">UDG</a>
-					<a href="http://www.hhv.de/shop/en/equipment/all" class="entry">... all Manufacturers</a>
-				</div>
-			</div>
-		</div>
-		
-		<div class="col wide">
-			<div class="segment sale">
-				<div class="title">
-					<a href="http://www.hhv.de/shop/en/equipment/all/sale">Sale</a>
-				</div>
-				
-				<div class="list clearfix">
-					<a href="http://www.hhv.de/shop/en/equipment/all/sale" class="entry">All</a>
-					<a href="http://www.hhv.de/shop/en/equipment/all/sale/ss:0-30" class="entry">0 - 30 %</a>
-					<a href="http://www.hhv.de/shop/en/equipment/all/sale/ss:30-50" class="entry">30 - 50 %</a>
-					<a href="http://www.hhv.de/shop/en/equipment/all/sale/ss:50-*" class="entry">More than 50 %</a>
-				</div>
-			</div>
-			
-			<div class="segment">
-				<div class="title">
-					&nbsp;
-				</div>
-				
-				<div class="list">
-					<a href="http://www.hhv.de/shop/en/equipment/all/sort:N" class="entry">News</a>
-					<a href="http://www.hhv.de/shop/en/equipment/all/per:100" class="entry">Topseller</a>
-					<a href="http://www.hhv.de/shop/en/top100/equipment" class="entry">Top 100</a>
-				</div>
-			</div>
-			
-			<div class="segment flags">
-				<div class="title">
-					&nbsp;
-				</div>
-				
-				<div class="list">
-					<a href="http://www.hhv.de/shop/en/equipment/all/bo:1" class="entry bonus_coins">Bonus Coins</a>
-				</div>
-			</div>
-		</div>
-	</div>
-	
-	<div class="arrow"></div>
-</div>
-
-</div>
-</div>
-		
-		<div class="messages">
-		</div>
-
-		<div class="messages overlay hidden"></div>
-
-		
-		
-		
-		<div id="breadcrumb" class="en help document_short">
-			<div class="crumb" itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb">
-					<a href="http://www.hhv.de/shop/en">
-						<span>Home</span>
-</a>			</div>
-
-				<div class="separator">
-					&gt;
-				</div>
-			<div class="crumb" itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb">
-					<a href="http://www.hhv.de/shop/en/help" itemprop="url">
-						<span itemprop="title">Help</span>
-</a>			</div>
-
-				<div class="separator">
-					&gt;
-				</div>
-			<div class="crumb" itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb">
-					<a href="http://www.hhv.de/shop/en/help/privacy" itemprop="url">
-						<span itemprop="title">Privacy</span>
-</a>			</div>
-
-</div>
-		
-		<div id="content" class="en help document_short document privacy">
-			<div class="header">
-	<a href="http://www.hhv.de/shop/en/help" class="title">Help</a>
-
-	<div class="search">
-		<div class="results hidden" data-not-found="Sorry, but no help document have been found."></div>
-
-		<div class="bar">
-			<input name="help_search" placeholder="Search in Help...">
-
-			<div class="cross hidden"></div>
-
-			<div class="magnifier"></div>
-
-			<div class="button hidden">
-				<span class="icon"></span>
-				<span class="text">Search</span>
+			<div class="profile">
+				<span class="separator"></span>
+				<a href="https://www.hhv.de/shop/en/profile/login" class="login">My Account</a>
+				<a href="https://www.hhv.de/shop/en/profile" class="name hidden"></a>
+				<span class="separator"></span>
+				<a href="https://www.hhv.de/shop/en/profile/login" class="login">Login</a>
+				<a href="#" class="logout hidden">Logout</a>
+				<span class="separator"></span>
 			</div>
 		</div>
 	</div>
 
-	<div class="smooth_spacer transparent down">
-	<div></div>
+	<div class="main">
+		<div class="inset">
+			<a href="http://www.hhv.de/shop/en" class="logo"></a>
+
+			<div class="search" style="">
+				<span class="portal compact no_current_mode"><span class="undefined">All</span></span>
+				<input class="hhv_input" type="text" spellcheck="false" autocorrect="off" autocomplete="off" autocapitalize="off" data-portal="catalog" data-catalog="/shop/en/all-items/p:W4s7dj" data-vinyl_cd_tape="/shop/en/vinyl-cd-tape/p:viguQ6" data-used_vinyl="/shop/en/used-vinyl/p:czuhnj" data-merchandise="/shop/en/merchandise/p:ic3Exl" data-equipment="/shop/en/studio-dj-equipment/p:aryaE7" data-print_design="/shop/en/print-design/p:Z42FfZ" data-urban_fashion="/shop/en/urban-fashion/p:OIi4PM" data-urban_fashion_men="/shop/en/urban-fashion-men/p:6PTjSA" data-urban_fashion_women="/shop/en/urban-fashion-women/p:9HPD5Y" data-clothing="/shop/en/clothing/p:sJHez3" data-shoes="/shop/en/shoes/p:OGi68M" data-urban_fashion_accessories="/shop/en/accessories/p:m32iP5" style="width: 409px; ">
+				<span class="magnifier"></span>
+			</div>
+
+			<a href="https://www.trustedshops.de/shop/certificate.php?shop_id=XBB5E4E11BBE158DFA886341F626E1438" class="trusted_shops_logo" title="Trusted Shops" target="_blank"></a>
+
+			<div class="top_row">
+				<div class="languages no_current_mode"><span class="en">&nbsp;</span></div>
+
+				<span class="separator"></span>
+
+				<a href="http://www.hhv.de/shop/en/help" class="contact">Help &amp; Contact</a>
+
+				<span class="separator"></span>
+
+				<a href="http://www.hhv.de/shop/en/help/newsletter" class="newsletter">Newsletter</a>
+
+				<span class="separator"></span>
+
+				<a href="https://www.hhv.de/shop/en/profile/wishlist" class="wishlist">Wishlist</a>
+
+				<span class="separator"></span>
+
+				<a href="https://www.hhv.de/shop/en/cart" class="cart">
+					<span class="title">My Cart</span>
+					<span class="items">0 Items</span>
+					<span class="sum">0,00 €</span>
+					<span class="bonus_coins">0 Bonus Coins</span>
+</a>
+				<span class="separator"></span>
+			</div>
+
+			<div class="service hidden">
+				<div class="feature retour_for_x_days">
+					30 Days Right of Cancellation
+				</div>
+
+				<div class="feature shipping_ready_in">
+					Ready for Shipment 24 Hours
+				</div>
+
+				<div class="feature free_retour">
+					Free Return Label within Germany
+				</div>
+
+				<div class="feature shipping_free_in_germany">
+					Free German deliveries over 80 €
+				</div>
+			</div>
+		</div>
+	</div>
 </div>
 
-	<div class="navigation">
 
-		<div class="node  " data-flyout-anchor="help_navigation_0">
-			<div class="text">
-				Order &amp; Payment
-			</div>
-
+		<div id="flashes" class="hidden">
 		</div>
-		<div class="node  " data-flyout-anchor="help_navigation_1">
-			<div class="text">
-				Shipping &amp; Delivery
+
+		<div id="content">
+			<div id="messages" class="message_container hidden">
+				<a href="#" class="close" title="Close"></a>
 			</div>
 
-		</div>
-		<div class="node  " data-flyout-anchor="help_navigation_2">
-			<div class="text">
-				Returns &amp; Exchanges
+			<div id="overlay_messages" class="message_container hidden">
+				<div class="inset">
+					<a href="#" class="close" title="Close"></a>
+				</div>
 			</div>
 
+			
+	<div id="navigation" data-control-list="navigation_help">
+	<div class="menu navigation_help loaded">
+		<div data-flyout="portal" class="entry portal first" data-has-flyout="true" data-path="http://www.hhv.de/shop/en/help">
+			<span>Help</span>
+			<div class="overlay"></div>
 		</div>
-		<div class="node  " data-flyout-anchor="help_navigation_3">
-			<div class="text">
-				My Account
-			</div>
 
+		<div class="separator">
+			<div class="line"></div>
 		</div>
-		<div class="node  " data-flyout-anchor="help_navigation_4">
-			<div class="text">
-				Products &amp; Sizes
-			</div>
+	<div class="entry category_5" data-flyout="category_5" data-has-flyout="true"><span>Order &amp; Payment</span><div class="overlay"></div></div><div class="entry category_1" data-flyout="category_1" data-has-flyout="true"><span>Shipping &amp; Delivery</span><div class="overlay"></div></div><div class="entry category_6" data-flyout="category_6" data-has-flyout="true"><span>Returns &amp; Exchanges</span><div class="overlay"></div></div><div class="entry category_3" data-flyout="category_3" data-has-flyout="true"><span>My Account</span><div class="overlay"></div></div><div class="entry category_7" data-flyout="category_7" data-has-flyout="true"><span>Products &amp; Sizes</span><div class="overlay"></div></div><div class="entry more_categories last" data-flyout="more_categories" data-has-flyout="true"><span>More Topics</span><div class="overlay"></div></div></div>
 
-		</div>
-		<div class="node  " data-flyout-anchor="help_navigation_5">
-			<div class="text">
-				Gift Certificates, Codes, etc.
-			</div>
-
-		</div>
-		<div class="node active last" data-flyout-anchor="help_navigation_6">
-			<div class="text">
-				More Topics
-			</div>
-
-			<div class="arrow">
-				<div class="cut"></div>
-			</div>
-		</div>
+	<div class="arrow_envelope">
+		<div class="arrow hidden"></div>
 	</div>
 
 	<div class="flyouts">
-		<div class="flyout hidden" data-flyout="help_navigation_0" data-flyout-close-callback="help_navigation_close_flyout" data-flyout-open-callback="help_navigation_open_flyout">
-			<div class="categories clearfix">
-				<div class="category">
-					<div class="title">
-						Order &amp; Payment
-					</div>
+		<div data-flyout="portal" class="flyout portal hidden">
+			<div class="columns c4 clearfix">
+				<div class="column portals first">
+					<div class="group">
+						<div class="title">
+							Music
+						</div>
 
-					<div class="topics">
-							<a href="http://www.hhv.de/shop/en/help/how-to-order-31" class="topic">How to order</a>
-							<a href="http://www.hhv.de/shop/en/help/how-to-change-your-order-71" class="topic">How to change your order</a>
-							<a href="http://www.hhv.de/shop/en/help/payment-36" class="topic">Payment</a>
-							<a href="http://www.hhv.de/shop/en/help/payment-receipt-54" class="topic">Payment receipt</a>
-							<a href="http://www.hhv.de/shop/en/help/credit-card-payment-55" class="topic">Credit card payment</a>
-							<a href="http://www.hhv.de/shop/en/help/sales-tax-70" class="topic">Sales tax</a>
+						<div class="nodes">
+							<a href="http://www.hhv.de/shop/en/vinyl-cd-tape" class="node" data-portal-identifier="vinyl_cd_tape">Vinyl, CD &amp; Tape</a>
+							<a href="http://www.hhv.de/shop/en/used-vinyl" class="node" data-portal-identifier="used_vinyl">Used Vinyl</a>
+							<a href="http://www.hhv.de/shop/en/merchandise" class="node" data-portal-identifier="merchandise">Merchandise</a>
+							<a href="http://www.hhv.de/shop/en/studio-dj-equipment" class="node" data-portal-identifier="equipment">Studio &amp; DJ Equipment</a>
+							<a href="http://www.hhv.de/shop/en/print-and-design" class="node" data-portal-identifier="print_design">Print &amp; Design</a>
+							<a href="http://www.hhv.de/shop/en/music-sale" class="node sale" data-active-title="Music Sale" data-portal-identifier="music_sale">Sale</a>
+						</div>
 					</div>
 				</div>
 
+				<div class="column portals">
+					<div class="group">
+						<div class="title">
+							Urban Fashion
+						</div>
+
+						<div class="nodes">
+							<a href="http://www.hhv.de/shop/en/urban-fashion-men" class="node" data-active-title="Urban Fashion Men" data-portal-identifier="urban_fashion_men">Men</a>
+							<a href="http://www.hhv.de/shop/en/urban-fashion-women" class="node" data-active-title="Urban Fashion Women" data-portal-identifier="urban_fashion_women">Women</a>
+							<a href="http://www.hhv.de/shop/en/clothing" class="node" data-portal-identifier="clothing">Clothing</a>
+							<a href="http://www.hhv.de/shop/en/shoes" class="node" data-portal-identifier="shoes">Shoes</a>
+							<a href="http://www.hhv.de/shop/en/urban-fashion-accessories" class="node" data-active-title="Urban Fashion Accessories" data-portal-identifier="urban_fashion_accessories">Accessories</a>
+							<a href="http://www.hhv.de/shop/en/urban-fashion-sale" class="node sale" data-active-title="Urban Fashion Sale" data-portal-identifier="urban_fashion_sale">Sale</a>
+						</div>
+					</div>
+				</div>
+
+				<div class="column"></div>
+
+				<div class="column meta last">
+					<div class="group">
+						<div class="title">
+							This may interest you
+						</div>
+
+						<div class="nodes">
+							<a href="http://www.hhv.de/shop/en/store" class="node">hhv.de Store Berlin Friedrichshain</a>
+							<a href="http://www.hhv.de/shop/en/help" class="node">Help</a>
+							<a href="https://www.hhv.de/shop/en/cart" class="node">Cart</a>
+							<a href="https://www.hhv.de/shop/en/profile" class="node">My Account</a>
+							<a href="/shop/en/gift-coupons/p:wZD06b" class="node">Gift Coupons</a>
+							<a href="http://www.hhv-mag.com/" class="node" target="_blank">hhv.de mag</a>
+							<a href="/shop/en/all-items/p:5WFhiU" class="node">Bonus Coins</a>
+						</div>
+					</div>
+				</div>
 			</div>
-
-			<div class="arrow"></div>
 		</div>
-		<div class="flyout hidden" data-flyout="help_navigation_1" data-flyout-close-callback="help_navigation_close_flyout" data-flyout-open-callback="help_navigation_open_flyout">
-			<div class="categories clearfix">
-				<div class="category">
-					<div class="title">
-						Shipping &amp; Delivery
-					</div>
-
-					<div class="topics">
-							<a href="http://www.hhv.de/shop/en/help/shipping" class="topic">Shipping</a>
-							<a href="http://www.hhv.de/shop/en/help/delivery-times-express-shipping-29" class="topic">Delivery times &amp; Express shipping</a>
-							<a href="http://www.hhv.de/shop/en/help/store-pick-up-in-berlin-38" class="topic">Store pick-up in Berlin</a>
-							<a href="http://www.hhv.de/shop/en/help/split-shipment-37" class="topic">Split shipment</a>
-							<a href="http://www.hhv.de/shop/en/help/packstation-64" class="topic">Packstation</a>
-					</div>
-				</div>
-
-			</div>
-
-			<div class="arrow"></div>
+	<div class="flyout hidden category_5" data-flyout="category_5"><div class="columns clearfix c2"><div class="column first"><div class="group"><div class="title" title="Topics">Topics</div><div class="nodes"><a class="node" title="How to order" href="http://www.hhv.de/shop/en/help/how-to-order-31" data-tracking-label="Order &amp; Payment > Topics > How to order">How to order</a><a class="node" title="Pre-order Items" href="http://www.hhv.de/shop/en/help/pre-order-items-74" data-tracking-label="Order &amp; Payment > Topics > Pre-order Items">Pre-order Items</a><a class="node" title="How to change your order" href="http://www.hhv.de/shop/en/help/how-to-change-your-order-71" data-tracking-label="Order &amp; Payment > Topics > How to change your order">How to change your order</a><a class="node" title="Payment &amp; Change Payment Method" href="http://www.hhv.de/shop/en/help/payment-change-payment-method-36" data-tracking-label="Order &amp; Payment > Topics > Payment &amp; Change Payment Method">Payment &amp; Change Payment Method</a></div></div></div><div class="column last continue"><div class="group"><div class="title">&nbsp;</div><div class="nodes"><a class="node" title="Credit card payment" href="http://www.hhv.de/shop/en/help/credit-card-payment-55" data-tracking-label="Order &amp; Payment > Topics > Credit card payment">Credit card payment</a><a class="node" title="Sales tax" href="http://www.hhv.de/shop/en/help/sales-tax-70" data-tracking-label="Order &amp; Payment > Topics > Sales tax">Sales tax</a></div></div></div></div></div><div class="flyout hidden category_1" data-flyout="category_1"><div class="columns clearfix c2"><div class="column first"><div class="group"><div class="title" title="Topics">Topics</div><div class="nodes"><a class="node" title="Shipping" href="http://www.hhv.de/shop/en/help/shipping" data-tracking-label="Shipping &amp; Delivery > Topics > Shipping">Shipping</a><a class="node" title="Delivery times &amp; Express shipping" href="http://www.hhv.de/shop/en/help/delivery-times-express-shipping-29" data-tracking-label="Shipping &amp; Delivery > Topics > Delivery times &amp; Express shipping">Delivery times &amp; Express shipping</a><a class="node" title="Store pick-up in Berlin" href="http://www.hhv.de/shop/en/help/store-pick-up-in-berlin-38" data-tracking-label="Shipping &amp; Delivery > Topics > Store pick-up in Berlin">Store pick-up in Berlin</a><a class="node" title="Split shipment" href="http://www.hhv.de/shop/en/help/split-shipment-37" data-tracking-label="Shipping &amp; Delivery > Topics > Split shipment">Split shipment</a></div></div></div><div class="column last continue"><div class="group"><div class="title">&nbsp;</div><div class="nodes"><a class="node" title="Packstation" href="http://www.hhv.de/shop/en/help/packstation-64" data-tracking-label="Shipping &amp; Delivery > Topics > Packstation">Packstation</a><a class="node" title="SHL &amp; UPS Shopfinder" href="http://www.hhv.de/shop/en/help/shl-ups-shopfinder-79" data-tracking-label="Shipping &amp; Delivery > Topics > SHL &amp; UPS Shopfinder">SHL &amp; UPS Shopfinder</a></div></div></div></div></div><div class="flyout hidden category_6" data-flyout="category_6"><div class="columns clearfix c2"><div class="column first"><div class="group"><div class="title" title="Topics">Topics</div><div class="nodes"><a class="node" title="Disclaimer" href="http://www.hhv.de/shop/en/help/disclaimer-27" data-tracking-label="Returns &amp; Exchanges > Topics > Disclaimer">Disclaimer</a><a class="node" title="Returns" href="http://www.hhv.de/shop/en/help/returns-28" data-tracking-label="Returns &amp; Exchanges > Topics > Returns">Returns</a><a class="node" title="Return costs" href="http://www.hhv.de/shop/en/help/return-costs-30" data-tracking-label="Returns &amp; Exchanges > Topics > Return costs">Return costs</a><a class="node" title="Reimbursement" href="http://www.hhv.de/shop/en/help/reimbursement-33" data-tracking-label="Returns &amp; Exchanges > Topics > Reimbursement">Reimbursement</a></div></div></div><div class="column last continue"><div class="group"><div class="title">&nbsp;</div><div class="nodes"><a class="node" title="Exchange" href="http://www.hhv.de/shop/en/help/exchange-57" data-tracking-label="Returns &amp; Exchanges > Topics > Exchange">Exchange</a><a class="node" title="No delivery" href="http://www.hhv.de/shop/en/help/no-delivery-58" data-tracking-label="Returns &amp; Exchanges > Topics > No delivery">No delivery</a></div></div></div></div></div><div class="flyout hidden category_3" data-flyout="category_3"><div class="columns clearfix c2"><div class="column first"><div class="group"><div class="title" title="Topics">Topics</div><div class="nodes"><a class="node" title="Orders" href="http://www.hhv.de/shop/en/help/orders-69" data-tracking-label="My Account > Topics > Orders">Orders</a><a class="node" title="Wishlist" href="http://www.hhv.de/shop/en/help/wishlist-8" data-tracking-label="My Account > Topics > Wishlist">Wishlist</a><a class="node" title="Subscribe to or unsubscribe from our newsletter" href="http://www.hhv.de/shop/en/help/newsletter" data-tracking-label="My Account > Topics > Subscribe to or unsubscribe from our newsletter">Subscribe to or unsubscribe from our newsletter</a></div></div></div><div class="column last continue"><div class="group"><div class="title">&nbsp;</div><div class="nodes"><a class="node" title="Forgot your password?" href="http://www.hhv.de/shop/en/help/forgot-your-password-9" data-tracking-label="My Account > Topics > Forgot your password?">Forgot your password?</a></div></div></div></div></div><div class="flyout hidden category_7" data-flyout="category_7"><div class="columns clearfix c2"><div class="column first"><div class="group"><div class="title" title="Topics">Topics</div><div class="nodes"><a class="node" title="Sizes for men" href="http://www.hhv.de/shop/en/help/sizes-for-men-24" data-tracking-label="Products &amp; Sizes > Topics > Sizes for men">Sizes for men</a><a class="node" title="Sizes for women" href="http://www.hhv.de/shop/en/help/sizes-for-women-72" data-tracking-label="Products &amp; Sizes > Topics > Sizes for women">Sizes for women</a><a class="node" title="Size of shoes" href="http://www.hhv.de/shop/en/help/size-of-shoes-26" data-tracking-label="Products &amp; Sizes > Topics > Size of shoes">Size of shoes</a></div></div></div><div class="column last continue"><div class="group"><div class="title">&nbsp;</div><div class="nodes"><a class="node" title="You don’t have what I want!" href="http://www.hhv.de/shop/en/help/you-don-t-have-what-i-want-67" data-tracking-label="Products &amp; Sizes > Topics > You don’t have what I want!">You don’t have what I want!</a></div></div></div></div></div><div class="flyout hidden more_categories" data-flyout="more_categories"><div class="columns clearfix c3"><div class="column first"><div class="group"><div class="title" title="Gift Certificates, Codes, etc.">Gift Certificates, Codes, etc.</div><div class="nodes"><a class="node" title="How to redeem" href="http://www.hhv.de/shop/en/help/how-to-redeem-68" data-tracking-label="More Topics > Gift Certificates, Codes, etc. > How to redeem">How to redeem</a><a class="node" title="Bonus items" href="http://www.hhv.de/shop/en/help/bonus-items-51" data-tracking-label="More Topics > Gift Certificates, Codes, etc. > Bonus items">Bonus items</a><a class="node" title="Credits" href="http://www.hhv.de/shop/en/help/credits-50" data-tracking-label="More Topics > Gift Certificates, Codes, etc. > Credits">Credits</a></div></div></div><div class="column"><div class="group"><div class="title" title="Used Vinyl">Used Vinyl</div><div class="nodes"><a class="node" title="Condition" href="http://www.hhv.de/shop/en/help/condition-23" data-tracking-label="More Topics > Used Vinyl > Condition">Condition</a><a class="node" title="Exchanging records" href="http://www.hhv.de/shop/en/help/exchanging-records-21" data-tracking-label="More Topics > Used Vinyl > Exchanging records">Exchanging records</a><a class="node" title="Got records for sale?" href="http://www.hhv.de/shop/en/help/purchase" data-tracking-label="More Topics > Used Vinyl > Got records for sale?">Got records for sale?</a></div></div></div><div class="column last"><div class="group"><div class="title" title="Legals &amp; Imprint">Legals &amp; Imprint</div><div class="nodes"><a class="node" title="General terms and conditions (GTC) of hhv.de" href="http://www.hhv.de/shop/en/help/terms" data-tracking-label="More Topics > Legals &amp; Imprint > General terms and conditions (GTC) of hhv.de">General terms and conditions (GTC) of hhv.de</a><a class="node" title="Instructions for withdrawal" href="http://www.hhv.de/shop/en/help/instructions-for-withdrawal-5" data-tracking-label="More Topics > Legals &amp; Imprint > Instructions for withdrawal">Instructions for withdrawal</a><a class="node" title="Privacy" href="http://www.hhv.de/shop/en/help/privacy" data-tracking-label="More Topics > Legals &amp; Imprint > Privacy">Privacy</a><a class="node" title="Imprint" href="http://www.hhv.de/shop/en/help/imprint" data-tracking-label="More Topics > Legals &amp; Imprint > Imprint">Imprint</a><a class="node" title="Terms and Conditions Raffle" href="http://www.hhv.de/shop/en/help/terms-and-conditions-raffle-73" data-tracking-label="More Topics > Legals &amp; Imprint > Terms and Conditions Raffle">Terms and Conditions Raffle</a><a class="node" title="Advice for Batteries" href="http://www.hhv.de/shop/en/help/advice-for-batteries-20" data-tracking-label="More Topics > Legals &amp; Imprint > Advice for Batteries">Advice for Batteries</a></div></div></div></div></div></div>
+</div>
+	<div id="breadcrumb">
+		<div data-breadcrumb-data="" class="hidden" style="">
+			{"crumbs":[{"title":"Home","path":"http://www.hhv.de/shop/en"},{"title":"Help","path":"http://www.hhv.de/shop/en/help"},{"title":"Privacy","path":"http://www.hhv.de/shop/en/help/privacy"}]}
 		</div>
-		<div class="flyout hidden" data-flyout="help_navigation_2" data-flyout-close-callback="help_navigation_close_flyout" data-flyout-open-callback="help_navigation_open_flyout">
-			<div class="categories clearfix">
-				<div class="category">
-					<div class="title">
-						Returns &amp; Exchanges
-					</div>
 
-					<div class="topics">
-							<a href="http://www.hhv.de/shop/en/help/disclaimer-27" class="topic">Disclaimer</a>
-							<a href="http://www.hhv.de/shop/en/help/returns-28" class="topic">Returns</a>
-							<a href="http://www.hhv.de/shop/en/help/return-costs-30" class="topic">Return costs</a>
-							<a href="http://www.hhv.de/shop/en/help/reimbursement-33" class="topic">Reimbursement</a>
-							<a href="http://www.hhv.de/shop/en/help/exchange-57" class="topic">Exchange</a>
-							<a href="http://www.hhv.de/shop/en/help/no-delivery-58" class="topic">No delivery</a>
-					</div>
-				</div>
+	<a href="#" class="back hidden" style="">
+		Back to <span class="to"></span>
+</a>
+	<span class="split hidden" style=""></span>
 
-			</div>
+	<div class="crumbs" style="width: 878px; "><div class="crumb" index="0" itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb"><a href="http://www.hhv.de/shop/en" itemprop="url"><span itemprop="title">Home</span></a></div><span class="separator">&gt;</span><div class="crumb" index="1" itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb"><a href="http://www.hhv.de/shop/en/help" itemprop="url"><span itemprop="title">Help</span></a></div><span class="separator">&gt;</span><div class="crumb" index="2" itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb"><a href="http://www.hhv.de/shop/en/help/privacy" itemprop="url"><span itemprop="title">Privacy</span></a></div></div>
 
-			<div class="arrow"></div>
-		</div>
-		<div class="flyout hidden" data-flyout="help_navigation_3" data-flyout-close-callback="help_navigation_close_flyout" data-flyout-open-callback="help_navigation_open_flyout">
-			<div class="categories clearfix">
-				<div class="category">
-					<div class="title">
-						My Account
-					</div>
-
-					<div class="topics">
-							<a href="http://www.hhv.de/shop/en/help/orders-69" class="topic">Orders</a>
-							<a href="http://www.hhv.de/shop/en/help/wishlist-8" class="topic">Wishlist</a>
-							<a href="http://www.hhv.de/shop/en/help/newsletter" class="topic">Subscribe to or unsubscribe from our newsletter</a>
-							<a href="http://www.hhv.de/shop/en/help/forgot-your-password-9" class="topic">Forgot your password?</a>
-					</div>
-				</div>
-
-			</div>
-
-			<div class="arrow"></div>
-		</div>
-		<div class="flyout hidden" data-flyout="help_navigation_4" data-flyout-close-callback="help_navigation_close_flyout" data-flyout-open-callback="help_navigation_open_flyout">
-			<div class="categories clearfix">
-				<div class="category">
-					<div class="title">
-						Products &amp; Sizes
-					</div>
-
-					<div class="topics">
-							<a href="http://www.hhv.de/shop/en/help/sizes-for-men-24" class="topic">Sizes for men</a>
-							<a href="http://www.hhv.de/shop/en/help/sizes-for-women-72" class="topic">Sizes for women</a>
-							<a href="http://www.hhv.de/shop/en/help/size-of-shoes-26" class="topic">Size of shoes</a>
-							<a href="http://www.hhv.de/shop/en/help/you-don-t-have-what-i-want-67" class="topic">You don’t have what I want!</a>
-					</div>
-				</div>
-
-			</div>
-
-			<div class="arrow"></div>
-		</div>
-		<div class="flyout hidden" data-flyout="help_navigation_5" data-flyout-close-callback="help_navigation_close_flyout" data-flyout-open-callback="help_navigation_open_flyout">
-			<div class="categories clearfix">
-				<div class="category">
-					<div class="title">
-						Gift Certificates, Codes, etc.
-					</div>
-
-					<div class="topics">
-							<a href="http://www.hhv.de/shop/en/help/how-to-redeem-68" class="topic">How to redeem</a>
-							<a href="http://www.hhv.de/shop/en/help/bonus-items-51" class="topic">Bonus items</a>
-							<a href="http://www.hhv.de/shop/en/help/credits-50" class="topic">Credits</a>
-					</div>
-				</div>
-
-			</div>
-
-			<div class="arrow"></div>
-		</div>
-		<div class="flyout hidden" data-flyout="help_navigation_6" data-flyout-close-callback="help_navigation_close_flyout" data-flyout-open-callback="help_navigation_open_flyout">
-			<div class="categories clearfix">
-				<div class="category">
-					<div class="title">
-						Used Vinyl
-					</div>
-
-					<div class="topics">
-							<a href="http://www.hhv.de/shop/en/help/condition-23" class="topic">Condition</a>
-							<a href="http://www.hhv.de/shop/en/help/exchanging-records-21" class="topic">Exchanging records</a>
-							<a href="http://www.hhv.de/shop/en/help/purchase" class="topic">We purchase from you</a>
-					</div>
-				</div>
-
-				<div class="spacer"></div>
-				<div class="category">
-					<div class="title">
-						Legals &amp; Imprint
-					</div>
-
-					<div class="topics">
-							<a href="http://www.hhv.de/shop/en/help/terms" class="topic">General terms and conditions (GTC) of hhv.de</a>
-							<a href="http://www.hhv.de/shop/en/help/cancellation-notice-5" class="topic">Cancellation notice</a>
-							<a href="http://www.hhv.de/shop/en/help/privacy" class="topic">Privacy</a>
-							<a href="http://www.hhv.de/shop/en/help/imprint" class="topic">Imprint</a>
-							<a href="http://www.hhv.de/shop/en/help/advice-for-batteries-20" class="topic">Advice for Batteries</a>
-					</div>
-				</div>
-
-			</div>
-
-			<div class="arrow"></div>
-		</div>
+	<div class="prev_next">
+		<a href="#" class="prev hidden"></a>
+		<span class="split hidden"></span>
+		<a href="#" class="next hidden"></a>
 	</div>
 </div>
 
-<h1>Privacy</h1>
+	<h1>Privacy</h1>
 
-<div class="columns">
-	<div class="column w20px"></div>
-
-	<div class="column w595px content">
-		<p>We appreciate your interest in our website. Protecting your privacy is very important to us. Below we provide detailed information on how to deal with your data.</p>
+	<div class="data clearfix">
+		<div class="content">
+			<p>We appreciate your interest in our website. Protecting your privacy is very important to us. Below we provide detailed information on how to deal with your data.</p>
 <h2>Collection, processing and use of personal data</h2>
-<p>You can visit our site, without disclosing your person. We only store access data without personal reference, such as the page from which you visit us or the name of the requested file. This data is used solely to improve our offer and does not allow the conclusion on your person. For detailed information on standard server logs, see <a href="http://en.wikipedia.org/wiki/Server_log" class="resource link resource_23">http://en.wikipedia.org/wiki/Server_log</a>. Personal data are only collected when you voluntarily place an order or open a customer account or register for our newsletter. We use the data without your prior consent solely for the purpose of processing the order. With full implementation of the contract and full payment your data will be closed for further use and deleted after the tax and commercial storage periods, unless you have given explicit consent to the further use of your data. If you registered for the newsletter your email-address will be used for advertising purposes until you unsubscribe from the newsletter. You can unsubscribe at any time.</p>
+<p>You can visit our site, without disclosing your person. We only store access data without personal reference, such as the page from which you visit us or the name of the requested file. This data is used solely to improve our offer and does not allow the conclusion on your person. For detailed information on standard server logs, see <a href="http://en.wikipedia.org/wiki/Server_log" class="resource link resource_23" target="_blank">http://en.wikipedia.org/wiki/Server_log</a>. Personal data are only collected when you voluntarily place an order or open a customer account or register for our newsletter. We use the data without your prior consent solely for the purpose of processing the order. With full implementation of the contract and full payment your data will be closed for further use and deleted after the tax and commercial storage periods, unless you have given explicit consent to the further use of your data. If you registered for the newsletter your email-address will be used for advertising purposes until you unsubscribe from the newsletter. You can unsubscribe at any time.</p>
 <h2>Use of Cookies</h2>
 <p>On several sites we use cookies to make visiting our website attractive and to allow the use of certain functions. Cookies are small text files that are stored on your computer. Most of the cookies used on our webserver will be deleted from your hard drive after the browser session (so-called session cookies). Other cookies remain on your computer and allow us to recognize your computer during your next visit (so-called persistent cookies). Our partners are not allowed to collect, to process or use personal information using cookies.</p>
 <h3>Web analytics by econda GmbH</h3>
-<p>To ensure the tailored design and optimum performance of this website, solutions and technologies by econda GmbH (<a href="http://www.econda.de/" class="resource link resource_24">http://www.econda.de</a>) not only collect and store anonymized data, but also use this data to compile usage profiles by means of pseudonyms. Cookies can be used for this purpose which make it possible for an Internet browser to be recognized. Without the express consent of a visitor, however, usage profiles will not be stored together with data pertaining to the pseudonymous visitor. IP addresses, in particular, are rendered indecipherable immediately after receipt, which makes it impossible to match a usage profile with an IP address. Visitors of our website can disagree the collecting and storing of their data here: <a href="http://www.econda.com/econda/company/data-protection/revocation-of-data-storage/" class="resource link resource_25">http://www.econda.com/econda/company/data-protection/revocation-of-data-storage/</a></p>
+<p>To ensure the tailored design and optimum performance of this website, solutions and technologies by econda GmbH (<a href="http://www.econda.de/" class="resource link resource_24" target="_blank">http://www.econda.de</a>) not only collect and store anonymized data, but also use this data to compile usage profiles by means of pseudonyms. Cookies can be used for this purpose which make it possible for an Internet browser to be recognized. Without the express consent of a visitor, however, usage profiles will not be stored together with data pertaining to the pseudonymous visitor. IP addresses, in particular, are rendered indecipherable immediately after receipt, which makes it impossible to match a usage profile with an IP address. Visitors of our website can disagree the collecting and storing of their data here: <a href="http://www.econda.com/econda/company/data-protection/revocation-of-data-storage/" class="resource link resource_25" target="_blank">http://www.econda.com/econda/company/data-protection/revocation-of-data-storage/</a></p>
 <h3>Web analytics by Google Inc.</h3>
 <p>This website uses Google Analytics, a web analytics service provided by Google Inc. (“Google”). Google Analytics uses “cookies”, text files that are stored on your computer, to analyze the use of the website. The information generated by the cookie about your use of this site are usually transmitted to a Google server in the <span class="caps">USA</span> and stored there. In the case of activation of IP anonymization on this website, your IP address from Google will be truncated within Member States of the European Union or other parties to the Agreement on the European Economic Area before. Only in exceptional cases the full IP address is sent to a Google server in the <span class="caps">USA</span> where it shortened. On behalf of the site owner Google will use this information to evaluate your use of the website, compiling reports on website activity together and to provide other use of the website and internet related services with respect to the website owner. The IP address provided from your browser within the framework of Google Analytics will not be merged with other data from Google. You may refuse the use of cookies by selecting the appropriate settings on your browser. We would like point out, however, that in this case you may not be able to fully use all features of this site.</p>
-<p>You may also prevent the detection of the cookie generated by and related to your use of the website (including your IP address) to Google and the processing of these data by Google by downloading and installing the available browser pluginat the following link <a href="https://tools.google.com/dlpage/gaoptout?hl=en" class="resource link resource_26">http://tools.google.com/dlpage/gaoptout?hl=en</a></p>
+<p>You may also prevent the detection of the cookie generated by and related to your use of the website (including your IP address) to Google and the processing of these data by Google by downloading and installing the available browser pluginat the following link <a href="https://tools.google.com/dlpage/gaoptout?hl=en" class="resource link resource_26" target="_blank">http://tools.google.com/dlpage/gaoptout?hl=en</a></p>
+<p>You can refuse the use of Google Analytics by clicking on the following link. An opt-out cookie will be set on the computer, which prevents the future collection of your data when visiting this website:<br>
+<a href="javascript:hhvGoogleUniversalAnalyticsService.setOptOutCookie()" class="resource link resource_51">Disable Google Analytics</a></p>
+<p>Further information concerning the terms and conditions of use and data privacy can be found at http://www.google.com/analytics/terms/gb.html or at https://www.google.de/intl/en_uk/policies/.  Please note that on this website, Google Analytics code is supplemented by “gat._anonymizeIp();” to ensure an anonymized collection of IP addresses (so called IP-masking).</p>
+<p>We also use Google Analytics to analyze data from AdWords and the Double-Click-Cookie for statistical purposes. If this is not desired, you can turn off this function in the Ads Settings(http://www.google.com/settings/ads/onweb/?hl=en).</p>
 <h2>Disclosure of personal data</h2>
 <p>A transmission of personal data takes place only to the shipping company that we outsource the delivery of your order, as they are required to deliver the goods. For the processing of payments your payment information will be transferred only to the credit institute responsible for your payment.</p>
 <h2>Right to information</h2>
@@ -1433,388 +277,376 @@ content: '/shop/en/help/privacy'
 <h2>Withdrawal of consent</h2>
 <p>During the ordering process you have explicitly accepted the agreements given below. Please note that your consent can be revoked at any time.</p>
 <h3>Permission to email advertising</h3>
-<div class="resource image resource_22"><div class="inline"><img src="http://assets.hhv.de/images/shop_help_images/en/inline/screenshot_export__newsletter_en_6742a251e6009da5214992b2d0303a19.png" alt="Newsletter Subscribe and Unsubscribe" title="Newsletter Subscribe and Unsubscribe"><div class="zoom" data-flyout-anchor="help_resource_22" data-flyout-anchor-mode="click"></div><p></p></div><div class="popup hidden" data-flyout="help_resource_22" data-flyout-close-mode="click" data-flyout-open-callback="help_resource_flyout_open" data-flyout-close-callback="help_resource_flyout_close"><img src="http://assets.hhv.de/images/shop_help_images/en/popup/screenshot_export__newsletter_en_6742a251e6009da5214992b2d0303a19.png" alt="Newsletter Subscribe and Unsubscribe" title="Newsletter Subscribe and Unsubscribe"><div class="close"></div></div></div><p></p>
+<div class="resource image resource_22" style="width: 631px; "><img src="http://assets.hhv.de/images/shop_help_images/en/inline/newsletter_en_970px_65740c53f5d11af82826bfd62ae98e61.jpg" alt="Newsletter Subscribe and Unsubscribe" title="Newsletter Subscribe and Unsubscribe" data-popup-index="0"><div class="icon"></div></div>
 <p><a href="http://www.hhv.de/shop/en/help/newsletter" class="document reference document_15">Goto Newsletter-Page</a></p>
 <h2>Use of Facebook social Plugins</h2>
-<p>This website uses so-called social plugins (“Plugins”) of the social network Facebook, which is operated from the Facebook Inc., 1601 S. California Ave, Palo Alto, CA 94304, <span class="caps">USA</span> (“Facebook”). The plugins are a Facebook logo or the words “social plug-in from Facebook” or marked as “Facebook social Plugin”. An overview of the Facebook plugins and their appearance can be found here: <a href="http://developers.facebook.com/docs/plugins/" class="resource link resource_28">http://developers.facebook.com/plugins</a></p>
+<p>This website uses so-called social plugins (“Plugins”) of the social network Facebook, which is operated from the Facebook Inc., 1601 S. California Ave, Palo Alto, CA 94304, <span class="caps">USA</span> (“Facebook”). The plugins are a Facebook logo or the words “social plug-in from Facebook” or marked as “Facebook social Plugin”. An overview of the Facebook plugins and their appearance can be found here: <a href="http://developers.facebook.com/docs/plugins/" class="resource link resource_28" target="_blank">http://developers.facebook.com/plugins</a></p>
 <p>If you visit a page of our website which contains such a plugin, your browser builds a direct connection to the servers of Facebook. The content of the plugin will be sent directly to your browser and from there it will be incorporated in the website.</p>
 <p>By integrating the plugin Facebook receives the information that your browser has accessed the corresponding page of our website, even if you don’t have a Facebook account or are not currently logged into Facebook. This information (including your IP address) will be sent directly from your browser to a server of Facebook in the U.S. and stored there.</p>
 <p>If you are logged into Facebook, Facebook can assign your visit of our website to your Facebook account directly. If you interact with the plugins, for example, by pressing the “Like” button or by using the comment function, the corresponding information is also transmitted directly to a server of Facebook and stored there. The information is also posted on Facebook and can be seen by your Facebook friends.</p>
 <p>Facebook may use this information for purposes of advertising, market research and personalized design of Facebook pages. For this purpose, Facebook creates user-, interest- and relationship profiles, such as your use of our website can be evaluated in order to present you individualised onscreen advertisements, to inform other Facebook users about your activities on our website and to provide further Facebook related services.</p>
 <p>If you do not want Facebook to allocates the collected data via our website to your Facebook account, you must log out before you visit our site.</p>
-<p>Purpose and scope of this data collection and the further processing and use of this data by Facebook, and your rights and settings taken to protect your privacy can be found in the privacy notices of Facebook: <a href="https://www.facebook.com/about/privacy/" class="resource link resource_27">http://www.facebook.com/about/privacy/</a></p>
-	</div>
+<p>Purpose and scope of this data collection and the further processing and use of this data by Facebook, and your rights and settings taken to protect your privacy can be found in the privacy notices of Facebook: <a href="https://www.facebook.com/about/privacy/" class="resource link resource_27" target="_blank">http://www.facebook.com/about/privacy/</a></p>
+<h2>Use of Addthis-Plugins</h2>
+<p>Our website uses so-called Social Plugins („Plugins“) created and run by the book-marking service AddThis <span class="caps">LLC</span>, Inc. 8000 Westpark Drive, Suite 625, McLean, VA 2210, <span class="caps">USA</span> („AddThis“). These Plugins are marked by a white plus sign on an orange background. An overview of all AddThis Plugins and what they look like can be found here: https://www.addthis.com/get/sharing<br>
+Once you view a page that belongs to our web presence and that also contains the above mentioned Plugins, your browser will be connected directly to the AddThis servers. The Plugin will then feedback information to your browser and the site you are visiting. Through this connection AddThis also registers that your browser has visited this page and to identify your browser in the future saves a cookie on your end device. This browser information including your IP address is transferred and saved directly to the servers of AddThis in the U.S. AddThis uses the data to create anonymous profiles, which are used as the basis for personalised and interest based marketing on websites that you visit and that use AddThis-Plugins. To find out more about the reasons for and scope of the data acquisition and the way in which the data is processed and used by AddThis please check their data protection policy: http://www.addthis.com/privacy/privacy-policy<br>
+To revoke the AddThis data collection you can use the so-called Opt-Out Cookie, which can be downloaded from the following link: http://www.addthis.com/privacy/opt-out<br>
+You can also block the loading of AddThis Plugins with Add-Ons for your browser entirely, e.g. with a script blocker „NoScript“ (http://noscript.net/).</p>
+<h2>External data protection officer in accordance with § 4f paragraph 1 sentence 1 of the Federal Data Protection Act (Bundesdatenschutzgesetz, <span class="caps">BDSG</span>):</h2>
+<p>Herrn RA Reinher Karl <br>
+Gesellschafter der <span class="caps">HABEWI</span> UG &amp; Co KG<br>
+Palmaille 96<br>
+22767 Hamburg</p>
 
-	<div class="column w40px"></div>
+			<h2>How helpful was this document to you?</h2>
 
-	<div class="column w295px side">
+			<div class="login hidden">
+				<p>
+					Please log in <a href="#">here</a> to rate this document.
+				</p>
+
+				<a href="#" class="hhv_cta_1 compact">Login</a>
+			</div>
+
+			<div class="rate clearfix hidden" data-document-id="16">
+					<a href="#" class="hhv_cta_2 compact rating rating_1" data-rating-id="1">Very Helpful</a>
+					<a href="#" class="hhv_cta_2 compact rating rating_2" data-rating-id="2">Helpful</a>
+					<a href="#" class="hhv_cta_2 compact rating rating_3" data-rating-id="3">Less Helpful</a>
+					<a href="#" class="hhv_cta_2 compact rating rating_5" data-rating-id="5">Not Helpful</a>
+			</div>
+		</div>
+
 		<div class="related_information">
-	<div class="title">
-		More Information
-	</div>
+				<h2>More Information</h2>
 
-	<div class="entries">
 
-		<a href="http://www.hhv.de/shop/en/help/terms" class="entry">General terms and conditions (GTC) of hhv.de</a>
-		<a href="http://www.hhv.de/shop/en/help/cancellation-notice-5" class="entry">Cancellation notice</a>
-		<a href="http://www.hhv.de/shop/en/help/imprint" class="entry">Imprint</a>
-		<a href="http://www.hhv.de/shop/en/help/advice-for-batteries-20" class="entry">Advice for Batteries</a>
+					<a href="http://www.hhv.de/shop/en/help/terms" class="information">General terms and conditions (GTC) of hhv.de</a>
+					<a href="http://www.hhv.de/shop/en/help/instructions-for-withdrawal-5" class="information">Instructions for withdrawal</a>
+					<a href="http://www.hhv.de/shop/en/help/imprint" class="information">Imprint</a>
+					<a href="http://www.hhv.de/shop/en/help/terms-and-conditions-raffle-73" class="information">Terms and Conditions Raffle</a>
+					<a href="http://www.hhv.de/shop/en/help/advice-for-batteries-20" class="information">Advice for Batteries</a>
 
-	</div>
-</div>
-
-	</div>
-
-	<div class="column w20px"></div>
-</div>
-
-<div class="rating">
-	<div class="title">
-		How helpful was this document to you?
-	</div>
-
-	<div class="login">
-		<div class="text">
-			Please log in <a href="https://www.hhv.de/shop/en/profile/login">here</a> to rate this document.
-		</div>
-
-		<a href="https://www.hhv.de/shop/en/profile/login" class="button">Login</a>
-	</div>
-</div>
-
-<div class="footer">
-	<div class="box">
-		<div class="contact">
-			<a href="http://www.hhv.de/shop/en/help/contact#9-16" class="form">Contact Customer Service</a>
-
-			<div class="hotline">
-				Service-Hotline: +49(0)30 29 38 12 40 – Monday - Friday 9am - 7pm
-			</div>
-		</div>
-
-		<div class="service">
-			<div class="feature shipping_free_in_germany">
-				No Shipping Costs in Germany above 80 €
-			</div>
-
-			<div class="feature shipping_ready_in">
-				Ready for Shipment 24h
-			</div>
-
-			<div class="feature free_retour">
-				Free Returns<span class="annotation_anchor">
-	*
-	<span class="annotation hidden">Free returns are available for shipments inside of Germany for returns with a value of goods above 40,- €.</span>
-</span>
-			</div>
-
-			<div class="feature retour_for_x_days">
-				30 Days Return<span class="annotation_anchor">
-	*
-	<span class="annotation hidden">You can return all items without any reason within 30 days after you have received the shipment. Details about your rights of cancellation can be found on the following site under the point <a href="http://www.hhv.de/shop/en/help/terms" rel="external">cancellation notice</a>.</span>
-</span>
-			</div>
 		</div>
 	</div>
 
-
-	<a href="javascript:scroll(0,0)" class="back_to_top">Back To Top</a>
-</div>
 		</div>
+
 		
-		<div id="footer">
-	<div class="upper">
-		<div class="service_links">
-			<ul>
-				<li><a href="http://www.hhv.de/shop/en/help">Help</a></li>
-				<li><a href="http://www.hhv.de/shop/en/help/shipping">Shipping</a></li>
-				<li class="last"><a href="http://www.hhv.de/shop/en/help/contact">Contact</a></li>
-			</ul>
-			
-			<hr>
-			
-			<div class="hotline">
-				Hotline: <span class="bright">(Mo-Fr 9am - 7pm)</span><br>
-				+49(0)30 29 38 12 40
+	<div id="footer">
+		<div class="customer_service_title">
+			The hhv.de Customer-Service
+		</div>
+
+		<div class="customer_service">
+			<div class="inset">
+				<div class="contact">
+					<a href="http://www.hhv.de/shop/en/help/contact" class="form">Contact Customer Service</a>
+
+					<div class="separator"></div>
+
+					<div class="hotline">
+						Service-Hotline: +49 (0)30 29 38 12 40 <span class="time">Monday-Friday / 9am-7pm</span>
+					</div>
+				</div>
+
 			</div>
 		</div>
-		
-		<div class="internal_links">
-			<ul>
-				<li><a href="http://www.hhv.de/shop/en/help/imprint">Imprint</a></li>
-				<li><a href="http://www.hhv.de/shop/en/help/terms">Terms</a></li>
-				<li><a href="http://www.hhv.de/shop/en/help/privacy">Privacy</a></li>
-				<li><a href="http://www.hhv.de/shop/en/help/purchase">Purchase</a></li>
-				<li class="last"><a href="http://www.hhv.de/shop/en/help/jobs">Jobs</a></li>
-			</ul>
-		</div>
-		
-		<div class="external_links">
-			<ul>
-				<li><a href="http://www.hhv-mag.com/" rel="external">hhv.de mag</a></li>
-				<li><a href="http://www.hhv.de/shop/en/store">hhv.de Store</a></li>
-				<li><a href="https://www.facebook.com/hhvdestore" rel="external">hhv.de Store Blog</a></li>
-				<li><a href="http://www.hhv.de/shop/en/releases">Label/Releases</a></li>
-				<li class="last"><a href="http://www.projectmooncircle.com/" rel="external">Project: Mooncircle</a></li>
-			</ul>
-		</div>
-		
-		<div class="social_links">
-			<ul>
-				<li><a href="http://www.facebook.com/HHV.DE?ref=ts" class="icon big facebook" rel="external">Facebook</a></li>
-				<li><a href="http://twitter.com/hhvde" class="icon big twitter" rel="external">Twitter</a></li>
-				<li class="last"><a href="http://www.hhv.de/shop/en/help/rss-feed" class="icon big rss">RSS Feed</a></li>
-			</ul>
-		</div>
-		
-		<div class="newsletter_logos">
-			<div class="newsletter">
-				<span class="strong">Newsletter</span> <span class="bright">subscribe</span><br>
-				
-				<form accept-charset="UTF-8" action="http://www.hhv.de/shop/en/help/newsletter" class="clearfix formtastic newsletter_recipient" id="new_newsletter_recipient" method="get" novalidate="novalidate"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"></div>
-					<fieldset class="inputs"><ol>
-						<li class="hidden input required" id="newsletter_recipient_mode_input"><input id="newsletter_recipient_mode" name="newsletter_recipient[mode]" type="hidden" value="in">
 
-</li>
-						<li class="string input optional stringish" id="newsletter_recipient_email_input"><input id="newsletter_recipient_email" name="newsletter_recipient[email]" placeholder="Enter email here" type="text">
+		<div class="main clearfix">
+			<div class="boxes left clearfix">
+				<div class="box company">
+					<div class="title">
+						Company
+					</div>
 
-</li>
-</ol></fieldset>					
-					<fieldset class="actions"><ol>
-						<li class="action button_action " id="newsletter_recipient_submit_action"><button data-disable-with="Subscribe..." name="button" type="submit">Subscribe</button></li>
-</ol></fieldset></form>				
-				<div class="links">
-					<a href="http://www.hhv.de/shop/en/help/privacy" class="light">Privacy</a>
-				 	<span class="separator">|</span>
-					<a href="http://www.hhv.de/shop/en/help/newsletter" class="light">Unsubscribe</a>
+					<div class="content">
+						<div class="text link_list">
+							<a href="http://www.hhv.de/shop/en/help/purchase">Got records for sale?</a><br>
+							<a href="http://www.hhv.de/shop/en/help/jobs">Jobs</a><br>
+							<a href="http://www.hhv.de/shop/en/help/contact">Contact</a><br>
+						</div>
+					</div>
+				</div>
+
+				<div class="box help">
+					<div class="title">
+						Help
+					</div>
+
+					<div class="content">
+						<div class="text link_list">
+							<a href="http://www.hhv.de/shop/en/help/how-to-order-31">How to order</a><br>
+							<a href="http://www.hhv.de/shop/en/help/payment-change-payment-method-36">Payment &amp; Change Payment Method</a><br>
+							<a href="http://www.hhv.de/shop/en/help/shipping">Shipping</a><br>
+							<a href="http://www.hhv.de/shop/en/help/returns-28">Returns</a><br>
+							<a href="http://www.hhv.de/shop/en/help">...more</a><br>
+						</div>
+					</div>
+				</div>
+
+				<div class="box legal">
+					<div class="title">
+						Legal
+					</div>
+
+					<div class="content">
+						<div class="text link_list">
+							<a href="http://www.hhv.de/shop/en/help/imprint">Imprint</a><br>
+							<a href="http://www.hhv.de/shop/en/help/terms">General terms and conditions (GTC) of hhv.de</a><br>
+							<a href="http://www.hhv.de/shop/en/help/privacy">Privacy</a><br>
+							<a href="http://www.hhv.de/shop/en/help/instructions-for-withdrawal-5">Instructions for withdrawal</a><br>
+						</div>
+					</div>
+				</div>
+
+				<div class="box newsletter">
+					<div class="title">
+						Newsletter
+					</div>
+
+					<div class="content">
+						<div class="text">
+							The newsletter informs you about new entries and changes on the site.
+						</div>
+
+						<form id="footer_newsletter" class="hhv_form clearfix" action="/shop/ajax/help/newsletter" method="post" accept-charset="UTF-8">
+							<input type="hidden" name="mode" value="in">
+
+							<fieldset class="e_mail">
+								<div class="input_wrapper text" id="footer_newsletter_email_wrapper"><label for="footer_newsletter_email">Your e-mail address</label><div class="positioner"><input type="email" name="data[email]" data-label="Your e-mail address" id="footer_newsletter_email"></div></div>
+							</fieldset>
+
+							<fieldset class="buttons clearfix">
+								<button type="submit" class="hhv_cta_1 compact in" data-disable-with="Submit..." data-default-label="
+									Subscribe
+								">
+									Subscribe
+								</button>
+
+								<button type="submit" class="hhv_cta_3 compact out" data-disable-with="Submit..." data-default-label="
+									Unsubscribe
+								">
+									Unsubscribe
+								</button>
+							</fieldset>
+						<input type="hidden" name="validate" value="0"><div class="blocker hidden"></div></form>
+
+						<div class="text more">
+							<a href="http://www.hhv.de/shop/en/help/privacy">Privacy</a>
+						</div>
+					</div>
+				</div>
+
+				<div class="boxes corporate clearfix">
+					<div class="box mag">
+						<div class="title">
+							hhv.de mag
+						</div>
+
+						<div class="content clearfix">
+							<a href="http://www.hhv-mag.com/" class="logo" target="_blank"></a>
+
+							<div class="text">
+								<a href="http://www.hhv-mag.com/" target="_blank">www.hhv-mag.com</a><br>
+								
+							</div>
+						</div>
+					</div>
+
+					<div class="box diggin">
+						<div class="title">
+							Diggin Is A Science
+						</div>
+
+						<div class="content">
+							<a href="https://www.facebook.com/DigginIsAScience" class="logo" target="_blank"></a>
+
+							<div class="text">
+								<a href="https://www.facebook.com/DigginIsAScience" target="_blank">at Facebook</a>
+							</div>
+						</div>
+					</div>
+
+					<div class="box pmc">
+						<div class="title">
+							Project: Mooncircle
+						</div>
+
+						<div class="content">
+							<a href="http://www.projectmooncircle.com/" class="logo" target="_blank"></a>
+
+							<div class="text">
+								<a href="http://www.projectmooncircle.com/" target="_blank">www.projectmooncircle.com</a><br>
+								<br>
+								<br>
+								<br>
+								<br>
+								
+							</div>
+						</div>
+					</div>
+				</div>
+
+				<div class="boxes features clearfix">
+					<div class="box store">
+						<div class="title">
+							hhv.de Store Berlin
+						</div>
+
+						<div class="content">
+							<div class="text">
+								Grünberger Straße 54<br>
+								10245 Berlin<br>
+								Opening Hours: Mo to Sat / 12am to 8pm<br>
+								Phone 030 293 67 377<br>
+								<a href="http://www.hhv.de/shop/en/store">More Information</a>
+							</div>
+						</div>
+					</div>
+
+					<div class="box bonus_coins">
+						<div class="title">
+							Bonus Coins
+						</div>
+
+						<div class="content">
+							<div class="text">
+								Collect "Bonus Coins" with every item you add to your cart and exchange them for item of our Bonus-Coins-Selection!<br>
+								<a href="/shop/en/all-items/p:5WFhiU">Show Items</a>&nbsp;<span class="separator">|</span>&nbsp;<a href="http://www.hhv.de/shop/en/help/bonus-items-51">More Information</a>
+							</div>
+						</div>
+					</div>
+
+					<div class="box gift_certificates">
+						<div class="title">
+							Gift Certificates
+						</div>
+
+						<div class="content">
+							<div class="text">
+								At hhv.de you can purchase gift certificates for 25.-, 50.- and 100.- €.<br>
+								<a href="/shop/en/gift-coupons/p:wZD06b">Buy Now!</a>&nbsp;<span class="separator">|</span>&nbsp;<a href="http://www.hhv.de/shop/en/help/how-to-redeem-68">More Information</a>
+							</div>
+						</div>
+					</div>
 				</div>
 			</div>
 
-			
-			
-			<div class="payments_shippings">
-				<div class="payment_title">
-					Payment:
-				</div>
-				
-				<div class="shipping_title">
-					Shipping:
+			<div class="boxes right clearfix">
+
+				<div class="box seals">
+					<div class="title">
+						Seals of Quality
+					</div>
+
+					<div class="content">
+						<div class="trusted_shops">
+							<div class="text">
+									Secure shopping at hhv.de:<br>
+									Decorated by Trusted Shops, the only seal of quality with buyer protection.<br>
+									<br>
+									Trusted Shops certifies online shops by carefully checking a set of quality criteria before awarding the European trustmark.
+									With the combination of Trusted Shop's money-back guarantee and the Customer reviews system you are able to order online with confidence.
+							</div>
+						</div>
+
+						<div class="pixi">
+							<a href="https://www.pixi.eu/ausgezeichneter-versand/HHV-65e74d89/cert_en.htm" class="badge" title="pixi* Mail Order Software - Delivery Excellence" target="_blank">
+								<img alt="pixi* Mail Order Software - Delivery Excellence" src="https://www.pixi.eu/ausgezeichneter-versand/HHV-65e74d89/65e74d89-typ4-192x91_en.png" title="pixi* Mail Order Software - Delivery Excellence">
+</a>
+							<div class="text">
+								pixi* Mail Order Software - Delivery Excellence
+							</div>
+						</div>
+					</div>
 				</div>
 
-				<a href="http://www.hhv.de/shop/en/help/terms" class="payment"></a>
-				<a href="http://www.hhv.de/shop/en/help/shipping" class="shipping"></a>
+				<div class="box social">
+					<div class="title">
+						You will also find us at:
+					</div>
+
+					<div class="content">
+						<div class="platforms clearfix">
+							<a href="https://www.facebook.com/HHV.DE" class="facebook" title="Facebook" target="_blank"></a>
+							<a href="http://twitter.com/hhvde" class="twitter" title="Twitter" target="_blank"></a>
+							<a href="https://www.pinterest.com/hhvde/" class="pinterest" title="Pinterest" target="_blank"></a>
+							<a href="http://instagram.com/hhvde" class="instagram" title="Instagram" target="_blank"></a>
+							<a href="http://www.google.com/+hhvde" class="googleplus" title="Google+" target="_blank"></a>
+							<a href="https://www.youtube.com/channel/UCUxZ-JuDFtHGgMKyWzY7jHA" class="youtube" title="YouTube" target="_blank"></a>
+							<a href="http://www.hhv.de/shop/en/help/rss-feed" class="rss" title="RSS Feed"></a>
+						</div>
+
+						<div class="fb-page fb_iframe_widget" data-href="http://www.facebook.com/HHV.DE" data-width="382" data-hide-cover="false" data-show-facepile="true" data-show-posts="false" fb-xfbml-state="rendered" fb-iframe-plugin-query="app_id=&amp;container_width=382&amp;hide_cover=false&amp;href=http%3A%2F%2Fwww.facebook.com%2FHHV.DE&amp;locale=en_US&amp;sdk=joey&amp;show_facepile=true&amp;show_posts=false&amp;width=382"><span style="vertical-align: bottom; width: 382px; height: 224px; "><iframe name="f3dff45d6" width="382px" height="1000px" frameborder="0" allowtransparency="true" allowfullscreen="true" scrolling="no" title="fb:page Facebook Social Plugin" style="border-top-style: none; border-right-style: none; border-bottom-style: none; border-left-style: none; border-width: initial; border-color: initial; width: 382px; height: 224px; visibility: visible; " src="http://www.facebook.com/plugins/page.php?app_id=&amp;channel=http%3A%2F%2Fstatic.ak.facebook.com%2Fconnect%2Fxd_arbiter%2F1ldYU13brY_.js%3Fversion%3D41%23cb%3Df30cef6dcc%26domain%3Dwww.hhv.de%26origin%3Dhttp%253A%252F%252Fwww.hhv.de%252Ff37527e12c%26relation%3Dparent.parent&amp;container_width=382&amp;hide_cover=false&amp;href=http%3A%2F%2Fwww.facebook.com%2FHHV.DE&amp;locale=en_US&amp;sdk=joey&amp;show_facepile=true&amp;show_posts=false&amp;width=382" class=""></iframe></span></div>
+					</div>
+				</div>
 			</div>
 		</div>
-	</div>
-	
-	<div class="annotations hidden"></div>
-	
-	<div class="lower">
-		
-		<div class="brands">
-			<a href="http://www.hhv.de/shop/en/brands/10-deep" class="light">10 Deep</a>
-			<span class="separator">|</span>
-			<a href="http://www.hhv.de/shop/en/brands/acapulco-gold" class="light">Acapulco Gold</a>
-			<span class="separator">|</span>
-			<a href="http://www.hhv.de/shop/en/brands/acrylick" class="light">Acrylick</a>
-			<span class="separator">|</span>
-			<a href="http://www.hhv.de/shop/en/brands/adidas" class="light">adidas</a>
-			<span class="separator">|</span>
-			<a href="http://www.hhv.de/shop/en/brands/akomplice" class="light">Akomplice</a>
-			<span class="separator">|</span>
-			<a href="http://www.hhv.de/shop/en/brands/alife" class="light">Alife</a>
-			<span class="separator">|</span>
-			<a href="http://www.hhv.de/shop/en/brands/asics" class="light">Asics</a>
-			<span class="separator">|</span>
-			<a href="http://www.hhv.de/shop/en/brands/barbour" class="light">Barbour</a>
-			<span class="separator">|</span>
-			<a href="http://www.hhv.de/shop/en/brands/ben-sherman" class="light">Ben Sherman</a>
-			<span class="separator">|</span>
-			<a href="http://www.hhv.de/shop/en/brands/blue-note" class="light">Blue Note</a>
-			<span class="separator">|</span>
-			<a href="http://www.hhv.de/shop/en/brands/brainfeeder" class="light">Brainfeeder</a>
-			<span class="separator">|</span>
-			<a href="http://www.hhv.de/shop/en/brands/brixton" class="light">Brixton</a>
-			<span class="separator">|</span>
-			<a href="http://www.hhv.de/shop/en/brands/carhartt" class="light">Carhartt</a>
-			<span class="separator">|</span>
-			<a href="http://www.hhv.de/shop/en/brands/casio" class="light">Casio</a>
-			<span class="separator">|</span>
-			<a href="http://www.hhv.de/shop/en/brands/cayler-sons" class="light">Cayler &amp; Sons</a>
-			<span class="separator">|</span>
-			<a href="http://www.hhv.de/shop/en/brands/cazal" class="light">Cazal</a>
-			<span class="separator">|</span>
-			<a href="http://www.hhv.de/shop/en/brands/cheap-monday" class="light">Cheap Monday</a>
-			<span class="separator">|</span>
-			<a href="http://www.hhv.de/shop/en/brands/clae" class="light">Clae</a>
-			<span class="separator">|</span>
-			<a href="http://www.hhv.de/shop/en/brands/clarks" class="light">Clarks</a>
-			<span class="separator">|</span>
-			<a href="http://www.hhv.de/shop/en/brands/cleptomanicx" class="light">Cleptomanicx</a>
-			<span class="separator">|</span>
-			<a href="http://www.hhv.de/shop/en/brands/diamond-supply-co" class="light">Diamond Supply Co.</a>
-			<span class="separator">|</span>
-			<a href="http://www.hhv.de/shop/en/brands/drmtm" class="light">DRMTM</a>
-			<span class="separator">|</span>
-			<a href="http://www.hhv.de/shop/en/brands/durkl" class="light">Durkl</a>
-			<span class="separator">|</span>
-			<a href="http://www.hhv.de/shop/en/brands/edwin" class="light">Edwin</a>
-			<span class="separator">|</span>
-			<a href="http://www.hhv.de/shop/en/brands/ewing-athletics" class="light">Ewing Athletics</a>
-			<span class="separator">|</span>
-			<a href="http://www.hhv.de/shop/en/brands/fjallraven" class="light">Fjällräven</a>
-			<span class="separator">|</span>
-			<a href="http://www.hhv.de/shop/en/brands/fred-perry" class="light">Fred Perry</a>
-			<span class="separator">|</span>
-			<a href="http://www.hhv.de/shop/en/brands/g-shock" class="light">G-Shock</a>
-			<span class="separator">|</span>
-			<a href="http://www.hhv.de/shop/en/brands/herschel" class="light">Herschel</a>
-			<span class="separator">|</span>
-			<a href="http://www.hhv.de/shop/en/brands/hhv-de" class="light">hhv.de</a>
-			<span class="separator">|</span>
-			<a href="http://www.hhv.de/shop/en/brands/huf" class="light">HUF</a>
-			<span class="separator">|</span>
-			<a href="http://www.hhv.de/shop/en/brands/i-love-ugly" class="light">I Love Ugly</a>
-			<span class="separator">|</span>
-			<a href="http://www.hhv.de/shop/en/brands/iriedaily" class="light">Iriedaily</a>
-			<span class="separator">|</span>
-			<a href="http://www.hhv.de/shop/en/brands/jordan-brand" class="light">Jordan Brand</a>
-			<span class="separator">|</span>
-			<a href="http://www.hhv.de/shop/en/brands/komono" class="light">Komono</a>
-			<span class="separator">|</span>
-			<a href="http://www.hhv.de/shop/en/brands/le-coq-sportif" class="light">Le Coq Sportif</a>
-			<span class="separator">|</span>
-			<a href="http://www.hhv.de/shop/en/brands/lee" class="light">Lee</a>
-			<span class="separator">|</span>
-			<a href="http://www.hhv.de/shop/en/brands/levi-s" class="light">Levi's</a>
-			<span class="separator">|</span>
-			<a href="http://www.hhv.de/shop/en/brands/melting-pot-music" class="light">Melting Pot Music</a>
-			<span class="separator">|</span>
-			<a href="http://www.hhv.de/shop/en/brands/milkcrate-athletics" class="light">Milkcrate Athletics</a>
-			<span class="separator">|</span>
-			<a href="http://www.hhv.de/shop/en/brands/mishka" class="light">Mishka</a>
-			<span class="separator">|</span>
-			<a href="http://www.hhv.de/shop/en/brands/mitchell-ness" class="light">Mitchell &amp; Ness</a>
-			<span class="separator">|</span>
-			<a href="http://www.hhv.de/shop/en/brands/new-balance" class="light">New Balance</a>
-			<span class="separator">|</span>
-			<a href="http://www.hhv.de/shop/en/brands/new-era" class="light">New Era</a>
-			<span class="separator">|</span>
-			<a href="http://www.hhv.de/shop/en/brands/nike" class="light">Nike</a>
-			<span class="separator">|</span>
-			<a href="http://www.hhv.de/shop/en/brands/nike-sb" class="light">Nike SB</a>
-			<span class="separator">|</span>
-			<a href="http://www.hhv.de/shop/en/brands/ninja-tune" class="light">Ninja Tune</a>
-			<span class="separator">|</span>
-			<a href="http://www.hhv.de/shop/en/brands/nixon" class="light">Nixon</a>
-			<span class="separator">|</span>
-			<a href="http://www.hhv.de/shop/en/brands/obey" class="light">Obey</a>
-			<span class="separator">|</span>
-			<a href="http://www.hhv.de/shop/en/brands/odd-future-ofwgkta" class="light">Odd Future (OFWGKTA)</a>
-			<span class="separator">|</span>
-			<a href="http://www.hhv.de/shop/en/brands/only-ny" class="light">Only NY</a>
-			<span class="separator">|</span>
-			<a href="http://www.hhv.de/shop/en/brands/penfield" class="light">Penfield</a>
-			<span class="separator">|</span>
-			<a href="http://www.hhv.de/shop/en/brands/pointer" class="light">Pointer</a>
-			<span class="separator">|</span>
-			<a href="http://www.hhv.de/shop/en/brands/project-mooncircle-hhv-de" class="light">Project: Mooncircle / hhv.de</a>
-			<span class="separator">|</span>
-			<a href="http://www.hhv.de/shop/en/brands/puma" class="light">Puma</a>
-			<span class="separator">|</span>
-			<a href="http://www.hhv.de/shop/en/brands/reebok" class="light">Reebok</a>
-			<span class="separator">|</span>
-			<a href="http://www.hhv.de/shop/en/brands/rhymesayers" class="light">Rhymesayers</a>
-			<span class="separator">|</span>
-			<a href="http://www.hhv.de/shop/en/brands/rockwell" class="light">Rockwell</a>
-			<span class="separator">|</span>
-			<a href="http://www.hhv.de/shop/en/brands/saucony" class="light">Saucony</a>
-			<span class="separator">|</span>
-			<a href="http://www.hhv.de/shop/en/brands/stance" class="light">Stance</a>
-			<span class="separator">|</span>
-			<a href="http://www.hhv.de/shop/en/brands/staple" class="light">Staple</a>
-			<span class="separator">|</span>
-			<a href="http://www.hhv.de/shop/en/brands/starter" class="light">Starter</a>
-			<span class="separator">|</span>
-			<a href="http://www.hhv.de/shop/en/brands/stones-throw" class="light">Stones Throw</a>
-			<span class="separator">|</span>
-			<a href="http://www.hhv.de/shop/en/brands/stussy" class="light">Stüssy</a>
-			<span class="separator">|</span>
-			<a href="http://www.hhv.de/shop/en/brands/technics" class="light">Technics</a>
-			<span class="separator">|</span>
-			<a href="http://www.hhv.de/shop/en/brands/the-hundreds" class="light">The Hundreds</a>
-			<span class="separator">|</span>
-			<a href="http://www.hhv.de/shop/en/brands/the-north-face" class="light">The North Face</a>
-			<span class="separator">|</span>
-			<a href="http://www.hhv.de/shop/en/brands/the-quiet-life" class="light">The Quiet Life</a>
-			<span class="separator">|</span>
-			<a href="http://www.hhv.de/shop/en/brands/timberland" class="light">Timberland</a>
-			<span class="separator">|</span>
-			<a href="http://www.hhv.de/shop/en/brands/ubiquity" class="light">Ubiquity</a>
-			<span class="separator">|</span>
-			<a href="http://www.hhv.de/shop/en/brands/ucon-acrobatics" class="light">Ucon Acrobatics</a>
-			<span class="separator">|</span>
-			<a href="http://www.hhv.de/shop/en/brands/udg" class="light">UDG</a>
-			<span class="separator">|</span>
-			<a href="http://www.hhv.de/shop/en/brands/undefeated" class="light">Undefeated</a>
-			<span class="separator">|</span>
-			<a href="http://www.hhv.de/shop/en/brands/vans" class="light">Vans</a>
-			<span class="separator">|</span>
-			<a href="http://www.hhv.de/shop/en/brands/warp" class="light">Warp</a>
-			<span class="separator">|</span>
-			<a href="http://www.hhv.de/shop/en/brands/wemoto" class="light">Wemoto</a>
-			<span class="separator">|</span>
-			<a href="http://www.hhv.de/shop/en/brands/wu-tang-brand-limited" class="light">Wu-Tang Brand Limited</a>
-			<span class="separator">|</span>
-			<a href="http://www.hhv.de/shop/en/brands/xl-recordings" class="light">XL Recordings</a>
-		</div>
-		
-		<div class="copyright">
-			© 2004-2014 hhv.de
+
+		<div class="seo">
+
+			<span class="copyright">© 2015 hhv.de</span>
 		</div>
 	</div>
-</div>
+
 		
-		
-<div id="cart_contents" class="hidden">
-	<div class="sum">
-		0
-	</div>
-	
-	<div class="sum_currency">
-		0,00 €
-	</div>
-	
-	<div class="remaining_bonus_coins">
-		0
-	</div>
-	
-	<div class="items">
-	</div>
-</div>
+	<div id="login" class="hidden">
+		<a href="#" class="close"></a>
 
-<div id="wishlist_contents" class="hidden">
-	<div class="items">
-	</div>
-</div>
-	</div>
-	
-	<span style="display:none;">115</span>
-	
-	<div class="base hidden">http://www.hhv.de/</div>
-	<div class="ajax_base hidden">http://www.hhv.de/shop/ajax/</div>
-	
-	<script src="/assets/default-4413e1a64b7aa8e0e8816732b857359f.js" type="text/javascript"></script>
+		<div class="login">
+			<div class="title">
+				Login
+			</div>
 
-	<div id="fb-root"></div>
-<script>
-	(function(d, s, id) {
-		var js, fjs = d.getElementsByTagName(s)[0];
-		if (d.getElementById(id)) return;
-		js = d.createElement(s); js.id = id;
-		js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
-		fjs.parentNode.insertBefore(js, fjs);
-	}(document, 'script', 'facebook-jssdk'));
-</script>
+			<form id="customer_login" class="hhv_form" action="/shop/ajax/customer/login">
+				<fieldset class="e_mail">
+					<input name="e_mail" type="text" data-label="E-Mail / Login-Name">
+				</fieldset>
 
-<script src="https://js-agent.newrelic.com/nr-411.min.js"></script></body></html>
+				<fieldset class="password">
+					<input name="password" type="password" data-label="Password" data-hint="Forgot your password?">
+				</fieldset>
+
+				<fieldset class="buttons">
+					<button class="hhv_cta_1" type="submit" data-disable-with="Logging in...">
+						Login
+					</button>
+				</fieldset>
+			</form>
+		</div>
+
+		<div class="password hidden">
+			<div class="title">
+				Send request for new password
+			</div>
+
+			<div class="description">
+				Please enter your e-mail address at hhv.de here to get more information to reset your current password.
+			</div>
+
+			<form id="customer_password" class="hhv_form" action="/shop/ajax/customer/request_password">
+				<fieldset class="e_mail">
+					<input name="e_mail" type="email" data-label="E-Mail">
+				</fieldset>
+
+				<fieldset class="buttons">
+					<a href="#" class="hhv_cta_2 cancel">Cancel</a>
+
+					<button class="hhv_cta_1" type="submit" data-disable-with="Submit...">
+						Submit
+					</button>
+				</fieldset>
+			</form>
+		</div>
+
+		<div class="register">
+			You are a new Customer? <a href="https://www.hhv.de/shop/en/profile/login">Register now</a>
+		</div>
+	</div>
+
+
+		<div id="tracking_images" class="hidden"></div>
+		<div id="fb-root" class=" fb_reset"><div style="position: absolute; top: -10000px; height: 0px; width: 0px; "><div><iframe name="fb_xdm_frame_http" frameborder="0" allowtransparency="true" allowfullscreen="true" scrolling="no" id="fb_xdm_frame_http" aria-hidden="true" title="Facebook Cross Domain Communication Frame" tabindex="-1" style="border-top-style: none; border-right-style: none; border-bottom-style: none; border-left-style: none; border-width: initial; border-color: initial; " src="http://static.ak.facebook.com/connect/xd_arbiter/1ldYU13brY_.js?version=41#channel=f37527e12c&amp;origin=http%3A%2F%2Fwww.hhv.de"></iframe><iframe name="fb_xdm_frame_https" frameborder="0" allowtransparency="true" allowfullscreen="true" scrolling="no" id="fb_xdm_frame_https" aria-hidden="true" title="Facebook Cross Domain Communication Frame" tabindex="-1" style="border-top-style: none; border-right-style: none; border-bottom-style: none; border-left-style: none; border-width: initial; border-color: initial; " src="https://s-static.ak.facebook.com/connect/xd_arbiter/1ldYU13brY_.js?version=41#channel=f37527e12c&amp;origin=http%3A%2F%2Fwww.hhv.de"></iframe></div></div><div style="position: absolute; top: -10000px; height: 0px; width: 0px; "><div></div></div></div>
+	
+
+</body></html>
