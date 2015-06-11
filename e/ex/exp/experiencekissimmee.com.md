@@ -1,40 +1,6 @@
-> *The following text is extracted and transformed from the experiencekissimmee.com privacy policy that was archived on 2014-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141127053542id_/http%3A//www.experiencekissimmee.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the experiencekissimmee.com privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611101954id_/http%3A//www.experiencekissimmee.com/privacy) for the most accurate reproduction.*
 
 # Things To Do - Experience Kissimmee - Orlando Florida Area - Fun Family Events - Kissimmee
-
-50°
-
-[](http://www.experiencekissimmee.com/)
-
-[Things to Do](https://web.archive.org/things-to-do/ "Things to Do")
-
-[](https://web.archive.org/things-to-do/)
-
-What is there to do in Kissimmee, Florida? Well, everything. That's what makes us a Florida vacation favorite. Relaxing, invigorating, stimulating, breathtaking-there's plenty of things to do here. [...more »](https://web.archive.org/things-to-do/)
-
-[Places to Stay](https://web.archive.org/places-to-stay/ "Places to Stay")
-
-[](https://web.archive.org/places-to-stay/)
-
-No matter what your vacation style, you could make Kissimmee your regular getaway destination and you'd likely never run out of places to stay and experiences to enjoy. From cozy motels to high-end hotel suites, private villas to luxurious resorts, Kissimmee offers the best selection of close-to-everything accommodations - all with a variety of features and services to satisfy every vacation need and budget. [...more »](https://web.archive.org/places-to-stay/)
-
-[Theme Parks](https://web.archive.org/theme-parks/ "Theme Parks")
-
-[](https://web.archive.org/theme-parks/)
-
-You enter, you look about, you know today is going to be a wonderful day. Whether you're visiting for the first time, or the hundredth, you feel it ... the anticipation, the expectation. [...more »](https://web.archive.org/theme-parks/)
-
-[Offers](https://web.archive.org/offers/ "Offers")
-
-[](https://web.archive.org/offers/)
-
-Find special hotel packages, deals and coupons to use during your visit to Kissimmee. Many of Kissimmee's businesses, restaurants and attractions welcome you with valuable discounts, coupons and offers. Check back often for the latest special deals designed to make your visit to Kissimmee a great one. [...more »](https://web.archive.org/offers/)
-
-[Travel Info](https://web.archive.org/travel-info/ "Travel Info")
-
-[](https://web.archive.org/travel-info/)
-
-It's time to plan that perfect Central Florida vacation you've been dreaming of for years ... or maybe just a few hours. Within this special travel guide section, you'll find useful tips and travel information that will come in handy when planning your trip. [...more »](https://web.archive.org/travel-info/)
 
 The **Experience Kissimmee** values your privacy. That's why we're doing everything we can to protect your personal information. This Privacy Policy explains what personal information we collect, what we do with it, what we don't do with it, and how we keep it safe. By visiting this website, you are accepting the practices described in this Privacy Policy.
 
