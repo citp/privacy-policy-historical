@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wowcher.co.uk privacy policy that was archived on 2014-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141203105420id_/http%3A//www.wowcher.co.uk/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wowcher.co.uk privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611140123id_/http%3A//www.wowcher.co.uk/privacypolicy.html) for the most accurate reproduction.*
 
 # Wowcher | Privacy Policy
 
@@ -70,13 +70,13 @@ Northcliffe House
 Meadow Road  
 Derby  
 DE1 2BH  
-0844 264 0417
+0203 699 5024
 
 We may charge a small administration fee (not exceeding the maximum permitted by law in England) in relation to fulfilling a request for access to personal information.
 
 ## Unsubscribing from emails
 
-If you wish to unsubscribe from emails from wowcher.co.uk, please click on the unsubscribe link in your email or email enquiries@wowcher.co.uk with unsubscribe in the subject line.
+If you wish to unsubscribe from emails from wowcher.co.uk, please click on the unsubscribe link in your email.
 
 ## Changes to this Privacy Policy
 
