@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arabic-keyboard.org privacy policy that was archived on 2014-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140921051519id_/http%3A//www.arabic-keyboard.org/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arabic-keyboard.org privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611120745id_/http%3A//www.arabic-keyboard.org/privacy.php) for the most accurate reproduction.*
 
 # Arabic keyboard Privacy
 
