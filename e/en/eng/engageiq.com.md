@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the engageiq.com privacy policy that was archived on 2014-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140901215903id_/http%3A//engageiq.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the engageiq.com privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611083515id_/http%3A//www.engageiq.com/privacy.html) for the most accurate reproduction.*
 
 # Welcome to Engage IQ
 
