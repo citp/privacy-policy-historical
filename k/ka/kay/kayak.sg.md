@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the kayak.sg privacy policy that was archived on 2014-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141021161406id_/http%3A//www.kayak.sg/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kayak.sg privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611165548id_/http%3A//www.kayak.sg/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - KAYAK
+# Privacy Policy – KAYAK
 
 _Effective as of 10 October 2013_
 
