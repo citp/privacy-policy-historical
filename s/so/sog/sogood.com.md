@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sogood.com privacy policy that was archived on 2014-07-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140706044625id_/http%3A//www.sogood.com/page.php%3Fp%3D2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sogood.com privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612014918id_/http%3A//www.sogood.com/page.php%3Fp%3D2) for the most accurate reproduction.*
 
 # Privacy Policy - Sogood.com | Free Online Games
 
