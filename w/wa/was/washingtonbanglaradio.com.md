@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the washingtonbanglaradio.com privacy policy that was archived on 2014-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141125150519id_/http%3A//www.washingtonbanglaradio.com/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the washingtonbanglaradio.com privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611091821id_/http%3A//www.washingtonbanglaradio.com/content/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | ওয়াশিংটন বাংলা রেডিও Washington Bangla Radio USA
 
