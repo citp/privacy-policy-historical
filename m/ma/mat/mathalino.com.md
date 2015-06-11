@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mathalino.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122234549id_/http%3A//www.mathalino.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mathalino.com privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612001108id_/http%3A//www.mathalino.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | MATHalino.com
 
@@ -18,6 +18,6 @@ This site is running advertisement coming from Google.
 
 Other than Google, **this site may run advertisement in the future** from third-party advertising companies to serve ads when you visit our website. These companies may use information ( _not including_ your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you.
 
-  * 12245 reads
+  * 13834 reads
 
 
