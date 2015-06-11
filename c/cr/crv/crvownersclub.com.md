@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crvownersclub.com privacy policy that was archived on 2014-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141002060735id_/http%3A//www.crvownersclub.com/forums/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crvownersclub.com privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611141117id_/http%3A//www.crvownersclub.com/forums/privacy-policy.php) for the most accurate reproduction.*
 
 # Honda CR-V Owners Club Forums Privacy Policy
 
