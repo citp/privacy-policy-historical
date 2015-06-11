@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the applegate.co.uk privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120104942id_/http%3A//www.applegate.co.uk/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the applegate.co.uk privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611193316id_/http%3A//www.applegate.co.uk/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -58,13 +58,13 @@ If you have previously purchased services from Us,  We will only contact you by
 
 If you are a new registered user, and where We permit selected third parties to use your data, We (or they) will contact you by electronic means only if you have consented to this. If you do not want Us to use your data in this way, or to pass your details on to third parties for marketing purposes, please tick the relevant box situated on the form on which We collect your data (the registration form).
 
-We do not disclose information about identifiable individuals to Our advertisers, but We may provide them with aggregate information about Our users (for example, We may inform them that 500 men aged under 30 have clicked on their advertisement on any given day). We may provide the names of companies that use the Site to Our advertisers. We may also use such aggregate information to help advertisers reach the kind of audience they want to target (for example, women in SW1). We may make use of the personal data We have collected from you to enable Us to comply with Our advertisers’ wishes by displaying their advertisement to that target audience.
+We may disclose information about companies and individuals within those companies, that use the Site, to Our advertisers only, but to no other third party, We may also provide Our advertisers with aggregate information about Our users (for example, We may inform them that 500 men aged under 30 have clicked on their advertisement on any given day). We may provide the names of companies that use the Site to Our advertisers. We may also use such aggregate information to help advertisers reach the kind of audience they want to target (for example, women in SW1). We may make use of the personal data We have collected from you to enable Us to comply with Our advertisers’ wishes by displaying their advertisement to that target audience.
 
 **DISCLOSURE OF YOUR INFORMATION**
 
-We may disclose your personal information to any member of Our group, which means Our subsidiaries, Our ultimate holding company and its subsidiaries, as defined in section 1169 of the UK Companies Act 2006.
+We may disclose your personal information to any member of Our group, which means Our subsidiaries, Our ultimate holding company and its subsidiaries, as defined in section 1169 of the UK Companies Act 2006.We may also disclose information about identifiable individuals to Our advertisers to help them reach the right audience.
 
-We may disclose your personal information to third parties:
+We may also disclose your personal information to third parties:
 
   * In the event that We sell or buy any business or assets, in which case We may disclose your personal data to the prospective seller or buyer of such business or assets.
   * If Applegate Marketplace Limited or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets.
