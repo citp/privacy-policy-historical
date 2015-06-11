@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the jolipop.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230191646id_/http%3A//www.jolipop.com/privacy-policy-jolipop) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jolipop.com privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612014414id_/http%3A//www.jolipop.com/privacy-policy-jolipop) for the most accurate reproduction.*
 
-# Privacy Policy - Jolipop
+# Privacy Policy | Jolipop
 
 This Application collects some Personal Data from its Users.
 
