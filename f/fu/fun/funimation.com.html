@@ -1,17 +1,21 @@
-<!--The following is the downloaded HTML source of the funimation.com privacy policy that was archived on 2014-10-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141021152735id_/http%3A//www.funimation.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the funimation.com privacy policy that was archived on 2015-06-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150612001030id_/http%3A//www.funimation.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en-us"><head>
-<meta charset="utf-8">
-<meta http-equiv="Cache-control" content="no-cache">
-<meta http-equiv="Expires" content="-1">
-<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"><script type="text/javascript" async="" src="https://d31qbv1cthcecs.cloudfront.net/atrk.js"></script><script async="" src="//s.btstatic.com/tag.js#site=VjnP9AP"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VgAAUFZbGwEEVlFbDwM="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),u=c.length,f=i(a,o,r),d=0;u>d;d++)c[d].apply(f,n);return f}function a(t,e){u[t]=s(t).concat(e)}function s(t){return u[t]||[]}function c(){return n(e)}var u={};return{on:a,emit:e,create:c,listeners:s,_events:u}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(u){try{r("ierr",[u,(new Date).getTime(),!0])}catch(f){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(4),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(u){"stack"in u&&(t(5),t(3),"addEventListener"in window&&t(1),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(2),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:4,2:7,3:5,4:18,5:6,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],4:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:18,2:19,ee:"QJf3ax",gos:"7eSDFh"}],5:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:19,2:18,ee:"QJf3ax"}],6:[function(t,e){function n(t,e,n){var r=t[0];"string"==typeof r&&(r=new Function(r)),t[0]=o(r,"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:19,2:18,ee:"QJf3ax"}],7:[function(t,e){function n(){c.inPlace(this,d,"fn-")}function r(t,e){c.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}var i=t("ee").create(),a=t(1),s=t(2),c=s(i),u=s(a),f=window.XMLHttpRequest,d=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=i,window.XMLHttpRequest=function(t){var e=new f(t);try{i.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",function(t,e){return e}),e.addEventListener("readystatechange",n,!1)}catch(r){try{i.emit("internal-error",[r])}catch(o){}}return e},window.XMLHttpRequest.prototype=f.prototype,c.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),i.on("send-xhr-start",r),i.on("open-xhr-start",r)},{1:4,2:19,ee:"QJf3ax"}],8:[function(t){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,u="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(u);if(f&&(r.rxSize=f),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(n.cat=d.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r,this.startTime])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,u=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var u=e(o);u&&(r.txSize=u)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",[e])}catch(r){}}};for(var f=0;c>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:9,3:7,4:4,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],9:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&c&&c.body){p.proto="https"===d.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=c.createElement("script");e.src=p.proto+t.agent,c.body.appendChild(e)}}function r(){"complete"===c.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,c=s.document,u="addEventListener",f="attachEvent",d=(""+location).split("?")[0],p=e.exports={offset:i(),origin:d,features:{}};c[u]?(c[u]("DOMContentLoaded",o,!1),s[u]("load",n,!1)):(c[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],18:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],19:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,u;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){f([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return u=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,u],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,u(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,u="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,u?s+o:o,i,s,t))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){f([o,e,n,r])}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){f([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function f(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:18,ee:"QJf3ax"}]},{},["G9z0Bl",3,8]);</script>
-<link rel="shortcut icon" href="http://www.funimation.com/assets/img/funimation2_favicon_0.ico" type="image/x-icon">
- 
-<meta property="og:url" content="http://www.funimation.com/privacy-policy">
-<meta property="og:site_name" content="Funimation">
-<link type="text/css" rel="stylesheet" href="http://www.funimation.com/assets/css/styles-20140509.css?v=1.1.15">
-<script type="text/javascript">
+    <meta charset="utf-8">
+    <meta http-equiv="Cache-control" content="no-cache">
+    <meta http-equiv="Expires" content="-1">
+
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"><script src="https://js-agent.newrelic.com/nr-632.min.js"></script><script type="text/javascript" async="" src="https://d31qbv1cthcecs.cloudfront.net/atrk.js"></script><script async="" src="//s.btstatic.com/tag.js#site=VjnP9AP"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o?o:n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({QJf3ax:[function(e,n){function t(e){function n(n,t,a){e&&e(n,t,a),a||(a={});for(var u=c(n),f=u.length,s=i(a,o,r),p=0;f>p;p++)u[p].apply(s,t);return s}function a(e,n){f[e]=c(e).concat(n)}function c(e){return f[e]||[]}function u(){return t(n)}var f={};return{on:a,emit:n,create:u,listeners:c,_events:f}}function r(){return{}}var o="nr@context",i=e("gos");n.exports=t()},{gos:"7eSDFh"}],ee:[function(e,n){n.exports=e("QJf3ax")},{}],3:[function(e,n){function t(e){return function(){r(e,[(new Date).getTime()].concat(i(arguments)))}}var r=e("handle"),o=e(1),i=e(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(e,n){window.NREUM[n]=t("api-"+n)}),n.exports=window.NREUM},{1:12,2:13,handle:"D5DuLP"}],"7eSDFh":[function(e,n){function t(e,n,t){if(r.call(e,n))return e[n];var o=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return e[n]=o,o}var r=Object.prototype.hasOwnProperty;n.exports=t},{}],gos:[function(e,n){n.exports=e("7eSDFh")},{}],handle:[function(e,n){n.exports=e("D5DuLP")},{}],D5DuLP:[function(e,n){function t(e,n,t){return r.listeners(e).length?r.emit(e,n,t):(o[e]||(o[e]=[]),void o[e].push(n))}var r=e("ee").create(),o={};n.exports=t,t.ee=r,r.q=o},{ee:"QJf3ax"}],id:[function(e,n){n.exports=e("XL7HBI")},{}],XL7HBI:[function(e,n){function t(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:i(e,o,function(){return r++})}var r=1,o="nr@id",i=e("gos");n.exports=t},{gos:"7eSDFh"}],G9z0Bl:[function(e,n){function t(){var e=d.info=NREUM.info,n=f.getElementsByTagName("script")[0];if(e&&e.licenseKey&&e.applicationID&&n){c(p,function(n,t){n in e||(e[n]=t)});var t="https"===s.split(":")[0]||e.sslForHttp;d.proto=t?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=d.proto+e.agent,n.parentNode.insertBefore(r,n)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=e("handle"),c=e(1),u=(e(2),window),f=u.document,s=(""+location).split("?")[0],p={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-632.min.js"},d=n.exports={offset:i(),origin:s,features:{}};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),u.addEventListener("load",t,!1)):(f.attachEvent("onreadystatechange",r),u.attachEvent("onload",t)),a("mark",["firstbyte",i()])},{1:12,2:3,handle:"D5DuLP"}],loader:[function(e,n){n.exports=e("G9z0Bl")},{}],12:[function(e,n){function t(e,n){var t=[],o="",i=0;for(o in e)r.call(e,o)&&(t[i]=n(o,e[o]),i+=1);return t}var r=Object.prototype.hasOwnProperty;n.exports=t},{}],13:[function(e,n){function t(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(0>o?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=t},{}]},{},["G9z0Bl"]);</script>
+    <link rel="shortcut icon" href="http://www.funimation.com/assets/img/funimation2_favicon_0.ico" type="image/x-icon">
+    <!--  meta tag facebook -->
+    <meta property="og:url" content="http://www.funimation.com/p/privacy-policy">
+    <meta property="og:site_name" content="Funimation">
+
+    <link type="text/css" rel="stylesheet" href="http://www.funimation.com/assets/css/styles-20140509.css?v=1.1.43">
+
+    
+    <script type="text/javascript">
 
         function setCookie(cname, cvalue, exdays) {var d = new Date();d.setTime(d.getTime() + (exdays*24*60*60*1000));var expires = "expires="+d.toGMTString();document.cookie = cname + "=" + cvalue + "; " + expires;}
         function getCookie(cname) {var name = cname + "=";var ca = document.cookie.split(';');for(var i=0; i<ca.length; i++) {var c = ca[i].trim();if (c.indexOf(name) == 0) return c.substring(name.length,c.length);}return "";}
@@ -32,8 +36,11 @@
         setCookie('page_cached', true);
 
     </script>
-<script src="http://www.funimation.com/assets/js/head.load.min.js?v=1.1.8" type="text/javascript"></script>
-<script type="text/javascript">
+
+    <script src="http://www.funimation.com/assets/js/head.load.min.js?v=1.1.23" type="text/javascript"></script>
+
+    
+    <script type="text/javascript">
         var googletag = googletag || {};
         googletag.cmd = googletag.cmd || [];
         (function() {
@@ -47,7 +54,8 @@
             node.parentNode.insertBefore(gads, node);
         })();
     </script>
-<script type="text/javascript">
+
+    <script type="text/javascript">
         googletag.cmd.push(function() {
             googletag.defineSlot('/82442012/funimation_big_box', [300, 250], 'div-gpt-ad-1374328695293-0').addService(googletag.pubads());
             googletag.defineSlot('/82442012/funimation_big_box_2', [300, 250], 'div-gpt-ad-1377114716006-1').addService(googletag.pubads());
@@ -55,7 +63,8 @@
             googletag.enableServices();
         });
     </script>
-<script data-cfasync="false">
+
+        <script data-cfasync="false">
         (function () {
             var newrelic = document.createElement("script");
             var snewrelic = document.getElementsByTagName("script")[0];
@@ -65,284 +74,399 @@
         }());
     </script>
 <noscript>
-<iframe src="//s.thebrighttag.com/iframe?c=VjnP9AP" width="1" height="1" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe>
+    <iframe src="//s.thebrighttag.com/iframe?c=VjnP9AP" width="1" height="1" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe>
 </noscript>
- 
+
+<!-- Start Alexa Certify Javascript -->
 <script type="text/javascript">
     _atrk_opts = { atrk_acct:"RLovi1asyr00oh", domain:"funimation.com",dynamic: true};
     (function() { var as = document.createElement('script'); as.type = 'text/javascript'; as.async = true; as.src = "https://d31qbv1cthcecs.cloudfront.net/atrk.js"; var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(as, s); })();
 </script>
- 
-<title>
-FUNimation - Privacy Policy</title>
+
+<!-- End Alexa Certify Javascript --><title>
+	FUNimation - Privacy Policy</title>
 <meta name="description" content="
 	FUNimation.com Privacy Policy for all online services and how your information is handled.">
 </head>
 <body>
-<article id="celebrate-border">
-<article id="celebrate">
-<section id="celebrate-info">
- 
-<article id="celebrate-info-article" style="display:block">
-<h1>Celebrating <span><img src="http://www.funimation.com/assets/img/20thlogo.png" alt="20th Anniversary logo" title="20th Anniversary logo"></span> Years of
-The Best in Anime</h1>
-<ul>
-<li><a href="http://funimation.com/sale/" title="Special Offers">Special Offers</a></li>
-<li><a href="http://funimation.com/20th/" title="Looking Back">Looking Back</a></li>
-<li class="last-child"><a href="http://funimation.com/subscribe/" title="Join the Party">Join the
-Party</a></li>
-</ul>
-</article>
- 
-<div class="toggle-banner" id="toggle-banner"></div>
-</section>
- 
-<section id="celebrate-wrap" style="display:none">
- 
-<article class="quarter">
-<img src="http://www.funimation.com/assets/img/20thdropdownlogo.png" title="Funimation's 20th Anniversary" alt="Funimation's 20th Anniversary logo">
-</article>
- 
-<article class="half">
-<h3>Celebrating 20 Years of The Best in Anime</h3>
-<p>Over the past two decades we’ve seen our share of super-powered students, alien princes and robots
-with hard drives of gold.</p>
-<p>In celebration of our platinum anniversary we are honoring you, the fans! Follow the links to the
-right for special deals, historical review and exclusive access to streaming video on demand.
-</p>
-</article>
- 
-<article class="quarter last-child">
-<ul>
-<li><a href="http://funimation.com/sale/" title="Special Offers">Special Offers</a></li>
-<li><a href="http://funimation.com/20th/" title="Looking Back">Looking Back</a></li>
-<li><a href="http://funimation.com/subscribe/" title="Join the Party">Join the Party</a></li>
-</ul>
-</article>
-</section>
-</article>
-</article>
- 
-<div id="unlogged-opened" class="log-area">
-<header>
-<section class="center-layout">
-<article class="left">
-<span class="white left">Log in to watch free streaming video, <br>
-post in the forums, peep behind the <br>
-scenes exclusives, and so much more!
-</span>
-</article>
-<form action="http://www.funimation.com/login" method="post" accept-charset="utf-8" class="right loginForm loginForm-control" id="loginForm"> <input type="hidden" name="return" value="http%3A%2F%2Fwww.funimation.com%2Fprivacy-policy">
-<input type="hidden" name="logged" value="1">
-<div style="float:left;">
-<div class="login_error">
-<label for="email_field" class="white">Email</label>
-<input type="text" name="email_field" tabindex="1">
-</div>
-<div class="login_error">
-<label for="password_field" class="white">Password</label>
-<input type="password" name="password_field" tabindex="2">
-</div>
-<div class="login_error_show">
-<p>
-<a href="http://www.funimation.com/loadModal/index/forgot_password_modal" data-fancybox-width="630" class="white fs12 fancybox fancybox.iframe">Forgot
-password?</a>
-</p>
-</div>
-</div>
-<span class="left">
-<button id="buttonLogin" class="btn-red size3 left buttonLogin" type="" tabindex="3">Log In
-</button>
-</span>
-</form> </section>
-</header>
-</div>
- 
- 
-<style>#celebrate-border{box-sizing:border-box;-webkit-box-shadow:1px 0 42px rgba(0,0,0,.3);box-shadow:1px 0 42px rgba(0,0,0,.3);}#celebrate{box-sizing:border-box;padding:10px;background:url('http://www.funimation.com/assets/img/stripe.png');-webkit-box-shadow:inset 0 0 25px 20px rgba(0,0,0,.15);box-shadow:inset 0 0 25px 20px rgba(0,0,0,.15);background-color:white;}#celebrate section{position:relative;width:960px;margin:0 auto;margin-bottom:25px;display:block;}#celebrate h3,#celebrate p{margin-bottom:7px;}#celebrate a{opacity:1.0;position:relative;transition:all 0.25s linear;-moz-transition:all 0.25s linear;-webkit-transition:all 0.25s linear;-o-transition:all 0.25s linear;z-index:9999;}#celebrate a:hover{opacity:0.55;}#celebrate section#celebrate-info{margin-bottom:0;min-height:50px;}#celebrate-info article{position:relative;float:left;}#celebrate-info li{display:inline-block;margin-right:10px;}#celebrate-info li:after{content:' | ';font-size:14px;margin-left:10px;color:#666;}#celebrate-info li.last-child:after{content:'';}#celebrate-info h1,#celebrate-info ul{font-size:25px;display:inline-block;margin-right:35px;}#celebrate-info a{font-size:14px;}#celebrate-wrap article{margin:0 3.84615384615% 0 0;list-style:none;position:relative;display:inline-block;vertical-align:top;box-sizing:border-box;-moz-box-sizing:border-box;}#celebrate-wrap article.quarter{width:22.1153846154%;}#celebrate-wrap article.quarter img{margin-top:-41px;}#celebrate-wrap article.half{width:47.0769230769%;}#celebrate-wrap article.quarter.last-child,#celebrate-wrap article.half.last-child,#celebrate-wrap article.third.last-child{margin:0;}#celebrate-info .toggle-banner{position:relative;float:right;cursor:pointer;text-indent:-9999px;width:31px;height:33px;top:12px;right:5.5%;background:url('http://www.funimation.com/assets/img/celebrate-nav.png') no-repeat;background-position:0px -35px;}#celebrate-info .toggle-banner.open{background-position:0px 0px;}#main-nav-module.regular{margin-top:71px!important;}#main-shows .top-main-section{margin-top:75px!important}[id^=show] .top-main-section.show{margin-top:0px!important}#home-page .top-main-section{height:550px!important}#main-shows .top-main-section{height:350px!important;margin-top:181px!important}#video-page .top-main-section{height:auto!important}#video-player-suscriber .top-main-section{height:auto!important}</style>
+    <!-- header_unlogged -->
+    <div id="unlogged-opened" class="log-area">
+        <header>
+            <section class="center-layout">
+                <article class="left">
+					<span class="white left">Log in to watch free streaming video, <br>
+						post in the forums, peep behind the <br>
+						scenes exclusives, and so much more!
+					</span>
+                </article>
+                <form action="http://www.funimation.com/login" method="post" accept-charset="utf-8" class="right loginForm loginForm-control" id="loginForm">                <input type="hidden" name="return" value="http%3A%2F%2Fwww.funimation.com%2Fp%2Fprivacy-policy">
+                <input type="hidden" name="logged" value="1">
+
+                <div style="float:left;">
+                    <div class="login_error">
+                        <label for="email_field" class="white">Email</label>
+                        <input type="text" name="email_field" tabindex="1">
+                    </div>
+                    <div class="login_error">
+                        <label for="password_field" class="white">Password</label>
+                        <input type="password" name="password_field" tabindex="2">
+                    </div>
+                    <div class="login_error_show">
+                        <p>
+                                                        <a href="http://www.funimation.com/loadModal/index/forgot_password_modal" data-fancybox-width="630" class="white fs12 fancybox fancybox.iframe">Forgot
+                                password?</a>
+                        </p>
+
+                    </div>
+                </div>
+				    <span class="left">
+						<button id="buttonLogin" class="btn-red size3 left buttonLogin" type="" tabindex="3">Log In
+                        </button>
+
+                        					</span>
+                </form>            </section>
+        </header>
+    </div>
+    <!-- /header_unlogged -->
+
+    <!-- snippet CSS -->
+    <style>
+        /* #celebrate ----------------------------------- */
+        #celebrate-border {
+            box-sizing: border-box;
+            -webkit-box-shadow: 1px 0 42px rgba(0,0,0,.3);
+            box-shadow: 1px 0 42px rgba(0,0,0,.3);
+        }
+
+        #celebrate {
+            box-sizing: border-box;
+            padding: 10px;
+            background: url('http://www.funimation.com/assets/img/stripe.png');
+            -webkit-box-shadow: inset 0 0 25px 20px rgba(0, 0, 0, .15);
+            box-shadow: inset 0 0 25px 20px rgba(0, 0, 0, .15);
+            background-color: white;
+        }
+
+        #celebrate section {
+            position: relative;
+            width: 960px;
+            margin: 0 auto;
+            margin-bottom: 25px;
+            display: block;
+        }
+
+        #celebrate h3, #celebrate p {
+            margin-bottom: 7px;
+        }
+
+        #celebrate a{
+            opacity: 1.0;
+            position: relative;
+            transition: all 0.25s linear;
+            -moz-transition: all 0.25s linear;
+            -webkit-transition: all 0.25s linear;
+            -o-transition: all 0.25s linear;
+            z-index: 9999;
+        }
+
+        #celebrate a:hover {
+            opacity: 0.55;
+        }
+
+        /* #celebrate-info ------------------------------- */
+        #celebrate section#celebrate-info {
+            margin-bottom: 0;
+            min-height: 50px;
+        }
+
+        #celebrate-info article {
+            position: relative;
+            float: left;
+        }
+
+        #celebrate-info li {
+            display: inline-block;
+            margin-right: 10px;
+        }
+
+        #celebrate-info li:after {
+            content: ' | ';
+            font-size: 14px;
+            margin-left: 10px;
+            color: #666;
+        }
+
+        #celebrate-info li.last-child:after {
+            content: '';
+        }
+
+        #celebrate-info h1, #celebrate-info ul {
+            font-size: 25px;
+            display: inline-block;
+            margin-right: 35px;
+        }
+
+        #celebrate-info a {
+            font-size: 14px;
+        }
+
+        /* #celebrate-wrap ----------------------------- */
+        #celebrate-wrap article {
+            margin: 0 3.84615384615% 0 0;
+            list-style: none;
+            position: relative;
+            display: inline-block;
+            vertical-align: top;
+            box-sizing: border-box;
+            -moz-box-sizing: border-box;
+        }
+
+        #celebrate-wrap article.quarter {
+            width: 22.1153846154%;
+        }
+
+        #celebrate-wrap article.quarter img {
+            margin-top: -41px;
+        }
+
+        #celebrate-wrap article.half {
+            width: 47.0769230769%;
+        }
+
+        #celebrate-wrap article.quarter.last-child, #celebrate-wrap article.half.last-child, #celebrate-wrap article.third.last-child {
+            margin: 0;
+        }
+
+        /* toggle button ------------------------------ */
+        #celebrate-info .toggle-banner {
+            position: relative;
+            float: right;
+            cursor: pointer;
+            text-indent: -9999px;
+            width: 31px;
+            height: 33px;
+            top: 12px;
+            right: 5.5%;
+            background: url('http://www.funimation.com/assets/img/celebrate-nav.png') no-repeat;
+            background-position: 0px -35px;
+        }
+
+        #celebrate-info .toggle-banner.open {
+            background-position: 0px 0px;
+        }
+
+        /* Navigation Bar ----------------------------- */
+        #main-nav-module.regular {
+            margin-top: 71px !important;
+        }
+
+        /* Hacked Styles! */
+        #main-shows .top-main-section {
+            margin-top: 75px !important
+        }
+
+        [id^=show] .top-main-section.show {
+            margin-top: 0px !important
+        }
+
+        #home-page .top-main-section {
+            height: 550px !important
+        }
+
+        #main-shows .top-main-section {
+            height: 350px !important;
+            margin-top: 181px !important
+        }
+
+        #video-page .top-main-section {
+            height: auto !important
+        }
+
+        #video-player-suscriber .top-main-section {
+            height: auto !important
+        }
+    </style>
 <nav id="main-nav-module" class="center-layout main-header  ">
-<a href="#" id="login-btn" class="login-btn t-center bold white">Log In</a>
-<section class="header">
-<a class="logo left" href="http://www.funimation.com/"></a>
-<span class="main-tagline left bold">YOU SHOULD BE WATCHING</span>
-<article class="social-lnks left">
-<a href="http://www.facebook.com/funimation" target="_blank" class="left"><span class="social foundicon-facebook"></span></a>
-<a href="http://www.twitter.com/funimation" target="_blank" class="left"><span class="social foundicon-twitter"></span></a>
-<a href="https://www.youtube.com/funimation" target="_blank" class="left"><span class="social foundicon-youtube"></span></a>
-</article>
-<a href="http://www.funimation.com/join_now" class="btn-red size3 right">Join Now</a>
-</section> <section class="main-navigation-1">
-<ul class="main-nav bold left">
-<li>
-<a href="http://www.funimation.com/shows" class="white ">Watch</a>
-</li>
-<li>
-<a href="http://shop.funimation.com/Shop/ShopMain.html" class="white ">Shop</a>
-</li>
-<li>
-<a href="http://www.funimation.com/blog" class="white ">News</a>
-</li>
-<li>
-<a href="http://www.funimation.com/videos/simulcasts" class="white ">Simulcasts</a>
-</li>
-<li>
-<a class="subscribe-lnk white " href="http://www.funimation.com/subscribe">Subscribe</a>
-</li>
-</ul>
-<a href="http://shop.funimation.com/Shop/cart.ssp" class="icon-shopping-cart right"><span class="fs12 condensed bold"></span></a>
-<form class="search-box right" action="http://www.funimation.com/search" method="get">
-<input class="field left" type="text" name="q" value="" placeholder="Search">
-<input class="button right" type="submit" value="Search">
-</form>
-<ul class="basic-nav bold right">
-<li>
-<a href="http://www.funimation.com/schedule" class="">Schedule</a>
-</li>
-<li>
-<a href="http://www.funimation.com/apps" class="">Apps</a>
-</li>
-<li>
-<a href="http://www.funimation.com/forum/forum.php"> Forum</a>
-</li>
-<li>
-<a href="" class="more">More</a>
-<ul class="dropdown">
-<li>
-<a href="http://www.funimation.com/games" class="">Games</a>
-</li>
-<li>
-<a href="http://www.funimation.com/tv" class="">TV</a>
-</li>
-</ul>
-</li>
-</ul>
-</section>
+	    <a href="#" id="login-btn" class="login-btn t-center bold white">Log In</a>
+<section class="header ">
+    <a class="logo left" href="http://www.funimation.com/home">
+                <img src="http://www.funimation.com/admin/uploads/default/device_assets/FUNlogo2.png">
+            </a>
+    <section class="main-navigation-1">
+        <ul class="main-nav bold left">
+            <li>
+                <a href="http://www.funimation.com/stream" class="white bred ">Stream</a>
+            </li>
+            <li>
+                <a href="http://shop.funimation.com/Shop/ShopMain.html" class="white bblue ">Shop</a>
+            </li>
+            <li>
+                <a href="http://www.funimation.com/discover" class="white bpurple ">Discover</a>
+            </li>
+        </ul>
+                    <a href="http://www.funimation.com/p/subscribe" class="btn-red size3 right">Subscribe Now</a>
+            </section>
+</section>	    <section class="main-navigation-sub ">
+        <ul class="main-nav bold left">
+                            <li>
+                    <a href="http://www.funimation.com/shows" class="white ">Shows</a>
+                </li>
+                <li>
+                    <a href="http://www.funimation.com/videos/simulcasts" class="white ">Simulcasts</a>
+                </li>
+                <li>
+                    <a href="http://shop.funimation.com/Shop/Pre-Orders.html " class="white">Pre-Orders</a>
+                </li>
+                <li>
+                    <a href="http://shop.funimation.com/Shop/New%20Releases.html" class="white">New Releases</a>
+                </li>
+                <li>
+                    <a href="http://www.funimation.com/blog" class="white ">News</a>
+                </li>
+                <li>
+                    <a href="http://www.funimation.com/forum/forum.php" class="white ">Forum</a>
+                </li>
+                    </ul>
+                    <ul class="basic-nav">
+                <li>
+                    <p>Spend $50</p>
+                </li><br>
+                <li>
+                    <p style="font-size:9px">USA FREE SHIPPING</p>
+                </li>
+            </ul>
+                <a href="http://shop.funimation.com/shop/cart.ssp?sc=3#cart" class="icon-shopping-cart right"><span class="fs12 condensed bold"></span></a>
+        <form class="search-box right" action="http://www.funimation.com/search" method="get">
+            <input class="field left" type="text" id="q" name="q" value="" placeholder="Search">
+            <input class="button right" type="submit" value="Search">
+        </form>
+    </section>
+
 </nav>
 <section id="main-wrapper" class="center-layout nobg">
-<section id="main-content" class="w960">
-<div class="main-heading">
-<h2 class="clear">
-PRIVACY POLICY</h2>
+	<section id="main-content" class="w960">
+                    <div class="main-heading">
+	<h2 class="clear">
+		PRIVACY POLICY</h2>
 </div>
 <div class="copyright_content">
-<div class="intro">
-<p>
-FUNimation Entertainment is respectful about the privacy of our users.&nbsp; As a general policy, no personal information is automatically collected from users of our sites.&nbsp; This policy statement tells you how we collect information from you and how we use it.<br>
-<br>
-<br>
-<strong>Collection of Non-personal Information</strong><br>
-<br>
-Certain non-personal information of users is recorded by the standard operation of the FUNimation Internet servers. Such information is used to make your visits to our sites easy and enjoyable. Other uses of this information include internal review of the number of visitors to FUNimation's sites, but only in an aggregate form.<br>
-<br>
-Some information may also be automatically collected (unless you have set your computer's preferences to prevent it) whenever you log onto FUNimation websites through what are known as "Cookies."&nbsp; Cookies are pieces of information stored on a user's hard drive for record-keeping purposes.&nbsp; A Cookie cannot determine your name, e-mail address, phone number, or any other personal information about you unless you choose to provide that information.&nbsp; Rather, a cookie is able to store information about your computer and the online activities generated from it, such as what kind of browser software you use to access the Internet, the type of operating system, and the domain name of your Internet service provider.<br>
-<br>
-We may also use cookies to give users the ability to personalize the website or track and provide users' scores on designated games or contests. This information is most easily tracked with cookies and is used only for the purpose of operating the website and administrative and research functions.<br>
-<br>
-<br>
-<strong>Collection of Personally Identifiable Information</strong><br>
-<br>
-Certain personally identifiable Information that may be collected automatically by the website’s servers can include your Internet protocol (IP) address, your email address, your username, your password, the full URL clickstream to and from our website, search activity, video viewing activity, product view activity, purchase activity which is used to determine such things as “Top Sellers”, and user profile view activity. FUNimation may also employ software tools such as JavaScript to measure and collect session information, which may include page response times, download errors, time on site, and page interaction. We may also collect technical information about your device for diagnostic purposes and fraud prevention.<br>
-<br>
-E-mail addresses and other personally identifiable information about users of this site are known to FUNimation only when voluntarily submitted. Personal information that may be collected in connection with users voluntarily filling out contest entry forms, purchasing FUNimation's products, joining FUNimation, creating a review, compiling wish lists, adding products to My Collection, participating in the forum, creating alerts in My Shows, creating playlists, communicating with Customer Service, providing information in Account settings or Profile, or replying to a survey is retained by FUNimation and is not sold or otherwise transferred to a third party, except that FUNimation may provide this information in an aggregate form to third parties for marketing, advertising, or other uses. FUNimation needs to collect this information for fulfilling prizes, fulfilling shipments, tracking/verifying compliance with FUNimation policies as well as federal, state, and local laws, and for editorial and feedback solicitation purposes. We also use this information to better understand our fans' use of our sites so that we can enhance our users' enjoyment of our sites.<br>
-<br>
-<br>
-<strong>User Information Displayed in Profile</strong><br>
-<br>
-Some user activity information is displayed on your user profile in the History tab. You can control which information appears to other users by visiting your Privacy Settings in your <a href="http://www.funimation.com/account">Account</a>&nbsp;under Site &amp; Profile Settings --&gt; Privacy. By default, this setting is set to “Private”, meaning that only you and certain FUNimation staff can see this information. FUNimation Staff will only use this information for website analysis and functionality purposes.<br>
-<br>
-<br>
-<strong>Disclosure of Personally Identifiable Information</strong><br>
-<br>
-FUNimation will not disclose your personal information to third parties without your consent. FUNimation may, however, disclose user information in special cases when we have reason to believe that disclosing this information is necessary to identify, contact, or bring legal action against someone who may be causing injury to or interference with (either intentionally or unintentionally) FUNimation's intellectual property rights or the rights of other FUNimation site users, or to anyone else that could be harmed by such activities.&nbsp; Further, FUNimation may disclose user information when we believe in good faith that the law requires it.<br>
-<br>
-<br>
-<strong>Collection of Information by Third-Party Service Providers</strong><br>
-<br>
-FUNimation provides personal information to other companies and individuals to perform functions on its behalf. These companies and individuals have access to personal information only to perform their functions and may not use it for other purposes. Functions include, but are not limited to fulfilling orders, delivering packages, sending postal mail and email, analyzing data, providing search results, and processing credit card payments.<br>
-<br>
-<br>
-<strong>Collection of Information by Third-Party Advertisers</strong><br>
-<br>
-Our Site may include third-party advertising, links to other websites, and other content from third party businesses. The content posted by these parties will be reasonably identifiable as coming from a third party. We do not provide any personally identifiable information to these advertisers, third-party websites, or other businesses, although on occasion we may mutually share non-personally identifiable (e.g. demographic) information to facilitate delivery of relevant advertisements. These third-party websites, businesses, and advertisers, or advertising companies working on their behalf, sometimes use technology to deliver (or "serve") the advertisements that appear on our Site directly to your browser. They automatically receive your IP address when this happens. They may also use cookies, JavaScript, web beacons (also known as action tags or single-pixel gifs), and other technologies to measure the effectiveness of their ads and to personalize or optimize advertising content. We do not have access to or control over cookies or other technologies that they may use, and the information practices of these advertisers and third-party websites or businesses are not covered by this Policy but are covered by their respective privacy policies. Some, but not all, third party advertising companies provide a mechanism to opt-out of their technology.<br>
-<br>
-<br>
-<strong>FUNimation Advertising on FUNimation.com and on Other Websites</strong><br>
-<br>
-User acknowledges that third party vendors, including Google and Facebook, show FUNimation advertisements on various internet sites and on FUNimation.com. Third party vendors, including Google and Facebook, use cookies to serve advertisements based on User's prior visits to FUNimation.com. User also acknowledges that FUNimation uses Google Adwords features such as remarketing, interest categories, similar audiences, other types of interest-based advertising, and demographic and location targeting to serve ads on third party sites and on FUNimation.com. User also acknowledges that FUNimation.com uses Google Analytics and Signal (formerly BrightTag) to collect data about User's traffic via Google Analytics advertising cookies and anonymous identifiers, in addition to data collected through a standard Google Analytics implementation.</p>
-<p>
-&nbsp;</p>
-<p>
-All information collected in the above manner is non-personally identifiable and will not be merged with any personally identifiable User information without prior notice and the consent of User. No information will be shared with Google through any marketing or product data feeds which might be associated with our advertising.</p>
-<p>
-&nbsp;</p>
-<p>
-Users may opt out of Google's use of cookies by visiting the <a href="http://www.google.com/privacy_ads.html">Google advertising opt-out page</a>. &nbsp;Users may opt out of Facebook's use of cookies by logging into Facebook and visiting the <a href="https://www.facebook.com/ads/website_custom_audiences/">Facebook opt-out page</a>.&nbsp;If you would prefer to opt out of a third party vendor’s use of cookies, please visit <a href="http://www.networkadvertising.org/managing/opt_out.asp">Network Advertising Initiative opt out page</a>.<br>
-<br>
-In some cases, the Teracent cookie is used and&nbsp; Users may opt out of the Teracent cookie by visiting the <a href="http://www.teracent.com/about-us/opt-out">Teracent opt-out page</a>.<br>
-<br>
-In some cases, DoubleClick cookies may be in use. Users may opt out of DoubleClick's use of cookies by visiting the <a href="http://www.doubleclick.com/privacy/dart_adserving.aspx">DoubleClick opt-out page</a> or the <a href="http://www.networkadvertising.org/managing/opt_out.asp">Network Advertising Initiative opt-out page</a>.</p>
-<p>
-<br>
-<strong>Privacy Policy Manager: </strong><br>
-FUNimation Productions, Ltd.<br>
-Privacy Policy Manager<br>
-1200 Lakeside Pkwy<br>
-Building 1<br>
-Flower Mound, TX 75028<br>
-(972) 355-7300 phone<br>
-Legal3@funimation.com<script type="text/javascript">
-/* <![CDATA[ */
-(function(){try{var s,a,i,j,r,c,l,b=document.getElementsByTagName("script");l=b[b.length-1].previousSibling;a=l.getAttribute('data-cfemail');if(a){s='';r=parseInt(a.substr(0,2),16);for(j=2;a.length-j;j+=2){c=parseInt(a.substr(j,2),16)^r;s+=String.fromCharCode(c);}s=document.createTextNode(s);l.parentNode.replaceChild(s,l);}}catch(e){}})();
-/* ]]> */
-</script></p>
+	<div class="intro">
+		<p>
+			FUNimation Entertainment is respectful about the privacy of our users.&nbsp; As a general policy, no personal information is automatically collected from users of our sites.&nbsp; This policy statement tells you how we collect information from you and how we use it.<br>
+			<br>
+			<br>
+			<strong>Collection of Non-personal Information</strong><br>
+			<br>
+			Certain non-personal information of users is recorded by the standard operation of the FUNimation Internet servers. Such information is used to make your visits to our sites easy and enjoyable. Other uses of this information include internal review of the number of visitors to FUNimation's sites, but only in an aggregate form.<br>
+			<br>
+			Some information may also be automatically collected (unless you have set your computer's preferences to prevent it) whenever you log onto FUNimation websites through what are known as "Cookies."&nbsp; Cookies are pieces of information stored on a user's hard drive for record-keeping purposes.&nbsp; A Cookie cannot determine your name, e-mail address, phone number, or any other personal information about you unless you choose to provide that information.&nbsp; Rather, a cookie is able to store information about your computer and the online activities generated from it, such as what kind of browser software you use to access the Internet, the type of operating system, and the domain name of your Internet service provider.<br>
+			<br>
+			We may also use cookies to give users the ability to personalize the website or track and provide users' scores on designated games or contests. This information is most easily tracked with cookies and is used only for the purpose of operating the website and administrative and research functions.<br>
+			<br>
+			<br>
+			<strong>Collection of Personally Identifiable Information</strong><br>
+			<br>
+			Certain personally identifiable Information that may be collected automatically by the website’s servers can include your Internet protocol (IP) address, your email address, your username, your password, the full URL clickstream to and from our website, search activity, video viewing activity, product view activity, purchase activity which is used to determine such things as “Top Sellers”, and user profile view activity. FUNimation may also employ software tools such as JavaScript to measure and collect session information, which may include page response times, download errors, time on site, and page interaction. We may also collect technical information about your device for diagnostic purposes and fraud prevention.</p>
+		<p>
+			&nbsp;</p>
+		<p>
+			<span>E-mail addresses and other personally identifiable information about users of this site are known to FUNimation only when voluntarily submitted. The e-mail address that you provide at account sign-up may be used with FUNimation direct e-mail marketing only. E-mail addresses will not be given to any third-party advertisers. Users may unsubscribe from the FUNimation promotional e-mail list at anytime via a link at the bottom of every e-mail sent out by FUNimation. Personal information that may be collected in connection with users voluntarily filling out contest entry forms, purchasing FUNimation's products, joining FUNimation, creating a review, compiling wish lists, adding products to My Collection, participating in the forum, creating alerts in My Shows, creating playlists, communicating with Customer Service, providing information in Account settings or Profile, or replying to a survey is retained by FUNimation and is not sold or otherwise transferred to a third party, except that FUNimation may provide this information in an aggregate form to third parties for marketing, advertising, or other uses. FUNimation needs to collect this information for fulfilling prizes, fulfilling shipments, tracking/verifying compliance with FUNimation policies as well as federal, state, and local laws, and for editorial and feedback solicitation purposes. We also use this information to better understand our fans' use of our sites so that we can enhance our users' enjoyment of our sites.</span></p>
+		<p>
+			<br>
+			<strong>User Information Displayed in Profile</strong><br>
+			<br>
+			Some user activity information is displayed on your user profile in the History tab. You can control which information appears to other users by visiting your Privacy Settings in your <a href="http://www.funimation.com/account">Account</a>&nbsp;under Site &amp; Profile Settings --&gt; Privacy. By default, this setting is set to “Private”, meaning that only you and certain FUNimation staff can see this information. FUNimation Staff will only use this information for website analysis and functionality purposes.<br>
+			<br>
+			<br>
+			<strong>Disclosure of Personally Identifiable Information</strong><br>
+			<br>
+			FUNimation will not disclose your personal information to third parties without your consent. FUNimation may, however, disclose user information in special cases when we have reason to believe that disclosing this information is necessary to identify, contact, or bring legal action against someone who may be causing injury to or interference with (either intentionally or unintentionally) FUNimation's intellectual property rights or the rights of other FUNimation site users, or to anyone else that could be harmed by such activities.&nbsp; Further, FUNimation may disclose user information when we believe in good faith that the law requires it.<br>
+			<br>
+			<br>
+			<strong>Collection of Information by Third-Party Service Providers</strong><br>
+			<br>
+			FUNimation provides personal information to other companies and individuals to perform functions on its behalf. These companies and individuals have access to personal information only to perform their functions and may not use it for other purposes. Functions include, but are not limited to fulfilling orders, delivering packages, sending postal mail and email, analyzing data, providing search results, and processing credit card payments.<br>
+			<br>
+			<br>
+			<strong>Collection of Information by Third-Party Advertisers</strong><br>
+			<br>
+			Our Site may include third-party advertising, links to other websites, and other content from third party businesses. The content posted by these parties will be reasonably identifiable as coming from a third party. We do not provide any personally identifiable information to these advertisers, third-party websites, or other businesses, although on occasion we may mutually share non-personally identifiable (e.g. demographic) information to facilitate delivery of relevant advertisements. These third-party websites, businesses, and advertisers, or advertising companies working on their behalf, sometimes use technology to deliver (or "serve") the advertisements that appear on our Site directly to your browser. They automatically receive your IP address when this happens. They may also use cookies, JavaScript, web beacons (also known as action tags or single-pixel gifs), and other technologies to measure the effectiveness of their ads and to personalize or optimize advertising content. We do not have access to or control over cookies or other technologies that they may use, and the information practices of these advertisers and third-party websites or businesses are not covered by this Policy but are covered by their respective privacy policies. Some, but not all, third party advertising companies provide a mechanism to opt-out of their technology.<br>
+			<br>
+			<br>
+			<strong>FUNimation Advertising on FUNimation.com and on Other Websites</strong><br>
+			<br>
+			User acknowledges that third party vendors, including Google, Facebook, and Twitter, show FUNimation advertisements on various internet sites and on FUNimation.com. Third party vendors, including Google, Facebook, and Twitter, use cookies to serve advertisements based on User's prior visits to FUNimation.com. User also acknowledges that FUNimation uses Google Adwords features such as remarketing, interest categories, similar audiences, other types of interest-based advertising, and demographic and location targeting to serve ads on third party sites and on FUNimation.com. User also acknowledges that FUNimation.com uses Google Analytics and Signal (formerly BrightTag) to collect data about User's traffic via Google Analytics advertising cookies and anonymous identifiers, in addition to data collected through a standard Google Analytics implementation.</p>
+		<p>
+			&nbsp;</p>
+		<p>
+			All information collected in the above manner is non-personally identifiable and will not be merged with any personally identifiable User information without prior notice and the consent of User. No information will be shared with Google through any marketing or product data feeds which might be associated with our advertising.</p>
+		<p>
+			&nbsp;</p>
+		<p>
+			Users may opt out of Google's use of cookies by visiting the <a href="http://www.google.com/privacy_ads.html">Google advertising opt-out page</a>. &nbsp;Users may opt out of Facebook's use of cookies by logging into Facebook and visiting the <a href="https://www.facebook.com/ads/website_custom_audiences/">Facebook opt-out page</a>. Users may opt out of Twitter's use of cookies by logging into Twitter and unchecking the box in their security and privacy settings that says "Tailor ads based on information shared by ad partners" next to the heading "Promoted content". If you would prefer to opt out of a third party vendor’s use of cookies, please visit <a href="http://www.networkadvertising.org/managing/opt_out.asp">Network Advertising Initiative opt out page</a>.</p>
+		<p>
+			<br>
+			In some cases, the Teracent cookie is used and&nbsp; Users may opt out of the Teracent cookie by visiting the <a href="http://www.teracent.com/about-us/opt-out">Teracent opt-out page</a>.<br>
+			<br>
+			In some cases, DoubleClick cookies may be in use. Users may opt out of DoubleClick's use of cookies by visiting the <a href="http://www.doubleclick.com/privacy/dart_adserving.aspx">DoubleClick opt-out page</a> or the <a href="http://www.networkadvertising.org/managing/opt_out.asp">Network Advertising Initiative opt-out page</a>.</p>
+		<p>
+			<br>
+			<strong>Privacy Policy Manager: </strong><br>
+			FUNimation Productions, Ltd.<br>
+			Privacy Policy Manager<br>
+			1200 Lakeside Pkwy<br>
+			Building 1<br>
+			Flower Mound, TX 75028<br>
+			(972) 355-7300 phone<br>
+			Legal3@funimation.com<script cf-hash="f9e31" type="text/javascript">
+/* <![CDATA[ */!function(){try{var t="currentScript"in document?document.currentScript:function(){for(var t=document.getElementsByTagName("script"),e=t.length;e--;)if(t[e].getAttribute("cf-hash"))return t[e]}();if(t&&t.previousSibling){var e,r,n,i,c=t.previousSibling,a=c.getAttribute("data-cfemail");if(a){for(e="",r=parseInt(a.substr(0,2),16),n=2;a.length-n;n+=2)i=parseInt(a.substr(n,2),16)^r,e+=String.fromCharCode(i);e=document.createTextNode(e),c.parentNode.replaceChild(e,c)}}}catch(u){}}();/* ]]> */</script></p>
+	</div>
 </div>
-</div>
 <p>
-&nbsp;</p> </section>
+	&nbsp;</p>        	</section>
 </section>
 <footer class="clear" style="background-color: #000000">
-<section class="center-layout">
-<article class="main-footer left">
-<ul class="clearfix">
- 
-<li class="left"><a href="http://www.funimation.com/account"><span>Account</span></a></li>
-<li class="left"><a href="http://www.funimation.com/support"><span>Help</span></a></li>
-<li class="left"><a href="http://www.funimation.com/about-us"><span>About Us</span></a></li>
-<li class="left"><a href="http://www.funimation.com/return-policy"><span>Policies</span></a></li>
- 
-<li class="left"><a href="http://www.funimation.com/terms-of-use"><span>Terms</span></a></li>
-<li class="left"><a href="http://www.funimation.com/privacy-policy"><span>Privacy</span></a></li>
-</ul>
-<span class="copyright show"><a href="http://www.funimation.com/copyrights">© 2014 FUNimation Productions, LTD. All Rights Reserved.</a></span>
-</article>
-<article class="social-footer right">
-<ul class="clearfix">
-<li class="left fs14"><span class="bold">Follow us:</span></li>
-<li class="left"><a href="http://www.facebook.com/funimation" target="_blank"><span class="social foundicon-facebook"></span></a></li>
-<li class="left"><a href="http://www.twitter.com/funimation" target="_blank"><span class="social foundicon-twitter"></span></a></li>
-<li class="left"><a href="https://plus.google.com/+FUNimation" target="_blank"><span class="social foundicon-google-plus"></span></a></li>
-<li class="left"><a href="https://www.youtube.com/funimation" target="_blank"><span class="social foundicon-youtube"></span></a></li>
-<li class="left"><a href="http://www.pinterest.com/funimation" target="_blank"><span class="social foundicon-pinterest"></span></a></li>
-<li class="left"><a href="http://funimation.tumblr.com" target="_blank"><span class="social foundicon-tumblr"></span></a></li>
-</ul>
-</article>
-</section>
+    <section class="center-layout">
+        <article class="main-footer left">
+            <ul class="clearfix">
+                <!--<li class="left"><a href=""><span>Home</span></a></li>-->
+                <li class="left"><a href="http://www.funimation.com/account"><span>Account</span></a></li>
+                <li class="left"><a href="http://www.funimation.com/support"><span>Help</span></a></li>
+                <li class="left"><a href="http://www.funimation.com/about-us"><span>About Us</span></a></li>
+                <li class="left"><a href="http://www.funimation.com/return-policy"><span>Policies</span></a></li>
+                <!--<li class="left"><a href=""><span>Legal</span></a></li>-->
+                <li class="left"><a href="http://www.funimation.com/terms-of-use"><span>Terms</span></a></li>
+                <li class="left"><a href="http://www.funimation.com/privacy-policy"><span>Privacy</span></a></li>
+            </ul>
+            <span class="copyright show"><a href="http://www.funimation.com/copyrights">© 2015 FUNimation Productions, LTD. All Rights Reserved.</a></span>
+        </article>
+
+        <article class="social-footer right">
+            <ul class="clearfix">
+                <li class="left fs14"><span class="bold">Follow us:</span></li>
+                <li class="left"><a href="http://www.facebook.com/funimation" target="_blank"><span class="social foundicon-facebook"></span></a></li>
+                <li class="left"><a href="http://www.twitter.com/funimation" target="_blank"><span class="social foundicon-twitter"></span></a></li>
+                <li class="left"><a href="https://plus.google.com/+FUNimation" target="_blank"><span class="social foundicon-google-plus"></span></a></li>
+                <li class="left"><a href="https://www.youtube.com/funimation" target="_blank"><span class="social foundicon-youtube"></span></a></li>
+                <li class="left"><a href="http://www.pinterest.com/funimation" target="_blank"><span class="social foundicon-pinterest"></span></a></li>
+                <li class="left"><a href="http://funimation.tumblr.com" target="_blank"><span class="social foundicon-tumblr"></span></a></li>
+            </ul>
+        </article>
+    </section>
 </footer>
 <script type="text/javascript">  
 
-    var expand=1;
+var expand=1;
+
 
     /* Separate .load for .read, with you use headjs */
     head.load([
-        {"all-js":"http://www.funimation.com/assets/js/all.min.js?v=1.1.8"},
-        {"global":"http://www.funimation.com/assets/js/global.min.js?v=1.1.8"}
-    ],function(){
-        console.log("done");
+                {"all-js":"http://www.funimation.com/assets/js/all.min.js?v=1.1.23"},
+                {"global":"http://www.funimation.com/assets/js/global.min.js?v=1.1.39"},
+            ],function(){});
 
-    });
-
-    head.js("http://www.funimation.com/assets/js/share_funi_style.min.js?v=1.1.8")
-        .js("http://www.funimation.com/assets/js/tiny_mce/tiny_mce_gzip.js?v=1.1.8");
+    head.js("http://www.funimation.com/assets/js/share_funi_style.min.js?v=1.1.23")
+        .js("http://www.funimation.com/assets/js/tiny_mce/tiny_mce_gzip.js?v=1.1.23");
 
 </script>
 <script type="text/javascript">
@@ -360,11 +484,11 @@ Legal3@funimation.com<script type="text/javascript">
             
                     });
     });
-</script>
- <script type="text/javascript">
+</script><script type="text/javascript">
 head.ready(["all-js","global"], function() {
     global.initToggles();
+    $.getScript("../assets/js/common.min.js");
 });
 </script>
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-5.newrelic.com","licenseKey":"2b4c127a96","applicationID":"2420982","transactionName":"YABTYRRUCEpYBkcMCVlKcFYSXAlXFjVSAgMYDF9RA00=","queueTime":0,"applicationTime":66,"ttGuid":"","agentToken":"","userAttributes":"","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-476.min.js"}</script>
-<script src="https://js-agent.newrelic.com/nr-476.min.js"></script></body></html>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"2b4c127a96","applicationID":"13791543","transactionName":"YABTYRRUCEpYBkcMCVlKZEcPGklQVwFWHUhHDUE=","queueTime":0,"applicationTime":23,"atts":"TEdQF1xOG0Q=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-632.min.js"}</script>
+</body></html>
