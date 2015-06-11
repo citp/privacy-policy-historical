@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brazilianbikinishop.com privacy policy that was archived on 2014-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141205124758id_/http%3A//www.brazilianbikinishop.com/pages.php%3FpID%3D41%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brazilianbikinishop.com privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611142015id_/http%3A//www.brazilianbikinishop.com/pages.php%3FpID%3D41%23privacy) for the most accurate reproduction.*
 
 # Terms and Conditions
 
@@ -9,7 +9,7 @@ We are registered in Antibes, France under company number RCS 509778270 and with
 
 **Customer Service** :  
 You can contact us by email at info@brazilianbikinishop.com,   
-by telephone on +33 (0)9.67.17.01.14 - Monday to Friday from 9h30 AM to 3h45 PM (European Time zone)
+by telephone on (786) 224-0188 - Monday to Friday from 2 PM to 23h PM (Paris Time zone)
 
 ### **2\. YOUR PERSONAL INFORMATION**
 
@@ -51,8 +51,8 @@ Payment for goods can be made by one of the following payment methods
 \- PayPal  
 \- Credit card through Paypal  
 \- Debit card through Paypal  
-Payment for goods will be made in accordance with the procedure explained in the information  
-page “payment methods”.
+Payment for goods will be made in accordance with the procedure explained in the information page “payment methods”.  
+Please note that if your credit card or bank account is in a different currency than Euros, your credit card company or bank may apply currency conversion costs.
 
 ### **7\. RIGHT TO CANCEL**
 
@@ -176,4 +176,4 @@ At any stage you also have the right to ask us to stop using your personal data 
 ### **Our contact details**
 
 We welcome your feedback and questions. If you wish to contact us, please send an email to  
-info@brazilianbikinishop.com or or call us on +33 (0)9.67.17.01.14.
+info@brazilianbikinishop.com or or call us on (786) 224-0188
