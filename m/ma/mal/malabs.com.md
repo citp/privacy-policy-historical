@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the malabs.com privacy policy that was archived on 2014-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141223222526id_/http%3A//malabs.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the malabs.com privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611084117id_/http%3A//www.malabs.com/privacy-policy) for the most accurate reproduction.*
 
 # Ma Labs - Leading Distributor of PC Components, Computer Hardware and Software, Servers, Laptop Systems, Digital Signage, Consumer Electronics and more!
 
