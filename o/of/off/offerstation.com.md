@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the offerstation.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121153254id_/http%3A//www.offerstation.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the offerstation.com privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612002359id_/http%3A//offerstation.com/privacy.php) for the most accurate reproduction.*
 
 # Contact Us | OfferStation.com
 
@@ -52,51 +52,48 @@ OfferStation reserves the right to modify, update, and change this policy at our
 
 [
 
-## POPULAR Sale
+## MANGO Sale
 
-](http://www.offerstation.com/sales-warehouse-clearance/144269/popular-sale.htm)
-
-[
-
-## New Strip Outlet
-
-](http://www.offerstation.com/whats-new/144201/new-strip-outlet.htm)
+](http://www.offerstation.com/sales-warehouse-clearance/155551/mango-sale.htm)
 
 [
 
-## New Guardian Store
+## Skechers School Holidays Sale
 
-](http://www.offerstation.com/whats-new/144161/new-guardian-store.htm)
-
-[
-
-## The Perfect Christmas Sale at Guardian
-
-](http://www.offerstation.com/sales-warehouse-clearance/144158/the-perfect-christmas-sale-at-guardian.htm)
+](http://www.offerstation.com/sales-warehouse-clearance/154524/skechers-school-holidays-sale.htm)
 
 [
 
-## The StarProperty Fair 2014 at KLCC
+## IKEA FAMILY Offers
 
-](http://www.offerstation.com/happenings-events/140913/the-starproperty-fair-2014-at-klcc.htm)
-
-[
-
-## Peugeot Promotion
-
-](http://www.offerstation.com/offers-promotions/143274/peugeot-promotion.htm)
+](http://www.offerstation.com/offers-promotions/153696/ikea-family-offers.htm)
 
 [
 
-## Papa John's Pizza Madness
+## 1Malaysia Mega Sale Carnival 2015
 
-](http://www.offerstation.com/dining-food-offers/144203/papa-johns-pizza-madness.htm)
+](http://www.offerstation.com/sales-warehouse-clearance/155046/1malaysia-mega-sale-carnival-2015.htm)
 
 [
 
-## New H&M Outlet at IOI City Mall
+## bebe Season Clearance Sale
 
-](http://www.offerstation.com/whats-new/144060/new-handm-outlet-at-ioi-city-mall.htm)
+](http://www.offerstation.com/sales-warehouse-clearance/155282/bebe-season-clearance-sale.htm)
 
-  
+[
 
+## TUMI End of Season Sale
+
+](http://www.offerstation.com/sales-warehouse-clearance/155309/tumi-end-of-season-sale.htm)
+
+[
+
+## The BritishIndia Stampede Sale
+
+](http://www.offerstation.com/sales-warehouse-clearance/155394/the-britishindia-stampede-sale.htm)
+
+[
+
+## Buy 1 FREE 1 with Maybank Visa Credit Card at TGV Cinemas
+
+](http://www.offerstation.com/offers-promotions/152685/buy-1-free-1-with-maybank-visa-credit-card-at-tgv-cinemas.htm)
