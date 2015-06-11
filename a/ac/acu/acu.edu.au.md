@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the acu.edu.au privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227182254id_/http%3A//www.acu.edu.au/home/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acu.edu.au privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611164948id_/http%3A//www.acu.edu.au/home/privacy) for the most accurate reproduction.*
 
-# Privacy policy - ACU (Australian Catholic University)
+# Privacy policy - ACU (Australian Catholic University) - ACU (Australian Catholic University)
 
 Australian Catholic University is committed to ensuring the privacy of all information it collects. Information supplied to the University will only be used for the administrative and educational purposes of this institution.
 
