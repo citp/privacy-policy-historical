@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the fantasyknuckleheads.com privacy policy that was archived on 2014-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141208191004id_/http%3A//fantasyknuckleheads.com/subscribe/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fantasyknuckleheads.com privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611021713id_/http%3A//fantasyknuckleheads.com/subscribe/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 FantasyKnuckleheads.com knows that you care about how your personal information is used and shared, and we take your privacy very seriously. Please read the following to learn more about our privacy policy. By visiting our website, you are accepting the practices outlined in this Privacy Policy.
 
-This Privacy Policy covers FantasyKnuckleheads.com’s treatment of personal information that FantasyKnuckleheads.com gathers when you are on the FantasyKnuckleheads.com website and when you use FantasyKnuckleheads.com services. This policy does not apply to the practices of third parties that FantasyKnuckleheads.com does not own or control, or to individuals that FantasyKnuckleheads.com does not employ or manage.
+This Privacy Policy covers FantasyKnuckleheads.com's treatment of personal information that FantasyKnuckleheads.com gathers when you are on the FantasyKnuckleheads.com website and when you use FantasyKnuckleheads.com services. This policy does not apply to the practices of third parties that FantasyKnuckleheads.com does not own or control, or to individuals that FantasyKnuckleheads.com does not employ or manage.
 
 Information Collected by FantasyKnuckleheads.com
 
@@ -14,7 +14,7 @@ We only collect personal information that is relevant to the purpose of our webs
 
 2\. Automatic Information:
 
-  * We receive and store certain types of information whenever you interact with us. FantasyKnuckleheads.com and its authorized agents automatically receive and record certain “traffic data” on their server logs from your browser including your IP address, FantasyKnuckleheads.com cookie information, and the page you requested. FantasyKnuckleheads.com uses this traffic data to help diagnose problems with its servers, analyze trends and administer the website.
+  * We receive and store certain types of information whenever you interact with us. FantasyKnuckleheads.com and its authorized agents automatically receive and record certain "traffic data" on their server logs from your browser including your IP address, FantasyKnuckleheads.com cookie information, and the page you requested. FantasyKnuckleheads.com uses this traffic data to help diagnose problems with its servers, analyze trends and administer the website.
   * As you browse FantasyKnuckleheads.com, advertising cookies will be placed on your computer so that we can understand what you are interested in.  Our display advertising partner, AdRoll, then enables us to present you with retargeting advertising on other sites based on your previous interaction with FantasyKnuckleheads.com. The techniques our partners employ do not collect personal information such as your name, email address, postal address or telephone number.  You can visit this [page](http://www.networkadvertising.org/choices/) to opt out of AdRoll and their partners’ targeted advertising.
   * FantasyKnuckleheads.com may collect and, on any page, display the total counts that page has been viewed.
   * Many companies offer programs that help you to visit websites anonymously. While FantasyKnuckleheads.com will not be able to provide you with a personalized experience if we cannot recognize you, we want you to be aware that these programs are available.
@@ -23,15 +23,15 @@ We only collect personal information that is relevant to the purpose of our webs
 
 E-mail Communications
 
-FantasyKnuckleheads.com is very concerned about your privacy and we will never provide your email address to a third party without your explicit permission, as detailed in the “Sharing Your Information” section below. FantasyKnuckleheads.com may send out e-mails with FantasyKnuckleheads.com-related news, products, offers, surveys or promotions.
+FantasyKnuckleheads.com is very concerned about your privacy and we will never provide your email address to a third party without your explicit permission, as detailed in the "Sharing Your Information" section below. FantasyKnuckleheads.com may send out e-mails with FantasyKnuckleheads.com-related news, products, offers, surveys or promotions.
 
 Cookies
 
-Cookies are alphanumeric identifiers that we transfer to your computer’s hard drive through your Web browser to enable our systems to recognize your browser and tell us how and when pages in our website are visited and by how many people. FantasyKnuckleheads.com cookies do not collect personal information, and we do not combine information collected through cookies with other personal information to tell us who you are or what your screen name or e-mail address is.
+Cookies are alphanumeric identifiers that we transfer to your computer's hard drive through your Web browser to enable our systems to recognize your browser and tell us how and when pages in our website are visited and by how many people. FantasyKnuckleheads.com cookies do not collect personal information, and we do not combine information collected through cookies with other personal information to tell us who you are or what your screen name or e-mail address is.
 
-The “help” portion of the toolbar on the majority of browsers will direct you on how to prevent your browser from accepting new cookies, how to command the browser to tell you when you receive a new cookie, or how to fully disable cookies. We recommend that you leave the cookies activated because cookies allow you to use some of FantasyKnuckleheads.com’s coolest features.
+The "help" portion of the toolbar on the majority of browsers will direct you on how to prevent your browser from accepting new cookies, how to command the browser to tell you when you receive a new cookie, or how to fully disable cookies. We recommend that you leave the cookies activated because cookies allow you to use some of FantasyKnuckleheads.com's coolest features.
 
-FantasyKnuckleheads.com’s advertising partners may place a cookie on your browser that makes it possible to collect anonymous non-personally identifiable information that ad delivery systems use to present more relevant ads. If you would prefer to opt-out of this standard practice, please visit our advertising partner Platform-A’s privacy policy and opt-out page.
+FantasyKnuckleheads.com's advertising partners may place a cookie on your browser that makes it possible to collect anonymous non-personally identifiable information that ad delivery systems use to present more relevant ads. If you would prefer to opt-out of this standard practice, please visit our advertising partner Platform-A's privacy policy and opt-out page.
 
 Sharing Your Information
 
@@ -49,7 +49,7 @@ With Your Consent: Except as noted above, we will contact you when your personal
 
 Children Under 18 Years of Age
 
-You must be 13 years and older to register to use the FantasyKnuckleheads.com website. As a result, FantasyKnuckleheads.com does not specifically collect information about children. If we learn that FantasyKnuckleheads.com has collected information from a child under the age of 13, we will delete that information as quickly as possible. We recommend that minors between the ages of 13 and 18 ask and receive their parents’ permission before using FantasyKnuckleheads.com or sending information about themselves or anyone else over the Internet.
+You must be 13 years and older to register to use the FantasyKnuckleheads.com website. As a result, FantasyKnuckleheads.com does not specifically collect information about children. If we learn that FantasyKnuckleheads.com has collected information from a child under the age of 13, we will delete that information as quickly as possible. We recommend that minors between the ages of 13 and 18 ask and receive their parents' permission before using FantasyKnuckleheads.com or sending information about themselves or anyone else over the Internet.
 
 Changes to this Privacy Policy
 
