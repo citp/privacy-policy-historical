@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the discount-supplements.co.uk privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122000905id_/http%3A//www.discount-supplements.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the discount-supplements.co.uk privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611083634id_/http%3A//www.discount-supplements.co.uk/privacy) for the most accurate reproduction.*
 
-# Supplements | Protein | Creatine | Whey | Privacy Policy
+# 
 
 Who We Are?  
   
-In this Privacy Policy references to "we" and "us" are to Discount Supplements Ltd, 2 Anglia Way, Braintree, Essex, CM7 3RG, company number 53190001, registered office Discount Supplements Ltd, 2 Anglia Way, Braintree, Essex, CM7 3RG. Telephone Number 0800 610 1144.
+In this Privacy Policy references to "we" and "us" are to Discount Supplements Ltd, 2 Anglia Way, Braintree, Essex, CM7 3RG, company number 53190001, registered office Discount Supplements Ltd, 2 Anglia Way, Braintree, Essex, CM7 3RG. Telephone Number 01376 554 270.
 
 What Information We Collect  
   
