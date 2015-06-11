@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ocr.org.uk privacy policy that was archived on 2014-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141201033645id_/http%3A//www.ocr.org.uk/about-us/our-policies/privacy-policy/index.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ocr.org.uk privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611133616id_/http%3A//www.ocr.org.uk/about-us/our-policies/privacy-policy/index.aspx) for the most accurate reproduction.*
 
 # Privacy policy - OCR
 
@@ -19,11 +19,12 @@ Oxford Cambridge and RSA Examinations is associated with the University of Cambr
 OCR   
 9 Hills Road   
 Cambridge   
-CB1 2EU
+CB2 1PB   
+
 
 ### Cookies
 
-We may [use cookies on this site](https://web.archive.org/about-us/our-policies/use-of-cookies/index.aspx "Introduction"). This enables us to personalise a User's experience of our Site by recording details about use of the Site as a file on a User's computer. Users may disable the use of cookies but this may limit the functionality of web pages on our Site, or your access to our Site.
+We may [use cookies on this site](https://web.archive.org/about-us/our-policies/use-of-cookies/index.aspx). This enables us to personalise a User's experience of our Site by recording details about use of the Site as a file on a User's computer. Users may disable the use of cookies but this may limit the functionality of web pages on our Site, or your access to our Site.
 
 ### Security
 
