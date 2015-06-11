@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the goldrushnews247.com privacy policy that was archived on 2014-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141127095810id_/http%3A//www.goldrushnews247.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goldrushnews247.com privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612002329id_/http%3A//goldrushnews247.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Gold Rush News 247
+# Privacy Policy — Gold Rush News 247
 
 At Goldrushnews247.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by Goldrushnews247.com and how it is used.
 
