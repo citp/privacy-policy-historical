@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the theo2.co.uk privacy policy that was archived on 2014-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141008085909id_/http%3A//www.theo2.co.uk/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theo2.co.uk privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611112003id_/http%3A//www.theo2.co.uk/legal/privacy) for the most accurate reproduction.*
 
-# The O2 :: Privacy
+# Privacy | The O2
 
 Who We are  
 This Website (http://www.theo2.co.uk) (the “Site”) is provided by (i) Anschutz Entertainment Group (the trading name of Anschutz Sports Holdings Ltd), a company registered in England and Wales with a registered office at: The O2, London SE10 0DX (Data Protection Registration Number Z8689382) (“AEG” / “We” / “Us” / “Our”).
