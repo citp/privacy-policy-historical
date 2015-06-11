@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the altenergymag.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120231021id_/http%3A//www.altenergymag.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the altenergymag.com privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611103025id_/http%3A//www.altenergymag.com/privacy.php) for the most accurate reproduction.*
 
 # Terms & Conditions - Privacy Policy | AltEnergyMag
 
-The following privacy statement and refund policy applies to LJB Management Inc. and all of its subsidiaries and affiliates, including HomeToys.com and AltEnergyMag.com. 
+The following privacy statement and refund policy applies to LJB Management Inc. and all of its subsidiaries and affiliates, including HomeToys.com, AltEnergyMag.com and AltEnergyMag.com. 
 
   * Personal Information
   * Third Parties
@@ -49,7 +49,7 @@ Various forms request names, addresses etc. The information gathered is used to 
 
 In the case of the Information Service ... the gathered data is forwarded to the companies from whom the reader has requested information. These companies may use that information as they see fit. LJB Management only provides the data to the companies that the reader requested the information from and it is not available to the public or any other 3rd party. 
 
-#### 'Removing or Changing Data 
+#### Removing or Changing Data 
 
 Readers may remove or change their information in our databases by requesting same. Email requests should be sent to [bobh@ljbmanagement.com](mailto:bobh@ljbmanagement.com)
 
