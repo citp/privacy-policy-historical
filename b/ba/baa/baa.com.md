@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the baa.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120122825id_/http%3A//www.heathrowairport.com/about-us/help/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the baa.com privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612001103id_/http%3A//www.heathrowairport.com/about-us/help/privacy-notice) for the most accurate reproduction.*
 
 # Heathrow: Corporate site | Privacy notice
 
-**Last updated: February 2013**
+**Last updated: December 2014**
 
   * How we use your information
   * Access to personal information
@@ -104,13 +104,10 @@ This privacy notice does not provide exhaustive detail of all aspects of Heathro
 
 ## List of Heathrow companies
 
-  * Aberdeen International Airport Limited
   * LHR Airports Limited
   * Heathrow Enterprises Limited
-  * Glasgow Airport Limited
   * Heathrow Airport Limited
   * Heathrow Express Operating Company Limited
-  * Southampton International Airport Limited
 
 
 
