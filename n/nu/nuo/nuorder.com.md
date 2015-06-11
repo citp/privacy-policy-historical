@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the nuorder.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122234951id_/http%3A//www.nuorder.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nuorder.com privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611233357id_/http%3A//www.nuorder.com/privacy-policy) for the most accurate reproduction.*
 
 # NuORDER | Privacy Policy
 
-PLEASE READ. YOUR USE OF THIS WEBSITE IS SUBJECT TO THE FOLLOWING PRIVACY POLICY AND THE WEBSITE [TERMS AND CONDITIONS](https://web.archive.org/web/20141122234951id_/http://www.nuorder.com/privacy-policy/terms.html).
+PLEASE READ. YOUR USE OF THIS WEBSITE IS SUBJECT TO THE FOLLOWING PRIVACY POLICY AND THE WEBSITE [TERMS AND CONDITIONS](https://web.archive.org/web/20150611233357id_/http://www.nuorder.com/privacy-policy/terms.html).
 
 I. Notice
 
@@ -46,9 +46,9 @@ XVII. Notification of Changes
 
 I. Notice
 
-The “Website” refers to the websites at [www.nuorder.com](https://web.archive.org/web/20141122234951id_/http://www.nuorder.com/privacy-policy/index.html), [www.nuorder.com](https://web.archive.org/web/20141122234951id_/http://www.nuorder.com/privacy-policy/index.html), their subdomains, and related domains. This Website is owned or operated by State of Tomorrow, LLC and/or its subsidiary companies in the United States of America (collectively the “COMPANY”). This privacy policy (“Privacy Policy”) applies to information that you provide to COMPANY or is collected about you via this Website and/or by your use of services (collectively, the “Services”) that may be provided by this Website or by the Company via some other means, including as set forth below and as defined in the applicable [TERMS AND CONDITIONS](https://web.archive.org/termsandconditions/) (which may also be found under the link labeled “Terms” on the Website) or other terms.
+The “Website” refers to the websites at [www.nuorder.com](https://web.archive.org/web/20150611233357id_/http://www.nuorder.com/privacy-policy/index.html), [www.nuorder.com](https://web.archive.org/web/20150611233357id_/http://www.nuorder.com/privacy-policy/index.html), their subdomains, and related domains. This Website is owned or operated by State of Tomorrow, LLC and/or its subsidiary companies in the United States of America (collectively the “COMPANY”). This privacy policy (“Privacy Policy”) applies to information that you provide to COMPANY or is collected about you via this Website and/or by your use of services (collectively, the “Services”) that may be provided by this Website or by the Company via some other means, including as set forth below and as defined in the applicable [TERMS AND CONDITIONS](https://web.archive.org/termsandconditions/) (which may also be found under the link labeled “Terms” on the Website) or other terms.
 
-This Privacy Policy is intended to provide you notice of COMPANY’s information management practices, including the types of information gathered, how it is used and safeguarded, and the degree to which you may control the maintenance and sharing of your information. Your use of any COMPANY Service or Website constitutes acceptance of and agreed to this Privacy Policy and any other applicable terms. This Privacy Policy is part of and incorporated by reference into the [TERMS AND CONDITIONS](https://web.archive.org/web/20141122234951id_/http://www.nuorder.com/privacy-policy/terms.html) for this Website. Certain terms used herein are defined in the Terms and Conditions.
+This Privacy Policy is intended to provide you notice of COMPANY’s information management practices, including the types of information gathered, how it is used and safeguarded, and the degree to which you may control the maintenance and sharing of your information. Your use of any COMPANY Service or Website constitutes acceptance of and agreed to this Privacy Policy and any other applicable terms. This Privacy Policy is part of and incorporated by reference into the [TERMS AND CONDITIONS](https://web.archive.org/web/20150611233357id_/http://www.nuorder.com/privacy-policy/terms.html) for this Website. Certain terms used herein are defined in the Terms and Conditions.
 
 II. Personally Identifiable Information That We Collect.
 
