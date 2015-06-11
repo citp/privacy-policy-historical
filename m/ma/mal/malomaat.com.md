@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the malomaat.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231204922id_/http%3A//malomaat.com/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the malomaat.com privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611083045id_/http%3A//malomaat.com/privacy-policy-2) for the most accurate reproduction.*
 
 # Privacy Policy - MALOMAAT.com
 
@@ -20,7 +20,7 @@ Our Site may use “cookies” to enhance User experience. User’s web browser 
 
 Viki Gossip may collect and use Users personal information for the following purposes:
 
-  * _\- To improve our Site_  
+  * _– To improve our Site_  
 We may use feedback you provide to improve our products and services.
 
 
