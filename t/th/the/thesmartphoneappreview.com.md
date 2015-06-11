@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thesmartphoneappreview.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220190850id_/http%3A//thesmartphoneappreview.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thesmartphoneappreview.com privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611085416id_/http%3A//thesmartphoneappreview.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Smartphone App Review
 
