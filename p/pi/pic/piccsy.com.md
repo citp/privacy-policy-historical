@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the piccsy.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209102320id_/http%3A//piccsy.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the piccsy.com privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611183752id_/http%3A//piccsy.com/privacy) for the most accurate reproduction.*
 
 # Piccsy :: Privacy Policy
 
@@ -165,7 +165,7 @@ We may contract with third party companies to perform services on our behalf, in
 
 You can access and update the information that you have provided to Groundwave Media Group as follows
 
-  1. In order to adhere to the Data Protection Act, you may contact us at info@piccsy.com and request to review, amend or delete the Personal Information collected by us, and/or request us to cease collecting Personal Information from you in the future. 
+  1. In order to adhere to the Data Protection Act, you may contact us at hello@piccsy.com and request to review, amend or delete the Personal Information collected by us, and/or request us to cease collecting Personal Information from you in the future. 
   2. If you have created an Account, you may review and make changes to certain parts of your Personal Information logging into your Account and updating your Account profile. 
 
 
@@ -202,4 +202,4 @@ This privacy policy can change at any time.
 
 ### Contact us
 
-If you have any questions, comments or concerns regarding our Privacy Policy and/or practices, please send an email to info@piccsy.com. 
+If you have any questions, comments or concerns regarding our Privacy Policy and/or practices, please send an email to hello@piccsy.com. 
