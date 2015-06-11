@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dealsofsweetness.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120060602id_/http%3A//www.dealsofsweetness.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dealsofsweetness.com privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611041255id_/http%3A//www.dealsofsweetness.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Deals of Sweetness
 
@@ -50,7 +50,7 @@ This online privacy policy applies only to information collected through our web
 
 **Terms and Conditions**
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [http://dealsofsweetness.com/disclosure/](http://peaofsweetness.com/disclosure/)
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [http://dealsofsweetness.com/disclosure-policy/](http://www.dealsofsweetness.com/disclosure-policy/)
 
 **Your Consent**
 
