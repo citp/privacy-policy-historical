@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tradeelectriclighting.ie privacy policy that was archived on 2014-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140913122019id_/http%3A//tradeelectriclighting.ie/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tradeelectriclighting.ie privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611161255id_/http%3A//tradeelectriclighting.ie/privacy-policy) for the most accurate reproduction.*
 
 # Trade Electric Group Privacy Policy
 
