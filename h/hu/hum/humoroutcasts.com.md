@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the humoroutcasts.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120133205id_/http%3A//humoroutcasts.com/%3Fpage_id%3D109) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the humoroutcasts.com privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612001255id_/http%3A//humoroutcasts.com/%3Fpage_id%3D109) for the most accurate reproduction.*
 
 # Privacy Statement | HumorOutcasts
 
