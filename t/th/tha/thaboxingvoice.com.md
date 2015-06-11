@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the thaboxingvoice.com privacy policy that was archived on 2014-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141129170751id_/http%3A//thaboxingvoice.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thaboxingvoice.com privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612003202id_/http%3A//thaboxingvoice.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Your top source for the latest boxing news, interviews, videos, and all things related to the great sport of boxing.
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at theboxingvoice@yahoo.com. 
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at **[theboxingvoice@yahoo.com](mailto:theboxingvoice@yahoo.com)**. 
 
 At thaboxingvoice.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information that is received and collected by thaboxingvoice.com and how it is used.  
 
