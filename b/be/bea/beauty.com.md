@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the beauty.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625040113id_/http%3A//www.drugstore.com/category.asp%3Fcatid%3D148707) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beauty.com privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612001006id_/http%3A//www.drugstore.com/category.asp%3Fcatid%3D148707) for the most accurate reproduction.*
 
-# Men, What's New In Men's, Skin Care Products Online | Beauty.com
+# Beauty.com - bareMinerals, Origins, Urban Decay, NARS and more Beauty Products
 
 **TRUSTe Licensee**
 
