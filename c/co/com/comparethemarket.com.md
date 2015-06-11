@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the comparethemarket.com privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123025944id_/http%3A//www.comparethemarket.com/information/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the comparethemarket.com privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611203852id_/http%3A//www.comparethemarket.com/information/privacy-policy) for the most accurate reproduction.*
 
-# Compare the Market - Privacy and cookie policy
+# Compare the Market - Privacy & Cookie Policy
+
+**This Privacy and Cookie Policy was last updated on 1 June 2015.**
 
 1\. Data Controller  
 2\. Your rights  
@@ -27,13 +29,17 @@ Back to top
 
 We comply with and are registered under the data protection laws in the United Kingdom and take all reasonable steps to prevent any unauthorised access to your personal data.
 
+We reserve the right to amend or modify this privacy policy at any time and any changes will be published on this website.
+
+If you want to view the data that you have input when you obtained a quote you can use the 'retrieve a quote' function on the website.
+
+If you want to delete any of your quotes then you can do this by going into 'My Account' and selecting the 'x' button against each of the quotes you wish to remove from your account.
+
 You are entitled, on payment of the fee of £10, made payable to BISL Limited to see details of the information we hold about you. If any of the information held is inaccurate we will also make any necessary amendments and confirm to you that these have been made.
 
-If you want to view the data that you have input when you obtained a quote you can use the ‘retrieve a quote’ function on the website.   
+You are also entitled to ask us to remove personal information from our records and if you wish to do this then please contact us so that we may consider your request.
 
-We reserve the right to amend or modify this privacy policy at any time and any changes will be published on this website
-
-You are also entitled to ask us to remove personal information from our records and if you wish to do this then please write to the Data Protection Officer at BISL Limited, Pegasus House, Bakewell Road, Orton Southgate, Peterborough, or email [service@contact-ctm.com](mailto:service@contact-ctm.com). Please provide your full name, email address, date of birth and quote number when contacting us.
+To contact us about any of your rights set out in this Privacy Policy please write to the Data Protection Officer at BISL Limited, Pegasus House, Bakewell Road, Orton Southgate, Peterborough, or email [service@contact-ctm.com](mailto:service@contact-ctm.com "mailto:service@contact-ctm.com"). Please provide your full name, email address, date of birth and quote number when contacting us.
 
 Back to top
 
@@ -51,7 +57,7 @@ We may use your data to send you a confirmation email of your quote.
 
 To help improve our services we may also use your data for the purposes of marketing research and data analysis.
 
-Data will also be used to track sales and to administer our reward scheme.  Please read the Privacy & Cookie Policy for [www.comparethemeerkat.com](http://www.comparethemeeerkat.com/) which contains further details regarding the reward scheme.   
+Data will also be used to track sales and to administer our reward scheme which may involve us sharing data which relates to the product that you have purchased with your product provider.  Your product provider may also provide us with any information that they hold relating to the product you have purchased for this purpose. Please read the Privacy & Cookie Policy for  [www.comparethemeerkat.com](http://www.comparethemeeerkat.com/) which contains further details regarding the reward scheme.   
 
 We may use third parties to process personal information on our behalf. Where third parties process your personal information on our behalf, we will ensure that they have the necessary high standards of security in place so that your data is kept secure and only used in accordance with this Privacy Policy.   
 
@@ -59,29 +65,39 @@ We will release your personal information when we are required to do so for lega
 
 Driving Licence Number
 
-If you provide your driving licence number this may be passed to the DVLA in order for a search to be carried out to confirm your (or any named driver’s) licence status, entitlement and relevant restriction information and endorsement/conviction data. Searches may be carried out as part of your quote and at any point throughout the duration of your insurance policy. A search with the DVLA will not show on your (or your named driver’s) driving licence record. For details relating to information held about you by the DVLA, please visit [www.dvla.gov.uk](https://www.gov.uk/government/organisations/driver-and-vehicle-licensing-agency). Undertaking searches using your driving licence number helps insurers check information to prevent fraud and reduce incidences of negligent misrepresentation and non-disclosure. The searches may be carried out by the insurers directly or we may carry out the search and pass the relevant information to the insurers for these purposes. This is a new scheme which is being rolled out. If you provide your driving licence number before the scheme is operational, we will keep your driving licence so that it may be used for future quotes.
+If you provide your driving licence number this may be passed to the DVLA in order for a search to be carried out to confirm your (or any named driver’s) licence status, entitlement and relevant restriction information and endorsement/conviction data. Searches may be carried out as part of your quote and at any point throughout the duration of your insurance policy. A search with the DVLA will not show on your (or your named driver’s) driving licence record. For details relating to information held about you by the DVLA, please visit [www.dvla.gov.uk](https://www.gov.uk/government/organisations/driver-and-vehicle-licensing-agency). Undertaking searches using your driving licence number helps insurers check information to prevent fraud and reduce incidences of negligent misrepresentation and non-disclosure. The searches may be carried out by the insurers directly or we may carry out the search and pass the relevant information to the insurers for these purposes. This is a new scheme which is being rolled out. If you provide your driving licence number before the scheme is operational, we will keep your driving licence number so that it may be used for future quotes.
 
 Back to top
 
-**5.   Communicating with you**
+**5.  Communicating with you**
 
-It is very important to us that we provide a service that meets the expectations of our customers. In order to assist us in doing this, where you have given us consent, we may use the information you supply to contact you by phone, e-mail, SMS or otherwise to tell you about products and services which may be of interest to you. For example, these services could include the following:
+It is very important to us that we provide a serivce that meets the expectations of our customers and this section will explain how we and our partners will use your data to communicate with you.
 
-\- Our newsletter;
+Quote Confirmation  
+When you obtain a quote with us, you will automatcially be sent confirmation of your quote by email or SMS so that you have a record of your quote and can easily retrieve your quote in the future. This is a standard part of the service that we offer and by using the service you agree to receive these communications.
 
-\- New product launches;
+Updates from comparethemarket.com  
+Where you tell us you are happy to receive information from us we may send you communcations from comparethemarket.com which may include the following:-  
+\- Newsletters  
+\- Further information about the services we offer  
+\- New product launches  
+\- Reminders when you products may be due for renewal  
+\- Updates on our rewards programe  
+\- Opportunities to participate in market research 
 
-\- Reminders about our service in 11 months time;
+Depending on the contact preferences you select, we will communicate with you by post, telephone, SMS, email or other electronic means such as via social and digital media.
 
-\- Future surveys/research.
+We may also use your data to allow us to show your adverts while you are on-line that are relevant to you. Sometimes, we will use cookies to do this and you can find out more about this and how to turn off cookies by reading our [cookie ](https://web.archive.org/information/privacy-policy/privacy-policy-use-of-cookies/)policy.
 
-When given permission to do so, we may also share personal information about you with our trusted partners. If you prefer to opt out of such direct marketing activity, please click [here](https://quote.comparethemarket.com/PrivateCar/Common/Pages/Unsubscribe.aspx?affinity=CTM&affclie=CM01&Origin=CM02&affclie=CM01) or [contact us](http://www.comparethemarket.com/contact-us/) using our simple form.   You will also be given an opportunity to opt out when we send you any marketing emails by clicking on the unsubscribe link in each email.
+If you don’t want to receive communications from us you can let us know at any time by contacting us at [feedback](https://web.archive.org/contact-us/) or you can select your contact preferences in Your Account.
 
-However, please remember that by opting out, we will not be able to contact you about products or services that may benefit you.
+Renewal Reminders  
+As part of our service, we may also contact you around 11 months after you have completed your quote in order to provide you with an indication of what your quotes could be for your next renewal. We will use the data that we hold on you in order to search the websites of our partners in order to do this. Some of our partners will carry out credit and data checks as part of this process (see paragraph 6 below for further information on the type of checks that may be undertaken).
 
-For car and home insurance quotes, where you have provided your telephone number, the two providers who offer you the best price may contact you to discuss your quote further.
+Communications from our partners  
+With some of the comparison services we offer, you will have the option during the journey to select whether you would like to receive further communications from our partners (e.g. insurance providers, product providers or brokers) to discusss your quote further. 
 
-We may also contact you around 11 months after you have completed your quote in order to provide you with an indication of what your quotes could be for your next renewal. We will use the data that we hold on you in order to search the websites of our partners in order to do this. Some of our partners will carry out credit and data checks as part of this process (see paragraph 6 below for further information on the types of checks that may be undertaken).
+Otherwise, we will not pass any of your information to our partners for marketing purposes and we have contractual arrangements in place with all our partners which prevent them using your information for this purpose. If you click through to our any of our partners’ websites, you will be subject to their Privacy Policy in relation to any communications you will receive from them which we recommend you read carefully.
 
 Back to top
 
@@ -119,7 +135,7 @@ Back to top
 
 **11. Use of cookies**
 
-This website uses cookies. View our [cookies policy](http://www.comparethemarket.com/information/privacy-policy/privacy-policy-use-of-cookies/) for a full list of the cookies that we use, third party cookies and how to disable them.
+This website uses cookies. View our [cookies policy](https://web.archive.org/information/privacy-policy/privacy-policy-use-of-cookies/) for a full list of the cookies that we use, third party cookies and how to disable them.
 
 A cookie is a small file that is placed on your device, which enables a server to identify that device and allows us to offer the best services possible. Cookies are commonly used on the Internet and do not harm your computer system.
 
@@ -147,7 +163,7 @@ How can I stop cookies and what effect will this have?
 
 You can stop cookies from being deployed on your computer by configuring your browser not to accept them. Please refer to your browser's 'help' facility.
 
-If cookies are already on your system, you can delete them - For more information on cookies and deletion of cookies please visit: <http://www.allaboutcookies.org/manage-cookies>
+If cookies are already on your system, you can delete them - For more information on cookies and deletion of cookies please visit: <http://www.allaboutcookies.org/manage-cookies>
 
 Please be aware that deleting certain cookies can result in difficulties when navigating around sites.
 
