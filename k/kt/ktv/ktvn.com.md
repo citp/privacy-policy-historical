@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ktvn.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120180935id_/http%3A//www.ktvn.com/story/18990/this-web-sites-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ktvn.com privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611083926id_/http%3A//www.ktvn.com/story/18990/this-web-sites-privacy-policy) for the most accurate reproduction.*
 
 # This Web Site’s Privacy Policy - KTVN Channel 2 - Reno Tahoe News Weather, Video -
 
