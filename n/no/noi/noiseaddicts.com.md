@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the noiseaddicts.com privacy policy that was archived on 2014-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141119043840id_/http%3A//www.noiseaddicts.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the noiseaddicts.com privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611133451id_/http%3A//www.noiseaddicts.com/privacy-policy) for the most accurate reproduction.*
 
 # privacy policy
 
@@ -9,7 +9,7 @@ NoiseAddicts respects the privacy of its users. Here is the current privacy poli
 This site collects no personally identifying information about individuals except when specifically and knowingly provided by such individuals (e.g. email address). All personally identifying information such as email, phone numbers, and addresses are used only for **internal purposes.** Personal user information is **not** for sale or trade and is strictly confidential. Contact information may be used to contact you related to the site.  
 If you have any questions or comments about our privacy policy, please [contact us](http://www.noiseaddicts.com/contact/).
 
- **Information Collected**
+**Information Collected**
 
 Server Logs
 
