@@ -1,6 +1,23 @@
-> *The following text is extracted and transformed from the onepieceofficial.com privacy policy that was archived on 2014-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141009144905id_/http%3A//www.funimation.com/privacy-policy/anime) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onepieceofficial.com privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612001035id_/http%3A//www.funimation.com/privacy-policy/anime) for the most accurate reproduction.*
 
 # FUNimation - Privacy Policy
+
+Log in to watch free streaming video,   
+post in the forums, peep behind the   
+scenes exclusives, and so much more! 
+
+Log In
+
+  * Spend $50
+
+  
+
+  * USA FREE SHIPPING
+
+
+[](http://shop.funimation.com/shop/cart.ssp?sc=3#cart)
+
+##  PRIVACY POLICY
 
 FUNimation Entertainment is respectful about the privacy of our users.  As a general policy, no personal information is automatically collected from users of our sites.  This policy statement tells you how we collect information from you and how we use it.
 
@@ -16,7 +33,7 @@ We may also use cookies to give users the ability to personalize the website or 
 
 Certain personally identifiable Information that may be collected automatically by the website’s servers can include your Internet protocol (IP) address, your email address, your username, your password, the full URL clickstream to and from our website, search activity, video viewing activity, product view activity, purchase activity which is used to determine such things as “Top Sellers”, and user profile view activity. FUNimation may also employ software tools such as JavaScript to measure and collect session information, which may include page response times, download errors, time on site, and page interaction. We may also collect technical information about your device for diagnostic purposes and fraud prevention.
 
-E-mail addresses and other personally identifiable information about users of this site are known to FUNimation only when voluntarily submitted. Personal information that may be collected in connection with users voluntarily filling out contest entry forms, purchasing FUNimation's products, joining FUNimation, creating a review, compiling wish lists, adding products to My Collection, participating in the forum, creating alerts in My Shows, creating playlists, communicating with Customer Service, providing information in Account settings or Profile, or replying to a survey is retained by FUNimation and is not sold or otherwise transferred to a third party, except that FUNimation may provide this information in an aggregate form to third parties for marketing, advertising, or other uses. FUNimation needs to collect this information for fulfilling prizes, fulfilling shipments, tracking/verifying compliance with FUNimation policies as well as federal, state, and local laws, and for editorial and feedback solicitation purposes. We also use this information to better understand our fans' use of our sites so that we can enhance our users' enjoyment of our sites.
+E-mail addresses and other personally identifiable information about users of this site are known to FUNimation only when voluntarily submitted. The e-mail address that you provide at account sign-up may be used with FUNimation direct e-mail marketing only. E-mail addresses will not be given to any third-party advertisers. Users may unsubscribe from the FUNimation promotional e-mail list at anytime via a link at the bottom of every e-mail sent out by FUNimation. Personal information that may be collected in connection with users voluntarily filling out contest entry forms, purchasing FUNimation's products, joining FUNimation, creating a review, compiling wish lists, adding products to My Collection, participating in the forum, creating alerts in My Shows, creating playlists, communicating with Customer Service, providing information in Account settings or Profile, or replying to a survey is retained by FUNimation and is not sold or otherwise transferred to a third party, except that FUNimation may provide this information in an aggregate form to third parties for marketing, advertising, or other uses. FUNimation needs to collect this information for fulfilling prizes, fulfilling shipments, tracking/verifying compliance with FUNimation policies as well as federal, state, and local laws, and for editorial and feedback solicitation purposes. We also use this information to better understand our fans' use of our sites so that we can enhance our users' enjoyment of our sites.
 
 **User Information Displayed in Profile**
 
@@ -36,9 +53,11 @@ Our Site may include third-party advertising, links to other websites, and other
 
 **FUNimation Advertising on FUNimation.com and on Other Websites**
 
-User acknowledges that third party vendors, including Google and Facebook, show FUNimation advertisements on various internet sites and on FUNimation.com. Third party vendors, including Google and Facebook, use cookies to serve advertisements based on User's prior visits to FUNimation.com. User also acknowledges that FUNimation uses Google Adwords features such as remarketing, interest categories, similar audiences, other types of interest-based advertising, and demographic and location targeting to serve ads on third party sites and on FUNimation.com. User also acknowledges that FUNimation.com uses Google Analytics and Signal (formerly BrightTag) to collect data about User's traffic via Google Analytics advertising cookies and anonymous identifiers, in addition to data collected through a standard Google Analytics implementation.
+User acknowledges that third party vendors, including Google, Facebook, and Twitter, show FUNimation advertisements on various internet sites and on FUNimation.com. Third party vendors, including Google, Facebook, and Twitter, use cookies to serve advertisements based on User's prior visits to FUNimation.com. User also acknowledges that FUNimation uses Google Adwords features such as remarketing, interest categories, similar audiences, other types of interest-based advertising, and demographic and location targeting to serve ads on third party sites and on FUNimation.com. User also acknowledges that FUNimation.com uses Google Analytics and Signal (formerly BrightTag) to collect data about User's traffic via Google Analytics advertising cookies and anonymous identifiers, in addition to data collected through a standard Google Analytics implementation.
 
 All information collected in the above manner is non-personally identifiable and will not be merged with any personally identifiable User information without prior notice and the consent of User. No information will be shared with Google through any marketing or product data feeds which might be associated with our advertising.
+
+Users may opt out of Google's use of cookies by visiting the [Google advertising opt-out page](http://www.google.com/privacy_ads.html).  Users may opt out of Facebook's use of cookies by logging into Facebook and visiting the [Facebook opt-out page](https://www.facebook.com/ads/website_custom_audiences/). Users may opt out of Twitter's use of cookies by logging into Twitter and unchecking the box in their security and privacy settings that says "Tailor ads based on information shared by ad partners" next to the heading "Promoted content". If you would prefer to opt out of a third party vendor’s use of cookies, please visit [Network Advertising Initiative opt out page](http://www.networkadvertising.org/managing/opt_out.asp).
 
   
 **Privacy Policy Manager:**  
