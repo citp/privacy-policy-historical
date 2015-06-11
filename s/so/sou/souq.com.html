@@ -1,1282 +1,350 @@
-<!--The following is the downloaded HTML source of the souq.com privacy policy that was archived on 2014-11-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141120102834id_/http%3A//uae.souq.com/ae-en/privacy-policy/c) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the souq.com privacy policy that was archived on 2015-06-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150611150224id_/http%3A//uae.souq.com/ae-en/privacy-policy/c) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
+<!DOCTYPE html><html dir="ltr" lang="en"><head>
 
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<meta http-equiv="Content-Style-Type" content="text/css">
-<meta http-equiv="Content-Script-Type" content="text/javascript">
-<meta http-equiv="Content-Language" content="en">
-<meta http-equiv="X-UA-Compatible" content="IE=8"><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-N2RCPF"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UwAOUl5ACgEEV1RaAg=="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(5),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(f){"stack"in f&&(t(1),t(4),"addEventListener"in window&&t(2),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(3),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:8,2:5,3:9,4:7,5:20,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],4:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(2);t("loader").features.stn=!0,t(1),n.on("fn-start",function(t){var e=t[0];e instanceof Event&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof Event&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1),window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:6,2:8,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:20,2:21,ee:"QJf3ax",gos:"7eSDFh"}],6:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState"],"-")},{1:21,2:20,ee:"QJf3ax"}],7:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:21,2:20,ee:"QJf3ax"}],8:[function(t,e){function n(t,e,n){var r=t[0];"string"==typeof r&&(r=new Function(r)),t[0]=o(r,"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:21,2:20,ee:"QJf3ax"}],9:[function(t,e){function n(){c.inPlace(this,d,"fn-")}function r(t,e){c.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}var i=t("ee").create(),a=t(1),s=t(2),c=s(i),f=s(a),u=window.XMLHttpRequest,d=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=i,window.XMLHttpRequest=function(t){var e=new u(t);try{i.emit("new-xhr",[],e),f.inPlace(e,["addEventListener","removeEventListener"],"-",function(t,e){return e}),e.addEventListener("readystatechange",n,!1)}catch(r){try{i.emit("internal-error",[r])}catch(o){}}return e},window.XMLHttpRequest.prototype=u.prototype,c.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),i.on("send-xhr-start",r),i.on("open-xhr-start",r)},{1:5,2:21,ee:"QJf3ax"}],10:[function(t){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=e(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(n.cat=d.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r,this.startTime])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=e(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",[e])}catch(r){}}};for(var u=0;c>u;u++)n.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:11,3:9,4:5,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],11:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&c&&c.body){p.proto="https"===d.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=c.createElement("script");e.src=p.proto+t.agent,c.body.appendChild(e)}}function r(){"complete"===c.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,c=s.document,f="addEventListener",u="attachEvent",d=(""+location).split("?")[0],p=e.exports={offset:i(),origin:d,features:{}};c[f]?(c[f]("DOMContentLoaded",o,!1),s[f]("load",n,!1)):(c[u]("onreadystatechange",r),s[u]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],20:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],21:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s,t))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:20,ee:"QJf3ax"}]},{},["G9z0Bl",3,10,4]);</script>
-<meta name="viewport" content="width=device-width">
-
-
-
-<link rel="shortcut icon" href="http://cf5.souqcdn.com/static/ltr/en/images/souq.ico" type="image/x-icon">
-<link rel="search" type="application/opensearchdescription+xml" href="http://cf5.souqcdn.com/static/ltr/en/opensearch.xml" title="Souq.com">
-<title>Souq.com | Privacy policy</title>
-<meta name="title" content="Souq.com | Privacy policy">
-
-		
-			<link href="http://cf5.souqcdn.com/static/ltr/en/css/compiled/souq_main.2014111108.min.css" rel="stylesheet" type="text/css">
-		
-			
-
-<link href="http://cf5.souqcdn.com/static/ltr/en/yaml/screen/basemod_main_v2.css" rel="stylesheet" type="text/css">
- 
-
-			<link href="http://cf5.souqcdn.com/static/ltr/en/css/compiled/responsive_souq_main.2014110314.min.css" rel="stylesheet" type="text/css">
 	
-<!--[if IE]>
-    <link href="http://cf5.souqcdn.com/static/ltr/en/css/ie-fixes-v13.css" rel="stylesheet" type="text/css" />
-<![endif]-->
-
-<meta name="robots" content="noindex, nofollow">
-<meta name="description" content="Souq.com | Privacy policy">
-<meta name="keywords" content="Souq.com | Privacy policy">
-<link rel="alternate" hreflang="en-ae" href="http://uae.souq.com/ae-en/privacy-policy/c/">
-<link rel="alternate" hreflang="ar-ae" href="http://uae.souq.com/ae-ar/privacy-policy/c/">
-<link rel="alternate" hreflang="en-eg" href="http://egypt.souq.com/eg-en/privacy-policy/c/">
-<link rel="alternate" hreflang="ar-eg" href="http://egypt.souq.com/eg-ar/privacy-policy/c/">
-<link rel="alternate" hreflang="en-sa" href="http://saudi.souq.com/sa-en/privacy-policy/c/">
-<link rel="alternate" hreflang="ar-sa" href="http://saudi.souq.com/sa-ar/privacy-policy/c/">
-<link rel="alternate" hreflang="en-kw" href="http://kuwait.souq.com/kw-en/privacy-policy/c/">
-<link rel="alternate" hreflang="ar-kw" href="http://kuwait.souq.com/kw-ar/privacy-policy/c/">
-<link rel="alternate" hreflang="en" href="http://uae.souq.com/ae-en/privacy-policy/c/">
-<link rel="alternate" hreflang="ar" href="http://saudi.souq.com/sa-ar/privacy-policy/c/">
-
-<script type="text/javascript">var CDNHOST='http://cf5.souqcdn.com/' ;var HOSTSSL = 'https://ssl.souq.com/ae-en'; var HOST = 'http://uae.souq.com/ae-en';var HOSTBASE = 'http://uae.souq.com'; var STATICHOST = 'http://cf5.souqcdn.com/static/ltr/en'; var sCustomerCurrency = 'AED'; var sMoneyExample = '10.50'; var sCurrentCountry = 'ae'; var sCurrentLanguage = 'en'; var sCurrencyFraction = '2'; var sFractionSeprator = '.'; var sThousandSeperator = ',';var sCookieDomain = '.souq.com';var sDeviceType = 'pc'; var sActualDeviceType = 'pc'; var aHelperElements = ''; var bDarkCBT = false; var sShippingCountry = 'ae'; var sOriginalCountry = 'us'; var aSiteCountries = ["bh", "jo", "lb", "om", "qa", "ae"]; var aSites = ["ae", "eg", "sa", "kw"];</script>
-			 
-			<script type="text/javascript" src="http://cf4.souqcdn.com/static/javascript/libs/jQuery/jquery-1.4.2.min.js"></script> 
-						 
-			<script type="text/javascript" src="http://cf3.souqcdn.com/static/javascript/min/screen-top.201409251319.min.js"></script> 
-									 
-			<script type="text/javascript">jQuery.cookie=function(name,value,options){if(typeof value!='undefined'){options=options||{};if(value===null){value='';options.expires=-1;}var expires='';if(options.expires&&(typeof options.expires=='number'||options.expires.toUTCString)){var date;if(typeof options.expires=='number'){date=new Date();date.setTime(date.getTime()+(options.expires*24*60*60*1000));}else{date=options.expires;}expires='; expires='+date.toUTCString();}var path=options.path?'; path='+(options.path):'';var domain=options.domain?'; domain='+(options.domain):'';var secure=options.secure?'; secure':'';document.cookie=[name,'=',encodeURIComponent(value),expires,path,domain,secure].join('');}else{var cookieValue=null;if(document.cookie&&document.cookie!=''){var cookies=document.cookie.split(';');for(var i=0;i<cookies.length;i++){var cookie=jQuery.trim(cookies[i]);if(cookie.substring(0,name.length+1)==(name+'=')){cookieValue=decodeURIComponent(cookie.substring(name.length+1));break;}}}return cookieValue;}};</script> 
-						 
-			<script type="text/javascript">$(document).ready(function(){	
-	$(".shop-by-nav ul").hide();
-	$(".shop-by-nav ul:first").show();
-	$(".shop-by-nav strong:first").removeClass("brdr-botm");
-
-	$(".shop-by-nav strong").click(function(){
-		$(this).next("ul").slideToggle("slow")
-		.siblings("ul:visible").slideUp("slow");
-		$(this).removeClass("brdr-botm")
-		.siblings("strong").addClass("brdr-botm");
-	});
-
-});</script> 
-						 
-			<script type="text/javascript">
-var dOriginalWidth=0;var dOriginalHeight=0;;(function(e){var o="left",n="right",d="up",v="down",c="in",w="out",l="none",r="auto",k="swipe",s="pinch",x="tap",i="doubletap",b="longtap",A="horizontal",t="vertical",h="all",q=10,f="start",j="move",g="end",p="cancel",a="ontouchstart"in window,y="TouchSwipe";var m={fingers:1,threshold:75,cancelThreshold:25,pinchThreshold:20,maxTimeThreshold:null,fingerReleaseThreshold:250,longTapThreshold:500,doubleTapThreshold:200,swipe:null,swipeLeft:null,swipeRight:null,swipeUp:null,swipeDown:null,swipeStatus:null,pinchIn:null,pinchOut:null,pinchStatus:null,click:null,tap:null,doubleTap:null,longTap:null,triggerOnTouchEnd:true,triggerOnTouchLeave:false,allowPageScroll:"auto",fallbackToMouseEvents:true,excludedElements:"button, input, select, textarea, a, .noSwipe"};e.fn.swipe=function(D){var C=e(this),B=C.data(y);if(B&&typeof D==="string"){if(B[D]){return B[D].apply(this,Array.prototype.slice.call(arguments,1))}else{e.error("Method "+D+" does not exist on jQuery.swipe")}}else{if(!B&&(typeof D==="object"||!D)){return u.apply(this,arguments)}}return C};e.fn.swipe.defaults=m;e.fn.swipe.phases={PHASE_START:f,PHASE_MOVE:j,PHASE_END:g,PHASE_CANCEL:p};e.fn.swipe.directions={LEFT:o,RIGHT:n,UP:d,DOWN:v,IN:c,OUT:w};e.fn.swipe.pageScroll={NONE:l,HORIZONTAL:A,VERTICAL:t,AUTO:r};e.fn.swipe.fingers={ONE:1,TWO:2,THREE:3,ALL:h};function u(B){if(B&&(B.allowPageScroll===undefined&&(B.swipe!==undefined||B.swipeStatus!==undefined))){B.allowPageScroll=l}if(B.click!==undefined&&B.tap===undefined){B.tap=B.click}if(!B){B={}}B=e.extend({},e.fn.swipe.defaults,B);return this.each(function(){var D=e(this);var C=D.data(y);if(!C){C=new z(this,B);D.data(y,C)}})}function z(a0,aq){var av=(a||!aq.fallbackToMouseEvents),G=av?"touchstart":"mousedown",au=av?"touchmove":"mousemove",R=av?"touchend":"mouseup",P=av?null:"mouseleave",az="touchcancel";var ac=0,aL=null,Y=0,aX=0,aV=0,D=1,am=0,aF=0,J=null;var aN=e(a0);var W="start";var T=0;var aM=null;var Q=0,aY=0,a1=0,aa=0,K=0;var aS=null;try{aN.bind(G,aJ);aN.bind(az,a5)}catch(ag){e.error("events not supported "+G+","+az+" on jQuery.swipe")}this.enable=function(){aN.bind(G,aJ);aN.bind(az,a5);return aN};this.disable=function(){aG();return aN};this.destroy=function(){aG();aN.data(y,null);return aN};this.option=function(a7,a6){if(aq[a7]!==undefined){if(a6===undefined){return aq[a7]}else{aq[a7]=a6}}else{e.error("Option "+a7+" does not exist on jQuery.swipe.options")}};function aJ(a8){if(ax()){return}if(e(a8.target).closest(aq.excludedElements,aN).length>0){return}var a9=a8.originalEvent?a8.originalEvent:a8;var a7,a6=a?a9.touches[0]:a9;W=f;if(a){T=a9.touches.length}else{a8.preventDefault()}ac=0;aL=null;aF=null;Y=0;aX=0;aV=0;D=1;am=0;aM=af();J=X();O();if(!a||(T===aq.fingers||aq.fingers===h)||aT()){ae(0,a6);Q=ao();if(T==2){ae(1,a9.touches[1]);aX=aV=ap(aM[0].start,aM[1].start)}if(aq.swipeStatus||aq.pinchStatus){a7=L(a9,W)}}else{a7=false}if(a7===false){W=p;L(a9,W);return a7}else{ak(true)}}function aZ(a9){var bc=a9.originalEvent?a9.originalEvent:a9;if(W===g||W===p||ai()){return}var a8,a7=a?bc.touches[0]:bc;var ba=aD(a7);aY=ao();if(a){T=bc.touches.length}W=j;if(T==2){if(aX==0){ae(1,bc.touches[1]);aX=aV=ap(aM[0].start,aM[1].start)}else{aD(bc.touches[1]);aV=ap(aM[0].end,aM[1].end);aF=an(aM[0].end,aM[1].end)}D=a3(aX,aV);am=Math.abs(aX-aV)}if((T===aq.fingers||aq.fingers===h)||!a||aT()){aL=aH(ba.start,ba.end);ah(a9,aL);ac=aO(ba.start,ba.end);Y=aI();aE(aL,ac);if(aq.swipeStatus||aq.pinchStatus){a8=L(bc,W)}if(!aq.triggerOnTouchEnd||aq.triggerOnTouchLeave){var a6=true;if(aq.triggerOnTouchLeave){var bb=aU(this);a6=B(ba.end,bb)}if(!aq.triggerOnTouchEnd&&a6){W=ay(j)}else{if(aq.triggerOnTouchLeave&&!a6){W=ay(g)}}if(W==p||W==g){L(bc,W)}}}else{W=p;L(bc,W)}if(a8===false){W=p;L(bc,W)}}function I(a6){var a7=a6.originalEvent;if(a){if(a7.touches.length>0){C();return true}}if(ai()){T=aa}a6.preventDefault();aY=ao();Y=aI();if(aq.triggerOnTouchEnd||(aq.triggerOnTouchEnd==false&&W===j)){W=g;L(a7,W)}else{if(!aq.triggerOnTouchEnd&&a2()){W=g;aB(a7,W,x)}else{if(W===j){W=p;L(a7,W)}}}ak(false)}function a5(){T=0;aY=0;Q=0;aX=0;aV=0;D=1;O();ak(false)}function H(a6){var a7=a6.originalEvent;if(aq.triggerOnTouchLeave){W=ay(g);L(a7,W)}}function aG(){aN.unbind(G,aJ);aN.unbind(az,a5);aN.unbind(au,aZ);aN.unbind(R,I);if(P){aN.unbind(P,H)}ak(false)}function ay(a9){var a8=a9;var a7=aw();var a6=aj();if(!a7){a8=p}else{if(a6&&a9==j&&(!aq.triggerOnTouchEnd||aq.triggerOnTouchLeave)){a8=g}else{if(!a6&&a9==g&&aq.triggerOnTouchLeave){a8=p}}}return a8}function L(a8,a6){var a7=undefined;if(F()){a7=aB(a8,a6,k)}else{if(M()&&a7!==false){a7=aB(a8,a6,s)}}if(aC()&&a7!==false){a7=aB(a8,a6,i)}else{if(al()&&a7!==false){a7=aB(a8,a6,b)}else{if(ad()&&a7!==false){a7=aB(a8,a6,x)}}}if(a6===p){a5(a8)}if(a6===g){if(a){if(a8.touches.length==0){a5(a8)}}else{a5(a8)}}return a7}function aB(a9,a6,a8){var a7=undefined;if(a8==k){aN.trigger("swipeStatus",[a6,aL||null,ac||0,Y||0,T]);if(aq.swipeStatus){a7=aq.swipeStatus.call(aN,a9,a6,aL||null,ac||0,Y||0,T);if(a7===false){return false}}if(a6==g&&aR()){aN.trigger("swipe",[aL,ac,Y,T]);if(aq.swipe){a7=aq.swipe.call(aN,a9,aL,ac,Y,T);if(a7===false){return false}}switch(aL){case o:aN.trigger("swipeLeft",[aL,ac,Y,T]);if(aq.swipeLeft){a7=aq.swipeLeft.call(aN,a9,aL,ac,Y,T)}break;case n:aN.trigger("swipeRight",[aL,ac,Y,T]);if(aq.swipeRight){a7=aq.swipeRight.call(aN,a9,aL,ac,Y,T)}break;case d:aN.trigger("swipeUp",[aL,ac,Y,T]);if(aq.swipeUp){a7=aq.swipeUp.call(aN,a9,aL,ac,Y,T)}break;case v:aN.trigger("swipeDown",[aL,ac,Y,T]);if(aq.swipeDown){a7=aq.swipeDown.call(aN,a9,aL,ac,Y,T)}break}}}if(a8==s){aN.trigger("pinchStatus",[a6,aF||null,am||0,Y||0,T,D]);if(aq.pinchStatus){a7=aq.pinchStatus.call(aN,a9,a6,aF||null,am||0,Y||0,T,D);if(a7===false){return false}}if(a6==g&&a4()){switch(aF){case c:aN.trigger("pinchIn",[aF||null,am||0,Y||0,T,D]);if(aq.pinchIn){a7=aq.pinchIn.call(aN,a9,aF||null,am||0,Y||0,T,D)}break;case w:aN.trigger("pinchOut",[aF||null,am||0,Y||0,T,D]);if(aq.pinchOut){a7=aq.pinchOut.call(aN,a9,aF||null,am||0,Y||0,T,D)}break}}}if(a8==x){if(a6===p||a6===g){clearTimeout(aS);if(V()&&!E()){K=ao();aS=setTimeout(e.proxy(function(){K=null;aN.trigger("tap",[a9.target]);if(aq.tap){a7=aq.tap.call(aN,a9,a9.target)}},this),aq.doubleTapThreshold)}else{K=null;aN.trigger("tap",[a9.target]);if(aq.tap){a7=aq.tap.call(aN,a9,a9.target)}}}}else{if(a8==i){if(a6===p||a6===g){clearTimeout(aS);K=null;aN.trigger("doubletap",[a9.target]);if(aq.doubleTap){a7=aq.doubleTap.call(aN,a9,a9.target)}}}else{if(a8==b){if(a6===p||a6===g){clearTimeout(aS);K=null;aN.trigger("longtap",[a9.target]);if(aq.longTap){a7=aq.longTap.call(aN,a9,a9.target)}}}}}return a7}function aj(){var a6=true;if(aq.threshold!==null){a6=ac>=aq.threshold}if(a6&&aq.cancelThreshold!==null){a6=(aP(aL)-ac)<aq.cancelThreshold}return a6}function ab(){if(aq.pinchThreshold!==null){return am>=aq.pinchThreshold}return true}function aw(){var a6;if(aq.maxTimeThreshold){if(Y>=aq.maxTimeThreshold){a6=false}else{a6=true}}else{a6=true}return a6}function ah(a6,a7){if(aq.allowPageScroll===l||aT()){a6.preventDefault()}else{var a8=aq.allowPageScroll===r;switch(a7){case o:if((aq.swipeLeft&&a8)||(!a8&&aq.allowPageScroll!=A)){a6.preventDefault()}break;case n:if((aq.swipeRight&&a8)||(!a8&&aq.allowPageScroll!=A)){a6.preventDefault()}break;case d:if((aq.swipeUp&&a8)||(!a8&&aq.allowPageScroll!=t)){a6.preventDefault()}break;case v:if((aq.swipeDown&&a8)||(!a8&&aq.allowPageScroll!=t)){a6.preventDefault()}break}}}function a4(){var a7=aK();var a6=U();var a8=ab();return a7&&a6&&a8}function aT(){return!!(aq.pinchStatus||aq.pinchIn||aq.pinchOut)}function M(){return!!(a4()&&aT())}function aR(){var a8=aw();var ba=aj();var a7=aK();var a6=U();var a9=a6&&a7&&ba&&a8;return a9}function S(){return!!(aq.swipe||aq.swipeStatus||aq.swipeLeft||aq.swipeRight||aq.swipeUp||aq.swipeDown)}function F(){return!!(aR()&&S())}function aK(){return((T===aq.fingers||aq.fingers===h)||!a)}function U(){return aM[0].end.x!==0}function a2(){return!!(aq.tap)}function V(){return!!(aq.doubleTap)}function aQ(){return!!(aq.longTap)}function N(){if(K==null){return false}var a6=ao();return(V()&&((a6-K)<=aq.doubleTapThreshold))}function E(){return N()}function at(){return((T===1||!a)&&(isNaN(ac)||ac===0))}function aW(){return((Y>aq.longTapThreshold)&&(ac<q))}function ad(){return!!(at()&&a2())}function aC(){return!!(N()&&V())}function al(){return!!(aW()&&aQ())}function C(){a1=ao();aa=event.touches.length+1}function O(){a1=0;aa=0}function ai(){var a6=false;if(a1){var a7=ao()-a1;if(a7<=aq.fingerReleaseThreshold){a6=true}}return a6}function ax(){return!!(aN.data(y+"_intouch")===true)}function ak(a6){if(a6===true){aN.bind(au,aZ);aN.bind(R,I);if(P){aN.bind(P,H)}}else{aN.unbind(au,aZ,false);aN.unbind(R,I,false);if(P){aN.unbind(P,H,false)}}aN.data(y+"_intouch",a6===true)}function ae(a7,a6){var a8=a6.identifier!==undefined?a6.identifier:0;aM[a7].identifier=a8;aM[a7].start.x=aM[a7].end.x=a6.pageX||a6.clientX;aM[a7].start.y=aM[a7].end.y=a6.pageY||a6.clientY;return aM[a7]}function aD(a6){var a8=a6.identifier!==undefined?a6.identifier:0;var a7=Z(a8);a7.end.x=a6.pageX||a6.clientX;a7.end.y=a6.pageY||a6.clientY;return a7}function Z(a7){for(var a6=0;a6<aM.length;a6++){if(aM[a6].identifier==a7){return aM[a6]}}}function af(){var a6=[];for(var a7=0;a7<=5;a7++){a6.push({start:{x:0,y:0},end:{x:0,y:0},identifier:0})}return a6}function aE(a6,a7){a7=Math.max(a7,aP(a6));J[a6].distance=a7}function aP(a6){return J[a6].distance}function X(){var a6={};a6[o]=ar(o);a6[n]=ar(n);a6[d]=ar(d);a6[v]=ar(v);return a6}function ar(a6){return{direction:a6,distance:0}}function aI(){return aY-Q}function ap(a9,a8){var a7=Math.abs(a9.x-a8.x);var a6=Math.abs(a9.y-a8.y);return Math.round(Math.sqrt(a7*a7+a6*a6))}function a3(a6,a7){var a8=(a7/a6)*1;return a8.toFixed(2)}function an(){if(D<1){return w}else{return c}}function aO(a7,a6){return Math.round(Math.sqrt(Math.pow(a6.x-a7.x,2)+Math.pow(a6.y-a7.y,2)))}function aA(a9,a7){var a6=a9.x-a7.x;var bb=a7.y-a9.y;var a8=Math.atan2(bb,a6);var ba=Math.round(a8*180/Math.PI);if(ba<0){ba=360-Math.abs(ba)}return ba}function aH(a7,a6){var a8=aA(a7,a6);if((a8<=45)&&(a8>=0)){return o}else{if((a8<=360)&&(a8>=315)){return o}else{if((a8>=135)&&(a8<=225)){return n}else{if((a8>45)&&(a8<135)){return v}else{return d}}}}}function ao(){var a6=new Date();return a6.getTime()}function aU(a6){a6=e(a6);var a8=a6.offset();var a7={left:a8.left,right:a8.left+a6.outerWidth(),top:a8.top,bottom:a8.top+a6.outerHeight()};return a7}function B(a6,a7){return(a6.x>a7.left&&a6.x<a7.right&&a6.y>a7.top&&a6.y<a7.bottom)}}})(jQuery);;(function($){function resetMap(a,b){$(".panel > map > area").each(function(){var f=$(this);var g=f.attr("coords");var d=g.split(",");var e=d.length;var h="";for(var c=0;c<e;c++){h+=Math.floor(d[c]*b/a);if(e!=c+1){h+=","}}f.attr("coords",h)})};var panelWidth;var navClick=0;var dCodaSliderHoldSliding=0;var currentPanel;var panelCount;var slideSrc="";$(function(){$("body").removeClass("coda-slider-no-js");$(".coda-slider").children(".panel").hide().end().prepend('<p class="loading">Loading...<br /><img src="'+STATICHOST+'/images/ajax-loader.gif" alt="loading..." /></p>')});var sliderCount=1;$.fn.codaSlider=function(settings){settings=$.extend({autoHeight:true,autoHeightEaseDuration:1E3,autoHeightEaseFunction:"easeInOutExpo",autoSlide:false,slideSrc:"",autoSlideInterval:4E3,autoSlideStopWhenClicked:true,crossLinking:true,dynamicArrows:true,dynamicArrowLeftText:"&#171; left",dynamicArrowRightText:"right &#187;",dynamicTabs:true,dynamicTabsAlign:"center",dynamicTabsPosition:"top",externalTriggerSelector:"a.xtrig",firstPanelToLoad:1,panelTitleSelector:"span.title",slideEaseDuration:1E3,slideEaseFunction:"easeInOutExpo"},settings);$("#banner").mouseover(function(){dCodaSliderHoldSliding=1}).mouseout(function(){dCodaSliderHoldSliding=0});return this.each(function(){dOriginalWidth=$('.banner').width();dOriginalHeight=$('.banner').height();var screenWidth=$(window).width();var panelHeight=Math.ceil(dOriginalHeight*screenWidth/dOriginalWidth);slideSrc=settings.slideSrc;if(settings.slideSrc!="HP Fashion"){if(screenWidth<dOriginalWidth){$("#banner").css("width",screenWidth+"px");$("#banner").css("height",panelHeight+"px");$(".banner").css("width",screenWidth+"px");$(".banner").css("height",panelHeight+"px");$(".banner .panel").css("width",screenWidth+"px");$(".banner .panel").css("height",panelHeight+"px");$(".delayLoad").css("width",screenWidth+"px");$(".delayLoad").css("height",panelHeight+"px")}else{$("#banner").css("width",dOriginalWidth+"px");$("#banner").css("height",dOriginalHeight+"px");$(".banner").css("width",dOriginalWidth+"px");$(".banner").css("height",dOriginalHeight+"px");$(".banner .panel").css("width",dOriginalWidth+"px");$(".banner .panel").css("height",dOriginalHeight+"px")}}
-var slider=$(this);if(settings.dynamicArrows){slider.parent().addClass("arrows");slider.before('<div class="coda-nav-left" id="coda-nav-left-'+sliderCount+'"><a href="#">'+settings.dynamicArrowLeftText+"</a></div>");slider.after('<div class="coda-nav-right" id="coda-nav-right-'+sliderCount+'"><a href="#">'+settings.dynamicArrowRightText+"</a></div>")}
-panelWidth=slider.find(".panel").width();panelCount=slider.find(".panel").size();var panelContainerWidth=panelWidth*panelCount;navClicks=0;if(settings.slideSrc!="HP Fashion"){panelHeight=Math.ceil(dOriginalHeight*panelWidth/dOriginalWidth);var arrowTop=Math.floor(panelHeight/2)-13;var leftArrowLeft=Math.floor(panelWidth*2/100);var rightArrowLeft=panelWidth-leftArrowLeft-16;var sClass="";if(sDeviceType=="pc")sClass=' hide';slider.before('<div id="slider-left" class="banner-glry-left'+sClass+'" style="position:absolute; top:'+arrowTop+'px; left: '+leftArrowLeft+'px; z-index:2;cursor:pointer;"></div>');slider.before('<div id="slider-right" class="banner-glry-right'+sClass+'" style="position:absolute; top:'+arrowTop+'px; left: '+rightArrowLeft+'px; z-index:2;cursor:pointer;"></div>');if(panelWidth!=dOriginalWidth)resetMap(dOriginalWidth,panelWidth)}
-$(".panel",slider).wrapAll('<div class="panel-container"></div>');$(".panel-container",slider).css({width:panelContainerWidth});if(settings.crossLinking&&(location.hash&&parseInt(location.hash.slice(1))<=panelCount)){currentPanel=parseInt(location.hash.slice(1));var offset=-(panelWidth*(currentPanel-1));if(sCurrentLanguage=="ar")$(".panel-container",slider).css({marginRight:offset});else $(".panel-container",slider).css({marginLeft:offset})}else if(settings.firstPanelToLoad!=1&&settings.firstPanelToLoad<=panelCount){currentPanel=settings.firstPanelToLoad;var offset=-(panelWidth*(currentPanel-1));if(sCurrentLanguage=="ar")$(".panel-container",slider).css({marginRight:offset});else $(".panel-container",slider).css({marginLeft:offset})}else currentPanel=1;function goLeft(){navClicks++;if(currentPanel==1){offset=-(panelWidth*(panelCount-1));alterPanelHeight(panelCount-1);currentPanel=panelCount;slider.siblings(".coda-nav").find("a.current").removeClass("current").parents("ul").find("li:last a").addClass("current")}else{currentPanel-=1;alterPanelHeight(currentPanel-1);offset=-(panelWidth*(currentPanel-1));slider.siblings(".coda-nav").find("a.current").removeClass("current").parent().prev().find("a").addClass("current")}
-var slideEaseDuration=settings.slideEaseDuration;if(arguments[0])slideEaseDuration=arguments[0];if(sCurrentLanguage=="ar")$(".panel-container",slider).animate({marginRight:offset},slideEaseDuration,settings.slideEaseFunction);else $(".panel-container",slider).animate({marginLeft:offset},slideEaseDuration,settings.slideEaseFunction);if(settings.crossLinking)location.hash=currentPanel;return false}
-function goRight(){navClicks++;if(currentPanel==panelCount){offset=0;currentPanel=1;alterPanelHeight(0);slider.siblings(".coda-nav").find("a.current").removeClass("current").parents("ul").find("a:eq(0)").addClass("current")}else{offset=-(panelWidth*currentPanel);alterPanelHeight(currentPanel);currentPanel+=1;slider.siblings(".coda-nav").find("a.current").removeClass("current").parent().next().find("a").addClass("current")}
-var slideEaseDuration=settings.slideEaseDuration;if(arguments[0])slideEaseDuration=arguments[0];if(sCurrentLanguage=="ar")$(".panel-container",slider).animate({marginRight:offset},slideEaseDuration,settings.slideEaseFunction);else $(".panel-container",slider).animate({marginLeft:offset},slideEaseDuration,settings.slideEaseFunction);if(settings.crossLinking)location.hash=currentPanel;return false}
-if(sDeviceType!="pc"&&settings.slideSrc!="HP Fashion")$(".banner .panel a, .banner .panel map area, .banner .panel > img").swipe({click:function(event,target){if($(this).is("a")||$(this).is("area")){$(this).trigger("click");if($(this).is("a"))window.location=$(this).attr("href")}},swipeRight:function(event,direction,distance,duration,fingerCount){if(sCurrentLanguage=="ar")goRight(100);else goLeft(100)},swipeLeft:function(event,direction,distance,duration,fingerCount){if(sCurrentLanguage=="ar")goLeft(100);else goRight(100)},excludedElements:[],threshold:10});$("#coda-nav-left-"+sliderCount+" a").click(function(){goLeft()});$("#slider-left").click(function(){goLeft()});$("#coda-nav-right-"+sliderCount+" a").click(function(){goRight()});$("#slider-right").click(function(){goRight()});if(settings.dynamicTabs){var dynamicTabs='<div class="coda-nav" id="coda-nav-'+sliderCount+'"><ul></ul></div>';switch(settings.dynamicTabsPosition){case"bottom":slider.parent().append(dynamicTabs);break;default:slider.parent().prepend(dynamicTabs);break}
-ul=$("#coda-nav-"+sliderCount+" ul");$(".panel",slider).each(function(n){ul.append('<li class="tab'+(n+1)+'"><a href="#'+(n+1)+'">'+
-$(this).find(settings.panelTitleSelector).text()+"</a></li>")});navContainerWidth=slider.width()+slider.siblings(".coda-nav-left").width()+slider.siblings(".coda-nav-right").width();ul.parent().css({width:navContainerWidth});switch(settings.dynamicTabsAlign){case"center":ul.css({width:($("li",ul).width()+2)*panelCount+20});break;case"right":ul.css({"float":"right"});break}}
-$("#coda-nav-"+sliderCount+" a").each(function(z){$(this).bind("click",function(){navClicks++;$(this).addClass("current").parents("ul").find("a").not($(this)).removeClass("current");offset=-(panelWidth*z);alterPanelHeight(z);currentPanel=z+1;if(sCurrentLanguage=="ar")$(".panel-container",slider).animate({marginRight:offset},settings.slideEaseDuration,settings.slideEaseFunction);else $(".panel-container",slider).animate({marginLeft:offset},settings.slideEaseDuration,settings.slideEaseFunction);if(!settings.crossLinking)return false})});if(sDeviceType!="pc")$("#coda-nav-"+
-sliderCount).css("display","none");$(settings.externalTriggerSelector).each(function(){if(sliderCount==parseInt($(this).attr("rel").slice(12)))$(this).bind("click",function(){navClicks++;targetPanel=parseInt($(this).attr("href").slice(1));offset=-(panelWidth*(targetPanel-1));alterPanelHeight(targetPanel-1);currentPanel=targetPanel;slider.siblings(".coda-nav").find("a").removeClass("current").parents("ul").find("li:eq("+(targetPanel-1)+") a").addClass("current");if(sCurrentLanguage=="ar")$(".panel-container",slider).animate({marginRight:offset},settings.slideEaseDuration,settings.slideEaseFunction);else $(".panel-container",slider).animate({marginLeft:offset},settings.slideEaseDuration,settings.slideEaseFunction);if(!settings.crossLinking)return false})});if(settings.crossLinking&&(location.hash&&parseInt(location.hash.slice(1))<=panelCount))$("#coda-nav-"+sliderCount+" a:eq("+(location.hash.slice(1)-1)+")").addClass("current");else if(settings.firstPanelToLoad!=1&&settings.firstPanelToLoad<=panelCount)$("#coda-nav-"+
-sliderCount+" a:eq("+(settings.firstPanelToLoad-1)+")").addClass("current");else $("#coda-nav-"+sliderCount+" a:eq(0)").addClass("current");if(settings.autoHeight){panelHeight=$(".panel:eq("+(currentPanel-1)+")",slider).height();slider.css({height:panelHeight})}
-if(settings.autoSlide)slider.ready(function(){setTimeout(function(){autoSlide(settings.slideSrc)},settings.autoSlideInterval)});function alterPanelHeight(x){if(settings.autoHeight){panelHeight=$(".panel:eq("+x+")",slider).height();slider.animate({height:panelHeight},settings.autoHeightEaseDuration,settings.autoHeightEaseFunction)}}
-function autoSlide(slideSrc){if(navClicks==0||!settings.autoSlideStopWhenClicked){if(dCodaSliderHoldSliding==0){if(currentPanel==panelCount){var offset=0;currentPanel=1}else{var offset=-(panelWidth*currentPanel);currentPanel+=1}
-alterPanelHeight(currentPanel-1);slider.siblings(".coda-nav").find("a").removeClass("current").parents("ul").find("li:eq("+
-(currentPanel-1)+") a").addClass("current");if(sCurrentLanguage=="ar")$(".panel-container",slider).animate({marginRight:offset},settings.slideEaseDuration,settings.slideEaseFunction);else $(".panel-container",slider).animate({marginLeft:offset},settings.slideEaseDuration,settings.slideEaseFunction)}
-setTimeout(function(){autoSlide(settings.slideSrc)},settings.autoSlideInterval)}}
-$(".panel",slider).show().end().find("p.loading").remove();slider.removeClass("preload");sliderCount++})};$(window).resize(function(){if(slideSrc!='HP Fashion'&&dOriginalHeight!=0&&dOriginalWidth!=0){dCodaSliderHoldSliding=1;resetMap(panelWidth,dOriginalWidth);var screenWidth=$(window).width();var panelHeight=Math.ceil(dOriginalHeight*screenWidth/dOriginalWidth);if(sCurrentLanguage=='ar')
-{$('.panel-container',$(".coda-slider")).css('margin-right','0px');}
-else
-{$('.panel-container',$(".coda-slider")).css('margin-left','0px');}
-$(".coda-slider").siblings('.coda-nav').find('a.current').removeClass('current').parents('ul').find('a:eq(0)').addClass('current');currentPanel=1;if(screenWidth<dOriginalWidth){var arrowTop=Math.floor(panelHeight/2)-13;var leftArrowLeft=Math.floor(screenWidth*2/100);var rightArrowLeft=screenWidth-leftArrowLeft-16;$('#slider-right').css('top',arrowTop+'px');$('#slider-right').css('left',rightArrowLeft+'px');$('#slider-left').css('top',arrowTop+'px');$('#slider-left').css('left',leftArrowLeft+'px');$('#banner').css('width',screenWidth+'px');$('#banner').css('height',panelHeight+'px');$('.banner').css('width',screenWidth+'px');$('.banner').css('height',panelHeight+'px');$('.banner .panel').css('width',screenWidth+'px');$('.banner .panel').css('height',panelHeight+'px');$('.delayLoad').css('width',screenWidth+'px');$('.delayLoad').css('height',panelHeight+'px');panelWidth=screenWidth;}else{var arrowTop=Math.floor(dOriginalHeight/2)-13;var leftArrowLeft=Math.floor(dOriginalWidth*2/100);var rightArrowLeft=dOriginalWidth-leftArrowLeft-16;$('#slider-right').css('top',arrowTop+'px');$('#slider-right').css('left',rightArrowLeft+'px');$('#slider-left').css('top',arrowTop+'px');$('#slider-left').css('left',leftArrowLeft+'px');$('#banner').css('width',dOriginalWidth+"px");$('#banner').css('height',dOriginalHeight+"px");$('.banner').css('width',dOriginalWidth+"px");$('.banner').css('height',dOriginalHeight+"px");$('.banner .panel').css('width',dOriginalWidth+"px");$('.banner .panel').css('height',dOriginalHeight+"px");$('.delayLoad').css('width',dOriginalWidth+"px");$('.delayLoad').css('height',dOriginalHeight+"px");panelWidth=dOriginalWidth;}
-panelCount=$(".coda-slider").find(".panel").size();$(".panel-container",$(".coda-slider")).css({width:(panelCount*panelWidth)});resetMap(dOriginalWidth,panelWidth);dCodaSliderHoldSliding=0;}});})(jQuery);</script> 
-						 
-			<script type="text/javascript">// to be called only on homepage and CMS Controller
-function showImgsOnLoad() {
-	$("img.delayLoad").each(function () {
-		var delaySpan = document.createElement("span");
-		with($(this)) {
-			if (css('display') == 'none') {
-				var _display = 'none';
-			} else {
-				var _display = 'block';
-			}
-			var _display = 'block';
-			var cssObj = {
-				'height': css('height'),
-				'width': css('width'),
-				'margin-top': css('margin-top'),
-				'margin-right': css('margin-right'),
-				'margin-bottom': css('margin-bottom'),
-				'margin-left': css('margin-left'),
-				'background-image': css('background-image'),
-				'background-color': css('background-color'),
-				'background-repeat': css('background-repeat'),
-				'background-position': '50% 50%',
-				'display': _display
-			};
-		}
-		$(delaySpan).css(cssObj);
-		$(this).wrap(delaySpan).mouseover().removeAttr("onmouseover").mouseout().load(function () {
-			$(this).fadeIn().unwrap();
-		});
-	});
-}
-
-$(document).ready(function(){
-		showImgsOnLoad();
-});</script> 
-						 
-<script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script> 
+	<meta charset="utf-8"><script src="https://js-agent.newrelic.com/nr-632.min.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-N2RCPF"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UwAOUl5ACgEEV1RaAg=="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:23,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(5),window.onerror=e;try{throw new Error}catch(f){"stack"in f&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&t(4),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:10,2:9,3:7,4:11,5:3,6:24,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t){t("loader").features.ins=!0},{loader:"G9z0Bl"}],6:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(1),i=t(2);t("loader").features.stn=!0,t(3),n.on("fn-start",function(t){var e=t[0];e instanceof Event&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof Event&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),i.on("fn-start",function(){this.bstStart=Date.now()}),i.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1),window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:10,2:9,3:8,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],7:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:24,2:25,ee:"QJf3ax",gos:"7eSDFh"}],8:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState"],"-")},{1:25,2:24,ee:"QJf3ax"}],9:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:25,2:24,ee:"QJf3ax"}],10:[function(t,e){function n(t,e,n){t[0]=o(t[0],"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:25,2:24,ee:"QJf3ax"}],11:[function(t,e){function n(){f.inPlace(this,p,"fn-")}function r(t,e){f.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),f=c(a),u=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,f.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:7,2:25,ee:"QJf3ax"}],12:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=n(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(e.cat=d.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,o("xhr",[e,r,this.startTime])}}}function n(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=e,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,e){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=n(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{a.emit("internal-error",[n])}catch(r){}}};for(var u=0;c>u;u++)e.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:13,3:11,4:7,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],13:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],14:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:23,2:24,handle:"D5DuLP"}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info,e=f.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){e in t||(t[e]=n)});var n="https"===u.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=(t(2),window),f=c.document,u=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-632.min.js"},p=e.exports={offset:i(),origin:u,features:{}};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(f.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()])},{1:23,2:14,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],23:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],24:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],25:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:24,ee:"QJf3ax"}]},{},["G9z0Bl",4,12,6,5]);</script>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale = 1.0">
+	<title>Souq.com | Privacy policy</title>
+	<meta name="description" content="Souq.com | Privacy policy"><meta name="keywords" content="Souq.com | Privacy policy"><meta name="robots" content="noindex, nofollow">	<link rel="stylesheet" type="text/css" href="http://cf5.souqcdn.com/public/style/../dist/css/en/common.e0e44f432200054d1c20cba51d43411a.css">
+        <link href="http://uae.souq.com/ae-en/privacy-policy/c/" rel="alternate" hreflang="en-ae"><link href="http://uae.souq.com/ae-ar/privacy-policy/c/" rel="alternate" hreflang="ar-ae"><link href="http://egypt.souq.com/eg-en/privacy-policy/c/" rel="alternate" hreflang="en-eg"><link href="http://egypt.souq.com/eg-ar/privacy-policy/c/" rel="alternate" hreflang="ar-eg"><link href="http://saudi.souq.com/sa-en/privacy-policy/c/" rel="alternate" hreflang="en-sa"><link href="http://saudi.souq.com/sa-ar/privacy-policy/c/" rel="alternate" hreflang="ar-sa"><link href="http://kuwait.souq.com/kw-en/privacy-policy/c/" rel="alternate" hreflang="en-kw"><link href="http://kuwait.souq.com/kw-ar/privacy-policy/c/" rel="alternate" hreflang="ar-kw"><link href="http://uae.souq.com/ae-en/privacy-policy/c/" rel="alternate" hreflang="en"><link href="http://saudi.souq.com/sa-ar/privacy-policy/c/" rel="alternate" hreflang="ar">    <link rel="shortcut icon" type="image/x-icon" href="http://cf1.souqcdn.com/static/ltr/en/images/souq.ico">
+    
+    <script type="text/javascript">
+        var globals = {
+            baseUrl: 'http://cf1.souqcdn.com/public/dist/js/',
+            HOST: 'http://uae.souq.com/ae-en',
+            HOSTSSL: 'https://ssl.souq.com/ae-en',
+            STATICHOST: 'http://cf1.souqcdn.com/public/style/img/en/',
+            STATICCOMMONHOST: 'http://cf1.souqcdn.com/public/style/img/',
+            customerCurrency: 'AED',
+            moneyExample: '10.50',
+            currencyFraction: '2',
+            fractionSeparator: '.',
+            thousandSeparator: ',',
+            language: 'en',
+            site: 'ae',
+            country: 'ae',
+            sitesList: ["ae", "eg", "sa", "kw"],
+            siteCountries: ["bh", "om", "qa", "ae"],
+            cookieDomain: '.souq.com',
+            action: 'page',
+            controller: 'cms',
+            bannerItemTypeName: '',
+            context: 'browser',
+            debug: false,
+            env: 'live',
+            locale: 'en-US',
+            modules: ['cms'],
+            device: 'pc',
+            deepLink: '',
+            androidPackage: 'com.souq.app',
+            iOSMarket: 'https://itunes.apple.com/jo/app/souq.com-swq/id675000850?mt=8',
+            subDomains: '{"ae":"uae","sa":"saudi","eg":"egypt","kw":"kuwait"}',
+            jsLogging: '1',
+            subDomains: {"ae":"uae","sa":"saudi","eg":"egypt","kw":"kuwait"},
+            itemTypes: "",
+            ditemType: "",
+            search_string: "",
+            user_ip: "174.129.237.157",
+            custom_filter: null,
+            adnHost:"http://ads.souq.com"
+        };
+            </script>
+    <script type="text/javascript">
+		var googletag = googletag || {};
+		googletag.cmd = googletag.cmd || [];
+		(function() {
+			var gads = document.createElement('script');
+			gads.async = true;
+			gads.type = 'text/javascript';
+			var useSSL = 'https:' === document.location.protocol;
+			gads.src = (useSSL ? 'https:' : 'http:') + 
+			'//www.googletagservices.com/tag/js/gpt.js';
+			var node = document.getElementsByTagName('script')[0];
+			node.parentNode.insertBefore(gads, node);
+		})();
+	</script>
+	<script type="text/javascript" src="http://cf2.souqcdn.com/public/js/../dist/js/engine/loader.e0e44f432200054d1c20cba51d43411a.js"></script>
  
-<!-- http --> 
-	 
-<script type="text/javascript" src="http://partner.googleadservices.com/gampad/google_service.js"></script> 
-
 </head>
-	<body id="_CMSController">
-		
-    <script type="text/javascript" src="http://partner.googleadservices.com/gampad/google_service.js"></script>
-    <script type="text/javascript">
-        
-        GS_googleAddAdSenseService("ca-pub-6255947219771119");
-        GS_googleEnableAllServices();
-        
-    </script>
-    <script type="text/javascript">
-        
-        GA_googleAddSlot("ca-pub-6255947219771119", "Souq_Homepage_wallpaper_1280x830");
-        
-    </script>
-    <script type="text/javascript">
-        
-        GA_googleAddAttr("country", "ae");
-        
-    </script>
-    <script type="text/javascript">
-        
-        GA_googleAddAttr("language", "en");
-        
-    </script>
-					 
-				
-
-    <script type="text/javascript">
-        
-        GA_googleFetchAds();
-        
-    </script>
-    <!-- Souq_Homepage_wallpaper_1280x830 -->
-    <script type="text/javascript">
-        
-        GA_googleFillSlot("Souq_Homepage_wallpaper_1280x830");
-        
-    </script>
-		        
-        <div class="wrapper">
-
-         
-            
-        <div id="Ad-body-holder" class="bg-white padb-5">
-            <div class="homepage">
-                
-                
-               			
-                
-                    <div class="page_margins">
-                    
-                                         	    	
-<header>
-<div id="header" class="cbt-header">
-		
-	<div class="top-header cbt-top-header">
-	<ul class="header-channels hidden-phone hidden-tablet fl">
-		<li>
-			<a href="http://uae.souq.com/ae-en/" onclick="_gaq.push(['_trackEvent', 'TopMenu', 'click', 'souq.com']);" class="souq-channel"></a> 
-			 
-				<span class="channel-active"></span>
-			 
-		</li>
-
-					<li><span class="sep"></span></li>
-			<li>
-				<a href="http://uae.souq.com/ae-en/fashion" onclick="_gaq.push(['_trackEvent', 'TopMenu', 'click', 'SouqFashion']);" class="fashion-channel"></a>
-				 
-			</li>
-		
-					<li><span class="sep"></span></li>
-			<li>
-				<a href="http://deals.souq.com/ae-en/" onclick="_gaq.push(['_trackEvent', 'TopMenu', 'click', 'DoD']);" class="dod-channel"></a> 
-							</li>
-		
-					<li><span class="sep"></span></li>
-			<li>
-				<a href="http://www.sukar.com" onclick="_gaq.push(['_trackEvent', 'TopMenu', 'click', 'Suka']);" class="sukar-channel" target="_blank"></a> 
-			</li>
-		
-					<li><span class="sep"></span></li>
-			<li>
-				<a href="http://uae.souq.com/ae-en/store/c/" onclick="_gaq.push(['_trackEvent', 'TopMenu', 'click', 'Stores']);" class="stores-channel"></a> 
-				 
-			</li>
-		
-					<li><span class="sep"></span></li>
-			<li>
-				<a href="http://autos.souq.com/country-united+arab+emirates/lang-eng/index.html" onclick="_gaq.push(['_trackEvent', 'TopMenu', 'click', 'Motors']);" class="motors-channel" target="_blank"></a> 
-			</li>
-		
-					<li><span class="sep"></span></li>
-			<li>
-				<a href="http://property.souq.com/country-united+arab+emirates/lang-eng/index.html" onclick="_gaq.push(['_trackEvent', 'TopMenu', 'click', 'Properties']);" class="properties-channel" target="_blank"></a> 
-			</li>
-		
-		
-			</ul>
-		<ul class="cbt-block fr phone-width-100p">
-		<li class="hidden-phone hidden-tablet"><a href="http://uae.souq.com/ae-en/international-shipping/c/">International Shipping</a></li>
-		<li class="hidden-phone hidden-tablet"><span class="sep"></span></li>
-				<li class="phone-float-none position-relative">Ship to <b>UAE</b> (<a id="changeCBTCountry" href="#">Change</a>) <img alt="" class="ae flag" src="http://cf1.souqcdn.com/static/ltr/en/images/blank.gif">
-			<div class="tooltip-msg cbt-tooltip-msg-header font-normal hide">
-				<div class="padb-10 padt-10 bord_b_gray">
-					<label>Ship to</label>
-                    <select class="country width-150 height-30" name="country" id="cbt_popup_country_tooltip">
-				    								<option value="ae" selected="selected">UAE</option>
-													<option value="eg">Egypt</option>
-													<option value="sa">Saudi</option>
-													<option value="kw">Kuwait</option>
-																		<option disabled="disabled">-- International Shipping Countries --</option>
-																											<option value="bh">Bahrain</option>
-																												<option value="jo">Jordan</option>
-																												<option value="lb">Lebanon</option>
-																												<option value="om">Oman</option>
-																												<option value="qa">Qatar</option>
-																															</select>
-					<input id="cbt_submit_tooltip" type="button" class="button-style-blue" style="" value="Go">
-				</div>
-				<div class="mart-10 align-c">
-					<label>Souq.com Local Sites</label><br>
-											<a id="localsite_ae" href="#">UAE</a> . 											<a id="localsite_eg" href="http://egypt.souq.com">Egypt</a> . 											<a id="localsite_sa" href="http://saudi.souq.com">Saudi</a> . 											<a id="localsite_kw" href="http://kuwait.souq.com">Kuwait</a>									</div>
-				<span class="arrow"></span>
-			</div>
-		</li>
-	</ul>
-	</div>	<div class="header-content clearfixing">
-		<div class="fl mart-5 souq_main_logo"> 
-			<a href="http://uae.souq.com/ae-en/"> 
-				 
-				<img src="http://cf1.souqcdn.com/static/ltr/en/images/qsouq/header/souq-logo-en.png" alt="Shop in UAE" class="header-logo-mob">
-				 
-			</a> 
-		</div>
-		<div class="header-trust-msg width-340 fl position-relative hidden-tablet-mini hidden-phone">
-			<ul class="clearfixing">
-				<li class="fl marr-20">
-					<a class="trust-msg-icon-2 header-trust-msg-icon" href="#"></a>
-					<!-- Tooltip -->
-					<div class="tooltip-container hide">
-						<div class="tooltip-msg header-trust-msg-position1 width-260">
-							<span class="arrow"></span>
-							Changed your mind, you can return your product and get a full refund.
-						</div>
-					</div>
-					<!-- /Tooltip -->
-				</li>
-								<li class="fl marr-20">
-					<a class="trust-msg-icon-3 header-trust-msg-icon" href="#"></a>
-					<!-- Tooltip -->
-					<div class="tooltip-container hide">
-						<div class="tooltip-msg header-trust-msg-position1 width-260">
-							<span class="arrow"></span>
-							Pay for your order in cash at the moment the shipment is delivered to your doorstep.
-						</div>
-					</div>
-					<!-- /Tooltip -->
-				</li>
-							</ul>
-		</div>
-		<div id="header_top" class="header_top_right mart-15 fr clearfixing">
-						<ul class="menu fr">
-				 				<li><a href="https://ssl.souq.com/ae-en/login.php" rel="nofollow">Sign In</a></li>
-				<li class="sep hidden-phone">|</li>
-				<li class="hidden-phone"><a href="https://ssl.souq.com/ae-en/register.php" rel="nofollow">Register</a></li>
-				<li class="sep hidden-phone">|</li>
-								<li class="my_account hidden-phone">
-					<a href="https://ssl.souq.com/ae-en/account.php" rel="nofollow">My Account <span class="arrow"></span></a>
-					<div class="window">
-						<span class="window_top"></span>
-						<div class="window_inner">
-							<ul>
-								<li><a href="https://ssl.souq.com/ae-en/account_purchases.php" rel="nofollow">My Orders</a></li>
-								<li><a href="https://ssl.souq.com/ae-en/account_overview.php" rel="nofollow">Account Summary</a></li>
-								<li><a href="https://ssl.souq.com/ae-en/account_lists.php" rel="nofollow">My Wishlist</a></li>
-							</ul>
-						</div>
-					</div>
-				</li>
-				<li class="sep hidden-phone">|</li>
-				<li class="hidden-phone"><a href="http://uae.souq.com/ae-en/sell-on-souq/c/" rel="nofollow">Sell</a></li>
-				<li class="sep hidden-phone">|</li>
-				<li class="hidden-phone"><a href="http://uae.souq.com/ae-en/contact_us.php" rel="nofollow">Contact Us</a></li>
-				<li class="sep">|</li>
-				<li>
-					<a class="lang-switch display-block" href="http://uae.souq.com/ae-ar/privacy-policy/c/">العربية</a>
-				</li>
-											</ul>
-		</div>
-	</div>
-	<div id="search_bar" class="cbt-search_bar">
-		<div class="fl left_panel_trigger_wrapper">
-		<a href="#" class="hidden-desktop" id="left_panel_trigger"><div class="left-nav-icon"></div></a></div>
-		<div id="categories-nav-all" class="hidden-tablet hidden-phone"> 
-			<a href="http://uae.souq.com/ae-en/shop-all-categories/c/" id="label_shopall">Shop All Categories <span class="label-shopall-arrow"></span></a>
-						
-	<div class="side-nav hide">
-		<ul>
-							<li id="nav-item-1" class="side-nav-icon">
-					<a class="enable" href="http://uae.souq.com/ae-en/ae-handbags/c/">
-						Bags &amp; Handbags  <span class="new_menu_icon"> </span>
-					</a>
-											<div id="sub-menu-item-nav-item-1" class="side-sub-nav" style="display:none;">
-														<ul class="nav-item-children">
-																																															<li id="navigation-handbags-ae" class="nav-item-box">
-												<ul class="side-sub-navInner">
-<!--Links-->
-  <li class="fl first-column">
-    <ul>
-      <li class="menu-title">Bags &amp; Handbags</li>
-      <li> <a href="http://uae.souq.com/ae-en/handbags/totes|tote/a-6328/l/?rpp=48&amp;sortby=">Tote Bags</a> </li>
-      <li> <a href="http://uae.souq.com/ae-en/handbags/cross-body-bags|cross-body-bag/a-6328/l/?rpp=48&amp;sortby=">Crossbody Bags</a> </li>
-      <li> <a href="http://uae.souq.com/ae-en/handbags/satchels/a-6328/l/?rpp=48&amp;sortby=">Satchels</a> </li>
-      <li> <a href="http://uae.souq.com/ae-en/handbags/shopper-bags/a-6328/l/?rpp=48&amp;sortby=">Shopper Bags</a> </li>
-      <li> <a href="http://uae.souq.com/ae-en/handbags/hobos/a-6328/l/?rpp=48&amp;sortby=">Hobo Bags</a> </li>
-      <li> <a href="http://uae.souq.com/ae-en/handbags/shoulder-bags/a-6328/l/?rpp=48&amp;sortby=">Shoulder Bags</a> </li>
-      <li> <a href="http://uae.souq.com/ae-en/backpacks/l/?rpp=48&amp;sortby=">Backpacks</a> </li>
-      <li> <a href="http://uae.souq.com/ae-en/handbags/clutches/a-6328/l/?rpp=48&amp;sortby=">Clutches </a> </li>
-      <li> <a href="http://uae.souq.com/ae-en/wallets/accessories-466|handbags-472/fashion/a-t-sn/s/?rpp=48&amp;sortby=">Wallets</a> </li>
-      <li class="menu-link"> <a href="http://uae.souq.com/ae-en/ae-handbags/c/">Shop all Bags &amp; Handbags </a> </li>
-    </ul>
-  </li>
-<!--End Links-->
- <!--BG image &mapping-->
-  <li class="fr side-last-content">
-    <div class="img-side-large"> 
-    	<img usemap="#handbags-shopNow" src="http://cf2.souqcdn.com/static/ltr/en/images/lazy.png" data-src="http://cms.souqcdn.com/spring/cms/en/ae/flyout/2014/handbags/EN/Oct/09/menu-handbags-mainImg_en_09oct.png" alt="Bags and Handbags" title="Bags and Handbags" class="bord-0 lazy-nav">
-<map name="handbags-shopNow">
-  <area style="outline-style: none; outline-width: 0; outline: 0 none;" shape="poly" coords="653,4,643,246,644,330,493,333,218,332,220,226,224,8" href="http://uae.souq.com/ae-en/ae-handbags/c/" alt="Michael Kors up to 65% OFF" title="Michael Kors up to 65% OFF">
-  <area style="outline-style: none; outline-width: 0; outline: 0 none;" shape="rect" coords="18,354,136,495" href="http://uae.souq.com/ae-en/handbags/michael-kors/a-7/l/?rpp=48" alt="Michael Kors" title="Michael Kors">
-  <area style="outline-style: none; outline-width: 0; outline: 0 none;" shape="rect" coords="150,358,264,496" href="http://uae.souq.com/ae-en/handbags/guess/a-7/l/?rpp=48" alt="Guess" title="Guess">
-  <area style="outline-style: none; outline-width: 0; outline: 0 none;" shape="rect" coords="276,359,393,495" href="http://uae.souq.com/ae-en/handbags/calvin-klein/fashion/a-7-sn/l/?rpp=48&amp;sortby=" alt="Calvin Klein" title="Calvin Klein">
-  <area style="outline-style: none; outline-width: 0; outline: 0 none;" shape="rect" coords="403,358,507,498" href="http://uae.souq.com/ae-en/handbags/dkny/a-7/l/?rpp=48" alt="DKNY" title="DKNY">
-  <area style="outline-style: none; outline-width: 0; outline: 0 none;" shape="rect" coords="518,356,633,501" href="http://uae.souq.com/ae-en/handbags/tommy-hilfiger/a-7/l/?rpp=48" alt="Tommy Hilfiger" title="Tommy Hilfiger">
-</map>
+<body id="Ad-body-holder">
+	<!-- Google Wallpaper Ad -->
+    <div style="visibility: hidden;position: absolute;top: 0px;left: 0px;"><!-- Advertisement Area / Dont Print this block if there is no Ads here --> 
+<div class="row ad hide">
+    <div class="show-for-medium-up small-12 columns ads-box">
+        <!-- Souq_Homepage_wallpaper_1280x830 --> 
+        <div id="div-gpt-ad-1421766710492-0" style="width: auto; height: auto; z-index: -9999 !important; position: fixed; top: 0px; left: 0px; visibility: hidden;">
+        </div>
     </div>
-  </li>
-  <!--END BG image &mapping-->
-</ul>
-
-											</li>
-																																		</ul>
-						</div>
-									</li>
-			
-							<li id="nav-item-2" class="side-nav-icon">
-					<a class="enable" href="http://uae.souq.com/ae-en/fashion">
-						Clothing &amp; Shoes
-					</a>
-											<div id="sub-menu-item-nav-item-2" class="side-sub-nav" style="display:none;">
-														<ul class="nav-item-children">
-																																															<li id="navigation-fashion-ae" class="nav-item-box">
-												<ul class="side-sub-navInner">
-<!--Links-->
-  <li class="fl first-column">
-    <ul>
-      <li class="menu-title">Clothing </li>
-      <li> <a href="http://uae.souq.com/ae-en/souq-fashion-women-ae/c/">Women</a></li>
-      <li> <a href="http://uae.souq.com/ae-en/souq-fashion-men-ae/c/">Men</a></li>
-      <li> <a href="http://uae.souq.com/ae-en/baby-clothes/l/?rpp=48&amp;sortby=">Baby &amp; Toddlers</a></li>
-      <li class="menu-link"> <a href="http://uae.souq.com/ae-en/fashion">See All</a></li>
-    </ul>
+</div>
+<!-- /Advertisement Area --></div>
+    <!-- /Google Wallpaper Ad -->
     
-     <ul>
-      <li class="menu-title">Shoes </li>
-      <li> <a href="http://uae.souq.com/ae-en/shoes/heels%7Cwedges%7Cpumps/fashion/a-6324-sn/l/?rpp=48">Pumps</a></li>
-      <li> <a href="http://uae.souq.com/ae-en/shoes/slip-ons%7Csandals%7Cflip-flops---and---slippers%7Cslippers/a-6324/l/?rpp=48&amp;sortby=">Sandals</a></li>
-      <li> <a href="http://uae.souq.com/ae-en/shoes/loafers-and-driving-shoes%7Cloafers/a-6324/l/?rpp=48&amp;sortby=">Loafers</a></li>
-      <li> <a href="http://uae.souq.com/ae-en/shoes/flats/a-6324/l/?rpp=48&amp;sortby=">Flats</a></li>
-      <li> <a href="http://uae.souq.com/ae-en/shoes/sneakers---and---athletic%7Cfashion-sneakers%7Csneakers-and-athletic/a-6324/l/?rpp=48&amp;sortby=">Fashion Sneakers</a></li>
-      <li> <a href="http://uae.souq.com/ae-en/shoes/sports%7Csport-shoes%7Cathletic-shoes/a-6324/l/?rpp=48&amp;sortby=">Athletic Shoes</a></li>
-      <li> <a href="http://uae.souq.com/ae-en/shoes/boots%7Cboot/a-6324/l/">Boots</a></li>
-      <li class="menu-link"> <a href="http://uae.souq.com/ae-en/shoes/fashion/a-sn/l/?rpp=48">See All</a></li>
-    </ul>
-    
-    <ul>
-      <li class="menu-title">Accessories</li>
-      <li> <a href="http://uae.souq.com/ae-en/ae-handbags/c/">Bags &amp; Handbags</a></li>
-      <li> <a href="http://uae.souq.com/ae-en/wallets/accessories-466%7Chandbags-472/fashion/a-t-sn/s/?rpp=48&amp;sortby=">Wallets</a></li>
-      <li> <a href="http://uae.souq.com/ae-en/ae_watches/c/">Watches</a></li>
-      <li> <a href="http://uae.souq.com/ae-en/ae_sunglasses/c/">Sunglasses</a></li>
-      <li> <a href="http://uae.souq.com/ae-en/ae-jewelry/c/">Jewelry</a></li>
-      <li class="menu-link"><a href="http://uae.souq.com/ae-en/souq-fashion-accessories-ae/c/">See All</a></li>
-    </ul>
-
-  </li>
-<!--End Links-->
-<!--logos-->
-  <li class="fl">
-    <ul class="high-zindex brands-logos">
-      <li class="menu-title">Featured  Brands</li>
-      <li> 
-          <a href="http://uae.souq.com/ae-en/adidas/adidas/fashion/a-7-sn/s/?rpp=48&amp;sortby=">
-          	<img src="http://cf2.souqcdn.com/static/ltr/en/images/lazy.png" data-src="http://cms.souqcdn.com/spring/left-nav/fashion/logos/adidas.jpg" alt="adidas" title="adidas" class="bord-0 lazy-nav">
-          </a>
-          <a href="http://uae.souq.com/ae-en/nike/nike/a-7/s/?rpp=48&amp;sortby=">
-          	<img src="http://cf2.souqcdn.com/static/ltr/en/images/lazy.png" data-src="http://cms.souqcdn.com/spring/left-nav/fashion/logos/nike.jpg" alt="nike" title="nike" class="bord-0 lazy-nav">
-          </a> 
-          <a href="http://uae.souq.com/ae-en/hackett/fashion/a-sn/s/?rpp=48&amp;sortby=">
-          	<img src="http://cf2.souqcdn.com/static/ltr/en/images/lazy.png" data-src="http://cms.souqcdn.com/spring/left-nav/fashion/logos/hackett.jpg" alt="hackett" title="hackett" class="bord-0 lazy-nav">
-          </a> 
-          <a href="http://uae.souq.com/ae-en/wessi/fashion/a-sn/s/?rpp=48&amp;sortby=">
-          	<img src="http://cf2.souqcdn.com/static/ltr/en/images/lazy.png" data-src="http://cms.souqcdn.com/spring/left-nav/fashion/logos/wessi.jpg" alt="wessi" title="wessi" class="bord-0 lazy-nav">
-          </a> 
-          <a href="http://uae.souq.com/ae-en/tommy-hilfiger/accessories-466%7Chandbags-472%7Ctops-488%7Ceyewear-433%7Cwatches-490%7Cshoes-481%7Cpants-477%7Cskirts-483%7Cshorts-482/fashion/a-t-sn/s/">
-          	<img src="http://cf2.souqcdn.com/static/ltr/en/images/lazy.png" data-src="http://cms.souqcdn.com/spring/left-nav/fashion/logos/tommy-hilfiger.jpg" alt="tommy hilfiger" title="tommy-hilfiger" class="bord-0 lazy-nav">
-          </a> 
-          <a href="http://uae.souq.com/ae-en/shoes/new-balance/a-7/l/?rpp=48&amp;sortby=">
-          	<img src="http://cf2.souqcdn.com/static/ltr/en/images/lazy.png" data-src="http://cms.souqcdn.com/spring/left-nav/fashion/logos/new-balance.jpg" alt="new-balance" title="new-balance" class="bord-0 lazy-nav">
-   		  </a> 
-          <a href="http://uae.souq.com/ae-en/fossil/fashion/a-sn/s/?rpp=48&amp;sortby=">
-          	<img src="http://cf2.souqcdn.com/static/ltr/en/images/lazy.png" data-src="http://cms.souqcdn.com/spring/left-nav/fashion/logos/fossil.jpg" alt="fossil" title="fossil" class="bord-0 lazy-nav">
-   		  </a> 
-          <a href="http://uae.souq.com/ae-en/piamente/fashion/a-sn/s/?rpp=48&amp;sortby=">
-          	<img src="http://cf2.souqcdn.com/static/ltr/en/images/lazy.png" data-src="http://cms.souqcdn.com/spring/left-nav/fashion/logos/piamente.jpg" alt="piamente" title="piamente" class="bord-0 lazy-nav">
-   		  </a> 
-      </li>
-      
-      <li class="menu-title overhidden"><br><br><br><br><br><br><br>
-More to Shop</li>
-      <li> 
-             <ul>
-              <li><div class=" overhidden">
-							<a href="http://uae.souq.com/ae-en/fashion" target="_blank" style="height: 13px;
-width: 50px;"><img src="http://cf2.souqcdn.com/static/ltr/en/images/lazy.png" data-src="http://cms.souqcdn.com/spring/left-nav/fashion/logos/souq-fashion.png " class="display-b overhidden lazy-nav" border="0"></a>
-						</div></li>
-              <li> 
-Latest Trends in Fashion<br>
-</li>
-<li><div class=" overhidden"><br>
-							<a href="http://www.sukar.com/" target="_blank" style="height: 33px;
-width: 50px;"><img src="http://cf2.souqcdn.com/static/ltr/en/images/lazy.png" data-src="http://cms.souqcdn.com/spring/left-nav/fashion/logos/sukar.jpg " class="display-b overhidden lazy-nav" border="0"></a>
-						</div></li>
-              <li> 
-Flash Sales Up to 75% Off</li>
-            </ul>
-          
-      </li>
-    </ul>
-  </li>
-<!--END logos-->  
- <!--BG image &mapping-->
-  <li class="fr side-last-content">
-    <div class="img-side-large"> 
-    	<img usemap="#fashion-shopNow" src="http://cf2.souqcdn.com/static/ltr/en/images/lazy.png" data-src="http://souqcms.s3.amazonaws.com/spring/left-nav/fashion/menu-fashion-mainImg-EN.png" alt="guess" title="guess" class="bord-0 lazy-nav">
-          <map name="fashion-shopNow">
-            <area alt="" href="http://uae.souq.com/ae-en/ae-guess/c/" coords="478,462,591,494" shape="rect">
-            <area shape="rect" coords="422,1,662,436" href="http://uae.souq.com/ae-en/ae-guess/c/">
-          </map>
-    </div>
-  </li>
-  <!--END BG image &mapping-->
-</ul>
-
-											</li>
-																																		</ul>
-						</div>
-									</li>
-			
-							<li id="nav-item-3" class="side-nav-icon">
-					<a class="enable" href="http://uae.souq.com/ae-en/ae_kitchen_dining/c/">
-						Kitchen &amp; Dining
-					</a>
-											<div id="sub-menu-item-nav-item-3" class="side-sub-nav" style="display:none;">
-														<ul class="nav-item-children">
-																																															<li id="navigation-kitchen-dining-ae" class="nav-item-box">
-												<ul class="side-sub-navInner">
-  <li class="fl first-column">
-    <ul>
-      <li class="menu-title">Kitchen &amp; Dining</li>
-      <li> <a href="http://uae.souq.com/ae-en/kitchen-dining/cookware%7Ccookware-sets/a-6346/l/?rpp=48&amp;sortby="> Cookware </a> </li>
-      <li> <a href="http://uae.souq.com/ae-en/kitchen-dining/bakeware%7Cbaking-tools/a-6346/l/?rpp=48&amp;sortby="> Bakeware </a> </li>
-      <li> <a href="http://uae.souq.com/ae-en/small-appliances/small-appliances-57/a-t/s/?rpp=48&amp;sortby="> Kitchen Appliances </a> </li>
-      <li> <a href="http://uae.souq.com/ae-en/kitchen-dining/food-storage%7Cstorage-sets%7Ckitchen-storage---and---organization/a-6346/l/?rpp=48"> Kitchen Storage &amp; Organization </a> </li>
-      <li> <a href="http://uae.souq.com/ae-en/kitchen-dining/kitchen-tools-and-utensils/a-6346/l/?rpp=48&amp;sortby="> Kitchen Tools &amp; Utensils </a> </li>
-      <li> <a href="http://uae.souq.com/ae-en/kitchen-and-table-linens/s/"> Kitchen &amp; Table Linens </a> </li>
-      <li> <a href="http://uae.souq.com/ae-en/kitchen-dining/dinnerware/a-6346/l/?rpp=48&amp;sortby="> Dinnerware </a> </li>
-      <li> <a href="http://uae.souq.com/ae-en/kitchen-dining/knife-sets%7Ccutlery---and---flatware%7Ccutlery-set%7Cflatware%7Cforks%7Cprofessional-knives/a-6346/l/?rpp=48"> Cutlery &amp; Flatware </a> </li>
-      <li> <a href="http://uae.souq.com/ae-en/kitchen-dining/glasses---and---mugs%7Cglassware---and---drinkware/a-6346/l/?rpp=48"> Glassware &amp; Drinkware </a> </li>
-      <li> <a href="http://uae.souq.com/ae-en/kitchen-dining/serveware%7Cserveware-and-trays/a-6346/l/?rpp=48&amp;sortby="> Serveware </a> </li>
-      <li> <a href="http://uae.souq.com/ae-en/kitchen-dining/table-top-accessories/a-6346/l/"> Tabletop Accessories </a> </li>
-      <li class="menu-link"> <a href="http://uae.souq.com/ae-en/ae_kitchen_dining/c/"> Shop all Kitchen &amp; Dining </a> </li>
-    </ul>
-  </li>
-  <li class="fl">
-    <ul class="high-zindex brands-logos">
-      <li class="menu-title">Featured Brands</li>
-      <li> 
-      	<a href="http://uae.souq.com/ae-en/tefal/kitchen-and-dining-316%7Ccooking-set-425%7Ckettles-389%7Csmall-appliances-57%7Csandwich,-waffle-makers-and-grills-382%7Cbarbecue-tools-and-grill-accessories-318%7Cfood-preparation-392%7Cdeep-fryers-387%7Crice-cookers-386%7Ctoasters-388/a-t/s/"> <img src="http://cf2.souqcdn.com/static/ltr/en/images/lazy.png" data-src="http://cms.souqcdn.com/spring/left-nav/featuerd_brands/kitchen-and-dining-logo-1.jpg" alt="" title="" class="bord-0 lazy-nav"></a> 
-        <a href="http://uae.souq.com/ae-en/kitchen-dining/prestige/a-7/l/?rpp=48&amp;sortby=">
-        	<img src="http://cf2.souqcdn.com/static/ltr/en/images/lazy.png" data-src="http://cms.souqcdn.com/spring/left-nav/featuerd_brands/oct28/prestige.jpg" alt="Prestige" title="" class="bord-0 lazy-nav">
-        </a> 
-        <a href="http://uae.souq.com/ae-en/delonghi/small-appliances-57%7Cjuice-extractors-384%7Cdeep-fryers-387%7Ctoasters-388%7Ckettles-389%7Cbarbecue-tools-and-grill-accessories-318/a-t/s/"><img src="http://cf2.souqcdn.com/static/ltr/en/images/lazy.png" data-src="http://cms.souqcdn.com/spring/left-nav/featuerd_brands/kitchen-and-dining-logo-3.jpg" alt="" title="" class="bord-0 lazy-nav"></a> 
-        <a href="http://uae.souq.com/ae-en/pyrex/s/"><img src="http://cf2.souqcdn.com/static/ltr/en/images/lazy.png" data-src="http://cms.souqcdn.com/spring/left-nav/featuerd_brands/kitchen-and-dining-logo-4.jpg" alt="" title="" class="bord-0 lazy-nav"></a> 
-        <a href="http://uae.souq.com/ae-en/kitchen-dining/luminarc/a-7/l/"><img src="http://cf2.souqcdn.com/static/ltr/en/images/lazy.png" data-src="http://cms.souqcdn.com/spring/left-nav/featuerd_brands/oct28/luminarc.jpg" alt="Luminarc" title="" class="bord-0 lazy-nav"></a>
-        <a href="http://uae.souq.com/ae-en/kenwood/small-appliances-57%7Chome-supplies-337%7Cbarbecue-tools-and-grill-accessories-318%7Ctoasters-388%7Ckettles-389%7Csandwich,-waffle-makers-and-grills-382%7Cjuice-extractors-384%7Cfood-preparation-392%7Crice-cookers-386%7Cmicrowaves-444%7Ckitchen-and-dining-316/a-t/s/"><img src="http://cf2.souqcdn.com/static/ltr/en/images/lazy.png" data-src="http://cms.souqcdn.com/spring/left-nav/featuerd_brands/kitchen-and-dining-logo-6.jpg" alt="" title="" class="bord-0 lazy-nav"></a>
-        <a href="http://uae.souq.com/ae-en/gaggia/s/"><img src="http://cf2.souqcdn.com/static/ltr/en/images/lazy.png" data-src="http://cms.souqcdn.com/spring/left-nav/featuerd_brands/kitchen-and-dining-logo-7.jpg" alt="" title="" class="bord-0 lazy-nav"></a>
-        <a href="http://uae.souq.com/ae-en/braun/juice-extractors-384%7Ctoasters-388%7Ckettles-389%7Chot-beverage-makers-418%7Cfood-preparation-392/a-t/s/"><img src="http://cf2.souqcdn.com/static/ltr/en/images/lazy.png" data-src="http://cms.souqcdn.com/spring/left-nav/featuerd_brands/kitchen-and-dining-logo-8.jpg" alt="" title="" class="bord-0 lazy-nav"></a>
-      </li>
-    </ul>
-  </li>
-  <li class="fr side-last-content">
-    <div class="img-side-large"> <img usemap="#kitchen-en" src="http://cf2.souqcdn.com/static/ltr/en/images/lazy.png" data-src="http://souqcms.s3.amazonaws.com/spring/left-nav/kitchen/oct28/kitchen-flyout-main_IMG_en4.png" alt="Prestige. Your Everyday Cookware. Up to 30% OFF. Shop Now" title="Prestige. Your Everyday Cookware. Up to 30% OFF. Shop Now" class="bord-0 lazy-nav">
-<map name="kitchen-en">
-  <area style="outline-style: none; outline-width: 0; outline: 0 none;" shape="poly" coords="434,2,432,215,209,216,159,324,95,416,171,537,289,536,657,536,662,3" href="http://uae.souq.com/ae-en/kitchen-dining/prestige/a-7/l/?rpp=48&amp;sortby=" alt="Prestige. Your Everyday Cookware. Up to 30% OFF. Shop Now">
-</map>
-    </div>
-  </li>
-</ul>
-
-											</li>
-																																		</ul>
-						</div>
-									</li>
-			
-							<li id="nav-item-4" class="side-nav-icon">
-					<a class="enable" href="http://uae.souq.com/ae-en/ae_baby_toddler/c/">
-						Baby &amp; Toddlers
-					</a>
-											<div id="sub-menu-item-nav-item-4" class="side-sub-nav" style="display:none;">
-														<ul class="nav-item-children">
-																																															<li id="navigation-baby-ae" class="nav-item-box">
-												<ul class="side-sub-navInner">
-				<li class="fl first-column">
-					<ul>
-						<li class="menu-title">Baby &amp; Toddlers</li>
-						<li>
-							<a href="http://uae.souq.com/ae-en/baby--store,dod_uae,babiesrus/baby-clothes-343/a-t/s/?seller=baby-store%2Cdod_uae%2Cbabiesrus&amp;rpp=50">
-								Baby Clothing
-							</a>
-						</li>
-						<li>
-							<a href="http://uae.souq.com/ae-en/ae-baby-strollers-car-seats/c/">
-								Baby Gear &amp; Travel
-							</a>
-						</li>
-						<li>
-							<a href="http://uae.souq.com/ae-en/baby--store,dod_uae,babiesrus/feeding-333/a-t/s/?seller=baby-store%2Cdod_uae%2Cbabiesrus&amp;rpp=50">
-								Feeding
-							</a>
-						</li>
-						<li>
-							<a href="http://uae.souq.com/ae-en/baby--store,dod_uae,babiesrus/diapers-495/a-t/s/?seller=baby-store%2Cdod_uae%2Cbabiesrus&amp;rpp=50">
-								Diapers
-							</a>
-						</li>
-						<li>
-							<a href="http://uae.souq.com/ae-en/baby--store,dod_uae,babiesrus/baby-bath---and---skin-care-497/a-t/s/?seller=baby-store%2Cdod_uae%2Cbabiesrus&amp;rpp=50">
-								Baby Bath &amp; Skincare
-							</a>
-						</li>
-						<li>
-							<a href="http://uae.souq.com/ae-en/baby--store,dod_uae,babiesrus/baby-bags-342/a-t/s/?seller=baby-store%2Cdod_uae%2Cbabiesrus&amp;rpp=50">
-								Baby Bags
-							</a>
-						</li>
-						<li>
-							<a href="http://uae.souq.com/ae-en/baby--store,dod_uae,babiesrus/baby-safety-and-health-332/a-t/s/?seller=baby-store%2Cdod_uae%2Cbabiesrus&amp;rpp=50">
-								Baby Safety &amp; Health
-							</a>
-						</li>
-						<li>
-							<a href="http://uae.souq.com/ae-en/baby--store,dod_uae,babiesrus/baby-toys-and-accessories-335/a-t/s/?seller=baby-store%2Cdod_uae%2Cbabiesrus&amp;sortby=cp_desc&amp;rpp=50">
-								Baby Activities &amp; Playtime
-							</a>
-						</li>
-						<li>
-							<a href="http://uae.souq.com/ae-en/baby--store,dod_uae,babiesrus/baby-accessories-430/a-t/s/?seller=baby-store%2Cdod_uae%2Cbabiesrus&amp;rpp=50">
-								Baby Accessories &amp; Décor
-							</a>
-						</li>
-						<li>
-							<a href="http://uae.souq.com/ae-en/baby--store,dod_uae,babiesrus/baby-gift-sets-429/a-t/s/?seller=baby-store%2Cdod_uae%2Cbabiesrus&amp;rpp=50">
-								Baby Gifts
-							</a>
-						</li>
-						<li>
-							<a href="http://uae.souq.com/ae-en/maternity-wear/l/">
-								Maternity
-							</a>
-						</li>
-						<li class="menu-link">
-							<a href="http://uae.souq.com/ae-en/ae_baby_toddler/c/">
-								Shop all Baby &amp; Toddlers
-							</a>
-						</li>
-					</ul>
-				</li>
 	
-				<li class="fl">
-					<ul class="high-zindex brands-logos">
-						<li class="menu-title">FEATURED BRANDS</li>
-						<li>
-                        	<a href="http://uae.souq.com/ae-en/graco/baby-gears-331%7Cfeeding-333%7Cbaby-safety-and-health-332/a-t/s/?sortby=sr&amp;rpp=48"><img src="http://cf2.souqcdn.com/static/ltr/en/images/lazy.png" data-src="http://cms.souqcdn.com/spring/left-nav/baby/graco.jpg" alt="Graco" title="Graco" class="bord-0 lazy-nav"></a>
-                            <a href="http://uae.souq.com/ae-en/baby-store/chicco/a-7/p/?rpp=48"><img src="http://cf2.souqcdn.com/static/ltr/en/images/lazy.png" data-src="http://cms.souqcdn.com/spring/left-nav/baby/chicco.jpg" alt="Chicco" title="Chicco" class="bord-0 lazy-nav"></a>
-							<a href="http://uae.souq.com/ae-en/diapers/pampers/a-7/l/"><img src="http://cf2.souqcdn.com/static/ltr/en/images/lazy.png" data-src="http://cms.souqcdn.com/spring/left-nav/baby/pampers.jpg" alt="pampers" title="pampers" class="bord-0 lazy-nav"></a>
-							<a href="http://uae.souq.com/ae-en/baby-store/philips-avent/a-7/p/?rpp=48&amp;unit_availability=Baby-Store%3A1%3A0"><img src="http://cf2.souqcdn.com/static/ltr/en/images/lazy.png" data-src="http://cms.souqcdn.com/spring/left-nav/baby/philips-avent.jpg" alt="philips avent" title="philips avent" class="bord-0 lazy-nav"></a>
-							<a href="http://uae.souq.com/ae-en/baby-store/hauck/a-7/p/?rpp=48"><img src="http://cf2.souqcdn.com/static/ltr/en/images/lazy.png" data-src="http://cms.souqcdn.com/spring/left-nav/baby/hauck.jpg" alt="Hauck" title="Hauck" class="bord-0 lazy-nav"></a>
-							<a href="http://uae.souq.com/ae-en/step-2/step2/a-7/s/"><img src="http://cf2.souqcdn.com/static/ltr/en/images/lazy.png" data-src="http://cms.souqcdn.com/spring/left-nav/baby/step2.jpg" alt="Step2" title="Step2" class="bord-0 lazy-nav"></a>
-							<a href="http://uae.souq.com/ae-en/pigeon/baby-safety-and-health-332|baby-accessories-430|baby-toys-and-accessories-335|feeding-333|baby-bath---and---skin-care-497|diapers-495/a-t/s/?rpp=48&amp;sortby="><img src="http://cf2.souqcdn.com/static/ltr/en/images/lazy.png" data-src="http://cms.souqcdn.com
-/spring/left-nav/baby/pigeon.jpg" alt="Pigeon" title="Pigeon" class="bord-0 lazy-nav"></a>
-							<a href="http://uae.souq.com/ae-en/vtech/baby-toys-and-accessories-335%7Ctoys-24/vtech/a-t-7/s/?rpp=48&amp;sortby="><img src="http://cf2.souqcdn.com/static/ltr/en/images/lazy.png" data-src="http://cms.souqcdn.com
-/spring/left-nav/baby/vtech.jpg" alt="Vtech" title="Vtech" class="bord-0 lazy-nav"></a>
-						</li>
-					</ul>	
-				</li>
-				
-				<li class="fr side-last-content">
-					<div class="img-side-large">
-						<img usemap="#baby-shopNow-en" src="http://cf2.souqcdn.com/static/ltr/en/images/lazy.png" data-src="https://souqcms.s3.amazonaws.com/spring/cms/en/ae/flyout/2014/baby/Sept/img/17/baby_toddler_img2_en0917.png" alt="Baby &amp; Toddler. Big Deals for Small Ones. Shop Now" title="Big Deals for Small Ones. Shop Now" class="bord-0 lazy-nav">
-<map name="baby-shopNow-en">
-  <area shape="poly" coords="429,32,431,179,453,236,415,320,364,281,335,280,294,281,271,312,278,412,178,420,167,457,13,473,15,581,664,585,665,30" href="http://uae.souq.com/ae-en/ae_baby_toddler/c/" alt="Baby &amp; Toddler. Big Deals for Small Ones. Shop Now">
-</map>
-					</div>
-				</li>
-			</ul>
-
-											</li>
-																																		</ul>
-						</div>
-									</li>
-			
-							<li id="nav-item-5" class="side-nav-icon">
-					<a class="enable" href="http://uae.souq.com/ae-en/mobiles-accessories-ae/c/">
-						Mobiles &amp; Accessories
-					</a>
-											<div id="sub-menu-item-nav-item-5" class="side-sub-nav" style="display:none;">
-														<ul class="nav-item-children">
-																																															<li id="navigation-mobile-phone-ae" class="nav-item-box">
-												<ul class="side-sub-navInner">
-                <li class="fl first-column">
-                    <ul>
-                        <li class="menu-title">Mobiles &amp; Accessories</li>
-                        <li>
-                            <a href="http://uae.souq.com/ae-en/mobile-phone/l/">
-                               Mobile Phones
-                            </a>
-                        </li>
-                        <li>
-                            <a href="http://uae.souq.com/ae-en/mobile-phone-accessories/l/">
-                                Mobile Phone Accessories
-                            </a>
-                        </li>
-                        <li>
-                            <a href="http://uae.souq.com/ae-en/headset/l/">
-                                Headsets &amp; Microphones
-                            </a>
-                        </li>
-                        <li>
-                            <a href="http://uae.souq.com/ae-en/memory-card/l/">
-                                Memory Cards
-                            </a>
-                        </li>
-                        <li class="menu-link">
-                            <a href="http://uae.souq.com/ae-en/ae_mobiles/c/">
-                                Shop all Mobiles &amp; Accessories
-                            </a>
-                        </li>
-                       
-                    </ul>
-                </li>
-    
-                <li class="fl">
-    <ul class="high-zindex brands-logos">
-      <li class="menu-title">FEATURED BRANDS</li>
-      <li> 
-      	<a href="http://uae.souq.com/ae-en/mobile-phone/apple/a-7/l/"> <img src="http://cf2.souqcdn.com/static/ltr/en/images/lazy.png" data-src="http://cms.souqcdn.com/spring/left-nav/mobile-phone/featuerd_brands/mobile-logo-1.jpg" alt="" title="" class="bord-0 lazy-nav"></a> 
-        <a href="http://uae.souq.com/ae-en/mobile-phone/htc/a-7/l/">
-        	<img src="http://cf2.souqcdn.com/static/ltr/en/images/lazy.png" data-src="http://cms.souqcdn.com/spring/left-nav/mobile-phone/featuerd_brands/mobile-logo-2.jpg" alt="" title="" class="bord-0 lazy-nav">
-        </a> 
-        <a href="http://uae.souq.com/ae-en/mobile-phone/nokia/a-7/l/"><img src="http://cf2.souqcdn.com/static/ltr/en/images/lazy.png" data-src="http://cms.souqcdn.com/spring/left-nav/mobile-phone/featuerd_brands/mobile-logo-3.jpg" alt="" title="" class="bord-0 lazy-nav"></a> 
-        <a href="http://uae.souq.com/ae-en/mobile-phone/samsung/a-7/l/"><img src="http://cf2.souqcdn.com/static/ltr/en/images/lazy.png" data-src="http://cms.souqcdn.com/spring/left-nav/mobile-phone/featuerd_brands/mobile-logo-4.jpg" alt="" title="" class="bord-0 lazy-nav"></a> 
-        <a href="http://uae.souq.com/ae-en/mobile-phone/blackberry/a-7/l/"><img src="http://cf2.souqcdn.com/static/ltr/en/images/lazy.png" data-src="http://cms.souqcdn.com/spring/left-nav/mobile-phone/featuerd_brands/mobile-logo-5.jpg" alt="" title="" class="bord-0 lazy-nav"></a>
-        <a href="http://uae.souq.com/ae-en/mobile-phone/sony-ericsson/a-7/l/"><img src="http://cf2.souqcdn.com/static/ltr/en/images/lazy.png" data-src="http://cms.souqcdn.com/spring/left-nav/mobile-phone/featuerd_brands/mobile-logo-6.jpg" alt="" title="" class="bord-0 lazy-nav"></a>
-        <a href="http://uae.souq.com/ae-en/memory-card/sandisk/a-7/l/"><img src="http://cf2.souqcdn.com/static/ltr/en/images/lazy.png" data-src="http://cms.souqcdn.com/spring/left-nav/mobile-phone/featuerd_brands/mobile-logo-7.jpg" alt="" title="" class="bord-0 lazy-nav"></a>
-        <a href="http://uae.souq.com/ae-en/mobile-phone-accessories/rearth/a-7/l/?rpp=48&amp;sortby="><img src="http://cf2.souqcdn.com/static/ltr/en/images/lazy.png" data-src="http://cms.souqcdn.com/spring/left-nav/mobile-phone/mobile-logo-8.jpg" alt="" title="" class="bord-0 lazy-nav"></a>
-      </li>
-    </ul>
-  </li>
-                
-                <li class="fr side-last-content">
-                    <div class="img-side-large">
-                        <img usemap="#mobile-shopNow" src="http://cf2.souqcdn.com/static/ltr/en/images/lazy.png" data-src="http://cms.souqcdn.com/spring/left-nav/mobile-phone/menu-mobile-mainImg-EN2.png" alt="" title="" class="bord-0 lazy-nav">
-                        <map name="mobile-shopNow">
-                            <area alt="" href="http://uae.souq.com/ae-en/s5/mobile-phones-33/1800-2500-aed/a-t-cp/s/" coords="190,281,357,320" shape="rect">
-                        </map> 
-                    </div>
-                </li>
-            </ul>
-
-											</li>
-																																		</ul>
-						</div>
-									</li>
-			
-							<li id="nav-item-6" class="side-nav-icon">
-					<a class="enable" href="http://uae.souq.com/ae-en/computers-software-ae/c/">
-						Computers &amp; Tablets
-					</a>
-											<div id="sub-menu-item-nav-item-6" class="side-sub-nav" style="display:none;">
-														<ul class="nav-item-children">
-																																															<li id="navigation-tablet-ae" class="nav-item-box">
-												<ul class="side-sub-navInner">
-  <li class="fl first-column">
-    <ul>
-      <li class="menu-title">Computers &amp; Tablets</li>
-      <li> <a href="http://uae.souq.com/ae-en/ae_tablets/c/"> Tablets &amp; Tablet Accessories </a> </li>
-      <li> <a href="http://uae.souq.com/ae-en/ae_laptops/c/"> Laptops, Notebooks &amp; Accessories </a> </li>
-      <li> <a href="http://uae.souq.com/ae-en/ae-ereaders/c/"> E-Readers</a> </li>
-      <li> <a href="http://uae.souq.com/ae-en/ae-desktops-monitors/c/"> Desktops </a> </li>
-      <li> <a href="http://uae.souq.com/ae-en/ae-desktops-monitors/c/"> Monitors</a> </li>
-      <li> <a href="http://uae.souq.com/ae-en/ae-computer-parts-components/c/">Computer Parts &amp; Components </a> </li>
-      <li> <a href="http://uae.souq.com/ae-en/ae-computer-accessories-peripherals/c/"> Computer Accessories &amp; Peripherals </a> </li>
-      <li> <a href="http://uae.souq.com/ae-en/printer-or-scanner-or-printer-and-scanner-accessories/printers-192%7Cscanners-89%7Cprinter-and-scanner-accessories-85/a-t/s/">Printers, Scanners &amp; Supplies</a> </li>
-      <li> <a href="http://uae.souq.com/ae-en/router-or-network-switches-or-networking-tools-or-network-card---and---adapters/network-switches-73%7Cnetwork-cards---and---adapters-70%7Crouter-88%7Cnetworking-tools-72/a-t/s/"> Networking &amp; Communication </a> </li>
-      <li> <a href="http://uae.souq.com/ae-en/computers-software-ae/c/"> Software &amp; Video Games </a> </li>
-      <li> <a href="http://uae.souq.com/ae-en/ae-hard-drives-storage/c/">Hard Drives &amp; Storage </a> </li>
-      
-    </ul>
-  </li>
-  <li class="fl">
-    <ul class="high-zindex brands-logos">
-      <li class="menu-title">Featured Brands</li>
-      <li> 
-        <a href="http://uae.souq.com/ae-en/laptop-notebook/lenovo/a-7/l/?rpp=48"><img src="http://cf2.souqcdn.com/static/ltr/en/images/lazy.png" data-src="https://souqcms.s3.amazonaws.com/spring/left-nav/laptops/sept/27/image/lenovo.jpg" alt="lenovo" title="lenovo" class="bord-0 lazy-nav"></a>
-        <a href="http://uae.souq.com/ae-en/router/belkin/a-7/l/">
-        	<img src="http://cf2.souqcdn.com/static/ltr/en/images/lazy.png" data-src="http://souqcms.s3.amazonaws.com/spring/left-nav/tablets/Featured_brands/tablet-logo-2.jpg" alt="belkin" title="belkin" class="bord-0 lazy-nav">
-        </a> 
-        <a href="http://uae.souq.com/ae-en/laptop-notebook/hp/a-7/l/?rpp=48"><img src="http://cf2.souqcdn.com/static/ltr/en/images/lazy.png" data-src="http://souqcms.s3.amazonaws.com/spring/left-nav/tablets/Featured_brands/tablet-logo-3.jpg" alt="HP" title="HP" class="bord-0 lazy-nav"></a> 
-        <a href="http://uae.souq.com/ae-en/memory-card/sandisk/a-7/l/?rpp=48&amp;sortby="><img src="http://cf2.souqcdn.com/static/ltr/en/images/lazy.png" data-src="http://souqcms.s3.amazonaws.com/spring/left-nav/tablets/Featured_brands/tablet-logo-4.jpg" alt="sandisk" title="sandisk" class="bord-0 lazy-nav"></a> 
-        <a href="http://uae.souq.com/ae-en/laptop-notebook/dell/a-7/l/?rpp=48"><img src="http://cf2.souqcdn.com/static/ltr/en/images/lazy.png" data-src="http://souqcms.s3.amazonaws.com/spring/left-nav/tablets/Featured_brands/tablet-logo-5.jpg" alt="dell" title="dell" class="bord-0 lazy-nav"></a>
-        <a href="http://uae.souq.com/ae-en/hard-disk/western-digital/external/a-7-6280/l/?rpp=48"><img src="http://cf2.souqcdn.com/static/ltr/en/images/lazy.png" data-src="https://souqcms.s3.amazonaws.com/spring/left-nav/laptops/sept/27/image/western_digital.jpg" alt="Western Digital" title="Western Digital" class="bord-0 lazy-nav"></a>
-      	<a href="http://uae.souq.com/ae-en/laptop-notebook/apple/a-7/l/?rpp=48&amp;sortby="> <img src="http://cf2.souqcdn.com/static/ltr/en/images/lazy.png" data-src="http://souqcms.s3.amazonaws.com/spring/left-nav/tablets/Featured_brands/tablet-logo-1.jpg" alt="Apple" title="Apple" class="bord-0 lazy-nav"></a> 
-        <a href="http://uae.souq.com/ae-en/computer-peripheral/targus/a-7/l/"><img src="http://cf2.souqcdn.com/static/ltr/en/images/lazy.png" data-src="http://souqcms.s3.amazonaws.com/spring/left-nav/tablets/Featured_brands/tablet-logo-8.jpg" alt="targus" title="targus" class="bord-0 lazy-nav"></a>
-      </li>
-    </ul>
-  </li>
-  <li class="fr side-last-content">
-    <div class="img-side-large"> <img usemap="#tablet-shopNow-en" src="http://cf2.souqcdn.com/static/ltr/en/images/lazy.png" data-src="https://souqcms.s3.amazonaws.com/spring/left-nav/laptops/sept/27/image/Laptops__img_update_27sept_en.png" alt="Lenovo. Get ready for the Lenovo Flex 2" title="Lenovo. Get ready for the Lenovo Flex 2" class="bord-0 lazy-nav">
-<map name="tablet-shopNow-en">
-  <area style="outline-style: none; outline-width: 0; outline: 0 none;" shape="poly" coords="655,29,464,40,428,71,426,174,452,281,227,221,215,232,255,375,4,378,4,506,654,503" href="http://uae.souq.com/ae-en/ae_laptops/c/" alt="Lenovo. Get ready for the Lenovo Flex 2" title="Lenovo. Get ready for the Lenovo Flex 2">
-</map>
-    </div>
-  </li>
-</ul>
-
-											</li>
-																																		</ul>
-						</div>
-									</li>
-			
-							<li id="nav-item-7" class="side-nav-icon">
-					<a class="enable" href="http://uae.souq.com/ae-en/electronics-ae/c/">
-						TVs, Audio &amp; Cameras
-					</a>
-											<div id="sub-menu-item-nav-item-7" class="side-sub-nav" style="display:none;">
-														<ul class="nav-item-children">
-																																															<li id="navigation-electronics-ae" class="nav-item-box">
-												<ul class="side-sub-navInner">
-  <li class="fl first-column">
-    <ul>
-      <li class="menu-title">TVs &amp; Projectors</li>
-      <li> <a href="http://uae.souq.com/ae-en/uhd/televisions-10/a-t/s/"> Ultra High Definition TVs </a> </li>
-      <li> <a href="http://uae.souq.com/ae-en/curve/televisions-10/a-t/s/"> Curved TVs </a> </li>
-	  <li> <a href="http://uae.souq.com/ae-en/3d/televisions-10/a-t/s/?rpp=48&amp;sortby="> 3D TVs </a> </li>
-      <li> <a href="http://uae.souq.com/ae-en/smart/televisions-10/a-t/s/?rpp=48&amp;sortby="> Smart TVs </a> </li>
-      <li> <a href="http://uae.souq.com/ae-en/plasma-tv/l/"> Plasma TVs </a> </li>
-	  <li> <a href="http://uae.souq.com/ae-en/projector/l/?rpp=48&amp;sortby="> Projectors</a> </li>
-      <li class="menu-link"> <a href="http://uae.souq.com/ae-en/ae_tvs_home_entertainment/c/"> Shop all</a> </li>
-    </ul>
-    
-     <ul>
-      <li class="menu-title">Cameras &amp; Camcorders</li>
-      <li> <a href="http://uae.souq.com/ae-en/digital-camera/slr-camera/a-5778/l/?rpp=48&amp;sortby="> DSLR Cameras</a> </li>
-      <li> <a href="http://uae.souq.com/ae-en/digital-camera/compact-camera/a-5778/l/?rpp=48&amp;sortby="> Compact Cameras </a> </li>
-      <li> <a href="http://uae.souq.com/ae-en/camcorder/l/?rpp=48&amp;sortby="> Camcorders </a> </li>
-      <li> <a href="http://uae.souq.com/ae-en/interchangeable-lense/l/?rpp=48&amp;sortby="> Lenses </a> </li>
-      <li> <a href="http://uae.souq.com/ae-en/electronic-flash/l/?rpp=48&amp;sortby="> Flashes </a> </li>
-      <li> <a href="http://uae.souq.com/ae-en/camera-camcorder-accessories/l/?rpp=48&amp;sortby="> Camera Accessories </a> </li>
-      <li class="menu-link"> <a href="http://uae.souq.com/ae-en/ae_cameras/c/"> Shop all</a> </li>
-    </ul>
-    
-      <ul>
-      <li class="menu-title">Audio &amp; Video</li>
-      <li> <a href="http://uae.souq.com/ae-en/home-theatre-system/l/?rpp=48&amp;sortby="> Home Theater Systems</a> </li>
-      <li> <a href="http://uae.souq.com/ae-en/receiver-amplifier/l/?rpp=48&amp;sortby="> Amplifiers and Receivers </a> </li>
-      <li> <a href="http://uae.souq.com/ae-en/loud-speaker/l/?rpp=48&amp;sortby="> Speakers </a> </li>
-      <li> <a href="http://uae.souq.com/ae-en/car-audio/l/?rpp=48&amp;sortby="> Car Audio </a> </li>
-      <li> <a href="http://uae.souq.com/ae-en/dvd-blu-ray-player/l/?rpp=48&amp;sortby="> DVD &amp; Blu-ray Players </a> </li>
-      <li> <a href="http://uae.souq.com/ae-en/mp3-player/l/?rpp=48&amp;sortby="> MP3 &amp; MP4 Players </a> </li>
-      <li> <a href="http://uae.souq.com/ae-en/stereo-system-equalizer/l/?rpp=48&amp;sortby="> HiFi Systems </a> </li>
-      <li class="menu-link"> <a href="http://uae.souq.com/ae-en/electronics-ae/c/"> Shop all</a> </li>
-    </ul>
-  </li>
-  <li class="fl">
-    <ul class="high-zindex brands-logos">
-      <li class="menu-title">Featured Brands</li>
-      <li> 
-      	<a href="http://uae.souq.com/ae-en/ae_samsung/c/"> <img src="http://cf2.souqcdn.com/static/ltr/en/images/lazy.png" data-src="http://cms.souqcdn.com/spring/left-nav/electronics/en/2014/nov/09/samsung.jpg" alt="Samsung" title="Samsung" class="bord-0 lazy-nav"></a>
-        
-        <a href="http://uae.souq.com/ae-en/sony/headsets-373|digital-cameras-14|camcorders-15|game-consoles-6|televisions-10/a-t/s/?rpp=48&amp;sortby="> <img src="http://cf2.souqcdn.com/static/ltr/en/images/lazy.png" data-src="http://cms.souqcdn.com/spring/left-nav/electronics/en/2014/nov/09/sony.jpg" alt="Sony" title="Sony" class="bord-0 lazy-nav"></a> 
-        
-        <a href="http://uae.souq.com/ae-en/lg/televisions-10|headsets-373|projectors-13|dvd-and-blu--ray-players-9/a-t/s/?rpp=48&amp;sortby="> <img src="http://cf2.souqcdn.com/static/ltr/en/images/lazy.png" data-src="http://cms.souqcdn.com/spring/left-nav/electronics/en/2014/nov/09/lg.jpg" alt="LG" title="LG" class="bord-0 lazy-nav"></a> 
-        
-        <a href="http://uae.souq.com/ae-en/digital-camera/canon/a-7/l/?rpp=48&amp;sortby="> <img src="http://cf2.souqcdn.com/static/ltr/en/images/lazy.png" data-src="http://cms.souqcdn.com/spring/left-nav/electronics/en/2014/nov/09/canon.jpg" alt="Canon" title="Canon" class="bord-0 lazy-nav"></a> 
-        
-        <a href="http://uae.souq.com/ae-en/digital-camera/nikon/a-7/l/?rpp=48&amp;sortby="> <img src="http://cf2.souqcdn.com/static/ltr/en/images/lazy.png" data-src="http://cms.souqcdn.com/spring/left-nav/electronics/en/2014/nov/09/nikon.jpg" alt="Nikon" title="Nikon" class="bord-0 lazy-nav"></a> 
-        
-        <a href="http://uae.souq.com/ae-en/digital-camera/gopro/a-7/l/?rpp=48&amp;sortby="> <img src="http://cf2.souqcdn.com/static/ltr/en/images/lazy.png" data-src="http://cms.souqcdn.com/spring/left-nav/electronics/en/2014/nov/09/gopro.jpg" alt="Gopro" title="Gopro" class="bord-0 lazy-nav"></a> 
-        
-        <a href="http://uae.souq.com/ae-en/pioneer/s/?rpp=48&amp;sortby="> <img src="http://cf2.souqcdn.com/static/ltr/en/images/lazy.png" data-src="http://cms.souqcdn.com/spring/left-nav/electronics/en/2014/nov/09/pioneer.jpg" alt="Pioneer" title="Pioneer" class="bord-0 lazy-nav"></a> 
-        
-        <a href="http://uae.souq.com/ae-en/denon/s/"> <img src="http://cf2.souqcdn.com/static/ltr/en/images/lazy.png" data-src="http://cms.souqcdn.com/spring/left-nav/electronics/en/2014/nov/09/denon.jpg" alt="Denon" title="Denon" class="bord-0 lazy-nav"></a>  
-
-      </li>
-    </ul>
-  </li>
-  <li class="fr side-last-content">
-    <div class="img-side-large"> <img usemap="#electronics_shopNow_en" src="http://cf2.souqcdn.com/static/ltr/en/images/lazy.png" data-src="http://souqcms.s3.amazonaws.com/spring/left-nav/electronics/en/2014/nov/09/electronics-flyout-main_IMG_v1_en.png" alt="GoPro Hero 4 Ultra Sharp Video and Image Quality | 4K Resolution | 12MP | Waterproof Shop Now" title="GoPro Hero 4 Ultra Sharp Video and Image Quality | 4K Resolution | 12MP | Waterproof Shop Now" class="bord-0 lazy-nav">
-<map name="electronics_shopNow_en">
-  <area style="outline-style: none; outline-width: 0; outline: 0 none;" shape="poly" coords="445,13,440,183,409,236,277,263,232,424,250,533,664,534,659,8" href="http://uae.souq.com/ae-en/digital-camera/gopro/a-7/l/?rpp=48&amp;sortby=" alt="GoPro Hero 4 Ultra Sharp Video and Image Quality | 4K Resolution | 12MP | Waterproof Shop Now" title="GoPro Hero 4 Ultra Sharp Video and Image Quality | 4K Resolution | 12MP | Waterproof Shop Now">
-</map>
-    </div>
-  </li>
-</ul>
-
-											</li>
-																																		</ul>
-						</div>
-									</li>
-			
-							<li id="nav-item-8" class="side-nav-icon">
-					<a class="enable" href="http://uae.souq.com/ae-en/watches-jewellery-ae/c/">
-						Watches &amp; Jewelry
-					</a>
-											<div id="sub-menu-item-nav-item-8" class="side-sub-nav" style="display:none;">
-														<ul class="nav-item-children">
-																																															<li id="navigation-watches-ae" class="nav-item-box">
-												<ul class="side-sub-navInner">
-<!--Links-->
-  <li class="fl first-column">
-    <ul>
-      <li class="menu-title">Watches</li>
-      <li> <a href="http://uae.souq.com/ae-en/watches/men%7Cmens%7Cmen's/a-6356/l/">Men's Watches </a> </li>
-      <li> <a href="http://uae.souq.com/ae-en/watches/women%7Cladies%7Cwomens/a-6356/l/">Women's Watches</a> </li>
-      <li> <a href="http://uae.souq.com/ae-en/watches/girls%7Cboys/a-6356/l/"> Kids Watches </a> </li>
-      <li> <a href="http://uae.souq.com/ae-en/watch-accessories/l/"> Watch Accessories</a> </li>
-      <li> <a href="http://uae.souq.com/ae-en/repair-or-tool/watch-accessories-283/a-t/s/"> Watch Repair &amp; Tool Kits</a> </li>
-      <li class="menu-link"> <a href="http://uae.souq.com/ae-en/ae_watches/c/"> Shop all Watches  </a> </li>
-      <br><br>
-      
-      <li class="menu-title">Shop by Style</li>
-      <li> <a href="http://uae.souq.com/ae-en/watches/casual-watch%7Ccasual/a-6436/l/">Casual </a> </li>
-      <li> <a href="http://uae.souq.com/ae-en/watches/dress-watch%7Cdress/a-6436/l/">Dress </a> </li>
-      <li> <a href="http://uae.souq.com/ae-en/fashion/watches-490/a-t/s/">Fashion</a> </li>
-      <li> <a href="http://uae.souq.com/ae-en/luxury/watches-490/7000-71000-aed/a-t-cp/s/">Luxury </a> </li>
-      <li> <a href="http://uae.souq.com/ae-en/watches/sport-watch%7Csport/a-6436/l/">Sports</a> </li>
-      <li> <a href="http://uae.souq.com/ae-en/smart-watches/mobile-phones-33%7Cmobile-phone-accessories-26/a-t/s/">Smart Watches</a> </li>
-      <li> <a href="http://uae.souq.com/ae-en/watches/pocket-watch/a-6436/l/">Pocket Watches</a> </li>
-      <li class="menu-link"> <a href="http://uae.souq.com/ae-en/ae_watches/c/">Shop all Watches </a> </li>
-  
-
-
-    </ul>
-
-
-
-
-
-
-
-  </li>
-<!--End Links-->
-<!--logos-->
-  <li class="fl">
-  
-  <ul>
-          <li class="menu-title">Jewelry</li>
-      <li> <a href="http://uae.souq.com/ae-en/necklace-pendant/l/">Necklace, Pendants &amp; Charms </a> </li>
-      <li> <a href="http://uae.souq.com/ae-en/jewelry-set/l/">Jewelry Sets </a> </li>
-      <li> <a href="http://uae.souq.com/ae-en/rings/l/">Rings</a> </li>
-      <li> <a href="http://uae.souq.com/ae-en/earrings/l/">Earrings </a> </li>
-      <li> <a href="http://uae.souq.com/ae-en/bracelets/l/">Bracelets &amp; Bangles</a> </li>
-      <li> <a href="http://uae.souq.com/ae-en/loose-gemstones-diamond/l/">Loose Gemstones</a> </li>
-      <li> <a href="http://uae.souq.com/ae-en/men-jewleries/cufflinks/a-6313/l/">Cufflinks</a> </li>
-      <li> <a href="http://uae.souq.com/ae-en/tie-clip/men's-jewelry-292/a-t/s/">Tie Clips</a> </li>
-      <li> <a href="http://uae.souq.com/ae-en/jewelry-accessories/jewelry-organizer%7Cjewelry-box/a-6467/l/">Jewelry Boxes</a> </li>
-      <li> <a href="http://uae.souq.com/ae-en/jewelry-accessories/jewelry-cleaning---and---care/a-6467/l/">Cleaning &amp; Care Products</a> </li>
-      <li class="menu-link"> <a href="http://uae.souq.com/ae-en/ae-jewelry/c/">Shop all Jewelry </a> </li><br><br>
-      
-           <li class="menu-title">Shop by Style</li>
-      <li> <a href="http://uae.souq.com/ae-en/ae_fine_jewelry/c/">Fine Jewelry</a> </li>
-      <li> <a href="http://uae.souq.com/ae-en/men-jewleries/l//">Men's Jewelry </a> </li>
-      <li> <a href="http://uae.souq.com/ae-en/rings/wedding---and---anniversary%7Cengagement-rings%7Cwedding--bslash--anniversary%7Cwedding--bslash---anniversary/a-6296/l/">Wedding &amp; Engagement</a> </li>
-      <li> <a href="http://uae.souq.com/ae-en/loose-gemstones-diamond/l/">Gemstones </a> </li>
-      <li> <a href="http://uae.souq.com/ae-en/jewelry-set/gold/a-6312/l/">Gold</a> </li>
-      <li> <a href="http://uae.souq.com/ae-enjewelry-set/silver/a-6312/l/">Silver</a> </li>
-    </ul>  
-  </li>
-<!--END logos-->  
- <!--BG image &mapping-->
-  <li class="fr side-last-content">
-    <div class="img-side-large"> 
-    	<img usemap="#watches-shopNow" src="http://cf2.souqcdn.com/static/ltr/en/images/lazy.png" data-src="http://souqcms.s3.amazonaws.com/spring/left-nav/watches/menu-tablet-mainImg-EN.jpg" alt="Watches" title="Watches" class="bord-0 lazy-nav">
-          <map name="watches-shopNow">
-            <area alt="" href="http://uae.souq.com/ae-en/watches-jewellery-ae/c/ " coords="526,148,639,180" shape="rect">
-          </map>
-    </div>
-  </li>
-  <!--END BG image &mapping-->
-</ul>
-
-											</li>
-																																		</ul>
-						</div>
-									</li>
-			
-							<li id="nav-item-9" class="side-nav-icon">
-					<a class="enable" href="http://uae.souq.com/ae-en/ae_perfumes/c/">
-						Perfumes &amp; Fragrances
-					</a>
-											<div id="sub-menu-item-nav-item-9" class="side-sub-nav" style="display:none;">
-														<ul class="nav-item-children">
-																																															<li id="navigation-perfumes-fragrances-ae" class="nav-item-box">
-												<ul class="side-sub-navInner">
-<!--Links-->
-  <li class="fl first-column">
-    <ul>
-      <li class="menu-title width-175">Perfumes &amp; Fragrances</li>
-      <li> <a href="http://uae.souq.com/ae-en/perfumes-fragrances/men/new/a-6356-c/l/?rpp=48&amp;sortby="> Men's Fragrances </a> </li>
-      <li> <a href="http://uae.souq.com/ae-en/perfumes-fragrances/women/new/a-6356-c/l/?rpp=48">Women's Fragrances </a> </li>
-      <li> <a href="http://uae.souq.com/ae-en/perfumes-fragrances/girls%7Cboys/new/a-6356-c/l/?rpp=48"> Kid's Fragrances </a> </li>
-      <li> <a href="http://uae.souq.com/ae-en/perfumes-fragrances/350-750-aed/a-cp/l/?rpp=48"> Luxury Fragrances </a> </li>
-      <li> <a href="http://uae.souq.com/ae-en/gift-sets/perfumes---and---fragrances-478/a-t/s/?rpp=48&amp;sortby=">Fragrance Gift Sets</a> </li>
-      <li> <a href="http://uae.souq.com/ae-en/home-fragrances-candles/home-decor-137%7Chome-supplies-337/a-t/s/?rpp=48&amp;sortby=">Home Fragrances &amp; Candles</a> </li>
-      <li> <a href="http://uae.souq.com/ae-en/ae_perfumes/c/"> Shop all Perfumes &amp; Fragrances </a> </li>
-      <br> <br>
-      <li class="menu-title mart-15 width-175">Shop by Type</li>
-      <li> <a href="http://uae.souq.com/ae-en/perfumes-fragrances/eau-de-parfum%7Ceau-de-perfume%7Ceau-de-perfum/a-5508/l/?rpp=48">Eau de Parfum </a> </li>
-      <li> <a href="http://uae.souq.com/ae-en/perfumes-fragrances/eau-de-toilette%7Cedt%7Ceau-de-toielette/a-5508/l/?rpp=48">Eau de Toilette</a> </li>
-      <li> <a href="http://uae.souq.com/ae-en/perfumes-fragrances/eau-de-cologne%7Ccologne/a-5508/l/?rpp=48">Eau de Cologne</a> </li>
-      <li> <a href="http://uae.souq.com/ae-en/perfumes-fragrances/oud/a-5508/l/?rpp=48"> Oud  </a> </li>
-       <br> <br>
-      <li class="menu-title mart-15 width-175"> Shop by Fragrance</li>
-      <li> <a href="http://uae.souq.com/ae-en/aromatic/perfumes---and---fragrances-478/a-t/s/?rpp=48&amp;sortby=">Aromatic</a> </li>
-      <li> <a href="http://uae.souq.com/ae-en/chypre/perfumes---and---fragrances-478/a-t/s/?rpp=48&amp;sortby=">Chypre</a> </li>
-      <li> <a href="http://uae.souq.com/ae-en/citrus/perfumes---and---fragrances-478/a-t/s/?rpp=48&amp;sortby=">Citrus</a> </li>
-      <li> <a href="http://uae.souq.com/ae-en/floral/perfumes---and---fragrances-478/a-t/s/?rpp=48&amp;sortby="> Floral  </a> </li>
-      <li> <a href="http://uae.souq.com/ae-en/leather/perfumes---and---fragrances-478/a-t/s/?rpp=48&amp;sortby="> Leather  </a> </li>
-      <li> <a href="http://uae.souq.com/ae-en/oriental/perfumes---and---fragrances-478/a-t/s/?rpp=48&amp;sortby="> Oriental  </a> </li>
-      <li> <a href="http://uae.souq.com/ae-en/woody/perfumes---and---fragrances-478/a-t/s/?rpp=48&amp;sortby="> Woody  </a> </li>
-
- 
-    </ul>
-  </li>
-<!--End Links-->
-<!--logos-->
-  <li class="fl">
-    <ul class="high-zindex brands-logos">
-      <li class="menu-title">Featured Brands</li>
-      <li> 
-          <a href="http://uae.souq.com/ae-en/perfumes-fragrances/givenchy/a-7/l/?rpp=48">
-          	<img src="http://cf2.souqcdn.com/static/ltr/en/images/lazy.png" data-src="http://cms.souqcdn.com/spring/left-nav/perfume/givenchy.jpg" alt="givenchy" title="givenchy" class="bord-0 lazy-nav">
-          </a>
-          <a href="http://uae.souq.com/ae-en/perfumes-fragrances/bvlgari/a-7/l/?rpp=48">
-          	<img src="http://cf2.souqcdn.com/static/ltr/en/images/lazy.png" data-src="http://cms.souqcdn.com/spring/left-nav/perfume/bulgari.jpg" alt="bulgari" title="bulgari" class="bord-0 lazy-nav">
-          </a> 
-          <a href="http://uae.souq.com/ae-en/perfumes-fragrances/christian-dior/a-7/l/?rpp=48">
-          	<img src="http://cf2.souqcdn.com/static/ltr/en/images/lazy.png" data-src="http://cms.souqcdn.com/spring/left-nav/perfume/Christian-Dior.jpg" alt="christian-dior" title="christian-dior" class="bord-0 lazy-nav">
-          </a> 
-          <a href="http://uae.souq.com/ae-en/perfumes-fragrances/calvin-klein/a-7/l/?rpp=48">
-          	<img src="http://cf2.souqcdn.com/static/ltr/en/images/lazy.png" data-src="http://cms.souqcdn.com/spring/left-nav/perfume/Calvin-Klein.jpg" alt="calvin klein" title="calvin klein" class="bord-0 lazy-nav">
-          </a> 
-          <a href="http://uae.souq.com/ae-en/perfumes-fragrances/dolce---and---gabbana/a-7/l/?rpp=48">
-          	<img src="http://cf2.souqcdn.com/static/ltr/en/images/lazy.png" data-src="http://cms.souqcdn.com/spring/left-nav/perfume/dolce-and-gabanna.jpg" alt="dolce and gabbana." title="dolce and gabbana" class="bord-0 lazy-nav">
-          </a> 
-          <a href="http://uae.souq.com/ae-en/perfumes-fragrances/estee-lauder/a-7/l/?rpp=48">
-          	<img src="http://cf2.souqcdn.com/static/ltr/en/images/lazy.png" data-src="http://cms.souqcdn.com/spring/left-nav/perfume/estee-lauder.jpg" alt="estee lauder" title="estee lauder" class="bord-0 lazy-nav">
-   		  </a> 
-          <a href="http://uae.souq.com/ae-en/perfumes-fragrances/hugo-boss/a-7/l/?rpp=48">
-          	<img src="http://cf2.souqcdn.com/static/ltr/en/images/lazy.png" data-src="http://cms.souqcdn.com/spring/left-nav/perfume/boss.jpg" alt="hugo boss" title="hugo boss" class="bord-0 lazy-nav">
-          </a>
-          <a href="http://uae.souq.com/ae-en/perfumes-fragrances/tom-ford/a-7/l/?rpp=48">
-          	<img src="http://cf2.souqcdn.com/static/ltr/en/images/lazy.png" data-src="http://cms.souqcdn.com/spring/left-nav/perfume/tom-ford.jpg" alt="Tom ford" title="Tom ford" class="bord-0 lazy-nav">
-          </a>
-       
-      </li>
-    </ul>
-  </li>
-<!--END logos-->  
- <!--BG image &mapping-->
-  <li class="fr side-last-content">
-    <div class="img-side-large"> 
-    	<img usemap="#perfume-shopNow" src="http://cf2.souqcdn.com/static/ltr/en/images/lazy.png" data-src="http://souqcms.s3.amazonaws.com/spring/left-nav/perfume/menu-perfume-mainImg-EN.png" alt="celebrity fragrances" title="celebrityfragrances" class="bord-0 lazy-nav">
-          <map name="perfume-shopNow">
-            <area alt="celebrity fragrances" href="http://uae.souq.com/ae-en/ae-celebrity-fragrances/c/ " coords="438,138,551,170" shape="rect">
-          </map>
-    </div>
-  </li>
-  <!--END BG image &mapping-->
-</ul>
-
-											</li>
-																																		</ul>
-						</div>
-									</li>
-			
-							<li id="nav-item-10" class="side-nav-icon">
-					<a class="enable" href="http://uae.souq.com/ae-en/health-beauty-ae/c/">
-						Health &amp; Beauty
-					</a>
-											<div id="sub-menu-item-nav-item-10" class="side-sub-nav" style="display:none;">
-														<ul class="nav-item-children">
-																																																																																															<li>
-														<a href="http://uae.souq.com/ae-en/perfumes-fragrances/l/">
-															Perfumes
-														</a>
-													</li>
-																									<li>
-														<a href="http://uae.souq.com/ae-en/makeup/l/">
-															Makeup
-														</a>
-													</li>
-																									<li>
-														<a href="http://uae.souq.com/ae-en/skin-care/l/">
-															Skin Care
-														</a>
-													</li>
-																									<li>
-														<a href="http://uae.souq.com/ae-en/hair-care/l/">
-															Hair Care
-														</a>
-													</li>
-																									<li>
-														<a href="http://uae.souq.com/ae-en/bath-body/l/">
-															Bath &amp; Body
-														</a>
-													</li>
-																									<li>
-														<a href="http://uae.souq.com/ae-en/beauty-tools-accessories/l/">
-															Beauty Tools &amp; Accessories
-														</a>
-													</li>
-																									<li>
-														<a href="http://uae.souq.com/ae-en/beauty-gift-set/l/">
-															Beauty Gifts &amp; Sets
-														</a>
-													</li>
-																									<li>
-														<a href="http://uae.souq.com/ae-en/health-personal-care/l/">
-															Personal Care
-														</a>
-													</li>
-																																																									</ul>
-						</div>
-									</li>
-			
-							<li id="nav-item-11" class="side-nav-icon">
-					<a class="enable" href="http://uae.souq.com/ae-en/ae-toys/c/">
-						Toys &amp; Gaming
-					</a>
-											<div id="sub-menu-item-nav-item-11" class="side-sub-nav" style="display:none;">
-														<ul class="nav-item-children">
-																																															<li id="navigation-toys-ae" class="nav-item-box">
-												<ul class="side-sub-navInner">
-<!--Links-->
-  <li class="fl first-column">
-    <ul>
-      <li class="menu-title">Toys &amp; Activities</li>
-      <li> <a href="http://uae.souq.com/ae-en/toys/action-figures|action-figure/a-1446/l/?rpp=48&amp;sortby=">Action Figures</a> </li>
-      <li> <a href="http://uae.souq.com/ae-en/toys/arts---and---crafts/a-1446/l/?rpp=48&amp;sortby=">Arts &amp; Crafts</a> </li>
-      <li> <a href="http://uae.souq.com/ae-en/bikes_scooters/l/?rpp=48&amp;sortby=">Bikes, Scooters &amp; Ride-Ons</a> </li>
-      <li> <a href="http://uae.souq.com/ae-en/toys/blaster-toys/a-1446/l/?rpp=48&amp;sortby=">Blaster Toys</a> </li>
-      <li> <a href="http://uae.souq.com/ae-en/toys/construction,-building-sets,---and---blocks/a-1446/l/?rpp=48&amp;sortby=">Building Sets &amp; Blocks</a> </li>
-      <li> <a href="http://uae.souq.com/ae-en/toys/board-games---and---cards%7Ccollection-cards%7Ccards,-games---and---puzzles%7Cjigsaws---and---puzzles/a-1446/l/">Cards, Games &amp; Puzzles</a> </li>
-      <li> <a href="http://uae.souq.com/ae-en/toys/dolls%7Cdolls---and---dollhouses/a-1446/l/?rpp=48&amp;sortby=">Dolls &amp; Dollhouses</a> </li>
-      <li> <a href="http://uae.souq.com/ae-en/toys/educational-toys|education---and---learning-toys/a-1446/l/?rpp=48&amp;sortby=">Education &amp; Learning Toys</a> </li>
-      <li> <a href="http://uae.souq.com/ae-en/toys/kid%27s-electronic-toys|electronic-toys|robotics/a-1446/l/?rpp=48&amp;sortby=">Kid's Electronic Toys</a> </li>
-      <li> <a href="http://uae.souq.com/ae-en/toys/musical-toys%7Cmusic-instruments---and---karaoke/a-1446/l/?rpp=48&amp;sortby=">Musical Instruments &amp; Karaoke</a> </li>
-      <li> <a href="http://uae.souq.com/ae-en/outdoor_play/l/?rpp=48&amp;sortby=">Outdoor Play</a> </li>
-      <li> <a href="http://uae.souq.com/ae-en/toys/pretend-play|pretend---and---dress-up|pretend-play---and---dress--up/a-1446/l/?rpp=48&amp;sortby=">Pretend &amp; Dress Up</a> </li>
-      <li> <a href="http://uae.souq.com/ae-en/toys/stuffed-toys%7Cstuffed-animals%7Cpuppets,-stuffed-animals---and---soft-toys/a-1446/l/?rpp=48&amp;sortby=">Puppets, Stuffed Animals &amp; Soft Toys</a> </li>
-      <li> <a href="http://uae.souq.com/ae-en/toys/vehicles---and---remote--control%7Cremote-controlled-toys%7Cremote-control-toys%7Cvehicles,-models---and---play-">Vehicles &amp; Remote Controlled Toys</a> </li>
-      <li class="menu-link"> <a href="http://uae.souq.com/ae-en/ae-toys/c/"> Shop all Toys </a> </li>
-      </ul>
-
-</li>
-<!--End Links-->
-<!--logos-->
-  <li class="fl">
-  
-  <ul>
-      <li class="menu-title">Video Games</li>
-      <li> <a href="http://uae.souq.com/ae-en/games/xbox-360|xbox-one|xbox/a-41/l/?rpp=48&amp;sortby=">Microsoft Xbox </a> </li>
-      <li> <a href="http://uae.souq.com/ae-en/games/playstation-3|playstation-portable|playstation-4|playstation-2|playstation|playstation-vita/a-41/l/?rpp=48&amp;sortby=">Sony PlayStation</a> </li>
-      <li> <a href="http://uae.souq.com/ae-en/games/nintendo-wii|nintendo-wii-u|nintendo-3ds|nintendo-ds|nintendo-game-cube/a-41/l/?rpp=48&amp;sortby=">Nintendo Wii &amp; DS Series</a> </li>
-      <li> <a href="http://uae.souq.com/ae-en/games/pc%7Cpc-games/a-41/l/">PC Games</a> </li>
-      <li class="menu-link"> <a href="http://uae.souq.com/ae-en/games-ae/c/">Shop all Video Games</a> </li><br><br>
-      
-      <li class="menu-title">Gaming Consoles</li>
-      <li> <a href="http://uae.souq.com/ae-en/games-console/xbox-360%7Cxbox-one/a-41/l/">Microsoft Xbox</a> </li>
-      <li> <a href="http://uae.souq.com/ae-en/games-console/playstation-portable|playstation-3|playstation-4|playstation-3-slim|playstation-portable-vita/a-41/l/?rpp=48&amp;sortby=">Sony PlayStation</a> </li>
-      <li> <a href="http://uae.souq.com/ae-en/games-console/nintendo-wii-u|wii|nintendo-ds|nintendo-3ds-xl|nintendo|nintendo-wii|nintendo-3ds/a-41/l/?rpp=48&amp;sortby=">Nintendo Wii &amp; DS Series</a> </li>
-	  <li class="menu-link"> <a href="http://uae.souq.com/ae-en/games-ae/c/">Shop all Gaming Consoles</a> </li><br><br>
-      
-      <li class="menu-title">Gaming Accessories</li>
-      <li> <a href="http://uae.souq.com/ae-en/games-console-accessories/xbox-360|xbox/a-5705/l/?rpp=48&amp;sortby=">Microsoft Xbox</a> </li>
-      <li> <a href="http://uae.souq.com/ae-en/games-console-accessories/playstation-4|playstation-3|playstation|playstation-portable|playstation-2/a-5705/l/?rpp=48&amp;sortby=">Sony PlayStation</a> </li>
-      <li> <a href="http://uae.souq.com/ae-en/games-console-accessories/nintendo-wii|nintendo-3ds|nintendo-ds/a-5705/l/?rpp=48&amp;sortby=">Nintendo Wii &amp; DS Series</a> </li>
-	  <li class="menu-link"> <a href="http://uae.souq.com/ae-en/games-ae/c/">Shop all Gaming Accessories</a> </li>
-    </ul>  
-  </li>
-<!--END logos-->  
- <!--BG image &mapping-->
-  <li class="fr side-last-content">
-    <div class="img-side-large"> 
-    	<img usemap="#toys-shopNow-en" src="http://cf2.souqcdn.com/static/ltr/en/images/lazy.png" data-src="http://souqcms.s3.amazonaws.com/spring/left-nav/toys/1013/menu-toys-mainIMG-en2.png" alt="Award Winning Dollhouses. Over 70% OFF" title="Award Winning Dollhouses. Over 70% OFF" class="bord-0 lazy-nav">
-<map name="toys-shopNow-en">
-  <area style="outline-style: none; outline-width: 0; outline: 0 none;" shape="rect" coords="411,11,665,541" href="http://uae.souq.com/ae-en/toys/le-toy-van/a-7/l/?rpp=48&amp;sortby=">
-</map>
-    </div>
-  </li>
-  <!--END BG image &mapping-->
-</ul>
-
-											</li>
-																																		</ul>
-						</div>
-									</li>
-			
-							<li id="nav-item-12" class="side-nav-icon">
-					<a class="enable" href="http://uae.souq.com/ae-en/books-entertainment/c/">
-						Books &amp; Entertainment
-					</a>
-											<div id="sub-menu-item-nav-item-12" class="side-sub-nav" style="display:none;">
-														<ul class="nav-item-children">
-																																																																																															<li>
-														<a href="http://uae.souq.com/ae-en/books/l/">
-															Books
-														</a>
-													</li>
-																									<li>
-														<a href="http://uae.souq.com/ae-en/musical-instrument/l/">
-															Musical Instruments
-														</a>
-													</li>
-																									<li>
-														<a href="http://uae.souq.com/ae-en/movies-plays-series/l/">
-															Movies
-														</a>
-													</li>
-																									<li>
-														<a href="http://uae.souq.com/ae-en/music-cd/l/">
-															Music CDs 
-														</a>
-													</li>
-																																																									</ul>
-						</div>
-									</li>
-			
-						<li class="last"><a href="http://uae.souq.com/ae-en/shop-all-categories/c/">Browse all categories</a></li>
-		</ul>
+<div id="ieOverlay" class="overlay" style="display:none;">
+	<div id="ieOverlayBG" class="bg">
 	</div>
- 			 
+	<div id="ieContent" class="content">
+		<br>
+		<div style="align:left;padding:5px">
+			<div>
+				<a href="http://uae.souq.com/ae-en/"><img src="http://cf1.souqcdn.com/public/style/img/en/souq-logo.png" alt="Logo"></a>			</div>
 		</div>
-		<div id="form_search" class="fl clearfixing">
-			<fieldset>
-			<div class="position-relative">
-	<form id="search-form" action="http://uae.souq.com/ae-en/search_results.php" method="get" onsubmit="return beforeSearch('search_value','search-categories-link');">
+			<h6 style="margin-bottom: 20px; font-size: 20px;">Souq.com is getting a new look! Please upgrade your browser to proceed. </h6>
 
-		<div class="searchField-and-allBtn">
-		<input type="text" id="search_value" name="q" class="input-search fl" value="">
-				<!--Search - All Categories-->
-		<a id="search-categories-link" href="#search-categories-list" class="search-categories-link fr hidden-tablet hidden-phone" rel="-All">All <span class="arrow"></span></a>
-		<div id="search-categories-list">
-			<select class="search-categories-select" size="20">
-				<option value="">All Categories</option>
-								<option value="40">Bags &amp; Carry Cases</option>
-								<option value="301">Beauty Gifts and Sets</option>
-								<option value="287">Bracelets</option>
-								<option value="130">Chairs and benches</option>
-								<option value="351">Chargers</option>
-								<option value="14">Digital Cameras</option>
-								<option value="286">Earrings</option>
-								<option value="433">Eyewear</option>
-								<option value="80">Health and Personal Care</option>
-								<option value="337">Home Supplies</option>
-								<option value="290">Jewelry sets</option>
-								<option value="316">Kitchen and Dining Tools</option>
-								<option value="75">Laptops &amp; Notebooks</option>
-								<option value="295">Makeup</option>
-								<option value="26">Mobile Phone Accessories</option>
-								<option value="33">Mobile Phones</option>
-								<option value="285">Necklaces &amp; Pendants</option>
-								<option value="478">Perfumes &amp; Fragrances</option>
-								<option value="481">Shoes</option>
-								<option value="322">Sporting Goods</option>
-								<option value="181">Tablet Accessories</option>
-								<option value="94">Tablets</option>
-								<option value="24">Toys</option>
-								<option value="490">Watches</option>
-							</select>
-		</div>
-		<!--/Search - All Categories-->
-				</div>
+
+		<a href="http://outdatedbrowser.com/" target="_blank"><img src="http://cf1.souqcdn.com/public/style/img/souq-ie8.jpg" alt="Logo"></a>
 		
-		<div class="header-btn-search">
-			<input type="submit" id="search-submit" value="" class="btn-search">
-		</div>
+		<div id="jr_close"></div>
 
-	</form>
-</div>			</fieldset>
-			<a id="link_advanced" class="fl" href="http://uae.souq.com/ae-en/advanced_search.php">Advanced</a>
-		</div>
-		<div id="header-cart" class="
-																		 header-cart-empty
-																											cart-text cart-box cls fl" style="*width:120px;">
-			<a href="http://uae.souq.com/ae-en/shopping_cart.php" rel="nofollow" class="cart-icon width-125 display-inline-block padl-35">
-	<span id="TopCartUnitsAjax" class="txt20 fl text-orange"> 0 </span> 
-	<span class="hidden-phone visible-tablet header_cart_items_label" style="*width:50px;">Item(s)</span> 
-</a>
-		</div>
-	</div>
+    	<p><span style="color: #aeaeae;font-weight: bold;">Please upgrade your browser in order to navigate the new Souq.com</span> <a id="btnUpdateBrowser" href="http://outdatedbrowser.com/" style="font-size: 14px;font-weight: bold; height: 40px; line-height: 20px;" target="_blank">Update my browser now</a></p>
+    		</div>
 </div>
-</header>               			                     
-                    	
-                        	
-                        <div class="page padt-0">
-                        	<div id="main" class="bg-white">
-	                            	                            	                            									                            <div id="body-top"><script type="text/javascript">try{ var dataLayer = dataLayer||[]; dataLayer.push({'page' : '/ae-en/CMS/privacy-policy'}); }catch(e){}</script><script type="text/javascript">(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start': new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0], j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src= '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f); })(window,document,'script','dataLayer','GTM-N2RCPF');</script></div><div id="col1">
-		<div id="col1_content" class="sidebar clearfix"><div id="body-column-left" class="sidebar"></div></div>
-</div>
+	<!-- GLOBAL WRAPPER -->
+<div itemscope="" itemtype="http://schema.org/Product" class="off-canvas-wrap" data-offcanvas="">
+    <!-- INNER WRAP -->
+    <div id="innerWrap" class="inner-wrap">
+		<div class="fixed-wrap grap pull-header-to-front">
+	<nav class="tab-bar">
+	  <div class="row">
+	    <div class="small-7 large-3 columns">
+	      <ul class="h-list logoList text-default">
+	        <li><a href="#" class="left-off-canvas-toggle"><i class="fi-menu"></i></a></li>
+	        <li>
+	            <a href="http://uae.souq.com/ae-en/"><img src="http://cf1.souqcdn.com/public/style/img/en/souq-logo.png" class="logo" alt="Logo"></a>	        </li>
+	      </ul>
+	    </div>
+	    <div class="small-5 large-9 columns username">
+                
+	      <ul class="h-list text-opposite">
+                     
+                        <li class="trust">
+	      		<i class="fi-loop"></i>&nbsp;
+	      		<a href="javascript:void(0);" class="trustMsgToolTip-title" data-dropdown="trustMsgToolTip1"><small>Free Returns</small></a>            <p id="trustMsgToolTip1" class="trustMsgToolTip-details f-dropdown" data-dropdown-content="">Changed your mind, you can return your product and get a full refund.</p>
+      		</li>
+      			        <li class="trust bump-right">
+	        	<i class="fi-dollar"></i>&nbsp;
+	        	<a href="javascript:void(0);" class="trustMsgToolTip-title" data-dropdown="trustMsgToolTip2"><small>Cash on Delivery</small></a>            <p id="trustMsgToolTip2" class="trustMsgToolTip-details f-dropdown" data-dropdown-content="">Pay for your order in cash at the moment the shipment is delivered to your doorstep.</p>
+        	</li>
+        		        <li id="Ship_To" class="region hide-for-small-only with-flyout" data-flyout-content="">
+    <a href="javascript: void(0);" data-flyout="cbt-popUp" title="Ship to United Arab Emirates"><i class="header-country-flag flag_ae"></i></a>    <div class="flyout cbt-popUp">
+        <ul id="cbt-popUp" class="option2">
+            <li>
+                <label><b>Ship to </b></label>
+                <select id="selectCountries" name="selectCountries">
+			       				       		<option value="ae" selected="selected">UAE</option>
+			       				       		<option value="eg">Egypt</option>
+			       				       		<option value="sa">Saudi</option>
+			       				       		<option value="kw">Kuwait</option>
+			       				       					       	<option disabled="disabled">-- International Shipping Countries --</option>
+				       					       						       			<option value="bh">Bahrain</option>
+				       						       					       						       			<option value="om">Oman</option>
+				       						       					       						       			<option value="qa">Qatar</option>
+				       						       					       						       				       			       	</select>
+            </li>
+            <li>
+                <label><b>Language</b></label>
+                                                        <input type="radio" id="languge-typeen" name="languge-type" value="en" checked="checked"><label for="languge-typeen">English</label>
+                                                        <input type="radio" id="languge-typear" name="languge-type" value="ar"><label for="languge-typear">عربي</label>
+                                <a href="javascript:void(0);" id="change-contries" class="button tiny expand">Save &amp; Continue</a>            </li>
+            <li class="local">Souq.com Local Sites</li>
+            <li class="countries">
+                                    <a href="http://uae.souq.com/">UAE</a>                                    <a href="http://egypt.souq.com/">Egypt</a>                                    <a href="http://saudi.souq.com/">Saudi</a>                                    <a href="http://kuwait.souq.com/">Kuwait</a>                            </li>
+        </ul>
+    </div>
+</li>
 
-<div id="col2">
-	<div id="col2_content" class="clearfix"><div id="body-column-right" class="sidebar"></div></div>
-</div>
 
-<div id="col3">
-	<div id="col3_content" class="clearfix"><div id="body-column-main"><div id="box-29878" class="box-container   box-container-tab-cms-static  ">	
-	<div class="box box-style-border-top  box-padding-none box-tab-cms-static">
-				<div class="headline">
+
+
+	        <li id="Change_Lang" class="region show-for-medium-up">
+	            <a href="http://uae.souq.com/ae-ar/privacy-policy/c/">العربية</a><!-- false get absolute path -->
+	        </li>
+			    <li id="Login_Link"><a href="https://ssl.souq.com/ae-en/login.php">Log In</a></li>
+	        <li id="mini-cart" class="">
+    <a href="http://uae.souq.com/ae-en/shopping_cart.php"><i class="fi-cart"></i> <span id="cart-icon-item-count" class="cart-icon-item-count hide"></span></a>        </li>	      </ul>
+	    </div>
+	  </div>
+
+	</nav>
+</div>
+<aside class="left-off-canvas-menu side-canvas hide">
+                <ul class="off-canvas-list">
+            
+                
+                                    <li>
+                        <dl class="accordion" data-accordion="myAccordionGroup">
+                                                            
+                                    
+										<dt class="font-normal">
+                                            
+                                            <a href="http://uae.souq.com/ae-en/shopping_cart.php" class="level2">My Shopping Cart (<span class="nav cartCount">0</span>)</a>                                        </dt>
+                                    
+                                                            
+                                    
+										<dt class="font-normal">
+                                            
+                                            <a href="http://uae.souq.com/ae-en/deals" class="level2">Deals</a>                                        </dt>
+                                    
+                                                            
+                                    
+										<dt class="font-normal">
+                                            
+                                            <a href="http://uae.souq.com/ae-en/account_purchases.php" class="level2">Track Orders</a>                                        </dt>
+                                    
+                                                            
+                                    
+										<dt class="font-normal">
+                                            
+                                            <a href="http://uae.souq.com/ae-en/account.php" class="level2">My Account</a>                                        </dt>
+                                    
+                                                            
+                                    
+										<dt class="font-normal">
+                                            
+                                            <a href="http://uae.souq.com/ae-en/contact_us.php" class="level2">Contact Us</a>                                        </dt>
+                                    
+                                                    </dl>
+                    </li>
+                            
+                                    <li><label>Categories</label></li>
+                
+                                    <li>
+                        <dl class="accordion" data-accordion="myAccordionGroup">
+                                                            
+                                     
+                                        <dd class="accordion-navigation">
+                                            
+                                            <a href="http://uae.souq.com/ae-en/#panel6" class="level2">Baby &amp; Toddler <i></i></a>
+                                            <div id="panel6" class="content">
+                                                                                                    <a href="http://uae.souq.com/ae-en/baby--store,dod_uae,babiesrus/baby-clothes-343/a-t/s/?seller=baby-store%2Cdod_uae%2Cbabiesrus&amp;amp;rpp=50">Baby Clothing</a>                                                                                                    <a href="http://uae.souq.com/ae-en/baby-gear/l/?rpp=48&amp;amp;sortby=">Baby Gear &amp; Travel</a>                                                                                                    <a href="http://uae.souq.com/ae-en/baby--store,dod_uae,babiesrus/feeding-333/a-t/s/?seller=baby-store%2Cdod_uae%2Cbabiesrus&amp;amp;rpp=50">Feeding</a>                                                                                                    <a href="http://uae.souq.com/ae-en/baby--store,dod_uae,babiesrus/diapers-495/a-t/s/?seller=baby-store%2Cdod_uae%2Cbabiesrus&amp;amp;rpp=50">Diapers</a>                                                                                                    <a href="http://uae.souq.com/ae-en/baby--store,dod_uae,babiesrus/baby-bath---and---skin-care-497/a-t/s/?seller=baby-store%2Cdod_uae%2Cbabiesrus&amp;amp;rpp=50">Baby Bath &amp; Skincare</a>                                                                                                    <a href="http://uae.souq.com/ae-en/baby--store,dod_uae,babiesrus/baby-bags-342/a-t/s/?seller=baby-store%2Cdod_uae%2Cbabiesrus&amp;amp;rpp=50">Baby Bags</a>                                                                                                    <a href="http://uae.souq.com/ae-en/baby--store,dod_uae,babiesrus/baby-safety-and-health-332/a-t/s/?seller=baby-store%2Cdod_uae%2Cbabiesrus&amp;amp;rpp=50">Baby Safety &amp; Health</a>                                                                                                    <a href="http://uae.souq.com/ae-en/baby--store,dod_uae,babiesrus/baby-toys-and-accessories-335/a-t/s/?seller=baby-store%2Cdod_uae%2Cbabiesrus&amp;amp;sortby=cp_desc&amp;amp;rpp=50">Baby Activities &amp; Playtime</a>                                                                                                    <a href="http://uae.souq.com/ae-en/baby--store,dod_uae,babiesrus/baby-accessories-430/a-t/s/?seller=baby-store%2Cdod_uae%2Cbabiesrus&amp;amp;rpp=50">Baby Accessories &amp; Décor</a>                                                                                                    <a href="http://uae.souq.com/ae-en/baby--store,dod_uae,babiesrus/baby-gift-sets-429/a-t/s/?seller=baby-store%2Cdod_uae%2Cbabiesrus&amp;amp;rpp=50">Baby Gifts</a>                                                                                                    <a href="http://uae.souq.com/ae-en/لوازم الأمومة">Maternity</a>                                                                                            </div>
+                                        </dd>
+                                    
+                                                            
+                                     
+                                        <dd class="accordion-navigation">
+                                            
+                                            <a href="http://uae.souq.com/ae-en/#panel7" class="level2">Mobiles &amp; Accessories <i></i></a>
+                                            <div id="panel7" class="content">
+                                                                                                    <a href="http://uae.souq.com/ae-en/mobile-phone/l/">Mobile Phones</a>                                                                                                    <a href="http://uae.souq.com/ae-en/mobile-phone-accessories/l/">Mobile Phone Accessories</a>                                                                                                    <a href="http://uae.souq.com/ae-en/headset/l/">Headsets &amp; Microphones</a>                                                                                                    <a href="http://uae.souq.com/ae-en/memory-card/l/">Memory Cards</a>                                                                                            </div>
+                                        </dd>
+                                    
+                                                            
+                                     
+                                        <dd class="accordion-navigation">
+                                            
+                                            <a href="http://uae.souq.com/ae-en/#panel8" class="level2">Computers &amp; Tablets <i></i></a>
+                                            <div id="panel8" class="content">
+                                                                                                    <a href="http://uae.souq.com/ae-en/tablet/l/?rpp=48&amp;amp;sortby=">Tablets &amp; Accessories</a>                                                                                                    <a href="http://uae.souq.com/ae-en/laptop-notebook/l/?rpp=48&amp;amp;sortby=">Laptops, Notebooks &amp; Accessories</a>                                                                                                    <a href="http://uae.souq.com/ae-en/ebook-reader/l/?rpp=48&amp;amp;sortby=">E-Readers</a>                                                                                                    <a href="http://uae.souq.com/ae-en/computer/l/">Desktops</a>                                                                                                    <a href="http://uae.souq.com/ae-en/computer-monitor/l/?rpp=48&amp;amp;sortby=">Monitors</a>                                                                                                    <a href="http://uae.souq.com/ae-en/printer-or-scanner-or-printer-and-scanner-accessories/printers-192%7Cscanners-89%7Cprinter-and-scanner-accessories-85/a-t/s/?rpp=48&amp;amp;sortby=">Printers, Scanners &amp; Supplies</a>                                                                                                    <a href="http://uae.souq.com/ae-en/outer-or-network-switches-or-networking-tools-or-network-card---and---adapters/network-switches-73%7Cnetwork-cards---and---adapters-70%7Crouter-88%7Cnetworking-tools-72/a-t/s/">Networking &amp; Communication</a>                                                                                                    <a href="http://uae.souq.com/ae-en/software/l/?rpp=48&amp;amp;sortby=">Software &amp; Video Games</a>                                                                                                    <a href="http://uae.souq.com/ae-en/hard-disk/l/?rpp=48&amp;amp;sortby=">Hard Drives &amp; Storages</a>                                                                                            </div>
+                                        </dd>
+                                    
+                                                            
+                                     
+                                        <dd class="accordion-navigation">
+                                            
+                                            <a href="http://uae.souq.com/ae-en/#panel9" class="level2">Clothing &amp; Shoes <i></i></a>
+                                            <div id="panel9" class="content">
+                                                                                                    <a href="http://uae.souq.com/ae-en/dod_uae/tops-488|dresses-465|pants-477|shorts-482|jackets---and---coats-473/a-t/p/?rpp=48">Clothing</a>                                                                                                    <a href="http://uae.souq.com/ae-en/dod_uae/shoes-481/a-t/p/?rpp=48&amp;amp;sortby=">Shoes</a>                                                                                                    <a href="http://uae.souq.com/ae-en/handbags/fashion/a-sn/l/?rpp=48&amp;amp;sortby=">Bags &amp; Handbags</a>                                                                                                    <a href="http://uae.souq.com/ae-en/wallets/accessories-466%7Chandbags-472/fashion/a-t-sn/s/?rpp=48&amp;amp;sortby=">Wallets</a>                                                                                                    <a href="http://uae.souq.com/ae-en/watches/fashion/a-sn/l/?rpp=48&amp;amp;sortby=">Watches</a>                                                                                                    <a href="http://uae.souq.com/ae-en/eyewear/l/?rpp=40&amp;amp;sortby=">Sunglasses</a>                                                                                                    <a href="http://uae.souq.com/ae-en/jewelry-set/l/?rpp=48&amp;amp;sortby=">Jewelry</a>                                                                                            </div>
+                                        </dd>
+                                    
+                                                            
+                                     
+                                        <dd class="accordion-navigation">
+                                            
+                                            <a href="http://uae.souq.com/ae-en/#panel10" class="level2">TVs, Audio &amp; Camera <i></i></a>
+                                            <div id="panel10" class="content">
+                                                                                                    <a href="http://uae.souq.com/ae-en/lcd-led-dlp-tv/l/?rpp=48&amp;amp;sortby=">TVs &amp; Projectors</a>                                                                                                    <a href="http://uae.souq.com/ae-en/digital-camera/slr-camera/a-5778/l/?rpp=48&amp;amp;sortby=">DSLR Cameras</a>                                                                                                    <a href="http://uae.souq.com/ae-en/digital-camera/compact-camera/a-5778/l/?rpp=48&amp;amp;sortby=">Compact Cameras</a>                                                                                                    <a href="http://uae.souq.com/ae-en/camcorder/l/?rpp=48&amp;amp;sortby=">Camcorders</a>                                                                                                    <a href="http://uae.souq.com/ae-en/interchangeable-lense/l/?rpp=48&amp;amp;sortby=">Lenses</a>                                                                                                    <a href="http://uae.souq.com/ae-en/electronic-flash/l/?rpp=48&amp;amp;sortby=">Flashes</a>                                                                                                    <a href="http://uae.souq.com/ae-en/camera-camcorder-accessories/l/?rpp=48&amp;amp;sortby=">Camera Accessories</a>                                                                                                    <a href="http://uae.souq.com/ae-en/home-theatre-system/l/?rpp=48&amp;amp;sortby=">Home Theater Systems</a>                                                                                                    <a href="http://uae.souq.com/ae-en/receiver-amplifier/l/?rpp=48&amp;amp;sortby=">Amplifiers and Receivers</a>                                                                                                    <a href="http://uae.souq.com/ae-en/loud-speaker/l/?rpp=48&amp;amp;sortby=">Speakers</a>                                                                                                    <a href="http://uae.souq.com/ae-en/car-audio/l/?rpp=48&amp;amp;sortby=">Car Audio</a>                                                                                                    <a href="http://uae.souq.com/ae-en/dvd-blu-ray-player/l/?rpp=48&amp;amp;sortby=">DVD &amp; Blu-ray Players</a>                                                                                                    <a href="http://uae.souq.com/ae-en/mp3-player/l/?rpp=48&amp;amp;sortby=">MP3 &amp; MP4 Players</a>                                                                                                    <a href="http://uae.souq.com/ae-en/stereo-system-equalizer/l/?rpp=48&amp;amp;sortby=">Stereo Systems</a>                                                                                            </div>
+                                        </dd>
+                                    
+                                                            
+                                     
+                                        <dd class="accordion-navigation">
+                                            
+                                            <a href="http://uae.souq.com/ae-en/#panel11" class="level2">Watches &amp; Jewelry <i></i></a>
+                                            <div id="panel11" class="content">
+                                                                                                    <a href="http://uae.souq.com/ae-en/watches/l/">Watches</a>                                                                                                    <a href="http://uae.souq.com/ae-en/jewelry/jewelry-sets-290%7Cmen's-jewelry-292%7Cnecklaces---and---pendants-285%7Cbracelets-287/a-t/s/?page=1">Jewelry</a>                                                                                            </div>
+                                        </dd>
+                                    
+                                                            
+                                     
+                                        <dd class="accordion-navigation">
+                                            
+                                            <a href="http://uae.souq.com/ae-en/#panel12" class="level2">Perfumes &amp; Fragrances <i></i></a>
+                                            <div id="panel12" class="content">
+                                                                                                    <a href="http://uae.souq.com/ae-en/perfumes-fragrances/men/new/a-6356-c/l/?rpp=48&amp;amp;sortby=">Men's Fragrances</a>                                                                                                    <a href="http://uae.souq.com/ae-en/perfumes-fragrances/women/new/a-6356-c/l/?rpp=48">Women's Fragrances</a>                                                                                                    <a href="http://uae.souq.com/ae-en/perfumes-fragrances/girls%7Cboys/new/a-6356-c/l/?rpp=48">Kid's Fragrances</a>                                                                                                    <a href="http://uae.souq.com/ae-en/perfumes-fragrances/350-750-aed/a-cp/l/?rpp=48">Luxury Fragrances</a>                                                                                                    <a href="http://uae.souq.com/ae-en/gift-sets/perfumes---and---fragrances-478/a-t/s/?rpp=48&amp;amp;sortby=">Fragrance Gift Sets</a>                                                                                                    <a href="http://uae.souq.com/ae-en/home-fragrances-candles/home-decor-137%7Chome-supplies-337/a-t/s/?rpp=48&amp;amp;sortby=">Home Fragrances &amp; Candles</a>                                                                                                    <a href="http://uae.souq.com/ae-en/perfumes-fragrances/eau-de-parfum%7Ceau-de-perfume%7Ceau-de-perfum/a-5508/l/?rpp=48">Eau de Parfum</a>                                                                                                    <a href="http://uae.souq.com/ae-en/perfumes-fragrances/eau-de-toilette%7Cedt%7Ceau-de-toielette/a-5508/l/?rpp=48">Eau de Toilette</a>                                                                                                    <a href="http://uae.souq.com/ae-en/perfumes-fragrances/eau-de-cologne%7Ccologne/a-5508/l/?rpp=48">Eau de Cologne</a>                                                                                                    <a href="http://uae.souq.com/ae-en/perfumes-fragrances/oud/a-5508/l/?rpp=48">Oud</a>                                                                                                    <a href="http://uae.souq.com/ae-en/aromatic/perfumes---and---fragrances-478/a-t/s/?rpp=48&amp;amp;sortby=">Aromatic</a>                                                                                                    <a href="http://uae.souq.com/ae-en/chypre/perfumes---and---fragrances-478/a-t/s/?rpp=48&amp;amp;sortby=">Chypre</a>                                                                                                    <a href="http://uae.souq.com/ae-en/citrus/perfumes---and---fragrances-478/a-t/s/?rpp=48&amp;amp;sortby=">Citrus</a>                                                                                                    <a href="http://uae.souq.com/ae-en/floral/perfumes---and---fragrances-478/a-t/s/?rpp=48&amp;amp;sortby=">Floral</a>                                                                                                    <a href="http://uae.souq.com/ae-en/leather/perfumes---and---fragrances-478/a-t/s/?rpp=48&amp;amp;sortby=">Leather</a>                                                                                                    <a href="http://uae.souq.com/ae-en/oriental/perfumes---and---fragrances-478/a-t/s/?rpp=48&amp;amp;sortby=">Oriental</a>                                                                                                    <a href="http://uae.souq.com/ae-en/woody/perfumes---and---fragrances-478/a-t/s/?rpp=48&amp;amp;sortby=">Woody</a>                                                                                            </div>
+                                        </dd>
+                                    
+                                                            
+                                     
+                                        <dd class="accordion-navigation">
+                                            
+                                            <a href="http://uae.souq.com/ae-en/#panel13" class="level2">Toys &amp; Gaming <i></i></a>
+                                            <div id="panel13" class="content">
+                                                                                                    <a href="http://uae.souq.com/ae-en/toys/action-figures|action-figure/a-1446/l/?rpp=48&amp;amp;sortby=">Action Figures</a>                                                                                                    <a href="http://uae.souq.com/ae-en/toys/arts---and---crafts/a-1446/l/?rpp=48&amp;amp;sortby=">Arts &amp; Crafts</a>                                                                                                    <a href="http://uae.souq.com/ae-en/bikes_scooters/l/?rpp=48&amp;amp;sortby=">Bikes, Scooters &amp; Ride-Ons</a>                                                                                                    <a href="http://uae.souq.com/ae-en/toys/blaster-toys/a-1446/l/?rpp=48&amp;amp;sortby=">Blaster Toys</a>                                                                                                    <a href="http://uae.souq.com/ae-en/toys/construction,-building-sets,---and---blocks/a-1446/l/?rpp=48&amp;amp;sortby=">Building Sets &amp; Blocks</a>                                                                                                    <a href="http://uae.souq.com/ae-en/toys/board-games---and---cards%7Ccollection-cards%7Ccards,-games---and---puzzles%7Cjigsaws---and---puzzles/a-1446/l/">Cards, Games &amp; Puzzles</a>                                                                                                    <a href="http://uae.souq.com/ae-en/toys/dolls%7Cdolls---and---dollhouses/a-1446/l/?rpp=48&amp;amp;sortby=">Dolls &amp; Dollhouses</a>                                                                                                    <a href="http://uae.souq.com/ae-en/toys/educational-toys|education---and---learning-toys/a-1446/l/?rpp=48&amp;amp;sortby=">Education &amp; Learning Toys</a>                                                                                                    <a href="http://uae.souq.com/ae-en/toys/kid's-electronic-toys%7Celectronic-toys%7Crobotics/a-1446/l/">Kid's Electronic Toys</a>                                                                                                    <a href="http://uae.souq.com/ae-en/toys/musical-toys%7Cmusic-instruments---and---karaoke/a-1446/l/">Musical Instruments &amp; Karaoke</a>                                                                                                    <a href="http://uae.souq.com/ae-en/outdoor_play/l/?rpp=48&amp;amp;sortby=">Outdoor Play</a>                                                                                                    <a href="http://uae.souq.com/ae-en/toys/pretend-play|pretend---and---dress-up|pretend-play---and---dress--up/a-1446/l/?rpp=48&amp;amp;sortby=">Pretend &amp; Dress Up</a>                                                                                                    <a href="http://uae.souq.com/ae-en/toys/stuffed-toys%7Cstuffed-animals%7Cpuppets,-stuffed-animals---and---soft-toys/a-1446/l/?rpp=48&amp;amp;sortby=">Puppets, Stuffed Animals &amp; Soft Toys</a>                                                                                                    <a href="http://uae.souq.com/ae-en/toys/vehicles---and---remote--control%7Cremote-controlled-toys%7Cremote-control-toys%7Cvehicles,-models---and---play-sets%7Ccars%7Cboats/a-1446/l/?rpp=48&amp;amp;sortby=">Vehicles &amp; Remote Controlled Toys</a>                                                                                                    <a href="http://uae.souq.com/ae-en/games/xbox-360%7Cxbox-one%7Cxbox/a-41/l/">Microsoft Xbox</a>                                                                                                    <a href="http://uae.souq.com/ae-en/games/playstation-3%7Cplaystation-portable%7Cplaystation-4%7Cplaystation-2%7Cplaystation%7Cplaystation-vita/a-41/l/">Sony PlayStation</a>                                                                                                    <a href="http://uae.souq.com/ae-en/games/nintendo-wii%7Cnintendo-wii-u%7Cnintendo-3ds%7Cnintendo-ds%7Cnintendo-game-cube/a-41/l/">Nintendo Wii &amp; DS Series</a>                                                                                                    <a href="http://uae.souq.com/ae-en/games/pc%7Cpc-games/a-41/l/">PC Games</a>                                                                                                    <a href="http://uae.souq.com/ae-en/games-console/xbox-360%7Cxbox-one/a-41/l/">Microsoft Xbox</a>                                                                                                    <a href="http://uae.souq.com/ae-en/games-console/playstation-portable%7Cplaystation-3%7Cplaystation-4%7Cplaystation-3-slim%7Cplaystation-portable-vita/a-41/l/">Sony PlayStation</a>                                                                                                    <a href="http://uae.souq.com/ae-en/games-console/nintendo-wii-u%7Cwii%7Cnintendo-ds%7Cnintendo-3ds-xl%7Cnintendo%7Cnintendo-wii%7Cnintendo-3ds/a-41/l/">Nintendo Wii &amp; DS Series</a>                                                                                            </div>
+                                        </dd>
+                                    
+                                                            
+                                    
+										<dt class="font-normal">
+                                            
+                                            <a href="http://uae.souq.com/ae-en/shop-all-categories/c/" class="level2">Shop All Categories</a>                                        </dt>
+                                    
+                                                            
+                                    
+										<dt class="font-normal">
+                                            
+                                            <a href="http://uae.souq.com/ae-en/advanced_search.php" class="level2">Advanced Search</a>                                        </dt>
+                                    
+                                                    </dl>
+                    </li>
+                            
+            <li><label>Country</label></li>
+                            <li><a href="#" class="country-canvas" data-code="ae">UAE</a></li>
+                            <li><a href="#" class="country-canvas" data-code="eg">Egypt</a></li>
+                            <li><a href="#" class="country-canvas" data-code="sa">Saudi</a></li>
+                            <li><a href="#" class="country-canvas" data-code="kw">Kuwait</a></li>
+            			 
+	           		           			           			<li><a href="#" class="country-canvas" data-code="bh">Bahrain</a></li>
+	           			           		           			           			<li><a href="#" class="country-canvas" data-code="om">Oman</a></li>
+	           			           		           			           			<li><a href="#" class="country-canvas" data-code="qa">Qatar</a></li>
+	           			           		           			           	           	            <li><label>Language</label></li>
+            <li><a href="http://uae.souq.com/ae-ar/privacy-policy/c/">العربية</a></li>
+        </ul>
+    </aside>
+
+<a class="exit-off-canvas"></a>		<div class="search clearfix">    <div class="desktop-nav medium-6 large-5 columns">
+        <ul class="h-list text-default">
+            <li><a href="http://uae.souq.com/ae-en/shop-all-categories/c/">Shop by Category&nbsp;<i class="fi-chevron-down"></i></a></li>
+            <li><a href="http://uae.souq.com/ae-en/sell-on-souq/c/">Sell with Us&nbsp;<i class="fi-chevron-down"></i></a></li>
+            <li><a href="http://deals.souq.com/ae-en/">Daily Deals</a></li>
+        </ul>
+    </div>
+    <div class="wrap small-12 medium-6 large-7 columns">
+        <div class="row">
+            <div class="small-12 columns">
+				<form action="/search_results.php" id="searchForm" method="get">                <div id="search_box" class="row collapse relative">
+                    <div class="columns small-10">						<input type="text" id="search_value" name="q" placeholder="What are you looking for?" autocomplete="off">                    </div>
+					                    <div class="columns small-2 columns">
+                        <div class="button radius postfix">
+							<input type="submit" id="searchButton" value="" class="formButton expand block">															<i class="fi-magnifying-glass"></i>
+							                        </div>
+                    </div>
+                </div>
+                </form>            </div>
+        </div>
+    </div>
+</div>		<!-- check if you have cms box, add it inside the content dev and show this block -->
+                <!-- //end -->
+        <main class="main-section">
+						<div class="row">
+				<div class="small-12 columns" id="flash-sess">
+									</div>
+			</div>
+			<div id="content-body">
+				<div class="row">
+	<div class="small-12 large-12 columns">
+		<h3 class="slider-header"></h3><div class="headline">
     <a href="http://uae.souq.com/ae-en/">Souq.com</a> » Privacy policy	
 </div> 
 
@@ -1458,304 +526,195 @@ If you are concerned that your username or password has been compromised, please
 <p style="margin-bottom:10px;font-size:14px;"><strong>How you can contact us about privacy questions
 </strong></p>
 <p style="margin-bottom:25px">If you have questions or concerns about our collection and use of your personal information, please contact our customer support team at the "Customer Support" link at the top of any Site webpage.
-</p>
-
-	</div>
-</div></div></div>
-	<!-- IE Column Clearing -->
-	<div id="ie_clearing">&nbsp;</div>
+</p>	</div>
 </div>
-
-	<div id="body-bottom" class="width-100p clearfix"><div class="align-c mart-10">
-<script type="text/javascript" src="http://partner.googleadservices.com/gampad/google_service.js">
-</script>
-<script type="text/javascript">
-
-GS_googleAddAdSenseService("ca-pub-6255947219771119");
-GS_googleEnableAllServices();
-
-</script>
-<script type="text/javascript">
-
-GA_googleAddSlot("ca-pub-6255947219771119", "Spring_SubCatPage_Leader_728x90");
-
-</script>
-<script type="text/javascript">
-
-GA_googleAddAttr("country", "ae");
-
-</script>
-<script type="text/javascript">
-
-GA_googleAddAttr("language", "en");
-
-</script>
-<script type="text/javascript">
-
-GA_googleFetchAds();
-
-</script>
-<!-- Spring_SubCatPage_Leader_728x90 -->
-<script type="text/javascript">
-
-GA_googleFillSlot("Spring_SubCatPage_Leader_728x90");
-
-</script>
-</div><script type="text/javascript">
-				/* <![CDATA[ */
-					var google_conversion_id = 991721008;
-					var google_conversion_label = "9Q61CKCnowQQsOzx2AM";
-					var google_custom_params = window.google_tag_params;
-					var google_remarketing_only = true;
-				/* ]]> */
-				</script>
-				<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
-				</script>
-				<noscript>
-					<div style="display:inline;">
-						<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/991721008/?value=0&amp;label=9Q61CKCnowQQsOzx2AM&amp;guid=ON&amp;script=0"/>
-					</div>
-				</noscript></div>
-	                        </div> 
-                    	</div>
-                    					
-                	</div>
-            	
-        	</div>
-    	</div>
-    	</div>
-    	<div id="mobile_popup_overlay" class="hide" style="display:none;"></div><!--mobile-popup-overlay-->
-    	<div id="popup_window" class="hide" style="display:none;">
-    		<div class="closeContainer"><a href="javascript:void(0);" id="Mobpop_Close_Button" class="align-r"><img src="http://cf1.souqcdn.com/static/ltr/en/images/qsouq/common/close-button.png"></a></div><!--closeContainer-->
-	    	<!--<div class="align-c">
-	    		<img class="popup-logo" src="http://cf1.souqcdn.com/static/ltr/en/images/qsouq/header/souq-logo-en.png" width="80%" />
-    		</div>-->
-	        <div class="align-c txt18 mart-15 marb-15 ldscape-mart-5 ldscape-marb-10">
-	        	<span class="txt12 ldscape-txt10 font-bold">Never Miss a Deal!</span><br>
-	            <span class="txt10 ldscape-txt10 font-bold">Download our FREE Mobile App &amp; Get Extra Discount!</span>
-			</div>
-	        <div class="align-c">
-	        	<a href="http://souq.com/apps" onclick="pushData('Mobile Apps','HP Apps Popup','Mobile Apps','http://souq.com/apps');s.linkTrackVars='eVar3,eVar20';s.eVar3='Mobile App Tracking';s.eVar20='Mobile App Tracking';s.tl(this,'o','Mobile Apss Tracking');"><img src="http://cf1.souqcdn.com/static/ltr/en/images/qsouq/common/install-mobapp.png" class="mobAppImg" width="95%" border="0"></a>
-        	</div>
-	        <div class="padt-10 padb-10 width-100p align-c text-decor-non">
-	        	<a href="javascript:void(0);" onclick="mobPopup.passPopupStep();" class="text-decor-non">Continue to Site &gt;</a>
-	        </div>
-    	</div><!--popup-window-->
-	    	    
-<footer class="clear">
-
-<div class="footer-categories-wrapper">
-	<div class="footer-categories-content">
-		<div class="col1 hidden-phone">
-				<strong class="title">Popular Searches</strong>
-	<ul class="list1">
-											<li>
-					<a href="http://uae.souq.com/ae-en/iphone-6/s/">IPhone 6</a>
-				</li>
-																							<li>
-					<a href="http://uae.souq.com/ae-en/international-shipping/c/">International Shipping</a>
-				</li>
-																							<li>
-					<a href="http://uae.souq.com/ae-en/shoes/s/">Shoes</a>
-				</li>
-																							<li>
-					<a href="http://uae.souq.com/ae-en/travel-bag/s/">Travel BAG</a>
-				</li>
-																							<li>
-					<a href="http://uae.souq.com/ae-en/iphone-5s/s/">iPhone 5S</a>
-				</li>
-																							<li>
-					<a href="http://uae.souq.com/ae-en/samsung-galaxy-s4/s/">Samsung Galaxy S4</a>
-				</li>
-																							<li>
-					<a href="http://uae.souq.com/ae-en/casio-watches/s/">Casio Watches</a>
-				</li>
-																							<li>
-					<a href="http://uae.souq.com/ae-en/samsung-galaxy-s4-mini/s/">Samsung Galaxy S4 Mini</a>
-				</li>
-																							<li>
-					<a href="http://uae.souq.com/ae-en/camera/s/">Camera</a>
-				</li>
-																							<li>
-					<a href="http://uae.souq.com/ae-en/tv/s/">TV</a>
-				</li>
-																	</ul>
-	
-	<ul class="list2">
-																			<li>
-					<a href="http://uae.souq.com/ae-en/samsung-galaxy-s5/c/">Samsung Galaxy S5</a>
-				</li>
-																							<li>
-					<a href="http://uae.souq.com/ae-en/tablet/s/">Tablet</a>
-				</li>
-																							<li>
-					<a href="http://uae.souq.com/ae-en/iphone-5/s/">iPhone 5</a>
-				</li>
-																							<li>
-					<a href="http://uae.souq.com/ae-en/samsung/s/">Samsung</a>
-				</li>
-																							<li>
-					<a href="http://uae.souq.com/ae-en/laptop/s/">Laptop</a>
-				</li>
-																							<li>
-					<a href="http://uae.souq.com/ae-en/nokia/s/">Nokia</a>
-				</li>
-																							<li>
-					<a href="http://uae.souq.com/ae-en/ipad-air/s/">iPad AIR</a>
-				</li>
-																							<li>
-					<a href="http://uae.souq.com/ae-en/iphone-4/s/">iPhone 4</a>
-				</li>
-																							<li>
-					<a href="http://uae.souq.com/ae-en/ps4/s/">PS4</a>
-				</li>
-																							<li>
-					<a href="http://uae.souq.com/ae-en/macbook-pro/s/">Macbook PRO</a>
-				</li>
-									</ul>
-
-		</div>
-
-		<div class="col2">
-			<strong class="title">My Account</strong>
-			<ul>
-									<li class="link-nofollow" id="nofollow-login" data-content="Sign In" data-content2="Register" data-href="https://ssl.souq.com/ae-en/login.php" data-href2="https://ssl.souq.com/ae-en/register.php"></li>
-								<li class="link-nofollow" data-content="My account" data-href="https://ssl.souq.com/ae-en/account.php"></li>
-				<li class="link-nofollow" data-content="My shopping cart" data-href="http://uae.souq.com/ae-en/shopping_cart.php"></li>
-				<li class="link-nofollow" data-content="My orders" data-href="https://ssl.souq.com/ae-en/account_orders_new.php"></li>
-				<li class="link-nofollow" data-content="My wish list" data-href="https://ssl.souq.com/ae-en/account_lists.php"></li>
-				<li class="link-nofollow" data-content="My listed offers" data-href="https://ssl.souq.com/ae-en/account_units.php?status=available"></li>
-			</ul>
-			<br>
-			<strong class="title">Intellectual Property</strong>
-			<ul>
-				<li class="link-nofollow" data-content="Brand and Copyright Owners" data-href="http://uae.souq.com/ae-en/intellectual-property-rights/c/"></li>
-				<li class="link-nofollow" data-content="Marketplace Sellers" data-href="http://uae.souq.com/ae-en/intellectual-property-rights/c/#MP"></li>
-			</ul>
-		</div>
-
-		<div class="col3 hidden-phone">
-			<strong class="title">Selling on Souq.com</strong>
-			<ul>
-			    <li><a href="http://uae.souq.com/ae-en/sell-on-souq/c/">Sell on souq.com</a></li>
+<!-- Advertisement Area / Dont Print this block if there is no Ads here --> 
+<div class="row ad hide">
+    <div class="show-for-medium-up small-12 columns ads-box">
+        <!-- Spring_SubCatPage_Leader_728x90 --> 
+        <div id="div-gpt-ad-1421766553421-0" style="">
+        </div>
+    </div>
+</div>
+<!-- /Advertisement Area -->			</div>
+            <!-- Advertisement Area / Dont Print this block if there is no Ads here --> 
+<div class="row ad hide">
+    <div class="show-for-medium-up small-12 columns ads-box">
+        <!-- Spring_Search/Browse_Leader_728X90 --> 
+        <div id="div-gpt-ad-1428411616106-0" style="width:728px;margin:0 auto;">
+        </div>
+    </div>
+</div>
+<!-- /Advertisement Area -->        </main>
+        <footer>
+            <!-- FOOTER -->
+    <div class="first-row row">
+        <div class="large-3 large-push-9 columns">
+            <div class="panel callout-panel radius customer-service-panel">
+    <h6>Customer Service</h6>
+    <ul class="footer-links">
+        <li><a href="http://uae.souq.com/ae-en/contact_us.php"><i class="fi-mail"></i> Contact us</a></li>
+		<li>
+            <span rel="tel">(+971)-4-437 0900</span>Daily, 8 AM to 10 PM        </li>
+    </ul>
+</div>            <h6 class="">Follow Us</h6>
+            <ul class="inline-list
+            ">
+                <li><a href="http://twitter.com/souq" class="social"><i class="fi-social-twitter"></i></a></li><li><a href="https://www.facebook.com/Souq" class="social"><i class="fi-social-facebook"></i></a></li><li><a href="http://plus.google.com/111946600928891793342" class="social"><i class="fi-social-google_plus"></i></a></li><li><a href="http://www.youtube.com/user/souqchannel?sub_confirmation=1" class="social"><i class="fi-social-youtube"></i></a></li>            </ul>
+            <h6>Download our apps</h6>
+            <ul class="inline-list">
+                <li>
+                <a href="http://ad-x.co.uk/API/click/sqsq5785863/am554cf6476d3927" class="social"><i class="fi-social-android"></i></a>                </li>
+                <li>
+                <a href="http://ad-x.co.uk/API/click/sqsq5785863/am554cf6476d3927" class="social"><i class="fi-social-apple"></i></a>                </li>
+                <li>
+                <a href="http://ad-x.co.uk/API/click/sqsq5785863/am554cf6476d3927" class="social"><i class="fi-social-windows"></i></a>                </li>
+            </ul>
+        </div>
+        <div class="large-3 large-pull-3 columns show-for-medium-up">
+                <h6>Popular Searches</h6>
+    <ul class="footer-links">
+                    <li>
+                <a href="http://uae.souq.com/ae-en/iphone-6/s/">
+                    IPhone 6                </a>
+            </li>
+                    <li>
+                <a href="http://uae.souq.com/ae-en/white-friday/c/">
+                    White Friday                </a>
+            </li>
+                    <li>
+                <a href="http://uae.souq.com/ae-en/international-shipping/c/">
+                    International Shipping                </a>
+            </li>
+                    <li>
+                <a href="http://uae.souq.com/ae-en/travel-bag/s/">
+                    Travel Bag                </a>
+            </li>
+                    <li>
+                <a href="http://uae.souq.com/ae-en/iphone-5/s/">
+                    iPhone 5                </a>
+            </li>
+                    <li>
+                <a href="http://uae.souq.com/ae-en/samsung/s/">
+                    Samsung                </a>
+            </li>
+                    <li>
+                <a href="http://uae.souq.com/ae-en/iphone-5s/s/">
+                    iPhone 5S                </a>
+            </li>
+                    <li>
+                <a href="http://uae.souq.com/ae-en/samsung-galaxy-s4/s/">
+                    Samsung Galaxy S4                </a>
+            </li>
+                    <li>
+                <a href="http://uae.souq.com/ae-en/tablet/s/">
+                    Tablet                </a>
+            </li>
+                    <li>
+                <a href="http://uae.souq.com/ae-en/shoes/s/">
+                    Shoes                </a>
+            </li>
+            </ul>
+        </div>
+        <div class="large-3 large-pull-3 columns">
+            <h6>My Account</h6>
+<ul class="footer-links">
+    <li>
+                <a href="http://uae.souq.com/ae-en/login.php">Log In</a> 
+        <a href="http://uae.souq.com/ae-en/register.php"> / Register</a>            </li>
+    <!-- <li><a href="http://uae.souq.com/ae-en/account.php">My Account</a></li> -->
+    <li><a href="http://uae.souq.com/ae-en/shopping_cart.php">My Shopping Cart</a></li>
+    <li><a href="http://uae.souq.com/ae-en/account.php">My Orders</a></li>
+    <li><a href="http://uae.souq.com/ae-en/account_addresses.php">My Addresses</a></li>
+    <li><a href="http://uae.souq.com/ae-en/account_lists.php">Wish Lists</a></li>
+    <li><a href="http://uae.souq.com/ae-en/account_settings.php">Account Settings</a></li>
+    <li><a href="https://ssl.souq.com/ae-en/account_overview.php">Account Summary</a></li> 
+    <!-- <li><a href="http://uae.souq.com/ae-en/account_units.php?status=available">My listed offers</a></li> -->
+</ul>
+            <h6>Intellectual Property</h6>
+            <ul class="footer-links">
+                <li><a href="http://uae.souq.com/ae-en/intellectual-property-rights/c/">Brand and Copyright Owners</a></li>
+                <li><a href="http://uae.souq.com/ae-en/intellectual-property-rights/c/#MP">Marketplace Sellers</a></li>
+            </ul>
+        </div>
+        <div class="large-3 large-pull-3 columns show-for-medium-up">
+            <h6>Selling on Souq.com</h6>
+            <ul class="footer-links">
+                <li><a href="http://uae.souq.com/ae-en/sell-on-souq/c/">Sell on souq.com</a></li>
                 <li><a href="http://uae.souq.com/ae-en/selling-how-it-works/c/">How It Works</a></li>
+                <!--<li></li>-->
                 <li><a href="http://uae.souq.com/ae-en/selling-fees/c/">Selling Fees</a></li>
                 <li><a href="http://uae.souq.com/ae-en/selling-faqs/c/">FAQs</a></li>
-                <li><strong>Learning Center</strong></li>
+            </ul>
+            <h6>Learning Center</h6>
+            <ul class="footer-links">
                 <li><a href="http://uae.souq.com/ae-en/learning-classes/c/">Classes</a></li>
                 <li><a href="http://uae.souq.com/ae-en/learning-library/c/">Library</a></li>
             </ul>
-			<br>
-			<strong class="title">Buying on Souq.com</strong>
-			<ul class="buying">
-				<li class="link-nofollow" data-content="How to Buy" data-href="http://uae.souq.com/ae-en/how_to_buy/c/"></li>
-								<li class="link-nofollow" data-content="Easy Payment Plans" data-href="http://uae.souq.com/ae-en/ae_easy_pay/c/"></li>
-								<li class="link-nofollow" data-content="Return Policy" data-href="http://uae.souq.com/ae-en/return-policy/c/"></li>
-				<li class="link-nofollow" data-content="FAQs" data-href="http://uae.souq.com/ae-en/faqs/c/"></li>
-				<li class="link-nofollow" data-content="Advertise with us" data-href="http://uae.souq.com/ae-en/advertise-with-us/c/"></li>
-			</ul>
-		</div>
-		
-		<div class="col4">
-			<strong class="title">Customer Service</strong>
-			<a href="http://uae.souq.com/ae-en/contact_us.php" rel="nofollow" class="display-block marb-15">Contact us</a>
-			<div class="footer-CallUs">
-				                    <p>Questions? Call us</p>
-                    <p class="phone" dir="ltr">(+971)-4-437 0900</p>
-                    <p>Daily from 8AM - 12 Midnight</p>
-							</div>
-			<div class="footer-followUs hidden-phone">
-				<strong class="title">Follow Us:</strong>
-				<a href="https://www.facebook.com/SouqUAE" target="_blank" class="icon_f"></a>				<a href="http://twitter.com/souq" target="_blank" class="icon_t"></a>				<a href="http://plus.google.com/111946600928891793342" rel="publisher" target="_blank" class="icon_g"></a>							</div>
-			<div class="footer-followUs">
-				<strong class="title">Download our mobile app</strong>
-				<a href="https://play.google.com/store/apps/details?id=com.souq.app" target="_blank" class="google_play" title="Souq on google play"></a>
-				<a href="http://www.windowsphone.com/en-us/store/app/souq/63803e57-4aae-42c7-80e0-f9e60e33b1bc" target="_blank" class="windows_app" title="Souq on windows store"></a>
-				<a href="https://itunes.apple.com/us/app/id675000850" target="_blank" class="app_store" title="souq on Apple - iTunes"></a>
-				
-			</div>
-		</div>
-	</div>
-</div>
-	
-<div class="footer-payment-wrapper">
-	<div class="footer-payment-content">
-		<div class="safepay hidden-phone"> 
-			<span class="safepay-icon"></span> 
-			<p>Guarantees 100% protection to both buyers &amp; sellers</p> 
-		</div>
-		
-		<div class="payment-icons">
-			<span class="icon4"></span>
-			<span class="icon1"></span>
-			<span class="icon2"></span>
-			<span class="icon0"></span>
-			 <span class="icon6"></span>									<span class="icon8"></span>
-		</div>
-	</div>
-</div>
-	
-<div class="footer-links-wrapper">
-	<div class="footer-links-content">
-		<a href="http://uae.souq.com/ae-en/" class="footer-logo"></a>
-		<p>Your Online Megastore</p>
-		<ul>
-			<li><a href="http://uae.souq.com/ae-en/about-us/c/">About us</a> <span class="sep">|</span></li>
-			<li><a href="http://blog.souq.com/">Blog</a> <span class="sep">|</span></li>
-            <li><a href="http://uae.souq.com/ae-en/media-press/c/">Media Center</a> <span class="sep">|</span></li>
-			<li><a href="http://jobs.souq.com">Jobs</a> <span class="sep">|</span></li>
-			<li><a href="http://uae.souq.com/ae-en/privacy-policy/c/" rel="nofollow">Privacy policy</a> <span class="sep">|</span></li>
-			<li><a href="http://uae.souq.com/ae-en/terms-and-conditions/c/" rel="nofollow">Terms and conditions</a> <span class="sep">|</span></li>
-			<li>Copyright ©</li>
-		</ul>
-		<div>
-						 <a href="http://uae.souq.com" class="country">UAE</a>
-			  | 						 <a href="http://egypt.souq.com" class="country">Egypt</a>
-			  | 						 <a href="http://saudi.souq.com" class="country">Saudi</a>
-			  | 						 <a href="http://kuwait.souq.com" class="country">Kuwait</a>
-			 					</div>
-	</div>
-</div>
 
-</footer>	    
-		<div id="back_to_top" class="hide top-box-fixed zindex-999999999"></div>
-
-	    
-	    	    								<script type="text/javascript" src="http://cf3.souqcdn.com/static/javascript/min/screen.201411130916.min.js"></script>
-													<!-- Google Code for Visitors Remarketing List -->
-			<script type="text/javascript">
-			/* <![CDATA[ */
-			var google_conversion_id = 1022785428;
-			var google_conversion_language = "en";
-			var google_conversion_format = "3";
-			var google_conversion_color = "666666";
-			var google_conversion_label = "oaWDCPq4mwIQlO_Z5wM";
-			var google_conversion_value = 0;
-			/* ]]> */
-			</script>
-			<script type="text/javascript" src="http://www.googleadservices.com/pagead/conversion.js">
-			</script>
-			<noscript>
-			<div style="display:inline;">
-			<img height="1" width="1" style="border-style:none;" alt="" src="http://www.googleadservices.com/pagead/conversion/1022785428/?label=oaWDCPq4mwIQlO_Z5wM&amp;guid=ON&amp;script=0"/>
-			</div>
-			</noscript>
-											<script type="text/javascript" src="http://cf1.souqcdn.com/static/javascript/min/cms.201404021012.min.js"></script>
-																<script type="text/javascript">
-			//<![CDATA[
-				var page_name="souq:ae:CMS-privacy-policy";var channel_name="CMS-privacy-policy";var s_language="en";var s_PageType="CMS";var s_SiteSection_L2="CMS";var s_SiteSection_L3="CMS";var s_country="ae";var s_SSLLink="http://";var server_name="uae.souq.com";
-			//]]>
-			</script>
-													<script type="text/javascript">
-			//<![CDATA[
-				var amc=amc||{};if(!amc.on){amc.on=amc.call=function(){}};
-			document.write("<scr"+"ipt type=\"text/javascript\" src=\"//www.adobetag.com/d4/v2/ZDQtc291cS0yMDAwMDAyMzktMzU2/amc.js\"></sc"+"ript>");
-			//]]>
-			</script><script type="text/javascript" src="//www.adobetag.com/d4/v2/ZDQtc291cS0yMDAwMDAyMzktMzU2/amc.js"></script>
-													<script type="text/javascript">
-			//<![CDATA[
-				var s_code=s.t();if(s_code)document.write(s_code)
-			//]]>
-			</script>
-					    <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-3.newrelic.com","licenseKey":"9b6069bd09","applicationID":"2243585,481779","transactionName":"ZFIGNhRUVhcFUBFRCV0YMRAPGnspN3AKVhJBWAgOA0cWFAxD","queueTime":0,"applicationTime":327,"ttGuid":"","agentToken":"","userAttributes":"","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-476.min.js"}</script>
-<script src="https://js-agent.newrelic.com/nr-476.min.js"></script></body></html>
+            <h6>Buying on Souq.com</h6>
+            <ul class="footer-links">
+                <li><a href="http://uae.souq.com/ae-en/how_to_buy/c/">How to Buy</a></li>
+                                    <li><a href="http://uae.souq.com/ae-en/ae_easy_pay/c/">Easy Payment Plans</a></li>
+                                <li><a href="http://uae.souq.com/ae-en/return-policy/c/">Return Policy</a></li>
+                <li><a href="http://uae.souq.com/ae-en/faqs/c/">FAQs</a></li>
+                <li><a href="http://www.souq.com/advertise-with-us/en/" target="_blank">Advertise with us</a></li>
+            </ul>
+        </div>
+    </div>
+	<div class="footer-payment-wrapper show-for-medium-up hide">
+	    <div class="row">
+	      <div class="small-12 large-4 columns">
+	        <span class="safe-pay"></span>
+	        Guarantees 100% protection to both buyers &amp; sellers	      </div>
+	      <div class="small-12 large-7 large-offset-1 columns payment-icons">
+	        <span class="cod"></span>
+	        <span class="visa"></span>
+	        <span class="mastercard"></span>
+	        <span class="cashu"></span>
+	        <span class="paypal"></span>
+	        <span class="verified_visa"></span>
+	        <span class="secure_code"></span>
+	      </div>
+	    </div>
+	</div>            <!-- FOOTER -->
+<div class="second-row">
+    <div class="row">
+        <div class="small-12 columns">
+        <strong>© 2015 Souq.com</strong>
+        </div>
+    </div>
+    <div class="row">
+        <div class="small-12 columns footer-lower-links">
+            <ul class="h-list text-default">
+                <li><a href="http://uae.souq.com/ae-en/about-us/c/">About us</a></li>
+                <li><a href="http://blog.souq.com">Blog</a></li>
+                <li><a href="http://uae.souq.com/ae-en/media-press/c/">Media Center</a></li>
+                <li><a href="http://jobs.souq.com">Jobs</a></li>
+                <li><a href="http://uae.souq.com/ae-en/privacy-policy/c/">Privacy policy</a></li>
+                <li><a href="http://uae.souq.com/ae-en/terms-and-conditions/c/">Terms and conditions</a></li>
+                <li><a href="https://affiliates.souq.com/">Affiliate Program</a></li>
+            </ul>
+        </div>
+    </div>
+    <div class="row">
+        <div class="small-12 columns footer-lower-links">
+            <ul class="h-list text-default footer-country-link">
+                <li><a href="http://uae.souq.com/ae-ar/privacy-policy/c/">العربية</a></li>
+                                <li><a href="http://uae.souq.com/">UAE</a></li>
+                                <li><a href="http://egypt.souq.com/">Egypt</a></li>
+                                <li><a href="http://saudi.souq.com/">Saudi</a></li>
+                                <li><a href="http://kuwait.souq.com/">Kuwait</a></li>
+                            </ul>
+        </div>
+    </div>
+</div>
+        </footer>
+		    </div>
+    <!-- /INNER WRAP -->
+</div>
+<!-- /GLOBAL WRAPPER -->	<script type="text/javascript" src="http://cf1.souqcdn.com/public/js/../dist/js/engine/libs.e0e44f432200054d1c20cba51d43411a.js"></script>
+<script type="text/javascript" src="http://cf2.souqcdn.com/public/js/../dist/js/pages/cms/index.e0e44f432200054d1c20cba51d43411a.js"></script>
+<script type="text/javascript" src="http://cf5.souqcdn.com/public/js/../dist/js/souq/souq.e0e44f432200054d1c20cba51d43411a.js"></script>
+<script type="text/javascript">var page_name="souq:ae:CMS-privacy_policy";var channel_name="CMS-privacy_policy";var s_language="en";var s_PageType="CMS";var s_SiteSection_L2="CMS";var s_SiteSection_L3="CMS";var s_country="ae";var s_SSLLink="http://";var server_name="uae.souq.com";</script><script type="text/javascript">var amc=amc||{};if(!amc.on){amc.on=amc.call=function(){}};document.write("<scr"+"ipt type=\"text/javascript\" src=\"//www.adobetag.com/d4/v2/ZDQtc291cS0yMDAwMDAyMzktMzU2/amc.js\"></sc"+"ript>");</script><script type="text/javascript" src="//www.adobetag.com/d4/v2/ZDQtc291cS0yMDAwMDAyMzktMzU2/amc.js"></script><script type="text/javascript">var s_code=s.t();if(s_code)document.write(s_code);globals.omniture = s;</script><script type="text/javascript">(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start': new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0], j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src= '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f); })(window,document,'script','dataLayer','GTM-N2RCPF');</script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"9b6069bd09","applicationID":"2243585,481779","transactionName":"ZFIGNhRUVhcFUBFRCV0YJxcVQVcJS3AoayVcWRAQCVlUARYdFVAWbGg3JA==","queueTime":0,"applicationTime":132,"ttGuid":"","agentToken":"","userAttributes":"","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-632.min.js"}</script>
+</body></html>
