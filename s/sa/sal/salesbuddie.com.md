@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the salesbuddie.com privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123195317id_/http%3A//www.salesbuddie.com/OtherFiles/PrivacyPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the salesbuddie.com privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611104149id_/http%3A//www.salesbuddie.com/OtherFiles/PrivacyPolicy.htm) for the most accurate reproduction.*
 
 # Free Advertising and Classified - Buy or Sell for free
 
@@ -112,7 +112,7 @@ Your password is the key to your account. Use unique numbers, letters and specia
 
 ### Accessing, Reviewing and Changing Your Personal Information 
 
-You can see, review and change most of your personal information by signing on to your account. Generally, we will not manually modify your personal information because it is very difficult to verify your identity remotely. You must promptly update your personal information if it changes or is inaccurate. Once you make a public posting, you may not be able to change or remove it. Upon your request, we will close your account and remove your personal information from view as soon as reasonably possible, based on your account activity and in accordance with applicable law. We do retain personal information from closed accounts to comply with law, prevent fraud, collect any fees owed, resolve disputes, troubleshoot problems, assist with any investigations, enforce our [ User Agreement](https://web.archive.org/web/20141123195317id_/http%3A//www.salesbuddie.com/OtherFiles/UserAgreement.htm), and take other actions otherwise permitted by law.
+You can see, review and change most of your personal information by signing on to your account. Generally, we will not manually modify your personal information because it is very difficult to verify your identity remotely. You must promptly update your personal information if it changes or is inaccurate. Once you make a public posting, you may not be able to change or remove it. Upon your request, we will close your account and remove your personal information from view as soon as reasonably possible, based on your account activity and in accordance with applicable law. We do retain personal information from closed accounts to comply with law, prevent fraud, collect any fees owed, resolve disputes, troubleshoot problems, assist with any investigations, enforce our [ User Agreement](https://web.archive.org/web/20150611104149id_/http%3A//www.salesbuddie.com/OtherFiles/UserAgreement.htm), and take other actions otherwise permitted by law.
 
 ### Security 
 
