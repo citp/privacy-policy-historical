@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kriscarr.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230104138id_/http%3A//kriscarr.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kriscarr.com privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611194947id_/http%3A//kriscarr.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - KrisCarr.com
 
@@ -76,6 +76,5 @@ This policy was last modified on 9/17/2012
 
 If there are any questions regarding this privacy policy, you may contact us using the information below:
 
-http://kriscarr.com
-
+http://kriscarr.com  
 sales@kriscarr.com 
