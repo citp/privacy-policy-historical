@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the monstersupplements.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626082928id_/http%3A//monstersupplements.com/store/privacy_policy-1-lang-1.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the monstersupplements.com privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611183433id_/http%3A//monstersupplements.com/store/privacy_policy-1-lang-1.html) for the most accurate reproduction.*
 
 # Privacy Policy :
 
