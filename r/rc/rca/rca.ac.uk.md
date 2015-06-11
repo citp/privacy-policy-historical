@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rca.ac.uk privacy policy that was archived on 2014-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141208112812id_/http%3A//www.rca.ac.uk/contact-us/about-this-website/privacy-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rca.ac.uk privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612014940id_/http%3A//www.rca.ac.uk/contact-us/about-this-website/privacy-cookies) for the most accurate reproduction.*
 
 # Privacy & Cookies | Royal College of Art
 
@@ -14,11 +14,14 @@ The RCA is committed to ensuring that your information is secure. In order to pr
 
 ## Scope
 
-This privacy notice explains how, why and what happens when the Royal College of Art collects  **personal information**  and  **automatically collected data** , concerning:
+This privacy notice explains how, why and what happens when the Royal College of Art collects personal information and automatically collected data, concerning:
 
-  * people who use our services, e.g. those who subscribe to newsletters, or purchase tickets or publications
-  * people who apply online for our programmes of study ([http://applications.rca.ac.uk](http://applications.rca.ac.uk/))
-  * visitors to our websites.
+  * people who use our services, e.g. those who subscribe to newsletters, or purchase tickets or publications  
+
+  * people [who apply online](http://applications.rca.ac.uk/) for our programmes of study  
+
+  * visitors to our websites.  
+
 
 
 
@@ -28,53 +31,29 @@ Whenever personal information is voluntarily given to the RCA by anyone, they co
 
 ## Personal Information
 
-We use personal data to assist in the query, application and admissions process and to provide this information securely to regulatory or funding bodies related to student applications. When we collect personally identifiable information through our website, we will make it clear. We will also make it clear when and what personal information we will collect, and what we intend to do with it.
+#### How do we use your personal information?
 
-Where you have voluntarily given personal information to the RCA for a specific service such as:
+We use personal data to assist in the query, application and admissions process and to provide this information securely to regulatory or funding bodies related to student applications. When we collect personally identifiable information through our website, we will make it clear that we are doing so. We will also make it clear what personal information we will collect, and what we intend to do with it.
 
-  * internal record keeping
-  * student admissions service
-  * Alumni directory service
+Where you have voluntarily given personal information to the RCA for a specific service such as: internal record keeping; student admissions service Alumnet or to obtain an alumni membership card, we will only use it for the purpose for which it has been gathered. For more information, please contact [webmaster@rca.ac.uk](mailto:webmaster@rca.ac.uk).
 
-
-
-we will only use it for the purpose for which it has been gathered. For more information, please contact [webmaster@rca.ac.uk](mailto:webmaster@rca.ac.uk).
-
-  *  **What personal information might we collect?**
-
-
+#### What personal information might we collect?
 
 When individuals register for any of our services: to subscribe to newsletters, make purchases, make an enquiry or report a problem, they may be asked to voluntarily provide personal information such as name, address, telephone number or e-mail address.
 
-Online purchases through our websites will always be made through WorldPay, so credit or debit card details will not be held or used directly by RCA.
+Online purchases through our websites will always be made through WorldPay, a secure payment platform, and donations via BlackBaud Payments Services, so credit or debit card details will not be held or used directly by RCA.
 
-  *  **How do we use your personal information?**
+#### Direct Marketing
 
+Subscribers to newsletters or email lists may be contacted when we promote programmes of study or events that may be of interest. Anyone may at any time request us to stop using their personal data for direct marketing purposes by contacting: [media@rca.ac.uk](mailto:media@rca.ac.uk).
 
+#### Alumni Engagement Programme
 
-We use personal data to assist in the query, application and admissions process and to provide this information securely to regulatory or funding bodies related to student applications. When we collect personally identifiable information through our website, we will make it clear. We will also make it clear when and what personal information we will collect, and what we intend to do with it.
+Alumni who submit their details may be contacted by the RCA Alumni Relations programme to advertise Alumni events and services. We will also from time to time publicise the names of those alumni for whom we no longer hold contact details to other alumni, in hope of reconnecting with them.
 
-Where you have voluntarily given personal information to the RCA for a specific service such as:
+#### Directories
 
-  * internal record keeping
-  * student admissions service
-  * Alumni directory service
-
-
-
-we will only use it for the purpose for which it has been gathered. For more information, please contact [publications@rca.ac.uk](mailto:publications@rca.ac.uk).
-
-  *  **Direct Marketing**
-
-
-
-Subscribers to newsletters or email lists may be contacted to market our programmes of study or events that may be of interest. Anyone may at any time request us to stop using their personal data for direct marketing purposes by contacting: [media@rca.ac.uk](mailto:media@rca.ac.uk).
-
-  *  **Directories**
-
-
-
-If anyone voluntarily submits personal data for inclusion in any RCA directory or information service, it may be seen by anyone else who has access to that directory or service. People should not submit any personal data that they do not want to be made public in this way, no one should send any personal data about anyone else without their permission.
+If anyone voluntarily submits personal data for inclusion in any RCA directory or information service, it may be seen by anyone else who has access to that directory or service. People should not submit any personal data that they do not want to be made public in this way, and no one should send any personal data about anyone else without their express permission.
 
 ## Cookies and Automatically Collected Data
 
@@ -95,19 +74,24 @@ Cookie name: csrftoken
 
 Purpose: Session cookie for security of donations page
 
- **What data might we collect?**
+#### What data might we collect?
 
 We will not associate any data gathered from this site with any personally identifying information from any source. We may also log Internet Protocol (IP) address (but nothing that directly identifies visitors) in order to receive and send the required information over the internet.
 
 Cookies on RCA web sites (with the suffix URL suffix: rca.ac.uk) are used to gather anonymous data such as which pages are viewes, what time the visit occurred, if the visitor has been to the site before, and which site referred the visitor to the web page etc.
 
- **How will we use the data?**
+#### How will we use the data?
 
-  * to provide visitors with a tailored and appropriate experience, when they return to a web site
-  * for analytical purposes – to count the number of unique visits to a pages or click patterns, and in what context visitors navigate through the website, so that we can improve the content and navigation
-  * to report statistics internally and to regulatory authorities on request
-  * to measure web site performance
-  * where such storage or access is strictly necessary for the provision of a service requested by the subscriber, visitor or user.
+  * to provide visitors with a tailored and appropriate experience, when they return to a web site  
+
+  * for analytical purposes – to count the number of unique visits to a pages or click patterns, and in what context visitors navigate through the website, so that we can improve the content and navigation  
+
+  * to report statistics internally and to regulatory authorities on request  
+
+  * to measure web site performance  
+
+  * where such storage or access is strictly necessary for the provision of a service requested by the subscriber, visitor or user.  
+
 
 
 
@@ -117,14 +101,15 @@ The RCA website contains links to other websites. We are not responsible for the
 
 ## Contacts
 
-This is a website of Royal College of Art, an exempt charity which operates under the Terms of a Royal Charter. Our registered office is at Kensington Gore, London SW7 2EU.
+This is a website of the Royal College of Art, an exempt charity which operates under the Terms of a Royal Charter. Our registered office is at Kensington Gore, London SW7 2EU.
 
-Individuals have certain rights of access to their personal data. If you want to request any information about your personal data, please contact: [publications@rca.ac.uk](mailto:publications@rca.ac.uk).
+Individuals have certain rights of access to their personal data. If you want to request any information about your personal data, please contact: [publications@rca.ac.uk](mailto:publications@rca.ac.uk).  
 
-If you are not satisfied with how we have dealt with your request, you may contact the [Information Commissioner's Office](http://www.ico.org.uk/complaints).
+
+If you are not satisfied with how we have dealt with your request, you may contact the  [Information Commissioner's Office](http://www.ico.org.uk/complaints).
 
 * * *
 
-Updated 20 November 2013
+Updated January 2015
 
 ## [@RCAevents twitter](http://twitter.com/RCAevents)
