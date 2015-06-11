@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the topgfx.com privacy policy that was archived on 2014-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141223194150id_/http%3A//topgfx.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the topgfx.com privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611165815id_/http%3A//topgfx.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy » TOPGFX | Daz3d Renderosity Poser 3D Stuff Free Download
 
