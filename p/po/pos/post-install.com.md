@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the post-install.com privacy policy that was archived on 2014-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140820131821id_/http%3A//post-install.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the post-install.com privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611112018id_/http%3A//post-install.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - post-install.com
 
