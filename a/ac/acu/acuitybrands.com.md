@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the acuitybrands.com privacy policy that was archived on 2014-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140703230737id_/http%3A//www.acuitybrands.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acuitybrands.com privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611043000id_/http%3A//www.acuitybrands.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Effective: November 1, 2011 
+Effective: November 1, 2011
 
 Acuity Brands knows that you are concerned about online security and privacy information. This Privacy Policy applies to all of the websites offered by Acuity Brands, Inc. or its subsidiaries or affiliated companies located in the United States (the “Site”). We appreciate your trust that we will act responsibly with any information you share through this Site.
 
-## Collection of Personal Information, Financial Information and Information Sharing
+**Collection of Personal Information, Financial Information and Information Sharing**
 
 The Site allows anonymous viewing of all public information on the Site. You can view the information on these pages without telling us who you are. There may be some pages on the Site that request certain personally identifying information from you, such as name, address, email address, phone and fax numbers, company name, title or job position. We may also collect information about your interest in Acuity Brands products, services, job openings or other transactions that you or your organization may enter with Acuity Brands through these pages. These pages include feedback forms, employment applications, registration forms, order forms, information requests, online surveys, contests and other forms that may appear on the Site. If you fill out one of these forms, or send email or other communications to Acuity Brands, you may be asked to supply personal information for our record keeping and follow-up. Any information you provide will be received and stored by Acuity Brands, and may be shared with employees, independent contractors, sales agents, background checking organizations, fulfillment companies and other third party business partners, as necessary or appropriate based on a relevant business need to know. We may use information you submit to process your inquiries, provide you a requested product or service, or communicate with you. We may also use information about you to provide further information to you about our products and services, or improve our products and services. We do not sell or share your personal information with unaffiliated organizations for commercial purposes unrelated to the business of Acuity Brands.
 
@@ -18,16 +18,20 @@ In addition, if you submit your own content in any forum, information sharing ch
 
 If you are located outside of the United States, please note that the Site is hosted on our computer servers in the United States. Any personal information collected through the Site may be transferred to the United States and other countries that might not provide an equivalent level of protection as the data protection laws in your home country. Your use of the Site or submission of any personal information will constitute your consent to the transfer of your personal information outside of your home country. Also, the recipient of personal information that you post in any blog or other online forum on the Site may be located in the United States or another jurisdiction that may not provide an equivalent level of data protection to the laws in your home country.
 
-## Non-Identifying Information
+**Non-Identifying Information**
 
-Certain types of non-identifying information are collected and stored automatically during each visitor's session on the Site by using information that your browser sends whenever you visit a website. This information may include, but is not limited to, information such as your web request, Internet Protocol address, browser type, browser language, the date and time of your request and one or more cookies that may uniquely identify your browser. We also log and track which pages are visited to enable us to measure traffic usage and patterns and we use a web analytics tool to obtain geographic information about Site visitors. Acuity Brands reserves the right to share aggregate and anonymous information with potential partners and other third parties without restriction.  
+Certain types of non-identifying information are collected and stored automatically during each visitor's session on the Site by using information that your browser sends whenever you visit a website. This information may include, but is not limited to, information such as your web request, Internet Protocol address, browser type, browser language, the date and time of your request and one or more cookies that may uniquely identify your browser. We also log and track which pages are visited to enable us to measure traffic usage and patterns and we use a web analytics tool to obtain geographic information about Site visitors. Acuity Brands reserves the right to share aggregate and anonymous information with potential partners and other third parties without restriction.
+
 Like many sites, this site may use "cookies" to recognize a visitor’s computer on subsequent visits to this site, directly and/or through its web analytics tool. Cookies are small files created by web sites that reside on the hard drive of the visitor’s computer and that store information about a visitor’s use of a particular web site.
 
-## Miscellaneous
+**Miscellaneous**
 
-The Site has taken commercially reasonable precautions to protect the data and information under our control from misuse, loss or alteration. Unfortunately, no system can ensure complete security.  
-The Site may contain links to other sites. While we try to link only to sites that share our high standards and respect for privacy, we are not responsible for the content or the privacy practices employed by other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information.  
-Acuity Brands does not knowingly collect or maintain any personal information from children under the age of 13. In addition, no part of our site is designed with the purpose of attracting any person under age 13. We request that children do not provide personally identifiable information through the Site.  
+The Site has taken commercially reasonable precautions to protect the data and information under our control from misuse, loss or alteration. Unfortunately, no system can ensure complete security.
+
+The Site may contain links to other sites. While we try to link only to sites that share our high standards and respect for privacy, we are not responsible for the content or the privacy practices employed by other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information.
+
+Acuity Brands does not knowingly collect or maintain any personal information from children under the age of 13. In addition, no part of our site is designed with the purpose of attracting any person under age 13. We request that children do not provide personally identifiable information through the Site.
+
 We reserve the right to amend this Privacy Policy and will post any revisions on the Site.
 
-Questions or comments about this Privacy Policy or the practices of the Site, or requests to opt out from any promotional communications, should be directed to [CorporateCompliance@acuityBrands.com](mailto:). If your personal information changes, and you wish to update or delete the personal information that we maintain about you, you may also email us at [CorporateCompliance@acuityBrands.com](mailto:).
+Questions or comments about this Privacy Policy or the practices of the Site, or requests to opt out from any promotional communications, should be directed to [CorporateCompliance@acuityBrands.com](mailto:CorporateCompliance@acuityBrands.com?subject=Comments%20about%20Privacy%20Policy%20AB.com). If your personal information changes, and you wish to update or delete the personal information that we maintain about you, you may also email us at [CorporateCompliance@acuityBrands.com](mailto:CorporateCompliance@acuityBrands.com?subject=Personal%20Info%20Change).
