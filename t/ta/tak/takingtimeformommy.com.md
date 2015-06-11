@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the takingtimeformommy.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120122427id_/http%3A//takingtimeformommy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the takingtimeformommy.com privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611084343id_/http%3A//takingtimeformommy.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Taking Time for Mommy
+
+**0** Flares Twitter 0 Facebook 0 Google+ 0 StumbleUpon 0 Email \-- Reddit 0 Filament.io **0** Flares ×
 
 At www.takingtimeformommy.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.takingtimeformommy.com and how it is used.
 
