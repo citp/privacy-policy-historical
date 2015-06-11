@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stylenet.com privacy policy that was archived on 2014-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141125173302id_/http%3A//stylenet.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stylenet.com privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611162628id_/http%3A//stylenet.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Salon Design Online! Websites for Salons & Spas, Web Marketing by StyleNet | Mobile Website Design | Increase Page Rank with our SEO Services | Texting Marketing
 
@@ -6,7 +6,7 @@ Our mission is to make it easier, faster and more cost effective for Salon Owner
 
 ### Billing
 
-If at any time you decide to cancel your StyleNet subscription, simply call us at 888-595-0676 or [contact us online](https://web.archive.org/web/20141125173302id_/http%3A//stylenet.com/contact.php) stating your desire to cancel. Upon notification, your subscription and web site will be terminated within 24 hours and there will be no additional charges by StyleNet.
+If at any time you decide to cancel your StyleNet subscription, simply call us at 888-595-0676 or [contact us online](https://web.archive.org/web/20150611162628id_/http%3A//stylenet.com/contact.php) stating your desire to cancel. Upon notification, your subscription and web site will be terminated within 24 hours and there will be no additional charges by StyleNet.
 
 ### Privacy Policy 
 
@@ -36,7 +36,7 @@ If users have any questions or suggestions regarding our policy, please contact:
 
 Michael D. Reader  
 CEO Niche Media, LLC D/B/A StyleNet  
-512 Autumn Springs Ct, Ste 104E  
-Franklin, TN 37067  
+134 4th Ave N  
+Franklin, TN 37064  
 Office Phone: 888-595-0676  
 Email: michael@stylenet.com
