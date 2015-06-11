@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the eurocontrol.int privacy policy that was archived on 2014-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141221023506id_/https%3A//www.eurocontrol.int/articles/privacy-terms-use) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eurocontrol.int privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611031450id_/https%3A//www.eurocontrol.int/articles/privacy-terms-use) for the most accurate reproduction.*
 
 # Privacy & terms of use | Eurocontrol
 
-EUROCONTROL is committed to ensuring that your privacy is protected.
+We are committed to ensuring that your privacy is protected.
 
 The only information gathered during general browsing is from standard server logs. These include your IP (Internet Protocol) address, domain name, browser type, operating system, and information such as the website that referred you to us, the files you download, the pages you visit, and the dates/times of those visits.
 
-The following personal information may be collected  in case of registration or subscription to one of our online services or products or events:
+**The following personal information may be collected   in case of registration or subscription to one of our online services or products or events:**
 
   * Name, job title and organisation
   * Contact information including e-mail address
@@ -16,7 +16,7 @@ The following personal information may be collected  in case of registration or
 
 The information gathered during general browsing of the “eurocontrol.int” domain is used to analyse trends and usage of the EUROCONTROL website and to improve the usability and usefulness of the site. It is not connected with any personal information.
 
-EUROCONTROL may collect personal information by which you can be identified for the following reasons:
+**EUROCONTROL may collect personal information by which you can be identified for the following reasons:**
 
   * Contact you in response to a query or suggestion
   * Manage and process your job application
@@ -34,9 +34,9 @@ If you have previously agreed to us using your personal information for the purp
 
 EUROCONTROL will not sell, distribute or lease your personal information to third parties. EUROCONTROL will not use your personal information to send you promotional information about third parties which we think you may find interesting.
 
-If you believe that any information we are holding on you is incorrect or incomplete, please [contact us](mailto:webmaster@eurocontrol.int) as soon as possible.
+If you believe that any information we are holding on you is incorrect or incomplete, please [contact us](mailto:web@eurocontrol.int) as soon as possible.
 
-## Use of cookies
+##  Use of cookies
 
 A cookie is a small file which asks permission to be placed on your computer's hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.
 
