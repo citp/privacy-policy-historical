@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the file-extension.com privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123190046id_/http%3A//www.file-extension.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the file-extension.com privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612005728id_/http%3A//www.file-extension.com/privacy) for the most accurate reproduction.*
 
 # File-extension.com
 
@@ -53,7 +53,7 @@ Uniblue Systems Ltd. processes personal information only for the purposes for wh
 
 Please note that this Privacy Policy may change from time to time. We will not reduce your rights under this Policy without your explicit consent, and we expect most such changes will be minor. Regardless, we will post any Policy changes on this page and, if the changes are significant, we will provide a more prominent notice (including, for certain services, email notification of Policy changes). Each version of this Policy will be identified at the top of the page by its effective date, and we will also keep prior versions of this Privacy Policy in an archive for your review. 
 
-[ ](http://www.uniblue.com/cm/fileextension/pcmechanic/sidebar/download/)
+[ ](http://www.uniblue.com/cm/fextensioncom/pcmechanicpm/sidebar_pm/download/)
 
   
 
