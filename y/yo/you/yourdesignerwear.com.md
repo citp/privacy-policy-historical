@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the yourdesignerwear.com privacy policy that was archived on 2014-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141223023640id_/http%3A//www.yourdesignerwear.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yourdesignerwear.com privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611145207id_/http%3A//www.yourdesignerwear.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy Notice :
+# Privacy Notice
 
 **YourDesignerWear.com** \- We respect your privacy and we are very much committed to the same.
 
