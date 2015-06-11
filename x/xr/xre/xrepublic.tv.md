@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xrepublic.tv privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625044430id_/http%3A//xrepublic.tv/node/28) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xrepublic.tv privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612002026id_/http%3A//xrepublic.tv/node/28) for the most accurate reproduction.*
 
 # Privacy Policy | XRepublic
 
@@ -67,7 +67,7 @@ Please also visit our Terms and Conditions section establishing the use, disclai
 
 **Your Consent**
 
-By using our site, you consent to our [privacy policy](http://www.freeprivacypolicy.com/).
+By using our site, you consent to our privacy policy.
 
 **Changes to our Privacy Policy**
 
@@ -79,9 +79,7 @@ This policy was last modified on 08/10/2012
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-htt://xrepublic.tv  
-P.O. Box 83698  
-Grosse Pointe Woods, Michigan 48236  
-USA  
-[Email Us](http://xrepublic.tv/contact)  
+htt://xrepublic.tv
+
+[Email Us](http://xrepublic.tv/contact) to [xrepublictv1@gmail.com](mailto:xrepublictv1@gmail.com)  
 (866) 757-2476
