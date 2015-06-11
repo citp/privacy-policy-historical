@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the skinnykitchen.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230060741id_/http%3A//www.skinnykitchen.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skinnykitchen.com privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611165020id_/http%3A//www.skinnykitchen.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Skinny Kitchen
 
 [](http://www.printfriendly.com/print?url=http%3A%2F%2Fwww.skinnykitchen.com%2Fprivacy-policy%2F)
 
-This privacy policy sets out how Nancy’s Healthy Kitchen Inc. uses and protects any information that you give while using [www.skinnykitchen.com](https://web.archive.org/web/20141230060741id_/http://www.skinnykitchen.com/privacy-policy/www.skinnykitchen.com). Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
+This privacy policy sets out how Nancy’s Healthy Kitchen Inc. uses and protects any information that you give while using [www.skinnykitchen.com](https://web.archive.org/web/20150611165020id_/http://www.skinnykitchen.com/privacy-policy/www.skinnykitchen.com). Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
 
 Nancy’s Healthy Kitchen Inc. may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 2/21/2013.
 
