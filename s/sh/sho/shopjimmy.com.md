@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shopjimmy.com privacy policy that was archived on 2014-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141228042613id_/http%3A//www.shopjimmy.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shopjimmy.com privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611185718id_/http%3A//www.shopjimmy.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy and TV Parts Disclaimer | ShopJimmy
 
@@ -81,7 +81,7 @@ Our site includes links to other websites whose privacy practices may differ fro
 
 Our website offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, please contact us. In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
 
-### Single Sigm-On
+### Single Sign-On
 
 You can log in to our site using sign-in services such as Facebook Connect or an Open ID provider. These services will authenticate your identity and provide you the option to share certain personal information with us such as your name and email address to pre-populate our sign up form. Services like Facebook Connect give you the option to post information about your activities on this Web site to your profile page to share with others within your network. 
 
