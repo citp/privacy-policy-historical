@@ -1,89 +1,78 @@
-> *The following text is extracted and transformed from the dineout.co.in privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701121210id_/http%3A//www.dineout.co.in/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dineout.co.in privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611034628id_/http%3A//www.dineout.co.in/privacy-policy) for the most accurate reproduction.*
 
-# Dineout
+# 
 
-**Privacy Policy -**   By providing your personal details to dineout, you signify your acceptance of our Privacy Statement. If you do not agree to this statement, please do not provide your personal details to us. This privacy statement is incorporated into, and part of the Terms and Conditions, found at [terms-and-conditions](http://www.dineout.co.in/term_condition/), which govern your use of the Site in general. We will use your information for the purposes set out in the section titled ‘Our use of personal information’ below. You will have an opportunity to unsubscribe whenever we communicate with you. To unsubscribe from dineout communications please send an email to [admin@dineout.co.in](mailto:admin@dineout.co.in) with 'unsubscribe' in the subject box.
+Times Internet Limited, ("TIL") is a wholly owned subsidiary of Bennett Coleman & Co. Limited and powers / manages the website [www.dineout.co.in](http://www.dineout.co.in/)
 
-We may need to update this privacy statement from time to time. We recommend that you regularly check this page to ensure that you have read the most recent version.
+TIL respects the privacy of it's users and is committed to protect it in all respects. With a view to offer most enriching and holistic internet experience to it's users TIL offers a vast repository of Online Sites and variety of community services. The information about the user as collected by TIL is: (a) information supplied by users and (b) information automatically tracked while navigation (Information).
 
-**1\. Collecting personal information**  
-You can decide what personal information you provide to us. We will only collect personal information that you choose to provide. Where possible, we will enable you to select how we will use this information (for example, by choosing to opt-in or opt-out of receiving special promotional offers).
+By using TIL's website or its services, you consent to collection, storage, and use of the personal information you provide (including any changes thereto as provided by you) for any of the services that we offer.
 
-You may choose to provide us with personal information if, for example, you: (a) contact us with an enquiry; (b) register on the Site; (c) fill out a survey or other form with your personal information included; (d) request that we provide you with information; (e) enter a competition; (f) post information such as restaurant reviews; or (e) participate in a promotion.
+##### USER INFORMATION 
 
-You have the opportunity to choose not to opt-in receive communications from us at any point where we request information about you.
+To avail certain sites / services on our websites, users are required to provide certain information for the registration process that may include but not limited to :- a) your name, b) email address, c) sex, d) age, e) PIN code , f) credit card or debit card details g) medical records and history h) sexual orientation, i) biometric information, j) password etc., and / or your occupation, interests, and the like. The Information as supplied by the users enables us to improve our sites and provide you the most user-friendly experience.
 
-By providing any personal information to us, you fully understand and clearly consent to the transfer of such personal information to, and the collection and processing of such information in, other countries or territories. Any such transfer and processing by us will be in accordance with this privacy policy.
+All required information is service dependent and TIL may use the above said user information to, maintain, protect, and improve its services (including advertising services) and for developing new services
 
-**Third parties**  
-(including but not limited to software providers, advertisers and ad placement agencies) may also use tracking technologies by or through the Site. We have no responsibility or liability for any tracking, data collection or other activities of such third parties.
+Such information will not be considered as sensitive if it is freely available and accessible in the public domain or is furnished under the Right to Information Act, 2005, any rules made there under or any other law for the time being in force.
 
-**Social media**  
-You can choose to access certain third party social media web sites and services through the dineout website. When you do so, you are sharing information with those sites, and the information you share will be governed by their privacy policies. You can modify your privacy settings with those third parties directly. We do not control the privacy policies of such third parties and assumes no responsibility or liability for the actions of such third parties.
+##### COOKIES
 
-**2\. Our use of personal information**  
-We will use information collected from you in the following ways:
+To improve the responsiveness of the sites for our users, we may use "cookies", or similar electronic tools to collect information to assign each visitor a unique, random number as a user identification (User ID) to understand the user's individual interests using the identified computer. Unless you voluntarily identify yourself (through registration, for example), we will have no way of knowing who you are, even if we assign a cookie to your computer. The only personal information a cookie can contain is information you supply (an example of this is when you ask for our Personalised Horoscope). A cookie cannot read data off your hard drive. Our advertisers may also assign their own cookies to your browser (if you click on their ads), a process that we do not control. 
 
-**Marketing purposes:**  
-We may use information for internal marketing analysis, for example, to assess trends amongst our consumers or to measure the amount of traffic to our Sites. However, you will be able to opt out of these communications at any time. We may also share non-personal information with others, such as advertisers, in aggregate anonymous form, which means that the information will not contain any personally identifiable information about you.
+Our web servers automatically collect limited information about your computer's connection to the Internet, including your IP address, when you visit our site. (Your IP address is a number that lets computers attached to the Internet know where to send you data -- such as the web pages you view.) Your IP address does not identify you personally. We use this information to deliver our web pages to you upon request, to tailor our site to the interests of our users, to measure traffic within our site and let advertisers know the geographic locations from where our visitors come. 
 
-**Information we provide to restaurants:**  
-When you make a restaurant reservation using our website, your name and telephone number are provided to the restaurant to secure your booking. Your email address may also be provided to that restaurant, so that they can, if necessary, confirm any details including, but not limited to, applicable dietary requirements, special preferences, requests, set menus, or group bookings etc. Your details are not provided to that restaurant for marketing purposes unless you specifically indicate that you are interested in receiving promotional emails from that restaurant.
+##### LINK TO THIRD PARTY SITES
 
-We will only share the information specified above with the restaurant at which you have made reservations using our website. Restaurants cannot access information pertaining to diners or dining histories from other restaurants, with the exception that restaurants under the same corporate ownership may elect to share diner information between restaurant properties.
+TIL includes links to other websites. Such sites are governed by their respective privacy policies, which are beyond our control. Once you leave our servers (you can tell where you are by checking the URL in the location bar on your browser), use of any information you provide is governed by the privacy policy of the operator of the site you are visiting. That policy may differ from ours. If you can't find the privacy policy of any of these sites via a link from the site's homepage, you should contact the site directly for more information.
 
-**How restaurants handle your information:**  
-dineout restaurants want to provide you with the best possible service so that you will visit them again. One way restaurants can distinguish themselves is by recognising returning diners and recalling their special preferences. If a restaurant chooses to note your preferences, that information may be typed into its System manually just as a restaurant might write a note on an index card. This data belongs to the restaurant, since it is a product of that restaurant's relationship with you. We do not access or use this information, and it is not shared with any other restaurant or third party. We create back-up copies of all information stored on the System for particular restaurant, to assist in the restoration process in the event of data loss.
+When we present information to our advertisers -- to help them understand our audience and confirm the value of advertising on our website -- it is usually in the form of aggregated statistics on traffic to various pages within our site. When you register with TIL, we contact you from time to time about updation of your content to provide the users such features that we believe may benefit you.
 
-The restaurants within dineout’s network are separate businesses. While dineout encourages them to comply with data protection requirements, we will not be responsible if these restaurants fail to comply with respect to your information. Any complaints or inquiries regarding use of your information by a restaurant, or marketing communications from a restaurant, should be addressed directly to the restaurant in question.
+##### INFORMATION SHARING
 
-Restaurants may receive summary reports of feedback from recent diners. If you provide comments about a restaurant (via our website review) these will be shared with that restaurant anonymously. However there is the potential that a restaurant may associate a particular feedback with your dining reservation. You may choose not to be anonymous while submitting your comments if you specify your identity or provide contact information such as an email address for the restaurant to use in response to your feedback.
+TIL shares the sensitive personal information to any third party without obtaining the prior consent of the User in the following limited circumstances: 
 
-**Email from restaurants:**  
-You may also consent to receive marketing communications from the restaurant at which you've made a reservation. We play no role in the content, frequency, timing or unsubscription process of any restaurant's marketing communications. If you would like to unsubscribe from a restaurant's marketing communications, please contact the appropriate restaurant directly.
+**a)** When it is requested or required by law or by any court or governmental agency or authority to disclose, for the purpose of verification of identity, or for the prevention, detection, investigation including cyber incidents, or for prosecution and punishment of offences. These disclosures are made in good faith and belief that such disclosure is reasonably necessary for enforcing these Terms; for complying with the applicable laws and regulations. 
 
-**Transactional purposes:**  
-We may use your personal information in order to respond to your queries and requests and to manage transactions such as credit card payments for any goods that you order from us or any of our agents, or for the fulfilment of such transactions (e.g. delivery). The personal information you provide may be used by an authorised vendor to fulfil that order. Notwithstanding the forgoing, we do not store your financial details.
+**b)** TIL proposes to share such information within its group companies and officers and employees of such group companies for the purpose of processing personal information on its behalf. We also ensure that these recipients of such information agree to process such information based on our instructions and in compliance with this Privacy Policy and any other appropriate confidentiality and security measures.
 
-**Third party offers:**  
-We may arrange for carefully selected organisations to send you marketing and promotional information that may be of interest to you. In such circumstances your personal information may be disclosed to these organisations who will agree to be bound by the terms of this privacy statement. We will obtain your permission before we send you any such communications.
+**ACCESSING AND UPDATING PERSONAL INFORMATION**  
+When you use TIL's websites, we make good faith efforts to provide you, as and when requested by you, with access to your personal information and shall further ensure that any personal information or sensitive personal data or information found to be inaccurate or deficient shall be corrected or amended as feasible, subject to any requirement for such personal information or sensitive personal data or information to be retained by law or for legitimate business purposes. We ask individual users to identify themselves and the information requested to be accessed, corrected or removed before processing such requests, and we may decline to process requests that are unreasonably repetitive or systematic, require disproportionate technical effort, jeopardize the privacy of others, or would be extremely impractical (for instance, requests concerning information residing on backup tapes), or for which access is not otherwise required. In any case where we provide information access and correction, we perform this service free of charge, except if doing so would require a disproportionate effort. Because of the way we maintain certain services, after you delete your information, residual copies may take a period of time before they are deleted from our active servers and may remain in our backup systems. 
 
-**Public (or interactive) areas of the Site:**  
-Information that you post on or through the public areas of the Site (e.g. chat rooms, bulletin boards and discussion groups) are generally accessible to, and may be collected and used by, others and may result in unsolicited messages or other contact from others. Users of the Site are encouraged to exercise caution when providing personal information about themselves in public areas of this Site.
+##### INFORMATION SECURITY
 
-**Sale and transfer:**  
-In the event of a sale, merger, consolidation, change in control, transfer of substantial assets, reorganisation or liquidation, we may transfer, sell, or assign to third parties information concerning your relationship with us, including without limitation, personally identifiable information that you provide and other information concerning your relationship with us.
+We take appropriate security measures to protect against unauthorized access to or unauthorized alteration, disclosure or destruction of data. These include internal reviews of our data collection, storage and processing practices and security measures, including appropriate encryption and physical security measures to guard against unauthorized access to systems where we store personal data. 
 
-**Administration and data management:**  
-We may transfer your personal information to third parties under confidentiality obligations when the performance of any service in relation to the activities above is sub-contracted (e.g. the administration of a marketing campaign).
+All information gathered on TIL is securely stored within the TIL controlled database. The database is stored on servers secured behind a firewall; access to the servers is password-protected and is strictly limited. However, as effective as our security measures are, no security system is impenetrable. We cannot guarantee the security of our database, nor can we guarantee that information you supply will not be intercepted while being transmitted to us over the Internet. And, of course, any information you include in a posting to the discussion areas is available to anyone with Internet access. 
 
-**Legal purpose:s**   
-We may disclose your personal information if permitted by law or required to do so by law or where we believe such action is necessary in order to protect or defend our interests or the interests of our customers or users of our Site.
+However the internet is an ever evolving medium. We may change our privacy policy from time to time to incorporate necessary future changes. Of course, our use of any information we gather will always be consistent with the policy under which the information was collected, regardless of what the new policy may be. 
 
-**Links:**   
-This Site may contain links or references to other Web sites outside of our control. Please be aware that we have no control over these sites and our privacy statement does not apply to these sites. We encourage you to read the privacy statements and terms and conditions of linked or referenced sites you enter.
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. Any complaints or concerns with regards to content or to report any abuse of laws or breach of these terms may be taken up with the designated grievance officer as mentioned below via post or by sending an email to [info@dineout.co.in](mailto:info@dineout.co.in) to 
 
-**3\. Use of cookies**  
-In common with many websites, we use "cookies" to help us gather the following information from visitors to the dine out websites, for example:
+Mr. Ankit Mehrotra( "Grievance Officer") 
 
-  * the IP address from which you access the Site
-  * the type of browser and operating system used to access the Site
-  * the date and time of your access to the Site
-  * the pages you visit
-  * the internet address of the website from which you accessed the Site
+##### Grievance Redressal
+
+Redressal Mechanism: Any complaints, abuse or concerns with regards to content and or comment or breach of these terms shall be immediately informed to the designated Grievance Officer as mentioned below via in writing or through email signed with the electronic signature to . 
+
+Mr. Ankit Mehrotra (Grievance Officer)
+
+**Times Internet Limited**
+
+[www.dineout.co.in](http://www.dineout.co.in/)
+
+Times Internet Limited  
+Plot No. 391, Udyog Vihar, Phase – III,  
+Gurgaon – 122016, Haryana, India.  
+Ph : + 91-124-4187000/4518550. 
+
+We request you to please provide the following information in your complaint:-
+
+  * A physical or electronic signature of a person authorized to act on behalf of the copyright owner for the purposes of the complaint.
+  * Identification of the copyrighted work claimed to have been infringed.
+  * Identification of the material on our website that is claimed to be infringing or to be the subject of infringing activity.
+  * The address, telephone number or e-mail address of the complaining party.
+  * A statement that the complaining party has a good-faith belief that use of the material in the manner complained of is not authorized by the copyright owner, its agent or the law.
+  * A statement, under penalty of perjury, that the information in the notice of copyright infringement is accurate, and that the complaining party is authorized to act on behalf of the owner of the right that is allegedly infringed.
 
 
-
-A cookie is a small data file that our server sends to your browser when you visit the Site. The use of cookies helps us to assist your use of certain aspects of the Site. You can delete cookies at any time or you can set your browser to reject or disable cookies. If you do disable cookies some functions on the Site may not work correctly.
-
-We use information from cookies, for example, to learn about the number of visitors to our Site and the type of technology that our visitors use. Cookies help us to monitor what sort of content is popular and to assess visitors browsing habits. When a user revisits the Site, we may recognise the user by the cookie and customise the user's experience accordingly. We can use this information to continually improve the content and usability of the Site.  
-We may compile and report to third parties (such as advertisers) aggregate statistics about our users in terms of numbers, traffic patterns and related Site information.
-
-We do not connect the information collected through cookies with other information that is personally identifiable, unless required or permitted to do so by law or to enforce the Terms and Conditions.
-
-**4\. How we protect your information**  
-We take security seriously and we take precautions to keep your personal information secure. We have put in place appropriate physical, electronic and managerial procedures to safeguard the information we collect. However, due to the open nature of the Internet, we cannot guarantee that communications between you and the our website, or information stored on the our websites' servers, will be free from unauthorised access by third parties.
-
-**5\. Your details and contacting us**
-
-You can check what personal information we hold about you, update your information, ask us to remove your information, correct any inaccuracies in such personal information or ask us questions about our Privacy Statement by contacting us at admin@dineout.co.in. We will make every effort to respond to your request in a timely manner.
