@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indiaflowergiftshop.com privacy policy that was archived on 2014-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141128110323id_/http%3A//www.indiaflowergiftshop.com/information/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indiaflowergiftshop.com privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611103104id_/http%3A//www.indiaflowergiftshop.com/information/privacy-policy.htm) for the most accurate reproduction.*
 
 # 
 
@@ -27,4 +27,4 @@ We welcomes feedback concerning this Privacy Policy. Please send your comments a
   
 
 
-    All Indian Major Debit/Credit Cards , Net Banking Available, 3000 + Express Delivery Gifts India     We Accept: International Credit/Debit Cards , JCB / American Express Cards, Dinners Citi Cards,     Payment via Paypal Verified Also     Same Day Delivery Accepted till 5 PM IST ||
+##     Send Flowers, Cakes and Gifts Same Day and at Midnight India-wide ||    All Indian Major Debit/Credit Cards , Net Banking Available, 3000 + Express Delivery Gifts India     We Accept: International Credit/Debit Cards , JCB / American Express Cards, Dinners Citi Cards,     Same Day Delivery Accepted till 5 PM IST ||
