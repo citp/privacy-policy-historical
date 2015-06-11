@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the showbie.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121034517id_/http%3A//www.showbie.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the showbie.com privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611171223id_/http%3A//www.showbie.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Showbie
 
@@ -24,28 +24,32 @@ Students who have signed up with an access code provided by a school or teacher 
 
 All students and teachers within a single course group in the password-protected portion of the Showbie site have the ability to view one another’s profiles, but visibility is limited to such information as their names, photographs, and biographies. Students are unable to see the grades of other students, irrespective of whether or not they are members of the same course group on the site.
 
-## 1.4Information of Others
+## 1.4Cookies
+
+Showbie’s web applications use browser cookies to store session data for the currently signed in user. This allows our users to smoothly continue using Showbie after refreshing or closing their browser window. These cookies do not track user activity or transmit information to any third parties, and Showbie’s web applications can not function fully without them. By signing up for Showbie you consent to the use of cookies as it relates to Showbie’s web applications.
+
+## 1.5Information of Others
 
 By inputting any personal information into the Application (including the personal information of others), you consent to the use of that personal information within the Application, and you represent and warrant that you have obtained any permissions or authorizations for any personal information of others that you input or send through the Application.  We do not use, collect or retain any of that information.
 
-## 1.5Communication
+## 1.6Communication
 
 You authorize us to communicate with you regarding our services and your account. You authorize us to communicate with you via the internet and via the email address you have provided. You understand and accept the risk that data and information transmitted over the internet is susceptible to error or security breaches.
 
-## 1.6Information Use & Sharing
+## 1.7Information Use & Sharing
 
 We do not share, trade, sell or in any way disclose your personal information without your consent unless such a disclosure is: (a) required by law; (b) mandated by search warrant or court order; or (c) warranted during investigation of the commission of an offence, a breach of a contract, or breach of a law or regulation.  We may collect, aggregate and anonymize data for system monitoring, quality control and product improvement purposes, provided it does not collect, use or disclose any personal information.
 
-## 1.7Dispute Resolution
+## 1.8Dispute Resolution
 
 In the event you have a question, complaint or dispute regarding your personal information or our personal information handling practices, contact us at the number(s) or email address(es) as displayed in the “Contact Us” section of our Site.
 
-## 1.8Business Transfers
+## 1.9Business Transfers
 
 As a corporate entity, Showbie may elect to buy or sell assets. These transactions normally entail the transferring of user information as a business asset. In such an event any acquirer of Showbie may continue to use personal information as set forth in this Privacy Policy.
 
-## 1.9Changes
+## 2.0Changes
 
 Changes to this Policy may be made from time to time by us, and the modified form of the Policy will take effect 15 days after posting on this page.
 
-Last updated June 20, 2012
+Last updated February 13, 2015
