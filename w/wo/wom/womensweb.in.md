@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the womensweb.in privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121000211id_/http%3A//www.womensweb.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the womensweb.in privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611094219id_/http%3A//www.womensweb.in/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Women's Web: For Women Who Do
+# Privacy Policy
 
 **Information Collected**  
 Currently, Women’s Web collects information from users in two ways:
