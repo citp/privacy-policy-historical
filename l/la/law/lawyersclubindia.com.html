@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the lawyersclubindia.com privacy policy that was archived on 2014-11-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141120035400id_/http%3A//www.lawyersclubindia.com/privacy_policy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the lawyersclubindia.com privacy policy that was archived on 2015-06-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150612000854id_/http%3A//www.lawyersclubindia.com/privacy_policy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -20,6 +20,9 @@
 <meta content="Web PAGE" name="document-type">
 <meta content="knowledge &amp; Designing" name="abstract">
 <meta name="verify-v1" content="nvxv8WexWRBPfrPS96Rx3oCmfD3yqWaMUzvnXk9MG9s=">
+<meta name="google-play-app" content="app-id=com.interactivemedia.lawyersclubindia">
+<meta name="theme-color" content="#689f38">
+
 <link rel="SHORTCUT ICON" href="img/logo.ico">
 <style type="text/css">
 @import url('styles/default_2lac_new.css');
@@ -35,12 +38,111 @@
 <script language="javascript" type="text/javascript" src="js/screens.js"></script>
 
 
-</head>
+<script type="text/javascript">
+$(document).ready(function() {
+    $(".varioussign").fancybox({
+        'width': 425,
+        'height': 525,
+		'padding':0
+    });
+	
+	
+	$(".divfancy").fancybox();
+    $('.div').hover(function() {
+        $(this).animate({
+            width: '146px'
+        },
+        300);
+    },
+    function() {
+        $(this).animate({
+            width: '105px'
+        },
+        300);
+    }); 
+});
+</script>
+
+
+
+<script type="text/javascript">  
+$(document).ready(function() {
+	
+	
+    $(".yellow_notification").delay(3000).slideDown(500);
+    
+    $('.alert-close').on('click', function(c){
+		$('.yellow_notification').fadeOut('slow', function(c){
+	  		$('.yellow_notification').remove();
+		});
+	});
+	
+	$('.alert-close').click(function() {
+//donotshow=1;
+			$.ajax({
+                type: "POST",
+                url: "http://www.lawyersclubindia.com/yellow_box_session.asp"
+                
+});
+});
+});
+</script><style>
+.yellow_notification {
+	display:none;
+	background: #fde073;
+	text-align: center;
+	padding:0 9px;
+	overflow: hidden;
+	-webkit-box-shadow: 0 0 5px black;
+	-moz-box-shadow: 0 0 5px black;
+	box-shadow: 0 0 5px black;
+	margin-bottom:3px;
+}
+.alert-close {
+background: rgba(255,255,255,0.1);
+-webkit-border-radius: 50%;
+-moz-border-radius: 50%;
+-ms-border-radius: 50%;
+-o-border-radius: 50%;
+border-radius: 50%;
+-webkit-box-shadow: inset 0 1px 2px rgba(0, 0, 0, 0.4),inset 0 -1px 2px rgba(255,255,255,0.25);
+-moz-box-shadow: inset 0 1px 2px rgba(0, 0, 0, 0.4),inset 0 -1px 2px rgba(255,255,255,0.25);
+box-shadow: inset 0 1px 2px rgba(0, 0, 0, 0.4),inset 0 -1px 2px rgba(255,255,255,0.25);
+color: #575757;
+cursor: pointer;
+font-size: 18px;
+font-weight: normal;
+height: 22px;
+line-height: 24px;
+position: absolute;
+right: 11px;
+text-align: center;
+top: 9px;
+-webkit-transition: color 0.2s ease-in-out;
+-moz-transition: color 0.2s ease-in-out;
+-o-transition: color 0.2s ease-in-out;
+transition: color 0.2s ease-in-out;
+width: 22px;
+}
+</style></head>
+<!--(not use after new registration)include file="spl_chek.asp"-->
 
 
 
 
-<body>
+
+<body><div class="yellow_notification">
+<a href="http://www.lawyersclubindia.com/learning/cca.asp?utm_source=homepage&amp;utm_medium=yellow_strip&amp;utm_term=lexlearn&amp;utm_campaign=clicks"><font style="font-size:14px; font-weight:bold; line-height:30px">LCI Learn: New courses launched! Advanced Certification in Companies Act, 2013</font></a>
+<div class="alert-close">×</div>
+</div>
+
+
+
+
+
+<!--<a href="user_process3.asp" id="reg_process3" class="iframefancy_reg3"></a>-->
+
+
 <a id="top"></a>
 
 <div id="main">
@@ -52,7 +154,7 @@
 		<input type="text" name="username" size="15" value="Username" onfocus="clearMe(this)" onblur="returnMe(this)">
         <input type="password" name="password" size="15" value="Password" onfocus="clearMe(this)" onblur="returnMe(this)">
 			<input type="submit" name="submit" value="Login">
-			<input style="border: 0" value="1" type="checkbox" name="remember" =""="">Remember | <a href="user_signup.asp"><b>Register</b></a> |
+			<input style="border: 0" value="1" type="checkbox" name="remember" =""="">Remember | <a class="varioussign fancybox.iframe" href="register.asp"><b>Register</b></a> |
 			<a href="user_forgotpassword.asp"><b>Forgot Password?</b></a>
 			<input type="hidden" name="redirect" value="/privacy_policy.asp?">
 		</form>
@@ -64,12 +166,9 @@
 		<a href="https://twitter.com/lawyersclub" target="_blank">
 		<img alt="Follow On Twitter" src="img/twitter.jpg"></a></span><p>&nbsp;</p></div>
 	<div id="header">
-		<div class="logo-holder">
-		<span class="logo"><a href="default.asp">
+		<div class="logo-holder" style="background:url(img/header_3lac.jpg); background-repeat:no-repeat; background-position:left top">
+		<span class="logo" style="width:368px!important"><a href="default.asp">
 		<img src="img/logo.jpg" border="0" alt="Lawyersclubindia.com">
-			
-
-		
 		</a></span>
 		
 				
@@ -88,9 +187,9 @@
 					
 			</td> -->
 								<td><span class="search">
-			<p style="font-size: 1.1em; color: #336699">Member Strength <b>291407</b> 
-			and growing..</p>
-					<br class="spacer">
+			<!-- <p style="font-size: 1.1em; color: #336699">Member Strength <b></b> 
+			and growing..</p> -->
+					<br class="spacer"><br class="spacer"><br><br><br><br>
 						<script type="text/javascript" src="http://www.google.com/jsapi"></script>
 <script type="text/javascript">
   google.load('search', '1');
@@ -202,15 +301,17 @@ addthis_config.data_track_clickback = true;
 									<li>
 									<a href="experts/default.asp" title="Legal Experts &amp; Law Experts">
 									Experts</a></li>
-									<li>
+									<!--<li>
 									<a href="blog/default.asp" title="Legal Blogs &amp; Law Blogs">
-									Blogs</a></li>
+									Blogs</a></li>-->
 									<li>
 									<a href="articles/default.asp" title="Legal Articles &amp; Law Articles">
 									Articles</a></li>
 									<li>
 									<a href="jobs/default.asp" title="Legal Jobs &amp; Law Jobs">
 									Jobs</a></li>
+									<li>
+									<a href="lawyers_search">Lawyers Search</a></li>
 									
 								</ul>
 								</td>
@@ -231,8 +332,7 @@ addthis_config.data_track_clickback = true;
 									<li>
 									<a href="bare_acts/default.asp" title="Legal Bare Acts &amp; Law Bare Acts">
 									<span>Bare Acts</span></a></li>
-									<li>
-									<a href="rss/">RSS</a></li>
+									
 								</ul>
 								</td>
 								<td valign="top">
@@ -252,8 +352,7 @@ addthis_config.data_track_clickback = true;
 									<li>
 									<a href="forms/default.asp" title="Legal Forms &amp; Law Forms">
 									Forms</a></li>
-									<li>
-									<a href="lawyers_search">Lawyers Search</a></li>
+									
 								</ul>
 								</td>
 								<td valign="top">
@@ -273,8 +372,7 @@ addthis_config.data_track_clickback = true;
 									<li>
 									<a href="web_directory/default.asp" title="Legal Web Directory &amp; Law Web Directory">
 									Web Directory</a></li>
-									<li>
-									<a href="mobile.asp">Mobile</a></li>
+									
 								</ul>
 								</td>
 								<td valign="top">
@@ -285,9 +383,9 @@ addthis_config.data_track_clickback = true;
 									<li>
 									<a href="viral/default.asp" title="Legal Recommend &amp; Law Recommend">
 									<span>Recommend</span></a></li>
-									<li>
+									<!--<li>
 									<a href="birthday/default.asp">
-									Today's Birthdays</a></li>
+									Today&#39;s Birthdays</a></li>-->
 									<li>
 									<a href="scorecard_details.asp" title="Legal Scorecard &amp; Law Scorecard">
 									Scorecard</a></li>
@@ -311,14 +409,18 @@ addthis_config.data_track_clickback = true;
 									Top Members</a></li>
 									<!-- <li>
 									<a href="toolbar.asp" title="Legal Tool Bar &amp; Law Tool Bar">
-									Tool Bar</a></li> -->
+									Tool Bar</a></li> 
 									<li>
 									<a href="yearinreview/2013.asp" title="Year In Review 2013"><font color="#FF0000">Year In Review 2013</font></a></li>
 									<li>
 									<a href="groups.asp" title="Legal Groups &amp; Law Groups">
-									Groups</a></li>
+									Groups</a></li>-->
 									<li>
 									<a href="subscribe_feed.asp">Email</a></li>
+									<li>
+									<a href="rss/">RSS</a></li>
+									<li>
+									<a href="mobile.asp">Mobile</a></li>
 								</ul>
 								</td>
 							</tr>
@@ -613,7 +715,7 @@ google_ad_height = 90;
 		<li><a href="contact_us.asp">Contact</a></li>
 	</ul>
 	<br class="spacer">
-	<span class="copy">� 2014 Lawyersclubindia.com.</span> <span>&nbsp;All trademarks 
+	<span class="copy">© 2015 Lawyersclubindia.com.</span> <span>&nbsp;All trademarks 
 	and copyrights are held by respective owners. Members comments/posts and files 
 	are owned by contributors.</span> </div>
 </div>
