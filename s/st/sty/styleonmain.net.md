@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the styleonmain.net privacy policy that was archived on 2014-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141201035001id_/http%3A//styleonmain.net/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the styleonmain.net privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611141200id_/http%3A//styleonmain.net/about/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy » Style on MainStyle on Main
+# Privacy Policy - Style on MainStyle on Main
 
 **0** Flares Twitter 0 Facebook 0 StumbleUpon 0 Email \-- Google+ 0 Reddit 0 LinkedIn 0 Filament.io **0** Flares ×
 
