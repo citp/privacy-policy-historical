@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the toppstiles.co.uk privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122152530id_/http%3A//www.toppstiles.co.uk/page62/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toppstiles.co.uk privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611102733id_/http%3A//www.toppstiles.co.uk/page62/privacy.html) for the most accurate reproduction.*
 
 # Privacy | Topps Tiles
 
@@ -89,4 +89,4 @@ Any changes we may make to our privacy policy in the future will be posted on th
 
 **CONTACT**
 
-Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to customerservices@toppstiles.co.
+Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to customerservices@toppstiles.co.uk
