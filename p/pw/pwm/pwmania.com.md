@@ -1,9 +1,11 @@
-> *The following text is extracted and transformed from the pwmania.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231045654id_/http%3A//www.pwmania.com/site-info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pwmania.com privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611190702id_/http%3A//www.pwmania.com/site-info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | PWMania
 
 This website is the property of Andy Stevens. We take the privacy of all visitors to this Website very seriously and therefore set out in this privacy policy our position regarding certain privacy matters. This privacy policy covers all data that is shared by a visitor with us whether directly via www.pwmania.com directly or via email. This website privacy policy has been created by the Internet marketing experts at Surge Digital for us and is occasionally updated by us so please do re-review from time to time.  
 Our Privacy Policy provides an explanation as to what happens to any personal data that you share with us, or that we collect from you either directly via this Website or via email.
+
+We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit [networkadvertising.org](http://networkadvertising.org/).
 
 **1\. Information We Collect**  
 In operating our website we may collect and process the following data about you:  
@@ -48,4 +50,4 @@ You mind find links to third party websites on our website. These websites shoul
 The Data Protection Act 1998 gives you the right to access the information that we hold about you. Please note that any demand for access may be subject to payment of a fee of £10 which covers our costs in providing you with the information requested. Should you wish to receive details that we hold about you please contact us using the contact details below.
 
 **8\. Contacting Us**  
-We welcome any queries, comments or requests you may have regarding this Privacy Policy. Please do not hesitate to [contact us](http://www.pwmania.com/site-info/contact).
+We welcome any queries, comments or requests you may have regarding this Privacy Policy. Please do not hesitate to contact us at andy[@]pwmania.com.
