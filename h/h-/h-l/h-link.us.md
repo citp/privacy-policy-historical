@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the h-link.us privacy policy that was archived on 2014-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141114201511id_/http%3A//h-link.us/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the h-link.us privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611103127id_/http%3A//h-link.us/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - www.h-link.us/
 
