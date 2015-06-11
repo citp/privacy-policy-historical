@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cssscript.com privacy policy that was archived on 2014-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141116171607id_/http%3A//www.cssscript.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cssscript.com privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611183721id_/http%3A//www.cssscript.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | CSS Script
+# Privacy Policy - CSS Script
 
 This Privacy Policy governs the manner in which CSS Script collects, uses, maintains and discloses information collected from users (each, a “User”) of the http://www.cssscript.com website (“Site”). This privacy policy applies to the Site and all products and services offered by CSS Script.
 
