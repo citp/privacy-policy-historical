@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the yorkvilleu.ca privacy policy that was archived on 2014-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141215052955id_/http%3A//www.yorkvilleu.ca/Privacy-Statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yorkvilleu.ca privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612005735id_/http%3A//www.yorkvilleu.ca/Privacy-Statement) for the most accurate reproduction.*
 
-# Privacy Statement | Yorkville University
+# Privacy Statement - Yorkville University
 
 When visiting Yorkville University’s website, the server automatically collects a limited amount of information essential for the site’s operation and security. This information includes the viewer’s IP address, the name of the viewer’s Internet Service Provider, and information concerning the viewer’s browser and operating system. Such information is used to perform statistical analysis of user trends and interests, and to help us make this site more useful to visitors. Yorkville University makes limited use of “cookies” that track your browser’s use of our site. Cookies are used for purposes such as ensuring that procedures (such as Library procedures) work properly.
 
-[Yorkville University website](https://web.archive.org/) provides information about the Institution and its programs and services. Yorkville does not disclose any information obtained from this site to any other third party.
+[Yorkville University website](http://www.yorkvilleu.ca/) provides information about the Institution and its programs and services. Yorkville does not disclose any information obtained from this site to any other third party.
 
 When using Yorkville University’s website for program or services purposes, such as participating in online courses, requesting services, completing a questionnaire or making payment, the personal information provided for that program or service will be in compliance with Canada Personal Information Protection and Electronic Documents Act (2000) and will be used only for the purpose it was collected. The information will be disclosed only in accordance with the provisions of the Act (See Sections 4.3.1 through 4.3.7).
 
