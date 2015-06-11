@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the electricsense.com privacy policy that was archived on 2014-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141229233959id_/http%3A//www.electricsense.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the electricsense.com privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611234306id_/http%3A//www.electricsense.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | www.electricsense.com
 
