@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vividracing.com privacy policy that was archived on 2014-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140613015313id_/http%3A//www.vividracing.com/catalog/privacy-policy-i-28.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vividracing.com privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612015914id_/http%3A//www.vividracing.com/catalog/privacy-policy-i-28.html) for the most accurate reproduction.*
 
 # VividRacing Shipping & Return Policy
 
