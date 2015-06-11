@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hottestfashiononline.com privacy policy that was archived on 2014-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140930012248id_/http%3A//hottestfashiononline.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hottestfashiononline.com privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611150134id_/http%3A//hottestfashiononline.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Hottest Fashion Online
 
 Your privacy is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and disclose and make use of personal information. The following outlines our privacy policy.
 
