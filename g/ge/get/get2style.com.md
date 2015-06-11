@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the get2style.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120045051id_/http%3A//www.get2style.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the get2style.com privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611115609id_/http%3A//www.get2style.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy | Get2Style.com
 
