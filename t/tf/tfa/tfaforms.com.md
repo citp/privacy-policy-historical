@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the tfaforms.com privacy policy that was archived on 2014-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141116220417id_/http%3A//www3.formassembly.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tfaforms.com privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612001434id_/http%3A//www3.formassembly.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
-### Effective Date: October 16, 2013
+### Effective Date: March 11, 2015
 
 The Veer West LLC Privacy Policy was developed as an extension of our commitment to combine the highest-quality services with integrity in dealing with our Users and Subscribers. The Policy is designed to assist you in understanding how we collect, use and safeguard the personal information you provide to us and to assist you in making informed decisions when using our site and our products and services. This statement will be assessed from time to time against new technologies, business practices and our Subscribers and their Users' needs. 
 
@@ -27,9 +27,9 @@ Users
 
 [](https://privacy.truste.com/privacy-seal/Veer-West-LLC/validation?rid=2afc59f6-c34e-4649-afa2-5c2b1ec48991 "TRUSTe European Safe Harbor certification")
 
-Veer West LLC has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy-program-requirements/) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program covers the web site [formassembly.com](http://www.formassembly.com/). TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. 
+Veer West LLC has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](https://www.truste.com/privacy-program-requirements/) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program covers the web site [formassembly.com](https://www.formassembly.com/). TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. 
 
-If you are not satisfied with our response you can contact [TRUSTe here](https://feedback-form.truste.com/watchdog/request). The TRUSTe program covers only information that is collected through this Web site, and does not cover information that may be collected through software downloaded from the site.
+If you have questions or complaints regarding our privacy policy or practices, please contact us at [contact@formassembly.com](mailto:contact@formassembly.com). If you are not satisfied with our response you can contact [TRUSTe here](https://feedback-form.truste.com/watchdog/request). The TRUSTe program covers only information that is collected through this Web site, and does not cover information that may be collected through software downloaded from the site.
 
 * * *
 
@@ -40,7 +40,7 @@ If you are not satisfied with our response you can contact [TRUSTe here](https:/
 
 [](https://privacy.truste.com/privacy-seal/Veer-West-LLC/validation?rid=2afc59f6-c34e-4649-afa2-5c2b1ec48991 "TRUSTe European Safe Harbor certification")
 
-Veer West LLC complies with the U.S.–E.U. and U.S.–Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland. Veer West LLC has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Veer West LLC's certification, please visit [http://www.export.gov/safeharbor](http://export.gov/safeharbor).
+Veer West LLC complies with the U.S.–E.U. and U.S.–Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland. Veer West LLC has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Veer West LLC's certification, please visit [http://www.export.gov/safeharbor](https://export.gov/safeharbor).
 
 * * *
 
@@ -49,9 +49,11 @@ Veer West LLC complies with the U.S.–E.U. and U.S.–Swiss Safe Harbor Framewo
 
 ## What Information Do We Collect?
 
-When you visit our Web site [www.formassembly.com](http://www.formassembly.com/) you may provide two types of information: personal information you knowingly choose to disclose that is collected on an individual basis and Web site use information collected on an aggregate basis as you and others browse our Web site. 
+When you visit our Web site [www.formassembly.com](https://www.formassembly.com/) you may provide two types of information: personal information you knowingly choose to disclose that is collected on an individual basis and Web site use information collected on an aggregate basis as you and others browse our Web site. 
 
 ### 1\. Personal Information You Choose to Provide
+
+If you choose to subscribe to our services, we collect personal information such as: Name, Email Address, Mailing Address and Credit Card Information.
 
 When a User completes a form created, or purchased, by one of our Subscribers, the User may choose to provide the Subscriber with personal information, such as:
 
@@ -71,7 +73,7 @@ In addition to providing the foregoing information to our Subscribers, if you ch
 
 ### 2\. Web Site Use Information
 
-Similar to other commercial Web sites, our Web site utilizes a standard technology called "cookies" and Web server logs to collect information about how our Web site is used. Information gathered through cookies and Web server logs may include the date and time of visits, the pages viewed, time spent at our Web site, and the Web sites visited just before and just after our Web site. This information is collected on an aggregate basis. None of this information is associated with you as an individual. 
+As is true of most web sites, we gather certain information automatically and store it in log files. This information includes Internet protocol (IP) addresses, browser type, Internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data. We do not link this automatically collected data to other information we collect about you.
 
 * * *
 
@@ -80,9 +82,21 @@ Similar to other commercial Web sites, our Web site utilizes a standard technolo
 
 ## How Do We Use the Information That You Provide to Us?
 
-Broadly speaking, we may use personal information for purposes of administering our business activities and for providing Subscriber service. We are a Web site host and our primary function as it relates to User data is to facilitate use of the forms and to store such User inputted data for use by the Subscriber for their business purposes. We may provide your personal information to companies that provide services to help us with our business activities, such as offering customer service. These companies are authorized to use your personal information only as necessary to provide these services to us. WE DO NOT SELL OR SHARE ANY COLLECTED INFORMATION WITH ANY THIRD PARTY OTHER THAN THE SUBSCRIBER TO WHOM YOU CHOOSE TO PROVIDE INFORMATION TO. WE ARE NOT RESPONSIBLE FOR HOW THE SUBSCRIBER USES THE INFORMATION PROVIDED BY USERS. 
+Broadly speaking, we may use personal information for purposes of administering our business activities and for providing Subscriber service. We are a Web site host and our primary function as it relates to User data is to facilitate use of the forms and to store such User inputted data for use by the Subscriber for their business purposes. We may provide your personal information to companies that provide services to help us with our business activities, such as offering customer service. These companies are authorized to use your personal information only as necessary to provide these services to us. We will share your personal information with third parties only in the ways that are described in this privacy policy. WE DO NOT SELL OR SHARE ANY COLLECTED INFORMATION WITH ANY THIRD PARTY OTHER THAN THE SUBSCRIBER TO WHOM YOU CHOOSE TO PROVIDE INFORMATION TO. WE ARE NOT RESPONSIBLE FOR HOW THE SUBSCRIBER USES THE INFORMATION PROVIDED BY USERS. 
 
-We do not spam email and we do not permit our Subscribers to spam to the extent we can reasonably prevent such efforts. Our [Terms of Service](http://www3.formassembly.com/terms-of-service.php) prohibit all Subscribers from engaging in spam activity. Violations of this policy may result in immediate termination of service and legal action. 
+We do not spam email and we do not permit our Subscribers to spam to the extent we can reasonably prevent such efforts. Our [Terms of Service](https://web.archive.org/terms-of-service.php) prohibit all Subscribers from engaging in spam activity. Violations of this policy may result in immediate termination of service and legal action. 
+
+### Subscriber Credit Card Information
+
+For subscribers, any Credit Card information collected by FormAssembly is used for the following general purposes: 
+
+  1. Product and services provisioning;
+  2. Billing; and,
+  3. Identification and authentication.
+
+
+
+Subscriber Credit Card information is processed and stored by a third-party payment provider, Stripe, Inc., ("Stripe") a certified PCI Level 1 Service Provider. Stripe will never provide your card information to FormAssembly. Stripe will share contact information to FormAssembly to enable FormAssembly to deliver product and services provisioning. Stripe will not share Subscriber information with third-parties unless Subscriber authorizes Stripe to do so. For more information, please review Stripe's Privacy Policy (<https://stripe.com/us/privacy>).
 
 * * *
 
@@ -97,7 +111,7 @@ We enable you to create an account, and share information such as messages, offe
 As part of our service, you have the option to receive our newsletter. Out of respect for your privacy, if you wish to no longer receive our newsletters you may follow the instructions in the email and/or make the appropriate setting changes directly in your account. 
 
 **Service-related Announcements**  
-We will send you strictly service-related announcements on rare occasions when it is necessary to do so. For instance, if our service is temporarily suspended for maintenance, we might send you an email. If you wish to no longer receive our newsletters you may follow the instructions in the email and/or make the appropriate setting changes directly in your account. 
+We will send you strictly service-related announcements on rare occasions when it is necessary to do so. For instance, if our service is temporarily suspended for maintenance, we might send you an email. These emails are service related and not marketing/promotional in nature therefore you might not be able to opt-out. 
 
 **Surveys or Contests**  
 From time-to-time we may provide you the opportunity to participate in contests or surveys on our site. If you participate, we will request certain personally identifiable information from you. Participation in these surveys or contests is completely voluntary and you therefore have a choice whether or not to disclose this information. The requested information typically includes contact information (such as name and shipping address), and demographic information (such as zip code). 
@@ -107,29 +121,26 @@ We use this information to gather feedback on new or improved features, determin
 **Blog and Forum**  
 Our Web site offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. _To request removal of your personal information from our blog or community forum, contact us at_ [contact@formassembly.com](mailto:contact@formassembly.com). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why. 
 
-* * *
-
-  
-
-
-## What Are Cookies?
-
-Cookies are a feature of Web browser software that allows Web servers to recognize the computer used to access a Web site. They are small pieces of data that are stored by a User's Web browser on the User's hard drive. Cookies can remember what information a User accesses on one Web page to simplify subsequent interactions with that Web site by the same User or to use the information to streamline the User's transactions on related Web pages. This makes it easier for a User to move from Web page to Web page and to complete commercial transactions over the Internet. Cookies should make your online experience easier and more personalized. 
-
-### Tracking Technologies and Third Party Cookies
-
-We use Google Analytics, a third-party tracking service, which uses cookies to track non-personally identifiable information about our visitors to our site in the aggregate to capture usage and volume statistics. Some of our business partners (e.g., Google Analytics) use cookies on our site. We have no access to or control over these cookies. This privacy statement covers the use of cookies by Veer West LLC only and does not cover the use of cookies by any third-party. 
+Our blog is also managed by a third party application that may require you to register to post a comment. We do not have access or control of the information posted to the blog. You will need to contact or login into the third party application if you want the personal information that was posted to the comments section removed. To learn how the third party application uses your information, please review their privacy policy.
 
 * * *
 
   
 
 
-## How Do We Use Information We Collect from Cookies?
+## Tracking Technologies
 
-We use Web site browser software tools such as cookies and Web server logs to gather information about our Web site Users' browsing activities in order to constantly improve our Web site and better serve Users. This information assists us to design and arrange our Web pages in the most User-friendly manner and to continually improve our Web site to better meet the needs of Users and Subscribers. 
+Technologies such as: cookies, beacons, tags and scripts are used by Veer West LLC and our partners, affiliates, and analytics and customer support providers. These technologies are used in analyzing trends, administering the site, tracking users’ movements around the site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis.
 
-Cookies help us collect important business and technical statistics. The information in the cookies lets us trace the paths followed by Users to our Web site as they move from one page to another. Web server logs allow us to count how many people visit our Web site and evaluate our Web site's visitor capacity. We do not use these technologies to capture your individual e-mail address or any personally identifying information about you. 
+We use cookies to remember users' settings (e.g., language preference) and for authentication. Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our site, but your ability to use some features or areas of our site may be limited.
+
+### 3rd Party LS/LSO (Local Storage Objects)
+
+Third parties with whom we partner to provide certain features on our marketing site use LSOs such as HTML5 and Flash to collect and store information. Our product does not use third party LSOs. Various browsers may offer their own management tools for removing HTML5 LSOs. To manage Flash LSOs please [click here](https://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html).
+
+### Behavioral Targeting / Re-Targeting
+
+We partner with a third party to manage our advertising of our service on other sites. We use retargeting to advertise our product. Our third party partner may use technologies such as cookies to gather information about your activities on this site and other sites in order to provide you advertising based upon your browsing activities and interests. Please note, you may opt-out of all activity-based ads, from us and others, by clicking [here](https://preferences.truste.com/here) (or if located in the European Union [click here](https://www.youronlinechoices.eu/)).
 
 * * *
 
