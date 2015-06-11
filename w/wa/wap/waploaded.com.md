@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the waploaded.com privacy policy that was archived on 2014-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141213062054id_/http%3A//www.waploaded.com/docs/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the waploaded.com privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611041214id_/http%3A//www.waploaded.com/docs/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Waploaded
 
@@ -32,4 +32,4 @@ Concerns or questions about this privacy policy can be directed to an Administra
 1) A word filter has been put in place to prevent forum members from using sexually explicit words in their posts.   
 2) Our Members have been informed that they need to keep their words clean if the Website is to survive. 
 
-Written: Aug 23; Updated: Dec 09; Read: 2893 times
+Written: Aug 23, 2014; Updated: Dec 09, 2014; Read: 6376 times
