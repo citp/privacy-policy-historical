@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the almarsguides.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122221730id_/http%3A//www.almarsguides.com/privacypolicy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the almarsguides.com privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611102246id_/http%3A//www.almarsguides.com/privacypolicy.cfm) for the most accurate reproduction.*
 
 # Almar's Guides Privacy Policy
 
