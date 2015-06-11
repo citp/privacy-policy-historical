@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cam.com privacy policy that was archived on 2014-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140904050424id_/http%3A//www.cam.com/privacy.html%3F) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cam.com privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611043138id_/http%3A//www.cam.com/privacy.html%3F) for the most accurate reproduction.*
 
 # Cam.com ~ Privacy Policy
 
@@ -50,4 +50,4 @@ The address for correspondence by post is
 ICF Technology, Inc.  
 PO Box 21508  
 Seattle, WA 98111  
-USA 
+USA
