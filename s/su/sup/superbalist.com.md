@@ -1,43 +1,41 @@
-> *The following text is extracted and transformed from the superbalist.com privacy policy that was archived on 2014-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141118025911id_/http%3A//superbalist.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the superbalist.com privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611043058id_/http%3A//superbalist.com/privacy_policy) for the most accurate reproduction.*
 
 # Superbalist - Privacy Policy
 
 **Privacy Policy**
 
-We are committed to protecting your privacy. This privacy policy discloses how we obtain and use personal information collected on Superbalist. Please read this privacy policy before using the site or submitting any personal information. By using the site, you are accepting the practices described in this privacy policy. These policies may be changed at any time, but any changes will be posted here so please review this policy regularly.
+**We are committed to protecting your privacy.  This privacy policy discloses how we obtain and use personal information collected on Superbalist. Please read this privacy policy before using the site or submitting any personal information. By using the site, you are accepting the practices described in this privacy policy. These policies may be changed at any time, but any changes will be posted here so please review this policy regularly.**
 
-The privacy practices set forth in this privacy policy are for this website only. If you link to other websites, please review the privacy policies posted on those sites.
+**The privacy practices set forth in this privacy policy are for this website only. If you link to other websites, please review the privacy policies posted on those sites.**
 
 **Personal information**
 
-We may collect certain information about your visit such as the name of the Internet service provider and the Internet Protocol (IP) address through which you access the internet; the date and time you access the site; the pages that you access while at the site and the internet address of the website from which you linked directly to our site. This information is used to help improve the site, analyze trends, and administer the site.
+**We may collect certain information about your visit such as the name of the Internet service provider and the Internet Protocol (IP) address through which you access the internet; the date and time you access the site; the pages that you access while at the site and the internet address of the website from which you linked directly to our site. This information is used to help improve the site, analyze trends, and administer the site.**
 
-Using Superbalist requires the following information: 
+**Using Superbalist requires the following information:  **
 
-  * Name / Billing Details / Email Address / Password
-
-
-
-The following optional information will be used to manage your Superbalist account and can be voluntarily added to your profile. Certain information is required in order to process a transaction:
-
-  * Gender / Language / Race/ Date of birth / Facebook account / various other demographic data/ Credit Card details (not stored by us)/ Debit Card details (not stored by us)
+  * **Name / Billing Details / Email Address / Cell Phone Number / Password**
 
 
 
-The personal information above is collected, stored, processed and used for the following purposes: User registration and account management; Provision of services offered by Superbalist; As market research to improve our service; Dispatch newsletter on special promotional deals.
+**The following optional information will be used to manage your Superbalist account and can be voluntarily added to your profile. Certain information is required in order to process a transaction:**
 
-Any analysis is carried out with no relation to the personal data. The user will remain anonymous.
+  * **Gender / Language / Race/ Date of birth / Facebook account / various other demographic data/ Credit Card details (not stored by us)/ Debit Card details (not stored by us)**
+
+
+
+**The personal information above is collected, stored, processed and used for the following purposes: User registration and account management; Provision of services offered by Superbalist; As market research to improve our service; Dispatch communication on specials and promotions.**
+
+**Any analysis is carried out with no relation to the personal data. The user will remain anonymous.**
 
 **Sharing of data**
 
-Superbalist may from time to time share your information with its stakeholders, including participating vendors.
+**Superbalist may from time to time share your information with its stakeholders, including participating vendors.**
 
 **Data access**
 
-The customer can demand access to personal data stored in the Superbalist database by requesting it. We will also remove your data from our database on request, unless there is a legal reason why we need to keep the data. Access can be gained, the data can be corrected, and any concerns related to the use of your data can be raised by writing to  **support@superbalist.com**. Please include a certified copy of your identity document.
+**The customer can demand access to personal data stored in the Superbalist database by requesting it. We will also remove your data from our database on request, unless there is a legal reason why we need to keep the data. Access can be gained, the data can be corrected, and any concerns related to the use of your data can be raised by writing to  support@superbalist.com. Please include a certified copy of your identity document.**
 
 **Analytics**
 
-Superbalist uses various tracking programs offered by third parties such as Google Analytics, a web analytics service provided by Google Inc. ("Google"). This program uses cookies, which are text files placed on your computer that provide the analysis and tracking of the usage of the site. The information generated by the cookie about your use of this website (including your IP address) is transmitted to a Google server in the U.S. and stored there. For further information visit [ **www.aboutcookies.org**](http://www.aboutcookies.org/). You can set your browser not to accept cookies and the above website tells you how to remove cookies from your browser. By accepting these terms you agree to the processing of your data by Google in the manner described and for the foregoing purpose.
-
-By registering on Superbalist you provide your consent to allowing us to communicate various messages relating to promotions, special offers, discounts and the like associated with our online store. The form of communication will include but will not be limited to electronic mail, mobile communications (SMS), telephone calls and direct mail.
+**Superbalist uses various tracking programs offered by third parties such as Google Analytics, a web analytics service provided by Google Inc. ("Google"). This program uses cookies, which are text files placed on your computer that provide the analysis and tracking of the usage of the site. The information generated by the cookie about your use of this website (including your IP address) is transmitted to a Google server in the U.S. and stored there. For further information visit  [www.aboutcookies.org](http://www.aboutcookies.org/). You can set your browser not to accept cookies and the above website tells you how to remove cookies from your browser. By accepting these terms you agree to the processing of your data by Google in the manner described and for the foregoing purpose.**
