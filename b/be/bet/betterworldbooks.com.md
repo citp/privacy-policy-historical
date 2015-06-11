@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the betterworldbooks.com privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227150944id_/http%3A//www.betterworldbooks.com/go/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the betterworldbooks.com privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611173616id_/http%3A//www.betterworldbooks.com/go/privacy) for the most accurate reproduction.*
 
 # BetterWorldBooks.com Privacy Policy
 
@@ -152,7 +152,7 @@ If your personally identifiable information changes (such as your zip code), or 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact Better World Books by sending a letter to:
 
 Better World Books  
-11560 Great Oaks Way, Suite 100  
+11680 Great Oaks Way, Suite 250  
 Alpharetta, GA 30022   
 You may also contact us by e-mail by [submitting a ticket](https://support.betterworldbooks.com/index.php?/Tickets/Submit). 
 
