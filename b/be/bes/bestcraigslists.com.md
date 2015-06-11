@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bestcraigslists.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120110457id_/http%3A//www.bestcraigslists.com/index.php%3Fview%3Dpage%26pagename%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestcraigslists.com privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611203605id_/http%3A//www.bestcraigslists.com/index.php%3Fview%3Dpage%26pagename%3Dprivacy) for the most accurate reproduction.*
 
 # Post Classifieds, Post Free Classified Ads, Jobs, For Sale, Vehicles, Matrimonial, Real Estate, Community, Services
 
