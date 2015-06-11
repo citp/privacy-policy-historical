@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the samnull.com privacy policy that was archived on 2014-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141222115830id_/http%3A//samnull.com/index.php%3Fdo%3Dstatic%26page%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the samnull.com privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611145243id_/http%3A//samnull.com/index.php%3Fdo%3Dstatic%26page%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy » SamNull AE Project Web Template PSD Sources Stock Vector Image Tutorials Download
 
