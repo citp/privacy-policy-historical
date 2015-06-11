@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ethoswatches.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121101838id_/http%3A//www.ethoswatches.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ethoswatches.com privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611233356id_/http%3A//www.ethoswatches.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -26,9 +26,8 @@ Your personally identifiable information is kept secure. Only authorized employe
 
 In certain cases, specifically with regard to particular products, You might be required to provide Your credit or debit card details to the approved payment gateways while making the payment. In this regard You agree to provide correct and accurate credit/ debit card details to the approved payment gateways for availing Services on the Website. You shall not use the credit/ debit card which is not lawfully owned by You, i.e. in any transaction, You must use Your own credit/ debit card. The information provided by You will not be utilized or shared with any third party unless required in relation to fraud verifications or by law, regulation or court order. You will be solely responsible for the security and confidentiality of Your credit/ debit card details. Ethos Watches expressly disclaims all liabilities that may arise as a consequence of any unauthorized use of Your credit/ debit card.
 
-Privacy Contact Information
+Contact Information
 
-If You have any questions, concerns, or comments about our privacy policy You may contact us using the information below: By e-mail:  [info@ethoswatches.com](mailto:info@ethoswatches.com)   
-**By Phone:** +91 172 2548223 /4 / 7
+For any questions, concerns, or comments about our privacy policy, you may contact us (Mon-Sat, 10am–7pm) on +91 8725028883 or [info@ethoswatches.com](mailto:info@ethoswatches.com)
 
-_We reserve the right to make changes to this policy without notice. Any changes to this policy will be posted on this page._
+_www.ethoswatches.com reserves the right to modify and/ or change the terms of this policy without any prior notice._
