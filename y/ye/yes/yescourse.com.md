@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the yescourse.com privacy policy that was archived on 2014-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141117021352id_/http%3A//yescourse.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yescourse.com privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612013406id_/http%3A//yescourse.com/legal/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - YesCourse
+# Privacy Policy
 
 The privacy of your personal information is important to us. YesCourse Pty Ltd - ABN 61166713499 (YesCourse) may collect personal information through the websites available at the domains owned by YesCourse including but not limited to yescourse.com and all sub-domains (Site), or directly from you. YesCourse respects your right to privacy and this policy sets out how we collect and treat your personal information. Please read the following Privacy Policy carefully.
 
