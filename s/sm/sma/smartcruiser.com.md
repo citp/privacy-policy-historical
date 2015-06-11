@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smartcruiser.com privacy policy that was archived on 2014-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141126092957id_/http%3A//www.smartcruiser.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartcruiser.com privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611085419id_/http%3A//www.smartcruiser.com/privacy) for the most accurate reproduction.*
 
 # SmartCruiser — A Discount Cruise Site featuring Discount Cruises and Cruise Deals
 
