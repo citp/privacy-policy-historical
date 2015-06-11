@@ -1,14 +1,6 @@
-> *The following text is extracted and transformed from the blinkbox.com privacy policy that was archived on 2014-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141012225208id_/http%3A//www.blinkbox.com/Info/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blinkbox.com privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611195714id_/http%3A//www.blinkbox.com/Info/Privacy) for the most accurate reproduction.*
 
 # Privacy & Cookie Policy | blinkbox
-
-  * **You can’t watch movies and TV shows on your device just yet**  
-But you can still browse and buy
-
-  * **Sorry, but blinkbox movies and TV shows are currently only available in the UK**
-
-
-
 
   1. GENERAL 
     1. As part of the Tesco Group, at blinkbox Entertainment Limited ("we"/"us"/"our") we respect your privacy and are committed to protecting your Personal Information (as defined below in paragraph 3.1). We have created this Privacy Notice to let you know what information we collect when you visit the website http://www.blinkbox.com (the "Website"), use the services available (collectively, the "blinkbox Services"), why we collect this information and how the collected information is used. 
