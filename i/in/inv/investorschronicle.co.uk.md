@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the investorschronicle.co.uk privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121093800id_/http%3A//www.investorschronicle.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the investorschronicle.co.uk privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611103521id_/http%3A//www.investorschronicle.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Financial Times privacy policy | FT Help | FT.com
 
@@ -59,7 +59,7 @@ The elements of your Data that we collect may include:
 
 
 
-We may also collect information that we request from you regarding your use of our service or that we collect automatically about your visit to our sites. Please see our Cookies Policy for more details.
+We may also collect information that we request from you regarding your use of our service or that we collect automatically about your visit to our sites. Please see our [Cookie Policy](http://help.ft.com/tools-services/how-the-ft-manages-cookies-on-its-websites/) for more details.
 
 **Use and Disclosure of Personal Information**  
 We use your Data for purposes which may include:
@@ -77,7 +77,7 @@ We use your Data for purposes which may include:
 
 
 
-See our Cookies Policy for more details.
+See our [Cookie Policy](http://help.ft.com/tools-services/how-the-ft-manages-cookies-on-its-websites/) for more details.
 
 If you wish to receive information about FT group products or services or from other carefully selected organisations about products or services they offer, please indicate your preferences using the consent boxes when providing us with your Data.
 
@@ -96,7 +96,7 @@ We use technology on the registration, subscription and manage my account pages 
 
 **Use of Cookies and Other Tracking Devices**
 
-Please refer to our Cookies Policy.
+Please refer to our [Cookie Policy](http://help.ft.com/tools-services/how-the-ft-manages-cookies-on-its-websites/).
 
 **Security Policy**
 
