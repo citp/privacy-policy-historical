@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nationalterroralert.com privacy policy that was archived on 2014-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141204174058id_/http%3A//www.nationalterroralert.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationalterroralert.com privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611085853id_/http%3A//www.nationalterroralert.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Homeland Security News
+# Privacy Policy « Homeland Security News
 
 At National Terror Alert we work hard to protect the privacy of our web site visitors. Some of our site’s registration forms may require visitors to disclose information such as name, address, e-mail addresses, etc. This information is used solely by National Terror Alert to respond to your requests and to occasionally notify you about important changes to our site, new products and services, and information we think you’ll find valuable. We do not sell or transfer this information to third parties. You may may opt-out from receiving any promotional material from National Terror Alert at any time
 
