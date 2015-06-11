@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the survivingthestores.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120130732id_/http%3A//www.survivingthestores.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the survivingthestores.com privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611033327id_/http%3A//www.survivingthestores.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Surviving The Stores™
 
@@ -68,10 +68,8 @@ By using this Site, you signify your acceptance of this policy and terms of serv
 Contacting us
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
-CrossNetwork Media, LLC
-
-http://www.survivingthestores.com
-
+CrossNetwork Media, LLC  
+http://www.survivingthestores.com  
 admin@survivingthestores.com
 
 This document was last updated on September 24, 2014
