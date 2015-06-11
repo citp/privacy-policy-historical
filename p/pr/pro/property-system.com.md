@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the property-system.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122161017id_/http%3A//www.tycoonsystem.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the property-system.com privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612012815id_/http%3A//www.tycoonsystem.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | Property Investment. Simplified | TycoonSystem
 
