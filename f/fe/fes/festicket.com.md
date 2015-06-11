@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the festicket.com privacy policy that was archived on 2014-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141226045824id_/http%3A//www.festicket.com/privacy-and-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the festicket.com privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611204106id_/http%3A//www.festicket.com/privacy-and-cookies) for the most accurate reproduction.*
 
 # Privacy Policy and Information About Cookies – Festicket
 
-This policy (together with our [**Terms Of Use**](https://web.archive.org/terms-of-use/) policy) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
+This policy (together with our [Terms Of Use](https://web.archive.org/terms-of-use/) policy) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
 
 For the purpose of the Data Protection Act 1998 (the “Act”), the data controller is YESLAB Limited, company number 07923345 trading as Festicket.com of Innovation Warehouse 1, East Poultry Avenue, London, EC1A 9PT (“Festicket.com”). 
 
@@ -34,11 +34,11 @@ Some cookies that we use are essential to process your booking such as allowing 
 
 Other cookies that we use enable us to recognise you when you return to our site estimate our audience size and usage pattern, store information about your preferences, and so allow us to customise our site and to provide you with offers that are targeted at your individual interests, speed up your searches and allow you to use our site in a way that makes your browsing experience more convenient. If you register with us or complete our online forms, we will use cookies to remember your details during your current visit, and any future visits provided the cookie was not deleted in the interim.
 
-We, Google and other third parties set cookies (either which are set by us or the third party provider) in order to track your internet behaviour after you leave the Festicket.com website in order to display to you advertisements that may be of interest to you when you browse third party websites – commonly known as “behavioural advertising”. If you do not want us to carry out any behavioural advertising, you will need to opt out of all of the following: Google Analytics display advertising, and DoubleClick, both of which you can opt out of on the Google website using this link: [**Settings for Google Ads**](https://web.archive.org/web/20141226045824id_/http://www.festicket.com/privacy-and-cookies/www.google.co.uk/ads/preferences); and Dynamic Ad Serving which uses the Teracent cookie, which you can opt-out of [**here**](http://www.teracent.com/about-us/opt-out). You can also customise your preferences for display advertising using these links and can choose to opt out of some but not all display advertising according to your preference. 
+We, Google and other third parties set cookies (either which are set by us or the third party provider) in order to track your internet behaviour after you leave the Festicket.com website in order to display to you advertisements that may be of interest to you when you browse third party websites – commonly known as “behavioural advertising”. If you do not want us to carry out any behavioural advertising, you will need to opt out of all of the following: Google Analytics display advertising, and DoubleClick, both of which you can opt out of on the Google website using this link: [Settings for Google Ads](https://web.archive.org/web/20150611204106id_/http://www.festicket.com/privacy-and-cookies/www.google.co.uk/ads/preferences); and Dynamic Ad Serving which uses the Teracent cookie, which you can opt-out of [here](http://www.teracent.com/about-us/opt-out). You can also customise your preferences for display advertising using these links and can choose to opt out of some but not all display advertising according to your preference. 
 
 We will ask you for your consent to our use of cookies in accordance with this policy when you visit our site. If you do not consent, but then continue to view our site or make a booking on our site, you will be deemed to have consented to us setting cookies in accordance with this policy. 
 
-You can block cookies by activating the setting on your browser that allows you to refuse the setting of all or some cookies. To find out more about cookies, including how to see that cookies have been set and how to manage and delete them, visit [**www.allaboutcookies.org**](http://www.allaboutcookies.org/). However, if you use your browser settings to block all cookies (including essential cookies) you may not be able to access all or parts of our site. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies as soon you visit our site.
+You can block cookies by activating the setting on your browser that allows you to refuse the setting of all or some cookies. To find out more about cookies, including how to see that cookies have been set and how to manage and delete them, visit [www.allaboutcookies.org](http://www.allaboutcookies.org/). However, if you use your browser settings to block all cookies (including essential cookies) you may not be able to access all or parts of our site. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies as soon you visit our site.
 
 ## WHERE WE STORE YOUR PERSONAL DATA
 
@@ -70,7 +70,7 @@ If you are an existing customer, we will only contact you by electronic means (e
 
 We will not pass your personal data to third parties without your prior consent.
 
-If you do not want us to use your data in this way, please either tick the relevant box situated on the form on which we collect your data, unsubscribe to any emails your receive or notify us at [**contact@festicket.com**](mailto:contact@festicket.com).
+If you do not want us to use your data in this way, please either tick the relevant box situated on the form on which we collect your data, unsubscribe to any emails your receive or notify us at [contact@festicket.com](mailto:contact@festicket.com).
 
 ## DISCLOSURE OF YOUR INFORMATION
 
@@ -92,4 +92,4 @@ Any changes we may make to our privacy policy in the future will be posted on th
 
 ## CONTACT
 
-Any questions regarding this privacy policy should be addressed to [**contact@festicket.com**](mailto:contact@festicket.com).
+Any questions regarding this privacy policy should be addressed to [contact@festicket.com](mailto:contact@festicket.com).
