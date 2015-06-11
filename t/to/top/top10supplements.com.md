@@ -1,85 +1,69 @@
-> *The following text is extracted and transformed from the top10supplements.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122031404id_/http%3A//top10supplements.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the top10supplements.com privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611110441id_/http%3A//top10supplements.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Top10supplements.com
+# Privacy Policy
 
-TOP10SUPPLEMENTS.COM respects the privacy needs and concerns of our customers and visitors. That is why how we handle any personal information, such as your name, address, email address or phone number (“Personal Information”) that you provide to us is important to us. To earn your trust, we respect your privacy in handling Personal Information relating to you and your transactions with us, whether at our website (TOP10SUPPLEMENTS.COM/STORE) store,  our Call Center or through TOP10SUPPLEMENTS.COM.com our website (“Site(s)”). This Privacy Statement describes the Personal Information we gather about you, what we do with it, the safeguards we have in place to protect it, and how you can control our use of it. By using the Site, the user agrees, without limitation or qualification, to be bound by this Privacy Statement.
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at [Privacy](mailto:info@top10supplements.com).
 
-When you provide Personal Information at our Store, our Call Center, and/or our Site, you are consenting to the manner in which TOP10SUPPLEMENTS.COM will collect, use, disclose and otherwise manage your Personal Information, as set out below.
+At top10supplments.com we consider the privacy of our visitors to be extremely important. This privacy policy document describes in detail the types of personal information is collected and recorded by top10supplments.com and how we use it.
 
-**Who May Use the Site** The Site is not intended or designed to attract users under the age of 18. We do not collect Personal Information from any person we know to be under the age of 18. If you are under 18, we ask that you not send us any Personal Information.
+**Log Files**  
+Like many other Web sites, top10supplments.com makes use of log files. These files merely logs visitors to the site – usually a standard procedure for hosting companies and a part of hosting services’s analytics. The information inside the log files includes internet protocol (IP) addresses, browser type, Internet Service Provider (ISP), date/time stamp, referring/exit pages, and possibly the number of clicks. This information is used to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
 
-The Sites are intended for users from the United States and those not governed by privacy policies of other countries. Users from the European Union are advised not to disclose Personal Information to TOP10SUPPLEMENTS.COM. Do not send us information unless you consent to the application of U.S law and to the use and disclosure of your information consistent with this Privacy Statement.
+**Cookies and Web Beacons**  
+top10supplments.com uses cookies to store information about visitors’ preferences, to record user-specific information on which pages the site visitor accesses or visits, and to personalize or customize our web page content based upon visitors’ browser type or other information that the visitor sends via their browser.
 
-**Collection and Use of Personal Information** We may collect Personal Information that you provide us when you:
+**DoubleClick DART Cookie**
 
-  * Purchase, order, return, exchange or request certain information about our products and services;
-  * Contact a Call Center or customer service desk;
-  * Visit or register with our Site or participate in another feature of our Sites, such as our User Reviews
-  * Enter into a contest or sweepstakes or respond to one of our surveys; or
-  * Provide us with comments or suggestions.
+→ Google, as a third party vendor, uses cookies to serve ads on top10supplments.com.
+
+→ Google’s use of the DART cookie enables it to serve ads to our site’s visitors based upon their visit to top10supplments.com and other sites on the Internet.
+
+→ Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – <http://www.google.com/privacy_ads.html>
+
+**Our Advertising Partners**
+
+Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include …….
+
+  * Google
+  * Commission Junction
+  * Amazon
+  * Clickbank
+  * Illpumpyouup.com, tigerfitness.com, stackedbrands.com
 
 
 
-We may also collect Personal Information about you from our Service Providers who provide us with e-commerce related services related to the Sites.
+_While each of these advertising partners has their own Privacy Policy for their site, an updated and hyperlinked resource is maintained here:[Privacy Policies](http://www.privacypolicyonline.com/privacy-policies)._
 
-**Shopping at TOP10SUPPLEMENTS.COM/STORE** When you purchase products and services at our Store, if you use a credit or debit card for any of your purchases, we will collect your credit or debit card information and keep a history of your purchases. We use this information to process your orders and to better assist you when you visit or call us.
+ _You may consult this listing to find the privacy policy for each of the advertising partners of top10supplments.com._
 
-When you return previously purchased merchandise or request a refund or exchange, you may be asked to give your name, address, phone number and show information that identifies you, such as your driver’s license. We collect this information to help prevent fraud.
+These third-party ad servers or ad networks use technology in their respective advertisements and links that appear on top10supplments.com and which are sent directly to your browser. They automatically receive your IP address when this occurs. Other technologies (such as cookies, JavaScript, or Web Beacons) may also be used by our site’s third-party ad networks to measure the effectiveness of their advertising campaigns and/or to personalize the advertising content that you see on the site.
 
-**Call Centers** When you call one of our Call Centers about a product, delivery, billing question or for customer service, you may be asked for Personal Information that identifies you along with additional information we need to help us promptly answer your question, such as your name and address and a phone number where we might contact you. We may retain this information to assist you in the future.
+top10supplments.com has no access to or control over these cookies that are used by third-party advertisers.
 
-**Site Registration** Registration is an optional service provided by our Site. You do not have to register to browse on our Sites, but you do have to register to purchase products on our Site. When you register, you are asked for information such as your name, address, phone number, e-mail address, a password that you select, and your interests, if you choose to register them. Your registration information may be used to help make your online shopping quicker and easier, by pre-filling certain parts of your shopping information. When you register you will have the opportunity to sign up for future marketing information from TOP10SUPPLEMENTS.COM.
+**Third Party Privacy Policies**
 
-**Contests, Questions or Surveys** When you ask a question, participate in a survey or enter a contest or sweepstakes at our Store, a TOP10SUPPLEMENTS.COM sponsored event or through our Site, we may collect your name, address, phone number and e-mail address. We use this information to administer your participation in a contest or sweepstakes. At the time you are entering a contest or sweepstakes, we may ask your permission to send you future marketing information from TOP10SUPPLEMENTS.COM.
+You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. top10supplments.com’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. You may find a comprehensive listing of these privacy policies and their links here: [Privacy Policy Links](http://www.privacypolicyonline.com/privacy-policy-links "Privacy Policy Links").
 
-**Other Uses of Personal Information** TOP10SUPPLEMENTS.COM also uses Personal Information, including information provided to us from our Service Providers, to continually assess and improve the products and services we offer. To serve you better, we may combine the Personal Information that you give us with publicly available information and information we receive from or cross-reference with our marketing partners and others. We use that combined information to enhance and personalize your shopping experience with us, to communicate with you about our products and events that may be of interest to you, and for other promotional purposes.
+If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites. [What Are Cookies?](http://www.privacypolicyonline.com/what-are-cookies)
 
-**Promotional Information and Marketing Materials** We would like to inform you of products and services, sales and special offers that might benefit you. When you register online or participate in a survey, you will have the opportunity to sign up for e-mails about our products, services, sales and special offers.
+**Children’s Information**  
+We believe it is important to provide added protection for children online. We encourage parents and guardians to spend time online with their children to observe, participate in and/or monitor and guide their online activity.  
+top10supplments.com does not knowingly collect any personally identifiable information from children under the age of 13. If a parent or guardian believes that top10supplments.com has in its database the personally-identifiable information of a child under the age of 13, please contact us immediately (using the contact in the first paragraph) and we will use our best efforts to promptly remove such information from our records.
 
-We may also send you mail, email or call you with information about our product and service offerings if you have provided us with your name and address, email address or phone numbers at our Store, Call Center or Site. If you would like to stop receiving such promotional information from TOP10SUPPLEMENTS.COM, please see the “Privacy Preferences/Opt-Out” section of this Privacy Statement.
+**Online Privacy Policy Only**
 
-**Disclosure of Personal Information** We enter into marketing relationships with advertisers or other companies that provide products or services that we believe may be of interest to TOP10SUPPLEMENTS.COM customers. We will share your Personal Information with those marketing partners in order to help them send you information that we believe will be of interest to you. We may share non-identifiable aggregated information with these companies. We will not disclose your telephone number, credit card account information or e-mail address for these purposes. We may also provide Personal Information to any of our affiliated businesses.
+This privacy policy applies only to our online activities and is valid for visitors to our website and regarding information shared and/or collected there.  
+This policy does not apply to any information collected offline or via channels other than this website.
 
-**Access to Personal Information by Companies that Work with or on Behalf of TOP10SUPPLEMENTS.COM** Some of our operations, such as our electronic commerce, may be managed by Service Providers who are unaffiliated companies. These companies may share Personal Information with their affiliates and with service providers whom they engage to perform services related to our Site or the operation of our business. Examples of these services include payment processing and authorization, fraud protection and credit risk reduction, product customization, order fulfillment and shipping, marketing and promotional material distribution, Web site evaluation, data analysis and, where applicable, data cleansing. These companies may have access to your Personal Information on a confidential basis only to the extent necessary to perform their functions. In no event will we authorize these companies to use your Personal Information for any reason other than to provide you with those specific services.
+**Consent**
 
-If your purchases are being shipped to you, your shipping information will be shared with our delivery service providers (U.S. Postal Service, UPS, or other delivery companies we or you select). Our delivery service providers are asked not to use your Personal Information for any purpose other than making the delivery.
+By using our website, you hereby consent to our privacy policy and agree to its terms.
 
-**Sale of Business** In the event that TOP10SUPPLEMENTS.COM or some of our assets are sold or transferred or used as security, your Personal Information may be transferred to third parties as part of that transaction.
+**Disclosures**
 
-**Disclosures of Personal Information in Legal Proceedings** If TOP10SUPPLEMENTS.COM or any of our Service Providers is requested by law enforcement officials or judicial authorities to provide Personal Information on individual users, TOP10SUPPLEMENTS.COM or the applicable Service Provider may, without your consent, provide such information. In matters involving claims of personal or public safety, TOP10SUPPLEMENTS.COM or the applicable Service Provider may provide your Personal Information to appropriate authorities without your consent or court process. TOP10SUPPLEMENTS.COM or our Service Providers also will provide your Personal Information in response to a search warrant or other legally valid inquiry or order, or to an investigative body in the case of a breach of an agreement or contravention of law, or in litigation involving TOP10SUPPLEMENTS.COM, the applicable Service Provider, or otherwise as required by law. We may also disclose Personal Information to assist in debt collection where you owe a debt to us.
+Go to: [Disclosure Page](http://top10supplements.com/disclosure/)
 
-**Access to Personal Information** You may request access to the Personal Information that we have about you. If you are a registered user with our Sites, you can access your profile information at any time by clicking on the “My Account” link on any page on the Site on which you registered.
-
-For further instructions on accessing the Personal Information that TOP10SUPPLEMENTS.COM may have about you, please see the “Contacting Us” section of this Privacy Statement.
-
-**Privacy Preferences / Opt-Out** We now offer an on-line preference page located within the My Account section on www.Top10Supplements.com/Store where you can register and change your preferences to receive or not receive marketing materials. You may also update what product/lifestyle preferences you prefer, which may determine what offers and promotional materials you may receive. You may update these preferences at any time, but you must first register by creating an account before you can update any of your preferences. Please allow sufficient time for your preferences to be processed.
-
-You may also change your marketing preferences or remove yourself from our mailing list by clicking on an “unsubscribe” hyperlink contained in promotional emails we send you or by contacting us at: TOP10SUPPLEMENTS.COM, Marketing Department at [Top10Supps@gmail.com](mailto:Top10Supps@gmail.com) Attn: Privacy Manager.
-
-**Information Sharing Disclosure Requests** If you are a California resident, you have the right to request one Notice of Information-Sharing Disclosure per year which will identify the third parties with whom TOP10SUPPLEMENTS.COM or any of our affiliates has shared the Personal Information we have collected from you. You may request the Notice of Information-Sharing Disclosure by writing to us at. TOP10SUPPLEMENTS.COM, Marketing Department at Top10Supps.com, Attn: Privacy.  We will respond to your request for a Notice of Information-Sharing Disclosure within 30 days.
-
-**Additional Information about Our Sites**
-
-**Visiting Our Site** In general, you can visit our Site without telling us who you are or providing us with any information. However, we collect the IP (Internet protocol) addresses of all visitors to our Sites and other related information such as page requests, browser type, operating system and average time spent on our Sites. We use this information to monitor and improve our Sites.
-
-**Cookies and Tracer Tags** Our Sites use a technology called “cookies”. A cookie is a tiny element of data that our Sites can send to your browser, which may then be stored on your hard drive so we can recognize you when you return. All pages on our Sites where you are prompted to log in or that are customizable require that you accept cookies. If you have registered with our Sites, these cookies (1) may let us know who you are, (2) are necessary to access your account information (stored on our computers) in order to deliver products and personalized services, and (3) will provide us and our Service Providers with information that we will use to personalize our Sites in accordance with your preferences. Cookies are also required to optimize your shopping experience in that they allow you to add multiple items to your shopping basket before checking out. You may set your Web browser to notify you when you receive a cookie. However, should you decide not to accept cookies from our Sites, you will limit the functionality we can provide when you visit our Sites.
-
-We also use cookies to improve the performance of our advertising on other websites. Although you may not opt out of receiving online advertisements generally, you may control the collection of data on our site used for targeted TOP10SUPPLEMENTS.COM.com advertising during your visits to other websites. To opt-out of TOP10SUPPLEMENTS.COM.com data collection for targeted advertising on other sites, please contact us at Top10Supps@gmail.com
-
-Tracer Tags: Our Sites may also use a technology called “tracer tags”. These may also be referred to as “Clear GIFs” or “Web Beacons”. This technology allows us to understand which pages you visit on our Sites. These tracer tags are used to help us optimize and tailor our Sites for you and other future website visitors.
-
-**Security of Personal Information** We maintain administrative, technical and physical safeguards to protect against unauthorized access, use, modification and disclosure of Personal Information in our custody and control. We also are committed to employing reasonable technology in order to protect the security of our Sites. However, even with the best technology, no website is 100% secure. We will take reasonable measures which we believe are appropriate to protect your Personal Information from loss, misuse, alteration or destruction, and, where possible, will ask that any third parties to whom we may transfer such information to take comparable steps to protect that security.
-
-**Secure Shopping** When you place orders on our Sites, all of your order information, including your card number and delivery address, is transmitted through the Internet using Secure Sockets Layer (SSL) technology. SSL technology causes your browser to encrypt your order information before transmitting it to our secure server. SSL technology, an industry standard, is designed to prevent someone other than operators of our Sites from capturing and viewing your Personal Information. Since any order information you provide to us on our Sites will be transmitted using a secure connection, if your Web browser cannot support this level of security, you will not be able to order products through our Sites. The most recent versions of Netscape Navigator™ and Microsoft Internet Explorer® can support a secure connection and can be downloaded for free from the Netscape and Microsoft website respectively.
-
-**Passwords** To provide you with an increased level of security, online access to your Personal Information is protected with a password you select. We strongly recommend that you do not disclose your password to anyone. TOP10SUPPLEMENTS.COM will never ask you for your password in any unsolicited communication (including unsolicited correspondence such as letters, phone calls or e-mail messages).
-
-**Our Privacy Statement and Outside Links** This Privacy Statement only applies to the various Sites. Our Sites may include links to the websites of our business partners, vendors and advertisers. These other sites are outside of our control. Please be aware that these websites may collect information about you, and operate according to their own privacy practices which may differ from those contained in our Privacy Statement. Remember to consult that website’s own privacy policy, as once you are outside any of the Sites, any information you submit is no longer in our control.
-
-**Privacy Statement Modifications** From time to time we may modify or amend this Privacy Statement in order to comply with new laws or regulations or to reflect future changes in our business practices. Any changes in our policies will be communicated in this page so please check back on occasion. We also may post a notice on our Sites or send an email describing the changes.
-
-**Contacting Us** If you have any questions about our handling of Personal Information, please contact us at TOP10SUPPLEMENTS.COM, Marketing Department at [Top10Supps@gmail.com](mailto:Top10Supps@gmail.com) Attn: Privacy
-
-Last Updated: March 16, 2013
-
-Copyright © 2013 Top10Supplements.com All rights reserved
+**Update**  
+This Privacy Policy was last updated on: Friday, February 20th, 2015.  
+[](http://www.privacypolicyonline.com/ "PrivacyPolicyOnline.com Approved Site")  
+_Should we update, amend or make any changes to our privacy policy, those changes will be posted here._
