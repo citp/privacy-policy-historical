@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lotsofjokes.com privacy policy that was archived on 2013-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131226003050id_/http%3A//www.lotsofjokes.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lotsofjokes.com privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611102949id_/http%3A//lotsofjokes.com/privacy.asp) for the most accurate reproduction.*
 
 # Lots of Jokes - Privacy Policy
 
