@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the princetonol.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220130927id_/http%3A//www.princetonol.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the princetonol.com privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611170151id_/http%3A//www.princetonol.com/privacy.cfm) for the most accurate reproduction.*
 
 # Princeton Online :: Privacy Policy
 
@@ -18,7 +18,7 @@ If you do nothing during your visit but browse through our website, read pages, 
 
 **If You Send Us E-mail**
 
-You may choose to provide us with personal information, as in e-mail with a comment or question. We use the information to improve our service to you or to respond to your request. We add these addresses to our newsletter mailing list. Once you receive the monthly newsletter, feel free to unsubscribe and we will remove your e-mail address. Except for authorized law enforcement investigations, we do not share our e-mail with any other outside organizations.
+You may choose to provide us with personal information, such as an e-mail with a comment or question. We use the information to improve our service to you or to respond to your request. We add these addresses to our newsletter mailing list. Once you receive the monthly newsletter, feel free to unsubscribe and we will remove your e-mail address. Except for authorized law enforcement investigations, we do not share our e-mail newsletter list with any other outside organizations.
 
 **Links to Other Sites**
 
