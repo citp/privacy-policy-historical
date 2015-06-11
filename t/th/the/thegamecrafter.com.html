@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the thegamecrafter.com privacy policy that was archived on 2014-07-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140723222458id_/https%3A//www.thegamecrafter.com/help/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the thegamecrafter.com privacy policy that was archived on 2015-06-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150611065625id_/https%3A//www.thegamecrafter.com/help/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
 <meta property="fb:admins" content="1647395831">
@@ -7,9 +7,12 @@
 <meta name="google-site-verification" content="y2WGepzlUDyTkzKhLv0BdoHS387JKtv3e2IsWnv1w_Y">
 <meta name="google-site-verification" content="aOjW51R2Ev8qeHwmIHI0sCKE2IN5yJcZp2bR9H6Dgew">
 <meta name="msvalidate.01" content="9CECAFF79940E766AC5222FB3105F124">
-<link href="//netdna.bootstrapcdn.com/bootstrap/3.0.3/css/bootstrap.min.css" rel="stylesheet">
-<link href="//cdn.jsdelivr.net/pnotify/1.2/jquery.pnotify.default.css" rel="stylesheet">
-<link href="/tgc4/css/tgc.css?v=8" rel="stylesheet">
+<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap.min.css">
+
+<link href="/chiselchat/chiselchat.min.css?v=9" rel="stylesheet">
+<link href="//cdnjs.cloudflare.com/ajax/libs/pnotify/2.0.0/pnotify.all.min.css" rel="stylesheet">
+
+<link href="/tgc4/css/tgc.css?v=17" rel="stylesheet">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/dropzone/3.7.1/css/dropzone.min.css" type="text/css">
@@ -26,7 +29,7 @@
 
 
 
-<nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+<nav class="navbar navbar-inverse navbar-static-top" role="navigation">
  <div class="container">
   <!-- Brand and toggle get grouped for better mobile display -->
   <div class="navbar-header">
@@ -49,6 +52,7 @@
          <li><a href="/non-games">Non-Games</a></li>
          <li><a href="/parts">Game Pieces</a></li>
         <li><a href="/gift-certificates">Gift Certificates</a></li>
+        <li><a href="/crowdsales">Crowd Sales</a></li>
         </ul>
       </li>
       <li class="dropdown">
@@ -57,11 +61,11 @@
           <li><a href="/help/getting-started">Getting Started</a></li>
 <li><a href="/publish/products">Products</a></li>
 <li><a href="/publish/pricing">Pricing</a></li>
-<li><a href="/publish">My Games</a></li>
+<li><a href="/publish/editor">My Games</a></li>
 <li><a href="/publish/designers">My Designers</a></li>
 <li><a href="/publish/sales">My Sales</a></li>
 <li><a href="/publish/stats">My Stats</a></li>
-<li><a href="/publish/files">My Files</a></li>
+
         </ul>
       </li>
       <li class="hidden-sm"><a href="http://news.thegamecrafter.com">News</a></li>
@@ -69,6 +73,7 @@
         <a href="#" class="dropdown-toggle" data-toggle="dropdown">Community <b class="caret"></b></a>
         <ul class="dropdown-menu">
           <li class="visible-sm"><a href="http://news.thegamecrafter.com">News</a></li>
+<li><a href="/newsletter">Newsletter</a></li>
 <li><a href="/announcements">Announcements</a></li>
 <li><a href="/accolades">Recent Game Accolades</a></li>
 <li><a href="/reviews">Recent User Reviews</a></li>
@@ -76,7 +81,12 @@
 <li><a href="//community.thegamecrafter.com/forums">Forums</a></li>
 <li><a href="/chat" %]"="">Chat</a></li>
 <li><a href="/contests">Contests</a></li>
+<li><a href="/auction">Auctions</a></li>
 <li><a href="//community.thegamecrafter.com/hall-of-fame">Hall of Fame</a></li>
+<li><a href="http://thegamecrafter.libsyn.com">Podcast</a></li>
+<li><a href="/designers">Designers</a></li>
+<li><a href="/people">People</a></li>
+<li><a href="/arttest">Art Tests</a></li>
 
         </ul>
       </li>
@@ -86,9 +96,9 @@
     <ul class="nav navbar-nav navbar-right">
      <li><a href="/account" class="account"><span class="glyphicon glyphicon-user"></span> Login</a></li>
     </ul>
-    <form class="navbar-form navbar-right navbar-input-group hidden-sm" role="search" id="global-game-search" action="/search" method="GET">
+    <form class="navbar-form navbar-right navbar-input-group" role="search" id="global-game-search" action="/search" method="GET">
       <div class="form-group">
-          <input type="search" style="width: 100px;" class="form-control search-query" placeholder="Find Games" onkeyup="update_global_game_search()">
+          <input type="search" class="form-control search-query" placeholder="Find Games" onkeyup="update_global_game_search()">
         </div>
          <button class="btn btn-default" type="submit" onclick="update_global_game_search()"><span class="glyphicon glyphicon-search"></span></button>
     </form>
@@ -98,16 +108,15 @@
 </nav>
 
 
- <div><br><br><br></div>
 
 
-
-  <div class="container">
    <br>
-    <div id="system_alert_message" class="alert alert-info">
-        <strong>The Game Crafter will be at Gen Con 2014!</strong> &nbsp; Be sure to RSVP and join our <strong><a href="http://news.thegamecrafter.com/post/88482803365/tgc-community-game-night-gen-con-2014">community game night</a></strong> and <strong><a href="http://news.thegamecrafter.com/post/90767632389/tgc-community-social-gen-con-2014">community social</a></strong>.
+    <div id="system_alert_message" class="alert alert-success">
+    <div class="container">
+        <strong>Build your very own theme park! Parkies is now on Kickstarter so <a href="https://www.kickstarter.com/projects/thegamecrafter/parkies">check it out</a>. :)</strong>
     </div>
    </div>
+
 
 
 
@@ -164,21 +173,21 @@
             
                 <li><a href="/help/contact-tgc">Contact TGC</a></li>
             
-                <li><a href="/help/designer-table-sponsorship">Designer Table Sponsorship</a></li>
+                <li><a href="/help/intellectual-property">Intellectual Property</a></li>
             
                 <li><a href="/help/return-policy">Return Policy</a></li>
             
-                <li><a href="/help/templates">Templates</a></li>
+                <li><a href="/help/designer-table-sponsorship">Designer Table Sponsorship</a></li>
             
                 <li><a href="/help/shipping-methods">Shipping Methods</a></li>
             
-                <li><a href="/help/intellectual-property">Intellectual Property</a></li>
+                <li><a href="/help/templates">Templates</a></li>
+            
+                <li><a href="/help/crowd-sales">Crowd Sales</a></li>
             
                 <li><a href="/help/developer-api">Developer API</a></li>
             
-                <li><a href="/help/marketing-your-game">Marketing Your Game</a></li>
-            
-                <li><a href="/help/who-is-tgc-for-">Who is TGC for?</a></li>
+                <li><a href="/help/going-green">Going Green</a></li>
             
         </ul>
     </div>
@@ -347,7 +356,7 @@
    </div>
   </div>
   <div class="row">
-   <div class="col-sm-5">©2009-2014 The Game Crafter, LLC. All rights reserved.</div>
+   <div class="col-sm-5">©2009-2015 The Game Crafter, LLC. All rights reserved.</div>
    <div class="col-sm-3">
     <div class="addthis_toolbox addthis_default_style">
      <a class="addthis_button_facebook_follow" addthis:userid="thegamecrafter"></a>
@@ -365,13 +374,17 @@
  <br><br>
 </div>
 
-<script src="https://dnn506yrbagrg.cloudfront.net/pages/scripts/0020/9240.js?438996" async="" type="text/javascript"></script><script type="text/javascript" src="//code.jquery.com/jquery-1.10.2.min.js"></script>
-<script type="text/javascript" src="//netdna.bootstrapcdn.com/bootstrap/3.0.3/js/bootstrap.min.js"></script>
-<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=plainblack"></script>
-<script type="text/javascript" src="/tgc4/js/jquery.pnotify.min.js"></script>
-<script src="/tgc4/js/tgc.js" type="text/javascript"></script>
-<script src="//cdn.firebase.com/v0/firebase.js"></script>
-<script type="text/javascript" src="/wing.js"></script>
+<div id="chiselchat-wrapper"></div>
+
+<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.2/js/bootstrap.min.js"></script>
+
+<script src="/tgc4/js/tgc.js?v=3" type="text/javascript"></script>
+<script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/pnotify/2.0.0/pnotify.all.min.js"></script>
+
+<script src="https://cdn.firebase.com/js/client/1.1.3/firebase.js"></script>
+<script src="/chiselchat/chiselchat.min.js?v=11"></script>
+<script type="text/javascript" src="/wing.js?v=5"></script>
 
 <script src="//tinymce.cachefly.net/4.0/tinymce.min.js"></script>
 <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/dropzone/3.7.1/dropzone.min.js"></script>
@@ -486,6 +499,124 @@ tinymce.init({
  $('.moreinfo').popover({trigger:"hover",placement:"bottom",html:true});
 
  
+
+
+
+ 
+ (function() {
+   var chatRef = new Firebase('//tgc.firebaseio.com');
+   chat = new ChiselchatUI(chatRef, document.getElementById("chiselchat-wrapper"));
+   
+   chat.addCommand({
+       match   : /^\/pricing$/,
+       func : function(message, chatui) {
+           message.content = 'https://www.thegamecrafter.com/publish/pricing';
+       },
+       name    : "/pricing",
+       help    : "Quick link to the component pricing page.",
+       moderatorOnly: false
+   });
+   chat.addCommand({
+       match   : /^\/ideas$/,
+       func : function(message, chatui) {
+           message.content = 'https://www.thegamecrafter.com/ideas';
+       },
+       name    : "/ideas",
+       help    : "Quick link to the community ideas submission page.",
+       moderatorOnly: false
+   });
+   chat.addCommand({
+       match   : /^\/status$/,
+       func : function(message, chatui) {
+           message.content = 'https://www.thegamecrafter.com/status';
+       },
+       name    : "/status",
+       help    : "Quick link to the queue status page.",
+       moderatorOnly: false
+   });
+   chat.addCommand({
+       match   : /^\/news$/,
+       func : function(message, chatui) {
+           message.content = 'http://news.thegamecrafter.com/';
+       },
+       name    : "/news",
+       help    : "Quick link to The Official Game Crafter Blog.",
+       moderatorOnly: false
+   });
+   chat.addCommand({
+       match   : /^\/podcast$/,
+       func : function(message, chatui) {
+           message.content = 'http://thegamecrafter.libsyn.com/';
+       },
+       name    : "/podcast",
+       help    : "Quick link to The Official Game Crafter Podcast.",
+       moderatorOnly: false
+   });
+   chat.addCommand({
+       match   : /^\/parts/,
+       func : function(message, chatui) {
+           if (message.content.match(/^\/parts$/)) {
+             message.content = 'https://www.thegamecrafter.com/parts';
+           }
+           else {
+            var keywords = message.content.match(/^\/parts\s+(.*)$/)
+            keywords[1] = keywords[1].replace(/\s/g,'+');
+            message.content = 'https://www.thegamecrafter.com/parts#keyword='+keywords[1];
+           }
+       },
+       name    : "/parts",
+       help    : "Quick link to the parts shop. Include a keyword to search the parts shop.",
+       moderatorOnly: false
+   });
+   chat.addCommand({
+       match   : /^\/help\s+(.*)$/,
+       func : function(message, chatui) {
+           var keywords = message.content.match(/^\/help\s+(.*)$/);
+           keywords[1] = keywords[1].replace(/\s/g,'+');
+           message.content = 'https://www.thegamecrafter.com/help?keywords='+keywords[1];
+       },
+       name    : "/help [keywords]",
+       help    : "Type in a key word or words to search our help system.",
+       moderatorOnly: false
+   });
+   chat.addCommand({
+       match   : /^\/url\s+(.*)$/,
+       func : function(message, chatui) {
+           var url = message.content.match(/^\/url\s+(.*)$/)
+           message.content = 'https://www.thegamecrafter.com/'+url[1];
+       },
+       name    : "/url [page-url]",
+       help    : "Type in a page URL on TGC and get a full link to it.",
+       moderatorOnly: false
+   });
+   chat.addCommand({
+       match   : /^\/copyright/,
+       func : function(message, chatui) {
+           message.content = 'https://www.thegamecrafter.com/help/intellectual-property';
+       },
+       name    : "/copyright",
+       help    : "Quick link to Intellectual Property page in the Help section of the site.",
+       moderatorOnly: false
+   });
+
+   /*  chatRef.authAnonymously(function(error, anonymous) {
+         if (error) {
+                 console.log('Anonymous auth failed.',error);
+         }
+         else {
+                 console.dir(anonymous);
+                 chat.setUser({
+                         userId: anonymous.uid
+                 });
+         }
+      }); */
+
+
+
+  })();
+ 
+ 
+
  
   var _gaq = _gaq || [];
   _gaq.push(['_setAccount', 'UA-15146236-4']);
@@ -501,34 +632,27 @@ tinymce.init({
   function update_global_game_search() {
    $('#global-game-search').attr('action', '/search#q=' + $('#global-game-search .search-query').val());
   }
-
-
-</script>
-<script type="text/javascript">Drupal={};Drupal.settings={};Drupal.settings.drupalchat={};Drupal.settings={"drupalchat":{"polling_method":"3","text_support_chat_box_company_name":"Support Team","exurl":"/chat/login","default_cr":"//s3.amazonaws.com/www.thegamecrafter.com/ifly/themes/dark/images/default_room.png","sendUrl":" ","goIdle":"Go Idle","text_support_chat_offline_message_label":"Message","sound":"//s3.amazonaws.com/www.thegamecrafter.com/ifly/swf/sound.swf","text_support_chat_init_label":"Chat with us","session_key":"","admin":"0","goOnline":"Go Online","text_support_chat_box_company_tagline":"Ask us anything...","current_timestamp":1406154299,"images":"//s3.amazonaws.com/www.thegamecrafter.com/ifly/themes/dark/images/","text_support_chat_offline_message_send_button":"Send Message","external_a_host":"https://api2.iflychat.com","uid":"","text_support_chat_auto_greet_message":"Hi there! Welcome to our website. Let us know if you have any query!","basePath":"/","username":"","searchBar":"1","text_support_chat_box_header":"Support","text_support_chat_auto_greet_time":"1","newMessage":"New chat message!","allowSmileys":"1","noUsers":"<div class=\"item-list\"><ul><li class=\"drupalchatnousers even first last\">No users online</li></ul></div>","text_support_chat_offline_message_contact":"Contact Details","status":"1","guestPrefix":"Guest","notificationSound":"2","up":"//s3.amazonaws.com/www.thegamecrafter.com/ifly/themes/dark/images/default_avatar.png","default_up":"//s3.amazonaws.com/www.thegamecrafter.com/ifly/themes/dark/images/default_avatar.png","external_host":"https://api2.iflychat.com","useStopWordList":"1","statusUrl":" ","soundFile":"//s3.amazonaws.com/www.thegamecrafter.com/ifly/wav/notification.mp3","iup":"1","upl":"#","pollUrl":" ","blockHL":"1","external_a_port":"443","allowAnonHL":"2","addUrl":" ","text_support_chat_init_label_off":"Leave Message","text_support_chat_auto_greet_enable":"1","smileyURL":"//s3.amazonaws.com/www.thegamecrafter.com/ifly/smileys/very_emotional_emoticons-png/png-32x32/","text_support_chat_offline_message_desc":"Hello there. We are currently offline. Please leave us a message. Thanks.","open_chatlist_default":"2","external_port":"443","renderImageInline":"2"}};</script><script type="text/javascript" src="//s3.amazonaws.com/www.thegamecrafter.com/ifly/js/ba-emotify.js"></script><script type="text/javascript" src="//s3.amazonaws.com/www.thegamecrafter.com/ifly/js/jquery.titlealert.min.js"></script><script type="text/javascript" src="//s3.amazonaws.com/www.thegamecrafter.com/ifly/js/iflychat.js"></script>
-<script type="text/javascript">
-setTimeout(function(){var a=document.createElement("script");
-var b=document.getElementsByTagName("script")[0];
-a.src=document.location.protocol+"//dnn506yrbagrg.cloudfront.net/pages/scripts/0020/9240.js?"+Math.floor(new Date().getTime()/3600000);
-a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
-</script>
-<script language="javascript">
-    function PopupCenter(url, title, w, h) 
-        {  
+  
+      function PopupChat() {
+         var w = 500;
+         var h = 665;
                 var sxcenter = screen.left + screen.width / 2;
                 var sycenter = screen.top + screen.height / 2;
                 var left = sxcenter - w / 2;
                 var top = sycenter - h / 2;
                   
-        var newWindow = window.open(url, title, 'scrollbars=yes, toolbar=no, location=no, status=no, menubar=no, width=' + w + ', height=' + h + ', top=' + top + ', left=' + left);  
+        var newWindow = window.open('/chat', 'TGC Chat', 'scrollbars=yes, toolbar=no, location=no, status=no, menubar=no, width=' + w + ', height=' + h + ', top=' + top + ', left=' + left);  
       
-        if (window.focus)
-                {  
-            newWindow.focus();  
+        if (window.focus) {  
+            newWindow.focus();
         }  
     };
-</script>
 
-<button onclick="PopupCenter('/chat','TGC Chat','500','665');return false" class="btn btn-info" style="background-color: #bbd329; border-color: black; color: black; position: fixed; left: 20px; bottom: 0px;" title="Open chat in new window."><span class="glyphicon glyphicon-comment"></span> <span class="glyphicon glyphicon-new-window"></span></button>
+    $('#chiselchat-tab-list').append('<button onclick="PopupChat();return false" class="btn btn-xs btn-info" style="background-color: #555; border-color: #555; color: #ccc;" title="Open chat in new window."><span class="glyphicon glyphicon-comment"></span> <span class="glyphicon glyphicon-new-window"></span></button>');
+
+</script>
+<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=plainblack"></script>
+
 
 
 
