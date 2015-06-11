@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rootofgood.com privacy policy that was archived on 2014-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141124073252id_/http%3A//rootofgood.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rootofgood.com privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611084228id_/http%3A//rootofgood.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Root of Good
 
