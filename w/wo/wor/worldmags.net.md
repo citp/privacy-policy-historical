@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worldmags.net privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625055728id_/http%3A//worldmags.net/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldmags.net privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611165900id_/http%3A//worldmags.net/policy.html) for the most accurate reproduction.*
 
 # Privacy Policy » True PDF Digital Magazine - Download free digital magazines for iPhone iPad, Android, Smartphone, PC and Mac device
 
