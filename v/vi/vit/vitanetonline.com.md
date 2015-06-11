@@ -1,6 +1,9 @@
-> *The following text is extracted and transformed from the vitanetonline.com privacy policy that was archived on 2014-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141128064043id_/http%3A//vitanetonline.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vitanetonline.com privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611091556id_/http%3A//vitanetonline.com/privacy.cfm) for the most accurate reproduction.*
 
 # VitaNet ®, LLC Privacy Policy
+
+  
+
 
 * * *
 
@@ -8,11 +11,7 @@ We value our customers and will make every effort to respect your privacy. The f
 
 Effective on 11/15/2013
 
--Revision on Return policy, 180 days to return products, 10% restocking fee on opened products returned.
-
-**Hacker Safe.**
-
-First the Staff here at VitaNet®, LLC. would like to mention the hacker safe symbol at the bottom of every page on our site. Our Site is tested and certified daily to pass the FBI/SANS Internet Security Test. The "live" HACKER SAFE mark appears only when a web site's security meets the highest security scanning standards of the U.S. government, Visa, MasterCard, American Express, Discover and JCB. You can feel safe shopping with VitaNet®, LLC. Health Foods.
+-Revision on Return policy, 180 days to return products, 10% restocking fee on opened products returned after 60 Days.
 
 **Information Collected and How it is Used**
 
@@ -73,8 +72,9 @@ We may disclose personal information when required by law or in the good-faith b
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with our Web site, you can contact us at:
 
-**Customer Service** support@vitanet.net  
-VitaNet®, LLC., 235 Market Ave. SW, Hartville, OH 44632  
+**Customer Service** support@vitanetonline.com  
+VitaNet®, LLC., 887 Edison ST NW  
+Hartville, OH 44632  
 Phone: 330-877-8786 Toll Free: 800-877-8702 Fax: 330-877-8787  
 
 
