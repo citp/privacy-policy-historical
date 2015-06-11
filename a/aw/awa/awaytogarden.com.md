@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the awaytogarden.com privacy policy that was archived on 2014-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141204081625id_/http%3A//awaytogarden.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the awaytogarden.com privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611203427id_/http%3A//awaytogarden.com/privacy-policy) for the most accurate reproduction.*
 
 # privacy policy - A Way To Garden
 
-YOUR PRIVACY is important, and we want you to understand what information is collected when you visit [http://awaytogarden.com](https://web.archive.org/web/20141204081625id_/http://awaytogarden.com/) or http://awaytogarden.com/book (the websites) and how we use it.
+YOUR PRIVACY is important, and we want you to understand what information is collected when you visit [http://awaytogarden.com](https://web.archive.org/web/20150611203427id_/http://awaytogarden.com/) or http://awaytogarden.com/book (the websites) and how we use it.
 
 **Information You Provide**
 
