@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the savvytokyo.com privacy policy that was archived on 2014-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141210084324id_/http%3A//www.savvytokyo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the savvytokyo.com privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611084200id_/http%3A//www.savvytokyo.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy : Savvy Tokyo
+# Privacy Policy | Savvy Tokyo
 
 This document serves as a guide to Savvy Tokyo users regarding their privacy when using the service.  
 Effective March 24, 2008
