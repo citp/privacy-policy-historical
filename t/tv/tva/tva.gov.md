@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tva.gov privacy policy that was archived on 2014-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141012193139id_/http%3A//www.tva.com/abouttva/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tva.gov privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611231902id_/http%3A//www.tva.com/abouttva/privacy.htm) for the most accurate reproduction.*
 
 # TVA Privacy Policy
 
@@ -74,6 +74,10 @@ Our website has links to websites of other federal agencies and to private organ
 ## Security
 
 This government computer system employs software programs to monitor network traffic to identify unauthorized attempts to upload or change information, or otherwise cause disruption or damage. Such attempts are strictly prohibited and may be punishable under the Computer Fraud and Abuse Act of 1986 and the National Information Infrastructure Protection Act. Except for authorized law enforcement investigations, no other attempts are made to identify individual users or their usage habits.
+
+TVA information systems may be protected by EINSTEIN cybersecurity capabilities, under the operational control of the U.S. Department of Homeland Security’s United States Computer Emergency Readiness Team (US-CERT). Electronic communications with TVA may be scanned by government-owned or contractor equipment to look for network traffic indicating known or suspected malicious cyber activity, including malicious content or communications. Electronic communications within TVA will be collected or retained by US-CERT only if they are associated with known or suspected cyber threats. US-CERT will use the information collected through EINSTEIN to analyze the known or suspected cyber threat and help TVA and other agencies respond and better protect their computers and networks.
+
+For additional information about EINSTEIN capabilities, please see the EINSTEIN program-related Privacy Impact Assessments available on the [DHS cybersecurity privacy website](http://www.dhs.gov/files/publications/editorial_0514.shtm#4) along with other information about the federal government’s cybersecurity activities.
 
 ### TVA Privacy Program
 
