@@ -1,38 +1,113 @@
-> *The following text is extracted and transformed from the gifs.com privacy policy that was archived on 2013-07-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130717052804id_/http%3A//www.gifs.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gifs.com privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612000300id_/http%3A//gifs.com/privacy) for the most accurate reproduction.*
 
-# Gifs.com Free Animations, Gif Manager, SoundsPics and CellPhone ScreenSavers - -
+# Privacy Policy | GIFS.com
 
-  
+This privacy policy has been compiled to better serve those who are concerned with how their 'Personally identifiable information' (PII) is being used online. PII, as used in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.
 
-    
-    
-    **Privacy Policy**
-    
-    
-      
+## What personal information do we collect from the people that visit our blog, website or app?
 
-We respect your right to privacy. We will never sell or rent your name, e-mail address and any other identifying information that you give us with any third party.
+When registering on our site, as appropriate, you may be asked to enter your name, email address or other details to help you with your experience.
 
-For each visitor, our web server collects no information regarding the domain, location, route or e-mail address. We only check the IP address and use it for internal purpose. We use IP address for creating unique hits for our banners.
+## When do we collect information?
 
-## Third Party Advertising:
+We collect information from you when you register on our site, subscribe to a newsletter, respond to a survey, fill out a form or enter information on our site.
 
-We use Burst Media, Casale Media, BUDS INC, Google, RealCastMedia, Commission Junction, MaxWorldwide and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please click here.
+## How do we use your information?
 
-## Third Party Cookies:
+We may use the information we collect from you when you register, sign up for our newsletter, respond to a survey or marketing communication, surf the website, or use certain other site features in the following ways:
 
-In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique 'cookie' on your browser.
+• To personalize user's experience and to allow us to deliver the type of content and product offerings in which you are most interested.  
+• To improve our website in order to better serve you.  
+• To administer a contest, promotion, survey or other site feature.  
+• To send periodic emails regarding your order or other products and services.
 
-The third party ad network or server will be using technology for the links and advertisements, which appear on [www.gifs.com](http://www.gifs.com/) send directly to the browser. They will on their own get IP address when this happens. Some of the other technologies like JavaScript, Web Beacons and cookies will be used by the third-party advertiser for measuring the effectiveness of the ads or for personalizing the ad content you see. Our website does not have access or control over such cookies, which are used by our third-party advertiser.
+## How do we protect visitor information?
 
-You can go through the respective privacy policies of such third-party advertisers for more information on the practices, along with instructions on how you can opt out from the same. Our website's policy does not apply to, and we will not be able to control any activities of, other websites or advertisers.
+Your personal information is contained behind secured networks and is only accessible by a limited number of persons who have special access rights to such systems, and are required to keep the information confidential. 
 
-Any advertisements served by Google, Inc., and affiliated companies may be controlled using cookies. These cookies allow Google to display ads based on your visits to this site and other sites that use Google advertising services. Learn how to opt out of Google's cookie usage. As mentioned above, any tracking done by Google through cookies and other mechanisms is subject to Google's own privacy policies.
+We implement a variety of security measures when a user enters, submits, or accesses their information to maintain the safety of your personal information.
 
-## Links to other Websites:
+## Do we use 'cookies'?
 
-Our website may have links for other websites that may interest you. However, once you have to chosen to use those links for leaving our sites, you should know that we will have no control over the other website. Therefore, we will not be responsible for any privacy and protection of any kind of information, which you will be giving while you visit other sites and such sites are not governed by our privacy statements. Make sure that you exercise caution and look for the privacy statements that are applicable to the website that is in question.
+Yes. Cookies are small files that a site or its service provider transfers to your computer's hard drive through your Web browser (if you allow) that enables the site's or service provider's systems to recognize your browser and capture and remember certain information. For instance, we use cookies to help us remember and process the items in your shopping cart. They are also used to help us understand your preferences based on previous or current site activity, which enables us to provide you with improved services. We also use cookies to help us compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
 
-## About Google advertising:
+We use cookies to:  
+• Keep track of advertisements.  
+• Compile aggregate data about site traffic and site interactions in order to offer better site experiences and tools in the future. We may also use trusted third party services that track this information on our behalf.
 
-What is the DoubleClick DART cookie? The DoubleClick DART cookie is used by Google in the ads served on publisher websites displaying AdSense for content ads. When users visit an AdSense publisher’s website and either view or click on an ad, a cookie may be dropped on that end user’s browser. The data gathered from these cookies will be used to help AdSense publishers better serve and manage the ads on their site(s) and across the web. [Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.](http://www.google.com/privacy_ads.html)
+You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser (like Internet Explorer) settings. Each browser is a little different, so look at your browser's Help menu to learn the correct way to modify your cookies.
+
+If you disable cookies off, some features will be disabled It won't affect the users experience that make your site experience more efficient and some of our services will not function properly.
+
+## Third Party Disclosure
+
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information unless we provide you with advance notice. This does not include website hosting partners and other parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others' rights, property, or safety. 
+
+However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+
+## Third party links
+
+Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+
+## Google
+
+Google's advertising requirements can be summed up by Google's Advertising Principles. They are put in place to provide a positive experience for users. <https://support.google.com/adwordspolicy/answer/1316548?hl=en>
+
+We use Google AdSense Advertising on our website.
+
+Google, as a third party vendor, uses cookies to serve ads on our site. Google's use of the DART cookie enables it to serve ads to our users based on their visit to our site and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
+
+We have implemented the following:  
+• Remarketing with Google AdSense  
+• Google Display Network Impression Reporting  
+• Demographics and Interests Reporting  
+• DoubleClick Platform Integration
+
+We along with third-party vendors, such as Google use first-party cookies (such as the Google Analytics cookies) and third-party cookies (such as the DoubleClick cookie) or other third-party identifiers together to compile data regarding user interactions with ad impressions, and other ad service functions as they relate to our website.
+
+Opting out:  
+Users can set preferences for how Google advertises to you using the Google Ad Settings page. Alternatively, you can opt out by visiting the Network Advertising initiative opt out page or permanently using the Google Analytics Opt Out Browser add on.
+
+## Does our site allow third party behavioral tracking?
+
+It's also important to note that we allow third party behavioral tracking
+
+## COPPA (Children Online Privacy Protection Act)
+
+When it comes to the collection of personal information from children under 13, the Children's Online Privacy Protection Act (COPPA) puts parents in control. The Federal Trade Commission, the nation's consumer protection agency, enforces the COPPA Rule, which spells out what operators of websites and online services must do to protect children's privacy and safety online.
+
+We do not specifically market to children under 13.
+
+## CAN SPAM Act
+
+The CAN-SPAM Act is a law that sets the rules for commercial email, establishes requirements for commercial messages, gives recipients the right to have emails stopped from being sent to them, and spells out tough penalties for violations.
+
+We collect your email address in order to:  
+• Send information, respond to inquiries, and/or other requests or questions.  
+• Market to our mailing list or continue to send emails to our clients after the original transaction has occurred
+
+To be accordance with CANSPAM we agree to the following:  
+• NOT use false, or misleading subjects or email addresses  
+• Identify the message as an advertisement in some reasonable way  
+• Include the physical address of our business or site headquarters  
+• Monitor third party email marketing services for compliance, if one is used.  
+• Honor opt-out/unsubscribe requests quickly  
+• Allow users to unsubscribe by using the link at the bottom of each email
+
+If at any time you would like to unsubscribe from receiving future emails, you can  
+• Follow the instructions at the bottom of each email.  
+and we will promptly remove you from ALL correspondence.
+
+## Contacting Us
+
+If there are any questions regarding this privacy policy you may contact us using the information below.
+
+Gifs.com  
+Ponte Vedra Beach  
+USA  
+830-13 A1A North #234  
+FL  
+32082  
+[info@gifs.com](mailto:info@gifs.com)
+
+Last Edited on 2015-01-08
