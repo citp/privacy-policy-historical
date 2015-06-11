@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the telescope.com privacy policy that was archived on 2014-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141126094427id_/http%3A//www.telescope.com/content.jsp%3FpageName%3DPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the telescope.com privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611213814id_/http%3A//www.telescope.com/content.jsp%3FpageName%3DPrivacy) for the most accurate reproduction.*
 
 # Privacy | Orion Telescopes & Binoculars
 
@@ -16,7 +16,7 @@ We may also use the information linked to IP addresses to ban users who violate 
 
 "Personally Identifiable Information" is any information that personally identifies you, such as your name, street address, email address, telephone number or credit card number. We collect such information when, for example, you enter a contest, subscribe to our email newsletter, participate in other interactive online activities such as forums, or order merchandise through our Site.
 
-NOTE: DO NOT INCLUDE ANY CREDIT CARD INFORMATION IN ANY EMAIL COMMUNICATION. IF YOU DO, WE CANNOT GUARANTEE THAT YOUR INFORMATION WILL REMAIN SECURE, AND WE THEREFORE WILL NOT BE RESPONSIBLE FOR ANY LOSSES THAT YOU MAY SUFFER AS A RESULT.
+NOTE: DO NOT INCLUDE ANY CREDIT CARD INFORMATION IN ANY EMAIL OR LIVE CHAT COMMUNICATION. IF YOU DO, WE CANNOT GUARANTEE THAT YOUR INFORMATION WILL REMAIN SECURE, AND WE THEREFORE WILL NOT BE RESPONSIBLE FOR ANY LOSSES THAT YOU MAY SUFFER AS A RESULT.
 
 Any and all of your Personally Identifiable Information (with the exception of your credit card information, which is always kept confidential) may be used to help us maintain your account, and also to enable us and our business partners to send you announcements of new Site features, special offers and promotional material. However, if you decide that you do not wish to receive future email communications from Orion Telescopes & Binoculars, you may follow the "Unsubscribe" instructions on the communication you have received.
 
@@ -38,9 +38,9 @@ If you are a customer of our Site, you may change your email information or your
 
 > **Orion Telescopes & Binoculars**: [sales@telescope.com](mailto:sales@telescope.com) or 800-676-1343
 
-We may attempt to verify your order with the preCharge global merchant network. preCharge does not approve or decline orders, however does provide a review system based on a variety of information provided in the ordering processing by which we may use to consider your order.
+We may attempt to verify personal information to detect and prevent fraudulent activity including billing address, phone number and ship-to address information submitted with an order by contacting the credit card issuer, and using the services of LexisNexis and/or Cybersource.
 
-FOR YOUR OWN PROTECTION, NEVER SEND CREDIT CARD INFORMATION VIA EMAIL. WE CANNOT GUARANTEE THE SECURITY OF EMAIL TRANSMISSIONS AND THUS CANNOT BE RESPONSIBLE FOR ANY LOSSES THAT YOU MAY SUFFER AS A RESULT.
+FOR YOUR OWN PROTECTION, NEVER SEND CREDIT CARD INFORMATION VIA EMAIL OR LIVE CHAT. WE CANNOT GUARANTEE THE SECURITY OF EMAIL TRANSMISSIONS AND THUS CANNOT BE RESPONSIBLE FOR ANY LOSSES THAT YOU MAY SUFFER AS A RESULT.
 
 In all cases, we will only use your information as permitted by law. Notwithstanding any other provision of this Privacy Policy, however, we may disclose Personally Identifiable Information to others if we are required to do so by law or we in good faith believe that such action is necessary to (a) comply with the law or with legal process; (b) protect and defend our rights and property; (c) protect against misuse or unauthorized use of the Site; or (d) protect the personal safety or property of our users or the public. Please note that we may not provide you with notice prior to disclosure in such cases.
 
@@ -48,7 +48,58 @@ In all cases, we will only use your information as permitted by law. Notwithstan
 
 Our Site uses "cookies" — data that is transferred from our Site to your hard drive for record-keeping purposes — to keep track of your shopping cart when you order merchandise through our Site. We also use cookies to deliver content specific to your interests and to save your password so you do not have to re-enter it each time you visit our Site.
 
-We work with Google to display advertisements to our site prospects, on our behalf, across the Internet. Google uses cookies to serve ads based on your prior visits to our website. You may opt out of Google's use of cookies by visiting the [Google advertising opt-out page](http://www.google.com/privacy_ads.html).
+We use the following cookies and tracking pixels to deliver content, including advertisements on third-party websites, specific to your interests:
+
+> **AddThis**  
+>  We use AddThis functionality to provide you with the ability to share pages from our websites in your social media channels. In addition to a tracking pixel, AddThis serves its __atuvc cookie to visitors to our websites. You can find instructions on how to opt-out from AddThis functionality at this url: <http://www.addthis.com/privacy/opt-out>.
+> 
+> **Bazaarvoice**  
+>  We use Bazaarvoice functionality to provide you with the ability to review our products and community items as well as read and interact with the reviews provided by others. You can learn more about Bazaarvoice's privacy policy and use of cookies, along with instructions on how to opt-out of Bazaarvoice data collection, at this url: <http://www.bazaarvoice.com/privacy-policy/>.
+> 
+> **Channel Advisor**  
+>  We use Channel Advisor functionality to track activity related to those who have seen and clicked on our product listings at various shopping comparison websites. You can find information on Channel Advisor's privacy policies and use of cookies at this url: <http://www.channeladvisor.com/privacy-policy/>.
+> 
+> **Commission Junction**  
+>  We use Commission Junction functionality to track activity related to those who have seen and clicked on our product advertisements at various affiliate websites. You can find information on Commission Junction's privacy policies and use of cookies at this url: <http://www.cj.com/legal/privacy_web_user.html>.
+> 
+> **DoubleClick**  
+>  We use DoubleClick functionality to serve interest-specific advertisements on third-party websites to those who have visited our websites. You can find instructions on how to opt-out from DoubleClick functionality at this url: <http://www.google.com/ads/preferences/html/opt-out.html>.
+> 
+> **eBay Enterprise Affiliate Network (formerly PepperJam Exchange)**  
+>  We use eBay Enterprise Affiliate Network functionality to track activity related to those who have seen and clicked on our product advertisements at various affiliate websites. You can find information on eBay Enterprise's privacy policies and use of cookies at this url: <http://www.ebayenterprise.com/privacy/services_privacy.php>.
+> 
+> **Facebook Connect and Social Plugins**  
+>  We use Facebook functionality to allow visitors to our websites to "Like" our products and pages. Information on Facebook's privacy policies and adjusting your Facebook privacy settings can be found at this url: <https://www.facebook.com/about/privacy/>.
+> 
+> **Google+**  
+>  We use Google+ functionalitiy to provide you with the ability to share pages from our website in your Google+ stream. You can find instructions on how to opt out of Google functionality at this url: <https://www.google.com/settings/ads/preferences?hl=en>.
+> 
+> **Google Adwords**  
+>  We use Google Adwords functionality to track activity related to those who have seen and clicked on our advertisements managed by Google on third-party websites. You can find instructions on how to opt out of Google functionality at this url: <https://www.google.com/settings/ads/preferences?hl=en>.
+> 
+> **Google Analytics**  
+>  We use Google Analytics to track user activity in aggregate across our various websites. In addition to tracking pixels, Google Analytics serves its __utma, __utmb, __utmc, and __utmz cookies to our website visitors. You can find tools to help you opt-out of Google Analytics tracking and cookies at this url: <https://tools.google.com/dlpage/gaoptout>.
+> 
+> **Kenshoo**  
+>  We use Kenshoo functionality to track activity related to those who have seen and clicked on our advertisements on third-party websites. You can find information on Kenshoo's privacy policies and use of cookies at this url: <http://www.kenshoo.com/privacy-policy/>.
+> 
+> **LinkShare**  
+>  We use LinkShare functionality to track activity related to those who have seen and clicked on our product advertisements at various affiliate websites. You can find information on LinkShare's privacy policies and use of cookies at this url: <http://www.linkshare.com/legal/privacy/>.
+> 
+> **Microsoft**  
+>  We use Microsoft functionality to track activity related to those who have seen and clicked on our advertisements managed by Microsoft on third-party websites. You can find instructions on how to opt out of Microsoft functionality at this url: <http://choice.microsoft.com/en-us/opt-out>.
+> 
+> **NexTag**  
+>  We use NexTag functionality to track activity related to those who have seen and clicked on our product listings at NexTag.com and its affiliated websites. You can find information on NexTag's privacy policy and use of cookies at this url: <http://www.nextag.com/buyer/help/prPrivacyPolicy.jsp>.
+> 
+> **ResellerRatings**  
+>  We use ResellerRatings functionality to provide you with the ability to review Orion as a company. You can learn more about ResellerRatings' privacy policy and use of cookies at this url: <http://www.resellerratings.com/faqs#privacy>.
+> 
+> **Shopzilla**  
+>  We use Shopzilla functionality to track activity related to those who have seen and clicked on our product listings at Shopzilla.com and its affiliated websites. You can find information on Shopzilla's privacy policy and use of cookies at this url: <http://connexity.com/privacy-policy/>.
+> 
+> **Twitter**  
+>  We use Twitter functionality to provide you with the ability to share pages from our website in your Twitter stream.
 
 ## Disclosure of Information through Business Transfers
 
@@ -64,13 +115,13 @@ Our Site may make chat rooms, forums, blogs, article commenting, and personal pr
 
 ## Security
 
-Our Site has reasonable security measures in place to protect the loss, misuse and alteration of the information under our control. Security of information communicated by or to us over the Internet is of utmost concern to us; however, no data transmission over the Internet can be guaranteed to be 100% secure. Please note that your email, like most, if not all, non-encrypted Internet communications, may potentially be accessed and viewed by other Internet users, without your knowledge and permission, while in transit to us. For that reason, to protect your privacy, please do not use email to communicate information to us that you consider confidential. While we strive to protect your personal information, Orion Telescopes & Binoculars cannot ensure or warrant the security of any information you transmit to us or through this our Site. Once we receive your transmission, we will use reasonable efforts to ensure its security on our internal systems. Depending on the nature of the inquiry, your communication may be discarded or archived.
+Our Site has reasonable security measures in place to protect the loss, misuse and alteration of the information under our control. Security of information communicated by or to us over the Internet is of utmost concern to us; however, no data transmission over the Internet can be guaranteed to be 100% secure. Please note that your email and live chat communications, like most, if not all, non-encrypted Internet communications, may potentially be accessed and viewed by other Internet users, without your knowledge and permission, while in transit to us. For that reason, to protect your privacy, please do not use email or live chat to communicate information to us that you consider confidential. While we strive to protect your personal information, Orion Telescopes & Binoculars cannot ensure or warrant the security of any information you transmit to us or through this our Site. Once we receive your transmission, we will use reasonable efforts to ensure its security on our internal systems. Depending on the nature of the inquiry, your communication may be discarded or archived.
 
 ## Web site security
 
 We have taken many steps to ensure the security of your transaction. Telescope.com is secured with a GeoTrust world-class SSL certificate, enabling up to 256-bit SSL encryption. More than 100,000 customers in over 150 countries trust GeoTrust to secure online transactions and conduct business over the Internet. The presence of SSL means you can rest assured that communications (e.g. credit card numbers) between your browser and this site's web servers are private and secure when the SSL session is activated.
 
-This Site is tested and certified daily to pass the McAfee Secure Security Scan. To help address concerns about hacker access to confidential data, the "live" McAfee Secure mark appears only when a web site meets the McAfee Secure standard. This indicates that a site such as ours meets payment card industry guidelines for remote web server vulnerability testing to help protect your personal information. Click here to confirm.
+This Site is tested and certified regularly to pass the McAfee Secure Security Scan. To help address concerns about hacker access to confidential data, the "live" McAfee Secure mark appears only when a web site meets the McAfee Secure standard. This indicates that a site such as ours meets payment card industry guidelines for remote web server vulnerability testing to help protect your personal information. Click here to confirm.
 
 ## Policy Regarding Minors
 
@@ -96,4 +147,4 @@ If you have any questions about this Privacy Statement, the practices of our Sit
 >  Watsonville, CA 95076  
 >  [ Email Site Administrator](http://www.telescope.com/custserv/contactus.jsp)
 
-This Privacy Policy is effective as of April 13, 2010.
+This Privacy Policy is effective as of December 5, 2014.
