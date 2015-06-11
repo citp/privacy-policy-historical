@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the documentcloud.org privacy policy that was archived on 2014-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141025010524id_/http%3A//www.documentcloud.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the documentcloud.org privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611031528id_/https%3A//www.documentcloud.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - DocumentCloud
 
@@ -31,7 +31,7 @@ DocumentCloud is provided by Document Cloud Inc., a Delaware nonprofit corporati
   7. **Changes and updates to this notice:**
     1. We retain the right to make changes, in our sole discretion, to this Privacy Policy. We will post any updated policies to DocumentCloud's website.
   8. **Feedback about this policy:**
-    1. We welcome your feedback about this policy. DocumentCloud is in beta: we appreciate your input on both our software and our policies.
+    1. We welcome your feedback about this policy and our software. Please email us your thoughts at[support@documentcloud.org](mailto:support@documentcloud.org?subject=feedback).
   9. **Contacting DocumentCloud**
     1. See [contact us](https://web.archive.org/contact) for the complete array of ways to reach us for technical support or new account questions. Our mailing address is:
     
