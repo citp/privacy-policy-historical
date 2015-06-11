@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hobbs.co.uk privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120065357id_/http%3A//www.hobbs.co.uk/information/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hobbs.co.uk privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612002828id_/http%3A//www.hobbs.co.uk/information/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Hobbs
 
@@ -50,7 +50,6 @@ All personal customer information is stored within a robust secure environment a
 
   
 Please note that email correspondence with us is in free format text and cannot be encrypted.  Accordingly please do not send any sensitive information such as credit card details or passwords via email.
-
 Who Else May See Your Data
     
 
