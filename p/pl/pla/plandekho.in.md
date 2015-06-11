@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the plandekho.in privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625050225id_/http%3A//plandekho.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plandekho.in privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612011042id_/http%3A//plandekho.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Plan Dekho
-
-[](http://www.cashaish.com/contest/)
 
 **Your Privacy**
 
@@ -14,8 +12,6 @@ Google, as a third party advertisement vendor, uses cookies to serve ads on this
 To opt out of the DART cookies you may visit the Google ad and content network privacy policy at the following URL http://www.google.com/privacy_ads.html Tracking of users through the DART cookie mechanisms are subject to Google’s own privacy policies.
 
 Other Third Party ad servers or ad networks may also use cookies to track users activities on this website to measure advertisement effectiveness and other reasons that will be provided in their own privacy policies, PlanDekho.in has no access or control over these cookies that may be used by third party advertisers.
-
-[](http://www.cashaish.com/contest/)
 
 **Collection of Personal Information**  
 When visiting [PlanDekho](http://plandekho.in/), the IP address used to access the site will be logged along with the dates and times of access. This information is purely used to analyze trends, administer the site, track users movement and gather broad demographic information for internal use. Most importantly, any recorded IP addresses are not linked to personally identifiable information.
