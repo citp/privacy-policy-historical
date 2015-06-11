@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lovetheatre.com privacy policy that was archived on 2014-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141226170942id_/http%3A//www.lovetheatre.com/information/security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lovetheatre.com privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611083004id_/http%3A//www.lovetheatre.com/information/security) for the most accurate reproduction.*
 
-# Security | Information | LOVE Theatre
+# Security | Information | LOVEtheatre
 
 What information do we collect?
 
