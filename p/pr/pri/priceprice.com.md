@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the priceprice.com privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123070003id_/http%3A//ph.priceprice.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the priceprice.com privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612000856id_/http%3A//ph.priceprice.com/privacy-policy) for the most accurate reproduction.*
 
 # Priceprice.com - Privacy Policy
 
@@ -137,7 +137,7 @@ Name of the authorized personal information protection organization handling com
 Personal Information Protection Consultation Service Office  
 PrivacyMark Promotion Center   
 Japan Institute for Promotion of Digital Economy and Community (JIPDEC)  
-Kikai Shinko Kaikan Building, 3-5-8 Shiba Koen, Minato-ku, Tokyo, 105-0011 Japan   
+Roppongi First Building, 1-9-9 Roppongi, Minato-ku, Tokyo, 106-0032 Japan  
 Phone: 0120-700779   
 * The phone number shown above is NOT for inquiries regarding the Company’s services.
 
