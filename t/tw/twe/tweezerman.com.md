@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tweezerman.com privacy policy that was archived on 2014-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141124074200id_/http%3A//www.tweezerman.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tweezerman.com privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612001538id_/http%3A//www.tweezerman.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Tweezerman
 
