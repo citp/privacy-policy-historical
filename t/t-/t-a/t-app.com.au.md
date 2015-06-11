@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the t-app.com.au privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220020536id_/http%3A//www.t-app.com.au/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the t-app.com.au privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611065857id_/http%3A//www.t-app.com.au/privacy.aspx) for the most accurate reproduction.*
 
 # 
 
@@ -20,7 +20,7 @@ tApp regards compliance with all applicable laws to protect the privacy of indiv
 
 ## Accuracy of information
 
-**tApp** must takes measures to make sure that the information on its database is accurate, complete and up to date. We do not make changes to information on the tApp database as it is not our information to change. The tApp is available at all times to those persons who have supplied their information to update the information as necessary and it is expected that persons will keep their own information accurate, complete and up to date. If you think that any information on the database is, or might be, inaccurate or out of date, please contact us and we will make every effort to correct any inaccuracies. If we become aware or suspect that information on the tApp database is inaccurate, incomplete or not up to date we reserve the right to remove the information from the database.
+**tApp** takes measures to make sure that the information on its database is accurate, complete and up to date. We do not make changes to information on the tApp database as it is not our information to change. The tApp is available at all times to those persons who have supplied their information to update the information as necessary and it is expected that persons will keep their own information accurate, complete and up to date. If you think that any information on the database is, or might be, inaccurate or out of date, please contact us and we will make every effort to correct any inaccuracies. If we become aware or suspect that information on the tApp database is inaccurate, incomplete or not up to date we reserve the right to remove the information from the database.
 
 TRA takes care to ensure that only relevant information is collected on its database. No sensitive personal information is retained. Access to the database is carefully limited to persons with a genuine purpose for consulting the database.
 
