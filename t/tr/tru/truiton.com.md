@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the truiton.com privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123190053id_/http%3A//www.truiton.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the truiton.com privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612005507id_/http%3A//www.truiton.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Truiton.com
+# Privacy Policy - Truiton
 
 **Truiton.com respects your privacy.**
 
-We do not share personal information with third-parties nor do we store information we collect about your visit to this blog for use other than to analyze content performance through the use of cookies, which you can turn off at anytime by modifying your Internet browser’s settings. Any personal information you provide to us including and similar to your name, address, telephone number and e-mail address will not be released, sold, or rented to any entities or individuals outside of Truiton.com. We are not responsible for the republishing of the content found on this blog on other Web sites or media without our permission.  This privacy policy is subject to change without notice.
+We do not share personal information with third-parties nor do we store information we collect about your visit to this blog for use other than to analyze content performance through the use of cookies, which you can turn off at anytime by modifying your Internet browser’s settings. Any personal information you provide to us including and similar to your name, address, telephone number and e-mail address will not be released, sold, or rented to any entities or individuals outside of Truiton.com. We are not responsible for the republishing of the content found on this website on other Web sites or media without our permission. This privacy policy is subject to change without notice.
 
 **Comments**
 
@@ -17,7 +17,7 @@ Comments are welcomed and encouraged on this site, but there are some instances 
 
 
 
-The owner of this blog reserves the right to edit or delete any comments submitted to this blog without notice. This comment policy is subject to change at any time.
+The owner of this website reserves the right to edit or delete any comments submitted to this website without notice. This comment policy is subject to change at any time.
 
 **Credit card details**
 
@@ -25,7 +25,7 @@ Truiton.com will never ask for Credit Card details and request that you do not e
 
 **Cookies**
 
-A “cookie” is a small data text file that is placed in your browser and allows Truiton.com to recognize you each time you visit this site. Cookies themselves do not contain any personal information, and Truiton.com does not use cookies to collect personal information. Cookies may also be used by 3rd party content providers such as news feeds, and ad networks.
+A “cookie” is a small data text file that is placed in your browser and allows Truiton.com to recognize you each time you visit this site. Cookies themselves do not contain any personal information, and Truiton.com does not use cookies to collect personal information. Cookies may be used by 3rd party content providers such as news feeds, and ad networks.
 
 **Remember The Risks Whenever You Use The Internet**
 
