@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the kdanmobile.com privacy policy that was archived on 2014-07-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140707092232id_/http%3A//www.kdanmobile.com/en/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kdanmobile.com privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611034622id_/http%3A//kdanmobile.com/en/policy.html) for the most accurate reproduction.*
 
-# Kdan Mobile | Digital Creation Tools and Services Across PC, Mac, and Mobile
+# Kdan Mobile | The Best Apps, Digital Tools, and Services
 
 This Privacy Policy governs how Kdan Mobile Software Ltd. collects, uses, maintains and discloses information collected from users ("User") of this website( <http://www.kdanmobile.com/> , "Site"). This Privacy Policy applies to the Site and all products and services offered by Kdan Mobile Software Ltd.
 
