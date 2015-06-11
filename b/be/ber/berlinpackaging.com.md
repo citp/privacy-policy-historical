@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the berlinpackaging.com privacy policy that was archived on 2014-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141126025650id_/http%3A//www.berlinpackaging.com/en/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the berlinpackaging.com privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611122229id_/http%3A//www.berlinpackaging.com/en/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - Berlin Packaging
 
