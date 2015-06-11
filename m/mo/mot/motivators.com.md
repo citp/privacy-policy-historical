@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the motivators.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122172924id_/http%3A//www.motivators.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the motivators.com privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611084310id_/http%3A//www.motivators.com/privacy.asp) for the most accurate reproduction.*
 
 # Motivators Privacy Policy, Commitment to Data Security, Motivators Information
 
 **Our Commitment To Privacy**
 
-Your privacy is important to us. To better protect your privacy we provide this notice explaining our online and internal information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage ([www.Motivators.com](http://www.motivators.com/)) and at every point where personal information may be requested.
+This privacy policy applies to www.motivators.com owned and operated by Motivators, Inc. (collectively "We", "Us" or "Our"). Your privacy is important to us. To better protect your privacy we provide this notice explaining our online and internal information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage ([www.Motivators.com](http://www.motivators.com/)) and at every point where personal information may be requested.
 
-Motivators, Inc. has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy-program-requirements/) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program covers information collected through this Web site www.motivators.com. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at 800-525-9600. If you are not satisfied with our response you can contact [TRUSTe here](https://feedback-form.truste.com/watchdog/request).
+Motivators, Inc. has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy-program-requirements/) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program covers information collected through this Web site www.motivators.com and does not cover information that may be collected through our mobile applications. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at 800-525-9600. If you are not satisfied with our response you can contact [TRUSTe here](https://feedback-form.truste.com/watchdog/request).
 
 **The Information We Collect**
 
@@ -32,21 +32,33 @@ On some pages, you can submit information about other people. For example, if yo
 
 
 
-**Cookies**
+This information is only used for the sole purpose of completing your request or for whatever reason it may have been provided.
 
-We use cookies to record session information, such as items that consumers add to their shopping cart. We may also use cookies, for example, to keep track of your preferences and profile information. Cookies are also used to collect general usage and volume statistical information that does not include personal information.
+**Tracking Technologies**
 
-**Third Party Cookies**
+Technologies such as: cookies, beacons, tags and scripts are used by Motivators, Inc. and our marketing partners, or analytics providers. These technologies are used in analyzing trends, administering the site, tracking users' movements around the site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis.
 
-The use of cookies by our partners and service providers is covered by our privacy statement. We do have access or control over these cookies. Our partners and service providers use session ID cookies to make it easier for you to navigate our site and in order for you to use the shopping cart.
+We use cookies to remember users' settings for authentication. Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our site, but your ability to use some features or areas of our site may be limited.
 
-**Web Beacons**
+**Log Files**
 
-Our Web pages contain electronic images known as Web beacons (sometimes called single-pixel gifs) and are used along with cookies to compile aggregated statistics to analyze how our site is used and may be used in some of our emails to let us know which emails and links have been opened by recipients. This allows us to gauge the effectiveness of our customer communications and marketing campaigns.
+As is true of most web sites, we gather certain information automatically and store it in log files. This information may include internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and/or clickstream data.
+
+We do not link this automatically collected data to other information we collect about you.
+
+**Local Storage Object (Flash)**
+
+We use Local Storage Objects (LSOs) such as Flash to store preferences. Third parties with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity use LSOs such as Flash to collect and store information.
+
+To manage Flash LSOs please click [here](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html).
+
+**Behavioral Advertising**
+
+We partner with a third party to manage our advertising on other sites. Our third party partner may use technologies such as cookies to gather information about your activities on this site and other sites in order to provide you advertising based upon your browsing activities and interests. If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking [here](http://preferences-mgr.truste.com/). Please note this does not opt you out of being served ads. You will continue to receive generic ads.
 
 **The Way We Use Information**
 
-We use the information you provide about yourself when placing an order only to complete that order. We do not share information with outside third parties except to the extent necessary to complete that order or in the ways that are described in this privacy statement.
+We use the information you provide about yourself when placing an order only to complete that order. We do not share information with outside third parties except to the extent necessary to complete that order or in the ways that are described in this privacy statement. We do not sell your personal information to third parties.
 
 We use the information you provide about someone else when placing an order only to ship the product and to confirm delivery. We do not share this information with outside parties except to the extent necessary to complete that order. This third party may contact us at [privacy@motivators.com](mailto:privacy@motivators.com) to request that we remove this information from our database.
 
@@ -81,19 +93,23 @@ To prevent unauthorized access, maintain data accuracy, and ensure the correct u
 
 **Our Commitment To Children's Privacy**
 
-Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our website from those we actually know are under 18, and no part of our website is structured to attract anyone under 18.
+Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our website from those we actually know are under 18, and no part of our website is structured to attract anyone under 18. If we become aware that the child that the child under 18 has provided us with personal information, we will delete their information immediately and terminate the child's account.
 
 **Surveys**
 
 From time-to-time, we may provide you the opportunity to participate in contests on our site. If you participate, we will request certain personal information from you. Participation in these surveys is completely voluntary and you therefore have a choice whether or not to disclose this information. The requested information typically includes contact information (such as name and shipping address), and demographic information (such as zip code).
 
+We use this information to notify contest winners and award prizes.
+
 **Customer Testimonials/Comments/Reviews**
 
-We post customer testimonials/comments/reviews on our web site which may contain personal information. We do obtain the customer's consent via email prior to posting the testimonial to post their name along with their testimonial.
+We post customer testimonials/comments/reviews on our web site which may contain personal information. We do obtain the customer's consent via email prior to posting the testimonial to post their name along with their testimonial. If you wish to update or delete your testimonial, you can contact us at privacy@motivators.com.
 
 **Blogs**
 
-Our Web site offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them.
+Our Web site offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, contact us at privacy@motivators.com. In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
+
+Alternatively, if you used a third party application to post such information, you can remove it, by either logging into the said application and removing the information or by contacting the appropriate third party application.
 
 **Chat**
 
@@ -119,6 +135,10 @@ Our Site includes links to other Web sites whose privacy practices may differ fr
 
 Our Web site includes Social Media Features, such as the Facebook Like button and Widgets, such as the Share this button or interactive mini-programs that run on our site. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it.
 
+**Frames**
+
+Some of our pages utilize framing techniques to serve content to from our partners while preserving the look and feel of our site. Please be aware that you are providing your personal information to these third parties and not to www.motivators.com.
+
 **Data Retention**
 
 We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at [privacy@motivators.com](mailto:privacy@motivators.com). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
@@ -137,4 +157,4 @@ Should you have other questions or concerns about these privacy policies, please
 
 By Visiting Motivators.com, you are accepting the practices described in this privacy notice.
 
-This Privacy Policy has been in effect since 11/5/13
+This Privacy Policy has been in effect since 2/20/2015
