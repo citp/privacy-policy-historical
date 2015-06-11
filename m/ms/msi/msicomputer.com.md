@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the msicomputer.com privacy policy that was archived on 2014-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141118025925id_/http%3A//us.msi.com/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the msicomputer.com privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611231227id_/http%3A//us.msi.com/page/privacy-policy) for the most accurate reproduction.*
 
 # MSI USA - Computer, Laptop, Notebook, Desktop, Mainboard, Graphics and more
 
