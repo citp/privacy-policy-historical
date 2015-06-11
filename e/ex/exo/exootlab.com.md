@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the exootlab.com privacy policy that was archived on 2014-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140807092719id_/http%3A//www.exootlab.com/misc/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exootlab.com privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612003356id_/http%3A//www.exootlab.com/misc/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Exoot
 
