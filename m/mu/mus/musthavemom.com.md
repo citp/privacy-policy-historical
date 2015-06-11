@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the musthavemom.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120193837id_/http%3A//musthavemom.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the musthavemom.com privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611084249id_/http%3A//musthavemom.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Must Have Mom
 
@@ -21,6 +21,3 @@ Some of our advertising partners may use cookies and web beacons on our site. Ou
 We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: <http://www.networkadvertising.org/managing/opt_out.asp>
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at sarah@musthavemom.com.
-
-If you enjoyed this post, please consider leaving a comment, sharing on Pinterest, Facebook, Twitter or [subscribing to the RSS feed](http://musthavemom.com/feed "Syndicate this site using RSS") to have future articles delivered to your feed reader. You can also subscribe via email on the right sidebar!
-  *[RSS]: Really Simple Syndication
