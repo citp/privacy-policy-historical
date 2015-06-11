@@ -1,10 +1,22 @@
-<!--The following is the downloaded HTML source of the eveningflavors.com privacy policy that was archived on 2014-11-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141121104235id_/http%3A//eveningflavors.com/Privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the eveningflavors.com privacy policy that was archived on 2015-06-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150611102921id_/http%3A//eveningflavors.com/Privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
-  <title> Privacy Policy - Online Bangalore Restaurants, Pubs, Parties Guide from eveningflavors.com </title>
-  <link type="text/css" rel="stylesheet" href="/css/footerStyle.css">
+<!DOCTYPE html><html><head>
+  <title>  Privacy Policy - Online Bangalore Restaurants, Pubs, Parties Guide from eveningflavors.com  </title>
+  
+<link rel="shortcut icon" href="http://images.eveningflavors.com/CheckDomain/images/favicon.ico">
 
+
+
+	
+<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+
+   <link type="text/css" rel="stylesheet" href="/HomePageCss/CommonHomePage1.css">
+ 	<link type="text/css" rel="stylesheet" href="/HomePageCss/Careers.css">
+	<link type="text/css" rel="stylesheet" href="/Footer_Pages/Footer.css">
+	<link type="text/css" rel="stylesheet" href="/Footer_Pages/FooterResponsiveTablet.css">
+	<link type="text/css" rel="stylesheet" href="/Footer_Pages/FooterResponsiveMblLandScape.css">
+	<link type="text/css" rel="stylesheet" href="/Footer_Pages/FooterResponsive.css">
    <meta name="keywords" content="venues, restaurants, bars, clubs, booking, menus, ratings, rate, reviews, guides,
    invites,offers, reserve, table, food, ambience, service,  quality, dinner, diner, lunch,
    breakfast, morning, afternoon, evening, late night, weekend, dining, eating out, drinking,parties,
@@ -12,9 +24,228 @@
 
    <meta name="description" content="Privacy Policy - Booking tables in Restaurants, Pubs and Bars online in
    Bangalore, India with www.eveningflavors.com">
+  
+
+</head>
+<body>
+	<div class="Container">
+		<div id="MainHeader">
+			<header>
+	           
 
 
-  <script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script type="text/javascript" src="/js/jquery.js"></script><script type="text/javascript" src="/jqueryJs/homePage.js"></script><script type="text/javascript" src="/jqueryJs/homePageForArea.js"></script><script type="text/javascript" src="/loginPopup/popup.js"></script><script type="text/javascript">
+
+
+
+
+
+
+<link type="text/css" rel="stylesheet" href="/js/BookingConfirm.css">
+<script async="" src="https://embed.tawk.to/5572b8d1b9e802843c991d37/default" charset="UTF-8" crossorigin="*"></script><script type="text/javascript" src="/js/jquery.js"></script>
+<script type="text/javascript" src="/login/popup.js"></script>
+<script src="http://connect.facebook.net/en_US/all.js#xfbml=1"></script>
+
+    	<div id="fb-root"></div>
+
+	    <script>
+	      // initialize the library with the API key
+
+		      	//FB.init({
+		          //appId  : '113481685380788',
+		         // status : true,
+		          //cookie : true,
+		          //xfbml  : true
+		       // });
+
+		  FB.init({ appId: '131650560248572' });
+
+	      // fetch the status on load
+	      FB.getLoginStatus(handleSessionResponse);
+		 	/* $(document).ready(function() {
+			      $('#login').bind('click', function() {  	  
+					var baseURL ;
+					 var page = $("#page").val();
+					 var restaurantid = $(".restaurantid").val();
+					 var userType = $(".userLoginType").val();
+			        FB.login(function(login_response){
+				        // if we have a session, query for the user's profile picture and name
+				        FB.api(
+				          {
+				            method: 'fql.query',
+				            query: 'SELECT first_name, last_name, sex, pic_square, birthday, email ,uid FROM user WHERE uid = me()'
+				          },
+				          function(response){
+				            var user = response[0];
+                          var  profileImgSrc=user.pic_square;
+                           var index=profileImgSrc.indexOf(".jpg");
+			               profileImgSrc= profileImgSrc.substring(0,index-1)+"n.jpg";
+							baseURL='/loginOpenId/faceBookLoginVerify.jsp?userType='+userType+'&userFaceBookLoginId='+user.email+'&userFirstName='+user.first_name+'&userLastName='+user.last_name+'&BirthDay='+user.birthday+'&userGenderType='+user.sex+'&profileImgSrc='+profileImgSrc+'&restaurantid='+restaurantid+'&page='+page+'&fb_uid='+user.uid;
+							top.location.href = baseURL ;
+							return true;
+				          }
+				        );
+			        }, {scope:'publish_stream,email,user_birthday'});
+			      });
+		 	}); */
+		 	
+		 	function loginFacebook(pageFromReq,wishTypeReq,restNameFromReq,cityFromReq,restIdFromReq,userTypeFromReq,loginIdRedirectFromReq) {  	  
+				var baseURL ;
+				 var page = pageFromReq;
+				 var restaurantid = restIdFromReq;
+				 var wishType = wishTypeReq;
+				   var restName = restNameFromReq;
+				   var cityName = cityFromReq;
+				 var userType = userTypeFromReq;
+				 var loginIdRedirect = loginIdRedirectFromReq;
+		        FB.login(function(login_response){
+			        // if we have a session, query for the user's profile picture and name
+			        FB.api(
+			          {
+			            method: 'fql.query',
+			            query: 'SELECT first_name, last_name, sex, pic_square, birthday, email ,uid FROM user WHERE uid = me()'
+			          },
+			          function(response){
+			            var user = response[0];
+                      var  profileImgSrc=user.pic_square;
+                       var index=profileImgSrc.indexOf(".jpg");
+                       var userEmail = user.email;
+		               profileImgSrc= profileImgSrc.substring(0,index-1)+"n.jpg";
+						baseURL='/loginOpenId/faceBookLoginVerify.jsp?userType='+userType+'&userFaceBookLoginId='+user.email+'&userFirstName='+user.first_name+'&userLastName='+user.last_name+'&BirthDay='+user.birthday+'&userGenderType='+user.sex+'&profileImgSrc='+profileImgSrc+'&restaurantid='+restaurantid+'&page='+page+'&loginIdRedirect='+loginIdRedirect+'&fb_uid='+user.uid+"&resId="+restaurantid+"&wishtype="+wishType+"&restName="+restName+"&cityName="+cityName;
+						
+						if(userEmail != null && userEmail != '' && userEmail != 'null'){
+						 	document.getElementById("wrongmessage").hidden=true;
+						 	console.log('User Email FB Login: '+userEmail);
+						 	top.location.href = baseURL ;
+						 	return true;
+			            }
+					    else{
+						    document.getElementById("wrongmessage").hidden=false;
+						    console.log('User Email FB Login: '+userEmail);
+			            	document.getElementById("wrongmessage").innerHTML="Your Email Id is not verified at Facebook. Please verify and re-login using this Email Id.";
+			            	return false;
+			            }
+						
+						
+			          }
+			        );
+		        }, {scope:'publish_stream,email,user_birthday'});
+		      }
+
+	      $('#logout').bind('click', function() {
+	        FB.logout(handleSessionResponse);
+	      });
+
+	      $('#disconnect').bind('click', function() {
+	        FB.api({ method: 'Auth.revokeAuthorization' }, function(response) {
+	          clearDisplay();
+	        });
+	      });
+
+	      // no user, clear display
+	      function clearDisplay() {
+	        $('#user-info').hide('fast');
+	      }
+
+	      // handle a session response from any of the auth related calls
+	      function handleSessionResponse(response) {
+	        // if we dont have a session, just hide the user info
+	        if (!response.session) {
+	          clearDisplay();
+	          return;
+	        }
+
+
+	      }
+	    </script>
+
+<style type="text/css">
+	.inActiveLink {
+	   pointer-events: none;
+	   cursor: default;
+	}
+</style>
+
+<script>
+				/* var position = $("CityChange").on('change', function () {
+				    position.find('option:selected').prependTo(position);
+				}); */
+				
+				
+				var count=0;
+				function changeDownIcon()
+				{
+					if(count==0)
+					{
+						$("#subidimg img").attr("src", "/EVFNewImages/HomePageImages/ArrowUp.png");
+						count++;
+					}
+					else
+					{
+						$("#subidimg img").attr("src", "/EVFNewImages/HomePageImages/Arrow.png");
+						count=0;
+					}
+				}
+				$(function(){
+				  // bind change event to select
+				  $('#CityChange').bind('change', function () {
+					  var url = $(this).val(); // get selected value
+					  if (url) { // require a URL
+						  window.location = "/"+url; // redirect
+					  }
+					  return false;
+				  });
+				 /*  $("#Menu").click(function(){
+						//alert("The paragraph was clicked.");
+						$(".ultopnav li").slideToggle();
+						
+					}); */
+				  
+				  $("#Restaurants")
+					.mouseover(function () {
+						$("#Restaurants img").attr("src", "/EVFNewImages/HomePageImages/ArrowUp.png");
+					})
+					.mouseout(function () {
+						$("#Restaurants img").attr("src", "/EVFNewImages/HomePageImages/Arrow.png");
+					});
+					$("#Buffet")
+					.mouseover(function () {
+						$("#Buffet img").attr("src", "/EVFNewImages/HomePageImages/ArrowUp.png");
+					})
+					.mouseout(function () {
+						$("#Buffet img").attr("src", "/EVFNewImages/HomePageImages/Arrow.png");
+					});
+					$("#Parties")
+					.mouseover(function () {
+						$("#Parties img").attr("src", "/EVFNewImages/HomePageImages/ArrowUp.png");
+					})
+					.mouseout(function () {
+						$("#Parties img").attr("src", "/EVFNewImages/HomePageImages/Arrow.png");
+					});
+					$("#PlanAParty")
+					.mouseover(function () {
+						$("#PlanAParty img").attr("src", "/EVFNewImages/HomePageImages/ArrowUp.png");
+					})
+					.mouseout(function () {
+						$("#PlanAParty img").attr("src", "/EVFNewImages/HomePageImages/Arrow.png");
+					});
+					$("#Resorts")
+					.mouseover(function () {
+						$("#Resorts img").attr("src", "/EVFNewImages/HomePageImages/ArrowUp.png");
+					})
+					.mouseout(function () {
+						$("#Resorts img").attr("src", "/EVFNewImages/HomePageImages/Arrow.png");
+					});
+				});
+				
+			</script>
+			
+			<script type="text/javascript">
+			  	$(top.document).ready(function() {
+			 	   	$("#clickPopUp").attr('href', '/login/login.jsp?userType=1&page=Signup');
+					
+			 	});
+			  </script>
+<!--<script type="text/javascript">
 var click_is_inside1=false;
 var check=false;
 
@@ -52,495 +283,792 @@ function showDiv1(){
 	check=true;
 	}
 }
-</script><link type="text/css" rel="stylesheet" href="/newCommonStyle.css"><link type="text/css" rel="stylesheet" href="/HomePageNew/HomePageNewCommomnStyle.css"><link type="text/css" rel="stylesheet" href="/js/BookingConfirm.css"><link rel="shortcut icon" href="http://images.eveningflavors.com/CheckDomain/images/favicon.ico"><script type="text/javascript">
-		function getSearchDetails(){
-			document.searchRestForm.action="/Restaurants-Pubs-GenericSearch-Process/Restaurants-Pubs-Hotels-Lounge-Search-India.jsp";
-			document.searchRestForm.submit();
-		 }
+</script>-->
 
+<div id="HeaderMain">
+	<form>
+		<div id="LogoBox">
+			<a href="/Bangalore"><img src="/EVFNewImages/HomePageImages/Evf_Logo.png" width="302px" height="56px" border="0"></a>
+				
+		</div>
+		<div id="CityBox">
+			<div style="float:left;display:block;color:#777777;font-family:open sans;font-size:13px;">
+			Your City
+			</div>
+			<select size="1" id="CityChange" style="border: 1px solid #efefef;height:25px; width: 125px;float:left;display:block;border-radius:3px;margin-top:3px;">
+								
+								
+									
+									<option value="Bangalore" selected="" style="color:#414141;">Bangalore</option>
+									
+									
+									 
+									<option value="Delhi" style="color:#414141;">Delhi</option>
+									
+									
+									 
+									<option value="Mumbai" style="color:#414141;">Mumbai</option>
+									
+									
+									 
+									<option value="Pune" style="color:#414141;">Pune</option>
+									
+									
+									 
+									<option value="Hyderabad" style="color:#414141;">Hyderabad</option>
+									
+									
+									 
+									
+									 
+									<option value="Jaipur" style="color:#414141;">Jaipur</option>
+									
+									
+									 
+									<option value="Goa" style="color:#414141;">Goa</option>
+									
+									
+									 
+									<option value="Chennai" style="color:#414141;">Chennai</option>
+									
+									
+									 
+									<option value="Kolkata" style="color:#414141;">Kolkata</option>
+									
+									
+									 
+									<option value="Indore" style="color:#414141;">Indore</option>
+									
+									
+									 
+									<option value="Ahmedabad" style="color:#414141;">Ahmedabad</option>
+									
+									
+									 
+									<option value="Surat" style="color:#414141;">Surat</option>
+									
+			</select>
+		</div>
+	</form>
+
+</div>
+<nav>
+
+
+	<div id="headerBodyMenu">
+		<ul class="ultopnav">
+			
+		<div id="wrap">
+			 <!-- <div id="Menu" style="color:white;">Menu</div> -->
+			
+			<li id="Restaurants" class="commonTab"><a href="/Restaurant/Bangalore/" style="margin-top: 6px;color:#ffffff;margin-left:5px;"><font>Restaurants</font>&nbsp;&nbsp;<img src="/EVFNewImages/HomePageImages/Arrow.png" width="8px" height="8px"></a>
+					<ul>
+					<li><a href="/Restaurants/Bangalore/Area/" style="color:#ffffff;" onmouseover="this.style.color='#3f3f3f'" onmouseout="this.style.color='#ffffff'">Restaurant
+						by Area</a>  </li><li><a href="/Restaurants/Bangalore/Cuisines/" style="color:#ffffff;" onmouseover="this.style.color='#3f3f3f'" onmouseout="this.style.color='#ffffff'">Restaurant
+						by Cuisine</a></li><li><a href="/Speciality-Restaurant/Bangalore/" style="color:#ffffff;" onmouseover="this.style.color='#3f3f3f'" onmouseout="this.style.color='#ffffff'">Speciality
+						Restaurants</a></li> 
+			
+			</ul>
+			</li>
+			
+			
+			<li id="Buffet" class="commonTab"><a href="/Buffet-Lunch-Dinner-Restaurants/Bangalore/" style="margin-top: 6px;;color:#ffffff;margin-left:5px;">Buffet&nbsp;&nbsp;<img src="/EVFNewImages/HomePageImages/Arrow.png" width="8px" height="8px"></a> <ul> <li><a href="/Lunch-Buffet/Restaurants/Bangalore/" style="color:#ffffff;" onmouseover="this.style.color='#3f3f3f'" onmouseout="this.style.color='#ffffff'">Lunch
+						Buffet</a></li>  <li><a href="/Dinner-Buffet/Restaurants/Bangalore/" style="color:#ffffff;" onmouseover="this.style.color='#3f3f3f'" onmouseout="this.style.color='#ffffff'">Dinner
+						Buffet</a></li>  <li><a href="/Breakfast-Buffet/Restaurants/Bangalore/" style="color:#ffffff;" onmouseover="this.style.color='#3f3f3f'" onmouseout="this.style.color='#ffffff'">Breakfast
+						Buffet</a></li>  <li><a href="/MidNight-Buffet/Restaurants/Bangalore/" style="color:#ffffff;" onmouseover="this.style.color='#3f3f3f'" onmouseout="this.style.color='#ffffff'">Midnight
+						Buffet</a></li>  <li><a href="/Brunch/Restaurants/Bangalore/" style="color:#ffffff;" onmouseover="this.style.color='#3f3f3f'" onmouseout="this.style.color='#ffffff'">Brunch</a>
+					
+			</li></ul></li>
+			
+
+			
+			<li id="Offers"><a href="/Special-Offers/Bangalore/" style="margin-top: 6px;color:#ffffff;margin-left:5px;"> Offers</a> <!-- <span>
+											<a href="/DJ-Parties/Bangalore/">DJ Parties</a> |
+											<a href="/Food-Festival/Bangalore/">Food Festival</a> |
+										</span> --></li>
+			
+
+			
+			<li id="PubsBars"><a href="/Pubs-Bars/Bangalore/Nightclubs/" style="margin-top: 6px;color:#ffffff;margin-left:5px;">Pubs &amp; Bars</a> 
+				<!--
+										<span>
+											<a href="/Clubs-With-Dance-Floor/Bangalore/20/Bars/">Clubs With Dance Floor</a> |
+											<a href="/Late-Night-Open/Bangalore/19/Bars/">Late Night Open</a> |
+											<a href="/Lounges-With-Food/Bangalore/18/Bars/">Lounges With Food</a> |
+											<a href="/Lounges/Bangalore/17/Bars/">Lounges</a> |
+											<a href="/Rock-Music-Bars/Bangalore/16/Bars/">Rock Bars</a> |
+											<a href="/Pubs-Bars/Bangalore/Nightclubs/">More</a> |
+										</span>
+										-->  
+			</li><li id="Parties" class="commonTab"><a href="/Party/Bangalore/" style="margin-top: 6px;color:#ffffff;margin-left:5px;">Parties&nbsp;&nbsp;<img src="/EVFNewImages/HomePageImages/Arrow.png" width="8px" height="8px"></a> <ul> <li><a href="/DJ-Parties/Bangalore/" style="color:#ffffff;" onmouseover="this.style.color='#3f3f3f'" onmouseout="this.style.color='#ffffff'">DJ
+						Parties</a></li>  <li><a href="/Food-Festival/Bangalore/" style="color:#ffffff;" onmouseover="this.style.color='#3f3f3f'" onmouseout="this.style.color='#ffffff'">Food
+						Festival</a></li>  <li><a href="/Karaoke-Night/Bangalore/" style="color:#ffffff;" onmouseover="this.style.color='#3f3f3f'" onmouseout="this.style.color='#ffffff'">Karaoke
+						Night</a></li>  <li><a href="/Live-Performance/Bangalore/" style="color:#ffffff;" onmouseover="this.style.color='#3f3f3f'" onmouseout="this.style.color='#ffffff'">Live
+						Performance</a></li> 
+			</ul></li>
+			
+			
+
+			<li id="PlanAParty" class="commonTab"><a href="/Plan-a-party/" style="margin-top: 6px;color:#ffffff;margin-left:5px;">Plan a party&nbsp;&nbsp;<img src="/EVFNewImages/HomePageImages/Arrow.png" width="8px" height="8px"></a> <ul>  <li><a href="/Planing/Corporate-Party/Bangalore/" style="color:#ffffff;" onmouseover="this.style.color='#3f3f3f'" onmouseout="this.style.color='#ffffff'">Corporate
+						Parties</a></li>  <li><a href="/Planing/Special-Occasion-Party/Bangalore/" style="color:#ffffff;" onmouseover="this.style.color='#3f3f3f'" onmouseout="this.style.color='#ffffff'">Special
+						Occasion Parties</a> </li><li><a href="/Planing/Wedding-Party/Bangalore/" style="color:#ffffff;" onmouseover="this.style.color='#3f3f3f'" onmouseout="this.style.color='#ffffff'">Wedding
+						Parties</a></li>  <li><a href="/Planing/Get-Together-Party/Bangalore/" style="color:#ffffff;" onmouseover="this.style.color='#3f3f3f'" onmouseout="this.style.color='#ffffff'">Get
+						Together Parties</a> </li><li><a href="/Planing/Casual-Outing-Party/Bangalore/" style="color:#ffffff;" onmouseover="this.style.color='#3f3f3f'" onmouseout="this.style.color='#ffffff'">Casual
+						Outing</a></li>  <!-- <a href="/Plan-a-party/">More</a> | -->
+			</ul></li>
+			
+			
+			<li id="Resorts" class="commonTab"><a href="/Resorts/Bangalore/" style="margin-top: 6px;color:#ffffff;margin-left:5px;">Resorts&nbsp;&nbsp;<img src="/EVFNewImages/HomePageImages/Arrow.png" width="8px" height="8px"></a> 
+				<ul> 
+					<li><a href="/Resorts/Bannerghatta-Road/Bangalore/" style="color:#ffffff;" onmouseover="this.style.color='#3f3f3f'" onmouseout="this.style.color='#ffffff'">Bannerghatta
+						Road</a></li>  <li><a href="/Resorts/Tumkur-Road/Bangalore/" style="color:#ffffff;" onmouseover="this.style.color='#3f3f3f'" onmouseout="this.style.color='#ffffff'">Tumkur
+						Road</a></li>  <li><a href="/Resorts/Mysore-Road/Bangalore/" style="color:#ffffff;" onmouseover="this.style.color='#3f3f3f'" onmouseout="this.style.color='#ffffff'">Mysore
+						Road</a></li>  <li><a href="/Resorts/Kanakapura-Road/Bangalore/" style="color:#ffffff;" onmouseover="this.style.color='#3f3f3f'" onmouseout="this.style.color='#ffffff'">Kanakapura
+						Road</a></li>  <li><a href="/Resorts/Hosur-Road/Bangalore/" style="color:#ffffff;" onmouseover="this.style.color='#3f3f3f'" onmouseout="this.style.color='#ffffff'">Hosur
+						Road</a></li> 
+						<li><a href="/Resorts/Yelahanka/Bangalore/" style="color:#ffffff;" onmouseover="this.style.color='#3f3f3f'" onmouseout="this.style.color='#ffffff'">Yelahanka</a></li> 
+			</ul> </li>
+			
+		
+			
+			<li id="Offers"><a href="/deals/bangalore/" style="margin-top: 6px;color:#ffffff;margin-left:5px;"> Deals</a> </li>
+			
+			
+			
+			
+			<li id="Blogs"><a href="http://blog.eveningflavors.com/" style="margin-top: 6px;color:#ffffff;">&nbsp;&nbsp;Blogs</a></li>
+			
+			
+			
+			
+			
+			<div id="LoginBox">
+				<a id="clickPopUp" title="" class="thickbox1" style="text-decoration: none;margin-left:4em;" href="/login/login.jsp?userType=1&amp;page=Signup"><font color="white"><center>LOGIN</center></font></a>
+			</div>
+			
+			 </div>
+			 
+		</ul>
+
+		<div id="dropdown" style="display:none;position:absolute;">
+			<a href="/RightNavigationCrudResponse.jsp?myAccount=Details" style="text-decoration:none;">
+				<div id="spanid" onmouseover="this.style.color='#3f3f3f'" onmouseout="this.style.color='#ffffff'">
+					My Profile
+				</div>
+			</a>
+			<a href="/Logout.jsp?submit=OK" style="text-decoration:none;">
+				<div id="spanid" onmouseover="this.style.color='#3f3f3f'" onmouseout="this.style.color='#ffffff'">
+					Sign Out
+				</div>
+			</a>
+		</div>
+
+
+
+</div>
+
+
+	
+</nav><!---->
+
+	<!-- Start of Mobile Resolution -->
+	<div id="HeaderMainForMbl">
+		<div id="MblMenu">
+			<img src="/EVFNewImages/Mobile/Menu.png" id="m1" width="30" height="30" style="margin:10px;">
+		</div>
+		<div id="MblLogo">
+		<a href="/Bangalore"><img src="/EVFNewImages/Mobile/Logo.png" width="35" height="35" style="margin:7.5px;"></a>
+		</div>
+		<div id="SearcgIcon">
+		<img src="/EVFNewImages/Mobile/City.png" id="m2" width="25" height="30" style="margin:10px;cursor:pointer;">
+		</div>
+		
+		<div id="CityMbl">
+			
+			<a href="/login/login.jsp?userType=1&amp;page=UserSignup" id="pop" onclick="javascript:pop()" title="" class="inActiveLink thickbox1" style="pointer-events: auto; cursor: auto;"><img src="/EVFNewImages/Mobile/User.png" height="30" width="22" id="m4" style="margin-top:5px;margin-left:3px;"></a>
+			
+		
+		</div>
+		<div id="CityIcon">
+			<a href="/Bangalore"><img src="/EVFNewImages/Mobile/Search.png" id="m3" width="30" height="30" style="margin:10px;"></a>
+		</div>
+		
+	</div>
+	<div id="MblMenuTab">
+		
+		<a href="/Bangalore/" style="color:#ffffff;text-decoration:none;"><div id="MblTab1">
+			HOME	</div></a>
+		
+		
+		
+		<a href="/Restaurant/Bangalore/" style="color:#ffffff;text-decoration:none;"><div id="MblTab">
+			RESTAURANTS	</div></a>
+		
+		
+		<div id="RestTab" style="position:absolute;margin-top:22em;margin-left:162px;background-color:#29abe2;display:none;width:150px;">
+						<div style="line-height:40px;float:left;display:block;width:150px;color:#ffffff;"> <a onmouseover="" href="/RightNavigationCrudResponse.jsp?myAccount=Details" style="text-decoration:none;color:#ffffff;font-family:open sans;">Restaurant By Area</a></div>
+						<div style="line-height:40px;float:left;display:block;width:150px;color:#ffffff;"> <a href="/Logout.jsp?submit=OK" style="text-decoration:none;color:#ffffff;font-family:open sans;">Restaurant By Cuisine</a></div>
+						<div style="line-height:40px;float:left;display:block;width:150px;color:#ffffff;"> <a href="/Logout.jsp?submit=OK" style="text-decoration:none;color:#ffffff;font-family:open sans;">Speciality Restaurant</a></div>
+		</div>
+		
+		
+		<a href="/Buffet-Lunch-Dinner-Restaurants/Bangalore/" style="color:#ffffff;text-decoration:none;"><div id="MblTab">
+			BUFFET
+		</div></a>
+		
+		
+		<a href="/Special-Offers/Bangalore/" style="color:#ffffff;text-decoration:none;"><div id="MblTab">
+			OFFERS
+		</div></a>
+		
+		
+		<a href="/Pubs-Bars/Bangalore/Nightclubs/" style="color:#ffffff;text-decoration:none;"><div id="MblTab">
+			PUBS &amp; BARS
+		</div></a>
+		
+		
+		<a href="/Party/Bangalore/" style="color:#ffffff;text-decoration:none;"><div id="MblTab">
+			PARTIES
+		</div></a>
+		
+		
+		<a href="/Speciality-Restaurant/Bangalore/" style="color:#ffffff;text-decoration:none;"><div id="MblTab">
+			SPECIALITIES
+		</div></a>
+		
+		
+		<a href="/Plan-a-party/" style="color:#ffffff;text-decoration:none;"><div id="MblTab">
+			PLAN A PARTY
+		</div></a>
+		
+		
+		<a href="/Resorts/Bangalore/" style="color:#ffffff;text-decoration:none;"><div id="MblTab">
+			RESORTS
+		</div></a>
+		
+		
+		<a href="/deals/Bangalore/" style="color:#ffffff;text-decoration:none;"><div id="MblTab">
+			DEALS
+		</div></a>
+		
+		
+		<a href="http://blog.eveningflavors.com/" style="color:#ffffff;text-decoration:none;" onmouseover="this.style.color='#525252'"><div id="MblTab">
+			BLOGS
+		</div></a>
+		
+		
+			
+		
+		
+	</div>
+	<div id="soutpop">
+						<div style="line-height:40px;float:left;display:block;width:150px;color:#ffffff;"> <a onmouseover="" href="/RightNavigationCrudResponse.jsp?myAccount=Details" style="text-decoration:none;color:#ffffff;font-family:open sans;">My Profile</a></div>
+						<div style="line-height:40px;float:left;display:block;width:150px;color:#ffffff;"> <a href="/Logout.jsp?submit=OK" style="text-decoration:none;color:#ffffff;font-family:open sans;">SignOut</a></div>
+	</div>
+	<div id="MblCityTab">
+		
+		
+		
+		
+				<a href="/Bangalore/"><div id="MblTab1" style="background-color:#525252;font-weight:bold;">
+					Bangalore
+		</div></a>
+		
+		
+		
+		
+		
+		
+		
+		
+		<a href="/Delhi/"><div id="MblTab2">
+					Delhi
+		</div></a>
+		
+		
+		
+		
+		
+		
+		
+		<a href="/Mumbai/"><div id="MblTab2">
+					Mumbai
+		</div></a>
+		
+		
+		
+		
+		
+		
+		
+		<a href="/Pune/"><div id="MblTab2">
+					Pune
+		</div></a>
+		
+		
+		
+		
+		
+		
+		
+		<a href="/Hyderabad/"><div id="MblTab2">
+					Hyderabad
+		</div></a>
+		
+		
+		
+		
+		
+		
+		
+		<a href="/Jaipur/"><div id="MblTab2">
+					Jaipur
+		</div></a>
+		
+		
+		
+		
+		
+		
+		
+		<a href="/Goa/"><div id="MblTab2">
+					Goa
+		</div></a>
+		
+		
+		
+		
+		
+		
+		
+		<a href="/Chennai/"><div id="MblTab2">
+					Chennai
+		</div></a>
+		
+		
+		
+		
+		
+		
+		
+		<a href="/Kolkata/"><div id="MblTab2">
+					Kolkata
+		</div></a>
+		
+		
+		
+		
+		
+		
+		
+		<a href="/Indore/"><div id="MblTab2">
+					Indore
+		</div></a>
+		
+		
+		
+		
+		
+		
+		
+		<a href="/Ahmedabad/"><div id="MblTab2">
+					Ahmedabad
+		</div></a>
+		
+		
+		
+		
+		
+		
+		
+		<a href="/Surat/"><div id="MblTab2">
+					Surat
+		</div></a>
+		
+		
+		
+		
+	</div>
+	
+	<!-- End of Mobile Resolution -->
+	
+	
+	
+<script type="text/javascript">
+var click_is_inside1=false;
+var check=false;
+
+   $(document).ready(function() {
+	
+	   
+	 /* For Mobile Resolution */
+		$(document).click(function(e){
+			if(!$(e.target).closest('#MblMenuTab, #m1').length){
+				$("#MblMenuTab").slideUp();
+			}
+			if(!$(e.target).closest('#MblCityTab, #m2').length){
+				$("#MblCityTab").slideUp();
+			}
+			if(!$(e.target).closest('#SearchBarMbl, #m3').length){
+				$("#SearchBarMbl").slideUp();
+			}
+			if(!$(e.target).closest('#soutpop, #m4').length){
+				$("#soutpop").slideUp();
+			}
+			if(!$(e.target).closest('#dropdown, #profile_setting').length){
+				$("#dropdown").hide();
+			}
+			})
+	/* For Mobile Resolution */
+   
+      $('#profile_setting').click(function(){
+        click_is_inside1=true;
+       }, function(){
+        click_is_inside1=false;
+       });
+	   
+	    $('#pop').click(function(){
+			$("#MblMenuTab").hide();
+		});
+
+  $('body').click(function(){
+        if(!click_is_inside1) $('#dropdown').hide();
+		click_is_inside1=false;
+		  check=false;
+             });
+           });
+		   
+	
+	/* For Mobile Resolution */
+	$("#m1" ).click(function() {
+		$('#MblMenuTab').slideToggle();
+	});
+	$("#m2" ).click(function() {
+		$('#MblCityTab').slideToggle();
+	});
+	$("#m3" ).click(function() {
+		$('#SearchBarMbl').slideToggle();
+	});
+	function showPopUp(){
+	$('#soutpop').slideToggle();
+}
+		
+	
+	/* For Mobile Resolution */
+
+
+
+function showDiv1(){
+	var div1=document.getElementById("dropdown");
+	 var div2=document.getElementById("picName");
+     var attr=div1.getAttribute("style");
+
+
+	if(check==true && click_is_inside1==false){
+  	 div1.setAttribute("style", "display:none");
+     check=false;
+	}
+	else if(check == false && click_is_inside1 ==false && attr=="display:block"){
+      div1.setAttribute("style", "display:none");
+	}
+	else{
+	div1.setAttribute("style", "display:block");
+	div2.setAttribute("style", "background-color: none");
+	check=true;
+	}
+}
+</script>
+<script type="text/javascript">
+		function getSearchDetails(){
+			//alert(document.getElementById('keywordInput').value);
+			//alert(document.getElementById('areaInput').value);
+			var a=document.getElementById('keywordInput').value;
+			var b=document.getElementById('areaInput').value
+			if(a.length=='0' && b.length=='0'){
+				window.location="/Restaurant/Bangalore/";
+			}else{
+				document.searchRestForm.action="/Restaurants-Pubs-GenericSearch-Process/Restaurants-Pubs-Hotels-Lounge-Search-India.jsp";
+				document.searchRestForm.submit();
+			}
+		 }
+		
 		 function doClearText(theText){
 		     if (theText.value == theText.defaultValue){
 		         theText.value = ""
 		     }
 		 }
- </script></head>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!-- newPopUp combine with homePage.js -->
-
-
-
-
-
-
-
-
-
-
-<!-- Get the menu bar type, default selection is home tab -->
-
-<!--Navigation Menu Bar Script-->
-
-<!--<script type="text/javascript" src="/js/RegistrationPopUp/newPopUp.js"></script> -->
-
-
-
-
-
-
-
-
-
-
-
-<!--<script language="Javascript" type="text/javascript">
-
-				  	$(document).ready(function(){
-				  	   	openPopUp('Panda','/popup/RegistrationPopUp.jsp');
-						this.blur();
-						return false;
-					} );
-
-				</script>-->
-
-
-
-
-
-
-
-<body marginwidth="0" marginheight="0" bottommargin="0" rightmargin="0" leftmargin="0" topmargin="0" style="background-color:#ffffff;">
-	<!-- PageType is needed for each jsp to default select the menu -->
-<input type="hidden" name="CheckMenuType" value="null">
-
-<div id="topHeadingBar">
-
-
-<div id="wrapper" align="left" width="100%">
-
-
-<div id="cityHeader">
-<table border="0px">
-	<tbody><tr valign="middle">
-		<td><font color="white" style="font-size: 13px;"><b>Your
-		City :</b></font> <a href="/Bangalore/" style="text-decoration:none"> <font face="Arial" size="2px" color="#f0592a"> <b>Bangalore |</b> </font> </a>  &nbsp;&nbsp;<a href="/Mumbai/" style="text-decoration:none"><b><font face="Arial" size="2px" color="#FFFFFF">Mumbai</font></b></a>  &nbsp;&nbsp;<a href="/Pune/" style="text-decoration:none"><b><font face="Arial" size="2px" color="#FFFFFF">Pune</font></b></a>  &nbsp;&nbsp;<a href="/Delhi/" style="text-decoration:none"><b><font face="Arial" size="2px" color="#FFFFFF">Delhi</font></b></a>  &nbsp;&nbsp;<a href="/Kolkata/" style="text-decoration:none"><b><font face="Arial" size="2px" color="#FFFFFF">Kolkata</font></b></a>  &nbsp;&nbsp;<a href="/Hyderabad/" style="text-decoration:none"><b><font face="Arial" size="2px" color="#FFFFFF">Hyderabad</font></b></a>  &nbsp;&nbsp;<a href="/Jaipur/" style="text-decoration:none"><b><font face="Arial" size="2px" color="#FFFFFF">Jaipur</font></b></a> 
-		</td>
-	</tr>
-</tbody></table>
-</div>
-
-<div id="signInHeader">
-<table border="0px">
-	<tbody><tr valign="left">
-		
-		<td>
-		 <font color="#f0592a" style="font-family: Arial;font-size : 9pt;"><b>For
-		Booking and Info Call :</b></font> <font color="white" style="font-size: 13pt;"><b>
-		080-40894999
- </b></font> 
-		</td>
-		
-	</tr>
-</tbody></table>
-</div>
-
-<div id="topHeaderBody" border="0">
-<div id="topHeaderLogoBarLeft">
-<div id="topHeaderlogoBox" width="100%" border="1"><a href="/"><img src="/images/HomepageImages/transparent.gif" border="0" class="homePageSprite logoImg"></a></div>
-</div>
-<div id="HomePageTopHeaderSearchEngine">
-<div id="HomePageTopSearchEngineHeader">
-<p style="margin-top:5px; margin-bottom:0px; margin-left:68px;"><font style="font-family: Arial;font-size : 13pt;" color="#f0592a"> <b>Plan
-and book your dining and partying venue</b> </font></p>
-</div>
-<form method="get" name="searchRestForm" action="">
-<div id="HomePageTopSearchEngine" style="margin-left:65px;"><input type="hidden" name="city" value="Bangalore"> <input type="hidden" name="checkRequestPage" value="quickSearch"> <input type="text" id="keywordInput" class="ForRestaurantSearch" name="inputForQuickSearch" maxlength="40" value="restaurants,cuisine,ambience" style="font-size: 13px; font-weight:bold; font-family: Arial; color:#5c5b5b; width:230px;height:25px;padding-top:2px;padding-left:5px;padding-bottom:3px; background-color:#f7f7f7;" onfocus="doClearText(this)" onkeyup="ajax_showGenericSearchSuggestedSimilarWords(this,'getCountriesByLetters',event,'Bangalore','ajax_listOfOptions','/Restaurants-Pubs-GenericSearch-Process/suggestword.jsp')" autocomplete="off"></div>
-<div id="HomePageTopSearchEngine" style="margin-left:0px;"><input type="text" id="areaInput" class="ForAreaSearch" name="placeLookingInput" maxlength="40" value="areas in bangalore" style="font-size: 13px; font-weight:bold; font-family: Arial; color:#5c5b5b; width:230px;height:25px;padding-top:2px;padding-left:5px;padding-bottom:3px; background-color:#f7f7f7;" onfocus="doClearText(this)" onkeyup="ajax_showGenericSearchSuggestedSimilarWordsForRestaurantArea(this,'getCountriesByLetters',event,'Bangalore','ajax_listOfOptions','/Restaurants-Pubs-GenericSearch-Process/suggestionRestaurantAreasCityWise.jsp')" autocomplete="off"></div>
-<div id="HomePageTopGoButton" style="margin-left:0px;"><a href="javascript:getSearchDetails();" style="text-decoration:none" id="searchValueButton" border="0px;"> <img src="/images/HomepageImages/transparent.gif" border="0" class="homePageSprite searchImg"> </a></div>
-</form>
-</div>
-</div>
-<div id="headerBodyMenu">
-<ul class="ultopnav">
-	<li id="Home" class=""><a href="/Bangalore/" style="margin-top:6px;"> <img src="/images/HomepageImages/transparent.gif" border="0" class="homePageSprite homeImg"> </a></li>
-	
-	<li id="Restaurants" class=""><a href="/Restaurant/Bangalore/" style="margin-top:6px;"><font>Restaurants</font></a> <span> <a href="/Restaurants/Bangalore/Area/">Restaurant By 
-	Area</a> | <a href="/Restaurants/Bangalore/Cuisines/">Restaurant
-	By Cuisine</a> | <a href="/Speciality-Restaurant/Bangalore/">Speciality
-	Restaurants</a> | 
-	<!--<a href="/Gift-Coupons/Bangalore/">Restaurant Gift Coupons</a> |  -->
-	<a href="/fivestar/Bangalore/" style="margin-top:6px;">Five Star</a> |  </span></li>
-	
-	
-	<li id="Buffet" class=""><a href="/Buffet-Lunch-Dinner-Restaurants/Bangalore/" style="margin-top:6px;">Buffet</a> <span> <a href="/Lunch-Buffet/Restaurants/Bangalore/">Lunch
-	Buffet</a> | <a href="/Dinner-Buffet/Restaurants/Bangalore/">Dinner
-	Buffet</a> | <a href="/Breakfast-Buffet/Restaurants/Bangalore/">Breakfast
-	Buffet</a> | <a href="/MidNight-Buffet/Restaurants/Bangalore/">Midnight
-	Buffet</a> | <a href="/Brunch/Restaurants/Bangalore/">Brunch</a>
-	| </span></li>
-	
-
-	
-
-	<li id="Offers" class=""><a href="/Special-Offers/Bangalore/" style="margin-top:6px;"> Offers</a></li>
-	
-
-	
-	<li id="PubsBars" class=""><a href="/Pubs-Bars/Bangalore/Nightclubs/" style="margin-top:6px;">Pubs &amp; Bars</a> 
-	<!--
-							<span>
-								<a href="/Clubs-With-Dance-Floor/Bangalore/20/Bars/">Clubs With Dance Floor</a> |
-								<a href="/Late-Night-Open/Bangalore/19/Bars/">Late Night Open</a> |
-								<a href="/Lounges-With-Food/Bangalore/18/Bars/">Lounges With Food</a> |
-								<a href="/Lounges/Bangalore/17/Bars/">Lounges</a> |
-								<a href="/Rock-Music-Bars/Bangalore/16/Bars/">Rock Bars</a> |
-								<a href="/Pubs-Bars/Bangalore/Nightclubs/">More</a> |
-							</span>
-							-->  
-
-	</li><li id="Parties" class=""><a href="/Party/Bangalore/" style="margin-top:6px;">Parties</a> <span> <a style="text-decoration:none; margin-left:170px;"></a>| <a href="/DJ-Parties/Bangalore/">DJ
-	Parties</a> | <a href="/Food-Festival/Bangalore/">Food
-	Festival</a> | <a href="/Karaoke-Night/Bangalore/">Karaoke
-	Night</a> | <a href="/Live-Performance/Bangalore/">Live
-	Performance</a> | </span></li>
-	
-	
-	<li id="PlanAParty" class=""><a href="/Plan-a-party/" style="margin-top:6px;">Plan a party</a> <span> <a style="text-decoration:none; margin-left:75px;"></a>| <a href="/Planing/Corporate-Party/Bangalore/">Corporate
-	Parties</a> | <a href="/Planing/Special-Occasion-Party/Bangalore/">Special
-	Occasion Parties</a> | <a href="/Planing/Wedding-Party/Bangalore/">Wedding
-	Parties</a> | <a href="/Planing/Get-Together-Party/Bangalore/">Get
-	Together Parties</a> | <a href="/Planing/Casual-Outing-Party/Bangalore/">Casual
-	Outing</a> | <!--<a href="/Plan-a-party/">More</a> |-->
-	</span></li>
-	
-	
-	<li id="Resorts" class=""><a href="/Resorts/Bangalore/" style="margin-top:6px;">Resorts</a> 
-	<span> <a style="text-decoration:none; margin-left:150px;"></a>|
-	<a href="/Resorts/Bannerghatta-Road/Bangalore/">Bannerghatta
-	Road</a> | <a href="/Resorts/Tumkur-Road/Bangalore/">Tumkur
-	Road</a> | <a href="/Resorts/Mysore-Road/Bangalore/">Mysore
-	Road</a> | <a href="/Resorts/Kanakapura-Road/Bangalore/">Kanakapura
-	Road</a> | <a href="/Resorts/Hosur-Road/Bangalore/">Hosur
-	Road</a> | </span> 
-	</li>
-	
-	
-
-	
-	
-
-
-	
-	<!--
-							<li id="GiftCoupon">
-								<a href="/Bangalore/" style="margin-top:6px;">Gift Coupon</a>
-							</li>
-						-->
-	
-	
-	<li id="Blogs" class=""><a href="http://blog.eveningflavors.com/" style="margin-top:6px;">Blogs</a></li>
-	
-	<!--
-							<li>
-								<a href="/fivestar/Bangalore/"style="margin-top:6px;">Five Star</a>
-							</li>
-							-->
-
-
-	
-	<div style="margin-left:930px;margin-top:3px;border-right:0px;">
-	<a id="clickPopUp" href="/loginPopup/loginPopup.jsp?userType=1&amp;page=Signup" title="" class="thickbox1" style="text-decoration:none;margin-top:6px;"><font color="white">Login</font></a></div>
-
-	
-
-</ul>
-<ul id="dropdown" style="display:none;">
-	<a href="/RightNavigationCrudResponse.jsp?myAccount=Details">
-	<li id="spanid" style="margin-top:6px;">
-	<p style="font-size:13px; padding:3px 24px;">My Profile</p>
-	</li>
-	</a>
-	
-	<a href="/LogoutAction.jsp?myAccount=Logout&amp;city=">
-	<li id="spanid" style="margin-bottom:4px;">
-	<p style="font-size:13px; padding:3px 24px;">Sign Out</p>
-	</li>
-	</a>
-</ul>
-
-
-
-
-
-<div id="bodyDown">
-	<div id="displayFooterHead">
-			<table border="0">
-				<tbody><tr>
-					<td width="845px">
-						<h1 style="text-align: justify ;line-height: 0px; padding-top:4px;padding-bottom:5px; border:0px red solid">
-							<font style="color:#825507; font-family: Arial; font-size: 12pt;float: left;">Privacy Policy</font>
-						</h1>
-					</td>
-					<td width="80px" style="padding-top:5px;">
-						<g:plusone size="medium" count="true"></g:plusone>
-							<script type="text/javascript">
-							  (function() {
-								var po = document.createElement('script');
-								po.type = 'text/javascript';
-								po.async = true;
-								po.src = 'https://apis.google.com/js/plusone.js';
-								var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
-							  })();
-							</script>
-					</td>
-					<td width="80px" style="padding-top:5px;padding-right:5px;">
-						<iframe src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.facebook.com%2FEveningFlavors.India&amp;layout=button_count&amp;show_faces=true&amp;width=80&amp;action=like&amp;font=arial&amp;colorscheme=light&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:80px; height:21px;" allowtransparency="true"></iframe>
-					</td>
-				</tr>
-			</tbody></table>
+		 $(top.document).ready(function() {
+		 	   	$(".inActiveLink").attr('style', 'pointer-events: auto; cursor: auto;');
+		 	});
+ </script>
+            </header>
 		</div>
-<div id="bodyCenter">
+		<div id="MainHeading">
+			PRIVACY
+		</div>
+		<div id="MainBody">
+			<div id="PrivacyBody">
+				<div id="PrivacyHeading">
+					Privacy Policy
+				</div>
+				<div id="PolicyText">
+					EveningFlavors.com takes your privacy seriously. Please read the following to learn more about our privacy policy.  
+				</div>
+				<div id="PrivacyHeading">
+					What this Privacy Policy Covers 
+				</div>
+				<div id="PolicyText">
+					This Privacy Policy covers Eveningflavors.com treatment of personally identifiable information that Eveningflavors.com collects when you are on our site, and when you use our services. This policy also covers Eveningflavors.com treatment of any personally identifiable information that our business partners share with our company.<br><br>
+							This policy does not apply to the practices of companies that Eveningflavors.com does not own or control or to people that Eveningflavors.com does not employ or manage.
+				</div>
+				<div id="PrivacyHeading">
+					Information Collection and Use   
+				</div>
+				<div id="PolicyText">
+					Eveningflavors.com collects personally identifiable information when you register for a Eveningflavors.com account, when you use certain Eveningflavors.com products or services, when you visit Eveningflavors.com pages. Eveningflavors.com may also receive personally identifiable information from our business partners.<br><br>
+					When you register with Eveningflavors.com, we ask for your name, email address, birth date, gender, zip code, occupation, industry, and personal interests. Once you register with Eveningflavors.com and sign in to our services, you are not anonymous to us. <br><br>
+					Eveningflavors.com also automatically receives and records information on our server logs from your browser including your IP address, Eveningflavors.com cookie information and the page you requested.<br><br>
+					In addition, when you use Eveningflavors.com's services, you may make some of your personal information public. If you post personal information online that is accessible to the public, you may receive unsolicited messages from other parties in return and Eveningflavors.com will not be responsible for the use or misuse of such information.<br><br>
+					Eveningflavors.com uses information for three general purposes: to customize the advertising and content you see, to fulfill your requests for certain products and services promoted by Eveningflavors.com or other companies, and to contact you about specials and new products. Eveningflavors.com is not responsible for the accuracy, completeness, veracity and reliability of any advertising and content, products and services which may be accessed or advertised to you and Eveningflavors.com will not be liable for any loss or damage arising out of the same.
+				</div>
+				<div id="PrivacyHeading">
+					Information Sharing and Disclosure 
+				</div>
+				<div id="PolicyText">
+					Eveningflavors.com will not sell or rent your personally identifiable information to anyone.<br><br>
+					Eveningflavors.com will send personally identifiable information about you to other companies or people when: <br>
+					We have your consent to share the information;<br><br>
+					We need to share your information to provide the product or service you have requested;<br><br>
+					We need to share the information with certain service partners in order to respond to your comments or to resolve service issues. (Unless we tell you differently, these partners have no independent right to use this information except to respond to your comments or to resolve the service issues.);<br><br>
+					We respond to requests from any Indian or foreign government, security, defence, revenue, regulatory or other authority, agency or officer;<br><br>
+					We respond to subpoenas, court orders or legal process; or<br><br>
+					We find that your actions on our web sites violate the Eveningflavors.com Terms of Service or any of our usage guidelines for specific products or services.
+				</div>
+				<div id="PrivacyHeading">
+					Cookies
+				</div>
+				<div id="PolicyText">
+					Eveningflavors.com may set and access Eveningflavors.com cookies on your computer and you may not be able to disable these cookies. Eveningflavors.com ensures that all information collected and accessed by Eveningflavors.com through the access of these cookies will be maintained in accordance with this Privacy Policy.<br><br>
+					Eveningflavors.com allows other companies that are presenting advertisements on some of our pages to set and access their cookies on your computer. Other companies' use of their cookies is subject to their own privacy policies, not this one. Advertisers or other companies do not have access to Eveningflavors.com 's cookies. <br><br>
+					Eveningflavors.com uses web beacons to access our cookies within our network of web sites and in connection with Eveningflavors.com products and services.
+				</div>
+				<div id="PrivacyHeading">
+					Your Ability to Edit and Delete Your Account Information and Preferences   
+				</div>
+				<div id="PolicyText">
+					Eveningflavors.com gives you the ability to edit your Eveningflavors.com Account Information and preferences at any time, including whether you want Eveningflavors.com to contact you about specials and new products. Eveningflavors.com is not responsible and will not be liable for the accuracy, completeness, veracity and reliability of any information including any customized information which may be accessed by or provided to you, which could vary depending on your Eveningflavors.com Account Information and preferences including your browser preferences. <br><br>
+					This policy does not apply to the practices of companies that Eveningflavors.com does not own or control or to people that Eveningflavors.com does not employ or manage.
+				</div>
+				<div id="PrivacyHeading">
+					Security
+				</div>
+				<div id="PolicyText">
+					Your Eveningflavors.com account Information is password-protected for your privacy and security. <br><br>
+					In certain areas Eveningflavors.com uses industry-standard SSL-encryption to protect data transmissions.
+				</div>
+				<div id="PrivacyHeading">
+					Changes to this Privacy Policy  
+				</div>
+				<div id="PolicyText">
+					Eveningflavors.com may amend this policy from time to time. If we make any substantial changes in the way we use your personal information we will notify you by posting a prominent announcement on our pages. 
+				</div>
+				<div id="PrivacyHeading">
+					Questions or Suggestions 
+				</div>
+				<div id="PolicyText">
+					If you have questions or suggestions complete a feedback form. 
+				</div>
+			</div>
+		</div>
+		<div id="HomeFooter">
+					
 
-	<div id="ContentField">
+	
 
-		<div id="FooterContent">
-				<p style="margin-left: 10px; margin-top: 3pt; margin-bottom: 10pt;">
-					<font face="Arial" color="#7b0e02" style="font-size: 10pt; font-weight: 700; ">EveningFlavors.com </font>
-					<font face="Arial" style="font-size: 10pt;"> takes your privacy seriously. Please read the following to learn more about our privacy policy.</font>
+	<!-- ADDED BY BHARATH ASHOK FOR DYANAMIC CITY NO FOR FOOTER -->
+	 
+	
+	<div id="FooterMain">
+	<div id="wrap">
+		<div id="FooterTop">
+			<div id="FooterTopLeft">
+				<p class="footerLink" style="line-height: 18px; margin-top: 10pt; margin-bottom: 0pt; margin-left: 0px;">
+					<font face="open sans" color="white" style="font-size: 11pt;text-decoration:underline;">EVENING FLAVORS</font>
 				</p>
-				<p style="margin-left: 10px; margin-top: 3pt; margin-bottom: 5pt;">
-					<font face="Arial" color="#7b0e02" style="font-size: 10pt; font-weight: 700; "> What this Privacy Policy Covers </font><br>
+			</div>
+			<div id="FooterTopLeft">
+				<p class="footerLink" style="line-height: 18px; margin-top: 10pt; margin-bottom: 0pt; margin-left: 0px;">
+					<font face="open sans" color="white" style="font-size: 11pt;text-decoration:underline;"> COMMERCIAL</font>
 				</p>
-
-				<ul style="text-align:justify; margin-left:30px; margin-right: 8px;">
-					<font face="Arial" style="font-size: 10pt;">
-						<li style="mamargin-left:15px;">This Privacy Policy covers Eveningflavors.com treatment of personally identifiable information that Eveningflavors.com collects when you are on our site, and when you use our services. This policy also covers Eveningflavors.com treatment of any personally identifiable information that our business partners share with our company.</li><br>
-						<li>This policy does not apply to the practices of companies that Eveningflavors.com does not own or control or to people that Eveningflavors.com does not employ or manage. </li>
-					</font>
-				</ul>
-
-				<p style="margin-left: 10px; margin-top: 3pt; margin-bottom: 5pt;">
-					<font face="Arial" color="#7b0e02" style="font-size: 10pt; font-weight: 700; "> Information Collection and Use </font><br>
-				</p>
-				<p style="margin-left: 10px; margin-top: 3pt; margin-bottom: 5pt;">
-				</p><ul style="text-align:justify; margin-left:30px; margin-right: 8px;"><font face="Arial" style="font-size: 10pt;">
-					<li>Eveningflavors.com collects personally identifiable information when you register for a Eveningflavors.com   account, when you use certain Eveningflavors.com products or services, when you visit Eveningflavors.com pages. Eveningflavors.com may also receive personally identifiable information from our business partners.</li><br>
-					<li>When you register with Eveningflavors.com, we ask for your name, email address, birth date, gender, zip code, occupation, industry, and personal interests. Once you register with Eveningflavors.com and sign in to our services, you are not anonymous to us. </li><br>
-					<li>Eveningflavors.com also automatically receives and records information on our server logs from your browser including your IP address, Eveningflavors.com cookie information and the page you requested.</li><br>
-					<li>In addition, when you use Eveningflavors.com's services, you may make some of your personal information public. If you post personal information online that is accessible to the public, you may receive unsolicited messages from other parties in return and Eveningflavors.com will not be responsible for the use or misuse of such information.</li><br>
-					<li>Eveningflavors.com uses information for three general purposes: to customize the advertising and content you see, to fulfill your requests for certain products and services promoted by Eveningflavors.com or other companies, and to contact you about specials and new products. Eveningflavors.com is not responsible for the accuracy, completeness, veracity and reliability of any advertising and content, products and services which may be accessed or advertised to you and Eveningflavors.com will not be liable for any loss or damage arising out of the same.</li>
-				</font></ul>
-				<p></p>
-				<p style="margin-left: 10px; margin-top: 3pt; margin-bottom: 5pt;">
-					<font face="Arial" color="#7b0e02" style="font-size: 10pt; font-weight: 700; "> Information Sharing and Disclosure </font><br>
-				</p>
-		<p style="margin-left: 10px; margin-top: 3pt; margin-bottom: 5pt;">
-				</p><ul style="text-align:justify; margin-left: 30px; margin-right: 8px;"><font face="Arial" style="font-size: 10pt;">
-				<li>Eveningflavors.com will not sell or rent your personally identifiable information to anyone. </li><br>
-				<li>Eveningflavors.com will send personally identifiable information about you to other companies or people when:</li>
-					<ul style="text-align:justify; margin-left:15px;  margin-right: 8px;">
-						<li>We have your consent to share the information;</li><br>
-						<li>We need to share your information to provide the product or service you have requested; </li><br>
-						<li>We need to share the information with certain service partners in order to respond to your comments or to resolve service issues. (Unless we tell you differently, these partners have no independent right to use this information except to respond to your comments or to resolve the service issues.);</li><br>
-						<li>We respond to requests from any Indian or foreign government, security, defence, revenue, regulatory or other authority, agency or officer;</li><br>
-						<li>We respond to subpoenas, court orders or legal process; or</li><br>
-						<li>We find that your actions on our web sites violate the Eveningflavors.com Terms of Service or any of our usage guidelines for specific products or services.</li>
-					</ul>
-			</font></ul>
-		<p></p>
-				<p style="margin-left: 10px; margin-top: 3pt; margin-bottom: 5pt;">
-					<font face="Arial" color="#7b0e02" style="font-size: 10pt; font-weight: 700; ">Cookies</font><br>
-				</p>
-				<p style="margin-left: 10px; margin-top: 3pt; margin-bottom: 5pt;">
-				</p><ul class="big" style="text-align:justify; margin-left: 30px; margin-right: 8px;"><font face="Arial" style="font-size: 10pt;">
-					<li>Eveningflavors.com may set and access Eveningflavors.com cookies on your computer and you may not be able to disable these cookies. Eveningflavors.com ensures that all information collected and accessed by Eveningflavors.com through the access of these cookies will be maintained in accordance with this Privacy Policy.</li><br>
-					<li>Eveningflavors.com allows other companies that are presenting advertisements on some of our pages to set and access their cookies on your computer. Other companies' use of their cookies is subject to their own privacy policies, not this one. Advertisers or other companies do not have access to Eveningflavors.com 's cookies. </li><br>
-					<li>Eveningflavors.com uses web beacons to access our cookies within our network of web sites and in connection with Eveningflavors.com products and services. </li>
-			</font></ul>
-			<p></p>
-				<p style="margin-left: 10px; margin-top: 3pt; margin-bottom: 5pt;">
-					<font face="Arial" color="#7b0e02" style="font-size: 10pt; font-weight: 700; ">Your Ability to Edit and Delete Your Account Information and Preferences</font><br>
-				</p>
-				<p style="margin-left: 10px; margin-top: 3pt; margin-bottom: 5pt;">
-				</p><ul style="text-align:justify; margin-left: 30px; margin-right: 8px;"><font face="Arial" style="font-size: 10pt;">
-					<li>Eveningflavors.com gives you the ability to edit your Eveningflavors.com Account Information and preferences at any time, including whether you want Eveningflavors.com to contact you about specials and new products. Eveningflavors.com is not responsible and will not be liable for the accuracy, completeness, veracity and reliability of any information including any customized information which may be accessed by or provided to you, which could vary depending on your Eveningflavors.com Account Information and preferences including your browser preferences. </li><br>
-					<li>This policy does not apply to the practices of companies that Eveningflavors.com does not own or control or to people that Eveningflavors.com does not employ or manage.</li>
-				</font></ul>
-				<p></p>
-				<p style="margin-left: 10px; margin-top: 3pt; margin-bottom: 5pt;">
-					<font face="Arial" color="#7b0e02" style="font-size: 10pt; font-weight: 700; ">Security</font><br>
-				</p>
-				<p style="margin-left: 10px; margin-top: 3pt; margin-bottom: 5pt;">
-				</p><ul class="big" style="text-align:justify; margin-left: 30px; margin-right: 8px;"><font face="Arial" style="font-size: 10pt;">
-					<li>Your Eveningflavors.com account Information is password-protected for your privacy and security. </li><br>
-					<li>In certain areas Eveningflavors.com uses industry-standard SSL-encryption to protect data transmissions.</li>
-				</font></ul>
-				<p></p>
-				<p style="margin-left: 10px; margin-top: 3pt; margin-bottom: 5pt;">
-					<font face="Arial" color="#7b0e02" style="font-size: 10pt; font-weight: 700; ">Changes to this Privacy Policy</font><br>
-				</p>
-				<p style="margin-left: 10px; margin-top: 3pt; margin-bottom: 5pt;">
-				</p><ul style="text-align:justify; margin-left: 30px; margin-right: 8px;"><font face="Arial" style="font-size: 10pt;">
-					<li>Eveningflavors.com may amend this policy from time to time. If we make any substantial changes in the way we use your personal information we will notify you by posting a prominent announcement on our pages. </li>
-				</font></ul>
-				<p></p>
-				<p style="margin-left: 10px; margin-top: 3pt; margin-bottom: 5pt;">
-					<font face="Arial" color="#7b0e02" style="font-size: 10pt; font-weight: 700; ">Questions or Suggestions</font><br>
-				</p>
-				<p style="margin-left: 10px; margin-top: 3pt; margin-bottom: 5pt;">
-				</p><ul class="big" style="text-align:justify; margin-left: 30px; margin-right: 8px;"><font face="Arial" style="font-size: 10pt;">
-					<li>If you have questions or suggestions complete a feedback form.</li>
-				</font></ul>
-				<p></p><br>
 			</div>
 
+			<div id="FooterTopLeft">
+				<p class="footerLink" style="line-height: 18px; margin-top: 10pt; margin-bottom: 0pt; margin-left: 0px;">
+					<font face="open sans" color="white" style="font-size: 11pt;text-decoration:underline;"> POLICY</font>
+				</p>
+			</div>
+			<div id="FooterTopLeft">
+				<p class="footerLink" style="line-height: 18px; margin-top: 10pt; margin-bottom: 0pt; margin-left: 0px;">
+					<font face="open sans" color="white" style="font-size: 11pt;text-decoration:underline;"> OUR FEEDS</font>
+				</p>
+			</div>
+			
+			
+			<div style="border:0px solid white;float:left;width:200px;height:150px;">
+				<img src="/EVFNewImages/HomePageImages/Call.png" width="45" height="47" style="margin-left:5em;margin-top:0.5em;"><br>
+				<font size="4" face="open sans"> CUSTOMER SUPPORT</font><br>
+				<font size="4" face="open sans">  08042784606</font>
+			</div>
+			
+
+		</div>
+
+	<div id="FooterDown">
+		<div id="FooterLeft">			
+			<!---->
+			<p class="footerLink" style="line-height: 22px; margin-top: 0pt; margin-bottom: 0pt; margin-left: 0px;">
+				<a href="/AboutUs/ourstory/"><font face="open sans" color="white" style="font-size: 9pt;"> ABOUT US</font></a><br>
+			</p>
+			<p class="footerLink" style="line-height: 22px; margin-top: 0pt; margin-bottom: 0pt; margin-left: 0px;">
+				<a href="/AboutUs/ourteam/"><font face="open sans" color="white" style="font-size: 9pt;"> TEAM</font></a><br>
+			</p>
+			<p class="footerLink" style="line-height: 22px; margin-top: 0pt; margin-bottom: 0pt; margin-left: 0px;">
+				<a href="/AboutUs/contactus/"><font face="open sans" color="white" style="font-size: 9pt;"> CONTACT US</font></a><br>
+			</p>
+			<p class="footerLink" style="line-height: 22px; margin-top: 0pt; margin-bottom: 0pt; margin-left: 0px;">
+				<a href="/AboutUs/careers/"><font face="open sans" color="white" style="font-size: 9pt;"> CAREERS</font></a><br>
+			</p>
+			
+
+			<!--<p class="footerLink" style="line-height: 22px; margin-top: 0pt; margin-bottom: 0pt; margin-left: 0px;">
+				<a href="/sitemap/"><font face="open sans" color="white" style="font-size: 9pt;">SITE MAP</font></a><br>
+			</p>
+			<p class="footerLink" style="line-height: 22px; margin-top: 0pt; margin-bottom: 0pt; margin-left: 0px;">
+				<a href="/FAQ/EVF_FAQ.jsp"><font face="open sans" color="white" style="font-size: 9pt;">FAQ's</font></a><br>
+			</p>-->
+
+
+		</div>
+
+		<div id="FooterLeft">
+
+			<p class="footerLink" style="line-height: 22px; margin-top: 0pt; margin-bottom: 0pt; margin-left: 3px;">
+				<!--<a href="/Advertise/"><font face="open sans" color="white" style="font-size: 9pt;">ADVERTISE WITH US</font></a><br>-->
+				<a href="/Restaurateurs/"><font face="open sans" color="white" style="font-size: 9pt;">RESTAURATEURS</font></a><br>
+				<!-- <a href="/myaccount/MyAccountHomepage.jsp?userType=2&page=Signup"><font face="open sans" color="white" style="font-size: 9pt;">RESTAURATEURS SIGN-UP</font></a><br> -->
+				<!--<a href="/Partners/"><font face="open sans" color="white" style="font-size: 9pt;">PARTNERS</font></a><br>-->
+				<!--<a href="/Media/"><font face="open sans" color="white" style="font-size: 9pt;">MEDIA</font></a><br>-->
+			</p>
+
+		</div>
+		<div id="FooterLeft">
+            <p class="footerLink" style="line-height: 22px; margin-top: 0pt; margin-bottom: 0pt; margin-left: 4px;">
+                <a href="/Terms-Conditions/"><font face="open sans" color="white" style="font-size: 9pt;">TERMS AND CONDITIONS</font><br></a>
+				<a href="/Privacy/"><font face="open sans" color="white" style="font-size: 9pt;"> PRIVACY</font></a><br>
+				<!--<a href="/AboutUs/"><font face="open sans" color="white" style="font-size: 9pt;"> ABOUT US</font></a><br>
+				<a href="/Careers/"><font face="open sans" color="white" style="font-size: 9pt;"> CAREER</font></a><br>-->
+
+
+			</p>
+		</div>
+
+		<div id="FooterLeft">
+			<p class="footerLink" style="line-height: 22px; margin-top: 0pt; margin-bottom: 0pt; margin-left: 6px;">
+       			<!-- <a href="/Testimonial/"><font face="open sans" color="white" style="font-size: 9pt;"> TESTIMONIALS</font></a><br> -->
+				<a href="/Feedback/"><font face="open sans" color="white" style="font-size: 9pt;"> SEND FEEDBACK</font></a><br>
+				<!--<a href="/Blogs-Eveningflavors/EFlavors-Blog/"><font face="open sans" color="white" style="font-size: 9pt;"> BLOGS</font></a><br>-->
+				<a href="/Bangalore/NewsLetter/"><font face="open sans" color="white" style="font-size: 9pt;"> NEWS LETTERS</font></a><br>
+				<!--<a href="/blogs/rssfeed.jsp"><font face="open sans" color="white" style="font-size: 9pt;">RSS</font><br></a>-->
+				<a href="/sitemap/"><font face="open sans" color="white" style="font-size: 9pt;">SITE MAP</font></a><br>
+				<a href="/FAQ/EVF_FAQ.jsp"><font face="open sans" color="white" style="font-size: 9pt;">FAQ</font></a>
+			</p>
+		</div>
+		
 	</div>
+	<div id="FooterMbl">
+			<div id="TopFooter">
+				<table cellspacing="0" cellpadding="0" width="100%" border="0">
+				<tbody><tr>
+				<td align="right">
+				<a href="/AboutUs/ourstory/" style="color:#ffffff;text-decoration:none;font-size:12px;"><div style="border:1px solid white;text-align:center;border-radius:5px;line-height:22px;font-family:open sans;width:70px;">
+					ABOUT US
+				</div></a>
+				</td>
+				<td align="center">
+				<div style="border:1px solid white;text-align:center;border-radius:5px;line-height:22px;font-family:open sans;width:100px;font-size:12px;color:#ffffff">
+					ADVERTISE
+				</div>
+				</td>
+				<td align="left">
+				<a href="http://blog.eveningflavors.com/" style="color:#ffffff;text-decoration:none;font-size:12px;"><div style="border:1px solid white;text-align:center;border-radius:5px;line-height:22px;font-family:open sans;width:70px;">
+					BLOGS
+				</div></a>
+				</td>
+				</tr>
+				</tbody></table>
+			</div>
+			<div id="BottomFooter">
+				<table cellspacing="0" cellpadding="0" width="100%" border="0">
+				<tbody><tr>
+				<td>
+				<div id="TabWidth">
+					<a href="/Privacy/" style="color:#ffffff;text-decoration:none;font-size:13px;text-align:center;">PRIVACY</a>
+				</div>
+				</td>
+				<td>
+				<div id="TabWidth">
+					<a href="/Terms-Conditions/" style="color:#ffffff;text-decoration:none;font-size:13px;">TERMS</a>
+				</div>
+				</td>
+				<td>
+				<div id="TabWidth">
+					<a href="/sitemap/" style="color:#ffffff;text-decoration:none;font-size:13px;">SITEMAP</a>
+				</div>
+				</td>
+				<td>
+				<div id="TabWidth">
+					<a href="#" style="color:#ffffff;text-decoration:none;font-size:13px;">POLICIES</a>
+				</div>
+				</td>
+				</tr>
+				</tbody></table>
+			</div>
+		</div>
+		
+		
 </div>
-<div id="FooterRightDisp">
+</div>
 		
 
-</div>
 
-
-
- 
-</div>
-
-
-
-<div id="FooterMain">
-	<div id="FooterTop">
-
-		<div id="FooterTopLeft">
-			<p class="footerLink" style="line-height: 18px; margin-top: 10pt; margin-bottom: 0pt; margin-left: 30px;">
-				<font face="Arial" color="white" style="font-size: 10pt;"><b>EVENING FLAVORS</b></font>
-			</p>
+		<div id="FooterRights">
+				<p class="footerLink" style="line-height: 18px; margin-top: 20pt; margin-bottom: 0pt; margin-left: 0px;">
+					<font face="open sans" style="font-size: 13px;color:white;"> © </font><font face="open sans" style="font-size: 12px;color:white;">2009-15 Evening Flavors. All rights reserved.  </font>
+				</p>
 		</div>
-		<div id="FooterTopLeft">
-			<p class="footerLink" style="line-height: 18px; margin-top: 10pt; margin-bottom: 0pt; margin-left: 30px;">
-				<font face="Arial" color="white" style="font-size: 10pt;"><b> COMMERCIAL</b></font>
-			</p>
-		</div>
-
-		<div id="FooterTopLeft">
-			<p class="footerLink" style="line-height: 18px; margin-top: 10pt; margin-bottom: 0pt; margin-left: 30px;">
-				<font face="Arial" color="white" style="font-size: 10pt;"><b> EVENING FLAVORS</b></font>
-			</p>
-		</div>
-		<div id="FooterTopLeft">
-			<p class="footerLink" style="line-height: 18px; margin-top: 10pt; margin-bottom: 0pt; margin-left: 30px;">
-				<font face="Arial" color="white" style="font-size: 10pt;"><b> OUR FEEDS</b></font>
-			</p>
-		</div>
-
-		<div id="FooterTopLeft">
-			<p class="footerLink" style="line-height: 18px; margin-top: 10pt; margin-bottom: 0pt; margin-left: 30px;">
-				<font face="Arial" color="white" style="font-size: 10pt;"><b> LOCATION</b></font>
-			</p>
-		</div>
-
-	</div>
-
-
-	<div id="FooterLeft">
-
-		<p class="footerLink" style="line-height: 18px; margin-top: 15pt; margin-bottom: 0pt; margin-left: 30px;">
-			<font face="Arial" color="white" style="font-size: 8pt;"><b>CUSTOMER SUPPORT</b></font><br>
-			<font color="white" style="font-size: 8pt;"><b>+91 80 4089 4999</b></font><br>
-		</p>
-		<p class="footerLink" style="line-height: 18px; margin-top: 0pt; margin-bottom: 0pt; margin-left: 30px;">
-			<a href="/myaccount/MyAccountHomepage.jsp?userType=1&amp;page=Signup"><font face="Arial" color="white" style="font-size: 8pt;"><strong>YOUR ACCOUNT</strong></font></a><br>
-		</p>
-		<p class="footerLink" style="line-height: 18px; margin-top: 0pt; margin-bottom: 0pt; margin-left: 30px;">
-			<a href="/FAQ-EveningFlavors.jsp"><font face="Arial" color="white" style="font-size: 8pt;"><strong>FAQ's</strong></font></a><br>
-		</p>
-
-		<p class="footerLink" style="line-height: 18px; margin-top: 0pt; margin-bottom: 0pt; margin-left: 30px;">
-			<a href="/sitemap/"><font face="Arial" color="white" style="font-size: 8pt;"><strong>SITE MAP</strong></font></a><br>
-		</p>
-
-	</div>
-
-	<div id="FooterLeft">
-
-		<p class="footerLink" style="line-height: 18px; margin-top: 15pt; margin-bottom: 0pt; margin-left: 30px;">
-			<a href="/Advertise/"><font face="Arial" color="white" style="font-size: 8pt;"><strong>ADVERTISE WITH US</strong></font></a><br>
-			<a href="/Restaurateurs/"><font face="Arial" color="white" style="font-size: 8pt;"><strong>RESTAURATEURS</strong></font></a><br>
-			<!-- <a href="/myaccount/MyAccountHomepage.jsp?userType=2&page=Signup"><font face="Arial" color="white" style="font-size: 8pt;"><strong>RESTAURATEURS SIGN-UP</strong></font></a><br> -->
-			<a href="/Partners/"><font face="Arial" color="white" style="font-size: 8pt;"><strong>PARTNERS</strong></font></a><br>
-			<a href="/Media/"><font face="Arial" color="white" style="font-size: 8pt;"><strong>MEDIA</strong></font></a><br>
-		</p>
-
-	</div>
-	<div id="FooterLeft">
-
-		<p class="footerLink" style="line-height: 18px; margin-top: 15pt; margin-bottom: 0pt; margin-left: 20px;">
-
-            <a href="/Terms-Conditions/"><font face="Arial" color="white" style="font-size: 8pt;"><strong>TERMS AND CONDITIONS</strong></font><br></a>
-			<a href="/Privacy/"><font face="Arial" color="white" style="font-size: 8pt;"><strong> PRIVACY</strong></font></a><br>
-			<a href="/About-Us/"><font face="Arial" color="white" style="font-size: 8pt;"><strong> ABOUT US</strong></font></a><br>
-			<a href="/Career/"><font face="Arial" color="white" style="font-size: 8pt;"><strong> CAREER</strong></font></a><br>
-
-
-		</p>
-	</div>
-
-	<div id="FooterLeft">
-
-		<p class="footerLink" style="line-height: 18px; margin-top: 15pt; margin-bottom: 0pt; margin-left: 30px;">
-			<!-- <a href="/Testimonial/"><font face="Arial" color="white" style="font-size: 8pt;"><strong> TESTIMONIALS</strong></font></a><br> -->
-			<a href="/Feedback/"><font face="Arial" color="white" style="font-size: 8pt;"><strong> SEND FEEDBACK</strong></font></a><br>
-			<a href="/Blogs-Eveningflavors/EFlavors-Blog/"><font face="Arial" color="white" style="font-size: 8pt;"><strong> BLOGS</strong></font></a><br>
-			<a href="/Bangalore/NewsLetter/"><font face="Arial" color="white" style="font-size: 8pt;"><strong> NEWS LETTERS</strong></font></a><br>
-			<a href="/blogs/rssfeed.jsp"><font face="Arial" color="white" style="font-size: 8pt;"><strong>RSS&nbsp;<img src="/images/feed-icon.gif" border="0"></strong></font><br></a>
-		</p>
-	</div>
-	<div id="FooterLeft" style="border-width: 0px 0px 0px 0px;">
-		<p class="footerLink" style="line-height: 18px; margin-top: 15pt; margin-bottom: 0pt; margin-left: 30px;">
-			<a href="/Bangalore/"><font face="Arial" color="white" style="font-size: 8pt;"><strong> BANGALORE</strong></font></a><br>
-			<a href="/Mumbai/"><font face="Arial" color="white" style="font-size: 8pt;"><strong> MUMBAI</strong></font></a><br>
-			<a href="/Pune/"><font face="Arial" color="white" style="font-size: 8pt;"><strong> PUNE</strong></font></a><br>
-			<a href="/Delhi/"><font face="Arial" color="white" style="font-size: 8pt;"><strong> DELHI</strong></font></a><br>
-			<a href="/Kolkata/"><font face="Arial" color="white" style="font-size: 8pt;"><strong> KOLKATA</strong></font></a><br>
-			<a href="/Jaipur/"><font face="Arial" color="white" style="font-size: 8pt;"><strong> JAIPUR</strong></font></a><br>
-		</p>
-
-	</div>
-
-	<div id="FooterTop">
-			<p class="footerLink" style="line-height: 18px; margin-top: 10pt; margin-bottom: 0pt; margin-left: 30px;">
-				<font face="Arial" style="font-size: 9pt;"> © </font><font face="Arial" style="font-size: 8pt;">2009-14 Evening Flavors. All rights reserved.  </font>
-			</p>
-	</div>
-
-</div>
-
-
-
-<script type="text/javascript">
-	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-	</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
 	<script type="text/javascript">
-	var pageTracker = _gat._getTracker("UA-6172917-1");
-	pageTracker._trackPageview();
-</script>
+		var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+		document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+		</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+		<script type="text/javascript">
+		var pageTracker = _gat._getTracker("UA-6172917-1");
+		pageTracker._trackPageview();
+	</script>
+				<!-- Validate GlobaltopHeader open div -->
+			<!--Start of Tawk.to Script-->
+			<script type="text/javascript">
+			var $_Tawk_API={},$_Tawk_LoadStart=new Date();
+			(function(){
+			var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
+			s1.async=true;
+			s1.src='https://embed.tawk.to/5572b8d1b9e802843c991d37/default';
+			s1.charset='UTF-8';
+			s1.setAttribute('crossorigin','*');
+			s0.parentNode.insertBefore(s1,s0);
+			})();
+			</script>
+			<!--End of Tawk.to Script-->
+		</div>
+	</div>
 
-</div>
-  
-
-  </div></div></body></html>
+</body></html>
