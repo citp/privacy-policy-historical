@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the bridalguide.com privacy policy that was archived on 2013-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130613130242id_/http%3A//www.bridalguide.com/planning/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bridalguide.com privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611203931id_/http%3A//www.bridalguide.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Wedding Planning, Ideas & Etiquette | Bridal Guide Magazine
+# Privacy Policy | BridalGuide
 
 BridalGuide.com is committed to safeguarding your privacy while you are on our site. The following privacy policy describes what personal information we collect from you and exactly how we use it.
 
-BridalGuide.com is owned and operated by RFP LLC. If you have any questions or concerns about our privacy policy, please feel free to contact us by email at [customerservice@bridalguide.com](mailto:customerservice@bridalguide.com).
+BridalGuide.com is owned and operated by RFP Corp. If you have any questions or concerns about our privacy policy, please feel free to contact us by email at [customerservice@bridalguide.com](mailto:customerservice@bridalguide.com).
 
 **What information will you be asked to provide?**  
 There are four different types of content on BridalGuide.com, and each has a different level of information requested. All are completely free to users.
@@ -35,3 +35,5 @@ Please keep in mind that any information you provide in a message board posting 
 
 **Your acceptance of these terms**  
 By using this web site, you signify your assent to the BridalGuide.com privacy policy. If you do not agree to this policy, please do not use our web site. We reserve the right to change this privacy policy from time to time, so please check back periodically. Your continued use of the BridalGuide.com following the posting of changes to these terms will mean you accept these changes.
+
+Note: Bridal Guide is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to amazon.com.
