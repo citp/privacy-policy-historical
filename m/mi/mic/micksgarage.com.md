@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the micksgarage.com privacy policy that was archived on 2014-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140923115755id_/http%3A//www.micksgarage.com/about/privacy-statement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the micksgarage.com privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612011012id_/http%3A//www.micksgarage.com/about/privacy-statement.aspx) for the most accurate reproduction.*
 
 # MicksGarage - Privacy and Security
 
@@ -106,7 +106,7 @@ Back to top
 
 ### Updating, Verifying and Deleting Personal Data
 
-You may inform us of any changes in your Personal Data, and in accordance with our obligations under the Data Protection Acts 1988 and 2002 we will update or delete your Personal Data accordingly. To find out what Personal Data we hold on you or to have your Personal Data updated, amended or removed from our database, please contact us via eMail at info@micksgarage.com or via phone on +44(0) 2476 998425 
+You may inform us of any changes in your Personal Data, and in accordance with our obligations under the Data Protection Acts 1988 and 2002 we will update or delete your Personal Data accordingly. To find out what Personal Data we hold on you or to have your Personal Data updated, amended or removed from our database, please contact us via eMail at info@micksgarage.com or via phone on +353(0) 1 4406603 
 
 Back to top
 
