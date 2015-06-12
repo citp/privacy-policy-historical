@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the greenpageclassifieds.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120055349id_/http%3A//www.greenpageclassifieds.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greenpageclassifieds.com privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612130824id_/http%3A//www.greenpageclassifieds.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Greenpage Classifieds
 
@@ -50,4 +50,11 @@ Our primary purpose in collecting personal information is to provide you with a 
 
   * Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
 
+
+
+  
+  
+style="display:inline-block;width:300px;height:600px"  
+data-ad-client="ca-pub-5232136930945692"  
+data-ad-slot="7398093365">  
 
