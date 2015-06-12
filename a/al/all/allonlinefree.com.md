@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the allonlinefree.com privacy policy that was archived on 2014-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141208182319id_/http%3A//www.allonlinefree.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allonlinefree.com privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612080720id_/http%3A//www.allonlinefree.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | All Online Free
-
-* * *
 
 This Privacy Policy governs the manner in which AllOnlineFree.Com collects, uses, maintains and discloses information collected from users (each, a “User”) of the [http://www.allonlinefree.com](http://www.allonlinefree.com/) website (“Site”). This privacy policy applies to the Site and all products and services offered by AllOnlineFree.Com.
 
@@ -22,11 +20,11 @@ Our Site may use “cookies” to enhance User experience. User’s web browser 
 
 AllOnlineFree.Com may collect and use Users personal information for the following purposes:
 
-  * _\- To improve our Site_  
+  * _– To improve our Site_  
 We may use feedback you provide to improve our products and services.
-  * _\- To share your information with third parties_  
+  * _– To share your information with third parties_  
 We may share or sell information with third parties for marketing or other purposes.
-  * _\- To send periodic emails_  
+  * _– To send periodic emails_  
 We may use the email address to respond to their inquiries, questions, and/or other requests.
 
 
