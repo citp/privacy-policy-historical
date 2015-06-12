@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the entertainmentdaily.co.uk privacy policy that was archived on 2014-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140816174849id_/http%3A//www.entertainmentdaily.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the entertainmentdaily.co.uk privacy policy that was archived on 2015-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150613015920id_/http%3A//www.entertainmentdaily.co.uk/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Entertainment Daily
+# Privacy Policy - Entertainment Daily
 
 This privacy policy sets out how EntertainmentDaily uses and protects any information that you give EntertainmentDaily when you use this website.  
 EntertainmentDaily is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
@@ -17,8 +17,9 @@ We may collect the following information:
 What we do with the information we gather  
 When you enter your details on EntertainmentDaily you are agreeing to receive promotional offers from EntertainmentDaily and possibly third parties based in the UK, EEA, USA or Canada. These promotional offers could be sent to you by email, in the post, by telephone or by text message. Please be aware that these countries have less stringent data security standards than those of the UK, and that by signing up on this site you are agreeing to the transfer of your information to those countries.
 
-If you would prefer not to receive promotions in the future, you can unsubscribe at any time.  
-EntertainmentDaily is powered by ContentClick (a company of digitalbox ltd) and reserves the right to transfer or sell your personal information to companies who are affiliated with ContentClick; this is at our sole discretion. If ContentClick changes ownership through a merger or sale, it reserves the right to transfer or assign the right to use your Personal Information collected from EntertainmentDaily.
+If you would prefer not to receive promotions in the future, you can unsubscribe at any time.
+
+Entertainment Daily reserves the right to transfer or sell your personal information to companies affiliated with us; this is at our sole discretion. If Entertainment Daily changes ownership through a merger or sale, it reserves the right to transfer or assign the right to use your Personal Information collected from Entertainment Daily.
 
 Security  
 We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure, we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
@@ -61,3 +62,5 @@ You may choose to restrict the collection or use of your personal information in
 You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please email us.
 
 If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.
+
+Entertainmentdaily.co.uk is owned and operated by digitalbox Limited, 15 Gay Street Bath, BA1 2PH. digitalbox Limited is registered under the Data Protection Act 1998 under registration number Z9842529 and operates in accordance with this law and The Privacy and Electronic Communications (EC Directive) Regulations 2003.
