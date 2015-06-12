@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ridgelineimages.com privacy policy that was archived on 2014-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141203140835id_/http%3A//ridgelineimages.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ridgelineimages.com privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612025018id_/http%3A//ridgelineimages.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Ridgeline Images
 
