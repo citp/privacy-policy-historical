@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the ixiacom.com privacy policy that was archived on 2014-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140927084819id_/http%3A//www.ixiacom.com/info/privacy/index.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ixiacom.com privacy policy that was archived on 2015-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150613003305id_/http%3A//www.ixiacom.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy - Ixia | Deliver On
+# Ixia Network Testing and Application Performance
 
 Ixia  
 Address:  
 26601 W. Agoura Rd.  
-Calabasas, CA 91302 
+Calabasas, CA 91302
 
 We can be reached via e-mail at [contact_us@ixiacom.com](mailto:contact_us@ixiacom.com) by telephone at 818-871-1800
 
@@ -15,8 +15,6 @@ We collect the e-mail addresses of those who communicate with us via e-mail, agg
 
 The information we collect is used to improve the content of our website.
 
-[ top of page ]
-
 ### Use of Cookies
 
 We use cookies on this site to ensure the integrity of the registration process and to personalize the site. A cookie is a small text file that is placed on your hard disk by a web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a web server in the domain that issued the cookie to you.
@@ -25,13 +23,7 @@ One of the primary purposes of cookies is to provide a convenience feature to sa
 
 You have the ability to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to fully experience the interactive features of this or other websites you visit.
 
-Click here to find out if you have cookies enabled.
-
-If you don't have cookies enabled, please click [here](https://web.archive.org/popup_file.php?file=/cookies.php "Enable cookies") to learn how to enable cookies on your browser.
-
 If you provide us with your email address, postal address or telephone number, you may receive periodic emails, postal mailings or telephone contact from us with information on new products and services or upcoming events. If you do not wish to receive such correspondence or contact, please let us know by using the unsubscribe link in an any email that you receive from us, or click [here](http://info.ixiacom.com/UnsubscribePage.html "Unsubscribe") and enter the necessary information. Our system will then automatically unsubscribe you from all future unsolicited communications.
-
-[ top of page ]
 
 ### With respect to Ad Servers:
 
@@ -43,16 +35,8 @@ Customers may prevent their information from being used for purposes other than 
 
 Upon request we provide site visitors with access to information that we have collected and that we maintain about them. Consumers can access this information by contacting us at the above email or postal addresses or phone number. Upon request we offer visitors the ability to have factual inaccuracies corrected in information that we maintain about them.
 
-[ top of page ]
-
 ### With respect to security:
 
 We have appropriate security measures in place in our physical facilities that we believe are reasonably designed to protect against the loss, misuse or alteration of information that we have collected from you at our site.
 
 If you feel that this site is not following its stated information policy, you may contact us at the above email or postal addresses or phone number.
-
-  * [Ixia Terms of Use](https://web.archive.org/info/terms_of_use/index.php "Ixia Terms of Use")
-
-
-
-[ back | top of page ]
