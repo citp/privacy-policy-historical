@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the steaknshake.com privacy policy that was archived on 2014-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141018213347id_/http%3A//www.steaknshake.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the steaknshake.com privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612062141id_/http%3A//www.steaknshake.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Steak 'n Shake
 
 **Date Last Modified: March 2014**
 
-This Privacy Policy (“Policy”) applies to Steak ‘n Shake Enterprises, Inc., its affiliates, subsidiaries, divisions or designees (“SnS” or “Steak ‘n Shake” or “we”). This Policy describes how Steak ‘n Shake collects, shares, uses and safeguards customer personal information we collect anywhere. This includes our restaurant locations in the United States (excluding Hawaii and U.S. Territories), our websites at [www.steaknshake.com](http://www.steaknshake.com/) and [www.steaknshakesignature.com](http://www.steaknshakesignature.com/), and other websites where we post this Policy (collectively, “Website”), and mobile applications. This Policy will also give you more information about how to manage the personal information that you provide to us. When visiting our Website, this Privacy Policy should be read in conjunction with the [Terms of Use](https://web.archive.org/legal "Terms of Use")  located on our Website.
+This Privacy Policy (“Policy”) applies to Steak ‘n Shake Enterprises, Inc., its affiliates, subsidiaries, divisions or designees (“SnS” or “Steak ‘n Shake” or “we”). This Policy describes how Steak ‘n Shake collects, shares, uses and safeguards customer personal information we collect anywhere. This includes our restaurant locations in the United States (excluding Hawaii and U.S. Territories), our websites at [www.steaknshake.com](http://www.steaknshake.com/), and other websites where we post this Policy (collectively, “Website”), and mobile applications. This Policy will also give you more information about how to manage the personal information that you provide to us. When visiting our Website, this Privacy Policy should be read in conjunction with the [Terms of Use](https://web.archive.org/legal "Terms of Use")  located on our Website.
 
 **1\. The Information We Collect.**
 
