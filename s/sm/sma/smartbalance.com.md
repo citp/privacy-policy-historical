@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smartbalance.com privacy policy that was archived on 2014-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141204064003id_/http%3A//www.smartbalance.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartbalance.com privacy policy that was archived on 2015-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150613003419id_/http%3A//www.smartbalance.com/privacy) for the most accurate reproduction.*
 
 # Smart Balance
 
@@ -102,7 +102,5 @@ Phone: (201) 421-3970
 Or contact us by fax: (201) 568-6374
 
 Please contact us if you have any comments or questions about this Privacy Policy or to report any violations of the Privacy Policy. We will respond to you within 24 to 48 hours in most cases.
-
-[](https://web.archive.org/products/chocolate-peanut-butters/smart-balance-natural-dark-chocolate-creamy-peanut-butter-spread "Creamy & Chunky Meet Chocolatey")
 
 [](http://www.smartbalance.com/slow-cooker-classic-recipes)
