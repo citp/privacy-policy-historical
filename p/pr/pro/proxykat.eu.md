@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the proxykat.eu privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231090724id_/http%3A//proxykat.eu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the proxykat.eu privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612080437id_/http%3A//www.proxykat.eu/privacy) for the most accurate reproduction.*
 
-# Privacy policy - KickassTorrents Proxy
+# Privacy policy - Kickass Torrents
 
 **Your Privacy**  
 We respect your privacy and we are committed to protect it. We don't sell, share, and show your personal information without your prior permission or written consent or unless required by law. We never collect any information about you except those specifically provided by you or limited information that the browser made available when you visited our site, for example, the IP address while you are on the site, visiting time, the link clicked, the browser type, and cookies.
