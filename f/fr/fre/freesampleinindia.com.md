@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freesampleinindia.com privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217131746id_/http%3A//freesampleinindia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freesampleinindia.com privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612083202id_/http%3A//freesampleinindia.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -51,3 +51,5 @@ We follow accepted industry standards to protect any personal information you ha
 We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order or legal process served on our website.
 
 [](http://www.hupso.com/share/)
+
+[](http://tracking.icubeswire.com/aff_c?offer_id=359&aff_id=1840&file_id=21566)
