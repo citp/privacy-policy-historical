@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the sms4smile.com privacy policy that was archived on 2014-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141213062512id_/http%3A//sms4smile.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sms4smile.com privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612141959id_/http%3A//sms4smile.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
-
-Loading...
 
 This privacy statement discloses the privacy practices for all pages and  
 services offered by sms4smile.com
@@ -53,7 +51,7 @@ For, instance one of our partners, Google uses the DoubleClick DART cookie on
 sms4smile.com displaying AdSense for content ads. Similarly, other advertising  
 partners may use their respective cookies to track advertising stats.
 
-### External Links
+### External Links 
 
 Our web sites contain links to other sites. sms4smile.com is not  
 responsible for the privacy practices or content of such other sites. We  
@@ -64,12 +62,9 @@ information.
 ### Responsibily
 
 sms4smile.com's team cannot be held responsible for any activity resulting  
-any kind of loss to an individual or group.
+any kind of loss to an individual or group. 
 
 Note: This Page can get updated any time, without an prior notice, so keep  
 checking back.
 
-Last updated: January 13th, 2010
-
-  
-
+Last updated: January 1st, 2015
