@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wiseowl.co.uk privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231154909id_/http%3A//www.wiseowl.co.uk/sundry/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wiseowl.co.uk privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612080505id_/http%3A//www.wiseowl.co.uk/sundry/privacy-policy) for the most accurate reproduction.*
 
 # Wise Owl - privacy policy for website
 
@@ -60,4 +60,4 @@ In accordance with the Data Protection Act 1998 you have the right to access any
 
 ## Contacting Us 
 
-Please do not hesitate to [contact us](https://web.archive.org/web/20141231154909id_/http://www.wiseowl.co.uk/enquiry/) regarding any matter relating to this Privacy and Cookies Policy. 
+Please do not hesitate to [contact us](https://web.archive.org/web/20150612080505id_/http://www.wiseowl.co.uk/enquiry/) regarding any matter relating to this Privacy and Cookies Policy. 
