@@ -1,22 +1,10 @@
-> *The following text is extracted and transformed from the worldmathday.com privacy policy that was archived on 2014-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141124102458id_/http%3A//www.3plearning.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldmathday.com privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612235028id_/http%3A//www.3plearning.com/privacy) for the most accurate reproduction.*
 
 # 3P Learning Privacy Policy
 
-##### 
-
-##### ****
-
-### About 3P Learning
-
-  * 3P Learning is a global e-learning resource company. We produce a range of online resources and a network of websites including but not limited to those for the [Mathletics](http://www.mathletics.com/ "Mathletics"), [Spellodrome](http://www.spellodrome.com/ "Spellodrome"), [Reading Eggs](http://www.readingeggs.com/ "Reading Eggs"), [IntoScience](http://www.intoscience.com/ "IntoScience") and [World Education Games](http://www.worldeducationgames.com/ "World Education Games") brands.
-  * Each resource operates under the 3P Learning brand, together with challenge websites for national and regional events which may use or integrate with some of the aforementioned websites (the Site) are owned and operated by 3P Learning Pty Ltd (3P Learning).
-  * References to the Site in this Privacy Policy document include all related 3P Learning brand websites, as mentioned above. This document refers to all contact with the 3P Learning resources, via online access of range of mobile applications available.
-
-
-
 ### About 3P Learning’s Privacy Policy
 
-  *  3P Learning is committed to protecting the safety and security of our registered users ( **Registrants** ) and are sensitive to our Registrant’s concerns about the safety of the personal information provided to us. **Please read this Privacy Policy carefully in order to understand how any personal information collected by us is used.**
+  *  3P Learning is committed to protecting the safety and security of our registered users ( **Registrants** ) and are sensitive to our Registrant’s concerns about the safety of the personal information provided to us.  **Please read this Privacy Policy carefully in order to understand how any personal information collected by us is used.**
   * Registrants must agree to their personal information being used by 3P Learning in accordance with this Privacy Policy before they may register.
   * This Privacy Statement has been developed in accordance with…
 
@@ -24,17 +12,44 @@
 
 .
 
-  * ___The Australian Privacy Amendment (Enhancing Privacy Protection) Act 2012_
-  * ___The Australian Privacy Regulation 2013_
-  * ___The United Kingdom Privacy Protection Act 1998_
-  * ___The United States Children’s Online Privacy Protection Act and Rule as administered by the Federal Trade Commission_
-  * ___The United States Family Educational Rights and Privacy Act_
-  * ___The Alberta Freedom of Information and Protection of Privacy Act_
-  * ___The Canadian Personal Information Protection and Electronic Documents Act (PIPEDA)_
+  *  __
+
+ _The Australian Privacy Amendment (Enhancing Privacy Protection) Act 2012_
+
+  *  __
+
+ _The Australian Privacy Regulation 2013_
+
+  *  __
+
+ _The United Kingdom Privacy Protection Act 1998_
+
+  *  __
+
+ _The United States Children’s Online Privacy Protection Act and Rule as administered by the Federal Trade Commission_
+
+  *  __
+
+ _The United States Family Educational Rights and Privacy Act_
+
+  *  __
+
+ _The Alberta Freedom of Information and Protection of Privacy Act_
+
+  *  __
+
+ _The Canadian Personal Information Protection and Electronic Documents Act (PIPEDA)_
+
+  *  __
+
+ _The Freedom of Information and Protection of Privacy Act (British Columbia) (“FIPPA”)_
+
+  *  __
+
+ _The Personal Information International Disclosure Protection Act (Nova Scotia) (“PIIDPA”)._
 
 
 
-#### ****
 
 ### General Communication Principle
 
@@ -67,7 +82,7 @@ The information collected from Registrants is used for the following purposes:
 
 We use the 3P Learning product newsletters or emails to notify our users of all the current events, changes, improvements, upgrades, rules, and so on, of the Site. In addition, we may notify our Registrants of new products and services that 3P Learning has designed and made available to the Registrants. In all communications, Registrants may opt out at any time by following the specific opt out instructions within the communications that we send.
 
-### What we will not do with your personal information
+### What we will not do with your personal information
 
 3P Learning will keep your personal information confidential and not sell or knowingly divulge your information to advertisers or any external third parties, unless:
 
@@ -123,7 +138,7 @@ Registrants have a right to get a copy from us of the personal information we ho
 
 A cookie is a little piece of information handed to a web browser from a web server that contains information that can be retrieved from the server later. When you visit the Site the server may attach a cookie to your computer’s memory. 3P Learning uses cookies only to the limited extent to recognise the Registrant when they visit the Site and pairing that Registrant with the account (and account preferences) that the Registrant created. However, this information is not linked to any personal information that Registrant may provide and cannot be used to identify Registrants. You should be able to configure your computer so that it disables cookies.
 
-To help us better understand you needs and better share content, we also use analytical software. This software will save a cookie to your computers hard drive in order to track and monitor your engagement and usage of the website but will not store, save or collect personal information. You can read Google’s privacy policy here for further information [ <http://www.google.com/privacy.html>[ ](http://www.google.com/privacy.html)].
+To help us better understand you needs and better share content, we also use analytical software. This software will save a cookie to your computers hard drive in order to track and monitor your engagement and usage of the website but will not store, save or collect personal information. You can read [Google’s privacy policy here](http://www.google.com/privacy.html "Good Privacy Policy") for further information.
 
 Other cookies may be stored to your computers hard drive when this website uses referral programs, sponsored links or adverts – which is extremely rare. Such cookies typically expire after 30 days, though some may take longer. No personal information is stored, saved or collected without your consent.
 
@@ -143,31 +158,16 @@ Ask your parent or guardian for permission before you send any personal informat
 
 For more information on privacy legislation and guidelines in your local jurisdiction please contact your relevant local authorities.
 
-  * __**Australia:**  [www.privacy.gov.au](http://www.privacy.gov.au/ "Australia")
-  * __**Canada:**  [www.privcom.gc.ca](http://www.privcom.gc.ca/ "Canada")
-  * __**European Union:**  <http://ec.europa.eu/justice_home/fsj/privacy/>
-  * __**India:**  <http://www.mit.gov.in/default.aspx>
-  * __**New Zealand:**  [www.privacy.org.nz](http://www.privacy.org.nz/ "New Zealand")
-  * __**Singapore:**  [www.mica.gov.sg](http://www.mica.gov.sg/ "Singapore")
-  * __**United Kingdom:**   [www.ico.gov.uk](http://www.ico.gov.uk/ "UK")
-  * __**USA:**  [www.ftc.gov](http://www.ftc.gov/ "USA")
+  *  __
+  *  __
+  *  __
+  *  __
+  *  __
+  *  __
+  *  __
+
+ **United Kingdom:**   [www.ico.gov.uk](http://www.ico.gov.uk/ "UK")
+
+  *  __
 
 
-
-### 
-
-### Special Notice For Users in Canada
-
-3P Learning is fully committed to providing access to our resources through an environment that is fully compliant with all national and provincial privacy requirements for our users across Canada. This Privacy Policy has been developed with the standards required to be compliant with the Alberta Freedom of Information and Protection of Privacy Act and the Canadian Personal Information Protection and Electronic Documents Act (PIPEDA).
-
-We sometimes transfer personal information to others, including to affiliated entities or unrelated companies (“service providers”), that carry out certain functions on our behalf such as order fulfillment, accounts receivable and data processing. In those cases we require those service providers not to use or disclose your personal information for any purpose other than as directed by 3P Learning. Some of these service providers may be located outside of Canada, including in the United States, and your personal information may be collected, used, disclosed, stored and processed in those jurisdictions for the purposes described in this Privacy Statement.
-
-We take all reasonable contractual or other measures to protect your personal information while processed or handled by these service providers. If your personal information is located outside Canada it will be subject to legal requirements in those foreign countries applicable to our service providers, for example, lawful requirements to disclose personal information to government authorities in those countries.
-
-#### 
-
-### Contacting 3P Learning about this Privacy Policy
-
-#### Please address all requests and questions about this Privacy Policy to the **Privacy and Data Protection Officer**  using the email address below.
-
-#### [customerservice@3plearning.com](mailto:customerservice@3plearning.com)
