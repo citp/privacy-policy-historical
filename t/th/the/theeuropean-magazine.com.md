@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theeuropean-magazine.com privacy policy that was archived on 2014-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141008183548id_/http%3A//www.theeuropean-magazine.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theeuropean-magazine.com privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612024059id_/http%3A//www.theeuropean-magazine.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - The European
 
@@ -64,53 +64,41 @@ info@theeuropean.de
 
 Most Read 
 
-  * Conversation
+  * Debate
 
-## [Carl Bildt on the Ukrainian conflict](https://web.archive.org/carl-bildt/9049-carl-bildt-on-the-ukrainian-conflict)
+## [The Danish Cycling Experience](https://web.archive.org/klaus-bondam/10199-the-danish-cycling-experience)
 
-[](https://web.archive.org/carl-bildt/9049-carl-bildt-on-the-ukrainian-conflict#disqus_thread) [](https://web.archive.org/carl-bildt/9049-carl-bildt-on-the-ukrainian-conflict)
-
-Carl Bildt has been Foreign Minister of Sweden since 2006 and was Prime Minister from 1991-1994. He spoke with WorldPost editor-in-chief Nathan Gardels earlier this week at a c... [read more](https://web.archive.org/carl-bildt/9049-carl-bildt-on-the-ukrainian-conflict)
+Copenhagen is famous as a cycling city. How did its city council create this world-renowned cycling culture? By making cycling the easiest option. [read more](https://web.archive.org/klaus-bondam/10199-the-danish-cycling-experience)
 
   * Conversation
 
-## [Cory Doctorow on security in the digital age](https://web.archive.org/cory-doctorow/9057-cory-doctorow-on-security-in-the-digital-age)
+## [Franco Berardi on Work and Europe](https://web.archive.org/franco-bifo-berardi/10195-franco-berardi-on-work-and-europe)
 
-[](https://web.archive.org/cory-doctorow/9057-cory-doctorow-on-security-in-the-digital-age#disqus_thread) [](https://web.archive.org/cory-doctorow/9057-cory-doctorow-on-security-in-the-digital-age)
-
-Cory Doctorow keeps up to speed with the latest trends in technology. He spoke with Lars Mensel and Thore Barfuss about staying safe online without becoming paranoid. [read more](https://web.archive.org/cory-doctorow/9057-cory-doctorow-on-security-in-the-digital-age)
+What does it mean to be a worker in contemporary Europe? Our contributor Creston Davis sat down with Franco “Bifo” Berardi to find out. Here's what he had to say about work in ... [read more](https://web.archive.org/franco-bifo-berardi/10195-franco-berardi-on-work-and-europe)
 
   * Debate
 
-## [The Scottish referendum and democracy](https://web.archive.org/ewan-macphee--2/9055-the-scottish-referendum-and-democracy)
+## [There Is No "Car Culture"](https://web.archive.org/james-longhurst/10194-there-is-no-car-culture)
 
-[](https://web.archive.org/ewan-macphee--2/9055-the-scottish-referendum-and-democracy#disqus_thread) [](https://web.archive.org/ewan-macphee--2/9055-the-scottish-referendum-and-democracy)
-
-By choosing to stay in the Union, Scots probably did the right thing. But did they do it for the right reasons? [read more](https://web.archive.org/ewan-macphee--2/9055-the-scottish-referendum-and-democracy)
+The prevalence of cars in the American transportation landscape is not an issue of culture. It’s the result of historical accidents and individual choices. [read more](https://web.archive.org/james-longhurst/10194-there-is-no-car-culture)
 
   * Column
 
-## [Recording versus being in the moment](https://web.archive.org/lars-mensel--3/9059-recording-versus-being-in-the-moment)
+## [John Nash and the role of mental health](https://web.archive.org/yara-zgheib/10211-john-nash-and-the-role-of-mental-health)
 
-[](https://web.archive.org/lars-mensel--3/9059-recording-versus-being-in-the-moment#disqus_thread) [](https://web.archive.org/lars-mensel--3/9059-recording-versus-being-in-the-moment)
-
-What if the constant recording of every nook and cranny of our daily life is helping us to be more in touch with reality rather than less? [read more](https://web.archive.org/lars-mensel--3/9059-recording-versus-being-in-the-moment)
+John Nash devised a supremely rational, Nobel Prize-winning model. He was also a supremely irrational man. How can this be? [read more](https://web.archive.org/yara-zgheib/10211-john-nash-and-the-role-of-mental-health)
 
   * Debate
 
-## [Scottish power claims after the referendum](https://web.archive.org/mark-briggs/9047-scottish-power-claims-after-the-referendum)
+## [America’s Car-Centric Transportation Policy](https://web.archive.org/ralph-buehler/10218-americas-car-centric-transportation-policy)
 
-[](https://web.archive.org/mark-briggs/9047-scottish-power-claims-after-the-referendum#disqus_thread) [](https://web.archive.org/mark-briggs/9047-scottish-power-claims-after-the-referendum)
+Americans may want to travel more by foot, bicycle, and public transport, but the car will remain king as long as government policy makes driving easy, and everything else hard. [read more](https://web.archive.org/ralph-buehler/10218-americas-car-centric-transportation-policy)
 
-The referendum may have failed to return independence, but it might have gone a long way toward gaining Scotland both more powers and more influence. Will others follow the Sco... [read more](https://web.archive.org/mark-briggs/9047-scottish-power-claims-after-the-referendum)
+  * Column
 
-  * Debate
+## [The grandest vision for humanity?](https://web.archive.org/riva-melissa-tez/10201-the-grandest-vision-for-humanity)
 
-## [Devolution in Britain after the referendum](https://web.archive.org/annie-rutherford--2/9042-devolution-in-britain-after-the-referendum)
-
-[](https://web.archive.org/annie-rutherford--2/9042-devolution-in-britain-after-the-referendum#disqus_thread) [](https://web.archive.org/annie-rutherford--2/9042-devolution-in-britain-after-the-referendum)
-
-The referendum must be the starting point of a wider discussion about how power is distributed across the whole United Kingdom and not just between Scotland and Westminster. [read more](https://web.archive.org/annie-rutherford--2/9042-devolution-in-britain-after-the-referendum)
+How can you say “I love you“ if you don’t even know yourself? [read more](https://web.archive.org/riva-melissa-tez/10201-the-grandest-vision-for-humanity)
 
 
 
