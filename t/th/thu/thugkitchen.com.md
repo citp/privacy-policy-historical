@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thugkitchen.com privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217144201id_/http%3A//www.thugkitchen.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thugkitchen.com privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612131104id_/http%3A//www.thugkitchen.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Thug Kitchen
 
