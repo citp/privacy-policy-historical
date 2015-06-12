@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gamingzion.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121023921id_/http%3A//gamingzion.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamingzion.com privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612122712id_/http%3A//gamingzion.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy
+# Privacy policy | GamingZion
 
 Gaming Zion may occasionally collect non-personal and non-identifying information from our visitors. This information includes, but is not limited to: browser type and geographic location. Other, personally-identifiable information is only collected when visitors ask to be sent periodic emails (newsletter). In this situation, the personal information we collect is limited to the email address which you provide. Further personal information may be requested at certain times, but you will be made aware of our intentions at the time the information is collected. Sharing this information is optional, and users may choose to visit our site anonymously.
 
