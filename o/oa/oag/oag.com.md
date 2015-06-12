@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the oag.com privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227233302id_/http%3A//www.oag.com/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oag.com privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612130215id_/http%3A//www.oag.com/Privacy-Policy) for the most accurate reproduction.*
 
-# Privacy Policy | Official Airline Guide - Absolute Aviation Advantage
+# OAG's Privacy Policy
 
 **General**
 
@@ -58,7 +58,7 @@ This web site contains links to other sites.  While we make every effort to pro
 
 You are given the opportunity to 'opt-in' or 'opt-out' of having your information used for purposes not directly related to our web site or our services at the point where we ask for the information.  For example, we allow you to 'opt-out' of receiving marketing and information from us and to “opt-in” to receiving marketing and information from OAG Aviation Companies and OAG Group Companies regarding product information, promotions, newsletters and research, and also other goods and services that we believe may be of interest to you.  We will use e-mail addresses, telephone and fax numbers only for the purpose of sending you our, OAG Aviation Companies’ and/or OAG Group Companies’ materials.  You always have the option of opting out as described below.
 
-If you no longer wish to receive promotional materials you may 'opt-out' of receiving these communications by writing to us at the relevant address set out below in the “Contacting Us” section.  If you have subscribed to our Frequent Flyer Update Newsletter, but no longer wish to receive it, you may unsubscribe at [www.frequentflyerupdate.oag.com/unsubscribe.htm](http://www.frequentflyerupdate.oag.com/unsubscribe.htm) .
+If you no longer wish to receive promotional materials you may 'opt-out' of receiving these communications by writing to us at the relevant address set out below in the “Contacting Us” section.
 
 You are always notified when your information is being collected.  We do this so you can make an informed choice as to whether you should proceed with the relevant services.
 
