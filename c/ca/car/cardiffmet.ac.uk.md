@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the cardiffmet.ac.uk privacy policy that was archived on 2014-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141129200844id_/http%3A//www.cardiffmet.ac.uk/about/Pages/privacy-statement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cardiffmet.ac.uk privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612165819id_/http%3A//cardiffmet.ac.uk/about/Pages/privacy-statement.aspx) for the most accurate reproduction.*
 
-# About Privacy Statement
-
-Privacy Statement 
+# Privacy Statement
 
 ​Cardiff Metropolitan University takes the responsibility towards protecting your privacy, when you use our web sites and services, very seriously. This statement describes why we may collect information from you and how this will be treated. Please note that non Cardiff Metropolitan University web sites, which may be linked to, are not covered by this statement. 
 
