@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freestufftimes.com privacy policy that was archived on 2014-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141107005603id_/http%3A//www.freestufftimes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freestufftimes.com privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612232713id_/http%3A//www.freestufftimes.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Free Stuff Times
 
