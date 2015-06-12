@@ -1,133 +1,138 @@
-> *The following text is extracted and transformed from the apollocamper.com privacy policy that was archived on 2014-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141206075311id_/http%3A//www.apollocamper.com/campervan-hire-privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apollocamper.com privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612144722id_/http%3A//www.apollocamper.com/campervan-hire-privacy-policy.aspx) for the most accurate reproduction.*
 
-# Apollo Motorhome Holidays Privacy Policy
+# Privacy Policy - Apollo Motorhome Holidays
 
-**Effective from April 2000**
+_Last updated November 2014_
 
-Apollo is committed to protecting and maintaining the privacy of your personal information. In Australia, New Zealand and the United States of America, various acts regulate the handling of personal information (for example, name and address details) by private sector organisations. In Australia, the applicable act is the Commonwealth Privacy Act of 1988, in New Zealand the Privacy Act of 1993 and in the USA the Freedom of Information Act (FOIA) of 1967. 
+Apollo Motorhome Holidays Pty Ltd ACN 051 584 153 in Australia and its related entities including Apollo Motorhome Holidays Ltd in New Zealand and Apollo Motorhome Holidays LLC in the United States (referred to in this policy as **we, us, our** ) recognise the importance of protecting the privacy of personal information we collect about you. 
 
-This policy explains how Apollo protects your privacy, and is a summary of how we collect, use and disclose personal information provided to us. When you apply to use our service, you consent to us using and disclosing your personal information in accordance with this policy. 
+The Privacy Act 1988 (Cth) ( **Privacy Act** ), Australian Privacy Principles and registered privacy codes in Australia in addition to the Privacy Act of 1993 in New Zealand and the Freedom of Information Act (FOIA) of 1967 in the USA govern the way in which we must manage your personal information. This Privacy Policy sets out how we collect, use, disclose and otherwise manage your personal information. 
 
-Please refer to the section in this policy titled “What you consent and agree to”. This policy applies to personal information we hold in Australia, New Zealand or the USA. In this policy we also explain how we can be contacted if you have a query about any personal information we hold about you. We recommend you take the time to read this privacy policy and retain it for future reference.
+This Privacy Policy should be reviewed periodically so that you are updated on any changes. 
 
-### Topics
+## Your Personal Information
 
-  * About Apollo
-  * What personal information does Apollo collect about me and how is it collected?
-  * How is my personal information used or disclosed by Apollo?
-    * General purposes
-    * Use or disclosure for direct marketing purposes 
-  * How does Apollo protect my information? 
-  * How to access your information 
-  * Who can I contact for further information? 
-  * What you consent and agree to
-  * Changes to this Policy
+Personal Information is any information or opinion about an identified individual or an individual who is reasonably identifiable, whether the information or opinion is true or not, and whether the information or opinion is stored in a material form or not. 
 
+We only collect personal information that is directly related to, or reasonably necessary for, our functions and activities. The types of personal information we usually collect include your name, address, phone number, email address and certain internet-related details (see below) and other information relevant to providing you with the information or services you are, or someone else you know is, seeking. 
 
+Wherever practicable, we will enable you to deal with us anonymously or pseudonymously, however, in many cases it is not practicable to interact in this way. 
 
-### About Apollo
+If you choose not to provide some of your personal details, this may prevent us from providing our services to you or limit our ability to provide the level of service you would normally expect from us. 
 
-In Australia, "Apollo" is a trading name of Apollo Motorhome Holidays PTY Ltd, ABN 81 051 584 153. In New Zealand, "Apollo" is a trading name of Apollo Motorhome Holidays Ltd, Company Number 1228890. In the USA “Apollo” is a trading name of Apollo Motorhome Holidays LLC. 
+## How we collect Personal Information
 
-### What personal information does Apollo collect about me and how is it collected? 
+Personal information will generally be collected directly from you when you rent a vehicle from us and through the use of any of our standard forms, our dealings with you over the internet, via email, or through a telephone conversation. The service that you use will determine exactly what information we collect. The information may include your: 
 
-When you rent a vehicle from Apollo, we need to collect certain information from you. The service that you use will determine exactly what information we collect. The information may include your: 
-
-  * Name
-  * Address
-  * Contact telephone number(s) 
-  * Contact facsimile number(s) 
-  * Date of birth
-  * Country of Residence 
-  * Driver’s licence number and state/country of origin 
-  * Frequent traveller program number 
-  * Vehicle preference 
-  * Credit card number(s) and expiry date(s) 
-  * Email address 
-  * Company name and employee number; and 
-  * Contact details of individuals who can provide professional references and other information required in the Cash Qualification process 
-  * Reservations and rental details including dates, times and places of vehicle hire 
-  * Preferences such as baby seat requirements, GPS requests, table and chair orders, etc. 
-  * Vehicle damage circumstances and details. 
+  * name;
+  * address;
+  * contact telephone number(s);
+  * contact facsimile number(s);
+  * date of birth;
+  * country of Residence;
+  * driver's licence number and state/country of origin;
+  * frequent traveller program number;
+  * vehicle preference;
+  * credit card number(s) and expiry date(s);
+  * email address;
+  * company name and employee number;
+  * contact details of individuals who can provide professional references and other information required in the Cash Qualification process;
+  * reservations and rental details including dates, times and places of vehicle hire; and
+  * preferences such as baby seat requirements, GPS requests, table and chair orders, etc.
+  * vehicle damage circumstances and details.
 
 
 
-In certain circumstances, we may collect sensitive information about you. For example, we may collect information about your membership of a professional association in order to provide you with the correct discount for our services. Sensitive information under the relevant Privacy Act includes information about an individual's membership of a professional or trade association. 
+There may, however, be some instances where personal information about you will be collected indirectly because it is unreasonable or impracticable to collect personal information directly from you. For example we may collect personal information through a travel agent, a corporate program or through one of our partner programs. We will usually notify you about these instances in advance, or where that is not possible, as soon as reasonably practicable after the information has been collected. 
 
-We will only collect sensitive information about you in accordance with the law. How we collect the information will depend on how you use our services. We may collect information directly from you by telephone, fax, email, over the counter, completion of an application or enrolment form, or through our Internet based service. We may also collect information about you indirectly through a travel agent, a corporate program or through one of our partner programs.
+If you access our website, we may collect additional personal information about you in the form of your IP address and domain name. Our website uses cookies. The main purpose of cookies is to identify users and to prepare customised web pages for them. Cookies do not identify you personally, but they may link back to a database record about you. We use cookies to monitor usage of our website and to create a personal record of when you visit our website and what pages you view so that we may serve you more effectively. You can disable cookies using your browser internet settings. 
 
-You can choose not to provide some of your personal details, but this may prevent us from providing our services to you or limit our ability to provide the level of service you would normally expect from us.
+If the personal information you provide us is incomplete or inaccurate, we may be unable to provide you, or someone else you know, with the services or information you or they are seeking. 
 
-### How is my personal information used or disclosed by Apollo?
+## Purpose of collection
 
-We strive to ensure a stress-free rental experience, and we are dedicated to building a rewarding and lasting relationship with every customer. In order to provide the highest level of service, we may use and disclose your personal information for the following purposes: 
+The purposes for which we collect your personal information depend on your interaction with us. But generally, we collect, use and hold your personal information for the purposes of: 
 
-### General purposes 
-
-We use your personal information to:
-
-  * Provide the services you request 
-  * Perform tasks necessary to administer those services 
-  * Research, develop, manage, protect and improve our services 
-  * Conduct customer satisfaction surveys and inform you of any improvements we have made to our services; and 
-  * Maintain and develop our software and other business systems. We may disclose your personal information to other related and non-related organisations including: 
-    * Vehicle manufacturers, in particular motorhome and campervan manufacturers. 
-    * Sister companies that form part of our Group as well as franchisees, licensees or agents of Apollo 
-    * Your company or organisation if you use our services under a corporate account 
-    * To one of our program partners if you are a member of their frequent traveller program and have asked us to send them details of your rental agreement with us 
-    * Our contracted service providers
-    * Credit card providers
-    * Credit reporting and fraud checking agencies where necessary to register a default
-    * Debt collection agencies, in the event of your default in payment of monies owed to us 
-    * City councils and government or private organisations responsible for the processing or handling of traffic related infringements 
-    * Driver licensing authorities; and 
-    * Government, regulatory and law enforcement agencies where the disclosure is required or authorised by law. 
+  * providing the services you request;
+  * researching, developing, managing, protecting and improving our services
+  * conducting customer satisfaction surveys and informing you of any improvements we have made to our services;
+  * maintaining and developing our software and other business systems. We may disclose your personal information to other related and non-related organisations including: 
+    * vehicle manufacturers, in particular motorhome and campervan manufacturers;
+    * sister companies that form part of our Group as well as franchisees, licensees or agents of Apollo;
+    * your company or organisation if you use our services under a corporate account;
+    * to one of our program partners if you are a member of their frequent traveller program and have asked us to send them details of your rental agreement with us;
+    * to franchisees and licenses of Apollo;
+    * our contracted service providers;
+    * credit card providers;
+    * credit reporting and fraud checking agencies where necessary to register a default;
+    * debt collection agencies, in the event of your default in payment of monies owed to us;
+    * city councils and government or private organisations responsible for the processing or handling of traffic related infringements;
+    * driver licensing authorities;
+    * government, regulatory and law enforcement agencies where the disclosure is required or authorised by law,
+  * dealing with complaints or enquiries; and
+  * providing you with information about other services we provide, or services that our related entities and other organisations that we have affiliations with, offer that may be of interest to you.
 
 
 
-### Use or disclosure for direct marketing purposes 
+You may opt out of direct marketing communications from us by submitting a request using the contact details below. Except as set out above, we will not sell or otherwise transfer your contact details to other parties for direct marketing purposes. 
 
-We may use and disclose your personal information to offer you products and services provided by Apollo and related companies, franchisees and licensees of Apollo. We may also use (but not disclose) your personal information to offer you products and services provided by companies participating in Apollo partner programs 
+## How we use the information we collect
 
-### How does Apollo protect my information? 
+We use your personal information for the purposes of collection as set out above. 
 
-We use up to date techniques and processes, which meet current industry standards to ensure that your personal information is kept secure and confidential. Only employees of Apollo and those authorised to perform services on our behalf will have access to your personal information. We will not retain any of your personal information for longer than required, except to fulfil our legal obligations. With your help, we will take all reasonable steps to make sure that personal information is kept complete and up to date. 
+We may sometimes use the personal information we collect for a secondary purpose, that is, for use in a way different from the original reasons for collection set out above. We will only do this in the following circumstances: 
 
-### How to access your information 
+  * where you have consented;
+  * where the secondary purpose is directly related to the primary purpose, and you would reasonably expect us to use or disclose the information in such a way;
+  * where we are permitted or required by law; or
+  * it is in the interests of public safety to do so.
 
-We are committed to ensuring that personal information held by us is up to date and accurate. If you find inaccurate information, please contact us. We will then take all reasonable steps to correct the information. 
 
-You may ask us to give you access to personal information we hold about you at any time. This access is subject to certain exceptions. You may not obtain access to information relating to existing or anticipated legal proceedings between us and you. 
 
-You can request access to your information by email or phone. You will be asked to specify the information that you want access to, and will need to verify your identity before we are able to provide the information. This is a free service unless the information you request requires us to access archived material or spend significant time in preparation or research. If this occurs we will advise the likely cost in advance and can help refine your request if necessary. 
+## Security
 
-If you believe the personal information that we hold about you is inaccurate or incomplete, and Apollo does not agree, we will provide a statement expressing your disagreement with the information where the information is stored. 
+We store your personal information in different ways, including in paper and in electronic form. The security of your personal information is important to us. We take all reasonable measures to ensure that your personal information is stored safely to protect it from misuse, loss, interference, unauthorised access, modification or disclosure, including electronic and physical security measures. We use industry standard safeguards to ensure the security of personal information through physical, electronic and managerial procedures. In addition, our employees and the contractors who provide services related to our information systems are obliged to respect the confidentiality of any personal information held by us. 
 
-### Who can I contact for further information? 
+While we strive to ensure the security, integrity and privacy of personal information submitted to our website, unfortunately, no data transmission over the Internet can be guaranteed to be totally secure and we take no responsibility for the security of data transmissions to and from our website or other IT systems. 
 
-If you have any questions about how we handle your personal information or if you believe that we have handled your personal information inappropriately, you can contact us in the following ways: 
+## Seeking access to, and correcting, information
 
-**Mail:**  
-Attention: The Customer Service Manager   
-Apollo Motorhome Holidays   
-698 Nudgee Road   
-Northgate   
-Queensland 4013   
-AUSTRALIA
+We will take reasonable steps to ensure that the personal information we collect, use and disclose is accurate, complete and up to date. 
 
-**Email:**   
-[customerservice@apollocamper.com ](mailto:customerservice@apollocamper.com)
+You may access the personal information we hold about you, by making a written request. We will respond to your request within a reasonable period. We may charge you a reasonable fee for providing access to your personal information (but not for making a request for access). 
 
-### What you consent and agree to 
+We may decline a request for access to personal information in circumstances prescribed by the Australian Privacy Act, and if we do, we will provide you with a written notice that sets out the reasons for the refusal (unless it would be unreasonable to provide those reasons). 
 
-When you provide us with your personal information, you consent and agree to our use and disclosure of your personal information in accordance with this policy including, and particular to: 
+If, upon receiving access to your personal information or at any other time, you believe the personal information we hold about you is inaccurate, incomplete or out of date, please notify us immediately. We will take reasonable steps to correct the information so that it is accurate, complete and up to date. 
 
-> a. Our use and disclosure of that information in order to provide the service you have requested and for any other compatible purpose including the management, protection and development of our business; 
-> 
-> b. The disclosure of your personal information to entities located outside of Australia in the case of Australian Rentals, New Zealand in the case of New Zealand Rentals and the United States of America in the case of USA rentals. This may include disclosures to any franchisees, licensees or agents of Apollo, our service providers and program partner organisations; and 
-> 
-> c. Our use and disclosure of your personal information for direct marketing purposes. 
+If we refuse to correct your personal information, we will provide you with a written notice that set out the reasons for our refusal (unless if would be unreasonable to provide those reasons) and provide you with a statement regarding the mechanisms available to you to make a complaint. 
 
-### Changes to this Policy 
+## Disclosing personal information overseas
 
-This is our current privacy policy outlining our personal information management practices. It replaces any other privacy policy published by us to date. We may change this policy at any time. To obtain an up to date copy of the policy, please contact Apollo (see "[Who can I contact for further information?](https://web.archive.org/web/20141206075311id_/http%3A//www.apollocamper.com/campervan-hire-privacy-policy.aspx#8)" above). 
+We store your personal information in Australia. We may disclose your personal information to our affiliates in New Zealand and the USA. 
+
+## How to contact us - complaints and feedback
+
+If you wish to make a complaint about a breach of the Privacy Act, Australian Privacy Principles or a privacy code that applies to us, please contact us as set out below and we will take reasonable steps to investigate the complaint and respond to you. 
+
+If you have any queries or concerns about our privacy policy or the way we handle your personal information, please contact our Privacy Officer at: 
+
+**Street address:** Apollo Motorhome Holidays, 698 Nudgee Road Northgate Queensland 4013 
+
+**Email address:** privacyofficer@apollocamper.com 
+
+**Telephone:** 07 3265 9219 
+
+**Fax:** 07 3265 9201 
+
+## Links to other sites
+
+We provide links to websites outside of our website, as well as to third party websites. These linked sites are not under our control, and we cannot accept responsibility for the conduct of companies linked to our website. Before disclosing your personal information on any other website, we advise you to examine the terms and conditions of using that websites and its privacy statement. 
+
+## Changes to this policy
+
+We may change this policy at any time. Any updated version of this policy will appear on this website. 
+
+## Further privacy information
+
+For more information about privacy issues in Australia and protecting your privacy, visit the website of the Australian Privacy Commissioner. 
