@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the cookingnook.com privacy policy that was archived on 2014-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141126041918id_/http%3A//www.cookingnook.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cookingnook.com privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612134356id_/http%3A//www.cookingnook.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy statement for Cookingnook.com
 
 | February 25, 2013
 
-[Add to Recipe Box](http://66.147.244.148/~cookinp4/my-recipe-box)
+[Add to Recipe Box](http://www.cookingnook.com/my-recipe-box)
 
 We recognize the importance of protecting the privacy of information collected about our customers and prospective customers as well as disclosing to users of this site any affiliations we have that benefit us financially.
 
