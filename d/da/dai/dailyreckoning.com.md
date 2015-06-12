@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dailyreckoning.com privacy policy that was archived on 2014-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141224101930id_/http%3A//dailyreckoning.com/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailyreckoning.com privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612234417id_/http%3A//dailyreckoning.com/privacy-policy-2) for the most accurate reproduction.*
 
 # Privacy Policy - Daily Reckoning
 
