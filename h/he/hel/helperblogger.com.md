@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the helperblogger.com privacy policy that was archived on 2014-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141011064556id_/http%3A//www.helperblogger.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the helperblogger.com privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612091149id_/http%3A//www.helperblogger.com/p/privacy-policy.html) for the most accurate reproduction.*
 
-# Helper For Blogger: Privacy Policy
+# Privacy Policy | Helper Blogger
 
 Privacy Policy for www.helperblogger.com/ 
 
-[](http://4.bp.blogspot.com/-1zx1F0Eq1mY/T8sUgki60oI/AAAAAAAAB3w/VovMsXb3mbA/s1600/privacy.jpg)If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at **rahul@ helperblogger.com   **or **admin@helperblogger.com**
+[](http://4.bp.blogspot.com/-1zx1F0Eq1mY/T8sUgki60oI/AAAAAAAAB3w/VovMsXb3mbA/s1600/privacy.jpg)If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at **helperblogger@yahoo.com**
 
 At www.helperblogger.com/, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.helperblogger.com/ and how it is used. 
 
