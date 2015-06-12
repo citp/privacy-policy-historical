@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the all-things-photography.com privacy policy that was archived on 2014-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141221155355id_/http%3A//www.all-things-photography.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the all-things-photography.com privacy policy that was archived on 2015-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150613004014id_/http%3A//www.all-things-photography.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy for www.all-things-photography.com | ATP
 
@@ -53,6 +53,8 @@ All Things Photography reserves the right to make changes in this policy. If the
 If you do not agree to All Things Photography’s Privacy Policy as posted here on this website, please do not use this site or any services offered by this site.
 
 Your use of this site indicates acceptance of this privacy policy.
+
+Privacy Policy was last modified:  February 25th, 2014 by 
 
 ### Comments
 
