@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the peopleiwanttopunchinthethroat.com privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123181606id_/http%3A//bit.ly/1ma3eZz) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the peopleiwanttopunchinthethroat.com privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612142735id_/http%3A//bit.ly/1ma3eZz) for the most accurate reproduction.*
 
 # People I Want to Punch in the Throat: Privacy Policy
 
