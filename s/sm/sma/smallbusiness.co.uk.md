@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smallbusiness.co.uk privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120202522id_/http%3A//www.smallbusiness.co.uk/corporate/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smallbusiness.co.uk privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612130242id_/http%3A//www.smallbusiness.co.uk/corporate/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -100,4 +100,4 @@ Tel: 020 7250 7010 Fax: 020 7250 7011.
 [Privacy@vitessemedia.co.uk](mailto:Privacy@vitessemedia.co.uk)
 
 Jonathan Sumner 020 7250 7032  
-©Vitesse Media plc 2013
+©Vitesse Media plc 2015
