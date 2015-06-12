@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lovehomeporn.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625115353id_/http%3A//lovehomeporn.com/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lovehomeporn.com privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612184616id_/http%3A//lovehomeporn.com/static/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - LoveHomePorn - Homemade Porn Tube
 
