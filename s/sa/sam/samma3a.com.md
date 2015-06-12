@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the samma3a.com privacy policy that was archived on 2014-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140909044150id_/http%3A//www.samma3a.com/en/about-us/privacy-policy-11.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the samma3a.com privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612121343id_/http%3A//www.samma3a.com/en/about-us/privacy-policy-11.html) for the most accurate reproduction.*
 
-# Privacy Policy :: Samma3a
+# Privacy Policy
 
 This policy applies only to the activities on this website, and does not apply to activities that are offline or unrelated to the website.
 
@@ -47,6 +47,6 @@ By using our site, you automatically accept our privacy policy. If you have any 
 
 ## **Changes to our Privacy Policy  **
 
-If we have any changes to this policy, we will post those changes on this page, and update the Privacy Policy modification date below.
+The Website Policies and Terms & Conditions would be changed or updated occasionally to meet the requirements and standards. Therefore the Customers will be notified about these changes. Such modifications will become effective on the day they are posted, and we encourages you to frequently review the Privacy Policy for any modifications.
 
-Updated on: 22-Aug-2014
+Updated on: 22-Oct-2014
