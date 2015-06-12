@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the citizengo.org privacy policy that was archived on 2014-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141222233037id_/http%3A//www.citizengo.org/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the citizengo.org privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612231831id_/http%3A//www.citizengo.org/en/privacy) for the most accurate reproduction.*
 
 # privacy | CitizenGO
 
@@ -26,12 +26,20 @@ In addition to the information you provide, we also collect some additional info
 
   * Certain information on using the CitizenGO site described below in the section Data Monitoring
   * Place in the world (country and sometimes city) from which you communicate, and whether you share CitizenGO campaigns with other people.
-  * We do not share the personal information you have provided to us without your express permission, except as stated in this privacy policy.
+
+
+
+  
+We do not share the personal information you have provided to us without your express permission, except as stated in this privacy policy.  Additionally, as a standard practice, with your express consent, we share some of your personal data with the following groups:  
+
   * With world leaders, politicians, mass media and other recipients to whom you send email messages when you choose to use our online tools .
   * With world leaders, politicians, media and the general public when you sign a petition or participate in surveys.
-  * What follows tells you more about how we use your personal information in relation to certain types of campaigns.
+  * With the local partner, a local NGO that represents CitizenGO in your country or region. 
 
 
+
+  
+What follows tells you more about how we use your personal information in relation to certain types of campaigns.
 
 ### **Petitions and Surveys**
 
