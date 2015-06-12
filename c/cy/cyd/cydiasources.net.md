@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cydiasources.net privacy policy that was archived on 2014-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140328231804id_/http%3A//www.cydiasources.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cydiasources.net privacy policy that was archived on 2015-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150613005727id_/http%3A//www.cydiasources.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Cydia Sources iOS 7 for Jailbreak Apps, Tweaks, Themes and Repo News for iOS 8, 7.0.5, 7.1
+# Privacy Policy | Cydia Sources, Repos, Tweaks for iOS 8.4 - iOS 9
 
 This Privacy Policy governs the manner in which CydiaSources collects, uses, maintains and discloses information collected from users (each, a “User”) of the www.CydiaSources.net website (“Site”). This privacy policy applies to the Site and all products and services offered by CydiaSources.
 
@@ -14,17 +14,21 @@ We may collect non-personal identification information about Users whenever they
 
  **Web browser cookies**
 
+>  **Get Latest Jailbreak & Cydia Apps for Free**
+> 
+> Email Updates Powered by Google FeedBurner
+
 Our Site may use “cookies” to enhance User experience. User’s web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
 
  **How we use collected information**
 
 CydiaSources may collect and use Users personal information for the following purposes:
 
-  *  _\- To personalize user experience_  
+  *  _– To personalize user experience_  
 We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
-  *  _\- To improve our Site_  
+  *  _– To improve our Site_  
 We may use feedback you provide to improve our products and services.
-  *  _\- To send periodic emails_  
+  *  _– To send periodic emails_  
 We may use the email address to respond to their inquiries, questions, and/or other requests. If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email or User may contact us via our Site.
 
 
