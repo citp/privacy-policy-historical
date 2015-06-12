@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the faveable.com privacy policy that was archived on 2014-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141115095757id_/http%3A//faveable.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the faveable.com privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612082016id_/http%3A//faveable.com/privacy) for the most accurate reproduction.*
 
 # Faveable - The Best Men's Stuff Online. Men’s Style, Gadgets, Watches & More.
 
