@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the vantagewire.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120135237id_/http%3A//www.vantagewire.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vantagewire.com privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612231848id_/http%3A//ca.equities.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | VantageWire
+# Privacy Policy | Equities Canada
 
 Vantage Communications Ltd. respects your privacy. This statement of our Privacy Policy explains what information we gather from you and how we use that information. We consider the information you have shared with us strictly confidential and will use that information only as specified in this Privacy Policy or to the extent necessary to comply with applicable law.
 
