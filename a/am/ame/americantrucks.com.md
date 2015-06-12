@@ -1,14 +1,16 @@
-> *The following text is extracted and transformed from the americantrucks.com privacy policy that was archived on 2013-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131009002143id_/http%3A//www.americantrucks.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americantrucks.com privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612020621id_/http%3A//www.americantrucks.com/privacy-policy.html) for the most accurate reproduction.*
 
-# AmericanTrucks Privacy Policy
+# Privacy Policy
 
-_This site is hosted by Yahoo! Store. Yahoo! hosts the store pages, ordering system, and order data. Yahoo! automatically collects order information but may only use this information in the aggregate. If you accessed this store through Yahoo! Shopping, Yahoo! also automatically collects information about your shopping experience. Please see the[Yahoo! Privacy Policy](http://info.yahoo.com/privacy/us/yahoo/details.html) for more information about how Yahoo! uses this information._
+## 
 
-Our privacy policy is simple. We treat others how we would want to be treated, and that means our privacy policy is based on how we'd treat the personal information given to us by our best friend or neighbor. 
+_AmericanTrucks Privacy Policy_
 
-When you shop at AmericanTrucks.com, you can shop in the privacy of your home or office, and we think your business should stay that way - private.
+This site is hosted by Yahoo! Store. Yahoo! hosts the store pages, ordering system, and order data. Yahoo! automatically collects order information but may only use this information in the aggregate. If you accessed this store through Yahoo! Shopping, Yahoo! also automatically collects information about your shopping experience. Please see the Yahoo! Privacy Policy for more information about how Yahoo! uses this information.
 
-AmericanTrucks.com will **NEVER** share your personal information that has been collected by Yahoo stores with **ANY** 3rd party for **ANY** reason. 
+AmericanTrucks.com will never share your personal information that has been collected by Yahoo stores with any 3rd party for any reason.
+
+Google Analytics Demographics and Interest data will be collected for your visit unless you choose to [Opt Out](https://tools.google.com/dlpage/gaoptout/) This data cannot be personally linked back to you and will only be used for reporting purposes.
 
 ### AmericanTrucks Mailing Address
 
@@ -19,4 +21,4 @@ Malvern, PA 19355
 
 Please note this is a mailing address only.
 
-For more information about AmericanTrucks.com, please refer to our [info page](https://web.archive.org/web/20131009002143id_/http%3A//www.americantrucks.com/info.html).
+For more information about AmericanTrucks.com, please refer to our [info page](https://web.archive.org/web/20150612020621id_/http%3A//www.americantrucks.com/info.html).
