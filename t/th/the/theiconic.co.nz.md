@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the theiconic.co.nz privacy policy that was archived on 2014-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141201192159id_/http%3A//www.theiconic.co.nz/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theiconic.co.nz privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612085635id_/http%3A//www.theiconic.co.nz/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# THE ICONIC Privacy Policy | THE ICONIC Privacy Policy Statement |
 
 [ ](http://www.theiconic.co.nz/)
 
@@ -56,6 +56,17 @@ You can update your personal information anytime by accessing your account on TH
 
     
 
+From time-to-time THE ICONIC may send you electronic marketing material - but only ever in accordance with the provisions of Spam Act 2003 (Cth).
+
+You may unsubscribe from our mailing list at any time:
+
+  1. Open any newsletter sent to you by THE ICONIC.
+  2. Scroll to the bottom of the newsletter and click 'Unsubscribe'.
+
+
+
+    
+
 HE ICONIC ensures that all information collected will be safely and securely stored.   
 We protect your personal information by:
 
@@ -103,4 +114,11 @@ THE ICONIC reserves the right to modify and change the Privacy Statement at any 
 
     
 
-If you are not satisfied with the way in which we handle your enquiry or complaint, please don't hesitate to contact us at [customer.service@theiconic.com.au.](mailto:%20customer.service@theiconic.com.au)
+If you are not satisfied with the way in which we handle your enquiry or complaint, please don't hesitate to contact us at [customer.service@theiconic.com.au](mailto:%20customer.service@theiconic.com.au).
+
+Alternately, you can direct correspondence to:
+
+Legal Department  
+THE ICONIC  
+Level 2, 84-86 Mary Street  
+Surry Hills NSW 2010
