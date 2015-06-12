@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the onlyinfo.in privacy policy that was archived on 2014-08-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140825151421id_/http%3A//www.onlyinfo.in/PrivacyPolicy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the onlyinfo.in privacy policy that was archived on 2015-06-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150612080512id_/http%3A//www.onlyinfo.in/PrivacyPolicy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" class=" js " style=""><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -158,6 +158,21 @@ $("label[id*='MySelcted']").addClass("c_on");
     overflow: auto;
 }
 </style>
+<style>
+@media (max-width: 600px) {
+  .facet_sidebar {
+    display: none;
+  }
+}
+
+
+@media only screen 
+and (min-device-width : 320px) 
+and (max-device-width : 480px) {
+/* Styles */
+}
+</style>
+
 <script language="JavaScript" type="text/javascript" src="/script/ajax_search.js"></script>
 <link href="/newcss/jquery.autocomplete.css" rel="stylesheet" type="text/css">
 <script type="text/javascript" src="/js/jquery-1.5.2.min.js"></script>
@@ -197,6 +212,7 @@ xmlhttp.send();
 </head>
 
 <body>
+<div id="mybody">
 <div id="fb-root"></div>
 <script>(function(d, s, id) {
 var js, fjs = d.getElementsByTagName(s)[0];
@@ -205,8 +221,9 @@ js = d.createElement(s); js.id = id;
 js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
 fjs.parentNode.insertBefore(js, fjs);
 }(document, 'script', 'facebook-jssdk'));</script>
+<div id="myheader">
 <div id="top">
-<div id="top-inner">
+
 <div id="fb-section">
 <div id="fb-icon"><div class="fb-like" data-href="https://www.facebook.com/OnlyInfo" data-width="60" data-layout="button_count" data-action="like" data-show-faces="false" data-share="false"></div></div>
 
@@ -219,31 +236,27 @@ fjs.parentNode.insertBefore(js, fjs);
 </div>
 </div>
 </div>
-
-<div id="top-2">
-<div id="top-inner">
+</div>
+<div id="myheader-bottom">
+<div class="top-second">
 <div id="city-section">
 <div class="city">
 <a href="index.php?city=noida"><font color="blue">Noida</font></a> |
 <a href="index.php?city=greaternoida">Greater Noida</a> |
-<a href="index.php?city=crossingrepublik">Crossing Republik</a>
+<a href="index.php?city=crossingrepublik">Crossing Republik</a> |
+<a href="index.php?city=NaviMumbai">Navi Mumbai</a> 
 </div>
 </div>
-<div id="phn-wrap"><div class="phn-icon-image"><img src="images/mob-icon.png" width="20" height="22"></div> +91- 9654-655-655</div>
+<div id="phn-wrap">+91- 9654-655-655</div>
 </div>
-
-
 </div>
-
-
-
 
 <div id="container">
 <div id="wrapper-inner">
 <form id="suggestSearch" name="suggestSearch" action="searchproduct.php" method="post" enctype="multipart/form-data" onsubmit="return validateForm();" onkeypress="return submitenter(this,event)">
 <div id="header">
 <div id="form-section"> 
-<select data-placeholder="select location" class="chosen-select ac_input" tabindex="-1" name="location" id="location" style="display: none;" autocomplete="off">
+<select data-placeholder="select location" class="chosen-select" tabindex="-1" name="location" id="location" style="display: none;">
 <option value="Select Location">Select Location</option>
     	<option value="Sector 1">Sector 1</option>
 		<option value="Sector 10">Sector 10</option>
@@ -409,7 +422,7 @@ fjs.parentNode.insertBefore(js, fjs);
   <div class="main-search-bar">
     <div class="form-wrapper">
 	<input type="hidden" name="city" id="city" value="noida">
-    <input id="category" name="category" type="text" autocomplete="off" onblur="if(this.value=='')this.value='e.g. AC Repair, Taxi Services, Yoga Classes'" onfocus="if(this.value=='e.g. AC Repair, Taxi Services, Yoga Classes')this.value=''" value="e.g. AC Repair, Taxi Services, Yoga Classes" class="ac_input">
+    <input id="category" name="category" type="text" autocomplete="off" onblur="if(this.value=='')this.value='e.g. AC Repair, Taxi Services, Yoga Classes'" onfocus="if(this.value=='e.g. AC Repair, Taxi Services, Yoga Classes')this.value=''" value="e.g. AC Repair, Taxi Services, Yoga Classes">
       <button type="submit" onclick="return validateForm();">Search</button>
    </div>
 </div>
@@ -665,7 +678,7 @@ For any concern about these privacy policies; please send us an email at&nbsp;co
 <!--footer bg top-->
 <div id="footer-wrap-bottom">
 <div id="footer-wrap-bottom-inner">
-<div class="copyright">Copyright © 2013 - 2014. A2P Facility Management LLP. All Rights Reserved</div>
+<div class="copyright">Copyright © 2013 - 2015. A2P Facility Management LLP. All Rights Reserved</div>
 <!-- Start of StatCounter Code for Default Guide -->
 <script type="text/javascript">
 var sc_project=9389394; 
