@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bollywoodlyrics.com privacy policy that was archived on 2014-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141127155920id_/http%3A//www.bollywoodlyrics.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bollywoodlyrics.com privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612135258id_/http%3A//www.bollywoodlyrics.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -7,7 +7,7 @@ The following privacy policy is for the **BollywoodLyrics.com** website.
 Advertisements of the following companies may appear on our site:  
 ClickAgents – Their [Privacy Policy](http://www.clickagents.com/privacy.phtml)  
 Commission Junction – Their [Privacy Policy](http://www.cj.com/)  
-SmasHits.com – Their [Privacy Policy](https://web.archive.org/web/20141127155920id_/http://www.bollywoodlyrics.com/privacy-policy/www.smashits.com)
+SmasHits.com – Their [Privacy Policy](https://web.archive.org/web/20150612135258id_/http%3A//www.bollywoodlyrics.com/www.smashits.com)
 
 Ad Banners served by these companies may contain cookies. While we use cookies in other parts of our Web site, cookies received with banner ads are collected by advertising network, and we do not have access to this information.
 
