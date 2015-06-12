@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the anotherquiz.com privacy policy that was archived on 2014-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141225075709id_/http%3A//anotherquiz.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anotherquiz.com privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612085904id_/http%3A//anotherquiz.com/privacy) for the most accurate reproduction.*
 
-# Anotherquiz - #1 Quiz Website
+# AnotherQuiz
 
 ## Privacy Policy
 
@@ -63,8 +63,3 @@ We are in compliance with the requirements of COPPA (Childrens Online Privacy Pr
 **Your Consent**
 
 By using our site, you consent to our privacy policy.
-
-  
-
-
-[**Anotherquiz.com**](http://anotherquiz.com/index.php) © 2014 - All rights reserved. 
