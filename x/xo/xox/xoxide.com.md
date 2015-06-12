@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xoxide.com privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123043817id_/http%3A//www.xoxide.com/privacypolicy.html%3Flocation%3Dbtmnav) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xoxide.com privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612120942id_/http%3A//www.xoxide.com/privacypolicy.html%3Flocation%3Dbtmnav) for the most accurate reproduction.*
 
 # Privacy Policy at Xoxide!
 
