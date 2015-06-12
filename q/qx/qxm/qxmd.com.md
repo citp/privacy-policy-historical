@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the qxmd.com privacy policy that was archived on 2014-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141223184512id_/http%3A//www.qxmd.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qxmd.com privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612091852id_/http%3A//www.qxmd.com/privacy) for the most accurate reproduction.*
 
 # Privacy | QxMD Medical Apps
 
