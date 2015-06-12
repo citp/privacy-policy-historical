@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the safra.sg privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120175000id_/http%3A//www.safra.sg/General/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the safra.sg privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612232013id_/http%3A//www.safra.sg/General/Privacy-Policy.aspx) for the most accurate reproduction.*
 
 # 
 
@@ -14,7 +14,7 @@ SAFRA may from time to time update this policy to ensure it is consistent with i
 
 For the avoidance of doubt, this policy forms part of the terms and conditions, if any, governing an individual's specific relationship with SAFRA ( ** _"Terms and Conditions"_** ) and should be read in conjunction with such terms and conditions. In the event of any conflict or inconsistency between the provisions of this policy and terms and conditions, the provisions of the terms and conditions shall prevail to the fullest extent permissible by law.
 
-### Definitions 
+### Definitions
 
 _“ **Alumni** ”_ means previous Members of SAFRA;
 
@@ -88,7 +88,7 @@ Generally, SAFRA may collect, use and/or disclose Personal Data about an Individ
 
 Members and Alumni
 
-(a) administering and managing Member and Alumni relationships with SAFRA, including the provision of services to Members and Alumni;
+(a) administering and managing Member and Alumni relationships with SAFRA, including the provision of services to Members and Alumni, and better personalising their experience at SAFRA clubs;
 
 (b) providing Members and Alumni with information about services, facilities and/or other benefits being offered or made available by SAFRA to Members and Alumni;
 
@@ -142,29 +142,28 @@ General business purposes
 
 (c) responding to complaints, queries and/or requests;
 
-(d) conducting market research for statistical profiling and other purposes in order to improve SAFRA’s services; 
+(d) conducting market research for statistical profiling and other purposes in order to improve SAFRA’s services; 
 
 (e) safety and security purposes;
 
 (f) preventing, detecting or investigating any actual or crime, fraud, misconduct, unlawful action, breach or dispute;
 
-(g) record-keeping purposes; 
+(g) record-keeping purposes;   
+
 
 (h) accounting or auditing purposes;  
-  
 
 
-(i) legal purposes (including but not limited to obtaining legal advice and dispute resolution); and
+(i) legal purposes (including but not limited to obtaining legal advice and dispute resolution); and  
+
 
 (j) complying with laws, regulations, codes or guidelines binding on SAFRA, including disclosures to regulatory authorities or other public bodies; and
 
-(k) transmitting Personal Data to third parties engaged by or working in collaboration with SAFRA to facilitate any of the above-mentioned purposes.  
-  
-
+(k) transmitting Personal Data to third parties engaged by or working in collaboration with SAFRA to facilitate any of the above-mentioned purposes.
 
 Purposes reasonably related to any of the above purposes
 
-(a)for any purposes reasonably related and/or ancillary to any of the abovementioned purposes.
+(a) for any purposes reasonably related and/or ancillary to any of the above mentioned purposes.
 
 Purposes for which specific consent was obtained 
 
@@ -270,4 +269,4 @@ If you wish to update your communication preferences, please login to your SAFRA
 **NON-MEMBERS**  
 You may wish to [sign-up](https://www.safra.sg/MySAFRA/Login?sol_frm=LGN__&returnUrl=http%3A%2F%2Fwww.safra.sg%2Fen%2Fabout-safra%2Fsafra-volunteers.aspx%23.u6wfnkjhxma#.U6wJ_KjHXMA) for a SAFRA Online account to update your preferred mode of contact and/or subscribe to our mailing list to be updated of up-coming events, promotions and offers from SAFRA.
 
-To download the Privacy Policy, click [here](https://web.archive.org/~/media/PDFs/SAFRA%20%20Privacy%20Policy%2018%20June%202014.ashx).
+To download the Privacy Policy, click [here](https://web.archive.org/~/media/SAFRA%20-%20Privacy%20Policy%209%20June%202015.ashx).
