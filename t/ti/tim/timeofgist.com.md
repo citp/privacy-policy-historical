@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the timeofgist.com privacy policy that was archived on 2014-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141015024137id_/http%3A//timeofgist.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the timeofgist.com privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612090711id_/http%3A//timeofgist.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Gist & Entertainment News-Latest Update in Nigeria | timeofgist.com
 
-[ ](http://timeofgist.com/wp-content/uploads/2014/10/banner_privacy_policy.png)
+[](http://timeofgist.com/wp-content/uploads/2014/10/banner_privacy_policy-1.jpg)
 
-This Privacy Policy governs the manner in which Time Of Gist collects, uses, maintains and discloses information collected from users (each, a “User”) of the [timeofgist.com](http://localhost/Time%20of%20gist/timeofgist.com) website (“Site”). This privacy policy applies to the Site and all products and services offered by Time Of Gist.
+This Privacy Policy governs the manner in which Time Of [GistIn The Final Moments, See What Patience Ordered To Be Taken Out The Villa. Read more ... »](http://bit.ly/1JcoG0H) collects, uses, maintains and discloses information collected from users (each, a “User”) of the [timeofgist.com](http://localhost/Time%20of%20gist/timeofgist.com) website (“Site”). This privacy policy applies to the Site and all products and services offered by Time Of Gist.
 
 **Personal identification information**
 
@@ -12,7 +12,7 @@ We may collect personal identification information from Users in a variety of wa
 
 **Non-personal identification information**
 
-We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.
+We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the [InternetThe Internet Will Disappear – SAYS Google’s Executive Chairman | timeofgist.com. Read more ... »](http://bit.ly/1yUhMps) service providers utilized and other similar information.
 
 **Web browser cookies**
 
@@ -22,14 +22,14 @@ Our Site may use “cookies” to enhance User experience. User’s web browser 
 
 Time Of Gist may collect and use Users personal information for the following purposes:
 
-  * _\- To improve customer service_  
+  * _– To improve customer service_  
 Information you provide helps us respond to your customer service requests and support needs more efficiently.
-  * _\- To personalize user experience_  
+  * _– To personalize user experience_  
 We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
-  * _\- To improve our Site_  
+  * _– To improve our Site_  
 We may use feedback you provide to improve our products and services.
-  * _\- To send periodic emails_  
-We may use the email address to respond to their inquiries, questions, and/or other requests. If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
+  * _– To send periodic emails_  
+We may use the email address to respond to their inquiries, questions, and/or other requests. If User decides to opt-in to our mailing list, they will receive emails that may include company [newsMinister of Finance, Ngozi Okonjo-Iweala Reveals She is a Cancer Survivor. Read more ... »](http://bit.ly/1QWhyYq), updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
 
 
 
@@ -51,7 +51,7 @@ Ads appearing on our site may be delivered to Users by advertising partners, who
 
 **Google Adsense**
 
-Some of the ads may be served by Google. Google’s use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses “non personally identifiable information” and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at <http://www.google.com/privacy_ads.html>
+Some of the ads may be served by [GoogleGoogle’s Self-Driving Car Ready For The Roads In 2015. Read more ... »](http://bit.ly/13XqdFX). Google’s use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses “non personally identifiable information” and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at <http://www.google.com/privacy_ads.html>
 
 **Changes to this privacy policy**
 
@@ -66,10 +66,8 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
 [Time Of Gist](http://localhost/Time%20of%20gist/timeofgist.com)  
 [timeofgist.com](http://localhost/Time%20of%20gist/timeofgist.com)  
-EKO Island, Lagos State, Nigeria  
-07037703333  
+EKO Island, [LagosMuslim Cleric Kills 62-Year Old Woman, Corpse Missing | timeofgist.com. Read more ... »](http://bit.ly/1HcZNiB) State, [NigeriaShocking! See What Police Found Inside Uncompleted Building In Nnewi. Read more ... »](http://bit.ly/1tIakZ7)  
++2347089907023  
 support@timeofgist.com
 
 This document was last updated on September 25, 2014
-
-[ ](http://twitter.com/share?url=http://timeofgist.com/privacy-policy/&text=Privacy+Policy "Click here if you like this article.")
