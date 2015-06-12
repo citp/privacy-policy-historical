@@ -1,21 +1,21 @@
-> *The following text is extracted and transformed from the lehmans.com privacy policy that was archived on 2014-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140704203956id_/https%3A//www.lehmans.com/t-privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lehmans.com privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612034315id_/https%3A//www.lehmans.com/t-privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
 Welcome to the Lehman's Online Store. We appreciate the trust you place in Lehman's, and we are committed to respecting your privacy and the security of your personal information. Lehman's strives to abide by the privacy practice guidelines and recommendations promulgated by institutions such as the Better Business Bureau (BBB) and Direct Marketers Association (DMA). We want to make you feel as comfortable shopping here as you would from our catalog or retail store.
 
-Our privacy policy, updated on July 9, 2013, describes the information we collect and how we use it. It applies to the Lehman’s website and all related sites, services, and tools where this policy is referenced.
+Our privacy policy, updated on April 23rd, 2015, describes the information we collect and how we use it. It applies to the Lehman’s website and all related sites, services, and tools where this policy is referenced.
 
 We always welcome your questions and feedback. For privacy-related issues, please contact us at:
 
 Lehman's, 289 N Kurzen Road, Dalton, OH, 44618 
 
-Phone from US: [888-438-5346](tel:8884385346)  
+Phone from US: [800-438-5346](tel:8004385346)  
 Phone from outside US: (Access Code) + 330-828-8828  
 Fax 330-828-8270  
 Email: [info@lehmans.com](mailto:info@lehmans.com)
 
-We may collect information (including name, address, telephone number, email address, transaction information, credit card information and date of birth) when you: 
+We may collect information (including name, address, telephone number, email address, transaction information, credit card information and date of birth) when you:
 
   * Place an order from our catalogs or on our Web site 
   * Make a purchase at one of our stores 
@@ -40,7 +40,7 @@ We may collect information (including name, address, telephone number, email add
 
 We maintain the data that you provide us, along with a record of your purchases, in a secure database. To best serve you, we may combine this information with data that is publicly available and data that we receive from other reputable sources.
 
-We also gather information about how visitors navigate through our Web site by using clickstream data gathered with "cookies" and other online tools such as "pixel tags." See [Cookies and Pixel Tags](https://web.archive.org/web/20140704203956id_/https%3A//www.lehmans.com/cookies) for further information.
+We also gather information about how visitors navigate through our Web site by using clickstream data gathered with "cookies" and other online tools such as "pixel tags." See [Cookies and Pixel Tags](https://web.archive.org/web/20150612034315id_/https%3A//www.lehmans.com/cookies) for further information.
 
 return to top
 
@@ -68,6 +68,10 @@ From time to time, we make our mailing list (names and addresses only) and gener
 
 On rare occasions, we may disclose specific information upon governmental request, in response to a court order, or when required by law to do so. We may also share information with companies assisting in fraud protection or investigation. We do not provide information to these agencies or companies for marketing or commercial purposes.
 
+Our company and our trustedthird parties may share with one another anonymous versions of user informationcollected at this site. We may use that information to link to and issueanonymous cookies containing demographic or intent-based data for online behavioraladvertising purposes.  Such cookies do not contain personally identifiableinformation.  If you would like to opt out of online behavioraladvertising, click on one of these links: 
+
+[ _http://www.aboutads.info/choices_](http://www.aboutads.info/choices) _or_[ _http://networkadvertising.org/choices_](http://networkadvertising.org/choices) _._  
+
 return to top
 
 We offer choices about the types of information you receive from us. If you prefer not to receive catalogs or email updates from Lehman's or if you prefer to receive them less frequently, please visit the Your Account section of www.Lehmans.com or contact us at the address shown above. You can also unsubscribe from our email updates using the link provided in each edition of the email.
@@ -94,7 +98,7 @@ For example, we use cookies to:
 
 
 
-If you set your browser to refuse cookies, please call us at [888-438-5346](tel:8884385346) to place your order.
+If you set your browser to refuse cookies, please call us at [800-438-5346](tel:8004385346) to place your order.
 
 We may also use pixel tags – tiny graphic images – to tell us what parts of our Web site you have visited or to measure the effectiveness of any searches you may do on our site. Pixel tags also enable us to send you email in a format you can read and let us know when you have opened an email message from us.
 
