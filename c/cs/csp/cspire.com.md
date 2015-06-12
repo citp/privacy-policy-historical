@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the cspire.com privacy policy that was archived on 2014-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141126005700id_/http%3A//www.cspire.com/legal/general_landing.jsp%3Fid%3D/generic/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cspire.com privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612120826id_/http%3A//www.cspire.com/legal/general_landing.jsp%3Fid%3D/generic/privacyPolicy) for the most accurate reproduction.*
 
 # None
 
 ### C SPIRE PRIVACY POLICY
 
-Effective Date: October 22, 2013
+Effective Date: February 9, 2015
 
 **SCOPE**
 
-This Privacy Policy applies to C Spire's wireless services, websites, mobile and web-based applications and personalized service offerings (the "Sites"). This privacy statement describes how C Spire collects and uses the personal information of its wireless customers, as well as information provided by customers and non-customers who visit the Sites. It also describes the choices available to you regarding our use of your personal information. C Spire™ is owned by Cellular South, Inc.
+This Privacy Policy applies to C Spire's wireless services, websites, mobile and web-based applications and personalized service offerings (the "Sites"). This privacy policy describes how C Spire collects and uses the personal information of its wireless customers, as well as information provided by customers and non-customers who visit the Sites. It also describes the choices available to you regarding our use of your personal information. C Spire™ is owned by Cellular South, Inc.
 
-This Privacy Policy does not apply to other websites, third party application providers or to the Internet generally. C Spire may make content or services from other websites available to you from links located on our Sites. C Spire is not responsible for the privacy, security, or content of such sites. C Spire also uses third parties to advertise its products and services on the Internet and websites owned by parties that are unaffiliated with C Spire. You should review the privacy policy of each application provider you use and at any third party web site you visit to determine how that provider or site protects your privacy. 
+This Privacy Policy does not apply to other websites, third party application providers or to the Internet generally. C Spire may make content or services from other websites available to you from links located on our Sites. C Spire is not responsible for the privacy, security, or content of such sites. C Spire also uses third parties to advertise its products and services on the Internet and websites owned by parties that are unaffiliated with C Spire. You should review the privacy policy of each application provider you use and at any third party website you visit to determine how that provider or site protects your privacy. 
 
-C Spire has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with TRUSTe's program requirements including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. The TRUSTe program covers only information that is collected through desktop website (www.cpsire.com) and the mobile website (www.cspire.com/mobile).
+C Spire has received TRUSTe's Privacy Seal signifying that this privacy policy and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal. The TRUSTe program does not cover information that may be collected through downloadable software. The TRUSTe program covers only information that is collected through desktop website (www.cpsire.com) and the mobile website (www.cspire.com/mobile).
 
 **INFORMATION COLLECTION AND USE**
 
@@ -49,7 +49,7 @@ We use this information to:
 
 **INFORMATION SHARING**
 
-We will share your personal information with third parties in the ways that are described in this privacy statement. We will never sell your personal information to third parties. 
+We will share your personal information with third parties in the ways that are described in this privacy policy. We will never sell your personal information to third parties. 
 
   * _Service Providers._ We may provide your personal information to companies that provide services to help us with our business activities such as shipping your order, offering customer service and analysis, and/or providing software platforms for the Sites. These companies are authorized to use your personal information only as necessary to provide these services to us.
   * _Legal Disclaimer._ We may also disclose your personal information as required by law, such as to comply with a subpoena, or similar legal process; when we believe in good faith that disclosure is necessary to protect our rights, protect your safety, or the safety of others, investigate fraud or respond to government request; or if we are involved in a merger, acquisition, or sale of all or a portion of our assets, you will be notified of any change in ownership or uses of your personal information, as well as any choices you have regarding your personal information.
@@ -73,17 +73,17 @@ We may periodically contact you regarding promotions, offers, products or servic
 
 **TRACKING TECHNOLOGIES/COOKIES**
 
+Technologies such as: cookies, beacons, tags and scripts are used by C Spire and our marketing partners, affiliates, analytics or service providers. These technologies are used in analyzing trends, administering the site, tracking users' movements around the site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis. 
+
 A cookie is a small text file that is stored on a user's computer for record-keeping purposes. We may use both session ID cookies and persistent cookies on the Sites. Session cookies make it easier for you to navigate our site while persistent cookies enable us to track and target the interests of site users to enhance your experience and personalization on the Sites. Session cookies expire when you close your browser. A persistent cookie remains on your hard drive for an extended period of time. We do not link the information we store in cookies to any personally identifiable information you submit while on the Sites.
 
 You can remove persistent cookies by following the directions provided in your Internet browser's "help" file. If you reject cookies, you may still use our site, but your ability to use some areas of our site may be limited.
 
-We may employ a software technology called clear gifs (also known as web beacons/web bugs) that help us better manage content on our site by informing us what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track online movements of Web users. In contrast to cookies, which are stored on a user's computer hard drive, clear gifs are embedded invisibly on web pages are about the size of the period at the end of this sentence. We do not tie the information gathered by clear gifs to our users' personally identifiable information.
-
-As is true of most web sites, we gather certain information automatically and store it in log files. As discussed above, this information includes IP addresses, browser type, ISP provider, referring/exit pages, operating system, date/time stamp, and clickstream data. We use this information, which does not identify individual users, to analyze trends, to administer the site, to track users' movements around the site and to gather demographic information about the user base as a whole. We do not link this automatically collected data to personally identifiable information, except that IP addresses may be tied to personally identifiable information.
+As is true of most websites, we gather certain information automatically and store it in log files. As discussed above, this information includes IP addresses, browser type, ISP provider, referring/exit pages, operating system, date/time stamp, and clickstream data. We use this information, which does not identify individual users, to analyze trends, to administer the site, to track users' movements around the site and to gather demographic information about the user base as a whole. We do not link this automatically collected data to personally identifiable information, except that IP addresses may be tied to personally identifiable information.
 
 We use local shared objects, also known as Flash cookies, to store your preferences, or display content based upon what you view on the Sites to personalize your visit. Third parties, with whom we partner to provide certain features on the Sites or to display advertising based upon your web browsing activity, use Flash cookies to collect and store information. Flash cookies are different from browser cookies because of the amount of, type of, and how data is stored. Cookie management tools provided by your browser will not remove Flash cookies. To manage Flash cookies please [click here](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html).
 
-As stated above, the use of cookies and/or clear gifs by our advertising partners and service providers is not covered by our privacy statement. We do not have access or control over these cookies. 
+As stated above, the use of cookies and/or clear gifs by our advertising partners and service providers is not covered by our privacy policy. We do not have access or control over these cookies. 
 
 We partner with third parties to either display advertising on the Sites or to manage our advertising on other websites. Our ad network partner uses cookies and Web beacons to collect non-personally identifiable information about your activities on this and other Web sites to provide you targeted advertising based upon your interests. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by changing your settings on [Your Preference Profile](https://www.cspire.com/my_account/personal/profile/) or by clicking the AdChoices link in the footer of the website. Please note this does not opt you out of being served advertising. You will continue to receive generic ads.
 
@@ -95,17 +95,17 @@ Also note that when you use third party applications or some portions of the Web
 
 **ADDITIONAL INFORMATION**
 
-Our Sites may offer community forums, such as Circle and Inner Circle. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. The profile you create on our Sites will be publically accessible unless otherwise indicated. To request removal of your personal information from our blog or community forum, contact us at [askus@cspire.com](mailto:askus@cspire.com). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
+Our Sites may offer community forums, such as Inner Circle. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. The profile you create on our Sites will be publically accessible unless otherwise indicated. To request removal of your personal information from our blog or community forum, contact us at [askus@cspire.com](mailto:askus@cspire.com). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
 
-With your consent, we may post your testimonial along with your name. If you wish to update or delete your testimonial, you can contact us as indicated in this privacy statement.
+With your consent, we may post your testimonial along with your name. If you wish to update or delete your testimonial, you can contact us as indicated in this privacy policy.
 
-Our Sites sometimes include social media features, widgets and plugins, such as the Like or Share Facebook buttons, or the Tweet this button on Twitter. These features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Your interactions with these features are governed by the privacy policy of the company providing it. 
+Our Sites sometimes include social media features, widgets and plugins, such as the Like or Share Facebook buttons, or the Tweet this button on Twitter. These features may collect your IP address, which page you are visiting on our Site, and may set a cookie to enable the Feature to function properly. Your interactions with these features are governed by the privacy policy of the company providing it. 
 
 You may have the ability log in to our Sites using sign-in services such as Facebook Connect or an Open ID provider. These services will authenticate your identity and provide you the option to share certain personal information with us such as your name and email address to pre-populate our sign up form. Services like Facebook Connect give you the option to post information about your activities on this Web site to your profile page to share with others within your network.
 
 **CHANGES TO PRIVACY POLICY**
 
-We may update this privacy statement to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
+We may update this privacy policy to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the email address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
 
 **CONTACT US**
 
