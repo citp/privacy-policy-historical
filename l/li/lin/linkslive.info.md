@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the linkslive.info privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630225947id_/http%3A//www.linkslive.info/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linkslive.info privacy policy that was archived on 2015-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150613014557id_/http%3A//www.linkslive.info/policy.html) for the most accurate reproduction.*
 
 # Privacy Policy Free Business Directory
 
