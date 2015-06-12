@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the notemonk.com privacy policy that was archived on 2014-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141124052812id_/http%3A//notemonk.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the notemonk.com privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612071140id_/http%3A//notemonk.com/privacy_policy) for the most accurate reproduction.*
 
 # None
 
