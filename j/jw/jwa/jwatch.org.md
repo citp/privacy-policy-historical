@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jwatch.org privacy policy that was archived on 2014-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141116081700id_/http%3A//www.jwatch.org/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jwatch.org privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612073651id_/http%3A//www.jwatch.org/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - NEJM Journal Watch
 
