@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the modeanalytics.com privacy policy that was archived on 2014-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141221051431id_/http%3A//about.modeanalytics.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the modeanalytics.com privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612022105id_/http%3A//about.modeanalytics.com/privacy) for the most accurate reproduction.*
 
 # Mode - Privacy Policy
 
@@ -26,9 +26,9 @@ We may keep all of this information indefinitely.
 
 #### Your Profile
 
-You may also set up your profile on the Service and submit certain information to be displayed on your profile. This may include a photo of you, a short bio, links to your presence on other social media sites, and other information that you think other users might want to know about you. Please keep in mind that all information that you submit for display in your profile, including any personal information, will be viewable by other users of the Service. We may use this information to facilitate the Service, such as to suggest that other users follow you on the Service based on the information you provide. You can add or remove personal information from your profile in Mode's settings. We may keep this information indefinitely.
+When available, you may also set up your profile on the Service and submit certain information to be displayed on your profile. This may include a photo of you, a short bio, links to your presence on other social media sites, and other information that you think other users might want to know about you. Please keep in mind that all information that you submit for display in your profile, including any personal information, will be viewable by other users of the Service. We may use this information to facilitate the Service, such as to suggest that other users follow you on the Service based on the information you provide. You can add or remove personal information from your profile on the Service in the Settings section. We may keep this information indefinitely.
 
-#### Your Data, Postings, Comments and Other Work
+#### Your Data Postings, Comments and Other Work
 
 As set forth in our [Terms of Service,](https://web.archive.org/site-policy/terms-of-service.html) as a registered user you may upload data to the Service or post various queries, comments, analyses and other content on the data or work made available on the Service by other users. Please keep in mind that all such content that you provide to the Service (“Your Content”), including any personal or otherwise sensitive information about you or others included in Your Content, will be viewable by other registered users of the Service, as well as unregistered visitors to the Service, in accordance with the privacy settings that you specify when uploading, posting or otherwise creating Your Content on the Service (For more information on the privacy settings for the Service, [click here.](https://web.archive.org/security/how-privacy-works.html) We use Your Content and any personal information contained in it to facilitate the Service. Subject to our [DMCA Policy,](https://web.archive.org/site-policy/dmca.html) we store and may keep indefinitely all of Your Content and any personal information contained in it. 
 
@@ -38,7 +38,7 @@ We collect certain statistical data, analytics, trends and usage information der
 
 #### Third-Party Integrated Services
 
-We may implement certain third-party offerings in the Service, enabling such third parties to collect information about you through your use of the Service. Please note that any information collected through such integrated technologies is collected directly by these third parties for use (in part) by such third parties, subject to their own privacy practices and policies.
+We may implement certain third-party offerings in the Service, enabling such third parties to collect information about you or your online activities across different websites and over time through your use of the Service. Please note that any information collected through such integrated technologies is collected directly by these third parties for use (in part) by such third parties, subject to their own privacy practices and policies.
 
 #### Correspondence
 
@@ -59,9 +59,12 @@ We may disclose personal or other information collected about you through the Se
   * We may disclose information about you as part of a merger, acquisition or other sale or transfer of all or substantially all of Mode’s assets or business. We do not guarantee that any entity receiving such information in connection with one of these transactions will comply with all terms of this Privacy Policy.
   * We may disclose information about you to the government or to third parties under certain circumstances when legally obligated to do so, such as in connection with suspected illegal activity in connection with the Service or this Site, or to respond to a subpoena, court order or other legal process. We reserve the right to release information collected through the Service or this Site to law enforcement or other government officials, as we, in our sole discretion, deem necessary or appropriate.
   * We may disclose any information that we believe is necessary to enforce or apply our Terms of Service and other agreements; or to protect the rights, property, or safety of Mode, our employees, our users, or others.
-  * If you use the Site or the Service outside of the United States, information that we collect about you will be transferred to servers inside the United States and maintained indefinitely, which may involve the transfer of information out of countries located in the European Economic Area. By allowing Mode to collect information about you, you consent to such transfer and processing of your data.
 
 
+
+## Is information transferred internationally?
+
+We are a global business based in the United States, and we may transfer data globally. If you use the Site or the Service outside of the United States, information that we collect about you will be transferred to servers inside the United States and maintained indefinitely, which may involve the transfer of information out of countries located in the European Economic Area. We endeavor to protect your information and to comply with relevant applicable laws. By allowing Mode to collect information about you, you consent to our transfer and processing of your data.
 
 ## What security measures do we employ for information about you collected through the Service or this Site?
 
@@ -73,7 +76,7 @@ Please also be aware that despite our best intentions and the guidelines outline
 
 ## How can you correct, update or make choices regarding the information about you that is stored by Mode?
 
-You may correct or update information that we collect about you by managing your account on the Service in the [Settings section.](https://modeanalytics.com/settings) This includes the addition or removal of personal information (except your name, email address, username and password, which we require of all users to maintain their accounts), as well as preferences for the types of communications you receive from us. 
+You may correct or update information that we collect about you by managing your account on the Service in the Settings section. This includes the addition or removal of personal information (except your name, email address, username and password, which we require of all users to maintain their accounts), as well as preferences for the types of communications you receive from us. 
 
 For our records, we may retain original and updated information for reasons such as technical constraints, dispute resolution, compliance with laws, fraud prevention, troubleshooting and agreement enforcement. In addition, we are not responsible for updating or removing any information about you collected through the Site or the Service already disclosed to third parties who have been provided information as described in this Privacy Policy.
 
@@ -82,6 +85,8 @@ At this time, Mode does not support “Do Not Track” preferences that may be a
 ## What are the policies of linked websites and other third parties?
 
 This Privacy Policy only addresses the use and disclosure of information collected from you by Mode through this Site or the Service. You should be aware that when you are using the Site or the Service, you may be directed to other websites that are beyond our control or be interfacing with third-party integrated services. We would expect most, if not all, of these third parties will collect information about you when you use their offerings. However, Mode is not responsible for the privacy practices of third parties, regardless whether they are linked or otherwise connected to this Site or the Service. We encourage you to read the posted privacy policy whenever interacting with any third-party website or other offering.
+
+## What is our policy on children users of the Service?
 
 The Service and this Site are not directed to children under 13. If you learn that your minor child has provided us with personal information without your consent, please contact us.
 
@@ -93,8 +98,8 @@ By choosing to use the Site or the Service or otherwise provide information to M
 
 Mode reserves the right to update or modify this Privacy Policy from time to time, with any such changes to be effective prospectively. Please visit this page periodically so that you will be apprised of any such changes. Your continued use of the Service or the Site after any modification to this Privacy Policy will constitute your acceptance of such modification.
 
-## How can you contact us?
+## How can you contact us with any questions or concerns?
 
-If you have any questions about this Privacy Policy, or need to reach us for any other reason, you may contact us by e-mail at [support@modeanalytics.com](mailto:support@modeanalytics.com)
+If you have any concerns or complaints about this Privacy Policy or our privacy practices, please contact us at Mode Analytics, 1235D Howard St. San Francisco, CA 94103 and we will work with you towards a resolution. If you have any questions or need to reach us for any other reason, you may contact us by e-mail at [support@modeanalytics.com](mailto:support@modeanalytics.com)
 
-Last Updated: April 23, 2014
+Last Updated: February 9, 2015
