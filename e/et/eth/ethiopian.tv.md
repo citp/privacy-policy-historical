@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ethiopian.tv privacy policy that was archived on 2014-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141027030442id_/http%3A//www.ethiopian.tv/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ethiopian.tv privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612123211id_/http%3A//www.ethiopian.tv/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy : Ethiopian TV : Music News Drama
 
