@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the bannerbuzz.com privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123025856id_/http%3A//www.bannerbuzz.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bannerbuzz.com privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612132710id_/http%3A//www.bannerbuzz.com/privacy-policy.html) for the most accurate reproduction.*
 
 # BannerBuzz.com: Privacy Policy
 
-This privacy notice discloses the privacy practices for [http://www.bannerbuzz.com.](http://www.bannerbuzz.com/) This privacy notice applies solely to information collected by this web site. It will notify you of the following:
+This privacy notice discloses the privacy practices for [www.bannerbuzz.com.](http://www.bannerbuzz.com/) This privacy notice applies solely to information collected by this web site. It will notify you of the following:
 
   * What personally identifiable information is collected from you through the Website, how it is used and with whom it may be shared.
   * What choices are available to you regarding the use of your data.
