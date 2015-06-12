@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bargainoutfitters.com privacy policy that was archived on 2014-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140819070425id_/http%3A//www.bargainoutfitters.com/net/main/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bargainoutfitters.com privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612154857id_/http%3A//bargainoutfitters.com/net/main/Privacy.aspx) for the most accurate reproduction.*
 
 # Bargain Outfitters - Bargains, Discounts, Markdowns, Deals, on Boots, Clothing, Outdoor Gear at Bargain Outfitters.
 
@@ -55,7 +55,7 @@ South St. Paul, MN 55075-0239
 
 Catalog: Please make sure to provide us with your exact name and address or the mailing label from your catalog so that we can identify you correctly. We will make every effort to implement any choice you make as soon as possible, but you should allow approximately three months for mailing change requests to be fully implemented. Any mailings that you may receive during this time do not reflect your subscription status, and we ask that you please disregard them.
 
-E-mail: To manage your E-mail Preferences or unsubscribe, [click here](https://web.archive.org/web/20140819070425id_/http%3A//www.bargainoutfitters.com/net/email/Unsubscribe.aspx). If you choose to be removed from our e-mail specials lists, you will still continue to receive order and confirmation e-mails as well as e-mails relating to your other transactions.
+E-mail: To manage your E-mail Preferences or unsubscribe, [click here](https://web.archive.org/web/20150612154857id_/http%3A//bargainoutfitters.com/net/email/Unsubscribe.aspx). If you choose to be removed from our e-mail specials lists, you will still continue to receive order and confirmation e-mails as well as e-mails relating to your other transactions.
 
 ## How Secure Is My Online Transaction?
 
@@ -71,4 +71,4 @@ We use service providers to help gather and analyze information about our custom
 
 ## Effective Date and Policy Changes
 
-We may from time to time make changes to the Privacy Policy to reflect changes in the privacy practices. Accordingly, we reserve the right to revise or modify this Privacy Policy in whole or in part at any time. We will inform you of any update to our Privacy Policy by posting a notice on our Site. The effective date of the updated policy will be the date posted on the notice. The updated policy shall replace any prior policies and will be applicable to all current and past users of the Site. This Privacy Policy was last updated on January 15, 2013.
+We may from time to time make changes to the Privacy Policy to reflect changes in the privacy practices. Accordingly, we reserve the right to revise or modify this Privacy Policy in whole or in part at any time. We will inform you of any update to our Privacy Policy by posting a notice on our Site. The effective date of the updated policy will be the date posted on the notice. The updated policy shall replace any prior policies and will be applicable to all current and past users of the Site. This Privacy Policy was last updated on January 28, 2015.
