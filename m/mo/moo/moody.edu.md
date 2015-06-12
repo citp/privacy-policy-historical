@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moody.edu privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122080858id_/http%3A//www.moody.edu/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moody.edu privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612233305id_/http%3A//www.moody.edu/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Moody Bible Institute
 
@@ -55,7 +55,7 @@ Moody Bible Institute
 Web Communications  
 820 N. LaSalle Boulevard  
 Chicago, IL 60610-3284  
-1-800 DL MOODY (1-800-356-6639) or (312) 329-4000
+[1-800 DL MOODY](tel:+1-800-356-6639) (1-800-356-6639) or [(312) 329-4000](tel:312-329-4000)
 
 ## The Way We Use Information
 
@@ -99,4 +99,4 @@ Moody Bible Institute
 Web Communications  
 820 N. LaSalle Boulevard  
 Chicago, IL 60610-3284  
-1-800 DL MOODY (1-800-356-6639) or (312) 329-4000
+[1-800 DL MOODY](tel:+1-800-356-6639) (1-800-356-6639) or [312) 329-4000](tel:312-329-4000)
