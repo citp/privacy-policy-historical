@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the duvalschools.org privacy policy that was archived on 2014-12-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141209062945id_/http%3A//www.duvalschools.org/Page/12667) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the duvalschools.org privacy policy that was archived on 2015-06-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150612090515id_/http%3A//duvalschools.org/Page/12667) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Frameset//EN" "http://www.w3.org/TR/html4/frameset.dtd"><html><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Frameset//EN" "http://www.w3.org/TR/html4/frameset.dtd"><html lang="en"><head>
     <title>Legal Services / SW Privacy</title>
     <!--
     <PageMap>
@@ -15,7 +15,7 @@
     
     <!-- Begin swuc.GlobalJS -->
 <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">
- staticURL = "http://www.duvalschools.org/Static/V2_08_01/";
+ staticURL = "http://www.duvalschools.org/Static/V2_10_01/";
  SessionTimeout = "30";
 </script>
 <!-- End swuc.GlobalJS -->
@@ -23,17 +23,17 @@
     
     <!-- Stylesheets -->
 
-    <link rel="Stylesheet" type="text/css" href="http://www.duvalschools.org/Static/V2_08_01/App_Themes/SW/jquery.jgrowl.css">
-    <link rel="Stylesheet" type="text/css" href="http://www.duvalschools.org/Static/V2_08_01//site/assets/styles/system.css">
-    <link rel="Stylesheet" type="text/css" href="http://www.duvalschools.org/Static/V2_08_01//site/assets/styles/apps.css">
-    <link rel="Stylesheet" type="text/css" href="http://www.duvalschools.org/Static/V2_08_01/App_Themes/SW/jQueryUI.css">
+    <link rel="Stylesheet" type="text/css" href="http://www.duvalschools.org/Static/V2_10_01/App_Themes/SW/jquery.jgrowl.css">
+    <link rel="Stylesheet" type="text/css" href="http://www.duvalschools.org/Static/V2_10_01//site/assets/styles/system.css">
+    <link rel="Stylesheet" type="text/css" href="http://www.duvalschools.org/Static/V2_10_01//site/assets/styles/apps.css">
+    <link rel="Stylesheet" type="text/css" href="http://www.duvalschools.org/Static/V2_10_01/App_Themes/SW/jQueryUI.css">
     
     
     <!-- Scripts -->
     
 
     <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js" type="text/javascript"></script>
-    <script src="http://www.duvalschools.org/Static/V2_08_01/GlobalAssets/Scripts/min/jquery-migrate-1.2.1.js" type="text/javascript"></script>
+    <script src="http://www.duvalschools.org/Static/V2_10_01/GlobalAssets/Scripts/min/jquery-migrate-1.2.1.js" type="text/javascript"></script>
 
     <script src="http://ajax.googleapis.com/ajax/libs/swfobject/2.2/swfobject.js" type="text/javascript"></script>
 
@@ -57,11 +57,452 @@
         $("div.ui-article:last").addClass("last-article");
         $("div.region .app:last").addClass("last-app");
     });
+
+    // ADA SKIP NAV
+    $(document).ready(function() {
+        $(document).on('focus', '#skipLink', function() {
+            $("div.sw-skipnav-outerbar").animate({
+                marginTop: "0px"
+            }, 500);
+        });
+
+        $(document).on('blur', '#skipLink', function() {
+            $("div.sw-skipnav-outerbar").animate({
+                marginTop: "-30px"
+            }, 500);
+        });
+    });
+
+    // ADA MYSTART
+    $(document).ready(function () {
+        var top_level_nav = $('.sw-mystart-nav');
+ 
+        // Set tabIndex to -1 so that top_level_links can't receive focus until menu is open
+        // school dropdown
+        $(top_level_nav).find('ul').find('a').attr('tabIndex', -1);
+
+        // my account dropdown
+        $(top_level_nav).next('ul').find('a').attr('tabIndex', -1);
+ 
+        $(top_level_nav).focus(function() {
+            // hide open menus
+            hideMyStartBarMenu();
+ 
+            // show school dropdown
+            if ($(this).find('ul').length > 0) {
+                $(this).find('.sw-dropdown').css('display', 'block').attr('aria-hidden', 'false');
+            }
+
+            // show my account dropdown
+            if ($(this).next('ul').length > 0) {
+                $(this).next('.sw-dropdown').css('display', 'block').attr('aria-hidden', 'false');
+                $('#sw-mystart-account').addClass("clicked-state");
+            }
+        });
+ 
+        // Bind arrow keys for navigation
+        $(top_level_nav).keydown(function(e) {
+            if (e.keyCode == 37) { //key left
+                e.preventDefault();
+
+                // This is the first item
+                if ($(this).prev('.sw-mystart-nav').length == 0) {
+                    $(this).parents('div').find('.sw-mystart-nav').last().focus();
+                } else {
+                    $(this).prev('.sw-mystart-nav').focus();
+                }
+            } else if(e.keyCode == 38) { //key up
+                e.preventDefault();
+
+                // show school dropdown
+                if ($(this).find('ul').length > 0) {
+                    $(this).find('div.sw-dropdown').css('display', 'block').find('ul').attr('aria-hidden', 'false').find('a').attr('tabIndex', 0).last().focus();
+                }
+
+                // show my account dropdown
+                if ($(this).find('ul').length > 0) {
+                    $(this).find('ul.sw-dropdown').css('display', 'block').attr('aria-hidden', 'false').find('a').attr('tabIndex', 0).last().focus();
+                }
+            } else if(e.keyCode == 39) { //key right
+                e.preventDefault();
+
+                // This is the last item
+                if ($(this).next('.sw-mystart-nav').length == 0) {
+                    $(this).parents('div').find('.sw-mystart-nav').first().focus();
+                } else {
+                    $(this).next('.sw-mystart-nav').focus();
+                }
+            } else if(e.keyCode == 40) { //key down
+                e.preventDefault();
+
+                // show school dropdown
+                if ($(this).find('ul').length > 0) {
+                    $(this).find('div.sw-dropdown').css('display', 'block').find('ul').attr('aria-hidden', 'false').find('a').attr('tabIndex', 0).first().focus();
+                }
+
+                // show my account dropdown
+                if ($(this).next('ul').length > 0) {
+                    $(this).next('ul.sw-dropdown').css('display', 'block').attr('aria-hidden', 'false').find('a').attr('tabIndex', 0).first().focus();
+                }
+            } else if(e.keyCode == 13 || e.keyCode == 32) { //enter key
+                // If submenu is hidden, open it
+                e.preventDefault();
+
+                $(this).parent('li').find('ul[aria-hidden=true]').attr('aria-hidden', 'false').find('a').attr('tabIndex', 0).first().focus();
+            } else if (e.keyCode == 27) { //escape key
+                e.preventDefault();
+                hideMyStartBarMenu();
+            } else {
+                $(this).parent('.sw-mystart-nav').find('ul[aria-hidden=false] a').each(function() {
+                    if ($(this).text().substring(0,1).toLowerCase() == keyCodeMap[e.keyCode]) {
+                        $(this).focus();
+                        return false;
+                    }
+                });
+            }
+        });
+       
+        // school dropdown
+        var startbarlinks = $(top_level_nav).find('ul').find('a');
+        bindMyStartBarLinks(startbarlinks);
+
+        // my account dropdown
+        var myaccountlinks = $(top_level_nav).next('ul').find('a');
+        bindMyStartBarLinks(myaccountlinks);
+ 
+        function bindMyStartBarLinks(links) {
+            $(links).keydown(function(e) {
+                e.stopPropagation();
+
+                if (e.keyCode == 38) { //key up
+                    e.preventDefault();
+
+                    // This is the first item
+                    if ($(this).parent('li').prev('li').length == 0) {
+                        if ($(this).parents('ul').parents('.sw-mystart-nav').length > 0) {
+                            $(this).parents('ul').parents('.sw-mystart-nav').focus();
+                        } else {
+                            $(this).parents('ul').prev('.sw-mystart-nav').focus();
+                        }
+                    } else {
+                        $(this).parent('li').prev('li').find('a').first().focus();
+                    }
+                } else if (e.keyCode == 40) { //key down
+                    e.preventDefault();
+                    
+                    if ($(this).parent('li').next('li').length == 0) {
+                        if ($(this).parents('ul').parents('.sw-mystart-nav').length > 0) {
+                            $(this).parents('ul').parents('.sw-mystart-nav').focus();
+                        } else {
+                            $(this).parents('ul').prev('.sw-mystart-nav').focus();
+                        }
+                    } else {
+                        $(this).parent('li').next('li').find('a').first().attr('tabIndex', 0);
+                        $(this).parent('li').next('li').find('a').first().focus();
+                    }
+                } else if (e.keyCode == 27 || e.keyCode == 37) { // escape key or key left
+                    e.preventDefault();
+                    hideMyStartBarMenu();
+                } else if (e.keyCode == 32) { //enter key
+                    e.preventDefault();
+                    window.location = $(this).attr('href');
+                } else {
+                    var found = false;
+
+                    $(this).parent('div').nextAll('li').find('a').each(function() {
+                        if ($(this).text().substring(0, 1).toLowerCase() == keyCodeMap[e.keyCode]) {
+                            $(this).focus();
+                            found = true;
+                            return false;
+                        }
+                    });
+                   
+                    if (!found) {
+                        $(this).parent('div').prevAll('li').find('a').each(function() {
+                            if ($(this).text().substring(0, 1).toLowerCase() == keyCodeMap[e.keyCode]) {
+                                $(this).focus();
+                                return false;
+                            }
+                        });
+                    }
+                }
+            });
+        }
+ 
+        // Hide menu if click or focus occurs outside of navigation
+        $('#sw-mystart-inner').find('.sw-mystart-nav').last().keydown(function(e) { 
+            if (e.keyCode == 9) {
+                // If the user tabs out of the navigation hide all menus
+                hideMyStartBarMenu();
+            }
+        });
+
+        /*$(document).click(function() { 
+            hideMyStartBarMenu();
+        });*/
+
+        // try to capture as many custom MyStart bars as possible
+        $('.sw-mystart-button').find('a').focus(function() {
+            hideMyStartBarMenu();
+        });
+       
+        $('#sw-mystart-inner').click(function(e) {
+            e.stopPropagation();
+        });
+
+        $('ul.sw-dropdown-list').blur(function() {
+            hideMyStartBarMenu();
+        });
+
+        $('#ui-btn-mypasskey').focus(function() {
+            hideMyStartBarMenu();
+        });
+
+        $('#ui-btn-sitemanager').focus(function() {
+            hideMyStartBarMenu();
+        });
+
+        $('#ui-btn-myview').focus(function() {
+            hideMyStartBarMenu();
+        });
+
+        $('#ui-btn-signin').focus(function() {
+            hideMyStartBarMenu();
+        });
+
+        $('#ui-btn-register').focus(function() {
+            hideMyStartBarMenu();
+        });
+
+        // button click events
+        $('div.sw-mystart-button.home a').keydown(function(e) {
+            e.stopImmediatePropagation();
+
+            if (e.keyCode == 13) {
+                $(this).click();
+            }
+        });
+
+        $('div.sw-mystart-button.pw a').keydown(function(e) {
+            e.stopImmediatePropagation();
+
+            if (e.keyCode == 13) {
+                $(this).click();
+            }
+        });
+
+        $('div.sw-mystart-button.manage a').keydown(function(e) {
+            e.stopImmediatePropagation();
+
+            if (e.keyCode == 13) {
+                $(this).click();
+            }
+        });
+
+        $('#sw-mystart-account').keydown(function(e) {
+            e.stopImmediatePropagation();
+
+            if (e.keyCode == 13) {
+                $(this).addClass('clicked-state');
+                $('#sw-myaccount-list').show();
+            }
+        });
+
+        $('#sw-mystart-mypasskey a').keydown(function(e) {
+            e.stopImmediatePropagation();
+
+            if (e.keyCode == 13) {
+                $(this).click();
+            }
+        });
+
+        $('div.sw-mystart-button.signin a').keydown(function(e) {
+            e.stopImmediatePropagation();
+
+            if (e.keyCode == 13) {
+                $(this).click();
+            }
+        });
+
+        $('div.sw-mystart-button.register a').keydown(function(e) {
+            e.stopImmediatePropagation();
+
+            if (e.keyCode == 13) {
+                $(this).click();
+            }
+        });
+    });
+
+    function hideMyStartBarMenu() {
+        $('.sw-dropdown').attr('aria-hidden', 'true').css('display', 'none').find('a').attr('tabIndex', -1);
+        $('#sw-mystart-account').removeClass("clicked-state");
+    }
+
+    // ADA CHANNEL NAV
+    $(document).ready(function() {
+        var settings = {
+            menuHoverClass: 'hover'
+        };
+
+        // Add ARIA role to menubar and menu items
+        $('#channel-navigation').attr('role', 'menubar').find('li').attr('role', 'menuitem');
+
+        var top_level_links = $('#channel-navigation').find('> li > a');
+
+        // Set tabIndex to -1 so that top_level_links can't receive focus until menu is open
+        $(top_level_links).next('ul').attr({ 'aria-hidden': 'true', 'role': 'menu' }).find('a').attr('tabIndex', -1);
+
+        // Adding aria-haspopup for appropriate items
+        $(top_level_links).each(function() {
+            if ($(this).next('ul').length > 0)
+                $(this).parent('li').attr('aria-haspopup', 'true');
+        });
+
+        $(top_level_links).focus(function() {
+            //hide open menus
+            hideChannelMenu();
+
+            if ($(this).parent('li').find('ul').length > 0) {
+                $(this).parent('li').addClass(settings.menuHoverClass).find('ul').css('display', 'block');
+            }
+        });
+
+        // Bind arrow keys for navigation
+        $(top_level_links).keydown(function(e) {
+            if (e.keyCode == 37) { //key left
+                e.preventDefault();
+
+                // This is the first item
+                if ($(this).parent('li').prev('li').length == 0) {
+                    $(this).parents('ul').find('> li').last().find('a').first().focus();
+                } else {
+                    $(this).parent('li').prev('li').find('a').first().focus();
+                }
+            } else if (e.keyCode == 38) { //key up
+                e.preventDefault();
+
+                if ($(this).parent('li').find('ul').length > 0) {
+                    $(this).parent('li').addClass(settings.menuHoverClass).find('ul').css('display', 'block').attr('aria-hidden', 'false').find('a').attr('tabIndex', 0).last().focus();
+                }
+            } else if (e.keyCode == 39) { //key right
+                e.preventDefault();
+
+                // This is the last item
+                if ($(this).parent('li').next('li').length == 0) {
+                    $(this).parents('ul').find('> li').first().find('a').first().focus();
+                } else {
+                    $(this).parent('li').next('li').find('a').first().focus();
+                }
+            } else if (e.keyCode == 40) { //key down
+                e.preventDefault();
+
+                if ($(this).parent('li').find('ul').length > 0) {
+                    $(this).parent('li')
+                         .addClass(settings.menuHoverClass)
+                         .find('ul').css('display', 'block')
+                         .attr('aria-hidden', 'false')
+                         .find('a').attr('tabIndex', 0)
+                         .first().focus();
+                }
+            } else if (e.keyCode == 13 || e.keyCode == 32) { //enter key
+                // If submenu is hidden, open it
+                e.preventDefault();
+
+                $(this).parent('li').find('ul[aria-hidden=true]').attr('aria-hidden', 'false').addClass(settings.menuHoverClass).find('a').attr('tabIndex', 0).first().focus();
+            } else if (e.keyCode == 27) { //escape key
+                e.preventDefault();
+                hideChannelMenu();
+            } else {
+                $(this).parent('li').find('ul[aria-hidden=false] a').each(function() {
+                    if ($(this).text().substring(0, 1).toLowerCase() == keyCodeMap[e.keyCode]) {
+                        $(this).focus();
+                        return false;
+                    }
+                });
+            }
+        });
+
+        var links = $(top_level_links).parent('li').find('ul').find('a');
+
+        $(links).keydown(function(e) {
+            if (e.keyCode == 38) {
+                e.preventDefault();
+
+                // This is the first item
+                if ($(this).parent('li').prev('li').length == 0) {
+                    $(this).parents('ul').parents('li').find('a').first().focus();
+                } else {
+                    $(this).parent('li').prev('li').find('a').first().focus();
+                }
+            } else if (e.keyCode == 40) {
+                e.preventDefault();
+
+                if ($(this).parent('li').next('li').length == 0) {
+                    $(this).parents('ul').parents('li').find('a').first().focus();
+                } else {
+                    $(this).parent('li').next('li').find('a').first().focus();
+                }
+            } else if (e.keyCode == 27 || e.keyCode == 37) {
+                e.preventDefault();
+
+                $(this).parents('ul').first().prev('a').focus().parents('ul').first().find('.' + settings.menuHoverClass).attr('aria-hidden', 'true').removeClass(settings.menuHoverClass).find('a').attr('tabIndex', -1);
+            } else if (e.keyCode == 32) {
+                e.preventDefault();
+                window.location = $(this).attr('href');
+            } else {
+                var found = false;
+
+                $(this).parent('li').nextAll('li').find('a').each(function() {
+                    if ($(this).text().substring(0, 1).toLowerCase() == keyCodeMap[e.keyCode]) {
+                        $(this).focus();
+                        found = true;
+                        return false;
+                    }
+                });
+
+                if (!found) {
+                    $(this).parent('li').prevAll('li').find('a').each(function() {
+                        if ($(this).text().substring(0, 1).toLowerCase() == keyCodeMap[e.keyCode]) {
+                            $(this).focus();
+                            return false;
+                        }
+                    });
+                }
+            }
+        });
+
+        function hideChannelMenu() {
+            $('li.sw-channel-item.' + settings.menuHoverClass).attr('aria-hidden', 'true').removeClass(settings.menuHoverClass).find('ul').css('display', 'none').find('a').attr('tabIndex', -1);
+        }
+
+        // Hide menu if click or focus occurs outside of navigation
+        $('#channel-navigation').find('a').last().keydown(function(e) {
+            if (e.keyCode == 9) {
+                // If the user tabs out of the navigation hide all menus
+                hideChannelMenu();
+            }
+        });
+
+        $('#channel-navigation').find('a').first().keydown(function(e) {
+            if (e.keyCode == 9) {
+                // hide open MyStart Bar menus
+                hideMyStartBarMenu();
+            }
+        });
+
+        /*$(document).click(function() {
+            hideChannelMenu();
+        });*/
+
+        $('#channel-navigation').click(function(e) {
+            e.stopPropagation();
+        });
+    });
     </script>
     
     <!-- Page -->
     
-    <style type="text/css">/* MedaiBegin Standard */                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+    <style type="text/css">/* MedaiBegin Standard */                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
 @font-face {
 	font-family: 'duval-font';
 	src:url(/cms/lib07/fl01903657/centricity/template/11/fonts/duval-font.eot);
@@ -161,10 +602,14 @@
 	color: #000;
 }
 .sw-mystart-dropdown.translate {
-	width: 200px;
+	width: 198px;
 	height: auto;
 	padding: 5px 30px 5px 12px;
+	margin: 0px;
 	background: #FFF;
+	border: solid 1px #DBD6D0;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
 	border-radius: 5px;
 	float: right;
 }
@@ -189,8 +634,9 @@
 	padding: 5px 0px 0px 2px;
 }
 .sw-mystart-dropdown.translate .sw-dropdown {
-	top: auto;
-	bottom: 29px;
+	top: 100%;
+	left: auto;
+	right: 0px;
 	background: #FFF;
 	border-radius: 5px;
 	-moz-box-shadow: 0px 0px 6px #333;
@@ -484,12 +930,12 @@ body {
 	max-height: 90px;
 }
 #gb-sitename {
-	max-width: 73%;
+	max-width: 100%; /* Changed by Jeremy K 20150128 from 73% to 100% */
 	float: left;
 	display: none;
 }
 #gb-sitename h1 {
-	font: normal 40px/100% 'Open Sans', sans-serif;
+	font: bold 40px/100% 'Open Sans', sans-serif; /* Edited by Jeremy K 20150128 changed normal to bold */
 	color: #333;
 	padding: 8px 0px 10px 15px;
 	margin: 0px;
@@ -504,7 +950,7 @@ body {
 	margin: 0px;
 }
 #gb-search {
-	padding: 20px 0px 0px;
+	padding: 0px 0px 20px;
 }
 #gb-channel-list-outer {
 	position: relative;
@@ -650,13 +1096,45 @@ body {
 	display: block;
 	height: 0px;
 }
-.district #hp-feature-content div.ui-widget.app {
+.district .hp-feature-slide-body {
+	max-height: 148px;
+}
+.hp-feature-slide-body, .hp-feature-slide-body .region {
+	position: relative;
+}
+.district .hp-feature-slide-body.three div.ui-widget.app {
 	width: 27.33%;
 	float: left;
 	padding: 2% 3%;
 }
+.district .hp-feature-slide-body.two div.ui-widget.app {
+	width: 44%;
+	float: left;
+	padding: 2% 3%;
+}
+.district .hp-feature-slide-body.one div.ui-widget.app {
+	width: 94%;
+	float: left;
+	padding: 2% 3%;
+}
+.district .no-features #hp-feature-content div.ui-widget.app {
+	width: auto;
+	float: none;
+	padding: 0px;
+}
+.no-features .hp-feature-slide-header {
+	display: none;
+}
+.no-features #hp-feature-content div.ui-widget.app div.ui-widget-header,
+.no-features #hp-feature-content div.ui-widget.app div.ui-widget-detail,
+.no-features #hp-feature-content div.ui-widget.app div.ui-widget-footer {
+	padding: 10px 20px
+}
 .subsite #hp-feature-content div.ui-widget.app {
 	padding: 15px;
+}
+.subsite .no-features #hp-feature-content div.ui-widget.app {
+	padding: 0px;
 }
 #hp-social-bottom div.ui-widget.app {
 	padding: 0px 0px 30px;
@@ -686,6 +1164,11 @@ div.ui-widget.app.navigation div.ui-widget-header h1 {
 #hp-feature-content div.ui-widget.app div.ui-widget-header h1,
 #hp-feature-content div.ui-widget.app.navigation div.ui-widget-header h1  {
 	font: italic bold 16px/100% 'Lora', serif;
+	color: #333;
+}
+.no-features #hp-feature-content div.ui-widget.app div.ui-widget-header h1,
+.no-features #hp-feature-content div.ui-widget.app.navigation div.ui-widget-header h1  {
+	font: bold 17px/100% 'Lora', serif;
 	color: #333;
 }
 #hp-social div.ui-widget.app div.ui-widget-header h1 {
@@ -740,6 +1223,7 @@ h1.ui-article-title {
 .ui-filelist-container {
 	padding: 0px 0px 0px 0px;
 	margin-top: -20px;
+	font-size: 0px; /* Added by Marie - Case #00104534 */
 }
 .ui-widget.app.file-library .ui-filelist-filename {
 	display: none;
@@ -800,10 +1284,12 @@ a.more-link:hover {
 #hp-slideshow {
 	width: 100%;
 	max-width: 960px;
-	height: 470px;
+	/*height: 470px;*/
 	margin: 0px auto;
 	position: relative;
 }
+/*
+COMMENTED OUT BY BRENTON KELLY 1/14/15 AND LEFT IN CASE CLIENT WANTED TO REVERT
 #hp-slideshow .rotating-images {
 	position: absolute;
 	top: 0px;
@@ -822,6 +1308,7 @@ a.more-link:hover {
 	min-height: 0px;
 	width: 100%;
 }
+*/
 .hp-slideshow-color-overlay {
 	position: absolute;
 	top: 0px;
@@ -860,51 +1347,58 @@ a.more-link:hover {
 .hp-slideshow-color-overlay.right img {
 	left: 0px;
 }
-#hp-slideshow .gallery-desc {
+#hp-slideshow .rs-photo-gallery-desc {
 	position: absolute;
 	bottom: 10px;
 	left: 0px;
 	width: 100%;
 }
-#hp-slideshow .title {
+#hp-slideshow.no-captions .rs-photo-gallery-desc {
+	display: none !important;
+}
+#hp-slideshow .rs-photo-gallery-title {
 	position: relative;
-	padding: 15px 20px;
 	margin-bottom: 5px;
 	float: left;
 	clear: both;
-	display: none;
 }
-#hp-slideshow .title h1 {
+#hp-slideshow .rs-photo-title {
+	padding: 15px 20px;
+}
+#hp-slideshow .rs-photo-title h1 {
 	font: normal 31px/100% 'Lora', serif;
 	color: #FFF;
 	margin: 0px;
 }
-#hp-slideshow .caption {
+#hp-slideshow .rs-photo-gallery-caption {
 	position: relative;
-	padding: 15px 20px;
 	float: left;
 	clear: both;
-	display: none;
 }
-#hp-slideshow .caption-text {
+#hp-slideshow .rs-photo-caption {
+	padding: 15px 20px;
+}
+#hp-slideshow .rs-photo-caption p {
 	font: 600 16px 'Open Sans', sans-serif;
 	color: #FFF;
 	margin: 0px;
 }
-#hp-slideshow .caption-text .cs-more-link-text {
+#hp-slideshow .rs-photo-gallery-desc-more-link {
+	padding: 15px 20px;
+}
+#hp-slideshow .rs-photo-gallery-desc-more-link a {
 	color: #FFF;
 	text-decoration: none;
+	font: 600 16px 'Open Sans', sans-serif
 }
-#hp-slideshow .caption-text .cs-more-link-text:hover {
+#hp-slideshow .rs-photo-gallery-desc-more-link a:hover {
 	text-decoration: underline;
 }
-#hp-slideshow .image-button {
+#hp-slideshow .rs-photo-gallery-control.back, #hp-slideshow .rs-photo-gallery-control.next {
 	width: 56px;
 	height: 41px;
 	position: absolute;
 	top: 50%;
-	color: #FFF;
-	font-size: 26px;
 	text-align: center;
 	padding-top: 15px;
 	margin-top: -28px;
@@ -913,11 +1407,25 @@ a.more-link:hover {
 	border-radius: 28px;
 	cursor: pointer;
 }
-#hp-slideshow .image-button.back {
+#hp-slideshow .rs-photo-gallery-control.back {
 	left: 10px;
 }
-#hp-slideshow .image-button.next {
+#hp-slideshow .rs-photo-gallery-control.back:before {
+	content: "e";
+	line-height: 1;
+	color: #FFF;
+	font-size: 26px;
+	font-family: 'duval-font';
+}
+#hp-slideshow .rs-photo-gallery-control.next {
 	right: 10px;
+}
+#hp-slideshow .rs-photo-gallery-control.next:before {
+	content: "c";
+	line-height: 1;
+	color: #FFF;
+	font-size: 26px;
+	font-family: 'duval-font';
 }
 /* GroupEnd */
 
@@ -1014,18 +1522,28 @@ a.view-calendar-link:hover {
 	right: 0px;
 	background: #E8B112;
 }
+.no-features #hp-feature-block:before {
+	display: none;
+}
 #hp-feature-content {
-	width: 75%;
-	min-height: 222px;
+	width: 80.5%;
+	min-height: 148px;
 	float: left;
 	background: #FFF;
 	position: relative;
 	overflow: hidden;
 }
 .dcps #hp-feature-content {
-	height: 222px;
+	height: 148px;
 }
-.district #hp-feature-content:before {
+.no-features #hp-feature-content, .dcps .no-features #hp-feature-content {
+	width: auto;
+	height: auto;
+	min-height: 0px;
+	float: none;
+	overflow: visible;
+}
+.district .hp-feature-slide-body.three:before {
 	content: "";
 	position: absolute;
 	top: 2%;
@@ -1035,8 +1553,21 @@ a.view-calendar-link:hover {
 	border-left: dotted 2px #999;
 	border-right: dotted 2px #999;
 }
+.district .hp-feature-slide-body.two:before {
+	content: "";
+	position: absolute;
+	top: 2%;
+	bottom: 2%;
+	left: 50%;
+	margin-left: 1px;
+	border-left: dotted 2px #999;
+}
+.district .no-features #hp-feature-content:before {
+	display: none;
+}
 #hp-feature-titles {
-	width: 25%;
+	width: 19.5%;
+	max-height: 148px;
 	float: right;
 	position: relative;
 }
@@ -1053,7 +1584,7 @@ a.view-calendar-link:hover {
 	display: none;
 }
 .hp-feature-title {
-	font: bold 17px/100% 'Open Sans', sans-serif;
+	font: bold 16px/17px 'Open Sans', sans-serif;
 	color: #FFF;
 	cursor: pointer;
 	position: relative;
@@ -1087,7 +1618,8 @@ a.view-calendar-link:hover {
 	display: none;
 	position: relative;
 }
-.hp-feature-slide.active {
+.hp-feature-slide.active,
+.no-features .hp-feature-slide {
 	display: block;
 }
 .column {
@@ -1398,7 +1930,7 @@ li.sw-channel-item > a {
 }
 li.sw-channel-item > a span {
 	display: block;
-	padding: 10px 0 11px 15px;
+	padding: 10px 0 11px 12px; /* Changed padding-left from 15px to 12px - Marie Case #00104917 */
 }
 li.sw-channel-item.hover > a {
 	color: #FFF;
@@ -1571,7 +2103,17 @@ h6 {
 	float: right; 
 
 }
- /* GroupEnd *//* MediaEnd *//* MediaBegin 768+ */ @media (max-width: 1023px) {                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            
+ /* GroupEnd */
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                /* MediaEnd *//* MediaBegin 768+ */ @media (max-width: 1023px) {                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
 /* GroupBegin Global */
 #gb-disclaimer{
 	float: left;
@@ -1657,10 +2199,9 @@ h6 {
 	clear: both;
 }
 .sw-mystart-dropdown.translate {
-	width: 100%;
-	margin: 0px;
-	padding: 0px;
+	width: 143px;
 }
+/*
 .sw-mystart-dropdown.translate .selector {
 	padding: 5px 30px 5px 12px;
 	font-size: 12px;
@@ -1676,6 +2217,7 @@ h6 {
 	height: 100%;
 	padding: 0px;
 }
+*/
 /* GroupEnd */
 
 /* GroupBegin School List */
@@ -1795,6 +2337,9 @@ h6 {
 /* GroupEnd */
 
 /* GroupBegin Homepage */
+.district .hp-feature-slide-body {
+	max-height: none;
+}
 #hp-feature-block-outer {
 	background: #FFF;
 }
@@ -1890,7 +2435,17 @@ h6 {
 /* GroupEnd */
                 
                 
-                } /* MediaEnd *//* MediaBegin 640+ */ @media (max-width: 767px) {                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                } /* MediaEnd *//* MediaBegin 640+ */ @media (max-width: 767px) {                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
 /* GroupBegin Global */
 .show640 {
 	display: block;
@@ -1965,7 +2520,6 @@ h6 {
 
 /* GroupBegin Responsive Menu */
 #rs-menu .rs-menu-option.popular-links,
-#rs-menu .rs-menu-option.translate,
 #rs-menu #rs-menu-header #rs-search {
 	display: none;
 }
@@ -2078,7 +2632,17 @@ input.ui-txt-general.medium, textarea.ui-txt-general.medium, input.ui-txt-headin
 /* GroupEnd */
                 
                 
-                } /* MediaEnd *//* MediaBegin 480+ */ @media (max-width: 639px) {                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                } /* MediaEnd *//* MediaBegin 480+ */ @media (max-width: 639px) {                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         
 /* GroupBegin Global */
 .show480 {
 	display: block;
@@ -2160,6 +2724,53 @@ input.ui-txt-general.medium, textarea.ui-txt-general.medium, input.ui-txt-headin
 /* GroupEnd */
 
 /* GroupBegin App Styles */
+.district .hp-feature-slide-body.two:before,
+.district .hp-feature-slide-body.three:before {
+	display: none;
+}
+.dcps #hp-feature-content {
+	height: auto;
+}
+.no-features .ui-widget.app,
+.district .no-features #hp-feature-content div.ui-widget.app {
+	padding-bottom: 3px;
+}
+.no-features div.ui-widget-header {
+	background: #E8B112;
+}
+.no-features .ui-widget-detail {
+	display:none;
+	padding: 10px 15px;
+}
+.no-features .ui-widget-footer {
+	display: none;
+	padding: 0px 15px;
+}
+.no-features .ui-widget.app.active .ui-widget-detail,
+.no-features .ui-widget.app.active .ui-widget-footer {
+	display:block;
+}
+.no-features .ui-widget.app div.ui-widget-header {
+	cursor: pointer;
+}
+.no-features .ui-widget.app div.ui-widget-header:before {
+	content: "c";
+	font-family: 'duval-font';
+	color: #FFF;
+	font-size: 12px;
+	display: block;
+	position: absolute;
+	top: 11px;
+	right: 15px;
+}
+.no-features .ui-widget.app.active div.ui-widget-header:before {
+	content: "d";
+}
+.no-features #hp-feature-content div.ui-widget.app div.ui-widget-header h1,
+.no-features #hp-feature-content div.ui-widget.app.navigation div.ui-widget-header h1 {
+	padding: 0px;
+	color: #FFF;
+}
 .district #hp-feature-content div.ui-widget.app {
 	width: auto;
 	float: none;
@@ -2168,15 +2779,27 @@ input.ui-txt-general.medium, textarea.ui-txt-general.medium, input.ui-txt-headin
 .district #hp-feature-content div.ui-widget.app .ui-widget-footer {
 	border-bottom: dotted 2px #999;
 }
-.district #hp-feature-content div.ui-widget.app.last .ui-widget-footer {
+.district #hp-feature-content div.ui-widget.app.last .ui-widget-footer,
+.district .no-features #hp-feature-content div.ui-widget.app .ui-widget-footer {
 	border-bottom: none;
+}
+.no-features #hp-feature-content div.ui-widget.app div.ui-widget-header,
+.no-features #hp-feature-content div.ui-widget.app div.ui-widget-detail,
+.no-features #hp-feature-content div.ui-widget.app div.ui-widget-footer {
+	padding: 10px 15px;
 }
 #hp-feature-content .hp-feature-slide {
 	padding-bottom: 3px;
 }
+.no-features #hp-feature-content .hp-feature-slide {
+	padding-bottom: 0px;
+}
 #hp-feature-content .hp-feature-slide-body {
 	display:none;
 	padding: 0px;
+}
+.no-features #hp-feature-content .hp-feature-slide-body {
+	display: block;
 }
 #hp-feature-content .hp-feature-slide.active .hp-feature-slide-body {
 	display:block;
@@ -2300,7 +2923,17 @@ span.ui-toggle {
 /* GroupEnd */ 
                  
                  
-                } /* MediaEnd *//* MediaBegin 320+ */ @media (max-width: 479px) {                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
+                 
+                 
+                 
+                 
+                 
+                 
+                 
+                 
+                 
+                 
+                } /* MediaEnd *//* MediaBegin 320+ */ @media (max-width: 479px) {                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
 /* GroupBegin Global */
 .show320 {
 	display: block;
@@ -2384,8 +3017,24 @@ span.ui-toggle {
 /* GroupEnd */
                 
                 
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
                 } /* MediaEnd */</style>
     <script type="text/javascript">
+                $(document).ready(function(){
+                $("#sw-mystart-search").unbind(); 
+                });
+</script>
+
+<script type="text/javascript">
 $(document).ready(function(){
 $(".sw-mystart-button.home a").attr("href", "http://www.duvalschools.org");
 $(".sw-mystart-button.signin").hide();
@@ -2393,10 +3042,57 @@ $(".sw-mystart-button.signin").hide();
 if($('#swlogin').length) {
 if(window.location.href.indexOf("https") < 0){
 window.location.href = "https://dcps.duvalschools.org/site/Default.aspx?PageType=7&SiteID=4&IgnoreRedirect=true";
-}}
+}
+}
 
 });
-</script><meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+</script>
+
+
+
+<!-- Duval County Public Schools DCP-JAX-MPX Retargeting Pixel: Please do not remove Activity name of these tags: 
+Current Test - main URL of the webpage where the tag is expected to be placed: 
+
+UNIVERSAL PIXEL....PLACE ON ALL WEBSITE PAGES
+ 
+These tags must be placed between the <body>and<script type="text/javascript"> if (!NREUMQ.f) {NREUMQ.f=function() {NREUMQ.push(["load",new Date().getTime()]);var e=document.createElement("script"); e.type="text/javascript"; e.src=(("http:"===document.location.protocol)?"http:":"https:") + "//" + "js-agent.newrelic.com/nr-100.js"; document.body.appendChild(e);if(NREUMQ.a)NREUMQ.a();};NREUMQ.a=window.onload;window.onload=NREUMQ.f;};NREUMQ.push(["nrfj","bam.nr-data.net","e84461d315","2952228","Z1MEZEtSVkoFBxIKX14ZJ2NpHFtUF0sHB11ZWElDXEdMUAoDFUxDVUISWVdUFlgXFB4=",15,124,new Date().getTime(),"8BF7F6583F34FAC0","","","",""]);</script></body> tags, as close as possible to the opening tag. You can place this tag in the footer of your site 
+that will work on all pages. You can also paste the tag using a content management system across every page.
+
+Creation Date: 12/17/2014 -->
+
+
+<!-- Duval County Public Schools DCP-JAX-MPX Retargeting Pixel -->
+
+
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 963035649;
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:none;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/963035649/?value=0&guid=ON&script=0"/>
+</div>
+</noscript>
+
+<script type="text/javascript">
+$(function(e){
+ 
+var toHide = document.getElementsByName("google_conversion_frame");
+
+$.each(toHide, function(k, v){
+  $(this).hide();
+});
+
+});
+</script>
+
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
 <meta name="format-detection" content="telephone=no">
 
 <script>
@@ -2416,7 +3112,8 @@ window.location.href = "https://dcps.duvalschools.org/site/Default.aspx?PageType
 <link type="text/css" rel="stylesheet" href="/cms/lib07/fl01903657/centricity/template/11/jFlickr/colorbox.css">
 <!-- PLUGINS -->
 <script type="text/javascript" src="/cms/lib07/fl01903657/centricity/template/11/scripts/creative.responsive.menu.min.js"></script>
-<script type="text/javascript" src="/cms/lib07/fl01903657/centricity/template/11/scripts/creative.GalleryRotate.custom.min.js"></script>
+<!--<script type="text/javascript" src="/cms/lib07/fl01903657/centricity/template/11/scripts/creative.GalleryRotate.custom.min.js"></script>-->
+<script type="text/javascript" src="//extend.schoolwires.com/creative/scripts/creative/rotate/cs.rs.photo.gallery.rotator.min.js"></script>
 <script type="text/javascript" src="//extend.schoolwires.com/creative/scripts/joel/mod-events/joel.mod-events.min.js"></script>
 <script type="text/javascript" src="/cms/lib07/fl01903657/centricity/template/11/jFlickr/jflickrfeed.min.js"></script>
 <script type="text/javascript" src="/cms/lib07/fl01903657/centricity/template/11/jFlickr/jquery.colorbox-min.js"></script>
@@ -2475,11 +3172,11 @@ window.location.href = "https://dcps.duvalschools.org/site/Default.aspx?PageType
 			"siteID"		: "4"
 		});
 		
-		pgScreenSize();
 		useChannelForSection();
 		modEvents();
 		dynamicContent();
 		buildStyleSheet();
+		pgScreenSize();
 		
 		addFramesetTranslate();
 		featureRotateTimer();
@@ -2521,6 +3218,47 @@ window.location.href = "https://dcps.duvalschools.org/site/Default.aspx?PageType
 				clearInterval(window.featureTimer);
 				featureTimerSet = 0;
 			}
+		}
+	}
+	
+	function photoGallery() {
+		if(!$("#sw-content-container18.region.ui-hp .rs-photo-gallery-container").length){
+		        // PHOTO GALLERY ROTATOR
+		        $("#sw-content-container18.ui-hp div.ui-widget.app.gallery.json").creativeGalleryRotate({
+		                "imageWidth"                : 960,
+		                "imageHeight"               : 470,
+		                "appHeader"                 : "no",
+		                "titles"                    : "yes",
+		                "captions"                  : "yes",
+		                "playPause"                 : "no",
+		                "mainControls"              : "yes",
+		                "galleryOverlay"            : "no",
+		                "linkedElement"             : ["image"], // ["image", "title", "overlay", "all"]
+		                "contMoreLink"              : "no",
+		                "contMoreLinkText"          : "Read More",
+		                "descMoreLink"              : "yes",
+		                "descMoreLinkText"          : "Read More »",
+		                "bullets"                   : "no",
+		                "bulletControls"            : "no",
+		                "thumbnails"                : "no",
+		                "thumbnailWidth"            : 122,
+		                "thumbnailHeight"           : 53,
+		                "thumbnailSlideDirection"   : "horizontal", // horizontal or vertical
+		                "hoverPause"                : "yes",
+		                "autoRotate"                : "yes",
+		                "transitionType"            : "slide", // fade or slide
+		                "transitionSpeed"           : 2,
+		                "onImageLoad"               : function() { },
+		                "allImagesLoaded"           : function() { },
+		                "onThumbnailLoad"           : function() { },
+		                "allThumbnailsLoaded"       : function() { },
+		                "onTransitionStart"         : function() { },
+		                "onTransitionEnd"           : function() { },
+		                "allLoaded"                 : function() {
+		                		// MOVE THE READ MORE LINK
+		                		$("#hp-slideshow .rs-photo-gallery-caption").append($("#hp-slideshow .rs-photo-gallery-desc-more-link"));
+		                }
+		        });
 		}
 	}
 	
@@ -2650,8 +3388,8 @@ window.location.href = "https://dcps.duvalschools.org/site/Default.aspx?PageType
         	
         	// TURN ON PHOTO TITLES AND CAPTIONS IF THEY WANT THEM
         	var photoCaptionSwitch = 'true';
-        	if(photoCaptionSwitch == "true"){
-        		$("#hp-slideshow .title, #hp-slideshow .caption").show();
+        	if(photoCaptionSwitch != "true"){
+        		$("#hp-slideshow").addClass("no-captions");
         	}
         	
         	// CLICK FUNCTION FOR POPULAR LINKS DROP-UP
@@ -2686,64 +3424,71 @@ window.location.href = "https://dcps.duvalschools.org/site/Default.aspx?PageType
         		}
         	});
         	
-        	if("dcps" == district){
-        		// SHOW THE FEATURE BLOCK
-        		$("#hp-feature-block-outer").removeClass("hidden");
-        		
-        		if("dcps" == district){ // IF DISTRICT SITE, FEATURE BLOCK WILL UTILIZE THREE COLUMNS
-	        		$("#hp-feature-content .region").each(function(){
-	        			$(this).find(".ui-widget.app").first().addClass("first");
-	        			$(this).find(".ui-widget.app").last().addClass("last");
-	        			
-	        			// ADD HIDDEN CLASS TO ALL DIVS AFTER THE THIRD
-	        			$(this).find("> div").eq(2).nextAll("div").addClass("hidden");
-	        		});
-	        	} else { // IF NOT DISTRICT SITE, FEATURE BLOCK WILL UTILIZE ONE COLUMN
-	        		$("#hp-feature-content .region").each(function(){
-	        			// ADD HIDDEN CLASS TO ALL DIVS AFTER THE FIRST
-	        			$(this).find("> div").eq(0).nextAll("div").addClass("hidden");
-	        		});
+	        	if($("#hp-feature-content .ui-widget.app").length) {
+	        		$("#hp-feature-block-outer").removeClass("hidden");
 	        	}
 	        	
-	        	$(".hp-feature-title").click(function(){
-	        		if(!$(this).hasClass("active")){
-	        			$(".hp-feature-title.active").removeClass("active");
-	        			
-	        			var featureNum = $(this).attr("class");
-	        			featureNum = jQuery.trim(featureNum.replace("hp-feature-title", "").replace("first", "").replace("last", ""));
-	        			
-	        			$(this).addClass("active");
-	        			$(".hp-feature-slide.active").removeClass("active");
-	        			$(".hp-feature-slide." + featureNum).addClass("active");
+	        	if("dcps" == district){
+	        		// SHOW THE FEATURE BLOCK
+	        		//$("#hp-feature-block-outer").removeClass("hidden");
+	        		
+	        		if("dcps" == district){ // IF DISTRICT SITE, FEATURE BLOCK WILL UTILIZE THREE COLUMNS
+		        		$("#hp-feature-content .region").each(function(){
+		        			var appNum = (($(".ui-widget.app", this).length - 1) > 2) ? 2 : $(".ui-widget.app", this).length - 1;
+		        			var regionClass = ["one", "two", "three"];
+		        			$(this).parent().addClass(regionClass[appNum]);
+		        			$(this).find(".ui-widget.app").first().addClass("first");
+		        			$(this).find(".ui-widget.app").last().addClass("last");
+		        			
+		        			// ADD HIDDEN CLASS TO ALL DIVS AFTER THE THIRD
+		        			$(this).find("> div").eq(2).nextAll("div").addClass("hidden");
+		        		});
+		        	} else { // IF NOT DISTRICT SITE, FEATURE BLOCK WILL UTILIZE ONE COLUMN
+		        		$("#hp-feature-content .region").each(function(){
+		        			// ADD HIDDEN CLASS TO ALL DIVS AFTER THE FIRST
+		        			$(this).find("> div").eq(0).nextAll("div").addClass("hidden");
+		        		});
+		        	}
+	        	
+		        	$(".hp-feature-title").click(function(){
+		        		if(!$(this).hasClass("active")){
+		        			$(".hp-feature-title.active").removeClass("active");
+		        			
+		        			var featureNum = $(this).attr("class");
+		        			featureNum = jQuery.trim(featureNum.replace("hp-feature-title", "").replace("first", "").replace("last", ""));
+		        			
+		        			$(this).addClass("active");
+		        			$(".hp-feature-slide.active").removeClass("active");
+		        			$(".hp-feature-slide." + featureNum).addClass("active");
+		        		}
+		        	});
+		        	
+		        	$("#hp-feature-block").hover(function(){
+		        		clearInterval(window.featureTimer);
+		        		featureTimerSet = 0;
+		        	}, function(){
+		        		featureRotateTimer();
+		        	});
+        		}
+	
+	        	// CHECK TO SEE IF THE TITLES FOR THE FEATURE BLOCK ARE EMTPY
+	        	$(".hp-feature-title .text").each(function(){
+	        		var titleText = $(this).text();
+	        		titleText = jQuery.trim(titleText);
+	        		
+	        		if(titleText == ""){
+	        			// REMOVE THE SLIDE
+	        			var featureNum = $(this).parent().parent().attr("class");
+		        		featureNum = jQuery.trim(featureNum.replace("hp-feature-title", "").replace("first", "").replace("last", ""));
+		        		$(".hp-feature-slide." + featureNum).remove();
+		        		
+		        		// REMOVE THE VERTICAL DIVIDER
+	        			$(this).parent().parent().prev(".vert").remove();
+		        		
+		        		// REMOVE THE TITLE
+	        			$(this).parent().parent().remove();
 	        		}
 	        	});
-	        	
-	        	$("#hp-feature-block").hover(function(){
-	        		clearInterval(window.featureTimer);
-	        		featureTimerSet = 0;
-	        	}, function(){
-	        		featureRotateTimer();
-	        	});
-        	}
-        	
-        	// CHECK TO SEE IF THE TITLES FOR THE FEATURE BLOCK ARE EMTPY
-        	$(".hp-feature-title .text").each(function(){
-        		var titleText = $(this).text();
-        		titleText = jQuery.trim(titleText);
-        		
-        		if(titleText == ""){
-        			// REMOVE THE SLIDE
-        			var featureNum = $(this).parent().parent().attr("class");
-	        		featureNum = jQuery.trim(featureNum.replace("hp-feature-title", "").replace("first", "").replace("last", ""));
-	        		$(".hp-feature-slide." + featureNum).remove();
-	        		
-	        		// REMOVE THE VERTICAL DIVIDER
-        			$(this).parent().parent().prev(".vert").remove();
-	        		
-	        		// REMOVE THE TITLE
-        			$(this).parent().parent().remove();
-        		}
-        	});
         	
         	// CLICK FUNCTION FOR SOCIAL DROP-DOWN
         	$("#hp-social-btn").click(function(e){
@@ -2760,6 +3505,16 @@ window.location.href = "https://dcps.duvalschools.org/site/Default.aspx?PageType
 	        		});
         		}
         	});
+        	
+        	// APPLY RESPONSIVE DIMENSIONS TO CONTENT IMAGES
+        	$("div.ui-widget.app .ui-widget-detail img")
+        		.not($("div.ui-widget.app.cs-rs-multimedia-rotator .ui-widget-detail img"))
+        		.not($("div.ui-widget.app.gallery.json .ui-widget-detail img"))
+        		.each(function() {
+        			if ($(this).attr('width') !== undefined && $(this).attr('height') !== undefined) { // IMAGE HAS INLINE DIMENSIONS
+					$(this).css({"display": "inline-block", "width": "100%", "max-width": $(this).attr("width") + "px", "height": "auto", "max-height": $(this).attr("height") + "px"});
+				}
+		});
 
 		
 		// ********** FOOTER ********** //
@@ -2794,11 +3549,11 @@ window.location.href = "https://dcps.duvalschools.org/site/Default.aspx?PageType
 					'	background: #004E83;' +
 					'	background: ' + primaryColor75 + ';' +
 					'}' +
-					'#hp-slideshow .title {' +
+					'#hp-slideshow .rs-photo-gallery-title {' +
 					'	background: #004E83;' +
 					'	background: ' + primaryColor80 + ';' +
 					'}' +
-					'#hp-slideshow .caption {' +
+					'#hp-slideshow .rs-photo-gallery-caption {' +
 					'	background: #BC1E01;' +
 					'	background: ' + tertiaryColor80 + ';' +
 					'}';
@@ -2939,9 +3694,9 @@ window.location.href = "https://dcps.duvalschools.org/site/Default.aspx?PageType
 	function addFramesetTranslate(){
 		var pageURL = window.location.href;
 		var translateDropdown = '<div class="sw-mystart-dropdown translate">' +
-						'<div class="selector">Translate this page...</div>' +
+						'<div class="selector"><span class="hide768">Translate this page...</span><span class="hide960 show768">Translate...</span></div>' +
 						'<div class="sw-dropdown" style="display: none;">' +
-							'<div class="sw-dropdown-selected">Translate this page...</div>' +
+							'<div class="sw-dropdown-selected"><span class="hide768">Translate this page...</span><span class="hide960 show768">Translate...</span></div>' +
 							'<ul class="sw-dropdown-list">' +
 								'<li>' +
 									'<a href="http://translate.google.com/translate?u=' + pageURL + '&langpair=en|es&hl=en&anno=0&ie=UTF8">English to Spanish</a>' +
@@ -2983,7 +3738,7 @@ window.location.href = "https://dcps.duvalschools.org/site/Default.aspx?PageType
 		var pageHost = window.location.host;
 		if(pageHost != "translate.googleusercontent.com")
 		{				
-			$(".gb-footer-translate.two, .gb-footer-translate.three").append(translateDropdown);
+			$("#gb-header-right").append(translateDropdown);
 			$(".sw-mystart-dropdown.translate").click(function()
 			{
 				$(".sw-dropdown",this).show();
@@ -3115,6 +3870,11 @@ window.location.href = "https://dcps.duvalschools.org/site/Default.aspx?PageType
 </head>
 <body>
 
+    <!-- ADA Skip Nav -->
+    <div class="sw-skipnav-outerbar">
+        <a href="#sw-maincontent" id="skipLink" class="sw-skipnav">Skip to Main Content</a>
+    </div>
+
 <!-- off-canvas menu enabled-->
 
 
@@ -3123,7 +3883,7 @@ window.location.href = "https://dcps.duvalschools.org/site/Default.aspx?PageType
 <style type="text/css">
 	/* SPECIAL MODE BAR */
 	div.sw-special-mode-bar {
-		background: #FBC243 url('http://www.duvalschools.org/Static/V2_08_01//GlobalAssets/Images/special-mode-bar-background.png') no-repeat;
+		background: #FBC243 url('http://www.duvalschools.org/Static/V2_10_01//GlobalAssets/Images/special-mode-bar-background.png') no-repeat;
 		height: 30px;
 		text-align: left;
 		font-size: 12px;
@@ -3179,9 +3939,9 @@ window.location.href = "https://dcps.duvalschools.org/site/Default.aspx?PageType
 <div id="sw-mystart-outer" class="noprint">
 <div id="sw-mystart-inner">
 <div id="sw-mystart-left">
-<div class="sw-mystart-button home"><a href="http://www.duvalschools.org/Domain/4" alt="District Home" title="Return to the homepage on the district site."><span>District Home<div id="sw-home-icon"></div>
+<div class="sw-mystart-nav sw-mystart-button home"><a tabindex="0" href="http://www.duvalschools.org/Domain/4" alt="District Home" title="Return to the homepage on the district site."><span>District Home<div id="sw-home-icon"></div>
 </span></a></div>
-<div class="sw-mystart-dropdown schoollist">
+<div class="sw-mystart-nav sw-mystart-dropdown schoollist" tabindex="0">
 <div class="selector">Select a School...</div>
 <div class="sw-dropdown">
 <div class="sw-dropdown-selected">Select a School</div>
@@ -3293,7 +4053,7 @@ window.location.href = "https://dcps.duvalschools.org/site/Default.aspx?PageType
 <li><a href="/Domain/117">Neptune Beach Elementary</a></li>
 <li><a href="/Domain/76">New Berlin Elementary</a></li>
 <li><a href="/Domain/98">Normandy Village Elementary</a></li>
-<li><a href="/Domain/42">North Shore Elementary MicroSociety</a></li>
+<li><a href="/Domain/42">North Shore Elementary: Academy of Science, Math, &amp; Technology</a></li>
 <li><a href="/Domain/158">Northwestern Middle</a></li>
 <li><a href="/Domain/92">Oak Hill Elementary</a></li>
 <li><a href="/Domain/129">Oceanway Elementary</a></li>
@@ -3334,7 +4094,7 @@ window.location.href = "https://dcps.duvalschools.org/site/Default.aspx?PageType
 <li><a href="/Domain/109">Stonewall Jackson Elementary</a></li>
 <li><a href="/Domain/69">Susie E. Tolbert Elementary</a></li>
 <li><a href="/Domain/134">Terry Parker High School</a></li>
-<li><a href="/Domain/154">Eugene J. Butler Middle School</a></li>
+<li><a href="/Domain/154">Young Men's Leadership Academy</a></li>
 <li><a href="/Domain/36">Thomas Jefferson Elementary</a></li>
 <li><a href="/Domain/64">Timucuan Elementary</a></li>
 <li><a href="/Domain/121">Twin Lakes Academy Elementary</a></li>
@@ -3350,14 +4110,15 @@ window.location.href = "https://dcps.duvalschools.org/site/Default.aspx?PageType
 <li><a href="/Domain/61">Windy Hill Elementary</a></li>
 <li><a href="/Domain/58">Woodland Acres Elementary</a></li>
 <li><a href="/Domain/4814">Youth Development Programs</a></li>
+<li><a href="/Domain/7178">Young Women's Leadership Academy</a></li>
 </ul>
 </div>
 <div class="sw-dropdown-arrow"></div>
 </div>
 </div>
 <div id="sw-mystart-right">
-<div class="sw-mystart-button signin"><a href="http://www.duvalschools.org/site/Default.aspx?PageType=7&amp;SiteID=4&amp;IgnoreRedirect=true" title="Sign in to your website."><span>Sign In</span></a></div>
-<div id="sw-mystart-search">
+<div id="ui-btn-signin" class="sw-mystart-button signin"><a href="http://www.duvalschools.org/site/Default.aspx?PageType=7&amp;SiteID=4&amp;IgnoreRedirect=true" title="Sign in to your website."><span>Sign In</span></a></div>
+<div id="sw-mystart-search" class="sw-mystart-nav">
 <script type="text/javascript">
 $(document).ready(function() {
     $('#sw-search-input').keyup(function(e) {        if (e.keyCode == 13) {
@@ -3370,7 +4131,7 @@ window.location.href="http://www.duvalschools.org/site/Default.aspx?PageType=6&S
 }
 </script>
 <input id="sw-search-input" type="text" title="Type the word to search for and click Search." placeholder="Search this Site...">
-<a id="sw-search-button" onclick="SWGoToSearchResultsPageswsearchinput();"><span><img src="http://www.duvalschools.org/Static/V2_08_01//globalassets/images/sw-mystart-search.png" alt="Search"></span></a>
+<a tabindex="0" id="sw-search-button" onclick="SWGoToSearchResultsPageswsearchinput();"><span><img src="http://www.duvalschools.org/Static/V2_10_01//globalassets/images/sw-mystart-search.png" alt="Search"></span></a>
 </div>
 <div class="clear"></div>
 </div>
@@ -3490,35 +4251,38 @@ window.location.href="http://www.duvalschools.org/site/Default.aspx?PageType=6&S
 <span>Students</span></a>
 <ul class="sw-channel-dropdown">
 <li class=""><a href="/domain/5442"><span>Student Information</span></a></li>
-<li class=""><a href="/domain/5450"><span>FCAT Information for Parents &amp; Students</span></a></li>
+<li class=""><a href="/domain/5450"><span>Assessment Information for Parents &amp; Students</span></a></li>
 <li class=""><a href="http://dcps.duvalschools.org/Page/9843"><span>Future Students</span></a></li>
 <li class=""><a href="/domain/5448"><span>Graduation Options</span></a></li>
 <li class=""><a href="/domain/5447"><span>Homework Help</span></a></li>
 <li class=""><a href="/domain/5443"><span>Opportunity Scholarship Program</span></a></li>
-<li class=""><a href="http://dcps.duvalschools.org/Page/12095"><span>School Menus</span></a></li>
+<li class=""><a href="/site/Default.aspx?PageID=9860"><span>School Menus</span></a></li>
 <li class=""><a href="/domain/5286"><span>Student Software</span></a></li>
 <li class=""><a href="/domain/5462"><span>Students Records</span></a></li>
 <li class=""><a href="/domain/6296"><span>Summer Learning</span></a></li>
-<li class=""><a href="/domain/7144"><span>Winter Packets</span></a></li>
 </ul>
 </li><li class="sw-channel-item ">
 <a href="/domain/5457">
 <span>Parents</span></a>
 <ul class="sw-channel-dropdown">
 <li class=""><a href="/domain/5457"><span>Resources</span></a></li>
+<li class=""><a href="http://dcps.duvalschools.org/Page/15067"><span>FSA Info</span></a></li>
+<li class=""><a href="/domain/5453"><span>Report Card Dates</span></a></li>
+<li class=""><a href="/site/Default.aspx?PageID=9193"><span>Transportation</span></a></li>
+<li class=""><a href="/domain/5454"><span>Student Holidays</span></a></li>
+<li class=""><a href="/site/Default.aspx?PageID=9860"><span>School Menus</span></a></li>
 <li class=""><a href="http://dcps.duvalschools.org/Page/7398"><span>Parent Academy</span></a></li>
 <li class=""><a href="/domain/5289"><span>PTA/PTSA</span></a></li>
-<li class=""><a href="/domain/5453"><span>Report Card Dates</span></a></li>
-<li class=""><a href="/site/Default.aspx?PageID=9860"><span>School Menus</span></a></li>
-<li class=""><a href="/domain/5454"><span>Student Holidays</span></a></li>
-<li class=""><a href="http://dcps.duvalschools.org/Page/9397"><span>The Looking Glass</span></a></li>
-<li class=""><a href="http://www.duvalschools.org/Page/7416"><span>Volunteers</span></a></li>
-<li class=""><a href="/site/Default.aspx?PageID=9193"><span>Transportation</span></a></li>
+<li class=""><a href="http://dcps.duvalschools.org/Page/13837"><span>District Advisory Council (DAC)</span></a></li>
 <li class=""><a href="/domain/6455"><span>Supply List</span></a></li>
+<li class=""><a href="/site/Default.aspx?PageID=7416"><span>Volunteer</span></a></li>
 </ul>
 </li><li class="sw-channel-item active">
 <a href="http://www.duvalschools.org/site/Default.aspx?PageType=1&amp;SiteID=4&amp;ChannelID=4378&amp;DirectoryType=6&#10;">
 <span>Departments</span></a>
+</li><li class="sw-channel-item ">
+<a href="http://dcps.duvalschools.org/domain/5270">
+<span>Superintendent</span></a>
 </li><li class="sw-channel-item ">
 <a href="http://dcps.duvalschools.org//Domain/4440">
 <span>School Board</span></a>
@@ -3531,7 +4295,6 @@ window.location.href="http://www.duvalschools.org/site/Default.aspx?PageType=6&S
 <li class=""><a href="/domain/183"><span>Staff Resource Links</span></a></li>
 <li class=""><a href="/domain/5456"><span>District Lists</span></a></li>
 <li class=""><a href="/site/Default.aspx?PageID=9318"><span>ESE Solution Center</span></a></li>
-<li class=""><a href="/domain/5587"><span>Website FAQ's</span></a></li>
 </ul>
 </li></ul><div class="clear"></div>
 </div>
@@ -3662,7 +4425,7 @@ Legal Services</h1>
 
 </ul>
 </span>
-					<!-- Start Centricity Content Area --><div id="sw-content-layout-wrapper" class="ui-sp ui-print"><div id="sw-content-layout1"><div id="sw-content-container1" class="ui-column-one region"><div id="pmi-18622">
+					<!-- Start Centricity Content Area --><a id="sw-maincontent" name="sw-maincontent"></a><div id="sw-content-layout-wrapper" class="ui-sp ui-print"><div id="sw-content-layout1"><div id="sw-content-container1" class="ui-column-one region"><div id="pmi-18622">
 
 
 
@@ -3687,7 +4450,7 @@ Legal Services</h1>
     <div id="module-content-18157">
 <div class="ui-widget app flexpage">
 	<div class="ui-widget-header ui-helper-hidden">
-		<h1></h1>
+		
 	</div>
 	
 	<div class="ui-widget-detail">
@@ -3696,7 +4459,7 @@ Legal Services</h1>
 display: none;
 }
 </style>
-<div><div id="sw-embed-layout-wrapper" class="ui-sp ui-print"><div id="sw-content-layout1"><div id="sw-content-container1" class="ui-column-one region"><div id="pmi-1648">
+<div><a id="sw-maincontent" name="sw-maincontent"></a><div id="sw-embed-layout-wrapper" class="ui-sp ui-print"><div id="sw-content-layout1"><div id="sw-content-container1" class="ui-column-one region"><div id="pmi-1648">
 
 
 
@@ -3859,7 +4622,7 @@ function LoadTaggedData(container, MIID, PMI, tag) {
     <div class="canvas-arrow-border"></div>
     <div class="app-id hidden">#module-content-1484 .ui-widget.app</div>
     <div class="ui-widget-header ui-helper-hidden">
-		<h1></h1>
+		
 	</div>
 	
 	<div class="ui-widget-detail">
@@ -3933,7 +4696,7 @@ function LoadTaggedData(container, MIID, PMI, tag) {
     <div class="canvas-arrow-border"></div>
     <div class="app-id hidden">#module-content-1414 .ui-widget.app</div>
     <div class="ui-widget-header ui-helper-hidden">
-		<h1></h1>
+		
 	</div>
 	
 	<div class="ui-widget-detail">
@@ -4176,7 +4939,7 @@ function LoadTaggedData(container, MIID, PMI, tag) {
 					<img src="/cms/lib07/fl01903657/centricity/template/11/logos/gb-district-logo.png">
 				</a>
 				<div class="footer-copyright hide768">All Content © <script type="text/javascript">var d = new Date();document.write(d.getFullYear());</script>2020 Duval Schools</div>
-				<div class="gb-footer-translate two ui-clear hide960 show768 hide320"></div>
+				<!--<div class="gb-footer-translate two ui-clear hide960 show768 hide320"></div>-->
 			</div>
 			<div class="gb footer three">
 				<div id="gb-footer-social-icons" class="ui-clear">
@@ -4189,7 +4952,7 @@ function LoadTaggedData(container, MIID, PMI, tag) {
 						<a href="/instagram" class="gb-footer-social-icon instagram last"><img src="/cms/lib07/fl01903657/centricity/template/11/social-icons/instagram.png"></a>
 					</div>
 				</div>
-				<div class="gb-footer-translate three hide768 ui-clear"></div>
+				<!--<div class="gb-footer-translate three hide768 ui-clear"></div>-->
 			</div>
 			
 			<div id="gb-disclaimer">
@@ -4213,14 +4976,24 @@ function LoadTaggedData(container, MIID, PMI, tag) {
 <li><a href="http://www.schoolwires.com/terms" target="_blank">Terms of Use</a></li>
 </ul>
 </div>
-<div id="sw-footer-copyright">Copyright © 2002-2014 Schoolwires, Inc. All rights reserved.</div>
+<div id="sw-footer-copyright">Copyright © 2002-2015 Schoolwires, Inc. All rights reserved.</div>
 <div id="sw-footer-logo"><a href="http://www.schoolwires.com" title="This site is powered by Schoolwires Centricity2.">
-<img src="http://www.duvalschools.org/Static/V2_08_01//GlobalAssets/Images/sw-footer-logo.png">
+<img src="http://www.duvalschools.org/Static/V2_10_01//GlobalAssets/Images/sw-footer-logo.png" alt="Powered by Schoolwires Centricity2 logo">
 </a></div>
 </div>
 </div>
 </div>
 <!-- END - STANDARD FOOTER -->
+<script type="text/javascript">
+   $(document).ready(function(){
+      var beaconURL='http://analytics.schoolwires.com/analytics.asmx/Insert?AccountNumber=wpsGdHJhXUyhn%2fjPK6qXmQ%3d%3d&SessionID=d19a5ce2-b56a-4dfa-9d55-b040ffa5bb92&SiteID=4&ChannelID=4378&SectionID=4384&PageID=12667&HitDate=6%2f12%2f2015+5%3a05%3a15+AM&Browser=Unknown+0.0&OS=Unknown&IPAddress=204.236.226.210';
+      try {
+         $.getJSON(beaconURL + '&jsonp=?', function(myData) {});
+      } catch(err) { 
+         // prevent site error for analytics
+      }
+   });
+</script>
   
     <input type="hidden" id="hid-pageid" value="12667">  
  
@@ -4323,6 +5096,7 @@ function LoadTaggedData(container, MIID, PMI, tag) {
 
 
     <script type="text/javascript">
+
 		$(document).ready(function() {
 			removeBrokenImages();
 			checkSidebar();
@@ -4412,22 +5186,24 @@ function LoadTaggedData(container, MIID, PMI, tag) {
 			
 			//SW MYSTART DROPDOWNS
             $(document).on('click', '.sw-mystart-dropdown', function() {
-			    $(this).children(".sw-dropdown").css("display","block");
+                $(this).children(".sw-dropdown").css("display", "block");
 			});
 
 		    $(".sw-mystart-dropdown").hover(function() {}, function() {
-				$(this).children(".sw-dropdown").hide();
+		        $(this).children(".sw-dropdown").hide();
+		        $(this).blur();
             });
 
 		    //SW ACCOUNT DROPDOWN
-            $(document).on('click', '#sw-mystart-account', function() {
-				$(this).children("#sw-myaccount-list").show();
-				$(this).addClass("clicked-state");
-            });
+		    $(document).on('click', '#sw-mystart-account', function() {
+		        $(this).children("#sw-myaccount-list").show();
+		        $(this).addClass("clicked-state");
+		    });
 
 			$("#sw-mystart-account, #sw-myaccount-list").hover(function() {}, function() {
 				$(this).children("#sw-myaccount-list").hide();
 				$(this).removeClass("clicked-state");
+				$("#sw-myaccount").blur();
 			});
 			   
 		   // set hover class for page and section navigation
@@ -4645,18 +5421,18 @@ function LoadTaggedData(container, MIID, PMI, tag) {
 </script>
     
     <script src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.10.1/jquery-ui.min.js" type="text/javascript"></script>
-    <script src="http://www.duvalschools.org/Static/V2_08_01/GlobalAssets/Scripts/min/SW-UI.min.js" type="text/javascript"></script>
-    <script src="http://www.duvalschools.org/Static/V2_08_01/GlobalAssets/Scripts/Initialize.js" type="text/javascript"></script>
-    <script src="http://www.duvalschools.org/Static/V2_08_01/GlobalAssets/Scripts/min/swfobject.min.js" type="text/javascript"></script>
-    <script src="http://www.duvalschools.org/Static/V2_08_01/GlobalAssets/Scripts/min/jquery.ajaxupload.min.js" type="text/javascript"></script> 
+    <script src="http://www.duvalschools.org/Static/V2_10_01/GlobalAssets/Scripts/min/SW-UI.min.js" type="text/javascript"></script>
+    <script src="http://www.duvalschools.org/Static/V2_10_01/GlobalAssets/Scripts/Initialize.js" type="text/javascript"></script>
+    <script src="http://www.duvalschools.org/Static/V2_10_01/GlobalAssets/Scripts/min/swfobject.min.js" type="text/javascript"></script>
+    <script src="http://www.duvalschools.org/Static/V2_10_01/GlobalAssets/Scripts/min/jquery.ajaxupload.min.js" type="text/javascript"></script> 
 
 <!-- Begin swuc.CheckScript -->
-  <script type="text/javascript" src="http://www.duvalschools.org/Static/V2_08_01/GlobalAssets/Scripts/ThirdParty/json2.js"></script>
-  <script type="text/javascript" src="http://www.duvalschools.org/Static/V2_08_01/GlobalAssets/Scripts/CheckScript.js"></script>
+  <script type="text/javascript" src="http://www.duvalschools.org/Static/V2_10_01/GlobalAssets/Scripts/ThirdParty/json2.js"></script>
+  <script type="text/javascript" src="http://www.duvalschools.org/Static/V2_10_01/GlobalAssets/Scripts/CheckScript.js"></script>
 <!-- End swuc.CheckScript -->
 
 
-<!-- Server Load Time (08): 3.3072848 Seconds -->
+<!-- Server Load Time (13): 3.2448832 Seconds -->
 
 
 
