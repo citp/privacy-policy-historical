@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the belgianfootball.be privacy policy that was archived on 2014-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141209124203id_/http%3A//www.belgianfootball.be/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the belgianfootball.be privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612190727id_/http%3A//www.belgianfootball.be/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Royal Belgian Football Association
 
