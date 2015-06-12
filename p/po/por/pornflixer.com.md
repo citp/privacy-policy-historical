@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pornflixer.com privacy policy that was archived on 2014-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141223133221id_/http%3A//www.pornflixer.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pornflixer.com privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612121638id_/http%3A//www.pornflixer.com/policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
