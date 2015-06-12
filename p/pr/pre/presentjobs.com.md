@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the presentjobs.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121142321id_/http%3A//www.presentjobs.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the presentjobs.com privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612073751id_/http%3A//www.presentjobs.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy of PresentJobs.com - Latest Fresher Jobs | Fresher Walkins | Off-Campus - PresentJobs.com
+# Privacy Policy of PresentJobs.com | PresentJobs.com Fresher Jobs | Fresher Walk-Ins | Off-Campus
 
 **Please read carefully the below privacy policy of presentjobs.com**
 
