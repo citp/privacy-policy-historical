@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hollywooddj.com privacy policy that was archived on 2014-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140704030845id_/http%3A//www.hollywooddj.com/cucapr.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hollywooddj.com privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612080002id_/http%3A//www.hollywooddj.com/cucapr.html) for the most accurate reproduction.*
 
 # DJ RESOURCE CENTER - HOLLYWOOD DJ PRIVACY POLICY
 
@@ -91,7 +91,7 @@ This policy was last modified on **September 18, 2009**
 If there are any questions regarding this privacy policy you may contact us using the information below. 
 
 www.hollywooddj.com   
-931 E 11th Street   
+934 E 11th Street   
 Los Angeles, CA 90021   
 USA 
 
