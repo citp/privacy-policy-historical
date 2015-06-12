@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the jasonferruggia.com privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508114021id_/http%3A//jasonferruggia.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jasonferruggia.com privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612021934id_/http%3A//jasonferruggia.com/privacy) for the most accurate reproduction.*
 
-# How to Build Muscle | Strength Training Workouts | Mass Gain Diet | Privacy - How to Build Muscle | Strength Training Workouts | Mass Gain Diet
+# Privacy -
+
+[0 Comments](http://jasonferruggia.com/privacy/#respond)
 
 **Last Updated: December 5, 2010**
 
