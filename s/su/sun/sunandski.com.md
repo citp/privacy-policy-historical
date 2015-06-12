@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sunandski.com privacy policy that was archived on 2014-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140816184622id_/http%3A//www.sunandski.com/Privacy_a/5.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sunandski.com privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612153437id_/http%3A//www.sunandski.com/Privacy_a/5.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
