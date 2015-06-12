@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the joomlaextensions.co.in privacy policy that was archived on 2014-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141128042958id_/http%3A//joomlaextensions.co.in/privacy-policy/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joomlaextensions.co.in privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612053714id_/http%3A//joomlaextensions.co.in/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -33,7 +33,7 @@ If you have any questions about any of these practices or our use of your person
 
 ### Nr, Shiromali complex, Nerunagar, Ahmedabad,
 
-### Gujarat, India  380015.
+### Gujarat, India 380015.
 
 ### Changes to our Privacy Policy
 
