@@ -1,28 +1,30 @@
-<!--The following is the downloaded HTML source of the coolermaster.com privacy policy that was archived on 2014-03-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140329173446id_/http%3A//www.coolermaster.com/company/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the coolermaster.com privacy policy that was archived on 2015-06-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150612165700id_/http%3A//www.coolermaster.com/company/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="zh-tw" lang="zh-tw"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta http-equiv="Cache-Control" content="no-cache">
-<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE8">
-<meta name="Specfication" content="1024x768, IE8">
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE9">
+<meta name="Specfication" content="1024x768, IE9">
 <title>Cooler Master: Privacy</title>
 <base href="http://www.coolermaster.com/">
 <meta name="keywords" content="coolermaster">
 <meta name="description" content="coolermaster">
-<link rel="shortcut icon" type="image/x-icon" href="images/favicon.ico">
-<link rel="icon" type="image/png" href="images/favicon.png">
-<link type="text/css" href="css/base.css" rel="stylesheet">
-<script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
-<script type="text/javascript" src="js/jquery/scrolltopcontrol-min.js"></script>
-<script type="text/javascript" src="js/default-min.js"></script>
-<script type="text/javascript" src="js/flexdropdown-min.js"></script>
-<script type="text/javascript" src="http://cdnjs.cloudflare.com/ajax/libs/flexslider/2.1/jquery.flexslider-min.js"></script>
-<script type="text/javascript" src="http://cdnjs.cloudflare.com/ajax/libs/jquery-mousewheel/3.1.3/jquery.mousewheel.min.js"></script>
+
+<link rel="shortcut icon" type="image/x-icon" href="http://assets.coolermaster.com/global/images/favicon.ico">
+<link rel="icon" type="image/png" href="http://assets.coolermaster.com/global/images/favicon.png">
+<link type="text/css" href="http://assets.coolermaster.com/global/css/base_201501271600.css" rel="stylesheet">
+<script src="https://script.crazyegg.com/pages/scripts/0022/9289.js?438999" async="" type="text/javascript"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+<!--<script type="text/javascript" src="http://assets.coolermaster.com/global/js/jquery/scrolltopcontrol-min.js"></script>-->
+<script type="text/javascript" src="http://assets.coolermaster.com/global/js/jquery/scrolltopcontrol.js"></script>
+<script type="text/javascript" src="http://assets.coolermaster.com/global/js/default-min.js"></script>
+<!--<script type="text/javascript" src="http://assets.coolermaster.com/global/js/flexdropdown-min.js"></script>
+<script type="text/javascript" src="http://assets.coolermaster.com/global/js/jquery.flexslider-min.js"></script>-->
+<script type="text/javascript" src="http://assets.coolermaster.com/global/js/jquery/jquery.mousewheel.min.js"></script>
 <!--[if lt IE 7]> 
-<link href="js/highslide/highslide-ie6.css" rel="stylesheet" type="text/css" media="screen, projection" />
+<link href="http://assets.coolermaster.com/global/js/highslide/highslide-ie6.css" rel="stylesheet" type="text/css" media="screen, projection" />
 <script type="text/javascript" src="http://letskillie6.googlecode.com/svn/trunk/letskillie6.zh_TW.pack.js"></script>
-<script type="text/javascript" src="js/iepngfix_tilebg.js" language="JavaScript"></script>
+<script type="text/javascript" src="http://assets.coolermaster.com/global/js/iepngfix_tilebg.js" language="JavaScript"></script>
 <![endif]--> 
 
 
@@ -53,30 +55,27 @@ $(document).ready(function() {
     });
     $.shopvw01_div(0);
 
-  $(document).click(function(e){
-    $.xshowshop_vw01('close');
+	$(document).click(function(e){
+		$.xshowshop_vw01('close');
 	});
 
-  $(document).keypress(function(e){
-    if(e.keyCode == 13) {
-    	if($("#searchkey01").attr("value") != "" && $("#searchkey01").attr("value") != "Search" ){
-    	  var urlstr = 'http://www.coolermaster.com/product/search/'+$("#searchkey01").attr("value")+'.html';
-    	  window.location = urlstr;
-      }
-    }
+	$(document).keypress(function(e){
+    	if(e.keyCode == 13) {
+    		if($("#searchkey").attr("value") != "" && $("#searchkey").attr("value") != "Search" ){
+				var urlstr = 'http://www.coolermaster.com/search/?q='+$('#searchkey').val();
+				window.location = urlstr;
+			}
+		}
 	});
-
 	$("#seachBar ul").click(function(e) {
 	  e.stopPropagation();
 	});
-
-  $("#seachBar ul").mouseenter(function () {
-  	xshopck01 = 3;
-  });
-  $("#seachBar ul").mouseleave(function () {
-  	xshopck01 = 5;
-  });
-
+	$("#seachBar ul").mouseenter(function () {
+  		xshopck01 = 3;
+	});
+	$("#seachBar ul").mouseleave(function () {
+  		xshopck01 = 5;
+	});
     $.extend({
         xshowshop_vw01:function(event01){
         if($.trim($("#searchkey01").val()) != ''){
@@ -121,10 +120,15 @@ $(document).ready(function() {
 				}
         }
     });
-
+/*
   $("#searchkey01").focus(function () {
 	  if($("#searchkey01").attr("value") == "" || $("#searchkey01").attr("value") == "Search" )
 	    $("#searchkey01").attr("value","");
+  });
+*/
+  $("#searchkey").focus(function () {
+	  if($("#searchkey").attr("value") == "" || $("#searchkey").attr("value") == "Search" )
+	    $("#searchkey").attr("value","");
   });
 
   $("#searchkey01").blur(function () {
@@ -149,12 +153,12 @@ $(document).ready(function() {
 	  $.xshowshop_vw01('auto');
   });
 
-		var xm01_delay_speed   = 300;
+	var xm01_delay_speed   = 300;
     var xm01_ct01_menu     = 0;
-    var xm01_ct01_menu_id  = '';
+	var xm01_ct01_menu_id  = '';
 
-	  var delay = (function(){
-	    var timer = 0;
+	var delay = (function(){
+	var timer = 0;
 	    return function(callback, ms){
 	      clearTimeout (timer);
 	      timer = setTimeout(callback, ms);
@@ -293,502 +297,144 @@ $(document).ready(function() {
       $('.jqflexmenu').find('ul').andSelf().hide();
 	});
 
-  
-		  $("#flprev01").click(function(e) {
-			  e.stopPropagation();
-			  $(".flexslider01").flexslider("prev");
-			});
-			$("#flnext01").click(function(e) {
-			  e.stopPropagation();
-			  $(".flexslider01").flexslider("next");
-			});
-      $(".flexslider01").flexslider({
-        selector: ".items01 > .subMenuArea01",
-        slideshow: false,
-        animationLoop: false,
-        controlNav: false,
-        directionNav: false,
-        direction: "vertical",
-        animation: "slide",
-        animationSpeed: 600,
-        mousewheel: true, 
-        after: function() {
-          var tot01 = $(".flexslider01").find(".subMenuArea01").length;
-          var act01 = $(".flexslider01").find(".subMenuArea01.flex-active-slide").index() + 1;
-          if(act01 > 0 && act01 <= tot01){
-            $("#flprev01").removeClass("disabled");
-          }
-          if(act01 == tot01){
-            $("#flnext01").addClass("disabled");
-          }
-          if(act01 == 1){
-            $("#flprev01").addClass("disabled");
-            $("#flnext01").removeClass("disabled");
-          }
-        }
-      });
-  
-		  $("#flprev02").click(function(e) {
-			  e.stopPropagation();
-			  $(".flexslider02").flexslider("prev");
-			});
-			$("#flnext02").click(function(e) {
-			  e.stopPropagation();
-			  $(".flexslider02").flexslider("next");
-			});
-      $(".flexslider02").flexslider({
-        selector: ".items02 > .subMenuArea02",
-        slideshow: false,
-        animationLoop: false,
-        controlNav: false,
-        directionNav: false,
-        direction: "vertical",
-        animation: "slide",
-        animationSpeed: 600,
-        mousewheel: true, 
-        after: function() {
-          var tot01 = $(".flexslider02").find(".subMenuArea02").length;
-          var act01 = $(".flexslider02").find(".subMenuArea02.flex-active-slide").index() + 1;
-          if(act01 > 0 && act01 <= tot01){
-            $("#flprev02").removeClass("disabled");
-          }
-          if(act01 == tot01){
-            $("#flnext02").addClass("disabled");
-          }
-          if(act01 == 1){
-            $("#flprev02").addClass("disabled");
-            $("#flnext02").removeClass("disabled");
-          }
-        }
-      });
-  
-		  $("#flprev03").click(function(e) {
-			  e.stopPropagation();
-			  $(".flexslider03").flexslider("prev");
-			});
-			$("#flnext03").click(function(e) {
-			  e.stopPropagation();
-			  $(".flexslider03").flexslider("next");
-			});
-      $(".flexslider03").flexslider({
-        selector: ".items03 > .subMenuArea03",
-        slideshow: false,
-        animationLoop: false,
-        controlNav: false,
-        directionNav: false,
-        direction: "vertical",
-        animation: "slide",
-        animationSpeed: 600,
-        mousewheel: true, 
-        after: function() {
-          var tot01 = $(".flexslider03").find(".subMenuArea03").length;
-          var act01 = $(".flexslider03").find(".subMenuArea03.flex-active-slide").index() + 1;
-          if(act01 > 0 && act01 <= tot01){
-            $("#flprev03").removeClass("disabled");
-          }
-          if(act01 == tot01){
-            $("#flnext03").addClass("disabled");
-          }
-          if(act01 == 1){
-            $("#flprev03").addClass("disabled");
-            $("#flnext03").removeClass("disabled");
-          }
-        }
-      });
-  
-		  $("#flprev04").click(function(e) {
-			  e.stopPropagation();
-			  $(".flexslider04").flexslider("prev");
-			});
-			$("#flnext04").click(function(e) {
-			  e.stopPropagation();
-			  $(".flexslider04").flexslider("next");
-			});
-      $(".flexslider04").flexslider({
-        selector: ".items04 > .subMenuArea04",
-        slideshow: false,
-        animationLoop: false,
-        controlNav: false,
-        directionNav: false,
-        direction: "vertical",
-        animation: "slide",
-        animationSpeed: 600,
-        mousewheel: true, 
-        after: function() {
-          var tot01 = $(".flexslider04").find(".subMenuArea04").length;
-          var act01 = $(".flexslider04").find(".subMenuArea04.flex-active-slide").index() + 1;
-          if(act01 > 0 && act01 <= tot01){
-            $("#flprev04").removeClass("disabled");
-          }
-          if(act01 == tot01){
-            $("#flnext04").addClass("disabled");
-          }
-          if(act01 == 1){
-            $("#flprev04").addClass("disabled");
-            $("#flnext04").removeClass("disabled");
-          }
-        }
-      });
     
-	  $(document).on("click","#ex_flprev01", function(e) {
-			  e.stopPropagation();
-			  $(".ex_flexslider01").flexslider("prev");
-	  });
-	  $(document).on("click","#ex_flnext01", function(e) {
-			  e.stopPropagation();
-			  $(".ex_flexslider01").flexslider("next");
-	  });
-  
-      $(".ex_flexslider01").flexslider({
-        selector: ".ex_items01 > .ex_subMenuArea01",
-        slideshow: false,
-        animationLoop: false,
-        controlNav: false,
-        directionNav: false,
-        direction: "vertical",
-        animation: "slide",
-        animationSpeed: 600,
-        mousewheel: true, 
-        after: function() {
-          var tot01 = $(".ex_flexslider01").find(".ex_subMenuArea01").length;
-          var act01 = $(".ex_flexslider01").find(".ex_subMenuArea01.flex-active-slide").index() + 1;
-          if(act01 > 0 && act01 <= tot01){
-            $("#ex_flprev01").removeClass("disabled");
-          }
-          if(act01 == tot01){
-            $("#ex_flnext01").addClass("disabled");
-          }
-          if(act01 == 1){
-            $("#ex_flprev01").addClass("disabled");
-            $("#ex_flnext01").removeClass("disabled");
-          }
-        }
-      });
-  
-	  $(document).on("click","#ex_flprev02", function(e) {
-			  e.stopPropagation();
-			  $(".ex_flexslider02").flexslider("prev");
-	  });
-	  $(document).on("click","#ex_flnext02", function(e) {
-			  e.stopPropagation();
-			  $(".ex_flexslider02").flexslider("next");
-	  });
-  
-      $(".ex_flexslider02").flexslider({
-        selector: ".ex_items02 > .ex_subMenuArea02",
-        slideshow: false,
-        animationLoop: false,
-        controlNav: false,
-        directionNav: false,
-        direction: "vertical",
-        animation: "slide",
-        animationSpeed: 600,
-        mousewheel: true, 
-        after: function() {
-          var tot01 = $(".ex_flexslider02").find(".ex_subMenuArea02").length;
-          var act01 = $(".ex_flexslider02").find(".ex_subMenuArea02.flex-active-slide").index() + 1;
-          if(act01 > 0 && act01 <= tot01){
-            $("#ex_flprev02").removeClass("disabled");
-          }
-          if(act01 == tot01){
-            $("#ex_flnext02").addClass("disabled");
-          }
-          if(act01 == 1){
-            $("#ex_flprev02").addClass("disabled");
-            $("#ex_flnext02").removeClass("disabled");
-          }
-        }
-      });
-  
-	  $(document).on("click","#ex_flprev03", function(e) {
-			  e.stopPropagation();
-			  $(".ex_flexslider03").flexslider("prev");
-	  });
-	  $(document).on("click","#ex_flnext03", function(e) {
-			  e.stopPropagation();
-			  $(".ex_flexslider03").flexslider("next");
-	  });
-  
-      $(".ex_flexslider03").flexslider({
-        selector: ".ex_items03 > .ex_subMenuArea03",
-        slideshow: false,
-        animationLoop: false,
-        controlNav: false,
-        directionNav: false,
-        direction: "vertical",
-        animation: "slide",
-        animationSpeed: 600,
-        mousewheel: true, 
-        after: function() {
-          var tot01 = $(".ex_flexslider03").find(".ex_subMenuArea03").length;
-          var act01 = $(".ex_flexslider03").find(".ex_subMenuArea03.flex-active-slide").index() + 1;
-          if(act01 > 0 && act01 <= tot01){
-            $("#ex_flprev03").removeClass("disabled");
-          }
-          if(act01 == tot01){
-            $("#ex_flnext03").addClass("disabled");
-          }
-          if(act01 == 1){
-            $("#ex_flprev03").addClass("disabled");
-            $("#ex_flnext03").removeClass("disabled");
-          }
-        }
-      });
-  
-	  $(document).on("click","#ex_flprev04", function(e) {
-			  e.stopPropagation();
-			  $(".ex_flexslider04").flexslider("prev");
-	  });
-	  $(document).on("click","#ex_flnext04", function(e) {
-			  e.stopPropagation();
-			  $(".ex_flexslider04").flexslider("next");
-	  });
-  
-      $(".ex_flexslider04").flexslider({
-        selector: ".ex_items04 > .ex_subMenuArea04",
-        slideshow: false,
-        animationLoop: false,
-        controlNav: false,
-        directionNav: false,
-        direction: "vertical",
-        animation: "slide",
-        animationSpeed: 600,
-        mousewheel: true, 
-        after: function() {
-          var tot01 = $(".ex_flexslider04").find(".ex_subMenuArea04").length;
-          var act01 = $(".ex_flexslider04").find(".ex_subMenuArea04.flex-active-slide").index() + 1;
-          if(act01 > 0 && act01 <= tot01){
-            $("#ex_flprev04").removeClass("disabled");
-          }
-          if(act01 == tot01){
-            $("#ex_flnext04").addClass("disabled");
-          }
-          if(act01 == 1){
-            $("#ex_flprev04").addClass("disabled");
-            $("#ex_flnext04").removeClass("disabled");
-          }
-        }
-      });
-  
 });
 </script>
 </head>
 
 <body class="other">
+<script type="text/javascript">
+$(document).ready(function() {
 
+	$("#menuMain .c01").mouseover(function () {
+		//alert("1");
+		//$("#menuMain .dropDownDiv").slideDown();
+		//alert("2");
+
+		var idx01 = $("#menuMain .c01").index(this);
+		$("#menuMain ul li").removeClass("sel");
+		$("#menuMain ul li").eq(idx01).addClass("sel");
+	  if(idx01 == 0){
+	    var vwstr = $("#menuMain ul li div").eq(idx01).css('display');
+		  if(vwstr == "block"){
+		    //$("#menuMain ul li div").eq(idx01).slideUp();
+		  }else{
+		    $("#menuMain ul li div").eq(idx01).slideDown(200);
+		  }
+	  }else{
+	  	//$("#menuMain ul li div.eq(0)").slideUp(800);
+	  }
+
+	});
+
+	$("#menuMain ul li:eq(0)").mouseleave(function () {
+		    $("#menuMain ul li").removeClass("sel");
+		    $("#menuMain ul li div").eq(0).slideUp(200);
+	});
+//
+//	$("#menuMain .c01").mouseover (function () {
+//		    $("#menuMain ul li").removeClass("sel");
+//		    $("#menuMain ul li:eq(0)").addClass("sel");
+//		    $("#menuMain ul li div").eq(0).slideDown(800);
+//	});
+
+  
+						$(".Gaming_vw01").click(function () {
+						  window.location = "http://gaming.coolermaster.com";
+						});
+						$(".Gaming_vw01").mouseenter(function () {
+						  $(this).css("cursor","pointer");
+						});
+						$(".Gaming_vw01").mouseleave(function () {
+						  $(this).css("cursor","auto");
+						});
+    	  
+});
+</script>
+<div style="position: fixed; left: 0; top: 0; width: 100%; z-index: 100;">
 <div id="header">
 	<div class="content">
-    <div class="quickLinks" id="indicator"><a href="http://community.coolermaster.com" target="_blank">Community</a>｜<a href="service/support.html">Support</a>｜<a href="service/whereToBuy.html">Where to buy?</a></div>
-	   <a href="http://www.coolermaster.com/" class="logo"><img src="images/logo.gif" width="107" height="86" alt=" "></a>
+    <div class="quickLinks"><a href="http://community.coolermaster.com/" target="_blank">Forum </a> | <a href="http://account.coolermaster.com/" target="_blank"><img src="http://assets.coolermaster.com/global/images/2014/icon/login.gif" alt="Login"> Login</a><a href="http://account.coolermaster.com/Register.aspx" target="_blank"><img src="http://assets.coolermaster.com/global/images/2014/icon/signUp.gif" alt="Sign Up"> Sign Up</a></div>
+	  <a href="http://www.coolermaster.com/" class="logo"><img src="http://assets.coolermaster.com/images/logo2015_black_slogan.png" alt=""></a>
+
     <div id="seachBar">
-      <input type="text" name="searchkey01" id="searchkey01" value="Search" class="searchInput"><span><input type="image" src="images/header_searchBtn.gif" name="searchbtn01" id="searchbtn01" align="absbottom"></span>
+    	<form action="#" method="post" onsubmit="location.href='/search/?q='+$('#searchkey').val(); return false;">
+    	<input type="text" name="searchkey" id="searchkey" value="Search" class="searchInput"><span><input type="image" src="http://assets.coolermaster.com/global/images/2014/icon/search_submit.jpg" name="searchbtn01" id="searchbtn01" align="absbottom"></span>
+    	</form>
     	<ul></ul>
     </div>
+
+    <div id="menuMain">    
+        <ul>
+            <li class="haveDropDown1"><a href="javascript:void(0);" class="c01">PRODUCTS</a>
+            	<div class="dropDownDiv">
+                    <dl>
+                    	<dd style="background-image: none;">
+<div style="height: 230px;">
+<h3>Cooling</h3>
+<a href="http://www.coolermaster.com/product/Lines/cpu-air-cooler/">CPU Air Cooler</a>
+<a href="http://www.coolermaster.com/product/Lines/cpu-liquid-cooler/">CPU Liquid Cooler</a>
+<a href="http://www.coolermaster.com/product/Lines/case-fan/">Case Fan</a>
+<a href="http://www.coolermaster.com/product/Lines/thermal-compound/">Thermal Grease</a>
+<a href="http://www.coolermaster.com/product/Lines/cooling-accessories/">Accessories</a>
+<a href="http://www.coolermaster.com/product/Lines/oem-cooler/">OEM Cooler</a>
+</div>
+</dd>
+<dd>
+<div style="height: 230px;">
+<h3>Case</h3>
+<a href="http://www.coolermaster.com/product/Lines/full-tower/">Full Tower</a>
+<a href="http://www.coolermaster.com/product/Lines/mid-tower/">Mid Tower</a>
+<a href="http://www.coolermaster.com/product/Lines/mini-tower/">Mini Tower</a>
+<a href="http://www.coolermaster.com/product/Lines/mini-itx/">Mini ITX</a>
+<a href="http://www.coolermaster.com/product/Lines/lan-box/">Lan Box</a>
+<a href="http://www.coolermaster.com/product/Lines/test-bench/">Test Bench</a>
+<a href="http://www.coolermaster.com/product/Lines/case-accessories/">Accessories</a>
+</div>
+</dd>
+<dd>
+<div style="height: 230px;">
+<h3>Power Supply</h3>
+<a href="http://www.coolermaster.com/product/Lines/enthusiast-v-series/">V Series</a>
+<a href="http://www.coolermaster.com/product/Lines/v-sm-series/">V Semi-Modular Series</a>
+<a href="http://www.coolermaster.com/product/Lines/gm-series/">GM Series</a>
+<a href="http://www.coolermaster.com/product/Lines/gx-series/">New GX (CM Storm Edition)</a>
+<a href="http://www.coolermaster.com/product/Lines/b-series/">B Series</a>
+<a href="http://www.coolermaster.com/product/Lines/thunder-series/">Thunder Series</a>
+<a href="http://www.coolermaster.com/product/Lines/elite-series/">Elite Series</a>
+</div>
+</dd>
+<dd>
+<div style="height: 230px;">
+<h3>Mobile</h3>
+<a href="http://www.coolermaster.com/product/Lines/smartphones-series/">Smartphones</a>
+<a href="http://www.coolermaster.com/product/Lines/tablets-series/">Tablets</a>
+<a href="http://www.coolermaster.com/product/Lines/laptops_and_ultrabooks/">Laptops &amp; Ultrabooks</a>
+<a href="http://www.coolermaster.com/product/Lines/notepal-series/">NotePal</a>
+</div>
+</dd>
+
+                        <dd class="Gaming_vw01" style="background-image: url(http://assets.coolermaster.com/global/uploadfile/fileproduct_menu_link01/1_3034f270484ce265bd56cd7c412c8c14_1406159412.png);">
+                            <h3>Gaming</h3>
+                        </dd>
+                          </dl>
+            	</div>
+            </li>
+            <li><a href="/fanzone/" class="c01">FANZONE</a></li>
+            <li><a href="http://support.coolermaster.com" class="c01" target="_blank">SUPPORT</a></li>
+            <li><a href="http://www.coolermaster.com/service/whereToBuy.html" class="c01">WHERE TO BUY</a></li>
+            <!--li><a href="http://community.coolermaster.com" class="c01" target="_blank">FORUM</a></li-->
+        </ul>
+        
+    </div>
     
-    <ul id="menuMain">
-    	 <li class="menu01"><a href="javascript:void(0);" data-flexmenu="flexmenu1">Cooling</a></li>
-<li class="menu02"><a href="javascript:void(0);" data-flexmenu="flexmenu2">Case</a></li>
-<li class="menu03"><a href="javascript:void(0);" data-flexmenu="flexmenu3">Power Supply</a></li>
-<li class="menu04"><a href="javascript:void(0);" data-flexmenu="flexmenu4">Mobile</a></li>
-    	 <li class="menu05"><a href="javascript:void(0);" data-flexmenu="flexmenu9">CM STORM</a></li>
-    </ul>
-    
-     <div id="flexmenu1" class="flexdropdownmenu">
-	    <div class="sub2Area">
-        	<a class="prev disabled" id="flprev01"></a>
-            <div class="flexslider01 subMenu1 vertical"> 
-              <div class="items01">
-  <div class="subMenuArea subMenuArea01">
-<a href="javascript:void(0);" class="subMenuList" id="P130218000258b4">CPU Air Cooler</a>
-<a href="javascript:void(0);" class="subMenuList" id="P1302180071d0fd">CPU Liquid Cooler</a>
-<a href="javascript:void(0);" class="subMenuList" id="P130218003526af">OEM Cooler</a>
-<a href="javascript:void(0);" class="subMenuList" id="P13021800231682">Case Fan</a>
-<a href="javascript:void(0);" class="subMenuList" id="P13021800319746">Thermal Compound</a>
-<a href="javascript:void(0);" class="subMenuList" id="P13021801027fe2">Accessories</a>
-</div>
-
-		              </div>
-		            </div>
-		            <a class="next disabled" id="flnext01"></a>
-		        </div>
-		  
-
-        <div id="flexmenu_sub1">
-        
-	    <div class="sub3Area" style="background-image: url(uploadfile/fileproduct_class_lv01/P130218000258b4/1_29248137394dca137c1011cca887f6f7_1374179722.png);">
-        	<a class="prev disabled" id="ex_flprev01"></a>
-            <div class="ex_flexslider01 subMenu1 vertical"> 
-              <div class="ex_items01">
-  <div class="subMenuArea ex_subMenuArea01">
-<a href="http://www.coolermaster.com/product/Lines/tpc-series.html" class="subMenuList" id="P1302180101735b">TPC Series</a>
-<a href="http://www.coolermaster.com/product/Lines/v-series.html" class="subMenuList" id="P130218006595e9">V Series</a>
-<a href="http://www.coolermaster.com/product/Lines/hyper-series.html" class="subMenuList" id="P1302180066042a">Hyper Series</a>
-<a href="http://www.coolermaster.com/product/Lines/geminii-series.html" class="subMenuList" id="P13021800885b22">GeminII Series</a>
-<a href="http://www.coolermaster.com/product/Lines/vortex-series.html" class="subMenuList" id="P1302180067020b">Vortex Series</a>
-<a href="http://www.coolermaster.com/product/Lines/xdream-series.html" class="subMenuList" id="T13090300013cf2">X Dream Series</a>
-<a href="http://www.coolermaster.com/product/Lines/cooler-others.html" class="subMenuList" id="P13021800939ce7">Others</a>
-</div>
-
-		              </div>
-		            </div>
-		            <a class="next disabled" id="ex_flnext01"></a>
-		        </div>
-		  
-        </div>
-
-        </div>
-   <div id="flexmenu2" class="flexdropdownmenu">
-	    <div class="sub2Area">
-        	<a class="prev disabled" id="flprev02"></a>
-            <div class="flexslider02 subMenu2 vertical"> 
-              <div class="items02">
-  <div class="subMenuArea subMenuArea02">
-<a href="javascript:void(0);" class="subMenuList" id="P13021800129806">Full Tower</a>
-<a href="javascript:void(0);" class="subMenuList" id="P1302180013dfd2">Mid Tower</a>
-<a href="javascript:void(0);" class="subMenuList" id="P13021800144fd0">Mini Tower</a>
-<a href="javascript:void(0);" class="subMenuList" id="P13021800636e31">Mini ITX</a>
-<a href="javascript:void(0);" class="subMenuList" id="P13021801393bb5">Lan Box</a>
-<a href="javascript:void(0);" class="subMenuList" id="P13021800749074">Test Bench</a>
-<a href="javascript:void(0);" class="subMenuList" id="P13021801037c43">Accessories</a>
-</div>
-
-		              </div>
-		            </div>
-		            <a class="next disabled" id="flnext02"></a>
-		        </div>
-		  
-
-        <div id="flexmenu_sub2">
-        
-	    <div class="sub3Area" style="background-image: url(uploadfile/fileproduct_class_lv01/P13021800129806/1_6283b2e3de9a3b073cf36f7e5285df28_1377545535.png);">
-        	<a class="prev disabled" id="ex_flprev02"></a>
-            <div class="ex_flexslider02 subMenu2 vertical"> 
-              <div class="ex_items02">
-  <div class="subMenuArea ex_subMenuArea02">
-<a href="http://www.coolermaster.com/product/Lines/full-tower-cosmos-series.html" class="subMenuList" id="T1303060089b743">COSMOS Series</a>
-<a href="http://www.coolermaster.com/product/Lines/full-tower-haf-series.html" class="subMenuList" id="T1303060001ea36">HAF Series</a>
-</div>
-
-		              </div>
-		            </div>
-		            <a class="next disabled" id="ex_flnext02"></a>
-		        </div>
-		  
-        </div>
-
-        </div>
-   <div id="flexmenu3" class="flexdropdownmenu">
-	    <div class="sub2Area">
-        	<a class="prev disabled" id="flprev03"></a>
-            <div class="flexslider03 subMenu3 vertical"> 
-              <div class="items03">
-  <div class="subMenuArea subMenuArea03">
-<a href="javascript:void(0);" class="subMenuList" id="T1307150001dacc">Enthusiast</a>
-<a href="javascript:void(0);" class="subMenuList" id="T1307150001560f">Gaming</a>
-<a href="javascript:void(0);" class="subMenuList" id="T1307150001efd7">Ultra Silent</a>
-<a href="javascript:void(0);" class="subMenuList" id="T13071500019eed">Modular</a>
-<a href="javascript:void(0);" class="subMenuList" id="T130715000197e2">Office/Home</a>
-
-  		<a href="/psu_guide/enthusiast.html"><img src="/images/psuguide/psu-guide-banner.png" style="padding-left:2px;padding-top:10px;" width="190" border="0"></a>
-  	</div>
-
-		              </div>
-		            </div>
-		            <a class="next disabled" id="flnext03"></a>
-		        </div>
-		  
-
-        <div id="flexmenu_sub3">
-        
-	    <div class="sub3Area" style="background-image: url(uploadfile/fileproduct_class_lv01/T1307150001dacc/1_4abb0d062e1c9c54176c1d383eb27cd7_1376598011.png);">
-        	<a class="prev disabled" id="ex_flprev03"></a>
-            <div class="ex_flexslider03 subMenu3 vertical"> 
-              <div class="ex_items03">
-  <div class="subMenuArea ex_subMenuArea03">
-<a href="http://www.coolermaster.com/product/Lines/enthusiast-v-series.html" class="subMenuList" id="T1307150001079d">V Series</a>
-<a href="http://www.coolermaster.com/product/Lines/enthusiast-silent-pro-m2.html" class="subMenuList" id="T13071500014f5a">Silent Pro M2</a>
-<a href="http://www.coolermaster.com/product/Lines/enthusiast-silent-pro-platinum.html" class="subMenuList" id="T1307150001b1a7">Silent Pro Platinum</a>
-<a href="http://www.coolermaster.com/product/Lines/enthusiast-silent-pro-gold.html" class="subMenuList" id="T13071500018bfc">Silent Pro Gold</a>
-<a href="http://www.coolermaster.com/product/Lines/enthusiast-silent-pro-hybrid.html" class="subMenuList" id="T1307150001ad59">Silent Pro Hybrid</a>
-</div>
-
-		              </div>
-		            </div>
-		            <a class="next disabled" id="ex_flnext03"></a>
-		        </div>
-		  
-        </div>
-
-        </div>
-   <div id="flexmenu4" class="flexdropdownmenu">
-	    <div class="sub2Area">
-        	<a class="prev disabled" id="flprev04"></a>
-            <div class="flexslider04 subMenu4 vertical"> 
-              <div class="items04">
-  <div class="subMenuArea subMenuArea04">
-<a href="javascript:void(0);" class="subMenuList" id="T1303260001ab46">Smartphones</a>
-<a href="javascript:void(0);" class="subMenuList" id="P1302180135c985">Tablets</a>
-<a href="javascript:void(0);" class="subMenuList" id="T13071500015541">Laptops &amp; Ultrabooks</a>
-<a href="javascript:void(0);" class="subMenuList" id="T1303100001800e">NotePal</a>
-</div>
-
-		              </div>
-		            </div>
-		            <a class="next disabled" id="flnext04"></a>
-		        </div>
-		  
-
-        <div id="flexmenu_sub4">
-        
-	    <div class="sub3Area" style="background-image: url(uploadfile/fileproduct_class_lv01/T1303260001ab46/1_ef12b35b6438efa511dba4d48c565ca8_1378682046.png);">
-        	<a class="prev disabled" id="ex_flprev04"></a>
-            <div class="ex_flexslider04 subMenu4 vertical"> 
-              <div class="ex_items04">
-  <div class="subMenuArea ex_subMenuArea04">
-<a href="http://www.coolermaster.com/product/Lines/cases.html" class="subMenuList" id="T13032600017059">Cases</a>
-<a href="http://www.coolermaster.com/product/Lines/stands-docks.html" class="subMenuList" id="T13071500018271">Stands &amp; Docks</a>
-<a href="http://www.coolermaster.com/product/Lines/audio.html" class="subMenuList" id="T1307150001ac88">Audio</a>
-<a href="http://www.coolermaster.com/product/Lines/cables-power.html" class="subMenuList" id="T13071500014c6f">Cables &amp; Power</a>
-</div>
-
-		              </div>
-		            </div>
-		            <a class="next disabled" id="ex_flnext04"></a>
-		        </div>
-		  
-        </div>
-
-        </div>
-  
-<!-- CM STORM -->
-   <div id="flexmenu9" class="flexdropdownmenu2">
-	    <div class="sub3Area" style="background-image: url(uploadfile/Havoc.png);">
-        	<a class="prev disabled" id="flprev05"></a>
-            <div class="flexslider05 subMenu5 vertical"> 
-              <div class="items05">
-<div class="subMenuArea subMenuArea05">
-<a href="http://www.cmstorm.com/en/products/accessories/" class="subMenuList" target="_blank">Gaming Accessories</a>
-<a href="http://www.cmstorm.com/en/products/audio/" class="subMenuList" target="_blank">Gaming Audio</a>
-<a href="http://www.cmstorm.com/en/products/chassis/" class="subMenuList" target="_blank">Gaming Chassis</a>
-<a href="http://www.cmstorm.com/en/products/keyboards/" class="subMenuList" target="_blank">Gaming Keyboards</a>
-<a href="http://www.cmstorm.com/en/products/peripherals/" class="subMenuList" target="_blank">Gaming Mice</a>
-<a href="http://www.cmstorm.com/en/products/surfaces/" class="subMenuList" target="_blank">Gaming Padz</a>
-</div>
-              </div>
-            </div>
-        	<a class="next disabled" id="flnext05"></a>
-	    </div>
-   </div>
-<!-- CM STORM -->
-
     </div>
 </div>
-
- 
+</div>
 
 <div id="wrapper" class="company">
 
-	<p class="districtsPic" style="background-image: url(uploadfile/fileadv_privacy01/M1211210001e90b/1_315f3ff42d7595048e135f86f41256a5_1353906850.jpg);">Privacy</p>
+	<p class="districtsPic" style="background-image: url(http://assets.coolermaster.com/global/uploadfile/fileadv_privacy01/M1211210001e90b/1_315f3ff42d7595048e135f86f41256a5_1353906850.jpg);">Privacy</p>
 
   	<p class="breadCrumbs"><a href="http://www.coolermaster.com/">Home</a> / COMPANY / Privacy</p>
     <div class="mainContent">
@@ -877,74 +523,89 @@ Your Ability to Edit and Delete Your Account Information and Preferences</p>
       
     </div>
 </div>
-<ul id="otherLink">
+<style>
+#social-navlist {position: relative;}
+#social-navlist li {margin: 0;padding: 0;list-style: none;position: absolute;top: 0;}
+#social-navlist li, #social-navlist a {height: 32px;display: block;}
+#social-facebook {left: 0px;width:32px;height:32px;background: url('http://assets.coolermaster.com/fanzone/images/ico-facebook-v2.png') 0 0;}
+#social-facebook a:hover {background: url('http://assets.coolermaster.com/fanzone/images/ico-facebook-v2.png') 0 -32px;}
+#social-twitter {left: 35px;width:32px;height:32px;background: url('http://assets.coolermaster.com/fanzone/images/ico-twitter-v2.png') 0 0;}
+#social-twitter a:hover {background: url('http://assets.coolermaster.com/fanzone/images/ico-twitter-v2.png') 0 -32px;}
+#social-reddit {left: 70px;width:32px;height:32px;background: url('http://assets.coolermaster.com/fanzone/images/ico-reddit-v2.png') 0 0;}
+#social-reddit a:hover {background: url('http://assets.coolermaster.com/fanzone/images/ico-reddit-v2.png') 0 -32px;}
+#social-youtube {left: 105px;width:32px;height:32px;background: url('http://assets.coolermaster.com/fanzone/images/ico-youtube-v2.png') 0 0;}
+#social-youtube a:hover {background: url('http://assets.coolermaster.com/fanzone/images/ico-youtube-v2.png') 0 -32px;}
+</style>
+<div id="footer">
+    <div class="otherLink">
+        <ul>
 <li>
 <strong>COMPANY</strong>
-<a href="company/aboutUs.html" target="_self">About us</a><br>
-<a href="company/newsList.html" target="_self">News</a><br>
-<a href="company/careersList.html" target="_self">Careers</a><br>
-<a href="company/privacy.html" target="_self">Privacy policy</a><br>
-<a href="company/privacy-Terms_of_Use.html" target="_self">Terms of use</a><br>
-<a href="company/siteMap.html" target="_self">Site Map</a><br>
-<a href="/microsite/timeline/" target="_blank">Timeline</a><br>
-</li>
-<li>
-<strong>SOCIAL MEDIA</strong>
-<a href="http://www.facebook.com/coolermaster" target="_blank">Facebook</a><br>
-<a href="http://twitter.com/coolermaster" target="_blank">Twitter</a><br>
-<a href="http://www.reddit.com/r/coolermaster" target="_blank">Reddit</a><br>
-<a href="http://www.youtube.com/coolermasteronline" target="_blank">Youtube</a><br>
-<a href="http://community.coolermaster.com" target="_blank">Forum</a><br>
+<a href="company/aboutUs.html" target="_self">About us</a>
+<a href="company/newsList.html" target="_self">News</a>
+<a href="company/careersList.html" target="_self">Careers</a>
+<a href="company/privacy.html" target="_self">Privacy policy</a>
+<a href="company/privacy-Terms_of_Use.html" target="_self">Terms of use</a>
+<a href="company/siteMap.html" target="_self">Site Map</a>
+<a href="/microsite/timeline/" target="_blank">Timeline</a>
 </li>
 <li>
 <strong>MARKETING</strong>
-<a href="http://channel.coolermaster.com/" target="_blank">Channel Partner Station</a><br>
-<a href="marketing/wallpaper.html" target="_self">Wallpaper</a><br>
-<a href="http://www.coolermaster.outervision.com/" target="_blank">PSU Calculator</a><br>
-<a href="http://goo.gl/xqm5Kn" target="_blank">Mobile e-Catalog</a><br>
-<a href="http://goo.gl/6MPknZ" target="_blank">Help Us - Take Survey</a><br>
+<a href="http://channel.coolermaster.com/" target="_blank">Channel Partner Station</a>
+<a href="marketing/wallpaper.html" target="_self">Wallpaper</a>
+<a href="http://www.coolermaster.outervision.com/" target="_blank">PSU Calculator</a>
+<a href="http://goo.gl/xqm5Kn" target="_blank">Mobile e-Catalog</a>
+<a href="http://goo.gl/6MPknZ" target="_blank">Help Us - Take Survey</a>
 </li>
 <li>
 <strong>SERVICE</strong>
-<a href="http://support.coolermaster.com/anonymous_requests/new" target="_blank">Tech Support</a><br>
-<a href="http://erma.coolermaster.com/member/b2c_product_reg.php" target="_blank">Product register</a><br>
-<a href="service/warranty.html" target="_self">Warranty</a><br>
-<a href="service/glossary.html" target="_self">Glossary</a><br>
-<a href="service/tutorial.html" target="_self">Tutorial</a><br>
-<a href="/service/support.html" target="_self">Discontinued Products</a><br>
-<a href="service/contactUs.html" target="_self">Contact us</a><br>
+<a href="http://account.coolermaster.com/" target="_blank">Tech Support</a>
+<a href="http://account.coolermaster.com/" target="_blank">Product register</a>
+<a href="service/warranty.html" target="_self">Warranty</a>
+<a href="/service/support.html" target="_self">Discontinued Products</a>
+<a href="service/contactUs.html" target="_self">Contact us</a>
+<a href="https://account.coolermaster.com/b2blogon.aspx" target="_blank">Distributor RMA (B2B)</a>
 </li>
-</ul>
-<div id="footer">
-	<div class="facebookLike"></div>
-    
+		<li>
+			<strong>SOCIAL MEDIA</strong>
+			<ul id="social-navlist">
+			    <li id="social-facebook"><a href="http://www.facebook.com/coolermaster" target="_blank"></a></li>
+			    <li id="social-twitter"><a href="http://twitter.com/coolermaster" target="_blank"></a></li>
+			    <li id="social-reddit"><a href="http://www.reddit.com/r/coolermaster" target="_blank"></a></li>
+			    <li id="social-youtube"><a href="http://www.youtube.com/coolermasteronline" target="_blank"></a></li>
+			</ul>
+		</li>
+			
+        </ul>
+    </div>
+   
     <div class="copyright">
         <div class="content">
             <div class="languageArea">
-                <div class="flag"><img src="images/flag/global.jpg" alt="global"></div>
+                <div class="flag"><img src="http://assets.coolermaster.com/global/images/flag/global.jpg" width="16" height="16" alt="Global"></div>
                 <a href="service/language.html"></a>
             </div>
-            <p>©2014 Cooler Master Co., Ltd. All rights reserved.</p>
+            <p>© Cooler Master Corporation</p>
         </div>
     </div>
 </div>
 
-<a href="http://goo.gl/6MPknZ" target="_blank" class="feedback"></a>
+<!--a href="http://goo.gl/6MPknZ" target="_blank" class="feedback"></a-->
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-3564273-1', 'auto');
+  ga('send', 'pageview');
+</script>
+
 <script type="text/javascript">
-
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-3564273-1']);
-  _gaq.push(['_setDomainName', 'coolermaster.com']);
-  _gaq.push(['_trackPageview']);
-
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
-
-  !function(){var n=0,i=10,e=$(window),t=$(document),o=function(){return Math.floor((e.height()+e.scrollTop())/t.height()*(100/i))*i},r=function(i){n=i,_gaq.push(["_trackEvent",document.title,"scroll reach",n+"%",n,!0])},a=function(){for(;o()>n;)r(n+i)};a(),e.scroll(a)}();
-
+setTimeout(function(){var a=document.createElement("script");
+var b=document.getElementsByTagName("script")[0];
+a.src=document.location.protocol+"//script.crazyegg.com/pages/scripts/0022/9289.js?"+Math.floor(new Date().getTime()/3600000);
+a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
 </script>
 
 </body></html>
