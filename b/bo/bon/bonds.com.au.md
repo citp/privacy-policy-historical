@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bonds.com.au privacy policy that was archived on 2014-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141216164003id_/http%3A//www.bonds.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bonds.com.au privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612220054id_/http%3A//www.bonds.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | BONDS Australia
 
