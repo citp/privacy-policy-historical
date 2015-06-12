@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coolermaster.com privacy policy that was archived on 2014-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140329173446id_/http%3A//www.coolermaster.com/company/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coolermaster.com privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612165700id_/http%3A//www.coolermaster.com/company/privacy.html) for the most accurate reproduction.*
 
 # Cooler Master: Privacy
 
