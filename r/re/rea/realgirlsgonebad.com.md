@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the realgirlsgonebad.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701163256id_/http%3A//www.realgirlsgonebad.com/www/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realgirlsgonebad.com privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612123638id_/http%3A//www.realgirlsgonebad.com/www/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # RealGirlsGoneBad.com - No fakes, No actresses, just real girls gone bad
 
