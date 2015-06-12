@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the famouswiki.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701121558id_/http%3A//www.famouswiki.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the famouswiki.com privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612083350id_/http%3A//www.famouswiki.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy and Terms of Service Famous Wiki
 
