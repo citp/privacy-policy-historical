@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the realestateview.com.au privacy policy that was archived on 2014-07-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140726220717id_/http%3A//www.realestateview.com.au/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realestateview.com.au privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612025157id_/http%3A//www.realestateview.com.au/Privacy-Policy.html) for the most accurate reproduction.*
 
 # Real Estate Australia on realestateview.com.au - Australian property listings
 
-## realestateview.com.au Limited
+## realestateVIEW.com.au Limited
 
 ### We respect your privacy
 
@@ -71,7 +71,7 @@ If you send us an e-mail containing personal information we take steps to ensure
 It is generally our policy not to disclose information to external organisations, however, we may sometimes need to disclose your personal information to others for the purposes set out above. Examples of the types of organisations we may wish to disclose information to for these purposes are: 
 
   * our related bodies corporate; and
-  * parties outside realestateview.com.au Ltd who are contracted to us to provide a particular service on our behalf, such as: mailing houses for bulk mailing of letters and notices, printers for marketing material, and other service providers.
+  * parties outside realestateVIEW.com.au Ltd who are contracted to us to provide a particular service on our behalf, such as: mailing houses for bulk mailing of letters and notices, printers for marketing material, and other service providers.
 
 
 
