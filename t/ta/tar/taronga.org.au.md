@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the taronga.org.au privacy policy that was archived on 2014-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141118213321id_/http%3A//taronga.org.au/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the taronga.org.au privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612101012id_/http%3A//taronga.org.au/about-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Taronga
 
