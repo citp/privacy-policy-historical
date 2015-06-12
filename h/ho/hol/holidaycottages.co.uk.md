@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the holidaycottages.co.uk privacy policy that was archived on 2014-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141225151653id_/http%3A//www.holidaycottages.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the holidaycottages.co.uk privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612122942id_/http%3A//www.holidaycottages.co.uk/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - holidaycottages.co.uk
 
@@ -73,7 +73,7 @@ We use tracking information to determine which areas of our sites users like and
 
 Sharing of the information
 
-Holidaycottages.co.uk uses the above-described information to tailor our content to suit your needs. We will not share information about individual users with any third party, except to comply with applicable law or valid legal processor to protect the personal safety of our users or the public.
+Holidaycottages.co.uk uses the above-described information to tailor our content to suit your needs. We will not share information about individual users with any third party, except to comply with applicable law or valid legal process or to protect the personal safety of our users or the public.
 
 Security
 
