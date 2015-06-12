@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teds.com.au privacy policy that was archived on 2014-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140910170230id_/http%3A//www.teds.com.au/teds-info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teds.com.au privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612020314id_/http%3A//www.teds.com.au/teds-info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Ted's Cameras
 
