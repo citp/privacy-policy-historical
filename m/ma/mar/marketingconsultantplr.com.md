@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the marketingconsultantplr.com privacy policy that was archived on 2014-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141204112248id_/http%3A//marketingconsultantplr.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marketingconsultantplr.com privacy policy that was archived on 2015-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150613001605id_/http%3A//marketingconsultantplr.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy
 
 This privacy policy sets out how MarketingConsultantPLR.com uses and protects any information that you give MarketingConsultantPLR.com when you use this website.
 
