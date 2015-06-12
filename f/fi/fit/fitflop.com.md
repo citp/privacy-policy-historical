@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fitflop.com privacy policy that was archived on 2013-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131201135105id_/http%3A//www.fitflop.com/Privacy/privacy%2Cen_US%2Cpg.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fitflop.com privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612080750id_/http%3A//www.fitflop.com/on/demandware.store/Sites-FFUS-Site/en_US/Page-Show%3Fcid%3Dprivacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | FitFlop Official Online Store
 
 * We use information held about you in the following ways:
 
@@ -27,3 +27,5 @@ To unsubscribe from text, SMS, MMS or other mobile messaging, please follow the 
 If you do not want us to use your data in this way, or to pass your details on to third parties for marketing purposes, please check the relevant box situated on the form on which we collect your data.
 
 We, our group companies or related third parties may also wish to provide you with information about special features of our Website or any other service or Products we think may be of interest to you. If you would rather not receive this information, please send an e-mail message to the contact details as indicated below.
+
+Back to top
