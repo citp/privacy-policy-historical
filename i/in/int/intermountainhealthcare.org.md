@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the intermountainhealthcare.org privacy policy that was archived on 2014-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141218163648id_/http%3A//intermountainhealthcare.org/info/privacy-notices/Pages/home.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intermountainhealthcare.org privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612174902id_/http%3A//intermountainhealthcare.org/info/privacy-notices/Pages/home.aspx) for the most accurate reproduction.*
 
 # Privacy Notices - Intermountain Healthcare - Salt Lake City, Utah
 
@@ -19,7 +19,7 @@ Privacy Notices and Terms of Use for the Intermountain Healthcare and SelectHeal
 
   * [ 
 
-](https://web.archive.org/web/20141218163648id_/http%3A//intermountainhealthcare.org/info/privacy-notices/Pages/careers-privacy-notice.aspx)[Careers Privacy Notice](https://web.archive.org/web/20141218163648id_/http%3A//intermountainhealthcare.org/info/privacy-notices/Pages/careers-privacy-notice.aspx "The online career application privacy statement explaining how certain personal information is collected, used and disclosed by the hosted web based application.")
+](https://web.archive.org/web/20150612174902id_/http%3A//intermountainhealthcare.org/info/privacy-notices/Pages/careers-privacy-notice.aspx)[Careers Privacy Notice](https://web.archive.org/web/20150612174902id_/http%3A//intermountainhealthcare.org/info/privacy-notices/Pages/careers-privacy-notice.aspx "The online career application privacy statement explaining how certain personal information is collected, used and disclosed by the hosted web based application.")
 
 The online career application privacy statement explaining how certain personal information is collected, used and disclosed by the hosted web based application.
 
