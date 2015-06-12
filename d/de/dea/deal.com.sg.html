@@ -1,899 +1,941 @@
-<!--The following is the downloaded HTML source of the deal.com.sg privacy policy that was archived on 2014-08-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140822121648id_/http%3A//deal.com.sg/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the deal.com.sg privacy policy that was archived on 2015-06-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150613012537id_/http%3A//www.deal.com.sg/page/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" dir="ltr"><head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script id="scarab-js-api" src="https://recommender.scarabresearch.com/js/10FFAC5E036EC30D/scarab-v2.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VgQHWFFUGwIIUlFWBwA="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e){function n(t,e,n){n||(n={});for(var r=o[t],a=r&&r.length||0,s=n[i]||(n[i]={}),u=0;a>u;u++)r[u].apply(s,e);return s}function r(t,e){var n=o[t]||(o[t]=[]);n.push(e)}var o={},i="nr@context";e.exports={on:r,emit:n}},{}],2:[function(t){function e(t,e,n,i,s){return u?u-=1:r("err",[s||new UncaughtException(t,e,n)]),"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t(5),a=window.onerror,s=!1,u=0;t("loader").features.push("err"),window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(d){"stack"in d&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(4),s=!0)}i.on("fn-start",function(){s&&(u+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&u>0&&(u-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:4,3:3,4:6,5:1,6:14,handle:"D5DuLP",loader:"G9z0Bl"}],3:[function(t){function e(t){r.inPlace(t,["addEventListener","removeEventListener"],"-",n)}function n(t){return t[1]}var r=t(1),o=(t(3),t(2));if(e(window),"getPrototypeOf"in Object){for(var i=document;i&&!i.hasOwnProperty("addEventListener");)i=Object.getPrototypeOf(i);i&&e(i);for(var a=XMLHttpRequest.prototype;a&&!a.hasOwnProperty("addEventListener");)a=Object.getPrototypeOf(a);a&&e(a)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&e(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=e["nr@wrapped"]?t[1]=e["nr@wrapped"]:e["nr@wrapped"]=t[1]=r(e,"fn-"):"function"==typeof e.handleEvent&&r.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:15,2:1,3:14}],4:[function(t){var e=(t(3),t(1)),n=t(2);e.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=e(t[0],"fn-")})},{1:15,2:1,3:14}],5:[function(t){function e(t){var e=t[0];"string"==typeof e&&(e=new Function(e)),t[0]=n(e,"fn-")}var n=(t(3),t(1)),r=t(2);n.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",e)},{1:15,2:1,3:14}],6:[function(t){function e(){o.inPlace(this,s,"fn-")}function n(t,e){o.inPlace(e,["onreadystatechange"],"fn-")}function r(t,e){return e}var o=t(1),i=t(2),a=window.XMLHttpRequest,s=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];window.XMLHttpRequest=function(t){var n=new a(t);try{i.emit("new-xhr",[],n),o.inPlace(n,["addEventListener","removeEventListener"],"-",function(t,e){return e}),n.addEventListener("readystatechange",e,!1)}catch(r){try{i.emit("internal-error",r)}catch(s){}}return n},window.XMLHttpRequest.prototype=a.prototype,o.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",r),i.on("send-xhr-start",n),i.on("open-xhr-start",n)},{1:15,2:1}],7:[function(t){function e(){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;u>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,d="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(d);if(f&&(r.rxSize=f),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}t("loader").features.push("xhr");var o=t("handle"),i=t(1),a=t(5),s=["load","error","abort","timeout"],u=s.length,d=t(2);t(3),t(4),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var d=e(o);d&&(r.txSize=d)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",e)}catch(r){}}};for(var f=0;u>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&e()},{1:8,2:11,3:3,4:6,5:1,handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e){var n=r[t];return n?n.apply(this,e):(o[t]||(o[t]=[]),void o[t].push(e))}var r={},o={};e.exports=n,n.queues=o,n.handlers=r},{}],11:[function(t,e){function n(t){if(!t||"object"!=typeof t&&"function"!=typeof t)return-1;if(t===window)return 0;if(o.call(t,"__nr"))return t.__nr;try{return Object.defineProperty(t,"__nr",{value:r,writable:!0,enumerable:!1}),r}catch(e){return t.__nr=r,r}finally{r+=1}}var r=1,o=Object.prototype.hasOwnProperty;e.exports=n},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&u&&u.body){p.proto="https"===c.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=u.createElement("script");e.src=p.proto+t.agent,u.body.appendChild(e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,u=s.document,d="addEventListener",f="attachEvent",c=(""+location).split("?")[0],p=e.exports={offset:i(),origin:c,features:[]};u[d]?(u[d]("DOMContentLoaded",o,!1),s[d]("load",n,!1)):(u[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],14:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],15:[function(t,e){function n(t,e,r,s){function nrWrapper(){try{var n,a=u(arguments),d=this,f=r&&r(a,d)||{}}catch(c){i([c,"",[a,d,s],f])}o(e+"start",[a,d,s],f);try{return n=t.apply(d,a)}catch(p){throw o(e+"err",[a,d,p],f),p}finally{o(e+"end",[a,d,n],f)}}return a(t)?t:(e||(e=""),nrWrapper[n.flag]=!0,nrWrapper)}function r(t,e,r,o){r||(r="");var i,s,u,d="-"===r.charAt(0);for(u=0;u<e.length;u++)s=e[u],i=t[s],a(i)||(t[s]=n(i,d?s+r:r,o,s,t))}function o(t,e,n){try{s.emit(t,e,n)}catch(r){i([r,t,e,n])}}function i(t){try{s.emit("internal-error",t)}catch(e){}}function a(t){return!(t&&"function"==typeof t&&t.apply&&!t[n.flag])}var s=t(1),u=t(2);e.exports=n,n.inPlace=r,n.flag="nr@wrapper"},{1:1,2:14}]},{},["G9z0Bl",2,7]);</script>
-    <title>Privacy Policy | DEAL.com.sg - Best Deals in Singapore</title>
-    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<meta http-equiv="x-dns-prefetch-control" content="on">
-<link rel="dns-prefetch" href="//static.deal.com.sg">
-<link rel="shortcut icon" href="http://static.deal.com.sg/sites/all/themes/deal_theme_v4/favicon_new.ico" type="image/x-icon">
-<!-- CSS aggregated by CDN module. -->
-<link type="text/css" rel="stylesheet" media="all" href="http://static.deal.com.sg/sites/default/files/css/cdn_css_http_ea441c103a96734179e09a1d6f816047.css">
-<link type="text/css" rel="stylesheet" media="print" href="http://static.deal.com.sg/sites/default/files/css/cdn_css_http_c28645512890d6963ac1fc4cbf702825.css">
-<!-- CSS aggregated by CDN module. -->
-<script type="text/javascript" src="http://static.deal.com.sg/sites/default/files/js/js_56d9d9e4a5eeba775f16bd5658579c30.js"></script>
-<script type="text/javascript">
-<!--//--><![CDATA[//><!--
-jQuery.extend(Drupal.settings, {"basePath":"\/","lightbox2":{"rtl":0,"file_path":"\/(\\w\\w\/)sites\/default\/files","default_image":"\/sites\/all\/modules\/lightbox2\/images\/brokenimage.jpg","border_size":10,"font_color":"000","box_color":"fff","top_position":"","overlay_opacity":"0.9","overlay_color":"000","disable_close_click":0,"resize_sequence":0,"resize_speed":400,"fade_in_speed":400,"slide_down_speed":600,"use_alt_layout":0,"disable_resize":0,"disable_zoom":0,"force_show_nav":0,"show_caption":1,"loop_items":0,"node_link_text":"View Image Details","node_link_target":0,"image_count":"Image !current of !total","video_count":"Video !current of !total","page_count":"Page !current of !total","lite_press_x_close":"press \u003ca href=\"#\" onclick=\"hideLightbox(); return FALSE;\"\u003e\u003ckbd\u003ex\u003c\/kbd\u003e\u003c\/a\u003e to close","download_link_text":"","enable_login":false,"enable_contact":false,"keys_close":"c x 27","keys_previous":"p 37","keys_next":"n 39","keys_zoom":"z","keys_play_pause":"32","display_image_size":"original","image_node_sizes":"()","trigger_lightbox_classes":"","trigger_lightbox_group_classes":"","trigger_slideshow_classes":"","trigger_lightframe_classes":"","trigger_lightframe_group_classes":"","custom_class_handler":0,"custom_trigger_classes":"","disable_for_gallery_lists":true,"disable_for_acidfree_gallery_lists":true,"enable_acidfree_videos":true,"slideshow_interval":5000,"slideshow_automatic_start":true,"slideshow_automatic_exit":true,"show_play_pause":true,"pause_on_next_click":false,"pause_on_previous_click":true,"loop_slides":false,"iframe_width":1000,"iframe_height":400,"iframe_border":1,"enable_video":0},"qtip":{"target_position":"topRight","tooltip_position":"bottomLeft","show_speech_bubble_tip":true,"show_speech_bubble_tip_side":false,"color":"blue","border_radius":"3","border_width":"3","show_event_type":"mouseover","hide_event_type":"mouseout","show_solo":true},"zeroClipboard":{"moviePath":"sites\/all\/libraries\/zeroclipboard\/ZeroClipboard.swf","selectorsToProcess":[{"selector":".deal-zeroclipboard-apply","value":"deal_zeroclipboard_apply"}]},"deal_theme":{"link_to_join_block":"\u003ca href=\"\/deal_join_popup?a=node%2F484\u0026amp;setcookie=1\" id=\"deal_join_popup\" rel=\"lightmodal[|width:790px; height:800px;]\" style=\"display: none;\"\u003eJoin\u003c\/a\u003e"},"googleanalytics":{"trackOutgoing":[1,1],"trackMailto":[1,1],"trackDownload":[1,1],"trackDownloadExtensions":["7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip","7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip"]}});
-//--><!]]>
-</script>
-<script type="text/javascript">
-<!--//--><![CDATA[//><!--
-var ScarabQueue = ScarabQueue || [];
-(function(subdomain, id) {
-  if (document.getElementById(id)) return;
-  var js = document.createElement('script'); js.id = id;
-  js.src = subdomain + '.scarabresearch.com/js/10FFAC5E036EC30D/scarab-v2.js';
-  var fs = document.getElementsByTagName('script')[0];
-  fs.parentNode.insertBefore(js, fs);
-})('https:' == document.location.protocol ? 'https://recommender' : 'http://cdn', 'scarab-js-api');
-//--><!]]>
-</script>
-<script type="text/javascript">
-<!--//--><![CDATA[//><!--
-$.cookie('current_city', 'sg', { path: '/' });
-//--><!]]>
-</script>
-<script type="text/javascript">
-<!--//--><![CDATA[//><!--
-var _gaq = _gaq || [];_gaq.push(["_setAccount", "UA-16207450-1"]);_gaq.push(["_setDomainName", ".deal.com.sg"]);_gaq.push(["_trackPageview"]);(function() {var ga = document.createElement("script");ga.type = "text/javascript";ga.async = true;ga.src = ("https:" == document.location.protocol ? "https://" : "http://") + "stats.g.doubleclick.net/dc.js";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ga, s);})();
-//--><!]]>
-</script>
-<script type="text/javascript">
-<!--//--><![CDATA[//><!--
-document.write(unescape("%3Cscript id='pap_x2s6df8d' src='" + (("https:" == document.location.protocol) ? "https://" : "http://") +
-"affiliate.deal.com.sg/affiliate/scripts/trackjs.js' type='text/javascript'%3E%3C/script%3E"));//-->
-</script><script id="pap_x2s6df8d" src="https://affiliate.deal.com.sg/affiliate/scripts/trackjs.js" type="text/javascript"></script> <script type="text/javascript"><!--
-try {
-PostAffTracker.track();
-} catch (err) { }
-//--><!]]>
-</script>
-    <script type="text/javascript">
-<!--//--><![CDATA[//><!--
-var googletag = googletag || {};
-googletag.cmd = googletag.cmd || [];
-(function() {
-  var gads = document.createElement('script');
-  gads.async = true;
-  gads.type = 'text/javascript';
-  var useSSL = 'https:' == document.location.protocol;
-  gads.src = (useSSL ? 'https:' : 'http:') + '//www.googletagservices.com/tag/js/gpt.js';
-  var node =document.getElementsByTagName('script')[0];
-  node.parentNode.insertBefore(gads, node);
-})();
-//--><!]]>
-</script>
-
-
-<script type="text/javascript">
-<!--//--><![CDATA[//><!--
-googletag.cmd.push(function() {
-googletag.defineSlot('/114804782/leader_board_728x90_9', [728, 90], 'gam-holder-leader_board_728x90_9').addService(googletag.pubads()).setCollapseEmptyDiv(true);
-googletag.defineSlot('/114804782/Deal_8_728x90_14', [728, 90], 'gam-holder-Deal_8_728x90_14').addService(googletag.pubads()).setCollapseEmptyDiv(true);
-  googletag.pubads().enableSingleRequest();
-  googletag.enableServices();
-});
-//--><!]]>
-</script>
- <!-- Requires for the Google Admanager -->
-  <script async="" defer="" src="//j.flxpxl.com/292380.js?r=9495707773606008&amp;m=992&amp;a=292380"></script></head>
-  <body class="page not-front not-logged-in node-type-page no-sidebars page-privacy-policy section-privacy-policy category-all subcat-all">
-        <div id="page-wrapper">
-      <div id="page">
-        <div id="blue_bg">
-          <div id="info_holder">
-
-                          <div id="logo"><a href="/" title="DEAL.com.sg" rel="home"><img src="http://static.deal.com.sg/sites/default/files/deal_theme_v4_logo.png" alt="DEAL.com.sg"></a></div>
-                        
-                                      <div id="tabs_menu">
-                <a href="/" id="deal_tab_active">deal.com.sg</a>
-                <a href="http://www.deal.com.sg/duriana" id="deal_tab_duriana_select" target="_new">duriana</a>
-              </div>
-            
-                        <!-- print 3 images in the header -->
-            <div id="deal-notes"></div>
-                          <div id="header-block"> <div class="region region-header">
-  <!--<div id="block-" class="">-->
-<div id="block-menu-menu-myaccv2-login" class="clear-block block block-menu block block-menu first region-odd odd region-count-1 count-5 ">
-      <h2 class="title">My Account v2 (login)</h2>
-  
-  <div class="content">
-    <ul class="menu"><li class="leaf first"><a href="/cart_checkout" class="class_cart">cart</a></li>
-<li class="leaf"><a href="/user?destination=deals">login</a></li>
-<li class="leaf last"><a href="/user/register"><span class="tab">register</span></a></li>
-</ul>  </div>
-
-  </div> <!-- /.block -->
-<!--<div id="block-" class="">-->
-<div id="block-block-37" class="clear-block block block-block block block-block last region-even even region-count-2 count-6 ">
-  
-  <div class="content">
-    <ul id="newsletter_contact_block">
-	<li class="contact">
-    <a href="#">Contact</a>
-    <span class="contact_infor">
-      <div class="contact_icon">&nbsp;</div>
-      <div class="phone">6299 3011</div>
-      <div class="email_icon"></div><div class="email">crm@deal.com.sg</div> 
-    </span>
-   </li><li> <a href="/deal_rewards_programme">DEAL Rewards</a> </li>    
-	<li class="newsletter">
-		<a href="/deal_join_popup?a=node/484" rel="lightmodal[|width:790px; height:800px;]">Free newsletter</a>  </li>
-</ul>
-  </div>
-
-  </div> <!-- /.block -->
-  <div style="clear: both; font-size: 0;"></div>
-</div><!-- /.region -->
- </div>
-                                      <div id="fixed-area"><div class="region region-fixed-floating">
-  <!--<div id="block-" class="">-->
-<div id="block-block-30" class="clear-block block block-block block block-block first last region-odd even region-count-1 count-10 ">
-  
-  <div class="content">
-    <style>
-.sidebar_subscribe_cart { position: fixed; top: 170px; right: -4px; opacity: 0.8; z-index: 100; }
-</style>
-
-
-<div class="sidebar_subscribe_cart" style="top:188px">
-<a href="/duriana" id="duriana_img_1" target="_blank"><img src="http://static.deal.com.sg/sites/default/files/duriana_orange_hover2.png" alt="Duriana" title="Duriana"></a></div>
-<div class="sidebar_subscribe_cart" style="top:310px"><a href="/shareandearn"><img src="http://static.deal.com.sg/sites/default/files/vnshareandearn_side_button_2.png" alt="Share and Earn" title="Share and Earn"></a></div>
-<div class="sidebar_subscribe_cart" style="top:430px"><a href="/deals/singapore?category=FREE%20Delivery&amp;utm_source=dealsg&amp;utm_medium=sidetab&amp;utm_campaign=freedelivery"><img src="http://static.deal.com.sg/sites/default/files/new_images_9/free_delivery_side.gif" alt="Free Delivery" title="Free Delivery"></a></div>
-
-  </div>
-
-  </div> <!-- /.block -->
-  <div style="clear: both; font-size: 0;"></div>
-</div><!-- /.region -->
-</div>
-                      </div>
-        </div>
-        <!--<div id="header">
-          <div id="header-inner">
-                      <div id="logo">
-                          <a href="/shop/landing" title="" rel="dealshop">
-                          </a>
-                          <a href="" title="" rel="home">
-                    <img src="" alt="" />
-                  </a>
-                      </div>
-                  </div>
-        </div>-->
-        <!-- /#header-inner, /#header -->
-
-        <div class="clear"></div>
-        <div id="main-wrapper">
-          <div id="main-wrapper-2">
-            <div id="main">
-              <div id="content">
-                <div id="content-inner">
-                                    <div class="region region-highlight">
-  <!--<div id="block-" class="">-->
-<div id="block-block-40" class="clear-block block block-block block block-block first last region-odd odd region-count-1 count-3 ">
-  
-  <div class="content">
-    <ul id="top_badge">
-<li class="moneyback" style="visibility:hidden;">
-		<a href="#">100% money back guarantee</a></li>
-<li class="authentic" style="visibility:hidden; display:none">
-		<a href="#">100% Authenticity guarantee</a></li>
-<li class="food_delivery_tab">
-		<a href="http://superdeals.insing.com/deals/singapore?category=food%20delivery">Food Delivery</a></li>
-<li class="paypal">
-		<a href="http://superdeals.insing.com/deals/singapore?category=paypal">PayPal</a></li>
-<li class="earn">
-		<a href="http://superdeals.insing.com/refer-friends-get-S10">Earn Now</a></li>
-</ul>
-  </div>
-
-  </div> <!-- /.block -->
-  <div style="clear: both; font-size: 0;"></div>
-</div><!-- /.region -->
-                                      <div id="content-top-area"><div class="region region-content-top">
-  <!--<div id="block-" class="">-->
-<div id="block-deal_global_menu-0" class="clear-block block block-deal_global_menu block block-deal_global_menu first last region-odd even region-count-1 count-4 ">
-  
-  <div class="content">
-    <ul class="deal-categories-menu"><li class="deals first"><a href="/deals/singapore"><div class="category-icon"></div>All Deals&nbsp;<span class="parent-category-item-count">1315</span></a></li>
-<li class="travel"><a href="/travel/singapore"><div class="category-icon"></div>Travel&nbsp;<span class="parent-category-item-count">257</span></a></li>
-<li class="products"><a href="/products/singapore"><div class="category-icon"></div>Products&nbsp;<span class="parent-category-item-count">913</span></a></li>
-<li class="dining"><a href="/dining/singapore"><div class="category-icon"></div>Dining&nbsp;<span class="parent-category-item-count">129</span></a></li>
-<li class="brands"><a href="/brands/singapore"><div class="category-icon"></div>Brands</a></li>
-<li class="beecrazy-luxury last"><a href="/luxury/singapore"><div class="category-icon"></div>D’ Luxe&nbsp;<span class="parent-category-item-count">1156</span></a></li>
-</ul><ul class="deal-sub-categories-menu deal-sub-categories-menu-deals"><li class="bestsellers first"><a href="/deals/singapore?category=bestsellers" class="term-bestsellers"><div class="category-icon"></div>Bestsellers <span class="category-item-count">(68)</span></a></li>
-<li class="products"><a href="/products/singapore" class="term-products"><div class="category-icon"></div>Products <span class="category-item-count">(913)</span></a><ul class="deal-sub-sub-categories-dropdown-menu deal-sub-sub-categories-dropdown-menu-products"><li class="watchgallery first"><a href="/products/singapore?category=1272" class="term-watchgallery"><div class="sub-category-icon"></div>Watch Gallery</a></li>
-<li class="itelectronics"><a href="/products/singapore?category=386" class="term-itelectronics"><div class="sub-category-icon"></div>IT &amp; Electronics</a></li>
-<li class="homeliving"><a href="/products/singapore?category=387" class="term-homeliving"><div class="sub-category-icon"></div>Home &amp; Living</a></li>
-<li class="fashionlifestyle"><a href="/products/singapore?category=388" class="term-fashionlifestyle"><div class="sub-category-icon"></div>Fashion &amp; Lifestyle</a></li>
-<li class="beautyhealth"><a href="/products/singapore?category=389" class="term-beautyhealth"><div class="sub-category-icon"></div>Beauty &amp; Health</a></li>
-<li class="luxury"><a href="/products/singapore?category=390" class="term-luxury"><div class="sub-category-icon"></div>Luxury</a></li>
-<li class="beecrazycosmetics"><a href="/products/singapore?category=1147" class="term-beecrazycosmetics"><div class="sub-category-icon"></div>BeeCrazy Cosmetics</a></li>
-<li class="3-daydelivery last"><a href="/products/singapore?category=1413" class="term-3-daydelivery"><div class="sub-category-icon"></div>3-Day Delivery</a></li>
-</ul></li>
-<li class="dining"><a href="/dining/singapore" class="term-dining"><div class="category-icon"></div>Dining <span class="category-item-count">(129)</span></a><ul class="deal-sub-sub-categories-dropdown-menu deal-sub-sub-categories-dropdown-menu-dining"><li class="mooncakes first"><a href="/dining/singapore?category=1422" class="term-mooncakes"><div class="sub-category-icon"></div>Mooncakes</a></li>
-<li class="bestbuffets"><a href="/dining/singapore?category=1386" class="term-bestbuffets"><div class="sub-category-icon"></div>Best Buffets</a></li>
-<li class="local"><a href="/dining/singapore?category=1171" class="term-local"><div class="sub-category-icon"></div>Local</a></li>
-<li class="european"><a href="/dining/singapore?category=1172" class="term-european"><div class="sub-category-icon"></div>European</a></li>
-<li class="thai"><a href="/dining/singapore?category=1173" class="term-thai"><div class="sub-category-icon"></div>Thai</a></li>
-<li class="japanese"><a href="/dining/singapore?category=1174" class="term-japanese"><div class="sub-category-icon"></div>Japanese</a></li>
-<li class="korean"><a href="/dining/singapore?category=1175" class="term-korean"><div class="sub-category-icon"></div>Korean</a></li>
-<li class="marketfresh last"><a href="/dining/singapore?category=1414" class="term-marketfresh"><div class="sub-category-icon"></div>Market Fresh</a></li>
-</ul></li>
-<li class="wellness"><a href="/deals/singapore?category=wellness" class="term-wellness"><div class="category-icon"></div>Beauty</a><ul class="deal-sub-sub-categories-dropdown-menu deal-sub-sub-categories-dropdown-menu-wellness"><li class="sparelaxation first"><a href="/deals/singapore?category=1158" class="term-sparelaxation"><div class="sub-category-icon"></div>Spa &amp; Relaxation</a></li>
-<li class="skincarefacial"><a href="/deals/singapore?category=1159" class="term-skincarefacial"><div class="sub-category-icon"></div>Skin Care &amp; Facial</a></li>
-<li class="hairdressing"><a href="/deals/singapore?category=1161" class="term-hairdressing"><div class="sub-category-icon"></div>Hairdressing</a></li>
-<li class="weightlossslimming"><a href="/deals/singapore?category=1162" class="term-weightlossslimming"><div class="sub-category-icon"></div>Weight Loss &amp; Slimming</a></li>
-<li class="hairremoval"><a href="/deals/singapore?category=1163" class="term-hairremoval"><div class="sub-category-icon"></div>Hair Removal</a></li>
-<li class="fitness"><a href="/deals/singapore?category=1164" class="term-fitness"><div class="sub-category-icon"></div>Fitness</a></li>
-<li class="dental"><a href="/deals/singapore?category=1165" class="term-dental"><div class="sub-category-icon"></div>Dental</a></li>
-<li class="beautyinwonderland"><a href="/deals/singapore?category=1432" class="term-beautyinwonderland"><div class="sub-category-icon"></div>Beauty in Wonderland</a></li>
-<li class="nails"><a href="/deals/singapore?category=1160" class="term-nails"><div class="sub-category-icon"></div>Nails</a></li>
-<li class="otherservices last"><a href="/deals/singapore?category=1167" class="term-otherservices"><div class="sub-category-icon"></div>Other Services</a></li>
-</ul></li>
-<li class="activities"><a href="/deals/singapore?category=activities" class="term-activities"><div class="category-icon"></div>Activities <span class="category-item-count">(62)</span></a></li>
-<li class="gss"><a href="/deals/singapore?category=gss" class="term-gss"><div class="category-icon"></div>Home &amp; Living</a></li>
-<li class="visitmalaysia"><a href="/deals/singapore?category=visit%20malaysia" class="term-visitmalaysia"><div class="category-icon"></div>Visit Malaysia <span class="category-item-count">(10)</span></a></li>
-<li class="rws last"><a href="/deals/singapore?category=rws" class="term-rws"><div class="category-icon"></div>RWS <span class="category-item-count">(11)</span></a></li>
-</ul>  </div>
-
-  </div> <!-- /.block -->
-  <div style="clear: both; font-size: 0;"></div>
-</div><!-- /.region -->
-</div>
-                    <div id="menushadow"></div>
-                    <div style="clear: both;"></div>
-                                    
-                                                      
-                  <div id="content-left-area">
-                    <div id="content-area">
-                      <div class="corners-block content-text">
-                        <div class="c">
-                                                                                <h1 class="title">Privacy Policy</h1>
-                                                                                                        <div id="node-484" class="node clear-block">
-
-
-
-  <div class="meta">
-  
-    </div>
-
-  <div class="content">
-    <style type="text/css">
-.page-privacy-policy.node-type-page #content-right-area {
-    margin-top: 0 !important;
-}</style><p>Your privacy is important to us. This privacy statement provides guidelines and conditions regarding the personal information that DEAL.com.sg collects, and the ways in which DEAL.com.sg uses that personal information.</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<h1 class="title">
-	Personal information collection</h1>
-<p>DEAL.com.sg may collect and use the following kinds of personal information:</p>
-<p>&nbsp;</p>
-<p>Any information about your use of this website<br>
-	Any information that you provide while registering with the website<br>
-	Any information about transactions carried out over this website<br>
-	Any information that you provide for the purpose of subscribing to the website services<br>
-	Any other information that you send to DEAL.com.sg</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<h1 class="title">
-	Using personal information</h1>
-<p>DEAL.com.sg may use your personal information to:</p>
-<p>&nbsp;</p>
-<p>Administer this website<br>
-	Personalize the website for you<br>
-	Enable your access to and use of the website services<br>
-	Publish information about you on the website<br>
-	Send to you products / information that we deem relevant before / during / after the purchase<br>
-	Supply to you services that you purchase<br>
-	Send you statements and invoices<br>
-	Collect payments from you; and<br>
-	Send you marketing communications via Email, SMS and/or Direct Call</p>
-<p>&nbsp;</p>
-<p>Where DEAL.com.sg discloses your personal information to its agents or sub-contractors for these purposes, the agent or sub-contractor in question will be obligated to use that personal information in accordance with the terms of this privacy statement.</p>
-<p>&nbsp;</p>
-<p>In addition to the disclosures reasonably necessary for the purposes identified elsewhere above, DEAL.com.sg may disclose your personal information to the extent that it is required to do so by law, in connection with any legal proceedings or prospective legal proceedings, and in order to establish, exercise or defend its legal rights.</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<h1 class="title">
-	Use of Cookies</h1>
-<p>Cookies are small packets of data that are stored in your browser when you visit our site. Data stored includes, but not limited to, user preferences, session and other information. We use these information to understand our users better, customize our services and promote effective and tailored ads. In short, cookies allow us to improve overall user experience.</p>
-<p>&nbsp;</p>
-<p>On certain pages on the site, third parties may also place or recognize unique cookies in your browser. The use of these cookies is not governed by this policy but is subject to their own policies and we do not have control over that.</p>
-<p>&nbsp;</p>
-<p>You can choose to refuse or remove cookies. However if you do this, some website services or features may not function properly.</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<h1 class="title">
-	Ads on Third Party vendors</h1>
-<p>We do promotions on other third party sites, including Google, hence our ads are shown on these sites. However, our ads are completely independent of the the sites' policy, content, etc.</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<h1 class="title">
-	Securing your data</h1>
-<p>DEAL.com.sg will take all reasonable technical and organisational precautions to prevent the loss, misuse or alteration of your personal information.</p>
-<p>&nbsp;</p>
-<p>DEAL.com.sg will store all the personal information you provide on its secure servers.</p>
-<p>&nbsp;</p>
-<p>Information relating to electronic transactions entered into via this website will be protected by encryption technology.</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<h1 class="title">
-	Cross-border data transfers</h1>
-<p>Information that DEAL.com.sg collects may be stored and processed in and transferred between any of the countries in which DEAL.com.sg or its subsidiaries / partners / affiliates operate, to enable the use of the information in accordance with this privacy policy.</p>
-<p>&nbsp;</p>
-<p>In addition, personal information that you submit for publication on the website will be published on the internet and may be available around the world.</p>
-<p>&nbsp;</p>
-<p>You agree to such cross-border transfers of personal information.</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<h1 class="title">
-	Unsubscribe</h1>
-<p>1] Please open our daily newsletter sent to your registered e-mail address/s.</p>
-<p>&nbsp;</p>
-<p>2] Scroll to the bottom of the daily newsletter and click on the unsubscribe link.</p>
-<p>&nbsp;</p>
-<p>3] You will be directed to a page to confirm your decision; please click select “Unsubscribe” again; although we’d love it if you choose the other option.</p>
-<p>&nbsp;</p>
-<p>4] If you have trouble finding the link on our e-mail / are unable to visit the external page, please call us or drop us a line and we’ll unsubscribe you from our communications manually.</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<h1 class="title">
-	Updating this statement</h1>
-<p>DEAL.com.sg may update this privacy policy by posting a new version on this website.</p>
-<p>&nbsp;</p>
-<p>You should check this page occasionally to ensure you are familiar with any changes.</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<h1 class="title">
-	Other websites</h1>
-<p>This website may contain links to other websites; DEAL.com.sg is not responsible for the privacy policies or practices of any third party.</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<h1 class="title">
-	Contact DEAL.com.sg</h1>
-<p>If you have any questions about this privacy policy or DEAL.com.sg’s treatment of your personal information, please write to:</p>
-<p>&nbsp;</p>
-<p>By email to: <a href="mailto:info@deal.com.sg">info@deal.com.sg</a></p>
-<p>Or</p>
-<p>By post to:<br>
-	2 Kallang Avenue<br>
-	CT Hub<br>
-	#03-05<br>
-	Singapore 339407</p>
-<p>Or</p>
-<p>By phone</p>
-<p>6299 3011<br>
-	&nbsp;</p>
-<p>&nbsp;</p>
-  </div>
-
-  </div>                                                  </div>
-                      </div>
-                    </div>
-                  </div>
-                                      <div id="content-right-area"><div class="region region-content-right">
-  <div id="block-block-62" class="block block-block first region-odd odd region-count-1 count-1">
-  <div class="c">
-        <div class="block-title">
-      <h2>These deals might also be interesting for you</h2>
-    </div>
-    
-    <div class="content">
-       
-<script type="text/html" id="my-recommender-template">
-<![CDATA[
-{{ if (SC.page.products.length) { }}
-<div class="views_view view view-side-deal-v2 view-id-side_deal_v2 view-display-id-block_1 view-dom-id-2">
-<div class="view-content">
-    {{ for (var i=0; i < SC.page.products.length; i++) { }}
-      {{ var p = SC.page.products[i]; }}
-      <div class="view-side-deal-v2-wrapper">
-    <div class="views-row views-row-2 views-row-even">
-        
-  <div class="views-field-field-image-fid">
-                <span data-scarabitem="{{= p.id }}" class="field-content"><a href="{{= p.link }}"><img src="{{= p.image }}" alt="" title="" width="204" class="imagecache imagecache-product_sidedeal_v2 imagecache-default imagecache-product_sidedeal_v2_default"></a></span>
-  </div>
-  
-  <div class="views-field-title">
-                <span data-scarabitem="{{= p.id }}" class="field-content"><a href="{{= p.link }}">{{= p.title }}</a></span>
-  </div>
-  
-  <div class="views-field-field-discount-value">
-                <span class="field-content">Save {{= p.c_save }} %</span>
-  </div>
-  
-  <div class="views-field-view-node">
-                <span data-scarabitem="{{= p.id }}" class="field-content"><a href="{{= p.link }}">VIEW</a></span>
-  </div>
-    </div>
-    <div id="small_shadow_v"></div>
-  </div>
-    {{ } }}   
-</div>
-</div>
-
-{{ } }}
-]]>
-</script>
-
-<div id="my-recommendation-container"></div>
+<!DOCTYPE html><html xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://ogp.me/ns#" xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta charset="utf-8">
+<meta content="IE=Edge,chrome=1" http-equiv="X-UA-Compatible">
+<script src="https://js-agent.newrelic.com/nr-632.min.js"></script><script type="text/javascript" async="" src="https://cdn6.vizury.com/analyze/pixel.php?account_id=VIZVRM3358"></script><script id="scarab-js-api" src="https://recommender.scarabresearch.com/js/10FFAC5E036EC30D/scarab-v2.js"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-PN4HSQ"></script><script async="" src="//connect.facebook.net/en_US/fbds.js"></script><script async="" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"09b22a5b2f","applicationID":"6458601","transactionName":"JV4KEEZeWwgHShcSWAFUSxdcXkA=","queueTime":0,"applicationTime":122,"ttGuid":"","agentToken":null,"agent":"js-agent.newrelic.com/nr-632.min.js","extra":""}</script>
+<script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o?o:n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({QJf3ax:[function(e,n){function t(e){function n(n,t,a){e&&e(n,t,a),a||(a={});for(var u=c(n),f=u.length,s=i(a,o,r),p=0;f>p;p++)u[p].apply(s,t);return s}function a(e,n){f[e]=c(e).concat(n)}function c(e){return f[e]||[]}function u(){return t(n)}var f={};return{on:a,emit:n,create:u,listeners:c,_events:f}}function r(){return{}}var o="nr@context",i=e("gos");n.exports=t()},{gos:"7eSDFh"}],ee:[function(e,n){n.exports=e("QJf3ax")},{}],3:[function(e,n){function t(e){return function(){r(e,[(new Date).getTime()].concat(i(arguments)))}}var r=e("handle"),o=e(1),i=e(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(e,n){window.NREUM[n]=t("api-"+n)}),n.exports=window.NREUM},{1:12,2:13,handle:"D5DuLP"}],"7eSDFh":[function(e,n){function t(e,n,t){if(r.call(e,n))return e[n];var o=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return e[n]=o,o}var r=Object.prototype.hasOwnProperty;n.exports=t},{}],gos:[function(e,n){n.exports=e("7eSDFh")},{}],handle:[function(e,n){n.exports=e("D5DuLP")},{}],D5DuLP:[function(e,n){function t(e,n,t){return r.listeners(e).length?r.emit(e,n,t):(o[e]||(o[e]=[]),void o[e].push(n))}var r=e("ee").create(),o={};n.exports=t,t.ee=r,r.q=o},{ee:"QJf3ax"}],id:[function(e,n){n.exports=e("XL7HBI")},{}],XL7HBI:[function(e,n){function t(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:i(e,o,function(){return r++})}var r=1,o="nr@id",i=e("gos");n.exports=t},{gos:"7eSDFh"}],G9z0Bl:[function(e,n){function t(){var e=d.info=NREUM.info,n=f.getElementsByTagName("script")[0];if(e&&e.licenseKey&&e.applicationID&&n){c(p,function(n,t){n in e||(e[n]=t)});var t="https"===s.split(":")[0]||e.sslForHttp;d.proto=t?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=d.proto+e.agent,n.parentNode.insertBefore(r,n)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=e("handle"),c=e(1),u=(e(2),window),f=u.document,s=(""+location).split("?")[0],p={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-632.min.js"},d=n.exports={offset:i(),origin:s,features:{}};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),u.addEventListener("load",t,!1)):(f.attachEvent("onreadystatechange",r),u.attachEvent("onload",t)),a("mark",["firstbyte",i()])},{1:12,2:3,handle:"D5DuLP"}],loader:[function(e,n){n.exports=e("G9z0Bl")},{}],12:[function(e,n){function t(e,n){var t=[],o="",i=0;for(o in e)r.call(e,o)&&(t[i]=n(o,e[o]),i+=1);return t}var r=Object.prototype.hasOwnProperty;n.exports=t},{}],13:[function(e,n){function t(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(0>o?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=t},{}]},{},["G9z0Bl"]);</script>
+<meta content="width=device-width, initial-scale=0.75" name="viewport">
+<meta content="Ensogo Singapore Deals, Ensogo is one of the top e-commerce platforms in Singapore, which offers crazy discounts on selected items and services. Daily offers include (but are not limited to) fine dining, entertainment, beauty and more.  Ensogo's daily offer numbers are the biggest in Singapore." name="description">
+<meta content="7973144AEA39595F95616A437A4F662C" name="msvalidate.01">
+<link href="http://www.deal.com.sg/page/privacy-policy" rel="canonical">
+<script async="true" src="//static.criteo.net/js/ld/ld.js" type="text/javascript"></script>
+<title>Deals Ensogo Singapore | Save, Smile, Share!</title>
+<meta content="authenticity_token" name="csrf-param">
+<meta content="ZSJOiTmMl6ovJzw0Fm9gyZ3KFDOYPQp/6eqlRKzZy5Y=" name="csrf-token">
 <script>
- ScarabQueue.push(["recommend", "RELATED",
-		"my-recommendation-container",
-		 6,	document.getElementById('my-recommender-template').innerHTML]);
-		 
-  // For A/B split testing, Replace to above to below:
-   // ScarabQueue.push(["recommend", "RELATED", "my-recommendation-container", 6, document.getElementById('my-recommender-//template').innerHTML, ['45321', '43873', '45440']]);
-
+  var api_server = 'death-star.deal.com.sg';
+  var static_server_url = '//static.deal.com.sg';
+  var fb_login_app_id = '1541319376140007';
+  var utm_tracking = true;
 </script>
-    </div>
-  </div>
-  </div> <!-- /.block -->
-<div id="block-block-10" class="block block-block last region-even even region-count-2 count-2">
-  <div class="c">
-    
-    <div class="content">
-      <div class="views_view view view-side-deal-v2 view-id-side_deal_v2 view-display-id-block_1 view-dom-id-2">
-  
-  
-  
-  
-      <div class="view-content">
-        <div class="view-side-deal-v2-wrapper">
-    <div class="views-row views-row-1 views-row-odd views-row-first">
-        
-  <div class="views-field-field-image-fid">
-                <span class="field-content"><a href="/deals/singapore/exclusive-travel-insurance-offer-deal-customers-premium-2990-pax-only"><img src="http://static.deal.com.sg/sites/default/files/imagecache/product_sidedeal_v2/Main-Banner.jpg" alt="" title="" width="204" height="108" class="imagecache imagecache-product_sidedeal_v2 imagecache-default imagecache-product_sidedeal_v2_default"></a></span>
-  </div>
-  
-  <div class="views-field-title">
-                <span class="field-content"><a href="/deals/singapore/exclusive-travel-insurance-offer-deal-customers-premium-2990-pax-only">Exclusive Travel Insurance Offer for DEAL Customers: Premium at $9.90 Per Pax Only!</a></span>
-  </div>
-  
-  <div class="views-field-field-discount-value">
-                <span class="field-content">Save 67%</span>
-  </div>
-  
-  <div class="views-field-view-node">
-                <span class="field-content"><a href="/deals/singapore/exclusive-travel-insurance-offer-deal-customers-premium-2990-pax-only">VIEW</a></span>
-  </div>
-    </div>
-    <div id="small_shadow_v"></div>
-  </div>
-  <div class="view-side-deal-v2-wrapper">
-    <div class="views-row views-row-2 views-row-even">
-        
-  <div class="views-field-field-image-fid">
-                <span class="field-content"><a href="/deals/singapore/jun6-universal-studios-singapore-one-day-adultchild-pass-beat-queue-get-your-adm"><img src="http://static.deal.com.sg/sites/default/files/imagecache/product_sidedeal_v2/watermark_main/USS-4.jpg" alt="" title="" width="204" height="108" class="imagecache imagecache-product_sidedeal_v2 imagecache-default imagecache-product_sidedeal_v2_default"></a></span>
-  </div>
-  
-  <div class="views-field-title">
-                <span class="field-content"><a href="/deals/singapore/jun6-universal-studios-singapore-one-day-adultchild-pass-beat-queue-get-your-adm">$6 OFF Universal Studios Singapore™ One-Day Adult/Child Pass – Beat The Queue &amp; Get Your Admission Ticket Here – Open Ticket Valid Till 31 Aug 2014</a></span>
-  </div>
-  
-  <div class="views-field-field-discount-value">
-                <span class="field-content">Save 8%</span>
-  </div>
-  
-  <div class="views-field-view-node">
-                <span class="field-content"><a href="/deals/singapore/jun6-universal-studios-singapore-one-day-adultchild-pass-beat-queue-get-your-adm">VIEW</a></span>
-  </div>
-    </div>
-    <div id="small_shadow_v"></div>
-  </div>
-  <div class="view-side-deal-v2-wrapper">
-    <div class="views-row views-row-3 views-row-odd">
-        
-  <div class="views-field-field-image-fid">
-                <span class="field-content"><a href="/deals/singapore/asia-pacifics-best-integrated-resort-rws-starz-restaurant-hard-rock-hotel-only-2"><img src="http://static.deal.com.sg/sites/default/files/imagecache/product_sidedeal_v2/watermark_main/rws-main1.jpg" alt="" title="" width="204" height="108" class="imagecache imagecache-product_sidedeal_v2 imagecache-default imagecache-product_sidedeal_v2_default"></a></span>
-  </div>
-  
-  <div class="views-field-title">
-                <span class="field-content"><a href="/deals/singapore/asia-pacifics-best-integrated-resort-rws-starz-restaurant-hard-rock-hotel-only-2">Asia Pacific's Best Integrated Resort; RWS Starz Restaurant, Hard Rock Hotel®: Only $26 Onwards For International Lunch/Hi-Tea/Dinner Buffet - Unlimited Alaskan King Crabs, Snow Crabs, Tiger Prawns &amp; Many More</a></span>
-  </div>
-  
-  <div class="views-field-field-discount-value">
-                <span class="field-content">Save 31%</span>
-  </div>
-  
-  <div class="views-field-view-node">
-                <span class="field-content"><a href="/deals/singapore/asia-pacifics-best-integrated-resort-rws-starz-restaurant-hard-rock-hotel-only-2">VIEW</a></span>
-  </div>
-    </div>
-    <div id="small_shadow_v"></div>
-  </div>
-  <div class="view-side-deal-v2-wrapper">
-    <div class="views-row views-row-4 views-row-even">
-        
-  <div class="views-field-field-image-fid">
-                <span class="field-content"><a href="/deals/singapore/manhattan-fish-market-only-1295-choice-11-popular-set-meals-includes-soup-day-li-0"><img src="http://static.deal.com.sg/sites/default/files/imagecache/product_sidedeal_v2/mahanttan-retouched.jpg" alt="" title="" width="204" height="108" class="imagecache imagecache-product_sidedeal_v2 imagecache-default imagecache-product_sidedeal_v2_default"></a></span>
-  </div>
-  
-  <div class="views-field-title">
-                <span class="field-content"><a href="/deals/singapore/manhattan-fish-market-only-1295-choice-11-popular-set-meals-includes-soup-day-li-0">The Manhattan FISH MARKET: Only $12.95 for Choice of 11 Popular Set Meals: Includes Soup Of The Day Lite (Available at 16 Locations Islandwide)</a></span>
-  </div>
-  
-  <div class="views-field-field-discount-value">
-                <span class="field-content">Save 40%</span>
-  </div>
-  
-  <div class="views-field-view-node">
-                <span class="field-content"><a href="/deals/singapore/manhattan-fish-market-only-1295-choice-11-popular-set-meals-includes-soup-day-li-0">VIEW</a></span>
-  </div>
-    </div>
-    <div id="small_shadow_v"></div>
-  </div>
-  <div class="view-side-deal-v2-wrapper">
-    <div class="views-row views-row-5 views-row-odd">
-        
-  <div class="views-field-field-image-fid">
-                <span class="field-content"><a href="/deals/singapore/june-holidays-special-6-sea-aquarium-one-day-pass-beat-queue-get-your-admission"><img src="http://static.deal.com.sg/sites/default/files/imagecache/product_sidedeal_v2/watermark_main/SEAA6Off_16042014.jpg" alt="" title="" width="204" height="108" class="imagecache imagecache-product_sidedeal_v2 imagecache-default imagecache-product_sidedeal_v2_default"></a></span>
-  </div>
-  
-  <div class="views-field-title">
-                <span class="field-content"><a href="/deals/singapore/june-holidays-special-6-sea-aquarium-one-day-pass-beat-queue-get-your-admission">$6 OFF S.E.A. Aquarium™ One-Day Pass – Beat The Queue &amp; Get Your Admission Ticket Here – Open Ticket Valid Till 31 Aug 2014</a></span>
-  </div>
-  
-  <div class="views-field-field-discount-value">
-                <span class="field-content">Save 16%</span>
-  </div>
-  
-  <div class="views-field-view-node">
-                <span class="field-content"><a href="/deals/singapore/june-holidays-special-6-sea-aquarium-one-day-pass-beat-queue-get-your-admission">VIEW</a></span>
-  </div>
-    </div>
-    <div id="small_shadow_v"></div>
-  </div>
-  <div class="view-side-deal-v2-wrapper">
-    <div class="views-row views-row-6 views-row-even">
-        
-  <div class="views-field-field-image-fid">
-                <span class="field-content"><a href="/deals/singapore/sea-aquarium-one-day-pass-beat-queue-get-your-admission-ticket-here-earn-1140-de"><img src="http://static.deal.com.sg/sites/default/files/imagecache/product_sidedeal_v2/watermark_main/rws revised 23.jpg" alt="" title="" width="204" height="108" class="imagecache imagecache-product_sidedeal_v2 imagecache-default imagecache-product_sidedeal_v2_default"></a></span>
-  </div>
-  
-  <div class="views-field-title">
-                <span class="field-content"><a href="/deals/singapore/sea-aquarium-one-day-pass-beat-queue-get-your-admission-ticket-here-earn-1140-de">S.E.A. Aquarium™ One-Day Pass – Beat The Queue &amp; Get Your Admission Ticket Here + Earn 1140 DEAL Points With This Purchase (Instead of 380 DEAL Points) – Open Ticket Valid Till 30 Sep 2014</a></span>
-  </div>
-  
-  <div class="views-field-field-discount-value">
-                <span class="field-content">Save 0%</span>
-  </div>
-  
-  <div class="views-field-view-node">
-                <span class="field-content"><a href="/deals/singapore/sea-aquarium-one-day-pass-beat-queue-get-your-admission-ticket-here-earn-1140-de">VIEW</a></span>
-  </div>
-    </div>
-    <div id="small_shadow_v"></div>
-  </div>
-  <div class="view-side-deal-v2-wrapper">
-    <div class="views-row views-row-7 views-row-odd">
-        
-  <div class="views-field-field-image-fid">
-                <span class="field-content"><a href="/deals/singapore/june-holidays-special-4-adventure-cove-waterpark-one-day-pass-beat-queue-get-you"><img src="http://static.deal.com.sg/sites/default/files/imagecache/product_sidedeal_v2/watermark_main/Advencute-Cove-Waterpark.jpg" alt="" title="" width="204" height="108" class="imagecache imagecache-product_sidedeal_v2 imagecache-default imagecache-product_sidedeal_v2_default"></a></span>
-  </div>
-  
-  <div class="views-field-title">
-                <span class="field-content"><a href="/deals/singapore/june-holidays-special-4-adventure-cove-waterpark-one-day-pass-beat-queue-get-you">$4 OFF Adventure Cove Waterpark™ One-Day Pass – Beat The Queue &amp; Get Your Admission Ticket Here  – Open Ticket Valid Till 31 Aug 2014</a></span>
-  </div>
-  
-  <div class="views-field-field-discount-value">
-                <span class="field-content">Save 11%</span>
-  </div>
-  
-  <div class="views-field-view-node">
-                <span class="field-content"><a href="/deals/singapore/june-holidays-special-4-adventure-cove-waterpark-one-day-pass-beat-queue-get-you">VIEW</a></span>
-  </div>
-    </div>
-    <div id="small_shadow_v"></div>
-  </div>
-  <div class="view-side-deal-v2-wrapper">
-    <div class="views-row views-row-8 views-row-even">
-        
-  <div class="views-field-field-image-fid">
-                <span class="field-content"><a href="/deals/singapore/only-1380-all-you-can-eat-taiwan-porridge-lunch-buffet-dragoncity-over-50-variet"><img src="http://static.deal.com.sg/sites/default/files/imagecache/product_sidedeal_v2/watermark_main/dragon-city2.jpg" alt="" title="" width="204" height="108" class="imagecache imagecache-product_sidedeal_v2 imagecache-default imagecache-product_sidedeal_v2_default"></a></span>
-  </div>
-  
-  <div class="views-field-title">
-                <span class="field-content"><a href="/deals/singapore/only-1380-all-you-can-eat-taiwan-porridge-lunch-buffet-dragoncity-over-50-variet">Only $13.80 For All-You-Can-Eat Taiwan Porridge Lunch Buffet at DragonCity With Over 50 Varieties – Enjoy Herbal Chicken, Garlic Squid, Braised Pork With Preserved Veg, Prawn Rolls, Hot Plate Tofu &amp; Many More (Valid Daily &amp; *Kids Dine For Free)</a></span>
-  </div>
-  
-  <div class="views-field-field-discount-value">
-                <span class="field-content">Save 30%</span>
-  </div>
-  
-  <div class="views-field-view-node">
-                <span class="field-content"><a href="/deals/singapore/only-1380-all-you-can-eat-taiwan-porridge-lunch-buffet-dragoncity-over-50-variet">VIEW</a></span>
-  </div>
-    </div>
-    <div id="small_shadow_v"></div>
-  </div>
-  <div class="view-side-deal-v2-wrapper">
-    <div class="views-row views-row-9 views-row-odd">
-        
-  <div class="views-field-field-image-fid">
-                <span class="field-content"><a href="/deals/singapore/latest-singapore-attraction-only-30-admission-alive-museum-river-cruise-10-popey"><img src="http://static.deal.com.sg/sites/default/files/imagecache/product_sidedeal_v2/Alive-Museum-revised-2.jpg" alt="" title="" width="204" height="108" class="imagecache imagecache-product_sidedeal_v2 imagecache-default imagecache-product_sidedeal_v2_default"></a></span>
-  </div>
-  
-  <div class="views-field-title">
-                <span class="field-content"><a href="/deals/singapore/latest-singapore-attraction-only-30-admission-alive-museum-river-cruise-10-popey">Latest Singapore Attraction: Only $30 for Admission to Alive Museum + River Cruise + $10 Popeye Meal Voucher</a></span>
-  </div>
-  
-  <div class="views-field-field-discount-value">
-                <span class="field-content">Save 47%</span>
-  </div>
-  
-  <div class="views-field-view-node">
-                <span class="field-content"><a href="/deals/singapore/latest-singapore-attraction-only-30-admission-alive-museum-river-cruise-10-popey">VIEW</a></span>
-  </div>
-    </div>
-    <div id="small_shadow_v"></div>
-  </div>
-  <div class="view-side-deal-v2-wrapper">
-    <div class="views-row views-row-10 views-row-even">
-        
-  <div class="views-field-field-image-fid">
-                <span class="field-content"><a href="/deals/singapore/celebrating-newly-open-outlet-westgate-50-full-hair-colouring-sp-treatment-1-yea"><img src="http://static.deal.com.sg/sites/default/files/imagecache/product_sidedeal_v2/watermark_main/vintage-studio-main-revised.jpg" alt="" title="" width="204" height="108" class="imagecache imagecache-product_sidedeal_v2 imagecache-default imagecache-product_sidedeal_v2_default"></a></span>
-  </div>
-  
-  <div class="views-field-title">
-                <span class="field-content"><a href="/deals/singapore/celebrating-newly-open-outlet-westgate-50-full-hair-colouring-sp-treatment-1-yea">Celebrating Newly Open Outlet at Westgate! $50 for Full Hair Colouring + SP Treatment + 1-Year Gold Membership at Vintage Studio - Also Redeemable at Bugis+, Far East Plaza &amp; Bedok Point (Scalp Spa Therapy Option Available)</a></span>
-  </div>
-  
-  <div class="views-field-field-discount-value">
-                <span class="field-content">Save 80%</span>
-  </div>
-  
-  <div class="views-field-view-node">
-                <span class="field-content"><a href="/deals/singapore/celebrating-newly-open-outlet-westgate-50-full-hair-colouring-sp-treatment-1-yea">VIEW</a></span>
-  </div>
-    </div>
-    <div id="small_shadow_v"></div>
-  </div>
-  <div class="view-side-deal-v2-wrapper">
-    <div class="views-row views-row-11 views-row-odd">
-        
-  <div class="views-field-field-image-fid">
-                <span class="field-content"><a href="/deals/singapore/adventure-cove-waterpark-one-day-pass-beat-queue-get-your-admission-ticket-here"><img src="http://static.deal.com.sg/sites/default/files/imagecache/product_sidedeal_v2/Advencute-Cove-Waterpark-revised-5.jpg" alt="" title="" width="204" height="108" class="imagecache imagecache-product_sidedeal_v2 imagecache-default imagecache-product_sidedeal_v2_default"></a></span>
-  </div>
-  
-  <div class="views-field-title">
-                <span class="field-content"><a href="/deals/singapore/adventure-cove-waterpark-one-day-pass-beat-queue-get-your-admission-ticket-here">Adventure Cove Waterpark™ One-Day Pass – Beat The Queue &amp; Get Your Admission Ticket Here + Earn 1080 DEAL Points With This Purchase (Instead of 360 DEAL Points) – Open Ticket Valid Till 30 Sep 2014</a></span>
-  </div>
-  
-  <div class="views-field-field-discount-value">
-                <span class="field-content">Save 0%</span>
-  </div>
-  
-  <div class="views-field-view-node">
-                <span class="field-content"><a href="/deals/singapore/adventure-cove-waterpark-one-day-pass-beat-queue-get-your-admission-ticket-here">VIEW</a></span>
-  </div>
-    </div>
-    <div id="small_shadow_v"></div>
-  </div>
-  <div class="view-side-deal-v2-wrapper">
-    <div class="views-row views-row-12 views-row-even views-row-last">
-        
-  <div class="views-field-field-image-fid">
-                <span class="field-content"><a href="/deals/singapore/only-780-air-con-servicing-se-aircon-engineering-includes-checking-operation-mot"><img src="http://static.deal.com.sg/sites/default/files/imagecache/product_sidedeal_v2/Aircon.jpg" alt="" title="" width="204" height="108" class="imagecache imagecache-product_sidedeal_v2 imagecache-default imagecache-product_sidedeal_v2_default"></a></span>
-  </div>
-  
-  <div class="views-field-title">
-                <span class="field-content"><a href="/deals/singapore/only-780-air-con-servicing-se-aircon-engineering-includes-checking-operation-mot">Only $7.80 For Air Con Servicing by SE Aircon Engineering - Includes Checking Operation Of Motor + Blower + Evaporator Coil</a></span>
-  </div>
-  
-  <div class="views-field-field-discount-value">
-                <span class="field-content">Save 81%</span>
-  </div>
-  
-  <div class="views-field-view-node">
-                <span class="field-content"><a href="/deals/singapore/only-780-air-con-servicing-se-aircon-engineering-includes-checking-operation-mot">VIEW</a></span>
-  </div>
-    </div>
-    <div id="small_shadow_v"></div>
-  </div>
-    </div>
-  
-  
-  
-  
-  
-  
-</div><!-- /.view -->
-    </div>
-  </div>
-  </div> <!-- /.block -->
-  <div style="clear: both; font-size: 0;"></div>
-</div><!-- /.region -->
-</div>
-                                    <div class="clear"></div>
-                                  </div>
-              </div>
-              <!-- /#content-inner, /#content -->
-            </div>
-          </div>
-        </div>
-        <!-- /#main, /#main-wrapper -->
-        <div id="footer_container">
-          <div id="footer_link">
-            <div id="footer_link_content"><div class="region region-footer-links">
-  <!--<div id="block-" class="">-->
-<div id="block-block-47" class="clear-block block block-block block block-block first last region-odd odd region-count-1 count-9 footer_menus_v3">
-  
-  <div class="content">
-    <div>
- <p style="font-size: 15px; text-transform: uppercase; padding-top: 12px; color:#fff; background: transparent; font-weight: bold;">Company Info</p>
-    <ul>
-       <li><a href="/about_us">About Us</a></li>
-       <li><a href="/collectionpoint">Collection Point</a></li>
-       <li><a href="/investors">Investors</a></li>
-      <li><a href="/careers">Careers</a></li>
-      <li><a href="/corporate-identity-logos">Corporate Identity</a></li>
-  </ul>
-</div>
-<div>
- <p style="font-size: 15px; text-transform: uppercase; padding-top: 12px;color:#fff; background: transparent; font-weight: bold;">Company Policies</p>
-    <ul>
-       <li><a href="/terms_and_conditions">Universal T&amp;C</a></li>
-<!--       <li><a href="/dealshop_terms_and_conditions">DEAL Shop T&C</a></li> -->
-       <li><a href="/return_policy">Return Policy</a></li>
-      <li><a href="/privacy_policy">Privacy Policy</a></li>
-       <li><a href="/deal_rewards_programme">DEAL Rewards</a></li>
-  </ul>
-</div>
-<div>
- <p style="font-size: 15px; text-transform: uppercase; padding-top: 12px;color:#fff; background: transparent; font-weight: bold;">Customer Service</p>
-    <ul>
-       <li><a href="/about_us#contact_us">Contact Us</a></li>
-       <li><a href="/suggest_deal">Suggest a Business</a></li>
-       <li><a href="/how_it_works#faq">FAQ</a></li>
-  </ul>
-</div>
-<div>
- <p style="font-size: 15px; text-transform: uppercase; padding-top: 12px;color:#fff; background: transparent; font-weight: bold;">More</p>
-    <ul>
-       <li><a href="/how_it_works">How it works</a></li>
-       <li><a href="/shareandearn">Refer Friends, Get $1000</a></li>
-       <li><a href="/press">Press</a></li>
-       <li><a href="/affiliate/affiliates/">Affiliates</a></li>
-       <li><span style="display: none"><!--[CDATA[<noindex-->]]&gt;</span><a href="http://www.shopclick.sg/category/market-place-13" target="_blank" rel="nofollow">More Discounts</a><span style="display: none"><!--[CDATA[</noindex-->]]&gt;</span></li>
-  </ul>
-</div>
-<div style="display:none">
- <h1 style="font-size: 15px; text-transform: uppercase; padding-bottom: 20px;color:#fff;">Follow Us</h1>
-    <ul class="follow_us">
-       <li><a href="#" class="fo_fb">Facebook</a></li>
-       <li><a href="#" class="fo_tw">Twitter</a></li>
-       <li><a href="#" class="fo_gp">Google Plus</a></li>
-       <li><a href="#" class="fo_pin">Pinterest</a></li>
-  </ul>
-</div>  </div>
-
-  </div> <!-- /.block -->
-  <div style="clear: both; font-size: 0;"></div>
-</div><!-- /.region -->
-</div>
-          </div>
-          <!-- Viral Ninjas -->
-                      <script type="text/javascript" src="https://tag.viralninjas.com/dealsg/von.js" defer="true" async="true"></script>                                <div id="footer">
-              <div id="footer-wrapper">
-                <div id="footer-wrapper-2"> <div class="region region-footer">
-  <!--<div id="block-" class="">-->
-<div id="block-block-13" class="clear-block block block-block block block-block first region-odd odd region-count-1 count-7 ">
-  
-  <div class="content">
-    <div style="display: none;">
-
-
-
-
-<!-- g plus -->
-<script type="text/javascript">
-  (function() {
-    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
-    po.src = 'https://apis.google.com/js/plusone.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+<!--[if lt IE 9]>
+<script src="//content.deal.com.sg/sites/beecrazy_newdesign/assets/js/html5shiv.js" type="text/javascript"></script>
+<![endif]-->
+<script src="//content.deal.com.sg/sites/beecrazy_newdesign/assets/js/jquery.min.js" type="text/javascript"></script>
+<link href="/assets/application-e9b3ebe221f88139cab007dd1396ea32.css" media="screen" rel="stylesheet" type="text/css">
+<link href="//fonts.googleapis.com/css?family=Oxygen" media="screen" rel="stylesheet" type="text/css">
+<link href="/assets/favicon-8e5b84372ba240f01ab4ee64f99373b5.ico" rel="shortcut icon" type="image/vnd.microsoft.icon">
+<script>
+  var dealids = dealids || [];
+  var orderid = 0;
+  var orderprice = 0;
+  var ScarabQueue = ScarabQueue || [];
+  var _paq = _paq || [];
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-59333674-1']);
+  _gaq.push(['_setDomainName', 'deal.com.sg']);
+  _gaq.push(['_trackPageview']);
+</script>
+<script>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+  (function(){
+    var gads = document.createElement('script');
+    gads.async = true;
+    var useSSL = 'https:' == document.location.protocol;
+    gads.src = (useSSL ? 'https:' : 'http:') + '//www.googletagservices.com/tag/js/gpt.js';
+    var node = document.getElementsByTagName('script')[0];
+    node.parentNode.insertBefore(gads, node);
   })();
 </script>
+<script>
+  googletag.cmd.push(function() {
+    googletag.pubads().enableSingleRequest();
+    googletag.pubads().disableInitialLoad();
+    googletag.enableServices();
+  });
+</script>
+<script>
+  (function() {
+    var _fbq = window._fbq || (window._fbq = []);
+    if (!_fbq.loaded) {
+      var fbds = document.createElement('script');
+      fbds.async = true;
+      fbds.src = '//connect.facebook.net/en_US/fbds.js';
+      var s = document.getElementsByTagName('script')[0];
+      s.parentNode.insertBefore(fbds, s);
+      _fbq.loaded = true;
+    }
+    _fbq.push(['addPixelId', '822738384485324']);
+  })();
+  window._fbq = window._fbq || [];
+  window._fbq.push(['track', 'PixelInitialized', {}]);
+</script>
+<script>
+  $(document).ready(function($) {
+    //console.log(EnsogoTracker);
+    EnsogoTracker.campaign();
+  });
+</script>
+</head>
+<body class="en sg">
+<div id="fb-root"></div>
+<!--[if IE 6]>
+<div id='upgrade-browser'>
+Your browser is no longer supported. Please upgrade to a modern browser.
+</div>
+<![endif]-->
+<script>
+  dataLayer = [];
+  user_id = 0;
+</script>
+<script>
+  dataLayer.push({'user_id': user_id});
+</script>
+<script>
+  // Google Tag Manager
+  (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-PN4HSQ');
+</script>
+<noscript>
+<iframe height='0' src='//www.googletagmanager.com/ns.html?id=GTM-PN4HSQ' style='display:none;visibility:hidden' width='0'></iframe>
+</noscript>
+<div class="site-wrapper">
 
-<!-- pinterest -->
-<script type="text/javascript" src="//assets.pinterest.com/js/pinit.js"></script>
 
-<!-- alexa -->
-<span style="display: none"><!--[CDATA[<noindex-->]]&gt;</span><a href="http://www.alexa.com/siteinfo/deal.com.sg" rel="nofollow"><script src="http://xslt.alexa.com/site_stats/js/s/a?url=deal.com.sg" type="text/javascript"></script></a><span style="display: none"><!--[CDATA[</noindex-->]]&gt;</span>
 
-<!-- crazyegg -->
-
-<!-- GDM Re targeting Pixel -->
-<script>(function(a){var d=document,c=d.createElement("script");c.async=!0,c.defer=!0,c.src=a,d.getElementsByTagName("head")[0].appendChild(c)})((iatDev=(window.location.href.indexOf("iatDev=1")>-1||document.cookie.indexOf("iatDev=1")>-1),"//"+(window.location.protocol=="http:"&&!iatDev?"h":"")+"j.flxpxl.com/292380.js?r="+Math.random()*1e16+"&m=992&a=292380"+(iatDev?"&d=1":"")))</script>
-
-</div>  </div>
-
-  </div> <!-- /.block -->
-<!--<div id="block-" class="">-->
-<div id="block-block-46" class="clear-block block block-block block block-block last region-even even region-count-2 count-8 follow_us_class">
-  
-  <div class="content">
-    <div class="copyrights">
-  <p style="font-size: 15px; padding-top: 6px; color:#fff; background: transparent; font-weight: bold;">DEALGURU Holdings Pte Ltd. All Rights Reserved.<br>
-Deal Travel Pte Ltd. All Rights Reserved.</p>
+<div class="site-nav">
+<div class="nav-top">
+<div class="main">
+<div class="contact-info">
+<div class="countries">
+<div class="dropdown">
+<a class="dropdown-toggle" data-toggle="dropdown" href="javascript:void(0);">
+<img src="//static.deal.com.sg/sites/beecrazy_newdesign/assets/images/flag-sg.png">
+<div class="cs">
+<span class="translation_missing" title="translation missing: en.Singapore">Singapore</span>
+<i class="icon-sort-down"></i>
+</div>
+</a>
+<ul class="dropdown-menu country-choices">
+<li>
+<a href="http://www.beecrazy.hk">
+<img src="//static.deal.com.sg/sites/beecrazy_newdesign/assets/images/flag-hk.png">
+Hong Kong
+</a>
+</li>
+<li>
+<a href="http://id.ensogo.com">
+<img src="//static.deal.com.sg/sites/beecrazy_newdesign/assets/images/flag-id.png">
+Indonesia
+</a>
+</li>
+<li>
+<a href="http://www.ensogo.com.my">
+<img src="//static.deal.com.sg/sites/beecrazy_newdesign/assets/images/flag-my.png">
+Malaysia
+</a>
+</li>
+<li>
+<a href="http://www.ensogo.com.ph">
+<img src="//static.deal.com.sg/sites/beecrazy_newdesign/assets/images/flag-ph.png">
+Philippines
+</a>
+</li>
+<li>
+<a href="http://www.ensogo.co.th">
+<img src="//static.deal.com.sg/sites/beecrazy_newdesign/assets/images/flag-th.png">
+Thailand
+</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="cs number">
+<img class="phone-icon" src="//static.deal.com.sg/sites/beecrazy_newdesign/assets/images/top_nav/icon-phone.png">
++65 6299 3011
+</div>
+<a class="mail number" href="mailto:sg.crm@ensogo.com">
+<img class="email-icon" src="//static.deal.com.sg/sites/beecrazy_newdesign/assets/images/top_nav/icon-email.png">
+Email Us
+</a>
+</div>
+<ul class="pull-right">
+<li class="facebook">
+<div class="fb-like" data-href="http://www.facebook.com/Deal.com.sg" data-layout="button_count" data-width="200"></div>
+</li>
+<li>
+<a class="login-modal reg top-pills" data-target="#login-box" data-toggle="modal">
+Sign in
+</a>
+</li>
+<li class="my-cart">
+<a class="mycart top-pills" href="/en/checkout/cart">
+Cart
+</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="main">
+<div class="nav-main">
+<div class="menu-first">
+<div class="logo">
+<a alt="Ensogo" class="logo-image" href="/"></a>
+</div>
+<div class="search-form">
+<form action="/deals/search" id="deals-search-form">
+<input class="ui-autocomplete-input" id="q" name="q" type="text">
+<span class="search-icon"></span>
+</form>
+<div class="popular_search">
+Popular Searches
+<a href="/en/deals/search?q=spa" class="popular_search_item">spa</a>
+<a href="/en/deals/search?q=batam" class="popular_search_item">batam</a>
+<a href="/en/deals/search?q=buffet" class="popular_search_item">buffet</a>
+</div>
+</div>
+</div>
+<div class="menu-second">
+<div class="nav-discount hide"></div>
+<div class="menu-main">
+<div class="buttons">
+<ul>
+<li class=" " id="category-new-deals">
+<a href="/categories/new-deals">
+</a>
+</li>
+<li class=" " id="category-new-events">
+<a href="/categories/new-events">
+</a>
+</li>
+<li class=" first" id="category-dining">
+<a href="/categories/dining">
+<span class="deal-name en">
+Dining
+</span>
+</a>
+<div class="submenu submenu-dining">
+<div class="sections-list">
+<div class="Bestsellers Dining section">
+<a href="/categories/dining/section/dining-bestsellers"><b>Dining Bestsellers</b> (5)</a>
+</div>
+<div class="Best Buffets section">
+<a href="/categories/dining/section/best-buffets"><b>Best Buffets</b> (29)</a>
+</div>
+<div class="Local section">
+<a href="/categories/dining/section/local"><b>Local</b> (36)</a>
+</div>
+<div class="European section">
+<a href="/categories/dining/section/european"><b>European</b> (9)</a>
+</div>
+<div class="Thai section">
+<a href="/categories/dining/section/thai"><b>Thai</b> (12)</a>
+</div>
+<div class="Japanese section">
+<a href="/categories/dining/section/japanese"><b>Japanese</b> (9)</a>
+</div>
+<div class="&amp; Bakeries Cafes section">
+<a href="/categories/dining/section/bakeries-cafes"><b>Bakeries &amp; Cafes</b> (16)</a>
+</div>
+<div class="Fine Wine section">
+<a href="/categories/dining/section/fine-wine"><b>Fine Wine</b> (1)</a>
+</div>
+<div class="shop-all">
+<a href="/categories/dining">Shop All &gt;</a>
+</div>
+</div>
+<div class="featured-items">
+<div class="featured-item">
+<a href="http://www.deal.com.sg/deals/the-element-amara-hotel-singapore-fathers-day-buffet-indulge-in-an-extensive-international-dinner-buffet-from-only-30-nett-onwards-located-at-tanjong-pagar-valid-on-20-and-21-jun-2015" target="">
+<img src="http://static1.deal.com.sg/sites/beecrazy_newdesign/assets/images/category_featured_banners/48/banner0_en.jpg?ts=1434065371">
+</a>
+</div>
+<div class="featured-item">
+<a href="http://www.deal.com.sg/deals/deal-exclusive-25-80-for-ye-chun-xiao-jiang-nan-handmade-xiao-long-bao-dim-sum-and-chinese-cuisine-buffet-valid-daily-for-lunch-and-dinner" target="">
+<img src="http://static2.deal.com.sg/sites/beecrazy_newdesign/assets/images/category_featured_banners/48/banner1_en.jpg?ts=1433457818">
+</a>
+</div>
+</div>
+</div>
+</li>
+<li class=" " id="category-beauty">
+<a href="/categories/beauty">
+<span class="deal-name en">
+Beauty
+</span>
+</a>
+<div class="submenu submenu-beauty">
+<div class="sections-list">
+<div class="Bestsellers Wellness section">
+<a href="/categories/beauty/section/wellness-bestsellers"><b>Wellness Bestsellers</b> (3)</a>
+</div>
+<div class="&amp; Massage Spa section">
+<a href="/categories/beauty/section/massage-spa"><b>Massage &amp; Spa</b> (71)</a>
+</div>
+<div class="&amp; Facial Skin Treatment section">
+<a href="/categories/beauty/section/skin-treatment-facial"><b>Skin Treatment &amp; Facial</b> (68)</a>
+</div>
+<div class="&amp; Hair Scalp section">
+<a href="/categories/beauty/section/hair-scalp"><b>Hair &amp; Scalp</b> (54)</a>
+</div>
+<div class="Nails section">
+<a href="/categories/beauty/section/nails"><b>Nails</b> (47)</a>
+</div>
+<div class="&amp; Body Shaping Slimming section">
+<a href="/categories/beauty/section/body-shaping-slimming"><b>Body Shaping &amp; Slimming</b> (28)</a>
+</div>
+<div class="Hair Removal section">
+<a href="/categories/beauty/section/hair-removal"><b>Hair Removal</b> (41)</a>
+</div>
+<div class="Other Services section">
+<a href="/categories/beauty/section/other-services"><b>Other Services</b> (40)</a>
+</div>
+<div class="shop-all">
+<a href="/categories/beauty">Shop All &gt;</a>
+</div>
+</div>
+<div class="featured-items">
+<div class="featured-item">
+<a href="http://www.deal.com.sg/deals/gss-special-raffles-place-and-2-other-locations-only-15-for-spa-manicure-and-pedicure-at-almost-paradise-includes-shatter-effect-nails-or-glittered-or-coloured-french-tips-6-options-available" target="">
+<img src="http://static2.deal.com.sg/sites/beecrazy_newdesign/assets/images/category_featured_banners/49/banner0_en.jpg?ts=1432941437">
+</a>
+</div>
+<div class="featured-item">
+<a href="http://www.deal.com.sg/deals/arabian-body-indulgence-at-spajelita-eunos-includes-60-min-full-body-massage-foot-ginger-therapy-sauna-and-steam-60-min-deluxe-facial-2-pax-option-available" target="">
+<img src="http://static3.deal.com.sg/sites/beecrazy_newdesign/assets/images/category_featured_banners/49/banner1_en.jpg?ts=1434065216">
+</a>
+</div>
+</div>
+</div>
+</li>
+<li class=" " id="category-travel">
+<a href="/categories/travel">
+<span class="deal-name en">
+Travel
+</span>
+</a>
+<div class="submenu submenu-travel">
+<div class="sections-list">
+<div class="Bestsellers Travel section">
+<a href="/categories/travel/section/travel-bestsellers"><b>Travel Bestsellers</b> (8)</a>
+</div>
+<div class="Packages section">
+<a href="/categories/travel/section/packages"><b>Packages</b> (103)</a>
+</div>
+<div class="Tickets Travel section">
+<a href="/categories/travel/section/travel-tickets"><b>Travel Tickets</b> (20)</a>
+</div>
+<div class="Hotels section">
+<a href="/categories/travel/section/hotels"><b>Hotels</b> (44)</a>
+</div>
+<div class="Activities Travel section">
+<a href="/categories/travel/section/travel-activities"><b>Travel Activities</b> (61)</a>
+</div>
+<div class="NETT PRICE section">
+<a href="/categories/travel/section/nett-price"><b>NETT PRICE</b> (4)</a>
+</div>
+<div class="shop-all">
+<a href="/categories/travel">Shop All &gt;</a>
+</div>
+</div>
+<div class="featured-items">
+<div class="featured-item">
+<a href="http://www.deal.com.sg/deals/lowest-price-guaranteed-batam-2d1n-stay-at-the-gideon-hotel-1432224040" target="">
+<img src="http://static3.deal.com.sg/sites/beecrazy_newdesign/assets/images/category_featured_banners/51/banner0_en.jpg?ts=1434065282">
+</a>
+</div>
+<div class="featured-item">
+<a href="http://www.deal.com.sg/deals/bangkok-early-bird-flight-booking-via-singapore-airline-1433953695" target="">
+<img src="http://static1.deal.com.sg/sites/beecrazy_newdesign/assets/images/category_featured_banners/51/banner1_en.jpg?ts=1434065326">
+</a>
+</div>
+</div>
+</div>
+</li>
+<li class=" " id="category-products">
+<a href="/categories/products">
+<span class="deal-name en">
+Products
+</span>
+</a>
+<div class="submenu submenu-products">
+<div class="sections-list">
+<div class="Supplements section">
+<a href="/categories/products/section/supplements"><b>Supplements</b> (197)</a>
+</div>
+<div class="&amp; Bags Travel section">
+<a href="/categories/products/section/bags-travel"><b>Bags &amp; Travel</b> (91)</a>
+</div>
+<div class="&amp; Kids Toys section">
+<a href="/categories/products/section/toys-kids"><b>Toys &amp; Kids</b> (57)</a>
+</div>
+<div class="Cosmetics section">
+<a href="/categories/products/section/cosmetics-fragrances"><b>Cosmetics</b> (146)</a>
+</div>
+<div class="&amp; Beauty Health section">
+<a href="/categories/products/section/product-health-beauty"><b>Health &amp; Beauty</b> (22)</a>
+</div>
+<div class="Beauty Tools section">
+<a href="/categories/products/section/beauty-tools"><b>Beauty Tools</b> (28)</a>
+</div>
+<div class="Fitness section">
+<a href="/categories/products/section/products-fitness"><b>Fitness</b> (15)</a>
+</div>
+<div class="Jewellery section">
+<a href="/categories/products/section/jewellery-new"><b>Jewellery</b> (10)</a>
+</div>
+<div class="sections-list sections-list-right">
+<div class="Watches section">
+<a href="/categories/products/section/product-watches"><b>Watches</b> (6)</a>
+</div>
+<div class="&amp; Drinks Food section">
+<a href="/categories/products/section/food-drinks"><b>Food &amp; Drinks</b> (6)</a>
+</div>
+<div class="Personal Pleasure section">
+<a href="/categories/products/section/personal-pleasure"><b>Personal Pleasure</b> (21)</a>
+</div>
+</div>
+<div class="shop-all">
+<a href="/categories/products">Shop All &gt;</a>
+</div>
+</div>
+<div class="featured-items">
+<div class="featured-item">
+<a href="http://www.deal.com.sg/deals/19-90-for-mango-saffiano-effect-tote-available-in-black-khaki-and-blue" target="">
+<img src="http://static2.deal.com.sg/sites/beecrazy_newdesign/assets/images/category_featured_banners/2775/banner0_en.jpg?ts=1432941574">
+</a>
+</div>
+<div class="featured-item">
+<a href="http://www.deal.com.sg/deals/3-day-delivery-sennheiser-cx300-ii-includes-1-year-warranty" target="">
+<img src="http://static3.deal.com.sg/sites/beecrazy_newdesign/assets/images/category_featured_banners/2775/banner1_en.jpg?ts=1433756903">
+</a>
+</div>
+</div>
+</div>
+</li>
+<li class=" " id="category-electronics">
+<a href="/categories/electronics">
+<span class="deal-name en">
+Electronics
+</span>
+</a>
+<div class="submenu submenu-electronics">
+<div class="sections-list">
+<div class="Accessories section">
+<a href="/categories/electronics/section/electronics-accessories"><b>Accessories</b> (54)</a>
+</div>
+<div class="Audio section">
+<a href="/categories/electronics/section/audio"><b>Audio</b> (20)</a>
+</div>
+<div class="&amp; Computer Laptops section">
+<a href="/categories/electronics/section/computer-laptops"><b>Computer &amp; Laptops</b> (2)</a>
+</div>
+<div class="&amp; Gadgets Gaming section">
+<a href="/categories/electronics/section/gadgets-gaming"><b>Gadgets &amp; Gaming</b> (30)</a>
+</div>
+<div class="&amp; Mobile Tablets section">
+<a href="/categories/electronics/section/mobile-tablets"><b>Mobile &amp; Tablets</b> (33)</a>
+</div>
+<div class="&amp; Cameras TV section">
+<a href="/categories/electronics/section/tv-cameras"><b>TV &amp; Cameras</b> (14)</a>
+</div>
+<div class="Powerbanks section">
+<a href="/categories/electronics/section/powerbanks"><b>Powerbanks</b> (10)</a>
+</div>
+<div class="shop-all">
+<a href="/categories/electronics">Shop All &gt;</a>
+</div>
+</div>
+<div class="featured-items">
+<div class="featured-item">
+<a href="http://www.deal.com.sg/deals/only-25-90-for-an-8-multi-port-adaptor-cord-0-5a-1-0a-2-1a-charge-up-to-8-devices-at-one-go-keep-track-of-charging-status-at-a-glance" target="">
+<img src="http://static2.deal.com.sg/sites/beecrazy_newdesign/assets/images/category_featured_banners/2777/banner0_en.jpg?ts=1433988563">
+</a>
+</div>
+<div class="featured-item">
+<a href="http://www.deal.com.sg/deals/a5-portable-perfume-power-bank-2600mah-battery-w-strap-for-mobile-phone-available-in-black-and-white" target="">
+<img src="http://static3.deal.com.sg/sites/beecrazy_newdesign/assets/images/category_featured_banners/2777/banner1_en.jpg?ts=1432516991">
+</a>
+</div>
+</div>
+</div>
+</li>
+<li class=" " id="category-home-living">
+<a href="/categories/home-living">
+<span class="deal-name en">
+Home
+</span>
+</a>
+<div class="submenu submenu-home-living">
+<div class="sections-list">
+<div class="Bathroom section">
+<a href="/categories/home-living/section/bathroom"><b>Bathroom</b> (49)</a>
+</div>
+<div class="Furniture section">
+<a href="/categories/home-living/section/furniture"><b>Furniture</b> (36)</a>
+</div>
+<div class="&amp; Beddings Deco Home section">
+<a href="/categories/home-living/section/home-deco-beddings"><b>Home Deco &amp; Beddings</b> (55)</a>
+</div>
+<div class="&amp; Dining Kitchen section">
+<a href="/categories/home-living/section/kitchen-dining"><b>Kitchen &amp; Dining</b> (79)</a>
+</div>
+<div class="Appliances Large section">
+<a href="/categories/home-living/section/large-appliances"><b>Large Appliances</b> (10)</a>
+</div>
+<div class="Appliances Small section">
+<a href="/categories/home-living/section/small-appliances"><b>Small Appliances</b> (87)</a>
+</div>
+<div class="Storage section">
+<a href="/categories/home-living/section/storage"><b>Storage</b> (86)</a>
+</div>
+<div class="shop-all">
+<a href="/categories/home-living">Shop All &gt;</a>
+</div>
+</div>
+<div class="featured-items">
+<div class="featured-item">
+<a href="http://www.deal.com.sg/deals/free-delivery-only-9-80-for-10pcs-of-the-square-print-customized-magnets-more-rectangle-print-option-available" target="">
+<img src="http://static2.deal.com.sg/sites/beecrazy_newdesign/assets/images/category_featured_banners/2776/banner0_en.jpg?ts=1434065492">
+</a>
+</div>
+<div class="featured-item">
+<a href="http://www.deal.com.sg/deals/free-delivery-portable-height-adjustable-aluminium-table" target="">
+<img src="http://static3.deal.com.sg/sites/beecrazy_newdesign/assets/images/category_featured_banners/2776/banner1_en.jpg?ts=1432940893">
+</a>
+</div>
+</div>
+</div>
+</li>
+<li class=" " id="category-activity">
+<a href="/categories/activity">
+<span class="deal-name en">
+Activity
+</span>
+</a>
+</li>
+<li class=" " id="category-fashion">
+<a href="/categories/fashion">
+<span class="deal-name en">
+Fashion
+</span>
+</a>
+<div class="submenu submenu-fashion">
+<div class="sections-list">
+<div class="Women section">
+<a href="/categories/fashion/section/fashion-women"><b>Women</b> (323)</a>
+</div>
+<div class="Men section">
+<a href="/categories/fashion/section/fashion-men"><b>Men</b> (125)</a>
+</div>
+<div class="Kids section">
+<a href="/categories/fashion/section/fashion-kids"><b>Kids</b> (24)</a>
+</div>
+<div class="Accessories section">
+<a href="/categories/fashion/section/fashion-accessories"><b>Accessories</b> (25)</a>
+</div>
+<div class="shop-all">
+<a href="/categories/fashion">Shop All &gt;</a>
+</div>
+</div>
+<div class="featured-items">
+<div class="featured-item">
+<a href="http://www.deal.com.sg/deals/free-delivery-only-24-90-for-mango-variable-leather-shopping-bag-stylish-elegant-and-versatile-tote-bag" target="">
+<img src="http://static2.deal.com.sg/sites/beecrazy_newdesign/assets/images/category_featured_banners/1266/banner0_en.jpg?ts=1432940982">
+</a>
+</div>
+<div class="featured-item">
+<a href="http://www.deal.com.sg/deals/chanel-vip-gift-pouch-available-in-black-pink-and-beige" target="">
+<img src="http://static2.deal.com.sg/sites/beecrazy_newdesign/assets/images/category_featured_banners/1266/banner1_en.jpg?ts=1433743718">
+</a>
+</div>
+</div>
+</div>
+</li>
+<li class=" " id="category-luxury">
+<a href="/categories/luxury">
+<span class="deal-name en">
+Luxury
+</span>
+</a>
+<div class="submenu submenu-luxury">
+<div class="sections-list">
+<div class="Jewellery section">
+<a href="/categories/luxury/section/jewellery"><b>Jewellery</b> (8)</a>
+</div>
+<div class="Eyewear section">
+<a href="/categories/luxury/section/eyewear"><b>Eyewear</b> (3)</a>
+</div>
+<div class="Watches section">
+<a href="/categories/luxury/section/watches"><b>Watches</b> (1)</a>
+</div>
+<div class="Others section">
+<a href="/categories/luxury/section/other-luxury"><b>Others</b> (15)</a>
+</div>
+<div class="Handbags section">
+<a href="/categories/luxury/section/handbags"><b>Handbags</b> (18)</a>
+</div>
+<div class="Wallets section">
+<a href="/categories/luxury/section/wallets"><b>Wallets</b> (15)</a>
+</div>
+<div class="Sale section">
+<a href="/categories/luxury/section/sale"><b>Sale</b> (1)</a>
+</div>
+<div class="shop-all">
+<a href="/categories/luxury">Shop All &gt;</a>
+</div>
+</div>
+<div class="featured-items">
+<div class="featured-item">
+<a href="http://www.deal.com.sg/deals/gucci-mens-101-series-ya101331-1433437770" target="">
+<img src="http://static3.deal.com.sg/sites/beecrazy_newdesign/assets/images/category_featured_banners/44/banner0_en.jpg?ts=1433458054">
+</a>
+</div>
+<div class="featured-item">
+<a href="http://www.deal.com.sg/deals/iwc-portuguese-chrono-automatic-mens-watch-iw371445-1432746708" target="">
+<img src="http://static1.deal.com.sg/sites/beecrazy_newdesign/assets/images/category_featured_banners/44/banner1_en.jpg?ts=1433458099">
+</a>
+</div>
+</div>
+</div>
+</li>
+<li class=" " id="category-rws">
+<a href="/categories/rws">
+<span class="deal-name en">
+RWS
+</span>
+</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="main nav-bottom"></div>
 </div>
 
-<div class="follow_us_2" style="display:block; float:right; width:365px;">
- <p style="font-size: 15px; text-transform: uppercase; padding: 6px 0 20px;color:#fff; float:left; background: transparent; font-weight: bold;">Follow Us</p>
-    <ul class="follow_us">
-       <li><span style="display: none"><!--[CDATA[<noindex-->]]&gt;</span><a href="https://www.facebook.com/Deal.com.sg" class="fo_fb" target="_blank" rel="nofollow">Facebook</a><span style="display: none"><!--[CDATA[</noindex-->]]&gt;</span></li>
-       <li><span style="display: none"><!--[CDATA[<noindex-->]]&gt;</span><a href="https://twitter.com/DEALGuruSG" class="fo_tw" target="_blank" rel="nofollow">Twitter</a><span style="display: none"><!--[CDATA[</noindex-->]]&gt;</span></li>
-       <li><span style="display: none"><!--[CDATA[<noindex-->]]&gt;</span><a href="https://plus.google.com/103746185140747641103/posts" class="fo_gp" target="_blank" rel="nofollow">Google Plus</a><span style="display: none"><!--[CDATA[</noindex-->]]&gt;</span></li>
-       <li><span style="display: none"><!--[CDATA[<noindex-->]]&gt;</span><a href="http://pinterest.com/dealguru/" class="fo_pin" target="_blank" rel="nofollow">Pinterest</a><span style="display: none"><!--[CDATA[</noindex-->]]&gt;</span></li>
-<!--       <li><a href="http://www.deal.com.sg/easter_guru" class="fo_guru" target="_blank">Easter guru</a></li> -->
-  </ul>
-</div>  </div>
+<div class="nav-sub sub-nav-fixed hide" id="nav-sub-main">
+<div class="nav-sub-container-left">
 
-  </div> <!-- /.block -->
-  <div style="clear: both; font-size: 0;"></div>
-</div><!-- /.region -->
-                                  </div>
-              </div>
-            </div>
-            <!-- /.section, /#footer -->
+</div>
+<div class="nav-sub-container-right">
 
-                  </div>
-      </div>
-    </div>
-    <!-- /#page, /#page-wrapper -->
-    <div style="display:none;"><!--deal_tracker-->
-<!--all_visitors--><img height="1" width="1" style="border-style:none;" alt="" src="http://www.googleadservices.com/pagead/conversion/1013955118/?label=v_YuCOL-zgIQrvS-4wM&amp;guid=ON&amp;script=0"></div>
-<script type="text/javascript">
-<!--//--><![CDATA[//><!--
-$(document).ready(function() {
-      var toggleAds = function(id) {
-        if ($(id +" .gam-holder").is(":visible") === false) {
-          $(id).hide();
-        }
-      }
-      setTimeout(function() {
-        toggleAds(".leader-board-wrapper-1");
-      }, 3000);
-      setTimeout(function() {
-        toggleAds(".leader-board-wrapper-2");
-      }, 3000);
-      setTimeout(function() {
-        toggleAds("#deal-page-ad-block");
-      }, 3000);
-      setTimeout(function() {
-        toggleAds(".block-google_admanager");
-      }, 3000);
+
+
+<div class="btn_up"></div>
+<script>
+  jQuery(document).ready(function($) {
+    $('.btn_up').click(function() {
+      $("html, body").animate({ scrollTop: 0 }, "fast");
     });
-//--><!]]>
+  });
 </script>
-<script type="text/javascript">
-<!--//--><![CDATA[//><!--
-ScarabQueue.push(["view",484]);
-//--><!]]>
-</script>
-<script type="text/javascript">
-<!--//--><![CDATA[//><!--
-ScarabQueue.push(["go"]);
-//--><!]]>
-</script>
-<script type="text/javascript">
-<!--//--><![CDATA[//><!--
-$(document).ready(function() {
-                       $(".sidebar_subscribe_cart").hover(
-                         function() { $(this).animate({opacity:1},200); }, 
-                         function() { $(this).animate({opacity:0.8},200); }
-                       ); 
-                     });
-//--><!]]>
-</script>
-<script type="text/javascript">
-<!--//--><![CDATA[//><!--
-var vizury_product_id=484;
-//--><!]]>
-</script>
-  <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-5.newrelic.com","licenseKey":"9335d18ebb","applicationID":"1860401","transactionName":"MgEAZUZWVhIFUkBbDQtLI1JAXlcPS1VRUw46Cg1VUQ==","queueTime":0,"applicationTime":418,"ttGuid":"","agentToken":"","atts":"HkYDEw5MRRw=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-411.min.js"}</script>
 
-<script src="https://js-agent.newrelic.com/nr-411.min.js"></script></body></html>
+</div>
+</div>
+
+
+<div class="wrapper">
+<div class="loading-bubbles hide">
+<span id="loading-bubble1"></span>
+<span id="loading-bubble2"></span>
+<span id="loading-bubble3"></span>
+</div>
+
+
+<div class="container" id="pages-about-the-deals">
+<div class="static-page-container">
+<div class="static-page-heading-wrapper">
+<div class="static-page-heading-dark-bg">
+<span class="static-page-title" title="Privacy Policy">
+Privacy Policy
+</span>
+</div>
+</div>
+<div class="static-page-content-wrapper">
+<div id="privacy-policy">
+<div style="padding:20px;"><div><div></div><div><p>Your privacy is important to us. This privacy statement provides guidelines and conditions regarding the personal information that DEAL.com.sg collects, and the ways in which DEAL.com.sg uses that personal information.</p><p>&nbsp;</p><p>&nbsp;</p><b>PERSONAL INFORMATION COLLECTION</b><p>DEAL.com.sg may collect and use the following kinds of personal information:</p><p>&nbsp;</p><p>Any information about your use of this website<br>Any information that you provide while registering with the website<br>Any information about transactions carried out over this website<br>Any information that you provide for the purpose of subscribing to the website services<br>Any other information that you send to DEAL.com.sg</p><p>&nbsp;</p><p>&nbsp;</p><b>USING PERSONAL INFORMATION</b><p>DEAL.com.sg may use your personal information to:</p><p>&nbsp;</p><p>Administer this website<br>Personalize the website for you<br>Enable your access to and use of the website services<br>Publish information about you on the website<br>Send to you products / information that we deem relevant before / during / after the purchase<br>Supply to you services that you purchase<br>Send you statements and invoices<br>Collect payments from you; and<br>Send you marketing communications via Email, SMS and/or Direct Call</p><p>&nbsp;</p><p>Where DEAL.com.sg discloses your personal information to its agents or sub-contractors for these purposes, the agent or sub-contractor in question will be obligated to use that personal information in accordance with the terms of this privacy statement.</p><p>&nbsp;</p><p>In addition to the disclosures reasonably necessary for the purposes identified elsewhere above, DEAL.com.sg may disclose your personal information to the extent that it is required to do so by law, in connection with any legal proceedings or prospective legal proceedings, and in order to establish, exercise or defend its legal rights.</p><p>&nbsp;</p><p>&nbsp;</p><b>USE OF COOKIES</b><p>Cookies are small packets of data that are stored in your browser when you visit our site. Data stored includes, but not limited to, user preferences, session and other information. We use these information to understand our users better, customize our services and promote effective and tailored ads. In short, cookies allow us to improve overall user experience.</p><p>&nbsp;</p><p>On certain pages on the site, third parties may also place or recognize unique cookies in your browser. The use of these cookies is not governed by this policy but is subject to their own policies and we do not have control over that.</p><p>&nbsp;</p><p>You can choose to refuse or remove cookies. However if you do this, some website services or features may not function properly.</p><p>&nbsp;</p><p>&nbsp;</p><b>ADS ON THIRD PARTY VENDORS</b><p>We do promotions on other third party sites, including Google, hence our ads are shown on these sites. However, our ads are completely independent of the the sites' policy, content, etc.</p><p>&nbsp;</p><p>&nbsp;</p><b>SECURING YOUR DATA</b><p>DEAL.com.sg will take all reasonable technical and organisational precautions to prevent the loss, misuse or alteration of your personal information.</p><p>&nbsp;</p><p>DEAL.com.sg will store all the personal information you provide on its secure servers.</p><p>&nbsp;</p><p>Information relating to electronic transactions entered into via this website will be protected by encryption technology.</p><p>&nbsp;</p><p>&nbsp;</p><b>CROSS-BORDER DATA TRANSFERS</b><p>Information that DEAL.com.sg collects may be stored and processed in and transferred between any of the countries in which DEAL.com.sg or its subsidiaries / partners / affiliates operate, to enable the use of the information in accordance with this privacy policy.</p><p>&nbsp;</p><p>In addition, personal information that you submit for publication on the website will be published on the internet and may be available around the world.</p><p>&nbsp;</p><p>You agree to such cross-border transfers of personal information.</p><p>&nbsp;</p><p>&nbsp;</p><b>UNSUBSCRIBE</b><p>1] Please open our daily newsletter sent to your registered e-mail address/s.</p><p>&nbsp;</p><p>2] Scroll to the bottom of the daily newsletter and click on the unsubscribe link.</p><p>&nbsp;</p><p>3] You will be directed to a page to confirm your decision; please click select “Unsubscribe” again; although we’d love it if you choose the other option.</p><p>&nbsp;</p><p>4] If you have trouble finding the link on our e-mail / are unable to visit the external page, please call us or drop us a line and we’ll unsubscribe you from our communications manually.</p><p>&nbsp;</p><p>&nbsp;</p><b>UPDATING THIS STATEMENT</b><p>DEAL.com.sg may update this privacy policy by posting a new version on this website.</p><p>&nbsp;</p><p>You should check this page occasionally to ensure you are familiar with any changes.</p><p>&nbsp;</p><p>&nbsp;</p><b>OTHER WEBSITES</b><p>This website may contain links to other websites; DEAL.com.sg is not responsible for the privacy policies or practices of any third party.</p><p>&nbsp;</p><p>&nbsp;</p><b>CONTACT DEAL.COM.SG</b><p>If you have any questions about this privacy policy or DEAL.com.sg’s treatment of your personal information, please write to:</p><p>&nbsp;</p><p>By email to:&nbsp;<a target="_blank" rel="nofollow">info@deal.com.sg</a></p><p>Or</p><p>By post to:<br>2 Kallang Avenue<br>CT Hub<br>#03-05<br>Singapore 339407</p><p>Or</p><p>By phone</p><p>6299 3011</p></div></div></div>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+<div class="footer-wrapper">
+<div class="footer">
+<div class="footer-menu">
+<ul>
+<li>
+<a href="/page/about-us">
+About Us
+</a>
+</li>
+<li class="line_break"></li>
+<li>
+<a href="/page/contact-us">
+Contact Us
+</a>
+</li>
+<li class="line_break"></li>
+<li>
+<a href="/page/privacy-policy">
+Privacy Policy
+</a>
+</li>
+<li class="line_break"></li>
+<li>
+<a href="/page/term-and-conditions">
+Terms &amp; Conditions
+</a>
+</li>
+<li class="line_break"></li>
+<li>
+<a href="http://merchants.deal.com.sg" rel="nofollow" target="_blank">
+Partner Login
+</a>
+</li>
+</ul>
+
+</div>
+<div class="bottom">
+<div class="copy">
+<span>
+Copyright © 2015 Ensogo
+</span>
+</div>
+</div>
+</div>
+</div>
+
+<div class="modal hide fade in" id="login-box">
+<div class="header">
+<a class="close" data-dismiss="modal">
+<i class="icon-remove icon-white"></i>
+</a>
+</div>
+<div class="modal-content content">
+<div class="login-form-col">
+<div id="login-form-container">
+<div class="login-heading">
+SIGN IN
+</div>
+<form accept-charset="UTF-8" action="/en/users/login" id="login-form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"><input name="authenticity_token" type="hidden" value="ZSJOiTmMl6ovJzw0Fm9gyZ3KFDOYPQp/6eqlRKzZy5Y="></div>
+<div class="inputs-row">
+Email
+<br>
+<input name="email" required="" type="text">
+<br>
+Password
+<br>
+<input name="password" required="" type="password">
+<br>
+<div class="login-btn-row">
+<button class="button-red" id="login-btn" type="submit">
+Submit
+</button>
+<a class="forgot-password" id="forgot_password">
+Forgot Password?
+</a>
+</div>
+</div>
+</form>
+
+</div>
+<div class="hide" id="signup-form-container">
+<div class="login-heading">
+SIGN UP
+</div>
+<form accept-charset="UTF-8" action="/en/users/register" id="signup-form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"><input name="authenticity_token" type="hidden" value="ZSJOiTmMl6ovJzw0Fm9gyZ3KFDOYPQp/6eqlRKzZy5Y="></div>
+<div class="inputs-row">
+Email
+<br>
+<input autocomplete="off" name="email" required="" type="text">
+<br>
+Password
+<br>
+<input autocomplete="off" name="password" required="" type="password">
+<br>
+Confirm Password
+<br>
+<input autocomplete="off" name="password_confirmation" required="" type="password">
+<br>
+First Name
+<br>
+<input id="signup_first_name" name="first_name" required="" type="text">
+<br>
+Last Name
+<br>
+<input id="signup_last_name" name="last_name" required="" type="text">
+<span class="translation_missing" title="translation missing: en.views.users.attributes.name.mobile">Mobile</span>
+<br>
+<input id="signup_mobile" name="mobile" required="" type="text">
+<br>
+<div class="terms">
+<input checked="checked" id="terms_of_service" name="terms_of_service" type="checkbox" value="terms_of_service">
+I certify that I am at least 16 years old and I have read and agree to <a href="/page/term-and-conditions" target="_blank">the terms and conditions</a> and <a href="/page/privacy-policy" target="_blank">privacy policy</a>
+<br>
+<br>
+<input checked="checked" id="terms_of_service_advertising" name="terms_of_service_advertising" type="checkbox" value="terms_of_service_advertising">
+I hereby provide Dealguru Holdings and its affiliates, permission to send the marketing messages via email, sms and other available means.
+</div>
+</div>
+<div class="signup-btn-row">
+<button class="button-red" id="signup-btn" type="submit">
+Shop Now!
+</button>
+</div>
+</form>
+
+</div>
+<div class="hide" id="forgot-password-form-container">
+<div class="login-heading">
+Forgot Password
+</div>
+<form accept-charset="UTF-8" action="/en/users/forgot_password" id="forgot-password-form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"><input name="authenticity_token" type="hidden" value="ZSJOiTmMl6ovJzw0Fm9gyZ3KFDOYPQp/6eqlRKzZy5Y="></div>
+<div class="inputs-row">
+<div class="forgot-password-instruction">
+Enter your Email, and we will send you instructions for resetting your password.
+</div>
+<div class="forgot-password-email">
+Email
+<br>
+<input autocomplete="off" name="email" required="" type="email">
+</div>
+<div class="forgot-password-btn-row">
+<button class="button-red" id="forgot-password-btn" type="submit">
+Send
+</button>
+<a class="toggle-login" href="javascript:void(0);">
+Back
+</a>
+</div>
+</div>
+</form>
+
+</div>
+</div>
+<div class="register-col">
+<div class="register-heading">
+SIGN UP
+</div>
+<div id="new-to-us">
+Are you new here?
+<button class="register-btn button-red" id="register-toggle">
+Continue
+</button>
+</div>
+<div class="hide" id="re-login-container">
+<div class="register-instructions en">
+Only alphabet letters and 0-9 numbers are allowed. Must start with an alphabet. Must be minimum of 3 characters and maximum of 20 characters. No special characters and spaces allowed.
+</div>
+Already have an account?
+<br>
+<a class="toggle-login" href="javascript:void(0);">
+Click here to Sign in!
+</a>
+</div>
+</div>
+<div class="alert hide" id="login-message">
+<a class="close" href="javascript:void(0);" onclick="$('#login-message').hide();return false">
+x
+</a>
+<div id="login-message-content"></div>
+</div>
+<div class="caring hide" style="height:47px;width:184px;float:right;margin:15px;">
+<img alt="Caringbestlogo-b" src="//static.deal.com.sg/sites/beecrazy_newdesign/assets/images/caringbestlogo-b.png">
+</div>
+</div>
+</div>
+
+</div>
+<script>
+  currency_symbol = '$';
+  current_user = "";
+  nav_sub_scrollable = false;
+  show_popup_47501 = false;
+</script>
+<script src="//content.deal.com.sg/sites/beecrazy_newdesign/assets/js/bootstrap.min.js" type="text/javascript"></script>
+<script src="/assets/application-18e885a30e079d119ab49ce57b7f2bfc.js" type="text/javascript"></script>
+<script src="//content.deal.com.sg/sites/beecrazy_newdesign/assets/js/emstrack.js" type="text/javascript"></script>
+<script>
+  emsSetEnv("www1");
+  emsTracking(127817027, "deal.com.sg");
+</script>
+
+<script>
+  I18n.locale = 'en';
+</script>
+<script>
+  // Analytics
+  
+  // Google
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    //ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+<script>
+  // scarabresearch.com
+  ScarabQueue.push(['go']);
+  //console.log('ScarabQueue', ScarabQueue);
+  (function(subdomain, id) {
+    if (document.getElementById(id)) return;
+    var js = document.createElement('script'); js.id = id;
+    js.src = subdomain + '.scarabresearch.com/js/10FFAC5E036EC30D/scarab-v2.js';
+    var fs = document.getElementsByTagName('script')[0];
+    fs.parentNode.insertBefore(js, fs);
+  })('https:' == document.location.protocol ? 'https://recommender' : 'http://cdn', 'scarab-js-api');
+</script>
+<script>
+  // Vizury
+  (function() {
+    try {
+      //console.log('dealids', dealids);
+      var viz = document.createElement("script");
+      viz.type = "text/javascript";
+      viz.async = true;
+      viz.src = ("https:" == document.location.protocol ? "https://cdn6.vizury.com" : "http://cdn6.vizury.com") + "/analyze/pixel.php?account_id=VIZVRM3358";
+      var s = document.getElementsByTagName("script")[0];
+      s.parentNode.insertBefore(viz, s);
+      viz.onload = function() {
+        try {
+          pixel.parse();
+        } catch (i) {
+        }
+      };
+      viz.onreadystatechange = function() {
+        if (viz.readyState == "complete" || viz.readyState == "loaded") {
+          try {
+            pixel.parse();
+          } catch (i) {
+          }
+        }
+      };
+    } catch (i) {
+    }
+  })();
+</script>
+<script>
+  /* <![CDATA[ */
+  var google_conversion_id = 1013955118;
+  var google_custom_params = window.google_tag_params;
+  var google_remarketing_only = true;
+  /* ]]> */
+</script>
+<div style="display:none">
+<script src="//www.googleadservices.com/pagead/conversion.js" type="text/javascript"></script>
+</div>
+<noscript>
+<div style='display:none'>
+<img alt='' height='1' src='//googleads.g.doubleclick.net/pagead/viewthroughconversion/1013955118/?value=0&amp;amp;guid=ON&amp;amp;script=0' style='border-style:none;' width='1'>
+<img height='1' src='https://www.facebook.com/tr?id=822738384485324&amp;amp;ev=PixelInitialized' style='display:none' width='1'>
+</div>
+</noscript>
+
+
+</body></html>
