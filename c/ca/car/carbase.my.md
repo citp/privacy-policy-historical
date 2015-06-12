@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the carbase.my privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122165643id_/http%3A//www.carbase.my/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carbase.my privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612211830id_/http%3A//www.carbase.my/content/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy Notice | Carbase.my
 
