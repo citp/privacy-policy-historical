@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the artvan.com privacy policy that was archived on 2013-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131112193129id_/http%3A//www.artvan.com/Furniture/Store/Content_PrivacyPolicy_10001_10052_-1%3FICID%3DFT-Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the artvan.com privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612174910id_/http%3A//www.artvan.com/Furniture/Store/Content_PrivacyPolicy_10001_10052_-1_N%3FICID%3Dfooter) for the most accurate reproduction.*
 
-# Privacy Policy & Terms of Use - Art Van Furniture - Michigan's Furniture Leader
+# Privacy Policy & Terms of Use
 
 By accepting these Privacy and Terms of Use through your use of the artvan.com Web site, you certify that you are 18 years of age or older. If you are under the age of 18 you may use artvan.com only under the supervision of a parent or legal guardian who agrees to be bound by this document. If you do not agree to (or cannot comply with) any statement listed, do not use this Web site.
 
