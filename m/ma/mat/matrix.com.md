@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the matrix.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625101953id_/http%3A//www.matrix.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the matrix.com privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612092017id_/http%3A//www.matrix.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | matrix.com/
-
-## 
-
-Privacy Policy 
+# Privacy Policy | matrix.com
 
 **Matrix.com Privacy Policy (Updated October 16, 2013)**
 
@@ -15,8 +11,6 @@ Thank you for visiting the Matrix website.  We appreciate the importance of you
 Your use of the Sites constitutes your acceptance of this Privacy and Cookie Notice and consent to the practices described.
 
 **1.       ****Information COLLECTED**
-
-****
 
 You may visit and browse the Sites without providing personally identifiable information about yourself.  However, this may limit your ability to receive certain features, products or services from Us.  
 
@@ -48,8 +42,6 @@ We may also receive information about you from outside records from third partie
 
 **3.       ****USE AND SHARING OF INFORMATION  
 **
-
-********
 
 Matrix uses the information we collect about you for a variety of business purposes, including: 
 
