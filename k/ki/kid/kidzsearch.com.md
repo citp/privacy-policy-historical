@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kidzsearch.com privacy policy that was archived on 2014-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141228063658id_/http%3A//www.kidzsearch.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kidzsearch.com privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612023540id_/http%3A//www.kidzsearch.com/privacy.html) for the most accurate reproduction.*
 
 # KidzSearch Terms and Conditions / Privacy Statement
 
@@ -6,7 +6,7 @@
   
 **Terms and Conditions / Privacy Policy**
 
-Search results provided by Google SafeSearch with additional keyword filtering by KidzSearch.com. KidzSearch offers no guarantees or warranties on results. Please [contact us](https://web.archive.org/web/20141228063658id_/http%3A//www.kidzsearch.com/contactus.html) if you have any specific issues or concerns about results found. 
+Search results provided by Google SafeSearch with additional keyword filtering by KidzSearch.com. KidzSearch offers no guarantees or warranties on results. Please [contact us](https://web.archive.org/web/20150612023540id_/http%3A//www.kidzsearch.com/contactus.html) if you have any specific issues or concerns about results found. 
 
 KidzSearch believes that maintaining the online privacy of children is essential to building a safe site where kids can learn and play. We provide the following information about our policies in conformance with the 1998 Children's Online Privacy Protection Act (COPPA).  **
 
@@ -54,5 +54,5 @@ Personal information about children under 13 years of age may be needed to respo
 
 **6\. How can I contact KidzSearch if I have questions about this Privacy Policy?**
 
-If you have any questions about the KidzSearch Privacy Policy, [email us](https://web.archive.org/web/20141228063658id_/http%3A//www.kidzsearch.com/contactus.html).   
+If you have any questions about the KidzSearch Privacy Policy, [email us](https://web.archive.org/web/20150612023540id_/http%3A//www.kidzsearch.com/contactus.html).   
  
