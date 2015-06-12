@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cucas.edu.cn privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121101620id_/http%3A//www.cucas.edu.cn/server/details%3Fid%3D677) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cucas.edu.cn privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612195213id_/http%3A//www.cucas.edu.cn/server/details%3Fid%3D677) for the most accurate reproduction.*
 
 # CUCAS Privacy Policy | Best Agent for Study in China | Study in China | CUCAS in China | Study in China | CUCAS
 
