@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cloudvpsfiles.com privacy policy that was archived on 2014-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141129212337id_/http%3A//www.cloudvpsfiles.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cloudvpsfiles.com privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612140057id_/http%3A//www.cloudvpsfiles.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Cloud VPS Files
 
@@ -52,10 +52,8 @@ By using this Site, you signify your acceptance of this policy and terms of serv
 Contacting us
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
-Cloud VPS Files
-
-http://www.cloudvpsfiles.com/
-
+Cloud VPS Files  
+http://www.cloudvpsfiles.com/  
 Boston  
 US  
 cloudvpsfiles[at]gmail[dot]com
