@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the successcds.net privacy policy that was archived on 2014-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141221153632id_/http%3A//www.successcds.net/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the successcds.net privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612122029id_/http%3A//www.successcds.net/Privacy-Policy.html) for the most accurate reproduction.*
 
 # SuccessCDs - Privacy Policy
 
