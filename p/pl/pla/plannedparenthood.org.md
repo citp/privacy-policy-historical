@@ -1,25 +1,15 @@
-> *The following text is extracted and transformed from the plannedparenthood.org privacy policy that was archived on 2014-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141212073735id_/http%3A//www.plannedparenthood.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plannedparenthood.org privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612122906id_/http%3A//www.plannedparenthood.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Planned Parenthood
 
 #### [Planned Parenthood](https://web.archive.org/)
 
-  * [ Health Info & Services ](https://web.archive.org/health-info "Health Info & Services")
-    * [Planned Parenthood Locations](https://web.archive.org/health-center)
-    * [What Does Obamacare Mean for Me?](http://plannedparenthoodhealthinsurancefacts.org/?utm_source=ppfa&utm_medium=menu+link&utm_content=What+does+ObamaCare+Mean+for+Me?&utm_campaign=Dropdown)
-    * [Abortion](https://web.archive.org/health-info/abortion)
-    * [Birth Control](https://web.archive.org/health-info/birth-control)
-    * [Body Image](https://web.archive.org/health-info/body-image)
-    * [General Health Care](https://web.archive.org/health-info/general-health-care)
-    * [Men's Sexual Health](https://web.archive.org/health-info/men)
-    * [Morning-After Pill (Emergency Contraception)](https://web.archive.org/health-info/morning-after-pill-emergency-contraception)
-    * [Pregnancy](https://web.archive.org/health-info/pregnancy)
-    * [Relationships](https://web.archive.org/health-info/relationships)
-    * [Sex & Sexuality](https://web.archive.org/health-info/sexuality)
-    * [Sexual Orientation & Gender](https://web.archive.org/health-info/sexual-orientation-gender)
-    * [STDs](https://web.archive.org/health-info/stds-hiv-safer-sex)
-    * [Video Visit](http://www.plannedparenthood.org/get-care/online/video-visit)
-    * [Women's Health](https://web.archive.org/health-info/womens-health)
+  * [ Learn ](https://web.archive.org/learn "Learn")
+  * [ Get Care ](https://web.archive.org/get-care "Get Care")
+    * [Find a Health Center](https://web.archive.org/health-center)
+    * [Get Birth Control Online](https://web.archive.org/get-care/birth-control-online)
+    * [Online STD Testing](https://web.archive.org/get-care/online-std-testing)
+    * [Health Insurance](http://plannedparenthoodhealthinsurancefacts.org/?utm_source=ppfa&utm_medium=menu+link&utm_content=What+does+ObamaCare+Mean+for+Me?&utm_campaign=Dropdown)
   * [ Get Involved ](https://web.archive.org/get-involved "Get Involved")
     * [Share Your Story](https://web.archive.org/get-involved/share-your-story)
     * [Donate](https://secure.ppaction.org/site/Donation2?df_id=12913&12913.donation=form1)
@@ -41,7 +31,7 @@
 
 
 
-Planned Parenthood Federation of America and Planned Parenthood Affiliates (collectively “Planned Parenthood”, “we,” “our,” or “us”) respects and is committed to protecting the privacy of users of our websites, applications, and other online services (collectively, the “Online Services”). We want our Online Services to be safe and helpful, and to help make you aware of our data practices we drafted this Privacy Policy, which describes the ways in which Planned Parenthood uses, discloses, and collects information from or about you through [www.plannedparenthood.org](http://www.plannedparenthood.org/), [www.plannedparenthoodaction.org](http://www.plannedparenthoodaction.org/), and all other Online Services that link to this policy. Please be aware that your use of the Online Services is not guaranteed to be anonymous, and Planned Parenthood may collect, use, and disclose information about your use of the Online Services as set forth in this Privacy Policy.
+Planned Parenthood Federation of America, Planned Parenthood Action Fund, and Planned Parenthood Affiliates (collectively “Planned Parenthood”, “we,” “our,” or “us”) respects and is committed to protecting the privacy of users of our websites, applications, and other online services (collectively, the “Online Services”). We want our Online Services to be safe and helpful, and to help make you aware of our data practices we drafted this Privacy Policy, which describes the ways in which Planned Parenthood uses, discloses, and collects information from or about you through [www.plannedparenthood.org](http://www.plannedparenthood.org/), [www.plannedparenthoodaction.org](http://www.plannedparenthoodaction.org/), and all other Online Services that link to this policy. Please be aware that your use of the Online Services is not guaranteed to be anonymous, and Planned Parenthood may collect, use, and disclose information about your use of the Online Services as set forth in this Privacy Policy.
 
 Important note: This Privacy Policy does not apply to information you may share with Planned Parenthood in connection with your receipt of healthcare services online or via in-person visits at facilities operated by Planned Parenthood Affiliates. Such information is protected by state and federal law.
 
