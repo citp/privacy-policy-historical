@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the babyworld.co.uk privacy policy that was archived on 2014-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141203071129id_/http%3A//babyworld.co.uk/private-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the babyworld.co.uk privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612121701id_/http%3A//babyworld.co.uk/private-policy) for the most accurate reproduction.*
 
 # Privacy Policy | babyworld
 
