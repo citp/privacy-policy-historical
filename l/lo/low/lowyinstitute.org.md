@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lowyinstitute.org privacy policy that was archived on 2014-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141221131309id_/http%3A//www.lowyinstitute.org/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lowyinstitute.org privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612043025id_/http%3A//www.lowyinstitute.org/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy- Lowy Institute for International Policy | Lowy Institute for International Policy
 
