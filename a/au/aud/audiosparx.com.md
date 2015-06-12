@@ -1,31 +1,7 @@
-> *The following text is extracted and transformed from the audiosparx.com privacy policy that was archived on 2014-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141223034634id_/http%3A//www.audiosparx.com/sa/legal/privacy_policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the audiosparx.com privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612214243id_/http%3A//www.audiosparx.com/sa/legal/privacy_policy.cfm) for the most accurate reproduction.*
 
 # AudioSparx Privacy Policy
 
-21st century sound effects,  
-sound effects for use in theatre,  
-downloadable wav files,  
-movie trailer sound effects free,  
-thx sound,  
-free endangered species downloadable sounds,  
-free hospital sound effects,  
-sound effects plane crash,  
-wild west sound effects,  
-barcode sounds,  
-download robot sound effects,  
-99 cent sound effects,  
-sounds examples,  
-marshall 2 watt fx amp,  
-wav sounds free,  
-music samples and sounds,  
-stage sound effects,  
-sound effects to use for movies,  
-game show sound fx,  
-microsoft downloads sounds 
-
-| 
-
-|   
 ---  
   
 **Privacy Policy of AudioSparx  **
@@ -106,24 +82,3 @@ We know that you care how your information is used, and we appreciate your trust
   
   
 
-
-video game sounds downloads,  
-sound effects on line,  
-音响效果,  
-free sound effects wav download,  
-free circus sound effects,  
-free gun sound effects soundboard downloads,  
-free fx house on fire sound files,  
-free sounds to download,  
-wmv sound clip train,  
-downloadable sound effects free falling,  
-animal sounds,  
-coffee shop sound effects free,  
-farting soundes,  
-barking dogs sound effect,  
-free soundeffects,  
-drum roll sound effect,  
-trumpet fanfare sound effect,  
-uk sound effects,  
-aiff sound effects,  
-sound effect library 
