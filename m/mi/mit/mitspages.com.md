@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mitspages.com privacy policy that was archived on 2014-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141224171005id_/http%3A//mitspages.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mitspages.com privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612222047id_/http%3A//mitspages.com/privacy-policy) for the most accurate reproduction.*
 
 # MITS Pages – Dynamic Landing Pages For Your Business – Privacy Policy
 
