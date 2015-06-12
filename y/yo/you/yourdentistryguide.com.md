@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yourdentistryguide.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220115319id_/http%3A//www.yourdentistryguide.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yourdentistryguide.com privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612130437id_/http%3A//www.yourdentistryguide.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - The Consumer Guide to Dentistry
 
@@ -24,4 +24,4 @@ You must be at least 18 years old to have our permission to use this site. Our p
 
 ## Other Sites
 
-You have the opportunity to access other sites from this website, by clicking on either a text link or an advertisement. Please be aware that when you leave this site, you will enter sites outside the control of Ceatus Media Group LLC, and the privacy policies of those sites are likely to differ from ours. We suggest contacting these sites for relevant information about their data collection policies. 
+You have the opportunity to access other sites from this website, by clicking on either a text link or an advertisement. Please be aware that when you leave this site, you will enter sites outside the control of Ceatus Media Group LLC, and the privacy policies of those sites are likely to differ from ours. We suggest contacting these sites for relevant information about their data collection policies.
