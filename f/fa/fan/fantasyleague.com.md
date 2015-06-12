@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fantasyleague.com privacy policy that was archived on 2014-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141225083242id_/http%3A//www.fantasyleague.com/Content/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fantasyleague.com privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612092158id_/http%3A//www.fantasyleague.com/Content/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy and Cookies - Fantasy League
 
