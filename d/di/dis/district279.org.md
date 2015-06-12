@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the district279.org privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217153911id_/http%3A//www.district279.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the district279.org privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612185007id_/http%3A//www.district279.org/privacy) for the most accurate reproduction.*
 
 # ISD 279 - Osseo Area Schools - Privacy
 
