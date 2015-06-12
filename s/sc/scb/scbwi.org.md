@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scbwi.org privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121090956id_/http%3A//www.scbwi.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scbwi.org privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612133147id_/http%3A//www.scbwi.org/privacy-policy) for the most accurate reproduction.*
 
 # SCBWI | Privacy Policy
 
@@ -28,4 +28,4 @@ SCBWI may periodically update this policy. SCBWI will notify you about significa
 
 **Questions**
 
-Any questions about this Privacy Policy should be addressed to sararutenberg@scbwi.org or by mail at: 8271 Beverly Blvd., Los Angeles, CA 90048. 
+Any questions about this Privacy Policy should be addressed to sararutenberg@scbwi.org or by mail at: 4727 Wilshire Blvd., Suite 301, Los Angeles, CA 90010
