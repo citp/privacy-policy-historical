@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the businesswolf.org privacy policy that was archived on 2014-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141228102129id_/http%3A//businesswolf.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the businesswolf.org privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612032838id_/http%3A//businesswolf.org/privacy-policy) for the most accurate reproduction.*
 
-# Business Wolf » Privacy Policy
+# Privacy Policy – Business Wolf
 
-## Privacy Policy
-
- **Overview**
+**Overview**
 
 This privacy policy applies to Kshitij E-Learning ([www.businesswolf.org](http://businesswolf.org/)) on all platforms (web, mobile web, apps, emails).
 
