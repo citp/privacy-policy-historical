@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unlockallcellular.com privacy policy that was archived on 2014-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141218095427id_/http%3A//www.unlockallcellular.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unlockallcellular.com privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612180800id_/http%3A//www.unlockallcellular.com/privacy.php) for the most accurate reproduction.*
 
 # Unlock All Cellular - Privacy Policy
 
@@ -11,7 +11,7 @@ We collect information to:
 \- Improve your shopping experience.  
 \- To keep you posted on product updates that you would like to hear about.
 
-If you do not want Unlock All Cellular to keep you up to date with the latest information on products and services log in to [My Account](https://web.archive.org/web/20141218095427id_/http%3A//www.unlockallcellular.com/account.php "My Account") and update your personal contact information and preferences.
+If you do not want Unlock All Cellular to keep you up to date with the latest information on products and services log in to [My Account](https://web.archive.org/web/20150612180800id_/http%3A//www.unlockallcellular.com/account.php "My Account") and update your personal contact information and preferences.
 
 Our goal is to provide our customers with the highest level of service possible. From your first visit to our web site to the delivery of your order, we want you to be completely satisfied with the experience. By collecting information, we are able to offer you features, such as "My Account" (which saves you time during the order process), and a more customized web site that better reflects your individual preferences.
 
