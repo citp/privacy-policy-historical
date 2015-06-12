@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reddressboutique.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220172914id_/http%3A//www.reddressboutique.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reddressboutique.com privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612154641id_/http%3A//www.reddressboutique.com/privacy) for the most accurate reproduction.*
 
 # Privacy | The Red Dress Boutique
 
@@ -18,3 +18,5 @@ Protecting your information is our highest priority. We have developed several s
 Furthermore, only our store will have your information.
 
 To check the security of your connection during checkout, look for the unbroken key or closed lock at the bottom of your browser window. This indicates SSL is active.
+
+﻿ ﻿ ﻿ 
