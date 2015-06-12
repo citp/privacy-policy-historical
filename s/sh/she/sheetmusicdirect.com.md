@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the sheetmusicdirect.com privacy policy that was archived on 2014-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140703153138id_/http%3A//www.sheetmusicdirect.com/Help/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sheetmusicdirect.com privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612020333id_/http%3A//www.sheetmusicdirect.com/Help/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy at Sheetmusicdirect.com
+
+## Privacy Policy
 
 ### Cookies [HTTP]
 
@@ -23,9 +25,8 @@ Behavioral |  | Behavioral cookies are linked to services provided by third part
 | BaynoteUserId | Provides similar product recommendations |   
 | BaynoteUserCode | Provides similar product recommendations |   
 | bn_u | Provides similar product recommendations |   
+| bn_trail | Remembers your recently viewed products |   
 | user_cookie_agreement | Allows site to determine if user has seen cookies  |   
-| sc.UserId | Provides website usage patterns, heatmaps and on-page user interaction data. |   
-| sc.ASP_NET_SESSIONID | Provides website usage patterns, heatmaps and on-page user interaction data. |   
   
 Sheetmusicdirect.com is committed to keeping the personal details of its visitors and customers private and secure. Information is kept in accordance with the Data Protection Act 1998 and our communications comply with the Privacy And Electronic Communications (EC Directive) Regulations 2003. 
 
