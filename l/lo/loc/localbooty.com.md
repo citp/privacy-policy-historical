@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the localbooty.com privacy policy that was archived on 2014-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141208183744id_/http%3A//www.localbooty.com/site/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the localbooty.com privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612104519id_/http%3A//www.localbooty.com/site/privacy) for the most accurate reproduction.*
 
 # Localbooty.com - Register now free for online dating and casual dates
 
