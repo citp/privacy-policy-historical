@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nagpurtoday.in privacy policy that was archived on 2014-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140914224502id_/http%3A//www.nagpurtoday.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nagpurtoday.in privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612083322id_/http%3A//www.nagpurtoday.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Nagpur Today : Nagpur News
 
