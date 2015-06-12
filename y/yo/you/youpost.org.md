@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the youpost.org privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120094904id_/http%3A//www.youpost.org/index.php%3Fview%3Dpage%26pagename%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the youpost.org privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612033818id_/http%3A//www.youpost.org/index.php%3Fview%3Dpage%26pagename%3Dprivacy) for the most accurate reproduction.*
 
-# Classified Ads YouPost.org - Free Classified Ads
+# YouPost.org - Free Classified Ads
 
 ## Privacy
 
