@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tollywoodandhra.in privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121065015id_/http%3A//www.tollywoodandhra.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tollywoodandhra.in privacy policy that was archived on 2015-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150613010446id_/http%3A//www.tollywoodandhra.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - TollywoodAndhra.in
 
@@ -94,5 +94,7 @@ Please also visit our Terms and Conditions section establishing the use, disclai
 and limitations of liability governing the use of our website .
 
 Contact us if you have any question regarding our privacy policy: contact us  
-at [admin@tollywoodandhra.in](https://web.archive.org/web/20141121065015id_/http://www.tollywoodandhra.in/privacy-policy/admin@tollywoodandhra.in "admin@tollywoodandhra.in") if you have any question regarding any issues of our  
+at [admin@tollywoodandhra.in](https://web.archive.org/web/20150613010446id_/http://www.tollywoodandhra.in/privacy-policy/admin@tollywoodandhra.in "admin@tollywoodandhra.in") if you have any question regarding any issues of our  
 privacy policy.
+
+It's only fair to share...
