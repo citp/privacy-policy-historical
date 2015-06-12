@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the biktahai.com privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217132503id_/http%3A//www.biktahai.com/privacy-policy-p29) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the biktahai.com privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612220115id_/http%3A//www.biktahai.com/privacy-policy-p29) for the most accurate reproduction.*
 
-# Privacy Policy - Biktahai Free Classified in Pakistan
+# Privacy Policy - Free classifieds in Pakistan
 
 Biktahai privacy policy regarding the collection, use and revelation of personal information with regard www.Biktahai.com our practice. This privacy policy may be granted to us without notice posted on the site can be updated at any time. In addition, this Privacy declaration may be concluded by agreement between us and the personal enhancement or modify from time to time. This privacy statement, personal information means any information about an identifiable person, including contact information and the population, not including communal information or information relating to the group in the short form.
 
