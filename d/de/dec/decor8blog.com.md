@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the decor8blog.com privacy policy that was archived on 2014-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140928093856id_/http%3A//decor8blog.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the decor8blog.com privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612090052id_/http%3A//decor8blog.com/privacy) for the most accurate reproduction.*
 
-# Privacy | decor8
+# Privacy Policy - decor8
 
 Your privacy is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and disclose and make use of personal information. The following outlines our privacy policy.
 
@@ -87,18 +87,15 @@ Changes to our Privacy Policy**
 
 If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below.
 
-This policy was last modified on 10/28/2013
+This policy was last modified on 05/31/2015
 
 **  
 Contacting Us**
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-http://decor8blog.com
-
+decor8, LLC  
 155 Fleet Street  
 Portsmouth, NH 03801  
 USA  
-decor8admin [at] decor8blog [dot] com
-
-This policy is powered by Free Privacy Policy and Rhino Support. Compare Rhino Support to [Zendesk](http://www.rhinosupport.com/zendesk.htm) and save! 
+webamster [at] decor8blog [dot] com
