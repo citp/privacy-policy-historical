@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the esko.com privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123091147id_/http%3A//www.esko.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the esko.com privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612032550id_/http%3A//www.esko.com/en/privacy-policy) for the most accurate reproduction.*
 
 # Esko Privacy Policy - Esko
 
@@ -19,7 +19,7 @@ When you visit any Esko website, we help you maintain control over your personal
 
 Esko gathers information about you from data that you provide through such things as optional or mandatory registration, online surveys, contests and the Web pages you visit. The types of personal information collected can include your name, mailing address, phone number, email address and internet protocol (IP) address. We may also ask you to provide us with demographic information such as your job function, industry, application, contact preferences or experience with our products.
 
-We generally collect this information at the time you register to use our website, subscribe to our service, post material or request further services. Esko may enhance or merge your information collected on our website with other operational data as well as data from [our affiliates and] third parties for purposes of marketing products or services to you. Such information enables us to better tailor our content to your needs.
+We generally collect this information at the time you register to use our website, subscribe to our service, post material or request further services. Esko may enhance or merge your information collected on our website with other operational data as well as data from our affiliates and third parties for purposes of marketing products or services to you. Such information enables us to better tailor our content to your needs.
 
 The information you provide will be used to support your professional relationship with Esko and our products. Among other things, we want to help you quickly find information on our websites and alert you to information on our products, services and programs. We also use this information to help you complete a transaction and in some cases to contact you for market research.
 
