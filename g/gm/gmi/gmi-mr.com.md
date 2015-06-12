@@ -1,77 +1,47 @@
-> *The following text is extracted and transformed from the gmi-mr.com privacy policy that was archived on 2014-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140921234614id_/http%3A//www.gmi-mr.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gmi-mr.com privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612223922id_/http%3A//www.lightspeedgmi.com/privacy-policy) for the most accurate reproduction.*
 
-# GMI | Global Market Insite | Privacy Policy
+# Privacy Policy - Lightspeed GMI
 
-  
+## Privacy Policy
 
+We have created this privacy policy in order to demonstrate our commitment to your privacy. The following discloses our practices for the collection and use of information solely in connection with the web site and service located at www.lightspeedgmi.com (the “Service”). By using or accessing the Service, you signify your assent to our Privacy Policy.
 
-## GMI is committed to safeguarding your privacy online.
+IF YOU DO NOT AGREE TO THIS PRIVACY POLICY YOU MAY NOT ACCESS OR OTHERWISE USE THE SERVICE. THIS SERVICE IS SUBJECT TO THE TERMS OF USE.
 
-Please read the following policy to understand how your personal information will be treated as you make full use of our many offerings. This policy may change from time to time so please check back periodically. 
+Collection of Personal and Non-Personal Information: When using the Service, in order to register to utilize some of the services you may be asked to provide, or you may choose to upload, certain personally identifiable information about yourself (“PII”). PII can include your name, email address and login information for your social networking services.
 
-In addition to the privacy policy guidelines noted below, GMI, including GMI's GlobalTestMarket, adheres to the principles set forth in the Safe Harbor frameworks as established by the U.S. Department of Commerce regarding the collection, use, and retention of personally identifiable information provided to GMI and GlobalTestMarket from the European Union and/or Switzerland.
+In addition, we may also collect non-personally identifiable information, such as your usage of the Service, IP host address, pages viewed, browser type, personal computer setting and other data, and may aggregate any information collected in a manner which does not identify any individual (“Non-PII”).
 
-## What personally identifiable information does GMI collect from me?
+Information Usage: Unless disclosed otherwise at the time of collection or in this privacy policy, we do not share any PII you submit through the Service with any unaffiliated third party, unless it is necessary to respond to your questions, provide the service you have requested or to comply with applicable law. This may include providing your PII to our contractors who are performing services on our behalf. We will never sell your PII to any third party not affiliated with Lightspeed GMI without your consent except in connection with the sale or merger, in whole or in part, of Lightspeed GMI, its assets or the division responsible for such Services.
 
-GMI collects information in several ways from different parts of our network of websites. Some personal information is gathered when you register. During registration, GMI asks for your name, email address, zip code, household information and personal interests. The more information you volunteer (and the more accurate it is), the better we are able to customize your experience. Once you register you are no longer anonymous to GMI -- you are given an account number which you will use to access the various protected areas of the site. Also, if you contact GMI, we may keep a record of that correspondence. Wherever GMI collects personal information we make an effort to include a link to this Privacy Policy on that page. 
+We may use your PII to contact you directly about products and services which we believe may be of interest to you.
 
-## What are cookies and how does GMI use them?
+We may use Non-PII to improve and enhance your experience on the Service and for our research activities. For example, we may share Non-PII with unaffiliated third parties, such as business partners, in an aggregate, anonymous form, which means that the shared information will not contain nor be linked to any PII.
 
-As part of offering and providing customizable and personalized services, GMI may use cookies to store and sometimes track information about you. A cookie is a small amount of data that is sent to your browser from a web server and stored on your computer's hard drive. Some areas on GMI where you are prompted to log-in or that are customizable may require that you accept cookies. This avoids you having to enter your login information many times in one day. 
+You should be aware that PII which you voluntarily include and transmit online in public forums may be viewed and used by others. We are unable to control such uses of your PII, and by using the Service you assume the risk that such PII provided by you may be viewed and used by third parties.
 
-## Who is collecting information and for what purpose?
+Please note that we reserve the right to access and/or disclose PII and non-PII we gather as required by courts or administrative agencies and to the extent required to permit us to investigate suspected fraud, harassment or other violations of any law, rule or regulation, the Terms Of Use, or the rights of third parties or to investigate any suspected conduct which we deem improper.
 
-GMI collects valuable information which assists in developing new products and services. When you are on a GMI site and are asked for personal information, you are sharing that information with GMI alone, unless it is specifically stated otherwise. If data is being collected and/or maintained by any company other than GMI, you will be notified prior to the time of the data collection or transfer. If you do not want your data to be shared, you can choose not to allow the transfer by not using that particular service. 
+Cookies: “Cookies” are pieces of information that may be placed on your computer by a web site for the purpose of facilitating and enhancing your communication and interaction with that web site. Many web sites use cookies for these purposes. We may use cookies, web beacons, clear gifs and similar technology to customize your visit to the Service and for other purposes to make your visit more convenient or to enable us to enhance our Service. You may stop or restrict the placement of cookies on your computer or flush them from your browser by adjusting your web browser preferences, in which case you may still use our Service, but it may interfere with some of its functionality. We do not use cookies to automatically retrieve PII from your computer without your knowledge.
 
-Promotions that run on GMI may be sponsored by companies other than GMI or may be co-sponsored by GMI and another company. Some or all data collected during a promotion may be shared with the sponsor. If data will be shared, you will be notified prior to the time of data collection or transfer. You can decide not to participate in the promotion if you don't want your data to be shared.
+Security Practices: The security of your PII is very important to us. We have put in place reasonable physical, electronic, and managerial procedures to safeguard the information we collect. However, due to the inherent open nature of the Internet, we cannot guarantee that communications between you and us or information stored on the Service or our servers, will be completely free from unauthorized access by third parties such as hackers and your use of the Service demonstrates your assumption of this risk.
 
-Any sensitive information (i.e. personal information specifying medical or health conditions, racial or ethnic origin, political opinions, religious or philosophical beliefs, trade union membership or information specifying the sex life of the individual) will be treated with additional care. If GMI intends to disclose such information to a third party or use it for a different purpose than originally collected, then you will be expressly asked permission prior to any such disclosure.
+Message to Parents Regarding Children’s Privacy: Our web sites may attract children younger than 13 years of age. On this page we give you notice of the limited information collected for the activities children may enjoy while visiting our Web sites.
 
-Please be aware that GMI advertisers or websites that have links on our site may collect personally identifiable information about you. The information practices of those websites linked to GMI are not covered by this privacy statement.
+For online games, your child may be asked to submit an invented screen name together with a secret password so that game scores can be recorded and compared to the scores of other players, also identified by screen names. Optional age and gender information may be collected in order to improve the site content.
 
-## With whom does GMI share my information?
+Your child may be able to send a pre-designed e-mail greeting to a friend through our website. For this activity your child’s first name and e-mail address will be inserted into the greeting, as well as the recipient’s first name and e-mail address, but we will not store this information.
 
-As a general rule, GMI will not disclose any of your personally identifiable information except when we have your permission or under special circumstances, such as when we believe in good faith that the law requires it or under the circumstances described below. Please see the [Terms of Use](https://web.archive.org/terms/) or Use Agreements for each of our products and services for more detailed information about how your personal information may be shared. The following describes some of the ways that your information may be disclosed. 
+For promotional contests and sweepstakes, we will make one request for the parent’s e-mail address, and first name only of the child in order to contact the parent in case the child is a winner. This information is deleted within a reasonable time period after the winners have been selected and is kept secure during such time. In addition to the above, we may collect tracking information in the aggregate, such as zip codes, in order to measure the interest in our Web site activities.
 
-Business Partners and Sponsors: GMI may disclose your personal information to business partners or sponsors, but this is specifically described to you prior to data collection or prior to transferring the data. If any personal data about were ever to be shared, we will tell you before we collect or transfer the data.
+Our current policy is not to collect any personally identifiable information for which prior parental consent is required under COPPA (Children’s Online Privacy Protection Act). We will update this notice to keep you informed of any changes in our policy.
 
-Many promotions offer opportunities to request additional information from sponsors. By requesting more information, you give GMI permission to transfer your personal information to the sponsor so they can fulfill your request. In many instances, only your email address will be shared. If more information will be shared with the sponsor, you will be notified prior to the transfer.
+Changes to policy; Opt-Out Process: We reserve the right, at our discretion, to change, modify, add, or remove portions from this policy at any time. However, if at any time in the future we plan to use PII in a way that differs from this policy, we will post such changes here and provide you the opportunity to opt-out of such differing uses. Your continued use of the Service following the posting of any changes to this policy means you accept such changes.
 
-From time to time, you may be offered the opportunity to receive materials or special offers from third parties. If you opt in to receive information from these third parties, GMI will (with your permission) share your name and email address with them.
+We give you the option to remove your PII from our list of active users completely. All unsubscribe or opt-out requests should be sent to us at info@lightspeedresearch.com and we will process your request within a reasonable time after receipt. We are not responsible for removing your PII from the lists of any third party who has previously been provided your information in accordance with this policy.
 
-Third Party Data & Data in the Aggregate: Under confidentiality agreements, GMI may match user information with third party data. Also, GMI discloses aggregated user statistics (for example, 45% of our users are female) in order to describe our services to prospective partners, advertisers, and other third parties, and for other lawful purposes.
+United States of America: Our web site is maintained in the United States of America. By using the web site, you authorize the export of PII to the USA and its storage and use as specified in this policy.
 
-Other: GMI may also disclose account information in special cases when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be violating GMI's Terms of Use or may be causing injury to or interference with (either intentionally or unintentionally) GMI's rights or property, other GMI users, or anyone else that could be harmed by such activities. GMI may disclose or access account information when we believe in good faith that the law requires it and for administrative and other purposes that we deem necessary to maintain, service, and improve our products and services.
+Terms of Use: Use of this Service is governed by, and subject to, the Terms of Use. Your use, or access, of the Service constitutes your agreement to be bound by these provisions.
 
-## What are my choices regarding collection, use, and distribution of my information?
-
-Only GMI (or agents working on behalf of GMI and under confidentiality agreements) will send you these direct mailings and only if you indicated that you do not object to these offers. 
-
-You also have choices with respect to cookies. By modifying your browser preferences, you have the choice to accept all cookies, to be notified when a cookie is set, or to reject all cookies. If you would like to opt-out of only the GMI cookies, the GMI domain for your reference is either gmi-mr.com or globaltestmarket.com. If you choose to reject all cookies or opt-out of accepting GMI cookies you will be unable to use those GMI services that require registration in order to participate.
-
-GMI does not sell or rent user information to anyone. We will notify you at the time of data collection or transfer if your data will be shared with a third party and you will always have the option of not permitting the transfer. If you do not wish to allow your data to be shared, you can choose not to use a particular service.
-
-## What is GMI's policy on allowing me to update, correct, or delete my personally identifiable information?
-
-For members of GMI's GlobalTestMarket, you may edit your GlobalTestMarket Account Information and your  GlobalTestMarket Profile at any time by using your GlobalTestMarket ID and password. If you have forgotten your password, please [click here](http://www.globaltestmarket.com/forgotten.php). Your GlobalTestMarket account can be deleted or deactivated. You can choose to terminate your membership at any time by [completing this form](http://www.globaltestmarket.com/unsubscribing.php). 
-
-For users of any of GMI's other products and services, you can [contact us](https://web.archive.org/contact/) if you have forgotten your login or password.  Please also [contact us](https://web.archive.org/contact/) with any questions regarding access to personally identifiable information.
-
-## What security precautions are in place to protect the loss, misuse, or alteration of my information?
-
-Your Account Information and Profile are password-protected so that you and only you have access to this personal information. 
-
-We recommend that you do not divulge your password to anyone. GMI will never ask you for your password in an unsolicited phone call or in an unsolicited email. Also remember to sign out of your GMI account and close your browser window when you have finished your work. This is to ensure that others cannot access your personal information and correspondence if you share a computer with someone else or are using a computer in a public place like a library or Internet cafe.
-
-Whenever GMI handles personal information as described above, regardless of where this occurs, GMI takes steps to ensure that your information is treated securely and in accordance with the relevant Terms of Use and this Privacy Policy.
-
-Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. As a result, while we strive to protect your personal information, GMI cannot ensure or warrant the security of ny information you transmit to us or from our online products or services, and you do so at your own risk. Once we receive your transmission, we make our best effort to ensure its security on our systems.
-
-## What else should I know about my privacy?
-
-Please keep in mind that whenever you voluntarily disclose personal information online -- for example on message boards, through email, or in chat areas -- that information can be collected and used by others. In short, if you post personal information online that is accessible to the public, you may receive unsolicited messages from other parties in return. Ultimately, you are solely responsible for maintaining the secrecy of your passwords and/or any account information. Please be careful and responsible whenever you're online. 
-
-## Additional Information
-
-Please [contact ](https://web.archive.org/contact/)us with any questions regarding this statement.  
-
+Contact: For questions or concerns relating to privacy, we can be contacted at [info@lightspeedresearch.com](mailto:info@lightspeedresearch.com).
