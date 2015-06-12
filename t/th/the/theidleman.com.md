@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the theidleman.com privacy policy that was archived on 2014-07-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140730234150id_/http%3A//theidleman.com/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theidleman.com privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612140902id_/http%3A//theidleman.com/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
 
-# Privacy Policy | The Idle Man
+# Privacy Policy | Shop for Men’s clothing | The Idle Man
 
 Idle Projects Ltd (" **we/us/our** ") is committed to protecting and respecting your privacy. Our registered office is at 27 Colwell Road, London SE22 8QP and our company number is 08484139.
 
@@ -91,7 +91,3 @@ Any changes we may make to our privacy policy in the future will be posted on th
 ## Contact
 
 Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to [info@theidleman.com](mailto:info@theidleman.com)
-
-This site uses cookies. By continuing to browse this site you are agreeing to our use of cookies. [Find out more here.](http://theidleman.com/privacy-policy-cookie-restriction-mode "Find out more here.")
-
-**x**
