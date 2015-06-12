@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blacks.co.uk privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121155800id_/http%3A//www.blacks.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blacks.co.uk privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612122751id_/http%3A//www.blacks.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -22,7 +22,7 @@ We use your data to fulfil any orders you place with us. We also share your data
 
 We also use your data for marketing purposes which may mean that you will receive marketing communications from us, other companies within the JD Sports Fashion Group or carefully selected third parties. However if you do receive marketing communications from other companies, we will endeavour to ensure that the company in question and its products will be as relevant to you as possible.
 
-We may, from time to time, use your personal information to administer a prize draw or competition but this will only happen if you have chosen to enter. Take a look at our Facebook page for our latest competitions [www.facebook.com/blacksonlinefans](https://web.archive.org/web/20141121155800id_/http%3A//www.blacks.co.uk/www.facebook.com/blacksonlinefans "This link will open in a new window")
+We may, from time to time, use your personal information to administer a prize draw or competition but this will only happen if you have chosen to enter. Take a look at our Facebook page for our latest competitions [www.facebook.com/blacksonlinefans](https://web.archive.org/web/20150612122751id_/http%3A//www.blacks.co.uk/www.facebook.com/blacksonlinefans "This link will open in a new window")
 
 As part of our marketing programme, we may pool and share aggregated data with third parties. We then use this data to produce statistics about our customers. This helps us to select and tailor products, services or special discounts to you and to inform you about those which we think you will be interested to hear about.
 
