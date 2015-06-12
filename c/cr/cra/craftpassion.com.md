@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the craftpassion.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625220948id_/http%3A//www.craftpassion.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the craftpassion.com privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612120633id_/http%3A//www.craftpassion.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Free Pattern & Tutorial at CraftPassion.com
+# Privacy Policy | Craft Passion | Patterns & Tutorials
 
 **What information do we collect?**
 
@@ -82,8 +82,7 @@ This policy was last modified on August 08,2011
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-http://www.craftpassion.com/contact
-
+http://www.craftpassion.com/contact  
 joanne@craftpassion.com
 
 This policy is powered by Free Privacy Policy and Rhino Support [help desk software](http://www.rhinosupport.com/help-desk-software.htm).
