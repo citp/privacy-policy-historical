@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the esldiscussions.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121083908id_/http%3A//www.esldiscussions.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the esldiscussions.com privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612232155id_/http%3A//www.esldiscussions.com/privacy.html) for the most accurate reproduction.*
 
 # ESL Discussions - Privacy Policy
 
