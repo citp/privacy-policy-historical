@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lalate.com privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123093133id_/http%3A//news.lalate.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lalate.com privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612130220id_/http%3A//news.lalate.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -41,7 +41,3 @@ All subscriber data in the lalate.com are maintained in our data center utilizin
 **Third-Parties  
 We use third-party advertising companies to serve ads when you visit our Website. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click [here](http://bit.ly/agb0QJ).**  
 ****
-
-  * [Comments](http://news.lalate.com/privacy/#comments) [(0)](http://news.lalate.com/privacy/#respond "Comment on Privacy")
-
-
