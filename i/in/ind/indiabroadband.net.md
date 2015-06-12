@@ -1,11 +1,8 @@
-> *The following text is extracted and transformed from the indiabroadband.net privacy policy that was archived on 2013-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131102203301id_/http%3A//www.indiabroadband.net/threads/privacy-statement.19774) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indiabroadband.net privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612070956id_/http%3A//www.indiabroadband.net/suggestions-complaints/19774-privacy-statement.html) for the most accurate reproduction.*
 
-# Privacy Statement | India Broadband Forum
+# Privacy Statement
 
-Thread Status:
-     Not open for further replies.
-
-  1. > * [www.indiabroadband.net](http://www.indiabroadband.net/) recognizes that you care about the personal information that is held about you and how that is used.
+> * [www.indiabroadband.net](http://www.indiabroadband.net/) recognizes that you care about the personal information that is held about you and how that is used.
 > 
 > * This privacy policy applies to all personal data, submitted by you, to the [www.indiabroadband.net](http://www.indiabroadband.net/) web site.
 > 
@@ -23,25 +20,11 @@ Thread Status:
 > 
 > * This site is intended for individuals over the age of 13. Any information collected is intended to be of individuals over the age of 13. According to COPPA, our site does NOT cater to children. "Operators of commercial websites or online services directed to children under 13 that collect personal information from children" require a COPPA agreement and privacy policy. Since we do not cater to this age group, no COPPA exists on [www.indiabroadband.net](http://www.indiabroadband.net/)
 > 
->     * Google, as a third party vendor, uses cookies to serve ads on this site.
->     * Google's use of the DART cookie enables it and its partners to serve ads to the users of this site based on their visit to this sites and/or other sites on the Internet.
->     * Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
->     * By using this website, you agree that both the web server, and any 3rd party we choose, such as advertising networks, may place a tracking cookie on your machine and access it at any time.
+>   * Google, as a third party vendor, uses cookies to serve ads on this site.
+>   * Google's use of the DART cookie enables it and its partners to serve ads to the users of this site based on their visit to this sites and/or other sites on the Internet.
+>   * Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
+>   * By using this website, you agree that both the web server, and any 3rd party we choose, such as advertising networks, may place a tracking cookie on your machine and access it at any time.
 > 
-> * This Privacy Policy may be modified at any time without notice. It is your responsibility to check this page for updates or changes. If you have any questions regarding your privacy, then Contact Us 
 
-Last edited: Sep 21, 2009
-
-  2. > There has been a slight change in privacy policy on our site so please take some time to have a read through... If you choose to continue to use this site then it is assumed that you agree to the terms and conditions in their entirety. 
 > 
-> Thanks
-> 
-> PS: It is your responsibility to keep yourself updated on the privacy policy from time to time. 
-
-
-
-
-Thread Status:
-     Not open for further replies.
-
-[ ](http://www.indiabroadband.net/)
+> * This Privacy Policy may be modified at any time without notice. It is your responsibility to check this page for updates or changes. If you have any questions regarding your privacy, then Contact Us
