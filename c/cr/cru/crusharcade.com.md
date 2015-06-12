@@ -1,100 +1,107 @@
-> *The following text is extracted and transformed from the crusharcade.com privacy policy that was archived on 2012-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121225102936id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crusharcade.com privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612074502id_/http%3A//www.crusharcade.com/privacy-policy) for the most accurate reproduction.*
 
-# Legal Agreement
+# CrushArcade | Privacy Policy
 
-**Go Daddy Respects Your Privacy**
+CRUSHARCADE PRIVACY POLICY
 
-**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
+This Privacy Policy ("Policy") explains what information CrushArcade, which is owned by ArcadeYum LLC (referred to herein as "CrushArcade", "Company", "we", “us”, or “our”) collect from individuals who visit the CrushArcade.com website (the "Site") and/or participate in the resources offered by CrushArcade ("User(s)" or "you"). This Policy also explains how the Company uses and maintains that information.
 
-**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
+**Changes to this Privacy Policy**
 
-**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
+If we decide to change our privacy practices, we will post those changes to this Policy and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
 
-**Information Collection and Use**
+We reserve the right to update or modify this Policy at any time, so please review it frequently. If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on the Site’s home page.
 
-Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
+This Policy applies only to information collected through the Site and Software (as defined below), but not to information collected or obtained from other sources.
 
-We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
+We collect two kinds of information through the Site. The first kind is information that can identify you as a specific individual - such as your name and email address (“Personally Identifiable Information” or "PII"). We only collect PII when you have contacted us directly or forwarded content from the Site to someone else, such as when you use our "Send Game to Friend" feature. (See "Collection of Personally Identifiable Information" below). The second kind of information is the kind of non-personally identifiable information ("NPII") collected and stored automatically by many websites. It includes, for example, information about your Internet service provider, operating system, type of browser, geographic location, and pages viewed on the Site. Although this information is related to you, it is not associated with your PII and cannot be linked to you personally. If you register to play "Premium Games", the NPII collected may also include your IP address and HTML information about the content of web pages you visit.
 
-We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
+If you do not want your information to continue to be collected and used as provided in this Policy, you should not access or use the Site again.
 
-We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
+Premium Game players ("Premium User(s)") have access to the Premium Games at no charge in exchange for their agreement to install the CrushArcade software (the "Software") on their computers or other computing device. The Software allows us to display third party applications as well as text link, popup/under, transitional, shopping and banner advertisements based on the web content viewed by that User. No PII is collected through the Software. In addition, the Site and Premium Games may display advertisements from third parties before and/or during gameplay. All third party applications and all advertisements from the Software, Site and Premium games shall collectively be known as “Third Party Content”.
 
-We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
+Your dealings with Third Party Content, including, but not limited to, your interaction with its advertisements and promotions, purchase of its goods, or any other type of involvement, are solely between you and the third party. Therefore we do not endorse the advertisements, products or other materials of the Third Party Content. If you interact with the Third Party Content, their terms and conditions and privacy policies apply to your rights and obligations with respect to such interaction. Accordingly, such third parties may collect personal or non-personal information about you.
 
-Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
+**Collection of Personally Identifiable Information**
 
-This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
+PII is collected by CrushArcade only when you provide it to us via the "Contact Us" page, in which the Site asks for your name and email address so that you can receive a response.
+
+**Social Media (Features) and Widgets:**
+
+The Site includes Social Media Features, such as the Facebook Like button and Widgets, such as the Share this button or interactive mini-programs that run on the Site. These features may collect your IP address, which page you are visiting on the Site, and may set a cookie to enable the feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on the Site. Your interactions with these Features are governed by the privacy policy of the company providing it.
+
+If you do not want us to collect your PII as described above or to use and share your PII as described further below in this Policy, you should NOT provide it to us through any of the Site features described above. By providing us with your PII using any of these features, you are authorizing our use and sharing of your PII as described in this Policy and any subsequent revisions to this Policy that we may publish on the Site.
+
+**Updating Your Personally Identifiable Information.**
+
+If your PII changes, or if you no longer desire our service, you may correct, update, amend, or remove it by emailing our Customer Support at [info@CrushArcade.com](mailto:info@CrushArcade.com) or by contacting us using our contact form [here](http://crusharcade.com/contact).
+
+We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at [info@CrushArcade.com](mailto:info@CrushArcade.com). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+
+**Children's Privacy**
+
+We do not knowingly collect PII from anyone under 13 years of age. We cannot and will not independently verify that all of our Users are at least 13 years old, but we will remove from our files any PII of anyone we discover to be under 13 years old.
+
+**Use and Sharing of Personally Identifiable Information**
+
+We reserve the right to use PII: (1) for the specific purpose for which such information was provided as stated above; (2) for the purposes disclosed at the time such information is provided; and (3) as otherwise stated in this Policy.
+
+We do not share, sell or trade any of your PII with any third parties other than described herein. We may share your PII with our parent company and its principals, employees, consultants, officers, directors, members, agents, subsidiaries, or affiliates (collectively "Related Companies"). Neither we nor our Related Companies contribute to or participate in cooperative databases, which give other companies access to your PII.
+
+We and our Related Companies may provide access to your PII when legally required to do so, to cooperate with police investigations or other legal proceedings, to protect against misuse or unauthorized use of the Site, to limit our legal liability and protect our rights or to protect the rights, property or safety of other users or the public.
+
+We and/or our Related Companies may also disclose your PII to outside companies and consultants that help bring you the services we offer. For example, we and our Related Companies may work with outside companies and consultants to: (a) manage a database of customer information; (b) assist in distributing e-mails; (c) assist with direct marketing and data collection; (d) provide data storage and analysis; (e) provide fraud prevention; (f) provide customer service by phone; and/or (g) provide other services designed to assist us in maximizing our business potential and maintaining our Site. We and our Related Companies require that these outside companies and consultants agree to keep confidential all information we share with them, and use the information only to perform their obligations to us.
+
+In addition, if we or our Related Companies go through a business transition, such as a merger, acquisition by another company, or sale of all or a portion of its assets, your PII will likely be among the assets transferred. You will be notified by a prominent notice on the CrushArcade home page of any such change in ownership or control of your PII. We also reserve the right to disclose PII as required by law and when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order, or legal process.
+
+**Non-Personally Identifiable Information**
+
+As with many websites, when you visit the Site, it automatically gathers certain NPII based on your computer information and stores it in log files. This type of technical and statistical information is used to customize your experience at the Site, to help us improve the quality of the Site and to make your visits easy, convenient and fun. CrushArcade also collects your IP address to help diagnose problems with the Site server and for Site administration purposes.
+
+In addition to the general collection of NPII by the Site (including, but not limited to, IP address, browser type, operating system version, time and date stamp, and landing page), the Software collects your IP addresses, browser information, URLs, HTML, web pages and/or search queries on the web pages you visit. We may use this NPII to assist us in delivering to you more relevant content in the form of Third Party Content, which appears when you are online generally. We may also work with third party advertising networks and advertisers who help deliver such Third Party Content to you. We may share your NPII and/or aggregated information with our third party partners to improve the relevancy of such Third Party Content. These third party partners, including, but not limited to, advertising networks and advertisers, may also use cookies and other technologies to collect and track NPII such as demographic information, aggregated information, and Internet activity to assist them in delivering Third Party Content that is more relevant to your interests. They may also utilize supplemental data from other sources and analytics methods to help deliver more relevant Third Party Content. A Premium User may have the option to opt-out of receiving certain Third Party Content. To opt out of certain Third Party Content, click the applicable link contained in the placement of such Third Party Content and follow the disabling instructions. When you opt-out, the Software will place a cookie in your browser so that you will stop receiving that particular Third Party Content. If you delete or refresh cookies, that certain Third Party Content will be automatically re-activated. In addition, you may continue to have access to Premium Games and to receive other Third Party Content after opting out. However, if at any time, a Premium User no longer wants the Software or to receive any Third Party Content, s/he may uninstall the Software and its associated monitoring technologies (including its collection of NPII). The directions for uninstalling the Software are set forth below in the section entitled "Uninstall Software."
+
+You can opt out of the use of your NPII from being used by Network Advertising Initiative (“NAI”) members. The NAI opt-out tool was developed in conjunction with NAI members for the express purpose of allowing consumers to "opt out" of the behavioral advertising delivered by NAI members. If you opt-out of the use of your NPII from being used by NAI members, you will continue to receive ads, however, it will prevent NAI members from delivering ads tailored to your preferences and usage patterns. If you opt out of Interest-Based Advertising (as defined [here](http://www.networkadvertising.org/understanding-online-advertising/what-is-it)) by one or more NAI member company, that choice will be stored in “opt-out cookies.” If you ever delete opt-out cookies from your browser (such as by clearing all cookies), buy a new computer, or change web browsers, you'll need to renew your opt-out choices. NAI member companies need to be able to read an "opt-out" cookie on your browser to know not to collect and use data for interest-based advertising purposes. For more information or to opt-out click <http://www.networkadvertising.org/choices/>.
+
+**Cookies**
+
+The Site uses "cookies" and similar means to collect aggregate Internet traffic statistics and to enhance your experience at the Site. A cookie is a small text file that is placed on your hard disk by a web page server. Cookies contain information that can later be read by a web server in the domain that issued the cookie to you. Cookies cannot be used to run programs or deliver viruses to your computer. The Site uses cookies to recognize your preferences, temporarily store session information (such as your login to a download or support area), and to remember you when you register for our products and/or services. This helps save you time by eliminating the need to repeatedly enter the same information and to display your customized content and advertising on your later visits to the Site. It also allows you to move from page to page at the Site without having to sign in again on each page. Please note, if you opt-out of certain Third Party Content (as explained earlier), the Software will place a cookie in your browser so that you will stop receiving that particular Third Party Content. If you delete or refresh cookies, that certain Third Party Content will be automatically re-activated. You can follow the instructions again to opt-out of certain Third Party Content. If you do not want the Site to deploy cookies in your browser, you can set your browser to reject cookies or to notify you when a website tries to put a cookie in your browser software. If you choose to decline cookies, however, you may not be able to fully experience the interactive features of the Site and it may affect your ability to use some of the products and/or services at the Site. We do not tie any PII to the cookies that we set.
+
+**Third Party Cookies**
+
+The use of cookies by our third party advertisers as well as third party ad servers is not covered by our privacy policy (as explained in the NPII section above). We do not have access or control over these cookies. These third parties use session ID cookies to gather anonymous information.
+
+**Web Beacons**
+
+The Site may contain electronic images known as "web beacons" which are also sometimes called single-pixel gifs. Web beacons may be used to assist in delivering cookies, allow us to count Users who have visited the Site pages and to deliver services via the Site. We may also include web beacons in email messages or newsletters you agree to receive in order to determine whether such messages have been opened and acted upon. If any partner advertises on the Site, we may work with them to place web beacons on their website to allow CrushArcade to collect statistics on how often clicking on those advertisements on the Site results in a purchase or other action on such partner's website. CrushArcade may also employ web beacons from third party partners in order to help compile aggregated statistics regarding the effectiveness of our promotional campaigns or other operations of the Site. CrushArcade will never allow web beacons on the Site to be used by third parties (other than Related Companies) to collect or access your personal information. We do not tie web beacons to any PII you submit while on our Site.
+
+**Use and Sharing of Non-Personally Identifiable Information (NPII)**
+
+We do not share, sell or trade any of your NPII with any third parties other than described herein. We may share your NPII with our Related Companies. Neither we nor our Related Companies contribute to or participate in cooperative databases, which give other companies access to your NPII.
+
+We and our Related Companies may provide access to your NPII to third parties when legally required to do so, to allow third party advertising networks to serve you more relevant ads as described above, to cooperate with police investigations or other legal proceedings, to protect against misuse or unauthorized use of the Site and/or to limit our legal liability and protect our rights.
+
+We and/or our Related Companies may also disclose your NPII to outside companies and consultants that help bring you the services we offer. For example, we and our Related Companies may work with outside companies and consultants to: (a) manage a database of customer information; (b) assist in distributing e-mails; (c) assist with direct marketing and data collection; (d) provide data storage and analysis; (e) provide fraud prevention; (f) provide customer service by phone; and/or (g) provide other services designed to assist us in maximizing our business potential and maintaining our Site. We and our Related Companies require that these outside companies and consultants agree to keep confidential all information we share with them, and use the information only to perform their obligations to us.
+
+In addition, if we or our Related Companies go through a business transition, such as a merger, acquisition by another company, or sale of all or a portion of its assets, your NPII will likely be among the assets transferred. You will be notified by a prominent notice on the CrushArcade home page of any such change in ownership or control of your NPII. We also reserve the right to disclose NPII as required by law and when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order, or legal process.
 
 **Security**
 
-This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
+We have implemented technical, administrative and physical security measures to protect Information from unauthorized access and improper use. We keep information on servers that are protected by firewalls and located in a physically secure facility accessible only to our authorized employees and personnel of the Related Companies. From time to time, we review our security procedures in order to consider appropriate new technology and methods. Please be aware though, that, despite our reasonable efforts, no security measures are impenetrable and any information transmitted to us or through the Site will be at your own risk.
 
-**Updating Your Information**
+**Links from the Site**
 
-You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
+The Site provides links to the websites of many third parties. If you click through to any of these third party web sites, our Policy will not apply to your use of, and activities on, those third party sites. We encourage you to read the legal notices posted on these sites, including but not limited to their privacy policies. We shall have no responsibility or liability for your visitation to, and the data collection and use practices of, these sites. All inquiries concerning the use of PII by a third party must be communicated to that third party and not to CrushArcade.
 
-        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
+**Uninstall Software**
 
-       ii.      You may send mail to Go Daddy at the following postal address:   
-               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
+Premium Users who have downloaded the Software and who do not want their NPII collected as described above should immediately uninstall the Software. You may uninstall the Software by going [here](http://crusharcade.com/deactivate) and following the directions to remove the Software from your computer, or by selecting the appropriate entry in your Control Panel using the "Add or Remove Programs" icon. Uninstalling the Software means that you will no longer have access to the Premium Games on the Site.
 
-      iii.      You may call us at: (480) 505-8800
+**Your California Privacy Rights**
 
-       iv.      You may fax us at: (480) 505-8844
+Under California Civil Code sections 1798.83-1798.84, California residents are entitled to ask us for a notice describing what categories of personal customer information we share with third parties or corporate affiliates for those third parties or corporate affiliates' direct marketing purposes. That notice will identify the categories of information shared and will include a list of the third parties and affiliates with which it was shared, along with their names and addresses. If you are a California resident and would like a copy of this notice, please submit a written request by email to [privacy@CrushArcade.com](mailto:privacy@CrushArcade.com). Please allow 30 days for a response.
 
-**Sending Emails**
+**QUESTIONS AND CONCERNS**
 
-We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
+If you have any questions or concerns about this Policy or its implementation, please email us at [privacy@CrushArcade.com](mailto:privacy@CrushArcade.com). For general questions about CrushArcade, please email us at [support@CrushArcade.com](mailto:support@CrushArcade.com). Alternatively, you may call our Customer Service number, 1-877-991-9030 or write to us at CrushArcade, 3419 Via Lido #261, Newport Beach, CA 92663, Attn: Legal Department.
 
-The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
-
-**Compliance with Laws and Law Enforcement**
-
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
-
-**Third Party Service Providers**
-
-We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
-
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
-
-**Supplementation of Information**
-
-In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
-
-**Contests/Surveys**
-
-From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
-
-We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
-
-**Tell-A-Friend**
-
-If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
-
-**What Happens to my Personal Information if I Opt Out?**
-
-If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information as necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
-
-**Transfer of Data Abroad**
-
-If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
-
-**Changes in Our Practices**
-
-We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
-
-If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
-
-**Contacting Our Site**
-
-If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
-
-* * *
-
-Go Daddy   
-ATTN: Web Team   
-14455 North Hayden Rd.   
-Suite 219   
-Scottsdale, AZ, 85260, U.S.A.
+Effective: November 18, 2014
