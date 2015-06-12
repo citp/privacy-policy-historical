@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nationaltheatre.org.uk privacy policy that was archived on 2014-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141213044432id_/http%3A//www.nationaltheatre.org.uk/your-visit/website-help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationaltheatre.org.uk privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612174932id_/http%3A//www.nationaltheatre.org.uk/your-visit/website-help/privacy) for the most accurate reproduction.*
 
 # Privacy | National Theatre | South Bank, London
 
@@ -6,7 +6,7 @@
 
 ### 1\. Privacy commitment
 
-The nationaltheatre.org.uk website is owned and operated by The National Theatre. We are committed to safeguarding your privacy online and to this end have developed the following Privacy Policy to deal with issues which may concern you. Please read the Privacy Policy to understand how your personal information will be treated. This policy may change from time to time so please check it periodically. It was last updated on 11 June 2013.
+The nationaltheatre.org.uk website is owned and operated by The National Theatre. We are committed to safeguarding your privacy online and to this end have developed the following Privacy Policy to deal with issues which may concern you. Please read the Privacy Policy to understand how your personal information will be treated. This policy may change from time to time so please check it periodically. It was last updated on 20 January 2015.
 
 **2\. Personal Information**
 
@@ -19,7 +19,7 @@ The Personal Information you supply when you join one of our e-mail lists will b
 
 2.3 We may from time to time ask you for further information in order to update our records or for particular purposes. We will always tell you how we will use any further information received from you. From time to time we will need to send you our website and service announcement updates.
 
-2.4 You have the right to obtain from us an electronic or paper copy of all Personal Information concerning yourself by e-mailing [boxoffice@nationaltheatre.org.uk](mailto:boxoffice@nationaltheatre.org.uk) or writing to Tony Peers at The Royal National Theatre, Upper Ground, London SE1 9PX. If you decide not to use our services any further and notify us either in writing or by email as mentioned above, we shall destroy any retained Personal Information.
+2.4 You have the right to obtain from us an electronic or paper copy of all Personal Information concerning yourself by e-mailing [boxoffice@nationaltheatre.org.uk](mailto:boxoffice@nationaltheatre.org.uk) or writing to Sam Hearn at The Royal National Theatre, Upper Ground, London SE1 9PX. If you decide not to use our services any further and notify us either in writing or by email as mentioned above, we shall destroy any retained Personal Information.
 
 ### 3\. Log files
 
@@ -38,6 +38,9 @@ This website uses the following non-essential cookies:
 Google Analytics cookies used by the National Theatre: _utma, _utmb, _utmc, _utmz  
 These cookies are used to collect information about how visitors use our site. The cookies collect information in an anonymous form, so we don't know who is using our site. We use the information on how people use our website to compile reports and to help us improve the site. You can go to <http://www.google.com/analytics/learn/privacy.html> to find out more about Google Analytics cookies and how to opt-out of them.
 
+Email and web tracking cookies used by the National Theatre:  
+These cookies are used to collect information about how visitors who have subscribed to our email lists are using the website. This data is not anonymised and we use the information to help improve our email communications and target specifically-tailored messages for our email subscribers. You can review and change your settings using the link just below.
+
 Cookies used by Twitter: _utma, _utmz, Guest_id, k  
 These cookies provide information on visitors to Twitter, checks whether users are logged in to Twitter and sets the Twitter application cookie.
 
@@ -45,7 +48,7 @@ We also use cookies to manage the shopping baskets on our ticketing pages and o
 
 This website also uses advertising cookies and we offer the option to opt out of these to prevent them being set on your computer.
 
-**[You can review a full list of the cookies we use in this document](https://web.archive.org/sites/all/libraries/files/documents/Cookies-used-on-National-Theatre-website.pdf "Cookies used on the National Theatre website")**.
+**[You can review a full list of the cookies we use in this document](http://d1wf8hd6ovssje.cloudfront.net/documents/Cookies_used_on_National_Theatre_website_Jan15.pdf "Cookies used on the National Theatre website Jan 2015")**.
 
 **Review and change your settings here.**
 
@@ -63,7 +66,7 @@ Please note that we are not responsible for information available on these websi
 
 ### 6\. How we protect information
 
-6.1 We take every precaution to protect your information. To this end all Personal Information stored by us is kept on a server in a secure environment. Save as agreed by you for marketing purposes, only employees and approved contractors/developers we may appoint from time to time, and who need the information to perform a specific job, are granted access to personally identifiable information.
+6.1 We take every precaution to protect your information. To this end all Personal Information stored by us is kept on servers in a secure environment. Save as agreed by you for marketing purposes, only employees and approved contractors/developers we may appoint from time to time, and who need the information to perform a specific job, are granted access to personally identifiable information.
 
 6.2 Regular security reviews are held by us to ensure that the site remains safe and secure for your protection.
 
