@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tundrasolutions.com privacy policy that was archived on 2014-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141119153326id_/http%3A//www.tundrasolutions.com/forums/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tundrasolutions.com privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612080000id_/http%3A//www.tundrasolutions.com/forums/privacy-policy.php) for the most accurate reproduction.*
 
 # Toyota Tundra Forums : Tundra Solutions Forum Privacy Policy
 
