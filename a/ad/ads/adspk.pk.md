@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adspk.pk privacy policy that was archived on 2014-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141201031100id_/http%3A//adspk.pk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adspk.pk privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612080442id_/http%3A//adspk.pk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Adspk.pk | is Very Helpful for Students and Jobless People
 
