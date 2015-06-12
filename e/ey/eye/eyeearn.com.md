@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eyeearn.com privacy policy that was archived on 2014-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141226162246id_/http%3A//www.tripleclicks.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eyeearn.com privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612144454id_/http%3A//www.tripleclicks.com/privacy_policy.php) for the most accurate reproduction.*
 
 # None
 
