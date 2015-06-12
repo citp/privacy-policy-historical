@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the martechconf.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121021212id_/http%3A//thirddoormedia.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the martechconf.com privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612122007id_/http%3A//thirddoormedia.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Third Door Media
 
@@ -14,11 +14,10 @@ Personal identifiable information is information that allows you to be identifie
   * __your phone number
   * __your fax number
   * __your email address
-  * __your credit card number or other payment method
 
 
 
-Information we collect such as this will not be given or sold to third parties unless we have specifically obtained your permission beforehand. 
+We do not store credit card details nor do we share customer details with any third parties unless we have specifically obtained your permission to do so beforehand. 
 
 ## Cookies & Web Beacons
 
