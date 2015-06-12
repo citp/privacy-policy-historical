@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the cosmomusic.ca privacy policy that was archived on 2014-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141126134316id_/http%3A//cosmomusic.ca/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cosmomusic.ca privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612095040id_/http%3A//cosmomusic.ca/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Cosmo Music | Cosmo Music
+# Privacy Policy | Cosmo Music
 
-Cosmo Music is proud to be a part of the internet community that does not promote the use of spamming and selling or renting out customer lists and information. All information submitted on this website will **never** be released to other companies.
+Cosmo Music is proud to be a part of the internet community that does not promote the use of spamming and selling or renting out customer lists and information. Cosmo Music will not sell, rent, give away or disclose our customer information to other companies or third parties. All information submitted on this website will **never** be released to other companies. Cosmo Music supports and adheres to [Canada's Anti-Spam Legislation (CASL)](http://fightspam.gc.ca/eic/site/030.nsf/eng/home).
 
 ## Privacy Statement
 
@@ -19,10 +19,3 @@ Cosmo Music Co. Ltd has created this privacy statement in order to demonstrate o
 ## Security Guarantee
 
 This website uses SSL technology to guarantee the safety of all information submitted on our site. Cosmo Music refuses to sell any information to any outside company. All information submitted on this site will remain confidential.
-
-## Quick Links
-
-  * [Shopping Policies and Guarantees](http://cosmomusic.ca/shopping-policies-and-guarantees)
-  * [Shipping Policies](http://cosmomusic.ca/shipping-policies)
-
-
