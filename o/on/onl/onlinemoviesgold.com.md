@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onlinemoviesgold.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220123747id_/http%3A//www.onlinemoviesgold.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlinemoviesgold.com privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612121427id_/http%3A//www.onlinemoviesgold.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy |
 
@@ -99,4 +99,4 @@ We also agree to the individual redress principle, which requires that individua
 
 **Contacting Us**
 
-If there are any questions regarding this privacy policy you may contact us through our [contact us](http://www.onlinemoviesgold.com/contact-us/) page or admin@onlinemoviesgold.com
+If there are any questions regarding this privacy policy you may contact us through our [contact us](http://onlinemoviesgold.com/contact-us/) page or onlinemoviesgold@gmail.com
