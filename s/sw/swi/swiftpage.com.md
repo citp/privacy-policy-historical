@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the swiftpage.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230122038id_/http%3A//www.swiftpage.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swiftpage.com privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612162058id_/http%3A//swiftpage.com/privacy-policy) for the most accurate reproduction.*
 
 # Swiftpage | Privacy Policy
 
 Swiftpage is dedicated to the privacy and rights of our customers. The privacy of our customers and affiliates is important to us. Therefore:
 
   * We do not sell or rent personally identifiable information
-  * We do not spam, and our policies forbid use of our Services for spam. You may also want to read our [No Spam Policy](http://swiftpage.com/anti-spam-policy).
+  * We do not spam, and our policies forbid use of our Services for spam. You may also want to read our [Anti-Spam Policy](http://swiftpage.com/anti-spam-policy).
 
 
 
