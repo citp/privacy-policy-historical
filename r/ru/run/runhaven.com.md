@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the runhaven.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625114542id_/http%3A//runhaven.com/privacy-cookies-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the runhaven.com privacy policy that was archived on 2015-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150613011135id_/http%3A//runhaven.com/app-privacy) for the most accurate reproduction.*
 
-# PRIVACY & COOKIES NOTICE | RunHaven
+# Privacy & Cookies Notice - RunHaven
 
-UPDATED AS OF: [   28th April, 2014   ] 
+UPDATED AS OF: [   28th April, 2014   ]
 
 MOKO Social Media Ltd and its affiliates.(“we”, “us”, or “our”) are committed to maintaining your confidence and trust as it relates to the privacy of your information. Please read below and learn how we collect, protect, share and use your information as part of our technology platforms, including, without limitation, our websites, interactive features, applications, and social network pages (“Platforms”).
 
@@ -21,13 +21,11 @@ _Device Identifier_. Our service providers or we automatically collect your IP a
 _Pixel Tags._ We may also include pixel tags (transparent graphic image, sometimes called a web beacon or tracking beacon, placed on a web page or in an email, which indicates that a page or email has been viewed), and mobile analytics software, with the content that we deliver to you, which we will use to collect information regarding your interaction with such content. A pixel tag may allow us or third parties to obtain information such as the IP address of the mobile device that downloaded the page on which the pixel tag appears, the URL of the page on which the pixel tags appears, the time the page containing the pixel tag was viewed, the type of browser used to view the page, and the information in any cookies set by us or the third party. We, or our vendors, may place cookies or similar files on your Device for security purposes, to facilitate site navigation and to personalize your experience while visiting our Platforms, including to serve you advertisement. A pixel tag may tell your browser to get content from another server.
 
 To learn how you may be able to limit Ad Tracking, please visit the settings on your mobile device. You can learn more about cookies by visiting [www.allaboutcookies.org](http://www.allaboutcookies.org/)which includes additional useful information on cookies and how to block cookies using different types of browser.  
-  
 
 
 #### 2.              HOW WE USE THE INFORMATION WE COLLECT
 
 We use the information we collect about and from you for a variety of business purposes such as to respond to your questions and requests; provide you with access to certain areas and features of the Platforms such as your favorite products; verify your identity; communicate with you about your account and activities on the Platforms and, in our discretion, changes to any of our policies;market research, Platform analytics and operations; tailor content, advertisements, and offers we serve you; improve the Platforms; comply with license obligations; and for purposes disclosed at the time you provide your Personal Information or otherwise with your consent. We may also collect your location based information for the purpose of providing you with certain services.  
-  
 
 
 #### 3.              SHARING OF INFORMATION
@@ -41,37 +39,33 @@ Except as described here, we will not provide any of your Personal Information t
 **Business Transfers**. We may share your Personal Information with other entities and our affiliates primarily for business and operational purposes. In the event that we are involved in a bankruptcy, merger, acquisition, reorganization or sale of assets, your information may be sold or transferred as part of that transaction.
 
 **Legal Disclosure**. We may transfer and disclose your information to third parties to comply with a legal obligation; when we believe in good faith that the law or a governmental authority requires it; to verify or enforce our Terms of Use or other applicable policies; to address fraud, security or technical issues; to respond to an emergency; or otherwise to protect our rights or property or security of third parties, visitors to our Platforms or the public.  
-  
 
 
 #### 4.              INFORMATION WE RECEIVE FROM THIRD PARTIES
 
 We may receive information about you from third parties. For example, if you are on another website and you opt-in to receive information from us, that website will submit to us your email address and other information about you so that we may contact you as requested. You may also choose to participate in a third party application or feature (such as one of our Facebook or Twitter applications or a similar application or feature on a third party website) through which you allow us to collect (or the third party to share) information about you, including Usage Information and Personal Information such as lists of your friends, “likes”, comments you have shared, groups and location. In addition, we may receive information about you if other users of a third party website give us access to their profiles and you are one of their “connections” or information about you is otherwise accessible through your “connections’” web page, profile page, or similar page on a social networking or other third party website or interactive service. We may also receive information about you from third party data providers. We maysupplement the information we collect about you through the Platforms with such information from third parties in order to enhance our ability to serve you, to tailor our content to you and/or to offer you opportunities to purchase products or services that we believe may be of interest to you.  
-  
 
 
 #### 5.              YOUR PRIVACY RIGHTS, CHOICE AND ACCESS.
 
-You may always direct us not to share your Personal Information with third parties, not to use your Personal Information to provide you with information or offers, or not to send you newsletters, emails or other communications by: (i) modifying your registered user information on the Platforms; (ii) sending us an email at contact@runhaven.com; (iii) contacting us by mail at RUN HAVEN c/o MOKO Social Media Ltd149 E 23rd St. #1413 New York, NY 10159; or (iv) following the removal instructions in the communication that you receive. Your opt-out request will be processed within 30 days of the date on which we receive it.
+You may always direct us not to share your Personal Information with third parties, not to use your Personal Information to provide you with information or offers, or not to send you newsletters, emails or other communications by: (i) modifying your registered user information on the Platforms; (ii) sending us an email at contact@runhaven.com; (iii) contacting us by mail at RUN HAVEN c/o MOKO Social Media Ltd PO Box 320865, Alexandria, VA 22320; or (iv) following the removal instructions in the communication that you receive. Your opt-out request will be processed within 30 days of the date on which we receive it.
 
 If you wish to modify, verify, correct, or delete any of your Personal Information collected through the Platforms, you may edit your registered user information or contact us at the above address or email. In accordance with our routine record keeping, we may delete certain records that contain Personal Information you have submitted through the Platforms. We are under no obligation to store such Personal Information indefinitely and disclaim any liability arising out of, or related to, the destruction of such Personal Information. It may not always possible to completely remove or delete all of your information from our databases without some residual data because of backups and other reasons. We will retain your information (including geo-location data) for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us a contact@runhaven.com. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. We do not control certain privacy settings and preferences maintained by our social media partners like Facebook and Twitter. If you wish to make changes to those settings and preferences, you may do so by visiting the settings page of the appropriate social media site.  
-  
 
 
 #### 6.              ADVERTISING.
 
-We may use third party ad network providers to help present ads on the Platforms, as well as other service providers to evaluate and provide us with information about the use of the Platforms and viewing of our content. Such providers may place and access pixel tags or similar technologies on your Device to serve you ads or other content personalized to your interests which they infer from your browsing on the Platforms and other sites you have visited. In doing so, the provider collects or has access to non-Personal Information such as your Usage Information. The use of pixel tags or similar technologies by these providers is subject to their own privacy policies, not ours.
+We may use third party ad network providers to help present ads on the Platforms, as well as other service providers to evaluate and provide us with information about the use of the Platforms and viewing of our content. Such providers may place and access pixel tags or similar technologies on your Device to serve you ads or other content personalized to your interests which they infer from your browsing on the Platforms and other sites you have visited. In doing so, the provider collects or has access to non-Personal Information such as your Usage Information. The use of pixel tags or similar technologies by these providers is subject to their own privacy policies, not ours.  
+
 
 #### 7.              CHILDREN.
 
 The Platforms are not directed to children under 13. We do not knowingly collect, use or disclose personally identifiable information from anyone under 13 years of age. If we determine upon collection that a user is under this age, we will not use or maintain his/her Personal Information without the parent/guardian’s consent. If we become aware that we have unknowingly collected personally identifiable information from a child under the age of 13, we will make reasonable efforts to delete such information from our records.  
-  
 
 
 #### 8.              SECURITY OF YOUR INFORMATION.
 
 We take information security seriously and use certain reasonable security measures to help protect your Personal Information. However, no electronic data transmission or storage of information can be guaranteed to be 100% secure. Please note that we cannot ensure or warrant the security of any information you transmit to us, and you use the Platforms and provide us with your information at your own risk.  
-  
 
 
 #### 9.              OTHER SITES.
@@ -79,17 +73,16 @@ We take information security seriously and use certain reasonable security measu
 The Platforms may contain links to other sites that we do not own or operate. This includes links from advertisers, sponsors and/or partners that may use our logo(s) as part of a co-branding or co-marketing agreement. We do not control, recommend or endorse and are not responsible for these sites or their content, products, services or privacy policies or practices. These other sites may send their own cookies to your Device, they may independently collect data or solicit Personal Information and may or may not have their own published privacy policies. You should also independently assess the authenticity of any site which appears or claims that it is one of our Platforms (including those linked to through an email or social networking page).
 
 The Platforms may make available chat rooms, forums, message boards, and news groups. Remember that any information that you disclose in these areas becomes public information and is not subject to the provisions of this Privacy Notice.  
-  
 
 
 #### 10.            CONSENT TO PROCESSING AND TRANSFER OF INFORMATION.
 
-[The Platforms are governed by and operated in, and in accordance with the laws of the United States. We make no representation that the Platforms are governed by or operated in accordance with the laws of any other nation. Given that we are an international business, our use of your information necessarily involves the transmission of data on an international basis. If you are located in the European Union, Canada or elsewhere outside of the United States, please be aware that information we collect may be transferred to and processed in the United States. By using the Platforms, or providing us with any information, you (a) acknowledge that the Platforms are subject to the laws of the United States, (b) consent to the collection, processing, maintenance and transfer of such information in and to the United States and other applicable territories in which the privacy laws may not be as comprehensive as or equivalent to those in the country where you reside and/or are a citizen, and (c) waive any claims that may arise under those laws.] 
+[The Platforms are governed by and operated in, and in accordance with the laws of the United States. We make no representation that the Platforms are governed by or operated in accordance with the laws of any other nation. Given that we are an international business, our use of your information necessarily involves the transmission of data on an international basis. If you are located in the European Union, Canada or elsewhere outside of the United States, please be aware that information we collect may be transferred to and processed in the United States. By using the Platforms, or providing us with any information, you (a) acknowledge that the Platforms are subject to the laws of the United States, (b) consent to the collection, processing, maintenance and transfer of such information in and to the United States and other applicable territories in which the privacy laws may not be as comprehensive as or equivalent to those in the country where you reside and/or are a citizen, and (c) waive any claims that may arise under those laws.]  
+
 
 #### 11.            CHANGES.
 
 We may update this Privacy Notice to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on our Platforms prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.  
-  
 
 
 #### 12.            CONTACT US.
@@ -97,6 +90,6 @@ We may update this Privacy Notice to reflect changes to our information practice
 If you have any questions or concerns about this Privacy Notice, the practices of the Platforms, or your experiences with the Platforms, please contact us at:
 
 RUN HAVEN c/o MOKO Social Media Ltd _  
-_ 149 E 23rd St. #1413 New York, NY 10159  
+_ PO Box 320865, Alexandria, VA 22320  
 Facsimile: 1-917-591-1890  
 Email: contact@runhaven.com
