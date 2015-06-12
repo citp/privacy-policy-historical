@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the moneymagpie.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230234918id_/http%3A//www.moneymagpie.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moneymagpie.com privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612083009id_/http%3A//www.moneymagpie.com/privacy-statement) for the most accurate reproduction.*
 
-# Privacy Statement & Cookies | Moneymagpie | Free tips on Debt, Shopping, Credit Cards and more!
+# Privacy Statement & Cookies | Moneymagpie | Make Money, Save Money and more
 
 Privacy Statement & Cookies
 
