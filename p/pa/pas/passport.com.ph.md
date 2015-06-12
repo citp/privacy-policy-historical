@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the passport.com.ph privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227174443id_/http%3A//www.passport.com.ph/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the passport.com.ph privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612205553id_/http%3A//www.passport.com.ph/info/privacy) for the most accurate reproduction.*
 
 # DFA Passport Appointment System
 
