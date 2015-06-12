@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oncewed.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230060648id_/http%3A//www.oncewed.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oncewed.com privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612093818id_/http%3A//www.oncewed.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Once Wed
 
@@ -47,4 +47,4 @@ We may at any time, without notice to you, amend this policy. Please review this
 
 **Questions or Suggestions**
 
-If you have questions or suggestions about this privacy policy, or your own personal information, please contact us through the [site’s contact page](https://web.archive.org/web/20141230060648id_/http%3A//contact/) at <http://www.oncewed.com/contact/>.
+If you have questions or suggestions about this privacy policy, or your own personal information, please contact us through the [site’s contact page](https://web.archive.org/web/20150612093818id_/http%3A//contact/) at <http://www.oncewed.com/contact/>.
