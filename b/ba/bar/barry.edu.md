@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the barry.edu privacy policy that was archived on 2014-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141204013525id_/http%3A//www.barry.edu/main/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the barry.edu privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612175518id_/http%3A//www.barry.edu/main/privacy.html) for the most accurate reproduction.*
 
 # Website Privacy Policy : Barry University, Miami Shores, Florida
 
@@ -16,7 +16,7 @@ Information Barry University gathers through aggregated tracking information der
 
 ## Email Opt-Out Policy
 
-All emails sent from Barry University to accounts outside of the University (email addresses that are not @mail.barry.edu or @mymail.barry.edu accounts) include the following information:
+All emails sent from Barry University to accounts outside of the University (email addresses that are not @barry.edu or @mymail.barry.edu accounts) include the following information:
 
   * How your email address was obtained.
   * How to opt-out from future emails from Barry University.
