@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the raileasy.co.uk privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625111645id_/http%3A//www.raileasy.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the raileasy.co.uk privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612123040id_/http%3A//www.raileasy.co.uk/privacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -78,10 +78,10 @@ Raileasy operates an 'implied consent' policy which means that we assume you are
 
 ### Top Savings Tips
 
-  1. **1\. Book Early** \- [**Cheap train tickets**](https://web.archive.org/cheap-train-tickets2) are available up to 12 weeks in advance.
-  2.  **2\. Avoid Travelling in Rush Hour** -[ **Off peak**](https://web.archive.org/making-a-booking/fares-explained) train tickets are cheaper!
-  3.  **3\. Split Your Train Tickets** \- [**Split ticketing**](https://web.archive.org/home/split-ticketing), where the journey is broken down into smaller sections could save you a small fortune on the cost of train travel. Try it [**here**](http://www.raileasy.splitticketing.com/)
-  4.  **4\. Cheapest fare Finder** -Our **[cheapest](https://web.archive.org/home/cheapest-fare-finder) [fare finder](https://web.archive.org/home/cheapest-fare-finder)** searches a wider time frame to locate cheaper rail tickets throughout the day.
+  1. **1\. Book Early** \- [**Cheap train tickets**](http://raileasy.co.uk/home/cheap-train-tickets?utm_source=google&utm_medium=banner&utm_campaign=cheap_train_tickets_rms_page) are available up to 12 weeks in advance.
+  2.  **2\. Avoid Travelling in Rush Hour** -[ **Off peak**](http://www.raileasy.co.uk/making-a-booking/fares-explained?utm_source=google&utm_medium=box&utm_campaign=fares_explained_landing%20_page%20_box) train tickets are cheaper!
+  3.  **3\. Split Your Train Tickets** \- [**Split ticketing**](https://raileasy.trainsplit.com/main.aspx?utm_source=google&utm_medium=banner&utm_campaign=raileasy.trainsplit_re_landing%20pages), where the journey is broken down into smaller sections could save you a small fortune on the cost of train travel. Try it [**here**](https://raileasy.trainsplit.com/main.aspx?utm_source=google&utm_medium=banner&utm_campaign=raileasy.trainsplit_re_landing%20pages)
+  4.  **4\. Cheapest fare Finder** -Our **[cheapest](http://www.raileasy.co.uk/home/cheapest-fare-finder?utm_source=google&utm_medium=box&utm_campaign=cheapers_fare_finder_landing%20_page_box) [fare finder](http://www.raileasy.co.uk/home/cheapest-fare-finder?utm_source=google&utm_medium=box&utm_campaign=cheapers_fare_finder_landing%20_page_box)** searches a wider time frame to locate cheaper rail tickets throughout the day.
 
 
 
