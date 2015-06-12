@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the masala.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120161743id_/http%3A//www.masala.com/privacy-policy-146001.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the masala.com privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612201815id_/http%3A//www.masala.com/privacy-policy-146001.html) for the most accurate reproduction.*
 
-# Privacy Policy | | Masala! - Bollywood Gossip News, Indian Celebrities and Pictures
+# Privacy Policy - - Masala! - Bollywood Gossip News, Indian Celebrities and Pictures
 
 **PRIVACY POLICY**
 
