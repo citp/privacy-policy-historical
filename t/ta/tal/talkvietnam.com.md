@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the talkvietnam.com privacy policy that was archived on 2014-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141108154752id_/http%3A//www.talkvietnam.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the talkvietnam.com privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612085714id_/http%3A//www.talkvietnam.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy — TalkVietnam
+# Privacy Policy — Talk Vietnam
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at info@talkvietnam.com.
 
