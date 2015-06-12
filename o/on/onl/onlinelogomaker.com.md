@@ -1,25 +1,17 @@
-> *The following text is extracted and transformed from the onlinelogomaker.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626011949id_/http%3A//www.onlinelogomaker.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlinelogomaker.com privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612025530id_/http%3A//www.onlinelogomaker.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Online Logo Maker
 
-## Privacy Policy
+At Online Logo Maker, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by Online Logo Maker and how it is used.
 
-At www.onlinelogomaker.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.onlinelogomaker.com and how it is used.
+**User's Account Data** : This website only stores the data it needs to function properly. We never share your data with any third parties. If you wish to delete your account, you can do this on the [your account](http://www.onlinelogomaker.com/account) page. Note: The old, unused account will be automatically removed after certain period of time (6-12 months) of inactivity.
 
-Log Files Like many other Web sites, www.onlinelogomaker.com makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
+**Server Log Files** : Like many other websites, this site makes use of log files. The information inside the log files includes Internet protocol (IP) addresses, type of browser, date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user's movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
 
-Cookies and Web Beacons www.onlinelogomaker.com does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser.
+**Browser Cookies** : This website does use cookies to store information about visitors preferences and record user-specific information on which pages the user access or visit. If you wish to disable cookies, you may do so through your individual browser options.
 
-DoubleClick DART Cookie .:: Google, as a third party vendor, uses cookies to serve ads on www.onlinelogomaker.com. .:: Google's use of the DART cookie enables it to serve ads to users based on their visit to www.onlinelogomaker.com and other sites on the Internet. .:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - http://www.google.com/privacy_ads.html
+**Third Party Services** : This website uses Google ([privacy policy](http://www.google.com/intl/en/policies/privacy/)) and ClickTale ([privacy policy](http://www.clicktale.com/privacy-service)) advertising and web analytics services. You should consult the respective privacy policies of these third-party service providers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. Online Logo Maker's privacy policy does not apply to, and we cannot control the activities of.
 
-Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include .... Google Adsense
+**Google AdSense** : Google's use of the DoubleClick cookie enables it and its partners to serve ads to users based on their visit to Online Logo Maker and/or other sites on the Internet. Users may opt-out of the use of the DoubleClick cookie for interest-based advertising by visiting the [ads settings](http://www.google.com/ads/preferences/) page.
 
-These third-party ad servers or ad networks use technology to the advertisements and links that appear on www.onlinelogomaker.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
-
-www.onlinelogomaker.com has no access to or control over these cookies that are used by third-party advertisers.
-
-You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. www.onlinelogomaker.com's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
-
-If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites.
-
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at admin AT onlinelogomaker.com.
+If you require any more information or have any questions about our privacy policy, please feel free to [contact us](http://www.onlinelogomaker.com/contact).
