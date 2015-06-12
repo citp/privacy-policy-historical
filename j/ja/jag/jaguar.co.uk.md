@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the jaguar.co.uk privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121070008id_/http%3A//www.jaguar.co.uk/privacy-legal.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jaguar.co.uk privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612073626id_/http%3A//www.jaguar.co.uk/privacy-legal.html) for the most accurate reproduction.*
 
 # Cookies & Privacy Policy
 
 Jaguar Land Rover Limited respects the privacy of every individual who visits its Web Sites and whose data it processes. Any information collected about you will be used to first fulfil any service you might request and secondly improve how as a Company we serve you. We do this by making appropriate use of the information. 
 
-This information will not be disclosed to anyone outside of Jaguar Land Rover Limited, its affiliated or associated companies, and the dealers, agencies and licensees of any of these companies, and any other companies with which Jaguar has directly or indirectly arranged services for your benefit. It will be treated in accordance with the relevant legal provisions concerning data protection and may be initially stored and processed inside or outside the European Union anywhere in the world. It will be used only in the connection with the marketing of Jaguar products and services and related products and services. 
+This information will not be disclosed to anyone outside of Jaguar Land Rover Limited, its affiliated or associated companies, and the retailers, agencies and licensees of any of these companies, and any other companies with which Jaguar has directly or indirectly arranged services for your benefit. It will be treated in accordance with the relevant legal provisions concerning data protection and may be initially stored and processed inside or outside the European Union anywhere in the world. It will be used only in the connection with the marketing of Jaguar products and services and related products and services. 
 
 You have the right as an individual to find out what information we hold about you and make corrections if necessary; you also have the right to ask us to not use the information. 
 
@@ -43,7 +43,7 @@ Collecting this information will help Jaguar to achieve the following:
 6\. Assessing general trends within the Web Site and its use.   
 7\. To alert you to new products, special promotions, updated information and other new services that Jaguar considers to be of interest to you. Where you have given us your permission we might authorise other companies to contact you directly.   
 8\. To display relevant product, promotion and service information based on your previous browsing activities within Jaguar.com   
-9\. To help you to store your favourite media (wallpapers, video, audio), configured cars and preferred dealer information within Jaguar.com for your future reference. 
+9\. To help you to store your favourite media (wallpapers, video, audio), configured cars and preferred retailer information within Jaguar.com for your future reference. 
 
 **WHAT INFORMATION MIGHT BE COLLECTED BY JAGUAR WEB SITES OR VIA THIRD PARTY WEBSITES OR PLATFORMS?**
 
@@ -92,3 +92,5 @@ The Internet is not a secure system and you should always be cautious about the 
 **WHAT HAPPENS IF I CHOOSE NOT TO REGISTER?**
 
 If you choose not to register or provide personal information, you will in most cases still be able to use most of the Jaguar Web Sites. However you will not be able to access areas that require registration. Even if you do not register we will sometimes collect anonymous information about how you have used the Web Site. This is information that does not personally identify you but which may be helpful for marketing or improving the services we offer.
+
+You are about to leave Jaguar.co.uk. Please note that Jaguar cannot be responsible for any content or validity outside of this domain. Please click on Accept to go ahead, or on Reject to close this window.
