@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the picturequotes.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122163306id_/http%3A//www.picturequotes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the picturequotes.com privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612233546id_/http%3A//www.picturequotes.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Picture Quotes
 
-This Privacy Policy governs the manner in which PictureQuotes.com collects, uses, maintains and discloses information collected from users (a 'User') of the www.picturequotes.com website ('Site'). Your privacy is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and disclose and make use of personal information. 
+This Privacy Policy governs the manner in which PictureQuotes.com collects, uses, maintains and discloses information collected from users (a 'User') of the PictureQuotes.com website ('Site'). Your privacy is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and disclose and make use of personal information. 
 
 ### Personal identification information
 
@@ -61,6 +61,8 @@ PictureQuotes.com uses VigLink to automatically affiliate our commercial links. 
 PictureQuotes.com is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to Amazon.com, endless.com, smallparts.com or myhabit.com.
 
 Amazon, the Amazon logo, AmazonSupply, and the AmazonSupply logo are trademarks of Amazon.com, Inc. or its affiliates.
+
+PictureQuotes.com is a participant in the eBay Partner Network Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to eBay.com. Please visit the following link to see eBay's privacy policy: [eBay Privacy Policy](http://pages.ebay.com/help/policies/privacy-policy.html?_trksid=m40)
 
 PictureQuotes.com is in association with Zazzle.
 
