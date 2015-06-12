@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wwf.ca privacy policy that was archived on 2014-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141203075846id_/http%3A//www.wwf.ca/privacy_security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wwf.ca privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612094429id_/http%3A//www.wwf.ca/privacy_security) for the most accurate reproduction.*
 
-# WWF Canada - Privacy
+# Privacy | WWF-Canada
 
 Personal information is any information that can be used to distinguish, identify or contact a specific individual. This information can include an individual's name, contact information, social status and family relationships. Exceptions include business-related information and certain publicly available information such as business address, name, title and fax.
 
