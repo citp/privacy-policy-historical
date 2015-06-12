@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the housetrip.com privacy policy that was archived on 2014-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141224035747id_/http%3A//about.housetrip.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the housetrip.com privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612041646id_/http%3A//about.housetrip.com/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy and Cookies Policy - HouseTripHouseTrip
 
@@ -50,6 +50,7 @@ Please note that third parties (including, for example, advertising networks and
 ---|---|---|---|---  
 Google Analytics | _utma _utmb _utmc _utmz | Analytical/performance cookies | These cookies are used to collect information about how visitors use our site. We use the information to compile reports on general user traffic, conversion statistics and to help us improve the site. The cookies collect information anonymously. | [Click here](http://www.google.co.uk/intl/en/analytics/privacyoverview.html) for an overview of privacy at Google Analytics  
 Adwords | Google_mkwid | Analytical/performance cookies | These cookies are used to collect Google Adwords-specific user traffic and conversion statistics. | [Click here](http://www.google.com/intl/en/privacy/ads/) for an overview of privacy at Google advertising  
+All Response Media | _pk_ref _pk_id _pk_ses _pk_cvar | Analytical/performance cookies | These cookies are used to collect user traffic and conversion statistics. | [Click here](http://armalytics.com/StaticPages/Privacy) for an overview of privacy at All Response Media  
 KISSmetrics | km_ai km_lv km_ni km_uq km_vs kvcd | Analytical/performance cookies | These cookies are used to collect information about how visitors use our site. We use the information to compile internal user conversion and site features usage statistics. | [Click here](http://www.kissmetrics.com/privacy) for an overview of privacy at KISSmetrics.  
 Amazon AWS | AWSELB | Strictly necessary Cookies | This cookie is used to manage the session and balance the server load in storing and retrieving data from our provider Amazon Web Services. | [Click here](http://aws.amazon.com/privacy/) for an overview of privacy at Amazon WS  
 HouseTrip Session | _housetrip_session | Strictly necessary Cookies | This cookie stores information about your settings preferences (such as language, currency, favourite properties, etc.), and so allow us to customise our site. It is also used for tracking in internal A/B tests, conversion statistics and affiliate programs. |   
