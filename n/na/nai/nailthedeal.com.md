@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nailthedeal.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702091908id_/http%3A//www.nailthedeal.com/about/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nailthedeal.com privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612083135id_/http%3A//www.nailthedeal.com/about/privacy.php) for the most accurate reproduction.*
 
 # Privacy statement|Dubai GroupBuy|Nail the Deal - Nail the Deal |DubaiVoucher|Dubai Discount
 
@@ -23,3 +23,21 @@ We collect two types of information about our Website Users: Personally Identifi
 Your friend may contact us at [support@nailthedeal.com](mailto:support@nailthedeal.com) to request that we remove this information from our database.
 
 We use Personally Identifiable Information to provide products and services to you, enhance the operation of the Website, improve our marketing and promotional efforts, analyze Website use, improve our product and service offerings, and to tailor your experience with third parties as provided in Item 3 of this Privacy Policy. For example, if you send our customer service an email we may use your comments and feedback to tell others about our services, and may post your comment in our marketing materials or on our Website. We may also use Personally Identifiable Information to trouble.
+
+**4\. Unsubscribe**
+
+To Unsubscribe, you can simply use our 1 touch unsubscribe button which is present on all our emailers at the bottom.
+
+**5\. Cookies**
+
+Nail the Deal uses technologies such as cookies and pixels to keep track of your activities on our website and our Advertiser's websites, and to serve you more relevant advertisements. A cookie is a small text file that is stored on your device for record-keeping purposes. Session cookies expire when you close your browser. Persistent cookies remain on your device for an extended period of time. We and our third party partners use session cookies and persistent cookies to make it easier for you to navigate and enhance the experience of our site, and to monitor and evaluate our website's operation and use.
+
+We use persistent cookies to keep track of your activities when you visit our website or our Advertisers' websites, and to serve you relevant advertisements. Our Advertising Partners also place persistent cookies on your device when you visit our website or our Advertisers' websites in order to help us recognize you and serve relevant advertisements to you when you visit their website or online service or websites in their networks. AdRoll's policy is that our Advertising Partners only collect information that does not personally or directly identify you via these cookies and we will cease working with partners found violating this policy. You can remove cookies by following directions provided in your Internet browser's "help" file. You may also decline our cookies if your browser permits, but doing so may interfere with your use of our website.
+
+**Nail the Deal (Subsidiary of Cosmos Star Consultants)**  
+Office 1412 Grosvenor Business Tower   
+TECOM, Sheikh Zayad Road  
+P.O.Box 31705,   
+Dubai, United Arab Emirates
+
+**Customer Support :**
