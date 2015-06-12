@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theimproper.com privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227010319id_/http%3A//www.theimproper.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theimproper.com privacy policy that was archived on 2015-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150613012451id_/http%3A//www.theimproper.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
