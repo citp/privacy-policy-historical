@@ -1,10 +1,9 @@
-> *The following text is extracted and transformed from the nyne.com privacy policy that was archived on 2014-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141205102245id_/http%3A//nyne.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nyne.com privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612084721id_/http%3A//nyne.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | NYNE
+# Privacy Policy - Nyne Multimedia
 
-PLEASE READ THE FOLLOWING PRIVACY POLICY CAREFULLY. WHEN YOU USE  
-THIS WEBSITE, YOU ACKNOWLEDGE THAT YOU HAVE READ, UNDERSTOOD, AND  
-AGREE TO BE BOUND BY THE POLICIES, TERMS, AND CONDITIONS SET FORTH HEREIN.
+**PLEASE READ THE FOLLOWING PRIVACY POLICY CAREFULLY. WHEN YOU USE THIS WEBSITE, YOU ACKNOWLEDGE THAT YOU HAVE READ, UNDERSTOOD, AND AGREE TO BE BOUND BY THE POLICIES, TERMS, AND CONDITIONS SET FORTH HEREIN.**  
+ 
 
 **ONLINE PRIVACY POLICY**
 
