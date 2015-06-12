@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the hexamob.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120055752id_/http%3A//hexamob.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hexamob.com privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612071118id_/http%3A//hexamob.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy - Hexamob Developments
+# Privacy policy - Hexamob
+
+Hexamob \- 10/30/2013
 
 Hexamob, SL (hereinafter Hexamob), with CIF B12929881, owner of the website “hexamob.com” (hereinafter WEBSITE) and mobile applications (hereafter, APPs) in which download process has brought you to this electronic document ensures full compliance with the obligations under the Law 15/1999 of December 13, Protection of Personal Data (LOPD), Royal Decree 1720/2007 of 21 December , by approving the Regulations implementing the Act and other regulations in the field, setting the policy as one of the cornerstones in the action lines of Hexamob. 
 
@@ -12,4 +14,4 @@ The user expressly accepts the inclusion of data collected while browsing the we
 
 Hexamob informs the user that to ensure full availability of the data in your files has concluded its hosting services and maintenance of data with different suppliers located in the European Union as well as in USA. These suppliers have signed a contract to provide services Hexamob, and found inside the European Economic Area or U.S. entities are adhering to the principles of “Safe Harbor” (safe harbor), in accordance with Decision 2000/520/EC . the Commission on July 26, 2000 For more information about the Safe Harbor program, visit: <http://export.gov/safeharbor>
 
-The USER agrees unequivocally international communication and data transfer in terms of expressing finishes. This transfer will take place automatically upon submit your information to Hexamob, so if you are not agree with it must provide them to refrain from it. The user can exercise their rights of access, rectification, cancellation or opposition, and where applicable, withdrawal of consent to receive information, by writing to the address of your permanent establishment located in Monastery Street Poblet, No. 13 to 1 º B, 12540 – Villarreal (Castellon – Spain), or if you prefer, send your request from the email address you have provided when registering at THE WEB TO privacy@hexamob.com. 
+The USER agrees unequivocally international communication and data transfer in terms of expressing finishes. This transfer will take place automatically upon submit your information to Hexamob, so if you are not agree with it must provide them to refrain from it. The user can exercise their rights of access, rectification, cancellation or opposition, and where applicable, withdrawal of consent to receive information, by writing to the address of your permanent establishment located in Monestir de Poblet,13 1 B, 12540 – Villarreal (Castellon – Spain), or if you prefer, send your request from the email address you have provided when registering at THE WEB TO privacy@hexamob.com. 
