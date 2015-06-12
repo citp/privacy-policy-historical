@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the kollegekidd.com privacy policy that was archived on 2014-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141124121458id_/http%3A//kollegekidd.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kollegekidd.com privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612070844id_/http%3A//kollegekidd.com/privacy-statement) for the most accurate reproduction.*
 
-# PRIVACY STATEMENT
+# Privacy Statement
 
 At kollegekidd.com, the privacy of our visitors is of extreme importance to us. This Privacy Policy governs the manner in which KollegeKidd collects, uses, maintains and discloses information collected from users (each, a "User") of the www.kollegekidd.com website ("Site"). This privacy policy applies to the Site and all products and services offered by KollegeKidd.
 
