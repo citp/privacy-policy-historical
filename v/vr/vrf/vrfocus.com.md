@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the vrfocus.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625222717id_/http%3A//vrfocus.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vrfocus.com privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612020437id_/http%3A//vrfocus.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | VR Focus
+# Privacy Policy - VRFocus
 
 **VRFocus** (together with its subsidiaries, “vrfocus.com” or “we”) has adopted a set of Privacy Principles applicable to all UK-based companies. **VRFocus** ****has implemented those Principles in this Privacy Policy, which describes how we collect, use, and share personally identifiable information (information that can be used to identify you, such as your full name, email address, mailing address, or telephone number) (“PII”) we obtain from and about individuals located in the UK both online and offline.
 
