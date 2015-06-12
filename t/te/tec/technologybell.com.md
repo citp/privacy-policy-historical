@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the technologybell.com privacy policy that was archived on 2014-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141126171420id_/http%3A//www.technologybell.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the technologybell.com privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612133609id_/http%3A//www.technologybell.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Technology Bell | Where Technology Thinks
 
   
-This Privacy Policy governs the manner in which Technology Bell collects, uses, maintains and discloses information collected from users (each, a “User”) of the <http://www.technologybell.com/> website (“Site”). This privacy policy applies to the Site and all products and services offered by Technology Bell.
+This Privacy Policy governs the manner in which Technology Bell collects, uses, maintains and discloses information collected from users (each, a “User”) of the [http://www.technologybell.com/](https://web.archive.org/) website (“Site”). This privacy policy applies to the Site and all products and services offered by Technology Bell.
 
 **Personal identification information**
 
@@ -21,13 +21,13 @@ Our Site may use “cookies” to enhance User experience. User’s web browser 
 
 Technology Bell may collect and use Users personal information for the following purposes:
 
-  * _\- To improve customer service_  
+  * _– To improve customer service_  
 Information you provide helps us respond to your customer service requests and support needs more efficiently.
-  * _\- To personalize user experience_  
+  * _– To personalize user experience_  
 We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
-  * _\- To improve our Site_  
+  * _– To improve our Site_  
 We may use feedback you provide to improve our products and services.
-  * _\- To send periodic emails_  
+  * _– To send periodic emails_  
 We may use the email address to send User information and updates pertaining to their order. It may also be used to respond to their inquiries, questions, and/or other requests. If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
 
 
@@ -48,11 +48,11 @@ Users may find advertising or other content on our Site that link to the sites a
 
 **Advertising**
 
-Ads appearing on our site may be delivered to Users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile non personal identification information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This privacy policy does not cover the use of cookies by any advertisers. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit <http://www.networkadvertising.org/managing/opt_out.asp>.
+Ads appearing on our site may be delivered to Users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile non personal identification information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This privacy policy does not cover the use of cookies by any advertisers. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit [http://www.networkadvertising.org/managing/opt_out.asp](https://www.networkadvertising.org/managing/opt_out.asp).
 
 **Google Adsense**
 
-Some of the ads may be served by Google. Google’s use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses “non personally identifiable information” and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at <http://www.google.com/privacy_ads.html>
+Some of the ads may be served by Google. Google’s use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses “non personally identifiable information” and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at [http://www.google.com/privacy_ads.html](https://www.google.com/privacy_ads.html)
 
 **Changes to this privacy policy**
 
@@ -64,7 +64,7 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 
 **Contacting us**
 
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us by [Clicking Here](http://www.technologybell.com/contact-us/ "Clicking Here")
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us by [Clicking Here](https://web.archive.org/contact-us/ "Clicking Here")
 
 This page was last updated on March 05, 2014  
 
