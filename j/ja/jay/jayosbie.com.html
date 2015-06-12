@@ -1,0 +1,853 @@
+<!--The following is the downloaded HTML source of the jayosbie.com privacy policy that was archived on 2015-06-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150612083810id_/http%3A//jayosbie.com/index.php%3Froute%3Dinformation/information%26information_id%3D3) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html dir="ltr" class="ltr" lang="en"><head>
+<!-- Always force latest IE rendering engine (even in intranet) & Chrome Frame -->
+<!-- Mobile viewport optimized: h5bp.com/viewport -->
+<meta name="viewport" content="width=device-width">
+<meta charset="UTF-8">
+<title>Privacy Policy</title>
+<link rel="stylesheet" type="text/css" href="catalog/view/theme/lexus_gentshop/stylesheet/animate.css">
+<base href="http://jayosbie.com/">
+<link href="http://jayosbie.com/image/data/fav.jpg" rel="icon">
+ 
+<link href="catalog/view/theme/lexus_gentshop/stylesheet/bootstrap.css" rel="stylesheet">
+<link href="system/cache/pavo-asset/2d9e64db1cd23fc0d185cde911af09c7.css" rel="stylesheet">
+<link href="catalog/view/theme/lexus_gentshop/stylesheet/font.css" rel="stylesheet">
+<link href="system/cache/pavo-asset/0add3b4da04d3f5c2ca400effb332319.css" rel="stylesheet">
+<link href="system/cache/pavo-asset/d82acf943d27c82cfa32f3b24ab6fca6.css" rel="stylesheet">
+<link href="system/cache/pavo-asset/33e115f779f52c018e869580e5145deb.css" rel="stylesheet">
+<link href="system/cache/pavo-asset/67ed748d482a1d37ff22622b21d1a387.css" rel="stylesheet">
+<link href="system/cache/pavo-asset/830b316b6eef4b280bea420b03fe3649.css" rel="stylesheet">
+<link href="catalog/view/theme/lexus_gentshop/stylesheet/font-awesome.min.css" rel="stylesheet">
+<link href="system/cache/pavo-asset/55f0e62da7e4a4dec448fc6510de9a75.css" rel="stylesheet">
+<script async="" src="//connect.facebook.net/en_US/fbds.js"></script><script type="text/javascript" async="" src="https://d31qbv1cthcecs.cloudfront.net/atrk.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="catalog/view/javascript/jquery/jquery-1.7.1.min.js"></script>
+<script type="text/javascript" src="catalog/view/javascript/jquery/ui/jquery-ui-1.8.16.custom.min.js"></script>
+<script type="text/javascript" src="catalog/view/javascript/jquery/ui/external/jquery.cookie.js"></script>
+<script type="text/javascript" src="catalog/view/javascript/common.js"></script>
+<script type="text/javascript" src="catalog/view/theme/lexus_gentshop/javascript/common.js"></script>
+<script type="text/javascript" src="catalog/view/javascript/jquery/bootstrap/bootstrap.min.js"></script>
+<script type="text/javascript" src="catalog/view/javascript/jquery/colorbox/jquery.colorbox-min.js"></script>
+<script type="text/javascript" src="catalog/view/javascript/jquery/jquery.jcarousel.min.js"></script>
+
+	<script type="text/javascript"><!--
+		$(document).ready(function() {
+			$("#complete").on('click',function(e){
+      e.preventDefault();
+      //alert("Yup!");
+
+      if ($("#mm-s-black").val() != 0 || $("#mm-s-blue").val() != 0 || $("#mm-s-white").val() != 0 || $("#eb-s-black").val() != 0 || $("#eb-s-white").val() != 0 || $("#eb-s-red").val() != 0){
+        //size has been selected. Test for corresponding quantity
+        var fname = $("#fname").val();
+        var lname = $("#lname").val();
+        var email = $("#email").val();
+        var phone = $("#phone").val();
+        var address1 = $("#address1").val();
+        var address2 = $("#address2").val();
+        var city = $("#city").val();
+        var postal = $("#postal").val();
+        var country = $("#country").val();
+        var region = $("#region").val();
+
+
+        var ebsred = $("#eb-s-red").val();
+        var ebsblack = $("#eb-s-black").val();
+        var ebswhite = $("#eb-s-white").val();
+        var ebqred = $("#eb-q-red").val();
+        var ebqblack = $("#eb-q-black").val();
+        var ebqwhite = $("#eb-q-white").val();
+        var mmsblack = $("#mm-s-black").val();
+        var mmsblue = $("#mm-s-blue").val();
+        var mmswhite = $("#mm-s-white").val();
+        var mmqwhite = $("#mm-q-white").val();
+        var mmqblue = $("#mm-q-blue").val();
+        var mmqblack = $("#mm-q-black").val();
+
+        var details = "";
+
+        if (ebsred != 0){
+          details = "Ello Bae (Red) -" + ebsred + "," + ebqred;
+        }
+
+        if (ebswhite != 0){
+          details += (" Ello Bae (White) -" + ebswhite + "," + ebqwhite);
+        }
+
+        if (ebsblack != 0){
+          details += (" Ello Bae (Black) -" + ebsblack + "," + ebqblack);
+        }
+
+        if (mmswhite != 0){
+          details += (" Marry Me (white)-" + mmswhite + "," + mmqwhite);
+        }
+
+        if (mmsblack != 0){
+          details += (" Marry Me (black)-" + mmsblack + "," + mmqblack);
+        }
+
+        if (mmsblue != 0){
+          details += (" Marry Me (Blue) -" + mmsblue + "," + mmqblue);
+        }
+
+        //alert(details);
+
+        function validateEmail(email) { 
+            var re = /^(([^<>()[\]\\.,;:\s@\"]+(\.[^<>()[\]\\.,;:\s@\"]+)*)|(\".+\"))@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\])|(([a-zA-Z\-0-9]+\.)+[a-zA-Z]{2,}))$/;
+            return re.test(email);
+        }
+
+
+        var x = validateEmail(email);
+
+        if (x && fname != '' && lname != '' && phone != '' && address1 != '' && city != ''){
+          
+          if (!$('#agree').prop('checked')){
+            alert('You must accept Terms and Conditions');
+          } else {
+            var jqxhr = $.ajax({
+              type:'POST',
+              url:'http://jayosbie.com/extras/123sas.php', 
+              data:{
+                fname: fname,
+                lname: lname,
+                email: email,
+                phone: phone,
+                address1: address1,
+                address2: address2,
+                detail: details,
+                city: city,
+                postal: postal,
+                country: country,
+                region: region
+              },
+              beforeSend: function(xhr){
+                $('#noSizeError').addClass('hide');
+              },
+              crossDomain: true
+            }).done(function(){
+                $("#intfrm").closest('form').find("input[type=text],input[type=number],input[type=email]").val("");
+                $('#noSizeError').removeClass('alert-warning hide').addClass('alert-success');
+                $('#noSizeError p').html(jqxhr.responseText);
+            }).fail(function(){
+                $('#noSizeError').removeClass('hide');
+                $('#noSizeError p').html('Something went wrong. Please send an email to info@jayosbie.com');
+            });
+          }
+        } else {
+          $('#noSizeError').removeClass('hide');
+          $('#noSizeError p').html('Please  fill all the fields marked with red *');
+        }
+
+
+        
+      } else {
+        $("#noSizeError").removeClass('hide');
+        $("#noSizeError p").html('No item selected!');
+      }
+
+    });		});
+//--></script>
+
+
+<!--[if lt IE 9]>
+<script src="catalog/view/javascript/html5.js"></script>
+<script src="catalog/view/javascript/respond.min.js"></script>
+<link rel="stylesheet" type="text/css" href="catalog/view/theme/lexus_gentshop/stylesheet/ie8.css" />
+<![endif]-->
+
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-51928215-1', 'auto');
+  ga('send', 'pageview');
+
+</script><!--Start of Zopim Live Chat Script-->
+<!--<script type="text/javascript">
+window.$zopim||(function(d,s){var z=$zopim=function(c){z._.push(c)},$=z.s=
+d.createElement(s),e=d.getElementsByTagName(s)[0];z.set=function(o){z.set.
+_.push(o)};z._=[];z.set._=[];$.async=!0;$.setAttribute('charset','utf-8');
+$.src='//v2.zopim.com/?2bcwcy9bpoALaLPyPJd5ueVpQ1268t73';z.t=+new Date;$.
+type='text/javascript';e.parentNode.insertBefore($,e)})(document,'script');
+</script>-->
+<!--End of Zopim Live Chat Script-->
+<!-- Start Alexa Certify Javascript -->
+<script type="text/javascript">
+_atrk_opts = { atrk_acct:"9NBJk1ao6C5270", domain:"jayosbie.com",dynamic: true};
+(function() { var as = document.createElement('script'); as.type = 'text/javascript'; as.async = true; as.src = "https://d31qbv1cthcecs.cloudfront.net/atrk.js"; var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(as, s); })();
+</script>
+<noscript><img src="https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=9NBJk1ao6C5270" style="display:none" height="1" width="1" alt="" /></noscript>
+<!-- End Alexa Certify Javascript -->  
+<!-- Facebook Conversion Code for Customer Aquisition -->
+<script>(function() {
+  var _fbq = window._fbq || (window._fbq = []);
+  if (!_fbq.loaded) {
+    var fbds = document.createElement('script');
+    fbds.async = true;
+    fbds.src = '//connect.facebook.net/en_US/fbds.js';
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(fbds, s);
+    _fbq.loaded = true;
+  }
+})();
+window._fbq = window._fbq || [];
+window._fbq.push(['track', '6021486998870', {'value':'0.00','currency':'USD'}]);
+</script>
+<noscript><img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/tr?ev=6021486998870&amp;cd[value]=0.00&amp;cd[currency]=USD&amp;noscript=1" /></noscript>
+
+<!-- Facebook Conversion Code for Actual Purchases -->
+<script>(function() {
+  var _fbq = window._fbq || (window._fbq = []);
+  if (!_fbq.loaded) {
+    var fbds = document.createElement('script');
+    fbds.async = true;
+    fbds.src = '//connect.facebook.net/en_US/fbds.js';
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(fbds, s);
+    _fbq.loaded = true;
+  }
+})();
+window._fbq = window._fbq || [];
+window._fbq.push(['track', '6021487464470', {'value':'0.00','currency':'USD'}]);
+</script>
+<noscript><img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/tr?ev=6021487464470&amp;cd[value]=0.00&amp;cd[currency]=USD&amp;noscript=1" /></noscript>
+
+
+
+
+
+<!-- Facebook Conversion Code for Website Visits -->
+<script>(function() {
+  var _fbq = window._fbq || (window._fbq = []);
+  if (!_fbq.loaded) {
+    var fbds = document.createElement('script');
+    fbds.async = true;
+    fbds.src = '//connect.facebook.net/en_US/fbds.js';
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(fbds, s);
+    _fbq.loaded = true;
+  }
+})();
+window._fbq = window._fbq || [];
+window._fbq.push(['track', '6021920816670', {'value':'0.00','currency':'USD'}]);
+</script>
+<noscript><img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/tr?ev=6021920816670&amp;cd[value]=0.00&amp;cd[currency]=USD&amp;noscript=1" /></noscript>
+
+
+<script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
+<body id="offcanvas-container" class="keep-header offcanvas-container layout-fullwidth  page-information">
+<!-- Multi header -->	
+	<section id="page" class="offcanvas-pusher" role="main">
+
+	
+
+<div class="main-page">
+
+
+
+<section id="header-top">
+	<section id="topbar" class="topbar-v1">
+		<div class="container">				
+			<div class="row">
+				<div class="show-desktop col-xs-12">
+					<div class="quick-access pull-left">
+						<div class="login links hidden-xs hidden-sm">
+														<a href="http://jayosbie.com/index.php?route=account/login">Login</a> or <a href="http://jayosbie.com/index.php?route=account/register">create an account here</a>.							 
+						</div>
+						<!-- Single button -->
+						<div class="btn-group">
+							<!--
+							<div class="dropdown-toggle btn-theme-normal" >
+								<i class="fa fa-cog"></i>
+								<span class="text-label"><a href="#">Setting</span> 
+								<span class="fa fa-angle-down"></span>									
+							</div>
+							
+							<div class="quick-localisation dropdown-menu tree-menu">
+								<div class="language">
+																	</div>
+								<div class="currency">
+									<form action="http://jayosbie.com/index.php?route=module/currency" method="post" enctype="multipart/form-data">
+  <div class="box-currency">
+    <label>Currency</label>
+                <a title="Euro" onclick="$('input[name=\'currency_code\']').attr('value', 'EUR'); $(this).parent().parent().submit();">€</a>
+                        <a title="Naira"><b>₦</b></a>
+                        <a title="Pound Sterling" onclick="$('input[name=\'currency_code\']').attr('value', 'GBP'); $(this).parent().parent().submit();">£</a>
+                        <a title="US Dollar" onclick="$('input[name=\'currency_code\']').attr('value', 'USD'); $(this).parent().parent().submit();">$</a>
+                <input type="hidden" name="currency_code" value="" />
+    <input type="hidden" name="redirect" value="http://jayosbie.com/index.php?route=information/information&amp;information_id=3" />
+  </div>
+</form>
+								</div> 	
+							</div>
+							-->
+							<span class="text-label" style="font-size: 1.5em"><i class="fa fa-phone-square"></i> <a href="tel:08027443744" style="color: #111;font-size: .9em">09027443744</a></span>
+						</div>
+
+						<div class="btn-group">
+							<!--<div class="dropdown-toggle btn-theme-normal" >
+								<i class="fa fa-user"></i>
+								<span class="text-label"><a href="#">Account</span> 
+								<span class="fa fa-angle-down"></span>									
+							</div>
+							
+							<div class="quick-setting dropdown-menu tree-menu">
+								<ul class="links">								
+									<li><a href="http://jayosbie.com/index.php?route=account/wishlist" id="wishlist-total">Wish List (0)</a></li>
+									<li><a href="http://jayosbie.com/index.php?route=account/account">My Account</a></li>
+									<li><a href="http://jayosbie.com/index.php?route=checkout/cart">Shopping Cart</a></li>
+									<li><a class="last" href="http://jayosbie.com/index.php?route=checkout/checkout">Checkout</a></li>
+								</ul>	
+							</div>-->
+							<span class="text-label" style="font-size: 1.5em"><i class="fa fa-envelope"></i> <a href="mailto:info@jayosbie.com" style="color: #111;font-size: .9em">info@jayosbie.com</a></span>
+						</div>
+
+					</div>
+					<div class="quick-action pull-right">
+						<div id="cart" class="quick-cart clearfix hidden-xs">
+	<div class="heading media">		
+		<div class="cart-inner media-body">
+			<a>
+				<i class="cart-icon"></i>
+				<h4>Shopping Cart</h4>
+				<span id="cart-total">0 item(s) - ₦0.00</span>
+				<i class="fa fa-angle-down"></i>
+			</a>
+		</div>
+	</div>
+	
+	<div class="content">
+				<div class="empty">Your shopping cart is empty!</div>
+			</div>  
+</div>						<div class="btn-group search-focus">
+							<div class="dropdown-toggle btn-theme-normal">
+								<span class="text-label">SEARCH</span>									
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>	
+		</div>
+	</section>
+
+	<section class="main-menu mainnav-v1">	
+		<div class="nav-search visible">
+	    	<div class="input-group">
+				<input type="text" name="search" placeholder="Search..." value="" class="form-control search-control">
+				<span class="input-group-addon button-close"><span class="fa fa-times"></span></span>
+			</div>
+		</div>		
+		<div class="container">
+			<div class="row">
+				<div class="col-lg-3 col-md-3 col-sm-2 col-xs-10 logo inner">
+										<div id="logo-theme" class="logo-store">
+						<a href="http://jayosbie.com/index.php?route=common/home">
+							<img src="image/data/logo-theme-white.png" title="Jay Osbie" alt="Jay Osbie">
+						</a>
+					</div>
+					 
+				</div>	
+				<div id="pav-mainnav" class="col-lg-9 col-md-9 col-sm-10 col-xs-2">
+				
+								<div class="pav-megamenu">
+	<div class="navbar navbar-default">
+		<div id="mainmenutop" class="megamenu" role="navigation">
+			<div class="navbar-header">
+				<a class="navbar-toggle hidden-lg hidden-md" href="javascript:;" data-target=".navbar-collapse" data-toggle="collapse">
+		        	<span class="fa fa-bars"></span>		        
+		     	</a>
+				<div class="collapse navbar-collapse navbar-ex1-collapse hidden-sm hidden-xs">
+					<ul class="nav navbar-nav megamenu"><li class="home">
+					<a href=""><span class="menu-title">Home</span></a></li><li class="">
+					<a href="http://jayosbie.com/vjadams"><span class="menu-title">VJ Adams</span></a></li><li class="parent dropdown ">
+					<a class="dropdown-toggle" data-toggle="dropdown" href="http://jayosbie.com/falz"><span class="menu-title">Falz</span><b class="caret"></b></a><div class="dropdown-menu level1"><div class="dropdown-menu-inner"><div class="row"><div class="col-sm-12 mega-col" data-colwidth="12" data-type="menu"><div class="mega-col-inner"><ul><li class=" "><a href="http://jayosbie.com/falz/falz-shirts"><span class="menu-title">Shirts</span></a></li><li class=" "><a href="http://jayosbie.com/falz/falz-tees"><span class="menu-title">Tees</span></a></li><li class=" "><a href="http://jayosbie.com/falz/falz-tunics"><span class="menu-title">Tunics</span></a></li></ul></div></div></div></div></div></li><li class="">
+					<a href="http://jayosbie.com/shirts"><span class="menu-title">Shirts</span></a></li><li class="parent dropdown ">
+					<a class="dropdown-toggle" data-toggle="dropdown" href="http://jayosbie.com/trousers"><span class="menu-title">Trousers</span><b class="caret"></b></a><div class="dropdown-menu level1"><div class="dropdown-menu-inner"><div class="row"><div class="col-sm-12 mega-col" data-colwidth="12" data-type="menu"><div class="mega-col-inner"><ul><li class=" "><a href="http://jayosbie.com/trousers/jeans-trousers"><span class="menu-title">Jeans</span></a></li><li class=" "><a href="http://jayosbie.com/trousers/chinos-trousers"><span class="menu-title">Chinos</span></a></li></ul></div></div></div></div></div></li><li class="">
+					<a href="http://jayosbie.com/shorts"><span class="menu-title">Shorts</span></a></li><li class="">
+					<a href="http://jayosbie.com/trads"><span class="menu-title">Trads</span></a></li><li class="">
+					<a href="http://jayosbie.com/shoes"><span class="menu-title">Shoes</span></a></li><li class="parent dropdown ">
+					<a class="dropdown-toggle" data-toggle="dropdown" href="http://jayosbie.com/accessories"><span class="menu-title">Accessories</span><b class="caret"></b></a><div class="dropdown-menu level1"><div class="dropdown-menu-inner"><div class="row"><div class="col-sm-12 mega-col" data-colwidth="12" data-type="menu"><div class="mega-col-inner"><ul><li class=" "><a href="http://jayosbie.com/accessories/caps"><span class="menu-title">Caps</span></a></li></ul></div></div></div></div></div></li></ul>				</div>
+			</div>
+		</div>
+	</div>
+</div>				
+								</div>
+			</div>	
+		</div>	
+	</section>
+	
+</section>
+ 
+
+<!--/**
+* sys-notification
+*/-->
+
+<section id="sys-notification">
+	<div class="container">
+				<div id="notification"></div>
+	</div>
+</section>
+
+
+
+ 
+
+<section id="columns">
+	  <div class="page-heading">
+		<h1>Privacy Policy</h1>
+		<div id="breadcrumb" class=""><ol class="breadcrumb">
+		<li><a href="http://jayosbie.com/index.php?route=common/home"><span>Home</span></a></li>
+		<li><a href="http://jayosbie.com/index.php?route=information/information&amp;information_id=3"><span>Privacy Policy</span></a></li>
+	</ol></div> 
+	</div>
+<div class="container">
+<div class="row">
+
+	 
+	<section class="col-lg-12 col-md-12 col-sm-12 col-xs-12">	
+		<div id="content">
+	
+			
+			<div class="wrapper">
+				<p style="font-size: 13px; line-height: 20.7999992370605px;"><strong>Privacy Policy</strong></p>
+
+<p style="font-size: 13px; line-height: 20.7999992370605px;">This policy covers how we use your personal information. We take your privacy seriously and will take all measures to protect your personal information.</p>
+
+<p style="font-size: 13px; line-height: 20.7999992370605px;">Any personal information received will only be used to fulfil&nbsp;your order. We will not sell or redistribute your information to anyone.</p>
+
+<p style="font-size: 13px; line-height: 20.7999992370605px;">&nbsp;</p>
+
+<p>Our commitment to protecting your privacy is outlined in the policy below. This privacy policy describes the overall company Privacy Policy of Jay Osbie Limited. (referred to as "Jay Osbie", "jayosbie.com ", "we", "us", "our") and the services offered on the jayosbie.com website (referred to as "Services", "Service").</p>
+
+<p>&nbsp;</p>
+
+<p>Our privacy policy explains:</p>
+
+<p>&nbsp;</p>
+
+<p>What information we collect</p>
+
+<p>How we use that information</p>
+
+<p>What information we share with our partners</p>
+
+<p>The choices we offer</p>
+
+<p>Jay Osbie’s Privacy Policy is broken out into two sections. Section I explains Jay Osbie’s privacy policies regarding the collection, use, and sharing of data from visitors to our website. Section II covers Jay Osbie’s privacy policies with regard to customer accounts.</p>
+
+<p>&nbsp;</p>
+
+<p><strong>Section I</strong></p>
+
+<p>What information does Jay Osbie collect and how do we use that information?</p>
+
+<p>&nbsp;</p>
+
+<p><strong>Information We Collect and How We Use It</strong></p>
+
+<p>Jay Osbie collects data about your activities that does not personally or directly identify you when you visit our website. This information may include the content you view, the date and time that you view this content, the products you purchase, or your location information associated with your IP address. We use the information we collect to improve on user experience..</p>
+
+<p>&nbsp;</p>
+
+<p><strong>Third Parties on our Website</strong></p>
+
+<p>In order to allow Jay Osbie to reach the best audience online, we work with third party companies to assist us with website analytics such as evaluating the use and operation of our website so that we can continue to enhance the website and our services.</p>
+
+<p>&nbsp;</p>
+
+<p><strong>Technologies We and Our Third Party Advertising Partners Use</strong></p>
+
+<p>Jay Osbie uses technologies such as cookies to keep track of your activities on our website. A cookie is a small text file that is stored on your device for record-keeping purposes. Session cookies expire when you close your browser. Persistent cookies remain on your device for an extended period of time. Our third party partners and we use session cookies and persistent cookies to make it easier for you to navigate and enhance the experience of our site, and to monitor and evaluate our website’s operation and use.</p>
+
+<p>&nbsp;</p>
+
+<p>We use persistent cookies to keep track of your activities when you visit our website and track affiliate links. Jay Osbie’s policy is that our Advertising Partners only collect information that does not personally or directly identify you via these cookies and we will cease working with partners found violating this policy. You can remove cookies by following directions provided in your Internet browser’s “help” file. You may also decline our cookies if your browser permits, but doing so may interfere with your use of our website.</p>
+
+<p>&nbsp;</p>
+
+<p>How we share your information</p>
+
+<p>&nbsp;</p>
+
+<p><strong>We may share your information with:</strong></p>
+
+<p>Companies that Jay Osbie merges with or that acquire Jay Osbie.</p>
+
+<p>We may also share information about you if necessary to comply with laws or regulations or in response to a valid subpoena, order, or government request, or to protect the rights of Jay Osbie or others.</p>
+
+<p>&nbsp;</p>
+
+<p><strong>Data Retention</strong></p>
+
+<p>We retain the identifiable data we collect from newsletter subscriptions and registrations on our website.</p>
+
+<p>&nbsp;</p>
+
+<p><strong>Section II – Jay Osbie Customers</strong></p>
+
+<p>&nbsp;</p>
+
+<p>Account information we collect</p>
+
+<p><strong>If you open an account, we collect the following types of personal information from you:</strong></p>
+
+<p>Contact information - your name, address, email, and other similar information.</p>
+
+<p>Jay Osbie.com account login information.</p>
+
+<p>We may collect additional information from or about you in other ways not specifically described here. For example, we may collect information related to your contact with our customer support team or store results when you respond to a survey.</p>
+
+<p>Some categories of personal information may be marked as mandatory in our online and offline forms. We may not be able to provide you with the product or service requested if you decide not to provide the personal information marked as mandatory.</p>
+
+<p>We do not link the non-personally identifiable information we store using cookies (described above) to any personally identifiable information you submit while on our site.</p>
+
+<p>How we share personal information with other parties</p>
+
+<p>&nbsp;</p>
+
+<p><strong>We may share your personal information with:</strong></p>
+
+<p>Service providers under contract who assist us with our business operations, such as fraud prevention, bill collection, marketing, and technology services. Our service providers are only authorized to use your information in connection with the services they perform for us and not for their own benefit.</p>
+
+<p>Credit bureaus to report outstanding negative balance accounts, as allowed by law.</p>
+
+<p>Companies that Jay Osbie merges with or that acquire Jay Osbie. In this event, we will notify you before your information is transferred and becomes subject to a different privacy policy.</p>
+
+<p>Other third parties with your consent or direction to do so.</p>
+
+<p>We may share information about you if necessary to comply with laws or regulations or in response to a valid subpoena, order, or government request, or to protect the rights of Jay Osbie or others.</p>
+
+<p>&nbsp;</p>
+
+<p><strong>How you can access or change your personal information</strong></p>
+
+<p>You may have the right to request access to and receive information about the personal information we maintain about you, update and correct inaccuracies in your personal information and have the information blocked or deleted, as appropriate. The right to access personal information may be limited in some circumstances by local law requirements. You also have the right to opt out, free of charge, from the processing of your personal information for marketing purposes. All requests for access, rectification, blocking and opting-out must be made in writing, signed, dated and accompanied by a copy of your ID card.</p>
+
+<p>&nbsp;</p>
+
+<p><strong>Other Site Policies That Apply To Both Section I &amp; II</strong></p>
+
+<p><strong>How we protect personal information</strong></p>
+
+<p>We employ reasonable and appropriate security measures such as maintaining physical, electronic and procedural safeguards in compliance with applicable security requirements and regulations. We use computer safeguards such as firewalls and data encryption; we enforce physical access controls to our buildings and files; and we authorize access to personal information only for those employees who require it to fulfill their job responsibilities. All credit card information is encrypted with 128-bit SSL encryption before it is transmitted across the network. However, no security system is foolproof and we cannot guarantee the security of your information.</p>
+
+<p>&nbsp;</p>
+
+<p><strong>Data Transfers</strong></p>
+
+<p>W comply with applicable legal requirements providing adequate protection for the transfer of personal information. We may transfer the personal information we collect about you to countries other than the country in which the information was originally collected for the purposes of storage and processing of data, fulfilling your requests, and operating the Service. Those countries may not have the same data protection laws as the country in which you initially provided the information. When we transfer your information to other countries, we will protect that information as described in this Privacy Policy.</p>
+
+<p>&nbsp;</p>
+
+<p>By providing any information, including personal information, on or to the Service, you consent to such transfer, storage, and processing.</p>
+
+<p>&nbsp;</p>
+
+<p><strong>Unsupervised Children</strong></p>
+
+<p>Children 17 and under are not eligible to use Jay Osbie services without participation and supervision of a legal parent or guardian. Jay Osbie is not a site meant for children, and we do not provide privacy measures designed to protect children when using the Internet unsupervised. Jay Osbie also does not knowingly target children under the age of 13 and makes reasonable efforts to ensure that this does not occur across any campaigns it runs for its own marketing.</p>
+
+<p>&nbsp;</p>
+
+<p><strong>Other Sites Policies</strong></p>
+
+<p>Jay Osbie has no control over, nor does it bear any of the responsibility for the privacy policies and/or content of any sites or advertisers linked to or on Jay Osbie’s website, or the cookies these sites might set in your browser. Online Behavioral Advertising.</p>
+
+<p>&nbsp;</p>
+
+<p><strong>How you can contact us about privacy questions</strong></p>
+
+<p>If you have any questions about this privacy statement, the practices of this site, or your dealings with this site, you can contact info@jayosbie.com or call +2348171221910.</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p><em>Jay Osbie,</em></p>
+
+<p><em>78Ogudu Road, Ojota.</em></p>
+
+<p><em>Lagos, Nigeria.</em></p>
+
+<p>+2348171221910</p>
+
+<p>+2349027443744</p>
+			</div>
+			<div class="buttons">
+				<div class="right"><a href="http://jayosbie.com/index.php?route=common/home" class="button btn btn-outline">Continue</a></div>
+			</div>
+					</div>
+	</section> 
+
+	
+</div></div>
+
+</section>
+
+
+<footer id="footer">
+	<section class="footer-top " id="pavo-footer-top">
+	<div class="container"><div class="inner">
+				<div class="row">	
+		<div class="col-lg-12 col-md-12"><div class="pav-custom  pav-newsletter" id="newsletter_footer_top0">
+		<form id="formNewLestter" method="post" action="http://jayosbie.com/index.php?route=module/pavnewsletter/subscribe" class="formNewLestter">
+			<div class="content">
+				<div class="wapper">
+					<div class="description">
+						<span class="title">Newsletter</span>
+						<br>
+						<p>Sign up to newsletter</p>
+</div>
+					<div class="input-form">
+						<input type="text" class="form-control input-md inputNew" onblur="javascript:if(this.value=='')this.value='Your email address';" onfocus="javascript:if(this.value=='Your email address')this.value='';" value="Your email address" size="18" name="email">
+					</div>
+					<div class="button-submit">
+							<button type="submit" name="submitNewsletter" class="btn btn-outline">Subscribe</button>
+						</div>	
+					<input type="hidden" value="1" name="action">
+					<div class="valid"></div>
+				</div>
+			</div>	
+
+		</form>
+</div>
+
+<script type="text/javascript"><!--
+
+	$( document ).ready(function() {
+		var id = 'newsletter_footer_top0';
+		$('#'+id+' .box-heading').bind('click', function(){
+			$('#'+id).toggleClass('active');
+		});
+
+		$('#formNewLestter').on('submit', function() {
+			var email = $('.inputNew').val();
+			$(".success_inline, .warning_inline, .error").remove();
+			if(!isValidEmailAddress(email)) {				
+			$('.valid').html("<div class=\"error alert alert-danger\">Email is not valid!</div>");
+			$('.inputNew').focus();
+			return false;
+		}
+		var url = "http://jayosbie.com/index.php?route=module/pavnewsletter/subscribe";
+		$.ajax({
+			type: "post",
+			url: url,
+			data: $("#formNewLestter").serialize(),
+			dataType: 'json',
+			success: function(json)
+			{
+				$(".success_inline, .warning_inline, .error").remove();
+				if (json['error']) {
+					$('.valid').html("<div class=\"warning_inline alert alert-danger\">"+json['error']+"</div>");
+				}
+				if (json['success']) {
+					$('.valid').html("<div class=\"success_inline alert alert-success\">"+json['success']+"</div>");
+				}
+			}
+		});
+		return false;
+	});
+});
+
+function isValidEmailAddress(emailAddress) {
+	var pattern = new RegExp(/^(("[\w-\s]+")|([\w-]+(?:\.[\w-]+)*)|("[\w-\s]+")([\w-]+(?:\.[\w-]+)*))(@((?:[\w-]+\.)*\w[\w-]{0,66})\.([a-z]{2,6}(?:\.[a-z]{2})?)$)|(@\[?((25[0-5]\.|2[0-4][0-9]\.|1[0-9]{2}\.|[0-9]{1,2}\.))((25[0-5]|2[0-4][0-9]|1[0-9]{2}|[0-9]{1,2})\.){2}(25[0-5]|2[0-4][0-9]|1[0-9]{2}|[0-9]{1,2})\]?$)/i);
+	return pattern.test(emailAddress);
+}
+--></script>
+<script type="text/javascript">
+adroll_adv_id = "B2WLSLAFVRC3JFMWP4AQ44";
+adroll_pix_id = "LWD2BHEG7BEONB5LFADZIC";
+(function () {
+var oldonload = window.onload;
+window.onload = function(){
+   __adroll_loaded=true;
+   var scr = document.createElement("script");
+   var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
+   scr.setAttribute('async', 'true');
+   scr.type = "text/javascript";
+   scr.src = host + "/j/roundtrip.js";
+   ((document.getElementsByTagName('head') || [null])[0] ||
+    document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
+   if(oldonload){oldonload()}};
+}());
+</script>
+</div>
+		</div>	
+			
+	</div></div>
+</section>
+	<section class="footer-center " id="pavo-footer-center">
+	<div class="container"><div class="inner">
+				<div class="row">	
+		<div class="col-lg-3 col-md-3"><div class="box pav-custom  ">
+		<div class="box-content">
+		<div class="">
+			<p><img alt="" src="http://jayosbie.com/image/data/JayOsbie_logo_color_150x157.png" style="width: 150px; height: 157px;">​</p>
+
+<p>​</p>
+		</div>
+	</div>
+</div></div>
+			
+					
+		<div class="col-lg-3 col-md-3"><div class="box pav-custom  ">
+		<div class="box-content">
+		<div class="">
+			<div class="footer-intro">Jay Osbie is an online brand and retailer for fashion-forward men. The site offers a range of products from casual styles to traditional wear, styled up and re-thought for the modern Nigerian man.</div>
+
+<div class="footer-intro">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
+
+<p>&nbsp;</p>
+		</div>
+	</div>
+</div></div>
+			
+					
+		<div class="col-lg-2 col-md-2"><div class="box pav-custom  ">
+		<div class="box-heading"><span>INFORMATION</span></div>
+		<div class="box-content">
+		<div class="">
+			<ul class="list">
+	<li><a href="index.php?route=information/information&amp;information_id=4">About Us</a></li>
+	<li><a href="index.php?route=information/information&amp;information_id=6">Delivery Information</a></li>
+	<li><a href="index.php?route=information/information&amp;information_id=3">Privacy Policy</a></li>
+	<li><a href="index.php?route=information/information&amp;information_id=5">Terms &amp; Conditions</a></li>
+	<li><a href="index.php?route=information/sitemap">Site Map</a></li>
+	<li><a href="http://www.jayosbie.com/index.php?route=information/contact">Contact Us</a></li>
+	<li><a href="http://jayosbie.com/how-to-buy">How to Buy</a></li>
+</ul>
+		</div>
+	</div>
+</div></div>
+			
+					
+		<div class="col-lg-2 col-md-2"><div class="box pav-custom  ">
+		<div class="box-heading"><span>MY ACCOUNT</span></div>
+		<div class="box-content">
+		<div class="">
+			<ul class="list">
+	<li><a href="index.php?route=account/account">My Account</a></li>
+	<li><a href="index.php?route=account/order">Order History</a></li>
+	<li><a href="index.php?route=account/wishlist">Wish List</a></li>
+	<li><a href="index.php?route=account/newsletter">Newsletter</a></li>
+</ul>
+		</div>
+	</div>
+</div></div>
+			
+					
+		<div class="col-lg-2 col-md-2"><div class="box pav-custom  ">
+		<div class="box-heading"><span>Extras</span></div>
+		<div class="box-content">
+		<div class="">
+			<ul class="list">
+	<li class="first"><a href="index.php?route=product/manufacturer">Brands</a></li>
+	<li><a href="index.php?route=account/voucher">Gift Vouchers</a></li>
+	<li><a href="index.php?route=affiliate/account">Affiliates</a></li>
+	<li class="last"><a href="index.php?route=product/special">Specials</a></li>
+	<li class="last"><a href="http://www.jayosbie.com/blog">Blog</a></li>
+	<li class="last"><a href="http://jayosbie.com/careers">Careers</a></li>
+</ul>
+		</div>
+	</div>
+</div></div>
+		</div>	
+			
+	</div></div>
+</section>
+	
+
+</footer>
+</div>
+<!--
+OpenCart is open source software and you are free to remove the powered by OpenCart if you want, but its generally accepted practise to make a small donation.
+Please donate via PayPal to donate@opencart.com
+//-->
+<div class="fixed-footer">
+		
+		<!--
+	OpenCart is open source software and you are free to remove the powered by OpenCart if you want, but its generally accepted practise to make a small donation.
+	Please donate via PayPal to donate@opencart.com
+	//-->
+	<div id="powered">
+		<div class="container">
+			<div class="inner">
+				<div class="row">
+					<div class="col-xs-12 ">
+						<div class="copyright pull-left">
+													Copyright 2014, Jay Osbie.												</div>	
+													<div class="paypal pull-right">
+								<p><img alt="" src="http://jayosbie.com/image/data/payment-icons.png" style="width: 280px; height: 60px;"></p>
+						</div>
+						 					</div>
+				</div>	
+			</div>
+		</div>
+	</div>
+</div>
+<div id="top1"><a class="view-mobile" href="http://jayosbie.com/index.php?route=checkout/cart"> View Cart</a></div>
+<div id="top2"><a class="checkout-mobile" href="http://jayosbie.com/index.php?route=checkout/checkout"> Checkout</a></div>
+<div id="top"><a class="scrollup" href="#"><i class="fa fa-angle-up"></i>Top</a></div>
+
+
+</section>
+
+<!-- Modal -->
+<div class="modal fade" id="mc_embed_signup" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+  <div class="modal-dialog">
+    <div class="modal-content" style="background: #333">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-hidden="true" style="color:white">×</button>
+        <h4 class="modal-title" id="myModalLabel">Amazing Fashion to your Inbox!</h4>
+ 
+<!--<p>This is Bootstrap Modal popup example.</p>-->
+      </div>
+      <div class="modal-body" style="background: url('http://jayosbie.com/image/data/newsletter.jpg')">
+       
+<!--End mc_embed_signup-->
+<div class="clearfix">&nbsp;</div>
+   <!-- Begin MailChimp Signup Form -->
+<form class="form-horizontal" role="form" action="//jayosbie.us8.list-manage.com/subscribe/post?u=c81d8517f38a56797ec452a08&amp;id=c8cbde957b" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" target="_blank" novalidate="">
+  <div class="form-group">
+    <div class="col-sm-4">&nbsp;</div>
+    <div class="col-sm-8">
+    <div>Your Email:</div>
+    <input type="email" value="" name="EMAIL" class="required email form-control" placeholder="you@example.com" id="mce-EMAIL">
+    </div>
+     </div>
+    <div id="mce-responses" class="clear">
+        <div class="response" id="mce-error-response" style="display:none"></div>
+        <div class="response" id="mce-success-response" style="display:none"></div>
+    </div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+    <div style="position: absolute; left: -5000px;"><input type="text" name="b_9e279011b21a23e1aed5e4868_cca4394bc9" value=""></div>
+    <div class="form-group remove-bottom">
+    <div class="col-sm-offset-4 col-sm-8 text-left">
+    <input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button btn btn-default">
+    </div>
+    <div class="clearfix" style="padding:35px">&nbsp;</div>
+
+  </div>
+</form>
+<script type="text/javascript" src="//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js"></script><script type="text/javascript">(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';fnames[3]='MMERGE3';ftypes[3]='text';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
+<!--End mc_embed_signup-->
+      </div>
+    </div>
+  </div>
+</div>
+
+<script src="//cdnjs.cloudflare.com/ajax/libs/jquery-cookie/1.4.0/jquery.cookie.min.js">
+</script>
+<script type="text/javascript">
+ $(document).ready(function() {
+     if ($.cookie('pop') == null) {
+         $('#mc_embed_signup').modal('show');
+         $.cookie('pop', '7');
+     }
+    
+ });
+</script>
+</body></html>
