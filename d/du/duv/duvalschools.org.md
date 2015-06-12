@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the duvalschools.org privacy policy that was archived on 2014-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141209062945id_/http%3A//www.duvalschools.org/Page/12667) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the duvalschools.org privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612090515id_/http%3A//duvalschools.org/Page/12667) for the most accurate reproduction.*
 
 # Legal Services / SW Privacy
 
