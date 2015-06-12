@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the cultofpedagogy.com privacy policy that was archived on 2014-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141223191921id_/http%3A//www.cultofpedagogy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cultofpedagogy.com privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612222405id_/http%3A//www.cultofpedagogy.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Cult of Pedagogy
+
+## What information do we collect?
 
 We collect information from you when you register on our site, respond to a survey, fill out a form or comment on a post. When ordering or registering on our site, as appropriate, you may be asked to enter your name and e-mail address. You may, however, visit our site anonymously.
 
