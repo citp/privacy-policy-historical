@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the genesisclick.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702173102id_/http%3A//www.genesisclick.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the genesisclick.com privacy policy that was archived on 2015-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150613010635id_/http%3A//www.genesisclick.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -8,4 +8,4 @@ Our site uses an order form for customers to request information, products, and 
 **Security:**  
 This website takes every precaution to protect visitor’s information. When visitors submit sensitive information on the website, that information is encrypted and protected.
 
-If you have any questions about the security at our web site, please [contact us](https://web.archive.org/web/20140702173102id_/http%3A//www.genesisclick.com/contact.htm).
+If you have any questions about the security at our web site, please [contact us](https://web.archive.org/web/20150613010635id_/http%3A//www.genesisclick.com/contact.htm).
