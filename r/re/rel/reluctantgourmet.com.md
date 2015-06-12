@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reluctantgourmet.com privacy policy that was archived on 2014-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140703182910id_/http%3A//www.reluctantgourmet.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reluctantgourmet.com privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612091238id_/http%3A//www.reluctantgourmet.com/privacy-statement) for the most accurate reproduction.*
 
 # The Reluctant Gourmet Privacy Policy : The Reluctant Gourmet
 
@@ -35,6 +35,17 @@ A cookie is a very small text document, which often includes an anonymous unique
 **How Do I Use Information We Collect from Cookies?**
 
 As you visit and browse this Web site, the site uses cookies to differentiate you from other users. In some cases, we also use cookies to prevent you from having to log in more than is necessary for security. Cookies, in conjunction with our Web server’s log files, allow us to calculate the aggregate number of people visiting our Web site and which parts of the site are most popular. This helps us gather feedback to constantly improve our Web site and better serve our clients. Cookies do not allow us to gather any personal information about you and we do not intentionally store any personal information that your browser provided to us in your cookies.
+
+#### **Cookie Opt Out**
+
+  * You can **opt out of interest-based ads** by [Google through Ads Settings](https://www.google.com/settings/u/0/ads?sig=ACi0TCijLKW8U5eM0Vdc5qixfFLUhMOgmTug6m-5GR0MEkrzjWiSJdjnAhoDXjaVXdSiTTyH_dVX0bfiDJ0oz7R4OLQX0lNVatpyHATbbUsbgfZb2Qh18nDopHQwcB-WFfpuXKBnHa2BafgsgY5qkN83gcs6MKsV8LbKelUymCCEoO4-Svl4IkY&hl=en). When you opt out, you’ll still see ads but they may not be related to factors such as your interests, previous visits to other websites, or demographic details.
+  * Gourmet Ads primary ad server is Appnexus and you can opt out of cookies from them by visiting ;  
+<http://appnexus.com/platform-policy#choices> and Opting Out.
+  * You can also opt out of cookies using the Network Advertising Initiative opt-out page at this page;  
+<http://www.networkadvertising.org/choices/>
+  * Finally, you can choose to disable or selectively turn off cookies or third-party cookies in your browser settings.
+
+
 
 **IP Addresses**
 
