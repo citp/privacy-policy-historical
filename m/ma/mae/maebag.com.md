@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the maebag.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220185644id_/http%3A//www.maebag.com/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maebag.com privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612090151id_/http%3A//www.maebag.com/PrivacyPolicy) for the most accurate reproduction.*
 
 # Online shopping from Cochin for Malayalam books, movies, dvds, Kerala Sarees, Churidar Materials, Christmas Gifts to Kerala, Birthday gifts to Kerala, Anniversary Gifts to Kerala
 
