@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jefferson.edu privacy policy that was archived on 2014-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141213133125id_/http%3A//www.jeffersonhospital.org/patients-and-visitors/patient-policies/online-privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jefferson.edu privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612232258id_/http%3A//www.jeffersonhospital.org/patients-and-visitors/patient-policies/online-privacy-statement) for the most accurate reproduction.*
 
 # Online Privacy Statement | Jefferson University Hospitals | Serving Philadelphia, PA, NJ & the Delaware Valley
 
