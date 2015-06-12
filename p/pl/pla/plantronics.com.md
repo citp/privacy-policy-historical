@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the plantronics.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231102310id_/http%3A//www.plantronics.com/us/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plantronics.com privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612083114id_/http%3A//www.plantronics.com/us/privacy) for the most accurate reproduction.*
 
 # Plantronics | Privacy Policy
 
