@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the the-bikini.com privacy policy that was archived on 2014-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141126093908id_/http%3A//www.the-bikini.com/information/%3Faction%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the the-bikini.com privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612132601id_/http%3A//www.the-bikini.com/information/%3Faction%3Dprivacy) for the most accurate reproduction.*
 
 # the-Bikini.com Information page. Micro bikinis for sexy women
 
@@ -14,24 +14,9 @@ Share with Friends
 
   
   
-
-
-New Micro Bikini
-
-[](http://www.the-bikini.com/galleries-micro-tie-side)  
-
-
   
   
   
-
-
-Webmasters
-
-If you have a website, you can sell our bikinis and make money!!!. Sign up on our affiliate sales program!  
-[Sign Up!](http://www.the-bikini.com/cmd.php?cmd=signup)  
-[Log In!](http://www.the-bikini.com/cmd.php?cmd=login)
-
   
 
 
@@ -47,6 +32,16 @@ It does not bite, cause bumps, discomfort or ingrown hairs. This is the BEST WOM
 [ ](http://www.personalshavers-affiliates.com/b.asp?ID=1005 "perfect intimate shave")
 
   
+  
+
+
+Webmasters
+
+Join our **bikini affiliate program**.  
+If you have a website, you can sell our bikinis and make money!!!. Sign up now on our affiliate sales program!  
+[Sign Up!](https://www.mcssl.com/SYS/?m=49484&c=s)  
+[Log In!](https://www.mcssl.com/SYS/?m=49484&c=l)
+
   
 |   
 
@@ -106,4 +101,4 @@ If you have any questions about this privacy statement, the practices of this si
   United States of America  
 
 
-Alternatively, you can [contact us by email](https://web.archive.org/web/20141126093908id_/http%3A//www.the-bikini.com/contact/). 
+Alternatively, you can [contact us by email](https://web.archive.org/web/20150612132601id_/http%3A//www.the-bikini.com/contact/). 
