@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the excaliberpc.com privacy policy that was archived on 2014-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141023045259id_/http%3A//www.excaliberpc.com/support/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the excaliberpc.com privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612232815id_/http%3A//www.excaliberpc.com/support/privacy.html) for the most accurate reproduction.*
 
 # Security & Privacy Policy | EXcaliberPC.com
 
