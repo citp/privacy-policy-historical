@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dessky.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120203806id_/http%3A//dessky.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dessky.com privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612070718id_/http%3A//dessky.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Dessky.com
 
