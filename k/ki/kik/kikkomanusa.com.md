@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the kikkomanusa.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626225137id_/http%3A//www.kikkomanusa.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kikkomanusa.com privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612090302id_/http%3A//www.kikkomanusa.com/privacy.php) for the most accurate reproduction.*
 
 # Recipes, Cooking Products and More for Home Cooks - Kikkoman : Privacy
 
-Thank you for visiting our website, www.kikkomanusa.com (“Site”). Kikkoman Sales USA, Inc. (“Kikkoman”, “we” or “us”), the operator of this Site, is committed to protecting and safeguarding your privacy. This document will outline how we gather and utilize various sources of information obtained during your visit to the Site. This Privacy Policy applies solely to information collected at this Site. If you have any questions, please do not hesitate to [let us know](https://web.archive.org/web/20140626225137id_/http%3A//www.kikkomanusa.com/contact.php). IF YOU DO NOT AGREE TO THIS PRIVACY POLICY, YOU MAY NOT ACCESS OR OTHERWISE USE THE SITE. 
+Thank you for visiting our website, www.kikkomanusa.com (“Site”). Kikkoman Sales USA, Inc. (“Kikkoman”, “we” or “us”), the operator of this Site, is committed to protecting and safeguarding your privacy. This document will outline how we gather and utilize various sources of information obtained during your visit to the Site. This Privacy Policy applies solely to information collected at this Site. If you have any questions, please do not hesitate to [let us know](https://web.archive.org/web/20150612090302id_/http%3A//www.kikkomanusa.com/contact.php). IF YOU DO NOT AGREE TO THIS PRIVACY POLICY, YOU MAY NOT ACCESS OR OTHERWISE USE THE SITE. 
 
 ## Personal and Non-Personal Information:
 
@@ -52,7 +52,7 @@ We give you the option to remove your Personal Information from any lists that w
 
 ## Site Terms and Conditions:
 
-Use of this Site is governed by, and subject to, the Terms and Conditions contained at [http://www.kikkomanusa.com/privacy/terms.php](https://web.archive.org/web/20140626225137id_/http%3A//www.kikkomanusa.com/terms.php) Your use, or access, of the Site constitutes your agreement to be bound by these Terms and Conditions.
+Use of this Site is governed by, and subject to, the Terms and Conditions contained at [http://www.kikkomanusa.com/privacy/terms.php](https://web.archive.org/web/20150612090302id_/http%3A//www.kikkomanusa.com/terms.php) Your use, or access, of the Site constitutes your agreement to be bound by these Terms and Conditions.
 
 ## Comments and Questions:
 
