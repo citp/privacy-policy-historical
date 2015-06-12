@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shareme.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625104401id_/http%3A//shareme.com/privacypage.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shareme.com privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612020617id_/http%3A//shareme.com/privacypage.html) for the most accurate reproduction.*
 
 # Our Privacy Policy - Shareme.com respects your right to privacy
 
@@ -14,6 +14,7 @@
   * [Games](https://web.archive.org/category/Games.html)
   * [Home & Personal](https://web.archive.org/category/Home---Personal.html)
   * [Internet](https://web.archive.org/category/Internet.html)
+  * [Mobile](https://web.archive.org/category/Mobile.html)
   * [Multimedia & Design](https://web.archive.org/category/Multimedia---Design.html)
   * [Network Tools](https://web.archive.org/category/Network-Tools.html)
   * [Programming](https://web.archive.org/category/Programming.html)
@@ -29,17 +30,9 @@
 
 With this interesting fractal software, you can...
 
-  * [TED Notepad 5.4.1](https://web.archive.org/details/ted-notepad.html)
-
-Light-weight portable text editor with many...
-
   * [BootRacer 4.6.1.360](https://web.archive.org/details/bootracer.html)
 
 BootRacer Tests How Fast is your PC! It...
-
-  * [Kaspersky Anti-Virus 2014](https://web.archive.org/details/kaspersky-anti-virus.html)
-
-Kaspersky Anti-Virus is the backbone of your...
 
   * [WinSesame 10.3](https://web.archive.org/details/winsesame.html)
 
@@ -57,10 +50,6 @@ Money Manager Ex is a free, open-source,...
 
 AgileTrack is an agile/extreme programming (XP)...
 
-  * [Pen Scanner Software Scanmarker 1.00](https://web.archive.org/details/pen-scanner-software-scanmarker.html)
-
-Pen scanner software by Scanmarker - Note...
-
   * [Wise PC 1stAid 1.31](https://web.archive.org/details/wise-pc-1staid.html)
 
 An intelligent freeware to fix common PC...
@@ -70,94 +59,94 @@ An intelligent freeware to fix common PC...
 
 ####  New Downloads
 
-  * [NGS Free CRM 1.1](https://web.archive.org/details/ngs-free-crm.html)
+  * [TeeChart for Java 2015](https://web.archive.org/details/teechart-for-java.html)
 
-Reflect Free CRM Customer Database Software...
+Java Charting components Library shipping with...
 
-  * [dbExpress Driver for SQLite 3.4](https://web.archive.org/details/dbexpress-driver-for-sqlite.html)
+  * [DBF Converter 3.97](https://web.archive.org/details/dbf-converter.html)
 
-dbExpress is a database-independent layer that...
+DBF Converter supports all the modern data...
 
-  * [C-Organizer Lite 4.9.2](https://web.archive.org/details/c-organizer-lite.html)
+  * [TeeChart for .NET 2015](https://web.archive.org/details/teechart-for--net.html)
 
-C-Organizer Lite is a personal information...
+The .NET Charting Component Library offers full...
 
-  * [Audit File Access 14.05.01](https://web.archive.org/details/audit-file-access.html)
+  * [Mgosoft XPS To PDF Converter 10.6.152](https://web.archive.org/details/mgosoft-xps-to-pdf-converter.html)
 
-Download the free version of LepideAuditor for...
+Mgosoft XPS To PDF facilitates the conversion...
 
-  * [Review Assistant 2.5](https://web.archive.org/details/review-assistant.html)
+  * [Icecream Slideshow Maker 1.21](https://web.archive.org/details/icecream-slideshow-maker.html)
 
-Review Assistant is a peer code review tool...
+Icecream Slideshow Maker features a number of...
 
-  * [File Access Auditing 14.05.01](https://web.archive.org/details/file-access-auditing.html)
+  * [Icecream Screen Recorder 1.46](https://web.archive.org/details/icecream-screen-recorder.html)
 
-File access auditing is not an easy task and it...
+Simple, free and smart application for creating...
 
-  * [PDF Stamp 6.8](https://web.archive.org/details/pdf-stamp.html)
+  * [Icecream Media Converter 1.47](https://web.archive.org/details/icecream-media-converter.html)
 
-PDF Stamp is a perfect tool that lets you add...
+Icecream Media Converter handles video to...
 
-  * [RationalPlan Project Server 4.8](https://web.archive.org/details/rationalplan-project-server.html)
+  * [Mainmedia Quick Time Source Directshow Filter 3.39](https://web.archive.org/details/mainmedia-quick-time-source-directshow-filter.html)
 
-RationalPlan Project Server is a project...
+Quick Time Source Filter is a powerful source...
 
-  * [Raise Data Recovery for NTFS 5.15](https://web.archive.org/details/raise-data-recovery-for-ntfs.html)
+  * [Icecream PDF Split&Merge 2.07](https://web.archive.org/details/icecream-pdf-split-merge.html)
 
-Raise Data Recovery for NTFS is a powerful and...
+Icecream PDF Split&Merge is a versatile utility...
 
-  * [DiskSorter Server 6.4.32](https://web.archive.org/details/disksorter-server.html)
+  * [ACDSee Pro 8.2.0.287](https://web.archive.org/details/acdsee-pro.html)
 
-DiskSorter Server is a powerful, fast and...
+ACDSee Pro 8 is packed with everything you need...
 
 
 
 
 ####  Recent Searches
 
-[3d Max Software Free Download Full Version](https://web.archive.org/programs/3d/max-software-free-download-full-version), [Call Of Duty Modern Warfare 3](https://web.archive.org/programs/call/of-duty-modern-warfare-3), [Lost Contacts From Outlook](https://web.archive.org/programs/lost/contacts-from-outlook), [Icon Wave Audio Icons](https://web.archive.org/programs/icon/wave-audio-icons), [Silverlight Binary Image Viewer](https://web.archive.org/programs/silverlight/binary-image-viewer), [Icons Clean](https://web.archive.org/programs/icons/clean), [Battlefield Bc2 Full Version Download](https://web.archive.org/programs/battlefield/bc2-full-version-download), [Nortel Ip Softphone 2050 Mac Osc](https://web.archive.org/programs/nortel/ip-softphone-2050-mac-osc), [Interior Exterior Colors Home](https://web.archive.org/programs/interior/exterior-colors-home), [Unlocking Codes For Samsung Jet S8003 Mobile Games](https://web.archive.org/programs/unlocking/codes-for-samsung-jet-s8003-mobile-games), [Animated Blue Dragon](https://web.archive.org/programs/animated/blue-dragon), [Pokemon Center Nyc New York Ny](https://web.archive.org/programs/pokemon/center-nyc-new-york-ny), [Update Hp Ipaq 114 Pocket Pc](https://web.archive.org/programs/update/hp-ipaq-114-pocket-pc), [Access Repair V1 1](https://web.archive.org/programs/access/repair-v1-1), [Icon Tool Save](https://web.archive.org/programs/icon/tool-save)
+[2 Stroke Wizard Download](https://web.archive.org/programs/2/stroke-wizard-download), [Desktopbinder Ricoh](https://web.archive.org/programs/desktopbinder/ricoh), [Php Proxy Email Server](https://web.archive.org/programs/php/proxy-email-server), [Venus De Milo Prince](https://web.archive.org/programs/venus/de-milo-prince), [Rev John Hartman](https://web.archive.org/programs/rev/john-hartman), [Canon Setup Utility 2 3 F R Pixma](https://web.archive.org/programs/canon/setup-utility-2-3-f-r-pixma), [Windows Media Player 12 Avi Audio Codec](https://web.archive.org/programs/windows/media-player-12-avi-audio-codec), [Phan Mem Xem Phim Avi Mp4 Tren May Nokia 5233](https://web.archive.org/programs/phan/mem-xem-phim-avi-mp4-tren-may-nokia-5233), [Broomball Nationals 2008](https://web.archive.org/programs/broomball/nationals-2008), [Driver Acer Aspire 4750](https://web.archive.org/programs/driver/acer-aspire-4750), [Model Railroad Software](https://web.archive.org/programs/model/railroad-software), [Helvetica Neue Extended Font](https://web.archive.org/programs/helvetica/neue-extended-font), [Sss Employment History](https://web.archive.org/programs/sss/employment-history), [Appleton Public Library Hours](https://web.archive.org/programs/appleton/public-library-hours), [W950i Dj Software](https://web.archive.org/programs/w950i/dj-software)
 
 #### Latest Reviews
 
-  * [MD5 Tool ](https://web.archive.org/details/md5-tool.html)   (Milos)
+  * [Cydia Download ](https://web.archive.org/details/cydia-download.html)   (Dennising)
 
-It's powerful utility to check md5 checksum for file verification. 
+Very good software. Worked exactly as it should. 
 
-  * [Money Manager Ex ](https://web.archive.org/details/money-manager-ex.html)   (Russel)
+  * [AVG Free Edition ](https://web.archive.org/details/avg-free-edition.html)   (Sarla )
 
-Very powerful and easy to use app for tracking personal finance information. 
+AVG provides an efficient antivirus protection which is good enough for me. 
 
-  * [TED Notepad ](https://web.archive.org/details/ted-notepad.html)   (Ashok)
+  * [PhotoFunia ](https://web.archive.org/details/photofunia.html)   (Muchan)
 
-Powerful notepad software, perfect tool for advance level editing. 
+Nice, it has many effects, easy to use. 
 
-  * [StarCode Lite ](https://web.archive.org/details/starcode-lite.html)   (Adnan)
+  * [MBOX to PST 2013 Converter ](https://web.archive.org/details/mbox-to-pst-2013-converter.html)   (Austin Williams)
 
-Runs very fast and very user friendly. 
+I downloaded this tool some time ago. Before buying this tool I have used its demo for some days for complete... 
 
-  * [PartitionGuru Free ](https://web.archive.org/details/partitionguru-free.html)   (Shaun)
+  * [Easy 7-Zip ](https://web.archive.org/details/easy-7-zip.html)   (Alex)
 
-Partitionguru is very powerful software for doing various partition tasks. 
+This is an exceptionally good program. It has fast compressing speed yet it doesn't take much system resource. 
 
-  * [Genius Maker ](https://web.archive.org/details/genius-maker.html)   (Bob)
+  * [Camfrog Free Webcam Chat Software ](https://web.archive.org/details/camfrog-free-webcam-chat-software.html)   (Bhupender)
 
-Don't know why but some error showing at the middle of installation process and it won't install. 
+Cool features with an easy to use interface. By far this is the best video chat software I have came across. 
 
-  * [AutoIt ](https://web.archive.org/details/autoit.html)   (Edward)
+  * [Installer Cydia ](https://web.archive.org/details/installer-cydia.html)   ( Riley C.)
 
-Nice tool , easy to use for keystroke automation. 
+When I select my OS version it pops up an error saying "Unhandled exception has occured in your application...". 
 
-  * [Aspose.BarCode for Reporting Services ](https://web.archive.org/details/aspose-barcode-for-reporting-services.html)   (Amity)
+  * [OLM to PST File Converter ](https://web.archive.org/details/olm-to-pst-file-converter.html)   (Steven Levitt)
 
-Powerful barcode image rendering software. 
+I had a sudden requirement to convert my OLM file into Windows supported Outlook PST file. I found OLM to PST converter... 
 
-  * [Malwarebytes Anti-Malware ](https://web.archive.org/details/malwarebytes-anti-malware.html)   (Greig)
+  * [Windows Live Mail to PST ](https://web.archive.org/details/windows-live-mail-to-pst.html)   (Ridley Thomas)
 
-Great malware remover tool, powerful and fast scan features complete protection from all kind of pc threats. 
+The software is good, it converts the EML file into readable Outlook supported PST file format without any hassle. If you... 
 
-  * [EagleGet ](https://web.archive.org/details/eagleget.html)   (Ray)
+  * [Avast! Free Antivirus ](https://web.archive.org/details/avast--free-antivirus.html)   (Gabeash)
 
-Great download manager that has a lot of functions yet it's really free to use. 
+I found this software simple to use, fast to detect, very effective in cleaning malwares and virus. 
 
 
   
