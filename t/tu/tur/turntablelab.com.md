@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the turntablelab.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220041711id_/http%3A//turntablelab.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the turntablelab.com privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612120914id_/http%3A//turntablelab.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy — TurntableLab.com
 
