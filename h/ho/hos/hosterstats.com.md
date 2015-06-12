@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hosterstats.com privacy policy that was archived on 2014-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141102115508id_/http%3A//www.hosterstats.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hosterstats.com privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612222639id_/http%3A//www.hosterstats.com/privacypolicy.html) for the most accurate reproduction.*
 
 # HosterStats.com Privacy Policy
 
