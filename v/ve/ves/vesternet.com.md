@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vesternet.com privacy policy that was archived on 2014-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141214235111id_/http%3A//www.vesternet.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vesternet.com privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612021701id_/http%3A//www.vesternet.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Vesternet
 
@@ -6,7 +6,7 @@ Vesternet Limited ("We") are committed to protecting and respecting your privacy
 
 This policy (together with our terms of use and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
 
-For the purpose of the Data Protection Act 1998 (the Act), the data controller is Vesternet Limited, Henleaze House, 13 Harbury Road, Bristol BS9 4PN, England
+For the purpose of the Data Protection Act 1998 (the Act), the data controller is Vesternet Ltd., 2 Gloucester Road North, Filton, Bristol, BS7 0SF, England
 
 INFORMATION WE MAY COLLECT FROM YOU
 
