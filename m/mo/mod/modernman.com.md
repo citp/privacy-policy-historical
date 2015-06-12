@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the modernman.com privacy policy that was archived on 2014-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141022084255id_/http%3A//www.modernman.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the modernman.com privacy policy that was archived on 2015-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150613003920id_/http%3A//www.modernman.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | ModernMan.com
+# Modern Man Privacy Policy
+
+## 
+
+**Privacy Policy**
 
 **Effective as of June 1, 2010**
 
