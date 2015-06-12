@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the nationallawjournal.com privacy policy that was archived on 2014-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141219183324id_/http%3A//www.alm.com/about/your-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationallawjournal.com privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612112841id_/http%3A//www.alm.com/about/your-privacy) for the most accurate reproduction.*
 
 # Your Privacy | ALM
 
 **Important Update**
 
-ALM Media LLC (”ALM”) has embraced a larger digital presence over the past few months in order to provide its customers quality products and services at a faster pace. In order to create better products and build an enhanced experience for its customers, ALM has made some changes to the way it uses the information it collects. Therefore the Privacy Policy has been updated, and the new Privacy Policy is effective on December 23, 2013.
+ALM Media LLC (”ALM”) has embraced a larger digital presence over the past few months in order to provide its customers quality products and services at a faster pace. In order to create better products and build an enhanced experience for its customers, ALM has made some changes to the way it uses the information it collects. Therefore the Privacy Policy has been updated, and the new Privacy Policy is effective on December 31, 2014.
 
 * * *
 
 ###  PRIVACY POLICY
 
-Effective Date: December 23, 2013
+Effective Date: December 31, 2014
 
 This website is owned and operated by ALM Media, LLC (“ALM”), a Delaware limited liability company with offices at 120 Broadway, 5th Floor, New York, NY 10271. References to “ALM,” may be construed as references to ALM and its parents, subsidiaries, or divisions, including but not limited to, ALM Media Properties, LLC, ALM International, Ltd. and ALM Media Canada, Inc. ALM has adopted information management guidelines that define our customer and advertiser relationships. These guidelines disclose the privacy policies for this website (which shall include when any ALM website is accessed via the Internet, mobile or other device, and applications and sites affiliated with ALM products, collectively, the “Online Services”).
 
@@ -123,8 +123,8 @@ _Corrections/Cancellations_ : If your personal information is incorrect, ALM wil
 If you would like to mail your inquiry, please direct it to:
 
 ALM Customer Service  
-4 Metrotech 21 fl  
-Brooklyn NY 11201  
+120 Broadway, 5th Floor  
+New York, NY 10271  
 Phone: 877-256-2472  
 E-mail: [customercare@alm.com](mailto:customercare@alm.com?subject=Privacy)
 
