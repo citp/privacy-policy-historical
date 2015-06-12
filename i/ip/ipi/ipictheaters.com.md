@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the ipictheaters.com privacy policy that was archived on 2014-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141221060824id_/https%3A//www.ipictheaters.com/ipic-privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ipictheaters.com privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612234418id_/https%3A//www.ipictheaters.com/ipic-privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - iPic Theaters
 
 Effective Date:  February 1, 2013
 
-This Privacy Policy applies to the web sites, mobile apps and other features or services brought to you by iPic-Gold Class Entertainment, LLC, doing business as iPic Theaters (“iPic,” “we,” or “us”), that post or link to it (each, a “Service” and collectively, the “Services”).  Your use of our Services is also governed by our [Terms of Use](https://web.archive.org/web/20141221060824id_/https%3A//www.ipictheaters.com/ipic-terms.aspx). This Privacy Policy does not apply to offline collection of data unless specifically stated.
+This Privacy Policy applies to the web sites, mobile apps and other features or services brought to you by iPic-Gold Class Entertainment, LLC, doing business as iPic Theaters (“iPic,” “we,” or “us”), that post or link to it (each, a “Service” and collectively, the “Services”).  Your use of our Services is also governed by our [Terms of Use](https://web.archive.org/web/20150612234418id_/https%3A//www.ipictheaters.com/ipic-terms.aspx). This Privacy Policy does not apply to offline collection of data unless specifically stated.
 
 KEY POINTS TO KNOW
 
