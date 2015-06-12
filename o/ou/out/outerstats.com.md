@@ -1,8 +1,7 @@
-> *The following text is extracted and transformed from the outerstats.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120204641id_/http%3A//outerstats.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the outerstats.com privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612035137id_/http%3A//outerstats.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-**Terms of Use for OuterStats.com**  
 At OuterStats.com, the privacy of our visitors is of extreme importance to us. This Terms of Use document outlines the types of personal information is received and collected by OuterStats.com and how it is used. 
 
 **Cookies and Web Beacons**  
