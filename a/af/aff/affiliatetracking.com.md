@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the affiliatetracking.com privacy policy that was archived on 2014-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140820122634id_/http%3A//affiliatetracking.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the affiliatetracking.com privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612085902id_/http%3A//www.affiliatetracking.com/privacy) for the most accurate reproduction.*
 
 # Privacy Statement | Affiliate Tracking Network
 
@@ -48,7 +48,7 @@ TrackingSoft is fully committed to data security. To prevent unauthorized access
 
 ### Contacting Us
 
-If you have any questions regarding this privacy policy please feel to [contact us](https://web.archive.org/web/20140820122634id_/http%3A//affiliatetracking.com/contacts.shtml).
+If you have any questions regarding this privacy policy please feel to [contact us](https://web.archive.org/web/20150612085902id_/http%3A//www.affiliatetracking.com/contacts.shtml).
 
 ### Company Commitment to Privacy
 
