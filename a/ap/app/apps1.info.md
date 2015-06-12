@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the apps1.info privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220003942id_/http%3A//apps1.info/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apps1.info privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612084206id_/http%3A//apps1.info/privacypolicy.php) for the most accurate reproduction.*
 
 # Apps 1 Info - Simple URL Shortner
 
