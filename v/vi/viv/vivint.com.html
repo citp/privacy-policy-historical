@@ -1,11 +1,11 @@
-<!--The following is the downloaded HTML source of the vivint.com privacy policy that was archived on 2014-12-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141229062958id_/http%3A//www.vivint.com/company/policies/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the vivint.com privacy policy that was archived on 2015-06-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150612120431id_/http%3A//www.vivint.com/company/policies/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js" itemscope="itemscope" itemtype="http://schema.org/WebPage"><!--<![endif]--><head>
   <title>Learn More About Vivint's Privacy Policy</title>  
   
-  <script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-FD7H"></script><script src="//cdn.optimizely.com/js/275011112.js"></script>
-  <script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"Vw8EWVNRGwEFXFVWDwY="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),u=c.length,f=i(a,o,r),d=0;u>d;d++)c[d].apply(f,n);return f}function a(t,e){u[t]=s(t).concat(e)}function s(t){return u[t]||[]}function c(){return n(e)}var u={};return{on:a,emit:e,create:c,listeners:s,_events:u}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(u){try{r("ierr",[u,(new Date).getTime(),!0])}catch(f){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(4),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(u){"stack"in u&&(t(5),t(3),"addEventListener"in window&&t(1),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(2),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:4,2:7,3:5,4:18,5:6,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],4:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:18,2:19,ee:"QJf3ax",gos:"7eSDFh"}],5:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:19,2:18,ee:"QJf3ax"}],6:[function(t,e){function n(t,e,n){var r=t[0];"string"==typeof r&&(r=new Function(r)),t[0]=o(r,"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:19,2:18,ee:"QJf3ax"}],7:[function(t,e){function n(){c.inPlace(this,d,"fn-")}function r(t,e){c.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}var i=t("ee").create(),a=t(1),s=t(2),c=s(i),u=s(a),f=window.XMLHttpRequest,d=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=i,window.XMLHttpRequest=function(t){var e=new f(t);try{i.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",function(t,e){return e}),e.addEventListener("readystatechange",n,!1)}catch(r){try{i.emit("internal-error",[r])}catch(o){}}return e},window.XMLHttpRequest.prototype=f.prototype,c.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),i.on("send-xhr-start",r),i.on("open-xhr-start",r)},{1:4,2:19,ee:"QJf3ax"}],8:[function(t){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,u="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(u);if(f&&(r.rxSize=f),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(n.cat=d.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r,this.startTime])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,u=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var u=e(o);u&&(r.txSize=u)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",[e])}catch(r){}}};for(var f=0;c>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:9,3:7,4:4,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],9:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&c&&c.body){p.proto="https"===d.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=c.createElement("script");e.src=p.proto+t.agent,c.body.appendChild(e)}}function r(){"complete"===c.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,c=s.document,u="addEventListener",f="attachEvent",d=(""+location).split("?")[0],p=e.exports={offset:i(),origin:d,features:{}};c[u]?(c[u]("DOMContentLoaded",o,!1),s[u]("load",n,!1)):(c[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],18:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],19:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,u;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){f([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return u=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,u],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,u(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,u="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,u?s+o:o,i,s,t))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){f([o,e,n,r])}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){f([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function f(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:18,ee:"QJf3ax"}]},{},["G9z0Bl",3,8]);</script>	
+  
+  <script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-FD7H"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"Vw8EWVNRGwEFXFVWDwY="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:20,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(3),window.onerror=e;try{throw new Error}catch(f){"stack"in f&&(t(4),t(5),"addEventListener"in window&&t(1),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(2),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:8,3:3,4:7,5:6,6:21,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:21,2:22,ee:"QJf3ax",gos:"7eSDFh"}],6:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:22,2:21,ee:"QJf3ax"}],7:[function(t,e){function n(t,e,n){var r=t[0];"string"==typeof r&&(r=new Function(r)),t[0]=o(r,"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:22,2:21,ee:"QJf3ax"}],8:[function(t,e){function n(){f.inPlace(this,p,"fn-")}function r(t,e){f.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),f=c(a),u=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",function(t,e){return e}),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(o){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,f.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:5,2:22,ee:"QJf3ax"}],9:[function(t){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=e(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(n.cat=d.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r,this.startTime])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=e(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",[e])}catch(r){}}};for(var u=0;c>u;u++)n.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:10,3:8,4:5,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],10:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],11:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:20,2:21,handle:"D5DuLP"}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=l.info=NREUM.info;if(t&&t.licenseKey&&t.applicationID&&f&&f.body){s(h,function(e,n){e in t||(t[e]=n)}),l.proto="https"===p.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=f.createElement("script");e.src=l.proto+t.agent,f.body.appendChild(e)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=(t(2),window),f=c.document,u="addEventListener",d="attachEvent",p=(""+location).split("?")[0],h={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-593.min.js"},l=e.exports={offset:i(),origin:p,features:{}};f[u]?(f[u]("DOMContentLoaded",o,!1),c[u]("load",n,!1)):(f[d]("onreadystatechange",r),c[d]("onload",n)),a("mark",["firstbyte",i()])},{1:20,2:11,handle:"D5DuLP"}],20:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],21:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],22:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s,t))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:21,ee:"QJf3ax"}]},{},["G9z0Bl",4,9]);</script>	
   <meta name="robots" content="nofollow, noindex">
   
      
@@ -24,19 +24,19 @@
   <meta name="google-site-verification" content="iZl6ZHhaHpV7Gpg47TJ8LQVlBZmgQRgbdk-rubJ4kxM">
   <meta name="bitly-verification" content="8c1c422b10cd">
   <!--<meta itemprop="name" content="Home | Vivint" />-->
-  <meta itemprop="image" content="http://assets.cdn.aws.vivint.com/global/vivint.com/home/vivint_logo.jpg">
+  <meta itemprop="image" content="//images.cdn.aws.vivint.com/global/vivint.com/home/vivint_logo.jpg">
   <meta itemprop="copyrightHolder" content="Vivint">
   <meta itemprop="copyrightYear" content="2014">
   <meta itemprop="isFamilyFriendly" content="true">
   
   <link type="text/css" rel="stylesheet" href="https://fast.fonts.com/cssapi/2d7db086-e4ce-495e-bb8b-9d1279a4381a.css">
-  <link rel="shortcut icon" href="http://assets.cdn.aws.vivint.com/global/vivint.com/home/vivint_favicon.png">
-  <link rel="apple-touch-icon" href="http://assets.cdn.aws.vivint.com/global/vivint.com/home/vivint_icon_57x57.png">
-  <link rel="apple-touch-icon" sizes="72x72" href="http://assets.cdn.aws.vivint.com/global/vivint.com/home/vivint_icon_72x72.png">
-  <link rel="apple-touch-icon" sizes="114x114" href="http://assets.cdn.aws.vivint.com/global/vivint.com/home/vivint_icon_114x114.png">
-  <link rel="apple-touch-icon" sizes="144x144" href="http://assets.cdn.aws.vivint.com/global/vivint.com/home/vivint_icon_144x144.png">
+  <link rel="shortcut icon" href="//images.cdn.aws.vivint.com/global/vivint.com/home/vivint_favicon.png">
+  <link rel="apple-touch-icon" href="//images.cdn.aws.vivint.com/global/vivint.com/home/vivint_icon_57x57.png">
+  <link rel="apple-touch-icon" sizes="72x72" href="//images.cdn.aws.vivint.com/global/vivint.com/home/vivint_icon_72x72.png">
+  <link rel="apple-touch-icon" sizes="114x114" href="//images.cdn.aws.vivint.com/global/vivint.com/home/vivint_icon_114x114.png">
+  <link rel="apple-touch-icon" sizes="144x144" href="//images.cdn.aws.vivint.com/global/vivint.com/home/vivint_icon_144x144.png">
   
-  <script src="http://wwwassets.s3.amazonaws.com/global/vivint.com/global/scripts/mbox.js" type="text/javascript"></script> <!--mbox.js for 0602 deployment-->
+  <script src="//assets.cdn.aws.vivint.com/global/vivint.com/global/scripts/mbox.js" type="text/javascript"></script> <!--mbox.js for 0602 deployment-->
   
   
  <script src="//assets.adobedtm.com/2bd39ffbaee7adde921c81eb7f2c0cc311eb238b/satelliteLib-0e3066e8ec423ba22c4b80d4ba2bbf4ee4bcbcc8.js"></script>
@@ -113,13 +113,13 @@
 </script>-->
 
 
-<link rel="stylesheet" type="text/css" media="all" charset="utf-8" href="//styles.cdn.aws.vivint.com/en/a/4dd64221344001b65db5cd7142fc9839/global_head.css">
-<link rel="stylesheet" type="text/css" media="all" charset="utf-8" href="//styles.cdn.aws.vivint.com/en/a/1/company/policies/privacy/4dd64221344001b65db5cd7142fc9839/head.css">
-<script language="javascript" type="text/javascript" src="//scripts.cdn.aws.vivint.com/en/a/4dd64221344001b65db5cd7142fc9839/global_head.js"></script>
-<script language="javascript" type="text/javascript" src="//scripts.cdn.aws.vivint.com/en/a/1/company/policies/privacy/4dd64221344001b65db5cd7142fc9839/head.js"></script>  
+<link rel="stylesheet" type="text/css" media="all" charset="utf-8" href="//styles.cdn.aws.vivint.com/en/a/eb63f4872b700d5e2519b47b5088ce96/global_head.css">
+<link rel="stylesheet" type="text/css" media="all" charset="utf-8" href="//styles.cdn.aws.vivint.com/en/a/1/company/policies/privacy/eb63f4872b700d5e2519b47b5088ce96/head.css">
+<script language="javascript" type="text/javascript" src="//scripts.cdn.aws.vivint.com/en/a/eb63f4872b700d5e2519b47b5088ce96/global_head.js"></script>
+<script language="javascript" type="text/javascript" src="//scripts.cdn.aws.vivint.com/en/a/1/company/policies/privacy/eb63f4872b700d5e2519b47b5088ce96/head.js"></script>  
 <script language="javascript">
 	//timer for page before any assets are loaded
-	var officeStatus = "no: 10.0.1.179";
+	var officeStatus = "no: 10.0.1.252";
 
 	$(function(){
       	var defaultFOID = $('#globalModalForm .faasub_source_foid').val();
@@ -137,7 +137,7 @@
  <!-- Head Scripts -->
   
   <!--[if lte IE 8]>
-<link rel="stylesheet" type="text/css" media="all" charset="utf-8" href="//styles.cdn.aws.vivint.com/static/styles/global/main-ie.css" />
+<link rel="stylesheet" type="text/css" media="all" charset="utf-8" href="//assets.cdn.aws.vivint.com/static/styles/global/main-ie.css" />
 <![endif]-->
 </head>
 
@@ -165,8 +165,10 @@
   
   
   
+  
+  
   <!--[if lte IE 8]>
-<p class="chromeframe">You are using an outdated browser. <a href="http://browsehappy.com/" target="_blank">Upgrade your browser today</a> or <a href="http://www.google.com/chromeframe/?redirect=true" target="_blank">install Google Chrome Frame</a> to better experience this site.</p>
+<p class="chromeframe">You are using an outdated browser. <a href="http://browsehappy.com/" target="_blank" style="text-decoration: underline;">Upgrade your browser today</a> to better experience this site.</p>
 <![endif]-->
 
 <div id="page">	
@@ -178,12 +180,12 @@
   <button type="button" class="close-button" data-dismiss="modal">Close</button>
   <span class="stop-gap-header">WHICH SYSTEM DO YOU HAVE?</span>
   <div class="stop-gap-system-1">
-    <a href="http://www.vivintsky.com" rel="nofollow"><img src="http://assets.cdn.aws.vivint.com/global/vivint.com/home/system_1_stop_gap.png" alt="sky-control panel"></a>
+    <a href="http://www.vivintsky.com" rel="nofollow"><img src="//images.cdn.aws.vivint.com/global/vivint.com/home/system_1_stop_gap.png" alt="sky-control panel"></a>
     <span style="margin-left: 27px;">If your system looks like this,</span>
     <a href="http://www.vivintsky.com" rel="nofollow" class="button-stop-gap">SIGN IN HERE</a>
   </div>
   <div class="stop-gap-system-2">
-    <a href="http://account.vivint.com"><img src="http://assets.cdn.aws.vivint.com/global/vivint.com/home/system_2_stop_gap.png" alt="sky-control panel"></a>
+    <a href="http://account.vivint.com"><img src="//images.cdn.aws.vivint.com/global/vivint.com/home/system_2_stop_gap.png" alt="sky-control panel"></a>
     <span>If your system looks like this,</span>
     <a href="http://account.vivint.com" class="button-stop-gap" style="margin-left: 53px;">SIGN IN HERE</a>
   </div>
@@ -214,16 +216,11 @@
   <!--Mini Nav-->
   <section class="mini-top-nav height-offset light-header">
     <div class="mini-top-nav-pad">
-      <div class="res-bus avenir-roman transform-upper">
-        <a class="residential" href="http://www.vivint.com">Residential</a>
-        
-        <a class="business" href="http://www.vivintbusiness.com">Business</a>
-      </div>
-      
-      <div class="mini-nav-right avenir-light">
+          
+      <div class="mini-nav-right font-light">
         <ul class="mini-ul-right">
           <li><a href="tel:855.290.3685" class="transform-upper" data-eventcategory="telephone" data-eventaction="click" data-eventlabel="mini-nav-phone">Free Quote: <span class="mini-nav-phone">855.290.3685</span></a></li>
-          <li class="chat-link"><a href="#" data-toggle="popover-modal" data-target="#chat-popover" data-eventcategory="samepagelink" data-eventaction="click" data-eventlabel="header-chat">Vivint Chat</a></li>
+          <li class="chat-link"><a href="#" data-toggle="popover-modal" data-target="#chat-popover" data-eventcategory="samepagelink" data-eventaction="click" data-eventlabel="header-chat"><span class="chat-text">Vivint Chat</span></a></li>
           
 <div class="popover popover-chat" id="chat-popover" role="dialog" data-placement="bottom">
   <div class="arrow"></div>        
@@ -250,7 +247,8 @@
                                       liveagent.showWhenOffline('573G000000003I2', document.getElementById('liveagent_button_offline_573G000000003I2'));
                                      });</script>
         <h3>SUPPORT</h3>
-        <p>6AM - 7PM MON-FRI</p>
+        <p>6AM - 8PM MON-FRI<br>
+        7AM - 5:30PM SAT</p>
         <p>800.216.5232</p>
       </div>
       
@@ -274,11 +272,13 @@
         <ul class="nav-right-ul">
           <li class="dropdown"><a class="dropdown-link" href="#">Smart Home Solutions</a>
             <ul class="dropdown-ul">
-              <li><a href="/solutions" data-eventcategory="globalnavigation" data-eventaction="click" data-eventlabel="solutions">Overview</a></li>
-              <li><a href="/solutions/packages/home-security" data-eventcategory="globalnavigation" data-eventaction="click" data-eventlabel="smart-security">Smart Security</a></li>
-              <li><a href="/solutions/packages/energy-management" data-eventcategory="globalnavigation" data-eventaction="click" data-eventlabel="smart-energy">Smart Energy</a></li>
-              <li><a href="/solutions/packages/home-automation" data-eventcategory="globalnavigation" data-eventaction="click" data-eventlabel="smart-control">Smart Control</a></li>
-              <li><a href="http://www.vivintsolar.com/" data-eventcategory="globalnavigation" data-eventaction="click" data-eventlabel="smart-solar">Smart Solar</a></li>
+              <li><a href="/packages/home-security" data-eventcategory="globalnavigation" data-eventaction="click" data-eventlabel="smart-security">Security</a></li>
+              <li><a href="/packages/home-automation" data-eventcategory="globalnavigation" data-eventaction="click" data-eventlabel="smart-control">Control</a></li>
+              <li><a href="/space-monkey" data-eventcategory="globalnavigation" data-eventaction="click" data-eventlabel="smart-storage">Cloud Storage</a></li>
+              <li><a href="/compare-packages" data-eventcategory="globalnavigation" data-eventaction="click" data-eventlabel="package-compare">Package Compare</a></li>
+               <li><span class="hr nav-hr"></span>
+              </li><li><a href="/internet" data-eventcategory="globalnavigation" data-eventaction="click" data-eventlabel="smart-internet">Internet</a></li>
+              <li><a href="http://www.vivintsolar.com/" data-eventcategory="globalnavigation" data-eventaction="click" data-eventlabel="smart-solar">Solar</a></li>
             </ul>
           </li>
           <li class="dropdown"><a class="dropdown-link" href="#">Vivint &amp; You</a>
@@ -288,6 +288,7 @@
               <li><a href="/sky" data-eventcategory="globalnavigation" data-eventaction="click" data-eventlabel="sky">Life with Vivint Sky</a></li>
               <li><a href="http://neighborhood.vivint.com" data-eventcategory="globalnavigation" data-eventaction="click" data-eventlabel="the-neighborhood">The Neighborhood</a></li>
               <li><a href="/company/gives-back" data-eventcategory="globalnavigation" data-eventaction="click" data-eventlabel="gives-back">Vivint Gives Back</a></li>
+              <li><a href="/ceo-promise" data-eventcategory="globalnavigation" data-eventaction="click" data-eventlabel="ceo-promise">CEO Promise</a></li>
             </ul>
           </li>
           <li><a href="http://support.vivint.com/" data-eventcategory="globalnavigation" data-eventaction="click" data-eventlabel="support">Support</a></li>
@@ -297,12 +298,12 @@
               <li><a href="http://investors.vivint.com" data-eventcategory="globalnavigation" data-eventaction="click" data-eventlabel="investor-relations">Investor relations</a></li>
               <li><a href="/company/newsroom" data-eventcategory="globalnavigation" data-eventaction="click" data-eventlabel="newsroom">Newsroom</a></li>
               <li><a href="/careers" data-eventcategory="globalnavigation" data-eventaction="click" data-eventlabel="careers">Careers</a></li>
-              <li><a href="http://blog.vivint.com" data-eventcategory="globalnavigation" data-eventaction="click" data-eventlabel="blog">Corporate blog</a></li>			
+              <li><a href="http://blog.vivint.com" data-eventcategory="globalnavigation" data-eventaction="click" data-eventlabel="blog">Corporate blog</a></li>      
             </ul>
           </li>
           
         </ul>
-        <a class="quote-button bkg-orange avenir-heavy" href="#" data-toggle="modal-popover" data-target="#form-popover" data-eventcategory="samepagelink" data-eventaction="click" data-eventlabel="header-form"><span class="quote-btn-full"><span class="quote-btn-number">855.290.3685</span></span><span class="quote-btn-mobile">Get Vivint</span></a>
+        <a class="quote-button bkg-orange font-heavy" href="#" data-toggle="modal-popover" data-target="#form-popover" data-eventcategory="samepagelink" data-eventaction="click" data-eventlabel="header-form"><span class="quote-btn-full"><span class="quote-btn-number">855.290.3685</span></span><span class="quote-btn-mobile">Get Vivint</span></a>
         
 <div class="popover popover-form" id="form-popover" role="dialog" data-placement="top-right">
   <div class="arrow"></div>        
@@ -326,12 +327,11 @@
   
   <input type="submit" class="i_submit " name="Submit" value="Request Quote
 " data-eventcategory="form" data-eventaction="click" data-eventlabel="form-submit">
-	<input type="hidden" id="YII_CSRF_TOKEN" name="YII_CSRF_TOKEN" value="c3bf37e0a6094bd9b64d001ac8088141374c59cb">
+	<input type="hidden" id="YII_CSRF_TOKEN" name="YII_CSRF_TOKEN" value="140dbb4c7a0319a7f8cfa85c7efd737961a28032">
 	<input type="hidden" class="faasub_send_to_sfdc" name="FaasSubmission[faasub_send_to_sfdc]" value="1">
 	<input type="hidden" class="faasub_send_to_elq" name="FaasSubmission[faasub_send_to_elq]" value="1">
   	<input type="hidden" class="faasub_thank_you_url" name="FaasSubmission[faasub_thank_you_url]" value="/thank-you">
-    <input type="hidden" class="faasub_source_foid" name="FaasSubmission[faasub_source_foid]" id="source_foid" value="20591
-">
+    <input type="hidden" class="faasub_source_foid" name="FaasSubmission[faasub_source_foid]" id="source_foid" value="20591">
 	<input type="hidden" class="faasub_elq_efid" name="FaasSubmission[faasub_elq_efid]" value="sSContactUs">
 	<input type="hidden" class="faasub_elq_esid" name="FaasSubmission[faasub_elq_esid]" value="2984">
 	<input type="hidden" class="faasub_elq_ecid" name="FaasSubmission[faasub_elq_ecid]" value="0">
@@ -349,6 +349,11 @@
       <div class="shadow-top" style="display: none;"></div>
     </div><!--end main-nav-->
   </section>
+
+  <div class="h1-seo-container">
+    <div class="h1-seo">
+      </div><!--End h1-seo-->
+  </div><!--End h1-seo-container-->
   
   <section id="mobile-nav" class="content">
     <div class="mobile-nav-main">
@@ -356,7 +361,7 @@
         <img class="close-icon" src="//images.cdn.aws.vivint.com/global/vivint.com/global/header/close-icon.png">
       </div>
       <div class="accordion">
-        <h3 class="avenir-heavy">Residential</h3>
+        <h3 class="font-heavy">Residential</h3>
         <div>
           <ul class="mobile-nav-list">
             <li><a href="http://www.vivint.com" data-eventcategory="globalnavigation" data-eventaction="click" data-eventlabel="mobile-home">Home</a></li>
@@ -376,8 +381,7 @@ Advanced framing techniques, sophisticated insulation, air sealing, tight ducts,
         
       </div>
       
-      <a class="main-mobile-link" href="http://www.vivintbusiness.com" data-eventcategory="globalnavigation" data-eventaction="click" data-eventlabel="business">Business</a>
-      
+            
       <a class="main-mobile-link" href="tel:855.290.3685" data-eventcategory="telephone" data-eventaction="click" data-eventlabel="mobile-call">Call for Quote</a>
     </div><!--end mobile-nav-main-->
     
@@ -396,7 +400,7 @@ Advanced framing techniques, sophisticated insulation, air sealing, tight ducts,
         </ul>
       </div>
       
-      <a class="main-mobile-link" href="http://www.vivintbusiness.com" data-eventcategory="globalnavigation" data-eventaction="click" data-eventlabel="business">Business</a>
+       
       
       <a class="main-mobile-link" href="tel:855.290.3685" data-eventcategory="telephone" data-eventaction="click" data-eventlabel="mobile-call">Call Now</a>
     </div><!--end what-vivint-offers-->
@@ -408,16 +412,16 @@ Advanced framing techniques, sophisticated insulation, air sealing, tight ducts,
       </div>
       <div>
         <ul class="mobile-nav-list">
-          <li><a href="/solutions" data-eventcategory="globalnavigation" data-eventaction="click" data-eventlabel="mobile-solutions">Overview</a></li>
-          <li><a href="/solutions/packages/home-security" data-eventcategory="globalnavigation" data-eventaction="click" data-eventlabel="mobile-security">Smart Security</a></li>
-          <li><a href="/solutions/packages/energy-management" data-eventcategory="globalnavigation" data-eventaction="click" data-eventlabel="mobile-energy">Smart Energy</a></li>
-          <li><a href="/solutions/packages/home-automation" data-eventcategory="globalnavigation" data-eventaction="click" data-eventlabel="mobile-automation">Smart Control</a></li>
-          <li><a href="http://www.vivintsolar.com/" data-eventcategory="globalnavigation" data-eventaction="click" data-eventlabel="mobile-solar">Smart Solar</a></li>
+          <li><a href="/packages/home-security" data-eventcategory="globalnavigation" data-eventaction="click" data-eventlabel="mobile-security">Protect</a></li>
+          <li><a href="/packages/home-automation" data-eventcategory="globalnavigation" data-eventaction="click" data-eventlabel="mobile-control">Control</a></li>
+          <li><a href="/space-monkey" data-eventcategory="globalnavigation" data-eventaction="click" data-eventlabel="mobile-storage">Cloud Storage</a></li>
+          <li><a href="/compare-packages" data-eventcategory="globalnavigation" data-eventaction="click" data-eventlabel="mobile-compare">Package Compare</a></li>
+          <li class="other-link"><a href="/internet" data-eventcategory="globalnavigation" data-eventaction="click" data-eventlabel="mobile-internet">Internet</a></li>
+          <li class="other-link"><a href="http://www.vivintsolar.com/" data-eventcategory="globalnavigation" data-eventaction="click" data-eventlabel="mobile-solar">Solar</a></li>
         </ul>
       </div>
       
-      <a class="main-mobile-link" href="http://www.vivintbusiness.com" data-eventcategory="globalnavigation" data-eventaction="click" data-eventlabel="business">Business</a>
-      
+            
       <a class="main-mobile-link" href="tel:855.290.3685" data-eventcategory="telephone" data-eventaction="click" data-eventlabel="mobile-call">Call Now</a>
     </div><!--end what-vivint-offers-->
     
@@ -435,11 +439,11 @@ Advanced framing techniques, sophisticated insulation, air sealing, tight ducts,
           <li id="sky-link"><a href="/sky" data-eventcategory="globalnavigation" data-eventaction="click" data-eventlabel="mobile-sky">Vivint Sky</a></li>
           <li><a href="http://neighborhood.vivint.com" data-eventcategory="globalnavigation" data-eventaction="click" data-eventlabel="mobile-neighborhood">The Neighborhood</a></li>
           <li><a href="/company/gives-back" data-eventcategory="globalnavigation" data-eventaction="click" data-eventlabel="mobile-gives-back">Vivint Gives Back</a></li>
+          <li><a href="/ceo-promise" data-eventcategory="globalnavigation" data-eventaction="click" data-eventlabel="mobile-ceo-promise">CEO Promise</a></li>
         </ul>
       </div>
       
-      <a class="main-mobile-link" href="http://www.vivintbusiness.com" data-eventcategory="globalnavigation" data-eventaction="click" data-eventlabel="business">Business</a>
-      
+            
       <a class="main-mobile-link" href="tel:855.290.3685" data-eventcategory="telephone" data-eventaction="click" data-eventlabel="mobile-call">Call Now</a>
     </div><!--end vivint-and-you-->
     
@@ -583,7 +587,7 @@ Advanced framing techniques, sophisticated insulation, air sealing, tight ducts,
   
 <!-- Footer starts -->
 <footer>
-  <div class="content"> <img src="//d300fn2u1v8nki.cloudfront.net/global/vivint.com/global/logos/vivint/vivint-logo-footer.png" id="footer-logo" width="59" height="15"> 
+  <div class="content"> <img src="//images.cdn.aws.vivint.com/global/vivint.com/global/logos/vivint/vivint-logo-footer.png" id="footer-logo" width="59" height="15"> 
     <!--<a href="#" class="expand-link expanded hidden-phone">Show Footer</a>-->
     
     <div class="col1">
@@ -601,7 +605,7 @@ Advanced framing techniques, sophisticated insulation, air sealing, tight ducts,
       <form name="vivint.com_subscribe" action="/form/capture" id="form38" class="email-subscribe-form subtle_form" method="post">            
         <input type="email" name="FaasSubmission[faasub_email]" placeholder="Enter Email" required="">
 
-        <input id="YII_CSRF_TOKEN" name="YII_CSRF_TOKEN" value="c3bf37e0a6094bd9b64d001ac8088141374c59cb" type="hidden">
+        <input id="YII_CSRF_TOKEN" name="YII_CSRF_TOKEN" value="140dbb4c7a0319a7f8cfa85c7efd737961a28032" type="hidden">
         <input type="hidden" class="faasub_source_foid" name="FaasSubmission[faasub_source_foid]" id="source_foid" value="115431">
         <input type="hidden" id="YII_CSRF_TOKEN" name="YII_CSRF_TOKEN" value="b061ee90f896f71af59df372230a8c17f3be4fba">
         <input type="hidden" class="faasub_send_to_sfdc" name="FaasSubmission[faasub_send_to_sfdc]" value="1">
@@ -616,7 +620,7 @@ Advanced framing techniques, sophisticated insulation, air sealing, tight ducts,
     </div>
     <div class="col2">
       <h3>Company:</h3>
-      <ul class="nav-group-3 parent-id-0 multi-column-list"><li class="list-col1"><a href="/company/about-us">About Us</a></li><li class="list-col1"><a href="/company/contact-us">Contact Us</a></li><li class="list-col1"><a href="/company/careers">Careers</a></li><li class="list-col1"><a href="/company/newsroom">Newsroom</a></li><li class="list-col1"><a href="/company/customer-stories">Customer Stories</a></li><li class="list-col2 col-break"><a href="/company/verify-rep">Verify Rep</a></li><li class="list-col2"><a href="/company/about-us/leadership">Leadership</a></li><li class="list-col2"><a href="/company/newsroom/in-the-news">In The News</a></li><li class="list-col2"><a href="/company/gives-back">Vivint Gives Back</a></li><li class="list-col2"><a href="/company/licenses">Licenses</a></li><li class="list-col3 col-break"><a href="/company/affiliates">Affiliates</a></li><li class="list-col3"><a href="http://investors.vivint.com" target="_blank">Investor Relations</a></li><li class="list-col3"><a href="/compare/">Vivint Comparison</a></li><li class="list-col3"><a href="/landing/lifelock?ciid=100555">Lifelock</a></li></ul>
+      <ul class="nav-group-3 parent-id-0 multi-column-list"><li class="list-col1"><a href="/company/about-us">About Us</a></li><li class="list-col1"><a href="/company/contact-us">Contact Us</a></li><li class="list-col1"><a href="/company/careers">Careers</a></li><li class="list-col1"><a href="/company/newsroom">Newsroom</a></li><li class="list-col1"><a href="/company/customer-stories">Customer Stories</a></li><li class="list-col2 col-break"><a href="/company/verify-rep">Verify Rep</a></li><li class="list-col2"><a href="/company/about-us/leadership">Leadership</a></li><li class="list-col2"><a href="/company/newsroom/in-the-news">In The News</a></li><li class="list-col2"><a href="/company/gives-back">Vivint Gives Back</a></li><li class="list-col2"><a href="/company/licenses">Licenses</a></li><li class="list-col3 col-break"><a href="/company/affiliates">Affiliates</a></li><li class="list-col3"><a href="http://investors.vivint.com" target="_blank">Investor Relations</a></li><li class="list-col3"><a href="http://www.vivint.com/stores" target="_blank">Store Locations</a></li><li class="list-col3"><a href="/compare/">Vivint Comparison</a></li><li class="list-col3"><a href="/resources/">Smart Resources</a></li></ul>
       <ul id="locations">
         <li> <a href="/company/contact-us" class="location-link" data-eventcategory="globalnavigation" data-eventaction="click" data-eventlabel="footer-us-address"> <span class="marker"></span>
           <h4>U.S.</h4>
@@ -655,7 +659,7 @@ Advanced framing techniques, sophisticated insulation, air sealing, tight ducts,
       </ul>
     </div>
     <div id="copyright"> 
-      Copyright © 2014 Vivint, Inc. All rights reserved.
+      Copyright © 2015 Vivint, Inc. All rights reserved.
       <ul>
         <li><a href="/company/policies/terms-of-use" data-eventcategory="globalnavigation" data-eventaction="click" data-eventlabel="footer-terms">Terms&nbsp;of&nbsp;use</a></li>
         <li><a href="/company/policies/privacy" data-eventcategory="globalnavigation" data-eventaction="click" data-eventlabel="footer-privacy">Privacy&nbsp;Policy</a></li>
@@ -669,7 +673,7 @@ Advanced framing techniques, sophisticated insulation, air sealing, tight ducts,
       1701 Old Minden Road, Suite 32<br>
       Bossier City, LA 71111<br>
       T: 318.741.7094<br>
-      Copyright © 2014 Vivint Louisiana LLC. All rights reserved. 
+      Copyright © 2015 Vivint Louisiana LLC. All rights reserved. 
     </div>
     
   </div>
@@ -696,12 +700,11 @@ Advanced framing techniques, sophisticated insulation, air sealing, tight ducts,
   
   <input type="submit" class="i_submit " name="Submit" value="Request Quote
 " data-eventcategory="form" data-eventaction="click" data-eventlabel="form-submit">
-	<input type="hidden" id="YII_CSRF_TOKEN" name="YII_CSRF_TOKEN" value="c3bf37e0a6094bd9b64d001ac8088141374c59cb">
+	<input type="hidden" id="YII_CSRF_TOKEN" name="YII_CSRF_TOKEN" value="140dbb4c7a0319a7f8cfa85c7efd737961a28032">
 	<input type="hidden" class="faasub_send_to_sfdc" name="FaasSubmission[faasub_send_to_sfdc]" value="1">
 	<input type="hidden" class="faasub_send_to_elq" name="FaasSubmission[faasub_send_to_elq]" value="1">
   	<input type="hidden" class="faasub_thank_you_url" name="FaasSubmission[faasub_thank_you_url]" value="/thank-you">
-    <input type="hidden" class="faasub_source_foid" name="FaasSubmission[faasub_source_foid]" id="source_foid" value="26438
-">
+    <input type="hidden" class="faasub_source_foid" name="FaasSubmission[faasub_source_foid]" id="source_foid" value="26438">
 	<input type="hidden" class="faasub_elq_efid" name="FaasSubmission[faasub_elq_efid]" value="sSContactUs">
 	<input type="hidden" class="faasub_elq_esid" name="FaasSubmission[faasub_elq_esid]" value="2984">
 	<input type="hidden" class="faasub_elq_ecid" name="FaasSubmission[faasub_elq_ecid]" value="0">
@@ -736,7 +739,7 @@ Advanced framing techniques, sophisticated insulation, air sealing, tight ducts,
   	<p class="submit-text">By clicking this button, you consent for Vivint to use automated technology including pre-recorded messages to contact you at the number provided. This consent is not required to make a purchase from us.</p> 
   
 	<input type="submit" class="i_submit" name="Submit" value="Request Quote">
-	<input type="hidden" id="YII_CSRF_TOKEN" name="YII_CSRF_TOKEN" value="c3bf37e0a6094bd9b64d001ac8088141374c59cb">
+	<input type="hidden" id="YII_CSRF_TOKEN" name="YII_CSRF_TOKEN" value="140dbb4c7a0319a7f8cfa85c7efd737961a28032">
 	<input type="hidden" class="faasub_send_to_sfdc" name="FaasSubmission[faasub_send_to_sfdc]" value="1">
 	<input type="hidden" class="faasub_send_to_elq" name="FaasSubmission[faasub_send_to_elq]" value="1">
   	<input type="hidden" class="faasub_thank_you_url" name="FaasSubmission[faasub_thank_you_url]" value="/thank-you">
@@ -752,8 +755,8 @@ Advanced framing techniques, sophisticated insulation, air sealing, tight ducts,
 </div>  
 </div>
   
-        <script language="javascript" type="text/javascript" src="//scripts.cdn.aws.vivint.com/en/a/4dd64221344001b65db5cd7142fc9839/global_foot.js"></script>
-        <script language="javascript" type="text/javascript" src="//scripts.cdn.aws.vivint.com/en/a/1/company/policies/privacy/4dd64221344001b65db5cd7142fc9839/foot.js"></script>
+        <script language="javascript" type="text/javascript" src="//scripts.cdn.aws.vivint.com/en/a/eb63f4872b700d5e2519b47b5088ce96/global_foot.js"></script>
+        <script language="javascript" type="text/javascript" src="//scripts.cdn.aws.vivint.com/en/a/1/company/policies/privacy/eb63f4872b700d5e2519b47b5088ce96/foot.js"></script>
 		
         <script language="javascript">	
 		var scv_tfn = '855.290.3685';
@@ -777,13 +780,9 @@ Advanced framing techniques, sophisticated insulation, air sealing, tight ducts,
   
 </script>
   
-  
-<!--<div class="chat-popup">
-  <img src="//assets.cdn.aws.vivint.com/global/vivint.com/global/support_chat_popout/chat_popup_close_button.png" class="chat-popup-close-btn"/>
-</div>-->
-  <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-2.newrelic.com","licenseKey":"ed06b4745b","applicationID":"2584487","transactionName":"YFBQNkBXWBBTVkZdX1kacwFGX1kNHWdXWlRSR3ENXEJEDF5ZV0YfX1RCEldY","queueTime":0,"applicationTime":368,"ttGuid":"","agentToken":"","userAttributes":"","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-476.min.js"}</script>
+  <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"ed06b4745b","applicationID":"2584487","transactionName":"YFBQNkBXWBBTVkZdX1kacwFGX1kNHWdXWlRSR3ENXEJEDF5ZV0YfX1RCEldY","queueTime":0,"applicationTime":437,"ttGuid":"","agentToken":"","userAttributes":"","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-593.min.js"}</script>
 
     
   <script type="text/javascript">_satellite.pageBottom();</script>  
 
-<script src="https://js-agent.newrelic.com/nr-476.min.js"></script></body></html>
+<script src="https://js-agent.newrelic.com/nr-593.min.js"></script></body></html>
