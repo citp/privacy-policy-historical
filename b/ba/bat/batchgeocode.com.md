@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the batchgeocode.com privacy policy that was archived on 2014-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141101065427id_/http%3A//batchgeo.com/features/security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the batchgeocode.com privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612111232id_/http%3A//batchgeo.com/features/security) for the most accurate reproduction.*
 
 # Protect your map information | BatchGeo
 
@@ -6,7 +6,7 @@ Using BatchGeo your map data stays on your own computer unless you choose to sav
 
 When saving the map you will be given the option to keep the map unlisted or make it available publicly. If you choose to keep it unlisted, a random and unguessable URL will be created using a 128 bit 32 character hash. This URL will not be published on our web site, it will not be indexed by Google. The only way this URL will be found by public search engines is if you choose to publish it on a public site.
 
-The URL really is impossible to guess, in fact in the 128 bit hash there are 309,485,009,821,345,068,724,781,056 possible values. 
+The URL really is impossible to guess, in fact in the 128 bit hash there are 309,485,009,821,345,068,724,781,056 possible values.
 
 If you use the "Public" option when creating your map we may choose to feature your map or link it in our examples section. You can change the Public / Private option at any time using the [edit screen](https://web.archive.org/features/edit-map-data).
 
@@ -27,13 +27,11 @@ BatchGeo uses the best and most secure cloud platforms. Our servers are routinel
 
 ### Information we collect and how we use it
 
-We may collect the following types of information: 
-
-  * **Information you provide** – When you sign up for a BatchGeo Account, we ask you for personal information. We may combine the information you submit under your account with information from other BatchGeo services or third parties in order to provide you with a better experience and to improve the quality of our services. For certain services, we may give you the opportunity to opt out of combining such information.
-  * **Cookies** – When you visit BatchGeo, we send one or more [cookies](http://en.wikipedia.org/wiki/HTTP_cookie) to your computer or other device. We use cookies to improve the quality of our service, including for storing user preferences, improving search results and ad selection, and tracking user trends, such as how people search. BatchGeo also uses cookies in its advertising services to help advertisers and publishers serve and manage ads across the web and on BatchGeo services.
-  * **Log information** – When you access BatchGeo services via a browser, application or other client our servers automatically record certain information. These server logs may include information such as your web request, your interaction with a service, Internet Protocol address, browser type, browser language, the date and time of your request and one or more cookies that may uniquely identify your browser or your account.
-  * **User communications** – When you send email or other communications to BatchGeo, we may retain those communications in order to process your inquiries, respond to your requests and improve our services. When you send and receive SMS messages to or from one of our services that provides SMS functionality, we may collect and maintain information associated with those messages, such as the phone number, the wireless carrier associated with the phone number, the content of the message, and the date and time of the transaction. We may use your email address to communicate with you about our services.
-  * **Location data** – BatchGeo offers location-enabled services that will attempt to offer enhanced features based on your location. If you use those services, BatchGeo may receive information about your actual location (such as GPS signals sent by a mobile device) or information that can be used to approximate a location (such as a cell ID).
+  * **Information you provide** \- When you sign up for a BatchGeo Account, we ask you for personal information. We may combine the information you submit under your account with information from other BatchGeo services or third parties in order to provide you with a better experience and to improve the quality of our services. For certain services, we may give you the opportunity to opt out of combining such information.
+  * **Cookies** \- When you visit BatchGeo, we send one or more [cookies](http://en.wikipedia.org/wiki/HTTP_cookie) to your computer or other device. We use cookies to improve the quality of our service, including for storing user preferences, improving search results and ad selection, and tracking user trends, such as how people search. BatchGeo also uses cookies in its advertising services to help advertisers and publishers serve and manage ads across the web and on BatchGeo services.
+  * **Log information** \- When you access BatchGeo services via a browser, application or other client our servers automatically record certain information. These server logs may include information such as your web request, your interaction with a service, Internet Protocol address, browser type, browser language, the date and time of your request and one or more cookies that may uniquely identify your browser or your account.
+  * **User communications** \- When you send email or other communications to BatchGeo, we may retain those communications in order to process your inquiries, respond to your requests and improve our services. When you send and receive SMS messages to or from one of our services that provides SMS functionality, we may collect and maintain information associated with those messages, such as the phone number, the wireless carrier associated with the phone number, the content of the message, and the date and time of the transaction. We may use your email address to communicate with you about our services.
+  * **Location data** \- BatchGeo offers location-enabled services that will attempt to offer enhanced features based on your location. If you use those services, BatchGeo may receive information about your actual location (such as GPS signals sent by a mobile device) or information that can be used to approximate a location (such as a cell ID).
 
 In addition to the above, we may use the information we collect to: 
 
@@ -74,7 +72,7 @@ When you use BatchGeo services, we make good faith efforts to provide you with a
 
 BatchGeo adheres to the US Safe Harbor Privacy Principles of Notice, Choice, Onward Transfer, Security, Data Integrity, Access and Enforcement.
 
-BatchGeo regularly reviews its compliance with this Privacy Policy. When we receive formal written complaints, it is BatchGeo’s policy to contact the complaining user regarding his or her concerns. We will cooperate with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints regarding the transfer of personal data that cannot be resolved between BatchGeo and an individual.
+BatchGeo regularly reviews its compliance with this Privacy Policy. When we receive formal written complaints, it is BatchGeo's policy to contact the complaining user regarding his or her concerns. We will cooperate with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints regarding the transfer of personal data that cannot be resolved between BatchGeo and an individual.
 
 
 
