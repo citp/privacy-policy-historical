@@ -1,33 +1,178 @@
-> *The following text is extracted and transformed from the essential-watches.com privacy policy that was archived on 2014-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141128011722id_/http%3A//www.essential-watches.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the essential-watches.com privacy policy that was archived on 2015-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150614011755id_/http%3A//www.essential-watches.com/privacy.php) for the most accurate reproduction.*
 
 # Watches New & Preowned | From Essential-Watches.com
 
-* * *
-
-This privacy notice discloses the privacy practices for (website address). This privacy notice applies solely to information collected by this web site. It will notify you of the following: 
-
-  1. What personally identifiable information is collected from you through the web site, how it is used and with whom it may be shared.
-  2. What choices are available to you regarding the use of your data.
-  3. The security procedures in place to protect the misuse of your information.
-  4. How you can correct any inaccuracies in the information.
+This privacy policy has been compiled to better serve those who are concerned with how their 'Personally identifiable information' (PII) is being used online. PII, as used in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.  
 
 
+ **What personal information do we collect from the people that visit our blog, website or app?**
 
-### Information Collection, Use, and Sharing
+When ordering or registering on our site, as appropriate, you may be asked to enter your name, email address, mailing address, phone number or other details to help you with your experience.
 
-We are the sole owners of the information collected on this site. We only have access to/collect information that you voluntarily give us via email or other direct contact from you. We will not sell or rent this information to anyone. We will use your information to respond to you, regarding the reason you contacted us. We will not share your information with any third party outside of our organization, other than as necessary to fulfill your request, e.g. to ship an order. Unless you ask us not to, we may contact you via email in the future to tell you about specials, new products or services, or changes to this privacy policy. 
+ **When do we collect information?**
 
-### Your Access to and Control Over Information
+We collect information from you when you register on our site, place an order, subscribe to a newsletter or enter information on our site.
 
-You may opt out of any future contacts from us at any time. You can do the following at any time by contacting us via the email address or phone number given on our website: See what data we have about you, if any. Change/correct any data we have about you. Have us delete any data we have about you. Express any concern you have about our use of your data. 
+  
 
-### Security
 
-We take precautions to protect your information. When you submit sensitive information via the website, your information is protected both online and offline. Wherever we collect sensitive information (such as credit card data), that information is encrypted and transmitted to us in a secure way. You can verify this by looking for a closed lock icon at the bottom of your web browser, or looking for "https" at the beginning of the address of the web page. While we use encryption to protect sensitive information transmitted online, we also protect your information offline. Only employees who need the information to perform a specific job (for example, billing or customer service) are granted access to personally identifiable information. The computers/servers in which we store personally identifiable information are kept in a secure environment. If you feel that we are not abiding by this privacy policy, you should contact us immediately via telephone at XXX YYY-ZZZZ or via email. 
+ **How do we use your information?**
 
-[click here to read testimonials from satisifed customers.](https://web.archive.org/web/20141128011722id_/http%3A//www.essential-watches.com/testimonials.php)
+  
 
-If you have any questions, we encourage you to contact us.
+
+We may use the information we collect from you when you register, make a purchase, sign up for our newsletter, respond to a survey or marketing communication, surf the website, or use certain other site features in the following ways:
+
+ **•** To improve our website in order to better serve you.
+
+ **•** To allow us to better service you in responding to your customer service requests.
+
+ **•** To administer a contest, promotion, survey or other site feature.
+
+ **•** To send periodic emails regarding your order or other products and services.
+
+ **How do we protect visitor information?**
+
+  
+
+
+Our website is scanned on a regular basis for security holes and known vulnerabilities in order to make your visit to our site as safe as possible.
+
+We do not use Malware Scanning.
+
+Your personal information is contained behind secured networks and is only accessible by a limited number of persons who have special access rights to such systems, and are required to keep the information confidential. In addition, all sensitive/credit information you supply is encrypted via Secure Socket Layer (SSL) technology. 
+
+We implement a variety of security measures when a user places an order enters, submits, or accesses their information to maintain the safety of your personal information.
+
+All transactions are processed through a gateway provider and are not stored or processed on our servers.
+
+ **Do we use 'cookies'?**
+
+We do not use cookies for tracking purposes 
+
+You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser (like Internet Explorer) settings. Each browser is a little different, so look at your browser's Help menu to learn the correct way to modify your cookies.  
+
+
+If you disable cookies off, some features will be disabled that make your site experience more efficient and some of our services will not function properly.
+
+However, you can still place orders .
+
+  
+
+
+ **Third Party Disclosure**
+
+  
+
+
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information unless we provide you with advance notice. This does not include website hosting partners and other parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others' rights, property, or safety. 
+
+However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses. 
+
+**Third party links**
+
+We do not include or offer third party products or services on our website.
+
+ **Google**
+
+  
+
+
+Google's advertising requirements can be summed up by Google's Advertising Principles. They are put in place to provide a positive experience for users. https://support.google.com/adwordspolicy/answer/1316548?hl=en 
+
+We use Google AdSense Advertising on our website.
+
+Google, as a third party vendor, uses cookies to serve ads on our site. Google's use of the DART cookie enables it to serve ads to our users based on their visit to our site and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.  
+
+
+ **We have implemented the following:**
+
+ **•** Google Display Network Impression Reporting
+
+We along with third-party vendors, such as Google use first-party cookies (such as the Google Analytics cookies) and third-party cookies (such as the DoubleClick cookie) or other third-party identifiers together to compile data regarding user interactions with ad impressions, and other ad service functions as they relate to our website. 
+
+Opting out:  
+Users can set preferences for how Google advertises to you using the Google Ad Settings page. Alternatively, you can opt out by visiting the Network Advertising initiative opt out page or permanently using the Google Analytics Opt Out Browser add on.
+
+ **California Online Privacy Protection Act**
+
+CalOPPA is the first state law in the nation to require commercial websites and online services to post a privacy policy. The law's reach stretches well beyond California to require a person or company in the United States (and conceivably the world) that operates websites collecting personally identifiable information from California consumers to post a conspicuous privacy policy on its website stating exactly the information being collected and those individuals with whom it is being shared, and to comply with this policy. - See more at: http://consumercal.org/california-online-privacy-protection-act-caloppa/#sthash.0FdRbT51.dpuf  
+
+
+ **According to CalOPPA we agree to the following:**
+
+Users can visit our site anonymously
+
+Once this privacy policy is created, we will add a link to it on our home page, or as a minimum on the first significant page after entering our website.
+
+Our Privacy Policy link includes the word 'Privacy', and can be easily be found on the page specified above.
+
+Users will be notified of any privacy policy changes:
+
+ **•** On our Privacy Policy Page
+
+Users are able to change their personal information:
+
+ **•** By emailing us
+
+ **How does our site handle do not track signals?**
+
+We honor do not track signals and do not track, plant cookies, or use advertising when a Do Not Track (DNT) browser mechanism is in place. 
+
+**Does our site allow third party behavioral tracking?**
+
+It's also important to note that we do not allow third party behavioral tracking
+
+ **COPPA (Children Online Privacy Protection Act)**
+
+  
+
+
+When it comes to the collection of personal information from children under 13, the Children's Online Privacy Protection Act (COPPA) puts parents in control. The Federal Trade Commission, the nation's consumer protection agency, enforces the COPPA Rule, which spells out what operators of websites and online services must do to protect children's privacy and safety online.
+
+We do not specifically market to children under 13.
+
+ **Fair Information Practices**
+
+  
+
+
+The Fair Information Practices Principles form the backbone of privacy law in the United States and the concepts they include have played a significant role in the development of data protection laws around the globe. Understanding the Fair Information Practice Principles and how they should be implemented is critical to comply with the various privacy laws that protect personal information.
+
+ **In order to be in line with Fair Information Practices we will take the following responsive action, should a data breach occur:**
+
+We will notify the users via email
+
+ **•** Within 7 business days
+
+We will notify the users via in site notification
+
+ **•** Within 7 business days
+
+We also agree to the individual redress principle, which requires that individuals have a right to pursue legally enforceable rights against data collectors and processors who fail to adhere to the law. This principle requires not only that individuals have enforceable rights against data users, but also that individuals have recourse to courts or a government agency to investigate and/or prosecute non-compliance by data processors.
+
+ **CAN SPAM Act**
+
+  
+
+
+The CAN-SPAM Act is a law that sets the rules for commercial email, establishes requirements for commercial messages, gives recipients the right to have emails stopped from being sent to them, and spells out tough penalties for violations.
+
+ **We collect your email address in order to:**
+
+ **To be in accordance with CANSPAM we agree to the following:**
+
+ **  
+If at any time you would like to unsubscribe from receiving future emails, you can**
+
+and we will promptly remove you from **ALL** correspondence.   
+
+
+We take precautions to protect your information. When you submit sensitive information via the website, your information is protected both online and offline. Wherever we collect sensitive information (such as credit card data), that information is encrypted and transmitted to us in a secure way. You can verify this by looking for a closed lock icon at the bottom of your web browser, or looking for "https" at the beginning of the address of the web page. While we use encryption to protect sensitive information transmitted online, we also protect your information offline. Only employees who need the information to perform a specific job (for example, billing or customer service) are granted access to personally identifiable information. The computers/servers in which we store personally identifiable information are kept in a secure environment. If you feel that we are not abiding by this privacy policy, you should contact us immediately via telephone at XXX YYY-ZZZZ or via email.
+
+[click here to read testimonials from satisifed customers.](https://web.archive.org/testimonials)
+
+If you have any questions, we encourage you to [contact us](https://web.archive.org/contact).
 
 Thank you,  
-Essential Watches 
+Essential Watches
