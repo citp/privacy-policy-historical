@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usexvideos.com privacy policy that was archived on 2014-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141119074319id_/http%3A//www.usexvideos.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usexvideos.com privacy policy that was archived on 2015-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150613121541id_/http%3A//www.usexvideos.com/privacy) for the most accurate reproduction.*
 
 # Indian Porn Tube - Watch Indian Sex Videos Of Hot Indian Amateurs And Aunties For Free | Usexvideos.com - Privacy policy
 
