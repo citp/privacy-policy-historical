@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the ucertify.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701171233id_/http%3A//www.ucertify.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ucertify.com privacy policy that was archived on 2015-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150613191826id_/http%3A//www.ucertify.com/about/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy -uCertify
+
+Privacy Policy 
 
 ### Our Commitment:
 
@@ -18,8 +20,11 @@ At anytime, you can unsubscribe to uCertify Newsletter by clicking on unsubscr
 
 ### What other information should I know about my privacy?
 
-uCertify contains links to other Web sites. Please note that when you click on one of these links, you are entering another Web site for which uCertify has no responsibility. We encourage you to read the privacy statements of all such sites as their policies may be materially different from uCertifys Privacy Statement. Of course, you are solely responsible for maintaining the secrecy of your passwords and any account information. Please be very careful, responsible, and alert with this information, especially whenever youre online.
+uCertify contains links to other Web sites. Please note that when you click on one of these links, you are entering another Web site for which uCertify has no responsibility. We encourage you to read the privacy statements of all such sites as their policies may be materially different from uCertify's Privacy Statement. Of course, you are solely responsible for maintaining the secrecy of your passwords and any account information. Please be very careful, responsible, and alert with this information, especially whenever youre online.
 
 In addition to the circumstances described above, uCertify may disclose member information if required to do so by law, court order, as requested by other government or law enforcement authority, or in the good faith belief that disclosure is otherwise necessary or advisable including, without limitation, to protect the rights or properties of uCertify or when we have reason to believe that disclosing the information is necessary to identify, contact or bring legal action against someone who may be causing interference with our rights or properties, whether intentionally or otherwise, or when anyone else could be harmed by such activities.
 
 Any material changes in the way uCertify uses personal information will be described in future versions of this Privacy Statement. Of course, you may always submit concerns regarding our Privacy Statement or our privacy practices to legal@uCertify.com. Please reference the privacy policy in your subject line. uCertify will attempt to respond to all reasonable concerns or inquiries within five business days of receipt.
+
+Copyright © 2002-2015 uCertify. All Rights Reserved. • All logos and trademarks are property of their respective owners.  
+
