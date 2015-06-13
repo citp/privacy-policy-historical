@@ -1,72 +1,79 @@
-> *The following text is extracted and transformed from the mbastudies.com privacy policy that was archived on 2014-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141130033408id_/http%3A//www.mbastudies.com/Schools_and_Universities/Privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mbastudies.com privacy policy that was archived on 2015-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150613021009id_/http%3A//www.mbastudies.com/Schools_and_Universities/Privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy policy
 
-The Internet is an amazing tool. It has the power to change the way we live, and we're starting to see that potential today. With only a few mouse-clicks, you can follow the news, look up facts, buy goods and services, and communicate with others from around the world. It's important to Masterstudies to help our users and customers retain their privacy when they take advantage of all the Internet has to offer.
+**What information do we collect?**
 
-We believe your business is no one else's. Your privacy is important to you and to us. So we'll protect the information you share with us. To protect your privacy, Masterstudies follows different principles in accordance with worldwide practices for customer privacy and data protection.
+We collect information from you when you register on our site, subscribe to our newsletter, respond to a survey or fill out a form. 
 
-  * We won't sell or give away your name, mail address, phone number, email address or any other information to anyone. 
-  * We will use state-of-the-art security measures to protect your information from unauthorized users.
+Any data we request that is not required will be specified as voluntary or optional. 
 
+When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number or educational information. You may, however, visit our site anonymously.
 
+Like most websites, we use cookies to enhance your experience, gather general visitor information, and track visits to our website. Please refer to the 'do we use cookies?' section below for information about cookies and how we use them.
 
-**NOTICE**
+ **What do we use your information for?**    
+Any of the information we collect from you may be used in one of the following ways: 
 
-We will ask you when we need information that personally identifies you (personal information) or allows us to contact you. Generally, this information is requested when you create a Registration ID on the site or when you download free software, enter a contest, order email newsletters or join a limited-access premium site. We use your Personal Information for four primary purposes:
+• To personalize your experience  
+(your information helps us to better respond to your individual needs)
 
-  * To make the site easier for you to use by not having to enter information more than once. 
-  * To help you quickly find software, services or information. 
-  * To help us create content most relevant to you. 
-  * To alert you to product upgrades, special offers, updated information and other new services from Masterstudies. 
+• To improve our website  
+(we continually strive to improve our website offerings based on the information and feedback we receive from you)
 
+• To improve customer service  
+(your information helps us to more effectively respond to your customer service requests and support needs)
 
+• To send periodic emails
 
-**CONSENT  
-**
+The email address you provide for order processing, may be used to send you information and updates pertaining to your order or request, in addition to receiving occasional company news, updates, promotions, related product or service information, etc.
 
-If you choose not to register or provide personal information, you can still use most of our website. But you will not be able to access areas that require registration.
+If you decide to opt-in to our mailing list, you will receive emails that may include company news, updates, related product or service information, promotions, etc. However, you may opt-out at any time by clicking the unsubscribe button at the bottom of your emails or login to your student area http://www.masterstudies.com/account/login/
 
-If you decide to register, you will be able to select the kinds of information you want to receive from us by subscribing to various services, like our electronic newsletters. If you do not want us to communicate with you about other offers regarding Masterstudies products, programs, events, or services by email, postal mail, or telephone, you may select the option stating that you do not wish to receive marketing messages from Masterstudies.
+• To administer a contest, promotion, survey or other site feature
 
-Masterstudies occasionally allows other companies to offer our registered customers information about their products and services, using mail. If you do not want to receive these offers, you may select the option stating that you do not wish to receive marketing materials from third parties.
+ **How do we protect your information?**    
+We implement a variety of security measures to maintain the safety of your personal information when you submit a request or enter, submit, or access your personal information. 
 
-**ACCESS**
+These security measures include: password protected directories and databases to safeguard your information or SSL (Secure Sockets Layered) technology to ensure that your information is fully encrypted and sent across the Internet securely. 
 
-** ** We will provide you with the means to ensure that your personal information is correct and current. You may review and update this information at any time on our website. There, you can:
+We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Database to be only accessed by those authorized with special access rights to our systems, and are required to keep the information confidential. 
 
-  * View and edit personal information you have already given us. 
-  * Tell us whether you want us to send you marketing information, or whether you want third parties to send you their offers by postal mail. 
-  * Sign up for electronic newsletters about our services and products. 
-  * Register. Once you register, you won't need to do it again. Wherever you go on our website, your information stays with you. 
+After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be stored on our servers.
 
+ **Do we use cookies?**    
+Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information.
 
+ **Do we disclose any information to outside parties?**    
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others' rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
 
-**SECURITY**
+ **Third party links**    
+Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
 
-** ** Masterstudies has taken strong measures to protect the security of your personal information and to ensure that your choices for its intended use are honored. We take strong precautions to protect your data from loss, misuse, unauthorized access or disclosure, alteration, or destruction. .
+ **California Online Privacy Protection Act Compliance**  
+Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
 
-Masterstudies strictly protects the security of your personal information and honors your choices for its intended use. We carefully protect your data from loss, misuse, unauthorized access or disclosure, alteration, or destruction.
+As part of the California Online Privacy Protection Act, all users of our site may make any changes to their information at anytime by logging into their user account and going to the 'Edit Profile' page.
 
-Your personal information is never shared outside the company without your permission, except under conditions explained above. Inside the company, data is stored in password-controlled servers with limited access. Your information may be stored and processed in countries where Masterstudies, its subsidiaries, affiliates or agents are located.
+ **Childrens Online Privacy Protection Act Compliance**    
+We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
 
-You also have a significant role in protecting your information. No one can see or edit your personal information without knowing your user name and password, so do not share these with others.
+ **CAN-SPAM Compliance**    
+We have taken the necessary steps to ensure that we are compliant with the CAN-SPAM Act of 2003 by never sending out misleading information.
 
-**ENFORCEMENT**
+ **Online Privacy Policy Only**    
+This online privacy policy applies only to information collected through our website and not to information collected offline.
 
-If for some reason you believe Masterstudies has not adhered to these principles, please notify us by email at webmaster@masterstudies.com and we will do our best to determine and correct the problem promptly. Be certain the words Privacy Policy are in the Subject line.
+ **Terms and Conditions**    
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at http://www.masterstudies.com/Schools_and_Universities/Terms-and-Conditions.html.
 
-**CUSTOMER PROFILES  
-**
+ **Your Consent**    
+By using our site, you consent to our privacy policy.
 
-As mentioned above, every registered customer has a unique personal profile. Each profile is assigned a unique personal identification number, which helps us ensure that only you can access your profile.
+ **Changes to our Privacy Policy**    
+If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below. Policy changes will apply only to information collected after the date of the change. 
 
-When you register, we create your profile, assign a personal identification number, and then send this personal identification number back to your hard drive in the form of a cookie, which is a very small bit of code. This code is uniquely yours. It is your passport to seamless travel across the Masterstudies website.
+This policy was last modified on  **June 2, 2015**
 
-**What we do with the information you share**
-
-When you join us, you provide us with your contact information, including your name and email address. We use this information to send you updates about your account, questionnaires to measure your satisfaction with our service and announcements about new and exciting services that we offer.
-
-We occasionally hire other companies to provide limited services on our behalf, including answering customer questions about products or services, sending postal mail and processing event registration. We will only provide those companies the information they need to deliver the service, and they are prohibited from using that information for any other purpose.
-
-Masterstudies will disclose your personal information, without notice, only if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on Masterstudies or the site; (b) protect and defend the rights or property of Masterstudies and its family of Websites, and, (c) act in urgent circumstances to protect the personal safety of users of Masterstudies, its Websites, or the public.
+ **Contacting Us**    
+If there are any questions regarding this privacy policy you may contact us using the information below. 
