@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bigtitsmate.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122232021id_/http%3A//www.bigtitsmate.com/privacy.html%3F) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigtitsmate.com privacy policy that was archived on 2015-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150613031219id_/http%3A//www.bigtitsmate.com/privacy.html%3F) for the most accurate reproduction.*
 
 # BigTitsMate - Privacy Policy
 
@@ -50,4 +50,4 @@ The address for correspondence by post is
 ICF Technology, Inc.  
 PO Box 21508  
 Seattle, WA 98111  
-USA 
+USA
