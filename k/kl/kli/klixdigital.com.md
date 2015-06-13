@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the klixdigital.com privacy policy that was archived on 2014-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141211101135id_/http%3A//klixdigital.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the klixdigital.com privacy policy that was archived on 2015-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150613034614id_/http%3A//klixdigital.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Klix Digital
 
