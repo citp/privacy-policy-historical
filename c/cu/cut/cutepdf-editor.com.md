@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cutepdf-editor.com privacy policy that was archived on 2014-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141229185057id_/http%3A//www.cutepdf-editor.com/Info/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cutepdf-editor.com privacy policy that was archived on 2015-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150614001647id_/http%3A//cutepdf-editor.com/Info/privacypolicy.asp) for the most accurate reproduction.*
 
 # CutePDF Editor :: Company :: Privacy Policy
 
@@ -19,7 +19,7 @@ We use industry-standard efforts to safeguard the confidentiality of your transm
 Some of our pages use a feature of your browser called a "cookie." Cookies, by themselves, are not able to extract any personal information from you. This cookie automatically identifies your computer - but not you - to our servers when you visit our site. Unless you specifically tell us, Acro Software will never know who you are, even though we may assign your computer a cookie. Also, CutePDF Editor web sites can only read cookies created by Acro Software's web sites. Cookies allow us to personalize our site for you and to provide you with information that fits your needs and desires. 
 
 **Questions or Comments**  
-Acro Software Inc. knows that your privacy is very important to you. We welcome questions and comments regarding this policy, so feel free to [contact us](https://www.acrosoftware.com/info/contact.asp). Because technologies on the Internet change so quickly, Acro Software reserves the right to modify its Privacy Statement from time to time. More legal information can be found in Acro Software's [Terms of Use](https://web.archive.org/web/20141229185057id_/http%3A//www.cutepdf-editor.com/Info/termsofuse.asp).
+Acro Software Inc. knows that your privacy is very important to you. We welcome questions and comments regarding this policy, so feel free to [contact us](https://www.acrosoftware.com/info/contact.asp). Because technologies on the Internet change so quickly, Acro Software reserves the right to modify its Privacy Statement from time to time. More legal information can be found in Acro Software's [Terms of Use](https://web.archive.org/web/20150614001647id_/http%3A//cutepdf-editor.com/Info/termsofuse.asp).
 
 (Rev. January 2012) 
 
