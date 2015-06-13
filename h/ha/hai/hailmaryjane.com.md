@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hailmaryjane.com privacy policy that was archived on 2014-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141228150839id_/http%3A//www.hailmaryjane.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hailmaryjane.com privacy policy that was archived on 2015-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150613115313id_/http%3A//www.hailmaryjane.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Hail Mary Jane
 
@@ -30,12 +30,9 @@ If you supply us with your postal address on-line you will only receive the info
 Persons who supply us with their telephone numbers on-line will only receive telephone contact from us with information regarding orders they have placed on-line.  
 Please provide us with your name and phone number. We will be sure your name is removed from the list we share with other organizations
 
-With respect to Ad Servers: To try and bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our Web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and clickstream information. For further information, consult the privacy policies of:
-
-http://www.google.com/privacy.html
-
-http://www.doubleclick.com/privacy
-
+With respect to Ad Servers: To try and bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our Web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and clickstream information. For further information, consult the privacy policies of:  
+http://www.google.com/privacy.html  
+http://www.doubleclick.com/privacy  
 http://support.[grass city](http://www.hailmaryjane.com/GrassCity) sucks/forums/21150/entries/24595
 
 From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will contact you before we use your data for these new purposes to notify you of the policy change and to provide you with the ability to opt out of these new uses.
