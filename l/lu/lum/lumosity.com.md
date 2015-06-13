@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lumosity.com privacy policy that was archived on 2014-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141228210014id_/http%3A//www.lumosity.com/legal/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lumosity.com privacy policy that was archived on 2015-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150613104016id_/http%3A//www.lumosity.com/legal/privacy_policy) for the most accurate reproduction.*
 
 # Lumosity - Privacy Policy - Lumosity
 
