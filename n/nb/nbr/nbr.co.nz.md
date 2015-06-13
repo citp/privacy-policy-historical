@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nbr.co.nz privacy policy that was archived on 2014-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141017095550id_/http%3A//www.nbr.co.nz/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nbr.co.nz privacy policy that was archived on 2015-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150613151233id_/http%3A//www.nbr.co.nz/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The National Business Review
 
@@ -10,19 +10,19 @@ Level 3, Achilles House
 Auckland 1140, NZ,  
 PO Box 1734, Shortland Street  
 Auckland 1140,  
-or email us at [Customerservices@nbr.co.nz](mailto:Customerservices@nbr.co.nz)
+or email us at [customerservices@nbr.co.nz](mailto:customerservices@nbr.co.nz).
 
-NBR, which operates the Internet site located at www.nbr.co.nz recognises the importance of protecting the privacy of personally identifiable information collected about visitors to our sites. As a general policy, no personally identifiable information, such as your name, address or email address, is automatically collected from visitors to our sites. Personally identifiable information about visitors to our sites is collected only when knowingly and voluntarily submitted. We may collect certain non-personal information to optimise our Web pages for your computer (i.e., the identity of your Internet browser, the type of operating system you use, your IP address and the domain name of your Internet service provider). We may use such non-personal information for internal purposes, including but not limited to improving the content of our sites.
+NBR, which operates the Internet site located at [www.nbr.co.nz](http://www.nbr.co.nz/) recognises the importance of protecting the privacy of personally identifiable information collected about visitors to our sites. As a general policy, no personally identifiable information, such as your name, address or email address, is automatically collected from visitors to our sites. Personally identifiable information about visitors to our sites is collected only when knowingly and voluntarily submitted. We may collect certain non-personal information to optimise our Web pages for your computer (i.e., the identity of your Internet browser, the type of operating system you use, your IP address and the domain name of your Internet service provider). We may use such non-personal information for internal purposes, including but not limited to improving the content of our sites.
 
 In those instances when we do collect personally identifiable information, the following policies apply:
 
-Notice
+**Notice**
 
 NBR will notify you when we are collecting personally identifiable information about you and how we intend to use it. For example, we may need to collect such information to provide you with information or a product you requested, in connection with contest entry forms or for billing purposes, or in connection with community postings such as chat and bulletin boards.
 
 Sometimes NBR engages in activities with business partners and sponsors with whom personal information is jointly collected or shared. We will try to make it clear at the time of collection who is asking for and/or sharing your information. In situations where your information will be shared, it is recommended that you also review the privacy policy of our business partner or sponsor.
 
-Use and Security
+**Use and Security**
 
 Personally identifiable information that visitors submit to our sites is used only for the purpose for which it is submitted unless we disclose other uses in this Privacy Policy or at the time of collection. Such other uses may include sending you information or materials we think you will find interesting, or sharing the information with NBR's advertisers and reputable business partners. However, at the time of collection, you will have the option of instructing us not to send you additional information or share your personal information with third parties. NBR not responsible for the privacy policies or practices of our business partners.
 
@@ -38,11 +38,11 @@ Personal information may be disclosed in special situations where National Busin
 
 National Business Review maintains appropriate safeguards to ensure the security, integrity and privacy of personally identifiable information submitted to our sites, and periodically reviews and updates its security measures in light of current technologies. Unfortunately, no data transmission over the Internet can be guaranteed to be totally secure. Although National Business Review strives to protect your personal information, we can not ensure or warranty the security of any information you may transmit to us or from our online products and services. This is done so at your own risk. Once we do receive your transmission, however, we make our best effort to ensure its security on our systems. Should credit card information be required as part of any interaction, industry standard encryption is used.
 
-Cookies
+**Cookies**
 
 Cookies are data that a Web site transfers to an individual's hard-drive for record-keeping purposes. Cookies, which are an industry standard used by most Web sites, including those operated by NBR, can facilitate a user's ongoing access to and use of a site. They allow us to track usage patterns and to compile data that can help us improve our content and target advertising. National Business Review does not save passwords or credit card information within Cookies, nor are our Cookies programs of the sort that can cause damage to a user's systems or files. If you do not want information collected through the use of Cookies, there is a simple procedure in most browsers that allows you to deny or accept the Cookie feature. But you should note that Cookies may be necessary to provide you with features such as merchandise transactions or registered services, and to facilitate entry to the main sections of the site.
 
-Links to Third Party and Co-Branded Sites
+**Links to Third Party and Co-Branded Sites**
 
 National Business Review has established relationships with reputable business partners that allow visitors to our Internet sites to link directly to sites operated by these partners. These sites may collect personal information from you that may be shared with NBR. As noted above, this Privacy Policy will apply to any personal information we obtain in this manner.
 
