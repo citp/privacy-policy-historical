@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tenmarks.com privacy policy that was archived on 2014-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141215234254id_/http%3A//www.tenmarks.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tenmarks.com privacy policy that was archived on 2015-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150613062344id_/https%3A//www.tenmarks.com/privacy-policy) for the most accurate reproduction.*
 
 # TenMarks Privacy Policy
 
