@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uloop.com privacy policy that was archived on 2014-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141219005627id_/http%3A//uloop.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uloop.com privacy policy that was archived on 2015-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150613211632id_/http%3A//uloop.com/privacy.htm) for the most accurate reproduction.*
 
 # Read our privacy policy to better understand how personal information is collected and used on this Web site.
 
