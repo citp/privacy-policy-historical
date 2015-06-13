@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wwmt.com privacy policy that was archived on 2014-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141108155514id_/http%3A//www.wwmt.com/station/features/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wwmt.com privacy policy that was archived on 2015-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150613235451id_/http%3A//www.wwmt.com/station/features/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - WWMT - Newschannel 3 - News, Sports, Weather, Traffic - Kalamazoo MI
 
