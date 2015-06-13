@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the abum.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120233658id_/http%3A//www.abum.com/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abum.com privacy policy that was archived on 2015-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150614015652id_/http%3A//www.abum.com/privacy-notice) for the most accurate reproduction.*
 
 # Interesting and funny videos that make you laugh at work or at home
 
-**Privacy Notice**
+| **Privacy Notice**
 
 The following information explains what we do with the information you give us. All information you give us is held on computers under the control of SlackerNetwork. If at any time you have a question about anything contained in this statement or a general query on privacy please do not hesitate to contact us. 
 
@@ -22,3 +22,5 @@ We make sure that all the information we hold on you is as safe as possible. You
 
 **When do we give information you provide us to other people?**  
 We never give your information to anyone outside of our company.
+
+| 
