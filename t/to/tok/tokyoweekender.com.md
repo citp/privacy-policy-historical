@@ -1,22 +1,22 @@
-> *The following text is extracted and transformed from the tokyoweekender.com privacy policy that was archived on 2014-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141127200044id_/http%3A//www.tokyoweekender.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tokyoweekender.com privacy policy that was archived on 2015-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150613124956id_/http%3A//www.tokyoweekender.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy » Tokyo Weekender
+# Privacy Policy - Tokyo Weekender
 
 The [Bulbous Cell Media Group](http://www.bulbouscell.com/), which owns and operates the website [Tokyo Weekender](http://mixedchamber.com/) (the “Site”), takes your privacy very seriously. This privacy policy is intended to inform you about the information that is collected from you when you visit the Site; how this information may be used and disclosed; how you can control the use and disclosure of your information; and how your information is protected. If you have any questions about this privacy policy, please contact our privacy team at [privacy@tokyoweekender.com](mailto:privacy@tokyoweekender.com).
 
-  1. [Scope](https://web.archive.org/web/20141127200044id_/http://www.tokyoweekender.com/privacy-policy/about/privacy-policy/#scope)
-  2. [What information the Site collects](https://web.archive.org/web/20141127200044id_/http://www.tokyoweekender.com/privacy-policy/about/privacy-policy/#what-information)
-  3. [How we use the information that we collect](https://web.archive.org/web/20141127200044id_/http://www.tokyoweekender.com/privacy-policy/about/privacy-policy/#How-we-use)
-  4. [Information sharing](https://web.archive.org/web/20141127200044id_/http://www.tokyoweekender.com/privacy-policy/about/privacy-policy/#information-sharing)
-  5. [Third-party services](https://web.archive.org/web/20141127200044id_/http://www.tokyoweekender.com/privacy-policy/about/privacy-policy/#third-party-services)
-  6. [Your choices](https://web.archive.org/web/20141127200044id_/http://www.tokyoweekender.com/privacy-policy/about/privacy-policy/#your-choices)
-  7. [Access](https://web.archive.org/web/20141127200044id_/http://www.tokyoweekender.com/privacy-policy/about/privacy-policy/#access)
-  8. [Confidentiality and security](https://web.archive.org/web/20141127200044id_/http://www.tokyoweekender.com/privacy-policy/about/privacy-policy/#confidentiality-and-security)
-  9. [Visitors from outside of Japan](https://web.archive.org/web/20141127200044id_/http://www.tokyoweekender.com/privacy-policy/about/privacy-policy/#visitors-from-outside)
-  10. [California visitors](https://web.archive.org/web/20141127200044id_/http://www.tokyoweekender.com/privacy-policy/about/privacy-policy/#california-visitors)
-  11. [Children under 13](https://web.archive.org/web/20141127200044id_/http://www.tokyoweekender.com/privacy-policy/about/privacy-policy/#children-under-13)
-  12. [Changes to the privacy policy](https://web.archive.org/web/20141127200044id_/http://www.tokyoweekender.com/privacy-policy/about/privacy-policy/#changes-to-the-privacy-policy)
-  13. [Questions and suggestions](https://web.archive.org/web/20141127200044id_/http://www.tokyoweekender.com/privacy-policy/about/privacy-policy/#questions-and-suggestions)
+  1. [Scope](https://web.archive.org/web/20150613124956id_/http://www.tokyoweekender.com/privacy-policy/about/privacy-policy/#scope)
+  2. [What information the Site collects](https://web.archive.org/web/20150613124956id_/http://www.tokyoweekender.com/privacy-policy/about/privacy-policy/#what-information)
+  3. [How we use the information that we collect](https://web.archive.org/web/20150613124956id_/http://www.tokyoweekender.com/privacy-policy/about/privacy-policy/#How-we-use)
+  4. [Information sharing](https://web.archive.org/web/20150613124956id_/http://www.tokyoweekender.com/privacy-policy/about/privacy-policy/#information-sharing)
+  5. [Third-party services](https://web.archive.org/web/20150613124956id_/http://www.tokyoweekender.com/privacy-policy/about/privacy-policy/#third-party-services)
+  6. [Your choices](https://web.archive.org/web/20150613124956id_/http://www.tokyoweekender.com/privacy-policy/about/privacy-policy/#your-choices)
+  7. [Access](https://web.archive.org/web/20150613124956id_/http://www.tokyoweekender.com/privacy-policy/about/privacy-policy/#access)
+  8. [Confidentiality and security](https://web.archive.org/web/20150613124956id_/http://www.tokyoweekender.com/privacy-policy/about/privacy-policy/#confidentiality-and-security)
+  9. [Visitors from outside of Japan](https://web.archive.org/web/20150613124956id_/http://www.tokyoweekender.com/privacy-policy/about/privacy-policy/#visitors-from-outside)
+  10. [California visitors](https://web.archive.org/web/20150613124956id_/http://www.tokyoweekender.com/privacy-policy/about/privacy-policy/#california-visitors)
+  11. [Children under 13](https://web.archive.org/web/20150613124956id_/http://www.tokyoweekender.com/privacy-policy/about/privacy-policy/#children-under-13)
+  12. [Changes to the privacy policy](https://web.archive.org/web/20150613124956id_/http://www.tokyoweekender.com/privacy-policy/about/privacy-policy/#changes-to-the-privacy-policy)
+  13. [Questions and suggestions](https://web.archive.org/web/20150613124956id_/http://www.tokyoweekender.com/privacy-policy/about/privacy-policy/#questions-and-suggestions)
 
 
   1. **Scope**
@@ -53,7 +53,7 @@ When you visit and interact with the Site, certain information may be collected 
   * your bandwidth speed and information about the software programs that are installed on your computer;
   * aggregated data about email click-through rates and user video viewing;
   * standard server log information; and
-  * information collected through HTML cookies, Flash cookies, web beacons, and similar technologies. For more information, please see our discussion of [cookies and other technologies](https://web.archive.org/web/20141127200044id_/http://www.tokyoweekender.com/privacy-policy/?page_id=30018/cookies-and-other-technologies.html).
+  * information collected through HTML cookies, Flash cookies, web beacons, and similar technologies. For more information, please see our discussion of [cookies and other technologies](https://web.archive.org/web/20150613124956id_/http://www.tokyoweekender.com/privacy-policy/?page_id=30018/cookies-and-other-technologies.html).
 
 
 
@@ -84,13 +84,13 @@ With your consent, we may use your mobile number to send you promotions, notific
 
 **Advertising:**
 
-In order to provide our readers with free access to our content, we display advertisements on the Site, many of which are targeted based on information about you. For example, using information collected through cookies, web beacons, and other sources, we may use demographic data or information about your online activities or interests to display targeted advertising that may be relevant to your preferences. Through this process, advertisers reach Site visitors who are most interested in their products, and you see advertising for products or services in which you may be interested. For more information on how cookies and other technologies work, please see our discussion of [cookies and other technologies](https://web.archive.org/web/20141127200044id_/http://www.tokyoweekender.com/privacy-policy/about/privacy-policy/cookies-and-other-technologies).
+In order to provide our readers with free access to our content, we display advertisements on the Site, many of which are targeted based on information about you. For example, using information collected through cookies, web beacons, and other sources, we may use demographic data or information about your online activities or interests to display targeted advertising that may be relevant to your preferences. Through this process, advertisers reach Site visitors who are most interested in their products, and you see advertising for products or services in which you may be interested. For more information on how cookies and other technologies work, please see our discussion of [cookies and other technologies](https://web.archive.org/web/20150613124956id_/http://www.tokyoweekender.com/privacy-policy/about/privacy-policy/cookies-and-other-technologies).
 
-Third-party advertisers and advertising platforms also may serve targeted ads on the Site. For more information, please see our section on [third party advertising](https://web.archive.org/web/20141127200044id_/http://www.tokyoweekender.com/privacy-policy/about/privacy-policy/third-party-online-advertising). Please remember that the information practices of third-party advertisers or platforms collecting data on our site are not covered by this privacy policy.
+Third-party advertisers and advertising platforms also may serve targeted ads on the Site. For more information, please see our section on [third party advertising](https://web.archive.org/web/20150613124956id_/http://www.tokyoweekender.com/privacy-policy/about/privacy-policy/third-party-online-advertising). Please remember that the information practices of third-party advertisers or platforms collecting data on our site are not covered by this privacy policy.
 
 **User Accounts:**
 
-To provide you with an open, but also civil, discussion forum, we track user involvement in our community discussions. For example, we keep track of the ratio of how many flagged comments are eventually deleted in order to award badges to our most effective comment moderators. For more information on this process, please see our [FAQ section](https://web.archive.org/web/20141127200044id_/http://www.tokyoweekender.com/privacy-policy/about/privacy-policy/frequently-asked-question) about comment moderation guidelines.
+To provide you with an open, but also civil, discussion forum, we track user involvement in our community discussions. For example, we keep track of the ratio of how many flagged comments are eventually deleted in order to award badges to our most effective comment moderators. For more information on this process, please see our [FAQ section](https://web.archive.org/web/20150613124956id_/http://www.tokyoweekender.com/privacy-policy/about/privacy-policy/frequently-asked-question) about comment moderation guidelines.
 
 **Request Fulfillment:**
 
@@ -122,7 +122,7 @@ The Tokyo Weekender values your privacy, and shares information about our users 
 
 
 
-Please note that third parties may independently collect data about you, including your IP address and information about the websites you visit and the links you click, through cookies, clicks on links, or other means when you visit or view ads on the Site. For more information, see our section on [cookies and other technologies](https://web.archive.org/web/20141127200044id_/http://www.tokyoweekender.com/privacy-policy/about/privacy-policy/cookies-and-other-technologies) and [third party advertising](https://web.archive.org/web/20141127200044id_/http://www.tokyoweekender.com/privacy-policy/about/privacy-policy/third-party-online-advertising.html).
+Please note that third parties may independently collect data about you, including your IP address and information about the websites you visit and the links you click, through cookies, clicks on links, or other means when you visit or view ads on the Site. For more information, see our section on [cookies and other technologies](https://web.archive.org/web/20150613124956id_/http://www.tokyoweekender.com/privacy-policy/about/privacy-policy/cookies-and-other-technologies) and [third party advertising](https://web.archive.org/web/20150613124956id_/http://www.tokyoweekender.com/privacy-policy/about/privacy-policy/third-party-online-advertising.html).
 
   1. **Third-party services**
 
@@ -156,7 +156,7 @@ You can deactivate your account at any time by visiting the [preferences page](h
 
 **Cookies and other technologies**
 
-As discussed in the sections on [cookies and other technologies](https://web.archive.org/web/20141127200044id_/http://www.tokyoweekender.com/privacy-policy/about/privacy-policy/cookies-and-other-technologies) and [third party advertising](https://web.archive.org/web/20141127200044id_/http://www.tokyoweekender.com/privacy-policy/about/privacy-policy/third-party-online-advertising), some information is collected about you automatically through cookies and other technologies.
+As discussed in the sections on [cookies and other technologies](https://web.archive.org/web/20150613124956id_/http://www.tokyoweekender.com/privacy-policy/about/privacy-policy/cookies-and-other-technologies) and [third party advertising](https://web.archive.org/web/20150613124956id_/http://www.tokyoweekender.com/privacy-policy/about/privacy-policy/third-party-online-advertising), some information is collected about you automatically through cookies and other technologies.
 
   * _Cookies._ You can change your browser settings to reject all cookies, accept only certain cookies, or notify you when a cookie is set. Please note that you may need to renew these settings if you delete your cookies after these preferences are made. These settings also may not apply if you are using a different computer or Internet browser. In addition, many third-party advertising networks are members of the Network Advertising Initiative (“NAI”). To opt out of having information collected by NAI member companies used for behavioral advertising, to obtain information about the technologies these ad networks might use, and to view information regarding their privacy policies, please visit <http://www.networkadvertising.org/optout_nonppii.asp>.
 
@@ -167,7 +167,7 @@ As discussed in the sections on [cookies and other technologies](https://web.arc
 
 If you opt out of these technologies, you will continue to see advertising displayed on the Site, but the advertising may not be targeted to your interests.
 
-Please remember that we do not have access to, or control over, advertisers’ or service providers’ cookies, and the information practices of third parties are not covered by this privacy policy. For more information on the use of cookies in online advertising, please see the section on [third party advertising](https://web.archive.org/web/20141127200044id_/http://www.tokyoweekender.com/privacy-policy/about/privacy-policy/third-party-online-advertising) and visit the [NAI’s website](http://www.networkadvertising.org/managing/opt_out.asp).
+Please remember that we do not have access to, or control over, advertisers’ or service providers’ cookies, and the information practices of third parties are not covered by this privacy policy. For more information on the use of cookies in online advertising, please see the section on [third party advertising](https://web.archive.org/web/20150613124956id_/http://www.tokyoweekender.com/privacy-policy/about/privacy-policy/third-party-online-advertising) and visit the [NAI’s website](http://www.networkadvertising.org/managing/opt_out.asp).
 
   1. **Access**
 
