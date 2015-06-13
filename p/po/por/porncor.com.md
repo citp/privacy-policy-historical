@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the porncor.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231160513id_/http%3A//www.porncor.com/pages/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the porncor.com privacy policy that was archived on 2015-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150613030437id_/http%3A//www.porncor.com/pages/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - PornCor.com
 
