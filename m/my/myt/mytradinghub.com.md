@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the mytradinghub.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120034142id_/https%3A//mytradinghub.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mytradinghub.com privacy policy that was archived on 2015-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150613021405id_/http%3A//mytradinghub.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - My Trading Hub
-
-## Privacy Policy
+# None
 
 My Trading Hub respects your privacy and is committed to protecting the personal information you provide to us. We would like to share with you the following principles that govern our privacy practices. This privacy statement describes the information we collect through our products and services, how this information is used, and how you may opt-out of this collection. By using our products and services, you consent and agree to the information collection processing and practices described in this policy.
 
@@ -12,7 +10,7 @@ My Trading Hub is a global company. Your personal information may be shared with
 
 My Trading Hub will use the services of entities and / or professionals, for this purpose My Trading Hub should allow them to access to your data. The sole purpose of such access is to deliver their services of housing, hosting, management and / or user support, Web services management and / or advice or task development regarding communication and marketing matters. In particular, My Trading Hub uses the services of companies and providers, both for marketing activities. By accepting this Privacy Policy you agree to the processing described.
 
-**The Information We Collect**
+### The Information We Collect
 
 Throughout this policy, we refer to information that personally identifies you as “Personal Information” or “Sensitive Personal Information.” If you give us Personal Information about somebody else, such as a spouse or work colleague, you must have that person’s permission to do so.
 
@@ -22,7 +20,7 @@ Personal Information is any information that can identify you as an individual, 
 
 Non-Personal Information is any information that is not personally identifiable, such as information about network devices, web page requests and browser type.
 
-**How We Collect Information**
+### How We Collect Information
 
 We collect information, including Personal Information, about you in a variety of situations, including when you:
 
@@ -34,7 +32,7 @@ We collect information, including Personal Information, about you in a variety o
 * Ask to be included in an email or other mailing list  
 * Submit an entry for a sweepstakes or other promotion  
 * Provide your Personal Information to My Trading Hub for any other reason  
-* Write a Post or Thread in My Trading Hub 
+* Write a Post or Thread in My Trading Hub
 
 In many instances, you may browse the My Trading Hub website anonymously. When you arrive at the My Trading Hub website, we record your IP address (the Internet address of your computer) to give us an idea of which parts of the website you visit and how long you spend there. We do not link your IP address to any Personal Information unless you have registered with us and logged in using your profile.
 
@@ -42,20 +40,20 @@ Access to certain My Trading Hub web pages, services, products and activities re
 
 From time to time, My Trading Hub receives personal information from our business partners and vendors. My Trading Hub only uses this information if it has been collected in accordance with privacy practices consistent with this Privacy Statement.
 
-**How We Use Your Personal Information**
+### How We Use Your Personal Information
 
 My Trading Hub uses your Personal Information in connection with products and services, to respond to requests, to provide specific marketing materials you have requested, and when we have your permission. For example, My Trading Hub may use your Personal Information to:
 
 * Keep you up to date on the latest product announcements, software updates, software upgrades, system enhancements, special offers, and other information. This may occasionally include information from other technology companies about products and services that can add value to your My Trading Hub products. By accepting this Privacy Policy you agree to the processing described above, including by electronic means unless, you click in the corresponding checkboxes.  
 * Provide support and assistance with products and services, including the provision of security patches and as described in the Supplement.  
 * Contact you as part of our customer satisfaction surveys or for market research purposes.  
-* Create anonymous data records or aggregations of data, to perform statistical analyses and for other purposes, by omitting or removing information (such as your name) that makes the data personally identifiable to you. 
+* Create anonymous data records or aggregations of data, to perform statistical analyses and for other purposes, by omitting or removing information (such as your name) that makes the data personally identifiable to you.
 
-In addition, as set forth in the Supplement, we may collect Non-Personal Information in connection with certain products. 
+In addition, as set forth in the Supplement, we may collect Non-Personal Information in connection with certain products.
 
 Any Sensitive Personal Information that you provide will only be used to implement the specific activity or event it was submitted for and will then be destroyed in accordance with company policies.
 
-**When We Disclose Personal Information**
+### When We Disclose Personal Information
 
 My Trading Hub may share your information with My Trading Hub-owned and owned business entities around the world. We occasionally hire other companies, agents or contractors to perform services on our behalf, such as processing credit card transactions, hosting websites and providing customer support. These companies are not permitted to use your Personal Information, except for the purpose of providing the services we request of them. The third parties in which we may need to share your information with include our business partners (for instance, as part of a joint sales promotion or to pass sales leads to one of our distribution partners); service vendors; shipping companies; and postal and government authorities (such as Customs authorities).
 
@@ -63,11 +61,11 @@ We will also disclose your Personal Information if required to do so by law, to 
 
 My Trading Hub may sell, transfer or otherwise share some or all of its assets, including your Personal Information, in connection with a merger, acquisition, reorganization or sale of assets or in the event of bankruptcy. You will have the opportunity to opt out of any such transfer if the new entity’s planned processing of your information differs materially from that set forth in this Privacy Statement.
 
-**Your Choice and Control**
+### Your Choice and Control
 
 We will always tell you before we collect any Personal Information and inform you of the purpose of the collection. We will ask for your consent before we use or share your information for any purpose other than the reason you provided it, or as otherwise provided by this policy. In order to let us know your preferences, we will require an action on your part, such as checking the appropriate option, to indicate your consent.
 
-**How We Use Cookies and Other Tracking Technologies**
+### How We Use Cookies and Other Tracking Technologies
 
 Like many websites, My Trading Hub uses technologies, such as cookies and web beacons, which allow us to make your visit to our website easier, more efficient and more valuable by providing you with a customized experience and recognizing you when you return.
 
@@ -86,43 +84,43 @@ My Trading Hub may also use customized links or other similar technologies to tr
 
 If you prefer not to receive cookies while browsing our website or via HTML-formatted emails, you can set your browser to warn you before it accepts cookies or refuse the cookie when your browser alerts you to its presence. You can also refuse all cookies by turning them off in your browser.
 
-For additional information about cookies and other tracking technologies, including instructions for blocking their use, see <http://privacy.getnetwise.org/browsing/tools>.
+For additional information about cookies and other tracking technologies, including instructions for blocking their use, see http://privacy.getnetwise.org/browsing/tools.
 
-**Your Rights to Access, Change, Correct, Update and Erase Your Information**
+### Your Rights to Access, Change, Correct, Update and Erase Your Information
 
-If you are a registered user, you may change your Personal Information at any time by visiting [www.mytradinghub.com](http://www.mytradinghub.com/). You may request deactivation of your My Trading Hub account or any of your Personal Information held by us by sending an email to [info@mytradinghub.com](mailto:info@mytradinghub.com).
+If you are a registered user, you may change your Personal Information at any time by visitingwww.mytradinghub.com. You may request deactivation of your My Trading Hub account or any of your Personal Information held by us by sending an email to info@mytradinghub.com.
 
 If you choose to deactivate your account, where permitted by law we will retain in our files some of your Personal Information to prevent fraud, resolve disputes, troubleshoot problems, enforce our Terms of Use, respect your opt-out preferences, and comply with legal requirements.
 
-How We Protect Your Personal Information
+### How We Protect Your Personal Information
 
 My Trading Hub safeguards the security of the data you send us with industry-standard physical, electronic, and managerial procedures. When appropriate, My Trading Hub websites use SSL-encryption to enhance the security of sensitive data transmissions. Inside My Trading Hub, data is stored in controlled servers with limited access. Your information may be stored and processed in the United States or any other country where My Trading Hub, its subsidiaries, affiliates or agents are located.
 
 While we strive to protect your personal information, we cannot ensure the security of the information you transmit to us over an unsecured Internet connection. Therefore, we urge you to take every precaution to protect your personal data when you are on the Internet.
 
-Some ways to protect your personal data may include changing your passwords often, using a combination of letters and numbers in passwords, and making sure you use a secure browser. In addition, please be aware of phishing attacks, which attempt to steal consumers’ personal identity data and financial account credentials. “Phishers” use ‘spoofed’ e-mails to lead consumers to counterfeit websites designed to trick recipients into divulging sensitive personal information such as credit card numbers, account usernames, passwords and social security numbers. My Trading Hub will never send an email asking you to provide or confirm Sensitive Personal Information. If you receive a communication such as this, please immediately forward it to [info@mytradinghub.com](mailto:info@mytradinghub.com) and immediately delete it from your computer.
+Some ways to protect your personal data may include changing your passwords often, using a combination of letters and numbers in passwords, and making sure you use a secure browser. In addition, please be aware of phishing attacks, which attempt to steal consumers’ personal identity data and financial account credentials. “Phishers” use ‘spoofed’ e-mails to lead consumers to counterfeit websites designed to trick recipients into divulging sensitive personal information such as credit card numbers, account usernames, passwords and social security numbers. My Trading Hub will never send an email asking you to provide or confirm Sensitive Personal Information. If you receive a communication such as this, please immediately forward it to info@mytradinghub.com and immediately delete it from your computer.
 
 Our websites do not target and are not intended to attract children under the age of 13. My Trading Hub does not knowingly solicit personal information from children under the age of 13 or send them requests for Personal Information.
 
-**Third Party Sites**
+### Third Party Sites
 
 My Trading Hub website contains links to third party websites, some of which may be co-branded with the My Trading Hub logo. However, these websites are not operated or maintained by My Trading Hub. My Trading Hub does not share your Personal Information with these websites and is not responsible for their privacy practices. Your use of any third party website is at your own risk.
 
 Although we choose our business partners carefully, My Trading Hub cannot be responsible for the privacy practices of websites operated by third parties that are linked to from our site. Once you have left our website, you should make a practice of reviewing the applicable privacy statement of the third party website to determine how they will use any information they collect from you.
 
-**Changes to this Privacy Statement**
+Changes to this Privacy Statement
 
-This document was last updated on February 23, 2014. My Trading Hub may amend this privacy statement from time to time, and at any time. We will post a notice on our website home page for 30 days whenever this Privacy Statement is materially changed. 
+This document was last updated on December 04th, 2014. My Trading Hub may amend this privacy statement from time to time, and at any time. We will post a notice on our website home page for 30 days whenever this Privacy Statement is materially changed.
 
-**Disclaimer**
+### Disclaimer
 
 We do not guarantee error-free performance under this Privacy Statement. We may not always catch an unintended privacy issue, despite our efforts to do so. Accordingly, we welcome your feedback regarding any privacy concerns that you may have, including how we can improve our products and services. We will use reasonable efforts to comply with this Privacy Statement and will take prompt corrective action when we discover of any failure to comply with it. We will not be liable for any incidental, consequential, or punitive damages, whatsoever, relating to this Privacy Statement.
 
-**Questions or Suggestions**
+### Questions or Suggestions
 
-If you have questions or concerns about our collection, use, or disclosure of your Personal Information, please email us at [info@mytradinghub.com](mailto:info@mytradinghub.com).
+If you have questions or concerns about our collection, use, or disclosure of your Personal Information, please email us at info@mytradinghub.com.
 
-**Product-Specific Guidelines**
+### Product-Specific Guidelines
 
 Certain products collect Non-Personal Information about My Trading Hub products and network devices. This information about the status and health of products and the network is transmitted back to us so we can determine how users are interacting with our products, to assist us in improving our products, and to alert you to available upgrades. We may share this information with select third parties in an anonymous aggregated form. In addition, products may regularly check for updates to help keep your network running at a peak performance and provide alerts as to the latest firmware. The information is associated with you only when you opt-in to receive communications from My Trading Hub for the identified purpose. You may opt-out of the collection of this information at any time by changing the settings or uninstalling software from your computer.
 
