@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the transittraveljobinsider.com privacy policy that was archived on 2014-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141203055044id_/http%3A//transittraveljobinsider.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the transittraveljobinsider.com privacy policy that was archived on 2015-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150613043006id_/http%3A//www.transittraveljobinsider.com/privacy_policy) for the most accurate reproduction.*
 
 # Transit & Travel Job Insider - Privacy Policy
 
@@ -7,6 +7,8 @@
 **_Transit & Travel Job Insider PRIVACY POLICY Effective Date: April 16, 2010_**
 
 This privacy policy (this "Policy") covers the web site www.transittraveljobinsider.com and the other web sites operated under the domain name Transit & Travel Job Insider (the "Site") and is applicable to all information about you ("you" or "your") collected through the Site. 
+
+Transit & Travel Job Insider is powered by [Jobcase.com](http://jobcase.com/). When you register with Transit & Travel Job Insider, you are automatically registered with Jobcase and are also bound by the Jobcase [terms of use](https://jobcase.com/terms_of_use) and Jobcase [privacy policy](https://jobcase.com/privacy_policy). After you register with Transit & Travel Job Insider, [click here](http://jobcase.com/) to access full functionality from your Jobcase account. 
 
 This Policy describes the types of information that Transit & Travel Job Insider ("Transit & Travel Job Insider", "we", "us" or "our") gathers from you and the other people who visit the Site (the "Users"), how we may use that information and how you can contact us regarding this Policy and your personal information. 
 
@@ -24,9 +26,9 @@ To cancel or correct your personal information: send an email with your User Nam
 To express or ask questions regarding privacy concerns: send an email to info@transittraveljobinsider.com 
 
 Address:  
-600 3rd Ave  
-2nd Floor  
-New York, NY 10016  
+40 Warren Street  
+3rd Floor  
+Charlestown, MA 02129  
 
 
 ### **Registration**
