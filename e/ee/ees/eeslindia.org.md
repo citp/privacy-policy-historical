@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eeslindia.org privacy policy that was archived on 2014-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140527055158id_/http%3A//eeslindia.org/User_Panel/UserView.aspx%3FTypeID%3D1045) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eeslindia.org privacy policy that was archived on 2015-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150613035555id_/http%3A//www.eeslindia.org/User_Panel/UserView.aspx%3FTypeID%3D1045) for the most accurate reproduction.*
 
 # Energy Efficiency Services Limited
 
