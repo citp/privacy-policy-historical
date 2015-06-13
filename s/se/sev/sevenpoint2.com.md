@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sevenpoint2.com privacy policy that was archived on 2014-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140924015034id_/http%3A//www.sevenpoint2.com/privacy.html%3Fcountry%3D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sevenpoint2.com privacy policy that was archived on 2015-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150613072124id_/http%3A//www.sevenpoint2.com/privacy.html%3Fcountry%3Dus) for the most accurate reproduction.*
 
 # Alkaline Diet
 
