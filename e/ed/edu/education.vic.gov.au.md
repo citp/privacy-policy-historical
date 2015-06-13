@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the education.vic.gov.au privacy policy that was archived on 2014-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141216122302id_/http%3A//www.education.vic.gov.au/Pages/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the education.vic.gov.au privacy policy that was archived on 2015-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150613194413id_/http%3A//www.education.vic.gov.au/Pages/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy
 
@@ -10,9 +10,9 @@ This privacy statement will be updated from time to time so please visit this pa
 
 This Privacy Statement does not apply to linked websites that are not the Department's sites. When you link to another site we recommend you read the privacy statement of that site.
 
-The Department has an information privacy policy and handles personal information in accordance with the Victorian Privacy laws - the _Information Privacy Act 2000_ and _Health Records Act 2001_. 
+The Department has an information privacy policy and handles personal information in accordance with the Victorian Privacy laws - the _Privacy and Data Protection Act 2014 (Victoria)_ and _Health Records Act 2001_. 
 
-For more information, see: [Information Privacy Policy](https://web.archive.org/pages/privacypolicy.aspx)
+For more information, see: [Information Privacy Policy](https://web.archive.org/Pages/privacypolicy.aspx)
 
 ## Collection of information
 
@@ -50,7 +50,7 @@ There are inherent risks associated with the transmission of personal informatio
 
 The Department has made every effort to implement security policies, rules and measures to protect your information from unauthorised access, improper use, alteration and destruction.
 
-The Department does not guarantee secure transmission of data transmitted via its websites. If you have any concerns providing the personal information asked for please call the Online Communications Unit on 03 9657 2626 and we can make arrangements to suit you.
+The Department does not guarantee secure transmission of data transmitted via its websites. If you have any concerns providing the personal information asked for please call the Digital Services team on 03 9637 2579 and we can make arrangements to suit you.
 
 For more information, see: 
 
@@ -58,7 +58,7 @@ For more information, see: 
 
 
 
-## Use of authenticated DEECD websites
+## Use of authenticated DET websites
 
 The Department secure websites, which require a username and password for access verification, gather information on a user’s online experiences through the use of a visitor’s username. Please keep your access codes secure and do not share them.
 
@@ -84,11 +84,11 @@ The Department welcomes your comments regarding this Privacy Statement. If you b
 
 Contact:
 
-Department of Education and Early Childhood Development  
-Online Communications Unit  
+Department of Education and Training  
+Digital Services, Communications Division,  
 Level 2, 2 Treasury Place, East Melbourne VIC 3002
 
-  * [Victorian Information Privacy Act 2000](http://www.legislation.vic.gov.au/Domino/Web_Notes/LDMS/PubStatbook.nsf/f932b66241ecf1b7ca256e92000e23be/4BE13AE4A4C3973ECA256E5B00213F50/$FILE/00-098a.pdf) or 
+  * [Privacy and Data Protection Act 2014 (Victoria)](http://www.legislation.vic.gov.au/Domino/Web_Notes/LDMS/PubStatbook.nsf/51dea49770555ea6ca256da4001b90cd/05CC92B3F8CB6A6BCA257D4700209220/$FILE/14-060aa%20authorised.pdf) or 
   * [Privacy Victoria](http://www.privacy.vic.gov.au/)
 
 
