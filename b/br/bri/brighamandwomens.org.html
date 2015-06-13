@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the brighamandwomens.org privacy policy that was archived on 2014-12-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141215172221id_/http%3A//www.brighamandwomens.org/about_BWH/privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the brighamandwomens.org privacy policy that was archived on 2015-06-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150613233629id_/http%3A//www.brighamandwomens.org/about_BWH/privacy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <!-- NOTE: do not place any other tags before TITLE -->
@@ -17,8 +17,13 @@
 <link rel="SHORTCUT ICON" href="http://www.brighamandwomens.org/_images/favicon.ico" type="image/x-icon"><meta name="verify-v1" content="zArmUpSpputqUbTV/WnJ11+SB/DiaPxIpmfUU3kIxIs="><meta name="verify-v1" content="ruQ4OCmLAqUa4RqA0SZ+bGTBUuw8Yf1P4s0rzfQzgPU=">
 
 <!--JQuerry-->
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="//us2.siteimprove.com/js/siteanalyze_41339.js"></script><script type="text/javascript" language="javascript" src="/App_JScripts/jquery.min.js "></script>
-<script type="text/javascript" language="javascript" src="/App_JScripts/dojo.xd.js"></script>
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="//us2.siteimprove.com/js/siteanalyze_41339.js"></script><script type="text/javascript" src="/App_JScripts/jquery.min.js"></script>
+<script type="text/javascript" src="/App_JScripts/jquery-ui.min.js"></script>
+<script type="text/javascript" src="/App_JScripts/dojo.xd.js" language="javascript"></script>
+<script type="text/javascript" src="/App_JScripts/magnific-popup.js"></script> 
+<script type="text/javascript" src="/App_JScripts/jquery.cookie.js"></script> 
+<!--JQ css-->
+<link rel="stylesheet" href="/App_Css/jquery-ui.css"><link rel="stylesheet" href="/App_Css/magnific-popup.css">
 
 <!--JavaScript-->
 <script type="text/javascript" language="javascript" src="/App_JScripts/printpage.js"></script>
@@ -100,8 +105,6 @@ window.onload=function()
 {
 	setPage();
 }
-
-
 </script>
 
 <!--as per requested on 10_30_2014-->
@@ -120,8 +123,8 @@ window.onload=function()
 <body id="theBody" class="subNav2">
 <div id="mainBody">
   <div id="header">
+  <!--googleoff: all-->
     
-
 <div id="pikeNotesLink">
   <span id="MasterPageHeader_lblPikenotes">&nbsp;</span>
 </div>
@@ -152,27 +155,55 @@ window.onload=function()
     <div class="toolLine1-5"> <a href="/about_bwh/translation.aspx"><img src="/_images/icon_trans_faq.gif" alt="What is this?"></a> </div>
   </div>
   <script>
-	$(document).ready(function(){				
+      $(document).ready(function () {
 		var searchForm = $('#searchForm');			
 
+        // Set correct values for all parameters used by idol client.
 		searchForm.submit(function(e){
-			e.preventDefault();
-			var searchField = $('#ctl00_MasterPageHeader_txtSearch').val();
-			var searchCollection = $('#searchCollection').val();
-			var action = '';				
-			
-			if (searchField != ""){
-				if(searchField != "Search For:") {
-					if (searchCollection != "BWH_HI")
-					{
-						action = "/App_GlobalFiles/search.aspx?st=0&site=" + searchCollection + "&qt=" + searchField;
+		    e.preventDefault();
+
+		    // Form submission location
+		    var submitAction = '';
+
+            // Search term
+			var q = $('#ctl00_MasterPageHeader_txtSearch').val();
+
+            // Site search collection.
+			var site = $('#searchCollection').val();
+
+            // Database set according to its appropriate selection.
+			var db = '';
+
+            // Only BWH_PA has a filter parameter. An empty filter parameter is ignored.
+			var filter = site === 'BWH_PA' ? '%2Fabout_bwh%2Fpublicaffairs%2F' : '';
+
+		    // BWH_CI and BWH_PA all have bwhdb as a database. The filter parameter creates the different results.
+		    // BWH_HI has no database, it is an external link.
+			switch (site) {   
+			    case "BWH_RF" :
+			        db = "bwhrf1db";
+			        break;
+
+			    case "BWH_PB":
+			        db = "bwhchdb";
+			        break;
+
+                default :
+			        db = "bwhdb";
+			        break;
+			}
+            			
+			if (q != ""){
+				if(q != "Search For:") {
+					if (site != "BWH_HI") {
+						//action = "/App_GlobalFiles/search.aspx?st=0&site=" + searchCollection + "&qt=" + searchField;
+					    submitAction = "/App_GlobalFiles/search.aspx?db=" + db + "&st=0&site=" + site
+                            + "&q=" + q + "&filter=" + filter;
+					} else {
+					    submitAction = "http://healthlibrary.brighamandwomens.org/Search/SearchResults.pg?SearchPhrase=" +
+						q + "&SearchType=text&SearchOperator=And";
 					}
-					else
-					{
-					    action = "http://healthlibrary.brighamandwomens.org/Search/SearchResults.pg?SearchPhrase=" +
-						searchField + "&SearchType=text&SearchOperator=And";
-					}
-					window.location = action;
+					window.location = submitAction;
 				}
 			}					
 		});
@@ -199,6 +230,7 @@ window.onload=function()
     </form>
   </div>
 </div>
+
 
     <div id="navigation">
       
@@ -238,7 +270,7 @@ window.onload=function()
   
 
     <li>
-			<a href="/online/blueprint/oral-histories.aspx" target="_self">BWH History Videos</a>
+			<a href="/online/ofcurrentinterest/oral-histories.aspx" target="_self">BWH History Videos</a>
 		</li>
 
   
@@ -377,11 +409,15 @@ window.onload=function()
 		</li>
   
     <li>
-			<a href="/Departments_and_Services/excellence/ortho.aspx" target="_self">Orthopedic and Arthritis</a>
+			<a href="/Departments_and_Services/excellence/lung-center.aspx" target="_self">Lung</a>
 		</li>
   
     <li>
 			<a href="/Departments_and_Services/excellence/neuroscience.aspx" target="_self">Neurosciences</a>
+		</li>
+  
+    <li>
+			<a href="/Departments_and_Services/excellence/ortho.aspx" target="_self">Orthopedic and Arthritis</a>
 		</li>
   
     <li>
@@ -562,6 +598,31 @@ window.onload=function()
           </div>
         </div>
       </div>
+           <script>
+               $(document).ready(function () {
+
+                   var searchDeseases = $('#searchDeseases');
+
+                   searchDeseases.submit(function (e) {
+                       e.preventDefault();
+
+                       var q = $('#condSearch').val();
+
+                       if (q != "") {
+
+                           submitAction = "http://healthlibrary.brighamandwomens.org/Search/SearchResults.pg?SearchPhrase=" +
+                                                   q + "&SearchType=text&SearchOperator=And";
+                           window.location = submitAction;
+                       }
+
+                   });
+                   $('#condSearch').focus(function () {
+                       $(this).val('');
+                   });
+
+               });
+  </script>
+      <form id="searchDeseases" action="" method="get">    
       <span id="TopNav_lblNav1_5">
   
   <div id="mostPopular" class="navigation">
@@ -599,9 +660,10 @@ window.onload=function()
 </span>
       <div id="searchDisease" class="navigation">
        <p class="header">Search for Diseases<br>and Conditions</p>
-        <input name="ctl00$TopNav$condSearch" type="text" id="TopNav_condSearch" class="txtInput"><br>
-        <input src="/_images/btn_search2.png" name="ctl00$TopNav$Image1" type="image" id="TopNav_Image1" value="Search">
+        <input name="" id="condSearch" type="text" value="" class="txtInput"><br>
+        <input id="Image1" type="image" src="/_images/btn_search2.png" alt="Search">
       </div>
+        </form>     
     <div class="clear">
         <br>
       </div>
@@ -751,10 +813,6 @@ window.onload=function()
 		</li>
   
     <li>
-			<a href=" /research/briefs/default.aspx" target="_self">BRIefs</a>
-		</li>
-  
-    <li>
 			<a href="/research/depts/default.aspx" target="_self">Departments</a>
 		</li>
   
@@ -801,11 +859,15 @@ window.onload=function()
 		</li>
   
     <li>
+			<a href="http://innovation.partners.org/" target="_self">Partners Innovation</a>
+		</li>
+  
+    <li>
 			<a href="/research/researchadmin/default.aspx" target="_self">Research Administration</a>
 		</li>
   
     <li>
-			<a href="/research/microCSRL.aspx" target="_self">Research Ventures and Licensing</a>
+			<a href="http://navigator.partners.org/" target="_self">Research Navigator </a>
 		</li>
   
 </ul><div class="clear"></div>
@@ -899,6 +961,8 @@ window.onload=function()
         <div id="ContentPlaceHolder1_BreadCrumbs_BreadCrumbsHolder">
 	<a href="../Default.aspx">Home</a><span> &gt; </span><a href="Default.aspx">About Brigham and Women's Hospital</a><span> &gt; </span><span>Privacy</span>
 </div>
+<!-- breadcrumb google on -->
+<!--googleon: all-->
     </div>
     
     <div id="pageHeader"><div id="Print_Header"></div>
@@ -909,7 +973,6 @@ window.onload=function()
 
     <span class="clear"></span> </div>
   <!-- End Header -->
-  
   <div id="pnlContent" class="content">
 	
     <div id="divScreenSaver">
@@ -922,11 +985,16 @@ window.onload=function()
         <div id="leftNav_contentTitle">          
         </div>
         <div id="leftNav_content">
-        <div id="ContentPlaceHolder2_LeftNav_pnlLeftNavHolder">
+        
+<!--googleoff: all-->
+<!-- left nav -->
+<div id="ContentPlaceHolder2_LeftNav_pnlLeftNavHolder">
 		<span><ul id="menu"><li class="DeptName">
       About BWH
     </li><li><a href="/about_bwh/" target="_self">About BWH</a></li><li><a href="/about_bwh/about_us.aspx" target="_self">History</a></li><li><a href="/About_BWH/presidents-corner.aspx" target="_self">President's Corner</a></li><li><a href="/about_bwh/mission.aspx" target="_self">Strategic Plan</a></li><li><a href="#" target="_self" class="exBullet2">Milestones</a><ul class="exBullet2_content"><li><a href="/about_bwh/publicaffairs/aboutbwh/milestones.aspx?sub=0" target="_self">BWH Milestones</a></li><li><a href="/about_bwh/BWHHeartLungMilestones.aspx?sub=0" target="_self">Heart and Lung Milestones</a></li></ul></li><li><a href="/about_bwh/locations/" target="_self">Locations and Directions</a></li><li><a href="/About_BWH/locations/construction/default.aspx" target="_self">Construction Updates</a></li><li><a href="/Departments_and_Services/innovativecare/" target="_self">Innovative Care</a></li><li><a href="/about_bwh/publicaffairs/" target="_self">News</a></li><li><a href="/about_bwh/quality/default.aspx" target="_self">Quality of Patient Care</a></li><li><a href="#" target="_self" class="exBullet2">Visiting BWH</a><ul class="exBullet2_content"><li><a href="/Patients_Visitors/forvisitors/default.aspx?sub=1" target="_self">Visiting a Patient</a></li><li><a href="/Patients_Visitors/patientresources/newPhone.aspx?sub=1" target="_self">Phone Numbers</a></li></ul></li><li><a href="http://careers.brighamandwomens.org" target="_self">Careers</a></li><li><a href="https://giving.brighamandwomens.org/" target="_self">Giving to BWH</a></li><li><a href="http://www.brighamandwomens.org/About_BWH/volunteerprograms.aspx" target="_self">Volunteer Opportunties</a></li><li><a href="https://www.brighamandwomens.org/forms/contactus.aspx" target="_self">Contact Us</a></li></ul></span>
 	</div>
+<!--googleon: all-->
+<!-- main body content -->
         </div>
         </div>     
         <!-- End leftNav -->
@@ -1024,6 +1092,7 @@ This page was last modified on 10/19/2011
 
     <br class="clear">
     <div id="footer">
+    <!--googleoff: all-->
       
   <div id="footerContent"><ul id="footerCol1">
 			 <li class="intro">Follow Us On:</li>
@@ -1052,78 +1121,96 @@ This page was last modified on 10/19/2011
 <ul id="footerCol2">
 			 <li class="intro">BWH Information</li>
 
-					<li><a href="/about_bwh/" target="_self">About BWH</a></li>			
+					<li><a href="/about_bwh/default.aspx" target="_self">About BWH</a></li>			
 	
 					<li><a href="/About_BWH/locations/accessibility_transport.aspx" target="_self">Accessibility</a></li>			
 	
-					<li><a href="/about_bwh/publicaffairs/" target="_self">BWH News</a></li>			
+					<li><a href="/about_bwh/publicaffairs/default.aspx" target="_self">BWH News</a></li>			
 	
-					<li><a href="http://careers.brighamandwomens.org" target="_blank">Careers</a></li>			
+					<li><a href="http://careers.brighamandwomens.org" target="_self">Careers</a></li>			
 	
-					<li><a href="https://www.brighamandwomens.org/forms/contactus.aspx" target="_blank">Contact Us</a></li>			
+					<li><a href="https://www.brighamandwomens.org/forms/contactus.aspx" target="_self">Contact Us</a></li>			
 	
 					<li><a href="http://give.brighamandwomens.org" target="_self">Giving to BWH</a></li>			
 	
-					<li><a href="/about_bwh/quality/" target="_self">Quality of Patient Care</a></li>			
+					<li><a href="https://patientgateway.partners.org/public/" target="_self">Patient Gateway</a></li>			
 	
-					<li><a href="/Patients_Visitors/forvisitors/" target="_self">Visiting BWH</a></li>			
+					<li><a href="/about_bwh/quality/default.aspx" target="_self">Quality and Safety</a></li>			
+	
+					<li><a href="/Departments_and_Services/medical-resources-a-l.aspx" target="_self">Resources A-L</a></li>			
+	
+					<li><a href="/Departments_and_Services/medical-resources-m-z.aspx" target="_self">Resources M-Z</a></li>			
+	
+					<li><a href="/Patients_Visitors/forvisitors/default.aspx" target="_self">Visiting BWH</a></li>			
+	
+					<li><a href="/about_BWH/disclaimer.aspx" target="_self">Website Disclaimer</a></li>			
+	
+					<li><a href="/about_BWH/privacy.aspx" target="_self">Website Privacy Policy</a></li>			
+	
+					<li><a href="/site/bwhsitemap.aspx" target="_self">Web Site Map</a></li>			
 	
 </ul>
 <ul id="footerCol3">
 			 <li class="intro">Clinical Departments</li>
 
-        			<li><a href="/Departments_and_Services/anesthesiology/" target="_self">Anesthesia</a></li>
+        			<li><a href="/Departments_and_Services/anesthesiology/default.aspx" target="_self">Anesthesia</a></li>
       
-        			<li><a href="/bwhcancer" target="_self">Cancer</a></li>
+        			<li><a href="/bwhcancer/default.aspx" target="_self">Cancer</a></li>
       
-        			<li><a href="/Departments_and_Services/dermatology/" target="_self">Dermatology</a></li>
+        			<li><a href="/Departments_and_Services/dermatology/default.aspx" target="_self">Dermatology</a></li>
       
-        			<li><a href="/Departments_and_Services/emergencymedicine/" target="_self">Emergency Medicine</a></li>
+        			<li><a href="/Departments_and_Services/emergencymedicine/default.aspx" target="_self">Emergency Medicine</a></li>
       
-        			<li><a href="/Departments_and_Services/medicine/" target="_self">Medicine</a></li>
+        			<li><a href="/Departments_and_Services/medicine/default.aspx" target="_self">Medicine</a></li>
       
-        			<li><a href="/Departments_and_Services/neurology/" target="_self">Neurology</a></li>
+        			<li><a href="/Departments_and_Services/neurology/default.aspx" target="_self">Neurology</a></li>
       
-        			<li><a href="/Departments_and_Services/neurosurgery/" target="_self">Neurosurgery</a></li>
+        			<li><a href="/Departments_and_Services/neurosurgery/default.aspx" target="_self">Neurosurgery</a></li>
       
-        			<li><a href="/Departments_and_Services/newbornmedicine/" target="_self">Newborn Medicine</a></li>
+        			<li><a href="/Departments_and_Services/newbornmedicine/default.aspx" target="_self">Newborn Medicine</a></li>
+      
+        			<li><a href="/Departments_and_Services/obgyn/default.aspx" target="_self">Obstetrics and Gynecology</a></li>
       
 </ul>
 <ul id="footerCol4">
   
-      			<li><a href="/Departments_and_Services/obgyn/" target="_self">Obstetrics and Gynecology</a></li>
+      			<li><a href="/Departments_and_Services/orthopedics/default.aspx" target="_self">Orthopedic Surgery</a></li>
     
-      			<li><a href="/Departments_and_Services/orthopedics/" target="_self">Orthopedic Surgery</a></li>
+      			<li><a href="/Departments_and_Services/pathology/default.aspx" target="_self">Pathology</a></li>
     
-      			<li><a href="/Departments_and_Services/pathology" target="_self">Pathology</a></li>
+      			<li><a href="/Departments_and_Services/physical-medicine-rehab/default.aspx" target="_self">Physical Medicine and Rehabilitation</a></li>
     
-      			<li><a href="/Departments_and_Services/psychiatry/" target="_self">Psychiatry</a></li>
+      			<li><a href="/Departments_and_Services/psychiatry/default.aspx" target="_self">Psychiatry</a></li>
     
       			<li><a href="/bwhcancer/dfcibwh_cancer_treatment.aspx?sub=1&amp;id=10314" target="_self">Radiation Oncology</a></li>
     
-      			<li><a href="/Departments_and_Services/radiology/" target="_self">Radiology</a></li>
+      			<li><a href="/Departments_and_Services/radiology/default.aspx" target="_self">Radiology</a></li>
     
-      			<li><a href="/Departments_and_Services/surgery/" target="_self">Surgery</a></li>
+      			<li><a href="/Departments_and_Services/surgery/default.aspx" target="_self">Surgery</a></li>
     
       			<li><a href="/Departments_and_Services/excellence/womenshealth.aspx" target="_self">Women's Health</a></li>
     
   </ul>
 <ul id="footerCol5">
-			 <li class="intro">Site Information</li>
+			 <li class="intro">Centers of Excellence</li>
   
-      			<li><a href="/site/bwhsitemap.aspx" target="_self">Site Map</a></li>
+      			<li><a href="/Departments_and_Services/excellence/cancer.aspx" target="_self">Cancer Center</a></li>
     
-      			<li><a href="/Departments_and_Services/resources.aspx" target="_self">Resources</a></li>
+      			<li><a href="/Departments_and_Services/excellence/cardiovascular.aspx" target="_self">Heart and Vascular Center</a></li>
     
-      			<li><a href="/about_BWH/disclaimer.aspx" target="_self">Website Disclaimer</a></li>
+      			<li><a href="/Departments_and_Services/excellence/lung-center.aspx" target="_self">Lung Center</a></li>
     
-      			<li><a href="/about_BWH/privacy.aspx" target="_self">Website Privacy Policy</a></li>
+      			<li><a href="/Departments_and_Services/excellence/neuroscience.aspx" target="_self">Neurosciences Institute</a></li>
+    
+      			<li><a href="/Departments_and_Services/excellence/ortho.aspx" target="_self">Orthopedics and Arthritis Center</a></li>
+    
+      			<li><a href="/Departments_and_Services/excellence/womenshealth.aspx" target="_self">Women's Health</a></li>
     
   </ul>
-  			<div id="footerAddress"> © Brigham and Women's Hospital 2013 | 75 Francis Street, Boston MA 02115 | 617-732-5500</div>
+  			<div id="footerAddress"> © Brigham and Women's Hospital 2015 | 75 Francis Street, Boston MA 02115 | 617-732-5500</div>
 <div id="footerLogos">
   
-      			<a href="http://hms.harvard.edu/hms/" target="_blank"><img src="/_images/logo_harvard.jpg" alt="Harvard Medical School logo" border="0"></a>
+      			<a href="http://hms.harvard.edu/" target="_blank"><img src="/_images/logo_harvard.jpg" alt="Harvard Medical School logo" border="0"></a>
     
       			<a href="http://www.partners.org" target="_blank"><img src="/_images/logo_partners.jpg" alt="Partners Healthcare logo" border="0"></a>
     
@@ -1158,7 +1245,6 @@ This page was last modified on 10/19/2011
 </script> 
 
 <!--end bwh urchin web reporting-->
-
 
 
 </body></html>
