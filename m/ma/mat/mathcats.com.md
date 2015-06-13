@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mathcats.com privacy policy that was archived on 2014-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140929100809id_/http%3A//www.mathcats.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mathcats.com privacy policy that was archived on 2015-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150613234836id_/http%3A//www.mathcats.com/privacypolicy.html) for the most accurate reproduction.*
 
 # math cats privacy policy
 
