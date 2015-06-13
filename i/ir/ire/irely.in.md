@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the irely.in privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120050441id_/http%3A//www.irely.in/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the irely.in privacy policy that was archived on 2015-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150613022244id_/http%3A//www.irely.in/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
 
 # Privacy Policy - Buy Online in Hyderabad and Bangalore
 
