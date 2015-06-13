@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the screencast.com privacy policy that was archived on 2014-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141201101312id_/http%3A//www.screencast.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the screencast.com privacy policy that was archived on 2015-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150613095456id_/http%3A//www.screencast.com/privacy.aspx) for the most accurate reproduction.*
 
 # TechSmith | Screencast.com, online video sharing, Privacy Policy
 
-**Effective Date: February 26, 2013**
+**Effective Date: May 18, 2015**
 
-TechSmith Corporation ("TechSmith") values your privacy and TechSmith desires to ensure your experience with TechSmith and its subsidiaries and related companies (collectively "TechSmith", "we," "our" or "us") and all our websites and all our related subdomains (the "Sites") and all our products, mobile applications, software, blogs, forums, channels and sharing and quizzing services (collectively with the Sites, the "Services") are as satisfying and safe as possible. In that regard, we have established for the Sites and/or Services the following privacy policy to explain and describe what personal information TechSmith collects on our Sites and/or Services, how TechSmith uses it and your options regarding information TechSmith may collect about you. By accepting this Privacy Policy, you expressly consent to the information handling practices described in this Policy. This Privacy Policy is a part of and incorporated into TechSmith's Terms of Use and End user License Agreements associated with its Sites and/or Services. In addition, by accepting this Privacy Policy you expressly represent: (a) that you are over the age of 18 and/or not considered a minor in the jurisdiction for which you reside; or (b) that you are a parent or guardian of a minor child and you who have expressly consented to handling of the minor's personal information as described in this Policy; or (c) that you are a school, district and/or teacher which has contracted with TechSmith to collect Personal Information of your students. Your continued use of our Sites and/or Services or any other content, products or other services covered by this Policy constitutes your acceptance and agreement to this Policy and any updates.
+TechSmith Corporation (“TechSmith”) values your privacy and TechSmith desires to ensure your experience with TechSmith and its subsidiaries and related companies (collectively “TechSmith”, “we,” “our” or “us”) and all our websites and all our related subdomains (the “Sites”) and all our products, mobile applications, software, blogs, forums, channels and sharing and quizzing services (collectively with the Sites, the “Services”) are as satisfying and safe as possible. In that regard, we have established for the Sites and/or Services the following privacy policy to explain and describe what personal information TechSmith collects on our Sites and/or Services, how TechSmith uses it and your options regarding information TechSmith may collect about you. By accepting this Privacy Policy, you expressly consent to the information handling practices described in this Policy. This Privacy Policy is a part of and incorporated into TechSmith’s Terms of Use and End user License Agreements associated with its Sites and/or Services. In addition, by accepting this Privacy Policy you expressly represent: (a) that you are over the age of 18 and/or not considered a minor in the jurisdiction for which you reside; or (b) that you are a parent or guardian of a minor child and you who have expressly consented to handling of the minor’s personal information as described in this Policy; or (c) that you are a school or a school district which has contracted with TechSmith to collect Personal Information of your students for the educational context authorized by your school or your school district. Your continued use of our Sites and/or Services or any other content, products or other services covered by this Policy constitutes your acceptance and agreement to this Policy and any updates.
 
 ### Contacting Us
 
@@ -42,13 +42,11 @@ We may use a variety of methods, including "cookies" to collect information.
 
 #### What is a cookie? 
 
-Cookies are text files containing small amounts of information which are downloaded to your device when you visit a website. Cookies are then sent back to the originating website on each subsequent visit, or to another website that recognizes that cookie. Cookies are useful because they allow a website to recognize a user's device. You can find more information about cookies at: [www.allaboutcookies.org](http://www.allaboutcookies.org/) and [http://www.youronlinechoices.com/uk/.](http://www.youronlinechoices.com/uk/)
+Cookies are text files containing small amounts of information which are downloaded to your device when you visit a website. Cookies are then sent back to the originating website on each subsequent visit, or to another website that recognizes that cookie. Cookies are useful because they allow a website to recognize a user’s device. You can find more information about cookies at: [www.allaboutcookies.org](https://web.archive.org/web/20150613095456id_/http%3A//www.screencast.com/www.allaboutcookies.org).
 
-For a video about cookies visit [www.google.co.uk/goodtoknow/data-on-the-web/cookies](http://www.google.co.uk/goodtoknow/data-on-the-web/cookies)
+Cookies do lots of different jobs, like letting you navigate between pages efficiently, remembering your preferences, and generally improve the user experience. They can also help to ensure that advertisements you see online are more relevant to you and your interests.
 
-Cookies do lots of different jobs, like letting you navigate between pages efficiently, remembering your preferences, and generally improve the user experience. They can also help to ensure that advertisements you see online are more relevant to you and your interests. 
-
-The cookies used on our Sites and/or Services have been categorized based on the categories found in the ICC UK Cookie guide. A list of all the cookies used on our Sites and/or Services by category is set out below. 
+The cookies used on our Sites and/or Services have been categorized based on the categories found in the ICC UK Cookie guide. A list of all the cookies used on our Sites and/or Services by category is set out below.
 
 #### Performance Cookies 
 
@@ -64,7 +62,7 @@ TechSmith does not require that you accept cookies and/or you may withdraw your 
 
 #### Opting Out of Cookies 
 
-You can set your browser to notify you when you receive a cookie, giving you the chance to decide whether or not to accept it. You may also change your cookie settings through preference options in our Sites and/or Services, where applicable. We will indicate that upon selecting your preferences, that we will use a cookie to remember your preferences. 
+By using the Sites and Services, you consent to the placement of the cookies referenced above. You can, however, set your browser to notify you when you receive a cookie, giving you the chance to decide whether or not to accept it. You may also change your cookie settings through preference options in our Sites and/or Services, where applicable. We will indicate that upon selecting your preferences, that we will use a cookie to remember your preferences.
 
 TechSmith never gives away information about our users. If you choose to provide Personal Information about yourself, TechSmith will use this information only to communicate directly with you. TechSmith will not sell, rent or otherwise disclose that information to third parties unless such disclosure is necessary for the purposes set forth in this Policy, by law or a policy or notice contained or associated with a specific Site(s) and/or Service(s).
 
@@ -80,9 +78,11 @@ The third party analytics companies who collect information on our Sites and/or 
 
 In addition to our use of technologies as described herein, we may permit certain third party companies to help us tailor advertising that we think may be of interest to you based on your use of TechSmith Sites and/or Services and to otherwise collect and use data about your use of TechSmith Sites and/or Services. For more information about this practice, please see the "Third Party Advertising Technologies" section below. 
 
-You may opt out of the DoubleClick cookie by visiting the [Google advertising opt-out page](http://www.google.com/policies/technologies/ads/) or you may opt out of Google Analytics by visiting the [Google Analytics opt-out page](http://tools.google.com/dlpage/gaoptout). 
+You may opt out of the DoubleClick cookie by visiting the [Google advertising opt-out page](http://www.google.com/policies/technologies/ads) or you may opt out of Google Analytics by visiting the [Google Analytics opt-out page](http://tools.google.com/dlpage/gaoptout).
 
-Google has additional information available about their [Remarketing Privacy Guidelines](http://adwords.google.com/support/aw/bin/answer.py?hl=en&answer=100746), [Policies](http://adwords.google.com/support/aw/bin/answer.py?hl=en&answer=143465), and [Restrictions](http://adwords.google.com/support/aw/bin/answer.py?hl=en&answer=178363).
+Google has additional information available about their [Remarketing Privacy Guidelines](http://adwords.google.com/support/aw/bin/answer.py?hl=en&answer=100746), and Restrictions.
+
+You may view a list of other third party service providers who collect information, and/or opt-out of such collection of information about you, by visiting [www.networkadvertising.org/choices/](https://web.archive.org/web/20150613095456id_/http%3A//www.screencast.com/www.networkadvertising.org/choices/) or [www.aboutads.info/choices/](https://web.archive.org/web/20150613095456id_/http%3A//www.screencast.com/www.aboutads.info/choices/).
 
 ## 2\. How We Use Information
 
@@ -94,11 +94,11 @@ We use your information, including Personal Information to provide you with cust
 
 ### Optimization
 
-We use user information, including Personal Information, behavioral metrics, and other non-personally identifiable information to operate, provide, improve, and maintain our Sites and Services, to develop new products and services, to prevent abuse and fraud, to personalize and display advertisements and other content for you, and for other administrative and internal business purposes.
+We use your information, including Personal Information, behavioral metrics, and other non-personally identifiable information to operate, provide, improve, and maintain our Sites and Services, to develop new products and services, to prevent abuse and fraud, to personalize and display advertisements and other content for you, and for other administrative and internal business purposes.
 
 ### Advertising 
 
-We use user information, including Personal Information, behavioral metrics, geo-location data, demographic data and marketing preferences to personalize and display advertisements and other content for you.
+We use your information, including Personal Information, behavioral metrics, geo-location data, demographic data and marketing preferences to personalize and display advertisements and other content for you.
 
 ### Sharing Features 
 
@@ -106,13 +106,17 @@ We use your information, including Personal Information and any other informatio
 
 We also may allow you to share links to content with users of various third party services (e.g., social networking, search and sharing services). When sharing links using one of these third party services, if you are not already logged in to the third party service, you will need to supply login credentials for it. If you are not a registered user of the third party service, you will need to sign up for it. You are supplying the registration information or login credentials for the third party service directly to that third party, and not to us. By using any of these third party services to share links to content, you permit us to access, use and disclose any information relating to your account on each such third party service (such as your user name and profile information) that is available to us through the third party service, including through its application programming interface (API) pursuant to this Policy.
 
+More Specifically, TechSmith Sites and/or Services may use interfaces with social media sites such as Facebook, LinkedIn, Twitter and others. If you choose to "like" or share information from the TechSmith Sites and/or Services through these services, you should review the privacy policy of that service. If you are a member of a social media site, the interfaces may allow the social media site to connect your site visit to your personally identifiable information resulting in the public display of the same.
+
 ## 3\. When We Disclose Personal Information
 
 We do not share Personal Information with third parties except in the limited circumstances described in this Policy.
 
 ### Service Providers
 
-We may provide Personal Information to third parties for their use in performing internal business functions (e.g., payment processing, customer service, maintenance, security, data analysis, email transmission, beta testing, or data hosting) on our behalf. Additionally, some third party service providers may collect information, including Personal Information, on our behalf. Whenever possible, we require such third-parties to only collect and use Personal Information in accordance with this Policy, to maintain the confidentiality, security, and integrity of such Personal Information, and for no purpose other than providing us with our requested services.
+We may provide Personal Information to third parties for their use in performing internal business functions (e.g., payment processing, customer service, maintenance, security, data analysis, email transmission, beta testing, or data hosting) on our behalf. Additionally, some third party service providers may collect information, including Personal Information, on our behalf. For example, we may use a third party provider to assist us in utilizing data monitoring and scouring technologies to obtain and transmit data on users of illegal copies of some of our products ( i.e. our Camtasia Studio® software product). This data collection is not performed on users of legally licensed products from TechSmith and its authorized distributors. If you are using an illegal copy of our software and do not consent to the collection and transmission of such data (including to the United States), cease using the illegal version and contact us or one of our authorized distributors to obtain a legally licensed copy of the product.
+
+Whenever possible, we require such third-parties to only collect and use Personal Information in accordance with this Policy, to maintain the confidentiality, security, and integrity of such Personal Information, and for no purpose other than providing us with our requested services.
 
 ### Partners
 
@@ -136,11 +140,11 @@ In addition to using cookies and related technologies as described above, we als
 
 ## 5\. Children Under 13
 
-We do not knowingly seek or collect Personal Information from users under the age of 13, except to the extent that TechSmith may collect limited personal information from students (but not their email addresses), **but only where that student's school, district, and/or teacher has contracted with TechSmith to collect the personal information from students for the use and benefit of the learning environment.** Children under 13 years old are not allowed to create an account without a parent's or guardian's express consent. We recommend that minors over the age of 13 ask their parents for permission before sending any information about themselves to anyone over the Internet. 
+We do not knowingly seek or collect Personal Information from users under the age of 13, except to the extent that TechSmith may collect limited personal information from students (but not their email addresses), **but only where that student's school or school district, has contracted with TechSmith to collect the personal information from students for the educational context authorized by the school or school district**. Children under 13 years old are not allowed to create an account without a parent’s or guardian's express consent. We recommend that minors over the age of 13 ask their parents for permission before sending any information about themselves to anyone over the Internet.
 
-We require schools, districts, and/or teachers to obtain parental or guardian consent from a students' parent or guardian before collecting any such student Personal Information. If you are a student, please do not send any Personal Information about yourself to us, other than what we request from you when you sign up for any of our Sites and/or Services. In the event that we learn that we have collected personal information from a student without parental consent being obtained by his or her school, district, and/or teacher, or if we learn a student has provided us Personal Information beyond what we request when he or she signs up for any of our Sites and/or Services, we will delete that information as quickly as possible. If you believe that a student may have provided us Personal Information beyond what is requested when signing up for any of our Sites and/or Services, or that a student's school, district, or teacher has not obtained parental consent, please contact us at [privacy@techsmith.com](mailto:privacy@techsmith.com). 
+We require schools or school districts to obtain parental or guardian consent from a students' parent or guardian before collecting any such student Personal Information. If you are a student, please do not send any Personal Information about yourself to us, other than what we request from you when you sign up for any of our Sites and/or Services. In the event that we learn that we have collected personal information from a student without parental or guardian consent being obtained by his or her school or school district, or if we learn a student has provided us Personal Information beyond what we request when he or she signs up for any of our Sites and/or Services, we will delete that information as quickly as possible. If you believe that a student may have provided us Personal Information beyond what is requested when signing up for any of our Sites and/or Services, or that a student's school or school district has not obtained parental or guardian consent, please contact us at [privacy@techsmith.com](mailto:privacy@techsmith.com).
 
-Notwithstanding anything to the contrary contained in this Policy, if you are a student as described above, and your parent or guardian signed up for our Sites and/or Service with a password or access ID provided by your teacher, you understand that your parent or guardian may be able to view all information within or associated with your account, including, without limitation, messages between you and your teacher and grades you received on your assignment. 
+Notwithstanding anything to the contrary contained in this Policy, if you are a student as described above, and your parent or guardian signed up for our Sites and/or Service with a password or access ID provided by your school, you understand that your parent or guardian may be able to view all information within or associated with your account, including, without limitation, messages between you and your teacher and grades you received on your assignment.
 
 Users under 13 years of age who are not students as described above, your continued use of the Site and/or Service will be considered by TechSmith as confirmation that your parent or guardian has expressly consented to the handling of your personal information as described in this Policy as further indicated in the opening paragraph of this Policy. 
 
@@ -152,7 +156,7 @@ If you do not want to submit Personal Information that is necessary to provide o
 
 ### Editing Personal Information
 
-You may, at any time, update, correct, or delete certain Personal Information that you have provided to us by updating your preferences on the Account Settings page or by contacting us at the mailing or email address provided set forth in this Policy.
+You may, at any time, update, correct, or delete certain Personal Information that you have provided to us by updating your preferences on the Account Settings page or by contacting us at the mailing or email address set forth in this Policy.
 
 ### Marketing Choices
 
@@ -186,9 +190,29 @@ By using any third party services to log in to your TechSmith account or access 
 
 TechSmith's content, including forums contests, products, services, newsletters and communications that we send to our users, may contain links to content provided by third-parties. For example, our communications may contain links to third party merchants ( i.e. Digital Juice) from whom you may purchase products. To purchase products from these third party merchants, you may be required to provide Personal Information, including your credit card or other payment information.
 
+Some of TechSmith’s products and services (e.g. TechSmith’s Snagit® for Windows® and Mac®, Camtasia Studio®, Camtasia® for Mac®, the TechSmith Relay® Self-Hosted applications, to name a few) interface or integrate with third party storing, sharing, and access sites and services such as Microsoft’s OneDrive® site and services, and others. If you choose to store, share, or access files, content or information which may include personally identifiable information (collectively “content”) you create using TechSmith’s products and services through these services, you should review the privacy policy of that service. For example, if you desire to store, share or access your content created with TechSmith’s Snagit® application through the Snagit® Microsoft’s OneDrive® site and services integrated feature, you should review TechSmith’s Privacy Policy, and you should also review Microsoft’s [OneDrive Privacy Statement](http://www.microsoft.com/privacystatement/en-us/windowsservices/default.aspx), in particular, Microsoft’s Privacy Statement sections titled [OneDrive](http://www.microsoft.com/privacystatement/en-us/windowsservices/default.aspx) and [Where Information is Stored and Processed](http://www.microsoft.com/privacystatement/en-us/core/default.aspx?PrintView=true) as your content will be collected, processed and/or stored by TechSmith and/or the third party provider, in this case Microsoft, in the United States and/or other countries. By directly using TechSmith product’s integration with the Microsoft’s OneDrive® site and services, you expressly consent to your content being shared with both TechSmith and Microsoft and such data will be subject to TechSmith’s Privacy Policy and [Microsoft OneDrive Privacy Statement](http://www.microsoft.com/privacystatement/en-us/windowsservices/default.aspx), and available for use with your TechSmith and Microsoft accounts.
+
+[Learn More ›](https://www.techsmith.com/third-party-services.html)
+
 ## 12\. California Privacy Rights
 
 In addition to the rights set forth in this Privacy Policy, California Civil Code Section 1798.83 permits California residents who are individual consumers or users of TechSmith Sites and/or Services or services to request certain information regarding its disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please contact us via mail or email at the address identified in the "Contacting Us" section.
+
+### TechSmith’s California Do Not Track Notice
+
+TechSmith tracks its customers over time and across third party websites to provide targeted advertising. We do not respond to Do Not Track (“DNT”) signals of web browsers.
+
+DNT is a preference you can set in your web browser to inform websites that you do not want to be tracked.
+
+You can enable or disable DNT by visiting the Preferences or Settings page of your web browser.
+
+However, should the industry establish uniform technological standards for recognizing and implementing “Do Not Track” signals, we would be open to following such industry standards.
+
+Third parties that have content embedded on TechSmith’s Sites and/or Services such as Google, Inc., Digital River, Inc., Salesforce.com, Inc., Qualtrics, LLC, Channeltivity, LLC, Facebook, Inc. Twitter, Inc., LinkedIn, Inc., Silver Pop, UserZoom INC, UserZoom Limited, UserZoom GmbH and UserZoom Technologies SL, may set cookies on a user’s browser and/or obtain information about the fact that a web browser visited a specific TechSmith Site and/or Service from a certain IP address. Third parties cannot collect any other Personal Information from TechSmith’s Sites and/or Services unless you provide it to them directly.
+
+### Notice for Minors
+
+TechSmith offers interactive Sites and/or Services which allow you to post content to share publicly or with friends. At any time you can delete or remove content you have posted using the deletion or removal options within our Sites and/or Services. If you have questions about how to remove content in a specific Site and/or Service or if you would like additional assistance with deletion, you can contact our TechSmith Support team directly at support@techsmith.com. Although we offer deletion capability for our Sites and/or Services, you should be aware that the removal of content may not ensure complete or comprehensive removal of that content or information posted through the Sites and/or Services.
 
 ## 13\. Changes and Updates to This Policy
 
@@ -198,15 +222,15 @@ We encourage you to review this Policy periodically to stay informed about our c
 
 ## 14\. International Users & U.S.-EU Switzerland Safe Harbor 
 
-TechSmith Sites and/or Services may be hosted in the United States. If you utilize our Sites and/or Services from the European Union or Switzerland, or any other region with laws governing data collection and use that may differ from U.S. law, please note that you are transferring your personal data outside of those jurisdictions to the United States. The United States does not have the same data protection laws as the European Union, Switzerland and other regions. By providing Personal Information under this Policy, you consent to the use of your Personal Information in accordance with this Policy and the transfer of your Personal Information to the United States. 
+TechSmith Sites and/or Services may be hosted in the United States. If you utilize our Sites and/or Services from the European Union or Switzerland, or any other region with laws governing data collection and use that may differ from U.S. law, please note that you may be transferring your personal data outside of those jurisdictions to the United States. The United States does not have the same data protection laws as the European Union, Switzerland and other regions. By providing Personal Information under this Policy, you consent to the use of your Personal Information in accordance with this Policy and the transfer of your Personal Information to the United States.
 
-The Personal Information practices set out in this Privacy Policy apply to all TechSmith Sites and/or Services, and customers worldwide. You have a right of access and to correct such data and/or Personal Information. To exercise these rights, or for other data privacy questions, please contact/send an email to [privacy@TechSmith.com](mailto:privacy@TechSmith.com). 
+The Personal Information practices set out in this Privacy Policy apply to all TechSmith Sites and/or Services, and customers worldwide. You have a right of access and to correct such data and/or Personal Information. To exercise these rights, or for other data privacy questions, please contact/send an email to [privacy@techsmith.com](mailto:privacy@techsmith.com).
 
 TechSmith is committed to complying with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. TechSmith has certified that it is committed to adhere to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view TechSmith's certification, please visit <http://www.export.gov/safeharbor/>. 
 
 ## 15\. Enforcement 
 
-TechSmith regularly reviews its compliance with this Privacy Policy. Please feel free to direct any questions or concerns regarding this Policy or TechSmith's treatment of Personal Information by contacting us through this Site(s) and/or Service(s) at privacy@TechSmith.com or by writing to us at Privacy Group, c/o TechSmith Corporation, 2405 Woodlake Drive, Okemos, MI 48864, USA. When TechSmith receives a formal written complaint at this address, it is TechSmith's policy to contact the complaining party regarding his or her concerns. TechSmith will cooperate with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints regarding the transfer of personal data that cannot be resolved by TechSmith and an individual. 
+TechSmith regularly reviews its compliance with this Privacy Policy. Please feel free to direct any questions or concerns regarding this Policy or TechSmith's treatment of Personal Information by contacting us through this Site at privacy@TechSmith.com or by writing to us at Privacy Group, c/o TechSmith Corporation, 2405 Woodlake Drive, Okemos, MI 48864, USA. When TechSmith receives a formal written complaint at this address, it is TechSmith's policy to contact the complaining party regarding his or her concerns. TechSmith will cooperate with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints regarding the transfer of personal data that cannot be resolved by TechSmith and an individual.
 
 ## 16\. No Error Free Performance 
 
