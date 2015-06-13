@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the 2chopsticks.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120204603id_/http%3A//2chopsticks.com/index.php%3Fview%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 2chopsticks.com privacy policy that was archived on 2015-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150614005255id_/http%3A//2chopsticks.com/index.php%3Fview%3Dprivacy) for the most accurate reproduction.*
 
-# Others, International - 2ChopSticks.com - Asia Digital Online FREE Classifieds Ads site. Post Online Free Classifieds Ads today and last 120 days.
+# 2ChopSticks.com - Asia Digital Online FREE Classifieds Ads site. Post Online Free Classifieds Ads today and last 120 days.
 
   | 
 
