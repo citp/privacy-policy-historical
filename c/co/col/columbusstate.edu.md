@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the columbusstate.edu privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121105143id_/https%3A//webs.columbusstate.edu/web_privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the columbusstate.edu privacy policy that was archived on 2015-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150614005415id_/https%3A//webs.columbusstate.edu/web_privacy_policy.php) for the most accurate reproduction.*
 
 # Web Privacy Policy
 
