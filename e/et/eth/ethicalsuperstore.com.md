@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the ethicalsuperstore.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120164521id_/http%3A//www.ethicalsuperstore.com/help-privacy-and-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ethicalsuperstore.com privacy policy that was archived on 2015-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150613232537id_/http%3A//www.ethicalsuperstore.com/help-privacy-and-security) for the most accurate reproduction.*
 
-# Help - Privacy & Security
+# Help - Privacy &amp; Security
+
+* * *
 
 ### Privacy Policy
 
@@ -10,7 +12,7 @@ From time to time, we may add or change functions, features or products to the S
 
 Please to refer to the Privacy Policy within the Terms and conditions regularly to review any amendments. 
 
-[back to questions](http://www.ethicalsuperstore.com/help/)
+[back to questions](https://web.archive.org/help/)
 
 ### Verified by Visa
 
@@ -24,7 +26,7 @@ If you have already registered, you will be required to use your password on fut
 
 If you would like to learn more about these services or have any difficulty with the process, please contact your card issuer who should be able to assist you, as Ethicalsuperstore.com are unfortunately not able to help. Alternatively, you can always place your order by calling our Customer service team.
 
-[back to questions](http://www.ethicalsuperstore.com/help/)
+[back to questions](https://web.archive.org/help/)
 
 ### Email Subscription and Mailing Preferences
 
@@ -48,7 +50,7 @@ We may also disclose specific personal information about you if required by law,
 
 You have the right to see what personal data we hold about you. To obtain a copy of the personal information we hold about you, please write to us at Spark Etail, Follingsby Avenue, Follingsby Park, Gateshead, NE10 8HQ. Please note that we reserve the right to charge a fee of up to £10 for any such request. 
 
-[back to questions](http://www.ethicalsuperstore.com/help/)
+[back to questions](https://web.archive.org/help/)
 
 ### Security
 
@@ -61,7 +63,7 @@ We take the security of your personal information very seriously. We want you to
 
 
 
-[back to questions](http://www.ethicalsuperstore.com/help/)
+[back to questions](https://web.archive.org/help/)
 
 ### Cookies 
 
@@ -99,7 +101,19 @@ Google uses cookies to serve you relevant advertisements based on your recent se
 
 Google Adwords, MSN/Bing, and Yahoo use cookies to track our own paid advertising activity. We use the information collected by these cookies to help us determine where our ads will be most effective online. Each individual advertiser uses its own tracking cookies and the data taken is not confidential data or interchangeable.
 
- **Facebook**  
+ **Criteo**
+
+Criteo is an advertising network which uses cookies to display Ethical Superstore products similar to those you and other customers have recently viewed on the Ethical Superstore site in ad banners on participating websites.  
+Criteo "tags" visitors with anonymous browser cookies. Users tagged by Criteo are given an anonymous identifier. At no point does Criteo collect personal data, such as your name or address.  The browser cookies track the products viewed by the visitor and pages visited of ethicalsuperstore.com, for whom Criteo is delivering ads.
+
+Persistent cookies are used to run their technology as they enable Criteo to track and target the interests of our users to enhance the experience on our website. Persistent cookies remain on your hard drive for an extended period of time.
+
+Criteo's partners' advertisements are displayed on many websites: publishers. These publishers may also place cookies in your browser. These cookies are there so that the publishers recognise that Criteo has a personalized advertisement available for your browser.
+
+ _Opt out_  
+If you do not want to receive ads displayed by Criteo, you can disable the display of Criteo ads  here, under the User Choices section. - See more at: <http://www.criteo.com/privacy/>
+
+**Facebook**  
 Cookies and pixels are used to understand and deliver ads and make them more relevant to you. We may also use a cookie to learn whether someone who saw an ad on Facebook later visited our website.  
 Facebook website and mobile Custom Audiences use code that we place on our site to deliver targeted ads through Facebook Custom Audiences. Visit Facebook to find out more about Facebook custom audiences. 
 
@@ -132,6 +146,3 @@ Our website may contain links to other websites that are outside our control and
 ### Amendments 
 
 Please note that this privacy policy is subject to change from time to time. It was last updated 29/07/2014 
-
-© Copyright 2004-2014 Spark Etail Ltd, registered in England & Wales No. 7551349. All rights reserved.  
-Registered office: Follingsby Avenue, Follingsby Park, Gateshead, NE10 8HQ. For more information see [about us](http://www.ethicalsuperstore.com/about-us/ "Read about Ethical Superstore and find out who we are and what we do!") or browse our [sitemap](http://www.ethicalsuperstore.com/sitemap/ "Browse our sitemap").
