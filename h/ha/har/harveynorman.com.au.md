@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the harveynorman.com.au privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230085417id_/http%3A//www.harveynorman.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the harveynorman.com.au privacy policy that was archived on 2015-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150613211456id_/http%3A//www.harveynorman.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Harvey Norman Australia
 
