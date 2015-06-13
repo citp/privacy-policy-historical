@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the inspiringtravellers.com privacy policy that was archived on 2014-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141204081340id_/http%3A//inspiringtravellers.com/terms-and-conditions) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inspiringtravellers.com privacy policy that was archived on 2015-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150614004941id_/http%3A//inspiringtravellers.com/terms-and-conditions) for the most accurate reproduction.*
 
-# Terms and Conditions / Privacy Policy - InspiringTravellers.com | InspiringTravellers.com
+# Terms and Conditions / Privacy Policy | InspiringTravellers.com
 
 Welcome to our website. **If you continue to browse and use this website you are agreeing to comply with and be bound by the following terms and conditions of use** , which together with our privacy policy govern InspiringTravellers.com’s relationship with you in relation to this website. The term ‘InspiringTravellers.com’ or ‘us’ or ‘we’ refers to the owner of the website. The term ‘you’ refers to the user or viewer of our website.
 
@@ -87,4 +87,4 @@ We will not sell, distribute or lease your personal information to third parties
 
 _Updated 18  October 2014_
 
-[](http://travelblogsuccess.com/?ref=423 "Travel Blog Success")
+Tips, Inspiration and new updates, delivered directly to your inbox! 
