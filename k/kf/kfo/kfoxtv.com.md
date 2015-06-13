@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kfoxtv.com privacy policy that was archived on 2014-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141125092101id_/http%3A//www.kfoxtv.com/station/features/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kfoxtv.com privacy policy that was archived on 2015-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150614010032id_/http%3A//kfoxtv.com/station/features/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - KFOX - KFOX14 - Breaking News, Weather, and Traffic - El Paso
 
