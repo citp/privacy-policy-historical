@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the netcomponents.com privacy policy that was archived on 2014-11-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141120094454id_/http%3A//www.netcomponents.com/privacy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the netcomponents.com privacy policy that was archived on 2015-06-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150613095131id_/http%3A//www.netcomponents.com/privacy.htm) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
 <title>netCOMPONENTS: Privacy Policy
@@ -25,12 +25,21 @@
 <meta name="y_key" content="81d8cee226214bad">
 <meta name="yandex-verification" content="4a3ffa86b60e7f1d">
 
+<link rel="stylesheet" href="/css/nc.css?ver=2015.162.135844175" media="all">
+<link rel="stylesheet" href="/common/1/jquery-ui.min.css?ver=2015.162.135844" media="all">
+<link rel="stylesheet" href="/1/include/qtip.css?ver=2015.162.135844" media="all">
+<link rel="stylesheet" href="/1/include/nc_p.css?ver=2015.162.135844" media="print">
 
-<link rel="stylesheet" href="/css/nc.css?ver=2014.323.15513175" media="all">
-<link rel="stylesheet" href="/css/nc_p.css?ver=2014.323.15513175" media="print">
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/common/1/jquery.js?ver=2015.162.135844"></script>
+<script type="text/javascript" src="/common/1/jquery-ui.js?ver=2015.162.135844"></script>
+<script type="text/javascript" src="/common/1/jquery.qtip.js?ver=2015.162.135844"></script>
+<script type="text/javascript" src="/common/1/include/std.js?ver=2015.162.135844"></script>
+<script type="text/javascript" src="/common/1/include/popups.js?ver=2015.162.135844"></script>
 
-	
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
+<script type="text/javascript" src="/common/1/jquery.history.js?ver=2015.162.135844"></script>
+
+
+<script type="text/javascript">
 nxtLvl   = 1;
 forFocus = '';
 suid     = '';
@@ -38,6 +47,9 @@ sesLng   = '';
 sLang    = 'en';
 iPSADelay= 500;
 regexpEmail = /^(([-a-z0-9_'\(\)\/&~!`\$]+\.)*[-a-z0-9_ '\(\)\/&~!`\$]*[-a-z0-9_\.][a-z0-9]|[a-z0-9])@(([a-z0-9][-a-z0-9_]*[a-z0-9]|[a-z0-9])\.)+[a-z]{2,}$/i;
+(nxtLvl > 1) ? popup = "_popup" : popup = "";
+var closeVerb = 'Close Window';
+var popupLevel = 0;
 
 waitIsOver = false;
 window.setTimeout('turnon()',3500);
@@ -49,12 +61,49 @@ function turnon() {
 		return;
 	}
 }
-</script>
-<script type="text/javascript" src="/common/1/include/std.js"></script>
-<script type="text/javascript" src="/common/1/include/layers.js"></script>
-<script type="text/javascript" src="/common/1/include/ajax.js"></script>
-<script type="text/javascript" src="/common/1/jquery.js"></script>
 
+$(document).ready(function() {
+
+	attachTitleTip($('[title]'));
+
+	$("div.mbrsup-logout>a").click(function( event ) {
+		openModalNotifyWide('login.htm?int=1&url='+encodeURIComponent($(this).attr('href')));
+		event.preventDefault();
+	});
+
+	$("a#login_lnk").click(function(){
+		openModalNotifyWide('login.htm?int=1');
+	});
+	$("div.flags a").each(function() {
+		$this = $(this);
+		attachHoverTip($this, 'key.htm?nat=1&lang='+$this.attr("data-lang"), 'qtip-ptnote');
+	});
+
+	$("a.prevlogin_lnk").click(function(){
+		openModalNotifyWide('login_history.htm?int=1');
+	});
+	var cssW = parseInt($("div.page_wrapper").css("min-width"));
+	var ftrW = $(".footer").width()+195;
+	var minW = (cssW > ftrW) ? cssW : ftrW;
+	$("div.page_wrapper").css("min-width", (minW) + 'px');
+	
+
+	$(".lang_flag.has_tip").each(function() {
+		$this = $(this);
+		attachStaticHoverTip($this, $this.attr("data-language"), 'qtip-ptnote');
+	});
+
+});
+</script>
+
+
+
+<script type="text/javascript">
+// do not throw prompt just close popup
+function cncl(){
+   closeModalForced();
+}
+</script>
 
 <script type="text/javascript">
   var _gaq = _gaq || [];
@@ -72,57 +121,108 @@ function turnon() {
 
 
 
-<body onload="doOnLoad()" style="">
-<div class="main_header">
+<body class="body_base" onload="doOnLoad()">
+	<div id="wndw_modal"><iframe></iframe></div>
 
-	<div class="banner_ad">
-		<iframe id="divad" bgcolor="#000000" vspace="0" hspace="0" marginwidth="0" marginheight="0" frameborder="0" height="60" scrolling="no" src="/adbnr.htm"></iframe>
-	</div>
-	
-	<div class="logo">
-	
-		<a href="/">
-	<img src="/img/netcomp_top_en.png" alt="netCOMPONENTS: Electronic Component Sourcing">
-		</a>
-	
-	</div> <!-- logo -->
+<div class="page_wrapper">
+	<div class="top_header_bar">
 
-</div>  <!-- main_header -->
+		<div class="login"><a id="login_lnk">Login</a></div>
 
-<div class="info_hdr">
-			<div id="netcomp_partsrt" style="width: 280px;">
-			
-			</div>
-
-			<div class="mbrsup-blank"><span></span><a href="http://www.netcomponents.com/upload.htm">Suppliers</a></div>
-			<div class="mbrsup-blank"><span></span><a href="http://www.netcomponents.com/search.htm">Members</a></div>
-
-
-</div>
-<div class="clr"></div>
-
-
-<div id="temptext" style="display: none;">
-	<div class="main">
-		<div id="tmp_loading">
-			Loading ...
+		<div class="resources std_dropdown_menu"><span>▼</span> Resources
+			<ul class="resource_list">
+				<li><a onclick="tabOpen('http://www.datasheetlocator.com');">Datasheet Locator</a></li>
+				<li><a onclick="openModalNotifyWide('curconv.htm');">Currency Converter</a></li>
+				<li><a onclick="openModalStd('browsers.htm');">Supported Browsers</a></li>
+			</ul>
 		</div>
-	</div>
-	<div class="netcomp_bottom">&nbsp;</div>
+
+		<div class="chat"><style type="text/css">
+  div.info_hdr div.livehelp { width: auto; margin: 0 0 0 0;	padding: 0px;	height: 22px;	width: 118px }
+  #lhnContainerDone { margin-left: 0px; padding: 0px; margin: 0px; align: left }
+  #lhnContainerDone #lhnChatButton { padding: 0px; margin: 0px; align: left; }
+  #lhnContainerDone #lhnChatButton img#lhnchatimg { vertical-align: top; align: left; border: 0; margin: 0px; }
+</style>
+<div class="livehelp">
+<script>
+function CustomOpenLHNChat(){
+  var wleft = (screen.width - 580-32) / 2;
+  var wtop = (screen.height - 420 - 96) / 2;
+  window.open('http://chat.netcomponents.com/lhn/livechatvisitor.aspx?zzwindow=22602&lhnid=20082', 'lhnchat', 'left=' + wleft + ',top=' + wtop +',width=580,height=435,toolbar=no,location=no,directories=no,status=yes,menubar=no,scrollbars=no,copyhistory=no');
+}
+</script>
+<script type="text/javascript">
+  var lhnAccountN = "20082-1";
+  var lhnButtonN = 7080;
+  var lhnChatPosition = 'default';
+  var lhnInviteEnabled = 1;
+  var lhnWindowN = 22602;
+  var lhnDepartmentN = 0;
+  var lhnJsHost = "http://";
+</script>
+<a href="http://www.livehelpnow.net/products/live-chat-system" target="_blank" style="font-size:10px;" id="lhnHelp"><!--Chat Support Software--></a>
+<script src="//www.livehelpnow.net/lhn/widgets/chatbutton/lhnchatbutton-current.min.js" type="text/javascript" id="lhnscript"></script>
+</div>
 </div>
 
-<div class="main">
-	<div id="nav_sidebar">
-		<div class="menu_item6"><a href="http://www.netcomponents.com/">Home</a></div>
-<div class="menu_item"><a href="http://www.netcomponents.com/info.htm">Information</a></div>
-<div class="menu_item6"><a href="http://www.netcomponents.com/contact.htm">Contact Us</a></div>
-<div class="menu_item6"><a href="http://www.netcomponents.com/pwd.htm">Forgot My Password</a></div>
-<div class="menu_item6"><a href="https://www.netcomponents.com/login.htm">Login</a></div>
-<div class="menu_item"><a href="http://www.netcomponents.com/terms.htm">Terms Of Use</a></div>
-<div class="menu_item6" id="menuItemSelected"><a href="http://www.netcomponents.com/privacy.htm">Privacy Policy</a></div>
 
-	</div><!-- sidebar -->
-	<div class="content" id="main_content"><div class="page_heading" style="margin-bottom: 8px;"><h1 class="pgTtl">Privacy Policy</h1></div><p class="txt_margin">Online privacy concerns focus on the protection of "registration and usage" information which a member or supplier (collectively, "members and suppliers" or "members or suppliers") reasonably expects to be kept private. As the term suggests, registration and usage information is information which can be associated with a specific individual or entity, including, for example, a member's name, address, or telephone number, e-mail address and information about online activities that are directly linked to them.</p>
+	</div>
+	<div class="main">
+		<div class="main_header">
+			<div class="banner_ad">
+				<iframe id="divad" bgcolor="#000000" vspace="0" hspace="0" marginwidth="0" marginheight="0" frameborder="0" height="60" scrolling="no" src="/adbnr.htm"></iframe>
+			</div>
+			
+			<div class="logo">
+
+				<a href="/">
+<img src="/img/netcomp_top_en.png?ver=3" alt="netCOMPONENTS: Electronic Component Sourcing">
+				</a>
+
+			</div> <!-- logo -->
+
+		</div>  <!-- main_header -->
+
+
+		<div class="info_hdr">
+			<table>
+				<tbody><tr>
+
+					<td class="langs">
+						<div class="flags" data-clicked="0">
+							<table><tbody><tr>
+<td><a id="langflag_es" href="/es/privacy.htm" data-lang="es"></a></td><td><a id="langflag_fr" href="/fr/privacy.htm" data-lang="fr"></a></td><td><a id="langflag_de" href="/de/privacy.htm" data-lang="de"></a></td><td><a id="langflag_it" href="/it/privacy.htm" data-lang="it"></a></td><td><a id="langflag_nl" href="/nl/privacy.htm" data-lang="nl"></a></td><td><a id="langflag_po" href="/po/privacy.htm" data-lang="po"></a></td><td><a id="langflag_ru" href="/ru/privacy.htm" data-lang="ru"></a></td><td><a id="langflag_ja" href="/ja/privacy.htm" data-lang="ja"></a></td><td><a id="langflag_ch" href="/ch/privacy.htm" data-lang="ch"></a></td><td><a id="langflag_zh" href="/zh/privacy.htm" data-lang="zh"></a></td><td><a id="langflag_ko" href="/ko/privacy.htm" data-lang="ko"></a></td></tr></tbody></table>
+						</div>
+					</td>
+
+					<td class="side_tabs">
+						<div class="side_tabs">
+							<div class="mbrsup">
+								<div class="mbrsup-logout std_dropdown_menu">
+									<a href="search.htm">Members</a>
+								</div>
+								<div class="mbrsup-logout std_dropdown_menu">
+									<a href="upload.htm">Suppliers</a>
+								</div>
+							</div>
+						</div>
+					</td>
+				</tr>
+			</tbody></table>
+		</div>
+
+
+		<div id="temptext" style="display: none;">
+			<div id="tmp_loading" class="">
+				Loading ...
+			</div>
+			<div class="netcomp_bottom">&nbsp;</div>
+		</div>
+
+
+
+	<div class="content " id="main_content">
+<div class="page_heading"><h1 class="pgTtl">Privacy Policy<span class="rght"><a class="img_print" onclick="printWindow();" title="Print This Page"></a><a class="img_fullpage" id="popupFullPageLnk" onclick="fullPage(this);" data-mode="original" title="Expand"></a></span></h1></div><p class="txt_margin">Online privacy concerns focus on the protection of "registration and usage" information which a member or supplier (collectively, "members and suppliers" or "members or suppliers") reasonably expects to be kept private. As the term suggests, registration and usage information is information which can be associated with a specific individual or entity, including, for example, a member's name, address, or telephone number, e-mail address and information about online activities that are directly linked to them.</p>
 
 <p class="txt_margin">It is common practice and often a necessity for companies, governments, or other organizations to collect registration and usage information in order to conduct business and offer services.</p>
  
@@ -133,7 +233,7 @@ function turnon() {
 <p class="txt_margin">Except as otherwise provided herein, netCOMPONENTS will not sell, trade, or disclose to third parties any registration and usage information derived from the registration for, or use of, a netCOMPONENTS online service - including member and supplier names and addresses - without the consent of the member or supplier except as required by subpoena, search warrant, or other legal process, or in the event that such member or supplier may be engaging in unlawful activity, violating our Terms and Conditions of Usage and System Access, or as necessary to perform services for netCOMPONENTS in which the third party agrees to protect your registration and usage information consistently with this privacy policy. Some registration and usage information will, however, be disclosed to other members or suppliers in connection with the normal operation of netCOMPONENTS System as more fully described in our Terms and Conditions of Usage and System Access including, for example, when a member utilizes our system to e-mail a supplier to request pricing information or complete a purchase order and in connection with supplier quality rating submissions. Additionally, the processing of parts searches conducted on the netCOMPONENTS System may involve accessing third party databases via inventory feeds or API's, and inclusion of the user's internet protocol or "IP" address in such calls, resulting in disclosure of the user's IP address to third parties. The use of such IP address information by such third parties is subject to the terms of such third parties' privacy policies. When netCOMPONENTS uses third parties to perform services on its behalf, netCOMPONENTS may request that such third parties protect your registration and usage information consistently with this privacy policy. However, we cannot ensure that all of your registration and usage information will never be disclosed, as regulatory and/or other requirements may make disclosure necessary.</p>
  
 <p class="txt_margin"><strong>Collection and Use:</strong> 
-netCOMPONENTS servers automatically gather information about traffic activity within the netCOMPONENTS web site, including, but not limited to, IP addresses of users, which pages are viewed and which functions are executed. 
+netCOMPONENTS servers automatically gather information about traffic activity within the netCOMPONENTS website, including, but not limited to, IP addresses of users, which pages are viewed and which functions are executed. 
 netCOMPONENTS primarily uses this information only in the aggregate. 
 netCOMPONENTS may collect, store and use registration and usage information as well as other submissions, such as chat content, which may include your name, e-mail address, questions and statements submitted by you for various purposes, including but not limited to, billing purposes, to provide or change service, to anticipate and resolve problems with your service, or to inform you of products and services that better meet your needs. This means that netCOMPONENTS may use your registration and usage information and other submissions, in conjunction with information available from other sources, to market new services that may be of interest to you, but netCOMPONENTS will not disclose your registration and usage or personally identifiable information to third parties who want to market products to you. 
 Additionally, in the event of a reorganization, merger, purchase, or sale netCOMPONENTS may transfer any and all information it collects to the relevant third party.</p>
@@ -155,49 +255,77 @@ netCOMPONENTS may also use registration and usage information, transaction infor
  
 <p class="txt_margin">netCOMPONENTS is sensitive to the privacy, control, use, and security issues surrounding uploaded supplier/seller inventory files. netCOMPONENTS system is designed to prevent inventory files and aggregate inventory information from falling into unauthorized hands. Members have searching/viewing privileges only (they cannot download) and cannot do a sort to bring up aggregate data of a particular supplier. However, "perfect security" is not available on the Internet.</p>
  
-<p class="txt_margin">netCOMPONENTS also provides content at locations other than the netCOMPONENTS web site that give the supplier, if eligible for inclusion, expanded exposure to electronic component buyers and engineers. netCOMPONENTS also takes measures, in these cases, to control the data or otherwise prevent the supplier's aggregate inventory information from falling into unauthorized hands, including providing only limited or partial data that is searchable by part number only.</p>
+<p class="txt_margin">netCOMPONENTS also provides content at locations other than the netCOMPONENTS website that give the supplier, if eligible for inclusion, expanded exposure to electronic component buyers and engineers. netCOMPONENTS also takes measures, in these cases, to control the data or otherwise prevent the supplier's aggregate inventory information from falling into unauthorized hands, including providing only limited or partial data that is searchable by part number only.</p>
 
-<p class="txt_margin">netCOMPONENTS does provide data on part numbers only to select third parties for the purpose of marketing netCOMPONENTS services and driving additional traffic to the netCOMPONENTS web site, which may benefit listing Suppliers. 
+<p class="txt_margin">netCOMPONENTS does provide data on part numbers only to select third parties for the purpose of marketing netCOMPONENTS services and driving additional traffic to the netCOMPONENTS website, which may benefit listing Suppliers. 
 Supplier acknowledges and agrees that part numbers only, when not associated with quantity positions, descriptions, Supplier names or any other inventory file information and not grouped or sorted by Supplier, does not constitute inventory information, and that data on part numbers only, including those of the Supplier, can be provided by netCOMPONENTS.</p>
 
-<p class="txt_margin">Suppliers desiring to not have their inventory data displayed at, and part numbers only data provided to, locations other than the netCOMPONENTS web site for marketing purposes may opt-out by notifying netCOMPONENTS in writing via facsimile or e-mail.</p>
+<p class="txt_margin">Suppliers desiring to not have their inventory data displayed at, and part numbers only data provided to, locations other than the netCOMPONENTS website for marketing purposes may opt-out by notifying netCOMPONENTS in writing via facsimile or e-mail.</p>
 
 <p class="txt_margin">netCOMPONENTS would be pleased to provide, upon request (webmaster@netCOMPONENTS.com) by a supplier, a Nondisclosure Agreement (NDA) in order to provide further assurances regarding the protection of, and use of, the supplier's inventory data by netCOMPONENTS.</p>
  
 <h2 class="privacy_sect">Cookies</h2>
  
-<p class="txt_margin">The netCOMPONENTS web site makes limited use of "cookies" for the purposes of 1) making the member and supplier experience more efficient and secure, and 2) facilitating the gathering of non-specific member and supplier information. A cookie is a commonly used internet standard which stores, in a very small text file on the member or supplier's hard disk, information specific to the member or supplier. Cookie technology prevents access of this information by any web site other than the web site issuing the cookie. The private features of the netCOMPONENTS web site are only accessible when cookies are enabled in the member or supplier's browser. If a member or supplier does not wish to utilize cookie technology, this feature may be disabled within the member or supplier's web browser. However, doing so makes the private features of the netCOMPONENTS web site unavailable through that browser (for as long as cookies are disabled).</p>
+<p class="txt_margin">The netCOMPONENTS website makes limited use of "cookies" for the purposes of 1) making the member and supplier experience more efficient and secure, and 2) facilitating the gathering of non-specific member and supplier information. A cookie is a commonly used internet standard which stores, in a very small text file on the member or supplier's hard disk, information specific to the member or supplier. Cookie technology prevents access of this information by any website other than the website issuing the cookie. The private features of the netCOMPONENTS website are only accessible when cookies are enabled in the member or supplier's browser. If a member or supplier does not wish to utilize cookie technology, this feature may be disabled within the member or supplier's web browser. However, doing so makes the private features of the netCOMPONENTS website unavailable through that browser (for as long as cookies are disabled).</p>
 
-<h2 class="privacy_sect">Other Web Sites</h2>
+<h2 class="privacy_sect">Other Websites</h2>
 
-<p class="txt_margin">netCOMPONENTS' privacy policy only applies to the netCOMPONENTS web site. The netCOMPONENTS web site may link or call from several points throughout it's web site to third party information and service providers who may collect personal information from members or suppliers in order to provide members or suppliers with information or services. Parts search queries may be sent to supplier databases via inventory feeds or API access and your IP addresses may be disclosed to the suppliers in such calls. netCOMPONENTS has no control over the privacy policy of any third party company. Please examine the privacy policies of such third parties prior to submitting any personal information, as they may differ from netCOMPONENTS.</p>
+<p class="txt_margin">netCOMPONENTS' privacy policy only applies to the netCOMPONENTS website. The netCOMPONENTS website may link or call from several points throughout it's website to third party information and service providers who may collect personal information from members or suppliers in order to provide members or suppliers with information or services. Parts search queries may be sent to supplier databases via inventory feeds or API access and your IP addresses may be disclosed to the suppliers in such calls. netCOMPONENTS has no control over the privacy policy of any third party company. Please examine the privacy policies of such third parties prior to submitting any personal information, as they may differ from netCOMPONENTS.</p>
  
-<p class="txt_margin">netCOMPONENTS web site content is also featured on other web sites with differing or non-existent privacy policies. These web sites may collect personal information from their members that may or may not be used in conjunction with netCOMPONENTS site information. Prior to supplying any personal information to any third party company linking to netCOMPONENTS site, please read and understand their privacy policy.</p>
+<p class="txt_margin">netCOMPONENTS website content is also featured on other websites with differing or non-existent privacy policies. These websites may collect personal information from their members that may or may not be used in conjunction with netCOMPONENTS site information. Prior to supplying any personal information to any third party company linking to netCOMPONENTS site, please read and understand their privacy policy.</p>
  
 <h2 class="privacy_sect">Advertisements</h2>
 
-<p class="txt_margin">Advertisements may appear on pages throughout the netCOMPONENTS web site. Some advertisements may request information directly from members or suppliers or take members or suppliers to web sites that may request personal information. netCOMPONENTS has no control over its advertisers' privacy policies, so please examine the privacy policy of any company advertising on netCOMPONENTS site prior to submitting any personal information.</p>
+<p class="txt_margin">Advertisements may appear on pages throughout the netCOMPONENTS website. Some advertisements mayrequest information directly from members or suppliers or take members or suppliers to websites that may request personal information. netCOMPONENTS has no control over its advertisers' privacy policies, so please examine the privacy policy of any company advertising on netCOMPONENTS site prior to submitting any personal information.</p>
  
 <h2 class="privacy_sect">Surveys</h2>
  
-<p class="txt_margin">netCOMPONENTS may conduct supplier quality rating and/or other surveys via the netCOMPONENTS System. Participation in such surveys is completely voluntary and your use of the netCOMPONENTS System constitutes your consent to participation in such surveys and sharing of your registration and usage information with other netCOMPONENTS members or suppliers in connection therewith. The survey may require a member or supplier to provide registration and usage information in exchange for the information or services provided by the survey. netCOMPONENTS also may use this information in an aggregate manner to better tailor the type of services, information, and advertising that are provided on it's web site.</p>
+<p class="txt_margin">netCOMPONENTS may conduct supplier quality rating and/or other surveys via the netCOMPONENTS System. Participation in such surveys is completely voluntary and your use of the netCOMPONENTS System constitutes your consent to participation in such surveys and sharing of your registration and usage information with other netCOMPONENTS members or suppliers in connection therewith. The survey may require a member or supplier to provide registration and usage information in exchange for the information or services provided by the survey. netCOMPONENTS also may use this information in an aggregate manner to better tailor the type of services, information, and advertising that are provided on it's website.</p>
  
 <h2 class="privacy_sect">Policy Changes</h2>
 
-<p class="txt_margin">netCOMPONENTS reserves the right to change its privacy policy by publishing new terms on its web site and your access and use of the netCOMPONENTS web site thereafter constitutes your acknowledgment and acceptance of same. This privacy policy does not create any legal right for you or any third parties.</p>
+<p class="txt_margin">netCOMPONENTS reserves the right to change its privacy policy by publishing new terms on its website and your access and use of the netCOMPONENTS website thereafter constitutes your acknowledgment and acceptance of same. This privacy policy does not create any legal right for you or any third parties.</p>
 
 <h2 class="privacy_sect">Questions?</h2>
  
-<p class="txt_margin">Please direct any questions or comments regarding the netCOMPONENTS privacy policy to <a href="MAILTO:webmaster@netcomponents.com" class="lnk">webmaster@netcomponents.com</a>.</p><p><span class="revision_text">Privacy Policy &nbsp; rev 1.8</span></p>	</div> <!-- content -->
-	<div class="clr"></div>
-</div> <!-- main -->
-<div class="netcomp_bottom">	
-© Copyright 1997-2014 <a href="http://www.netcomponents.com/sitemap/">netCOMPONENTS, Inc.</a>
+<p class="txt_margin">Please direct any questions or comments regarding the netCOMPONENTS privacy policy to <a href="mailto:webmaster@netcomponents.com" class="lnk">webmaster@netcomponents.com</a>.</p><p><span class="revision_text">Privacy Policy &nbsp; rev 1.8</span></p>		</div> <!-- content -->
 
-</div>
+		<div class="netcomp_bottom">
+
+			<div class="footer">
+<div class="ftr_menu_item"><a href="javascript:openModalStd('info.htm?int=1')">Information</a></div>
+<div class="ftr_menu_item"><a href="javascript:openModalStd('contact.htm?int=1')">Contact Us</a></div>
+<div class="ftr_menu_item"><a href="javascript:openModalStd('terms.htm?int=1')">Terms Of Use</a></div>
+<div class="ftr_menu_item">Privacy Policy</div>
+<div class="copy">© Copyright 1997-2015 <a href="http://www.netcomponents.com/sitemap/">netCOMPONENTS, Inc.</a></div>
+
+			</div>
+			<div class="clr"></div>
+		</div>
 
 
+	</div> <!-- main -->
+
+</div> <!-- page_wrapper -->
 <!--GTC:0-->
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 1071410575;
+var google_conversion_language = "en";
+var google_conversion_format = "3";
+var google_conversion_color = "ffffff";
+var google_conversion_label = "3QG9CJfr4gIQj9vx_gM";
+var google_conversion_value = 0;
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="http://www.googleadservices.com/pagead/conversion/1071410575/?label=3QG9CJfr4gIQj9vx_gM&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>
+
 
 <script type="text/javascript">
  waitIsOver = true;
@@ -205,11 +333,6 @@ Supplier acknowledges and agrees that part numbers only, when not associated wit
 
 
 function doOnLoad(){
-	AdjustHeight('nav_sidebar', 'main_content');
-
-	
-	runShowNew();
-
 
 	return;
 }
@@ -232,15 +355,15 @@ function doOnLoad(){
 			return 'autofocus' in i;
 		}
 		
-		document.write('<img style="width:0; height:0; border:0;" alt="" src="http://" & GetApp("SERVER_NAME") & "/common/browser_caps.htm?dilpid=0&amp;js=1&amp;' +
+		document.write('<img style="width:0; height:0; border:0;" alt="" src="//www.netcomponents.com/common/browser_caps.htm?dilpid=0&amp;js=1&amp;' +
 		'cookies=' + (navigator.cookieEnabled ? '1' : '0') + '&amp;' +
 		'swidth=' + screen.width + '&amp;sheight=' + screen.height + '&amp;cdepth=' + 
 		(screen.colorDepth?screen.colorDepth:screen.pixelDepth) + '&amp;vid=' + 
 		(!!document.createElement('video').canPlayType ? '1' : '0') + '&amp;workr=' +
 		(!!window.Worker ? '1' : '0') + '&amp;lstor=' + (suppLocStrg() ? '1' : '0') + '&amp;gloc=' + (!!navigator.geolocation ? '1' : '0') + 
 		'&amp;plchldr=' + (suppInptPlacehldr() ? '1' : '0') + '&amp;autofcs=' + (suppInptAutofocus() ? '1' : '0') + '" />');
-	</script><img style="width:0; height:0; border:0;" alt="" src="http://" &="" getapp("server_name")="" "="" common="" browser_caps.htm?dilpid="0&amp;js=1&amp;cookies=1&amp;swidth=800&amp;sheight=600&amp;cdepth=24&amp;vid=1&amp;workr=1&amp;lstor=1&amp;gloc=1&amp;plchldr=1&amp;autofcs=1&quot;">
-	<noscript><img style="width: 0; height: 0; border: 0;" alt="" src="/common/browser_caps.htm?dilpid=0&amp;js=0&amp;cookies=0&amp;swidth=0&amp;sheight=0&amp;cdepth=0" /></noscript>
+	</script><img style="width:0; height:0; border:0;" alt="" src="//www.netcomponents.com/common/browser_caps.htm?dilpid=0&amp;js=1&amp;cookies=1&amp;swidth=800&amp;sheight=600&amp;cdepth=24&amp;vid=1&amp;workr=1&amp;lstor=1&amp;gloc=1&amp;plchldr=1&amp;autofcs=1">
+	<noscript><img style="width: 0; height: 0; border: 0;" alt="" src="//www.netcomponents.com/common/browser_caps.htm?dilpid=0&amp;js=0&amp;cookies=0&amp;swidth=0&amp;sheight=0&amp;cdepth=0" /></noscript>
 	
 
 </body></html>
