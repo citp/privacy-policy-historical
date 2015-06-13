@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the poppin.com privacy policy that was archived on 2014-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140213092642id_/http%3A//www.poppin.com/Info-Pages/Your-Rights.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the poppin.com privacy policy that was archived on 2015-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150613062820id_/http%3A//www.poppin.com/Info-Pages/Your-Rights.html) for the most accurate reproduction.*
 
 # Your Privacy Rights
 
@@ -133,9 +133,11 @@ We are required by law to provide special notices to people who are visiting us 
 California Civil Code Section 1798.83 permits users of the Site who are California residents to request certain information regarding its disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an e-mail with "California Privacy Rights" in the heading to privacy@poppin.com or write us at:
 
 Poppin Privacy Rights  
-44 West 18th Street  
-Suite 701  
-New York, New York 10011
+
+
+1115 Broadway  
+3rd Floor  
+New York, New York 10010
 
 **
 
