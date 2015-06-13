@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the companies.govt.nz privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120084451id_/http%3A//www.business.govt.nz/companies/resolveUid/8754063355cf7c570aaa4b90cc7fd436) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the companies.govt.nz privacy policy that was archived on 2015-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150613232307id_/http%3A//www.business.govt.nz/companies/resolveUid/8754063355cf7c570aaa4b90cc7fd436) for the most accurate reproduction.*
 
 # Privacy statement | Companies Office The Official Site
 
