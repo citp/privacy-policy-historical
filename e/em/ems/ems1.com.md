@@ -1,172 +1,170 @@
-> *The following text is extracted and transformed from the ems1.com privacy policy that was archived on 2014-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141128021850id_/http%3A//www.ems1.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ems1.com privacy policy that was archived on 2015-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150613174403id_/http%3A//www.ems1.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-**Privacy Policy**
+**PRIVACY POLICY**
 
-This Web site: wwww.ems1.com (“Site”, “EMS1”) is owned and operated by:
+This Web site is owned and operated by:
 
-Praetorian Digital  
-200 Green St., Suite 200  
+Praetorian Digital
+
+200 Green St., Suite 200
+
 San Francisco, CA 94111
 
-We are committed to maintaining your confidence and trust with respect to the information we collect from you. This privacy policy sets forth what information we collect about you, how we use your information, and the choices you have about how we use your information.
+Toll Free: 866/402-4371
 
-EMS1 is dedicated to safeguarding your privacy online. As a policy, we will not sell, share or otherwise misuse your customer information. Your customer information helps us customize EMS1 to your interests and allows us to negotiate valuable member discounts and related services. Please read the following policy to understand how your personal information will be treated as you make full use of our many offerings.
+We are committed to maintaining your confidence and trust with respect to the information we collect from you. This privacy policy applies to [www.EMS1.com](http://www.ems1.com/) (“EMS1”) sets forth what information we collect about you, how we use your information, and the choices you have about how we use your information.
 
-This privacy policy was last updated on 02/07/2014.
+EMS1 is dedicated to safeguarding your privacy online. As a policy, we will not sell or otherwise misuse your personal information. Your personal information helps us customize EMS1 to your interests and allows us to negotiate valuable member discounts and related services. Please read the following policy to understand how your personal information will be treated as you make full use of our many offerings.
 
- 
+This privacy policy was last updated on 05/06/2015
 
-[](https://privacy.truste.com/privacy-seal/Praetorian-Group,-Inc-/validation?rid=548e5fc1-f4f6-4da8-a5d7-e4d37155cfc8 "TRUSTe online privacy certification")
+[](https://privacy.truste.com/privacy-seal/Praetorian-Group,-Inc-/validation?rid=3946de84-0dba-4232-849b-85d0f88e7db0 "TRUSTe online privacy certification")
 
-**Collection of Information Provided By Your Browser And Through Use Of Cookies  and other Tracking Technologies**
+**What personal information does EMS1 collect from me?**
 
-This Site automatically collects information on our server logs from your web browser regarding your use of the Site. Examples of information we collect automatically from all users include the Internet Protocol (“IP”) address used to connect your computer to the Internet; computer and connection information such as browser type and version, operating system, and platform; and full Uniform Resource Locator ("URL") click stream data, including date and time, and content you viewed or searched for on the Site.
+EMS1 collects information in several ways from different parts of our network of web sites.
 
-This Site also collects information through the use of "cookies." Cookies are anonymous, unique alphanumeric identifiers sent to your browser from a web site’s computers and stored on your computer's hard drive. The type of information we collect as a result of a cookie being stored on your computer is specific to your computer. We use “session” cookies to collect information about your use of the Site (e.g., whether you are logged in) and so that you may view articles, abstracts or other records and browse from page to page. These cookies are temporary and are deleted when you close your browser. We use “persistent” cookies to give you a more personalized browsing experience and help you navigate the Site more efficiently.
+Some personal information is gathered when you register. During registration, EMS1 asks all users for your name, date of birth, email address, city, occupation, department information, industry and personal interests.  Once you register you are no longer anonymous to EMS1 - you will select an appropriate EMS1 username and then given access to EMS1's many offerings.
 
-The most common reason for passing a cookie during your session on EMS1 is to remind us of whom you are and to access your account information (stored on our computers) in order to deliver to you a better and more personalized service. This cookie provides your username and password when you register or "Sign In" and is modified when you "Sign Out" of our services. Other submitted personal information such as occupation and city are not linked to cookies.
+In addition to registration we may ask you for personal information (such as the above) at other times, including (but not limited to) when you enter a sweepstakes, contest or promotion sponsored by EMS1 and/or our many partners; when you post a EMS1 Classified ad; when you submit a listing for a web site; and when you report a problem with one of our sites or services. If you contact EMS1 we may keep a record of that correspondence. EMS1 also occasionally asks users to complete surveys that we use for research purposes. Wherever EMS1 collects personal information we include a link to this Privacy Policy on that page.
 
-We also use clear gifs (a.k.a. Web Beacons/Web Bugs), that help us better manage content on our site by informing us what content is effective.  Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users.  In contrast to cookies, which are stored on a user’s computer hard drive, clear gifs are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. We tie the information gathered by clear gifs to our customers’ personal information.
+**What are cookies/tracking technologies and how does EMS1 use them?**
 
-We collect and use, and may from time to time supply third parties with, this information only as anonymous, aggregated user data for the purposes of usage analysis, quality control and administering and improving the Site. Some of our business partners (e.g., advertisers) use cookies on our site. We have no access to or control over these cookies. This privacy statement covers the use of cookies by EMS1.com only and does not cover the use of cookies by any of our advertisers.
+Technologies such as: cookies, beacons, tags and scripts are used by EMS1 and our partners, affiliates, or analytics or service providers. These technologies are used in analyzing trends, administering the site, tracking users’ movements around the site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis.
 
-Our third party partners may also employ clear gifs (a.k.a. Web Beacons/Web Bugs), images, and scripts that help them better manage content on our site. We do not tie the information gathered to our Customers’ or Users’ personal information.
+We use cookies to:
 
-You can prevent your browser from accepting new cookies, have the browser notify you when you receive a new cookie, or disable cookies altogether by accessing your browser’s preferences menu. If you choose to disable cookies altogether, you can use the Site but will not be able to register or make use of the advanced personalization features of the Site, although the basic features and functionality offered to unregistered users of the Site will be possible to use.
+1\. Remind us of whom you are and to access your account information (stored on our computers) in order to deliver to you a better and more personalized service. This cookie passes your username and password when you register or "Sign In" and is modified when you "Sign Out" of our services. Other submitted personal information such as occupation and city are not linked to cookies.
 
-This privacy statement covers the use of cookies by EMS1 only and does not cover the use of cookies by any advertisers.
+2\. Estimate our audience size. Each browser accessing EMS1 is given a unique cookie which is then used to determine the extent of repeat usage, usage by a registered user versus by an unregistered user, and to help target advertisements based on user interests and behavior.
 
-**Collection and Registration of Personal Information**
+3\. Track your progress and number of entries in some of our promotions, sweepstakes and contests. When a EMS1-hosted promotion uses cookies, the information written to the cookie indicates the player's progress through the promotion, and may be used to track entries, submissions, and status in prize drawings.
 
-We sometimes request users of the Site to provide personal information. The information collected from a user is strictly voluntary and may include contact information such as the user’s name, e-mail address, and postal address.
+4\. Measure certain traffic patterns, which areas of EMS1's network of web sites you have visited, and your visiting patterns in the aggregate. We use this research to understand how our users' habits are similar or different from one another so that we can make each new experience on EMS1 a better one. We may use this information to better personalize the content, banners, and promotions that you and other users will see on our sites.
 
-In order to access certain content and to make use of the full functionality and advanced personalization features of the Site, we may ask you to register. You may be prompted to register when you:
+Advertising networks that serve ads onto EMS1 may also use their own cookies.  Some of our business partners (e.g., advertisers) use cookies on our site.  We have no access to or control over these cookies.  This privacy statement covers the use of cookies by EMS1.com only and does not cover the use of cookies by any of these third parties. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by clicking [here](http://preferences.truste.com/).  Please note this does not opt you out of being served advertising.  You will continue to receive generic ads from our advertisers.
 
-  * Subscribe to an email alert or newsletter
-  * Order a journal or submit a classified listing
-  * Register for a conference
-  * Provide feedback or complete a survey
-  * Enter a contest
+You also have choices with respect to cookies. By modifying your browser preferences, you have the choice to accept all cookies, to be notified when a cookie is set, or to reject all cookies. If you choose to reject all cookies you will be unable to use those EMS1 services that require registration in order to participate.
 
+We use Local Storage Objects (LSOs) such as HTML5 and Flash to store content information and preferences. Third parties with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity use LSOs such as HTML 5 and Flash to collect and store information. To learn how to manage privacy and storage settings for Flash cookies click here:  
+<http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html#117118>
 
+As is true of most web sites, we gather certain information automatically and store it in log files. EMS1 also collects IP addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and/or clickstream data for system administration and to report aggregate information to our advertisers. In addition, EMS1 Mail includes IP addresses in outgoing mail message headers. We do not link this automatically collected data to other information we collect about you.
 
-The information collected from the registration form that is presented to users when they choose to register may include contact information such as the user's name, e-mail address, work setting, job title, profession, principal professional field, subject area of interest, and country ("Registration Information").
+Our tracking technology used to for client campaigns throughout the site does not collect any personal identifiable information that you provide as a part of your EMS1 membership.  Your personal information stored in cookies is only used for the purposes listed above to help improve your user experience.
 
-**How Personal Information Is Used**
+**Who is collecting information?**
 
-We use the personal information that you provide for such purposes as:
+When you are on a EMS1 site and are asked for personal information, you are sharing that information with EMS1 alone, unless it is specifically stated otherwise. For example, some EMS1 services, like BLUtube, are offered as a brand of EMS1 using the same infrastructure and member database.  This information is stored within a cookie during login and not otherwise collected by a partner company for any purpose.  If data is being collected and/or maintained by any company other than EMS1, you will be notified prior to the time of the data collection or transfer. If you do not want your data to be shared, you can choose not to allow the transfer by not using that particular service.  Our privacy policy does apply to the information collected on these co-branded sites.  You should read the privacy statement of our co-branded partner. If you have any questions about the use of your information by co-branded sites or experience login problems on a co-branded site please visit the [technical support section](http://www.ems1.com/support-center?ticket\[labels_new\]=EMS1).
 
-  * completion and support of the activity for which the information was provided, such as allowing access to or delivery of our products or services, processing or fulfilling an order, or responding to your requests or inquiries.
-  * website and system administration, such as for the technical support of the Site and its computer system, including processing computer account information, information used in the course of securing and maintaining the Site, and verification of Site activity by the Site or its agents
-  * research and development to enhance, evaluate and improve the Site and our services
-  * tailoring or customizing content or design of the Site during a single visit to the Site and individualized personalization of the Site on repeat visits
-  * pseudonymous analysis to create a profile used to determine the habits, interests or other characteristics of users for purposes of research, analysis and anonymous reporting
-  * communicating with you about changes or updates to the Site and our services and, with your consent, special offers, promotions or market research surveys
+Promotions that run on EMS1 may be sponsored by companies other than EMS1 or may be cosponsored by EMS1 and another company. Some or all data collected during a promotion may be shared with the sponsor. If data will be shared, you will be notified prior to the time of data collection or transfer. You can decide not to participate in the promotion if you don't want your data to be shared.
 
+Please be aware that EMS1 advertisers or web sites that have links on our site may collect personal information about you. The information practices of those web sites linked to EMS1 are not covered by this privacy statement. We encourage you to carefully read the privacy policy of any Web site you visit.
 
+**With whom does EMS1 share my information?**
+
+As a general rule, EMS1 will not disclose any of your personal information except when we have your permission or under special circumstances, such as when we believe in good faith that the law requires it or under the circumstances described below. Please see the Terms of Service or Use Agreements for each of our products and services for more detailed information about how your personal information may be shared. The following describes some of the ways that your information may be disclosed.
+
+Business Partners & Sponsors: EMS1 may disclose your personal information to business partners or sponsors, but this is specifically described to you prior to data collection or prior to transferring the data. Details of shared use can be found in specific Terms of Service or Use Agreements, and sweepstakes and promotions rules. Some or all data collected during a EMS1 promotion may be shared with a sponsor. If your personal information will be shared, we will tell you before we collect or transfer the data.
+
+Many promotions offer opportunities to request additional information from sponsors. By requesting more information, you give EMS1 permission to transfer your personal information to the sponsor so they can fulfill your request. In many instances, only your email address will be shared. If more information will be shared with the sponsor, you will be notified prior to the transfer.
+
+Merchants listed on EMS1 have separate privacy and data collection practices. EMS1 has no responsibility or liability for these independent policies. For more information regarding the merchant, their store, and their privacy policies, return to that store's home page and click on their Information link.
+
+From time to time, you may be offered the opportunity to receive materials or special offers from third parties. If you opt-in to receive information from these third parties, EMS1 will (with your permission) share your name and email address with them. If you wish to no longer receive materials from these third parties, please contact them directly.
+
+Third Party Data & Data in the Aggregate: Under confidentiality agreements, EMS1 may match user information with third party data. Also, EMS1 discloses aggregated user statistics (for example, 75% of our users are male and are interested in firefighting) in order to describe our services to prospective partners, advertisers, and other third parties, and for other lawful purposes.
 
 **Disclosure of Personal Information to Third Parties**
 
-Access to your personal information is restricted to our employees, agents, representatives and service providers and entities for whom we are acting as an agent, licensee or publisher, such as societies and our affiliated group companies, for the purposes set forth above.
+Access to your personal information is restricted to our employees, agents, representatives and service providers and entities for whom we are acting as an agent, licensee or publisher, such as societies and our affiliated group companies, for the purposes set forth above. Service providers are only allowed to use your personal information _only as necessary to provide_ these services to us.
 
-With your consent, we also may share your personal information with our affiliated group companies and/or with non-affiliated third parties that wish to send you information about their products and services that may be of interest to you, and users who have consented to receive such information may receive communications from these third parties
+With your consent, we also may share your personal information with our affiliated group companies and/or with non-affiliated third parties that wish to send you information about their products and services that may be of interest to you, and users who have consented to receive such information may receive communications from these third parties.
 
 We will not otherwise disclose any personal information without your consent except under the following circumstances:
 
-  * in response to subpoenas, court orders, or legal process, or to establish or exercise our rights to defend against legal claims;
-  * if we believe it is necessary to investigate, prevent, or take action regarding illegal activities, suspected fraud, safety of person or property, violation of our policies, or as otherwise required by law; and
-  * if Praetorian, this Site or a related asset or line of business is acquired by, transferred to or merged with another company, in which case, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information.
+\- In response to subpoenas, court orders, or legal process, or to establish or exercise our rights to defend against legal claims, protect your safety or the safety of others;
 
+\- If we believe it is necessary to investigate, prevent, or take action regarding illegal activities, suspected fraud, safety of person or property, violation of our policies, or as otherwise required by law; and
 
+\- If EMS1, a related asset or line of business is acquired by, transferred to or merged with another company, in which case, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information.
 
-**Service Providers**
+**What are my choices regarding collection, use, and distribution of my information?**
 
-We use other third parties to provide forums on EMS1.com. When you sign up for an EMS1 member account, we will share your username and security level as necessary for the forums application to provide that service.
+EMS1 may, from time to time, send you email regarding our products and services. In addition, if you indicated upon registration that you are interested in receiving offers or information from EMS1 and our partners, we may occasionally send you direct mail about products and services that we feel may be of interest to you. Only EMS1 (or agents working on behalf of EMS1 and under confidentiality agreements) will send you these direct mailings and only if you indicated that you do not object to these offers. If you do not want to receive such mailings, simply tell us when you give us your personal information. Or, at any time you can easily edit your EMS1 Account Information to no longer receive such offers and mailings. You will need your EMS1 ID and Password in order to access your EMS1 Account Information.  To update your profile, subscription options or any other EMS1 member information please visit your profile page.
 
-If you use a bulletin board, blog, or chat room on this Web site, you should be aware that any personal information you submit there can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit in these forums.  _To request removal of your personal information from our blog or community forum, contact us at_[customersupport@ems1.com](mailto:customersupport@ems1.com).  In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
+On some types of EMS1 promotions, we will ask for your email address in order to update you on your score, entries, and status in prize drawings. When you participate in these types of promotions, you automatically receive promotion-related email, unless you choose the no-email option that some promotions offer. Occasionally these promotion-related email messages may include targeted advertisements.
 
-These third parties are prohibited from using your personally identifiable information for any other purpose than listed above.
+EMS1 does not sell or rent user information to anyone. We will only share PII with third parties in ways that are described in this privacy policy. We will notify you at the time of data collection or transfer if your data will be shared with a third party and you will always have the option of not permitting the transfer. If you do not wish to allow your data to be shared, you can choose not to use a particular service or not to participate in certain promotions or contests or you contact us at [customersupport@EMS1.com](mailto:customersupport@EMS1.com).
 
-**Access and Changes to Your Information**
+**What is EMS1's policy on allowing me to update, correct, or delete my personal information?**
 
-Users may access their identified contact information and other Registration Information and correct any discrepancies or update information by contacting Praetorian Digital below and/or by clicking on the “Update" button located at the bottom of each e-mail communication we send. The accuracy of such information is solely the responsibility of the user. No access is given to other data that may have been collected about users.
+You may edit, update or delete your EMS1 Account Information and your public EMS1 Profile at any time by using your EMS1 ID and password. If you have forgotten your password, please click [here](https://www.ems1.com/forgot/) to request a new password. For all other problems signing in to EMS1, please contact us at [customersupport@EMS1.com](mailto:customersupport@EMS1.com).
 
-If you subscribe to an email newsletter, you may occasionally receive new product announcements, market surveys, special offers or promotions. If you wish to cease receiving any of this information, notify the EMS1 Marketing/Web Department below or use the “opt-out” or unsubscribe option or other means provided within the communications you receive. We reserve the right to notify you of changes or updates to the Site whenever necessary.
+The profile you create on our site will be publically accessible unless otherwise indicated. You may change the privacy settings of your profile through your account portal.
 
-To update your profile, subscription options or any other EMS1 member information please visit your profile page. For all other concerns please contact us.
+If an account/profile was created without your knowledge/authorization, please contact us at (email) to request removal of the profile.
 
-**Tell a Friend**
+Your EMS1 account can be deleted or deactivated, but doing so will result in not being able to access any members-only area of the EMS1 network, including your EMS1 Mail account (if you have one). If you saved the confirmation email you received when you first created your EMS1 account, you can use the URL provided in that message to delete your account at any time. Please contact privacypolicy@EMS1.com for further instructions about deleting or deactivating your EMS1 account.
 
-If you choose to use our referral service to tell a friend about our site, we will ask you for your friend’s name and email address. This feature is available with EMS1 articles, tips and videos throughout EMS1.com and <http://paramedictv.ems1.com/>. We will automatically send your friend a one-time email inviting him or her to visit the site. EMS1 does not store this information and will not send any additional messages to the referred user.
+If you are participating in a EMS1 promotion and you wish to update your email address on the promotions mailing list or to quit a promotion and cease receiving promotion-related email, please contact feedback@EMS1.com or update the subscription settings on your personal profile. All login pages where you are required to enter your username and password are protected by industry-standard, SSL (secure socket layer) encryption.
 
-**Unsubscribing and opting out of personally identifiable information**
+Knowing that you use certain services or features may help us to offer you better and more relevant content and advertisements. But as with all personal information, we do not make this available to any third parties without your permission. Any user statistics that we may provide to prospective advertisers or partners regarding financial product or service usage on EMS1 are provided in the aggregate only and do not include any personal information about any individual user.
 
-Your username may be displayed while participating in the EMS1 Forums, ParamedicTV and when submitting member comments to any article, tip or video on EMS1. Your email address will only be used for us to send you materials that you have subscribed to in the past.  
-We provide you the opportunity to ‘opt-out’ of having your personally identifiable information used for certain purposes, when we ask for this information. If you wish to update or remove any of your personal information please visit your profile page at anytime.
+**Data Retention**
 
-If you no longer wish to receive our newsletter or other promotional communications, you may opt-out of receiving them by following the unsubscribe instructions included in each communication, by updating your profile or emailing [customersupport@ems1.com](mailto:customersupport@ems1.com?subject=Profile%20Update).
+We retain the personal information we collect from you for as long as the information is relevant to our business purposes or until you request that we remove the data by contacting Praetorian Digital below. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+
+**Unsubscribing and opting out of personal information**
+
+Your username may be displayed while participating in the EMS1 Forums, BLUtube and when submitting member comments to any article, tip or video on EMS1. Your email address will only be used for us to send you materials that you have subscribed to in the past. We provide you the opportunity to ‘opt-out’ of having your personal information used for certain purposes, when we ask for this information. If you wish to update or remove any of your personal information please visit your profile page at anytime.
+
+If you no longer wish to receive our newsletter or other promotional communications, you may opt-out of receiving them by following the unsubscribe instructions included in each communication, by updating your profile or emailing [customersupport@EMS1.com](mailto:customersupport@EMS1.com).
+
+If you continue to have issues after using all the resources above, then give us a call at 866-402-4371 to talk to our Member Services Coordinator.
 
 You will be notified when your personal information is collected by any third party that is not our agent/service provider, so you can make an informed choice as to whether or not to share your information with that party.
 
-**Service Providers**
+**Tell a Friend**
 
-We use other third parties to provide forums on EMS1.com. When you sign up for a EMS1 member account, we will share your username as necessary for the forums application to provide that service.
+If you choose to use our referral service to tell a friend about our site, we will ask you for your friend’s name and email address. This feature is available with EMS1 articles, tips and videos throughout EMS1.com and http://BLUtube.EMS1.com/. We will automatically send your friend a one-time email inviting him or her to visit the site. EMS1 does not store this information and will not send any additional messages to the referred user.
 
-If you use a bulletin board, blog, or forum on this Web site, you should be aware that any personally identifiable information you submit there can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit in these forums.
+**Service Providers Public Forums**
 
-These third parties are prohibited from using your personally identifiable information for any other purpose than listed above.
+We use other third parties to provide forums on EMS1.com. When you sign up for a EMS1 member account, we will share your username as necessary for the forums application to provide that service. If you use a bulletin board, blog, or forum on this Web site, you should be aware that any personal information you submit there can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages. We are not responsible for the personal information you choose to submit in these forums. These third parties are prohibited from using your personal information for any other purpose than listed above. To request removal of your personal information from our blog or community forum, contact us at customersupport@EMS1.com.  In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
 
-**Third-Party Advertisers**
+**What security precautions are in place to protect the loss, misuse, or alteration of my information?**
 
-We contract with third-party advertisers that post on the Site banner ads, which may link to other websites not under our control. These third-party advertisers may use cookie technology to measure the effectiveness of their ads or may otherwise collect personally identifiable information from you when you leave this site. We are not responsible or liable for any content, advertising, products or other materials offered from such advertisers. Transactions that occur between you and the third party are strictly between you and the third party and are not our responsibility. You should review the privacy policy of any third-party advertiser, as their policies may differ from ours. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by clicking [here](http://preferences.truste.com/).  Please note this does not opt you out of being served advertising.  You will continue to receive generic ads.
+Your EMS1 Account Information and EMS1 Profile are password-protected so that you and only you have access to this personal information. You may edit your EMS1 Account Information and EMS1 Profile by using your EMS1 ID and password.
 
-**Retention of Personal Information**
+We recommend that you do not divulge your password to anyone. EMS1 will never ask you for your password in an unsolicited phone call or in an unsolicited email. Also remember to sign out of your EMS1 account and close your browser window when you have finished your work. This is to ensure that others cannot access your personal information and correspondence if you share a computer with someone else or are using a computer in a public place like a library or Internet cafe.
 
-We retain the personal information we collect from you for as long as the information is relevant to our business purposes or until you request that we remove the data by contacting Praetorian Digital below.
+Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. As a result, while we strive to protect your personal information, EMS1 cannot ensure or warrant the security of any information you transmit to us or from our online products or services, and you do so at your own risk. Once we receive your transmission, we make our best effort to ensure its security on our systems.
 
-**Our Commitment to Data Security**
+**What security precautions are in place to protect the identity and security of Law Enforcement officials on EMS1?**
 
-We recognize that your privacy is important to you, and therefore we endeavor to keep your personal information confidential. The personal and demographic information about each user is stored on our servers that are behind a firewall and physically housed within a secured data center. Furthermore, our internal practices help protect your privacy by limiting employee access to and use of such information. However, we do not represent, warrant, or guarantee that your personal information will be protected against unauthorized access, loss, misuse, or alterations, and do not accept any liability for the security of such information submitted to us nor for your or third parties' use or misuse of such information.
+EMS1 has taken several precautions to protect the identity, account names and passwords of officers when they register and log on to EMS1.com. All transfer of registration and login information is encrypted using Secure Socket Layer (SSL). Unfortunately, this process cannot be 100% secure and EMS1 is not responsible for the misuse of these user names and passwords. Despite all of our precautions, you use EMS1 at your own risk.
 
 **Testimonials**
 
-We periodically post member testimonials on EMS1 which may contain personally identifiable information such as the member’s username. We do obtain the member's consent prior to posting each testimonial. If you have any questions regarding testimonials on EMS1 or would like a testimonial that includes your personal information removed please contact us.
+We periodically post member testimonials on EMS1 which may contain personal information such as the member's username. We do obtain the member's consent prior to posting each testimonial. If you have any questions regarding testimonials on EMS1 or would like a testimonial that includes your personal information removed please [contact us](mailto:customersupport@EMS1.com).
 
 **Social Media Widgets**
 
 Our Web site includes Social Media Features, such as the Facebook Like button and Widgets, such as the Share this button or interactive mini-programs that run on our site. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it.
 
-**About This Privacy Policy**
-
-Any changes to this policy will be posted on this webpage. Our policy does not create a contract or any legal rights.
-
-This privacy policy applies solely to the information you provide while visiting this Site. The terms of this privacy policy do not govern personal information furnished through any means other than this Site (such as via telephone or postal mail).
-
-This Site may contain links to other websites that are beyond our control. Other websites to which you link may contain privacy policies that are different from this privacy policy. We encourage you to check the privacy policy of each website you visit before submitting any information to them.
-
 **Changes in this Privacy Statement**
 
 If we decide to change our privacy policy, we will post those changes to this privacy statement, the home page, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
 
-We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page prior to the change becoming effective. 
+We reserve the right to modify this privacy statement at any time, so please review it frequently.  If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page prior to the change becoming effective.
 
-If you ever have questions regarding the EMS1 privacy policy please email [customersupport@ems1.com](mailto:customersupport@ems1.com).
+If you ever have questions regarding the EMS1 privacy policy please email [customersupport@EMS1.com](mailto:customersupport@EMS1.com).
 
-**Questions, Complaints and Dispute Resolution**
+* * *
 
-If you have any questions or comments regarding this privacy policy, please contact Praetorian Digital at:
+_EMS1 has received TRUSTe's Privacy Seal signifying that this privacy statement and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal. The TRUSTe program covers only information that is collected through this Web site, www.EMS1.com._
 
-Praetorian Digital  
-200 Green St., Suite 200  
-San Francisco, CA 94111  
-Toll Free: 866/402-4371  
-Fax: 415/962-8340  
-[customerservice@ems1.com](mailto:customerservice@ems1.com?subject=Profile%20Update)
-
-If at any time you believe that we have not adhered to this privacy policy or you have a complaint regarding the way your personal information is being handled, please contact Praetorian Digital. Disputes under this privacy policy will be resolved by Praetorian Digital, which will use commercially reasonable efforts to promptly investigate, and if necessary, to correct any problem.
-
-EMS1 has received TRUSTe's Privacy Seal signifying that this privacy statement and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal. The TRUSTe program covers only information that is collected through this Web site, [www.ems1.com](http://www.ems1.com/).
-
-If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe [_here_](https://feedback-form.truste.com/watchdog/request).
+_If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe[here](https://feedback-form.truste.com/watchdog/request)._
