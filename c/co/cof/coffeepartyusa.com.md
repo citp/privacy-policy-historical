@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the coffeepartyusa.com privacy policy that was archived on 2012-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121109060553id_/http%3A//www.coffeepartyusa.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coffeepartyusa.com privacy policy that was archived on 2015-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150613072454id_/http%3A//www.coffeepartyusa.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Coffee Party
+# Coffee Party Privacy Statement - CoffeeParty
 
-**COFFEE PARTY USA PRIVACY POLICY**
+**COFFEE PARTY USA PRIVACY POLICY**  
 
-**Coffee Party USA (“Coffee Party”)** is a District of Columbia nonprofit organization. .
+**Coffee Party USA (“Coffee Party”)  **is a District of Columbia nonprofit organization. .
 
 Coffee Party has created this privacy policy to explain how we use information that you may provide while visiting our website and to demonstrate our firm commitment to Internet privacy. Coffee Party may modify this policy from time to time so we encourage you to check this page when revisiting this website.
 
-By using this site, you agree to the terms of this Privacy Policy and of the Terms of Use for this site, which can be found here: _[http://www.coffeepartyusa.com/TOS](https://web.archive.org/web/20121109060553id_/http%3A/TOS)_
+By using this site, you agree to the terms of this Privacy Policy and of the Terms of Use for this site, which can be found here: <http://www.coffeepartyusa.com/tos>
 
 **How We Use Your Information**
 
@@ -20,7 +20,7 @@ We will never provide your e-mail address or any of your personal information to
 
 \--to companies that assist us in maintaining this site or with Coffee Party activities, but only for purposes of providing services to Coffee Party and with the strict requirement that any such company will never itself have the right to contact you for any reason
 
-\-- To comply with applicable law or legal requirements (for example,, a lawful subpoena), to protect our rights or property, or to protect our supporters from fraudulent, abusive, or unlawful conduct, or if we reasonably believe that an emergency involving immediate danger of death or serious physical injury to any person requires disclosure of communications or justifies disclosure of records
+\--to comply with applicable law or legal requirements (for example,, a lawful subpoena), to protect our rights or property, or to protect our supporters from fraudulent, abusive, or unlawful conduct, or if we reasonably believe that an emergency involving immediate danger of death or serious physical injury to any person requires disclosure of communications or justifies disclosure of records
 
 Submitting your personal information including e-mail address on this page will sign you up to receive e-mails from Coffee Party AND from the officially recognized local chapter of Coffee Party USA in your area, if any.
 
@@ -28,7 +28,7 @@ For petitions and surveys you've signed or completed, we treat your name, city, 
 
 We may also use your first name to indicate the latest actions taken on this site.
 
-####  Children
+#### Children
 
 Coffee Party complies with the Childrens Online Privacy Protection Act. Coffee Party does not solicit and does not accept personally identifying information from any person under 13 years of age. Visitors to this site who are under 13 years of age should not use this site except under the supervision and with the assistance of their parent or legal guardian, and should never submit any personally identifying information to the site. For example, visitors under 13 years of age should not make donations or take any actions on or through this site.
 
@@ -38,15 +38,15 @@ When you purchase merchandise, materials or other items through this website, we
 
 Coffee Party uses industry standard security measures to protect against the loss, misuse or alteration of the information under our control. Our server is located in a locked, secure environment. All supplied credit card information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our payment processing provider’s database. Permission to access your information is granted only to you and Coffee Party employees or contractors who need to know that information to provide services to you and who are required to keep the information confidential. Although we make good faith efforts to store information collected by this website in a secure operating environment, we cannot guarantee complete security.
 
-####  Cookies and Data Tracking
+#### Cookies and Data Tracking
 
 A cookie is a piece of data stored on the user's hard drive containing information about the user. Some parts of this site may be password-protected. We may use a cookie (cookies reside on your computer and are under the control of your browser) to help us remember and process items that you purchase through this site; and/or to compile aggregate data about visitors to the site and their interaction with the site for the purposes of improving the operation of the site and/or offering better site experiences and tools in the future. We may also use cookies to enable you to return to password-protected areas of the website without having to re-enter your password. If you wish to disable these cookies, the help portion of the tool bar on most browsers will tell you how do that. If you set your browser to disable cookies, however, you may not be able to access certain parts of this site.
 
 We may also use third-party services such as Google Analytics. This helps us understand traffic patterns and know if there are problems with our website. We may also use embedded images in emails to track open rates for our mailings, so that we can tell which mailings appeal most to Coffee Party supporters.
 
-####  Advertising
+#### Advertising
 
-We may place online advertising with third-party vendors, including Google, which will be shown on other sites on the internet. In some cases, those third-party vendors may decide which ads to show you based on your prior visits to the site. At no time will you be personally identified to those third-party vendors, nor will any of the information you share with us be shared with those third-party vendors. If you prefer to opt out of the use of these third-party cookies on the site, you can do so by visiting the _[Network Advertising Initiative opt out page](http://www.networkadvertising.org/managing/opt_out.asp)_.
+We may place online advertising with third-party vendors, including Google, which will be shown on other sites on the internet. In some cases, those third-party vendors may decide which ads to show you based on your prior visits to the site. At no time will you be personally identified to those third-party vendors, nor will any of the information you share with us be shared with those third-party vendors. If you prefer to opt out of the use of these third-party cookies on the site, you can do so by visiting the [Network Advertising Initiative opt out page](http://www.networkadvertising.org/managing/opt_out.asp).
 
 **Links to Other Sites**
 
@@ -54,7 +54,7 @@ The privacy policies and practices contained in this Privacy Statement do not ap
 
 California Online Privacy Protection Act Compliance
 
-Coffee Party complies with the California Online Privacy Protection Act. Was part of that Act, all users of our site may make any changes to their information at any time by logging into their Control Panel and going to the “Edit Profile” pager. Changes to billing and/or credit card information must be made through Coffee Party USA staff and may be initiated by contacting the Director of Membership Administration at _[member@coffeepartyusa.com](mailto:member@coffeepartyusa.com)_
+Coffee Party complies with the California Online Privacy Protection Act. Was part of that Act, all users of our site may make any changes to their information at any time by logging into their Control Panel and going to the “Edit Profile” pager. Changes to billing and/or credit card information must be made through Coffee Party USA staff and may be initiated by contacting the Director of Membership Administration at [member@coffeepartyusa.com](mailto:member@coffeepartyusa.com) 
 
 **Amendments and Consent to This Privacy Statement**
 
@@ -64,15 +64,8 @@ We retain the right to amend or otherwise update this Privacy Statement at any t
 
 If you have any questions about this Privacy Statement, you may contact us by:
 
-  * Sending a e-mailto : _[privacy@coffeepartyusa.com](mailto:privacy@coffeepartyusa.com)_
-
-  * Telephone: 301-259-1869
-
-  * Sending a letter to:
-
-
-
+Coffee Party USA
 
 PO Box 866
 
-Corvalis, OR  97339-0866
+Corvallis, OR  97339
