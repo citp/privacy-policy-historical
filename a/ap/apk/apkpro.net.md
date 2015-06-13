@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the apkpro.net privacy policy that was archived on 2014-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141225175135id_/http%3A//apkpro.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apkpro.net privacy policy that was archived on 2015-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150614004026id_/http%3A//apkpro.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Apkpro.net - Android Tutorial and Apk Apps Download
 
