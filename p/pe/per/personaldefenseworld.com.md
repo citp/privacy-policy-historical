@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the personaldefenseworld.com privacy policy that was archived on 2014-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141213111117id_/http%3A//www.personaldefenseworld.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the personaldefenseworld.com privacy policy that was archived on 2015-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150613185434id_/http%3A//www.personaldefenseworld.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Gun News | Gun Reviews | Gun Magazine: Personal Defense World
+
+Jul 28, 2014
 
 Harris Publications believes that you should control the dissemination of the personally identifiable information that you provide when using the Personal Defense World web site (“the Site”). Please review this policy carefully to understand how we will treat the personally identifiable information that you give to us and other information in connection with the Site. This policy applies only to the Site.
 
