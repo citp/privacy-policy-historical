@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blogotechblog.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701191643id_/http%3A//www.blogotechblog.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blogotechblog.com privacy policy that was archived on 2015-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150614012202id_/http%3A//www.blogotechblog.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
