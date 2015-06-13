@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gemrockauctions.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121035902id_/http%3A//www.gemrockauctions.com/help/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gemrockauctions.com privacy policy that was archived on 2015-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150613021940id_/http%3A//www.gemrockauctions.com/help/legal/privacy-policy) for the most accurate reproduction.*
 
 # Help: Privacy Policy
 
