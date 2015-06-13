@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the wegottickets.com privacy policy that was archived on 2014-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140830190822id_/http%3A//www.wegottickets.com/ppl) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wegottickets.com privacy policy that was archived on 2015-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150614001930id_/http%3A//www.wegottickets.com/ppl) for the most accurate reproduction.*
 
 # WeGotTickets - Your Online Box Office - Our privacy policy
 
 Internet Tickets Ltd of Unit 13 Kings Meadow, Ferry Hinksey Road, Oxford, OX2 0DP UK and its group companies including WeGotTickets Ltd and SU Tickets Ltd ("We" "Us" or "Our") take your privacy seriously. This Privacy Policy explains the steps We take to ensure information about you is kept secure and confidential.
 
-**Please read this Privacy Policy carefully. Once you use this Website ("this Website") or Our services available via it you will be deemed to have read and consented to the uses of your personal data set out in this Privacy Policy. You will also be deemed to have read and accepted this Privacy Policy and the Website Terms and Conditions of use ([terms and conditions](https://www.wegottickets.com/tandc)).
+**Please read this Privacy Policy carefully. Once you use this Website ("this Website") or Our services available via it you will be deemed to have read and consented to the uses of your personal data set out in this Privacy Policy. You will also be deemed to have read and accepted this Privacy Policy and the Website Terms and Conditions of use ([terms and conditions](http://www.wegottickets.com/tandc)).
 
-You must not use Our Website or any services available via it if you do not accept this Privacy Policy and the Website Terms and Conditions ([terms and conditions](https://www.wegottickets.com/tandc)).
+You must not use Our Website or any services available via it if you do not accept this Privacy Policy and the Website Terms and Conditions ([terms and conditions](http://www.wegottickets.com/tandc)).
 
 **
 
@@ -32,8 +32,10 @@ You must not use Our Website or any services available via it if you do not acce
 3.2 Whilst We strive to protect your personal information, no data transmission over the Internet can be guaranteed to be totally secure and therefore We cannot ensure or warrant the security of any information you send to us. You include any information via this Website at your own risk.
 
 **4\. Cookies**  
-4.1 Our Website uses 'Session cookies' which track your browser session. These do not store any information on your computer but merely allow our Website to recognise your basket and its contents and whether you are logged in to your account.   
-4.2 By using this Website and/or using any services provided via it you agree to the above use of cookies.
+4.1 Our Website uses 'Session cookies' which track your browser session. These do not store any information on your computer but merely allow our Website to recognise your basket and its contents and whether you are logged in to your account.  
+4.2 We also use 'Tracking cookies' which track your browsing patterns. These allow our Website to recognise repeat visitors and build up a profile of how our customers use it, enabling us to personalise your user experience and make sure that the content on our site stays relevant.  
+4.3 In some cases we may allow third parties to manage our cookies so that they can similarly analyse customer browsing patterns. By monitoring the effectiveness of their advertisements they will be able to serve only those advertisements that they believe will be of most interest to you.  
+4.4 By using this Website and/or using any services provided via it you agree to the above use of cookies. Please see our [cookies page](http://www.wegottickets.com/cookies) for more information.
 
 **5\. Transferring Your Information Abroad**  
 5.1 Information submitted by you to Us will only be transferred abroad for the purpose of performing the contractual obligations owed by Us to you under Our Terms and Conditions.
