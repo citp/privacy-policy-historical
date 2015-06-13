@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fairwork.gov.au privacy policy that was archived on 2014-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141229182945id_/http%3A//www.fairwork.gov.au/website-information/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fairwork.gov.au privacy policy that was archived on 2015-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150614005435id_/http%3A//www.fairwork.gov.au/website-information/privacy) for the most accurate reproduction.*
 
 # Privacy - Fair Work Ombudsman
 
@@ -97,11 +97,9 @@ To make sure your information is as secure as possible, we encrypt all messages 
 
 ### You might also be interested in
 
-  * Freedom of information in [Accessing information](https://web.archive.org/about-us/accessing-information/default)
+  * Freedom of information in [Accessing information](https://web.archive.org/about-us/accessing-information/accessing-our-information)
   * [Office of the Australian Information Commissioner ](http://www.oaic.gov.au/) website
 
 
-
-[](http://www.fairwork.gov.au/PrintToPDF.aspx?url=http%3a%2f%2fwww.fairwork.gov.au%2fWebsite-information%2fprivacy%3fPrintToPDF%3dTrue&pagename=Privacy+-+Fair+Work+Ombudsman)
 
 Page reference No: 2841 
