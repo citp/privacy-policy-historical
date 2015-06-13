@@ -1,16 +1,19 @@
-> *The following text is extracted and transformed from the geekbuying.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121101516id_/http%3A//www.geekbuying.com/help/about/privacy_notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geekbuying.com privacy policy that was archived on 2015-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150613072133id_/http%3A//www.geekbuying.com/help/about/privacy_notice) for the most accurate reproduction.*
 
 # Privacy Notice - GeekBuying.com
 
 Your privacy is very important to us. This privacy policy describes the information we gather, how we share that information and what we do to protect your information. 
 
 **What personal information do we collect?**   
-As set forth in more details below, GeekBuying.com ("GeekBuying" or "We") collects personal information that you provide when using the GeekBuying website ("Site"). This information includes your first and last name, email address and a password when you create Your GeekBuying account. You can browse this Site without creating an account, but you will need to create an account when you purchase something and in order to take advantage of certain features, such as "Save for Later," "Address Book" and the other GeekBuying services. We may ask you to confirm your personal information when you contact our Customer Service department. This will allow us to protect your confidentiality by verifying your identity. 
+As set forth in more details below, GeekBuying.com ("GeekBuying" or "We") collects personal information that you provide when using the GeekBuying website ("Site"). This information includes registered email, password, your first, last name, IP address, the date and time, browser and operating system, the URL you requested, your PayPal email, your PayPal shipping address and other information. Some examples of why we need this information include assisting in pre orders, delivery, payment verification, promotions and newsletters, statistics on website use to aid in improving our customer experience and offering the most popular products. To contact you about sales, special offers and new site features, unless you have elected not to receive promotional communications in connection with this website. If you no longer want to receive our newsletter, you can click the unsubscribe link. 
 
+You can browse this Site without creating an account, but you will need to create an account when you purchase something and in order to take advantage of certain features, such as "Save for Later," "Address Book" and the other GeekBuying services. We may ask you to confirm your personal information when you contact our Customer Service department. This will allow us to protect your confidentiality by verifying your identity. 
+
+**How do we collect the information?**   
 **Purchase Information**   
 When you make a purchase from GeekBuying, we collect your name and payment method information. We collect this information in order to bill you for your purchase. We also collect information that allows us to ship your order. This includes the name, billing address, shipping address, and phone number of the intended recipient(s). 
 
-When you create an account at GeekBuying, you can choose to save your billing information in "My GeekBuying." You can also save one or more shipping addresses in Your GeekBuying Address Book. You may change or delete this saved information anytime. Simply go to My GeekBuying. Log in with your ID and password, then edit or delete whatever personal information you wish. Services Account Information 
+When you create an account at GeekBuying, you can choose to save your billing information in "My GeekBuying." You can also save one or more shipping addresses in Your GeekBuying Address Book. You may change or delete this saved information anytime. Simply go to My GeekBuying. Log in with your ID and password, then edit or delete whatever personal information you wish. Services Account Information. 
 
 We collect personal information from users who wish to use any of the GeekBuying services. In order to use these services you must provide your email address and password or create an account at GeekBuying. 
 
@@ -24,7 +27,7 @@ As you browse GeekBuying.com, advertising cookies will be placed on your compute
 **Other times we may collect personal information**   
 From time to time, GeekBuying may conduct surveys and contests via this Site, email, other media. If you choose to participate, we may request your name, email address, mailing address and other personal information. We will never sell or rent such information to any third parties. 
 
-How we use your personal information?  
+**How we use your personal information?**   
 Information we collect on GeekBuying may be used to enhance your shopping experience in the following ways: 
 
 Deliver merchandise and services that you purchase online. Register you as a member of GeekBuying. Prevent fraud and bill you for your purchases. Confirm your orders. Respond to your customer-service inquiries or requests. Communicate great values and featured items to you. Find and stock the products you want. Customize your purchase experience How is your information protected? 
@@ -54,7 +57,7 @@ If you have an account at GeekBuying and you want to change, modify or delete an
 
 GeekBuying may provide links to certain third party web sites. This Privacy Policy applies only to activities conducted and personal information collected on this GeekBuying web site. Other web sites may have their own policies regarding privacy and security. 
 
-GeekBuying will obtain your consent before allowing the download of any software from the GeekBuying Site, and GeekBuying will not automatically download any software to your computer system. Once you consent to the initial download of any software, you may receive automatic updates or patches pertaining to such software. You understand and agree that any material, including but not limited to downloaded software, required or automated updates, modifications, reinstallations, or software otherwise obtained through the use of the GeekBuying web Site is done at your own discretion and risk and that you will be solely responsible for any damages to your computer system or loss of data that may result from any such material 
+GeekBuying will obtain your consent before allowing the download of any software from the GeekBuying Site, and GeekBuying will not automatically download any software to your computer system. Once you consent to the initial download of any software, you may receive automatic updates or patches pertaining to such software. You understand and agree that any material, including but not limited to downloaded software, required or automated updates, modifications, reinstallations, or software otherwise obtained through the use of the GeekBuying web Site is done at your own discretion and risk and that you will be solely responsible for any damages to your computer system or loss of data that may result from any such material. 
 
 **Updates to this policy**   
-If we change or update this Privacy Notice, we will post changes and updates on this Site so that you will always be aware of what information we collect, use, and disclose. We encourage you to review this Privacy Notice from time to time so you will know if the Privacy Notice has been changed or updated. 
+If we change or update this Privacy Policy, we will post changes and updates on this Site so that you will always be aware of what information we collect, use and disclose. We encourage you to review this Privacy Policy from time to time so you will know if the Privacy Policy has been changed or updated. If you have any questions about the Privacy Policy, please contact us via admin@geekbuying.com or call at +86-(0)755-23943772 . Write to us: Guocheng Garden, Baihua No.1 Road, Futian District,Shenzhen, Guangdong , China. 
