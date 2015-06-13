@@ -1,14 +1,15 @@
-> *The following text is extracted and transformed from the onlineincomemasterclass.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121142817id_/http%3A//www.jamesfrancis.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlineincomemasterclass.com privacy policy that was archived on 2015-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150613060513id_/http%3A//www.jamesfrancis.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Information Marketing Blog - By Marketing Guru James Francis
 
-1)Our Commitment To Privacy   
+1) Our Commitment To Privacy   
 2) The Information We Collect   
 3) How We Use Information   
 4) Our Commitment To Data Security   
 5) Our Commitment To Children’s Privacy   
 6) How To Access Or Correct Your Information   
-6) How To Contact Us
+7) Conversion Tracking   
+8) How To Contact Us
 
 ### Our Commitment To Privacy
 
@@ -60,8 +61,12 @@ You can correct factual errors in your personally identifiable information by se
 
 To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections.
 
+### Conversion Tracking
+
+We work with third parties such as Twitter and Facebook to collect user data through our website for purposes of conversion tracking and serving ads targeted to users’ interests. If you want to miss out on these tailored special offers being shown to you on these social networks, you can opt out of some of those third parties’ interest-based advertising through the Do Not Track functionality in your web browser or using Twitter’s guide [here](https://support.twitter.com/articles/20170405).
+
 ### How To Contact Us
 
 Should you have other questions or concerns about these privacy policies, please [contact us here](http://www.jamesfrancissupport.com/).
 
-© James Francis 2014.
+© James Francis 2015.
