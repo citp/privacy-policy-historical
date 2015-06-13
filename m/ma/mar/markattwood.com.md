@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the markattwood.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122201619id_/http%3A//markattwood.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the markattwood.com privacy policy that was archived on 2015-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150614010039id_/http%3A//markattwood.com/privacy-policy) for the most accurate reproduction.*
 
-# MarkAttwood.com Privacy Statement - MarkAttwood.com. Entrepreneur. Marketer. Speaker.
+# MarkAttwood.com Privacy Statement - Mark Attwood | Internet Marketing Expert | Speaker | Author
 
 [Home](http://markattwood.com/) > MarkAttwood.com Privacy Statement
 
