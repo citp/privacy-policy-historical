@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cartoq.com privacy policy that was archived on 2014-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141218184805id_/http%3A//www.cartoq.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cartoq.com privacy policy that was archived on 2015-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150613170452id_/http%3A//www.cartoq.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy for CarToq.com website and CarToq Facebook App | Cartoq - Honest Car Advice
 
