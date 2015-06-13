@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the chiefsupply.com privacy policy that was archived on 2014-11-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141113152127id_/http%3A//www.chiefsupply.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the chiefsupply.com privacy policy that was archived on 2015-06-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150613232039id_/http%3A//www.chiefsupply.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" xmlns:fb="http://ogp.me/ns/fb#"><head>
  
@@ -12,7 +12,7 @@
  
 <meta name="msvalidate.01" content="4C54AE5F70A40141617FAB196CD8CFD2">
 <meta name="google-site-verification" content="kN3Yt6u9V-t-TSv8SARlB1VzRTIzKSpEiEt3efSDMHY">
-<title>Privacy Policy</title><meta http-equiv="X-UA-Compatible" content="IE=8">
+<title>Privacy Policy</title>
 <meta http-equiv="X-UA -Compatible" content="text/html; charset=utf-8">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <link rel="canonical" href="http://www.chiefsupply.com/privacy-policy/">
@@ -32,9 +32,7 @@
 	</script>
 <link rel="stylesheet" type="text/css" href="http://cdn2.chiefsupply.com/skin/frontend/enterprise/wfcchief/css/styles.css" media="all">
 <link rel="stylesheet" type="text/css" href="http://cdn2.chiefsupply.com/skin/frontend/enterprise/default/css/widgets.css" media="all">
-<link rel="stylesheet" type="text/css" href="http://cdn2.chiefsupply.com/skin/frontend/enterprise/wfcchief/css/wordpress.css" media="all">
 <link rel="stylesheet" type="text/css" href="http://cdn2.chiefsupply.com/skin/frontend/enterprise/wfcchief/css/j2t_autoadd.css" media="all">
-<link rel="stylesheet" type="text/css" href="http://cdn2.chiefsupply.com/skin/frontend/enterprise/default/css/magegiant/giantpoints.css" media="all">
 <link rel="stylesheet" type="text/css" href="http://cdn2.chiefsupply.com/skin/frontend/enterprise/wfcchief/css/manufacturer.css" media="all">
 <link rel="stylesheet" type="text/css" href="http://cdn2.chiefsupply.com/skin/frontend/base/default/css/recommendation_zone.css" media="all">
 <link rel="stylesheet" type="text/css" href="http://cdn2.chiefsupply.com/skin/frontend/enterprise/wfcchief/js/fancybox/jquery.fancybox-1.3.4.css" media="all">
@@ -59,7 +57,6 @@
 <script type="text/javascript" src="http://cdn2.chiefsupply.com/js/varien/menu.js"></script>
 <script type="text/javascript" src="http://cdn2.chiefsupply.com/js/mage/translate.js"></script>
 <script type="text/javascript" src="http://cdn2.chiefsupply.com/js/mage/cookies.js"></script>
-<script type="text/javascript" src="http://cdn2.chiefsupply.com/js/magegiant/giantpoints.js"></script>
 <script type="text/javascript" src="http://cdn2.chiefsupply.com/skin/frontend/enterprise/wfcchief/js/scripts.js"></script>
 <script type="text/javascript" src="http://cdn2.chiefsupply.com/skin/frontend/enterprise/wfcchief/js/enterprise/catalogevent.js"></script>
 <script type="text/javascript" src="http://cdn2.chiefsupply.com/skin/frontend/enterprise/wfcchief/js/jquery.js"></script>
@@ -99,7 +96,6 @@ Mage.Cookies.domain   = '.www.chiefsupply.com';
 optionalZipCountries = ["GT"];
 //]]>
 </script>
-<link rel="alternate" type="application/rss+xml" title="Chief Blog - RSS Feed" href="http://www.chiefsupply.com/blog/feed">
  
 <script type="text/javascript">
 //<![CDATA[
@@ -136,8 +132,8 @@ optionalZipCountries = ["GT"];
  
  
 <link href="https://t.p.mybuys.com/clients/CHIEFSUPPLY/css/styles.css" type="text/css" rel="stylesheet" id="mybuysstyles">
-<script type="text/javascript" src="http://t.p.mybuys.com/js/mybuys4.js"></script>
-<script type="text/javascript" src="http://t.p.mybuys.com/clients/CHIEFSUPPLY/js/setup.js"></script>
+<script data-cfasync="false" type="text/javascript" src="http://t.p.mybuys.com/js/mybuys4.js"></script>
+<script data-cfasync="false" type="text/javascript" src="http://t.p.mybuys.com/clients/CHIEFSUPPLY/js/setup.js"></script>
 <script type="text/javascript">
     function MagicToolboxChangeOptionConfigurable(element, optionTitle) {
         return;
@@ -172,7 +168,43 @@ jQuery(window).load(function() {
 <div class="header-container">
 <header>
 <div class="banner-header-row col2-set">
-<div style="height: 46px;width: 354px;float: left;"><a href="http://www.chiefsupply.com/newsdeals#fineprint/"><div style="display: table-cell;height: 46px;width: 354px;background-color:#384871;font-size:20px;text-transform:uppercase;font-family:'Arial Regular', Arial;color:#FFFFFF;text-align:center;text-align:center;vertical-align:middle;">Free Shipping Over $99 </div></a>
+<div style="height: 46px;width: 354px;float: left;"><script>
+(function ($) {
+
+$(document).ready(function() {
+   sliderTimeout();
+});
+
+function sliderTimeout() {
+    clearli = setTimeout(function() {
+           sliderRotator();
+        }, 5000);
+}
+function sliderRotator()  {
+    sliderTimeout();
+    if ($('.promo-slider-1').css('display') != 'none') {
+        $('.promo-slider-1').slideUp( "slow", function() {
+            $('.promo-slider-2').slideDown( "slow");
+        });
+    } else {
+        $('.promo-slider-2').slideUp( "slow", function() {
+            $('.promo-slider-1').slideDown( "slow");
+        });
+    }
+}
+
+})(jQuery);
+</script>
+<div id="promo-small-slider" style="width:354px !important; height:46px !important; background-color:#384871;">
+<div class="promo-slider-1" style="display:none;">
+<div style="text-align: center; padding: 0px !important; width:354; height:46px; background-image: url('http://cdn.chiefsupply.com/media/wysiwyg/Weekly-Price-Drops-Header-2.gif'); background-repeat: no-repeat;">
+<a onclick="_gaq.push(['_trackEvent', 'Click', 'Weekly Price Drops Shipping Header']);" href="http://www.chiefsupply.com/weekly-price-drops" style="display:block; height:46px; width: 354px; cursor:pointer;"> </a>
+</div>
+</div>
+<div class="promo-slider-2">
+<a href="http://www.chiefsupply.com/order-faq#freeship"><div style="padding: 0px !important; display: table-cell;height: 46px; width: 354px;background-color:#384871;font-size:20px;text-transform:uppercase;font-family:'Arial Regular', Arial;color:#FFFFFF;text-align:center;text-align:center;vertical-align:middle;">Free Shipping Over $99 </div></a>
+</div>
+</div>
 </div>
 <div class="links-row"><span id="customHeaderLinks"><center><img src="http://cdn.chiefsupply.com/uniData/CustomCalls/ajax/images/loading.gif"></center></span></div>
 <div class="shopping-cart-row">
@@ -260,7 +292,7 @@ jQuery(document).ready(function(){
 });
 </script> <div class="header">
 <div class="logo-box">
-<div class="logo"><strong><h1>CHIEF. More Responsive, Period. </h1></strong><a href="http://www.chiefsupply.com/" title="CHIEF. More Responsive, Period. " class="logo"><img src="http://cdn2.chiefsupply.com/skin/frontend/enterprise/wfcchief/images/wfc/chief-logo.png" alt="CHIEF. More Responsive, Period. "></a></div>
+<div class="logo"><a href="http://www.chiefsupply.com/" title="CHIEF. More Responsive, Period. " class="logo"><img src="http://cdn2.chiefsupply.com/skin/frontend/enterprise/wfcchief/images/wfc/chief-logo.png" alt="CHIEF. More Responsive, Period. "></a></div>
 </div>
 <div class="search-box">
 <form id="search_mini_form" action="/search/" method="get">
@@ -292,7 +324,7 @@ jQuery(document).ready(function(){
 <div class="live-chat-phone">888.588.8569</div>
 </div> </div>
  
-<ul id="pronav"><li id="menu-shop-by-categories" class="level0 parent"><div class="pronav-link"><a href="http://www.chiefsupply.com/#" id="" class="level-top first"><span>Shop by Category</span></a></div><div class="spacer level-top first"></div><div class="sub" style="display: none;"><style>#pronav li#menu-shop-by-categories .sub{height:245px!important;width:943px!important;}</style>
+<ul id="pronav"><li id="menu-shop-by-categories" class="level0 parent"><div class="pronav-link"><a href="http://www.chiefsupply.com/shop-by-category" id="" class="level-top first"><span>Shop by Category</span></a></div><div class="spacer level-top first"></div><div class="sub" style="display: none;"><style>#pronav li#menu-shop-by-categories .sub{height:245px!important;width:943px!important;}</style>
 <div class="row">
 <div class="col4-set">
 <ul class="col-1" style="width: 190px;">
@@ -369,25 +401,24 @@ jQuery(document).ready(function(){
 <li><a href="http://www.chiefsupply.com/bianchi">Bianchi</a></li>
 <li><a href="http://www.chiefsupply.com/blackhawk-tactical-gear">BLACKHAWK!</a></li>
 <li><a href="http://www.chiefsupply.com/blackinton">Blackinton</a></li>
-<li><a href="http://www.chiefsupply.com/boston-leather">Boston Leather</a></li>
 <li><a href="http://www.chiefsupply.com/browning-black-label">Browning Black Label</a></li>
-</ul>
-<ul class="col-1 top-brands-at-chief" style="width: 170px; margin-left:-30px;">
 <li><a href="http://www.chiefsupply.com/bullard">Bullard </a></li>
 <li><a href="http://www.chiefsupply.com/bushnell">Bushnell</a></li>
+</ul>
+<ul class="col-1 top-brands-at-chief" style="width: 170px; margin-left:-30px;">
 <li><a href="http://www.chiefsupply.com/cairns-fire-helmets">Cairns</a></li>
 <li><a href="http://www.chiefsupply.com/damascus">Damascus</a></li>
 <li><a href="http://www.chiefsupply.com/danner">Danner</a></li>
 <li><a href="http://www.chiefsupply.com/defense-technology">Defense Technology</a></li>
-<li><a href="http://www.chiefsupply.com/dickies">Dickies</a></li>
-<li><a href="http://www.chiefsupply.com/earhugger">Earhugger</a></li>
-<li><a href="http://www.chiefsupply.com/emi">EMI</a></li>
+<li><a href="http://www.chiefsupply.com/dickies">Dickies Tactical</a></li>
+<li><a href="http://www.chiefsupply.com/earphone-connection">Ear Phone Connection</a></li>
 <li><a href="http://www.chiefsupply.com/ess">ESS</a></li>
-</ul>
-<ul class="col-1 top-brands-at-chief" style="width: 170px; margin-left: -40px;">
 <li><a href="http://www.chiefsupply.com/federal-signal">Federal Signal</a></li>
+<li><a href="http://www.chiefsupply.com/fieldtex-products-inc">Fieldtex</a></li>
 <li><a href="http://www.chiefsupply.com/fire-dex">Fire-Dex</a></li>
 <li><a href="http://www.chiefsupply.com/flir">Flir</a></li>
+</ul>
+<ul class="col-1 top-brands-at-chief" style="width: 170px; margin-left: -40px;">
 <li><a href="http://www.chiefsupply.com/forensics-source">Forensics Source</a></li>
 <li><a href="http://www.chiefsupply.com/foxfury">FoxFury</a></li>
 <li><a href="http://www.chiefsupply.com/gould-and-goodrich">Gould &amp; Goodrich</a></li>
@@ -395,31 +426,29 @@ jQuery(document).ready(function(){
 <li><a href="http://www.chiefsupply.com/havis">Havis</a></li>
 <li><a href="http://www.chiefsupply.com/hazard-4">Hazard 4</a></li>
 <li><a href="http://www.chiefsupply.com/horace-small">Horace Small</a></li>
-</ul>
-<ul class="col-1 top-brands-at-chief" style="width: 145px; margin-left:-45px;">
-<li><a href="http://www.chiefsupply.com/hwi-tactical">HWI Tactical</a></li>
 <li><a href="http://www.chiefsupply.com/kochek">Kochek</a></li>
-<li><a href="http://www.chiefsupply.com/leatherman">Leatherman</a></li>
-<li><a href="http://www.chiefsupply.com/mag-lite">Mag-Lite</a></li>
-<li><a href="http://www.chiefsupply.com/led-lenser">LED Lenser</a></li>
+<li><a href="http://www.chiefsupply.com/mag-lite">Maglite</a></li>
 <li><a href="http://www.chiefsupply.com/monadnock">Monadnock</a></li>
 <li><a href="http://www.chiefsupply.com/motorola">Motorola</a></li>
-<li><a href="http://www.chiefsupply.com/oakley">Oakley</a></li>
-<li><a href="http://www.chiefsupply.com/original-s-w-a-t">Original S.W.A.T.</a></li>
 </ul>
-<ul class="col-1 top-brands-at-chief" style="width: 210px; margin-left:-15px;">
+<ul class="col-1 top-brands-at-chief" style="width: 145px; margin-left:-45px;">
+<li><a href="http://www.chiefsupply.com/oakley">Oakley</a></li>
+<li><a href="http://www.chiefsupply.com/occunomix">Occunomix</a></li>
+<li><a href="http://www.chiefsupply.com/original-s-w-a-t">Original S.W.A.T.</a></li>
 <li><a href="http://www.chiefsupply.com/orion-safety">Orion Safety</a></li>
-<li><a href="http://www.chiefsupply.com/pelican">Pelican</a></li>
 <li><a href="http://www.chiefsupply.com/peerless">Peerless</a></li>
+<li><a href="http://www.chiefsupply.com/pelican">Pelican</a></li>
+<li><a href="http://www.chiefsupply.com/perfect-fit">Perfect Fit</a></li>
 <li><a href="http://www.chiefsupply.com/pgi">PGI</a></li>
 <li><a href="http://www.chiefsupply.com/power-products">Power Products</a></li>
 <li><a href="http://www.chiefsupply.com/pro-gard">Pro-gard</a></li>
 <li><a href="http://www.chiefsupply.com/propper">Propper</a></li>
+</ul>
+<ul class="col-1 top-brands-at-chief" style="width: 210px; margin-left:-15px;">
 <li><a href="http://www.chiefsupply.com/protech">Protech</a></li>
 <li><a href="http://www.chiefsupply.com/reebok">Reebok</a></li>
 <li><a href="http://www.chiefsupply.com/rocky">Rocky</a></li>
-</ul>
-<ul class="col-1 top-brands-at-chief" style="width: 188px; margin-left:-108px;">
+<li><a href="http://www.chiefsupply.com/rothco">Rothco</a></li>
 <li><a href="http://www.chiefsupply.com/safariland">Safariland</a></li>
 <li><a href="http://www.chiefsupply.com/saunders">Saunders</a></li>
 <li><a href="http://www.chiefsupply.com/second-chance">Second Chance</a></li>
@@ -427,24 +456,31 @@ jQuery(document).ready(function(){
 <li><a href="http://www.chiefsupply.com/setina">Setina</a></li>
 <li><a href="http://www.chiefsupply.com/shelby-glove">Shelby Glove</a></li>
 <li><a href="http://www.chiefsupply.com/sirchie">Sirchie</a></li>
-<li><a href="http://www.chiefsupply.com/smith-and-warren">Smith &amp; Warren</a></li>
-<li><a href="http://www.chiefsupply.com/soundoff-signal">SoundOff Signal</a></li>
-<li><a href="http://www.chiefsupply.com/stoffel-seals">Stoffel Seals</a></li>
 </ul>
-<ul class="col-1 top-brands-at-chief" style="width: 143px; margin-left:-80px;">
+<ul class="col-1 top-brands-at-chief" style="width: 188px; margin-left:-108px;">
+<li><a href="http://www.chiefsupply.com/smith-and-warren">Smith &amp; Warren</a></li>
+<li><a href="http://www.chiefsupply.com/smith-and-wesson">Smith &amp; Wesson</a></li>
+<li><a href="http://www.chiefsupply.com/soundoff-signal">SoundOff Signal</a></li>
+<li><a href="http://www.chiefsupply.com/star-headlight">Star Headlight</a></li>
+<li><a href="http://www.chiefsupply.com/stoffel-seals">Stoffel Seals</a></li>
 <li><a href="http://www.chiefsupply.com/streamlight">Streamlight</a></li>
+<li><a href="http://www.chiefsupply.com/strong-leather">Strong Leather</a></li>
 <li><a href="http://www.chiefsupply.com/surefire">SureFire</a></li>
 <li><a href="http://www.chiefsupply.com/thorogood">Thorogood</a></li>
-<li><a href="http://www.chiefsupply.com/timberline">Timberline Knives</a></li>
 <li><a href="http://www.chiefsupply.com/tommie-copper">Tommie Copper</a></li>
 <li><a href="http://www.chiefsupply.com/tru-spec">Tru-Spec</a></li>
-<li><a href="http://www.chiefsupply.com/uncle-mikes">Uncle Mikes</a></li>
-<li><a href="http://www.chiefsupply.com/under-armour">Under Armour </a></li>
-<li><a href="http://www.chiefsupply.com/whelen">Whelen</a></li>
 </ul>
-<ul class="col-1 top-brands-at-chief" style="width: 88px; margin-left:-30px;">
+<ul class="col-1 top-brands-at-chief" style="width: 200px; margin-left:-80px;">
+<li><a href="http://www.chiefsupply.com/uncle-mikes">Uncle Mikes</a></li>
+<li><a href="http://www.chiefsupply.com/under-armour">Under Armour</a></li>
+<li><a href="http://www.chiefsupply.com/veho">Veho</a></li>
+<li><a href="http://www.chiefsupply.com/vertx"><span style="color: #3063E4; font-weight: bold; display: inline !important;">NEW</span> Vertx</a></li>
+<li><a href="http://www.chiefsupply.com/voodoo-tactical">Voodoo Tactical </a></li>
+<li><a href="http://www.chiefsupply.com/whelen">Whelen</a></li>
 <li><a href="http://www.chiefsupply.com/gift-cards.html" onclick="_gaq.push(['_trackEvent', 'Navigation', 'Gift Card text', 'Gift Card Img']);">Gift Cards</a></li>
 <li><a href="http://www.chiefsupply.com/gift-cards.html" onclick="_gaq.push(['_trackEvent', 'Navigation', 'Gift Card Icon', 'Gift Card Img']);"><img src="http://cdn.chiefsupply.com/media/wysiwyg/Banners/Chief-Gift-Card-Navigation-Icon.jpg" alt="Chief Gift Cards"></a></li>
+</ul>
+<ul class="col-1 top-brands-at-chief" style="width: 88px; margin-left:-30px;">
 </ul>
 </div>
 </div></div></li><li id="menu-law-enforcement" class="level0 parent"><div class="pronav-link"><a href="http://www.chiefsupply.com/law-enforcement" id="" class="level-top"><span>Law</span></a></div><div class="spacer level-top"></div><div class="sub" style="display: none;"><style>#pronav div.sub{height:260px!important;}</style>
@@ -501,12 +537,13 @@ jQuery(document).ready(function(){
 <li><a href="http://www.chiefsupply.com/batteries">Batteries</a></li>
 <li><a href="http://www.chiefsupply.com/police-equipment/bike-patrol">Bike Patrol</a></li>
 <li><a href="http://www.chiefsupply.com/body-armor">Body Armor</a></li>
+<li><a href="http://www.chiefsupply.com/communication/video-voice-recorders?manufacturer=6757">Body Cameras</a></li>
 <li><a href="http://www.chiefsupply.com/police-equipment/checkpoint-detection">Checkpoint Detection</a></li>
 <li><a href="http://www.chiefsupply.com/communication">Communication</a></li>
 <li><a href="http://www.chiefsupply.com/flashlights">Flashlights</a></li>
-<li><a href="http://www.chiefsupply.com/police-equipment/forensics-investigations">Forensics &amp; Investigations</a></li>
 </ul>
 <ul class="col-1 police-gear-and-equipment" style="width: 150px;">
+<li><a href="http://www.chiefsupply.com/police-equipment/forensics-investigations">Forensics &amp; Investigations</a></li>
 <li><a href="http://www.chiefsupply.com/gifts-and-novelties">Gifts &amp; Novelties</a></li>
 <li><a href="http://www.chiefsupply.com/police-equipment/gun-accessories">Gun Accessories</a></li>
 <li><a href="http://www.chiefsupply.com/police-equipment/handcuffs-restraints">Handcuffs &amp; Restraints</a></li>
@@ -517,9 +554,9 @@ jQuery(document).ready(function(){
 <li><a href="http://www.chiefsupply.com/police-equipment/metal-detectors">Metal Detectors</a></li>
 <li><a href="http://www.chiefsupply.com/police-equipment/oc-spray">OC Spray</a></li>
 <li><a href="http://www.chiefsupply.com/optics">Optics</a></li>
-<li><a href="http://www.chiefsupply.com/communication/radios">Radios</a></li>
 </ul>
 <ul class="col-1 police-gear-and-equipment" style="width: 160px;">
+<li><a href="http://www.chiefsupply.com/communication/radios">Radios</a></li>
 <li><a href="http://www.chiefsupply.com/police-equipment/tactical-gear-riot-equipment">Tactical &amp; Riot Equipment</a></li>
 <li><a href="http://www.chiefsupply.com/police-equipment/traffic-enforcement">Traffic Enforcement</a></li>
 <li><a href="http://www.chiefsupply.com/traffic-control">Traffic Control</a></li>
@@ -714,7 +751,7 @@ jQuery(document).ready(function(){
 <li><a href="http://www.chiefsupply.com/optics/scopes">Scopes</a></li>
  
  
-<li><a href="http://www.chiefsupply.com/search/?q=%22Thermal+Imaging%22">Thermal Imaging</a></li>
+<li><a href="http://www.chiefsupply.com/optics/thermal-imaging">Thermal Imaging</a></li>
 <li><a href="http://www.chiefsupply.com/police-equipment/gun-accessories">Weapon Accessories</a></li>
 <li><a href="http://www.chiefsupply.com/optics/weapon-sights">Weapon Sights</a></li>
 <li><a href="http://www.chiefsupply.com/gift-cards.html" onclick="_gaq.push(['_trackEvent', 'Navigation', 'Gift Card text', 'Gift Card Img']);">Gift Cards</a></li>
@@ -756,10 +793,10 @@ jQuery(document).ready(function(){
 </ul>
 <ul class="col-1 police-duty-gear" style="width: 200px;padding-left:10px;border-left:1px solid #444;">
 <li><a href="http://www.chiefsupply.com/bags-and-backpacks">Bags &amp; Backpacks</a></li>
-<li><a href="http://www.chiefsupply.com/boots-and-footwear">Boots &amp; Footwear</a></li>
 <li><a href="http://www.chiefsupply.com/bags-and-backpacks/hydration-packs">Hydration Packs</a></li>
 <li><a href="http://www.chiefsupply.com/tools-equipment/rappelling">Rappelling</a></li>
-<li><a href="http://www.chiefsupply.com/search/?q=%22water+bottle%22#/?sort.price=asc">Water Bottles</a></li>
+<li><a href="http://www.chiefsupply.com/outdoors/water-bottles">Water Bottles</a></li>
+<li>&nbsp;</li>
 <li>&nbsp;</li>
 <li>&nbsp;</li>
 <li>&nbsp;</li>
@@ -768,6 +805,7 @@ jQuery(document).ready(function(){
 <li>&nbsp;</li>
 </ul>
 <ul class="col-1 police-gear-and-equipment" style="width: 250px; padding-left:10px;border-left:1px solid #444;">
+<li><a href="http://www.chiefsupply.com/outdoors/action-cameras">Action Cameras</a></li>
 <li><a href="http://www.chiefsupply.com/batteries">Batteries</a></li>
 <li><a href="http://www.chiefsupply.com/optics/binoculars">Binoculars</a></li>
 <li><a href="http://www.chiefsupply.com/flashlights">Flashlights</a></li>
@@ -775,6 +813,8 @@ jQuery(document).ready(function(){
 <li><a href="http://www.chiefsupply.com/knives-and-multi-tools">Knives &amp; Multi-tools</a></li>
 <li><a href="http://www.chiefsupply.com/search/?q=lantern">Lanterns</a></li>
 <li><a href="http://www.chiefsupply.com/radios">Radios</a></li>
+<li>&nbsp;</li>
+<li>&nbsp;</li>
 <li>&nbsp;</li>
 </ul>
 <ul class="col-1 police-gear-and-equipment" style="width: 200px; padding-left:10px;border-left:1px solid #444;">
@@ -785,9 +825,6 @@ jQuery(document).ready(function(){
 <li><a href="http://www.chiefsupply.com/medical-supplies/survival-kits">Survival Kits</a></li>
 <li><a href="http://www.chiefsupply.com/gift-cards.html" onclick="_gaq.push(['_trackEvent', 'Navigation', 'Gift Card text', 'Gift Card Img']);">Gift Cards</a></li>
 <li><a href="http://www.chiefsupply.com/gift-cards.html" onclick="_gaq.push(['_trackEvent', 'Navigation', 'Gift Card Icon', 'Gift Card Img']);"><img src="http://cdn.chiefsupply.com/media/wysiwyg/Banners/Chief-Gift-Card-Navigation-Icon.jpg" alt="Chief Gift Cards"></a></li>
-<li>&nbsp;</li>
-<li>&nbsp;</li>
-<li>&nbsp;</li>
 <li>&nbsp;</li>
 </ul>
 </div>
@@ -862,12 +899,26 @@ jQuery('#pronav > li').hover(function(){
 </script> 
 <div style="display:none;margin-left:1px;" id="showBannerYes">
 <div id="promo-banner-showalways" class="promo-banner-showalways" style="display:none;">
-<a href="http://www.chiefsupply.com/apparel/shirts/polos?manufacturer=6440">
-<img src="http://cdn.chiefsupply.com/media/banners/CS-3178_958_Wide_Banner.jpg" alt="Free Mini Flashlight with 2 Tru-Spec Polos - Shop Shirts">
+<a href="http://www.chiefsupply.com/newsdeals">
+<img src="http://cdn.chiefsupply.com/media/banners/CS-3599_June_Fathers_Day_958_Wide_Banner.jpg" alt="Thru Father's Day, $25 in Rewards Cash on all orders over $125 - View Details">
 </a>
-</div>
+<!--[if !IE]><-->
+<style>.custom-here{position:absolute;margin-left:884px!important;margin-top:-14px!important;font-size:11px!important;color:white!important;}@media screen and (-ms-high-contrast: active), (-ms-high-contrast: none) {.custom-here{margin-left:-75px!important;margin-top:62px!important;}}</style>
+<!--<![endif]-->
+<!--[if IE]>
+<style>
+.custom-here {
+                position: absolute;
+                margin-left: -40px !important;
+                margin-top: 63px !important;
+                font-size: 11px !important;
+                color: white !important;
+}
+</style>
+<![endif]-->
+  </div>
 <script>
-						specialBannerFun('showalways', 'Thu, 13 Nov 2014');
+						specialBannerFun('showalways', 'Sat, 13 Jun 2015');
 					</script>
 </div>
 </header>
@@ -947,11 +998,7 @@ Privacy Policy </span>
 <p>&nbsp;</p>
 <h2>If You Would Like to File a Complaint</h2>
 <p>&nbsp;</p>
-<p>If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number, The DMA's Committee on Ethical Business Practices at <a href="mailto:mgoldberger@the-dma.org">mgoldberger@the-dma.org<script type="text/javascript">
-/* <![CDATA[ */
-(function(){try{var s,a,i,j,r,c,l,b=document.getElementsByTagName("script");l=b[b.length-1].previousSibling;a=l.getAttribute('data-cfemail');if(a){s='';r=parseInt(a.substr(0,2),16);for(j=2;a.length-j;j+=2){c=parseInt(a.substr(j,2),16)^r;s+=String.fromCharCode(c);}s=document.createTextNode(s);l.parentNode.replaceChild(s,l);}}catch(e){}})();
-/* ]]> */
-</script></a>, state or local chapters of the Better Business Bureau, state or local consumer protection office, The Federal Trade Commission by phone at 202.FTC-HELP (202.382.4357) or electronically at <a href="http://www.ftc.gov/ftc/complaint.htm">http://www.ftc.gov/ftc/complaint.htm</a>.</p>
+<p>If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number, The DMA's Committee on Ethical Business Practices at <a href="mailto:mgoldberger@the-dma.org">mgoldberger@the-dma.org</a>, state or local chapters of the Better Business Bureau, state or local consumer protection office, The Federal Trade Commission by phone at 202.FTC-HELP (202.382.4357) or electronically at <a href="http://www.ftc.gov/ftc/complaint.htm">http://www.ftc.gov/ftc/complaint.htm</a>.</p>
 <p>&nbsp;</p>
 <p><em>Last Updated: May 31, 2012</em></p>
 </div></div>					</div>
@@ -970,7 +1017,8 @@ Privacy Policy </span>
 		var fieldMaps = {};
 		fieldMaps["112686"] = "birthday";fieldMaps["112684"] = "first_name";fieldMaps["112685"] = "last_name";	</script>
     <div class="form-subscribe">
-    	<div style="padding-right: 14px; padding-top: 12px; padding-left: 40px;"><img src="/skin/frontend/enterprise/wfcchief/images/wfc/title-sign-up-for-emails.png"></div>
+    	<div style="font-size: 14px !important;
+color: #6E8095 !important; padding-right: 14px; padding-top: 12px;">Subscribe &amp; Save <strong>15% Off </strong>your first order with CHIEF!</div>
     	<div style="padding-right: 9px"><input name="47627" type="text" id="newsletter" class="newsletter" value="Your Email Address Here" onclick="this.value=='Your Email Address Here'?this.value='':''" onblur="this.value==''?this.value='Your Email Address Here':''"></div>
     	<div><input id="btn-signup" type="image" src="/skin/frontend/enterprise/wfcchief/images/wfc/btn-signup.png" border="0" width="134" height="39"></div>
     </div>
@@ -1047,7 +1095,7 @@ Privacy Policy </span>
                         </li>
                         <li>
                             <div class="credits">
-                            <address>Copyright © CHIEF 1998-2014 All rights reserved.
+                            <address>Copyright © CHIEF 1998-2015 All rights reserved.
 </address>
                             </div>
                         </li>
@@ -1110,11 +1158,13 @@ Privacy Policy </span>
 	function addVerisign() {
 		jQuery("#verisignseal").html("<iframe src='https://www.chiefsupply.com/verisign.html' scrolling='no' width='100' height='65' marginheight='0' marginwidth='0' frameborder='0'></iframe>");
 	}
+	function addBizrateSurvey() {
+		jQuery("body").append('<div id="dynamicBzSurveyContents" style="display:none;"><a href="//www.bizrate.com/?rf=sur" style="background:url(\'https://images.bizrate.com/eval/survey/invite_template/non-buyer/surveyByBZ.gif\');color:#fff;width: 111px;height: 23px;display:block;right:10px;top:35px;position:absolute;z-index:1000000;text-indent: -9999px;" target="_blank">Bizrate</a></div>');
+		var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+		po.src = '//eval.bizrate.com/js/survey_254238_1.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+	}
 	function addBizrate() {
-		//jQuery("body").append('<div id="dynamicBzSurveyContents" style="display:none;"><a href="//www.bizrate.com/?rf=sur" style="background:url(\'https://images.bizrate.com/eval/survey/invite_template/non-buyer/surveyByBZ.gif\');color:#fff;width: 111px;height: 23px;display:block;right:10px;top:35px;position:absolute;z-index:1000000;text-indent: -9999px;" target="_blank">Bizrate</a></div>');
-		//var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
-		//po.src = '//eval.bizrate.com/js/survey_254238_1.js';
-		//var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
 		// Medal
 		var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
 		po.src = '//medals.bizrate.com/medals/js/254238_medal.js';
@@ -1141,13 +1191,12 @@ Privacy Policy </span>
 		ecomm_pagetype: 'REPLACE_WITH_VALUE',
 		ecomm_totalvalue: 'REPLACE_WITH_VALUE',
 	};
+	_gaq.push(['_setSiteSpeedSampleRate', 5]);
 </script>
 <script type="text/javascript">
-	/* <![CDATA[ */
 	var google_conversion_id = 1072646348;
 	var google_custom_params = window.google_tag_params;
 	var google_remarketing_only = true;
-	/* ]]> */
 </script>
 <script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js"></script>
 <noscript>
@@ -1157,11 +1206,12 @@ Privacy Policy </span>
 </noscript>
 
 <!--[if !IE 8]><!-->
-	<script bronto-popup-id="24da664e-65e0-491b-badd-a8f3f8a87e5f" src="https://cdn.bronto.com/popup/delivery.js"></script>
+	<script data-cfasync="false" bronto-popup-id="24da664e-65e0-491b-badd-a8f3f8a87e5f" src="https://cdn.bronto.com/popup/delivery.js"></script>
 <!--<![endif]-->
-		<div style="display:none;" id="lastCacheTime">Thursday 13th of November 2014 10:21:27 AM</div>
+		<div style="display:none;" id="lastCacheTime">Saturday 13th of June 2015 07:20:39 PM</div>
 
 				
+
 
 <script type="text/javascript">
 if (document.addEventListener) {
@@ -1222,16 +1272,11 @@ if (document.addEventListener) {
     }
     //]]>
 </script>
-<script type="text/javascript">
+<script data-cfasync="false" type="text/javascript">
   mybuys.initPage();
 </script>
 			</div>
 		</div>
-					<script type="text/javascript">
-/* <![CDATA[ */
-(function(){try{var s,a,i,j,r,c,l=document.getElementsByTagName("a"),t=document.createElement("textarea");for(i=0;l.length-i;i++){try{a=l[i].getAttribute("href");if(a&&"/cdn-cgi/l/email-protection"==a.substr(0 ,27) && (a.length > 28)){s='';j=28;r=parseInt(a.substr(j,2),16);for(j+=2;a.length-j&&a.substr(j,1)!='X';j+=2){c=parseInt(a.substr(j,2),16)^r;s+=String.fromCharCode(c);}j+=1;s+=a.substr(j,a.length-j);t.innerHTML=s.replace(/</g,"&lt;").replace(/>/g,"&gt;");l[i].setAttribute("href","mailto:"+t.value);}}catch(e){}}}catch(e){}})();
-/* ]]> */
-</script>
-
+					
 
 </body></html>
