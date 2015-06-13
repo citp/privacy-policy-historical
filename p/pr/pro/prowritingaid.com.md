@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the prowritingaid.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121120721id_/http%3A//prowritingaid.com/en/Home/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prowritingaid.com privacy policy that was archived on 2015-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150613064814id_/https%3A//prowritingaid.com/en/Home/Privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -84,7 +84,7 @@ This policy was last modified on 14-Mar-13
 If there are any questions regarding this privacy policy you may contact us using the information below. 
 
 http://prowritingaid.com/en/Home/Contact  
-10A Henry Road  
-London, London N4 2LH  
+College Farmhouse  
+Denton, Oxford OX44 9JJ  
 United Kingdom  
 hello@prowritingaid.com
