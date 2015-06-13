@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the grandprix.com.au privacy policy that was archived on 2014-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141208021953id_/http%3A//www.grandprix.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grandprix.com.au privacy policy that was archived on 2015-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150613092142id_/http%3A//www.grandprix.com.au/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | 2015 Formula 1 Australian Grand Prix
+# Privacy Policy | 2016 Formula 1 Australian Grand Prix
 
 The Australian Grand Prix Corporation (AGPC) respects your privacy and is committed to the protection of your personal information. This Policy outlines the policy of AGPC in managing personal information which it holds.
 
-AGPC is a statutory corporation established by the Australian Grands Prix Act 1994 (Vic) (AGP Act) and is bound by the Information Privacy Principles contained in the Information Privacy Act 2000 (Vic) (IP Act).
+AGPC is a statutory corporation established by the _Australian Grands Prix Act 1994 (Vic)_ (AGP Act) and is bound by the Information Privacy Principles contained in the _Privacy and Data Protection Act (2014) (Vic)_ (IP Act).
 
 In summary, Personal Information is information relating to an individual which can be used to identify that individual.
 
-AGPC is also bound by the Spam Act 2003 (Cth) (Spam Act), which regulates the sending of commercial electronic messages such as by email or SMS as well as the Do Not Call Register Act 2006 (Cth), which regulates phone calls. In addition, AGPC is bound by the Health Records Act 2001 (Vic) in respect of health-related information.
+AGPC is also bound by the _Spam Act 2003 (Cth)_ (Spam Act), which regulates the sending of commercial electronic messages such as by email or SMS as well as the _Do Not Call Register Act 2006 (Cth)_ , which regulates phone calls. In addition, AGPC is bound by the _Health Records Act 2001 (Vic)_ in respect of health-related information.
 
 ## Why does AGPC collect personal information?
 
@@ -48,7 +48,23 @@ AGPC collects personal information in a number of ways, including:
 
 ## Web Site Collection
 
-AGPC collects personal information from its web sites ([www.grandprix.com.au](http://www.grandprix.com.au/) and [www.motogp.com.au](http://www.motogp.com.au/)) through subscription. These web sites will, from time to time, contain links to other web sites. AGPC is not responsible for the privacy practices or the content of such other web sites.
+AGPC collects personal information from its web sites ([www.grandprix.com.au](http://www.grandprix.com.au/) and [www.motogp.com.au](http://www.motogp.com.au/)) (Web Sites) through subscription. 
+
+**External Links**
+
+These Web Sites will, from time to time, contain links to other web sites. AGPC is not responsible for the privacy practices or the content of such other web sites.
+
+**Web Site Analytics**
+
+The Web Sites use Google Analytics, a tool provided by Google which allows AGPC to internally analyze visitor traffic and monitor site navigation, by transmitting website traffic data to servers located in the United States. Google Analytics gathers aggregate anonymous data, without identifying associations between IP addresses and the users’ preferences, in order to ultimately improve the user experience. By using the Web Site(s), you are consenting to Google processing the data collected through the Web Site(s) in accordance with the Google privacy policy for the purposes stated. You may choose to opt-out of Google Analytics by changing your computer settings accordingly.
+
+**Cookies**
+
+AGPC employs a standard technology called cookies on its Web Sites. A cookie is a simple text file that is stored on your computer and enables a website to remember your preferences, navigation and actions whilst you are using the Web Site(s) (Cookie). Cookies are used by the majority of web sites and are utilized in order to gather information that will allow AGPC to optimize the overall user experience. 
+
+There are various types of Cookies that are used to satisfy different objectives. For its purposes, AGPC may use either a “session” Cookie which is active only for the duration of your visit on the Web Site(s) or a “persistent” Cookie which operates for repeat visits on the Web Site(s). The information gathered by a Cookie is not directly attributed to you and does not access information that is already stored on your computer or files. 
+
+The information gathered by the Cookies on the Web Sites may be used by AGPC and reputable third party service providers, advertisers and/or our partners to assist in the delivery of relevant marketing messages and advertisements through the placement of web beacons on third party web sites. 
 
 ## How might AGPC use and disclose your personal information?
 
