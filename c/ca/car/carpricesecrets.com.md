@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the carpricesecrets.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120120114id_/http%3A//www.carpricesecrets.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carpricesecrets.com privacy policy that was archived on 2015-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150613063027id_/http%3A//www.carpricesecrets.com/privacy) for the most accurate reproduction.*
 
 # CarPriceSecrets.com - Privacy Policy
 
