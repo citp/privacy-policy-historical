@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the planetsuperheroes.com privacy policy that was archived on 2014-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140826212503id_/http%3A//www.planetsuperheroes.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the planetsuperheroes.com privacy policy that was archived on 2015-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150613121704id_/http%3A//www.planetsuperheroes.com/pages/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Planet SuperHeroes
+# Privacy Policy
 
 We ensure the privacy of all our members.
 
