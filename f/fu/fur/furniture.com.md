@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the furniture.com privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217001147id_/http%3A//www.furniture.com/shared/Pages/customerservice/policy.aspx%23190) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the furniture.com privacy policy that was archived on 2015-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150613122518id_/http%3A//www.furniture.com/shared/Pages/customerservice/policy.aspx%23190) for the most accurate reproduction.*
 
 # Our Policies | Furniture.com
 
