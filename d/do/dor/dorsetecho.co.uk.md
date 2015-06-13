@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the dorsetecho.co.uk privacy policy that was archived on 2014-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141104142016id_/http%3A//www.dorsetecho.co.uk/my/account/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dorsetecho.co.uk privacy policy that was archived on 2015-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150613214253id_/http%3A//www.dorsetecho.co.uk/my/account/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy
-
-#### Privacy Policy
 
 Publishing companies in the Newsquest Media Group do not store or capture personal data about you when you visit one of our sites, other than to record the IP address of your computer or device, your web browser and the number of pages you view during a visit.
 
@@ -16,47 +14,47 @@ In these transactional environments, you will also need to have cookies enabled 
 
 Newsquest Media Group publishing companies are registered with the Data Protection Commission in the UK and we adhere to the Data Protection Act 1998.
 
-#### 1\. Personal responsibility and choice
+**1\. Personal responsibility and choice**
 
 Disclosure of personal, private and confidential material is at your own risk. Any information you choose to disseminate on the website, community forums, reader comment pages or blogs becomes public information and, subject to our **[Terms](https://web.archive.org/my/account/termsandconditions/)** , remains online. We cannot control site users and advise you to exercise care in disclosing personal information on the internet. However, we shall take care of any personal information you supply to us as described in this policy in accordance with data protection legislation. Persons under 16 should not disclose to us any personal information without first getting the permission of a parent or guardian.
 
-#### 2\. Our policy
+**2\. Our policy**
 
 By registering or subscribing to this website, or otherwise providing personal information to us, you agree to the collection, retention, usage and distribution of your personal information under this policy and the **[Terms](https://web.archive.org/my/account/termsandconditions/)** of use of the website.
 
-#### 3\. Changes of policy
+**3\. Changes of policy**
 
 This policy may be revised or updated at any time and we encourage you to familiarise yourself with it and read it frequently to keep yourself updated.
 
-#### 4\. Use of your personal information
+**4\. Use of your personal information**
 
 Your personal information, including contact information such as postal and email addresses and telephone numbers, may be used by us or by one of our connected companies (as defined in section 9 of the **[Terms](https://web.archive.org/my/account/termsandconditions/)** ) for any of our internal purposes, including for instance, administration, site updates or upgrades. It may be used anonymously for statistical analysis, market research and evaluating the use of our websites. We may also use identifiable personal data for editorial purposes, promotions and marketing of goods and services, but you can indicate you do not wish to receive such information from us by editing your account preferences [here](https://web.archive.org/my/account/log-in/).
 
-#### 5\. Disclosure of personal information to third parties
+**5\. Disclosure of personal information to third parties**
 
 Your personal information will be disclosed where we are obliged or permitted to do so by law, or in the circumstances described in paragraph 20 of the Terms. We may disclose non-personally identifiable data to commercial advertisers on our websites or any other of our commercial clients to help them understand and meet potential customer preferences and needs. We may disclose your personal information to selected third parties who may then send information to you about goods and services. You can indicate you do not wish to receive such information by editing your account preferences [here](https://web.archive.org/my/account/log-in/).
 
-#### 6\. Retention of personal information
+**6\. Retention of personal information**
 
 We will keep your personal information securely on our systems for as long as may be necessary for the purposes described in this policy. At any time you can tell us if you do not want us to continue to store and use your details and we will erase them and cancel your registration for the website, although we may need to keep for a minimum of 12 months thereafter any messaging transcript data in connection with the use of community forums, reader comments or blogs or any other part of the website.
 
-#### 7\. Other information
+**7\. Other information**
 
 In addition to personal information we obtain, including your name, postal and email addresses and telephone numbers, we may also collect information that is in no way personally identifiable. This may include the operating system you are working on, the internet browser you are using, the domain name of your internet service provider and the websites you visit directly before and after your visit.
 
-#### 8\. Cookies
+**8\. Cookies**
 
 A "cookie" is a piece of software which can stick to a computer's hard drive and recalls details about how your computer operates. We reserve the right to use this information to track your movements through our website. Personal information about you is not collected during this process. You can disable the cookies if your browser allows this. For further information please see our **[cookies policy](https://web.archive.org/my/account/cookiespolicy/)**.
 
-#### 9\. Third party advertising companies
+**9\. Third party advertising companies**
 
 Newsquest uses third-party advertising companies such as Google to serve ads when you visit our websites. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and would like to know your options in relation to not having this information used by these companies, click [here](http://www.networkadvertising.org/).
 
-#### 10\. Data protection
+**10\. Data protection**
 
 You are entitled to request personal data that we hold about you for a small charge. You can insist that we correct any information about you.
 
-#### 11\. Third party policies
+**11\. Third party policies**
 
 Third parties and websites linked to our site may collect or use information about you. We are not liable for the information practices of unconnected companies or other persons except as may be required by law.
 
