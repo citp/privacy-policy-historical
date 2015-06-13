@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the monitor.us privacy policy that was archived on 2014-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141218223739id_/http%3A//www.monitor.us/en/privacy-cookies-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the monitor.us privacy policy that was archived on 2015-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150614000228id_/http%3A//www.monitor.us/en/privacy-cookies-policy) for the most accurate reproduction.*
 
 # Privacy and Cookies Policy - Monitor.Us
 
@@ -11,7 +11,7 @@ Please read the following carefully to understand our policies and practices reg
 
 ### Children under the age of 13
 
-Our Website is not intended for children under 13 years of age. No one under age 13 may provide any personal information to or on the Website. We do not knowingly collect personal information from children under 13. If you are under 13, please do not register on the Website, make any purchases through the Website or send any information about yourself to us. In the event that we learn that we have collected personal information from a child under age 13 without verification of parental consent, we will delete that information. If you believe that we might have any information from or about a child under 13, please contact us at legal@gfi.com.
+Our Website is not intended for children under 13 years of age. No one under age 13 may provide any personal information to or on the Website. We do not knowingly collect personal information from children under 13. If you are under 13, please do not register on the Website, make any purchases through the Website or send any information about yourself to us. In the event that we learn that we have collected personal information from a child under age 13 without verification of parental consent, we will delete that information. If you believe that we might have any information from or about a child under 13, please contact us at help@monitor.us.
 
 ### Information we collect about you
 
@@ -70,6 +70,20 @@ http://www.omniture.com/en/privacy/2o7#optout.
 In addition, you may also set your browser to refuse cookies, or to alert you when cookies are being sent. If you do so, please note that some parts of this site may then be inaccessible or not function properly.  
 This website uses social buttons to enable sharing of pages and third party services to display media. As such, cookies and scripts from third party sites have been used and these third parties may be gathering usage information. 
 
+### Use of web analytics tools
+
+Monitor.us has enabled Google Analytics Advertiser Features that include:
+
+  * Remarketing with Google Analytics
+  * Google Display Network Impression Reporting
+  * DoubleClick Platform integrations
+  * Google Analytics Demographics and Interest Reporting
+
+
+
+Google Analytics Advertiser Features enable Google Analytics to collect data via [Google advertising cookies](https://www.google.com/policies/privacy/key-terms/#toc-terms-cookie) and [anonymous identifiers](https://www.google.com/policies/privacy/key-terms/#toc-terms-identifier), in addition to data collected through a standard Google Analytics implementation.   
+If you do not want Google Analytics to collect and use your data you can use Google Analytics' [currently available opt-outs](https://tools.google.com/dlpage/gaoptout/). 
+
 ### Information you provide to us
 
 We may collect and use the following information that you provide to us:   
@@ -101,7 +115,7 @@ The information we collect is merely statistical data about our users' equipment
 
 ### User Contributions
 
-You are responsible for any content, including personal information, that you contribute to be posted, published or displayed on the Website, or transmit to other users of the Website (collectively, "User Contributions"). Your User Contributions are posted on and transmitted to other users of the Website at your own risk. Although we limit access to certain pages, you may set certain privacy settings for such information by logging into your account profile, please be aware that no security measures are perfect or impenetrable. Additionally, we cannot control the actions of other users of the Website with whom you may choose to share your User Contributions; therefore, we cannot guarantee who will view your User Contributions. We are not responsible for circumvention by third parties of any privacy settings or security measures contained on the Website. You understand and acknowledge that, even after removal, copies of your User Contributions may remain viewable in cached and archived pages, or may have been copied or stored by other Website users. Proper access and use of information provided on the Website, including User Contributions, is governed by this Privacy Policy and our Terms of Use and known or suspected violations should be reported to privacy@gfi.com.
+You are responsible for any content, including personal information, that you contribute to be posted, published or displayed on the Website, or transmit to other users of the Website (collectively, "User Contributions"). Your User Contributions are posted on and transmitted to other users of the Website at your own risk. Although we limit access to certain pages, you may set certain privacy settings for such information by logging into your account profile, please be aware that no security measures are perfect or impenetrable. Additionally, we cannot control the actions of other users of the Website with whom you may choose to share your User Contributions; therefore, we cannot guarantee who will view your User Contributions. We are not responsible for circumvention by third parties of any privacy settings or security measures contained on the Website. You understand and acknowledge that, even after removal, copies of your User Contributions may remain viewable in cached and archived pages, or may have been copied or stored by other Website users. Proper access and use of information provided on the Website, including User Contributions, is governed by this Privacy Policy and our Terms of Use and known or suspected violations should be reported to help@monitor.us.
 
 ### Disclosure of your information
 
@@ -129,7 +143,7 @@ You can review and update your personal information by logging into the Website 
 ### Unsubscribing
 
 In each and every email that we send to you, there is an 'unsubscribe' hyperlink, which you may you use if you wish to 'opt out' of and stop receiving email communications from us. The hyperlink will direct you to our website, where upon entering the email address that you no longer wish to receive Monitis emails, one last confirmation email shall then be sent to the email address you designate. Merely confirm that you do indeed wish to stop Monitis email's being sent to you and that email address shall automatically be unsubscribed.  
-Alternatively, you may email Monitis at unsubscribe@gfi.com with your request, stating 'Unsubscribe' in the header and what email addresses you wish not to receive Monitis emails and within a reasonable period, we shall ensure that such email addresses are unsubscribed and shall no longer receive any communications from us. 
+Alternatively, you may email Monitis at help@monitor.us with your request, stating 'Unsubscribe' in the header and what email addresses you wish not to receive Monitis emails and within a reasonable period, we shall ensure that such email addresses are unsubscribed and shall no longer receive any communications from us. 
 
 ### Where we store your personal data
 
@@ -144,11 +158,11 @@ The safety and security of your information also depends on you. Where we have g
 
 ### Your rights
 
-You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data. You can also exercise the right at any time by contacting us at privacy@gfi.com. Our Website may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal data to these websites. 
+You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data. You can also exercise the right at any time by contacting us at help@monitor.us. Our Website may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal data to these websites. 
 
 ### Your California privacy rights
 
-California Civil Code Section § 1798.83 permits users of our Website that are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an e-mail to privacy@gfi.com.
+California Civil Code Section § 1798.83 permits users of our Website that are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an e-mail to help@monitor.us.
 
 ### Access to information
 
