@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the charge.com privacy policy that was archived on 2014-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141025015208id_/http%3A//www.charge.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the charge.com privacy policy that was archived on 2015-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150613112138id_/http%3A//www.charge.com/privacy-policy.aspx) for the most accurate reproduction.*
 
-# Credit Card Processing, Merchant Accounts, Accept Credit Cards
+# Credit Card Processing, Merchant Accounts, Accept Credit Cards Charge.com
 
 Our postal address is:    
 Charge.com Payment Solutions, Inc.  
@@ -40,3 +40,5 @@ Consumers can have this information corrected by sending us e-mail at the above 
 With respect to security: When we transfer and receive certain types of sensitive information such as financial information, we redirect visitors to a secure server.   We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site.
 
 If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number.
+
+[wp_social_sharing social_options=’facebook,twitter,googleplus,linkedin’ twitter_username=” facebook_text=’Share on Facebook’ twitter_text=’Share on Twitter’ googleplus_text=’Share on Google+’ linkedin_text=’Share on Linkedin’ icon_order=’f,t,g,l’ show_icons=’1′]
