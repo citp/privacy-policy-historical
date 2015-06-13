@@ -1,21 +1,16 @@
-> *The following text is extracted and transformed from the directline.com privacy policy that was archived on 2014-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141229145417id_/http%3A//www.directline.com/legal/security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the directline.com privacy policy that was archived on 2015-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150613020416id_/https%3A//www.directline.com/legal/security) for the most accurate reproduction.*
 
 # Security and Privacy - Legal - Direct Line
 
-The U K Insurance Limited owned brands that may share data are Direct Line Insurance, Churchill Insurance, Privilege and Green Flag, who are all part of the same Group.
-
-At Direct Line we are aware of the trust you place in us when you buy our products and our responsibility to protect your information. This notice describes who we are, why we need to collect your information and how we will use it. We will tell you who we share your information with and how we use it to improve the service we provide to our customers.
-
 ## 1- Privacy
 
-### Why we need your information
+### **Why we need your information**
 
 We need your information and that of others you name on the policy to give you quotations, and manage your insurance policy, including underwriting and claims handling. Your information comprises of all the details we hold about you and your transactions and includes information we obtain about you from third parties. We will only collect the information we need so that we can provide you with the service you expect from us.
 
-back to top  
- 
+back to top
 
-### How we will use your information and who we will share it with
+### **How we will use your information and who we will share it with**
 
 Direct Line insurance policies are underwritten by U K Insurance Limited (UKI). When you give us your information, it will be used and shared within the UKI owned brands. We will do that in order to provide you with the best possible products and service experience.
 
@@ -23,12 +18,11 @@ During the course of our dealings with you we may need to use your information t
 
   * Assess financial and insurance risks
   * Prevent and detect crime including anti money laundering and financial sanctions
-  * To comply with our legal and regulatory obligations  
-
+  * To comply with our legal and regulatory obligations
   * Develop our products, services, systems and relationships with you
   * Record your preferences in respect of products and services
   * Recover any debt or if you have any outstanding debt from previous dealings with us we will only offer you a policy upon settlement of the full outstanding amount
-  *  Review our records for signs of any previous fraudulent activity which may affect our ability to offer you cover.
+  * Review our records for signs of any previous fraudulent activity which may affect our ability to offer you cover.
 
 
 
@@ -36,8 +30,7 @@ In carrying out the actions above we may:
 
   * Use the information we hold in our system about you and that of others named on the policy, [for example named drives, joint policy holders]
   * Share the information with agencies that carry out certain activities on our behalf (for example marketing agencies or those who help us underwrite your policy)
-  * Use and share your information with our approved suppliers where this is reasonably required to help deal with your claim or let you benefit from our replacement vehicle and policyholder services, including with our credit hire providers, replacement vehicle suppliers, vehicle repairers and legal advisors.  
-
+  * Use and share your information with our approved suppliers where this is reasonably required to help deal with your claim or let you benefit from our replacement vehicle and policyholder services, including with our credit hire providers, replacement vehicle suppliers, vehicle repairers and legal advisors.
   * Disclose some of your information and that of others named on the policy  
 to other insurers , third party underwriters, reinsurers, credit reference, fraud prevention, regulators and law enforcement agencies and other companies that provide service to us or you.
 
@@ -51,43 +44,35 @@ We do not disclose your information to anyone outside the Group except where:
 
 
 
-  
 back to top
 
-###   
-Where we transfer your information
+### **Where we transfer your information**
 
 From time to time we may require services from suppliers that are based worldwide and your information will be shared with them for the purposes of providing that service. Where we engage these suppliers we make sure that they apply the same levels of protection, security and confidentiality we apply. However, such information may be accessed by law enforcement agencies and other authorities to prevent and detect crime and comply with legal obligations.
 
-back to top  
+back to top
 
-###   
-Sensitive Information
+### **Sensitive Information**
 
-Some of the personal information we ask you for may be sensitive personal information, as defined by the Data Protection Act 1998 (such as information about health or criminal convictions). We will not use such sensitive personal data about you or others except for the specific purpose for which you provide it and to provide the services described in your policy documents.  
+Some of the personal information we ask you for may be sensitive personal information, as defined by the Data Protection Act 1998 (such as information about health or criminal convictions). We will not use such sensitive personal data about you or others except for the specific purpose for which you provide it and to provide the services described in your policy documents.
 
+back to top
 
-  
-back to top  
- 
-
-### Dealing with other people
+### **Dealing with other people**
 
 It is our policy to deal with your spouse or partner who calls us on your behalf, provided they are named on the policy. Please tell us who they are when you take out your policy. If you would like someone else to deal with your policy on your behalf on a regular basis please let us know. In some exceptional cases we may also deal with other people who call on your behalf, with your consent. If at any time you would prefer us to deal only with you, please let us know.
 
 back to top
 
-### Keeping you informed
+### **Keeping you informed**
 
-From time to time we may contact you with special offers or suggest products which may be of interest to you. If you would like not to receive any of these updates you can ask us to stop at any time. You can do that by simply calling our customers services department or by writing to **_Data Protection Officer_** at, UKI, Churchill Court, Westmoreland Road, Bromley, BR1 1DP
+From time to time we may contact you with special offers or suggest products which may be of interest to you. If you would like not to receive any of these updates you can ask us to stop at any time. You can do that by simply calling our customers services department or by writing to Data Protection Officer at, UKI, Churchill Court, Westmoreland Road, Bromley, BR1 1DP
 
-**From time to time we may need to change the way we use your information. Where we believe you may not reasonably expect such a change we will write to you. When we do so, you will have 60 days to object to the change but if we do not hear from you within that time you consent to that change.**
+From **time to time we may need to change the way we use your information. Where we believe you may not reasonably expect such a change we will write to you. When we do so, you will have 60 days to object to the change but if we do not hear from you within that time you consent to that change.**
 
-  
-back to top  
- 
+back to top
 
-### Fraud Prevention and Anti-Money Laundering
+### **Fraud Prevention and Anti-Money Laundering**
 
 Please take time to read the following as it contains important information relating to the details you have given or should give to us. You should show this notice to anyone whose data has been supplied to us in connection with your policy.
 
@@ -115,39 +100,33 @@ We and other organisations may also access and use this information to prevent f
 
 We, and other organisations that may access and use information recorded by fraud prevention agencies, may do so from other countries.
 
-We can provide the names and addresses of the agencies we use if you would like a copy of your information held by them. Please contact: **_Data Protection Officer_** at, UKI, Churchill Court, Westmoreland Road, Bromley, BR1 1DP quoting your reference. The agencies may charge a fee.
+We can provide the names and addresses of the agencies we use if you would like a copy of your information held by them. Please contact: Data Protection Officer at, UKI, Churchill Court, Westmoreland Road, Bromley, BR1 1DP quoting your reference. The agencies may charge a fee.
 
-  
 back to top
 
-### Financial Sanctions
+### **Financial Sanctions**
 
 We will use information about you and that of others named on policy to ensure compliance with financial sanctions in effect in the UK and internationally. This will include the checking of your information against the HM Treasury list of financial sanctions targets as well as other publically available sanctions lists. Your information and that of others named on policy may be shared with HM Treasury and other international regulators where appropriate. You may also be contacted in order to provide further details in order to ensure compliance with Financial Sanctions requirements.
 
-  
 back to top
 
-###   
-Credit Reference Agencies
+### **Credit Reference Agencies**
 
 We carry out a consumer search when any application for insurance is submitted to evaluate insurance risks. This is done only using the data that is publically accessible on your credit file (i.e. bankruptcy, CCJ and electoral roll information). Information about access to the public part of your credit file is automatically deleted after 12 months and in no way affects your ability to obtain credit.
 
 You will have been asked to agree to this when you first contacted us but please ensure that you only provide us with sensitive information about other people with their consent.
 
-  
-back to top  
- 
+back to top
 
-### Access to your information
+### **Access to your information**
 
-You have the right to see the information we hold about you. This is called Subject Access Request. If you would like a copy of your information, please write to:  
-**_Data Access Team_** at, UKI, Churchill Court, Westmoreland Road, Bromley, BR1 1DP quoting your reference. A fee may be payable.
+You have the right to see the information we hold about you. This is called Subject Access Request. If you would like a copy of your information, please write to:
 
-  
-back to top  
- 
+_Data Access Team_ at, UKI, Churchill Court, Westmoreland Road, Bromley, BR1 1DP quoting your reference. A fee may be payable.
 
-### Motor Insurance Database
+back to top
+
+### **Motor Insurance Database**
 
 Information relating to your policy will be added to the Motor Insurance Database (MID) managed by the Motor Insurers’ Bureau (MIB). The MID and the data stored on it may be used by certain statutory and/or authorised bodies including the Police, the DVLA, the DVANI, the Insurance Fraud Bureau and other bodies permitted by law for purposes not limited to but including:
 
@@ -168,31 +147,4 @@ If it is incorrectly shown on the MID you are at risk of having your car seized 
 
 If the registration number is not shown correctly on your policy documents, or you cannot find your car on the MID, please contact us immediately.
 
-  
 back to top
-
-## 2 - Website Security
-
-Any personal data saved is held safely on our mainframe computer, with security systems preventing unauthorised access and we always ensure it is treated confidentially.
-
-We take security very seriously and we use one of the strongest available security systems to protect your communications with us. Whenever you fill in a form, such as a request for a quote, it is automatically protected using something called a Secure Socket Layer (SSL) between your computer and ours. SSL works in the following ways:
-
-  * It prevents impersonation - you can tell that you are using a genuine SSL site by the padlock symbol at the bottom of the screen. Clicking on either the padlock or the image opposite will reveal our Registration Certificate that is issued by Verisign, a leading Internet security company.*
-  * It encrypts data - as soon as your computer has recognised our computer they encrypt all information that is passed between them. Data encryption means that no one else can read or change your information as it travels over the Internet.
-  * It prevents scrambling - SSL uses a Message Authentication Code (MAC) to prevent anyone tampering with our Internet site. Your computer will always check this code before it takes a message from us. This means that if anyone tried to interfere with a message, your computer would not recognise the code and would alert you.
-
-*There are two minor problems with Microsoft Internet Explorer. Neither problem has any effect on the actual security in force, but may make it appear to you as if it is not fully secure.
-
-Internet Explorer 4. The padlock symbol does not always appear at the bottom when it should. A full description of this error, number Q154621, is at <http://support.microsoft.com/support/kb/articles/Q154/6/21.asp>.
-
-Internet Explorer 5. If you click on the padlock symbol to view the security certificate the following message may be displayed: "This certificate has failed to verify for all of its intended purposes". The other details of the certificate shown are correct. A full description of this error, number Q233479, is at <http://support.microsoft.com/support/kb/articles/Q233/4/79.asp>.
-
-
-
-
-  
-back to top  
-
-
-###   
-Cookies
