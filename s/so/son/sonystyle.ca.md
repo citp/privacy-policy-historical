@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sonystyle.ca privacy policy that was archived on 2014-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141218080500id_/http%3A//store.sony.ca/helpdeskarticle/-/-template_sny_helpdesk_safety_security-component_sny_helpdesk_safety_security_privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sonystyle.ca privacy policy that was archived on 2015-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150613020949id_/http%3A//store.sony.ca/helpdeskarticle/-/-template_sny_helpdesk_safety_security-component_sny_helpdesk_safety_security_privacy_policy) for the most accurate reproduction.*
 
 # Sony CA
 
