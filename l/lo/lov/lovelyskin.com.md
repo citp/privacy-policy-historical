@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lovelyskin.com privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123084554id_/http%3A//www.lovelyskin.com/customer-service/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lovelyskin.com privacy policy that was archived on 2015-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150613165746id_/http%3A//www.lovelyskin.com/customer-service/privacy-policy) for the most accurate reproduction.*
 
-# 
+# Privacy Policy at LovelySkin.com
 
 This Privacy Policy covers any personal information obtained when you use features or services at LovelySkin.com. Regardless of the means of access (computer, mobile phone or tablet), this privacy policy governs the use of our site.
 
@@ -79,4 +79,4 @@ For example, we allow you to create an account using information from your Faceb
 
 ## Questions About This Policy
 
-If you have any questions about this Privacy Policy, or the content or practices of our website, you can [contact LovelySkin](https://web.archive.org/customer-service/contact-us) directly.
+If you have any questions about this Privacy Policy, or the content or practices of our website, you can [contact LovelySkin](http://www.lovelyskin.com/customer-service/contact-us) directly.
