@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the federalbank.co.in privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230224116id_/http%3A//www.federalbank.co.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the federalbank.co.in privacy policy that was archived on 2015-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150613230223id_/http%3A//www.federalbank.co.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Federal Bank
 
