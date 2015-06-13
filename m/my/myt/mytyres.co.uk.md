@@ -1,14 +1,7 @@
-> *The following text is extracted and transformed from the mytyres.co.uk privacy policy that was archived on 2014-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140813232800id_/http%3A//www.mytyres.co.uk/datenschutz.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mytyres.co.uk privacy policy that was archived on 2015-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150613030742id_/http%3A//www.mytyres.co.uk/datenschutz.html) for the most accurate reproduction.*
 
 # Delticom Privacy Policy - Tyres online @ mytyres.co.uk
 
-[](https://web.archive.org/web/20140813232800id_/http%3A//www.mytyres.co.uk/index.html)
-
-Contact us
-
-0808 1891233   
-freephone  
-  
 ---  
   
 | 
@@ -35,9 +28,9 @@ We collate the following information:
 
   * **Information you provide us with** : We collate and save all details, which you enter on our web site or which you transfer to us in any other way. You can decide not to provide us with certain details, which may, however, lead to you not being able to use many of our offers (services/features). 
   * **Automatic information** : As soon as you contact us we receive and save certain details. Amongst others, we use - as many other web sites do, too - so-called "cookies" and receive certain details as soon as your web browser opens a Delticom web site. Various companies offer software packages, which enable you to view the web sites anonymously. Although we are no longer able to offer you a personalised shopping experience, as soon as we cannot recognise you, we would like you to know that these tools are available. Usage data, which we collate, are only collated and saved as anonymised data. Thus for example, we analyse anonymously and summarised how many clicks reach our shop and from which web site these come. 
-  * **Communication via email** : We store the contract's content and will send you the details of your order as well as our general terms via e-mail. You can find the terms here at all times. The details about your recent orders can be found in your customer login "[Your orders](http://www.mytyres.co.uk/cgi-bin/yourorder.pl?dsco=110)". 
+  * **Communication via email** : We store the contract's content and will send you the details of your order as well as our general terms via e-mail. You can find the terms here at all times. The details about your recent orders can be found in your customer login "[Your orders](http://www.mytyres.co.uk/cgi-bin/yourorder.pl?dsco=110&wt_eid=2158214649800024531&wt_t=1582146501986)". 
 
-In order to be able to make your emails more useful and interesting we often receive a confirmation which of the Delticom emails you open, as far as your computer supports this function. Subsequent to each order you have got the opportunity to take part in a survey. If you participate you can grant us the permission to send you offers or the like. We also offer you the possibility to register for our newsletter e.g. at http://www.mytyres.co.uk. If you would not like to receive any emails from us in principle, please send an email to: mytyres.co.uk@delti.com. In the future you may choose your preferences as appropriate via your user account "[Your orders](http://www.mytyres.co.uk/cgi-bin/yourorder.pl?dsco=110)". 
+In order to be able to make your emails more useful and interesting we often receive a confirmation which of the Delticom emails you open, as far as your computer supports this function. Subsequent to each order you have got the opportunity to take part in a survey. If you participate you can grant us the permission to send you offers or the like. We also offer you the possibility to register for our newsletter e.g. at http://www.mytyres.co.uk. If you would not like to receive any emails from us in principle, please send an email to: mytyres.co.uk@delti.com. In the future you may choose your preferences as appropriate via your user account "[Your orders](http://www.mytyres.co.uk/cgi-bin/yourorder.pl?dsco=110&wt_eid=2158214649800024531&wt_t=1582146501986)". 
 
   * **Information from other sources** : Occasionally we also use information about you from other sources and add these to our information about your customer account. We reserve the right to obtain information from third parties (e.g. mail-order companies, commercial credit agencies) in order to offer you certain payment possibilities (e.g. purchase on account) or other financial services. 
 
@@ -65,7 +58,7 @@ For our website we enlist the services of IT security service provider Device In
 
 #### Convenient shopping with Delticom 
 
-  * Convenient shopping means that at the end of your first or any subsequent order you have the opportunity to enter a password you have chosen yourself. Using your email address and your password you may then track your order at any time online at [Your orders](http://www.mytyres.co.uk/cgi-bin/yourorder.pl?dsco=110), you may change the order or send us messages directly regarding your order. Convenient shopping also means that in the future you will only need to log in e.g. at Reifendirekt.de using your password and the relevant email address and that your customer details, such as name, address etc. will already be displayed. You will not need to enter any data as we save them for you. Of course, you can change your data upon ordering or later at "[Your orders](http://www.mytyres.co.uk/cgi-bin/yourorder.pl?dsco=110)". If you have forgotten your password you can have it resent to you in an email via "[Your orders](http://www.mytyres.co.uk/cgi-bin/yourorder.pl?dsco=110)". If you did not enter a password with your order you can have a Delticom password sent to you in an email, which has been internally assigned to your particular order.
+  * Convenient shopping means that at the end of your first or any subsequent order you have the opportunity to enter a password you have chosen yourself. Using your email address and your password you may then track your order at any time online at [Your orders](http://www.mytyres.co.uk/cgi-bin/yourorder.pl?dsco=110&wt_eid=2158214649800024531&wt_t=1582146501986), you may change the order or send us messages directly regarding your order. Convenient shopping also means that in the future you will only need to log in e.g. at Reifendirekt.de using your password and the relevant email address and that your customer details, such as name, address etc. will already be displayed. You will not need to enter any data as we save them for you. Of course, you can change your data upon ordering or later at "[Your orders](http://www.mytyres.co.uk/cgi-bin/yourorder.pl?dsco=110&wt_eid=2158214649800024531&wt_t=1582146501986)". If you have forgotten your password you can have it resent to you in an email via "[Your orders](http://www.mytyres.co.uk/cgi-bin/yourorder.pl?dsco=110&wt_eid=2158214649800024531&wt_t=1582146501986)". If you did not enter a password with your order you can have a Delticom password sent to you in an email, which has been internally assigned to your particular order.
 
 
 
@@ -75,7 +68,7 @@ The data about our customers are important to us and help us to optimise your of
 
   * **Affiliated companies** : Delticom passes on personal data (and user data) for order processing purposes to affiliated companies and their subsidiary companies. These companies are either subject to this Privacy Policy or comply with regulations, which guarantee at the least the same protection as this Privacy Policy. 
   * **Service provider** : We commission other companies and individuals with the fulfilment of tasks on our behalf. Some examples are amongst others the parcel delivery, the sending of letters or emails, the maintenance of our customer lists, the analysis of our data bases, advertising measures, the processing of payments (credit cards, direct debiting system and purchase on account) as well as customer services. These service providers have got access to personal information, which they require for the fulfilment of their tasks. They may, however, not use them for any other purposes. In addition to that they are obliged to treat the information in accordance with this Privacy Policy as well as the German Data Protection Acts. 
-  * **Promotions:** We offer you the possibility to register for our newsletter e.g. at http://www.mytyres.co.uk. If you would not like to receive such offers you may deregister e.g. at http://www.mytyres.co.uk or by sending an email to mytyres.co.uk@delti.com. In the future you may simply choose your preferences as appropriate via your user account "[Your orders](http://www.mytyres.co.uk/cgi-bin/yourorder.pl?dsco=110)". Subsequent to each order you have got the opportunity to take part in a survey and to grant us the permission to pass on your data to third parties for marketing purposes. Only if you actively confirm this option we will pass on your data to selected cooperation partners or we will send offers on behalf of other companies. As far as this is the case that company will neither receive your name, nor your address nor any other personal identifying information. The survey and the permission to pass on your data to third parties for marketing purposes is independent from one another, which means that you may fill in the questionnaire without granting us the permission to pass on your data and vice versa, if you so wish. 
+  * **Promotions:** We offer you the possibility to register for our newsletter e.g. at http://www.mytyres.co.uk. If you would not like to receive such offers you may deregister e.g. at http://www.mytyres.co.uk or by sending an email to mytyres.co.uk@delti.com. In the future you may simply choose your preferences as appropriate via your user account "[Your orders](http://www.mytyres.co.uk/cgi-bin/yourorder.pl?dsco=110&wt_eid=2158214649800024531&wt_t=1582146501986)". Subsequent to each order you have got the opportunity to take part in a survey and to grant us the permission to pass on your data to third parties for marketing purposes. Only if you actively confirm this option we will pass on your data to selected cooperation partners or we will send offers on behalf of other companies. As far as this is the case that company will neither receive your name, nor your address nor any other personal identifying information. The survey and the permission to pass on your data to third parties for marketing purposes is independent from one another, which means that you may fill in the questionnaire without granting us the permission to pass on your data and vice versa, if you so wish. 
   * **Assignment of business shares** : As we continue to develop our business it may be that individual subsidiary companies or we sell or buy company shares or units (e.g. shops). In the course of such transactions the customer information are usually assigned together with the part of the company that is to be assigned. However, the data continue to be subject to the previously existing Privacy Policies (of course, with exception of the case where the customer expressly agrees to other regulations). In the rather unlikely event that Delticom in its entirety or its essential parts are sold the personal data will be passed on to the buyer. 
   * **Protection of Delticom and third parties** : We make known customer accounts and the customers' personal data if we are legally obliged to do so or if such a passing on of the information is required in order to assert our General Terms and Conditions or other agreements or in order to protect our rights as well as the rights of our customers and those of third parties. This includes the exchange of data with companies, which have specialised in the prevention and minimisation of misuse and credit card fraud. We expressly declare that in this connection no data are passed on to these companies for any economic use, which is in contradiction to this Privacy Policy. 
   * **With your consent** : After entering your order you have got the opportunity to take part in a marketing survey. Thereby you grant us the permission to pass on your data to third parties in other cases, too.   
@@ -94,14 +87,14 @@ As far as personal information are passed on to third parties to the extent desc
 
 
 
-#### Which information can I view at "[Your orders](http://www.mytyres.co.uk/cgi-bin/yourorder.pl?dsco=110)"? 
+#### Which information can I view at "[Your orders](http://www.mytyres.co.uk/cgi-bin/yourorder.pl?dsco=110&wt_eid=2158214649800024531&wt_t=1582146501986)"? 
 
-You can view a range of information about your account and your interaction with Delticom. At [Your orders](http://www.mytyres.co.uk/cgi-bin/yourorder.pl?dsco=110) respectively we provide you with a central access ([Your orders](http://www.mytyres.co.uk/cgi-bin/yourorder.pl?dsco=110)). Currently, you may view the following information there: 
+You can view a range of information about your account and your interaction with Delticom. At [Your orders](http://www.mytyres.co.uk/cgi-bin/yourorder.pl?dsco=110&wt_eid=2158214649800024531&wt_t=1582146501986) respectively we provide you with a central access ([Your orders](http://www.mytyres.co.uk/cgi-bin/yourorder.pl?dsco=110&wt_eid=2158214649800024531&wt_t=1582146501986)). Currently, you may view the following information there: 
 
   * An overview over your orders with Delticom; this overview includes details regarding order numbers, brand / item name / profile / dimension, quantity, order date, expected delivery date /delivery status, details. 
   * At "Change access details" you may enter a new password. 
   * At "Change email address" you have the possibility to update the email address you have provided us with. 
-  * At "Last login" your last login details for "[Your orders](http://www.mytyres.co.uk/cgi-bin/yourorder.pl?dsco=110)" with date, day and time are displayed. 
+  * At "Last login" your last login details for "[Your orders](http://www.mytyres.co.uk/cgi-bin/yourorder.pl?dsco=110&wt_eid=2158214649800024531&wt_t=1582146501986)" with date, day and time are displayed. 
   * At "Details of an order" you can view the costs of your order, the billing address, the delivery address, process of the order, information about timing and status and you have the possibility to contact us via a contact form. 
 
 This list is altered in accordance with the changes to our web site (as per 26th of April 2005). 
@@ -109,8 +102,8 @@ This list is altered in accordance with the changes to our web site (as per 26th
 #### Which options do I have? 
 
   * As described above you always have the choice not to provide any information although such information may be needed for purchases or for using Delticom features such as compiling consumer reports on the Delticom web sites. 
-  * On the pages listed above under the topic "Which information can I view at "[Your orders](http://www.mytyres.co.uk/cgi-bin/yourorder.pl?dsco=110)"?" you can add or update certain information. If you update your information we usually keep a copy of your original details in our documents. 
-  * Send an email to mytyres.co.uk@delti.com if you do not wish to receive any emails or other mail form us. In the future you may choose your preferences as appropriate via your user account "[Your orders](http://www.mytyres.co.uk/cgi-bin/yourorder.pl?dsco=110)". 
+  * On the pages listed above under the topic "Which information can I view at "[Your orders](http://www.mytyres.co.uk/cgi-bin/yourorder.pl?dsco=110&wt_eid=2158214649800024531&wt_t=1582146501986)"?" you can add or update certain information. If you update your information we usually keep a copy of your original details in our documents. 
+  * Send an email to mytyres.co.uk@delti.com if you do not wish to receive any emails or other mail form us. In the future you may choose your preferences as appropriate via your user account "[Your orders](http://www.mytyres.co.uk/cgi-bin/yourorder.pl?dsco=110&wt_eid=2158214649800024531&wt_t=1582146501986)". 
   * The help function in the menu bar of most web browsers will explain how you can avoid your browser accepting new cookies, how you can inform your browser about receiving a new cookie or how you can switch off all cookies you received. If you do not use cookies you may possible not be able to use all features of the Delticom shop. 
 
 
@@ -125,7 +118,7 @@ If you have any questions regarding Delticom's data protection, please, write - 
 
 #### Related topics
 
-[General Terms and Conditions](https://web.archive.org/web/20140813232800id_/http%3A//www.mytyres.co.uk/AGBs.html)
+[General Terms and Conditions](https://web.archive.org/web/20150613030742id_/http%3A//www.mytyres.co.uk/AGBs.html)
 
 #### Information you provide us with 
 
@@ -153,4 +146,8 @@ Examples for information which you can easily access at Delticom: This includes 
   
 #### Privacy settings for web analysis
 
-Delticom uses cookies to give you the best possible service. [Please click here if you do not wish to be tracked by Webtrekk.](http://optout.webtrekk.net/optout.php?r=http%3A%2F%2Fbizmaster.delti.com%2Fcgi-bin%2Frshop.pl%3Fdsco%3D110%26cart_id%3D%26s_p%3Ddatenschutz%26make_html_site%3D172%23webtrekk)
+Delticom uses cookies to give you the best possible service. [Please click here if you do not wish to be tracked by Webtrekk.](http://optout.webtrekk.net/optout.php?r=http%3A%2F%2Fwww.mytyres.co.uk%2Fdatenschutz.html)  
+  
+© 1999-2015 by [ Delticom](http://www.delti.com/) / [mytyres.co.uk](http://www.mytyres.co.uk/?wt_eid=2158214649800024531&wt_t=1582146501986) 12.06.2015 15:26   
+  
+---
