@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the petbarn.com.au privacy policy that was archived on 2014-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140925122657id_/http%3A//www.petbarn.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the petbarn.com.au privacy policy that was archived on 2015-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150613144731id_/http%3A//www.petbarn.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
