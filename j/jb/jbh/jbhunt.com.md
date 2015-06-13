@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the jbhunt.com privacy policy that was archived on 2013-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130615005839id_/http%3A//www.jbhunt.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jbhunt.com privacy policy that was archived on 2015-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150613053650id_/http%3A//www.jbhunt.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# J.B. Hunt Transport: Privacy Policy
 
 We respect and are committed to protecting your privacy. That is why we have adopted this Privacy Policy. This Privacy Policy lets you know how your personal information is processed and used. We promise to take the steps necessary to use your personal information only in ways that are compatible with this Privacy Policy.
 
@@ -35,3 +35,5 @@ Privacy Statement:
 <http://go.microsoft.com/fwlink/?LinkId=21970> ©Copyright All Contents Copyright © 2010, J.B. Hunt Transport Services, Inc. All Rights Reserved. , J.B. Hunt Transport, Inc. All rights reserved. All text, images, graphics, animation, videos, music, sounds and other materials on this Web site are subject to the copyrights and other intellectual property rights of J.B. Hunt Transport, Inc. J.B. Hunt Transport, Inc. owns the copyrights in the selection, coordination and arrangement of the materials on this site. These materials may not be copied for commercial use or distribution, nor may these materials be modified or reposted to other sites. Our mailing address is: J.B. Hunt Transport Services, Inc. P. O. Box 130 Lowell, AR 72745 Attn: Johnie Wood We can also be reached at[webmaster@jbhunt.com](mailto:webmaster@jbhunt.com) or by telephone at 479-820-0000.
 
 
+
+This site and all content is copyright © 2015 J.B. Hunt Transport, Inc. The J.B. Hunt logo, content or images may not be used or reproduced by any means without express, written consent. See our[Privacy Policy.](https://web.archive.org/privacy/)
