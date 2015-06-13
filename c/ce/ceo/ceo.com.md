@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ceo.com privacy policy that was archived on 2013-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130506042042id_/http%3A//www.ceo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ceo.com privacy policy that was archived on 2015-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150613111036id_/http%3A//www.ceo.com/privacy-policy) for the most accurate reproduction.*
 
 # CEO.com Privacy Policy | CEO.com
 
