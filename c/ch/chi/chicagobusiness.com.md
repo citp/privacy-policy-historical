@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the chicagobusiness.com privacy policy that was archived on 2014-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141023142335id_/http%3A//www.chicagobusiness.com/section/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chicagobusiness.com privacy policy that was archived on 2015-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150613171419id_/http%3A//www.chicagobusiness.com/section/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Crain's Chicago Business
-
-**Privacy Policy**
 
 Chicagobusiness.com is the Web site operated by Crain's Chicago Business. Crain's Chicago Business is a business unit of Crain Communications Inc. Our postal address is 150 N. Michigan Ave., 16th Floor, Chicago, IL 60601. We can be reached by e-mail at webmaster@chicagobusiness.com or by telephone at 312-280-3141. Your use of our Web site indicates to us that you have read and accepted our Privacy Policy and our Terms and Conditions. 
 
@@ -18,7 +16,7 @@ We may use third-party advertising service vendors to serve advertisements on th
 
 Information collected about subscribers and users may be used by us and our affiliates and partnering third-party companies to provide subscribers and users with the features of the site, to enable us to provide the products you requested, to personalize content and advertising, to send you e-mail notifications about our services and products, for audits, to perform statistical analysis of user behavior in order to measure interest in the various areas of our site (such as for product development purposes), to enforce our user agreement and to inform advertisers as to how many users have seen or "clicked" their advertising banners. We will disclose site usage information to third-parties only in aggregate. 
 
-We may disclose personal information if we are required to do so by law or we in good faith believe that such action is necessary to (1) comply with the law or with legal process; (2) protect and defend our rights and property; (3) protect against misuse or unauthorized use of the Web site; or (4) protect the personal safety or property of our users or the public (among other things, this means that if you provide false information or attempt to pose as someone else, information about you may be disclosed as part of any investigation into your actions). In the event that the Crain’s Chicago Business Web site is acquired by or merged with another company, we may transfer information about you to the successor entity. 
+We may disclose personal information if we are required to do so by law or we in good faith believe that such action is necessary to (1) comply with the law or with legal process; (2) protect and defend our rights and property; (3) protect against misuse or unauthorized use of the Web site; or (4) protect the personal safety or property of our users or the public (among other things, this means that if you provide false information or attempt to pose as someone else, information about you may be disclosed as part of any investigation into your actions). In the event that the Crainâ€™s Chicago Business Web site is acquired by or merged with another company, we may transfer information about you to the successor entity. 
 
 From time to time, we may make individual subscriber or user information available to carefully selected third-parties to send you information through e-mail or postal mail about their products or services. If you prefer not to have your personal information disclosed to third-parties for direct marketing purposes, please send an e-mail stating this preference and including your full name and e-mail address to webmaster@chicagobusiness.com or, if you are a print subscriber, please call 1-800-678-9595. A user may change/correct his/her preferences or personal information at any time online or by contacting us at the above e-mail address or phone number. We retain the right to contact a subscriber or registered user regarding account status, orders for products or services, changes to the registration agreement or to enforce our subscription agreement. 
 
@@ -28,4 +26,4 @@ This Web site is operated in the United States. If you are located in the Europe
 
 If you have any questions or concerns about the substance or implementation of this Privacy Policy, please contact the Crain Communications Inc Legal Department at privacyhelp@crain.com or 313-446-6000. 
 
-Policy Last Updated: August 12, 2010
+Policy Last Updated: August 12, 2010 
