@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the fertilitycommunity.com privacy policy that was archived on 2014-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141226154807id_/http%3A//fertility.org/pages/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fertilitycommunity.com privacy policy that was archived on 2015-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150613170315id_/http%3A//fertility.org/pages/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | Fertility.org | Fertility Forums, Infertility Articles & Videos
 
 [ ](http://fertility.org/)
 
-[](https://web.archive.org/web/20141226154807id_/http://fertility.org/pages/privacy_policy/misc/quick-navigation-menu?selected=node-145 "Open quick navigation")
+[](https://web.archive.org/web/20150613170315id_/http://fertility.org/pages/privacy_policy/misc/quick-navigation-menu?selected=node-145 "Open quick navigation")
 
 **Fertility.org | Fertility Forums, Infertility Articles & Videos**
 
@@ -114,7 +114,7 @@ Elevati, LLC
 343 East 4th North, Suite 200  
 Rexburg, ID 83440
 
-[](https://web.archive.org/web/20141226154807id_/http://fertility.org/pages/privacy_policy/misc/quick-navigation-menu?selected=node-145 "Open quick navigation")
+[](https://web.archive.org/web/20150613170315id_/http://fertility.org/pages/privacy_policy/misc/quick-navigation-menu?selected=node-145 "Open quick navigation")
 
 **Fertility.org | Fertility Forums, Infertility Articles & Videos**
 
