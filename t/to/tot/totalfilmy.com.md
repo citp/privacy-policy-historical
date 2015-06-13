@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the totalfilmy.com privacy policy that was archived on 2014-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141228213552id_/http%3A//www.totalfilmy.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the totalfilmy.com privacy policy that was archived on 2015-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150614013453id_/http%3A//totalfilmy.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Total Filmy
 
