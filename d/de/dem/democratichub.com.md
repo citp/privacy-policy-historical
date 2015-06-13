@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the democratichub.com privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217050712id_/http%3A//www.democratichub.com/website-privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the democratichub.com privacy policy that was archived on 2015-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150613151316id_/http%3A//www.democratichub.com/website-privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Democratic Hub
 
