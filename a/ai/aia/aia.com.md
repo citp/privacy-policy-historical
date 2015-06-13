@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aia.com privacy policy that was archived on 2014-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141228045048id_/http%3A//www.aia.com/en/privacy-statement/privacy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aia.com privacy policy that was archived on 2015-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150613111309id_/http%3A//www.aia.com/en/privacy-statement/privacy-statement.html) for the most accurate reproduction.*
 
 # Privacy Statement | AIA Group Limited
 
