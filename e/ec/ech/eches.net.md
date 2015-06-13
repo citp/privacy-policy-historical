@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eches.net privacy policy that was archived on 2014-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140619035822id_/http%3A//eches.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eches.net privacy policy that was archived on 2015-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150613080608id_/http%3A//eches.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | Eches
 
@@ -35,3 +35,5 @@ Comments made for sole purpose of getting backlinks or advertizing your/any prod
 Spam in any form will not be accepted and will be deleted immediately. We may take action against such spammers.
 
 **eches.net** is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to amazon.com.
+
+## Tell us how can we improve this post? 
