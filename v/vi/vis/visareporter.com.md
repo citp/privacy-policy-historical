@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the visareporter.com privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227023749id_/http%3A//www.visareporter.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the visareporter.com privacy policy that was archived on 2015-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150613171611id_/http%3A//www.visareporter.com/privacy) for the most accurate reproduction.*
 
 # Visareporter - Privacy & Policy
 
