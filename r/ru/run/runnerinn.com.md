@@ -1,15 +1,14 @@
-> *The following text is extracted and transformed from the runnerinn.com privacy policy that was archived on 2014-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141124103048id_/http%3A//www.runnerinn.com%3Faction%3Dterminos%26idioma%3Deng) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the runnerinn.com privacy policy that was archived on 2015-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150613073847id_/http%3A//www.runnerinn.com%3Faction%3Dterminos%26idioma%3Deng) for the most accurate reproduction.*
 
-# runnerinn Terms & conditions. Online running & triathlon gear and running & triathlon equipment shop.
+# runnerinn Terms & conditions. Online running & triathlon gear and running & triathlon equipment shop
 
 Welcome to Tradeinn.com, the first network of online store specialized in selling sports equipment.
 
 [TRADEINN RETAIL SERVICES S.L.](http://www.tradeinn.com/ "TRADEINN RETAIL SERVICES S.L.")
 
-Crta. Palamós, 181-183 (Celra Centre),   
+C/ Pirineus, 9,   
 17460 Celrà (Girona), Spain.   
-Tel.: 718-709-5401   
-Fax: +34 972 49 23 10 
+Tel.: 718-709-5401 
 
 [www.tradeinn.com](http://www.tradeinn.com/ "tradeinn")
 
@@ -21,7 +20,7 @@ Fax: +34 972 49 23 10
 
 1\. INTRODUCTION
 
-1.1. The Terms & Conditions of sale detailed below only govern the contractual relationship between the User/Customer, hereafter referred to as «You» and Tradeinn Retail Services hereafter referred to as «We» and as «Tradeinn». This Terms & Conditions of sale are applicable only to the Tradeinn' Websites: www.scubastore.com, www.trekkinn.com, www.snowinn.com, www.bikeinn.com, www.swiminn.com, www.smashinn.com, www.waveinn.com, wwww.motardinn.com, www.outletinn.com, www.goalinn.com & www.runnerinn.com
+1.1. The Terms & Conditions of sale detailed below only govern the contractual relationship between the User/Customer, hereafter referred to as «You» and Tradeinn Retail Services hereafter referred to as «We» and as «Tradeinn». This Terms & Conditions of sale are applicable only to the Tradeinn' Websites: www.scubastore.com, www.trekkinn.com, www.snowinn.com, www.bikeinn.com, www.swiminn.com, www.smashinn.com, www.waveinn.com, www.dressinn.com, www.traininn.com, wwww.motardinn.com, www.outletinn.com, www.goalinn.com & www.runnerinn.com
 
 1.2. Both parties accept these conditions unreservedly. These general conditions of sale are the only conditions that are applicable and replace all other conditions, except in the case of express, written prior dispensation. We maintain that, by confirming your order, you unreservedly accept our Terms & Conditions of sale, having read them. These Terms and Conditions of sale are important for you and Tradeinn as they have been designed to protect your rights as a valued customer and to protect our rights as a business and to create an understanding between both.
 
@@ -29,11 +28,11 @@ Fax: +34 972 49 23 10
 
 2.1. You must be at least 18 years old to order.
 
-2.2. You have to place the order on our Websites: www.scubastore.com, www.trekkinn.com, www.snowinn.com, www.bikeinn.com, www.swiminn.com, www.smashinn.com, www.waveinn.com, wwww.motardinn.com, www.outletinn.com, www.goalinn.com & www.runnerinn.com (24 hours a day and 7 days a week).
+2.2. You have to place the order on our Websites: www.scubastore.com, www.trekkinn.com, www.snowinn.com, www.bikeinn.com, www.swiminn.com, www.smashinn.com, www.waveinn.com, www.dressinn.com, www.traininn.com, wwww.motardinn.com, www.outletinn.com, www.goalinn.com & www.runnerinn.com (24 hours a day and 7 days a week).
 
 The ordering process consists of 5 easy steps: 
 
-* You choose the products you would like to buy and confirm your basket. If you are interested by an article visible on the Websites follow this process to place the order. After clicking on the "buy" button and verifying the characteristics of your order (colour, amount, size, price, etc…), you validate the choice of one or more selected products with a click.
+* You choose the products you would like to buy and confirm your basket. If you are interested by an article visible on the Websites follow this process to place the order. After clicking on the "Add to basket" button and verifying the characteristics of your order (colour, amount, size, price, etc…), you validate the choice of one or more selected products with a click.
 
 * You choose your delivery method.
 
@@ -45,9 +44,9 @@ The ordering process consists of 5 easy steps:
 
 2.3. When you place an order, you will receive confirmation in the form of an email.
 
-2.4. If you submit an order for goods via this site by clicking "I accept", your order is an offer to us to buy the goods on our Websites. We will acknowledge receipt of your order by sending you an [automatically generated ] email acknowledging your order. This is an acknowledgement of receipt of your order, and no binding contract will be formed between us unless and until we accept your order by separate email. 
+2.4. If you submit an order for goods via this site by clicking "I accept", your order is an offer to us to buy the goods on our Websites. We will acknowledge receipt of your order by sending you an [automatically generated] email acknowledging your order. This is an acknowledgement of receipt of your order, and no binding contract will be formed between us unless and until we accept your order by separate email. 
 
-2.5. The selection on our site is live and reflects what is in stock at that moment. Placing an item in your shopping cart does not guarantee your right to purchase that item. Until you have completed the checkout process, another customer may purchase the item even if it is in your cart. 
+2.5. The selection on our site is live and reflects what is in stock at that moment. Placing an item in your shopping basket does not guarantee your right to purchase that item. Until you have completed the checkout process, another customer may purchase the item even if it is in your basket. 
 
 2.6. Tradeinn reserves the right to not accept or cancel any orders made on our websites.
 
@@ -65,11 +64,11 @@ The ordering process consists of 5 easy steps:
 
 *- For European Union customers:
 
-In accordance with the laws governing members of the European Union, Tradeinn is obliged to charge VAT on all orders delivered to destinations in member countries of the EU. The price displayed for each item sold by us includes Spanish VAT (21%) (Except for Sweden and Denmark, we are obliged to apply the local 25% VAT due to local authority). However if we are shipping your order to a tax-free zone within the EU, we can deduct the VAT on prices, you just have to send us an email via our Customer Enquiry Form. We will remove the VAT when we invoice the order.
+In accordance with the laws governing members of the European Union, Tradeinn is obliged to charge VAT on all orders delivered to destinations in member countries of the EU. The price displayed for each item sold by us includes VAT. However if we are shipping your order to a tax-free zone within the EU, we can deduct the VAT on prices, you just have to send us an email via our Customer Enquiry Form. We will remove the VAT when we invoice the order.
 
-*- For other customers outwith the European Union:
+*- For other customers outwith the European Union: 
 
-VAT does not apply to orders that are to be shipped outside the European Union or to Tax Free Areas such as the Canarias Island, Channel Island (If you have any doubts about Tax Free Areas, please contact our Customer Services Team).These areas will be priced and billed with VAT deducted. Please note that local tax and customs duty may apply.For full details please consult your local Customs office.If you select a currency or a delivery country outside the European Union, prices will be displayed VAT free.
+VAT does not apply to orders that are to be shipped outside the European Union or to Tax Free Areas such as the Canarias Island, Channel Island (If you have any doubts about Tax Free Areas, please contact our Customer Services Team). These areas will be priced and billed with VAT deducted. Please note that local tax and customs duty may apply. For full details please consult your local Customs office.If you select a currency or a delivery country outside the European Union, prices will be displayed VAT free.
 
 5\. AVAILABILITY / ESTIMATED DELIVERY TIMES
 
@@ -87,9 +86,8 @@ VAT does not apply to orders that are to be shipped outside the European Union o
 
 6.3. If an item is listed on our website as "In Stock" the time between the process of placing your order and the date when the courier delivers your parcel to the determined delivery address, is bound to 2 factors:
 
-1\. The shipping time (1 to 2 working days): validation of your payment + preparation of your order + reception of your parcel by the courier service agent.  
-2\. The time of delivery by the courier service agent. You will be informed from the beginning of this process, from the moment you receive an e-mail confirmation about your order being dispatched.   
-All processes are indicated in working days.
+1\. The shipping time: validation of your payment + preparation of your order + reception of your parcel by the courier service agent.  
+2\. The time of delivery by the courier service agent. You will be informed from the beginning of this process, from the moment you receive an e-mail confirmation about your order being dispatched. 
 
 6.4. Your parcel will be prepared for shipment once your payment is processed and received correctly. Your parcel will be shipped using one of the following options you can choose:
 
@@ -120,7 +118,7 @@ For shipments outside of the European Union:
 
 We accept Visa, MasterCard, Maestro and American Express. Your Credit/Debit card will be charged at the time of placing your order through our secured payment gateway: Adyen. For online payment made by credit card, the "Secure Socket Layer" (SSL) security system is used, which allows for encrypting your banking information when on the network.
 
- **\- By bank transfer payments:**
+ **\- By Bank transfer payments:**
 
 You will find our banking details when finishing the order as well as by email on the order confirmation (mail sent by Adyen); you will be able to perform the transfer at your bank. As soon as we have received your payment, the order will be shipped. Before selecting bank transfer as your payment method, please be aware that your bank will charge you an international transfer fee, therefore increasing the overall cost of your order. Once your payment is received, we will dispatch your goods. The processing of off-line payments may take several days.
 
@@ -170,13 +168,13 @@ For United Kingdom: Maestro - Local Bank Transfer Account
 
 9\. SATISFIED OR YOUR MONEY BACK
 
-**9.1 Right to cancel:**
+9.1. Right to cancel: 
 
 The Distance Selling Regulations give you the right to cancel your purchase of an item without having to give a reason. Within 30 working days beginning the day after the day on which you received the goods (a "cooling off period").
 
-You must notify us of your cancellation in writing or in another durable medium by e-mail to customer@tradeinn.com or to our contact address: Carretera Palamós, 181-183 (Celrà Centre), 17460 Celrà (Girona), Spain.
+You must notify us of your cancellation in writing or in another durable medium by e-mail to customer@tradeinn.com or to our contact address: C/ Pirineus, 9, 17460 Celrà (Girona), Spain.
 
- **9.2 Cancellation consequences:**
+9.2. Cancellation consequences:
 
 If you are in possession of the goods you are under the duty to retain the ítem and take reasonable care of them. You must send the goods back to us in their original condition to our contact address at your own cost (unless we delivered the item to you in error or if the item is damaged or defective) as soon as possible.
 
@@ -184,9 +182,9 @@ Once you have notified us that you wish to cancel the contract, any sum debited 
 
 Where we collect an item from you we reserve the right to charge the direct costs of recovery from the payment card used for the original order.
 
- **9.3 Refunds policy:**
+9.3. Refunds policy: 
 
-* If you return the goods to us because you have cancelled your purchase before has been shipped, we will process the refund within 30 days after you have given notice of your cancellation. In this case, we will refund the price of the goods in full, including the cost of sending the item to you. If you return an ítem to us within 30 days after receipt (cooling-off period), we will refund the cost of the item to you once this can be registered in our Returns department.
+* If you return the goods to us because you have cancelled your purchase before has been shipped, we will process the refund within 30 days after you have given notice of your cancellation. In this case, we will refund the price of the goods in full. If you return an ítem to us within 30 days after receipt (cooling-off period), we will refund the cost of the item to you once this can be registered in our Returns department.
 
 * If you are not satisfied with a product for any reason beyond our responsibility, you can send it back to us at your expense. Once we receive the product and confirm it has been returned to us in unused/unworn conditions and with the original labels and packaging, we will refund the amount you paid for the product, not including any of the generated postage costs.
 
@@ -257,7 +255,7 @@ While you do not need to give us any reason for cancelling your contract and nor
 
 *- Credit/Debit card details
 
-15.3. This information is already stored on our internal systems and our Websites simply verifies you as a customer of Tradeinn. We will never collect sensitive information about you without your explicit consent. The information we hold will be accurate and up to date. You can check the information that we hold about you by emailing us. If you find any inaccuracies we will delete or correct it promptly. The personal information that we hold will be held securely in accordance with our internal security policy and the law. We will not transfer or sell your information. We may use technology to track the patterns of behaviour of visitors to our Websites. If you have any questions/comments about privacy, you should email us at customer@tradeinn.com.
+15.3. This information is already stored on our internal systems and our Websites simply verifies you as a customer of Tradeinn. We will never collect sensitive information about you without your explicit consent. The information we hold will be accurate and up to date. You can check the information that we hold about you by emailing us. If you find any inaccuracies we will delete or correct it promptly. The personal information that we hold will be held securely in accordance with our internal security policy and the law. We will not transfer or sell your information. We may use technology to track the patterns of behaviour of visitors to our Websites. If you have any questions/comments about privacy, you should email us at lopd@tradeinn.com.
 
 15.4. We use the information you provide for the following purposes:
 
@@ -294,5 +292,3 @@ To find out the purpose and extent of the collection of data, the further proces
 16\. DATA PROTECTION
 
 16.1. The contract´s content will be stored. You may store the general terms and conditions and readily look them up. For safety reasons your order´s data are not available via internet. We keep these data in confidence according to our [privacy policy](https://web.archive.org/?action=politica&idioma=eng "Privacy Policy")
-
-In order to give you a better service Tradeinn uses cookies. By continuing to browse the site you are agreeing to our use of cookies. [More information](http://www.runnerinn.com/?action=cockies&idioma=eng) | I agree
