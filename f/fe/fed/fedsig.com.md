@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fedsig.com privacy policy that was archived on 2014-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141204181659id_/http%3A//www.fedsig.com/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fedsig.com privacy policy that was archived on 2015-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150613071643id_/http%3A//fedsig.com/page/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Federal Signal
 
