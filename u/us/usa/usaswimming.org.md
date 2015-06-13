@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usaswimming.org privacy policy that was archived on 2014-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141219185708id_/http%3A//www.usaswimming.org/DesktopDefault.aspx%3FTabId%3D1892%26Alias%3DRainbow%26Lang%3Den) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usaswimming.org privacy policy that was archived on 2015-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150613041921id_/http%3A//www.usaswimming.org/DesktopDefault.aspx%3FTabId%3D1892%26Alias%3DRainbow%26Lang%3Den) for the most accurate reproduction.*
 
 # USA Swimming - Privacy
 
