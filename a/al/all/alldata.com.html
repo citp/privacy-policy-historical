@@ -1,10 +1,10 @@
-<!--The following is the downloaded HTML source of the alldata.com privacy policy that was archived on 2014-11-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141116000659id_/http%3A//www.alldata.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the alldata.com privacy policy that was archived on 2015-06-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150613185832id_/http%3A//www.alldata.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
   <title>Privacy Policy - ALLDATA</title>
-  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VQMFV1NVGwAAUFVTBwA="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),u=c.length,f=i(a,o,r),d=0;u>d;d++)c[d].apply(f,n);return f}function a(t,e){u[t]=s(t).concat(e)}function s(t){return u[t]||[]}function c(){return n(e)}var u={};return{on:a,emit:e,create:c,listeners:s,_events:u}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(u){try{r("ierr",[u,(new Date).getTime(),!0])}catch(f){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(4),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(u){"stack"in u&&(t(5),t(3),"addEventListener"in window&&t(1),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(2),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:4,2:7,3:5,4:18,5:6,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],4:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:18,2:19,ee:"QJf3ax",gos:"7eSDFh"}],5:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:19,2:18,ee:"QJf3ax"}],6:[function(t,e){function n(t,e,n){var r=t[0];"string"==typeof r&&(r=new Function(r)),t[0]=o(r,"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:19,2:18,ee:"QJf3ax"}],7:[function(t,e){function n(){c.inPlace(this,d,"fn-")}function r(t,e){c.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}var i=t("ee").create(),a=t(1),s=t(2),c=s(i),u=s(a),f=window.XMLHttpRequest,d=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=i,window.XMLHttpRequest=function(t){var e=new f(t);try{i.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",function(t,e){return e}),e.addEventListener("readystatechange",n,!1)}catch(r){try{i.emit("internal-error",[r])}catch(o){}}return e},window.XMLHttpRequest.prototype=f.prototype,c.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),i.on("send-xhr-start",r),i.on("open-xhr-start",r)},{1:4,2:19,ee:"QJf3ax"}],8:[function(t){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,u="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(u);if(f&&(r.rxSize=f),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(n.cat=d.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r,this.startTime])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,u=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var u=e(o);u&&(r.txSize=u)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",[e])}catch(r){}}};for(var f=0;c>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:9,3:7,4:4,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],9:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&c&&c.body){p.proto="https"===d.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=c.createElement("script");e.src=p.proto+t.agent,c.body.appendChild(e)}}function r(){"complete"===c.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,c=s.document,u="addEventListener",f="attachEvent",d=(""+location).split("?")[0],p=e.exports={offset:i(),origin:d,features:{}};c[u]?(c[u]("DOMContentLoaded",o,!1),s[u]("load",n,!1)):(c[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],18:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],19:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,u;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){f([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return u=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,u],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,u(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,u="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,u?s+o:o,i,s,t))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){f([o,e,n,r])}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){f([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function f(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:18,ee:"QJf3ax"}]},{},["G9z0Bl",3,8]);</script>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VQMFV1NVGwAAUFVTBwA="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),u=c.length,f=i(a,o,r),d=0;u>d;d++)c[d].apply(f,n);return f}function a(t,e){u[t]=s(t).concat(e)}function s(t){return u[t]||[]}function c(){return n(e)}var u={};return{on:a,emit:e,create:c,listeners:s,_events:u}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(u){try{r("ierr",[u,(new Date).getTime(),!0])}catch(f){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(4),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(u){"stack"in u&&(t(5),t(3),"addEventListener"in window&&t(1),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(2),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:4,2:7,3:5,4:19,5:6,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],4:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:19,2:20,ee:"QJf3ax",gos:"7eSDFh"}],5:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:20,2:19,ee:"QJf3ax"}],6:[function(t,e){function n(t,e,n){var r=t[0];"string"==typeof r&&(r=new Function(r)),t[0]=o(r,"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:20,2:19,ee:"QJf3ax"}],7:[function(t,e){function n(){c.inPlace(this,d,"fn-")}function r(t,e){c.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}var i=t("ee").create(),a=t(1),s=t(2),c=s(i),u=s(a),f=window.XMLHttpRequest,d=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=i,window.XMLHttpRequest=function(t){var e=new f(t);try{i.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",function(t,e){return e}),e.addEventListener("readystatechange",n,!1)}catch(r){try{i.emit("internal-error",[r])}catch(o){}}return e},window.XMLHttpRequest.prototype=f.prototype,c.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),i.on("send-xhr-start",r),i.on("open-xhr-start",r)},{1:4,2:20,ee:"QJf3ax"}],8:[function(t){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,u="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(u);if(f&&(r.rxSize=f),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(n.cat=d.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r,this.startTime])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,u=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var u=e(o);u&&(r.txSize=u)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",[e])}catch(r){}}};for(var f=0;c>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:9,3:7,4:4,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],9:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=l.info=NREUM.info;if(t&&t.licenseKey&&t.applicationID&&u&&u.body){s(h,function(e,n){e in t||(t[e]=n)}),l.proto="https"===p.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=u.createElement("script");e.src=l.proto+t.agent,u.body.appendChild(e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=window,u=c.document,f="addEventListener",d="attachEvent",p=(""+location).split("?")[0],h={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-515.min.js"},l=e.exports={offset:i(),origin:p,features:{}};u[f]?(u[f]("DOMContentLoaded",o,!1),c[f]("load",n,!1)):(u[d]("onreadystatechange",r),c[d]("onload",n)),a("mark",["firstbyte",i()])},{1:18,handle:"D5DuLP"}],18:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],19:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],20:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,u;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){f([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return u=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,u],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,u(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,u="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,u?s+o:o,i,s,t))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){f([o,e,n,r])}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){f([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function f(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:19,ee:"QJf3ax"}]},{},["G9z0Bl",3,8]);</script>
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta http-equiv="x-dns-prefetch-control" content="on">
 <link rel="dns-prefetch" href="//d2ftk4mrj36n44.cloudfront.net">
@@ -19,21 +19,26 @@
 <link type="text/css" rel="stylesheet" media="all" href="http://d2ftk4mrj36n44.cloudfront.net/sites/main/files/advagg_css/css_fa2aa40ab9e912bc863c5cb9f274d4b4_6.css">
 <link type="text/css" rel="stylesheet" media="all" href="http://d2ftk4mrj36n44.cloudfront.net/sites/main/files/advagg_css/css_2ac908080248e1fc9c61b87d3ec77d38_0.css">
 <link type="text/css" rel="stylesheet" media="print" href="http://d2ftk4mrj36n44.cloudfront.net/sites/main/files/advagg_css/css_8050c0bd244d2f05a699c7eeccfb1732_8.css">
-<link type="text/css" rel="stylesheet" media="all" href="/sites/default/themes/dtheme/dtheme-direct.css?Y">
+<link type="text/css" rel="stylesheet" media="all" href="/sites/default/themes/dtheme/dtheme-direct.css?7">
 <!--[if IE]>
-<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/dmodel/ie.css?Y" />
-<link type="text/css" rel="stylesheet" media="all" href="/sites/default/themes/dtheme/ie-all.css?Y" />
+<link type="text/css" rel="stylesheet" media="all" href="http://d2ftk4mrj36n44.cloudfront.net/sites/all/themes/dmodel/ie.css?7" />
+<link type="text/css" rel="stylesheet" media="all" href="http://d2ftk4mrj36n44.cloudfront.net/sites/default/themes/dtheme/ie-all.css?7" />
 <![endif]-->
 <!--[if IE 8]>
-<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/dmodel/dmodel-ie8.css?Y" />
+<link type="text/css" rel="stylesheet" media="all" href="http://d2ftk4mrj36n44.cloudfront.net/sites/all/themes/dmodel/dmodel-ie8.css?7" />
 <![endif]-->
 <!--[if IE 7]>
-<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/dmodel/dmodel-ie7.css?Y" />
+<link type="text/css" rel="stylesheet" media="all" href="http://d2ftk4mrj36n44.cloudfront.net/sites/all/themes/dmodel/dmodel-ie7.css?7" />
 <![endif]-->
-  <script type="text/javascript" src="http://d2ftk4mrj36n44.cloudfront.net/sites/main/files/advagg_js/js_b9f936e1a2118f572409ba1b705c9e25_11.js"></script>
+  <script type="text/javascript" src="http://d2ftk4mrj36n44.cloudfront.net/sites/main/files/advagg_js/js_99c485f261855ba964d4c22a4bf0c365_0.js"></script>
 <script type="text/javascript">
 <!--//--><![CDATA[//><!--
-jQuery.extend(Drupal.settings, {"basePath":"\/","googleanalytics":{"trackOutgoing":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip"},"lightbox2":{"rtl":0,"file_path":"\/(\\w\\w\/)sites\/main\/files","default_image":"\/sites\/all\/modules\/lightbox2\/images\/brokenimage.jpg","border_size":10,"font_color":"000","box_color":"fff","top_position":"","overlay_opacity":"0.8","overlay_color":"000","disable_close_click":1,"resize_sequence":0,"resize_speed":400,"fade_in_speed":400,"slide_down_speed":600,"use_alt_layout":1,"disable_resize":0,"disable_zoom":0,"force_show_nav":0,"show_caption":1,"loop_items":1,"node_link_text":"View Image Details","node_link_target":0,"image_count":"Image !current of !total","video_count":"Video !current of !total","page_count":"Page !current of !total","lite_press_x_close":"press \u003Ca href=\u0022#\u0022 onclick=\u0022hideLightbox(); return FALSE;\u0022\u003E\u003Ckbd\u003Ex\u003C\/kbd\u003E\u003C\/a\u003E to close","download_link_text":"","enable_login":false,"enable_contact":false,"keys_close":"c x 27","keys_previous":"p 37","keys_next":"n 39","keys_zoom":"z","keys_play_pause":"32","display_image_size":"original","image_node_sizes":"()","trigger_lightbox_classes":"","trigger_lightbox_group_classes":"","trigger_slideshow_classes":"","trigger_lightframe_classes":"","trigger_lightframe_group_classes":"","custom_class_handler":0,"custom_trigger_classes":"","disable_for_gallery_lists":true,"disable_for_acidfree_gallery_lists":true,"enable_acidfree_videos":true,"slideshow_interval":5000,"slideshow_automatic_start":true,"slideshow_automatic_exit":true,"show_play_pause":true,"pause_on_next_click":false,"pause_on_previous_click":true,"loop_slides":false,"iframe_width":800,"iframe_height":481,"iframe_border":0,"enable_video":0},"nice_menus_options":{"delay":800,"speed":"fast"},"ddCaptcha":1971,"ddPoll":{"resultsURI":"\/sites\/all\/modules\/_dd\/dd_poll\/dd_poll_results.php"},"ddTwitterFeed":{"getTweetsURI":"\/dd_twitter_feed\/get_tweets"},"extlink":{"extTarget":"_blank","extClass":"ext","extSubdomains":1,"extExclude":"","extInclude":"","extAlert":0,"extAlertText":"This link will take you to an external web site. We are not responsible for their content.","mailtoClass":"mailto"},"cssInit":{"node.css":true,"defaults.css":true,"system.css":true,"system-menus.css":true,"user.css":true,"content-module.css":true,"ctools.css":true,"date.css":true,"datepicker.css":true,"jquery.timeentry.css":true,"filefield.css":true,"lightbox_alt.css":true,"logintoboggan.css":true,"nice_menus.css":true,"nice_menus_default.css":true,"dd_captcha.css":true,"dd_classes.css":true,"dd_classes.do_timeout.css":true,"dd_classes.gallery.css":true,"dd_create.css":true,"compiled-classes.css":true,"dd_login.css":true,"dd_poll.css":true,"dd_sharethis.css":true,"dd_twitter_feed.css":true,"dd_user_roles.css":true,"farbtastic.css":true,"calendar.css":true,"extlink.css":true,"fieldgroup.css":true,"views.css":true,"dtheme-direct.css":true,"html-elements.css":true,"tabs.css":true,"messages.css":true,"block-editing.css":true,"wireframes.css":true,"zen.css":true,"dmodel-layout.css":true,"dmodel.css":true,"dtheme.css":true},"jsInit":{"misc\/jquery.js":true,"misc\/drupal.js":true,"sites\/all\/modules\/google_analytics\/googleanalytics.js":true,"sites\/all\/modules\/nice_menus\/superfish\/js\/superfish.js":true,"sites\/all\/modules\/nice_menus\/superfish\/js\/jquery.bgiframe.min.js":true,"sites\/all\/modules\/nice_menus\/superfish\/js\/jquery.hoverIntent.minified.js":true,"sites\/all\/modules\/nice_menus\/nice_menus.js":true,"sites\/all\/modules\/_dd\/dd_captcha\/dd_captcha.js":true,"sites\/all\/modules\/_dd\/dd_classes\/dd_classes.js":true,"sites\/all\/modules\/_dd\/dd_classes\/plugins\/do_timeout\/dd_classes.do_timeout.js":true,"sites\/all\/modules\/_dd\/dd_classes\/plugins\/gallery\/dd_classes.gallery.js":true,"sites\/all\/modules\/_dd\/dd_create\/dd_create.js":true,"sites\/all\/modules\/_dd\/dd_login\/dd_login.js":true,"sites\/all\/modules\/_dd\/dd_poll\/dd_poll.js":true,"sites\/all\/modules\/_dd\/dd_sharethis\/dd_sharethis.js":true,"sites\/all\/modules\/_dd\/dd_twitter_feed\/dd_twitter_feed.js":true,"sites\/all\/modules\/extlink\/extlink.js":true,"sites\/all\/modules\/_dd\/digitaldcore\/digitaldcore.js":true,"sites\/all\/modules\/_dd\/digitaldcore\/modernizr.js":true,"sites\/all\/modules\/_dd\/digitaldcore\/browser-detect.js":true,"sites\/all\/modules\/_dd\/digitaldcore\/dd-search.js":true,"sites\/all\/modules\/jquery_ui\/jquery.ui\/ui\/minified\/ui.core.min.js":true,"sites\/all\/modules\/jquery_ui\/jquery.ui\/ui\/minified\/ui.dialog.min.js":true,"sites\/all\/modules\/_dd\/digitaldcore\/digitaldcore.monkey-patch.js":true,"sites\/all\/themes\/dmodel\/dmodel.js":true,"sites\/default\/themes\/dtheme\/dtheme.js":true}});
+jQuery.extend(Drupal.settings, {"basePath":"\/","lightbox2":{"rtl":0,"file_path":"\/(\\w\\w\/)sites\/main\/files","default_image":"\/sites\/all\/modules\/lightbox2\/images\/brokenimage.jpg","border_size":10,"font_color":"000","box_color":"fff","top_position":"","overlay_opacity":"0.8","overlay_color":"000","disable_close_click":1,"resize_sequence":0,"resize_speed":400,"fade_in_speed":400,"slide_down_speed":600,"use_alt_layout":1,"disable_resize":0,"disable_zoom":0,"force_show_nav":0,"show_caption":1,"loop_items":1,"node_link_text":"View Image Details","node_link_target":0,"image_count":"Image !current of !total","video_count":"Video !current of !total","page_count":"Page !current of !total","lite_press_x_close":"press \u003Ca href=\u0022#\u0022 onclick=\u0022hideLightbox(); return FALSE;\u0022\u003E\u003Ckbd\u003Ex\u003C\/kbd\u003E\u003C\/a\u003E to close","download_link_text":"","enable_login":false,"enable_contact":false,"keys_close":"c x 27","keys_previous":"p 37","keys_next":"n 39","keys_zoom":"z","keys_play_pause":"32","display_image_size":"original","image_node_sizes":"()","trigger_lightbox_classes":"","trigger_lightbox_group_classes":"","trigger_slideshow_classes":"","trigger_lightframe_classes":"","trigger_lightframe_group_classes":"","custom_class_handler":0,"custom_trigger_classes":"","disable_for_gallery_lists":true,"disable_for_acidfree_gallery_lists":true,"enable_acidfree_videos":true,"slideshow_interval":5000,"slideshow_automatic_start":true,"slideshow_automatic_exit":true,"show_play_pause":true,"pause_on_next_click":false,"pause_on_previous_click":true,"loop_slides":false,"iframe_width":800,"iframe_height":481,"iframe_border":0,"enable_video":0},"nice_menus_options":{"delay":800,"speed":"fast"},"ddCaptcha":1971,"ddPoll":{"resultsURI":"\/sites\/all\/modules\/_dd\/dd_poll\/dd_poll_results.php"},"ddTwitterFeed":{"getTweetsURI":"\/dd_twitter_feed\/get_tweets"},"extlink":{"extTarget":"_blank","extClass":"ext","extSubdomains":0,"extExclude":"","extInclude":"","extAlert":0,"extAlertText":"This link will take you to an external web site. We are not responsible for their content.","mailtoClass":"mailto"},"cssInit":{"node.css":true,"defaults.css":true,"system.css":true,"system-menus.css":true,"user.css":true,"content-module.css":true,"ctools.css":true,"date.css":true,"datepicker.css":true,"jquery.timeentry.css":true,"filefield.css":true,"lightbox_alt.css":true,"logintoboggan.css":true,"nice_menus.css":true,"nice_menus_default.css":true,"dd_captcha.css":true,"dd_classes.css":true,"dd_classes.do_timeout.css":true,"dd_classes.gallery.css":true,"dd_create.css":true,"compiled-classes.css":true,"dd_login.css":true,"dd_poll.css":true,"dd_sharethis.css":true,"dd_twitter_feed.css":true,"dd_user_roles.css":true,"farbtastic.css":true,"calendar.css":true,"extlink.css":true,"fieldgroup.css":true,"views.css":true,"dtheme-direct.css":true,"html-elements.css":true,"tabs.css":true,"messages.css":true,"block-editing.css":true,"wireframes.css":true,"zen.css":true,"dmodel-layout.css":true,"dmodel.css":true,"dtheme.css":true},"jsInit":{"misc\/jquery.js":true,"misc\/drupal.js":true,"sites\/all\/modules\/nice_menus\/superfish\/js\/superfish.js":true,"sites\/all\/modules\/nice_menus\/superfish\/js\/jquery.bgiframe.min.js":true,"sites\/all\/modules\/nice_menus\/superfish\/js\/jquery.hoverIntent.minified.js":true,"sites\/all\/modules\/nice_menus\/nice_menus.js":true,"sites\/all\/modules\/_dd\/dd_captcha\/dd_captcha.js":true,"sites\/all\/modules\/_dd\/dd_classes\/dd_classes.js":true,"sites\/all\/modules\/_dd\/dd_classes\/plugins\/do_timeout\/dd_classes.do_timeout.js":true,"sites\/all\/modules\/_dd\/dd_classes\/plugins\/gallery\/dd_classes.gallery.js":true,"sites\/all\/modules\/_dd\/dd_create\/dd_create.js":true,"sites\/all\/modules\/_dd\/dd_login\/dd_login.js":true,"sites\/all\/modules\/_dd\/dd_poll\/dd_poll.js":true,"sites\/all\/modules\/_dd\/dd_sharethis\/dd_sharethis.js":true,"sites\/all\/modules\/_dd\/dd_twitter_feed\/dd_twitter_feed.js":true,"sites\/all\/modules\/extlink\/extlink.js":true,"sites\/all\/modules\/_dd\/digitaldcore\/digitaldcore.js":true,"sites\/all\/modules\/_dd\/digitaldcore\/modernizr.js":true,"sites\/all\/modules\/_dd\/digitaldcore\/browser-detect.js":true,"sites\/all\/modules\/_dd\/digitaldcore\/dd-search.js":true,"sites\/all\/modules\/jquery_ui\/jquery.ui\/ui\/minified\/ui.core.min.js":true,"sites\/all\/modules\/jquery_ui\/jquery.ui\/ui\/minified\/ui.dialog.min.js":true,"sites\/all\/modules\/_dd\/digitaldcore\/digitaldcore.monkey-patch.js":true,"sites\/all\/modules\/_dd\/dd_analytics\/dd_analytics_universal.js":true,"sites\/all\/themes\/dmodel\/dmodel.js":true,"sites\/default\/themes\/dtheme\/dtheme.js":true}});
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+(function(i,s,o,g,r,a,m){i.GoogleAnalyticsObject=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');ga('create','UA-1870158-1','www.alldata.com');ga('require','linkid','linkid.js');ga('set','contentGroup2','About Us');ga('set','dimension1','Anonymous user');ga('send','pageview')
 //--><!]]>
 </script>
   <link href="//fast.fonts.com/cssapi/66bd28d2-775b-47b4-9200-ce6836136740.css" rel="stylesheet" type="text/css">  </head>
@@ -50,14 +55,13 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","googleanalytics":{"trackOutgoin
                                             <div class="site-slogan">OEM Auto Repair Information for Professionals</div>
                             </div> <!-- /#page-logo -->
                     <div id="header-blocks" class="region region-header">
-          <div id="block-digitaldcore-search" class="block block-digitaldcore region-odd odd region-count-1 count-1  search-keywords  "><div class="block-inner">
-
+          <div id="block-digitaldcore-search" class="block block-digitaldcore region-odd odd region-count-1 count-1  search-keywords  ">
+  <div class="block-inner">
     
-   
-  
-      <h2 class="block-title"><span class="block-title-text"></span></h2>
-  
-  <div class="block-content content">
+    
+        <h2 class="block-title"><span class="block-title-text"></span></h2>
+    
+    <div class="block-content content">
     <div id="dd-search" class="dd-search"><form action="/privacy-policy" accept-charset="UTF-8" method="post" id="faceted-search-ui-form-1" class=" dd-search-clear">
 <div><div class="dd-search-keywords"><div title="Search keywords" class=" form-item type-textfield" id="edit-keywords-wrapper">
  <input type="text" maxlength="255" name="keywords" id="edit-keywords" size="20" value="" title="Search keywords" class="form-text">
@@ -67,22 +71,20 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","googleanalytics":{"trackOutgoin
 <input type="hidden" name="facet-id" id="edit-facet-id" value="">
 <input type="hidden" name="facet-sort" id="edit-facet-sort" value="">
 <div class="dd-search-submit"><button class="dd-search-submit-button" type="submit"></button><div class="legacy-button"><input type="submit" name="op" id="edit-submit" value="" class="form-submit">
-</div></div><div class="dd-search-more"><a href="/find/" class="faceted-search-more">More options</a></div><input type="hidden" name="form_build_id" id="form-arLCACzJOnYO8JQxhTvwZbhxfl2V66VE6F0EcaYQVEk" value="form-arLCACzJOnYO8JQxhTvwZbhxfl2V66VE6F0EcaYQVEk">
+</div></div><div class="dd-search-more"><a href="/find/" class="faceted-search-more">More options</a></div><input type="hidden" name="form_build_id" id="form-90bjzN15Mvapo6xIpaB2c1lbzGK7UJ3hiKlFZfmj408" value="form-90bjzN15Mvapo6xIpaB2c1lbzGK7UJ3hiKlFZfmj408">
 <input type="hidden" name="form_id" id="edit-faceted-search-ui-form-1" value="faceted_search_ui_form_1">
 <input type="hidden" name="box_text" id="edit-box-text" value="SITE SEARCH">
 
 </div></form>
-</div>  </div>
-
-</div></div> <!-- /block-inner, /block -->
-<div id="block-views_blocks-term-block_1-8" class=" full-width auto-col-n pod-mode te-light-title te-title-100  dd block block-views_blocks region-even even region-count-2 count-2 header-links views-block channel context-global "><div class="block-inner">
-
+</div>    </div>
+  </div>
+</div>
+<div id="block-views_blocks-term-block_1-8" class=" full-width auto-col-n pod-mode te-light-title te-title-100  dd block block-views_blocks region-even even region-count-2 count-2 header-links views-block channel context-global ">
+  <div class="block-inner">
     
-   
-  
-      <h2 class="block-title"><span class="block-title-text"></span></h2>
-  
-  <div class="block-content content">
+    
+    
+    <div class="block-content content">
     <div class="view view-term view-id-term view-display-id-block_1 view-dom-id-term-block-1-1">
     
   
@@ -207,17 +209,15 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","googleanalytics":{"trackOutgoin
   
   
   
-</div>   </div>
-
-</div></div> <!-- /block-inner, /block -->
-<div id="block-nice_menus-1" class=" mlcd1-c8 mlhd1-c3 mlc-c1 mlh-c1  dd block block-nice_menus region-odd odd region-count-3 count-3 navbar "><div class="block-inner">
-
+</div>     </div>
+  </div>
+</div>
+<div id="block-nice_menus-1" class=" mlcd1-c8 mlhd1-c3 mlc-c1 mlh-c1  dd block block-nice_menus region-odd odd region-count-3 count-3 navbar ">
+  <div class="block-inner">
     
-   
-  
-      <h2 class="block-title"><span class="block-title-text"></span></h2>
-  
-  <div class="block-content content">
+    
+    
+    <div class="block-content content">
     <ul class="nice-menu nice-menu-down" id="nice-menu-1"><li class="menu-4131 menuparent menu-path-taxonomy-term-51 first  odd "><a href="/home" title="HOME" class=" menu-link depth-1 tid-51"><span class="menu-title">HOME</span></a><ul><li class="menu-9176 menu-path-taxonomy-term-224 first  odd  last "></li>
 </ul>
 </li>
@@ -240,7 +240,8 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","googleanalytics":{"trackOutgoin
 <li class="menu-9196 menuparent menu-path-taxonomy-term-263 even "><a href="/oe-info-pros" title="OE Info for Pros" class=" menu-link depth-2 tid-263"><span class="menu-title">OE Info for Pros</span></a><ul><li class="menu-8361 menu-path-taxonomy-term-203 first  odd "><a href="/repair" title="ALLDATA Repair" class=" menu-link depth-3 tid-203"><span class="menu-title">ALLDATA Repair</span></a></li>
 <li class="menu-8362 menu-path-taxonomy-term-204 even "><a href="/collision" title="ALLDATA Collision" class=" menu-link depth-3 tid-204"><span class="menu-title">ALLDATA Collision</span></a></li>
 <li class="menu-11413 menu-path-taxonomy-term-356 odd "><a href="/alldata-mobile3" title="ALLDATA Mobile" class=" menu-link depth-3 tid-356"><span class="menu-title">ALLDATA Mobile</span></a></li>
-<li class="menu-11693 menu-path-taxonomy-term-363 even  last "></li>
+<li class="menu-11693 menu-path-taxonomy-term-363 even "></li>
+<li class="menu-12020 menu-path-taxonomy-term-389 odd  last "><a href="/alldata-tech-assist" title="ALLDATA Tech-Assist" class=" menu-link depth-3 tid-389"><span class="menu-title">ALLDATA Tech-Assist</span></a></li>
 </ul>
 </li>
 <li class="menu-9197 menuparent menu-path-taxonomy-term-264 odd "><a href="/collision-options" title="Collision Options" class=" menu-link depth-2 tid-264"><span class="menu-title">Collision Options</span></a><ul><li class="menu-10879 menu-path-taxonomy-term-330 first  odd "></li>
@@ -311,17 +312,15 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","googleanalytics":{"trackOutgoin
 </li>
 <li class="menu-10781 menu-path-taxonomy-term-329 odd  last "></li>
 </ul>
+    </div>
   </div>
-
-</div></div> <!-- /block-inner, /block -->
-<div id="block-views_blocks-term-block_1-16" class=" nbg-c3 nhlc-c8 nhlh-c8 te-pad-0-10 te-bpad-0 te-bm-0 te-bb-s te-bb-c8 pod-mode te-title-100 te-t-f3  dd block block-views_blocks region-even even region-count-4 count-4 special-button views-block channel context-global "><div class="block-inner">
-
+</div>
+<div id="block-views_blocks-term-block_1-16" class=" nbg-c3 nhlc-c8 nhlh-c8 te-pad-0-10 te-bpad-0 te-bm-0 te-bb-s te-bb-c8 pod-mode te-title-100 te-t-f3  dd block block-views_blocks region-even even region-count-4 count-4 special-button views-block channel context-global ">
+  <div class="block-inner">
     
-   
-  
-      <h2 class="block-title"><span class="block-title-text"></span></h2>
-  
-  <div class="block-content content">
+    
+    
+    <div class="block-content content">
     <div class="view view-term view-id-term view-display-id-block_1 view-dom-id-term-block-1-1">
     
   
@@ -362,9 +361,9 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","googleanalytics":{"trackOutgoin
   
   
   
-</div>   </div>
-
-</div></div> <!-- /block-inner, /block -->
+</div>     </div>
+  </div>
+</div>
         </div> <!-- /#header-blocks -->
           </div></div> <!-- /#header-inner, /#header -->
     <div id="main" class=""><div id="main-inner" class="region-main clear-block">
@@ -373,14 +372,12 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","googleanalytics":{"trackOutgoin
                           <h1 class="title">Privacy Policy</h1>
                                                           </div> <!-- /#content-header -->
                         <div id="content-area">
-          <div id="block-views_blocks-term-block_1-0" class="  nhlc-c7 te-bpad-0 te-bm-10 icp-full te-title-262 te-t-f5 te-hide-subtitle  dd block block-views_blocks region-odd even region-count-1 count-6 overviews views-block channel context-global "><div class="block-inner">
-
+          <div id="block-views_blocks-term-block_1-0" class="  nhlc-c7 te-bpad-0 te-bm-10 icp-full te-title-262 te-t-f5 te-hide-subtitle  dd block block-views_blocks region-odd even region-count-1 count-6 overviews views-block channel context-global ">
+  <div class="block-inner">
     
-   
-  
-      <h2 class="block-title"><span class="block-title-text"></span></h2>
-  
-  <div class="block-content content">
+    
+    
+    <div class="block-content content">
     <div class="view view-term view-id-term view-display-id-block_1 view-dom-id-term-block-1-1">
     
   
@@ -435,21 +432,20 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","googleanalytics":{"trackOutgoin
   
   
   
-</div>   </div>
-
-</div></div> <!-- /block-inner, /block -->
+</div>     </div>
+  </div>
+</div>
           <div class="no-main-channel"></div>                  </div>
                       </div></div> <!-- /#content-inner, /#content -->
       <a id="navigation"></a>
                     <div id="sidebar-left"><div id="sidebar-left-inner" class="region region-left">
-          <div id="block-menu_block-2" class="block block-menu_block region-odd odd region-count-1 count-5"><div class="block-inner">
-
+          <div id="block-menu_block-2" class="block block-menu_block region-odd odd region-count-1 count-5">
+  <div class="block-inner">
     
-   
-  
-      <h2 class="block-title"><span class="block-title-text"><a href="/about-us" title="All About ALLDATA" class="active-trail menu-link depth-1 tid-133"><span class="menu-title">About Us</span><span class="menu-description"><br class="accessible-break">All About ALLDATA</span></a></span></h2>
-  
-  <div class="block-content content">
+    
+        <h2 class="block-title"><span class="block-title-text"><a href="/about-us" title="All About ALLDATA" class="active-trail menu-link depth-1 tid-133"><span class="menu-title">About Us</span><span class="menu-description"><br class="accessible-break">All About ALLDATA</span></a></span></h2>
+    
+    <div class="block-content content">
     <div class="menu-block-2 menu-name-primary-links parent-mlid-0 menu-level-2">
   <ul class="menu"><li class="collapsed first menu-mlid-9206"><a href="/company-info" title="Company Info" class=" menu-link depth-2 tid-273"><span class="menu-title">Company Info</span></a></li>
 <li class="collapsed menu-mlid-9208"><a href="/press" title="Press" class=" menu-link depth-2 tid-275"><span class="menu-title">Press</span></a></li>
@@ -461,20 +457,18 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","googleanalytics":{"trackOutgoin
 </ul></li>
 <li class="collapsed last menu-mlid-10974"></li>
 </ul></div>
+    </div>
   </div>
-
-</div></div> <!-- /block-inner, /block -->
+</div>
         </div></div> <!-- /#sidebar-left-inner, /#sidebar-left -->
                 </div></div> <!-- /#main-inner, /#main -->
           <div id="footer"><div id="footer-inner" class="region region-footer">
-                <div id="block-views_blocks-term-block_1-5" class=" nc-c5 allc-c5 nhlc-c4 nhlh-c4 te-bpad-0 te-bm-0 ip-none te-hide-related-links te-hide-attachments  dd block block-views_blocks region-odd odd region-count-1 count-7 col-1 featured mega views-block channel context-global "><div class="block-inner">
-
+                <div id="block-views_blocks-term-block_1-5" class=" nc-c5 allc-c5 nhlc-c4 nhlh-c4 te-bpad-0 te-bm-0 ip-none te-hide-related-links te-hide-attachments  dd block block-views_blocks region-odd odd region-count-1 count-7 col-1 featured mega views-block channel context-global ">
+  <div class="block-inner">
     
-   
-  
-      <h2 class="block-title"><span class="block-title-text"></span></h2>
-  
-  <div class="block-content content">
+    
+    
+    <div class="block-content content">
     <div class="view view-term view-id-term view-display-id-block_1 view-dom-id-term-block-1-1">
     
   
@@ -515,17 +509,16 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","googleanalytics":{"trackOutgoin
   
   
   
-</div>   </div>
-
-</div></div> <!-- /block-inner, /block -->
-<div id="block-views_blocks-term-block_1-6" class=" nhlc-c8 nhlh-c8 btlc-c4 btlh-c4 te-bpad-0 te-bm-0 ip-none pod-mode te-light-title te-title-100 te-hide-subtitle  dd block block-views_blocks region-even even region-count-2 count-8 col-2 products mega views-block channel context-global "><div class="block-inner">
-
+</div>     </div>
+  </div>
+</div>
+<div id="block-views_blocks-term-block_1-6" class=" nhlc-c8 nhlh-c8 btlc-c4 btlh-c4 te-bpad-0 te-bm-0 ip-none pod-mode te-light-title te-title-100 te-hide-subtitle  dd block block-views_blocks region-even even region-count-2 count-8 col-2 products mega views-block channel context-global ">
+  <div class="block-inner">
     
-   
-  
-      <h2 class="block-title"><span class="block-title-text">ALLDATA Products</span></h2>
-  
-  <div class="block-content content">
+    
+        <h2 class="block-title"><span class="block-title-text">ALLDATA Products</span></h2>
+    
+    <div class="block-content content">
     <div class="view view-term view-id-term view-display-id-block_1 view-dom-id-term-block-1-1">
     
   
@@ -672,6 +665,34 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","googleanalytics":{"trackOutgoin
 </div></div> <!-- /node-inner, /node -->
   </div>
   <div class="views-row views-row-6 views-row-even">
+    <div id="node-1640-teaser" class="node node-teaser node-type-post node-1640 pt-show-social-block no-event-date t240 wt240 wt56 wt0 access-normal no-more pt240 has--nt">
+  <div class="node-inner">  
+              <div class="node-upper-meta meta node-item"><div class="meta-inner"><span class="last meta-item post-type" data-plural="ALLDATA Products footer links">ALLDATA Products footer link</span>  </div></div>
+          
+      <h2 class="node-header node-item">
+      <a href="/alldata-tech-assist" title="ALLDATA Tech-Assist"><span class="title">ALLDATA Tech-Assist</span>
+      </a>
+    </h2>
+        <div class="node-image node-item"></div>
+        <div class="node-meta meta node-item">
+      <div class="meta-inner submitted">
+        <span class="last meta-item post-date">May 14, 2015</span>          </div>
+    </div>
+        <div class="node-content content node-item">
+                </div>
+    
+  
+  
+      <div class="node-links node-item"><ul class="links inline"><li class="link link-read-more first last"><span><a href="/alldata-tech-assist"><span class="read-more-text">Read more</span></a></span></li>
+</ul></div>
+  
+    
+  
+
+
+</div></div> <!-- /node-inner, /node -->
+  </div>
+  <div class="views-row views-row-7 views-row-odd">
     <div id="node-837-teaser" class="node node-teaser node-type-post node-837 pt-show-social-block no-event-date t240 wt240 wt56 wt0 access-normal no-more pt240 has--nt">
   <div class="node-inner">  
               <div class="node-upper-meta meta node-item"><div class="meta-inner"><span class="last meta-item post-type" data-plural="ALLDATA Products footer links">ALLDATA Products footer link</span>  </div></div>
@@ -699,7 +720,7 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","googleanalytics":{"trackOutgoin
 
 </div></div> <!-- /node-inner, /node -->
   </div>
-  <div class="views-row views-row-7 views-row-odd">
+  <div class="views-row views-row-8 views-row-even">
     <div id="node-1131-teaser" class="node node-teaser node-type-post node-1131 pt-show-social-block no-event-date t240 wt240 wt56 wt0 access-normal no-more pt240 has--nt">
   <div class="node-inner">  
               <div class="node-upper-meta meta node-item"><div class="meta-inner"><span class="last meta-item post-type" data-plural="ALLDATA Products footer links">ALLDATA Products footer link</span>  </div></div>
@@ -727,7 +748,7 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","googleanalytics":{"trackOutgoin
 
 </div></div> <!-- /node-inner, /node -->
   </div>
-  <div class="views-row views-row-8 views-row-even views-row-last">
+  <div class="views-row views-row-9 views-row-odd views-row-last">
     <div id="node-1037-teaser" class="node node-teaser node-type-post node-1037 pt-show-social-block no-event-date t240 wt240 wt56 wt0 access-normal no-more pt240 has--nt">
   <div class="node-inner">  
               <div class="node-upper-meta meta node-item"><div class="meta-inner"><span class="last meta-item post-type" data-plural="ALLDATA Products footer links">ALLDATA Products footer link</span>  </div></div>
@@ -762,17 +783,16 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","googleanalytics":{"trackOutgoin
   
   
   
-</div>   </div>
-
-</div></div> <!-- /block-inner, /block -->
-<div id="block-views_blocks-term-block_1-11" class=" nhlc-c8 nhlh-c8 btlc-c4 btlh-c4 te-bpad-0 te-bm-0 ip-none pod-mode te-light-title te-title-100 te-hide-subtitle  dd block block-views_blocks region-odd odd region-count-3 count-9 col-3 training mega views-block channel context-global "><div class="block-inner">
-
+</div>     </div>
+  </div>
+</div>
+<div id="block-views_blocks-term-block_1-11" class=" nhlc-c8 nhlh-c8 btlc-c4 btlh-c4 te-bpad-0 te-bm-0 ip-none pod-mode te-light-title te-title-100 te-hide-subtitle  dd block block-views_blocks region-odd odd region-count-3 count-9 col-3 training mega views-block channel context-global ">
+  <div class="block-inner">
     
-   
-  
-      <h2 class="block-title"><span class="block-title-text">Support &amp; Training</span></h2>
-  
-  <div class="block-content content">
+    
+        <h2 class="block-title"><span class="block-title-text">Support &amp; Training</span></h2>
+    
+    <div class="block-content content">
     <div class="view view-term view-id-term view-display-id-block_1 view-dom-id-term-block-1-1">
     
   
@@ -897,17 +917,16 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","googleanalytics":{"trackOutgoin
   
   
   
-</div>   </div>
-
-</div></div> <!-- /block-inner, /block -->
-<div id="block-views_blocks-term-block_1-10" class=" nhlc-c8 nhlh-c8 btlc-c4 btlh-c4 te-bpad-0 te-bm-0 pod-mode te-light-title te-hide-subtitle  dd block block-views_blocks region-even even region-count-4 count-10 col-4 connect mega views-block channel context-global "><div class="block-inner">
-
+</div>     </div>
+  </div>
+</div>
+<div id="block-views_blocks-term-block_1-10" class=" nhlc-c8 nhlh-c8 btlc-c4 btlh-c4 te-bpad-0 te-bm-0 pod-mode te-light-title te-hide-subtitle  dd block block-views_blocks region-even even region-count-4 count-10 col-4 connect mega views-block channel context-global ">
+  <div class="block-inner">
     
-   
-  
-      <h2 class="block-title"><span class="block-title-text">Connect with Us</span></h2>
-  
-  <div class="block-content content">
+    
+        <h2 class="block-title"><span class="block-title-text">Connect with Us</span></h2>
+    
+    <div class="block-content content">
     <div class="view view-term view-id-term view-display-id-block_1 view-dom-id-term-block-1-1">
     
   
@@ -998,6 +1017,34 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","googleanalytics":{"trackOutgoin
 </div></div> <!-- /node-inner, /node -->
   </div>
   <div class="views-row views-row-4 views-row-even">
+    <div id="node-851-teaser" class="node node-teaser node-type-post node-851 pt-show-social-block no-event-date t243 wt243 wt56 wt0 access-normal has-image no-more pt243 has--nt">
+  <div class="node-inner">  
+              <div class="node-upper-meta meta node-item"><div class="meta-inner"><span class="last meta-item post-type" data-plural="Connect with us footer links">Connect with us footer link</span>  </div></div>
+          
+      <h2 class="node-header node-item">
+      <a href="https://www.youtube.com/YourALLDATATeam" title="YouTube"><span class="title">YouTube</span>
+      </a>
+    </h2>
+        <div class="node-image node-item"><span class="field-image field-not-video field-image-preset-thumbnail croppable  c1  c-1"><a href="https://www.youtube.com/YourALLDATATeam" rel=""><img src="http://d2ftk4mrj36n44.cloudfront.net/sites/main/files/imagecache/thumbnail/main-images/youtube_2.png" alt="Image of YouTube" title="" width="120" height="120"></a></span></div>
+        <div class="node-meta meta node-item">
+      <div class="meta-inner submitted">
+        <span class="last meta-item post-date">February 6, 2012</span>          </div>
+    </div>
+        <div class="node-content content node-item">
+                </div>
+    
+  
+  
+      <div class="node-links node-item"><ul class="links inline"><li class="link link-read-more first last"><span><a href="https://www.youtube.com/YourALLDATATeam"><span class="read-more-text">Read more</span></a></span></li>
+</ul></div>
+  
+    
+  
+
+
+</div></div> <!-- /node-inner, /node -->
+  </div>
+  <div class="views-row views-row-5 views-row-odd">
     <div id="node-849-teaser" class="node node-teaser node-type-post node-849 pt-show-social-block no-event-date t243 wt243 wt56 wt0 access-normal has-image no-more pt243 has--nt">
   <div class="node-inner">  
               <div class="node-upper-meta meta node-item"><div class="meta-inner"><span class="last meta-item post-type" data-plural="Connect with us footer links">Connect with us footer link</span>  </div></div>
@@ -1025,7 +1072,7 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","googleanalytics":{"trackOutgoin
 
 </div></div> <!-- /node-inner, /node -->
   </div>
-  <div class="views-row views-row-5 views-row-odd">
+  <div class="views-row views-row-6 views-row-even">
     <div id="node-850-teaser" class="node node-teaser node-type-post node-850 pt-show-social-block no-event-date t243 wt243 wt56 wt0 access-normal has-image no-more pt243 has--nt">
   <div class="node-inner">  
               <div class="node-upper-meta meta node-item"><div class="meta-inner"><span class="last meta-item post-type" data-plural="Connect with us footer links">Connect with us footer link</span>  </div></div>
@@ -1053,7 +1100,7 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","googleanalytics":{"trackOutgoin
 
 </div></div> <!-- /node-inner, /node -->
   </div>
-  <div class="views-row views-row-6 views-row-even">
+  <div class="views-row views-row-7 views-row-odd">
     <div id="node-865-teaser" class="node node-teaser node-type-post node-865 pt-show-social-block no-event-date t243 wt243 wt56 wt0 access-normal no-more pt243 has--nt">
   <div class="node-inner">  
               <div class="node-upper-meta meta node-item"><div class="meta-inner"><span class="last meta-item post-type" data-plural="Connect with us footer links">Connect with us footer link</span>  </div></div>
@@ -1081,13 +1128,13 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","googleanalytics":{"trackOutgoin
 
 </div></div> <!-- /node-inner, /node -->
   </div>
-  <div class="views-row views-row-7 views-row-odd">
+  <div class="views-row views-row-8 views-row-even">
     <div id="node-1270-teaser" class="node node-teaser node-type-post node-1270 pt-show-social-block no-event-date t243 wt243 wt56 wt0 access-normal no-more pt243 has--nt">
   <div class="node-inner">  
               <div class="node-upper-meta meta node-item"><div class="meta-inner"><span class="last meta-item post-type" data-plural="Connect with us footer links">Connect with us footer link</span>  </div></div>
           
       <h2 class="node-header node-item">
-      <a href="http://184.169.168.190/sitemap.xml" title="Sitemap"><span class="title">Sitemap</span>
+      <a href="/sitemap" title="Sitemap"><span class="title">Sitemap</span>
       </a>
     </h2>
         <div class="node-image node-item"></div>
@@ -1096,11 +1143,11 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","googleanalytics":{"trackOutgoin
         <span class="last meta-item post-date">March 28, 2013</span>          </div>
     </div>
         <div class="node-content content node-item">
-            <p>ALLDATA.com Sitemap links</p>    </div>
+            <p><a href="http://www.alldata.com/sitemap.xml">ALLDATA.com</a> Sitemap links</p>    </div>
     
   
   
-      <div class="node-links node-item"><ul class="links inline"><li class="link link-read-more first last"><span><a href="http://184.169.168.190/sitemap.xml"><span class="read-more-text">Read more</span></a></span></li>
+      <div class="node-links node-item"><ul class="links inline"><li class="link link-read-more first last"><span><a href="/sitemap"><span class="read-more-text">Read more</span></a></span></li>
 </ul></div>
   
     
@@ -1109,7 +1156,7 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","googleanalytics":{"trackOutgoin
 
 </div></div> <!-- /node-inner, /node -->
   </div>
-  <div class="views-row views-row-8 views-row-even">
+  <div class="views-row views-row-9 views-row-odd">
     <div id="node-1072-teaser" class="node node-teaser node-type-post node-1072 pt-show-social-block no-event-date t243 wt243 wt56 wt0 access-normal has-more pt243 has--nt">
   <div class="node-inner">  
               <div class="node-upper-meta meta node-item"><div class="meta-inner"><span class="last meta-item post-type" data-plural="Connect with us footer links">Connect with us footer link</span>  </div></div>
@@ -1137,7 +1184,7 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","googleanalytics":{"trackOutgoin
 
 </div></div> <!-- /node-inner, /node -->
   </div>
-  <div class="views-row views-row-9 views-row-odd views-row-last">
+  <div class="views-row views-row-10 views-row-even views-row-last">
     <div id="node-1140-teaser" class="node node-teaser node-type-post node-1140 pt-show-social-block no-event-date t243 wt243 wt56 wt0 access-normal no-more pt243 has--nt">
   <div class="node-inner">  
               <div class="node-upper-meta meta node-item"><div class="meta-inner"><span class="last meta-item post-type" data-plural="Connect with us footer links">Connect with us footer link</span>  </div></div>
@@ -1172,17 +1219,16 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","googleanalytics":{"trackOutgoin
   
   
   
-</div>   </div>
-
-</div></div> <!-- /block-inner, /block -->
-<div id="block-views_blocks-term-block_1-15" class=" nhlc-c8 nhlh-c8 btlc-c4 btlh-c4 te-bpad-0 te-bm-0 ip-none pod-mode te-light-title te-title-100 te-hide-subtitle  dd block block-views_blocks region-odd odd region-count-5 count-11 col-3 legal mega views-block channel context-global "><div class="block-inner">
-
+</div>     </div>
+  </div>
+</div>
+<div id="block-views_blocks-term-block_1-15" class=" nhlc-c8 nhlh-c8 btlc-c4 btlh-c4 te-bpad-0 te-bm-0 ip-none pod-mode te-light-title te-title-100 te-hide-subtitle  dd block block-views_blocks region-odd odd region-count-5 count-11 col-3 legal mega views-block channel context-global ">
+  <div class="block-inner">
     
-   
-  
-      <h2 class="block-title"><span class="block-title-text">Legal</span></h2>
-  
-  <div class="block-content content">
+    
+        <h2 class="block-title"><span class="block-title-text">Legal</span></h2>
+    
+    <div class="block-content content">
     <div class="view view-term view-id-term view-display-id-block_1 view-dom-id-term-block-1-1">
     
   
@@ -1307,17 +1353,16 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","googleanalytics":{"trackOutgoin
   
   
   
-</div>   </div>
-
-</div></div> <!-- /block-inner, /block -->
-<div id="block-views_blocks-term-block_1-7" class=" nhlc-c8 nhlh-c8 btlc-c4 btlh-c4 te-bpad-0 te-bm-0 ip-none pod-mode te-light-title te-title-100 te-hide-subtitle  dd block block-views_blocks region-even even region-count-6 count-12 col-2 international mega views-block channel context-global "><div class="block-inner">
-
+</div>     </div>
+  </div>
+</div>
+<div id="block-views_blocks-term-block_1-7" class=" nhlc-c8 nhlh-c8 btlc-c4 btlh-c4 te-bpad-0 te-bm-0 ip-none pod-mode te-light-title te-title-100 te-hide-subtitle  dd block block-views_blocks region-even even region-count-6 count-12 col-2 international mega views-block channel context-global ">
+  <div class="block-inner">
     
-   
-  
-      <h2 class="block-title"><span class="block-title-text">International</span></h2>
-  
-  <div class="block-content content">
+    
+        <h2 class="block-title"><span class="block-title-text">International</span></h2>
+    
+    <div class="block-content content">
     <div class="view view-term view-id-term view-display-id-block_1 view-dom-id-term-block-1-1">
     
   
@@ -1386,19 +1431,17 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","googleanalytics":{"trackOutgoin
   
   
   
-</div>   </div>
-
-</div></div> <!-- /block-inner, /block -->
+</div>     </div>
+  </div>
+</div>
       </div></div> <!-- /#footer-inner, /#footer -->
       </div></div> <!-- /#page-inner, /#page -->
-      <div id="closure-blocks"><div class="region region-closure"><div id="block-views_blocks-term-block_1-12" class=" mt-40 mb-20 te-bpad-0 ip-none pod-mode te-hide-title te-body-normal te-hide-related-links te-hide-attachments  dd block block-views_blocks region-odd odd region-count-1 count-13 copyright mega views-block channel context-global "><div class="block-inner">
-
+      <div id="closure-blocks"><div class="region region-closure"><div id="block-views_blocks-term-block_1-12" class=" mt-40 mb-20 te-bpad-0 ip-none pod-mode te-hide-title te-body-normal te-hide-related-links te-hide-attachments  dd block block-views_blocks region-odd odd region-count-1 count-13 copyright mega views-block channel context-global ">
+  <div class="block-inner">
     
-   
-  
-      <h2 class="block-title"><span class="block-title-text"></span></h2>
-  
-  <div class="block-content content">
+    
+    
+    <div class="block-content content">
     <div class="view view-term view-id-term view-display-id-block_1 view-dom-id-term-block-1-1">
     
   
@@ -1419,9 +1462,9 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","googleanalytics":{"trackOutgoin
         <span class="last meta-item post-date">February 13, 2012</span>          </div>
     </div>
         <div class="node-content content node-item">
-            <p><a href="http://www.autozone.com/autozone/" title="Autozone"><span class="first">An</span> <img alt="An Autozone Company" src="http://www.alldata.com/sites/default/themes/dtheme/img/autozone.png"> <span class="last">Company</span></a></p>
+            <p><a href="http://www.autozone.com/autozone/" title="Autozone"><span class="first">An</span> <img alt="An Autozone Company" src="http://d2ftk4mrj36n44.cloudfront.net/sites/default/themes/dtheme/img/autozone.png"> <span class="last">Company</span></a></p>
 
-<p><a href="http://www.alldata.com/taxonomy/term/187" title="Copyright Notice">© 1996-2014</a>&nbsp;<a href="http://www.alldata.com/taxonomy/term/187" title="Copyright Notice">ALLDATA LLC. All Rights Reserved. ALLDATA is a registered trademark and ALLDATA Repair, ALLDATA Collision&nbsp;and ALLDATA Manage are marks of ALLDATA LLC. All other marks are the property of the their respective holders.</a></p>    </div>
+<p><a href="http://www.alldata.com/" title="Copyright Notice">©2015 ALLDATA LLC. All rights reserved. ALLDATA, ALLDATA Repair, ALLDATA Manage and ALLDATA Collision are registered trademarks and ALLDATA Mobile, ALLDATA Community, ALLDATA Training Garage and ALLDATA Tech-Assist are marks of ALLDATA LLC. </a></p>    </div>
     
   
   
@@ -1441,32 +1484,30 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","googleanalytics":{"trackOutgoin
   
   
   
-</div>   </div>
-
-</div></div> <!-- /block-inner, /block -->
-<div id="block-digitaldcore-command_menu" class="block block-digitaldcore region-even even region-count-2 count-14"><div class="block-inner">
-
+</div>     </div>
+  </div>
+</div>
+<div id="block-digitaldcore-command_menu" class="block block-digitaldcore region-even even region-count-2 count-14">
+  <div class="block-inner">
     
-   
-  
-      <h2 class="block-title"><span class="block-title-text">Commands</span></h2>
-  
-  <div class="block-content content">
+    
+        <h2 class="block-title"><span class="block-title-text">Commands</span></h2>
+    
+    <div class="block-content content">
     <div class="menu-block-dcore menu-name-dd-cmd parent-mlid-0 menu-level-1">
   <ul class="menu"><li class="leaf first menu-mlid-7895"><a href="/help" title="" class=" menu-help-center help depth-1">Help</a></li>
 <li class="leaf last menu-mlid-7896"><a href="/user/login" title="" class=" menu-login user-login depth-1">Log in</a></li>
 </ul></div>
+    </div>
   </div>
-
-</div></div> <!-- /block-inner, /block -->
-<div id="block-dd_login-login" class="block block-dd_login region-odd odd region-count-3 count-15"><div class="block-inner">
-
+</div>
+<div id="block-dd_login-login" class="block block-dd_login region-odd odd region-count-3 count-15">
+  <div class="block-inner">
     
-   
-  
-      <h2 class="block-title"><span class="block-title-text">Log in</span></h2>
-  
-  <div class="block-content content">
+    
+        <h2 class="block-title"><span class="block-title-text">Log in</span></h2>
+    
+    <div class="block-content content">
     <form action="/privacy-policy?destination=taxonomy%2Fterm%2F183" accept-charset="UTF-8" method="post" id="user-login-form">
 <div><div class=" form-item type-textfield" id="edit-name-wrapper">
  <label for="edit-name">E-mail or username: <span class="form-required" title="This field is required.">*</span></label>
@@ -1482,21 +1523,19 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","googleanalytics":{"trackOutgoin
 <input type="submit" name="op" id="edit-submit-1" value="Log in" tabindex="4" class="form-submit">
 <div class="item-list"><ul><li class="first"><a href="/user/register" title="Create a new user account.">Create new account</a></li>
 <li class="last"><a href="/user/password" title="Request new password via e-mail.">Request new password</a></li>
-</ul></div><input type="hidden" name="form_build_id" id="form-i8BkrX2LnQD2c5_g-tqao8fd8MNgHqpRXM7AEe8_5dY" value="form-i8BkrX2LnQD2c5_g-tqao8fd8MNgHqpRXM7AEe8_5dY">
+</ul></div><input type="hidden" name="form_build_id" id="form-4NPYy5JKxmzkUbyRJfPwqfvAOXfqQ_hu8Zy6AYVEO4E" value="form-4NPYy5JKxmzkUbyRJfPwqfvAOXfqQ_hu8Zy6AYVEO4E">
 <input type="hidden" name="form_id" id="edit-user-login-block" value="user_login_block">
 
 </div></form>
+    </div>
   </div>
-
-</div></div> <!-- /block-inner, /block -->
-<div id="block-views_blocks-term-block_1-14" class=" nhlc-c8 nhlh-c8 nstlc-c12 nstlh-c12 icp-highlight ip-above te-hide-pt te-hide-access te-title-100 te-sub-100 te-hide-date te-hide-related-profiles te-hide-custom-meta te-hide-body te-hide-contact te-hide-webform te-show-readmore-always te-hide-comment te-hide-related-links te-hide-attachments  dd block block-views_blocks region-even even region-count-4 count-16  views-block channel context-global "><div class="block-inner">
-
+</div>
+<div id="block-views_blocks-term-block_1-14" class=" nhlc-c8 nhlh-c8 nstlc-c12 nstlh-c12 icp-highlight ip-above te-hide-pt te-hide-access te-title-100 te-sub-100 te-hide-date te-hide-related-profiles te-hide-custom-meta te-hide-body te-hide-contact te-hide-webform te-show-readmore-always te-hide-comment te-hide-related-links te-hide-attachments  dd block block-views_blocks region-even even region-count-4 count-16  views-block channel context-global ">
+  <div class="block-inner">
     
-   
-  
-      <h2 class="block-title"><span class="block-title-text"></span></h2>
-  
-  <div class="block-content content">
+    
+    
+    <div class="block-content content">
     <div class="view view-term view-id-term view-display-id-block_1 view-dom-id-term-block-1-1">
     
   
@@ -1517,7 +1556,7 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","googleanalytics":{"trackOutgoin
         <span class="last meta-item post-date">May 14, 2012</span>          </div>
     </div>
         <div class="node-content content node-item">
-            <p><img src="http://www.alldata.com/sites/main/files/main-images/img-alldata-team-260x100.jpg" alt="img-alldata-team-260x100.jpg"></p>
+            <p><img src="http://d2ftk4mrj36n44.cloudfront.net/sites/main/files/main-images/img-alldata-team-260x100.jpg" alt="img-alldata-team-260x100.jpg"></p>
     </div>
     
   
@@ -1567,16 +1606,11 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","googleanalytics":{"trackOutgoin
   
   
   
-</div>   </div>
-
-</div></div> <!-- /block-inner, /block -->
+</div>     </div>
+  </div>
+</div>
 </div></div>
     <script type="text/javascript" src="http://d2ftk4mrj36n44.cloudfront.net/sites/main/files/advagg_js/js_19ecf24c5368f0cb90e1e64dcac885b4_4.js"></script>
-<script type="text/javascript">
-<!--//--><![CDATA[//><!--
-var _gaq=_gaq||[];_gaq.push(["_setAccount","UA-1870158-1"]);_gaq.push(["_setDomainName",".alldata.com"]);_gaq.push(["_trackPageview"]);(function(){var ga=document.createElement("script");ga.type="text/javascript";ga.async=true;ga.src=("https:"==document.location.protocol?"https://ssl":"http://www")+".google-analytics.com/ga.js";var s=document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ga,s)})()
-//--><!]]>
-</script>
 <script type="text/javascript">
   (function() {
     var img = document.createElement('img'),
@@ -1585,6 +1619,6 @@ var _gaq=_gaq||[];_gaq.push(["_setAccount","UA-1870158-1"]);_gaq.push(["_setDoma
     img.src = 'http://ci32.actonsoftware.com/acton/bn/4007/visitor.gif?ts=' + now + '&ref=' + ref;
     document.body.appendChild(img);
   })();
-</script><img src="http://ci32.actonsoftware.com/acton/bn/4007/visitor.gif?ts=1580454885439&amp;ref="><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-6.newrelic.com","licenseKey":"51e9ee0927","applicationID":"3044101","transactionName":"bwBRZUoEC0NXUEEKXlZKcERLEQpdGX1UFWVdF14eSAQCVQ==","queueTime":0,"applicationTime":596,"ttGuid":"","agentToken":"","atts":"Q0dGEwIeR15XRWEGQ1UxVlxICQREUxEPQWJMBF1VWRcBEhoRQBBUSjZHUEwQFhIMEVQNXlYcXl5NFkccFEBUDVVaCkt4XEdfEldfWQdQTARsQUoKAUVVR1wMXxoYHxNZR19LS04=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-476.min.js"}</script>
+</script><img src="http://ci32.actonsoftware.com/acton/bn/4007/visitor.gif?ts=1580454877981&amp;ref="><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-6.newrelic.com","licenseKey":"51e9ee0927","applicationID":"3044101","transactionName":"bwBRZUoEC0NXUEEKXlZKcERLEQpdGX1UFWVdF14eSAQCVQ==","queueTime":0,"applicationTime":412,"atts":"Q0dGEwIeR15XRWEGQ1UxVlxICQREUxEPQWJMBF1VWRcBEhoRQBBUSjZHUEwQFhIMEVQNXlYcXl5NFkccFEBUDVVaCkt4XEdfEldfWQdQTARsQUoKAUVVR1wMXxoYHxNZR19LS04=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-515.min.js"}</script>
 
-<script src="https://js-agent.newrelic.com/nr-476.min.js"></script></body></html>
+<script src="https://js-agent.newrelic.com/nr-515.min.js"></script></body></html>
