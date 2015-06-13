@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tuvie.com privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217190042id_/http%3A//www.tuvie.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tuvie.com privacy policy that was archived on 2015-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150614005443id_/http%3A//www.tuvie.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Tuvie
 
@@ -29,9 +29,9 @@ Currently we assign cookies to our readers in order to save their preferences. T
 Many of our advertisers use cookies in order to determine the number of times you have seen an advertisement. This is done to limit the number times you are shown the same advertisement. [http://www.tuvie.com](http://www.tuvie.com/) does not have access to this data.
 
 **About Google as Third Party Vendor**  
-\- Google, as a third party vendor, uses cookies to serve ads on your site.  
-\- Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet.  
-\- Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
+– Google, as a third party vendor, uses cookies to serve ads on your site.  
+– Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet.  
+– Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
 
 **Traffic Reports**
 
