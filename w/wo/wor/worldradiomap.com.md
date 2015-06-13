@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worldradiomap.com privacy policy that was archived on 2014-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141202175403id_/http%3A//worldradiomap.com/about/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldradiomap.com privacy policy that was archived on 2015-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150613052600id_/http%3A//worldradiomap.com/about/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy — World Radio Map
 
