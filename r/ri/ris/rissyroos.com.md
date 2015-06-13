@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rissyroos.com privacy policy that was archived on 2012-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120604013849id_/http%3A//www.rissyroos.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rissyroos.com privacy policy that was archived on 2015-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150613144338id_/http%3A//www.rissyroos.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
