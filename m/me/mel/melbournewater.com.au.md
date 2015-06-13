@@ -1,14 +1,15 @@
-> *The following text is extracted and transformed from the melbournewater.com.au privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227080348id_/http%3A//www.melbournewater.com.au/Pages/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the melbournewater.com.au privacy policy that was archived on 2015-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150613023905id_/http%3A//melbournewater.com.au/Pages/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy statement - Melbourne Water
 
 ​We respect the privacy of your personal information and are committed to collecting and handling it responsibly and in accordance with the _Privacy and Data Protection Act 2014_.
 
-For general information about how we seek to protect your personal information, please see our [Privacy Policy (PDF, 517.94 KB)](https://web.archive.org/Documents/Privacy_Policy.pdf).
+The following privacy statement applies to the entire Melbourne Water website, what personal information is collected and how it is handled. The statement does not extend beyond this website. If you visit other sites from this website you should familiarise yourself with their privacy statements.
 
-Our policy is being updated in accordance with Victoria's _Privacy and Data Protection Act 2014_. 
+For general information about how we seek to protect your personal information, please see the:
 
-The following privacy statement applies to the entire Melbourne Water website, what personal information is collected and how it is handled.  The statement does not extend beyond this website. If you visit other sites from this website you should familiarise yourself with their privacy statements.
+  * 
+
 
 ## ​What information do we collect?
 
@@ -54,7 +55,7 @@ To seek access to your personal information held by Melbourne Water, or to corre
 
 ## Security
 
-Melbourne Water is committed to holding your personal information securely. All stored information is protected from unauthorised access through the use of secure passwords and user log ons or other security procedures.
+Melbourne Water is committed to holding your personal information securely. All stored information is protected from unauthorised access through the use of secure passwords and user log on or other security procedures.
 
 This website also contains a business-trading sub-site that is operated by Melbourne Water and the Westpac Banking group. This sub-site enables Melbourne Water to accept online payments from you, using your credit card.
 
