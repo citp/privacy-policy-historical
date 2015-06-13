@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chromeactions.com privacy policy that was archived on 2014-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141011081954id_/http%3A//www.chromeactions.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chromeactions.com privacy policy that was archived on 2015-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150614013643id_/http%3A//www.chromeactions.com/privacy.html) for the most accurate reproduction.*
 
 # Magic Actions for YouTube™ | Privacy Policy
 
