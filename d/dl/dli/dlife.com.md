@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the dlife.com privacy policy that was archived on 2014-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141202101821id_/http%3A//www.dlife.com/diabetes/information/policy/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dlife.com privacy policy that was archived on 2015-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150613170352id_/http%3A//www.dlife.com/diabetes/information/policy/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - dLife.com - For Your Diabetes Life
 
-dLife values the privacy of all of our users. We take very seriously the need to respect and protect your privacy and the security of the information you share with us. This privacy policy is intended to inform you about how your personally identifiable information ("PII") and other information is collected on dLife ([www.dLife.com, www.mydiabetesoffers.dlife.com](http://www.dlife.com%2C%20www.mydiabetesoffers.dlife.com/) and www.skinandlife.com  [www.MyDiabetesOffers.com](https://mydiabetesoffers.dlife.com/), [www.dLifeQuickCuisine.com](http://www.dlifequickcuisine.com/), [www.dLifeFreshThinking.com](http://www.dlifefreshthinking.com/), [http://www.dLifeTV.com](http://www.dlifetv.com/)) and used by us in operating the Website.
+dLife values the privacy of all of our users. We take very seriously the need to respect and protect your privacy and the security of the information you share with us. This privacy policy is intended to inform you about how your personally identifiable information ("PII") and other information is collected on dLife ([www.dLife.com, ](http://www.dlife.com%2C%20www.mydiabetesoffers.dlife.com/)[www.dLifeQuickCuisine.com](http://www.dlifequickcuisine.com/), [www.dLifeFreshThinking.com](http://www.dlifefreshthinking.com/), and [http://www.dLifeTV.com](http://www.dlifetv.com/)) and used by us in operating the Website.
 
 This privacy policy applies only to information collected online through the site and does not apply to the practices of companies that dLife does not own or control. Please note that we supply content to other Websites who promote our products. You will always know when dLife is collecting your information, as our privacy policy will be linked from that page. This information is not shared with any third party Websites. Please read this Policy carefully. Should any questions arise about this Policy or our data collection, use or disclosure practices, please contact us in any of the ways listed at the end of this Policy.
 
@@ -37,23 +37,11 @@ You may choose to stop receiving our newsletter or marketing email by following 
 
 Visitors who have provided personally identifiable information may elect to have their data deactivated from our files, or kept from being used for purposes other than the service requested, by following the instructions described in the "Contact Us" section of this policy. If you elect to have your data deactivated from our files this will compromise your future ability to log into dLife.com.
 
-Once you have registered we give you the option to create a profile with more detailed information. Please be aware that any information you select to include in your profile will be publicly available to other users of the site and other users may contact you with unsolicited messages. dLife is not responsible for the personal information that you select to include in your public profile. You may at anytime change your privacy settings by logging into your account and choosing My Profile, and then choose My Settings. We will share your personal information with third parties only in the ways that are described in this privacy policy.
+Once you have registered we give you the option to create a profile with more detailed information. Please be aware that any information you select to include in your profile will be publicly available to other users of the site and other users may contact you with unsolicited messages. dLife is not responsible for the personal information that you select to include in your public profile. You may at anytime change your privacy settings by logging into your account and choosing My Profile, and then choose My Settings. You may also request that we remove unauthorized profiles by contacting us at [privacy_items@dlife.com](mailto:http://www.dlife.com/group/control_panel) or through our postal address listed below. We will share your personal information with third parties only in the ways that are described in this privacy policy.
 
 We may provide your personal information to companies that provide services to help us with our business activities (e.g., to provide email newsletters). These companies are authorized to use your personal information only as necessary to provide these services to us.
 
 When you sign up on the dLife website, you may receive email communications from dLife and dLife's marketing partners that are specific to diabetes related products or services, and which may use the words "diabetes," "diabetic" or other indicators that the recipient may be diabetic. If you do not wish to receive such communications, then you may deactivate your account.
-
-**When You Place an Order**
-
-When you place an order on our Website, we collect your name, email address, mailing address, credit card number, and expiration date. The personally identifiable information we collect when you place an order on our Website may be used for any of the following purposes: (1) to fulfill your requests for products and services; (2) to notify you of order, delivery, and shipment statuses; (3) to provide you with offers from dLife; (4) to contact you when necessary; (5) to review Website usage and operations; (6) to address problems with the Website, our business, or our products and services; and (7) to protect security or integrity of the Website and our business.
-
-Your personal information may be shared with reputable third-party associates of dLife who work with us to provide products and services to our customers.
-
-dLife shares information with third-party intermediaries for shipping and billing purposes, and with other third-party intermediaries who provide a service for dLife to help us operate our business and the Website, or administer activities on our behalf. These companies do not retain personal information or share it with any other parties. These companies may include but are not limited to Braintree Payments, Magento, United Parcel Service, Federal Express, Visa, Mastercard, Discover, American Express, and others.
-
-dLife may also provide aggregate statistics about our customers, sales, traffic patterns, and related Website information to reputable third-party vendors.
-
-dLife does not share credit card information with third parties.
 
 **Blog**
 
@@ -61,11 +49,11 @@ Our Web site offers publicly accessible blogs or community forums. You should be
 
 **Customer Testimonials/Comments/Reviews**
 
-We post customer testimonials/comments/reviews on our Website, which may contain personally identifiable information. We do obtain the customer's consent via email prior to posting the testimonial to post their name along with their testimonial.
+We post customer testimonials/comments/reviews on our Website, which may contain personally identifiable information. We do obtain the customer's consent via email prior to posting the testimonial to post their name along with their testimonial. If you wish to update or delete your testimonial, you can contact us at [privacy_items@dlife.com](mailto:privacy_items@dlife.com).
 
 **Advertising**
 
-We partner with a third party ad network to either display advertising on our Web site or to manage our advertising on other sites. Our ad network partner uses cookies and Web beacons to collect non-personally identifiable information about your activities on this and other Web sites to provide you targeted advertising based upon your interests. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by clicking [here](http://www.aboutads.info/consumers). Please note this does not opt you out of being served advertising. You will continue to receive generic ads.
+We partner with a third party ad network to either display advertising on our Web site or to manage our advertising on other sites. Our ad network partner uses cookies and Web beacons to collect non-personally identifiable information about your activities on this and other Web sites to provide you targeted advertising based upon your interests. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by clicking [here](http://preferences-mgr.truste.com/). Please note this does not opt you out of being served advertising. You will continue to receive generic ads.
 
 **Content and Advertising**
 
@@ -73,7 +61,7 @@ dLife content is not influenced by advertisements or any other commercial influe
 
 **Legal Disclosure**
 
-We will also release your PII to third parties if we believe the release of such information is necessary (i) to comply with the law (e.g. a legal process or a statutory authorization), (ii) to protect or enforce our rights, or (iii) as part of a reorganization, consolidation, merger, or transfer of substantially all of the assets of dLife.
+We will also release your PII to third parties if we believe the release of such information is necessary (i) to comply with the law (e.g. a legal process or a statutory authorization), (ii) to protect or enforce our rights, or (iii) as part of a reorganization, consolidation, merger, or transfer of substantially all of the assets of dLife, in which case you will be notified via email and/or a prominent notice on our web site of any change in ownership or uses of your personal information as well as any choices you may have regarding your personal information, to any other third party with your prior consent to do so.
 
 **Surveys or Contests**
 
@@ -83,23 +71,15 @@ From time-to-time we may provide you the opportunity to participate in contests 
 
 If your personally identifiable information changes, or if you no longer desire our service, you may correct, update, amend, delete/remove or deactivate it by making the change on our member information page or by emailing our Customer Support at [privacy_items@dlife.com](mailto:privacy_items@dlife.com/).
 
-Please note that users cannot update or delete previously submitted information on [mydiabetesoffers.dlife.com](https://mydiabetesoffers.dlife.com/). If your information (such as your email address) should change, we ask that you re-submit a registration form or request.
-
 **Cookies and other tracking technologies**
 
-We also may collect anonymous and aggregate information from you about your preferences in navigating the Website by using cookies, action tags, and other methods. Cookies are small text files that identify your computer. We may use cookies to, among other things, monitor Website usage, customize Website features, and identify your computer's operating system and browser, and complete transactions. An action tag is a small, graphic image on a webpage that is designed to allow a Website owner or a third party to monitor who is visiting a Website by collecting the IP address of the computer to which the tag is sent, the URL of the webpage that the tag comes from and the time that such webpage was viewed. Tags may be associated with cookie information. We may also use such non-PII for promotional purposes.
+As is true of most web sites, we gather certain information automatically and store it in log files. This information may include Internet Protocol (IP) addresses, browser type, Internet Service Provider (ISP), referring/exit pages, operating system, date/time stamp and/or clickstream data. We do link this automatically collected data to other information we collect about you.
 
-If you do not want us to track such non-PII about you, you can set your browser to warn you before accepting cookies and refuse cookies when your browser alerts you to their presence. You can also adjust the settings in your browser to refuse all cookies. Please keep in mind that if you make such adjustments, you may not be able to use certain features of the Website.
+Technologies such as: cookies, beacons, tags and scripts are used by dLife and our marketing partners, affiliates, or analytics providers. These technologies are used in analyzing trends, administering the site, tracking users' movements around the site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis.
 
-**Web beacons**
+We use cookies to remember users' settings and for authentication. Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our site, but your ability to use some features or areas of our site may be limited. 
 
-Our Web pages contain electronic images known as Web beacons (sometimes called single-pixel gifs) and are used along with cookies to compile aggregated statistics to analyze how our site is used and may be used in some of our emails to let us know which emails and links have been opened by recipients. This allows us to gauge the effectiveness of our customer communications and marketing campaigns
-
-**3 rd Party Tracking**
-
-The use of cookies by our partners is not covered by our privacy policy.  We do not have access or control over these cookies.  Our partners use session ID and persistent cookies to serve related advertising messages to you. 
-
-Our third party partners employ clear gifs (a.k.a. Web Beacons/Web Bugs), images, and scripts that help them better manage content on our site. We do not tie the information gathered to our Customers' or Users' personally identifiable information.
+We use Local Storage Objects (LSOs) such as HTML5 to store content information and preferences. Various browsers may offer their own management tools for removing HTML5 LSOs.
 
 **Security**
 
