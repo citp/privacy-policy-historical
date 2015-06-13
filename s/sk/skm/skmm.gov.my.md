@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the skmm.gov.my privacy policy that was archived on 2014-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141205184407id_/http%3A//www.skmm.gov.my/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skmm.gov.my privacy policy that was archived on 2015-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150613074012id_/http%3A//www.skmm.gov.my/Privacy-Policy.aspx) for the most accurate reproduction.*
 
 # Malaysian Communications And Multimedia Commission (MCMC) | Suruhanjaya Komunikasi dan Multimedia Malaysia (SKMM) - Privacy Policy
 
