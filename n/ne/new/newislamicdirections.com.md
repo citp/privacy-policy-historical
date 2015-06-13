@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newislamicdirections.com privacy policy that was archived on 2014-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141126100942id_/http%3A//www.newislamicdirections.com/nid/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newislamicdirections.com privacy policy that was archived on 2015-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150613072248id_/http%3A//newislamicdirections.com/nid/privacy) for the most accurate reproduction.*
 
 # New Islamic Directions - Imam Zaid Shakir
 
