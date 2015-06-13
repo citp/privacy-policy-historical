@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the techbeasts.com privacy policy that was archived on 2014-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141124043357id_/http%3A//techbeasts.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techbeasts.com privacy policy that was archived on 2015-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150613030542id_/http%3A//techbeasts.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Techbeasts
 
-**7** Flares Twitter 0 Facebook 7 Google+ 0 StumbleUpon 0 Email \-- **7** Flares ×
+**8** Flares **8** Flares ×
 
 The privacy of our visitors to TechBeasts.com is important to us.
 
