@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the efinancialnews.com privacy policy that was archived on 2014-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141204094449id_/http%3A//www.efinancialnews.com/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the efinancialnews.com privacy policy that was archived on 2015-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150613210713id_/http%3A//www.efinancialnews.com/about-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - About Us - Financial News
 
@@ -119,8 +119,8 @@ You can access or modify personal information, or modify your preferences by con
 If you have any comments or questions about this Privacy and Cookies Policy, please contact us at [customerservices@efinancialnews.com](mailto:customerservices@efinancialnews.com) or:
 
 eFinancial News Limited  
-Dow Jones International, Ltd.  
-222 Gray's Inn Road  
-London  
-WC1X 8HB  
-
+Dow Jones International Ltd.  
+The News Building,  
+1 London Bridge Street,  
+London,  
+SE1 9GF 
