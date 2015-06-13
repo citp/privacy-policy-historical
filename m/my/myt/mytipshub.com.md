@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the mytipshub.com privacy policy that was archived on 2014-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141228081604id_/http%3A//www.mytipshub.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mytipshub.com privacy policy that was archived on 2015-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150613081752id_/http%3A//www.mytipshub.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - MyTipsHub
+# Privacy Policy
 
-This privacy policy is effective for all the pages, posts and services offered by **www.mytipshub.com**
+This privacy policy is effective for all the pages, posts and services offered by **MyTipsHub.com**
 
 ### **Personal Identification Information**
 
@@ -12,7 +12,7 @@ We may collect personal identification information from users in a variety of wa
 
 We may collect non-personal identification information about users whenever they interact with our website. Non-personal identification information may include but not limited to, Browser, OS, Device, Display Resolution, IP, Language, Country, City, Demographic, Information,  Time Spent on Website, ISP and other similar information.
 
-###   **Web browser cookies**
+### **Web Browser Cookies**
 
 Our Site may use “cookies” to enhance user experience. User’s web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent.
 
@@ -20,25 +20,17 @@ Our Site may use “cookies” to enhance user experience. User’s web browser 
 
 We may also use Third Party Programs, Codes, Plugins, Cookies and Software to collect users’ general data. However we will not collect users’ personal data without his consent. We may use Google Analytics, Stats Counters and other such services for this purpose.
 
-### **How we use collected information**
+### **How we use Collected Information**
 
 This website may collect and use users personal information for the following purposes:
 
-To Improve Customer Service (We may use your personal information to contact you and respond to your questions, requests, suggestions and complaints.)
+To Improve Customer Service (We may use your personal information to contact you and respond to your questions, requests, suggestions and complaints).
 
-### **To Improve Our Website**
-
-To run a contest, promotion, survey, poll or other site feature To send periodic emails, newsletter and feeds.
-
-### **Sharing Your Personal Information**
+### **Sharing your Personal Information**
 
 We do not sell or otherwise share your personal identification information to others for commercial purpose. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.
 
 We may also share your information to trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
-
-### **California Online Privacy Protection Act Compliance**
-
-Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
 
 ### **Third party Advertisements and Links**
 
@@ -52,12 +44,10 @@ This website also served ads by Google. We also may use DART cookies for ad serv
 
 You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at http://www.google.com/policies/privacy/ads/
 
-### **Changes to This Privacy Policy**
+### **Changes to this  Privacy Policy**
 
 Admin of **www.mytipshub.com** has the discretion to update, revise or change this privacy policy at any time. When we do, updated privacy policy will be available on this webpage and will also revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
 
 ### **Your acceptance of these terms**
 
 By using this Website, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
-
-[lastupdated]
