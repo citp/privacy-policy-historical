@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tjsdaily.blogspot.com privacy policy that was archived on 2014-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140515141043id_/http%3A//www.tjsdaily.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tjsdaily.blogspot.com privacy policy that was archived on 2015-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150613062601id_/http%3A//www.tjsdaily.com/p/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy | TJS Daily
+# Privacy Policy - TJS Daily
 
 We respect your privacy and we are committed to safeguarding your privacy while online at our site **[www.tjsdaily.com](http://www.tjsdaily.com/)**. The following discloses the information gathering and dissemination practices for this Web site.
 
