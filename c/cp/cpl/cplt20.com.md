@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the cplt20.com privacy policy that was archived on 2014-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141027003820id_/http%3A//cplt20.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cplt20.com privacy policy that was archived on 2015-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150613030125id_/http%3A//cplt20.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | cplt20
 
-CPL is committed to respecting your privacy and to complying with applicable data protection and privacy laws. You can visit [www.cplt20.com](http://www.cplt20.com/) without disclosing any personally identifiable information about yourself. We have provided this Privacy Policy Statement to help you understand how we collect, use and protect your information when you visit the Site. We wish to help you make informed decisions, so please take a few moments to read the sections below and learn how we may use your personal information. You should read this notice in conjunction with the Terms and Conditions of use for the Site and our products and services.
+CPL is committed to respecting your privacy and to complying with applicable data protection and privacy laws. You can visit www.cplt20.com without disclosing any personally identifiable information about yourself. We have provided this Privacy Policy Statement to help you understand how we collect, use and protect your information when you visit the Site. We wish to help you make informed decisions, so please take a few moments to read the sections below and learn how we may use your personal information. You should read this notice in conjunction with the Terms and Conditions of use for the Site and our products and services.
 
 ## Personal Information Collection
 
@@ -19,3 +19,7 @@ Please be aware that communications over the Internet, such as emails/webmails, 
 ## Privacy Support
 
 CPL reserves the right to amend or modify this Privacy Policy Statement at any time and in response to changes in applicable data protection and privacy legislation.
+
+## CPL ON Twitter & facebook
+
+[](http://instagram.com/cplt20)  Follow us on Instagram as well! <http://instagram.com/cplt20>
