@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bankofengland.co.uk privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231015753id_/http%3A//www.bankofengland.co.uk/Pages/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bankofengland.co.uk privacy policy that was archived on 2015-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150614001556id_/http%3A//www.bankofengland.co.uk/Pages/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
-# Bank of England | Privacy and Cookie Policy
+# Privacy and Cookie Policy | Bank of England
 
 This policy applies to the website (www.bankofengland.co.uk) for the Bank of England (the ‘Bank’), including the Prudential Regulation Authority (‘PRA’), as well as for the Bank’s careers website (www.boe-careers.co.uk) (collectively, ‘our websites’).  It does not cover links within these to any other websites. 
 
