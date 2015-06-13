@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the phonebook.com.pk privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120170559id_/http%3A//www.phonebook.com.pk/static/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phonebook.com.pk privacy policy that was archived on 2015-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150613042444id_/http%3A//phonebook.com.pk/static/privacypolicy.aspx) for the most accurate reproduction.*
 
 # PhoneBook Online: Privacy Policy
 
