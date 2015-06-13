@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the astrogemini.com privacy policy that was archived on 2014-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140904025452id_/http%3A//www.astrogemini.com/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the astrogemini.com privacy policy that was archived on 2015-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150614003106id_/http%3A//www.astrogemini.com/policy.html) for the most accurate reproduction.*
 
 # Astro Gemini Software - Privacy Policy for Astro Gemini Software
 
@@ -49,4 +49,4 @@ By using any of the Astro Gemini Software websites, products, or services, you s
 
 ## Contact Us about Privacy
 
-If, for any reason, you are concerned with the way that we may be using your personal information, you would like to request that we cease from using your personal information, or you wish to file a complaint, please e-mail us using our [Contact webpage](https://web.archive.org/web/20140904025452id_/http%3A//www.astrogemini.com/support/customer-service.html). 
+If, for any reason, you are concerned with the way that we may be using your personal information, you would like to request that we cease from using your personal information, or you wish to file a complaint, please e-mail us using our [Contact webpage](https://web.archive.org/web/20150614003106id_/http%3A//www.astrogemini.com/support/customer-service.html). 
