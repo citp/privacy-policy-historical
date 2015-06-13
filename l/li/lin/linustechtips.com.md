@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the linustechtips.com privacy policy that was archived on 2014-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141211111731id_/http%3A//linustechtips.com/main/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linustechtips.com privacy policy that was archived on 2015-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150613090927id_/http%3A//linustechtips.com/main/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy and Legal Disclaimer - Linus Tech Tips
 
