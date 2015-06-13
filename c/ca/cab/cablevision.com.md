@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the cablevision.com privacy policy that was archived on 2013-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131227032531id_/http%3A//www.optimum.net/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cablevision.com privacy policy that was archived on 2015-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150613213617id_/http%3A//www.optimum.net/Privacy) for the most accurate reproduction.*
 
 # Optimum | Protecting Your Privacy
 
 Currently viewing account details for: 
-
-__{{CommonHeaderCtrl.currentAlertIndex}}
 
 Currently viewing account details for: 
 
@@ -67,7 +65,18 @@ your billing info right now.
 
 
 
-  *   * **Search full site for "{{CommonHeaderCtrl.truncateText(CommonHeaderCtrl.searchTerm,4)}}"**
+Support
+
+#### Service status
+
+  
+
+
+#### {{CommonHeaderCtrl.outage.message}}
+
+#### {{CommonHeaderCtrl.outage.message}}
+
+  *   * Search full site for **"{{CommonHeaderCtrl.truncateText(CommonHeaderCtrl.searchTerm,4)}}"**
   * Loading...  
 
 
@@ -78,7 +87,7 @@ your billing info right now.
 
 
 
-  *   * **Search Google for "{{CommonHeaderCtrl.truncateText(CommonHeaderCtrl.searchTerm,4)}}"**
+  *   * Search Google for **"{{CommonHeaderCtrl.truncateText(CommonHeaderCtrl.searchTerm,4)}}"**
   * Loading...   
 
 
@@ -119,7 +128,7 @@ You have no new emails
 
 Optimum.net
 
-  *   * **Search full site for "{{CommonHeaderCtrl.truncateText(CommonHeaderCtrl.searchTerm,4)}}"**
+  *   * Search full site for **"{{CommonHeaderCtrl.truncateText(CommonHeaderCtrl.searchTerm,4)}}"**
   * Loading...   
 
 
@@ -157,6 +166,10 @@ Keep searching
 Optimum.net is compatible with a wide range of browsers. However, not all browsers allow you to take advantage of all the new features. We strongly recommend that you upgrade to a more current browser.
 
 [](http://windows.microsoft.com/ie) [](https://www.google.com/intl/en/chrome/browser) [](http://www.mozilla.org/en-US/firefox/new/)
+
+#### You need to change your Internet Explorer Compatibility View setting to get the most from the new Optimum.net
+
+Click [here](http://optimum.custhelp.com/app/answers/detail/a_id/3703) for more info.
 
 ## At Cablevision, we value your privacy.
 
@@ -810,7 +823,15 @@ We will review this privacy notice periodically as we deem appropriate and when 
 
 Effective April 8, 2013 
 
-  * © 2013 CSC Holdings, LLC.
+  * © Copyright 2014 CSC Holdings, LLC.
+
+
+
+  * © Copyright {{CommonFooterCtrl.fullYear}}  CSC Holdings, LLC.
+
+
+
+  * © {{CommonFooterCtrl.fullYear}} CSC Holdings, LLC.
   * [](http://www.news12.com/)
   * [](http://www.newsday.com/)
   * [](http://www.msgvarsity.com/)
