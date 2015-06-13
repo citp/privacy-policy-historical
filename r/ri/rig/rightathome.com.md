@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rightathome.com privacy policy that was archived on 2014-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141202083000id_/http%3A//privacy.scjbrands.com/us/en) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rightathome.com privacy policy that was archived on 2015-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150613171517id_/http%3A//privacy.scjbrands.com/us/en) for the most accurate reproduction.*
 
 # Privacy Notice | SC Johnson
 
@@ -255,4 +255,4 @@ You have the right to tell us:
 
 Please be aware that in accordance with our routine record keeping, at our discretion and from time-to-time, we may delete records that contain personal information. 
 
-[ ](http://www.raidkillsbugs.com/) [ ](http://www.keepsbugsoff.com/en-US/Pages/default.aspx) [ ](http://www.kiwicare.com/US/Home/) [ ](http://www.scrubbingbubbles.com/Pages/default.aspx) [ ](http://www.pledge.com/en-US/Pages/default.aspx) [ ](http://www.windex.com/en-US/Pages/default.aspx) [ ](http://www.scjohnson.com/en/home.aspx) [ ](http://www.glade.com/en-US/Pages/Home.aspx) [ ](http://www.ziploc.com/Pages/Default.aspx) [ ](http://www.shoutitout.com/en-US/Pages/default.aspx) [ ](http://www.drano.com/en-US/Pages/Home.aspx) [ ](http://www.rightathome.com/Pages/default.aspx)
+[ ](http://www.raidkillsbugs.com/) [ ](http://www.off.com/en-US/Pages/default.aspx) [ ](http://www.kiwicare.com/US/Home/index.html) [ ](http://www.scrubbingbubbles.com/Pages/default.aspx) [ ](http://www.pledge.com/en-US/Pages/default.aspx) [ ](http://www.windex.com/en-US/Pages/default.aspx) [ ](http://www.scjohnson.com/en/home.aspx) [ ](http://www.glade.com/en-US/Pages/Home.aspx) [ ](http://www.ziploc.com/Pages/Default.aspx) [ ](http://www.shoutitout.com/en-US/Pages/default.aspx) [ ](http://www.drano.com/en-US/Pages/Home.aspx) [ ](http://www.rightathome.com/Pages/default.aspx)
