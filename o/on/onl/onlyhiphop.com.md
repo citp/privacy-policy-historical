@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the onlyhiphop.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220075331id_/http%3A//onlyhiphop.com/terms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlyhiphop.com privacy policy that was archived on 2015-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150613101201id_/http%3A//onlyhiphop.com/terms) for the most accurate reproduction.*
 
-# Terms of Use & Privacy Policy OnlyHipHop.com - Only The Best Hip Hop. Updated 24/7 Since 2007
+# Terms of Use & Privacy Policy OnlyHipHop.com - Quality Hip Hop Music. Updated 24/7 Since 2007
 
 **Terms of Use**
 
 Everything posted on onlyhiphop.com is for promotional use only. We work directly with artists, managers, publicists, and labels. Any files downloaded should only be kept temporarily. We do not store any unauthorized files on our server. Please support the artists here and our culture like we do.
 
-**Privacy Policy**
+ **Privacy Policy**
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at privacy@onlyhiphop.com.
 
@@ -14,15 +14,15 @@ At onlyhiphop.com, the privacy of our visitors is of extreme importance to us. T
 
 We use third-party advertising companies to serve ads when you visit our web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, http://www.networkadvertising.org/managing/opt_out.asp.
 
-_Log Files_
+ _Log Files_
 
 Like many other Web sites, onlyhiphop.com makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
 
-_Cookies and Web Beacons_
+ _Cookies and Web Beacons_
 
 onlyhiphop.com does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize site content based on visitors browser type or other information that the visitor sends via their browser.
 
-_DoubleClick DART Cookie_
+ _DoubleClick DART Cookie_
 
 Google, as a third party vendor, uses cookies to serve ads on onlyhiphop.com. Google’s use of the DART cookie enables it to serve ads to users based on their visit to onlyhiphop.com and other sites on the Internet. Users may _opt-out_ of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL: http://www.google.com/privacy_ads.html
 
