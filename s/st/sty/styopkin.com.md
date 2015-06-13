@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the styopkin.com privacy policy that was archived on 2014-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141117094310id_/http%3A//www.styopkin.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the styopkin.com privacy policy that was archived on 2015-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150613140326id_/http%3A//www.styopkin.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Styopkin software privacy policy
 
