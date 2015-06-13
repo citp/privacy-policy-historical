@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the cameraparadise.com privacy policy that was archived on 2014-11-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141122164320id_/http%3A//cameraparadise.com/en/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the cameraparadise.com privacy policy that was archived on 2015-06-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150613185239id_/http%3A//cameraparadise.com/en/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
     <title>Digital Camera Store - Buy Digital Cameras, Digital SLR Cameras, Lenses and Photography Accessories</title>
@@ -12,10 +12,14 @@
 <meta name="author" content="Camera Paradise">
 <meta name="audience" content="all">
 <meta name="copyright" content="Camera Paradise">    <link href="../css/default.css" rel="stylesheet" type="text/css">
-<link href="../css/layout.css" rel="stylesheet" type="text/css">
+<link href="../css/layout.css?v=201506131260425407" rel="stylesheet" type="text/css">
 <link href="../css/plug-in.css" rel="stylesheet" type="text/css">
 <link href="../../plug-in/SexyButtons/sexybuttons.css" rel="stylesheet" type="text/css">
-<link rel="shortcut icon" href="../images/logo-small.ico">    <!-- General -->
+<link rel="shortcut icon" href="../images/logo-small.ico">
+
+<link href="../css/global.css" rel="stylesheet" type="text/css">
+<link rel="stylesheet" type="text/css" href="../../js/jquery.fancybox-1.3.4/fancybox/jquery.fancybox-1.3.4.css" media="screen">
+    <!-- General -->
 	<script src="https://dnn506yrbagrg.cloudfront.net/pages/scripts/0013/1574.js?439034" async="" type="text/javascript"></script><script async="" src="//connect.facebook.net/en_US/fbds.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" language="javascript" src="../../js/utility.js"></script>
     <script type="text/javascript" language="javascript" src="../../js/validation.js"></script>
 
@@ -53,7 +57,7 @@
     <script language="Javascript" type="text/javascript" src="../../plug-in/lwtCountdown/js/misc.js"></script>
 	<script language="Javascript" type="text/javascript" src="../../js/cameraparadiseJS.js"></script>
     <link rel="Stylesheet" type="text/css" href="../../plug-in/lwtCountdown/style/dark.css">  
-	
+		
 <!-- google-analytics -->
 <script type="text/javascript">
   var _gaq = _gaq || [];
@@ -67,51 +71,568 @@
   })();
 </script>
 
-
-
-
 <!-- google plus
 <script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
- google plus --></head>
+ google plus --> 
+</head>
 <body>
-  <form name="frm">
+<form name="frm">
     <div id="container">
-    
-    	<!-- Header -->
+			<script type="text/javascript" language="javascript" src="http://cameraparadise.com/en/js/jquery-1.6.4.js"></script>
+	<!--sticky header js-->
+	<script type="text/javascript">
+	var $h = jQuery.noConflict();
+	//conditional use: scroll the page
+	$h(window).scroll(function stickyHeader()
+	{	
+	//if window scroll more than 0px
+	if( $h(window).scrollTop() > 0 )
+	{		
+			//using header to prevent flashing problem of sticky navigation
+			//header position fixed
+			$h('#header').css({position: 'fixed', height: '63px'});
+			//assign a header placeholder with same height
+			$h('#header_placeholder').css({display: 'block'});
+			//sticky_navigation_wrapper will animate to the top 0px
+			$h('.sticky_navigation_wrapper').animate({'top': '0px'}, 10);
+			//hot_search will be disappeared
+			//$h('.hot_search').css({ "display": "none" });
+			//$('.hot_search').css({ "display": "none", "opacity": "1" }).animate({ "opacity": "0" }, 100);
+			//height of sticky_navigation will be animate to 60px
+			//$h('#sticky_navigation').animate({'height': '60px'}, 10);
+			//#currency_div display none
+			$h('#currency_div').css({display: 'none'});
+	} 
+	else 
+	{
+			//header position static
+			$h('#header').css({position: 'static', height: '98px'});
+			//delete a header placeholder with same height
+			$h('#header_placeholder').css({display: 'none'});
+			//sticky_navigation_wrapper will animate to the top 25px
+			$h('.sticky_navigation_wrapper').animate({'top': '25px'}, 10);
+			//hot_search will be animated to show
+			//$h('.hot_search').css({ "display": "block" });
+			//$('.hot_search').css({ "display": "block", "opacity": "0" }).animate({ "opacity": "1" }, 100);
+			//height of sticky_navigation will be animate to 73px
+			//$h('#sticky_navigation').animate({'height': '70px'}, 10);
+	}
+	});
+	
+	function stickyHeaderMozilla () {
+	//conditional use: $(document).ready not work in firefox
+	if ( $h.browser.mozilla ){
+	//check the page's scrolling position
+	if( $h(window).scrollTop() > 0 )
+	{		
+			//using header to prevent flashing problem of sticky navigation
+			//header position fixed
+			$h('#header').css({position: 'fixed', height: '63px'});
+			//assign a header placeholder with same height
+			$h('#header_placeholder').css({display: 'block'});
+			//sticky_navigation_wrapper will animate to the top 0px
+			$h('.sticky_navigation_wrapper').animate({'top': '0px'}, 10);
+			//hot_search will be disappeared
+			//$h('.hot_search').css({ "display": "none" });
+			//$('.hot_search').css({ "display": "none", "opacity": "1" }).animate({ "opacity": "0" }, 100);
+			//height of sticky_navigation will be animate to 60px
+			//$h('#sticky_navigation').animate({'height': '60px'}, 10);
+			//#currency_div display none
+			$h('#currency_div').css({display: 'none'});
+	} 
+	else 
+	{
+			//header position static
+			$h('#header').css({position: 'static', height: '98px'});
+			//delete a header placeholder with same height
+			$h('#header_placeholder').css({display: 'none'});
+			//sticky_navigation_wrapper will animate to the top 25px
+			$h('.sticky_navigation_wrapper').animate({'top': '25px'}, 10);
+			//hot_search will be animated to show
+			//$h('.hot_search').css({ "display": "block" });
+			//$('.hot_search').css({ "display": "block", "opacity": "0" }).animate({ "opacity": "1" }, 100);
+			//height of sticky_navigation will be animate to 73px
+			//$h('#sticky_navigation').animate({'height': '70px'}, 10);
+	}
+	}
+	}
+	</script>
+	<!--sticky header js close-->
+	
+	<script type="text/javascript" language="javascript">
+		var $b = jQuery.noConflict();
+		
+		// fade in #back-top
+		$b(function scrollTop() {
+			// hide #back-top first
+			$b("#back-top").hide();
 
-        <div id="header">
+			$b(window).scroll(function () {
+				if ($b(this).scrollTop() > 100) {
+					$b('#back-top').fadeIn();
+				} else {
+					$b('#back-top').fadeOut();
+				}
+			});
 
-        	<div id="header-center">
-            
-            	<link href="http://cameraparadise.com/en/css/new_header.css" rel="stylesheet" type="text/css">
-<div style="float: left; width: 460px; padding-left:  ">
-<a href="http://cameraparadise.com/" title="Camera Paradise">
-<img id="logo" src="../../en/images/logo.png" alt="Camera Paradise" border="0">
-</a>
-<div id="tool-bar2" class="content-shadow" style="float: left;">
-            
-                <div id="tools-box">
-	<div id="product-search">
-        <table>
-            <tbody><tr>
-                <td>
-                	<script type="text/javascript">
-                        function form_search(){
-                            fr = document.frm;
-                            
+			// scroll body to 0px on click
+			$b('#back-top a').click(function () {
+				$b('body,html').animate({
+					scrollTop: 0
+				}, 200);
+				return false;
+			});
+		});
+	</script>
+	
+	<!--jQuery dot dot dot usage-->
+	<script type="text/javascript" language="javascript" src="http://cameraparadise.com/en/js/jquery.dotdotdot.js"></script>
+	<script type="text/javascript" language="javascript">
+	var $d = jQuery.noConflict();
+		$d(function() {
+			$d('.product_name').dotdotdot();
+		});
+	</script>
+	<!--jQuery dot dot dot usage close-->
+	
+	<script type="text/javascript" language="javascript">
+	//if the window ready before all loading
+	$(document).ready(function(){
+		//stickyHeader();
+		stickyHeaderMozilla();
+		//scrollTop();
+	});
+	</script>
+	
+	
+	<link href="http://cameraparadise.com/en/css/sticky-header.css?v=201506131253514380" rel="stylesheet" type="text/css">
+		<!--///////////////////////////////Header Section///////////////////////////////////-->
+
+		  <div id="header">
+		<!--//////////////////Top Admin Section///////////////////-->
+			<div id="top">
+				<div class="admin_container">
+					<!--<a href="http://cameraparadise.com/en/deals/index.php" id="ip_shipping">Today's Deals</a>-->
+					<div id="admin_bar">
+
+					<!--Google + API-->
+					<!--<div class="google_share"><div class="g-plusone" data-size="medium"></div>
+					</div>
+					<script type="text/javascript">
+					  (function() {
+						var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+						po.src = 'https://apis.google.com/js/platform.js';
+						var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+					  })();
+					</script>-->
+					<!--Google + API Close-->
+					<!--//////////////////////////////Facebook API Section///////////////////-->
+					<!--<div class="fb-like" data-href="https://www.facebook.com/CameraParadise" data-layout="button_count" data-action="like" data-show-faces="true" data-share="false"></div>
+					<div id="fb-root"></div>
+						<script>
+						(function(d, s, id) {
+						  var js, fjs = d.getElementsByTagName(s)[0];
+						  if (d.getElementById(id)) return;
+						  js = d.createElement(s); js.id = id;
+						  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.0";
+						  fjs.parentNode.insertBefore(js, fjs);
+						}(document, 'script', 'facebook-jssdk'));
+						</script>-->
+					<!--/////////////////////Facebook API Section Close///////////////////-->
+					 <ul>
+					 <li><a href="http://cameraparadise.com/en/track-my-order/" title="Order tracker">Order Tracker</a></li>
+					 <li><a href="http://cameraparadise.com/en/shipping.html" title="Shipping">Shipping</a></li>
+					 <li><a href="http://cameraparadise.com/en/faq.html" title="FAQ">FAQ</a></li>
+					 <li>
+					 <a href="" title="Change Currency" onclick="$('#currency_div').toggle(); return false;">Change Currency</a>
+						<div id="currency_div">
+							<div id="arrow"></div>
+							<ul id="currency_dropdown">
+							<li><a href="#" onclick="display_currency(1); return false;">AUD</a></li><li><a href="#" onclick="display_currency(2); return false;">GBP</a></li><li><a href="#" onclick="display_currency(11); return false;">SGD</a></li>
+							</ul>
+						</div>
+					<script type="text/javascript">
+					function display_currency(id){
+
+						fr = document.frm;
+
+						
+
+						fr.target = '_self';
+
+						fr.method = 'post';
+						document.frm.display_currency_id.value = id;
+
+						fr.submit();
+						
+
+					}
+					</script>
+					<input type="hidden" value="1" name="display_currency_id" onchange="display_currency(this.value)">
+
+					 </li>
+					 <li><a href="http://cameraparadise.com/en/contact-us.html" title="Contact Us">Contact Us</a></li>
+					 </ul>
+					</div>
+				</div>
+			</div>
+		<!--//////////////////Top Admin Section Close///////////////////-->
+		
+		  <!--/////////////////Sticky Header Section/////////////////-->
+			<div class="sticky_navigation_wrapper">
+				<div id="sticky_navigation">
+					<div class="sticky_container">
+					  <!--/////////////////Logo Section/////////////////-->
+					  <a href="http://cameraparadise.com/en/index/index.php" class="logo"><img src="http://cameraparadise.com/en/images/logo.png"></a>	
+					  <!--/////////////////Logo Section Close/////////////////-->
+					  	
+					  <!--////////////////Categories Section/////////////////-->
+					  	<ul id="menu" style="cursor: pointer;">
+						<li>
+							<div class="menu_arrow"></div>
+							<!--<a href="http://cameraparadise.com/en/all-categories/index.php"><div class="border-menu"></div></a>-->
+							<a href="#" style="pointer-events: none;"><div class="border-menu"></div></a>
+								<ul>
+									<div id="arrow"></div><!--arrow-->
+									<!--block-->
+									<li>
+										<div style="float: left; height: 10px;border-left: 5px solid #eee;"></div>
+									</li>	
+									<!--block-->
+
+									<li>
+										<a style="cursor:default;">
+										<div class="nav_item_arrow"></div>
+										Film and Digital Cameras
+										</a>
+										
+										<ul>
+											<li>
+											<div class="menu_box">
+											<div class="menu_header">Catalog											</div>											
+											<a href="http://cameraparadise.com/shop/digital-slr-camera.html?utm_campaign=jnfszxn&amp;utm_source=kpzbknbv&amp;utm_medium=xnux&amp;tid=kpzbknbv-DSLR">Digital SLR Cameras</a>
+											<a href="http://cameraparadise.com/shop/mirrorless-digital-camera.html?utm_campaign=jnfszxn&amp;utm_source=kpzbknbv&amp;utm_medium=xnux&amp;tid=kpzbknbv-mirrorless-system-cameras">Mirrorless System Cameras</a>
+											<a href="http://cameraparadise.com/shop/compact-camera.html?utm_campaign=jnfszxn&amp;utm_source=kpzbknbv&amp;utm_medium=xnux&amp;tid=kpzbknbv-compact-cameras">Compact Cameras</a>
+											<a href="http://cameraparadise.com/shop/film-camera.html?utm_campaign=jnfszxn&amp;utm_source=kpzbknbv&amp;utm_medium=xnux&amp;tid=kpzbknbv-film-cameras">Film Cameras</a>
+											</div>
+											
+											<div class="menu_box">
+											<div class="menu_header">Hot Brands</div>									
+											<a href="http://cameraparadise.com/shop/canon+camera.html?utm_campaign=jnfszxn&amp;utm_source=kpzbknbv&amp;utm_medium=xnux&amp;tid=kpzbknbv-canon-camera">Canon</a>
+											<a href="http://cameraparadise.com/shop/casio+camera.html?utm_campaign=jnfszxn&amp;utm_source=kpzbknbv&amp;utm_medium=xnux&amp;tid=kpzbknbv-casio-camera">Casio</a>
+											<a href="http://cameraparadise.com/shop/fujifilm+camera.html?utm_campaign=jnfszxn&amp;utm_source=kpzbknbv&amp;utm_medium=xnux&amp;tid=kpzbknbv-fujifilm-camera">Fujifilm</a>
+											<a href="http://cameraparadise.com/shop/nikon+camera.html?utm_campaign=jnfszxn&amp;utm_source=kpzbknbv&amp;utm_medium=xnux&amp;tid=kpzbknbv-nikon-camera">Nikon</a>
+											<a href="http://cameraparadise.com/shop/olympus+camera.html?utm_campaign=jnfszxn&amp;utm_source=kpzbknbv&amp;utm_medium=xnux&amp;tid=kpzbknbv-olympus-camera">Olympus</a>
+											<a href="http://cameraparadise.com/shop/panasonic+camera.html?utm_campaign=jnfszxn&amp;utm_source=kpzbknbv&amp;utm_medium=xnux&amp;tid=kpzbknbv-panasonic-camera">Panasonic</a>
+											<a href="http://cameraparadise.com/shop/sony+camera.html?utm_campaign=jnfszxn&amp;utm_source=kpzbknbv&amp;utm_medium=xnux&amp;tid=kpzbknbv-sony-camera">Sony</a>
+											</div>
+											
+											<div class="menu_box">
+											<div class="menu_header">Hot Models</div>							
+											<a href="http://cameraparadise.com/Buy-Canon-EOS-5D-Mark-III-Digital-SLR-Camera-Body-1193.html?utm_campaign=jnfszxn&amp;utm_source=kpzbknbv&amp;utm_medium=xnux&amp;tid=kpzbknbv-canon5DmarkIII">Canon EOS 5D Mark III Body</a>
+											<a href="http://cameraparadise.com/Buy-Canon-PowerShot-G7X-Digital-Camera-49217.html?utm_campaign=jnfszxn&amp;utm_source=kpzbknbv&amp;utm_medium=xnux&amp;tid=kpzbknbv-canonG7X">Canon PowerShot G7 X</a>
+											<a href="http://cameraparadise.com/Buy-Canon-PowerShot-G16-Digital-Camera-2443.html?utm_campaign=jnfszxn&amp;utm_source=kpzbknbv&amp;utm_medium=xnux&amp;tid=kpzbknbv-canonG16">Canon PowerShot G16</a>
+											<a href="http://cameraparadise.com/Buy-Nikon-Coolpix-P610-Digital-Camera-49990.html?utm_campaign=jnfszxn&amp;utm_source=kpzbknbv&amp;utm_medium=xnux&amp;tid=kpzbknbv-nikonP610">Nikon Coolpix P610</a>
+											<a href="http://cameraparadise.com/Buy-Canon-EOS-70D-Digital-SLR-Camera-Body-2273.html?utm_campaign=jnfszxn&amp;utm_source=kpzbknbv&amp;utm_medium=xnux&amp;tid=kpzbknbv-canon70D">Canon EOS 70D Body</a>
+											<a href="http://cameraparadise.com/Buy-Nikon-D5500-Digital-SLR-Camera-Kit-with-18-140mm-f-3-5-5-6G-Lens-49856.html?utm_campaign=jnfszxn&amp;utm_source=kpzbknbv&amp;utm_medium=xnux&amp;tid=kpzbknbv-nikonD5500">Nikon D5500 with 18-140mm</a>
+											<a href="http://cameraparadise.com/Buy-Panasonic-Lumix-DMC-CM1-Smart-Digital-Camera-85454.html?utm_campaign=jnfszxn&amp;utm_source=kpzbknbv&amp;utm_medium=xnux&amp;tid=kpzbknbv-panasonicCM1">Panasonic Lumix CM1</a>
+											<a href="http://cameraparadise.com/Buy-Polaroid-Socialmatic-Instant-Digital-Camera-85484.html?utm_campaign=jnfszxn&amp;utm_source=kpzbknbv&amp;utm_medium=xnux&amp;tid=kpzbknbv-polaroid-socialmatic">Polaroid Socialmatic</a>
+											<a href="http://cameraparadise.com/Buy-Canon-EOS-7D-Mark-II-Digital-SLR-Camera-Kit-with-18-135mm-Lens-85286.html?utm_campaign=jnfszxn&amp;utm_source=kpzbknbv&amp;utm_medium=xnux&amp;tid=kpzbknbv-canon7DmarkII">Canon EOS 7D Mark II with 18-135mm</a>
+											<a href="http://cameraparadise.com/Buy-Canon-EOS-760D-Rebel-T6s-Digital-SLR-Camera-Body-50026.html?utm_campaign=jnfszxn&amp;utm_source=kpzbknbv&amp;utm_medium=xnux&amp;tid=kpzbknbv-canon760D">Canon EOS 760D Body</a>
+											</div>									
+											</li>
+										</ul>				
+									</li>
+									
+									<li>
+										<a style="cursor:default;">
+										<div class="nav_item_arrow"></div>
+										Lenses										
+										</a>
+										<ul>
+											<li>	
+											<div class="menu_box">
+											<div class="menu_header">Hot Brands</div>	
+											<a href="http://cameraparadise.com/shop/canon+lens.html?utm_campaign=jnfszxn&amp;utm_source=kpzbknbv&amp;utm_medium=xnux&amp;tid=kpzbknbv-canon-lens">Canon</a>
+											<a href="http://cameraparadise.com/shop/nikon+lens.html?utm_campaign=jnfszxn&amp;utm_source=kpzbknbv&amp;utm_medium=xnux&amp;tid=kpzbknbv-nikon-lens">Nikon</a>
+											<a href="http://cameraparadise.com/shop/olympus+lens.html?utm_campaign=jnfszxn&amp;utm_source=kpzbknbv&amp;utm_medium=xnux&amp;tid=kpzbknbv-olympus-lens">Olympus</a>
+											<a href="http://cameraparadise.com/shop/panasonic+lens.html?utm_campaign=jnfszxn&amp;utm_source=kpzbknbv&amp;utm_medium=xnux&amp;tid=kpzbknbv-panasonic-lens">Panasonic</a>
+											<a href="http://cameraparadise.com/shop/sigma+lens.html?utm_campaign=jnfszxn&amp;utm_source=kpzbknbv&amp;utm_medium=xnux&amp;tid=kpzbknbv-sigma-lens">Sigma</a>
+											<a href="http://cameraparadise.com/shop/sony+lens.html?utm_campaign=jnfszxn&amp;utm_source=kpzbknbv&amp;utm_medium=xnux&amp;tid=kpzbknbv-sony-lens">Sony</a>
+											<a href="http://cameraparadise.com/shop/tamron+lens.html?utm_campaign=jnfszxn&amp;utm_source=kpzbknbv&amp;utm_medium=xnux&amp;tid=kpzbknbv-tamron-lens">Tamron</a>
+											<a href="http://cameraparadise.com/shop/fujifilm+lens.html?utm_campaign=jnfszxn&amp;utm_source=kpzbknbv&amp;utm_medium=xnux&amp;tid=kpzbknbv-fujifilm-lens">Fujifilm</a>
+											</div>
+											
+											<div class="menu_box">
+											<div class="menu_header">Hot Models</div>
+											<a href="http://cameraparadise.com/Buy-Canon-EF-50mm-f-1-8-II-Lens-412.html?utm_campaign=jnfszxn&amp;utm_source=kpzbknbv&amp;utm_medium=xnux&amp;tid=kpzbknbv-canon50mmII">Canon EF 50mm f/1.8 II</a>
+											<a href="http://cameraparadise.com/Buy-Canon-EFS-10-18mm-f-4-5-5-6-IS-STM-Lens-48074.html?utm_campaign=jnfszxn&amp;utm_source=kpzbknbv&amp;utm_medium=xnux&amp;tid=kpzbknbv-canon1018mm">Canon EF-S 10-18mm f/4.5-5.6</a>
+											<a href="http://cameraparadise.com/Buy-Sigma-30mm-f-2-8-DN-Art-Lens-85345.html?utm_campaign=jnfszxn&amp;utm_source=kpzbknbv&amp;utm_medium=xnux&amp;tid=kpzbknbv-sigma30mm">Sigma 30mm f/2.8 DN Art</a>
+											<a href="http://cameraparadise.com/Buy-Nikon-AF-70-300mm-f-4-5-6G-Lens-457.html?utm_campaign=jnfszxn&amp;utm_source=kpzbknbv&amp;utm_medium=xnux&amp;tid=kpzbknbv-nikon70300mm">Nikon AF 70-300mm f/4-5.6G</a>
+											<a href="http://cameraparadise.com/Buy-Canon-EF-50mm-f-1-8-STM-Lens-85502.html?utm_campaign=jnfszxn&amp;utm_source=kpzbknbv&amp;utm_medium=xnux&amp;tid=kpzbknbv-canon50mmSTM">Canon EF 50mm f/1.8 STM</a>
+											<a href="http://cameraparadise.com/Buy-Canon-EF-24-105mm-f-4L-IS-USM-Lens-400.html?utm_campaign=jnfszxn&amp;utm_source=kpzbknbv&amp;utm_medium=xnux&amp;tid=kpzbknbv-canon24105mm">Canon EF 24-105mm f/4L</a>
+											<a href="http://cameraparadise.com/Buy-Fujifilm-XF-35mm-f-1-4-R-Lens-1346.html?utm_campaign=jnfszxn&amp;utm_source=kpzbknbv&amp;utm_medium=xnux&amp;tid=kpzbknbv-fujifilm35mm">Fujifilm XF 35mm f/1.4</a>
+											</div>
+											
+											</li>
+										</ul>				
+									</li>
+
+									<li>
+										<a style="cursor:default;">
+										<div class="nav_item_arrow"></div>
+										Video Cameras										
+										</a>
+										<ul>
+											<li>
+											<!--<a href="http://www.yahoo.com" target ="_blank" style="width:0;padding:0;border:0;"><div style="bottom: -401px;left: -6px; z-index: 2;"><img src="../images/menu/menu_lens.png" /></div></a>-->
+											<div class="menu_box">
+											<div class="menu_header">Hot Brands</div>									
+											<a href="http://cameraparadise.com/shop/dji+video-camera.html?utm_campaign=jnfszxn&amp;utm_source=kpzbknbv&amp;utm_medium=xnux&amp;tid=kpzbknbv-dji-video-camera">DJI</a>
+											<a href="http://cameraparadise.com/shop/gopro+action-camera.html?utm_campaign=jnfszxn&amp;utm_source=kpzbknbv&amp;utm_medium=xnux&amp;tid=kpzbknbv-gopro-action-camera">GoPro</a>
+											<a href="http://cameraparadise.com/shop/polaroid+action-camera.html?utm_campaign=jnfszxn&amp;utm_source=kpzbknbv&amp;utm_medium=xnux&amp;tid=kpzbknbv-polaroid-action-camera">Polaroid</a>
+											<a href="http://cameraparadise.com/shop/sjcam+action-camera.html?utm_campaign=jnfszxn&amp;utm_source=kpzbknbv&amp;utm_medium=xnux&amp;tid=kpzbknbv-sjcam-action-camera">SJCAM</a>
+											<a href="http://cameraparadise.com/shop/sony+action-camera.html?utm_campaign=jnfszxn&amp;utm_source=kpzbknbv&amp;utm_medium=xnux&amp;tid=kpzbknbv-sony-action-camera">Sony</a>
+											</div>	
+											
+											<div class="menu_box">
+											<div class="menu_header">Hot Models</div>									
+											<a href="http://cameraparadise.com/Buy-GoPro-Hero-4-Black-Standard-Edition-Action-Camera-49307.html?utm_campaign=jnfszxn&amp;utm_source=kpzbknbv&amp;utm_medium=xnux&amp;tid=kpzbknbv-gopro-hero-4-black">GoPro Hero 4 Black</a>
+											<a href="http://cameraparadise.com/Buy-SJCAM-SJ5000-WiFi-1080p-Full-HD-Sports-Action-Camera-49922.html?utm_campaign=jnfszxn&amp;utm_source=kpzbknbv&amp;utm_medium=xnux&amp;tid=kpzbknbv-sjcam-sj5000-wifi">SJCAM SJ5000 WiFi</a>
+											<a href="http://cameraparadise.com/Buy-GoPro-Hero-4-Silver-Standard-Edition-Action-Camera-49308.html?utm_campaign=jnfszxn&amp;utm_source=kpzbknbv&amp;utm_medium=xnux&amp;tid=kpzbknbv-gopro-hero-4-silver">GoPro Hero 4 Silver</a>
+											<a href="http://cameraparadise.com/Buy-Panasonic-HX-A500-4K-Wearable-Waterproof-Action-Camera-49867.html?utm_campaign=jnfszxn&amp;utm_source=kpzbknbv&amp;utm_medium=xnux&amp;tid=kpzbknbv-panasonic-HX-A500">Panasonic HX-A500</a>
+											<a href="http://cameraparadise.com/Buy-SJCAM-SJ5000-Plus-WiFi-1080p-60-fps-Full-HD-Sports-Action-Camera-85450.html?utm_campaign=jnfszxn&amp;utm_source=kpzbknbv&amp;utm_medium=xnux&amp;tid=kpzbknbv-sjcam-sj5000-plus">SJCAM SJ5000 +</a>
+											</div>	
+											</li>
+										</ul>				
+									</li>
+									
+									<li>
+										<a style="cursor:default;">
+										<div class="nav_item_arrow"></div>
+										Accessories								
+										</a>				
+										<ul>
+											<li>
+											<div class="menu_box">
+											<div class="menu_header">Camera &amp; Mobile Accessories</div>				
+											<a href="http://cameraparadise.com/flash.html?utm_campaign=jnfszxn&amp;utm_source=kpzbknbv&amp;utm_medium=xnux&amp;tid=kpzbknbv-flash">Flashes &amp; Lights</a>
+											<a href="http://cameraparadise.com/shop/memory-card.html?utm_campaign=jnfszxn&amp;utm_source=kpzbknbv&amp;utm_medium=xnux&amp;tid=kpzbknbv-memory-card">Memory Card</a>
+											<a href="http://cameraparadise.com/shop/filter.html?utm_campaign=jnfszxn&amp;utm_source=kpzbknbv&amp;utm_medium=xnux&amp;tid=kpzbknbv-filter">Filters</a>
+											<a href="http://cameraparadise.com/tripod.html?utm_campaign=jnfszxn&amp;utm_source=kpzbknbv&amp;utm_medium=xnux&amp;tid=kpzbknbv-tripod">Tripod</a>
+											<a href="http://cameraparadise.com/camera-cases-and-bags.html?utm_campaign=jnfszxn&amp;utm_source=kpzbknbv&amp;utm_medium=xnux&amp;tid=kpzbknbv-camera-cases-and-bags">Cases &amp; Bags</a>
+											<a href="http://cameraparadise.com/shop/extender-teleconverter.html?utm_campaign=jnfszxn&amp;utm_source=kpzbknbv&amp;utm_medium=xnux&amp;tid=kpzbknbv-extender-teleconverter">Extenders &amp; Teleconverters</a>
+											<a href="http://cameraparadise.com/shop/flash-drive.html?utm_campaign=jnfszxn&amp;utm_source=kpzbknbv&amp;utm_medium=xnux&amp;tid=kpzbknbv-flash-drive">USB Flash Drives</a>
+											<a href="http://cameraparadise.com/shop/film.html?utm_campaign=jnfszxn&amp;utm_source=kpzbknbv&amp;utm_medium=xnux&amp;tid=kpzbknbv-film">Films</a>
+											</div>	
+											
+											<div class="menu_box">
+											<div class="menu_header">GoPro Accessories</div>				
+											<a href="http://cameraparadise.com/shop/gopro-accessories+video-light.html?utm_campaign=jnfszxn&amp;utm_source=kpzbknbv&amp;utm_medium=xnux&amp;tid=kpzbknbv-gopro-accessories-video-light">Flashes &amp; Lights</a>
+											<a href="http://cameraparadise.com/shop/micro-sd+memory-card.html?utm_campaign=jnfszxn&amp;utm_source=kpzbknbv&amp;utm_medium=xnux&amp;tid=kpzbknbv-micro-sd-memory-card">Memory Card</a>
+											<a href="http://cameraparadise.com/shop/gopro-accessories+filter.html?utm_campaign=jnfszxn&amp;utm_source=kpzbknbv&amp;utm_medium=xnux&amp;tid=kpzbknbv-gopro-accessories-filters">Filters</a>
+											<a href="http://cameraparadise.com/shop/gopro-accessories+mount.html?utm_campaign=jnfszxn&amp;utm_source=kpzbknbv&amp;utm_medium=xnux&amp;tid=kpzbknbv-gopro-accessories-mount">Mounts &amp; Handles</a>
+											<a href="http://cameraparadise.com/shop/gopro-accessories+housing-and-case.html?utm_campaign=jnfszxn&amp;utm_source=kpzbknbv&amp;utm_medium=xnux&amp;tid=kpzbknbv-gopro-accessories-housing-and-case">Housings &amp; Cases</a>
+											<a href="http://cameraparadise.com/shop/gopro-accessories+charger.html?utm_campaign=jnfszxn&amp;utm_source=kpzbknbv&amp;utm_medium=xnux&amp;tid=kpzbknbv-gopro-accessories-charger">Batteries &amp; Chargers</a>
+											</div>	
+											
+											<div class="menu_box">
+											<div class="menu_header">Hot Models</div>				
+											<a href="http://cameraparadise.com/Buy-ABS-Water-Resistant-Memory-Card-Case-Fit-CF-x2-SD-x2-Micro-SD-x4-85509.html?utm_campaign=jnfszxn&amp;utm_source=kpzbknbv&amp;utm_medium=xnux&amp;tid=kpzbknbv-abs-water-resistant-memory-card-case">ABS Water-Resistant Memory Card Case</a>
+											<a href="http://cameraparadise.com/Buy-Sportsman-Mount-for-GoPro-SJCAM-49886.html?utm_campaign=jnfszxn&amp;utm_source=kpzbknbv&amp;utm_medium=xnux&amp;tid=kpzbknbv-sportsman-mount">Sportsman Mount</a>
+											<a href="http://cameraparadise.com/Buy-Cambofoto-BT36-Ball-Head-47914.html?utm_campaign=jnfszxn&amp;utm_source=kpzbknbv&amp;utm_medium=xnux&amp;tid=kpzbknbv-cambofoto-BT36">Cambofoto BT36 Ball Head</a>
+											<a href="http://cameraparadise.com/Buy-Floating-Extension-Monopod-with-WiFi-Remote-Holder-for-GoPro-SJCAM-85499.html?utm_campaign=jnfszxn&amp;utm_source=kpzbknbv&amp;utm_medium=xnux&amp;tid=kpzbknbv-floating-extension-monopod">Floating Extension Monopod</a>
+											<a href="http://cameraparadise.com/Buy-Mini-Table-Top-Tripod-with-Phone-Holder-for-Camera-and-Mobile-85403.html?utm_campaign=jnfszxn&amp;utm_source=kpzbknbv&amp;utm_medium=xnux&amp;tid=kpzbknbv-mini-table-top-tripod">Mini Table Top Tripod</a>
+											<a href="http://cameraparadise.com/shop/ph-leather-case.html?utm_campaign=jnfszxn&amp;utm_source=kpzbknbv&amp;utm_medium=xnux&amp;tid=kpzbknbv-ph-leather-case">PH Leather Case</a>
+											<a href="http://cameraparadise.com/Buy-Caden-K7-Nylon-All-Weather-BackPack-Bag-48401.html?utm_campaign=jnfszxn&amp;utm_source=kpzbknbv&amp;utm_medium=xnux&amp;tid=kpzbknbv-caden-K7-backpack">Caden K7 Backpack</a>
+											</div>	
+											</li>
+										</ul>	
+									</li>
+									<li>
+										<a style="cursor:default;">
+										<div class="nav_item_arrow"></div>
+										Electronic Devices										
+										</a>				
+										<ul>
+											<li>
+											<div class="menu_box">
+											<div class="menu_header">Catalog</div>
+											<a href="http://cameraparadise.com/shop/mobile-device.html?utm_campaign=jnfszxn&amp;utm_source=kpzbknbv&amp;utm_medium=xnux&amp;tid=kpzbknbv-mobile-device">Smartphones</a>
+											<a href="http://cameraparadise.com/shop/tablet.html?utm_campaign=jnfszxn&amp;utm_source=kpzbknbv&amp;utm_medium=xnux&amp;tid=kpzbknbv-tablet">Tablets</a>
+											<a href="http://cameraparadise.com/shop/smartwatch.html?utm_campaign=jnfszxn&amp;utm_source=kpzbknbv&amp;utm_medium=xnux&amp;tid=kpzbknbv-smartwatch">Smart Watches</a>
+											<a href="http://cameraparadise.com/shop/smart-printer.html?utm_campaign=jnfszxn&amp;utm_source=kpzbknbv&amp;utm_medium=xnux&amp;tid=kpzbknbv-smart-printer">Smart Printers</a>
+											<a href="http://cameraparadise.com/Headphones.html?utm_campaign=jnfszxn&amp;utm_source=kpzbknbv&amp;utm_medium=xnux&amp;tid=kpzbknbv-headphones">Headphones</a>
+											<a href="http://cameraparadise.com/cam-recorder.html?utm_campaign=jnfszxn&amp;utm_source=kpzbknbv&amp;utm_medium=xnux&amp;tid=kpzbknbv-cam-recorder">Cam Recorders</a>
+											</div>
+											
+											<div class="menu_box">
+											<div class="menu_header">Hot Smartphones Brands</div>			
+											<a href="http://cameraparadise.com/shop/apple+mobile-device.html?utm_campaign=jnfszxn&amp;utm_source=kpzbknbv&amp;utm_medium=xnux&amp;tid=kpzbknbv-apple-mobile-device">Apple</a>
+											<a href="http://cameraparadise.com/shop/htc+mobile-device.html?utm_campaign=jnfszxn&amp;utm_source=kpzbknbv&amp;utm_medium=xnux&amp;tid=kpzbknbv-htc-mobile-device">HTC</a>
+											<a href="http://cameraparadise.com/shop/huawei+mobile-device.html?utm_campaign=jnfszxn&amp;utm_source=kpzbknbv&amp;utm_medium=xnux&amp;tid=kpzbknbv-hauwei-mobile-device">Huawei</a>
+											<a href="http://cameraparadise.com/shop/lg+mobile-device.html?utm_campaign=jnfszxn&amp;utm_source=kpzbknbv&amp;utm_medium=xnux&amp;tid=kpzbknbv-lg-mobile-device">LG</a>
+											<a href="http://cameraparadise.com/shop/oneplus+mobile-device.html?utm_campaign=jnfszxn&amp;utm_source=kpzbknbv&amp;utm_medium=xnux&amp;tid=kpzbknbv-oneplus-mobile-device">OnePlus</a>
+											<a href="http://cameraparadise.com/shop/oppo+mobile-device.html?utm_campaign=jnfszxn&amp;utm_source=kpzbknbv&amp;utm_medium=xnux&amp;tid=kpzbknbv-oppo-mobile-device">Oppo</a>
+											<a href="http://cameraparadise.com/shop/samsung+mobile-device.html?utm_campaign=jnfszxn&amp;utm_source=kpzbknbv&amp;utm_medium=xnux&amp;tid=kpzbknbv-samsung-mobile-device">Samsung</a>
+											<a href="http://cameraparadise.com/shop/sony+mobile-device.html?utm_campaign=jnfszxn&amp;utm_source=kpzbknbv&amp;utm_medium=xnux&amp;tid=kpzbknbv-sony-mobile-device">Sony</a>
+											<a href="http://cameraparadise.com/shop/vivo+mobile-device.html?utm_campaign=jnfszxn&amp;utm_source=kpzbknbv&amp;utm_medium=xnux&amp;tid=kpzbknbv-vivo-mobile-device">VIVO</a>
+											<a href="http://cameraparadise.com/shop/xiaomi+mobile-device.html?utm_campaign=jnfszxn&amp;utm_source=kpzbknbv&amp;utm_medium=xnux&amp;tid=kpzbknbv-xiaomi-mobile-device">Xiaomi</a>
+											</div>	
+											
+											<div class="menu_box">
+											<div class="menu_header">Hot Models</div>			
+											<a href="http://cameraparadise.com/Buy-LG-G4-F500-4G-LTE-32GB-3GB-RAM-Mobile-Phone-85458.html?utm_campaign=jnfszxn&amp;utm_source=kpzbknbv&amp;utm_medium=xnux&amp;tid=kpzbknbv-lg-g4">LG G4 32GB 3GB RAM</a>
+											<a href="http://cameraparadise.com/Buy-Huawei-MediaPad-Honor-X2-4G-LTE-16GB-3GB-RAM-Dual-SIM-Mobile-Phone-85460.html?utm_campaign=jnfszxn&amp;utm_source=kpzbknbv&amp;utm_medium=xnux&amp;tid=kpzbknbv-huawei-mediapad-X2">Huawei MediaPad X2 16GB 3GB RAM</a>
+											<a href="http://cameraparadise.com/Buy-Asus-Zenfone-2-ZE551ML-4G-LTE-32GB-4GB-RAM-Dual-SIM-Mobile-Phone-85440.html?utm_campaign=jnfszxn&amp;utm_source=kpzbknbv&amp;utm_medium=xnux&amp;tid=kpzbknbv-asus-zenfone-2">Asus Zenfone 2 32GB 4GB RAM</a>
+											<a href="http://cameraparadise.com/Buy-Samsung-Galaxy-S6-edge-G925i-32GB-3GB-RAM-Mobile-Phone-85409.html?utm_campaign=jnfszxn&amp;utm_source=kpzbknbv&amp;utm_medium=xnux&amp;tid=kpzbknbv-samsung-galaxy-S6">Samsung Galaxy S6 edge 32GB</a>
+											<a href="http://cameraparadise.com/Fujifilm-instax-SHARE-Smartphone-Printer-SP-1-47731.html?utm_campaign=jnfszxn&amp;utm_source=kpzbknbv&amp;utm_medium=xnux&amp;tid=kpzbknbv-fujifilm-SP-1">Fujifilm instax SHARE SP-1 Printer</a>
+											<a href="http://cameraparadise.com/Buy-Sharp-AQUOS-CRYSTAL-X-402SH-4G-LTE-16GB-2GB-Mobile-Phone-Japan-Softbank-Edition-85276.html?utm_campaign=jnfszxn&amp;utm_source=kpzbknbv&amp;utm_medium=xnux&amp;tid=kpzbknbv-sharp-aquos-crystal">Sharp AQUOS CRYSTAL 16GB 2GB RAM</a>
+											<a href="http://cameraparadise.com/Buy-iBasso-DX90-Portable-MP3-Player-48274.html?utm_campaign=jnfszxn&amp;utm_source=kpzbknbv&amp;utm_medium=xnux&amp;tid=kpzbknbv-iBasso-DX90">iBasso DX90 MP3 Player</a>
+											<a href="http://cameraparadise.com/Buy-Deeper-Wireless-Portable-Smart-Fishfinder-49646.html?utm_campaign=jnfszxn&amp;utm_source=kpzbknbv&amp;utm_medium=xnux&amp;tid=kpzbknbv-deeper-wireless-fishfinder">Deeper Wireless Fishfinder</a>
+											</div>	
+											</li>
+										</ul>	
+									</li>
+									
+									<li>
+										<a style="cursor:default;">
+										<div class="nav_item_arrow"></div>
+										Lifestyle &amp; Toys		
+										</a>				
+										<ul>
+											<li>
+											<div class="menu_box">
+											<div class="menu_header">Catalog</div>	
+											<a href="http://cameraparadise.com/shop/watch.html?utm_campaign=jnfszxn&amp;utm_source=kpzbknbv&amp;utm_medium=xnux&amp;tid=kpzbknbv-watch">Watches</a>
+											<a href="http://cameraparadise.com/shop/sport-wristband.html?utm_campaign=jnfszxn&amp;utm_source=kpzbknbv&amp;utm_medium=xnux&amp;tid=kpzbknbv-sport-wristband">Wristbands</a>
+											<a href="http://cameraparadise.com/shop/cycling-accessories.html?utm_campaign=jnfszxn&amp;utm_source=kpzbknbv&amp;utm_medium=xnux&amp;tid=kpzbknbv-cycling-accessories">Cycling Accessories</a>
+											<a href="http://cameraparadise.com/shop/lego.html?utm_campaign=jnfszxn&amp;utm_source=kpzbknbv&amp;utm_medium=xnux&amp;tid=kpzbknbv-lego">Lego</a>
+											</div>		
+											<div class="menu_box">
+											<div class="menu_header">Hot Watch Brands</div>											
+											<a href="http://cameraparadise.com/shop/casio+watch.html?utm_campaign=jnfszxn&amp;utm_source=kpzbknbv&amp;utm_medium=xnux&amp;tid=kpzbknbv-casio-watch">Casio</a>
+											<a href="http://cameraparadise.com/shop/citizen+watch.html?utm_campaign=jnfszxn&amp;utm_source=kpzbknbv&amp;utm_medium=xnux&amp;tid=kpzbknbv-citizen-watch">Citizen</a>
+											<a href="http://cameraparadise.com/shop/julius+watch.html?utm_campaign=jnfszxn&amp;utm_source=kpzbknbv&amp;utm_medium=xnux&amp;tid=kpzbknbv-julius-watch">Julius</a>
+											<a href="http://cameraparadise.com/shop/seiko+watch.html?utm_campaign=jnfszxn&amp;utm_source=kpzbknbv&amp;utm_medium=xnux&amp;tid=kpzbknbv-seiko-watch">Seiko</a>
+											<a href="http://cameraparadise.com/shop/timex+watch.html?utm_campaign=jnfszxn&amp;utm_source=kpzbknbv&amp;utm_medium=xnux&amp;tid=kpzbknbv-timex-watch">Timex</a>
+											</div>
+										
+											<div class="menu_box">
+											<div class="menu_header">Hot Models</div>							
+											<a href="http://cameraparadise.com/Buy-Aest-Titanium-Axle-Magnesium-Pedals-49673.html?utm_campaign=jnfszxn&amp;utm_source=kpzbknbv&amp;utm_medium=xnux&amp;tid=kpzbknbv-Aest-Titanium-Axle-Magnesium-Pedals">Aest Titanium Axle Magnesium Pedals</a>
+											<a href="http://cameraparadise.com/Buy-Casio-Men-G-shock-GA-100-1A2-2780.html?utm_campaign=jnfszxn&amp;utm_source=kpzbknbv&amp;utm_medium=xnux&amp;tid=kpzbknbv-casio-GA100-1A2">Casio Men G-shock GA-100-1A2</a>
+											<a href="http://cameraparadise.com/Buy-Lego-75059-Star-Wars-Sandcrawler-48924.html?utm_campaign=jnfszxn&amp;utm_source=kpzbknbv&amp;utm_medium=xnux&amp;tid=kpzbknbv-lego-75059-sandcrawler">Lego 75059 Star Wars Sandcrawler</a>
+											<a href="http://cameraparadise.com/Buy-GVR-G-203V-Bubble-Magnetic-Visor-Glasses-Air-Shield-Bike-Helmet-GVR203BBBK-49230.html?utm_campaign=jnfszxn&amp;utm_source=kpzbknbv&amp;utm_medium=xnux&amp;tid=kpzbknbv-GVA-helmet">GVR Air Shield Bike Helmet</a>
+											</div>
+											</li>
+										</ul>	
+									</li>
+									
+									<li>
+										<a style="cursor:default;">
+										<div class="nav_item_arrow"></div>
+										Home Appliance			
+										</a>				
+										<ul>
+											<li>
+											<div class="menu_box">
+											<div class="menu_header">Catalog</div>	
+											<a href="http://cameraparadise.com/shop/blender.html?utm_campaign=jnfszxn&amp;utm_source=kpzbknbv&amp;utm_medium=xnux&amp;tid=kpzbknbv-blender">Blender</a>
+											<a href="http://cameraparadise.com/shop/coffee-machine.html?utm_campaign=jnfszxn&amp;utm_source=kpzbknbv&amp;utm_medium=xnux-coffee-machine">Coffee Machine</a>
+											<a href="http://cameraparadise.com/shop/coffee-grinder.html?utm_campaign=jnfszxn&amp;utm_source=kpzbknbv&amp;utm_medium=xnux&amp;tid=kpzbknbv-coffee-grinder">Coffee Grinder</a>
+											<a href="http://cameraparadise.com/shop/electric-oven.html?utm_campaign=jnfszxn&amp;utm_source=kpzbknbv&amp;utm_medium=xnux&amp;tid=kpzbknbv-electric-oven">Oven</a>
+											<a href="http://cameraparadise.com/shop/juicer.html?utm_campaign=jnfszxn&amp;utm_source=kpzbknbv&amp;utm_medium=xnux&amp;tid=kpzbknbv-juicer">Juicer</a>
+											<a href="http://cameraparadise.com/shop/toaster.html?utm_campaign=jnfszxn&amp;utm_source=kpzbknbv&amp;utm_medium=xnux&amp;tid=kpzbknbv-toaster">Toaster</a>
+											<a href="http://cameraparadise.com/shop/vacuum-cleaner.html?utm_campaign=jnfszxn&amp;utm_source=kpzbknbv&amp;utm_medium=xnux&amp;tid=kpzbknbv-vacuum-cleaner">Vacuum Cleaner</a>
+											<a href="http://cameraparadise.com/shop/electric-toothbrush.html?utm_campaign=jnfszxn&amp;utm_source=kpzbknbv&amp;utm_medium=xnux&amp;tid=kpzbknbv-electric-toothbrush">Electric Toothbrush</a>
+											<a href="http://cameraparadise.com/shop/hair-clipper.html?utm_campaign=jnfszxn&amp;utm_source=kpzbknbv&amp;utm_medium=xnux&amp;tid=kpzbknbv-hair-clipper">Hair Clipper</a>
+											<a href="http://cameraparadise.com/shop/hair-dryer.html?utm_campaign=jnfszxn&amp;utm_source=kpzbknbv&amp;utm_medium=xnux&amp;tid=kpzbknbv-hair-dryer">Hair Dryer</a>
+											<a href="http://cameraparadise.com/shop/shaver.html?utm_campaign=jnfszxn&amp;utm_source=kpzbknbv&amp;utm_medium=xnux&amp;tid=kpzbknbv-shaver">Shaver</a>
+											<a href="http://cameraparadise.com/shop/facial-cleaning-device.html?utm_campaign=jnfszxn&amp;utm_source=kpzbknbv&amp;utm_medium=xnux&amp;tid=kpzbknbv-facial-cleaning-device">Facial Cleaning Device</a>
+											</div>	
+											
+											<div class="menu_box">
+											<div class="menu_header">Hot Brands</div>									
+											<a href="http://cameraparadise.com/shop/delonghi+home-appliance.html?utm_campaign=jnfszxn&amp;utm_source=kpzbknbv&amp;utm_medium=xnux&amp;tid=kpzbknbv-delonghi-home-appliance">Delonghi</a>
+											<a href="http://cameraparadise.com/shop/philips+home-appliance.html?utm_campaign=jnfszxn&amp;utm_source=kpzbknbv&amp;utm_medium=xnux&amp;tid=kpzbknbv-philips-home-appliance">Philips</a>
+											<a href="http://cameraparadise.com/shop/braun+home-appliance.html?utm_campaign=jnfszxn&amp;utm_source=kpzbknbv&amp;utm_medium=xnux&amp;tid=kpzbknbv-braun-home-appliance">Braun</a>
+											<a href="http://cameraparadise.com/shop/panasonic+home-appliance.html?utm_campaign=jnfszxn&amp;utm_source=kpzbknbv&amp;utm_medium=xnux&amp;tid=kpzbknbv-panasonic-home-appliance">Panasonic</a>
+											<a href="http://cameraparadise.com/shop/foreo.html?utm_campaign=jnfszxn&amp;utm_source=kpzbknbv&amp;utm_medium=xnux&amp;tid=kpzbknbv-foreo">Foreo</a>
+											</div>
+											</li>
+										</ul>	
+									</li>
+									
+									<li>
+										<a style="cursor:default;">
+										<div class="nav_item_arrow"></div>
+										$150 Off					
+										</a>				
+										<ul>
+											<li>
+											<div class="menu_box">
+											<div class="menu_header">Limited Offer</div>											
+											<a href="http://cameraparadise.com/en/checkout/join-camera-paradise-community-topnav.php?utm_campaign=jnfszxn&amp;utm_source=kpzbknbv&amp;utm_medium=xnux&amp;tid=kpzbknbv-join-camera-paradise-community-topnav" target="_blank">Instant $150 Coupons</a>
+											<!--<a href="http://cameraparadise.com/en/news/?utm_campaign=jnfszxn&utm_source=kpzbknbv&utm_medium=xnux" target="_blank">More Offers</a>-->
+											</div>
+											<div class="menu_box">
+											<div class="menu_header">Community</div>											
+											<a href="http://social.cameraparadise.com/blog/?utm_campaign=jnfszxn&amp;utm_source=kpzbknbv&amp;utm_medium=xnux&amp;tid=kpzbknbv-camera-paradise-blog" target="_blank">Camera Paradise Blog</a>
+											<a href="http://social.cameraparadise.com/blog/review/?utm_campaign=jnfszxn&amp;utm_source=kpzbknbv&amp;utm_medium=xnux&amp;tid=kpzbknbv-tutorial" target="_blank">Tutorial/Tip</a>
+											<a href="http://social.cameraparadise.com/blog/review/?utm_campaign=jnfszxn&amp;utm_source=kpzbknbv&amp;utm_medium=xnux&amp;tid=kpzbknbv-product-review" target="_blank">Product Review</a>
+											<a href="http://social.cameraparadise.com/blog/challenge/?utm_campaign=jnfszxn&amp;utm_source=kpzbknbv&amp;utm_medium=xnux&amp;tid=kpzbknbv-photo-challenge" target="_blank">Photo Challenge</a>
+											<a href="http://social.cameraparadise.com/blog/collection/?utm_campaign=jnfszxn&amp;utm_source=kpzbknbv&amp;utm_medium=xnux&amp;tid=kpzbknbv-best-photo" target="_blank">Readers' Best Photo</a>
+											<a href="http://social.cameraparadise.com/blog/inspiration/?utm_campaign=jnfszxn&amp;utm_source=kpzbknbv&amp;utm_medium=xnux&amp;tid=kpzbknbv-inspiration" target="_blank">Inspiration</a>
+											</div>		
+											</li>
+										</ul>	
+									</li>	
+									
+							<!--block-->
+									<li>
+										<div style="float: left; height: 10px;border-left: 5px solid #eee;"></div>
+									</li>	
+							<!--block-->
+							</ul>
+						</li></ul>
+					  <!--////////////////Categories Section Close///////////-->
+					  
+					  <!--/////////////////Search Section/////////////////-->
+					  <script type="text/javascript">
+                        function form_search888(){
+                            fr = document.frm; 
+                            var para_keyword="";
                             if (fr.search_keyword.value =='Search Products')
-                                fr.search_keyword.value = "";
-                        
-                            fr.target = "_self";
-                            fr.method = "post";
-                            fr.action = "../../en/product/index.php";
-                            fr.submit();
+							{
+                                fr.search_keyword.value = ""; 
+							}
+                            else
+                            {
+							    para_keyword=fr.search_keyword.value;
+								 
+                                $('input:checked').removeAttr('checked');
+                                if(frm.remove_price_tag!=null) frm.remove_price_tag.value='Y';
+
+								fr.reset();
+                                if(frm.max_price!=null) frm.max_price.value='';
+                                if(frm.min_price!=null) frm.min_price.value='';								
+								
+								fr.search_keyword.value=para_keyword;
+							}							
+                            if(fr.pg_num!=null) fr.pg_num.value=1; 
+							
+                            fr.target = "_self"; 
+                            fr.method = "post";  
+                            fr.action = "http://cameraparadise.com/en/product/index.php"; 
+                              fr.submit();
 
                         }
                         
                         function form_search_press_enter(e){
-                            if (e.keyCode == 13){
-                                form_search();
+                            if (e.keyCode == 13){ 
+							    document.frm.fromsearchbar.value='Y';
+                                form_search888();
                             }
                         
                         }
@@ -124,415 +645,334 @@
                             }
                             
                         });
-                    </script>
-                    <input type="text" style="width: 411px; height: 19px; border: medium none; margin-left: 13px; color:#CCCCCC;" id="search_keyword" name="search_keyword" value="Search Products" onfocus=" if(this.value=='Search Products'){ this.value=''; $('#search_keyword').css('color','#000000');}" onblur="if($.trim(this.value)=='') {this.value='Search Products'; $('#search_keyword').css('color','#CCCCCC');}" onkeypress="form_search_press_enter(event);">
-                    
-                    
-                    <script type="text/javascript">
+                    </script>					  
+					<!--<form name='frm'>-->
+					  <div class="form-wrapper">
+						<input type="text" id="search_keyword" name="search_keyword" value="Search Products" onfocus=" if(this.value=='Search Products'){ this.value=''; $('#search_keyword').css('color','#000000');}" onblur="if($.trim(this.value)=='') {this.value='Search Products'; $('#search_keyword').css('color','#CCCCCC');}" onkeypress="form_search_press_enter(event);" required="">
+						<button onclick="document.frm.fromsearchbar.value='Y';form_search888();" type="button">GO</button>
+						<input type="hidden" name="fromsearchbar" value="">
+						<!--<div class="hot_search">
+						<div class="hot_key_title">Hot Search:</div>
+						<div class="hot_key">Canon</div>
+						<div class="hot_key">Nikon</div>
+						<div class="hot_key">Samsung</div>
+						<div class="hot_key">Smart Phone</div>
+						<div class="hot_key">Philips</div>
+						</div>-->
+					  </div>
+					  <!--</form>-->
+					<script type="text/javascript">
                         $().ready(function() {
-                            $("#search_keyword").autocomplete("../../en/include/autocomplete.php", {
-                                width: 400,
+                            $("#search_keyword").autocomplete("http://cameraparadise.com/en/include/autocomplete.php", {
+                                width: 583,
                                 scroll: true,
                                 scrollHeight: 500,									
                                 selectFirst: false
                             });
                         });
                     </script>
-                    
-                    
-                    
-                </td>
-                <td><div style="background-color: #FFFFFF; margin-left: -6px;height: 25px;padding-left: 5px;"><a onclick="form_search();"><img height="16px" border="0" src="http://cameraparadise.com/en/images/search_btn.png" style="margin-top:4px; margin-right:3px"></a></div></td>
-            </tr>
-        </tbody></table>
-    </div>
-    
-    <!-- My Cart 
-    <div id="my-cart">
-	    <table>
-            <tr>
-                <td><img src="../images/icon/basket.png" border="0" alt="My Shopping Cart" /></td>
-                <td><a href="http://cameraparadise.com/en/checkout/checkout.php" title="view my cart">VIEW CART</a></td>
-                
-                <td style="padding-left:5px;">
-                	<a href="#" onclick="javascript:window.open('https://www.paypal.com/hk/cgi-bin/webscr?cmd=xpt/Marketing/popup/OLCWhatIsPayPal-outside','olcwhatispaypal','toolbar=no, location=no, directories=no, status=no, menubar=no, scrollbars=yes, resizable=yes, width=400, height=350');"><img  src="https://www.paypal.com/en_GB/i/logo/PayPal_mark_60x38.gif" border="0" alt="Acceptance Mark" /></a>
-                </td>
-            </tr>
-        </table>
-    </div>
-     -->
-</div>                
-                <br class="clear">
-    
-            </div>
- </div>           
+
+					  <!--/////////////////Search Section Close/////////////////-->
+					  
+					  <!--/////////////////Shopping Cart Section/////////////////-->
+					<script>
+					function add_product_to_cart(in_name,product_idx){
+						fr=document.frm;
+						$.get("http://cameraparadise.com/en/product/add-to-cart.php", {
+							product_id: product_idx,						
+							qty: 1,
+							from_side: 9,
+							cart_type:'add_side_product_to_cart'
+
+						}, 
+						function(data){
+							 data = eval ("(" + data + ")"); 
+							document.getElementById("add-to-cart-result_"+product_idx).style.display="block";
+
+						});
+						$.get("http://cameraparadise.com/en/product/add-to-cart.php", {
+
+							cart_type:'update_top_cart_chart'
+
+						}, 
+						function(data){
+							 data = eval ("(" + data + ")"); 
+							document.getElementById("add-to-cart-result_"+product_idx).style.display="block";
+
+							$("#cart_summary_amt").html(data.cart_amt);
+							$("#cart_summary_items").html(data.cart_item_no);
+							$("#cart_summary_shipping_amt").html(data.cart_shipping_cost);
+							$("#ordertotal").html(data.ordertotal);
+                            $("#latestData").load("http://cameraparadise.com/yyy/include/stick-header.php");
+							
+							$("#cart_item_box").html(data.cart_item_box);
+						
+						});
+					}
+
+					function add_side_product_to_cart(in_name,product_idx){
+						fr=document.frm;
+						/*
+						$.get("http://cameraparadise.com/en/product/add-to-cart.php", {
+							product_id: product_idx,						
+							qty: 1,
+							from_side: 9,
+							cart_type:'add_side_product_to_cart'
+
+						}, 
+						function(data){
+							 data = eval ("(" + data + ")"); 
+							document.getElementById("add-to-cart-result_"+product_idx).style.display="block";
+
+							$("#cart_summary_amt").html(data.cart_amt);
+							$("#cart_summary_items").html(data.cart_item_no);
+							$("#cart_summary_shipping_amt").html(data.cart_shipping_cost);
+							$("#ordertotal").html(data.ordertotal);
+                            $("#latestData").load("http://cameraparadise.com/yyy/include/stick-header.php");	
+							$("#cart_item_box").html(data.cart_item_box);
+							alert('updated 1');
+							
+
+						}); */
+						
+						
+						
+						$.get("http://cameraparadise.com/en/product/add-to-cart.php", {
+							product_id: product_idx,						
+							qty: 1,
+							from_side: 9,
+							cart_type:'update_top_cart_chart'
+
+						}, 
+						function(data){
+							 data = eval ("(" + data + ")"); 
+							document.getElementById("add-to-cart-result_"+product_idx).style.display="block";
  
-<div style="float:right;  height: 121px;">
-
-	<div id="member">
-
-    
-
-    
-            
-
-    
-    <a href="/en/track-my-order/" title="Order tracker">Order Tracker</a>
-
-    <a href="/shipping.html" title="Shipping">Shipping</a>
-
-    <a href="/faq.html" title="Help">Help</a>
-
-    <a href="/contact-us.html" title="Contact Us">Contact Us</a>
-
-    
-
-    <a href="" title="Change Currency" onclick="$('#currency_div').toggle(); return false;
-
-">Change Currency</a>
-	<br class="clear">
-
-<div id="currency_div">
-
-
-    <ul id="currency_dropdown">
-    <li><a href="#" onclick="display_currency(1); return false;">Australian Dollar</a></li><li><a href="#" onclick="display_currency(2); return false;">British Pounds</a></li><li><a href="#" onclick="display_currency(7); return false;">US Dollar</a></li><li><a href="#" onclick="display_currency(11); return false;">Singapore</a></li><li><a href="#" onclick="display_currency(14); return false;">Thai Baht</a></li><li><a href="#" onclick="display_currency(15); return false;">Viet Dong</a></li>
-    </ul>
-
-</div>
-
-    <!--
-
-    <a href="https://cameraparadise.com//en/checkout/checkout.php" title="View your shopping cart">VIEW CART</a>
-
-    -->
-
-    </div>
-
-	<br class="clear">
-    
-    <div style="width: 515px;">
-    
-    <div style="float: left; width: 120px;padding-top: 15px;">
-            </div>
+							$("#cart_summary_amt").html(data.cart_amt);
+							$("#cart_summary_items").html(data.cart_item_no);
+							$("#cart_summary_shipping_amt").html(data.cart_shipping_cost);
+							$("#ordertotalddddddddd").html(data.ordertotal);
+                            $("#latestData").load("http://cameraparadise.com/yyy/include/stick-header.php");	
+							$("#cart_item_box2").html(data.cart_item_box);
  
-    <div id="view_cart_div" style="float: right;">
-        <div id="view_cart_p"><p>Payment Surcharge Waived. No Extra Charges.</p></div>        <div id="view_cart_details">
-            <span id="cart_det1">Cart (<span id="cart_summary_items">0</span> item) - AU$ <span id="cart_summary_amt">0</span></span><br>
+							
+						});
+					}
+
+					function add_bundle_to_cart(product_idb,bundle_type,o_key){
+						fr=document.frm;
+						$.get("http://cameraparadise.com/en/product/add-to-cart.php", {
+							product_id: product_idb,					
+							qty: 1,
+							from_side: 8,
+							bundle_type:bundle_type,
+							cart_type:'add_bundle_to_cart'
+
+						}, 
+						function(data){
+							 data = eval ("(" + data + ")"); 
+							$("#add-bundle-to-cart-result_bundle_c_order").html("&nbsp;&nbsp;&nbsp;Bundle Added&nbsp;&nbsp;&nbsp;");
+							$("#ordertotal").html(data.ordertotal);
+						});
+						update_cart_detail();
+					}
+					
+					function update_cart_detail()
+					{ 
+					   $.get("http://cameraparadise.com/en/product/add-to-cart.php", {
+
+							cart_type:'update_top_cart_chart'
+
+						}, 
+						function(data){
+							data = eval ("(" + data + ")");
+							$("#cart_summary_amt").html(data.cart_amt);
+							$("#cart_summary_items").html(data.cart_item_no);
+							$("#cart_summary_shipping_amt").html(data.cart_shipping_cost);
+							$("#ordertotal").html(data.ordertotal);		
+                            $("#latestData").load("http://cameraparadise.com/yyy/include/stick-header.php");	
+							$("#cart_item_box").html(data.cart_item_box);							
+						});		
+					}
+														
+			</script>	  
+					  
+						<ul id="added_cart"><!--start of not empty cart-->
+				<li>
+					<a href="#" style="pointer-events: none;">
+					<div id="cursor"></div>
+					<div id="no_item">
+					<span id="cart_summary_items">0</span>
+					</div>
+					<div id="cart_img"></div>
+					<div id="cart_arrow"></div>
+					<div id="cart_name">Cart</div>
+					</a>
+					<ul>									
+					<div id="arrow"></div><!--arrow-->
+							
+													
+				<!--<div id="shopping_cart"><div id="shopping_cart_font">Shopping cart</div></div>-->
+				<div id="cart_item_box2">
+				<div id="item_wrapper">
+											
+
+						<div id="cart_box">
+			<br>
+			<div style="font-weight:bold;text-align:center;">Your cart is empty.</div>
+			<br>
+			<!--<div style="text-align:center; padding:5px;">Some products are recommended to you:</div>-->
+			<br>
+			
+			<!--<a href="#">
+			<div class="item_recommend">
+			<img src="http://cameraparadise.com/en/images/best_price_guarantee/Panasonic-Lumix-DMC-ZS40-Digital-Camera-01.jpg" width="100px" height="100px"/>
+			<div class="stamp_wrapper">
+			<div class="percent_discount">-15%</div>	
+			</div>
+			<div class="product_name" id="dot">Panasonic Lumix DMC-ZS40 DMC-TZ60 Digital Camera</div>
+			<div class="product_price">AU$360.02</div>	
+			</div>
+			</a>
+											
+			<a href="#">
+			<div class="item_recommend">
+			<img src="http://cameraparadise.com/en/images/best_price_guarantee/Motorola-Moto-G-16GB-X1032-Mobile-Phone-01.jpg" width="100px" height="100px"/>
+			<div class="stamp_wrapper">
+			<div class="money_discount">-$15</div>
+			</div>
+			<div class="product_name">Motorola Moto G 16GB X1032 Mobile Phone (Unlocked + 1-Year Door-to-Door Warranty)</div>
+			<div class="product_price">AU$216.7</div>
+			</div>
+			</a>
+
+			<a href="#">
+			<div class="item_recommend">
+			<img src="http://cameraparadise.com/en/images/best_price_guarantee/Samsung-Galaxy-Note-3-LTE-32GB-N9005-Mobile-Phone-01.jpg" width="100px" height="100px"/>
+			<div class="stamp_wrapper">
+			<div class="new_arrival">New</div>
+			</div>
+			<div class="product_name">Samsung Galaxy Note 3 3G 16GB N9002 Mobile Phone (Unlocked + 1-Year Door-to-Door Warranty)</div>
+			<div class="product_price">AU$803.6</div>
+			</div>
+			</a>
+
+			<a href="#">
+			<div class="item_recommend">
+			<img src="http://cameraparadise.com/en/images/best_price_guarantee/Philips-HX6511-Electric-Toothbrush-01.jpg" width="100px" height="100px"/>
+			<div class="stamp_wrapper">
+			<div class="percent_discount">-15%</div>	
+			</div>
+			<div class="product_name">Philips HX6511 Electric Toothbrush</div>
+			<div class="product_price"> AU$89.49</div>
+			</div>
+			</a>-->
+		</div>
+		
+											
+			</div><!--end of item_wrapper-->
+			</div><!--end of cart_item_box-->
+			
+			<div id="review_box">
+			<div id="subtotal_review">
+			<div id="est_subtotal">SubTotal</div>
+			<div id="est_subtotal_fee">
+			AUD				<span id="cart_summary_amt">0.00</span>
+			</div>
+			<div id="est_shipping">Est. Shipping Fee</div>
+			<div id="est_shipping_fee">
+			AUD <span id="cart_summary_shipping_amt">0.00</span>			</div>											
+			</div>
+
+			<div id="total_review">
+			<div id="total">Total:</div>
+			<div id="total_fee">
+			AUD&nbsp;
+			<span id="ordertotalddddddddd"> 
+			0.00			</span>
+			</div>
+												
+						
+			<div id="checkout_btn" style="display:none">											
+				<a title="view my cart" href="https://cameraparadise.com/en/checkout/checkout.php" class="sexybutton sexysimple sexygreen view_cart_btn" style="font-size: 11px !important;">VIEW CART / CHECKOUT</a>
+			</div>
+						</div>
+
+								</div></ul>
+							</li>
+						</ul>
+						<!--end of not empty cart-->
+					  <!--/////////////////Shopping Cart Close/////////////////-->
+					 <div class="clearBoth"></div> <!--display logo, navigation, search bar and my cart inline-->
+					</div><!--end of review_box-->
+				</div><!--end of sticky_container-->
+			</div><!--end of sticky_navigation-->
+		</div><!-- end of header -->
+
+		<div id="header_placeholder"></div>
+		
+		<!--/////////////////Sticky Header Section Close/////////////////-->
+	<!--///////////////////////////////Header Section Close///////////////////////////////////-->
+	<p id="back-top">
+		<a href="#top"><span></span>Back to Top</a>
+	</p>
+
+	<!--click add to cart button to add number of items inside cart button-->
+	<script>
+		/*function add_side_product_to_cart()
+		{
+			var value = parseInt(document.getElementById('no_item').value, 10);
+			value = isNaN(value) ? 0 : value;
+			value++;
+			document.getElementById('no_item').value = value;	
+			document.getElementById('no_item').innerHTML = value;	
+			checknoitem();
+		}	
+
+		function checknoitem(){
+		//get the value of class no_item
+		var itemValue = parseInt(document.getElementById('no_item').innerHTML);
+		//if itemValue is greater than zero
+		if (itemValue > 0)
+			{
+			//don't show #cart
+			$('#cart').css({visibility: 'hidden'});
+			//display #added_cart
+			$('#added_cart').css({visibility: 'visible'});
+			}
+		else
+			{
+			//don't show #added_cart
+			$('#added_cart').css({visibility: 'hidden'});
+			//display #cart
+			$('#cart').css({visibility: 'visible'});
+			}
+		}*/
+	</script>
+	<!--click add to cart button to add number of items inside cart button-->
+	
+
+    	<!-- Header -->
+        <!--<div id="header">
+
+        	<div id="header-center">
             
-             <div id="cart_det2">Est. Shipping Cost - AU$ <span id="cart_summary_shipping_amt">0.00</span></div>        
-        </div>
-        <div id="view_cart_btn">
-
-<a title="view my cart" href="https://cameraparadise.com/en/checkout/checkout.php" class="sexybutton sexysimple sexygreen view_cart_btn" style="font-size: 11px !important;">VIEW CART / CHECKOUT</a>
-
-        </div>
-        <br class="clear">
-    </div>
-</div>
-        <script type="text/javascript">
-
-            function display_currency(id){
-
-                fr = document.frm;
-
-                
-
-                fr.target = '_self';
-
-                fr.method = 'post';
-                document.frm.display_currency_id.value = id;
-
-                fr.submit();
-                
-
-            }
-
-        </script>
-        <input type="hidden" value="1" name="display_currency_id" onchange="display_currency(this.value)">
-        
-        
-
-
-	<!--
-
-    <div id="google-plus-box">
-
-        <g:plusone size="medium" href="http://123.123.123.69"></g:plusone>
-
-    </div>
-
-    -->
-
-</div>                
-                <br class="clear">
-                				    <link href="/en/css/newedropmenu.css" rel="stylesheet" type="text/css">
-    <script src="/en/js/newedropmenu.js" type="text/javascript"></script>
-               <div style="padding-top:6px;"></div>
-<nav id="ddmenu">
-     
- <ul>
-        <li>Interchangeable Lens Camera
-            <div>
-                 <div class="column">
-                    <b>Catalog</b>
-                    <a href="http://cameraparadise.com/shop/digital-slr-camera.html">All Digital SLR Camera</a> 
-                    <a href="http://cameraparadise.com/shop/mirrorless-digital-camera.html">All Mirrorless Digital Camera</a> 
-                    <a href="http://cameraparadise.com/shop/canon+eos.html">Canon EOS</a> 
-                    <a href="http://cameraparadise.com/shop/nikon+digital-slr-camera.html">Nikon DSLR</a> 
-                    <a href="http://cameraparadise.com/shop/nikon+1.html">Nikon 1</a> 
-                    <a href="http://cameraparadise.com/shop/sony+alpha-dslr.html">Sony Alpha DSLR</a> 
-                    <a href="http://cameraparadise.com/shop/sony+alpha-nex.html">Sony Alpha NEX</a> 
-                    <a href="http://cameraparadise.com/shop/fujifilm+x.html">Fujifilm X</a> 
-                    <a href="http://cameraparadise.com/shop/panasonic+lumix-g.html">Panasonic Lumix G</a> 
-                    <a href="http://cameraparadise.com/shop/olympus+om-d.html">Olympus OM-D</a> 
-                    <a href="http://cameraparadise.com/shop/pentax+k.html">Pentax K</a> 
-                    <a href="http://cameraparadise.com/shop/samsung+nx.html">Samsung NX</a> 
-                </div>
-
-                 <div class="column">
-                    <b>Hot DSLR Camera</b>
-                    <a href="http://cameraparadise.com/shop/canon+eos+700d.html">Canon EOS 700D</a> 
-                    <a href="http://cameraparadise.com/shop/canon+eos+60d.html">Canon EOS 60D</a> 
-                    <a href="http://cameraparadise.com/shop/canon+eos+70d.html">Canon EOS 70D</a> 
-                    <a href="http://cameraparadise.com/shop/canon+eos+6d.html">Canon EOS 6D</a> 
-                    <a href="http://cameraparadise.com/shop/canon+eos+5d.html">Canon EOS 5D Mark III</a> 
-                    <a href="http://cameraparadise.com/shop/nikon+d3200.html">Nikon D3200</a> 
-                    <a href="http://cameraparadise.com/shop/nikon+d3300.html">Nikon D3300</a> 
-                    <a href="http://cameraparadise.com/shop/nikon+d5200.html">Nikon D5200</a> 
-                    <a href="http://cameraparadise.com/shop/nikon+d5300.html">Nikon D5300</a> 
-                    <a href="http://cameraparadise.com/shop/nikon+d610.html">Nikon D610</a> 
-                </div>
-
-                 <div class="column">
-                    <b>Hot Mirrorless Camera</b>
-                    <a href="http://cameraparadise.com/shop/sony+alpha+a5000.html">Sony Alpha a5000</a> 
-                    <a href="http://cameraparadise.com/shop/sony+alpha+a7.html">Sony Alpha a7</a> 
-                    <a href="http://cameraparadise.com/shop/fujifilm+x+m1.html">Fujifilm X-M1</a> 
-                    <a href="http://cameraparadise.com/shop/fujifilm+x+t1.html">Fujifilm X-T1</a> 
-                    <a href="http://cameraparadise.com/shop/panasonic+lumix-g+gm1.html">Panasonic DMC-GM1</a> 
-                </div>
-            </div>
-        </li> 
-
-
-
-<li>Compact Camera
-            <div>
-                <div class="column">
-                    <b>Brand</b>
-                    <a href="http://cameraparadise.com/shop/compact-camera.html">All Brands</a>
-                    <a href="http://cameraparadise.com/shop/canon+compact-camera.html">Canon</a> 
-                    <a href="http://cameraparadise.com/shop/nikon+compact-camera.html">Nikon</a> 
-                    <a href="http://cameraparadise.com/shop/gopro+compact-camera.html">GoPro</a> 
-                    <a href="http://cameraparadise.com/shop/sony+compact-camera.html">Sony</a> 
-                    <a href="http://cameraparadise.com/shop/panasonic+compact-camera.html">Panasonic</a> 
-                    <a href="http://cameraparadise.com/shop/fujifilm+compact-camera.html">Fujifilm</a> 
-                    <a href="http://cameraparadise.com/shop/olympus+compact-camera.html">Olympus</a> 
-                    <a href="http://cameraparadise.com/shop/polaroid+instant-camera.html">Polaroid</a>
-                    <a href="http://cameraparadise.com/shop/samsung+compact-camera.html">Samsung</a> 
-                    <a href="http://cameraparadise.com/shop/sjcam+action-camera.html">SJCAM</a> 
-                    <a href="http://cameraparadise.com/shop/isaw+action-camera.html">ISAW</a> 
-                </div>
-
-                 <div class="column">
-                    <b>Catalog</b>
-                    <a href="http://cameraparadise.com/shop/canon+powershot.html">Canon PowerShot</a> 
-                    <a href="http://cameraparadise.com/shop/nikon+coolpix.html">Nikon Coolpix</a> 
-                    <a href="http://cameraparadise.com/shop/gopro+hero.html">GoPro Hero</a> 
-                    <a href="http://cameraparadise.com/shop/sony+cyber-shot.html">Sony Cyber-shot</a> 
-                    <a href="http://cameraparadise.com/shop/panasonic+lumix.html">Panasonic Lumix</a> 
-                    <a href="http://cameraparadise.com/shop/fujifilm+finepix.html">Fujifilm FinePix</a> 
-                    <a href="http://cameraparadise.com/shop/fujifilm+instax-camera.html">Fujifilm Instax Camera</a> 
-                    <a href="http://cameraparadise.com/shop/fujifilm+instax-film.html">Fujifilm Instax Film</a> 
-                    <a href="http://cameraparadise.com/shop/polaroid+instant-camera.html">Polaroid Instant Camera</a> 
-                    <a href="http://cameraparadise.com/shop/polaroid+instant-film.html">Polaroid Instant Film</a> 
-                    <a href="http://cameraparadise.com/shop/olympus+stylus.html">Olympus Stylus</a> 
-                    <a href="http://cameraparadise.com/shop/canon+elph.html">Canon ELPH</a> 
-                </div>
-
-                 <div class="column">
-                    <b>Hot Action Camera</b>
-                    <a href="http://cameraparadise.com/GoPro-Hero-3--Black-Edition-2529.html">GoPro HERO 3+ Black</a> 
-                    <a href="http://cameraparadise.com/GoPro-Hero-4-Black-Standard-Edition-49307.html">GoPro HERO 4 Black</a> 
-                    <a href="http://cameraparadise.com/Buy-GoPro-Hero-4-Silver-Standard-Edition-49308.html">GoPro HERO 4 Silver</a> 
-                    <a href="http://cameraparadise.com/Buy-SJCAM-SJ2000-1080p-Full-HD-Motorcycle-Helmet-Action-Camera-49083.html">SJCAM SJ2000 Motorcycle</a> 
-                    <a href="http://cameraparadise.com/Buy-SJCAM-SJ3000-1080p-Full-HD-Waterproof-Sports-Helmet-Action-Camera-49084.html">SJCAM SJ3000 Helmet</a> 
-                    <a href="http://cameraparadise.com/Buy-SJCAM-SJ4000-1080p-Full-HD-Outdoor-Sports-Action-Camera-WiFi-Edition-49046.html">SJCAM SJ4000 WiFi</a> 
-                    <a href="http://cameraparadise.com/Buy-ISAW-A3-ExTreme-1080p-60-fps-Action-Camera-Waterproof-60m--49227.html">ISAW Extreme</a> 
-                </div>
-
-                 <div class="column">
-                    <b>GoPro Accessories</b>
-                    <a href="http://cameraparadise.com/shop/gopro-accessories+mount.html">Mount</a> 
-                    <a href="http://cameraparadise.com/shop/gopro-accessories+housing-and-case.html">Housing &amp; Case</a> 
-                    <a href="http://cameraparadise.com/shop/gopro-accessories+flying-platform.html">Flying Platform</a> 
-                    <a href="http://cameraparadise.com/shop/gopro-accessories+filter.html">Filter</a> 
-                    <a href="http://cameraparadise.com/shop/gopro-accessories+strap.html">Strap</a> 
-                    <a href="http://cameraparadise.com/shop/gopro-accessories+charger.html">Charger</a> 
-                    <a href="http://cameraparadise.com/shop/gopro-accessories+lcd-bacpac.html">LCD BacPac</a> 
-                </div>
-            </div>
-        </li>
-
-
-
-<li>Lens
-            <div>
-                <div class="column">
-                    <b>Brand</b>
-                    <a href="http://cameraparadise.com/shop/lens.html">All Brands</a>
-                    <a href="http://cameraparadise.com/shop/canon+lens.html">Canon</a> 
-                    <a href="http://cameraparadise.com/shop/nikon+lens.html">Nikon</a> 
-                    <a href="http://cameraparadise.com/shop/sigma+lens.html">Sigma</a> 
-                    <a href="http://cameraparadise.com/shop/sony+lens.html">Sony</a> 
-                    <a href="http://cameraparadise.com/shop/panasonic+lens.html">Panasonic</a> 
-                    <a href="http://cameraparadise.com/shop/fujifilm+lens.html">Fujifilm</a> 
-                    <a href="http://cameraparadise.com/shop/tamron+lens.html">Tamron</a> 
-                    <a href="http://cameraparadise.com/shop/pentax+lens.html">Pentax</a> 
-                    <a href="http://cameraparadise.com/shop/tokina+lens.html">Tokina</a> 
-                </div>
-            </div>
-        </li>
-
-
-<li>Accessories
-            <div>
-                <div class="column">
-                    <b>Catalog</b>
-                    <a href="http://cameraparadise.com/shop/flash.html">Flash</a> 
-                    <a href="http://cameraparadise.com/shop/memory-card.html">Memory Card</a> 
-                    <a href="http://cameraparadise.com/shop/filter.html">Filter</a> 
-                    <a href="http://cameraparadise.com/shop/tripod.html">Tripod</a> 
-                    <a href="http://cameraparadise.com/shop/camera-bag.html">Camera Bag</a> 
-                    <a href="http://cameraparadise.com/shop/light-meter.html">Light Meter</a> 
-                    <a href="http://cameraparadise.com/shop/video-light.html">Video Light</a> 
-                    <a href="http://cameraparadise.com/shop/extender-teleconverter.html">Extender/Teleconverter</a> 
-                </div>
-            </div>
-        </li>
-
-
-<li>Mobile
-            <div>
-                <div class="column">
-                    <b>Brand</b>
-                    <a href="http://cameraparadise.com/shop/mobile-device.html">All Brands</a>
-                    <a href="http://cameraparadise.com/shop/amazon+mobile-device.html">Amazon</a>
-                    <a href="http://cameraparadise.com/shop/apple+mobile-device.html">Apple</a>
-                    <a href="http://cameraparadise.com/shop/blackberry+mobile-device.html">Blackberry</a>
-                    <a href="http://cameraparadise.com/shop/htc+mobile-device.html">HTC</a>
-                    <a href="http://cameraparadise.com/shop/huawei+mobile-device.html">Huawei</a>
-                    <a href="http://cameraparadise.com/shop/lenovo+mobile-device.html">Lenovo</a>
-                    <a href="http://cameraparadise.com/shop/lg+mobile-device.html">LG</a>
-                    <a href="http://cameraparadise.com/shop/motorola+mobile-device.html">Motorola</a>
-                    <a href="http://cameraparadise.com/shop/oneplus+mobile-device.html">OnePlus</a>
-                    <a href="http://cameraparadise.com/shop/oppo+mobile-device.html">Oppo</a>
-                    <a href="http://cameraparadise.com/shop/samsung+mobile-device.html">Samsung</a>
-                    <a href="http://cameraparadise.com/shop/sony+mobile-device.html">Sony</a>
-                    <a href="http://cameraparadise.com/shop/vivo+mobile-device.html">VIVO</a>
-                    <a href="http://cameraparadise.com/shop/xiaomi+mobile-device.html">Xiaomi</a>
-                    <a href="http://cameraparadise.com/shop/zte+mobile-device.html">ZTE</a>
-                </div>
-
-                 <div class="column">
-                    <b>Catalog</b>
-                    <a href="http://cameraparadise.com/shop/ebook-reader.html">eBook Reader</a> 
-                    <a href="http://cameraparadise.com/shop/phone-printer.html">Phone Printer</a> 
-                    <a href="http://cameraparadise.com/shop/smartphone.html">Smartphone</a> 
-                    <a href="http://cameraparadise.com/shop/smartwatch.html">Smartwatch</a> 
-                    <a href="http://cameraparadise.com/shop/sport-wristband.html">Sport Wristband</a> 
-                    <a href="http://cameraparadise.com/shop/tablet.html">Tablet</a> 
-                </div>
-            </div>
-        </li>
-
-
-<li>Fashion &amp; Home
-            <div>
-                <div class="column">
-                    <b>Watch</b>
-                    <a href="http://cameraparadise.com/shop/casio+watch.html">Casio</a>
-                    <a href="http://cameraparadise.com/shop/citizen+watch.html">Citizen</a>
-                    <a href="http://cameraparadise.com/shop/fossil+watch.html">Fossil</a>
-                    <a href="http://cameraparadise.com/shop/garmin+watch.html">Garmin</a>
-                    <a href="http://cameraparadise.com/shop/julius+watch.html">Julius</a> 
-                    <a href="http://cameraparadise.com/shop/seiko+watch.html">Seiko</a> 
-                    <a href="http://cameraparadise.com/shop/suunto+watch.html">Suunto</a> 
-                    <a href="http://cameraparadise.com/shop/swatch+watch.html">Swatch</a> 
-                    <a href="http://cameraparadise.com/shop/timex+watch.html">Timex</a> 
-                <br>
-
-                    <b>Computer</b>
-                    <a href="http://cameraparadise.com/shop/controller.html">Controller</a>
-                    <a href="http://cameraparadise.com/shop/digital-photo-frame.html">Digital Photo Frame</a>
-                    <a href="http://cameraparadise.com/shop/dvd-burner.html">DVD Burner</a>
-                    <a href="http://cameraparadise.com/shop/gaming-steering-wheel.html">Gaming Steering Wheel</a>
-                    <a href="http://cameraparadise.com/shop/graphics-tablet.html">Graphics Tablet</a>
-                    <a href="http://cameraparadise.com/shop/hard-disk-drive.html">Hard Disk Drive</a>
-                    <a href="http://cameraparadise.com/shop/headset.html">Headset</a>
-                    <a href="http://cameraparadise.com/shop/computer-keyboard.html">Keyboard</a>
-                    <a href="http://cameraparadise.com/shop/computer-keyboard-mouse-combo.html">Keyboard &amp; Mouse Combo</a>
-                    <a href="http://cameraparadise.com/shop/computer-mouse.html">Mouse</a>
-                    <a href="http://cameraparadise.com/shop/computer-trackball.html">Trackball</a>
-                </div>
-
-                 <div class="column">
-                    <b>Appliance</b>
-                    <a href="http://cameraparadise.com/shop/blender.html">Blender</a> 
-                    <a href="http://cameraparadise.com/shop/coffee-machine.html">Coffee Machine</a> 
-                    <a href="http://cameraparadise.com/shop/electric-oven.html">Electric Oven</a> 
-                    <a href="http://cameraparadise.com/shop/coffee-grinder.html">Coffee Grinder</a>
-                    <a href="http://cameraparadise.com/shop/juicer.html">Juicer</a>
-                    <a href="http://cameraparadise.com/shop/toaster.html">Toaster</a>
-                    <a href="http://cameraparadise.com/shop/vacuum-cleaner.html">Vacuum Cleaner</a> 
-                <br>
-                    <b>Personal Care</b>
-                    <a href="http://cameraparadise.com/shop/electric-toothbrush.html">Electric Toothbrush</a> 
-                    <a href="http://cameraparadise.com/shop/hair-clipper.html">Hair Clipper</a> 
-                    <a href="http://cameraparadise.com/shop/hair-dryer.html">Hair Dryer</a> 
-                    <a href="http://cameraparadise.com/shop/shaver.html">Shaver</a> 
-                </div>
-            </div>
-        </li>
-
-<li>$150 Off
-            <div>
-                <div class="column">
-                    <b>Limited Offer</b>
-                    <a href="http://cameraparadise.com/en/checkout/join-camera-paradise-community-topnav.php">Instant $150 Coupons</a>
-                    <a href="http://cameraparadise.com/en/news/">More offers</a>
-                <br>
-
-                    <b>Community</b>
-                    <a href="http://social.cameraparadise.com/blog/" target="_blank">Camera Paradise Blog</a> 
-                    <a href="http://social.cameraparadise.com/blog/tutorial/" target="_blank">Tutorial / Tip</a> 
-                    <a href="http://social.cameraparadise.com/blog/review/" target="_blank">Product Review</a> 
-                    <a href="http://social.cameraparadise.com/blog/challenge/" target="_blank">Photo Challenge</a> 
-                    <a href="http://social.cameraparadise.com/blog/collection/" target="_blank">Readers' Best Photo</a> 
-                    <a href="http://social.cameraparadise.com/blog/inspiration/" target="_blank">Inspiration</a> 
-                </div>
-            </div>
-        </li>
-    </ul></nav>  
-<br class="clear">
+            	                
+                <br class="clear" />
+                				
             </div>
             
-        </div>
+        </div>-->
         
         <!-- End of Header -->
 
         <!-- Banner -->
         
-        <div id="tool-bar" class="content-shadow">
+        <!--<div id="tool-bar" class="content-shadow">
         
         	            
-            <br class="clear">
-
-<div id="facebook-tab"><a href="https://www.facebook.com/pages/Camera-Paradise/116365231746177" title="Camera Paradise on Facebook" target="_blank"><img src="../images/camera-paradise-facebook.png" alt="Find us on facebook" border="0"></a></div>
-
-<div id="twitter-tab"><a href="https://twitter.com/cameraparadise" title="Camera Paradise on Twitter" target="_blank"><img src="../images/camera-paradise-twitter.png" alt="Find us on Twitter" border="0"></a></div>
-        </div>
+            
+        </div>-->
         
         <!-- End of Banner -->
 
@@ -543,102 +983,43 @@
                 <div id="content-left">
                     
                     <div class="side-box box-shadow ">
-    <div style="padding:10px">
+    <div style="padding:0 10px">
     	<ul>
             <li><a href="../about-us/">About Us</a></li>
-            <li>Warranty
+			 <li><a href="../warranty/index.php">Warranty</a></li>
+            <!--<li>Warranty
               <ul>
-                <li><a href="../warranty/index.php" style="font-size:11px;">- Australia, UK, Malaysia, Singapore, Philippines, Indonesia  </a></li>
-                <li><a href="../warranty/cp-care-international-warranty.php" style="font-size:11px;">- CP Care International Warranty</a></li>
-                <li><a href="../warranty/international-warranty.php" style="font-size:11px;">- International</a></li>
-                <li><a href="../warranty/mack-local-and-internetional-services-procedure.php" style="font-size:11px;">- Mack Services Procedure</a></li>
+                <li ><a href="../warranty/index.php" style="font-size:11px;">- Australia, UK, Malaysia, Singapore, Philippines, Indonesia  </a></li>
+               <li ><a href="../warranty/international-warranty.php" style="font-size:11px;">- International</a></li>
+                <li ><a href="../warranty/cp-care-international-warranty.php" style="font-size:11px;">- CP Care International Warranty</a></li>
+                <li ><a href="../warranty/mack-local-and-internetional-services-procedure.php" style="font-size:11px;">- Mack Services Procedure</a></li>
               </ul>
-            </li>
-            <li>FAQ      
+            </li>-->
+			<li><a href="../help/">FAQ</a></li>
+            <!--<li>FAQ      
               <ul>
-                <li><a href="../help/" style="font-size:11px;">- Frequently asked questions</a></li>
-                <li><a href="../help/how-will-your-order-be-processed.php" style="font-size:11px;">- How will your order be processed?</a></li>
+                <li ><a href="../help/" style="font-size:11px;">- Frequently asked questions</a></li>
+                <li  ><a href="../help/how-will-your-order-be-processed.php" style="font-size:11px;">- How will your order be processed?</a></li>
               </ul>
-            </li>      
+            </li>-->      
             <li><a href="../shipping/">Shipping</a></li>
             <li><a href="../return-policy/">Return Policy</a></li>
-            <li><a href="../Advertisement/">Advertise for us</a></li>
-            <li><a href="../best-price-guarantee/">Best Price Guarantee</a></li>
+            <!--<li ><a href="../Advertisement/"  >Advertise for us</a></li>-->
+            <!--<li ><a href="../wholesale/"  >Wholesale</a></li>-->
             <li class="selected"><a href="../privacy-policy/">Privacy Policy</a></li>
             <li><a href="../condition-of-use/">Condition of Use</a></li>
             <li><a href="../contact-us/">Contact Us</a></li>
 		</ul>
     </div>
 </div>                    
-                    <div class="side-box box-shadow ">
-	<!--<div class="side-box-title title-shadow"><h1>Newsletter Subscription</h1></div>-->
-    <img src="../images/box-header.jpg" alt="Newsletter">
-    <div style="padding:10px 30px; ">
-    	
-        <script type="text/javascript">
-			function newsletter_submit(){
-
-				fr = document.frm;
-				error=0;
-				
-				//*** newsletter_email
-				if (!is_email(fr.newsletter_email) || fr.newsletter_email.value == 'Your Email' ){
-					$('#newsletter_email_error').text('invalid email');
-					error=1;
-					
-				}else{
-					$('#newsletter_email_error').text('');
-		
-				}
-				
-				
-				//*** newsletter_first_name
-				if (js_is_empty(fr.newsletter_first_name) || fr.newsletter_first_name.value == 'First Name'){
-					$('#newsletter_first_name_error').text('please enter first name');
-					error=1;
-		
-				}else{
-					$('#newsletter_first_name_error').text('');
-		
-				}
-				
-				if (error==0){
-					
-					$.get("../index/newsletter-sign-up.php", {email: fr.newsletter_email.value, first_name: fr.newsletter_first_name.value}, function(data){
-						
-						$("#join-newsletter-result").text(data);
-						
-					});
-					
-				}
-
-			}
-
-		  </script>
-        
-        <div>
-        	<input type="text" id="newsletter_email" name="newsletter_email" style="width:150px; margin-top:6px" value="Your Email" onclick="$('#newsletter_email').val('')">
-            <div id="newsletter_email_error" class="form-error"></div>
-        </div>
-        <div>
-        	<input type="text" id="newsletter_first_name" name="newsletter_first_name" style="width:150px; margin-top:6px" value="First Name" onclick="$('#newsletter_first_name').val('')">
-            <div id="newsletter_first_name_error" class="form-error"></div>
-        </div>
-        <div>
-        	<button class="sexybutton sexysimple sexygreen sexysmall" type="button" style="margin-top:6px" onclick="newsletter_submit()">Join</button>
-        </div>
-        <div id="join-newsletter-result" style="text-align:center; margin-top:5px; color:#090; font-weight:bold;"></div>
-    </div>
-</div>                    
+                                        
                 </div>        
                 
                 <div id="content-main">
                     
-                    <h1 class="page-title">Privacy Policy</h1>
-                    
-                    <br class="clear">
-                    
                     <div class="content-box category-box-shadow">
+					
+                    <h1 class="page-title">Privacy Policy</h1>
                     
                     	<!-- Content -->
                         
@@ -688,29 +1069,109 @@
 	        </div>
 
         <!-- End of Content -->
-        
+        <div style="clear:both;"></div>
         <!-- Footer -->
-        <div id="footer" class="content-shadow" style="width:997px;">
+        <!--//////////////////////////////Footer Section//////////////////////////////////////-->
+	<!--///////////////////Company Section///////////////////////-->
+	<div id="footer_wrapper">
+	<div id="footer">
+		<div class="footer_box">
+			<ul>
+			<li><a href="http://cameraparadise.com/en/index/index.php"><b style="color: #ff0990;">CAMERA PARADISE</b></a></li>
+			<li><a href="http://cameraparadise.com/en/about-us/">About Us</a></li>
+			<!--<li><a href="http://cameraparadise.com/en/Advertisement/">Advertise for us</a></li>-->
+			<!--<li><a href="http://cameraparadise.com/en/best-price-guarantee/">Best Price Guarantee</a></li>-->
+			<li><a href="http://cameraparadise.com/en/privacy-policy/">Privacy Policy</a></li>
+			<li><a href="http://cameraparadise.com/en/condition-of-use">Condition of Use</a></li>
+			<li><a href="http://cameraparadise.com/en/sitemap">Sitemap</a></li>
+			</ul>
+		</div>
+		<div class="footer_box">
+		<ul>
+			<li><b style="color: #ff0990;">CUSTOMER SERVICES</b></li>
+			<li><a href="http://cameraparadise.com/en/contact-us/">Contact Us</a></li>
+			<li><a href="http://cameraparadise.com/en/help/">FAQ</a></li>
+			<li><a href="http://cameraparadise.com/en/warranty/">Warranty</a></li>
+			<li><a href="http://cameraparadise.com/en/shipping/">Shipping</a></li>
+			<li><a href="http://cameraparadise.com/en/return-policy/">Return Policy</a></li>
+			</ul>
+		</div>
+		<div class="footer_box">
+			<ul>
+			<li><b style="color: #ff0990;">FOLLOW US</b></li>
+			<li><a href="https://www.facebook.com/CameraParadise" target="_blank"><img src="http://cameraparadise.com/en/images/footer/social_icon/social_icons_facebook.png" width="50px"></a></li>
+			<li><a href="https://www.youtube.com/cameraparadise" target="_blank"><img src="http://cameraparadise.com/en/images/footer/social_icon/social_icons_youtube.png" width="50px"></a></li>
+			<li><a href="https://instagram.com/camera_paradise/" target="_blank"><img src="http://cameraparadise.com/en/images/footer/social_icon/social_icons_instagram.png" width="50px"></a></li>
+			<!--<li><img src="http://cameraparadise.com/en/images/footer/social_icon/twitter.png" width="24px" height="24px"/><div style="display:inline; padding-left: 5px;">Twitter</div></li>
+			<li><img src="http://cameraparadise.com/en/images/footer/social_icon/pinterest.png" width="24px" height="24px"/><div style="display:inline; padding-left: 5px;">Pinterest</div></li>
+			<li><img src="http://cameraparadise.com/en/images/footer/social_icon/google+.png" width="24px" height="24px"/><div style="display:inline; padding-left: 5px;">Google+</div></li>-->
+			</ul>
+		</div>
+		<div class="footer_box" style="margin:0;">
+			<ul>
+			<li><b style="color: #ff0990;">PAYMENT</b></li>
+			<li><img src="http://cameraparadise.com/en/images/footer/paypal.png" width="300px;"></li>
+			</ul>
+		</div>
+	
+	</div>
+	<div style="clear:both;"></div>
+	<div id="footer_copyright">
+	<p style="text-align:center;padding-top:10px;"> 
+	© 2015 Camera Paradise. All rights reserved.
+	<!--Copyright © 2014 Camera Paradise. All rights reserved.--></p>
+	</div>
+	</div>
+	<!--/////////////Company Section Close////////////////-->
+	<!--////////////////////Brand Section/////////////////////-->
+	<!--<div id="footer_brand_wrapper">
+	<div id="footer_brand">
+			<ul>
+			<b style="color: #ff0990">Search By Brands</b></br></br>-->
+			<!--//Path to folder which contains images
+			/*$dirname = "images/footer/brands/";
+
+			//Use glob function to get the files
+			//Note that we have used " * " inside this function. If you want to get only JPEG or PNG use
+			//below line and commnent $images variable currently in use
+			$images = glob($dirname."*jpg");
+
+			//Display image using foreach loop
+			foreach($images as $image){
+				
+			//print the image to browser with anchor tag (Use if you want really :) )
+			echo '<li><img src="'.$image.'"/></li>';
+			}
+			</ul>
+	</div>
+	</div>-->
+	
+	
+	<!--/////////////////Brand Section Close/////////////////////-->
+
+	<!--//////////////////////////////Footer Section Close//////////////////////////////////////-->
+
+<!--<div id="footer" class="content-shadow" style="width:997px;">
     <center>
         <ul id="footer-menu">
-            <li><a href="http://cameraparadise.com/en/index/index.php" title="Home Page of Camera Paradise">Home</a></li>
-            <li><a href="http://cameraparadise.com/en/about-us/" title="About Camera Paradise">About Us</a></li>
-            <li><a href="http://cameraparadise.com/en/warranty/" title="Warranty">Warranty</a></li>            
-            <li><a href="http://cameraparadise.com/en/help/" title="FAQ / HELP">FAQ</a></li>
-            <li><a href="http://cameraparadise.com/en/shipping/" title="Shipping">Shipping</a></li>
-            <li><a href="http://cameraparadise.com/en/return-policy/" title="Return Policy">Return Policy</a></li>
-            <li><a href="http://cameraparadise.com/en/Advertisement/" title="Advertise for us">Advertise for us</a></li>
-            <li><a href="http://cameraparadise.com/en/best-price-guarantee" title="Best Price Guarantee">Best Price Guarantee</a></li>
-            <li><a href="http://cameraparadise.com/en/privacy-policy/" title="Privacy Policy">Privacy Policy</a></li>
-            <li><a href="http://cameraparadise.com/en/about-us/condition-of-use/" title="Condition of Use">Condition of Use</a></li>
-            <li><a href="http://cameraparadise.com/en/sitemap/" title="Sitemap">Sitemap</a></li>            
-            <li><a href="http://cameraparadise.com/en/contact-us/" title="Contact Camera Paradise">Contact Us</a></li>
+            <li><a href="http://cameraparadise.com/index/index.php" title="Home Page of Camera Paradise">Home</a></li>
+            <li><a href="http://cameraparadise.com/about-us/" title="About Camera Paradise">About Us</a></li>
+            <li><a href="http://cameraparadise.com/warranty/" title="Warranty">Warranty</a></li>            
+            <li><a href="http://cameraparadise.com/help/" title="FAQ / HELP">FAQ</a></li>
+            <li><a href="http://cameraparadise.com/shipping/" title="Shipping">Shipping</a></li>
+            <li><a href="http://cameraparadise.com/return-policy/" title="Return Policy">Return Policy</a></li>
+            <li><a href="http://cameraparadise.com/Advertisement/" title="Advertise for us">Advertise for us</a></li>
+            <li><a href="http://cameraparadise.com/wholesale/" title="Digital Camera Wholesale">Wholesale</a></li>
+            <li><a href="http://cameraparadise.com/privacy-policy/" title="Privacy Policy">Privacy Policy</a></li>
+            <li><a href="http://cameraparadise.com/about-us/condition-of-use/" title="Condition of Use">Condition of Use</a></li>
+            <li><a href="http://cameraparadise.com/sitemap/" title="Sitemap">Sitemap</a></li>            
+            <li><a href="http://cameraparadise.com/contact-us/" title="Contact Camera Paradise">Contact Us</a></li>
         </ul>
     </center>
     
-    <div id="copyright">© 2014 Camera Paradise. All rights reserved.</div>
+    <div id="copyright">&copy;  . All rights reserved.</div>
 
-</div>
+</div>-->
 
 
 <script type="text/javascript">
@@ -740,23 +1201,22 @@ ecomm_totalvalue: ''
 
 </script>
 
-
-<script>(function() { 
-  var _fbq = window._fbq || (window._fbq = []); 
-  if (!_fbq.loaded) { 
-    var fbds = document.createElement('script'); 
-    fbds.async = true; 
-    fbds.src = '//connect.facebook.net/en_US/fbds.js'; 
-    var s = document.getElementsByTagName('script')[0]; 
-    s.parentNode.insertBefore(fbds, s); 
-    _fbq.loaded = true; 
-  } 
-  _fbq.push(['addPixelId', '645432765540155']); 
-})(); 
-window._fbq = window._fbq || []; 
-window._fbq.push(['track', 'PixelInitialized', {}]); 
-</script> 
-<noscript><img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/tr?id=645432765540155&ev=NoScript" /></noscript>
+<script>(function() {
+var _fbq = window._fbq || (window._fbq = []);
+if (!_fbq.loaded) {
+var fbds = document.createElement('script');
+fbds.async = true;
+fbds.src = '//connect.facebook.net/en_US/fbds.js';
+var s = document.getElementsByTagName('script')[0];
+s.parentNode.insertBefore(fbds, s);
+_fbq.loaded = true;
+}
+_fbq.push(['addPixelId', '645432765540155']);
+})();
+window._fbq = window._fbq || [];
+window._fbq.push(['track', 'PixelInitialized', {}]);
+</script>
+<noscript><img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/tr?id=645432765540155&amp;ev=PixelInitialized" /></noscript>
 
 <script type="text/javascript">
 /* <![CDATA[ */
@@ -775,35 +1235,10 @@ var google_remarketing_only = true;
 </td>
 </tr>
 </tbody></table>
-<style>
-#leftContainer
-{
-  position: fixed!important;
-  left: 50%;
-  top: 0%;
-  margin-top: 150px; /*half the width*/
-  margin-left: -655px; /*half the width*/
-}
-#rightContainer
-{
-  position: fixed!important;
-  left: 50%;
-  top: 0%;
-  margin-top: 150px; /*half the width*/
-  margin-left: 522px; /*half the width*/
-  
-}
-@media only screen and (max-device-width : 480px) {
-    div {
-        position: relative;
-    }
-}
-</style>	
 
-<div id="rightContainer"><a href="http://cameraparadise.com/Buy-J-Like-30mb-s-Class-10-64GB-SDXC-Card-2924.html?tid=side-right-banner"><img border="1" src="../../data/tbl_count_down_deal/org/218_1/20141120_outside_right_152x452_J-Like_SDXC_Card.jpg"></a></div></div><div id="leftContainer"><a href="http://cameraparadise.com/Buy-Caden-M5-Canvas-All-Weather-Black-Backpack-Bag-3698.html?tid=side-left-banner"><img border="1" src="../../data/tbl_count_down_deal/org/221_1/20141120_outside_left_152x452_caden_m5_cavas_backpack_bag.jpg"></a></div>
         <!-- End of Footer -->
 
-    
-  </form>
+    </div><!--end of container-->
+</form>
 
 </body></html>
