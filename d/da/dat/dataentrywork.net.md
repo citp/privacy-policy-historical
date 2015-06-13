@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dataentrywork.net privacy policy that was archived on 2012-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120509130528id_/http%3A//www.onlinejobsfree.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dataentrywork.net privacy policy that was archived on 2015-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150613130551id_/http%3A//www.onlinejobsfree.com/privacy.php%3Fid%3Ddeleted) for the most accurate reproduction.*
 
 # Privacy Policy
 
