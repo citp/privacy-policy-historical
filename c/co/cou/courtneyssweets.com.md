@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the courtneyssweets.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701062304id_/http%3A//www.courtneyssweets.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the courtneyssweets.com privacy policy that was archived on 2015-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150613060444id_/http%3A//www.courtneyssweets.com/privacy-policy) for the most accurate reproduction.*
 
-# Courtney's Sweets » Privacy Policy
-
-**0** Flares Twitter 0 Facebook 0 Google+ 0 StumbleUpon 0 **0** Flares ×
+# Privacy Policy ~ Courtney's Sweets
 
 **What information do we collect?**
 
@@ -60,8 +58,20 @@ This policy was last modified on 5/52013
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-http://www.courtneyssweets.com
-
+http://www.courtneyssweets.com  
 sweetaleets@gmail.com
 
-**0** Flares Twitter 0 Facebook 0 Google+ 0 StumbleUpon 0 **0** Flares ×
+  * About
+  * Latest Posts
+
+
+
+[](http://www.courtneyssweets.com/ "Courtney")
+
+### [Courtney](http://www.courtneyssweets.com/)
+
+Family, Food, and Photography are Courtney's passions and you'll see all of that on this blog.She married Chris in summer of 2008 and they had Sweet Baby summer of 2012.Sweet Baby has a rare food allergy called FPIES, which Courtney discusses frequently.She also loves to do car reviews, so check those out too!
+
+[](http://www.courtneyssweets.com/ "Courtney")
+
+#### Latest posts by Courtney ([see all](http://www.courtneyssweets.com/author/sweetaleets))
