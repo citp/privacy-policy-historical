@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dailyiphoneblog.com privacy policy that was archived on 2014-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141222200138id_/http%3A//dailyiphoneblog.com/2009/04/16/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailyiphoneblog.com privacy policy that was archived on 2015-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150613210700id_/http%3A//dailyiphoneblog.com/2009/04/16/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Daily iPhone Blog
 
@@ -138,9 +138,9 @@ Changes to This Policy
 
   * [](http://dailyiphoneblog.com/2011/02/15/apple-finally-launches-subscriptions-on-the-app-store/)
 
-  * [](http://dailyiphoneblog.com/2014/09/18/apple-launches-data-transparency-page-on-website-with-tim-cooks-help/)
+  * [](http://dailyiphoneblog.com/2014/12/30/apple-14-day-return-policy-app-store-and-itunes/)
 
-  * [](http://dailyiphoneblog.com/2011/06/28/apple-offers-7-day-refund-policy-for-paid-app-store-applications-in-taiwan/)
+  * [](http://dailyiphoneblog.com/2014/09/18/apple-launches-data-transparency-page-on-website-with-tim-cooks-help/)
 
 
 
