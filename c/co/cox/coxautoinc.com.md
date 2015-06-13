@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the coxautoinc.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220234845id_/http%3A//www.coxautoinc.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coxautoinc.com privacy policy that was archived on 2015-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150613172732id_/http%3A//www.coxautoinc.com/privacy-policy) for the most accurate reproduction.*
 
-# Cox Automotive – Privacy Policy
+# Privacy Policy | Cox Automotive
 
 Last Updated: September 18, 2014
 
