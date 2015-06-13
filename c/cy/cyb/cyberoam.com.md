@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cyberoam.com privacy policy that was archived on 2014-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141107143451id_/http%3A//www.cyberoam.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cyberoam.com privacy policy that was archived on 2015-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150613185904id_/http%3A//www.cyberoam.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Cyberoam Privacy Policy – Cyberoam
 
