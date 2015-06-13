@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the darkroastedblend.com privacy policy that was archived on 2014-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141008212757id_/http%3A//www.darkroastedblend.com/2009/06/dark-roasted-blend-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the darkroastedblend.com privacy policy that was archived on 2015-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150613132033id_/http%3A//www.darkroastedblend.com/2009/06/dark-roasted-blend-privacy-policy.html) for the most accurate reproduction.*
 
 # Dark Roasted Blend: Dark Roasted Blend Privacy Policy
 
