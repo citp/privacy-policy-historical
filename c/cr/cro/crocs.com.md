@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crocs.com privacy policy that was archived on 2014-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140822003222id_/http%3A//www.crocs.com/privacy-security-policy/privacy-security-policy%2Cdefault%2Cpg.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crocs.com privacy policy that was archived on 2015-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150613040221id_/http%3A//www.crocs.com/privacy-security-policy/privacy-security-policy%2Cdefault%2Cpg.html) for the most accurate reproduction.*
 
 # Crocs | Privacy & Security Policy
 
