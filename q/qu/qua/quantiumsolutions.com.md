@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quantiumsolutions.com privacy policy that was archived on 2014-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141115150703id_/http%3A//www.quantiumsolutions.com/terms-conditions/group-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quantiumsolutions.com privacy policy that was archived on 2015-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150613235544id_/http%3A//www.quantiumsolutions.com/terms-conditions/group-privacy-policy) for the most accurate reproduction.*
 
 # Group Privacy Policy | Quantium Solutions
 
