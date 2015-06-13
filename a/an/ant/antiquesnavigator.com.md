@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the antiquesnavigator.com privacy policy that was archived on 2014-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141124120711id_/http%3A//www.antiquesnavigator.com/index.php%3Fmain_page%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the antiquesnavigator.com privacy policy that was archived on 2015-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150613134954id_/http%3A//www.antiquesnavigator.com/index.php%3Fmain_page%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy Notice : AntiquesNavigator.com, Online Antique Store and Antique Store Search Tool
 
