@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the iranian.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625050521id_/http%3A//iranian.com/index/page/name/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iranian.com privacy policy that was archived on 2015-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150613174236id_/http%3A//iranian.com/index/page/name/privacy) for the most accurate reproduction.*
 
-# Iranian.com – News, Blogs, Art and Community
+# Iranian.com - Iran News, Blogs and Community
 
 ## Iranian.com Privacy Policy
 
