@@ -1,30 +1,30 @@
-> *The following text is extracted and transformed from the jadelouisedesigns.com privacy policy that was archived on 2014-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141104013042id_/http%3A//www.jadelouisedesigns.com/privacy-policy-jadelouise-designs) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jadelouisedesigns.com privacy policy that was archived on 2015-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150613235025id_/http%3A//www.jadelouisedesigns.com/privacy-policy-jadelouise-designs) for the most accurate reproduction.*
 
 # Privacy Policy for JadeLouise Designs - Jade Louise Designs
 
 ### Privacy
 
-**JadeLouise Designs respects your privacy.**
+ **JadeLouise Designs respects your privacy.**
 
 Any personal information you provide to us including and similar to your name, address, telephone number and e-mail address will not be released, sold, or rented to any entities or individuals outside of JadeLouise Designs.
 
 Any information gathered for Giveaways is used solely for the purpose of contacting the winner to claim their prize and to allow the sponsor to award the prize to the winner. No other purpose for your information will be used.
 
-**Credit card details**
+ **Credit card details**
 
 JadeLouise Designs will never ask for Credit Card details and request that you do not enter it on any of the forms on JadeLouise Designs.
 
-**External Sites.**
+ **External Sites.**
 
 JadeLouise Designs is not responsible for the content of external internet sites. You are advised to read the privacy policy of external sites before disclosing any personal information.
 
-We allow third party companies to serve ads and/or collect certain anonymous information when you visit our Web site.  These companies may use non-personally identifiable information (e.g. click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you.  These companies typically use a cookie or third party webeacon to collect this information.  To learn more about this behavioral advertising practice visit the NAI at [http://www.networkadvertising.org](http://www.networkadvertising.org/).  To opt-out of this type of advertising, you can visit <http://www.aboutads.info/choices>.
+We allow third party companies to serve ads and/or collect certain anonymous information when you visit our Web site.  These companies may use non-personally identifiable information (e.g. click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you.  These companies typically use a cookie or third party webeacon to collect this information.  To learn more about this behavioral advertising practice visit the NAI at [http://www.networkadvertising.org](http://www.networkadvertising.org/).  To opt-out of this type of advertising, you can visit [http://www.aboutads.info/choices](http://www.aboutads.info/choices/).
 
-**Cookies**
+ **Cookies**
 
 A “cookie” is a small data text file that is placed in your browser and allows JadeLouise Designs to recognize you each time you visit this site(customisation etc). Cookies themselves do not contain any personal information, and JadeLouise Designs does not use cookies to collect personal information. Cookies may also be used by 3rd party content providers such as newsfeeds.
 
-**Remember The Risks Whenever You Use The Internet**
+ **Remember The Risks Whenever You Use The Internet**
 
 While we do our best to protect your personal information, we cannot guarantee the security of any information that you transmit to JadeLouise Designs and you are solely responsible for maintaining the secrecy of any passwords or other account information. In addition other Internet sites or services that may be accessible through JadeLouise Designs have separate data and privacy practices independent of us, and therefore we disclaim any responsibility or liability for their policies or actions.
 
