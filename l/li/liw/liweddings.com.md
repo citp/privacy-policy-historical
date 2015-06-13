@@ -1,30 +1,6 @@
-> *The following text is extracted and transformed from the liweddings.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625054306id_/http%3A//www.liweddings.com/pages/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the liweddings.com privacy policy that was archived on 2015-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150613170340id_/http%3A//www.liweddings.com/pages/privacy.aspx) for the most accurate reproduction.*
 
 # LIWeddings.com Internet Privacy Policy
-
-[](https://web.archive.org/vendors/photographers/esvy-photography/ "Esvy Photography - photo")
-
-###  Long Island Weddings Vendors ▼
-
-[](http://www.liweddings.com/vendors/reception-locations/mediterranean-manor-caterers/ "Mediterranean Manor Caterers - reception location")
-
-[](http://www.liweddings.com/vendors/reception-locations/larkfield/ "Larkfield")
-
-[](http://www.nycityweddings.com/)
-
-[](http://www.liweddings.com/chat/topic-get-a-free-makeup-trial-from-makeup-artistry-by-sandra-baldini-and-then-enter-to-win-free-day-of-wedding-makeup-for-you-and-your-bridal-party-830286-1.html)
-
-[](http://www.liweddings.com/vendors/reception-locations/windows-on-the-lake/ "Windows on the Lake - reception location")
-
-[](http://www.liweddings.com/vendors/reception-locations/lessings-waterfront-weddings/ "Lessing's Waterfront Weddings - reception location")
-
-[](http://www.liweddings.com/vendors/tents/camelot-party-rentals/ "Camelot Party Rentals - tent")
-
-[](http://www.liweddings.com/vendors/kilt-rentals/rent-a-kilt/ "RentAKilt.com - kilt")
-
-[](https://web.archive.org/vendors/favors/ "Favors")
-
-| 
 
 Long Island Weddings ™, Inc ("LIWeddings.com") has developed this privacy statement for you, the visitor, to demonstrate our commitment to privacy on the Internet. The following discloses our information gathering and dissemination practices for www.LIWeddings.com and all other Web sites owned and operated by LIWeddings.com.
 
@@ -32,9 +8,9 @@ LIWeddings.com can be contacted by mail at:
 
 Attention Legal Department  
 Long Island Weddings ™, Inc.  
-3245 Route 112  
-Suite 5  
-Medford, NY 11763  
+16 Sawgrass Drive  
+Suite 2  
+Bellport, NY 11713  
 United States of America
 
 by phone at (631) 320-3450 or
@@ -79,6 +55,4 @@ LIWeddings.com reserves the right to contact site visitors regarding account sta
 
 9\. LIWeddings.com's Right to Change Privacy Policy
 
-The foregoing policy is effective as of December 11, 1995. LIWeddings.com reserves the right to change this policy at any time by notifying visitors of the existence and location of the new or revised privacy policy. By entering the LIWeddings.com website you are accepting all terms and conditions outlined in the above Long Island Weddings ™, Inc Internet Privacy Policy.  
-  
----|---
+The foregoing policy is effective as of December 11, 1995. LIWeddings.com reserves the right to change this policy at any time by notifying visitors of the existence and location of the new or revised privacy policy. By entering the LIWeddings.com website you are accepting all terms and conditions outlined in the above Long Island Weddings ™, Inc Internet Privacy Policy.
