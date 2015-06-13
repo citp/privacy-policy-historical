@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the corelogic.com.au privacy policy that was archived on 2014-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141205113316id_/http%3A//www.corelogic.com.au/about-us/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the corelogic.com.au privacy policy that was archived on 2015-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150613210322id_/http%3A//www.corelogic.com.au/about-us/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy - Privacy Policy | CoreLogic RP Data
+# Privacy Policy | CoreLogic RP Data
 
 RP Data Pty Ltd trading as CoreLogic (ABN 67 087 759 171) and its related and associated bodies corporate ( **us, we, our, CoreLogic** ) maintain a policy of strict confidence concerning your (you, your) personal information ( **Privacy Policy** ). This Privacy Policy has been developed in accordance with the Privacy Act 1988 (Cth) ( **Privacy Act** ) and the Australian Privacy Principals ( **APPs** ) made under that Act. The Privacy Policy applies to the collection, storage, use and disclosure of your personal information by us. By accessing the following websites and platforms ( **Sites** ), you accept the terms of this Privacy Policy: 
 
