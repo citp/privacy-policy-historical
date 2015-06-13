@@ -1,60 +1,53 @@
-> *The following text is extracted and transformed from the appliedlanguage.com privacy policy that was archived on 2014-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140914091450id_/http%3A//www.capitatranslationinterpreting.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appliedlanguage.com privacy policy that was archived on 2015-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150613041058id_/http%3A//www.capitatranslationinterpreting.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy « Capita Translation and InterpretingCapita Translation and Interpreting
+# Privacy Policy - Capita Translation and Interpreting
 
-At Capita Translation and Interpreting we are committed to protecting your data and privacy. So, we have published this data protection guide to ensure that you are fully aware of how and why we collect information from you, to whom such information is disclosed and what your rights are.
+The At Capita Translation and Interpreting (Capita TI) we are committed to protecting your data and privacy.
 
 ## What information do we collect and how do we obtain it?
 
-We receive information when you complete any of the forms on our website.
+We receive information when you complete any of the forms on our website with your name, email address and telephone number.
 
-To complete your request we need to know your name, email address, telephone number and country of residence.
+We also use cookies so we can improve our website performance.
+
+We may monitor or record telephone conversations with you for training purposes in order to ensure consistent service levels.
 
 ## How do we use your information?
 
 We may use your information as follows:
 
-  * To produce your quotation and provide our services.
-  * To disclose information about you to any relevant regulator if they require it or to anyone else, if we have a legal duty to do so.
-  * We may monitor or record telephone conversations with you to ensure consistent service levels, to prevent or detect fraud and for training purposes.
-  * Monitor customer traffic patterns and site usage to help us develop the design and layout of the site.
-  * We may occasionally notify you about enhancements to our services such as; functionality changes to the website, new services and special features and offers.
-  * The information we hold about you may be used to analyse your browsing preferences as part of our marketing programme. This may help us to select and tailor products, services or promotions we think you will be interested in.
+  * To send you information or a quotation
+  * To monitor customer traffic patterns and site usage to help us optimise our website
+  * To ensure consistently high levels of enquiry handling
+  * To update you about new services, special features and offers
 
 
 
 ## How do we protect your information?
 
-We protect your information in the following ways:
+Firstly, we will request only appropriate information.
 
-  * We will not request information which is excessive for our purposes.
-  * Try, with your assistance, to keep any information we hold about you up to date and accurate
-  * Delete any information which we hold about you which is no longer relevant.
-  * Protect your data against unauthorised use. We follow strict security procedures in the storage and disclosure of information which you have given to us, to prevent unauthorised access.
+Further, we will:
+
+  * Try, with your assistance, to keep any information about you up to date and accurate
+  * Delete any information which we hold about you which is no longer relevant
+  * Protect your data against unauthorised use by following strict security procedures for the storage of information you give to us
 
 
-
-## Receipt of Information
-
-If you do not want to continue to be contacted by Capita Translation and Interpreting, please write to:
-
-## UK
-
-Riverside Court,  
-Huddersfield Road,  
-Delph Oldham,  
-OL3 5FZ
-
-You may continue to receive communications to you for a short period of time while your suppression is being processed. You have the right to see personal information which is held about you or your company upon written request.
 
 ## What about “cookies”?
 
-Cookies allow us to understand who has seen which pages and advertisements, to determine how frequently particular pages are visited and to determine the most popular areas of our website.
-
-Cookies also allow us to make our website more user friendly. We use cookies so that we can give you a better experience when you return to our website.
+Cookies allow us to understand how our website is performing and to make it more user-friendly e.g. we use cookies so that we can give you a better experience when you return to our website.
 
 ## Your Consent
 
 By completing any of our online forms, you are consenting to the collection, processing and use of this information by Capita Translation and Interpreting.
 
-Last revision: April 2012
+**Restricting the use of Information**
+
+If you do not want to be contacted by Capita TI, please e-mail:  
+[marketing@capita-ti.com](https://web.archive.org/web/20150613041058id_/http://www.capitatranslationinterpreting.com/privacy-policy/marketing@capita-ti.com)
+
+You may continue to receive communications for a short period of time while your request to remove you from our list is processed.
+
+Last revision: March 2015
