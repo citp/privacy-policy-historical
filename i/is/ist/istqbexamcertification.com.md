@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the istqbexamcertification.com privacy policy that was archived on 2014-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141129230420id_/http%3A//istqbexamcertification.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the istqbexamcertification.com privacy policy that was archived on 2015-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150613063423id_/http%3A//istqbexamcertification.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -11,9 +11,9 @@ Like many other Web sites, istqbexamcertification.com makes use of log files. Th
 istqbexamcertification.com does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser.
 
 **DoubleClick DART Cookie**  
-\- Google, as a third party vendor, uses cookies to serve ads on istqbexamcertification.com.  
-\- Google’s use of the DART cookie enables it to serve ads to your users based on their visit to istqbexamcertification.com and other sites on the Internet.  
-\- Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – <http://www.google.com/policies/privacy/ads/>
+– Google, as a third party vendor, uses cookies to serve ads on istqbexamcertification.com.  
+– Google’s use of the DART cookie enables it to serve ads to your users based on their visit to istqbexamcertification.com and other sites on the Internet.  
+– Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – <http://www.google.com/policies/privacy/ads/>
 
 Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include Google Adsense.
 
