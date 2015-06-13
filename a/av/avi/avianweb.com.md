@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the avianweb.com privacy policy that was archived on 2014-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141007123420id_/http%3A//beautyofbirds.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the avianweb.com privacy policy that was archived on 2015-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150613121758id_/http%3A//beautyofbirds.com/privacy.html) for the most accurate reproduction.*
 
-# beautyofbirds Site Privacy Policy
+# beautyofbirds - Site Privacy Policy | Beauty Of Birds
 
 Avianweb LLC (hereafter referred to as Avianweb) is committed to the privacy of the visitors of this website. The following outlines our privacy policy, and how we treat personally identifiable information collected from our visitors and users.
 
@@ -36,7 +36,7 @@ Avianweb LLC (hereafter referred to as Avianweb) is committed to the privacy of 
 
 ### Consent
 
-  * If you do not consent to the collection, use or disclosure of your personal information as outlined in this policy, please do not provide any personal information to Avianweb. If you have provided personal information to Avianweb and no longer consent to its use or disclosure as outlined herein, please notify Avianweb at sf@avianweb.com.
+  * If you do not consent to the collection, use or disclosure of your personal information as outlined in this policy, please do not provide any personal information to Avianweb. If you have provided personal information to Avianweb and no longer consent to its use or disclosure as outlined herein, please notify Avianweb at [[email protected]](http://www.cloudflare.com/email-protection)
 
 
 
@@ -56,7 +56,7 @@ Avianweb LLC (hereafter referred to as Avianweb) is committed to the privacy of 
 
 ### Questions or Suggestions
 
-  * If you have questions or suggestions about this privacy policy, or your own personal information, please e-mail us at [sf@avianweb.com](http://www.cloudflare.com/email-protection#0c7f6a4c6d7a656d627b696e226f6361).
+  * If you have questions or suggestions about this privacy policy, or your own personal information, please e-mail us at [sf@avianw[email protected]](http://www.cloudflare.com/email-protection#0c7f6a4c6d7a656d627b696e226f6361).
 
 
 
