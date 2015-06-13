@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chathostess.com privacy policy that was archived on 2014-07-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140714101929id_/http%3A//www.chathostess.com/support.php%3Fp%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chathostess.com privacy policy that was archived on 2015-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150613192426id_/http%3A//chathostess.com/support.php%3Fp%3Dprivacy) for the most accurate reproduction.*
 
 # Live Asian Cams and Asian Cam Sex @ ChatHostess.com
 
