@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the banknetindia.com privacy policy that was archived on 2014-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141103165912id_/http%3A//www.banknetindia.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the banknetindia.com privacy policy that was archived on 2015-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150614000008id_/http%3A//www.banknetindia.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -64,4 +64,4 @@ Banknetindia.com is part of BNet India Pvt. Ltd., a Mumbai, India based private 
 
 Thank you for using Banknetindia.com. 
 
-[Go back to our home page.](https://web.archive.org/web/20141103165912id_/http%3A//www.banknetindia.com/index.htm)
+[Go back to our home page.](https://web.archive.org/web/20150614000008id_/http%3A//www.banknetindia.com/index.htm)
