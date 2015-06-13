@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the sterlingholidays.com privacy policy that was archived on 2014-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141023145646id_/http%3A//www.sterlingholidays.com/privacy-policy/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sterlingholidays.com privacy policy that was archived on 2015-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150613044112id_/http%3A//www.sterlingholidays.com/privacy-policy) for the most accurate reproduction.*
 
 # Sterling Holidays | Privacy policy of the website
 
-This Site is owned  and operated  by Sterling Holiday Resorts (India) Ltd
+This Site is owned and operated by Sterling Holiday Resorts (India) Ltd
 
 This Privacy Policy applies to the activities of Sterling Holiday Resorts (India) Limited. and its affiliates (referred to as "SHRIL" in this policy).
 
@@ -10,11 +10,16 @@ Because we gather certain types of information about our users, we feel you shou
 
 It explains how SHRIL handles personal information that users provide through voluntary submissions and complies with the requirements of the Privacy Act.
 
-If you have further questions relating to this policy please contact our Privacy Officer by mail at 163, TTK Road, Alwarpet, Chennai - 600018, India or e-mail [escape@sterlingresort.co.in](mailto:escape@sterlingresort.co.in).
+If you have further questions relating to this policy please contact our Privacy Officer by mail at Citi Tower, No.7, 3rd Cross Street, Kasturba Nagar, Adyar, Chennai 600020 (Landmark - Nalli Silks, Adyar), India or e-mail [feedback@sterlingholidays.com](mailto:feedback@sterlingholidays.com).
 
-### **Collecting information about you**
+  
 
-In accordance with the Privacy Act, SHRIL only collects personal information that is necessary for business purposes. We endeavour at all times to collect personal information in a fair and lawful manner, and to meet our members' expectations that we will respect their right to control how their personal information is collected and used.SHRIL collects personal information in many parts of its business. These include:
+
+###  COLLECTING INFORMATION ABOUT YOU 
+
+* * *
+
+In accordance with the Privacy Act, SHRIL only collects personal information that is necessary for business purposes. We endeavour at all times to collect personal information in a fair and lawful manner, and to meet our members' expectations that we will respect their right to control how their personal information is collected and used.SHRIL collects personal information in many parts of its business. These include: 
 
   * SHRIL Exchange and SHRIL Points: SHRIL collects information about members at the time when a person first joins a program and while a person is a member. The main categories of information we collect relate to a person's general contact information, personal details such as age range and gender, use of the program, payment details, responses to surveys and other details, which are usually collected directly from the member.
   * SHRIL Resort Management: In its role of managing some resorts, SHRIL collects personal information related to bookings and as necessary for other purposes related to the management of the resort facility. Further personal information may be collected in specific instances such as in the event of an incident occurring on site for legal and insurance reasons.
@@ -25,13 +30,18 @@ In accordance with the Privacy Act, SHRIL only collects personal information tha
 
 
 
-### Using and disclosing your personal information:
+  
 
-Our purpose in collecting information about you is to provide you with membership services, such as exchanging your holiday accommodation entitlements. SHRIL uses personal information in several different ways in operating our membership programs and operating our business, and most of these uses are clear from the circumstances. We also use your personal information for internal quality assurance purposes.
 
-SHRIL provides personal information to resort operators in order to facilitate a booking that you have requested. Otherwise SHRIL does not routinely disclose personal information, except where it is necessary to provide you with a service that you have requested such as to make bookings for your travel with airlines.
+### USING AND DISCLOSING YOUR PERSONAL INFORMATION: 
 
-SHRIL will not normally otherwise use or disclose any information about you without your consent, unless:
+* * *
+
+Our purpose in collecting information about you is to provide you with membership services, such as exchanging your holiday accommodation entitlements. SHRIL uses personal information in several different ways in operating our membership programs and operating our business, and most of these uses are clear from the circumstances. We also use your personal information for internal quality assurance purposes. 
+
+SHRIL provides personal information to resort operators in order to facilitate a booking that you have requested. Otherwise SHRIL does not routinely disclose personal information, except where it is necessary to provide you with a service that you have requested such as to make bookings for your travel with airlines. 
+
+SHRIL will not normally otherwise use or disclose any information about you without your consent, unless: 
 
   * required by law
   * to protect the rights, property or personal safety of another SHRIL member, any member of the public.
@@ -40,13 +50,23 @@ SHRIL will not normally otherwise use or disclose any information about you with
 
 
 
-### Service providers
+  
 
-Like many businesses, SHRIL uses a range of service providers to help us maximise the quality and efficiency of our services and our business operations. This means that individuals and organisations outside of SHRIL, such as mail houses, will sometimes have access to personal information held by SHRIL and may use it on behalf of SHRIL. We require our service providers to adhere to strict privacy guidelines and not to keep this information or use it for any unauthorised purposes.
 
-### SHRIL and marketing activities
+### SERVICE PROVIDERS 
 
-SHRIL manages communications with members, prospective members and customers according to its privacy policy. We respect individual’s choices about being contacted for marketing purposes. We may occasionally contact you at the e-mail or other address that you provide to us in order to:
+* * *
+
+Like many businesses, SHRIL uses a range of service providers to help us maximise the quality and efficiency of our services and our business operations. This means that individuals and organisations outside of SHRIL, such as mail houses, will sometimes have access to personal information held by SHRIL and may use it on behalf of SHRIL. We require our service providers to adhere to strict privacy guidelines and not to keep this information or use it for any unauthorised purposes. 
+
+  
+
+
+###  SHRIL AND MARKETING ACTIVITIES 
+
+* * *
+
+SHRIL manages communications with members, prospective members and customers according to its privacy policy. We respect individual’s choices about being contacted for marketing purposes. We may occasionally contact you at the e-mail or other address that you provide to us in order to: 
 
   * Remind you of your membership renewal or warn you of the upcoming expiry of membership benefits
   * Provide you with updated information about our services or special promotions
@@ -54,9 +74,14 @@ SHRIL manages communications with members, prospective members and customers acc
 
 
 
-Some of this information is necessary as part of our communication about the SHRIL program and is sent to all members. However, if you are receiving promotional information from SHRIL and do not wish to receive this information any longer, you may remove your name from our list either by calling us on (91) 044-6693700, by mail at 163, TTK Road, Alwarpet, Chennai - 600 018, India or e-mail [escape@sterlingresort.co.in](mailto:escape@sterlingresort.co.in) and asking to be removed from our mailing list. Please allow 28 days for this request to be processed.
+Some of this information is necessary as part of our communication about the SHRIL program and is sent to all members. However, if you are receiving promotional information from SHRIL and do not wish to receive this information any longer, you may remove your name from our list either by mailing us at Citi Tower, No.7, 3rd Cross Street, Kasturba Nagar, Adyar, Chennai 600020 (Landmark - Nalli Silks, Adyar), India or e-mail [feedback@sterlingholidays.com](mailto:feedback@sterlingholidays.com) and asking to be removed from our mailing list. Please allow 28 days for this request to be processed 
 
-### For our web site user
+  
+
+
+### FOR OUR WEB SITE USER
+
+* * *
 
 SHRIL is committed to high standards of data security with respect to information collected on our site. We offer SSL encryption, the industry standard security measures for transactions made over the Internet.
 
@@ -64,34 +89,66 @@ New technologies are emerging on the Internet that help us deliver customized vi
 
 We want to be sure you understand that accepting a cookie in no way gives us access to your computer or any personal information about you. We know that a lot of people have concerns about cookies, but in talking with many of our users, we feel that the benefit we both gain from their proper use is worthwhile. We value the relationships we have with our members and future members, so we respect these concerns.
 
-For more information about these new technologies on our websites please contact our Privacy Officer by calling on (91) 044-6693700, by mail at 163, TTK Road, Alwarpet, Chennai - 600 018, India or e-mail [escape@sterlingresort.co.in](mailto:escape@sterlingresort.co.in)
+For more information about these new technologies on our websites please contact our Privacy Officer by by mailing us at Citi Tower, No.7, 3rd Cross Street, Kasturba Nagar, Adyar, Chennai 600020 (Landmark - Nalli Silks, Adyar), India or e-mail [feedback@sterlingholidays.com](mailto:feedback@sterlingholidays.com)
 
-### You can access the information we keep about you
+  
 
-If at any time you want to know exactly what personal information we hold about you, you are welcome to access your record by calling us on (91) 044-6693700, by mail at 163, TTK Road, Alwarpet, Chennai - 600 018, India or e-mail [escape@sterlingresort.co.in](mailto:escape@sterlingresort.co.in). Our file of your information will usually be made available to you within 14 days. For security purposes confirmation of your identity will be required prior to supply of this information.
 
-### Changing and deleting the information we have about you
+### YOU CAN ACCESS THE INFORMATION WE KEEP ABOUT YOU
+
+* * *
+
+If at any time you want to know exactly what personal information we hold about you, you are welcome to access your record by mailing us at Citi Tower, No.7, 3rd Cross Street, Kasturba Nagar, Adyar, Chennai 600020 (Landmark - Nalli Silks, Adyar), India or e-mail [feedback@sterlingholidays.com](mailto:feedback@sterlingholidays.com). Our file of your information will usually be made available to you within 14 days. For security purposes confirmation of your identity will be required prior to supply of this information.
+
+  
+
+
+### CHANGING AND DELETING THE INFORMATION WE HAVE ABOUT YOU
+
+* * *
 
 If at any time you wish to change personal information that is inaccurate or out of date, please contact us and we will amend this record. If you wish to have your personal information deleted, please let us know in the same manner as referred to above and we will take all reasonable steps to delete it unless we need to keep it for legal reasons.
 
-### Storage and security of your personal information
+  
+
+
+### STORAGE AND SECURITY OF YOUR PERSONAL INFORMATION
+
+* * *
 
 SHRIL endeavours to take all reasonable steps to keep secure any information which we hold about you, and to keep this information accurate and up to date. SHRIL uses a sophisticated computer data network, and all access to the computers and system devices are password controlled. Employees can only gain access to data if they are authorized, and we maintain an audit log which records each time a file is accessed. We also require our employees and data processors to respect the confidentiality of any personal information held by SHRIL.
 
 Data is secured in a secure data centre environment, with daily backups of all data taken and a copy of all data kept offsite. Our data network is totally private and not accessible over the Internet. We use sophisticated detection and intrusion technologies to ensure that there are no network security breaches.
 
-### Transfer of personal information overseas
+### TRANSFER OF PERSONAL INFORMATION OVERSEAS
+
+* * *
 
 Please note also that as a global business, SHRIL may use overseas facilities to process or back up the information that it holds. As a result, we may transfer your personal information to our overseas facilities for storage. However, we will only transfer information overseas as authorized by the Privacy Act and in keeping with our other commitments to safeguard your privacy.
 
-### What to do if you have a problem or question
+  
 
-If SHRIL becomes aware of any ongoing concerns or problems concerning our privacy practices, we will take these issues seriously and work to address these concerns. If you have any further queries relating to our Privacy Policy, or you have a problem or complaint, please contact us on (91) 044-6693700, by mail at 163, TTK Road, Alwarpet, Chennai - 600 018, India or e-mail [escape@sterlingresort.co.in](mailto:escape@sterlingresort.co.in)
+
+### WHAT TO DO IF YOU HAVE A PROBLEM OR QUESTION
+
+* * *
+
+If SHRIL becomes aware of any ongoing concerns or problems concerning our privacy practices, we will take these issues seriously and work to address these concerns. If you have any further queries relating to our Privacy Policy, or you have a problem or complaint, please contact us by mailing at Citi Tower, No.7, 3rd Cross Street, Kasturba Nagar, Adyar, Chennai 600020 (Landmark - Nalli Silks, Adyar), India or e-mail [feedback@sterlingholidays.com](mailto:feedback@sterlingholidays.com)
+
+  
+
 
 ### CONSENT
 
+* * *
+
 By using this site you consent to the collection and use of this information by SHRIL
 
-### **Future changes**
+  
+
+
+### FUTURE CHANGES
+
+* * *
 
 Our commitment to being the world's leading holiday exchange business and to continually improve our services means that our business will continue to evolve as we respond to customer needs. Because of this, from time to time, our policies will be reviewed and may be revised. Changes to SHRIL's Privacy Policy will be made by posting an updated version of the policy on our website and communicated subsequently in our publications for our members.
