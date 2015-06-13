@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the muncha.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120115918id_/http%3A//www.shop.muncha.com/Content.aspx%3FSHOW%3DPRIVACY_POLICY) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the muncha.com privacy policy that was archived on 2015-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150613135059id_/http%3A//www.shop.muncha.com/Content.aspx%3FSHOW%3DPRIVACY_POLICY) for the most accurate reproduction.*
 
 # Send gifts and money to Nepal, Online shopping Nepal, gifts in Nepal: Muncha.com
 
@@ -54,25 +54,25 @@ Muncha Money Transfer Service gives you fast and easy, safe and legal way to sen
 
 You can choose any of the links below for the money transfer service:
 
-  * [USA](https://muncha.machpay.com/?campaign=shoppingTop) Here, you can use Internet Check or ACH (Automated Clearing House)
+  * [USA](https://muncha.coinhub.com/?campaign=shoppingTop) Here, you can use Internet Check or ACH (Automated Clearing House)
 
 
 
 |  |  [
 
-MUSIC
+BILL PAYMENT
 
-Download Nepali Music
+Recharge Mobile Phone
 
-](http://www.music.muncha.com/)
+](https://www.muncha.com/billpayments)
 
-Music store at Muncha.com is a new service through which you can download legal DRM free MP3 Nepali music. 
+Muncha.com Bill Payment is a fast and secure way to recharge mobile phones or Pay any utility bill in Nepal. 
 
-[Click here to visit Music homepage](http://www.music.muncha.com/)
+[Click here to visit Bill Payment](https://www.muncha.com/billpayments)
 
 |  |  [
 
-New iPay
+iPay
 
 Online Payment Gateway
 
@@ -84,30 +84,18 @@ iPay (www.iPay.com.np), a service of Muncha.com, is an online payment gateway fo
   
 ---|---|---|---|---|---|---  
   
-You are in shop for **BIRGUNJ**  
+You are in shop for **KATHMANDU**  
 
-**Birgunj** »Jeetpur »Kalaiya »Parsa and others near by Birgunj...  
+**Kathmandu** »Balaju »Baneshwor »Bhaktapur »Chabahil »Maharajgunj »New Road »Patan »Teku and others near by Kathmandu...  
 If you want to order for a different city, then city change the city.
 
   Change City
 
 Select the city from below where you want to shop for:
 
-  * Surkhet
-  * Buddha Path
-  * Dailekh
-
-
-
   * Bhairahawa
   * Lumbini
   * Kapilvastu
-
-
-
-  * Lekhnath
-  * Khairenitar
-  * Byas
 
 
 
@@ -117,21 +105,57 @@ Select the city from below where you want to shop for:
 
 
 
+  * Kohalpur
+  * Khujara
+  * Belaheri
+
+
+
   * Simara
-  * Bhimpheri
+  * Bhimphedi
   * Manahari
+
+
+
+  * Urlabari
+  * Pathari
+  * Satashidham
+
+
+
+  * Kakarvitta
+  * Bhadrapur
+  * Surunga
+
+
+
+  * Dhanusha
+  * Bardibas
+  * Jaleshwor
+
+
+
+  * Khurkot
+  * Khimti Bazar
+  * Manthali
+
+
+
+  * Lekhnath
+  * Khairenitar
+  * Byas
+
+
+
+  * Surkhet
+  * Buddha Path
+  * Dailekh
 
 
 
   * Mahendranagar Bazaar
   * Bhimdatta
   * Dhangadi
-
-
-
-  * Kohalpur
-  * Khujara
-  * Belaheri
 
 
 
@@ -266,34 +290,46 @@ By using this site, you imply to agree to the terms and conditions of the Privac
   
  
 
-iDream Professionals Pvt. Ltd. was established on May 2007 by a team of highly experienced IT professionals with an aim to provide prompt and quality service to its customers. We focus on total customer satisfaction and deliver genuine products as per their requirement. 
+Mohar Collection offers all its customers a wide variety of Gift Items for their loved ones. Designer & Normal Saree’s, Designer Khurti’s, a wide variety of Ladies Purse, Bangle, playgroup children’s school bag & other ladies accessories. 
 
-**Cosmetica Pvt. Ltd**. is our maiden venture in the organized retail segment. As the name itself implies, **Cosmetica** is a Multi-Brand Cosmetics Retail Chain dealing in well known inter-national brands of Color Cosmetics, Body Care products and Fragrances including Perfumes and Deodorants’. 
+Healthcare Technologies was incorporated with an objective to deliver qualitative medical products and services to the health professionals & public in Nepal. We are a group of young & experienced professionals with core interests in the health care sector with focused efforts in specialized areas. 
 
-Foot Fetish is Nepal’s first Exclusive Reflexology and Wellness Center. It has been successfully catering to its satisfied patrons for the last seven years. 
+We have been in the health care sector in different forms and areas. We are into imports and distribution of Medical & Surgical Equipments, All type of medical recording papers, Personal Healthcare products & related products.
+
+ATC (Ashok Trading Concern) Group is one of the leading Business organization in Nepal. They imports and distributes Photographic Goods, Electronic and Audio Visual Products and Electrical Home appliances. Youwe is one of the brands which ATC Group deals with. 
+
+Urvan Valley is Men’s wear brand who serves their customers with a quality clothing with reasonable price, meticulously crafted garment with impeccable quality and craftsmanship. No doubt, our major focus is to produce qualtiy garment with best price, best fits and latest design. Most of our products are made of premium compact cottons with finer yarn counts and suitable construction. 
 
 Gini & Jony, founded by Lakhani brothers in 1980, is an Indian kid’s fashion brand. Since its inception, it has won admirers and accolades both in India and abroad. Throughout its 30 years of experience, Gini & Jony brand has laid foundation to kid’s fashion that is par with the rest of the world and innovation that has revolutionized the kids clothing line in India ever since. Gini & Jony clothing combines cutting-edge design with superior fabrics to deliver an experience like no other kids wear brand. Gini and Jony brand manufacture kids wear that includes garments such as Gini & Jony t-shirts, pants, shorts, skirts and other kids wear garments.
 
-Imperial Trade Link is the only exclusive importers & distributors of one of the finest writing Instruments “Sheaffer” in Nepal since decades. It provides a wide range to cater every need as per the customer’s requirement. The range carries Ball Point pens, Roller Pens, Fountain Pens, Calligraphy Pens & other Pen accessories… The unique feature of Sheaffer is the sheaffer “NIB” known for its fine writing & craftsmanship. 
-
-Welcome 12 seasons. The big idea behind 12 seasons is to create an ever changing atmosphere for your home and office. Now you can subscribe artworks including photographs and photographed paintings on a monthly basis, and your walls would never look the same. We have a huge collection of original artworks from Nepalese photographers and artists that can be seen at our website www dot twelve seasons dot net (12seasons.net). 
-
-If we want to give some gift to anyone we must think that our gift should be memorable up to future in their life. Keep in mind in this statement we have established THE REAL GIFT POINT for providing real service. The Real Gift Point produced 100% handmade bamboo’s products. In the current market context importance of handcraft bamboo’s products increased day by day. We are committed to make many more attractive bamboos’s product and provide better service up to local national and foreign market. 
-
 Party supplier is newly opened store which supply party items mainly the theme based party. Party supplier imports the high quality theme based materials which can be used for different occasion like birthday party, baby shower, bachelors party, and many more... 
 
-Hatemalo Nepali Handicraft is established and aimed to support women who need help for themselves and for their family. Many of the women are unemployed and illiterate; they can’t feed their child properly in a daily basis. We are growing the employment opportunities to them and by selling their handmade products we are growing the number of woman. 
+Kids Zone Nepal Deals in all kinds of baby products in Nepal.You can choose from our big store of bag and accessories and many more. 
 
-**Reliable Tech.** was established in 2003. It is located in Pulchowk, Lalitpur. Main business of Reliable Tech is Power backup, IT, machinery tools and all kind of general office supplies. 
+Our handmade chocolates can be a special gift for your dear ones. We’ve put together a collection of chocolate recipes that we think you will enjoy. These deliciously sensuous chocolates are made with utmost care and passion.
+
+Dear Shoe lovers, to ensure satisfaction of our customers, we have bought varieties of new collection from qualified seller- Shoes Story. This store is a one of the leading company that deals with quality and variety of shoes for ladies. 
+
+Sky Brands Nepal Pvt. Ltd. is one of established DRTV(Direct Response Through Television) Company. It’s located at Mahalaxmi Complex, 4th Floor, Khichapokhari, Kathmandu, Nepal. It’s running from last 5 years. We are dealing the products which is manufactured by Sky Shoes Industry in Nepal & also we import & distribute the products which is advertise in TV infomercial program i.e. health & beauty products. We have franchisee covering all major cities of Nepal. 
+
+Donate To Nepal Links
+
+[ ](http://pmrelief.opmcm.gov.np/default.aspx)
+
+Important Links
+
+[ ](http://www.shop.muncha.com/8136/C/Best-Deals.aspx)
 
 [ ](http://www.shop.muncha.com/Content.aspx?SHOW=HOW_TO_ORDER)
+
+[ ](http://www.shop.muncha.com/Content.aspx?SHOW=EXCHANGE_POLICY)
 
 |    
   
 For 24-7 Customer Service, Call:  
 1-859-215-0093 (USA)     1-888-357-6348 (USA, toll free)     44 0207 078 7349 (UK)     61-(02)-8310-4158 (Australia)     977-1-5535757, 5539414 
 
-Copyright © 2000-2014 Muncha Internet Ventures  
+Copyright © 2000-2015 Muncha Internet Ventures  
 [About Us](http://www.shop.muncha.com/Content.aspx?SHOW=ABOUT_US) • 
 
 [Privacy Policy](http://www.shop.muncha.com/Content.aspx?SHOW=PRIVACY_POLICY) • [FAQ](http://www.shop.muncha.com/Content.aspx?SHOW=FAQ) • Contact Us 
