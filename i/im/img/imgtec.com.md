@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the imgtec.com privacy policy that was archived on 2014-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141204142610id_/http%3A//imgtec.com/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imgtec.com privacy policy that was archived on 2015-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150614012525id_/http%3A//www.imgtec.com/privacypolicy.asp) for the most accurate reproduction.*
 
 # Privacy Policy - Imagination Technologies
 
@@ -98,8 +98,7 @@ You are responsible for protecting against unauthorised access to your password 
 
 The Websites use cookies to collect information. Cookies are small data files which are placed on your computer or other mobile or handheld device (such as smart 'phones or 'tablets') as you browse the Websites. They are used to 'remember' when your computer or device accesses the Website. The cookies are essential to the effective operation of our Websites and to enable to you navigate and use the Websites and shop with us online. Cookies are also used to tailor the Products and services offered and advertised to our customers, both on the Websites and elsewhere.
 
-If you want to find out more information about cookies and how to change settings,  
-please go to [change cookie settings.](http://www.imgtec.com/cookies/change_settings.asp)
+If you want to find out more information about cookies, please go to [cookies.](http://www.imgtec.com/cookies)
 
 ### Changes
 
