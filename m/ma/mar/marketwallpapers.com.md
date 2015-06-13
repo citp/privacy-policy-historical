@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marketwallpapers.com privacy policy that was archived on 2014-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141222211018id_/http%3A//www.marketwallpapers.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marketwallpapers.com privacy policy that was archived on 2015-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150613114214id_/http%3A//www.marketwallpapers.com/privacy.html) for the most accurate reproduction.*
 
 # Full HD wallpaper and background images
 
