@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the movieon.me privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220045707id_/http%3A//movieon.me/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the movieon.me privacy policy that was archived on 2015-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150614015548id_/http%3A//movieon.me/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | MovieOn
 
