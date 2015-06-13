@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the patchworkposse.com privacy policy that was archived on 2014-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141105015513id_/http%3A//www.patchworkposse.com/privacy-policies-disclosures) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the patchworkposse.com privacy policy that was archived on 2015-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150613170531id_/http%3A//www.patchworkposse.com/privacy-policies-disclosures) for the most accurate reproduction.*
 
 # Privacy Policies and Disclosures -
+
+[__  Home](http://www.patchworkposse.com/) / Privacy Policies and Disclosures
 
 **Affiliate Marketing**
 
