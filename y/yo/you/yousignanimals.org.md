@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yousignanimals.org privacy policy that was archived on 2014-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141109101141id_/http%3A//www.yousignanimals.org/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yousignanimals.org privacy policy that was archived on 2015-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150613235638id_/http%3A//www.yousignanimals.org/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy | YouSignAnimals.org
 
@@ -31,7 +31,7 @@ We may use feedback you provide to improve our products and services.
   * _\- To run a promotion, contest, survey or other Site feature_  
 To send Users information they agreed to receive about topics we think will be of interest to them.
   * _\- To send periodic emails_  
-We may use the email address to send User information and updates pertaining to their order. It may also be used to respond to their inquiries, questions, and/or other requests. If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email or User may contact us via our Site.
+We may use the email address to send User information and updates. It may also be used to respond to their inquiries, questions, and/or other requests. If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email or User may contact us via our Site.
 
 
 
@@ -41,7 +41,7 @@ We adopt appropriate data collection, storage and processing practices and secur
 
 ## Sharing your personal information
 
-We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.
+We do not sell, trade, or rent Users personal identification information to others. We do not sell email addresses and any kind of personal data whatsoever!
 
 ## Third party websites
 
