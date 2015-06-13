@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the nsn.com privacy policy that was archived on 2014-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141008024424id_/http%3A//nsn.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nsn.com privacy policy that was archived on 2015-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150613060252id_/http%3A//networks.nokia.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Nokia Networks
 
-This Privacy Policy of [www.nokiasiemensnetworks.com](http://www.nokiasiemensnetworks.com/) OR [nsn.com](http://nsn.com/) has been posted and is effective as of November 17, 2008. At Nokia Solutions and Networks your privacy is important and we are committed to protecting your personal data. As used in this Privacy Policy (this " **Policy** "), the term " **personal data** " means data such as: your name, mailing address, e-mail address, internet service provider, telephone number, or other personal information that may be supplied by you or collected about you according to applicable local legislation. We hope that this Policy helps you understand what kind of personal data, if any, we collect at this site and how we handle and use any such personal data after collection.
+Privacy Policy
+
+This Privacy Policy of [www.nokiasiemensnetworks.com](http://www.nokiasiemensnetworks.com/) OR [nsn.com](http://nsn.com/) OR [networks.nokia.com](http://networks.nokia.com/) has been posted and is effective as of November 17, 2008. At Nokia Solutions and Networks your privacy is important and we are committed to protecting your personal data. As used in this Privacy Policy (this " **Policy** "), the term " **personal data** " means data such as: your name, mailing address, e-mail address, internet service provider, telephone number, or other personal information that may be supplied by you or collected about you according to applicable local legislation. We hope that this Policy helps you understand what kind of personal data, if any, we collect at this site and how we handle and use any such personal data after collection.
 
 **Applicability**  
 By accessing and using this site, your use indicates your agreement with the terms of this Policy.  
