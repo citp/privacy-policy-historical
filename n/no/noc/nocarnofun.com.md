@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nocarnofun.com privacy policy that was archived on 2014-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141221020315id_/http%3A//www.nocarnofun.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nocarnofun.com privacy policy that was archived on 2015-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150614004029id_/http%3A//www.nocarnofun.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | NO Car NO Fun! Muscle Cars and Power Cars!
+# Privacy Policy NO Car NO Fun! Muscle Cars and Power Cars! |
 
 Privacy Policy for [NO Car NO Fun!](https://web.archive.org/%22http://www.nocarnofun.com/%22 "\\"NO").
 
