@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healthywealthynwise.com privacy policy that was archived on 2014-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141115103416id_/http%3A//healthywealthynwise.com/%3Fpage_id%3D15780) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthywealthynwise.com privacy policy that was archived on 2015-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150613035344id_/http%3A//healthywealthynwise.com/%3Fpage_id%3D15780) for the most accurate reproduction.*
 
 # Privacy Policy
 
