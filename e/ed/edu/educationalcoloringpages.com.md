@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the educationalcoloringpages.com privacy policy that was archived on 2014-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140829040929id_/http%3A//educationalcoloringpages.com/pp.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the educationalcoloringpages.com privacy policy that was archived on 2015-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150613111022id_/http%3A//educationalcoloringpages.com/pp.html) for the most accurate reproduction.*
 
-# Privacy Policy | Educational Fun Kids Coloring Pages and Preschool Skills Worksheets
+# Privacy Policy - Educational Fun Kids Coloring Pages and Preschool Skills Worksheets
 
 _1\. Consent for Collection, Use and Disclosure_
 
@@ -18,7 +18,7 @@ We collect the optin name and e-mail address of visitors to our Web page, the e-
 
 This Privacy Policy has been implemented to protect personal information received from customers, and to respond to any inquiries. The Privacy Policy also provides that will use appropriate contractual means to establish a comparable level of protection for personal information which is sent for processing by third parties.
 
- _2\. Purposes for Collecting Personal Information_
+_2\. Purposes for Collecting Personal Information_
 
   * to understand customer needs regarding our services;
   * to develop and provide our web site and our products and services for our customers;
@@ -34,7 +34,7 @@ This Privacy Policy has been implemented to protect personal information receive
 
 
 
- _3\. Limiting the Collection of Personal Information_
+_3\. Limiting the Collection of Personal Information_
 
 The collection of personal information is limited to that information which is necessary for Identified Purposes. This site does not direct to the site, nor does it knowingly collect any personal information from children under the age of Law permitted.
 
@@ -42,7 +42,7 @@ When you visit the web site, a cookie may be placed on your computer or the cook
 
 A cookie is a small amount of information sent from a Web server to your computer. This site does not use cookies for marketing, promotional or advertising purposes, nor does it use cookies to track your Internet activity before or after you leave this Website.
 
- _4\. Disclosure, Processing and Retention_
+_4\. Disclosure, Processing and Retention_
 
 This site does not sell, rent or disclose your personal information to anyone else, except:  
 to ’s employees, independent contractors, subsidiaries, affiliates, consultants, business associates, service providers, suppliers and agents, acting on ’s behalf for any of the following identified purposes:
@@ -51,11 +51,11 @@ As necessary if there is reason to believe that disclosure is necessary to ident
 
 To respond to judicial process and provide information to law enforcement agencies or in connection with an investigation on matters related to public safety, as permitted by law, or otherwise as required by law.
 
- _5\. Accuracy of Personal Information_
+_5\. Accuracy of Personal Information_
 
 We will use reasonable efforts to keep customer personal information accurate for the Identified Purposes and for minimizing the possibility of making inappropriate customer decisions based on such information. Customers are responsible for informing about changes to their personal information by sending an email to support@educationalcoloringpages.com. (subject: update personal information) We will use new or updated personal information received from customers to update records.
 
- _6\. Security Safeguards_
+_6\. Security Safeguards_
 
 Reasonable steps will be take to ensure that all information we collect, use or disclose is accurate, complete, up-to-date and stored in a secure environment accessed only by authorised persons. We will also take reasonable steps to protect personal information held from misuse, loss, unauthorised access, modification and disclosure.
 
@@ -65,11 +65,11 @@ Furthermore we will take reasonable steps to destroy or permanently de-identify 
 
 We will use reasonable efforts to protect customers’ personal information.
 
- _7\. Third-party Advertising_
+_7\. Third-party Advertising_
 
 We allow third-party companies to serve ads and/or collect certain anonymousinformation when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information,browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioural advertising practice or to opt-out of this type of advertising, you can visit www.networkadvertising.org.
 
- _8\. Links to External Sites_
+_8\. Links to External Sites_
 
 This Privacy Policy applies to information collected online of which we have direct and total control of. We do not take any responsibility for our advertisers, outgoing links, or any other part of this site that is not under our direct or total control.. We advise that users read the Privacy Policies of external sites before submitting personal information.
 
