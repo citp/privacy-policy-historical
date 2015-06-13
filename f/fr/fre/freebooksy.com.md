@@ -1,35 +1,35 @@
-> *The following text is extracted and transformed from the freebooksy.com privacy policy that was archived on 2014-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141110155227id_/http%3A//www.freebooksy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freebooksy.com privacy policy that was archived on 2015-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150613230127id_/http%3A//www.freebooksy.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy — Freebooksy - Free Kindle Books
+# Privacy Policy - Freebooksy
 
 **What information do we collect?**
 
-We collect information from you when you register on our site, place an order, subscribe to our newsletter, respond to a survey or fill out a form. 
+We collect information from you when you register on our site, place an order, subscribe to our newsletter, respond to a survey or fill out a form.
 
 When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number or Freeappsy. You may, however, visit our site anonymously.
 
-Google, as a third party vendor, uses cookies to serve ads on your site. Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy..
+Google, as a third party vendor, uses cookies to serve ads on your site. Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
 
  **What do we use your information for?**
 
-Any of the information we collect from you may be used in one of the following ways: 
+Any of the information we collect from you may be used in one of the following ways:
 
-; To personalize your experience  
+To personalize your experience  
 (your information helps us to better respond to your individual needs)
 
-; To improve our website  
+To improve our website  
 (we continually strive to improve our website offerings based on the information and feedback we receive from you)
 
-; To improve customer service  
+To improve customer service  
 (your information helps us to more effectively respond to your customer service requests and support needs)
 
-; To process transactions
+To process transactions
 
 > Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
 
-; To administer a contest, promotion, survey or other site feature
+To administer a contest, promotion, survey or other site feature
 
-; To send periodic emails
+To send periodic emails
 
 > The email address you provide for order processing, may be used to send you information and updates pertaining to your order, in addition to receiving occasional company news, updates, related product or service information, etc.
 
@@ -37,7 +37,7 @@ Note: If at any time you would like to unsubscribe from receiving future emails,
 
  **Do we use cookies?**
 
-Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information
+Yes. Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information.
 
 We use cookies to understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.
 
@@ -63,15 +63,16 @@ By using our site, you consent to our [websites privacy policy](http://www.freep
 
  **Changes to our Privacy Policy**
 
-If we decide to change our privacy policy, we will post those changes on this page. 
+If we decide to change our privacy policy, we will post those changes on this page.
 
-**Contacting Us**
+ **Contacting Us**
 
-If there are any questions regarding this privacy policy you may contact us using the information below. 
+If there are any questions regarding this privacy policy you may contact us using the information below.
 
 http://www.freebooksy.com  
-209 Lloyd Street  
-Carrboro, NC 27510  
+201 W Main St  
+Suite 310  
+Durham, NC, 27701  
 freebooksy@yahoo.com
 
 This policy is powered by Trust Guard, your [PCI compliance](http://www.trust-guard.com/PCI-Compliance-s/65.htm) authority.
