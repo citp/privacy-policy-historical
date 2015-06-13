@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dataprotection.ie privacy policy that was archived on 2014-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141229015516id_/http%3A//www.dataprotection.ie/docs/Privacy-Statement/6.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dataprotection.ie privacy policy that was archived on 2015-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150614001305id_/http%3A//dataprotection.ie/docs/Privacy-Statement/6.htm) for the most accurate reproduction.*
 
 # Privacy Statement - Data Protection Commissioner - Ireland
 
