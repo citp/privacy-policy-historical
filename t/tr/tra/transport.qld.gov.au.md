@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the transport.qld.gov.au privacy policy that was archived on 2014-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141007081042id_/http%3A//tmr.qld.gov.au/Help/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the transport.qld.gov.au privacy policy that was archived on 2015-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150613191501id_/http%3A//www.tmr.qld.gov.au/Help/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy (Department of Transport and Main Roads)
 
@@ -6,28 +6,22 @@
 
 ### Respecting your privacy
 
-The _Information Privacy Act 2009_ (IP Act) regulates the way in which Queensland government agencies must manage personal information. It addresses concerns about any unauthorised use of this information and gives individuals a right of access to personal information held about them. 
+The _Information Privacy Act 2009_ (IP Act) regulates the way in which Queensland government agencies must manage personal information. It addresses concerns about any unauthorised use of this information and gives individuals a right of access to personal information held about them. 
 
-Like other Queensland government agencies, the Department of Transport and Main Roads is required to comply with 11 Information Privacy Principles (IPPs) contained in the IP Act. These IPPs set out how personal information must be collected, stored, used and disclosed.
+Like other Queensland government agencies, the Department of Transport and Main Roads is required to comply with 11 Information Privacy Principles (IPPs) contained in the IP Act. These IPPs set out how personal information must be collected, stored, used and disclosed.
 
 The IP Act defines personal information as:
 
 > _..”information or an opinion, including information or an opinion forming part of a database, whether true or not and whether recorded in a material form or not, about an individual whose identity is apparent, or can reasonably be ascertained, from the information or opinion.”_
 
-For information to be personal information 2 criteria must be satisfied.
+For information to be personal information 2 criteria must be satisfied.
 
   1. It must be about a living individual. 
   2. The individual’s identity must be apparent or reasonably ascertainable from the information.
 
 
 
-To download a copy of this Act, please click on [Information Privacy Act 2009 (PDF, 845 KB)](http://www.legislation.qld.gov.au/LEGISLTN/CURRENT/I/InfoPrivA09.pdf).
-
-### Your personal information
-
-Please note legislation imposes obligations on us in relation to the confidentiality of information. In relation to personal information obtained for a particular purpose, this legislation authorises us to use it for another purpose provided that purpose is directly related to the purpose for which the information was obtained. For example, if you notify us of a change of address for your driver’s licence, we may apply this address to your adult proof of age card or marine licence.
-
-Details about the personal information held by us and the steps we will take to address our obligations under the _Information Privacy Act 2009_ , can be obtained by emailing [privacy@tmr.qld.gov](mailto:privacy@tmr.qld.gov).
+To download a copy of this Act, please click on [Information Privacy Act 2009 (PDF, 845 KB)](http://www.legislation.qld.gov.au/LEGISLTN/CURRENT/I/InfoPrivA09.pdf).
 
 ### When using online services
 
@@ -44,12 +38,14 @@ When you visit this website, our server makes a record of your visit and logs th
 
 No attempt will be made to identify users or their browsing activities except in the unlikely event of an investigation, where a law enforcement agency may request inspection of the activity logs, through appropriate legal processes.
 
+**Please note:** if you notify us of a change of address, this information may also be applied to any other authority that you had that has been issued by us. For example, an adult proof of age card or marine licence.
+
 ### Your emails
 
-If you choose to supply an email address and/or mobile phone/SMS device number, you consent to us retaining that information and you authorise us to use that information for the purposes for which you provided it including:
+If you choose to supply an email address and/or mobile phone/SMS device number, you consent to the use of that information for the purposes for which you provided it including:
 
-  * issuing you with an online access code
-  * responding to your enquiries
+  * issuing you with an online access code 
+  * responding to your enquiries 
   * processing your transaction 
   * sending you information, notices, reminders or updates on Transport and Main Roads products and services. 
 
@@ -57,7 +53,9 @@ If you choose to supply an email address and/or mobile phone/SMS device number, 
 
 Email correspondence sent to this site will be treated as a public record and will be retained as required by relevant legislation.
 
-Your name and address details will not be added to a mailing list nor will we disclose these details to third parties without your consent unless required by law. Email messages may be monitored by the department’s web team for system troubleshooting and maintenance purposes.
+Email messages may be monitored by the department's web team for system troubleshooting and maintenance purposes.
+
+Your name and address details will not be disclosed to a third party without your consent unless required or authorised to do so by law.
 
 ### Cookies
 
@@ -71,11 +69,11 @@ This site contains links to non-Queensland Government websites. The Department o
 
 ### Privacy complaints
 
-If an individual believes that the department has not dealt with their personal information in accordance with the IPPs contained in the IP Act, they may lodge an information privacy complaint. 
+If an individual believes that the department has not dealt with their personal information in accordance with the IPPs contained in the IP Act, they may lodge an information privacy complaint. 
 
 A privacy complaint is a complaint by an individual about an act or practice of a department in relation to the individual’s personal information. 
 
-Privacy complaints made to the department must:
+Privacy complaints made to the department must:
 
   * be written 
   * state an address of the complainant to which notices may be forwarded under the IP Act 
@@ -95,8 +93,8 @@ Brisbane Qld 4001
 Email: | [privacy@tmr.qld.gov.au](mailto:privacy@tmr.qld.gov.au)  
 Phone: | 07 3066 7108  
   
-Or you may lodge your complaint or enquiry online through our [online complaints form](https://web.archive.org/sitecore/content/TMRInternet/Contact-us1.aspx).
+Or you may lodge your complaint or enquiry online through our [online complaints form](https://web.archive.org/Contact-us.aspx).
 
 ### Contact
 
-If you have any queries about our privacy and security practices, please contact [privacy@tmr.qld.gov.au](mailto:privacy@tmr.qld.gov.au).
+If you have any questions the personal information held by us and the steps we take to address our obligations under the _Information Privacy Act 2009_ , please contact [privacy@tmr.qld.gov.au](mailto:privacy@tmr.qld.gov.au).
