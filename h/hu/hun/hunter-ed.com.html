@@ -1,18 +1,26 @@
-<!--The following is the downloaded HTML source of the hunter-ed.com privacy policy that was archived on 2014-12-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141202023854id_/http%3A//www.hunter-ed.com/site/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the hunter-ed.com privacy policy that was archived on 2015-06-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150613115939id_/http%3A//www.hunter-ed.com/site/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" class="hunter-ed landing  js canvas geolocation video audio localstorage sessionstorage texttrackapi track"><!--<![endif]--><head>
     <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge"><script type="text/javascript" async="" src="https://d2dq2ahtl5zl1z.cloudfront.net/analytics.js/v1/hc1ibhbnga/analytics.min.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VgYBUlNUGwIFUVRXDgk="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),u=c.length,f=i(a,o,r),d=0;u>d;d++)c[d].apply(f,n);return f}function a(t,e){u[t]=s(t).concat(e)}function s(t){return u[t]||[]}function c(){return n(e)}var u={};return{on:a,emit:e,create:c,listeners:s,_events:u}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(u){try{r("ierr",[u,(new Date).getTime(),!0])}catch(f){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(4),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(u){"stack"in u&&(t(5),t(3),"addEventListener"in window&&t(1),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(2),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:4,2:7,3:5,4:18,5:6,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],4:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:18,2:19,ee:"QJf3ax",gos:"7eSDFh"}],5:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:19,2:18,ee:"QJf3ax"}],6:[function(t,e){function n(t,e,n){var r=t[0];"string"==typeof r&&(r=new Function(r)),t[0]=o(r,"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:19,2:18,ee:"QJf3ax"}],7:[function(t,e){function n(){c.inPlace(this,d,"fn-")}function r(t,e){c.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}var i=t("ee").create(),a=t(1),s=t(2),c=s(i),u=s(a),f=window.XMLHttpRequest,d=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=i,window.XMLHttpRequest=function(t){var e=new f(t);try{i.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",function(t,e){return e}),e.addEventListener("readystatechange",n,!1)}catch(r){try{i.emit("internal-error",[r])}catch(o){}}return e},window.XMLHttpRequest.prototype=f.prototype,c.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),i.on("send-xhr-start",r),i.on("open-xhr-start",r)},{1:4,2:19,ee:"QJf3ax"}],8:[function(t){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,u="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(u);if(f&&(r.rxSize=f),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(n.cat=d.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r,this.startTime])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,u=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var u=e(o);u&&(r.txSize=u)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",[e])}catch(r){}}};for(var f=0;c>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:9,3:7,4:4,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],9:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&c&&c.body){p.proto="https"===d.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=c.createElement("script");e.src=p.proto+t.agent,c.body.appendChild(e)}}function r(){"complete"===c.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,c=s.document,u="addEventListener",f="attachEvent",d=(""+location).split("?")[0],p=e.exports={offset:i(),origin:d,features:{}};c[u]?(c[u]("DOMContentLoaded",o,!1),s[u]("load",n,!1)):(c[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],18:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],19:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,u;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){f([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return u=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,u],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,u(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,u="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,u?s+o:o,i,s,t))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){f([o,e,n,r])}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){f([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function f(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:18,ee:"QJf3ax"}]},{},["G9z0Bl",3,8]);</script>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"><script src="https://js-agent.newrelic.com/nr-632.min.js"></script><script type="text/javascript" async="" src="https://d2dq2ahtl5zl1z.cloudfront.net/analytics.js/v1/hc1ibhbnga/analytics.min.js"></script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o?o:n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({QJf3ax:[function(e,n){function t(e){function n(n,t,a){e&&e(n,t,a),a||(a={});for(var u=c(n),f=u.length,s=i(a,o,r),p=0;f>p;p++)u[p].apply(s,t);return s}function a(e,n){f[e]=c(e).concat(n)}function c(e){return f[e]||[]}function u(){return t(n)}var f={};return{on:a,emit:n,create:u,listeners:c,_events:f}}function r(){return{}}var o="nr@context",i=e("gos");n.exports=t()},{gos:"7eSDFh"}],ee:[function(e,n){n.exports=e("QJf3ax")},{}],3:[function(e,n){function t(e){return function(){r(e,[(new Date).getTime()].concat(i(arguments)))}}var r=e("handle"),o=e(1),i=e(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(e,n){window.NREUM[n]=t("api-"+n)}),n.exports=window.NREUM},{1:12,2:13,handle:"D5DuLP"}],"7eSDFh":[function(e,n){function t(e,n,t){if(r.call(e,n))return e[n];var o=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return e[n]=o,o}var r=Object.prototype.hasOwnProperty;n.exports=t},{}],gos:[function(e,n){n.exports=e("7eSDFh")},{}],handle:[function(e,n){n.exports=e("D5DuLP")},{}],D5DuLP:[function(e,n){function t(e,n,t){return r.listeners(e).length?r.emit(e,n,t):(o[e]||(o[e]=[]),void o[e].push(n))}var r=e("ee").create(),o={};n.exports=t,t.ee=r,r.q=o},{ee:"QJf3ax"}],id:[function(e,n){n.exports=e("XL7HBI")},{}],XL7HBI:[function(e,n){function t(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:i(e,o,function(){return r++})}var r=1,o="nr@id",i=e("gos");n.exports=t},{gos:"7eSDFh"}],G9z0Bl:[function(e,n){function t(){var e=d.info=NREUM.info,n=f.getElementsByTagName("script")[0];if(e&&e.licenseKey&&e.applicationID&&n){c(p,function(n,t){n in e||(e[n]=t)});var t="https"===s.split(":")[0]||e.sslForHttp;d.proto=t?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=d.proto+e.agent,n.parentNode.insertBefore(r,n)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=e("handle"),c=e(1),u=(e(2),window),f=u.document,s=(""+location).split("?")[0],p={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-632.min.js"},d=n.exports={offset:i(),origin:s,features:{}};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),u.addEventListener("load",t,!1)):(f.attachEvent("onreadystatechange",r),u.attachEvent("onload",t)),a("mark",["firstbyte",i()])},{1:12,2:3,handle:"D5DuLP"}],loader:[function(e,n){n.exports=e("G9z0Bl")},{}],12:[function(e,n){function t(e,n){var t=[],o="",i=0;for(o in e)r.call(e,o)&&(t[i]=n(o,e[o]),i+=1);return t}var r=Object.prototype.hasOwnProperty;n.exports=t},{}],13:[function(e,n){function t(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(0>o?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=t},{}]},{},["G9z0Bl"]);</script>
     <title>Privacy Policy - Hunter Safety Course with Online Exam - Get Your Hunting License or Certification        </title>
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="">
-<meta name="keywords" content="">
-<meta name="robots" content="all">
-            <link rel="stylesheet" href="/assets/css/hunter.min.css?v1462301">
-        <script src="/assets/js/libs.min.js?v1462301"></script>
-                          <script src="//cdn.optimizely.com/js/1996530861.js"></script>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
     
+<meta name="description" content="Hunter Ed is the only website offering the OFFICIAL hunting safety course developed specifically for your state."><meta name="description" content="Hunter Ed is the only website offering the OFFICIAL hunting safety course developed specifically for your state.">
+
+<meta name="robots" content="all">
+        	
+	    	
+	
+    <link rel="stylesheet" href="/assets/css/hunter.min.css?v1462301">
+        <script src="/assets/js/libs.min.js?v1462301"></script>
+
+    <script src="/assets/js/whichbrowser/load.js"></script><script src="/assets/js/whichbrowser/detect.js?ua=Mozilla%2F5.0%20(X11%3B%20Linux%20x86_64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20HeadlessChrome%2F69.0.3494.0%20Safari%2F537.36&amp;e=48&amp;f=127&amp;r=1eron5&amp;w=800&amp;h=600"></script>
+    <script src="/assets/js/whichbrowser/front-matter.js"></script>
+
+                      <script src="//cdn.optimizely.com/js/1996530861.js"></script>
+            
     <script async="" src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
   </head>
@@ -31,7 +39,9 @@
 <header class="navbar navbar-fixed-top" role="banner">
 	<div class="navbar-inner">
 		<div class="container">
-			<a href="/"><h1 class="brand"><span class="logo"></span>Hunter-ed.com</h1></a>
+			<a href="/&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;newhampshire/&#10;&#9;&#9;&#9;&#9;&#9;&#9;">
+				<h1 class="brand"><span class="logo"></span>New Hampshire <span class="hidden-phone">Hunter’s Ed </span>Course </h1>
+			</a>
 			<button type="button" class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
 				<span class="icon-bar"></span>
 				<span class="icon-bar"></span>
@@ -40,6 +50,19 @@
 			<div class="nav-collapse">
 			<nav>
 				<ul class="nav pull-right">
+					<li>
+						<a href="/newhampshire/studyGuide/201031"><i class="icon-book icon-white"></i> Study Guide</a>
+					</li>
+					<li>
+						<a href="/newhampshire/in_person_component.html#replace"><i class="icon-lost-card icon-white"></i> Lost Your Card?</a>
+					</li>
+					<li>
+						<a href="/newhampshire/faq"><i class="icon-question-sign icon-white"></i> FAQs</a>
+					</li>
+			
+					<li>
+						<a href="/register/create" class="btn btn-success">Register</a>
+					</li>
 					<li>
 						<a href="/site/login" class="btn btn-primary">Log In</a>
 					</li>
@@ -82,8 +105,8 @@
 				<p>We do not share, sell, or otherwise distribute information about individual users taking the online hunting safety exam with any third party, or any outside companies or organizations except the agency in your state that is responsible for hunting.</p>
 				
 				<h2>Identity Theft and Security</h2>
-				<p>All of your personal and credit card information is collected using SSL (Secure Socket Layer) Protocol, which encrypts your information and allows that information to be securely transferred to Bowhunter Ed. The SSL Certificate that protects the Bowhunter Ed site ensures that your identity is authenticated and that any and all information you enter on our website is private. After collection, your information is then stored on our servers at a location designed specifically to ensure that no unauthorized individuals have access to the server or its data.</p>
-								
+				<p>All of your personal and credit card information is collected using SSL (Secure Socket Layer) Protocol, which encrypts your information and allows that information to be securely transferred to Hunter Ed. The SSL Certificate that protects the Hunter Ed site ensures that your identity is authenticated and that any and all information you enter on our website is private. After collection, your information is then stored on our servers at a location designed specifically to ensure that no unauthorized individuals have access to the server or its data.</p>
+				<script src="https://seal.godaddy.com/getSeal?sealID=LvzggP1z5OWVf5vtS5beTFIINnX9ryeURnxJ2ZhiVHoEBPh70zrmkjhlIMoO"></script>				
 				<h2>Children and Privacy</h2>
 				<p><b>Hunter Ed</b> encourages parents and guardians to spend time with their children online, and to be familiar with the sites their children visit. <b>Hunter Ed</b> fully complies with the Federal Trade Commission's COPPA Act (Children's Online Privacy Protection Act) and follows state  guidelines for compliance for each hunter education course we offer.</p>
 				<p><strong>Parental access</strong>: Parents of students of any age may contact our Privacy Coordinator at the mailing address provided below if you would like to do any of the following:</p>
@@ -115,8 +138,8 @@
       <div class="container">
 	<div class="page-info row">
 		<div id="about-program" class="span6">
-			<h3>About Hunter Ed</h3>
-			<p><a href="/">Hunter-ed.com</a> is committed to hunter education safety. We work with state agencies to produce a hunter safety education course that’s accurate, interesting, and easy to understand. We provide print and Internet hunting safety courses for more than 35 states.</p>			
+			<a class="hunter-wordmark" title="We are the official provider of recreational safety education materials for all 50 states." rel="external" href="http://www.hunter-ed.com"></a>
+			<p>We provide print and Internet hunting safety courses for more than 35 states. Hunter Ed is committed to hunter education safety. We work with state agencies to produce a hunter safety education course that’s accurate, interesting, and easy to understand. </p>	
 			<div id="social">
 				<h4>Follow us here</h4>
 				<ul>
@@ -132,19 +155,27 @@
 		</div>
 
 		<div id="cross-sell" class="span6">
-			            	<div id="ebook-info"> <img src="/assets/img/falcon.png" alt="Check out this falcon.">
-      <h3><i>Today’s Wildlife Field Identification Guide</i></h3>
-      <p>An outdoor enthusiast must-have, featuring full-color illustrations of the most common wildlife species in the United States and Canada. <b>Available as an .ePub, .mobi, and PDF.</b></p>
-      <div id="buy-ebook"> <a href="http://bookstore.kalkomey.com/collections/hunting/products/todays-wildlife-field-identification-guide" class="btn btn-success">Buy the eBook</a> <span class="text-success">$1.99</span> </div>
-    </div>			            
-        </div>
+                    
+<div id="ebook-info">
+  <h3>Stay Safe and Educated Afield</h3>
+  <img src="/assets/partials/footer/cross-sell/img/ebook_covers/northeast.jpg" alt="" cover="" title=" cover">  <p>Learn more about common wildlife species with the <em><a href="http://bookstore.kalkomey.com/collections/hunting/products/todays-wildlife-field-identification-guide" target="_blank">Today's Wildlife Field Identification Guide</a></em> eBook, and stay up to date with hunting laws and safety guidelines with the <em><a href="http://bookstore.kalkomey.com/collections/hunting/products/todays-hunter-northeast" target="_blank">Today's Hunter Northeast</a></em> eBook. <strong>Ebooks are available as an .ePub, .mobi, and PDF.</strong></p>
+  <div id="buy-ebook"> <a href="http://bookstore.kalkomey.com/collections/hunting" class="btn btn-success">Visit Bookstore</a> </div>
+</div>
+                </div>
     </div>
 
 	<nav>
 		<ul>
 			<li class="top"><a href="#top">Top ⬆</a></li>
-				<li><a href="/site/login">Log In</a></li>
-			<li><a href="/#select-your-state">Select Your State</a></li>
+				<li><a href="/newhampshire/">Home</a></li>
+			<li><a href="/newhampshire/faq/">FAQs</a></li>
+					<li><a href="/studyGuide/index">Study Guide</a></li>
+			<li><a href="/register/create/201031?default_course=201031">Register</a></li>
+			<li><a href="/site/login">Log In</a></li>
+					<li data-action="email_customer_service"><a href="#">Send Us An E-mail</a></li>
+			<li><a href="/site/contact/">Customer Service</a></li>
+            <li><a href="/partners/">Partners</a></li>
+			<li><a href="/#select-your-state">Select Another State Course</a></li>
 			</ul>
 	</nav>
 
@@ -156,7 +187,7 @@
 		        <li><a title="Official State Bowhunter License Courses" class="bowhunter" href="http://www.bowhunter-ed.com">Bowhunting Safety Courses</a></li>
 		        <li><a title="Official State Offroad Vehicle License Courses" class="offroad" href="http://www.offroad-ed.com">ATV Safety Education</a></li>
 		        <li><a title="Official State Snowmobile License Courses" class="snowmobile" href="http://www.snowmobile-ed.com">Snowmobile Safety Courses</a></li>
-		        <li><a title="Comprehensive Online Handgun Safety Course" rel="external" class="handgun" href="http://www.handguncourse.com">Handgun Safety Course</a></li>
+		        <li><a title="Comprehensive Online Handgun Safety Course" rel="external" class="handgun" href="http://www.handgunsafetycourse.com">Handgun Safety Course</a></li>
 			</ul>
 		</section>
 
@@ -177,28 +208,86 @@
 			<p>We provide support Monday through Friday from 8:30 a.m. to midnight CST and Saturday and Sunday from 8:30 a.m. to 4:30 p.m. CST.</p>
 			<ul>
 			  <li><b>phone:</b> 1-800-830-2268</li>
-				<li><b>e-mail:</b> <a href="mailto:webmaster@hunter-ed.com?subject=Webmaster%20Inquiry">Hunter Ed Customer Service</a></li>
+				<li><b>e-mail:</b> <a href="# " data-action="email_customer_service">Hunter Ed Customer Service</a></li>
 			</ul>		
 		</section>
 	</div>
 
 	<div class="row" id="copyright">
 		<a class="kalkomey-logo" title="We are the official provider of recreational safety education materials for all 50 states." rel="external" href="http://kalkomey.com">Kalkomey Enterprises, Inc.</a>
-		 <small>© 1998—2014 All rights reserved.</small>
+		 <small>© 1998—2015 All rights reserved.</small>
 		 <a href="/site/privacy/">Privacy and Terms of Use.</a>
 	</div>
 </div>    </footer>
     
-	<div class="modal hide fade" style="display:none; background-color:#f9f4e3" id="contact_us_modal">
+  	
+<div class="modal hide fade" style="display:none; background-color:#f9f4e3" id="contact_us_modal">
     <div class="modal-header">
-        <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
-        
+        <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>        
         <h3 style="margin-bottom:0"><span style="margin-right:10px"><img src="/assets/img/marketing/logos/logo_hunter_ed_small.png"></span>Send Us An Email</h3>
     </div>
     <div class="modal-body">
+        <form id="contact_us">
+    <label for="ContactUs[name]">Name</label>
+    <input type="text" id="name" name="ContactUs[name]" required="">
+    <label for="ContactUs[email]">E-mail</label>
+    <input type="text" id="email" name="ContactUs[email]" required="">
+    <label for="ContactUs[issue]">Reason</label>
+    <select name="ContactUs[issue]">
+        <option disabled="disabled" value="" selected="selected">Choose a reason:</option>
+        <option value="No reason."></option>
+        <option value="Other">Other</option>
+        <option value="No reason."></option>
+        <optgroup label="Certificates">
+            <option value="Wrong card was sent">Wrong card was sent</option>
+            <option value="Too many cards received">Too many cards received</option>
+            <option value="Duplicate card requests">Duplicate card requests</option>
+            <option value="PA card reorders">PA card reorders</option>
+            <option value="VA card reorders">VA card reorders</option>
+            <option value="Can card reorders">Canada card reorders</option>
+            <option value="Haven’t received card">Haven’t received card</option>
+        </optgroup>
+        <optgroup label="eBooks">
+            <option value="Thought eBook was a hard copy">Thought eBook was a hard copy</option>
+            <option value="Can’t open an eBook">Can’t open an eBook</option>
+            <option value="Resend eBook">Resend eBook</option>
+        </optgroup>
+        <optgroup label="Courses"> <option value="Forgot username/password">Forgot username/password</option>
+            <option value="Videos/graphics not working">Videos/graphics not working</option>
+            <option value="Correcting student information">Correcting student information</option>
+            <option value="Refunds">Refunds</option>
+            <option value="Are certs reciprocal">Are certs reciprocal</option>
+            <option value="Confirmation box not completely displaying">Confirmation box not completely displaying</option>
+            <option value="Unable to pay">Unable to pay</option>
+            <option value="Duplicate charges">Duplicate charges</option>
+        </optgroup>
+        <optgroup label="EM">
+            <option value="Resend confirmation email">Resend confirmation email</option>
+            <option value="Student not able to registe">Student not able to register</option>
+            <option value="Token not working">Token not working</option>
+            <option value="Cancelling clas">Cancelling class</option>
+            <option value="Refunds">Refunds</option>
+            <option value="VA registrations">VA registrations</option>
+            <option value="Want info on class: where, when, what to bring...">Want info on class: where, when, what to bring...</option>
+            <option value="Not enough classes posted">Not enough classes posted</option>
+            <option value="Duplicate charge">Duplicate charges</option>
+            <option value="Instructor Support">Instructor Support- entering results, class not showing up on Register Ed, username/password, etc</option>
+        </optgroup>
+        <optgroup label="Feedback">
+            <option value="Timers are too long">Timers are too long</option>
+            <option value="Course too long">Course too long</option>
+        </optgroup>
+    </select>
+    <label for="ContactUs[subject]">Subject</label>
+    <input type="text" id="subject" name="ContactUs[subject]" required="">
+    <label for="ContactUs[message]">Message</label>
+    <textarea id="message" rows="6" name="ContactUs[message]" required=""></textarea>
+    <div>
+        <button type="submit" class="btn">Submit</button>
     </div>
+</form>    </div>
 </div>    
-    <script src="/assets/js/common.min.js?v1462301"></script> 
+    <script src="/assets/js/common.min.js?v1462302"></script>
     <script src="/assets/js/landing.min.js?v1462301"></script>
     <script type="text/javascript" src="/assets/js/slick.min.js"></script>
     <script type="text/javascript" src="/assets/js/slider.min.js"></script>
@@ -211,7 +300,9 @@
     
     <script src="//use.typekit.net/soa6uym.js"></script> 
     <script>try{Typekit.load();}catch(e){}</script>
+    	    <script src="/assets/js/contact_customer_service.js"></script>
         
-  <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-4.newrelic.com","licenseKey":"e9cf630f5c","applicationID":"1555598","transactionName":"ZgRWMUtSCxIFAUwNV19OdQZNWgoPSzFREF1yDloRS1wJDQEQFxRKWBdVBkA=","queueTime":0,"applicationTime":9,"ttGuid":"","agentToken":"","atts":"SkNVRwNIGBw=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-476.min.js"}</script>
+  <script type="text/javascript" src="/assets/js/whichbrowser/form.js"></script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"93be073460","applicationID":"8068785","transactionName":"MwBRYRcCVhJYVEMMCQpKclYRClcPFmReEQMnCl1BFwxUDVxFGBUUDRNSVhw=","queueTime":0,"applicationTime":16,"atts":"H0dSF18YRRw=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-632.min.js"}</script>
 
-<script src="https://js-agent.newrelic.com/nr-476.min.js"></script></body></html>
+</body></html>
