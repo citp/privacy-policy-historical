@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the windowsphonehub.in privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120005444id_/http%3A//windowsphonehub.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the windowsphonehub.in privacy policy that was archived on 2015-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150613234111id_/http%3A//windowsphonehub.in/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - WindowsPhoneHub - Windows Phone Games & Apps Xap Downloads
+# Privacy Policy - Windowsphonehub
 
 **Privacy Policy**
 
@@ -22,9 +22,9 @@ Our Site may use “cookies” to enhance User experience. User’s web browser 
 
 Windows Phone Hub may collect and use Users personal information for the following purposes:
 
-  * _\- To improve our Site_  
+  * _– To improve our Site_  
 We may use feedback you provide to improve our products and services.
-  * _\- To send periodic emails_  
+  * _– To send periodic emails_  
 If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
 
 
@@ -61,7 +61,6 @@ If you have any questions about this Privacy Policy, the practices of this site,
 [Windows Phone Hub](http://windowsphonehub.in/)  
 [http://windowsphonehub.in](http://windowsphonehub.in/)  
 Bangalore  
-918050308654  
-vishnusuhas@live.com
+Wp8hub@gmail.com
 
-This document was last updated on August 28, 2013
+This document was last updated on Feb 01, 2015
