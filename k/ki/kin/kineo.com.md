@@ -1,6 +1,12 @@
-> *The following text is extracted and transformed from the kineo.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220164811id_/http%3A//www.kineo.com/disclaimer) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kineo.com privacy policy that was archived on 2015-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150614000424id_/http%3A//www.kineo.com/disclaimer) for the most accurate reproduction.*
 
 # Disclaimer & Website Policies
+
+### You are currently viewing the UK version of kineo.com
+
+Would you like to switch to your local site?
+
+[ __Yes please!](https://web.archive.org/us/disclaimer)
 
 City & Guilds Kineo is committed to protecting your privacy. We abide by the Data Protection Acts to protect information about our clients. By using the City & Guilds Kineo website, you consent to the collection and use of information by City & Guilds Kineo, as described below.
 
