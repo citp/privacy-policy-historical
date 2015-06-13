@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the betterexplained.com privacy policy that was archived on 2014-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141111130051id_/http%3A//betterexplained.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the betterexplained.com privacy policy that was archived on 2015-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150613033736id_/http%3A//betterexplained.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | BetterExplained
 
