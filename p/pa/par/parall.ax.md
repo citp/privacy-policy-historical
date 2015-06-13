@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the parall.ax privacy policy that was archived on 2014-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140921065648id_/http%3A//parall.ax/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the parall.ax privacy policy that was archived on 2015-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150613135107id_/http%3A//parall.ax/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Parallax
 
