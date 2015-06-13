@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bidnapper.com privacy policy that was archived on 2014-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141221063553id_/https%3A//www.bidnapper.com/privacy.php3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bidnapper.com privacy policy that was archived on 2015-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150613080435id_/https%3A//www.bidnapper.com/privacy.php3) for the most accurate reproduction.*
 
-# Free eBay Auction Sniper.
+# Bidnapper - Free eBay Auction Sniper.
 
 Our policy is to gather and retain as little information on you as possible.
 
@@ -17,3 +17,6 @@ Bidnapper puts a cookie on your computer that identifies you as a registered use
 Payment to Bidnapper is done through our paymaster, Paypal and Stratus. Payer's personal information is not retained by Bidnapper. Payment information is transmitted to and from Paypal and Stratus utilizing Secure Socket Layer encryption software. 
 
 Bidnapper's privacy/security policy is subject to change at any time. Notification of changes to this policy will be made to current users via e-mail. 
+
+eBay is a registered trade mark of eBay, Inc. Bidnapper.com sniper is not affiliated with eBay, Inc.  
+Copyright © Abercrombie Online, 2001-2015 
