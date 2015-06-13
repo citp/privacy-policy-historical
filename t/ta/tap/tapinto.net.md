@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tapinto.net privacy policy that was archived on 2014-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141228131047id_/http%3A//tapinto.net/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tapinto.net privacy policy that was archived on 2015-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150613223932id_/https%3A//tapinto.net/pages/privacy-policy) for the most accurate reproduction.*
 
-# TAPinto
+# TAPinto - NJ Local News, Sports, Schools, Police & Fire, and Government
 
 **PRIVACY POLICY**  
 for TAPinto.net
@@ -17,7 +17,7 @@ When you sign up for THE ALTERNATIVE PRESS LLC's services and/or make a donation
 We manage information with regard to your account status, choice of services, and customer logs. In addition, we may store customers' electronic mail and other communications as a necessary incident to the transmission and delivery of those communications.
 
 **How do we use this information?**  
-We use the contact information you provide us to provide or enhance our service to you. We create and maintain other information such as customer account status, choice of services, and customer logs in the normal course of providing service. THE ALTERNATIVE PRESS LLC may share customer information with selected partners and/or third parties, for example, to provide you with information about products or services which might be of interest to you or to enable you to take advantage of special partner programs. You may instruct us at any time not to share your personal information with third parties by sending us an email message at [contact@thealternativepress.com](mailto:contact@thealternativepress.com).
+We use the contact information you provide us to provide or enhance our service to you. We create and maintain other information such as customer account status, choice of services, and customer logs in the normal course of providing service. THE ALTERNATIVE PRESS LLC may share customer information with selected partners and/or third parties, for example, to provide you with information about products or services which might be of interest to you or to enable you to take advantage of special partner programs. You may instruct us at any time not to share your personal information with third parties by sending us an email message at [contact@tapinto.net](mailto:contact@tapinto.net).
 
 We will not disclose a customer's personal information unless we have reason to believe that disclosing such information is necessary to identify, make contact with, or bring legal action against someone who may be causing harm or interfering with the rights or property of THE ALTERNATIVE PRESS LLC, our customers, or others, or where THE ALTERNATIVE PRESS LLC has a good faith belief that the law requires such disclosure.
 
@@ -35,7 +35,7 @@ THE ALTERNATIVE PRESS LLC retains the right to censor, edit or engage in ongoing
 We provide users the opportunity to opt out of receiving any further communications from us when they receive emails from us. We also give users the option of contacting us at any time to remove their information from our database or to stop future distributions to them of email updates or other information.
 
 You can opt out of any feature by sending an email to [contact@tapinto.net](mailto:contact@tapinto.net), or you can send mail to the following postal address:  
-**The Alternative Press LLC**  
+**TAP Into LLC**  
 P.O. Box 794  
 New Providence, NJ 07974  
 Attn: Website Coordinator
