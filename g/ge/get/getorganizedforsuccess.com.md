@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getorganizedforsuccess.com privacy policy that was archived on 2014-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141108184248id_/http%3A//getorganizedforsuccess.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getorganizedforsuccess.com privacy policy that was archived on 2015-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150613074803id_/http%3A//getorganizedforsuccess.com/privacy.php) for the most accurate reproduction.*
 
 # Get Organized for Success
 
