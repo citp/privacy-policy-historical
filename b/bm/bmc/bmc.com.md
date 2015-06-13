@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bmc.com privacy policy that was archived on 2014-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141225064911id_/http%3A//www.bmc.com/legal/privacy/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bmc.com privacy policy that was archived on 2015-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150614015820id_/http%3A//www.bmc.com/legal/privacy-policy.html) for the most accurate reproduction.*
 
 # BMC Privacy Policy
 
@@ -22,7 +22,7 @@ Passively collected information, including through the use of "cookies" as descr
 
 ### Cookies
 
-BMC Software uses cookies to distinguish you from other users of a BMC Website. This helps us to provide you with a good experience when you browse our websites and also allows us to improve our sites. For detailed information on the type of cookies we use and the purposes for which we use them and how you can control them, read our [BMC Cookie Notice](https://web.archive.org/legal/cookie-notices/). By using this Site, [http://www.bmc.com](http://www.bmc.com/), **or any other BMC Website,** you accept the use of cookies in accordance with the [BMC Cookie Notice](https://web.archive.org/legal/cookie-notices/). If you do not accept the use of cookies, please disable them following the instructions in the Cookie Notice, by using the [Cookie Consent Tool](http://info.evidon.com/pub_info/2841?v=1&nt=1&nw=true) provided by BMC on this Website, or by changing your browser settings so that cookies cannot be placed on your computer or mobile device.
+BMC Software uses cookies to distinguish you from other users of a BMC Website. This helps us to provide you with a good experience when you browse our websites and also allows us to improve our sites. For detailed information on the type of cookies we use and the purposes for which we use them and how you can control them, read our [BMC Cookie Notice](https://web.archive.org/legal/cookie-notice.html). By using this Site, [http://www.bmc.com](http://www.bmc.com/), **or any other BMC Website,** you accept the use of cookies in accordance with the [BMC Cookie Notice](https://web.archive.org/legal/cookie-notice.html). If you do not accept the use of cookies, please disable them following the instructions in the Cookie Notice, by using the [Cookie Consent Tool](http://info.evidon.com/pub_info/2841?v=1&nt=1&nw=true) provided by BMC on this Website, or by changing your browser settings so that cookies cannot be placed on your computer or mobile device.
 
 ### Web Beacons
 
@@ -34,7 +34,7 @@ BMC uses Personal Information You have provided directly or information we colle
 
 For Personal Information You provide directly online, or through email messages, relating to inquiries about products, ordering products, requests for support or services, or downloading products, we use the information to engage in and process transactions with You, to respond to Your inquiries and requests, to provide information on BMC products and services, to provide information on BMC's partners offering BMC's services and products, and to provide customer support activities.  Before we use Your Personal Information, we will give You the opportunity to choose whether or not You allow BMC to use Your Personal Information in such ways described in this Privacy Policy.  You may at any time choose to stop receiving BMC's emails relating to our marketing materials by following the unsubscribing instructions contained in the emails we send to Your attention. You can also unsubscribe by sending an email to [privacy@bmc.com](mailto:privacy@bmc.com) and requesting the removal of Your name from BMC marketing lists.
 
-Some of BMC products and services may be advertised by third parties. In the U.S. and other jurisdictions with similar laws, we will only share Your Personal Information if You have not expressed Your preference by opting out of having Your information shared. In countries that are members of the European Union and all other jurisdictions with similar laws, we will only share Your Personal Information if You have agreed to allow us to share Your information with third parties. You have the opportunity to choose to not receive such marketing materials from third parties by updating Your subscription preferences [here](http://www.bmc.com/forms/BMCPreferenceCenter_EN.html).
+Some of BMC products and services may be advertised by third parties. In the U.S. and other jurisdictions with similar laws, we will only share Your Personal Information if You have not expressed Your preference by opting out of having Your information shared. In countries that are members of the European Union and all other jurisdictions with similar laws, we will only share Your Personal Information if You have agreed to allow us to share Your information with third parties. You have the opportunity to choose to not receive such marketing materials from third parties by updating Your subscription preferences [here](https://web.archive.org/forms/BMCPreferenceCenter_EN_V2.html).
 
 BMC informs You that when You agree for Your information to be shared and used by third parties, then these third parties are responsible for handling Your information. Personal Information You provide online on others’ sites may be provided to third parties working on BMC’s behalf, such as BMC partners, data processors, and advertisers. Therefore, we recommend that You familiarize yourself with their online privacy policies so you understand how BMC partners will use, collect, and handle your information.
 
@@ -48,7 +48,7 @@ For Personal Information submitted online for scheduling training or registering
 
 ### When We Share Your Personal Information
 
-As a global company, BMC shares information for business and marketing purposes only on a need-to-know basis and only with: (a) its own employees, contingent workers, and worldwide offices (<http://www.bmc.com/contacts-locations/worldwide/?intcmp=header_worldwide>) (b) the customer from which BMC received the information; (c) BMC distributors, resellers, third parties software vendors, subcontractors, consultants, and third-party service-provider companies, that have agreed to safeguard such information in a like manner to the way that BMC safeguards such information and that have agreed to confidentiality terms with BMC or that have entered into arrangements with us to provide the services described in this privacy policy; and (d) other entities authorized to have access to such information under applicable law or regulation.
+As a global company, BMC shares information for business and marketing purposes only on a need-to-know basis and only with: (a) its own employees, contingent workers, and worldwide offices ([http://www.bmc.com/contacts-locations/worldwide/](https://web.archive.org/contacts-locations/worldwide/)) (b) the customer from which BMC received the information; (c) BMC distributors, resellers, third parties software vendors, subcontractors, consultants, and third-party service-provider companies, that have agreed to safeguard such information in a like manner to the way that BMC safeguards such information and that have agreed to confidentiality terms with BMC or that have entered into arrangements with us to provide the services described in this privacy policy; and (d) other entities authorized to have access to such information under applicable law or regulation.
 
 BMC may disclose Your Personal Information to protect our rights or property, to enforce our terms of use and legal notices, as required or permitted by law, or at the request of government regulators or other law enforcement officials and the courts (including the issuance of a valid subpoena). We shall have no duty to notify You of such compliance with local law where applicable.
 
@@ -56,7 +56,7 @@ BMC will not use or share Your Personal Information in ways unrelated to those d
 
 ### Our Commitment to Data Integrity and Security
 
-BMC is committed to protecting Your privacy. BMC processes Your Personal Information only in ways compatible with the purpose for which it was collected. To the extent necessary for such purposes, we take reasonable steps to make sure that the information is accurate, complete, current and otherwise reliable with regard to its intended use. However, BMC expects that You will update your Personal Information with BMC as necessary as described in the section above **“How You Can Access or Correct Your Personal Information”.**
+BMC is committed to protecting Your privacy. BMC processes Your Personal Information only in ways compatible with the purpose for which it was collected. To the extent necessary for such purposes, we take reasonable steps to make sure that the information is accurate, complete, current and otherwise reliable with regard to its intended use. However, BMC expects that You will update your Personal Information with BMC as necessary as described in the section above **“[How You Can Access or Correct Your Personal Information](https://webapps.bmc.com/signon/content/logon.jsp)”.**
 
 BMC takes reasonable and appropriate measures to maintain the confidentiality and integrity, and prevent the unauthorized use or disclosure, of information. This includes maintaining a system of appropriate administrative, physical and technical safeguards to secure such information.
 
@@ -66,7 +66,7 @@ This Site may contain links to unaffiliated third party websites. If You link to
 
 ### How You Can Access or Correct Your Personal Information
 
-If You have created an online profile with BMC at https://webapps.bmc.com/signon/content/logon.jsp, You can update Your profile by logging on and following the prompts to update Your Personal Information. Other online registration profiles You may have established at BMC relating to sales, marketing, customer support, training, and event registrations can be updated by following the instructions provided within each profile/account.
+If You have created an online profile with BMC at <https://webapps.bmc.com/signon/content/logon.jsp>, You can update Your profile by logging on and following the prompts to update Your Personal Information. Other online registration profiles You may have established at BMC relating to sales, marketing, customer support, training, and event registrations can be updated by following the instructions provided within each profile/account.
 
 You can also request access to Your Personal information that we collect online and maintain, and update or correct that information, through e-mailing [privacy@bmc.com](mailto:privacy@bmc.com) with the subject line heading of "Privacy Policy Request." To protect Your privacy and security, we will take reasonable steps to verify Your identity before granting access or making corrections.
 
@@ -115,19 +115,3 @@ BMC agrees to cooperate and comply with EU and Switzerland data protection autho
 ### Questions
 
 Questions regarding this Safe Harbor section of this Privacy Policy or requests for access to EU/Swiss Personal Information should be directed to the Safe Harbor Privacy Contact listed in this section. Additional information may be obtained on the US Department of Commerce website at [www.export.gov/safeharbor](http://www.export.gov/safeharbor). In addition, if any individual located in the EU or Switzerland experiences an issue regarding their Personal Information that BMC holds about him or her, the individual may contact the local data protection authority for further information.
-
-### BMC Privacy Contacts:
-
-Global Privacy Officer: | Safe Harbor Contact:  
----|---  
-Jonathan Perez | Jim Klein  
-Global Privacy Officer | Global Security Services Director  
-BMC Software (Paris)  
-Coeur Defense – Tower A  
-100 Esplanade du General De Gaulle  
-92400 Courbevoie – France | BMC Software, Inc.  
-2101 CityWest Blvd.  
-Houston, TX 77042  
-USA  
-**Phone: +33(0) 1-57-00-63-81** | **Phone: +1 (713) 918-1421**  
-| 
