@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the windowsnetworking.com privacy policy that was archived on 2014-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141020222649id_/http%3A//www.windowsnetworking.com/pages/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the windowsnetworking.com privacy policy that was archived on 2015-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150613145403id_/http%3A//www.windowsnetworking.com/pages/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
