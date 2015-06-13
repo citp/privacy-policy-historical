@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the osho.com privacy policy that was archived on 2014-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141224184844id_/http%3A//www.osho.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the osho.com privacy policy that was archived on 2015-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150614004200id_/http%3A//www.osho.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | OSHO | Meditation - Mindfulness and The Science Of The Inner
+# Privacy Policy | OSHO | Meditation - Mindfulness and the Science of the Inner
 
 This policy relates to the privacy practices of Osho Media International Limited (“we”, “our” or “us”) in connection with [ www.osho.com](http://www.osho.com/).  It sets out the basis on which any personal data that you provide to us, in connection with the Website will be processed and disclosed by us, in accordance with Irish data protection legislation.  We are not responsible for the content or privacy practices of other websites.  Any external links to other websites will be clearly identifiable as such.
 
