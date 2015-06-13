@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ecnmag.com privacy policy that was archived on 2014-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141119153238id_/http%3A//www.ecnmag.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ecnmag.com privacy policy that was archived on 2015-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150613145337id_/http%3A//www.ecnmag.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
