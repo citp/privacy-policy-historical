@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the optimum.com privacy policy that was archived on 2014-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141225051948id_/http%3A//www.optimum.net/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the optimum.com privacy policy that was archived on 2015-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150613213617id_/http%3A//www.optimum.net/Privacy) for the most accurate reproduction.*
 
 # Optimum | Protecting Your Privacy
 
