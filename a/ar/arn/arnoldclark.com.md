@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arnoldclark.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120185844id_/http%3A//www.arnoldclark.com/cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arnoldclark.com privacy policy that was archived on 2015-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150613021114id_/http%3A//www.arnoldclark.com/cookies) for the most accurate reproduction.*
 
 # Cookies policy | Arnold Clark
 
@@ -34,6 +34,7 @@ We may disclose your personal information to third parties:
   * If we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets.
   * If Arnold Clark Automobiles Limited or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets.
   * If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our [terms of use](https://web.archive.org/terms-of-use/) and other agreements; or to protect the rights, property, or safety of the [Arnold Clark group](https://web.archive.org/about-us/group-of-companies/), our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction. 
+  * If you use our "Live Chat" function via our partner, Contact At Once, where your information may be collected, used and stored as part of our "Live Chat" service your personal information will be shared with Contact at Once.
 
 
 
