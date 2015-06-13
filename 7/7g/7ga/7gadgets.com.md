@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 7gadgets.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626142435id_/http%3A//www.7gadgets.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 7gadgets.com privacy policy that was archived on 2015-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150613121650id_/http%3A//www.7gadgets.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -16,13 +16,13 @@ Users may opt out of the use of the DART cookie by visiting the Google ad and co
 
 Any of the information we collect from you may be used in one of the following ways:
 
-• To personalize your experience  
+â€¢ To personalize your experience  
 (your information helps us to better respond to your individual needs)
 
-• To improve our website  
+â€¢ To improve our website  
 (we continually strive to improve our website offerings based on the information and feedback we receive from you)
 
-• To send periodic emails
+â€¢ To send periodic emails
 
 > The email address you provide for order processing, will only be used to send you information and updates pertaining to your order.
 
@@ -74,6 +74,5 @@ If we decide to change our privacy policy, we will post those changes on this pa
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-http://www.7gadgets.com
-
+http://www.7gadgets.com  
 office@7gadgets.com
