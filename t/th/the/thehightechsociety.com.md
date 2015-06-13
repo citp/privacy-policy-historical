@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thehightechsociety.com privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123022418id_/http%3A//thehightechsociety.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thehightechsociety.com privacy policy that was archived on 2015-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150613074203id_/http%3A//thehightechsociety.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The High Tech Society
 
@@ -10,7 +10,7 @@ At The High Tech Society we not only respect your privacy concerns, but we also 
 
 The High Tech Society collects both personal and non-personal data.
 
-**Personal Data  **\- We collect personal data such as email and IP addresses, your name, and other contact details when you voluntarily give it to us. This could be signing up for our newsletter, leaving a comment on one of our blog posts, liking or following one of our social pages, or sending us an email. When you do any of these things, you are voluntarily sharing your personal information. We do not use any of this data in any way except for how you intended us to use it when you sent it. So, if you send us an email, the only thing we will do with your data is reply to you. Or if you leave us a comment, we will not use your data in any way. We believe that your personal information is yours so we do not share it, or benefit in any way from it.
+**Personal Data  **– We collect personal data such as email and IP addresses, your name, and other contact details when you voluntarily give it to us. This could be signing up for our newsletter, leaving a comment on one of our blog posts, liking or following one of our social pages, or sending us an email. When you do any of these things, you are voluntarily sharing your personal information. We do not use any of this data in any way except for how you intended us to use it when you sent it. So, if you send us an email, the only thing we will do with your data is reply to you. Or if you leave us a comment, we will not use your data in any way. We believe that your personal information is yours so we do not share it, or benefit in any way from it.
 
 **Anonymous Data**  – The High Tech Society automatically collects anonymous data for analytics purposes. This includes your location, computer and browser, your IP address if this is allowed by your browser, the length of time spent on the site, which pages you visit, your ISP (Internet Service Provider), and if applicable, how you accessed the site. This is for internal purposes only and is not shared in any way.
 
