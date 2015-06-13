@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the seicane.com privacy policy that was archived on 2014-09-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140924120938id_/http%3A//www.seicane.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the seicane.com privacy policy that was archived on 2015-06-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150613091525id_/http%3A//www.seicane.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -131,17 +131,17 @@ _gaq.push(['_trackPageview']);
 <div class="language-switcher">
     <label for="select-language">Choose your language: </label>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
             
-                        <a class="selected" href="http://www.seicane.com/privacy-policy">English</a>&nbsp;&nbsp;    
+                        <a class="selected" href="http://www.seicane.com/privacy-policy/">English</a>&nbsp;&nbsp;    
             
-                        <a class="" href="http://www.seicane.com/fr/privacy-policy">Français</a>&nbsp;&nbsp;    
+                        <a class="" href="http://www.seicane.com/fr/privacy-policy/">Français</a>&nbsp;&nbsp;    
             
-                        <a class="" href="http://www.seicane.com/es/privacy-policy">Español</a>&nbsp;&nbsp;    
+                        <a class="" href="http://www.seicane.com/es/privacy-policy/">Español</a>&nbsp;&nbsp;    
             
-                        <a class="" href="http://www.seicane.com/de/privacy-policy">Deutsch</a>&nbsp;&nbsp;    
+                        <a class="" href="http://www.seicane.com/de/privacy-policy/">Deutsch</a>&nbsp;&nbsp;    
             
-                        <a class="" href="http://www.seicane.com/pt/privacy-policy">Português</a>&nbsp;&nbsp;    
+                        <a class="" href="http://www.seicane.com/pt/privacy-policy/">Português</a>&nbsp;&nbsp;    
             
-                        <a class="" href="http://www.seicane.com/ru/privacy-policy">Русский</a>&nbsp;&nbsp;    
+                        <a class="" href="http://www.seicane.com/ru/privacy-policy/">Русский</a>&nbsp;&nbsp;    
     </div>
 	
 
@@ -149,7 +149,7 @@ _gaq.push(['_trackPageview']);
    <div class="currency-view-switcher">
 	<ul>
 	  <li id="c_currency">
-		<a class="c_currency_RUB">RUB		<div id="btn-dropdown" onmouseover="document.getElementById('c_currency').className +=' c_currency';" onmouseout="document.getElementById('c_currency').className =
+		<a class="c_currency_GBP">£		<div id="btn-dropdown" onmouseover="document.getElementById('c_currency').className +=' c_currency';" onmouseout="document.getElementById('c_currency').className =
    document.getElementById('c_currency').className.replace
       ( /(?:^|\s)c_currency(?!\S)/g , '' )"></div></a>
 
@@ -217,27 +217,47 @@ _gaq.push(['_trackPageview']);
     </div>
 </div>
 
+
 <div class="header-container">
+
     <div class="header">
-                <a href="http://www.seicane.com/" title="Seicane " class="logo" rel="nofollow"><strong>Seicane </strong><img src="http://static.seicane.com/skin/frontend/default/default/images/logo.png" alt="Seicane "></a>
+                <a href="http://www.seicane.com/" title="Seicane " class="logo" rel="nofollow"><strong>Seicane </strong><img src="http://static.seicane.com/skin/frontend/default/seicane2012/images/logo.png" alt="Seicane "></a>
                 <div class="header-middle">
-            
-<form id="search_mini_form" action="http://www.seicane.com/catalogsearch/result/" method="get">
+            <script type="text/javascript">
+//<![CDATA[
+	function do_search(){
+		var search_keyword = document.forms['search_mini_form'].elements['search'].value;
+		search_keyword = search_keyword.replace(/^[\s]+/,'').replace(/[\s]+$/,'').replace(/[\s]{2,}/,' ');
+		if (search_keyword != undefined && search_keyword != ''){
+			search_keyword = search_keyword.replace(/\s/g,"+");
+			location.href  = 'http://www.seicane.com/search/'+search_keyword;
+		}else{
+			alert('Please enter a keyword !');
+		}
+	}
+//]]>
+</script>
+			
+<form id="search_mini_form" action="javascript:do_search();" method="post">
 	<fieldset>
 	   <div id="search_autocomplete"></div><table height="37" cellspacing="0" cellpadding="0" border="0">
 	        <tbody>
 		  <tr>
-
-		    <td id="nav-search-field" align="left" width="280"> <input id="search" type="text" class="input-live-search" name="q" value="" x-webkit-speech=""></td>
+		    <td id="nav-search-field" align="left" width="405"> <input id="search" type="text" class="input-live-search" name="q" value="" x-webkit-speech=""></td>
 		   		   <td align="left" width="45">
-		        <input type="image" class="submit-search" src="http://static.seicane.com/skin/frontend/default/seicane2012/images/nav_searchbar_submit.gif" alt="search">
+
+		         <img class="submit-search" src="http://static.seicane.com/skin/frontend/default/seicane2012/images/nav_searchbar_submit.gif" onclick="return do_search();"> 
 		   </td>
 		   
 		    <td align="center" width="45">
-			      <a href="http://www.seicane.com/catalogsearch/advanced/" class="advanced-search">Advanced<br>Search</a>
+			      
 		   </td>
-		   <td align="right" width="300">
-		       <div><a id="comm100_TextLink" href="http://chatserver.comm100.cn/ChatWindow.aspx?siteId=80057391&amp;planId=2194&amp;partnerId=-1&amp;visitType=1&amp;byHref=1" onclick="comm100_Chat();return false;" target="_blank">Live Chat</a></div>
+		   <td align="right" width="208">
+		   		<div>
+		       		<a id="comm100_TextLink" href="http://chatserver.comm100.cn/ChatWindow.aspx?siteId=80057391&amp;planId=2194&amp;partnerId=-1&amp;visitType=1&amp;byHref=1" onclick="comm100_Chat();return false;" target="_blank">Live Chat</a>
+		       		<script src="http://chatserver.comm100.cn/js/LiveChat.js?siteId=80057391&amp;planId=2194&amp;partnerId=-1" type="text/javascript"></script>
+		       		
+		       	</div>
 		   </td>
 			
 			
@@ -257,7 +277,7 @@ _gaq.push(['_trackPageview']);
     <ul class="term-list">
         <li class="icon-term">Popular Searches: </li>
 	            <li><a href="http://www.seicane.com/search/bmw+e60+gps">bmw e60 gps</a>,</li>
-              <li><a href="http://www.seicane.com/search/w220+mercedes+radio">w220 mercedes radio</a>,</li>
+              <li><a href="http://www.seicane.com/search/mercedes+benz+a-class">mercedes benz a-class</a>,</li>
               <li><a href="http://www.seicane.com/search/mercedes+w211">mercedes w211</a>,</li>
               <li><a href="http://www.seicane.com/search/audi+a4+android">audi a4 android</a>,</li>
           <li><a href="http://www.seicane.com/catalogsearch/term/popular/">More »</a></li>
@@ -287,7 +307,7 @@ return (reltg != handler);
 															<li class="trigger">								  
 												
 						  <a class="level1-1" href="http://www.seicane.com/in-dash-car-dvd-gps">  In-Dash Car DVD GPS							
-						     <span>(519)</span>	        
+						     <span>(1217)</span>	        
 						  </a> 									
 						  													
 			          					          
@@ -299,77 +319,77 @@ return (reltg != handler);
 								   </li>
 			    		     								   <li>
 								       <a href="http://www.seicane.com/in-dash-car-dvd-gps/car-dvd-player-for-audi">for  Audi 								
-								       <span>(48)</span>							
+								       <span>(81)</span>							
 								       </a>					 
 								   </li>
 			    		     								   <li>
 								       <a href="http://www.seicane.com/in-dash-car-dvd-gps/car-dvd-player-for-bmw">for  BMW 								
-								       <span>(64)</span>							
+								       <span>(100)</span>							
 								       </a>					 
 								   </li>
 			    		     								   <li>
 								       <a href="http://www.seicane.com/in-dash-car-dvd-gps/car-dvd-player-for-buick">for Buick 								
-								       <span>(7)</span>							
+								       <span>(13)</span>							
 								       </a>					 
 								   </li>
 			    		     								   <li>
 								       <a href="http://www.seicane.com/in-dash-car-dvd-gps/car-dvd-player-for-chevrolet">for Chevrolet 								
-								       <span>(21)</span>							
+								       <span>(46)</span>							
 								       </a>					 
 								   </li>
 			    		     								   <li>
 								       <a href="http://www.seicane.com/in-dash-car-dvd-gps/car-dvd-player-for-chrysler">for Chrysler								
-								       <span>(3)</span>							
+								       <span>(9)</span>							
 								       </a>					 
 								   </li>
 			    		     								   <li>
 								       <a href="http://www.seicane.com/in-dash-car-dvd-gps/car-dvd-player-for-citroen">for Citroen								
-								       <span>(0)</span>							
+								       <span>(4)</span>							
 								       </a>					 
 								   </li>
 			    		     								   <li>
 								       <a href="http://www.seicane.com/in-dash-car-dvd-gps/car-dvd-player-for-dodge">for Dodge								
-								       <span>(1)</span>							
+								       <span>(15)</span>							
 								       </a>					 
 								   </li>
 			    		     								   <li>
 								       <a href="http://www.seicane.com/in-dash-car-dvd-gps/car-dvd-player-for-fiat">for Fiat 								
-								       <span>(6)</span>							
+								       <span>(13)</span>							
 								       </a>					 
 								   </li>
 			    		     								   <li>
 								       <a href="http://www.seicane.com/in-dash-car-dvd-gps/car-dvd-player-for-ford">for Ford 								
-								       <span>(13)</span>							
+								       <span>(55)</span>							
 								       </a>					 
 								   </li>
 			    		     								   <li>
 								       <a href="http://www.seicane.com/in-dash-car-dvd-gps/car-dvd-player-for-gmc">for GMC 								
-								       <span>(7)</span>							
-								       </a>					 
-								   </li>
-			    		     								   <li>
-								       <a href="http://www.seicane.com/in-dash-car-dvd-gps/car-dvd-player-for-honda">for Honda 								
 								       <span>(13)</span>							
 								       </a>					 
 								   </li>
 			    		     								   <li>
+								       <a href="http://www.seicane.com/in-dash-car-dvd-gps/car-dvd-player-for-honda">for Honda 								
+								       <span>(40)</span>							
+								       </a>					 
+								   </li>
+			    		     								   <li>
 								       <a href="http://www.seicane.com/in-dash-car-dvd-gps/car-dvd-player-for-hummer">for Hummer 								
-								       <span>(2)</span>							
-								       </a>					 
-								   </li>
-			    		     								   <li>
-								       <a href="http://www.seicane.com/in-dash-car-dvd-gps/car-dvd-player-for-hyundai">for Hyundai 								
-								       <span>(34)</span>							
-								       </a>					 
-								   </li>
-			    		     								   <li>
-								       <a href="http://www.seicane.com/in-dash-car-dvd-gps/car-dvd-player-for-jeep">for Jeep								
 								       <span>(3)</span>							
 								       </a>					 
 								   </li>
 			    		     								   <li>
+								       <a href="http://www.seicane.com/in-dash-car-dvd-gps/car-dvd-player-for-hyundai">for Hyundai 								
+								       <span>(82)</span>							
+								       </a>					 
+								   </li>
+			    		     								   <li>
+								       <a href="http://www.seicane.com/in-dash-car-dvd-gps/car-dvd-player-for-jeep">for Jeep								
+								       <span>(20)</span>							
+								       </a>					 
+								   </li>
+			    		     								   <li>
 								       <a href="http://www.seicane.com/in-dash-car-dvd-gps/car-dvd-player-for-kia">for Kia 								
-								       <span>(26)</span>							
+								       <span>(67)</span>							
 								       </a>					 
 								   </li>
 			    		     								   <li>
@@ -379,7 +399,7 @@ return (reltg != handler);
 								   </li>
 			    		     								   <li>
 								       <a href="http://www.seicane.com/in-dash-car-dvd-gps/car-dvd-player-for-land-rover">for Land Rover 								
-								       <span>(1)</span>							
+								       <span>(2)</span>							
 								       </a>					 
 								   </li>
 			    		     								   <li>
@@ -389,12 +409,12 @@ return (reltg != handler);
 								   </li>
 			    		     								   <li>
 								       <a href="http://www.seicane.com/in-dash-car-dvd-gps/car-dvd-player-for-mazda">for Mazda 								
-								       <span>(16)</span>							
+								       <span>(32)</span>							
 								       </a>					 
 								   </li>
 			    		     								   <li>
 								       <a href="http://www.seicane.com/in-dash-car-dvd-gps/car-dvd-player-for-mercedes-benz">for Mercedes-Benz								
-								       <span>(103)</span>							
+								       <span>(195)</span>							
 								       </a>					 
 								   </li>
 			    		     								   <li>
@@ -404,22 +424,22 @@ return (reltg != handler);
 								   </li>
 			    		     								   <li>
 								       <a href="http://www.seicane.com/in-dash-car-dvd-gps/for-mitsubishi">for Mitsubishi 								
-								       <span>(12)</span>							
+								       <span>(26)</span>							
 								       </a>					 
 								   </li>
 			    		     								   <li>
 								       <a href="http://www.seicane.com/in-dash-car-dvd-gps/car-dvd-player-for-nissan">for Nissan 								
-								       <span>(9)</span>							
+								       <span>(17)</span>							
 								       </a>					 
 								   </li>
 			    		     								   <li>
 								       <a href="http://www.seicane.com/in-dash-car-dvd-gps/car-dvd-player-for-opel">for Opel 								
-								       <span>(4)</span>							
+								       <span>(35)</span>							
 								       </a>					 
 								   </li>
 			    		     								   <li>
 								       <a href="http://www.seicane.com/in-dash-car-dvd-gps/car-dvd-player-for-peugeot">for Peugeot 								
-								       <span>(2)</span>							
+								       <span>(13)</span>							
 								       </a>					 
 								   </li>
 			    		     								   <li>
@@ -429,12 +449,12 @@ return (reltg != handler);
 								   </li>
 			    		     								   <li>
 								       <a href="http://www.seicane.com/in-dash-car-dvd-gps/car-dvd-player-for-porsche">for Porsche 								
-								       <span>(4)</span>							
+								       <span>(7)</span>							
 								       </a>					 
 								   </li>
 			    		     								   <li>
 								       <a href="http://www.seicane.com/in-dash-car-dvd-gps/car-dvd-player-for-renault">for Renault 								
-								       <span>(2)</span>							
+								       <span>(9)</span>							
 								       </a>					 
 								   </li>
 			    		     								   <li>
@@ -444,37 +464,52 @@ return (reltg != handler);
 								   </li>
 			    		     								   <li>
 								       <a href="http://www.seicane.com/in-dash-car-dvd-gps/car-dvd-player-for-seat">for Seat 								
-								       <span>(5)</span>							
+								       <span>(14)</span>							
 								       </a>					 
 								   </li>
 			    		     								   <li>
 								       <a href="http://www.seicane.com/in-dash-car-dvd-gps/car-dvd-player-for-skoda">for Skoda 								
-								       <span>(6)</span>							
+								       <span>(18)</span>							
 								       </a>					 
 								   </li>
 			    		     								   <li>
 								       <a href="http://www.seicane.com/in-dash-car-dvd-gps/car-dvd-player-for-subaru">for Subaru 								
-								       <span>(2)</span>							
+								       <span>(10)</span>							
 								       </a>					 
 								   </li>
 			    		     								   <li>
 								       <a href="http://www.seicane.com/in-dash-car-dvd-gps/car-dvd-player-for-suzuki">for Suzuki 								
-								       <span>(9)</span>							
+								       <span>(19)</span>							
 								       </a>					 
 								   </li>
 			    		     								   <li>
 								       <a href="http://www.seicane.com/in-dash-car-dvd-gps/car-dvd-player-for-toyota">for Toyota 								
-								       <span>(39)</span>							
+								       <span>(114)</span>							
 								       </a>					 
 								   </li>
 			    		     								   <li>
 								       <a href="http://www.seicane.com/in-dash-car-dvd-gps/car-dvd-player-for-volkswagen">for Volkswagen 								
-								       <span>(40)</span>							
+								       <span>(118)</span>							
 								       </a>					 
 								   </li>
 			    		     								   <li>
 								       <a href="http://www.seicane.com/in-dash-car-dvd-gps/car-dvd-player-for-ssangyong">for SSangyong								
-								       <span>(1)</span>							
+								       <span>(15)</span>							
+								       </a>					 
+								   </li>
+			    		     								   <li>
+								       <a href="http://www.seicane.com/in-dash-car-dvd-gps/car-dvd-player-for-great-wall">for Great Wall								
+								       <span>(8)</span>							
+								       </a>					 
+								   </li>
+			    		     								   <li>
+								       <a href="http://www.seicane.com/in-dash-car-dvd-gps/car-dvd-player-for-daewoo">for Daewoo								
+								       <span>(4)</span>							
+								       </a>					 
+								   </li>
+			    		     								   <li>
+								       <a href="http://www.seicane.com/in-dash-car-dvd-gps/car-dvd-player-for-holden">for Holden								
+								       <span>(5)</span>							
 								       </a>					 
 								   </li>
 			    		     			         </ul>          
@@ -483,14 +518,14 @@ return (reltg != handler);
 									<li class="trigger">								  
 												
 						  <a class="level1-2" href="http://www.seicane.com/universal-car-dvd-gps"> Universal Car DVD GPS							
-						     <span>(17)</span>	        
+						     <span>(37)</span>	        
 						  </a> 									
 						  													
 			          					          
 			          <ul class="menu-2">          
 				           								   <li>
 								       <a href="http://www.seicane.com/universal-car-dvd-gps/2-din-car-dvd-gps">2 Din Car DVD  GPS 								
-								       <span>(16)</span>							
+								       <span>(36)</span>							
 								       </a>					 
 								   </li>
 			    		     								   <li>
@@ -504,69 +539,69 @@ return (reltg != handler);
 									<li class="trigger">								  
 												
 						  <a class="level1-3" href="http://www.seicane.com/android-car-dvd-gps"> Android Car DVD GPS							
-						     <span>(141)</span>	        
+						     <span>(523)</span>	        
 						  </a> 									
 						  													
 			          					          
 			          <ul class="menu-3">          
 				           								   <li>
 								       <a href="http://www.seicane.com/android-car-dvd-gps/android-universal-car-dvd-gps">Universal 								
-								       <span>(7)</span>							
+								       <span>(22)</span>							
 								       </a>					 
 								   </li>
 			    		     								   <li>
 								       <a href="http://www.seicane.com/android-car-dvd-gps/android-audi-car-dvd-gps-21">for Audi 								
-								       <span>(13)</span>							
+								       <span>(27)</span>							
 								       </a>					 
 								   </li>
 			    		     								   <li>
 								       <a href="http://www.seicane.com/android-car-dvd-gps/android-bmw-car-dvd-gps-20">for BMW 								
-								       <span>(15)</span>							
+								       <span>(38)</span>							
 								       </a>					 
 								   </li>
 			    		     								   <li>
 								       <a href="http://www.seicane.com/android-car-dvd-gps/android-buick-car-dvd-gps">for Buick 								
-								       <span>(1)</span>							
+								       <span>(5)</span>							
 								       </a>					 
 								   </li>
 			    		     								   <li>
 								       <a href="http://www.seicane.com/android-car-dvd-gps/android-chevrolet-car-dvd-gps">for Chevrolet 								
-								       <span>(2)</span>							
+								       <span>(16)</span>							
 								       </a>					 
 								   </li>
 			    		     								   <li>
 								       <a href="http://www.seicane.com/android-car-dvd-gps/android-ford-car-dvd-gps">for Ford 								
-								       <span>(2)</span>							
+								       <span>(26)</span>							
 								       </a>					 
 								   </li>
 			    		     								   <li>
 								       <a href="http://www.seicane.com/android-car-dvd-gps/android-honda-car-dvd-gps">for Honda 								
-								       <span>(4)</span>							
+								       <span>(17)</span>							
 								       </a>					 
 								   </li>
 			    		     								   <li>
 								       <a href="http://www.seicane.com/android-car-dvd-gps/android-hyundai-car-dvd-gps">for Hyundai 								
-								       <span>(13)</span>							
+								       <span>(28)</span>							
 								       </a>					 
 								   </li>
 			    		     								   <li>
 								       <a href="http://www.seicane.com/android-car-dvd-gps/android-kia-car-dvd-gps">for Kia 								
-								       <span>(8)</span>							
+								       <span>(19)</span>							
 								       </a>					 
 								   </li>
 			    		     								   <li>
 								       <a href="http://www.seicane.com/android-car-dvd-gps/android-mazda-car-dvd-gps">for Mazda 								
-								       <span>(6)</span>							
+								       <span>(9)</span>							
 								       </a>					 
 								   </li>
 			    		     								   <li>
 								       <a href="http://www.seicane.com/android-car-dvd-gps/android-mercedes-benz-car-dvd-gps">for Mercedes-Benz 								
-								       <span>(43)</span>							
+								       <span>(103)</span>							
 								       </a>					 
 								   </li>
 			    		     								   <li>
 								       <a href="http://www.seicane.com/android-car-dvd-gps/android-nissan-car-dvd-gps">for Nissan 								
-								       <span>(2)</span>							
+								       <span>(3)</span>							
 								       </a>					 
 								   </li>
 			    		     								   <li>
@@ -576,17 +611,92 @@ return (reltg != handler);
 								   </li>
 			    		     								   <li>
 								       <a href="http://www.seicane.com/android-car-dvd-gps/android-toyota-car-dvd-gps">for Toyota 								
-								       <span>(13)</span>							
+								       <span>(52)</span>							
 								       </a>					 
 								   </li>
 			    		     								   <li>
 								       <a href="http://www.seicane.com/android-car-dvd-gps/android-volkswagen-car-dvd-gps">for Volkswagen 								
-								       <span>(5)</span>							
+								       <span>(67)</span>							
 								       </a>					 
 								   </li>
 			    		     								   <li>
 								       <a href="http://www.seicane.com/android-car-dvd-gps/for-mitsubishi">for Mitsubishi								
-								       <span>(0)</span>							
+								       <span>(4)</span>							
+								       </a>					 
+								   </li>
+			    		     								   <li>
+								       <a href="http://www.seicane.com/android-car-dvd-gps/android-skoda-car-dvd-gps">for Skoda								
+								       <span>(6)</span>							
+								       </a>					 
+								   </li>
+			    		     								   <li>
+								       <a href="http://www.seicane.com/android-car-dvd-gps/android-ssangyong-car-dvd-gps">for Ssangyong								
+								       <span>(5)</span>							
+								       </a>					 
+								   </li>
+			    		     								   <li>
+								       <a href="http://www.seicane.com/android-car-dvd-gps/android-great-wall-car-dvd-gps">for Great Wall								
+								       <span>(7)</span>							
+								       </a>					 
+								   </li>
+			    		     								   <li>
+								       <a href="http://www.seicane.com/android-car-dvd-gps/android-opel-car-dvd-gps">for Opel								
+								       <span>(22)</span>							
+								       </a>					 
+								   </li>
+			    		     								   <li>
+								       <a href="http://www.seicane.com/android-car-dvd-gps/android-fiat-car-dvd-gps">for Fiat								
+								       <span>(3)</span>							
+								       </a>					 
+								   </li>
+			    		     								   <li>
+								       <a href="http://www.seicane.com/android-car-dvd-gps/android-renault-car-dvd-gps">for Renault								
+								       <span>(4)</span>							
+								       </a>					 
+								   </li>
+			    		     								   <li>
+								       <a href="http://www.seicane.com/android-car-dvd-gps/android-daewoo-car-dvd-gps">for Daewoo								
+								       <span>(4)</span>							
+								       </a>					 
+								   </li>
+			    		     								   <li>
+								       <a href="http://www.seicane.com/android-car-dvd-gps/android-holden-car-dvd-gps">for Holden								
+								       <span>(4)</span>							
+								       </a>					 
+								   </li>
+			    		     								   <li>
+								       <a href="http://www.seicane.com/android-car-dvd-gps/android-dodge-car-dvd-gps">for Dodge								
+								       <span>(1)</span>							
+								       </a>					 
+								   </li>
+			    		     								   <li>
+								       <a href="http://www.seicane.com/android-car-dvd-gps/android-jeep-car-dvd-gps">for Jeep								
+								       <span>(4)</span>							
+								       </a>					 
+								   </li>
+			    		     								   <li>
+								       <a href="http://www.seicane.com/android-car-dvd-gps/android-chrysler-car-dvd-gps">for Chrysler								
+								       <span>(1)</span>							
+								       </a>					 
+								   </li>
+			    		     								   <li>
+								       <a href="http://www.seicane.com/android-car-dvd-gps/android-peugeot-car-dvd-gps">for Peugeot								
+								       <span>(3)</span>							
+								       </a>					 
+								   </li>
+			    		     								   <li>
+								       <a href="http://www.seicane.com/android-car-dvd-gps/android-seat-car-dvd-gps">for Seat								
+								       <span>(6)</span>							
+								       </a>					 
+								   </li>
+			    		     								   <li>
+								       <a href="http://www.seicane.com/android-car-dvd-gps/android-porsche-car-dvd-gps-6">for Porsche								
+								       <span>(3)</span>							
+								       </a>					 
+								   </li>
+			    		     								   <li>
+								       <a href="http://www.seicane.com/android-car-dvd-gps/android-gmc-car-dvd-gps">for GMC								
+								       <span>(3)</span>							
 								       </a>					 
 								   </li>
 			    		     			         </ul>          
@@ -684,7 +794,7 @@ return (reltg != handler);
 									<li class="trigger">								  
 												
 						  <a class="level1-8" href="http://www.seicane.com/car-parts-accessories"> Car Parts Accessories							
-						     <span>(91)</span>	        
+						     <span>(109)</span>	        
 						  </a> 									
 						  													
 			          					          
@@ -707,6 +817,11 @@ return (reltg != handler);
 			    		     								   <li>
 								       <a href="http://www.seicane.com/car-parts-accessories/dvd-dismantling-device">DVD Dismantling Device								
 								       <span>(1)</span>							
+								       </a>					 
+								   </li>
+			    		     								   <li>
+								       <a href="http://www.seicane.com/car-parts-accessories/car-dvr">Car DVR								
+								       <span>(17)</span>							
 								       </a>					 
 								   </li>
 			    		     			         </ul>          
@@ -901,16 +1016,16 @@ To correct inaccuracies in Seicane’s record of your personal information respo
     </div>
     <div class="tags-content">
         <ul class="tags-list">
-                                        <li><a href="http://www.seicane.com/tag/Alfa-Romeo-navigation-system" style="font-size:79.590163934426%;">Alfa Romeo navigation system</a></li>
+                                        <li><a href="http://www.seicane.com/tag/alfa-romeo-navigation-system" style="font-size:79.590163934426%;">Alfa Romeo navigation system</a></li>
             		                            <li><a href="http://www.seicane.com/tag/bmw-e39-navigation-system" style="font-size:75%;">BMW E39 Navigation System</a></li>
-            		                            <li><a href="http://www.seicane.com/tag/E39-DVD-Player" style="font-size:75%;">E39 DVD Player</a></li>
-            		                            <li><a href="http://www.seicane.com/tag/Mercedes-Benz-W203-dvd-navigation" style="font-size:75%;">Mercedes Benz W203 dvd navigation</a></li>
-            		                            <li><a href="http://www.seicane.com/tag/Mercedes-Benz-W203-navigation-system" style="font-size:75%;">Mercedes Benz W203 navigation system</a></li>
-            		                            <li><a href="http://www.seicane.com/tag/Mercedes-benz-android-smart-navigation-system" style="font-size:75%;">Mercedes benz android smart navigation system</a></li>
-            		                            <li><a href="http://www.seicane.com/tag/Mercedes-benz-navigation-system" style="font-size:145%;">Mercedes benz navigation system</a></li>
+            		                            <li><a href="http://www.seicane.com/tag/mercedes-benz-w203-dvd-navigation" style="font-size:75%;">Mercedes Benz W203 dvd navigation</a></li>
+            		                            <li><a href="http://www.seicane.com/tag/mercedes-benz-w203-navigation-system" style="font-size:75%;">Mercedes Benz W203 navigation system</a></li>
+            		                            <li><a href="http://www.seicane.com/tag/mercedes-benz-android-smart-navigation-system" style="font-size:75%;">Mercedes benz android smart navigation system</a></li>
+            		                            <li><a href="http://www.seicane.com/tag/mercedes-benz-navigation-system" style="font-size:145%;">Mercedes benz navigation system</a></li>
             		                            <li><a href="http://www.seicane.com/tag/porsche-navigation-system" style="font-size:77.295081967213%;">Porsche navigation system</a></li>
             		                            <li><a href="http://www.seicane.com/tag/suzuki-navigation-system" style="font-size:76.147540983607%;">Suzuki navigation system</a></li>
             		                            <li><a href="http://www.seicane.com/tag/audi-navigation-system" style="font-size:110.5737704918%;">audi navigation system</a></li>
+            		                            <li><a href="http://www.seicane.com/tag/bmw-e81-navigation-system" style="font-size:77.295081967213%;">bmw E81 navigation system</a></li>
             		        </ul>
         <div class="actions">
             <a href="http://www.seicane.com/tag/list/">View All Tags</a>
@@ -997,7 +1112,7 @@ To correct inaccuracies in Seicane’s record of your personal information respo
 <li class="delivery"><a>dhl ups  ems</a></li>
 </ul>
 </div>
-<div class="clear"></div>      <div id="copyright"><address>© 2011-2013  Seicane Electronics Limited. All Rights Reserved.</address></div>
+<div class="clear"></div>      <div id="copyright"><address>Copyright © 2011-2015 Seicane Electronics Limited. All Rights Reserved.</address></div>
       <div id="google_translate_element">     </div>
 <script type="text/javascript">// <![CDATA[
 function googleTranslateElementInit() {
@@ -1007,8 +1122,38 @@ function googleTranslateElementInit() {
 <script src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit" type="text/javascript"></script>    </div>
 </div>
 
-<script src="http://chatserver.comm100.cn/js/LiveChat.js?siteId=80057391&amp;planId=2194&amp;partnerId=-1" type="text/javascript"></script>            </div>
+<!--
+<script src="http://chatserver.comm100.cn/js/LiveChat.js?siteId=80057391&amp;planId=2194&amp;partnerId=-1" type="text/javascript"></script>
+-->            </div>
 </div>
+
+<a href="#" class="back-to-top"></a>
+<script type="text/javascript">
+    //<![CDATA[
+    (function ($) {
+        $.noConflict();
+		$(document).ready(function() {
+		    var offset = 220;
+		    var duration = 500;
+		    $(window).scroll(function() {
+		        if ($(this).scrollTop() > offset) {
+		            $('.back-to-top').fadeIn(duration);
+		        } else {
+		            $('.back-to-top').fadeOut(duration);
+		        }
+		    });
+		    
+		    $('.back-to-top').click(function(event) {
+		        event.preventDefault();
+		        $('html, body').animate({scrollTop: 0}, duration);
+		        return false;
+		    })
+		});
+
+    })(DRjQuery);
+    //]]>
+</script>
+
 
 
 </body></html>
