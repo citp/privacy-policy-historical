@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sellhealth.com privacy policy that was archived on 2014-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141229172902id_/http%3A//www.sellhealth.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sellhealth.com privacy policy that was archived on 2015-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150613112950id_/http%3A//www.sellhealth.com/privacy.html) for the most accurate reproduction.*
 
 # SellHealth.com - Your Privacy Rights
 
@@ -50,12 +50,4 @@ or
 >  Victoria, British Columbia  
 >  Canada V9A 6X5 
 
-Copyright ©2014 Leading Edge Marketing. All rights reserved.
-
-[](https://web.archive.org/web/20141229172902id_/http%3A//www.sellhealth.com/contact.html)
-
-### Success Stories
-
-I have been an affiliate of SellHealth.com (formerly Leading Edge Cash) for over two years now and **it is the best affiliate program I've ever been in**. I highly recommend SellHealth.com to anyone interested in affiliate marketing.
-
--Brad, Channahon, IL, USA
+Copyright ©2015 Leading Edge Marketing. All rights reserved.
