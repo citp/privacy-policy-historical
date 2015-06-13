@@ -1,86 +1,74 @@
-> *The following text is extracted and transformed from the minimalistbaker.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209044809id_/http%3A//www.minimalistbaker.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the minimalistbaker.com privacy policy that was archived on 2015-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150613081110id_/http%3A//minimalistbaker.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy - Minimalist Baker
 
-Simple Streams llc is committed to protecting your privacy online. This Privacy Policy describes the personal information we collect through minimalistbaker.com, and how we collect and use that information.
+## Privacy Policy
 
-**What information do we collect?**
+By visiting **minimalistbaker.com** , you are consenting to our privacy policy.
 
-When you visit our website you may provide us with two types of information: personal information you knowingly choose to disclose that is collected on an individual basis and website use information collected on an aggregate basis as you and others browse the site.
+### Overview
 
-When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address or credit card information.
+Simple Streams llc is committed to protecting your privacy online. This Privacy Policy describes the personal information we collect through this website at minimalistbaker.com ** ** (the “Site”), and how we collect and use that information.
 
-You may, however, visit our site anonymously.
+The terms “we,” “us,” and “our” refers to Simple Streams llc. The terms “user,” “you,” and “your” refer to site visitors, customers, and any other users of the site.
 
-**1\. What Personal Information do we collect?**
+The term “personal information” is defined as information that you voluntarily provide to us that personally identifies you and/or your contact information, such as your name, phone number, and email address.
 
-_**Registration Information**_  
-You will provide us information about yourself, your firm or company, and your practices when you purchase Minimalist Baker products and services, leave comments, or register for email newsletters and alerts.
+The term “Service” refers to all resource pages available and membership to minimalistbaker.com.
 
-_**Email Information**_  
-If you choose to correspond with us through email, we may retain the content of your email messages together with your email address and our responses.
+Use of minimalistbaker.com, including all materials presented herein and all online services provided by Simple Streams llc is subject to the following Privacy Policy. This Privacy Policy applies to all site visitors, customers, and all other users of the site. By using the Site or Service, you agree to this Privacy Policy, without modification, and acknowledge reading it.
 
-**2\. Website Use Information**
+### Information We Collect
 
-Similar to other commercial websites, this site utilizes a standard technology called “cookies” and Web server logs to collect information about how this site is used. Information gathered through cookies and web server logs may include the date and time of visits, the pages viewed, time spent at this site, and the websites visited just before and just after our site. We, our advertisers and ad serving companies may also use small technology or pieces of code to determine which advertisements and promotions users have seen and how users responded to them.
+This Site only collects the personal information you voluntarily provide to us, which may include:
 
-**What are cookies?**
-
-A cookie is a very small text document, which often includes an anonymous unique identifier. When you visit a website, that site’s computer asks your computer for permission to store this file in a part of your hard drive specifically designated for cookies. Each website can send its own cookie to your browser if your browser’s preferences allow it, but (to protect your privacy) your browser only permits a website to access the cookies it has already sent to you, not the cookies sent to you by other sites. Some of our business partners (e.g., advertisers) use cookies that originate from their sites. We have no access or control over those cookies.
-
-**What do we use your information for?**
-
-We use personal information for purposes of administering and expanding our business activities, providing customer service and making available other products and services to our customers and prospective customers. Occasionally, we may also use the information we collect to notify you about important changes to this website, new services and special offers we think you will find valuable. You may notify us of your desire not to receive these offers by clicking the unsubscribe link contained in each such email.
-
-Any of the information we collect from you may be used in one of the following ways:
-
-_1\. To improve customer service_
-
-Your information helps us to more effectively respond to your customer service requests and support needs.
-
-_2\. To process transactions_
-
-Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
-
-_3\. To send periodic emails_
-
-The email address you provide may be used to send you information, respond to inquiries, and/or other requests or questions.
-
-**How do we protect your information?**
-
-We implement a variety of security measures to maintain the safety of your personal information when you place an order or enter, submit, or access your personal information.
-
-**Do we use cookies?**
-
-As you use this website, the site uses its cookies to differentiate you from other users. In some cases, we also use cookies to prevent you from seeing unnecessary advertisements or requiring you to log in more than is necessary for security. Cookies, in conjunction with our web server’s log files, allow us to calculate the aggregate number of people visiting this site and which parts of the site are most popular. This helps us gather feedback in order to constantly improve this site and better serve our customers. Cookies do not allow us to gather any personal information about you and we do not generally store any personal information that you provided to us in your cookies.
-
-**Do we share any information to outside parties?**
-
-The information we collect is used to improve the content of this site and the quality of our service, and is not shared with or sold to other organizations for commercial purposes. That being said, your information could be shared under the following circumstances:
-
-  * We use third parties to facilitate our business, including, but not limited to, sending email and processing payments. In connection with these offerings and business operations, these third parties may have access to your personal information for use in connection with those business activities.
-  * As we develop our business, we may buy or sell assets or business offerings. Customer, email, and visitor information is generally one of the transferred business assets in these types of transactions.
-  * We may also transfer such information in the course of corporate divestitures, mergers, or any dissolution.
-  * If it becomes necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of our Terms of Service, or as otherwise required by law.
+  * Email Addresses
+  * First and Last Name
+  * Payment information
+  * Username and password for this service
 
 
 
-**Full Disclosure Affiliate Policy**
+The information you provide is used to process transactions, send periodic emails, and improve the service we provide. We do share your information with trusted third parties who assist us in operating our website, conducting our business and servicing clients and visitors. These trusted third parties agree to keep this information confidential. Your personal information will never be shared with unrelated third parties.
 
-Occasionally, we accept forms of cash advertising, sponsorship, paid insertions or other forms of compensation.
+### Activity
 
-The compensation received will never influence the content, topics or posts made on minimalistbaker.com. All advertising is in the form of advertisements generated by a third party ad network.
+We may record information relating to your use of the Site, such as the searches you undertake, the pages you view, your browser type, IP address, requested URL, referring URL, and timestamp information. We use this type of information to administer the Site and provide the highest possible level of service to you. We also use this information in the aggregate to perform statistical analyses of user behavior and characteristics in order to measure interest in and use of the various areas of the Site.
 
-This blog may be compensated to provide opinion on products, services, websites and various other topics. Even though we receive compensation for our posts or advertisements, we always give our honest opinions, findings, beliefs, or experiences on those topics or products. The views and opinions expressed on this blog are purely our own. Any product claim, statistic, quote or other representation about a product or service should be verified with the manufacturer, provider or party in question.
+### Cookies
 
-Minimalistbaker.com does not contain any content which might present a conflict of interest.
+We may send cookies to your computer in order to uniquely identify your browser and improve the quality of our service. The term “cookies” refers to small pieces of information that a website sends to your computer’s hard drive while you are viewing the Site. We may use both session cookies (which expire once you close your browser) and persistent cookies (which stay on your computer until you delete them). You have the ability to accept or decline cookies using your web browser settings. If you choose to disable cookies, some areas of the Site may not work properly or at all.
 
-**Your Consent**
+### Third Party Links
 
-By using our site, you consent to our online privacy policy.
+The Site may contain links to third party websites. Except as otherwise discussed in this Privacy Policy, this document only addresses the use and disclosure of information we collect from you on our Site. Other sites accessible through our site via links or otherwise have their own policies in regard to privacy. We are not responsible for the privacy policies or practices of third parties.
 
-We reserve the right to disclose any information in our log files, as required by law and when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order, or legal process served on our website.
+### Security
 
-We follow generally accepted industry standards to protect the information submitted to us. However, no method of transmission over the Internet, or method of electronic storage is 100% secure. Therefore, while we strive to use commercially acceptable means to protect any information gathered in our log files, we cannot guarantee its absolute security.
+We maintain security measures to protect your personal information from unauthorized access, misuse, or disclosure. However, no exchange of data over the Internet can be guaranteed as 100% secure. While we make every effort to protect your personal information shared with us through our Site, you acknowledge that the personal information you voluntarily share with us through this Site could be
 
-We reserve the right to modify this privacy statement at any time.
+accessed or tampered with by a third party. You agree that we are not responsible for any intercepted information shared through our Site without our knowledge or permission. Additionally, you release us from any and all claims arising out of or related to the use of such intercepted information in any unauthorized manner.
+
+### **Cookie Opt Out**
+
+Gourmet Ads primary ad server is Appnexus and you can opt out of cookies from them by visiting ;  
+<http://appnexus.com/platform-policy#choices> and Opting Out.
+
+You can also opt out of cookies using the Network Advertising Initiative opt-out page at this page;  
+<http://www.networkadvertising.org/choices/>
+
+Finally, you can choose to disable or selectively turn off cookies or third-party cookies in your browser settings.
+
+### Updating Your Information
+
+You may access and correct your personal information and privacy preferences by [contacting us](http://minimalistbaker.com/contact/ "Contact")
+
+### Changes to this Policy
+
+You acknowledge and agree that it is your responsibility to review this Site and this Policy periodically and to be aware of any modifications. We will notify you of any changes to this privacy policy by posting those changes on this page.
+
+### Contact
+
+If you have questions about our privacy policy, please [contact us](http://minimalistbaker.com/contact/ "Contact").
+
+_Updated:  April 2015_
