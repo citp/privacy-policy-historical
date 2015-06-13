@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 10mag.com privacy policy that was archived on 2014-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141216170558id_/http%3A//www.10mag.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 10mag.com privacy policy that was archived on 2015-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150613143905id_/http%3A//www.10mag.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - 10 Magazine Korea
 
