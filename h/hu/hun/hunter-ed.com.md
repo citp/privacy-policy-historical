@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hunter-ed.com privacy policy that was archived on 2014-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141202023854id_/http%3A//www.hunter-ed.com/site/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hunter-ed.com privacy policy that was archived on 2015-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150613115939id_/http%3A//www.hunter-ed.com/site/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Hunter Safety Course with Online Exam - Get Your Hunting License or Certification
 
@@ -20,7 +20,7 @@ We do not share, sell, or otherwise distribute information about individual user
 
 ## Identity Theft and Security
 
-All of your personal and credit card information is collected using SSL (Secure Socket Layer) Protocol, which encrypts your information and allows that information to be securely transferred to Bowhunter Ed. The SSL Certificate that protects the Bowhunter Ed site ensures that your identity is authenticated and that any and all information you enter on our website is private. After collection, your information is then stored on our servers at a location designed specifically to ensure that no unauthorized individuals have access to the server or its data.
+All of your personal and credit card information is collected using SSL (Secure Socket Layer) Protocol, which encrypts your information and allows that information to be securely transferred to Hunter Ed. The SSL Certificate that protects the Hunter Ed site ensures that your identity is authenticated and that any and all information you enter on our website is private. After collection, your information is then stored on our servers at a location designed specifically to ensure that no unauthorized individuals have access to the server or its data.
 
 ## Children and Privacy
 
