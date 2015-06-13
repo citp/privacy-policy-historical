@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the radioshack.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230042940id_/http%3A//www.radioshack.com/privacy-policy/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the radioshack.com privacy policy that was archived on 2015-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150613061357id_/https%3A//www.radioshack.com/privacy-policy/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
