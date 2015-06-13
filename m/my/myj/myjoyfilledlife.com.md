@@ -1,0 +1,26 @@
+> *The following text is extracted and transformed from the myjoyfilledlife.com privacy policy that was archived on 2015-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150613020739id_/http%3A//www.myjoyfilledlife.com/privacy-policy) for the most accurate reproduction.*
+
+# Privacy Policy - My Joy-Filled Life
+
+[](http://www.myjoyfilledlife.com/disclosure/)
+
+This policy is valid from January 12, 2015.
+
+At My Joy-Filled Life, I take your privacy very seriously. I will not use, sell or do anything with your information including name, phone number, email addresses, addresses etc. I will not put any information on spam lists.
+
+If you subscribe to my blog you will not receive spam, only newsletters with posts that offer encouragement, freebies, giveaways, and special offers.  So please feel free to subscribe! If you do not wish to receive my subscription emails at any time please go to the bottom of one of those emails and click the unsubscribe option.
+
+Again, any information you give to My Joy-Filled Life is completely private. If you have any questions feel free to [contact me](mailto:%20srhvl17@gmail.com).  
+Thank you!
+
+**HOW WE USE THIRD-PARTY ONLINE ADVERTISING?**
+
+  1. Some of the advertisements you see on our Website or on emails we deliver to you are delivered by Advertisers who collect non-personally identifiable information about your online activities with the emails we send and/or our Website through the use of cookies, web beacons, and other technologies, in an effort to understand your interests and deliver you advertisements that are tailored to your interests. These Advertisers may include, but are not limited to, Adaptive Media, [Google](http://mandrillapp.com/track/click/30377490/www.google.com?p=eyJzIjoiT0dOT01YQy1ac2pCRjM2dnVDZ0pmMFU0RVdnIiwidiI6MSwicCI6IntcInVcIjozMDM3NzQ5MCxcInZcIjoxLFwidXJsXCI6XCJodHRwOlxcXC9cXFwvd3d3Lmdvb2dsZS5jb21cXFwvaW50bFxcXC9lblxcXC9wb2xpY2llc1xcXC9wcml2YWN5XFxcL1wiLFwiaWRcIjpcIjc4YjE0ZGY5NTM0ZjQyMThiYzJlZmY4YWZhZTRmMmZjXCIsXCJ1cmxfaWRzXCI6W1wiMTBmYTllOGZmZGUzNDc2MzFhOGI5ZmRmMTU1NTUwM2MyOGNjZjkwOVwiXX0ifQ), [Yahoo](http://mandrillapp.com/track/click/30377490/info.yahoo.com?p=eyJzIjoiREI0WmZ4TkFma2lzenJBNjhUNGJ4ZG5sS2dFIiwidiI6MSwicCI6IntcInVcIjozMDM3NzQ5MCxcInZcIjoxLFwidXJsXCI6XCJodHRwOlxcXC9cXFwvaW5mby55YWhvby5jb21cXFwvcHJpdmFjeVxcXC91c1xcXC95YWhvb1xcXC9kZXRhaWxzLmh0bWxcIixcImlkXCI6XCI3OGIxNGRmOTUzNGY0MjE4YmMyZWZmOGFmYWU0ZjJmY1wiLFwidXJsX2lkc1wiOltcIjA1ZDIwM2Y2ODk5YzE2YTE5ZmQ0NzQyYjViMTFkMjAwZDE2OTgzZDVcIl19In0) and Microsoft. The use of cookies, web beacons, and other technologies by these companies is subject to the privacy policies of those third parties. These companies may offer you a way to choose not to have your information used for advertising purposes. You can find out more information by clicking on the company names listed above and following the links to each company’s website.
+  2. In addition, some of these companies are members of the Network Advertising Initiative (“NAI”), which offers a single location to opt out of receiving tailored ads from its member companies. To opt out of information collection by NAI member companies, or to obtain information about the technologies they use or their own privacy policies, please visit the NAI consumer opt out page located at: [http://www.networkadvertising.org/managing/opt_out.asp](http://mandrillapp.com/track/click/30377490/www.networkadvertising.org?p=eyJzIjoiM1hkLWRxdndUbjYtRFN6MVd0aklWTVgyMl8wIiwidiI6MSwicCI6IntcInVcIjozMDM3NzQ5MCxcInZcIjoxLFwidXJsXCI6XCJodHRwOlxcXC9cXFwvd3d3Lm5ldHdvcmthZHZlcnRpc2luZy5vcmdcXFwvbWFuYWdpbmdcXFwvb3B0X291dC5hc3BcIixcImlkXCI6XCI3OGIxNGRmOTUzNGY0MjE4YmMyZWZmOGFmYWU0ZjJmY1wiLFwidXJsX2lkc1wiOltcIjNjMjc0YWZhMzEyNGUwOTE3ZGY3YTMwNzdiOGFjMGZmNjMzZjI0ODJcIl19In0). To opt out of information collected by Quantcast, or to obtain information about the technologies they use or their own privacy policies, please visit the Quantcast consumer opt out page located at: [https://www.quantcast.com/opt-out.](http://mandrillapp.com/track/click/30377490/www.quantcast.com?p=eyJzIjoieVZLc19CS1h3UEJyUHdXeDE0SWFjZjhiUlNFIiwidiI6MSwicCI6IntcInVcIjozMDM3NzQ5MCxcInZcIjoxLFwidXJsXCI6XCJodHRwczpcXFwvXFxcL3d3dy5xdWFudGNhc3QuY29tXFxcL29wdC1vdXRcIixcImlkXCI6XCI3OGIxNGRmOTUzNGY0MjE4YmMyZWZmOGFmYWU0ZjJmY1wiLFwidXJsX2lkc1wiOltcImI4MGI1NmY4MGRlMmJkOWFmMmFmNzc4YjEzYzQ4NzgyMTkwNWM4ZTNcIl19In0)
+  3. Please note that if you choose to opt out of having your information used to deliver advertisements tailored to your interests or demographic, you will continue to see advertisements on our Website, but these advertisements may not be as relevant to you.
+  4. We do not have access to the information that Advertisers may collect, and the information practices of our Advertisers are not covered by this Privacy Policy.
+  5. In addition, we work with third parties to help us track the advertisements that are delivered to you to determine the effectiveness of advertising on our Website. Third parties that use cookies, web beacons and other technologies to assist us with our traffic measurement, research and analytics include, but are not limited to, Comscore, Nielsen and DoubleClick. We do not share personally identifiable information with these third parties.
+
+
+
+Example Bottom Text
