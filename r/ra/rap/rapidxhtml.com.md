@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rapidxhtml.com privacy policy that was archived on 2014-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140927183843id_/http%3A//rapidxhtml.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rapidxhtml.com privacy policy that was archived on 2015-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150613073544id_/http%3A//rapidxhtml.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy & Non Disclosure for PSD to HTML and Wordpress | Convert Designs into Handcoded, W3C valid HTML & CSS | RapidxHTML
 
