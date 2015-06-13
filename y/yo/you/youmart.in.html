@@ -1,0 +1,3061 @@
+<!--The following is the downloaded HTML source of the youmart.in privacy policy that was archived on 2015-06-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150614004220id_/http%3A//www.youmart.in/control/policies) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  <title>Online fresh Meat &amp; Seafood | Buy Meat Online | Buy Fresh Seafood Online | Best Online Grocery Store in Bangalore: YouMart E-Commerce Store</title>
+    <link rel="shortcut icon" href="/images/ofbiz.ico">
+        <script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" src="//connect.facebook.net/en_US/fbds.js"></script><script type="text/javascript" src="/images/jquery/jquery-1.8.3.js"></script>
+        <script type="text/javascript" src="/images/jquery/plugins/datetimepicker/localization/jquery-ui-timepicker-en.js"></script>
+        <script type="text/javascript" src="/images/selectall.js"></script>
+      <link rel="stylesheet" href="/erptheme1/style.css" type="text/css">
+  
+
+    <meta name="description" content="Purchase a variety of fresh meat and seafood online at YouMart. Exclusive range of high-quality food and groceries at YouMart. Buy online in Bangalore.">
+    <meta name="keywords" content="Online Grocery Shopping ,Online Grocery Shopping India,  Youfarm,  Youmart, Online Supermarket , Online Supermarket,  Groceries Online, Grocery Store Bangalore, Online fresh Meat &amp; Seafood,  Buy Meat Online,  Buy Fresh Seafood Online, Best Online Grocery Store in Bangalore,  Online Grocery Shopping India, Online Groceries in Bangalore.">
+  
+  
+<!-- Facebook Conversion Code for Website conversion -->
+<script>(function() {
+  var _fbq = window._fbq || (window._fbq = []);
+  if (!_fbq.loaded) {
+    var fbds = document.createElement('script');
+    fbds.async = true;
+    fbds.src = '//connect.facebook.net/en_US/fbds.js';
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(fbds, s);
+    _fbq.loaded = true;
+  }
+})();
+window._fbq = window._fbq || [];
+window._fbq.push(['track', '6022565339651', {'value':'0.00','currency':'INR'}]);
+</script>
+<noscript><img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/tr?ev=6022565339651&amp;cd[value]=0.00&amp;cd[currency]=INR&amp;noscript=1" /></noscript>
+  	
+<link href="http://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
+<link rel="stylesheet" type="text/css" href="/images/google/css/style.css">
+
+<link rel="stylesheet" href="/erptheme1/css/nav-style.css">
+		<script type="text/javascript" src="http://www.google.com/jsapi"></script>
+		<script type="text/javascript" src="/images/google/js/script.js" async=""></script>
+	 	<script type="text/javascript" src="/erptheme1/js/general.js" async=""></script>
+		
+		
+		
+
+</head>
+<!-- End Template component://ecommerce/webapp/ecomclone/includes/headerHead.ftl -->
+<!-- Begin Template component://common/webcommon/includes/openhtmlbody.ftl -->
+<body onbeforeunload="backupdatecart();">
+<!-- End Template component://common/webcommon/includes/openhtmlbody.ftl -->
+<div id="outer-layout">
+<div id="header">
+<!-- Begin Template component://erptheme1/includes/header.ftl -->
+
+<style>
+	#cart_top_notification{
+		width: 100%;
+		position: fixed;
+		top: 0;
+		left: 0;
+		z-index: 32768;
+		background-color: #E9F0DA;
+		font-family:arial;
+		font-size: 18px;
+		color: #63615E;
+		text-align: center;
+		padding: 15px 0;
+		border-bottom: 1px solid #494A3C;
+		cursor: pointer;
+		display:none;
+	}
+	#cart_top_notification_product{
+		font-size: 20px;
+		font-weight:bold;
+		color:#58595B;
+	}
+</style>
+
+<div id="washoutOrder"></div>
+
+<script type="text/javascript">
+
+   $(document).ready(function ()
+   {
+ 
+     $("#btnShowSimple").click(function (e)
+      {
+         ShowDialog(false);
+         e.preventDefault();
+      });
+
+      $("#btnClose").click(function (e)
+      {
+         HideDialog();
+         e.preventDefault();
+      });
+
+   });
+
+   function ShowDialog(modal)
+   {
+      $("#overlay").show();
+      $("#dialog").fadeIn(300);
+
+      if (modal)
+      {
+         $("#overlay").unbind("click");
+      }
+      else
+      {
+         $("#overlay").click(function (e)
+         {
+            HideDialog();
+         });
+      }
+   }
+
+   function HideDialog()
+   {
+      $("#overlay").hide();
+      $("#dialog").fadeOut(300);
+   }
+       
+</script>
+
+
+
+
+
+<script type="text/javascript">
+	function getCategoryProduct()
+ 		{
+	   var selectedBoxValue=document.advancedsearchform.SEARCH_CATEGORY_ID.value;
+	    var  param = 'categoryId=' + selectedBoxValue;
+                      jQuery.ajax({url: "/control/getProductList",
+         data: param,
+         type: 'post',
+         async: false,
+         success: function(data) {
+          $('#productselect').html(data);
+          getProductsBrands();
+         }
+    });
+   
+}
+
+function getProductsBrands()
+ 		{
+         jQuery.ajax({url: "/control/getProductsBrandsList",
+         data: "",
+         type: 'post',
+         async: false,
+         success: function(data) {
+          $('#brandsselect').html(data);
+         }
+         
+    });
+   
+}
+
+
+	 
+function cart_top_notification(value){ 
+	$("#cart_top_notification").slideDown(400); 
+	document.getElementById('cart_top_notification_product').innerHTML = value; 
+	setTimeout(function(){$("#cart_top_notification").slideUp(400);},3000);
+}
+		
+     
+
+</script>
+<div>
+	<div id="cart_top_notification">
+		Successfully added <span id="cart_top_notification_product">X Product</span> to the cart
+	</div>
+	
+</div>
+<script type="text/javascript">
+             function loadUrl(prodId, url){
+             	 var url = url+getProductIndex(prodId);
+             	/* var res = name_index.split("   P   ");
+	              if(res.length == 2)
+	              {
+	              	url = url+"?name=FT"+res[0]+"&index="+res[1];
+	              }*/
+             	 window.location = url;
+             }
+             function getProductIndex(prodId)
+		 		{
+		 		var res = prodId.split("p_");
+		                  if(res.length == 2)
+		                  {
+		                  	prodId = res[1];
+		                  }
+		                  var datas = "";
+			         jQuery.ajax({url: "/control/getProductIndex?productId="+prodId,
+				         data: "",
+				         type: 'post',
+				         async: false,
+				         success: function(data) {
+				          	datas = data;
+				         }
+			    	});
+			    	return datas;
+				}
+        </script>
+        <script type="text/javascript">
+            function loadBrands(){
+                var brandsSelected= $("#BRAND_NAME").val();
+                var productList = "";
+                var  param = 'brand=' + brandsSelected;
+                jQuery.ajax({url: "/control/autobrandname",
+		         data: param,
+		         type: 'post',
+		         async: false,
+		         success: function(brands) {
+		          brandsList = brands.split(',');
+		         }
+		    	});
+                //Returns the javascript array of sports products for the selected sport.
+                return brandsList;
+            	}
+             function autocompleteBrands(){
+                var brands = loadBrands();
+                $("#BRAND_NAME").autocomplete({
+                     source: brands
+                 });
+             }
+             
+             function changeText()
+             {
+             document.getElementById("SEARCH_STRING").value = 'Category';
+             }
+             function changeText1()
+             {
+             document.getElementById("SEARCH_STRING").value = 'Products';
+             }
+             function changeText2()
+             {
+             document.getElementById("SEARCH_STRING").value = 'Brands';
+             }
+             </script>
+             
+<style>
+.black{color:#605E5E !important;}
+.orange{color:#CC4E06 !important;}
+.green{color:#0D9C4D !important;}
+.black{color:#000000 !important;}
+.maroon{color:#8B2F32 !important;}
+.link-outer{
+	background: none repeat scroll 0 0 #ededed;
+    border-bottom: 1px solid #5d5d5d;
+    float: left;
+    font-family: arial;
+    font-size: 11px;
+    font-weight: bold;
+    padding: 2px;
+    text-align: left !important;
+    width: 100%;
+}
+</style>
+             
+<div id="ecom-header">
+	<div class="topheader">
+		<div class="link-outer">
+			<span class="green">Location: Bangalore </span>  &nbsp; | &nbsp;
+			<span class="black">Cash / Card on Delivery</span> &nbsp;| &nbsp;
+			<span class="orange">Free shipping for orders above  <img style="padding-bottom:5px;" src="/erptheme1/rs.png">&nbsp;500/- </span> &nbsp;|&nbsp; 
+			<span class="maroon">Same day delivery: Order by 1 PM</span>
+			<span class="black" style="float:right;"> (080) 45 45 88 88&nbsp;&nbsp;&nbsp;</span>
+		</div>
+		<div id="left" style="margin-top:4px;">
+	        	<a href="/control/home;jsessionid=9E61DABC029FC38307294AE047BD7914.jvm9?CURRENT_CATALOG_ID=VEGFRUIT&amp;selected=VEGFRUIT"><img src="/erptheme1/youmart.jpg" alt="Logo" style="width:144px; height:65px;"></a>
+	      	
+	      	<div class="topsearch">
+	     	<form name="advancedsearchform1" method="get" action="/control/keywordsearch;jsessionid=9E61DABC029FC38307294AE047BD7914.jvm9">
+	     			<input type="hidden" name="VIEW_SIZE" value="10">
+	  				<input type="hidden" name="PAGING" value="Y">
+	  				<input type="hidden" name="filterBy" value="">
+	  				<input type="hidden" name="sortBy" value="POPULAR_PRD">
+	  				<input type="hidden" name="filterByCategory" value="">
+	  				<ul style="width:100%; float:left; margin-top:3px;">
+		     			<li><div id="productselect"><input type="text" name="SEARCH_STRING" id="SEARCH_STRING" autocomplete="off" class="main-search" onkeyup="autocompleteProducts()" onblur="if (this.value == '') { this.value = 'Search for Items'; }" onfocus="if (this.value == 'Search for Items') {this.value = ''; }" size="40" value="Search for Items"></div>
+		     			
+		     			<div id="suggestions"></div>
+		     			</li>
+		     			<li><input type="image" src="/erptheme1/searchicon.png"></li>
+		     		</ul>
+	     		</form>
+	     	</div>
+	     	
+	     	
+	     	
+   		</div>
+    	
+     	<ul class="rightcart" style="width:360px;float:right;"> 
+		   		<li style="float: right"><span style="float:left; margin-right:10px;"><a href="https://www.youmart.in/control/newcustomer;jsessionid=9E61DABC029FC38307294AE047BD7914.jvm9" class="register123"><img src="/erptheme1/register.png"> </a> </span> <a href="https://www.youmart.in/control/checkLogin/policies;jsessionid=9E61DABC029FC38307294AE047BD7914.jvm9?productCategoryId=" class=""><img src="/erptheme1/login.png"></a></li>
+			
+          
+      	</ul>
+      	<ul class="rightcart">
+      		<li class="cartinfo" onclick="window.location.href='/control/showcart'"><div class="cartinfo-inner"><!-- Begin Screen component://ecommerce/widget/ecomclone/CartScreens.xml#microcart -->
+<!-- Begin Template component://ecommerce/webapp/ecomclone/cart/microcart.ftl -->
+<div id="microcart">
+       <a href="/control/showcart" id="abcxyzhref"><span id="microCartQuantity">0</span> Items,</a><span class="WebRupee">₹</span>&nbsp;<span id="microCartTotal">0.00</span>
+</div>
+<!-- End Template component://ecommerce/webapp/ecomclone/cart/microcart.ftl -->
+<!-- End Screen component://ecommerce/widget/ecomclone/CartScreens.xml#microcart -->
+</div><div class="cartinfo-last"></div></li>
+      	</ul>
+      	<span><img src="/images/app.png" class="appImg"></span>
+	</div>
+    
+    <script>
+		function toggleContent()
+		{
+		
+			if (document.getElementById('content').style.display === 'none')
+			{
+				document.getElementById('content').style.display="block";
+				document.getElementById('location_popup_background').style.display="block";
+				document.getElementById('content2').style.display="none";
+			
+			}
+			else
+			{
+				document.getElementById('content').style.display="none";
+				document.getElementById('content2').style.display="block";
+			}
+		
+			document.getElementById('content1').style.display="none";
+		}
+			
+	</script>
+	
+	
+	
+	
+	<div style="width: 100%;height: 100%;position: fixed;top: 0px;left: 0px;z-index:99999999999;background: black;opacity: 0.8;display: none;" id="location_popup_background"></div>
+    <div id="content" style="display: none;width: 350px;float: left;height: auto;margin-left: 103px;position: fixed;top: 40%;left: 30%;z-index: 999999999999;background:white;">
+    <div>
+    	<span style="float:right;color:black;margin-top:-10px;margin-right:-10px;font-size:13px;font-weight:bold;cursor:pointer;" id="location_popup_close">X</span>
+ 	     <table cellspacing="0" align="center" style="width:150px;margin: 12px auto;">
+		     <tbody><tr><td colspan="2" style="text-align:center"><h3>Location Search</h3> </td></tr>
+			 <tr>
+			     <td class="label" style="padding-top:6px;"><span style="font-weight:normal; font-size:14px !important;">PinCode Number</span></td>
+				
+				 <td><div id="productselect" class="input-field">
+						 <table cellspacing="0" align="center" style="background:#d1d3ab; border-radius:4px; -moz-border-radius:4px; -webkit-border-radius:4px; border:1px solid #b4b46c;">
+							<tbody><tr>
+								<td>
+						           <input type="text" name="locationSearch" id="locationSearch" style="border:none !important;" class="main-search1" value="" onkeypress="return onlyNumbers(event);">
+						        </td>
+						        <td>
+						          <input type="image" style="background:#d1d3ab;" src="/erptheme1/searchicon.png" onclick="return pinNumber();">
+						        </td>
+						    </tr>
+						  </tbody></table>
+				    </div>
+				</td>
+			 </tr>
+	     </tbody></table>   
+	     		<div id="testAreaHidden"></div>
+      </div>
+      <div style="display:none; width:310px; float:left; height:auto; margin-left:20px; " id="content1"></div>
+     </div>
+ <script type="text/javascript">
+ function addInput(){
+ var emailPattern = /^([a-zA-Z0-9_\.\-])+\@(([a-zA-Z0-9\-])+\.)+([a-zA-Z0-9]{2,4})+$/;
+ var emailId = document.getElementById('emailId').value;
+ if (emailId== null || emailId ==''){
+   document.storeEmailform.emailId.focus();
+  alert("Please enter a email address");
+     return false;
+  }
+  else if(!emailPattern.test(emailId)){
+      alert("Please enter a valid email address");
+    document.storeEmailform.emailId.focus();
+    return false;
+  }
+  else{
+  }
+  return true;
+ }
+ </script>
+ 
+ <script type="text/javascript"> 
+    function onlyNumbers(evt){
+		var charCode = (evt.which) ? evt.which : event.keyCode
+         if (charCode > 31 && (charCode < 48 || charCode > 57))
+            return false;
+
+         return true;
+}
+    
+ </script>
+  
+    <div id="right">
+     	<div class="headertopnav">
+	      	<ul class="rightcart">
+	     			<li style="padding:0 0 0 0 !important;"><img src="/erptheme1/location1.jpg" alt="" title=""></li>
+	     			<li><button type="button" id="main-location" style=" font-size:12px; cursor:pointer; padding:4px 0 0 0px; color:#14a155 !important; background:none !important; border:none !important;" onclick="toggleContent()">Location Search</button> <span style="color:#14a155 !important;">|</span> </li>
+	     			<li><img src="/erptheme1/trackorder.jpg" alt="" title=""></li>
+	     			<li><a href="https://www.youmart.in/control/trackOrder;jsessionid=9E61DABC029FC38307294AE047BD7914.jvm9" style="color:#919a0b !important;">Order Tracker |</a> </li>
+	     			<li><img src="/erptheme1/myaccout1.jpg" alt="" title=""></li>
+	     			<li><a href="/control/myaccount;jsessionid=9E61DABC029FC38307294AE047BD7914.jvm9" style="color:#ed670e !important;">My Account  |</a></li>
+	     			<li><img src="/erptheme1/help1.jpg" alt="" title=""></li>
+	     			<li><a href="/control/faqs;jsessionid=9E61DABC029FC38307294AE047BD7914.jvm9" style="color:#903230 !important;">FAQ's</a> </li>
+	     		</ul>
+	     	</div>
+    </div>
+</div>
+<div class="topnav">
+	<div id="ecom-header-bar">
+		<div style="float:left;"><a href="/control/home;jsessionid=9E61DABC029FC38307294AE047BD7914.jvm9"><img src="/erptheme1/home-icon.jpg" alt="home"></a></div>
+		 <nav id="mainmenu">
+	  	<ul id="">
+	  
+			<li id="browseshop" class="has_submenu">
+				<a href="#">Browse Shop <i class="fa fa-sort-desc"></i></a> 
+				<div class="first_div">
+					<ul>
+							
+				 			    <li class="has_submenu_menu">
+				 			   	<a href="/products/FOOD?CURRENT_CATALOG_ID=VEGFRUIT" class="atul">
+				 			 	 Food <i class="fa fa-caret-right"></i></a>
+				 			    	<div class="second_div">
+				 			     		 <ul style="float:left;">
+  				 			     		 	<li class="has_submenu_menu_submenu yes_submenu"><a href="/products/FOOD/BAK_CEREAL?CURRENT_CATALOG_ID=VEGFRUIT">Breakfast &amp; Cereals<i class="fa fa-caret-right"></i></a>
+				 			     		 	  <div class="third_div">
+				 			     		 	  	<ul>
+					 			     		 	  		<li>
+					 			     		 	  			<a href="/products/FOOD/BAK_CEREAL/BREAD_BUNS?CURRENT_CATALOG_ID=VEGFRUIT"> Bread &amp; Buns</a>
+					 			     		 	  		</li>
+					 			     		 	  		<li>
+					 			     		 	  			<a href="/products/FOOD/BAK_CEREAL/CEREALS?CURRENT_CATALOG_ID=VEGFRUIT"> Cereals</a>
+					 			     		 	  		</li>
+					 			     		 	  		<li>
+					 			     		 	  			<a href="/products/FOOD/BAK_CEREAL/FLAKES_MUESLI?CURRENT_CATALOG_ID=VEGFRUIT"> Flakes &amp; Muesli</a>
+					 			     		 	  		</li>
+					 			     		 	  		<li>
+					 			     		 	  			<a href="/products/FOOD/BAK_CEREAL/OATS?CURRENT_CATALOG_ID=VEGFRUIT"> Oats</a>
+					 			     		 	  		</li>
+				 			     		 	  	</ul>
+				 			     		 	  <div class="hassubmenu_img sub_sub_menu_image">
+                                                <img src="/images/categories/linkOne/FOOD.png" width="300" height="495">
+                                             </div>
+				 			     		 	  	</div>
+				 			     		 	</li>
+  				 			     		 	<li class="has_submenu_menu_submenu yes_submenu"><a href="/products/FOOD/BREAD_BAK?CURRENT_CATALOG_ID=VEGFRUIT">Bakery &amp; Cookies<i class="fa fa-caret-right"></i></a>
+				 			     		 	  <div class="third_div">
+				 			     		 	  	<ul>
+					 			     		 	  		<li>
+					 			     		 	  			<a href="/products/FOOD/BREAD_BAK/CAKES?CURRENT_CATALOG_ID=VEGFRUIT"> Cakes</a>
+					 			     		 	  		</li>
+					 			     		 	  		<li>
+					 			     		 	  			<a href="/products/FOOD/BREAD_BAK/COO_BISC?CURRENT_CATALOG_ID=VEGFRUIT"> Cookies &amp; Biscuits</a>
+					 			     		 	  		</li>
+				 			     		 	  	</ul>
+				 			     		 	  <div class="hassubmenu_img sub_sub_menu_image">
+                                                <img src="/images/categories/linkOne/FOOD.png" width="300" height="495">
+                                             </div>
+				 			     		 	  	</div>
+				 			     		 	</li>
+  				 			     		 	<li class="has_submenu_menu_submenu no_submenu"><a href="/products/FOOD/SNACK_WEFR?CURRENT_CATALOG_ID=VEGFRUIT">Snacks &amp; Wafers</a>
+				 			     		 	  <div class="third_div">
+				 			     		 	  	<ul>
+				 			     		 	  	</ul>
+				 			     		 	  <div class="hassubmenu_img sub_sub_menu_image">
+                                                <img src="/images/categories/linkOne/FOOD.png" width="300" height="495">
+                                             </div>
+				 			     		 	  	</div>
+				 			     		 	</li>
+  				 			     		 	<li class="has_submenu_menu_submenu yes_submenu"><a href="/products/FOOD/NOOD_PASTA?CURRENT_CATALOG_ID=VEGFRUIT">Noodles &amp; Pasta<i class="fa fa-caret-right"></i></a>
+				 			     		 	  <div class="third_div">
+				 			     		 	  	<ul>
+					 			     		 	  		<li>
+					 			     		 	  			<a href="/products/FOOD/NOOD_PASTA/NOODLES?CURRENT_CATALOG_ID=VEGFRUIT"> Noodles</a>
+					 			     		 	  		</li>
+					 			     		 	  		<li>
+					 			     		 	  			<a href="/products/FOOD/NOOD_PASTA/PASTA?CURRENT_CATALOG_ID=VEGFRUIT"> Pasta</a>
+					 			     		 	  		</li>
+					 			     		 	  		<li>
+					 			     		 	  			<a href="/products/FOOD/NOOD_PASTA/VERMICELLI?CURRENT_CATALOG_ID=VEGFRUIT"> Vermicelli</a>
+					 			     		 	  		</li>
+				 			     		 	  	</ul>
+				 			     		 	  <div class="hassubmenu_img sub_sub_menu_image">
+                                                <img src="/images/categories/linkOne/FOOD.png" width="300" height="495">
+                                             </div>
+				 			     		 	  	</div>
+				 			     		 	</li>
+  				 			     		 	<li class="has_submenu_menu_submenu yes_submenu"><a href="/products/FOOD/SPREADS_SAUCES?CURRENT_CATALOG_ID=VEGFRUIT">Seasoning, Spreads &amp; Sauces<i class="fa fa-caret-right"></i></a>
+				 			     		 	  <div class="third_div">
+				 			     		 	  	<ul>
+					 			     		 	  		<li>
+					 			     		 	  			<a href="/products/FOOD/SPREADS_SAUCES/JAMS?CURRENT_CATALOG_ID=VEGFRUIT"> Jams</a>
+					 			     		 	  		</li>
+					 			     		 	  		<li>
+					 			     		 	  			<a href="/products/FOOD/SPREADS_SAUCES/KETCHUP?CURRENT_CATALOG_ID=VEGFRUIT"> Ketchup</a>
+					 			     		 	  		</li>
+					 			     		 	  		<li>
+					 			     		 	  			<a href="/products/FOOD/SPREADS_SAUCES/SAUCES?CURRENT_CATALOG_ID=VEGFRUIT"> Sauces</a>
+					 			     		 	  		</li>
+					 			     		 	  		<li>
+					 			     		 	  			<a href="/products/FOOD/SPREADS_SAUCES/SEASONING?CURRENT_CATALOG_ID=VEGFRUIT"> Seasoning</a>
+					 			     		 	  		</li>
+					 			     		 	  		<li>
+					 			     		 	  			<a href="/products/FOOD/SPREADS_SAUCES/SPREADS?CURRENT_CATALOG_ID=VEGFRUIT"> Spreads</a>
+					 			     		 	  		</li>
+				 			     		 	  	</ul>
+				 			     		 	  <div class="hassubmenu_img sub_sub_menu_image">
+                                                <img src="/images/categories/linkOne/FOOD.png" width="300" height="495">
+                                             </div>
+				 			     		 	  	</div>
+				 			     		 	</li>
+  				 			     		 	<li class="has_submenu_menu_submenu yes_submenu"><a href="/products/FOOD/PICKLES?CURRENT_CATALOG_ID=VEGFRUIT">Pickles<i class="fa fa-caret-right"></i></a>
+				 			     		 	  <div class="third_div">
+				 			     		 	  	<ul>
+					 			     		 	  		<li>
+					 			     		 	  			<a href="/products/FOOD/PICKLES/Non-Veg?CURRENT_CATALOG_ID=VEGFRUIT"> Non-Veg Pickle</a>
+					 			     		 	  		</li>
+					 			     		 	  		<li>
+					 			     		 	  			<a href="/products/FOOD/PICKLES/OLIVE_PICKLES?CURRENT_CATALOG_ID=VEGFRUIT"> Olive Pickles</a>
+					 			     		 	  		</li>
+					 			     		 	  		<li>
+					 			     		 	  			<a href="/products/FOOD/PICKLES/Veg_Pickle?CURRENT_CATALOG_ID=VEGFRUIT"> Veg Pickle</a>
+					 			     		 	  		</li>
+				 			     		 	  	</ul>
+				 			     		 	  <div class="hassubmenu_img sub_sub_menu_image">
+                                                <img src="/images/categories/linkOne/FOOD.png" width="300" height="495">
+                                             </div>
+				 			     		 	  	</div>
+				 			     		 	</li>
+  				 			     		 	<li class="has_submenu_menu_submenu no_submenu"><a href="/products/FOOD/DRY_FRUIT?CURRENT_CATALOG_ID=VEGFRUIT">Dry Fruits</a>
+				 			     		 	  <div class="third_div">
+				 			     		 	  	<ul>
+				 			     		 	  	</ul>
+				 			     		 	  <div class="hassubmenu_img sub_sub_menu_image">
+                                                <img src="/images/categories/linkOne/FOOD.png" width="300" height="495">
+                                             </div>
+				 			     		 	  	</div>
+				 			     		 	</li>
+  				 			     		 	<li class="has_submenu_menu_submenu no_submenu"><a href="/products/FOOD/MOUNTH_FRESHNER?CURRENT_CATALOG_ID=VEGFRUIT">Mouth Freshners</a>
+				 			     		 	  <div class="third_div">
+				 			     		 	  	<ul>
+				 			     		 	  	</ul>
+				 			     		 	  <div class="hassubmenu_img sub_sub_menu_image">
+                                                <img src="/images/categories/linkOne/FOOD.png" width="300" height="495">
+                                             </div>
+				 			     		 	  	</div>
+				 			     		 	</li>
+				 			     		 </ul>
+				 			     		 <div class="hassubmenu_img sub_menu_image">
+                                    		<img src="/images/categories/linkOne/FOOD.png" width="300" height="495">
+                               		 	</div>
+									</div> 
+				 			    </li>
+				 			    <li class="has_submenu_menu">
+				 			   	<a href="/products/FOODGROC?CURRENT_CATALOG_ID=VEGFRUIT" class="atul">
+				 			 	 Groceries &amp; Staples <i class="fa fa-caret-right"></i></a>
+				 			    	<div class="second_div">
+				 			     		 <ul style="float:left;">
+  				 			     		 	<li class="has_submenu_menu_submenu no_submenu"><a href="/products/FOODGROC/FLO_SUJI?CURRENT_CATALOG_ID=VEGFRUIT">Flours &amp; Sooji</a>
+				 			     		 	  <div class="third_div">
+				 			     		 	  	<ul>
+				 			     		 	  	</ul>
+				 			     		 	  <div class="hassubmenu_img sub_sub_menu_image">
+                                                <img src="/images/categories/linkOne/FOODGROC.png" width="300" height="495">
+                                             </div>
+				 			     		 	  	</div>
+				 			     		 	</li>
+  				 			     		 	<li class="has_submenu_menu_submenu yes_submenu"><a href="/products/FOODGROC/RICE_PRO?CURRENT_CATALOG_ID=VEGFRUIT">Rice &amp; Rice products<i class="fa fa-caret-right"></i></a>
+				 			     		 	  <div class="third_div">
+				 			     		 	  	<ul>
+					 			     		 	  		<li>
+					 			     		 	  			<a href="/products/FOODGROC/RICE_PRO/BAS_RIC?CURRENT_CATALOG_ID=VEGFRUIT"> Basmati Rice</a>
+					 			     		 	  		</li>
+					 			     		 	  		<li>
+					 			     		 	  			<a href="/products/FOODGROC/RICE_PRO/BOILED_RC?CURRENT_CATALOG_ID=VEGFRUIT"> Boiled Rice</a>
+					 			     		 	  		</li>
+					 			     		 	  		<li>
+					 			     		 	  			<a href="/products/FOODGROC/RICE_PRO/DOSA_IDLI_RICE?CURRENT_CATALOG_ID=VEGFRUIT"> Dosa &amp; Idli Rice</a>
+					 			     		 	  		</li>
+					 			     		 	  		<li>
+					 			     		 	  			<a href="/products/FOODGROC/RICE_PRO/RAW_RICE?CURRENT_CATALOG_ID=VEGFRUIT"> Raw Rice</a>
+					 			     		 	  		</li>
+					 			     		 	  		<li>
+					 			     		 	  			<a href="/products/FOODGROC/RICE_PRO/RICE_SORT_RED_PONNI?CURRENT_CATALOG_ID=VEGFRUIT"> Rice - Bullet, RedBoiled, Ponni, Kolam</a>
+					 			     		 	  		</li>
+					 			     		 	  		<li>
+					 			     		 	  			<a href="/products/FOODGROC/RICE_PRO/RIC_PROD?CURRENT_CATALOG_ID=VEGFRUIT"> Rice Products</a>
+					 			     		 	  		</li>
+					 			     		 	  		<li>
+					 			     		 	  			<a href="/products/FOODGROC/RICE_PRO/STE_RICE?CURRENT_CATALOG_ID=VEGFRUIT"> Steam Rice</a>
+					 			     		 	  		</li>
+				 			     		 	  	</ul>
+				 			     		 	  <div class="hassubmenu_img sub_sub_menu_image">
+                                                <img src="/images/categories/linkOne/FOODGROC.png" width="300" height="495">
+                                             </div>
+				 			     		 	  	</div>
+				 			     		 	</li>
+  				 			     		 	<li class="has_submenu_menu_submenu no_submenu"><a href="/products/FOODGROC/DAL_PULSE?CURRENT_CATALOG_ID=VEGFRUIT">Dal &amp; Pulses</a>
+				 			     		 	  <div class="third_div">
+				 			     		 	  	<ul>
+				 			     		 	  	</ul>
+				 			     		 	  <div class="hassubmenu_img sub_sub_menu_image">
+                                                <img src="/images/categories/linkOne/FOODGROC.png" width="300" height="495">
+                                             </div>
+				 			     		 	  	</div>
+				 			     		 	</li>
+  				 			     		 	<li class="has_submenu_menu_submenu yes_submenu"><a href="/products/FOODGROC/EDI_OILGEE?CURRENT_CATALOG_ID=VEGFRUIT">Edible Oil &amp; Ghee<i class="fa fa-caret-right"></i></a>
+				 			     		 	  <div class="third_div">
+				 			     		 	  	<ul>
+					 			     		 	  		<li>
+					 			     		 	  			<a href="/products/FOODGROC/EDI_OILGEE/GHEE?CURRENT_CATALOG_ID=VEGFRUIT"> Ghee</a>
+					 			     		 	  		</li>
+					 			     		 	  		<li>
+					 			     		 	  			<a href="/products/FOODGROC/EDI_OILGEE/GROUNDNUT_OIL?CURRENT_CATALOG_ID=VEGFRUIT"> Groundnut Oil</a>
+					 			     		 	  		</li>
+					 			     		 	  		<li>
+					 			     		 	  			<a href="/products/FOODGROC/EDI_OILGEE/MUSTARD_OIL?CURRENT_CATALOG_ID=VEGFRUIT"> Mustard Oil</a>
+					 			     		 	  		</li>
+					 			     		 	  		<li>
+					 			     		 	  			<a href="/products/FOODGROC/EDI_OILGEE/OLIVE_OIL?CURRENT_CATALOG_ID=VEGFRUIT"> Olive Oil</a>
+					 			     		 	  		</li>
+					 			     		 	  		<li>
+					 			     		 	  			<a href="/products/FOODGROC/EDI_OILGEE/PALM_OIL?CURRENT_CATALOG_ID=VEGFRUIT"> Palm Oil</a>
+					 			     		 	  		</li>
+					 			     		 	  		<li>
+					 			     		 	  			<a href="/products/FOODGROC/EDI_OILGEE/VANASPATI_OIL?CURRENT_CATALOG_ID=VEGFRUIT"> Vanaspati</a>
+					 			     		 	  		</li>
+					 			     		 	  		<li>
+					 			     		 	  			<a href="/products/FOODGROC/EDI_OILGEE/VEGETABLE_OIL?CURRENT_CATALOG_ID=VEGFRUIT"> Vegetable Oil</a>
+					 			     		 	  		</li>
+				 			     		 	  	</ul>
+				 			     		 	  <div class="hassubmenu_img sub_sub_menu_image">
+                                                <img src="/images/categories/linkOne/FOODGROC.png" width="300" height="495">
+                                             </div>
+				 			     		 	  	</div>
+				 			     		 	</li>
+  				 			     		 	<li class="has_submenu_menu_submenu yes_submenu"><a href="/products/FOODGROC/SPICE_MALA?CURRENT_CATALOG_ID=VEGFRUIT">Spices &amp; Masalas<i class="fa fa-caret-right"></i></a>
+				 			     		 	  <div class="third_div">
+				 			     		 	  	<ul>
+					 			     		 	  		<li>
+					 			     		 	  			<a href="/products/FOODGROC/SPICE_MALA/READY_MASALAS?CURRENT_CATALOG_ID=VEGFRUIT"> Ready Masalas</a>
+					 			     		 	  		</li>
+					 			     		 	  		<li>
+					 			     		 	  			<a href="/products/FOODGROC/SPICE_MALA/SPICES_MASALAS?CURRENT_CATALOG_ID=VEGFRUIT"> Powdered Spices</a>
+					 			     		 	  		</li>
+					 			     		 	  		<li>
+					 			     		 	  			<a href="/products/FOODGROC/SPICE_MALA/WHOLE_SPICES?CURRENT_CATALOG_ID=VEGFRUIT"> Whole Spices</a>
+					 			     		 	  		</li>
+				 			     		 	  	</ul>
+				 			     		 	  <div class="hassubmenu_img sub_sub_menu_image">
+                                                <img src="/images/categories/linkOne/FOODGROC.png" width="300" height="495">
+                                             </div>
+				 			     		 	  	</div>
+				 			     		 	</li>
+  				 			     		 	<li class="has_submenu_menu_submenu no_submenu"><a href="/products/FOODGROC/CURRY_PASTE?CURRENT_CATALOG_ID=VEGFRUIT">Curry Paste &amp; Sauces</a>
+				 			     		 	  <div class="third_div">
+				 			     		 	  	<ul>
+				 			     		 	  	</ul>
+				 			     		 	  <div class="hassubmenu_img sub_sub_menu_image">
+                                                <img src="/images/categories/linkOne/FOODGROC.png" width="300" height="495">
+                                             </div>
+				 			     		 	  	</div>
+				 			     		 	</li>
+  				 			     		 	<li class="has_submenu_menu_submenu yes_submenu"><a href="/products/FOODGROC/TEA_COFFE?CURRENT_CATALOG_ID=VEGFRUIT">Tea &amp; Coffee<i class="fa fa-caret-right"></i></a>
+				 			     		 	  <div class="third_div">
+				 			     		 	  	<ul>
+					 			     		 	  		<li>
+					 			     		 	  			<a href="/products/FOODGROC/TEA_COFFE/COF_FEE?CURRENT_CATALOG_ID=VEGFRUIT"> Coffee</a>
+					 			     		 	  		</li>
+					 			     		 	  		<li>
+					 			     		 	  			<a href="/products/FOODGROC/TEA_COFFE/DAILY_WHITENERS?CURRENT_CATALOG_ID=VEGFRUIT"> Dairy Whiteners</a>
+					 			     		 	  		</li>
+					 			     		 	  		<li>
+					 			     		 	  			<a href="/products/FOODGROC/TEA_COFFE/TEA_BAGS?CURRENT_CATALOG_ID=VEGFRUIT"> Tea Bags</a>
+					 			     		 	  		</li>
+					 			     		 	  		<li>
+					 			     		 	  			<a href="/products/FOODGROC/TEA_COFFE/TE_AS?CURRENT_CATALOG_ID=VEGFRUIT"> Tea</a>
+					 			     		 	  		</li>
+				 			     		 	  	</ul>
+				 			     		 	  <div class="hassubmenu_img sub_sub_menu_image">
+                                                <img src="/images/categories/linkOne/FOODGROC.png" width="300" height="495">
+                                             </div>
+				 			     		 	  	</div>
+				 			     		 	</li>
+  				 			     		 	<li class="has_submenu_menu_submenu yes_submenu"><a href="/products/FOODGROC/SALT_SUGR?CURRENT_CATALOG_ID=VEGFRUIT">Salt &amp; Sugar<i class="fa fa-caret-right"></i></a>
+				 			     		 	  <div class="third_div">
+				 			     		 	  	<ul>
+					 			     		 	  		<li>
+					 			     		 	  			<a href="/products/FOODGROC/SALT_SUGR/JAGGERY?CURRENT_CATALOG_ID=VEGFRUIT"> Jaggery</a>
+					 			     		 	  		</li>
+					 			     		 	  		<li>
+					 			     		 	  			<a href="/products/FOODGROC/SALT_SUGR/SALT?CURRENT_CATALOG_ID=VEGFRUIT"> Salt</a>
+					 			     		 	  		</li>
+					 			     		 	  		<li>
+					 			     		 	  			<a href="/products/FOODGROC/SALT_SUGR/SUGAR?CURRENT_CATALOG_ID=VEGFRUIT"> Sugar</a>
+					 			     		 	  		</li>
+					 			     		 	  		<li>
+					 			     		 	  			<a href="/products/FOODGROC/SALT_SUGR/SWEETNERS?CURRENT_CATALOG_ID=VEGFRUIT"> Sweetners</a>
+					 			     		 	  		</li>
+				 			     		 	  	</ul>
+				 			     		 	  <div class="hassubmenu_img sub_sub_menu_image">
+                                                <img src="/images/categories/linkOne/FOODGROC.png" width="300" height="495">
+                                             </div>
+				 			     		 	  	</div>
+				 			     		 	</li>
+  				 			     		 	<li class="has_submenu_menu_submenu no_submenu"><a href="/products/FOODGROC/WHOLE_GRAIN?CURRENT_CATALOG_ID=VEGFRUIT">Whole Grains</a>
+				 			     		 	  <div class="third_div">
+				 			     		 	  	<ul>
+				 			     		 	  	</ul>
+				 			     		 	  <div class="hassubmenu_img sub_sub_menu_image">
+                                                <img src="/images/categories/linkOne/FOODGROC.png" width="300" height="495">
+                                             </div>
+				 			     		 	  	</div>
+				 			     		 	</li>
+  				 			     		 	<li class="has_submenu_menu_submenu no_submenu"><a href="/products/FOODGROC/BAK_ITEMS?CURRENT_CATALOG_ID=VEGFRUIT">Baking Items &amp; Mixes</a>
+				 			     		 	  <div class="third_div">
+				 			     		 	  	<ul>
+				 			     		 	  	</ul>
+				 			     		 	  <div class="hassubmenu_img sub_sub_menu_image">
+                                                <img src="/images/categories/linkOne/FOODGROC.png" width="300" height="495">
+                                             </div>
+				 			     		 	  	</div>
+				 			     		 	</li>
+				 			     		 </ul>
+				 			     		 <div class="hassubmenu_img sub_menu_image">
+                                    		<img src="/images/categories/linkOne/FOODGROC.png" width="300" height="495">
+                               		 	</div>
+									</div> 
+				 			    </li>
+				 			    <li class="has_submenu_menu">
+				 			   	<a href="/products/PACKAGE_FOOD?CURRENT_CATALOG_ID=VEGFRUIT" class="atul">
+				 			 	 Packaged Foods <i class="fa fa-caret-right"></i></a>
+				 			    	<div class="second_div">
+				 			     		 <ul style="float:left;">
+  				 			     		 	<li class="has_submenu_menu_submenu no_submenu"><a href="/products/PACKAGE_FOOD/NON_VEG_FOOD?CURRENT_CATALOG_ID=VEGFRUIT">Non-Veg Food</a>
+				 			     		 	  <div class="third_div">
+				 			     		 	  	<ul>
+				 			     		 	  	</ul>
+				 			     		 	  <div class="hassubmenu_img sub_sub_menu_image">
+                                                <img src="/images/categories/linkOne/PACKAGE_FOOD.png" width="300" height="495">
+                                             </div>
+				 			     		 	  	</div>
+				 			     		 	</li>
+  				 			     		 	<li class="has_submenu_menu_submenu no_submenu"><a href="/products/PACKAGE_FOOD/VEG_FOOD?CURRENT_CATALOG_ID=VEGFRUIT">Veg Food</a>
+				 			     		 	  <div class="third_div">
+				 			     		 	  	<ul>
+				 			     		 	  	</ul>
+				 			     		 	  <div class="hassubmenu_img sub_sub_menu_image">
+                                                <img src="/images/categories/linkOne/PACKAGE_FOOD.png" width="300" height="495">
+                                             </div>
+				 			     		 	  	</div>
+				 			     		 	</li>
+  				 			     		 	<li class="has_submenu_menu_submenu no_submenu"><a href="/products/PACKAGE_FOOD/PAPADS?CURRENT_CATALOG_ID=VEGFRUIT">Papads</a>
+				 			     		 	  <div class="third_div">
+				 			     		 	  	<ul>
+				 			     		 	  	</ul>
+				 			     		 	  <div class="hassubmenu_img sub_sub_menu_image">
+                                                <img src="/images/categories/linkOne/PACKAGE_FOOD.png" width="300" height="495">
+                                             </div>
+				 			     		 	  	</div>
+				 			     		 	</li>
+  				 			     		 	<li class="has_submenu_menu_submenu no_submenu"><a href="/products/PACKAGE_FOOD/SOUPS?CURRENT_CATALOG_ID=VEGFRUIT">Soups</a>
+				 			     		 	  <div class="third_div">
+				 			     		 	  	<ul>
+				 			     		 	  	</ul>
+				 			     		 	  <div class="hassubmenu_img sub_sub_menu_image">
+                                                <img src="/images/categories/linkOne/PACKAGE_FOOD.png" width="300" height="495">
+                                             </div>
+				 			     		 	  	</div>
+				 			     		 	</li>
+				 			     		 </ul>
+				 			     		 <div class="hassubmenu_img sub_menu_image">
+                                    		<img src="/images/categories/linkOne/PACKAGE_FOOD.png" width="300" height="495">
+                               		 	</div>
+									</div> 
+				 			    </li>
+				 			    <li class="has_submenu_menu">
+				 			   	<a href="/products/VEG_FRUIT?CURRENT_CATALOG_ID=VEGFRUIT" class="atul">
+				 			 	 Vegetables <i class="fa fa-caret-right"></i></a>
+				 			    	<div class="second_div">
+				 			     		 <ul style="float:left;">
+  				 			     		 	<li class="has_submenu_menu_submenu no_submenu"><a href="/products/VEG_FRUIT/ORGANIC_VEG?CURRENT_CATALOG_ID=VEGFRUIT">Organic Vegetables</a>
+				 			     		 	  <div class="third_div">
+				 			     		 	  	<ul>
+				 			     		 	  	</ul>
+				 			     		 	  <div class="hassubmenu_img sub_sub_menu_image">
+                                                <img src="/images/categories/linkOne/VEG_FRUIT.png" width="300" height="495">
+                                             </div>
+				 			     		 	  	</div>
+				 			     		 	</li>
+  				 			     		 	<li class="has_submenu_menu_submenu no_submenu"><a href="/products/VEG_FRUIT/PO_TOM?CURRENT_CATALOG_ID=VEGFRUIT">Potato, Onion &amp; Tomato</a>
+				 			     		 	  <div class="third_div">
+				 			     		 	  	<ul>
+				 			     		 	  	</ul>
+				 			     		 	  <div class="hassubmenu_img sub_sub_menu_image">
+                                                <img src="/images/categories/linkOne/VEG_FRUIT.png" width="300" height="495">
+                                             </div>
+				 			     		 	  	</div>
+				 			     		 	</li>
+  				 			     		 	<li class="has_submenu_menu_submenu no_submenu"><a href="/products/VEG_FRUIT/GGC_L?CURRENT_CATALOG_ID=VEGFRUIT">Ginger, Garlic, Chilli &amp; Lemon</a>
+				 			     		 	  <div class="third_div">
+				 			     		 	  	<ul>
+				 			     		 	  	</ul>
+				 			     		 	  <div class="hassubmenu_img sub_sub_menu_image">
+                                                <img src="/images/categories/linkOne/VEG_FRUIT.png" width="300" height="495">
+                                             </div>
+				 			     		 	  	</div>
+				 			     		 	</li>
+  				 			     		 	<li class="has_submenu_menu_submenu no_submenu"><a href="/products/VEG_FRUIT/BE_NS?CURRENT_CATALOG_ID=VEGFRUIT">Beans &amp; Brinjals</a>
+				 			     		 	  <div class="third_div">
+				 			     		 	  	<ul>
+				 			     		 	  	</ul>
+				 			     		 	  <div class="hassubmenu_img sub_sub_menu_image">
+                                                <img src="/images/categories/linkOne/VEG_FRUIT.png" width="300" height="495">
+                                             </div>
+				 			     		 	  	</div>
+				 			     		 	</li>
+  				 			     		 	<li class="has_submenu_menu_submenu no_submenu"><a href="/products/VEG_FRUIT/GRO_CUM?CURRENT_CATALOG_ID=VEGFRUIT">Gourd &amp; Cucumber</a>
+				 			     		 	  <div class="third_div">
+				 			     		 	  	<ul>
+				 			     		 	  	</ul>
+				 			     		 	  <div class="hassubmenu_img sub_sub_menu_image">
+                                                <img src="/images/categories/linkOne/VEG_FRUIT.png" width="300" height="495">
+                                             </div>
+				 			     		 	  	</div>
+				 			     		 	</li>
+  				 			     		 	<li class="has_submenu_menu_submenu no_submenu"><a href="/products/VEG_FRUIT/ROO_VEGT?CURRENT_CATALOG_ID=VEGFRUIT">Root Vegetables</a>
+				 			     		 	  <div class="third_div">
+				 			     		 	  	<ul>
+				 			     		 	  	</ul>
+				 			     		 	  <div class="hassubmenu_img sub_sub_menu_image">
+                                                <img src="/images/categories/linkOne/VEG_FRUIT.png" width="300" height="495">
+                                             </div>
+				 			     		 	  	</div>
+				 			     		 	</li>
+  				 			     		 	<li class="has_submenu_menu_submenu no_submenu"><a href="/products/VEG_FRUIT/LEF_VEGT?CURRENT_CATALOG_ID=VEGFRUIT">Leafy Vegetables</a>
+				 			     		 	  <div class="third_div">
+				 			     		 	  	<ul>
+				 			     		 	  	</ul>
+				 			     		 	  <div class="hassubmenu_img sub_sub_menu_image">
+                                                <img src="/images/categories/linkOne/VEG_FRUIT.png" width="300" height="495">
+                                             </div>
+				 			     		 	  	</div>
+				 			     		 	</li>
+  				 			     		 	<li class="has_submenu_menu_submenu no_submenu"><a href="/products/VEG_FRUIT/OTH_VEGT?CURRENT_CATALOG_ID=VEGFRUIT">Other Vegetables</a>
+				 			     		 	  <div class="third_div">
+				 			     		 	  	<ul>
+				 			     		 	  	</ul>
+				 			     		 	  <div class="hassubmenu_img sub_sub_menu_image">
+                                                <img src="/images/categories/linkOne/VEG_FRUIT.png" width="300" height="495">
+                                             </div>
+				 			     		 	  	</div>
+				 			     		 	</li>
+  				 			     		 	<li class="has_submenu_menu_submenu no_submenu"><a href="/products/VEG_FRUIT/EXO_VEGT?CURRENT_CATALOG_ID=VEGFRUIT">Exotic Vegetables</a>
+				 			     		 	  <div class="third_div">
+				 			     		 	  	<ul>
+				 			     		 	  	</ul>
+				 			     		 	  <div class="hassubmenu_img sub_sub_menu_image">
+                                                <img src="/images/categories/linkOne/VEG_FRUIT.png" width="300" height="495">
+                                             </div>
+				 			     		 	  	</div>
+				 			     		 	</li>
+  				 			     		 	<li class="has_submenu_menu_submenu no_submenu"><a href="/products/VEG_FRUIT/FROZ_VEGET?CURRENT_CATALOG_ID=VEGFRUIT">Frozen Vegetables</a>
+				 			     		 	  <div class="third_div">
+				 			     		 	  	<ul>
+				 			     		 	  	</ul>
+				 			     		 	  <div class="hassubmenu_img sub_sub_menu_image">
+                                                <img src="/images/categories/linkOne/VEG_FRUIT.png" width="300" height="495">
+                                             </div>
+				 			     		 	  	</div>
+				 			     		 	</li>
+				 			     		 </ul>
+				 			     		 <div class="hassubmenu_img sub_menu_image">
+                                    		<img src="/images/categories/linkOne/VEG_FRUIT.png" width="300" height="495">
+                               		 	</div>
+									</div> 
+				 			    </li>
+				 			    <li class="has_submenu_menu">
+				 			   	<a href="/products/FRUITS?CURRENT_CATALOG_ID=VEGFRUIT" class="atul">
+				 			 	 Fruits <i class="fa fa-caret-right"></i></a>
+				 			    	<div class="second_div">
+				 			     		 <ul style="float:left;">
+  				 			     		 	<li class="has_submenu_menu_submenu no_submenu"><a href="/products/FRUITS/MANGO_MELA?CURRENT_CATALOG_ID=VEGFRUIT">Mango</a>
+				 			     		 	  <div class="third_div">
+				 			     		 	  	<ul>
+				 			     		 	  	</ul>
+				 			     		 	  <div class="hassubmenu_img sub_sub_menu_image">
+                                                <img src="/images/categories/linkOne/FRUITS.png" width="300" height="495">
+                                             </div>
+				 			     		 	  	</div>
+				 			     		 	</li>
+  				 			     		 	<li class="has_submenu_menu_submenu no_submenu"><a href="/products/FRUITS/APP_BANN?CURRENT_CATALOG_ID=VEGFRUIT">Apples &amp; Bananas</a>
+				 			     		 	  <div class="third_div">
+				 			     		 	  	<ul>
+				 			     		 	  	</ul>
+				 			     		 	  <div class="hassubmenu_img sub_sub_menu_image">
+                                                <img src="/images/categories/linkOne/FRUITS.png" width="300" height="495">
+                                             </div>
+				 			     		 	  	</div>
+				 			     		 	</li>
+  				 			     		 	<li class="has_submenu_menu_submenu no_submenu"><a href="/products/FRUITS/ORG_SWTLI?CURRENT_CATALOG_ID=VEGFRUIT">Oranges &amp; Sweet Lime</a>
+				 			     		 	  <div class="third_div">
+				 			     		 	  	<ul>
+				 			     		 	  	</ul>
+				 			     		 	  <div class="hassubmenu_img sub_sub_menu_image">
+                                                <img src="/images/categories/linkOne/FRUITS.png" width="300" height="495">
+                                             </div>
+				 			     		 	  	</div>
+				 			     		 	</li>
+  				 			     		 	<li class="has_submenu_menu_submenu no_submenu"><a href="/products/FRUITS/MEL_GRAP?CURRENT_CATALOG_ID=VEGFRUIT">Melons &amp; Grapes</a>
+				 			     		 	  <div class="third_div">
+				 			     		 	  	<ul>
+				 			     		 	  	</ul>
+				 			     		 	  <div class="hassubmenu_img sub_sub_menu_image">
+                                                <img src="/images/categories/linkOne/FRUITS.png" width="300" height="495">
+                                             </div>
+				 			     		 	  	</div>
+				 			     		 	</li>
+  				 			     		 	<li class="has_submenu_menu_submenu no_submenu"><a href="/products/FRUITS/EXO_FRUT?CURRENT_CATALOG_ID=VEGFRUIT">Exotic Fruits</a>
+				 			     		 	  <div class="third_div">
+				 			     		 	  	<ul>
+				 			     		 	  	</ul>
+				 			     		 	  <div class="hassubmenu_img sub_sub_menu_image">
+                                                <img src="/images/categories/linkOne/FRUITS.png" width="300" height="495">
+                                             </div>
+				 			     		 	  	</div>
+				 			     		 	</li>
+  				 			     		 	<li class="has_submenu_menu_submenu no_submenu"><a href="/products/FRUITS/OTH_FRUT?CURRENT_CATALOG_ID=VEGFRUIT">Other Fruits</a>
+				 			     		 	  <div class="third_div">
+				 			     		 	  	<ul>
+				 			     		 	  	</ul>
+				 			     		 	  <div class="hassubmenu_img sub_sub_menu_image">
+                                                <img src="/images/categories/linkOne/FRUITS.png" width="300" height="495">
+                                             </div>
+				 			     		 	  	</div>
+				 			     		 	</li>
+				 			     		 </ul>
+				 			     		 <div class="hassubmenu_img sub_menu_image">
+                                    		<img src="/images/categories/linkOne/FRUITS.png" width="300" height="495">
+                               		 	</div>
+									</div> 
+				 			    </li>
+				 			    <li class="has_submenu_menu">
+				 			   	<a href="/products/EGG_DAIRY?CURRENT_CATALOG_ID=VEGFRUIT" class="atul">
+				 			 	 Dairy Products &amp; Eggs <i class="fa fa-caret-right"></i></a>
+				 			    	<div class="second_div">
+				 			     		 <ul style="float:left;">
+  				 			     		 	<li class="has_submenu_menu_submenu no_submenu"><a href="/products/EGG_DAIRY/MILK_DRINKS?CURRENT_CATALOG_ID=VEGFRUIT">Milk &amp; Milk Drinks</a>
+				 			     		 	  <div class="third_div">
+				 			     		 	  	<ul>
+				 			     		 	  	</ul>
+				 			     		 	  <div class="hassubmenu_img sub_sub_menu_image">
+                                                <img src="/images/categories/linkOne/EGG_DAIRY.png" width="300" height="495">
+                                             </div>
+				 			     		 	  	</div>
+				 			     		 	</li>
+  				 			     		 	<li class="has_submenu_menu_submenu no_submenu"><a href="/products/EGG_DAIRY/CONDENSED_MILK?CURRENT_CATALOG_ID=VEGFRUIT">Condensed Milk</a>
+				 			     		 	  <div class="third_div">
+				 			     		 	  	<ul>
+				 			     		 	  	</ul>
+				 			     		 	  <div class="hassubmenu_img sub_sub_menu_image">
+                                                <img src="/images/categories/linkOne/EGG_DAIRY.png" width="300" height="495">
+                                             </div>
+				 			     		 	  	</div>
+				 			     		 	</li>
+  				 			     		 	<li class="has_submenu_menu_submenu no_submenu"><a href="/products/EGG_DAIRY/BUTTER_CHEESE?CURRENT_CATALOG_ID=VEGFRUIT">Butter, Cheese &amp; Cream</a>
+				 			     		 	  <div class="third_div">
+				 			     		 	  	<ul>
+				 			     		 	  	</ul>
+				 			     		 	  <div class="hassubmenu_img sub_sub_menu_image">
+                                                <img src="/images/categories/linkOne/EGG_DAIRY.png" width="300" height="495">
+                                             </div>
+				 			     		 	  	</div>
+				 			     		 	</li>
+  				 			     		 	<li class="has_submenu_menu_submenu no_submenu"><a href="/products/EGG_DAIRY/CURDS_YOGURD?CURRENT_CATALOG_ID=VEGFRUIT">Curds, Yogurt &amp; Buttermilk</a>
+				 			     		 	  <div class="third_div">
+				 			     		 	  	<ul>
+				 			     		 	  	</ul>
+				 			     		 	  <div class="hassubmenu_img sub_sub_menu_image">
+                                                <img src="/images/categories/linkOne/EGG_DAIRY.png" width="300" height="495">
+                                             </div>
+				 			     		 	  	</div>
+				 			     		 	</li>
+  				 			     		 	<li class="has_submenu_menu_submenu no_submenu"><a href="/products/EGG_DAIRY/PANEER?CURRENT_CATALOG_ID=VEGFRUIT">Paneer</a>
+				 			     		 	  <div class="third_div">
+				 			     		 	  	<ul>
+				 			     		 	  	</ul>
+				 			     		 	  <div class="hassubmenu_img sub_sub_menu_image">
+                                                <img src="/images/categories/linkOne/EGG_DAIRY.png" width="300" height="495">
+                                             </div>
+				 			     		 	  	</div>
+				 			     		 	</li>
+  				 			     		 	<li class="has_submenu_menu_submenu no_submenu"><a href="/products/EGG_DAIRY/EG_GS?CURRENT_CATALOG_ID=VEGFRUIT">Eggs</a>
+				 			     		 	  <div class="third_div">
+				 			     		 	  	<ul>
+				 			     		 	  	</ul>
+				 			     		 	  <div class="hassubmenu_img sub_sub_menu_image">
+                                                <img src="/images/categories/linkOne/EGG_DAIRY.png" width="300" height="495">
+                                             </div>
+				 			     		 	  	</div>
+				 			     		 	</li>
+				 			     		 </ul>
+				 			     		 <div class="hassubmenu_img sub_menu_image">
+                                    		<img src="/images/categories/linkOne/EGG_DAIRY.png" width="300" height="495">
+                               		 	</div>
+									</div> 
+				 			    </li>
+				 			    <li class="has_submenu_menu">
+				 			   	<a href="/products/GOURT_FOD?CURRENT_CATALOG_ID=VEGFRUIT" class="atul">
+				 			 	 Gourmet &amp; Imported <i class="fa fa-caret-right"></i></a>
+				 			    	<div class="second_div">
+				 			     		 <ul style="float:left;">
+  				 			     		 	<li class="has_submenu_menu_submenu no_submenu"><a href="/products/GOURT_FOD/GOURME_OIL?CURRENT_CATALOG_ID=VEGFRUIT">Oils</a>
+				 			     		 	  <div class="third_div">
+				 			     		 	  	<ul>
+				 			     		 	  	</ul>
+				 			     		 	  <div class="hassubmenu_img sub_sub_menu_image">
+                                                <img src="/images/categories/linkOne/GOURT_FOD.png" width="300" height="495">
+                                             </div>
+				 			     		 	  	</div>
+				 			     		 	</li>
+  				 			     		 	<li class="has_submenu_menu_submenu no_submenu"><a href="/products/GOURT_FOD/GR_NOODLES_PASTA?CURRENT_CATALOG_ID=VEGFRUIT">Noodles, Pasta &amp; Sauces</a>
+				 			     		 	  <div class="third_div">
+				 			     		 	  	<ul>
+				 			     		 	  	</ul>
+				 			     		 	  <div class="hassubmenu_img sub_sub_menu_image">
+                                                <img src="/images/categories/linkOne/GOURT_FOD.png" width="300" height="495">
+                                             </div>
+				 			     		 	  	</div>
+				 			     		 	</li>
+  				 			     		 	<li class="has_submenu_menu_submenu no_submenu"><a href="/products/GOURT_FOD/NON_ALCO?CURRENT_CATALOG_ID=VEGFRUIT">Non Alcoholic Wine</a>
+				 			     		 	  <div class="third_div">
+				 			     		 	  	<ul>
+				 			     		 	  	</ul>
+				 			     		 	  <div class="hassubmenu_img sub_sub_menu_image">
+                                                <img src="/images/categories/linkOne/GOURT_FOD.png" width="300" height="495">
+                                             </div>
+				 			     		 	  	</div>
+				 			     		 	</li>
+  				 			     		 	<li class="has_submenu_menu_submenu no_submenu"><a href="/products/GOURT_FOD/COCKTAIL_MX?CURRENT_CATALOG_ID=VEGFRUIT">Juices &amp; Mixers</a>
+				 			     		 	  <div class="third_div">
+				 			     		 	  	<ul>
+				 			     		 	  	</ul>
+				 			     		 	  <div class="hassubmenu_img sub_sub_menu_image">
+                                                <img src="/images/categories/linkOne/GOURT_FOD.png" width="300" height="495">
+                                             </div>
+				 			     		 	  	</div>
+				 			     		 	</li>
+				 			     		 </ul>
+				 			     		 <div class="hassubmenu_img sub_menu_image">
+                                    		<img src="/images/categories/linkOne/GOURT_FOD.png" width="300" height="495">
+                               		 	</div>
+									</div> 
+				 			    </li>
+				 			    <li class="has_submenu_menu">
+				 			   	<a href="/products/MEAT_SEA?CURRENT_CATALOG_ID=VEGFRUIT" class="atul">
+				 			 	 Meat &amp; Seafood <i class="fa fa-caret-right"></i></a>
+				 			    	<div class="second_div">
+				 			     		 <ul style="float:left;">
+  				 			     		 	<li class="has_submenu_menu_submenu no_submenu"><a href="/products/MEAT_SEA/CHIKEN?CURRENT_CATALOG_ID=VEGFRUIT">Chicken</a>
+				 			     		 	  <div class="third_div">
+				 			     		 	  	<ul>
+				 			     		 	  	</ul>
+				 			     		 	  <div class="hassubmenu_img sub_sub_menu_image">
+                                                <img src="/images/categories/linkOne/MEAT_SEA.png" width="300" height="495">
+                                             </div>
+				 			     		 	  	</div>
+				 			     		 	</li>
+  				 			     		 	<li class="has_submenu_menu_submenu no_submenu"><a href="/products/MEAT_SEA/MUTN_BEEF?CURRENT_CATALOG_ID=VEGFRUIT">Mutton &amp; Beef</a>
+				 			     		 	  <div class="third_div">
+				 			     		 	  	<ul>
+				 			     		 	  	</ul>
+				 			     		 	  <div class="hassubmenu_img sub_sub_menu_image">
+                                                <img src="/images/categories/linkOne/MEAT_SEA.png" width="300" height="495">
+                                             </div>
+				 			     		 	  	</div>
+				 			     		 	</li>
+  				 			     		 	<li class="has_submenu_menu_submenu yes_submenu"><a href="/products/MEAT_SEA/SEAFOOD?CURRENT_CATALOG_ID=VEGFRUIT">Seafood<i class="fa fa-caret-right"></i></a>
+				 			     		 	  <div class="third_div">
+				 			     		 	  	<ul>
+					 			     		 	  		<li>
+					 			     		 	  			<a href="/products/MEAT_SEA/SEAFOOD/CRABS_PRAWN?CURRENT_CATALOG_ID=VEGFRUIT"> Crabs, Prawns &amp; Lobsters</a>
+					 			     		 	  		</li>
+					 			     		 	  		<li>
+					 			     		 	  			<a href="/products/MEAT_SEA/SEAFOOD/FISH?CURRENT_CATALOG_ID=VEGFRUIT"> Fish</a>
+					 			     		 	  		</li>
+					 			     		 	  		<li>
+					 			     		 	  			<a href="/products/MEAT_SEA/SEAFOOD/FROZEN_SEAFOOD?CURRENT_CATALOG_ID=VEGFRUIT"> Frozen Seafood</a>
+					 			     		 	  		</li>
+					 			     		 	  		<li>
+					 			     		 	  			<a href="/products/MEAT_SEA/SEAFOOD/SMOKED_DRIEDFISH?CURRENT_CATALOG_ID=VEGFRUIT"> Smoked &amp; Dried Fish</a>
+					 			     		 	  		</li>
+				 			     		 	  	</ul>
+				 			     		 	  <div class="hassubmenu_img sub_sub_menu_image">
+                                                <img src="/images/categories/linkOne/MEAT_SEA.png" width="300" height="495">
+                                             </div>
+				 			     		 	  	</div>
+				 			     		 	</li>
+  				 			     		 	<li class="has_submenu_menu_submenu no_submenu"><a href="/products/MEAT_SEA/OTHER_MEAT?CURRENT_CATALOG_ID=VEGFRUIT">Other Meat Item</a>
+				 			     		 	  <div class="third_div">
+				 			     		 	  	<ul>
+				 			     		 	  	</ul>
+				 			     		 	  <div class="hassubmenu_img sub_sub_menu_image">
+                                                <img src="/images/categories/linkOne/MEAT_SEA.png" width="300" height="495">
+                                             </div>
+				 			     		 	  	</div>
+				 			     		 	</li>
+				 			     		 </ul>
+				 			     		 <div class="hassubmenu_img sub_menu_image">
+                                    		<img src="/images/categories/linkOne/MEAT_SEA.png" width="300" height="495">
+                               		 	</div>
+									</div> 
+				 			    </li>
+				 			    <li class="has_submenu_menu">
+				 			   	<a href="/products/CHO_DES?CURRENT_CATALOG_ID=VEGFRUIT" class="atul">
+				 			 	 Chocolates &amp; Desserts <i class="fa fa-caret-right"></i></a>
+				 			    	<div class="second_div">
+				 			     		 <ul style="float:left;">
+  				 			     		 	<li class="has_submenu_menu_submenu no_submenu"><a href="/products/CHO_DES/CHOCOLA?CURRENT_CATALOG_ID=VEGFRUIT">Chocolates &amp; Candies</a>
+				 			     		 	  <div class="third_div">
+				 			     		 	  	<ul>
+				 			     		 	  	</ul>
+				 			     		 	  <div class="hassubmenu_img sub_sub_menu_image">
+                                                <img src="/images/categories/linkOne/CHO_DES.png" width="300" height="495">
+                                             </div>
+				 			     		 	  	</div>
+				 			     		 	</li>
+  				 			     		 	<li class="has_submenu_menu_submenu no_submenu"><a href="/products/CHO_DES/DES_CANDY?CURRENT_CATALOG_ID=VEGFRUIT">Desserts &amp; Ice Creams</a>
+				 			     		 	  <div class="third_div">
+				 			     		 	  	<ul>
+				 			     		 	  	</ul>
+				 			     		 	  <div class="hassubmenu_img sub_sub_menu_image">
+                                                <img src="/images/categories/linkOne/CHO_DES.png" width="300" height="495">
+                                             </div>
+				 			     		 	  	</div>
+				 			     		 	</li>
+  				 			     		 	<li class="has_submenu_menu_submenu no_submenu"><a href="/products/CHO_DES/GUM_FRESHNER?CURRENT_CATALOG_ID=VEGFRUIT">Gums &amp; Freshners</a>
+				 			     		 	  <div class="third_div">
+				 			     		 	  	<ul>
+				 			     		 	  	</ul>
+				 			     		 	  <div class="hassubmenu_img sub_sub_menu_image">
+                                                <img src="/images/categories/linkOne/CHO_DES.png" width="300" height="495">
+                                             </div>
+				 			     		 	  	</div>
+				 			     		 	</li>
+				 			     		 </ul>
+				 			     		 <div class="hassubmenu_img sub_menu_image">
+                                    		<img src="/images/categories/linkOne/CHO_DES.png" width="300" height="495">
+                               		 	</div>
+									</div> 
+				 			    </li>
+				 			    <li class="has_submenu_menu">
+				 			   	<a href="/products/CHILL_DRINK?CURRENT_CATALOG_ID=VEGFRUIT" class="atul">
+				 			 	 Chills &amp; Drinks <i class="fa fa-caret-right"></i></a>
+				 			    	<div class="second_div">
+				 			     		 <ul style="float:left;">
+  				 			     		 	<li class="has_submenu_menu_submenu no_submenu"><a href="/products/CHILL_DRINK/HEL_DRIK?CURRENT_CATALOG_ID=VEGFRUIT">Health Drinks</a>
+				 			     		 	  <div class="third_div">
+				 			     		 	  	<ul>
+				 			     		 	  	</ul>
+				 			     		 	  <div class="hassubmenu_img sub_sub_menu_image">
+                                                <img src="/images/categories/linkOne/CHILL_DRINK.png" width="300" height="495">
+                                             </div>
+				 			     		 	  	</div>
+				 			     		 	</li>
+  				 			     		 	<li class="has_submenu_menu_submenu no_submenu"><a href="/products/CHILL_DRINK/ENG_DRIK?CURRENT_CATALOG_ID=VEGFRUIT">Energy Drinks</a>
+				 			     		 	  <div class="third_div">
+				 			     		 	  	<ul>
+				 			     		 	  	</ul>
+				 			     		 	  <div class="hassubmenu_img sub_sub_menu_image">
+                                                <img src="/images/categories/linkOne/CHILL_DRINK.png" width="300" height="495">
+                                             </div>
+				 			     		 	  	</div>
+				 			     		 	</li>
+  				 			     		 	<li class="has_submenu_menu_submenu no_submenu"><a href="/products/CHILL_DRINK/JUICE_MIX?CURRENT_CATALOG_ID=VEGFRUIT">Fruit Juices &amp; Mixes</a>
+				 			     		 	  <div class="third_div">
+				 			     		 	  	<ul>
+				 			     		 	  	</ul>
+				 			     		 	  <div class="hassubmenu_img sub_sub_menu_image">
+                                                <img src="/images/categories/linkOne/CHILL_DRINK.png" width="300" height="495">
+                                             </div>
+				 			     		 	  	</div>
+				 			     		 	</li>
+  				 			     		 	<li class="has_submenu_menu_submenu yes_submenu"><a href="/products/CHILL_DRINK/SOFT_DRINK?CURRENT_CATALOG_ID=VEGFRUIT">Soft Drinks<i class="fa fa-caret-right"></i></a>
+				 			     		 	  <div class="third_div">
+				 			     		 	  	<ul>
+					 			     		 	  		<li>
+					 			     		 	  			<a href="/products/CHILL_DRINK/SOFT_DRINK/BOTTLES?CURRENT_CATALOG_ID=VEGFRUIT"> Bottles</a>
+					 			     		 	  		</li>
+					 			     		 	  		<li>
+					 			     		 	  			<a href="/products/CHILL_DRINK/SOFT_DRINK/CANS_TETRAPACK?CURRENT_CATALOG_ID=VEGFRUIT"> Cans &amp; Tetrapacks</a>
+					 			     		 	  		</li>
+				 			     		 	  	</ul>
+				 			     		 	  <div class="hassubmenu_img sub_sub_menu_image">
+                                                <img src="/images/categories/linkOne/CHILL_DRINK.png" width="300" height="495">
+                                             </div>
+				 			     		 	  	</div>
+				 			     		 	</li>
+  				 			     		 	<li class="has_submenu_menu_submenu no_submenu"><a href="/products/CHILL_DRINK/SYRUP_SQUASH?CURRENT_CATALOG_ID=VEGFRUIT">Syrups &amp; Squashes</a>
+				 			     		 	  <div class="third_div">
+				 			     		 	  	<ul>
+				 			     		 	  	</ul>
+				 			     		 	  <div class="hassubmenu_img sub_sub_menu_image">
+                                                <img src="/images/categories/linkOne/CHILL_DRINK.png" width="300" height="495">
+                                             </div>
+				 			     		 	  	</div>
+				 			     		 	</li>
+  				 			     		 	<li class="has_submenu_menu_submenu no_submenu"><a href="/products/CHILL_DRINK/SODA?CURRENT_CATALOG_ID=VEGFRUIT">Soda</a>
+				 			     		 	  <div class="third_div">
+				 			     		 	  	<ul>
+				 			     		 	  	</ul>
+				 			     		 	  <div class="hassubmenu_img sub_sub_menu_image">
+                                                <img src="/images/categories/linkOne/CHILL_DRINK.png" width="300" height="495">
+                                             </div>
+				 			     		 	  	</div>
+				 			     		 	</li>
+  				 			     		 	<li class="has_submenu_menu_submenu no_submenu"><a href="/products/CHILL_DRINK/MIN_WATER?CURRENT_CATALOG_ID=VEGFRUIT">Packaged Mineral Water</a>
+				 			     		 	  <div class="third_div">
+				 			     		 	  	<ul>
+				 			     		 	  	</ul>
+				 			     		 	  <div class="hassubmenu_img sub_sub_menu_image">
+                                                <img src="/images/categories/linkOne/CHILL_DRINK.png" width="300" height="495">
+                                             </div>
+				 			     		 	  	</div>
+				 			     		 	</li>
+				 			     		 </ul>
+				 			     		 <div class="hassubmenu_img sub_menu_image">
+                                    		<img src="/images/categories/linkOne/CHILL_DRINK.png" width="300" height="495">
+                               		 	</div>
+									</div> 
+				 			    </li>
+				 			    <li class="has_submenu_menu">
+				 			   	<a href="/products/ORGANIC_PRO?CURRENT_CATALOG_ID=VEGFRUIT" class="atul">
+				 			 	 Organic <i class="fa fa-caret-right"></i></a>
+				 			    	<div class="second_div">
+				 			     		 <ul style="float:left;">
+  				 			     		 	<li class="has_submenu_menu_submenu no_submenu"><a href="/products/ORGANIC_PRO/ORGANIC_RICE?CURRENT_CATALOG_ID=VEGFRUIT">Organic Rice &amp; Rice Products</a>
+				 			     		 	  <div class="third_div">
+				 			     		 	  	<ul>
+				 			     		 	  	</ul>
+				 			     		 	  <div class="hassubmenu_img sub_sub_menu_image">
+                                                <img src="/images/categories/linkOne/ORGANIC_PRO.png" width="300" height="495">
+                                             </div>
+				 			     		 	  	</div>
+				 			     		 	</li>
+  				 			     		 	<li class="has_submenu_menu_submenu no_submenu"><a href="/products/ORGANIC_PRO/ORGANIC_DAL?CURRENT_CATALOG_ID=VEGFRUIT">Organic Dal &amp; Pulses</a>
+				 			     		 	  <div class="third_div">
+				 			     		 	  	<ul>
+				 			     		 	  	</ul>
+				 			     		 	  <div class="hassubmenu_img sub_sub_menu_image">
+                                                <img src="/images/categories/linkOne/ORGANIC_PRO.png" width="300" height="495">
+                                             </div>
+				 			     		 	  	</div>
+				 			     		 	</li>
+  				 			     		 	<li class="has_submenu_menu_submenu no_submenu"><a href="/products/ORGANIC_PRO/ORGANIC_FLOU?CURRENT_CATALOG_ID=VEGFRUIT">Organic Flours &amp; Sooji</a>
+				 			     		 	  <div class="third_div">
+				 			     		 	  	<ul>
+				 			     		 	  	</ul>
+				 			     		 	  <div class="hassubmenu_img sub_sub_menu_image">
+                                                <img src="/images/categories/linkOne/ORGANIC_PRO.png" width="300" height="495">
+                                             </div>
+				 			     		 	  	</div>
+				 			     		 	</li>
+  				 			     		 	<li class="has_submenu_menu_submenu no_submenu"><a href="/products/ORGANIC_PRO/ORGANIC_MASALA?CURRENT_CATALOG_ID=VEGFRUIT">Organic Spices &amp; Masalas</a>
+				 			     		 	  <div class="third_div">
+				 			     		 	  	<ul>
+				 			     		 	  	</ul>
+				 			     		 	  <div class="hassubmenu_img sub_sub_menu_image">
+                                                <img src="/images/categories/linkOne/ORGANIC_PRO.png" width="300" height="495">
+                                             </div>
+				 			     		 	  	</div>
+				 			     		 	</li>
+  				 			     		 	<li class="has_submenu_menu_submenu no_submenu"><a href="/products/ORGANIC_PRO/ORGANIC_SPICE?CURRENT_CATALOG_ID=VEGFRUIT">Organic Whole Spices</a>
+				 			     		 	  <div class="third_div">
+				 			     		 	  	<ul>
+				 			     		 	  	</ul>
+				 			     		 	  <div class="hassubmenu_img sub_sub_menu_image">
+                                                <img src="/images/categories/linkOne/ORGANIC_PRO.png" width="300" height="495">
+                                             </div>
+				 			     		 	  	</div>
+				 			     		 	</li>
+  				 			     		 	<li class="has_submenu_menu_submenu no_submenu"><a href="/products/ORGANIC_PRO/ORGANIC_DRYFRUITS?CURRENT_CATALOG_ID=VEGFRUIT">Organic Dry Fruits</a>
+				 			     		 	  <div class="third_div">
+				 			     		 	  	<ul>
+				 			     		 	  	</ul>
+				 			     		 	  <div class="hassubmenu_img sub_sub_menu_image">
+                                                <img src="/images/categories/linkOne/ORGANIC_PRO.png" width="300" height="495">
+                                             </div>
+				 			     		 	  	</div>
+				 			     		 	</li>
+  				 			     		 	<li class="has_submenu_menu_submenu no_submenu"><a href="/products/ORGANIC_PRO/Organic_FLAKE?CURRENT_CATALOG_ID=VEGFRUIT">Organic Flakes &amp; Cereals</a>
+				 			     		 	  <div class="third_div">
+				 			     		 	  	<ul>
+				 			     		 	  	</ul>
+				 			     		 	  <div class="hassubmenu_img sub_sub_menu_image">
+                                                <img src="/images/categories/linkOne/ORGANIC_PRO.png" width="300" height="495">
+                                             </div>
+				 			     		 	  	</div>
+				 			     		 	</li>
+  				 			     		 	<li class="has_submenu_menu_submenu yes_submenu"><a href="/products/ORGANIC_PRO/OR_TE_SU?CURRENT_CATALOG_ID=VEGFRUIT">Organic Tea , Sugar &amp; Jaggery<i class="fa fa-caret-right"></i></a>
+				 			     		 	  <div class="third_div">
+				 			     		 	  	<ul>
+					 			     		 	  		<li>
+					 			     		 	  			<a href="/products/ORGANIC_PRO/OR_TE_SU/ORGANIC_TEA?CURRENT_CATALOG_ID=VEGFRUIT"> Organic Tea</a>
+					 			     		 	  		</li>
+					 			     		 	  		<li>
+					 			     		 	  			<a href="/products/ORGANIC_PRO/OR_TE_SU/ORGANIC_TEABAGS?CURRENT_CATALOG_ID=VEGFRUIT"> Organic Tea Bags</a>
+					 			     		 	  		</li>
+					 			     		 	  		<li>
+					 			     		 	  			<a href="/products/ORGANIC_PRO/OR_TE_SU/ORGANIC_SUGAR?CURRENT_CATALOG_ID=VEGFRUIT"> Organic Sugar</a>
+					 			     		 	  		</li>
+					 			     		 	  		<li>
+					 			     		 	  			<a href="/products/ORGANIC_PRO/OR_TE_SU/ORGANIC_JAGGERY?CURRENT_CATALOG_ID=VEGFRUIT"> Organic Jaggery</a>
+					 			     		 	  		</li>
+				 			     		 	  	</ul>
+				 			     		 	  <div class="hassubmenu_img sub_sub_menu_image">
+                                                <img src="/images/categories/linkOne/ORGANIC_PRO.png" width="300" height="495">
+                                             </div>
+				 			     		 	  	</div>
+				 			     		 	</li>
+  				 			     		 	<li class="has_submenu_menu_submenu no_submenu"><a href="/products/ORGANIC_PRO/ORG_OIL?CURRENT_CATALOG_ID=VEGFRUIT">Organic Oil &amp; Ghee</a>
+				 			     		 	  <div class="third_div">
+				 			     		 	  	<ul>
+				 			     		 	  	</ul>
+				 			     		 	  <div class="hassubmenu_img sub_sub_menu_image">
+                                                <img src="/images/categories/linkOne/ORGANIC_PRO.png" width="300" height="495">
+                                             </div>
+				 			     		 	  	</div>
+				 			     		 	</li>
+				 			     		 </ul>
+				 			     		 <div class="hassubmenu_img sub_menu_image">
+                                    		<img src="/images/categories/linkOne/ORGANIC_PRO.png" width="300" height="495">
+                               		 	</div>
+									</div> 
+				 			    </li>
+				 			    <li class="has_submenu_menu">
+				 			   	<a href="/products/PERS_CARE?CURRENT_CATALOG_ID=VEGFRUIT" class="atul">
+				 			 	 Personal Care <i class="fa fa-caret-right"></i></a>
+				 			    	<div class="second_div">
+				 			     		 <ul style="float:left;">
+  				 			     		 	<li class="has_submenu_menu_submenu no_submenu"><a href="/products/PERS_CARE/SKIN_ACCESSORIES?CURRENT_CATALOG_ID=VEGFRUIT">Body Accessories</a>
+				 			     		 	  <div class="third_div">
+				 			     		 	  	<ul>
+				 			     		 	  	</ul>
+				 			     		 	  <div class="hassubmenu_img sub_sub_menu_image">
+                                                <img src="/images/categories/linkOne/PERS_CARE.png" width="300" height="495">
+                                             </div>
+				 			     		 	  	</div>
+				 			     		 	</li>
+  				 			     		 	<li class="has_submenu_menu_submenu yes_submenu"><a href="/products/PERS_CARE/ORAL_CARE?CURRENT_CATALOG_ID=VEGFRUIT">Oral Care<i class="fa fa-caret-right"></i></a>
+				 			     		 	  <div class="third_div">
+				 			     		 	  	<ul>
+					 			     		 	  		<li>
+					 			     		 	  			<a href="/products/PERS_CARE/ORAL_CARE/TOOTHPASTE?CURRENT_CATALOG_ID=VEGFRUIT"> Toothpaste</a>
+					 			     		 	  		</li>
+					 			     		 	  		<li>
+					 			     		 	  			<a href="/products/PERS_CARE/ORAL_CARE/TOOTH_BRUSH?CURRENT_CATALOG_ID=VEGFRUIT"> Tooth Brush</a>
+					 			     		 	  		</li>
+					 			     		 	  		<li>
+					 			     		 	  			<a href="/products/PERS_CARE/ORAL_CARE/MOUTH_WASH?CURRENT_CATALOG_ID=VEGFRUIT"> Mouth Wash</a>
+					 			     		 	  		</li>
+				 			     		 	  	</ul>
+				 			     		 	  <div class="hassubmenu_img sub_sub_menu_image">
+                                                <img src="/images/categories/linkOne/PERS_CARE.png" width="300" height="495">
+                                             </div>
+				 			     		 	  	</div>
+				 			     		 	</li>
+  				 			     		 	<li class="has_submenu_menu_submenu yes_submenu"><a href="/products/PERS_CARE/SKN_CARE?CURRENT_CATALOG_ID=VEGFRUIT">Skin Care<i class="fa fa-caret-right"></i></a>
+				 			     		 	  <div class="third_div">
+				 			     		 	  	<ul>
+					 			     		 	  		<li>
+					 			     		 	  			<a href="/products/PERS_CARE/SKN_CARE/SOAP?CURRENT_CATALOG_ID=VEGFRUIT"> Bathing Soaps</a>
+					 			     		 	  		</li>
+					 			     		 	  		<li>
+					 			     		 	  			<a href="/products/PERS_CARE/SKN_CARE/SHOWER_GEL?CURRENT_CATALOG_ID=VEGFRUIT"> Shower Gel</a>
+					 			     		 	  		</li>
+					 			     		 	  		<li>
+					 			     		 	  			<a href="/products/PERS_CARE/SKN_CARE/MOISTURISER_CREAM?CURRENT_CATALOG_ID=VEGFRUIT"> Moisturisers &amp; Creams</a>
+					 			     		 	  		</li>
+					 			     		 	  		<li>
+					 			     		 	  			<a href="/products/PERS_CARE/SKN_CARE/PEELS_SCRUBS?CURRENT_CATALOG_ID=VEGFRUIT"> Peels, Packs &amp; Scrubs</a>
+					 			     		 	  		</li>
+					 			     		 	  		<li>
+					 			     		 	  			<a href="/products/PERS_CARE/SKN_CARE/HAND_FACIAL?CURRENT_CATALOG_ID=VEGFRUIT"> Hand &amp; Facial Cleansers</a>
+					 			     		 	  		</li>
+					 			     		 	  		<li>
+					 			     		 	  			<a href="/products/PERS_CARE/SKN_CARE/HAIR_REMOVING?CURRENT_CATALOG_ID=VEGFRUIT"> Hair Removing Creams</a>
+					 			     		 	  		</li>
+					 			     		 	  		<li>
+					 			     		 	  			<a href="/products/PERS_CARE/SKN_CARE/BLEACH?CURRENT_CATALOG_ID=VEGFRUIT"> Bleach</a>
+					 			     		 	  		</li>
+					 			     		 	  		<li>
+					 			     		 	  			<a href="/products/PERS_CARE/SKN_CARE/TALCUM_POWDER?CURRENT_CATALOG_ID=VEGFRUIT"> Talcum Powders</a>
+					 			     		 	  		</li>
+				 			     		 	  	</ul>
+				 			     		 	  <div class="hassubmenu_img sub_sub_menu_image">
+                                                <img src="/images/categories/linkOne/PERS_CARE.png" width="300" height="495">
+                                             </div>
+				 			     		 	  	</div>
+				 			     		 	</li>
+  				 			     		 	<li class="has_submenu_menu_submenu yes_submenu"><a href="/products/PERS_CARE/COSMETCS?CURRENT_CATALOG_ID=VEGFRUIT">Cosmetics<i class="fa fa-caret-right"></i></a>
+				 			     		 	  <div class="third_div">
+				 			     		 	  	<ul>
+					 			     		 	  		<li>
+					 			     		 	  			<a href="/products/PERS_CARE/COSMETCS/LIP_PACK?CURRENT_CATALOG_ID=VEGFRUIT"> Lip Liners, Lipsticks &amp; Lip Gloss</a>
+					 			     		 	  		</li>
+					 			     		 	  		<li>
+					 			     		 	  			<a href="/products/PERS_CARE/COSMETCS/NAIL_COLOUR?CURRENT_CATALOG_ID=VEGFRUIT"> Nail Colours &amp; Removers</a>
+					 			     		 	  		</li>
+					 			     		 	  		<li>
+					 			     		 	  			<a href="/products/PERS_CARE/COSMETCS/FOUNDATION_COM?CURRENT_CATALOG_ID=VEGFRUIT"> Foundation &amp; Compact</a>
+					 			     		 	  		</li>
+					 			     		 	  		<li>
+					 			     		 	  			<a href="/products/PERS_CARE/COSMETCS/EYE_LINER?CURRENT_CATALOG_ID=VEGFRUIT"> Eye Liners</a>
+					 			     		 	  		</li>
+					 			     		 	  		<li>
+					 			     		 	  			<a href="/products/PERS_CARE/COSMETCS/KAJAL_MASCARA?CURRENT_CATALOG_ID=VEGFRUIT"> Kajal &amp; Mascara</a>
+					 			     		 	  		</li>
+					 			     		 	  		<li>
+					 			     		 	  			<a href="/products/PERS_CARE/COSMETCS/LIP_BOM?CURRENT_CATALOG_ID=VEGFRUIT"> Lip Balms</a>
+					 			     		 	  		</li>
+				 			     		 	  	</ul>
+				 			     		 	  <div class="hassubmenu_img sub_sub_menu_image">
+                                                <img src="/images/categories/linkOne/PERS_CARE.png" width="300" height="495">
+                                             </div>
+				 			     		 	  	</div>
+				 			     		 	</li>
+  				 			     		 	<li class="has_submenu_menu_submenu yes_submenu"><a href="/products/PERS_CARE/HAIR_CARE?CURRENT_CATALOG_ID=VEGFRUIT">Hair Care<i class="fa fa-caret-right"></i></a>
+				 			     		 	  <div class="third_div">
+				 			     		 	  	<ul>
+					 			     		 	  		<li>
+					 			     		 	  			<a href="/products/PERS_CARE/HAIR_CARE/SHAMPOOS?CURRENT_CATALOG_ID=VEGFRUIT"> Shampoos</a>
+					 			     		 	  		</li>
+					 			     		 	  		<li>
+					 			     		 	  			<a href="/products/PERS_CARE/HAIR_CARE/CONDITIONERS?CURRENT_CATALOG_ID=VEGFRUIT"> Conditioners</a>
+					 			     		 	  		</li>
+					 			     		 	  		<li>
+					 			     		 	  			<a href="/products/PERS_CARE/HAIR_CARE/HAIR_OIL?CURRENT_CATALOG_ID=VEGFRUIT"> Hair Oil</a>
+					 			     		 	  		</li>
+					 			     		 	  		<li>
+					 			     		 	  			<a href="/products/PERS_CARE/HAIR_CARE/HAIR_COLOUR?CURRENT_CATALOG_ID=VEGFRUIT"> Hair Colour &amp; Dye</a>
+					 			     		 	  		</li>
+					 			     		 	  		<li>
+					 			     		 	  			<a href="/products/PERS_CARE/HAIR_CARE/GEL_CREAM?CURRENT_CATALOG_ID=VEGFRUIT"> Gels &amp; Creams</a>
+					 			     		 	  		</li>
+				 			     		 	  	</ul>
+				 			     		 	  <div class="hassubmenu_img sub_sub_menu_image">
+                                                <img src="/images/categories/linkOne/PERS_CARE.png" width="300" height="495">
+                                             </div>
+				 			     		 	  	</div>
+				 			     		 	</li>
+  				 			     		 	<li class="has_submenu_menu_submenu yes_submenu"><a href="/products/PERS_CARE/SANT_NAPK?CURRENT_CATALOG_ID=VEGFRUIT">Sanitary Napkins<i class="fa fa-caret-right"></i></a>
+				 			     		 	  <div class="third_div">
+				 			     		 	  	<ul>
+					 			     		 	  		<li>
+					 			     		 	  			<a href="/products/PERS_CARE/SANT_NAPK/ADULY_DIAPER?CURRENT_CATALOG_ID=VEGFRUIT"> Adult Diapers</a>
+					 			     		 	  		</li>
+					 			     		 	  		<li>
+					 			     		 	  			<a href="/products/PERS_CARE/SANT_NAPK/SANITARY_DIAPER?CURRENT_CATALOG_ID=VEGFRUIT"> Sanitary Pads</a>
+					 			     		 	  		</li>
+				 			     		 	  	</ul>
+				 			     		 	  <div class="hassubmenu_img sub_sub_menu_image">
+                                                <img src="/images/categories/linkOne/PERS_CARE.png" width="300" height="495">
+                                             </div>
+				 			     		 	  	</div>
+				 			     		 	</li>
+  				 			     		 	<li class="has_submenu_menu_submenu no_submenu"><a href="/products/PERS_CARE/PERF_DEOS?CURRENT_CATALOG_ID=VEGFRUIT">Perfumes &amp; Deos</a>
+				 			     		 	  <div class="third_div">
+				 			     		 	  	<ul>
+				 			     		 	  	</ul>
+				 			     		 	  <div class="hassubmenu_img sub_sub_menu_image">
+                                                <img src="/images/categories/linkOne/PERS_CARE.png" width="300" height="495">
+                                             </div>
+				 			     		 	  	</div>
+				 			     		 	</li>
+  				 			     		 	<li class="has_submenu_menu_submenu yes_submenu"><a href="/products/PERS_CARE/SHAV_NEED?CURRENT_CATALOG_ID=VEGFRUIT">Shaving<i class="fa fa-caret-right"></i></a>
+				 			     		 	  <div class="third_div">
+				 			     		 	  	<ul>
+					 			     		 	  		<li>
+					 			     		 	  			<a href="/products/PERS_CARE/SHAV_NEED/SHAVING_FOAMS?CURRENT_CATALOG_ID=VEGFRUIT"> Shaving Foams &amp; Gels</a>
+					 			     		 	  		</li>
+					 			     		 	  		<li>
+					 			     		 	  			<a href="/products/PERS_CARE/SHAV_NEED/RAZOR_BLADES?CURRENT_CATALOG_ID=VEGFRUIT"> Razor &amp; Blades</a>
+					 			     		 	  		</li>
+					 			     		 	  		<li>
+					 			     		 	  			<a href="/products/PERS_CARE/SHAV_NEED/LOTIONS?CURRENT_CATALOG_ID=VEGFRUIT"> Lotions</a>
+					 			     		 	  		</li>
+					 			     		 	  		<li>
+					 			     		 	  			<a href="/products/PERS_CARE/SHAV_NEED/BRUSH?CURRENT_CATALOG_ID=VEGFRUIT"> Brush</a>
+					 			     		 	  		</li>
+				 			     		 	  	</ul>
+				 			     		 	  <div class="hassubmenu_img sub_sub_menu_image">
+                                                <img src="/images/categories/linkOne/PERS_CARE.png" width="300" height="495">
+                                             </div>
+				 			     		 	  	</div>
+				 			     		 	</li>
+  				 			     		 	<li class="has_submenu_menu_submenu no_submenu"><a href="/products/PERS_CARE/KER_HERB?CURRENT_CATALOG_ID=VEGFRUIT">Kerala Herbals</a>
+				 			     		 	  <div class="third_div">
+				 			     		 	  	<ul>
+				 			     		 	  	</ul>
+				 			     		 	  <div class="hassubmenu_img sub_sub_menu_image">
+                                                <img src="/images/categories/linkOne/PERS_CARE.png" width="300" height="495">
+                                             </div>
+				 			     		 	  	</div>
+				 			     		 	</li>
+				 			     		 </ul>
+				 			     		 <div class="hassubmenu_img sub_menu_image">
+                                    		<img src="/images/categories/linkOne/PERS_CARE.png" width="300" height="495">
+                               		 	</div>
+									</div> 
+				 			    </li>
+				 			    <li class="has_submenu_menu">
+				 			   	<a href="/products/BABY_CARE?CURRENT_CATALOG_ID=VEGFRUIT" class="atul">
+				 			 	 Baby Care <i class="fa fa-caret-right"></i></a>
+				 			    	<div class="second_div">
+				 			     		 <ul style="float:left;">
+  				 			     		 	<li class="has_submenu_menu_submenu no_submenu"><a href="/products/BABY_CARE/BABY_FOOD?CURRENT_CATALOG_ID=VEGFRUIT">Baby Food</a>
+				 			     		 	  <div class="third_div">
+				 			     		 	  	<ul>
+				 			     		 	  	</ul>
+				 			     		 	  <div class="hassubmenu_img sub_sub_menu_image">
+                                                <img src="/images/categories/linkOne/BABY_CARE.png" width="300" height="495">
+                                             </div>
+				 			     		 	  	</div>
+				 			     		 	</li>
+  				 			     		 	<li class="has_submenu_menu_submenu no_submenu"><a href="/products/BABY_CARE/DIAPER_WET?CURRENT_CATALOG_ID=VEGFRUIT">Baby Diapers &amp; Wet Wipes</a>
+				 			     		 	  <div class="third_div">
+				 			     		 	  	<ul>
+				 			     		 	  	</ul>
+				 			     		 	  <div class="hassubmenu_img sub_sub_menu_image">
+                                                <img src="/images/categories/linkOne/BABY_CARE.png" width="300" height="495">
+                                             </div>
+				 			     		 	  	</div>
+				 			     		 	</li>
+  				 			     		 	<li class="has_submenu_menu_submenu no_submenu"><a href="/products/BABY_CARE/OIL_SOAP?CURRENT_CATALOG_ID=VEGFRUIT">Baby Oil, Soap &amp; Shampoos</a>
+				 			     		 	  <div class="third_div">
+				 			     		 	  	<ul>
+				 			     		 	  	</ul>
+				 			     		 	  <div class="hassubmenu_img sub_sub_menu_image">
+                                                <img src="/images/categories/linkOne/BABY_CARE.png" width="300" height="495">
+                                             </div>
+				 			     		 	  	</div>
+				 			     		 	</li>
+  				 			     		 	<li class="has_submenu_menu_submenu no_submenu"><a href="/products/BABY_CARE/POW_CREAM?CURRENT_CATALOG_ID=VEGFRUIT">Baby Powder, Creams &amp; Lotions</a>
+				 			     		 	  <div class="third_div">
+				 			     		 	  	<ul>
+				 			     		 	  	</ul>
+				 			     		 	  <div class="hassubmenu_img sub_sub_menu_image">
+                                                <img src="/images/categories/linkOne/BABY_CARE.png" width="300" height="495">
+                                             </div>
+				 			     		 	  	</div>
+				 			     		 	</li>
+  				 			     		 	<li class="has_submenu_menu_submenu no_submenu"><a href="/products/BABY_CARE/BABY_OTHER?CURRENT_CATALOG_ID=VEGFRUIT">Other Accessories</a>
+				 			     		 	  <div class="third_div">
+				 			     		 	  	<ul>
+				 			     		 	  	</ul>
+				 			     		 	  <div class="hassubmenu_img sub_sub_menu_image">
+                                                <img src="/images/categories/linkOne/BABY_CARE.png" width="300" height="495">
+                                             </div>
+				 			     		 	  	</div>
+				 			     		 	</li>
+				 			     		 </ul>
+				 			     		 <div class="hassubmenu_img sub_menu_image">
+                                    		<img src="/images/categories/linkOne/BABY_CARE.png" width="300" height="495">
+                               		 	</div>
+									</div> 
+				 			    </li>
+				 			    <li class="has_submenu_menu">
+				 			   	<a href="/products/HOME_NEED?CURRENT_CATALOG_ID=VEGFRUIT" class="atul">
+				 			 	 Home Needs <i class="fa fa-caret-right"></i></a>
+				 			    	<div class="second_div">
+				 			     		 <ul style="float:left;">
+  				 			     		 	<li class="has_submenu_menu_submenu yes_submenu"><a href="/products/HOME_NEED/CLEAN_ART?CURRENT_CATALOG_ID=VEGFRUIT">Cleaning Articles<i class="fa fa-caret-right"></i></a>
+				 			     		 	  <div class="third_div">
+				 			     		 	  	<ul>
+					 			     		 	  		<li>
+					 			     		 	  			<a href="/products/HOME_NEED/CLEAN_ART/UTEN_CLENG?CURRENT_CATALOG_ID=VEGFRUIT"> Kitchen</a>
+					 			     		 	  		</li>
+					 			     		 	  		<li>
+					 			     		 	  			<a href="/products/HOME_NEED/CLEAN_ART/TOILET?CURRENT_CATALOG_ID=VEGFRUIT"> Toilet</a>
+					 			     		 	  		</li>
+					 			     		 	  		<li>
+					 			     		 	  			<a href="/products/HOME_NEED/CLEAN_ART/FLOOR_GLASS?CURRENT_CATALOG_ID=VEGFRUIT"> Floor &amp; Glass</a>
+					 			     		 	  		</li>
+					 			     		 	  		<li>
+					 			     		 	  			<a href="/products/HOME_NEED/CLEAN_ART/CLEA_ACCE?CURRENT_CATALOG_ID=VEGFRUIT"> Cleaning Accessories</a>
+					 			     		 	  		</li>
+				 			     		 	  	</ul>
+				 			     		 	  <div class="hassubmenu_img sub_sub_menu_image">
+                                                <img src="/images/categories/linkOne/HOME_NEED.png" width="300" height="495">
+                                             </div>
+				 			     		 	  	</div>
+				 			     		 	</li>
+  				 			     		 	<li class="has_submenu_menu_submenu yes_submenu"><a href="/products/HOME_NEED/DETERGENT?CURRENT_CATALOG_ID=VEGFRUIT">Detergents<i class="fa fa-caret-right"></i></a>
+				 			     		 	  <div class="third_div">
+				 			     		 	  	<ul>
+					 			     		 	  		<li>
+					 			     		 	  			<a href="/products/HOME_NEED/DETERGENT/DETERGENT_POWER?CURRENT_CATALOG_ID=VEGFRUIT"> Detergent Powders</a>
+					 			     		 	  		</li>
+					 			     		 	  		<li>
+					 			     		 	  			<a href="/products/HOME_NEED/DETERGENT/DERGENT_BARS?CURRENT_CATALOG_ID=VEGFRUIT"> Detergent Bars</a>
+					 			     		 	  		</li>
+					 			     		 	  		<li>
+					 			     		 	  			<a href="/products/HOME_NEED/DETERGENT/FABRIC_CONDITIONER?CURRENT_CATALOG_ID=VEGFRUIT"> Fabric Conditioners &amp; Softners</a>
+					 			     		 	  		</li>
+					 			     		 	  		<li>
+					 			     		 	  			<a href="/products/HOME_NEED/DETERGENT/WHITENING_ADDITIVES?CURRENT_CATALOG_ID=VEGFRUIT"> Whitening Additives</a>
+					 			     		 	  		</li>
+					 			     		 	  		<li>
+					 			     		 	  			<a href="/products/HOME_NEED/DETERGENT/STARCH_ADDITIVES?CURRENT_CATALOG_ID=VEGFRUIT"> Starch Additives</a>
+					 			     		 	  		</li>
+				 			     		 	  	</ul>
+				 			     		 	  <div class="hassubmenu_img sub_sub_menu_image">
+                                                <img src="/images/categories/linkOne/HOME_NEED.png" width="300" height="495">
+                                             </div>
+				 			     		 	  	</div>
+				 			     		 	</li>
+  				 			     		 	<li class="has_submenu_menu_submenu no_submenu"><a href="/products/HOME_NEED/PEST_CONT?CURRENT_CATALOG_ID=VEGFRUIT">Repellents &amp; Pest control</a>
+				 			     		 	  <div class="third_div">
+				 			     		 	  	<ul>
+				 			     		 	  	</ul>
+				 			     		 	  <div class="hassubmenu_img sub_sub_menu_image">
+                                                <img src="/images/categories/linkOne/HOME_NEED.png" width="300" height="495">
+                                             </div>
+				 			     		 	  	</div>
+				 			     		 	</li>
+  				 			     		 	<li class="has_submenu_menu_submenu yes_submenu"><a href="/products/HOME_NEED/AIR_FRESHERS?CURRENT_CATALOG_ID=VEGFRUIT">Air Freshners<i class="fa fa-caret-right"></i></a>
+				 			     		 	  <div class="third_div">
+				 			     		 	  	<ul>
+					 			     		 	  		<li>
+					 			     		 	  			<a href="/products/HOME_NEED/AIR_FRESHERS/CAR_FRESHERS?CURRENT_CATALOG_ID=VEGFRUIT"> Car Freshners</a>
+					 			     		 	  		</li>
+					 			     		 	  		<li>
+					 			     		 	  			<a href="/products/HOME_NEED/AIR_FRESHERS/ROOM_FRESHERS?CURRENT_CATALOG_ID=VEGFRUIT"> Room Freshners</a>
+					 			     		 	  		</li>
+				 			     		 	  	</ul>
+				 			     		 	  <div class="hassubmenu_img sub_sub_menu_image">
+                                                <img src="/images/categories/linkOne/HOME_NEED.png" width="300" height="495">
+                                             </div>
+				 			     		 	  	</div>
+				 			     		 	</li>
+  				 			     		 	<li class="has_submenu_menu_submenu no_submenu"><a href="/products/HOME_NEED/Kitchen_Art?CURRENT_CATALOG_ID=VEGFRUIT">Kitchen Articles</a>
+				 			     		 	  <div class="third_div">
+				 			     		 	  	<ul>
+				 			     		 	  	</ul>
+				 			     		 	  <div class="hassubmenu_img sub_sub_menu_image">
+                                                <img src="/images/categories/linkOne/HOME_NEED.png" width="300" height="495">
+                                             </div>
+				 			     		 	  	</div>
+				 			     		 	</li>
+  				 			     		 	<li class="has_submenu_menu_submenu no_submenu"><a href="/products/HOME_NEED/POOJA_ARTICLES?CURRENT_CATALOG_ID=VEGFRUIT">Pooja Articles</a>
+				 			     		 	  <div class="third_div">
+				 			     		 	  	<ul>
+				 			     		 	  	</ul>
+				 			     		 	  <div class="hassubmenu_img sub_sub_menu_image">
+                                                <img src="/images/categories/linkOne/HOME_NEED.png" width="300" height="495">
+                                             </div>
+				 			     		 	  	</div>
+				 			     		 	</li>
+  				 			     		 	<li class="has_submenu_menu_submenu yes_submenu"><a href="/products/HOME_NEED/PAP_DISPOS?CURRENT_CATALOG_ID=VEGFRUIT">Paper &amp; Disposables<i class="fa fa-caret-right"></i></a>
+				 			     		 	  <div class="third_div">
+				 			     		 	  	<ul>
+					 			     		 	  		<li>
+					 			     		 	  			<a href="/products/HOME_NEED/PAP_DISPOS/GAR_BAG?CURRENT_CATALOG_ID=VEGFRUIT"> Garbage Bags</a>
+					 			     		 	  		</li>
+					 			     		 	  		<li>
+					 			     		 	  			<a href="/products/HOME_NEED/PAP_DISPOS/PAPER_NAP?CURRENT_CATALOG_ID=VEGFRUIT"> Paper Napkins</a>
+					 			     		 	  		</li>
+					 			     		 	  		<li>
+					 			     		 	  			<a href="/products/HOME_NEED/PAP_DISPOS/PAP_DSP?CURRENT_CATALOG_ID=VEGFRUIT"> Paper Disposables</a>
+					 			     		 	  		</li>
+					 			     		 	  		<li>
+					 			     		 	  			<a href="/products/HOME_NEED/PAP_DISPOS/WRAP_POU?CURRENT_CATALOG_ID=VEGFRUIT"> Wrappers &amp; Pouches</a>
+					 			     		 	  		</li>
+				 			     		 	  	</ul>
+				 			     		 	  <div class="hassubmenu_img sub_sub_menu_image">
+                                                <img src="/images/categories/linkOne/HOME_NEED.png" width="300" height="495">
+                                             </div>
+				 			     		 	  	</div>
+				 			     		 	</li>
+  				 			     		 	<li class="has_submenu_menu_submenu yes_submenu"><a href="/products/HOME_NEED/ELECTRIC?CURRENT_CATALOG_ID=VEGFRUIT">Electricals<i class="fa fa-caret-right"></i></a>
+				 			     		 	  <div class="third_div">
+				 			     		 	  	<ul>
+					 			     		 	  		<li>
+					 			     		 	  			<a href="/products/HOME_NEED/ELECTRIC/BATTERIES_TORCHES?CURRENT_CATALOG_ID=VEGFRUIT"> Batteries &amp; Torches</a>
+					 			     		 	  		</li>
+					 			     		 	  		<li>
+					 			     		 	  			<a href="/products/HOME_NEED/ELECTRIC/LIGHT_BULB?CURRENT_CATALOG_ID=VEGFRUIT"> Lights &amp; Bulbs</a>
+					 			     		 	  		</li>
+				 			     		 	  	</ul>
+				 			     		 	  <div class="hassubmenu_img sub_sub_menu_image">
+                                                <img src="/images/categories/linkOne/HOME_NEED.png" width="300" height="495">
+                                             </div>
+				 			     		 	  	</div>
+				 			     		 	</li>
+  				 			     		 	<li class="has_submenu_menu_submenu no_submenu"><a href="/products/HOME_NEED/SHOE_CARE?CURRENT_CATALOG_ID=VEGFRUIT">Shoe care</a>
+				 			     		 	  <div class="third_div">
+				 			     		 	  	<ul>
+				 			     		 	  	</ul>
+				 			     		 	  <div class="hassubmenu_img sub_sub_menu_image">
+                                                <img src="/images/categories/linkOne/HOME_NEED.png" width="300" height="495">
+                                             </div>
+				 			     		 	  	</div>
+				 			     		 	</li>
+  				 			     		 	<li class="has_submenu_menu_submenu no_submenu"><a href="/products/HOME_NEED/PET_CARE?CURRENT_CATALOG_ID=VEGFRUIT">Pet care</a>
+				 			     		 	  <div class="third_div">
+				 			     		 	  	<ul>
+				 			     		 	  	</ul>
+				 			     		 	  <div class="hassubmenu_img sub_sub_menu_image">
+                                                <img src="/images/categories/linkOne/HOME_NEED.png" width="300" height="495">
+                                             </div>
+				 			     		 	  	</div>
+				 			     		 	</li>
+  				 			     		 	<li class="has_submenu_menu_submenu no_submenu"><a href="/products/HOME_NEED/IRONING_BOARD?CURRENT_CATALOG_ID=VEGFRUIT">Ironing Board &amp; Cloth Drier</a>
+				 			     		 	  <div class="third_div">
+				 			     		 	  	<ul>
+				 			     		 	  	</ul>
+				 			     		 	  <div class="hassubmenu_img sub_sub_menu_image">
+                                                <img src="/images/categories/linkOne/HOME_NEED.png" width="300" height="495">
+                                             </div>
+				 			     		 	  	</div>
+				 			     		 	</li>
+				 			     		 </ul>
+				 			     		 <div class="hassubmenu_img sub_menu_image">
+                                    		<img src="/images/categories/linkOne/HOME_NEED.png" width="300" height="495">
+                               		 	</div>
+									</div> 
+				 			    </li>
+				 			    <li class="has_submenu_menu">
+				 			   	<a href="/products/OTC_MEDICNE?CURRENT_CATALOG_ID=VEGFRUIT" class="atul">
+				 			 	 Health &amp; Medicine <i class="fa fa-caret-right"></i></a>
+				 			    	<div class="second_div">
+				 			     		 <ul style="float:left;">
+  				 			     		 	<li class="has_submenu_menu_submenu no_submenu"><a href="/products/OTC_MEDICNE/ADULY_DIAPER?CURRENT_CATALOG_ID=VEGFRUIT">Adult Diapers</a>
+				 			     		 	  <div class="third_div">
+				 			     		 	  	<ul>
+				 			     		 	  	</ul>
+				 			     		 	  <div class="hassubmenu_img sub_sub_menu_image">
+                                                <img src="/images/categories/linkOne/OTC_MEDICNE.png" width="300" height="495">
+                                             </div>
+				 			     		 	  	</div>
+				 			     		 	</li>
+  				 			     		 	<li class="has_submenu_menu_submenu no_submenu"><a href="/products/OTC_MEDICNE/Health_Suppl?CURRENT_CATALOG_ID=VEGFRUIT">Health Supplements</a>
+				 			     		 	  <div class="third_div">
+				 			     		 	  	<ul>
+				 			     		 	  	</ul>
+				 			     		 	  <div class="hassubmenu_img sub_sub_menu_image">
+                                                <img src="/images/categories/linkOne/OTC_MEDICNE.png" width="300" height="495">
+                                             </div>
+				 			     		 	  	</div>
+				 			     		 	</li>
+  				 			     		 	<li class="has_submenu_menu_submenu no_submenu"><a href="/products/OTC_MEDICNE/FEV_PAIN?CURRENT_CATALOG_ID=VEGFRUIT">Fever &amp; Pain Relief</a>
+				 			     		 	  <div class="third_div">
+				 			     		 	  	<ul>
+				 			     		 	  	</ul>
+				 			     		 	  <div class="hassubmenu_img sub_sub_menu_image">
+                                                <img src="/images/categories/linkOne/OTC_MEDICNE.png" width="300" height="495">
+                                             </div>
+				 			     		 	  	</div>
+				 			     		 	</li>
+  				 			     		 	<li class="has_submenu_menu_submenu no_submenu"><a href="/products/OTC_MEDICNE/COL_COU?CURRENT_CATALOG_ID=VEGFRUIT">Cold &amp; Cough</a>
+				 			     		 	  <div class="third_div">
+				 			     		 	  	<ul>
+				 			     		 	  	</ul>
+				 			     		 	  <div class="hassubmenu_img sub_sub_menu_image">
+                                                <img src="/images/categories/linkOne/OTC_MEDICNE.png" width="300" height="495">
+                                             </div>
+				 			     		 	  	</div>
+				 			     		 	</li>
+  				 			     		 	<li class="has_submenu_menu_submenu no_submenu"><a href="/products/OTC_MEDICNE/STOMACH?CURRENT_CATALOG_ID=VEGFRUIT">Stomach</a>
+				 			     		 	  <div class="third_div">
+				 			     		 	  	<ul>
+				 			     		 	  	</ul>
+				 			     		 	  <div class="hassubmenu_img sub_sub_menu_image">
+                                                <img src="/images/categories/linkOne/OTC_MEDICNE.png" width="300" height="495">
+                                             </div>
+				 			     		 	  	</div>
+				 			     		 	</li>
+  				 			     		 	<li class="has_submenu_menu_submenu no_submenu"><a href="/products/OTC_MEDICNE/FOOT_CAR?CURRENT_CATALOG_ID=VEGFRUIT">Foot Care</a>
+				 			     		 	  <div class="third_div">
+				 			     		 	  	<ul>
+				 			     		 	  	</ul>
+				 			     		 	  <div class="hassubmenu_img sub_sub_menu_image">
+                                                <img src="/images/categories/linkOne/OTC_MEDICNE.png" width="300" height="495">
+                                             </div>
+				 			     		 	  	</div>
+				 			     		 	</li>
+  				 			     		 	<li class="has_submenu_menu_submenu no_submenu"><a href="/products/OTC_MEDICNE/FIR_AID?CURRENT_CATALOG_ID=VEGFRUIT">First Aid</a>
+				 			     		 	  <div class="third_div">
+				 			     		 	  	<ul>
+				 			     		 	  	</ul>
+				 			     		 	  <div class="hassubmenu_img sub_sub_menu_image">
+                                                <img src="/images/categories/linkOne/OTC_MEDICNE.png" width="300" height="495">
+                                             </div>
+				 			     		 	  	</div>
+				 			     		 	</li>
+  				 			     		 	<li class="has_submenu_menu_submenu no_submenu"><a href="/products/OTC_MEDICNE/ANT_FUNG?CURRENT_CATALOG_ID=VEGFRUIT">Antifungal Cream</a>
+				 			     		 	  <div class="third_div">
+				 			     		 	  	<ul>
+				 			     		 	  	</ul>
+				 			     		 	  <div class="hassubmenu_img sub_sub_menu_image">
+                                                <img src="/images/categories/linkOne/OTC_MEDICNE.png" width="300" height="495">
+                                             </div>
+				 			     		 	  	</div>
+				 			     		 	</li>
+  				 			     		 	<li class="has_submenu_menu_submenu no_submenu"><a href="/products/OTC_MEDICNE/EAR_BUD?CURRENT_CATALOG_ID=VEGFRUIT">Ear Buds</a>
+				 			     		 	  <div class="third_div">
+				 			     		 	  	<ul>
+				 			     		 	  	</ul>
+				 			     		 	  <div class="hassubmenu_img sub_sub_menu_image">
+                                                <img src="/images/categories/linkOne/OTC_MEDICNE.png" width="300" height="495">
+                                             </div>
+				 			     		 	  	</div>
+				 			     		 	</li>
+  				 			     		 	<li class="has_submenu_menu_submenu yes_submenu"><a href="/products/OTC_MEDICNE/FAM_PLAN?CURRENT_CATALOG_ID=VEGFRUIT">Family Planning &amp; Sexual Wellbeing<i class="fa fa-caret-right"></i></a>
+				 			     		 	  <div class="third_div">
+				 			     		 	  	<ul>
+					 			     		 	  		<li>
+					 			     		 	  			<a href="/products/OTC_MEDICNE/FAM_PLAN/COND?CURRENT_CATALOG_ID=VEGFRUIT"> Condoms</a>
+					 			     		 	  		</li>
+					 			     		 	  		<li>
+					 			     		 	  			<a href="/products/OTC_MEDICNE/FAM_PLAN/LUBRI?CURRENT_CATALOG_ID=VEGFRUIT"> Lubricants</a>
+					 			     		 	  		</li>
+					 			     		 	  		<li>
+					 			     		 	  			<a href="/products/OTC_MEDICNE/FAM_PLAN/PILLS?CURRENT_CATALOG_ID=VEGFRUIT"> Birth Control Pills</a>
+					 			     		 	  		</li>
+				 			     		 	  	</ul>
+				 			     		 	  <div class="hassubmenu_img sub_sub_menu_image">
+                                                <img src="/images/categories/linkOne/OTC_MEDICNE.png" width="300" height="495">
+                                             </div>
+				 			     		 	  	</div>
+				 			     		 	</li>
+  				 			     		 	<li class="has_submenu_menu_submenu no_submenu"><a href="/products/OTC_MEDICNE/SANITISER?CURRENT_CATALOG_ID=VEGFRUIT">Sanitiser</a>
+				 			     		 	  <div class="third_div">
+				 			     		 	  	<ul>
+				 			     		 	  	</ul>
+				 			     		 	  <div class="hassubmenu_img sub_sub_menu_image">
+                                                <img src="/images/categories/linkOne/OTC_MEDICNE.png" width="300" height="495">
+                                             </div>
+				 			     		 	  	</div>
+				 			     		 	</li>
+				 			     		 </ul>
+				 			     		 <div class="hassubmenu_img sub_menu_image">
+                                    		<img src="/images/categories/linkOne/OTC_MEDICNE.png" width="300" height="495">
+                               		 	</div>
+									</div> 
+				 			    </li>
+				 			    <li class="has_submenu_menu">
+				 			   	<a href="/products/SCH_OFF?CURRENT_CATALOG_ID=VEGFRUIT" class="atul">
+				 			 	 School &amp; Office Stationery <i class="fa fa-caret-right"></i></a>
+				 			    	<div class="second_div">
+				 			     		 <ul style="float:left;">
+  				 			     		 	<li class="has_submenu_menu_submenu no_submenu"><a href="/products/SCH_OFF/BAGS_CARRIER?CURRENT_CATALOG_ID=VEGFRUIT">School Bags &amp; Carrier</a>
+				 			     		 	  <div class="third_div">
+				 			     		 	  	<ul>
+				 			     		 	  	</ul>
+				 			     		 	  <div class="hassubmenu_img sub_sub_menu_image">
+                                                <img src="" width="300" height="495">
+                                             </div>
+				 			     		 	  	</div>
+				 			     		 	</li>
+  				 			     		 	<li class="has_submenu_menu_submenu no_submenu"><a href="/products/SCH_OFF/CALCI?CURRENT_CATALOG_ID=VEGFRUIT">Calculators</a>
+				 			     		 	  <div class="third_div">
+				 			     		 	  	<ul>
+				 			     		 	  	</ul>
+				 			     		 	  <div class="hassubmenu_img sub_sub_menu_image">
+                                                <img src="" width="300" height="495">
+                                             </div>
+				 			     		 	  	</div>
+				 			     		 	</li>
+  				 			     		 	<li class="has_submenu_menu_submenu yes_submenu"><a href="/products/SCH_OFF/OFFIC_SUPPL?CURRENT_CATALOG_ID=VEGFRUIT">Office Supplies<i class="fa fa-caret-right"></i></a>
+				 			     		 	  <div class="third_div">
+				 			     		 	  	<ul>
+					 			     		 	  		<li>
+					 			     		 	  			<a href="/products/SCH_OFF/OFFIC_SUPPL/BOARD_DESK?CURRENT_CATALOG_ID=VEGFRUIT"> Boards &amp; Desk Accessories</a>
+					 			     		 	  		</li>
+					 			     		 	  		<li>
+					 			     		 	  			<a href="/products/SCH_OFF/OFFIC_SUPPL/ENVE_PACK?CURRENT_CATALOG_ID=VEGFRUIT"> Envelopes &amp; Packing Tapes</a>
+					 			     		 	  		</li>
+					 			     		 	  		<li>
+					 			     		 	  			<a href="/products/SCH_OFF/OFFIC_SUPPL/PAP_CLIP?CURRENT_CATALOG_ID=VEGFRUIT"> Paper Clips &amp; Drawing Pins</a>
+					 			     		 	  		</li>
+				 			     		 	  	</ul>
+				 			     		 	  <div class="hassubmenu_img sub_sub_menu_image">
+                                                <img src="" width="300" height="495">
+                                             </div>
+				 			     		 	  	</div>
+				 			     		 	</li>
+  				 			     		 	<li class="has_submenu_menu_submenu no_submenu"><a href="/products/SCH_OFF/PRINT_PAPR?CURRENT_CATALOG_ID=VEGFRUIT">Printing Papers</a>
+				 			     		 	  <div class="third_div">
+				 			     		 	  	<ul>
+				 			     		 	  	</ul>
+				 			     		 	  <div class="hassubmenu_img sub_sub_menu_image">
+                                                <img src="" width="300" height="495">
+                                             </div>
+				 			     		 	  	</div>
+				 			     		 	</li>
+  				 			     		 	<li class="has_submenu_menu_submenu yes_submenu"><a href="/products/SCH_OFF/SCHL_OFFIC?CURRENT_CATALOG_ID=VEGFRUIT">School &amp; Office Accessories<i class="fa fa-caret-right"></i></a>
+				 			     		 	  <div class="third_div">
+				 			     		 	  	<ul>
+					 			     		 	  		<li>
+					 			     		 	  			<a href="/products/SCH_OFF/SCHL_OFFIC/FILE_FOLD?CURRENT_CATALOG_ID=VEGFRUIT"> Files, Folders &amp; Labelings</a>
+					 			     		 	  		</li>
+					 			     		 	  		<li>
+					 			     		 	  			<a href="/products/SCH_OFF/SCHL_OFFIC/NOTEB_NOTEP?CURRENT_CATALOG_ID=VEGFRUIT"> Notebooks, Notepads &amp; Diaries</a>
+					 			     		 	  		</li>
+					 			     		 	  		<li>
+					 			     		 	  			<a href="/products/SCH_OFF/SCHL_OFFIC/PEN_PENCL?CURRENT_CATALOG_ID=VEGFRUIT"> Pens, Pencils, Markers &amp; Rulers</a>
+					 			     		 	  		</li>
+					 			     		 	  		<li>
+					 			     		 	  			<a href="/products/SCH_OFF/SCHL_OFFIC/PUNCH_STAPL?CURRENT_CATALOG_ID=VEGFRUIT"> Punch, Staplers &amp; Staple pins</a>
+					 			     		 	  		</li>
+					 			     		 	  		<li>
+					 			     		 	  			<a href="/products/SCH_OFF/SCHL_OFFIC/SCISS_ADHE?CURRENT_CATALOG_ID=VEGFRUIT"> Scissors &amp; Adhesive Glues</a>
+					 			     		 	  		</li>
+				 			     		 	  	</ul>
+				 			     		 	  <div class="hassubmenu_img sub_sub_menu_image">
+                                                <img src="" width="300" height="495">
+                                             </div>
+				 			     		 	  	</div>
+				 			     		 	</li>
+  				 			     		 	<li class="has_submenu_menu_submenu yes_submenu"><a href="/products/SCH_OFF/SCHL_SUPPL?CURRENT_CATALOG_ID=VEGFRUIT">School Supplies<i class="fa fa-caret-right"></i></a>
+				 			     		 	  <div class="third_div">
+				 			     		 	  	<ul>
+					 			     		 	  		<li>
+					 			     		 	  			<a href="/products/SCH_OFF/SCHL_SUPPL/CHART_CRAFT?CURRENT_CATALOG_ID=VEGFRUIT"> Chart &amp; Craft Papers</a>
+					 			     		 	  		</li>
+					 			     		 	  		<li>
+					 			     		 	  			<a href="/products/SCH_OFF/SCHL_SUPPL/ERASR_SHARP?CURRENT_CATALOG_ID=VEGFRUIT"> Erasers &amp; Sharpners</a>
+					 			     		 	  		</li>
+					 			     		 	  		<li>
+					 			     		 	  			<a href="/products/SCH_OFF/SCHL_SUPPL/SCHL_ACC?CURRENT_CATALOG_ID=VEGFRUIT"> School Accessories</a>
+					 			     		 	  		</li>
+					 			     		 	  		<li>
+					 			     		 	  			<a href="/products/SCH_OFF/SCHL_SUPPL/SKETCH_ACC?CURRENT_CATALOG_ID=VEGFRUIT"> Sketching Accessories &amp; Colours</a>
+					 			     		 	  		</li>
+				 			     		 	  	</ul>
+				 			     		 	  <div class="hassubmenu_img sub_sub_menu_image">
+                                                <img src="" width="300" height="495">
+                                             </div>
+				 			     		 	  	</div>
+				 			     		 	</li>
+				 			     		 </ul>
+				 			     		 <div class="hassubmenu_img sub_menu_image">
+                                    		<img src="" width="300" height="495">
+                               		 	</div>
+									</div> 
+				 			    </li>
+				</ul>
+				</div>
+			</li>
+			
+ 	  		<li id="homenav"><a href="/control/home;jsessionid=9E61DABC029FC38307294AE047BD7914.jvm9">Home</a></li>
+			<li id="savings"><a href="https://www.youmart.in/control/viewprofileSavings;jsessionid=9E61DABC029FC38307294AE047BD7914.jvm9">YouMart Saving</a></li>
+			<li id="discount"><a href="/products/DISCOUNTS?CURRENT_CATALOG_ID=VEGFRUIT">Offers</a></li>
+			<li id="savings"><a href="/products/NEW_ARRIVAL?CURRENT_CATALOG_ID=VEGFRUIT">New Arrival</a></li>
+			<li id="summerspecial"><a href="/products/BACKTOSCHOOL">Back to School</a></li>
+			<!--li id="quickshop" style="float:right; background:none !important;"><a href="/control/quickshop;jsessionid=9E61DABC029FC38307294AE047BD7914.jvm9"></a></li-->
+	 	</ul></nav>	
+ 
+		<div style="float:right; padding:5px;">                           
+	      	<script type="text/javascript">
+				function keywordsearch(){
+					var ser = document.getElementById('SEARCH_STRING').value;
+					if (ser == "Search"){
+						document.getElementById('SEARCH_STRING').value = '';
+					}
+					document.minikeywordsearchform.submit();
+				}
+			</script>
+		</div>
+	</div>
+</div>
+     	
+     	<!--div style="width: 100%;height: 100%;position: fixed;top: 0px;left: 0px;z-index: 999999999;background: black;opacity: 0.3;display:none;" id="grey_layout"></div-->
+     	
+<script>
+$(document).ready(function(e) {
+	var min_height=495;
+	$(".first_div").css("height","495px");
+	
+    $(".yes_submenu").mouseenter(function(e) {
+		$(".sub_menu_image").hide();
+		$(".first_div").css("width","976px");
+    });
+	$(".yes_submenu").mouseleave(function(e) {
+		$(".sub_menu_image").show();
+		$(".first_div").css("width","751px");
+    });
+    $(".no_submenu").mouseenter(function(e) {
+		$(".sub_sub_menu_image").hide();
+		$(".first_div").css("width","751px");
+    });
+    $(".no_submenu").mouseleave(function(e) {
+		$(".sub_sub_menu_image").show();
+    });
+    
+    $(".first_div > ul > li").mouseenter(function(){
+    	var first_div_height=$(this).parent("ul").outerHeight();
+    	var second_div_height=$(this).children(".second_div").children("ul").outerHeight();
+    	if(first_div_height>second_div_height){
+    		if(first_div_height>min_height){
+    			min_height=first_div_height;
+    		}
+    		$(".first_div").css("height",min_height+1);
+    	}else{
+    		if(second_div_height>min_height){
+    			min_height=second_div_height;
+    		}
+    		$(".first_div").css("height",min_height+1);
+    	}
+    	if(second_div_height<first_div_height){
+    		$(this).children(".second_div").children("ul").css("height",first_div_height);
+    	}
+    	if(first_div_height<300 && second_div_height<300){
+    		//$(".first_div").css("height","301px");
+    	}
+    });
+    
+    $(".first_div .has_submenu_menu").mouseenter(function(){
+    	$(".first_div").css("width","751px");
+    });
+    
+    $(".first_div .has_submenu_menu").mouseleave(function(){
+    	$(".first_div").css("width","225px");
+    });
+    
+    $(".first_div").mouseenter(function(){
+    	$("#grey_layout").show();
+    	$("#browseshop").addClass("browseshop_hover");
+    	$(".first_div").css("margin-left","0px");
+    });
+    
+    $(".first_div").mouseleave(function(){
+    	$("#grey_layout").hide();
+    	$("#browseshop").removeClass("browseshop_hover");
+    	$(".first_div").css("margin-left","-5px");
+    });
+    
+    
+    $(".second_div > ul > li").mouseenter(function(){
+    	var second_div_height=$(this).parent("ul").outerHeight();
+    	var third_div_height=$(this).children(".third_div").children("ul").outerHeight();
+    	if(third_div_height<second_div_height){
+    		$(this).children(".third_div").children("ul").css("height",second_div_height);
+    	}
+    });
+    
+    $("#browseshop").mouseenter(function(){
+    	var height=$(this).children(".first_div").children("ul").outerHeight();
+    	$(".first_div").css("width","225px");
+    	//$(".first_div").css("height",height);
+    });
+    $(".first_div").mouseenter(function(){
+    	$(".first_div").css("width","751px");
+    });
+    
+	$("#location_popup_close").click(function(){
+		$("#content").hide();
+		$("#location_popup_background").hide();
+	});
+	
+	$("#site_overlay").hide();
+});
+</script>
+<!-- End Template component://erptheme1/includes/header.ftl -->
+</div><div id="ecom-mainarea">
+<div id="div1" class="left">
+</div><div id="div2" class="right">
+<!-- Begin Screen component://ecommerce/widget/ecomclone/CommonScreens.xml#rightbar -->
+<!-- Begin Template component://ecommerce/webapp/ecomclone/catalog/commonbottom.ftl -->
+<script type="text/javascript">
+	function checkLogin()
+ 		{
+   alert("Please login for inviting friend");
+   return false;
+}
+</script>
+
+
+<!-- End Template component://ecommerce/webapp/ecomclone/catalog/commonbottom.ftl -->
+<!-- Begin Template component://ecommerce/webapp/ecomclone/catalog/userBanner.ftl -->
+
+	
+<!-- End Template component://ecommerce/webapp/ecomclone/catalog/userBanner.ftl -->
+<!-- End Screen component://ecommerce/widget/ecomclone/CommonScreens.xml#rightbar -->
+</div><div id="div3" class="leftonly">
+<!-- Begin Template component://common/webcommon/includes/messages.ftl -->
+
+
+
+
+<!-- End Template component://common/webcommon/includes/messages.ftl -->
+<div class="inner-content">
+ <div class="Shopcar_pageHead">PRIVACY POLICY</div>
+    <p style="margin-top:0px !important">We at YouMart acknowledge that you have entrusted some of your personal information with us while signing up. 
+    We are very much obliged for the great trust you have with us and reassure you that all your personal information 
+    you have given us will be kept securely and with utmost privacy. Below herewith we explain how we use this information 
+    and why we are able to assure you the privacy of data.</p>
+    <strong>Information we collect</strong><br>
+    <p>During you first login and while you shop with YouMart you will submit your personal information to us as this is necessary 
+    to recognize you and provide you better service. We will treat all information submitted by you in accordance with the terms of 
+    this privacy policy and in strict compliance with all Data Protection law. You may be asked to update such information anytime 
+    if it is necessary and found incomplete.<br>
+    By entering your personal information in the YouMart web site you agree that we are allowed to retain your information and 
+    share with any third party company that processes it on our behalf if necessary. </p>
+    <strong>What we collect and why </strong>
+    <p>Our continuous effort to improve our service can be supported only if we are able to understand our customers better. 
+    The information we gather from you helps us in our effort to continually improve the service we offer to our customers.</p>
+    <p>We are able to gather information about our customers in different ways, while you are shopping with us or while communicating 
+    with our office. Here is how we gather the information:</p>
+    <ul class="point">
+    <li>The first time when you register with us, we ask for information such as your name, e-mail address, delivery address, contact details etc (these are mandatory to proceed registration) and date of birth, marital status, name and DOB of spouse etc (which are optional). If you place an order and wish to pay by card, you will be asked for your credit/debit card details. We keep a record of this information because all this is necessary for us to recognise you as a registered customer and to fulfil the orders you place with us. Storing this information means you do not need to re-enter these details each time you shop.</li>
+    <li>We keep a record of your purchases with us, which will help us to maintain a history of your previous orders enabling you to access them for your reference and re-ordering. We can also create lists of your favourite items to make your shopping experience quicker and more convenient. It also means we can deal a lot quicker with any problems you may experience with your order.</li>
+    <li>Your email, telephone calls or other correspondence with us will also be recorded to help us to track of your likes and dislikes and any problems or concerns you've had with our products or services. Telephone calls made to our Customer Service Helpline may be recorded for monitoring and quality control purposes.</li>
+    </ul>
+    <strong>How we use your personal information</strong>
+    <p>The information we collect through our website or any correspondence with you will be used to operate and improve the service 
+    we offer you. Here is how we use your personal information in our record: 
+    </p><ul class="point">
+      <li><strong>Order and Delivery -</strong> To keep you updated during handling of your orders and deliveries and be sure that we communicate to the right person.</li>
+      <li><strong>Marketing -</strong> As part of our marketing we provide periodic communications by post, telephone, SMS, email about features, offers, promotions and events. We may also include offers from outside parties which may be beneficial to our customers.</li>
+      <li><strong>Products &amp; Services -</strong> To provide information about the various products and services we offer, this will include information about our joint initiatives with third parties for added services to our customers.</li>
+      <li><strong>Prices and offers -</strong> Information about special offers, promotions, price benefits and savings to our customers. At times YouMart may select a group of customers for promotional offers and we directly communicate to our customers. </li>
+      <li><strong>Market research -</strong> to conduct market research, statistical analysis, customer behavior, market trends, customer feedback.</li>
+      <li><strong>Third party service providers -</strong> For the purpose of focused campaign and promotions we may sometimes approach third party services. Sometimes for other services, like for example we engage agencies to analyse customer information, provide marketing assistance, process credit card payments. We may also seek outside assistance of credit reference agencies, fraud prevention and detection agencies and debt collection agencies as and when required. In all such cases we only provide information that is relevant to perform the function and make sure that the information is used with care.</li>
+      <li><strong>Protection and fraud -</strong> enable us to avoid malice entrants to our site by identifying our registered and genuine users. Scammers are capable of creating authentic looking, but false websites. Their intention is to tempt users to enter their personal information like name, bank / credit card details etc and later attempt to access the bank account and do fraud transactions.</li>
+    </ul>
+    <strong>Data security</strong>
+    <p>To ensure that the customer data is secured we use sophisticated technology while processing, transacting or transferring the 
+    information. For example Secure Socket Layer ("SSL") encryption technology is used for protection of information in transit for 
+    any sensitive transactions such as payments. We reveal only the last four digits of your credit card number in any bills or 
+    documents related to your order and payments. The entire credit card details is only transmitted to the appropriate credit 
+    card company during the payment processing.<br><br>
+    It is the responsibility of the customer not to allow any unauthorised access to your password and to your computer and make 
+    sure to sign off every time after using you computer in a shared network or shared computer.
+    </p>
+    <strong>Require more information</strong><br>
+    <p>If you feel that the information on the personal data and privacy policy we have provided here does not clarify, you may please 
+    contact us at director@youmart.in. To see all the information we have about you, and to update the information, you may email us.
+    </p>
+    <strong>The Director</strong><br>
+    <strong>YouMart</strong><br>
+</div>  </div><div id="div4" class="endcolumns">
+</div></div></div><div id="footer">
+<!-- Begin Template component://erptheme1/includes/footer.ftl -->
+
+<!-- <a href="javascript:custClickedCartsummary()" id="cartsummary1" class="fb-vertical"><img src="/erptheme1/cartslide/cart_button.png" class="header-main-link" alt="cart summary" title="cart summary"/>
+		<div style="position:absolute; top:34px; left:9px;" id="expandSideCatQuantity">0</div>		
+</a>-->
+<div id="inbulkorder" class="fb-vertical" style="display:none">
+	<!-- Begin Screen component://ecommerce/widget/ecomclone/CartScreens.xml#minicart -->
+<!-- Begin Template component://order/webapp/ordermgr/entry/cart/minicart.ftl -->
+
+
+
+
+
+
+<a href="https://www.youmart.in/control/showcart;jsessionid=9E61DABC029FC38307294AE047BD7914.jvm9">
+<strong id="microCartQuantity">0</strong> Item ,<span class="WebRupee">₹</span> <span id="microCartTotal">0</span>
+</a>
+
+
+
+ 
+  
+
+
+
+
+
+
+
+
+<!-- End Template component://order/webapp/ordermgr/entry/cart/minicart.ftl -->
+<!-- End Screen component://ecommerce/widget/ecomclone/CartScreens.xml#minicart -->
+	
+		<div style="position:absolute; top:34px; left:9px;" id="sideCatQuantity">0</div>		
+	<a href="#" class="cartlink" style="top:183px;"></a>
+	<map name="Map">
+		<area shape="rect" coords="2,3,34,179" href="javascript:custClickedCartOrder()" alt="close">
+	</map>
+</div>
+<script>
+function checkEmailHome() {
+
+email=document.getElementById("emailId").value;
+if(email!=null && email!="")
+{
+            if (/^\w+([\.-]?\w+)*@\w+([\.-]?\w+)*(\.\w{2,3})+$/.test(email)){
+            var  param = 'email='+ email;
+			 jQuery.ajax({url: "/control/checkingExisingEmail",
+       				  data: param,
+         			  type: 'post',
+        			context: $(this),
+         			async: false,
+         
+         success: function(data) {
+         if(data.contains("true"))
+         {
+         
+         document.getElementById("popup_content").style.display='none';
+          document.getElementById("existingCustomer").style.display='block';
+          $(function() {
+          $( "#existingCustomer" ).dialog({
+		modal: true,
+		buttons: {
+		Ok: function() {
+		$( this ).dialog( "close" );
+		}
+		}
+		});
+		});
+  		
+  		}
+         else
+         {
+          storeEmailform.action="/control/storeEmaillocation";
+          storeEmailform.submit();
+         }
+         },
+         error: function(data) {
+         }
+       
+    });
+       return true;
+            }
+            else
+            {
+            alert("Please Provide correct Email id");
+             return false; 
+            }
+            }
+            else
+            {
+            alert("Please Provide Email id");
+            return false;
+            }
+          }
+</script>
+<script>
+
+	var interval;
+	function cartsummary1(){
+	 $('#cartsummary1').hide();
+	 $('#inbulkorder').show();
+	 
+	}
+	function inbulkorder(){
+	 $('#cartsummary1').show();
+	 $('#inbulkorder').hide();
+	 
+	}
+</script>
+
+<script>
+	function custClickedCartsummary(){
+		 $('#cartsummary1').hide();
+		 $('#inbulkorder').show();
+	}
+	function custClickedCartOrder(){
+		 $('#cartsummary1').show();
+		 $('#inbulkorder').hide();
+	}
+	
+</script>
+
+<style>
+
+#backgroundPopup {
+    z-index:1;
+    position: fixed;
+    display:none;
+    height:100%;
+    width:100%;
+    background:#000000;
+    top:0px;
+    left:0px;
+}
+#toPopup {
+    font-family: "lucida grande",tahoma,verdana,arial,sans-serif;
+    background: none repeat scroll 0 0 #FFFFFF;
+    border: 10px solid #ccc;
+    border-radius: 3px 3px 3px 3px;
+    color: #333333;
+    display: none;
+    font-size: 14px;
+    left:45%;
+    margin-left: -402px;
+    position: fixed;
+    top: 25%;
+   
+    z-index: 2;
+    text-align:left;
+}
+div.loader {
+    background: url("../img/loading.gif") no-repeat scroll 0 0 transparent;
+    height: 32px;
+    width: 32px;
+    display: none;
+    z-index: 9999;
+    top: 40%;
+    left: 50%;
+    position: absolute;
+    margin-left: -10px;
+}
+div.close {
+    background: url("../img/closebox.png") no-repeat scroll 0 0 transparent;
+    cursor: pointer;
+    height: 30px;
+    position: absolute;
+    right: -27px;
+    top: -24px;
+    width: 30px;
+}
+span.ecs_tooltip {
+    background: none repeat scroll 0 0 #000000;
+    border-radius: 2px 2px 2px 2px;
+    color: #FFFFFF;
+    display: none;
+    font-size: 11px;
+    height: 16px;
+    opacity: 0.7;
+    padding: 4px 3px 2px 5px;
+    position: absolute;
+    right: -62px;
+    text-align: center;
+    top: -51px;
+    width: 93px;
+}
+span.arrow {
+    border-left: 5px solid transparent;
+    border-right: 5px solid transparent;
+    border-top: 7px solid #000000;
+    display: block;
+    height: 1px;
+    left: 40px;
+    position: relative;
+    top: 3px;
+    width: 1px;
+}
+div#popup_content {
+    margin: 4px 7px;
+    /* remove this comment if you want scroll bar
+    overflow-y:scroll;
+    height:200px
+    */
+}
+
+</style>
+<!--<a href="http://www.google.com?iframe=true&width=100%&height=100%" rel="prettyPhoto[iframes]" title="Google.com opened at 100%">Google.com</a>-->
+<!-- a href="javascript:feedback1()" id="feedback1" class="fb-verticalone"><img src="/erptheme1/cartslide/feedback.png" class="header-main-link" alt="feedback" title="feedback"/></a -->
+<div id="feedbackinfo" class="fb-verticalone1" style="display:none">
+	<!-- Begin Screen component://ecommerce/widget/ecomclone/CatalogScreens.xml#feedbackhome -->
+<!-- Begin Template component://ecommerce/webapp/ecomclone/customer/feedback.ftl -->
+<script>
+function validateFeedbackForm(){
+	var feedbackMessage = document.getElementById('message').value;
+	var feedbackemail = document.getElementById('email').value;
+	var e = document.getElementById("commentSelect");
+	var emailFilter = /^([a-zA-Z0-9_\.\-])+\@(([a-zA-Z0-9\-])+\.)+([a-zA-Z0-9]{2,4})+$/;
+	if(feedbackemail == '' || feedbackemail == null){
+		alert("Please enter email.");
+		return false;
+	}
+	if (!emailFilter.test(feedbackemail)) {
+    alert("Please enter valid email address");
+    document.getElementById('email').value='';
+    document.getElementById('email').focus();
+    return false;
+ }
+ 	if(e.options[e.selectedIndex].value == "select"){
+ 		alert("Please select comment.");
+ 		document.getElementById('commentSelect').focus();
+ 		return false;
+ 	}
+	if(feedbackMessage == '' || feedbackMessage == null){
+		alert("Please enter message.");
+		return false;
+	}
+	
+	feedbackFormSubmitAjax();
+	//document.feedback.submit();
+	return true;
+}
+
+
+
+function feedbackFormSubmitAjax()
+{
+var email = document.getElementById("email").value;
+var commentSelect = document.getElementById("commentSelect").value;
+var message = document.getElementById("message").value;
+
+var url = "/control/sendEmailFeedback?email="+email+"&commentSelect="+commentSelect+"&message="+message;
+var xmlhttp;
+if (window.XMLHttpRequest)
+  {// code for IE7+, Firefox, Chrome, Opera, Safari
+  xmlhttp=new XMLHttpRequest();
+  }
+else
+  {// code for IE6, IE5
+  xmlhttp=new ActiveXObject("Microsoft.XMLHTTP");
+  }
+xmlhttp.onreadystatechange=function()
+  {
+  if (xmlhttp.readyState==4 && xmlhttp.status==200)
+    {
+	    var msg = xmlhttp.responseText;
+	    if(msg == null || msg == "")
+	    	msg = "Your feedback has successfully submitted .";
+	    	
+	    alert(msg);
+	    
+	    if(msg == "Your feedback has successfully submitted .")
+	    {
+	    	document.getElementById("email").value = "";
+			document.getElementById("commentSelect").selectedIndex="0";
+			
+			var msgDiv = "<textarea cols='30'  rows='3' name='message' id='message' style='margin-left:4px; margin-bottom:4px;'></textarea>*";
+			document.getElementById("messageDiv").innerHTML = msgDiv;
+	    }
+	    feedbackinfo();
+    }
+  }
+xmlhttp.open("GET",url,true);
+xmlhttp.send();
+}
+
+</script>
+
+<table cellpadding="0" cellspacing="0" border="0">
+	<tbody><tr>
+		<td style="vertical-align:top;">
+			<div class="inner-content" style="background:#ffffff; font-weight:normal; border:0px solid #7a7946; min-height:112px; margin-right:0px !important;">
+			 <div class="Shopcar_pageHead">Feedback</div>
+			   			       <table width="400px">
+			       	<tbody><tr>
+				  	<td><b style="padding-left:4px;">Need assistance with regard to shopping or delivery?</b></td>
+				    </tr>
+				    <tr>
+				  	<td style="padding-left:4px;">For any assistance please get in touch with our customer support team at <b>(080) 45 45 88 88.</b></td>
+				    </tr>
+				    <tr>
+				  	<td style="padding-left:4px;">We would really appreciate your valuable feedback, any ideas or suggestions to improve our service to you, 
+				  	or any input in terms of our product availability, website options and features etc, please send your feedback by email:</td>
+				    </tr>
+			        <tr>
+			        	<td style="vertical-align:top; color:#ff0000 !important;"> <a href="https://www.youmart.in/control/feedback;jsessionid=9E61DABC029FC38307294AE047BD7914.jvm9" class="login123" style="color:#06509B !important;">Please login to provide feedback</a></td>
+			        </tr>
+			        
+			        
+			       </tbody></table>
+			</div>
+		</td>
+		<td style="vertical-align:top;">
+			<!-- div style="float:left; width:38px;">
+				<img src="/erptheme1/cartslide/feedbackclose.png" alt="bulk order" usemap="#Map2" />
+			</div -->
+		</td>
+	</tr>
+</tbody></table><!-- End Template component://ecommerce/webapp/ecomclone/customer/feedback.ftl -->
+<!-- End Screen component://ecommerce/widget/ecomclone/CatalogScreens.xml#feedbackhome -->
+
+	<a href="#" class="feedlink" style="top:183px;"></a>
+	<map name="Map2">
+			<area shape="rect" coords="6,3,38,126" href="javascript:feedbackinfo()" alt="close">
+	</map>
+</div>
+
+<script>
+	function feedback1(){
+	 $('#feedback1').hide();
+	 $('#feedbackinfo').show();
+	}
+	function feedbackinfo(){
+	 $('#feedback1').show();
+	 $('#feedbackinfo').hide();
+	}
+</script>
+
+
+
+
+<!-- a href="javascript:tellus1()" id="tellus1" class="fb-verticaltwo"><img src="/erptheme1/cartslide/call.png" alt="Tell a Friend" class="header-main-link" title="Tell a Friend"/></a -->
+<div id="tellusinfo" class="fb-verticalone1" style="display:none">
+	<!-- Begin Screen component://ecommerce/widget/ecomclone/CatalogScreens.xml#inviteafriendRen -->
+<!-- Begin Template component://ecommerce/webapp/ecomclone/catalog/inviteafriend.ftl -->
+<script type="text/javascript">
+function validateFields(){
+	
+var userName = document.getElementById('userName').value;
+var sendTo = document.getElementById('sendTo').value;
+var mobileNo = document.getElementById('mobileNo').value;
+var emailFilter = /^([a-zA-Z0-9_\.\-])+\@(([a-zA-Z0-9\-])+\.)+([a-zA-Z0-9]{2,4})+$/;
+if(userName==''){
+	alert("Please enter name.");
+	document.getElementById('userName').focus();
+	return false;
+}
+if(sendTo==''){
+	alert("Please enter email.");
+	document.getElementById('sendTo').focus();
+	return false;
+}
+else if (!emailFilter.test(sendTo)) {
+    alert("Please enter valid email address");
+    document.getElementById('sendTo').value='';
+    document.getElementById('sendTo').focus();
+    return false;
+ }
+if(mobileNo==''){
+	alert("Please enter mobile no.");
+	document.getElementById('mobileNo').focus();
+	return false;
+}
+else if(mobileNo.length < 10 || mobileNo.length > 13){
+	alert("Please enter 10 to 12 digit  mobile no.");
+	document.getElementById('mobileNo').value='';
+	document.getElementById('mobileNo').focus();
+	return false;
+}
+inviteAfriendValidate();
+return false;
+}
+function isNumberKeyInviteFriend(evt)
+      {
+         var charCode = (evt.which) ? evt.which : event.keyCode
+         if (charCode > 31 && (charCode < 48 || charCode > 57))
+            return false;
+              
+         return true;
+      }
+</script>
+
+
+<script type="text/javascript">
+
+function checkEmailId(usernameObj){
+
+var username=usernameObj.value;
+var sendFrom = document.getElementById('sendFrom').value;
+ if(username==""){
+	   jQuery('#errorMsg8').html("");
+	  document.forms['tellafriend'].sendTo.focus();
+	  return false;
+	 }
+if(username == sendFrom){
+	alert("You are registered user.");
+	usernameObj.value="";
+	return false;
+}	 
+    var url="/control/checkEmailId?username="+username;
+    jQuery.ajax({url: url,
+        data: null,
+        type: 'post',
+        async: false,
+        success: function(data) {
+		if(data == 'SY' ){
+	          //usernameObj.value = "";
+	           //jQuery('#errorMsg8').html("You are registered user.");
+	           alert("Your friend is already registered on YouMart!");
+	           document.getElementById('sendTo').value='';
+    		   document.getElementById('sendTo').focus();
+	           return false;
+           }
+          else if(data=='Y'){
+	          jQuery('#errorMsg8').html("");
+	          jQuery('#userNameErr').html("");
+	          return false;
+          }else{
+	            
+          }
+ 	    return true; 
+	  },
+        error: function(data) {
+          alert("Error during inviting!");
+            return false; 
+        }
+    });  
+}
+function addZeroPrefix(){
+	var phoneNo=document.getElementById('mobileNo');
+	if(phoneNo.value.length <10 || phoneNo.value.length >12){
+		document.getElementById('mobileNo').value="";
+	    document.getElementById('mobileNo').focus();
+	    alert("Please enter valid mobile number.");
+	    return false;
+	}
+	if(phoneNo.value[0] != "0"){
+		document.getElementById('mobileNo').value = "0"+document.getElementById('mobileNo').value;
+	}
+	var url="/control/checkMobileNo?mobileNo="+document.getElementById('mobileNo').value;
+    jQuery.ajax({url: url,
+        data: null,
+        type: 'post',
+        async: false,
+        success: function(data) {
+          if(data == 'SY' ){
+	          //usernameObj.value = "";
+	          //jQuery('#errorMsg8').html("Mobile number is already in use!");
+	           alert("Mobile number is already in use!");
+	           document.getElementById('mobileNo').value="";
+	           document.getElementById('mobileNo').focus();
+           }
+          else if(data=='Y'  ){
+	          jQuery('#errorMsg8').html("");
+	          jQuery('#userNameErr').html("");
+          }else{
+	            
+          }
+ 	   return true;
+	  },
+        error: function(data) {
+          alert("Error during login");
+            return false; 
+        }
+    });  
+}
+
+
+function inviteAfriendValidate()
+{
+var sendFrom = document.getElementById("sendFrom").value;
+var userName = document.getElementById("userName").value;
+var sendTo = document.getElementById("sendTo").value;
+var mobileNo = document.getElementById("mobileNo").value;
+var message = document.getElementById("message").value;
+var pageUrl = document.getElementById("pageUrl").value;
+
+
+var url = "/control/emailInviteFriend?sendFrom="+sendFrom+"&userName="+userName+"&sendTo="+sendTo+"&mobileNo="+mobileNo+"&message="+message+"&pageUrl="+pageUrl;
+var xmlhttp;
+if (window.XMLHttpRequest)
+  {// code for IE7+, Firefox, Chrome, Opera, Safari
+  xmlhttp=new XMLHttpRequest();
+  }
+else
+  {// code for IE6, IE5
+  xmlhttp=new ActiveXObject("Microsoft.XMLHTTP");
+  }
+xmlhttp.onreadystatechange=function()
+  {
+  if (xmlhttp.readyState==4 && xmlhttp.status==200)
+    {
+	    var msg = xmlhttp.responseText;
+	    if(msg == null || msg == "")
+	    	msg = "Successfully invited a friend . An email send to your friend .";
+	    	
+	    alert(msg);
+	    
+	    if(msg == "Successfully invited a friend . An email send to your friend .")
+	    {
+	    	document.getElementById("userName").value = "";
+			document.getElementById("sendTo").value = "";
+			document.getElementById("mobileNo").value = "";
+			    
+		 	var msgDiv = '<textarea cols="35"  rows="3" name="message" id="message" style="width:167px;height:40px;margin-left:4px;"></textarea>';
+		 	document.getElementById("inviteMessageDiv").innerHTML = ""
+			 document.getElementById("inviteMessageDiv").innerHTML = msgDiv;
+	    }
+	    tellusinfo();
+    }
+  }
+xmlhttp.open("GET",url,true);
+xmlhttp.send();
+}
+
+
+
+</script>
+<div class="inner-content" style="padding:0px !important;">
+<table cellpadding="0" cellspacing="0" border="0">
+	<tbody><tr>
+	 <td>
+	   <div style="background:#ffffff; border:0px solid #7a7946; min-height:144px;">
+	    <div class="Shopcar_pageHead">Invite a friend</div>
+	    <form name="tellafriend" action="#" method="post" onsubmit="return validateFields();">
+	    
+	       <table width="400px" style="font-weight:normal;">
+	          <tbody><tr>
+			  	<td align="center" style="padding-left:40px;"><img src="/erptheme1/dontmiss1.png"></td>
+			  </tr>
+			  <tr>
+			  	<td style="padding-left:4px;">We are persistent in building a beautiful community of YouMart citizens; hence invite your near &amp; dear ones to shop with YouMart. </td>
+			  </tr>
+			  <tr>
+			  	<td style="padding-left:4px;">You earn rewards of <b>2000 points</b> everytime you invite a new friend/family to shop with us, which will be added to your YouMart Savings balance.</td>
+			  </tr>
+			  <tr>
+			  	<td style="padding-left:4px;">Not enough!! You also get <b>flat 5% additional discount</b> on every new reference !!</td>
+			  </tr>
+			  <tr>
+			  	<td style="padding-left:4px;">Refer <a href="/control/faqs;jsessionid=9E61DABC029FC38307294AE047BD7914.jvm9#inviteafriend" style="color:#06509B;">FAQ's</a> for details.</td>
+			  </tr>
+	       	 <tr>
+	        	<td style="vertical-align:top; color:#ff0000 !important;"><a href="https://www.youmart.in/control/inviteafriend;jsessionid=9E61DABC029FC38307294AE047BD7914.jvm9" class="login123" style="color:#06509B !important;">Please login to Invite a Friend</a></td>
+	        </tr>
+	       </tbody></table>
+	    </form>
+	   </div>
+    </td>
+	<td style=" width:38px; vertical-align:top;">
+		   <!-- img src="/erptheme1/cartslide/call-close_new.png" alt="bulk order" usemap="#Map3" / -->
+	</td>
+    </tr>
+</tbody></table>
+</div><!-- End Template component://ecommerce/webapp/ecomclone/catalog/inviteafriend.ftl -->
+<!-- End Screen component://ecommerce/widget/ecomclone/CatalogScreens.xml#inviteafriendRen -->
+
+	<a href="#" class="telluslink" style="top:183px;"></a>
+	<map name="Map3">
+		<area shape="rect" coords="6,3,35,151" href="javascript:tellusinfo()" alt="close">
+	</map>
+</div>
+
+<script>
+	function tellus1(){
+	 $('#tellus1').hide();
+	 $('#tellusinfo').show();
+	}
+	function tellusinfo(){
+	 $('#tellus1').show();
+	 $('#tellusinfo').hide();
+	}
+</script>
+
+<div class="footer">
+	<div class="website-info-left">
+    	<h4>Information &amp; Services</h4>
+    	<ul style="width:200px !important;">
+      		<li><a href="/control/aboutus;jsessionid=9E61DABC029FC38307294AE047BD7914.jvm9">About Us</a></li>
+      		<li><a href="/control/aboutyoufarm;jsessionid=9E61DABC029FC38307294AE047BD7914.jvm9">About YouFarm</a></li>
+      	 	<li><a href="/control/siteMap;jsessionid=9E61DABC029FC38307294AE047BD7914.jvm9">Site Map</a></li>
+      	 	<li><!--          		<a href="/control/AnonContactus;jsessionid=9E61DABC029FC38307294AE047BD7914.jvm9">Contact Us</a>
+        		-->
+        		<a href="/control/AnonContactus;jsessionid=9E61DABC029FC38307294AE047BD7914.jvm9">Contact Us</a>
+        	</li>
+      		<li><a href="/control/policies;jsessionid=9E61DABC029FC38307294AE047BD7914.jvm9">Privacy Policy</a></li>
+      		<li><a href="/control/securitypolicy;jsessionid=9E61DABC029FC38307294AE047BD7914.jvm9">Security Policy</a></li>
+      		<!--<li><a href="/control/mediaCenter;jsessionid=9E61DABC029FC38307294AE047BD7914.jvm9">Media Center</a></li>-->
+      		<li><a href="/control/termofuse;jsessionid=9E61DABC029FC38307294AE047BD7914.jvm9?FaqsId=FaqsId">Term And Conditions</a></li>
+      		<li id="viewTestimonials"><a href="/control/viewTestimonials;jsessionid=9E61DABC029FC38307294AE047BD7914.jvm9">Testimonials</a></li>
+			<li id="feedBack"><a href="/control/viewFeedback;jsessionid=9E61DABC029FC38307294AE047BD7914.jvm9">Feedback </a></li>
+      		<li id="feedBack"><a href="/control/viewInviteAFriend;jsessionid=9E61DABC029FC38307294AE047BD7914.jvm9">Invite a friend </a></li>
+  		
+  		</ul>
+  		<div style="clear:both"></div>
+  		<div style="text-align:left; margin-top:50px"><img src="/erptheme1/fssai.gif"></div>
+	</div>
+ 	
+	<div class="website-info" style="width:255px">
+   		<h4>Top Brands</h4>
+		<ul>
+		
+		
+		
+ 
+      		<li><a href="/control/topBrandProducts;jsessionid=9E61DABC029FC38307294AE047BD7914.jvm9?SEARCH_STRING=Aashirvaad&amp;filterByBrand=Aashirvaad">Aashirvaad</a>
+      		</li>
+      		<li><a href="/control/topBrandProducts;jsessionid=9E61DABC029FC38307294AE047BD7914.jvm9?SEARCH_STRING=Saffola&amp;filterByBrand=Saffola">Saffola</a>
+      		</li>
+      		<li><a href="/control/topBrandProducts;jsessionid=9E61DABC029FC38307294AE047BD7914.jvm9?SEARCH_STRING=Britannia&amp;filterByBrand=Britannia">Britannia</a>
+      		</li>
+      		<li><a href="/control/topBrandProducts;jsessionid=9E61DABC029FC38307294AE047BD7914.jvm9?SEARCH_STRING=Amul&amp;filterByBrand=Amul">Amul</a>
+      		</li>
+      		<li><a href="/control/topBrandProducts;jsessionid=9E61DABC029FC38307294AE047BD7914.jvm9?SEARCH_STRING=MTR&amp;filterByBrand=MTR">MTR</a>
+      		</li>
+      		<li><a href="/control/topBrandProducts;jsessionid=9E61DABC029FC38307294AE047BD7914.jvm9?SEARCH_STRING=Surf Excel&amp;filterByBrand=Surf Excel">Surf Excel</a>
+      		</li>
+      		<li><a href="/control/topBrandProducts;jsessionid=9E61DABC029FC38307294AE047BD7914.jvm9?SEARCH_STRING=Tropicana&amp;filterByBrand=Tropicana">Tropicana</a>
+      		</li>
+      		<li><a href="/control/topBrandProducts;jsessionid=9E61DABC029FC38307294AE047BD7914.jvm9?SEARCH_STRING=Best&amp;filterByBrand=Best">Best</a>
+      		</li>
+      		<li><a href="/control/topBrandProducts;jsessionid=9E61DABC029FC38307294AE047BD7914.jvm9?SEARCH_STRING=Daawat&amp;filterByBrand=Daawat">Daawat</a>
+      		</li>
+      		<li><a href="/control/topBrandProducts;jsessionid=9E61DABC029FC38307294AE047BD7914.jvm9?SEARCH_STRING=Pantene&amp;filterByBrand=Pantene">Pantene</a>
+      		</li>
+      		<li><a href="/control/topBrandProducts;jsessionid=9E61DABC029FC38307294AE047BD7914.jvm9?SEARCH_STRING=Lakme&amp;filterByBrand=Lakme">Lakme</a>
+      		</li>
+      		<li><a href="/control/topBrandProducts;jsessionid=9E61DABC029FC38307294AE047BD7914.jvm9?SEARCH_STRING=Nestle&amp;filterByBrand=Nestle">Nestle</a>
+      		</li>
+      		<li><a href="/control/topBrandProducts;jsessionid=9E61DABC029FC38307294AE047BD7914.jvm9?SEARCH_STRING=Cadbury&amp;filterByBrand=Cadbury">Cadbury</a>
+      		</li>
+      		<li><a href="/control/topBrandProducts;jsessionid=9E61DABC029FC38307294AE047BD7914.jvm9?SEARCH_STRING=Horlicks&amp;filterByBrand=Horlicks">Horlicks</a>
+      		</li>
+      		<li><a href="/control/topBrandProducts;jsessionid=9E61DABC029FC38307294AE047BD7914.jvm9?SEARCH_STRING=Tata Tea&amp;filterByBrand=Tata Tea">Tata Tea</a>
+      		</li>
+      		<li><a href="/control/topBrandProducts;jsessionid=9E61DABC029FC38307294AE047BD7914.jvm9?SEARCH_STRING=MamyPoko&amp;filterByBrand=MamyPoko">MamyPoko</a>
+      		</li>
+      		
+  		</ul>
+	</div>
+
+
+
+
+	
+	<div class="website-info" style="width:255px">
+   		<h4>Top Categories</h4>
+		<ul>
+      		<li><a href="/products/BABY_CARE/DIAPER_WET?CURRENT_CATALOG_ID=VEGFRUIT">Baby Diapers &amp; Wet Wipes</a></li>
+      		<li><a href="/products/BABY_CARE/OIL_SOAP?CURRENT_CATALOG_ID=VEGFRUIT">Baby Oil, Soap &amp; Shampoos</a></li>
+      		<li><a href="/products/CHILL_DRINK/ENE_DRINK?CURRENT_CATALOG_ID=VEGFRUIT">Health Drinks</a></li>
+      		<li><a href="/products/FOODGROC/RICE_PRO/BAS_RIC?CURRENT_CATALOG_ID=VEGFRUIT">Basmati Rice</a></li>
+      		<li><a href="/products/HOME_NEED/CLEA_ACCE?CURRENT_CATALOG_ID=VEGFRUIT">Cleaning Accessories, Kitchen &amp; Toilet Agents</a></li>
+      		<li><a href="/products/FOODGROC/SNACK_WEFR?CURRENT_CATALOG_ID=VEGFRUIT">Snacks &amp; Wafers</a></li>
+      		<li><a href="/products/CHO_DES/COO_BISC?CURRENT_CATALOG_ID=VEGFRUIT">Cookies &amp; Biscuits</a></li>
+      		<li><a href="/products/FOODGROC/TEA_COFFE?CURRENT_CATALOG_ID=VEGFRUIT">Tea &amp; Coffee</a></li>
+      		<li><a href="/products/PERS_CARE/SKN_CARE?CURRENT_CATALOG_ID=VEGFRUIT">Skin Care</a></li>
+      		
+  		</ul>
+	</div>
+    <div class="website-info" style="border-right:none !important;">
+   		<h4>Be in touch</h4>
+		<ul>  
+      		<li style="padding-bottom:8px;"><a href="https://www.facebook.com/pages/Youmart/652717481452888?ref=settings" target="_blank" class="fb"></a>
+      		<a href="https://twitter.com/YoumartShopping" target="_blank" class="twitter"> </a>
+      		<a href="https://plus.google.com/u/0/b/118149388921584738984/118149388921584738984/posts" target="_blank" class="google"> </a>
+      		<a href="http://www.linkedin.com/company/youmart?trk=biz-companies-cym" target="_blank" class="linkedin"> </a></li>
+      		<li style="padding: 30px 8px 0 0; height:20px;">      		
+      			<iframe src="//www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.facebook.com%2FYoumartShopping&amp;width&amp;layout=button_count&amp;action=like&amp;show_faces=true&amp;share=false&amp;height=21&amp;appId=512610442161323" scrolling="no" frameborder="0" style="border:none; overflow:hidden; height:21px;" allowtransparency="true"></iframe>
+      		</li>
+      		<li style="padding:10px 8px 0 0; height:20px;">
+      			<script type="text/javascript" src="https://apis.google.com/js/plusone.js" async=""></script>
+      			<g:plusone href="https://plus.google.com/u/0/118149388921584738984/posts" size="medium" width="300" annotation="bubble">
+      		</g:plusone></li>
+  		</ul>
+  		<div style="clear:both;"> </div>
+  		<div><h4>Payment Methods</h4></div>
+      		<div style="margin-top:5px;"><img src="/erptheme1/visa.jpg"></div>
+      		<div style="clear:both;"> </div>
+      		<div style="margin-top:25px; margin-bottom:15px; margin-left:5px; text-align:left">
+      		<span id="siteseal"><script type="text/javascript" src="https://seal.godaddy.com/getSeal?sealID=JJOEI0YUYjLcxMP2fkGCV9KnoLEkYqAuLppNEk5RND33tPUQ18cB"></script></span>
+      		<a href="http://www.coupondunia.in" target="_blank" title="Find Our Coupons on 
+
+CouponDunia">
+
+  <img src="http://www.coupondunia.in/media/coupondunia_badge.png" width="105" height="40" alt="Find Our Coupons on CouponDunia" style="padding: 5px; cursor: hand; 
+
+border:0">
+
+ </a>
+		</div>
+	</div>
+			
+</div>
+
+
+<div id="common-bottom" style="position:fixed; right:0px; bottom:0px;">
+	<a href="../../products/p_GIFTCARD"></a>
+</div>
+
+
+<div style="clear:both; border-top:1px solid #777645; margin:5px auto; width:1024px;"></div>
+<span class="active"> Copyright © 2013-2014 Ujjivan Enterprises Pvt Ltd. </span> <br><br><br>
+<script>
+
+
+function searchChgQty(delta,id){
+                     var txtbox = document.getElementById(id);
+                     var value = txtbox.value;
+                     qty = parseFloat(value) + delta;
+                     qty = parseInt(qty);
+                     if(qty < 1)
+                     {
+                     	qty = 1;
+                     }
+                     document.getElementById(id).value = parseInt(qty);
+}
+
+function searchAddToCart(productId, productName){
+
+	if(productName == '' || productName == null){
+		productName = productId;
+	}	
+    var add_product_id= productId;
+    var quantity= document.getElementById("quantity"+productId).value;
+    if(quantity > 20)
+    {
+    	alert("Please select quantity less than 20"); 
+    }
+    else
+    {
+       if (add_product_id == 'NULL') {
+           showErrorAlert("The following errors occurred","Please select all of the required options.");
+           return;
+       }else {
+           var  param = 'add_product_id=' + add_product_id + 
+                      '&quantity=' + quantity;
+                      jQuery.ajax({url: '/control/additem',
+         data: param,
+         type: 'post',
+         async: false,
+         success: function(data) {
+          if(data.indexOf("Can not add more than") !== -1)
+          {
+             var flag_new = true;
+          	 if(data == "Can not add more than giftcard")return;
+          	 
+          	 var dataTemplate=data.replace("Can not","can't");
+          	
+          	 alert(dataTemplate);
+	         return;
+            }else{
+				if((data.indexOf("Can't add more than ") !== -1) || (data.indexOf("Due to Limited availibility of this product") !== -1)){
+          		alert(data);
+          	}else{	
+    	    cart_top_notification(productName);
+    		document.getElementById('microcart').innerHTML=data;                                		 
+    	}
+		}
+         // $('#minicart').html(data);
+           SearchShowDialog(false);
+         },
+         complete:  function() { 
+         
+        // var minitotal = document.getElementById('abcxyz').innerHTML;
+         // var miniquantity = document.getElementById('miniquantityA').value;
+          // $('#microCartTotal').text(minitotal);
+          // document.getElementById('microCartQuantity').innerHTML=miniquantity;
+          // document.getElementById('checkoutdis').style.display="block";
+         // document.getElementById('abcxyzhref').href="/control/showcart";
+         },
+        error: function(data) {
+        }
+    	});
+      }
+   }
+}
+
+function SearchShowDialog(modal)
+   {
+      setTimeout(function() {
+       $('#cartsummary1').show();
+		 $('#inbulkorder').hide();
+        
+    }, 4000);
+    
+    var miniquantity = document.getElementById('miniquantityA').value;
+    document.getElementById('expandSideCatQuantity').innerHTML=miniquantity;
+    document.getElementById('sideCatQuantity').innerHTML=miniquantity;
+    cartsummary1();
+    
+   }
+
+
+function checkForGiftCard(data,formName){
+	var flag = true;
+	if(data == "Can't add more than giftcard")
+          	 {
+          	 	clearCart(formName);
+          	 	/*
+				var r=confirm("Can't add other items with gift card . Do you want to remove gift card !");
+				if (r==true)
+				  {
+				     clearCart(formName);
+				  }
+				else
+				  {
+				  flag = false;
+				  }
+				  */
+          	 }
+      return flag;
+}
+function clearCart(formName){
+	jQuery.ajax({url: "/control/emptycartNew",
+         data: "",
+         type: 'post',
+         async: false,
+         success: function(data) {
+         if(formName == "")
+         {
+         	addItemsCart();
+         }else{
+         	addItem(formName);
+         }
+	     },
+        error: function(data) {
+        }
+    	});
+}
+
+</script>
+ <script> 
+
+
+
+
+
+function backupdatecart()
+{
+
+    jQuery.ajax({url: '/control/minicart',
+	         data: null,
+	         type: 'post',
+	         async: false,
+	         success: function(data) {
+					$('#minicart').html(data); 
+					var miniquantity = document.getElementById('miniquantityA').value;
+           			document.getElementById('microCartQuantity').innerHTML=miniquantity;
+           			document.getElementById('sideCatQuantity').innerHTML=miniquantity; 
+           			document.getElementById('expandSideCatQuantity').innerHTML=miniquantity; 
+	      	 		var abcvalue = document.getElementById('abcxyz').innerHTML;
+           			if (abcvalue ==""){
+           	           abcvalue = "0.00";
+           	
+           			}   
+	        		document.getElementById('microCartTotal').innerHTML =abcvalue; 
+	      
+	         },
+        error: function(data) {
+        }
+    	});
+}
+</script>
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ 
+  ga('create', 'UA-48446863-1', 'youmart.in');
+  ga('send', 'pageview');
+ 
+</script>
+
+<!-- Google Code for Remarketing Tag -->
+<!--------------------------------------------------
+Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. See more information and instructions on how to setup the tag on: http://google.com/ads/remarketingsetup
+--------------------------------------------------->
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 969975614;
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/969975614/?value=0&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>
+<!-- End Template component://erptheme1/includes/footer.ftl -->
+</div><!-- Begin Template component://common/webcommon/includes/closehtmlbody.ftl -->
+
+
+<!-- End Template component://common/webcommon/includes/closehtmlbody.ftl -->
+<!-- End Section Widget  -->
+<!-- End Screen component://ecommerce/widget/ecomclone/CommonScreens.xml#main-decorator -->
+<!-- End Screen component://ecommerce/widget/ecomclone/CustomerScreens.xml#policies -->
+</body></html>
