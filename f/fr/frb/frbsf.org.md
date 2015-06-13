@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the frbsf.org privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231171611id_/http%3A//www.frbsf.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the frbsf.org privacy policy that was archived on 2015-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150613213924id_/http%3A//www.frbsf.org/privacy) for the most accurate reproduction.*
 
-# Federal Reserve Bank San Francisco | Privacy |
+# Federal Reserve Bank San Francisco | Privacy
 
 ##### Federal Reserve Bank of San Francisco Privacy Policy
 
