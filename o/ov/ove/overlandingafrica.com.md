@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the overlandingafrica.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230140500id_/http%3A//www.overlandingafrica.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the overlandingafrica.com privacy policy that was archived on 2015-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150613225251id_/http%3A//www.overlandingafrica.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Overlanding Africa.com
 
@@ -138,3 +138,5 @@ South Africa
 top of the page
 
 * * *
+
+Commenting is not available in this channel entry. 
