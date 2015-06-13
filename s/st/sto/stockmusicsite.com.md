@@ -1,10 +1,7 @@
-> *The following text is extracted and transformed from the stockmusicsite.com privacy policy that was archived on 2014-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141218220921id_/http%3A//www.stockmusicsite.com/stockmusic/legal/privacy_policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stockmusicsite.com privacy policy that was archived on 2015-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150613225312id_/http%3A//www.stockmusicsite.com/stockmusic/legal/privacy_policy.cfm) for the most accurate reproduction.*
 
 # StockMusicSite.com Privacy Policy
 
-| 
-
-|   
 ---  
   
 **Privacy Policy of StockMusicSite.com  
@@ -87,24 +84,3 @@ We know that you care how your information is used, and we appreciate your trust
   
   
 
-
-intro sound effects,  
-hd sound effects,  
-cool sounds effects download,  
-online free sounds effects of cannons,  
-free download sound effects mp3,  
-sound effects virtual dj,  
-free sound effects libraries,  
-shark sound effects,  
-piercing thunder and winds sound effect,  
-free beating heart sound effect,  
-free jaws sound effect,  
-air raid sirens sounds,  
-gunshot sound effect download,  
-gong sounds,  
-cheer music sound effects,  
-marvel intro sound,  
-endangered species downloadable sounds,  
-wav sounds,  
-음향 효과,  
-wav office space 
