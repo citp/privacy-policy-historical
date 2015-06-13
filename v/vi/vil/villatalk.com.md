@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the villatalk.com privacy policy that was archived on 2014-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141226202200id_/http%3A//www.villatalk.com/index.php/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the villatalk.com privacy policy that was archived on 2015-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150613111111id_/http%3A//www.villatalk.com/index.php/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - VillaTalk
 
