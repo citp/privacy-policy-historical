@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the skincareresourcecenter.com privacy policy that was archived on 2014-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141126164955id_/http%3A//www.skincareresourcecenter.com/disclaimer-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skincareresourcecenter.com privacy policy that was archived on 2015-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150613062626id_/http%3A//www.skincareresourcecenter.com/disclaimer-statement.html) for the most accurate reproduction.*
 
 # Disclaimer Statement
 
