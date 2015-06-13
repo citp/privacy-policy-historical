@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dramayou.com privacy policy that was archived on 2014-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141219145155id_/http%3A//dramayou.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dramayou.com privacy policy that was archived on 2015-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150614003105id_/http%3A//dramayou.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - DramaYou | Korean Drama English Subtitles
 
@@ -20,7 +20,10 @@ http://dramayou.com/ uses cookies to store information about visitors' preferenc
 **Our Advertising Partners**  
 Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include .......
 
-  * Google Adsense
+  * Taboola
+  * MadAdsMedia
+  * 5Advertise
+  * AdsOptimal
 
 
 
