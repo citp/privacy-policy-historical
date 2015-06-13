@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the positivepromotions.com privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217062508id_/http%3A//www.positivepromotions.com/privacy-policy/a/414) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the positivepromotions.com privacy policy that was archived on 2015-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150613171652id_/http%3A//www.positivepromotions.com/privacy-policy/a/414) for the most accurate reproduction.*
 
 # Positive Promotions Privacy Policy
 
