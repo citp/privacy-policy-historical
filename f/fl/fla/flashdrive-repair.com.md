@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the flashdrive-repair.com privacy policy that was archived on 2014-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140813112547id_/http%3A//www.flashdrive-repair.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flashdrive-repair.com privacy policy that was archived on 2015-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150613232950id_/http%3A//www.flashdrive-repair.com/p/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy|Flash Drive Repair
+# Privacy Policy
 
 **Personal identification information**  
 We may collect personally identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, fill out a form, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, name, email address. Users may, however, visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.  
