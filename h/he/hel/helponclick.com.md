@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the helponclick.com privacy policy that was archived on 2014-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140601102408id_/http%3A//www.helponclick.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the helponclick.com privacy policy that was archived on 2015-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150613235032id_/http%3A//www.helponclick.com/privacy.php) for the most accurate reproduction.*
 
 # Live Chat Software privacy statement
 
