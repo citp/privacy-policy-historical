@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the kiz10.com privacy policy that was archived on 2014-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141020021623id_/http%3A//kiz10.com/privacity) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kiz10.com privacy policy that was archived on 2015-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150613192448id_/http%3A//kiz10.com/privacity) for the most accurate reproduction.*
 
-# Divercion games free online kiz10
+# Divercion games free online kiz10 - KIZ
 
 ### PRIVACY KIZ10
 
