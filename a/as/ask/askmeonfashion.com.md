@@ -1,27 +1,33 @@
-> *The following text is extracted and transformed from the askmeonfashion.com privacy policy that was archived on 2014-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140613041633id_/http%3A//askmeonfashion.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the askmeonfashion.com privacy policy that was archived on 2015-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150613234525id_/http%3A//www.askmeonfashion.com/privacy-policy) for the most accurate reproduction.*
 
-# Fashion Accessories-
+# Privacy Policy | Askme on Fashion
 
-The given Policy has been developed by Askmeonfashion, Inc. in a manner and with a sustained effort in order to safeguard the confidentiality of our users. This Policy gets applied whenever you use our website. The application of any other related services in the domain name of <http://askmeonfashion.com/> also comes under this policy. If you visit or use our website you are bound to agree our Policy. If you are dissatisfied with the policy, then we request you not to visit and use our website.
+The given Policy has been developed by Askmeonfashion, Inc. in a manner and with a sustained effort in order to safeguard the confidentiality of our users. This Policy gets applied whenever you use our website. The application of any other related services in the domain name of <http://askmeonfashion.com/> also comes under this policy. If you visit or use our website you are bound to agree our Policy. If you are dissatisfied with the policy, then we request you not to visit and use our website.
 
 **Information Gathered by us**
 
-Information submitted by any user  
+Information submitted by any user
+
+1\. Our website collects basic personal information whenever you will request or register any of the information from our end. The information which is collected by us from the users are as follows:
+
+  * Email Address
+  * Password
+  * Login name
 
 
-  1. Our website collects basic personal information whenever you will request or register any of the information from our end. The information which is collected by us from the users are as follows:
-    * Email Address
-    * Password
-    * Login name
 
-You have the authority to modify all your personal information through the sign in process in your Askmeonfashion account by selecting the option of “edit my account”
+You have the authority to modify all your personal information through the sign in process in your Askmeonfashion account by selecting the option of “edit my account”  
+ 
 
-  2. If you send any sort of personal correspondence like letters or emails or any third party feels to send any messages about any of your postings or activities on the website, we might collect this information to a file which will be specifically allotted for you. 
-  3. You have the right to enter the email address of another person for sharing any set. In this case the recipient’s following details are gathered by us
-    * Email address
-    * information collected which are non-submitted
-  4. Our website can also collect any sort of non-personal data which might not be related with your identity. This data is collected just for improvising our Website. The information which stays in the form of non-submitted version are as follows:
-    * Time
+2\. If you send any sort of personal correspondence like letters or emails or any third party feels to send any messages about any of your postings or activities on the website, we might collect this information to a file which will be specifically allotted for you.  
+ 
+
+3\. You have the right to enter the email address of another person for sharing any set. In this case the recipient’s following details are gathered by us  
+ 
+
+  * Email address
+  * information collected which are non-submitted
+  * Our website can also collect any sort of non-personal data which might not be related with your identity. This data is collected just for improvising our Website. The information which stays in the form of non-submitted version are as follows: 
     * IP
     * Data Transferred
     * File
@@ -32,30 +38,31 @@ You have the authority to modify all your personal information through the sign 
 
 **Use of Gathered Information**
 
-  1. Use of submitted information 
-    * Your any sort of personal information will not be sold or rented by us, except whenever it is needed to realize any sort of requests from your side to share any content via another partner or website.
-    * Any requests from your side will be answered using your email address. It may also be used to offer status updates inside the Website or its procedures.
-    * Askmeonfashion website can pool your information with that of other information related to you which is received by Askmeonfashion from different sources.
-  2. Aggregation of personal information and disclosure of such information in non-personally recognizable manner can be done by us to the advertisers and different parties for their promotions and marketing purposes. Though in such cases we never disclose them any sort of information which could help you in identifying you personally.
-  3. Any kind of content which are generated by you and the user ID are presented throughout the website. Hence this record becomes available and visible to public. Every activity on our site will get automatically identifiable to your ID. Other person can check out your sets, items, comments and different other contents that you have made on our Website.
-  4. Last but not the least sharing or using any personally recognizable facts given to us in the online format are not done by us in ways which are unrelated to those discussed earlier, without even giving you an occasion to opt-out. 
+1\. Use of submitted information
+
+  * Your any sort of personal information will not be sold or rented by us, except whenever it is needed to realize any sort of requests from your side to share any content via another partner or website.
+  * Any requests from your side will be answered using your email address. It may also be used to offer status updates inside the Website or its procedures.
+  * Askmeonfashion website can pool your information with that of other information related to you which is received by Askmeonfashion from different sources.
+  * Aggregation of personal information and disclosure of such information in non-personally recognizable manner can be done by us to the advertisers and different parties for their promotions and marketing purposes. Though in such cases we never disclose them any sort of information which could help you in identifying you personally.
+  * Any kind of content which are generated by you and the user ID are presented throughout the website. Hence this record becomes available and visible to public. Every activity on our site will get automatically identifiable to your ID. Other person can check out your sets, items, comments and different other contents that you have made on our Website.
+  * Last but not the least sharing or using any personally recognizable facts given to us in the online format are not done by us in ways which are unrelated to those discussed earlier, without even giving you an occasion to opt-out.
 
 
 
 **Data Security**
 
-  1. We take effort and make sure that your all information is kept with us in a secured manner in to our database. Your personal information is accessed by our staff only for performing their functions.
-  2. With the help of an encrypted code your password remains protected with us. The encrypted form helps in making the password computationally impossible to hack, including our staffs. 
+  * We take effort and make sure that your all information is kept with us in a secured manner in to our database. Your personal information is accessed by our staff only for performing their functions.
+  * With the help of an encrypted code your password remains protected with us. The encrypted form helps in making the password computationally impossible to hack, including our staffs.
 
 
 
 **Legal Disclaimer Disclosure**
 
-  1. Any kind of personally identifiable data are rightly reserved by us as essential by law. We also believe disclosure is important to guard our rights or/and comply with legal proceeding, court process or court order served on Website. 
-  2. Askmeonfashion has the reservation right to modify or change Policy anytime, without providing prior notice. This can be done by posting that altered Policy on our Website. If you continue to use our Website then it will indicate your acceptance of our modified Policy. 
+  * Any kind of personally identifiable data are rightly reserved by us as essential by law. We also believe disclosure is important to guard our rights or/and comply with legal proceeding, court process or court order served on Website.
+  * Askmeonfashion has the reservation right to modify or change Policy anytime, without providing prior notice. This can be done by posting that altered Policy on our Website. If you continue to use our Website then it will indicate your acceptance of our modified Policy.
 
 
 
 **Notice of Change**
 
-Askmeonfashion has the right to give you notifications which may include, without any limitation, any sort of changes which are made to our Policy or any other Website associated service, through postings on our Website or by an email to our user. 
+Askmeonfashion has the right to give you notifications which may include, without any limitation, any sort of changes which are made to our Policy or any other Website associated service, through postings on our Website or by an email to our user.
