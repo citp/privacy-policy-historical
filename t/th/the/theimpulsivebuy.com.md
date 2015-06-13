@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theimpulsivebuy.com privacy policy that was archived on 2014-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141116152006id_/http%3A//www.theimpulsivebuy.com/wordpress/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theimpulsivebuy.com privacy policy that was archived on 2015-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150613020434id_/http%3A//www.theimpulsivebuy.com/wordpress/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Impulsive Buy
 
