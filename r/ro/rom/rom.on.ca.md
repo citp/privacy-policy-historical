@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rom.on.ca privacy policy that was archived on 2014-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141228181237id_/http%3A//www.rom.on.ca/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rom.on.ca privacy policy that was archived on 2015-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150613145121id_/http%3A//www.rom.on.ca/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Royal Ontario Museum
 
@@ -60,13 +60,13 @@ The ROM may use third parties to collect conversion tracking data and/or data fo
 
 Questions or comments about the ROM’s privacy practices should be directed to:
 
-Diane Stemerdink  
+Join-Michael Poon  
 Freedom of Information & Protection of Privacy Coordinator  
 100 Queen’s Park  
 Toronto, ON  
 M5S 2C6
 
-Tel: 416.586.5886  
-E-mail: [dianes@rom.on.ca](mailto:dianes@rom.on.ca)
+Tel: 416.586.5868  
+E-mail: [jmpoon@rom.on.ca](mailto:dianes@rom.on.ca)
 
 The ROM is accountable for its privacy practices on this website. If you are not satisfied with our response to your privacy concerns, you may wish to contact the Information and Privacy Commissioner of Ontario (e-mail: [info@ipc.on.ca](mailto:info@ipc.on.ca) and telephone: 1.800.387.0073).
