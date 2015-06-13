@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the handhelditems.com privacy policy that was archived on 2014-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141126015817id_/http%3A//www.handhelditems.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the handhelditems.com privacy policy that was archived on 2015-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150613144746id_/http%3A//www.handhelditems.com/privacy.php) for the most accurate reproduction.*
 
 # HandHelditems.com Privacy Policy
 
