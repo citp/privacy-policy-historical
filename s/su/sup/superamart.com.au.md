@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the superamart.com.au privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120210439id_/http%3A//www.superamart.com.au/customer-care/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the superamart.com.au privacy policy that was archived on 2015-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150613130511id_/http%3A//www.superamart.com.au/customer-care/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 ### Our Privacy Commitment
 
-Super A-Mart Pty Limited (ABN 65 009 810 324) (“we”, “us” and “our”) is committed to handling the personal information we collect in an open and transparent manner, in accordance with our Privacy Policy and the Australian Privacy Principles.
+Super Amart Pty Limited (ABN 65 009 810 324) (“we”, “us” and “our”) is committed to handling the personal information we collect in an open and transparent manner, in accordance with our Privacy Policy and the Australian Privacy Principles.
 
 This Privacy Policy summarises how we handle your personal information. We may revise this Privacy Policy from time to time by updating this page. The revised Privacy Policy will take effect when it is posted on our website. 
 
@@ -125,7 +125,7 @@ If you require access to, or wish to update your personal information, please co
 
 If you have any queries or would like to make a complaint regarding relating to our Privacy Policy or the manner in which we handle your personal information, please contact our Privacy Officer at [privacy@superamart.com.au](mailto:privacy@superamart.com.au) or by writing to:  
 The Privacy Officer  
-Super A-Mart Pty Limited  
+Super Amart Pty Limited  
 PO Box 1470  
 Springwood QLD 4127  
 
