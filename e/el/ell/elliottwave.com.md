@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the elliottwave.com privacy policy that was archived on 2014-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141206051233id_/http%3A//www.elliottwave.com/info/privacy-policy-highlights.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elliottwave.com privacy policy that was archived on 2015-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150613051844id_/http%3A//www.elliottwave.com/info/privacy-policy-highlights.html) for the most accurate reproduction.*
 
 # Privacy Statement Highlights | ElliottWave International
 
