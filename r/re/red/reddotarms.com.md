@@ -1,17 +1,6 @@
-> *The following text is extracted and transformed from the reddotarms.com privacy policy that was archived on 2014-08-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140801204948id_/http%3A//www.reddotarms.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reddotarms.com privacy policy that was archived on 2015-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150613211444id_/http%3A//www.reddotarms.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
-
-  *     * The product Extreme Pak Sling Bag has been added to comparison list.
-    * The product Hogue Colt Government Ambidextrous Safety Cut, Polymer Grip Panels Pink Pearl has been added to comparison list.
-    * The product Savage M-42 22LR-410 Combo Rifle/Shotgun has been added to comparison list.
-    * The product Safe-N-Dry Moisture Elimination Packets has been added to comparison list.
-    * The product Sabre Pepper & Tear Gas Spray Hard Case Unit has been added to comparison list.
-    * The product Rechargeable Cordless Dehumidifier has been added to comparison list.
-    * The product Sabre Lipstick Pepper Spray Pink has been added to comparison list.
-    * The product Fox Himalayan Backpack, Olive Drab has been added to comparison list.
-
-
 
 **What information do we collect?**  
 We collect information from you when you register on our site, place an order or subscribe to our newsletter. When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number or credit card information. You may, however, visit our site anonymously.
