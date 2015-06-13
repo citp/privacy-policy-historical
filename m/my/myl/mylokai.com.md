@@ -1,80 +1,23 @@
-> *The following text is extracted and transformed from the mylokai.com privacy policy that was archived on 2014-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141215230237id_/http%3A//mylokai.com/privacy-terms-conditions) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mylokai.com privacy policy that was archived on 2015-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150613061839id_/http%3A//mylokai.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy & Terms
+# Privacy Policy
 
-##### Terms
+##### **PRIVACY STATEMENT**
 
-These terms govern your use of mylokai.com.
+Welcome to the Lokai website, located at mylokai.com (the "Site"), and operated by Lokai Holdings LLC, a Delaware limited liability company (“Lokai”). This Privacy Statement addresses Lokai’s practices regarding information collected from visitors of the Site and only addresses information collected directly through or from the Site – it does not address or govern any information gathering, use, or dissemination practices related to information collected from the visitor (sometimes referred to as a “visitor,” "you" or "your") other than directly through or from the Site, such as from telephone, facsimile, postal mail, personal delivery, or other or additional offline means or media. Lokai can be contacted at [hello@mylokai.com](mailto:hello@mylokai.com) or 877-725-5747 (Monday thru Friday between 10am - 6pm EST). This Privacy Statement is incorporated into [Lokai's ](http://mylokai.com/terms-and-conditions)[Terms and Conditions](http://mylokai.com/terms-and-conditions) by reference, as if set forth fully therein, which must be reviewed and accepted by you. The Site is not intended for children under the age of 18. It does not knowingly collect personal information online from visitors in this age group.
 
-##### Your Consent
+  1. **Collection of Personal Information from Site Visitors.   **Except as specifically set forth herein, Lokai may collect: (a) the e-mail addresses of users that communicate with Lokai via e-mail; (b) information knowingly provided by the user in online informational sections, registration, or membership forms; (c) information gathered through the analysis of cookies, or any other methods of internet browsing analysis, such as Google Analytics; and (d) financial information provided by a user, including credit card numbers and billing addresses, in order to process payments to Lokai. Specifically, and in order to register for certain services of the Site, you may be required to provide additional personal information about you and your company, such as your name, address, telephone number, and other relevant personal information. If you do not wish to provide such information to the Site, you will be unable to register and/or to obtain products or services from the Site. When a visitor performs a search within the Site, Lokai may record information identifying the visitor or linking the visitor to the search performed and recording information related to the search request.
+  2. **Use of Personal Information Collected.   **Personal information collected by Lokai may be used by Lokai for limited purposes, including recordkeeping, editorial and feedback purposes, content improvement, or to customize the content and layout of the Site. Individually identifying information, such as names, postal and e-mail addresses, phone numbers, and other personal information which visitors voluntarily provide to Lokai, may be added to Lokai’s databases and used for future contact regarding Site updates and new services.   From time to time, Lokai may need to contact you for registration-related activities. You agree that Lokai may use your personal information for such registration-related contact with you. Lokai may also desire to contact you for market research purposes or to provide you with marketing information that Lokai believes would be of particular interest. You will have the option of not being contacted by Lokai and opting-out of such contacts by contacting Lokai via e-mail at [hello@mylokai.com](mailto:hello@mylokai.com).
+  3. **Disclosure of Personal Information to Third Parties.   **Except as specifically set forth herein, any individually identifying personal information that you provide to Lokai through the Site will not be disclosed to other third-party entities not affiliated with Lokai. Identifiable and non-identifiable user information and data may be disclosed or distributed to another party with which Lokai enters or reasonably may enter into a corporate transaction, such as, for example, a merger, consolidation, acquisition, or asset purchase, or to a third party pursuant to a subpoena, court order, or other form of legal process, in response to a request by or on behalf of any local, state, federal, or other government agency, department, or body, whether or not pursuant to a subpoena, court order, or other form of legal process, or if determined by Lokai in its sole judgment that such disclosure or distribution is appropriate to protect the life, health, or property of Lokai or any other person or entity. Identifiable and non-identifiable visitor information and data which visitors provide to Lokai may also be provided to third parties that contract with Lokai to provide products, information or other services that Lokai believes that visitors may be interested in obtaining. While Lokai may undertake efforts to see that any third party to whom Lokai discloses personal information is under an obligation to use the personal information solely for the purposes for which the information was disclosed, such third parties are independent third parties over which Lokai exercises no control. Lokai is not responsible for, and will not be liable for, the conduct, actions, omissions, or information handling or dissemination practices of third parties. Please be advised that the confidentiality of any communication or material transmitted to Lokai via the Site or e-mail cannot be and is not guaranteed, including, for example, personal information such as your address or name.
+  4. **Links to Other Sites.** The Site may also contain links to third party websites. The Site may contain links to other Internet Web sites for the convenience of users in locating information, products, or services that may be of interest. If you access a third party website from a link on this Site, any information you disclose on that website is not subject to this Privacy Statement. It is possible that these links may be used by third parties or others to collect personal or other information about you. Lokai is not responsible for the privacy practices of such websites, advertisers, or third parties or the content of such websites and it is your sole obligation to review and understand the privacy practices and policies of these other websites. Lokai does not control these third parties’ use of cookies, collection of information, or how they manage such information. It is solely your obligation to review and understand the privacy practices and policies of these other websites, advertisers and any third parties.
+  5. **Security Measures and Communicating with Lokai.   **Lokai has implemented physical, electronic and procedural security features that are designed to prevent the unauthorized release of or access to personal information. Despite Lokai’s efforts to protect your personal information, the confidentiality of any communication or material transmitted to or from Lokai via the Site or via e-mail cannot be and is not guaranteed. You acknowledge that the technical processing and transmission of the Site content may be transferred unencrypted and involve (a) transmissions over various networks and (b) changes to conform and adapt to technical requirements of connecting networks or devices. Accordingly, Lokai is not responsible for the security of information transmitted via the Internet.
+  6. **Comments and User Content.   **All materials or comments posted to any aspect of the Site are public. Please refer to the [Terms and Conditions](http://mylokai.com/terms-and-conditions) for further detail concerning User Content and other materials submitted to the Site. As such, Lokai assumes no liability for the accuracy of such information, no duty to update or correct such information, and no liability for such communications arising under the laws of copyright, libel, privacy, obscenity, or otherwise. Any comment system on the Site may utilize an opt-in Geolocation service in accordance with a prevailing community standard such as HTML 5. Such Geolocation opt-in ability is managed by the user’s browser settings. If a user chooses to opt-in to the Geolocation service, the user’s comments may be associated with the user’s location, both internally within Lokai and publicly on the Site.
+  7. **Access to and Ability to Correct Personal Information; Opt-Out Right.   **Upon your request via postal mail or e-mail, Lokai will provide you with a summary of any personal information retained by Lokai that has been voluntarily provided by you to Lokai through online forms, registration forms, surveys, e-mail, or another online avenue. You may modify, correct, change or update your personal information by contacting Lokai via e-mail at [hello@mylokai.com](mailto:hello@mylokai.com). Except as necessary to obtain the services or information requested, You may opt out of having your personal information, which has been voluntarily provided to Lokai through online forms, membership or registration forms, e-mail, or another online avenues, prospectively retained by Lokai or used by Lokai for secondary purposes, by contacting Lokai via e-mail at [hello@mylokai.com](mailto:hello@mylokai.com). This provision does not apply to collection of the type of Web browser of the visitor to the Site or to information provided or collected that does not meet the description hereunder.
+  8. **Right to Change Privacy Statement.   **Lokai reserves the right at any time to modify, alter or update this Privacy Statement. Lokai will notify you on the Site or by e-mail of any new or revised Privacy Statement, including information regarding the location of the new or revised Privacy Statement. Your use of the Site following any changes means that you agree to follow and be bound by the Privacy Statement as changed. Any change to this Privacy Statement shall be effective as to any visitor who has visited the Site before the change was made. It is the obligation of users visiting the Site before the change to learn of changes to the Privacy Statement since their last visit.
+  9. **Your California Privacy Rights.**   If you are a California resident, California Civil Code Section 1798.83 provides you with the right to request certain information regarding disclosure of your personal information to third parties for direct marketing purposes, including a description of the categories of personal information disclosed. In order to obtain such information, please contact us via e-mail at [hello@mylokai.com](mailto:hello@mylokai.com).
 
-By using mylokai.com you consent to our online privacy policy.
 
-We value your privacy!
 
-##### Highlights
+Dated:  January 21, 2015
 
-lokai will not sell, trade, or rent your information to anyone.
-
-Meaning we do not release any information about you to other companies. lokai collects your name, shipping and billing address, phone number, and email when you shop and register with us.
-
-We then use this information to follow- up on orders. If you sign up for our email, we use your information to notify you of promotions and new products.
-
-For your protection, lokai does not hold credit card information within your user profile however you must be provide a valid credit card at checkout.
-
-lokai will not send personally identifiable information about you to other companies or people, unless:
-
-We have your consent to share the information
-
-We need to send the information to companies who work on behalf of lokai to provide a product or service to you. An example of this would be giving ups your address for shipping merchandise to you.
-
-When you visit mylokai.com we do not capture your name, email or other personal info until you register with us.
-
-After you place an order at mylokai.com we use that information to process your order.
-
-You will receive an email confirmation from us immediately and from our shipping partner when your order has processed with your tracking number. Occasionally, we may need to contact you by email or phone if we have other questions regarding your order.
-
-At the moment we don't accept returns on lokai bracelets.
-
-#####   
-More in depth Privacy Policies and Terms
-
-lokai Holdings LLC is committed to protecting your privacy. This Statement of Privacy applies to lokai Holdings LLC web site and governs data collection and usage at all lokai Holdings LLC sites and services; it does not apply to other online or offline sites, products or services. Please read the lokai Holdings LLC Statement of Privacy.  lokai Holdings LLC is a general audience web site, intended for users of all ages. Personal information of all users is collected, used and disclosed as described in this Statement of Privacy.
-
-##### Collection of your Personal Information
-
-As an e-commerce web site, lokai Holdings LLC collects personal information, such as your e-mail address, name, home or work address or telephone number. Information collected by lokai Holdings LLC is used solely for the purpose of billing your online purchases. lokai Holdings LLC does not collect any information about your computer hardware and software.
-
-lokai Holdings LLC encourages you to review the privacy statements of Web sites you choose to link to from lokai Holdings LLC so that you can understand how those Web sites collect, use and share your information. We are not responsible for the privacy statements or other content on Web sites outside of the lokai Holdings LLC Web site.
-
-##### Use of your Personal Information
-
-lokai Holdings LLC and its operational service partners collect and use your personal information to process product orders and deliver the products requested. It is possible that lokai Holdings LLC may also use personal information to inform you of other products or services available from lokai Holdings LLC and its affiliates.
-
-lokai Holdings LLC does not sell, rent or lease its customer lists to third parties. lokai Holdings LLC may, from time to time, contact you on behalf of external business partners about a particular offering that may be of interest to you. In those cases, your personal information (e-mail, name, address, telephone number) is not transferred to the third party.
-
-We occasionally hire other companies to provide limited services on our behalf, such as handling the processing and delivery of mailings, providing customer support, processing transactions, or performing statistical analysis of our services. We will only provide those companies the personal information they need to deliver the service. They are required to maintain the confidentiality of your information and are prohibited from using that information for any other purpose.
-
-lokai Holdings LLC may access and/or disclose your personal information if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on lokai Holdings LLC or the site; (b) protect and defend the rights or property of lokai Holdings LLC, including its Web site; or (c) act under exigent circumstances to protect the personal safety of users of lokai Holdings LLC or the public.
-
-Personal information collected on this site may be stored and processed in the United States or any other country in which lokai Holdings LLC or its affiliates, subsidiaries or agents maintain facilities, and by using this site, you consent to any such transfer of information outside of your country. lokai Holdings LLC abides by the safe harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of data from the European Union.
-
-##### Control your Personal Information
-
-lokai Holdings LLC offers its customers choices for the collection, use and sharing of personal information. You may notify us of your preferences by emailing [hello@mylokai.com](mailto:hello@mylokai.com). Please be sure to provide complete account information so we can identify you in our records
-
-You may also stop the delivery of future promotional e-mail from lokai Holdings LLC by responding directly to any email you receive with a request to remove you from the mailing list.
-
-##### Security of your Personal Information
-
-lokai Holdings LLC is very concerned with safeguarding your information, but no method of transmission over the Internet, or method of electronic storage, is 100% secure.  When you enter sensitive information (such as credit card number) on our registration or order forms, we encrypt that information using secure socket layer technology (SSL).
-
-After a transaction, your private information (credit cards, etc.) will not be stored on our servers.
-
-##### Changes to this Statement
-
-lokai Holdings LLC will occasionally update this Statement of Privacy to reflect company and customer feedback. If there are material changes to this Statement or in how lokai Holdings LLC will use your personal information, lokai Holdings LLC will prominently post such changes prior to implementing the change. lokai Holdings LLC encourages you to periodically review this Statement to be informed of how lokai Holdings LLC is protecting your information.
-
-##### Contacting Us
-
-If you have any questions about this Privacy Policy, please contact us at [hello@mylokai.com](mailto:hello@mylokai.com) with “Privacy” as the subject line of the email.
+Copyright © 2015 Lokai Holdings LLC; All rights reserved.
