@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the i2symbol.com privacy policy that was archived on 2014-11-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141120115411id_/http%3A//www.i2symbol.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the i2symbol.com privacy policy that was archived on 2015-06-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150613214759id_/http%3A//www.i2symbol.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head> 
 			<title>i2Symbol Privacy</title>
@@ -7,22 +7,22 @@
 			<meta name="description" content="Decorate Emails, Facebook, Twitter, MySpace, Tumblr, Google+ with Emoticons, Smileys, Symbols, Emojis, Memes, and Cool Text ヽ(•‿•)ノ ❤ ♬ ✩ ☁ ☂. Free Twitter emoticons, Twitter symbols, Facebook emoticons, Facebook symbols, new MySpace emoticons, new MySpace symbols.">
 			<meta name="keywords" content="Twitter emoticons, Facebook emoticons, Twitter emojis, MySpace emoticons, Tumblr emoticons, Google+ emoticons, smileys and emoticons, smiley symbols, Twitter symbols, Facebook symbols, MySpace symbols, emoticons and smileys, twitter símbolos, facebook símbolos, símbolos para twitter, símbolos para facebook, caritas de facebook , caritas de twitter, cooltext, cool text generator, Facebook chat code generator, fancy text generator, smileys und emoticons, unicode emoticons, emoticons for Twitter, emoticons for Facebook, emoticons Twitter, emoticons Facebook, symbols for Twitter, symbols for Facebook, copy paste, copy paste character, Facebook chat symbols, Facebook status update symbols, Facebook love symbols, smilies, smile faces, text smilies, smileys emoticons, emoticons smileys, emoticon smileys, emoticon smiley, smiley emoticon, smiley emoticons, سمايلات فيسبوك، رموز فيسبوك، أشكال فيسبوك، أشكال المسنجر، رموز الشات،  سمايلات الشات، رموز تويتر، سمايلات تويتر، مشاعر الفيسبوك, emoticons para msn, msn emoticons, emoticons for msn, animal emoticons, download emoticons, emoticons messenger, emoticons for yahoo, funny emoticons, smileys for free, free smileys, japanese symbols, chinese symbols">
 			<meta property="og:image" content="http://www.i2symbol.com/i2symbol.png">             
-            <meta property="og:url" content="http://www.i2symbol.com"> 
-            <meta property="og:title" content="Free Facebook Emoticons, Symbols, Smileys, Memes, and Cool Text"> 
-            <meta property="og:description" content="Spice your comments, chat, status updates on Facebook and Twitter with cute emoticons, smiley faces, symbols, emoji, memes, and cool text."> 
+            <meta property="og:url" content="http://www.i2symbol.com/privacy"> 
+            <meta property="og:title" content="i2Symbol Privacy"> 
+            <meta property="og:description" content="Decorate Emails, Facebook, Twitter, MySpace, Tumblr, Google+ with Emoticons, Smileys, Symbols, Emojis, Memes, and Cool Text ヽ(•‿•)ノ ❤ ♬ ✩ ☁ ☂. Free Twitter emoticons, Twitter symbols, Facebook emoticons, Facebook symbols, new MySpace emoticons, new MySpace symbols."> 
             <meta property="og:type" content="website">
             <meta property="fb:app_id" content="216696181724747">
             
                         
 			<link rel="shortcut icon" href="/css/i2symbol.ico" type="image/x-icon">
-			<link rel="stylesheet" href="/css/i2symbol.css?68" type="text/css"><link id="i2symbol_css" rel="stylesheet" href="/css/i2symbol_1200.css?2" type="text/css">				
+			<link rel="stylesheet" href="/css/i2symbol.css?80" type="text/css"><style> @font-face {font-family: "arabic1";src: url("/fonts/arabic1.woff");} </style><link id="i2symbol_css" rel="stylesheet" href="/css/i2symbol_1200.css?2" type="text/css">				
 			
 			<script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script><script type="text/javascript" src="/js/i2symbol.js?13"></script>
 
 			<script type="text/javascript">								
                 //<![CDATA[
 				$(document).ready(function(){
-			
+
 					
             if (screen.width >= 1400)
             {
@@ -383,13 +383,12 @@
             
             $("#i2clip_btn").click(function() { 
                 var query = $("#i2clip_query").val();
-                if(query != "")
-                    location.href = "http://www.i2clipart.com/search/" + query.split(" ").join("+") + "/1";
-                else
+                if(query == "")
                 {
                     query = "red heart";
-                    location.href = "http://www.i2clipart.com/search/" + query.split(" ").join("+") + "/1";
                 }
+                //window.open("http://www.i2clipart.com/search/" + query.split(" ").join("+") + "/1", "_blank");
+                location.href = "http://www.i2clipart.com/search/" + query.split(" ").join("+") + "/1";
             });            
 
 
@@ -479,7 +478,11 @@
                     }
                 }
             });
-                    
+
+                    $("a.translate").bind("click", function() {                        
+                        var lang = $(this).attr("data-lang"); 
+                        setCookie("i2lang", lang);
+                    });                    
 				});
                 //]]>
 			</script>						
@@ -487,14 +490,19 @@
 			</head>
 			<body>			
 			<h1>i2Symbol Privacy</h1><div id="iNavbar">
-                            <div class="header_link" style="margin-right:60px;"><a href="/login">Login</a></div><div class="header_link"><a href="/register">Register</a></div>
+    
+                            <div class="header_link" style="margin-right:20px;"><a href="/login">Login</a></div><div class="header_link"><a href="/register">Register</a></div>
                             
         <form class="search_form" id="search_form" action="/redir" method="post" enctype="multipart/form-data">                                                      
             <input type="text" class="search-query" name="query" id="query" placeholder="search">
         </form>
                             <div id="colorDlg"><div class="colorBox" id="blue" style="background:#BBDAFF;"></div><div class="colorBox" id="pink" style="background:#ECB3D5;"></div><div class="colorBox" id="green" style="background:#C8E4C3;"></div><div class="colorBox" id="white" style="background:#fff;"></div><div class="colorBox" id="random">
                             <div id="rainbow">&nbsp;</div>
-                          </div></div>
+                          </div></div>                            
+<div style="text-align:center; margin-left:120px;"><div>    
+            <a href="/privacy?l=en" class="translate" data-lang="en" title="English"><img src="/css/front/us.png" width="36" height="36" alt="English"></a>
+            <a href="/privacy?l=ar" class="translate" data-lang="ar" title="عربى"><img src="/css/front/eg.png" width="36" height="36" alt="عربى"></a>  
+          </div></div>                            
                 </div><div id="iTopMenuContainer" style="height:100px;padding-top:10px;">
                     <div class="iDisplay">
                         <div style="float:left;"><a href="http://www.i2symbol.com"><img src="/css/i2symbol.png" width="160" height="90" alt="i2symbol"></a></div>
@@ -507,7 +515,7 @@
                         <div id="topControls">
                         </div>
                     </div>
-                </div><div class="clearfix"></div><div><a id="suggest" href="/share" title="Suggest Emoticon">+</a></div><div class="iDisplay"><div id="iContent" style="float:left;"><div class="clearfix"></div><div id="menu"><a class="menuLink" href="/name">Name</a><a class="menuLink" href="/i2picture">i2Picture</a><a class="menuLink" href="/clipart">Clipart</a><a class="menuLink" href="/ascii-art-generator-for-facebook-comments">TextArt</a><a class="menuLink" href="/symbols">Symbols</a><a class="menuLink" href="/emoticons">Emoticons</a><a class="menuLink" href="/chat">Chat</a><a class="menuLink" href="/cool-letters">Vintage</a><a class="menuLink" href="/abc-123">ABC</a><a class="menuLink" href="/shared">Shared</a><a class="menuLink" href="/emoji">Emoji</a><a class="menuLink" href="/emojiart">EmojiArt</a><a class="menuLink" href="/style-text">Styler</a><a class="menuLink" href="/text2image">Export</a><a class="menuLink" href="/keyboard">Keybrd</a><a class="menuLink" href="/favorite">Favs</a></div><div class="clearfix"></div><div class="longText">
+                </div><div class="clearfix"></div><div><a id="suggest" href="/share" title="Suggest Emoticon">+</a></div><div class="iDisplay"><div id="iContent" style="float:left;"><div class="clearfix"></div><div id="menu"><a class="menuLink af2" style="float:left;" href="/symbols">Symbols</a><div class="menu_limit" style="float:left;"> | </div><a class="menuLink af2" style="float:left;" href="/emoticons">Emoticons</a><div class="menu_limit" style="float:left;"> | </div><a class="menuLink af2" style="float:left;" href="/chat">Stickers</a><div class="menu_limit" style="float:left;"> | </div><a class="menuLink af2" style="float:left;" href="/abc-123">Abc</a><div class="menu_limit" style="float:left;"> | </div><a class="menuLink af2" style="float:left;" href="/style-text">Cool Text Art</a><div class="menu_limit" style="float:left;"> | </div><a class="menuLink af2" style="float:left;" href="/ascii-art-generator-for-facebook-comments">Ascii Art</a><div class="menu_limit" style="float:left;"> | </div><a class="menuLink af2" style="float:left;" href="/keyboard">Keyboard</a><div class="menu_limit" style="float:left;"> | </div><a class="menuLink af2" style="float:left;" href="/clipart">Clipart</a><div class="menu_limit" style="float:left;"> | </div><a class="menuLink af2" style="float:left;" href="/text2image">Export</a><div class="menu_limit" style="float:left;"> | </div><a class="menuLink af2" style="float:left;" href="/shared">Shared Emoticons</a><div class="menu_limit" style="float:left;"> | </div><a class="menuLink af2" style="float:left;" href="/facebook-emoticons">Facebook Emoji</a><div class="menu_limit" style="float:left;"> | </div><a class="menuLink af2" style="float:left;" href="/twitter-emoticons">Twitter Emoji</a><div class="menu_limit" style="float:left;"> | </div><a class="menuLink af2" style="float:left;" href="/emoji">IOS Emoji</a><div class="menu_limit" style="float:left;"> | </div><a class="menuLink af2" style="float:left;" href="/name">Emoji Text</a><div class="menu_limit" style="float:left;"> | </div><a class="menuLink af2" style="float:left;" href="/i2picture">Postcards</a><div class="menu_limit" style="float:left;"> | </div><a class="menuLink af2" style="float:left;" href="/photo">Photo Effects</a><div class="menu_limit" style="float:left;"> | </div><a class="menuLink af2" style="float:left;" href="/favorite">Favorites</a></div><div class="clearfix"></div><div class="longText">
 
 <div class="legal_p">This Privacy 
 Policy covers i2Symbol treatment of personal information that i2symbol
@@ -558,25 +566,50 @@ This Privacy Policy is effective as of July 1st, 2012.
 </div>
 
 <div class="clear"></div></div><div style="margin:40px 0;"></div><div class="clearfix"></div><div class="subMenuClass">
-                <div class="subMenuNote" style="margin-top:-6px;">More Free Tools from Sciweavers</div>
+                <div class="subMenuNote" style="margin-top:-6px;">More Free Tools</div>
                 <ul>
-                  <li class="active"><a class="labelMenu" href="http://www.i2symbol.com" title=" Enrich your Messages with Cool Symbols on Facebook, Twitter, Google Plus, Email ">i2Symbol</a></li><li><a class="labelMenu" href="http://www.i2arabic.com" title=" Arabic Input Method ">i2Arabic</a></li><li><a class="labelMenu" href="http://www.sciweavers.org" title=" Academic Bookmarking Network ">Sciweavers</a></li><li><a class="labelMenu" href="http://www.sciweavers.org/free-online-ocr" title=" Extract Text from Scanned Documents ">i2OCR</a></li><li><a class="labelMenu" href="http://www.sciweavers.org/free-online-html-to-pdf" title=" Convert Web Page to Elegant Printer Friendly PDF ">iWeb2Print</a></li><li><a class="labelMenu" href="http://www.sciweavers.org/free-online-web-to-image" title=" Convert Web Page to High Resolution Image Snapshot ">iWeb2Shot</a></li><li><a class="labelMenu" href="http://www.sciweavers.org/free-online-pdf-split" title=" Split a PDF into Useful Pages or Chapters in PDF too ">iPdf2Split</a></li><li><a class="labelMenu" href="http://www.sciweavers.org/free-online-pdf-merge" title=" Merge Multiple PDF Files into Single PDF File ">iPdf2Merge</a></li><li><a class="labelMenu" href="http://www.sciweavers.org/i2img" title=" Image Converter ">i2Image</a></li><li><a class="labelMenu" href="http://www.sciweavers.org/i2style" title=" CSS3 Button and Banner generator ">i2Style</a></li><li><a class="labelMenu" href="http://www.sciweavers.org/free-online-latex-equation-editor" title=" Convert Latex Equations into Images to Embed in Documents ">iTex2Img</a></li><li><a class="labelMenu" href="http://www.sciweavers.org/i2type" title=" International On-screen Language Keyboard ">i2Type</a></li><li><a class="labelMenu" href="http://www.sciweavers.org/pdf2x" title=" PDF tools ">i2PDF</a></li><li><a class="labelMenu" href="http://www.sciweavers.org/l2rtf" title=" Latex to RTF ">iLatex2Rtf</a></li><li><a class="labelMenu" href="http://www.i2pinyin.com" title=" Chinese Pinyin Input Method ">i2Pinyin</a></li><li><a class="labelMenu" href="http://www.i2bopomo.com" title=" Chinese BoPoMoFo Input Method ">i2Bopomofo</a></li><li><a class="labelMenu" href="http://www.i2cantonese.com" title=" Chinese Cantonese Input Method ">i2Cantonese</a></li><li><a class="labelMenu" href="http://www.i2cangjie.com" title=" Chinese Cangjie Input Method ">i2Cangjie</a></li><li><a class="labelMenu" href="http://www.i2speak.com" title=" Smart IPA Phonetics Keyboard ">i2Speak</a></li><li><a class="labelMenu" href="http://www.sciweavers.org/sci2ools" title=" Free Online Tools ">Sci2ools</a></li>
+                  <li class="active"><a class="labelMenu" style="text-transform:none;" href="http://www.i2symbol.com" title=" Enrich your Messages with Cool Symbols on Facebook, Twitter, Google Plus, Email ">i2Symbol</a></li><li><a class="labelMenu" style="text-transform:none;" href="http://www.i2arabic.com" title=" Arabic Input Method ">i2Arabic</a></li><li><a class="labelMenu" style="text-transform:none;" href="http://www.sciweavers.org" title=" Academic Bookmarking Network ">Sciweavers</a></li><li><a class="labelMenu" style="text-transform:none;" href="http://www.sciweavers.org/free-online-ocr" title=" Extract Text from Scanned Documents ">i2OCR</a></li><li><a class="labelMenu" style="text-transform:none;" href="http://www.sciweavers.org/free-online-html-to-pdf" title=" Convert Web Page to Elegant Printer Friendly PDF ">iWeb2Print</a></li><li><a class="labelMenu" style="text-transform:none;" href="http://www.sciweavers.org/free-online-web-to-image" title=" Convert Web Page to High Resolution Image Snapshot ">iWeb2Shot</a></li><li><a class="labelMenu" style="text-transform:none;" href="http://www.sciweavers.org/free-online-pdf-split" title=" Split a PDF into Useful Pages or Chapters in PDF too ">iPdf2Split</a></li><li><a class="labelMenu" style="text-transform:none;" href="http://www.sciweavers.org/free-online-pdf-merge" title=" Merge Multiple PDF Files into Single PDF File ">iPdf2Merge</a></li><li><a class="labelMenu" style="text-transform:none;" href="http://www.sciweavers.org/i2img" title=" Image Converter ">i2Image</a></li><li><a class="labelMenu" style="text-transform:none;" href="http://www.sciweavers.org/i2style" title=" CSS3 Button and Banner generator ">i2Style</a></li><li><a class="labelMenu" style="text-transform:none;" href="http://www.sciweavers.org/free-online-latex-equation-editor" title=" Convert Latex Equations into Images to Embed in Documents ">iTex2Img</a></li><li><a class="labelMenu" style="text-transform:none;" href="http://www.sciweavers.org/i2type" title=" International On-screen Language Keyboard ">i2Type</a></li><li><a class="labelMenu" style="text-transform:none;" href="http://www.sciweavers.org/pdf2x" title=" PDF tools ">i2PDF</a></li><li><a class="labelMenu" style="text-transform:none;" href="http://www.sciweavers.org/l2rtf" title=" Latex to RTF ">iLatex2Rtf</a></li><li><a class="labelMenu" style="text-transform:none;" href="http://www.i2pinyin.com" title=" Chinese Pinyin Input Method ">i2Pinyin</a></li><li><a class="labelMenu" style="text-transform:none;" href="http://www.i2bopomo.com" title=" Chinese BoPoMoFo Input Method ">i2Bopomofo</a></li><li><a class="labelMenu" style="text-transform:none;" href="http://www.i2cantonese.com" title=" Chinese Cantonese Input Method ">i2Cantonese</a></li><li><a class="labelMenu" style="text-transform:none;" href="http://www.i2cangjie.com" title=" Chinese Cangjie Input Method ">i2Cangjie</a></li><li><a class="labelMenu" style="text-transform:none;" href="http://www.i2speak.com" title=" Smart IPA Phonetics Keyboard ">i2Speak</a></li><li><a class="labelMenu" style="text-transform:none;" href="http://www.sciweavers.org/sci2ools" title=" Free Online Tools ">Sci2ools</a></li>
                 </ul>                         
-            </div><div class="clearfix"></div></div><div id="iExtension" style="float:left;"><div style="float:left;"><div id="extension"><div style="padding:10px 0 20px;"><div class="plugin_vert"><a target="_blank" rel="nofollow" href="http://bit.ly/gNRpCh"><span id="chrome_circle">&nbsp;</span><span class="plugin_text">Extension</span></a></div></div>
-                                       <div style="padding:10px 0 20px;"><div class="plugin_vert"><a target="_blank" rel="nofollow" href="http://bit.ly/e7Qxpz"><span id="firefox_circle">&nbsp;</span><span class="plugin_text">Add-On</span></a></div></div>
-                                       <div style="padding:10px 0 20px;"><div class="plugin_vert"><a target="_blank" rel="nofollow" href="http://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fwww.i2symbol.com/privacy" title="Share i2Symbol on Facebook"><span id="heartit">&nbsp;</span><span class="plugin_text">Share</span></a></div></div>
+            </div><div class="clearfix"></div></div><div id="iExtension" style="float:left;"><div style="float:left;"><div id="extension"><div style="padding:10px 0 20px;"><div class="plugin_vert"><a target="_blank" rel="nofollow" href="http://bit.ly/gNRpCh"><span id="chrome_circle">&nbsp;</span><span class="plugin_text af1">Extension</span></a></div></div>
+                                       <div style="padding:10px 0 20px;"><div class="plugin_vert"><a target="_blank" rel="nofollow" href="http://bit.ly/e7Qxpz"><span id="firefox_circle">&nbsp;</span><span class="plugin_text af1">Add-on</span></a></div></div>
+                                       <div style="padding:10px 0 20px;"><div class="plugin_vert"><a target="_blank" rel="nofollow" href="http://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fwww.i2symbol.com/privacy" title="Share i2Symbol on Facebook"><span id="heartit">&nbsp;</span><span class="plugin_text af1">Share</span></a></div></div>
                                     
                                        <div style="padding:10px 0 10px 0;"><div style="margin-left:16px;"><iframe src="//www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.i2symbol.com&amp;send=false&amp;layout=box_count&amp;width=64&amp;show_faces=true&amp;action=like&amp;colorscheme=light&amp;font&amp;height=70&amp;appId=216696181724747" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:64px; height:70px;" allowtransparency="true"></iframe></div></div>
                                        <div style="padding:5px 0 5px 0;"><div id="social">
                     <a rel="nofollow" class="smedia" href="#facebook"><span id="sm_facebook"></span></a>
                     <a rel="nofollow" class="smedia" href="#twitter"><span id="sm_twitter"></span></a>
                     <a rel="nofollow" class="smedia" href="#googleplus"><span id="sm_googleplus"></span></a>
-                    <a rel="nofollow" class="smedia" href="#pinterest"><span id="sm_pinterest"></span></a>
-                    <a rel="nofollow" class="smedia" href="#stumbleupon"><span id="sm_stumbleupon"></span></a>
+                    <a rel="nofollow" class="smedia" href="#pinterest"><span id="sm_pinterest"></span></a>                    
                </div></div>
                                     
-                </div><div class="clearfix"></div></div></div><div id="iAdSize" style="float:right;"><div style="float:left;"><div class="transparent_col block">
-                <div class="subMenuNoteBlock">Top Emoticon Submitters</div>
+                </div><div class="clearfix"></div></div></div><div id="iAdSize" style="float:right;"><div style="float:left;"><div class="block_frame" style="margin-bottom:10px;">
+                    <div class="block_title">Add Text To Picture</div>
+                    
+            <div style="text-align:center;">                
+                <a target="_blank" style="padding-right:5px;" href="http://www.i2symbol.com/i2picture/edit/postcard/jet-heart-2a361a36275b2b5aa2691aea331457af"><img src="/css/pictures/jet-heart.jpg" width="256" height="170" alt="write your name on jet-heart" title="write your name on jet-heart"></a>
+            </div>
+                  </div></div><div style="float:left;"><div class="block_frame" style="margin-bottom:10px;">
+                    <div class="block_title">Add Effect To Photo</div>
+                    
+            <div style="text-align:center;">                
+                <a target="_blank" style="padding-right:5px;" href="http://www.i2symbol.com/photo/montage/sand_heart?l=en"><img src="/pictures/photo_templates/thumbs/sand_heart.jpg" width="256" height="154" alt="add effect to sand_heart photo" title="add effect to sand_heart photo"></a>
+            </div>
+                  </div></div><div style="float:left;"><div class="block_frame" style="margin-bottom:10px;">
+                <div class="block_title">Funny Stickers</div>
+                <a target="_blank" href="http://www.i2clipart.com/search/yellowsmileys/1">
+                    <img src="/css/pictures/i2clipart.jpg" width="256" height="170" alt="royalty free public domain clipart">
+                  </a>
+              </div></div><div style="float:left;"><div class="block_frame" style="margin-bottom:10px;">
+                    <div class="block_title">Facebook Emoticons</div>
+                    
+            <div style="text-align:center;">                
+                <a target="_blank" style="padding-right:1px;" href="http://www.i2clipart.com/search/heart+sleek"><img src="/css/img/hearts.png" width="128" height="128" alt="heart images for facebook chat" title="heart images for facebook chat"></a>
+                <a target="_blank" style="padding-right:1px;" href="http://www.i2clipart.com/search/smiley+emoticon"><img src="/css/img/emoticons.png" width="128" height="128" alt="emoticon images for facebook chat" title="emoticon images for facebook chat"></a>
+                
+        
+            </div>
+                  </div></div><div style="float:left;"><div class="transparent_col block">
+                <div class="subMenuNoteBlock af2">Top Emoticon Submitters</div>
                 <div class="user_record">
                         <div class="user_link"><a href="/user/AdindaDao"><span id="first">&nbsp;</span>AdindaDao<span class="user_count">100</span></a></div>
                     </div><div class="user_record">
@@ -588,51 +621,22 @@ This Privacy Policy is effective as of July 1st, 2012.
                     </div><div class="user_record">
                         <div class="user_link"><a href="/user/bluesky">bluesky<span class="user_count">29</span></a></div>
                     </div>
-                <div style="display:inline-block;"><a class="rounded_btn_sml" href="/top-submitters" title="all i2symbol top submitters">Top Users</a></div>                
-                <div style="display:inline-block;"><a class="rounded_btn_sml" href="/shared" title="new shared emoticons">Shared Emoticons</a></div>                                                
-              </div></div><div style="float:left;"><div class="transparent_col" style="margin-bottom:10px;">
-                    <div class="subMenuNoteBlock">Replace Text &amp; Download</div>
-                    
-            <div style="text-align:center;">                
-                <a target="_blank" style="padding-right:5px;" href="http://www.i2symbol.com/i2picture/edit/aflam/%D8%BA%D9%88%D8%B1-%D9%8A%D8%A7%D8%B6-%D9%84%D8%A8%D8%B7%D8%AD%D9%83-aflam-template-5c2cb11aa478301ac412f26d698b9283"><img src="/css/img/i2picture/6.jpg" width="250" height="125" alt="Add Text to Image" title="Replace Text and Customize Image"></a>
-            </div>
-                  </div></div><div style="float:left;"><div class="transparent_col" style="margin-bottom:10px;">
-                    <div class="subMenuNoteBlock">Facebook Lovers Smileys</div>
-                    
-            <div style="text-align:center;">                
-                <a target="_blank" style="padding-right:5px;" href="http://www.i2clipart.com/search/valentine+smiley+emoticon"><img src="/css/img/20.jpg" width="256" height="256" alt="Happy Valentine Smileys" title="Happy Valentine Smileys"></a>                
-            </div>
-                  </div></div><div style="float:left;"><div class="transparent_col" style="margin-bottom:10px;">
-                    <div class="subMenuNoteBlock">Images for Facebook Comments</div>
-                    
-            <div style="text-align:center;">                
-                <a target="_blank" style="padding-right:5px;" href="http://www.i2clipart.com/search/heart+sleek"><img src="/css/img/hearts.png" width="128" height="128" alt="heart images for facebook chat" title="heart images for facebook chat"></a>
-                <a target="_blank" style="padding-right:5px;" href="http://www.i2clipart.com/search/smiley+emoticon"><img src="/css/img/emoticons.png" width="128" height="128" alt="emoticon images for facebook chat" title="emoticon images for facebook chat"></a>
-                
-        
-            </div>
-                  </div></div><div style="float:left;"><div style="margin-bottom:10px;">
-                        <a target="_blank" href="http://www.i2clipart.com/search/red+heart/1">
-                            <img src="/css/img/i2clipart.jpg" width="300" height="204" alt="i2Clipart">
-                        </a>
-                    </div></div><div style="float:left;"><div class="transparent_col" style="margin-bottom:10px; width:280px;">
-                    <div class="subMenuNoteBlock">Entertainment</div>
-                    <div class="user_link"><a href="/emoticon-story">Emoticon Story</a></div>
-                                                         <div class="user_link"><a href="/quiz-of-the-day">Quiz of the Day</a></div>
-                  </div></div><div style="float:left; width:300px;"><div class="socialLink"><a href="/twitter/symbols">twitter symbols</a></div><div class="socialLink"><a href="/twitter/emoticons">twitter emoticons</a></div><div class="socialLink"><a href="/facebook/symbols">facebook symbols</a></div><div class="socialLink"><a href="/facebook/emoticons">facebook emoticons</a></div><div class="socialLink"><a href="/myspace/symbols">myspace symbols</a></div><div class="socialLink"><a href="/myspace/emoticons">myspace emoticons</a></div></div></div></div><div class="clearfix"></div>
+                <div style="display:inline-block;"><a class="rounded_btn_sml af1" href="/top-submitters" title="all i2symbol top submitters">Top Users</a></div>                
+                <div style="display:inline-block;"><a class="rounded_btn_sml af1" href="/shared" title="new shared emoticons">Shared Emoticons</a></div>                                                
+              </div></div><div style="float:left; width:300px;"><div class="socialLink"><a style="font:normal 13px verdana" href="/twitter/symbols">Twitter Symbols</a></div><div class="socialLink"><a style="font:normal 13px verdana" href="/twitter/emoticons">Twitter Emoticons</a></div><div class="socialLink"><a style="font:normal 13px verdana" href="/twitter-emoticons">Twitter Emojis</a></div><div class="socialLink"><a style="font:normal 13px verdana" href="/facebook/symbols">Facebook Symbols</a></div><div class="socialLink"><a style="font:normal 13px verdana" href="/facebook/emoticons">Facebook Emoticons</a></div><div class="socialLink"><a style="font:normal 13px verdana" href="/facebook-emoticons">Facebook Emojis</a></div><div class="socialLink"><a style="font:normal 13px verdana" href="/myspace/symbols">Myspace Symbols</a></div><div class="socialLink"><a style="font:normal 13px verdana" href="/myspace/emoticons">Myspace Emoticons</a></div><div class="socialLink"><a style="font:normal 13px verdana" href="/facebook/emoticons">Myspace Emoji</a></div></div></div></div><div class="clearfix"></div>
     <div class="clearfix"></div>
 	<div class="footer">
 		<div class="entry">						
 			<div class="rounded join">
                    
     <form action="/subscribe" method="post" style="margin:30px 0 0 50px;">
-		<div class="title" style="float:left;margin:10px 10px 0 0;">Follow Us</div>	                      
+		<div class="title" style="float:left;margin:10px 10px 0 0;">Subscribe</div>	                      
         <div style="float:left;">
             <input class="formInput" style="width:300px;" name="email" type="text" id="email" placeholder="Email" value="">
         </div>
         <div style="float:left;">
             <input type="hidden" name="formsubmitted" value="TRUE">
-            <input class="formButton" style="margin:0 0 0 10px; padding: 12px 30px;" type="submit" value="Subscribe">
+            <input class="formButton af3" style="margin:0 0 0 10px; padding: 10px 30px;" type="submit" value="Subscribe">
         </div>       
         <div class="clearfix"></div>
     </form>
@@ -649,7 +653,7 @@ This Privacy Policy is effective as of July 1st, 2012.
 			</div>
             <div class="clearfix"></div>
             <div id="copyright">
-            <span class="ml3"></span>i2symbol is owned and operated by <a href="http://sciweavers.org"><span class="ml3"></span>Sciweavers LLC<span class="ml3"></span></a><span class="ml3"></span>Copyright © 2009 - 2013<span class="ml3"></span> All rights reserved.
+            <span class="ml3"></span>i2symbol is owned and operated by <a href="http://sciweavers.org"><span class="ml3"></span>Sciweavers LLC<span class="ml3"></span></a><span class="ml3"></span>Copyright © 2009 - 2015<span class="ml3"></span> All rights reserved.
             </div>
 		</div>			
 	</div><!-- Start Alexa Certify Javascript -->
