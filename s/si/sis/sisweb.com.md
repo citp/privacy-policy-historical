@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sisweb.com privacy policy that was archived on 2014-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141125121817id_/http%3A//www.sisweb.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sisweb.com privacy policy that was archived on 2015-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150613084943id_/http%3A//www.sisweb.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -91,8 +91,8 @@ If there are any questions regarding this privacy policy you may contact us usin
 www.sisweb.com  
 1027 Old York Rd  
 Ringoes, NJ 08551-1054  
-United States  
-[us@sisweb.com](mailto:us@sisweb.com)   
+United States
+
 908-788-5550
 
  **Privacy Policy Customer Pledge**
@@ -110,5 +110,3 @@ Respectfully,
 
 Scientific Instrument Services, Inc.   
 www.sisweb.com 
-
-Send comments on this page
