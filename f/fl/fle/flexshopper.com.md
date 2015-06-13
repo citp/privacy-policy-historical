@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flexshopper.com privacy policy that was archived on 2014-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141117122646id_/http%3A//www.flexshopper.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flexshopper.com privacy policy that was archived on 2015-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150613232957id_/http%3A//www.flexshopper.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -56,6 +56,9 @@ This website may contain links to other websites so that you may learn more abou
 
 **Google Analytics Remarketing**  
 This website uses Remarketing with Google Analytics to advertise online. Third-party vendors, including Google, may show our ads on sites across the internet. We and third-party vendors, including Google, use first-party cookies (such as the Google Analytics cookie) and third-party cookies (such as the Double Click cookie) together to inform, optimize, and serve ads based on your past visits to our website.
+
+**Collection and Use of Bank Account Information**  
+As part of our information collection process, we may detect additional bank accounts under the ownership of the consumer. We will consider these additional accounts to be part of the application process. By applying, you authorize us to search for and evaluate bank accounts under your ownership for this purpose.
 
 **Children’s Online Privacy Protection Act**  
 We respect the privacy of your children, and we comply with the Children’s Online Privacy Protection Act (“COPPA”). We do not knowingly collect or retain personally identifiable information from consumers under the age of thirteen (13). You must be at least eighteen (18) years of age to obtain services from us.
