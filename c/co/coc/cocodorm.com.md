@@ -1,10 +1,11 @@
-> *The following text is extracted and transformed from the cocodorm.com privacy policy that was archived on 2014-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141124000249id_/http%3A//www.cocodorm.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cocodorm.com privacy policy that was archived on 2015-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150613232545id_/http%3A//www.cocodorm.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy policy
 
 **FLAVA WORKS PRIVACY POLICY**
 
-Effective as of January 1st, 2011 (the "Effective Date") 
+Effective as of January 1st, 2011 (the "Effective Date")   
+Updated April 22, 2015
 
 This Privacy Policy (the "Policy") applies to Flava Works, Inc. and FlavaWorks.com (collectively, referred to herein as "Flava Works," "we" or "us") family of websites (the "Sites"). These include thugboy.com; cocodorm.com; rawrods.com; mixitupboy.com; cocoboyz.com; papicock.com; flavamen.com; thugsforsex.com; topthugs.com; flavaworks.com; flavacams.com and any other websites at which this Policy appears. It does NOT apply to other online or offline Flava Works websites, products or services. 
 
@@ -77,8 +78,8 @@ All e-mails you receive from us will include specific instructions on how to uns
 (3) Send a letter to the following address: 
 
 Flava Works, Inc.  
-2610 North Miami Ave.  
-Miami, FL 33127-4438
+PO BOX 2495  
+Chicago, IL 60690
 
 Please note, however, you cannot opt out of receiving emails from us regarding your account and/or the status of an order. 
 
@@ -90,6 +91,6 @@ Please note, however, that even if you update or remove your personal informatio
 
 **Got more questions? We can help!**
 
-Flava Works recognizes the importance of protecting your privacy. If you have any questions about this Privacy Policy, the practices of our Sites or your dealings with Flava Works, please contact us at support@flavaworks.com or by mail at 2610 North Miami Ave., Miami, FL 33127-4438. 
+Flava Works recognizes the importance of protecting your privacy. If you have any questions about this Privacy Policy, the practices of our Sites or your dealings with Flava Works, please contact us at support@flavaworks.com or by mail at PO BOX 2495, Chicago, IL 60690. 
 
 **Please note that persons under the age of 18 are prohibited from viewing our Sites, and Flava Works does not knowingly collect any personal information from persons under the age of 18.**
