@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newschannel9.com privacy policy that was archived on 2014-08-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140827172738id_/http%3A//newschannel9.com/station/legal/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newschannel9.com privacy policy that was archived on 2015-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150614003441id_/http%3A//www.newschannel9.com/station/legal/privacy.shtml) for the most accurate reproduction.*
 
 # NewsChannel9 :: Station - Station Info
 
