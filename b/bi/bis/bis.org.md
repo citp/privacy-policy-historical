@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bis.org privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230083020id_/http%3A//www.bis.org/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bis.org privacy policy that was archived on 2015-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150614071431id_/https%3A//www.bis.org/privacy.htm) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -7,7 +7,7 @@
   
 
 
-  1. The following statement applies to the BIS website (www.bis.org) and describes the policy of the BIS on the collection and use of personal information – ie information which personally identifies a User, such as a User's name, address, e-mail address or phone number. Links to other websites from this website are not covered by this policy.   
+  1. The following statement applies to the BIS website (www.bis.org) and describes the policy of the BIS on the collection and use of personal information \- ie information which personally identifies a User, such as a User's name, address, e-mail address or phone number. Links to other websites from this website are not covered by this policy.   
  
   2. The BIS makes a record of every visit by a User to this website, and logs the following information for statistical purposes so that it can continuously improve the structure of the site: 
     * the User's internet protocol (IP) address or domain name, depending on the User's server environment (but not the User's e-mail address); 
