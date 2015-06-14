@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the 123test.com privacy policy that was archived on 2014-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140921053825id_/http%3A//www.123test.com/about_123test) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 123test.com privacy policy that was archived on 2015-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150614105032id_/https%3A//www.123test.com/about_123test) for the most accurate reproduction.*
 
 # About 123test
 
 123test® is a privately owned and independent company. For over ten years, we have been creating and publishing tests on the internet. Our tests are designed to help you find serious answers to your questions about IQ, personality, or career assessment. Tests published on 123test.com are not "marketing tools" used to sell you various products and services, or to obtain personal information, email addresses or résumés from you.
 
-123test is a Dutch-based company with an organizational structure just like the internet. That means that although our headquarters are located at the [Radboud University Nijmegen](http://www.ru.nl/) in the Netherlands, people from all over the world contribute to our network of websites.
+123test is a Netherlands-based company with an organizational structure just like the internet. That means that although our headquarters are located at the [Radboud University Nijmegen](https://www.ru.nl/) in the Netherlands, people from all over the world contribute to our network of websites.
 
 ## Your privacy is guaranteed
 
