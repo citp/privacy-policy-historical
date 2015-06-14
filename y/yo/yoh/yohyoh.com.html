@@ -1,12 +1,14 @@
-<!--The following is the downloaded HTML source of the yohyoh.com privacy policy that was archived on 2014-09-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140913185205id_/http%3A//www.yohyoh.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the yohyoh.com privacy policy that was archived on 2015-06-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150615002551id_/http%3A//www.yohyoh.com/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html class=" js no-flexbox canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths" lang="en"><!--<![endif]--><head>
+<!DOCTYPE html><html class=" js no-touch cssanimations csstransitions js no-flexbox canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths" lang="en" style=""><!--<![endif]--><head>
 <meta charset="utf-8">
 <title>YohYoh-Showcase your talent, products, services, events &amp; share it to millions of people.</title>
 <meta name="description" content="Showcase your talent, products, services, jokes, funny, games, wallpapers, events &amp; share it to millions of people.">
 <meta name="keywords" content="Showcase your talent, products, services, jokes, funny, games">
 <meta name="viewport" content="width=device-width">
+<meta property="og:image" content="http://www.yohyoh.com/includes/yohyoh/styles/images/fav.gif">
+<meta http-equiv="pragma" content="no-cache">
 <link rel="shortcut icon" href="/includes/yohyoh/styles/images/fav.gif">
 		  <link rel="stylesheet" href="/includes/yohyoh/styles/css/style.css">
 <link rel="alternate" type="application/rss+xml" title="Showcase and Get Liked" href="http://www.yohyoh.com/site/rss/rss_20_Nov_2012_07_15_51.xml">
@@ -24,14 +26,18 @@ if (navigator.userAgent.indexOf('Android') != -1)
 </script>
 <!-- Script for android tab(samsung galaxy) End -->
 
+
 <link rel="stylesheet" type="text/css" href="/includes/yohyoh/styles/css/cropimgareaselect-default.css">
 <script type="text/javascript" src="http://code.jquery.com/jquery-latest.pack.js"></script>
-<script src="/includes/yohyoh/scripts/js/jquery-1.7.1.min.js"></script>
-<script src="/includes/yohyoh/scripts/js/jquery.form.js"></script>
+<script type="text/javascript" src="/includes/yohyoh/scripts/js/jquery-1.7.1.min.js"></script>
+<script type="text/javascript" src="/includes/yohyoh/scripts/js/commonjquery.js"></script>
+<script type="text/javascript" src="/includes/yohyoh/scripts/js/jquery.nicescroll.min.js"></script>
+<script type="text/javascript" src="/includes/yohyoh/scripts/js/jquery.form.js"></script>
 <script type="text/javascript" language="javascript" src="/includes/yohyoh/scripts/js/jquery.carouFredSel-6.2.0-packed.js"></script>
-<script src="/includes/yohyoh/scripts/js/jquery_formvalidation.js"></script>
-<script src="/includes/yohyoh/scripts/js/crop/jquery.form.min.js"></script> 
-<script src="/includes/yohyoh/scripts/js/crop/jquery.imgareaselect.pack.js"></script> 
+<script type="text/javascript" src="/includes/yohyoh/scripts/js/jquery_formvalidation.js"></script>
+<script type="text/javascript" src="/includes/yohyoh/scripts/js/crop/jquery.form.min.js"></script> 
+<script type="text/javascript" src="/includes/yohyoh/scripts/js/modernizr.custom.js"></script>
+<script type="text/javascript" src="/includes/yohyoh/scripts/js/libs/jquery.autocomplete.pack.js"></script>
 <script src="/includes/yohyoh/scripts/js/libs/modernizr-2.5.3.min.js"></script>
 <script src="/includes/yohyoh/scripts/js/plugins.js"></script>
 <script src="/includes/yohyoh/scripts/js/jquery.masonry.min.js"></script>
@@ -59,23 +65,81 @@ if (navigator.userAgent.indexOf('Android') != -1)
 <!-- End Validation for login, sign up, Invite friend...more -->
 <script type="text/javascript" src="/includes/yohyoh/scripts/js/slides.min.jquery.js"></script>
 
+<script type="text/javascript">
+$(function() {
+  $('.nyroModal').nyroModal();
+});
+$(document).bind("click", ".tell_friend a", function(e) {
+$('.nyroModal').nyroModal();
+$('.nyroModalCont').css("z-index", "9999");
+});
+</script>
+
 <!-- home page slider code start -->
 <script type="text/javascript" language="javascript">
-			$(function() {				
-				//	Scrolled by user interaction
-				$('#foo2').carouFredSel({
-					transition: true,
-					prev: '#prev2',
-					next: '#next2',
-					scroll:1,
-					pagination: "#pager2",
-					mousewheel: true,
-					swipe: {
-						onMouse: true,
-						onTouch: true
-					}
-				});
-			});
+			$(function() {
+	
+/* Start Tending Menu Script*/
+$(".trendingmenuone_close").click(function () {
+$(".trending_showimg_first").hide();
+$(".trending_showimg_first").css("margin-top", "-36px");
+});
+$(".trendingmenu_close").click(function () {
+$(".trending_showimg").hide();
+$(".trending_showimg").css("margin-top", "-36px");
+});
+
+
+
+$(".tlink_title_first").hover(function () {
+$(".category_tlink_first").css({ "background": "none", "font-size": "0", "z-index":"-99" });
+var dataString = 'catID='+ $(this).data('catid');
+var element=$(this);
+	element.next().find("div.trending_items_first").html('<center><img src="/includes/yohyoh/media/images/loading.gif" /></center>');	
+	$.ajax({
+	type: "POST",
+	url: "/site/trending_showcase.php",
+	data: dataString,
+	cache: true,
+	success: function(html)
+	 {		
+		if(element.attr('class')=='category_tlink'){
+		element.next().find("div.trending_items_first").html(html).html();		
+		}else{		
+		element.parents(':eq(1)').find("div.trending_items_first").html(html).html();				
+		}	
+	 }
+	});
+   
+  },function(){}
+);
+
+$(".category_tlink, .tlink_title").hover(function () {
+$(".category_tlink_first").css({ "background": "none", "font-size": "0", "z-index":"-99" });
+var dataString = 'catID='+ $(this).data('catid');
+var element=$(this);
+	element.next().find("div.trending_items").html('<center><img src="/includes/yohyoh/media/images/loading.gif" /></center>');	
+	$.ajax({
+	type: "POST",
+	url: "/site/trending_showcase.php",
+	data: dataString,
+	cache: true,
+	success: function(html)
+	 {		
+		if(element.attr('class')=='category_tlink'){
+		element.next().find("div.trending_items").html(html).html();		
+		}else{		
+		element.parents(':eq(1)').find("div.trending_items").html(html).html();				
+		}	
+	 }
+	});
+   
+  },function(){}
+);
+/* End Tending Menu Script*/
+
+
+ });
 </script>
 <!-- home page slider code end -->
 
@@ -85,6 +149,37 @@ if (navigator.userAgent.indexOf('Android') != -1)
 
 <script type="text/javascript">
 $(document).ready(function() {
+
+$('.pagetop').click(function(event) {
+            event.preventDefault();
+            $('html, body').animate({scrollTop: 0});
+            return false;
+        })
+
+
+$('.rangoliPic').mouseover(function(){
+	id = $(this).attr('data');
+	$.ajax({
+			type : 'POST', // or GET
+			url : '/includes/ajax/updateimageviews.php', 
+			data : {id:id},
+			success : function (data) {	
+					return false;
+				}
+			});
+ });
+
+$(".trending_menu").hover(function(){
+    $(".imp").css("display","none");
+	$(".video_btn").css("display","none");
+    },function(){
+    $(".imp").css("display","block");
+	$(".video_btn").css("display","block");
+  });
+
+
+
+
 			$('img.thumb').error(function(){
 				$.post("http://www.yohyoh.com/site/broken_images.php",{image:$(this).attr('src'), page:window.location.href },function(result){})
 				$(this).attr({src: 'http://www.yohyoh.com/site/default-80px.jpg',alt: 'Sorry!  This image is not available!',style:'border: 1px solid #f00;width:80px;'});
@@ -103,8 +198,10 @@ $(document).ready(function() {
 
 <script type="text/javascript">
 
+ $(function(){
+//$( '#dl-menu' ).dlmenu();
 
-  $(function(){
+
     var $container = $('#container');
     $container.imagesLoaded(function(){
       $container.masonry({
@@ -113,14 +210,20 @@ $(document).ready(function() {
       });
     });
 
-	$(".post_comment_home").click(function() { 
-				imageid	=$(this).attr('data');
-				$('#'+imageid+'_postcommenthomeimgs').show();
-				var top  =$(this).offset().top+20;
+	$(".moretitle").click(function(){
+	imageid=$(this).attr('data'); 	
+	$('.'+imageid+'_showfull_title').show();
+	$('#'+imageid+'_seemorebutton').hide();
+	var top  =$(this).offset().top+20;
 				$container.masonry({
 					itemSelector: '.col',
 						columnWidth: 0
 					});
+	});
+
+	$(".post_comment_home").click(function() { 
+				imageid	=$(this).attr('data');
+				$('#'+imageid+'_postcommenthomeimgs').show();
 		});
 
 
@@ -135,23 +238,6 @@ if (navigator.userAgent.indexOf('Android') != -1)
 
 /* Script for android tab(samsung galaxy) End */
 
-/* Before masonry scroll images login functionality */
-	$(".login").on("click", function() {
-				//	 var top        =$(this).offset().top+20;
-					 imageid = $(this).attr('data');
-					 document.getElementById("img_likeid").value=imageid;
-					 
-					 categ_commentid=$(this).attr('categ_commentid');
-					 document.getElementById("categ_commentid").value=categ_commentid;
-					 
-					 $('.login_box').css({
-					 position: "absolute",
-					 top:57,
-					 display:"block"
-					 });
-					 });
-/* Before masonry scroll images login functionality */  
-    
     $container.infinitescroll({
       navSelector  : '#page-nav',    // selector for the paged navigation 
       nextSelector : '#page-nav a',  // selector for the NEXT link (to page 2)
@@ -171,17 +257,21 @@ if (navigator.userAgent.indexOf('Android') != -1)
           // show elems now they're ready
           $newElems.animate({ opacity: 1 });
           $container.masonry( 'appended', $newElems, true ); 
-			$(".login").on("click", function() {
-					 //var top        =$(this).offset().top+20;
-					 imageid = $(this).attr('data');
-					 document.getElementById("img_likeid").value=imageid;
-					 
-					 $('.login_box').css({
-					 position: "absolute",
-					 top:36,
-					 display:"block"
-					 });
-					 });
+		  $(".trending_showimg_first").hide();
+		  $(".nameCat_first").hide();
+
+
+ $(".moretitle").unbind('click');
+$(".moretitle").click(function(){
+	imageid=$(this).attr('data'); 	
+	$('.'+imageid+'_showfull_title').show();
+	$('#'+imageid+'_seemorebutton').hide();
+	var top  =$(this).offset().top+20;
+				$container.masonry({
+					itemSelector: '.col',
+						columnWidth: 0
+					});
+	});
 
 // Script for android tab(samsung galaxy) Start 
 
@@ -203,48 +293,94 @@ var categoryid	='';
 $(document).ready(function() {
 
 
-		$('.like').click(function(){
-		imageid	=$(this).attr('data');
-		//userid	=$(this).attr('sender');
-		userid	=$('#'+imageid+'_user').val();
-		categoryid	=$('#'+imageid+'_category').val();
-		var like	=$(this);
-		$.ajax({
-			type : 'POST', // or GET
-			url : '/includes/ajax/likes.php', // this the page url where ur insert comment script lies
-			data : {imageid:imageid,userid:userid,categoryid:categoryid}, // GET or POST key/value parameters
-			success : function (data) {
-				//alert(data);
-					$('#'+imageid+'_likespanel').html(data);
-					like.html('<img src="/includes/yohyoh/styles/images/likedimg.png" alt="like" width="16" class="ajaxlike" style="height:18px; margin-top: -2px; width: 16px;"/>');
-					//like.html(data+' Liked');
-				} // on success callback
-			});
-	});
+/* Start Largeimage Popup Functionality */
 
-	$('.like_home').click(function(){
-		imageid	=$(this).attr('data');
-		//userid	=$(this).attr('sender');
-		userid	=$('#'+imageid+'_user').val();
-		categoryid	=$('#'+imageid+'_category').val();
-		var like	=$(this);
-		$.ajax({
-			type : 'POST', // or GET
-			url : '/includes/ajax/likes.php', // this the page url where ur insert comment script lies
-			data : {imageid:imageid,userid:userid,categoryid:categoryid}, // GET or POST key/value parameters
-			success : function (data) {
-				//alert(imageid);
-					$('#'+imageid+'_likespanel').html(data);
-					like.html('<img src="/includes/yohyoh/styles/images/likedimg.png" alt="yoh" width="16" style="height:18px; margin-top: -2px; width: 16px;" />');
-					//like.html(data+' Liked');
-				} // on success callback
-			});
-	});
+  // Content for the pages.
+  // Note: You would probably want to load the page content using AJAX in a 
+  // real application.
+var pages = {  
+	largeimage: {
+      title: "",
+      url: "/site/views/largeimage.php",
+      content: ""
+    }
+  }
+
+
+  // Get references to the page elements.
+  var navLinks = document.querySelectorAll('.load-content');  
+  var contentElement = document.getElementById('content');
+
+  // Update the page content.
+  var updateContent = function(stateObj) {
+	    // Check to make sure that this state object is not null.
+    if (stateObj) {
+      contentElement.innerHTML = stateObj.content;
+    }
+  };
+
+  // Load the page content via AJAX.
+  var loadContent = function(url, pageURL, currentURL, callback) {	
+	var pageurl_res = pageURL;
+	var currentURL = currentURL;
+    var request = new XMLHttpRequest();
+    request.onload = function(response) {
+      // Save the html in the pages object so that it doesn't need
+      // to be loaded again.
+      pages[url.split('.')[0]].content = response.target.response;
+	  var urlpage = "largeimage";
+      var pageData = pages[urlpage];	
+      // Update the title and content.
+      updateContent(pageData);
+       // Execute the callback function.
+      callback();
+    };
+ 
+    request.open('get', '/site/views/' + url+"?result_url="+pageurl_res+"&browserurl="+currentURL, false);
+    request.send();
+	document.getElementById("loadpop_image").style.display = "none";
+};
+
+  // Attach click listeners for each of the nav links.
+  for (var i = 0; i < navLinks.length; i++) {
+    navLinks[i].addEventListener('click', function(e) {
+    e.preventDefault();     
+	$('body').addClass("modelscroll");
+	$('.popup').css("overflow-y","scroll");
+	$('.popup').css("height","100%");
+	$('.popup').css("display","block");
+      // Fetch the page data using the URL in the link.
+      var pageURL = this.attributes['href'].value;
+	  var currentURL = this.attributes['prev_url'].value;
+	  document.getElementById("loadpop_image").style.display = "block";
+	  var nameURL = "largeimage.php";
+		var urlpage = "largeimage";
+		
+      loadContent(nameURL, pageURL, currentURL, function() {       
+		   var pageData = pages[urlpage];
+        // Create a new history item.
+        history.pushState(pageData, pageData.title, pageURL, currentURL);		 
+      }); 	
+    });	
+ }
+  // Update the page content when the popstate event is called.
+  window.addEventListener('popstate', function(event) {
+    updateContent(event.state);
+  });
+
+$('[data-popup-target]').unbind("click");
+$('[data-popup-target]').on("click", function () { 
+  $('html').addClass('overlay'); 
+  $('.loadpop_image').css("display", "block");      
+  var activePopup = $(this).attr('data-popup-target');
+  $(activePopup).addClass('visible');
+    });
+
+/* End Largeimage Popup Functionality */
 
 	$(".smileys").unbind('click');
-	$( ".smileys" ).click(function() {
+	$( ".smileys" ).click(function() {//alert("masonary smileys");
 	var imgthumb = $(this).attr('data');
-	//var textareaval =$('#'+imageid+'_commentpost').append(imgthumb);
 	var textareabox = $('#'+imageid+'_commentpost');
     textareabox.val(textareabox.val() + imgthumb);
 	});
@@ -276,11 +412,6 @@ $(document).ready(function() {
 	$(".post_comment_home").click(function() { 				
 				imageid	=$(this).attr('data');
 				$('#'+imageid+'_postcommenthomeimgs').show();
-				var top  =$(this).offset().top+20;
-				$container.masonry({
-					itemSelector: '.col',
-						columnWidth: 0
-					});
 		});
 	
   $(".smileclick_categ").unbind('click');
@@ -309,231 +440,13 @@ $(document).ready(function() {
 					});
  });
 	
-    $('.postcommenthomeimgs').unbind('click');
-
-	$('.postcommenthomeimgs').click(function(event){
-		event.preventDefault();
-		imageid	=$(this).attr('data');
-		imagecomment=$.trim($('#'+imageid+'_commentpost').val());
-		userid	=$('#'+imageid+'_user').val();
-		categoryid	=$('#'+imageid+'_category').val();
-		var sessionemail_id="";
-		if((imagecomment=='') || (imagecomment.length<2)){
-			alert('Comment field can not be left blank!');
-			return false;
-		}
-		else if(imagecomment.length>250){
-			alert('You cannot comment over 250 characters long');
-			return false;
-		}
-		else{
-			if(sessionemail_id==""){
-					document.getElementById("img_commentid").value=imageid;
-					document.getElementById("comment_message").value=imagecomment;
-					$('.login_box').css({
-					 position: "absolute",
-					 top:36,
-					 display:"block"
-					 });
-			}
-			else
-			{
-			$('#'+imageid+'_loading_cmnt').html("<img src='/includes/yohyoh/styles/images/loading_flow.gif' width='18px' height='18px' alt='yohyoh' />").fadeIn('fast');
-			$.ajax({
-			type : 'POST', // or GET
-			url : '/includes/ajax/comments.php', // this the page url where ur insert comment script lies
-			data : {imageid:imageid,imagecomment:addslashes(imagecomment),userid:userid,categoryid:categoryid}, // GET or POST key/value parameters
-			success : function(data) {
-					if(data==0){
-						alert('Comment does not posted successfully');
-						//$('.inner_cmtspost').append('Comment does not posted successfully');
-					}	
-					else{
-					$('#'+imageid+'_commentpost').val('');
-					var record = data.split('|*|');
-					$('#'+imageid+'_commentpanel').html(record[0]);	
-					$('#'+imageid+'_loading_cmnt').fadeOut('fast');
-					$('#container').masonry('reload');
-					}
-				} // on success callback
-			});
-			}
-		}	
- 
-	});
- $('.followhome').unbind('click');
-	 $('.followhome').click(function(){
-  var receiver_user_id =$(this).attr('receiver');
-  var action =$(this).attr('action');
-  var follow =$(this);
-  $('#'+receiver_user_id+'_loadingflw').html("<img src='../includes/yohyoh/styles/images/loading_flow.gif' width='18px' height='18px' alt='YohYoh' />").fadeIn('fast');
-  $('.followhome').off('click');
-  $.ajax({
-   type : 'POST', // or GET
-   url : '/includes/ajax/profiles/follow.php', // this the page url where ur insert comment script lies
-   data : {action:action,receiver_user_id:receiver_user_id}, // GET or POST key/value parameters
-   success : function (data) {
-	   //alert(data);
-	 if(data=='follow'){
-      follow.html('Unfollow');
-      follow.attr('action','unfollow');
-     }else if(data=='unfollow'){
-      follow.html('Follow');
-      follow.attr('action','follow');
-     }
-	 $('#'+receiver_user_id+'_loadingflw').html("");
-	
-
-    } // on success callback
-   });
- });
-
-//Newly added for profile page
-$('.delete_image').unbind('click');
-		 $(".delete_image").click(function() {
-			 delimageid	=$(this).attr('data');
-			 deluserid	=$('#'+delimageid+'_deluser').val();
-			 var parent = $(this).parent().parent().parent();
-
-			$.msgBox({
-			title: "Are You Sure",
-			content: "You want to delete this image",
-			type: "confirm",
-			buttons: [{ value: "Yes" }, { value: "No" }, { value: "Cancel"}],
-			success: function (result) {
-				if (result == "Yes") {
-							$('#load').fadeIn();		
-								
-							$.ajax({
-							   type: "POST",
-							   url: "/includes/ajax/deleteyohimage.php",
-							   data: {delimageid:delimageid,deluserid:deluserid},
-							   cache: false,
-							   success: function(data){
-							   $('#load').fadeOut();
-							   parent.slideUp('slow', function() {$(this).remove();});																
-								alert("image deleted succssfully.");
-								$("#container").masonry('reload');
-							  }
-							   
-							 });
-
-							return false;
-								
-				 
-							}
-						}
-					});
-			});
-
-
-		 $('.private_image').unbind('click');
-		 $(".private_image").click(function() {
-			 imageid	=$(this).attr('data'); //alert(priimageid);
-			 userid	=$('#'+imageid+'_deluser').val(); //alert(priuserid);
-			 var parent = $(this).parent().parent().parent();
-
-			$.msgBox({
-			title: "Are You Sure",
-			content: "You want to make this image private",
-			type: "confirm",
-			buttons: [{ value: "Yes" }, { value: "No" }, { value: "Cancel"}],
-			success: function (result) {
-				if (result == "Yes") {
-							$('#load').fadeIn();					
-								
-							$.ajax({
-							   type: "POST",
-							   url: "/includes/ajax/profiles/public_privateyohimage.php",
-							   data: {imageid:imageid,userid:userid,type:"private"},
-							   cache: false,
-							   success: function(data){
-							   //alert(data);
-							   $('#load').fadeOut();
-							   parent.fadeOut('slow', function() {$(this).remove();});							   
-							   alert("Image succssfully converted as private.");
-							   $("#container").masonry('reload');	
-							  }
-							   
-							 });
-
-							return false;
-								
-				 
-							}
-						}
-					});
-			});
-
-
-		 $('.public_image').unbind('click');
-		 $(".public_image").click(function() {
-			 imageid	=$(this).attr('data'); //alert(priimageid);
-			 userid	=$('#'+imageid+'_deluser').val(); //alert(priuserid);
-			 var parent = $(this).parent().parent().parent();
-
-			$.msgBox({
-			title: "Are You Sure",
-			content: "You want to make this image public",
-			type: "confirm",
-			buttons: [{ value: "Yes" }, { value: "No" }, { value: "Cancel"}],
-			success: function (result) {
-				if (result == "Yes") {
-							$('#load').fadeIn();					
-								
-							$.ajax({
-							   type: "POST",
-							   url: "/includes/ajax/profiles/public_privateyohimage.php",
-							   data: {imageid:imageid,userid:userid,type:"public"},
-							   cache: false,
-							   success: function(data){
-							   //alert(data);
-							   $('#load').fadeOut();
-							   parent.fadeOut('slow', function() {$(this).remove();});							   
-							   alert("Image succssfully converted as public.");
-							   $("#container").masonry('reload');	
-							  }
-							   
-							 });
-
-							return false;
-								
-				 
-							}
-						}
-					});
-			});
-
-//End Newly added for profile page
-
-
-	
-	
 });
 
-	
         });
       }
     );
     
   });
-</script>
-
-<script type="text/javascript">
-	$(function(){
-		$('#slides').slides({
-			preload: true,
-			generateNextPrev: true
-		});
-		$('#lslides').slides({
-			preload: true,
-			generateNextPrev: true
-		});
-		$('#rslides').slides({
-			preload: true,
-			generateNextPrev: true
-		});
-	});
 </script>
 
 <!--[if IE 6]>
@@ -550,8 +463,7 @@ $(function() {
 
 function showfile(typename,showcasename)
 {
-
- $('#tab-containt').html('<p class="loading_ajax_img"> Loading Please Wait.... <br /><img src="http://www.yohyoh.com/includes/yohyoh/media/images/loading.gif" width="32" height="32"  class="img_loader_aj" /></p>');
+ $('.masonry').html('<p class="loading_ajax_img"> Loading Please Wait.... <br /><img src="http://www.yohyoh.com/includes/yohyoh/media/images/loading.gif" width="32" height="32"  class="img_loader_aj" /></p>');
   $('#tab-containt').load("site/sortmedia.php?q="+typename+"&user_blog_name="+showcasename); 
 }
 
@@ -563,14 +475,14 @@ function sitetest_ajax_request()
 
 function followed_followers_ajax_request(showcasename,chk_followed_followers)
 {
-  $('#tab-containt').html('<p class="loading_ajax_img"> Loading Please Wait.... <br /><img src="http://www.yohyoh.com/includes/yohyoh/media/images/loading.gif" width="32" height="32"  class="img_loader_aj" /></p>');
-  $('#tab-containt').load("includes/ajax/profiles/followed_followers.php?user_blog_name="+showcasename+"&chk_followed_followers="+chk_followed_followers); 
+  $('.full-row').html('<p class="loading_ajax_img"> Loading Please Wait.... <br /><img src="http://www.yohyoh.com/includes/yohyoh/media/images/loading.gif" width="32" height="32"  class="img_loader_aj" /></p>');
+  $('#tab-containt').load("/includes/ajax/profiles/followed_followers.php?user_blog_name="+showcasename+"&chk_followed_followers="+chk_followed_followers); 
 }
 
 function likes_liked_ajax_request(showcasename,chk_likes_liked)
 { 
-  $('#tab-containt').html('<p class="loading_ajax_img"> Loading Please Wait.... <br /><img src="http://www.yohyoh.com/includes/yohyoh/media/images/loading.gif" width="32" height="32"  class="img_loader_aj" /></p>');
-  $('#tab-containt').load("includes/ajax/profiles/likes_liked.php?user_blog_name="+showcasename+"&chk_likes_liked="+chk_likes_liked); 
+  $('.full-row').html('<p class="loading_ajax_img"> Loading Please Wait.... <br /><img src="http://www.yohyoh.com/includes/yohyoh/media/images/loading.gif" width="32" height="32"  class="img_loader_aj" /></p>');
+  $('#tab-containt').load("/includes/ajax/profiles/likes_liked.php?user_blog_name="+showcasename+"&chk_likes_liked="+chk_likes_liked); 
 }
 
 function allactivities_ajax_request(showcasename,chk_likes_liked)
@@ -584,39 +496,33 @@ function video_ajax_request()
   $('#tab-containt').html('<p class="loading_ajax_img"> Loading Please Wait.... <br /><img src="http://www.yohyoh.com/includes/yohyoh/media/images/loading.gif" width="32" height="32"  class="img_loader_aj" /></p>');
   $('#tab-containt').load("site/video.php"); 
 }
-function default_ajax_request(showcasename)
-{
-  /*$('#tab-containt').html('<p class="loading_ajax_img"> Loading Please Wait.... <br /><img src="http://www.yohyoh.com/includes/yohyoh/media/images/loading.gif" width="32" height="32"  class="img_loader_aj" /></p>');*/
-   document.getElementById("tab-containt").innerHTML='<p class="loading_ajax_img"> Loading Please Wait.... <br /><img src="http://www.yohyoh.com/includes/yohyoh/media/images/loading.gif" width="32" height="32"  class="img_loader_aj" /></p>';
-  $('#tab-containt').load("site/default.php?user_blog_name="+showcasename); 
-}
-function aboutUser_ajax_request() {
-  $('#tab-containt').html('<p class="loading_ajax_img"> Loading Please Wait.... <br /><img src="http://www.yohyoh.com/includes/yohyoh/media/images/loading.gif" width="32" height="32"  class="img_loader_aj" /></p>');
-  $('#tab-containt').load("site/aboutUser.php"); 
-}
+
 function text_ajax_request() {
   $('#tab-containt').html('<p class="loading_ajax_img"> Loading Please Wait.... <br /><img src="http://www.yohyoh.com/includes/yohyoh/media/images/loading.gif" width="32" height="32"  class="img_loader_aj" /></p>');
   $('#tab-containt').load("site/text.php"); 
 }
-function myalbum_ajax_request(showcasename) { //alert(showcasename);
-  /*$('#tab-containt').html('<p class="loading_ajax_img"> Loading Please Wait.... <br /><img src="http://www.yohyoh.com/includes/yohyoh/media/images/loading.gif" width="32" height="32"  class="img_loader_aj" /></p>');*/
-  document.getElementById("tab-containt").innerHTML='<p class="loading_ajax_img"> Loading Please Wait.... <br /><img src="http://www.yohyoh.com/includes/yohyoh/media/images/loading.gif" width="32" height="32"  class="img_loader_aj" /></p>';
-  $('#tab-containt').load("site/my-album.php?user_blog_name="+showcasename); 
-}
-function privatealbum_ajax_request() {
-  $('#tab-containt').html('<p class="loading_ajax_img"> Loading Please Wait.... <br /><img src="http://www.yohyoh.com/includes/yohyoh/media/images/loading.gif" width="32" height="32"  class="img_loader_aj" /></p>');
-  $('#tab-containt').load("site/private-album.php"); 
+
+function myalbum_ajax_request(showcasename,page)
+{ 
+ 
+  $('#container').html('<p class="loading_ajax_img"> Loading Please Wait.... <br /><img src="http://www.yohyoh.com/includes/yohyoh/media/images/loading.gif" width="32" height="32"  class="img_loader_aj" /></p>');
+  if(page=="allactivities"){
+   $('#allactivitiesmenu').hide();
+  }  
+  $('#tab-containt').load("/site/my-album.php?user_blog_name="+showcasename); 
+  $("#navbox li a.current_color").removeClass("current_color");
+  $("#myAlbum").addClass("current_color");
 }
 
-function pingme_msg() {
-  $('#tab-containt').html('<p class="loading_ajax_img"> Loading Please Wait.... <br /><img src="http://www.yohyoh.com/includes/yohyoh/media/images/loading.gif" width="32" height="32"  class="img_loader_aj" /></p>');
-  $('#tab-containt').load("includes/ajax/profiles/pingmemsgs.php"); 
-}
-
-function privateimages(showcasename)
+function privateimages(showcasename,page)
 {
-	$('#tab-containt').html('<p class="loading_ajax_img"> Loading Please Wait.... <br /><img src="http://www.yohyoh.com/includes/yohyoh/media/images/loading.gif" width="32" height="32"  class="img_loader_aj" /></p>');
-  $('#tab-containt').load("includes/ajax/profiles/private_images.php?user_blog_name="+showcasename); 
+	$('#container').html('<p class="loading_ajax_img"> Loading Please Wait.... <br /><img src="http://www.yohyoh.com/includes/yohyoh/media/images/loading.gif" width="32" height="32"  class="img_loader_aj" /></p>');
+	if(page=="allactivities"){
+   		$('#allactivitiesmenu').hide();
+  	}
+  $('#tab-containt').load("/includes/ajax/profiles/private_images.php?user_blog_name="+showcasename); 
+  $("#navbox li a.current_color").removeClass("current_color");
+  $(".privatepage").addClass("current_color");
 }
 
 </script>
@@ -635,7 +541,7 @@ $(document).ready(function(){
             }
         }
     });
-
+	
 });
 </script>
 <script type="text/javascript">
@@ -653,13 +559,15 @@ function clearText(field){
 <link rel="stylesheet" href="/includes/yohyoh/styles/styles/styleslide.css">
 
 </head>
-<body>
+
+<body id="bg">
 <!-- Chat -->
 
 <div id="chat_container">
 <div class="topbar_hide">
 <div class="chatboxhead" id="chatboxhead">
-<div class="chatboxtitle"><a id="displayText" href="javascript:void(0);" onclick="showchatpersons('')"><div class="chead">Chat</div><div class="csymbol">+</div></a></div>
+<div class="chatboxtitle"><a id="displayText" href="javascript:void(0);" onclick="showchatpersons('')"><div class="chead">Chat</div></a>
+<a id="displayText" href="javascript:void(0);" onclick="showchatpersons('')"><div class="csymbol">+</div></a></div>
 <br clear="all">
 </div>
 </div>
@@ -673,19 +581,51 @@ function clearText(field){
 <!--[if lt IE 7]><p class=chromeframe>Your browser is <em>ancient!</em> <a href="http://browsehappy.com/">Upgrade to a different browser</a> or <a href="http://www.google.com/chromeframe/?redirect=true">install Google Chrome Frame</a> to experience this site.</p><![endif]-->
 
 <!-- Header top part -->
-<header>
-  <section class="top" id="top_sections">
-   <div class="left logosection">
-		<div><h1 class="logo left"><a href="http://www.yohyoh.com">Yoh Yoh</a></h1>
-			 <!-- <h4 class="left"><a href="http://www.yohyoh.com">Beta!!</a></h4> --> <!-- Added by thirumal -->
-		</div>
-    <!-- <p class="slogan">Find What People <a href="#">Likes</a>.&nbsp;&nbsp;Create Page & Reach Millions.</p> -->
-		<div><p class="slogan">Showcase &amp; promote</p>  <!-- Added by thirumal --></div>
-    </div>
-	
 <script type="text/javascript">
 
 $(document).ready(function(){
+
+/*$('#slides').slides({
+	preload: true,
+	generateNextPrev: true
+});
+$('#lslides').slides({
+	preload: true,
+	generateNextPrev: true
+});
+$('#rslides').slides({
+	preload: true,
+	generateNextPrev: true
+});*/
+
+           var options = {
+            target: '.following_followers_list', //Div tag where content info will be loaded in
+            url:'/includes/ajax/sendmessage_upload.php', //The php file that handles the file that is uploaded
+            beforeSubmit: function() { //alert("Write Submit Form Action h");
+                $('.loading_flw').html('<img src="/includes/yohyoh/media/images/loading.gif" />'); //Including a preloader, it loads into the div tag with id uploader
+            },
+            success:  function() {  //alert("succes h");
+                //Here code can be included that needs to be performed if Ajax request was successful
+                $('.loading_flw').html('');
+				$('.writetext').trigger("reset");
+            }
+            };
+            
+            $('.writetext').submit(function(){
+	            $(this).ajaxSubmit(options);
+                return false;
+            });
+ 
+ $('#geography').click(function(event){
+		 event.stopPropagation();
+         $("#geographysearch").toggle("fast");
+		 $(".lcats").css("display","none");
+		 $('#dl-menu').dlmenu("closeMenu");
+    });
+	$("#geographysearch").on("click", function (event) {
+        event.stopPropagation();
+    });
+
 
  $('#prepare_showcase').click(function(event){	
 		 event.stopPropagation();
@@ -708,66 +648,77 @@ $(document).ready(function(){
 
 /* Start Send Message script */
 
-	$("#sendmsg_attach").click(function(event){
+	$(document).on("click",".sendmsg_attach", function(event){ //alert("sendmsg_attach");
 		event.stopPropagation();
-	  $("#sendmsg_browse").toggle();
+	    $(".sendmsg_browse").toggle();
 	}); 
 	
-	$("#attachfile").click(function(event){
+	$(document).on("click",".attachfile", function(event){ //alert("attachfile");
 		event.stopPropagation();
-	  $("#sendmsg_browse").show();
+	    $(".sendmsg_browse").show();
 	}); 
 	
-	$("#editgroupid").unbind('click');
-	$("#postwrite").unbind('click');
-	$("#postwrite").click(function(event){
+	
+	//$(".postwrite").unbind('click');
+	/*$(".postwrite").click(function(event){*/
+	$(document).on("click",".postwrite",function(event){
 		event.stopPropagation();
-	  $("#following_followers_list").hide();
-	  $("#fade_following_followers_list").hide();
-	  $("#sendmessageform").show();
-	  $("#sendmessageform").css('border-top', '#BABABA');
+	  $(".following_followers_list").hide();
+	  $(".fade_following_followers_list").hide();
+	  $(".sendmessageform").show();
+	  $(".sendmessageform").css('border-top', '#BABABA');
 	  $(".upload_headline").css('color', '#BABABA');
+	  $(".uploadiconsdisplay").hide(); 
 	//  $("#uploadiconsdisplay").show(); 
-	  
-	  
 	}); 
 	
-	$("#option").click(function(event){
+	$(document).on("click",".option", function(event){ //alert("option h");
 		event.stopPropagation();
-	  $("#sendmessageform").show();
-	  $("#uploadiconsdisplay").hide();  
+	  $(".sendmessageform").show();
+	  $(".uploadiconsdisplay").hide();  
 	}); 
-
-	$("#editgroupid").click(function(event){
+    
+	/*$(".editgroupid").unbind('click');
+	$(".editgroupid").click(function(event){ alert("hi editgroupid h");
 		event.stopPropagation();
-	  $("#sendmessageform").show();
-	  $("#uploadiconsdisplay").hide(); 
+	  $(".sendmessageform").show();
+	  $(".uploadiconsdisplay").hide(); 
+	}); */
+		
+	$(document).on("click",".sendmessageform", function(event){//alert(".sendmessageform h");
+		event.stopPropagation();
+	 $(".uploadiconsdisplay").hide(); 
 	}); 
 	
-	$("#sendmessageform").click(function(event){
+	
+	
+	$(document).on("click",".fade_following_followers_list", function(event){ alert("fade_following_followers_list");
 		event.stopPropagation();
-	 $("#uploadiconsdisplay").hide(); 
-	}); 
-	
-	
-	
-	$("#fade_following_followers_list").click(function(event){
-		event.stopPropagation();
-	 $("#following_followers_list").show();
+	 $(".following_followers_list").show();
 	}); 
 
 /* End Send Message script */
 
+
+ $(".search_name").autocomplete('/includes/searchdata.php', {
+        width: 200,
+        max: 20
+    });
+
 });
 
 $(document).on("click", function () {
+	$("#geographysearch").hide();
     $("#weshowcaseform").hide();
 	$("#howtoprepare").hide();
-	$("#sendmsg_browse").hide();
-	$("#uploadiconsdisplay").show();
+	$(".sendmsg_browse").hide();	
+	$(".nameCat_first").hide();
+	$(".uploadiconsdisplay").show();
 	$(".upload_headline").css('color', '#E36010');
-	document.getElementById("uploadiconsdisplay").style.position = "absolute";
+	$(".sendmessageform").hide();
+	//document.getElementById("uploadiconsdisplay").style.position = "absolute";
 });
+
 
 </script>
 <div id="howtoprepare" style="display:none;">			
@@ -778,18 +729,286 @@ $(document).on("click", function () {
 			<param name="flashvars" value="config={&quot;clip&quot;:{&quot;baseUrl&quot;:&quot;http://stream.flowplayer.org&quot;,&quot;url&quot;:&quot;http://www.yohyoh.com/site/modules/whats/images/tremendous_development .flv&quot;},&quot;canvas&quot;:{&quot;backgroundColor&quot;:&quot;#112233&quot;},&quot;plugins&quot;:{&quot;controls&quot;:{&quot;time&quot;:false,&quot;volume&quot;:false,&quot;fullscreen&quot;:false}}}">
 		</object>
 </div>
-	
-<nav id="site-nav" class="right">
-      <ul>	
-      
-        		<li class="upload"><a class="login"><span class="loginadd">Upload</span><img src="/includes/yohyoh/styles/images/upload.png" alt="yohyoh"></a></li>
-		<li><div id="weshowcasebutton"><span class="weshowcasenew">New</span></div></li>
-		<li class="contesthome"><a href="http://www.yohyoh.com/bigcontest" target="_blank"><img src="/includes/yohyoh/styles/images/rupee_icon.png"></a></li>
-		<li class="explore_img"><a href="#" class="exlist"><span class="yoh_aboutyoh">Explore</span><img src="/includes/yohyoh/styles/images/explore.png" alt="yohyoh"></a>		
-		  <div class="lcats_explore">
-		    <ul>
+
+<header>
+ <div id="headerbar">
+   <div id="header">
+		<div id="sitename">
+			<a href="http://www.yohyoh.com"><img src="/includes/yohyoh/styles/images/logo.png" height="63px"></a>
+		</div>	
+<!-- Start Right Menu -->
+		<div id="sitenav">
+		
+
+
+
+<!-- Uploadbox start -->
+
+	<div class="uploadbox">
+			<div class="upload_write">
+			<form name="writetextform" id="writetext" class="writetext" method="post" enctype="multipart/form-data">
+				<a href="javascript:void(0)" class="writetext_beforelogin" data-popup-targetlogin="#loginouter-popup">Howdy ?</a>				
+					   </form>
+
+			 <div class="uploadiconsdisplay">
+			  <a href="javascript:void(0);" data-popup-targetlogin="#loginouter-popup"><img title="Image upload" src="/includes/yohyoh/styles/images/uploadimage.png"></a>
+				<a href="javascript:void(0);" data-popup-targetlogin="#loginouter-popup"><img title="Video upload" src="/includes/yohyoh/styles/images/uploadvideo.png"></a>
+				<a href="javascript:void(0);" data-popup-targetlogin="#loginouter-popup"><img title="Audio upload" src="/includes/yohyoh/styles/images/uploadaudio.png"></a>				
+				<a href="javascript:void(0);" data-popup-targetlogin="#loginouter-popup"><img title="Text" src="/includes/yohyoh/styles/images/writearticle.png"></a>
+				<a href="javascript:void(0);" data-popup-targetlogin="#loginouter-popup"><img title="Pdf upload" src="/includes/yohyoh/styles/images/uploadpdf.png"></a>				
+				<a href="javascript:void(0);" data-popup-targetlogin="#loginouter-popup"><img title="Extractimage" src="/includes/yohyoh/styles/images/extractpost.png"></a>
+				<a href="javascript:void(0);" data-popup-targetlogin="#loginouter-popup"><img title="Image Extraction" src="/includes/yohyoh/styles/images/extractimage.png"></a>
+				<a href="javascript:void(0);" class="showfacebook" onclick="showfacebook('https://www.facebook.com/dialog/oauth?client_id=312480175443567&amp;redirect_uri=http://www.yohyoh.com/site/f.php&amp;scope=email,offline_access,publish_stream,publish_actions,user_birthday,user_location,user_work_history,user_about_me,user_hometown,user_photos')"><img title="Images from facebook" src="/includes/yohyoh/styles/images/extractfacebook.png"></a>			</div>
+
+		 </div> <!-- End upload_write -->
+	  </div><!-- End uploadbox -->
+
+<!-- Upload li End -->
+
+
+<!-- Start user settings -->
+	<ul>
+<!-- Start Notifications -->
+<!-- notifications End -->
+
+                <li><a href="javascript:void(0);" class="searchshow_hide"><img src="/includes/yohyoh/styles/images/search.png"></a></li>
+                <li><a href="javascript:void(0);" class="categoryshow_hide"><img src="/includes/yohyoh/styles/images/categories.png"></a></li>
+                <li><a href="javascript:void(0);" class="headermenushow_hide"><img src="/includes/yohyoh/styles/images/menu.png"></a></li>
+			                <li><a id="popup_window" data-popup-targetlogin="#loginouter-popup" class="login">Login</a></li>
+                <li><a href="javascript:void(0);" id="popup_window" data-popup-targetlogin="#signupouter-popup" class="signup">Signup</a></li>
+			            
+			</ul>
+		</div>
+		<div id="mobsitenav">
+            <ul>
+
+				
+                <li><a href="javascript:void(0);" class="searchshow_hide"><img src="/includes/yohyoh/styles/images/search.png"></a></li>
+                <li><a href="javascript:void(0);" class="categoryshow_hide"><img src="/includes/yohyoh/styles/images/categories.png"></a></li>
+                <li><a href="javascript:void(0);" class="headermenushow_hide"><img src="/includes/yohyoh/styles/images/menu.png"></a></li>
+								<li><a href="javascript:void(0);" id="popup_window" data-popup-targetlogin="#loginouter-popup" class="loginshow_hide"><img src="/includes/yohyoh/styles/images/user.png"></a></li>
+			            </ul>
+        </div>
+   </div>
+
+<!-- End Right Menu -->
+
+  </div>
+
+<!-- TOP HEADER HTML ENDS HERE -->			
+						
+	<!-------------------------------------------------
+	         Start of Categories
+	-------------------------------------------------->				
+<div class="categorybox categoryslidingDiv" id="categorynames_list" tabindex="0" style="overflow: hidden; outline: none; display: none;">
+          <ul>
+				    <li><a alt="Telugu News" title="Telugu News" href="/telugu-news">Telugu News</a></li>
+                    <li><a alt="English News" title="English News" href="/english-news">English News</a></li>
+                    <li><a alt="Hindi News" title="Hindi News" href="/hindi-news">Hindi News</a></li>
+                    <li><a alt="Malayalam News" title="Malayalam News" href="/malayalam-news">Malayalam News</a></li>
+                    <li><a alt="Tamil News" title="Tamil News" href="/tamil-news">Tamil News</a></li>
+                    <li><a alt="Marathi News" title="Marathi News" href="/marathi-news">Marathi News</a></li>
+                    <li><a alt="Kannada News" title="Kannada News" href="/kannada-news">Kannada News</a></li>
+				    <li><a alt="Bengali News" title="Bengali News" href="/bengali-news">Bengali News</a></li>
+					<li><a alt="Japanese News" title="Japanese News" href="/japanese-news">Japanese News</a></li>
+					<li><a alt="Japanese News" title="Japanese News" href="/singapore-news">Singapore News</a></li>
+					<li><a alt="Japanese News" title="Japanese News" href="/uae-news">UAE News</a></li>			
+					<li><a alt="2d Images" title="2d Images" href="/2d-images">2d Images</a></li>
+					<li><a alt="3d Images" title="3d Images" href="/3d-images">3d Images</a></li>
+					<li><a alt="Abstraction" title="Abstraction" href="/abstraction">Abstraction</a></li>
+					<li><a alt="Accessories" title="Accessories" href="/accessories">Accessories</a></li>
+					<li><a alt="Actor" title="Actor" href="/actor">Actor</a></li>
+					<li><a alt="Actress" title="Actress" href="/actress">Actress</a></li>
+					<li><a alt="Animal" title="Animal" href="/animal">Animal</a></li>
+					<li><a alt="Artists" title="Artists" href="/artists">Artists</a></li>
+					<li><a alt="Arts" title="Arts" href="/arts">Arts</a></li>
+					<li><a alt="Birds" title="Birds" href="/birds">Birds</a></li>
+					<li><a alt="Books Story Novels" title="Books Story Novels" href="/books-story-novels">Books Story Novels</a></li>	
+		
+					<li><a alt="Buildings Or Architecture" title="Buildings Or Architecture" href="/buildings-or-architecture">Buildings Or Architecture</a></li>
+					<li><a alt="Calligraphy" title="Calligraphy" href="/calligraphy">Calligraphy</a></li>
+					<li><a alt="Cars And Motor Cycles" title="Cars And Motor Cycles" href="/cars-and-motor-cycles">Cars And Motor Cycles</a></li>
+					<li><a alt="Cartoons" title="Cartoons" href="/cartoons">Cartoons</a></li>
+		            <li><a alt="Contest" title="Contest" href="/contest">Contest</a></li>
+					<li><a alt="Celebrities" title="Celebrities" href="/celebrities">Celebrities</a></li>
+					<li><a alt="Churches" title="Churches" href="/churches">Churches</a></li>
+					<li><a alt="Cinematography" title="Cinematography" href="/cinematography">Cinematography</a></li>
+					<li><a alt="Computer Animation" title="Computer Animation" href="/computer-animation">Computer Animation</a></li>
+					<li><a alt="Crafts" title="Crafts" href="/crafts">Crafts</a></li>
+					<li><a alt="Deal" title="Deal" href="/deal">Deal</a></li>
+
+					<li><a alt="Design" title="Design" href="/design">Design</a></li>
+					<li><a alt="Digital Painting" title="Digital Painting" href="/digital-painting">Digital Painting</a></li>
+					<li><a alt="Education" title="Education" href="/education">Education</a></li>
+					<li><a alt="Events" title="Events" href="/events">Events</a></li>
+		            <li><a alt="Fashion And Life Style" title="Fashion And Life Style" href="/fashion-and-life-style">Fashion And Life Style</a></li>
+					<li><a alt="Fitness And Excercises" title="Fitness And Excercises" href="/fitness-and-excercises">Fitness And Excercises</a></li>
+					<li><a alt="Flights" title="Flights" href="/flights">Flights</a></li>
+					<li><a alt="Flower" title="Flower" href="/flower">Flower</a></li>
+					<li><a alt="Food" title="Food" href="/food">Food</a></li>
+					<li><a alt="Fruits And Vegetables" title="Fruits And Vegetables" href="/fruits-and-vegetables">Fruits And Vegetables</a></li>
+					<li><a alt="Fun" title="Fun" href="/fun">Fun</a></li>
+
+					<li><a alt="Funny" title="Funny" href="/funny">Funny</a></li>
+					<li><a alt="Gardens" title="Gardens" href="/gardens">Gardens</a></li>
+					<li><a alt="Gossips" title="Gossips" href="/gossips">Gossips</a></li>
+					<li><a alt="Graffiti" title="Graffiti" href="/graffiti">Graffiti</a></li>
+		            <li><a alt="Hair And Beauty" title="Hair And Beauty" href="/hair-and-beauty">Hair And Beauty</a></li>
+					<li><a alt="History" title="History" href="/history">History</a></li>
+					<li><a alt="Home" title="Home" href="/home">Home</a></li>
+					<li><a alt="Home Design" title="Home Design" href="/home-design">Home Design</a></li>
+					<li><a alt="Hotels" title="Hotels" href="/hotels">Hotels</a></li>
+					<li><a alt="Hotpictures" title="Hotpictures" href="/hotpictures">Hotpictures</a></li>
+					<li><a alt="Illustration" title="Illustration" href="/illustration">Illustration</a></li>					
+
+					<li><a alt="Interior Design" title="Interior Design" href="/interior-design">Interior Design</a></li>
+					<li><a alt="Internet" title="Internet" href="/internet">Internet</a></li>
+					<li><a alt="Islands" title="Islands" href="/islands">Islands</a></li>
+					<li><a alt="Jewelry Design" title="Jewelry Design" href="/jewelry-design">Jewelry Design</a></li>
+		            <li><a alt="Jobs" title="Jobs" href="/jobs">Jobs</a></li>
+					<li><a alt="Jokes" title="Jokes" href="/jokes">Jokes</a></li>
+					<li><a alt="Journalism" title="Journalism" href="/journalism">Journalism</a></li>
+					<li><a alt="Kids" title="Kids" href="/kids">Kids</a></li>
+					<li><a alt="Lakes" title="Lakes" href="/lakes">Lakes</a></li>
+					<li><a alt="Landscapes" title="Landscapes" href="/landscapes">Landscapes</a></li>
+					<li><a alt="Literature" title="Literature" href="/literature">Literature</a></li>
+					
+					<li><a alt="Men" title="Men" href="/men">Men</a></li>
+					<li><a alt="Mobile" title="Mobile" href="/mobiles">Mobiles</a></li>
+					<li><a alt="Modern Houses" title="Modern Houses" href="/modern-houses">Modern Houses</a></li>
+					<li><a alt="Modern Kitchens" title="Modern Kitchens" href="/modern-kitchens">Modern Kitchens</a></li>
+					<li><a alt="Movie Photos" title="Movies" href="/movies">Movies</a></li>
+					<li><a alt="Movie Photos" title="Movie Photos" href="/movie-photos">Movie Photos</a></li>
+					<li><a alt="Nature" title="Nature" href="/nature">Nature</a></li>
+					<li><a alt="Novels" title="Novels" href="/novel">Novels</a></li>
+					<li><a alt="Others" title="Others" href="/others">Others</a></li>
+					<li><a alt="Performing Arts" title="Performing Arts" href="/performing-arts">Performing Arts</a></li>
+					<li><a alt="Pets" title="Pets" href="/pets">Pets</a></li>					
+					
+					<li><a alt="Photography" title="Photography" href="/photography">Photography</a></li>
+					<li><a alt="Plastics" title="Plastics" href="/plastics">Plastics</a></li>
+					<li><a alt="Print Design" title="Print Design" href="/print-design">Print Design</a></li>
+					<li><a alt="Product Pesign" title="Product Design" href="/product-design">Product Design</a></li>
+					<li><a alt="Products I Like" title="Products I Like" href="/products-i-like">Products I Like</a></li>
+					<li><a alt="Profile" title="Profile" href="/profile">Profile</a></li>
+					<li><a alt="Programming" title="Programming" href="/programming">Programming</a></li>
+					<li><a alt="poultry equipment" title="poultry equipment" href="/poultry-equipment">poultry equipment</a></li>
+					<li><a alt="Quote" title="Quote" href="/quote">Quote</a></li>
+					<li><a alt="Retouching" title="Retouching" href="/retouching">Retouching</a></li>
+					<li><a alt="Science" title="Science" href="/science">Science</a></li>					
+		
+					<li><a alt="Science And Nature" title="Science And Nature" href="/science-and-nature">Science And Nature</a></li>
+					<li><a alt="Space" title="Space" href="/space">Space</a></li>
+					<li><a alt="Space" title="Spiritual" href="/Spiritual">Spiritual</a></li>
+					<li><a alt="Sports" title="Sports" href="/sports">Sports</a></li>
+					<li><a alt="Storyboarding" title="Storyboarding" href="/storyboarding">Storyboarding</a></li>
+					<li><a alt="Swimming Pools" title="Swimming Pools" href="/swimming-pools">Swimming Pools</a></li>
+		            <li><a alt="Technology" title="Technology" href="/technology">Technology</a></li>
+					<li><a alt="Temples" title="Temples" href="/temples">Temples</a></li>
+					<li><a alt="Textile Design" title="Textile Design" href="/textile-design">Textile Design</a></li>
+					<li><a alt="Tourism And Places" title="Tourism And Places" href="/tourism-and-places">Tourism And Places</a></li>
+					<li><a alt="Toy Design" title="Toy Design" href="/toy-design">Toy Design</a></li>					
+		
+				    <li><a alt="Typography" title="Typography" href="/typography">Typography</a></li>
+				    <li><a alt="Videos" title="Videos" href="/videos">Videos</a></li>
+				    <li><a alt="Wallpapers" title="Wallpapers" href="/wallpapers">Wallpapers</a></li>
+				    <li><a alt="Watches" title="Watches" href="/watches">Watches</a></li>
+				    <li><a alt="Waterfalls" title="Waterfalls" href="/waterfalls">Waterfalls</a></li>
+				    <li><a alt="Web Design" title="Web Design" href="/web-design">Web Design</a></li>
+				    <li><a alt="Wedding" title="Wedding" href="/wedding">Wedding</a></li>
+        
+            <li><a href="http://www.yohyoh.com/health/online-doctor/live/">Online Doctor</a></li>
+            <li><a href="http://eshop.yohyoh.com">Eshop</a></li>
+            <li><a href="http://www.yohyoh.com/careers/home">Careers</a></li>
+            <li><a href="http://www.yohyoh.com/yohyoh-quiz">Win Prize Quiz</a></li>
+            <li><a href="http://www.yohyoh.com/quick-contacts">Quick Contacts</a></li>
+            <li><a href="http://www.yohyoh.com/classifieds">Classifieds</a></li>
+            <li><a href="http://www.yohyoh.com/novels/home">Novels</a></li>
+            <li><a href="http://www.yohyoh.com/live-tv-channels">Live Tv Channels</a></li>
+            <li><a href="http://www.yohyoh.com/events">Events</a></li>
+            <li><a href="http://www.yohyoh.com/quotes">Quotes</a></li>
+            <li><a href="http://www.yohyoh.com/games">Games</a></li>
+         
+            <li><a href="http://www.yohyoh.com/cinema/home">Cinema</a></li>
+            <li><a href="http://www.yohyoh.com/entertainment/home/lyrics">Lyrics</a></li>
+            <li><a href="http://www.yohyoh.com/entertainment/home/jokes">Jokes</a></li>
+            <li><a href="http://www.yohyoh.com/entertainment/myringtones">Ringtones</a></li>
+
+  </ul></div>
+
+	<!-------------------------------------------------
+	         End of Categories list
+	-------------------------------------------------->
+
+<!-------------------------------------------------
+	         Search Form Start
+	-------------------------------------------------->	
+
+<div class="searchbox searchslidingDiv" style="display: none;">
+<form name="gsearch" method="POST" action="">
+	<p><input type="text" name="search_name" id="search_name" class="search_name ac_input" placeholder="Keyword" autocomplete="off"></p>
+	<p><select name="gcategory" id="gcategory">
+	   <option value="">Category</option>
+<option value="2d images">2d images</option><option value="3d images">3d images</option><option value="abstraction">abstraction</option><option value="accessories">accessories</option><option value="actor">actor</option><option value="actress">actress</option><option value="ads and promotions">ads and promotions</option><option value="animal">animal</option><option value="artists">artists</option><option value="arts">arts</option><option value="astronomy">astronomy</option><option value="bengali news">bengali news</option><option value="birds">birds</option><option value="books story novels">books story novels</option><option value="buildings or architecture">buildings or architecture</option><option value="calligraphy">calligraphy</option><option value="cars and motor cycles">cars and motor cycles</option><option value="cartoons">cartoons</option><option value="celebrities">celebrities</option><option value="churches">churches</option><option value="cinematography">cinematography</option><option value="computer animation">computer animation</option><option value="crafts">crafts</option><option value="deal">deal</option><option value="design">design</option><option value="digital painting">digital painting</option><option value="education">education</option><option value="english news">english news</option><option value="events">events</option><option value="fashion and life style">fashion and life style</option><option value="favicon">favicon</option><option value="fitness and excercises">fitness and excercises</option><option value="flights">flights</option><option value="flower">flower</option><option value="food">food</option><option value="fruits and vegetables">fruits and vegetables</option><option value="fun">fun</option><option value="funny">funny</option><option value="gadgets">gadgets</option><option value="gardens">gardens</option><option value="general">general</option><option value="gossips">gossips</option><option value="graffiti">graffiti</option><option value="gujrathi news">gujrathi news</option><option value="hair and beauty">hair and beauty</option><option value="hindi news">hindi news</option><option value="history">history</option><option value="home">home</option><option value="home design">home design</option><option value="hotels">hotels</option><option value="hotpictures">hotpictures</option><option value="illustration">illustration</option><option value="interior design">interior design</option><option value="internet">internet</option><option value="islands">islands</option><option value="japanese news">japanese news</option><option value="jewelry design">jewelry design</option><option value="jobs">jobs</option><option value="jokes">jokes</option><option value="journalism">journalism</option><option value="kannada news">kannada news</option><option value="Kids">Kids</option><option value="lakes">lakes</option><option value="landscapes">landscapes</option><option value="literature">literature</option><option value="malayalam news">malayalam news</option><option value="marathi news">marathi news</option><option value="men">men</option><option value="mobiles">mobiles</option><option value="modern houses">modern houses</option><option value="modern kitchens">modern kitchens</option><option value="mountains">mountains</option><option value="movie photos">movie photos</option><option value="movies">movies</option><option value="nature">nature</option><option value="novel">novel</option><option value="others">others</option><option value="performing arts">performing arts</option><option value="pets">pets</option><option value="photography">photography</option><option value="plastics">plastics</option><option value="poultry equipment">poultry equipment</option><option value="print design">print design</option><option value="product design">product design</option><option value="products i like">products i like</option><option value="profile">profile</option><option value="programming">programming</option><option value="quote">quote</option><option value="resorts">resorts</option><option value="retouching">retouching</option><option value="science">science</option><option value="science and nature">science and nature</option><option value="singapore news">singapore news</option><option value="space">space</option><option value="spiritual">spiritual</option><option value="sports">sports</option><option value="Storyboarding">Storyboarding</option><option value="swimming pools">swimming pools</option><option value="tamil news">tamil news</option><option value="tattoo">tattoo</option><option value="technology">technology</option><option value="telugu news">telugu news</option><option value="temples">temples</option><option value="textile design">textile design</option><option value="tourism and places">tourism and places</option><option value="toy design">toy design</option><option value="typography">typography</option><option value="uae news">uae news</option><option value="videos">videos</option><option value="wallpapers">wallpapers</option><option value="watches">watches</option><option value="waterfalls">waterfalls</option><option value="web design">web design</option><option value="wedding">wedding</option><option value="women">women</option><option value="world wonders">world wonders</option><option value="yohyohvideos">yohyohvideos</option></select>
+    </p>
+	<p>
+	<select name="country" id="country">
+	<option value="">Country</option>
+	<option value="afghanistan">Afghanistan</option><option value="aland-islands">Aland Islands</option><option value="albania">Albania</option><option value="algeria">Algeria</option><option value="american-samoa">American Samoa</option><option value="andorra">Andorra</option><option value="angola">Angola</option><option value="anguilla">Anguilla</option><option value="antarctica">Antarctica</option><option value="antigua-and-barbuda">Antigua and Barbuda</option><option value="argentina">Argentina</option><option value="armenia">Armenia</option><option value="aruba">Aruba</option><option value="australia">Australia</option><option value="austria">Austria</option><option value="azerbaijan">Azerbaijan</option><option value="bahamas">Bahamas</option><option value="bahrain">Bahrain</option><option value="bangladesh">Bangladesh</option><option value="barbados">Barbados</option><option value="belarus">Belarus</option><option value="belgium">Belgium</option><option value="belize">Belize</option><option value="benin">Benin</option><option value="bermuda">Bermuda</option><option value="bhutan">Bhutan</option><option value="bolivia">Bolivia</option><option value="bosnia-and-herzegovina">Bosnia and Herzegovina</option><option value="botswana">Botswana</option><option value="bouvet-island">Bouvet Island</option><option value="brazil">Brazil</option><option value="british-indian-ocean">British Indian Ocean...</option><option value="british-virgin-islands">British Virgin Islands</option><option value="brunei">Brunei</option><option value="bulgaria">Bulgaria</option><option value="burkina-faso">Burkina Faso</option><option value="burundi">Burundi</option><option value="cambodia">Cambodia</option><option value="cameroon">Cameroon</option><option value="canada">Canada</option><option value="cape-verde">Cape Verde</option><option value="cayman-islands">Cayman Islands</option><option value="central-african-republic">Central African Republic</option><option value="chad">Chad</option><option value="chile">Chile</option><option value="china">China</option><option value="christmas-island">Christmas Island</option><option value="cocos-keeling-islands">Cocos (Keeling) Islands</option><option value="colombia">Colombia</option><option value="comoros">Comoros</option><option value="congo">Congo</option><option value="cook-islands">Cook Islands</option><option value="costa-rica">Costa Rica</option><option value="croatia">Croatia</option><option value="cyprus">Cyprus</option><option value="czech-republic">Czech Republic</option><option value="democratic-republic">Democratic Republic </option><option value="denmark">Denmark</option><option value="disputed-territory">Disputed Territory</option><option value="djibouti">Djibouti</option><option value="dominica">Dominica</option><option value="dominican-republic">Dominican Republic</option><option value="east-timor">East Timor</option><option value="ecuador">Ecuador</option><option value="egypt">Egypt</option><option value="el-salvador">El Salvador</option><option value="equatorial-guinea">Equatorial Guinea</option><option value="eritrea">Eritrea</option><option value="estonia">Estonia</option><option value="ethiopia">Ethiopia</option><option value="falkland-islands">Falkland Islands</option><option value="faroe-islands">Faroe Islands</option><option value="fiji">Fiji</option><option value="finland">Finland</option><option value="france">France</option><option value="french-guyana">French Guyana</option><option value="french-polynesia">French Polynesia</option><option value="gabon">Gabon</option><option value="gambia">Gambia</option><option value="georgia">Georgia</option><option value="germany">Germany</option><option value="ghana">Ghana</option><option value="gibraltar">Gibraltar</option><option value="greece">Greece</option><option value="greenland">Greenland</option><option value="grenada">Grenada</option><option value="guadeloupe">Guadeloupe</option><option value="guam">Guam</option><option value="guatemala">Guatemala</option><option value="guinea">Guinea</option><option value="guinea-bissau">Guinea-Bissau</option><option value="guyana">Guyana</option><option value="haiti">Haiti</option><option value="heard-island-and-mcdonald">Heard Island and Mcdonald...</option><option value="honduras">Honduras</option><option value="hong-kong">Hong Kong</option><option value="hungary">Hungary</option><option value="iceland">Iceland</option><option value="india">India</option><option value="indonesia">Indonesia</option><option value="iraq">Iraq</option><option value="iraq-saudi-arabia-neutral">Iraq-Saudi Arabia Neutral...</option><option value="ireland">Ireland</option><option value="israel">Israel</option><option value="italy">Italy</option><option value="ivory-coast">Ivory Coast</option><option value="japan">Japan</option><option value="jordan">Jordan</option><option value="kazakhstan">Kazakhstan</option><option value="kenya">Kenya</option><option value="kiribati">Kiribati</option><option value="kuwait">Kuwait</option><option value="kyrgyzstan">Kyrgyzstan</option><option value="laos">Laos</option><option value="latvia">Latvia</option><option value="lebanon">Lebanon</option><option value="lesotho">Lesotho</option><option value="liberia">Liberia</option><option value="libya">Libya</option><option value="liechtenstein">Liechtenstein</option><option value="lithuania">Lithuania</option><option value="luxembourg">Luxembourg</option><option value="macau">Macau</option><option value="macedonia">Macedonia</option><option value="madagascar">Madagascar</option><option value="malawi">Malawi</option><option value="malaysia">Malaysia</option><option value="maldives">Maldives</option><option value="mali">Mali</option><option value="malta">Malta</option><option value="marshall-islands">Marshall Islands</option><option value="martinique">Martinique</option><option value="mauritania">Mauritania</option><option value="mauritius">Mauritius</option><option value="mayotte">Mayotte</option><option value="mexico">Mexico</option><option value="moldova">Moldova</option><option value="monaco">Monaco</option><option value="mongolia">Mongolia</option><option value="montserrat">Montserrat</option><option value="morocco">Morocco</option><option value="mozambique">Mozambique</option><option value="myanmar">Myanmar</option><option value="namibia">Namibia</option><option value="nauru">Nauru</option><option value="nepal">Nepal</option><option value="netherlands">Netherlands</option><option value="netherlands-antilles">Netherlands Antilles</option><option value="new-caledonia">New Caledonia</option><option value="new-zealand">New Zealand</option><option value="nicaragua">Nicaragua</option><option value="niger">Niger</option><option value="nigeria">Nigeria</option><option value="niue">Niue</option><option value="norfolk-island">Norfolk Island</option><option value="north-korea">North Korea</option><option value="northern-mariana-islands">Northern Mariana Islands</option><option value="norway">Norway</option><option value="oman">Oman</option><option value="pakistan">Pakistan</option><option value="palau">Palau</option><option value="palestinian-occupied">Palestinian Occupied ...</option><option value="panama">Panama</option><option value="papua-new-guinea">Papua New Guinea</option><option value="paraguay">Paraguay</option><option value="peru">Peru</option><option value="philippines">Philippines</option><option value="pitcairn-islands">Pitcairn Islands</option><option value="poland">Poland</option><option value="portugal">Portugal</option><option value="puerto-rico">Puerto Rico</option><option value="qatar">Qatar</option><option value="reunion">Reunion</option><option value="romania">Romania</option><option value="russia">Russia</option><option value="rwanda">Rwanda</option><option value="saint-helena">Saint Helena </option><option value="saint-kitts-and-nevis">Saint Kitts and Nevis</option><option value="saint-lucia">Saint Lucia</option><option value="saint-pierre-and-miquelon">Saint Pierre and Miquelon</option><option value="saint-vincent">Saint Vincent </option><option value="samoa">Samoa</option><option value="san-marino">San Marino</option><option value="sao-tome-and-principe">Sao Tome and Principe</option><option value="saudi-arabia">Saudi Arabia</option><option value="senegal">Senegal</option><option value="serbia-and-montenegro">Serbia and Montenegro</option><option value="seychelles">Seychelles</option><option value="sierra-leone">Sierra Leone</option><option value="singapore">Singapore</option><option value="slovakia">Slovakia</option><option value="slovenia">Slovenia</option><option value="solomon-islands">Solomon Islands</option><option value="somalia">Somalia</option><option value="south-africa">South Africa</option><option value="south-georgia">South Georgia </option><option value="south-korea">South Korea</option><option value="spain">Spain</option><option value="spratly-islands">Spratly Islands</option><option value="sri-lanka">Sri Lanka</option><option value="suriname">Suriname</option><option value="svalbard-and-jan-mayen">Svalbard and Jan Mayen</option><option value="swaziland">Swaziland</option><option value="sweden">Sweden</option><option value="switzerland">Switzerland</option><option value="syria">Syria</option><option value="taiwan">Taiwan</option><option value="tajikistan">Tajikistan</option><option value="tanzania">Tanzania</option><option value="thailand">Thailand</option><option value="togo">Togo</option><option value="tokelau">Tokelau</option><option value="tonga">Tonga</option><option value="trinidad-and-tobago">Trinidad and Tobago</option><option value="tunisia">Tunisia</option><option value="turkey">Turkey</option><option value="turkmenistan">Turkmenistan</option><option value="turks-and-caicos-islands">Turks And Caicos Islands</option><option value="tuvalu">Tuvalu</option><option value="uganda">Uganda</option><option value="ukraine">Ukraine</option><option value="united-arab-emirates">United Arab Emirates</option><option value="united-kingdom">United Kingdom</option><option value="united-nations-neutral-zone">United Nations Neutral Zone</option><option value="united-states">United States</option><option value="united-states-minor-outly">United States Minor Outly...</option><option value="uruguay">Uruguay</option><option value="us-virgin-islands">US Virgin Islands</option><option value="uzbekistan">Uzbekistan</option><option value="vanuatu">Vanuatu</option><option value="vatican-city">Vatican City</option><option value="venezuela">Venezuela</option><option value="vietnam">Vietnam</option><option value="wallis-and-futuna">Wallis and Futuna</option><option value="western-sahara">Western Sahara</option><option value="yemen">Yemen</option><option value="zambia">Zambia</option><option value="zimbabwe">Zimbabwe</option>	</select>
+	</p>
+	<p><input type="text" name="city" id="city" placeholder="City"></p>
+	<p class="searchbut"><input type="submit" name="geography_search" value="search"></p>
+</form>
+</div>
+
+
+<!-------------------------------------------------
+	         Search Form End
+	-------------------------------------------------->	
+ <div class="headermenubox headermenuslidingDiv" style="display: none;">
+           <ul>
+            <li><a href="/help/aboutyohyoh.php" target="_blank" class="menubtmbrdr menurtbrdr btmbrdrall">About</a></li>
+			<li>
+
+    
+        <meta name="robots" content="noindex">
+        <title>Import Gmail or Google contacts using Google Contacts Data API 3.0 and OAuth 2.0</title>
+ 
+    
+    
+<!-- <div id="gmailouath" style="display:none;"><img src"$abc" ></div> -->
+        <div align="center" class="autoinvite_top">
+        	<!-- <a class="nyroModal"  style="font-size:15px;font-weight:bold;" href="#gmailouath">Auto Invite</a> -->
+		<!--<a href="https://accounts.google.com/o/oauth2/auth?client_id=490021836058-kng4uep3sj1ms2d8e0mlr2fm5s05hihu.apps.googleusercontent.com&redirect_uri=http://beta.yohyoh.com/site/oauth/oauth.php&scope=https://www.google.com/m8/feeds/&response_type=code" onClick="javascript:void window.open('https://accounts.google.com/o/oauth2/auth?client_id=490021836058-kng4uep3sj1ms2d8e0mlr2fm5s05hihu.apps.googleusercontent.com&redirect_uri=http://beta.yohyoh.com/site/oauth/oauth.php&scope=https://www.google.com/m8/feeds/&response_type=code','1357280579775','width=700,height=500,toolbar=0,menubar=0,location=0,status=1,scrollbars=1,resizable=1,left=0,top=0');return false;">Auto Invite</a>-->
+		
+		<a href="https://accounts.google.com/o/oauth2/auth?client_id=498810081979-1149fcg6uqjqacegjmb9ihum4v7itdlu.apps.googleusercontent.com&amp;redirect_uri=http://www.yohyoh.com/site/oauth/oauth.php&amp;scope=https://www.google.com/m8/feeds/&amp;response_type=code" onclick="javascript:void window.open('https://accounts.google.com/o/oauth2/auth?client_id=498810081979-1149fcg6uqjqacegjmb9ihum4v7itdlu.apps.googleusercontent.com&amp;redirect_uri=http://www.yohyoh.com/site/oauth/oauth.php&amp;scope=https://www.google.com/m8/feeds/&amp;response_type=code','1357280579775','width=700,height=500,toolbar=0,menubar=0,location=0,status=1,scrollbars=1,resizable=1,left=0,top=0');return false;">Auto Invite</a>
+        </div>
+    
+
+</li>
+            <li><a href="javascript:void(0);" class="menubtmbrdr btmbrdrall menurtbrdr" id="exploremenulist">Explore</a></li>			
+			<li><a href="javascript:void(0);" id="weshowcasebutton" class="menubtmbrdr btmbrdrall menurtbrdr">New</a></li>
+            <li><a href="http://www.yohyoh.com/bigcontest" target="_blank" class="menubtmbrdr menurtbrdr btmbrdrall">Big Contest</a></li>
+            <li><a href="javascript:void(0);" class="menubtmbrdr btmbrdrall menurtbrdr" id="newsmenulist">News</a></li>
+            <li><a href="javascript:void(0);" class="menubtmbrdr menurtbrdr btmbrdrall" id="mostmenulist">Most</a></li>
+            <li><a href="javascript:void(0);" class="menubtmbrdr" id="timefactormenulist">Time Factor</a></li>
+           </ul>
+</div>
+
+ <div class="aboutmenubox aboutmenuslidingDiv" style="display: none;">
+           <ul>
+				<li><a href="/help/what.php" target="_blank">Whats YohYoh</a></li>
+				<li><a href="/help/help.php" target="_blank">Help</a></li> 
+				<li><a href="/terms-of-service">Terms of Service</a></li>
+				<li><a href="/privacy-policy">Privacy Policy</a></li>
+           </ul>
+</div>
+
+
+
+ <div class="exploremenubox exploremenuslidingDiv" style="display: none;">
+           <ul>
 				<li><a href="http://www.yohyoh.com/health/online-doctor/live/">Online Doctor</a></li> 
-				<!--<li><a href="http://eshop.yohyoh.com">eShop</a></li>-->
 				<li><a href="http://www.yohyoh.com/careers/home">Careers</a></li>
 				<li>
 					
@@ -800,7 +1019,7 @@ $(document).on("click", function () {
 
 					 <div id="limit_info" style="display: none; width: 740px;">					 
 					   <div class="rest_message">
-						<ul>
+						<ul class="dl-submenu">
 							<li>Max 5 vmails supported. For premium services please contact <i>support@yohyoh.com</i></li><br>					   
 							<li>The recorded Videos can be viewed under your profile - All Activities section.</li><br>					   
 							<li>However, each video can be yohyohed (V-mailed) to  unlimited number of users.</li>					   
@@ -826,110 +1045,118 @@ $(document).on("click", function () {
 												
 													 
 						 
-						  <div class=""> <span class="login" style="cursor:pointer"><a href="#">Video Mail</a></span> </div>
-					 </li>	
-				
+						  <div class=""> <span class="login" style="cursor:pointer"><a href="#">Video Mail</a></span> </div>						
+				</li>
 			</ul>
-          </div>
-        </li>
+</div>
 
-		<li class="about_yoh"><a class="yoh" href="#"><span class="yoh_aboutyoh">About</span><img src="/includes/yohyoh/styles/images/about.png" alt="yohyoh"></a>
-		<div class="lcats_explore terms_priv">
-		    <ul>
-				<li><a href="http://www.yohyoh.com/help/what.html" target="_blank">Whats YohYoh</a></li>
-				<li><a href="http://www.yohyoh.com/help/help.html" target="_blank">Help</a></li> 
-				<li><a href="http://www.yohyoh.com/terms-of-service">Terms of Service</a></li>
-				<li><a href="http://www.yohyoh.com/privacy-policy">Privacy Policy</a></li>
+<div class="newsmenubox newsmenuslidingDiv" style="display: none;">
+			<ul>
+			    <li><a href="/english-news">English</a></li>
+				<li><a href="/hindi-news">हिन्दी</a></li> 
+				<li><a href="/telugu-news">తెలుగు</a></li> 
+				<li><a href="/tamil-news">தமிழ்</a></li> 
+				<li><a href="/marathi-news">मराठी</a></li>
+				<li><a href="/bengali-news">বাংলা</a></li> 
+				<li><a href="/kannada-news">ಕನ್ನಡ</a></li>
+				<li><a href="/malayalam-news">മലയാളം</a></li>
 			</ul>
-		</div>
-		</li>
-		<li class="login_icon"><a class="login"><span class="yoh_aboutyoh">Login</span></a></li>
-        <li class="signup_icon"><a href="#" class="signup"><span class="yoh_aboutyoh">Signup</span></a></li>
-        		<li class="lang"><a href="#">News<span></span></a></li>        
+</div>
+
+
+<div class="mostmenubox mostmenuslidingDiv" style="display: none;">
+	   <ul>
+				<li><a href="/most/viewed-images">Viewed Images</a></li>
+				<li><a href="/most/liked-images">Liked Images</a></li>
+				<li><a href="/most/uploader">Uploader</a></li>
+				<li><a href="/most/gifted-users">Gifted Users</a></li>
+				<li><a href="/most/latest-images">Latest Images</a></li>
+			</ul>
+</div>
+
+
+<div class="timefactormenubox timefactormenuslidingDiv" style="display: none;">
+<ul>	
+		<li><a href="/time-factor/today">Today</a></li>
+		<li><a href="/time-factor/this-week">This Week</a></li>
+		<li><a href="/time-factor/this-month">This Month</a></li>
       </ul>
-      <div class="lang_drop">
-	  
-	    <a href="/english-news">English</a>
-	    <a href="/hindi-news">हिन्दी</a> 
-		<a href="/telugu-news">తెలుగు</a> 
-		<a href="/tamil-news">தமிழ்</a> 
-		<a href="/marathi-news">मराठी</a>
-		<a href="/bengali-news">বাংলা</a> 
-		<a href="/kannada-news">ಕನ್ನಡ</a>
-		<a href="/malayalam-news">മലയാളം</a> </div>
-    
-      <div class="login_box">
-        <h2><a href="#">YOH YOH</a> Login</h2>
-        <!--<h3>Become part of the world's best photography community.</h3>-->
+</div>
+
+
+<!-------------------------------------------------
+	         End About Menu
+	-------------------------------------------------->	
+
+		
+	
+
+
+<div id="loginouter-popup" class="popupform">
+<a href="javascript:void(0);" id="popup_window" data-popup-targetlogin="#signupouter-popup" class="signupshow_hide">New Account ?</a>
+      <div class="popup-loginsignup">
+		  <span class="popup-exit"><img src="/includes/yohyoh/styles/images/close_login.png"></span>
         <form name="loginForm" id="loginForm" method="post">
 		<div id="logmsg" style="display:block; width:73%; text-align:center; margin-top:5px;color:#FF0000;margin-bottom:5px;"></div>
-          <div class="fleft">
-            <label><strong>Email ID</strong></label>
-            <input class="text required email" type="text" name="username" onfocus="clearText(this)" placeholder="Enter your Email ID" autofocus="">
-          </div>
-          <div class="fleft">
-            <label><strong>Password</strong></label>
-            <input class="text required" type="password" name="password" onfocus="clearText(this)" placeholder="Enter your password" onkeypress="if(event.keyCode==13) {loginvalidation(document.loginForm,'/privacy-policy');}">
-          </div>
-          <div class="fleft login_btn">
-           <input type="button" class="or_btn left" value="Login" onclick="loginvalidation(document.loginForm,'/privacy-policy')"><div id="loginmessage"></div>
-          </div>
-          <p style="display:block; width:73%; text-align:center; margin-top:17px;">
-            <!-- <input type="checkbox">
-            Remeber Me --> <a class="forget">Forgot Password ?</a> </p>
-          <div class="clear">.</div>
+         
+          
+            <input class="text required email" type="email" name="username" onfocus="clearText(this)" placeholder="Email">         
+            <input class="text required" type="password" name="password" onfocus="clearText(this)" placeholder="Password" onkeypress="if(event.keyCode==13) {loginvalidation(document.loginForm,'/privacy-policy');}">  
+           <input type="button" class="or_btn" value="Login" onclick="loginvalidation(document.loginForm,'/privacy-policy')"><div id="loginmessage"></div>
+			<a class="forget">Forgot Password ?</a>
           <input type="hidden" name="subval" value="Login">
 		  <input type="hidden" name="img_likeid" id="img_likeid">
 		  <input type="hidden" name="img_commentid" id="img_commentid">
 		  <input type="hidden" name="comment_message" id="comment_message">
 		  <input type="hidden" name="largeimagepage_id" id="largeimagepage_id">
 		  <input type="hidden" name="categ_commentid" id="categ_commentid">
-        </form>
-        <span class="or">OR</span>
-        <div class="login_social"><span class="login_with">Login With </span> 
+        
+        <span class="or">or login with</span>        
 
-		 <a href="https://www.facebook.com/dialog/oauth?client_id=312480175443567&amp;redirect_uri=http%3A%2F%2Fwww.yohyoh.com&amp;state=993e13cdf9071c87875298788da0cbd3&amp;scope=email%2Cpublish_stream%2Cpublish_actions"><img src="/includes/yohyoh/styles/images/login_fb.png" alt="YohYoh-Showcase your talent, products, services, events &amp; share it to millions of people." width="32" height="32"></a> 
+		 <a href="https://www.facebook.com/dialog/oauth?client_id=312480175443567&amp;redirect_uri=http%3A%2F%2Fwww.yohyoh.com&amp;state=6d1a99683e95cd08c68ee4b66ddc1fb8&amp;scope=email%2Cpublish_stream%2Cpublish_actions" class="fblogin"><img src="/includes/yohyoh/styles/images/fb.png" alt="YohYoh-Showcase your talent, products, services, events &amp; share it to millions of people." width="32" height="32"></a> 
 		 
-		 
-		  OR <a href=".//index.php?auth=google"><img src="/includes/yohyoh/styles/images/login_gmail.png" alt="YohYoh-Showcase your talent, products, services, events &amp; share it to millions of people." width="28" height="28"></a> OR <a href=".//index.php?auth=yahoo"><img src="/includes/yohyoh/styles/images/yahoo_icon.jpg" alt="YohYoh-Showcase your talent, products, services, events &amp; share it to millions of people." width="28" height="28"></a>	
-
 		 		 
-		 </div>
+		 
+		  <a href="http://www.yohyoh.com/index.php?auth=google" class="gmaillogin"><img src="/includes/yohyoh/styles/images/gmail.png" alt="YohYoh-Showcase your talent, products, services, events &amp; share it to millions of people." width="32" height="32"></a> 
+		  <a href="http://www.yohyoh.com/index.php?auth=yahoo" class="yahoologin"><img src="/includes/yohyoh/styles/images/yahoo.png" alt="YohYoh-Showcase your talent, products, services, events &amp; share it to millions of people." width="32" height="32"></a> 
+		 
+		 		 
+		</form>
       </div>
-      <div class="signup_box">
-        <h2><a href="#">YOH YOH</a> Signup</h2>
-        <!--<h3>Become part of the world's best photography community.</h3>-->
-        <form name="signupForm" id="signupForm" method="post">
-          <div class="fleft">
-            <label><strong>E-mail</strong></label>
-            <input class="text required" type="text" name="email" placeholder="Enter your e-mail Id" onkeypress="if(event.keyCode==13){signupvalidation(document.signupForm,'/privacy-policy'); return false;}" autofocus="">
-		 </div>
-		 <div class="fleft">	
-			<label><strong>Showcase Name</strong></label>
-			<input class="text required" type="text" name="showcasename" id="showcasename" placeholder="Enter your showcase name">
-			<span style="display:block;margin-top:-14px;">ex: rahul</span>
-			          </div>
-          <div class="fleft login_btn">
+  </div>
+
+  <div id="signupouter-popup" class="popupform">
+      <div class="popup-loginsignup">
+        <span class="popup-exit"><img src="/includes/yohyoh/styles/images/close_login.png"></span>
+        <form name="signupForm" id="" method="post" style="display:block;">
+              <input class="text required" type="email" name="email" placeholder="Email" onkeypress="if(event.keyCode==13){signupvalidation(document.signupForm,'/privacy-policy'); return false;}">		
+			  <input class="text required" type="text" name="showcasename" id="showcasename" placeholder="Showcase Name">
+			  <span class="name_example">ex: rahul</span>
+			
             <input type="hidden" name="subval" value="Signup">
-						<input type="button" class="or_btn left" value="Signup" onclick="signupvalidation(document.signupForm,'/privacy-policy','nodropdown')">
-			          </div>
+						<input type="button" class="or_btn" value="Signup" onclick="signupvalidation(document.signupForm,'/privacy-policy','nodropdown')">
+			          
 		  <div id="signupmsg" style="color:#FF0000;float:left; text-align:center; width:81%;"></div>
-          <div class="clear">.</div>
-        </form>
-        <span class="or">OR</span>
-        <div class="login_social"> 
-		<span class="login_with">Login With </span>
-		<a href="https://www.facebook.com/dialog/oauth?client_id=312480175443567&amp;redirect_uri=http%3A%2F%2Fwww.yohyoh.com&amp;state=993e13cdf9071c87875298788da0cbd3&amp;scope=email%2Cpublish_stream%2Cpublish_actions"><img src="/includes/yohyoh/styles/images/login_fb.png" alt="YohYoh-Showcase your talent, products, services, events &amp; share it to millions of people." width="32" height="32"></a>  
-		
-		  OR <a href=".//index.php?auth=google"><img src="/includes/yohyoh/styles/images/login_gmail.png" alt="YohYoh-Showcase your talent, products, services, events &amp; share it to millions of people." width="28" height="28"></a> OR <a href=".//index.php?auth=yahoo"><img src="/includes/yohyoh/styles/images/yahoo_icon.jpg" alt="YohYoh-Showcase your talent, products, services, events &amp; share it to millions of people." width="28" height="28"></a>
+         
+        
+        <span class="or">or signup with</span>   
 
+		   <a href="https://www.facebook.com/dialog/oauth?client_id=312480175443567&amp;redirect_uri=http%3A%2F%2Fwww.yohyoh.com&amp;state=6d1a99683e95cd08c68ee4b66ddc1fb8&amp;scope=email%2Cpublish_stream%2Cpublish_actions" class="fblogin"><img src="/includes/yohyoh/styles/images/fb.png" alt="YohYoh-Showcase your talent, products, services, events &amp; share it to millions of people." width="32" height="32"></a>  
+				 
+		 
+		   <a href="http://www.yohyoh.com/index.php?auth=google" class="gmaillogin"><img src="/includes/yohyoh/styles/images/gmail.png" alt="YohYoh-Showcase your talent, products, services, events &amp; share it to millions of people." width="32" height="32"></a> 
+			
+			<a href="http://www.yohyoh.com/index.php?auth=yahoo" class="yahoologin"><img src="/includes/yohyoh/styles/images/yahoo.png" alt="YohYoh-Showcase your talent, products, services, events &amp; share it to millions of people." width="32" height="32"></a> 
+		 
 		 		 
-		 </div>
-
-      </div>
+		</form>
+	 </div>
+   </div>
+  
       <div class="invite_box">
         <h2>Invite Your Friends</h2>
         <form name="inviteForm" id="inviteForm" method="POST">
+			
           <div class="fleft">
             <label><strong>Friends Email Address</strong></label>
             <input class="text required" type="text" name="receivers_emails" placeholder="Enter your user friends email address" onkeypress="if(event.keyCode==13) {invitefriendvalidation(document.inviteForm,'/privacy-policy');return false;}">
@@ -944,24 +1171,20 @@ $(document).on("click", function () {
       </div>
 <!-- *************** Forget password added by development start******************* -->
       <div class="forget_box">
-        <h2>Forgot Password</h2>
+        
         <form name="forgetForm" id="forgetForm" method="POST">
-          <div class="fleft">
-            <label><strong>Email Address</strong></label>
-            <input class="text" type="text" name="useremail" id="useremail" placeholder="Enter your email address" onkeypress="if(event.keyCode==13) {forgotpasswordvalidation(document.forgetForm,'/privacy-policy');}">
-          </div>
-          <div class="fleft login_btn">
-            <input type="button" class="or_btn left" value="Forgot Password" onclick="forgotpasswordvalidation(document.forgetForm,'/privacy-policy')">
-          </div>
-		  <div id="forgetmsg" class="dividforget"></div>
-          <div class="clear">.</div>
+		<div id="forgetmsg" class="dividforget"></div>
+		<input class="text required email" type="text" name="useremail" id="useremail" onfocus="clearText(this)" placeholder="Email" onkeypress="if(event.keyCode==13) {forgotpasswordvalidation(document.forgetForm,'/privacy-policy');}">
+
+		<input type="button" class="or_btn" value="Forgot Password" onclick="forgotpasswordvalidation(document.forgetForm,'/privacy-policy')">
+          
         </form>
 	
       </div>
 
 <!-- *************** Forget password added by development end******************* -->
 
-    </nav>
+    
 
 	<div id="weshowcaseform" style="display:none;">
 
@@ -980,114 +1203,94 @@ $(document).on("click", function () {
 					<div class="weshowcase_button"><input type="button" onclick="weshowcasevalidation(document.weshowcaseformname)" id="weshowcase_submit" value="Send"></div>
 				
 			</span></form></div>
-	</div>
+	   </div>
 	
-  </section>
-</header>
+  
+
+<!-- Start Mobile upload div -->
+
+<div class="mobuploadbox">
+                <!--<input type="text" placeholder="Howdy ?" />-->
+				<!-- -------------------------------------- -->
+		<div class="upload_write">
+			<form name="mwritetextform" id="writetext" class="writetext" method="post" enctype="multipart/form-data">
+				<a href="javascript:void(0)" class="writetext_beforelogin" data-popup-targetlogin="#loginouter-popup">Howdy ?</a>				
+					   </form>
+				
+			<!-- ------------------------------------------------------- -->	
+				
+			<div class="uploadiconsdisplay">
+                <a href="javascript:void(0);" data-popup-targetlogin="#loginouter-popup"><img title="Image upload" src="/includes/yohyoh/styles/images/uploadimage.png"></a>
+				<a href="javascript:void(0);" data-popup-targetlogin="#loginouter-popup"><img title="Video upload" src="/includes/yohyoh/styles/images/uploadvideo.png"></a>
+				<a href="javascript:void(0);" data-popup-targetlogin="#loginouter-popup"><img title="Audio upload" src="/includes/yohyoh/styles/images/uploadaudio.png"></a>				
+				<a href="javascript:void(0);" data-popup-targetlogin="#loginouter-popup"><img title="Text" src="/includes/yohyoh/styles/images/writearticle.png"></a>
+				<a href="javascript:void(0);" data-popup-targetlogin="#loginouter-popup"><img title="Pdf upload" src="/includes/yohyoh/styles/images/uploadpdf.png"></a>				
+				<a href="javascript:void(0);" data-popup-targetlogin="#loginouter-popup"><img title="Extractimage" src="/includes/yohyoh/styles/images/extractpost.png"></a>
+				<a href="javascript:void(0);" data-popup-targetlogin="#loginouter-popup"><img title="Image Extraction" src="/includes/yohyoh/styles/images/extractimage.png"></a>
+				<a href="javascript:void(0);" class="showfacebook" onclick="showfacebook('https://www.facebook.com/dialog/oauth?client_id=312480175443567&amp;redirect_uri=http://www.yohyoh.com/site/f.php&amp;scope=email,offline_access,publish_stream,publish_actions,user_birthday,user_location,user_work_history,user_about_me,user_hometown,user_photos')"><img title="Images from facebook" src="/includes/yohyoh/styles/images/extractfacebook.png"></a>			</div>
+			
+	</div>
+</div>
+
+<!-- End Mobile upload div -->	
+
 
 <!-- Upload popup  show-upload-->
 <script type="text/javascript">
 $(document).ready(function(){
   
-  $("#uploadicon").click(function(){ 
-	 $('#uploadicon').addClass('active');	 
-	 $('#extractimg').removeClass('active');
-	 $('#audioicon').removeClass('active');	 
-	 $('#texticon').removeClass('active');
-	 $('#pdficon').removeClass('active');
-	 $('#videoicon').removeClass('active');
-	 $('#showfacebook').removeClass('active');
-	 $('#extracturl').removeClass('active');
+  $(".uploadicon").click(function(){
+	 $('html, body').animate({scrollTop: $("body").offset().top}, 100);
     $.get("/img_upload/index.php",function(data,status){
 	  $("#uploadtoggle").show();
 	  $("#uploadform").html(data);
     });
   });
 
-  $("#extractimg").click(function(){
-	 $('#extractimg').addClass('active');	 
-	 $('#uploadicon').removeClass('active');
-	 $('#audioicon').removeClass('active');	 
-	 $('#texticon').removeClass('active');
-	 $('#pdficon').removeClass('active');
-	 $('#videoicon').removeClass('active');
-	 $('#showfacebook').removeClass('active');
-	 $('#extracturl').removeClass('active');
+  $(".extractimg").click(function(){
+     $('html, body').animate({scrollTop: $("body").offset().top}, 100);
 	$.get("/extract_image/index.php",function(data,status){	
 	  $("#uploadtoggle").show();
 	  $("#uploadform").html(data);	  
 	});
   });
 
-  $("#audioicon").click(function(){
-	 $('#audioicon').addClass('active');	 
-	 $('#uploadicon').removeClass('active');
-	 $('#extractimg').removeClass('active');	 
-	 $('#texticon').removeClass('active');
-	 $('#pdficon').removeClass('active');
-	 $('#videoicon').removeClass('active');
-	 $('#showfacebook').removeClass('active');
-	 $('#extracturl').removeClass('active');
+  $(".audioicon").click(function(){
+     $('html, body').animate({scrollTop: $("body").offset().top}, 100);
+	 $('.audioicon').addClass('active');
     $.get("/includes/ajax/pdfform.php?title=Upload Audio",function(data,status){
 	  $("#uploadtoggle").show();
 	  $("#uploadform").html(data);
     });
   });
       
-  $("#videoicon").click(function(){
-	 $('#videoicon').addClass('active');	 
-	 $('#uploadicon').removeClass('active');
-	 $('#extractimg').removeClass('active');	 
-	 $('#texticon').removeClass('active');
-	 $('#pdficon').removeClass('active');
-	 $('#audioicon').removeClass('active');
-	 $('#showfacebook').removeClass('active');
-	 $('#extracturl').removeClass('active');
+  $(".videoicon").click(function(){
+     $('html, body').animate({scrollTop: $("body").offset().top}, 100);
 	$.get("/includes/ajax/add_video.php",function(data,status){
 	  $("#uploadtoggle").show();
 	  $("#uploadform").html(data);
     });
   });
   
-  $("#texticon").click(function(){
-	 $('#texticon').addClass('active');	 
-	 $('#uploadicon').removeClass('active');
-	 $('#extractimg').removeClass('active');	 
-	 $('#videoicon').removeClass('active');
-	 $('#pdficon').removeClass('active');
-	 $('#audioicon').removeClass('active');
-	 $('#showfacebook').removeClass('active');
-	 $('#extracturl').removeClass('active');
+  $(".texticon").click(function(){
+	 $('html, body').animate({scrollTop: $("body").offset().top}, 100);
     $.get("/includes/ajax/textform.php",function(data,status){
 	  $("#uploadtoggle").show();
 	  $("#uploadform").html(data);
     });
   });
   
-  $("#pdficon").click(function(){
-	 $('#pdficon').addClass('active');	 
-	 $('#uploadicon').removeClass('active');
-	 $('#extractimg').removeClass('active');	 
-	 $('#videoicon').removeClass('active');
-	 $('#texticon').removeClass('active');
-	 $('#audioicon').removeClass('active');
-	 $('#showfacebook').removeClass('active');
-	 $('#extracturl').removeClass('active');
+  $(".pdficon").click(function(){
+	 $('html, body').animate({scrollTop: $("body").offset().top}, 100);
     $.get("/includes/ajax/pdfform.php?title=Upload PDF File",function(data,status){
 	  $("#uploadtoggle").show();
 	  $("#uploadform").html(data);
     });
   });
-
-  $("#extracturl").click(function(){
-	 $('#extracturl').addClass('active');	 
-	 $('#uploadicon').removeClass('active');
-	 $('#extractimg').removeClass('active');	 
-	 $('#videoicon').removeClass('active');
-	 $('#texticon').removeClass('active');
-	 $('#audioicon').removeClass('active');
-	 $('#showfacebook').removeClass('active');
-	 $('#pdficon').removeClass('active');
+	
+    
+  $(".extracturl").click(function(){
+	 $('html, body').animate({scrollTop: $("body").offset().top}, 100);
     $.get("/extracturl/index.php",function(data,status){
 	  $("#uploadtoggle").show();
 	  $("#uploadform").html(data);
@@ -1109,361 +1312,558 @@ $(document).ready(function(){
 
 </div>
 <div id="fade" class="black_overlay"></div>
+
 <script type="text/javascript">
+
 	   
         $(document).ready(function() {
-
-            var options = {
-            target: '#following_followers_list', //Div tag where content info will be loaded in
+ /*           var options = {
+            target: '.following_followers_list', //Div tag where content info will be loaded in
             url:'/includes/ajax/sendmessage_upload.php', //The php file that handles the file that is uploaded
-            beforeSubmit: function() {
-                $('#loading_flw').html('<img src="/includes/yohyoh/media/images/loading.gif" />'); //Including a preloader, it loads into the div tag with id uploader
+            beforeSubmit: function() { alert("Write Submit Form Action h");
+                $('.loading_flw').html('<img src="/includes/yohyoh/media/images/loading.gif" />'); //Including a preloader, it loads into the div tag with id uploader
             },
-            success:  function() {
+            success:  function() {  alert("succes h");
                 //Here code can be included that needs to be performed if Ajax request was successful
-                $('#loading_flw').html('');
-				$('#writetext').trigger("reset");
-				//$("#following_followers_list").fadeIn();
-				//$("#following_followers_list").fadeOut(10000);
-				//document.getElementById("sendmessageform").style.display="none";
+                $('.loading_flw').html('');
+				$('.writetext').trigger("reset");
             }
             };
             
-            $('#writetext').submit(function(){
-			/*if(document.getElementById("option").value=="friends"){
-				if(document.getElementById("tagname").value=='' || document.getElementById("tagslist").value==''){
-					alert("Please enter Tag Name or select Tags");
-					return false;
-				}
-			}*/
+            $('.writetext').submit(function(){ alert("hhh");alert("123456");
 	            $(this).ajaxSubmit(options);
                 return false;
-            });
+            });*/
 
         }); 
 </script>
 
 
+			
 
-
-
-
-
-
- 
-
-<!-- End Header top part -->
+			<!-- End Header top part -->
 
 <div id="myDiv"><div id="light" style="display:none;">&nbsp;</div></div>
 <div class="wraper"> 
 
 
-<div>
- 
-  <div class="clear"></div>
-</div>
-
-<div class="breadcrumb">
-  <ul class="breadcrumb_name">
-<li><strong><a href="http://www.yohyoh.com/">Home</a></strong></li><li><a href="/privacy-policy">Privacy Policy</a></li><li></li>
-		  <li></li>
-		  <li></li>
-		  <li></li>
-  </ul>
-    
-  <!-- Breadcrumb right part-->
-  <ul class="cat_search_time nav">
-	<div id="cmnt_followersnotification">
-	<div id="cmntnotification" style="display:block;"></div>
-</div>
-<div id="like_followersnotification">
-	<div id="likenotification" style="display:block;"></div>
-</div>
-<div id="media_followersnotification">
-	<div id="medianotification" style="display:block;"></div>
-</div>
-<script type="text/javascript">
-$(document).ready(function(){
-
- $('#geography').click(function(event){
-		 event.stopPropagation();
-         $("#geographysearch").toggle("fast");
-    });
-	$("#geographysearch").on("click", function (event) {
-        event.stopPropagation();
-    });
-});
-
-$(document).on("click", function () {
-    $("#geographysearch").hide();
-});
-
-</script>
-
-<div id="geographysearch" style="display:none;">
-<form name="gsearch" method="POST" action="">
-	<p><input type="text" name="search_name" id="search_name" placeholder="Keyword"></p>
-	<p><select name="gcategory" id="gcategory">
-	   <option value="">Category</option>
-<option value="2d images">2d images</option><option value="3d images">3d images</option><option value="abstraction">abstraction</option><option value="accessories">accessories</option><option value="actor">actor</option><option value="actress">actress</option><option value="ads and promotions">ads and promotions</option><option value="animal">animal</option><option value="artists">artists</option><option value="arts">arts</option><option value="astronomy">astronomy</option><option value="bengali news">bengali news</option><option value="birds">birds</option><option value="books story novels">books story novels</option><option value="buildings or architecture">buildings or architecture</option><option value="calligraphy">calligraphy</option><option value="cars and motor cycles">cars and motor cycles</option><option value="cartoons">cartoons</option><option value="celebrities">celebrities</option><option value="churches">churches</option><option value="cinematography">cinematography</option><option value="computer animation">computer animation</option><option value="crafts">crafts</option><option value="deal">deal</option><option value="design">design</option><option value="digital painting">digital painting</option><option value="education">education</option><option value="english news">english news</option><option value="events">events</option><option value="fashion and life style">fashion and life style</option><option value="favicon">favicon</option><option value="fitness and excercises">fitness and excercises</option><option value="flights">flights</option><option value="flower">flower</option><option value="food">food</option><option value="fruits and vegetables">fruits and vegetables</option><option value="fun">fun</option><option value="funny">funny</option><option value="gadgets">gadgets</option><option value="gardens">gardens</option><option value="general">general</option><option value="gossips">gossips</option><option value="graffiti">graffiti</option><option value="gujrathi news">gujrathi news</option><option value="hair and beauty">hair and beauty</option><option value="hindi news">hindi news</option><option value="history">history</option><option value="home">home</option><option value="home design">home design</option><option value="hotels">hotels</option><option value="hotpictures">hotpictures</option><option value="illustration">illustration</option><option value="interior design">interior design</option><option value="internet">internet</option><option value="islands">islands</option><option value="jewelry design">jewelry design</option><option value="jobs">jobs</option><option value="jokes">jokes</option><option value="journalism">journalism</option><option value="kannada news">kannada news</option><option value="Kids">Kids</option><option value="lakes">lakes</option><option value="landscapes">landscapes</option><option value="literature">literature</option><option value="malayalam news">malayalam news</option><option value="marathi news">marathi news</option><option value="men">men</option><option value="mobiles">mobiles</option><option value="modern houses">modern houses</option><option value="modern kitchens">modern kitchens</option><option value="mountains">mountains</option><option value="movie photos">movie photos</option><option value="movies">movies</option><option value="nature">nature</option><option value="novel">novel</option><option value="others">others</option><option value="performing arts">performing arts</option><option value="pets">pets</option><option value="photography">photography</option><option value="plastics">plastics</option><option value="poultry equipment">poultry equipment</option><option value="print design">print design</option><option value="product design">product design</option><option value="products i like">products i like</option><option value="profile">profile</option><option value="programming">programming</option><option value="quote">quote</option><option value="resorts">resorts</option><option value="retouching">retouching</option><option value="science">science</option><option value="science and nature">science and nature</option><option value="space">space</option><option value="spiritual">spiritual</option><option value="sports">sports</option><option value="Storyboarding">Storyboarding</option><option value="swimming pools">swimming pools</option><option value="tamil news">tamil news</option><option value="tattoo">tattoo</option><option value="technology">technology</option><option value="telugu news">telugu news</option><option value="temples">temples</option><option value="textile design">textile design</option><option value="tourism and places">tourism and places</option><option value="toy design">toy design</option><option value="typography">typography</option><option value="videos">videos</option><option value="wallpapers">wallpapers</option><option value="watches">watches</option><option value="waterfalls">waterfalls</option><option value="web design">web design</option><option value="wedding">wedding</option><option value="women">women</option><option value="world wonders">world wonders</option><option value="yohyohvideos">yohyohvideos</option></select>
-    </p>
-	<p>
-	<select name="country" id="country">
-	<option value="">Country</option>
-	<option value="afghanistan">Afghanistan</option><option value="aland-islands">Aland Islands</option><option value="albania">Albania</option><option value="algeria">Algeria</option><option value="american-samoa">American Samoa</option><option value="andorra">Andorra</option><option value="angola">Angola</option><option value="anguilla">Anguilla</option><option value="antarctica">Antarctica</option><option value="antigua-and-barbuda">Antigua and Barbuda</option><option value="argentina">Argentina</option><option value="armenia">Armenia</option><option value="aruba">Aruba</option><option value="australia">Australia</option><option value="austria">Austria</option><option value="azerbaijan">Azerbaijan</option><option value="bahamas">Bahamas</option><option value="bahrain">Bahrain</option><option value="bangladesh">Bangladesh</option><option value="barbados">Barbados</option><option value="belarus">Belarus</option><option value="belgium">Belgium</option><option value="belize">Belize</option><option value="benin">Benin</option><option value="bermuda">Bermuda</option><option value="bhutan">Bhutan</option><option value="bolivia">Bolivia</option><option value="bosnia-and-herzegovina">Bosnia and Herzegovina</option><option value="botswana">Botswana</option><option value="bouvet-island">Bouvet Island</option><option value="brazil">Brazil</option><option value="british-indian-ocean">British Indian Ocean...</option><option value="british-virgin-islands">British Virgin Islands</option><option value="brunei">Brunei</option><option value="bulgaria">Bulgaria</option><option value="burkina-faso">Burkina Faso</option><option value="burundi">Burundi</option><option value="cambodia">Cambodia</option><option value="cameroon">Cameroon</option><option value="canada">Canada</option><option value="cape-verde">Cape Verde</option><option value="cayman-islands">Cayman Islands</option><option value="central-african-republic">Central African Republic</option><option value="chad">Chad</option><option value="chile">Chile</option><option value="china">China</option><option value="christmas-island">Christmas Island</option><option value="cocos-keeling-islands">Cocos (Keeling) Islands</option><option value="colombia">Colombia</option><option value="comoros">Comoros</option><option value="congo">Congo</option><option value="cook-islands">Cook Islands</option><option value="costa-rica">Costa Rica</option><option value="croatia">Croatia</option><option value="cyprus">Cyprus</option><option value="czech-republic">Czech Republic</option><option value="democratic-republic">Democratic Republic </option><option value="denmark">Denmark</option><option value="disputed-territory">Disputed Territory</option><option value="djibouti">Djibouti</option><option value="dominica">Dominica</option><option value="dominican-republic">Dominican Republic</option><option value="east-timor">East Timor</option><option value="ecuador">Ecuador</option><option value="egypt">Egypt</option><option value="el-salvador">El Salvador</option><option value="equatorial-guinea">Equatorial Guinea</option><option value="eritrea">Eritrea</option><option value="estonia">Estonia</option><option value="ethiopia">Ethiopia</option><option value="falkland-islands">Falkland Islands</option><option value="faroe-islands">Faroe Islands</option><option value="fiji">Fiji</option><option value="finland">Finland</option><option value="france">France</option><option value="french-guyana">French Guyana</option><option value="french-polynesia">French Polynesia</option><option value="gabon">Gabon</option><option value="gambia">Gambia</option><option value="georgia">Georgia</option><option value="germany">Germany</option><option value="ghana">Ghana</option><option value="gibraltar">Gibraltar</option><option value="greece">Greece</option><option value="greenland">Greenland</option><option value="grenada">Grenada</option><option value="guadeloupe">Guadeloupe</option><option value="guam">Guam</option><option value="guatemala">Guatemala</option><option value="guinea">Guinea</option><option value="guinea-bissau">Guinea-Bissau</option><option value="guyana">Guyana</option><option value="haiti">Haiti</option><option value="heard-island-and-mcdonald">Heard Island and Mcdonald...</option><option value="honduras">Honduras</option><option value="hong-kong">Hong Kong</option><option value="hungary">Hungary</option><option value="iceland">Iceland</option><option value="india">India</option><option value="indonesia">Indonesia</option><option value="iraq">Iraq</option><option value="iraq-saudi-arabia-neutral">Iraq-Saudi Arabia Neutral...</option><option value="ireland">Ireland</option><option value="israel">Israel</option><option value="italy">Italy</option><option value="ivory-coast">Ivory Coast</option><option value="japan">Japan</option><option value="jordan">Jordan</option><option value="kazakhstan">Kazakhstan</option><option value="kenya">Kenya</option><option value="kiribati">Kiribati</option><option value="kuwait">Kuwait</option><option value="kyrgyzstan">Kyrgyzstan</option><option value="laos">Laos</option><option value="latvia">Latvia</option><option value="lebanon">Lebanon</option><option value="lesotho">Lesotho</option><option value="liberia">Liberia</option><option value="libya">Libya</option><option value="liechtenstein">Liechtenstein</option><option value="lithuania">Lithuania</option><option value="luxembourg">Luxembourg</option><option value="macau">Macau</option><option value="macedonia">Macedonia</option><option value="madagascar">Madagascar</option><option value="malawi">Malawi</option><option value="malaysia">Malaysia</option><option value="maldives">Maldives</option><option value="mali">Mali</option><option value="malta">Malta</option><option value="marshall-islands">Marshall Islands</option><option value="martinique">Martinique</option><option value="mauritania">Mauritania</option><option value="mauritius">Mauritius</option><option value="mayotte">Mayotte</option><option value="mexico">Mexico</option><option value="moldova">Moldova</option><option value="monaco">Monaco</option><option value="mongolia">Mongolia</option><option value="montserrat">Montserrat</option><option value="morocco">Morocco</option><option value="mozambique">Mozambique</option><option value="myanmar">Myanmar</option><option value="namibia">Namibia</option><option value="nauru">Nauru</option><option value="nepal">Nepal</option><option value="netherlands">Netherlands</option><option value="netherlands-antilles">Netherlands Antilles</option><option value="new-caledonia">New Caledonia</option><option value="new-zealand">New Zealand</option><option value="nicaragua">Nicaragua</option><option value="niger">Niger</option><option value="nigeria">Nigeria</option><option value="niue">Niue</option><option value="norfolk-island">Norfolk Island</option><option value="north-korea">North Korea</option><option value="northern-mariana-islands">Northern Mariana Islands</option><option value="norway">Norway</option><option value="oman">Oman</option><option value="pakistan">Pakistan</option><option value="palau">Palau</option><option value="palestinian-occupied">Palestinian Occupied ...</option><option value="panama">Panama</option><option value="papua-new-guinea">Papua New Guinea</option><option value="paraguay">Paraguay</option><option value="peru">Peru</option><option value="philippines">Philippines</option><option value="pitcairn-islands">Pitcairn Islands</option><option value="poland">Poland</option><option value="portugal">Portugal</option><option value="puerto-rico">Puerto Rico</option><option value="qatar">Qatar</option><option value="reunion">Reunion</option><option value="romania">Romania</option><option value="russia">Russia</option><option value="rwanda">Rwanda</option><option value="saint-helena">Saint Helena </option><option value="saint-kitts-and-nevis">Saint Kitts and Nevis</option><option value="saint-lucia">Saint Lucia</option><option value="saint-pierre-and-miquelon">Saint Pierre and Miquelon</option><option value="saint-vincent">Saint Vincent </option><option value="samoa">Samoa</option><option value="san-marino">San Marino</option><option value="sao-tome-and-principe">Sao Tome and Principe</option><option value="saudi-arabia">Saudi Arabia</option><option value="senegal">Senegal</option><option value="serbia-and-montenegro">Serbia and Montenegro</option><option value="seychelles">Seychelles</option><option value="sierra-leone">Sierra Leone</option><option value="singapore">Singapore</option><option value="slovakia">Slovakia</option><option value="slovenia">Slovenia</option><option value="solomon-islands">Solomon Islands</option><option value="somalia">Somalia</option><option value="south-africa">South Africa</option><option value="south-georgia">South Georgia </option><option value="south-korea">South Korea</option><option value="spain">Spain</option><option value="spratly-islands">Spratly Islands</option><option value="sri-lanka">Sri Lanka</option><option value="suriname">Suriname</option><option value="svalbard-and-jan-mayen">Svalbard and Jan Mayen</option><option value="swaziland">Swaziland</option><option value="sweden">Sweden</option><option value="switzerland">Switzerland</option><option value="syria">Syria</option><option value="taiwan">Taiwan</option><option value="tajikistan">Tajikistan</option><option value="tanzania">Tanzania</option><option value="thailand">Thailand</option><option value="togo">Togo</option><option value="tokelau">Tokelau</option><option value="tonga">Tonga</option><option value="trinidad-and-tobago">Trinidad and Tobago</option><option value="tunisia">Tunisia</option><option value="turkey">Turkey</option><option value="turkmenistan">Turkmenistan</option><option value="turks-and-caicos-islands">Turks And Caicos Islands</option><option value="tuvalu">Tuvalu</option><option value="uganda">Uganda</option><option value="ukraine">Ukraine</option><option value="united-arab-emirates">United Arab Emirates</option><option value="united-kingdom">United Kingdom</option><option value="united-nations-neutral-zone">United Nations Neutral Zone</option><option value="united-states">United States</option><option value="united-states-minor-outly">United States Minor Outly...</option><option value="uruguay">Uruguay</option><option value="us-virgin-islands">US Virgin Islands</option><option value="uzbekistan">Uzbekistan</option><option value="vanuatu">Vanuatu</option><option value="vatican-city">Vatican City</option><option value="venezuela">Venezuela</option><option value="vietnam">Vietnam</option><option value="wallis-and-futuna">Wallis and Futuna</option><option value="western-sahara">Western Sahara</option><option value="yemen">Yemen</option><option value="zambia">Zambia</option><option value="zimbabwe">Zimbabwe</option>	</select>
-	</p>
-	<p><input type="text" name="city" id="city" placeholder="City"></p>
-	<p class="searchbut"><input type="submit" name="geography_search" value="search"></p>
-</form>
-</div>
-
-
-
-
-	  <li><a href="/actor">Actor</a></li>		
-	  <li><a href="/funny">Funny</a></li>		
-	  <li class="lacat"><a class="more" href="javascript:void(0);">More<span></span></a></li>
-
-	<!-------------------------------------------------
-	         Start of Categories
-	-------------------------------------------------->				
-	<div class="lcats">
-    <div id="lslides" class="lnew_slides">
-      <div class="slides_container" style="overflow: hidden; position: relative; display: block;">
-        <div class="slides_control" style="position: relative; width: 3009px; height: 0px; left: -1003px;"><div class="slide" style="position: absolute; top: 0px; left: 1003px; z-index: 0;">
-          <ul class="item">
-				     <li><a alt="Telugu News" title="Telugu News" href="/telugu-news">Telugu News</a></li>
-                    <li><a alt="English News" title="English News" href="/english-news">English News</a></li>
-                    <li><a alt="Hindi News" title="Hindi News" href="/hindi-news">Hindi News</a></li>
-                    <li><a alt="Malayalam News" title="Malayalam News" href="/malayalam-news">Malayalam News</a></li>
-                    <li><a alt="Tamil News" title="Tamil News" href="/tamil-news">Tamil News</a></li>
-                    <li><a alt="Marathi News" title="Marathi News" href="/marathi-news">Marathi News</a></li>
-                    <li><a alt="Kannada News" title="Kannada News" href="/kannada-news">Kannada News</a></li>
-				    <li><a alt="Bengali News" title="Bengali News" href="/bengali-news">Bengali News</a></li>
-					<li><a alt="2d Images" title="2d Images" href="/2d-images">2d Images</a></li>
-					<li><a alt="3d Images" title="3d Images" href="/3d-images">3d Images</a></li>
-					<li><a alt="Abstraction" title="Abstraction" href="/abstraction">Abstraction</a></li>
-          </ul>
-          <ul class="item">
-					<li><a alt="Accessories" title="Accessories" href="/accessories">Accessories</a></li>
-					<li><a alt="Actor" title="Actor" href="/actor">Actor</a></li>
-					<li><a alt="Actress" title="Actress" href="/actress">Actress</a></li>
-					<li><a alt="Animal" title="Animal" href="/animal">Animal</a></li>
-					<li><a alt="Artists" title="Artists" href="/artists">Artists</a></li>
-					<li><a alt="Arts" title="Arts" href="/arts">Arts</a></li>
-					<li><a alt="Birds" title="Birds" href="/birds">Birds</a></li>
-					<li><a alt="Books Story Novels" title="Books Story Novels" href="/books-story-novels">Books Story Novels</a></li>
-					<li><a alt="Buildings Or Architecture" title="Buildings Or Architecture" href="/buildings-or-architecture">Buildings Or Architecture</a></li>
-					<li><a alt="Calligraphy" title="Calligraphy" href="/calligraphy">Calligraphy</a></li>
-					<li><a alt="Cars And Motor Cycles" title="Cars And Motor Cycles" href="/cars-and-motor-cycles">Cars And Motor Cycles</a></li>
-          </ul>
-        </div><div class="slide" style="position: absolute; top: 0px; left: 1003px; z-index: 0; display: none;">
-          <ul class="item">
-					<li><a alt="Cartoons" title="Cartoons" href="/cartoons">Cartoons</a></li>
-		            <li><a alt="Contest" title="Contest" href="/contest">Contest</a></li>
-					<li><a alt="Celebrities" title="Celebrities" href="/celebrities">Celebrities</a></li>
-					<li><a alt="Churches" title="Churches" href="/churches">Churches</a></li>
-					<li><a alt="Cinematography" title="Cinematography" href="/cinematography">Cinematography</a></li>
-					<li><a alt="Computer Animation" title="Computer Animation" href="/computer-animation">Computer Animation</a></li>
-					<li><a alt="Crafts" title="Crafts" href="/crafts">Crafts</a></li>
-					<li><a alt="Deal" title="Deal" href="/deal">Deal</a></li>
-					<li><a alt="Design" title="Design" href="/design">Design</a></li>
-					<li><a alt="Digital Painting" title="Digital Painting" href="/digital-painting">Digital Painting</a></li>
-					<li><a alt="Education" title="Education" href="/education">Education</a></li>
-					
-					
-          </ul>
-          <ul class="item">
-					<li><a alt="Events" title="Events" href="/events">Events</a></li>
-		            <li><a alt="Fashion And Life Style" title="Fashion And Life Style" href="/fashion-and-life-style">Fashion And Life Style</a></li>
-					<li><a alt="Fitness And Excercises" title="Fitness And Excercises" href="/fitness-and-excercises">Fitness And Excercises</a></li>
-					<li><a alt="Flights" title="Flights" href="/flights">Flights</a></li>
-					<li><a alt="Flower" title="Flower" href="/flower">Flower</a></li>
-					<li><a alt="Food" title="Food" href="/food">Food</a></li>
-					<li><a alt="Fruits And Vegetables" title="Fruits And Vegetables" href="/fruits-and-vegetables">Fruits And Vegetables</a></li>
-					<li><a alt="Fun" title="Fun" href="/fun">Fun</a></li>
-					<li><a alt="Funny" title="Funny" href="/funny">Funny</a></li>
-					<li><a alt="Gardens" title="Gardens" href="/gardens">Gardens</a></li>
-					<li><a alt="Gossips" title="Gossips" href="/gossips">Gossips</a></li>
-					
-					
-          </ul>
-        </div><div class="slide" style="position: absolute; top: 0px; left: 1003px; z-index: 0; display: none;">
-          <ul class="item">
-					<li><a alt="Graffiti" title="Graffiti" href="/graffiti">Graffiti</a></li>
-		            <li><a alt="Hair And Beauty" title="Hair And Beauty" href="/hair-and-beauty">Hair And Beauty</a></li>
-					<li><a alt="History" title="History" href="/history">History</a></li>
-					<li><a alt="Home" title="Home" href="/home">Home</a></li>
-					<li><a alt="Home Design" title="Home Design" href="/home-design">Home Design</a></li>
-					<li><a alt="Hotels" title="Hotels" href="/hotels">Hotels</a></li>
-					<li><a alt="Hotpictures" title="Hotpictures" href="/hotpictures">Hotpictures</a></li>
-					<li><a alt="Illustration" title="Illustration" href="/illustration">Illustration</a></li>
-					<li><a alt="Interior Design" title="Interior Design" href="/interior-design">Interior Design</a></li>
-					<li><a alt="Internet" title="Internet" href="/internet">Internet</a></li>
-					<li><a alt="Islands" title="Islands" href="/islands">Islands</a></li>
-					
-					
-          </ul>
-          <ul class="item">
-					<li><a alt="Jewelry Design" title="Jewelry Design" href="/jewelry-design">Jewelry Design</a></li>
-		            <li><a alt="Jobs" title="Jobs" href="/jobs">Jobs</a></li>
-					<li><a alt="Jokes" title="Jokes" href="/jokes">Jokes</a></li>
-					<li><a alt="Journalism" title="Journalism" href="/journalism">Journalism</a></li>
-					<li><a alt="Kids" title="Kids" href="/kids">Kids</a></li>
-					<li><a alt="Lakes" title="Lakes" href="/lakes">Lakes</a></li>
-					<li><a alt="Landscapes" title="Landscapes" href="/landscapes">Landscapes</a></li>
-					<li><a alt="Literature" title="Literature" href="/literature">Literature</a></li>
-					<li><a alt="Men" title="Men" href="/men">Men</a></li>
-					<li><a alt="Mobile" title="Mobile" href="/mobiles">Mobiles</a></li>
-					<li><a alt="Modern Houses" title="Modern Houses" href="/modern-houses">Modern Houses</a></li>
-					
-					
-          </ul>
-        </div><div class="slide" style="position: absolute; top: 0px; left: 1003px; z-index: 0; display: none;">
-          <ul class="item">
-					<li><a alt="Modern Kitchens" title="Modern Kitchens" href="/modern-kitchens">Modern Kitchens</a></li>
-					<li><a alt="Movie Photos" title="Movies" href="/movies">Movies</a></li>
-					<li><a alt="Movie Photos" title="Movie Photos" href="/movie-photos">Movie Photos</a></li>
-					<li><a alt="Nature" title="Nature" href="/nature">Nature</a></li>
-					<li><a alt="Novels" title="Novels" href="/novel">Novels</a></li>
-					<li><a alt="Others" title="Others" href="/others">Others</a></li>
-					<li><a alt="Performing Arts" title="Performing Arts" href="/performing-arts">Performing Arts</a></li>
-					<li><a alt="Pets" title="Pets" href="/pets">Pets</a></li>
-					<li><a alt="Photography" title="Photography" href="/photography">Photography</a></li>
-					<li><a alt="Plastics" title="Plastics" href="/plastics">Plastics</a></li>
-					<li><a alt="Print Design" title="Print Design" href="/print-design">Print Design</a></li>
-					
-					
-          </ul>
-          <ul class="item">
-					<li><a alt="Product Pesign" title="Product Design" href="/product-design">Product Design</a></li>
-					<li><a alt="Products I Like" title="Products I Like" href="/products-i-like">Products I Like</a></li>
-					<li><a alt="Profile" title="Profile" href="/profile">Profile</a></li>
-					<li><a alt="Programming" title="Programming" href="/programming">Programming</a></li>
-					<li><a alt="poultry equipment" title="poultry equipment" href="/poultry-equipment">poultry equipment</a></li>
-					<li><a alt="Quote" title="Quote" href="/quote">Quote</a></li>
-					<li><a alt="Retouching" title="Retouching" href="/retouching">Retouching</a></li>
-					<li><a alt="Science" title="Science" href="/science">Science</a></li>
-					<li><a alt="Science And Nature" title="Science And Nature" href="/science-and-nature">Science And Nature</a></li>
-					<li><a alt="Space" title="Space" href="/space">Space</a></li>
-					<li><a alt="Space" title="Spiritual" href="/Spiritual">Spiritual</a></li>
-					
-					
-					
-					
-					
-          </ul>
-        </div><div class="slide" style="position: absolute; top: 0px; left: 1003px; z-index: 0; display: none;">
-          <ul class="item">
-					<li><a alt="Sports" title="Sports" href="/sports">Sports</a></li>
-					<li><a alt="Storyboarding" title="Storyboarding" href="/storyboarding">Storyboarding</a></li>
-					<li><a alt="Swimming Pools" title="Swimming Pools" href="/swimming-pools">Swimming Pools</a></li>
-		            <li><a alt="Technology" title="Technology" href="/technology">Technology</a></li>
-					<li><a alt="Temples" title="Temples" href="/temples">Temples</a></li>
-					<li><a alt="Textile Design" title="Textile Design" href="/textile-design">Textile Design</a></li>
-					<li><a alt="Tourism And Places" title="Tourism And Places" href="/tourism-and-places">Tourism And Places</a></li>
-					<li><a alt="Toy Design" title="Toy Design" href="/toy-design">Toy Design</a></li>
-					<li><a alt="Typography" title="Typography" href="/typography">Typography</a></li>
-					<li><a alt="Videos" title="Videos" href="/videos">Videos</a></li>
-					<li><a alt="Wallpapers" title="Wallpapers" href="/wallpapers">Wallpapers</a></li>
-					
-					
+<div id="trendingbar">
+<!-- Start Trending Menu -->
+ <div class="trending_menu">
+ <div class="trendingboxcate">
+				 <div class="nameCat"><a href="#" class="category_tlink" data-catid="1">News</a>
+				<div class="trending_showimg">
+				<a href="javascript:void(0)" class="trendingmenuone_close"><img src="includes/yohyoh/styles/images/close.png" alt="x" width="15" height="15" style="position:relative; top:5px; right:1px; float:right;"></a>
+				  <div class="tnavimg">
+					<div class="tnavimg_all">
+												<a href="/yohyohnews8" class="tlink_title" data-catid="yohyohnews8">National News</a>
+											<a href="/news-admin" class="tlink_title" data-catid="news-admin">Telugu News</a>
+											<a href="/kerala-news" class="tlink_title" data-catid="kerala-news">Kerala News</a>
+											<a href="/tamilnews" class="tlink_title" data-catid="tamilnews">Tamil News</a>
+											<a href="/kannadaupdates" class="tlink_title" data-catid="kannadaupdates">Kannada News</a>
+											<a href="/japannews" class="tlink_title" data-catid="japannews">Japan News</a>
 										
-          </ul>
-          <ul class="item">
-			  <li><a alt="Watches" title="Watches" href="/watches">Watches</a></li>
-			  <li><a alt="Waterfalls" title="Waterfalls" href="/waterfalls">Waterfalls</a></li>
-			  <li><a alt="Web Design" title="Web Design" href="/web-design">Web Design</a></li>
-              <li><a alt="Wedding" title="Wedding" href="/wedding">Wedding</a></li>
-          </ul>
-        </div></div>
-        
-        
-        
-        
-      </div><a href="#" class="prev">Prev</a><a href="#" class="next">Next</a>
-    <ul class="pagination"><li class="current"><a href="#0">1</a></li><li><a href="#1">2</a></li><li><a href="#2">3</a></li><li><a href="#3">4</a></li><li><a href="#4">5</a></li></ul></div>
-  </div>
-  <div class="rcats">
-    <div id="rslides" class="lnew_slides">
-      <div class="slides_container" style="overflow: hidden; position: relative; display: block;">
-        <div class="slides_control" style="position: relative; width: 9027px; height: 0px; left: -3009px;"><div class="slide" style="position: absolute; top: 0px; left: 3009px; z-index: 0;">
-          <ul class="item">
-            <li><a href="http://www.yohyoh.com/health/online-doctor/live/">Online Doctor</a></li>
-            <li><a href="http://eshop.yohyoh.com">Eshop</a></li>
-            <li><a href="http://www.yohyoh.com/careers/home">Careers</a></li>
-            <li><a href="http://www.yohyoh.com/yohyoh-quiz">Win Prize Quiz</a></li>
-            <li><a href="http://www.yohyoh.com/quick-contacts">Quick Contacts</a></li>
-            <li><a href="http://www.yohyoh.com/classifieds">Classifieds</a></li>
-            <li><a href="http://www.yohyoh.com/novels/home">Novels</a></li>
-            <li><a href="http://www.yohyoh.com/live-tv-channels">Live Tv Channels</a></li>
-            <li><a href="http://www.yohyoh.com/events">Events</a></li>
-            <li><a href="http://www.yohyoh.com/quotes">Quotes</a></li>
-            <li><a href="http://www.yohyoh.com/games">Games</a></li>
-          </ul>
-          <ul class="item right_items">
-            <li><a href="http://www.yohyoh.com/cinema/home">Cinema</a></li>
-            <li><a href="http://www.yohyoh.com/entertainment/home/lyrics">Lyrics</a></li>
-            <li><a href="http://www.yohyoh.com/entertainment/home/jokes">Jokes</a></li>
-            <li><a href="http://www.yohyoh.com/entertainment/myringtones">Ringtones</a></li>
-            <!-- <li><a href="#">Computer Animation</a></li>
-                    <li><a href="#">Crafts</a></li>
-                    <li><a href="#">Deal</a></li>
-                    <li><a href="#">Design</a></li>
-                    <li><a href="#">Education</a></li>
-                    <li><a href="#">Events</a></li>
-                    <li><a href="#">Flights</a></li> -->
-          </ul>
-        </div><div class="slide" style="position: absolute; top: 0px; left: 3009px; z-index: 0; display: none;"> </div></div>
-        
-      </div><a href="#" class="prev">Prev</a><a href="#" class="next">Next</a>
-    <ul class="pagination"><li class="current"><a href="#0">1</a></li><li><a href="#1">2</a></li></ul></div>
-  </div>
+						</div>
+					<div class="trending_items"></div>
+					<br class="clearfixone">
+				  </div>
+				</div>
+			  </div>
+				 <div class="nameCat"><a href="#" class="category_tlink" data-catid="2">Interesting</a>
+				<div class="trending_showimg">
+				<a href="javascript:void(0)" class="trendingmenuone_close"><img src="includes/yohyoh/styles/images/close.png" alt="x" width="15" height="15" style="position:relative; top:5px; right:1px; float:right;"></a>
+				  <div class="tnavimg">
+					<div class="tnavimg_all">
+												<a href="/automobiles84" class="tlink_title" data-catid="automobiles84">Funny </a>
+											<a href="/youthrocks" class="tlink_title" data-catid="youthrocks">Funny Quotes</a>
+											<a href="/facts" class="tlink_title" data-catid="facts">Interesting Facts</a>
+											<a href="/recommended" class="tlink_title" data-catid="recommended">Interesting Images</a>
+											<a href="/most-beautifulthings" class="tlink_title" data-catid="most-beautifulthings">Nature</a>
+											<a href="/gowtami-123" class="tlink_title" data-catid="gowtami-123">Arts</a>
+										
+						</div>
+					<div class="trending_items"></div>
+					<br class="clearfixone">
+				  </div>
+				</div>
+			  </div>
+				 <div class="nameCat"><a href="#" class="category_tlink" data-catid="3">Fun</a>
+				<div class="trending_showimg">
+				<a href="javascript:void(0)" class="trendingmenuone_close"><img src="includes/yohyoh/styles/images/close.png" alt="x" width="15" height="15" style="position:relative; top:5px; right:1px; float:right;"></a>
+				  <div class="tnavimg">
+					<div class="tnavimg_all">
+												<a href="/sunkari" class="tlink_title" data-catid="sunkari">Funny Images</a>
+											<a href="/humorous" class="tlink_title" data-catid="humorous">Humour</a>
+											<a href="/sirisha123" class="tlink_title" data-catid="sirisha123">Jokes </a>
+											<a href="/" class="tlink_title" data-catid=""></a>
+										
+						</div>
+					<div class="trending_items"></div>
+					<br class="clearfixone">
+				  </div>
+				</div>
+			  </div>
+				 <div class="nameCat"><a href="#" class="category_tlink" data-catid="4">Celebrities</a>
+				<div class="trending_showimg">
+				<a href="javascript:void(0)" class="trendingmenuone_close"><img src="includes/yohyoh/styles/images/close.png" alt="x" width="15" height="15" style="position:relative; top:5px; right:1px; float:right;"></a>
+				  <div class="tnavimg">
+					<div class="tnavimg_all">
+												<a href="/amitabh-bachan" class="tlink_title" data-catid="amitabh-bachan">Amitabh Bachchan</a>
+											<a href="/pawankalyan" class="tlink_title" data-catid="pawankalyan">Pawan Kalyan</a>
+											<a href="/nithin" class="tlink_title" data-catid="nithin">Nithin</a>
+											<a href="/priyankachopra" class="tlink_title" data-catid="priyankachopra">Priyanka Chopra</a>
+											<a href="/poojahegde" class="tlink_title" data-catid="poojahegde">Pooja Hegde</a>
+											<a href="/i-love-my-self" class="tlink_title" data-catid="i-love-my-self">Models</a>
+										
+						</div>
+					<div class="trending_items"></div>
+					<br class="clearfixone">
+				  </div>
+				</div>
+			  </div>
+				 <div class="nameCat"><a href="#" class="category_tlink" data-catid="5">Gossips</a>
+				<div class="trending_showimg">
+				<a href="javascript:void(0)" class="trendingmenuone_close"><img src="includes/yohyoh/styles/images/close.png" alt="x" width="15" height="15" style="position:relative; top:5px; right:1px; float:right;"></a>
+				  <div class="tnavimg">
+					<div class="tnavimg_all">
+												<a href="/bollywoodgossip" class="tlink_title" data-catid="bollywoodgossip">Bollywood</a>
+											<a href="/telugufilmtalk" class="tlink_title" data-catid="telugufilmtalk">Tollywood</a>
+											<a href="/sanjusanjana486" class="tlink_title" data-catid="sanjusanjana486">Newspaper</a>
+										
+						</div>
+					<div class="trending_items"></div>
+					<br class="clearfixone">
+				  </div>
+				</div>
+			  </div>
+				 <div class="nameCat"><a href="#" class="category_tlink" data-catid="6">Sports</a>
+				<div class="trending_showimg">
+				<a href="javascript:void(0)" class="trendingmenuone_close"><img src="includes/yohyoh/styles/images/close.png" alt="x" width="15" height="15" style="position:relative; top:5px; right:1px; float:right;"></a>
+				  <div class="tnavimg">
+					<div class="tnavimg_all">
+												<a href="/sportsfan" class="tlink_title" data-catid="sportsfan">Sports Updates</a>
+											<a href="/worldcup2015" class="tlink_title" data-catid="worldcup2015">Worldcup 2015</a>
+										
+						</div>
+					<div class="trending_items"></div>
+					<br class="clearfixone">
+				  </div>
+				</div>
+			  </div>
+				 <div class="nameCat"><a href="#" class="category_tlink" data-catid="7">Quotes</a>
+				<div class="trending_showimg">
+				<a href="javascript:void(0)" class="trendingmenuone_close"><img src="includes/yohyoh/styles/images/close.png" alt="x" width="15" height="15" style="position:relative; top:5px; right:1px; float:right;"></a>
+				  <div class="tnavimg">
+					<div class="tnavimg_all">
+												<a href="/whatsappstatus" class="tlink_title" data-catid="whatsappstatus">Whatsapp Status</a>
+											<a href="/bestquotes" class="tlink_title" data-catid="bestquotes">Best Quotes</a>
+										
+						</div>
+					<div class="trending_items"></div>
+					<br class="clearfixone">
+				  </div>
+				</div>
+			  </div>
+	</div><div class="trending-box"><a href="/tags/Revanth" target="_blank">#Revanth </a><a href="/tags/KCR" target="_blank">#KCR </a><a href="/tags/Chandrababu" target="_blank">#Chandrababu </a><a href="/tags/Modi" target="_blank">#Modi </a></div>
 
-	<!-------------------------------------------------
-	         End of Categories list
-	-------------------------------------------------->	
-
-
-
-
-
-
-	  <!--<li><form method="POST" action="">
-		  <span class="search" style="display:inline-block;">
-		  <input type="text" placeholder="Type your keyword here" name="search_name" class="search_input"/>
-		  
-		  <input class="src_btn" value="Go" name="search_submit" type="submit" />
-		  </span>
-		  </form>
-	 </li>-->
-	 <li>
-	 	<span id="geography" class="searchicon"><img src="/includes/yohyoh/styles/images/searchicon.png"></span>
-	 </li>
-	 <li class="pop"><a class="most" href="#">Most<span></span></a>
-   <ul class="menupopup">
-					<li><a href="/most/viewed-images">Viewed Images</a></li>
-					<li><a href="/most/liked-images">Liked Images</a></li>
-					<li><a href="/most/uploader">Uploader</a></li>
-					<li><a href="/most/gifted-users">Gifted Users</a></li>
-					<li><a href="/most/latest-images">Latest Images</a></li>
-
-			<!--    <li><a href="/most/privacy-policy/latest-images">Latest Images</a></li> -->
-					
-					</ul>    </li>
-    <li class="pop"><a class="tf" href="#">Time Factor<span></span></a>
- <ul class="menupopup">
-        
-						<li><a href="/time-factor/today">Today</a></li>
-						<li><a href="/time-factor/this-week">This Week</a></li>
-						<li><a href="/time-factor/this-month">This Month</a></li>
-				<!--	<li><a href="/time-factor/privacy-policy/this-month">This Month</a></li> -->
-      </ul>
-    </li>
-  </ul>  <!-- Breadcrumb right part -->
+  </div><!-- End Trending Menu -->
+</div><!-- End Trending Bar -->
+   
   	
 </div>
+
+<script type="text/javascript" src="http://feather.aviary.com/js/feather.js"></script>
+<div id="loadpop_image" style="display:none;"><img src="/includes/yohyoh/styles/images/largeimage_loader.gif" width="100" height="100"></div>
+<div id="content" class="popup"> 
+	<div class="mainimage_view" id="mainimage_view"></div>
+</div>
+<div class="popup-overlay"></div>
+
+<script type="text/javascript" src="/includes/yohyoh/scripts/js/history-ajax.js"></script>
 <script type="text/javascript">
+$(document).on("click", ".like, .like_home", function(e){ //alert("like in document and homepage showcase");
+ 		imageid	=$(this).attr('data');
+		userid	=$('#'+imageid+'_user').val();
+		categoryid	=$('#'+imageid+'_category').val();
+		var like	=$(this);
+		$.ajax({
+			type : 'POST', // or GET
+			url : '/includes/ajax/likes.php', // this the page url where ur insert comment script lies
+			data : {imageid:imageid,userid:userid,categoryid:categoryid}, // GET or POST key/value parameters
+			success : function (data) {
+					$('#'+imageid+'_likespanel').html(data);
+					like.html('<img src="/includes/yohyoh/styles/images/likedimg.png" alt="yoh" title="liked" style="width:18px;height:18px;"/>');
+				} // on success callback
+			});
+ });
+
+$(document).on("click", "#comment_view", function(event) {
+   $('.popup').animate({
+        scrollTop: $("#comment").offset().top
+    }, 2000);
+ });
+
+/* ****** Post comment from details page ********** */
+$(document).on("click", ".pstbtn", function(e) {
+	$('.popup').animate({scrollTop: 0}, 2000);
+		imageid	=$('.image_comment_inner').val();
+		imagecomment	=$.trim($(".post_comment_inner").val());
+		userid	=$('.inner_comments_user').val();
+		categoryid	=$('.'+imageid+'_category').val();
+		var sessionemail_id="";
+		//jq172('.pstbtn').off('click');
+		if(imagecomment==''){
+			alert('Comment field can not be left blank!');
+            //$('.inner_cmtspost').append('Comment field can not be left blank!');
+			return false;
+		}
+		else if(imagecomment.length<2 || imagecomment.length>250){
+			alert('Comments Character length should be minimum 2 to maximum 250!');
+			//$('.inner_cmtspost').append('Comment length does not matched!');
+			return false;
+		}
+		else{
+		$('.loading_cmnt').html("<img src='http://www.yohyoh.com/includes/yohyoh/styles/images/loading_flow.gif' width='18px' height='18px' alt='yohyoh' />").fadeIn('fast');
+		$('.pstbtn').attr("disabled", "disabled")
+		$.ajax({
+			type : 'POST', // or GET
+
+			url : '/includes/ajax/ajax_slide_user_comments.php', // this the page url where ur insert comment script lies
+			data : {imageid:imageid,imagecomment:imagecomment,userid:userid,categoryid:categoryid}, // GET or POST key/value parameters
+			success : function (data) {//alert(data);
+					if(sessionemail_id==""){
+							var ic=$(".pstbtn").attr("img_commentid");
+							var cm=$(".post_comment_inner").attr("comment_message");
+							document.getElementById(ic).value=imageid;
+							document.getElementById(cm).value=imagecomment;
+							$('html').addClass('overlay');
+       						var activePopup = '#loginouter-popup';alert(activePopup);
+       						$(activePopup).addClass('visible');
+					}
+					else{
+								if(data==0){
+					}
+					else{
+						$('.post_comment_inner').val('');
+						var record = data.split('|*|');
+						$('.comment_panel').html(record[0]);
+						var comment_count	='';						
+						if(comment_count>4){
+						// ************ Paging ********** //
+						$(".comment_paging").on().paginate({
+							count 		: record[1],
+							start 		: 1,
+							display     : record[2],
+							border					: true,
+							border_color			: '',
+							text_color  			: '',
+							background_color    	: '',	
+							border_hover_color		: '',
+							text_hover_color  		: '',
+							background_hover_color	: '',
+							first					:false,
+							last					:false,
+							images					: false,
+							mouse					: 'press',
+							onChange     			: function(page){
+														$('._current','.commentpaginationdemo').removeClass('_current').slideUp();
+														$('.c'+page).addClass('_current').slideDown();
+													  }
+						});
+						}
+						$('.loading_cmnt').fadeOut('fast');
+						$('.pstbtn').removeAttr('disabled');
+						//$('.inner_cmtspost').append('Comment posted successfully');
+						
+						}
+					}
+				} // on success callback
+			});
+		}
+	});
+
+$(document).on("click", ".smileys", function(e) { //alert("document smileys");
+var imgthumb = $(this).attr('data');
+document.innercmntform.post_comment_inner.value += imgthumb;
+document.innercmntform.post_comment_inner.focus();
+});
+
+$(document).on("click", ".smileclick", function(e){ //alert("document smileclick");
+ $(".smileclick_close").fadeIn();
+ $(".smileclick").fadeOut();
+ $("#smileys_images").slideToggle(); 
+ });
+
+$(document).on("click", ".smileclick_close", function(e) { //alert("document smileclick_close");
+ $(".smileclick").fadeIn(1000);
+ $(".smileclick_close").fadeOut(1000);
+ $("#smileys_images").slideToggle();
+ });
+
+$(document).on("click", "a.viewMore", function(e) {
+  $('.nyroModalheader').nyroModal();
+});
+
+$(document).on("click", ".slide_prev", function(e) {
+		id = $(".slide_image").attr('data');	//alert("slide_prev="+id);
+		showcasename = $(".authors_infoslider").attr('data'); //alert("showcasename="+showcasename);
+		direction = $(".slide_prev").attr('data'); //alert("direction="+direction);
+		pagetype=$(".slide_prev").attr('pagetype'); //alert("pagetype="+pagetype);
+		pageurl = $(".slide_prev").attr('data_url'); //alert("pageurl="+pageurl);
+		$('.loading_nextimage').html("<img src='http://www.yohyoh.com/includes/yohyoh/media/images/loading.gif'/>").fadeIn('fast');
+		$.ajax({
+			type : 'GET', // or GET
+			url : '/includes/ajax/largeimage_sliderimage.php', // this the page url where ur insert comment script lies
+			data : {id:id,showcasename:showcasename,direction:direction,pagetype:pagetype}, // GET or POST key/value parameters
+			context : document.body,
+			success : function (data) {		
+					window.history.pushState({path:pageurl},'',pageurl);
+					if(pagetype=="largeimagepage")
+						$('#mainimage_viewlarge').html(data);
+					else if(pagetype=="homepopup")
+						$('#mainimage_view').html(data);
+					
+					$('.loading_nextimage').fadeOut('fast');
+					return false;
+				} // on success callback
+			});
+			
+		});
+
+$(document).on("click", ".slide_next", function(e) {
+		id = $(".slide_image").attr('data'); //alert("slide_next="+id);
+		showcasename = $(".authors_infoslider").attr('data');
+		direction = $(".slide_next").attr('data');
+		pagetype=$(".slide_next").attr('pagetype');
+		pageurl = $(".slide_next").attr('data_url');
+		$('.loading_nextimage').html("<img src='http://www.yohyoh.com/includes/yohyoh/media/images/loading.gif'/>").fadeIn('fast');
+		$.ajax({
+			type : 'GET', // or GET
+			url : '/includes/ajax/largeimage_sliderimage.php', // this the page url where ur insert comment script lies
+			data : {id:id,showcasename:showcasename,direction:direction,pagetype:pagetype}, // GET or POST key/value parameters
+			context : document.body,
+			success : function (data) {	
+				window.history.pushState({path:pageurl},'',pageurl);
+				if(pagetype=="largeimagepage")
+					$('#mainimage_viewlarge').html(data);
+				else if(pagetype=="homepopup")
+					$('#mainimage_view').html(data);
+					
+					$('.loading_nextimage').fadeOut('fast');
+					return false;
+				} // on success callback
+			});
+		
+		});
+
+	$(document).on("click", ".postcommenthomeimgs",function(e){
+		e.preventDefault();
+		imageid	=$(this).attr('data');
+		imagecomment=$.trim($('#'+imageid+'_commentpost').val());
+		userid	=$('#'+imageid+'_user').val();
+		categoryid	=$('#'+imageid+'_category').val();
+		var sessionemail_id="";
+		if((imagecomment=='') || (imagecomment.length<2)){
+			alert('Comment field can not be left blank!');
+			return false;
+		}
+		else if(imagecomment.length>250){
+			alert('You cannot comment over 250 characters long');
+			return false;
+		}
+		else{
+			if(sessionemail_id==""){
+					document.getElementById("img_commentid").value=imageid;
+					document.getElementById("comment_message").value=imagecomment;
+					 $('html').addClass('overlay');
+       				 var activePopup = '#loginouter-popup';
+       				 $(activePopup).addClass('visible');
+			}
+			else
+			{
+			$('#'+imageid+'_loading_cmnt').html("<img src='/includes/yohyoh/styles/images/loading_flow.gif' width='18px' height='18px' alt='yohyoh' />").fadeIn('fast');
+			$.ajax({
+			type : 'POST', // or GET
+			url : '/includes/ajax/comments.php', // this the page url where ur insert comment script lies
+			data : {imageid:imageid,imagecomment:addslashes(imagecomment),userid:userid,categoryid:categoryid}, // GET or POST key/value parameters
+			success : function(data) {
+					if(data==0){
+						alert('Comment is not posted');
+						//$('.inner_cmtspost').append('Comment does not posted successfully');
+					}	
+					else{
+					$('#'+imageid+'_commentpost').val('');
+					var record = data.split('|*|');
+					$('#'+imageid+'_commentpanel').html(record[0]);	
+					$('#'+imageid+'_loading_cmnt').fadeOut('fast');
+					}
+				} // on success callback
+			});
+			}
+		}	
+ 
+	});
+	
+	
+	$(document).on("click", ".seemorebutton", function(event){
+        event.stopPropagation();
+        $(".fulltitle_see").toggle("fast");
+});
+
+	$(document).on("click", ".cmnt_notificationfollowers",function(event){ //alert("cmnt_notificationfollowers header");
+        event.stopPropagation();
+         $(".cmnt_followersnotification").toggle("fast");
+		 $(".like_followersnotification").hide();
+		 rid=$(this).attr('data');
+		 name ='mediaviews';
+		 $.ajax({
+				type: "GET",
+				url: "/includes/ajax/notificationalerts.php",
+				data: {rid:rid,name:name},
+				cache: false,
+				success: function(data)
+						{
+						  $('.cmntnotificationid').hide(); 
+						  $('.cmnt_followersnotification').html(data); 						  
+						}							   
+				});
+    });
+	
+	$(document).on("click", ".cmnt_followersnotification",function(event) {//alert("cmnt_followersnotification header1")
+        event.stopPropagation();
+	});
+	
+	$(document).on("click", ".likecmnt_notificationfollowers",function(event){  //alert("likecmnt_notificationfollowers h");
+        event.stopPropagation();
+         $(".like_followersnotification").toggle("fast");
+		 $(".cmnt_followersnotification").hide();
+		rid	=$(this).attr('data');
+		name ='likescomments';
+		 $.ajax({
+				type: "GET",
+				url: "/includes/ajax/notificationalerts.php",
+				data: {rid:rid,name:name},
+				cache: false,
+				success: function(data)
+						{
+						  $('.likenotificationid').hide(); 
+						  $('.like_followersnotification').html(data); 						  
+						}							   
+				});
+ 
+    });
+	$(document).on("click", ".like_followersnotification", function(event) { //alert("like_followersnotification h1");
+        event.stopPropagation();
+    });
+<!-- Load Feather code -->
+<!-- Instantiate Feather -->
+
+					var featherEditor = new Aviary.Feather({
+						apiKey: '4041bf446',
+						apiVersion: 3,
+						tools: 'all',
+						openType: 'lightbox',
+						appendTo: '',
+						onSave: function(imageID, newURL) {
+							var img = document.getElementById(imageID);
+							img.src = newURL;
+							var title= document.getElementById(imageID).title;
+							var category=document.getElementById(imageID).alt; 
+									$.ajax({
+										type : 'POST', // or GET
+										url : 'http://www.yohyoh.com/includes/ajax/playimageupload.php', // this the page url where ur insert comment script lies
+										data : {imageid:imageID,urlpath:newURL,title:title,category:category}, // GET or POST key/value parameters
+										success : function (data) {
+											//alert(data);
+										     if(data!="Your image size must be greater than or equal to 400px width")
+											 {
+											 window.location="http://www.yohyoh.com/";
+											 }
+
+											} // on success callback
+							});
+						}
+					});
+
+					function launchEditor(id, src) {						
+						featherEditor.launch({
+							image: id,
+							url: src
+						});
+						return false;
+					}
+		
+
+jQuery(document).ready(function ($) {	
+    $('[data-popup-target]').click(function () {
+		$('html').addClass('overlay');
+		$('.loadpop_image').css("display", "block");
+		$('.popup-content').empty();
+        var activePopup = $(this).attr('data-popup-target');
+        $(activePopup).addClass('visible');	
+
+		$(document).ajaxStop(function() {
+		if (window.addthis) {
+		window.addthis = null;
+		window._adr = null;
+		window._atc = null;
+		window._atd = null;
+		window._ate = null;
+		window._atr = null;
+		window._atw = null;
+		}
+		return $.getScript("http://s7.addthis.com/js/250/addthis_widget.js#pubid=5045e91200e60adf");
+		return $.getScript("http://www.yohyoh.com/includes/yohyoh/scripts/jquery.min.js");
+		}); 
+    });
+
+$(document).keyup(function (e) {	
+        if (e.keyCode == 27 && $('html').hasClass('overlay')) {
+            clearPopup();
+        }
+});
+$(document).on("click", ".popup-exit", function(e) {	
+	var changeurl = this.attributes['data'].value;	
+        clearPopup(changeurl);		
+		return false;
+});
+$(document).on("click", ".popup-overlay", function(e){
+	        clearPopup();
+});
+
+
+$(document).on("click", ".login, .loginuser", function(e){ //alert("34535 document");
+					 imageid = $(this).attr('data');
+					 document.getElementById("img_likeid").value=imageid;					 
+					 });
+
+
+$(document).on("click", ".close_loginbox", function(e){
+	$('.login_box').hide();
+  });
+ 
+
+
+$(document).on("click", ".popup-body", function(e){
+	$(".fulltitle_see").hide();
+  });
+
+
+});
+
+function clearPopup(changeurl) {
+        $('.popup.visible').addClass('transitioning').removeClass('visible');
+        $('html').removeClass('overlay');
+		$('body').removeClass("modelscroll");
+		$('.popup').css("display","none");
+		window.history.pushState("object or string", "Title", changeurl);		
+        setTimeout(function () {
+            $('.popup').removeClass('transitioning');
+        }, 200);
+
+		return false;
+    }
+</script><script type="text/javascript">
 var requrl="/privacy-policy";
 
 var premiumarr = new Array();
@@ -1783,75 +2183,7 @@ $(document).ready(function() {
 					itemSelector: '.box'
 					});
 	});	
-</script>
-<script type="text/javascript">
- $('.postcommenthomeimgs').unbind('click');
 
-$('.postcommenthomeimgs').click(function(event){		
-			event.preventDefault();									  
-			//alert("scroll functionality");
-		imageid=$(this).attr('data');
-		imagecomment=$.trim($('#'+imageid+'_commentpost').val());
-		userid	=$('#'+imageid+'_user').val();
-		categoryid	=$('#'+imageid+'_category').val();
-		//alert(imagecomment);
-		if((imagecomment=='') || (imagecomment.length<2)){
-			alert('Comment field can not be left blank!');
-			return false;
-		}
-		else if(imagecomment.length>250){
-			alert('You cannot comment over 250 characters long');
-			return false;
-		}
-					document.getElementById("img_commentid").value=imageid;
-					document.getElementById("comment_message").value=imagecomment;
-					$('.login_box').css({
-					 position: "absolute",
-					 top:36,
-					 display:"block"
-					 });
-	});
-</script>
-
-
-<script type="text/javascript">
-	$('.like_home').click(function(){	
-		imageid	=$(this).attr('data');
-		//userid	=$(this).attr('sender');
-		userid	=$('#'+imageid+'_user').val();
-		categoryid	=$('#'+imageid+'_category').val();
-		var like	=$(this);
-		$.ajax({
-			type : 'POST', // or GET
-			url : '/includes/ajax/likes.php', // this the page url where ur insert comment script lies
-			data : {imageid:imageid,userid:userid,categoryid:categoryid}, // GET or POST key/value parameters
-			success : function (data) {
-				//alert(imageid);
-					$('#'+imageid+'_likespanel').html(data);
-					like.html('<img src="/includes/yohyoh/styles/images/likedimg.png" width="16px" alt="yoh" style="height:18px; margin-top: -2px; width: 16px;" />');
-					//like.html(data+' Liked');
-				} // on success callback
-			});
-	});
-	
-	$('.like').click(function(){
-		imageid	=$(this).attr('data');
-		//userid	=$(this).attr('sender');
-		userid	=$('#'+imageid+'_user').val();
-		categoryid	=$('#'+imageid+'_category').val();
-		var like	=$(this);
-		$.ajax({
-			type : 'POST', // or GET
-			url : '/includes/ajax/likes.php', // this the page url where ur insert comment script lies
-			data : {imageid:imageid,userid:userid,categoryid:categoryid}, // GET or POST key/value parameters
-			success : function (data) {
-				//alert(imageid);
-					$('#'+imageid+'_likespanel').html(data);
-					like.html('<img src="/includes/yohyoh/styles/images/likedimg.png" alt="yoh" width="16px" style="float:left; margin-right:5px; margin-top:3px;" />');
-					//like.html(data+' Liked');
-				} // on success callback
-			});
-	});
 });
 </script>
 
@@ -1875,11 +2207,8 @@ Pagination for premium users related images script & style start
                         data: "page="+page,
                         success: function(msg)
                         {
-                          //  $("#paginationdemojj").ajaxComplete(function(event, request, settings)
-                         //   {
-                                loading_hide();
+                               loading_hide();
                                 $("#relatedpaginationdemojj").html(msg);
-                         //   });
                         }
                     });
                 }
@@ -1893,14 +2222,12 @@ Pagination for premium users related images script & style start
             });
 </script>
 <script type="text/javascript">
-$(document).ready(function() {
-$('.followhome').unbind('click');
- $('.followhome').click(function(){
-  var receiver_user_id =$(this).attr('receiver');
+$(document).on("click", ".follow, .followhome", function(e){ 
+  var receiver_user_id =$(this).attr('receiver'); //alert("receiver_user_id="+receiver_user_id);
   var action =$(this).attr('action');
   var follow =$(this);
-  $('#'+receiver_user_id+'_loadingflw').html("<img src='../includes/yohyoh/styles/images/loading_flow.gif' width='18px' height='18px'  alt='YohYoh' />").fadeIn('fast');
-  $('.followhome').off('click');
+  $('#'+receiver_user_id+'_loadingflw').html("<img src='http://www.yohyoh.com/includes/yohyoh/styles/images/loading_flow.gif' style='height: 18px; margin-left:-6%; margin-top:2.5%; position:absolute; width:18px;' alt='YohYoh' />").fadeIn('fast');
+  $('.follow, .followhome').off('click');
   $.ajax({
    type : 'POST', // or GET
    url : '/includes/ajax/profiles/follow.php', // this the page url where ur insert comment script lies
@@ -1920,7 +2247,7 @@ $('.followhome').unbind('click');
     } // on success callback
    });
  });
-});
+
 </script>
 <script>
 $(document).ready(function(){
@@ -2160,7 +2487,7 @@ $(document).ready(function(){
             <div class="clear"></div>
         </div>
     </footer>
-	</div>
+	
 
 
 
@@ -2198,4 +2525,4 @@ src="http://c.statcounter.com/7233632/0/ac1ac433/1/"
 alt="drupal analytics" /></a></div></noscript>
 <!-- End of StatCounter Code for Default Guide -->
 
-<div></div></body></html>
+</header><div id="ascrail2000" class="nicescroll-rails nicescroll-rails-vr" style="width: 7px; z-index: auto; cursor: default; position: absolute; top: 0px; left: 1359px; height: 255px; touch-action: none; display: none;"><div class="nicescroll-cursors" style="position: relative; top: 0px; float: right; width: 5px; height: 0px; background-color: rgb(66, 66, 66); border: 1px solid rgb(255, 255, 255); background-clip: padding-box; border-radius: 5px; touch-action: none;"></div></div><div id="ascrail2000-hr" class="nicescroll-rails nicescroll-rails-hr" style="height: 7px; z-index: auto; top: 248px; left: 0px; position: absolute; cursor: default; display: none;"><div class="nicescroll-cursors" style="position: absolute; top: 0px; height: 5px; width: 0px; background-color: rgb(66, 66, 66); border: 1px solid rgb(255, 255, 255); background-clip: padding-box; border-radius: 5px;"></div></div><div></div></body></html>
