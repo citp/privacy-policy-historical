@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the peelschools.org privacy policy that was archived on 2014-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141110185041id_/http%3A//www.peelschools.org/aboutus/foi/privacy/Pages/default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the peelschools.org privacy policy that was archived on 2015-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150614031616id_/http%3A//peelschools.org/aboutus/foi/privacy/Pages/default.aspx) for the most accurate reproduction.*
 
 # Privacy
 
