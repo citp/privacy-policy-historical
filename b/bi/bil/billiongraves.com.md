@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the billiongraves.com privacy policy that was archived on 2014-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141008214604id_/http%3A//billiongraves.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the billiongraves.com privacy policy that was archived on 2015-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150614152130id_/http%3A//billiongraves.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Privacy Policy | Billion Graves
 
@@ -19,7 +19,7 @@ We will use your information to respond to you, regarding the reason you contact
 Unless you ask us not to, we may contact you via email in the future to tell you about specials, new products or services, or changes to this privacy policy.
 
 **Your Access to and Control Over Information**    
-You may opt out of any future contacts from us at any time. You can do the following at any time by contacting us via [contact us](https://web.archive.org/web/20141008214604id_/http%3A//billiongraves.com/contactus.php) form on our website:
+You may opt out of any future contacts from us at any time. You can do the following at any time by contacting us via [contact us](https://web.archive.org/web/20150614152130id_/http%3A//billiongraves.com/contactus.php) form on our website:
 
   * See what data we have about you, if any.
   * Change/correct any data we have about you.
@@ -28,4 +28,4 @@ You may opt out of any future contacts from us at any time. You can do the follo
 
 
 
-**If you feel that we are not abiding by this privacy policy, you should contact us immediately via the[Contact Us Form](https://web.archive.org/web/20141008214604id_/http%3A//billiongraves.com/contactus.php)**
+**If you feel that we are not abiding by this privacy policy, you should contact us immediately via the[Contact Us Form](https://web.archive.org/web/20150614152130id_/http%3A//billiongraves.com/contactus.php)**
