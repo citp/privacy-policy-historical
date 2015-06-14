@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the womma.org privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121183056id_/http%3A//www.womma.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the womma.org privacy policy that was archived on 2015-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150614081027id_/http%3A//www.womma.org/privacy-policy) for the most accurate reproduction.*
 
 # WOMMA - Privacy Policy
 
-###  This is the web site of the Word of Mouth Marketing Association.
+### This is the website of the Word of Mouth Marketing Association.
 
 Our postal address is:  
-65 E. Wacker Place, Suite #500  
-Chicago, IL 60601 
+200 E. Randolph St., Suite #5100  
+Chicago, IL 60601
 
-You can reach us by telephone at  312-853-4400.
+You can reach us by telephone at 312-577-7610.
 
-For each visitor to our web page, our web server automatically recognizes only the consumer's domain name (where possible), but not the email address.
+For each visitor to our web page, our web server automatically recognizes only the consumer\'s domain name (where possible), but not the email address.
 
 We collect only the domain name, but not the email address of visitors to our web page, the email addresses of those who communicate with us via email, the email addresses of those who make postings to our chat areas, aggregate information on what pages consumers access or visit, and any information volunteered by the consumer, such as survey information, form completion, and/or site registrations.
 
@@ -32,17 +32,17 @@ Upon request we provide site visitors with access to contact information (e.g. n
 
 If you feel that this site is not following its stated information policy, you may contact us at the above address or phone number.
 
-###  Permission to Reprint WOMMA Material
+### Permission to Reprint WOMMA Material
 
-WOMMA receives many requests each week from members and nonmembers seeking permission to reprint material from WOMMA's website, white papers, and other published content for use in presentations, articles, and other formats.
+WOMMA receives many requests each week from members and nonmembers seeking permission to reprint material from WOMMA\'s website, white papers, and other published content for use in presentations, articles, and other formats.
 
 All WOMMA materials are copyrighted and permission to reprint them must be requested and granted in writing.
 
 Permission to reprint is typically granted for educational and informational purposes only. The reprinted material must be attributed to WOMMA. Permission will not be granted to reprint all or portions of any WOMMA materials for resale or profit. Permission to reprint entire published documents will not be granted.
 
-Anyone wishing to reprint WOMMA materials should email their request to WOMMA's editorial team at editor@womma.org, or call 312-853-4400.
+Anyone wishing to reprint WOMMA materials should email their request to WOMMA\'s editorial team at editor@womma.org, or call 312-577-7610.
 
-###  General Policies
+### General Policies
 
 WOMMA will not sell our membership information to anyone for any reason.
 
