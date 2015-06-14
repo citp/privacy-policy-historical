@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hobsons.co.uk privacy policy that was archived on 2013-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131223052535id_/http%3A//www.hobsons.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hobsons.co.uk privacy policy that was archived on 2015-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150614050121id_/http%3A//www.hobsons.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Hobsons
 
