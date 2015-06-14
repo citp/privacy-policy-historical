@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ticketmaster.ca privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209052706id_/http%3A//www.ticketmaster.ca/h/privacy.html%3Ftm_link%3Dtm_homeA_i_pp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ticketmaster.ca privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615015343id_/http%3A//www.ticketmaster.ca/h/privacy.html%3Ftm_link%3Dtm_homeA_i_pp) for the most accurate reproduction.*
 
-# Ticketmaster Canada Privacy Policy
+# Ticketmaster.ca - Help | Privacy Policy
 
 Effective October 23, 2013 (last updated October 23, 2013)
 
@@ -82,7 +82,7 @@ We keep your information only for as long as necessary. This includes as long as
 
 ## We are TRUSTe certified.
 
-TRUSTe has awarded Live Nation the TRUSTe's Privacy Seal. This means TRUSTe independently reviewed this Policy and the practices on Live Nation and Ticketmaster sites and apps to make sure they meet [TRUSTE's requirements](http://www.truste.com/privacy-program-requirements "opens in a new window"). The seal applies to our practices for information collected on U.S., Canada, UK, Ireland sites and apps.
+TRUSTe has awarded Live Nation the TRUSTe's Privacy Seal. This means TRUSTe independently reviewed this Policy and the practices on Live Nation and Ticketmaster sites and apps to make sure they meet [TRUSTE's requirements](http://www.truste.com/privacy-program-requirements "external site opens in a new window"). The seal applies to our practices for information collected on U.S., Canada, UK, Ireland sites and apps.
 
 We keep personal information as long as it is necessary or relevant for our business. We also keep information to resolve disputes, enforce our agreements and as otherwise required by law.
 
@@ -100,15 +100,18 @@ If you click on one of those links, you will be taken to websites we do not cont
 
 If you have any questions about this Policy or other privacy concerns, you can email us at [privacy@livenation.com](mailto:privacy@livenation.com). Please do not include your credit card number or other sensitive information in your email. You can also write us at:
 
-Live Nation Entertainment, Inc.  
-1 Blue Jays Way, Gate 3, Level 100  
-Toronto, ON M5V 1J3  
-Attention: Privacy Officer, Legal
+> Live Nation Entertainment, Inc.  
+>  1 Blue Jays Way, Gate 3, Level 100  
+>  Toronto, ON M5V 1J3  
+>  Attention: Privacy Officer, Legal 
 
-If you are not satisfied with our response, you can contact TRUSTe [here](https://feedback-form.truste.com/watchdog/request "opens in a new window").
+If you are not satisfied with our response, you can contact TRUSTe [here](https://feedback-form.truste.com/watchdog/request "external site opens in a new window").
 
 ## What we will do if there is an update to this policy.
 
 From time to time we may change our privacy practices. We will notify you of any material changes to this policy as required by law. We will also post an updated copy on our website. Please check our site periodically for updates.
 
 © 2013 Live Nation Entertainment, Inc. All rights reserved.
+  *[UK]: United Kingdom
+  *[U.S.-EU]: United States - European Union
+  *[ON]: Ontario
