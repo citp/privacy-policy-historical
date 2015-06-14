@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jzool.com privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123183552id_/http%3A//jzool.com/en/page/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jzool.com privacy policy that was archived on 2015-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150614042553id_/http%3A//jzool.com/en/page/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
