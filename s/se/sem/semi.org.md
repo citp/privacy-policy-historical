@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the semi.org privacy policy that was archived on 2014-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141228174934id_/http%3A//www.semi.org/en/About/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the semi.org privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615003357id_/http%3A//www.semi.org/en/About/PrivacyPolicy) for the most accurate reproduction.*
 
 # SEMI - PrivacyPolicy | SEMI.ORG
 
@@ -30,7 +30,7 @@ For your convenience, we have provided links to certain third party web sites, i
 
 **Access by Our Employees**
 
-We limit our employees’ access to your personally identifiable information to the minimum amount reasonably required to provide prompt, high quality.
+We limit our employees’ access to your personally identifiable information to the minimum amount reasonably required to provide prompt, high quality service.
 
 **Security**
 
