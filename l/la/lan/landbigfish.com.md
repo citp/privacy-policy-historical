@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the landbigfish.com privacy policy that was archived on 2014-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141104114827id_/http%3A//landbigfish.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the landbigfish.com privacy policy that was archived on 2015-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150614230529id_/http%3A//www.landbigfish.com/privacy.cfm) for the most accurate reproduction.*
 
 # LandBigFish - Security & Privacy
 
