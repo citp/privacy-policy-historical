@@ -1,16 +1,22 @@
-> *The following text is extracted and transformed from the directvdeals.com privacy policy that was archived on 2014-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141115125408id_/http%3A//www.directvdeals.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the directvdeals.com privacy policy that was archived on 2015-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150614051021id_/http%3A//www.directvdeals.com/privacy-policy.html) for the most accurate reproduction.*
 
 # DIRECTVDeals.com Privacy Policy
 
 **EFFECTIVE DATE: 7/16/14**
 
-Welcome to DirectStarTV. This site is controlled and operated by DirectStarTV. We recognize that visitors to our site may be concerned about the information they provide to us and how we handle that information.
+Welcome to Directvdeals.com. This site is controlled and operated by DirectStarTV, LLC. We recognize that visitors to our site may be concerned about the information they provide to us and how we handle that information.
 
 **_INFORMATION COLLECTION_**
 
-**Information You Provide**
+**REVIEWS AND OTHER SUBMISSIONS**
 
-DirectStarTV collects information from you when you choose to share it with us to use our Site, create an online account with us, request information from us, sign up for newsletters or our email list, post a review, make a purchase, participate in a survey or promotion, or otherwise contact or interact with us. The information we collect may include your name, address, email address, telephone number, birthday, gender, chat transcripts, purchase information and other information you provide to us via this website. We may combine the information you provide to us with information (1) from and about you that we automatically collect when you use this or other first party sites, (2) from third parties, or (3) from other online and offline sources.
+You may post reviews, comments, and other content; send communications; and submit suggestions, ideas, comments, questions, or other information, so long as the content is not illegal, obscene, threatening, defamatory, invasive of privacy, infringing of intellectual property rights, damaging to third parties, or otherwise objectionable, and does not consist of or contain software viruses, political campaigning, commercial solicitation, chain letters, mass mailings, or any form of "spam." You may not use a false e-mail address, impersonate any person or entity, or otherwise mislead as to the origin of a submission. We reserve the right (but not the obligation) to remove or edit such content, but do not regularly review posted content.
+
+If you do post content or submit material, and unless we indicate otherwise, you grant DirectStarTV and its designees a nonexclusive, royalty-free, perpetual, irrevocable, and fully sublicensable right to use, reproduce, modify, adapt, publish, translate, create derivative works from, distribute, and display any and all such submissions throughout the world in any media. You grant DirectStarTV and its designees the right to use the name you submit in connection with such submission, at their election. You represent and warrant that you own or otherwise control all of the rights to the submission; that the submission is accurate; that use of the submission does not violate this policy and will not cause injury to any person or entity; and that you will indemnify DirectStarTV and its designees for all claims resulting from your submissions. We have the right but not the obligation to monitor and edit or remove any activity or content. DirectStarTV takes no responsibility and assumes no liability for any content submitted posted by you or any third party.
+
+**Other Information You Provide**
+
+Directvdeals.com collects information from you when you choose to share it with us to use our Site, create an online account with us, request information from us, sign up for newsletters or our email list, post a review, make a purchase, participate in a survey or promotion, or otherwise contact or interact with us. The information we collect may include your name, address, email address, telephone number, birthday, gender, chat transcripts, purchase information and other information you provide to us via this website. We may combine the information you provide to us with information (1) from and about you that we automatically collect when you use this or other first party sites, (2) from third parties, or (3) from other online and offline sources.
 
 **Information Automatically Collected**
 
@@ -24,7 +30,7 @@ We may obtain information about you from other sources, including commercially a
 
 **INFORMATION USE**
 
-DirectStarTV may use the information we collect from and about you for any of the following purposes:
+Directvdeals.com may use the information we collect from and about you for any of the following purposes:
 
   * To fulfill orders, provide service and communicate with customers;>
   * To research and develop new products or services;
@@ -43,11 +49,11 @@ DirectStarTV may use the information we collect from and about you for any of th
 
 **INFORMATION DISCLOSURE**
 
-DirectStarTV may disclose the personal information we collect from and about you as follows: (1) the service provider that operates this Site and its affiliated companies; (2) to other service providers , if the disclosure will enable them to perform a business, professional or technical support function for us; (3) as necessary if we believe that there has been a violation of the Terms of Use or of our rights or the rights of any third party; (4) to respond to judicial process and provide information to law enforcement or regulatory agencies or in connection with an investigation on matters related to public safety, as permitted by law, or otherwise as required by law; (5) to our select partners that we believe may have offers of interest to you; (6) to promote the Site and our business to third parties; and (7) as described to you at the point of collection.
+Directvdeals.com may disclose the personal information we collect from and about you as follows: (1) the service provider that operates this Site and its affiliated companies; (2) to other service providers , if the disclosure will enable them to perform a business, professional or technical support function for us; (3) as necessary if we believe that there has been a violation of the Terms of Use or of our rights or the rights of any third party; (4) to respond to judicial process and provide information to law enforcement or regulatory agencies or in connection with an investigation on matters related to public safety, as permitted by law, or otherwise as required by law; (5) to our select partners that we believe may have offers of interest to you; (6) to promote the Site and our business to third parties; and (7) as described to you at the point of collection.
 
-DirectStarTV may also share aggregate or anonymous non-personal information with third parties.
+Directvdeals.com may also share aggregate or anonymous non-personal information with third parties.
 
-Also, DirectStarTV may sell or purchase assets during the normal course of our business. If another entity acquires us or any of our assets, information we have collected about you may be transferred to such entity. In addition, if any bankruptcy or reorganization proceeding is brought by or against us, such information may be considered an asset of ours and may be sold or transferred to third parties. Should such a sale or transfer occur, we will use reasonable efforts to try to require that the transferee use personal information provided through this Site in a manner that is consistent with this Privacy Statement.
+Also, Directvdeals.com may sell or purchase assets during the normal course of our business. If another entity acquires us or any of our assets, information we have collected about you may be transferred to such entity. In addition, if any bankruptcy or reorganization proceeding is brought by or against us, such information may be considered an asset of ours and may be sold or transferred to third parties. Should such a sale or transfer occur, we will use reasonable efforts to try to require that the transferee use personal information provided through this Site in a manner that is consistent with this Privacy Statement.
 
 **YOUR CALIFORNIA PRIVACY RIGHTS**
 
@@ -59,7 +65,7 @@ The Site may have links to third-party websites or applications, which may have 
 
 **CHILDREN’S INFORMATION**
 
-This site is intended for general audiences and DirectStarTV does not knowingly collect any personal information from children under the age of 13.
+This site is intended for general audiences and Directvdeals.com does not knowingly collect any personal information from children under the age of 13.
 
 **OUR COMMITMENT TO DATA SECURITY**
 
@@ -71,4 +77,4 @@ If you have any questions about this Privacy Statement or the practices describe
 
 **REVISIONS TO THIS STATEMENT**
 
-DirectStarTV reserves the right to revise this Privacy Statement at any time. Please check back from time to time so you are aware of any changes or updates to the notice. We will indicate the notice’s effective date on the first page of the notice.
+Directvdeals.com reserves the right to revise this Privacy Statement at any time. Please check back from time to time so you are aware of any changes or updates to the notice. We will indicate the notice’s effective date on the first page of the notice.
