@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getmusicasia.com privacy policy that was archived on 2014-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141221083259id_/http%3A//getmusicasia.com/getmusicasia-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getmusicasia.com privacy policy that was archived on 2015-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150614021856id_/http%3A//getmusicasia.com/getmusicasia-privacy-policy) for the most accurate reproduction.*
 
 # Getmusic Asia - Privacy Policy - Getmusic Asia
 
