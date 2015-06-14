@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the npower.com privacy policy that was archived on 2014-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141109110811id_/http%3A//www.npower.com/home/terms-and-conditions/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the npower.com privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615003138id_/http%3A//www.npower.com/home/about-npower/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - About npower - npower
 
@@ -10,7 +10,7 @@ Your personal information (also called ‘personal data’) is the information w
 
 Your personal information may be stored online and therefore we take steps to ensure that our systems are well protected.
 
-Please note that this privacy policy only covers [www.npower.com](http://www.npower.com/home/ "Click here to visit npower"). Other websites belonging to us (such as [www.npowerjobs.com](http://www.npowerjobs.com/ "Click here to visit npower jobs.") and [www.brightergraduates.com](http://www.brightergraduates.com/ "Click here to visit brighter graduates.")) and other websites accessible via links are not covered by this policy. If you access any of these sites, please check the privacy policy applicable to these sites (if any) before you submit any of your personal information to them
+Please note that this privacy policy only covers [www.npower.com](http://www.npower.com/home/ "Click here to visit npower"). Other websites belonging to us (such as [www.npowerjobs.com](http://www.npowerjobs.com/ "Click here to visit npower jobs.") and [www.npowerjobs.com/graduates](http://www.npowerjobs.com/graduates/ "Click here to visit npower graduates.")) and other websites accessible via links are not covered by this policy. If you access any of these sites, please check the privacy policy applicable to these sites (if any) before you submit any of your personal information to them
 
 ### Our group and your products and services
 
