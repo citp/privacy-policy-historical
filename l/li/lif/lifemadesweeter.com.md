@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the lifemadesweeter.com privacy policy that was archived on 2014-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141209011821id_/http%3A//lifemadesweeter.com/%3Fpage_id%3D4814) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lifemadesweeter.com privacy policy that was archived on 2015-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150614040329id_/http%3A//lifemadesweeter.com/policies-terms) for the most accurate reproduction.*
 
 # Privacy Policy - Life Made Sweeter
 
-### Privacy Policy
+[](https://www.pinterest.com/pin/create/button/?url=http%3A%2F%2Flifemadesweeter.com%2Fpolicies-terms%2F&media=http%3A%2F%2Flifemadesweeter.com%2Fwp-content%2Fuploads%2F2014%2F01%2Fbadge-large.jpg&description=Privacy%20Policy)
+
+## Privacy Policy
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact Kelly at lifemadesweeter (at) gmail (dot) com.
 
@@ -13,6 +15,8 @@ This privacy policy outlines the type of personal information that is received a
 We do not distribute your personal information to third parties for any purpose.
 
 Please note that we reserve the right to change our privacy policy at any time. Any changes will be reflected in the policy outlined below.
+
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated infromation (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies,
 
 **Log Files**
 
@@ -57,3 +61,5 @@ To get your own policy, go to http://www.disclosurepolicy.org
 **The contents of this statement may be altered at any time, at the blog owner’s discretion.**
 
 [ ](http://lifemadesweeter.com/wp-content/uploads/2014/01/badge-large.jpg)
+
+[](https://www.pinterest.com/pin/create/button/?url=http%3A%2F%2Flifemadesweeter.com%2Fpolicies-terms%2F&media=http%3A%2F%2Flifemadesweeter.com%2Fwp-content%2Fuploads%2F2014%2F01%2Fbadge-large.jpg&description=Privacy%20Policy)
