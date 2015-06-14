@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the trade-it.co.uk privacy policy that was archived on 2014-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141124052636id_/http%3A//www.trade-it.co.uk/PrivacyCookiePolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trade-it.co.uk privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615002213id_/http%3A//www.trade-it.co.uk/PrivacyCookiePolicy) for the most accurate reproduction.*
 
 # Trade-It - Privacy Cookie Policy
+
+Search
 
 Trade-It Privacy Policy
 
