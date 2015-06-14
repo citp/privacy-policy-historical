@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 4imprint.com privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227202323id_/http%3A//info.4imprint.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 4imprint.com privacy policy that was archived on 2015-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150614022353id_/http%3A//info.4imprint.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | 4imprint Learning Center
 
@@ -48,8 +48,7 @@ Please note that there are instances where we share your volunteered information
 
 4IMPRINT, like many internet and catalog retailers, employs other companies and individuals to perform specific functions on our behalf. Examples include fulfilling orders, delivery of packages, mail and e-mail, address hygiene, credit card processing services, research that improves the quality of services or offers provided to you, or performing a credit check if requested as part of your order. These providers have access to the information that they require to perform their functions but are strictly forbidden from using it for any other purposes. You may, however, “opt-out” of this use of your volunteered information at any time, but doing so may impair our ability to provide you with proper service and to process your orders (see Sec. K).
 
-We may disclose your name and mailing address to carefully screened and selected third parties for marketing purposes. However, we never share your e-mail address, phone number, credit card or financial information for these purposes.  
-
+We may disclose your name and mailing address to carefully screened and selected third parties for marketing purposes. However, we never share your e-mail address, phone number, credit card or financial information for these purposes.
 
 ## Section B: Personal Information and Choice
 
@@ -81,7 +80,7 @@ It is also possible for you to disable cookies at your computer. Please note tha
 
 ## Section F: Security
 
-We have taken many steps to safeguard the integrity of our websites and to prevent unauthorized access to information maintained by us. These measures are designed and intended to prevent corruption of data and to block unknown or unauthorized access to our systems and information. Certain personally identifying information, such as credit card information, is transferred to our computers utilizing encryption software (see Sec. C). For example, Secured Socket Layer (“SSL”) technology, such as VeriSign®, is used to establish secure session links between the web browsers of our customers and our website. In this way, all communications transmitted through such links are secure. Further, only those of our employees and agents who need access to your information to carry out our business functions are allowed access to that information. Our security policies are reviewed periodically and revised as required.
+We have taken many steps to safeguard the integrity of our websites and to prevent unauthorized access to information maintained by us. These measures are designed and intended to prevent corruption of data and to block unknown or unauthorized access to our systems and information. Certain personally identifying information, such as credit card information, is transferred to our computers utilizing encryption software (see Sec. C). For example, Transport Layer Security (“TSL”) technology, such as digicert®, is used to establish secure session links between the web browsers of our customers and our website. In this way, all communications transmitted through such links are secure. Further, only those of our employees and agents who need access to your information to carry out our business functions are allowed access to that information. Our security policies are reviewed periodically and revised as required.
 
 However, it is important to recognize that whatever you transmit or disclose online could be collected and used by others or even unlawfully intercepted by third parties. No data transmission over the internet can ever be guaranteed to be 100% secure. While we strive to protect your information, we cannot warrant the security of any information that you transmit to us. You may also take steps to protect your information. For example, you should create a quality password and not share that password with others. You should not leave your computer unattended before exiting a session and prior to logging out. You should also properly exit browsers as you move between websites. Please see our Legal Statement for additional details.
 
@@ -101,8 +100,7 @@ Also note that personal information regarding individuals who reside in the EU i
 
 ## Section J: Revision
 
-We may at any time revise the terms and conditions contained in this privacy policy by updating this posting. Accordingly, you should periodically visit this page to review our current privacy policy. The current effective date of this privacy policy is July 27, 2010.  
-
+We may at any time revise the terms and conditions contained in this privacy policy by updating this posting. Accordingly, you should periodically visit this page to review our current privacy policy. The current effective date of this privacy policy is July 27, 2010.
 
 ## Section K: Contact Information and Enforcement
 
@@ -110,11 +108,11 @@ We may at any time revise the terms and conditions contained in this privacy pol
 
 4IMPRINT uses a self-assessment approach to assure compliance with this privacy policy and periodically verifies that the policy is accurate, comprehensive for the information intended to be covered, prominently displayed, completely implemented and accessible. We encourage interested persons to raise any complaints or concerns using the contact information provided in this section and we will investigate and attempt to resolve any concerns regarding use and disclosure of personal information.
 
- _Privacy Complaints by US Customers_  
+Privacy Complaints by US Customers  
 4IMPRINT commits to resolve complaints about your privacy and our collection or use of your personal information. If a complaint or dispute cannot be resolved through our internal process, 4IMPRINT has further committed to refer unresolved privacy complaints to an independent dispute resolution mechanism, The Better Business Bureau (BBB). If you do not receive timely acknowledgement of your complaint, or if your complaint is not satisfactorily addressed by 4IMPRINT you may click [here](http://wisconsin.bbb.org/consumers/) to go directly to the Wisconsin BBB website to file your complaint.
 
- _Privacy Complaints by Canadian Customers_  
+Privacy Complaints by Canadian Customers  
 4IMPRINT commits to resolve complaints about your privacy and our collection or use of your personal information. If a complaint or dispute cannot be resolved through our internal process, 4IMPRINT has further committed to refer unresolved privacy complaints to an independent dispute resolution mechanism, The Better Business Bureau (BBB). If you do not receive timely acknowledgement of your complaint, or if your complaint is not satisfactorily addressed by 4IMPRINT you may click [here](http://wisconsin.bbb.org/consumers/) to go directly to the BBB website to file a complaint.
 
- _Privacy Complaints by European Union Customers_  
+Privacy Complaints by European Union Customers  
 4IMPRINT commits to resolve complaints about your privacy and our collection or use of your personal information. If a complaint or dispute cannot be resolved through our internal process, 4IMPRINT has further committed to refer unresolved privacy complaints to an independent dispute resolution mechanism, the Better Business Bureau EU Safe Harbor, operated by the Council of Better Business Bureaus, as a third party resolution provider. If you do not receive timely acknowledgment of your complaint or concern, or it is it not satisfactorily addressed by 4IMPRINT, you may click this link <http://www.bbb.org/us/safe-harbor-complaints> to file a complaint.
