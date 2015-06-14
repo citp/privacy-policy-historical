@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ifood.tv privacy policy that was archived on 2014-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140819135823id_/http%3A//ifood.tv/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ifood.tv privacy policy that was archived on 2015-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150614230500id_/http%3A//ifood.tv/info/privacy) for the most accurate reproduction.*
 
 # Privacy | iFood.tv
 
@@ -53,3 +53,7 @@ For revisions to this Privacy Notice that may be materially less restrictive on 
 
 **Contact Information:**  
 Please contact ifood.tv with any questions or comments about by writing to admin@ifood.tv
+
+Snippet: 
+
+ifood.tv Privacy Notice ifood.tv recognizes that its customers visitors users and others collectively or individually Users who use ifood.tv website mobile apps and connected tv channels or other web sites apps or channels owned or operated by Future Today Inc
