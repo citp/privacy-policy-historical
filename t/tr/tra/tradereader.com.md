@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tradereader.com privacy policy that was archived on 2013-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130508094532id_/http%3A//tradereader.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tradereader.com privacy policy that was archived on 2015-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150614025741id_/http%3A//www.tradereader.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
-# Tradereader.com - Privacy Policy for Tender information Daily
+# Live Tender, Fresh Tenders, Tenders Online
 
   
 **TradeReader.com** and its PROMOTORS **Anmol Infra Soft Inc** is committed to protecting your privacy and security.
