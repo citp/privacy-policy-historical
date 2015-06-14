@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mype.co.za privacy policy that was archived on 2014-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140807040114id_/http%3A//mype.co.za/new/2011/02/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mype.co.za privacy policy that was archived on 2015-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150614034253id_/http%3A//mype.co.za/new/2011/02/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
