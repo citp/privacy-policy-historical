@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ehobbyasia.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121145028id_/http%3A//shop.ehobbyasia.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ehobbyasia.com privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615011117id_/http%3A//shop.ehobbyasia.com/privacy.html) for the most accurate reproduction.*
 
 # Help - Privacy
 
@@ -13,6 +13,7 @@
   * Email and Newsletters
   * Security
   * Updates of Privacy Introduction
+  * Contact Detail
 
 
 
@@ -42,7 +43,7 @@ We use data service such as "Cookies" on the shopping cart system of the Site to
 
 ## Email and Newsletters
 
-We email you simply for the confirmation on your order and/or communication with you about the transactions. We send newsletters through email to you periodically to announce the latest airsoft products and services. If you do not wish to receive any promotional or marketing e-mails and/or surface mail marketing letters, you may opt-out of receiving those communications by by sending us e-mail with the subject line "Unsubscribe" to or e-mail address.
+We email you simply for the confirmation on your order and/or communication with you about the transactions. We send newsletters through email to you periodically to announce the latest airsoft products and services. If you do not wish to receive any promotional or marketing e-mails and/or surface mail marketing letters, you may opt-out of receiving those communications by by sending us e-mail with the subject line "Unsubscribe" to or e-mail address. Also, you can simply opt-out of that subscription by clicking on the unsubscribe link at the end of the e-mail we sent to you. 
 
 ## Security
 
@@ -51,3 +52,5 @@ Our security system monitors and prevents from any unauthorized disclosure of pe
 ## Updates of Privacy Introduction
 
 Our Privacy Statements and Policy are subject to periodic review and change. 
+
+If you have any questions about this privacy policy, please call us on 852 3165-1541 or write to Shop B1, B/F, Lai Sun Commercial Centre, 680 Cheung Sha Wan Road, Hong Kong eHobby Asia Co.Ltd. You can also email us at sales@ehobbyasia.com. 
