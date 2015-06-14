@@ -1,8 +1,12 @@
-> *The following text is extracted and transformed from the 2createawebsites.com privacy policy that was archived on 2014-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140911010252id_/http%3A//www.2createawebsites.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 2createawebsites.com privacy policy that was archived on 2015-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150614061846id_/http%3A//www.2createawebsites.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - How To Create A Website
 
-Privacy Policy. We recognize that the privacy of your personal information is important. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. Below is information on what types of personal information we receive and collect when you use visit www.2createawebsites.com, and how we safeguard your information. To make this notice easy to find, we make it available on our all our page’s where personally identifiable information may be requested.
+PUBLISHED: FEBRUARY 21, 2014 – ARTICLE: PRIVACY POLICY
+
+Privacy Policy for [How To Create a Website](http://www.2createawebsites.com/ "Visit our home page to find out more."). We recognize that the privacy of your personal information is important. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. 
+
+Below is information on what types of personal information we receive and collect when you use visit www.2createawebsites.com, and how we safeguard your information. To make this notice easy to find, we make it available on our all our page’s where personally identifiable information may be requested.
 
 We never sell any kind of personal information that has been collected to third parties or use this data for any illegal activities.
 
@@ -24,8 +28,15 @@ We have included links on this site for your use and reference. We are not respo
 
 If you contact us from our email address we will never sell or give your email address away.
 
-[](http://www.easysite.com/sign-up/?ls=2cw)   
 Please Share
+
+Are you to busy to create a website?
+
+Get your 5 page website built for $250.00
+
+Contact us to find out more or click the link below 
+
+[We can build your website](http://www.2createawebsites.com/we-can-create-your-website.php)
 
 Get the best web hosting deal on the web save $30.00 and get a free domain name, we use the same hosting company. This fantastic deal is for our visitors only click below.
 
