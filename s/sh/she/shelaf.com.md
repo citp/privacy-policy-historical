@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shelaf.com privacy policy that was archived on 2014-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141125040117id_/http%3A//www.shelaf.com/2012/04/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shelaf.com privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615014611id_/http%3A//www.shelaf.com/2012/04/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Shelaf World of Technology
 
