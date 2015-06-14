@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ratemds.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121232159id_/https%3A//www.ratemds.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ratemds.com privacy policy that was archived on 2015-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150614084837id_/http%3A//www.ratemds.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - RateMDs
 
@@ -46,6 +46,3 @@
   * RateMDs.com may amend this policy from time to time. If we make any substantial changes in the way we use your personal information we will notify you by posting a prominent announcement on our pages.
 
 
-
-©2004-2014 RateMDs Inc. -   
-The original and largest doctor rating site. 
