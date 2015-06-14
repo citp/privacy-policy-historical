@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chipandco.com privacy policy that was archived on 2014-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141219132043id_/http%3A//www.chipandco.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chipandco.com privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615005714id_/http%3A//www.chipandco.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -27,17 +27,24 @@ Disabling cookies for all sites is not recommended as it may interfere with your
 best option is to disable or enable cookies on a per-site basis. Consult your browser documentation for  
 instructions on how to block cookies and other tracking mechanisms.
 
-Special Note About Google Advertising
-
-Any advertisements served by Google, Inc., and affiliated companies may be controlled using cookies.  
-These cookies allow Google to display ads based on your visits to this site and other sites that use  
-Google advertising services. Learn how to opt out of Google’s cookie usage. As mentioned above, any  
-tracking done by Google through cookies and other mechanisms is subject to Google’s own privacy  
-policies.
-
 Contact Information
 
 Concerns or questions can be directed to chip@chipandco.com for further clarification.
+
+  * About
+  * Latest Posts
+
+
+
+[](http://www.chipandco.com/ "Chip Confer")
+
+### [Chip Confer](http://www.chipandco.com/)
+
+Chip C is owner of [Chip and Co](http://www.chipandco.com/) \- Your source for Disney Park News, Planning Tips, Giveaways, and More. When he is not writing about [Disney News](http://www.chipandco.com/category/news/), or [Planning Tips](http://www.chipandco.com/category/views/planning/), you will find him counting down the days to his next Disney Vacation. Be sure to follow Chip using one of the buttons to the right -->
+
+[](http://www.chipandco.com/ "Chip Confer")
+
+#### Latest posts by Chip Confer ([see all](http://www.chipandco.com/author/overburnz/))
 
   
 
