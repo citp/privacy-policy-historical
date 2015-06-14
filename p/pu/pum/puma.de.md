@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the puma.de privacy policy that was archived on 2014-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141025213025id_/http%3A//de.puma.com/en_DE/privacy-policy/PRIVACY_POLICY.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the puma.de privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615002936id_/http%3A//de.puma.com/en_DE/privacy-policy/PRIVACY_POLICY.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -24,11 +24,17 @@ We use our technology to gather the following information:
 
 
 
-### **2\. Using Your Data to Process Your Order**
+### **2\. Use of your Data for Order Processing**
 
-We use the personal information that you provide us with as part of the order process, to deliver the goods, to arrange payment and to send you information about your order. We require the following data to do this: contact information including title, first name, last name, street address, postal code, city, country, email address, birth date (to make sure the customer is over the age of 16) and phone number (in case we have any questions about your order).
+We will use your personal data provided during the ordering process exclusively for delivering the goods, processing your payment, and to provide you with information concerning your order.  
+For this, we require the following information:  
+Contact data including title, first name, second name, street, house number, postal code, city, country, e-mail address, and date of birth.
 
-For the purpose of payment processing the necessary data is stored both on our server and on the servers of the companies we have authorized to handle payment processing. For purposes of credit and credit checks, your data might be passed on to financial information service providers. Currently, our service providers for conducting credit checks are SCHUFA Holding AG, Kormoranweg 5, 65201 Wiesbaden, Germany and Real Factoring GmbH, Normannenweg 32, 20537 Hamburg, Germany.
+In order to process your payment, the required data will be saved both on our server and on the servers of the companies we commissioned with payment processing. Within this context, your data may be forwarded to a business information service provider for the purpose of credit and solvency checks.  
+
+The credit check will, of course, be performed in strict compliance with data protection regulations and taking into account your interests to be protected. Any data forwarded will be done so exclusively based on legal provisions.  
+
+Currently infoscore Consumer Data GmbH, Rheinstrasse 99, 76532 Baden-Baden, Germany is the service provider we consult for credit checks.
 
 ### **3\. Using Your Data for Advertising Purposes**
 
@@ -101,7 +107,7 @@ You may refuse the use of cookies by selecting the appropriate settings on your 
 
 Further information concerning the data privacy policy of Google can be found at: _https://www.google.de/intl/en/policies/_
 
-[Disable Google Analytics](https://web.archive.org/web/20141025213025id_/http%3A//de.puma.com/en_DE/privacy-policy/%E2%80%9Djavascript:gaOptout\(\)%E2%80%9D)
+[Disable Google Analytics](https://web.archive.org/web/20150615002936id_/http%3A//de.puma.com/en_DE/privacy-policy/%E2%80%9Djavascript:gaOptout\(\)%E2%80%9D)
 
 ### **8\. The Facebook Like Button**
 
