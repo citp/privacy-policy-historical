@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the digitalsports.com privacy policy that was archived on 2014-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140703052935id_/http%3A//digitalsports.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digitalsports.com privacy policy that was archived on 2015-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150614032625id_/http%3A//digitalsports.com/pages/privacy-policy) for the most accurate reproduction.*
 
-# High School Sports, Youth Athletics, Leagues and Activities - Digital Sports | Privacy Policy
+# High School Sports, Youth Athletics, Leagues and Activities - DigitalSports.Com | Privacy Policy
 
 DigitalSports respects your right to privacy and personal information and takes every step possible to protect your privacy at all times. When you visit any of the DigitalSports pages, you remain anonymous. Access to certain features within the site may require registration. When required, we will tell you why we want the information and how we plan to use it. You may choose whether to access pages that require registration. We may ask you for your name, e-mail address and other basic information. That data will always remain protected, and we will never add you to e-mail lists unless you make a specific request. If you sign up for any of our email alerts, you will find instructions to "unsubscribe" readily available. 
 
