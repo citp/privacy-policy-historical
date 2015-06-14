@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bookcomplaints.com privacy policy that was archived on 2014-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141003224813id_/http%3A//www.bookcomplaints.com/privacypolicy-p25) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bookcomplaints.com privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615005542id_/http%3A//www.bookcomplaints.com/privacypolicy-p25) for the most accurate reproduction.*
 
 # Privacy Policy - bookcomplaints.com India - : Online Consumer Forum | Reviews & Complaints | File Complaint| Resolve Complaint
 
