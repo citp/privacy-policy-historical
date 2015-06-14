@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the macofalltrades.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120084738id_/http%3A//www.macofalltrades.com/Terms_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the macofalltrades.com privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615004638id_/http%3A//www.macofalltrades.com/Terms_privacy.asp) for the most accurate reproduction.*
 
 # Terms: Privacy
 
@@ -90,7 +90,7 @@ This online privacy policy applies only to information collected through our web
   
 **Terms & Conditions**
 
-Please also visit our [Terms & Condition](https://web.archive.org/web/20141120084738id_/http%3A//www.macofalltrades.com/terms.asp) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
+Please also visit our [Terms & Condition](https://web.archive.org/web/20150615004638id_/http%3A//www.macofalltrades.com/terms.asp) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
 
   
 **Your Consent**
