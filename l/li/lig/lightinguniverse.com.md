@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lightinguniverse.com privacy policy that was archived on 2014-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141216124842id_/http%3A//www.atgstores.com/about/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lightinguniverse.com privacy policy that was archived on 2015-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150614043249id_/http%3A//www.atgstores.com/about/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -49,7 +49,7 @@ Cookies are small text files that websites send to your computer or other Intern
 
 In conjunction with the gathering of information through cookies, our Web servers may log information such as your operating system type, browser type, domain, and other system settings, as well as the language your system uses and the country and time zone where your device is located. The Web server logs also may record information such as the address of the Web page that referred you to our Site and the IP address of the device you use to connect to the Internet. They also may log information about your interaction with this Site, such as which pages you visit. To control which Web servers collect information by automated means, we may place tags on our Web pages called “Web beacons,” which are small files that link Web pages to particular Web servers and their cookies.
 
-We may use third-party Web analytics services on our Site, such as those of Omniture and Google Analytics. These service providers use cookies and web beacons to help us analyze how users use the Site. The information collected by the cookies and Web beacons (including your IP address) will be disclosed to these service providers, who use the information to evaluate your use of the Site. To learn about opting out of Google Analytics, please [click here](https://tools.google.com/dlpage/gaoptout). To learn about opting out of Omniture click [here](http://www.omniture.com/en/privacy/2o7).
+We may use third-party Web analytics services on our Site, such as those of Omniture and Google Analytics. These service providers use cookies and web beacons to help us analyze how users use the Site. The information collected by the cookies and Web beacons (including your IP address) will be disclosed to these service providers, who use the information to evaluate your use of the Site. To learn about opting out of Google Analytics, please [click here](https://tools.google.com/dlpage/gaoptout). To learn about opting out of Omniture click [here](https://www.omniture.com/en/privacy/2o7).
 
 We may use the information collected through automated means for market research, data analytics and system administration purposes, such as to determine whether you’ve visited us before or are new to the Site, and for compliance with our legal obligations, policies and procedures. We also may use this information to target custom content and ads to you on this and other websites, including as described below. 
 
@@ -59,7 +59,7 @@ Data about your activities online is being collected on our Site for use in prov
 
 You may see certain ads on other websites because we participate in advertising networks administered by a third party such as Omniture and Google Analytics. These networks track your online activities over time by collecting information through automated means, including through the use of cookies, Web server l
 
-ogs and Web beacons, and they use this information to show you advertisements for ATGStores.com that are tailored to your individual interests. The information they collect includes information about your visit to our Site, such as the pages you have viewed. This collection and ad targeting takes place both on our Site and on third-party websites that participate in the ad network, such as sites that feature advertisements delivered by the ad network. This process also helps us track the effectiveness of our marketing efforts. To learn more about ad networks, including how to opt out, click [here](http://www.networkadvertising.org/managing/opt_out.asp). 
+ogs and Web beacons, and they use this information to show you advertisements for ATGStores.com that are tailored to your individual interests. The information they collect includes information about your visit to our Site, such as the pages you have viewed. This collection and ad targeting takes place both on our Site and on third-party websites that participate in the ad network, such as sites that feature advertisements delivered by the ad network. This process also helps us track the effectiveness of our marketing efforts. To learn more about ad networks, including how to opt out, click [here](https://www.networkadvertising.org/managing/opt_out.asp). 
 
 ## How We Use the Information We Collect
 
@@ -74,7 +74,7 @@ We may use the information we collect when you visit the Site to:
   * Customize your experience with our Site. 
   * Operate, evaluate and improve our business (including developing new products and services; managing our communications; performing market research, data analytics and data appends; determining and managing the effectiveness of our advertising and marketing; analyzing our products, services and Site; administering our Site; and performing accounting, auditing, billing, reconciliation and collection activities). 
   * Protect against and prevent fraud, unauthorized transactions, claims and other liabilities, and manage risk exposure and quality. 
-  * Comply with and enforce applicable legal requirements, industry standards and our policies and terms, such as our [Terms and Conditions of Use](http://www.atgstores.com/about/terms.aspx)
+  * Comply with and enforce applicable legal requirements, industry standards and our policies and terms, such as our [Terms and Conditions of Use](https://web.archive.org/about/terms.aspx)
 
 
 
@@ -113,7 +113,7 @@ This Privacy Notice may be updated periodically and without prior notice to you 
 
 ## How to Contact Us
 
-If you have any questions or comments about this Privacy Notice, or if you would like us to update information we have about you or your preferences, please contact us using on of the methods indicated below. “Contact us” form available at <http://www.atgstores.com/support/support.aspx>
+If you have any questions or comments about this Privacy Notice, or if you would like us to update information we have about you or your preferences, please contact us using on of the methods indicated below. “Contact us” form available at [/support/support.aspx](https://web.archive.org/support/support.aspx)
 
 ATGStores.com Privacy Office  
 Allied Trade Group, Inc.  
