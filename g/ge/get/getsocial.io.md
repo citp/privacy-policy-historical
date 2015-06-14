@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the getsocial.io privacy policy that was archived on 2014-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141012033722id_/http%3A//getsocial.io/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getsocial.io privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615004011id_/http%3A//getsocial.io/privacy-policy) for the most accurate reproduction.*
 
-# GetSocial - Privacy Policy
+# GetSocial - Privacy Policy - GetSocial.io
 
 _The current privacy police was last modified on: 5/13/2014_
 
-The following Privacy policy (“Privacy Policy”) applies to all services offered by GetSocial S.A. (“GetSocial”) via [http://getsocial.io](https://web.archive.org/) website and/or GetSocial applications and services (this set henceforth designated as "Site") to clients (“Clients”), including use of Site in their websites and/or apps (this set henceforth designated as “Clients Site”) and their users/customers (“End Users”) use of Site. 
+The following Privacy policy (“Privacy Policy”) applies to all services offered by GetSocial S.A. (“GetSocial”) via [http://getsocial.io](http://getsocial.io/) website and/or GetSocial applications and services (this set henceforth designated as "Site") to clients (“Clients”), including use of Site in their websites and/or apps (this set henceforth designated as “Clients Site”) and their users/customers (“End Users”) use of Site. 
 
 This Privacy Policy describes how GetSocial collects and uses the personal information of Clients and End Users collected by using Site. It also describes how Clients and End Users can access and update this information. Please review our Privacy Policy below and let us know if you have any questions or concerns. 
 
@@ -30,11 +30,11 @@ GetSocial does not process or store any Clients data regarding Payment Methods (
 
 Any of the information we collect from you may be used in one of the following ways: 
 
-  * To personalize and improve your experience using the Site 
-  * To improve our the Site and provide better and more valuable services 
-  * To administer contests, promotions, surveys or other Site features 
-  * To publish content to third party sites like Facebook or Twitter 
-  * To send periodic emails 
+  * To personalize and improve your experience using the Site
+  * To improve our the Site and provide better and more valuable services
+  * To administer contests, promotions, surveys or other Site features
+  * To publish content to third party sites like Facebook or Twitter
+  * To send periodic emails
 
 
 
@@ -115,5 +115,3 @@ We may update this privacy statement to reflect changes to our information pract
 ## Contact Us
 
 If there are any questions regarding this our Privacy Policy, you may contact us using the information below: [support@getsocial.io](mailto:support@getsocial.io?subject=Privacy%20Policy%20Question)
-
-### Start your 14-day free trial. Set up in minutes. No credit card required.
