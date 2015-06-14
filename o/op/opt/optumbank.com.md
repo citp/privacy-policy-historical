@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the optumbank.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230165340id_/http%3A//www.optumbank.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the optumbank.com privacy policy that was archived on 2015-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150614072635id_/http%3A//www.optumbank.com/privacy-policy) for the most accurate reproduction.*
 
-# OptumBank.com - Website Privacy Policy
+# Website Privacy Policy - OptumBank.com
 
 **Financial Privacy Rule Notice  
-**To read more about our privacy policy as it applies to Optum Bank as a regulated financial institution, and OptumHealth Financial Services, please [click here](https://web.archive.org/web/20141230165340id_/http%3A//www.optumbank.com/~/media/D50700EC659F42E2835AC1D2C4C092A7.pdf), which links to our Financial Notice of Privacy Practices.
+**To read more about our privacy policy as it applies to Optum Bank as a regulated financial institution, and OptumHealth Financial Services, please [click here](https://web.archive.org/web/20150614072635id_/http%3A//www.optumbank.com/~/media/D50700EC659F42E2835AC1D2C4C092A7.pdf), which links to our Financial Notice of Privacy Practices.
 
 **Social Security Number Protection Policy**   
 Protecting personal information is important to Optum. It is our policy to protect the confidentiality of Social Security numbers ("SSNs”) that we receive or collect in the course of business. We secure the confidentiality of SSNs through various means, including physical, technical, and administrative safeguards that are designed to protect against unauthorized access. It is our policy to limit access to SSNs to that which is lawful, and to prohibit unlawful disclosure of SSNs.
@@ -83,7 +83,7 @@ We may send electronic newsletters, notification of account status, and other co
 We will not intentionally collect any personal information from children under the age of 13 through this website without receiving parental consent. If you think that we have collected personal information from a child under the age of 13 through this website, please contact us.
 
 **Contact Us**    
-You can [contact us](https://web.archive.org/web/20141230165340id_/http%3A//www.optumbank.com/~/link.aspx?_id=6BEACD30C5A24ACBBC685340891AD673&_z=z) regarding this Website Privacy Policy and our related privacy practices; representatives are available Monday through Friday from 8:00 a.m. to 8:00 p.m. Eastern time. If you believe we or any company associated with us has misused any of your information please contact us immediately and report such misuse.
+You can [contact us](https://web.archive.org/web/20150614072635id_/http%3A//www.optumbank.com/~/link.aspx?_id=6BEACD30C5A24ACBBC685340891AD673&_z=z) regarding this Website Privacy Policy and our related privacy practices; representatives are available Monday through Friday from 8:00 a.m. to 8:00 p.m. Eastern time. If you believe we or any company associated with us has misused any of your information please contact us immediately and report such misuse.
 
 **Effective Date  
 **The effective date of this policy is January 1, 2014.
