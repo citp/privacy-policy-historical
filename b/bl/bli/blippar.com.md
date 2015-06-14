@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the blippar.com privacy policy that was archived on 2014-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141023214714id_/http%3A//blippar.com/en/content/124-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blippar.com privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615003000id_/http%3A//blippar.com/en/content/124-privacy) for the most accurate reproduction.*
 
-# Privacy - Blippar
+# Privacy - Blippar | Augmented Reality
 
 Effective Date: May 1st 2014
 
