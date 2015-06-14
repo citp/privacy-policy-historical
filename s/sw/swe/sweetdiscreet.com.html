@@ -1,42 +1,55 @@
-<!--The following is the downloaded HTML source of the sweetdiscreet.com privacy policy that was archived on 2014-11-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141122152921id_/http%3A//www.sweetdiscreet.com/main/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the sweetdiscreet.com privacy policy that was archived on 2015-06-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150614035219id_/http%3A//www.sweetdiscreet.com/main/privacy_policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" class="no-js"><!--<![endif]--><head>
-  <meta charset="utf-8"><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VwMEWV5QGwECUlFbAQM="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),u=c.length,f=i(a,o,r),d=0;u>d;d++)c[d].apply(f,n);return f}function a(t,e){u[t]=s(t).concat(e)}function s(t){return u[t]||[]}function c(){return n(e)}var u={};return{on:a,emit:e,create:c,listeners:s,_events:u}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(u){try{r("ierr",[u,(new Date).getTime(),!0])}catch(f){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(4),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(u){"stack"in u&&(t(5),t(3),"addEventListener"in window&&t(1),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(2),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:4,2:7,3:5,4:18,5:6,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],4:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:18,2:19,ee:"QJf3ax",gos:"7eSDFh"}],5:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:19,2:18,ee:"QJf3ax"}],6:[function(t,e){function n(t,e,n){var r=t[0];"string"==typeof r&&(r=new Function(r)),t[0]=o(r,"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:19,2:18,ee:"QJf3ax"}],7:[function(t,e){function n(){c.inPlace(this,d,"fn-")}function r(t,e){c.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}var i=t("ee").create(),a=t(1),s=t(2),c=s(i),u=s(a),f=window.XMLHttpRequest,d=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=i,window.XMLHttpRequest=function(t){var e=new f(t);try{i.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",function(t,e){return e}),e.addEventListener("readystatechange",n,!1)}catch(r){try{i.emit("internal-error",[r])}catch(o){}}return e},window.XMLHttpRequest.prototype=f.prototype,c.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),i.on("send-xhr-start",r),i.on("open-xhr-start",r)},{1:4,2:19,ee:"QJf3ax"}],8:[function(t){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,u="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(u);if(f&&(r.rxSize=f),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(n.cat=d.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r,this.startTime])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,u=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var u=e(o);u&&(r.txSize=u)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",[e])}catch(r){}}};for(var f=0;c>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:9,3:7,4:4,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],9:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&c&&c.body){p.proto="https"===d.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=c.createElement("script");e.src=p.proto+t.agent,c.body.appendChild(e)}}function r(){"complete"===c.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,c=s.document,u="addEventListener",f="attachEvent",d=(""+location).split("?")[0],p=e.exports={offset:i(),origin:d,features:{}};c[u]?(c[u]("DOMContentLoaded",o,!1),s[u]("load",n,!1)):(c[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],18:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],19:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,u;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){f([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return u=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,u],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,u(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,u="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,u?s+o:o,i,s,t))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){f([o,e,n,r])}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){f([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function f(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:18,ee:"QJf3ax"}]},{},["G9z0Bl",3,8]);</script>
+  <meta charset="utf-8"><script src="https://js-agent.newrelic.com/nr-632.min.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VwMEWV5QGwECUlFbAQM="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),u=c.length,f=i(a,o,r),d=0;u>d;d++)c[d].apply(f,n);return f}function a(t,e){u[t]=s(t).concat(e)}function s(t){return u[t]||[]}function c(){return n(e)}var u={};return{on:a,emit:e,create:c,listeners:s,_events:u}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:20,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(u){try{r("ierr",[u,(new Date).getTime(),!0])}catch(f){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(3),window.onerror=e;try{throw new Error}catch(u){"stack"in u&&(t(4),t(5),"addEventListener"in window&&t(1),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&t(2),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:8,3:3,4:7,5:6,6:21,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:21,2:22,ee:"QJf3ax",gos:"7eSDFh"}],6:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:22,2:21,ee:"QJf3ax"}],7:[function(t,e){function n(t,e,n){t[0]=o(t[0],"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:22,2:21,ee:"QJf3ax"}],8:[function(t,e){function n(){u.inPlace(this,p,"fn-")}function r(t,e){u.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),u=c(a),f=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),f.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,u.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:5,2:22,ee:"QJf3ax"}],9:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var a=t.responseType,u="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=n(u);if(f&&(r.rxSize=f),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(e.cat=d.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,o("xhr",[e,r,this.startTime])}}}function n(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,u=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=e,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,e){var r=this.metrics,o=t[0],i=this;if(r&&o){var u=n(o);u&&(r.txSize=u)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{a.emit("internal-error",[n])}catch(r){}}};for(var f=0;c>f;f++)e.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:10,3:8,4:5,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],10:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],11:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:20,2:21,handle:"D5DuLP"}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info,e=u.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){e in t||(t[e]=n)});var n="https"===f.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=u.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=(t(2),window),u=c.document,f=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-632.min.js"},p=e.exports={offset:i(),origin:f,features:{}};u.addEventListener?(u.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(u.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()])},{1:20,2:11,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],20:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],21:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],22:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,u;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){f([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return u=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,u],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,u(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,u="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,u?s+o:o,i,s))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){f([o,e,n,r])}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){f([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function f(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:21,ee:"QJf3ax"}]},{},["G9z0Bl",4,9]);</script>
     <meta name="robots" content="noindex">
     <meta name="keywords" content="casual, dating, meet, guys, girls, hot, local, singles, hookup, guy, girl, tonight, online, men, women, man, woman, casual dating">
     <meta name="description" content="Welcome to SweetDiscreet, the only place you should be if you're into casual dating. Hot girls and hot guys know that when they want to meet local singles, it's the best place to find exactly what they are looking for">
     <meta name="msvalidate.01" content="7B724B61CB16467E7C59613DB22FB1F1">
   <link rel="shortcut icon" href="http://cdn2.static.cdn-sweetdiscreet.com/images/desktop/favicon.ico">
-  <link rel="apple-touch-icon" href="http://cdn2.static.cdn-sweetdiscreet.com/images/desktop/iPhone.png">
-  <link rel="apple-touch-icon" sizes="114x114" href="http://cdn2.static.cdn-sweetdiscreet.com/images/desktop/iPhone4.png">
+
+  <link rel="apple-touch-icon" href="http://cdn2.static.cdn-sweetdiscreet.com/images/desktop/touch-icon-iphone.png">
+  <link rel="apple-touch-icon" sizes="76x76" href="http://cdn2.static.cdn-sweetdiscreet.com/images/desktop/touch-icon-ipad.png">
+  <link rel="apple-touch-icon" sizes="120x120" href="http://cdn2.static.cdn-sweetdiscreet.com/images/desktop/touch-icon-iphone-retina.png">
+  <link rel="apple-touch-icon" sizes="152x152" href="http://cdn2.static.cdn-sweetdiscreet.com/images/desktop/touch-icon-ipad-retina.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="http://cdn2.static.cdn-sweetdiscreet.com/images/desktop/touch-icon-iphone-6-plus.png">
+
   <title>Sweet Discreet, Encounters, Affairs | Married Women, Cheating Wives</title>
-  <link href="http://cdn2.static.cdn-sweetdiscreet.com/css/desktop/screen.4153948889.css" rel="stylesheet" type="text/css">  <script src="http://cdn2.static.cdn-sweetdiscreet.com/js/desktop/lib/modernizr.custom.2728112180.js"></script>  <script src="//cdn.optimizely.com/js/1468585170.js"></script>
-  <script>
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-25023228-1']);
-  _gaq.push(['_setDomainName', '.sweetdiscreet.com']);
-  _gaq.push(['_setAllowLinker', true]);
-  _gaq.push(['_setAllowHash', false]);
-  _gaq.push(['_setCustomVar', 2, 'campaign_id', "int_typein", 1]);
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
-</script>
-    <script>
+  <link href="http://cdn2.static.cdn-sweetdiscreet.com/css/desktop/screen.569135502.css" rel="stylesheet" type="text/css">  <script src="http://cdn2.static.cdn-sweetdiscreet.com/js/desktop/lib/modernizr.custom.2728112180.js"></script>  
+<script>
+
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga( 'create', "UA-25023228-1", 'auto', {'allowLinker': true} );
+  ga( 'require', 'linker' );
+  ga('linker:autoLink', [".sweetdiscreet.com"] );
+      ga( 'send', 'pageview', "\/main\/privacy_policy" );
+  
+
+</script>    <script>
     window.user = {"id":-2,"level":1,"notices":{"notices":[],"errors":[]},"type":"guest","location":{"controller":"main","action":"privacy_policy"},"actions":{"flirt_back":false}};
   </script>
 </head>
 <body class="main-privacy_policy guest">
     <header>
   <div>
-    <h1><a href="http://www.sweetdiscreet.com/" title="connect tonight">SweetDiscreet</a></h1>
-    <ul>
-            <li><a title="Create Account" rel="nofollow" href="/register">Create Account</a></li>
-      <li>
-        <a href="/auth" id="sign-in-modal" rel="nofollow">Sign In</a>
+    <h1><a href="http://www.sweetdiscreet.com/" title="connect tonight">Sweet Discreet</a></h1>
+    <ul class="header-list">
+            <li class="header-list-item">
+        <a class="header-main-link" href="/register" rel="nofollow" title="Create Account">
+          <span class="icon-hearts"></span>
+          Create Account
+        </a>
+      </li>
+      <li class="header-list-item">
+        <a class="header-main-link" href="/auth" id="sign-in-modal" rel="nofollow">
+          <span class="icon-dots"></span>
+          Sign In
+        </a>
       </li>
     </ul>
   </div>
@@ -50,7 +63,7 @@
   <header>
     <h2>Privacy Policy</h2>
   </header>
-    <p>We at SweetDiscreet offer this Privacy Policy ("Policy") to inform Users of the SweetDiscreet ("Website") how we define, collect, use and disclose the personal information you provide to us.
+    <p>We at Sweet Discreet offer this Privacy Policy ("Policy") to inform Users of the Sweet Discreet ("Website") how we define, collect, use and disclose the personal information you provide to us.
     We reserve the right, at our sole discretion, to alter this Policy at any time. Alterations shall become effective immediately once posted on the Website. We will notify you of a
     substantive change to this Policy by posting a notice of such substantial change on the home page of the Website and we may also email you to notify you of such changes.
     Your continued use of the Website following the posting of changes and/or modifications will constitute your acceptance of the revised privacy policy.</p>
@@ -67,7 +80,7 @@
     <h4>1) Information We Gather Automatically</h4>
 
     <p>Each time a visitor visits the Website, our servers collect certain non-personal technical information, including, but not necessarily limited to, the visitor's IP Address, referral data
-    and browser/platform type. This information is recorded by the standard operation of SweetDiscreet's Internet servers. We also count, track and aggregate a visitor's activity into our
+    and browser/platform type. This information is recorded by the standard operation of Sweet Discreet's Internet servers. We also count, track and aggregate a visitor's activity into our
     analysis of general traffic flows at the Website (e.g., tracking where traffic comes from, how traffic flows within the Website, etc.).  The information collected here cannot identify who
     you are as an individual.  However, we may use your IP addresses in cooperation with your Internet provider to identify you if we feel it is necessary to enforce compliance with our Terms
     of Use or to protect our service, the Website, users or others.</p>
@@ -85,21 +98,21 @@
 
     <p>This traffic information can be used to enhance the content of our Website and make your use of it
     easier. We do not link the information we store in cookies to any personally identifiable information you submit while on the Website.  Note that you must enable cookies from
-    SweetDiscreet in order to use most functions on the Website. Nevertheless, if you wish to reject our cookies, you can configure your browser to do so (instructions for disabling cookies
-    can be found in our <a href="/main/faq">FAQ</a>. Please note that SweetDiscreet allows third parties who are presenting advertisements on some of our pages to set and access
-    their cookies on your computer in a process that SweetDiscreet does not control.  Advertisers' uses of cookies are subject to their own privacy policies, not this Policy.  Therefore, we
+    Sweet Discreet in order to use most functions on the Website. Nevertheless, if you wish to reject our cookies, you can configure your browser to do so (instructions for disabling cookies
+    can be found in our <a href="/main/faq">FAQ</a>. Please note that Sweet Discreet allows third parties who are presenting advertisements on some of our pages to set and access
+    their cookies on your computer in a process that Sweet Discreet does not control.  Advertisers' uses of cookies are subject to their own privacy policies, not this Policy.  Therefore, we
     suggest that you examine the privacy policies of such advertisers to learn how they may collect, use, share and disclose your personal information.</p>
 
     <h4>2) Information Required for Registration</h4>
 
-    <p>SweetDiscreet will identify to you the purposes for which it will collect or use personal information before or at the time the information is collected.
+    <p>Sweet Discreet will identify to you the purposes for which it will collect or use personal information before or at the time the information is collected.
     The type of personal information we may request depends on and is related to the reason (or purpose) such personal information was provided to us. During the process to become a User of
     the Website, we ask for general identifying information to provide you with customized service. We gather personal contact information such as screen name, email address, and some
     demographic information such as age, gender and general geographic location.  Any other information you choose to enter, such as your personal interests and preferences and general
     indications of the type of partner you are looking for using the Service, is completely optional.</p>
 
     <p>We encourage Users to fill out their profiles as completely as possible, with the understanding that, once entered, contact information is treated anonymously and is not available to
-    other SweetDiscreet Users.  Any communications from other Users are done via our internal systems, which are used to match the message to you and generate an e-mail notification without
+    other Sweet Discreet Users.  Any communications from other Users are done via our internal systems, which are used to match the message to you and generate an e-mail notification without
     disclosing any information aside from your chosen screen name.</p>
 
     <p>The choice to provide us with your personal information is always yours. However, your decision to withhold particular information may result in limiting our ability to respond to your
@@ -107,14 +120,14 @@
     Unless the new purpose is required by law, your consent is required before information can be used for that purpose.
     Demographic information may be compiled and shared in the aggregate with third parties, but no personal details will be traceable or associated with specific individuals at any time.</p>
 
-    <p>Note that, during the Membership process, third party billing agents will collect personally identifiable information required to process payments for the service. SweetDiscreet retains
+    <p>Note that, during the Membership process, third party billing agents will collect personally identifiable information required to process payments for the service. Sweet Discreet retains
     information (name and address) to correctly identify you in dealings with third party billing agents. Additional information gathered by third party billing agents is not controlled by
-    SweetDiscreet or this Policy.</p>
+    Sweet Discreet or this Policy.</p>
 
     <h4>3) Voluntary Inclusion of Personal Information</h4>
 
-    <p>Personally identifiable information that you enter into your profile, that you include in communications with other Members or Users, or that you disclose in any media (text, chat streams, graphical, audio, visual or audio-visual), or that you post or display on the Website is accessible by visitors to the website, and by other Users (Registered Users and Members) of the Website. SweetDiscreet is not responsible for any privacy issues arising from your own voluntary posting or transmission of personal information via the Service.
-    You acknowledge and agree that you (not SweetDiscreet or our affiliates, advertisers, employees and content providers) shall be solely responsible and liable for all damages, liability or
+    <p>Personally identifiable information that you enter into your profile, that you include in communications with other Members or Users, or that you disclose in any media (text, chat streams, graphical, audio, visual or audio-visual), or that you post or display on the Website is accessible by visitors to the website, and by other Users (Registered Users and Members) of the Website. Sweet Discreet is not responsible for any privacy issues arising from your own voluntary posting or transmission of personal information via the Service.
+    You acknowledge and agree that you (not Sweet Discreet or our affiliates, advertisers, employees and content providers) shall be solely responsible and liable for all damages, liability or
     other consequences, foreseen or unforeseen, of all information which you submit, publish, display, disseminate or otherwise communicate through the Website even if a claim for damages or
     liability should arise after termination of service.</p>
 
@@ -122,7 +135,7 @@
 
     <p>The Website directly communicates with Members and Users through email, instant messaging, and in some cases, downloaded executables.  This enables Members to receive information when they
     are not on the Website, so they remain current on internal communication and updates from other Users or from us directly. The Website may also use personally identifiable information
-    within your profile to send information to you that, in some cases, are targeted to your interests, such as special banners and promotions.  Should you not wish SweetDiscreet to send you
+    within your profile to send information to you that, in some cases, are targeted to your interests, such as special banners and promotions.  Should you not wish Sweet Discreet to send you
     information on other services or products, please just contact us using the information provided in section 17 below.</p>
     <p>Members of the Website can directly communicate with you through messaging services that are part of the Service (mail, chat or via comments). We may use personally identifiable
     information within your profile to send notifications of these communications to you, but your personally identifiable information is not disclosed to other Members by us.</p>
@@ -134,25 +147,25 @@
 
     <h4>6) Your Use of Other Users' Information</h4>
 
-    <p>You may not use other Users' information for commercial purposes, to send SPAM or SPIM, to harass, to make unlawful threats, or for any other illegal purpose. SweetDiscreet reserves the right
+    <p>You may not use other Users' information for commercial purposes, to send SPAM or SPIM, to harass, to make unlawful threats, or for any other illegal purpose. Sweet Discreet reserves the right
     to terminate the Service to those who misuse other Users' information.</p><p>
     If you receive communications that you find to have violated this Policy, please contact us using the information provided in section 17 below, being sure to include the message text and
     the User who sent the communication to you.</p>
 
     <h4>7) Accuracy of Personal Information, Information Review and Removal</h4>
 
-    <p>We shall make every reasonable effort to ensure your personal information is accurate, complete and up-to-date. You are responsible for advising SweetDiscreet of any inaccuracies or changes
+    <p>We shall make every reasonable effort to ensure your personal information is accurate, complete and up-to-date. You are responsible for advising Sweet Discreet of any inaccuracies or changes
     to your personal information.</p>
     <p>Users may modify or remove any of their information associated with their profile at any time by logging into their account and accessing the Edit Profile feature.</p>
     <p>Users may, at any time, delete their profiles or remove any images or audio-visual material that they have posted to the Website.</p>
 
     <h4>8) Promotion</h4>
 
-    <p>From time to time, SweetDiscreet may sponsor sweepstakes, contests or other events of interest to our users.  SweetDiscreet may co-sponsor these events with third party organizations, and may
+    <p>From time to time, Sweet Discreet may sponsor sweepstakes, contests or other events of interest to our users.  Sweet Discreet may co-sponsor these events with third party organizations, and may
     be required to share demographic information to be used for the event. Any shared demographic information will not be associated with individual users; it will only be presented as
     aggregated information.</p>
     <p>In some cases, promotions or sweepstakes that may be of interest to our users may require us to share email information with third party sponsors or partners. A User's personal email
-    information will not be released to any third party organization without the User's express consent and disclosure of the sponsor organization's name, and SweetDiscreet will request that
+    information will not be released to any third party organization without the User's express consent and disclosure of the sponsor organization's name, and Sweet Discreet will request that
     such named sponsors uphold the privacy of the registrant's information by not distributing or sharing such information with any other businesses or organizations, and we will ensure
     that such sponsors agree to be bound by the terms of this Policy.</p>
 
@@ -169,19 +182,19 @@
       <li>We need to send the information to companies who work on our behalf to provide a product or service to you.</li>
       <li>To investigate and/or enforce violations of our Terms and Conditions and/or this Policy, or to protect our interests in our operation and our legal rights and protections.</li>
       <li>To investigate potentially fraudulent or questionable activities.</li>
-      <li>When required or permitted by law. SweetDiscreet (including our affiliates, advertisers and content providers) independently reserves the right to fully cooperate with requests from
-    any recognized law enforcement authority, and to court orders, requesting or directing SweetDiscreet (including our affiliates, advertisers and content providers) to disclose the identity or
+      <li>When required or permitted by law. Sweet Discreet (including our affiliates, advertisers and content providers) independently reserves the right to fully cooperate with requests from
+    any recognized law enforcement authority, and to court orders, requesting or directing Sweet Discreet (including our affiliates, advertisers and content providers) to disclose the identity or
     other information regarding any person who is using or has used the Website or the Service or has obtained any Content available through or in association with the Website.
-    By accepting this Policy and using the Website and/or the Service, you waive and hold harmless SweetDiscreet, our affiliates, content providers, and the operators of the Website from any and
+    By accepting this Policy and using the Website and/or the Service, you waive and hold harmless Sweet Discreet, our affiliates, content providers, and the operators of the Website from any and
     all claims resulting from any and all actions taken by any of the foregoing during, or as a result of any law enforcement authority's investigations or inquiries.</li>
       <li>In the course of a sale or potential sale, reorganization, consolidation, merger or amalgamation of our business. In order to ensure a smooth transition of the Service in the event
-    of a merger, acquisition, reorganization, sale of all or substantially all of its assets or the sale of an individual website owned by SweetDiscreet, SweetDiscreet may transfer your personally
+    of a merger, acquisition, reorganization, sale of all or substantially all of its assets or the sale of an individual website owned by Sweet Discreet, Sweet Discreet may transfer your personally
     identifiable information to a third party as a part of such merger, acquisition, reorganization or sale. In the event the transaction proceeds, we will require that the receiving party
     agree that they will be similarly bound by the provisions of this privacy policy and that they will only use and disclose your personal information as we are similarly entitled under this
     privacy policy. In the event the sale does not proceed, we will require the potential purchaser to not use or disclose your personal information in any manner whatsoever and to completely
     erase the same.</li>
       <li>Where such disclosure is described elsewhere in this Policy.</li>
-      <li>This Policy does not protect information you post to any online profile, bulletin board, e-note, video chat room, or any other forum accessible to other Users or other sites within SweetDiscreet, nor does it apply to information directly exchanged by a User with any other Users of SweetDiscreet by any other means than use of the Service (including, but not limited to, email, telephone, instant messenger, fax, peer to peer networking, etc.). Note that any personal information published by or transmitted by a User using the Service can be removed or modified by the User. However, after removal or modification, this information may persist in backup copies and, or be maintained by other Users of SweetDiscreet (for example, any information exchanged with other Users of the Service may remain in their e-mail boxes, computer caches, or instant message archive). Information exchanged with other Users of the Service, either through the Service or by other means</li>
+      <li>This Policy does not protect information you post to any online profile, bulletin board, e-note, video chat room, or any other forum accessible to other Users or other sites within Sweet Discreet, nor does it apply to information directly exchanged by a User with any other Users of Sweet Discreet by any other means than use of the Service (including, but not limited to, email, telephone, instant messenger, fax, peer to peer networking, etc.). Note that any personal information published by or transmitted by a User using the Service can be removed or modified by the User. However, after removal or modification, this information may persist in backup copies and, or be maintained by other Users of Sweet Discreet (for example, any information exchanged with other Users of the Service may remain in their e-mail boxes, computer caches, or instant message archive). Information exchanged with other Users of the Service, either through the Service or by other means</li>
     </ol>
 
     <h4>10) Location of Personal Information</h4>
@@ -194,21 +207,21 @@
     <h4>11)  Employee Access to Your Personal Information. </h4>
 
     <p>In the course of daily operations, access to private, sensitive and confidential information is restricted to authorized employees who have a legitimate business purpose and reason for
-    accessing it. As a condition of their employment, all employees of SweetDiscreet are required to follow this Policy. Employees are informed about the importance of privacy and they are
+    accessing it. As a condition of their employment, all employees of Sweet Discreet are required to follow this Policy. Employees are informed about the importance of privacy and they are
     required to agree to a code of conduct that prohibits the disclosure of any personal information to unauthorized individuals or parties.</p>
-    <p>Unauthorized access to and/or disclosure of personal information by an employee of SweetDiscreet is strictly prohibited. All employees are expected to maintain the confidentiality of
+    <p>Unauthorized access to and/or disclosure of personal information by an employee of Sweet Discreet is strictly prohibited. All employees are expected to maintain the confidentiality of
     personal information at all times and failing to do so will result in appropriate disciplinary measures, which may include dismissal.</p>
 
     <h4>12) Our Commitment to Data Security.</h4>
 
-    <p>The security of your personal information is a priority to SweetDiscreet. We are responsible for protecting personal information under our control, including personal information that has
+    <p>The security of your personal information is a priority to Sweet Discreet. We are responsible for protecting personal information under our control, including personal information that has
     been transferred to, or received from, a third party</p>
 
     <p>Registered User and Member accounts are secured by member-created passwords.  We use reasonable measures to protect registration and membership information that is stored within our
     database, and we restrict access to User information to those employees who need access to perform their job functions, such as our customer service personnel and technical staff, and
     such employees shall be required to respect the privacy of that information.</p>
 
-    <p>In the event that personal information is transferred to a third party, SweetDiscreet will take steps to ensure that such recipients safeguard the personal information and use the
+    <p>In the event that personal information is transferred to a third party, Sweet Discreet will take steps to ensure that such recipients safeguard the personal information and use the
     information only for authorized purposes. Some examples of such measures are as follows:</p>
 
     <ol>
@@ -225,13 +238,13 @@
     <h4>13) Our Commitment to Children's Privacy</h4>
 
     <p>Protecting the privacy of the very young is important to us. For that reason, we do not collect or maintain information from those we actually know are under 18 years of age, and no part
-    of SweetDiscreet is structured to attract anyone under 18 years of age. If you are younger than 18 years of age, you are not permitted to use this site.</p>
+    of Sweet Discreet is structured to attract anyone under 18 years of age. If you are younger than 18 years of age, you are not permitted to use this site.</p>
 
     <h4>14) Websites Governed by this Privacy Policy.</h4>
 
-    <p>The Website that is governed by the provisions and practices stated in this Policy is: SweetDiscreet.
-    SweetDiscreet's Website may contain links to other third party sites that are not governed by this Policy. Although we endeavor to only link to sites with high privacy standards, our Policy
-    will no longer apply once you leave SweetDiscreet's Website. Additionally, we are not responsible for the privacy practices employed by other third party websites, nor are we responsible for
+    <p>The Website that is governed by the provisions and practices stated in this Policy is: Sweet Discreet.
+    Sweet Discreet's Website may contain links to other third party sites that are not governed by this Policy. Although we endeavor to only link to sites with high privacy standards, our Policy
+    will no longer apply once you leave Sweet Discreet's Website. Additionally, we are not responsible for the privacy practices employed by other third party websites, nor are we responsible for
     the content of any such web property, company or organization that we do not control. Further, we cannot control and are not responsible for the actions of the employees, agents or
     assigns of any such web property, company or organization. Therefore, we suggest that you examine the privacy policies of those sites to learn how your information may be collected, used,
     shared and disclosed.</p>
@@ -243,7 +256,7 @@
 
     <h4>16) Updating this Privacy Policy</h4>
 
-    <p>This Policy is subject to change by SweetDiscreet at any time. We may modify any of the terms contained in this Policy at any time in our sole discretion. Any changes to our privacy policy
+    <p>This Policy is subject to change by Sweet Discreet at any time. We may modify any of the terms contained in this Policy at any time in our sole discretion. Any changes to our privacy policy
     and information handling practices will be acknowledged in this policy in a timely manner. We may add, modify or remove portions of this policy when we feel it is appropriate to do so.
     You may determine when this policy was last updated by referring to the date at the bottom of this privacy policy.</p>
     <p>If any modification to this Policy is unacceptable to you, you agree that your only recourse is to terminate this Policy. Your continued use of the Service following our posting of a
@@ -254,12 +267,12 @@
     <h4>17) Handling Complaints, Questions and Suggestions</h4>
 
     <p>To stop or resume receiving email notifications regarding various site activity or offers, users can edit their <a href="/myprofile/settings">settings</a>.</p>
-    <p>If you have any further questions or concerns about SweetDiscreet's privacy policies and use of personal information, please contact us using our online <a href="/contact">contact form</a>,
+    <p>If you have any further questions or concerns about Sweet Discreet's privacy policies and use of personal information, please contact us using our online <a href="/contact">contact form</a>,
     or by email to <a href="mailto:abuse@sweetdiscreet.com">the webmaster.</a></p>
 
     <h4>18) Dispute Resolution </h4>
 
-    <p>Any claim or cause of action you may have arising from, connected with, or relating to this privacy policy or SweetDiscreet's handling of your personal information, or any related matters
+    <p>Any claim or cause of action you may have arising from, connected with, or relating to this privacy policy or Sweet Discreet's handling of your personal information, or any related matters
     must be commenced within six (6) months after the claim or cause of action arises, after which time the claim or cause of action is forever barred, regardless of any statute or law to
     the contrary.</p>
     <a href="#" class="page-top">Back to top</a>
@@ -278,34 +291,10 @@
       <li><a href="http://www.sweetdiscreet.com/main/faq" rel="nofollow">FAQ</a></li>
       <li><a href="http://www.sweetdiscreet.com/contact">Contact</a></li>
               <li><a href="http://www.sweetdiscreet.com/contact/abuse">Report Abuse</a></li>
-            <li class="footer-copyright">© Copyright SweetDiscreet 2014</li>
+            <li class="footer-copyright">© Copyright Sweet Discreet 2015</li>
     </ul>
   </nav>
 </footer>
-  <script>
-  _gaq.push(['_trackPageview', "\/main\/privacy_policy"]);
-</script>
-
-<div style="display: none;">
-  <!-- Google Code for SweetDiscreet - All Remarketing List -->
-  <script type="text/javascript">
-    /* <![CDATA[ */
-    var google_conversion_id = 1023253693;
-    var google_conversion_language = "en";
-    var google_conversion_format = "3";
-    var google_conversion_color = "ffffff";
-    var google_conversion_label = "QewnCIuJvAIQvbn25wM";
-    var google_conversion_value = 0;
-    /* ]]> */
-  </script>
-  <script type="text/javascript" src="http://www.googleadservices.com/pagead/conversion.js">
-  </script>
-  <noscript>
-    <div style="display:inline;">
-      <img height="1" width="1" style="border-style:none;" alt="" src="http://www.googleadservices.com/pagead/conversion/1023253693/?label=QewnCIuJvAIQvbn25wM&amp;guid=ON&amp;script=0"/>
-    </div>
-  </noscript>
-</div>
   <div style="display: none;">
 </div>
   
@@ -313,7 +302,7 @@
 (function() {
   function loadTMX() {
     var frame = document.createElement('iframe');
-    frame.src    = 'https://h.online-metrix.net/tags?org_id=cd7qw1ng&session_id=ru98avda58r615u19popc5h033';
+    frame.src    = 'https://h.online-metrix.net/tags?org_id=cd7qw1ng&session_id=3tr3dcpt08da5bk0oer3bh6935';
     frame.height = 100;
     frame.width  = 100;
     frame.style.cssText = 'color:rgb(0,0,0); float:left; position:absolute; left:-9999em; border:0px';
@@ -329,9 +318,9 @@
 </script>
 
 <noscript>
-  <iframe style="color:rgb(0,0,0); float:left; position:absolute; left:-9999em; border:0px" src="https://h.online-metrix.net/tags?org_id=cd7qw1ng&amp;session_id=ru98avda58r615u19popc5h033" height="100" width="100"></iframe>
+  <iframe style="color:rgb(0,0,0); float:left; position:absolute; left:-9999em; border:0px" src="https://h.online-metrix.net/tags?org_id=cd7qw1ng&amp;session_id=3tr3dcpt08da5bk0oer3bh6935" height="100" width="100"></iframe>
 </noscript>
 
-      <script src="http://cdn2.static.cdn-sweetdiscreet.com/js/desktop/core.3553075561.js"></script>    <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-4.newrelic.com","licenseKey":"4e631e7396","applicationID":"2260962,2254447","transactionName":"Z1QANUQACEMCAUdYXl4eIRRFFQldTC9SWF8fYRAIQAAFSTMNX1hSSQ==","queueTime":3,"applicationTime":108,"atts":"SxMXQwwaGxxBAxELSk1M","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-476.min.js"}</script>
+      <script src="http://cdn2.static.cdn-sweetdiscreet.com/js/desktop/core.2642649987.js"></script>    <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"4e631e7396","applicationID":"2260962,2254447","transactionName":"Z1QANUQACEMCAUdYXl4eIRRFFQldTC9SWF8fYRAIQAAFSTMNX1hSSQ==","queueTime":3,"applicationTime":107,"atts":"SxMXQwwaGxxBAxELSk1M","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-632.min.js"}</script>
 
-<script src="https://js-agent.newrelic.com/nr-476.min.js"></script><iframe src="https://h.online-metrix.net/tags?org_id=cd7qw1ng&amp;session_id=ru98avda58r615u19popc5h033" height="100" width="100" style="color: rgb(0, 0, 0); float: left; position: absolute; left: -9999em; border: 0px;"></iframe></body></html>
+<iframe src="https://h.online-metrix.net/tags?org_id=cd7qw1ng&amp;session_id=3tr3dcpt08da5bk0oer3bh6935" height="100" width="100" style="color: rgb(0, 0, 0); float: left; position: absolute; left: -9999em; border: 0px;"></iframe></body></html>
