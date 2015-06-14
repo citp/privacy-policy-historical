@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the hellmanns.us privacy policy that was archived on 2013-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130806214835id_/https%3A//secure.unileverus.com/privacy/policy.html%3Fsite%3Dwww.mayo.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hellmanns.us privacy policy that was archived on 2015-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150614044834id_/http%3A//www.unileverprivacypolicy.com/en_us/policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
-
-To view this page in Spanish, please [click here](https://web.archive.org/privacy/spanish/policy.html)  
-Para ver esta página en español, por favor haga [clic aqu](https://web.archive.org/privacy/spanish/policy.html)
 
 ##  _UNILEVER PRIVACY PRINCIPLES_
 
@@ -13,42 +10,44 @@ Unilever takes privacy seriously. The following five principles underpin our app
   2. You are entitled to clear information about how we use your personal information. We shall always be transparent with you about what information we collect, what we do with it, with whom we share it and whom you should contact if you have any concerns.
   3. If you have any concerns about how we use your personal information, we will work with you to promptly resolve those concerns.
   4. We will take all reasonable steps to protect your information from misuse and keep it secure.
-  5. We will comply with all applicable data protection laws and regulations and we will co-operate with data protection authorities.  In the absence of data protection legislation, we will act in accordance with generally accepted principles governing data protection.   
+  5. We will comply with all applicable data protection laws and regulations and we will co-operate with data protection authorities. In the absence of data protection legislation, we will act in accordance with generally accepted principles governing data protection.   
 
 
 
 
 ## _UNILEVER PRIVACY POLICY_
 
-_Last Updated: March 2013_
+_Last Updated: October 2013_
 
-Unilever is committed to protecting your privacy and ensuring that your personal information is protected.  This Privacy Policy explains the types of personal information we collect and how we use, disclose and protect that information.
+Unilever is committed to protecting your privacy and ensuring that your personal information is protected. This Privacy Policy explains the types of personal information we collect and how we use, disclose and protect that information.
 
 ## What does this Privacy Policy apply to?
 
-This Privacy Policy applies to personal information collected by the Unilever Group of companies in connection with the services they offer. Find out more about the Unilever Group at <http://unilever.com/aboutus/>. This includes information collected offline through our Careline and consumer call centres, direct marketing campaigns, sweepstakes and competitions, and online through our websites, branded pages on third party platforms and applications accessed or used through such websites or third party platforms which are operated by or on behalf of the Unilever Group (“ **Unilever Sites** ”).    This Privacy Policy is hereby incorporated into and forms part of the terms and conditions of use of the applicable Unilever Site.  For information about the Unilever Group company responsible for protecting your personal information, see **Your privacy rights and who to contact** below.
+This Privacy Policy applies to personal information collected by the Unilever Group of companies in connection with the services they offer. Find out more about the Unilever Group at <http://unilever.com/aboutus/>. This includes information collected offline through our Careline and consumer call centres, direct marketing campaigns, sweepstakes and competitions, and online through our websites, branded pages on third party platforms and applications accessed or used through such websites or third party platforms which are operated by or on behalf of the Unilever Group (“ **Unilever Sites** ”). This Privacy Policy is hereby incorporated into and forms part of the terms and conditions of use of the applicable Unilever Site. For information about the Unilever Group company responsible for protecting your personal information, see **Your privacy rights and who to contact** below.
 
   
 
 
 This Privacy Policy does not apply to the information practices of: 
 
-•    third party companies (including, without limitation, their websites, platforms and/or applications) which we do not own or control; or   
-•    individuals that Unilever does not manage or employ. 
+• third party companies (including, without limitation, their websites, platforms and/or applications) which we do not own or control; or   
+• individuals that Unilever does not manage or employ. 
 
 These Third Party Sites may have their own privacy policies and terms and conditions. We encourage you to read them before using those Third Party Sites. 
 
 ## Your consent
 
-Unilever will not collect, use or disclose your personal information without your consent.    In most cases, we will ask for your consent explicitly but, in some cases, we may infer consent from your actions and behaviour.  By using a Unilever Site, you are consenting to the relevant Unilever Group company collecting, using and disclosing your personal information in accordance with this Privacy Policy. 
+Unilever will not collect, use or disclose your personal information without your consent. In most cases, we will ask for your consent explicitly but, in some cases, we may infer consent from your actions and behaviour. By using a Unilever Site, you are consenting to the relevant Unilever Group company collecting, using and disclosing your personal information in accordance with this Privacy Policy. 
 
-We may ask you to provide additional consent if we need to use your personal information for purposes not covered by this Privacy Policy.  You are not obliged to provide such consent but if you decide not to then your participation in certain activities may be restricted.  If you provide additional consent, the terms of that consent shall prevail in the event of any conflict with the terms of this Privacy Policy. 
+We may ask you to provide additional consent if we need to use your personal information for purposes not covered by this Privacy Policy. You are not obliged to provide such consent but if you decide not to then your participation in certain activities may be restricted. If you provide additional consent, the terms of that consent shall prevail in the event of any conflict with the terms of this Privacy Policy. 
 
-If you do not agree to the collection, use and disclosure of your personal information in this way, please do not use the Unilever Sites or otherwise provide Unilever with personal information. 
+If you do not agree to the collection, use and disclosure of your personal information in this way, please do not use the Unilever Sites or otherwise provide Unilever with personal information. 
 
 ## Children
 
-The majority of Unilever Sites are designed and intended for use by adults.  Where a Unilever Site is intended for use by a younger audience, we will obtain consent from a parent or guardian before we collect personal information where we feel it is appropriate to do so or where it is required by applicable data protection laws and regulations (the age at which consent is necessary varies from country to country).  If you are a child over the age where parental consent is required in your country, you should review the terms of this Privacy Policy with your parent or guardian to make sure you understand and accept them. 
+[Remove Child's Info](http://www.unileverus.com/en_us/removechildinfo.aspx "Remove Child's Info")  [Update Child's Info](http://www.unileverus.com/en_us/updatechildinfo.aspx "Update Child's Info")
+
+The majority of Unilever Sites are designed and intended for use by adults. Where a Unilever Site is intended for use by a younger audience, we will obtain consent from a parent or guardian before we collect personal information where we feel it is appropriate to do so or where it is required by applicable data protection laws and regulations (the age at which consent is necessary varies from country to country). If you are a child over the age where parental consent is required in your country, you should review the terms of this Privacy Policy with your parent or guardian to make sure you understand and accept them. 
 
 If we discover that we have collected information without consent from a parent or guardian where such consent should have been obtained, we will delete that information as soon as possible. 
 
@@ -70,13 +69,13 @@ We may collect information from you directly when you provide us with personal i
     * •    credit card or other payment information
     * •    age
     * •    date of birth
-    * •    gender
-    * •    user-generated content, posts and other content you submit to Unilever Sites
-    * •    any other person information you volunarily provide to us
+    * • gender
+    * • user-generated content, posts and other content you submit to Unilever Sites
+    * • any other person information you volunarily provide to us
 
   * Information we collect automatically when you use the Unilever Sites
 
-We use cookies and other tools (such as web analytic tools and pixel tags) to automatically collect information about you when you use Unilever Sites, subject to the terms of this Privacy Policy and applicable data protection laws and regulations.  The types of information we may collect automatically include (collectively, “Site Usage Information”):
+We use cookies and other tools (such as web analytic tools and pixel tags) to automatically collect information about you when you use Unilever Sites, subject to the terms of this Privacy Policy and applicable data protection laws and regulations. The types of information we may collect automatically include (collectively, “Site Usage Information”):
 
     * •    information about the type of browser you use
     * •    details of the web pages you have viewed
@@ -87,11 +86,13 @@ We use cookies and other tools (such as web analytic tools and pixel tags) to au
 
 Most internet browsers are initially set up to accept cookies. You can change the settings to block cookies or to alert you when cookies are being sent to your device. If you use different browsers, or use multiple devices, any changes will need to be made for each browser. If you disable the cookies this may impact your experience on Unilever Sites[](http://www.unilevercookiepolicy.com/)
 
+[ ](http://www.unilevercookiepolicy.com/)[](http://www.unilevercookiepolicy.com/)[](http://www.unilevercookiepolicy.com/)
 [ ](http://www.unilevercookiepolicy.com/)
+  * [](http://www.unilevercookiepolicy.com/)[](http://www.unilevercookiepolicy.com/)
 [ ](http://www.unilevercookiepolicy.com/)
-  * [](http://www.unilevercookiepolicy.com/)Information we collect from other sources
+  * [](http://www.unilevercookiepolicy.com/)[ ](http://www.unilevercookiepolicy.com/)[](http://www.unilevercookiepolicy.com/)Information we collect from other sources
 
-We may receive personal information about you from other sources if you have given permission for that information to be shared.  This may include information from commercially available sources, such as public databases and data aggregators, and information from third parties. The types of personal information that we may collect from such sources include your:
+We may receive personal information about you from other sources if you have given permission for that information to be shared. This may include information from commercially available sources, such as public databases and data aggregators, and information from third parties. The types of personal information that we may collect from such sources include your:
 
     * •    name
     * •    street address
@@ -104,9 +105,9 @@ We may receive personal information about you from other sources if you have giv
 
 We may share Site Usage Information (as discussed above) with trusted third parties (e.g., advertisers, advertising agencies, advertising networks, data exchanges, etc.) in order to offer you tailored content, including more relevant advertising for products and services which may be of interest to you. These third parties may set and access their own cookies, clear gifs and similar tracking technologies on your device in order to help us deliver customized content and advertising to you when you visit Unilever Sites or third party sites.
 
-In the United States, we have adopted the use of the Advertising Options Icon which may appear on certain targeted advertisements that we (or a service provider acting on our behalf) send to you based on your Site Usage Information. You may click on this icon to receive more information about the collection and use of your information or to opt-out of such collection in the future. Please note that even if you opt out, you may still receive advertisements from Unilever that are not customized based on your Site Usage Information.
+In the United States, we have adopted the use of the Advertising Options Icon which may appear on the Unilever Sites and certain targeted advertisements that we (or a service provider acting on our behalf) send to you based on your Site Usage Information. You may click on this icon to receive more information about the collection and use of your information or to opt-out of such collection in the future. Please note that even if you opt out, you may still receive advertisements from Unilever that are not customized based on your Site Usage Information.
 
-You may also use the [ Network Advertising Initiative’s Opt-Out Tool](http://www.networkadvertising.org/choices/) and the [ Digital Advertising Alliance’s Opt-Out Tool](http://www.aboutads.info/choices/) each of which provides a list of those third parties that may send you targeted advertising based on your internet browsing activities and for which you can opt-out of their use of your information for that purpose.
+You may also use the [Network Advertising Initiative’s Opt-Out Tool](http://www.networkadvertising.org/choices/) and the [Digital Advertising Alliance’s Opt-Out Tool](http://www.aboutads.info/choices/) each of which provides a list of those third parties that may send you targeted advertising based on your internet browsing activities and for which you can opt-out of their use of your information for that purpose.
 
 
 
@@ -132,7 +133,7 @@ We use your personal information to:
 
     * •    suggest products or services (including those of relevant third parties) which we think may be of interest to you
     * •    offer you the opportunity to take part in competitions or promotions
-    * You can opt out of receiving communications from us at any time.  Any direct marketing communications that we send to you will provide you with the information and means necessary to opt out.   
+    * You can opt out of receiving communications from us at any time. Any direct marketing communications that we send to you will provide you with the information and means necessary to opt out.   
 
 
   * •    to provide you with products or services that you request from us. Find out more.
@@ -143,7 +144,7 @@ We may use your personal information:
     * •    to send you information, products or samples that you have requested
     * •    to respond to your queries or comments
 
-Where we collect personal information for a specific purpose, we will not keep it for longer than is necessary to fulfil that purpose, unless we have to keep it for legitimate business or legal reasons.  In order to protect information from accidental or malicious destruction, when we delete information from our services we may not immediately delete residual copies from our servers or remove information from our backup systems.   
+  * Where we collect personal information for a specific purpose, we will not keep it for longer than is necessary to fulfil that purpose, unless we have to keep it for legitimate business or legal reasons. In order to protect information from accidental or malicious destruction, when we delete information from our services we may not immediately delete residual copies from our servers or remove information from our backup systems.   
 
 
 
@@ -189,7 +190,7 @@ Unilever does not sell personal information, except to an entity to which we div
 
 ## Transferring your personal information
 
-We may transfer your personal information to servers located outside the country in which you live or to affiliates or other trusted third parties based in other countries so that they may process personal information on our behalf.  By using a Unilever Site or otherwise providing Unilever with personal information, you agree to us doing so in accordance with the terms of this Privacy Policy and applicable data protection laws and regulations. 
+We may transfer your personal information to servers located outside the country in which you live or to affiliates or other trusted third parties based in other countries so that they may process personal information on our behalf. By using a Unilever Site or otherwise providing Unilever with personal information, you agree to us doing so in accordance with the terms of this Privacy Policy and applicable data protection laws and regulations. 
 
 You should be aware that many countries do not afford the same legal protection to personal information as you might enjoy in your country of origin. While your personal information is in another country, it may be accessed by the courts, law enforcement and national security authorities in that country in accordance with its laws. Subject to such lawful access requests, we promise that anyone processing your personal information outside your country of origin is required to implement measures to protect it and is only entitled to process it in accordance with Unilever’s instructions.
 
@@ -223,4 +224,4 @@ We may change this Privacy Policy from time to time by posting the updated versi
 
 ## Other Unilever privacy policies
 
-In addition to this Privacy Policy, there may be specific campaigns or promotions which will be governed by additional privacy terms or policies. We encourage you to read these additional terms or policies before participating in any such campaigns or promotions as you will be required to comply with them if you participate. Any additional privacy terms or policies will be made prominently available to you. 
+In addition to this Privacy Policy, there may be specific campaigns or promotions which will be governed by additional privacy terms or policies. We encourage you to read these additional terms or policies before participating in any such campaigns or promotions as you will be required to comply with them if you participate. Any additional privacy terms or policies will be made prominently available to you.
