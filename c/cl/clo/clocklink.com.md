@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clocklink.com privacy policy that was archived on 2014-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140914182937id_/http%3A//www.pspinc.com/eng/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clocklink.com privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615004100id_/http%3A//www.pspinc.com/eng/page/privacy) for the most accurate reproduction.*
 
 # Seattle Domain, Web & Email Hosting : Privacy Policy
 
