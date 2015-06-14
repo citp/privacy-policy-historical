@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the beeinspiredclothing.com privacy policy that was archived on 2014-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141116170647id_/http%3A//www.beeinspiredclothing.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beeinspiredclothing.com privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615013059id_/http%3A//www.beeinspiredclothing.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Bee Inspired Clothing
 
