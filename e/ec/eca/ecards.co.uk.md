@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ecards.co.uk privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121180353id_/http%3A//www.ecards.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ecards.co.uk privacy policy that was archived on 2015-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150614040508id_/http%3A//ecards.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -10,7 +10,7 @@ eCards Media Limited will be the data controller for the purposes of the Data Pr
 
 Terms of Use 
 
-Our [Terms of Use](http://www.birthdayecards.com/termsAndConditions.php) set out some important terms that apply to your use of the eCards website at www.BirthdayeCards.com. 
+Our [Terms of Use](http://www.ecards.co.uk/termsAndConditions.php) set out some important terms that apply to your use of the eCards website at www.ecards.co.uk. 
 
 Use of information and your consent 
 
@@ -51,14 +51,14 @@ Please be aware that when you leave the Website via a link to a third party webs
 
 What we will do with your information:- 
 
-Personal information,additional information and information collected via cookies  
+Personal information,additional information and information collected via cookies   
 We use the sender's name and email address and the recipient's name and email address to send an eCard on the sender's behalf. We also use the sender's and recipient's information to notify the sender that we have sent the sender's card and that the sender's card has been read. 
 
 Both sender and recipient information will be held by us so that if either the sender or the recipient choose to send an eCard in the future then we can fill in some of your details automatically for you when you send an eCard and can allow the sender to reuse images provided by the sender in future eCards from time to time. 
 
 Any additional information you choose to give us about services,interests or lifestyle and information gathered via cookies will be used to learn about our users and improve the Website and Service we provide and advertising we show you. 
 
-Third party use of information  
+Third party use of information   
 We may pass the information you provide to us to third parties who may use this information to decide whether to advertise with us and/or ask us to contact you on their behalf and/or contact you directly with offers of products,services and information that may be of interest to you. The personal information you provide may also be used for the purposes of:identity verification,credit and risk management,revenue collection,database verification and enhancement. 
 
 We contract with a third party to deliver emails to our database of users. The third party is an accredited delivery platform which has been white listed with all major ISPs. 
@@ -68,11 +68,11 @@ At times,some information may be transferred to other countries including countr
 We may disclose your personal information in order to comply with a legal or regulatory obligation,such as a request by the police. We may also transfer your data in the event that our business (or part of it) is sold,and the purchaser needs the data to carry on providing services. 
 
 Marketing   
-We may use the information supplied by you to contact you for marketing purposes,which may include sending you messages via email You can decide to opt-out of these types of marketing messages at any time by [contacting admin at BirthdayeCard.com](http://www.birthdayecard.com/help.php?#contact) or using the unsubscribe link at the bottom of our emails. 
+We may use the information supplied by you to contact you for marketing purposes,which may include sending you messages via email You can decide to opt-out of these types of marketing messages at any time by [contacting admin at ecards.co.uk](http://www.ecards.co.uk/help.php?#contact) or using the unsubscribe link at the bottom of our emails. 
 
 Storing your information and keeping it up to date:- 
 
-Access to your information  
+Access to your information   
 When you share your personal information with eCards,you will always have access to this information. You can update,change or remove any information at any time by calling,writing,faxing or emailing us using the contact details set out below. 
 
 If you want to find out what information eCards holds about you,please write to or email us at the address given below. We may charge you a small fee for providing this information. 
@@ -83,23 +83,22 @@ We are committed to providing appropriate security controls to protect your pers
 Links to third party websites   
 On the Website we provide links to other third party websites. These third party websites are not controlled or in any way linked to eCards and this Privacy Policy does not apply to third party websites. 
 
-Want to change your details,here's how:-  
+Want to change your details,here's how:-   
 If you would like us to update your contact information,remove your name from our mailing list,or if you have any questions about eCard's Privacy Policy or your personal information,please don't hesitate to contact us. 
 
-eCards Media Limited trading as BirthdayeCard.com   
-Unit 6   
-Alverdiscott Road   
-Alverdiscott Industrial Park   
-Bideford   
-North Devon   
-EX39 4LQ 
+eCards Media Limited trading as ecards.co.uk   
+Unit 1   
+Willow Tree Court   
+Roundswell Business Park   
+Barnstaple   
+EX31 3TD 
 
 Telephone number:+44 (0) 1237 420156   
-Fax number:+44 (0)1237 470525 Email:[contacting admin at BirthdayeCard.com](http://www.birthdayecard.com/help.php?#contact)
+Fax number:+44 (0)1237 470525 Email: [contacting admin at ecards.co.uk](http://www.ecards.co.uk/help.php?#contact)
 
 eCards Media Limited is a company incorporated in England and Wales with Company number:5455777. 
 
 We will respond to your questions or concerns as quickly as possible. 
 
 General Information   
-The Terms of Use,the Privacy Policy and the Website are governed by English Law and the English courts shall have non-exclusive jurisdiction over any dispute. ****
+The Terms of Use,the Privacy Policy and the Website are governed by English Law and the English courts shall have non-exclusive jurisdiction over any dispute. 
