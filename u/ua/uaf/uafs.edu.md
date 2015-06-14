@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uafs.edu privacy policy that was archived on 2014-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141207215830id_/http%3A//uafs.edu/university/uafs-web-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uafs.edu privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615003412id_/http%3A//www.uafs.edu/university/uafs-web-privacy-policy) for the most accurate reproduction.*
 
 # UAFS Web Privacy Policy | University of Arkansas - Fort Smith | UAFS
 
@@ -78,13 +78,13 @@ Once the prospective student submits this information, they have “opted-in” 
 
 ## Third-party content
 
-Some pages within the uafortsmith.edu domain may contain content that is served from external third parties. For example, a uafortsmith.edu Web site might include a graphic logo or a script from a third party. Specifically, the following code within a uafortsmith.edu page would represent an example of third party content:
+Some pages within the uafs.edu domain may contain content that is served from external third parties. For example, a uafs.edu Web site might include a graphic logo or a script from a third party. Specifically, the following code within a uafs.edu page would represent an example of third party content:
 
 <img src="http://www.other-org.com/logo.gif" alt="Sample" />
 
-In this example, logo.gif would be third party content served from a Web server outside the uafortsmith.edu domain (www.other-org.com in this case). Third party content in uafortsmith.edu is not limited to graphics, but this is the most frequent use.
+In this example, logo.gif would be third party content served from a Web server outside the uafs.edu domain (www.other-org.com in this case). Third party content in uafs.edu is not limited to graphics, but this is the most frequent use.
 
-UAFS does not transmit any information to these third parties as part of such requests. However, when you visit uafortsmith.edu pages that contain third party content, information such as your IP address, date, browser, and requested page are transmitted from your computer to that third party. UAFS is not responsible for the privacy practices of these external third parties.
+UAFS does not transmit any information to these third parties as part of such requests. However, when you visit uafs.edu pages that contain third party content, information such as your IP address, date, browser, and requested page are transmitted from your computer to that third party. UAFS is not responsible for the privacy practices of these external third parties.
 
 ## Cookies
 
@@ -94,7 +94,7 @@ Some Web servers within UAFS may also use cookies to retain user preference info
 
 ## Security and Accuracy of Confidential Information
 
-UAFS does its best to ensure that the personal information we have about you is accurate. Users with a UAFS ID can check and update personal information such as their address and e-mail address at: http://luminis.uafortsmith.edu/cp/home/loginf.
+UAFS does its best to ensure that the personal information we have about you is accurate. Users with a UAFS ID can check and update personal information such as their address and e-mail address at: my.uafs.edu.
 
 Although no computer system is 100% secure, the UAFS has deployed extensive security measures to protect against the loss, misuse, or alteration of the information under our control. These security measures and our systems are audited by certified independent security specialists.
 
@@ -124,12 +124,12 @@ Except for educational records governed by FERPA, all information collected from
 
 ## Arkansas Freedom of Information Act
 
-The Arkansas Freedom of Information Act, with a few exceptions, gives you the right to be informed about the information that UAFS collects about you. It also gives you the right to request a copy of that information, and to have the university correct any of that information that is wrong. You may request to receive and review any of that information by contacting the university's Vice Chancellor for University Relations abreaux@uafortsmith.edu
+The Arkansas Freedom of Information Act, with a few exceptions, gives you the right to be informed about the information that UAFS collects about you. It also gives you the right to request a copy of that information, and to have the university correct any of that information that is wrong. You may request to receive and review any of that information by contacting the university's Executive Director for Government and Community Relations, [Elizabeth.Underwood@uafs.edu](mailto:Elizabeth.Underwood@uafs.edu).
 
 ## Questions
 
-If you have questions about this privacy statement or you believe that your personal information has been released without your consent send e-mail to info@uafortsmith.edu.
+If you have questions about this privacy statement or you believe that your personal information has been released without your consent send e-mail to [Elizabeth.Underwood@uafs.edu](mailto:Elizabeth.Underwood@uafs.edu).
 
 ### Authoritative Source
 
-The authoritative source on this policy and responsibility for its implementation rests with the Vice Chancellor for University Relations.
+The authoritative source on this policy and responsibility for its implementation rests with the Executive Director for Government and Community Relations.
