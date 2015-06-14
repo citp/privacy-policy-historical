@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ayondo.com privacy policy that was archived on 2014-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141207055736id_/http%3A//www.ayondo.com/en/legal/terms-and-agreements/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ayondo.com privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615014358id_/http%3A//ayondo.com/en/legal/terms-and-agreements/privacy-policy) for the most accurate reproduction.*
 
 # ayondo: Privacy Policy
 
