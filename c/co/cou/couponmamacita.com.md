@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the couponmamacita.com privacy policy that was archived on 2014-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141115161224id_/http%3A//www.couponmamacita.com/disclosureprivacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the couponmamacita.com privacy policy that was archived on 2015-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150614032845id_/http%3A//www.couponmamacita.com/disclosureprivacy-policy) for the most accurate reproduction.*
 
 # Disclosure/Privacy Policy | Coupon Mamacita | Extreme Couponing Done Right | Free Coupon Classes | Central Florida Deals | Central Florida Extreme Couponing
 
@@ -67,9 +67,9 @@ Any of the information we collect from you may be used in one of the following w
 
 
 
-**[Affiliate](http://www.couponmamacita.com/MS) Links**
+**Affiliate Links**
 
-  * Some posts may contain [Affiliate](http://www.couponmamacita.com/MS) Links. By using these links, you are helping to financially support Coupon Mamacita. 
+  * Some posts may contain Affiliate Links. By using these links, you are helping to financially support Coupon Mamacita. 
 
 
 
