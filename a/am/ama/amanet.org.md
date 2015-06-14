@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amanet.org privacy policy that was archived on 2014-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141023004726id_/http%3A//www.amanet.org/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amanet.org privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615014355id_/http%3A//www.amanet.org/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -17,7 +17,7 @@ This privacy policy (“Privacy Policy”) covers AMA’s privacy practices with
 
 By visiting this Website, and/or using the Website’s services, you agree to the terms of this Privacy Policy as they may be amended from time to time. As we update and expand our services, this Privacy Policy may change, so check back to this page from time to time. This Privacy Policy is incorporated into, and part of, the AMA Website Terms of Use, which governs your use of and access to this Website in general.
 
-Advertisements displayed to you on this Website and on other sites on the Web may be customized to your interests, based on the terms that you search for on Google and the Web pages that you visit on our Website and other Websites.  We work with Google to make this happen, and to do so Google places a cookie on your computer. We encourage you to read Google's privacy policy at [www.google.com/privacy_ads.html](http://www.google.com/privacy_ads.html) if you have any concerns about how Google will use your information.  To opt-out of this, [click here](https://tools.google.com/dlpage/gaoptout/). Unless you opt-out, you consent to the use of cookies on your computer in this way.
+Advertisements displayed to you on this Website and on other sites on the Web may be customized to your interests, based on the terms that you search for on Google and the Web pages that you visit on our Website and other Websites.  We work with Google to make this happen, and to do so Google places a cookie on your computer. We encourage you to read Google's privacy policy at [www.google.com/privacy_ads.html](http://www.google.com/privacy_ads.html) if you have any concerns about how Google will use your information.  To opt-out of this, [click here](http://www.google.com/privacy_ads.html). Unless you opt-out, you consent to the use of cookies on your computer in this way.
 
 **You may opt out of our sharing of your Personally Identifiable Information with third parties for marketing purposes, by following the directions in the Sharing Personally Identifiable Information.**
 
@@ -77,7 +77,7 @@ AMA may transfer Personally Identifiable Information to a third party in the eve
 
 A cookie is a piece of data that is stored on a visitor’s hard drive. These cookies do not identify, monitor or track any Personally Identifiable Information. AMA uses this information to analyze trends, track visitors' movements and gather broad demographic information for aggregate use. If a visitor rejects the cookie, the visitor may be limited in some areas of the Website. Most Web browsers can be set to inform you when a cookie has been sent to you and provide you with the opportunity to refuse that cookie. You should consult your Web browser to choose the appropriate setting to accept or reject cookies. 
 
-In addition, AMA uses various third party service providers and third party provided services that use cookies, including, for example, a service provided by WebSide Story, which uses sophisticated cookie technology to measure site traffic and visitor behavior in aggregate. While these cookies remain on your hard drive after the conclusion of your site visit, they do not contain or collect any Personally Identifiable Information and do not read any other information on your computer’s hard drive. To find out more, please visit the [Adobe Visual Scinces privacy policy](http://www.omniture.com/en/privacy/visualsciences?s_cid=1493).
+In addition, AMA uses various third party service providers and third party provided services that use cookies, including, for example, a service provided by WebSide Story, which uses sophisticated cookie technology to measure site traffic and visitor behavior in aggregate. While these cookies remain on your hard drive after the conclusion of your site visit, they do not contain or collect any Personally Identifiable Information and do not read any other information on your computer’s hard drive. To find out more, please visit the[Adobe Visual Scinces privacy policy](http://www.omniture.com/en/privacy/visualsciences?s_cid=1493).
 
 ## Clear GIFs
 
