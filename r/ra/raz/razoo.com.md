@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the razoo.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230194944id_/http%3A//www.razoo.com/p/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the razoo.com privacy policy that was archived on 2015-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150614041857id_/http%3A//www.razoo.com/p/privacy_policy) for the most accurate reproduction.*
 
 # The Razoo.com Privacy Policy - Razoo
 
