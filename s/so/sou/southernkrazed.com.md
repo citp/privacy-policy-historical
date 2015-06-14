@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the southernkrazed.com privacy policy that was archived on 2014-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141219092445id_/http%3A//southernkrazed.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the southernkrazed.com privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615001921id_/http%3A//southernkrazed.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Southern Krazed
 
@@ -81,10 +81,15 @@ If we decide to change our privacy policy, we will update the Privacy Policy mod
 
 This policy was last modified on 01/07/2011
 
+**Third Party Advertising**
+
+We allow third party companies to serve ads and/or collect certain anonymous information when you visit our Web site.  These companies may use non-personally identifiable information (e.g. click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you.  These companies typically use a cookie or third party web beacon to collect this information.  To learn more about this behavioural advertising practice visit the NAI at [http://www.networkadvertising.org](http://www.networkadvertising.org/).  To opt-out of this type of advertising, you can visit <http://www.aboutads.info/choices>.
+
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: [http://www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp)
+
 **Contacting Us**
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-http://southernkrazed.com
-
+http://southernkrazed.com  
 diane@southernkrazed.com
