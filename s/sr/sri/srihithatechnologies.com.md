@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the srihithatechnologies.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122201628id_/http%3A//www.srihithatechnologies.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the srihithatechnologies.com privacy policy that was archived on 2015-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150614084759id_/http%3A//www.srihithatechnologies.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
