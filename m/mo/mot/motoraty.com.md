@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the motoraty.com privacy policy that was archived on 2014-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141124174024id_/http%3A//www.motoraty.com/cars/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the motoraty.com privacy policy that was archived on 2015-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150614231725id_/http%3A//www.motoraty.com/cars/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Motoraty
 
