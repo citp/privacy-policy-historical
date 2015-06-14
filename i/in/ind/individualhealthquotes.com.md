@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the individualhealthquotes.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220183706id_/http%3A//www.individualhealthquotes.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the individualhealthquotes.com privacy policy that was archived on 2015-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150614072841id_/http%3A//www.individualhealthquotes.com/privacy.html) for the most accurate reproduction.*
 
 # Individual Health Quotes Privacy Policy - Any Quote. Anytime.
 
@@ -8,7 +8,7 @@ IndividualHealthQuotes believes it is important for you to know and understand h
 
 Please note that this privacy policy only applies to this website. Other websites in the IndividualHealthQuotes network may have different privacy policies.
 
-By accessing this website and/or using our Service, you agree to abide by this Privacy Policy and our [Terms of Use](https://web.archive.org/web/20141220183706id_/http%3A//www.individualhealthquotes.com/terms.html).
+By accessing this website and/or using our Service, you agree to abide by this Privacy Policy and our [Terms of Use](https://web.archive.org/web/20150614072841id_/http%3A//www.individualhealthquotes.com/terms.html).
 
 ### Services Offered By IndividualHealthQuotes
 
