@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iafrica.com privacy policy that was archived on 2014-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141228084436id_/http%3A//www.iafrica.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iafrica.com privacy policy that was archived on 2015-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150614034144id_/http%3A//www.iafrica.com/about/privacy) for the most accurate reproduction.*
 
 # iafrica.com
 
@@ -32,16 +32,16 @@ This privacy statement applies specifically to the iafrica.com service. Question
 
 
 
-A flight from Indonesia to Singapore has lost contact with air traffic control over the sea, leading experts to send out a rescue mission.
+The ANC has defended Winnie Madikizela-Mandela's absence from Parliament following a report that she had not been seen in Parliament for a while.
 
-[Read more ›](https://web.archive.org/articles/976366.html)
+[Read more ›](https://web.archive.org/articles/996353.html)
 
-Government will work towards implementing the National Development Plan (NDP) in 2015, Deputy President Cyril Ramaphosa said.
+With the shortage of property in the market at the moment, many homeowners may be tempted to sell and take advantage of the current conditions. But should they?
 
-[Read more ›](https://web.archive.org/articles/976269.html)
+[Read more ›](https://web.archive.org/articles/996258.html)
 
-Faf du Plessis completed his fourth Test century and was dismissed immediately afterwards on a rain-hit second day of the second Test.
+The Cheetahs outplayed the Bulls in a high-scoring affair at Loftus Versfeld on Saturday.
 
-[Read more ›](https://web.archive.org/articles/976348.html)
+[Read more ›](https://web.archive.org/articles/996389.html)
 
 ### Subscribe to our Newsletters
