@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the coralcast.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701093142id_/http%3A//www.coralcast.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coralcast.com privacy policy that was archived on 2015-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150614045144id_/http%3A//www.coralcast.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy | Coral Cast Architectural Stone | 516-349-1300
+# Privacy Policy | Coral Cast Architectural Stone
 
 **What information do we collect?**
 
