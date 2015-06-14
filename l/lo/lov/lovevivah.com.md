@@ -1,10 +1,14 @@
-> *The following text is extracted and transformed from the lovevivah.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122123754id_/http%3A//www.lovevivah.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lovevivah.com privacy policy that was archived on 2015-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150614144134id_/http%3A//www.lovevivah.com/privacy-policy) for the most accurate reproduction.*
 
 # Matrimonial Privacy Policy on Lovevivah.com
 
 Loading..
 
 [ ](http://www.lovevivah.com/)
+
+[ ](http://www.lovevivah.com/mo_common_controller/app_scrn)
+
+[](http://www.lovevivah.com/login_controller/login)
 
 Please read below
 
