@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xsellco.com privacy policy that was archived on 2014-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140922110420id_/http%3A//www.xsellco.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xsellco.com privacy policy that was archived on 2015-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150614022059id_/http%3A//www.xsellco.com/privacy) for the most accurate reproduction.*
 
 # XSellco privacy policy | XSellco
 
