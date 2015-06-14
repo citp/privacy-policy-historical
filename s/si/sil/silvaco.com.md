@@ -1,6 +1,9 @@
-> *The following text is extracted and transformed from the silvaco.com privacy policy that was archived on 2011-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111217005332id_/http%3A//www.silvaco.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the silvaco.com privacy policy that was archived on 2015-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150614031555id_/http%3A//www.silvaco.com/privacy.html) for the most accurate reproduction.*
 
 # SILVACO - Privacy Statement
+
+  
+
 
 Silvaco respects your privacy while you are visiting www.silvaco.com and recognizes your need to protect your personal information. On those occasions when we request certain personal information from you, such as your name, mailing address, job title or e-mail address, you may choose whether to provide it. In some cases, without such personal information we won't be able to provide certain information or services. Silvaco asks that you not provide us with any personal information if you are younger than 18 years of age.
 
