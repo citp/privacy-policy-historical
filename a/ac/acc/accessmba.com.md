@@ -1,59 +1,23 @@
-> *The following text is extracted and transformed from the accessmba.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101203432id_/http%3A//www.accessmba.com/menu-footer/private-policy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the accessmba.com privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615013525id_/http%3A//www.accessmba.com/%3Fid%3D4155) for the most accurate reproduction.*
 
-# Private Policy
+# Privacy
 
-### Information Collection & Use
+We understand the importance of privacy to the users of the Websites. When using personally identifiable information Advent Group strictly complies with the applicable data privacy legislation and is committed to observing strict data privacy standards and safeguarding your privacy online. The data controller with respect to the Websites is ATENDIA Ltd., a limited liability company incorporated under Bulgarian law including its subsidiaries and affiliates (together referred to as “Advent Group”, “we” or “us”), registered with the Bulgarian Commercial Register under no. 200967502, with a seat and business address at 20 Serdika Str, Sofia 1000, Bulgaria.
 
-##### Registration
+We collect and processes your personal data to facilitate your use of the Websites and their full functionalities, as well as to provide you the Services. In particular, we collect your personal data such as but not only full name, address, email address, telephone number, education, pace of work, professional experience, education- and/or job- related preferences. You voluntarily register on the Websites, thus providing us with your personal data, to avail yourself of the full functionalities of the Websites and to be provided with Services, the provision of which requires prior registration. If you do not wish to provide us your personal data, don’t register on the Websites and don’t use the Websites.
 
-To register for an Access MBA event, you must first complete the registration form.  During registration you are required to give contact information as well as personal and professional details about yourself. We use this information to contact you for event information and for personalized services such as meeting scheduling.
+We may provide your personal data only to trusted partners, for the purpose of facilitating your use of the Website and/or for provision of the Services. Some of our partners are located on the territory of the EU/EEU, thus, we may transfer your personal data to countries from the EU/EEA. If a partner is located outside of the territory of the EU/EEA, we may transfer your data also to such third countries, subject to compliance with all applicable data protection rules.
 
-Advent Group is the sole owner of the information collected on [www.accessmba.com](http://www.accessmba.com/). Advent Group collects personally identifiable information from our users when they register for the Access MBA Tour.
+We may also use your data for direct marketing purposes on our behalf or on behalf of any of our partners. By registering on the Websites, you agree among others to the use of your personal data for direct marketing purposes. If at any point of time, including when registering on the Websites you disagree with the use of your personal data direct marketing purposes, please send an email to [webmaster@accessmba.com](mailto:webmaster@accessmba.com) or click the “Unsubscribe” button at the bottom of the message you have received from us.
 
-### Communications from the Site
+In accordance with the applicable data privacy legislation, you have the right to access to your personal data and to request its correction.
 
-We will send registered users information about the Access MBA Tour via email. During your registration for the Tour, you can request to be telephoned by our staff for meeting scheduling.  
+For any queries you may have on our processing of your personal data, please contact [webmaster@accessmba.com](mailto:webmaster@accessmba.com). 
 
-Out of respect for your privacy, we present the option not to receive these types of communications.  Please see the “Choice and Opt-out.” 
+Cookies are small files a website or its service provider transfers to your device through your web browser that enables the website or service providers systems to recognize your browser and capture and remember certain information on your internet uses, preferences, etc.
 
-##### Newsletters
+We use cookies to understand and save your preferences for future visits and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
 
-If you wish to subscribe to our newsletter(s), we will use your name and email address to send the newsletter to you.  Out of respect for your privacy, we provide you a way to unsubscribe.  Please see the “Choice and Opt-out” section.
+If you prefer, you can choose to have your device warn you each time a cookie is being sent, or you can choose to turn off all cookies via your browser settings. Like most websites, if you turn your cookies off, some of our Services may not function properly. 
 
-##### Service-related Announcements
-
-We will send you event-related announcements in the weeks preceding each Access MBA event. 
-
-Generally, you may not opt-out of these communications, which are not promotional in nature.  If you do not wish to receive them, you have the option to deactivate your account. Please see “Choice and Opt-out.”
-
-##### Customer Service
-
-Based upon the personally identifiable information you provide us, we will send you a welcoming email to confirm your registration.  We will also communicate with you in response to your inquiries and to provide the services you request. We will communicate with you by email or telephone, in accordance with your wishes.
-
-##### Profile
-
-We store information that we collect through cookies, log files, clear gifs, [and/or third party sources] to create a “profile” of your preferences.  We tie your personally identifiable information to information in the profile in order to provide tailored services. 
-
-We may share your profile with our clients and partners. Out of respect for your privacy, we provide you a way to restrict the transmission of this information.  Please see the “Choice and Opt-out” section.
-
-##### Legal Disclaimer
-
-We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order, or legal process served on our Web site.
-
-### Choice/Opt-out
-
-We provide you the opportunity to ‘opt-out’ of having your personally identifiable information used for certain purposes, when we ask for this information on our Registration Form.
-
-If you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter or communication or by emailing us at [webmaster@accessmba.com](mailto:webmaster@accessmba.com). 
-
-### Links to Other Sites
-
-This Web site contains links to other sites that are not owned or controlled by Advent Group. Please be aware that we, Advent Group, are not responsible for the privacy practices of such other sites. 
-
-We encourage you to be aware when you leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information. 
-
-This privacy statement applies only to information collected by this Web site. 
-
-### Contact Us
-
-If you have any questions or suggestions regarding our privacy policy, please contact us at: tel. +33 1 43 41 52 38 or [webmaster@accessmba.com](mailto:webmaster@accessmba.com)
+You can control and/or delete cookies as per your preferences - for details, see [www.aboutcookies.org](http://www.aboutcookies.org/).    
