@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the diydoctor.org.uk privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702221744id_/http%3A//www.diydoctor.org.uk/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the diydoctor.org.uk privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615012025id_/http%3A//www.diydoctor.org.uk/privacypolicy.htm) for the most accurate reproduction.*
 
 # DIY Doctor Privacy Policy
 
