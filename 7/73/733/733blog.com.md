@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 733blog.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121172900id_/http%3A//733blog.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 733blog.com privacy policy that was archived on 2015-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150614084550id_/http%3A//www.733blog.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - seven thirty three
 
