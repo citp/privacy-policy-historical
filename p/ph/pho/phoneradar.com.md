@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the phoneradar.com privacy policy that was archived on 2014-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141107010758id_/http%3A//phoneradar.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phoneradar.com privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615004322id_/http%3A//phoneradar.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy » PhoneRadar
+
+Share
 
 [](http://i2.wp.com/phoneradar.com/wp-content/uploads/2014/05/Phoneradar-Privacy-Policy.png)PhoneRadar takes the privacy issues seriously, and the privacy of our visitors is very important to us. PhoneRadar is backed by Digital World Solutions, a company that owns a network of websites. We (PhoneRadar) do not use personal information of the users for any purpose, other than for the newsletters that we send, only if the user chooses to receive them.
 
