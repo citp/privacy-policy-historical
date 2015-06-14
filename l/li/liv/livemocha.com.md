@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the livemocha.com privacy policy that was archived on 2014-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141205042818id_/http%3A//livemocha.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livemocha.com privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615010749id_/http%3A//livemocha.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Livemocha
 
-Welcome to Livemocha.com (the “Site”), an online service designed to provide language learning content, language learning curriculum, and to facilitate language exchanges and foreign language practice. Livemocha.com is owned and operated by Livemocha, Inc. (“Livemocha,” “we,” or “us”). This privacy policy explains our data collection, use, and disclosure practices with respect to information collected on the Site. If you have questions about these practices, please contact us by email at support@livemocha.com.
+Welcome to Livemocha.com (the “Site”), an online service designed to provide language learning content, language learning curriculum, and to facilitate language exchanges and foreign language practice. Livemocha.com is owned and operated by Livemocha, Inc. (“Livemocha,” “we,” or “us”). This privacy policy explains our data collection, use, and disclosure practices with respect to information collected on the Site. If you have questions about these practices, please contact us by email at privacyofficer@rosettastone.com.
 
 ## 1\. Information Collected
 
@@ -56,13 +56,13 @@ If you elect to let Livemocha suggest language partners, we will display a list 
 
 ## 6\. Access to Personal Information
 
-You may access and update many categories of personal information we maintain about you by updating your profile information while logged in to the Site. You may request that LIVEMOCHA, INC update or make changes to personal information that we have collected on the Site by sending an email to support@livemocha.com. We may require a user who seeks to make updates or changes to personal information to take steps to allow us to verify his or her identity.
+You may access and update many categories of personal information we maintain about you by updating your profile information while logged in to the Site. You may request that LIVEMOCHA, INC update or make changes to personal information that we have collected on the Site by sending an email to privacyofficer@rosettastone.com. We may require a user who seeks to make updates or changes to personal information to take steps to allow us to verify his or her identity.
 
 ## 7\. Your Choices With Respect to the Collection and Use of Personal Information
 
 (a) As noted above, you can choose not to provide us with personal information, although it may be needed to register as a member on the Site and to participate in certain features offered through the Site.
 
-(b) You may stop the delivery of email communications by making the appropriate election while logged into the Site, following the instructions accompanying a particular communication, or by contacting us at support@livemocha.com.
+(b) You may stop the delivery of email communications by making the appropriate election while logged into the Site, following the instructions accompanying a particular communication, or by contacting us at privacyofficer@rosettastone.com.
 
 ## 8\. Security
 
@@ -70,7 +70,7 @@ While no web site can guarantee security, we have implemented administrative, te
 
 ## 9\. Children Under 13
 
-The Site may only be used by children under 13 with the written authorization provided by the school or other educational organization registering the child. We do not permit self-registration by children under 13. We do not authorize disclosure of personally identifiable information by any child under 13. If you believe that any personally identifiable information from or about a child under 13 is displayed in a member profile on the Site, please contact us at support@livemocha.com. We will immediately investigate and delete any personally identifiable information about a child under 13 and inform the school or educational organization of the change.
+The Site may only be used by children under 13 with the written authorization provided by the school or other educational organization registering the child. We do not permit self-registration by children under 13. We do not authorize disclosure of personally identifiable information by any child under 13. If you believe that any personally identifiable information from or about a child under 13 is displayed in a member profile on the Site, please contact us at privacyofficer@rosettastone.com. We will immediately investigate and delete any personally identifiable information about a child under 13 and inform the school or educational organization of the change.
 
 ## 10\. Third Party Websites and Services
 
@@ -90,7 +90,7 @@ We may update this Privacy Policy in the future to reflect changes in our privac
 
 ## 13\. How You Can Contact Us
 
-If you have questions about this privacy policy, email us at support@livemocha.com, or write to us at:
+If you have questions about this privacy policy, email us at privacyofficer@rosettastone.com, or write to us at:
 
 Livemocha, Inc. – Privacy Officer  
 1011 Western Ave.  
