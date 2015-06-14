@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the acer.edu.au privacy policy that was archived on 2014-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141110162154id_/http%3A//www.acer.edu.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acer.edu.au privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615002421id_/http%3A//www.acer.edu.au/privacy) for the most accurate reproduction.*
 
-# ACER
+# Privacy Policies and Legal Disclaimers | ACER
 
 ## ACER and your personal information
 
@@ -34,7 +34,7 @@ You can navigate separate sections of this Privacy Policy through the links belo
 
 11.       How can you seek further information or complain about a breach of your privacy?
 
- **What kinds of personal information do we collect and how?**
+**What kinds of personal information do we collect and how?**
 
 The personal information we collect depends on your relationship with us – whether you are a client, a candidate or a prospective employee – and the product or service we are delivering.  It may include:
 
@@ -51,19 +51,19 @@ Sometimes we may also collect sensitive information about you.  This may happen
 
 By supplying sensitive information about yourself or on behalf of your child, you will be taken to have given your consent to our collection of that information.  When we obtain such information from a third party (such as through a school or institution at which you or your child studies), we will usually enlist that third party to obtain consent from you if that is required.
 
- **What is our approach to collecting personal information about children?**
+**What is our approach to collecting personal information about children?**
 
 We collect information about children who, for example, sit assessments at schools to whom we provide our services, participate in our surveys or participate in other research projects.  Whether a child has the capacity to make his or her own privacy decisions is assessed by us on a case by case basis, having regard to factors such as their age and circumstances.  In general, a person over 15 years will have the capacity to make his or her own privacy decisions.
 
 For children who are under 15 years old, or who otherwise do not have capacity to make these decisions for themselves, or where we cannot make an assessment of their capacity, ACER will refer or deal with requests for access, consent and notices in relation to personal information to the parent and/or guardian or relevant school or institution.  We will treat consent given by a parent and/or guardian as consent given on behalf of the child, and notices to the relevant school or other institution or parent and/or guardian will act as notice given to the child.
 
- **When do we collect your personal information?**
+**When do we collect your personal information?**
 
 We may collect your personal information when you contact us, purchase or use our products or services (including when you sit a test or participate in a survey or other research), register with us online, participate in our online discussion boards or enter our competitions, contribute to one of our social media pages (such as Twitter, LinkedIn, Vimeo and Facebook), attend an ACER event, apply for a job with us, provide services to us or make a donation through the ACER Foundation.
 
 Given the nature of our products and services, we often collect personal information about you from third parties, such as the school or educational institution that you (or your child) attends.  We may also collect information through secure web based application systems if you do certain assessments, and from other third parties where you have agreed with them that your information may be disclosed.
 
- **Why do we collect the information and how do we use or disclose it?**
+**Why do we collect the information and how do we use or disclose it?**
 
 We collect, hold, use and disclose your personal information:
 
@@ -79,15 +79,15 @@ We collect, hold, use and disclose your personal information:
 
 
 
- **Can you choose to remain anonymous?**
+**Can you choose to remain anonymous?**
 
 You may elect not to identify yourself or you may use a pseudonym in your dealings with us, except where it is impracticable for us to deal with you on this basis (for example, we will need to identify you in order to provide most of our products and services).  You can always choose not to give us your information or remain anonymous, but if you do we may not be able to provide you (or our client) with the products and services that you (or they) have asked for.
 
- **How can you request not to receive direct marketing?      **
+**How can you request not to receive direct marketing?      **
 
 You may ask us at any time to stop sending you direct marketing information or to stop being contacted by or on our behalf, in a particular way or at all.  You can do this by calling us on  +61 3 9277 5555 or by contacting us via our website at <http://www.acer.edu.au/contact>.  
 
- **Who do we disclose your personal information to?**
+**Who do we disclose your personal information to?**
 
 We may disclose your personal information (including, in certain limited circumstances, your sensitive information):
 
@@ -101,7 +101,7 @@ We may disclose your personal information (including, in certain limited circums
 
 When you enter into a competition we are running or participate in a sponsored event, we may seek, as a condition of entry, consent to pass your information to a promoter or sponsor of the competition or event.  If we do this, we will notify you at the time of entering into the competition or event with us.
 
- **Do we disclose your information overseas?**
+**Do we disclose your information overseas?**
 
 We may disclose your personal information:
 
@@ -110,7 +110,7 @@ We may disclose your personal information:
 
 
 
- **How do we hold your personal information and keep it secure?**
+**How do we hold your personal information and keep it secure?**
 
 We hold your personal information in a combination of electronic and hard copy files.  We may store your personal information with one or more third party data storage providers. 
 
@@ -120,7 +120,7 @@ We take all reasonable steps to ensure that the personal information we hold is 
 
 Please contact us immediately if you become aware or have reason to believe there has been any unauthorised use of your personal information that we hold.
 
- **How can you seek access to, and correction of your information?**
+**How can you seek access to, and correction of your information?**
 
 You may request access to your personal information by writing to us or contacting us at any time at the details below.  We will need to verify your identity before we can give you access.  We will promptly acknowledge receipt, and we will endeavour to deal with and respond to your request within a reasonable time (usually within two weeks). 
 
@@ -132,7 +132,7 @@ You will not be charged for making a request for your personal information.  Ho
 
 If you think that any personal information we hold about you is inaccurate, incomplete, out-of-date or irrelevant, you may ask us to correct it.  We will take reasonable steps to correct it unless we disagree with your reasons.  If we refuse to correct your personal information we will give you a written explanation why.
 
- **How can you seek further information or complain about a breach of your privacy?**
+**How can you seek further information or complain about a breach of your privacy?**
 
 If you have any questions about this Privacy Policy or consider that we have breached your privacy, you can contact us at:
 
