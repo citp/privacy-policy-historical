@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teachmeanatomy.info privacy policy that was archived on 2014-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141125014927id_/http%3A//teachmeanatomy.info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teachmeanatomy.info privacy policy that was archived on 2015-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150614085032id_/http%3A//teachmeanatomy.info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - TeachMeAnatomy
 
