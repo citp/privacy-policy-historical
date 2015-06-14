@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sse.co.uk privacy policy that was archived on 2014-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141209202335id_/http%3A//www.sse.co.uk/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sse.co.uk privacy policy that was archived on 2015-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150614070018id_/http%3A//www.sse.co.uk/PrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy - SSE
 
@@ -29,3 +29,6 @@ By submitting your information, you consent to the use of that information as se
 
 7. Access to information  
 You have the right under the Data Protection Act 1998 to access the information we hold on you. You may submit a request to us in writing accompanied with the applicable £10 fee.
+
+_Privacy policy last updated: January 2014_  
+
