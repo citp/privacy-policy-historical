@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the onelegal.com privacy policy that was archived on 2013-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131030101018id_/https%3A//www.onelegal.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onelegal.com privacy policy that was archived on 2015-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150614031124id_/https%3A//www.onelegal.com/Privacy.aspx) for the most accurate reproduction.*
 
-# Legal Services & Process Server Leader One Legal Privacy Policy
+# Privacy policy » One Legal
 
 One Legal knows that your privacy is both an important and sensitive subject. As such, safeguarding your privacy has always been, and continues to be, one of our highest priorities, whether the information is gathered in person, over the telephone, through our facsimile machines or via our web site. We have never shared your personal information with third parties, and have no plans to do so, except (1) if you request it, (2) to complete a transaction initiated by you (which may sometimes include disclosure to a credit card bureau), or (3) if we are required or allowed by the law, such as to respond to a subpoena or to investigate fraudulent activity. To further protect your confidentiality, we require any organizations to which we provide data to have similar privacy safeguards and contractually only allow them to use our customers information for the intended service. You do not have to ask for this confidentiality, it is our standard practice.
 
@@ -14,7 +14,7 @@ At One Legal, we have taken practical security measures to ensure that your info
 
 As One Legal creates new services that may generate a need to amend this privacy statement, we will post such changes on the top of this page.
 
-If you have any concerns about this statement, or with One Legal's privacy practices, please e-mail us at [support@onelegal.com](mailto:support@onelegal.com). We can also be reached by telephone at 800-938-8815, or by postal mail at:
+If you have any concerns about this statement, or with One Legal’s privacy practices, please e-mail us at [ **support@onelegal.com**](mailto:support@onelegal.com). We can also be reached by telephone at 800-938-8815, or by postal mail at:
 
 **One Legal LLC**  
 504 Redwood Blvd., Suite 223  
