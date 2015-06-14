@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the crispme.com privacy policy that was archived on 2014-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141225003601id_/http%3A//crispme.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crispme.com privacy policy that was archived on 2015-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150614023613id_/http%3A//crispme.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | CrispMe
 
 _Last updated on 5th Dec 2012_
 
-CrispMe (crispme.com) is an online service run by Sheau Jye Eng. CrispMe is a service to promote and inspire artists.
+CrispMe (crispme.com) is an online service run by Matt Wiley. CrispMe is a service to promote and inspire artists.
 
 ## What is this Privacy Policy for?
 
