@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the farmers.com privacy policy that was archived on 2014-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141209044824id_/http%3A//www.farmers.com/disclaimer/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the farmers.com privacy policy that was archived on 2015-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150614141325id_/http%3A//www.farmers.com/disclaimer/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Farmers Insurance
 
@@ -93,7 +93,7 @@ The above is a list of the affiliates on whose behalf this privacy notice is bei
 
 **General Statement**
 
-Farmers’ policy is to protect the confidentiality of the individually identifiable information that you provide, and to limit access to that information only to those with a need to know. Farmers may collect your name, address, phone number and e-mail address at this site. We will use this information to provide you information you request, to refer you to a Farmers agent, to refer you to a third party service provider or to comply with a legal requirement.  **When you encounter a screen in this site that asks for information you do not want us to have or use, you should not proceed further with that screen.**
+Farmers’ policy is to protect the confidentiality of the individually identifiable information that you provide, and to limit access to that information only to those with a need to know. Farmers may collect your name, address, phone number and e-mail address at this site. We will use this information to provide you information you request, to refer you to a Farmers agent, to refer you to a third party service provider or to comply with a legal requirement. **When you encounter a screen in this site that asks for information you do not want us to have or use, you should not proceed further with that screen.**
 
 **Hyperlinks**
 
@@ -134,3 +134,18 @@ We also recommend you read the section called Legal Disclaimer. The Legal Discla
 Farmers makes no active effort to collect personal information from children and does not wish to receive any such information.
 
 Effective Date: December 20, 2013
+
+**Confidentiality of Information for Domestic Violence Victims and Endangered Individuals**
+
+New York Insurance Law provides that if any person covered by an insurance policy delivers to the insurer a valid order of protection against another policyholder or other person covered by the policy requesting that their information be kept confidential then the insurer is prohibited for the duration of that order from disclosing to that policyholder or other person the address and telephone number of the victim, or of any person or entity providing covered services to the victim. If a child is a covered person, then the right may be asserted by the child’s parent or guardian.
+
+The request should be made by faxing a copy of the order of protection to 866-581-1410, attention Triage Team. If you are unable to fax a copy of the order, please email the request to serviceoperations@farmersinsurance.com or mail it to us at 15700 Long Vista Drive, Texas 78728 – Attention: Triage Team.
+
+Once a valid request has been received and implemented, a requestor may only revoke the prior request by submitting to us a written sworn statement revoking the request.
+
+For additional assistance, please contact the New York State Domestic and Sexual Violence Hotline:
+
+NYS Domestic and Sexual Violence Hotline: 1-800-942-6906  
+Spanish Language: 1-800-942-6908  
+In NYC: 1-800-621-HOPE (4673) or dial 311  
+TTY: 1-866-604-5350
