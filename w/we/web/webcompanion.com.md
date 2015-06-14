@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webcompanion.com privacy policy that was archived on 2014-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141228212158id_/http%3A//webcompanion.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webcompanion.com privacy policy that was archived on 2015-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150614053316id_/http%3A//www.webcompanion.com/privacy) for the most accurate reproduction.*
 
 # Ad-Aware Web Companion
 
@@ -151,4 +151,4 @@ This Privacy Policy will be updated by Lavasoft on a regular basis. We therefore
 
 If You have any questions about this Privacy Policy , don't hesitate to [contact us](http://www.lavasoft.com/mylavasoft/company/contact).
 
-Last updated: Spetember 03, 2014.
+Last updated: September 03, 2014.
