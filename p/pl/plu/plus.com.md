@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the plus.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626015025id_/http%3A//www.plus.net/support/service/policies/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plus.com privacy policy that was archived on 2015-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150614020614id_/https%3A//www.plus.net/support/service/policies/privacy.shtml) for the most accurate reproduction.*
 
 # Plusnet Policies
 
 ### 1\. Who are we?
 
-Plusnet plc is a public limited telecommunications company based in Sheffield, providing fixed line phone, broadband and fibre optic broadband solutions to consumers and businesses across the UK. Plusnet has been offering communication services for over 15 years - becoming a subsidiary of the BT Group in 2007. Plusnet focuses on providing great value and reliable services to its customers, and award-winning customer service at competitive prices. In April 2013 Plusnet received a fourth consecutive recommendation for its products and customer service from the independent consumer body, Which?
+Plusnet plc is a public limited telecommunications company based in Sheffield and Leeds, providing fixed line phone, broadband, fibre optic broadband solutions and YouView TV from Plusnet to consumers and providing fixed line phone, broadband and fibre optic broadband solutions to businesses across the UK. Plusnet has been offering communication services for over 15 years - becoming a subsidiary of the BT Group in 2007. Plusnet focuses on providing great value and reliable services to its customers, and award-winning customer service at competitive prices.
 
 When we refer to "we" or "our" or "Plusnet" we are referring to Plusnet plc. When we refer to "BT" we are referring to BT Group plc (which includes British Telecommunications plc) and its subsidiaries, or any of them, as the context requires.
 
@@ -31,13 +31,13 @@ When you call us to enquire about our services:
 
   * We'll ask you for your name, address, phone number and email address, so that we can check what services we can provide you with and discuss the options with you.
   * We'll use your contact information to send you information about the available options. We'll only do this if you have agreed, and we won't retain your information otherwise.
-  * We’ll sometimes monitor and record calls made to our call centres about sales enquiries and calls made to you regarding your enquiry in accordance with relevant legal requirements and as part of our staff training.
+  * We'll sometimes monitor and record calls made to our call centres about sales enquiries and calls made to you regarding your enquiry in accordance with relevant legal requirements and as part of our staff training.
 
 
 
 When you sign up for a Plusnet account:
 
-  * We'll ask you for your name, address, phone number, email address, and mobile number so that we can provide you with the services you have asked for and contact you if we need to about those services or any others we think may be of interest to you.
+  * We'll ask you for your name, address, phone number, email address, and mobile number, as well as information about your YouView set top box, devices (such as mobiles, ipads etc, that are connected to your YouView account) and TV viewing cards so that we can provide you with the services you have asked for and contact you if we need to about those services or any others we think may be of interest to you.
   * We'll ask you for your debit and / or credit card information to enable us to process your payments.
 
 
@@ -54,7 +54,15 @@ We subscribe to email and direct mail lists provided by third parties and use th
 
 When we carry out a marketing campaign, we record contact outcomes, such as if you ask for us to not contact you again.
 
-We also record and retain information about the calls you make and the websites you visit for traffic management. For more information about our traffic management see [http://www.plus.net/support/broadband/speed_guide/traffic_management.shtml](https://web.archive.org/support/broadband/speed_guide/traffic_management.shtml)
+We record and retain information about the calls you make and the websites you visit for traffic management. For more information about our traffic management see [http://www.plus.net/support/broadband/speed_guide/traffic_management.shtml](https://web.archive.org/support/broadband/speed_guide/traffic_management.shtml)
+
+When you subscribe to YouView TV from Plusnet we may take details of the devices you use to connect to the service, channels and programmes you watch, adverts and services you access - for example how you view, record or fast forward them - so that we can provide you with personalised services. Those services could be things like viewing recommendations and tailored advertising. If you opt out of personal recommendations, you may still get general content recommendations and adverts.
+
+We may also take steps in our network to protect you from threats from malicious domains which may attempt to infect your machine with malware associated with criminal threats. For more information please refer to our [Terms and Conditions](https://web.archive.org/terms).
+
+As part of the Plusnet SafeGuard service, we will capture and store information about whether or not you have activated the service and the settings that you have selected. This is essential for the provision of the service.
+
+We do not record details of your individual internet activity with Plusnet SafeGuard or any specific websites that might be blocked by this service. We may record anonymous and aggregated information about the websites that are blocked by Plusnet SafeGuard as a whole, for the purposes of monitoring any problems or faults with the service.
 
 [Top]
 
@@ -87,6 +95,8 @@ We'll use your personal information:
   * To comply with our legal and regulatory obligations in connection with the provision of those services.
   * To check or confirm your identity if you call us, particularly about changes to your service or requests for billing information.
   * To carry out market research and analysis on our products and services and future developments. When we do this we'll make sure that you can't be identified. We may give the information, again making sure that you can't be identified, to certain other people or organisations.
+  * To provide you with personalised services, including but not limited to viewing recommendations and tailored advertising.
+  * To test our software services in pre-production environments.
 
 
 
@@ -113,7 +123,7 @@ We also provide information when we have to do so by law (for example, under a c
 
 ### 8\. How long do we keep your personal information for?
 
-How long we keep personal information depends on how we use that information. In some cases, by law we must keep information for a minimum period. Unless the law says otherwise, we'll keep information no longer than we need to for the purposes we collected it. You can find more details about our Data Retention Policy [here](https://web.archive.org/support/service/policies/data_retention_policy.shtml). We keep this policy under regular review, and any updates we make will be placed on the [Data Retention Schedule](https://web.archive.org/support/service/policies/data_retention_schedule.shtml#CIRS).
+How long we keep personal information depends on how we use that information. In some cases, by law we must keep information for a minimum period. Unless the law says otherwise, we'll keep information no longer than we need to for the purposes we collected it.
 
 [Top]
 
@@ -133,7 +143,7 @@ Our site may, from time to time, contain links to and from the websites of our p
 
 ### 10\. Changes to your privacy policy
 
-We keep our Privacy Policy under regular review and will place any updates on this webpage. This policy was last updated on 31st July 2013.
+We keep our Privacy Policy under regular review and will place any updates on this webpage. This policy was last updated on 5th May 2015.
 
 [Top]
 
