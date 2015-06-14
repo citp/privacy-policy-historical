@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xpn.org privacy policy that was archived on 2014-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140704184452id_/http%3A//www.xpn.org/inside-xpn/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xpn.org privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615012027id_/http%3A//www.xpn.org/about-xpn/privacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -18,6 +18,6 @@ Finally, XPN does track general information about people visiting our site and o
 
 ### Opt Out
 
-But you are the boss. If you don't want us to share your name and address with third parties not doing work on our behalf - done. Don't want us to contact you (as sad as that would make us)? - done. [Just drop us a quick email here](mailto:xpn885@xpn.org). If you have any questions or concerns about your privacy, please feel free to [send an email to the WXPN Online Dept](mailto:online@xpn.org). 
+But you are the boss. If you don't want us to share your name and address with third parties not doing work on our behalf - done. Don't want us to contact you (as sad as that would make us)? - done. {emailcloak=off}[Just drop us a quick email here](mailto:xpn885@xpn.org). If you have any questions or concerns about your privacy, please feel free to [send an email to the WXPN Online Dept](mailto:online@xpn.org). 
 
 Any content that you submit to us, must follow the University of Pennsylvania's policy on Copywrite Infringement located [here](http://www.upenn.edu/computing/security/reporting_copyright.php). 
