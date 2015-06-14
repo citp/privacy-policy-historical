@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indiabook.com privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123063859id_/http%3A//www.indiabook.com/temp/disclaimer.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indiabook.com privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615002250id_/http%3A//www.indiabook.com/temp/disclaimer.html) for the most accurate reproduction.*
 
 # Indiabook - Disclaimer - Privacy Policy
 
@@ -15,17 +15,17 @@ Browse Resources
 ---  
 | ****  
 ---|---  
-| **»»[Women World](https://web.archive.org/web/20141123063859id_/http%3A//www.indiabook.com/women/)**  
+| **»»[Women World](https://web.archive.org/web/20150615002250id_/http%3A//www.indiabook.com/women/)**  
   
-| **»»[Travel](https://web.archive.org/web/20141123063859id_/http%3A//www.indiabook.com/travel/)**  
-| **»»[Kids](https://web.archive.org/web/20141123063859id_/http%3A//www.indiabook.com/kids/)**  
-| **»»[Health](https://web.archive.org/web/20141123063859id_/http%3A//www.indiabook.com/health/)**  
-| **»»[Dating](https://web.archive.org/web/20141123063859id_/http%3A//www.indiabook.com/dating/)**  
-| **»»[Matrimonials](https://web.archive.org/web/20141123063859id_/http%3A//www.indiabook.com/matrimonial/)**  
-| **»»[Home Pages](https://web.archive.org/web/20141123063859id_/http%3A//www.indiabook.com/homepages/)**  
-| **»»[Greetings](https://web.archive.org/web/20141123063859id_/http%3A//www.indiabook.com/greetings/)**  
-| **»»[Web Master](https://web.archive.org/web/20141123063859id_/http%3A//www.indiabook.com/webmaster/)**  
-| **»»[Shopping](https://web.archive.org/web/20141123063859id_/http%3A//www.indiabook.com/shopping/)**  
+| **»»[Travel](https://web.archive.org/web/20150615002250id_/http%3A//www.indiabook.com/travel/)**  
+| **»»[Kids](https://web.archive.org/web/20150615002250id_/http%3A//www.indiabook.com/kids/)**  
+| **»»[Health](https://web.archive.org/web/20150615002250id_/http%3A//www.indiabook.com/health/)**  
+| **»»[Dating](https://web.archive.org/web/20150615002250id_/http%3A//www.indiabook.com/dating/)**  
+| **»»[Matrimonials](https://web.archive.org/web/20150615002250id_/http%3A//www.indiabook.com/matrimonial/)**  
+| **»»[Home Pages](https://web.archive.org/web/20150615002250id_/http%3A//www.indiabook.com/homepages/)**  
+| **»»[Greetings](https://web.archive.org/web/20150615002250id_/http%3A//www.indiabook.com/greetings/)**  
+| **»»[Web Master](https://web.archive.org/web/20150615002250id_/http%3A//www.indiabook.com/webmaster/)**  
+| **»»[Shopping](https://web.archive.org/web/20150615002250id_/http%3A//www.indiabook.com/shopping/)**  
   
 Ads   
   
