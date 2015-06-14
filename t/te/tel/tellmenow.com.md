@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the tellmenow.com privacy policy that was archived on 2014-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141031145052id_/http%3A//tellmenow.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tellmenow.com privacy policy that was archived on 2015-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150614035143id_/http%3A//tellmenow.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | TellMeNow.com | News, Politics, Entertainment, Life, Humor, Community
 
-Intermarkets, Inc. is an online advertising management services firm that offers advertisers opportunities to display their interactive ads on websites that are included within the Intermarkets Portfolio. Our services streamline the selection and delivery of interactive ads for advertisers and website publishers. We also provide targeted advertising services using non-personal information that is gathered across multiple, unaffiliated websites. 
+Intermarkets, Inc. is an online advertising management services firm that offers advertisers opportunities to display their interactive ads on websites that are included within the Intermarkets Portfolio. Our services streamline the selection and delivery of interactive ads for advertisers and website publishers. We also provide targeted advertising services using non-personal information that is gathered across multiple, unaffiliated websites.
 
 Your privacy is important to us, and we are committed to protecting the personal information you choose to share with us. This Privacy Policy applies to all of the products, services, and websites offered by Intermarkets or its subsidiaries or affiliated companies.  This Privacy Policy explains how we collect, use, protect, and share information when you are served an advertisement from when you use the Intermarkets website [www.intermarkets.net](http://www.intermarkets.net/) or one of the website publishers that are included in our Portfolio (collectively “Site”). For a current list of the websites within our Portfolio, please click [here](http://intermarkets.net/advertisers/portfolio/index.html). This Privacy Policy also explains your choices for managing your information preferences.
 
@@ -30,7 +30,7 @@ The majority of our advertising Service Providers are members of the NAI. You ca
 
 ##### Cookies and Web Beacons:
 
-We may use cookies (a small text file placed on your computer to identify your computer and browser), Web beacons (an electronic file placed on a website that monitors usage), and other similar technologies to improve the quality of the Site and to better target and analyze consumer behavior with the goal of providing better and more relevant advertising. Our cookie does not include your name or anything personal to you. It simply tells us that we have encountered your computer at some prior point. Most Web browsers are initially set up to accept cookies. You can reset your Web browser to refuse all cookies or to indicate when a cookie is being sent. However, certain features of the Site may not work if you delete or disable cookies. Alternatively, you are always free to opt out of the cookies. 
+We may use cookies (a small text file placed on your computer to identify your computer and browser), Web beacons (an electronic file placed on a website that monitors usage), and other similar technologies to improve the quality of the Site and to better target and analyze consumer behavior with the goal of providing better and more relevant advertising. Our cookie does not include your name or anything personal to you. It simply tells us that we have encountered your computer at some prior point. Most Web browsers are initially set up to accept cookies. You can reset your Web browser to refuse all cookies or to indicate when a cookie is being sent. However, certain features of the Site may not work if you delete or disable cookies. Alternatively, you are always free to opt out of the cookies.
 
 Some of our Service Providers may use their own cookies and Web beacons in connection with the services they perform on our behalf. If you would like more information about these practices and to know your choices about not having this information used by these companies, please click [here.](http://www.networkadvertising.org/managing/index.asp)
 
@@ -43,6 +43,12 @@ We use Personally Identifiable Information and Non-Personally Identifiable Infor
 ##### Service Providers:
 
 Intermarkets may share Personally Identifiable Information with its service providers that help Intermarkets provide the services that you request (“Service Providers”). For example, we may contract with Service Providers to provide certain services, such as credit card processing, advertising, analytics tools, data management services, Web hosting, and Web development. We provide our Service Providers with the information needed for them to perform these services, however, each Service Provider must agree to implement and maintain reasonable security procedures and practices appropriate to the nature of the information involved in order to protect your information from unauthorized access, destruction, use, modification or disclosure.
+
+ _A Note Concerning Analytics Service Providers:  _We participate in advertising services administered by third parties, such as Google. For example, we have implemented or are in the process of implementing the following features based on Google Analytics for Display Advertising: Remarketing, Google Display Network Impression Reporting, the DoubleClick Campaign Manager integration, and Google Analytics Demographics and Interest Reporting.
+
+The ad services may track your online activities over time by collecting information through automated means, including through the use of the automated technologies described above, and they may use this information to show you advertisements that are tailored to your individual interests and/or based on prior visits to our Websites. We and third-party vendors, including Google, may use first-party cookies (such as the Google Analytics cookie) and third-party cookies (such as the DoubleClick cookie) together (i) to inform, optimize, and serve ads based on past visits to our website and (ii) to report how our ad impressions, other uses of ad services, and interactions with these ad impressions and ad services are related to visits to our site. For example, we use Remarketing with Google Analytics to allow Google to show our ads to our visitors across the Internet. We also may use data from Google’s Interest-based advertising or third-party audience data (such as age, gender, and interests) with Google Analytics to understand our audiences and to customize the delivery of our ads.
+
+To learn more about interest-based advertising generally, including how to opt out, [click here](http://www.aboutads.info/choices/). To opt out of Google Analytics for Display Advertising or customize Google Display Network ads, you can visit the Google [Ads Settings](https://www.google.com/settings/ads) page.
 
 ##### Non-Personally Identifiable Information Only:
 
@@ -66,13 +72,13 @@ This opt-out functionality is cookie-based. When you receive this cookie, Interm
 
 In some cases, Intermarkets works with other third-party vendors to help deliver advertisements tailored to your interests. These vendors include ad networks and audience segment providers, and they place cookies on your browser to collect information about your online activity ( _e.g._ , the sites and pages you have visited) in order to help advertisers deliver particular ads that they believe you would find most relevant. You can opt out of those vendors’ use of cookies to tailor advertising to you by visiting <http://www.networkadvertising.org/managing/opt_out.asp>.
 
-_PLEASE NOTE that if you erase or otherwise alter your browser’s cookie file (including upgrading certain browsers) you may need to opt out again._
+ _PLEASE NOTE that if you erase or otherwise alter your browser’s cookie file (including upgrading certain browsers) you may need to opt out again._
 
-_PLEASE NOTE that opting out of the ad-serving cookie does not mean that you will stop seeing either pop up advertising or banner ads embedded in websites. You can control many pop ups by using free software available on the Internet or by disabling JavaScript on your browser. Intermarkets has no control over the use or frequency of pop-up ads employed by website publishers or software manufacturers._
+ _PLEASE NOTE that opting out of the ad-serving cookie does not mean that you will stop seeing either pop up advertising or banner ads embedded in websites. You can control many pop ups by using free software available on the Internet or by disabling JavaScript on your browser. Intermarkets has no control over the use or frequency of pop-up ads employed by website publishers or software manufacturers._
 
 ### Data Retention
 
-Intermarkets does not keep data on its own servers; instead the data is kept on the End User’s computer in the Intermarkets cookie. The data is stored in the cookie until the cookie is deleted by the End User. End Users can delete the cookie at any time, as explained in this Privacy Policy. 
+Intermarkets does not keep data on its own servers; instead the data is kept on the End User’s computer in the Intermarkets cookie. The data is stored in the cookie until the cookie is deleted by the End User. End Users can delete the cookie at any time, as explained in this Privacy Policy.
 
 ### Third Party Websites
 
