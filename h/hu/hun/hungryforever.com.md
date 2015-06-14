@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hungryforever.com privacy policy that was archived on 2014-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141130003756id_/http%3A//www.hungryforever.com/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hungryforever.com privacy policy that was archived on 2015-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150614025637id_/http%3A//www.hungryforever.com/privacy-policy-2) for the most accurate reproduction.*
 
 # Privacy Policy | HungryForever
 
@@ -71,6 +71,8 @@ We are in compliance with the requirements of COPPA (Childrens Online Privacy Pr
 Addemdum
 
 As you browse www.sociall.in, advertising cookies will be placed on your computer so that we can understand what you are interested in. Our display advertising partner, AdRoll, then enables us to present you with retargeting advertising on other sites based on your previous interaction with [company website]. The techniques our partners employ do not collect personal information such as your name, email address, postal address or telephone number. You can visit this page to opt out of AdRoll and their partners’ targeted advertising.
+
+For information about opting out of Gourmet Ads and ad serving partners please visit http://www.gourmetads.com/about/privacy-policy
 
 Online Privacy Policy Only
 
