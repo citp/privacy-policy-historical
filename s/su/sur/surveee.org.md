@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the surveee.org privacy policy that was archived on 2014-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141113152802id_/http%3A//www.surveee.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the surveee.org privacy policy that was archived on 2015-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150614042350id_/http%3A//www.surveee.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Surveee
+
+Email: contact@surveee.org
 
 #### **Privacy Policy for[www.surveee.org](http://surveee.org/)**
 
