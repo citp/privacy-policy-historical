@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the docs.com privacy policy that was archived on 2014-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140919021623id_/http%3A//docs.com/Main/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the docs.com privacy policy that was archived on 2015-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150614230457id_/http%3A//docs.com/Main/Privacy) for the most accurate reproduction.*
 
 # Privacy | Docs for Facebook
 
