@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the americannursetoday.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220103633id_/http%3A//www.americannursetoday.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americannursetoday.com privacy policy that was archived on 2015-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150614031811id_/http%3A//www.americannursetoday.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - American Nurse Today
 
@@ -20,13 +20,13 @@ Our Site may use “cookies” to enhance User experience. User’s web browser 
 
 HealthCom Media and **_American Nurse Today_** may collect and use Users personal information for the following purposes:
 
-\- To improve customer service  
+– To improve customer service  
 Information you provide helps us respond to your customer service requests and support needs more efficiently.
 
-\- To process payments  
+– To process payments  
 We may use the information Users provide about themselves when placing an order only to provide service for that order. We do not share this information with outside parties except to the extent necessary to provide the service.
 
-\- To send periodic emails  
+– To send periodic emails  
 We may use the email address Users provide to send information and updates pertaining to their order or other services provided. If User opts-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
 
 ## How we protect your information
