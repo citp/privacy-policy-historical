@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bannedinhollywood.com privacy policy that was archived on 2014-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141124165504id_/http%3A//www.bannedinhollywood.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bannedinhollywood.com privacy policy that was archived on 2015-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150614032632id_/http%3A//www.bannedinhollywood.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | BANNED In Hollywood
 
@@ -23,11 +23,11 @@ Some of our business partners may use cookies on our site (for example, advertis
 **Third Party Advertising**  
 The ads appearing on Banned In Hollywood are delivered to users by third party advertisers including Google, among others. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please click [here](http://www.networkadvertising.org/managing/opt_out.asp).
 
-The siteâ€™s advertisers may engage in the collection of non-personally identifiable information about end users by third parties through the use of cookies and pixel tags
+The site’s advertisers may engage in the collection of non-personally identifiable information about end users by third parties through the use of cookies and pixel tags
 
 Users can opt out of behavioral targeting through the opt-out link located [here](http://www.networkadvertising.org/managing/opt_out.asp "opt out ads").
 
-Users are participating in the Digital Advertising Alliance’s (DAA) Self-Regulatory Program for Online Behavioral Advertising, with the provision an â€œAd Choicesâ€ link on your site or within advertising units that links to http://www.aboutads.info/choices/.
+Users are participating in the Digital Advertising Alliance’s (DAA) Self-Regulatory Program for Online Behavioral Advertising, with the provision an “Ad Choices” link on your site or within advertising units that links to http://www.aboutads.info/choices/.
 
 **Log Files**  
 Like most standard website servers we use log files. This includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, track user’s movement in the aggregate, and gather broad demographic information for aggregate use. IP addresses, etc. are not linked to personally identifiable information. We may use a tracking utility that uses log files to analyze user movement.
