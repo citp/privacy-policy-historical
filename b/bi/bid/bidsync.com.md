@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bidsync.com privacy policy that was archived on 2014-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141224053815id_/http%3A//www.bidsync.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bidsync.com privacy policy that was archived on 2015-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150614233611id_/http%3A//www.bidsync.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Bidsync.com
 
