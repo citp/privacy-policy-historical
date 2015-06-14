@@ -1,22 +1,22 @@
-> *The following text is extracted and transformed from the quotewizard.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220091837id_/http%3A//quotewizard.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quotewizard.com privacy policy that was archived on 2015-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150614054722id_/http%3A//quotewizard.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | QuoteWizard
 
-_This privacy policy was last updated on May 12th, 2014_
+_This privacy policy was last updated on February 5th, 2015_
 
-QuoteWizard is a service of  QuoteWizard.com LLC, which is committed to protecting your private information. This Privacy Statement describes the information that we collect when you visit one of our sites. It also describes how we use that information, and how you can update it. We reserve the right to append or otherwise modify this Privacy Statement at any time. Please re-visit this page occasionally to check for updates.
+QuoteWizard is committed to protecting your private information. This Privacy Statement describes the information that we collect when you visit one of our sites. It also describes how we use that information, and how you can update it. We reserve the right to append or otherwise modify this Privacy Statement at any time. Please re-visit this page occasionally to check for updates.
 
 ### Telephone Consumer Protection Act Compliance
 
-If you provide a cell phone number with your contact information, QuoteWizard.com LLC and/or QuoteWizard.com LLC's clients may dial this number, possibly using an autodialer, to provide quote information and/or seek additional information in order to provide a quote. By providing a cell phone number, you agree to be contacted at that cell phone number, regardless of whether you, or someone else, is in possession of the cell phone when contact is made. Entering into this agreement is not a condition of purchasing any goods or services.
+If you provide a cell phone number with your contact information, QuoteWizard and/or QuoteWizard's clients may dial this number, possibly using an autodialer, to provide quote information and/or seek additional information in order to provide a quote. By providing a cell phone number, you agree to be contacted at that cell phone number, regardless of whether you, or someone else, is in possession of the cell phone when contact is made. Entering into this agreement is not a condition of purchasing any goods or services.
 
 ### Information We Collect
 
-Collecting various types of information from our visitors allows  QuoteWizard.com LLC to periodically adjust this site to meet our users' needs and expectations. Some of this information is collected automatically, through cookies. Other information is collected when you register for any of our online services, or when you request information from one of our insurance partners.
+Collecting various types of information from our visitors allows QuoteWizard to periodically adjust this site to meet our users' needs and expectations. Some of this information is collected automatically, through cookies. Other information is collected when you register for any of our online services, or when you request information from one of our insurance partners.
 
 ### Information Collected Automatically
 
-Some information is automatically sent to  QuoteWizard.com LLC by your browser or Internet session each time you visit one of our sites. These types of information include:
+Some information is automatically sent to QuoteWizard by your browser or Internet session each time you visit one of our sites. These types of information include:
 
   * The name of your browser, e.g., Internet Explorer, Netscape Navigator.
   * Your Internet domain, e.g., AOL, Netcom, Earthlink, etc.
@@ -28,27 +28,27 @@ Some information is automatically sent to  QuoteWizard.com LLC by your browser o
 
 This information allows us to see how users are finding our sites, and which pages are visited the most often. We can then use this information to make our web sites more useful and more user-friendly.
 
-### Third Party Advertisers
+### >Third Party Advertisers
 
-QuoteWizard.com LLC works with third party advertisers and other vendors to serve ads and collect data on our sites. These companies may use information (including your name, address, email address, or telephone number) about your visits to these and other websites in order to provide advertisements on these sites and other websites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/managing/opt_out.asp).
+QuoteWizard works with third party advertisers and other vendors to serve ads and collect data on our sites. These companies may use information (including your name, address, email address, or telephone number) about your visits to these and other websites in order to provide advertisements on these sites and other websites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/managing/opt_out.asp).
 
 ### Information You Provide to Us
 
-In addition to the information automatically collected by your browser,  QuoteWizard.com LLC also collects information that you provide to us when you request quote information.
+In addition to the information automatically collected by your browser, QuoteWizard also collects information that you provide to us when you request quote information.
 
 Our web sites provide users with the opportunity to request quote information from insurance providers and brokers. To do this, we collect contact information (name, address, phone number, email address, gender, age, work experience, etc.) as well as information relevant to the applicant's insurability (driver history, vehicle usage, etc). This contact information is then provided to the insurance partners from which the user has requested quote information.
 
-QuoteWizard.com LLC uses cookies to store contact information for each user. If the user uses our site to make further requests for quote information, their contact information will automatically be used to pre-populate contact forms.  QuoteWizard.com LLC also collects customer interest information (e.g. Requests for E-Mail Newsletters) to determine what information the customer wishes to be sent after using our service.
+QuoteWizard uses cookies to store contact information for each user. If the user uses our site to make further requests for quote information, their contact information will automatically be used to pre-populate contact forms. QuoteWizard also collects customer interest information (e.g. Requests for E-Mail Newsletters) to determine what information the customer wishes to be sent after using our service.
 
-By submitting a quote request, you authorize  QuoteWizard.com LLC to provide your information to insurance agents, both local and national. You also authorize  QuoteWizard.com LLC to provide your information to one of our third party agent networks in the event that our primary agent network has few or no agents in your zip code. You authorize these agent networks to share your information with their vendors, suppliers, and insurance carriers in order to generate information for your quotes. By submitting a quote request, you acknowledge that  QuoteWizard.com LLC’ s service requires you to agree that our partner companies may obtain a consumer report or credit score from a consumer reporting agency (also known as a credit bureau) and that these partner companies do not have the right to obtain a consumer report or credit score without your written instruction which you are granting by clicking the submit button. Accordingly, by submitting a quote request you instruct consumer reporting agencies to provide a consumer report or credit score on you to these partner companies if requested within a reasonable date from the time you submit information to  QuoteWizard.com LLC. In the event that one of our partner companies obtains this credit information that partner company will not share this information with any other party, including insurance carriers, but insurance carriers may elect to obtain credit information on their own in connection with the quoting and underwriting of the requested insurance. Where permitted by law, some insurance companies or their agents may confirm your information, through the use of consumer reports, which may include credit score and driving record.
+By submitting a quote request, you authorize QuoteWizard to provide your information to insurance agents, both local and national. You also authorize QuoteWizard to provide your information to one of our third party agent networks in the event that our primary agent network has few or no agents in your zip code. You authorize these agent networks to share your information with their vendors, suppliers, and insurance carriers in order to generate information for your quotes. By submitting a quote request, you acknowledge that QuoteWizard’ s service requires you to agree that our partner companies may obtain a consumer report or credit score from a consumer reporting agency (also known as a credit bureau) and that these partner companies do not have the right to obtain a consumer report or credit score without your written instruction which you are granting by clicking the submit button. Accordingly, by submitting a quote request you instruct consumer reporting agencies to provide a consumer report or credit score on you to these partner companies if requested within a reasonable date from the time you submit information to QuoteWizard. In the event that one of our partner companies obtains this credit information that partner company will not share this information with any other party, including insurance carriers, but insurance carriers may elect to obtain credit information on their own in connection with the quoting and underwriting of the requested insurance. Where permitted by law, some insurance companies or their agents may confirm your information, through the use of consumer reports, which may include credit score and driving record.
 
-By submitting a quote request, you also authorize  QuoteWizard.com LLC to provide the information submitted in the quote request to third party marketing partners so that they can market related products or services to you. If you do not want us to make your information available to these companies, you can [ **click here**](http://www.qw-unsub.com/unsub/unsub.form?id=1c4781e3a8f79b7ff6377e9474d852410d23e1ceee8c948da054b1aab0994ee0) to unsubscribe.
+By submitting a quote request, you also authorize QuoteWizard to provide the information submitted in the quote request to third party marketing partners so that they can market related products or services to you. If you do not want us to make your information available to these companies, you can [ **click here**](http://www.qw-unsub.com/unsub/unsub.form?id=1c4781e3a8f79b7ff6377e9474d852410d23e1ceee8c948da054b1aab0994ee0) to unsubscribe.
 
 ### How We Use This Information
 
-The information that is automatically collected by this web site allows  QuoteWizard.com LLC to further develop and improve the layout, design, and usability of the site, in order to better serve your Internet needs. Information you provide to us is used for marketing purposes, and may result in follow-up communications.
+The information that is automatically collected by this web site allows QuoteWizard to further develop and improve the layout, design, and usability of the site, in order to better serve your Internet needs. Information you provide to us is used for marketing purposes, and may result in follow-up communications.
 
-QuoteWizard.com LLC may share personally identifiable information with insurance agents and insurance carriers for the purposes of providing quotes.
+QuoteWizard may share personally identifiable information with insurance agents and insurance carriers for the purposes of providing quotes.
 
 ### How Our Insurance Partners May Use This Information
 
@@ -70,7 +70,7 @@ When you visit some of our sites, we use cookies to keep track of your informati
 
 ### Links From Our Site To Other Sites
 
-Some of our sites may contain links to other sites external to our sites. When you access these external web sites, the providers of the sites will have access to certain information about you.  QuoteWizard.com LLC is not responsible for the privacy practices or the content of any web sites which we do not directly control.
+Some of our sites may contain links to other sites external to our sites. When you access these external web sites, the providers of the sites will have access to certain information about you. QuoteWizard is not responsible for the privacy practices or the content of any web sites which we do not directly control.
 
 ### Definitions
 
