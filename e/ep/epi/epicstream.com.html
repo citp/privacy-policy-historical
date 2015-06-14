@@ -1,142 +1,538 @@
-<!--The following is the downloaded HTML source of the epicstream.com privacy policy that was archived on 2014-05-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140506115905id_/http%3A//www.epicstream.com/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the epicstream.com privacy policy that was archived on 2015-06-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150614233538id_/http%3A//epicstream.com/cms/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en"><head>
-<link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
-<title>Privacy Policy</title>
+<!DOCTYPE html><html dir="ltr" lang="en-US" class="no-js"><!--<![endif]--><head>
+<meta charset="utf-8">
+<link rel="icon" type="image/png" href="http://epicstream.com/assets/images/favicon.ico">
+<meta property="fb:admins" content="169803790">
+	<title>page title</title>
+	<meta name="description" content="meta description">
+	
+	
+<!-- IE Specific JS -->
+<script async="" src="//www.google-analytics.com/analytics.js"></script><script id="twitter-wjs" src="https://platform.twitter.com/widgets.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_IN/sdk.js#xfbml=1&amp;version=v2.3"></script><script src="http://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.2/html5shiv.min.js"></script>
+<script src="http://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.2/html5shiv-printshiv.min.js"></script>
+<!-- IE Specific JS -->
 
-<style type="text/css">
-#html, body {
-  top: 0px;
-  right: 0px;
-  bottom: 0px;
-  left: 0px;
-  width:980px;
-  height: 100%;
-  background-color: white;
-  margin: auto;
-}
+<!-- CDN FontAwesome -->
+<link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
 
-a.mullink
+<!-- CDN FontAwesome -->
+
+<meta content="width=device-width, initial-scale=1, maximum-scale=1" name="viewport">
+
+<!-- Custom  CSS -->
+<link rel="stylesheet" href="http://epicstream.com/assets/css/styles.css">
+<link rel="stylesheet" href="http://epicstream.com/assets/css/meanmenu.css">
+<link rel="stylesheet" href="http://epicstream.com/assets/css/slider-pro.min.css">
+<link rel="stylesheet" href="http://epicstream.com/assets/css/media.css">
+<!-- Custom CSS -->
+
+<!-- CDN jQuery & jQuery UI -->
+<script src="http://code.jquery.com/jquery-2.1.1.min.js"></script>
+<script src="http://cdnjs.cloudflare.com/ajax/libs/jquery-migrate/1.2.1/jquery-migrate.min.js"></script>
+
+<!-- <script src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.11.2/jquery-ui.min.js"></script> -->
+<!-- Advertisement code start -->
+<meta name="ca_verify" content="ca373ce1-eb8e-47a1-8682-0c939ac936d3">
+<!-- Advertisement code end -->
+
+<!-- CDN jQuery & jQuery UI -->
+
+<!-- Common Js for facebook PlugIn [start]-->
+<script>
+
+(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_IN/sdk.js#xfbml=1&version=v2.3";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+
+
+$(window).resize(function(){
+
+	$('.fb-comments.fb_iframe_widget.fb_iframe_widget_fluid span').css('width','100%');
+	$('.fb-comments.fb_iframe_widget.fb_iframe_widget_fluid span iframe').css('width','100%');
+});
+
+
+
+// funtion to load more data in Home.
+var callcount = 1;
+function fun_loadmoreData(controller)
 {
-	text-decoration: none;
+	$('.load-more i').css('display','');
+	$.ajax({
+	   url: 'http://epicstream.com/'+controller+'/loadmore',
+	   data:'pageno='+callcount,
+	   type: 'POST',
+	   success: function(data)
+	   {
+	   	var data_ary = data.split('^^^');
+		  $("#loadmoredata").append(data_ary[0]);
+		  $('.load-more i').css('display','none');
+		  if(data_ary[1]=='loadmore')
+		  {
+		  	$('#showloadmore').css('display','none');
+		  }
+	   }
+	   
+	});
+	callcount ++;
 }
 
-a.mullink:hover
+function fun_loadmoreHomeData(controller)
 {
-	text-decoration: underline;
+	stop = true;
+	$('.load-more i').css('display','');
+	$.ajax({
+	   url: 'http://epicstream.com/'+controller+'/loadmore',
+	   data:'pageno='+callcount,
+	   type: 'POST',
+	   success: function(data)
+	   {
+	   	var data_ary = data.split('^^^');
+		  $("#homeloadmoredata").append(data_ary[0]);
+		  $('.load-more i').css('display','none');
+		  if(data_ary[1]=='loadmore')
+		  {
+		  	$('#showloadmore').css('display','none');
+		  }
+		  stop = false;
+	   }
+	   
+	});
+	callcount ++;
 }
-</style>
 
 
-<script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">
+function fun_loadmoreCategory(cate_id)
+{
+	$('.load-more i').css('display','');
+	$.ajax({
+	   url: 'http://epicstream.com/reviewcategory/loadmore/',
+	   data:'pageno='+callcount+'&cate_id='+cate_id,
+	   type: 'POST',
+	   success: function(data)
+	   {
+	   	var data_ary = data.split('^^^');
+		  $("#loadmoredata").append(data_ary[0]);
+		  $('.load-more i').css('display','none');
+		  if(data_ary[1]=='loadmore')
+		  {
+		  	$('#showloadmore').css('display','none');
+		  }
+	   }
+	   
+	});
+	callcount ++;
+}
+function fun_loadmoresearchData(search_string)
+{
+	$('.load-more i').css('display','');
+	$.ajax({
+	   url: 'http://epicstream.com/search/loadmore',
+	   data:'pageno='+callcount+'&search_string='+search_string,
+	   type: 'POST',
+	   success: function(data)
+	   {
+		  //$("#loadmoredata").append(data);
+		  //$('.load-more i').css('display','none');
+		  var data_ary = data.split('^^^');
+		  $("#loadmoredata").append(data_ary[0]);
+		  $('.load-more i').css('display','none');
+		  if(data_ary[1]=='loadmore')
+		  {
+		  	$('#showloadmore').css('display','none');
+		  }
+	   }
+	   
+	});
+	callcount ++;
+}
+
+// function to next quiz question.....
+function fun_quizNextquestion(result_id)
+{
+	var frmobj = document.frm_runquiz;
+	frmobj.result_id.value = result_id;
+	frmobj.submit();
+}
+$(document).ready(function(e) {
+	
+$('#showSearch').click(function(e) {
+	$(".search-box").css("display","block");
+    $(".search-box").removeClass("slideOutRight");
+	$(".search-box").addClass("slideInRight");
+	$(".search-box input[type='text']").focus();
+    e.preventDefault();
+});
+$('.search-box input').focusout(function(e) {
+	$(".search-box").addClass("slideOutRight");$(".search-box").removeClass("slideInRight");
+});
+
+});
 
 
+// Ended funtion to load more data in Home.
 </script>
+<!-- Common Js for facebook PlugIn [End]-->
+
+<!-- Common Js for Twitter PlugIn [start]-->
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+<!-- Js for Twitter like box [End]-->
 
 
-</head>
-
-<body onload="">
-
-<!-- main body -->
-<div style="background-color: white; font-family: arial;font-size: 13px;font-style: normal;font-variant: normal;font-weight: normal; font-color: rgb(50,50,50);">
-
-
-
-<!-- Navigation -->
-
-<!-- for adsense analytics -->
-<script type="text/javascript">
-window.google_analytics_uacct = "UA-12909087-5";
-</script>
-
-<div style="height: 54px; border-bottom: 1px solid #d8d8d8; font-size: 20px;">
-	<a class="mainmenu_link" href="./"><div style="float: left; border-right: 1px solid #d8d8d8"><div style="padding-left: 10px; padding-right: 10px;"><img border="0" style="height: 54px;" src="images/epicstreamrect.png"></div></div></a>
-	<a class="mainmenu_link" href="quizzes.asp"><div style="float: left; border-right: 1px solid #d8d8d8"><div style="margin: 15px;">QUIZZES</div></div></a>
-	<a class="mainmenu_link" href="features.asp"><div style="float: left; border-right: 1px solid #d8d8d8"><div style="margin: 15px;">FEATURES</div></div></a>
-	<a class="mainmenu_link" href="videos.asp"><div style="float: left; border-right: 1px solid #d8d8d8"><div style="margin: 15px;">VIDEOS</div></div></a>
-	<a class="mainmenu_link" href="reviews.asp"><div style="float: left; border-right: 1px solid #d8d8d8"><div style="margin: 15px;">REVIEWS</div></div></a>
-	<a class="mainmenu_link" href="news.asp"><div style="float: left; border-right: 1px solid #d8d8d8"><div style="margin: 15px;">NEWS</div></div></a>
-</div>
-
-<div style="margin-top: 8px;">
-	<center>
-	<script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-	<!-- epicstreamleaderboard -->
-	<ins class="adsbygoogle" style="display:inline-block;width:728px;height:90px" data-ad-client="ca-pub-5288750259682605" data-ad-slot="4055129590"></ins>
-	<script>
-	(adsbygoogle = window.adsbygoogle || []).push({});
-	</script>
-	</center>
-</div>
-
-<div style="margin-top: 8px; border-top: 1px solid #f3f3f3; background-color: #f8f8f8; height: 40px; font-size: 15px;">
-<div style="padding: 10px;">
-	<span style="margin-right: 20px;"><a href="quizzes.asp" style="color: #7c7b7b">Personality Quiz</a></span>
-</div>
-<!--
-<div style="padding: 10px 20px; line-height 30px; font-size: 20px; border-bottom: solid 1px #838383">
-	<table style="width: 100%; border: none; padding: 0px; margin: 0px; border-collapse: collapse">
-	<tr style="vertical-align: top;">
-		<td><div>HOME</div></td>
-		<td><div>HOME</div></td>
-	</tr>
-	</table>
-</div>
--->
-
-<!-- Navigation End -->
-
-
-<div style="margin-top: 20px;">
-<h2>Privacy Policy</h2>
-
-<p>epicstream respects the privacy concerns of the users of its Internet Sites ("Sites"), and has created this privacy statement to explain what information we gather from your visit to our Sites, and how such information may be used.</p>
-
-<p style="font-weight: bold;">Use of Information</p>
-<p>As a general policy, no personally identifiable information, such as your name or address, is automatically collected from your visit to epicstream. However, certain non-personal information is recorded by the standard operation of epicstream's Internet servers. Information such as the type of browser being used, its operating system, and your IP address is gathered in order to enhance your online experience. For example, it may be used to tailor content and advertising to your interests. </p>
-<p>In special cases, epicstream may disclose user information when there is reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be causing injury to, or interference (either intentionally or unintentionally) with, epicstream's rights or property, other epicstream web site users, or anyone else that could be harmed by such activities. Security.</p>
-
-<p style="font-weight: bold;">Security for all personally</p>
-<p>Identifiable information is extremely important to us. Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. While we strive to protect your personal information, epicstream cannot ensure or warrant the security of any information you transmit to us or from our online forms, and you do so at your own risk. Once we receive your transmission, we make our best effort to ensure its security on our systems.</p>
-
-<p style="font-weight: bold;">Use of Cookies</p>
-<p>Cookies are pieces of information that a website transfers to an individual's computer hard drive for record keeping purposes. Cookies are used to track visits to our Sites and to personalize the Sites for new and current subscribers. Most browsers are initially set up to accept cookies; however, you can reset your browser to refuse all cookies or indicate when a cookie is being sent. (Note: you will need to consult the help area of your browser application for instructions.) If you choose to disable your cookies setting or refuse to accept a cookie, some parts of epicstream's web sites may not function properly.</p>
-
-<p style="font-weight: bold;">Use of IP Addresses</p>
-<p>An IP address is a number that's automatically assigned to your computer by your Internet provider whenever you surf the Web. When you request pages from epicstream Sites, our servers log your IP address. epicstream collects IP addresses for the purposes of system administration, to report aggregate information to our advertisers, and to audit the use of our Site. We may use your IP addresses in cooperation with your Internet provider to identify you if we deem it necessary to enforce compliance with our Terms of Use or to protect our service, Sites, customers, or others.</p>
-
-<p style="font-weight: bold;">Links to Other Sites</p>
-<p>epicstream is not responsible for the content or practices of third party websites that may be linked to our Sites. Our Sites may link to websites operated by other companies; we are not responsible for the privacy practices of such websites. Visitors to these web sites should refer to each web site's respective privacy policies and practices.</p>
-
-<p style="font-weight: bold;">Third Party Cookies</p>
-<p>In the course of serving advertisements to our sites, our third-party advertisers may place or recognize a unique "cookie" on your browser.</p>
-<p>We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, visit the Network Advertising Initiative or Self-Regulatory Program for Online Behavioral Advertising.</p>
-<p>Google, as a third party vendor, uses cookies to serve ads on our websites. Google's use of the DART cookie enables it to serve ads to our users based on their visit to our sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.</p>
-</div>
-<div style="margin-top: 20px; border-top: solid 1px rgb(220,220,220); background-color: #f8f8f8;">
-	<div style="padding: 15px; height: 100px;">
-	© 2014 epicstream.com, LLC All rights reserved. - <a href="disclaimer.asp" style="color: rgb(50,50,50); text-decoration: none;">Disclaimer</a> - <a href="privacy.asp" style="color: rgb(50,50,50); text-decoration: none;">Privacy Policy</a> - <a href="contactus.asp" style="color: rgb(50,50,50); text-decoration: none;">Contact Us</a>
-	</div>
-</div>
-
-
-
-<!-- main body END -->
-</div>
-
+<script src="http://cdnjs.cloudflare.com/ajax/libs/respond.js/1.4.2/respond.min.js"></script>
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
   m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
   })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
-  ga('create', 'UA-12909087-5', 'epicstream.com');
+  ga('create', 'UA-59618213-1', 'auto');
   ga('send', 'pageview');
 
+</script></head>
+<body class="cmspage">
+<div id="fb-root"></div>
+    <header>
+        <div class="container">
+        	<div class="logo">
+            	<a href="http://epicstream.com/"><img src="http://epicstream.com/assets/images/logo.png" alt="Epicstream"></a>
+            </div>
+			           
+			            <div class="nav-menu">
+	            <nav>
+                    <ul class="nav-ul">
+                        <!-- <li><a  href="http://epicstream.com/">Home</a></li> -->
+                        <li><a href="http://epicstream.com/news">News</a></li>
+                        <li><a href="http://epicstream.com/reviews">Reviews</a>
+							<ul>
+																	<li><a href="http://epicstream.com/reviewcategory/11">Book Reviews</a></li>
+																	<li><a href="http://epicstream.com/reviewcategory/12">Movie Reviews</a></li>
+																	<li><a href="http://epicstream.com/reviewcategory/14">TV Show Reviews</a></li>
+															</ul>
+						</li>
+                        <li><a href="http://epicstream.com/features">Features</a></li>
+                        <li><a href="http://epicstream.com/videos">Videos</a></li>
+                        <li><a href="http://epicstream.com/quizzes">Quizzes</a></li>
+                       <!-- <li><a  href="http://epicstream.com/contact-us">Contact Us</a></li> -->
+                        <li><a href="http://epicstream.com/cms/about-us">About Us</a></li>
+                    </ul>
+                </nav>
+                <div class="search-social"> 
+                    <div class="social-box">
+                    <ul>
+                    <!--	<li><a class="hgp" href="" target="_blank"><i class="fa fa-google-plus"></i></a></li> 
+          					<li><a class="pint" href="" target="_blank"><i class="fa fa-pinterest"></i></a></li> -->
+                        <li><a class="hfb" href="https://www.facebook.com/epicstreams" target="_blank"><i class="fa fa-facebook"></i></a></li>
+                        <li><a class="htw" href="https://twitter.com/FantasyandScifi" target="_blank"><i class="fa fa-twitter"></i></a></li>
+                    </ul>
+                    </div>
+                    <div class="search-wrapper">
+                                    	<a href="#" id="showSearch"><i class="fa fa-search"></i></a>
+                        <div class="search-box">
+                            <form name="frm_search" id="frm_search" action="http://epicstream.com/search" method="post">
+                            <input type="text" name="search_string" value="" placeholder="Search">
+                            <input type="submit" value=" ">
+                            </form>
+                        </div>
+                    </div>
+                </div>
+            </div>
+			        </div>          
+    </header>
+    <div id="ads-section">
+  	 <div class="container">
+         <div class="ads-block">     
+             <script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- epicstream Responsive Ad -->
+<ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-5547389479857943" data-ad-slot="6547833516" data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>  
+         </div>     	
+     </div>
+     </div>      
+    
+<section>
+	<div class="container">
+		<div id="primary" class="left">
+						<h2 class="t-blue">Privacy Policy</h2>
+			<p><strong>Privacy Policy for Epic Stream</strong></p>
+
+<p>If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at&nbsp;<a href="mailto:fantasynscifi@gmail.com"><span style="color:rgb(47, 99, 122)">Privacy Policy</span></a>.</p>
+
+<p>&nbsp;</p>
+
+<p>At http://epicstream.com we consider the privacy of our visitors to be extremely important. This privacy policy document describes in detail the types of personal information is collected and recorded by http://epicstream.com and how we use it.</p>
+
+<p>&nbsp;</p>
+
+<p><strong>Log Files</strong><br>
+Like many other Web sites, http://epicstream.com makes use of log files. These files merely logs visitors to the site - usually a standard procedure for hosting companies and a part of hosting services’ analytics. The information inside the log files includes internet protocol (IP) addresses, browser type, Internet Service Provider (ISP), date/time stamp, referring/exit pages, and possibly the number of clicks. This information is used to analyze trends, administer the site, track user's movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.</p>
+
+<p>&nbsp;</p>
+
+<p><strong>Cookies and Web Beacons</strong><br>
+http://epicstream.com uses cookies to store information about visitors' preferences, to record user-specific information on which pages the site visitor accesses or visits, and to personalize or customize our web page content based upon visitors' browser type or other information that the visitor sends via their browser.</p>
+
+<p>&nbsp;</p>
+
+<p><strong>DoubleClick DART Cookie</strong></p>
+
+<p><span style="font-family:times new roman; font-size:9.5px">→</span> Google, as a third party vendor, uses cookies to serve ads on http://epicstream.com.<br>
+<span style="font-family:times new roman; font-size:9.5px">→</span> Google's use of the DART cookie enables it to serve ads to our site's visitors based upon their visit to http://epicstream.com and other sites on the Internet.&nbsp;<br>
+<span style="font-family:times new roman; font-size:9.5px">→</span> Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL -&nbsp;<a href="http://www.google.com/privacy_ads.html"><span style="color:rgb(47, 99, 122)">http://www.google.com/privacy_ads.html</span></a></p>
+
+<p>&nbsp;</p>
+
+<p><strong>Our Advertising Partners</strong></p>
+
+<p>Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include .......&nbsp;</p>
+
+<ul>
+	<li>Google</li>
+</ul>
+
+<p>While each of these advertising partners has their own Privacy Policy for their site, an updated and hyperlinked resource is maintained here:&nbsp;<a href="http://www.privacypolicyonline.com/privacy-policies"><span style="color:rgb(47, 99, 122)">Privacy Policies</span></a>.<br>
+You may consult this listing to find the privacy policy for each of the advertising partners of http://epicstream.com.</p>
+
+<p>These third-party ad servers or ad networks use technology in their respective advertisements and links that appear on http://epicstream.com and which are sent directly to your browser. They automatically receive your IP address when this occurs. Other technologies (such as cookies,</p>
+		</div>
+		<div class="right" id="secondary">
+    <!-- Top Sidebar Ads  -->
+	    <div class="side-ads">
+		<script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Epic Stream 300 250 Ad -->
+<ins class="adsbygoogle" style="display:inline-block;width:300px;height:250px" data-ad-client="ca-pub-5547389479857943" data-ad-slot="1609713514"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>    </div>
+	    <!-- Top Sidebar Ads  -->
+    
+		
+	
+    <!-- News -->   
+	    <div class="sidebar-list">
+    	<h2>News</h2>
+        <ul id="list-view">
+                    <li>
+                <a href="http://epicstream.com/news/Teenage-Geek-Girl-Goes-To-Prom-in-Arrow-inspired-Dress" class="slist-img"><img src="http://epicstream.com/assets/uploads/newscover/70x70/Screen_Shot_2015-06-12_at_5.43_.42_PM_.png"></a>
+                <a href="http://epicstream.com/news/Teenage-Geek-Girl-Goes-To-Prom-in-Arrow-inspired-Dress" class="slist-title">Teenage Geek Girl Goes To Prom in Arrow-inspired Dress </a>
+            </li>
+		            <li>
+                <a href="http://epicstream.com/news/Spider-Man-Shortlist-Reportedly-Narrowed-Down-Asa-Butterfield-is-Not-in-It" class="slist-img"><img src="http://epicstream.com/assets/uploads/newscover/70x70/spidey4.jpg"></a>
+                <a href="http://epicstream.com/news/Spider-Man-Shortlist-Reportedly-Narrowed-Down-Asa-Butterfield-is-Not-in-It" class="slist-title">Spider-Man Shortlist Reportedly Narrowed Down, Asa Butterfield is Not in It </a>
+            </li>
+		            <li>
+                <a href="http://epicstream.com/news/Star-Wars-Rogue-One---New-Intel-on-Plot-Characters-and-Setting" class="slist-img"><img src="http://epicstream.com/assets/uploads/newscover/70x70/rogue1.jpg"></a>
+                <a href="http://epicstream.com/news/Star-Wars-Rogue-One---New-Intel-on-Plot-Characters-and-Setting" class="slist-title">Star Wars: Rogue One - New Intel on Plot, Characters, and Setting </a>
+            </li>
+			
+            <!--<li>
+                <div class="slist-img"><img src="assets/images/side-list-1.png"></div>
+                <div class="slist-title">Where Do You Score on the Star Wars Fanboy Scale?</div>
+            </li>  -->                               
+        </ul>                             
+	</div>
+	    <!-- News -->
+    
+	
+    <!-- Review -->   
+		<div class="side-ads">
+	<script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Epic Stream Skyscraper 300 600 Ad -->
+<ins class="adsbygoogle" style="display:inline-block;width:300px;height:600px" data-ad-client="ca-pub-5547389479857943" data-ad-slot="7755161916"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>	</div>
+    <!-- Review -->
+     
+    <!-- Features -->   
+	    <div class="sidebar-list">
+    	<h2>Features</h2>
+        <ul id="list-view">
+		            <li>
+                <a href="http://epicstream.com/features/11-Games-that-Make-or-Break-Friendships" class="slist-img"><img src="http://epicstream.com/assets/uploads/featurescover/70x70/800px-A_Game_Of_Thrones_board_game_detail.jpg"></a>
+                <a href="http://epicstream.com/features/11-Games-that-Make-or-Break-Friendships" class="slist-title">11 Games that Make (or Break) Friendships</a>
+            </li>
+		            <li>
+                <a href="http://epicstream.com/features/17-Coolest-Stargate-SG-1-Moments" class="slist-img"><img src="http://epicstream.com/assets/uploads/featurescover/70x70/Sg1stargatefront.jpg"></a>
+                <a href="http://epicstream.com/features/17-Coolest-Stargate-SG-1-Moments" class="slist-title">17 Coolest Stargate SG-1 Moments</a>
+            </li>
+		            <li>
+                <a href="http://epicstream.com/features/Game-of-Thrones-Theme-Gets-A-Trance-Remix-From-EDM-Superstar-Armin-Van-Buuren" class="slist-img"><img src="http://epicstream.com/assets/uploads/featurescover/70x70/seas5.jpg"></a>
+                <a href="http://epicstream.com/features/Game-of-Thrones-Theme-Gets-A-Trance-Remix-From-EDM-Superstar-Armin-Van-Buuren" class="slist-title">Game of Thrones Theme Gets A Trance Remix From EDM Superstar Armin Van Buuren</a>
+            </li>
+			
+		</ul>                             
+	</div>
+	    <!-- Features -->
+     
+    <!-- Videos -->  
+	    <div class="sidebar-list">
+    	<h2>Videos</h2>
+        <ul id="list-view">
+                    <li>
+                <a href="http://epicstream.com/videos/Lucafilm-and-ILM-Developing-Star-Wars-Virtual-Reality-Experience" class="slist-img"><img src="http://epicstream.com/assets/uploads/videoscover/70x70/Screen_Shot_2015-06-12_at_6.24_.16_PM_.png"></a>
+                <a href="http://epicstream.com/videos/Lucafilm-and-ILM-Developing-Star-Wars-Virtual-Reality-Experience" class="slist-title">Lucafilm and ILM Developing Star Wars Virtual Reality Experience </a>
+            </li>
+		            <li>
+                <a href="http://epicstream.com/videos/Fantastic-Four-TV-Spot--A-New-Generation-of-Heroes" class="slist-img"><img src="http://epicstream.com/assets/uploads/videoscover/70x70/gen4.png"></a>
+                <a href="http://epicstream.com/videos/Fantastic-Four-TV-Spot--A-New-Generation-of-Heroes" class="slist-title">Fantastic Four TV Spot- 'A New Generation of Heroes' </a>
+            </li>
+		            <li>
+                <a href="http://epicstream.com/videos/LEGO-Jurassic-World-Launch-Trailer-Unleashed" class="slist-img"><img src="http://epicstream.com/assets/uploads/videoscover/70x70/legojuras.jpg"></a>
+                <a href="http://epicstream.com/videos/LEGO-Jurassic-World-Launch-Trailer-Unleashed" class="slist-title">LEGO Jurassic World Launch Trailer Unleashed</a>
+            </li>
+		                                 
+        </ul>                             
+	</div>
+	    <!-- Videos -->
+         
+    <!-- Facebook Sidebar  -->
+    <div class="facebook-likes">
+    	<h2>Like Us</h2>
+        <!-- for facebook like box [start]-->
+<!--		<div class="fb-like-box" style="width:100%;" data-href="https://www.facebook.com/epicstreams" data-width="100%" data-colorscheme="light" data-show-faces="true" data-header="false" data-stream="false" data-show-border="true"></div>-->
+		<iframe src="http://www.facebook.com/plugins/likebox.php?href=https%3A%2F%2Fwww.facebook.com%2Fepicstreams&amp;width=350&amp;height=290&amp;colorscheme=light&amp;show_faces=true&amp;header=false&amp;stream=false&amp;show_border=true" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:100%; min-height:290px;" allowtransparency="true"></iframe>
+		<!-- for facebook like box [start]-->
+    </div>
+    <!-- Facebook Sidebar -->
+    
+    <!-- Bottom Sidebar Ads  -->
+			<div class="side-ads">
+		<!-- Begin Adversal 300x250 - epicstream.com Code -->
+<script src="http://go.adversal.com/ttj?id=4374549&amp;size=300x250&amp;promo_sizes=250x250,200x200,180x150" type="text/javascript"></script>
+<!-- End Adversal 300x250 - epicstream.com Code -->		</div>
+	    <!-- Bottom Sidebar Ads  -->  
+        
+</div>
+	</div>
+</section>
+<footer>
+        <div class="container">
+        	<div class="column-1">
+            	<h3 class="t-blue">Quick Links</h3>
+                <ul class="footerLinks">
+                	<li><a href="http://epicstream.com/">Home</a></li>
+                    <li><a href="http://epicstream.com/news">News</a></li>
+                    <li><a href="http://epicstream.com/reviews">Reviews</a></li>
+                    <li><a href="http://epicstream.com/features">Features</a></li>
+                    <li><a href="http://epicstream.com/videos">Videos</a></li>
+                    <li><a href="http://epicstream.com/quizzes">Quizzes</a></li>
+                    <li><a href="http://epicstream.com/contact-us">Contact Us</a></li>
+                </ul>
+            </div>
+			   
+			
+            <div class="column-2">
+	            <h3 class="t-blue">Top Topics</h3>
+                <ul class="top-topics">
+					                	<li>
+                    	<div class="footer-img"><img src="http://epicstream.com/assets/uploads/featurescover/100x100/800px-A_Game_Of_Thrones_board_game_detail.jpg"></div>
+                    	<div class="footer-content">
+                        	<span>
+							11 Games that Make (or Break) Friendships							</span><br><br> 
+                            <a class="t-blue" href="http://epicstream.com/features/11-Games-that-Make-or-Break-Friendships">Read More</a>                         
+                        </div>
+                    </li>
+                                    	<li>
+                    	<div class="footer-img"><img src="http://epicstream.com/assets/uploads/featurescover/100x100/Sg1stargatefront.jpg"></div>
+                    	<div class="footer-content">
+                        	<span>
+							17 Coolest Stargate SG-1 Moments							</span><br><br> 
+                            <a class="t-blue" href="http://epicstream.com/features/17-Coolest-Stargate-SG-1-Moments">Read More</a>                         
+                        </div>
+                    </li>
+                                    	<li>
+                    	<div class="footer-img"><img src="http://epicstream.com/assets/uploads/featurescover/100x100/seas5.jpg"></div>
+                    	<div class="footer-content">
+                        	<span>
+							Game of Thrones Theme Gets A Trance Remix From EDM Superstar Armin Van Buuren							</span><br><br> 
+                            <a class="t-blue" href="http://epicstream.com/features/Game-of-Thrones-Theme-Gets-A-Trance-Remix-From-EDM-Superstar-Armin-Van-Buuren">Read More</a>                         
+                        </div>
+                    </li>
+                                    	<li>
+                    	<div class="footer-img"><img src="http://epicstream.com/assets/uploads/featurescover/100x100/pony1.jpg"></div>
+                    	<div class="footer-content">
+                        	<span>
+							Mad Max Characters As My Little Ponies 							</span><br><br> 
+                            <a class="t-blue" href="http://epicstream.com/features/Mad-Max-Characters-As-My-Little-Ponies">Read More</a>                         
+                        </div>
+                    </li>
+                                        <!--<li>
+                    	<div class="footer-img"><img src="assets/images/footer-2.png" /></div>
+                    	<div class="footer-content">
+                        	<span>Lorem Ipsum is simply dummy text of the printing and typesetting industry</span><br/><br/>
+                            <a class="t-blue" href="#">Read More</a>
+                        </div>
+                    </li>-->
+                </ul>
+            </div>
+						  
+            <div class="column-3">
+           		<h3 class="t-blue">Latest  Reviews</h3>
+                <ul class="footerReviews">
+					                	<li>
+                    	<div class="review-img"><a href="http://epicstream.com/reviews/Featured-Book-Ascension-Denied-by-EAA-Wilson"><img src="http://epicstream.com/assets/uploads/reviewscover/50x50/Screen_Shot_2015-05-26_at_5.38_.42_AM_.png"></a></div>
+                        <div class="review-content"><a href="http://epicstream.com/reviews/Featured-Book-Ascension-Denied-by-EAA-Wilson">Featured Book: 'Ascension Denied' by E.A.A. Wilson</a></div>
+                    </li>
+                                    	<li>
+                    	<div class="review-img"><a href="http://epicstream.com/reviews/Jurassic-World---Review-A-roaring-success-and-franchise-returning-from-extinction"><img src="http://epicstream.com/assets/uploads/reviewscover/50x50/Jurassic_World_(2).jpg"></a></div>
+                        <div class="review-content"><a href="http://epicstream.com/reviews/Jurassic-World---Review-A-roaring-success-and-franchise-returning-from-extinction">Jurassic World - Review: A roaring success and franchise returning from extinction</a></div>
+                    </li>
+                                    	<li>
+                    	<div class="review-img"><a href="http://epicstream.com/reviews/Sense8-S1E8-We-Will-Be-Judged-By-the-Courage-in-Our-Hearts--S1E9-Death-Doesnt-Let-You-Say-Goodbye---Review-Hard-choices-bring-hard-consequences"><img src="http://epicstream.com/assets/uploads/reviewscover/50x50/S1E891.jpg"></a></div>
+                        <div class="review-content"><a href="http://epicstream.com/reviews/Sense8-S1E8-We-Will-Be-Judged-By-the-Courage-in-Our-Hearts--S1E9-Death-Doesnt-Let-You-Say-Goodbye---Review-Hard-choices-bring-hard-consequences">Sense8 "S1E8 We Will Be Judged By the Courage in Our Hearts" &amp; "S1E9 "Death Doesn’t Let You Say Goodbye" - Review: Hard choices bring hard consequences</a></div>
+                    </li>
+                                    </ul>
+            </div>  
+		        </div>
+		
+        <div class="footer-full">
+            <div class="container">
+				<div class="copyright">© 2014 epicstream.com, LLC All rights reserved.  - <a href="http://epicstream.com/cms/disclaimer">Disclaimer</a> - <a href="http://epicstream.com/cms/privacy-policy">Privacy Policy</a></div>
+                <div class="f-social-box">
+                    <ul>
+                    	<li><a class="hgp" href="" target="_blank"><i class="fa fa-google-plus"></i></a></li>
+                        <li><a class="hfb" href="https://www.facebook.com/epicstreams" target="_blank"><i class="fa fa-facebook"></i></a></li>
+                        <li><a class="htw" href="https://twitter.com/FantasyandScifi" target="_blank"><i class="fa fa-twitter"></i></a></li>
+                    </ul>
+                    </div>
+                    <div class="developed-by"><span class="left">All names, trademark and images are copyright their respective owners.</span> <span class="right">Website Designed and Developed by <a href="http://www.imaginovation.net/" target="_blank">Imaginovation</a></span></div>
+            </div> 
+        </div>
+    </footer>
+<!--<script>
+	jQuery(document).ready(function () {
+		jQuery('header nav').meanmenu({meanScreenWidth: "1023"});	
+	}); 
+</script>-->
+<style>
+.fb-comments span iframe .uiSelectorMenuWrapper{top:0 !important;}
+</style>
+<!-- MeanMenu Scripts -->
+<script src="http://epicstream.com/assets/js/jquery.meanmenu.min.js"></script>
+<script src="http://epicstream.com/assets/js/jquery.sliderPro.min.js"></script>
+<script src="http://epicstream.com/assets/js/jquery.carouFredSe.js"></script>
+<script src="http://epicstream.com/assets/js/jquery.uniform.js"></script>
+<script src="http://epicstream.com/assets/js/minishare.js"></script>
+
+<script src="http://epicstream.com/assets/js/custom.js"></script>
+<!-- MeanMenu Scripts -->
+<script>
+
+$("select").uniform();	
+$(":radio").uniform();	
+$(":checkbox").uniform();
 </script>
+<!-- CDN jQuery UI CSS -->
+<!-- <link rel="stylesheet" href="//ajax.googleapis.com/ajax/libs/jqueryui/1.11.2/themes/smoothness/jquery-ui.css" /> -->
+<!-- CDN jQuery UI CSS -->
 
-
-
-</div></body></html>
+</body></html>
