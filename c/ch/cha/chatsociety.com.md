@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chatsociety.com privacy policy that was archived on 2014-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140913102648id_/http%3A//www.chatsociety.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chatsociety.com privacy policy that was archived on 2015-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150614090932id_/http%3A//chatsociety.com/privacy.shtml) for the most accurate reproduction.*
 
 # Free Chat Rooms Online
 
