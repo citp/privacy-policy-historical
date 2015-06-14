@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the ittaleem.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701070504id_/http%3A//www.ittaleem.com/read-me-first/208530-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ittaleem.com privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615002941id_/http%3A//www.ittaleem.com/read-me-first/208530-privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
+
+1 _Likes_
 
 This is a discussion on _Privacy Policy_ within the **Read me first** forums, part of the Complains & Suggestions. category; ITTALEEM Privacy Policy If you require any more information or have any questions about our privacy policy, please feel free ...
 
@@ -42,3 +44,24 @@ This is a discussion on _Privacy Policy_ within the **Read me first** forums, pa
 
 
 
+
+#### Similar Threads
+
+  1. Replies: 3 
+
+Last Post: 26th May 2010, 11:45 PM
+
+
+
+
+####  [](http://www.ittaleem.com/read-me-first/208530-privacy-policy.html#top) Posting Permissions 
+
+  * You **may not** post new threads
+  * You **may not** post replies
+  * You **may not** post attachments
+  * You **may not** edit your posts
+  *  
+
+
+
+[Forum Rules](http://www.ittaleem.com/misc.php?do=showrules)
