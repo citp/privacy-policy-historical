@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the datastax.com privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217004144id_/http%3A//www.datastax.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the datastax.com privacy policy that was archived on 2015-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150614031318id_/http%3A//www.datastax.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy : DataStax
 
@@ -37,7 +37,7 @@ We may send an email to you at the email address you have provided to us in the 
 
 If you no longer wish to receive new product/service notices, email newsletters or other future communications from us, please follow the opt-out instructions included in each such communication or notify us by email at privacy@DataStax.com with the word “remove” in the subject header, and we will remove your name from our email recipient list. You may not, however, opt out of necessary service or account maintenance notices or other administrative and transactional notices.
 
-### Notice for California UsersM/h3>
+### Notice for California Users
 
 Under California Civil Code Section 1789.3, California website users are entitled to the following specific consumer rights notice: The Complaint Assistance Unit of the Division of Consumer Services of the California Department of Consumer Affairs may be contacted in writing at 400 R Street, Suite 1080, Sacramento, California 95814, or by telephone at (916) 445-1254 or (800) 952-5210.
 
