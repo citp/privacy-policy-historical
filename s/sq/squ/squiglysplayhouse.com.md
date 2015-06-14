@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the squiglysplayhouse.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625081318id_/http%3A//www.squiglysplayhouse.com/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the squiglysplayhouse.com privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615012819id_/http%3A//www.squiglysplayhouse.com/Privacy.html) for the most accurate reproduction.*
 
 # Squigly's Playhouse
 
-In keeping with the Children's Online Privacy Protection Act (COPPA), we would like you to know how we handle the information we learn about you from your visit to Squigly's Playhouse. More information about COPPA can be found at the FTC's [Kidz Privacy page](http://www.ftc.gov/kidzprivacy/). The information we gather depends upon what you do when visiting our site.
+In keeping with the Children's Online Privacy Protection Act (COPPA), we would like you to know how we handle the information we learn about you from your visit to Squigly's Playhouse. More information about COPPA can be found at the FTC's [Children's Privacy page](https://www.ftc.gov/consumer-protection/childrens-privacy). The information we gather depends upon what you do when visiting our site.
 
-| 1. | 
-
-**Standard Activity Logging**
+  1. **Standard Activity Logging**
 
 If you visit our site to play games, download activities or just read our pages, the following information about your visit is always recorded:
 
@@ -16,13 +14,9 @@ The type of **browser** you are using (e.g. Safari, Firefox, Internet Explorer) 
 
 This information is used to measure the number of visitors to the different sections of our site and gives us a better understanding of which activities our visitors enjoy doing while there.
 
-If a visitor arrives as a result of clicking on one of our ads on another web site, that fact is recorded in order to gauge the effectiveness of our ads.   
-   
-  
----|---  
-2. | 
+If a visitor arrives as a result of clicking on one of our ads on another web site, that fact is recorded in order to gauge the effectiveness of our ads.
 
-If you send us e-mail via the [Write to Squigly](https://web.archive.org/web/20140625081318id_/http%3A//www.squiglysplayhouse.com/WriteToSquigly/index.html) form we record the following information (all fields are optional):
+  2. If you send us e-mail via the [Write to Squigly](https://web.archive.org/web/20150615012819id_/http%3A//www.squiglysplayhouse.com/WriteToSquigly/index.php) form we record the following information (all fields are optional):
 
 > Your **first name** is only recorded to personalize any respone and is then discarded. You are never required to enter your last name.
 > 
@@ -30,31 +24,23 @@ If you send us e-mail via the [Write to Squigly](https://web.archive.org/web/201
 > 
 > Your **country** is noted for statistical purposes and to assist in troubleshooting.
 
-No information received via this form is retained after we have appropriately responded.  
-   
-  
-3. | Our [Quick Poll](https://web.archive.org/Poll/index.html "Cast your vote in Squigly's Quick Poll") places a cookie on the user's computer for 24 hours to prevent "ballot stuffing." There is no personally identifying information contained in the cookie.  
-   
-4. | 
+No information received via this form is retained after we have appropriately responded.
 
-We have contracted with Burst! and Casale Media to monitor certain pages of our website for the purpose of reporting website traffic, statistics, advertisement 'click-throughs', and/or other activities on our website. Where authorized by us, Burst! and Casale may use cookies, web beacons, and/or other monitoring technologies to compile anonymous statistics about our website visitors. No personally identifiable information is collected by or transferred to any party other than the Advertiser and these advertisers do not perform bahavioural advertising in relation to visits to Squigly's Playhouse. For more information about how the information is collected and used by these companies please see their privacy policies by clicking on the appropriate link below. 
+  3. Our [Quick Poll](https://web.archive.org/Poll/index.html "Cast your vote in Squigly's Quick Poll") places a cookie on the user's computer for 24 hours to prevent "ballot stuffing." There is no personally identifying information contained in the cookie.
 
-  * [Burst!](https://www.burstmedia.com/release/privacy.asp)
-  * [Casale Media](http://casalemedia.com/privacy.html)
-  * [Google Adsense](http://www.google.com/intl/en/policies/privacy/)
-  * [Cox Digital](http://www.coxdigitalsolutions.com/privacy-policy/consumer-privacy-policy/)  
- 
+  4. We have contracted with Burst! and Casale Media to monitor certain pages of our website for the purpose of reporting website traffic, statistics, advertisement 'click-throughs', and/or other activities on our website. Where authorized by us, Burst! and Casale may use cookies, web beacons, and/or other monitoring technologies to compile anonymous statistics about our website visitors. No personally identifiable information is collected by or transferred to any party other than the Advertiser and these advertisers do not perform bahavioural advertising in relation to visits to Squigly's Playhouse. For more information about how the information is collected and used by these companies please see their privacy policies by clicking on the appropriate link below.
 
-  
-5. | 
+> [Burst!](https://www.burstmedia.com/release/privacy.asp)  
+>  [Casale Media](http://casalemedia.com/privacy.html)  
+>  [Google Adsense](http://www.google.com/intl/en/policies/privacy/)
 
-Squigly also features games by Big Fish Games. These games have advanced features that may require registration to activate. Please read their [privacy policy](http://www.bigfishgames.com/company/privacy.html).  
-   
-  
-6. | Some of our games are provided by Mochi Media, which displays advertising during game load and sometimes during game play. Squigly's Playhouse has contracted with Mochi Media to pay for this advertising space and display Squigly's Playhouse links in place of the normal ads. However, from time to time, regular ads may still show. Mochi Media does not engage in behavioral advertising. Please read their [statement on this matter](http://labs.mochimedia.com/archive/2011/06/01/do-not-track/).  
-   
-7. | Squigly's Playhouse uses Google Analytics to track web site usage information. The information collected inludes IP Address, pages visited by time and duration, web browser information and other relevant information. This information is not personally identying and is used only to help us make Squigly's Playhouse a more enjoyable experience. Google now has a [unified privacy policy](https://www.google.com/intl/en/policies/privacy/).  
-  
+  5. Squigly also features games by Big Fish Games. These games have advanced features that may require registration to activate. Please read their [privacy policy](http://www.bigfishgames.com/company/privacy.html). 
+
+  6. Squigly's Playhouse uses Google Analytics to track web site usage information. The information collected inludes IP Address, pages visited by time and duration, web browser information and other relevant information. This information is not personally identying and is used only to help us make Squigly's Playhouse a more enjoyable experience. Google now has a [unified privacy policy](https://www.google.com/intl/en/policies/privacy/).
+
+
+
+
 We want you to be very certain: **We will not obtain personally-identifying information about you when you visit our site, unless you choose to provide such information to us and we will never divulge any such information to any other party.**
 
 Please be aware that, as a general rule, e-mail on the Internet is **not** a secure method of communication. Any e-mail you send or receive can be intercepted and read by another party.
