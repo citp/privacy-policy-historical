@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the madthumbsmate.com privacy policy that was archived on 2014-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141209070310id_/http%3A//www.madthumbsmate.com/privacy.html%3F) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the madthumbsmate.com privacy policy that was archived on 2015-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150614042254id_/http%3A//www.madthumbsmate.com/privacy.html%3F) for the most accurate reproduction.*
 
 # MadThumbsMate - Privacy Policy
 
@@ -50,4 +50,4 @@ The address for correspondence by post is
 ICF Technology, Inc.  
 PO Box 21508  
 Seattle, WA 98111  
-USA 
+USA
