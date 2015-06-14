@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the opengovtjobs.com privacy policy that was archived on 2014-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141110190214id_/http%3A//www.opengovtjobs.com/privacy-policy-opengovtjobs-com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the opengovtjobs.com privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615002423id_/http%3A//www.opengovtjobs.com/privacy-policy-opengovtjobs-com) for the most accurate reproduction.*
 
-# Privacy Policy (OpenGovtJobs.Com) - Open Govt Jobs in India 2014-2015
+# Privacy Policy (OpenGovtJobs.Com) - Open Govt Jobs 2015
 
 At www.opengovtjobs.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.opengovtjobs.com and how it is used.
 
