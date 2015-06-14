@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quickbase.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231043257id_/http%3A//quickbase.intuit.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quickbase.com privacy policy that was archived on 2015-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150614210203id_/http%3A//quickbase.intuit.com/privacy) for the most accurate reproduction.*
 
 # QuickBase Privacy Statement
 
