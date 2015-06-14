@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the timespace.com privacy policy that was archived on 2014-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141201195939id_/http%3A//www.timespace.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the timespace.com privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615002440id_/http%3A//www.timespace.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Time+Space | Virtual Instruments, VST Plugins, Sample Libraries, Sample CDs, Downloads, Tutorial DVDs, Hardware and Software
 
