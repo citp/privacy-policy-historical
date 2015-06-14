@@ -1,105 +1,65 @@
-> *The following text is extracted and transformed from the clinicdoctors.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120031726id_/http%3A//www.nutribiologic.com/gpage1.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clinicdoctors.com privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615003353id_/http%3A//www.clinicdoctors.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-PRIVACY POLICY Effective Date: July 7, 2012 
+This Privacy Policy is in application to ClinicDoctors. This would impart how ClinicDoctors collects uses and shares the information from or regarding you as you visit a site, gives information on how advertisements are done, both on ClinicDoctors and other websites, and how information is collected based on interactions with the online ads. In addition to the Notice, depending on the relationship with ClinicDoctors, you may receive and be under the coverage of ClinicDoctors, other privacy disclosures within account opening documents and other privacy and security rules as applicable to the relevant affiliate.
 
-To review material modifications and their effective dates scroll to the bottom of the page. 
+**Information Gathering**
 
-___NutriBiologic(tm)Inc__ ("___NutriBiologic Inc") owns and operates this nutribiologic.com website business. All references to "we", "us", this "website" or this "site" shall be construed to mean ___NutriBiologic Inc. We understand that visitors to this website are concerned about the privacy of information. The following describes our privacy policy regarding information, including Personal-Covered Information (defined below), that we collect through this website. By using this website you are accepting the practices described in this Privacy Policy. 
+When you visit ClinicDoctors, categories of information may be gathered, including personal information that are provided via forms, applications, surveys, or other online fields. We can also collect information about you from online browsing and transactions, including preferences pages visited and technical information regarding your settings. Personal information means identifiable information and does not include aggregated date that the site could create or compile from various sources, including transactions and accounts. This information which does not single out individual customers is used by our site business purposes, including offering services or products, research, marketing or analyzing market trends and other purposes in congruence to existing laws.
 
-HOW WE MODIFY THIS PRIVACY POLICY 
+**Cookies**
 
-We reserve the right to modify this Privacy Policy at any time, and without prior notice, by posting an amended Privacy Policy that is always accessible by clicking on the "Privacy Policy" link on this site's home page. Your continued use of this site indicates your acceptance of the amended Privacy Policy. You should check the Privacy Policy through this link periodically for modifications by clicking on the link provided near the top of the Privacy Policy for a listing of material modifications and their effective dates. 
+These are pieces of information stored on the computer upon use. ClinicDoctors or the third party service providers, as well as advertising service providers, may place cookies or flash objects on the hard drive for security purposes for the facilitation of site navigation and personalization of the experience.
 
-Regarding Personal-Covered Information (defined below), if any modifications are materially less restrictive on our use or disclosure of the Personal-Covered Information previously disclosed by you, we will obtain your consent before implementing such revisions with respect to such information. 
+In visiting ClinicDoctors, we use cookies to go over your experience of the site. In applying for a product on one of our sites, we would use cookies to remember you and to provide information on products and services best fitting your needs. If you have an account with us and you access your accounts online, we will maintain the information about your visits to personalize your browsing experience, and the services and products offered. If you do not have an account with us and wish not for us to maintain the information, delete the cookies. For this, you would need to follow the browsers instructions for deleting and disabling cookies.
 
-THE TYPES OF INFORMATION WE COLLECT 
+**IP Addresses**
 
-Personal-Covered Information. We collect (i) personal information that may be used to identify you, and (ii) covered information such as location data, screen names, and lists of contacts that you provide to us (â€œPersonal-Covered Informationâ€). Personal-Covered Information that we collect may vary with each separate purpose for which you provide it, and it may include one or more of the following categories: name, physical address, an email address, phone number, credit card information including credit card number, expiration date, and billing address, and location data. 
+The IP address is a number assigned to the Internet accessing network or computer. Visitors IP addresses are stored in our log as they visit the site. These IP address are collected for administration of the system, reporting aggregate information, and auditing Site visits. In addition, some features of our site display IP address together with name and message, like on forums.
 
-Non-Personal Information. We reserve the right to collect anonymous information such as your browser type, the URL of the previous website you visited, your computerâ€™s operating system and Internet protocol (IP) Address, Internet domain and host name, your Internet Service provider, your clickstream data, and the dates and times that you may access this site and specific pages (Non-Personal Informationâ€). Non-Personal Information is essentially anonymous when collected; however, itâ€™s possible that Non-Personal Information could be used to identify you. 
+**Advertising**
 
-HOW AND WHEN WE COLLECT INFORMATION 
+The site advertises on pages within the site as well as other websites not affiliated with ClinicDoctors. Information collected in our advertising service providers though cookies and other technologies would include the number of people who look at each page on the site, browsing patterns within the site, search engine referrals, browsing patterns in ClinicDoctors and responses to promotions and advertisements on the sites where we advertise.
 
-Personal-Covered Information. We collect Personal-Covered Information at the time you provide it to us. We collect Personal-Covered Information through sign-up forms and as part of your registration for an account, product, or service from this website. Personal-Covered Information that we collect may vary with the each sign-up or registration. 
+**Online Surveys**
 
-Your Communications With Us. We collect Personal-Covered Information that we receive from you as you communicate with us. 
+Time to time, you can be asked to do online surveys. You do not have the requirement to do such; but these are used to gather information to better address your needs. Based on this, we can keep you updated on account and service.
 
-Passive and Analytical Information. We reserve the right to monitor your use of this site. As you navigate through this site, Non-Personal Information may be passively collected (that is, gathered without your actively providing the information) using various analytics and reporting technologies, such as cookies and web beacons. 
+**Planning Tools**
 
-HOW WE USE YOUR INFORMATION 
+ClinicDoctors gives users visiting websites with many planning tools, including mortgage, savings and plans for retirement. The information placed into these tools could be used for future access and use. We will inform you when the information is to be planned to stored, and you can have the option for this information not to be saved.
 
-We use your Personal-Covered Information for the performance of the services or transaction for which it was given, our private, internal reporting for this site, and security assessments for this site. 
+**Using and Sharing Information**
 
-We reserve the right to tie or link your Personal-Covered Information to Non-Personal Information, as follows: link your email address (Personal Information) with information collected by a cookie regarding the length of time you visit our site (Non-Personal Information). In these cases, the Non-Personal Information will be considered Personal-Covered Information, and our policies discussed below regarding disclosure of Personal-Covered Information will apply. 
+There would be times that ClinicDoctors could make information available to third parties that could be companies not related through common ownership or control, including service providers, insurance agencies, credit bureaus, retailers, membership organizations, government agencies, legal investigators, courts and other non-affiliated third parties as requested by you or your authorized representative, or otherwise when required or allowed by law. Unless differently describe in the Notice, for US account holders, we will use and share any information collected from or about you covered by the Notice in keeping with the Privacy Notice , providing consumers additional direct marketing choices.
 
-We reserve the right to make full use of Non-Personal Information. For example, we may use Non-Personal Information to provide better service to site visitors, customize the site based on your preferences, compile and analyze statistics and trends about the use of this site, and otherwise administer and improve this site for your use. 
+**Social Media Connection**
 
-HOW WE DISCLOSE YOUR INFORMATION 
+ClinicDoctors provides experiences on social media platforms, enabling online sharing and collaboration with users. Any content posted, including pictures, information, opinions and other personal information made available to these platforms is subject to the Terms of Use and Privacy Policies of the Platforms. Kindly refer to these to understand you rights in keeping with the content.
 
-General Disclosure Policy. Our general policy is that we will not share, sell, rent, or provide access to your Personal-Covered Information to others. The only exceptions to this general policy: (i) are described in the subsections below, and (ii) if you explicitly approve through our site. We reserve the right to disclose Non-Personal Information without restriction. 
+**Accuracy of Information**
 
-Disclosure to Affiliated Entities. We reserve the right to provide your Personal-Covered Information to any affiliated entities we may have, including our subsidiaries. Affiliated entities are entities that we legally control (by voting rights) or that control us. 
+Keeping account information accurate and updated is essential. If the account information is inaccurate or incomplete, kindly use the Contact Us link on our site, call to inform us at the correct address or telephone numbers for changes in the account statements, records, online or other account materials.
 
-Disclosure to Service Providers for Website Operations. We reserve the right to disclose your Personal-Covered Information to our trusted service providers that assist us with the operation and maintenance of this site. For example, we may use third parties to process payments, host our servers, provide security, and provide production, fulfillment, optimization, analytics, and reporting services. We will take commercially reasonable efforts to cause these third parties to agree to hold your information in confidence or to disclose information only to third parties that we believe in good faith have instituted and follow privacy and security policies that are acceptable to us. 
+**Linking to Other Sites**
 
-Disclosure to Successors. If we are acquired by or merged with a third party entity, or if we sell this website business or a line of business from this website, we reserve the right to transfer your Personal-Covered Information as part of such merger, acquisition, sale, or other change of control. In the unlikely event of our bankruptcy, insolvency, reorganization, receivership, or assignment for the benefit of creditors, or the application of laws or equitable principles affecting creditors' rights generally, we reserve the right to transfer your Personal-Covered Information to protect our rights or as required by law. 
+We could provide link to sites not related to our service, including merchants and credit bureaus. If you follow links to websites not controlled by ClinicDoctors, you should go over the privacy policies and other terms, as they could diverge from other sites. ClinicDoctors will not guarantee and will not be responsible for the security or privacy of the said websites, including the completeness or accuracy of said information.
 
-Disclosure Incident to Legal Process and Enforcement. We reserve the right to disclose your Personal-Covered Information if we have a good faith belief that access, use, preservation or disclosure of such information is reasonably necessary (i) to satisfy any applicable law, regulation, legal process or enforceable governmental request (such as for example, to comply with a subpoena or court order), or (ii) to investigate or enforce violations of our rights or the security of this site. 
+**Children’s Privacy**
 
-Disclosure to our Affiliates and Resellers. We reserve the right to disclose your Personal-Covered Information to any of our (i) affiliates that referred you to our site for purposes of sales by us, and (ii) resellers that may re-sell our products or services to you. Disclosures to affiliates will only be to the affiliate that referred you to our site. Disclosures to resellers will be only to resellers that have already shared your information with us. Understand that the information you provide to these resellers is subject to their privacy policies. 
+Most of our publications and web sites are intended for adults. Some web sites and publications, however, are intended for teens 13 and older but may include features or material that may be appealing to children under the age of 13. We are strongly committed to protecting the safety and privacy of children who visit our Web sites. We do not knowingly collect personal information online from children under 13. Many of our sites include bulletin boards and other features that we believe are unsuitable for children under 13 and which are not necessarily monitored. We encourage all parents to talk to their kids about online safety and to monitor their children’s use of the Internet.
 
-Disclosure When We Act as an Affiliate or Reseller for Others. We may act as an affiliate or reseller for certain of our marketing partners for purposes of selling their products or services to you, and we reserve the right to right to disclose your Personal-Covered Information to them for purposes of transaction processing, fulfillment, and support. These marketing partners may also email you regarding complimentary products or services, however, you have two ways to opt out of receiving these emails â€“ (i) contact us (as provided below under the Contact Us heading) with a request to opt out, or (ii) wait until you receive an email from them and then unsubscribe. 
+**Change in Company’s Ownership**
 
-Disclosure to Third Parties For Direct Marketing; Your California Privacy Rights. We may provide you with the opportunity to receive promotional offers from specifically identified third-parties through their direct marketing efforts, but only if you explicitly consent (opt-in) to receive each offer. If you explicitly consent (opt-in), your Personal-Covered Information will be shared only with the specifically identified third-party to enable them to provide you with the offer you have requested, and then only in connection with that specific promotion and not on a continual basis. Any information that you provide in the process of registration or purchase will be transferred to these sites. We have no responsibility or liability for the policies and practices of these sites. You should review any privacy policies posted on any of these sites before providing information to them. California Civil Code Section 1798.83 permits California residents to request certain information regarding disclosure of their personal information to third parties for purposes of direct marketing. You may request further information about our compliance with California Civil Code Section 1798.83 at the following email address: compliance.officer-at-nutribiologic.com. Please note that we are only required to respond to one request per registrant each year, and we are not required to respond to requests made by means other than through this the address provided above. 
+If by chance another company obtains the assets in the business of ClinicDoctors, we reserve inclusion of the stored personal identification information along with the assets transferred to the new corporate owners.
 
-SPECIFIC INFORMATION ABOUT COOKIES AND WEB BEACONS 
+**Service Customization**
 
-3rd Party Cookies for Web Analytics and Reporting. We reserve the right to use web analytics services provided by 3rd parties. These services use 3rd party cookies (cookies passed by others, not by us) to collect Non-Personal Information about your use of this site. These web analytics services may also transfer this information to third parties where required to do so by law, or where such third parties process the information on the service's behalf. 
+Target advertising to users is provided by the information collected about users. This is to allow all the pertinent advertising to be displayed. Customization of certain website features we provide is done with the information that is collected.
 
-3rd Party Cookies for Serving Behavioral Ads; Flash Cookies. We reserve the right to serve our ads and third party ads on our site that are targeted to your interests ("3rd Party Behavioral Ads"). 3rd Party Behavioral Ads are served by 3rd party advertising services that use 3rd party cookies (cookies passed by others, not by us) to collect Non-Personal Information about your use of this site and other websites. This information is your â€œbehavioral dataâ€. 3rd Party Behavioral Ads do not use your Personal Information. Instead, they associate your behavioral data on visited sites with your computer, so that the ads your computer sees on this site are more likely to be relevant to your interests. These advertising services may also transfer this information to third parties where required to do so by law, or where such third parties process the information on the service's behalf. We will provide notice and the opportunity to opt-out of receiving 3rd Party Behavioral Ads; however, the 3rd party advertising services that serve ads on our site may use Flash cookies which may make it more difficult to opt-out effectively. Flash cookies are not the same as â€œbrowser cookiesâ€. Flash cookies consist of an Adobe Flash Media Player local shared object (LSO) that is used for tracking purposes. The Adobe Flash Media Player is software that enables users to view content on their computers. Flash cookies are also accompanied by a browser cookie. If you delete the browser cookie, the Flash cookie will automatically create (or re-spawn) a replacement for the browser cookie. For information on how to delete a Flash cookie, visit http://kb2.adobe.com/cps/526/52697ee8.html or search the Web for â€œHow to delete flash cookieâ€. 
+**Third-Parties**
 
-Participation in Googleâ€™s Adsense Network. We reserve the right to participate in Google's AdSense network for purposes of serving 3rd Party Behavioral Ads. Google uses DoubleClick's DART cookie in its AdSense network. You may opt out of the use of the DART cookie. For information regarding how to opt out, go to http://www.google.com/privacy_ads.html . 
+Third-parties are contracted for specific services such as credit card processing and list generation. Any information that is required to perform these services is provided to the service provider.
 
-Web Beacons. A web beacon is an electronic image placed in the code of a web page. We reserve the right to use web beacons to monitor the traffic patterns of users from one of our pages to another and to improve our siteâ€™s performance. 
-
-DATA SECURITY 
-
-We follow reasonable and appropriate industry standards to protect your Personal-Covered Information and data. Unfortunately, no data transmission over the Internet or method of data storage can be guaranteed 100% secure. Therefore, while we strive to protect your Personal-Covered Information by following generally accepted industry standards, we cannot ensure or warrant the absolute security of any information you transmit to us or archive at this site. 
-
-When you transmit Personal-Covered Information through our registration process or if you purchase products or services, we encrypt that information in transit using secure socket layer technology (SSL). 
-
-After the secure transfer of your Personal-Covered Information, the information is maintained and stored with 128-bit encryption. 
-
-ONWARD TRANSFER OUTSIDE YOUR COUNTRY OF RESIDENCE 
-
-Any Personal-Covered Information which we may collect on this site will be stored and processed in our servers located only in the United States. By using this site, if you reside outside the United States, you consent to the transfer of Personal-Covered Information outside your country of residence to the United States. 
-
-UPDATING PERSONAL-COVERED INFORMATION 
-
-Upon request, we will permit you to request or make changes or updates to your Personal-Covered Information for legitimate purposes. We request identification prior to approving such requests. We reserve the right to decline any requests that are unreasonably repetitive or systematic, require unreasonable time or effort of our technical or administrative personnel, or undermine the privacy rights of others. We reserve the right to permit you to access your Personal-Covered Information in any account you establish with this site for purposes of making your own changes or updates, and in such case, instructions for making such changes or updates will be provided where necessary. 
-
-EMAIL AND PRE-RECORDED PHONE MESSAGES; OPT-OUT 
-
-This site treats email messages and other electronic messages that are sent through this site and not viewable by others as confidential and private, except as required by law, including without limitation, the Electronic Communications Privacy Act of 1986, 18 U.S.C. Sections 2701-2711 (the "ECPA"). The ECPA permits this site's limited ability to intercept and/or disclose electronic messages, for example (i) as necessary to operate our system or to protect our rights or property, (ii) upon legal demand (court orders, warrants, subpoenas), or (iii) where we receive information inadvertently which appears to pertain to the commission of a crime. This site is not considered a "secure communications medium" under the ECPA. 
-
-If you supply us with your e-mail address you may receive promotional offers from third party sponsors which we select; however, in these instances, we do NOT share your Personal-Covered Information with the third party sponsors for purposes of the mailing; we do the mailing for them. However, if you do accept any of these promotional offers, any information that you provide in the process of registration or purchase will be transferred to these sites. We have no responsibility or liability for the policies and practices of these sites. You should be careful to review any privacy policies posted on any of these sites before providing information to them. 
-
-If you supply us with your phone number you may receive periodic pre-recorded messages from us with information specific to the site and required for the normal functioning of the site as well as for new products or services or upcoming events. If you prefer not to receive periodic pre-recorded messages, you may opt-out by following the instructions in the message. 
-
-LINKS TO OTHER SITES; ONLINE ADS 
-
-This site may contain links to other websites with whom we have a business relationship. These links may include online advertisements that we deem to be appropriate. Any information that you provide in the process of registration or purchase will be transferred to these sites. We have no responsibility or liability for the policies and practices of these sites; however, we have entered into agreements with these websites which provide that unless you specifically agree otherwise, they will use and share your Personal-Covered Information only for the purpose of providing or fulfilling your request for products or services. You should be careful to review any privacy policies posted on any of these sites before providing information to them. 
-
-CHILDRENâ€™S ONLINE POLICY 
-
-We are committed to preserving online privacy for all of its website visitors, including children. This site is a general audience site. Consistent with the Children's Online Privacy Protection Act (COPPA), we will not knowingly collect any information from, or sell to, children under the age of 13. If you are a parent or guardian who has discovered that your child under the age of 13 has submitted his or her personally identifiable information without your permission or consent, we will remove the information from our active list, at your request. To request the removal of your child's information, please contact our site as provided below under "Contact Us", and be sure to include in your message the same login information that your child submitted. 
-
-CONTACT US 
-
-If you have any questions regarding this Privacy Policy, please contact the owner and operator of this website business at: 
-
-___NutriBiologic(tm)Inc__ Attn: Privacy Policy Officer ___17 10th Ave So.__ ___Hopkins_, MN, ____55343_ Email: compliance.officer-at-nutribiologic.com Telephone: _____952-541-5669 Facsimile: _____952-927-0178 
-
-\-- Material Modifications Since July 7, 2012: none. 
+We use third-party advertising companies to serve ads and collect data when you visit our website. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site, other sites, and other forms of media about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: [http://www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/choices/)
