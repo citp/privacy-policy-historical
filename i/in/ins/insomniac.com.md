@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the insomniac.com privacy policy that was archived on 2014-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141113080257id_/http%3A//www.insomniac.com/insomniac-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insomniac.com privacy policy that was archived on 2015-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150614033328id_/http%3A//www.insomniac.com/insomniac-privacy-policy) for the most accurate reproduction.*
 
-# Insomniac
+# Privacy Policy | Insomniac
 
 Insomniac Privacy Policy - Your Privacy Rights
 
@@ -44,7 +44,7 @@ This Policy describes how we treat personal information we collect both online a
 
 **You have certain choices about how we use your information.**
 
-**You can opt out of receiving our marketing emails.** To stop receiving our promotional emails, click _here_ or follow the instructions in any promotional message you get from us. Your device settings should provide you with instructions on how to turn off push notifications. It may take about ten days to process your request. Don't worry! Even if you opt out of getting marketing messages, we will still be sure to send you transactional messages. For example, we may still contact you about your orders.  
+**You can opt out of receiving our marketing emails.** To stop receiving our promotional emails, please follow the unsubscribe instructions in any promotional message you get from us. Your device settings should provide you with instructions on how to turn off push notifications. It may take about ten days to process your request. Don't worry! Even if you opt out of getting marketing messages, we will still be sure to send you transactional messages. For example, we may still contact you about your orders.  
  **You can modify information you have given us.** To correct or delete information or update account settings, log into your account and follow the instructions. We make changes as soon as we can. This information may stay in our backup files. If we cannot make the changes you want, we will let you know and explain why. If you contact us requesting access to your information, we will respond within 30 days.  
  **You can control cookies and tracking tools.** To learn how to manage how we, and our vendors, use cookies and other tracking tools, please click [here](http://concerts.livenation.com/h/ad-choices.html).  
  **You can control tools on your mobile devices.** For example, you can turn off the GPS locator or push notifications on your phone. Each push notification has an "unsubscribe" link.
@@ -84,4 +84,4 @@ If you are not satisfied with our response, you can contact TRUSTe [ _here_](ht
 
 From time to time we may change our privacy practices. We will notify you of any material changes to this policy as required by law. We will also post an updated copy on our website. Please check our site periodically for updates.
 
-© 2014 Insomniac Holdings, LLC All rights reserved.
+© 2015 Insomniac Holdings, LLC All rights reserved.
