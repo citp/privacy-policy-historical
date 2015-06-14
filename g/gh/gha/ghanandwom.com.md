@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ghanandwom.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220103616id_/http%3A//www.ghanandwom.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ghanandwom.com privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615015951id_/http%3A//www.ghanandwom.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | GhanaNdwom.com
 
@@ -18,19 +18,21 @@ Our Site may use “cookies” to enhance User experience. User’s web browser 
 **How we use collected information**  
 GhanaNdwom may collect and use Users personal information for the following purposes:
 
-  * _\- To improve customer service_  
+  * _– To improve customer service_  
 Information you provide helps us respond to your customer service requests and support needs more efficiently.
-  * _\- To personalize user experience_  
+  * _– To personalize user experience_  
 We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
-  * _\- To improve our Site_  
+  * _– To improve our Site_  
 We may use feedback you provide to improve our products and services.
-  * _\- To send periodic emails_  
+  * _– To send periodic emails_  
 We may use the email address to respond to their inquiries, questions, and/or other requests. If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email or User may contact us via our Site.
 
 
 
 **How we protect your information**  
 We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.
+
+[](http://www.jobberman.com.gh/?utm_source=GhanaNdwom&utm_medium=Banner468X60&utm_term=FindYourDreamJob&utm_campaign=Jobseeker "Jobberman.com.gh")
 
 **Sharing your personal information**  
 We do not sell, trade, or rent Users personal identification information to others.
@@ -40,8 +42,6 @@ We do not sell, trade, or rent Users personal identification information to othe
 Ads appearing on our site may be delivered to Users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile non personal identification information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This privacy policy does not cover the use of cookies by any advertisers.
 
 **Compliance with children’s online privacy protection act** Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our Site from those we actually know are under 13, and no part of our website is structured to attract anyone under 13.
-
-[](http://www.jobberman.com.gh/?utm_source=GhanaNdwom&utm_medium=Banner468X60&utm_term=FindYourDreamJob&utm_campaign=Jobseeker "Jobberman.com.gh")
 
 **Changes to this privacy policy**
 
