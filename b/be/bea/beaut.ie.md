@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the beaut.ie privacy policy that was archived on 2014-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141208224729id_/http%3A//beaut.ie/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beaut.ie privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615005416id_/http%3A//beaut.ie/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Beaut - Beauty, Fashion, Life , Photos, Celebrity, Tutorials
 
 ** ** **Privacy statement for Beaut.ie, a site owned and operated by Entertainment Media Networks Limited (‘Beaut.ie’).**
 
