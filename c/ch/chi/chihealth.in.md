@@ -1,243 +1,151 @@
-> *The following text is extracted and transformed from the chihealth.in privacy policy that was archived on 2014-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140905184615id_/http%3A//www.chihealth.in/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chihealth.in privacy policy that was archived on 2015-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150614072433id_/http%3A//www.chihealth.in/privacypolicy) for the most accurate reproduction.*
 
 # ChiHealth - Weight loss, Diet, Fitness, Health and Wellness at an arm's Length !
 
- At ChiHealth, we respect your privacy and believe you should be informed about how we collect, use and disclose your Personal Information. This Privacy Policy describes our practices regarding how we use and share with third parties Personal Information (as defined below ) that we collect on the Website. By visiting the ChiHealth.in website and any other URLs and websites administered by ChiHealth and its affiliates (collectively, the "Website") that are offered by ChiHealth and its affiliates (collectively, " ChiHealth" or "we" or "us") or otherwise submitting your Personal Information to us, you accept the practices described in this statement. The terms "you" and "user" as used herein refer to all individuals and/or entities accessing the Website for any reason.
+At Truworth Health Technologies Pvt. Ltd., ("Truworth Wellness" for brevity) we respect your privacy and believe you should be informed about how we collect, use and disclose your Personal Information. This Privacy Policy describes our practices regarding how we use and share with third parties Personal Information (as defined below) that we collect on the Website. By visiting the Truworth Wellness website and any other URLs and websites administered by Truworth Wellness and its affiliates (collectively, the "Website") that are offered by Truworth Wellness and its affiliates (collectively, "TRUWORTH WELLNESS" or "we" or "us") or otherwise submitting your Personal Information to us, you accept the practices described in this statement. The terms "you" and "user" as used herein refer to all individuals and/or entities accessing the Website for any reason. 
 
-**ChiHealth Privacy Policy Summary**
+Truworth Wellness Privacy Policy Summary
 
-ChiHealth understands how important the privacy of personal information is to our users. We understand that your privacy matters and we respect your privacy choices. This summary of our privacy policy is intended to give you an overview of:
+Truworth Wellness understands how important the privacy of personal information is to our users. We understand that your privacy matters and we respect your privacy choices. This summary of our privacy policy is intended to give you an overview of:
 
-  * What information we collect about you
-  * What choices you have about your information
-  * How we use your information
-  * How and with whom we may share the information we have about you
-  * How we protect your information
+  * What information we collect about you 
+  * What choices you have about your information 
+  * How we use your information 
+  * How and with whom we may share the information we have about you 
+  * How we protect your information 
   * How to contact us with questions or concerns
 
 
 
 We urge you to take the time to read our entire Privacy Policy for complete detail about our privacy practices and your information.
 
-**Information Collected About You**
+Information Collected About You 
 
-We may collect "Personal Information" about you – such as your name, address, telephone number, email address or health information – in the following ways:
+We may collect "Personal Information" about you – including your name, age, gender, address, telephone number, email address or health information - in the following ways:
 
-  * When you register for or update an existing profile on our web sites or Apps or register for the ChiHealth Portal, tools and apps;
+  * When you register for or update an existing profile on our web sites or Apps or register for the Truworth Wellness Portal, tools and apps;
   * When you use certain interactive tools and services;
-  * When you sign – up for newsletters or other communications from ChiHealth;
+  * When you sign - up for newsletters or other communications from Truworth Wellness ;
   * When you participate in an online survey; or
   * When you provide personal information in a community area or other public forum.
 
 
 
-We may collect "Non-Personal Information" – information that cannot be used to identify you – via Cookies, Web Beacons, ChiHealth mobile device applications and from external sources, even if you have not registered with or provided any Personal Information to ChiHealth.
+We may collect "Non-Personal Information" – information that cannot be used to identify you – via Cookies, Web Beacons, Truworth Wellness mobile device applications and from external sources, even if you have not registered with or provided any Personal Information to Truworth Wellness . 
 
-**What Choices Do I Have?**
+What Choices Do I Have? 
 
-If you do not want your Personal Information used by ChiHealth as provided in this Privacy Policy, you should not register on this website or as a member or for any specific tool or application that collects Personal Information. You may correct, update or review Personal Information you have submitted through registration, tools and applications by signing in and updating your registration information. If you have registered and no longer want ChiHealth to use your Personal Information, you should delete your information as described in this Policy.
+If you do not want your Personal Information used by Truworth Wellness as provided in this Privacy Policy, you should not register on this website as a member or for any specific tool or application that collects Personal Information. You may correct, update or review Personal Information you have submitted through registration, tools and applications by signing in and updating your registration information. If you have registered and no longer want Truworth Wellness to use your Personal Information, you should delete your information as described in this Policy. 
 
-Most browser software can be set to reject Cookies.
+Most browser software can be set to reject Cookies. 
 
-**How Information Collected About You Is Used**
+How Information Collected About You Is Used 
 
-We may use information we collect about you to:
+We may use information we collect about you to: 
 
   * Administer your account;
   * Provide you with access to particular tools and services;
   * Respond to your inquiries and send you administrative communications;
   * Obtain your feedback on our sites and our offerings;
   * Statistically analyze user behavior and activity;
-  * Provide you with more relevant content and advertisements;
+  * Provide you with more relevant content and offerings; 
   * Conduct research and measurement activities; or
   * Send you personalized emails or secure electronic messages pertaining to your health interests, including news, announcements, reminders and opportunities.
 
 
 
-We may combine Personal and Non-Personal Information collected by ChiHealth about you, and may combine this information with information from external sources. Third parties may also use Non-Personal Information in order to display advertising that reflects the interests and preferences of our user community.
+We may combine Personal and Non-Personal Information collected by Truworth Wellness about you, and may combine this information with information from external sources. 
 
-**With Whom Do We Share Your Information?**
+With Whom Do We Share Your Information?
 
-ChiHealth will not disclose any Personal Information about you unless specifically agreed to you by you or:
+Truworth Wellness will not disclose any Personal Information about you unless specifically agreed to you by you or:
 
   * To comply with legal requirements, such as a law, regulation, search warrant, subpoena, or court order;
-  * To our vendors and suppliers in the course of their provision of products or services to ChiHealth;
+  * To our vendors and suppliers in the course of their provision of products or services to Truworth Wellness 
   * In the event of a corporate change in control resulting from, for example, a merger, a sale of assets, or bankruptcy; or
   * In special cases, such as in response to a physical threat to you or others.
+  * For cluster reporting purposes to your employer in an individually non-identifiable manner. 
 
 
 
-ChiHealth does not make your Personal Information available to third parties for their marketing purposes.
+Truworth Wellness does not make your Personal Information available to third parties for their marketing purposes. 
 
-**How Do We Secure and Retain Your Information?**
+Truworth Wellness will not share your personal information with your employer in an individually identifiable format. 
 
-We have put in place technical, physical, and administrative safeguards to protect the Personal Information that we collect.
+How Do We Secure and Retain Your Information? 
 
-**Contact ChiHealth**
+We have put in place technical, physical, and administrative safeguards to protect the Personal Information that we collect. 
 
-Please send us an email using the Contact Us link at the bottom of every page of our site if you have any questions about this Privacy Policy or the Personal Information we maintain about you.
+Contact Truworth Wellness 
 
-You can also contact ChiHealth’s Privacy Office at:
+Please send us an email using the Contact Us link at the bottom of every page of our site if you have any questions about this Privacy Policy or the Personal Information we maintain about you. 
 
-ChiHealth and Workplace Wellness Solutions Pvt. Ltd.
+You can also contact Truworth Wellness Privacy Office at: [info@truworthwellness.com](mailto:info@truworthwellness.com)
 
-1005, Jai Antriksh,
+Truworth Wellness Privacy Policy
 
-Makwana Road, Marol,
+Truworth Wellness understands how important the privacy of personal information is to our users. This Privacy Policy will tell you what information we collect about you and about your use of Truworth Wellness and its services. It will explain the choices you have about how your personal information is used and how we protect that information. We urge you to read this Privacy Policy carefully.
 
-Andheri (East), Mumbai - 400 059
+Information Collected About You
 
-(E) [info@chihealth.in](mailto:info@chihealth.in)
+Personal Information
 
-**ChiHealth Privacy Policy**
+If you choose to register or update an existing member profile with Truworth Wellness or access certain functionality on the Truworth Wellness Web Sites, you may be required to submit Personal Information. "Personal Information" means information that we can use to identify or contact you. Some of our interactive tools and services may request you to submit health information, which would also be considered Personal Information. You are responsible for ensuring the accuracy of the Personal Information that you submit to Truworth Wellness . Inaccurate information will affect your experience when using the Truworth Wellness Web Sites and tools and our ability to contact you as described in this Privacy Policy. 
 
-ChiHealth understands how important the privacy of personal information is to our users. This Privacy Policy will tell you what information we collect about you and about your use of ChiHealth and its services. It will explain the choices you have about how your personal information is used and how we protect that information. We urge you to read this Privacy Policy carefully.
+Registration
 
-This Privacy Policy applies to Web sites owned and operated by ChiHealth that are intended for use by consumers (non-professionals) for non-commercial personal, family or household purposes, including ChiHealth.in, StepUpToLife.com, and others including the mobile optimized versions of these sites (we refer to these sites collectively as the "ChiHealth Web Sites"). However, if you are an employee or health plan member who has enabled access to your health record at ChiHealth.in by registering at your employer’s or health plan’s website, the privacy policy applicable to your information at your employer’s or health plan’s website remains applicable to your personal health record at ChiHealth.in. If your employer or health plan account is no longer made available to you by your employer or health plan, you will continue to have access to your health information from ChiHealth.in, using the same username and password, but will be subject to this Privacy Policy. Except where noted, statements in this Privacy Policy with respect to the ChiHealth Web Sites also apply to the ChiHealth Mobile Device Application (or "App") for the iOS, Android, Windows and Blackberry operating systems.
+Access to some Truworth Wellness interactive tools and services may be limited to users who have registered. Some of our tools (such as certain quizzes or calculators) do not retain your Personal Information, while others store your Personal Information in accordance with this Privacy Policy and the authorization you provide at the time you submit Personal Information in order to use the tool. Truworth Wellness Personal Health Records, which allows you a secure place to gather, store, manage and share your Personal Information and provides tools and services to better manage your health and the health of your family, requires additional registration. It has the ability to use Personal Information that you provide to send you personalized emails or secure electronic messages. However, Truworth Wellness does not allow any third parties to place beacons or cookies or to gather any data about you in connection with your use of the same. 
 
-References to "ChiHealth" mean ChiHealth and Workplace Wellness Solutions Pvt. Ltd., including any company that it controls. ChiHealth may share information among its subsidiaries or group companies or web sites that it owns or controls, but information collected under this Privacy Policy is always protected under the terms of this Privacy Policy.
+Newsletters & Emails to You 
 
-**Information Collected About You**
+At registration and at various times as you use the Truworth Wellness Web Sites, you will be given the option of providing us with Personal Information in order to receive recurring informational/promotional newsletters – such as a newsletter relating to a specific health condition – via email from Truworth Wellness . When you sign up for our email newsletters or at any time, you can choose to opt out of receiving additional promotional newsletters from Truworth Wellness . 
 
-**Personal Information**
+You can unsubscribe from a newsletter by following the directions included at the bottom of the newsletter. 
 
-If you choose to register or update an existing member profile with ChiHealth or access certain functionality on the ChiHealth Web Sites, you may be required to submit Personal Information. "Personal Information" means information that we can use to identify or contact you, such as your name, address, telephone number or email address. Some of our interactive tools and services may request you to submit health information, which would also be considered Personal Information. You are responsible for ensuring the accuracy of the Personal Information that you submit to ChiHealth. Inaccurate information will affect your experience when using the ChiHealth Web Sites and tools and our ability to contact you as described in this Privacy Policy.
+Market Research
 
-**Registration**
+From time to time, Truworth Wellness may conduct online research surveys through email invitations, pop–up surveys and online focus groups. When participating in a survey, we may ask you to enter Personal Information. The Personal Information you submit in a survey may be used by Truworth Wellness for research and measurement purposes, as described below, including measurement of the effectiveness of content, advertising or programmes. When our market research surveys collect Personal Information we will not knowingly accept participants who are under the age of 13.
 
-Access to some ChiHealth interactive tools and services may be limited to users who have registered. Some of our tools (such as certain quizzes or calculators) do not retain your Personal Information, while others store your Personal Information in accordance with this Privacy Policy and the authorization you provide at the time you submit Personal Information in order to use the tool. ChiHealth Personal Health Records, which allows you a secure place to gather, store, manage and share your Personal Information and provides tools and services to better manage your health and the health of your family, requires additional registration. It has the ability to use Personal Information that you provide to send you personalized emails or secure electronic messages. However, ChiHealth does not allow any third parties to place beacons or cookies or to gather any data about you in connection with your use of the same.
+Health Communities 
 
-**Newsletters & Emails to You**
-
-At registration and at various times as you use the ChiHealth Web Sites, you will be given the option of providing us with Personal Information in order to receive recurring informational/promotional newsletters – such as a newsletter relating to a specific health condition – via email from ChiHealth and/or directly from third parties.
-
-When you sign up for our email newsletters or at any time, you can choose to opt out of receiving additional promotional newsletters from ChiHealth or our Sponsors.
-
-You can unsubscribe from a newsletter by following the directions included at the bottom of the newsletter.
-
-**Market Research**
-
-From time to time, ChiHealth may conduct online research surveys through email invitations, pop–up surveys and online focus groups. When participating in a survey, we may ask you to enter Personal Information. The Personal Information you submit in a survey may be used by ChiHealth for research and measurement purposes, as described below, including measurement of the effectiveness of content, advertising or programs. When our market research surveys collect Personal Information we will not knowingly accept participants who are under the age of 13. Market research surveys conducted by or on behalf of ChiHealth will contain a link to this Privacy Policy.
-
-**Community, Health Communities, Blogs and Other Public Forums**
-
-ChiHealth features several community areas and other public forums where users with similar interests or medical conditions can share information and support one another or where users can post questions for experts to answer. We also offer online discussions moderated by healthcare experts. Our communities are open to the public and should not be considered private.
+Truworth Wellness features several community areas where users with similar interests or medical conditions can share information and support one another or where users can post questions for experts to answer. We also offer online discussions moderated by healthcare experts. Our communities are open to the public and should not be considered private.
 
 **Any information (including Personal Information) you share in any online community area including a chat room, Health Community, Ask Our Expert posting or online discussion is by design open to the public and is not private. You should think carefully before posting any Personal Information in any public forum. What you post can be seen, disclosed to or collected by third parties and may be used by others in ways we cannot control or predict, including to contact you for unauthorized purposes. As with any public forum on any site, the information you post may also show up in third-party search engines.**
 
-**If you mistakenly post Personal Information in our Community areas and would like it removed, you can send us an email to request that we remove it by using the _Contact Us_ link on the ChiHealth Web Sites. In some cases, we may not be able to remove your Personal Information. If your Personal information has been seen by any entity prior to us removing it, ChiHealth will not be responsible for the same.**
+**If you mistakenly post Personal Information in our Community areas and would like it removed, you can send us an email to request that we remove it by using the Contact Us link on the Truworth Wellness Web Sites. In some cases, we may not be able to remove your Personal Information. If your Personal information has been seen by any entity prior to us removing it, Truworth Wellness will not be responsible for the same.**
 
-**Emails You Send to ChiHealth**
+Emails You Send to Truworth Wellness 
 
-This Privacy Policy does not apply to information, content, business information, ideas, concepts or inventions that you send to ChiHealth by email. If you want to keep content or business information, ideas, concepts or inventions private or proprietary, do not send them in an email to ChiHealth.
+This Privacy Policy does not apply to information, content, business information, ideas, concepts or inventions that you send to Truworth Wellness by email. If you want to keep content or business information, ideas, concepts or inventions private or proprietary, do not send them in an email to Truworth Wellness .
 
-**Non-Personal Information**
+Non-Personal Information
 
-Even if you do not register with or provide any Personal Information to ChiHealth, we collect Non-Personal Information about your use of the ChiHealth Web Sites. "Non-Personal Information" means information that we cannot use to identify or contact you. We may also acquire Non-Personal Information about our users from external sources. While you may use some of the functionality of ChiHealth without registration, many of the specific tools and services on the ChiHealth Web Sites require that you register with ChiHealth.
+Even if you do not register with or provide any Personal Information to Truworth Wellness , we collect Non-Personal Information about your use of the Truworth Wellness Web Sites. "Non-Personal Information" means information that we cannot use to identify or contact you. We may also acquire Non-Personal Information about our users from external sources. While you may use some of the functionality of Truworth Wellness without registration, many of the specific tools and services on the Truworth Wellness Web Sites require that you register with Truworth Wellness .
 
-**Cookies and Web Beacons**
+Cookies and Web Beacons
 
-We collect Non-Personal Information about your use of the ChiHealth Web Sites and your use of other web sites through the use of Cookies and Web Beacons. "Cookies" are small data files that are stored on the hard drive of the computer you use to view a web site. Every computer that accesses the ChiHealth Web Sites is assigned a different cookie by ChiHealth. "Web Beacons" are graphic image files imbedded in a web page typically used to monitor activity on a web page and send back to its home server (which can belong to the host site, a network advertiser or some other third party) information from your browser, such as the IP address, the URL of the page on which the beacon is located, the type browser that is accessing the site and the ID number of any Cookies on your computer previously placed by that server.
+We collect Non-Personal Information about your use of the Truworth Wellness Web Sites and your use of other web sites through the use of Cookies and Web Beacons. "Cookies" are small data files that are stored on the hard drive of the computer you use to view a web site. Every computer that accesses the Truworth Wellness Web Sites is assigned a different cookie by Truworth Wellness . "Web Beacons" are graphic image files imbedded in a web page typically used to monitor activity on a web page and send back to its home server.
 
-Third parties under contract with ChiHealth may use Cookies or Web Beacons to collect Non-Personal Information about your usage of the ChiHealth Web Sites, including which health topics you have viewed. These third party advertising service providers may use this information, on our behalf, to help ChiHealth deliver advertising on the ChiHealth Web Sites as well as on other sites on the Internet based on your browsing activity on our sites. ChiHealth may further tailor the advertising on these third party sites based on additional Non-Personal Information to the extent known by ChiHealth or these third parties.
+What Choices Do I Have?
 
-**Mobile Device Applications ("Apps")**
+Updating/Removing Your Personal Information
 
-When you download and install one of our ChiHealth Mobile Apps onto your mobile device we assign a random number to your App installation. This number cannot be used to identify you personally, and we cannot identify you personally unless you choose to become a registered user of the App. We use this random number in a manner similar to our use of Cookies as described in this Privacy Policy. Unlike Cookies, the random number is assigned to your installation of the App itself and not a browser, because the App does not work through your browser. Therefore the random number cannot be removed through settings. If you do not want us to use the random number for the purposes for which we use Cookies, please do not use the Mobile Device App, and please use your mobile device browser to access the ChiHealth Web Sites or our mobile optimized sites. We do not obtain any information about your mobile device, other than the brand, make and model and type of operating software your device uses. Please note that certain ChiHealth Mobile Apps require registration either to use the App or to use certain functionality in the App.
+If you do not want your Personal Information used by Truworth Wellness Privacy as provided in this Privacy Policy, you should not register as a member or for any specific tool or application that collects Personal Information. You can correct, update or review Personal Information you have previously submitted by going back to the specific tool or application, logging-in and making the desired change. You can also update any Personal Information you have submitted by contacting us using the contact information listed below. 
 
-**Non-Personal Information Collected by Third Parties Not Acting on ChiHealth’s Behalf**
+If you have registered and desire to delete any your Personal Information you have provided to us from our systems please contact us using the contact information listed below. Upon your request, we will delete your Personal Information from our active databases and where feasible from our back-up media. You should be aware that it is not technologically possible to remove each and every record of the information you have provided to the Truworth Wellness Privacy Web Sites from our servers. 
 
-We work with third parties to display advertising that reflects the interests and preferences of our user community. Sponsors or advertisers on the ChiHealth Web Sites may use their own Cookies, Web Beacons or other online tracking technologies in the banner advertisements served on the ChiHealth Web Sites and in emails, special promotions or newsletters we send you. Their advertisements may be displayed on the ChiHealth Web Sites or on other sites that you visit after you visit the ChiHealth Web Sites. Some advertisers use companies other than ChiHealth to serve their ads and to monitor users' responses to ads, and these companies ("Ad Servers") may also collect Non-Personal Information through the use of Cookies or Web Beacons on the ChiHealth Web Sites.
+If you decide that you would prefer not to receive personalized email or secure electronic messages from Truworth Wellness , you may "Opt-out" of the service by following the unsubscribe instructions included in each promotional email.
 
-We do not control how third parties use Cookies or Web Beacons or how they manage the Non-Personal Information they gather through the use of these technologies on the ChiHealth Web Sites.
+Cookies
 
-**What Choices Do I Have?**
+Most browser software can be set to reject Cookies. Most browsers offer instructions on how to reset the browser to reject Cookies in the "Help" section of the toolbar. If you reject our Cookies, some of the functions and conveniences of the Truworth Wellness Web Sites may not work properly but you do not have to accept our Cookies in order to productively use the Truworth Wellness Web Sites
 
-**Updating/Removing Your Personal Information**
+Changes to This Privacy Policy 
 
-If you do not want your Personal Information used by ChiHealth as provided in this Privacy Policy, you should not register as a member or for any specific tool or application that collects Personal Information. You can correct, update or review Personal Information you have previously submitted by going back to the specific tool or application, logging-in and making the desired change. You can also update any Personal Information you have submitted by contacting us using the contact information listed below.
+We reserve the right to change or modify this Privacy Policy or any of our tools or services at any time and any changes will be effective upon being posted unless we advise otherwise. If we make any material changes to this policy we will notify you by email (sent to the email address specified when you register) and/or by means of a notice on this website prior to the change becoming effective. We encourage you to periodically review this website for the latest information on our privacy practices. If you do not accept the terms of this Privacy Policy, we ask that you do not register with us and that you do not use the Truworth Wellness Web Sites. Please exit the Truworth Wellness Web Sites immediately if you do not agree to the terms of this Privacy Policy.
 
-If you have registered and desire to delete any your Personal Information you have provided to us from our systems please contact us using the contact information listed below. Upon your request, we will delete your Personal Information from our active databases and where feasible from our back-up media. You should be aware that it is not technologically possible to remove each and every record of the information you have provided to the ChiHealth Web Sites from our servers.
+Disclaimer 
 
-If you decide that you would prefer not to receive personalized email or secure electronic messages from ChiHealth, you may "Opt-out" of the service by following the unsubscribe instructions included in each promotional email.
+Content found on the Website and associated mobile apps or emails are for informational purposes only and not intended to replace the relationship with your doctor or other healthcare provider. Truworth Wellness is not a licensed medical care provider and does not claim to have expertise in diagnosing, examining, or treating medical conditions of any kind, or in determining the effect of any specific exercise on a medical condition. Truworth Wellness will try to provide helpful and accurate information on the Website, but cannot verify, endorse or vouch for the information, services or recommendations available on the Website and associated mobile apps or emails or provided by its health coaches, employees, affiliates or sub-contractors. Truworth Wellness is not responsible for the accuracy, reliability, effectiveness, or correct use of information you receive through the Website. Reliance on any information provided by Truworth Wellness, it's employees, associates, and affiliates appearing on the Website by invitation or as visitors is solely at your own risk. Truworth and your employer cannot be held responsible for any outcomes arising due to the same. 
 
-**Cookies**
-
-Most browser software can be set to reject Cookies. Most browsers offer instructions on how to reset the browser to reject Cookies in the "Help" section of the toolbar. If you reject our Cookies, some of the functions and conveniences of the ChiHealth Web Sites may not work properly but you do not have to accept our Cookies in order to productively use the ChiHealth Web Sites. It is important to note that in order to use the opt-out services described below, you must not reject all Cookies because these opt-out procedures work by placing Cookies on your browser that enable these opt-out procedures to function. The "opt-out Cookies" are placed, for example, in order to help prevent the placement of Cookies used for the targeting of advertising.
-
-Certain Ad Servers allow you to prevent them from collecting data through the use of Cookies. In order to do so, you must Opt-out of such data collection with each individual site.
-
-We work with third party ad networks to display advertising on our Sites. Our ad network vendors use technologies to collect non-personally identifiable information about your activities on our web sites to provide you cookie-based targeted advertising based upon your browsing activity and your interests.
-
-**How Information Collected About You Is Used**
-
-Information collected by ChiHealth about you is used by ChiHealth to:
-
-  * administer your account,
-  * provide you with access to particular tools and services,
-  * respond to your inquiries you send to us and to send you administrative communications about the ChiHealth Web Sites or services,
-  * obtain your feedback about the ChiHealth Web Sites or our offerings,
-  * statistically analyze user behavior and activity including how frequently areas of the site are visited and how many emails are received and opened,
-  * provide you with more relevant content or advertising both on the ChiHealth Web Sites or on other web sites that you visit after you leave the ChiHealth Web Sites; and
-  * Conduct research and measurement activities, including those described below.
-
-
-
-ChiHealth may combine Personal and Non-Personal Information collected by ChiHealth about you, and may combine this information with information from external sources.
-
-We also use Cookies in order to enable us to conduct surveys for our own use and on behalf of our advertisers. These Cookies are used to determine whether you have seen certain content or advertising so that we may request your opinions. We may also use Cookies to authenticate respondents or to help you pick up where you left off in a survey. If you have Cookies disabled you may not be able to participate in some surveys.
-
-**Research and Measurement Activities**
-
-Information that ChiHealth collects about you may be combined by ChiHealth with other information available to ChiHealth through third parties for research and measurement purposes, including measuring the effectiveness of content, advertising or programs. This information from other sources may include age, gender, demographic, geographic, personal interests, product purchase activity or other information. We may report aggregate information, which is not able to be identified back to an individual user of the ChiHealth Web Sites, to our current or prospective advertisers and other business partners. We do not sell or share any Personal Information with any third parties, except contractors performing services on our behalf who agree not to use this information received from us for any purpose other than performing services on our behalf.
-
-**With Whom Do We Share Your Information?**
-
-Except as described in this Privacy Policy or as specifically agreed to by you, ChiHealth will not disclose any Personal Information it gathers from you through the ChiHealth Web Sites. We may only release Personal Information to third parties: (1) to comply with legal requirements such as a law, regulation, search warrant, subpoena or court order; or (2) in special cases, such as in response to a physical threat to you or others, to protect property or defend or assert legal rights. In addition, we may disclose Personal Information as described below.
-
-In the event of a corporate change in control resulting from, for example, a sale to, or merger with, another entity, or in the event of a sale of assets or a bankruptcy, ChiHealth reserves the right to transfer your Personal Information to the new party in control or the party acquiring assets. In the event of such a change, your Personal Information will continue to be treated in accordance with this Privacy Policy unless any changes to the Privacy Policy are made in accordance with the section below that discusses "Changes to This Privacy Policy."
-
-**Disclosures to ChiHealth Operations and Maintenance Contractor**
-
-ChiHealth contractors sometimes have limited access to your Personal and Non-Personal Information in the course of providing products or services to ChiHealth. These contractors include vendors and suppliers that provide us with technology, services, data analysis, research, advertising and marketing assistance and/or content for the operation and maintenance of the ChiHealth Web Sites. We contractually require that our operations and maintenance contractors: 1) protect the privacy of your Personal and Non-Personal Information consistent with this Privacy Policy and 2) not use or disclose your Personal or Non-Personal Information for any purpose other than providing the limited service or function for ChiHealth.
-
-**Disclosures to Third Party Web Sites**
-
-Certain content, services and advertisements offered to you through the ChiHealth Web Sites are served on, or contain links to, web sites hosted and operated by a company other than ChiHealth ("Third Party Web Sites"). ChiHealth does not disclose your Personal Information to these Third Party Web Sites without your consent, but you should be aware that any information you disclose to the other web sites once you access these other web sites is not subject to this Privacy Policy. ChiHealth does not endorse and is not responsible for the privacy practices of these Third Party Web Sites. You should review the privacy policy posted on the other web site to understand how that Third Party Web Site collects and uses your Personal Information. ChiHealth makes an effort to make it obvious to you when you leave our website and enter a Third Party Web Site, either by requiring you to click on a link or by notifying you on the site before you visit the third party site. In addition, if you see a phrase such as "Powered by" or "in association with" followed by the name of a company other than ChiHealth, then you are on a web site hosted by a company other than ChiHealth.
-
-**How Do We Secure and Retain Your Information?**
-
-We take reasonable security measures to protect the security of your Personal Information. Despite ChiHealth's efforts to protect your Personal Information, there is always some risk that an unauthorized third party may find a way around our security systems or that transmissions of your information over the Internet may be intercepted.
-
-The security of your Personal Information is important to us. When you enter Personal Information (including personal health information in various tools on our website), we encrypt the transmission of that information or use SSL connections (Secure Socket Layer) technology.
-
-We will retain your Personal Information as long as your account is active or needed to provide you services. At any time you can remove your Personal Information or instruct us to remove it, but you should be aware that it is not technologically possible to remove each and every record of the information you have provided to ChiHealth from our servers. ChiHealth tools that collect and store Personal Information allow you to correct, update or review information you have submitted by going back to the specific tool, logging-in and making the desired changes. We will also retain your Personal Information as necessary to comply with legal obligations, resolve disputes and enforce our agreements.
-
-**Children**
-
-We are committed to protecting the privacy of children. The ChiHealth Web Sites are not designed or intended to attract children under the age of 13. The ChiHealth Web Sites do not collect Personal Information from any person we actually know is under the age of 13. A parent or guardian, however, may use ChiHealth to establish a personal health record and a ChiHealth home page for a minor. The parent or guardian is solely responsible for providing supervision of the minor's use of ChiHealth websites. The parent or guardian assumes full responsibility for ensuring that the registration information is kept secure and that the information submitted is accurate. The parent or guardian also assumes full responsibility for the interpretation and use of any information or suggestions provided through ChiHealth for the minor.
-
-**Contacting ChiHealth about Your Personal Information or Privacy**
-
-Please send us an email by using the Contact Us link of our site if you have any questions about this Privacy Policy or the Personal Information we maintain about you.
-
-You can also contact ChiHealth’s Privacy Office at:
-
-ChiHealth and Workplace Wellness Solutions Pvt. Ltd.
-
-1005, Jai Antriksh,
-
-Makwana Road, Marol,
-
-Andheri (East), Mumbai - 400 059
-
-(E) [info@chihealth.in](mailto:info@chihealth.in)
-
-**Changes to This Privacy Policy**
-
-We reserve the right to change or modify this Privacy Policy or any of our tools or services at any time and any changes will be effective upon being posted unless we advise otherwise. If we make any material changes to this policy we will notify you by email (sent to the email address specified when you register) and/or by means of a notice on this website prior to the change becoming effective. We encourage you to periodically review this website for the latest information on our privacy practices. If you do not accept the terms of this Privacy Policy, we ask that you do not register with us and that you do not use the ChiHealth Web Sites. Please exit the ChiHealth Web Sites immediately if you do not agree to the terms of this Privacy Policy.
-
-Effective Date : Jan 01, 2013   
-© 2013-14 ChiHealth and Workplace Wellness Solutions Pvt. Ltd. All rights reserved.
-
-**ChiHealth Support**
+Effective Date: 09 January, 2014
