@@ -1,107 +1,58 @@
-> *The following text is extracted and transformed from the applyyourself.com privacy policy that was archived on 2012-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120422090413id_/http%3A//www.hobsons.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the applyyourself.com privacy policy that was archived on 2015-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150614050121id_/http%3A//www.hobsons.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Hobsons
 
-### United States
+This statement discloses the privacy practices for the Hobsons® website, located at www.hobsons.com (the “Site”), and Hobsons’® offline print and electronic publications.  By using a Site or one of our offline print or electronic publications, you agree to the collection, use and disclosure of your personal information as described in this statement.  If you do not agree to the terms of this statement, then please do not use a Site or such publications.
 
-We have created this privacy statement in order to demonstrate our commitment to privacy. The following statements reflect our information gathering and dissemination practices for our online and offline publications. We make every effort to conform to the "Fair Information Practice Principles" published by the Federal Trade Commission. Information is available at www.ftc.gov. For questions regarding this Privacy Statement, complete our response form and submit it to the Hobsons® Webmaster through General Site Feedback.
+BY USING THE SITE, YOU AGREE TO OUR COLLECTION, USE AND MAINTENANCE OF YOUR INFORMATION IN THE UNITED STATES. 
 
-**How We Use IP Addresses**   
-We use IP addresses to help diagnose problems with our server and to administer our Web site. We will never share a visitor's IP address with a third party without first securing the user's express permission to do so.
+If you have any questions regarding this Privacy Statement, please send us an [e-mail](mailto:privacypolicy@hobsons.com) or contact us by mail at 50 E-Business Way, Suite 300 Cincinnati, OH 45241.
 
-**How We Use Cookies**   
-Our site uses cookies to keep track of a user's session. Establishing a user session by logging onto the site enables users to easily find colleges that meet their needs, request information from colleges, and apply online to schools. Cookies are commonly used to gather targeted consumer profile information so that we can serve the user's interests more efficiently. Although some Web site operators use cookies to generate consumer profiling information to be sold or transferred to third parties, it is the policy of this site never to share personal information collected using cookies without first securing the user's express permission to do so.
+Our online and offline registration forms require users to give us contact information, including name, e-mail address and postal address.  We may also collect your telephone number, year in school, anticipated enrollment date, gender, ethnicity, grade point average and intended major.  We use this information to send you information about the specific colleges and universities that match your interests. You may also provide us with your informed consent to receive additional financial aid, scholarship, career and product and service information from Hobsons or directly from our partner colleges, universities and partner companies.  We do not release any information to our partners unless you have granted us permission to do so.  We may also collect contact and other information from you if you:  (1) participate in one of our contests or sweepstakes or apply for a scholarship from us; (2) order from us; (3) take part in one of our surveys; (4) contact us; or (5) otherwise voluntarily submit information to us, including in our online communities.
 
-**Registration**   
-Our online and offline registration forms require users to give us contact information. We use the contact information from these registration forms to send the user information about the specific colleges and universities that match their interests. Users may opt in to receive additional financial aid, scholarship, and career information from Hobsons or our partners. We do not release any user information to our partners unless the user has granted permission to do so. If necessary, the information is also used to contact users.
+You always have the ability to opt out of receiving future mailings and special offers; see the “Opt Out” section below.
 
-Users always have the ability to opt out of receiving future mailings and special offers; see the "Opt Out" section below.
+If you use any of our tell-a-friend features, we ask for your friend’s name and e-mail address.  We use this information only to send the communication you requested and to monitor the effectiveness of our tell-a-friend features.
 
-Registration is required for all contests, online ordering, surveys, online applications, online inquiries, and other features. Limitations may apply as required by federal regulations and state and regional laws governing sweepstakes, promotions, and contests.
+As part of the standard operation of the Site, we may collect certain non-personal information from you, including but not limited to your browser type, operating system, IP address and the domain name from which you accessed the Site.  In addition, we may collect information about your browsing behavior, such as the date and time you visit the Site, the areas or pages of the Site that you visit, the amount of time you spend viewing the Site, the number of times you return to the Site and other click-stream data.  We do not combine this non-personal information with your personal information.  We use this information to: (1) provide you with customized content and advertising; (2) administer the Site, monitor its usage and diagnose problems with it; (3) remember you when you return to the Site, so that you don’t have to re-submit information and preferences; and (4) conduct research to improve our content and services.  In addition, we use software that uses your IP address to determine roughly where you are located, so that we can deliver advertisements to you, while you are on the Site, based on your location and therefore as relevant to you as possible. 
 
-**Hobsons Scholarships**   
-Hobsons awards scholarships to U.S. students each year to encourage them to apply for and become enrolled in U.S. colleges or universities. To learn more about Hobsons' scholarship program, view the Frequently Asked Questions page.
+We use cookies to collect the non-personal information described above.  A cookie is a small text file that may be stored on the hard drive of your computer when you access the Site.  You are free to decline cookies, but by doing so, you may not be able to use certain features on the Site or take full advantage of all of our offerings.  Check the “Help” menu of your browser to learn how to change your cookie preferences.
 
-**Opt Out**   
-Users who have opted in through our online and offline registration forms can opt out of receiving future communications from us. Users may also request removal directly from our partners at any time in the future. We make every effort to honor their request; however, we expressly disclaim responsibility for the actions of partners or other third parties beyond our control. To remove information from our database, users can complete our response form and submit it to General Site Feedback.
+We use web beacons, which are tiny graphic images, in our e-mails.  These help us measure the effectiveness of our e-mail campaigns, by telling us whether the messages have been received, opened or otherwise acted upon.
 
-**Security Policy**   
-Hobsons uses commercially accepted protocols and other security methods to protect a user's privacy. It is the policy of the site's operators to enforce this security policy to prevent unauthorized third parties from attempting to access personal information. Visitors are encouraged to report suspected violations to the Webmaster at the address listed above.
+We also work with a company that serves advertisements on our behalf.  The company uses cookies, web beacons or similar technologies to collect anonymous information about your visits to the Site and other websites, so that we may serve you advertisements that are relevant to your interests.  Our ad serving company does not collect personal information about you, and we do not share any personal information with it. [Click here](http://www.networkadvertising.org/managing/opt_out.asp) to learn more about ad serving, or for instructions on how to opt out of it.
 
-**Contacting the Web site**   
-If you have any questions about this privacy statement, the practices of this site, or dealings with this Web site, contact:
+We will never share your IP address with a third party (except for our service providers) without first securing your express permission to do so.
 
-Marketing Director  
+We may use the information we collect from and about you for any of the following purposes:  (1) to fulfill your requests for products and services; (2) to provide you with targeted offers, Site content and advertising on the Site; (3) to contact you with information and promotional materials and offers from our company as well as from our affiliates, other related companies, educational institutions, marketing partners and other third parties, if you have agreed to receive such communications; (4) to contact you when necessary; (5) to review Site and product usage and operations; (6) to address problems with the Site, our business or our products and services; and (7) to protect the security or integrity of the Site and our business. 
+
+In addition to disclosing your information to our partners, with your consent, as described above, we may disclose the information collected from and about you as follows:  (1) to our affiliated companies; (2) to our service providers, who may use it only on our behalf; (3) as necessary, if we believe that there has been a violation of our Site Terms of Use or of our rights or the rights of any third party; (4) to respond to judicial process and provide information to law enforcement agencies or in connection with an investigation on matters related to public safety, as permitted by law, or otherwise as required by law; and (5) as disclosed to you at the point of collection.  In addition, if our company or substantially all of its assets are acquired, your personal information may be one of the transferred assets.
+
+Any personal information or content that you voluntarily upload or submit for posting to a Site (including your name and information in your blogs, a site community, bios, videos and comments) becomes publicly available and can be collected and used by others.  It may also be available to third party search engines.  It is in violation of the Site’s Terms of Use for you to post any content that requests personally identifiable information.
+
+We may share aggregate, non-personally identifiable information about you with third parties for research and other purposes.
+
+You may opt out of receiving future communications from us by logging into your account and editing your profile.  You may also opt out of receiving commercial e-mail from us by following the instructions in each e-mail.
+
+If you would prefer that we not share your personal information with third parties, including our affiliates, for those parties’ own marketing or other purposes, please send us an [e-mail](mailto:privacypolicy@hobsons.com) or contact us by mail at 50 E-Business Way, Suite 300 Cincinnati, OH 45241.
+
+To access, correct or request that we make no further use of your personal information, please send us an [e-mail](mailto:privacypolicy@hobsons.com) or contact us by mail at 50 E-Business Way, Suite 300 Cincinnati, OH 45241.
+
+The Site hosts numerous links to other sites, which are provided for your convenience only.  We have no control over these linked sites, all of which have their own privacy policies and terms of use.  You access them at your own risk.  Inclusion of any linked third-party site on the Site does not imply our approval or endorsement of the site.
+
+Hobsons® has taken certain physical, electronic, contractual and managerial steps to safeguard and secure your personal information. It is your responsibility to maintain the confidentiality of your Site account information, including your password, and you are responsible for all use of the Site accessed through it.  You agree to notify us immediately of any unauthorized use of your account or any other actual or suspected breach of Site security.
+
+We do not direct the Site to, nor do we knowingly collect any personal information from, children under thirteen.
+
+We may change this Privacy Statement from time to time.  When we do, we will post the change(s) on the Site.  If we change the statement in a material way, we will provide appropriate online notice to you.
+
+If you have any questions about this Privacy Statement, the practices of the Site, or dealings with the Site or with us, contact:
+
+**Brand Director**  
 Hobsons  
 50 E-Business Way, Suite 300  
 Cincinnati, OH 45241  
-Phone: (800) 927-8439  
-E-mail: please complete our response form and submit it to General Site Feedback
+Phone: 800.927.8439  
+[Send e-mail](mailto:privacypolicy@hobsons.com)
 
-* * *
-
-### European Union
-
-Hobsons Plc, of Challenger House, 42 Adler St, London E1 1EE, UK, takes your privacy seriously. This Privacy Policy explains the steps we take to ensure information about you is kept secure and confidential.
-
-Please read this Privacy Policy carefully, as once you use our Web site or our services you will be deemed to have read and accepted this Privacy Policy.
-
-You must not use our Web site or our Services if you do not accept this Privacy Policy.
-
-  1. **The Information We Collect**
-
-We will only collect personal information about you and given by you when you register with us. We will always let you view the personal information we have about you. To access this click on the "Update your details" link on our websites, log in with your username and password and click on "my profile". You are able to update and amend your personal information at any time in the same way.
-
-  2. **Purposes for Which We Use Information about Our Users**
-
-We collect information about our users for a variety of purposes. These include the following purposes:
-
-    * where users supply information to us pursuant to schemes and services which we offer (for example, to join our information services such as the Hobsons Student Service, or the parent zone of Hobsons Springboard) or to obtain information about jobs and courses, information will be processed by us to supply the information and material which we promise to supply members. Your information is held at Hobsons PLC in the UK, and maintained by third parties such as [WCN](http://www.wcn.co.uk/), [Riverhall Computer Systems Ltd](http://www.riverhall.co.uk/), [Openworld Data](http://www.owdata.com/) as well as by Hobsons and yourself via any of our websites.
-    * so that we can inform our users of new products and services which may be of interest to them,
-    * so that we can send you news items which are relevant to your interests
-    * to help us improve and personalise our services
-  3. **Passing on Information about You**
-
-We may disclose information obtained from you to third parties to enable us to perform services requested by you, together with aggregate but not individual statistics to potential advertisers, such as the number of users we have, their average age, location, etc. We will only pass on information about you as an individual (as opposed to aggregate information) to third parties with your prior consent. If you give your consent, third parties may then send communications to you to provide information and services that may be of interest to you. Where you have applied for a job with a specific organisation through Hobsons (e.g. Cisco or Morley) your details will be stored by WCN and managed by Hobsons. Hobsons will communicate with you only for the purposes of administering your application. If your application is successful your details will be passed directly to the organisation and you will not receive further communications from Hobsons. If your application is unsuccessful your details will be stored by Hobsons and we will use them to provide you with further job information. You can unsubscribe from this service at any time by emailing [unsubscribe@hobsons.co.uk](mailto:unsubscribe@hobsons.co.uk).
-
-The more we know about you, the more value we can offer you by way of a personalized service. We may store certain personal information and use this to offer you personalized services and information through our services. Once you have given consent you can of course ask us and third parties to stop providing such services to you at any time by e-mailing unsubscribe@hobsons.co.uk or to the third party.
-
-In certain circumstances we may need to disclose information about you if you breach this privacy policy. We may also disclose or access your account if required to do so by law or any other governmental body.
-
-  4. **Security**
-
-Keeping information about you secure is very important to us. However, no data transmission over the Internet can be guaranteed to be totally secure. As a result, while we strive to protect your personal information, we cannot ensure or warrant the security of any information which you send to us, and you do so at your own risk.
-
-Hobsons will take precautions to protect against the loss, misuse, and alteration of your user data under our control. Only authorized employees and subcontractors will be given access to the information you provide us. It is our policy that your data will only be forwarded to organizations such as employers and educational institutions in accordance with the preferences expressed by you. Apart from this authorized disclosure, our systems are designed to ensure that your data can only be viewed online if your logon ID and password are correctly input. While we cannot guarantee that loss, misuse, or alteration to data will not occur, we take many precautions aimed at preventing such occurrences.
-
-You are ultimately responsible for the security of your logon ID and password. Please take care when using and storing them. We recommend that you do not divulge your password to anyone. You should log out of your browser at the end of each computer session to ensure that others cannot access your personal information, especially if you share a computer with someone else or are using a computer in a public place like a library or Internet cafe.
-
-  5. **Cookies**
-
-Our site uses cookies to keep track of a user's session. Establishing a user session by logging on to the site enables users to easily find jobs and courses that meet their needs, and request information from companies and institutions. Cookies are commonly used to gather targeted consumer profile information so that we can serve the user's interests more efficiently. Although some Web site operators use cookies to generate consumer profiling information to be sold or transferred to third parties, it is the policy of this site never to share information collected using cookies without first securing the user's express permission to do so.
-
-  6. **Transferring Your Information Abroad**
-
-Information supplied by you to us, whether submitted by you via this or other Web sites (or other communications, such as registration forms) will only be transferred abroad by us or our agents for the purpose of performing contractual obligations owed by us to you.
-
-  7. **How Can You Access and Update Information Which We Hold about You?**
-
-    * access and update your information by clicking on the "Update your details" link on any of our websites and logging using your username and password
-    * access all e-zines sent to you by Hobsons by clicking on the "Update your details" link on any of our websites and logging using your username and password
-    * unsubscribe from Hobsons by e-mailing [unsubscribe@hobsons.co.uk](mailto:unsubscribe@hobsons.co.uk).
-  8. **Automated Decisions Taken by Us about You**
-
-Assumptions are made about your interests depending on the campaign you respond to. For example, if you registered with Hobsons via our Careers in Engineering guide we assume you are interested in a job in engineering.
-
-Assumptions are made about your interests depending on the courses you have studied.
-
-Your sex is automatically determined by your title, e.g. Miss = female.
-
-If you provide us with a university e-mail address we assume you are studying at that university unless you provide us with your university information.
-
-We assume you speak certain languages based on your nationality. This assumption is very limited and for most nationalities there are no language assumptions made
-
-If you have any questions relating to this Privacy Policy or how we use the personal information we have about you, please contact: [hobsonsstudentservice@hobsons.co.uk](mailto:hobsonsstudentservice@hobsons.co.uk).
-
-
-
+Back to top
