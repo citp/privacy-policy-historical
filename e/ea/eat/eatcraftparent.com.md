@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the eatcraftparent.com privacy policy that was archived on 2014-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141114192836id_/http%3A//www.eatcraftparent.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eatcraftparent.com privacy policy that was archived on 2015-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150614043157id_/http%3A//www.eatcraftparent.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - EAT.CRAFT.PARENT
+# Privacy Policy
 
 This Privacy Policy governs the manner in which Eat.Craft.Parent collects, uses, maintains and discloses information collected from users (each, a “User”) of the http://eatcraftparent.com website (“Site”). This privacy policy applies to the Site and all products and services offered by Eat.Craft.Parent.
 
@@ -20,9 +20,9 @@ Our Site may use “cookies” to enhance User experience. User’s web browser 
 
 Eat.Craft.Parent collects and uses Users personal information for the following purposes:
 
-**\- To administer a content, promotion, survey or other Site feature**  
+**– To administer a content, promotion, survey or other Site feature**  
 To send Users information they agreed to receive about topics we think will be of interest to them.  
-**\- To send periodic emails**  
+**– To send periodic emails**  
 If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
 
 **How we protect your information**
