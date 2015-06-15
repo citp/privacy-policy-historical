@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hornypharaoh.com privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123130758id_/http%3A//www.hornypharaoh.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hornypharaoh.com privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615034904id_/http%3A//www.hornypharaoh.com/privacy.php) for the most accurate reproduction.*
 
 # 
 
