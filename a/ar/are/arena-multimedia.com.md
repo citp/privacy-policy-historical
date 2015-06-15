@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the arena-multimedia.com privacy policy that was archived on 2014-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141218042757id_/http%3A//www.arena-multimedia.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arena-multimedia.com privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615050719id_/http%3A//www.arena-multimedia.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Arena Animation
 
-  * [Home](https://web.archive.org/web/20141218042757id_/http%3A//www.arena-multimedia.com/index.aspx "Home")
+CAREER COUNSELLING 
+
+  * [Home](https://web.archive.org/web/20150615050719id_/http%3A//www.arena-multimedia.com/index.aspx "Home")
   * Privacy Policy
 
 
