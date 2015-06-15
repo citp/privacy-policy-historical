@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the linkspeedup.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120065559id_/http%3A//www.linkspeedup.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linkspeedup.com privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615032656id_/http%3A//linkspeedup.com/privacy) for the most accurate reproduction.*
 
-# LinkSpeedup: auto get free Facebook Likes, Twitter Followers
+# LinkSpeedup: get more free Facebook Likes, Twitter Followers
 
 We respect the privacy of our users and we are obliged to keep  and protect  your privacy data at any time you visit our site.
 
@@ -54,6 +54,6 @@ Third party links may be found on our website. These third party links have th
 
 ### **VI. Contact** ** ** **Information**
 
-For questions, further information, requests or comments please feel free to contact us via [support center](https://web.archive.org/web/20141120065559id_/http%3A//www.linkspeedup.com/support).
+For questions, further information, requests or comments please feel free to contact us via [support center](https://web.archive.org/web/20150615032656id_/http%3A//linkspeedup.com/support).
 
 Date of Last Revision: Mar 17, 2014
