@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shrinkpictures.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120010508id_/http%3A//www.shrinkpictures.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shrinkpictures.com privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615033431id_/http%3A//www.shrinkpictures.com/privacy.php) for the most accurate reproduction.*
 
 # Resize Images online
 
