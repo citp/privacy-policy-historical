@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the get-paid.com privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217015337id_/http%3A//www.get-paid.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the get-paid.com privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615023809id_/http%3A//www.get-paid.com/privacy.php) for the most accurate reproduction.*
 
 # Make Money Online with Get Paid - (GPTreasure)
 
