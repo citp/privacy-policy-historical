@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the genscript.com privacy policy that was archived on 2014-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140223183111id_/http%3A//www.genscript.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the genscript.com privacy policy that was archived on 2015-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150616005102id_/http%3A//www.genscript.com/privacy_policy.html%3Fsrc%3Dpullmenu) for the most accurate reproduction.*
 
-# Privacy Policy - GenScript
+# Privacy Policy - GenScript- Make Research Easy
 
 | 
 
