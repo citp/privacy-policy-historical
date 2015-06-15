@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the realmeye.com privacy policy that was archived on 2014-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140824010438id_/http%3A//www.realmeye.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realmeye.com privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615054651id_/http%3A//www.realmeye.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | RealmEye.com
 
