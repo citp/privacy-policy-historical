@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the your-hosting.net privacy policy that was archived on 2013-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131211103840id_/http%3A//your-hosting.net/terms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the your-hosting.net privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615134005id_/http%3A//your-hosting.net/terms) for the most accurate reproduction.*
 
 # Privacy Policy - WebFreeHosting.net
 
@@ -44,7 +44,7 @@ This site has security measures in place to protect the loss, misuse, and altera
 
 We care deeply about children and understand that they have special privacy needs. Therefore, we have adopted the following privacy policy regarding children:  
 We will NOT collect, use, or distribute personally identifiable information to third parties without prior verifiable parental consent.  
-We will NOT grant children access to unmonitored chat rooms, message boards, email accounts, or other services that could give the them the ability to publicly post or otherwise distribute personally identifiable information without prior verifiable parental consent.
+We will NOT grant children access to unmonitored chat rooms, message boards, email accounts, or other services that could give them the ability to publicly post or otherwise distribute personally identifiable information without prior verifiable parental consent.
 
 * **News Letter Notification Policy**
 
