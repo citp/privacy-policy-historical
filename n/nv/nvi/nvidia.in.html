@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the nvidia.in privacy policy that was archived on 2014-12-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141203153201id_/http%3A//www.nvidia.in/object/privacy_policy_in.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the nvidia.in privacy policy that was archived on 2015-06-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150615234625id_/http%3A//www.nvidia.in/object/privacy_policy_in.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xmlns:comem3="xalan://com.em3" xmlns:em3="http://www.em3.com/2002/widget" xmlns:og="http://ogp.me/ns#" lang="en-in" xml:lang="en"><head>
 <meta content="text/html; charset=UTF-8" http-equiv="Content-Type">
@@ -145,7 +145,7 @@ a.leftNavLink:hover { font-size:11px; color:#76b900; text-decoration:underline; 
    <script type="text/javascript"> 
 $(document).on('nvFrame-ready', function() {
  require(['Template','Cookie'], function(Template, Cookie) {
- function getUrlParameter(sParam){
+function getUrlParameter(sParam){
     var sPageURL = window.location.search.substring(1);
     var sURLVariables = sPageURL.split('&');
     for (var i = 0; i < sURLVariables.length; i++) {
@@ -155,12 +155,28 @@ $(document).on('nvFrame-ready', function() {
         }
     }
 }
-
-    var cid = getUrlParameter('cid');
-    if(cid==undefined){
-       cid = getUrlParameter('CID');
-    }
-    if(cid !=undefined){
+function getUrlHash(sHash){
+  var sPageURL = location.hash.replace('#','');
+  var sURLHash = sPageURL.split('&');
+  for (var i = 0; i < sURLHash.length; i++) 
+  {
+      var sHashName = sURLHash[i].split('=');
+      if (sHashName[0] == sHash) 
+      {
+          return sHashName[1];
+      }
+  }
+}
+var cid = getUrlHash('cid')
+if(cid==undefined){
+  cid = getUrlHash('CID');
+}
+if(cid==undefined){
+  cid = getUrlParameter('cid');
+}
+if(cid==undefined){
+  cid = getUrlParameter('CID');
+}    if(cid !=undefined){
         Cookie.set('icl_cid', cid, 30);
     }
 });
@@ -180,7 +196,7 @@ $(document).on('nvFrame-ready', function() {
 <input value="009029091075083507105:cjaxy3n6naq" name="cx" type="hidden">
 <input value="FORID:11;NB:1" name="cof" type="hidden">
 <input value="Search NVIDIA" onclick="this.value='';" maxlength="50" size="25" name="q" type="text">
-</form><script type="text/javascript" src="http://www.google.com/coop/cse/brand?form=cse-search-box&amp;lang=en"></script></div><script type="text/javascript" src="/content/includes/redesign2010/js/global_menu.js"></script><div id="globalSelector"><div class="currentTitle">USA - United States <img style="cursor:pointer;" src="//web.archive.org/web/20140917050202/http://www.nvidia.com/content/includes/masthead/expand_arrow.jpg" alt="" onclick="javascript:openGlobalSelector();"></div><div id="globalSelectorOpen"><div class="currentTitle">USA - United States <img style="cursor:pointer;" src="//web.archive.org/web/20140917050202/http://www.nvidia.com/content/includes/masthead/close_cross.jpg" alt="" onclick="javascript:closeGlobalSelector();"></div><p><a href="http://arg.nvidia.com">ARG - Argentina</a></p><p><a href="http://br.nvidia.com">BRA - Brasil</a></p><p><a href="http://chl.nvidia.com">CHL - Chile</a></p><p><a href="http://www.nvidia.cn">CHN - China</a></p><p><a href="http://clm.nvidia.com">CLM - Colombia</a></p><p><a href="http://www.nvidia.de">DEU - Germany</a></p><p><a href="http://www.nvidia.es">ESP - Spain</a></p><p><a href="http://www.nvidia.fr">FRA - France</a></p><p><a href="http://www.nvidia.co.uk">GBR - United Kingdom</a></p><p><a href="http://www.nvidia.co.in">IND - India</a></p><p><a href="http://www.nvidia.it">ITA - Italy</a></p><p><a href="http://www.nvidia.co.jp">JPN - Japan</a></p><p><a href="http://www.nvidia.co.kr">KOR - Korea</a></p><p><a href="http://www.nvidia.com.mx">MEX - Mexico</a></p><p><a href="http://www.nvidia.pl">POL - Poland</a></p><p><a href="http://www.nvidia.ru">RUS - Russia</a></p><p><a href="http://www.nvidia.com.tw">TWN - Taiwan</a></p><p><a href="http://www.nvidia.com.tr">TUR - Turkey</a></p><p><a href="http://www.nvidia.com/content/global/no_bookmark.php?lang=tempUS">USA - United States</a></p><p><a href="http://ven.nvidia.com">VEN - Venezuela</a></p><div class="changeDefault"><a href="https://web.archive.org/web/20140917050202/http://www.nvidia.com/content/global/unset.php">Change default</a></div></div></div> <noscript><div id="globalSelector"><div class="currentTitle"><a href="/content/global/unset.php">IND - India</a></div></div></noscript><div id="navbar-2012">
+</form><script type="text/javascript" src="http://www.google.com/coop/cse/brand?form=cse-search-box&amp;lang=en"></script></div><script type="text/javascript" src="/content/includes/redesign2010/js/global_menu.js"></script><div id="globalSelector"> <h4>USA <img style="cursor:pointer;" src="https://web.archive.org/web/20111009190103/http://www.nvidia.com/content/includes/masthead/expand_arrow.jpg" alt="O" onclick="javascript:openGlobalSelector();"></h4><div id="globalSelectorOpen"> <h4>USA <img style="cursor:pointer;" src="https://web.archive.org/web/20111009190103/http://www.nvidia.com/content/includes/masthead/close_cross.jpg" alt="X" onclick="javascript:closeGlobalSelector();"></h4><p><a href="http://arg.nvidia.com">ARG - Argentina</a></p><p><a href="http://www.nvidia.com.br">BRA - Brasil</a></p><p><a href="http://chl.nvidia.com">CHL - Chile</a></p><p><a href="http://www.nvidia.cn">CHN - China</a></p><p><a href="http://clm.nvidia.com">CLM - Colombia</a></p><p><a href="http://www.nvidia.de">DEU - Germany</a></p><p><a href="http://www.nvidia.es">ESP - Spain</a></p><p><a href="http://www.nvidia.fr">FRA - France</a></p><p><a href="http://www.nvidia.co.uk">GBR - United Kingdom</a></p><p><a href="http://www.nvidia.co.in">IND - India</a></p><p><a href="http://www.nvidia.it">ITA - Italy</a></p><p><a href="http://www.nvidia.co.jp">JPN - Japan</a></p><p><a href="http://www.nvidia.co.kr">KOR - Korea</a></p><p><a href="http://www.nvidia.com.mx">MEX - Mexico</a></p><p><a href="http://www.nvidia.pl">POL - Poland</a></p><p><a href="http://www.nvidia.ru">RUS - Russia</a></p><p><a href="http://www.nvidia.com.tw">TWN - Taiwan</a></p><p><a href="http://www.nvidia.co.th">THA - Thailand</a></p><p><a href="http://www.nvidia.com/content/global/no_bookmark.php?lang=tempUS">USA - United States</a></p><p><a href="http://ven.nvidia.com">VEN - Venezuela</a></p><h5><a href="/content/global/unset.php">Change default</a></h5></div></div> <noscript><div id="globalSelector"><div class="currentTitle"><a href="/content/global/unset.php">IND - India</a></div></div></noscript><div id="navbar-2012">
 <ul id="nav">
 <li class="top" aria-haspopup="true">
 <a href="/page/drivers.html">
@@ -243,19 +259,28 @@ $(document).on('nvFrame-ready', function() {
 <div class="title">Technologies</div><div class="arrow"></div></a>
 <ul class="nav sub">
 <li>
-<a href="/object/maxwell-gpu-architecture-in.html">Maxwell GPU Architecture</a>
-</li>
-<li>
 <a href="/object/advanced-rendering-in.html">Advanced Rendering</a>
 </li>
 <li>
 <a href="/object/cuda-parallel-computing-in.html">CUDA</a>
 </li>
 <li>
+<a href="https://developer.nvidia.com/deep-learning">Deep Learning</a>
+</li>
+<li>
 <a href="/object/g-sync-monitor-technology-in.html">G-SYNC</a>
 </li>
 <li>
+<a href="/object/tesla-gpu-machine-learning-in.html">Machine Learning</a>
+</li>
+<li>
+<a href="/object/maxwell-gpu-architecture-in.html">Maxwell GPU Architecture</a>
+</li>
+<li>
 <a href="/object/multi-gpu-technology-in.html">Multi-GPU Technology</a>
+</li>
+<li>
+<a href="/object/nvlink-in.html">NVLink</a>
 </li>
 <li>
 <a href="/object/optimus_technology_in.html">Optimus</a>
@@ -268,12 +293,6 @@ $(document).on('nvFrame-ready', function() {
 </li>
 <li>
 <a href="/object/sli_technology_overview_in.html">SLI</a>
-</li>
-<li>
-<a href="/object/visionworks-cv-toolkit-in.html">VisionWorks</a>
-</li>
-<li>
-<a href="/object/windows-8-in.html">Windows 8</a>
 </li>
 <li>
 <a href="/page/technologies.html">All Technologies</a>
@@ -343,6 +362,11 @@ $(document).on('nvFrame-ready', function() {
 <li>
 <a href="/object/best-android-games-tegra-in.html" id="">
 <div class="title">TegraZone</div>
+</a>
+</li>
+<li>
+<a href="/object/nvidia-partner-network-in.html" id="">
+<div class="title">NVIDIA Partner Network</div>
 </a>
 </li>
 <li>
@@ -421,6 +445,11 @@ $(document).on('nvFrame-ready', function() {
 <div class="title">Newsletters</div>
 </a>
 </li>
+<li>
+<a href="http://careers.nvidia.com/" id="">
+<div class="title">Careers</div>
+</a>
+</li>
 </ul>
 </li>
 </ul>
@@ -459,11 +488,15 @@ $(document).on('nvFrame-ready', function() {
 <p>View the <a href="/object/cookie-policy-in.html">NVIDIA Cookie Policy</a>.</p>
 <p>[<a href="/object/privacy-policy-children-in.html" class="green">CLICK HERE</a>] for the NVIDIA Kids Privacy Policy.</p>
 <div class="clear"></div>
-<div id="privacypolicy" name="privacypolicy" style="position:relative;"><div class="FAQ_title"><h4 class="legalHeading">1. Introduction</h4></div><div class="FAQ_content" style="overflow: hidden; height: 0px;">
+<div id="privacypolicy" name="privacypolicy" style="position:relative;">
+<div class="FAQ_title"><h4 class="legalHeading">1. Introduction</h4></div>
+<div class="FAQ_content">
 <p>NVIDIA® is committed to implementing appropriate protections for any Personal Information that our users share with us.</p>
 <p>NVIDIA's Online Privacy Policy and <a href="/object/privacy-policy-children-in.html">Kids Privacy Policy</a> set forth our policies and procedures regarding our collection, use, and/or sharing of your Personal Information.</p>
 <div class="clear">&nbsp;</div>
-</div><div class="FAQ_title"><h4 class="hidding">2. What Information We May Collect</h4></div><div class="FAQ_content" id="expand" style="overflow: hidden; height: 0px;">
+</div>
+<div class="FAQ_title"><h4 class="hidding">2. What Information We May Collect</h4></div>
+<div class="FAQ_content" id="expand">
 <p>When users visit our website or mobile apps or use our Services, we may collect <strong>"Personal information,"</strong> which is any information that can be used to identify a particular individual, such as name, address, e-mail address, telephone number, or other contact information. In addition, we may collect information about your visits to our websites, including the pages you view, the links and ads you click, search terms you enter, and other actions you take in connection with NVIDIA websites. We may also collect certain information from the browser you used to come to our website, such as your Internet Protocol (IP) address, browser type and language, access times, the Uniform Resource Locator (URL) of the website that referred you to our website and to which URL you browse away from our site if you click on a link on our site. When other non-public information, such as product preferences, hobbies or browsing history, is directly associated with personally identifiable information, that other information is treated as Personal Information.</p>
 <p><strong>Please note:</strong> The NVIDIA Online Store is managed independently by Digital River, Inc., and is subject exclusively to the Digital River Privacy Statement. For a complete view of the statement please click <a href="http://store.nvidia.com/store?Action=DisplayPrivacyAndSecurityPage&amp;SiteID=nvidia" target="_blank" rel="nofollow">here</a>.</p>
 <p><a id="clickhere">[CLICK HERE]</a> to learn more about how Personal Information is collected.</p>
@@ -491,11 +524,14 @@ When you access our Services by using our internet-connected devices, we may rec
     <p>We may receive Personal Information about users from other sources, such as web analytics vendors, social media sites, and marketing consultants. This information supplements any information that we have collected directly from our users, and allows us to customize our website and products to better serve you. Sometimes, we may receive Personal Information about people who are not yet users of our website. NVIDIA's policy is to treat all information obtained from third parties in the same manner that we treat information that we have collected ourselves.</p>
 </div>
 <div class="clear">&nbsp;</div>
-</div><div class="FAQ_title"><h4>3. Why We Collect Personal Information</h4></div><div class="FAQ_content" style="overflow: hidden; height: 0px;">
+</div>
+<div class="FAQ_title"><h4>3. Why We Collect Personal Information</h4></div>
+<div class="FAQ_content">
 <p>The Personal Information we collect helps us process transactions, respond to requests, and learn about our users' interests in terms of the features, performance and support of our products, and our users' website experience. We also use this information to send newsletters or promotional e-mails regarding new or upgraded products and services. (Please see the section below on <strong>Your Choices Regarding Your Personal Information</strong>.)</p>
-
 <div class="clear">&nbsp;</div>
-</div><div class="FAQ_title"><h4 class="hidding2">4. How We May Share Your Information </h4></div><div class="FAQ_content" id="expand2" style="overflow: hidden; height: 0px;"><p>We do not sell Personal Information about our customers or website users to any third parties. We may from time to time share your Personal Information with our business partners, resellers, affiliates, service providers, consulting partners and others in an effort to better serve you. </p>
+</div>
+<div class="FAQ_title"><h4 class="hidding2">4. How We May Share Your Information </h4></div>
+<div class="FAQ_content" id="expand2"><p>We do not sell Personal Information about our customers or website users to any third parties. We may from time to time share your Personal Information with our business partners, resellers, affiliates, service providers, consulting partners and others in an effort to better serve you. </p>
 <p><a id="clickhere2">[CLICK HERE]</a> to learn more how we may share your Personal Information with our business partners and others.  For further information on your choices regarding your information, see the "Your Choices Regarding Your Personal Information" section below.</p>
 <div class="BoxProperties2">
  <p>Any Personal Information we collect may be shared with NVIDIA's corporate affiliates, or companies who operate under the same corporate control. NVIDIA will take reasonable steps to ensure that these company affiliates honor this Online Privacy Policy and Kids Privacy Policy.</p>
@@ -509,29 +545,41 @@ We may disclose your Personal Information if we believe in good faith that such 
     <p>NVIDIA may "de-personalize" Personal Information by removing personally identifiable characteristics, such as name and email address, and aggregate data for use in surveys or other business purposes. NVIDIA may then use and/or share this de-personalized information with third parties.</p>
 </div>
 <div class="clear">&nbsp;</div>
-</div><div class="FAQ_title"><h4>5. Your Choices Regarding Your Personal Information</h4></div><div class="FAQ_content" style="overflow: hidden; height: 0px;"><p>NVIDIA respects your choices about how your Personal Information is used when you register with us, elect to receive our newsletters, or provide us with Personal Information for other purposes.</p>
+</div>
+<div class="FAQ_title"><h4>5. Your Choices Regarding Your Personal Information</h4></div>
+<div class="FAQ_content"><p>NVIDIA respects your choices about how your Personal Information is used when you register with us, elect to receive our newsletters, or provide us with Personal Information for other purposes.</p>
 <p>If you choose not to provide any Personal Information when requested on the website, you can still enjoy most areas on the website. However, you may be unable to access certain areas and services that require our interaction with you.</p>
 <p><strong>Marketing communications.</strong><br>
-You can opt-out of receiving communications from NVIDIA at any time by unsubscribing at <a href="http://www.nvidia.com/nvregister/frmOptOut.asp">http://www.nvidia.com/nvregister/frmOptOut.asp</a>, or by following the unsubscribe instructions at the bottom of any e-mail you receive. However, we may still send you updates to our Legal Notices, Online Privacy Policy, or regarding any account you have created with us.</p>
+You can opt-out of receiving communications from NVIDIA at any time by unsubscribing at <a href="https://profile.nvidia.com/en-in/login">https://profile.nvidia.com/en-in/login</a>, or by following the unsubscribe instructions at the bottom of any e-mail you receive. However, we may still send you updates to our Legal Notices, Online Privacy Policy, or regarding any account you have created with us.</p>
 <p><strong>Online advertising and other tracking.</strong><br>
 As discussed above, NVIDIA collects certain information about you when you visit our websites or services through technology like cookies, web beacons and similar tools.  Because we use this information only for internal and analytic purposes, your selection of the "Do Not Track" option provided by your browser will not have any effect on our collection of cookie information for these purposes.  The only way to completely "opt out" of the collection of any information through cookies or other tracking technology is to actively manage the settings on your browser or mobile device.  To learn more about cookies, clear gifs/web beacons and related technologies, you may wish to visit <a href="http://www.allaboutcookies.org/" target="_blank" rel="nofollow">http://www.allaboutcookies.org</a>. Depending on your mobile device, you may not be able to control tracking technologies through browser settings.</p>
 <p>We permit third party ad networks and social media companies to use cookies, plug-ins and other technology to collect information about your browsing activities over time and across different websites when you visit our Site.  For example, we use advertising services provided by third party ad partners to employ cookies and other tracking technology to market our services to you on other websites. We do not control the opt-out mechanisms of these third party ad partners.  To avoid tracking by these third party ad partners, you can change your browser settings to reject cookies or to notify you when cookies are set and you could select the Do Not Track option on your browser, though we have no control over and cannot confirm whether these third parties honor the Do Not Track browser signal.  Additionally, many advertising companies are members of the Network Advertising Initiative (NAI) or the Digital Advertising Alliance (DAA) which provide opt-outs for member companies at <a href="http://www.networkadvertising.org/choices" target="_blank" rel="nofollow">www.networkadvertising.org/choices</a> or  <a href="http://www.aboutads.info/choices" target="_blank" rel="nofollow">www.aboutads.info/choices</a>. </p>
 <div class="clear">&nbsp;</div>
-</div><div class="FAQ_title"><h4>6. Kids Privacy Policy</h4></div><div class="FAQ_content" style="overflow: hidden; height: 0px;">
+</div>
+<div class="FAQ_title"><h4>6. Kids Privacy Policy</h4></div>
+<div class="FAQ_content">
 <p>We take care to protect the privacy of children under the age of 13 who visit our websites or mobile apps.</p>
 <p>[<a href="/object/privacy-policy-children-in.html">CLICK HERE</a>] to access NVIDIA's <strong>Kids Privacy Policy</strong>.
 </p>
 <div class="clear">&nbsp;</div>
-</div><div class="FAQ_title"><h4>7. Links to Other Sites</h4></div><div class="FAQ_content" style="overflow: hidden; height: 0px;">
+</div>
+<div class="FAQ_title"><h4>7. Links to Other Sites</h4></div>
+<div class="FAQ_content">
 <p>We are not responsible for any content, products or services offered on any third-party websites. Links to third-party websites are provided for your convenience only. This Privacy Policy will not apply to any Personal Information that you provide to, or that is collected by, any third-party website operator or third-party product/service provider.</p>
 <p>Additionally, our site may include social media features such as Facebook, Twitter and Pinterest buttons (such as "Like," "Tweet" or "Pin").  These social media sites may automatically record information about your browsing behavior every time you visit a site that has a social media button, regardless of whether you click on the button.  Your interactions with these features are governed by the privacy policy of the company providing the feature, not by our privacy policy. Please review your privacy settings on social media sites. </p>
 <div class="clear">&nbsp;</div>
-</div><div class="FAQ_title"><h4>8. Security</h4></div><div class="FAQ_content" style="overflow: hidden; height: 0px;"><p>We will take all reasonable and appropriate measures to protect the personal information you share with us from unauthorized access or disclosure.</p>
+</div>
+<div class="FAQ_title"><h4>8. Security</h4></div>
+<div class="FAQ_content"><p>We will take all reasonable and appropriate measures to protect the personal information you share with us from unauthorized access or disclosure.</p>
 <div class="clear">&nbsp;</div>
-</div><div class="FAQ_title"><h4>9. How to Contact Us</h4></div><div class="FAQ_content" style="overflow: hidden; height: 0px;">
+</div>
+<div class="FAQ_title"><h4>9. How to Contact Us</h4></div>
+<div class="FAQ_content">
 <p>If you have any questions or concerns about NVIDIA's Online Privacy Policy or Kids Privacy Policy, please send an email to <a href="mailto:privacy@nvidia.com" class="green">privacy@nvidia.com</a> or write to us at:  NVIDIA Corporation, 2701 San Tomas Expressway, Santa Clara, CA 95050.</p>
 <div class="clear">&nbsp;</div>
-</div><div class="FAQ_title"><h4>10. Notice To California Residents – Your California Privacy Rights</h4></div><div class="FAQ_content" style="overflow: hidden; height: 0px;">
+</div>
+<div class="FAQ_title"><h4>10. Notice To California Residents – Your California Privacy Rights</h4></div>
+<div class="FAQ_content">
 <p>Under California Civil Code Section 1798.83 (known as the "Shine the Light" law), NVIDIA customers who are residents of California may request certain information you have the right to request certain information regarding the disclosure of your information about our disclosure of personal information during the prior calendar year to third parties for their direct marketing purposes. To make such a request, please write to us at the following address:</p>
 <p><strong>In the United States:</strong><br>
 NVIDIA Corporation<br>
@@ -539,12 +587,17 @@ NVIDIA Corporation<br>
 Santa Clara, CA 95050</p>
 <p>Alternatively, you may send us an email at <a href="mailto:CaliforniaPrivacyDisclosure@nvidia.com">CaliforniaPrivacyDisclosure@nvidia.com</a>.</p>
 <div class="clear">&nbsp;</div>
-</div><div class="FAQ_title"><h4>11. Online Privacy Policy Updates</h4></div><div class="FAQ_content" style="overflow: hidden; height: 0px;">
+</div>
+<div class="FAQ_title"><h4>11. Online Privacy Policy Updates</h4></div>
+<div class="FAQ_content">
 <p>We may makes changes to our Online Privacy Policy from time to time. Please review our policies regularly as updated policies will apply to your future visits to our website.</p>
 <div class="clear">&nbsp;</div>
-</div><div class="FAQ_title"><h4>12. Your Consent</h4></div><div class="FAQ_content" style="overflow: hidden; height: 0px;">
+</div>
+<div class="FAQ_title"><h4>12. Your Consent</h4></div>
+<div class="FAQ_content">
 <p>By using this website, you consent to the terms of our Online Privacy Policy and to NVIDIA's collecting and processing of your Personal Information for the purposes listed herein. Your Personal Information may be processed in the country in which it was collected and in the United States and other countries in which NVIDIA's backup storage may be located. NVIDIA is committed to complying with all applicable laws regarding consumer privacy. At a minimum, your Personal Information will be processed in accordance with the terms of this Online Privacy Policy and the laws of the United States, which may be more or less stringent than the laws in your country.</p>
-</div></div>
+</div>
+</div>
 <script>TSAccordionLoad('privacypolicy','FAQ_title','FAQ_content');</script></div></div>
 <div class="clear">&nbsp;</div>
 <div id="preFooter"><div style="padding-left:40px; padding-top:15px; float:left; font-size:13px; color:#333333; line-height:16px;">
@@ -553,7 +606,7 @@ Santa Clara, CA 95050</p>
 <a class="leftNavLink" href="/object/who-are-nvidia-in.html">Visual Computing</a><br>
 <a class="leftNavLink" href="/object/corporate-timeline-in.html">History of NVIDIA</a><br>
 <a class="leftNavLink" href="/page/executive_profiles.html">Executive Bios</a><br>
-<a class="leftNavLink" href="http://careers.nvidia.com/pljb/nvidia/nvidiaemployment/applicant/index.jsp">NVIDIA Careers</a><br>
+<a class="leftNavLink" href="http://careers.nvidia.com">NVIDIA Careers</a><br>
 <a class="leftNavLink" href="/object/contact-information-europe-in.html">NVIDIA Locations</a><br>
 <a class="leftNavLink" href="/object/company-policies-in.html ">NVIDIA Policies</a></p>
 </div>
@@ -619,9 +672,9 @@ Copyright
             
             ©
             
-            2014 NVIDIA Corporation
+            2015 NVIDIA Corporation
             
-             | <a href="http://www.nvidia.in/object/legal_info.html">Legal Info</a> | <a href="http://www.nvidia.in/object/privacy_policy_in.html">Privacy Policy</a> | <a href="http://www.nvidia.in/object/rss_home_in.html">RSS Feeds</a> | <a href="http://www.nvidia.in/object/newsletter-in.html">Newsletter</a> | <a target="_blank" href="http://www.facebook.com/nvidia.in">Facebook</a>
+             | <a href="http://www.nvidia.in/object/legal-info-in.html">Legal Info</a> | <a href="http://www.nvidia.in/object/privacy_policy_in.html">Privacy Policy</a> | <a href="http://www.nvidia.in/object/rss_home_in.html">RSS Feeds</a> | <a href="http://www.nvidia.in/object/newsletter-in.html">Newsletter</a> | <a target="_blank" href="http://www.facebook.com/nvidia.in">Facebook</a>
 </p>
 </div>
 </div>
