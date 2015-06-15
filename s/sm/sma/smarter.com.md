@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smarter.com privacy policy that was archived on 2014-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141209223219id_/http%3A//www.smarter.com/terms/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smarter.com privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615103701id_/http%3A//www.smarter.com/terms/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Smarter.com
 
