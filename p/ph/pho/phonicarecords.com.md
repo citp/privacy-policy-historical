@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the phonicarecords.com privacy policy that was archived on 2014-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141226005945id_/http%3A//www.phonicarecords.com/page/privacy-policy-50) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phonicarecords.com privacy policy that was archived on 2015-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150616004948id_/http%3A//www.phonicarecords.com/page/privacy-policy-50) for the most accurate reproduction.*
 
 # Vinyl Records Specialists, London Soho Vinyl Music Records - Phonica Records - Latest Releases, Pre-Orders and Merchandise
 
