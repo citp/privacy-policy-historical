@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the moviemint.com privacy policy that was archived on 2014-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141027235154id_/https%3A//moviemint.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moviemint.com privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615124717id_/http%3A//www.moviemint.com/privacy-policy.php) for the most accurate reproduction.*
 
-# Privacy Policy - Your Refreshment
+# Latest movie news and updates, reviews, online trending, gossips, galleries in hollywood, bollywood, tollywood, kollywood. sandelwood
 
 ## www.moviemint.com wants you to
 
@@ -53,6 +53,8 @@ We use personal information to:
   * Tailor our sites to your interest
   * Get in touch with you when necessary
 
+
+
 We use contact information internally to:
 
   * Direct our efforts for product improvement
@@ -79,7 +81,7 @@ We use contact information internally to:
 We will not disclose any of your personally identifiable information to third parties unless:
 
   * We have your permission
-  * Special circumstances such as compliance with legal authorities require disclosure
+  * Special circumstances such as compliance with legal authorities require disclosu
 
 
 
