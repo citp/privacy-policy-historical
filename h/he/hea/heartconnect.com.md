@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the heartconnect.com privacy policy that was archived on 2014-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140521020240id_/http%3A//www.heartconnect.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the heartconnect.com privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615040529id_/http%3A//www.heartconnect.com/privacy-policy) for the most accurate reproduction.*
 
 # Our Privacy Policy | Heart Connect
 
 **Last Updated: 11/14/13**
 
-## Introduction / About Alliance Health Networks ("Alliance Health")
+#### Introduction / About Alliance Health Networks ("Alliance Health")
 
 We own and operate an online social health network platform with multiple, condition-specific sites and mobile applications which we call "sites" and/or "communities."
 
@@ -21,7 +21,7 @@ We respect your privacy. We make it a priority to build your trust and confidenc
 
 
 
-## About Your Participation
+#### About Your Participation
 
 In an effort to further our mission to empower consumers and help enable a more consumer-centric healthcare industry, you may provide us specific information, including Personally Identifiable Information (defined below). This information is provided on your own volition as you do not have to join an Alliance Health community or register for offers in order to browse and read the content in the public portions of our sites. We always treat acquiring this information as a privilege and will maintain your Personally Identifiable Information as highly confidential and will not share it with anyone without your consent.
 
@@ -48,7 +48,7 @@ You may make a copy of this Privacy Policy and our Terms of Use for your persona
 
 If you disagree with the way we collect and process Personally Identifiable Information on this site or offer pages, we recommend that you do not use them.
 
-## Information Alliance Health Collects
+#### Information Alliance Health Collects
 
 #### Personally Identifiable Information
 
@@ -138,7 +138,7 @@ _Violation of Alliance Health Networks' Privacy Policy and/or Terms of Use for t
 Flash cookies are different from browser cookies because of the amount of, type of, and how data is stored. Like normal cookies, Flash cookies are represented as small files on your computer. One method of managing Flash cookies is to adjust your preferences in the Macromedia Website Privacy Setting Panel. 
 
   * <http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html#117118>
-  * [http://www.aboutcookies.org](https://web.archive.org/privacy-policy)
+  * [http://www.aboutcookies.org](http://www.aboutcookies.org/)
 
 
 
@@ -157,7 +157,7 @@ Flash cookies are different from browser cookies because of the amount of, type 
 
 
 
-## How Alliance Health Uses Your Information
+#### How Alliance Health Uses Your Information
 
 In our mission to empower consumers and help enable a more consumer-centric healthcare industry, we utilize the information collected to give you more choice and tailor information to your interests. Some of the services we provide based on the information you have given us are described below:
 
@@ -218,13 +218,7 @@ In certain circumstances we may share Personally Identifiable Information for th
 
 
 
-## Blog/Forum
-
-Our Web site offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, contact us at [community@alliancehealth.com](mailto:community@alliancehealth.com). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
-
-Our Web site includes Social Media Features, such as the Facebook Like button [and Widgets, such as the Pinterest this button or interactive mini-programs that run on our site]. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it.
-
-## Your Obligation As a User
+#### Your Obligation As a User
 
 In accordance with our mission to empower consumers and help enable a more consumer-centric healthcare industry we rely on you to contribute to the user-generated platform. As you interact within the community site, you may post User Content. You do this at your own risk. Although we allow you to set privacy options that limit access by other site visitors to your profile, please be aware that no security measures are perfect or impenetrable. We cannot control the actions of other Users with whom you may (1.) choose to share your pages, and (2.) directly provide Personally Identifiable Information and personal information to. Therefore, we cannot and do not guarantee that User Content you post on the site will not be viewed by unauthorized persons. We are not responsible for circumvention of any privacy settings or security measures contained on the site. You understand and acknowledge that, even after removal, copies of User Content may remain viewable in cached and archived pages or if other Users have copied or stored your User Content.
 
@@ -232,7 +226,13 @@ Personally Identifiable Information, personal information, and other information
 
 If you choose to use our invitation service to tell a friend about our site, we will ask you for information relevant to the invitation process, such as your friend's email address. We will automatically send your friend a one-time email or instant message inviting him or her to visit the site. We do not store this email communication or your any information you provide about your friend.
 
-## Your Rights As a User; Access/Choice
+#### Blog/Forum
+
+Our Web site offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, contact us at [community@alliancehealth.com](mailto:community@alliancehealth.com). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
+
+Our Web site includes Social Media Features, such as the Facebook Like button [and Widgets, such as the Pinterest this button or interactive mini-programs that run on our site]. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it.
+
+#### Your Rights As a User; Access/Choice
 
 You control which (if any) of the details of your membership profile can be viewed by other members of the community.
 
@@ -252,7 +252,7 @@ You may choose to stop receiving Alliance Health newsletters or marketing emails
 
 We will respond to your request to access within 30 business days.
 
-## Our Advertising Partners and Our Relationships to Other Companies
+#### Our Advertising Partners and Our Relationships to Other Companies
 
 In our effort to empower consumers and help enable a more consumer-centric healthcare industry, we are committed to providing a free and independent service. As a result our site may contain information, links to other sites and advertisements of healthcare services and partners that may help you make educated healthcare choices. We are not responsible for the privacy practices or content of such websites but encourage you to evaluate their specific commitment to you.
 
@@ -264,7 +264,7 @@ If you have questions about our partners' privacy policies or the privacy polici
 
 All Alliance Health offers are subject to participation by the advertising partner, product availability, and any applicable state or federal laws that govern such offers. Any offers shown are reasonable facsimiles, and participating advertising partners reserve the right to withdraw offers, substitute another product, or modify offers at their sole discretion.
 
-## Security
+#### Security
 
 We use secure technology, privacy protection controls, and restrictions on employee access in order to safeguard your Personally Identifiable Information.
 
@@ -283,11 +283,11 @@ Since the internet is not a 100% secure environment, we cannot ensure or warrant
 
 Any improper collection or misuse by unauthorized third parties of Personally Identifiable Information, or other information provided on the site is a violation of the terms of use and should be reported to [community@alliancehealth.com](mailto:community@alliancehealth.com). 
 
-## Changes to This Privacy Policy
+#### Changes to This Privacy Policy
 
 We reserve the right to modify this Privacy Policy and our Terms of Use at any time, so please review them frequently.
 
-If we make material changes to either our Privacy Policy or our Terms of Use, we will notify you here, or by email, or by means of a notice on our home page prior to the change becoming effective.
+If we make material changes to either our Privacy Policy or our Terms of Use, we will notify you here, or by email, or by means of a notice on our home page prior to the change becoming effective..
 
 Although this Privacy Policy is not a contract and does not create any legal rights, it does serve as an expression of our commitment to protecting Personally Identifiable Information.
 
@@ -295,11 +295,11 @@ The most current version of this Privacy Policy, which supersedes all previous v
 
 Your use of the site and any services provided by Alliance Health after any changes to this Privacy Policy are implemented constitutes your acknowledgement and acceptance of any such changes. This Privacy Policy came into effect on the date shown as the Last Updated date at the beginning of this document.
 
-## Children
+#### Children
 
 We do not knowingly collect Personally Identifiable Information for children 12 and under. We do not associate cookie data with Personally Identifiable Information about children. If we become aware that a child has circumvented this policy we immediately terminate the related account and delete all information/date associated with the account.
 
-## Your California Privacy Rights - Notice of Compliance to California Residents
+#### Your California Privacy Rights - Notice of Compliance to California Residents
 
 California law requires that we provide you with a summary of your privacy rights under the California Online Privacy Protection Act ("California Act") and the California Business and Professions Code. As required by the California Act, this Privacy Policy identifies the categories of Personally Identifiable Information that we collect through this Site about individual consumers who use or visit this Site and the categories of third party persons or entities with whom such Personally Identifiable Information may be shared.
 
@@ -326,15 +326,17 @@ See section above entitled "Updating Personally Identifiable Information" for a 
 
 See section above entitled "Changes to This Privacy Policy" for a description of the process by which we notify consumers who use or visit this Site of material changes to our Privacy Policy. The effective date of this privacy policy is the date shown as the Last Updated date at the beginning of this document.
 
-## California Shine the Light Law (SB27) Compliance Statement
+#### California Shine the Light Law (SB27) Compliance Statement
 
 Under California S.B. 27 ("Shine the Light" Law), California residents have the right under certain circumstances to receive, once a year, information about third parties with whom we have shared information about you or your family for their marketing purposes during the previous calendar year, and a description of the categories of personal information shared. To make such a request, please send an email to [compliance@alliancehealth.com](mailto:compliance@alliancehealth.com) and please include the phrase "California Privacy Request" in the subject line, the domain name of the website you are inquiring about, along with your name, address and email address. We will respond to you within thirty days of receiving such a request.
+
+#### How to Contact Us
 
 We welcome your input and feedback about our sites and the services that we provide to you. If you have any questions regarding this Privacy Policy or related Terms of Use, you may contact us via:
 
   * Email: [privacy@alliancehealth.com](mailto:privacy@alliancehealth.com).
 
-  * Mail: Attention: Privacy & Compliance, Alliance Health Networks Inc., 9 Exchange Place, Ste. 200, Salt Lake City, UT 84111
+  * Mail: Attention: Privacy and Compliance, Alliance Health Networks Inc., 9 Exchange Place, Ste. 200, Salt Lake City, UT 84111
 
   * Phone: 801-355-6002
 
