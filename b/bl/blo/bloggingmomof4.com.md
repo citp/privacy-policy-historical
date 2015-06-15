@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bloggingmomof4.com privacy policy that was archived on 2014-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141206005320id_/http%3A//bloggingmomof4.com/disclosure-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bloggingmomof4.com privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615134949id_/http%3A//bloggingmomof4.com/disclosure-privacy-policy) for the most accurate reproduction.*
 
 # Disclosure & Privacy Policy - Blogging Mom of 4
 
@@ -77,5 +77,3 @@ If you have any questions regarding this Policy, or your dealings with our web s
 **2227 Garfield Ave, Altoona, WI 54720**  
 **715.833.8558**  
 **dawn [at] bloggingmomof4.com**
-
-Like it? Share it...00400
