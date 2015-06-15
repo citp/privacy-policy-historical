@@ -1,13 +1,10 @@
-> *The following text is extracted and transformed from the xara.com privacy policy that was archived on 2014-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141228040520id_/http%3A//www.xara.com/us/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xara.com privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615202022id_/http%3A//www.xara.com/us/privacy) for the most accurate reproduction.*
 
 # Privacy & Cookie Statement
 
-XARA has created this privacy statement in order to **demonstrate the company's firm commitment to privacy**. The following discloses the information gathering and dissemination practices for the Xara web site [www.xara.com](http://www.xara.com/) and the Xara Online purchase site secure.xaraonline.com. 
+Xara has created this privacy statement in order to **demonstrate the company's firm commitment to privacy**. The following discloses the information gathering and dissemination practices for the Xara web site [www.xara.com](http://www.xara.com/) and the Xara Online purchase site secure.xaraonline.com. 
 
 **Xara Group Ltd is 100% owned by Magix AG and references to Xara in this document should be taken to mean both Xara and Magix**. 
-
-  
-
 
 ### Information collected by order forms, registration forms, download forms, opt-in mailing list and surveys
 
@@ -39,10 +36,10 @@ There is no way to prevent these cookies being set other than to not use our sit
 
  Our site, like most websites, includes functionality provided by third parties. For example, so you can easily like or share our content on the likes of Facebook and Twitter we have included sharing buttons. The following services use cookies:
 
-  * Google - <http://www.google.com/intl/en_uk/policies/privacy/>
-  * Facebook - <http://www.facebook.com/about/privacy/>
-  * Twitter - <https://twitter.com/privacy>
-  * StumbleUpon - <http://www.stumbleupon.com/privacy>
+  * [Google](http://www.google.com/intl/en_uk/policies/privacy/)
+  * [Facebook](http://www.facebook.com/about/privacy/)
+  * [Twitter](https://twitter.com/privacy)
+  * [StumbleUpon](http://www.stumbleupon.com/privacy)
 
 
 
@@ -52,16 +49,14 @@ There is no way to prevent these cookies being set other than to not use our sit
 
 We use cookies to compile visitor statistics such as how many people have visited our website, what type of technology they are using (e.g. Mac or Windows which helps to identify when our site isn't working as it should for particular technologies), how long they spend on the site, what page they look at etc. This helps us to continuously improve our website. These so called "analytics" programs also tell us on an anonymous basis, how people reached this site (e.g. from a search engine) and whether they have been here before helping us to put more money into developing our services for you instead of marketing spend.
 
-  * Google Analytics - <http://www.google.com/intl/en_uk/policies/privacy/>
-  * 3D Stats - <http://www.3dstats.com/privacy.html>
+  * [Google Analytics](http://www.google.com/intl/en_uk/policies/privacy/)
+  * [3D Stats](http://www.3dstats.com/privacy.html)
 
 
 
 **Disabling and Removing Cookies**
 
  You can choose to delete our, or any website’s, cookies from your web browser at anytime (for help on how to do this, go to [http://www.aboutcookies.org](http://www.aboutcookies.org/)). You can also set your web browser to not accept any cookies if you wish. You will still be able to view our web site, but you will not be able to purchase products, log in to your account, or benefit from personalised features.
-
-****
 
 ### Contact with Xara Servers
 
@@ -96,21 +91,21 @@ This site provides users the opportunity to opt-out of receiving communications 
 
 This site gives users the following options for **changing and modifying information** previously provided: 
 
-  * **Change your details directly** in your Xara Account at [http://www.xara.com/servicecenter/](http://www.club.xara.com/)
+  * **Change your details directly** in your Xara Account at <http://www.xara.com/servicecenter/>
   * Send **[e-mail](https://web.archive.org/contact/)**
   * **Post** mail to: **Xara Group Ltd, Gaddesden Place, Hemel Hempstead, Herts, HP2 6EX, UK**
   * **Call** the following telephone number: **int + 44 1442 350000**
 
 
-  
 
 
 ### Contacting the website
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this website, you can contact:
 
-  
-     **Kate Moir,  
+    
+
+ **Kate Moir,  
     Xara Group Ltd,  
     Gaddesden Place,  
     Hemel Hempstead,  
