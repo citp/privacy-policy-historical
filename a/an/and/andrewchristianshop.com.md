@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the andrewchristianshop.com privacy policy that was archived on 2014-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141219092502id_/http%3A//www.andrewchristian.com/index.php/privacy-policy/%3F___SID%3DU) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the andrewchristianshop.com privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615185538id_/http%3A//www.andrewchristian.com/index.php/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
