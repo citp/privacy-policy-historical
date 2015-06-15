@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the jobhouseghana.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231042814id_/http%3A//jobhouseghana.com/aboutus/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobhouseghana.com privacy policy that was archived on 2015-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150616010132id_/http%3A//jobhouseghana.com/aboutus/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | JobHouse Ghana
+# Privacy Policy - JobHouse Ghana
 
 The Internet is an amazing tool. It has the power to change the way we live, and we’re starting to see that potential today. With only a few mouse-clicks, you can follow the news, look up facts, buy goods and services, and communicate with others from around the world. It’s important to JobHouse to help our customers retain their privacy when they take advantage of all the Internet has to offer.
 
