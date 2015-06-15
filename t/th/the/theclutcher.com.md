@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theclutcher.com privacy policy that was archived on 2014-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141127204201id_/http%3A//www.theclutcher.com/en-US/company/policy/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theclutcher.com privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615054852id_/http%3A//www.theclutcher.com/en-US/company/policy/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - PRIVACY POLICY
 
