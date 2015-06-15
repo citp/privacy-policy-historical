@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the spotclassifieds.com privacy policy that was archived on 2012-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120303140640id_/http%3A//www.spotclassifieds.com/index.php%3Fa%3D28%26b%3D145) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spotclassifieds.com privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615025644id_/http%3A//spotclassifieds.com/%3Fa%3D28%26b%3D145) for the most accurate reproduction.*
 
-# Swaziland : Post Free Classifieds, Free Online Advertising - Spot Classifieds
+# Privacy Policy - Spot Classifieds
 
 Your privacy is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and disclose and make use of personal information. The following outlines our privacy policy. 
 
@@ -15,3 +15,5 @@ Your privacy is very important to us. Accordingly, we have developed this Policy
 
 
 We are committed to conducting our business in accordance with these principles in order to ensure that the confidentiality of personal information is protected and maintained. 
+
+If you are not 100% satisfied with your purchase, within 120 days from the purchase date, we will fully refund the cost of your order.
