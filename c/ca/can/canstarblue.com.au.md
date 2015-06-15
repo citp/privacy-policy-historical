@@ -1,11 +1,10 @@
-> *The following text is extracted and transformed from the canstarblue.com.au privacy policy that was archived on 2014-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141127112011id_/http%3A//www.canstarblue.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the canstarblue.com.au privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615044751id_/http%3A//www.canstarblue.com.au/privacy-policy) for the most accurate reproduction.*
 
 # » Canstar Blue Privacy Policy
 
-Version: 11 March 2014
+Version: 11 June 2015
 
-Canstar Blue Pty Limited A.C.N. 142 285 434 (“Canstar Blue”) recognises the importance of protecting your privacy and abides by the Australian Privacy Principles contained in the (amended) Privacy Act 1988.
-
+Canstar Blue Pty Limited A.C.N. 142 285 434 (“Canstar Blue”) recognises the importance of protecting your privacy and abides by the Australian Privacy Principles contained in the (amended) Privacy Act 1988.  
 This privacy policy explains how we collect personal information and how we maintain, use and disclose that information. It also provides some detail about your privacy rights along with our general rights and obligations and our policy in relation to the personal information we keep on record.
 
 This privacy policy does not apply to parties that may be linked or associated with our website and to whom you disclose personal information. Those website owners are responsible for the privacy of the information they collect and should be contacted directly for details of their privacy policies.
@@ -34,9 +33,11 @@ We collect and hold information about you when you:
 
 
 
-We also collect some statistical information about visitors to our website (for example, the number of visitors, pages viewed, types of transactions conducted, time online and documents downloaded). Some of this statistical information is collected by using cookies, but none of the statistical information we collect allows us to identify a visitor. We use this information to evaluate our website performance and continually improve our services. We may disclose this information in an aggregated form to third parties including advertisers or potential advertisers. Other than statistical information, we do not collect any information about you through our website unless you voluntarily  provide the information to us.
+We also collect some statistical information about visitors to our website (for example, the number of visitors, pages viewed, types of transactions conducted, time online and documents downloaded). Some of this statistical information is collected by using cookies, but none of the statistical information we collect allows us to identify a visitor. We use this information to evaluate our website performance and continually improve our services. We may disclose this information in an aggregated form to third parties including advertisers or potential advertisers. Other than statistical information, we do not collect any information about you through our website unless you voluntarily provide the information to us.
 
-You need not give us any of the personal information about you or any other person which may be requested in our communications with you. However, without that information, we may not be able to fulfil your request or provide you with an appropriate level of service.
+As you browse Canstar Blue’s website, advertising cookies will be placed on your computer so that we can understand what you are interested in. Our display advertising partners from time to time enable us to present you with retargeting advertising on other sites based on your previous interaction with Canstar Blue. The techniques our partners employ do not collect personal information such as your name, email address, postal address, or telephone number. You can visit this [page](http://www.networkadvertising.org/choices/%20) to opt out of targeted advertising if the advertiser is a member of NAI.
+
+You need not give us any of the personal information about you or any other person which may be requested in our communications with you. However, without that information, we may not be able to fulfill your request or provide you with an appropriate level of service.
 
  **How do we use your personal information?**
 
@@ -64,7 +65,7 @@ By using our services you are deemed to have consented to our use, disclosure an
 
 We may disclose your personal information:
 
-  * to our external service providers such as IT service providers (e.g. a provider of web hosting services). Some of these may be located overseas.  Canstar may store your personal information on servers in overseas web hosting facilities.
+  * to our external service providers such as IT service providers (e.g. a provider of web hosting services). Some of these may be located overseas.  Canstar Blue may store your personal information on servers in overseas web hosting facilities.
   * to product and services providers for operational purposes, and also because from time to time they may choose to provide you with information about their products and services by ordinary post or email. You may opt-out of receipt of such marketing at any time by contacting directly those organisations which have obtained your information. If you do not have their details, you can request them from Canstar’s Privacy Officer (details below).
   * to any organisation which you request us to, including a financial adviser, service provider, product specialist, broker, solicitor, or accountant,
   * to our related companies and other organisations where reasonable to do so in relation to the operation of our business,
@@ -85,8 +86,8 @@ We take reasonable steps to protect your personal information from misuse, loss,
   * From time to time Canstar may store (disclose) your personal information on servers in overseas web hosting facilities
   * The Australian Privacy Principles require that we take reasonable steps, dependent on the circumstances of that personal information, to ensure that the overseas service provider to whom personal information is disclosed does not breach Australian privacy laws (the “Requirement”).
   * When you provide us with your personal information you consent to the disclosure of your information to an overseas provider.
-  * Your consent to this disclosure means that the Requirement does not apply and Canstar will not be held accountable under the Privacy Act for any breaches of the Privacy Act by the overseas provider.
-  * Where commercially feasible, Canstar will contract with hosting providers who comply with the Australian Privacy Principles.
+  * Your consent to this disclosure means that the Requirement does not apply and Canstar Blue will not be held accountable under the Privacy Act for any breaches of the Privacy Act by the overseas provider.
+  * Where commercially feasible, Canstar Blue will contract with hosting providers who comply with the Australian Privacy Principles.
 
 
 
@@ -102,7 +103,7 @@ You can request access at any time to personal information we hold about you by 
 
  **Correction of information**
 
-We try to ensure that all information we hold about you which we collect, use or disclose is accurate, complete and up to date. You must promptly notify us if there are any changes to your personal information. You may ask us at any time to correct personal information held by us about you, which you believe is incorrect or out of date. We will deal with your request within a reasonable time
+We try to ensure that all information we hold about you which we collect, use or disclose is accurate, complete and up to date. You must promptly notify us if there are any changes to your personal information. You may ask us at any time to correct personal information held by us about you, which you believe is incorrect or out of date. We will deal with your request within a reasonable time.
 
 In this policy, reference to “we/us” means CANSTAR Blue Pty Limited A.C.N. 142 285 434 (“CANSTAR Blue”).
 
@@ -110,9 +111,9 @@ In this policy, reference to “we/us” means CANSTAR Blue Pty Limited A.C.N. 1
 
 If you have any questions, concerns or complaints about our privacy policy or practices please contact our Privacy Officer
 
-By telephone:   (07) 3837 4100     9am – 5pm on business days in Brisbane, Qld.  
+By telephone: (07) 3837 4100     9am – 5pm on business days in Brisbane, Qld.  
 By email:  enquiries@canstar.com.au
 
 We will try to answer any questions you may have, correct any error on our part or resolve any complaint that you may have about our information handling practices. If we do not resolve a complaint to your satisfaction, you also have the right to complain to the Office of the Australian Privacy Commissioner, Tel: 1300 363 992 or email:privacy@privacy.gov.au
 
-You acknowledge and accept that your use of the CANSTAR Blue website indicates your acceptance of the CANSTAR Blue website Terms of Use and Privacy Policy.
+You acknowledge and accept that your use of the CANSTAR Blue website indicates your acceptance of the CANSTAR Blue website [Terms of Use](http://www.canstarblue.com.au/terms-and-conditions/ "Terms and Conditions") and Privacy Policy.
