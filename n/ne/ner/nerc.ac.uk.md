@@ -1,6 +1,12 @@
-> *The following text is extracted and transformed from the nerc.ac.uk privacy policy that was archived on 2014-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141224171145id_/http%3A//www.nerc.ac.uk/site/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nerc.ac.uk privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615130213id_/http%3A//www.nerc.ac.uk/site/privacy) for the most accurate reproduction.*
 
 # NERC - Privacy and cookies
+
+  * [Home](https://web.archive.org/)
+  * [About this site](https://web.archive.org/site/)
+  * [Privacy & cookies](https://web.archive.org/site/privacy/)
+
+
 
 ## Privacy policy
 
@@ -22,17 +28,13 @@ You can use your web browser's settings to manage these small files yourself.
 
 ## Our use of cookies
 
-### Cookies for improving service
-
-We use analytics cookies primarily to monitor which browser types and operating systems people are using. This enables us to create a site that works with many different browsers, improving the service we can offer.
-
-Our site uses [Google Custom Search Engine \- external link](http://www.google.com/cse/ "external link"). This allows us to deliver a cost effective search solution allowing you to access our site content faster with more accurate results.
+We use analytics cookies provided by Google, primarily to monitor which browser types and operating systems people are using. This enables us to create a site that works with many different browsers, improving the service we can offer.
 
 More details on these cookies and how to manage them can be found on the [Google Technologies & Principles \- external link -](http://www.google.com/intl/en_gb/policies/technologies/types/ "external link") pages.
 
 ## How to control and delete cookies
 
-We will not use cookies to collect personally identifiable information about you. 
+We will not use cookies to collect personally identifiable information about you.
 
 However, if you wish to restrict or block the cookies which are set by our websites, or indeed any other website, you can do this through your browser settings. The Help function within your browser should tell you how.
 
