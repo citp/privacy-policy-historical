@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ourordinarylife.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120181443id_/http%3A//www.ourordinarylife.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ourordinarylife.com privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615054342id_/http%3A//www.ourordinarylife.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Our Ordinary Life
 
