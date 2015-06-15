@@ -1,64 +1,67 @@
-> *The following text is extracted and transformed from the bigseminar.com privacy policy that was archived on 2009-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091228015429id_/http%3A//www.gogenerator.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigseminar.com privacy policy that was archived on 2015-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150616004911id_/http%3A//www.namejet.com/Pages/Privacy.aspx) for the most accurate reproduction.*
 
-# Untitled Document
+# Privacy Policy - NameJet Domain Name Services
 
-PRIVACY POLICY
+NameJet knows that you care about how personal information about you is used and shared and we appreciate your trust that we will do so carefully and sensibly. This notice describes our Privacy Policy. By visiting NameJet , you are accepting the practices described in this Privacy Policy. For questions regarding this Privacy Policy please contact NameJet using our [contact form](https://web.archive.org/Pages/Contact.aspx).
 
-Your privacy is very important to us. We want to make your experience on the Internet as enjoyable and rewarding as possible, and we want you to use the Internet's vast array of information, tools, and opportunities with complete confidence. 
+###  What Personal Information About Users Does NameJet Gather?
 
-We have created this Privacy Policy to demonstrate our firm commitment to privacy and security. This Privacy Policy describes how our company collects information from all end users of our Internet services (the "Services")-those who access some of our Services but do not have accounts ("Visitors") as well as those who may purchase Products and/or pay a monthly service fee to subscribe to the Service ("Members")-what we do with the information we collect, and the choices Visitors and Members have concerning the collection and use of such information. We request that you read this Privacy Policy carefully. 
+Information You Give Us:
+     We collect and store personal information you enter on our Web site or give us in any other way. We use the information that you provide us for such purposes as enhancing the experience of users in our network, responding to your requests, providing our services (e.g., domain Backorder requests, auctions, and purchases), and communicating with you about offers that may be of interest to you.
+Automatic Information:
+     Our Web site has features that collect information from users to assist us in creating Web sites that honor our users' preferences and serve their interests and needs.
 
-**Personal Information Our Company Collects and How It Is Used**
+Our Web site places cookies, which are small data files on the user's hard drive when you visit our Web site. A cookie cannot read data off your hard drive. You may refuse cookies by turning them off in your browser; however, if you reject the placement of cookies, you may be limited in using some areas of our Web site. Some cookies are used to improve your user experience by making login to our Web site easier, such as by remembering usernames and passwords. Cookies can also enable us to monitor users' movements through our Web site so that we may target user interests to enhance their experience at our Web site. We may also collect click stream data such as the full Uniform Resource Locators (URL) and assign unique identifiers to our users for the purpose of tracking user behaviors. Information obtained with these technologies may be associated with the personal information you have provided us. Besides using the information as described above, NameJet may utilize cookies to control operations such as the flow of the ordering processes related to your online transactions.
 
-Introduction. Our company collects information in different ways from Visitors and Members who access the various parts of our Services and the network of Web sites accessible through our Service. We use this information primarily to provide a customized experience as you use our Products and Services, and generally, do not share this information with third parties. However, we may disclose personal information collected if we have received your permission beforehand or in very special circumstances, such as when we believe that such disclosure is required by law or other special cases described below. 
+We, or our third-party advertising partners, may also place cookies to provide advertisements about goods or services that may be of interest to you. Since our advertisers and other third parties whose products or services are promoted on our Web site may also use cookies or other technology, we advise you to check the advertisers' privacy policies for information about their privacy practices.
 
-Registration:  Members may be asked to provide certain personal information when they sign up for our Products or Services including name, address, telephone number, billing information (such as a credit card number), and the type of personal computer being used to access the Services. The personal information collected from Members during the registration process is used to manage each Member's account (such as for billing purposes). This information is not shared with third parties, unless specifically stated otherwise or in special circumstances. 
+We may also gather general information such as the date, time, browser type, operating system, platform, navigation history, and IP address of all users to our site(s). We use this information for our internal security audit log, trend analysis, and system administration, and to gather broad demographic information about our users. We may also associate this general information with your personal information. By visiting our site, you affirmatively consent to our collection, use, and distribution of your general and personal information and other related data to our partners and advertisers. If you do not want us to share information about you with our partners or advertisers, you may opt-out of receiving information by doing the following:
 
- However, in instances where our company and a partner jointly promote our Services, we may provide the partner certain personal information, such as the name, address, and username of persons who subscribed to the Services as a result of the joint promotion for the sole purpose of allowing us and the partner to assess the results of the promotion. 
+  1. Login to "My Account".
+  2. Click on "Edit my Account Settings".
+  3. Select the "My Preferences" tab.
+  4. Choose your email settings under "Email Preferences"
+  5. Select the option not to receive advertisements.
 
-In this instance, personal information may not be used by the partner for any other purpose. We may also generate non-identifying and aggregate profiles from personal information Members provide during registration (such as the total number, but not the names, of Members). As explained in more detail below, we may use this aggregated and non-identifying information to sell advertisements that appear on the Services. 
 
-Our Company Partners and Sponsors:  Some products and services may be offered to Visitors and Members in conjunction with an affiliate, independent contractor seller or non-affiliated partner. To provide Visitors and Members some of these products and services, the partner may need to collect and maintain personal information. In these instances, you will be notified before any such data is collected or transferred and may decide not to use that particular service or feature. 
 
-Additionally, our partners may have advertisements or co-branded Web Pages that are cosponsored by an affiliate, independent contractor seller, or non-affiliated partner. Our company may share non-identifying and aggregate information (except as described above), but not personal information, with such partners in order to administer the co-branded products or services offered. 
+###  Does NameJet Share the Information It Receives?
 
-Online Shopping:  At some Web sites, you can purchase products and services or register to receive materials, such as a newsletter, catalog or new product and service updates. In many cases, you may be asked to provide contact information, such as your name, address, email address, phone number, and credit/debit card information. 
+Yes, we do share information with at least the entities listed below:
 
-If you complete an order for someone else, such as an online gift order sent directly to a recipient, you may be asked to provide information about the recipient, such as the recipient's name, address, and phone number. Our company has no control over the third parties' use of any personal information you provide when placing such an order. Please exercise care when doing so. 
+WHOIS:
+     We are required by the Internet Corporation for Assigned Names and Numbers ("ICANN"), the organization that assumes responsibility for domain name allocation, to collect information about you during the domain name registration process. This information includes your full name, mailing address, phone number, email address, and, where provided, your facsimile number. ICANN then requires all registrars to make your full name, mailing address, phone number, email address, and, where provided, your facsimile number, as well as the creation and expiration dates of your domain name registration and the name server information associated with your domain name, to the public via an interactive Web page and a "port 43" WHOIS service. For the purposes of this Privacy Policy we will refer to this information as your "WHOIS Information." Please note that we may not be able to control how members of the public may use the WHOIS Information.
+Advertisers:
+     We will share aggregated demographic information with our partners and advertisers.
+Partners:
+     We partner with other third party providers of specific services. When the user signs up for these services, we will share names, e-mail addresses, or other contact information that is necessary for the third party to provide these services.
+Agents:
+     We engage other companies and individuals to perform functions on our behalf. Examples include processing credit card payments, providing marketing assistance, providing customer services, sending postal mail and email to you, removing repetitive information from customer lists, and analyzing data. These persons have access to user information needed to perform their functions for the benefit of the user. These companies may, or may not, retain, share, store or use personally identifiable information that you provide to NameJet for any secondary purposes.
+Service Providers:
+     We engage other companies and individuals to perform enhanced services on our behalf. For example, we my engage another service provider to provide free electronic mail services to our domain name registrants. Many of our service providers have access to personal information needed to perform these kinds of services.
+Business Transfer:
+     As we continue to develop our business, we might sell or buy businesses or their assets. In such transactions, customer information generally is one of the transferred business assets. Also, if NameJet , or substantially all of its assets, were ever to be acquired, customer information will of course be one of the transferred assets.
+Compliance:
+     We release account and other personal information when we believe release is required to comply with federal or state law; enforce or apply our Terms of Use and other agreements; or protect the rights, property, or safety of NameJet , our users, or others. This includes at least exchanging information with other companies, organizations and members of law enforcement to protect against fraud or other criminal activity.
 
-If you order services or products directly from our company we will use the personal information you provide only to process that order. We do not share this information with outside parties except to the extent necessary to complete that order. 
+###  How Secure Is Information About Me?
 
-Online Advertisements:  Our company may display our online advertisements. In those cases we share aggregated and non-identifying information about our Visitors and Members collected through the registration process as well as through online surveys and promotions with these advertisers. 
+The information we receive from or about you is stored on systems designed to prevent the loss, disclosure, or destruction of that information. We protect the security of your information during transmission by using Secure Sockets Layer (SSL) software, which encrypts information you input and the information we may send to our agents. NameJet has gone to great lengths to ensure your information is securely obtained. For example, we encrypt your credit card number before it is stored in our database. It is important for you to protect against unauthorized access to your password and to your computer. Be sure to sign off when finished using a shared computer.
 
-Additionally, in some instances, we use this aggregated and non-identifying information to deliver tailored advertisements or joint ventures. For instance, an advertiser or joint venture company tells us the audience they want to reach and provides us an advertisement tailored to the audience. Based upon the aggregated and non-identifying information we have collected, we may then display or send the advertisement to the intended audience. Our company does not share personal information about its Visitors or Members with these advertisers or joint venture companies.
+###  What Information Can I Access?
 
-Responses to Email Inquiries: When Visitors or Members send email inquiries to our company, the return email address is used to answer the email inquiry we receive. Our company does not use the return email address for any other purpose and does not share the return email address with any third party. 
+NameJet gives you access to certain information about you for the limited purpose of viewing and, in certain cases, updating that information. To view or change this information, log-in to your account. When you update information, we usually keep a copy of the prior version for our records.
 
-Voluntary Customer Surveys:  We may periodically conduct both business and individual customer surveys. We encourage our customers to participate in these surveys because they provide us with important information that helps us to improve the types of products and services we offer and how we provide them to you. Your personal information and responses will remain strictly confidential, even if the survey is conducted by a third party. Participation in our customer surveys is voluntary. 
+###  Links
 
-We may take the information we receive from individuals responding to our Customer Surveys and combine (or aggregate) it with the responses of other customers we may have, to create broader, generic responses to the survey questions (such as gender, age, residence, hobbies, education, employment, industry sector, or other demographic information). We then use the aggregated information to improve the quality of our services to you, and to develop new services and products. This aggregated, non-personally identifying information may be shared with third parties.
+Sites provided by NameJet contain links to other Web sites. Please be aware that we are not responsible for the privacy practices of such other Web sites. We encourage our users to be aware when they leave our Web site and to read the privacy statements of each and every Web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site.
 
-Special Cases:  It is our company's policy not to use or share the personal information about Visitors of Members in ways unrelated to the ones described above without also providing you an opportunity to opt out or otherwise prohibit such unrelated uses. 
+###  Children
 
-However, we may disclose personal information about Visitors or Members, or information regarding your use of the Services or Web sites accessible through our Services, for any reason if, in our sole discretion, we believe that it is reasonable to do so, including: credit agencies, collection agencies, merchant database agencies, law enforcement, or to satisfy laws, such as the Electronic Communications Privacy Act, the Child Online Privacy Act, regulations, or governmental or legal requests for such information; to disclose information that is necessary to identify, contact, or bring legal action against someone who may be violating our Acceptable Use Policy or Terms Of Service, or other user policies; to operate the Services properly; or to protect our company and our Members. 
+NameJet does not sell services for purchase by children under the age of 18. If you are under 18, you may use our services only with involvement of a parent or guardian.
 
-"Cookies" and How Our Company Uses Them. A "cookie" is a small data file that can be placed on your hard drive when you visit certain Web sites. Our company may use cookies to collect, store, and sometimes track information for statistical purposes to improve the products and services we provide and to manage our telecommunications networks. 
+###  Conditions of Use, Notices, and Revisions
 
-If you are a Visitor or Member we may use a cookie to save your settings and to provide customizable and personalized services. These cookies do not enable third parties to access any of your customer information. Additionally, be aware that if you visit other Web sites where you are prompted to log in or that are customizable, you may be required to accept cookies. 
+If you choose to visit NameJet 's Web site, your visit and any dispute over privacy is subject to this Privacy Policy and our Terms of Use, including limitations on damages, arbitration of disputes, and application of the law of the Commonwealth of Virginia. If you have any concern about privacy at NameJet , please send us your concern using our [contact form](https://web.archive.org/Pages/Contact.aspx), and we will address it. Our business changes constantly. This Privacy Policy and the Terms of Use will change also, and use of information that we gather now is subject to the Privacy Policy in effect at the time of use. We may e-mail periodic reminders of our policy and conditions but you should check this Privacy Policy posted on our Web site frequently to see recent changes.
 
-Advertisers and partners may also use their own cookies. We do not control use of these cookies and expressly disclaim responsibility for information collected through them. 
-
-Our Company Commitment to Children's Privacy. Protecting children's privacy is especially important to us. It is our policy to comply with the Children's Online Privacy Protection Act of 1998 and all other applicable laws. Therefore we restrict our Web site to persons eighteen years or older.
-
-YOU MUST BE EIGHTEEN (18) YEARS OR OLDER TO ACCESS THIS WEB SITE. IF YOU ARE UNDER EIGHTEEN YEARS OF AGE, YOU ARE NOT PERMITTED TO ACCESS THIS WEB SITE FOR ANY REASON. DUE TO THE AGE RESTRICTIONS FOR USE OF THIS WEB SITE, NO INFORMATION OBTAINED BY THIS WEB SITE, FALLS WITHIN THE CHILD ONLINE PRIVACY ACT (COPA) AND IS NOT MONITORED AS DOING SO. 
-
-Public Forums:  Please remember that any information you may disclose in any Member Directory, or other public areas of our Web sites or the Internet, becomes public information. You should exercise caution when deciding to disclose personal information in these public areas. 
-
-Our Company's Commitment to Data Security:  Services and Web sites we sponsor have security measures in place to protect the loss, misuse, and alteration of the information under our control. While we make every effort to ensure the integrity and security of our network and systems, we cannot guarantee that our security measures will prevent third-party "hackers" from illegally obtaining this information. 
-
-Where to Direct Questions About Our Privacy Policy:  If you have any questions about this Privacy Policy or the practices described herein, you may contact us through the contact information provided on this Web site. 
-
-Revisions to This Policy: Our company reserves the right to revise, amend, or modify this policy, our Terms Of Service agreement, and our other policies and agreements at any time and in any manner, by updating this posting. 
-
-© 2006-2007 **GeneratorSoftware.com, LLC**  
-
+If you feel that NameJet , or any of its agents, representatives, or employees are violating this Privacy Policy, please contact us via e-mail using the [contact form](https://web.archive.org/Pages/Contact.aspx) or by telephone at 1-425-974-4687.
