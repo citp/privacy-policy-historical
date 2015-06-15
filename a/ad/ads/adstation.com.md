@@ -1,8 +1,9 @@
-> *The following text is extracted and transformed from the adstation.com privacy policy that was archived on 2014-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141222031135id_/http%3A//www.adstation.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adstation.com privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615082524id_/http%3A//www.adstation.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - AdStation by Adknowledge
 
-Effective December 30, 2013.  
+_Effective December 30, 2013._
+
 This Policy may change from time to time. Please check back frequently for updates.  
 For additional information, please visit the [Adknowledge Privacy Center](http://www.adknowledge.com/privacy/ "Adknowledge Privacy Center").
 
