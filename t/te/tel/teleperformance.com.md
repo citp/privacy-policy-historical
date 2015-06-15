@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the teleperformance.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122054451id_/http%3A//teleperformance.com/en-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teleperformance.com privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615032315id_/http%3A//www.teleperformance.com/en-us/privacy-policy) for the most accurate reproduction.*
 
-# Teleperformance | Provider of Outstanding Customer Experiences
+# Privacy Policy | Teleperformance
 
 TELEPERFORMANCE, Inc. ("TELEPERFORMANCE"), recognizes and respects the importance of protecting individuals' personally identifying information ("Personal Information").
 
