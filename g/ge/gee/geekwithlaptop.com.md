@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the geekwithlaptop.com privacy policy that was archived on 2014-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141124112213id_/http%3A//www.geekwithlaptop.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geekwithlaptop.com privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615072110id_/http%3A//www.geekwithlaptop.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Geek with Laptop - About
 
