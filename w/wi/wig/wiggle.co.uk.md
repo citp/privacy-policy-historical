@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wiggle.co.uk privacy policy that was archived on 2014-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141024030722id_/http%3A//www.wiggle.co.uk/h/option/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wiggle.co.uk privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615025134id_/http%3A//www.wiggle.co.uk/h/option/PrivacyPolicy) for the most accurate reproduction.*
 
 # Wiggle Customer Services
 
@@ -28,7 +28,7 @@ The type of information we will collect about you when you place an order or reg
 
 
 
-This information is stored on our internal systems and our website simply verifies you as a customer of Wiggle. We will never collect sensitive information about you without your explicit consent. The information we hold will be accurate and up to date. You can check the information that we hold about you by visiting your account or emailing us. If you find any inaccuracies we will delete or correct it promptly. The personal information that we hold will be held securely in accordance with our internal security policy and the law. We will not transfer or sell your information. We may use technology to track the patterns of behaviour of visitors to our site. If you have any questions/comments about privacy, you should email us at [sales@wiggle.co.uk](mailto:sales@wiggle.co.uk).
+This information is stored on our internal systems and our website simply verifies you as a customer of Wiggle. We will never collect sensitive information about you without your explicit consent. The information we hold will be accurate and up to date. You can check the information that we hold about you by visiting your account or emailing us. If you find any inaccuracies we will delete or correct it promptly. The personal information that we hold will be held securely in accordance with our internal security policy and the law. We will not transfer or sell your information. We may use technology to track the patterns of behaviour of visitors to our site. If you have any questions/comments about privacy, you should email us at [noreply@wiggle.co.uk](mailto:noreply@wiggle.co.uk).
 
 We use the information you provide for the following purposes:
 
@@ -82,7 +82,7 @@ The above privacy statement may not be applicable in all countries of Wiggle vi
 
 **Disclosures**
 
-We will not pass your information to any third parties. You can also email us to stop receiving any information about us and our services by clicking [here](mailto:sales@wiggle.co.uk). If you have any queries about our Privacy Statement you should contact us by e-mail [data@wiggle.co.uk](mailto:data@wiggle.co.uk).
+We will not pass your information to any third parties. You can also email us to stop receiving any information about us and our services by clicking [here](mailto:noreply@wiggle.co.uk). If you have any queries about our Privacy Statement you should contact us by e-mail [data@wiggle.co.uk](mailto:data@wiggle.co.uk).
 
 (back to top)
 
