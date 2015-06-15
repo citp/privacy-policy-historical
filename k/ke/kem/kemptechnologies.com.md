@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kemptechnologies.com privacy policy that was archived on 2014-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141215225349id_/http%3A//kemptechnologies.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kemptechnologies.com privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615032422id_/http%3A//kemptechnologies.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
