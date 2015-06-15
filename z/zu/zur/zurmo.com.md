@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the zurmo.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120081653id_/https%3A//www.zurmo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zurmo.com privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615234830id_/http%3A//crm.me/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Zurmo
+# Privacy Policy - CRM.me
 
 ### Information Gathered Through This Site
 
-This site tracks the domains from which people visit Zurmo, the number of visitors to each page of the site, browser type, IP addresses, and Zurmo may analyze this data for trends and statistics in the aggregate, but such information will be maintained, used and disclosed in aggregate form only and it will not contain personally identifiable information.
+This site tracks the domains from which people visit CRM.me, the number of visitors to each page of the site, browser type, IP addresses, and CRM.me may analyze this data for trends and statistics in the aggregate, but such information will be maintained, used and disclosed in aggregate form only and it will not contain personally identifiable information.
 
-Users can generally visit the Site without revealing any personally identifiable information. However, in certain sections of the Site, Zurmo may, among other things, invite user to contact Zurmo, or complete a profile or registration form. Due to the nature of these activities, Zurmo may collect personally identifiable information such as: your name, contact data such as your address, email address, phone number, employment and company information; and other information that you voluntarily transmit with your communication to us. We may use the information collected to provide you with additional information about our services, promotions, and upcoming events. We provide you the option to “opt-out” of any promotional emails by clicking the ‘Unsubscribe’ link present at the end of every email we send out.
+Users can generally visit the Site without revealing any personally identifiable information. However, in certain sections of the Site, CRM.me may, among other things, invite user to contact CRM.me, or complete a profile or registration form. Due to the nature of these activities, CRM.me may collect personally identifiable information such as: your name, contact data such as your address, email address, phone number, employment and company information; and other information that you voluntarily transmit with your communication to us. We may use the information collected to provide you with additional information about our services, promotions, and upcoming events. We provide you the option to “opt-out” of any promotional emails by clicking the ‘Unsubscribe’ link present at the end of every email we send out.
 
 ### With whom we share Information
 
-At no time, unless law requires such disclosure, disclosure is necessary to aid law enforcement, or a user specifically authorizes such disclosure, will Zurmo disclose individual user personal information that is not publicly available to unrelated third parties.
+At no time, unless law requires such disclosure, disclosure is necessary to aid law enforcement, or a user specifically authorizes such disclosure, will CRM.me disclose individual user personal information that is not publicly available to unrelated third parties.
 
 ### Demo Login 
 
@@ -18,7 +18,7 @@ We understand that you may wish not to disclose your Personal Information for tr
 
 ### Forums
 
-User names and email addresses (as well as any additional information that a user may choose to post) are publicly available on the Zurmo.org forum. Other users will be able to see any information that users post to such forums and Zurmo is not responsible for the personally identifiable information you choose to submit in these forums.
+User names and email addresses (as well as any additional information that a user may choose to post) are publicly available on the CRM.me.org forum. Other users will be able to see any information that users post to such forums and CRM.me is not responsible for the personally identifiable information you choose to submit in these forums.
 
 ### Cookies
 
@@ -26,8 +26,8 @@ We use cookies on this Web site to enhance and customize your experience of our 
 
 ### Links to Third Party Sites
 
-This site contains links to other websites, whether owned or controlled by Zurmo affiliates or unrelated third parties. Please note that the privacy policies of these sites may differ from those listed here. Zurmo is not responsible for the privacy policies and practices of any linked website. We encourage you to read the privacy statement of any website you may visit.
+This site contains links to other websites, whether owned or controlled by CRM.me affiliates or unrelated third parties. Please note that the privacy policies of these sites may differ from those listed here. CRM.me is not responsible for the privacy policies and practices of any linked website. We encourage you to read the privacy statement of any website you may visit.
 
 ### Privacy Policy Updates
 
-By using this site, you agree to the Zurmo.org online privacy policy. We may need to update this Privacy Policy from time to time, please check back periodically. User’s continued access to the Site and Services will indicate user has accepted the change.
+By using this site, you agree to the CRM.me.org online privacy policy. We may need to update this Privacy Policy from time to time, please check back periodically. User’s continued access to the Site and Services will indicate user has accepted the change.
