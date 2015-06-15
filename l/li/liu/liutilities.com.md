@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the liutilities.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121042758id_/http%3A//www.liutilities.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the liutilities.com privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615201041id_/http%3A//www.liutilities.com/about/privacy) for the most accurate reproduction.*
 
 # Liutilities - Free Resource Libraries and Tech Articles by InfoLabs
 
