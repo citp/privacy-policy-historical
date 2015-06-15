@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the hhl.de privacy policy that was archived on 2014-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141111015202id_/http%3A//www.hhl.de/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hhl.de privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615063229id_/http%3A//www.hhl.de/en/privacy) for the most accurate reproduction.*
 
 # Privacy | HHL Europe, Germany
+
+.. 
 
 ## Privacy Statement
 
