@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aamc.org privacy policy that was archived on 2014-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141215161107id_/https%3A//www.aamc.org/44866/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aamc.org privacy policy that was archived on 2015-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150616002915id_/https%3A//www.aamc.org/44866/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement - AAMC
 
@@ -16,7 +16,7 @@ Your use of the AAMC Web site and participation in AAMC applications and surveys
 
 #### Personal Information 
 
-As part of AAMC applications, programs, and surveys, we collect certain personal information to provide you with the services requested and to engage in research for specific, defined purposes. Such personal information may include names, identification numbers, contact information, academic records, institutional affiliation, and other biographical information. These applications and programs include—but are not limited to—AMCAS®, Careers in Medicine®, ERAS®, FindAResident®, GHLO™, MedEdPORTAL®, MCAT® registration, Pivio™ and VSAS®. These AAMC programs offer password-protected sites for information collection.
+As part of AAMC applications, programs, and surveys, we collect certain personal information to provide you with the services requested and to engage in research for specific, defined purposes. Such personal information may include names, identification numbers, contact information, academic records, institutional affiliation, and other biographical information. These applications and programs include—but are not limited to—AMCAS®, Careers in Medicine®, ERAS®, FindAResident®, GHLO™, MedEdPORTAL®, MCAT® registration and VSAS®. These AAMC programs offer password-protected sites for information collection.
 
 In addition to using it to provide a particular program or service, information collected as part of the program applications also may be used for educational research, market research, or verification purposes by the AAMC or under restricted conditions by third parties as explained in [Data Sharing with Third Parties](https://www.aamc.org/44866/privacy.html). Personal identification information collected also may be used to pre-populate application forms for you when you apply or register for services or other programs to save you time and effort. With the exception of contact information on meeting registration forms, access to pre-populated Web application information is granted only after we have authenticated your account access. In order to reduce redundancies and facilitate the accuracy of data, the AAMC may pre-populate internal AAMC databases across systems.
 
