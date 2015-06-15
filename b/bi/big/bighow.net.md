@@ -1,20 +1,20 @@
-> *The following text is extracted and transformed from the bighow.net privacy policy that was archived on 2014-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140923122404id_/http%3A//bighow.net/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bighow.net privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615231419id_/http%3A//bighow.org/privacy-policy.php) for the most accurate reproduction.*
 
-# BigHow.net Privacy Policy
+# bighow.org Privacy Policy
 
-> Privacy Policy for BigHow.net
+> Privacy Policy for bighow.org
 > 
-> BigHow respect and are committed to protecting your privacy. That is why we have adopted this Privacy Policy. This Privacy Policy lets you know how your personal information is processed and used. We promise that we will take steps to use your personal information only in ways that are compatible with this Privacy Policy. Please read the following to learn more about our privacy policy.
+> bighow.org respect and are committed to protecting your privacy. That is why we have adopted this Privacy Policy. This Privacy Policy lets you know how your personal information is processed and used. We promise that we will take steps to use your personal information only in ways that are compatible with this Privacy Policy. Please read the following to learn more about our privacy policy.
 > 
 > ## Information Collection and Use
 > 
-> BigHow collects personal information when you register with BigHow. This is optional and for registration purposes only. Registration allows you to participate in the BigHow activities and allows us to identify you as a unique member of the BigHow. 
+> bighow.org collects personal information when you register with bighow.org. This is optional and for registration purposes only. Registration allows you to participate in the bighow.org activities and allows us to identify you as a unique member of the bighow.org. 
 > 
 > We do not collect personal information when you visit our site unless you signup for a service, place an order, register, complete a survey or enter a contest. When you signup for a service, we will ask you for the following personal information: name and e-mail address. We may use your personal information to contact you for account purposes. When you place an order, we will ask you for the following personal information: name, e-mail address, mailing address, phone number, and credit card number and its expiration date. This information is requested to verify your identity. This information is transmitted via a secure encrypted server using Secure Sockets Layer (SSL) technology, the approved industry standard. We may use your personal information to contact you for account purposes. When you submit feedback or questions via e-mail, or contact us for information about our Web site, we will request your name and e-mail address. We use this information solely to respond to your inquiries.
 > 
 > ## Information Sharing and Disclosure
 > 
-> BigHow certifies that all personal information relating to its members and clients, including email addresses and personal information, will be kept confidential. We do not share, sell, rent or barter any identifiable personal information to any third party. 
+> bighow.org certifies that all personal information relating to its members and clients, including email addresses and personal information, will be kept confidential. We do not share, sell, rent or barter any identifiable personal information to any third party. 
 > 
 > ## Advertisments & Resources
 > 
@@ -31,14 +31,14 @@
 > 
 > ## Cookies 
 > 
-> From time to time, BigHow or its advertisers may send a "cookie" to your computer. A cookie is a small piece of data that is sent to your Internet browser from a Web server and stored on your computer's hard drive. A cookie can't read data off of your computer hard disk or read cookie files created by other Web sites. Cookies do not damage your system. We use cookies to identify which areas of BigHow's you have visited or customized, so the next time you visit, those pages may be readily accessible. Our advertisers may also use cookies to ascertain how many times you've seen an advertisement. Our advertisers and we may use this information to better personalize the content, banners, and promotions that you see on our site. You can choose whether to accept cookies by changing the settings of your Internet browser. You can reset your browser to refuse all cookies, or allow your browser to show you when a cookie is being sent. If you choose not to accept these cookies, your experience at our Site and other Web sites may be diminished and some features may not work as intended.
+> From time to time, bighow.org or its advertisers may send a "cookie" to your computer. A cookie is a small piece of data that is sent to your Internet browser from a Web server and stored on your computer's hard drive. A cookie can't read data off of your computer hard disk or read cookie files created by other Web sites. Cookies do not damage your system. We use cookies to identify which areas of bighow.org's you have visited or customized, so the next time you visit, those pages may be readily accessible. Our advertisers may also use cookies to ascertain how many times you've seen an advertisement. Our advertisers and we may use this information to better personalize the content, banners, and promotions that you see on our site. You can choose whether to accept cookies by changing the settings of your Internet browser. You can reset your browser to refuse all cookies, or allow your browser to show you when a cookie is being sent. If you choose not to accept these cookies, your experience at our Site and other Web sites may be diminished and some features may not work as intended.
 > 
 > ## Changes to this Privacy Policy 
 > 
-> By using the BigHow, you consent to the collection and use of information by BigHow as specified above. We reserve the right to modify this policy. If we decide to change our Privacy Policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it.
+> By using the bighow.org, you consent to the collection and use of information by bighow.org as specified above. We reserve the right to modify this policy. If we decide to change our Privacy Policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it.
 > 
 > ## Questions and Suggestions 
 > 
-> If you have questions or comments about BigHow's privacy policy, please feel free to contact us at:  
->  [info@BigHow.net](mailto:info@BigHow.net).  
+> If you have questions or comments about bighow.org's privacy policy, please feel free to contact us at:  
+>  [info@bighow.org](mailto:info@bighow.org).  
 > 
