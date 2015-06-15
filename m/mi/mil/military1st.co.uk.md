@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the military1st.co.uk privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630040855id_/http%3A//www.military1st.co.uk/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the military1st.co.uk privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615103658id_/http%3A//www.military1st.co.uk/privacy.html) for the most accurate reproduction.*
 
 # Privacy
 
@@ -31,7 +31,7 @@ Any personal information we collect from this website will be used in accordance
 
 ### Your Rights
 
-You have the right to request a copy of any information that we currently hold about you. In order to receive such information please send your contact details including address and payment of £10 to cover administration expenses to the following address:
+You have the right to request a copy of any information that we currently hold about you. In order to receive such information please send your contact details including address and payment of ?10 to cover administration expenses to the following address:
 
 Privacy  
 MMG Trading Ltd  
