@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the elgin.edu privacy policy that was archived on 2013-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130620011759id_/http%3A//elgin.edu/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elgin.edu privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615114706id_/http%3A//elgin.edu/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - Elgin Community College (ECC)
 
-## Privacy Policy (Draft)
+## Privacy Policy
 
 #### General
 
@@ -38,3 +38,15 @@ ECC Web sites may provide links to Internet Web sites that are maintained by thi
 #### Remarketing with Google Analytics
 
 We use Remarketing with Google Analytics to advertise online. Third-party vendors, including Google, may display our ads on sites across the Internet. ECC and third-party vendors, including Google, use first-party cookies (such as the Google Analytics cookie) and third-party cookies (such as the DoubleClick cookie) together to inform, optimize, and serve ads based on visitor's past visits to our website.
+
+#### Campus Map with Google Maps API
+
+ECC displays a map of the college that shows building information and the services we offer. ECC utilizes Google Maps API to:
+
+  * show campus information
+  * generate application functions (i.e., street view, satellite imagery, etc.)
+  * display personal information (i.e., driving directions from the address you specify)
+
+
+
+Google will collect personal information, including the location of an individual. By using the [campus map](https://web.archive.org/campusmap "campus map") you are agreeing to be bound by Google's [terms of use](http://www.google.com/intl/en-US_US/help/terms_maps.html "http://www.google.com/intl/en-US_US/help/terms_maps.html")and [privacy policy](http://www.google.com/privacy.html "http://www.google.com/privacy.html").
