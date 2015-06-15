@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the constellation-guide.com privacy policy that was archived on 2014-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141113070004id_/http%3A//www.constellation-guide.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the constellation-guide.com privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615111555id_/http%3A//www.constellation-guide.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Constellation Guide
 
