@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rte.ie privacy policy that was archived on 2014-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141223041559id_/http%3A//www.rte.ie/about/en/policies-and-reports/policies-guidelines/2012/0417/317440-rte-privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rte.ie privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615050241id_/http%3A//www.rte.ie/about/en/policies-and-reports/policies-guidelines/2012/0417/317440-rte-privacy-statement) for the most accurate reproduction.*
 
 # RTÉ Privacy Statement - RTÉ About
 
