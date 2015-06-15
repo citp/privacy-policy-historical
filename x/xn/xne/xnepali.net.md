@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xnepali.net privacy policy that was archived on 2014-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141229131557id_/http%3A//xnepali.net/movies/about-2/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xnepali.net privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615101910id_/http%3A//xnepali.net/movies/about-2/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy » Nepali Movies, Nepali Films
 
@@ -14,10 +14,8 @@ As with many Web sites, we may use “cookies” and/or other technology in the 
 
 Third parties (including, but not limited to, software vendors, advertisers, content providers and fulfillment companies) may also use Tracking Technologies by or through the Site. We have no control over what information such third parties track or collect, and we have no responsibility or liability for any tracking, data collection or other activities of such third parties.
 
-With respect to Ad Servers: To try and bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our Web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and clickstream information. For further information, consult the privacy policies of:
-
-http://www.google.com/privacy_ads.html
-
+With respect to Ad Servers: To try and bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our Web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and clickstream information. For further information, consult the privacy policies of:  
+http://www.google.com/privacy_ads.html  
 http://chitika.com/privacy_policy.php
 
 **2\. Usage and Sharing:**  
