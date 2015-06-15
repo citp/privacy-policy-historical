@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pcci.edu privacy policy that was archived on 2014-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141116134511id_/http%3A//www.pcci.edu/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pcci.edu privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615103847id_/http%3A//www.pcci.edu/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy · Pensacola Christian College
 
