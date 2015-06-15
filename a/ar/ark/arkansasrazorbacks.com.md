@@ -1,52 +1,21 @@
-> *The following text is extracted and transformed from the arkansasrazorbacks.com privacy policy that was archived on 2000-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000610135942id_/http%3A//www.hogcall.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arkansasrazorbacks.com privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615074048id_/http%3A//www.arkansasrazorbacks.com/page/privacy-policy) for the most accurate reproduction.*
 
-# HogCall.com -- Your Razorback Sports Information Source
+# Privacy Policy | Arkansas Razorbacks
 
-[](http://www.arkansassports.com/) |  |  January 30, 120
+The Company strives to ensure the privacy and accuracy of your confidential information. In order for you to purchase products and Service(s) that we offer via the Web Site, we require you to provide us with information that personally identifies you (“Personal Information”). Personal Information may include (i) contact data (such as your name, physical and email addresses, phone numbers and domain names), and (ii) financial data (such as your account or credit card number).
 
-ArkansasSports Network:  
-  
-[**Home**](https://web.archive.org/index.html) |   
-  
-    Features  
-     [Today's Headlines](http://www2.hogcall.com/news/)  
-     [Message Boards](http://www2.hogcall.com/board)  
-     [Recruiting](https://web.archive.org/recruiting/)  
-     [Fun Stuff](https://web.archive.org/fun/)  
-     [Web Links](https://web.archive.org/resources/)  
-     [Contests](https://web.archive.org/contests/)  
-     [Photo Album](https://web.archive.org/photos/)  
-     [Sports Medicine](http://www.kneeandsports.com/)
+Aggregate information on web site usage is recorded, and information volunteered by site users including all data submitted is collected and stored. This includes the use of specific services on the Web Site and/or Service(s) such as performing keyword searches, registering for events, or requesting additional information. We also collect and retain your email address and any other information you provide, when you communicate with us via email. We collect this information to provide online services, and to enhance our Web content and improve our quality of service.
 
-      
-     [About Us](https://web.archive.org/aboutus/index.html)  
-     [Contact Us](https://web.archive.org/contactus/index.html)  
-     [Ad/Sponsor Info](https://web.archive.org/aboutus/adinfo.html)  
-     [Be a Sportswriter](https://web.archive.org/freelance.html)  
-     [Employment](https://web.archive.org/employment.html)
+Cookies are small files that may include a unique identifier, which is sent from our Web server to your web browser and is stored on your hard drive for record-keeping purposes. Cookies may be required to use certain services on the Site. We use cookies to provide services, to record current session information and identify user trends and patterns. You may choose to view, block or erase cookies within your web browser. However, this may limit your ability to use all services provided on our web sites.
 
-      
-     [Log In](http://www2.hogcall.com/account/index.asp)  
-     [Preferences](http://www2.hogcall.com/account/pref_personal.asp)  
-     [Help Me!](http://www2.hogcall.com/account/email.asp?subject=help)  
-     [Register](http://www2.hogcall.com/account/terms.asp)
+The confidential data you submit is encrypted using industry-standard SSL encryption. Furthermore, all of the customer data we collect is protected against unauthorized access and is never sold, traded or rented for commercial purposes to other organizations except to provide services, information, or products you’ve requested, when we have your permission, or in the following circumstances: (a) in the case of a sale of all of the assets of the Company, a merger involving the Company, a sale of assets involving the Company or a corporate reorganization involving the Company; and (b) when it is necessary to share information to investigate, prevent, or take action regarding illegal activities, suspected threatening or fraudulent activities, and violations of Terms of Service, or as otherwise required by law.
 
-|  |  [](http://www.arkansassports.com/cgi-bin/ads/redirect.cgi/c235cd28?REGION=HCGeneral&CAMPAIGN=HCDefault&ACCOUNT=HogStore&BANNER=UltimateStore)
+In addition, please keep in mind that whenever you voluntarily disclose Personal Information on-line, for example on message boards, through e-mail, or in chat areas, that information can be seen, collected and used by others.
 
-* * *
+Through the Web Site and/or Service(s) you may be introduced to a variety of third-party vendors and sites. The privacy policies of these third parties are not under our control. The use of any information that you may provide to any third party will be governed by the privacy policy of the operator of the site that you are visiting, which may differ from ours. As well, in some cases these third parties may share the information that they collect about you with the Company. Because we do not control the privacy policies of our business affiliates or any other sites to which we may provide hyperlinks, we recommend you review the privacy policy of the site you are visiting. If you cannot find that site’s privacy policy, or if you are uncertain about the entity to which you are providing your information, you should contact that site directly for more information.
 
-Privacy Statement
+The Web Site and/or Service(s) may include a variety of features, such as bulletin boards and chat rooms, which allow feedback to us and real-time interaction between site users. The Company does not control the posting of messages, information or files that others may provide through the Site. You understand that the Company has no obligation to monitor any bulletin boards, chat rooms, or other areas of the Web Site and/or Service(s) through which users can supply information or material. However, the Company reserves the right at all times to disclose any information as necessary to satisfy any law, regulation or governmental request, or to refuse to post or to remove any information or materials, in whole or in part, that in the Company’s sole discretion are objectionable or in violation of the Terms of Use.
 
-* * *  
-  
----  
-  
-> The ArkansasSports.com Network is committed to protecting your privacy. We use the information we collect about you to process orders, provide a personalized services, and to use in demographic analysis. We will not sell, trade, rent, disclose, or make available personally identifiable information about you to any third party without first receiving your permission. We may share non-personal, aggregate statistical information regarding our visitors, customers, sales, traffic patterns, and site usage with our partners.
-> 
-> We provide links to a number of other sites that we believe can offer you useful information and services. However, we are not responsible for the privacy policies of or any actions of any third parties that control the activities of such third-party sites. We suggest contacting the relevant parties controlling these sites or accessing their online policies for the relevant information about their data collection.
-> 
-> When you register with ArkansasSports.com, you have the option to receive or not to receive email notices with information, that we think you will find useful. On occasion these mailings may include communications on behalf of third-party companies who offer products and services we think would be of value to you. If you decide later that you would like to change your option, you may do that through the ArkansasSports.com site. 
-> 
-> By using the ArkansasSports.com site, you consent to the collection and use of this information. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it. ArkansasSports.com reserves the right, at any time, to modify, alter or update these policies, and you agree to be bound by such modifications, alterations, or updates.  
-  
-  | 
+**THIRD PARTY ADVERTISING:**
+
+We use third-party ad servers and ad networks to serve advertisements when you visit our website. These companies and the advertisers themselves may use information about your visits to this and other Web sites (not including your name, address email address or telephone number) in order to provide advertisements about goods and services of interest to you. They may also use tracking technologies to measure the effectiveness of their advertisements (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) to personalize the advertising content. This Privacy Policy does not apply to, and we cannot control the activities of, such advertisers, ad servers or ad networks. You should consult the respective privacy policies of any advertisers on our website to see your options for opting out of their use of such devices. In addition, some of the ad servers and ad networks may be members of the Network Advertising Initiative, which offers a single location to opt out of ad targeting from member companies. If you opt-out of receiving targeted ads on the our website from ad servers and ad networks, you will continue to receive advertising and promotional messages after you opt-out, but they will not be customized or personalized to you based on your use of our website and/or third party websites. If you would like more information about advertisers’ use of tracking technologies and about your option not to accept these cookies, you can go to [www.networkadvertising.org](http://www.networkadvertising.org/). If you would like to learn more about how interest-based information is collected, whether the companies we use are part of an industry network regarding behavioral advertising and to know your choices about not having information used in this manner you can go to [www.aboutads.info](http://www.aboutads.info/).
