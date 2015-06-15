@@ -1,43 +1,40 @@
-> *The following text is extracted and transformed from the topweddingsites.com privacy policy that was archived on 2014-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141019113300id_/http%3A//www.topweddingsites.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the topweddingsites.com privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615101310id_/http%3A//www.topweddingsites.com/wedding-blog/privacy-policy) for the most accurate reproduction.*
 
-# TeamWedding.Com Privacy Policy
+# Privacy Policy | Team Wedding Blog
 
-When you use Team Wedding, Home of Top Wedding Sites™, you agree to the terms and conditions listed below, without modification. We may update the terms and conditions of use from time to time.
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at admin@topweddingsites.com. 
 
-## The Information Collected and How it is Used
+At www.topweddingsites.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.topweddingsites.com and how it is used.
 
-### Cookies & IP Addresses
+## Log Files
 
-Our network uses cookies and IP Addresses broadly to collect anonymous user information for statistical and record keeping purposes and to limit and block abuse of the network resources and services and to administer our servers.
+Like many other Web sites, www.topweddingsites.com makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
 
-### E-mail & Demographic Data
+## Cookies and Web Beacons 
 
-Our site's registration forms requires users to give us contact information (like name and email address) and demographic information (interests and business information). We use customer contact information from the registration form to send you information that may help your business grow or to offer emailed wedding information. The customer's contact information is also used to contact the member when necessary (i.e. customer service issues). Users may opt-out of receiving future mailings; see the choice/opt-out section below. Demographic and profile data is also collected at our site. We use this data to tailor the visitor's experience at our site, showing them content that we think they might be interested in, and displaying the content according to their preferences. In order to ensure that TeamWedding.com is able to provide a high quality service you must consent to any TeamWedding.com employees and/or authorized parties having access to your account and records.
+www.topweddingsites.com does not use cookies.
 
-## Online Surveys 
+## DoubleClick DART Cookie 
 
-We reserve the right to conduct completely voluntary online surveys where we ask for contact information and solicit feedback on various topics from visitors. We use the collected data from such surveys to fine tune our product and service offerings. And we use contact data to follow-up with you to highlight the changes we have made to our business based on your feedback.
+.:: Google, as a third party vendor, uses cookies to serve ads on www.topweddingsites.com.
 
-## Contests & Drawings
+.:: Google’s use of the DART cookie enables it to serve ads to users based on their visit to www.topweddingsites.com and other sites on the Internet.
 
-We reserve the right to run contests and/or drawings on our site from time to time where we may ask for your name, wedding date, and e-mail address. We use this information to administer the promotion as well as to provide you with special offers from our advertisers and partners. Please note that any emails from TeamWedding.com resulting from entry into a contest or drawing are considered solicted emails and should not be considered spam.
+.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – http://www.google.com/privacy_ads.html
 
-## Security
+Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include ….
 
-All data collected at TopWeddingSites™ is protected by a secure server certificate against unauthorized access. Personally identifiable information such as names, addresses, credit card numbers and other information is stored securely offline. However, users alone are responsible for maintaining the confidentiality and security of their account number and/or password for their accounts. You are personally liable and responsible for any use of your account whether or not expressly autorized by you. 
+  * Google Adsense
+  * BrideClick
+  * Linkshare
+  * Share A Sale
 
-TeamWedding.com will not disclose any personally identifying information to any third parties unless you expressly authorize it, except as may be required by or to be in compliance with the law. 
 
-## Choice/Opt-Out
 
-Our site provides users the opportunity to opt-out of receiving marketing communications from us. This site gives users options for adding and removing their information from our database to not receive future newsletter, mailing list or contest/drawing communications from us.
+These third-party ad servers or ad networks use technology to the advertisements and links that appear on www.topweddingsites.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
 
-## Corrections/Updates
+www.topweddingsites.com has no access to or control over these cookies that are used by third-party advertisers.
 
-This site gives users options for changing and modifying information previously provided.
+You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. www.topweddingsites.com’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
 
-## Contacting the Web Site
-
-Please contact us by e-mail through our [online contact form.](http://www.topweddingsites.com/contact.php)
-
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, please contact Top Wedding Sites™ by e-mail through our [online contact form.](http://www.topweddingsites.com/contact.php)
+If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
