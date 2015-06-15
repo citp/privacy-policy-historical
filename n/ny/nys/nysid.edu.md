@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nysid.edu privacy policy that was archived on 2014-08-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140802003255id_/http%3A//nysid.edu/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nysid.edu privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615134134id_/http%3A//nysid.edu/about/privacy-policy) for the most accurate reproduction.*
 
 # About | Privacy Policy | NYSID - New York School of Interior Design
 
