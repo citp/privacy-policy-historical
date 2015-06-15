@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scholarshipstimes.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122125618id_/http%3A//www.scholarshipstimes.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scholarshipstimes.com privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615111804id_/http%3A//www.scholarshipstimes.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | SCHOLARSHIPS TIMES
 
