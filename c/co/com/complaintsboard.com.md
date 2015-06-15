@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the complaintsboard.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220052507id_/http%3A//www.complaintsboard.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the complaintsboard.com privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615111910id_/http%3A//www.complaintsboard.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Complaints Board - Consumer Complaints, Reviews, Information
+
+|  | 
 
 Your privacy is important to us, so ComplaintsBoard.com (the "Site") has created this Privacy Policy to explain how your information is protected, collected and used. This Privacy Policy may be updated from time to time. You can always review the most current version here. By using the Site, you consent to the terms and conditions of this Privacy Policy and are aware that our policies may evolve in the future. If there is a conflict between our Terms of Use governing your use of the Site and this Privacy Policy, the Terms of Use control. 
 
@@ -60,3 +62,6 @@ ComplaintsBoard.com may disclose information about its users if required to do s
 
 
 If we merge with or are acquired by another company, the resulting combined company will use the information you have provided as described in this Privacy Policy. 
+
+|   
+---|---|---
