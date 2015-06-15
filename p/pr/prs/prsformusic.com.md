@@ -1,11 +1,13 @@
-> *The following text is extracted and transformed from the prsformusic.com privacy policy that was archived on 2014-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141129165529id_/http%3A//www.prsformusic.com/pages/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prsformusic.com privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615103155id_/http%3A//www.prsformusic.com/pages/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy policy
 
-PRS for Music Limited takes your privacy very seriously. This policy sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed.  By visiting [www.prsformusic.com](http://www.prsformusic.com/) you accept and consent to the practices outlined in this policy.
+  
 
-For the purposes of the Data Protection Act 1998, the data controller is PRS for Music Limited of 2 Pancras Square London N1C 4AG.   
 
+_PRS for Music_ Limited takes your privacy very seriously. This policy sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed.  By visiting [www.prsformusic.com](http://www.prsformusic.com/) you accept and consent to the practices outlined in this policy.
+
+For the purposes of the Data Protection Act 1998, the data controller is PRS for Music Limited of 2 Pancras Square London N1C 4AG. 
 
 ## Information we may collect from you
 
@@ -34,8 +36,7 @@ We will use the information set out above to:
 
 ## Disclosure of information
 
-We will share your personal information with the Performing Right Society ("PRS") and/or the Mechanical-Copyright Protection Society ("MCPS"), as appropriate.  
-
+We will share your personal information with the Performing Right Society ("PRS") and/or the Mechanical-Copyright Protection Society ("MCPS"), as appropriate.
 
 We may also share your information with selected third parties including:
 
@@ -45,15 +46,13 @@ We may also share your information with selected third parties including:
   * Suppliers we engage to process data on our behalf in which case such supplier will only process personal information according to the instructions we give them. 
   * Government bodies or law enforcement agencies, where we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our terms of use and other agreements; or to protect the rights, property, or safety of PRS for Music Limited, our members, licensees, or others. 
   * Future owners of our business, in which case personal data held by PRS for Music Limited about its customers will be one of the transferred assets.
-  * Credit reference agencies for the purpose of assessing your credit score where this is a condition of us entering into a contract with you.  
-
+  * Credit reference agencies for the purpose of assessing your credit score where this is a condition of us entering into a contract with you.
 
 
 
 ## Use of cookies
 
-Our website uses cookies to distinguish you from other users of our website.  This helps us to provide you with a good experience when you browse our website.  For more details on the cookies we use and the purposes for which we use them, see our [Cookie policy](https://web.archive.org/Pages/Cookiepolicy.aspx).   
-
+Our website uses cookies to distinguish you from other users of our website.  This helps us to provide you with a good experience when you browse our website.  For more details on the cookies we use and the purposes for which we use them, see our [Cookie policy](https://web.archive.org/Pages/Cookiepolicy.aspx). 
 
 ## Registered users
 
@@ -72,8 +71,7 @@ You can opt out of this at any time by [contacting us here](https://web.archive.
 
 ## Other websites
 
-Our website may contain links to other websites which are outside our control and are not covered by this policy.  We encourage you to read the privacy policies on the other websites you visit.  
-
+Our website may contain links to other websites which are outside our control and are not covered by this policy.  We encourage you to read the privacy policies on the other websites you visit.
 
 ## Access to your information
 
@@ -89,8 +87,7 @@ Unfortunately, the transmission of information via the internet is not completel
 
 ## Changes to this privacy policy
 
-Any changes we make to our privacy policy will be posted on this page.  Please check to see if any updates or changes have been made. This policy was last reviewed on 14 August 2014.  
-
+Any changes we make to our privacy policy will be posted on this page.  Please check to see if any updates or changes have been made. This policy was last reviewed on 14 August 2014.
 
 ## Contact us
 
@@ -100,8 +97,4 @@ Data Protection Officer
 Legal Department  
  _PRS for Music Ltd_   
 2 Pancras Square  
-London N1C 4AG  
-
-
-|  |  |    
----|---|---|---
+London N1C 4AG
