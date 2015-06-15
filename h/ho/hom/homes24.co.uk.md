@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the homes24.co.uk privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630162200id_/http%3A//www.homes24.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homes24.co.uk privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615103638id_/http%3A//www.homes24.co.uk/privacy) for the most accurate reproduction.*
 
 # Homes24 Privacy policy
 
@@ -32,6 +32,16 @@ If you prefer not to receive emails about our Services, you may opt out of such 
 ## Third parties
 
 We use third parties to serve advertisements on our website and these third parties may use parties or other means to help measure the effectiveness of their advertisements. Our website may also include links to other unrelated websites and/or contact forms to other unrelated parties which may collect personal information. Our privacy policy does not extend to these third parties or other websites and we recommend that users refer directly to these parties regarding their privacy policies before supplying personal details to these companies. [View our Cookie Policy](https://web.archive.org/privacy/cookies/)
+
+We may use your Personal Information to customise or enhance your experience on the Zoopla Property Group Network (including the display of advertisements) and communications related to our products or services or those of third parties. In addition, we may use other information we may have about you or your use of the Zoopla Property Group Network (such as which pages you have visited) for those purposes and for the purpose of facilitating the serving of targeted ads for the Zoopla Property Group Network on other Web sites.
+
+## Opting Out of Collection of Information by Third Parties
+
+Zoopla Property Group's third-party ad servers, ad network providers, and third-party advertisers (the "Zoopla Property Group Ad Providers") may provide you with advertisements that you may see on the Services or on other affiliated websites. To improve the relevancy and help measure the effectiveness of such advertisements, the Zoopla Property Group Ad Providers may use cookies, Web beacons, clear .gifs or similar technologies. These are used to record users' activity, such as the pages visited, and to learn what types of information are of most interest to the users. 
+
+Zoopla Property Group Ad Providers. Use of these technologies by Zoopla Property Group Ad Providers is subject to their own privacy policies and is not covered by our privacy policy. For more information regarding the choices you have about these technologies (such as opting-out), [click here](http://www.networkadvertising.org/participating-networks) to learn about Zoopla Property Group Ad Providers participating in the Network Advertising Initiative, and [click here](http://www.aboutads.info/participating) to learn about the Zoopla Property Group Ad Providers participating in the Digital Advertising Alliance. The Network Advertising Initiative and Digital Advertising Alliance offer some centralized opt-out tools; otherwise you must visit each provider's website individually and opt out.
+
+Zoopla Property Group marketing service providers. If you do not want Zoopla Property Group and its marketing services providers to follow your usage of our Services via cookies and Web beacons, you can opt out of Cookies/Web beacons from: comScore, Google Analytics, Omniture and Yahoo! Opting out of these services does not mean you will no longer receive online advertising. It does mean that the service from which you opted out will no longer deliver ads tailored to your Web preferences and usage patterns. Please note that, if you opt out and later delete your cookies, use a different browser, or use a different computer or other electronic device, you will need to renew your opt-out choices.
 
 ## Safety and security
 
