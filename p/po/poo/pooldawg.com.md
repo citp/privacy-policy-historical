@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pooldawg.com privacy policy that was archived on 2014-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141127052816id_/http%3A//www.pooldawg.com/article/privacy-policy-terms-of-use) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pooldawg.com privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615034535id_/http%3A//www.pooldawg.com/article/privacy-policy-terms-of-use) for the most accurate reproduction.*
 
 # Privacy Policy & Terms of Use | Pool Cues and Billiards Supplies at PoolDawg.com
 
