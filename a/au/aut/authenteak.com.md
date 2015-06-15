@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the authenteak.com privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217065154id_/http%3A//authenteak.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the authenteak.com privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615020536id_/http%3A//www.authenteak.com/privacypolicy.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# AuthenTEAK is secure and never shares customer info | Privacy Policy
 
 _This site is hosted by Yahoo! Store. Yahoo! hosts the store pages, ordering system, and order data. Yahoo! automatically collects order information but may only use this information in the aggregate. If you accessed this store through Yahoo! Shopping, Yahoo! also automatically collects information about your shopping experience. Please see the[Yahoo! Privacy Policy](http://info.yahoo.com/privacy/us/yahoo/details.html) for more information about how Yahoo! uses this information._
 
@@ -136,4 +136,4 @@ Atlanta, GA 30318 USA
 This Policy may be amended from time to time, consistent with the requirements of the Safe Harbor Principles. A notice will be posted on our website for sixty (60) days whenever this Safe Harbor Privacy Policy is changed in a material way. 
 
   
-EFFECTIVE DATE: January 1, 2013.
+EFFECTIVE DATE: January 1, 2015.
