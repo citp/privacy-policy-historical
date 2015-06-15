@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the standardpacifichomes.com privacy policy that was archived on 2014-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141222232418id_/http%3A//www.standardpacifichomes.com/corporate/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the standardpacifichomes.com privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615133557id_/http%3A//www.standardpacifichomes.com/corporate/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Standard Pacific Homes
 
