@@ -1,8 +1,12 @@
-> *The following text is extracted and transformed from the igiri.org privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625072153id_/http%3A//igiri.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the igiri.org privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615020816id_/http%3A//igiri.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - iGiri.Org
 
 This Privacy Policy governs the manner in which iGiri.Org collects, uses, maintains and discloses information collected from users (each, a “User”) of the [http://igiri.org](http://igiri.org/) website (“Site”). This privacy policy applies to the Site and all products and services offered by iGiri.Org.
+
+iGiri.Org provides Free latest updates and alerts on Entrance Exams 2014-2015, Latest Admission, Exam and Result Notification in India. As one of the leading Portals of Entrance Examinations, Admission, Exam Notifications, Exam Result Dates, Exam Eligibility & their Syllabus, we update & help students to take right decisions about their career – Update you can receive on the exams – CAT, MAT, XAT, ATMA, MBA CET, ICET, TANCET, MHCET, AIEEE, IIT JEE, VITEEE, BITSAT, NIMCET, MHTCET, EAMCET, PTU CET, Delhi CEE, Delhi PMT, CLAT, GCET, IPU, AIIMS, JIPMER, HPMT and Many more,
+
+**The information displayed on igiri.org is collected from the known resources and websites of the same topic for getting quick information and easy approach of all education related updates published on internet at single location for all students and employees. If you are owner and have any obligation related to your content, you can request to remove your content by giving mail at girdhaar@gmail.com. It will be immediately attended.**
 
 **Personal identification information**
 
@@ -20,11 +24,11 @@ Our Site may use “cookies” to enhance User experience. User’s web browser 
 
 iGiri.Org may collect and use Users personal information for the following purposes:
 
-  * _\- To improve customer service_  
+  * _– To improve customer service_  
 Information you provide helps us respond to your customer service requests and support needs more efficiently.
-  * _\- To improve our Site_  
+  * _– To improve our Site_  
 We may use feedback you provide to improve our products and services.
-  * _\- To send periodic emails_  
+  * _– To send periodic emails_  
 If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
 
 
@@ -41,7 +45,7 @@ We do not sell, trade, or rent Users personal identification information to othe
 
 **Google Adsense**
 
-Some of the ads may be served by Google. Google’s use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses “non personally identifiable information” and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at <http://www.google.com/privacy_ads.html>
+Some of the ads may be served by Google. Google’s use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses “non personally identifiable information” and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at [http://www.google.com/privacy_ads.html](http://igiri.org/goto/http://www.google.com/privacy_ads.html)
 
 **Changes to this privacy policy**
 
@@ -58,3 +62,5 @@ If you have any questions about this Privacy Policy, the practices of this site,
 [http://igiri.org](http://igiri.org/)  
 iGiri.Org Gujarat India  
 girdhaar@gmail.com
+
+### Get Similar Job Updates as above in Your Mail
