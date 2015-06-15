@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the acherryontop.com privacy policy that was archived on 2014-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141130075033id_/http%3A//www.acherryontop.com/articles/help/1521) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acherryontop.com privacy policy that was archived on 2015-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150616000208id_/http%3A//www.acherryontop.com/articles/help/1521) for the most accurate reproduction.*
 
 # Privacy statement: A Cherry On Top
+
+[](http://secure.trust-guard.com/business/2972)
 
 **General Privacy Statement**
 
@@ -44,9 +46,12 @@ A cookie is a small file which asks permission to be placed on your computer's h
 
 You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website. Our cookies are used primarily for the convenience of our customers.
 
-**Links to other websites**
-
+**Links to other websites**  
 Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
 
+**Email**  
+The email address you provide for order processing may be used to send you information and updates pertaining to your order. If you decide to opt-in to our mailing list, you will receive emails that may include company news, updates, related product or service information, promotions, etc. However, you may opt-out at any time by clicking on the unsubscribe link in the email.
+
+  
 **Security**  
 We are committed to ensuring that your information is secure. When you place orders with us, we use a secure server. The secure server software (SSL) encrypts all information you input before it is sent to us. All of the customer data that we collect is protected against unauthorized access.  In order to prevent unauthorized access or disclosure we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.  Credit card information is not stored online nor do we keep a copy of it at our offices. A Cherry On Top is PCI DSS compliant. A Cherry On Top is tested daily by ScanAlert to verify Hacker Safe status.
