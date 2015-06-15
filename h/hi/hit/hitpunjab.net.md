@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hitpunjab.net privacy policy that was archived on 2014-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141108134635id_/http%3A//hitpunjab.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hitpunjab.net privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615101111id_/http%3A//hitpunjab.net/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Hit Punjab | Hit Punjab
 
