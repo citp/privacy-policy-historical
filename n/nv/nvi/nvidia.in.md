@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nvidia.in privacy policy that was archived on 2014-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141203153201id_/http%3A//www.nvidia.in/object/privacy_policy_in.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nvidia.in privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615234625id_/http%3A//www.nvidia.in/object/privacy_policy_in.html) for the most accurate reproduction.*
 
 # NVIDIA Privacy Policy | NVIDIA
 
@@ -73,7 +73,7 @@ NVIDIA respects your choices about how your Personal Information is used when yo
 If you choose not to provide any Personal Information when requested on the website, you can still enjoy most areas on the website. However, you may be unable to access certain areas and services that require our interaction with you.
 
 **Marketing communications.**  
-You can opt-out of receiving communications from NVIDIA at any time by unsubscribing at <http://www.nvidia.com/nvregister/frmOptOut.asp>, or by following the unsubscribe instructions at the bottom of any e-mail you receive. However, we may still send you updates to our Legal Notices, Online Privacy Policy, or regarding any account you have created with us.
+You can opt-out of receiving communications from NVIDIA at any time by unsubscribing at <https://profile.nvidia.com/en-in/login>, or by following the unsubscribe instructions at the bottom of any e-mail you receive. However, we may still send you updates to our Legal Notices, Online Privacy Policy, or regarding any account you have created with us.
 
 **Online advertising and other tracking.**  
 As discussed above, NVIDIA collects certain information about you when you visit our websites or services through technology like cookies, web beacons and similar tools. Because we use this information only for internal and analytic purposes, your selection of the "Do Not Track" option provided by your browser will not have any effect on our collection of cookie information for these purposes. The only way to completely "opt out" of the collection of any information through cookies or other tracking technology is to actively manage the settings on your browser or mobile device. To learn more about cookies, clear gifs/web beacons and related technologies, you may wish to visit [http://www.allaboutcookies.org](http://www.allaboutcookies.org/). Depending on your mobile device, you may not be able to control tracking technologies through browser settings.
