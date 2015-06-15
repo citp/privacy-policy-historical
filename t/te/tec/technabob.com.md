@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the technabob.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121025834id_/http%3A//technabob.com/blog/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the technabob.com privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615110155id_/http%3A//technabob.com/blog/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -19,14 +19,14 @@ In the event of a sponsored contest, giveaway, or other similar post, we may col
 Our advertising partners include, but are not limited to:
 
   1. Google/DoubleClick AdExchange
-  2. Glam Media
-  3. NetShelter
+  2. Mode Media
+  3. Ziff Davis
   4. Technorati Media Network
   5. Amazon
   6. Digital Trends Network
   7. Advertising.com
-  8. InPowered
-  9. VigLink
+  8. SkimLinks
+  9. TripleLift
 
 
 
@@ -50,6 +50,6 @@ If you wish to disable cookies, you may do so through your individual browser op
 
 **CORRECTIONS AND UPDATES.** If you have any questions or suggestions regarding our Privacy Policy, please contact the editor of the website in question or send an email to contact@theawesomer.com
 
-******EFFECTIVE DATE: 8/26/2013**
+**EFFECTIVE DATE: 5/30/2015**
 
 * * *
