@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bollyguide.com privacy policy that was archived on 2014-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141201114927id_/http%3A//www.bollyguide.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bollyguide.com privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615081625id_/http%3A//www.bollyguide.com/privacy-policy) for the most accurate reproduction.*
 
 # BollyGuide : Privacy Policy
 
