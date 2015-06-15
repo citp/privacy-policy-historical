@@ -1,10 +1,11 @@
-> *The following text is extracted and transformed from the webgility.com privacy policy that was archived on 2014-07-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140715010611id_/http%3A//www.webgility.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webgility.com privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615024333id_/http%3A//www.webgility.com/privacy-policy) for the most accurate reproduction.*
 
-# Webgility Privacy Policy- Webgility
+# Privacy Policy - Webgility
 
 At Webgility, we place the highest importance on respecting and protecting the privacy of our customers. Our most important asset is our relationship with you. We want you to feel comfortable and confident when using our Web sites. Therefore, we would like to share with you the following principles that govern our information practices and other privacy aspects of our Web sites. This privacy statement defines privacy aspects specific to [www.webgility.com](http://www.webgility.com/). Throughout this policy, we refer to information that personally identifies you as "personal information".
 
-**We protect your information**  
+## **We protect your information**
+
 We work to protect your personal information from loss, misuse or unauthorized alteration by using industry-recognized security safeguards. 
 
 **We tell you how we use your information**  
@@ -22,12 +23,14 @@ Additionally, we have business partners that provide services, some of which are
 **We tell you how we use Web technology**  
 Like many Web sites, we use technology, such as cookies, that allow us to make your visit to our Web site easier by recognizing you when you return and help to provide you with a customized experience. 
 
-**We give you choice and control**  
+## **We give you choice and control**
+
 We may use your contact information to tell you about other products we think might interest you. However, if you don't want us to contact you for promotional purposes, you can tell us when you provide the information. Your contact preferences only apply to marketing contact. We may need to communicate with you regarding the usability of your product or critical messages relating to your service or software (such as service messages, subscription renewal notices, critical notices, or legally mandated notices).
 
 You can update or correct your contact information relating to your Webgility account by using our Contact Web pages.
 
-**You can contact us**  
+## **You can contact us**
+
 If you have privacy-related questions that are not addressed here, please contact us by visiting [www.webgility.com](http://www.webgility.com/). If we make material changes to any of our privacy policies or practices regarding personal information we will update our statement and post a notice on our site 30 days before they take effect.
 
 Last Updated: May 1, 2011
