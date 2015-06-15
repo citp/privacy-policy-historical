@@ -1,51 +1,65 @@
-> *The following text is extracted and transformed from the artsbounty.com privacy policy that was archived on 2005-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050204085039id_/http%3A//www.artsbounty.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the artsbounty.com privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615102637id_/http%3A//www.artsbounty.com/privacy-policy) for the most accurate reproduction.*
 
-# Art's Bounty, Inc. Privacy
+# Privacy Policy | ArtsBounty
 
-At Art's Bounty your trust and satisfaction is our first priority. We know your privacy is very important and that is why we take special care to safeguard the confidentiality and security of your information. 
+This Privacy Policy is in application to ArtsBounty. This would impart how ArtsBounty collects uses and shares the information from or regarding you as you visit a site, gives information on how advertisements are done, both on ArtsBounty and other websites, and how information is collected based on interactions with the online ads. In addition to the Notice, depending on the relationship with ArtsBounty, you may receive and be under the coverage of ArtsBounty, other privacy disclosures within account opening documents and other privacy and security rules as applicable to the relevant affiliate.
 
-_How Do We Protect the Information You Provide?_
+**Information Gathering**
 
-Art's Bounty uses industry standard Secure Sockets Layer (SSL) encryption to safeguard all sensitive data transmitted to us. This means that your personal information - including credit card number, name, expiration date, and billing information - is encrypted so that it cannot be read by anyone else.
+When you visit ArtsBounty, categories of information may be gathered, including personal information that are provided via forms, applications, surveys, or other online fields. We can also collect information about you from online browsing and transactions, including preferences pages visited and technical information regarding your settings. Personal information means identifiable information and does not include aggregated date that the site could create or compile from various sources, including transactions and accounts. This information which does not single out individual customers is used by our site business purposes, including offering services or products, research, marketing or analyzing market trends and other purposes in congruence to existing laws.
 
-We also offer an extra layer of security in case you use a shared computer at work or at an Internet cafe. Our system will requires you to type in your password every time, thus making sure it is really you who has signed in, and not someone else using the same computer. 
+**Cookies**
 
-Art's Bounty is a VeriSign Secure Site. The VeriSign seal (click on the logo at the bottom of any page) allows you to confirm that we are who we say we are and that all the information you provide will be protected every time you use our service.
+These are pieces of information stored on the computer upon use. ArtsBounty or the third party service providers, as well as advertising service providers, may place cookies or flash objects on the hard drive for security purposes for the facilitation of site navigation and personalization of the experience.
 
-_What Information Do We Collect?_
+In visiting ArtsBounty, we use cookies to go over your experience of the site. In applying for a product on one of our sites, we would use cookies to remember you and to provide information on products and services best fitting your needs. If you have an account with us and you access your accounts online, we will maintain the information about your visits to personalize your browsing experience, and the services and products offered. If you do not have an account with us and wish not for us to maintain the information, delete the cookies. For this, you would need to follow the browsers instructions for deleting and disabling cookies.
 
-When you visit our Web page, our server automatically collects non-personally identifiable information - your internet service provider address and information on the pages you access on our site. In addition, we store information you provide when you make a purchase, enter your e-mail address, or send an e-card. We also collect information when you volunteer to complete a survey.
+**IP Addresses**
 
-  
+The IP address is a number assigned to the Internet accessing network or computer. Visitors IP addresses are stored in our log as they visit the site. These IP address are collected for administration of the system, reporting aggregate information, and auditing Site visits. In addition, some features of our site display IP address together with name and message, like on forums.
 
+**Advertising**
 
-_How Do We Collect the Information?_
+The site advertises on pages within the site as well as other websites not affiliated with ArtsBounty. Information collected in our advertising service providers though cookies and other technologies would include the number of people who look at each page on the site, browsing patterns within the site, search engine referrals, browsing patterns in ArtsBounty and responses to promotions and advertisements on the sites where we advertise.
 
-Like many Internet sites, we use "cookies" to recognize returning customers. Cookies are small pieces of information that are stored by your browser on your computer's hard drive. We use the cookies to recognize your preferences and to keep track of items you've added to your shopping cart. 
+**Online Surveys**
 
-_What Do We Do with the Information We Collect?_
+Time to time, you can be asked to do online surveys. You do not have the requirement to do such; but these are used to gather information to better address your needs. Based on this, we can keep you updated on account and service.
 
-By evaluating at how customers use our site, we can offer better content, easier navigation, and better checkout services. 
+**Planning Tools**
 
-If you join our mailing list, we will offer you updates about new products and services, discounts, and special promotions. You can join or leave our mailing list at any time. Customers who supply us with a telephone number will only receive calls from us pertaining to orders they have placed. 
+ArtsBounty gives users visiting websites with many planning tools, including mortgage, savings and plans for retirement. The information placed into these tools could be used for future access and use. We will inform you when the information is to be planned to stored, and you can have the option for this information not to be saved.
 
-We use customer information in processing transactions both within our company and with third party vendors. Our third party vendors are, by contract, restricted from using your information in any way, except to help us provide the products and services we offer you on our site.
+**Using and Sharing Information**
 
-We may provide customer information (but not credit card information) to the affiliate company or organization that co-brands this site or promotes this site to its customers or members. 
+There would be times that ArtsBounty could make information available to third parties that could be companies not related through common ownership or control, including service providers, insurance agencies, credit bureaus, retailers, membership organizations, government agencies, legal investigators, courts and other non-affiliated third parties as requested by you or your authorized representative, or otherwise when required or allowed by law. Unless differently describe in the Notice, for US account holders, we will use and share any information collected from or about you covered by the Notice in keeping with the Privacy Notice, providing consumers additional direct marketing choices.
 
-_How Can You Access the Information Collected by Us?_
+**Social Media Connection**
 
-You can access your financial information (e.g., credit card information--last four digits, and account information), transaction history (e.g., purchase dates and amounts), and contact information (e.g., name, addresses, and phone numbers). You obtain this information by clicking "My Account" (which is at the top of all pages except for the checkout pages), and logging on with your name and password.
+ArtsBounty provides experiences on social media platforms, enabling online sharing and collaboration with users. Any content posted, including pictures, information, opinions and other personal information made available to these platforms is subject to the Terms of Use and Privacy Policies of the Platforms. Kindly refer to these to understand you rights in keeping with the content.
 
-In addition, customers can obtain access to financial, transaction, and contact information, as well as correct inaccuracies in such information by calling or writing us at the numbers and addresses noted below. 
+**Accuracy of Information**
 
-_Changes in Our Privacy Policy_
+Keeping account information accurate and updated is essential. If the account information is inaccurate or incomplete, kindly use the Contact Us link on our site, call to inform us at the correct address or telephone numbers for changes in the account statements, records, online or other account materials.
 
-We suggest that you review our privacy policy periodically, as we may update it from time to time. If our information practices change, we will post the policy change to our Web site. This policy was last updated on January 13, 2004. 
+**Linking to Other Sites**
 
-Site design, text and images © Copyright 2004 - Art's Bounty, Inc. All rights reserved.
+We could provide link to sites not related to our service, including merchants and credit bureaus. If you follow links to websites not controlled by ArtsBounty, you should go over the privacy policies and other terms, as they could diverge from other sites. ArtsBounty will not guarantee and will not be responsible for the security or privacy of the said websites, including the completeness or accuracy of said information.
 
-**__**                 ** __**                     
+**Children’s Privacy**
 
-  
+Most of our publications and web sites are intended for adults. Some web sites and publications, however, are intended for teens 13 and older but may include features or material that may be appealing to children under the age of 13. We are strongly committed to protecting the safety and privacy of children who visit our Web sites. We do not knowingly collect personal information online from children under 13. Many of our sites include bulletin boards and other features that we believe are unsuitable for children under 13 and which are not necessarily monitored. We encourage all parents to talk to their kids about online safety and to monitor their children’s use of the Internet.
 
+**Change in Company’s Ownership**
+
+If by chance another company obtains the assets in the business of ArtsBounty, we reserve inclusion of the stored personal identification information along with the assets transferred to the new corporate owners.
+
+**Service Customization**
+
+Target advertising to users is provided by the information collected about users. This is to allow all the pertinent advertising to be displayed. Customization of certain website features we provide is done with the information that is collected.
+
+**Third-Parties**
+
+Third-parties are contracted for specific services such as credit card processing and list generation. Any information that is required to perform these services is provided to the service provider.
+
+We use third-party advertising companies to serve ads and collect data when you visit our website. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site, other sites, and other forms of media about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: [http://www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/choices/)
