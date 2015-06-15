@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the membermouse.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230080535id_/http%3A//membermouse.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the membermouse.com privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615025623id_/https%3A//membermouse.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | MemberMouse
 
