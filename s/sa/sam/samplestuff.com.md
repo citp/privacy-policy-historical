@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the samplestuff.com privacy policy that was archived on 2014-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141125192524id_/http%3A//www.samplestuff.com/2009/01/11/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the samplestuff.com privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615054148id_/http%3A//www.samplestuff.com/2009/01/11/privacy-policy) for the most accurate reproduction.*
 
 # Privacy And Disclosure Policy | Sample Stuff.com
 
