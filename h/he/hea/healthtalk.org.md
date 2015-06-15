@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healthtalk.org privacy policy that was archived on 2014-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141129160006id_/http%3A//www.healthtalk.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthtalk.org privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615100724id_/http%3A//www.healthtalk.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | healthtalk.org
 
