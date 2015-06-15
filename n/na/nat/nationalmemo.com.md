@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nationalmemo.com privacy policy that was archived on 2014-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141206052040id_/http%3A//www.nationalmemo.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationalmemo.com privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615043138id_/http%3A//www.nationalmemo.com/privacy-statement) for the most accurate reproduction.*
 
-# Privacy Statement | The National Memo
+# Privacy Statement - The National Memo
 
 Eastern Harbor Media LLC is the owner of NationalMemo.com and affiliated websites (EHM). We take the private nature of your personal information very seriously. This Privacy Statement describes how we treat the information we collect when you register for and view emails from us or visit our Web Site. Please read this notice carefully. By using EHM’s websites, you agree to our privacy practices outlined here.
 
