@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the i-to-i.com privacy policy that was archived on 2014-07-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140708033838id_/http%3A//www.i-to-i.com/about-i2i/policy/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the i-to-i.com privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615092933id_/http%3A//www.i-to-i.com/about-i2i/policy/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | i to i
 
