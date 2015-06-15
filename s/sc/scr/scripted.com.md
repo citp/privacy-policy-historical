@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scripted.com privacy policy that was archived on 2014-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140926214935id_/http%3A//scripted.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scripted.com privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615052315id_/https%3A//scripted.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Scripted
 
@@ -50,7 +50,7 @@ If at any time You decide to remove Your personally identifiable information fro
 
 Scripted, Inc.
 
-797 Bryant Street
+135 Stillman Street
 
 San Francisco, CA 94107
 
