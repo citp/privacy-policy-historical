@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nurserylive.com privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123000137id_/http%3A//www.nurserylive.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nurserylive.com privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615231535id_/http%3A//nurserylive.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - buy nursery plants online in pune,pimpri chinchwad,mumbai,delhi,banglore,noida,chennai,indore,hyderabad,nasik,baroda,ahemadabad,chandigarh, india
 
@@ -74,5 +74,3 @@ Company Name: Nurserylive
 501/D2, Varshman township, Sasanenagar, Hadapsar, Pune - 411028
 
 Telephone No:823-778-8553
-
-E-Mail ID : [contact@nurserylive.com](mailto:contact@nurserylive.com)
