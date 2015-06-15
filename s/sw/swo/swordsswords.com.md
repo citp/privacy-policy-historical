@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the swordsswords.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220070505id_/http%3A//www.swordsswords.com/Privacy-Policy-2.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swordsswords.com privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615092938id_/http%3A//www.swordsswords.com/Privacy-Policy-2.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
