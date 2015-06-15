@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 4wheelsnews.com privacy policy that was archived on 2014-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141224052745id_/http%3A//www.4wheelsnews.com/info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 4wheelsnews.com privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615101145id_/http%3A//www.4wheelsnews.com/info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - 4Wheelsnews.com
 
