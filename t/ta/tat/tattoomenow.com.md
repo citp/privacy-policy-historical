@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tattoomenow.com privacy policy that was archived on 2014-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141204063656id_/http%3A//www.tattoomenow.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tattoomenow.com privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615043227id_/http%3A//www.tattoomenow.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy — TattooMeNow – The #1 Source of Tattoo Inspiration & Ideas
+# Privacy Policy — Tattoo Designs, Ideas & Tattoo Font Generator - TattooMeNow.com
 
 ## TattooMeNow.com Privacy Policy
 
