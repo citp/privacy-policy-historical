@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the boatsandoutboards.co.uk privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122161049id_/http%3A//www.boatsandoutboards.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boatsandoutboards.co.uk privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615052445id_/http%3A//www.boatsandoutboards.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Boats and Outboards
 
