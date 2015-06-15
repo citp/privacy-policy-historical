@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lids.ca privacy policy that was archived on 2014-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141111200814id_/http%3A//www.lids.ca/HelpDesk/Security/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lids.ca privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615104205id_/http%3A//www.lids.ca/HelpDesk/Security/PrivacyPolicy) for the most accurate reproduction.*
 
 # Lids.ca - Help Desk - Safety, Security & Privacy
 
