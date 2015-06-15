@@ -1,36 +1,47 @@
-> *The following text is extracted and transformed from the datingsitesreviews.com privacy policy that was archived on 2014-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141206052211id_/http%3A//www.datingsitesreviews.com/staticpages/index.php%3Fpage%3Dprivacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the datingsitesreviews.com privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615071117id_/http%3A//www.datingsitesreviews.com/staticpages/index.php%3Fpage%3Dprivacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Dating Sites Reviews
+
+Welcome to Dating Sites Reviews Monday, June 15 2015 @ 03:11 AM
 
 ## Privacy Policy
 
 DatingSitesReviews.com has created this privacy statement in order to demonstrate our commitment to privacy. The following discloses the information-gathering and dissemination practices for this web site.
 
-**Information is Automatically Logged**  
-This site uses a visitor statistics package that logs the following information on each page access: userid, user_agent, IP, host, browser type, computing platform, date and time, page viewed, referer, request type, and query_string. We use this information to help diagnose problems with our server and to administer our web site, and to help identify you. This information is also gathered because we like to see who is visiting. **This information is not and will never be divulged to a third party.**
+### Information is Automatically Logged
 
-**Cookies**  
+This site uses a visitor statistics package that logs the following information on each page access: userid, user_agent, IP, host, browser type, computing platform, date and time, page viewed, referer, request type, and query_string. We use this information to help diagnose problems with our server and to administer our web site, and to help identify you. This information is also gathered because we like to see who is visiting. **This information is not and will never be divulged to a third party unless required by law.**
+
+### Cookies
+
 This site uses cookies to deliver content specific to your interests, to save your password so you don't have to re-enter it each time you visit our site, and for other purposes.
 
-**Registration Forms**  
-Our site's registration form requires users to give us contact information (i.e. email address). Contact information from the registration forms is used to validate the user's account. This enables the site administrators to provide moderation for the various public features of this site, and to get in touch with the user when necessary. **This information is not and will never be divulged to a third party.** We use this data to tailor our visitor's experience at our site showing them content that we think they might be interested in, and displaying the content according to their preferences.
+### Registration Forms
 
-**External Links**  
+Our site's registration form requires users to give us contact information (i.e. email address). Contact information from the registration forms is used to validate the user's account. This enables the site administrators to provide moderation for the various public features of this site, and to get in touch with the user when necessary. **This information is not and will never be divulged to a third party unless required by law.** We use this data to tailor our visitor's experience at our site showing them content that we think they might be interested in, and displaying the content according to their preferences.
+
+### External Links
+
 This site contains links to other sites. DatingSitesReviews.com is not responsible for the privacy practices or the content of such web sites.
 
-**Public Forums & Comments**  
-This site makes message boards available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information. While we do our best to ensure only appropriate information is posted, we cannot and do not assume responsibility for our user's postings. **All postings are property of their respective author.** Improper language is automatically censored by the system. All submissions are subject to our editorial control \-- editorial changes will be indicated.
+### Public Forums, Reviews & Comments
 
-**Security**  
+This site makes reviews, comments, and message boards available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information. While we do our best to ensure only appropriate information is posted, we cannot and do not assume responsibility for our user's postings. **All postings are property of their respective author.** Improper language is automatically censored by the system. All submissions are subject to our editorial control \-- editorial changes will be indicated.
+
+### Security
+
 This site has security measures in place to protect the loss, misuse, and alteration of the information under our control.
 
-**Data Quality/Access**  
-This site gives users control over their user experience and content that they may have provided. Users can freely modify or delete any content they post. Users have the ability to customize various aspects of the look and feel of the site.
+### Data Quality/Access
 
-**Limitation of Liability**  
+This site gives users control over their user experience and content that they may have provided. Users can in some cases freely modify or delete any content they post for a limited time. Users have the ability to customize various aspects of the look and feel of the site.
+
+### Limitation of Liability
+
 DatingSitesReviews.com is not liable for any damages caused by any of the site content, whether directly provided by DatingSitesReviews.com its employees or not.
 
-**Contacting the Web Site**  
+### Contacting the Web Site
+
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this web site, you can contact the [Admin](https://web.archive.org/profiles.php?uid=2).
 
-Last Updated: Sunday, July 21 2013 @ 09:03 PM|Hits: 17,127 [](http://www.datingsitesreviews.com/staticpages/index.php?page=Privacy-Policy&disp_mode=print)
+Last Updated: Monday, April 20 2015 @ 12:29 PM|Hits: 19,009 [](http://www.datingsitesreviews.com/staticpages/index.php?page=Privacy-Policy&disp_mode=print)
