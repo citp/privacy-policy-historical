@@ -1,162 +1,141 @@
-> *The following text is extracted and transformed from the timberland.com privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208145653id_/http%3A//www.timberland.com/en/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the timberland.com privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615044944id_/http%3A//www.timberland.com/customer-service/privacy-security/privacy.html) for the most accurate reproduction.*
 
-# Timberland | Policies | Privacy
+# Customer Service | Privacy Policy | Timberland.com
 
-## 1\. Timberland Global Web Site Privacy Policy
+**Last updated:   May 29, 2015**
 
-Timberland LLC and its affiliates* (collectively, "Timberland," "The Timberland Group," "we," "us" and "our") provide you with access to our family of web sites, including, without limitation:
+Timberland recognizes that you care how information about you is used and shared and respects your privacy. This Privacy Policy describes what information we may collect from you, how we collect that information, how we use that information, and the choices you have regarding your information. By using our website, mobile applications, or providing information to us in other ways, you agree to be bound by this Privacy Policy.
 
-  * www.timberland.com; www.timberland.fr; www.timberlandonline.co.uk; www.timberland.de; www.timberland.es; www.timberland.it; and any additional marketing sites that we may create from time to time (the "Marketing Sites"): and
-  * shop.timberland.com; shop.timberland.fr; shop.timberlandonline.co.uk; shop.timberland.de; shop.timberland.es; shop.timberland.it; and any additional shopping sites that we may create from time to time (the "Shopping Sites") to purchase Timberland product and also as a resource for Timberland information and entertainment (the Marketing Sites and Shopping Sites are collectively referred to as the "Web Sites").
+This Privacy Policy was last updated May 29, 2015, and may be updated from time to time. Please check back periodically for further updates and changes. The most updated version will be the one that is available on this website.
 
+#### WHAT INFORMATION ABOUT ME IS COLLECTED AND STORED?
 
+**Information You Provide**
 
-For the sake of clarity and avoidance of doubt, only sites owned and operated by us are subject to this Global Web Site Privacy Policy (the "Privacy Policy"). Your access to and use of the Web Sites is governed by Timberland's [Global Web Site Terms of Use](http://corp.timberland.com/policies/terms/terms_en_US.html) and the Terms of Trade found on each Shopping Site.
+We collect and store information that you provide to us through our websites, in our stores, through our customer service representatives, at events, through mobile applications, through marketing efforts, including contests, sweepstakes and events, and through third parties, or any other way we interact with you. We are one of the VF Corporation family of brands and may also receive information about you from other brands held by VF Corporation.
 
-This Privacy Policy describes and governs how we collect information about your use of the Web Sites and how we use and share such information.
+You may choose not to provide certain information, but then you might not be able to take advantage of certain capabilities of this website, our mobile applications or other services we may offer.  For example, you must provide certain personal information in order to place an order or to register for an account on or through this website.
 
-Importantly, we may revise this Privacy Policy and post any changes to our Web Sites so that you are always informed about what information we collect, how we use it and under what circumstances we may disclose it. By continuing to use any of the Web Sites after having an opportunity to review this Privacy Policy, you have accepted these terms and consented to our collection, use and sharing of the information as described in this Privacy Policy. If you do not agree with this Privacy Policy, please do not use any of the Web Sites.
+We may request, collect and store some or all of the following types of personal information: name, billing address, shipping address, e-mail address, telephone number, financial and payment information, such as credit card number and expiration date, gender, personal interests, birthday, information about a third party you provide when we ship an order. We may also maintain a record of your product interest and purchases. 
 
-## 2\. What information do we collect?
+If you access our website or mobile applications with your log-in credentials from a social networking site (e.g. Facebook, Pinterest, or Twitter) or if you otherwise agree to associate your account with us with a social networking site, we may receive personal information about you from such social networking site, in accordance with the terms of use and privacy policy of the social networking site. We may add this to the information we have already collected from you via other interactions.
 
-Most of the information we collect from you at the Web Sites does not personally identify you to us, though it may be unique or consist of or contain information that you consider personal. For example, we automatically collect the following information: clickstream information such as the address of the web site that you came from before visiting any of the Web Sites, which pages you visit on the Web Sites, what country you are browsing from and what default language your internet browser is set to, which browser you used to view the Web Sites and any search terms you have entered on the Web Sites. This information is anonymous, meaning we cannot identify you personally unless you identify yourself, for example, by making a purchase, by creating an account, or by giving us your e-mail address.
+When you download or use our mobile applications, we may receive information about your location and your mobile device. We may use this information to provide you with location-based services like local store information, search results, and other personalized content. Most mobile devices allow users to disable location services by using controls located in the device's settings menu. If you have questions about how to disable your device's location services, please contact your mobile service carrier or your device manufacturer.
 
-You can also create an account with us on the Shopping Sites by providing similar personal information in addition to a registration name and password. Or you may provide preferences such as products you may be interested in. In either case, we'll use the information to make your shopping more efficient and to better serve your interests.
+**Automatically Collected Information**
 
-From time to time, we may conduct surveys, run contests, offer mailings or other promotions. You will be provided with an opportunity to indicate whether you wish to participate in these activities in accordance with relevant notice and consent requirements under applicable local laws. If you choose to participate in one of our surveys, contests mailings or other promotions, we'll probably ask for some personal information such as your shopping habits, e-mail address, telephone number and other information so we can run the promotion and notify winners.
+We collect and store certain other non-personally identifiable information automatically whenever you interact with us. For example, we may collect your Internet Protocol (IP) address and browser information and reference site domain name when you visit this website and analyze this data for preferences, trends, and site usage statistics.
 
-When you send us a request, such as to our customer service department, or inquire about career opportunities or participate in an Investor Relations presentation, we may ask you to identify yourself by name and/or e-mail address in order to send you a response, if appropriate.
+We may also collect information by using cookies, web beacons, and related technologies in order to analyze and understand how the website is used and to enhance your visits to the website. For example, we may use cookies and related technologies to: (i) customize account pages for you, (ii) track user visits and account features, (iii) determine what features and pages are most frequently requested or visited, and (iv) save your password so you do not have to provide it each time you visit the website.
 
-### How do we use Cookies and Pixel Tags?
+"Cookies" are small text files that a website sends to a user's hard drive through the browser for data storage. Most browsers accept cookies automatically but allow you to disable them. By disabling or otherwise rejecting cookies, you may not be able to take full advantage of all offerings on this website. We recommend that you leave cookies "turned on" so that we can offer you a better shopping experience on this website.
 
-Cookies are small pieces of information stored by your browser on your computer's hard drive. A cookie may contain information such as recognizing you when you return to the Web Sites, which pages you have seen and what advertisements, how frequently certain pages are visited, and remembering the items in your Shopping Bag. Most web browsers are set up to accept cookies; you can usually change your browser settings to refuse cookies but you may experience difficulties while shopping online at our Shopping Sites.
+We use third-party companies to provide Internet data hosting and to help us measure and determine how visitors use our website and the effectiveness of our website and promotions in order to help us improve and optimize our website and the products and services we offer. We also use third-party companies to serve advertisements (banners or links) on our behalf across the Internet. These companies use tracking technologies (including cookies and pixel tags) to collect non-identifiable information about your visits to our website and your interactions with our products and services in order to provide tailored advertisements based on your interests and browsing of our website (remarketing) on our behalf and on behalf of other advertisers across the Internet. We use third-party audience data (such as age, gender, and interests) to better understand and advertise to audiences that visit our website. We do not use or associate personally identifiable information with remarketing lists, cookies, data feeds, or other anonymous identifiers. 
 
-We also use pixel tags, tiny graphic images, to help us analyze your online shopping patterns, create content designed for your connection speeds, and deliver e-mail in a format you can read.
+Our websites currently do not have a mechanism to recognize “Do Not Track” signals, but several of the third-party companies who utilize these cookies or beacons enable you to opt out of this advertising. If you wish to opt out of receiving this third-party interest-based advertising, you may obtain more information [here](http://www.networkadvertising.org/choices/#completed). Please note that this does not opt you out of receiving marketing communications from us.
 
-Timberland and our trusted third-party providers use cookies and pixel tags to monitor and maintain information about your use of the Web Sites and understand your preferences based on previous or current site visits so that we can offer better site experiences and services in the future.
+In addition, some of our e-mail communications to you may include a "click-through URL" linked to a particular page on the website. By clicking on one of these URLs, you will automatically enter our website and we may collect information related to the "click-through." You may avoid having this information collected by not clicking on URL links in our e-mail communications.
 
-If you are located in a country in the European Union, you can consult the information at [www.allaboutcookies.org](http://www.allaboutcookies.org/) for more information on cookies and how to disable them.
+We also may use a variety of retail analytics tools in our stores for operational and marketing purposes, such as measuring and analyzing traffic patterns. These tools may collect data from sensors, including video cameras, smartphone detectors, Wi-Fi networks, or other devices, to improve your in-store experience.
 
-Please note that when you place an order for our products using one of Timberland's Shopping Sites or using our toll-free telephone number, we need to know information such as your name, e-mail address, billing address, phone number, and debit or credit card number so we can process and fulfill your order, and contact you if we have any questions. This information is known as "personal information" because it is capable of identifying you as a living individual. Personal information is afforded certain protections under data privacy and other laws and you can be assured that your personal information will be handled at all times by us in compliance with such laws.
+**Information from Other Sources**
 
-## 3\. How do we use the information we collect?
+We may collect information about you from third-party sources and information that is publicly available. For example, information you submit in a public forum (e.g., a blog, chat room, or social network site) can be read, collected, or used by us and others, and could be used to personalize your experience. You are responsible for the information you choose to submit in these instances. Another example, is that we may receive demographic information about you from a third party to make our service and marketing efforts more efficient and personalized for you. 
 
-When you place an order on one of the Shopping Sites, we use your personal information to process and fulfill your order. We may send you an e-mail to confirm or to update you on the status of your order. We may also need to contact you by regular mail, e-mail or phone if we have any questions about your order. We may also use your personal information to respond to any of your customer service inquiries.
+#### HOW IS INFORMATION USED?
 
-We also use your personal information to operate and improve the Web Sites and to deliver the products and services you have requested. We keep track of the pages you visit and the manner in which you use the Web Sites to determine what products and services are most popular and whether to make changes to any of the Web Sites. We may, from time to time, review your personal information and information of other customers to help us analyze trends, purchasing patterns and preferences, and demographics.
+We use the personal information we collect to conduct our business, communicate with you, and provide great products, services, and experiences. We or third-party service providers we engage may use the information to provide the products and services that you have ordered or requested, to process and ship orders, to send order and shipping confirmations, to provide customer service, to respond to your comments, questions or complaints, to personalize your experiences, to analyze your preferences and shopping habits, to analyze trends and statistics, to administer and fulfill our contests and other promotions, to analyze and improve the website and our products and services, and to send you marketing communications and other information regarding our products, services, marketing, or special events. We also use your information for business purposes such as security, payment processing, analytics, operations, fraud detection, reporting, making back-ups, and legal compliance.
 
-When you place an order, create an account, give us your e-mail address, complete a survey or participate in a contest, mailing or other promotion on any of the Web Sites, we use the information you provide to us to:
+You always have the choice not to receive marketing communications. For instructions on opting out of those communications, please see the section entitled “Can I Indicate Whether or Not I Want to Receive Promotional Communications?” below.
 
-  * send e-mail, regular mail or text message, as applicable, to you about our products, services or other contests and promotions you might be interested in;
-  * personalize your shopping experience by using your product interests, shopping patterns and purchase information to recommend other products, services or promotions that we believe might interest you including those of other companies.; or
-  * notify you of changes to the Web Sites.
+We display personal testimonials/reviews of satisfied customers on our site in addition to other endorsements. With your consent we may post your testimonial along with your name. If you wish to update or delete your testimonial, you can contact us at:
 
+Timberland
 
+Attn: eCommerce Operations
 
-You will be provided with an opportunity to indicate whether you are happy for us to use your personal information for these purposes in accordance with notice and consent requirements under applicable local laws.
+200 Domain Drive
 
-We maintain the personal information that you provide us, along with a record of your purchases, in a secure database. To best serve you, we may combine this information with data that is publicly available and data that we collect in our own stores, at our marketing events, or receive from other business partners and/or reputable sources.
+Stratham, NH 03885
 
-## 4\. Do we share your information with third parties?
+888-802-9947
 
-We may share your personal information with our trusted third-party service providers to help us manage and operate the Web Sites, such as processing your order, performing statistical analysis, sending you e-mail, postal mail or text messages, providing customer support and performing other important services. Although these partners may not be affiliated with us, they are required to maintain the confidentiality of your information and are not authorized to discuss, disclose or make any use of your personal information except as necessary to provide such services.
-
-From time to time, we may also use third parties to help us collect and aggregate certain information collected through the Web Sites. We may share this aggregated information with existing and prospective business partners and advertisers. None of the aggregated information will contain any personal information.
-
-We may also share your personal information with carefully screened Timberland business partners to offer you products and services that we believe might interest you. In each case, our partners will not be authorized to discuss, disclose, or make any use of your personal information except for extending the offer to you. If you prefer not be included in these types of prospective offers, please contact us as set forth below (please be sure to include your first and last name, street address, and e-mail address in your request):
-
-For the following Web Sites, send an e-mail to [onlineservice@timberland.com](mailto:onlineservice@timberland.com):
-
-timberland.com  
-shop.timberland.com
-
-For all other Websites, send an e-mail to [customerservice@timberlandonline.co.uk](mailto:customerservice@timberlandonline.co.uk).
-
-If you select an alternative payment process (such as PayPal or Bill Me Later), you provide the personal and financial information needed to process your application or purchase directly to each provider. The companies that administer these programs are independent of Timberland and have their own privacy policies. We encourage you to learn more about their policies on their web sites.
-
-We or our third-party service providers may disclose personal information if we or they reasonably believe that it's necessary to: (i) investigate any suspected breach of the Terms of Use or Terms of Trade made by or otherwise relating to you; (ii) comply with applicable federal, state or local laws, rules, regulations or orders; (iii) to protect or defend the rights, property and interests of Timberland, Timberland business partners, affiliates or its guests, or the interests of our third-party service providers; and (iv) under exigent circumstances, to protect the personal safety of users of the Web Sites or the public.
-
-Your personal information will be held by us for so long as is necessary for the purposes for which it was collected, for the settlement of any potential disputes which may be raised or otherwise in accordance with legal requirements.
-
-## 5\. What information do we collect when you submit a product review?
-
-When you submit a product review on our Shopping Sites, we collect information such as: a nickname, and your review, with an option for you to provide your email address. Your nickname and your review will be available to the general public on those sites. The product review service available on the Shopping Sites is administered by a third party and their use of the information you submit is governed by their privacy policy and terms and conditions which they will make available to you when you register with them. We are not responsible for their independent use of your information and you should check that you are happy with the details they present to you before you decide to accept them. Any questions about the policies of this third party vendor should be directed towards them.
-
-## 6\. How can you Unsubscribe or change your information?
-
-We want to communicate with you only if you want to hear from us. You have the right to request confirmation of what information we hold about you and to correct, update or change such information. If you prefer not to receive information from us or would like to correct, update or change your personal information or preferences, please follow the instructions below. Please note that objecting to our holding and using your information may prevent us from providing you with some of our products or services.
-
-### Registration Information, Preferences, and E-mail
-
-To modify or delete the personal information you have provided during registration, please go to the Shopping Site on which you created your account, login and update your profile.
-
-To unsubscribe from an e-mail, please follow the instructions in any e-mail you receive. In certain countries, you will have been required to consent to receive e-mails.
-
-If your request is about any of the Web Sites listed below, you can also send us a request by e-mail to [onlineservice@timberland.com](mailto:onlineservice@timberland.com), for requests relating to any other Web Sites, send an e-mail to [customerservice@timberlandonline.co.uk](mailto:customerservice@timberlandonline.co.uk). Please be sure to include your first and last name, user name and account e-mail address in your request.
-
-timberland.com  
-shop.timberland.com
-
-### Direct Mail and Catalogs
-
-If you would like your name and address removed from Timberland's direct mailing list or if you would like to update your mailing information, you can call us at 888-802-9947 or e-mail us a request at [onlineservice@timberland.com](mailto:onlineservice@timberland.com). Please be sure to include your first and last name and mailing address in your request.
-
-Your request to be removed from our e-mail lists might take up to three (3) business days to become effective (regular mailing lists may take up to 1 week). Please note that you may receive e-mails or regular mail that is already in process even though we have removed you. Even if you're removed from a list, if you order online, we will send you an e-mail to confirm your order and may need to contact you by phone, e-mail or regular mail if we have questions about your order.
-
-## 7\. How do we protect the privacy of children?
-
-We do not sell or ship any items ordered through the Shopping Sites directly to anyone who we know to be under the age of 13, nor do we collect any personal information from anyone who we know to be under the age of 13 on any of the Web Sites. Unfortunately, we cannot always determine if a visitor to any of the Web Sites is a minor child. If you are under the age of 13, you should use the Web Sites only with the involvement of a parent or guardian and should not submit any personal information to us.
-
-## 8\. Links to Other Sites.
-
-We encourage you to review the privacy policies of web sites you choose to link to from our Web Sites so that you understand how those web sites collect, use and share your personal information. We are not responsible for the privacy policies or other content on web sites outside of the Web Sites.
-
-## 9\. Location and transfers of your information.
-
-Your information may be held or accessed by Timberland entities in Europe, the United States and the Dominican Republic in the course of providing the Web Sites and services to you. As previously stated, we may use third-party service providers when performing services for you. These third-party service providers may be located in countries in Europe or the United States. In terms of any such transfers, we ensure that your information is transferred with relevant and appropriate contractual and other safeguards in place to ensure that it is kept secure and handled in accordance with relevant privacy laws. By continuing to use the Web Sites and the various facilities described in this Privacy Policy, you consent to the transfer of your personal information on these terms. Please also note that, if you choose to post a product review on any of the Shopping Sites, then your review and any personal information you choose to include in it may potentially be available to site users worldwide.
-
-## 10\. How do we make sure information is secure?
-
-We use the latest encryption technology (Secure Sockets Layer or SSL) to secure your personal information. The personal information you provide when you place an order is encrypted (or coded) using a secure server for maximum security. This coding makes it extremely difficult for anyone to reach your personal information as it moves through our ordering system.
-
-To check the security of your computer, look at the lower right-hand corner of your browser window if you are using Internet Explorer. If you see an unbroken key or a closed lock, then the encryption technology is active and the server is secure. You can also check by looking at the URL line of your browser; when you access a secure server, the initial characters of the site address will be "https". All of your information is encrypted before it's transmitted across the Internet, then decoded only after it arrives at our secure servers.
-
-## 11\. Are all the pages on the Web Sites secure?
-
-Most of the pages on our Web Sites provide information about The Timberland Company and our products. We make this information available freely and there is no reason for these pages to be "secure". The pages that we make secure are the ones on which you provide personal information, and on which you actually make a purchase, such as when managing your profile or account, checking your order status, or with the "Checkout" area. For example, the entire checkout process, from introduction to final confirmation, is completely secure.
-
-## 12\. Contact Information
-
-For questions or concerns, or a copy of your personal information held by us (reasonable photocopying fees may apply) relating to the following Web Sites (timberland.com; shop.timberland.com), please contact us at:
-
-Timberland LLC  
-Attn: Consumer Service/Privacy  
-200 Domain Drive  
-Stratham, NH 03885  
-888-802-9947   
 [onlineservice@timberland.com](mailto:onlineservice@timberland.com)
 
-For questions or concerns, or a copy of your information held by us relatiUnless you otherwise consent, your mobile number and any other information provided to us in connection with the Timberland Factory Mobile Alerts Program will only be used by us (or third party service providers engaged by us) (i) for the purpose of executing and administering the Timberland Factory Mobile Alerts Program, and/or (ii) for market research purposes, for example to analyze trends, patterns and preferences, demographics.ng to any other Web Site, please contact us at:
+#### WITH WHOM IS INFORMATION SHARED?
 
-Timberland Switzerland GmbH  
-Freier Platz 10  
-CH-8200 Schaffhausen  
-Switzerland  
-800-023-2478  
-[customerservice@timberlandonline.co.uk](mailto:customerservice@timberlandonline.co.uk)
+Except with your consent or as described in this Privacy Policy, we do not sell, rent, or share with third parties any of your personal information.
 
-## 13\. Note to residents of Italy:
+We may share your personal information with other brands within the VF Corporation family of brands (including, for example, The North Face ®, Vans®, Nautica ®, Kipling ®, Wrangler ®, Lee ®, 7 For All Mankind ®, Jansport ®, Reef ®, Splendid ®, and Ella Moss ®). 
 
-Please follow this link <http://www.garanteprivacy.it/garante/doc.jsp?ID=1311248> to view the list of rights granted to data subjects in Italy under Section 7 of the Italian Legislative Decree 196/2003 (the Italian Privacy Code).
+We may share personal information with certain third parties that perform services on our behalf. The services provided by those third parties may include: operating the website, hosting the website, providing the products and services you request, authorization and processing of your payments, product fulfillment, fraud protection and credit risk reduction, product customization, marketing and promotional material distribution, loyalty program management, promotions fulfillment, web site evaluation, data analysis and, where applicable, data cleansing. Those third parties are not authorized to use or disclose personal information you provide to us on or through this website for any purpose other than to perform the services designated by us.
 
-## 14\. Note to residents of Spain:
+We may share personal information with a third party if we are required by law to disclose that personal information. For example, we may be required to disclose personal information to respond to a subpoena, court order, or other legal process. We may also disclose this information in response to a law enforcement agency's request, or where we believe it is necessary to investigate or address unlawful acts or acts that may endanger the health or safety of a consumer or the general public, to verify or enforce compliance with the terms of use and policies that govern our website or as otherwise required or permitted by law. In addition, the personal information you provide to us may be transferred as an asset in connection with a merger or sale involving all or part of Timberland or as part of a corporate reorganization, stock sale or other change of control.
 
-Should you wish to exercise your rights of access, cancellation, rectification or opposition to your personal information, in accordance with the Spanish Data Protection Act, you may do so by directing such request to us using the following contact details: [customerservice@timberlandonline.co.uk](mailto:customerservice@timberlandonline.co.uk) or 800-023-2478. The entity controller of your personal information collected through the Web Sites and responsible for such information is The Timberland Company with registered offices at 200 Domain Drive, Stratham, New Hampshire, 03885 USA.
+#### WHAT ABOUT THE PRIVACY OF CHILDREN UNDER 13?
 
-## 15\. Timberland Factory Outlet Mobile Alerts Program Privacy Policy – US Only
+We do not intend to collect personal information from anyone who is under the age of 13. If you are under the age of 13 you should not provide any personal information to us and you should use this website only with the involvement of a parent or guardian. If you are a parent or guardian of a child under the age of 13 and suspect he/she has provided personal information on or through the website, please contact us as set forth below under "How Can I Contact You Regarding This Privacy Policy?"
 
-Unless you otherwise consent, your mobile number and any other information provided to us in connection with the Timberland Factory Mobile Alerts Program will only be used by us (or third party service providers engaged by us) (i) for the purpose of executing and administering the Timberland Factory Mobile Alerts Program, and/or (ii) for market research purposes, for example to analyze trends, patterns and preferences, demographics.
+####    
+WHAT STEPS ARE TAKEN TO KEEP PERSONAL INFORMATION SECURE?
 
-Last modified: Nov 2012
+The security of your information is important to us. We have instituted security procedures and measures to protect our servers and networks that store personal information. Unfortunately, no transmission of information over the Internet can be guaranteed to be 100% secure and, therefore, we cannot ensure or warrant the security of any information. In order to help protect personal information you provide to us, you: (i) should not share your password or account information with others, (ii) should use a secure web browser, and (iii) should change your password frequently. If you wish to cancel a password, or if you become aware of any loss, theft, or unauthorized use of a password, please contact us as set forth below under "How Can I Contact You Regarding This Privacy Policy?"
 
-* Affiliates include Timberland Canada Co., Timberland Switzerland GmbH; Timberland Espana SL; Timberland SAS; Timberland (UK) Ltd.; Timberland Trading Switzerland GmbH; Glaudio Fashion BV; Gloudio Belgium BVBA; Timberland Italy SRL; Timberland GmbH; Timberland World Trading GmbH; Timberland Europe BV; Timberland Retail LLC, Timberland LLC and other companies that may be added from time to time and that are controlled by or under common control with one of the foregoing that are engaged or involved in the operation of the Web Sites.
+####    
+HOW CAN I ACCESS, CORRECT, AND UPDATE PERSONAL INFORMATION?
+
+You may access, correct and update certain personal information that you have provided to us by clicking on the "My Account" area of this website and following the instructions set forth therein or by contacting us with your request as set forth below under "How Can I Contact You Regarding This Privacy Policy?"
+
+We reserve the right to retain any personal information reasonably necessary to appropriately document our business activities and for archival and record retention purposes. We will store personal information for as long as reasonably necessary for the purposes described in this Privacy Policy. You may find out more details regarding this Privacy Policy by contacting us as provided below under "How Can I Contact You Regarding This Privacy Policy?"
+
+#### 
+
+CAN I INDICATE WHETHER OR NOT I WANT TO RECEIVE PROMOTIONAL COMMUNICATIONS?
+
+There are several ways in which you can tell us whether or not you want to receive promotional communications from us. When you set-up an account or click on the "My Account" area of this website, you will have an opportunity to make or change your selections in this regard. You also will have an opportunity to change these selections by clicking on an "unsubscribe" hyperlink contained in promotional e-mails we send you. If you have not established an account but have instead signed-up for our e-mail list, you will be able to change your e-mail preferences by clicking on an "unsubscribe" hyperlink contained in promotional e-mails we send you. Please note that removal of personal information from our database or "opting-out" will not stop marketing or advertising content that is generated for distribution or is otherwise queued for transmission to you prior to the time when we can implement your request.
+
+  
+If you establish an account, you may receive certain types of communications even if you have not opted-in to receive them because these types of communications may be necessary in order to maintain an account on the website.
+
+#### WHAT HAPPENS WHEN I LINK TO OR FROM ANOTHER WEBSITE?
+
+This website may contain links to or from websites to which this Privacy Policy does not apply ("Linked Websites"). Please be advised that the practices described in this Privacy Policy do not reflect the practices regarding information collection, use and disclosure of Linked Websites or the owners or operators of those Linked Websites. Your use of Linked Websites will be governed by the terms of use, privacy policies, and other terms, notices, and policies set forth on or referenced in those Linked Websites. We encourage you to be aware of when you leave this website and to read the privacy policies of each and every website that you visit.
+
+####    
+HOW CAN I CONTACT YOU REGARDING THIS PRIVACY POLICY?
+
+If you have any questions or concerns regarding your privacy or the Privacy Policy you can send a request with your concerns or any further questions to us by using the contact information provided below:
+
+  
+Timberland
+
+Attn: eCommerce Operations
+
+200 Domain Drive
+
+Stratham, NH 03885
+
+888-802-9947
+
+[onlineservice@timberland.com](mailto:onlineservice@timberland.com)
+
+#### WHAT IF I AM A RESIDENT OF CALIFORNIA?
+
+California Civil Code Section 1798.83 permits customers who are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please write to us at the following address:
+
+Timberland
+
+Attn: eCommerce Operations
+
+200 Domain Drive
+
+Stratham, NH 03885
+
+888-802-9947
+
+[onlineservice@timberland.com](mailto:onlineservice@timberland.com)
+
+#### WHAT IF I AM AN INTERNATIONAL USER?
+
+  
+Our digital operations are conducted, in whole or in part, in the United States. Regardless of where you live, you consent to have your personal data transferred, processed, and stored in the United States, and allow Timberland to use and collect your personal information in accordance with this Privacy Policy.
