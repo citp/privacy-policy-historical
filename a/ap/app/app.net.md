@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the app.net privacy policy that was archived on 2014-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141115103121id_/https%3A//account.app.net/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the app.net privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615171702id_/https%3A//account.app.net/legal/privacy) for the most accurate reproduction.*
 
 # App.net - Privacy Policy
 
