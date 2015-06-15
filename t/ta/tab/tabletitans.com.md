@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tabletitans.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231160700id_/http%3A//www.tabletitans.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tabletitans.com privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615091329id_/http%3A//www.tabletitans.com/privacy-policy) for the most accurate reproduction.*
 
 # Toonhound Studios Privacy Policy - Table Titans
 
