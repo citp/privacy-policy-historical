@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the cgmasteracademy.com privacy policy that was archived on 2014-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141130140851id_/http%3A//2d.cgmasteracademy.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cgmasteracademy.com privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615111227id_/http%3A//2d.cgmasteracademy.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - CGMA 2D Academy
 
 This Privacy Policy discloses the privacy practices for the CGMA site and various related services (together referred to as the “site”). CGMA, the provider of the site (referred to as “us” or “we”), is committed to protecting your privacy online. Please read the information below to learn the following regarding your use of this site:
 
-  1. What information do we collect from you?
-  2. Where do we collect information from you and how do we use it?
-  3. With whom do we share your information?
-  4. How can you update, correct or delete your Personally Identifiable Information?
-  5. What are your choices regarding collection, use and distribution of your information?
-  6. What security precautions are in place to protect against the loss, misuse or alteration of your information?
-  7. Do we use “cookies”?
-  8. What should you know about privacy policies and data collection at any third party sites accessible from our site?
-  9. What else should you know about your privacy online?
+  1. \- What information do we collect from you?
+  2. \- Where do we collect information from you and how do we use it?
+  3. \- With whom do we share your information?
+  4. \- How can you update, correct or delete your Personally Identifiable Information?
+  5. \- What are your choices regarding collection, use and distribution of your information?
+  6. \- What security precautions are in place to protect against the loss, misuse or alteration of your information?
+  7. \- Do we use “cookies”?
+  8. \- What should you know about privacy policies and data collection at any third party sites accessible from our site?
+  9. \- What else should you know about your privacy online?
 
 
 
@@ -30,11 +30,13 @@ Personally Identifiable Information: This refers to information that lets us kno
 
 We do not collect any Personally Identifiable Information about you unless you voluntarily provide it to us. You provide certain Personally Identifiable Information to us when you:
 
-  1. Register for our services and register your e-mail address with us;
-  2. Enter sweepstakes or contests sponsored by us or one of our partners;
-  3. Sign up for special offers from selected third parties;
-  4. Send e-mail messages, submit forms or transmit other information by telephone or letter; or
-  5. Submit your credit card or other payment information when ordering and purchasing products and services on our site. We may also collect information from you at other points on our site that state that such information is being collected.
+    1. \- Register for our services and register your e-mail address with us;
+    2. \- Enter sweepstakes or contests sponsored by us or one of our partners;
+    3. \- Sign up for special offers from selected third parties;
+    4. \- Send e-mail messages, submit forms or transmit other information by telephone or letter; or
+
+
+    1. \- Submit your credit card or other payment information when ordering and purchasing products and services on our site. We may also collect information from you at other points on our site that state that such information is being collected.
 
 
 
@@ -58,9 +60,9 @@ We believe you should have the ability to access and edit the Personally Identif
 
 CG MASTER CLASSES  
 Attn: Privacy Compliance Officer  
-14416 Victory Blvd  
-SUITE 227  
-Van Nuys, CA, 91401 – 6261
+6454 Van Nuys Blvd  
+SUITE 200  
+Van Nuys, CA, 91401 
 
 Please include your name, address, and/or e-mail address when you contact us.
 
