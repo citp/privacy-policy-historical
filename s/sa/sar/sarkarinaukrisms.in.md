@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sarkarinaukrisms.in privacy policy that was archived on 2014-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141209000833id_/http%3A//sarkarinaukrisms.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sarkarinaukrisms.in privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615054610id_/http%3A//sarkarinaukrisms.in/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | सरकारी नौकरी, Sarkari Naukri 2014, Latest Government Jobs In India 2014
+# Privacy Policy | सरकारी नौकरी, Sarkari Naukri , Latest Government Jobs In India 2015
 
 Privacy Policy for sarkarinaukrisms.in
 
