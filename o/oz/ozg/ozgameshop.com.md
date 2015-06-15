@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ozgameshop.com privacy policy that was archived on 2014-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141125172640id_/http%3A//www.ozgameshop.com/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ozgameshop.com privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615100030id_/http%3A//www.ozgameshop.com/page/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -95,6 +95,10 @@ You may delete Cookies, however you may lose any information that enables you to
 
 You can choose to enable or disable Cookies in your web browser. By default, your browser will accept Cookies, however this can be altered. For further details please consult the help menu in your browser. Disabling Cookies may prevent you from using the full range of Services available on the Web Site.
 
-## 9\. Changes to this Policy
+## 9\. DoubleClick
+
+We use Google Analytics remarketing codes to log when users view specific pages or take specific actions on a website. This allows us to provide targeted advertising in the future. If you do not wish to receive this type of advertising from us in the future you can opt out using the [DoubleClick opt-out page](https://www.google.com/settings/ads/onweb#display_optout "Optout DoubleClick") or the [Network Advertising Initiative opt-out page](http://www.networkadvertising.org/managing/opt_out.asp "Consumer Opt-out").
+
+## 10\. Changes to this Policy
 
 www.ozgameshop.com reserves the right to change this Privacy Policy as we may deem necessary from time to time or as may be required by law. Any changes will be immediately posted on the Web Site and you are deemed to have accepted the terms of the Policy on your first use of the Web Site following the alterations.
