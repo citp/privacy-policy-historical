@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healthfinder.gov privacy policy that was archived on 2014-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141018202012id_/http%3A//www.healthfinder.gov/aboutus/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthfinder.gov privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615173425id_/http%3A//www.healthfinder.gov/aboutus/privacy.aspx) for the most accurate reproduction.*
 
 # 
 
@@ -43,4 +43,4 @@ For site security purposes and to ensure that this service remains available to 
 
 Information originally collected in traditional paper systems can be submitted electronically, i.e., electronic commerce transactions and information updates about eligibility benefits. Electronically submitted information is maintained and destroyed pursuant to the Federal Records Act, and in some cases may be subject to the Privacy Act. If information that you submit is to be used in a Privacy Act system of records, there will be a Privacy Act Notice provided. 
 
-You may also wish to review our [disclaimers](https://web.archive.org/web/20141018202012id_/http%3A//www.healthfinder.gov/aboutus/Disclaimer.aspx).
+You may also wish to review our [disclaimers](https://web.archive.org/web/20150615173425id_/http%3A//www.healthfinder.gov/aboutus/Disclaimer.aspx).
