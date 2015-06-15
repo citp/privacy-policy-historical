@@ -1,58 +1,61 @@
-> *The following text is extracted and transformed from the idownloadsoft.com privacy policy that was archived on 2014-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140704185419id_/http%3A//www.idownloadsoft.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the idownloadsoft.com privacy policy that was archived on 2015-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150616012151id_/http%3A//www.softmozer.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Software and Driver Updates - idownloadsoft.com
+# SoftMozer Privacy Policy
 
-idownloadsoft . (herein “The provider”) is committed to your privacy. Please read our policies below:
+**At SoftMozer your privacy is very important**
 
-The provider recognize the need to protect the privacy of the personal information of our users. Users should fully understand the terms and conditions surrounding the use of that information.
+The following is a description of what information is collected while you're using our web site.  **In a word:**  We use statistical analytics software and a third-party ad-serving system on some pages. We don't collect e-mail addresses for marketing purposes and we don't sell or otherwise provide any of your data to third parties.
 
-  
+**Updated June 17, 2014**
+
+**Our commitment**
+
+We created this privacy policy to ensure that any information obtained from our users is kept completely confidential. We do not provide personally identifiable information (such as IP addresses or e-mail addresses) to third parties for any reason. **Please use this privacy policy as a guarantee of our commitment to you**.
+
+**Your information is logged automatically**
+
+We use your IP address to help diagnose problems with our server and to administer our Web site, and to help identify you and your preferences. Your IP address is also used to gather broad demographic information and to diagnose technical issues. These logs are normally permanently deleted within 7 days.
+
+**Google Analytics**
+
+In addition to logging IP addresses in our server logs, this site utilizes third party analytics software powered by Google Analytics. The cookies employed by Google Analytics keep track of user sessions on the domain of  **SoftMozer**  \-- our statistics package only utilizes first-party cookies. This data is not shared with third parties. According to Google, the data is not accessible or alterable by third party domains.
+
+Opting out of Google Analytics is a matter of disabling either javascript or cookies in your browser preferences.
+
+**Our site uses cookies**
+
+Our Site uses cookies to keep track of your preferences, and to make sure you don't see the same ad repeatedly. We also use cookies to deliver content specific to your interests and to save your password so you don't have to re-enter it each time you visit our site.
+
+**Advertisers**
+
+We utilize a third party agency to display ads on our site. These ads may contain cookies. While we use cookies in other parts of our Web site, cookies set by ads are collected by our agency, and we do not have access to this information. Our third party advertisers may collect information about your browsing habits based on this web site and other web sites on the Internet. Users may opt out of the cookie program by visiting [privacy policy of our primary advertiser](http://www.google.com/privacy_ads.html).
+
+**Personal Information**
+
+If you decide to register on our site, it may require us to obtain your e-mail address to confirm your account and to prevent duplicate registrations. While we use this information to enhance the services we provide, we do not share any of this information with any third parties.
+
+**External Links**
+
+This site contains links to other sites.  **SoftMozer  **is not responsible for the privacy practices or the content of such Web sites.
+
+**Public Forums**
+
+This site makes chat rooms, forums, message boards, and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information.
+
+**Children and the Internet**
+
+We care about children and understand that they have special privacy needs. Therefore, we have adopted the following privacy policy regarding children:
+
+  1. We will NOT collect, use, or distribute to third parties personally identifiable information without prior verifiable parental consent.
+  2. We will NOT give the child access to unmonitored chat rooms, message boards, e-mail accounts, or other services that would give the child the ability to publicly post or otherwise distribute personally identifiable information without prior verifiable parental consent
+  3. When verifiable parental consent is not obtained, we will only use the online contact information (such as e-mail) to:
+    1. Respond directly to the child's request on a one-time basis and not use that information to re-contact the child for other purposes.
+    2. Request the name or online contact information of a parent for the purpose of obtaining verifiable parental consent or providing parental notification.
+    3. Respond more than once directly to a specific request from a child (such as in the case where a child requests a newsletter subscription) and not used to re-contact the child for other purposes. We will use our best efforts to provide parental notification, which will include the nature and intended use as well as an opportunity for the parent to prevent the use of the information and participation in the activity.
+  4. We will NOT entice the child to divulge more information than is needed to participate in any activity, game, or service.
+  5. We will provide the parent a description of the specific types of a personally identifiable information collected from their child upon request. We will allow the parent to refuse further use or future online collection of personally identifiable information and provide a way for a parent to obtain any personally identifiable information collected from their child.
+  6. We will provide notice to children in age appropriate terms of what personally identifiable information is to be collected.
+  7. We will NOT provide any links to Web sites that are unsuitable for children.
+  8. We will encourage children to get their parent's permission before sharing personal information online.
 
 
-## No Spyware Policy
-
-The provider never tracks or stores your personal identifiable information. We may send unidentifiable and non-personal data and use it to maintain the correct operation of the web site. The IP address is used to customize your experienced based on your locale, including to correctly assign language presentation. Any information gathered is done on an aggregated basis and in no way can be linked to private information such as private individual name, address, telephone or email, which is never collected or stored.
-
-  
-
-
-## No Adware Policy
-
-The provider does not launch pop-up or pop-under advertisement windows or any other type of obtrusive ads. Users may be presented with advertisements while using roaming the site. We might use an outside ad company to display ads on our site. These ads may contain cookies which may be collected by our ad company, and we do not have access to this information.
-
-If you choose to contact us we will ask you for your name and email address. We do not store this information but simply receive it as one time email. You may contact us at http://www.idownloadsoft .com/contact to request that we remove this email from our email inbox.
-
-  
-
-
-## Cookies
-
-Cookies are pieces of information that a web site transfers to your computer's hard disk for record-keeping purposes. Cookies in and of themselves do not personally identify users, although they do identify a user's computer. Most browsers are initially set up to accept cookies. If you would prefer, you can set your browser to refuse cookies. However, you may not be able to take full advantage of our web site if you do so. We use cookies to make it easy to our visitors to download graphics on our site. We also use cookies to collect demographic and profile data on an aggregate basis for purposes of delivering content specific to users interests.
-
-  
-
-
-## IP addresses
-
-IP addresses are used by your computer every time you are connected to the Internet. Your IP address is a number that is used by computers on the network to identify your computer. IP addresses are automatically collected by our web server as part of demographic and profile data known as "traffic data" so that data (such as the Web pages you request) can be sent to you. We also use your IP address to help diagnose problems with our server and to administer our Web site. The provider will not use your IP address to attempt to identify your personal information.
-
-  
-
-
-## Data Security
-
-We follow generally accepted industry standards to protect the personally identifiable information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
-
-  
-
-
-## External links and Software
-
-Contains links and downloads of third party software as well as links to third-party Web sites. Please be aware that we cannot control and are not responsible for the information collection practices of third-party software and Web sites. We encourage you to review and understand the privacy policies of these software and Web sites before providing any information to them.
-
-  
-
-
-## Contact Us
-
-If you have any questions about this privacy statement, the practices of this site or application, or your dealings with them, you can contact us [here](http://www.idownloadsoft.com/contact.html).
