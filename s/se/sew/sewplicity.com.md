@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sewplicity.com privacy policy that was archived on 2014-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141201000451id_/http%3A//sewplicity.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sewplicity.com privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615032800id_/http%3A//sewplicity.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Sewplicity
 
