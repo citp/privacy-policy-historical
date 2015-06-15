@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the semp.com privacy policy that was archived on 2014-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141209072142id_/http%3A//www.semp.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the semp.com privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615070146id_/http%3A//www.semp.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - SEMP Search Engine Marketing Professionals : SEO SEM Agency
 
