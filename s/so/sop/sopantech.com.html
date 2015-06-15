@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the sopantech.com privacy policy that was archived on 2014-06-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140630034553id_/http%3A//www.sopantech.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the sopantech.com privacy policy that was archived on 2015-06-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150615024036id_/http%3A//www.sopantech.com/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" class="csstransforms csstransforms3d csstransitions"><head>
 <meta charset="utf-8">
@@ -42,7 +42,7 @@
 <link rel="apple-touch-icon-precomposed" sizes="114x114" href="/assets/ico/apple-touch-icon-114-precomposed.png">
 <link rel="apple-touch-icon-precomposed" sizes="72x72" href="/assets/ico/apple-touch-icon-72-precomposed.png">
 <link rel="apple-touch-icon-precomposed" href="/assets/ico/apple-touch-icon-57-precomposed.png">
-<script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js?publisherid=112459600445004733041"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
+<script type="text/javascript" async="" src="//doug1izaerwt3.cloudfront.net/473218ce71795b1e5763c632a3ca74106628a319.1.js"></script><script type="text/javascript" async="" src="//i.kissmetrics.com/i.js"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js?publisherid=112459600445004733041"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
 	  var _gaq = _gaq || [];
 	  _gaq.push(['_setAccount', 'UA-1724273-10']);
 	  _gaq.push(['_trackPageview']);
@@ -70,8 +70,249 @@
     var s = document.getElementsByTagName("script")[0]; s.parentNode.insertBefore(po, s);
   })();
 </script>
-</head>
-<body>
+<script type="text/javascript">var _kmq = _kmq || [];
+var _kmk = _kmk || '473218ce71795b1e5763c632a3ca74106628a319';
+function _kms(u){
+  setTimeout(function(){
+    var d = document, f = d.getElementsByTagName('script')[0],
+    s = d.createElement('script');
+    s.type = 'text/javascript'; s.async = true; s.src = u;
+    f.parentNode.insertBefore(s, f);
+  }, 1);
+}
+_kms('//i.kissmetrics.com/i.js');
+_kms('//doug1izaerwt3.cloudfront.net/' + _kmk + '.1.js');
+</script>
+<!--DIWALI START-->
+<script type="text/javascript">
+/**
+  * You may use this code for free on any web page provided that 
+  * these comment lines and the following credit remain in the code.
+  * Cross Browser Fireworks from http://www.javascript-fx.com
+  */
+/*************************************************/
+if(!window.JSFX) JSFX=new Object();
+
+if(!JSFX.createLayer)
+{/*** Include Library Code ***/
+
+var ns4 = document.layers;
+var ie4 = document.all;
+JSFX.objNo=0;
+
+JSFX.getObjId = function(){return "JSFX_obj" + JSFX.objNo++;};
+
+JSFX.createLayer = function(theHtml)
+{
+	var layerId = JSFX.getObjId();
+
+	document.write(ns4 ? "<LAYER  NAME='"+layerId+"'>"+theHtml+"</LAYER>" : 
+				   "<DIV id='"+layerId+"' style='position:absolute'>"+theHtml+"</DIV>" );
+
+	var el = 	document.getElementById	? document.getElementById(layerId) :
+			document.all 		? document.all[layerId] :
+							  document.layers[layerId];
+
+	if(ns4)
+		el.style=el;
+
+	return el;
+}
+JSFX.fxLayer = function(theHtml)
+{
+	if(theHtml == null) return;
+	this.el = JSFX.createLayer(theHtml);
+}
+var proto = JSFX.fxLayer.prototype
+
+proto.moveTo     = function(x,y){this.el.style.left = x;this.el.style.top=y;}
+proto.setBgColor = function(color) { this.el.style.backgroundColor = color; } 
+proto.clip       = function(x1,y1, x2,y2){ this.el.style.clip="rect("+y1+" "+x2+" "+y2+" "+x1+")"; }
+if(ns4){
+	proto.clip = function(x1,y1, x2,y2){
+		this.el.style.clip.top	 =y1;this.el.style.clip.left	=x1;
+		this.el.style.clip.bottom=y2;this.el.style.clip.right	=x2;
+	}
+	proto.setBgColor=function(color) { this.el.bgColor = color; }
+}
+if(window.opera)
+	proto.setBgColor = function(color) { this.el.style.color = color==null?'transparent':color; }
+
+if(window.innerWidth)
+{
+	gX=function(){return innerWidth;};
+	gY=function(){return innerHeight;};
+}
+else
+{
+	gX=function(){return document.body.clientWidth;};
+	gY=function(){return document.body.clientHeight;};
+}
+
+/*** Example extend class ***/
+JSFX.fxLayer2 = function(theHtml)
+{
+	this.superC = JSFX.fxLayer;
+	this.superC(theHtml + "C");
+}
+JSFX.fxLayer2.prototype = new JSFX.fxLayer;
+}/*** End Library Code ***/
+
+/*************************************************/
+
+/*** Class Firework extends FxLayer ***/
+JSFX.Firework = function(fwImages)
+{
+	window[ this.id = JSFX.getObjId() ] = this;
+	this.imgId = "i" + this.id;
+	this.fwImages  = fwImages;
+	this.numImages = fwImages.length;
+	this.superC = JSFX.fxLayer;
+	this.superC("<img src='"+fwImages[0].src+"' name='"+this.imgId+"'>");
+
+	this.img = document.layers ? this.el.document.images[0] : document.images[this.imgId];
+	this.step = 0;
+	this.timerId = -1;
+	this.x = 0;
+	this.y = 0;
+	this.dx = 0;
+	this.dy = 0;
+	this.ay = 0.2;
+	this.state = "OFF";
+}
+JSFX.Firework.prototype = new JSFX.fxLayer;
+
+JSFX.Firework.prototype.getMaxDy = function()
+{
+	var ydiff = gY() - 130;
+	var dy    = 1;
+	var dist  = 0;
+	var ay    = this.ay;
+	while(dist<ydiff)
+	{
+		dist += dy;
+		dy+=ay;
+	}
+	return -dy;
+}
+JSFX.Firework.prototype.setFrame = function()
+{
+//	this.img.src=this.fwName+"/"+this.step+".gif";
+	this.img.src=this.fwImages[ this.step ].src;
+}
+JSFX.Firework.prototype.animate = function()
+{
+
+	if(this.state=="OFF")
+	{
+		
+		this.step = 0;
+		this.x = gX()/2-20;
+		this.y = gY()-100;
+		this.moveTo(this.x, this.y);
+		this.setFrame();
+		if(Math.random() > .95)
+		{
+			this.dy = this.getMaxDy();
+			this.dx = Math.random()*-8 + 4;
+			this.dy += Math.random()*3;
+			this.state = "TRAVEL";
+		}
+	}
+	else if(this.state=="TRAVEL")
+	{
+		this.x += this.dx;
+		this.y += this.dy;
+		this.dy += this.ay;
+		this.moveTo(this.x,this.y);
+		if(this.dy > 1)
+			this.state="EXPLODE"
+	}
+	else if(this.state == "EXPLODE")
+	{
+		this.step++;
+		if(this.step < this.numImages)
+			this.setFrame();
+		else
+			this.state="OFF";
+	}
+}
+/*** END Class Firework***/
+
+/*** Class FireworkDisplay extends Object ***/
+JSFX.FireworkDisplay = function(n, fwImages, numImages)
+{
+	window[ this.id = JSFX.getObjId() ] = this;
+	this.timerId = -1;
+	this.fireworks = new Array();
+	this.imgArray = new Array();
+	this.loadCount=0;
+	this.loadImages(fwImages, numImages);
+
+	for(var i=0 ; i<n ; i++)
+		this.fireworks[this.fireworks.length] = new JSFX.Firework(this.imgArray);
+}
+JSFX.FireworkDisplay.prototype.loadImages = function(fwName, numImages)
+{
+	for(var i=0 ; i<numImages ; i++)
+	{
+		this.imgArray[i] = new Image();
+		this.imgArray[i].obj = this;
+		this.imgArray[i].onload = window[this.id].imageLoaded;
+		this.imgArray[i].src = fwName+"/"+i+".gif";
+	}
+}
+JSFX.FireworkDisplay.prototype.imageLoaded = function()
+{
+	this.obj.loadCount++;
+}
+
+JSFX.FireworkDisplay.prototype.animate = function()
+{
+status = this.loadCount;
+	if(this.loadCount < this.imgArray.length)
+		return;
+
+	for(var i=0 ; i<this.fireworks.length ; i++)
+		this.fireworks[i].animate();
+}
+JSFX.FireworkDisplay.prototype.start = function()
+{
+	if(this.timerId == -1)
+	{
+		this.state = "OFF";
+		this.timerId = setInterval("window."+this.id+".animate()", 40);
+	}
+
+}
+JSFX.FireworkDisplay.prototype.stop = function()
+{
+	if(this.timerId != -1)
+	{
+		clearInterval(this.timerId);
+		this.timerId = -1;
+		for(var i=0 ; i<this.fireworks.length ; i++)
+		{
+			this.fireworks[i].moveTo(-100, -100);
+			this.fireworks[i].step = 0;;
+			this.fireworks[i].state = "OFF";
+		}	
+	}
+}
+/*** END Class FireworkDisplay***/
+
+JSFX.FWStart = function()
+{
+	if(JSFX.FWLoad)JSFX.FWLoad();
+	myFW.start();
+}
+myFW = new JSFX.FireworkDisplay(20, "fw03", 21);
+JSFX.FWLoad=window.onload;
+window.onload=JSFX.FWStart;
+</script></head><body><div id="JSFX_obj2" style="position:absolute"><img src="https://web.archive.org/web/20150615024036id_/http%3A//www.sopantech.com/fw03/0.gif" name="iJSFX_obj1"></div><div id="JSFX_obj4" style="position:absolute"><img src="https://web.archive.org/web/20150615024036id_/http%3A//www.sopantech.com/fw03/0.gif" name="iJSFX_obj3"></div><div id="JSFX_obj6" style="position:absolute"><img src="https://web.archive.org/web/20150615024036id_/http%3A//www.sopantech.com/fw03/0.gif" name="iJSFX_obj5"></div><div id="JSFX_obj8" style="position:absolute"><img src="https://web.archive.org/web/20150615024036id_/http%3A//www.sopantech.com/fw03/0.gif" name="iJSFX_obj7"></div><div id="JSFX_obj10" style="position:absolute"><img src="https://web.archive.org/web/20150615024036id_/http%3A//www.sopantech.com/fw03/0.gif" name="iJSFX_obj9"></div><div id="JSFX_obj12" style="position:absolute"><img src="https://web.archive.org/web/20150615024036id_/http%3A//www.sopantech.com/fw03/0.gif" name="iJSFX_obj11"></div><div id="JSFX_obj14" style="position:absolute"><img src="https://web.archive.org/web/20150615024036id_/http%3A//www.sopantech.com/fw03/0.gif" name="iJSFX_obj13"></div><div id="JSFX_obj16" style="position:absolute"><img src="https://web.archive.org/web/20150615024036id_/http%3A//www.sopantech.com/fw03/0.gif" name="iJSFX_obj15"></div><div id="JSFX_obj18" style="position:absolute"><img src="https://web.archive.org/web/20150615024036id_/http%3A//www.sopantech.com/fw03/0.gif" name="iJSFX_obj17"></div><div id="JSFX_obj20" style="position:absolute"><img src="https://web.archive.org/web/20150615024036id_/http%3A//www.sopantech.com/fw03/0.gif" name="iJSFX_obj19"></div><div id="JSFX_obj22" style="position:absolute"><img src="https://web.archive.org/web/20150615024036id_/http%3A//www.sopantech.com/fw03/0.gif" name="iJSFX_obj21"></div><div id="JSFX_obj24" style="position:absolute"><img src="https://web.archive.org/web/20150615024036id_/http%3A//www.sopantech.com/fw03/0.gif" name="iJSFX_obj23"></div><div id="JSFX_obj26" style="position:absolute"><img src="https://web.archive.org/web/20150615024036id_/http%3A//www.sopantech.com/fw03/0.gif" name="iJSFX_obj25"></div><div id="JSFX_obj28" style="position:absolute"><img src="https://web.archive.org/web/20150615024036id_/http%3A//www.sopantech.com/fw03/0.gif" name="iJSFX_obj27"></div><div id="JSFX_obj30" style="position:absolute"><img src="https://web.archive.org/web/20150615024036id_/http%3A//www.sopantech.com/fw03/0.gif" name="iJSFX_obj29"></div><div id="JSFX_obj32" style="position:absolute"><img src="https://web.archive.org/web/20150615024036id_/http%3A//www.sopantech.com/fw03/0.gif" name="iJSFX_obj31"></div><div id="JSFX_obj34" style="position:absolute"><img src="https://web.archive.org/web/20150615024036id_/http%3A//www.sopantech.com/fw03/0.gif" name="iJSFX_obj33"></div><div id="JSFX_obj36" style="position:absolute"><img src="https://web.archive.org/web/20150615024036id_/http%3A//www.sopantech.com/fw03/0.gif" name="iJSFX_obj35"></div><div id="JSFX_obj38" style="position:absolute"><img src="https://web.archive.org/web/20150615024036id_/http%3A//www.sopantech.com/fw03/0.gif" name="iJSFX_obj37"></div><div id="JSFX_obj40" style="position:absolute"><img src="https://web.archive.org/web/20150615024036id_/http%3A//www.sopantech.com/fw03/0.gif" name="iJSFX_obj39"></div>
+<!--DIWALI END-->
+
+
 <!--START MAIN-WRAPPER--> 
  <!-- START TOP MENU -->
  <!-- ################-->
@@ -120,12 +361,20 @@
                   <ul class="dropdown-menu">
                     
 					<li><a href="/products/school-erp.html">Easy SIS</a></li>
+					<li><a href="http://www.pixelpm.net" target="_blank">Pixel PM (Coming Soon)</a></li>
                   </ul>
                 </li>
-				<li>
+                <li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="#"> Social Media <b class="caret"></b></a>
+                  <ul class="dropdown-menu">
+                    
+					<li><a href="/social-media-marketing.html">Social Media Marketing</a></li>
+					<li><a href="http://www.contestpundit.com">Social Contests Platform</a></li>
+                  </ul>
+                </li>
+				<!--<li>
 					<a href="/social-media-marketing.html"> Social Media Marketing </a>
-			    </li><li>
-			    </li><li><a href="/portfolio.html"> Portfolio </a></li>
+			    <li>-->
+			    <li><a href="/portfolio.html"> Portfolio </a></li>
 				<li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown">Contact us<b class="caret"></b></a>
 					<ul class="dropdown-menu">
                     				<li><a href="/careers.html">Careers</a></li>
@@ -300,6 +549,7 @@ Should any visitor to sopantech.com.'s web site provide information, questions, 
                                       INDIA<br><br>
 
                     <i class="fa-icon-phone-sign"></i> US Toll Free: +1(877)226-2188<br>
+                    <i class="fa-icon-phone-sign"></i> UK/Europe: +44 7950883546<br>
                     <i class="fa-icon-phone-sign"></i> Phone (India): +91-120-4212080
                     </p>
                     <div class="foot-line"></div>
@@ -321,7 +571,9 @@ Should any visitor to sopantech.com.'s web site provide information, questions, 
       </div>
     </div>
     <div class="row-fluid copyright">
-      <div class="span12 center">Copyright © 2010 - 2014 Sopan Technologies</div>
+      <!--<div class="span12 center">Copyright © 2010 - 2014 Sopan Technologies</div>-->
+      	<div class="span6 pull-left">Copyright © 2010 - 2014 Sopan Technologies</div>
+	<div class="span6 pull-right">Our Network Sites : <a href="http://www.contestpundit.com" target="_blank">www.contestpundit.com</a> | <a href="http://www.40dollarlogo.com" target="_blank">www.40dollarlogo.com</a> | <a href="http://www.40dollarmarkup.com" target="_blank">www.40dollarmarkup.com</a> | <a href="http://www.ciinnovatives.com" target="_blank">www.ciinnovatives.com</a></div>
     </div>
   </div>
 </footer>
@@ -414,7 +666,8 @@ $("#rfpform").validate();
   
         $('#da-slider').cslider({
           autoplay  : true,
-          bgincrement : 50
+          bgincrement : 50,
+          interval : 6000,
         });
 
       });
