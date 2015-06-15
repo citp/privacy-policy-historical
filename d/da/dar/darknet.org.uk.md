@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the darknet.org.uk privacy policy that was archived on 2014-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141106102255id_/http%3A//www.darknet.org.uk/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the darknet.org.uk privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615035053id_/http%3A//www.darknet.org.uk/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Darknet - The Darkside
 
