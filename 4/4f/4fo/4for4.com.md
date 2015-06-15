@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 4for4.com privacy policy that was archived on 2014-07-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140725204341id_/http%3A//www.4for4.com/fantasy-football/privacy-policy-0) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 4for4.com privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615103643id_/http%3A//www.4for4.com/fantasy-football/privacy-policy-0) for the most accurate reproduction.*
 
 # Privacy Policy | Fantasy Football
 
@@ -26,6 +26,3 @@ At various times, 4for4.com may collect certain non-personal information to opti
 If you have specific questions regarding our privacy policy, please contact us via email.
 
 By using 4for4.com you hereby agree to be bound by the policy above. Thank you for your cooperation. We hope you enjoy 4for4.com!
-
-
-
