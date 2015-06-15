@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the acodez.in privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120202132id_/http%3A//acodez.in/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acodez.in privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615033408id_/http%3A//acodez.in/privacypolicy.html) for the most accurate reproduction.*
 
 # Acodez - Ads Codes Dezigns
 
@@ -8,18 +8,6 @@ Kerala - 673005
 India 
 
 **We'd love to talk with you** Brief us your requirements below, and let's connect 
-
-[](https://web.archive.org/web/20141120202132id_/http%3A//acodez.in/index.html "acodez")
-
-  * [HOME](https://web.archive.org/web/20141120202132id_/http%3A//acodez.in/index.html)
-  * [WORK](https://web.archive.org/web/20141120202132id_/http%3A//acodez.in/work.php)
-  * [AWARDS](https://web.archive.org/web/20141120202132id_/http%3A//acodez.in/awards.html)
-  * [SERVICES](https://web.archive.org/web/20141120202132id_/http%3A//acodez.in/services.html)
-  * [BLOG](https://web.archive.org/blog)
-  * [CAREERS](https://web.archive.org/careers)
-  * [CONTACT US](https://web.archive.org/web/20141120202132id_/http%3A//acodez.in/contact.html)
-
-
 
   
 
@@ -90,112 +78,112 @@ We will not sell, distribute or lease your personal information to third parties
 
 We build custom Websites using latest technologies like HTML5 and CSS3. It makes your site clean, fast loading and search engine friendly.
 
-Revamp your website with HTML5/CSS3, [contact us](https://web.archive.org/web/20141120202132id_/http%3A//acodez.in/services.html?topform) now!
+Revamp your website with HTML5/CSS3, [contact us](https://web.archive.org/web/20150615033408id_/http%3A//acodez.in/services.html?topform) now!
 
 We are experts in a wide range of Ecommerce solutions. We offer online shopping sites with Magento, Wp-Ecommerce, Virturemart, Prestashop, Os Commerce, Woo Commerce, Open Cart, Zen Cart, X Cart, Ubercart and more.
 
-For your new Ecommerce site,[contact us](https://web.archive.org/web/20141120202132id_/http%3A//acodez.in/services.html?topform) now! 
+For your new Ecommerce site,[contact us](https://web.archive.org/web/20150615033408id_/http%3A//acodez.in/services.html?topform) now! 
 
 CMS or a 'Content Management System' quite literally allows you to control and manage the content within your web site - without technical training. Using this uncomplicated system you can very easily add, delete images and edit text in your web site on the fly.We offer CMS solutions mainly in Wordpress, Joomla and Drupal.
 
-Start managing your sites all by your own. [contact us](https://web.archive.org/web/20141120202132id_/http%3A//acodez.in/services.html?topform) now!
+Start managing your sites all by your own. [contact us](https://web.archive.org/web/20150615033408id_/http%3A//acodez.in/services.html?topform) now!
 
 We deliver comprehensive enterprise PHP web applications that are customized to comply with your business objectives and organizational structure. Our PHP solutions enable you to achieve various business roles in the enterprise environment including people, processes and collaboration. 
 
-To know more on our web app development services, [contact us](https://web.archive.org/web/20141120202132id_/http%3A//acodez.in/services.html?topform)now!. 
+To know more on our web app development services, [contact us](https://web.archive.org/web/20150615033408id_/http%3A//acodez.in/services.html?topform)now!. 
 
 We uses JQuery, a lightweight JavaScript library to develop animated,interactive and fast loading websites. In fact we're an award winning jQuery website developer.
 
-To know more on our jQuery services, [contact us](https://web.archive.org/web/20141120202132id_/http%3A//acodez.in/services.html?topform) now! 
+To know more on our jQuery services, [contact us](https://web.archive.org/web/20150615033408id_/http%3A//acodez.in/services.html?topform) now! 
 
 We custom design, develop, test and deploy Android apps of your choice.Our team is well versed with Android SDK and API with complete knowledge of the Android platform that is adaptable to larger, VGA, 2D graphics library, 3D graphics library based on OpenGL ES 1.0 specifications, and traditional smart phone layouts.We do customized application development ranging from asset tracking to advertising, gaming to messaging and voicing, GPS to multimedia applications. 
 
-Talk to us on your Android app requirement. [contact us](https://web.archive.org/web/20141120202132id_/http%3A//acodez.in/services.html?topform) now!. 
+Talk to us on your Android app requirement. [contact us](https://web.archive.org/web/20150615033408id_/http%3A//acodez.in/services.html?topform) now!. 
 
 We develop highly precise, interactive, and easy to use apps suitable to the needs.We provide all types of apps development including air-ticketing, widgets, social media integration, website creation etc.Our experienced iPhone app programmers are well-versed with the Apple’s iOS platform with field knowledge in Xcode, Cocoa Touch Framework, and Objective C. 
 
-Talk to us on your iPhone app requirement. [contact us](https://web.archive.org/web/20141120202132id_/http%3A//acodez.in/services.html?topform) now! 
+Talk to us on your iPhone app requirement. [contact us](https://web.archive.org/web/20150615033408id_/http%3A//acodez.in/services.html?topform) now! 
 
 Our Expert team can develop Facebook applications in different technologies ranging from Flash Action Script, Java, PHP, JQuery to Dotnet. 
 
-Talk to us on your facebook app requirement. [contact us](https://web.archive.org/web/20141120202132id_/http%3A//acodez.in/services.html?topform) now!. 
+Talk to us on your facebook app requirement. [contact us](https://web.archive.org/web/20150615033408id_/http%3A//acodez.in/services.html?topform) now!. 
 
 nopCommerce is a new open source e-commerce solution that takes both a front-end ASP.Net and a back-end MS SQL 2005 or higher version.
 
-To know more on our nopCommerce services, [contact us](https://web.archive.org/web/20141120202132id_/http%3A//acodez.in/services.html?topform) now! 
+To know more on our nopCommerce services, [contact us](https://web.archive.org/web/20150615033408id_/http%3A//acodez.in/services.html?topform) now! 
 
 We offer Joomla Virtuemart, Prestashop Virtuemart, Cakephp Virtuemart, and Mambo Virtuemart services to create exclusive online shops.
 
-To know more on our Virtuemart services, [contact us](https://web.archive.org/web/20141120202132id_/http%3A//acodez.in/services.html?topform) now!
+To know more on our Virtuemart services, [contact us](https://web.archive.org/web/20150615033408id_/http%3A//acodez.in/services.html?topform) now!
 
 We offer Magento E-Commerce website development, Customizing existing Magento setup with effective add-ons and process-specific features.
 
-To know more on our Magento services, [contact us](https://web.archive.org/web/20141120202132id_/http%3A//acodez.in/services.html?topform) now!
+To know more on our Magento services, [contact us](https://web.archive.org/web/20150615033408id_/http%3A//acodez.in/services.html?topform) now!
 
 Our Drupal Development services includes- Template Design, Drupal Website Integration, Module Installation etc
 
-To know more on our Drupal services, [contact us](https://web.archive.org/web/20141120202132id_/http%3A//acodez.in/services.html?topform) now! 
+To know more on our Drupal services, [contact us](https://web.archive.org/web/20150615033408id_/http%3A//acodez.in/services.html?topform) now! 
 
 We offer WordPress Installation and Setup, Custom WordPress Theme Design, WordPress Widget Development and WordPress E-Commerce Sites
 
-To know more on our Wordpress services, [contact us](https://web.archive.org/web/20141120202132id_/http%3A//acodez.in/services.html?topform) now!
+To know more on our Wordpress services, [contact us](https://web.archive.org/web/20150615033408id_/http%3A//acodez.in/services.html?topform) now!
 
 We have extensive experience in Joomla Website Development, Joomla Extension Development & Customization and Joomla Theme Integration
 
-To know more on our Joomla services, [contact us](https://web.archive.org/web/20141120202132id_/http%3A//acodez.in/services.html?topform) now! 
+To know more on our Joomla services, [contact us](https://web.archive.org/web/20150615033408id_/http%3A//acodez.in/services.html?topform) now! 
 
 Our DotNetNuke Development service includes DotNetNuke module Development, DotNetNuke Web Development and CMS Development
 
-To know more on our DotNetNuke services, [contact us](https://web.archive.org/web/20141120202132id_/http%3A//acodez.in/services.html?topform) now! 
+To know more on our DotNetNuke services, [contact us](https://web.archive.org/web/20150615033408id_/http%3A//acodez.in/services.html?topform) now! 
 
 We offer CodeIgniter Development solutions right from its installation and integration to fully-featured custom application development
 
-To know more on our CodeIgniter services, [contact us](https://web.archive.org/web/20141120202132id_/http%3A//acodez.in/services.html?topform) now!
+To know more on our CodeIgniter services, [contact us](https://web.archive.org/web/20150615033408id_/http%3A//acodez.in/services.html?topform) now!
 
 We also offer web application development in CakePHP framework which allows development of websites in a rapid and reliable manner
 
-To know more on our Cake PHP services, [contact us](https://web.archive.org/web/20141120202132id_/http%3A//acodez.in/services.html?topform) now! 
+To know more on our Cake PHP services, [contact us](https://web.archive.org/web/20150615033408id_/http%3A//acodez.in/services.html?topform) now! 
 
 We offer custom PHP development specializing in My SQL PHP Programming, script installing, modification, and PHP Script repairs.
 
-To know more on our PHP development services, [contact us](https://web.archive.org/web/20141120202132id_/http%3A//acodez.in/services.html?topform) now!
+To know more on our PHP development services, [contact us](https://web.archive.org/web/20150615033408id_/http%3A//acodez.in/services.html?topform) now!
 
 We could install, customize and configure Zen Cart . Also we could offer services in modifying and enhancing Zen Cart.
 
-To know more on our Zen Cart services, [contact us](https://web.archive.org/web/20141120202132id_/http%3A//acodez.in/services.html?topform) now!
+To know more on our Zen Cart services, [contact us](https://web.archive.org/web/20150615033408id_/http%3A//acodez.in/services.html?topform) now!
 
 CSS3 lets you make the elements of a web page more dynamic, add life with a decorative touch.It also make the web page and its content load faster and accurate.
 
-Revamp your website with HTML5/CSS3, [contact us](https://web.archive.org/web/20141120202132id_/http%3A//acodez.in/services.html?topform) now!
+Revamp your website with HTML5/CSS3, [contact us](https://web.archive.org/web/20150615033408id_/http%3A//acodez.in/services.html?topform) now!
 
 Day by day, the number of devices, platforms,and browsers that need to work with your site grows. And the best solution to this is to have a responsive website, which provides an optimal viewing experience across a wide range of devices (from desktop computer monitors to mobile phones)So it provides easy reading and navigation with a minimum of resizing, panning, and scrolling.
 
-It's time you make One site for every screen. [contact us](https://web.archive.org/web/20141120202132id_/http%3A//acodez.in/services.html?topform) today!
+It's time you make One site for every screen. [contact us](https://web.archive.org/web/20150615033408id_/http%3A//acodez.in/services.html?topform) today!
 
 We provide various X-Cart services, viz X-Cart based eCommerce development,X-Cart Module development,X-Cart design integration,X-Cart Template Design etc. 
 
-To know more on our X-Cart services, [contact us](https://web.archive.org/web/20141120202132id_/http%3A//acodez.in/services.html?topform) now!.
+To know more on our X-Cart services, [contact us](https://web.archive.org/web/20150615033408id_/http%3A//acodez.in/services.html?topform) now!.
 
 WooCommerce is fast becoming one of the most popular solutions to easily add robust e-Commerce functionality to your WordPress based website. 
 
-To get your custom design Woocommerce shopping site, [contact us](https://web.archive.org/web/20141120202132id_/http%3A//acodez.in/services.html?topform) now!. 
+To get your custom design Woocommerce shopping site, [contact us](https://web.archive.org/web/20150615033408id_/http%3A//acodez.in/services.html?topform) now!. 
 
 OsCommerce is a full-featured, PHP and MySQL based catalog and open source shopping cart application that creates a profitable online web store. Our OsCommerce Development Services include OsCommerce customization, OsCommerce template installation and OsCommerce custom module development for shipping and payment. 
 
-To know more on our OsCommerce services, [contact us](https://web.archive.org/web/20141120202132id_/http%3A//acodez.in/services.html?topform) now!. 
+To know more on our OsCommerce services, [contact us](https://web.archive.org/web/20150615033408id_/http%3A//acodez.in/services.html?topform) now!. 
 
 Ubercart is an open source e-commerce solution which is fully integrated with the leading open source content management system, Drupal.Our Drupal and Ubercart services ranges from site building and implementation, consulting to custom module development and sponsored Ubercart development. 
 
-To know more on our Ubercart services, [contact us](https://web.archive.org/web/20141120202132id_/http%3A//acodez.in/services.html?topform) now!. 
+To know more on our Ubercart services, [contact us](https://web.archive.org/web/20150615033408id_/http%3A//acodez.in/services.html?topform) now!. 
 
 WordPress e-Commerce is a WordPress Shopping Cart Plugin that is truly an industrial strength elegant easy to use and fully featured shopping cart solution ideal for selling your products, services, and or fees online.Our services includes mainly Wp E-Commerce Custom Theme Development and Wp E-Commerce Custom Plugin Development. 
 
-To know more on our WpEcommerce services, [contact us](https://web.archive.org/web/20141120202132id_/http%3A//acodez.in/services.html?topform)now!. 
+To know more on our WpEcommerce services, [contact us](https://web.archive.org/web/20150615033408id_/http%3A//acodez.in/services.html?topform)now!. 
 
 PrestaShop is open source e-commerce software which is built on PHP platform and runs in cross platform.We offer various Prestashop services like PrestaShop Development,PrestaShop Customization, PrestaShop Application Maintenance, PrestaShop modules and plug-ins development,PrestaShop e-commerce solution design and deployment and Personalized custom-built PrestaShop Shopping Cart. 
 
-To know more on our Prestashop services, [contact us](https://web.archive.org/web/20141120202132id_/http%3A//acodez.in/services.html?topform) now! . 
+To know more on our Prestashop services, [contact us](https://web.archive.org/web/20150615033408id_/http%3A//acodez.in/services.html?topform) now! . 
 
 Considered the most user-friendly PHP based ecommerce shopping cart, Opencart is a robust solution that allows quick and easy go-to-market strategy for small & medium business models.We offer various Opencart servcies like Opencart installation / Customization, Opencart compatible theme design, Opencart module customization,Opencart payment gateway solutions etc. 
 
-To know more on our Open cart services, [contact us](https://web.archive.org/web/20141120202132id_/http%3A//acodez.in/services.html?topform) now!. 
+To know more on our Open cart services, [contact us](https://web.archive.org/web/20150615033408id_/http%3A//acodez.in/services.html?topform) now!. 
