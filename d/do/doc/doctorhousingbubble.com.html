@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the doctorhousingbubble.com privacy policy that was archived on 2014-12-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141212024247id_/http%3A//www.doctorhousingbubble.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the doctorhousingbubble.com privacy policy that was archived on 2015-06-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150615104607id_/http%3A//www.doctorhousingbubble.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head profile="http://gmpg.org/xfn/11">
 
@@ -11,9 +11,11 @@
 
 
 
-<meta name="generator" content="WordPress 4.0.1"> <!-- leave this for stats -->
+<meta name="generator" content="WordPress 4.2.2"> <!-- leave this for stats -->
 
 <link rel="stylesheet" href="http://www.doctorhousingbubble.com/wp-content/themes/drhousingv1/drhousingv1/reset.css" type="text/css" media="screen">
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
 
 
 
@@ -47,6 +49,12 @@
 
 
 
+	<link rel="archives" title="June 2015" href="http://www.doctorhousingbubble.com/2015/06/">
+	<link rel="archives" title="May 2015" href="http://www.doctorhousingbubble.com/2015/05/">
+	<link rel="archives" title="April 2015" href="http://www.doctorhousingbubble.com/2015/04/">
+	<link rel="archives" title="March 2015" href="http://www.doctorhousingbubble.com/2015/03/">
+	<link rel="archives" title="February 2015" href="http://www.doctorhousingbubble.com/2015/02/">
+	<link rel="archives" title="January 2015" href="http://www.doctorhousingbubble.com/2015/01/">
 	<link rel="archives" title="December 2014" href="http://www.doctorhousingbubble.com/2014/12/">
 	<link rel="archives" title="November 2014" href="http://www.doctorhousingbubble.com/2014/11/">
 	<link rel="archives" title="October 2014" href="http://www.doctorhousingbubble.com/2014/10/">
@@ -151,10 +159,124 @@
 
 
 <link rel="alternate" type="application/rss+xml" title="Dr. Housing Bubble Blog » Privacy Policy Comments Feed" href="http://www.doctorhousingbubble.com/privacy-policy/feed/">
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"http:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"wpemoji":"http:\/\/www.doctorhousingbubble.com\/wp-includes\/js\/wp-emoji.js?ver=4.2.2","twemoji":"http:\/\/www.doctorhousingbubble.com\/wp-includes\/js\/twemoji.js?ver=4.2.2"}};
+			( function( window, document, settings ) {
+	var src, ready;
+
+	/**
+	 * Detect if the browser supports rendering emoji or flag emoji. Flag emoji are a single glyph
+	 * made of two characters, so some browsers (notably, Firefox OS X) don't support them.
+	 *
+	 * @since 4.2.0
+	 *
+	 * @param type {String} Whether to test for support of "simple" or "flag" emoji.
+	 * @return {Boolean} True if the browser can render emoji, false if it cannot.
+	 */
+	function browserSupportsEmoji( type ) {
+		var canvas = document.createElement( 'canvas' ),
+			context = canvas.getContext && canvas.getContext( '2d' );
+
+		if ( ! context || ! context.fillText ) {
+			return false;
+		}
+
+		/*
+		 * Chrome on OS X added native emoji rendering in M41. Unfortunately,
+		 * it doesn't work when the font is bolder than 500 weight. So, we
+		 * check for bold rendering support to avoid invisible emoji in Chrome.
+		 */
+		context.textBaseline = 'top';
+		context.font = '600 32px Arial';
+
+		if ( type === 'flag' ) {
+			/*
+			 * This works because the image will be one of three things:
+			 * - Two empty squares, if the browser doesn't render emoji
+			 * - Two squares with 'G' and 'B' in them, if the browser doesn't render flag emoji
+			 * - The British flag
+			 *
+			 * The first two will encode to small images (1-2KB data URLs), the third will encode
+			 * to a larger image (4-5KB data URL).
+			 */
+			context.fillText( String.fromCharCode( 55356, 56812, 55356, 56807 ), 0, 0 );
+			return canvas.toDataURL().length > 3000;
+		} else {
+			/*
+			 * This creates a smiling emoji, and checks to see if there is any image data in the
+			 * center pixel. In browsers that don't support emoji, the character will be rendered
+			 * as an empty square, so the center pixel will be blank.
+			 */
+			context.fillText( String.fromCharCode( 55357, 56835 ), 0, 0 );
+			return context.getImageData( 16, 16, 1, 1 ).data[0] !== 0;
+		}
+	}
+
+	function addScript( src ) {
+		var script = document.createElement( 'script' );
+
+		script.src = src;
+		script.type = 'text/javascript';
+		document.getElementsByTagName( 'head' )[0].appendChild( script );
+	}
+
+	settings.supports = {
+		simple: browserSupportsEmoji( 'simple' ),
+		flag:   browserSupportsEmoji( 'flag' )
+	};
+
+	settings.DOMReady = false;
+	settings.readyCallback = function() {
+		settings.DOMReady = true;
+	};
+
+	if ( ! settings.supports.simple || ! settings.supports.flag ) {
+		ready = function() {
+			settings.readyCallback();
+		};
+
+		if ( document.addEventListener ) {
+			document.addEventListener( 'DOMContentLoaded', ready, false );
+			window.addEventListener( 'load', ready, false );
+		} else {
+			window.attachEvent( 'onload', ready );
+			document.attachEvent( 'onreadystatechange', function() {
+				if ( 'complete' === document.readyState ) {
+					settings.readyCallback();
+				}
+			} );
+		}
+
+		src = settings.source || {};
+
+		if ( src.concatemoji ) {
+			addScript( src.concatemoji );
+		} else if ( src.wpemoji && src.twemoji ) {
+			addScript( src.twemoji );
+			addScript( src.wpemoji );
+		}
+	}
+
+} )( window, document, window._wpemojiSettings );
+		</script><script src="http://www.doctorhousingbubble.com/wp-includes/js/twemoji.js?ver=4.2.2" type="text/javascript"></script><script src="http://www.doctorhousingbubble.com/wp-includes/js/wp-emoji.js?ver=4.2.2" type="text/javascript"></script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
 <link rel="stylesheet" id="wp-pagenavi-css" href="http://www.doctorhousingbubble.com/wp-content/plugins/wp-pagenavi/pagenavi-css.css?ver=2.70" type="text/css" media="all">
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.doctorhousingbubble.com/xmlrpc.php?rsd">
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.doctorhousingbubble.com/wp-includes/wlwmanifest.xml"> 
-<meta name="generator" content="WordPress 4.0.1">
+<meta name="generator" content="WordPress 4.2.2">
 <link rel="canonical" href="http://www.doctorhousingbubble.com/privacy-policy/">
 <link rel="shortlink" href="http://www.doctorhousingbubble.com/?p=2119">
 
@@ -559,7 +681,7 @@ We do NOT use cookies to store personal information, such as your personal prefe
 <!-- Begin Text-Link ad tag (tile=6) -->
 <script language="JavaScript" type="text/javascript">;
 document.write('<script language="JavaScript" src="http://ad.doubleclick.net/adj/invc.doctorhousingbubble/textlink;kw=;kval=textlink;tile=6;sz=234x20;ord=' + ord + '?" type="text/javascript"><\/script>');
-</script><script language="JavaScript" src="http://ad.doubleclick.net/adj/invc.doctorhousingbubble/textlink;kw=;kval=textlink;tile=6;sz=234x20;ord=1306464877960564.8?" type="text/javascript"></script><noscript><a href="http://ad.doubleclick.net/jump/invc.doctorhousingbubble/textlink;kw=;kval=textlink;tile=6;sz=234x20;ord=123456789?" target="_blank"><img src="http://ad.doubleclick.net/ad/invc.doctorhousingbubble/textlink;kw=;kval=textlink;tile=6;sz=234x20;ord=123456789?" width="728" height="234" border="20" alt=""></a></noscript>
+</script><script language="JavaScript" src="http://ad.doubleclick.net/adj/invc.doctorhousingbubble/textlink;kw=;kval=textlink;tile=6;sz=234x20;ord=9148464810504194?" type="text/javascript"></script><noscript><a href="http://ad.doubleclick.net/jump/invc.doctorhousingbubble/textlink;kw=;kval=textlink;tile=6;sz=234x20;ord=123456789?" target="_blank"><img src="http://ad.doubleclick.net/ad/invc.doctorhousingbubble/textlink;kw=;kval=textlink;tile=6;sz=234x20;ord=123456789?" width="728" height="234" border="20" alt=""></a></noscript>
 <!-- End Text-Link ad tag -->
 </center>
 <br>
@@ -638,13 +760,15 @@ document.write('<script language="JavaScript" src="http://ad.doubleclick.net/adj
 
 
 <br>
-
 <center>
-
 <a href="http://www.cashflowdepot.com/"><img src="http://www.doctorhousingbubble.com/wp-content/themes/drhousingv1/drhousingv1/img/250x250_cs-ebook.jpg" rel="nofollow"></a>
-
 </center>
+<br>
 
+<br>
+<center>
+<a href="http://www.PanamaRelocationTours.com"><img src="http://www.doctorhousingbubble.com/wp-content/themes/drhousingv1/drhousingv1/img/PRTad-300x250.jpg" rel="nofollow"></a>
+</center>
 <br>
 
 <center>
@@ -660,6 +784,7 @@ document.write('<script language="JavaScript" src="http://ad.doubleclick.net/adj
 
 <center>
 </center>
+
 
 
 <br>
@@ -712,9 +837,9 @@ document.write('<script language="JavaScript" src="http://ad.doubleclick.net/adj
 
 
 
-   <ul>	<li><a href="http://www.doctorhousingbubble.com/why-millennials-stuck-at-home-eb5-visa-eb-5-buying/#comment-728254" title="Why Millennials are stuck living at home with parents: The impact on first time home buying, renting, and the 2015 housing market. Big jump in foreign EB-5 visas. , December 11, 2014">Lazy_Aye</a>: Actually, he said it *was* nice weather earlier in the week, when they left. I’m not in California,...</li>
-	<li><a href="http://www.doctorhousingbubble.com/why-millennials-stuck-at-home-eb5-visa-eb-5-buying/#comment-728233" title="Why Millennials are stuck living at home with parents: The impact on first time home buying, renting, and the 2015 housing market. Big jump in foreign EB-5 visas. , December 11, 2014">Cal Skeptic</a>: My goal is to get my 26 yr old to the sheepskin (he’s a little late) with no debt. We might...</li>
-	<li><a href="http://www.doctorhousingbubble.com/why-millennials-stuck-at-home-eb5-visa-eb-5-buying/#comment-728219" title="Why Millennials are stuck living at home with parents: The impact on first time home buying, renting, and the 2015 housing market. Big jump in foreign EB-5 visas. , December 11, 2014">CA appraiser</a>: No way dood….</li>
+   <ul>	<li><a href="http://www.doctorhousingbubble.com/los-angeles-gentrification-compton-real-estate-prices/#comment-879208" title="The Gentrifiers:  Searching for deals in Compton.  What does it take to gentrify a market in Southern California?, June 13, 2015">Responder</a>: I totally agree that there can be noise problems in nice areas as well. It’s just that noise is much...</li>
+	<li><a href="http://www.doctorhousingbubble.com/los-angeles-gentrification-compton-real-estate-prices/#comment-879204" title="The Gentrifiers:  Searching for deals in Compton.  What does it take to gentrify a market in Southern California?, June 13, 2015">Looking in the Valley</a>: We went to 5 in Woodland Hills today and boy was it depressing. We looked at a 1965 house that...</li>
+	<li><a href="http://www.doctorhousingbubble.com/los-angeles-gentrification-compton-real-estate-prices/#comment-879193" title="The Gentrifiers:  Searching for deals in Compton.  What does it take to gentrify a market in Southern California?, June 13, 2015">Jim Taylor</a>: Bingo – Rent in a nicer area. Housing is about lifestyle. Not an investment. Once I got that...</li>
 </ul>
 
 
@@ -727,17 +852,17 @@ document.write('<script language="JavaScript" src="http://ad.doubleclick.net/adj
 <div style="display: none;" id="featurednews" class="tab-content">
 		<ul>
 
-			<li>robert (13)
+			<li>Hotel California (31)
 </li>
-<li>flyover (12)
+<li>son of a landlord (26)
+</li>
+<li>NihilistZerO (15)
 </li>
 <li>Responder (11)
 </li>
-<li>son of a landlord (10)
+<li>ben (11)
 </li>
-<li>QE Abyss (8)
-</li>
-<li>GZ (8)
+<li>GZ (10)
 </li>
 
 		</ul>
@@ -1357,12 +1482,6 @@ Regional Housing Blogs
 <br>
 
 
-
-<li><a href="http://www.386realestate.com/" rel="nofollow">Daytona Beach Real estate</a></li>
-
-
-
-
 <li><a href="http://portlandhousing.blogspot.com/?ref=drhousingbubble.blogspot.com" target="_blank">
 
 Portland Housing Blog</a></li>
@@ -1802,9 +1921,4 @@ $(document).ready(init);</script>
 
 
 
-
-<!-- Dynamic page generated in 0.510 seconds. -->
-<!-- Cached page generated by WP-Super-Cache on 2014-12-11 19:35:20 -->
-
-<!-- Compression = gzip -->
-<!-- super cache --></body></html>
+</body></html>
