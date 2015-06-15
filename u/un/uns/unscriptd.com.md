@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the unscriptd.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120050049id_/http%3A//www.unscriptd.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unscriptd.com privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615110508id_/http%3A//www.unscriptd.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Unscriptd
 
 ### 1\. Our commitment to privacy
 
-Unscriptd Pty Ltd ACN 153 220 225 ( **Unscriptd Pty Ltd t/a Unscriptd, we, us, our** ) and its subsidiaries, related entities and affiliates respect your privacy and we are committed to compliance with our obligations under the Privacy Act1988 (Cth) ( **Privacy Act** ).
+Wikisport Pty Ltd ACN 153 220 225 ( **Wikisport Pty Ltd t/a Unscriptd, we, us, our** ) and its subsidiaries, related entities and affiliates respect your privacy and we are committed to compliance with our obligations under the Privacy Act1988 (Cth) ( **Privacy Act** ).
 
 Please take a moment to read our Privacy Policy as it describes what happens to your personal information (being information or an opinion about you, whether true or not, which identifies you or from which your identity is reasonably identifiable) that is collected via:
 
