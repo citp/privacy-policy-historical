@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the foresee.com privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217220631id_/http%3A//www.foresee.com/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foresee.com privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615081923id_/http%3A//www.foresee.com/about-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | ForeSee
 
-## [](https://privacy-policy.truste.com/click-with-confidence/eusafe/en/www.foreseeresults.com/seal_m "TRUSTe European Safe Harbor certification")ForeSee Results, Inc. Privacy Statement Effective date: May 15, 2013
+## ForeSee Results, Inc. Privacy Statement Effective date: May 15, 2013
+
+[](https://privacy.truste.com/privacy-seal/ForeSee-Results/validation?rid=fc7be566-92aa-4667-be44-67d8412088c1 "TRUSTe European Safe Harbor certification")
 
 This Privacy Statement describes how ForeSee Results, Inc. (“ForeSee”) collects, uses, and discloses certain personally identifiable information (“Personal Data”) that it receives about the following types of individuals through certain websites, mobile websites, and mobile applications as outlined herein: (i) ForeSee’s own website visitors, (ii) ForeSee’s clients, and (iii) ForeSee’s clients’ customers and website visitors.  ForeSee’s practices with respect to each of these categories of individuals is explained below. The use of information collected through our service shall be limited to the purpose of providing the service for which the Client has engaged ForeSee.
 
