@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indianic.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625215613id_/http%3A//www.indianic.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indianic.com privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615025839id_/http%3A//www.indianic.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy policy of indianic
 
@@ -6,7 +6,7 @@ At **IndiaNIC Infotech Limited** we are committed to safeguarding and preserving
 
 It is intended to describe how we use and process your personal information. Please note that by visiting and using **INDIANIC.COM,** you are accepting the practices described in this Privacy Policy.
 
-This Privacy Policy explains what happens to any personal data that you provide to us, or that we collect from you whilst you visit our site. 
+This Privacy Policy explains what happens to any personal data that you provide to us, or that we collect from you whilst you visit our site.
 
 We do update this Policy from time to time so please do review this Policy regularly.
 
@@ -49,7 +49,7 @@ Where your consent has been provided in advance we may allow selected third part
 
 In operating our website it may become necessary to transfer data that we collect from you to locations outside of the United States for processing and storing. By providing your personal data to us, you agree to this transfer, storing or processing. We do our upmost to ensure that all reasonable steps are taken to make sure that your data is treated stored securely.
 
-Unfortunately the sending of information via the Internet is not totally secure and on occasion such information can be intercepted. We cannot guarantee the security of data that you choose to send us electronically, sending such information is entirely at your own risk. 
+Unfortunately the sending of information via the Internet is not totally secure and on occasion such information can be intercepted. We cannot guarantee the security of data that you choose to send us electronically, sending such information is entirely at your own risk.
 
 ### Disclosing Your Information
 
@@ -75,9 +75,9 @@ IndiaNIC Infotech Limited has the discretion to update this privacy policy at an
 
 By using this Site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
 
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at: 
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:
 
-**IndiaNIC Infotech Limited**  
+ **IndiaNIC Infotech Limited**  
 201, 2nd Floor, Dev Arc Mall, Satellite Rd, Off S.G Highway,  
 Near Iskcon Bridge, Ahmedabad, Gujarat, 380015. INDIA  
 **Email:**[ billing@indianic.com](mailto:billing@indianic.com)
