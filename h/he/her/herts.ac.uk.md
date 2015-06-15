@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the herts.ac.uk privacy policy that was archived on 2014-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141008144559id_/http%3A//www.herts.ac.uk/about-us/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the herts.ac.uk privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615081445id_/http%3A//www.herts.ac.uk/about-us/legal/privacy) for the most accurate reproduction.*
 
 # Privacy | University of Hertfordshire
 
@@ -20,7 +20,7 @@ Cookies cannot be executed as code or used to deliver a virus. Other servers can
 
 Information about how to configure your browser to block cookies can be found at:
 
-  * [Internet explorer](http://support.microsoft.com/kb/196955 "Cookie settings in Internet Explorer")
+  * [Internet explorer](http://windows.microsoft.com/en-GB/windows-vista/Block-or-allow-cookies "Cookie settings in Internet Explorer")
   * [Chrome](https://support.google.com/chrome/answer/95647?hl=en "Cookie settings in Chrome")
   * [Firefox](http://support.mozilla.com/en-US/kb/Cookies "Cookie settings in Firefox")
   * [Safari](http://docs.info.apple.com/article.html?path=Safari/3.0/en/9277.html "Cookie settings in Safari")
@@ -44,7 +44,7 @@ Many of our web pages contain links to social networking sites that are provided
   * [Facebook's Privacy Policy](http://www.facebook.com/about/privacy/ "Facebook's privacy policy")
   * [Twitter's Privacy Policy](https://twitter.com/privacy "Twitter's privacy policy")
   * [Google's + Buttons Privacy Policy](http://www.google.com/webmasters/+1/button/policy.html "Google's +1 privacy policy")
-  * [Discus’ terms and policies](http://docs.disqus.com/kb/terms-and-policies/)
+  * [Discus' terms and policies](http://docs.disqus.com/kb/terms-and-policies/)
 
 
 
