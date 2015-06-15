@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the couponing101.com privacy policy that was archived on 2014-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141219025803id_/http%3A//www.couponing101.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the couponing101.com privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615174017id_/http%3A//www.couponing101.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Couponing 101
+# Privacy Policy - Couponing 101
 
 **Couponing 101 respects your privacy.**
 
