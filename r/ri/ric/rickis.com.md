@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rickis.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220213500id_/http%3A//www.rickis.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rickis.com privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615025837id_/http%3A//www.rickis.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
