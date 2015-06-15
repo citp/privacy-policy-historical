@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the rakuten.co.uk privacy policy that was archived on 2014-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141211115543id_/http%3A//www.rakuten.co.uk/policy/privacy/%3Fl-id%3Dgb__footer_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rakuten.co.uk privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615030721id_/http%3A//www.rakuten.co.uk/policy/privacy/%3Fl-id%3Dgb__footer_privacy) for the most accurate reproduction.*
 
 # Rakuten.co.uk Shopping : Privacy Policy
 
-Dated: 2014/09/22
+Dated: 2015/01/05
 
 This Privacy Policy describes the information we collect and how we use it. It relates to your use of the following services (the "Services") in each case as applicable:
 
@@ -16,9 +16,9 @@ This Privacy Policy describes the information we collect and how we use it. It r
 
 WHO CONTROLS MY INFORMATION?
 
-Any information that you provide to us through your use of the Services is controlled jointly by Rakuten UK Shopping S.à.r.l., and its fellow group companies Rakuten Europe S.à.r.l., Rakuten US Inc., Rakuten Asia PTE LTD., Rakuten Deutschland GmbH, and Rakuten Inc. If you are a Merchant using Marketplace, then payment information collected in order to process Transactions and make and receive payments from Buyers is collected and controlled by Rakuten Payment Services SA ("RPSS"). Rakuten UK Shopping S.à.r.l., Rakuten Europe S.à.r.l., Rakuten US Inc., Rakuten Asia PTE LTD., Rakuten Deutschland GmbH, Rakuten Inc and RPSS are together "Rakuten" or "we" for the purposes of this Privacy Policy. If you have any questions about data we hold about you, you can contact us at: 
+Any information that you provide to us through your use of the Services is controlled jointly by Rakuten Europe S.à.r.l., and its fellow group companies, Rakuten US Inc., Rakuten Asia Pte Ltd., Rakuten Deutschland GmbH, and Rakuten Inc. If you are a Merchant using Marketplace, then payment information collected in order to process Transactions and make and receive payments from Buyers is collected and controlled by Rakuten Payment Services SA ("RPSS"). Rakuten Europe S.à.r.l., Rakuten US Inc., Rakuten Asia Pte Ltd., Rakuten Deutschland GmbH, Rakuten Inc and RPSS are together "Rakuten" or "we" for the purposes of this Privacy Policy. If you have any questions about data we hold about you, you can contact us at:
 
-Address: 2 Rue du Fosse, L-1536 LUXEMBOURG
+Address: 2 Rue du Fosse, Luxembourg, L-1536 LUXEMBOURG
 
 Email: [privacy@rakuten.co.uk](mailto:privacy@rakuten.co.uk)
 
@@ -66,7 +66,7 @@ WHO WE SHARE YOUR DATA WITH
 
 We may share this information with carefully selected and trusted third parties, including other Rakuten group companies and technical and other service providers to us. 
 
-If you are a Buyer and engage in a transaction with a third party Merchant your email address, postal address and contact information may be shared with the Merchant for the purpose of completing the transaction. You will also receive transactional emails from the Merchant confirming the order, including dispatch or eventual refund, and follow-up invitations to leave feedback for the Merchant. 
+If you are a Buyer and engage in a transaction with a third party Merchant your email address, postal address and contact information may be shared with the Merchant for the purpose of completing the transaction. You will also receive transactional emails from the Merchant confirming the order, including dispatch or eventual refund, and follow-up invitations to leave feedback for the Merchant.
 
 During any contact with Merchants, we strongly encourage Buyers to ask questions before you disclose personal information which the Merchant may not have obtained during the process of the order. Merchants are prohibited from asking a buyer for their payment card details, bank details or other payment method details. If Merchants and Buyers share information directly, that information is not governed by this Privacy Policy.
 
@@ -90,7 +90,7 @@ Please note that we do provide links to other services, which may not be governe
 
 ACCESSING YOUR PERSONAL INFORMATION
 
-You have the right to access your personal information that we hold by accessing your Account and, if necessary, have it amended or deleted. Some information, such as that displayed in a customer review or within Merchant feedback cannot be removed by you once given. 
+You have the right to access your personal information that we hold by accessing your Account and, if necessary, have it amended or deleted. Some information, such as that displayed in a customer review or within Merchant feedback cannot be removed by you once given.
 
 CLOSURE OF ACCOUNTS
 
