@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flipora.com privacy policy that was archived on 2014-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141210024309id_/http%3A//feedshare.flipora.com/new/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flipora.com privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615095332id_/http%3A//feedshare.flipora.com/new/privacy.html) for the most accurate reproduction.*
 
 # Flipora - Terms of Service and Privacy Policy
 
@@ -7,18 +7,6 @@
 [ ](http://clicktoverify.truste.com/pvr.php?page=validate&softwareProgramId=510&sealid=112)
 
 **Flipora** is a product by Infoaxe Inc.
-
-Flipora, a product from Infoaxe, solves two big problems for users.
-
-  
-
-
-  * Discovery: Bored on the Web? You'll never be anymore. Flipora recommends great websites to you automatically on topics you care about. Discover the freshest, most interesting websites of the day that are automatically recommended to you based on what like minded people enjoy each day.
-  
-
-  * Web History Search: Full text web browsing history search that's fast and efficient. You never have to waste time bookmarking or tagging pages that you want to get back to. Flipora automatically saves all the webpages you browse and makes it searchable from any computer or browser.
-
-
 
 **We value the privacy of our users and will never sell or rent your email address to third parties.**
 
@@ -36,7 +24,7 @@ If you have any questions about this Privacy Policy, the practices of this websi
 
 If you would like access to your personal information to correct, update, or delete it, please contact us at [support@flipora.com](mailto:support@flipora.com).
 
-Infoaxe is located at 440 N Wolfe Rd MS#153, Sunnyvale, CA 94085. You can cancel your Flipora account, unsubscribe from all emails by following the instructions [here](https://web.archive.org/web/20141210024309id_/http%3A//feedshare.flipora.com/new/cancelAccount.html). To uninstall the addon, follow the instructions [here](http://blog.flipora.com/2013/12/06/how-to-uninstall-flipora/).
+Infoaxe is located at 440 N Wolfe Rd MS#153, Sunnyvale, CA 94085. You can cancel your Flipora account, unsubscribe from all emails by following the instructions [here](https://web.archive.org/web/20150615095332id_/http%3A//feedshare.flipora.com/new/cancelAccount.html). To uninstall the addon, follow the instructions [here](http://blog.flipora.com/2013/12/06/how-to-uninstall-flipora/).
 
 Infoaxe Inc's application Flipora 2.0 is certified as a Trusted Download Program by TRUSTe signifying that the Flipora application has been tested by TRUSTe for compliance with TRUSTe's TDP program requirements including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding the Flipora application, please contact us at Infoaxe Inc., 440 N Wolfe Rd MS#153, Sunnyvale, CA 94085 or by email at [support@flipora.com](mailto:support@flipora.com). If you are not satisfied with our response you can contact TRUSTe [here](http://clicktoverify.truste.com/pvr.php?page=validate&softwareProgramId=510&sealid=112). The TRUSTe Trusted Download program covers only Flipora application and does not cover other applications such as mobile versions, Facebook or Twitter apps.
 
