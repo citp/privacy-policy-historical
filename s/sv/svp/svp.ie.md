@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the svp.ie privacy policy that was archived on 2014-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141126122854id_/http%3A//www.svp.ie/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the svp.ie privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615113904id_/http%3A//www.svp.ie/Privacy.aspx) for the most accurate reproduction.*
 
 # The Society of St. Vincent de Paul - Ireland - St Vincent De Paul
 
