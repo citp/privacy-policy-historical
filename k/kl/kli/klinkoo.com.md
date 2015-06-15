@@ -1,89 +1,59 @@
-> *The following text is extracted and transformed from the klinkoo.com privacy policy that was archived on 2014-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141213153633id_/http%3A//www.infocities.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the klinkoo.com privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615020321id_/http%3A//www.ecity.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-## INFOCITIES PRIVACY POLICY 
+Privacy Policy
 
-We have created this statement to communicate our commitment to privacy and to ensure that you are comfortable with the measures taken to enhance your experience with us. We are dedicated to providing a safe, secure and enjoyable environment in which to search a directory of local businesses. This statement details our current information gathering procedures, which are subject to change without notice. In order to confirm your understanding of our Privacy Policy, it is suggested that you review this Privacy Policy from time to time.
+eCity is committed to protect your privacy as users of our products and services provided under the eCity name and mark (collectively referred as eCity for the remainder of this Privacy Policy). This Privacy Policy is designed to inform you of the privacy practice that eCity uses to safeguard your personal information. We encourage you to read the following information and to acknowledge that eCity is a safe and secure environment for all Internet users.
 
-For any questions or comments regarding our Privacy Policy, please [contact](mailto:contact@infocities.com) our Help Center.
+Data collection and procession
 
-#### Information Collection and Use
+1\. How we collect information.
 
-  
+eCity gathers personal and technical information automatically when you register and/or use our products and services. We may collect information on frequency of visits, IP addresses, operating systems, browser software, and geographical locations of all users.
 
+2\. How we use the information.
 
-##### Registration
+To enhance the experience of users while using eCity, eCity may use information, provided in aggregate forms, to perform statistical analyses of the collective characteristics and behavior of users.
 
-In order to submit a business on InfoCities.com, a user must first complete the registration form. During registration a user is required to give contact information including name and email address. We use this information to contact the user about services on our site for which he has expressed interest.
+Cookies
 
-##### Order
+eCity uses a technology called cookies for aggregate date collection. A cookie is a file transferred from a website to the hard drive of your computer to allow the website to keep track of your activities while on the site. Cookies do not, however, allow the website to learn any personally identifying information about you, including your real name, physical address, age, telephone number, etc., unless you set the preferences in your browser to provide those information.
 
-Please note that Info Cities does not retain any financial information - we use Paypal, a payment gateway - they're the people who know the business of keeping your payment details secure, so that's why we use them. Paypal's use of your information is subject to Paypal's Privacy Policy. This Privacy Policy does not apply to, and we cannot control the activities of, Paypal or any other third party advertisers of offer providers. For more information about how Paypal looks after your financial details see Paypal's Privacy Policy and see how they help prevent identity theft.
+3\. How and when information is disclosed to third parties.
 
-#### Information Use
+eCity may provide statistical rating information as well as demographics and interests of users to third parties for the purpose of improving our services and resources. You should note, however, that eCity does NOT share any of your personal information with third parties for commercial purposes, unless you are informed of that at the time of collecting the information and thereby consent to having such information disclosed. eCity does reserve the right, however, to release any information if the user is involved in or conducts an illegal activity, or if the user is in violation of eCity's guidelines or user's agreement even without a subpoena, warrant, or other court order. Also, eCity does not assume any responsibility or liability for the acts of third parties concerning the privacy of eCity users, though eCity does take steps to prevent disclosure of users' personal information.
 
-  
+4\. How you can control the use of information.
 
+When you initially register for eCity services, the registration form will request certain, limited personal information about you. During this process, you may elect whether to allow eCity to disclose this limited personal information to third parties who may want to provide promotional materials to you. If you select to allow your personal information to be disclosed to such third parties, eCity will release that personal information to such third parties, including your real name, email address, age, and other information you have provided in the eCity registration profile. You have total control over the release of information. You may at any time change your designation concerning receipt of promotional materials by changing your personal profile  
+to indicate your new choice.
 
-##### PROFILE
+Children
 
-We store information that we collect through log files, and via the information provided during the Info Cities Submit service, to create a profile of our users. A profile is stored information that we keep on individual users that details their characteristics. Consequently, collected information is tied to the users personally identifiable information to provide offers and improve the user experience. We DO NOT share your profile with other third parties.
+eCity's utmost concern is for the safety and privacy of children users (eCity defines "children" as people under the age of 18 years.) eCity believes that parents and guardians should participate in their children's Internet experience. One way that eCity attempts to protect children's privacy is to request that they involve their parents or guardians in the registration process and in the processes of applying for a free personal home page, email services, and  
+other services provided on the Internet by eCity. In line with its policies concerning the protection of children, eCity does not disclose information collected from children to any third party for promotional purposes. eCity does not specifically collect information about children and believes that children should get their parents' or guardians' consent before giving out any personal information. eCity also recommends that parents or guardians use available filtering technology to supervise their children's access to the Internet. We also ask that children be especially cautious when participating in chat rooms and not give out any personal information at any time.
 
-##### LOG FILES
+5\. How you can correct the information.
 
-Like most standard Web site servers we use log files. This includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, track user’s movement in the aggregate, and gather broad demographic information for aggregate use. IP addresses, etc. are not linked to personally identifiable information.
+As noted above, you can change your personal information provided on the initial profile registration form. This can be done at any time. When you terminate your eCity membership, or if eCity terminates your membership for violation of its policies or for any other reason set  
+forth in eCity's guidelines and user agreement, all your personal information will be removed from eCity's active database. eCity may, however, retain some residual information about you within its records. This residual information will not be used by eCity for commercial purposes,  
+though eCity reserves the right to contact former members from time to time.
 
-#### Communications from the Site
+6\. How you can safeguard disclosure of your personal information on the internet.
 
-  
+Beware that, when communicating with others via the Internet, disclosing personal information runs the risk of unsolicited email from other parties outside eCity. Be careful to locate and read the privacy statement on any website where you are requested or elect to provide information about yourself. Inform your children that they should not give personal information to strangers on the Internet. In addition, children should be told not to fill out Internet forms or register at any domain without their parents' or guardians' prior knowledge and consent.
 
+Privacy Policy Changes
 
-##### SPECIAL OFFERS AND UPDATES
+eCity will post any changes to this Privacy Policy on this page or on the eCity.com website. Accordingly, you can always come to this page or that site to learn the information eCity gathers, how eCity may use that information, and whether eCity will disclose it to anyone.
 
-Established members will occasionally receive information on products, services, or special deals. Out of respect for the privacy of our users we present the option to not receive these types of communications. Please see the Choice and Opt-out sections.
+Contact eCity
 
-##### SERVICE ANNOUNCEMENTS
+eCity constantly strives to enrich users' experiences with advanced technology and knowledgeable insights. We encourages users to be aware of the distribution of personal information through our website. For more information on our privacy practices, please contact us.
 
-On rare occasions it is necessary to send out a strictly service related announcement. For instance, if our service is temporarily suspended for maintenance we might send users an email. Generally, users may not opt-out of these communications - these communications are not promotional in nature.
+• eCity
 
-##### CUSTOMER SERVICE
+• Attn: Privacy Policy
 
-We communicate with users on a regular basis to provide requested services and in regards to issues relating to their account we reply via email or phone, in accordance with the user’s wishes.
-
-#### Sharing
-
-  
-
-
-##### LEGAL DISCLAIMER
-
-Though we make every effort to preserve user privacy, we may need to disclose personal information when required by law wherein we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order or legal process served on our Web site.
-
-##### AGGREGATE INFORMATION (non-personally identifiable)
-
-We share aggregated demographic information with our partners and advertisers. This information includes: page views, unique visitors, browsers, and additional broad demographical data. This is not linked to any personally identifiable information.
-
-##### THIRD PARTY ADVERTISERS
-
-InfoCities.com shares Web site usage information about users with reputable third party advertisers for the purpose of targeting our advertisements. Be advised that tough we make every effort to accept only reputable advertisers, that we cannot held responsible for the Privacy Policies of any advertiser, promotional link, sponsor, or other third party. Please make sure to check the individual Privacy Policy of any third party site that you visit.
-
-#### Links
-
-This Web site contains links to other sites. Please be aware that we, Info Cities, are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site.
-
-#### Security
-
-We employ security measures to protect your information from access by unauthorized persons and against unlawful processing, accidental loss, destruction and damage. All information provided by you is stored on servers that are firewall protected.
-
-We shall use your personal information only in accordance with the terms of this Privacy Policy but, whilst we take reasonable precautions to secure any personal information, please be aware that it is not possible to guarantee the security of any information transmitted over the Internet or wireless network.
-
-#### Notice of Change
-
-If we decide to change our privacy policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We will use information in accordance with the privacy policy under which the information was collected.
-
-If, however, we are going to use users’ personally identifiable information in a manner different from that stated at the time of collection we will notify users via email. Users will have a choice as to whether or not we use their information in this different manner. However, if users have opted out of all communication with the site, or deleted/deactivated their account, then they will not be contacted, nor will their personal information be used in this new manner. In addition, if we make any material changes in our privacy practices that do not affect user information already stored in our database, we will post a prominent notice on our Web site notifying users of the change. In some cases where we post a notice we will also email users, who have opted to receive communications from us, notifying them of the changes in our privacy practices.
-
-#### Contact Information
-
-If users have any questions or suggestions regarding our privacy policy, please contact us at [contact@infocities.com](mailto:contact@infocities.com). 
+• [info@ecity.com](mailto:info@ecity.com)
