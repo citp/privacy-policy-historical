@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smallbusinessesdoitbetter.com privacy policy that was archived on 2014-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141228230940id_/http%3A//smallbusinessesdoitbetter.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smallbusinessesdoitbetter.com privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615064901id_/http%3A//smallbusinessesdoitbetter.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Small Businesses Do It BetterSmall Businesses Do It Better
 
