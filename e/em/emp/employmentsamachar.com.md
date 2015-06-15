@@ -1,21 +1,34 @@
-> *The following text is extracted and transformed from the employmentsamachar.com privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123133948id_/http%3A//employmentsamachar.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the employmentsamachar.com privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615102823id_/http%3A//employmentsamachar.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Sarkari Naukri | Latest Govt Jobs - Employmentsamachar.com
+# Privacy Policy for http://employmentsamachar.com/ - Sarkari Naukri | Government Jobs India
 
-## Current Government Jobs in India, Walk-in Interviews, Bank Jobs, Defence Jobs, Railway Jobs
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at **contact@employmentsamachar.com**.
 
-## Privacy Policy
+At http://employmentsamachar.com/, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by http://employmentsamachar.com/ and how it is used.
 
-This website does not collect Personal Information about you when you visit the site automatically. You can visit this website without revealing Personal Information, unless you choose to provide any such information.
+## Log Files
 
-## Site visit data:
+Like many other Web sites, http://employmentsamachar.com/ makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
 
-This website records your visit and logs the following information for statistical purposes your server’s address; the name of the top-level domain from which you access this website; the type of browser you use; the date and time you access the site etc. We will not identify users, except when a law enforcement agency may exercise a warrant to inspect the service provider’s logs.
+## Cookies and Web Beacons
 
-## 3rd Party Ads and Cookies:
+http://employmentsamachar.com/ does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser.
 
-We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information during your visits to this web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information.
+## DoubleClick DART Cookie
 
-## Collection of Personal Information:
+.:: Google, as a third party vendor, uses cookies to serve ads on http://employmentsamachar.com/.
 
-Your email address will only be recorded if you choose to send a message. It will only be used for the purpose for which you have provided it and will not be added to a mailing list. Your email address will not be used for any other purpose. If this website requests you for any other Personal Information you will be informed how it will be used. If at any time you believe the principles referred to in this privacy statement have not been followed, you can mail to us at **contact@employmentsamachar.com**.
+.:: Google’s use of the DART cookie enables it to serve ads to users based on their visit to http://employmentsamachar.com/ and other sites on the Internet.
+
+.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – http://www.google.com/privacy_ads.html
+
+Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include ….  
+Google Adsense
+
+These third-party ad servers or ad networks use technology to the advertisements and links that appear on http://employmentsamachar.com/ send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
+
+http://employmentsamachar.com/ has no access to or control over these cookies that are used by third-party advertisers.
+
+You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. http://employmentsamachar.com/’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
+
+If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
