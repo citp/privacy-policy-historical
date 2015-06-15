@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jlmpacificepoch.com privacy policy that was archived on 2014-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141128112244id_/http%3A//pacificepoch.com/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jlmpacificepoch.com privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615080827id_/http%3A//pacificepoch.com/privacy-notice) for the most accurate reproduction.*
 
 # Pacific Epoch -Privacy Notice
 
