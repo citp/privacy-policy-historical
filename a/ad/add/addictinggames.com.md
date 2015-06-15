@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the addictinggames.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231061613id_/http%3A//www.addictinggames.com/legal/privacy-policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the addictinggames.com privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615050700id_/http%3A//www.addictinggames.com/legal/privacy-policy.jsp) for the most accurate reproduction.*
 
 # Privacy Policy at Addictinggames.com
 
 **PRIVACY POLICY AND YOUR CALIFORNIA PRIVACY RIGHTS**
 
-**LAST UPDATED: 9/18/2014**
+**LAST UPDATED: 3/17/2015**
 
 Welcome! This Privacy Policy governs certain websites, online services, and software made available by for use on mobile devices, tablets, personal computers and other devices, which includes certain websites and online services operated by Defy Media, LLC (collectively, the "Defy Sites" and, individually, "Site"). By accessing any of the Defy Sites, you are consenting to this Privacy Policy. This Privacy Policy describes what information the Defy Sites collect from users, including children, when they visit the Defy Sites; how such information is used and stored; when such information may be disclosed to third parties; how users, parents, and guardians can control the use and disclosure of collected information; and how information is protected. 
 
@@ -14,291 +14,203 @@ Our visitors' privacy is important to us, and we recognize the need to provide a
 
 For your convenience, the following is a quick summary of our Privacy Policy. **Please read the entire Privacy Policy for more detailed information.**
 
-WHAT INFORMATION WE COLLECT. 
+**COMPANY'S AD CHOICES DISCLOSURE**
+
+Defy Media, LLC ("Defy") is committed to providing you with the very best experience we can on our network of websites and applications (collectively, the "Defy Sites"). In order to do so, we may gather certain information about you. Please read the following policy ("policy") to understand how certain of your information collected on the Defy Sites will be collected, used, shared and retained. 
+
+WHAT INFORMATION DOES DEFY COLLECT? 
 
 | 
 
-The Defy Sites collect only the information that is reasonably necessary for the activities available on the particular website. In general, we collect three types of information: 
-
-1\. Information that you actively give to us (for example, during registration, sweepstakes, purchases or content submissions); 
-
-2\. Information we automatically collect about your computer or wireless devices (such as your IP address, cookie ID, and other unique device identifiers); and 
-
-3\. Information we collect from third parties, including through your registered third-party social media providers.   
+When you visit the Defy Sites, we collect some basic information that does not identify individual users. (See the "Behavioral advertising" section below for more information on certain third parties who may also collect similar information when you visit the Defy Sites for online behavioral advertising purposes.) This includes which pages are visited, which advertisements are viewed, and any feedback from our visitors. We then aggregate this information with other pieces of information to improve our site and make your experience on the site as valuable and efficient as possible. For purposes of clarity, unless visitors submit personal information directly to us (e.g.: by means of a site registration, in connection with a contest, etc.), our sites do not collect visitorâs personal information. Additional information on how we treat personal information that is submitted directly to us and how such information may be shared may be found in our privacy policy.   
   
 ---|---  
   
-HOW WE STORE SUCH INFORMATION. 
+BEHAVIORAL ADVERTISING 
 
 | 
 
-We store your information using reasonable security precautions and for only as long as we think reasonably necessary. Despite such precautions, there is always a chance that someone may impermissibly access your information. If you think a third party has accessed your information, please contact us immediately as instructed below.   
+We analyze non-personal information that we collect on the Defy Sites, or obtain from third parties, and organize it into anonymous user profiles, groups, and audiences, based on factors such as age, gender, geography, interests and online actions. We and our clients and partners then use these anonymous user profiles, groups and audiences to design and deliver customized advertising campaigns or other relevant content. We and our clients also use this data for other related purposes (for example, to do research regarding the results of our online advertising campaigns or to better understand the interests or activities of our visitors.) The behavioral categories we use to customize the ads you may see or for related purposes do not use personal information such as your name, address, e-mail address, phone number, birth date or social security number. Our technology and services are designed to limit our use of data for purposes of behavioral advertising to anonymous, non-personal information. 
+
+When you visit any of the Defy Sites and view ads from Defyâs advertisers, Defy automatically receives and stores certain types of non-personal information including IP address, web pages viewed, date and time, and responses to advertisements delivered. While each advertising technology uses different types of technology to collect this information, including log files, cookies and pixels, none of the foregoing by itself or together can be tracked to a specific individualâs personal information, and the non-personal information collected by Defy will not be shared with third parties, except as expressly indicated in this policy. The non-personal information collected through your use of the Defy Sites is used to provide relevant, targeted advertising and improve Defyâs advertising technology; monitor website traffic; collect statistical data; determine the effectiveness of advertisements and content; and collect data across multiple websites to categorize likely consumer interest segments for use in online behavioral advertising. Defy may track visits to the Defy Sites and this information may be used over time to help predict your consumer interest segments and select the ad content you see. Defy may also use non-personally identifiable profile-based anonymous information with other non-personal information. 
+
+We permit Viacom International Inc. and its affiliates ("Viacom") to collect and use certain information about your visits to and use of certain Defy Sites for online behavioral advertising purposes. Please see http://srp.viacom.com/sitefaq.html to learn more about Viacom and its online behavioral advertising practices and how to opt out of online behavioral advertising by Viacom.   
   
-HOW WE USE SUCH INFORMATION. 
+TRANSPARENCY IN ONLINE BEHAVIORAL ADVERTISING 
 
 | 
 
-In general, the information we collect may be used to respond to your requests; enable you to take advantage of the Defy Sites' features and services; personalize your experience and the advertising you see; send you special offers and promotions from Defy, the Defy family of companies, and on behalf of third-parties whose products or services might be of interest to you; measure analytics; and manage and improve the services available on the Defy Sites.   
+Defy does not create or use potentially sensitive data segments to provide its targeted online behavioral advertising for advertisers, including, but not limited to, health related audience segments. Defy is a member of the NAI (Network Advertising Initiative) and adheres to the NAI Code of Conduct, which may be found [here](http://www.networkadvertising.org/code-enforcement/code), and the Digital Advertising Allianceâs Self-Regulatory Principles for Online Behavioral Advertising, which may be found [here](http://www.aboutads.info/obaprinciples).   
   
-INFORMATION WE SHARE WITH THIRD PARTIES. 
+OPT-OUT 
 
 | 
 
-Depending upon the circumstances, we may share collected information with (a) law enforcement or others as needed to protect or defend our rights and the rights of others; (b) third parties we hire to handle certain activities; (c) advertisers or third parties with whom we may partner to provide you additional content, products or services; (d) business partners who sponsor a sweepstakes or contest or who jointly offer a service or feature on the Defy Sites; (e) within the Defy family of companies; (f) in the event of a corporate transaction; and (g) otherwise with your consent.   
+You may choose to not participate in our personalized advertising services by "opting out" of such personalized advertising services through the Network Advertising Initiativeâs Consumer Opt-out Program. Opting out will not remove advertisements. You will continue to see advertisements provided by Defy, but the advertising will not be customized or targeted based on information collected by Defy. Your will need to update your opt-out preferences if you change/update browsers or computers, or if you delete cookies. See the "Behavioral advertising" section above for more information on how to opt out of online behavioral advertising by certain third parties on the Defy Sites.   
   
-WHAT INFORMATION OTHERS MAY COLLECT. 
+DATA RETENTION 
 
 | 
 
-We may use a number of advertising networks, analytics service providers and other such companies to, for example, serve targeted advertisements or analyze the performance of the Defy Sites. These companies may use their own unique identifiers, and their use of these technologies is within their control and not ours. These companies may use the information they collect from you consistent with their own privacy policies, which we encourage you to review.   
+We and our partners may retain the anonymous user data we or our partners collect on the Defy Sites for up to nine (9) months from the date of its collection, after which time it is deleted from, or deactivated on, our and our partnersâ active databases. In addition, we maintain archives of our web logs, database, and other systems and information. Please note that it is possible some of this information may remain archived after we delete or deactivate the information from its active database. We maintain archives for disaster recovery, legal and other non-marketing purposes.   
   
-YOUR CONTROL OVER YOUR INFORMATION. 
+WITH WHOM DO WE SHARE YOUR INFORMATION AND FOR WHAT PURPOSE? 
 
 | 
 
-You have the right to access, update and correct factual inaccuracies in any personally identifiable information we collect about you. 
-
-You can stop the delivery of commercial e-mail messages from the Defy Sites by following the instructions in e-mails you receive. 
-
-You may have choices about the use of your information by third parties wishing to deliver certain targeted advertising to you. 
-
-Parents and guardians can review any personally identifiable information collected about their children and request that such information be deleted and/or that no further information be collected.   
+Except as may otherwise be expressly set forth in this policy or in our privacy policy, Defy does not sell, rent, or trade any personally identifying information with third parties unless users consent to such sharing practices. We may from time to time share user information in a non-personally identifiable manner with advertisers and other third parties in order to present to users more targeted advertising, products and services.   
   
-WHO WE ARE 
+WHAT ARE "COOKIES" AND "WEB BEACONS" AND HOW DO WE USE THEM? 
 
 | 
 
-The Defy Sites are made available by Defy. If you have any questions about our information handling practices, including our practices with respect to children's personal information, please contact us at: 
+The Defy Sites may use "cookies" and "web beacons" to speed navigation, keep track of items viewed, clicked on and/or shared, including links and advertisements, and provide you with custom-tailored services. A "web beacon" is an embedded GIF file that specifically helps us track whether you have viewed a specific piece of content. We also use "cookies" to remember information you gave us so you donât have to re-enter it each time you visit the Defy Sites. By showing us how and when visitors use the Defy Sites, "cookies" and "web beacons" allow us to see which Defy Site areas and content are popular, and help us target content and advertisements based on user behavior. In addition, "cookies" will allow us to display in your profile which Defy and affiliated websites you have visited, unless you opt out of that feature in your account. We also collect IP addresses for system administration and to report aggregate information to any sponsors. Some advertisers or websites that have links on our site may also use their own "cookies." We do not control these "cookies." You should check the privacy policy of these advertisers or websites to see whether and how they use "cookies." 
 
-Defy Media, LLC, 498 7th Avenue, 19th Floor, New York, NY 10018, Attn: Privacy. Or email us at: **privacy@defymedia.com**. Or call this number: +1 212-244-4307   
+Most browsers are initially set to accept "cookies." If youâd prefer, you can set yours to refuse "cookies." You will not be able to fully use the Defy Sites if you turn off the "cookies" option. 
+
+If you have any questions or concerns about this policy you may contact us or write to the following address: 
+
+Defy Media, LLC  
+498 7th Avenue, 19th Floor  
+New York, NY 10018  
+Attn: Privacy  
+Telephone: (212)244-4307  
+Facsimile: (212)244-4311  
+E-mail: privacy@defymedia.com   
   
-**I. INFORMATION COLLECTION AND USE.**
+**DISCLOSURE REGARDING COLLECTION AND USE OF PERSONAL INFORMATION.**
 
-We may request or collect certain information when you visit the Defy Sites. However, visitors are required to share only the information that is reasonably necessary to participate in the particular activity. 
+Through the Defy Site, users may enter personal information about themselves. This policy explains our online information collection and use practices for the Defy Site, and the choices you can make about the way we use and share such information. Please take the time to read and understand this policy so that you can understand how we use your personal information. Please note that our online information collection and use practices may differ from our practices regarding information obtained offline. 
 
-**A. Registration Information:** The information required to register varies by Site, but may include: (a) birth date; (b) gender; (c) country; (d) state; (e) zip code; (f) user name and password; (g) wireless telephone number; (h) email address; and (i) other profile information such as avatar preferences, communications preferences, and interests. For certain countries, visitors will receive an activation email and must follow the procedures or otherwise agree to the terms within the activation email within a certain time period to activate the account; accounts not activated within that time period will be deleted. 
+REMEMBER: IF YOU MAKE USE OF THE SITE, REGISTER WITH THE SITE, REQUEST INFORMATION THAT WE MAY OFFER, OR SUBMIT INFORMATION IN ANY WAY TO OR THROUGH THE SITE YOU AGREE TO THIS POLICY. 
 
-Registration information is used to enable visitors to take advantage of site offerings; respond to visitor's requests for products, services, and information; manage games; serve appropriate material; customize the content you see when you visit the Defy Sites; and offer visitors special offers and promotions from the Defy Sites and the "Defy family of companies" (which comprises Defy Media, LLC and its subsidiaries and affiliates), as well as on behalf of selected third parties offering products, programs or services, that we believe may be of interest to you. 
+**THE INFORMATION WE COLLECT.**
 
-**B. Social Platform Registrations and Social Media Plugins:** Some of the Defy Sites permit or require users who are at least 13 years old to register or log into their account via a social networking platform such as Login with Facebook or Flux, or permit you to use social media plugins such as the Facebook "Like" or Google "+1" buttons. When you use these social networking platforms and plugins, your username and password for the services and other information available about you or collected from you on these services may be shared with us. 
+We may collect information about you through a variety of methods, such as your participation in games, quizzes, contests, chat rooms, forums or the like or other documents and information that you submit to us, transactions in which you may engage with us or parent, subsidiary, and affiliated companies of Defy Media, LLC (collectively, "Defy Affiliates"), or through visits that you may make to the Defy Site. This policy applies to all personal information that we may collect and maintain about our users via the Defy Site, such as: 
 
-When you use social networking platforms and plugins, you share your information with them and their privacy policy applies to their collection, use, and disclosure of such information. In addition, they may be able to collect information about you, including your activity on the Defy Sites, and they may notify your connections on the social networking platform about your use of the Defy Sites. Such services may also employ unique identifiers which allow your activity to be monitored across multiple websites for purposes of delivering more targeted advertising to you. For more information about Login with Facebook, please go [**here**](http://www.facebook.com/help/?page=730). For more information on Flux, please go [**here**](http://www.socialproject.com/UserAgreements/enUS/privacypolicy.html). Please note that their privacy policies may be different from our own and we encourage you to read them. 
+  * Your contact information (such as name, Twitter handle, postal and email address, or phone number); 
+  * Username and password for the account you may establish on the Defy Site; 
+  * Demographic information (such as age, date of birth and gender); 
+  * Location information, such as the real-time geographic location of the device on which you install our mobile applications; and 
+  * Other details that you may submit to us or that may be included in the information provided to us by third parties. 
 
-**C. Computer Information Collected by Us:** When visitors come to a Site, we may automatically collect certain information from their computers or mobile devices, such as the type of computer operating system (e.g., Windows XP or Mac OS), the visitor's IP address, the web browser (e.g., Internet Explorer, Safari, Chrome and Firefox), UDID (for certain mobile devices), information about the websites visited before and after visiting the Site, the web pages and advertisements viewed and links clicked on within the Defy Sites, interactions with e-mail messages sent by a Site or the Defy family of companies ( ** _e.g._** , links clicked on and whether the messages were opened or forwarded), information collected through the use of unique identifiers such as cookies (see below), information regarding the Internet service provider, and other standard server log information ("Computer Information"). 
 
-We may use cookies, web beacons, tokens or similar technologies (collectively referred to as "Tracking Technologies") on the Defy Sites. "Cookies" (which may be html files, Flash files or other technology) are text files that help store user preferences and activity. "Web beacons" (also known as image tags, gif or web bugs) are small pieces of code used to collect advertising data, such as counting page views, promotion views or advertising responses. "Tokens" are unique persistent identifiers that are generated and sent from a server to a user's device to identify an interaction session, such as the authentication for a user's cable provider service, and which are usually stored as an HTTP cookie. The Site and/or third parties may use Tracking Technologies to collect Computer Information automatically as you browse the Site and the web. Please visit [**Online Tracking and Advertising** ](http://www.defymedia.com/online-tracking-and-advertising)for further information regarding the collection and usage of your personal information, including how to disable cookies. 
 
-We may use Tracking Technologies to help tailor our content, allow users to move between certain Defy Sites without logging into each Site, enable the internal functioning of the Defy Sites, understand Site and internet usage, improve or customize the content, offerings or advertisements on this Site, personalize your experience on the Site (for example, to recognize you by name when you return to the Site), understand your interactions with email messages originating from the Defy Sites or the Defy family of companies (such as the links clicked on and whether the messages were opened or forwarded), save your password, save your online game or video player settings, enable you to use shopping carts, help us offer you products, programs or services that may be of interest to you, deliver relevant advertising, maintain and administer the Defy Sites. These Tracking Technologies collect "click stream" data and additional other information regarding your visits to the Defy Sites (such as your visits to specific webpages, use of features, purchasing history or preferences), may collect such other information across multiple sessions on the Defy Sites and other websites offered by the Defy family of companies and may also collect your IP address or some other identifier unique to the device you use to access the site ("Identifier"). An Identifier may be automatically assigned to any device you use to access the Defy Sites. 
+You may view or change your personal information at any time by contacting us. Please see "How to Contact Us" later in this policy. 
 
-By visiting a Site, whether as a registered user or otherwise, you acknowledge, understand and hereby agree that you are giving us your consent to set and access Cookies on your device and track your activities and your use of a Site through these Tracking Technologies and Identifiers and that we may use Tracking Technologies in the emails we send to you. 
+You also can engage with our content, such as video, games, applications, and other offerings, on or through third-party social networking sites, such as Facebook or third-party social media plug-ins and applications. When you engage with our content on or through third party social networking sites, plug-ins and applications, you may allow us to have access to certain information from your social media profile (e.g., your name, e-mail address, photo, gender, birthday, location, list of friends, people you follow and/or who follow you, the posts or the 'likes' you make) to deliver the content or as part of the operation of the application. We may also obtain non-personal information (e.g., content viewed, games played and performance, high scores, and information about advertisements within the content you have been shown or may have clicked on) from your interaction with our content. 
 
-The Defy Sites adhere to the [**Self-Regulatory Program for Online Behavioral Advertising**](http://www.aboutads.info/choices/); please click on the link thereto for more information about the Defy Sites and online behavioral advertising. 
+When you provide information from your social media account, it can help enable us to do things like: (i) give you exclusive content; (ii) personalize your online experience with us within and outside our applications or websites; and (iii) contact you through the social networking sites or directly by sending you the latest news, special offerings, and rewards. By doing so, you consent to the use of such information in accordance with our privacy policy. When you provide personal information to us through an application, on the Defy Site, or on social networking sites, it may be publicly viewed by other members of these sites and we cannot prevent further use of the information by third parties. 
 
-Our Third Party Advertising Service Providers (as defined in Section D) do not have access to Tracking Technologies set by the Defy Sites except to the extent necessary to provide services to the Site. The Third Party Advertising Service Providers, as well as advertisers, may themselves set and access their own Tracking Technologies on your Device if you choose to have Tracking Technologies enabled in your browser (or, for Flash cookies, if you have not removed them) and/or they may otherwise have access to other information about you. 
+Through some social networking sites' privacy settings, you can control what data you share. For more information about how social networking sites handle your personal information, please refer to their respective privacy policies and terms of use. 
 
-You have a number of options with respect to the Tracking Technologies set by the Defy Sites: 
+**Other Collected Information**
 
-  * You can prevent the use of certain Tracking Technologies (other than Flash cookies) by using the controls in your Web browser. To do so, you must complete both of the steps following your browser type below: 
+We also may use third-party website analytics tools (such as Omniture or Google), that collect information about visitor traffic on the Defy Site. The information that may be collected by automated means includes: 
 
+  * Information about the devices our visitors use to access the Internet (such as the IP address and the device, browser and operating system type); 
+  * URLs that refer visitors to the Defy Site; 
+  * Dates and times of visits to the Defy Site; 
+  * Information on actions taken on the Defy Site (such as page views and Defy Site navigation patterns) 
+  * A general geographic location (such as country and city) from which a visitor accesses our Defy Site; and 
+  * Search terms that visitors use to reach the Defy Site. 
 
-  * **Internet Explorer**
 
 
-  * _Delete existing Tracking Technologies_ through the "Internet Options" sub-option of the "Tools" menu option of your browser or otherwise as directed by your browser's support feature; and 
-  * _Disable future Tracking Technologies_ by using the same browser controls. Additional information on disabling most Tracking Technologies may be available through your browser's support feature. (See the "help" section of your browser for more information.) 
+**When you use our mobile applications on your mobile device, you may choose not to share your geo-location details with us by adjusting the device's location services settings. For instructions on changing the relevant settings, please contact your service provider or device manufacturer.**
 
+**HOW WE USE YOUR PERSONAL INFORMATION.**
 
-  * **Google Chrome**
+We use your personal information to provide you with products or services that you have requested, to respond to questions or communications and to get in touch with you when necessary. For example, we may use your personal information to communicate with you or to send you information that you have requested. Additionally, by registering for the Defy Site you will be automatically entered into sweepstakes and contests held on the Defy Site. We may send to you an e-mail offering products or services which we think you may be interested in or to ask you to participate in a survey. We do not consider any companies that are within our "family" of companies to be "third parties" for purposes of this policy. Thus, we may also share personal information with Defy Affiliates. Defy Affiliates may use and further share personal information in the same ways we do. However, if we pass on personal information to a Defy Affiliate, we require that it protect such information in a manner that is consistent with this policy and your expressed preferences. For example, a Defy Affiliate may send to you an e-mail regarding special offers and announcements about products or services that it thinks might be of interest to you, or contact you offline. If you want to opt-out from our (or a family company) using the personal information you provided in these ways, please contact us. Please see "How to Contact Us" later in this policy. 
 
+**HOW WE SHARE YOUR PERSONAL INFORMATION.**
 
-  * _Delete existing Tracking Technologies_ through the "Clear Browsing Data..." sub-option of the "Tools" menu option of your browser or otherwise as directed by your browser's support feature; and 
-  * _Disable future Tracking Technologies_ by using the same browser controls. Additional information on disabling most Tracking Technologies may be available through your browser's support feature. (See the "help" section of your browser for more information.) 
+We will not share your personal information with third parties except (a) if it is for the purpose(s) you provided it; (b) as may be required by law or as we think necessary to protect our company or others from injury (e.g. in response to a court order or subpoena, in response to a law enforcement agency request or when we believe that someone is causing (or about to cause) injury to or interference with the rights or property of another); and (c) with other persons, service providers, or companies with whom we contract to carry out internal Defy Site operations or our business activities (for example, sending out a product or a promotional item that you have requested on the Defy Site). Examples of us sharing your personal information for the purposes submitted are if you participate in a third-party survey or request information from a third-party, we may provide the information provided to such third party so that they can send to you directly the information you requested. Additionally, with your consent, we may share your personal information with companies not affiliated with us (i.e. third party companies) who are interested in marketing their products or services to you or in asking you questions, both online and offline. Companies with whom we might share your personal information may include consumer products, telecom, financial, military, market research, entertainment, and educational services companies and their third party service providers. If you consent to receiving communications from non-affiliated companies, you may need to communicate with them directly if you later decide that you no longer wish to receive their communications or if you wish to change any data you provided online. In this instance, any changes or amendments to your personal information must be given directly to each company who communicates with you as these changes, amendments and/or deletions will not be exchanged between us and non-affiliated companies. If we do share personal information with a non-affiliated company, to the extent practical, we require that they protect such information in a manner that is consistent with this policy. We cannot, however, guarantee how these non-affiliated companies will use your personal information. 
 
+**USE AND DISCLOSURE OF ANONYMOUS INFORMATION.**
 
-  * **Mozilla Firefox**
+We may use the non-personal information that we collect to improve the design and content of the Defy Site and to enable us to personalize your Internet experience, including the ads that you see. We also may use this information in the aggregate to analyze how the Defy Site is used, as well as to offer you products, programs or services. See the "Online Tracking and Advertising" section below and the Ad Choices link for more information on personalized ads (also known as online behavioral advertising). We also share aggregate information with Defy Affiliates and third parties. 
 
+**RECEIPT OF COMMUNICATIONS; OPT-OUT.**
 
-  * _Delete existing Tracking Technologies_ through the "Clear Recent History..." sub-option of the "History" menu option of your browser or otherwise as directed by your browser's support feature; and 
-  * _Disable future Tracking Technologies_ by using the same browser controls. Additional information on disabling most Tracking Technologies may be available through your browser's support feature. (See the "help" section of your browser for more information.) 
+If you would prefer not to receive marketing or promotional e-mails from us that may relate, for example, to new services or offerings, you may opt-out of receiving these communications by clicking [here](http://www.addictinggames.com/help/help.jsp#EmailSettings) to (i) deregister your account; or (ii) change or edit your preferences. You may also use the opt-out mechanism that is contained in an email. 
 
+If you would like to opt-out of receiving marketing or promotional postal mail from us, please click [here](http://www.addictinggames.com/help/help.jsp#EmailSettings) or let us know in writing via letter addressed to: Attn: Privacy, Defy Media, LLC 498 7th Avenue, 19th Floor, New York, NY 10018. For all postal mail opt-out requests, please include your name, street address, city, state, and zip code. We cannot accept postal mail opt-out requests via telephone or facsimile, nor will we be responsible for notices that are not labeled or sent properly or lack complete information. Please note that we may require up to sixty (60) days to fully remove your postal mail information from our mailings. 
 
-  * You may be able to have the device you use to access the Defy Sites warn you each time a cookie or most other Tracking Technologies is being set (other than Flash cookies), or you can choose to turn off such warnings. This is done through your browser on the device you use to access the Defy Sites. Additional information on warnings and removal of warnings may be available through your browser's support feature. 
+Following your opt-out, please be aware that we, or Defy Affiliates, may continue to contact you via email or postal mail for administrative or informational purposes, including, but not limited to, follow-up messages regarding the administration of your account, any services, features or functions you have affirmatively enrolled in or registered to use, any promotions or sweepstakes you have participated in or have entered, goods, services or products you have ordered or other transactions you have undertaken on the Defy Site. 
 
+**COLLECTION OF INFORMATION BY OTHERS.**
 
+The Defy Site may contain links to other websites, including links that are placed there by us, such as third-party advertisements or text hyperlinks. Please be aware that we are not responsible for the privacy practices of any other website. We encourage all users of the Defy Site to be aware of when they leave the Defy Site, and to read the privacy policies of each and every website that collects personal information. This privacy policy applies solely to information collected by the Defy Site, through the Defy Site. We may offer additional e-mail services or promotions that are sponsored by or co-sponsored with non-affiliated companies. Based on our agreement with them, these third parties may obtain personal information that Defy Site visitors voluntarily submit to participate in the contest, sweepstakes, or promotion. We have no control over the use of this information by these companies. 
 
-Please note that deleting, rejecting, disabling or turning off Tracking Technologies through the above options will not remove Flash cookies. For more information about Flash cookies and how to remove them from your computer, please visit [**here**](http://kb2.adobe.com/cps/526/52697ee8.html)
+**ONLINE TRACKING AND ADVERTISING.**
 
-Please be aware that certain areas and features of the Defy Sites can only be accessed in conjunction with Tracking Technologies, and that disabling Tracking Technologies might prevent you from accessing such content. 
+We collect information regarding the Defy Site visitors through various technologies, such as cookies, Flash cookies and Web beacons, including when you visit the Defy Site or use our applications on third-party sites or platforms. Please visit Ad Choices for further information regarding this collection and usage, including how to disable cookies and online behavioral advertising practices on the Defy Site. 
 
-**D. Computer Information Collected By Others:** Defy uses the services of third parties who may collect, use or disclose cookie information, IP addresses or other identifiers from devices and/or browsers of users who visit the Defy Sites. The Defy Sites use a variety of third-party advertising networks, data exchanges, traffic measurement service providers, marketing analytics service providers, and other third-party service providers (collectively, "Third Party Advertising Service Providers") to, for example, serve advertisements on the Defy Sites, facilitate targeting of advertisements, and measure and analyze advertising effectiveness and/or traffic on the Defy Sites ("Targeting Services"). These Targeting Services enable us to display advertisements based on your visits to the Defy Sites and other websites you have visited and may include delivering advertisements or other content for products and services that may interest you. Targeting Services also help prevent you from seeing repeated advertisements and enable us to research the usefulness of certain advertisements. 
+**CLICKSTREAM DATA.**
 
-These Third Party Advertising Service Providers do not have access to Tracking Technologies set by the Defy Sites except to the extent necessary to provide services to the Defy Sites. The Third Party Advertising Service Providers, as well as advertisers, may themselves set and access their own Tracking Technologies on your device if you choose to have Tracking Technologies enabled in your browser (or, for Flash cookies, if you have not removed them) and/or they may otherwise have access to Other Information about you. In addition, Third Party Advertising Service Providers may collect aggregate log data separately and independently from what the Defy Sites collect. 
+As you use the Internet, a trail of electronic information is left at each web site you visit. This anonymous information, which is sometimes referred to as "Clickstream Data," can be collected and stored by a web site's server. Clickstream Data can tell us the type of computer and browsing software you use and the address of the web site from which you linked to the Defy Site. We may use Clickstream Data as a form of non-personal information to anonymously determine how much time visitors spend on each page of the Defy Site, how visitors navigate throughout the Defy Site and how we may tailor our web pages to better meet the needs of visitors. Any collection or use of Clickstream Data will be anonymous and aggregated. 
 
-You should be aware that different rules might apply to the collection, use or disclosure of your information by third parties in connection with their advertisements, promotions and other websites you encounter on the Internet. The use of such technology by these third parties is within their control and not the Defy Sites. Even if we have a relationship with the third party, we do not control those sites or their policies and practices regarding your information and those sites may use the information they collect from you consistent with their own privacy policies, which we encourage you to review. We encourage you to research and direct any of your questions in this regard to these third parties. 
+**SUPPLEMENTING INFORMATION.**
 
-With respect to the Tracking Technologies set by Third Party Advertising Service Providers and advertisers (and outside the control of the Defy Sites), you have a number of options: 
+From time to time we may supplement information you give us with information from other sources, such as information validating your address. Thus, information we obtain through the Defy Site may be intermingled with and used in conjunction with information obtained through sources other than the Defy Site, including both offline and online sources. 
 
-  * You can opt-out of the use of information for these advertising purposes by DoubleClick by using those Providers' opt-out tools. You can access DoubleClick's at [ **http://www.google.com/intl/en/policies/technologies/ads/** ](http://www.google.com/intl/en/policies/technologies/ads/) . We also may from time to time permit other Third Party Advertising Service Providers and Advertisers to collect Information on the Defy Sites. Some of these Providers and Advertisers may participate in the [**Network Advertising Initiative's Opt-Out Tool**](http://www.networkadvertising.org/managing/opt_out.asp) and/or the [**Self-Regulatory Program for Online Behavioral Advertising**](http://www.aboutads.info/choices/) **.** Please click on the links to these tools to learn more about your choices. 
+**DISCUSSIONS AND COMMUNITY TOOLS.**
 
+We may, from time to time, make review lists, chat rooms, forums, message boards, blogs, newsgroups and other community tools available to you. Please remember that any information that is disclosed in these areas becomes public information for other users to view and for us to use. For example, from time to time, we may use the content you write (including your name or screen name if you post it) for promotional purposes, in e-mail newsletters or elsewhere, and by using the Defy Site and/or these chat rooms, forums, message boards, news groups, and other community tools, you agree that we may do so. You should exercise caution when deciding to disclose your personal information in these areas, since anyone - not just us - may access your publicly posted information. 
 
-  * Please note the following with respect to opting out of Tracking Technologies set by Third Party Advertising Service Providers and advertisers: 
+**OUR COMMITMENT TO SECURITY.**
 
+We take commercially reasonable steps to protect your personal information from loss, misuse, and unauthorized access, disclosure, alteration, or destruction. Please understand, however, that no security system is impenetrable. We cannot guarantee the security of our databases, nor can we guarantee that the personal information that you supply will not be intercepted while being transmitted to and from us over the Internet including, without limitation, emails. Therefore, you acknowledge and agree that we have no liability regarding the theft, loss, alteration or misuse of personal information, including such information that has been provided to third parties or other users, or with regard to the failure of a third party to abide by the agreement between us and such third party. 
 
-  * **_The opt-out tools discussed above are "cookie based."_** This means that the tools rely on cookies to remember your choices with respect to the use of your information by the parties that offer you those choices. If you opt-out but then use the controls in your browser to delete all Tracking Technologies, you may have to opt-out again, a second time, in order to re-establish your opt-out preferences. 
+**NOTICE TO CALIFORNIA-BASED USERS.**
 
+Under California Civil Code Section 1798.83, if you are a resident of California, you may make a written request to the Defy Site about how we have shared your personal information during the prior calendar year with third parties for their direct marketing purposes. In response to your written request, under California Civil Code Section 1793.83(c)(2), the Defy Site is allowed to instead provide you with a cost-free means to opt-out of such sharing, or a "Customer Choice Notice." The term "third parties" is, solely for purposes of this California Privacy notice, considered as including our Defy Affiliates. 
 
-  * **_Opt-outs are browser-specific._** This means, for example, that if you opt out while using Internet Explorer 9, this choice will not affect the collection of information collected by Tracking Technologies when you use Mozilla Firefox on the same device. It also means that opting out on one device will not affect the collection of information by Tracking Technologies on other devices you may use to access the Defy Sites. 
+The Defy Site has chosen to provide you with a cost-free means to opt-out of such sharing. If you would like to exercise your rights under California law, please send your written request to the email address or postal address below, or call us at telephone number below. Within 30 days of receiving your request, the Defy Site will provide you with a Customer Choice Notice. 
 
+Defy Media, LLC  
+498 7th Avenue, 19th Floor  
+New York, NY 10018  
+Attn: California Privacy
 
-  * You also can prevent the use of certain Tracking Technologies (other than Flash cookies) on a particular device by using the controls in your Web browser. To do so, you must complete both of the following steps: 
+Telephone: (212)244-4307  
+Facsimile: (212)244-4311  
+E-mail: privacy@defymedia.com 
 
+The California Business & Professions Code Section 22575(b) (as amended effective January 1, 2014) provides that California residents are entitled to know how the Defy Site responds to "Do Not Track" browser settings. The Defy Site does not currently take action to respond to Do Not Track signals, as a uniform technological standard has not yet been developed. We continue to review new technologies and reserve the right to adopt a standard once one is created. 
 
+**INTERNATIONAL USERS.**
 
-1\. Delete existing Tracking Technologies through the "Internet Options" sub-option of the "Tools" menu option of your browser or otherwise as directed by your browser's support feature; and 
+If you are visiting the Defy Site from a location outside of the United States, your connection will be through and to servers located in the United States and all information you provide will be processed and maintained in our web servers and internal systems located within the United States. IN ADDITION, IF YOU ARE LOCATED OUTSIDE THE UNITED STATES, YOU SHOULD NOTE THAT YOUR INFORMATION WILL BE TRANSFERRED TO THE UNITED STATES, THE LAWS OF WHICH MAY BE DEEMED BY OTHER COUNTRIES TO HAVE INADEQUATE DATA PROTECTION (see, for example, European Union Directive 95/46/EC of 24 October 1995, a copy of which can be found [here](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31995L0046:en:HTML)). Users of the Defy Site located in countries outside of the United States of America who submit personal information do thereby consent to the general use of such information as provided in this privacy policy and to the transfer of that information to and/or storage of the information in the United States of America. This policy and our legal obligations are subject to the laws of the State of New York and the United States of America, regardless of the location of any user. Any claims or complaints must be filed in the United States of America in the State of New York. 
 
-2\. Disable future Tracking Technologies by using the same browser controls. Additional information on disabling most Tracking Technologies may be available through your browser's support feature. (See the "help" section of your browser for more information.) 
+**HOW YOU CAN ACCESS OR CORRECT YOUR PERSONAL INFORMATION.**
 
-  * You may be able to set the device you use to access the Defy Sites to warn you each time a cookie or most other Tracking Technologies is being set (other than Flash cookies), or you can choose to turn off such warnings. This is done through your browser on the device you use to access the Defy Sites. Additional information on warnings and removal of warnings may be available through your browser's support feature. 
+For instructions on how you can access the personal information that we have collected about you online, correct any errors, or remove such information, please contact us. Please see "How to Contact Us" later in this policy. 
 
+To protect your privacy and security, we will take reasonable steps to help verify your identity before granting access or making corrections. 
 
-  * Opting-out of, deleting, rejecting, disabling or turning off Third Party Advertising Service Providers' Tracking Technologies does not mean that you will no longer receive online ads. Opting-out of, deleting, rejecting, disabling or turning off Third Party Advertising Service Providers' Tracking Technologies only means that such ads will no longer be tailored to your specific viewing habits or interests, but you will continue to see ads on the Defy Sites. 
+**SPECIAL NOTE FOR PARENTS.**
 
+We will not knowingly accept personal information from anyone under 13 years old in violation of applicable law. If you believe that your child under 13 has gained access to the Defy Site without your permission, please contact us. Please see "How to Contact Us" later in this policy. We have taken commercially reasonable steps to restrict use of the Defy Site to those who are at least 13 years old. We do not market products or services for purchase by children and all children's products or services we market are for purchase by adults only, or with adult permission. 
 
-  * PLEASE NOTE THAT THE USE AND STORAGE OF FLASH COOKIES TYPICALLY CANNOT BE CONTROLLED THROUGH YOUR BROWSER. For more information about Flash cookies and how to remove them from your computer, please visit [**here**](http://kb2.adobe.com/cps/526/52697ee8.html)
+**TRANSFER OF BUSINESS ASSETS.**
 
+Notwithstanding anything contained in this policy to the contrary, please be advised that the personal information you provide is considered an asset of the Defy Site and may be included among transferred assets if the Defy Site, Defy Media, LLC, any or all of the Defy Affiliates, and/or any of their assets are ever acquired by, or merged into, a third party. 
 
+**CHANGES TO THIS POLICY.**
 
-Do-Not-Track Signals and Similar Mechanisms. Some web browsers may transmit "do-not-track" signals to the websites with which the browser communicates. Because of differences in how web browsers incorporate and activate this feature, it is not always clear whether users intend for these signals to be transmitted, or whether they even are aware of them. There currently is disagreement, including among participants in the leading Internet standards-setting organization, concerning what, if anything, websites should do when they receive such signals. 
+Personal information collected via the Defy Site will generally be governed by the version of the policy in effect at the time the information was gathered. However, we may, in our discretion, change, modify, add, or remove portions from this policy at any time. Your continued use of the Defy Site following the posting of any changes to this policy means you accept such changes. This policy is effective as of the date set forth above. 
 
-We currently do not take action in response to these signals, but, if and when a final standard is established and accepted, we may reassess how to respond to these signals. Instead, as set forth above, please see the link to the Self-Regulatory Principles for Online Behavioral Advertising program that we follow that offers you choice regarding Information collected for online behavioral advertising purposes and the browser cookie controls and other mechanisms described above in Section I(C). 
+**HOW TO CONTACT US.**
 
-**E. Contests and Sweepstakes:** The Defy Sites may offer online contests and sweepstakes. To enter these contests and sweepstakes, you may be required to provide your first name and email address and/or additional information required for the management of the contest or sweepstakes. 
-
-**F. Electronic Postcards and Messages:** Some Defy Sites provide visitors the opportunity to send electronic postcards and "wish lists" of items they want to family or friends, which means we will send, on the visitor's behalf, email messages to family and/or friends. To do so, visitors must provide the email address of the recipient of such electronic postcards or email messages. Visitors must only provide email addresses of people who they know would be happy to receive such electronic postcards or email messages. Email addresses provided to us for this purpose are used solely to send the requested postcard or email message and are deleted from our system once the postcard or message is sent. In some cases, we may offer visitors an incentive ( ** _e.g._** , points to be used in an online game) for referring information about products to the visitor's family or friends. In such cases, we will comply with all applicable legal requirements. Please note that this feature may not be available to visitors in certain regions or countries. 
-
-**G. Electronic Newsletters:** Visitors can provide their email addresses to receive email newsletters and promotions from Defy, the Defy family of companies, and our business partners. Visitors may change their preferences regarding emails at any time through the unsubscribe link in the newsletters or, for certain Defy Sites, by logging into and changing the preferences for their account. 
-
-**H. Interactive Features and Services:** Some of the Defy Sites offer interactive features and services, such as message boards, chat rooms, electronic mail services, comment boxes, messaging services, and member profile pages. We use the information collected through interactive features and services to enable you to participate in such features and services. 
-
-**I. Wireless Marketing Services:** Consistent with local law, appropriately aged visitors may have the opportunity to register for special promotions, services, news, programming and information delivered via text messaging and/or wireless devices. To do so, visitors may be asked to provide their telephone number, email address, carrier's name, and/or their opinion regarding certain goods and/or services. Visitors must opt in to receive wireless marketing material from businesses within the Defy family of companies through one of the following methods: (a) filling out the registration information on any of the Defy Sites' wireless marketing registration page; or (b) sending a specific word, code or symbol via a text message to a telephone number designated by us in any promotional material. The visitor may also be asked to confirm his or her acceptance to receive such wireless marketing services. 
-
-Visitors that register for wireless marketing services acknowledge, understand and agree that they will be charged by the visitor's wireless carrier for all messages sent to the visitor from the Defy Sites or Defy family of companies. Standard messaging rates will apply, unless noted otherwise. Under no circumstances will Defy or the Defy family of companies be responsible for any wireless email or text messaging charges incurred by such visitor or by a person that has access to a visitor's wireless device, telephone number, or email address. 
-
-**J. Geolocation Information:** We may collect and store information about your geographic location, but we will only collect precise geolocation information sufficient to identify street name and name of a city or town on the Defy Sites if you enable your computer or mobile device to send us location information. You may be able to change the settings on your computer or mobile device to prevent it from providing us with such information. We use this information, for example, to enable visitors to take advantage of Site offerings; respond to visitor's requests for products, services, and information; manage games; customize the content visitors see when visiting the Defy Sites; and to offer visitors special offers and promotions from the Defy Sites and the Defy family of companies, as well as on behalf of selected third parties offering products, programs or services that we believe may be of interest to our visitors. By accepting this Privacy Policy and using the applicable Site, you hereby consent to the collection and storage of such geolocation information as described above. 
-
-**K. Financial Information:** We collect and use financial information, such as credit card numbers and security codes, for the limited purposes described below. 
-
-i. _Arcades_ : Users who are of legal age to form a binding contract may purchase games available on the Defy Sites ( ** _e.g._** , games from Shockwave.com). Purchasing such games may require providing information to process the order including full name, billing and/or shipping addresses, billing address, email address, credit card number, control payment number, PIN, card security code, expiration date and/or a phone number. After successfully entering a valid credit card number/expiration date and completing the order process, an account is created. We use this information to process the order and to send order confirmations via email, as well as to send information about products and services of interest and as otherwise required by law. If you make purchases using a pre-paid card, we will not require you to enter any personally identifiable information to complete your purchase. 
-
-ii. _Consumer Products_ : Certain of the Defy Sites provide pages and/or links to pages offering visitors who are of legal age to form a binding contract the opportunity to purchase consumer products (the "Shops"). To do so, visitors need to provide contact, shipping, billing and credit information. These pages may be hosted and operated by a third party that is independent and separate from the Defy Sites. This third party collects personal information about shop visitors and may share this information with us. We use this information to process the order and to send order confirmations via email, as well as to send information about products and services of interest and as otherwise required by law. Before providing information on these pages, we encourage you to review the posted privacy policies which govern such third party's use of your information, as they may differ from ours. 
-
-iii. _Virtual Items/Memberships_ : Some of the Defy Sites may offer memberships, online subscriptions and/or virtual items for use in conjunction with the Defy Sites' games. When you enter into a transaction for a membership, subscription, virtual item or similar transaction, you may be asked to provide the credit card and/or billing information and email address. We will use this information to fulfill your specified requests, as well as to inform you about additional products or service opportunities and as otherwise required by law. Please also see the information regarding payment processors in Section II(B) below. 
-
-**L. Other Data Collection and Use.**
-
-We collect search query information when visitors search for information on the Defy Sites. We also collect information from visitors when they contact us with questions and comments. 
-
-We may use this information, along with any of the other information described above, to (i) analyze use of the Defy Sites and understand and improve our service offerings; (ii) prevent potentially prohibited or illegal activities; and (iii) for any other purposes disclosed to you at the time we collect your information or pursuant to your consent. 
-
-We may combine information collected through the Defy Sites with information we collect from other sources ( ** _e.g._** , social media integration services), other Defy family of company's sites, offline records or publicly available information). It is your responsibility to provide complete and accurate information and to keep such information up to date. We are not responsible for any problem or liability arising from your failure to do so. 
-
-**II. DISCLOSURE TO THIRD PARTIES.**
-
-We may share your information with third parties for the limited purposes described below. 
-
-**A. Law Enforcement and Safety.**
-
-You acknowledge, consent, and agree to the extent legally permissible in your jurisdiction to allow us to access, preserve, and/or disclose the information we collect and/or content you provide to us (including information you may have posted on bulletin boards or internal site communication systems) to a law enforcement agency or other third parties if required to do so by law or with a good faith belief that such access, preservation, or disclosure is reasonably necessary to: (a) comply with legal process; (b) enforce the Terms of Use of the respective Defy Sites; (c) respond to claims that the content violates the rights of third parties; (d) respond to your requests for customer service; or (e) protect the rights, property, or personal safety of the owners of the Defy Sites, any user of the Defy Sites, a third party or the general public. We also may disclose user information whenever we believe disclosure is necessary to limit our legal liability; to protect or defend our rights or property; or protect the safety, rights, or property of others. 
-
-If you have concerns about the conduct of a particular user, please send an e-mail to [ **privacy@defymedia.com.** ](https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=nickprivacy@nickonline.com) This email is not to contact us about the status of your account. 
-
-**B. Agents.**
-
-Information collected through the Defy Sites may be transferred, disclosed or shared with third parties engaged by us to handle and deliver certain activities, such as message boards, sweepstakes and contests, e-cards, payment processing, newsletters, and advisory boards, and to perform other technical and processing functions, such as sending postal mail and email, maintaining data integrity, programming operations, user services or technology services. We may provide these third parties information collected as needed to perform their functions, but they are prohibited from using it for other purposes and specifically agree to maintain the confidentiality of such information. Some of these agents, such as payment processors, may request additional information during the course of offering their services. Before you provide additional information to third party agents, we encourage visitors to review their privacy policies and information collection practices. 
-
-**C. Third Parties/Advertisers.**
-
-Defy uses the services of third parties who may collect, use or disclose cookie information, IP addresses or other identifiers from devices and/or browsers of users who visit the Defy Sites. Some Defy Sites partner with outside third parties to provide you with additional content, products, or services that we believe may be of interest. For example, we may partner with a greeting card company, software manufacturer, social media plugin provider, mobile phone provider or cable television service provider to offer you electronic cards, games, social networking, text messaging services or customized video content. These partners operate websites and services that are separate and independent from the Defy Sites and, accordingly, may have their own privacy policies. If you consent or register with one of our partners, that means you grant the Defy Sites permission to give your registration and other information, including e-mail address, to that third party. If you have identified yourself as residing in the EU, we will not share your email address or other personally identifiable information with third parties for advertising purposes unless you have "opted-in." 
-
-In addition, Third Party Advertising Service Providers may use their own Tracking Technologies to gather information about you. Please see Section I(D) above for more detailed information regarding such use of Tracking Technologies. 
-
-For more information on our use of third party advertisers and the self-regulatory principles, please click [**here**](http://srp.mtvn.com/sitefaq.html)
-
-**D. Co-Branded Sites and Features**
-
-Some Defy Sites offer co-branded services and features, such as events and promotions that we put together with another company ("Co-Branded Partner"). Such services may be hosted on a Site and/or our Co-Branded Partner's website. We may share your information with our Co-Branded Partner and your voluntary use of or participation in a co-branded service or feature means that you opt-in and affirmatively consent to both the Defy Sites and our Co-Branded Partner collecting and using the information you provided during registration and/or in connection with the specific co-branded feature for fulfillment, marketing or administrative purposes. If you wish to opt-out of a Co-Branded Partner's future use of your information for marketing purposes, you will need to contact the Co-Branded Partner directly. The Co-Branded Partner will be identified on the co-branded feature or service. 
-
-**E. Other Affiliated Businesses**
-
-The Defy Sites are part of the Defy family of companies. Where permitted by law, we may share information we collect about you within the websites of the Defy family of companies' and other affiliated businesses so that we can, for example, provide you with information about products and services that might interest you. 
-
-**F. Business Transfer**
-
-In the event that assets relating to one or more of the Defy Sites are transferred or sold to another entity as a result of, for example, a corporate sale, merger, consolidation, asset sale, or in the unlikely event of bankruptcy, information collected at the Defy Sites may be transferred to the acquiring company. 
-
-**G. With Your Consent**
-
-We may otherwise disclose your information pursuant to your consent. 
-
-**III. INTERNATIONAL TRANSFER.**
-
-The Defy Sites are designed for and targeted to U.S. audiences and are governed by and operated in accordance with the laws of the U.S. While users from countries other than the U.S. may access certain of the Defy Sites, we make no representation that the Defy Sites are operated in accordance with the laws or regulations of, or governed by, other nations. By participating in activities on the Defy Sites, you certify that you meet the age and other eligibility requirements for the Defy Sites as set forth in the respective Terms of Use Agreement for each Site. If you do not meet the age and other eligibility requirements of the particular Site you are visiting, please discontinue using that Site immediately as your continued use of the Defy Sites indicates that you are agreeing to the collection, use, disclosure, management and storage of your Information as described in this Privacy Policy. 
-
-If you are located outside of the United States of America, you use the Defy Sites at your own risk and initiative and you, not us, are responsible for compliance with any applicable local and national laws. **Please be aware that any Personal Information and Other Information you provide to us or we obtain as a result of your use of this Site will be collected in the United States of America and/or transferred to the United States of America and subject to United States of America law.** By using the Defy Sites, participating in any Defy Site activities and/or providing us with your Personal Information and Other Information, you (i) consent to the transfer and/or processing of any Information to and in the United States of America, (ii) acknowledge that United States of America law may provide a lower standard of protection for personal data than the laws of your location (see, for example, European Union Directive 95/46/EC of 24 October 1995, a copy of which can be found [here](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31995L0046:en:HTML)) and (iii) understand that we will collect, transfer, store, process and/or deal with your Information in accordance with this Privacy Policy and United States of America law. Consequently, to the full extent permitted by law, you hereby waive any claims relating to the processing of your Personal Information or Other Information in accordance with this Privacy Policy that may arise under the laws and regulations that apply to you in or of any other country or jurisdiction. This policy and our legal obligations are subject to the laws of the State of New York and the United States of America, regardless of the location of any user. Any claims or complaints must be filed in the United States of America in the State of New York. 
-
-If you do not consent to the terms of this Privacy Policy, **please do not use the Defy Sites because your use of the Defy Sites represents your consent.** If you have already provided personal information, please contact us about how you would like us to handle such information. 
-
-**IV. SECURITY, STORAGE AND RETENTION OF INFORMATION.**
-
-The Defy Sites maintain reasonable technical and organizational steps to help ensure that information collected is secure, including limiting the number of people who have physical access to our database servers and use of electronic security systems and password protections which guard against unauthorized access. The Defy Sites conduct financial transactions via secured transmissions. We limit access to visitor's information to employees and contractors who are authorized for the proper handling of such information, and any employee found violating our standards of security and confidentiality will be subject to our disciplinary processes. We also take reasonable steps to help make sure our third-party agents protect the security of your personal information. However, as with most Internet sites or services, it is possible that third parties may unlawfully access such personal information through a number of means despite our efforts. 
-
-Information collected at the Defy Sites will not be stored for longer than is necessary for the purposes described in this Privacy Policy, or to otherwise meet legal requirements. 
-
-**V. ACCESSING AND CORRECTING INFORMATION; TERMINATION OF WIRELESS SERVICES.**
-
-**A. Reviewing Your Information**
-
-You have the right to access, update and correct factual inaccuracies in personally identifiable information that we collect online at the Defy Sites, subject to certain exceptions. To do so, you should log into your account or you may e-mail us at **privacy@defymedia.com**. To help protect your privacy and the security of your personally identifiable information, we will take reasonable steps to verify your identity before granting access. 
-
-**B. Termination of Wireless Services**
-
-You may cancel one or more wireless services via your wireless device at any time by using the unsubscribe mechanism provided by the Defy Sites at the time the message is sent, or by sending a text message that says "STOP", "END", "CANCEL", "REMOVE", "UNSUBSCRIBE" or "QUIT". Defy Sites will terminate your registration for the most recent wireless service you received. Any of these words followed by the word "ALL" in the user's termination request will cancel all of the user's registered wireless services with the Defy Sites. If you unsubscribe from one or all of wireless service(s) via your wireless device, the service(s) will be terminated immediately and will cancel your previous opt-in. 
-
-**VI. ONLINE SAFETY.**
-
-A variety of online resources offer you and your child an online safety guide which we encourage you to use as starting point for discussing safety and privacy concerns with your child. **Of course, involvement in your family's online lives is the most important safety tool available**. We encourage you to visit <http://www.ncpc.org/topics/internet-safety> as a starting point for more information. 
-
-**VII. LINKS TO THIRD PARTIES.**
-
-The websites that comprise the Defy Sites may contain links to other sites, including those of sponsors, advertisers, social networking platforms, and survey companies. These other websites are governed by their own privacy policies or information collection practices, which may be substantially different from ours. We encourage visitors to other websites to review the privacy policies and information collection practices of those websites. 
-
-**VIII. YOUR CALIFORNIA PRIVACY RIGHTS.**
-
-California Civil Code Section 1798.83 permits our visitors who are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an email to or write us: **privacy@defymedia.com** email, or you may contact us via regular mail at: 
+If you have any questions or concerns about this privacy policy you may contact us as follows: 
 
 Defy Media, LLC  
 498 7th Avenue, 19th Floor  
 New York, NY 10018  
 Attn: Privacy 
 
-This document is the sole statement of the Defy Sites' Privacy Policy and no summary, restatement or other version thereof, or other privacy statement or policy, in any form, including, without limitation, machine-generated, is valid. In interpreting this Agreement, the English version governs the interpretation and meaning of the obligation set forth herein. To the extent there is an ambiguity or conflict with the Privacy Policy in other languages, the Privacy Policy in English governs. 
-
-**IX. CONTACT US**
-
-If you have any other questions about our information handling practices, including our practices with respect to children's personal information, please contact us at: 
-
-Defy Media, LLC 
-
-498 7th Avenue, 19th Floor 
-
-New York, NY 10018 
-
-Attn: California Privacy 
-
-Or email us at: 
-
-[**privacy@defymedia.com**](mailto:privacy@defymedia.com)
-
-Or call this number: 
-
-+1 212-244-4307 
+Telephone: (212)244-4307  
+Facsimile: (212)244-4311  
+E-mail: privacy@defymedia.com 
