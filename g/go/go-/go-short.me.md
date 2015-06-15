@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the go-short.me privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630002704id_/http%3A//7dollartemplates.com/terms.html%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the go-short.me privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615102853id_/http%3A//7dollartemplates.com/terms.html%23privacy) for the most accurate reproduction.*
 
 # 7 Dollar Templates - Spice Up Your $7 Secrets Script with New Template!
 
