@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uti.edu privacy policy that was archived on 2014-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141225072237id_/http%3A//www.uti.edu/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uti.edu privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615134017id_/http%3A//www.uti.edu/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Universal Technical Institute
 
