@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tsikot.com privacy policy that was archived on 2013-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130813115358id_/http%3A//tsikot.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tsikot.com privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615121509id_/http%3A//tsikot.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
