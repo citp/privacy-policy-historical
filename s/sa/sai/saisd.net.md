@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the saisd.net privacy policy that was archived on 2014-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141017111244id_/http%3A//www.saisd.net/main/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D5139%3Aprivacy-policy%26catid%3D55%3Ahome-articles) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the saisd.net privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615231301id_/http%3A//www.saisd.net/main/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D5139%3Aprivacy-policy%26catid%3D55%3Ahome-articles) for the most accurate reproduction.*
 
 # SAISD Privacy Policy
 
