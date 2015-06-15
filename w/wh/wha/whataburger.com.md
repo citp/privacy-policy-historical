@@ -1,83 +1,83 @@
-> *The following text is extracted and transformed from the whataburger.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702072829id_/http%3A//whataburger.com/Home/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whataburger.com privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615185556id_/http%3A//www.whataburger.com/home/privacypolicy) for the most accurate reproduction.*
 
-# None
+# Whataburger - Mobile
 
 **Whataburger.com** **  
-****PRIVACY POLICY**
-
-EFFECTIVE JULY 2, 2012
+** **PRIVACY POLICY**
 
 Your privacy is very important to us.
 
-Our policy is to respect and protect the privacy of all visitors to Whataburger.com, AreYouOrangeEnough.com and other web sites (collectively the “Web Site”) that are owned and operated by Whataburger Restaurants LLC and its affiliates (collectively “Whataburger”). In that regard, this Privacy Policy is available for view by clicking on the “Privacy Policy” link at the bottom of the main page of the Whataburger.com web site. 
+This Privacy Policy (“Privacy Policy”) describes the information practices of Whatabrands LLC and its affiliates and subsidiaries (collectively, “Whataburger”, which may be referred to herein, as the context may require, as “we”, “us”, or “our"). It covers the information that Whataburger collects about you, and how we use and share this information.  Our policy is to respect and protect the privacy of all visitors to Whataburger.com, AreYouOrangeEnough.com and other web sites  that are owned and operated by Whataburger (collectively, the “Web Site”).  By visiting a Web Site, you agree to the practices described in this Privacy Policy. Whataburger reserves the right to modify the Privacy Policy from time to time without prior notice to you, effective upon the posting of such modified terms on the Web Site.  Your continued use of the Web Site constitutes acceptance of any such changes. To ensure that you are aware of current privacy practices, we recommend that you review the Privacy Policy periodically. 
 
-In this document, we explain how we use information you supply us. If we update our privacy policy, all revisions will be posted on this page. We reserve the right to change the privacy policy at any time without prior notice.
+For your convenience we have organized our Privacy Policy into the following topics:
 
-For your convenience we have organized our Privacy Policy into the following topics.
+Information Collection 
 
-Information Collection and Use
+Information Use, Sharing and Disclosure
 
-Information Sharing and Disclosure
-
-Uses of E-mail Addresses
+Use of E-mail Addresses
 
 Collection of Information by Third-Party Sites and Sponsors
 
+Children’s Privacy
+
+User Generated Content 
+
 Use of Cookies
 
-Our Commitment to Security
+Information Security
 
-INFORMATION COLLECTION AND USE
+Visiting the Web Site from Outside the United States
 
-Two types of information may be collected when you visit a Whataburger Web Site; 1) information which you knowingly provide us (called personally identifiable information), and 2) information which is obtained from your visit but is not directly associated with you (called non-personally identifiable information).
+Contact Information
 
-When you sign up to use one or more of our services, send an e-mail, ask a question, offer an opinion or order items in the online store, we may specifically ask for information about you, including, but not limited to your name, age, address, telephone number, e-mail address, birthdate, financial and/or demographic information and payment information. This information is used to fulfill the services you requested or to better our Web Site offerings to you and users like you.
+ INFORMATION COLLECTION 
 
-In the normal course of using a Web Site we may collect information about your habits and usage of our sites. This non-personally identifiable information is collected without any direct association with you specifically.
+Two types of information may be collected when you visit a Web Site:  (1) personal information that you voluntarily provide to us when you sign up to use one or more of our services, send an e-mail, ask a question, offer an opinion, order items in the online store, apply for employment with us, or engage in similar activities on a Web Site (including, but not limited to, your name, age, address, telephone number, e-mail address, birth date, financial and/or demographic information and payment information); and (2) non-personally identifiable information which is obtained by automated means in connection with your visit to a Web Site, such as your Internet Protocol (IP) address, computer/mobile device operating system and browser type, type of mobile device, the unique device identifier or mobile equipment identifier for your mobile device, the address of a referring web site (if any), and the pages you visit on our Web Site.  Additional information regarding our use of "cookies" is set forth below in this Privacy Policy. 
 
-INFORMATION SHARING AND DISCLOSURE
+ INFORMATION USE, SHARING AND DISCLOSURE
 
-Employees of Whataburger and its agencies, agents and contractors of Whataburger who have access to personally identifiable information are required to protect this information in a manner that is consistent with this Privacy Policy and the high standards of this organization.
+Employees and contractors of Whataburger who have access to personally identifiable information are required to protect this information in a manner that is consistent with this Privacy Policy and the high standards of this organization.  Whataburger may use information about you for purposes described in this Privacy Policy or disclosed to you on our Web Site or with our services. For example, we may use information about you to: (1) process and manage your purchase and use of Whataburger products and services, including your accounts and program participation; (2) respond to your customer service inquiries, post your comments or statements on any blog or other online forum maintained on our Web Site, or take other actions in response to your inquiries or other Web Site activities; (3) communicate with you about or fulfill your orders or purchases, your services, accounts and program participation, a contest or sweepstakes you have entered, your requests for information, and about our brands, products, events or other promotional purposes, including co-branded offers and partner offers; and (4) operate, maintain, manage, fulfill and improve our service offerings and to provide services such as technical support.  
 
-Personally identifiable Information WILL NOT be used for any purpose other than to carry out the specific services you requested from Whataburger.
+If you request information about employment opportunities with Whataburger, or if you complete an application for employment with Whataburger, we collect the personally identifiable information that you provide in connection with such request or application. If you apply for employment with Whataburger, we may also collect additional personally identifiable information about you from third parties to verify, update or supplement the information you provide us in the application process.  Applicable law may require that you authorize a third party to disclose your personally identifiable information with us before such third party can provide it to us. Failure to authorize such third party to provide us the necessary information, or failure to provide any other information requested in the employment application may negatively impact our consideration of your employment application. By applying for employment with Whataburger, you expressly consent to our collection, use, and disclosure of your personally identifiable information in the manner and for the purposes provided in this Privacy Policy. 
 
-We WILL NOT SELL OR RENT your personally identifiable information to anyone at any time without your prior permission.
+Whataburger will not sell your personally identifiable information to anyone at any time without your prior permission.  We will transfer or otherwise disclose the information we collect from Web Site visitors to employees and independent contractors of Whataburger and its service providers if the disclosure will enable that party to perform a business, professional, or technical support function for Whataburger, or if required to do so by law. We will also transfer or otherwise disclose personal information in response to judicial process, to comply with legal requirements, and, as permitted under provisions of law, to provide information to law enforcement agencies or in connection with an investigation on a matter related to public safety. We may also use your personal information as permitted by law to protect our rights or property, the Web Site, or its users.
 
-We will not use any personal or financial information beyond what is necessary to assist us in delivering to you the services you have requested.
+We routinely use the non-personally identifiable information that we collect to improve the design and content of our Web Site and to enable us to personalize your Internet experience, as well as for general system administration. We also may use this information to analyze site usage, as well as to offer products, programs, or services to you or other users like you. 
 
-We will send personally identifiable information about you to other organizations or individuals only when:
+ USE OF E-MAIL ADDRESSES
 
-We have your consent to share the information;
+Whataburger may periodically send informational or promotional e-mail messages. Sometimes these are referred to as newsletters. You will not receive such e-mail messages unless, at the time you provide us with your e-mail address, you indicate that you wish to receive such promotional e-mails. If you are asked for your e-mail address and are not given the opportunity to opt-out of receiving additional information, then the e-mail address is to be used only for the specific service you request. If you subscribe to receive promotional e-mails from Whataburger and wish to stop receiving such e-mails, you may request discontinuation of e-mail messages by clicking the “Unsubscribe” link on the e-mail you received or by clicking the “Unsubscribe” link at the bottom of the main page of the Whataburger.com web site.
 
-We need to share your information in order to provide the product or service you have requested; or
+ COLLECTION OF INFORMATION BY THIRD-PARTY SITES AND SPONSORS
 
-We are required to do so by law, for example, in response to a court order or a subpoena.
+The Web Site may contain links to various other web sites that are not controlled by Whataburger. While we encourage other site developers to adopt privacy policies that build users’ trust and confidence, we are not responsible for the privacy policies, practices or the content of web sites linked to our Web Site or to which we link. Visitors should consult the other web sites’ privacy policies to learn how they collect and use personal information. 
 
-We routinely use the non-personally identifiable information that we collect to improve the design and content of our Web Sites and to enable us to personalize your Internet experience. We also may use this information to analyze site usage, as well as to offer products, programs, or services to you or other users like you.
+ CHILDREN’S PRIVACY
 
-USES OF E-MAIL ADDRESSES
+We do not knowingly collect personal information online from children under the age of 13 without parental or guardian consent. Please contact us via the contact information provided below if you believe we may have collected such information without parental or guardian consent or other than in a manner authorized by law, and we will delete it. 
 
-Whataburger and its affiliates may periodically send informational or promotional e-mail messages. Sometimes these are referred to as newsletters. You will not receive such e-mail messages unless, at the time you provided us with your e-mail address, you indicated that you wished to receive such promotional e-mails. If you are asked for your e-mail address and not given the opportunity to opt-out of receiving additional information, then the e-mail address is to be used only for the specific service you requested. If you subscribe to receive promotional e-mails from Whataburger and wish to stop receiving such e-mails, you may request discontinuation of e-mail messages by clicking on the “Unsubscribe” link on the e-mail you received or by clicking on the “Unsubscribe” link at the bottom of the main page of the Whataburger.com web site.
+ USER GENERATED CONTENT 
 
-COLLECTION OF INFORMATION BY THIRD-PARTY SITES AND SPONSORS
+Our Web Site may allow visitors to post messages and submit their own content (e.g., stories, comments, blogs, postings, tweets, etc.), which may include personal information. Any information you post, tweet or otherwise submit via the Web Site becomes public information and is not subject to this Privacy Policy.  By posting or tweeting content, you agree that we may, at our discretion, use your real or social media user name and all or part of the content of your post or tweet (including all accompanying images) on our Web Site to promote our company, products and services for such time period as we wish. Whataburger is not responsible for the results of such postings.  Additional terms regarding our use of your posts, tweets and other social media communications submitted via the Web Site are available for your review by clicking on the “Terms & Conditions” link at the bottom of the main page of the Whataburger.com web site.
 
-The Web Site may contain links to various other web sites that are not controlled by Whataburger. While we encourage other site developers to adopt privacy policies that build users’ trust and confidence, we are not responsible for the privacy practices or the content of web sites linked to our Web Sites or to which we link. Visitors should consult the other web sites’ privacy policies, as we have no control over the information that is submitted to, or collected by, these third parties.
+ USE OF COOKIES
 
-USE OF COOKIES
+Cookies are small text files that are used by Whataburger for various purposes, including to recognize visitors to our Web Site, determine the number of visitors to the Web Site and ascertain which pages they visit, personalize user experiences and to generally serve our visitors better. We may associate information we collect via cookies with the personal information we collect online. In some cases your computer must accept cookies in order for us to complete the service or transaction you are requesting.  
 
-Cookies are small text files that are placed on your computer’s hard drive by our servers to identify you and/or your specific computer. Cookies should only be read by the server that originally placed them. In some cases your computer must accept cookies in order for us to complete the service or transaction you are requesting. We may use cookies to recognize you when you visit our Web Sites, to personalize your experience and generally to serve you better. For example, if you enter your name, address, telephone number, email address, ZIP code or other personally identifiable information on one of our forms, such information may be, but is not necessarily always, stored in a cookie so you do not have to enter this information again. 
+ INFORMATION SECURITY
 
-IP ADDRESSES
+Whataburger is committed to the protection of the information covered by this Privacy Policy, and uses reasonable measures to maintain appropriate physical, electronic and managerial procedures and safeguards to prevent unauthorized access, use or disclosure of the information we collect via the Web Site.  However, no method of electronic transmission or storing of data is guaranteed to be 100% secure, and therefore, we do not guarantee that the information collected will never be accessed, used, or disclosed in a manner that is inconsistent with this Privacy Policy.
 
-An IP address is a number that is assigned to your computer whenever you’re using the Internet. Web servers and other systems on the Internet automatically identify your computer by its IP address. Whataburger collects IP addresses for the purposes of system administration, to report aggregated information to our sponsors, and to audit the use of our Web Sites. When visitors request pages from a Whataburger Web Site, our servers log the visitor’s IP address. We do not link IP addresses to anything personally identifiable, which means that a visitor’s session will be logged, but the visitor remains anonymous to us. 
+ VISITING THE WEB SITE FROM OUTSIDE THE UNITED STATES
 
-OUR COMMITTMENT TO SECURITY
+If you are visiting our Web Site from outside of the United States or otherwise contacting or visiting us from outside of the United States, please be aware that your personal information may be transferred to, stored or processed in the United States, where our servers are located and our database is operated. The data protection and other laws of the United States and other countries might not be as comprehensive as those in the country from which you are visiting the Web Site. By providing your information, you understand that it may be transferred to our facilities and to those third parties with whom we share it as described in this Privacy Policy.
 
-WE HAVE ATTEMPTED TO PUT IN PLACE APPROPRIATE PHYSICAL, ELECTRONIC, AND MANAGERIAL PROCEDURES TO SAFEGUARD AND HELP PREVENT UNAUTHORIZED ACCESS, MAINTAIN DATA SECURITY, AND CORRECTLY USE THE INFORMATION WE COLLECT VIA WHATABURGER WEB SITES AND THE INTERNET. WE DO NOT SELL, TRADE, OR RENT YOUR PERSONAL INFORMATION WITHOUT YOUR PRIOR KNOWLEDGE AND PERMISSION.
+ CONTACT INFORMATION
 
-If you have questions about the privacy procedures employed at Whataburger, please write or call us at:
+If you have questions about this Privacy Policy, please write or call us at:
 
-Whataburger.
+Whataburger
 
 300 Concord Plaza Dr.
 
@@ -85,4 +85,6 @@ San Antonio, TX 78216
 
 210-476-6000
 
-[Contact Us](https://web.archive.org/Company/Contact)
+[Contact Us](https://web.archive.org/company/contact "QA version of Sertec Contact Us")
+
+This Privacy Policy was last updated on June 4, 2014
