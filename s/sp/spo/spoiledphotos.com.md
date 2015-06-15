@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spoiledphotos.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625104140id_/http%3A//www.spoiledphotos.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spoiledphotos.com privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615103534id_/http%3A//www.spoiledphotos.com/privacy-policy) for the most accurate reproduction.*
 
 # Spoiled Photos - Privacy Policy
 
