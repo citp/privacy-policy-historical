@@ -1,74 +1,103 @@
-> *The following text is extracted and transformed from the lifeproof.com privacy policy that was archived on 2014-07-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140717074400id_/http%3A//www.lifeproof.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lifeproof.com privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615083444id_/http%3A//www.lifeproof.com/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | LifeProof
 
-This privacy policy applies to the use of LifeProof.com.
+**Privacy Policy**
 
-We value your privacy and make this policy easily accessible throughout our site to assist you in understanding the way information is handled in the course of using this site. Your privacy is very important to us. At LifeProof we want to make your online experience enjoyable and safe. Because we gather certain types of information about our users, we want you to fully understand our policy and the terms and conditions surrounding the attainment and use of that information.
+This privacy policy applies to LifeProof.com, operated by Otter Products, LLC (“Otter,” “Us,” or We”). This privacy policy describes how Otter collects and uses the personal information you provide on our web site:  LifeProof.com.  It also describes the choices available to you regarding our use of your personal information, and how you can access and update this information.
 
-##  Information LifeProof Collects and Tracks
+We value your privacy, and make this policy easily accessible throughout our site to assist you in understanding the way information is handled in the course of using this site. At Otter we want to make your online experience enjoyable and safe. Because we gather certain types of information about our users, we want you to fully understand our policies surrounding the attainment and use of that information.
 
-LifeProof collects two types of information about users: Optional user provided information, e.g., voluntary submissions. Voluntary submissions include requests to receive our electronic newsletters, to participate in our message boards or forums, from participation in polls, surveys, warranty validation, and the like.
+Otter has received TRUSTe's Privacy Seal signifying that this privacy statement and our practices have been reviewed for compliance with the TRUSTe program, viewable on the validation page available by clicking the TRUSTe seal.
 
-Additional information gathered through tracking and aggregation of information derived mainly by collating page views throughout our site. This information allows us to better contour our content to user needs and to help our advertisers and sponsors better understand the demographics of our audience.
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe at <https://feedback-form.truste.com/watchdog/request>.
 
-##  Usage Tracking
+Please click [here](http://www.truste.com/about-TRUSTe/contact-us) for fax and postal mail information. Please note, TRUSTe's Dispute Resolution process is only available in English.
 
-LifeProof may collect user traffic usage characteristics throughout its website. However, we do not correlate this data with individual user information. LifeProof may analyze usage statistics according to a user's domain name, browser type, and MIME type by reading this information from data contained in the user's browser.
+The TRUSTe program covers only information that is collected through this web site, and not information that may be collected through software downloaded from the site.
 
-LifeProof may collect and catalog search terms that users employ in our Search function, but this tracking is not associated with individual users. We may use tracking information to determine the areas of our site most important to users based on the characteristics of usage of those areas. We will not track what any particular individual users read, but rather the performance of each page. This may help us to build a better web-based experience for you.
+Otter complies with the U.S. – E.U. Safe Harbor framework and the U.S. - Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland.  Otter has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement.  To learn more about the Safe Harbor program, and to view Otter’s certification, please visit <http://www.export.gov/safeharbor/>.
 
-##  Log Files and Cookies
+**Information Otter Collects and Tracks**
 
-This website utilizes industry standard analytics packages that gather limited information on visitors to our website automatically, and stores this anonymous information in server log files. This information may include IP addresses, browser type, basic IP information, referring pages, operating system used and date/time stamps. This information does not identify individual users; it is used only for site administration, as well as for analysis of website usage and trends.
+Otter collects two types of information about users: optional user provided information (“Voluntary Submission Data”) and information gathered through tracking and aggregation of information derived mainly by collating page views throughout our site (“Usage Tracking Data”).
 
-Additionally, LifeProof may place a "cookie" in a user's browser files. Cookies are very small text files that are stored on personal computers for reference purposes. Such "cookies" do not contain personal information. Cookies do not read data off a user's hard disk or read cookie files created by other sites. This information enables LifeProof to relate usage of our site to information that has been specifically and knowingly provided.
+Voluntary Submission Data includes requests to receive our electronic newsletters, to participate in our message boards or forums, from participation in polls, surveys, warranty validation, or to make purchases from the site. This information may contain a user’s name, email address, phone number, address, payment information and social media handles.
 
-Specifically, cookies may be used to provide easier and faster access to website features such as logins and/or repeat visits. We do not link the information we store in cookies to any personally identifiable information you have submitted while on our site. In certain instances, LifeProof advertising systems may deliver a one-time cookie to better track ad impressions and click rates.
+Usage Tracking Data allows us to better contour our content to user needs and helps us better understand the demographics of our audience.
 
-There are two types of cookies that LifeProof may employ. We may use both session ID cookies and persistent cookies. A session ID cookie expires when your browser is closed. A persistent cookie may stay on a user's hard drive for an extended period. Session cookies make it easier for you to navigate our site. Persistent cookies can perform such activities as storing your password for forums or blogs so you do not have to sign in every time you visit those areas and/or may be used to enable us to track and target the interests of our users so as to enhance the overall experience of using our site.
+Please be aware that our website includes links to other websites whose privacy practices may differ from those of Otter. If you submit personal information to any of those sites, your information is governed by their respective privacy policies. We encourage you to carefully read the privacy policy of any website you visit. Similarly, some of our pages utilize framing techniques to serve content to from our partners, while preserving the look and feel of our site. Please be aware that you are providing your personal information to these third parties and not to Otter.
 
-Cookies may be prevented by turning them off in the user's browser. For instance, the user's browser may be set to give a warning before cookies are accepted, at which point a user may reject them. Cookies need not be turned on to use this site. However, cookies may need to be turned on to participate actively in our blog, polling and surveys.
+Our web site includes social media features, such as the Facebook Like button. These features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the feature to function properly. Your interactions with these features are governed by the privacy policy of the company providing it.
 
-##  Registration and Use of Personal Information
+**Registration and Use of Voluntary Submission Data**
 
-Registration is not required in order to use or access this website. However, registration is required for warranty validation purposes. Registration information will only be used for internal purposes and will not be provided to any third parties.
+We may provide your personal information to our affiliates and companies that provide services to help us with our business activities, such as shipping your order or offering customer service. These companies are authorized to use your personal information only as necessary to provide these services to us. We will not share your personal information with any other third party organizations except with your express consent.
 
-Accordingly, if you do fill out a survey, form, or testimonial on our site, and in the process provide us with personally identifiable information, rest assured that any such information you provide will not be shared with any third-party organization except with your express consent.
+Registration is not required in order to use or access this website. However, registration is required for warranty validation purposes. Registration information will only be used for internal purposes.
 
-LifeProof may use information voluntarily given by our users to enhance their experience on our website, whether to provide interactive or personalized elements on the sites or to better prepare future content based on the interests of our users. Further, in time, we may use information that users voluntarily provide in order to send out electronic newsletters or to enable users to participate in polls and surveys. We are planning to send out newsletters to subscribers on a regular schedule (depending on the newsletter), and may occasionally send out special editions when we think subscribers might be particularly interested in something we are doing. Rest assured LifeProof will never share newsletter mailing lists with any third parties, including advertisers, sponsors or partners.
+Accordingly, if you do fill out a survey, form, or testimonial on our site, and in the process provide us with personal information, rest assured that any such information you provide will not be shared with any third-party organization other than our service providers, except with your express consent. We use this information to notify contest winners and award prizes, to monitor site traffic or personalize the site, and to send participants an email newsletter. We also display personal testimonials of satisfied customers on our site, in addition to other endorsements.  With your consent we may post your testimonial along with your name.  If you wish to update or delete your testimonial, you can contact us using our contact information below.
 
-As indicated, LifeProof may track various information such as usage or traffic information. LifeProof may use such tracking information to determine the performance of aspects of our site as well as to determine the users likes and dislikes, with respect to a particular webpage, based on such traffic data.
+Our website offers a publicly accessible blog. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, contact us at the contact information below.  In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why. Some of our pages, including our blog, utilize framing techniques to serve content to and from our service providers, while preserving the look and feel of our site. Please be aware that you are providing your personal information to these third parties.
 
-For instance, LifeProof may create aggregate reports on user demographics and traffic patterns. LifeProof may also track search terms entered in a Search function as one of many measures of what interests our users. But LifeProof will not track which terms any particular user enters. Specifically, LifeProof does not track what any particular individual user reads and will not disclose any information about any individual user except to comply with applicable law or valid legal process or to protect the personal safety of our users or the public.
+Otter uses information voluntarily given by our users to enhance their experience on our website, whether to provide interactive or personalized elements on the sites, or to better prepare future content based on the interests of our users. We do not supplement any Voluntary Submission Data from any third party sources.
 
-We also provide visitors to our website the opportunity to opt-in to receive communications from us. These communications may include a periodical newsletter, product promotions and any other information that we feel may be pertinent to the visitor. You may opt out of receiving any, or all, of these communications by emailing us at administration@lifeproof.com, by clicking on the 'unsubscribe' link in any email we send to you, by replying to any email we send you and entering the word UNSUBSCRIBE in the subject line.
+We also provide visitors to our website the opportunity to receive communications from us. These communications may include a periodical newsletter, product promotions, polls, surveys, and any other information that we feel may be pertinent to the visitor. You may opt out of receiving any, non-service related communications by emailing us at privacy@lifeproof.com, by clicking on the 'unsubscribe' link in any email we send to you, by replying to any email we send you and entering the word UNSUBSCRIBE in the subject line.
 
-If you provide us with your email address and/or name for the purposes of receiving communications from us, this information will not be shared with any third-party organization except with your express consent.
+**Use of Usage Tracking Data**
 
-By using this site, you consent to the collection and use of this information by LifeProof. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it.
+Otter collects user traffic usage characteristics throughout its website. However, we do not correlate this data with individual user information. Otter may analyze usage statistics according to a user's domain name, browser type, and MIME type by reading this information from data contained in the user's browser.
 
-##  Access to Personally Identifiable Information
+Otter may collect and catalog search terms that users employ in our search function, but this tracking is not associated with individual users. We may use tracking information to determine the areas of our site most important to users, based on the characteristics of usage or traffic of those areas. We will not use this data to track what any particular individual users read, but rather the performance of each page. This may help us to build a better web-based experience for you.
 
-If your personally identifiable information changes, or if you no longer wish us to possess your information, you may request correction, updating, or deletion of your information by emailing us at administration@lifeproof.com. You also may make your request by phone or postal mail at the address/phone number indicated at the end of this privacy policy.
+**Log Files, Cookies, and Other Tracking Technologies**
 
-##  Security
+This website utilizes industry standard analytics packages that gather limited information on visitors to our website automatically, and stores this anonymous information in server log files. This information may include IP addresses, browser type, referring pages, operating system used and date/time stamps. This information does not identify individual users; it is used only for site administration, as well as for analysis of website usage and trends.
 
-We follow accepted industry standards to protect any personal information you have provided to us. However, please be aware that no method of electronic storage can ever be 100% secure. Therefore - as is the case with any organization - we are not in a position to guarantee the absolute security of your information.
+Otter, our affiliates, and our service providers (e.g. marketing partners, analytics providers, or payment processors) utilize technologies such as: cookies, beacons, tags and scripts. These technologies are used in analyzing trends, administering the site, tracking users’ movements around the site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as an aggregated basis.
 
-Nevertheless, the security of your personal and financial information is extremely important to us. We insure confidentiality and security in our online shopping experience. For instance, we employ various firewalls and other security tactics to keep your information secure. We do not store your complete credit card information on our internal web server. Once you place your order, the order is sent to our main order processing system using a private system. Once your order is completed it is entirely deleted from our web records. While there is risk inherent in every Internet transaction, be assured that we are work hard to ensure that risk is minimal. We take your financial security seriously and have taken measures to ensure your online shopping on experience our website safe for all customers.
+We use cookies for our shopping cart, to remember users’ settings (e.g. language preference), to enable us to track and target the interests of our users so as to enhance the overall experience of using our site, and for authentication purposes. Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our site, but your ability to use some features or areas of our site, such as our blogs, polls, and surveys may be limited.
 
-##  Legal Disclaimer
+We partner with a third party to manage our advertising on other sites. Our third party partner may use technologies such as cookies to gather information about your activities on this site and other sites, in order to provide you advertising based upon your browsing activities and interests.  If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking [here](http://preferences-mgr.truste.com/) (or if located in the European Union click [here](http://www.youronlinechoices.eu/)). Please note this does not opt you out of being served ads. You will continue to receive generic ads.
 
-As indicated we reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order or legal process served on our website.
+Third parties with whom we partner to provide certain features on our site (e.g., YouTube) use LSOs such as HTML 5 or Flash to collect and store information. Various browsers may offer their own management tools for removing HTML5 LSOs. To manage Flash LSOs please click here:<http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html>.
 
-##  Contact Details
+**Access to Personal Information**
+
+If your personally identifiable information changes, or if you no longer wish us to possess your information, you may request correction, updating, or deletion of your information by emailing us at privacy@lifeproof.com. You also may make your request by phone or postal mail at the address/phone number indicated in the contact information below. We will respond to your request to access within 30 days.
+
+We will retain your information for as long as your account is active or as reasonably useful for commercial purposes.  We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+
+**Security**
+
+We follow accepted industry standards to protect any personal information you have provided to us. However, please be aware that no method of electronic transmission or storage can ever be 100% secure. Therefore - as is the case with any organization - we are not in a position to guarantee the absolute security of your information.
+
+Nevertheless, the security of your personal and financial information is extremely important to us. We do our best to ensure confidentiality and security in our online shopping experience. For instance, we employ various firewalls and other security tactics to keep your information secure. We do not store your complete credit card information on our internal web server. When you enter sensitive information (such as a credit card number) on our order forms, we encrypt the transmission of that information using secure socket layer technology (SSL). Once your order is completed, it is entirely deleted from our web records. While there is risk inherent in every Internet transaction, be assured that we are work hard to ensure that risk is minimal.
+
+**Legal Disclaimer**
+
+As indicated, we reserve the right to disclose your personal information :
+
+• as required by law, such as to comply with a subpoena, or similar legal process;  
+• when we believe that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request;  
+• if Otter is involved in a merger, acquisition, or sale of all or a portion of its assets,  you will be notified via email and/or a prominent notice on our website of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information,  
+• to any other third party with your prior consent to do so  
+ 
+
+**Changes to This Policy**
+
+By using this site, you consent to the collection and use of this information by Otter. If we make any material changes, we will notify you by email or by means of a notice on this Site or by an email to your address on file prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.  
+ 
+
+**Contact Details**
 
 If you have any questions or concerns regarding this privacy policy, or you wish to contact us by postal mail, our contact information is as follows:
 
 **LifeProof**  
-ATTN: Administration  
+ATTN: Privacy  
 15110 Avenue of Science  
-San Diego, CA 92128 USA
+San Diego, CA 92128 USA  
+Phone: 1-888-533-0735  
+Email: privacy@lifeproof.com
 
-This privacy policy was last updated on June 24th, 2011.
+This privacy policy was last updated on October 10, 2014.
