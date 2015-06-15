@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rude.com privacy policy that was archived on 2014-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141210191756id_/http%3A//rude.com/main/member_policy/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rude.com privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615050640id_/http%3A//rude.com/main/member_policy/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
