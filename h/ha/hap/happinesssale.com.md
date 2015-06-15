@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the happinesssale.com privacy policy that was archived on 2014-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140818234249id_/http%3A//www.happinesssale.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the happinesssale.com privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615131529id_/http%3A//www.happinesssale.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
