@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the additudemag.com privacy policy that was archived on 2014-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141223025255id_/http%3A//www.additudemag.com/adhd/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the additudemag.com privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615101255id_/http%3A//www.additudemag.com/adhd/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | ADDitude: Information on Attention Deficit Symptoms, Diagnosis, Treatment, Parenting and More
 
