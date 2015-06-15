@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the horizonservices.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701100542id_/http%3A//www.horizonservicesinc.com/contact-us/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the horizonservices.com privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615145540id_/http%3A//www.horizonservicesinc.com/contact-us/privacy-statement) for the most accurate reproduction.*
 
-# Horizon Services Online Privacy Statement | Horizon Services Inc.
+# Horizon Services Online Privacy Statement
 
 
 
@@ -78,4 +78,4 @@ _Updated: March 2, 2012_
 
 * * *
 
-_**Horizon Services:** The only full-service [plumbing](http://www.horizonservicesinc.com/services/plumbing "plumbing"), [heating](http://www.horizonservicesinc.com/services/heating "heating"), [air conditioning](http://www.horizonservicesinc.com/services/air-conditioning "air conditioning"), [geothermal](http://www.horizonservicesinc.com/services/geothermal "geothermal"), [drain cleaning](http://www.horizonservicesinc.com/services/drain-cleaning "drain cleaning") and [sewer and water line replacement](http://www.horizonservicesinc.com/services/sewer-water-line-replacement "sewer and water line replacement") company in Delaware, Southeastern Pennsylvania, Gloucester, Camden and Burlington County New Jersey and Northeastern Maryland that guarantees on-time service, up-front pricing and the job done right and __clean the first time!_
+_**Horizon Services:** The only full-service [plumbing](http://www.horizonservicesinc.com/services/plumbing "plumbing"), [heating](http://www.horizonservicesinc.com/services/heating "heating"), [air conditioning](http://www.horizonservicesinc.com/services/air-conditioning "air conditioning"), [geothermal](http://www.horizonservicesinc.com/services/geothermal "geothermal"), [drain cleaning](http://www.horizonservicesinc.com/services/drain-cleaning "drain cleaning") and [sewer and water line replacement](http://www.horizonservicesinc.com/services/sewer-water-line-replacement "sewer and water line replacement") company in Delaware, Southeastern Pennsylvania, South New Jersey, and Northeastern Maryland that guarantees on-time service, up-front pricing and the job done right and __clean the first time!_
