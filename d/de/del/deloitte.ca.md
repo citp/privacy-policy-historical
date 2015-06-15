@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the deloitte.ca privacy policy that was archived on 2014-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141110181722id_/http%3A//www2.deloitte.com/ca/en/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deloitte.ca privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615044412id_/http%3A//www2.deloitte.com/ca/en/legal/privacy.html%3Ficid%3Dbottom_privacy) for the most accurate reproduction.*
 
 # Privacy
 
