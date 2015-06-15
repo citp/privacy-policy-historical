@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pipingrock.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220090859id_/http%3A//www.pipingrock.com/company/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pipingrock.com privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615061911id_/http%3A//www.pipingrock.com/company/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Piping Rock Health Products
 
@@ -60,7 +60,7 @@ Other than within our business organization (including affiliates) and as set fo
 
 ### We Provide You Choices
 
-If you prefer not to receive unsolicited commercial email from us, please click here. You can subscribe to receive marketing offers or solicitations from the Company through email by clicking here. Please note that these requests may take up to 10 days to take effect.
+If you prefer not to receive unsolicited commercial email from us, please [click here](https://web.archive.org/unsubscribe). You can subscribe to receive marketing offers or solicitations from the Company through email by clicking here. Please note that these requests may take up to 10 days to take effect.
 
 Please note that your request not to receive unsolicited commercial emails from us will not apply to messages that you request or that are not commercial in nature. For example, we may contact you concerning any purchases you have made with us even if you opt out of receiving unsolicited commercial messages.
 
@@ -93,3 +93,5 @@ As Piping Rock’s activities and organization change from time to time, this Pr
 ### How to Contact Us
 
 If you have any questions or comments about this Privacy Policy, or if you would like us to update information we have about you or your preferences regarding the use of your personal information, please contact us by:
+
+Last updated: March 9, 2015
