@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the decathlon.in privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120112324id_/http%3A//www.decathlon.in/customer/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the decathlon.in privacy policy that was archived on 2015-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150616003512id_/http%3A//www.decathlon.in/customer/privacy-policy) for the most accurate reproduction.*
 
 # Privacy-Policy-Decathlon
 
