@@ -1,14 +1,6 @@
-> *The following text is extracted and transformed from the ofree.net privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626141932id_/http%3A//www.ofree.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ofree.net privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615113830id_/http%3A//www.ofree.net/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy at ¤ Only Free
-
-Search Freebies,  
-Free Stuff &   
-Free Samples 
-
-Don't forget to bookmark us. (Just press "Control, D")
-
-### Privacy Policy
+# Privacy Policy at ¤ Only Free at ¤ Only Free
 
 Ofree.net has created this privacy policy to demonstrate our business in the highest ethical standards and to uphold our promise to the public. However, our policy might change periodically, due to the changes within the environment.
 
@@ -24,9 +16,9 @@ Ofree.net will never disclose your personal information to any third parties.
 
 Disclaimer
 
-Ofree.net is a portal site and has links to external sites. We are not responsible for the contents of these sites. Additionally, we provide descriptions on our site for the convenience of our visitors and these descriptions are written to the best of our knowledge and editorial guidelines. We cannot be held responsible for any of these descriptions. 
+Ofree.net is a portal site and has links to external sites. We are not responsible for the contents of these sites. Additionally, we provide descriptions on our site for the convenience of our visitors and these descriptions are written to the best of our knowledge and editorial guidelines. We cannot be held responsible for any of these descriptions.
 
-Some of the offers listed on our site is not 100% free. You may have to pay Shipping or handling fees or be subjected to other conditions to get some free items. When you are giving out your personal information, please read their privacy policy and all details first. 
+Some of the offers listed on our site is not 100% free. You may have to pay Shipping or handling fees or be subjected to other conditions to get some free items. When you are giving out your personal information, please read their privacy policy and all details first.
 
 For questions regarding this privacy statement or the practises of this site, please contact us by [Clicking Here.](https://web.archive.org/contact.html)
 
