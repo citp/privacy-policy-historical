@@ -1,40 +1,129 @@
-> *The following text is extracted and transformed from the hdwallpapers.org privacy policy that was archived on 2014-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141224061952id_/http%3A//www.hdwallpapers.org/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hdwallpapers.org privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615094341id_/http%3A//www.hdwallpapers.org/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy - HD Wallpapers
+# Privacy Policy
 
-Your privacy is of utmost importance to us here at <http://www.hdwallpapers.org/>. Rest assured that any information you provide will only be used in accordance with this privacy statement.
+Last updated: 16/01/2015
 
-This policy may be updated or changed anytime and we encourage you to review it whenever you visit the site to make sure you understand how any personal information you provide will be used.
+hdwallpapers.org respects the privacy of the visitors to this web site and any co-branded, mirrored, or successor sites (the "Website") and are committed to protecting their privacy. hdwallpapers.org has established this Privacy Policy Statement to inform you of our policies and practices regarding how we collect personal identifiable information from you, how we use and disclose it, and your rights with respect to such information. By using this Website, you acknowledge and agree to the terms and conditions of this hdwallpapers.org Privacy Policy Statement ("Privacy Policy"). If you do not agree to these terms and conditions, please do not use this Website.
 
-### Collection and Use of Information
+We reserve the right to change or modify our privacy practices that are described herein from time to time simply by posting a revised Privacy Policy on this Website. Any such change shall be effective immediately upon posting of the revised Privacy Policy on this Website. We reserve the right to make the revised or changed Privacy Policy effective for information we already have about you, as well as any information we receive in the future. We encourage you to refer to this Privacy Policy on an ongoing basis so that you understand our current privacy practices.
 
-We collect personally identifiable information such as names and email addresses only when voluntarily submitted. These information are used merely to fulfill a specific request, for example, to post a comment on our blog, to create an account in our Forum, or to subscribe to our mailing list. All emails and newsletters from this site allow you to opt out of further communications.
+Like many websites, we gather information about how visitors use this Website. In general, you can visit many of the web pages on this Website without telling us who you are or revealing any personal information about yourself. We, however, may track your Internet Protocol (IP) address and other anonymous information from your web browser for trends and statistics (including, but not limited to, browser version, pages requested and pages visited), but you will remain anonymous unless you provide us with personal information during your visit to this Website or during an earlier or subsequent visit and we are able to link your IP address between your current visit and one of these other visits.
 
-### Distribution of Information
+We also work with service providers who use tracking technologies to serve ads across the Internet or track email communication response rates on our behalf. These companies may collect personal informationabout your visits to this Website and your interaction with our communications, including advertising.
 
-We never use or share any of those information in ways unrelated to the ones described above. We do not send spam and we do not sell your information to any company for marketing purposes. We may, however, share information with government agencies or other companies assisting us in fraud prevention or investigation. We may do so when: (1) permitted or required by law; (2) trying to protect against or prevent actual or potential fraud or unauthorized transactions; or (3) investigating fraud which has already taken place.
+In addition to anonymous information, we also collect personal information from you at this Website when you voluntarily submit it to us. We request personal information from you (which may include your name, address, telephone number, email address) when you:
 
-### Cookies and Web Beacons
+  1. Complete a registration, survey, application or other form;
+  2. Purchase a product or service from us or from one of our vendors, suppliers or other agents;
+  3. Sign-up to receive email newsletters or other correspondence;
+  4. Participate in a promotion, contest, sweepstakes or similar promotional activity;
+  5. Submit materials to our Website;
+  6. Request e-mail, fax, mail, or telephone support or services.
 
-We do use cookies to store information, such as your personal preferences when you visit our site. This could include only showing you a popup once in your visit, or the ability to login to some of our features, such as forums.
 
-We also use third party advertisements on <http://www.hdwallpapers.org/> to support our site. Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send theseadvertisers (such as Google through the Google AdSense program) information including your IP address, your ISP , the browser you used to visit our site, and in some cases, whether you have Flash installed. This is generally used for geotargeting purposes (showing New York real estate ads to someone in New York, for example) or showing certain ads based on specific sites visited (such as showing cooking ads to someone who frequents cooking sites).
 
-### DoubleClick DART Cookies
+We also collect information about your activities on and through this Website from our third party business partners, suppliers, vendors and other agents.
 
-We also may use DART cookies for ad serving through Google's DoubleClick, which places a cookie on your computer when you are browsing the web and visit a site using DoubleClick advertising. This cookie is used to serve ads specific to you and your interests ("interest based targeting").
+You may choose not to provide us with any personal information. In such event, you can still access and use many portions of this Website; however, you will not be able to access and use those portions of this Website or the services available on or through this Website that require your personal information.
 
-The ads served will be targeted based on your previous browsing history (For example, if you have been viewing sites about visiting Las Vegas, you may see Las Vegas hotel advertisements when viewing a non-related site, such as on a site about hockey). DART uses "non personally identifiable information". It does NOT track personal information about you, such as your name, email address, physical address, telephone number, social security numbers, bank account numbers or credit card numbers. You can opt-out of this ad serving on all sites using this advertising by visiting <http://www.doubleclick.com/privacy/dart_adserving.aspx>
+### Using Information
 
-You can choose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or bymanaging preferences in programs such as Norton Internet Security. However, this can affect how you are able to interact with our site as well as other websites. This could include the inability to login to services or programs, such as logging into forums or accounts. Deleting cookies does not mean you are permanently opted out of any advertising program. Unless you have settings that disallow cookies, the next time you visit a site running the advertisements, a new cookie will be added.
+We may use the information we collect to:
 
-### Links to other Websites
+  1. Customize and/or personalize your communications, surfing, viewing and/or shopping experience;
+  2. Better respond to your customer service inquiries;
+  3. Communicate with you about your purchase, account information, or customer service needs;
+  4. Communicate with you about our products and events, and for other promotional purposes;
+  5. Improve our business;
+  6. Administer contests, promotions, surveys or other website features;
+  7. Provide technical support to you;
+  8. Perform any other lawful acts except for those acts expressly prohibited by the terms and conditions set forth herein.
 
-Our site may contain links to other websites of interest. However, once you use these links to leave our site, we do not anymore have control over that website. Such sites are not governed by this privacy statement and we cannot be responsible for the protection and privacy of any information you provide to those sites. Exercise caution and read the privacy statement applicable to the website in question.
 
-### Privacy Contact Information
 
-Should you have any questions, concerns, or comments about our privacy policy, please contact us using our [Contact Form](http://www.hdwallpapers.org/contact.html) or email us directly at admin@hdwallpapers.org
+### Sharing Information
 
-  
+Except as expressly set forth herein, we do not loan, give away, sell, distribute or rent your personal information to any third party.
 
+We will disclose your personal information to third parties if you have previously consented to such disclosures and in special circumstances, including, but not limited to, the sale of hdwallpapers.org; the due diligence in connection with a potential sale of hdwallpapers.org; any bankruptcy, insolvency or liquidation of hdwallpapers.org, or in other similar circumstances.
+
+For the purpose of operating our business and providing you with certain services and products and to process your purchases, shipments and payments, we may disclose your personal information to one or more of our business partners, distributors, suppliers, affiliates, service providers or other third parties who are assisting hdwallpapers.org in performing such services. Without limiting the foregoing, these third parties may provide hdwallpapers.org with credit card processing, shipping, data management, email distribution, live text chat, email response, market research, information analysis, and promotions management services. We provide such parties with the personal information they need to perform their respective services and we use commercially reasonable efforts to require them to safeguard your personal information and limit their use of it.
+
+We also may provide your personal information to other hdwallpapers.org affiliated companies (including, but not limited to, affiliates, subsidiaries and our parent companies) who may use your personal information for any legal purposes whatsoever.
+
+We also may disclose personal information about you upon request by the government; in response to a court order; when required by law or when we believe in good faith is required by law; to enforce our Privacy Policy, terms and conditions or other agreements on this Website; upon your request; or to contact, identify or bring legal action against someone who may be causing injury to or interference with our or others' rights or property. We may also share information with companies assisting in fraud protection or investigation. We do not provide information to these agencies or companies for marketing purposes.
+
+We may also provide aggregated, non-personally identifiable information to third parties for any legal purposes whatsoever.
+
+### Protecting Your Information
+
+We use commercially reasonable efforts to safeguard and secure your personal information while stored on our computer systems. We use a variety of industry standard security measures, including encryption and authentication tools, to maintain the confidentiality of your personal information. Your personal information is stored behind industry standard firewalls and is only accessible by a limited number of persons who are authorized to access such systems, and are required to keep the information confidential. Regardless of these efforts by us, no system connected to the internet can be guaranteed to be 100% secure.
+
+We use commercially reasonable efforts to safeguard and secure the transmission of your personal information from your computer to our computers. When you place orders or access your personal information, we offer the use of a secure server. To the extent you select the secure server method and your browser supports such functionality, all credit card information you supply is transmitted via Secure Socket Layer (SSL) technology. Regardless of these efforts by us, no data transmission over the public Internet can be guaranteed to be 100% secure.
+
+To help protect your computer and personal information, make sure you have current anti-virus and firewall software installed on your computer and update such software on a regular basis. Also, please review your credit card statement carefully and verify that all transactions are authorized and report any discrepancies immediately to your credit card company.
+
+### Cookies
+
+This Website uses cookies. A cookie is a small, removable data file that is stored by your web browser on your computer. Cookies allow you to place an order on this Website and allow us to enhance, facilitate and personalize your online surfing and shopping experience. For example, we use cookies to:
+
+  1. Recognize you when you return to this Website;
+  2. Remember your stored preferences on this Website;
+  3. Present relevant content to you when you visit this Website;
+  4. Analyze visitor behavior; and
+  5. Facilitate other similar type of activities.
+
+
+
+You can choose to have your computer warn you each time a cookie is being sent or you can choose to turn off all cookies. You do this through your web browser settings.
+
+If you turn cookies off, you won't have access to many features that make your visit to this Website more efficient and enjoyable, and in some cases, some of our services will not function or will function with limited capability.
+
+### Children's Online Privacy
+
+We do not knowingly collect personal information from children under the age of 18. This Website is not intended to solicit information of any kind from children under the age of 18 and we have made commercially reasonable efforts to design this Website to prevent our knowing acceptance of any such information.
+
+It is possible that by fraud, deception or error, we may receive information pertaining to children under the age of 18. If we are notified of this, as soon as we verify the information, we will immediately obtain parental consent or otherwise delete the information from our servers. If you want to notify us of our receipt of personal information belonging to a child under the age of 18, please do so with our [contact form](https://web.archive.org/contact.html).
+
+### Email Marketing Practices
+
+When you submit any personal information, you understand and agree that hdwallpapers.org, its partners, and affiliates may access, store, and use your customer profile in any of the countries in which hdwallpapers.org and its affiliates provide services, including without limitation the United States. We collect this information for a variety of reasons, including hdwallpapers.org's effort to inform you of new products, special offers, and other products and services from hdwallpapers.org. hdwallpapers.org recognizes and appreciates the importance of responsible use of the information you choose to provide. hdwallpapers.org may selectively provide certain information to other companies or organizations whose products or services we think may interest you.
+
+hdwallpapers.org and its partners may often sponsor contests that you can enter. Your participation in these contests is entirely optional. hdwallpapers.org may also conduct surveys online, via e-mail, or by telephone. Your participation in these surveys is entirely optional. Survey participants are anonymous unless otherwise stated in the survey.
+
+### Chat Rooms and Forums
+
+This Website may now or in the future include web logs (i.e., blogs), chat rooms, post-it boards, forums, message boards, and/or news groups. Any information that is disclosed in these areas becomes public information. You should exercise caution before disclosing your personal information via these public venues, which you do at your own risk. If you do so, you may receive, among other things, unsolicited emails or "spam" from others. hdwallpapers.org cannot safeguard the privacy of personal information that is disclosed online in this manner.
+
+### Other Websites
+
+When browsing this Website, you may be directed to other websites that are beyond our control. These other websites may use cookies and pixel tags, collect data, or solicit personal information. Even though hdwallpapers.org may be affiliated with these websites, we have no control over them or how they collect, distribute or otherwise use your personal information or how they safeguard and secure your personal information. hdwallpapers.org is not responsible or liable for the conduct, policies or actions of the owners of such websites or the content displayed on these websites. These websites are linked to this Website only for your convenience and you access them at your own risk.
+
+### Unsubscribing, Removing or Modifying Your Information
+
+We want to communicate with you only if you want to hear from us.
+
+To modify or delete any or all of the personal information you have provided to us, please login and update your profile.
+
+You may unsubscribe from receiving emails, and other correspondence from us including, but not limited to, faxes and U.S. postal service mail, at any time by using the unsubscribe link, or by contacting us using the information, included at the bottom of each email communication.
+
+In some limited circumstances, such as to resolve disputes, troubleshoot problems and enforce our Terms of Use Agreement, we may retain in our files information you have requested to remove. Further, your personal information is never completely removed from our databases due to technical constraints and the fact that we back up our systems. Therefore, you should not expect that all of your personal information will be completely removed from our databases in response to your requests.
+
+We reserve the right to send you certain communications related to this Website that are considered part of your account, such as technical alerts, without offering you the opportunity to opt out of receiving them.
+
+### Terms and Conditions of Use
+
+hdwallpapers.org has a Terms and Conditions of Use Agreement that sets forth the terms and conditions under which we provide products, services and information to you from this Website, and your use of, and access to, this Website. It is your responsibility to read, understand and comply with the terms and conditions set forth therein. That agreement can be found at [hdwallpapers.org/terms-and-conditions.html](https://web.archive.org/terms-and-conditions.html).
+
+### Questions and Feedback
+
+We welcome your questions, comments, and concerns about this Privacy Policy and our privacy practices. Please send us feedback pertaining to these matters or any other issue you may have with hdwallpapers.org or this Website.
+
+### Third parties and their privacy policies
+
+We use third-party companies to display ads on our pages, to track visitor statistics as well as to provide social networking features.
+
+Third parties use cookies to display ads based on your prior visits to our website.
+
+Google's use of the DART cookie enables it and its partners to display ads based on your prior visits to this website and other websites.
