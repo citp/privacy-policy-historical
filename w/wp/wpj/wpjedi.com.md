@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wpjedi.com privacy policy that was archived on 2014-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140922000402id_/http%3A//www.wpjedi.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wpjedi.com privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615063114id_/http%3A//www.wpsolver.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | WordPress Jedi
+# Privacy Policy | WP Solver
 
 October 30th in by . 
 
