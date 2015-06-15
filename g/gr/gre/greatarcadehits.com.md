@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the greatarcadehits.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625134515id_/http%3A//greatarcadehits.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greatarcadehits.com privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615042715id_/http%3A//greatarcadehits.com/privacy-policy) for the most accurate reproduction.*
 
 # GreatArcadeHits | Privacy Policy
 
@@ -18,18 +18,13 @@ We collect two kinds of information through the Site. The first kind is informat
 
 If you do not want your information to continue to be collected and used as provided in this Policy, you should not access or use the Site again.
 
-Premium Game players ("Premium User(s)") have access to the Premium Games at no charge in exchange for their agreement to install the GreatArcadeHits software (the "Software") on their computers or other computing device. The Software allows us to display third party applications as well as text link, popup/under, transitional and banner advertisements based on the web content viewed by that User. No PII is collected through the Software. In addition, the Site and Premium Games may display advertisements from third parties before and/or during gameplay. All third party applications and all advertisements from the Software, Site and Premium games shall collectively be known as “Third Party Content”.
+Premium Game players ("Premium User(s)") have access to the Premium Games at no charge in exchange for their agreement to install the GreatArcadeHits software (the "Software") on their computers or other computing device. The Software allows us to display third party applications as well as text link, popup/under, shopping, transitional and banner advertisements based on the web content viewed by that User. No PII is collected through the Software. In addition, the Site and Premium Games may display advertisements from third parties before and/or during gameplay. All third party applications and all advertisements from the Software, Site and Premium games shall collectively be known as “Third Party Content”.
 
 Your dealings with Third Party Content, including, but not limited to, your interaction with its advertisements and promotions, purchase of its goods, or any other type of involvement, are solely between you and the third party. Therefore we do not endorse the advertisements, products or other materials of the Third Party Content. If you interact with the Third Party Content, their terms and conditions and privacy policies apply to your rights and obligations with respect to such interaction. Accordingly, such third parties may collect personal or non-personal information about you.
 
 **Collection of Personally Identifiable Information**
 
-PII is collected by GreatArcadeHits only when you provide it to us by using one of the following Site features:
-
-  * When you communicate with us via the "Contact Us" page, the Site asks for your name and email address so that you can receive a response.
-  * When you use our "Send Game to Friend" feature, GreatArcadeHits collects the name and email address of you and your friend. We will only send your friend a onetime email inviting them to visit the site and check out the game that you sent them. We do not retain their PII for any purpose.
-
-
+PII is collected by GreatArcadeHits only when you provide it to us via the "Contact Us" page, in which the Site asks for your name and email address so that you can receive a response.
 
 **Social Media (Features) and Widgets:**
 
@@ -93,10 +88,6 @@ In addition, if we or our Related Companies go through a business transition, su
 
 We have implemented technical, administrative and physical security measures to protect Information from unauthorized access and improper use. We keep information on servers that are protected by firewalls and located in a physically secure facility accessible only to our authorized employees and personnel of the Related Companies. From time to time, we review our security procedures in order to consider appropriate new technology and methods. Please be aware though, that, despite our reasonable efforts, no security measures are impenetrable and any information transmitted to us or through the Site will be at your own risk.
 
-**Opt-Out of GreatArcadeHits Emails**
-
-If you are receiving emails from GreatArcadeHits, it is because we understood from your participation on our Site that you were interested in receiving ongoing information from us. If at any point you no longer want to receive emails from GreatArcadeHits, you may at any time go to the Unsubscribe page on GreatArcadeHits and follow the 'opt out' directions there. If you have any questions about the opt-out process, you can contact us at [privacy@GreatArcadeHits.com](mailto:privacy@GreatArcadeHits.com). Also, please note that if we have already shared your information with one of our business partners, unsubscribing from our list will not prevent these third parties from emailing you. You will have to send an opt-out request to those third parties directly. Opportunities to "opt out" from receiving emails are usually found on these companies' websites or within each of their email communications.
-
 **Links from the Site**
 
 The Site provides links to the websites of many third parties. If you click through to any of these third party web sites, our Policy will not apply to your use of, and activities on, those third party sites. We encourage you to read the legal notices posted on these sites, including but not limited to their privacy policies. We shall have no responsibility or liability for your visitation to, and the data collection and use practices of, these sites. All inquiries concerning the use of PII by a third party must be communicated to that third party and not to GreatArcadeHits.
@@ -115,4 +106,4 @@ If you have any questions or concerns about this Policy or its implementation, p
 
 Effective: August 16, 2013
 
-Last Updated: September 11, 2013
+Last Updated: July 22, 2014
