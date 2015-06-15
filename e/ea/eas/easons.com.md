@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the easons.com privacy policy that was archived on 2014-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141229153546id_/http%3A//www.easons.com/t-privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easons.com privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615205200id_/http%3A//www.easons.com/t-privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy: Eason & Son Bookstore
 
@@ -224,7 +224,13 @@ You should be aware that these sites are likely to be collecting information abo
 
 
 
- **Email Content:**
+ **Third party emails**
+
+  * \- Feefo (a third party supplier) will email you after you have ordered with us, asking you to leave some feedback regarding the products you have bought and how you rate our service. We share basic order information with them so they can send you the email. You can opt to unsubscribe from these emails by clicking on the link in the email. They are not permitted to use this information for any other purpose, and it is fully secure. 
+
+
+
+**Email Content:**
 
   * \- eCommerce email will contain regular promotions and discounts for easons.com & easonschoolbooks.com as well as content relating to new releases, best sellers, book awards and occasional polls and surveys
   * \- Loyalty emails will contain a members points balance information, promotions and book related news
