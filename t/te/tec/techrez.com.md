@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techrez.com privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123071606id_/http%3A//www.techrez.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techrez.com privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615152400id_/http%3A//www.techrez.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
