@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rdemotivational.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702144655id_/http%3A//rdemotivational.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rdemotivational.com privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615063904id_/http%3A//rdemotivational.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Demotivational Posters
 
@@ -60,4 +60,4 @@ This policy was last modified 4/27/2012.
 
  **Contacting Us**
 
-If there are any questions regarding this privacy policy you may contact us at [info@rdemotivational.com](mailto:info@rdemotivational.com)
+If there are any questions regarding this privacy policy you may contact us at [info@rdemotivational.com](https://web.archive.org/cdn-cgi/l/email-protection#81e8efe7eec1f3e5e4eceef5e8f7e0f5e8eeefe0edafe2eeec)
