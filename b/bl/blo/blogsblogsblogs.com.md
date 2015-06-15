@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blogsblogsblogs.com privacy policy that was archived on 2014-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141229142149id_/http%3A//smackdown.blogsblogsblogs.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blogsblogsblogs.com privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615103901id_/http%3A//smackdown.blogsblogsblogs.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Smackdown!
 
@@ -45,4 +45,4 @@ Be Sociable, Share!
   * 
 
 
-Posted in | [No Comments »](http://smackdown.blogsblogsblogs.com/privacy/#respond "Comment on Privacy")
+Posted in | [No Comments »](http://smackdown.blogsblogsblogs.com/privacy/#respond)
