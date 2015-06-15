@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the accessconsciousness.com privacy policy that was archived on 2014-07-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140722153115id_/http%3A//www.accessconsciousness.com/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the accessconsciousness.com privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615130058id_/http%3A//www.accessconsciousness.com/privacy-policy.asp) for the most accurate reproduction.*
 
 # Policy - Privacy
 
