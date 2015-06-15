@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the veda.com.au privacy policy that was archived on 2014-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141224125431id_/http%3A//www.veda.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the veda.com.au privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615054839id_/http%3A//www.veda.com.au/privacy) for the most accurate reproduction.*
 
 # Privacy Policy (Australia) | Veda
 
@@ -47,6 +47,8 @@ In addition Veda Advantage Information Services & Solutions Ltd (VISS) operates 
 
 • Inivio uses data to assist businesses in analysing and formulating direct marketing strategies.
 
+• The Prospect Shop can provide access to various commercially available marketing databases and mailing lists
+
 | 
 
 Whilst not covered by this Privacy Policy, in New Zealand Veda offers similar products to Consumer Risk & Identity and Commercial Risk & Information Services based on New Zealand information.
@@ -67,6 +69,7 @@ The Veda Group comprises of a number of separate businesses:
   * Veda Advantage Solutions Group Pty Ltd T/AS Inivio (Inivio) offers its customers a range of products to assist them in aspects of campaign management.
   * Insurance Reference Services operates an Australian insurance claims reporting business which Veda manages on its behalf.
   * Corporate Scorecard provides services for assessing, commercial, financial and operational risks of suppliers and contractors in procurement.
+  * Kingsway Financial Assessments provides services for assessing, commercial, financial and operational risks of suppliers and contractors in procurement.
 
 
 
@@ -101,6 +104,7 @@ In addition, there are a number of limited circumstances in which we will collec
   * When you contact Verify in order to provide information for background checks for employment purposes.
   * When you obtain information from us over the internet such as carhistory.com.au.
   * When you opt-in to receiving offers and product information from Veda.
+  * When you provide us with information, either through or websites or our representatives or otherwise.
 
 
 
@@ -149,8 +153,8 @@ For details about our Consumer Credit Risk business, please refer to our Credit 
 For Identity Solutions purposes we collect:
 
   * Publicly available identity information
-  * Ntd identity information
-  * IRS identity information
+  * NTD identity information
+  * Insurance Reference Services (IRS) identity information
   * Electoral Roll information
 
 
@@ -168,7 +172,7 @@ We also collect commercial credit reporting information, as detailed below, whic
 
 Verify collects information from you and then seeks to verify that information from a variety of sources, e.g. interviewing referees, contacting universities to validate university transcripts, health care professionals and law enforcement agencies.  Depending upon the position being applied for, we collect some or all of the following information:
 
-  * Name and previous names
+  * Full name and previous names
   * Date of birth
   * Drivers licence number and validity
   * Gender
@@ -222,15 +226,19 @@ As such organisations we may disclose your personal information to include:
 
 We collect a range of personal information for the purposes of operating a commercial credit bureau including:
 
-  * Name
-  * Latest and previous addresses
+  * Full name
+  * Latest and previous addresses including postcode
   * Date of Birth
+  * Contact numbers
   * Driver’s Licence
   * Gender
   * Current and Previous Employment information
   * Enquiries made in relation to commercial credit or for risk assessment purposes
   * Information relating to accounts you have defaulted on including those where you have gone guarantor
+  * Information relating to other debts or obligations you have failed to pay
   * Information about commercial credit providers with whom you have a credit relationship
+  * Business phone numbers
+  * Business email addresses
 
 | 
 
@@ -268,8 +276,8 @@ In order to provide these services to you we need to collect personal informatio
   * Date of Birth
   * Driver’s Licence
   * Gender
-  * Latest Address
-  * Previous Addresses
+  * Latest Address including postcode
+  * Previous Addresses including postcode
   * Occupation
   * Credit Card details
   * Email address
@@ -280,9 +288,9 @@ In order to provide these services to you we need to collect personal informatio
 
 
 
-In the case of Inivio we collect publicly available information as well as other personal information such as email address and mobile phone number.
+In the case of Inivio and The Prospect Shop we collect publicly available information as well as other personal information such as email address and mobile phone number.
 
-Information that is not publicly available is collected by Inivio from you or from third parties who have your consent to use and disclose your personal information or from you directly with your consent to the subsequent use and disclosure of that information.
+Information that is not publicly available is collected by Inivio and The Prospect Shop from you or from third parties who have your consent to use and disclose your personal information or from you directly with your consent to the subsequent use and disclosure of that information.
 
 We primarily collect information directly from you when you register to receive offers from us when you answer our questionnaires, and when you enter our competitions.
 
@@ -322,7 +330,7 @@ For the purposes of NTD we collect information in accordance with the APPs for t
 
 If as part of signing up VedaScore, Secure Sentinel, carhistory.com.au or NTD and you provide consent to receive marketing offers from the Veda group of companies or from customers your identity information may be used for marketing purposes.
 
- **Inivio** collects your personal information for a variety of reasons including:
+ **Inivio and The Prospect Shop**  collect your personal information for a variety of reasons including:
 
   * To evaluate and improve our service, and provide you with a more personalised service;
   * To provide you with information about the products and services we offer, including letting you know about competitions and promotions; 
@@ -332,7 +340,9 @@ If as part of signing up VedaScore, Secure Sentinel, carhistory.com.au or NTD an
 
 
 
-For further information about the other purposes for which Inivio uses and discloses personal information refer to the [Inivio Privacy Policy](http://www.inivio.com.au/doc/Privacy%20policy%20for%20publication%2010122013.pdf)
+For further information about the other purposes for which Inivio uses and discloses personal information refer to the [Inivio Privacy Policy](http://www.inivio.com.au/sites/default/files/images/Australia%20Inivio%20Privacy%20policy%20101214%20final.pdf)
+
+For further information about the other purposes for which TPS uses and discloses personal information refer to the [TPS Privacy Policy](http://www.prospectshop.com.au/privacy.aspx)
 
  **Know Your Tradie** collects your personal information in order to provide you with the report you ordered and so that the report can be charged to your nominated card.
 
@@ -373,15 +383,17 @@ The personal information we collect may be used by Veda or its Share Registry fo
 
 In addition, your personal information may also be provided to Veda’s agents and service providers on the basis that they deal with such information in accordance with Veda’s privacy policy.
 
- These agents and service providers may be located outside Australia in accordance with NPP 9, nevertheless, your personal information may not receive the same level of protection as it does in Australia under Australian law.
+ These agents and service providers may be located outside Australia in accordance with APP 8, nevertheless, your personal information may not receive the same level of protection as it does in Australia under Australian law.
 
 Your personal information may also be used to inform you about other products and services offered by Veda, which it considers may be of interest to you.
 
 Please note that information in Veda’s register is retained in accordance with the Corporation Act 2001.  The information will remain there for 7 years after you cease to be a shareholder.  
   
+If Veda does not collect your personal information, Veda may not be able to provide its products or services to or in connection with you.
+
  **Disclosures Overseas**
 
-In limited circumstances Veda may disclose your personal information to an entity overseas.  Generally speaking this is in circumstances where we have engaged a third party to carry out certain call centre operations on behalf of one of the Veda entities.  In such cases, personal information including name, address and telephone numbers is disclosed to organisations in South Africa and the Philippines.  In addition, as part of Inivio’s marketing services personal information may be disclosed to Singapore and the United States of America and to service providers in the United Kingdom, Poland and Germany.  Where Verify is conducting verification in Australia and you have lived overseas, personal information about you may be disclosed to the country(ies) in which you have resided as part of the verification process.  This can include verification of your employment history; educational qualifications obtained overseas as well a criminal history check.
+In limited circumstances Veda may disclose your personal information to an entity overseas.  Generally speaking this is in circumstances where we have engaged a third party to carry out certain call centre operations on behalf of one of the Veda entities.  In such cases, personal information including name, address and telephone numbers is disclosed to organisations in South Africa and the Philippines. TPS, for the purposes of conducting their services may disclose your personal information to data storage providers located in USA, China, UK and NZ. In addition, as part of Inivio’s marketing services personal information may be disclosed to Singapore and the United States of America and to service providers in the United Kingdom, Poland and Germany.  Where Verify is conducting verification in Australia and you have lived overseas, personal information about you may be disclosed to the country(ies) in which you have resided as part of the verification process.  This can include verification of your employment history; educational qualifications obtained overseas as well a criminal history check.
 
 ## 5\. Your Right of Access
 
@@ -397,7 +409,7 @@ If you would like to obtain a copy of your files including the personal informat
   
 ---|---  
   
- **Your Commercial Risk and /or insurance information  **
+ **Your Consumer Risk & Identity, Commercial Risk and /or insurance information **
 
 | 
 
@@ -407,11 +419,16 @@ PO Box 964
 NORTH SYDNEY  NSW  2059  
 <http://www.veda.com.au/understanding-your-credit-file>  
   
+ **Your information held by Know Your Tradie**|  Email:  [support@knowyourtradie.com](mailto:support@knowyourtradie.com)  
+ **Your information held by Reduce My Bills**|  On 1300 680 603  
+  
  **Your tenancy information held by NTD**
 
 | 
 
 [info@ntd.net.au](mailto:info@ntd.net.au)  
+  
+ **Your personal information held by CarHistory**|  Email: [support@carhistory.com.au](mailto:support@carhistory.com.au)  
   
  **Your personal Information held by Secure Sentinel**
 
@@ -431,7 +448,27 @@ NORTH SYDNEY  NSW  2059
 
 Email:  [info@verifycv.com.au](mailto:info@verifycv.com.au).  
   
- **Your personal information held by Corporate Scorecard**| [admin@corporatescorecard.com.au](mailto:admin@corporatescorecard.com.au)  
+ **Your personal information held by Inivio**| 
+
+ **Inivio**
+
+GPO Box 964  
+NORTH SYDNEY  NSW  2059
+
+Email: [info@inivio.com.au](mailto:info@inivio.com.au)  
+  
+ **Your personal information held by Corporate Scorecard**|  Email: [admin@corporatescorecard.com.au](mailto:admin@corporatescorecard.com.au)  
+ **Your personal information held by Kingsway Assessments Pty Ltd**|  Email: [assessments@kingswaygroup.com.au](mailto:assessments@kingswaygroup.com.au)  
+ **Your personal information held by The Prospect Shop**| 
+
+ **The Prospect Shop**
+
+357 Riley Street  
+SURRY HILLS, SYDNEY  NSW  2010
+
+Telephone: 02 9281 0299
+
+Email: [info@prospectshop.com.au](mailto:info@prospectshop.com.au)  
   
  **Share related personal information**
 
@@ -447,11 +484,11 @@ MELBOURNE  VIC  3000
 
 Telephone:  1300 554 474  
   
-Veda may charge you a fee for providing you with a copy of your files and for providing you with the information that Veda hold on you.
+Veda may charge you a fee for providing you with a copy of your files and for providing you with the information that Veda holds on you.
 
-## 6\. Your right to request a correction or make a compliant
+## 6\. Your right to request a correction or make a complaint
 
-If you have a dispute about personal information on your commercial credit, tenancy or insurance data we will investigate and provide you with a formal written response, generally, within 30 days. Where we determine that no amendment to your personal information is required you have the right to add a statement to your file.
+If you have a dispute about personal information held by Veda and covered by this policy, we will investigate and provide you with a formal written response, generally, within 30 days. Where we determine that no amendment to your personal information is required you have the right to add a statement to your file.
 
 We will investigate and deal with your correction request or complaint in a fair, efficient and timely manner. 
 
@@ -468,7 +505,7 @@ You can contact us at:
   
 ---|---  
   
- **Your Commercial Risk and /or insurance information  **
+ **Your Consumer Risk & Identity, Commercial Risk and /or insurance information **
 
 | 
 
@@ -479,11 +516,16 @@ NORTH SYDNEY  NSW  2059
 
 Email: [corrections@veda.com.au](mailto:corrections@veda.com.au)  
   
+ **Your information held by Know Your Tradie**|  Email:  [support@knowyourtradie.com](mailto:support@knowyourtradie.com)  
+ **Your information held by Reduce My Bills**|  On 1300 680 603  
+  
  **Your tenancy information held by NTD**
 
 | 
 
 [info@ntd.net.au](mailto:info@ntd.net.au)  
+  
+ **Your personal information held by CarHistory**|  Email: [support@carhistory.com.au](mailto:support@carhistory.com.au)  
   
  **Your personal Information held by Secure Sentinel**
 
@@ -503,6 +545,27 @@ NORTH SYDNEY  NSW  2059
 
 Email:  [info@verifycv.com.au](mailto:info@verifycv.com.au).  
   
+ **Your personal information held by Inivio**| 
+
+ **Inivio**
+
+GPO Box 964  
+NORTH SYDNEY  NSW  2059
+
+Email: [info@inivio.com.au](mailto:info@inivio.com.au)  
+  
+ **Your personal information held by Kingsway Assessments Pty Ltd**|  Email: [assessments@kingswaygroup.com.au](mailto:assessments@kingswaygroup.com.au)  
+ **Your personal information held by The Prospect Shop**| 
+
+ **The Prospect Shop**
+
+357 Riley Street  
+SURRY HILLS, SYDNEY  NSW  2010
+
+Telephone: 02 9281 0299
+
+Email: [info@prospectshop.com.au](mailto:info@prospectshop.com.au)  
+  
 If you are unhappy with the outcome of our investigation you have a right to complain to Financial Ombudsman Service or the Office of the Australian Information Commissioner. The contact details of each are set out below:
 
  **Financial Ombudsman Service**
@@ -518,6 +581,8 @@ GPO Box 5218
 SYDNEY NSW 2001
 
 ## 7.Use of Personal Information for Marketing Purposes
+
+For specific information regarding use of personal information by Inivio and The Prospect Shop for marketing purposes, please refer to [Inivio’s Privacy Policy](http://www.inivio.com.au/sites/default/files/images/Australia%20Inivio%20Privacy%20policy%20101214%20final.pdf)  and [The Prospect Shop’s Privacy Policy](http://www.prospectshop.com.au/privacy.aspx) . The information which follows is of general application to Veda and is subject to those policies.
 
 Veda collects information to provide its customers and individuals with a large variety of services.  Sometimes different entities within Veda will contact individuals to market Veda services.  All marketing by Veda to individuals is based on the consent of the individual to that marketing.
 
@@ -599,7 +664,9 @@ NORTH SYDNEY  NSW  2059
 
 [support@carhistory.com.au](mailto:support@carhistory.com.au)  
   
-Corporate Scorecard| If you have consented to receiving emails from Corporate Scorecard about its products and services.| [admin@corporatescorecard.com.au](mailto:admin@corporatescorecard.com.au)  
+ **Corporate Scorecard**|  If you have consented to receiving emails from Corporate Scorecard about its products and services.| Email: [admin@corporatescorecard.com.au](mailto:admin@corporatescorecard.com.au)  
+ **Kingsway**|  If you are a customer of Kingsway, have been assessed by Kingsway or have consented to receiving emails from Kingsway about its products and services.| Email: [enquiries@kingswaygroup.com.au](mailto:enquiries@kingswaygroup.com.au)  
+ **The Prospect Shop**|  If you are a customer of The Prospect Shop and have consented to receiving emails from TPS about its products and services.| Email: [info@prospectshop.com.au](mailto:info@prospectshop.com.au)  
   
 ## 8\. Government Identifiers and Sensitive Information
 
