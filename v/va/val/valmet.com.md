@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the valmet.com privacy policy that was archived on 2014-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141109103721id_/http%3A//www.valmet.com/en/about_us.nsf/WebWID/WTB-081014-2256F-9B0E2%3FOpenDocument) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the valmet.com privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615020306id_/http%3A//www.valmet.com/en/about_us.nsf/WebWID/WTB-081014-2256F-9B0E2%3FOpenDocument) for the most accurate reproduction.*
 
 # Privacy policy
 
