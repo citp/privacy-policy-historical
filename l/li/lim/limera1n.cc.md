@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the limera1n.cc privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701213828id_/http%3A//www.limera1n.cc/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the limera1n.cc privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615034747id_/http%3A//www.limera1n.cc/p/privacy-policy.html) for the most accurate reproduction.*
 
-# Unlock / Untethered Jailbreak iOS 7.1 / 7.0.6 with Evasi0n: Privacy Policy
+# Unlock / Untethered Jailbreak iOS 8 / 8.0.2 with Pnagu: Privacy Policy
 
 **Privacy Policy for www.Limera1n.cc**
 
