@@ -1,13 +1,14 @@
-<!--The following is the downloaded HTML source of the myregistry.com privacy policy that was archived on 2014-11-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141108124017id_/http%3A//www.myregistry.com/Info/Privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the myregistry.com privacy policy that was archived on 2015-06-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150615110633id_/http%3A//www.myregistry.com/Info/Privacy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><title>
 	Privacy Statement - MyRegistry.com
 </title><meta name="description" content="This Privacy Statement sets forth the information gathering, use, and dissemination practices of MyRegistry LLC (&quot;MyRegistry&quot;) in connection with the World Wide Web site located at www.myregistry.com (the “Site”). "><meta name="keywords" content="privacy statement, privacy policy, Opt-Out"><link rel="icon" type="image/x-icon" href="/images/icons/favicon.ico">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/ScriptSet/MrJqueryScripts.js?version=201411031249212303"></script>
-    <script type="text/javascript" src="/ScriptSet/MrScripts.js?version=201411031249212303"></script>
-    <link href="/StyleSet/MrMainStyles.css?version=201411080023003141" rel="stylesheet" type="text/css">
+    <script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script type="text/javascript" async="" src="https://d31qbv1cthcecs.cloudfront.net/atrk.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/ScriptSet/MrJqueryScripts.js?version=201506081130251193"></script>
+    <script type="text/javascript" src="/ScriptSet/MrScripts.js?version=201506081130251193"></script>
+    <script type="text/javascript" src="/Scripts/CheckAuthCookie.js?version=201506081130251193"></script>
+    <link href="/StyleSet/MrMainStyles.css?version=201506150023002154" rel="stylesheet" type="text/css">
 <script type="text/javascript">
     var _gaq = _gaq || [];
     var GoogleTracking = {
@@ -19,12 +20,13 @@
             _gaq.push(['_setDomainName', this.domainName]);
             (function() {
                 var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js'; // /u/ga_debug.js
                 var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
             })();
 
         },
         trackEvent: function(category, action, label, value) {
+        
             if (this.isEnabled) {
                 _gaq.push(['_trackEvent', category, action, label, value]);
             }
@@ -33,11 +35,11 @@
     GoogleTracking.Initialize();
     _gaq.push(['_trackPageview']);
 </script>
- 
 <!--Google Publisher Tag BEGIN-->
 <script type="text/javascript">
     var googletag = googletag || {};
     googletag.cmd = googletag.cmd || [];
+    googletag.mrenv = '';
     (function () {
         var gads = document.createElement('script');
         gads.async = true;
@@ -49,162 +51,15 @@
         node.parentNode.insertBefore(gads, node);
     })();
 </script>
-
-<script type="text/javascript">
-    var GoogleTag = {
-        Initialized: false,
-        RegistryType: "",
-        Initialize: function () {
-            if (!GoogleTag.Initialized && GoogleTag.GetRegistryType()) {
-                GoogleTag.PushTags();
-                GoogleTag.Initialized = true;
-            }
-        },
-        getCookie: function (c_name) {
-            var c_value = document.cookie;
-            var c_start = c_value.indexOf(" " + c_name + "=");
-            if (c_start == -1) {
-                c_start = c_value.indexOf(c_name + "=");
-            }
-            if (c_start == -1) {
-                c_value = null;
-            }
-            else {
-                c_start = c_value.indexOf("=", c_start) + 1;
-                var c_end = c_value.indexOf(";", c_start);
-                if (c_end == -1) {
-                    c_end = c_value.length;
-                }
-                c_value = unescape(c_value.substring(c_start, c_end));
-            }
-            return c_value;
-        },
-        GetRegistryType: function () {
-            var rType;
-            rType = GoogleTag.RegistryType || $("#RegistryType").val();
-            if (!rType) {
-                var rTypeFromCookie = GoogleTag.getCookie('MrMarketingRegistryType');
-                if (rTypeFromCookie != null) {
-                    rType = (rTypeFromCookie.indexOf('Baby') != -1) ? "Baby" :
-                        (rTypeFromCookie.indexOf('Wedding') != -1) ? "Wedding" :
-                            (rTypeFromCookie.indexOf('Lifestyle') != -1) ? "Lifestyle" : "";
-                } else rType = "Lifestyle";
-            } 
-            
-            return rType;
-        },
-        PushTags: function () {
-            googletag.cmd.push(function () {
-                googletag.defineSlot('/21500042/add_baby_300x250', [300, 250], 'div-gpt-ad-1396049381214-0').addService(googletag.pubads());
-                googletag.defineSlot('/21500042/add_button_box_300x250', [300, 250], 'div-gpt-ad-1396049381214-1').addService(googletag.pubads());
-                googletag.defineSlot('/21500042/add_wed_300x250', [300, 250], 'div-gpt-ad-1396049381214-2').addService(googletag.pubads());
-                
-                //googletag.defineSlot('/21500042/add_button_box_300x250', [300, 250], 'div-gpt-ad-1383330761767-0').addService(googletag.pubads());
-                googletag.defineSlot('/21500042/add_button_right_240x400', [240, 400], 'div-gpt-ad-1383330761767-1').addService(googletag.pubads());
-                window.slot2 = googletag.defineSlot('/21500042/community_pop_leader_160x600', [728, 90], 'div-gpt-ad-1383330761767-2').addService(googletag.pubads());
-                window.slot3 = googletag.defineSlot('/21500042/community_sky_160x600', [160, 600], 'div-gpt-ad-1383330761767-3').addService(googletag.pubads());
-                googletag.defineSlot('/21500042/community_spon_160x600', [160, 600], 'div-gpt-ad-1383330761767-4').addService(googletag.pubads());
-                googletag.defineSlot('/21500042/home_bottom_leader_728x90', [728, 90], 'div-gpt-ad-1383330761767-5').addService(googletag.pubads());
-                window.slot6 = googletag.defineSlot('/21500042/Home_login_box', [300, 250], 'div-gpt-ad-1383330761767-6').addService(googletag.pubads());
-                googletag.defineSlot('/21500042/home_top_leader_728x90', [728, 90], 'div-gpt-ad-1383330761767-7').addService(googletag.pubads());
-                window.slot8 = googletag.defineSlot('/21500042/mg_add_gifts_box_300x250', [300, 250], 'div-gpt-ad-1383330761767-8').addService(googletag.pubads());
-                googletag.defineSlot('/21500042/mg_bottom_leader_728x90', [728, 90], 'div-gpt-ad-1383330761767-9').addService(googletag.pubads());
-                googletag.defineSlot('/21500042/mg_left_box1_300x250', [300, 250], 'div-gpt-ad-1383330761767-10').addService(googletag.pubads());
-                googletag.defineSlot('/21500042/mg_left_box2_300x250', [300, 250], 'div-gpt-ad-1383330761767-11').addService(googletag.pubads());
-                window.slot12 = googletag.defineSlot('/21500042/mg_left_sky_160x600', [160, 600], 'div-gpt-ad-1383330761767-12').addService(googletag.pubads());
-                googletag.defineSlot('/21500042/mg_right_box1_300x250', [300, 250], 'div-gpt-ad-1383330761767-13').addService(googletag.pubads());
-                googletag.defineSlot('/21500042/mg_right_box2_300x250', [300, 250], 'div-gpt-ad-1383330761767-14').addService(googletag.pubads());
-                window.slot15 = googletag.defineSlot('/21500042/mg_right_sky_160x600', [160, 600], 'div-gpt-ad-1383330761767-15').addService(googletag.pubads());
-                window.slot16 = googletag.defineSlot('/21500042/mg_top_leader_728x90', [728, 90], 'div-gpt-ad-1383330761767-16').addService(googletag.pubads());
-                googletag.defineSlot('/21500042/paw_bottom_leader_728x90', [728, 90], 'div-gpt-ad-1383330761767-17').addService(googletag.pubads());
-                window.slot18 = googletag.defineSlot('/21500042/purchased_bottom_leader_728x90', [728, 90], 'div-gpt-ad-1383330761767-18').addService(googletag.pubads());
-                googletag.defineSlot('/21500042/sync_left_sky_160x600', [160, 600], 'div-gpt-ad-1383330761767-19').addService(googletag.pubads());
-                googletag.defineSlot('/21500042/sync_right_sky_160x600', [160, 600], 'div-gpt-ad-1383330761767-20').addService(googletag.pubads());
-                googletag.defineSlot('/21500042/sync_top_leader_728x90', [728, 90], 'div-gpt-ad-1383330761767-21').addService(googletag.pubads());
-                googletag.defineSlot('/21500042/vgiftlist_zoom_240x400', [240, 400], 'div-gpt-ad-1383330761767-22').addService(googletag.pubads());
-                window.slot23 = googletag.defineSlot('/21500042/vgiftlist_zoom_leader_728x90', [728, 90], 'div-gpt-ad-1383330761767-23').addService(googletag.pubads());
-                googletag.defineSlot('/21500042/VGL_Top_Leader_728x90', [728, 90], 'div-gpt-ad-1384806024094-0').addService(googletag.pubads());
-                googletag.defineSlot('/21500042/mg_top_center_970x90', [970, 90], 'div-gpt-ad-1396300426810-0').addService(googletag.pubads());
-                googletag.defineSlot('/21500042/storeswelike:sky:160x600', [160, 600], 'div-gpt-ad-1396645096605-0').addService(googletag.pubads());
-                
-
-                //new banners 8/8/2014
-                googletag.defineSlot('/21500042/info_B_leader_728x90', [728, 90], 'div-gpt-ad-1407511021360-0').addService(googletag.pubads());
-                googletag.defineSlot('/21500042/info_L_sky_160x600', [160, 600], 'div-gpt-ad-1407511021360-1').addService(googletag.pubads());
-                googletag.defineSlot('/21500042/info_R_sky_160x600', [160, 600], 'div-gpt-ad-1407511021360-2').addService(googletag.pubads());
-                googletag.defineSlot('/21500042/info_T_leader_728x90', [728, 90], 'div-gpt-ad-1407511021360-3').addService(googletag.pubads());
-                googletag.defineSlot('/21500042/landing_B_leader_728x90', [728, 90], 'div-gpt-ad-1407511021360-4').addService(googletag.pubads());
-                googletag.defineSlot('/21500042/landing_L_sky_160x600', [160, 600], 'div-gpt-ad-1407511021360-5').addService(googletag.pubads());
-                googletag.defineSlot('/21500042/landing_R_sky_160x600', [160, 600], 'div-gpt-ad-1407511021360-6').addService(googletag.pubads());
-                googletag.defineSlot('/21500042/landing_T_leader_728x90', [728, 90], 'div-gpt-ad-1407511021360-7').addService(googletag.pubads());
-                googletag.defineSlot('/21500042/search_B_leader_728x90', [728, 90], 'div-gpt-ad-1407511021360-8').addService(googletag.pubads());
-                googletag.defineSlot('/21500042/search_L_sky_160x600', [160, 600], 'div-gpt-ad-1407511021360-9').addService(googletag.pubads());
-                googletag.defineSlot('/21500042/search_R_sky_160x600', [160, 600], 'div-gpt-ad-1407511021360-10').addService(googletag.pubads());
-                googletag.defineSlot('/21500042/search_T_leader_728x90', [728, 90], 'div-gpt-ad-1407511021360-11').addService(googletag.pubads());
-                googletag.defineSlot('/21500042/babyVend_B_leader_728x90', [728, 90], 'div-gpt-ad-1407513479843-0').addService(googletag.pubads());
-                googletag.defineSlot('/21500042/babyVend_L_sky_160x600', [160, 600], 'div-gpt-ad-1407513479843-1').addService(googletag.pubads());
-                googletag.defineSlot('/21500042/babyVend_R_sky_160x600', [160, 600], 'div-gpt-ad-1407513479843-2').addService(googletag.pubads());
-                googletag.defineSlot('/21500042/babyVend_T_leader_728x90', [728, 90], 'div-gpt-ad-1407513479843-3').addService(googletag.pubads());
-                googletag.defineSlot('/21500042/wedRes_B_leader_728x90', [728, 90], 'div-gpt-ad-1407513479843-4').addService(googletag.pubads());
-                googletag.defineSlot('/21500042/wedRes_L_sky_160x600', [160, 600], 'div-gpt-ad-1407513479843-5').addService(googletag.pubads());
-                googletag.defineSlot('/21500042/wedRes_R_sky_160x600', [160, 600], 'div-gpt-ad-1407513479843-6').addService(googletag.pubads());
-                googletag.defineSlot('/21500042/wedRes_T_leader_728x90', [728, 90], 'div-gpt-ad-1407513479843-7').addService(googletag.pubads());
-                googletag.defineSlot('/21500042/sync_B_leader_728x90', [728, 90], 'div-gpt-ad-1407972263082-0').addService(googletag.pubads());
-                
-                googletag.pubads().collapseEmptyDivs(true);
-                
-                googletag.pubads().setTargeting("reg", GoogleTag.GetRegistryType()); //live
-                
-                googletag.enableServices();
-            });
-        },
-        GoogleBannerPosition: function () {
-            var mgGoogleBanners = setInterval(function () {
-                // Changing window size depend on Google Banners
-                if (GoogleTag.IsLeftBannerExist() && GoogleTag.IsRightBannerExist()) { // left + right
-                    $("#MR_GlobalMiddle, #MR_GlobalWrapper, #MR_GlobalBottom, #MR_GlobalTopBanner").css('min-width', '1300px');
-                    $('#MR_GlobalLeftBanner, #MR_GlobalRightBanner').scrollToFixed();
-                    $('#giftListManageButtonsContainer').trigger('detach.ScrollToFixed').scrollToFixed();
-                    clearInterval(mgGoogleBanners);
-                } else if (GoogleTag.IsLeftBannerExist() || GoogleTag.IsRightBannerExist()) { // left or right
-                    $("#MR_GlobalMiddle, #MR_GlobalWrapper, #MR_GlobalBottom, #MR_GlobalTopBanner").css('min-width', '1140px');
-                    $('#MR_GlobalLeftBanner, #MR_GlobalRightBanner').scrollToFixed();
-                    $('#giftListManageButtonsContainer').trigger('detach.ScrollToFixed').scrollToFixed();
-                } else {
-                    $("#MR_GlobalMiddle, #MR_GlobalWrapper, #MR_GlobalBottom, #MR_GlobalTopBanner").css('min-width', '960px');
-                }
-            }, 200);
-
-            $(window).bind("load", function() {
-                clearInterval(mgGoogleBanners);
-                if (GoogleTag.IsTopBannerExist()) {
-                    $("#MR_GlobalTopBanner div").first().css('padding', '5px 0');
-                }
-            });
-        },
-        IsLeftBannerExist: function () {
-            var leftBanner = $("#MR_GlobalLeftBanner iframe").contents().find('body').html();
-            return (typeof leftBanner != 'undefined' &&
-                leftBanner != "" &&
-                    leftBanner != null) ? true : false; 
-        },
-        IsRightBannerExist: function () {
-            return $("#MR_GlobalRightBanner iframe").contents().find('div').length > 0;
-        },
-        IsTopBannerExist: function () {
-            return $("#MR_GlobalTopBanner iframe").contents().find('div').length > 0;
-        },
-        IsManageGiftsMiddleBannerExist: function () {
-            return $("#ManageGiftsMiddleBanner iframe").contents().find('div').length > 0;
-        }
-    };
-</script>
 <!-- Google Publisher Tag END-->
 
 <!-- Start Alexa Certify Javascript -->
-<script type="text/javascript" src="https://d31qbv1cthcecs.cloudfront.net/atrk.js"></script><script type="text/javascript">                                                                                                _atrk_opts = { atrk_acct: "ggrge1aUY9008q", domain: "myregistry.com" }; atrk();</script><noscript><img src="https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=ggrge1aUY9008q" style="display:none" height="1" width="1" alt="" /></noscript>
-<!-- End Alexa Certify Javascript -->
-
+<script type="text/javascript">
+    _atrk_opts = { atrk_acct: "ggrge1aUY9008q", domain: "myregistry.com", dynamic: true };
+    (function () { var as = document.createElement('script'); as.type = 'text/javascript'; as.async = true; as.src = "https://d31qbv1cthcecs.cloudfront.net/atrk.js"; var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(as, s); })();
+</script>
+<noscript><img src="https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=ggrge1aUY9008q" style="display:none" height="1" width="1" alt="" /></noscript>
+<!-- End Alexa Certify Javascript -->  
 <!-- Quantcast Tag -->
 <script type="text/javascript">
 
@@ -250,18 +105,26 @@
 
     <script type="text/javascript">
         $(document).ready(function() {
-            GoogleTag.GoogleBannerPosition();
+            //googletag.cmd.push(function () { googletag.display('MR_GlobalCenterBanner'); });
         });
     </script>
-<script charset="UTF-8" src="https://lptag.liveperson.net/tag/tag.js?site=60303108"></script></head>
+<script type="text/javascript" charset="iso-8859-1" src="https://server.iad.liveperson.net/hcp/html/mTag.js?site=60303108"></script><script charset="UTF-8" src="https://lptag.liveperson.net/tag/tag.js?site=60303108"></script></head>
 <body style="">
     <form method="post" action="Privacy.aspx" id="form1">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTcyMDcxMDExNmRk3CEKil6V+DVyoavyY8SfiguO+Ag=">
 
     <div id="MR_GlobalTopBanner">
-        
+        <table style="width: 100%;" cellpadding="0" cellspacing="0">
+            <tbody><tr>
+                <td class="gradientBox1"></td>
+                <td class="middleBox">
+                    
     <div id="div-gpt-ad-1407511021360-3" style="width: 728px; margin: 0 auto; padding: 5px 0;"></div>
 
+                </td>
+                <td class="gradientBox2"></td>
+            </tr>
+        </tbody></table>
     </div>
     <div id="MR_GlobalWrapper">
         <!--[if gt IE 9]><!-->
@@ -269,142 +132,54 @@
         <!--<![endif]-->
         <div id="MR_GlobalTop">
             
-<div class="mrw_master_header">
-    <div class="mr_header" style="margin-bottom: 40px;">
+<div class="mrw_master_header visitor">
+    <div class="mr_header">
         <div class="mr_header_elements">
             <a href="/">
                 <div class="mr_logo">
                 </div>
             </a>
             
-                   <div class="header_login_button">
-                        
-<div>
-    <a class="mr_default_blue_button" onclick="Authentication.LoginButtonClick(this);">
-        Log In
-    </a>
-    <div style="position: relative; z-index: 1040;">
-        <div id="advertiser_panel" style="position: absolute; background-color: #FFF; width: 300px;
-            right: 260px; top: 0px; z-index: 10; box-shadow: rgba(0, 0, 0, 0.0980392) 3px 4px 3px 0px;
-            padding: 15px; display: none;">
-            <!-- Home_login_box -->
-            <div id="div-gpt-ad-1383330761767-6" style="width: 300px; height: 250px;">
+            <div class="header_login_button">
+                <a onclick="Authentication.LoginButtonClick(this);">
+                    Login</a>
             </div>
-        </div>
-        <div id="UserControlsLoginButtonWithPanelDiv" style="position: absolute; background-color: white;
-            height: 280px; width: 260px; right: 0px; top: 0px; z-index: 10; display: none;
-            box-shadow: 3px 4px 3px 0px rgba(0, 0, 0, 0.1);">
-            <div class="three_buttons_login_container" style="padding-top: 0px;">
-                <div class="mr_login_panel_greeting" style="font-size: 20px; background-color: rgb(249, 249, 249);
-                    margin-bottom: 30px; padding: 20px 0px 15px;">
-                    Welcome back</div>
-                <a id="login_via_email">
-                    <div class="mr_Email_Button left" style="margin: 5px; width: 138px">
-                        <span class="homepage_button_text">Log In with Email </span>
-                    </div>
-                </a><a href="/LoginFacebook.aspx">
-                    <div class="mr_Facebook_Button left" style="margin: 5px; width: 138px">
-                        <span class="homepage_button_text">Log In with Facebook </span>
-                    </div>
-                </a><a href="/LoginGoogle.aspx">
-                    <div class="mr_Google_Button left" style="margin: 5px; width: 138px">
-                        <span class="homepage_button_text">Log In with Google + </span>
-                    </div>
-                </a>
+            
+            <div class="header_login_button">
+                <a id="HomePage_TopMenu_Signup" href="/default.aspx">Sign up</a>
             </div>
-            <div class="mr_onclick_email_login_panel" style="display: none; padding-top: 34px;">
-                <div style="padding-top: 3px;">
-                    <input type="text" placeholder="Email" id="txtLoginUserName" class="mr_hmpg_login_field mr_default_white_input mr_signup_field" value="">
-                </div>
-                <div style="padding-top: 6px;">
-                    <input type="password" placeholder="Password" id="txtLoginPassword" class="mr_hmpg_login_field mr_default_white_input mr_signup_field">
-                </div>
-                <div class="mr_log_box_forgot_pw">
-                    <a href="/ForgetPassword.aspx">
-                        forgot password?</a>
-                </div>
-                <div class="la" style="padding: 0px 0px 8px 13px;">
-                    <input type="checkbox" class="mrw_inputcheck" id="chkLoginKeepMe">
-                    <label for="chkLoginKeepMe">
-                        Keep me logged in
-                    </label>
-                </div>
-                <div class="la" style="padding-left: 13px;">
-                    <div id="login_panel_terms">
-                        <input type="checkbox" id="chkLoginAgree" checked="checked" class="mrw_inputcheck">
-                        <label for="chkLoginAgree">
-                            I agree to the<a href="/info/terms.aspx" target="_blank">
-                                website terms
-                            </a>
-                        </label>
-                    </div>
-                </div>
-                <p align="left" style="text-align: right; margin-right: 16px;">
-                    <span id="btnLogin" class="mrw_button blue small">
-                        Login
-                    </span>
-                </p>
-                <div class="login_panel_back_option_line">
-                    <a id="three_login_options_show" class="login_panel_go_back">&lt; back</a>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
-
-                    </div>
-                    
-                    <div class="header_login_button">
-                        <a id="HomePage_TopMenu_Signup" class="mr_default_blue_button" href="/default.aspx">
-                            Sign up</a>
-                    </div>
-                    
+            
             <div class="chat_system">
                 <div class="chat">
                     
 
-<div id="divLiveChatUserControl" style="display: none">
-    <div style="display: none">
-        <input id="hdnUserFullName" value="" type="hidden">
-        <input id="hdnUserEmailAddress" value="" type="hidden">
-        <input id="hdnUserRegistryUrl" value="" type="hidden">
-        <input id="hdnRegistryType" value="" type="hidden">
-        <input id="hdnEventDate" value="" type="hidden">
-        <input id="hdnEcardsSent" value="0" type="hidden">
-    </div>
-</div>
 <!-- BEGIN LivePerson Monitor. -->
+<div class="mr_hmpg_chat_fix_only mr_hmpg_chat" id="chat_small" onclick="openLivechat();">
+    <img src="https://s3.amazonaws.com/static.myregistry.com/cm/ChatOnline3.png">
+</div>
 <script type="text/javascript">
     window.lpTag = { site: '60303108', _v: '1.1', protocol: location.protocol, events: { bind: function (app, ev, fn) { lpTag.defer(function () { lpTag.events.bind(app, ev, fn); }); }, trigger: function (app, ev, json) { lpTag.defer(function () { lpTag.events.trigger(app, ev, json); }); } }, defer: function (fn) { this._defL = this._defL || []; this._defL.push(fn); }, load: function (src, chr, id) { var t = this; setTimeout(function () { t._load(src, chr, id); }, 0); }, _load: function (src, chr, id) { var url = src; if (!src) { url = this.protocol + '//' + ((this.ovr && this.ovr.domain) ? this.ovr.domain : 'lptag.liveperson.net') + '/tag/tag.js?site=' + this.site; } var s = document.createElement('script'); s.setAttribute('charset', chr ? chr : 'UTF-8'); if (id) { s.setAttribute('id', id); } s.setAttribute('src', url); document.getElementsByTagName('head').item(0).appendChild(s); }, init: function () { this._timing = this._timing || {}; this._timing.start = (new Date()).getTime(); var that = this; if (window.attachEvent) { window.attachEvent('onload', function () { that._domReady('domReady'); }); } else { window.addEventListener('DOMContentLoaded', function () { that._domReady('contReady'); }, false); window.addEventListener('load', function () { that._domReady('domReady'); }, false); } if (typeof (window._lptStop) == 'undefined') { this.load(); } }, _domReady: function (n) { if (!this.isDom) { this.isDom = true; this.events.trigger('LPT', 'DOM_READY', { t: n }); } this._timing[n] = (new Date()).getTime(); } }; lpTag.init();
-</script>
-<div class="mr_hmpg_chat_fix_only">
-<div id="LP_DIV_1350497383142" style="margin-right: -12px;">
-</div>
-</div>
-<script type="text/javascript">
-
-    var UserFullName = $("#hdnUserFullName").val();
-    var UserEmailAddress = $("#hdnUserEmailAddress").val();
-    var UserRegistryUrl = $("#hdnUserRegistryUrl").val();
-    var UserRegistryType = $("#hdnRegistryType").val();
-    var EcardsSent = $("#hdnEcardsSent").val();
-    var DueDate = $("#hdnEventDate").val();
+    var lpButtonCTTUrl = 'https://server.iad.liveperson.net/hc/60303108/?cmd=file&file=visitorWantsToChat&site=60303108&imageUrl=https://server.iad.liveperson.net/hcp/Gallery/ChatButton-Gallery/English/General/2b&referrer=' + escape(document.location);
     var lpMTagConfig = { 'lpServer': "server.iad.liveperson.net", 'lpNumber': "60303108", 'lpProtocol': (document.location.toString().indexOf('https:') == 0) ? 'https' : 'http' }; function lpAddMonitorTag(src) { if (typeof (src) == 'undefined' || typeof (src) == 'object') { src = lpMTagConfig.lpMTagSrc ? lpMTagConfig.lpMTagSrc : '/hcp/html/mTag.js'; } if (src.indexOf('http') != 0) { src = lpMTagConfig.lpProtocol + "://" + lpMTagConfig.lpServer + src + '?site=' + lpMTagConfig.lpNumber; } else { if (src.indexOf('site=') < 0) { if (src.indexOf('?') < 0) src = src + '?'; else src = src + '&'; src = src + 'site=' + lpMTagConfig.lpNumber; } }; var s = document.createElement('script'); s.setAttribute('type', 'text/javascript'); s.setAttribute('charset', 'iso-8859-1'); s.setAttribute('src', src); document.getElementsByTagName('head').item(0).appendChild(s); } if (window.attachEvent) window.attachEvent('onload', lpAddMonitorTag); else window.addEventListener("load", lpAddMonitorTag, false);
-    if (typeof (lpMTagConfig) == "undefined") { lpMTagConfig = {}; }
-    if (typeof (lpMTagConfig.visitorVar) == "undefined") { lpMTagConfig.visitorVar = []; }
-    lpMTagConfig.visitorVar[lpMTagConfig.visitorVar.length] = '1-Name=' + UserFullName;
-    lpMTagConfig.visitorVar[lpMTagConfig.visitorVar.length] = '4-Type=' + UserRegistryType;
-    lpMTagConfig.visitorVar[lpMTagConfig.visitorVar.length] = '3-RegistryLink=' + encodeURIComponent(UserRegistryUrl);
-    lpMTagConfig.visitorVar[lpMTagConfig.visitorVar.length] = '2-Email=' + UserEmailAddress;
-    lpMTagConfig.visitorVar[lpMTagConfig.visitorVar.length] = '5-EventDate=' + DueDate;
-    lpMTagConfig.visitorVar[lpMTagConfig.visitorVar.length] = '6-Ecards=' + EcardsSent;
-
-
+    lpButtonCTTUrl = (typeof (lpAppendVisitorCookies) != 'undefined' ? lpAppendVisitorCookies(lpButtonCTTUrl) : lpButtonCTTUrl);
+    lpButtonCTTUrl = ((typeof (lpMTagConfig) != 'undefined' && typeof (lpMTagConfig.addFirstPartyCookies) != 'undefined')
+    ? lpMTagConfig.addFirstPartyCookies(lpButtonCTTUrl) : lpButtonCTTUrl);
+</script>
+<script type="text/javascript">
     function openLivechat() {
-
-        var lpButtonCTTUrl = 'https://server.iad.liveperson.net/hc/60303108/?cmd=file&file=visitorWantsToChat&site=60303108&imageUrl=https://server.iad.liveperson.net/hcp/Gallery/ChatButton-Gallery/English/General/2b&referrer=' + escape(document.location);
-        lpButtonCTTUrl = (typeof (lpAppendVisitorCookies) != 'undefined' ? lpAppendVisitorCookies(lpButtonCTTUrl) : lpButtonCTTUrl); lpButtonCTTUrl = ((typeof (lpMTagConfig) != 'undefined' && typeof (lpMTagConfig.addFirstPartyCookies) != 'undefined') ? lpMTagConfig.addFirstPartyCookies(lpButtonCTTUrl) : lpButtonCTTUrl);
-        window.open(lpButtonCTTUrl, 'chat60303108', 'width=475,height=400,resizable=yes');
+        var registryType = $("#RegistryType").val();
+        var startChatUrl = window.location.href;
+        var width = 430;
+        var height = 400;
+        var left = parseInt((screen.availWidth / 2) - (width / 2) - 200);
+        var top = parseInt((screen.availHeight / 2) - (height / 2) - 200);
+        var windowFeatures = "width=" + width + ",height=" + height + ",resizable=yes,left=" + left + ",top=" + top + "screenX=" + left + ",screenY=" + top;
+        var url = window.location.protocol + "//" + window.location.host + "/LiveChat.aspx";
+        if (registryType)
+            url = url + "?registryType=" + registryType;
+        if (startChatUrl)
+            url = (url.indexOf("?") == -1) ? url + "?startChatUrl=" + encodeURIComponent(startChatUrl) : url + "&startChatUrl=" + encodeURIComponent(startChatUrl);
+        window.open(url, 'LiveChat', windowFeatures);
     }
 </script>
 <!-- END LivePerson Monitor. -->
@@ -414,18 +189,19 @@
                         </div>
                     </div>
                 </div>
-                <div class="quicksearch">
-                <h2 class="searchbox_heading">
-                    Find a Registry
-                </h2>
-                <div style="position: relative">
-                    <input type="text" autocomplete="off" placeholder="Enter First and Last Name" placeholder2="Enter First and Last Name" id="searchbox" name="search">
-                    <img src="/Images/search-loader.gif" class="loader">
-                    <input id="visitorTopMenuSearchBox" type="button" value="" class="searchbox_icon" onclick="TopMenu.SearchRedirect();">
-                </div>
-                <div id="pnlSearchRegistryResult" class="result">
-                </div>
-                
+                <div class="quicksearch_new">
+                    <span class="mr_quicksearch_findaregistry">
+                        Find a Registry
+                    </span>
+                    <div class="searchHolder">
+                        <input type="text" autocomplete="off" id="searchbox" placeholder="Enter First and Last Name" placeholder2="Enter First and Last Name" name="search">
+                        <input type="text" autocomplete="off" placeholder="Find a Registry" placeholder2="Find a Registry" id="searchbox_small" name="searchbox_small">
+                    </div>
+                    <a class="mr_default_blue_button" onclick="TopMenu.SearchRedirect();">
+                        Search
+                    </a><a class="mr_searchButton_small" onclick="TopMenu.SearchRedirect();">&nbsp;</a>
+                    <div id="pnlSearchRegistryResult" class="result">
+                    </div>
                 </div>
             </div>
         </div>
@@ -434,6 +210,10 @@
 
         </div>
         <div id="MR_GlobalMiddle">
+            <div id="MR_GlobalCenterBannerContainer">
+            
+                
+            </div>
             <div id="MR_GlobalLeftBanner">
                 
     <div id="div-gpt-ad-1407511021360-1"></div>
@@ -597,6 +377,9 @@
                 <br>
                 <a id="a7" href="/Info/storeswelike.aspx">Pre-Screened Retailers</a>
                 <br>
+                <a href="/Info/WeddingVendors/">Wedding Resources</a>
+                <br>
+                <a href="/Info/BabyVendors/">Baby Vendors</a>
             </td>
             <td>
                 <div class="mr_BottomMenuHeader">
@@ -611,10 +394,10 @@
             <td>
                 <div class="mr_BottomMenuHeader">
                     For Merchants</div>
-                <a href="/registrywidget/default.aspx">Tools for Merchants</a>
+                <a href="/registrywidget/default.aspx">Gift Registry Software</a>
                 <br>
-                <a target="_self" href="/Info/KioskApp/">Kiosk for Merchants</a>
-                <br>
+                <!--<a target="_self" href="/Info/KioskApp/">Kiosk for Merchants</a>
+                <br />-->
                 <a href="/registrywidget/login.aspx">Merchant Login</a>
                 <br>
                 <a href="/Merchants/AdvertisewithUs.aspx">Advertise with Us</a>
@@ -628,19 +411,20 @@
             <td>
                 <div class="mr_BottomMenuHeader">
                     For Developers</div>
-                <a href="/registrywidget/webwidgetapplication.aspx">Gift Registry Web Widget </a>
+                <a href="/registrywidget/default.aspx">Gift Registry Web Widget </a>
             </td>
         </tr>
     </tbody></table>
 </div>
 <div class="mrw_master_footer">
     <span>© Copyright 2003 -
-        2014
+        2015
         All rights reserved - MyRegistry LLC</span>
 </div>
 
     </div>
     </form>
+    
     <div id="hiddenFields">
         <input id="WebsiteHost" type="hidden" value="http://www.myregistry.com/">
         <input id="RegistryType" type="hidden" value="">
@@ -655,11 +439,15 @@
         this.CurrentPanel = null;
         this.ShowPanel = function () {
             this.CurrentPanel = $("#panelManagerHidden").val();
+
+            var checkBeforeOpenPanel = null;
+            
             if (this.CurrentPanel == "" || this.CurrentPanel == null || this.CurrentPanel == "null") {
                 // do not show panel
             } else {
                 var panel = JSON.parse(this.CurrentPanel);
                 
+                if (checkBeforeOpenPanel !=null && !checkBeforeOpenPanel()) return; // Skip panel if check is NOK
                 PopupManager.ShowPopupPanel(panel.Id, panel.Path, panel.Params, null, null, null);
                 
             }
