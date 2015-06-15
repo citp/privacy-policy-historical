@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the airtkt.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702161336id_/http%3A//www.airtkt.com/privacy-policy-AirTkt) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the airtkt.com privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615100606id_/http%3A//www.airtkt.com/privacy-policy-AirTkt) for the most accurate reproduction.*
 
 # Privacy Policy, Flights, Airline Tickets, Cheap Flights, Last Minute Flights - AirTkt
 
@@ -147,7 +147,7 @@ Customer support 24/7
 
 [](https://web.archive.org/privacy-policy-AirTkt#top)
 
-Secure Your Trip | Accredited Agent | 100% Secure Site | Accredited Agency | Cards Accepted  
+Protect Your Trip | Accredited Agent | 100% Secure Site | Accredited Agency | Cards Accepted  
 ---|---|---|---|---  
   
 |   
