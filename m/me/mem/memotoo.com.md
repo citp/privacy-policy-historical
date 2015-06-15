@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the memotoo.com privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123042711id_/http%3A//www.memotoo.com/index.php%3Frub%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the memotoo.com privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615100811id_/http%3A//www.memotoo.com/index.php%3Frub%3Dprivacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Memotoo: Privacy Policy
 
 [**Memotoo.com**](https://www.memotoo.com/) will store your personal data with great care because 
 
 _**your data are your property**_
 
 .  
-This Privacy Policy is part of the [**Memotoo Terms of Use**](https://web.archive.org/web/20141123042711id_/http%3A//www.memotoo.com/index.php?rub=conditions).  
+This Privacy Policy is part of the [**Memotoo Terms of Use**](https://web.archive.org/web/20150615100811id_/http%3A//www.memotoo.com/index.php?rub=conditions).  
 By using this site, you agree to be bound by this Privacy Policy and respect it.
 
 **
