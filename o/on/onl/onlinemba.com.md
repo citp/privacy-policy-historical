@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onlinemba.com privacy policy that was archived on 2014-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141226103939id_/http%3A//www.onlinemba.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlinemba.com privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615065902id_/http%3A//www.onlinemba.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - OnlineMBA.com
 
