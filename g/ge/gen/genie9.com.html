@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the genie9.com privacy policy that was archived on 2014-11-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141122080158id_/http%3A//www.genie9.com/Company/privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the genie9.com privacy policy that was archived on 2015-06-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150615103424id_/http%3A//www.genie9.com/Company/privacy.aspx) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><link href="../css/style.css" rel="stylesheet" type="text/css"><link href="../css/style2012.css" rel="stylesheet" type="text/css"><link id="ctl00_listmenuh" rel="stylesheet" type="text/css" href="../css/listmenu_h.css" title="Horizontal 'Earth'"><link href="../css/dropdown_one.css" rel="stylesheet" type="text/css"><link rel="stylesheet" href="../css/greensky.css" type="text/css">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><link href="../css/style.css" rel="stylesheet" type="text/css"><link href="../css/style2012.css" rel="stylesheet" type="text/css"><link id="listmenuh" rel="stylesheet" type="text/css" href="../css/listmenu_h.css" title="Horizontal 'Earth'"><link href="../css/dropdown_one.css" rel="stylesheet" type="text/css"><link rel="stylesheet" href="../css/greensky.css" type="text/css">
     
     <script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript" src="../JS/iepngfix_tilebg.js"></script>
     <script type="text/javascript" src="../JS/fsmenu_commented.js"></script>
@@ -82,9 +82,9 @@
     <script type="text/javascript" language="javascript">
         function Download(fielUrl, fileName) {
             try {
-                document.getElementById("ctl00_hfFileUrl").value = fielUrl;
-                document.getElementById("ctl00_hfFileName").value = fileName;
-                $("#" + 'ctl00_btnDownload').trigger('click');
+                document.getElementById("hfFileUrl").value = fielUrl;
+                document.getElementById("hfFileName").value = fileName;
+                $("#" + 'btnDownload').trigger('click');
             } catch (e) {
             }
         }
@@ -92,19 +92,19 @@
     function onFocusWaterMark(txtID)
 	{
 	    var strWaterMark = 'Search Genie9';
-		if(document.getElementById('ctl00_txtSearchStr').value == strWaterMark)
+		if(document.getElementById('txtSearchStr').value == strWaterMark)
 	    {
-	       document.getElementById('ctl00_txtSearchStr').value = "";
-	       document.getElementById('ctl00_txtSearchStr').className = "nowatermark";
+	       document.getElementById('txtSearchStr').value = "";
+	       document.getElementById('txtSearchStr').className = "nowatermark";
 	    }
 	}
 	function onBlureWaterMark(txtID)
 	{
 	    var strWaterMark = 'Search Genie9';
-	    if(document.getElementById('ctl00_txtSearchStr').value == "")
+	    if(document.getElementById('txtSearchStr').value == "")
 	    {
-	        document.getElementById('ctl00_txtSearchStr').value = strWaterMark;
-	        document.getElementById('ctl00_txtSearchStr').className = "watermark";
+	        document.getElementById('txtSearchStr').value = strWaterMark;
+	        document.getElementById('txtSearchStr').className = "watermark";
 	    }
 	}
     </script>
@@ -115,7 +115,7 @@
     var sa = "Search";
     function Search()
     {  
-        var searchQuery = document.getElementById('ctl00_txtSearchStr').value;
+        var searchQuery = document.getElementById('txtSearchStr').value;
         if(searchQuery != 'Search Genie9')
         {
             var searchUrl = "http://www.genie9.com/shared/search.aspx?";
@@ -311,18 +311,21 @@
         }
         $(document).ready(function () {
             $(".closeAdv").click(function () {
-                $("#cybermondy_HeaderAdv").slideUp(1000);
+                //$("#cybermondy_HeaderAdv").slideUp(1000);
                   //$("#HeaderAdv").slideUp();
                   // $("#zoolz_HeaderAdv").slideUp(1000);
                  //$("#Halloween_HeaderAdv").slideUp();
                 //$("#4ThJulay_HeaderAdv").slideUp();
-
+                //$("#Holiday_HeaderAdv").slideUp(1000);
+                $("#Spring_HeaderAdv").slideUp(1000);
                 var currentTime = new Date();
+                setCookie("__Spring2015", currentTime.getTime(), 360);
                 //setCookie("__zoolzStrip", currentTime.getTime(), 360);
                 //setCookie("__header_C_Adv", currentTime.getTime(), 360);
                 //setCookie("__headerAdv", currentTime.getTime(), 360);
                 // setCookie("__header_H_Adv", currentTime.getTime(), 360);
                 //setCookie("__header_4th7_Adv", currentTime.getTime(), 360);
+                //setCookie("Christmas_2014", currentTime.getTime(), 360);
             });
             $("#gcloudAdv").scroll(function () {
                 $("#gcloudInfo").css("bottom", "0px");
@@ -383,17 +386,18 @@
             if (i == 0) {
 
                 clearTimeout(timer);
-                var IsShowAdd = getCookie("__header_4th7_Adv"); //getCookie("__header_H_Adv");//getCookie("__zoolzStrip"); //getCookie("__headerAdv"); //getCookie("__header_C_Adv"); //getCookie("__header_H_Adv");
+                var IsShowAdd = getCookie("__Spring2015"); //getCookie("__header_H_Adv");//getCookie("__zoolzStrip"); //getCookie("__headerAdv"); //getCookie("__header_C_Adv"); //getCookie("__header_H_Adv");
                 if (IsShowAdd != null && IsShowAdd != "") {
                     //cookie exists
-                    $("#4ThJulay_HeaderAdv").css("display", "none");
+                    $("#Spring_HeaderAdv").css("display", "none");
                 }
                 else {
-                   $("#cybermondy_HeaderAdv").slideDown(1000);
+                   //$("#cybermondy_HeaderAdv").slideDown(1000);
                     //$("#HeaderAdv").slideDown(1000);
                     //$("#Halloween_HeaderAdv").slideDown(1000);
-
+                   // $("#Holiday_HeaderAdv").slideDown(1000);
                     //$("#4ThJulay_HeaderAdv").slideDown(1000);
+                    //$("#Spring_HeaderAdv").slideDown(1000);
                 }
                 var zoolzShowFancy = "stop"; //getCookie("__zoolzFancy");
                 var zoolzShowStrip = getCookie("__header_H_Adv");// getCookie("__zoolzStrip");
@@ -517,6 +521,42 @@
             z-index: 999;
             position: relative;
         }
+          #Holiday_HeaderAdv
+        {
+            position: relative;
+            top: 0px;
+            display: none;
+            /*height: 116px;*/
+            width: 100%;
+            background-color:#f49525;
+        }
+             #Spring_HeaderAdv
+        {
+            position: relative;
+            top: 0px;
+            display: none;
+            /*height: 116px;*/
+            width: 100%;
+            background-color:#ffffff;
+        }
+              #fixedSpringAdv
+        {
+            text-align: left;
+            height: 61px;
+            width: 988px;
+            margin: auto;
+            z-index: 999;
+            position: relative;
+        }
+        #fixedHolidayAdv
+        {
+            text-align: left;
+            height: 61px;
+            width: 988px;
+            margin: auto;
+            z-index: 999;
+            position: relative;
+        }
         #btnGetit
         {
             background-image: url('/images/InfoGraph_Bar_Button.png');
@@ -576,17 +616,29 @@
     
     
 
-    <form name="aspnetForm" method="post" action="privacy.aspx" id="aspnetForm">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJOTg3NTAxOTI5D2QWAmYPZBYCAgMPZBYGAh0PFgIeBXN0eWxlBRJ2aXNpYmlsaXR5OmhpZGRlbjtkAiAPZBYCAgEPZBYCAgcPFgIeBUNsYXNzBQ9OZXdyaWdodG1lbnVzZWxkAiEPFgIfAAUSdmlzaWJpbGl0eTpoaWRkZW47ZGQMEH5O3sixUf+77Kk5rC2hWJe11g==">
+    <form method="post" action="privacy.aspx" id="form1">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJOTg3NTAxOTI5D2QWAmYPZBYCAgMPZBYGAh0PFgIeBXN0eWxlBRJ2aXNpYmlsaXR5OmhpZGRlbjtkAiAPZBYCAgEPZBYCAgcPFgIeBUNsYXNzBQ9OZXdyaWdodG1lbnVzZWxkAiEPFgIfAAUSdmlzaWJpbGl0eTpoaWRkZW47ZGTe05zypJZ6p5Z2hlDV/6DB1EkqokzBVgK/5H0m0yGZgw==">
 
-<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWBgKt4vHVAQLR6On+DQKBlpG8DAK21cLzCQKG7KyeAQKrn/zZCT/gLAIZm6qPqkL1IxAj8BsHkz5o">
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAbMqHGJ2AB3iPRxbiu6pB0cjMkR3PMu4HcoqAGfEnSV8iYq/lZF7oQvJ6P3f6F+Yz6A18mg8RlsVeCI810qf+3y+fl15U9D1dWZ+K7yz3azP4NuDKSJ/ey6aug0pcP9rmoEovsHr/Vs4SttmuoaUw/b39GvoOVYOup0KcvK5bEtXQ==">
     <a id="zoolzLink" href="#zoolzfancy"></a>
-    <input type="hidden" name="ctl00$SocialBarStatus" id="ctl00_SocialBarStatus">
+    <input type="hidden" name="ctl00$SocialBarStatus" id="SocialBarStatus">
     <input type="hidden" id="hdSelectedTab">
     
-    <div id="cybermondy_HeaderAdv" style="overflow: hidden; height: 51.4958px; display: block; margin-top: 0px; margin-bottom: 0px; padding-top: 0px; padding-bottom: 0px;">
+    <div id="cybermondy_HeaderAdv">
         <div id="fixedCybeMondyAdv">
               <a href="/promo/Genie9OffersCyberMondy.aspx" target="_blank"><img src="/images/Cyber_Monday_Genie9_Inner_Pages_Strip_2014.png" style="border:none"></a>
+            <div class="closeAdv" style="top: -3px;right: -1px;width: 21px;height: 25px;text-align:center">x</div>
+        </div>
+    </div>
+         <div id="Holiday_HeaderAdv">
+        <div id="fixedHolidayAdv">
+              <a href="/promo/Genie9OffersHolidays.aspx" target="_blank"><img src="/images/Christmas_2014_Genie9_Inner_Strip.png" style="border:none"></a>
+            <div class="closeAdv" style="top: -3px;right: -1px;width: 21px;height: 25px;text-align:center">x</div>
+        </div>
+        </div>
+                <div id="Spring_HeaderAdv">
+        <div id="fixedSpringAdv">
+              <a href="/promo/Genie9OffersSpring.aspx" target="_blank"><img src="/images/Spring_2015_Genie9_Inner_Strip_50.jpg" style="border:none"></a>
             <div class="closeAdv" style="top: -3px;right: -1px;width: 21px;height: 25px;text-align:center">x</div>
         </div>
     </div>
@@ -606,9 +658,9 @@
     </div>
         <div id="HeaderAdv">
         <div id="fixedHeaderAdv">
-            <img src="../images/InfoGraph_Bar_Free.png" id="ctl00_Img13" style="position: absolute;
+            <img src="../images/InfoGraph_Bar_Free.png" id="Img13" style="position: absolute;
                 top: 0px; left: 0px; border: none">
-            <img src="../images/InfoGraph_Bar_Device.png" id="ctl00_Img14" style="position: absolute;
+            <img src="../images/InfoGraph_Bar_Device.png" id="Img14" style="position: absolute;
                 top: 0px; left: 100px; border: none" align="absmiddle">
             <div style="position: absolute; top: 2px; left: 174px;">
                 <span style="font-size: 16px; font-weight: 700">Got Android ?</span><br>
@@ -708,9 +760,9 @@
             <td colspan="3" bgcolor="#3170b3" align="center" valign="bottom">
                 <div style=" margin:auto; width:990px;">
                     
-                     <div id="ctl00_Discount2" style="position:relative; z-index:999; display:none;" width="980px" align="center">
-                     <div id="ctl00_DivBanner" style="position:absolute;top:180px; left:-240px;">
-                        <a href="../store/store.aspx" id="ctl00_BannerLink" target="_blank"><img src="../Images/Christmas_Tag.png" id="ctl00_BannerImage" style="border:none" alt="Genie Offers"></a>
+                     <div id="Discount2" style="position:relative; z-index:999; display:none;" width="980px" align="center">
+                     <div id="DivBanner" style="position:absolute;top:180px; left:-240px;">
+                        <a href="../store/store.aspx" id="BannerLink" target="_blank"><img src="../Images/Christmas_Tag.png" id="BannerImage" style="border:none" alt="Genie Offers"></a>
                     </div>
                 </div>
                     
@@ -723,14 +775,14 @@
                                     <td style="width:300px" align="left">
                                           <div style=" position:relative; width:100%">
                                             <a href="http://www.genie9.com">
-                                                <img src="../images/Genie9_Logo.png" id="ctl00_LogoImage" class="rollover" style=" z-index:2; position:absolute; left: 5px;top: -20px;" alt="Genie9 Logo" border="0">
+                                                <img src="../images/Genie9_Logo.png" id="LogoImage" class="rollover" style=" z-index:2; position:absolute; left: 5px;top: -20px;" alt="Genie9 Logo" border="0">
                                             </a>
                                         </div>
                                     </td>
                                     <td align="right" style=" width:330px;" class="headertxt">
                                         <div style="position: relative; height: 20px; z-index:1000; width:350px">
                                             <div style="position: absolute; float: left; left: -4px; top: 2px; width: 235px">
-                                                <a href="../download/download.aspx" id="ctl00_A53">Downloads</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a id="A27" href="../business/Solutions/backup_for_industry.aspx">
+                                                <a href="../download/download.aspx" id="A53">Downloads</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a id="A27" href="../business/Solutions/backup_for_industry.aspx">
                                                             Education</a>&nbsp;&nbsp;
                                             </div>
                                             
@@ -785,73 +837,73 @@
                         </td>
                     </tr>
                     <tr id="mainMenu">
-                        <td id="ctl00_Td1" tabmenu="true" width="75px" class="menu" align="center">
-                            <a href="http://www.Genie9.com" id="ctl00_A8" style="padding-top: 5px; display: block; width: 98%; height: 22px;"><img src="../images/Genie9_Menu_Home_Icon.png" id="ctl00_Img1" style=" margin-left:5px; border:none"></a>
+                        <td id="Td1" tabmenu="true" width="75px" class="menu" align="center">
+                            <a href="http://www.Genie9.com" id="A8" style="padding-top: 5px; display: block; width: 98%; height: 22px;"><img src="../images/Genie9_Menu_Home_Icon.png" id="Img1" style=" margin-left:5px; border:none"></a>
                         </td>
 
                         <td width="2px" valign="bottom" class="SeperatorMenu">
-                            <img src="../images/Menu_sep.jpg" id="ctl00_Img3" valign="bottom" width="2" height="40">
+                            <img src="../images/Menu_sep.jpg" id="Img3" valign="bottom" width="2" height="40">
                         </td>
-                        <td id="ctl00_home" tabmenu="true" width="164px" class="menu" align="center">
-                            <a href="../home/home_solutions.aspx" id="ctl00_A47" style="padding-top: 5px; display: block; width: 98%; height: 22px;">Home Users</a>
+                        <td id="home" tabmenu="true" width="164px" class="menu" align="center">
+                            <a href="../home/home_solutions.aspx" id="A47" style="padding-top: 5px; display: block; width: 98%; height: 22px;">Home Users</a>
                         </td>
 
                         <td width="2px" valign="bottom" class="SeperatorMenu">
-                            <img src="../images/Menu_sep.jpg" id="ctl00_Img7" valign="bottom" width="2" height="40">
+                            <img src="../images/Menu_sep.jpg" id="Img7" valign="bottom" width="2" height="40">
                         </td>
-                        <td id="ctl00_business" tabmenu="true" width="180px" class="menu">
-                            <a href="../business/genie_soft_business_solutions.aspx" id="ctl00_A48" style="padding-top: 5px; display: block; width: 98%; height: 22px;">Business Users</a>
+                        <td id="business" tabmenu="true" width="180px" class="menu">
+                            <a href="../business/genie_soft_business_solutions.aspx" id="A48" style="padding-top: 5px; display: block; width: 98%; height: 22px;">Business Users</a>
                         </td>
 
                         <td width="3px" valign="bottom" class="SeperatorMenu">
-                            <img src="../images/menu_sep.jpg" id="ctl00_Img11" width="2" height="40">
+                            <img src="../images/menu_sep.jpg" id="Img11" width="2" height="40">
                         </td>
-                        <td id="ctl00_andriod" style="width: 193px; height: 42px;" class="menu">
-                            <a href="https://www.Zoolz.com" id="ctl00_A52" style="display: block; position: relative; width: 98%; height: 22px;
+                        <td id="andriod" style="width: 193px; height: 42px;" class="menu">
+                            <a href="https://www.Zoolz.com" id="A52" style="display: block; position: relative; width: 98%; height: 22px;
                                 padding-top: 5px;" target="_blank">Cloud Backup
-                                <img src="../images/Free_Tab_New_Ribbon.png" id="ctl00_Img2" border="0" style="position: absolute;
+                                <img src="../images/Free_Tab_New_Ribbon.png" id="Img2" border="0" style="position: absolute;
                                     top: -7px; right: -5px;">
                             </a>
                         </td>
 
                         <td width="2px" valign="bottom" class="SeperatorMenu">
-                            <img src="../images/Menu_sep.jpg" id="ctl00_Img8" width="2" height="40">
+                            <img src="../images/Menu_sep.jpg" id="Img8" width="2" height="40">
                         </td>
-                        <td id="ctl00_cloud" width="153px" class="menu">
+                        <td id="cloud" width="153px" class="menu">
                              
-                            <a href="../GCloud.aspx" id="ctl00_A49" style="padding-top: 5px; display: block; width: 100%; height: 22px;" target="_blank">Android Backup</a>
+                            <a href="../GCloud.aspx" id="A49" style="padding-top: 5px; display: block; width: 100%; height: 22px;" target="_blank">Android Backup</a>
                              
                         </td>
 
                         <td width="3px" valign="bottom" class="SeperatorMenu">
-                            <img src="../images/menu_sep.jpg" id="ctl00_Img9" width="2" height="40">
+                            <img src="../images/menu_sep.jpg" id="Img9" width="2" height="40">
                         </td>
-                        <td id="ctl00_store" width="120px" class="menu">
-                            <a href="../store/store.aspx" id="ctl00_A50" style="padding-top: 5px; display: block; width: 98%; height: 22px;">Store</a>
-                        </td>
-
-                        <td width="3px" valign="bottom" class="SeperatorMenu">
-                            <img src="../images/menu_sep.jpg" id="ctl00_Img12" width="2" height="40">
-                        </td>
-                        <td id="ctl00_Td2" width="120px" class="menu">
-                                <a href="http://blog.genie9.com/" id="ctl00_A9" style="padding-top: 5px; display: block; width: 98%; height: 22px;" target="_blank">Blog</a>
+                        <td id="store" width="120px" class="menu">
+                            <a href="../store/store.aspx" id="A50" style="padding-top: 5px; display: block; width: 98%; height: 22px;">Store</a>
                         </td>
 
                         <td width="3px" valign="bottom" class="SeperatorMenu">
-                            <img src="../images/menu_sep.jpg" id="ctl00_Img10" width="2" height="40">
+                            <img src="../images/menu_sep.jpg" id="Img12" width="2" height="40">
                         </td>
-                        <td id="ctl00_support"></td>
+                        <td id="Td2" width="120px" class="menu">
+                                <a href="http://blog.genie9.com/" id="A9" style="padding-top: 5px; display: block; width: 98%; height: 22px;" target="_blank">Blog</a>
+                        </td>
 
-                         <td id="ctl00_Td3" style="width: 190px;background-color: #ededed;">
+                        <td width="3px" valign="bottom" class="SeperatorMenu">
+                            <img src="../images/menu_sep.jpg" id="Img10" width="2" height="40">
+                        </td>
+                        <td id="support"></td>
+
+                         <td id="Td3" style="width: 190px;background-color: #ededed;">
                              <div style="position: relative; width:173px; margin:auto; z-index:1">
                                  <table width="130px" cellpadding="0" cellspacing="0">
                                      <tbody><tr>
                                          <td class="search">
-                                             <input name="ctl00$txtSearchStr" type="text" value="Search Genie9" maxlength="100" id="ctl00_txtSearchStr" class="watermark" onkeydown="if(event.keyCode == 13){ return Search() }" onfocus="onFocusWaterMark('txtSearchStr')" onblur="onBlureWaterMark('txtSearchStr')" border="0" style=" border:solid 1px #CCC;outline:none;padding: 8px; padding-right:35px;">
+                                             <input name="ctl00$txtSearchStr" type="text" value="Search Genie9" maxlength="100" id="txtSearchStr" class="watermark" onkeydown="if(event.keyCode == 13){ return Search() }" onfocus="onFocusWaterMark('txtSearchStr')" onblur="onBlureWaterMark('txtSearchStr')" border="0" style=" border:solid 1px #CCC;outline:none;padding: 8px; padding-right:35px;">
                                          </td>
                                      </tr>
                                  </tbody></table>
-                                 <div id="ctl00_btnSearch" onclick="return Search()" class="SearchBtnHeader">
+                                 <div id="btnSearch" onclick="return Search()" class="SearchBtnHeader">
                                  </div>
                              </div>
                         </td>
@@ -861,7 +913,7 @@
                 </div>
             </td>
         </tr>
-        <tr id="ctl00_trSubmenu">
+        <tr id="trSubmenu">
 	<td style="height:40px" class="submenu">
                 
             </td>
@@ -874,11 +926,11 @@
                     
                     <div class="SocialinSubMenu">
                     <a target="_blank" href="http://www.facebook.com/Genie9Backup">
-                        <img src="../images/Menu_FB.png" id="ctl00_Img4" style="border: none"></a>
+                        <img src="../images/Menu_FB.png" id="Img4" style="border: none"></a>
                     <a target="_blank" href="http://www.twitter.com/Genie9Backup">
-                        <img src="../images/Menu_Twitter.png" id="ctl00_Img5" style="border: none"></a>
+                        <img src="../images/Menu_Twitter.png" id="Img5" style="border: none"></a>
                     <a target="_blank" href="https://plus.google.com/u/1/103113892992376501083/posts">
-                        <img src="../images/Menu_Google_Plus.png" id="ctl00_Img6" style="border: none"></a>
+                        <img src="../images/Menu_Google_Plus.png" id="Img6" style="border: none"></a>
                 </div>
                 </div>
             </td>
@@ -889,7 +941,7 @@
 
         <tr>
             <td align="right" valign="top" width="25%" style="height: 600px">
-                <img src="../images/left_sep.jpg" id="ctl00_leftShadow" height="500" width="25" style="visibility:hidden;">
+                <img src="../images/left_sep.jpg" id="leftShadow" height="500" width="25" style="visibility:hidden;">
             </td>
             <td valign="top" style="width: 990px">
                 <table width="100%" cellpadding="0" cellspacing="0">
@@ -897,17 +949,17 @@
                         <td>
                             <table width="100%" border="0" cellpadding="0" cellspacing="0">
                                 <tbody><tr>
-                                    <td id="ctl00_tdSiteMap" style="height: 15px" class="sitemap">
-										<span id="ctl00_SiteMapPath1"><a href="#ctl00_SiteMapPath1_SkipLink"><img alt="Skip Navigation Links" height="0" width="0" src="/WebResource.axd?d=_z5VCudsOUN0yusXnKxG0Q2&amp;t=633872005124685000" border="0"></a><span><a href="/Default.aspx">Homepage</a></span><span>
+                                    <td id="tdSiteMap" style="height: 15px" class="sitemap">
+										<span id="SiteMapPath1"><a href="#SiteMapPath1_SkipLink"><img alt="Skip Navigation Links" src="/WebResource.axd?d=XiUFMSTlpoHVssb7mx59IbzSqv2jgLAED28xMzn3XZgMjdr_Vy5aUDi784147Z1BOtjPdsv7K-Uct6NAPlmRBAN8lRQZfYIH0ENO2mImo2Y1&amp;t=635207426953880130" width="0" height="0" border="0"></a><span><a href="/Default.aspx">Homepage</a></span><span>
                                                 <img src="../images/right_arrow.png" height="5" width="5">
                                             </span><span><a href="/Company/aboutus.aspx">Company</a></span><span>
                                                 <img src="../images/right_arrow.png" height="5" width="5">
-                                            </span><span class="sitemapCurrentNode">Privacy Statement</span><a id="ctl00_SiteMapPath1_SkipLink"></a></span>
+                                            </span><span class="sitemapCurrentNode">Privacy Statement</span><a id="SiteMapPath1_SkipLink"></a></span>
                                     </td>
 
                                 </tr>
                             </tbody></table>
-                           <div id="ctl00_siteMapSeperator" class="sep_horizental-line" style="width: 730px;margin: 0px 20px 0px 2px;"></div>
+                           <div id="siteMapSeperator" class="sep_horizental-line" style="width: 730px;margin: 0px 20px 0px 2px;"></div>
                             
                         </td>
                     </tr>
@@ -1091,17 +1143,17 @@
 </style>
 <div onload="showHidden()" id="NewSideMenue" style="position:relative; z-index:50">
   <div class="Newrightmenu">
-  <span id="ctl00_ContentPlaceHolder1_privacy_lbl"></span>
+  <span id="ContentPlaceHolder1_privacy_lbl"></span>
     <ul>
-      <li id="ctl00_ContentPlaceHolder1_privacy_ABOUT"><a href="aboutus.aspx" id="ctl00_ContentPlaceHolder1_privacy_A1">About Genie9</a></li>
-      <li id="ctl00_ContentPlaceHolder1_privacy_NEWS"><a href="news.aspx" id="ctl00_ContentPlaceHolder1_privacy_A3">Genie News</a></li>
-      <li id="ctl00_ContentPlaceHolder1_privacy_PRIVACY" class="Newrightmenusel"><a href="privacy.aspx" id="ctl00_ContentPlaceHolder1_privacy_A4">Privacy Statement</a></li>
-      <li id="ctl00_ContentPlaceHolder1_privacy_LEGAL"><a href="legal.aspx" id="ctl00_ContentPlaceHolder1_privacy_A5">Legal Notices</a></li>
-      <li id="ctl00_ContentPlaceHolder1_privacy_MEDIA"><a href="authorize.aspx" id="ctl00_ContentPlaceHolder1_privacy_A6">Media Kit</a></li>
-      <li id="ctl00_ContentPlaceHolder1_privacy_CONTACT"><a href="../Support/Support.aspx" id="ctl00_ContentPlaceHolder1_privacy_A7">Contact Us</a></li>
-      <li id="ctl00_ContentPlaceHolder1_privacy_OURCUSTOMERS"><a href="OurCustomers.aspx" id="ctl00_ContentPlaceHolder1_privacy_A8">Our Customers</a></li>
-      <li id="ctl00_ContentPlaceHolder1_privacy_NEWSLETTER"><a href="newsletter.aspx" id="ctl00_ContentPlaceHolder1_privacy_A9">Newsletter</a></li>
-      <li id="ctl00_ContentPlaceHolder1_privacy_FEEDBACK"><a href="feedback.aspx" id="ctl00_ContentPlaceHolder1_privacy_A10">Feedback</a></li>
+      <li id="ContentPlaceHolder1_privacy_ABOUT"><a href="aboutus.aspx" id="ContentPlaceHolder1_privacy_A1">About Genie9</a></li>
+      <li id="ContentPlaceHolder1_privacy_NEWS"><a href="news.aspx" id="ContentPlaceHolder1_privacy_A3">Genie News</a></li>
+      <li id="ContentPlaceHolder1_privacy_PRIVACY" class="Newrightmenusel"><a href="privacy.aspx" id="ContentPlaceHolder1_privacy_A4">Privacy Statement</a></li>
+      <li id="ContentPlaceHolder1_privacy_LEGAL"><a href="legal.aspx" id="ContentPlaceHolder1_privacy_A5">Legal Notices</a></li>
+      <li id="ContentPlaceHolder1_privacy_MEDIA"><a href="authorize.aspx" id="ContentPlaceHolder1_privacy_A6">Media Kit</a></li>
+      <li id="ContentPlaceHolder1_privacy_CONTACT"><a href="../Support/Support.aspx" id="ContentPlaceHolder1_privacy_A7">Contact Us</a></li>
+      <li id="ContentPlaceHolder1_privacy_OURCUSTOMERS"><a href="OurCustomers.aspx" id="ContentPlaceHolder1_privacy_A8">Our Customers</a></li>
+      <li id="ContentPlaceHolder1_privacy_NEWSLETTER"><a href="newsletter.aspx" id="ContentPlaceHolder1_privacy_A9">Newsletter</a></li>
+      <li id="ContentPlaceHolder1_privacy_FEEDBACK"><a href="feedback.aspx" id="ContentPlaceHolder1_privacy_A10">Feedback</a></li>
     </ul>
   </div>
     <div class="sep_horizental-line" style=";width: 189px;margin:20px 20px 0px 15px"></div>
@@ -1154,7 +1206,7 @@
                 </tbody></table>
             </td>
             <td valign="top" width="25%">
-                <img src="../images/right_sep.jpg" id="ctl00_rightShadow" height="600" width="25" style="visibility:hidden;">
+                <img src="../images/right_sep.jpg" id="rightShadow" height="600" width="25" style="visibility:hidden;">
             </td>
         </tr>
         <tr>
@@ -1243,43 +1295,43 @@
                             Our Clients:
                         </td>
                         <td style="width: 163px; padding-top: 0px;">
-                            <a href="OurCustomers.aspx" id="ctl00_ctl39_A25">
-                                <img src="../images/OLD_MUTUAL_Logo_Gray.png" id="ctl00_ctl39_Img7" style="border: none" onmouseover="flip(this,'OLD_MUTUAL_Logo.png');" onmouseout="flip(this,'OLD_MUTUAL_Logo_Gray.png');" height="22"></a>
+                            <a href="OurCustomers.aspx" id="ctl39_A25">
+                                <img src="../images/OLD_MUTUAL_Logo_Gray.png" id="ctl39_Img7" style="border: none" onmouseover="flip(this,'OLD_MUTUAL_Logo.png');" onmouseout="flip(this,'OLD_MUTUAL_Logo_Gray.png');" height="22"></a>
                         </td>
                         <td style="width: 70px">
                             &nbsp;
                         </td>
                         <td style="width: 87px" valign="bottom">
-                            <a href="OurCustomers.aspx" id="ctl00_ctl39_A27">
-                                <img src="../images/Marriott_Logo_Gray.png" id="ctl00_ctl39_Img8" style="border: none" onmouseover="flip(this,'Marriott_Logo.png');" onmouseout="flip(this,'Marriott_Logo_Gray.png');" height="30"></a>
+                            <a href="OurCustomers.aspx" id="ctl39_A27">
+                                <img src="../images/Marriott_Logo_Gray.png" id="ctl39_Img8" style="border: none" onmouseover="flip(this,'Marriott_Logo.png');" onmouseout="flip(this,'Marriott_Logo_Gray.png');" height="30"></a>
                         </td>
                         <td style="width: 100px">
                             &nbsp;
                         </td>
                         <td style="width: 147px; padding-top: 7px;">
-                            <a href="OurCustomers.aspx" id="ctl00_ctl39_A28">
-                                <img src="../images/SIEMENS_Logo_Gray.png" id="ctl00_ctl39_Img9" style="border: none" onmouseover="flip(this,'SIEMENS_Logo.png');" onmouseout="flip(this,'SIEMENS_Logo_Gray.png');" height="17"></a>
+                            <a href="OurCustomers.aspx" id="ctl39_A28">
+                                <img src="../images/SIEMENS_Logo_Gray.png" id="ctl39_Img9" style="border: none" onmouseover="flip(this,'SIEMENS_Logo.png');" onmouseout="flip(this,'SIEMENS_Logo_Gray.png');" height="17"></a>
                         </td>
                         <td style="width: 90px">
                             &nbsp;
                         </td>
                         <td style="width: 119px; padding-top: 5px;">
-                            <a href="OurCustomers.aspx" id="ctl00_ctl39_A34">
-                                <img src="../images/Schneider_Electric_Logo_Gray.png" id="ctl00_ctl39_Img10" style="border: none" onmouseover="flip(this,'Schneider_Electric_Logo.png');" onmouseout="flip(this,'Schneider_Electric_Logo_Gray.png');" height="23"></a>
+                            <a href="OurCustomers.aspx" id="ctl39_A34">
+                                <img src="../images/Schneider_Electric_Logo_Gray.png" id="ctl39_Img10" style="border: none" onmouseover="flip(this,'Schneider_Electric_Logo.png');" onmouseout="flip(this,'Schneider_Electric_Logo_Gray.png');" height="23"></a>
                         </td>
                         <td style="width: 88px">
                             &nbsp;
                         </td>
                         <td style="width: 145px; padding-top: 5px;">
-                            <a href="OurCustomers.aspx" id="ctl00_ctl39_A35">
-                                <img src="../images/Philips_Logo_Gray.png" id="ctl00_ctl39_Img11" style="border: none" onmouseover="flip(this,'Philips_Logo.png');" onmouseout="flip(this,'Philips_Logo_Gray.png');" height="17"></a>
+                            <a href="OurCustomers.aspx" id="ctl39_A35">
+                                <img src="../images/Philips_Logo_Gray.png" id="ctl39_Img11" style="border: none" onmouseover="flip(this,'Philips_Logo.png');" onmouseout="flip(this,'Philips_Logo_Gray.png');" height="17"></a>
                         </td>
                         <td style="width: 68px">
                             &nbsp;
                         </td>
                         <td>
-                            <a href="OurCustomers.aspx" id="ctl00_ctl39_A36">
-                                <img src="../images/Columbia_University_Logo_Gray.png" id="ctl00_ctl39_Img12" style="border: none" onmouseover="flip(this,'Columbia_University_Logo.png');" onmouseout="flip(this,'Columbia_University_Logo_Gray.png');" height="23"></a>
+                            <a href="OurCustomers.aspx" id="ctl39_A36">
+                                <img src="../images/Columbia_University_Logo_Gray.png" id="ctl39_Img12" style="border: none" onmouseover="flip(this,'Columbia_University_Logo.png');" onmouseout="flip(this,'Columbia_University_Logo_Gray.png');" height="23"></a>
                         </td>
                     </tr>
                 </tbody></table>
@@ -1290,127 +1342,128 @@
 <div style="width: 1000px; margin: auto">
     <div style="float: left; margin-top: 50px;">
         <a href="https://www.Zoolz.com" target="_blank" onmousedown="_gaq.push(['_trackEvent', 'GCloud_Android', 'Footer_Play_image_link', ''])">
-            <img src="../images/Genie9_Zoolz_Cloud_Footer_Banner.png" id="ctl00_ctl39_Img1" border="0"></a>
+            <img src="../images/Genie9_Zoolz_Cloud_Footer_Banner.png" id="ctl39_Img1" border="0"></a>
     </div>
     <div style="float: left; margin: 20px 0px 20px 7px; border-left: solid 1px #404349;
         border-right: solid 1px #404349; padding: 0px 7px; height: 235px;">
         <div style="float: left">
             <div id="Home Products" class="footerBlock">
-                <span class="FooterTitle footerHeader"><a href="../Home/home_solutions.aspx" id="ctl00_ctl39_A38">
-                    Home Products</a></span> <a href="../Home/Genie_Timeline_Home/overview.aspx" id="ctl00_ctl39_A8">
+                <span class="FooterTitle footerHeader"><a href="../Home/home_solutions.aspx" id="ctl39_A38">
+                    Home Products</a></span> <a href="../Home/Genie_Timeline_Home/overview.aspx" id="ctl39_A8">
                         Genie Timeline Home</a><br>
-                <a href="../Home/Genie_Backup_Manager_Home/Overview.aspx" id="ctl00_ctl39_A9">Genie
+                <a href="../Home/Genie_Backup_Manager_Home/Overview.aspx" id="ctl39_A9">Genie
                     Backup Manager Home</a><br>
-                <a href="../Free_products/free_timeline.aspx" id="ctl00_ctl39_A10">Genie Timeline
+                <a href="../Free_products/free_timeline.aspx" id="ctl39_A10">Genie Timeline
                     Free</a><br>
-                <a href="../Home/Genie_Outlook_Express_Backup/Default.aspx" id="ctl00_ctl39_A11">Outlook
+                <a href="../Home/Genie_Outlook_Express_Backup/Default.aspx" id="ctl39_A11">Outlook
                     Express Backup</a>
             </div>
             <div id="Business Products" class="footerBlock">
-                <span class="FooterTitle footerHeader"><a href="../Business/genie_soft_business_solutions.aspx" id="ctl00_ctl39_A37">
-                    Business Products</a></span> <a href="../Business/genie_timeline_pro/overview.aspx" id="ctl00_ctl39_A12">
+                <span class="FooterTitle footerHeader"><a href="../Business/genie_soft_business_solutions.aspx" id="ctl39_A37">
+                    Business Products</a></span> <a href="../Business/genie_timeline_pro/overview.aspx" id="ctl39_A12">
                         Genie Timeline Professional</a><br>
-                <a href="../Business/genie_Timeline_Server/overview.aspx" id="ctl00_ctl39_A69">Genie
+                <a href="../Business/genie_Timeline_Server/overview.aspx" id="ctl39_A69">Genie
                     Timeline Server</a><br>
-                <a href="../Business/genie_backup_manager_Pro/Overview.aspx" id="ctl00_ctl39_A13">
+                <a href="../Business/genie_backup_manager_Pro/Overview.aspx" id="ctl39_A13">
                     Genie Backup Manager Professional</a>
                 <br>
-                <a href="../Business/genie_backup_manager_Server/Overview.aspx" id="ctl00_ctl39_A14">
+                <a href="../Business/genie_backup_manager_Server/Overview.aspx" id="ctl39_A14">
                     Genie Backup Manager Server</a><br>
             </div>
         </div>
         <div style="float: left;">
             <div id="Solutions" class="footerBlock">
-                <span class="FooterTitle footerHeader"><a href="../business/Solutions/Default.aspx" id="ctl00_ctl39_A15">
-                    Solutions</a></span> <a href="../business/Solutions/backup_for_individuals.aspx" id="ctl00_ctl39_A16">
+                <span class="FooterTitle footerHeader"><a href="../business/Solutions/Default.aspx" id="ctl39_A15">
+                    Solutions</a></span> <a href="../business/Solutions/backup_for_individuals.aspx" id="ctl39_A16">
                         Individuals</a><br>
-                <a href="../business/Solutions/backup_smb.aspx" id="ctl00_ctl39_A17">SMB</a><br>
-                <a href="../business/Solutions/Backup_enterprise.aspx" id="ctl00_ctl39_A18">Enterprise</a><br>
-                <a href="../business/Solutions/backup_for_industry.aspx" id="ctl00_ctl39_A19">Education</a><br>
-                <a href="../business/Solutions/BackupForIndustryHealthCare.aspx" id="ctl00_ctl39_A26">
+                <a href="../business/Solutions/backup_smb.aspx" id="ctl39_A17">SMB</a><br>
+                <a href="../business/Solutions/Backup_enterprise.aspx" id="ctl39_A18">Enterprise</a><br>
+                <a href="../business/Solutions/backup_for_industry.aspx" id="ctl39_A19">Education</a><br>
+                <a href="../business/Solutions/BackupForIndustryHealthCare.aspx" id="ctl39_A26">
                     Health care</a>
             </div>
             <div id="Cloud" class="footerBlock">
-                <span class="FooterTitle footerHeader"><a href="http://www.zoolz.com" id="ctl00_ctl39_A24" target="_blank">
-                    Cloud</a></span> <a href="../GCloud.aspx" id="ctl00_ctl39_A5" target="_blank">G Cloud for Android</a><br>
-                <a href="https://www.Zoolz.com" id="ctl00_ctl39_A51" target="_blank">Zoolz Cloud</a><br>
-                <a href="http://www.genie9.com/CloudTurtle/home.aspx" id="ctl00_ctl39_A33">Cloud Turtle
+                <span class="FooterTitle footerHeader"><a href="http://www.zoolz.com" id="ctl39_A24" target="_blank">
+                    Cloud</a></span> <a href="../GCloud.aspx" id="ctl39_A5" target="_blank">G Cloud for Android</a><br>
+                <a href="https://www.Zoolz.com" id="ctl39_A51" target="_blank">Zoolz Cloud</a><br>
+                <a href="http://www.genie9.com/CloudTurtle/home.aspx" id="ctl39_A33">Cloud Turtle
                     <i>(FREE)</i></a><br>
             </div>
         </div>
         <div style="float: left">
             <div id="Store" class="footerBlock">
-                <span class="FooterTitle footerHeader"><a href="../store/store.aspx" id="ctl00_ctl39_A4">
-                    Store</a></span> <a href="../store/store.aspx" id="ctl00_ctl39_A2">Genie9 Store</a><br>
-                <a href="../store/Upgrade.aspx" id="ctl00_ctl39_A3">Upgrade</a><br>
-                <a href="../store/GenieDiscounts.aspx" id="ctl00_ctl39_A31">Educational Discounts</a><br>
-                <a href="awards.aspx" id="ctl00_ctl39_A39">Awards</a><br>
-                <a href="rnt.aspx" id="ctl00_ctl39_A40">Reviews &amp; Testimonials</a>
+                <span class="FooterTitle footerHeader"><a href="../store/store.aspx" id="ctl39_A4">
+                    Store</a></span> <a href="../store/store.aspx" id="ctl39_A2">Genie9 Store</a><br>
+                <a href="../store/Upgrade.aspx" id="ctl39_A3">Upgrade</a><br>
+                <a href="../store/GenieDiscounts.aspx" id="ctl39_A31">Educational Discounts</a><br>
+                <a href="awards.aspx" id="ctl39_A39">Awards</a><br>
+                <a href="rnt.aspx" id="ctl39_A40">Reviews &amp; Testimonials</a>
             </div>
             <div id="Support" class="footerBlock">
-                <span class="FooterTitle footerHeader"><a href="../Support/Support.aspx" id="ctl00_ctl39_A48">
+                <span class="FooterTitle footerHeader"><a href="../Support/Support.aspx" id="ctl39_A48">
                     Support</a></span> <a href="../Support/ContactSupport.aspx">
                         Contact Support</a><br>
-                <a href="../Support/FAQs/FAQs.aspx" id="ctl00_ctl39_A29">FAQs</a><br>
-                <a href="../Support/KB/KnowledgeSearch.aspx" id="ctl00_ctl39_A30">Knowledge Base</a><br>
+                <a href="../Support/FAQs/FAQs.aspx" id="ctl39_A29">FAQs</a><br>
+                <a href="../Support/KB/KnowledgeSearch.aspx" id="ctl39_A30">Knowledge Base</a><br>
                 
-                <a href="../Support/ContactSales.aspx" id="ctl00_ctl39_A32">Contact Sales</a><br>
+                <a href="../Support/ContactSales.aspx" id="ctl39_A32">Contact Sales</a><br>
             </div>
         </div>
         <div style="float: left">
             <div id="Partners" class="footerBlock">
-                <span class="FooterTitle footerHeader"><a href="../Partners/OurPartners.aspx" id="ctl00_ctl39_A1">
+                <span class="FooterTitle footerHeader"><a href="../Partners/OurPartners.aspx" id="ctl39_A1">
                     Partners</a></span>
                 
-                <a href="../Partners/BecomeReseller.aspx" id="ctl00_ctl39_A20">Resellers</a><br>
-                <a href="../Partners/BecomeAnAffiliate.aspx" id="ctl00_ctl39_A21">Web Affiliates</a><br>
-                <a href="../Partners/BecomeAnOEM.aspx" id="ctl00_ctl39_A22">OEM</a><br>
-                <a href="../Partners/OurPartners.aspx" id="ctl00_ctl39_A23">Our Partners</a><br>
+                <a href="../Partners/BecomeReseller.aspx" id="ctl39_A20">Resellers</a><br>
+                <a href="../Partners/BecomeAnAffiliate.aspx" id="ctl39_A21">Web Affiliates</a><br>
+                <a href="../Partners/BecomeAnOEM.aspx" id="ctl39_A22">OEM</a><br>
+                <a href="../Partners/OurPartners.aspx" id="ctl39_A23">Our Partners</a><br>
                 <a href="http://partners.genie9.com">Partners Login</a>
             </div>
             <div id="Company" class="footerBlock">
-                <span class="FooterTitle footerHeader"><a href="aboutus.aspx" id="ctl00_ctl39_A41">
-                    Company</a></span> <a href="aboutus.aspx" id="ctl00_ctl39_A43">About Genie9</a><br>
+                <span class="FooterTitle footerHeader"><a href="aboutus.aspx" id="ctl39_A41">
+                    Company</a></span> <a href="aboutus.aspx" id="ctl39_A43">About Genie9</a><br>
                 
                 
-                <a href="OurCustomers.aspx" id="ctl00_ctl39_A45">Our Customers</a><br>
-                <a href="privacy.aspx" id="ctl00_ctl39_A46">Privacy Statement</a><br>
+                <a href="OurCustomers.aspx" id="ctl39_A45">Our Customers</a><br>
+                <a href="privacy.aspx" id="ctl39_A46">Privacy Statement</a><br>
                 
                 
-                <a href="../Support/Support.aspx" id="ctl00_ctl39_A56">Contact Us</a><br>
+                <a href="../Support/Support.aspx" id="ctl39_A56">Contact Us</a><br>
                 
+                <a href="legal.aspx" id="ctl39_A667">Terms</a><br>
             </div>
         </div>
     </div>
     <div style="float: left; text-align: center; padding: 0px 10px;">
         <a target="_blank" href="http://www.facebook.com/Genie9Backup" style="padding-top: 50px;
             display: block;">
-            <img src="../images/Homepage_Footer_Facebook.png" id="ctl00_ctl39_Img2" style="border: none"></a>
+            <img src="../images/Homepage_Footer_Facebook.png" id="ctl39_Img2" style="border: none"></a>
         <br>
         <br>
         <a target="_blank" href="http://www.twitter.com/Genie9Backup">
-            <img src="../images/Homepage_Footer_Twitter.png" id="ctl00_ctl39_Img3" style="border: none"></a>
+            <img src="../images/Homepage_Footer_Twitter.png" id="ctl39_Img3" style="border: none"></a>
         <br>
         <br>
         <a target="_blank" href="https://plus.google.com/u/1/103113892992376501083/posts">
-            <img src="../images/Homepage_Footer_Google_Plus.png" id="ctl00_ctl39_Img4" style="border: none"></a>
+            <img src="../images/Homepage_Footer_Google_Plus.png" id="ctl39_Img4" style="border: none"></a>
     </div>
     <div>
     </div>
     <div style="clear: both">
     </div>
     <div style="padding: 10px 20px; border-top: 1px solid #404349; text-align: center;">
-        Copyright© <a href="http://www.genie9.com">Genie9</a> Corporation 2010-2014. <a href="http://www.genie9.com">
-            Data Backup</a> and <a href="http://www.genie9.com">Disaster Recovery Software</a>.
-        All rights reserved.
+        Copyright© <a href="http://www.genie9.com">Genie9</a> Corporation 2010-2015. | <a href="aboutus.aspx" id="ctl39_A451">Company</a> | <a href="legal.aspx" id="ctl39_A461">Terms</a>
+        
+        
     </div>
 </div>
             </td>
         </tr>
     </tbody></table>
-    <input type="hidden" name="ctl00$hfFileUrl" id="ctl00_hfFileUrl">
-     <input type="hidden" name="ctl00$hfFileName" id="ctl00_hfFileName">
-    <input type="submit" name="ctl00$btnDownload" value="" id="ctl00_btnDownload" style="visibility: hidden;position: absolute;top: 0px;">
+    <input type="hidden" name="ctl00$hfFileUrl" id="hfFileUrl">
+     <input type="hidden" name="ctl00$hfFileName" id="hfFileName">
+    <input type="submit" name="ctl00$btnDownload" value="" id="btnDownload" style="visibility: hidden;position: absolute;top: 0px;">
     </form>
 
     <script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
