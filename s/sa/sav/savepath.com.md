@@ -1,21 +1,79 @@
-> *The following text is extracted and transformed from the savepath.com privacy policy that was archived on 2010-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101206111614id_/http%3A//mediatemple.net/company/legal/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the savepath.com privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615043846id_/http%3A//www.savepathdeals.com/privacy) for the most accurate reproduction.*
 
-# (mt) Media Temple - Company - Legal - Privacy Policy
+# Privacy Policy | SavePathDeals.com
 
-(mt) Media Temple, Inc. respects the privacy of every individual who visits our websites. This privacy statement provides notice of the standards and terms under which (mt) Media Temple protects the privacy of information supplied by visitors to sites on the World Wide Web that are owned and operated by (mt) Media Temple, including mediatemple.net, and ac.mediatemple.net. This privacy statement provides notice of our information collection practices and of the ways in which your information may be used. This policy may change from time to time, so please check back periodically to review this information.
+**Introduction:**
 
-**A. Personally-Identifiable Information:**
+We respect your privacy, and we are committed to protecting your privacy. We understand the importance of the information you entrust to us. In general, we respect your information and treat it as private and confidential. We will not typically give, sell, rent, exchange or otherwise provide your information with anyone else without prior consent or full disclosure. 
 
-(mt) Media Temple typically receives specific data about its website visitors only when such information is provided voluntarily, such as when our visitors request information, purchase or enroll for services, open a customer support inquiry ticket, provide resume information for employment opportunities, or send us e-mail. Of course, some of these activities require that you give us information, such as when you make a purchase, use a credit card to pay for services, submit your resume, or request certain types of information. When you provide personally-identifiable information to (mt) Media Temple through one of our websites, it will be used to fulfill your specific request. In most cases, you will be given the opportunity to select whether you do, or do not, want (mt) Media Temple to use this information for additional purposes. You may also request that (mt) Media Temple not use your information by sending an e-mail to contact@mediatemple.net, however, (mt) Media Temple reserves the right, in its discretion, to send you bulletins and other important information about your (mt) Media Temple services. Absent any instructions from you, (mt) Media Temple may use information you provide to inform you about additional services and products offered by the (mt) Media Temple family of companies, (mt) Media Temple venture companies, (mt) Media Temple authorized agents, and other goods and services providers with whom (mt) Media Temple has relationships and whose offerings might be of interest to you. (mt) Media Temple will not, however, sell or trade your personally-identifiable information unless we are authorized or legally required to do so, or in the case of imminent physical harm to the visitor or others. On those (mt) Media Temple sites where you may provide (mt) Media Temple with credit card or other ordering information via the web, (mt) Media Temple protects and secures this information by employing commercially customary web-based security and encryption protocols, examples of which include Secure Socket Layer (SSL) and Secure Electronic Transaction (SET). On those sites where you voluntarily offer any feedback, data, answers, questions, comments, suggestions, ideas or the like, (mt) Media Temple will treat that portion of the information as non-confidential and nonproprietary and, except as otherwise expressed in this privacy statement, Media Temple assumes no obligation to protect such information from disclosure.
+We will notify users of updates to this policy by noting the date of new changes directly below this statement. 
 
-**B. Non Personally-Identifiable (Generic) Information:**
+This policy was last amended June 9, 2012. Policy effective June 9, 2012. 
 
-In general, (mt) Media Temple gathers some generic information automatically. Generic information does not reveal the identity of the visitor. It usually includes information about the Internet address assigned to your computer, the number and frequency of visitors, and the (mt) Media Temple sites visited. (mt) Media Temple gathers this information for the limited purpose of determining customer service and website needs. We accomplish this by using certain technologies, including "cookies" (a technology that can be used to provide the visitor with tailored information about (mt) Media Temple services). (mt) Media Temple does not combine information collected in this way with any personally-identifiable information. You can set your browser to notify you when you receive a cookie and you can refuse it; this may however reduce functionality of certain website features such as the order system and the AccountCenter. 
+The following sections below describe our privacy practices concerning the information collected through our websites, our toolbars, and our applications in a clear and concise way. Below we generally describe what information we collect when you use our service, how we protect that information, how long we retain it, whom we share it with, and what your privacy options are. 
 
-**C. Your (mt) Media Temple hosted website, server, bulletin boards, forum, Third-Party Sites:**
+By using our website, toolbars, or applications, you consent to our collection and use of your data as described in this privacy policy. If you install the Savepath Deals application(s), you will be subject to Savepath Deals. End User License Agreement (EULA) that describes what information we collect when you use our applications and how that information may be used. 
 
-Information that you disclose in a public space, including on any blog, bulletin board, chat room, or website (mt) Media Temple may host for you as part of your (mt) Media Temple services, is available to anyone else who visits that space. (mt) Media Temple cannot safeguard any information you disclose in these locations. Additionally, (mt) Media Temple websites contain links to sites that belong to third parties unrelated to (mt) Media Temple. (mt) Media Temple cannot protect any information you may disclose in these sites and recommends that you review the privacy policy statements of those sites you visit. 
+**Information Collected:**
 
-**D. Exceptions and Limitations:**
+Some information that may be collected when you use Savepath Deals and/or the applications. We use cookies on our sites to collect and store this information: 
 
-Notwithstanding the foregoing and in compliance with applicable laws, (mt) Media Temple (i) cooperates fully with state, local, and federal officials in any investigation relating to any content (including personal or private electronic communications transmitted to (mt) Media Temple) or purported unlawful activities of any user of the Service, and (ii) takes reasonable measures to protect its proprietary rights. For the limited purposes of accomplishing such cooperation and measures and in compliance with applicable laws, (mt) Media Temple may be required to disclose personally identifiable information. In addition, (mt) Media Temple may elect to monitor the areas of communication of any kind (i) to satisfy any law, regulation, or government request; (ii) if such disclosure is necessary or appropriate to operate (mt) Media Temple; or (iii) to protect the rights or property of (mt) Media Temple or others. In connection with the potential sale or transfer of any of its interest in mediatemple.net, and ac.mediatemple.net and other sites owned by the company, (mt) Media Temple reserves the right to sell or transfer your information (including , but not limited to name, address information, and other information you provided to (mt) Media Temple) to a third party that (i) concentrates its business in communication products or services; (ii) agrees to be (mt) Media Temple's successor in interest with regard to the maintenance and protection of information collected and maintained by (mt) Media Temple; and (iii) agrees to the obligations of this policy statement.
+  * IP address of computer
+  * Browser type (Internet Explorer 8, etc.)
+  * Browser language setting
+  * Other browser information (e.g. size, connection speed)
+  * Date and time you access our site
+  * Operating system or platform (Mac, Windows XP, etc.)
+  * Internet address of the Web site from which you linked directly to our site (i.e. URL of the last webpage you visited before coming to our site)
+  * Your activity on our site(s) and application(s) such as your queries, search results selected, clicks, pages viewed, etc.
+  * If you install our application(s), when you start your browser, the application(s) sends a configuration request which also includes information about the specific release date and distribution source of your application(s).
+
+
+
+When you install the Applications, we assign a unique identification code to your copy of the Applications, and such code is written to your computer's registry. This identification code is for application support purposes only. Further, the data collected does not provide personally identifiable information nor will this data be provided to any third parties. 
+
+**Purpose of Information Collection:**
+
+We use this information to measure the number of visitors to different sections of the site, to diagnose and correct system errors, and to improve the site. We do not connect this information to your name or identity, and we periodically delete this information from the server. 
+
+In addition, the data collected can help us to understand our users (their demographics, what site features they like, how they use them, etc), to show you ads on our site and in our applications that are more relevant to you, to respond to your queries with the best possible search results, and to distinguish the install of the application in order to monitor the quality of our partner sites and distribution channels. 
+
+We make limited use of cookies on this site for convenience features and to identify and prevent click fraud patterns. These cookies are only accessible within our servers and are typically deleted as soon as possible. 
+
+**Data Collection Time Period:**
+
+Your search queries are always anonymous in our system and not subject to data collection time period schedules. 
+
+Cookies and configuration settings in connection with our application(s) are reset every 24 hours, but the information collected is stored in a query log for up to six months. 
+
+**Data Collection and Sharing with Third Parties:**
+
+Our sites contains links to other websites, including sites that we do not own or operate. Unless otherwise expressly stated, Savepath Deals. is not responsible for the privacy practices or the content of such websites, including such sites use of any information collected when Site visitors click through links to those sites. We encourage you to read the Privacy Policies of websites linked to our sites. 
+
+Advertisers and advertising networks place ads (including sponsored links in search results) on our sites and in our applications. These companies may collect information, such as your computer's IP address, browser information, and search queries, as you use our services. They also may use web technologies such as cookies to collect data about you when you visit our sites. 
+
+We will not share information we collected about you with any third party for other purposes (including direct marketing) without first obtaining your consent. 
+
+We may disclose data we collect about our users when we believe disclosure is necessary to investigate, prevent, or respond to suspected illegal or fraudulent activity or to protect the safety, rights, or property of us, our users, or others. However, we do not collect any personally identifiable information. 
+
+We may transfer your information to a third party if we or any of our affiliates are involved in a corporate restructuring (e.g., a sale, merger, or other transfer of assets). 
+
+**Opt Out:**
+
+If you want to disable the cookies placed on your computer by advertising companies that display ads on our site to prevent them from using information about you for targeting purposes, you can use the opt-out feature at http://www.networkadvertising.org/. 
+
+**Security of Collected Information**
+
+Although we do not collect any personally identifiable information about you, we have implemented security measures to prevent unauthorized or unlawful access to and misuse of the information we collect, including technological and physical security measures as well as procedural safeguards. However, because no security system can be 100% effective, we cannot completely guarantee the security of any information we may have collected from or about you. 
+
+**Information From Children Under 13**
+
+We do not knowingly collect any personally identifiable information from children under 13. If we determine that a user is under 13, we will immediately delete all information pertaining to that user. 
+
+**Government Authorities and Legal Rights**
+
+If requested or required by government authorities, such as law enforcement authorities, courts, or regulators, or otherwise to comply with the law, we may disclose any information we have about our users or modify other practices described in this policy, such as how long and in what form we keep information. We also may disclose information collected about you in order to exercise or protect legal rights or defend against legal claims. 
+
+**Information Collected From Users Located Outside the USA**
+
+If you are visiting our sites from outside the United States, your data will be transferred to and stored in our servers in the U.S. By using our sites, you consent to our collection and use of your data as described in this privacy policy. 
