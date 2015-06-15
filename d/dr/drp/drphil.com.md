@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the drphil.com privacy policy that was archived on 2014-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141211142111id_/http%3A//www.drphil.com/members/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drphil.com privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615104006id_/http%3A//www.drphil.com/members/privacypolicy) for the most accurate reproduction.*
 
 # Dr. Phil.com - Privacy Policy
 
@@ -98,7 +98,7 @@ The information you provide to us may be used to:
 
 
 
-Moreover, if you submit to Company and/or the Web Site comments, photographs, videos (including web cam videos), music, text or other content, it maybe published online or offline (including on-air, on a CD or DVD, through wireless distribution, and transmission of soft copies, or any other media or format currently existing or hereafter developed), and we may publish your name, voice, likeness and other personal information in connection with publishing the content or a portion of the content, and we may use the content and any excerpt from the content in connection with advertising, marketing, publicity and promotional activities. Please also see "Information You Submit" in our [Terms of Use](https://web.archive.org/members/termsofuse/) and the Submission Guidelines, which govern any content you submit through the Web Site and the content you submit to the Web Site, respectively. 
+Moreover, if you submit to Company and/or the Web Site comments, photographs, videos (including web cam videos), music, text or other content, it maybe published online or offline (including on-air, on a CD or DVD, through wireless distribution, and transmission of soft copies, or any other media or format currently existing or hereafter developed), and we may publish your name, voice, likeness and other personal information in connection with publishing the content or a portion of the content, and we may use the content and any excerpt from the content in connection with advertising, marketing, publicity and promotional activities. Please also see "Information You Submit" in our [Terms of Use](https://web.archive.org/members/termsofuse/), which govern any content you submit through the Web Site and the content you submit to the Web Site, respectively. 
 
 Please note that information submitted to the Web Site via a "Ask Dr. Phil," "Send Your Comments" or other similar mechanisms will not necessarily receive a response. We will not use any such information you provide for marketing purposes unrelated to your request, although we may contact you regarding your submission or be a guest on the Dr. Phil Show. 
 
