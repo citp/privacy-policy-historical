@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mytaxiindia.com privacy policy that was archived on 2014-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141114131655id_/http%3A//www.mytaxiindia.com/privacy_and_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mytaxiindia.com privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615103843id_/http%3A//www.mytaxiindia.com/privacy_and_policy.php) for the most accurate reproduction.*
 
 # Privacy and Policy | My Taxi India
 
