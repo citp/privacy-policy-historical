@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the funyo.com privacy policy that was archived on 2014-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141127054400id_/http%3A//www.funyo.com/privacy.html%3F) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the funyo.com privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615033813id_/http%3A//www.funyo.com/privacy.html%3F) for the most accurate reproduction.*
 
 # FunYo - Privacy Policy
 
@@ -50,4 +50,4 @@ The address for correspondence by post is
 ICF Technology, Inc.  
 PO Box 21508  
 Seattle, WA 98111  
-USA 
+USA
