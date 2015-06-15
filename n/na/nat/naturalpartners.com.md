@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the naturalpartners.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122182300id_/http%3A//www.naturalpartners.com/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the naturalpartners.com privacy policy that was archived on 2015-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150616013319id_/http%3A//www.naturalpartners.com/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
 
 # Privacy Policy - Natural Partners
 
