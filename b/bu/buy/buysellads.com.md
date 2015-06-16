@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buysellads.com privacy policy that was archived on 2014-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141219024343id_/https%3A//buysellads.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buysellads.com privacy policy that was archived on 2015-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150616225629id_/https%3A//buysellads.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | BuySellAds
 
@@ -54,7 +54,7 @@ In your browser’s settings, there should be an option to remove cookies. The d
 
 **Questions or Comments:**
 
-If you have any questions or comments regarding this Privacy Policy, please contact us by e-mail at [support@buysellads.com](mailto:support@buysellads.com) or by U.S. mail to 186 South Street, Boston, MA 02111.
+If you have any questions or comments regarding this Privacy Policy, please contact us by e-mail at [support@buysellads.com](mailto:support@buysellads.com) or by U.S. mail to 745 Atlantic Avenue, 8th Floor, Boston, MA 02111.
 
 Date last updated: September 10, 2014
 
