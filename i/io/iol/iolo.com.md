@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iolo.com privacy policy that was archived on 2014-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141129210828id_/http%3A//www.iolo.com/company/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iolo.com privacy policy that was archived on 2015-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150616053731id_/http%3A//www.iolo.com/company/legal/privacy) for the most accurate reproduction.*
 
 # Information and Privacy Policy
 
@@ -116,10 +116,11 @@ Effective Date: March 1, 2009.
 
 If you would like to contact us for any reason regarding our privacy practices, please write us at the following address:
 
-iolo technologies, LLC  
-Attn: Privacy Policy  
-150 S. Los Robles, Suite 500  
-Pasadena, CA 91101
+**Attn: Privacy Policy**
 
-Telephone: (877) 239-4656  
+iolo technologies, LLC  
+150 S. Los Robles Avenue, Suite 500  
+Pasadena, CA 91101  
+USA
+
 Email: [support@iolo.com](mailto:support@iolo.com)
