@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the newsiosity.com privacy policy that was archived on 2014-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141014212422id_/http%3A//www.newsiosity.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newsiosity.com privacy policy that was archived on 2015-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150616100636id_/http%3A//www.newsiosity.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
-
-_Please see our[Terms and Condition](http://www.newsiosity.com/terms-conditions) for further details on the Terms of Use for Newsiosity.com_
 
 At Newsiosity.com we understand the importance of protecting your privacy. Our Privacy Policy covers our treatment of personal information collected when anyone is on our site or uses the services we provide; it neither addresses nor applies to individuals or third party practices over which we have no control. This includes but is not limited to cookies which may be used by our advertisers.
 
