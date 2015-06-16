@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tripinfo.com privacy policy that was archived on 2014-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141209200145id_/http%3A//www.tripinfo.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tripinfo.com privacy policy that was archived on 2015-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150616135220id_/http%3A//www.tripinfo.com/privacy_policy.html) for the most accurate reproduction.*
 
 # TRIPinfo.com: Privacy Policy
 
@@ -59,7 +59,7 @@ TRIPmedia GROUP AFFILIATED COMPANIES:
 • Brand USA  
 • International Festivals & Events Association (IFEA)  
 • National Association of Reciprocal Museums (NARM)   
-• Southeast Tourism Society
+• Travel Spike
 
 EMAIL US WITH QUESTIONS OR CONCERNS ABOUT OUR PRIVACY POLICY:  
 [info@TRIPmediagroup.com](mailto:%20info@TRIPmediagroup.com)
