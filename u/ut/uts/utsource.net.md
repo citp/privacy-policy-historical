@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the utsource.net privacy policy that was archived on 2013-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131211013809id_/http%3A//www.utsource.net/page.aspx%3FpageId%3D41) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the utsource.net privacy policy that was archived on 2015-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150616040547id_/http%3A//www.utsource.net/page.aspx%3FpageId%3D41) for the most accurate reproduction.*
 
 # Privacy Statement
-
-## 
-
-**Privacy Statement**
 
 #### UTSOURCE protects your personal information, and do not disclose, rent or sell them to third parties.
 
