@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dishant.com privacy policy that was archived on 2014-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141222214258id_/http%3A//www.sangeethouse.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dishant.com privacy policy that was archived on 2015-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150616050906id_/http%3A//www.sangeethouse.com/privacy.php) for the most accurate reproduction.*
 
 # Sangeethouse.com - Home of Indian Music - Privacy Policy
 
@@ -30,4 +30,4 @@ This site has security measures in place to protect the loss, misuse, and altera
 
 **Contacting the Web Site**
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact us using [this link](https://web.archive.org/web/20141222214258id_/http%3A//www.sangeethouse.com/contactus.php)
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact us using [this link](https://web.archive.org/web/20150616050906id_/http%3A//www.sangeethouse.com/contactus.php)
