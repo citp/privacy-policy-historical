@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the 7dayshop.com privacy policy that was archived on 2014-07-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140712182252id_/http%3A//www.7dayshop.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 7dayshop.com privacy policy that was archived on 2015-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150616163353id_/http%3A//www.7dayshop.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - 7DAYSHOP.COM
+# Privacy Policy
 
 Protecting your personal details on our website
 
