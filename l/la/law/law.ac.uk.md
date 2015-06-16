@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the law.ac.uk privacy policy that was archived on 2014-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141218045828id_/http%3A//www.law.ac.uk/about/cookies-and-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the law.ac.uk privacy policy that was archived on 2015-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150617014105id_/http%3A//www.law.ac.uk/about/cookies-and-privacy-policy) for the most accurate reproduction.*
 
 # Cookies and privacy policy | The University of Law
 
@@ -65,8 +65,9 @@ Please be aware that some of the websites to which we provide links may collect 
 For information on our FAQ’s supplier Right Now -   
 <http://www.oracle.com/us/legal/privacy/privacy-policy-078584.html>
 
-For information on our email marketing software supplier Communigator -   
-<http://www.communigator.co.uk/privacy-policy.aspx>
+For information on our email marketing software supplier Oracle -  
+<http://www.oracle.com/us/legal/privacy/privacy-policy/index.html>   
+[](http://www.communigator.co.uk/privacy-policy.aspx "CommuniGator Privacy Policy - this link will open in a new window")
 
 ##### Social media cookies
 
