@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the koreayellowpage.net privacy policy that was archived on 2014-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141107015955id_/http%3A//koreayellowpage.net/about/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the koreayellowpage.net privacy policy that was archived on 2015-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150616144910id_/http%3A//www.koreayellowpage.net/about/policy.html) for the most accurate reproduction.*
 
 # KOREA YELLOW PAGES - Global e-Trade Marketplace
 
