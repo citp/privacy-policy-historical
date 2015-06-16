@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the porn-wire.com privacy policy that was archived on 2014-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141225095111id_/http%3A//www.fap6.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the porn-wire.com privacy policy that was archived on 2015-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150616034440id_/http%3A//www.fap6.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy :: fap6.com
 
