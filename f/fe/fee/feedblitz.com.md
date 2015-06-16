@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the feedblitz.com privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227164911id_/http%3A//www.feedblitz.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the feedblitz.com privacy policy that was archived on 2015-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150616031701id_/http%3A//www.feedblitz.com/privacy) for the most accurate reproduction.*
 
 # FeedBlitz Privacy Policy | FeedBlitz - Email Marketing and RSS
 
