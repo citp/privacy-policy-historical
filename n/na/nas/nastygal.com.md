@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nastygal.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230054740id_/http%3A//nastygal.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nastygal.com privacy policy that was archived on 2015-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150617012141id_/http%3A//www.nastygal.com/privacy-statement) for the most accurate reproduction.*
 
 # Nasty Gal - Privacy & Security - New & Vintage Online Clothing Store
 
