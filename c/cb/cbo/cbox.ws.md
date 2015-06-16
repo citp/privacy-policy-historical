@@ -1,39 +1,40 @@
-> *The following text is extracted and transformed from the cbox.ws privacy policy that was archived on 2014-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141202103421id_/http%3A//www.cbox.ws/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cbox.ws privacy policy that was archived on 2015-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150616195225id_/http%3A//www.cbox.ws/privacy) for the most accurate reproduction.*
 
-# Cbox · Privacy Policy · Chat and Tag for the Social Web
+# Cbox · Privacy Policy
 
-Cbox is committed to maintaining your privacy and keeping your personal information confidential, and extends this policy to the third party users of your Cbox as well. 
+Last updated: January 22, 2015
+
+Cbox is serious about your privacy and keeping your personal information confidential. We will not sell, rent, or otherwise give away your personal information without your consent. 
+
+Remember that any material that you post in a Cbox should be assumed to be public. You should not give away any personally-identifying information, at the request of another user or otherwise. 
 
 ## Contact details
 
-We require your email address in order to send you important information regarding your account. Your address is not listed publicly and will never be made available to third-parties. No other contact details are required by us, but they may be required by third-party payment processors should you purchase paid products or services from us. 
+We require your email address when you sign up for a Cbox, in order to send you important information regarding your account. Your address is not listed publicly and will never be made available to third parties. No other contact details are required by us, but they may be required by third-party payment processors should you purchase paid services from us. 
 
 ## Cookies
 
-Cbox uses cookies in five contexts: 
+Cbox may send cookies to your browser under some circumstances, in order to improve your experience of the service. There are generally two contexts in which cookies are used: 
 
-  1. To handle sessions when you log in to administrate your Cbox at the control panel located at http://cbox.ws/admin.php. 
-  2. To handle sessions when you and third-party users view and/or transmit messages on your Cbox. 
-  3. To store temporarily the chosen screen name and other information provided by visitors who post in your Cbox. 
-  4. To limit the number of times visitors are served advertisements by Cbox Applications that employ advertising. 
+  1. To remember authentication status when you log in to the control panel or your Cbox. 
+  2. For the collection non-personally-identifying aggregate statistics about visitors' engagement. 
 
 
 
-Importantly, none of these cookies is readable by other websites or users. Only cookies used in context (3) potentially contain any personally-identifiable information, but this information is no more than that which is submitted by users themselves when they transmit messages on Cbox Applications. 
+We do not store any important information such as passwords or IP addresses in cookies, not even in encrypted form. 
 
 ## Third Party Cookies
 
-In the course of serving advertisements to this site, our third-party advertisers may place or recognize a unique cookie on your browser. 
-
-We use BUDS INC and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please [click here](http://www.networkadvertising.org/optout_nonppii.asp). 
+Our third-party service providers may send cookies to your browser as part of their operations. We are careful to ensure that third-party cookies do not violate our own cookie policy. 
 
 ## IP Addresses
 
-Internet Protocol (IP) addresses are logged in the course of using this website and its Applications, for purposes of: 
+Internet Protocol (IP) addresses are logged in the course of using this website and its Applications, for the purposes of: 
 
-  1. Aggregate statistical analysis of broad and general demographic information.
-  2. Protection of our computer equipment and services from abusive access.
+  1. Aggregate statistical analysis of visitor engagement.
+  2. Limiting access to the service by users who have violated our Terms and Conditions of Service. 
+  3. Providing Cbox administrators with the ability to block users on their own Cboxes.
 
 
 
-We do not store IP addresses with the intention of personally identifying users. 
+Note that while we do not publish IP addresses and cannot assist in retrieving them, your IP address is stored with each message you post on any Cbox, and is available to the administrator of that Cbox. That administrator is bound by our Terms of Service to extend our privacy policy to you. 
