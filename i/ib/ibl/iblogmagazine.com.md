@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the iblogmagazine.com privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123143350id_/http%3A//iblogmagazine.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iblogmagazine.com privacy policy that was archived on 2015-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150616045351id_/http%3A//iblogmagazine.com/privacy-policy) for the most accurate reproduction.*
 
-# iBlog Magazine Privacy Policy – iBlog
+# iBlog Magazine Privacy Policy
 
 Here at iBlogMagazine.com, we know first-hand just how important your privacy is to you. That’s why we want to assure you we will take every possible measure to protect it! This privacy policy sets out how iBlogMagazine.com uses and protects any information that you give iBlogMagazine.com when you use this website.
 
