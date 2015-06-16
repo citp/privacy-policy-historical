@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the indiagames.com privacy policy that was archived on 2014-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141130060328id_/http%3A//indiagames.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indiagames.com privacy policy that was archived on 2015-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150617003618id_/http%3A//indiagames.com/privacy.jsp) for the most accurate reproduction.*
 
-# Full version PC Games at Indiagames , Online Free Games ,Download PC Games, Online Games, Cricket Games, Games on Demand, Buy Games @ Indiagames
+# IndiaGames
 
 The Walt Disney Company has a rich tradition of bringing great stories, characters and experiences to our guests around the world, and our sites and applications are created to entertain and connect guests with the best that Disney has to offer on the platforms and devices they prefer.
 
@@ -114,7 +114,7 @@ We provide you the ability to exercise certain controls and choices regarding ou
 * You may change your choices for subscriptions, newsletters and alerts
 * You may choose whether to receive from us offers and promotions for our products and services, or products and services that we think may be of interest to you
 * You may choose whether we share your _personal information_ with other companies so they can send you offers and promotions about their products and services
-* You may choose whether to receive targeted advertising from many ad networks, data exchanges, marketing analytics and other service providers [_here_](www.youronlinechoices.com)
+* You may choose whether to receive targeted advertising from many ad networks, data exchanges, marketing analytics and other service providers [_here_](https://web.archive.org/web/20150617003618id_/http%3A//indiagames.com/www.youronlinechoices.com)
 * You may request access to the personal information we hold about you and that we amend or delete it and we request third parties with whom we have shared the information do the same
 
 You may exercise your controls and choices, or request access to your personal information, by contacting 
@@ -232,13 +232,13 @@ utvworldmovies.com | UTV Entertainment Television Limited | 7th Floor, Building 
 www.disney.in | The Walt Disney Company (India) Private Limited | 4th Floor, Peninsula Tower No. 1, Peninsula Corporate Park, G.K. Marg, Lower Parel, Mumbai- 400013.  
 www.disneyxd.in | The Walt Disney Company (India) Private Limited | 4th Floor, Peninsula Tower No. 1, Peninsula Corporate Park, G.K. Marg, Lower Parel, Mumbai- 400013.  
 www.hungamatv.com | United Home Entertainment Private Limited | 4th Floor, Peninsula Tower No. 1, Peninsula Corporate Park, G.K. Marg, Lower Parel, Mumbai- 400013.  
-indiagames.in | Indiagames Limited | 11th Floor, Vishwaroop IT Park, Sector 30A, Opp. Vashi Railway Station, Navi Mumbai 400705  
-mobile.indiagames.com | Indiagames Limited | 11th Floor, Vishwaroop IT Park, Sector 30A, Opp. Vashi Railway Station, Navi Mumbai 400705  
-god.indiagames.com | Indiagames Limited | 11th Floor, Vishwaroop IT Park, Sector 30A, Opp. Vashi Railway Station, Navi Mumbai 400705  
-t20fever.com | Indiagames Limited | 11th Floor, Vishwaroop IT Park, Sector 30A, Opp. Vashi Railway Station, Navi Mumbai 400705  
-game.raonemovie.com | Indiagames Limited | 11th Floor, Vishwaroop IT Park, Sector 30A, Opp. Vashi Railway Station, Navi Mumbai 400705  
+indiagames.in | Indiagames Limited | S-14, Guru Hargovindji Marg, Solitaire Corporate Park, Chakala, Andheri (E), Mumbai 400093  
+mobile.indiagames.com | Indiagames Limited | S-14, Guru Hargovindji Marg, Solitaire Corporate Park, Chakala, Andheri (E), Mumbai 400093  
+god.indiagames.com | Indiagames Limited | S-14, Guru Hargovindji Marg, Solitaire Corporate Park, Chakala, Andheri (E), Mumbai 400093  
+t20fever.com | Indiagames Limited | S-14, Guru Hargovindji Marg, Solitaire Corporate Park, Chakala, Andheri (E), Mumbai 400093  
+game.raonemovie.com | Indiagames Limited | S-14, Guru Hargovindji Marg, Solitaire Corporate Park, Chakala, Andheri (E), Mumbai 400093  
 www.clubpenguin.com | Disney Online Inc. | 500 Buena Vista Street, Burbank CA 91521  
-www.indiagames.com | Indiagames Limited | 11th Floor, Vishwaroop IT Park, Sector 30A, Opp. Vashi Railway Station, Navi Mumbai 400705  
+www.indiagames.com | Indiagames Limited | S-14, Guru Hargovindji Marg, Solitaire Corporate Park, Chakala, Andheri (E), Mumbai 400093  
 _Data Processor._
 
 A data processor is a person or entity that processes personal information on behalf of a data controller (or data controllers) and is permitted to perform data processing only as directed by the data controller(s). 
@@ -314,17 +314,13 @@ India:
 Guest Services
 
 Indiagames Ltd.   
-Vishwaroop IT Park,   
-Vashi International Info-Tech Park,  
-Above Raghuleela mall.  
-11th Floor, Plot No. 34, 35 & 38,  
-Sector 30 A, CIDCO, Vashi,   
-Navi-Mumbai- 400 705.
-
-Telephone: +91 22 6771 0700, +91 22 2781 3358, +91 22 2781 3359  
-Fax : +91 22 6771 0777 , +91 22 2781 3360 
-
-Send an email to Guest Services servicedesk[at]indiagames[dot]com
+S-14, Guru Hargovindji Marg,  
+Solitaire Corporate Park,  
+Andheri (E),   
+Mumbai- 400 093.  
+Telephone: +91 22 6109 1000  
+Fax : +91 22 67421930  
+Send an email to Guest Services servicedesk@indiagames.com
 
 United State of America:
 
@@ -374,11 +370,11 @@ Following our receipt of your request to cease using your personal information f
 
 In addition to the general marketing choices managed above, you may choose to subscribe or unsubscribe to a number of communications covering a variety of topics. Please click on the links below to learn about many of these communications and set your choices. 
 
-[_Click here_](/plans)
+[_Click here_](https://web.archive.org/plans)
 
 to subscribe to GoD packs 
 
-[_Click here_](/newsletters.jsp)
+[_Click here_](https://web.archive.org/newsletters.jsp)
 
 to unsubscribe newsletters 
 
@@ -415,7 +411,7 @@ Examples of online tracking technologies include:
 
 
 
-**[Addendum to Disney Global Privacy Policy](http://indiagames.com/downloads/Addendum_to_Disney_Global_Privacy_Policy.pdf)**[](http://indiagames.com/downloads/Addendum_to_Disney_Global_Privacy_Policy.pdf)
+**[Addendum to Disney Global Privacy Policy](https://web.archive.org/downloads/Addendum_to_Disney_Global_Privacy_Policy.pdf)**[](https://web.archive.org/downloads/Addendum_to_Disney_Global_Privacy_Policy.pdf)
 
   
  
