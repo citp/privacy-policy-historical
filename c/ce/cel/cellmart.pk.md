@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cellmart.pk privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123040848id_/http%3A//cellmart.pk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cellmart.pk privacy policy that was archived on 2015-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150616085142id_/http%3A//cellmart.pk/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | CellMart.pk
 
