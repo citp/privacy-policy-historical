@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the win7gadgets.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120060501id_/http%3A//win7gadgets.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the win7gadgets.com privacy policy that was archived on 2015-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150616210825id_/http%3A//win7gadgets.com/info/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Windows 7 Desktop Gadget
 
 Privacy Policy for win7gadgets.com 
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at info@win7gadgets.com. 
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at win7gadgets.com@gmail.com. 
 
 At win7gadgets.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by win7gadgets.com and how it is used. 
 
@@ -14,8 +14,7 @@ Like many other Web sites, win7gadgets.com makes use of log files. The informati
 **Cookies and Web Beacons**  
 win7gadgets.com does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser. 
 
-**DoubleClick DART Cookie**
-
+**DoubleClick DART Cookie**  
 .:: Google, as a third party vendor, uses cookies to serve ads on win7gadgets.com.  
 .:: Google's use of the DART cookie enables it to serve ads to your users based on their visit to win7gadgets.com and other sites on the Internet.   
 .:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - http://www.google.com/privacy_ads.html 
