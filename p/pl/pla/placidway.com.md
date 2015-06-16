@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the placidway.com privacy policy that was archived on 2014-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141012073122id_/http%3A//www.placidway.com/privacystatement.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the placidway.com privacy policy that was archived on 2015-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150616114251id_/http%3A//www.placidway.com/privacystatement.php) for the most accurate reproduction.*
 
 # PlacidWay Privacy Policy | Medical Tourism
 
@@ -80,5 +80,3 @@ As indicated above, we will cooperate with government and law enforcement offici
 **8\. Email Referrals**
 
 If you choose to use our email referral services to tell a friend about our products or services we will ask you for your friend's name and email address. We will use that information to send your friend a one-time email inviting him or her to visit the site and review the product or service you have selected. We may use a third-party provider to administer this function, but any such third-party provider may only use the information submitted to facilitate this one-time email. 
-
-© PlacidWay, LLC 2007 - 2014. All Rights Reserved 
