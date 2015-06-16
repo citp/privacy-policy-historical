@@ -1,6 +1,9 @@
-> *The following text is extracted and transformed from the delhispider.com privacy policy that was archived on 2014-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141017205707id_/http%3A//www.delhispider.com/general/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the delhispider.com privacy policy that was archived on 2015-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150616072756id_/http%3A//www.delhispider.com/general/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # DelhiSpider.com privacy policy
+
+  
+
 
 * * *
 
@@ -47,7 +50,7 @@ We would request you please provide us as much information as possible to resolv
 * * *
 
   
-| 
+
 
 **Active Members**  
  _ **Today**_
@@ -60,6 +63,4 @@ We would request you please provide us as much information as possible to resolv
 
 
 
-[ more...](https://web.archive.org/members/TopPerformers.aspx)  
-  
----|---
+[ more...](https://web.archive.org/members/TopPerformers.aspx)
