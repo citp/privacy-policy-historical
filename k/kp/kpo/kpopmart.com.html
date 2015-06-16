@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the kpopmart.com privacy policy that was archived on 2014-12-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141207194145id_/http%3A//kpopmart.com/cms.php%3Fid_cms%3D2) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the kpopmart.com privacy policy that was archived on 2015-06-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150616094300id_/http%3A//kpopmart.com/cms.php%3Fid_cms%3D2) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en"><head>
 		<title>privacy and security - Kpop Mart</title>
@@ -8,8 +8,8 @@
 		<meta http-equiv="Content-Type" content="application/xhtml+xml; charset=utf-8">
 		<meta name="generator" content="PrestaShop">
 		<meta name="robots" content="index,follow">
-		<link rel="icon" type="image/vnd.microsoft.icon" href="http://kpopmart.com/img/favicon.ico?1417981306">
-		<link rel="shortcut icon" type="image/x-icon" href="http://kpopmart.com/img/favicon.ico?1417981306">
+		<link rel="icon" type="image/vnd.microsoft.icon" href="http://kpopmart.com/img/favicon.ico?1434447779">
+		<link rel="shortcut icon" type="image/x-icon" href="http://kpopmart.com/img/favicon.ico?1434447779">
 		<script type="text/javascript">
 			var baseDir = 'http://kpopmart.com/';
 			var static_token = 'a3f95534256bd55b3aaf9daa54535b16';
@@ -53,8 +53,34 @@
 		<script type="text/javascript" src="/js/tools.js"></script>
 		<script type="text/javascript" src="/themes/presta023/js/tools/treeManagement.js"></script>
 		<script type="text/javascript" src="/modules/uhucart/ajax-cart.js"></script>
+		<script type="text/javascript" src="/modules/mobile_theme/iframe_redirect.js"></script>
 		<script type="text/javascript" src="/js/jquery/jquery.autocomplete.js"></script>
-			<script type="text/javascript">
+			<script type="text/javascript">/*
+* 2007-2014 PrestaShop
+*
+* NOTICE OF LICENSE
+*
+* This source file is subject to the Academic Free License (AFL 3.0)
+* that is bundled with this package in the file LICENSE.txt.
+* It is also available through the world-wide-web at this URL:
+* http://opensource.org/licenses/afl-3.0.php
+* If you did not receive a copy of the license and are unable to
+* obtain it through the world-wide-web, please send an email
+* to license@prestashop.com so we can send you a copy immediately.
+*
+* DISCLAIMER
+*
+* Do not edit or add to this file if you wish to upgrade PrestaShop to newer
+* versions in the future. If you wish to customize PrestaShop for your
+* needs please refer to http://www.prestashop.com for more information.
+*
+*  @author PrestaShop SA <contact@prestashop.com>
+*  @copyright  2007-2014 PrestaShop SA
+*  @license    http://opensource.org/licenses/afl-3.0.php  Academic Free License (AFL 3.0)
+*  International Registered Trademark & Property of PrestaShop SA
+*/
+
+
 
 $(document).ready( function() {
 
@@ -74,17 +100,17 @@ $(document).ready( function() {
 	function displayExpressCheckoutShortcut() {
 		var id_product = $('input[name="id_product"]').val();
 		var id_product_attribute = $('input[name="id_product_attribute"]').val();
-
 		$.ajax({
 			type: "GET",
 			url: baseDir+'/modules/paypal/express_checkout/ajax.php',
 			data: { get_qty: "1", id_product: id_product, id_product_attribute: id_product_attribute },
 			cache: false,
 			success: function(result) {
-				if (result >= '1')
+				if (result == '1') {
 					$('#container_express_checkout').slideDown();
-				else
+				} else {
 					$('#container_express_checkout').slideUp();
+				}
 				return true;
 			}
 		});
@@ -103,7 +129,10 @@ $(document).ready( function() {
 
 	var modulePath = 'modules/paypal';
 	var subFolder = '/integral_evolution';
-	var fullPath = baseDir + modulePath + subFolder;
+	
+			var baseDirPP = baseDir.replace('http', 'https');
+		
+	var fullPath = baseDirPP + modulePath + subFolder;
 	var confirmTimer = false;
 		
 	if ($('form[target="hss_iframe"]').length == 0) {
@@ -115,7 +144,8 @@ $(document).ready( function() {
 	}
 
 	function checkOrder() {
-		confirmTimer = setInterval(getOrdersCount, 1000);
+		if(confirmTimer == false)
+			confirmTimer = setInterval(getOrdersCount, 1000);
 	}
 
 	});
@@ -130,7 +160,7 @@ $(document).ready( function() {
 			<!-- Header -->
 			<div id="header">
 				<a id="header_logo" href="http://kpopmart.com/" title="Kpop Mart">
-					<img class="logo" src="http://kpopmart.com/img/logo.jpg?1417981306" alt="Kpop Mart" width="150" height="76">
+					<img class="logo" src="http://kpopmart.com/img/logo.jpg?1434447779" alt="Kpop Mart" width="150" height="76">
 				</a>
 				<div id="header_right">
 					<!-- script type="text/javascript" src="/modules/uhumenucategories/superfish.js"></script -->
@@ -258,8 +288,8 @@ var removingLinkText = 'remove this product from my cart';
 			<a href="http://kpopmart.com/search.php?tag=Dong+Bang+Shin+Ki" title="More about Dong Bang Shin Ki" class="tag_level3 item">Dong Bang Shin Ki</a>
 			<a href="http://kpopmart.com/search.php?tag=TVXQ" title="More about TVXQ" class="tag_level3 item">TVXQ</a>
 			<a href="http://kpopmart.com/search.php?tag=BIGBANG" title="More about BIGBANG" class="tag_level3 item">BIGBANG</a>
-			<a href="http://kpopmart.com/search.php?tag=SNSD" title="More about SNSD" class="tag_level3 item">SNSD</a>
-			<a href="http://kpopmart.com/search.php?tag=Girls+Generation" title="More about Girls Generation" class="tag_level3 last_item">Girls Generation</a>
+			<a href="http://kpopmart.com/search.php?tag=Girls+Generation" title="More about Girls Generation" class="tag_level3 item">Girls Generation</a>
+			<a href="http://kpopmart.com/search.php?tag=SNSD" title="More about SNSD" class="tag_level3 last_item">SNSD</a>
 		</p>
 </div>
 <!-- /Block tags module -->
@@ -383,6 +413,10 @@ var removingLinkText = 'remove this product from my cart';
 	</li>
 												
 <li>
+	<a href="http://kpopmart.com/category.php?id_category=579" title="">A.Kor</a>
+	</li>
+												
+<li>
 	<a href="http://kpopmart.com/category.php?id_category=183" title="">AOA</a>
 	</li>
 												
@@ -412,6 +446,10 @@ var removingLinkText = 'remove this product from my cart';
 												
 <li>
 	<a href="http://kpopmart.com/category.php?id_category=98" title="">Brown Eyed Girls</a>
+	</li>
+												
+<li>
+	<a href="http://kpopmart.com/category.php?id_category=589" title="">CLC</a>
 	</li>
 												
 <li>
@@ -463,6 +501,10 @@ var removingLinkText = 'remove this product from my cart';
 	</li>
 												
 <li>
+	<a href="http://kpopmart.com/category.php?id_category=577" title="">GFRIEND</a>
+	</li>
+												
+<li>
 	<a href="http://kpopmart.com/category.php?id_category=30" title="">Girl's Day</a>
 	</li>
 												
@@ -479,7 +521,7 @@ var removingLinkText = 'remove this product from my cart';
 	</li>
 												
 <li>
-	<a href="http://kpopmart.com/category.php?id_category=164" title="">Hellovenus</a>
+	<a href="http://kpopmart.com/category.php?id_category=164" title="">Hello Venus</a>
 	</li>
 												
 <li>
@@ -515,7 +557,7 @@ var removingLinkText = 'remove this product from my cart';
 	</li>
 												
 <li>
-	<a href="http://kpopmart.com/category.php?id_category=31" title="">miss A</a>
+	<a href="http://kpopmart.com/category.php?id_category=31" title="">Miss A</a>
 	</li>
 												
 <li>
@@ -528,6 +570,10 @@ var removingLinkText = 'remove this product from my cart';
 												
 <li>
 	<a href="http://kpopmart.com/category.php?id_category=545" title="">N*White</a>
+	</li>
+												
+<li>
+	<a href="http://kpopmart.com/category.php?id_category=592" title="">OH MY GIRL</a>
 	</li>
 												
 <li>
@@ -551,6 +597,10 @@ var removingLinkText = 'remove this product from my cart';
 	</li>
 												
 <li>
+	<a href="http://kpopmart.com/category.php?id_category=588" title="">Red Velvet</a>
+	</li>
+												
+<li>
 	<a href="http://kpopmart.com/category.php?id_category=33" title="">Secret</a>
 	</li>
 												
@@ -567,6 +617,10 @@ var removingLinkText = 'remove this product from my cart';
 	</li>
 												
 <li>
+	<a href="http://kpopmart.com/category.php?id_category=572" title="">Sonamoo</a>
+	</li>
+												
+<li>
 	<a href="http://kpopmart.com/category.php?id_category=125" title="">Spica</a>
 	</li>
 												
@@ -576,6 +630,10 @@ var removingLinkText = 'remove this product from my cart';
 												
 <li>
 	<a href="http://kpopmart.com/category.php?id_category=121" title="">Sunny Hill</a>
+	</li>
+												
+<li>
+	<a href="http://kpopmart.com/category.php?id_category=583" title="">SUS4</a>
 	</li>
 												
 <li>
@@ -821,6 +879,10 @@ var removingLinkText = 'remove this product from my cart';
 	</li>
 												
 <li>
+	<a href="http://kpopmart.com/category.php?id_category=593" title="">Hotshot</a>
+	</li>
+												
+<li>
 	<a href="http://kpopmart.com/category.php?id_category=87" title="">Infinite</a>
 	</li>
 												
@@ -865,6 +927,10 @@ var removingLinkText = 'remove this product from my cart';
 	</li>
 												
 <li>
+	<a href="http://kpopmart.com/category.php?id_category=597" title="">Monsta X</a>
+	</li>
+												
+<li>
 	<a href="http://kpopmart.com/category.php?id_category=467" title="">M.Pire</a>
 	</li>
 												
@@ -881,7 +947,7 @@ var removingLinkText = 'remove this product from my cart';
 	</li>
 												
 <li>
-	<a href="http://kpopmart.com/category.php?id_category=129" title="">NU’EST</a>
+	<a href="http://kpopmart.com/category.php?id_category=598" title="">N.Flying </a>
 	</li>
 												
 <li>
@@ -893,11 +959,19 @@ var removingLinkText = 'remove this product from my cart';
 	</li>
 												
 <li>
+	<a href="http://kpopmart.com/category.php?id_category=129" title="">NU’EST</a>
+	</li>
+												
+<li>
 	<a href="http://kpopmart.com/category.php?id_category=188" title="">Phantom</a>
 	</li>
 												
 <li>
 	<a href="http://kpopmart.com/category.php?id_category=381" title="">Pure</a>
+	</li>
+												
+<li>
+	<a href="http://kpopmart.com/category.php?id_category=575" title="">Pure Boy</a>
 	</li>
 												
 <li>
@@ -910,6 +984,10 @@ var removingLinkText = 'remove this product from my cart';
 												
 <li>
 	<a href="http://kpopmart.com/category.php?id_category=442" title="">Say Yes</a>
+	</li>
+												
+<li>
+	<a href="http://kpopmart.com/category.php?id_category=600" title="">Seventeen</a>
 	</li>
 												
 <li>
@@ -981,6 +1059,10 @@ var removingLinkText = 'remove this product from my cart';
 	</li>
 												
 <li>
+	<a href="http://kpopmart.com/category.php?id_category=599" title="">Uniq</a>
+	</li>
+												
+<li>
 	<a href="http://kpopmart.com/category.php?id_category=441" title="">Victor</a>
 	</li>
 												
@@ -1043,6 +1125,14 @@ var removingLinkText = 'remove this product from my cart';
 	</li>
 												
 <li>
+	<a href="http://kpopmart.com/category.php?id_category=602" title="">Jang Jae In</a>
+	</li>
+												
+<li>
+	<a href="http://kpopmart.com/category.php?id_category=594" title="">Jang Yoon Jeong</a>
+	</li>
+												
+<li>
 	<a href="http://kpopmart.com/category.php?id_category=534" title="">J-MIN</a>
 	</li>
 												
@@ -1083,6 +1173,14 @@ var removingLinkText = 'remove this product from my cart';
 	</li>
 												
 <li>
+	<a href="http://kpopmart.com/category.php?id_category=590" title="">MIIII </a>
+	</li>
+												
+<li>
+	<a href="http://kpopmart.com/category.php?id_category=573" title="">Navi</a>
+	</li>
+												
+<li>
 	<a href="http://kpopmart.com/category.php?id_category=155" title="">Maybee</a>
 	</li>
 												
@@ -1104,6 +1202,10 @@ var removingLinkText = 'remove this product from my cart';
 												
 <li>
 	<a href="http://kpopmart.com/category.php?id_category=277" title="">Seo In Young</a>
+	</li>
+												
+<li>
+	<a href="http://kpopmart.com/category.php?id_category=591" title="">Shin zi su </a>
 	</li>
 												
 <li>
@@ -1129,7 +1231,19 @@ var removingLinkText = 'remove this product from my cart';
 			<ul style="display: none;">
 									
 <li>
+	<a href="http://kpopmart.com/category.php?id_category=581" title="">Ahn Jae Wook</a>
+	</li>
+												
+<li>
 	<a href="http://kpopmart.com/category.php?id_category=566" title="">Baek Chung Kang</a>
+	</li>
+												
+<li>
+	<a href="http://kpopmart.com/category.php?id_category=571" title="">Beenzino</a>
+	</li>
+												
+<li>
+	<a href="http://kpopmart.com/category.php?id_category=578" title="">Eddy Kim</a>
 	</li>
 												
 <li>
@@ -1205,6 +1319,10 @@ var removingLinkText = 'remove this product from my cart';
 	</li>
 												
 <li>
+	<a href="http://kpopmart.com/category.php?id_category=570" title="">Kye Bum Joo </a>
+	</li>
+												
+<li>
 	<a href="http://kpopmart.com/category.php?id_category=478" title="">Lee Jung</a>
 	</li>
 												
@@ -1225,7 +1343,19 @@ var removingLinkText = 'remove this product from my cart';
 	</li>
 												
 <li>
+	<a href="http://kpopmart.com/category.php?id_category=576" title="">Mad Clown</a>
+	</li>
+												
+<li>
+	<a href="http://kpopmart.com/category.php?id_category=584" title="">MC Mong</a>
+	</li>
+												
+<li>
 	<a href="http://kpopmart.com/category.php?id_category=313" title="">MC Sniper</a>
+	</li>
+												
+<li>
+	<a href="http://kpopmart.com/category.php?id_category=586" title="">Outsider</a>
 	</li>
 												
 <li>
@@ -1269,7 +1399,7 @@ var removingLinkText = 'remove this product from my cart';
 	</li>
 												
 <li class="last">
-	<a href="http://kpopmart.com/category.php?id_category=570" title="">Kye Bum Joo </a>
+	<a href="http://kpopmart.com/category.php?id_category=585" title="">Yoon Hyun Sang</a>
 	</li>
 							</ul>
 	</li>
@@ -1279,10 +1409,6 @@ var removingLinkText = 'remove this product from my cart';
 			<ul style="display: none;">
 									
 <li>
-	<a href="http://kpopmart.com/category.php?id_category=560" title="">10cm </a>
-	</li>
-												
-<li>
 	<a href="http://kpopmart.com/category.php?id_category=511" title="">2Bic</a>
 	</li>
 												
@@ -1291,7 +1417,15 @@ var removingLinkText = 'remove this product from my cart';
 	</li>
 												
 <li>
+	<a href="http://kpopmart.com/category.php?id_category=560" title="">10cm </a>
+	</li>
+												
+<li>
 	<a href="http://kpopmart.com/category.php?id_category=510" title="">AKDONG MUSICIAN</a>
+	</li>
+												
+<li>
+	<a href="http://kpopmart.com/category.php?id_category=603" title="">December</a>
 	</li>
 												
 <li>
@@ -1327,7 +1461,19 @@ var removingLinkText = 'remove this product from my cart';
 	</li>
 												
 <li>
+	<a href="http://kpopmart.com/category.php?id_category=601" title="">M-TIFUL</a>
+	</li>
+												
+<li>
 	<a href="http://kpopmart.com/category.php?id_category=284" title="">Nell</a>
+	</li>
+												
+<li>
+	<a href="http://kpopmart.com/category.php?id_category=574" title="">Noel </a>
+	</li>
+												
+<li>
+	<a href="http://kpopmart.com/category.php?id_category=596" title="">Oksang Dalbit</a>
 	</li>
 												
 <li>
@@ -1403,11 +1549,11 @@ var removingLinkText = 'remove this product from my cart';
 	</li>
 												
 <li>
-	<a href="http://kpopmart.com/category.php?id_category=567" title="">AKDONG MUSICIAN</a>
+	<a href="http://kpopmart.com/category.php?id_category=247" title="">4Minute</a>
 	</li>
 												
 <li>
-	<a href="http://kpopmart.com/category.php?id_category=247" title="">4Minute</a>
+	<a href="http://kpopmart.com/category.php?id_category=567" title="">AKDONG MUSICIAN</a>
 	</li>
 												
 <li>
@@ -1563,6 +1709,10 @@ var removingLinkText = 'remove this product from my cart';
 	</li>
 												
 <li>
+	<a href="http://kpopmart.com/category.php?id_category=582" title="">Sonamoo</a>
+	</li>
+												
+<li>
 	<a href="http://kpopmart.com/category.php?id_category=516" title="">Sun Mi</a>
 	</li>
 												
@@ -1707,13 +1857,63 @@ var removingLinkText = 'remove this product from my cart';
 			<ul style="display: none;">
 									
 <li>
-	<a href="http://kpopmart.com/category.php?id_category=355" title="">ETUDE HOUSE</a>
+	<span class="grower CLOSE"> </span><a href="http://kpopmart.com/category.php?id_category=355" title="">ETUDE HOUSE</a>
+			<ul style="display: none;">
+									
+<li>
+	<a href="http://kpopmart.com/category.php?id_category=356" title="">BB CREAM</a>
+	</li>
+												
+<li>
+	<a href="http://kpopmart.com/category.php?id_category=357" title="">Pack and Mask</a>
+	</li>
+												
+<li>
+	<a href="http://kpopmart.com/category.php?id_category=358" title="">Cleansing</a>
+	</li>
+												
+<li>
+	<a href="http://kpopmart.com/category.php?id_category=384" title="">Lips and Eye</a>
+	</li>
+												
+<li>
+	<a href="http://kpopmart.com/category.php?id_category=472" title="">Skin Care</a>
+	</li>
+												
+<li>
+	<a href="http://kpopmart.com/category.php?id_category=473" title="">Hair Care</a>
+	</li>
+												
+<li>
+	<a href="http://kpopmart.com/category.php?id_category=507" title="">Bodycare</a>
+	</li>
+												
+<li class="last">
+	<a href="http://kpopmart.com/category.php?id_category=569" title="">Base Makeup</a>
+	</li>
+							</ul>
 	</li>
 												
 <li>
 	<span class="grower CLOSE"> </span><a href="http://kpopmart.com/category.php?id_category=346" title="">THE FACE SHOP</a>
 			<ul style="display: none;">
 									
+<li>
+	<a href="http://kpopmart.com/category.php?id_category=348" title="">Pack and Mask</a>
+	</li>
+												
+<li>
+	<a href="http://kpopmart.com/category.php?id_category=347" title="">BB Cream</a>
+	</li>
+												
+<li>
+	<a href="http://kpopmart.com/category.php?id_category=349" title="">Cleansing</a>
+	</li>
+												
+<li>
+	<a href="http://kpopmart.com/category.php?id_category=369" title="">Lips</a>
+	</li>
+												
 <li>
 	<a href="http://kpopmart.com/category.php?id_category=468" title="">skincare</a>
 	</li>
@@ -1725,7 +1925,45 @@ var removingLinkText = 'remove this product from my cart';
 	</li>
 												
 <li>
-	<a href="http://kpopmart.com/category.php?id_category=350" title="">NATURE REPUBLIC</a>
+	<span class="grower CLOSE"> </span><a href="http://kpopmart.com/category.php?id_category=350" title="">NATURE REPUBLIC</a>
+			<ul style="display: none;">
+									
+<li>
+	<a href="http://kpopmart.com/category.php?id_category=351" title="">BB Cream</a>
+	</li>
+												
+<li>
+	<a href="http://kpopmart.com/category.php?id_category=352" title="">Pack and Mask</a>
+	</li>
+												
+<li>
+	<a href="http://kpopmart.com/category.php?id_category=353" title="">Cleansing</a>
+	</li>
+												
+<li>
+	<a href="http://kpopmart.com/category.php?id_category=385" title="">Lips</a>
+	</li>
+												
+<li>
+	<a href="http://kpopmart.com/category.php?id_category=440" title="">Manicure</a>
+	</li>
+												
+<li>
+	<a href="http://kpopmart.com/category.php?id_category=470" title="">Moisture Cream</a>
+	</li>
+												
+<li>
+	<a href="http://kpopmart.com/category.php?id_category=471" title="">Skin Care</a>
+	</li>
+												
+<li>
+	<a href="http://kpopmart.com/category.php?id_category=474" title="">Make up</a>
+	</li>
+												
+<li class="last">
+	<a href="http://kpopmart.com/category.php?id_category=477" title="">Hand Cream</a>
+	</li>
+							</ul>
 	</li>
 												
 <li>
@@ -1812,8 +2050,12 @@ var removingLinkText = 'remove this product from my cart';
 	<a href="http://kpopmart.com/category.php?id_category=513" title="">Fashion Accessory</a>
 	</li>
 												
-<li class="last">
+<li>
 	<a href="http://kpopmart.com/category.php?id_category=386" title="">Fashion Mask</a>
+	</li>
+												
+<li class="last">
+	<a href="http://kpopmart.com/category.php?id_category=580" title="">Fashion Glasses</a>
 	</li>
 							</ul>
 	</li>
@@ -1865,10 +2107,6 @@ var removingLinkText = 'remove this product from my cart';
 	</li>
 												
 <li>
-	<a href="http://kpopmart.com/category.php?id_category=193" title="">Necklace</a>
-	</li>
-												
-<li>
 	<a href="http://kpopmart.com/category.php?id_category=333" title="">Star ACC</a>
 	</li>
 												
@@ -1880,8 +2118,12 @@ var removingLinkText = 'remove this product from my cart';
 	<a href="http://kpopmart.com/category.php?id_category=380" title="">Hair ACC</a>
 	</li>
 												
-<li class="last">
+<li>
 	<a href="http://kpopmart.com/category.php?id_category=514" title="">Broach</a>
+	</li>
+												
+<li class="last">
+	<a href="http://kpopmart.com/category.php?id_category=595" title="">Bag</a>
 	</li>
 							</ul>
 	</li>
@@ -1915,11 +2157,27 @@ var removingLinkText = 'remove this product from my cart';
 	</li>
 												
 <li>
-	<a href="http://kpopmart.com/category.php?id_category=290" title="">Horie Yui</a>
+	<a href="http://kpopmart.com/category.php?id_category=465" title="">Angela</a>
+	</li>
+												
+<li>
+	<a href="http://kpopmart.com/category.php?id_category=330" title="">Boom Boom Satellites</a>
+	</li>
+												
+<li>
+	<a href="http://kpopmart.com/category.php?id_category=328" title="">DOLL$BOXX </a>
 	</li>
 												
 <li>
 	<a href="http://kpopmart.com/category.php?id_category=318" title="">Granrodeo</a>
+	</li>
+												
+<li>
+	<a href="http://kpopmart.com/category.php?id_category=339" title="">Hamasaki Ayumi</a>
+	</li>
+												
+<li>
+	<a href="http://kpopmart.com/category.php?id_category=290" title="">Horie Yui</a>
 	</li>
 												
 <li>
@@ -1931,75 +2189,11 @@ var removingLinkText = 'remove this product from my cart';
 	</li>
 												
 <li>
-	<a href="http://kpopmart.com/category.php?id_category=291" title="">Kubota Toshinobu</a>
-	</li>
-												
-<li>
-	<a href="http://kpopmart.com/category.php?id_category=305" title="">Matsushita Yuya</a>
-	</li>
-												
-<li>
-	<a href="http://kpopmart.com/category.php?id_category=288" title="">Mizuki Nana</a>
-	</li>
-												
-<li>
-	<a href="http://kpopmart.com/category.php?id_category=286" title="">Paris Match</a>
-	</li>
-												
-<li>
-	<a href="http://kpopmart.com/category.php?id_category=292" title="">Quruli</a>
-	</li>
-												
-<li>
-	<a href="http://kpopmart.com/category.php?id_category=300" title="">W-inds</a>
-	</li>
-												
-<li>
-	<a href="http://kpopmart.com/category.php?id_category=314" title="">Olivia</a>
-	</li>
-												
-<li>
-	<a href="http://kpopmart.com/category.php?id_category=315" title="">Sukima Switch</a>
-	</li>
-												
-<li>
-	<a href="http://kpopmart.com/category.php?id_category=316" title="">Scandal</a>
-	</li>
-												
-<li>
-	<a href="http://kpopmart.com/category.php?id_category=322" title="">Soul'd out</a>
-	</li>
-												
-<li>
-	<a href="http://kpopmart.com/category.php?id_category=324" title="">Tsukemen</a>
-	</li>
-												
-<li>
-	<a href="http://kpopmart.com/category.php?id_category=325" title="">Sid</a>
-	</li>
-												
-<li>
-	<a href="http://kpopmart.com/category.php?id_category=326" title="">Tokumaru Shugo</a>
-	</li>
-												
-<li>
-	<a href="http://kpopmart.com/category.php?id_category=328" title="">DOLL$BOXX </a>
-	</li>
-												
-<li>
 	<a href="http://kpopmart.com/category.php?id_category=329" title="">Kalafina</a>
 	</li>
 												
 <li>
-	<a href="http://kpopmart.com/category.php?id_category=330" title="">Boom Boom Satellites</a>
-	</li>
-												
-<li>
-	<a href="http://kpopmart.com/category.php?id_category=339" title="">Hamasaki Ayumi</a>
-	</li>
-												
-<li>
-	<a href="http://kpopmart.com/category.php?id_category=393" title="">Yuki Aoi</a>
+	<a href="http://kpopmart.com/category.php?id_category=291" title="">Kubota Toshinobu</a>
 	</li>
 												
 <li>
@@ -2011,7 +2205,43 @@ var removingLinkText = 'remove this product from my cart';
 	</li>
 												
 <li>
+	<a href="http://kpopmart.com/category.php?id_category=305" title="">Matsushita Yuya</a>
+	</li>
+												
+<li>
+	<a href="http://kpopmart.com/category.php?id_category=490" title="">Meg</a>
+	</li>
+												
+<li>
 	<a href="http://kpopmart.com/category.php?id_category=418" title="">Miwa</a>
+	</li>
+												
+<li>
+	<a href="http://kpopmart.com/category.php?id_category=288" title="">Mizuki Nana</a>
+	</li>
+												
+<li>
+	<a href="http://kpopmart.com/category.php?id_category=314" title="">Olivia</a>
+	</li>
+												
+<li>
+	<a href="http://kpopmart.com/category.php?id_category=286" title="">Paris Match</a>
+	</li>
+												
+<li>
+	<a href="http://kpopmart.com/category.php?id_category=292" title="">Quruli</a>
+	</li>
+												
+<li>
+	<a href="http://kpopmart.com/category.php?id_category=316" title="">Scandal</a>
+	</li>
+												
+<li>
+	<a href="http://kpopmart.com/category.php?id_category=325" title="">Sid</a>
+	</li>
+												
+<li>
+	<a href="http://kpopmart.com/category.php?id_category=322" title="">Soul'd out</a>
 	</li>
 												
 <li>
@@ -2019,11 +2249,23 @@ var removingLinkText = 'remove this product from my cart';
 	</li>
 												
 <li>
-	<a href="http://kpopmart.com/category.php?id_category=465" title="">Angela</a>
+	<a href="http://kpopmart.com/category.php?id_category=315" title="">Sukima Switch</a>
 	</li>
 												
 <li>
-	<a href="http://kpopmart.com/category.php?id_category=490" title="">Meg</a>
+	<a href="http://kpopmart.com/category.php?id_category=324" title="">Tsukemen</a>
+	</li>
+												
+<li>
+	<a href="http://kpopmart.com/category.php?id_category=326" title="">Tokumaru Shugo</a>
+	</li>
+												
+<li>
+	<a href="http://kpopmart.com/category.php?id_category=300" title="">W-inds</a>
+	</li>
+												
+<li>
+	<a href="http://kpopmart.com/category.php?id_category=393" title="">Yuki Aoi</a>
 	</li>
 												
 <li>
@@ -2109,7 +2351,9 @@ var removingLinkText = 'remove this product from my cart';
 	<a href="http://kpopmart.com/" title="return to Home">Home</a><span class="navigation-pipe">&gt;</span><span class="navigation_page">privacy and security</span></div>
 <!-- /Breadcrumb -->
 		<div class="rte">
-		<p><span style="font-size: 12pt;"><strong><span style="font-family: arial, helvetica, sans-serif; color: #000000;">PRIVACY &amp; SECURITY</span></strong></span></p>
+		<p>&nbsp;</p>
+<p><span style="text-decoration: underline;"><span style="font-size: 12pt;"><strong><span style="font-family: arial, helvetica, sans-serif; color: #000000; text-decoration: underline;">PRIVACY &amp; SECURITY</span></strong></span></span></p>
+<p>&nbsp;</p>
 <p>&nbsp;</p>
 <p><span style="font-size: 12pt; font-family: arial, helvetica, sans-serif; color: #000000;"><strong>1. Privacy</strong></span>﻿</p>
 <p><span style="font-family: arial, helvetica, sans-serif; color: #000000; font-size: 10pt;">Kpopmart.com is committed to protecting your privacy. We hope that you will take the time to read this policy, which explains what information we collect from you and how we use that information. By using our website or by purchasing products or services from us, you agree to be bound by this policy. Please check back frequently, as this policy may change from time to time. ﻿</span></p>
@@ -2131,6 +2375,7 @@ var removingLinkText = 'remove this product from my cart';
 <p>﻿</p>
 <p><span style="font-family: arial, helvetica, sans-serif; color: #000000;"><strong>Changes to this Privacy Policy</strong></span><br><span style="font-family: arial, helvetica, sans-serif; color: #000000;"> Please check back frequently, as this Privacy Policy may change from time to time. In the event of a material change to the Privacy Policy, for a reasonable time after such change we will add "Updated", "New", or a similar term near the link to the Privacy Policy on the home page of Kpopmart.com and elsewhere, as applicable, throughout our website﻿</span></p>
 <p>&nbsp;</p>
+<p>&nbsp;</p>
 <p><span style="font-family: arial, helvetica, sans-serif; color: #000000;"><strong><span style="font-size: 12pt;">2. Security</span></strong></span>﻿</p>
 <p><span style="font-family: arial, helvetica, sans-serif; color: #000000; font-size: 10pt;">Kpopmart.com is committed to handling your customer information with high standards of information security. Your credit card and bank account information are stored only in encrypted form on computers that are not connected to the Internet. We restrict access to your personally identifiable information to employees who need to know that information in order to provide products or services to you. We maintain physical, electronic and procedural safeguards that comply with any related regulations to guard your nonpublic personal information. We test our security systems regularly and also contract with outside companies to audit our security systems and processes.﻿</span></p>
 <p>&nbsp;</p>
@@ -2146,7 +2391,7 @@ var removingLinkText = 'remove this product from my cart';
 					
 
 <div id="paypal-column-block">
-	<p><a href="https://kpopmart.com/modules/paypal/about.php" rel="nofollow"><img src="/modules/paypal/img/default_logos/RA_vertical_solution_PP.png" alt="PayPal" title="Pay with PayPal" style="max-width: 100%"></a></p>
+	<p><a href="https://kpopmart.com/modules/paypal/about.php" rel="nofollow"><img src="/modules/paypal/img/logos/GB_vertical_solution_PP.gif" alt="PayPal" title="Pay with PayPal" style="max-width: 100%"></a></p>
 </div>
 
 				</div>
@@ -2208,7 +2453,7 @@ var removingLinkText = 'remove this product from my cart';
 	<ul class="block_various_links" id="block_various_links_footer">
 
 
-		<span>Copyright ⓒ2011-2014 Kpopmart, All Rights Reserved. </span>
+		<span>Copyright ⓒ2011-2015 Kpopmart, All Rights Reserved. </span>
 	</ul>
 	<!-- /MODULE Block footer -->
 </div>
