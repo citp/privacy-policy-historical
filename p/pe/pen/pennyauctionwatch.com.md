@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pennyauctionwatch.com privacy policy that was archived on 2014-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141216181935id_/http%3A//www.pennyauctionwatch.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pennyauctionwatch.com privacy policy that was archived on 2015-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150617004737id_/http%3A//www.pennyauctionwatch.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy & Terms – Penny Auction Watch®
 
@@ -28,7 +28,7 @@ The information we collect is used to improve the content of our Web page, discl
 
 ### Public Forums and User Submissions
 
-Penny Auction Watch is not responsible for any material submitted to the public areas by you (which include bulletin boards, hosted pages, chat rooms, or any other public area found on the website. Any material (whether submitted by you or any other user) is not endorsed, reviewed or approved by  Penny Auction Watch. Penny Auction Watch reserves the right to remove any material submitted or posted by you in the public areas, without notice to you, if it becomes aware and determines, in its sole and absolute discretion that you are or there is the likelihood that you may, including but not limited to -
+Penny Auction Watch is not responsible for any material submitted to the public areas by you (which include bulletin boards, hosted pages, chat rooms, or any other public area found on the website. Any material (whether submitted by you or any other user) is not endorsed, reviewed or approved by  Penny Auction Watch. Penny Auction Watch reserves the right to remove any material submitted or posted by you in the public areas, without notice to you, if it becomes aware and determines, in its sole and absolute discretion that you are or there is the likelihood that you may, including but not limited to –
 
 **1** defame, abuse, harass, stalk, threaten or otherwise violate the rights of other users or any third parties;
 
