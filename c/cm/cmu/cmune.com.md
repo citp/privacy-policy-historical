@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the cmune.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220102900id_/http%3A//www.cmune.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cmune.com privacy policy that was archived on 2015-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150616134040id_/http%3A//www.cmune.com/privacy-policy) for the most accurate reproduction.*
 
-# CMUNE: Global Developer & Publisher of Free to Play Online Games| 3D Mobile and Browser-based | Massively Multiplayer Online games | MMO | FPS | Shooting Games » Privacy Policy
-
-**Privacy Policy**
+# Privacy Policy — CMUNE
 
 (Last Updated April 6, 2013)
 
@@ -10,9 +8,9 @@ Welcome to CMUNE, a personal online service operated by CMUNE LIMITED. (“CMUNE
 
 By using the Service, you consent to the collection and use of your personal information as outlined in this Privacy Policy, as such policy may be amended from time to time. We may update the Privacy Policy and if we do, we will post a notice that changes have been made on the website www.CMUNE.com. You should visit this page periodically to review any changes to the Privacy Policy.
 
-**What We Collect**
+What We Collect
 
-_1\. Information about yourself on our sites_
+1\. Information about yourself on our sites
 
 CMUNE gives you a number of options regarding what information you will give us:
 
@@ -24,13 +22,13 @@ When you identify yourself on a CMUNE site, you may identify yourself through a 
 
 In each case, we will collect and record the information you have provided. Other than names and email addresses provided at your discretion, we don’t generally collect any “Personally Identifying Information” about our users (such as social security number, telephone number, street address, drivers license number, etc.), exception being for billing and payments where we store your billing information such as name, street address, phone number. We may offer you the opportunity to submit other information about yourself (such as gender, age, occupation, hobbies, interests, zip code, etc.), or we may be able to collect that information from social networking systems on which you have used CMUNE Games or SNS Apps (in accordance with the terms of use of those systems), which would then also be covered by this Privacy Policy.
 
-_2\. Information about yourself from Third Party Platforms_
+2\. Information about yourself from Third Party Platforms
 
 When you use or connect to a CMUNE website or download a CMUNE mobile app by or through a Third Party Platform, such as Facebook or other social networking site, you allow us to access and/or collect certain information from your Third Party Platform profile/account (such as your Facebook account) or via any cookies placed on your device by such Third Party Platform as permitted by the terms of the agreement and your privacy settings with the Third Party Platform. We will share such information with the Third Party Platform for their use as permitted by the terms of the agreement and your privacy setting with the Third Party Platform.
 
 We will share some of the information we collect from you upon install of the mobile app with vendors and other service providers who are engaged by or working with us in connection with the operation of the services we provide to you and/or for analytics purposes which may require the reproduction and display of such information in an aggregated and anonymized manner such that will not in any way identify you.
 
-_3\. Information about yourself in game and forums_
+3\. Information about yourself in game and forums
 
 In addition to information about yourself, you may choose to share information about yourself in other content (“Content”), such as in games. Any action you perform with other players are considered public, and at your own discretion.
 
@@ -46,21 +44,21 @@ CMUNE may contain links to other websites. We are of course not responsible for 
 
 You should also be aware that most content delivered through CMUNE games originates with another content provider. Such other content providers may place “cookies” on your browser, or otherwise gather information about you, including by asking you to provide information through the site itself.
 
-_4\. Information on access method, navigation, and more_
+4\. Information on access method, navigation, and more
 
 Finally, in order to provide the best possible service and to allow us to make certain internal reports and make recommendations, we collect aggregate information about the use of the Service, including information about users accessing the CMUNE site or playing CMUNE games or using SNS Apps on other sites, such as internet protocol addresses, browser type, browser language, referring / exit pages and URLs, other browser history, platform type, number of clicks, domain names, landing pages, pages viewed and the order of those pages, the amount of time spent on particular pages, and the date and time (“Activity Information”).
 
 By using the Service, you consent to our retaining all the above-described information in anonymous form as long as CMUNE sees fit.
 
-**Children Under The Age Of 13**
+Children Under The Age Of 13
 
-CMUNE does not knowingly collect or solicit personal information from anyone under the age of 13 or knowingly allow such persons to register. If you are under 13, please do not attempt to register for CMUNE or send any information about yourself to us, including your name, address, telephone number, or email address. No one under age 13 may provide any personal information to or on CMUNE. In the event that we learn that we have collected personal information from a child under age 13 we will delete that information as quickly as possible. If you believe that we might have any information from or about a child under 13, please contact us at [privacy@CMUNE.com](mailto:privacy@cmune.com) .
+CMUNE does not knowingly collect or solicit personal information from anyone under the age of 13 or knowingly allow such persons to register. If you are under 13, please do not attempt to register for CMUNE or send any information about yourself to us, including your name, address, telephone number, or email address. No one under age 13 may provide any personal information to or on CMUNE. In the event that we learn that we have collected personal information from a child under age 13 we will delete that information as quickly as possible. If you believe that we might have any information from or about a child under 13, please contact us at privacy@CMUNE.com .
 
-**Children Between The Ages of 13 and 18**
+Children Between The Ages of 13 and 18
 
 We recommend that minors over the age of 13 ask their parents for permission before sending any information about themselves to anyone over the Internet.
 
-**How We Use Your Information**
+How We Use Your Information
 
 We do not sell or rent your “Personally Identifiable Information” to any third party. We may, however, use certain information about you that is not personally.
 
@@ -80,46 +78,46 @@ Due to our contractual obligations with these third parties and the need to shar
 
 CMUNE, certain of its partners, and each of their contractors and employees may view the Content that you transmit to the service to provide the Service and otherwise perform the tasks set forth in this Privacy Policy.
 
-**Controlling Your Personal Information**
+Controlling Your Personal Information
 
 Be advised that if you send messages or post material containing personal information, that information may be collected and used by others.
 
 You can terminate your account at any time which will remove your profile and other personal information from view. CMUNE, however, may (but is not obligated to) keep information about you that is on its system following your termination. Please contact CMUNE to terminate your account or for any other questions about your personal information.
 
-“You may “opt out” of the collection of your information for third party analytics purposes by following the directions provided by our third party analytics vendor located at http://www.mobileapptracking.com/privacy-policy/. If you “opt out” with our third party analytics provider, that action is specific to the information we collect specifically for that provider, and does not limit our ability to collect information from you, under the terms of this privacy policy, for other vendors.” 
+“You may “opt out” of the collection of your information for third party analytics purposes by following the directions provided by our third party analytics vendor located at http://www.mobileapptracking.com/privacy-policy/. If you “opt out” with our third party analytics provider, that action is specific to the information we collect specifically for that provider, and does not limit our ability to collect information from you, under the terms of this privacy policy, for other vendors.”
 
-**Transfer of Information**
+Transfer of Information
 
 We reserve the right to transfer your personal information in the event of a transfer of ownership of CMUNE or the acquisition of substantially all the assets of CMUNE related to the business which collected such information, such as acquisition by or merger with another company. In such an event, CMUNE will notify users who have provided email addresses when information about those users is transferred and becomes subject to a different privacy policy.
 
-**Others’ Information**
+Others’ Information
 
 You may decide to provide us with another person’s email address so that person may be invited to join CMUNE or so that we may facilitate your communication with other people through the Service (such as when you upload an address book).
 
 You may also provide us with another person’s contact information for purposes of delivering information through SNS Apps. We use this information to contact and, if necessary, remind that person that he or she has been invited to join CMUNE or received content through an SNS App. All invitees are provided with the option not to receive further invitations from CMUNE. We may disclose such information if required to do so in order to comply with legal process, as described above.
 
-**Cookies**
+Cookies
 
 The Service sends “cookies” to your computer when you access the CMUNE site, or otherwise view content through a CMUNE game, or use an SNS App and the Service uses such cookies as described in here. The Service uses cookies to improve the quality of our service, make recommendations, and make the Service easier to use for our users. A cookie is a small text file recorded on your hard drive that identifies you as a unique user and contains certain information about your particular login session and/or your use of the Service.
 
-**Use of Information**
+Use of Information
 
 CMUNE may contain links to other web sites, and content in CMUNE game and SNS Apps may be hosted by other web sites. In addition, as described above, most content offered through CMUNE games or SNS Apps is served or hosted by other sites. These other sites maintain their own policies regarding cookies and the collection and use of personal information. It is up to you to review those policies yourself.
 
-**Third-Party Advertising Companies**
+Third-Party Advertising Companies
 
 We use third-party advertising companies to serve ads on our site and on certain CMUNE games and SNS Apps. Our system and the third-party advertising technology uses information derived from Activity Information, CMUNE’s cookies on your hard drive, your visits to our site, the CMUNE games that you view and the SNS Apps you use to target advertising within our site or CMUNE games or SNS Apps. In addition, our advertisers may use other third-party advertising technology to target advertising on our site and other sites. In the course of advertisements being served to you, a unique third-party cookie or cookies may be placed on your computer. Similarly, third-party advertising companies may provide us with pixel tags (also called “clear gifs” or “beacons”) to help manage and optimize our online advertising. Beacons enable us to recognize a browser’s cookie when a browser visits the site on which the beacon is located, and to learn which banner ads bring users to a given site.
 
 CMUNE does not provide any Personally Identifiable Information to third-party advertising companies. Note, however, that if an advertiser asks CMUNE to show an advertisement to users with certain characteristics (for example, women ages 18-24) or a segment of that group (for example, women ages 18-24 who have viewed certain categories of content) and you respond to that advertisement, the third-party advertising company may conclude that you have the characteristics of the audience that they are trying to reach.
 
-**Security**
+Security
 
-CMUNE takes appropriate precautions to protect our users’ information. Your account information is located on a secured server behind a firewall. When you enter sensitive information (such as credit card number or your password), we encrypt that information using secure socket layer technology (SSL). (To learn more about SSL, go to http://en.wikipedia.org/wiki/Secure_Sockets_Layer). Because email and instant messaging are not recognized as secure communications, we request that you not send private information to us by email or instant messaging services. If you have any questions about the security of CMUNE Web Site, please contact us at [privacy@CMUNE.com](mailto:privacy@cmune.com)
+CMUNE takes appropriate precautions to protect our users’ information. Your account information is located on a secured server behind a firewall. When you enter sensitive information (such as credit card number or your password), we encrypt that information using secure socket layer technology (SSL). (To learn more about SSL, go to http://en.wikipedia.org/wiki/Secure_Sockets_Layer). Because email and instant messaging are not recognized as secure communications, we request that you not send private information to us by email or instant messaging services. If you have any questions about the security of CMUNE Web Site, please contact us at privacy@CMUNE.com
 
-**Additional Questions**
+Additional Questions
 
-Again, feel free to contact us by sending an email to [privacy@CMUNE.com](mailto:privacy@cmune.com) , any time, if you have further questions about CMUNE or this Privacy Policy, or if you want to receive a previous version of this document.
+Again, feel free to contact us by sending an email to privacy@CMUNE.com , any time, if you have further questions about CMUNE or this Privacy Policy, or if you want to receive a previous version of this document.
 
-**California Residents: Your California Privacy Rights**
+California Residents: Your California Privacy Rights
 
-Under California law, California Residents who have an established business relationship with CMUNE or one of its subsidiaries may choose to opt out of CMUNE disclosure of personal information about them to third parties for direct marketing purposes. As detailed above, our policy is not to disclose personal information collected online to a third party for direct marketing purposes without your approval. If you choose to opt-out at any time after granting approval, email [privacy@CMUNE.com](mailto:privacy@cmune.com).
+Under California law, California Residents who have an established business relationship with CMUNE or one of its subsidiaries may choose to opt out of CMUNE disclosure of personal information about them to third parties for direct marketing purposes. As detailed above, our policy is not to disclose personal information collected online to a third party for direct marketing purposes without your approval. If you choose to opt-out at any time after granting approval, email privacy@CMUNE.com.
