@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mountainzone.com privacy policy that was archived on 2014-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141008062345id_/http%3A//www.trails.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mountainzone.com privacy policy that was archived on 2015-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150616152618id_/http%3A//www.trails.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -62,4 +62,4 @@ BY PROVIDING PII OR OTHER INFORMATION TO US OR BY USING OUR SERVICE, YOU AGREE T
 
 Trails is a trademark or registered trademark of Demand Media, Inc. in the United States and other countries.
 
-Copyright Â© 2014. Demand Media, Inc.
+Copyright Â© 2015. Demand Media, Inc.
