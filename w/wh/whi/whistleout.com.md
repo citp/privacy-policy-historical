@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whistleout.com privacy policy that was archived on 2014-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140811181032id_/http%3A//www.whistleout.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whistleout.com privacy policy that was archived on 2015-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150616030127id_/http%3A//www.whistleout.com/Privacy) for the most accurate reproduction.*
 
 # Website Privacy Policy - WhistleOut
 
