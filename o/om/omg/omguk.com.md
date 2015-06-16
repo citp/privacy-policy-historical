@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the omguk.com privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227015812id_/http%3A//www.omgpm.com/website-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the omguk.com privacy policy that was archived on 2015-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150616195354id_/http%3A//www.omgpm.com/website-privacy-policy) for the most accurate reproduction.*
 
 # Website Privacy Policy -
 
@@ -6,7 +6,7 @@ OMG takes the privacy of its customers and users seriously. We take care to put 
 
 This policy covers our approach to collecting, storing, safeguarding and processing information submitted by or collected from users, affiliates, prospective affiliates and clients at OMG sites.
 
-We have a distinct [Advertising Privacy Policy](http://uk.omgpm.com/tracking-privacy.aspx) covering OMG’s use of Advertising Cookies which you can [read here](http://uk.omgpm.com/tracking-privacy.aspx)
+We have a distinct [Advertising Privacy Policy](http://www.omgpm.com/tracking-privacy-policy) covering OMG’s use of Advertising Cookies which you can [read here](http://uk.omgpm.com/tracking-privacy.aspx)
 
 ## Terms
 
@@ -20,7 +20,7 @@ We have a distinct [Advertising Privacy Policy](http://uk.omgpm.com/tracking-pr
   * ‘Affiliate website user’ refers to any individual who uses a website owned and operated by an OMG affiliate.
   * ‘Referrer’ refers to any individual who makes (or attempt to make) a recommendation using OMG referral technology accessed via an OMG client website, by entering details of another individual (the ‘referee’) who they believe may be interested in the products or services of that client.
   * ‘Referee’ refers to any individual who has given their consent for a specific referrer to enter their profile information into OMG referral technology and, as a result, receives details of a product or service that may be of interest to them.
-  * ‘Profile information’ refers to information submitted proactively at a website by individuals and companies.
+  * ‘Profile information’ refers to information submitted proactively at a website by individuals and companies. 
     * Individuals’ profile information includes (but is not limited to) name, address, telephone and fax numbers, email addresses, third-party user IDs, URLs of online profiles, bank account information and so on
     * Companies’ profile information includes (but is not limited to) company name, trading name, address, telephone and fax numbers, email addresses, domain ownership information, website statistics, website user profiles, bank account information and so on
   * ‘User data’ refers to information on the origin and behaviour of users, collected automatically (rather than being submitted proactively) and stored in anonymous and/or aggregated form. User data could include fields such as browser program, operating system, referring website, previous websites visited, entry URL, exit URL, IP address, country of origin, time on site, pages viewed, search text entered and other anonymous data. User data does not include any personally identifiable information.
@@ -122,12 +122,12 @@ Both profile information and user data may be transferred between the subsidiary
 
 We use the following cookies:
 
- **Name**|  **Purpose**|  **Privacy**  
+**Name** | **Purpose** | **Privacy**  
 ---|---|---  
-Google Analytics| This is a web analytics service provided by Google which sets a cookie in order to evaluate your use of the website and compile reports for us on activity.| Google stores the information collected by the cookie on servers in the US and may also transfer this information to third parties where required to do so by law or for processing information on Google’s behalf. Google analytics data is completely anonymous. By using the website, you consent to the processing of data about you by Google in the manner and for the purposes set out above.  
-.Dashboard.AffiliateOverview.Filters (actual cookie name will vary)| This cookie used to save the preferences for your personalised dashboard configuration.| The information tracked within this cookie is anonymous and cannot be tied to any personally identifiable information. Users can control our cookies as detailed below.  
-Dashboard_Portlets_ (actual cookie name will vary)| This cookie used to save the preferences for your personalised dashboard configuration.| The information tracked within this cookie is anonymous and cannot be tied to any personally identifiable information. Users can control our cookies as detailed below.  
-Announce| This cookie used to manage your login preferences within our administration area.| The information tracked within this cookie is anonymous and cannot be tied to any personally identifiable information. Users can control our cookies as detailed below.  
+Google Analytics | This is a web analytics service provided by Google which sets a cookie in order to evaluate your use of the website and compile reports for us on activity. | Google stores the information collected by the cookie on servers in the US and may also transfer this information to third parties where required to do so by law or for processing information on Google’s behalf. Google analytics data is completely anonymous. By using the website, you consent to the processing of data about you by Google in the manner and for the purposes set out above.  
+.Dashboard.AffiliateOverview.Filters (actual cookie name will vary) | This cookie used to save the preferences for your personalised dashboard configuration. | The information tracked within this cookie is anonymous and cannot be tied to any personally identifiable information. Users can control our cookies as detailed below.  
+Dashboard_Portlets_ (actual cookie name will vary) | This cookie used to save the preferences for your personalised dashboard configuration. | The information tracked within this cookie is anonymous and cannot be tied to any personally identifiable information. Users can control our cookies as detailed below.  
+Announce | This cookie used to manage your login preferences within our administration area. | The information tracked within this cookie is anonymous and cannot be tied to any personally identifiable information. Users can control our cookies as detailed below.  
   
 More information about cookies can be found [www.aboutcookies.org](http://www.aboutcookies.org/)
 
