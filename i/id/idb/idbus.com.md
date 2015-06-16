@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the idbus.com privacy policy that was archived on 2014-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141124030953id_/http%3A//www.idbus.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the idbus.com privacy policy that was archived on 2015-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150616072753id_/http%3A//www.idbus.com/privacy-policy) for the most accurate reproduction.*
 
 # PRIVACY POLICY | iDBUS
 
 ## ARTICLE 1: GENERAL PRINCIPLES
 
-1.1 SNCF-C6 is a simplified joint-stock company (SASU), with a share capital of 17.000.000 €, headquartered in Immeuble Lumière – 40 avenue des Terroirs de France - 75012 Paris (France), registered with the register of companies under the number 519 037 147 (herein after referred to as « iDBUS») which is authorised to operate international regular transport of passengers by bus via the website [www.idbus.com](http://www.idbus.com/) (herein after referred to as the « Website »).
+1.1 SNCF-C6 is a simplified joint-stock company (SASU), with a share capital of 64.500.000 €, headquartered in Immeuble Lumière – 40 avenue des Terroirs de France - 75012 Paris (France), registered with the register of companies under the number 519 037 147 (herein after referred to as « iDBUS») which is authorised to operate international regular transport of passengers by bus via the website [www.idbus.com](http://www.idbus.com/) (herein after referred to as the « Website »).
 
 1.2 All personal data collected by iDBUS (herein after referred to as « Personal data») are processed in compliance with the European and French regulations applicable to the protection of personal data in particular with the Law number 78-017 of 6 January 1978 concerning computers, files and liberties (herein after referred to as the « French Data protection Act »). The processing of Personal data is registered with the CNIL (French Data protection authority) under the number n°1593987.
 
