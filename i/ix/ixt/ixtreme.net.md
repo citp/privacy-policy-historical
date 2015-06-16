@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ixtreme.net privacy policy that was archived on 2014-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141108215802id_/http%3A//www.ixtreme.net/rules/29605-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ixtreme.net privacy policy that was archived on 2015-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150616223134id_/http%3A//www.ixtreme.net/rules/29605-privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -25,4 +25,4 @@
 >  We collect the e-mail addresses of visitors those who post messages to our forum board. We are not sharing any of those email addresses to any third party.
 > 
 > **External Links**  
->  By visiting the external links shown in Link page of this site, visitors are stipulated with the Privacy Policy and Terms of Services of respective web sites they visits.
+>  By visiting the external links shown in Link page of this site, visitors are stipulated with the Privacy Policy and Terms of Services of respective web sites they visits. 
