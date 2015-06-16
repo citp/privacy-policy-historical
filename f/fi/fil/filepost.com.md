@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the filepost.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230104358id_/http%3A//filepost.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the filepost.com privacy policy that was archived on 2015-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150616222053id_/http%3A//filepost.com/privacy) for the most accurate reproduction.*
 
 # FilePost.com: Free online storage - fast & secure, userfriendly & reliable!
 
