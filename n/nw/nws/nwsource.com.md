@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nwsource.com privacy policy that was archived on 2014-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141103193003id_/http%3A//nwsource.kaango.com/help/view/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nwsource.com privacy policy that was archived on 2015-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150616164447id_/http%3A//nwsource.kaango.com/help/view/privacy) for the most accurate reproduction.*
 
 # Help - NWsource Classifieds
 
