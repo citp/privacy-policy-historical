@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the intu.co.uk privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220235022id_/http%3A//intu.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intu.co.uk privacy policy that was archived on 2015-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150616150311id_/http%3A//intu.co.uk/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy at intu intu Digital,
+# Privacy Policy at intu Digital
 
 ### About this policy
 
