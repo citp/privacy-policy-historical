@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the globalpropertyguide.com privacy policy that was archived on 2014-09-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140922114017id_/http%3A//www.globalpropertyguide.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the globalpropertyguide.com privacy policy that was archived on 2015-06-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150616125305id_/http%3A//www.globalpropertyguide.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 <script async="" src="//www.google-analytics.com/analytics.js"></script><script>
@@ -66,13 +66,13 @@ var strCurrentPageCountry = "";
 </head>
 
 <body>
-		<div id="auth_box">
+		<div id="auth_box" style="top: 150px;">
 		<div id="ab_wrapper">
-			<div id="ab_closer" class="closebox">CLOSE X</div>
+			<div id="ab_closer" class="closebox" onclick="hideme($('auth_box'))">CLOSE X</div>
 
 			<div id="reg_box" class="frm_container">
 				<h3><span>Register</span> - if you don't have an account</h3>
-				<form action="./signup" id="signupform">
+				<form action="#" id="signupform" method="post">
 					<fieldset><label>Your Name:</label>
 						<input type="text" id="signupname" name="signupname" class="inputitem required" title="*please provide your name" size="30">
 					</fieldset>
@@ -101,7 +101,7 @@ var strCurrentPageCountry = "";
 
 			<div id="lin_box" class="frm_container">
 				<h3><span>Login</span> - for registered users</h3>
-				<form action="./login" id="loginfrm">
+				<form id="loginfrm">
 					<fieldset><label>Email:</label>
 						<input id="lg_user" type="text" name="lg_user" class="inputitem" size="30">
 					</fieldset>
@@ -176,19 +176,19 @@ document.MAX_ct0 ='';
 var m3_u = (location.protocol=='https:'?'https://cas.criteo.com/delivery/ajs.php?':'http://cas.criteo.com/delivery/ajs.php?');
 var m3_r = Math.floor(Math.random()*99999999999);
 document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
-document.write ("zoneid=165828");document.write("&amp;nodis=1");
-document.write ('&amp;cb=' + m3_r);
-if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
-document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));
-document.write ("&amp;loc=" + escape(window.location));
-if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+document.write ("zoneid=165828");document.write("&nodis=1");
+document.write ('&cb=' + m3_r);
+if (document.MAX_used != ',') document.write ("&exclude=" + document.MAX_used);
+document.write (document.charset ? '&charset='+document.charset : (document.characterSet ? '&charset='+document.characterSet : ''));
+document.write ("&loc=" + escape(window.location));
+if (document.referrer) document.write ("&referer=" + escape(document.referrer));
 if (document.context) document.write ("&context=" + escape(document.context));
 if ((typeof(document.MAX_ct0) != 'undefined') && (document.MAX_ct0.substring(0,4) == 'http')) {
-document.write ("&amp;ct0=" + escape(document.MAX_ct0));
+document.write ("&ct0=" + escape(document.MAX_ct0));
 }
-if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+if (document.mmm_fo) document.write ("&mmm_fo=1");
 document.write ("'></scr"+"ipt>");
-//]]>--></script><script type="text/javascript" src="https://cas.criteo.com/delivery/ajs.php?zoneid=165828&amp;nodis=1&amp;cb=99091623279&amp;exclude=undefined&amp;charset=windows-1252&amp;loc=https%3A//web.archive.org/web/20140922114017id_/http%253A//www.globalpropertyguide.com/privacy-policy"></script>	
+//]]>--></script><script type="text/javascript" src="https://cas.criteo.com/delivery/ajs.php?zoneid=165828&amp;nodis=1&amp;cb=81856973607&amp;exclude=undefined&amp;charset=windows-1252&amp;loc=https%3A//web.archive.org/web/20150616125305id_/http%253A//www.globalpropertyguide.com/privacy-policy"></script>	
 			   </div>
 			</div>
 			<br clear="all">
@@ -217,7 +217,287 @@ document.write ("'></scr"+"ipt>");
 							<div class="mmenu"><a href="http://www.globalpropertyguide.com/about-us"><img src="http://www.globalpropertyguide.com/template/images/mabout.gif" border="0"></a></div>
 							<div class="mmenu jsmenu"><div id="gpg_explore"></div></div>
 							<div class="mmenu"><a href="http://www.globalpropertyguide.com/property-news"><img src="http://www.globalpropertyguide.com/template/images/mnews.gif" border="0"></a></div>
-							<div class="mmenu"><a href="http://search.globalpropertyguide.com/"><img src="http://www.globalpropertyguide.com/template/images/mpropertysearch.gif" border="0"></a></div><div class="mmenu"><a href="http://www.globalpropertyguide.com/rss"><img src="http://www.globalpropertyguide.com/template/images/mrss.gif" border="0"></a></div>
+							<div class="mmenu" id="divPropertyMenu" style="position: relative;">
+	<a href="http://search.globalpropertyguide.com/">
+		<img src="http://www.globalpropertyguide.com/template/images/mpropertysearch.gif" border="0">
+	</a>
+	
+	 <div style="display: none; left: -517px; position: absolute;z-index: 999;" id="divSearch">
+            <form id="searchFormTMC" name="searchFormTMC" method="post">
+				<div style="width: 1016px; float: left; background-color: #DADADA; margin-bottom: 5px;
+					border: 2px solid #000; margin-top: -3px; padding-bottom: 5px;">
+					<div style="width: 1000px; margin: 10px auto; height: 30px;">
+						<label style="width: 140px;">
+							Property Search:&nbsp;&nbsp;</label>
+						<div id="divIntellMinPrice" class="corners" style=" background : #fff;">
+							<select id="searchIntellMinPrice" name="searchFormTMC_searchBox_MaxPrice">
+								<option value="-1">Min Price</option>
+								<option value="25000">$ 25k</option>
+								<option value="50000">$ 50k</option>
+								<option value="75000">$ 75k</option>
+								<option value="100000">$ 100k</option>
+								<option value="150000">$ 150k</option>
+								<option value="200000">$ 200k</option>
+								<option value="300000">$ 300k</option>
+								<option value="500000">$ 500k</option>
+							</select>
+						</div>
+						<div id="divIntellMaxPrice" class="corners" style=" background : #fff;">
+							<select id="searchIntellMaxPrice" name="searchFormTMC_searchBox_MinPrice" class="corners">
+								<option value="-1">Max Price</option>
+								<option value="25000">$ 25k</option>
+								<option value="50000">$ 50k</option>
+								<option value="75000">$ 75k</option>
+								<option value="100000">$ 100k</option>
+								<option value="150000">$ 150k</option>
+								<option value="200000">$ 200k</option>
+								<option value="300000">$ 300k</option>
+								<option value="500000">$ 500k</option>
+								<option value="1000000">$ 1 million &gt;</option>
+							</select>
+						</div>
+						<div id="divIntellType" class="corners" style="width:200px;background : #fff;">
+							<select id="searchIntellType" style="width:200px;">
+								<option value="-1">Select Type</option>
+								<option value="residential" class="modifier">Residential Properties </option>
+								<option value="apartment" class="modifier">&nbsp;&nbsp;&nbsp;Apartments </option>
+								<option value="condos" class="modifier">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Condos
+								</option>
+								<option value="flat" class="modifier">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Flats
+								</option>
+								<option value="hotel_room" class="modifier">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hotel
+									Rooms </option>
+								<option value="loft" class="modifier">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Lofts
+								</option>
+								<option value="maisonette" class="modifier">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Maisonettes
+								</option>
+								<option value="penthouses" class="modifier">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Penthouses
+								</option>
+								<option value="studio" class="modifier">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Studios
+								</option>
+								<option value="workshops" class="modifier">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Workshops
+								</option>
+								<option value="house" class="modifier">&nbsp;&nbsp;&nbsp;Houses </option>
+								<option value="bungalow" class="modifier">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bungalows
+								</option>
+								<option value="cottage" class="modifier">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cottages
+								</option>
+								<option value="prefabricated" class="modifier">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Prefabricated
+									Houses </option>
+								<option value="townhouse" class="modifier">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Townhouses
+								</option>
+								<option value="villa" class="modifier">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Villas
+								</option>
+								<option value="mobile_homes" class="modifier">&nbsp;&nbsp;&nbsp;Mobile Homes
+								</option>
+								<option value="caravan" class="modifier">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Caravans
+								</option>
+								<option value="motor_home" class="modifier">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Motor
+									Homes </option>
+								<option value="park_home" class="modifier">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Park
+									Homes </option>
+								<option value="new_home" class="modifier">&nbsp;&nbsp;&nbsp;New Homes </option>
+								<option value="land_and_build" class="modifier">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Land
+									and Build </option>
+								<option value="new_apartments" class="modifier">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;New
+									Apartments </option>
+								<option value="communities" class="modifier">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;New
+									Communities </option>
+								<option value="developments" class="modifier">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;New
+									Developments </option>
+								<option value="new_houses" class="modifier">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;New
+									Houses </option>
+								<option value="resorts" class="modifier">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;New
+									Resorts </option>
+								<option value="prestige" class="modifier">&nbsp;&nbsp;&nbsp;Prestige Homes </option>
+								<option value="castles" class="modifier">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Castles
+								</option>
+								<option value="cheateau" class="modifier">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cheateaus
+								</option>
+								<option value="country_estates" class="modifier">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Country
+									Estates </option>
+								<option value="manor_house" class="modifier">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Manor
+									Houses </option>
+								<option value="mansions" class="modifier">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mansions
+								</option>
+								<option value="palace" class="modifier">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Palaces
+								</option>
+								<option value="private_islands" class="modifier">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Private
+									Islands </option>
+								<option value="ranch" class="modifier">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ranches
+								</option>
+								<option value="riad" class="modifier">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Riads
+								</option>
+								<option value="stately_home" class="modifier">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Stately
+									Homes </option>
+								<option value="unique_property" class="modifier">&nbsp;&nbsp;&nbsp;Unique Properties
+								</option>
+								<option value="barns" class="modifier">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Barns
+								</option>
+								<option value="beach_house" class="modifier">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Beach
+									Houses </option>
+								<option value="cave" class="modifier">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Caves
+								</option>
+								<option value="chalet" class="modifier">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Chalets
+								</option>
+								<option value="character_property" class="modifier">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Character
+									Properties </option>
+								<option value="churches" class="modifier">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Churches
+								</option>
+								<option value="dacha" class="modifier">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dachas
+								</option>
+								<option value="farmhouses" class="modifier">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Farmhouses
+								</option>
+								<option value="finca" class="modifier">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fincas
+								</option>
+								<option value="gite" class="modifier">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Gites
+								</option>
+								<option value="lighthouses" class="modifier">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Lighthouses
+								</option>
+								<option value="lodge" class="modifier">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Lodges
+								</option>
+								<option value="log_cabin" class="modifier">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Log
+									Cabins </option>
+								<option value="mill" class="modifier">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mills
+								</option>
+								<option value="ruin" class="modifier">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ruins
+								</option>
+								<option value="tower" class="modifier">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Towers
+								</option>
+								<option value="trulli" class="modifier">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Trullis
+								</option>
+								<option value="windmill" class="modifier">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Windmills
+								</option>
+
+
+								<option value="holiday_homes" class="modifier">Holiday Homes </option>
+
+								<option value="investment" class="modifier">Investment Properties </option>
+								<option value="buy_to_let" class="modifier">&nbsp;&nbsp;&nbsp;Buy to Let </option>
+								<option value="condo_hotel" class="modifier">&nbsp;&nbsp;&nbsp;Condo Hotels </option>
+								<option value="fractional_ownership" class="modifier">&nbsp;&nbsp;&nbsp;Fractional
+									Ownership </option>
+								<option value="leaseback" class="modifier">&nbsp;&nbsp;&nbsp;Leaseback </option>
+								<option value="managed_resorts" class="modifier">&nbsp;&nbsp;&nbsp;Managed Resorts
+								</option>
+								<option value="off_plan" class="modifier">&nbsp;&nbsp;&nbsp;Off Plan </option>
+								<option value="probate" class="modifier">&nbsp;&nbsp;&nbsp;Probate </option>
+								<option value="renovation_property" class="modifier">&nbsp;&nbsp;&nbsp;Renovation
+									Properties </option>
+								<option value="repossession" class="modifier">&nbsp;&nbsp;&nbsp;Repossessions
+								</option>
+								<option value="serviced_apartments" class="modifier">&nbsp;&nbsp;&nbsp;Serviced Apartments
+								</option>
+								<option value="sipp_approved" class="modifier">&nbsp;&nbsp;&nbsp;SIPP Properties
+								</option>
+
+
+
+								<option value="land" class="modifier">Land for Sale </option>
+								<option value="allotment" class="modifier">&nbsp;&nbsp;&nbsp;Allotments </option>
+								<option value="building_plot" class="modifier">&nbsp;&nbsp;&nbsp;Building Plots
+								</option>
+								<option value="development_land" class="modifier">&nbsp;&nbsp;&nbsp;Development Lands
+								</option>
+								<option value="farmland" class="modifier">&nbsp;&nbsp;&nbsp;Farmland </option>
+								<option value="forest" class="modifier">&nbsp;&nbsp;&nbsp;Forests </option>
+								<option value="land_subdivision" class="modifier">&nbsp;&nbsp;&nbsp;Land banking
+									or Land subdivision </option>
+								<option value="land_with_planning" class="modifier">&nbsp;&nbsp;&nbsp;Land With Planning
+								</option>
+								<option value="mine" class="modifier">&nbsp;&nbsp;&nbsp;Mines </option>
+								<option value="private_beach" class="modifier">&nbsp;&nbsp;&nbsp;Private Beaches
+								</option>
+								<option value="raw_land" class="modifier">&nbsp;&nbsp;&nbsp;Raw Land </option>
+								<option value="vineyard" class="modifier">&nbsp;&nbsp;&nbsp;Vineyards </option>
+								<option value="zoned_land" class="modifier">&nbsp;&nbsp;&nbsp;Zoned Land </option>
+
+
+
+								<option value="auction" class="modifier">Auction Properties </option>
+
+
+								 <option value="commercial" class="modifier">Commercial Properties </option>
+								<option value="agriculture" class="modifier">&nbsp;&nbsp;&nbsp;Agricultural Properties
+								</option>
+								<option value="bars" class="modifier">&nbsp;&nbsp;&nbsp;Bars </option>
+								<option value="bed_and_breakfast" class="modifier">&nbsp;&nbsp;&nbsp;Bed and Breakfast
+								</option>
+								<option value="boatyard" class="modifier">&nbsp;&nbsp;&nbsp;Boatyards </option>
+								<option value="building_for_redevelopment" class="modifier">&nbsp;&nbsp;&nbsp;Redevelopments
+								</option>
+								<option value="bulk_buy_residential" class="modifier">&nbsp;&nbsp;&nbsp;Bulk Buy
+									Residential </option>
+								<option value="business_for_sale" class="modifier">&nbsp;&nbsp;&nbsp;Businesses
+								</option>
+								<option value="cafe" class="modifier">&nbsp;&nbsp;&nbsp;Cafes </option>
+								<option value="car_park" class="modifier">&nbsp;&nbsp;&nbsp;Car Parks </option>
+								<option value="car_parking" class="modifier">&nbsp;&nbsp;&nbsp;Car Parking Spaces
+								</option>
+								<option value="commercial_portfolio" class="modifier">&nbsp;&nbsp;&nbsp;Commercial
+									Portfolios </option>
+								<option value="factory" class="modifier">&nbsp;&nbsp;&nbsp;Factories </option>
+								<option value="garages" class="modifier">&nbsp;&nbsp;&nbsp;Garages </option>
+								<option value="golf_course" class="modifier">&nbsp;&nbsp;&nbsp;Golf Courses </option>
+								<option value="guest_house" class="modifier">&nbsp;&nbsp;&nbsp;Guest Houses </option>
+								<option value="hotel" class="modifier">&nbsp;&nbsp;&nbsp;Hotels for Sale </option>
+								<option value="industrial" class="modifier">&nbsp;&nbsp;&nbsp;Industrial Properties
+								</option>
+								<option value="leisure_property" class="modifier">&nbsp;&nbsp;&nbsp;Leisure Property
+								</option>
+								<option value="mixed_use" class="modifier">&nbsp;&nbsp;&nbsp;Mixed Use Projects
+								</option>
+								<option value="office_building" class="modifier">&nbsp;&nbsp;&nbsp;Offices </option>
+								<option value="office_space" class="modifier">&nbsp;&nbsp;&nbsp;Office Spaces
+								</option>
+								<option value="petrol_station" class="modifier">&nbsp;&nbsp;&nbsp;Petrol Stations
+								</option>
+								<option value="pub" class="modifier">&nbsp;&nbsp;&nbsp;Pubs </option>
+								<option value="restaurant" class="modifier">&nbsp;&nbsp;&nbsp;Restaurants </option>
+								<option value="retail" class="modifier">&nbsp;&nbsp;&nbsp;Retail Properties </option>
+								<option value="shop" class="modifier">&nbsp;&nbsp;&nbsp;Shops </option>
+								<option value="stableyard" class="modifier">&nbsp;&nbsp;&nbsp;Stables </option>
+								<option value="warehouse" class="modifier">&nbsp;&nbsp;&nbsp;Warehouses </option>
+								<option value="whole_development" class="modifier">&nbsp;&nbsp;&nbsp;Whole Developments
+								</option>
+
+								<option value="alternative" class="modifier">Alternative Investments </option>
+								<option value="biodiesal" class="modifier">&nbsp;&nbsp;&nbsp;Biodiesal </option>
+								<option value="carbon" class="modifier">&nbsp;&nbsp;&nbsp;Carbon </option>
+								<option value="forestry" class="modifier">&nbsp;&nbsp;&nbsp;Forestry </option>
+								<option value="timeshare" class="modifier">&nbsp;&nbsp;&nbsp;Timeshares </option>
+								
+
+
+							   
+								<option value="financial" class="modifier">Financial Products </option>
+								<option value="project_finance" class="modifier">&nbsp;&nbsp;&nbsp;Project Finance
+								</option>
+								<option value="syndicate" class="modifier">&nbsp;&nbsp;&nbsp;Syndicates </option>
+								
+								
+							  
+								
+							</select>
+						</div>
+						<input id="searchIntellLocation" class="corners ac_input" type="text" style="width: 200px;
+							margin-left: 5px;" value="Country, Region or Location?" onfocus="clearText(this);" onblur="restoreText(this);" autocomplete="off">
+						<input id="btnSubmitEnquiry" type="button" value="">
+						<span id="searchMessageBox" class="LargeJ"></span>
+					</div>
+				</div>
+				<!-- NEW ADDED DIV -->
+				<div>
+					<div id="divCloseSearch" class="corners" style="width: 100px; margin: auto; background: #f05e20;
+						text-align: center; text-align: -webkit-center; border: 2px solid #000; cursor: pointer;
+						font-weight: bolder; padding-bottom: 5px; color: #fff; display: none">
+						Hide Search
+					</div>
+				</div>
+			</form>
+     </div>
+</div>
+<div class="mmenu"><a href="http://www.globalpropertyguide.com/rss"><img src="http://www.globalpropertyguide.com/template/images/mrss.gif" border="0"></a></div>
 							<div class="mmenu">
 								<ul id="pmenu">
 									<li><a href="http://www.globalpropertyguide.com/edit-profile"><img src="http://www.globalpropertyguide.com/template/images/mprofile.gif" border="0" id="profilebutton"></a>
@@ -229,272 +509,9 @@ document.write ("'></scr"+"ipt>");
 								</ul>
 							</div>
 							<div id="loginswitch" class="mlogin">
-						<a href="http://www.globalpropertyguide.com/login" class="loginswitch" rel="nofollow">Login</a> or <a href="http://www.globalpropertyguide.com/login" class="loginswitch" rel="nofollow">Register</a>
+						<a href="#" class="loginswitch" rel="nofollow">Login</a> or <a href="#" class="loginswitch" rel="nofollow">Register</a>
 					</div>
-						</div>		<div style="margin:10px 0; border-bottom:solid #ccc 4px;"><form id="searchFormTMC" name="searchFormTMC" method="post">
-<div style="width: 1020px; float: left; background-color: #ffffff; margin-bottom: 5px;
-    margin-top: -6px;">
-    <div style="width: 1000px; margin: 10px auto; height: 30px;">
-        <label style="width: 140px;">
-            Property Search:&nbsp;&nbsp;</label>
-        <div id="divIntellMinPrice" class="corners">
-            <select id="searchIntellMinPrice" name="searchFormTMC_searchBox_MaxPrice">
-                <option value="-1">Min Price</option>
-                <option value="25000">$ 25k</option>
-                <option value="50000">$ 50k</option>
-                <option value="75000">$ 75k</option>
-                <option value="100000">$ 100k</option>
-                <option value="150000">$ 150k</option>
-                <option value="200000">$ 200k</option>
-                <option value="300000">$ 300k</option>
-                <option value="500000">$ 500k</option>
-            </select>
-        </div>
-        <div id="divIntellMaxPrice" class="corners">
-            <select id="searchIntellMaxPrice" name="searchFormTMC_searchBox_MinPrice" class="corners">
-                <option value="-1">Max Price</option>
-                <option value="25000">$ 25k</option>
-                <option value="50000">$ 50k</option>
-                <option value="75000">$ 75k</option>
-                <option value="100000">$ 100k</option>
-                <option value="150000">$ 150k</option>
-                <option value="200000">$ 200k</option>
-                <option value="300000">$ 300k</option>
-                <option value="500000">$ 500k</option>
-                <option value="1000000">$ 1 million &gt;</option>
-            </select>
-        </div>
-        <div id="divIntellType" class="corners" style="width:200px;">
-            <select id="searchIntellType" style="width:200px;">
-                <option value="-1">Select Type</option>
-                <option value="residential" class="modifier">Residential Properties </option>
-                <option value="apartment" class="modifier">&nbsp;&nbsp;&nbsp;Apartments </option>
-                <option value="condos" class="modifier">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Condos
-                </option>
-                <option value="flat" class="modifier">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Flats
-                </option>
-                <option value="hotel_room" class="modifier">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hotel
-                    Rooms </option>
-                <option value="loft" class="modifier">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Lofts
-                </option>
-                <option value="maisonette" class="modifier">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Maisonettes
-                </option>
-                <option value="penthouses" class="modifier">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Penthouses
-                </option>
-                <option value="studio" class="modifier">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Studios
-                </option>
-                <option value="workshops" class="modifier">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Workshops
-                </option>
-                <option value="house" class="modifier">&nbsp;&nbsp;&nbsp;Houses </option>
-                <option value="bungalow" class="modifier">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bungalows
-                </option>
-                <option value="cottage" class="modifier">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cottages
-                </option>
-                <option value="prefabricated" class="modifier">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Prefabricated
-                    Houses </option>
-                <option value="townhouse" class="modifier">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Townhouses
-                </option>
-                <option value="villa" class="modifier">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Villas
-                </option>
-                <option value="mobile_homes" class="modifier">&nbsp;&nbsp;&nbsp;Mobile Homes
-                </option>
-                <option value="caravan" class="modifier">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Caravans
-                </option>
-                <option value="motor_home" class="modifier">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Motor
-                    Homes </option>
-                <option value="park_home" class="modifier">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Park
-                    Homes </option>
-                <option value="new_home" class="modifier">&nbsp;&nbsp;&nbsp;New Homes </option>
-                <option value="land_and_build" class="modifier">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Land
-                    and Build </option>
-                <option value="new_apartments" class="modifier">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;New
-                    Apartments </option>
-                <option value="communities" class="modifier">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;New
-                    Communities </option>
-                <option value="developments" class="modifier">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;New
-                    Developments </option>
-                <option value="new_houses" class="modifier">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;New
-                    Houses </option>
-                <option value="resorts" class="modifier">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;New
-                    Resorts </option>
-                <option value="prestige" class="modifier">&nbsp;&nbsp;&nbsp;Prestige Homes </option>
-                <option value="castles" class="modifier">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Castles
-                </option>
-                <option value="cheateau" class="modifier">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cheateaus
-                </option>
-                <option value="country_estates" class="modifier">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Country
-                    Estates </option>
-                <option value="manor_house" class="modifier">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Manor
-                    Houses </option>
-                <option value="mansions" class="modifier">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mansions
-                </option>
-                <option value="palace" class="modifier">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Palaces
-                </option>
-                <option value="private_islands" class="modifier">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Private
-                    Islands </option>
-                <option value="ranch" class="modifier">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ranches
-                </option>
-                <option value="riad" class="modifier">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Riads
-                </option>
-                <option value="stately_home" class="modifier">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Stately
-                    Homes </option>
-                <option value="unique_property" class="modifier">&nbsp;&nbsp;&nbsp;Unique Properties
-                </option>
-                <option value="barns" class="modifier">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Barns
-                </option>
-                <option value="beach_house" class="modifier">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Beach
-                    Houses </option>
-                <option value="cave" class="modifier">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Caves
-                </option>
-                <option value="chalet" class="modifier">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Chalets
-                </option>
-                <option value="character_property" class="modifier">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Character
-                    Properties </option>
-                <option value="churches" class="modifier">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Churches
-                </option>
-                <option value="dacha" class="modifier">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dachas
-                </option>
-                <option value="farmhouses" class="modifier">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Farmhouses
-                </option>
-                <option value="finca" class="modifier">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fincas
-                </option>
-                <option value="gite" class="modifier">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Gites
-                </option>
-                <option value="lighthouses" class="modifier">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Lighthouses
-                </option>
-                <option value="lodge" class="modifier">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Lodges
-                </option>
-                <option value="log_cabin" class="modifier">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Log
-                    Cabins </option>
-                <option value="mill" class="modifier">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mills
-                </option>
-                <option value="ruin" class="modifier">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ruins
-                </option>
-                <option value="tower" class="modifier">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Towers
-                </option>
-                <option value="trulli" class="modifier">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Trullis
-                </option>
-                <option value="windmill" class="modifier">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Windmills
-                </option>
-
-
-                <option value="holiday_homes" class="modifier">Holiday Homes </option>
-
-                <option value="investment" class="modifier">Investment Properties </option>
-                <option value="buy_to_let" class="modifier">&nbsp;&nbsp;&nbsp;Buy to Let </option>
-                <option value="condo_hotel" class="modifier">&nbsp;&nbsp;&nbsp;Condo Hotels </option>
-                <option value="fractional_ownership" class="modifier">&nbsp;&nbsp;&nbsp;Fractional
-                    Ownership </option>
-                <option value="leaseback" class="modifier">&nbsp;&nbsp;&nbsp;Leaseback </option>
-                <option value="managed_resorts" class="modifier">&nbsp;&nbsp;&nbsp;Managed Resorts
-                </option>
-                <option value="off_plan" class="modifier">&nbsp;&nbsp;&nbsp;Off Plan </option>
-                <option value="probate" class="modifier">&nbsp;&nbsp;&nbsp;Probate </option>
-                <option value="renovation_property" class="modifier">&nbsp;&nbsp;&nbsp;Renovation
-                    Properties </option>
-                <option value="repossession" class="modifier">&nbsp;&nbsp;&nbsp;Repossessions
-                </option>
-                <option value="serviced_apartments" class="modifier">&nbsp;&nbsp;&nbsp;Serviced Apartments
-                </option>
-                <option value="sipp_approved" class="modifier">&nbsp;&nbsp;&nbsp;SIPP Properties
-                </option>
-
-
-
-                <option value="land" class="modifier">Land for Sale </option>
-                <option value="allotment" class="modifier">&nbsp;&nbsp;&nbsp;Allotments </option>
-                <option value="building_plot" class="modifier">&nbsp;&nbsp;&nbsp;Building Plots
-                </option>
-                <option value="development_land" class="modifier">&nbsp;&nbsp;&nbsp;Development Lands
-                </option>
-                <option value="farmland" class="modifier">&nbsp;&nbsp;&nbsp;Farmland </option>
-                <option value="forest" class="modifier">&nbsp;&nbsp;&nbsp;Forests </option>
-                <option value="land_subdivision" class="modifier">&nbsp;&nbsp;&nbsp;Land banking
-                    or Land subdivision </option>
-                <option value="land_with_planning" class="modifier">&nbsp;&nbsp;&nbsp;Land With Planning
-                </option>
-                <option value="mine" class="modifier">&nbsp;&nbsp;&nbsp;Mines </option>
-                <option value="private_beach" class="modifier">&nbsp;&nbsp;&nbsp;Private Beaches
-                </option>
-                <option value="raw_land" class="modifier">&nbsp;&nbsp;&nbsp;Raw Land </option>
-                <option value="vineyard" class="modifier">&nbsp;&nbsp;&nbsp;Vineyards </option>
-                <option value="zoned_land" class="modifier">&nbsp;&nbsp;&nbsp;Zoned Land </option>
-
-
-
-                <option value="auction" class="modifier">Auction Properties </option>
-
-
-                 <option value="commercial" class="modifier">Commercial Properties </option>
-                <option value="agriculture" class="modifier">&nbsp;&nbsp;&nbsp;Agricultural Properties
-                </option>
-                <option value="bars" class="modifier">&nbsp;&nbsp;&nbsp;Bars </option>
-                <option value="bed_and_breakfast" class="modifier">&nbsp;&nbsp;&nbsp;Bed and Breakfast
-                </option>
-                <option value="boatyard" class="modifier">&nbsp;&nbsp;&nbsp;Boatyards </option>
-                <option value="building_for_redevelopment" class="modifier">&nbsp;&nbsp;&nbsp;Redevelopments
-                </option>
-                <option value="bulk_buy_residential" class="modifier">&nbsp;&nbsp;&nbsp;Bulk Buy
-                    Residential </option>
-                <option value="business_for_sale" class="modifier">&nbsp;&nbsp;&nbsp;Businesses
-                </option>
-                <option value="cafe" class="modifier">&nbsp;&nbsp;&nbsp;Cafes </option>
-                <option value="car_park" class="modifier">&nbsp;&nbsp;&nbsp;Car Parks </option>
-                <option value="car_parking" class="modifier">&nbsp;&nbsp;&nbsp;Car Parking Spaces
-                </option>
-                <option value="commercial_portfolio" class="modifier">&nbsp;&nbsp;&nbsp;Commercial
-                    Portfolios </option>
-                <option value="factory" class="modifier">&nbsp;&nbsp;&nbsp;Factories </option>
-                <option value="garages" class="modifier">&nbsp;&nbsp;&nbsp;Garages </option>
-                <option value="golf_course" class="modifier">&nbsp;&nbsp;&nbsp;Golf Courses </option>
-                <option value="guest_house" class="modifier">&nbsp;&nbsp;&nbsp;Guest Houses </option>
-                <option value="hotel" class="modifier">&nbsp;&nbsp;&nbsp;Hotels for Sale </option>
-                <option value="industrial" class="modifier">&nbsp;&nbsp;&nbsp;Industrial Properties
-                </option>
-                <option value="leisure_property" class="modifier">&nbsp;&nbsp;&nbsp;Leisure Property
-                </option>
-                <option value="mixed_use" class="modifier">&nbsp;&nbsp;&nbsp;Mixed Use Projects
-                </option>
-                <option value="office_building" class="modifier">&nbsp;&nbsp;&nbsp;Offices </option>
-                <option value="office_space" class="modifier">&nbsp;&nbsp;&nbsp;Office Spaces
-                </option>
-                <option value="petrol_station" class="modifier">&nbsp;&nbsp;&nbsp;Petrol Stations
-                </option>
-                <option value="pub" class="modifier">&nbsp;&nbsp;&nbsp;Pubs </option>
-                <option value="restaurant" class="modifier">&nbsp;&nbsp;&nbsp;Restaurants </option>
-                <option value="retail" class="modifier">&nbsp;&nbsp;&nbsp;Retail Properties </option>
-                <option value="shop" class="modifier">&nbsp;&nbsp;&nbsp;Shops </option>
-                <option value="stableyard" class="modifier">&nbsp;&nbsp;&nbsp;Stables </option>
-                <option value="warehouse" class="modifier">&nbsp;&nbsp;&nbsp;Warehouses </option>
-                <option value="whole_development" class="modifier">&nbsp;&nbsp;&nbsp;Whole Developments
-                </option>
-
-                <option value="alternative" class="modifier">Alternative Investments </option>
-                <option value="biodiesal" class="modifier">&nbsp;&nbsp;&nbsp;Biodiesal </option>
-                <option value="carbon" class="modifier">&nbsp;&nbsp;&nbsp;Carbon </option>
-                <option value="forestry" class="modifier">&nbsp;&nbsp;&nbsp;Forestry </option>
-                <option value="timeshare" class="modifier">&nbsp;&nbsp;&nbsp;Timeshares </option>
-                
-
-
-               
-                <option value="financial" class="modifier">Financial Products </option>
-                <option value="project_finance" class="modifier">&nbsp;&nbsp;&nbsp;Project Finance
-                </option>
-                <option value="syndicate" class="modifier">&nbsp;&nbsp;&nbsp;Syndicates </option>
-                
-                
-              
-                
-            </select>
-        </div>
-        <input id="searchIntellLocation" class="corners" type="text" style="width: 200px;
-            margin-left: 5px;" value="Country, Region or Location?" onfocus="clearText(this);" onblur="restoreText(this);">
-        <input id="btnSubmitEnquiry" type="button" value="">
-        <span id="searchMessageBox" class="LargeJ"></span>
-    </div>
-</div>
-</form><div class="clear"></div></div><div class="clear"></div>  
+						</div>		  
         	
     
 		<div id="gpg_mid">
@@ -592,6 +609,7 @@ google_ad_height = 250;
 							<a href="http://www.linkedin.com/company/global-property-guide"><img src="http://www.globalpropertyguide.com/template/images/footer_linkedin.gif" alt="Feed"> Global Property Guide on Linked In</a>		
 							
 							<h3>For Contributors</h3><div class="gpg_hr">&nbsp;</div>
+							<a href="http://www.globalpropertyguide.com/hiring-philippine-economists">We're hiring</a>
 							<a href="http://www.globalpropertyguide.com/contributors/Contributing-is-easy-and-works-for-you">Contributing is easy and works for you</a>
 							<a href="http://www.globalpropertyguide.com/contributors/Writing-Guidelines" style="display:none;" rel="nofollow">Writing guidelines</a>
 							<a href="http://www.globalpropertyguide.com/contributors/Feature-your-business,-and-blog-or-website" style="display:none;" rel="nofollow">Feature your business / blog / work</a>			
@@ -624,7 +642,7 @@ google_ad_height = 250;
 						</div>
 					</div>
 		<div id="gpg_copyright">
-			© 2004-2014 Global Property Guide. All Rights Reserved.
+			© 2004-2015 Global Property Guide. All Rights Reserved.
 		</div>
 	</div>
     <div id="underfoot">
@@ -739,6 +757,47 @@ var google_remarketing_only = true;
 </noscript>
 
 <script type="text/javascript" src="http://ads.pro-market.net/ads/scripts/site-134704.js"></script>
+<script type="text/javascript">
+        function calculateDistance(elem, mouseX, mouseY) {
+            return Math.floor(Math.sqrt(Math.pow(mouseX - (elem.offset().left + (elem.width() / 2)), 2) + Math.pow(mouseY - (elem.offset().top + (elem.height() / 2)), 2)));
+        }		
+		// if cursor move away from divSearch, search bar disappear automatically
+        var mX, mY, distance,       
+        $element = jQuery('#divSearch');
+        jQuery(document).mousemove(function (e) {
+            mX = e.pageX;
+            mY = e.pageY;
+            if (calculateDistance($element, mX, mY) > 550) {
+                jQuery("#divSearch").slideUp("slow");
+                jQuery("#divCloseSearch").slideUp("slow");
+            }
+        });
+		
+		// hide Seach onclick
+        jQuery("#divCloseSearch").click(function () {
+           
+            jQuery("#divSearch").slideUp("slow");
+            jQuery("#divCloseSearch").slideUp("slow");
+        });
+		
+		// click anywhere outside will automatically close the search bar
+        jQuery("#divPropertyMenu").hover(function () {
+            jQuery("#divSearch").show();
+            jQuery("#divCloseSearch").show();
+        }, function (e) {
+            jQuery(document).mouseup(function (e) {
+                var container = jQuery("#divSearch");
+
+                if (!container.is(e.target) 
+                    && container.has(e.target).length === 0)
+                {
+                    container.slideUp("slow");
+                    jQuery("#divCloseSearch").slideUp("slow");
+                }
+            });
+        });
+</script>
+<!--rsch_invAnalysis-->
 
 
 
