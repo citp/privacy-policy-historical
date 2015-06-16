@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the housing.co.in privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227041737id_/https%3A//housing.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the housing.co.in privacy policy that was archived on 2015-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150616223305id_/https%3A//housing.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Housing
 
@@ -87,7 +87,7 @@ Opting out of tracking on our services through this link inserts a cookie on the
 
 We will discontinue tracking activities for an opted out user. This means that we will not track an opted out user’s behaviour or display customised ads to the user. However, an opted out user may be able to view suggestions by us pertaining to marketing, branding or promotional campaigns.
 
-[*I agree/ Opt out action button*]
+ I Agree,  
 
 Direct Contact with a REP: If you fill out a form to contact a REP (or use any other contact forms available on our Website) or call a REP via our mobile site or app, we may share personally identifiable information that you share with us and information about your use of our Services with the party you wanted to contact. This may include data you input such as home search criteria or Log Data that we collect as you use the Services. If a REP wants to contact you based on the anonymized profile of Housing.com pages you visited, we will contact you to see if we can make that connection. Sometimes, if we are working with a third party to improve the leads we provide to our subscriber REPs, we may provide that third party with additional but limited personally identifiable information for the sole purpose of their carrying out their duty to us.
 
