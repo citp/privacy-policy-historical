@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thecasecentre.org privacy policy that was archived on 2014-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140509025225id_/http%3A//www.thecasecentre.org/educators/myaccount/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thecasecentre.org privacy policy that was archived on 2015-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150616145046id_/http%3A//www.thecasecentre.org/educators/myaccount/privacy) for the most accurate reproduction.*
 
 # Privacy policy | The Case Centre, for educators
 
