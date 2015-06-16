@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the plano.gov privacy policy that was archived on 2014-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141201070149id_/http%3A//www.plano.gov/1060/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plano.gov privacy policy that was archived on 2015-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150616073300id_/http%3A//www.plano.gov/1060/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy | Plano, TX - Official Website
 
