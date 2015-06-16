@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the mdcomputers.in privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625081728id_/http%3A//mdcomputers.in/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mdcomputers.in privacy policy that was archived on 2015-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150617002647id_/http%3A//mdcomputers.in/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
+
+[ ]()
+
+Your shopping cart is empty!
 
   * We are committed to protecting your privacy. We will only use the information that we collect about you lawfully.
   * We collect information about you for 2 reasons: firstly, to process your order and second, to provide you with the best possible service.
