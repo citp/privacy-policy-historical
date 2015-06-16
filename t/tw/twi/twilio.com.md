@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the twilio.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230110043id_/https%3A//www.twilio.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twilio.com privacy policy that was archived on 2015-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150617010307id_/https%3A//www.twilio.com/legal/privacy) for the most accurate reproduction.*
 
 # Twilio - Privacy Policy
 
