@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zigwheels.com privacy policy that was archived on 2014-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141223140852id_/http%3A//www.zigwheels.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zigwheels.com privacy policy that was archived on 2015-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150617003344id_/http%3A//www.zigwheels.com/privacypolicy) for the most accurate reproduction.*
 
 # Zigwheels.com
 
@@ -51,7 +51,7 @@ However the internet is an ever evolving medium. We may change our privacy polic
 
 We use third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. Any complaints or concerns with regards to content or to report any abuse of laws or breach of these terms may be taken up with the designated grievance officer as mentioned below via post or by sending an email to [grievance.zigwheels@indiatimes.co.in](mailto:grievance.zigwheels@indiatimes.co.in) to 
 
-Mr./Ms Himanshu Narang ("Grievance Officer") 
+Mr. Himanshu Narang ("Grievance Officer") 
 
 Times Internet Limited   
 [ http://www.timesinternet.in/](http://www.timesinternet.in/)
