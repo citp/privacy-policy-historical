@@ -1,46 +1,6 @@
-> *The following text is extracted and transformed from the websense.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121013738id_/http%3A//www.websense.com/content/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the websense.com privacy policy that was archived on 2015-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150616092811id_/http%3A//www.websense.com/content/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy — Websense.com
-
-[Home](https://web.archive.org/content/Home.aspx) > [Company](https://web.archive.org/content/company.aspx) > [Legal](https://web.archive.org/content/legal.aspx) > Privacy Policy
-
-  * [Overview](https://web.archive.org/content/company.aspx)
-
-  * [Management](https://web.archive.org/content/management.aspx)
-
-  * [History](https://web.archive.org/content/company-timeline.aspx)
-
-    * [ Accolades](https://web.archive.org/content/accolades.aspx)
-  * [Events](https://web.archive.org/content/events.aspx)
-
-  * [Legal](https://web.archive.org/content/legal.aspx)
-
-    * [ Privacy Policy](https://web.archive.org/content/privacy-policy.aspx)
-    * [ Product Development Practices](https://web.archive.org/content/product-development-practices.aspx)
-    * [ Anti-Censorship Policy](https://web.archive.org/content/censorship-policy.aspx)
-    * [ Copyright and Trademarks](https://web.archive.org/content/copyright.aspx)
-    * [ Technical Support](https://web.archive.org/content/legal-technical-support.aspx)
-  * [Corporate Responsibility](https://web.archive.org/content/corporate-responsibility.aspx)
-
-  * [News and Views](https://web.archive.org/content/news-and-views.aspx)
-
-  * [Blocked by Websense?](https://web.archive.org/content/blocked-by-websense.aspx)
-
-  * [Terms and Conditions](https://web.archive.org/content/websense-terms-and-conditions.aspx)
-
-    * [ Product User Terms and Conditions](https://web.archive.org/content/product-end-user-terms-and-conditions.aspx)
-    * [ Reseller Terms and Conditions](https://web.archive.org/content/reseller-terms-and-conditions.aspx)
-    * [ Hardware Terms of Sale](https://web.archive.org/content/hardware-terms-of-sale.aspx)
-  * [Contact Us](https://web.archive.org/content/contact-us.aspx)
-
-    * [ Office Directions](https://web.archive.org/content/office-directions.aspx)
-  * [Websense Executive Briefing Center](https://web.archive.org/content/websense-executive-briefing-center.aspx)
-
-  * [Careers](https://web.archive.org/content/careers.aspx)
-
-    * [ Careers Listing](https://web.archive.org/content/careers-listing.aspx)
-
-
 
 ## Privacy Policy
 
@@ -128,25 +88,25 @@ To the extent we share information with our service providers or agents, such bu
 
 ### 4\. Your Choices
 
-We and our business partners may contact you by mail, telephone, fax, email or other electronic messaging service with offers of goods, services, promotions or other information that may be of interest to you. By providing us with your contact details you consent to being contacted by these methods for these purposes. If you do not want to receive marketing information from us or our business partners please let us know by sending an email with your name, full mailing address and e-mail address to [privacy@websense.com](mailto:privacy@websense.com) requesting to **opt-out.**
+We and our business partners may contact you by mail, telephone, fax, email or other electronic messaging service with offers of goods, services, promotions or other information that may be of interest to you. By providing us with your contact details you consent to being contacted by these methods for these purposes. You may opt-out of receiving marketing messages from Websense by sending an email with your name, full mailing address and email address to [privacy@websense.com](mailto:privacy@websense.com) or by unsubscribing via the [**Communication Preference Center**](https://a1.websense.com/CommunicationPreferenceCenter.html "Communication Preference Center").
 
 ### 5\. Accessing and Changing Your Information.
 
 Websense seeks to ensure that your information and preferences are accurate and complete and you have the right to change your information and/or preferences at any time. If you wish to do so, let us know by sending an e-mail with your name, full mailing address and e-mail address to [privacy@websense.com](mailto:privacy@websense.com) together with a description of the changes you request. You may also make changes by writing Websense at:
 
-Websense, Inc.  
 Attention: General Counsel  
-10240 Sorrento Valley Road  
-San Diego, CA 92121  
-USA
+Websense Inc.  
+10900-A Stonelake Blvd  
+Quarry Oaks 1, Suite 350  
+Austin TX 78759
 
 You also have a right to access your personal data in our possession. To obtain a copy of the personal information we hold about you, please write to:
 
-Websense, Inc.  
 Attention: General Counsel  
-10240 Sorrento Valley Road  
-San Diego, CA 92121  
-USA
+Websense Inc.  
+10900-A Stonelake Blvd  
+Quarry Oaks 1, Suite 350  
+Austin TX 78759
 
 and enclose a check for $15 payable to Websense, Inc.
 
@@ -178,12 +138,12 @@ Websense or any of its related entities could merge with or be acquired by anoth
 
 If you have any questions or concerns about our use of your information or about this Privacy Policy, please send an e-mail to [privacy@websense.com](mailto:privacy@websense.com) or write us at:
 
-Websense, Inc.  
 Attention: General Counsel  
-10240 Sorrento Valley Road  
-San Diego, CA 92121  
-USA 
+Websense Inc.  
+10900-A Stonelake Blvd  
+Quarry Oaks 1, Suite 350  
+Austin TX 78759
 
 In your email or letter state your question or concern as clearly as possible.
 
-*Websense, Inc. subsidiaries include Websense International Limited, Websense International Technology Limited, Websense Japan KK, Websense Canada, Websense UK Limited, Websense (Australia) Pty. Ltd., Websense Software Services India Private Limited, Websense Network Security Technology R&D (Beijing) Co. Ltd., Security Software Websense Israel Ltd., SurfControl Limited, SurfControl Israel Limited, SurfControl (Canada) Limited, SurfControl (Japan) Limited, SurfControl On-Demand Limited, SurfControl Inc., SurfControl Pty Ltd.
+*Websense, Inc. subsidiaries include Websense International Limited, Websense International Technology Limited, Websense Japan KK, Websense Canada, Websense UK Limited, Websense (Australia) Pty. Ltd., Websense Software Services India Private Limited, Websense Network Security Technology R&D (Beijing) Co. Ltd., Security Software Websense Israel Ltd., SurfControl Limited, SurfControl Israel Limited, SurfControl (Canada) Limited, SurfControl (Japan) Limited, SurfControl On-Demand Limited, SurfControl Inc., SurfControl Pty Ltd
