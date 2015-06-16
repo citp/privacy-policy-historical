@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the thegateacademy.com privacy policy that was archived on 2014-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141125164836id_/http%3A//thegateacademy.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thegateacademy.com privacy policy that was archived on 2015-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150616225333id_/http%3A//thegateacademy.com/privacy-statements) for the most accurate reproduction.*
 
-# Privacy Statement | THE GATE ACADEMY
-
-You are here: [Home](http://thegateacademy.com/) / Privacy Statement
+# Privacy Statements - THE GATE ACADEMY
 
 This Privacy Policy describes the information, as part of the normal operation of our services, we collect from you and what may happen to that information.  
 Please read this privacy policy to learn more about the ways in which we use and protect your personal information. By accepting the Privacy Policy and Service Agreement in registration or by visiting and using the Site, you expressly consent to our use and disclosure of your personal information in accordance with this Privacy Policy. This Privacy Policy is incorporated into and subject to the terms of the THE GATE ACADEMY Service Agreement
