@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the cricwindow.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120153744id_/http%3A//www.cricwindow.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cricwindow.com privacy policy that was archived on 2015-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150616230129id_/http%3A//www.cricwindow.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy of cricwindow.com
 
 |  |   
 ---  
-| [](http://fanapp.mobi/ipl7livescore)  
+| [](https://web.archive.org/web/20150616230129id_/http%3A//www.cricwindow.com/mobile-apps.html)  
 ---  
 |   
 ---  
