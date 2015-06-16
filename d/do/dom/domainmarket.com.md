@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the domainmarket.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230045715id_/http%3A//www.domainmarket.com/info/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the domainmarket.com privacy policy that was archived on 2015-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150616185538id_/http%3A//www.domainmarket.com/info/privacy.php) for the most accurate reproduction.*
 
 # Domain Name Privacy Policy & Protection Information | DomainMarket.com
+
+[](http://www.domainmarket.com/)
+
+**Customer Support:** (888) 694-6735 
 
 ## What’s in a Domain Name?
 
