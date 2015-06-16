@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ecoustics.com privacy policy that was archived on 2013-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131109015421id_/http%3A//www.ecoustics.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ecoustics.com privacy policy that was archived on 2015-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150616094451id_/http%3A//www.ecoustics.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - eCoustics.com
+# Privacy Policy - ecoustics.com
 
 eCoustics, LLC (“eCoustics”), which owns and operates the website(s) under the domain name (“ecoustics.com”) understand and respect the need for the privacy of its users. To keep you informed of our privacy policies, we have provided this document disclosing eCoustics’ intent, purpose and use of possibly private information, and detailing the methods of gathering of such information.
 
@@ -35,8 +35,9 @@ Though eCoustics will take reasonable measures to ensure that users under the ag
 ### Privacy Contact Info:
 
 eCoustics, LLC  
-P.O Box 631  
-San Francisco, CA 94104  
+Attn: Brian Mitchell  
+900 W Olympic Blvd  
+Los Angeles, CA 90015  
 USA
 
 Phone: (415) 935-4888 / Fax: (978) 285-5563
