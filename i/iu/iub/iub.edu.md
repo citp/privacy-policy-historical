@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the iub.edu privacy policy that was archived on 2014-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141204214427id_/http%3A//www.iub.edu/privacy/index.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iub.edu privacy policy that was archived on 2015-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150616050153id_/http%3A//www.iub.edu/privacy) for the most accurate reproduction.*
 
 # IU Bloomington Website Privacy Notice
 
 ### IU Bloomington Website Privacy Notice
 
-Effective: 2012-01-27
+Effective: 2014-12-10
 
 #### General
 
@@ -79,7 +79,11 @@ This website uses Google Analytics, a web analytics service provided by Google, 
 
 For more information, please visit [Google's Privacy Center](http://www.google.com/privacy).
 
-#### Disclosure of Information
+###### Additional Information Related to the Use of Third Party Services
+
+This website utilizes advertising services provided by [Fathom](https://www.fathomdelivers.com/), an advertising technology company, contracted by Indiana University. For more information, please visit [Fathom’s Privacy Policy](https://www.fathomdelivers.com/privacy-policy/).
+
+###### Disclosure of Information
 
 We may share some aggregate information with other appropriate university personnel and units to ensure the quality, functionality, and security of our website/application.
 
