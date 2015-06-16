@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the current-movie-reviews.com privacy policy that was archived on 2014-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141113215439id_/http%3A//www.current-movie-reviews.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the current-movie-reviews.com privacy policy that was archived on 2015-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150616054513id_/http%3A//www.current-movie-reviews.com/privacy) for the most accurate reproduction.*
 
-# Privacy — CMR
+# Privacy | CMR
 
 The following information is specific to CMR and the Adsense Dart Cookies. Google recently updated their privacy policy across all services. You may view [Google’s new policy here](http://www.current-movie-reviews.com/new-privacy-policy-from-google/).
 
