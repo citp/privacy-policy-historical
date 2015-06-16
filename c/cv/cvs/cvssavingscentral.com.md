@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cvssavingscentral.com privacy policy that was archived on 2014-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141226033422id_/http%3A//www.cvs.com/help/privacy_policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cvssavingscentral.com privacy policy that was archived on 2015-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150616232957id_/http%3A//www.cvs.com/help/privacy_policy.jsp) for the most accurate reproduction.*
 
 # CVS pharmacy
 
