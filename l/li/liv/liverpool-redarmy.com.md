@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the liverpool-redarmy.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625141206id_/http%3A//liverpool-redarmy.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the liverpool-redarmy.com privacy policy that was archived on 2015-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150616080533id_/http%3A//liverpool-redarmy.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Liverpool Red Army
 
@@ -6,7 +6,7 @@
 
 We are committed to: protecting the personal information you give us telling you how we use the information we gather about you getting your consent to our disclosure of your personal information.
 
-Our privacy policy is set out in detail below. Any changes to this policy will be posted here. Please also refer to the Terms and Conditions of this web site. TRINITY MIRROR NORTH WEST & NORTH WALES LIMITED is part of Trinity Mirror Plc and when we refer to "we" in this policy we mean the activities of the Trinity Mirror Group
+Our privacy policy is set out in detail below. Any changes to this policy will be posted here. Please also refer to the Terms and Conditions of this web site. TRINITY MIRROR NORTH WEST & NORTH WALES LIMITED is part of Trinity Mirror Plc and when we refer to “we” in this policy we mean the activities of the Trinity Mirror Group
 
 **WHY WE COLLECT INFORMATION ABOUT YOU**
 
@@ -23,7 +23,7 @@ We compile anonymous records of user trends which we may make use of ourselves, 
 
 We may collect information from you when you fill in an online registration form for any of our web site services, (e.g., chat areas, your Profile page, forums, shopping, advisory services, competitions etc.). We may also collect information you give us over the telephone or in written or other communications. The type of information we will collect includes, for example, your name, mailing address, email address, telephone numbers, gender, preferences and, where relevant, financial, credit card or bank details.
 
-We collect information about your use of our sites' web site services through "cookies". For more information on "cookies" please see our Cookie Policy which forms part of this Privacy Policy.
+We collect information about your use of our sites’ web site services through “cookies”. For more information on “cookies” please see our Cookie Policy which forms part of this Privacy Policy.
 
 Where it is lawful, we may monitor emails you send and receive.
 
@@ -57,7 +57,7 @@ Our site(s) include applications, content and/or ads from third parties that may
 
 **AD SERVING TECHNOLOGY**
 
-"Liverpool Red Army" may use third-party advertising companies to serve ads. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please visit <http://www.networkadvertising.org/managing/opt_out.asp> .
+“Liverpool Red Army” may use third-party advertising companies to serve ads. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please visit <http://www.networkadvertising.org/managing/opt_out.asp> .
 
 **REALMEDIA AD SERVING TECHNOLOGY**
 
@@ -65,10 +65,10 @@ We use ad serving technology to display the ads on our web pages. We use the coo
 
 If you do not wish this to happen, you can either Click Here to obtain opt-out details or you can use the cookie preference settings in your browser to manage this process.
 
-More information on this can be found in the "Help" section of the browser that you are using.
+More information on this can be found in the “Help” section of the browser that you are using.
 
 **OMNITURE ANALYTICS**
 
 Trinity Mirror North West & North Wales Limited engages Omniture, a third-party Web traffic analysis company, to log and aggregate information coming through our Web site on our behalf. Trinity Mirror North West & North Wales Limited controls how that data may and may not be used. When you visit our Web site, Omniture may use technical tracking methods such as cookies that will be listed under the domain 2o7.net, and web beacons, on our behalf, and may receive anonymous information about your browsing on our Web site. Omniture does not use these technical tracking methods to relate Web site visitors to any personally identifiable information. Information collected by Omniture on behalf of Trinity Mirror North West & North Wales Limited is unique to individual visitors but is not personally identifiable to Omniture. Such information provided by Omniture to Media Wales Limited may be reassociated by Media Wales Limited with previously collected information for internal purposes only, including but not limited to providing visitors with relevant content. We may also use these technical tracking methods in HTML e-mails to determine whether the recipients have opened such e-mails, clicked on links contained in those e-mails, and continued to browse our Web site. No personally identifiable information, such as your name, street address, e-mail address, etc. is shared with Omniture.
 
-Further information regarding Omniture's privacy statement can be found by clicking [here](http://www.omniture.com/privacy/product).
+Further information regarding Omniture’s privacy statement can be found by clicking [here](http://www.omniture.com/privacy/product).
