@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 8tracks.com privacy policy that was archived on 2014-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141218222748id_/http%3A//8tracks.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 8tracks.com privacy policy that was archived on 2015-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150617015551id_/http%3A//8tracks.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy | 8tracks radio
 
@@ -23,7 +23,7 @@ _The Information 8tracks Collects_
 
   * We may use your email address, without further consent, for administrative communications such as notifying you of major 8tracks Platform updates, for customer service purposes, and to send privacy or security related notices. 
   * 8tracks uses all of the information that we collect to understand the usage trends and preferences of our Users, to improve the way the 8tracks Platform works and looks, and to create new features and functionality. 
-  * tracks may use "Automatically Collected" information and "Cookies" information to: (a) automatically update the 8tracks application on your system; (b) remember your information so that you will not have to re-enter it during your visit or the next time you access the 8tracks Platform; (c) provide customized third-party advertisements, content and information both on and off the 8tracks Platform; (d) monitor and report on the effectiveness of third-party marketing campaigns; (e) monitor and report aggregate usage metrics such as total number of visitors and pages accessed; and (d) track your entries, submissions, and status in any promotions or other activities; and (e) track and enforce any programming limitations adopted by the Service, including by way of example and not limitation, how frequently you may listen to a particular playlist within a defined time period.
+  * 8tracks may use "Automatically Collected" information and "Cookies" information to: (a) automatically update the 8tracks application on your system; (b) remember your information so that you will not have to re-enter it during your visit or the next time you access the 8tracks Platform; (c) provide customized third-party advertisements, content and information both on and off the 8tracks Platform; (d) monitor and report on the effectiveness of third-party marketing campaigns; (e) monitor and report aggregate usage metrics such as total number of visitors and pages accessed; and (d) track your entries, submissions, and status in any promotions or other activities; and (e) track and enforce any programming limitations adopted by the Service, including by way of example and not limitation, how frequently you may listen to a particular playlist within a defined time period.
 
 
 
