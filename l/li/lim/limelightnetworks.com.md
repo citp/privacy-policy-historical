@@ -1,20 +1,14 @@
-> *The following text is extracted and transformed from the limelightnetworks.com privacy policy that was archived on 2014-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141224063042id_/http%3A//www.limelight.com/company/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the limelightnetworks.com privacy policy that was archived on 2015-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150616134653id_/http%3A//www.limelight.com/company/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Limelight Networks
 
-Welcome to the Limelight Networks, Inc. ("Limelight") web site ([www.limelight.com](http://www.limelight.com/), the "Site") and Limelight services platform (the "Limelight Platform"), operated and produced by Limelight. Limelight values the privacy of the users, subscribers, publishers, members, and others who visit and use the Limelight Platform (collectively or individually, "you" or "Users"). 
+Welcome to the Limelight Networks, Inc. (“Limelight”) web site ([www.limelight.com](http://www.limelight.com/) the “Site”) and Limelight services platform (the “Limelight Platform”), operated and produced by Limelight. Limelight values the privacy of the users, subscribers, publishers, members, and others who visit and use the Limelight Platform (collectively or individually, “you” or “Users”).
 
-This privacy policy covers the web site [www.limelight.com](http://www.limelight.com/), as well as the Limelight services platform. By using the Limelight Platform, you expressly consent to the information handling practices described in this Privacy Policy. If you do not agree with our Privacy Policy, please do not use the Site or Limelight Platform. 
+This privacy policy covers the web site [www.limelight.com](http://www.limelight.com/), as well as the Limelight Platform. By using the Site or Limelight Platform, you expressly consent to the information handling practices described in this Privacy Policy. If you do not agree with our Privacy Policy, please do not use the Site or Limelight Platform.
 
 This Privacy Policy should be read in connection with the Limelight Acceptable Use Policy. Your use of the Site and Limelight Platform and any personally identifiable information you provide are subject at all times to this Privacy Policy and the Acceptable Use Policy. 
 
-TRUSTe certification
-
-Limelight Networks, Inc. has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personally identifiable information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. The TRUSTe program only covers information that is collected through [www.limelight.com](http://www.limelight.com/) and the Limelight Platform.
-
-If you have questions or concerns regarding this statement, you should first contact websupport@llnw.com. If you are not satisfied with our response you can contact [TRUSTe here](https://feedback-form.truste.com/watchdog/request).
-
-Limelight Networks, Inc. complies with the U.S. - E.U. Safe Harbor framework and the U.S. - Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland. Limelight Networks, Inc. has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Limelight Networks, Inc.'s certification, please visit <http://www.export.gov/safeharbor/>
+Limelight Networks, Inc. complies with the U.S. – E.U. Safe Harbor framework and the U.S. - Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland. Limelight Networks, Inc. has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Limelight Networks, Inc.’s certification, please visit <http://www.export.gov/safeharbor/>
 
 TABLE OF CONTENTS
 
@@ -136,7 +130,7 @@ For revisions to this Privacy Policy that may be materially less restrictive on 
 
 ## 9\. Effective Date, Date Last Modified:
 
-Privacy Policy effective as of August 7, 2014. 
+Privacy Policy effective as of April 6, 2015. 
 
 ## 10\. Other Information:
 
