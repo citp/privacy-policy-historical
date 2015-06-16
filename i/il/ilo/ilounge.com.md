@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ilounge.com privacy policy that was archived on 2014-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141225021444id_/http%3A//www.ilounge.com/index.php/ilounge/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ilounge.com privacy policy that was archived on 2015-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150616040551id_/http%3A//www.ilounge.com/index.php/ilounge/privacy_policy) for the most accurate reproduction.*
 
 # iLounge Privacy Policy
 
@@ -20,51 +20,51 @@ Last updated 07|08|14
 
 ### Recent News
 
-  * [Happy Holidays from iLounge!](http://www.ilounge.com/index.php/news/comments/happy-holidays-from-ilounge4 "Happy Holidays from iLounge!")
-  * [Russian Apple Online Store returns with increased prices](http://www.ilounge.com/index.php/news/comments/russian-apple-online-store-returns-with-increased-prices "Russian Apple Online Store returns with increased prices")
-  * [Cook ‘deeply offended’ by BBC allegations](http://www.ilounge.com/index.php/news/comments/cook-deeply-offended-by-bbc-allegations "Cook ‘deeply offended’ by BBC allegations")
-  * [BBC investigative report claims Apple fails to protect Chinese workers](http://www.ilounge.com/index.php/news/comments/bbc-investigative-report-claims-apple-fails-to-protect-chinese-workers "BBC investigative report claims Apple fails to protect Chinese workers")
-  * [Apple releases iOS 8.2 beta 3 to developers](http://www.ilounge.com/index.php/news/comments/apple-releases-ios-8.2-beta-3-to-developers "Apple releases iOS 8.2 beta 3 to developers")
+  * [Apple reveals Apple Music pay distribution](http://www.ilounge.com/index.php/news/comments/apple-reveals-apple-music-pay-distribution "Apple reveals Apple Music pay distribution")
+  * [Report: Apple killed Beats home audio project after acquisition](http://www.ilounge.com/index.php/news/comments/report-apple-killed-beats-home-audio-project-after-acquisition "Report: Apple killed Beats home audio project after acquisition")
+  * [iOS 9 keyboard hints at ‘iPad Pro’](http://www.ilounge.com/index.php/news/comments/ios-9-keyboard-hints-at-ipad-pro "iOS 9 keyboard hints at ‘iPad Pro’")
+  * [Parrot announces 13 new Minidrones](http://www.ilounge.com/index.php/news/comments/parrot-announces-13-new-minidrones "Parrot announces 13 new Minidrones")
+  * [iOS 9 Transit goes beyond core cities](http://www.ilounge.com/index.php/news/comments/ios-9-transit-goes-beyond-core-cities "iOS 9 Transit goes beyond core cities")
 
 
-  * [Tim Cook announces $20M raised for (PRODUCT)RED in internal e-mail](http://www.ilounge.com/index.php/news/comments/tim-cook-announces-20m-raised-for-product-red-in-internal-e-mail "Tim Cook announces $20M raised for \(PRODUCT\)RED in internal e-mail")
-  * [Apple announces 64-bit and iOS 8 requirements for app updates](http://www.ilounge.com/index.php/news/comments/apple-announces-64-bit-and-ios-8-requirements-for-app-updates "Apple announces 64-bit and iOS 8 requirements for app updates")
-  * [Apple ordered to turn over records in Canadian iPhone antitrust probe](http://www.ilounge.com/index.php/news/comments/apple-ordered-to-turn-over-records-in-canadian-iphone-antitrust-probe "Apple ordered to turn over records in Canadian iPhone antitrust probe")
-  * [Apple halts online sales in Russia](http://www.ilounge.com/index.php/news/comments/apple-halts-online-sales-in-russia "Apple halts online sales in Russia")
-  * [Apple found not guilty in iPod, iTunes Store lock-in suit](http://www.ilounge.com/index.php/news/comments/apple-found-not-guilty-in-ipod-itunes-store-lock-in-suit "Apple found not guilty in iPod, iTunes Store lock-in suit")
+  * [Apple’s retail bag check policies were brought to Cook’s attention](http://www.ilounge.com/index.php/news/comments/apples-retail-bag-check-policies-were-brought-to-cooks-attention "Apple’s retail bag check policies were brought to Cook’s attention")
+  * [iOS 9 code hints at 1080p front camera in future Apple devices](http://www.ilounge.com/index.php/news/comments/ios-9-code-hints-at-1080p-front-camera-in-future-apple-devices "iOS 9 code hints at 1080p front camera in future Apple devices")
+  * [Bug allows phishing attacks in iOS Mail](http://www.ilounge.com/index.php/news/comments/bug-allows-phishing-attacks-in-ios-mail "Bug allows phishing attacks in iOS Mail")
+  * [Apple vans collecting Maps data in U.S., England and Ireland](http://www.ilounge.com/index.php/news/comments/apple-vans-collecting-maps-data-in-u.s.-england-and-ireland "Apple vans collecting Maps data in U.S., England and Ireland")
+  * [Apple releases iOS 8.4 beta with redesigned Music app](http://www.ilounge.com/index.php/news/comments/apple-releases-ios-8.4-beta-with-music-app "Apple releases iOS 8.4 beta with redesigned Music app")
 
 
 
 ### Recent Reviews
 
-  * [BuQu Tech PowerArmour Battery Case for iPhone 6](http://www.ilounge.com/index.php/reviews/entry/buqu-tech-powerarmour-battery-case-for-iphone-6 "BuQu Tech PowerArmour Battery Case for iPhone 6")
-  * [Grovemade Maple iPhone Case for iPhone 6](http://www.ilounge.com/index.php/reviews/entry/grovemade-maple-iphone-case-for-iphone-6 "Grovemade Maple iPhone Case for iPhone 6")
-  * [Tylt Energi Sliding Power Case for iPhone 6](http://www.ilounge.com/index.php/reviews/entry/tylt-energi-sliding-power-case-for-iphone-6 "Tylt Energi Sliding Power Case for iPhone 6")
-  * [Just Mobile TopGum](http://www.ilounge.com/index.php/reviews/entry/just-mobile-topgum "Just Mobile TopGum")
-  * [Kenu Highline for iPhone 6 + iPhone 6 Plus](http://www.ilounge.com/index.php/reviews/entry/kenu-highline-for-iphone-6-iphone-6-plus "Kenu Highline for iPhone 6 + iPhone 6 Plus")
+  * [Olloclip Active Lens for iPhone 6 and iPhone 6 Plus](http://www.ilounge.com/index.php/reviews/entry/olloclip-active-lens-for-iphone-6-and-iphone-6-plus "Olloclip Active Lens for iPhone 6 and iPhone 6 Plus")
+  * [Audiofly AF120 In-Ear Monitors](http://www.ilounge.com/index.php/reviews/entry/audiofly-af120-in-ear-monitors "Audiofly AF120 In-Ear Monitors")
+  * [SwitchEasy Canvas + Rave for iPad Air 2](http://www.ilounge.com/index.php/reviews/entry/switcheasy-canvas-rave-for-ipad-air-2 "SwitchEasy Canvas + Rave for iPad Air 2")
+  * [Incipio Ghost Qi for iPhone 6](http://www.ilounge.com/index.php/reviews/entry/incipio-ghost-qi-for-iphone-6 "Incipio Ghost Qi for iPhone 6")
+  * [SwitchEasy Helix for iPhone 6](http://www.ilounge.com/index.php/reviews/entry/switcheasy-helix-for-iphone-6 "SwitchEasy Helix for iPhone 6")
 
 
-  * [STM Dux for iPhone 6](http://www.ilounge.com/index.php/reviews/entry/stm-dux-for-iphone-6 "STM Dux for iPhone 6")
-  * [Kenu Stance Compact Tripod for iPhone](http://www.ilounge.com/index.php/reviews/entry/kenu-stance-compact-tripod-for-iphone "Kenu Stance Compact Tripod for iPhone")
-  * [SwitchEasy Boombox for iPhone 6](http://www.ilounge.com/index.php/reviews/entry/switcheasy-boombox-for-iphone-6 "SwitchEasy Boombox for iPhone 6")
-  * [STM Skinny Pro for iPad Air 2](http://www.ilounge.com/index.php/reviews/entry/stm-skinny-pro-for-ipad-air-2 "STM Skinny Pro for iPad Air 2")
-  * [SwitchEasy Rave for iPhone 6, iPhone 6 Plus + Wrap for iPhone 6 Plus](http://www.ilounge.com/index.php/reviews/entry/switcheasy-rave-for-iphone-6-iphone-6-plus-wrap-for-iphone-6-plus1 "SwitchEasy Rave for iPhone 6, iPhone 6 Plus + Wrap for iPhone 6 Plus")
+  * [ZeroChroma Keyboard Slide-Lid](http://www.ilounge.com/index.php/reviews/entry/zerochroma-keyboard-slide-lid "ZeroChroma Keyboard Slide-Lid")
+  * [RooCase Esteem for iPhone 6](http://www.ilounge.com/index.php/reviews/entry/roocase-esteem-for-iphone-6 "RooCase Esteem for iPhone 6")
+  * [Spigen Apple Watch Stand S330](http://www.ilounge.com/index.php/reviews/entry/spigen-apple-watch-stand-s330 "Spigen Apple Watch Stand S330")
+  * [Griffin WatchStand for Apple Watch](http://www.ilounge.com/index.php/reviews/entry/griffin-watchstand-for-apple-watch "Griffin WatchStand for Apple Watch")
+  * [Apple iPhone Lightning Dock](http://www.ilounge.com/index.php/reviews/entry/apple-iphone-lightning-dock "Apple iPhone Lightning Dock")
 
 
 
 ### Recent Articles
 
-  * [Last-Minute Holiday Gift Guide for 2014](http://www.ilounge.com/index.php/articles/comments/last-minute-holiday-gift-guide-for-2014 "Last-Minute Holiday Gift Guide for 2014")
-  * [Instant Expert: Secrets & Features of iTunes 12](http://www.ilounge.com/index.php/articles/comments/instant-expert-secrets-features-of-itunes-12 "Instant Expert: Secrets & Features of iTunes 12")
-  * [Instant Expert: Secrets & Features of iOS 8.1](http://www.ilounge.com/index.php/articles/comments/instant-expert-secrets-features-of-ios-8.1 "Instant Expert: Secrets & Features of iOS 8.1")
-  * [An Easy Guide To Setting Up + Using Apple Pay In iOS 8.1](http://www.ilounge.com/index.php/articles/comments/an-easy-guide-to-setting-up-using-apple-pay-in-ios-8.1 "An Easy Guide To Setting Up + Using Apple Pay In iOS 8.1")
-  * [Ten Things You Didn’t Know About iPad Air 2 + iPad mini 3](http://www.ilounge.com/index.php/articles/comments/ten-things-you-didnt-know-about-ipad-air-2-ipad-mini-3 "Ten Things You Didn’t Know About iPad Air 2 + iPad mini 3")
+  * [A First Look at iOS 9’s Transit in Apple Maps](http://www.ilounge.com/index.php/articles/comments/a-first-look-at-ios-9s-transit-in-apple-maps "A First Look at iOS 9’s Transit in Apple Maps")
+  * [Opinion: The ‘Grand Experiment’ of shifting to Google Photos](http://www.ilounge.com/index.php/articles/comments/opinion-the-grand-experiment-of-shifting-to-google-photos "Opinion: The ‘Grand Experiment’ of shifting to Google Photos")
+  * [Will removing a credit card from Safari also remove it from Apple Pay?](http://www.ilounge.com/index.php/articles/comments/will-removing-a-credit-card-from-safari-also-remove-it-from-apple-pay "Will removing a credit card from Safari also remove it from Apple Pay?")
+  * [Can I mute Handoff calls coming into my Mac from my iPhone?](http://www.ilounge.com/index.php/articles/comments/can-i-mute-handoff-calls-coming-into-my-mac-from-my-iphone "Can I mute Handoff calls coming into my Mac from my iPhone?")
+  * [How do I keep my iPhone calls from ringing on my Mac?](http://www.ilounge.com/index.php/articles/comments/how-do-i-keep-my-iphone-calls-from-ringing-on-my-mac "How do I keep my iPhone calls from ringing on my Mac?")
 
 
-  * [Mind The Gap: What’s iPad’s Role In An iPhone 6 (Plus) World?](http://www.ilounge.com/index.php/articles/comments/mind-the-gap-whats-ipads-role-in-an-iphone-6-plus-world "Mind The Gap: What’s iPad’s Role In An iPhone 6 \(Plus\) World?")
-  * [Editorial: Why I Switched To T-Mobile (And You Might, Too)](http://www.ilounge.com/index.php/articles/comments/editorial-why-i-switched-to-t-mobile-and-you-might-too "Editorial: Why I Switched To T-Mobile \(And You Might, Too\)")
-  * [The Early Guide To Apple Watch Apps](http://www.ilounge.com/index.php/articles/comments/the-early-guide-to-apple-watch-apps "The Early Guide To Apple Watch Apps")
-  * [iLounge’s Top iPhone 6 + iPhone 6 Plus Case Picks (Fall 2014)](http://www.ilounge.com/index.php/articles/comments/ilounges-top-iphone-6-iphone-6-plus-case-picks-fall-2014 "iLounge’s Top iPhone 6 + iPhone 6 Plus Case Picks \(Fall 2014\)")
-  * [Instant Expert: Secrets & Features of iOS 8.0](http://www.ilounge.com/index.php/articles/comments/instant-expert-secrets-features-of-ios-8.0 "Instant Expert: Secrets & Features of iOS 8.0")
+  * [Why doesn’t Traffic show up on my Today Notifications Screen?](http://www.ilounge.com/index.php/articles/comments/why-doesnt-traffic-show-up-on-my-today-notifications-screen "Why doesn’t Traffic show up on my Today Notifications Screen?")
+  * [Why doesn’t my iPhone reconnect to Wi-Fi after I turn it on?](http://www.ilounge.com/index.php/articles/comments/why-doesnt-my-iphone-reconnect-to-wi-fi-after-i-turn-it-on "Why doesn’t my iPhone reconnect to Wi-Fi after I turn it on?")
+  * [Why can’t I see the iPad-style landscape view on my iPhone 6 Plus?](http://www.ilounge.com/index.php/articles/comments/why-cant-i-see-the-ipad-style-landscape-view-on-my-iphone-6-plus "Why can’t I see the iPad-style landscape view on my iPhone 6 Plus?")
+  * [Is there a point to having both iCloud Photo Library and iCloud Photo Stream enabled?](http://www.ilounge.com/index.php/articles/comments/is-there-a-point-to-having-both-icloud-photo-library-and-icloud-photo-strea "Is there a point to having both iCloud Photo Library and iCloud Photo Stream enabled?")
+  * [Why can’t I set a longer passcode timeout on my iPhone 6 Plus?](http://www.ilounge.com/index.php/articles/comments/why-cant-i-set-a-longer-passcode-timeout-on-my-iphone-6-plus "Why can’t I set a longer passcode timeout on my iPhone 6 Plus?")
 
 
