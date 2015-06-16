@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the gamesq8.com privacy policy that was archived on 2013-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131124074529id_/http%3A//gamesq8.com/content/12-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamesq8.com privacy policy that was archived on 2015-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150617001954id_/http%3A//gamesq8.com/content/12-privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - GamesQ8.com
 
 **Privacy Policy**
 
-This privacy policy sets out how GamesQ8.com uses and protects any information that you give GamesQ8.com when you use this website.
+This privacy policy sets out how **GamesQ8.com** uses and protects any information that you give **GamesQ8.com** when you use this website.
 
-GamesQ8.com is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
+ **GamesQ8.com** is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
 
-GamesQ8.com may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 20/7/2013.
+ **GamesQ8.com** may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 20/7/2013.
 
  **What we collect**
 
@@ -16,14 +16,15 @@ We may collect the following information:
 
   * Contact information including email address, Phone & Mobile number.
   * Delivery & billing addresses information such as where you live or work.
-  * transactional information based on your activities on the sites
-  * other information relevant to customer surveys and/or offers.
+  * Transactional information based on your activities on the sites
+  * Other information relevant to customer surveys and/or offers.
 
 
 
  **What GamesQ8.com does with your information?**
 
-  * Internal record keeping. 
+Internal record keeping.
+
   * We may use the information to improve our products and services. 
   * We may periodically send promotional emails **** about new products, special offers or other information which we think you may find interesting using the email address which you have provided. 
   * From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone. We may use the information to customize the website according to your interests.
