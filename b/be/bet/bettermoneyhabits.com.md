@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bettermoneyhabits.com privacy policy that was archived on 2014-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140816130222id_/https%3A//www.bankofamerica.com/privacy/overview.go) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bettermoneyhabits.com privacy policy that was archived on 2015-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150616183330id_/https%3A//www.bankofamerica.com/privacy/overview.go) for the most accurate reproduction.*
 
 # Bank of America Privacy and Security
 
