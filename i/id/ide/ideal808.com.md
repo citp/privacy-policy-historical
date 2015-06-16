@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ideal808.com privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227090533id_/http%3A//www.ideal808.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ideal808.com privacy policy that was archived on 2015-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150616102225id_/http%3A//www.ideal808.com/privacy_policy) for the most accurate reproduction.*
 
 # Ideal808 - Magic the Gathering MTG Singles, Yugioh Single Cards, Cardfight Vanguard, Boxes and Starter Decks! Premier Store Privacy Policy
 
@@ -38,4 +38,4 @@ In order to be able to use our online shopping cart system, you will need to hav
 
 ### Termination
 
-\- Our Privacy Policies and [Terms of Service](https://web.archive.org/web/20141227090533id_/http%3A/terms_of_service) are effective unless terminated by either you or Ideal808.com. You may terminate this Agreement at any time, provided that you discontinue any further use of this web site. You are personally liable for any orders placed or charges incurred through your account prior to termination. Ideal808.com reserves the right to change, suspend, or discontinue all or any aspect of this Web Site at any time without notice. * We reserve the right to change, modify or amend our policies at any given time. Please check our Privacy Policies page periodically for any changes.
+\- Our Privacy Policies and [Terms of Service](https://web.archive.org/web/20150616102225id_/http%3A/terms_of_service) are effective unless terminated by either you or Ideal808.com. You may terminate this Agreement at any time, provided that you discontinue any further use of this web site. You are personally liable for any orders placed or charges incurred through your account prior to termination. Ideal808.com reserves the right to change, suspend, or discontinue all or any aspect of this Web Site at any time without notice. * We reserve the right to change, modify or amend our policies at any given time. Please check our Privacy Policies page periodically for any changes.
