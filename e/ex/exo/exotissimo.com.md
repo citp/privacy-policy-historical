@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the exotissimo.com privacy policy that was archived on 2014-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140921145324id_/http%3A//www.exotissimo.com/exotravel/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exotissimo.com privacy policy that was archived on 2015-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150616082959id_/http%3A//www.exotravel.com/exotravel/privacy-policy) for the most accurate reproduction.*
 
-# Exotissimo Travel Privacy Policiy | Exotissimo
+# EXO Travel Privacy Policiy
 
-**Exotissimo Travel** respects your privacy. We have created this privacy statement in order to demonstrate our commitment to you, our visitor. This privacy statement discloses the privacy practices for this site, [www.exotissimo.com](http://www.exotissimo.com/ "Exotissimo Travel Website").
+**Exotissimo Travel** respects your privacy. We have created this privacy statement in order to demonstrate our commitment to you, our visitor. This privacy statement discloses the privacy practices for this site, [www.exotravel.com](http://www.exotravel.com/ "Exotissimo Travel Website").
 
 ## We will never give any information about you to others
 
@@ -22,7 +22,7 @@ As a customer of Exotissimo Travel, you may alter your customer information or o
 
 You have the following options to change and modify your customer information:
 
-  * You may send an email to [inquire@exotissimo.com](mailto:inquire@exotissimo.com "Contact Exotissimo Travel")
+  * You may send an email to [inquire@exotravel.com](mailto:inquire@exotravel.com "Contact Exotissimo Travel")
 
   * You may click on the unsubscribe link featured at the bottom of the emailing we send you
 
@@ -49,7 +49,7 @@ From time-to-time our site requests information from users via surveys. Particip
 
 ## Contacting the Web Site
 
-If you have any questions about our privacy statement, the practices of this site, or your dealings with this Web site, you can contact: [inquire@exotissimo.com](mailto:inquire@exotissimo.com "Contact Exotissimo Travel")
+If you have any questions about our privacy statement, the practices of this site, or your dealings with this Web site, you can contact: [inquire@exotravel.com](mailto:inquire@exotravel.com "Contact Exotissimo Travel")
 
 You can also reach us by post mail at:
 
