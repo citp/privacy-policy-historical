@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the kubota.com privacy policy that was archived on 2014-11-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141122005446id_/http%3A//www.kubota.com/policy/KTCPrivacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the kubota.com privacy policy that was archived on 2015-06-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150617002736id_/http%3A//kubota.com/policy/KTCPrivacy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head>
 <title>Kubota Tractor USA - KTC Policy</title>
@@ -35,6 +35,27 @@
 	productDropdown();
 	//}
 
+	//More menu and links
+	topnavBrochure();
+	moreDropdown();
+	$("#moreMerchandise").click(function(){
+		window.location.href = '/merchandise/merchandise.aspx';
+	});
+	$("#moreVideoVault").click(function(){
+		window.location.href = '/AboutKubota/KubotaVideos.aspx';
+	});
+	$("#moreKubotaFirst").click(function(){
+		window.location.href = '/AboutKubota/KubotaFirst.aspx';
+	});
+	$("#moreCareer").click(function(){
+		window.location.href = '/kubotacareers/default.aspx';
+	});
+	$("#moreFinance").click(function(){
+		window.open("/FinancingPreApproval/default.aspx","_blank");
+	});
+	
+	
+	
 	footerDropdown();
 
 	productHover();
@@ -135,7 +156,9 @@
 	//alert('menuShellHigh=' + menuShellHigh);
 	if (menuShellHigh == '130px'){
 	$('ul:first', '#finance_li').css('display', 'block');
+	//$('ul:first', '#finance_li').slideToggle(500);
 	} else {setTimeout(function(){$('ul:first', '#finance_li').css('display', 'block')},dropdownTime);}
+	//} else {setTimeout(function(){$('ul:first', '#finance_li').slideToggle(500);},dropdownTime);}
 	//$('ul:first', this).slideToggle(500);
 	$('ul:first', this).hover(function(){$("#topnav_finance").attr("src", "/topmenu/images/topnav_finance_on.png");},function(){if(topNavId!='topnav_finance'){$("#topnav_finance").attr("src", "/topmenu/images/topnav_finance.png");}});
 	}, function() {
@@ -170,6 +193,7 @@
 	function productDropdown() {
 	$('#product_li').hover(function(){
 	$('ul:first', this).css('display', 'block');
+	//$('ul:first', this).slideToggle(500);
 	if (preProduct == 'mTractors'){
 	} else {
 	$('#'+preProduct).fadeOut(100);
@@ -183,6 +207,7 @@
 	function(){if(topNavId!='topnav_product'){$("#topnav_product").attr("src", "/topmenu/images/topnav_product.png");}});
 	}, function() {
 	$('ul:first',this).css('display','none');
+	//$('ul:first',this).slideToggle(500);
 	});
 	}
 
@@ -289,7 +314,32 @@
 	);
 	}
 
+	function moreDropdown() {
+		$('#more_li').hover(function(){
+			$('ul:first', this).css('display', 'block');
+			//$('ul:first', this).slideToggle(500);
+			$('ul:first', this).hover(function(){$("#topnav_more").attr("src", "/topmenu/images/topnav_more_on.png");},function(){$("#topnav_more").attr("src", "/topmenu/images/topnav_more.png");});
+		}, function() {
+			$('ul:first',this).css('display','none');
+			//$('ul:first',this).slideToggle(500);
+		});
+	}
 
+	function topnavBrochure() {
+        //var topnavBrochure = $(".topBrochure");
+        $(".topBrochure").colorbox({ width: "90%", maxWidth: "850px", height: "97%", maxHeight: "610px;", minHeight: "590px", iframe: true, title: "<span class='h3_header3'>Kubota Product Literature Request</span>" });
+
+        $(document).bind('cbox_complete', function () {
+            var checkAttr = $($.fn.colorbox.element()).attr('frel');
+            if (checkAttr!=null && checkAttr.match('headerBrochure')) {
+                $("#cboxClose").removeClass("photogal");
+                $("#cboxTitle").removeClass("photogal");
+                if ($("#cboxExtraIcon").length > 0) {
+                    $("#cboxExtraIcon").html("");
+                }
+            }
+        });
+    }
 
 	//search
 	function doSearch() {
@@ -330,27 +380,34 @@
 <div id="menuShell">
     
 	<div id="topnav_header">
-		<h1 style="border:0px solid red;">
-			<a href="/default.aspx">
+			<a href="/default.aspx" class="no-hover">
 				<img src="/topmenu/images/ForEarthForLife.png" alt="Kubota For Earth, For Life" border="0">
 			</a>
-		</h1>
+		
 		<div style="position:absolute;right:0px;bottom:15px; width: 240px;height:20px;line-height:20px; border:0px solid red;">
 			<input type="text" name="searchTerm" id="searchTerm" value="Search" style="color:#ccc;padding: 0; margin: 0px; width: 200px; height: 18px; line-height:18px; float:left;" onkeypress="return searchBoxKeyPress(event);">&nbsp;
 			<input type="button" name="go" style="cursor:pointer;background-image: url(/topmenu/search-tool.gif); width: 25px; height: 22px; border:1px solid #fff; margin: 0px;" onclick="doSearch();">
 		</div>
 	</div>
 
+	 <!---compact header-->
+        <div id="compact_header" class="jq-header">
+            <div class="headerWrapper">
+                <div class="headerLogo" id="headerLogo" onclick="window.location.href='/'"></div>
+            </div>
+
+        </div>
+	
 	<div id="nav-global">
 		<ul id="topnav_menu" class="topnav_dropdown">
 			<li id="home_li">
 				<a href="/default.aspx">
-					<img id="topnav_home" src="/topmenu/images/topnav_home.png" alt="Home" width="192" height="37" class="imgover" border="0">
+					<img id="topnav_home" src="/topmenu/images/topnav_home.png" alt="Home" width="160" height="37" class="imgover" border="0">
 				</a>
 			</li>
 			<li id="product_li">
 				<a href="#">
-					<img id="topnav_product" src="/topmenu/images/topnav_product.png" alt="Products" width="192" height="37" class="imgover" border="0">
+					<img id="topnav_product" src="/topmenu/images/topnav_product.png" alt="Products" width="160" height="37" class="imgover" border="0">
 				</a>
 				<ul class="productDropdown">
 					<li class="productMenu">
@@ -591,7 +648,7 @@
 											<a href="/product/NewProducts.aspx">NEW PRODUCTS</a>
 										</li>
 										<li>
-											<a href="/priorproduct/BXSeries.aspx">PRIOR PRODUCTS</a>
+											<a href="/priorproduct/Default.aspx">PRIOR PRODUCTS</a>
 										</li>
 									</ul>
 								</div>
@@ -601,7 +658,7 @@
 				</ul>
 			</li>
 			<li id="finance_li">
-				<a href="#"><img id="topnav_finance" src="/topmenu/images/topnav_finance.png" alt="Finance" width="192" height="37" class="imgover" border="0"></a>
+				<a href="#"><img id="topnav_finance" src="/topmenu/images/topnav_finance.png" alt="Finance" width="160" height="37" class="imgover" border="0"></a>
 				<ul class="financeDropdown">
 						<li class="financeMenu"><a href="/Finance/finance-Home.aspx">Finance Home</a>
 							<hr>
@@ -609,7 +666,7 @@
 						<li class="financeMenu" id="financeOptions">Featured Offers
 							<ul class="subFinanceDropdown">
 								<li class="financeSubMenu">
-									<a href="/product/Z700/Z700Offer.aspx">Z700 Series</a>
+									<a href="/product/HayTools/HayToolsOffer.aspx">Hay Tools</a>
 								</li>
 								<li class="financeSubMenu">
 									<a href="/product/LSeries/LSeriesOffer.aspx">Standard L Series</a>
@@ -668,8 +725,67 @@
 						</li>
 					</ul>
 			</li>
-			<li><a href="/part/parts.aspx"><img id="topnav_part" src="/topmenu/images/topnav_part.png" alt="Parts" width="192" height="37" class="imgover" border="0"></a></li>
-			<li><a href="/locator/default.aspx"><img id="topnav_locator" src="/topmenu/images/topnav_locator.png" alt="Dealer Locator" width="192" height="37" class="imgover" border="0"></a></li>
+			<li><a href="/part/parts.aspx"><img id="topnav_part" src="/topmenu/images/topnav_part.png" alt="Parts" width="160" height="37" class="imgover" border="0"></a></li>
+			<li><a href="/locator/default.aspx"><img id="topnav_locator" src="/topmenu/images/topnav_locator.png" alt="Dealer Locator" width="160" height="37" class="imgover" border="0"></a></li>
+			<li id="more_li">
+				<a href="#">
+					<img id="topnav_more" src="/topmenu/images/topnav_more.png" alt="More" width="159" height="37" class="imgover" border="0">
+				</a>
+				<ul class="moreDropdown">
+					<li class="productMenu">
+						<div id="moreMenuWrapper">
+							<div id="moreHolder" style="box-sizing:content-box">
+								<div class="moreSubmenu" style="position:absolute;top:25px; left:0;text-align:left;">
+									<div class="moreSubmenuHeader">SUPPORT</div>
+									<a href="/contactus/RequestBrochuresForm.aspx" class="moreLink topBrochure cboxElement" frel="headerBrochure">Brochure</a><br>
+									<a href="/safety/TractorSafety.aspx" class="moreLink">Safety</a><br>
+									<a href="/service/service.aspx" class="moreLink">Service</a><br>
+									<a href="/warranty/warranty.aspx" class="moreLink">Warranty</a><br>
+									<a href="/priorproduct/GrayMarketFindOut.aspx" class="moreLink">Gray Market Tractors</a>
+								</div>
+								<div class="moreSubmenu" style="position:absolute;top:25px; left:177px;text-align:left;">
+									<div class="moreSubmenuHeader">MORE ABOUT KUBOTA</div>
+									<a href="/AboutKubota/CompanyInfo.aspx" class="moreLink">About Us</a><br>
+									<a href="/contactus/ContactKubota.aspx" class="moreLink">Contact Us</a><br>
+									<a href="/events/default.aspx" class="moreLink">Calendar of Events</a><br>
+									<a href="/kubotacareers/default.aspx" class="moreLink">Careers</a>
+								</div>
+								<div class="moreSubmenu" style="position:absolute;top:25px; left:354px;text-align:left;">
+									<div class="moreSubmenuHeader">KUBOTA AFFILIATES</div>
+									<a href="http://www.kubota-global.net/" target="_blank" class="moreLink">Kubota World Wide</a><br>
+									<a href="https://www.kubotacreditusa.com/homePrepare.do" target="_blank" class="moreLink">Kubota Credit Corp</a><br>
+									<a href="http://www.ktacinsuranceagency.com/" target="_blank" class="moreLink">KTAC Insurance</a><br>
+									<a href="http://www.kubota.ca/" target="_blank" class="moreLink">Kubota Canada Ltd.</a>
+								</div>
+								<div id="moreMerchandise" style="position:absolute;top:25px; left:553px;width:175px; height:215px;padding-left:10px; border:0;-webkit-border-radius: 5px;-moz-border-radius: 5px;border-radius:5px;background-color:#f7f6f5;cursor:pointer;text-align:left;">
+									<span style="font-weight:bold;line-height:35px;">MERCHANDISE</span><br>
+									<img src="/topmenu/images/Merchandise_popup.jpg" width="162" style="padding-bottom:15px;">
+									<span style="font-size:0.8em;line-height:14px;">Check out the Kubota Orange Zone to get the latest Kubota hats, shirts, toys and more.<br><br></span>
+									<a>SHOP NOW</a>
+								</div>
+								<div style="box-sizing:content-box;position:absolute;top:2px; left:738px;width:220px; height:262px; background:url(/topmenu/images/more_bg.png) top right no-repeat;">
+									<div id="moreVideoVault" class="moreIcons" style="box-sizing:content-box;top:21px; background:url(/topmenu/images/moreIcon_video.png) top left no-repeat;text-align:left;">
+										<span class="moreIconsHeader">VIDEO VAULT</span><br>
+										Check out our YouTube<br>video library
+									</div>
+									<div id="moreKubotaFirst" class="moreIcons" style="box-sizing:content-box;top:81px; background:url(/topmenu/images/moreIcon_kubotaFirst.png) top left no-repeat;text-align:left;">
+										<span class="moreIconsHeader">KUBOTA FIRST</span><br>
+										Be the first to know what's new with Kubota
+									</div>
+									<div id="moreCareer" class="moreIcons" style="box-sizing:content-box;top:141px; background:url(/topmenu/images/moreIcon_career.png) top left no-repeat;text-align:left;">
+										<span class="moreIconsHeader">CAREERS</span><br>
+										Exciting career opportunities at Kubota
+									</div>
+									<div id="moreFinance" class="moreIcons" style="box-sizing:content-box;top:201px; background:url(/topmenu/images/moreIcon_finance.png) top left no-repeat;text-align:left;">
+										<span class="moreIconsHeader">APPLY FOR FINANCING</span><br>
+										Great rates offered by Kubota Credit Corporation
+									</div>
+								</div>
+							</div>
+						</div>
+					</li>
+				</ul>
+			</li>
         </ul>
 		
     </div>
@@ -719,48 +835,14 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
     <div id="footer">
         <div style="position:relative;height:82px;border:0px solid green;" class="group">
             <div id="footerLinks">
-                <ul id="footerMenu" class="dropdown">
-                    <li class="level1 bg">MERCHANDISE
-                        <ul class="footerSubMenu" style="width:192px;padding:0;">
-                            <li><a href="/merchandise/merchandise.aspx"><img src="/topmenu/images/merchandise_popup.jpg" border="0"></a></li>
-                        </ul>
-                    </li>
-                    <li class="level1 bg">SUPPORT
-                        <ul class="footerSubMenu">
-                            <li><a href="/contactus/RequestBrochuresForm.aspx" class="footerBrochureFormLink cboxElement" frel="footerBrochure">Brochure Request</a> </li>
-                            <li><a href="/safety/TractorSafety.aspx">Safety</a></li>
-                            <li><a href="/service/service.aspx">Service</a></li>
-                            <li><a href="/warranty/warranty.aspx">Warranty</a></li>
-                            <li><a href="/priorproduct/GrayMarketFindOut.aspx">Gray Market Tractors</a></li>
-                        </ul>
-                    </li>
-                    <li class="level1 bg">MORE ABOUT KUBOTA
-                        <ul class="footerSubMenu">
-                            <li><a href="/AboutKubota/CompanyInfo.aspx">About Us</a> </li>
-                            <li><a href="/contactus/ContactKubota.aspx">Contact Us</a> </li>
-                            <li><a href="/events/default.aspx" title="Kubota Events">Calendar of Events</a></li>
-                            <li><a href="/kubotacareers/default.aspx">Careers</a> </li>
-                        </ul>
-                    </li>
-                    <li class="last bg">AFFILIATES
-                        <ul class="footerSubMenu">
-                            <li><a href="http://www.kubota-global.net/" target="_blank">Kubota World Wide</a></li>
-                            <li><a href="https://www.kubotacreditusa.com/homePrepare.do" target="_blank">Kubota Credit Corp</a></li>
-                            <li><a href="http://www.ktacinsuranceagency.com/" target="_blank">KTAC Insurance</a></li>
-                        </ul>
-                    </li>
-                </ul>
+	    
+		<a href="/AboutKubota/KubotaFirst.aspx"><img src="/images/subscribe.jpg" width="241" height="30" border="0" style="float:right;"></a>
+                <span class="footerTitleOrange">Sign Up For Kubota First Update</span><br>
+                Receive the latest news, special offers and exclusives.
             </div>
             <div id="KubotaFirst">
-                <div class="footerTitleOrange" style="border-bottom: 0;">Sign Up For Kubota First Update</div>
-                <span>Receive the latest news, special offers and exclusives.</span>
-                <div id="subscribe" style="cursor: pointer;padding-top:5px;" onclick="location.href='/AboutKubota/KubotaFirst.aspx'">
-                    <img src="/images/subscribe.png" width="184" height="25" border="0">
-                    
-                </div>
-                
                 <div style="position:absolute;bottom:0px;right:0px;">
-                    <a style="display: inline;" href="https://www.facebook.com/kubotatractor" target="_blank" title="Visit Kubota on Facebook"><img src="/images/fb_icon.jpg" width="20" height="20" border="0"></a>
+                    <a style="display: inline;" href="https://www.facebook.com/kubotatractor" target="_blank" title="Visit Kubota on Facebook"><img src="/images/fb_icon.jpg" width="30" height="30" border="0"></a>
                 </div>
             </div>
         </div>
@@ -777,6 +859,13 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
             © 1996 - <script type="text/javascript">document.write(new Date().getFullYear());</script>2020 Kubota Tractor Corporation. All rights reserved.
             </p>
         </div>
+    </div>
+  	<!-- compact footer-->
+    <div id="footer-compact" class="footer ui-footer ui-bar-a" data-role="footer" role="contentinfo" style="xdisplay:none;">
+        <div>
+            <a href="http://m.kubota.com/Home/Legal" class="ui-link">Legal</a> | <a href="http://m.kubota.com/Home/Privacy" data-ajax="false" class="ui-link">KCC Privacy</a> | <a href="http://m.kubota.com/Home/Contact" data-ajax="false" class="ui-link">Contact Kubota</a>
+        </div>
+        <div class="copyright">© 2015 Kubota Tractor Corporation. All rights reserved.</div>
     </div>
 
 
