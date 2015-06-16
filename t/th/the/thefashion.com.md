@@ -1,16 +1,26 @@
-> *The following text is extracted and transformed from the thefashion.com privacy policy that was archived on 2014-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140220110844id_/http%3A//beta.thefashion.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thefashion.com privacy policy that was archived on 2015-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150616114904id_/http%3A//thefashion.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
+  * [About Us](https://web.archive.org/about)
+  * [Privacy Policy](https://web.archive.org/privacy)
+  * [Contact Us](https://web.archive.org/contact)
+  * [FAQ](https://web.archive.org/faq)
+  * [Terms of Service](https://web.archive.org/terms-of-service)
+  * [Careers](https://web.archive.org/careers)
+  * [Press & Media](https://web.archive.org/press)
+
+
+
 ## PRIVACY POLICY
 
-We at THE FASHION GROUP HOLDING LTD. ("THE FASHION," "we," "us," "our") know that our users ("you," "your") care about how your personal information is used and shared, and we take your privacy seriously. Please read the following to learn more about our Privacy Policy. By visiting or using the Website or Services in any manner, you acknowledge that you accept the practices and policies outlined in this Privacy Policy, and you hereby consent that we will collect, use, and share your information in the following ways. Any capitalized terms used herein without definition shall have the meaning given to them in the THE FASHION Terms & Conditions found here: <http://www.thefashion.com/terms-of-service>.
+We at THE FASHION GROUP HOLDING LTD. ("THE FASHION," "we," "us," "our") know that our users ("you," "your") care about how your personal information is used and shared, and we take your privacy seriously. Please read the following to learn more about our Privacy Policy. By visiting or using the Website or Services in any manner, you acknowledge that you accept the practices and policies outlined in this Privacy Policy, and you hereby consent that we will collect, use, and share your information in the following ways. Any capitalized terms used herein without definition shall have the meaning given to them in the THE FASHION Terms & Conditions found here: <http://thefashion.com/gb/terms-of-service>.
 
 ### 1\. WHAT DOES THIS PRIVACY POLICY COVER?
 
 This Privacy Policy covers our treatment of personally identifiable information ("Personal Information") that we gather when you are accessing or using our Website. This policy does not apply to the practices of companies that we do not own or control, or to individuals that we do not employ or manage. 
 
-We do not knowingly collect or solicit personal information from anyone under the age of 13 or knowingly allow such persons to register for the Services (as that term is defined in our Terms of Use found here: <http://www.thefashion.com/terms-of-service>). If you are under 13, please do not attempt to register for the Services or send any information about yourself to us, including your name, address, telephone number, or email address. No one under age 13 may provide any personal information to us or on the Services. In the event that we learn that we have collected personal information from a child under age 13 without verification of parental consent, we will delete that information as quickly as possible. If you believe that we might have any information from or about a child under 13, please contact us at [hello@thefashion.com](mailto:hello@thefashion.com).
+We do not knowingly collect or solicit personal information from anyone under the age of 13 or knowingly allow such persons to register for the Services (as that term is defined in our Terms of Use found here: <http://thefashion.com/gb/terms-of-service>). If you are under 13, please do not attempt to register for the Services or send any information about yourself to us, including your name, address, telephone number, or email address. No one under age 13 may provide any personal information to us or on the Services. In the event that we learn that we have collected personal information from a child under age 13 without verification of parental consent, we will delete that information as quickly as possible. If you believe that we might have any information from or about a child under 13, please contact us at [hello@thefashion.com](mailto:hello@thefashion.com).
 
 ### 2\. WHAT INFORMATION DOES THE FASHION COLLECT?
 
