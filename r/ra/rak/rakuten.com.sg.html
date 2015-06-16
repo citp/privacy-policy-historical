@@ -1,23 +1,26 @@
-<!--The following is the downloaded HTML source of the rakuten.com.sg privacy policy that was archived on 2014-11-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141128201747id_/http%3A//www.rakuten.com.sg/policy/privacy/%3Fl-id%3Dsg__footer_privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the rakuten.com.sg privacy policy that was archived on 2015-06-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150616185858id_/http%3A//www.rakuten.com.sg/policy/privacy/%3Fl-id%3Dsg__footer_privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" prefix="og:http://ogp.me/ns# fb:http://www.facebook.com/2008/fbml"><head>
     <meta charset="utf-8">
     <title>Rakuten Singapore: Privacy Policy</title>
 <meta name="keywords" content="Rakuten, Singapore, online, shopping, online shopping, privacy, policy, legal">
 <meta name="description" content="Our Policies">
+<meta http-equiv="refresh" content="1; url=https://support.rakuten.com.sg/hc/en-us/articles/202807410-Privacy-Policy">
 <meta http-equiv="Content-Style-Type" content="text/css">
 <meta http-equiv="Content-Script-Type" content="text/javascript">
 <link rel="shortcut icon" href="http://intl.rakuten-static.com/b/sg/image/policy/favicon.ico">
 <link href="http://intl.rakuten-static.com/b/sg/css/policy/policy_style.css" rel="stylesheet" type="text/css">
+    
     <link href="/favicon.ico" rel="shortcut icon">
-    <link href="/assets/application-8d585b93a1fda11274a05ddfba02c1d5.css" media="all" rel="stylesheet" type="text/css">
-    <link href="/assets/application_static-1b13569e9620782f423d4cd3ce931750.css" media="all" rel="stylesheet" type="text/css">
+    <link href="/assets/application-525124d1c8845dc689d0c4b143461e99.css" media="all" rel="stylesheet" type="text/css">
+    <link href="/assets/application_static-875f0d42a52ff5536404da8fda8d423b.css" media="all" rel="stylesheet" type="text/css">
     
     <meta content="authenticity_token" name="csrf-param">
-<meta content="PQAklN5VsZEeIdS8yqYQqtufdjmGFAfrRdsShn0JZ6Q=" name="csrf-token">
+<meta content="qCkwSAMJGwMMHGMefGsXaX/lxIIH4EcMKbBT27PryzU=" name="csrf-token">
   </head>
-  <body ng-app="Rakuten" data-sp="false">
+  <body class="b-locale-SG" data-sp="false">
+    
     <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-KGD5MC"
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-KGD5MC"></script><script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
@@ -26,15 +29,134 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
 })(window,document,'script','dataLayer','GTM-KGD5MC');</script>
 
+      <script type="text/ng-template" id="saveCouponButton.html">
+  <button type="submit" class="b-btn b-btn-type-a b-btn-emph b-btn-cart itemcart item_coupon" ng-click="saveCoupon()" ng-disabled="isDisabled">
+    Save Coupon
+  </button>
+  <span class="b-mod-status-processing ng-cloak" ng-show="couponProgress">
+    <img alt="Processing..." class="b-icon" height="16" src="/assets/processing-1333e7458c2240896a1467981443d931.gif" width="16" />
+    Processing...
+  </span>
+</script>
+<script type="text/ng-template" id="saveCouponLink.html">
+  <a href="javascript:void(0)" ng-click="saveCoupon()" ng-disabled="isDisabled">Save Coupon</a>
+  <span class="b-mod-status-processing ng-cloak" ng-show="couponProgress">
+    <img alt="Processing..." class="b-icon" height="16" src="/assets/processing-1333e7458c2240896a1467981443d931.gif" width="16" />
+    Processing...
+  </span>
+</script>
+    <script type="text/ng-template" id="myRakutenWidget.html">
+  <div style="float:right;width:300px;" ng-show="!!my">
+    <div class="b-mod-point-widget" ng-if="!login">
+      <h2 class="b-ttl-3" >Join Rakuten. It&#x27;s Free!</h2>
+      <ul class="b-mod-point-widget-list">
+        <li class="row"><span class="b-text-small cell"></span><span class="cell">Become a Rakuten member now and earn Rakuten Super Points for every purchase you make. Rakuten members enjoy many benefits. Maximize your shopping experience with Rakuten membership!</span></li>
+      </ul>
+      <div class="b-section-padding">
+        <div class="b-help-block b-mod-point-widget-signup">
+          <a href="https://secure.rakuten.com.sg/member/register?service_id=myRakutenWidget">Become a New Member</a>
+        </div>
+        <div class="b-center">
+          Already a member? <a href="https://secure.rakuten.com.sg/member/signin">Sign in</a>
+        </div>
+      </div>
+      <br>
+      <div ng-bind-html="my.login_banner | trustAsHtml"></div>
+      <br>
+      <div ng-bind-html="my.common_banner | trustAsHtml"></div>
+    </div>
+    <div class="b-mod-point-widget b-mod-point-widget-login" ng-if="login" >
+      <div class="b-mod-point-widget-id b-cfx">
+        Hi  <a href="http://www.rakuten.com.sg/my">{{ my.display_name }}</a>
+        <span class="b-float-right"><a href="https://secure.rakuten.com.sg/member/signout">Not you?</a></span>
+      </div>
+      <h2 class="b-mod-point-widget-ttl b-pd">
+        <a href="https://secure.rakuten.com.sg/point">Point Club</a><a href="https://secure.rakuten.com.sg/point#transactions" class="b-pd-left">Details</a>
+      </h2>
+      <div class="b-container">
+        <div class="b-container-child b-mod-contentsbox-rank-{{rank_name}}">
+          <div class="b-head">
+            <div class="b-ttl" ng-if="rank_activated" ><span class="b-sprite-rank-small-{{ my.rank.current.name }}"></span> <span class="b-text-def">You are</span> {{ my.rank.current.local_name }} Rank</div>
+            <div class="b-ttl" ng-if="!rank_activated" style="text-align:center"><span>Point Summary</span></div>
+          </div>
+          <div class="b-body">
+            <div class="b-content">
+              <div class="b-section-dotted">
+                <dl class="b-cols-2">
+                  <dt class="b-col"><b>Total Points</b></dt>
+                  <dd class="b-col b-right"><b><span class="b-text-prime b-text-large">
+                  <a href="https://secure.rakuten.com.sg/point">{{ my.point.total }}</a></span> Points</b></dd>
+                </dl>
+                <dl class="b-cols-2">
+                  <dt class="b-col">Regular Points</dt>
+                  <dd class="b-col b-right"><b class="b-text-prime">
+                  <a href="https://secure.rakuten.com.sg/point">{{ my.point.standard }}</a></b> Points</dd>
+                </dl>
+                <dl class="b-cols-2">
+                  <dt class="b-col">Limited Time Points</dt>
+                  <dd class="b-col b-right"><p><b class="b-text-prime"><a href="https://secure.rakuten.com.sg/point">{{ my.point.term }}</a></b> Points</p>
+                  </dd>
+                </dl>
+              </div>
+              <div class="b-section-dotted" ng-if="next_rank_activated">
+                <div>
+                  <b ng-bind-html="rank_level | trustAsHtml"></b>
+                </div>
+                <div class="b-point-gauge-section">
+                  <dl class="b-dl-vertical">
+                    <dt class="b-text-prime">
+                      <b ng-bind-html="point_message | trustAsHtml"></b>
+                    </dt>
+                    <dd>
+                      <div class="b-mod-item-horizontal">
+                        <div class="b-point-gauge">
+                          <div class="b-point-gauge-bar" style="width: {{ my.point.percent }}%;"></div>
+                        </div>
+                        <p class="b-text-def" >
+                          <div ng-bind-html="earn_more_points | trustAsHtml"></div>
+                        </p>
+                      </div>
+                    </dd>
+                  </dl>
+                  <dl class="b-dl-vertical">
+                    <dt class="b-text-prime">
+                      <b ng-bind-html="time_message | trustAsHtml"></b>
+                    </dt>
+                    <dd>
+                      <div class="b-mod-item-horizontal">
+                        <div class="b-point-gauge-cart">
+                          <i class="b-font-icon-cart b-text-prime"></i>
+                            <span class="b-text-def b-text-normal"> &times;
+                              <em ng-bind-html="time_guage | trustAsHtml" class="b-text-prime"></em>/{{ my.times.required }}
+                            </span>
+                        </div>
+                        <p class="b-text-def">
+                          <div ng-bind-html="time_to_more_points | trustAsHtml"></div>
+                        </p>
+                      </div>
+                    </dd>
+                  </dl>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div ng-bind-html="my.login_banner | trustAsHtml"></div>
+        </div>
+      </div>
+      <div ng-bind-html="my.common_banner | trustAsHtml"></div>
+    </div>
+  </div>
+</script>
+
     <div id="page">
         <div id="head">
   <div class="b-header">
-    <div class="b-header-secondary">
-      <div class="b-header-inner">
-        <div class="b-brand b-brand-large">
-          <h1><a href="http://www.rakuten.com.sg/?l-id=sg_privacy_logo" class="b-brand-logo"><span class="b-brand-logo-image b-sprite-logo-mall-large">Rakuten.com.sg Online Shopping</span></a></h1>
-        </div>
-        <div class="b-utility-nav">
+      <div class="b-header-secondary">
+        <div class="b-header-inner">
+          <div class="b-brand b-brand-large">
+            <a href="http://www.rakuten.com.sg/?l-id=sg_privacy_logo" class="b-brand-logo" id="header_logo_link"><span class="b-brand-logo-image b-sprite-logo-mall-large">Rakuten.com.sg Online Shopping</span></a>
+          </div>
+          <div class="b-utility-nav">
   <ul class="b-nav-list">
     <li><a href="http://www.rakuten.com.sg/help/guide/point/?l-id=sg_privacy_superpoints">Rakuten Super Points</a></li>
     
@@ -44,17 +166,17 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   </ul>
 </div>
 
-        <div class="b-utility-sub">
-          <ul class="b-mod-socials">
-            <li><iframe scrolling="no" frameborder="0" allowtransparency="true" src="//platform.twitter.com/widgets/follow_button.1366232305.html#_=1366333129003&amp;id=twitter-widget-4&amp;lang=en&amp;screen_name=rakuten_sg&amp;show_count=true&amp;show_screen_name=true&amp;size=m" class="twitter-follow-button twitter-follow-button" style="width: 243px; height: 20px;" title="Twitter Follow Button" data-twttr-rendered="true">
-            </iframe></li>
-            <li>
-              <iframe src="//www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.facebook.com%2FRakutenSG&amp;send=false&amp;layout=button_count&amp;width=450&amp;show_faces=false&amp;font&amp;colorscheme=light&amp;action=like&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:105px; height:21px;" allowtransparency="true"></iframe>
-            </li>
-          </ul>
+          <div class="b-utility-sub">
+            <ul class="b-mod-socials">
+              <li><iframe scrolling="no" frameborder="0" allowtransparency="true" src="//platform.twitter.com/widgets/follow_button.1366232305.html#_=1366333129003&amp;id=twitter-widget-4&amp;lang=en&amp;screen_name=rakuten_sg&amp;show_count=true&amp;show_screen_name=true&amp;size=m" class="twitter-follow-button twitter-follow-button" style="width: 243px; height: 20px;" title="Twitter Follow Button" data-twttr-rendered="true">
+              </iframe></li>
+              <li>
+                <iframe src="//www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.facebook.com%2FRakutenSG&amp;send=false&amp;layout=button_count&amp;width=450&amp;show_faces=false&amp;font&amp;colorscheme=light&amp;action=like&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:105px; height:21px;" allowtransparency="true"></iframe>
+              </li>
+            </ul>
+          </div>
         </div>
       </div>
-    </div>
     <div class="b-header-primary js-sticky">
       <div class="b-header-inner b-header-cols">
         <div class="b-header-col">
@@ -67,432 +189,474 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                 <div class="b-dropdown-menu b-dropdown-menu-box">
                   <ul id="globalCategoryList" class="b-body">
                       <li class="b-dropdown-submenu">
-                        <a href="/category/1/?l-id=shopbycat_1">Fashion &amp; Accessories</a>
+                        <a href="http://www.rakuten.com.sg/category/1/?l-id=shopbycat_1">Fashion &amp; Accessories</a>
                         <ul class="b-dropdown-menu">
                               <li>
-                                <a href="/category/2/?l-id=sg_privacy_shopbycat_1_1)">Men's Fashion</a>
+                                <a href="http://www.rakuten.com.sg/category/2/?l-id=sg_privacy_shopbycat_1_1">Men's Fashion</a>
                               </li>
                               <li>
-                                <a href="/category/18/?l-id=sg_privacy_shopbycat_1_2)">Women's Fashion</a>
+                                <a href="http://www.rakuten.com.sg/category/18/?l-id=sg_privacy_shopbycat_1_2">Women's Fashion</a>
                               </li>
                               <li>
-                                <a href="/category/35/?l-id=sg_privacy_shopbycat_1_3)">Swimwear</a>
+                                <a href="http://www.rakuten.com.sg/category/35/?l-id=sg_privacy_shopbycat_1_3">Swimwear</a>
                               </li>
                               <li>
-                                <a href="/category/38/?l-id=sg_privacy_shopbycat_1_4)">Underwear</a>
+                                <a href="http://www.rakuten.com.sg/category/38/?l-id=sg_privacy_shopbycat_1_4">Underwear</a>
                               </li>
                               <li>
-                                <a href="/category/40/?l-id=sg_privacy_shopbycat_1_5)">Lingerie &amp; Nightwear</a>
+                                <a href="http://www.rakuten.com.sg/category/40/?l-id=sg_privacy_shopbycat_1_5">Lingerie &amp; Nightwear</a>
                               </li>
                               <li>
-                                <a href="/category/42/?l-id=sg_privacy_shopbycat_1_6)">Socks &amp; Leg Wear</a>
+                                <a href="http://www.rakuten.com.sg/category/42/?l-id=sg_privacy_shopbycat_1_6">Socks &amp; Leg Wear</a>
                               </li>
                               <li>
-                                <a href="/category/43/?l-id=sg_privacy_shopbycat_1_7)">Rainwear</a>
+                                <a href="http://www.rakuten.com.sg/category/43/?l-id=sg_privacy_shopbycat_1_7">Rainwear</a>
                               </li>
                               <li>
-                                <a href="/category/44/?l-id=sg_privacy_shopbycat_1_8)">Jewellery</a>
+                                <a href="http://www.rakuten.com.sg/category/44/?l-id=sg_privacy_shopbycat_1_8">Jewellery</a>
                               </li>
                               <li>
-                                <a href="/category/47/?l-id=sg_privacy_shopbycat_1_9)">Clothing Accessories</a>
+                                <a href="http://www.rakuten.com.sg/category/47/?l-id=sg_privacy_shopbycat_1_9">Clothing Accessories</a>
                               </li>
                               <li>
-                                <a href="/category/50/?l-id=sg_privacy_shopbycat_1_10)">Shoes</a>
+                                <a href="http://www.rakuten.com.sg/category/50/?l-id=sg_privacy_shopbycat_1_10">Shoes</a>
                               </li>
                               <li>
-                                <a href="/category/57/?l-id=sg_privacy_shopbycat_1_11)">Headwear</a>
+                                <a href="http://www.rakuten.com.sg/category/57/?l-id=sg_privacy_shopbycat_1_11">Headwear</a>
                               </li>
                               <li>
-                                <a href="/category/58/?l-id=sg_privacy_shopbycat_1_12)">Gloves</a>
+                                <a href="http://www.rakuten.com.sg/category/58/?l-id=sg_privacy_shopbycat_1_12">Gloves</a>
                               </li>
                               <li>
-                                <a href="/category/59/?l-id=sg_privacy_shopbycat_1_13)">Belts</a>
+                                <a href="http://www.rakuten.com.sg/category/59/?l-id=sg_privacy_shopbycat_1_13">Belts</a>
                               </li>
                               <li>
-                                <a href="/category/62/?l-id=sg_privacy_shopbycat_1_14)">Umbrellas</a>
+                                <a href="http://www.rakuten.com.sg/category/62/?l-id=sg_privacy_shopbycat_1_14">Umbrellas</a>
                               </li>
                               <li>
-                                <a href="/category/63/?l-id=sg_privacy_shopbycat_1_15)">Wallets</a>
+                                <a href="http://www.rakuten.com.sg/category/63/?l-id=sg_privacy_shopbycat_1_15">Wallets</a>
                               </li>
                               <li>
-                                <a href="/category/66/?l-id=sg_privacy_shopbycat_1_16)">Bags</a>
+                                <a href="http://www.rakuten.com.sg/category/66/?l-id=sg_privacy_shopbycat_1_16">Bags</a>
                               </li>
                               <li>
-                                <a href="/category/69/?l-id=sg_privacy_shopbycat_1_17)">Eyeglass Frames &amp; Sunglasses</a>
+                                <a href="http://www.rakuten.com.sg/category/69/?l-id=sg_privacy_shopbycat_1_17">Eyeglass Frames &amp; Sunglasses</a>
                               </li>
                               <li>
-                                <a href="/category/70/?l-id=sg_privacy_shopbycat_1_18)">Watches</a>
+                                <a href="http://www.rakuten.com.sg/category/70/?l-id=sg_privacy_shopbycat_1_18">Watches</a>
                               </li>
                         </ul>
                       </li>
                       <li class="b-dropdown-submenu">
-                        <a href="/category/73/?l-id=shopbycat_2">Kids &amp; Baby</a>
+                        <a href="http://www.rakuten.com.sg/category/73/?l-id=shopbycat_2">Kids &amp; Baby</a>
                         <ul class="b-dropdown-menu">
                               <li>
-                                <a href="/category/79/?l-id=sg_privacy_shopbycat_2_1)">Kids</a>
+                                <a href="http://www.rakuten.com.sg/category/79/?l-id=sg_privacy_shopbycat_2_1">Kids</a>
                               </li>
                               <li>
-                                <a href="/category/74/?l-id=sg_privacy_shopbycat_2_2)">Baby</a>
+                                <a href="http://www.rakuten.com.sg/category/74/?l-id=sg_privacy_shopbycat_2_2">Baby</a>
                               </li>
                               <li>
-                                <a href="/category/84/?l-id=sg_privacy_shopbycat_2_3)">Maternity</a>
+                                <a href="http://www.rakuten.com.sg/category/84/?l-id=sg_privacy_shopbycat_2_3">Maternity</a>
                               </li>
                               <li>
-                                <a href="/category/85/?l-id=sg_privacy_shopbycat_2_4)">Personalized Gifts</a>
+                                <a href="http://www.rakuten.com.sg/category/85/?l-id=sg_privacy_shopbycat_2_4">Personalized Gifts</a>
                               </li>
                               <li>
-                                <a href="/category/86/?l-id=sg_privacy_shopbycat_2_5)">Toys</a>
+                                <a href="http://www.rakuten.com.sg/category/86/?l-id=sg_privacy_shopbycat_2_5">Toys</a>
                               </li>
                         </ul>
                       </li>
                       <li class="b-dropdown-submenu">
-                        <a href="/category/87/?l-id=shopbycat_3">Toys &amp; Games</a>
+                        <a href="http://www.rakuten.com.sg/category/87/?l-id=shopbycat_3">Toys &amp; Games</a>
                         <ul class="b-dropdown-menu">
                               <li>
-                                <a href="/category/90/?l-id=sg_privacy_shopbycat_3_1)">Toys</a>
+                                <a href="http://www.rakuten.com.sg/category/90/?l-id=sg_privacy_shopbycat_3_1">Toys</a>
                               </li>
                               <li>
-                                <a href="/category/88/?l-id=sg_privacy_shopbycat_3_2)">Character Items</a>
+                                <a href="http://www.rakuten.com.sg/category/88/?l-id=sg_privacy_shopbycat_3_2">Character Items</a>
                               </li>
                               <li>
-                                <a href="/category/96/?l-id=sg_privacy_shopbycat_3_3)">Puzzles</a>
+                                <a href="http://www.rakuten.com.sg/category/96/?l-id=sg_privacy_shopbycat_3_3">Puzzles</a>
                               </li>
                               <li>
-                                <a href="/category/93/?l-id=sg_privacy_shopbycat_3_4)">Models &amp; Remote Control Toys</a>
+                                <a href="http://www.rakuten.com.sg/category/93/?l-id=sg_privacy_shopbycat_3_4">Models &amp; Remote Control Toys</a>
                               </li>
                               <li>
-                                <a href="/category/92/?l-id=sg_privacy_shopbycat_3_5)">Play Equipment &amp; Riding Toys</a>
+                                <a href="http://www.rakuten.com.sg/category/92/?l-id=sg_privacy_shopbycat_3_5">Play Equipment &amp; Riding Toys</a>
                               </li>
                               <li>
-                                <a href="/category/91/?l-id=sg_privacy_shopbycat_3_6)">Games &amp; Sports Toys</a>
+                                <a href="http://www.rakuten.com.sg/category/91/?l-id=sg_privacy_shopbycat_3_6">Games &amp; Sports Toys</a>
                               </li>
                               <li>
-                                <a href="/category/95/?l-id=sg_privacy_shopbycat_3_7)">Musical Instruments</a>
+                                <a href="http://www.rakuten.com.sg/category/95/?l-id=sg_privacy_shopbycat_3_7">Musical Instruments</a>
                               </li>
                               <li>
-                                <a href="/category/89/?l-id=sg_privacy_shopbycat_3_8)">Fancy Items</a>
+                                <a href="http://www.rakuten.com.sg/category/94/?l-id=sg_privacy_shopbycat_3_8">Magic Items</a>
+                              </li>
+                              <li>
+                                <a href="http://www.rakuten.com.sg/category/89/?l-id=sg_privacy_shopbycat_3_9">Fancy Items</a>
                               </li>
                         </ul>
                       </li>
                       <li class="b-dropdown-submenu">
-                        <a href="/category/97/?l-id=shopbycat_4">Sports &amp; Outdoors</a>
+                        <a href="http://www.rakuten.com.sg/category/97/?l-id=shopbycat_4">Sports &amp; Outdoors</a>
                         <ul class="b-dropdown-menu">
                               <li>
-                                <a href="/category/98/?l-id=sg_privacy_shopbycat_4_1)">Golf</a>
+                                <a href="http://www.rakuten.com.sg/category/98/?l-id=sg_privacy_shopbycat_4_1">Golf</a>
                               </li>
                               <li>
-                                <a href="/category/102/?l-id=sg_privacy_shopbycat_4_2)">Sports Apparel</a>
+                                <a href="http://www.rakuten.com.sg/category/102/?l-id=sg_privacy_shopbycat_4_2">Sports Apparel</a>
                               </li>
                               <li>
-                                <a href="/category/105/?l-id=sg_privacy_shopbycat_4_3)">Running &amp; Fitness</a>
+                                <a href="http://www.rakuten.com.sg/category/105/?l-id=sg_privacy_shopbycat_4_3">Running &amp; Fitness</a>
                               </li>
                               <li>
-                                <a href="/category/106/?l-id=sg_privacy_shopbycat_4_4)">Cycling</a>
+                                <a href="http://www.rakuten.com.sg/category/106/?l-id=sg_privacy_shopbycat_4_4">Cycling</a>
                               </li>
                               <li>
-                                <a href="/category/107/?l-id=sg_privacy_shopbycat_4_5)">Fishing</a>
+                                <a href="http://www.rakuten.com.sg/category/107/?l-id=sg_privacy_shopbycat_4_5">Fishing</a>
                               </li>
                               <li>
-                                <a href="/category/108/?l-id=sg_privacy_shopbycat_4_6)">Sports Equipment</a>
+                                <a href="http://www.rakuten.com.sg/category/108/?l-id=sg_privacy_shopbycat_4_6">Sports Equipment</a>
                               </li>
                               <li>
-                                <a href="/category/109/?l-id=sg_privacy_shopbycat_4_7)">Outdoors &amp; Camping</a>
+                                <a href="http://www.rakuten.com.sg/category/109/?l-id=sg_privacy_shopbycat_4_7">Outdoors &amp; Camping</a>
+                              </li>
+                              <li>
+                                <a href="http://www.rakuten.com.sg/category/110/?l-id=sg_privacy_shopbycat_4_8">Telescopes &amp; Binoculars</a>
                               </li>
                         </ul>
                       </li>
                       <li class="b-dropdown-submenu">
-                        <a href="/category/111/?l-id=shopbycat_5">Food &amp; Beverage</a>
+                        <a href="http://www.rakuten.com.sg/category/111/?l-id=shopbycat_5">Food &amp; Beverage</a>
                         <ul class="b-dropdown-menu">
                               <li>
-                                <a href="/category/112/?l-id=sg_privacy_shopbycat_5_1)">Food</a>
+                                <a href="http://www.rakuten.com.sg/category/112/?l-id=sg_privacy_shopbycat_5_1">Food</a>
                               </li>
                               <li>
-                                <a href="/category/123/?l-id=sg_privacy_shopbycat_5_2)">Beverages</a>
+                                <a href="http://www.rakuten.com.sg/category/123/?l-id=sg_privacy_shopbycat_5_2">Beverages</a>
                               </li>
                         </ul>
                       </li>
                       <li class="b-dropdown-submenu">
-                        <a href="/category/130/?l-id=shopbycat_6">Health &amp; Beauty</a>
+                        <a href="http://www.rakuten.com.sg/category/130/?l-id=shopbycat_6">Health &amp; Beauty</a>
                         <ul class="b-dropdown-menu">
                               <li>
-                                <a href="/category/131/?l-id=sg_privacy_shopbycat_6_1)">Medicine</a>
+                                <a href="http://www.rakuten.com.sg/category/131/?l-id=sg_privacy_shopbycat_6_1">Medicine</a>
                               </li>
                               <li>
-                                <a href="/category/132/?l-id=sg_privacy_shopbycat_6_2)">Medical &amp; Health</a>
+                                <a href="http://www.rakuten.com.sg/category/132/?l-id=sg_privacy_shopbycat_6_2">Medical &amp; Health</a>
                               </li>
                               <li>
-                                <a href="/category/133/?l-id=sg_privacy_shopbycat_6_3)">Transport Aid</a>
+                                <a href="http://www.rakuten.com.sg/category/133/?l-id=sg_privacy_shopbycat_6_3">Transport Aid</a>
                               </li>
                               <li>
-                                <a href="/category/134/?l-id=sg_privacy_shopbycat_6_4)">Feeding</a>
+                                <a href="http://www.rakuten.com.sg/category/134/?l-id=sg_privacy_shopbycat_6_4">Feeding</a>
                               </li>
                               <li>
-                                <a href="/category/135/?l-id=sg_privacy_shopbycat_6_5)">Supplements</a>
+                                <a href="http://www.rakuten.com.sg/category/135/?l-id=sg_privacy_shopbycat_6_5">Supplements</a>
                               </li>
                               <li>
-                                <a href="/category/136/?l-id=sg_privacy_shopbycat_6_6)">Vision Care</a>
+                                <a href="http://www.rakuten.com.sg/category/136/?l-id=sg_privacy_shopbycat_6_6">Vision Care</a>
                               </li>
                               <li>
-                                <a href="/category/140/?l-id=sg_privacy_shopbycat_6_7)">Sanitary</a>
+                                <a href="http://www.rakuten.com.sg/category/140/?l-id=sg_privacy_shopbycat_6_7">Sanitary</a>
                               </li>
                               <li>
-                                <a href="/category/141/?l-id=sg_privacy_shopbycat_6_8)">Makeup &amp; Skincare</a>
+                                <a href="http://www.rakuten.com.sg/category/141/?l-id=sg_privacy_shopbycat_6_8">Makeup &amp; Skincare</a>
                               </li>
                               <li>
-                                <a href="/category/144/?l-id=sg_privacy_shopbycat_6_9)">Perfume</a>
+                                <a href="http://www.rakuten.com.sg/category/144/?l-id=sg_privacy_shopbycat_6_9">Perfume</a>
                               </li>
                         </ul>
                       </li>
                       <li class="b-dropdown-submenu">
-                        <a href="/category/145/?l-id=shopbycat_7">Electronics</a>
+                        <a href="http://www.rakuten.com.sg/category/145/?l-id=shopbycat_7">Electronics</a>
                         <ul class="b-dropdown-menu">
                               <li>
-                                <a href="/category/146/?l-id=sg_privacy_shopbycat_7_1)">Computers</a>
+                                <a href="http://www.rakuten.com.sg/category/146/?l-id=sg_privacy_shopbycat_7_1">Computers</a>
                               </li>
                               <li>
-                                <a href="/category/150/?l-id=sg_privacy_shopbycat_7_2)">Office</a>
+                                <a href="http://www.rakuten.com.sg/category/150/?l-id=sg_privacy_shopbycat_7_2">Office</a>
                               </li>
                               <li>
-                                <a href="/category/151/?l-id=sg_privacy_shopbycat_7_3)">Home</a>
+                                <a href="http://www.rakuten.com.sg/category/151/?l-id=sg_privacy_shopbycat_7_3">Home</a>
                               </li>
                               <li>
-                                <a href="/category/152/?l-id=sg_privacy_shopbycat_7_4)">Kitchen</a>
+                                <a href="http://www.rakuten.com.sg/category/152/?l-id=sg_privacy_shopbycat_7_4">Kitchen</a>
                               </li>
                               <li>
-                                <a href="/category/153/?l-id=sg_privacy_shopbycat_7_5)">Video Game Consoles</a>
+                                <a href="http://www.rakuten.com.sg/category/153/?l-id=sg_privacy_shopbycat_7_5">Video Game Consoles</a>
                               </li>
                               <li>
-                                <a href="/category/154/?l-id=sg_privacy_shopbycat_7_6)">Software</a>
+                                <a href="http://www.rakuten.com.sg/category/154/?l-id=sg_privacy_shopbycat_7_6">Software</a>
                               </li>
                               <li>
-                                <a href="/category/155/?l-id=sg_privacy_shopbycat_7_7)">Audio</a>
+                                <a href="http://www.rakuten.com.sg/category/155/?l-id=sg_privacy_shopbycat_7_7">Audio</a>
                               </li>
                               <li>
-                                <a href="/category/156/?l-id=sg_privacy_shopbycat_7_8)">Cameras</a>
+                                <a href="http://www.rakuten.com.sg/category/156/?l-id=sg_privacy_shopbycat_7_8">Cameras</a>
                               </li>
                               <li>
-                                <a href="/category/157/?l-id=sg_privacy_shopbycat_7_9)">TV &amp; Recorders</a>
+                                <a href="http://www.rakuten.com.sg/category/157/?l-id=sg_privacy_shopbycat_7_9">TV &amp; Recorders</a>
                               </li>
                               <li>
-                                <a href="/category/160/?l-id=sg_privacy_shopbycat_7_10)">GPS</a>
+                                <a href="http://www.rakuten.com.sg/category/160/?l-id=sg_privacy_shopbycat_7_10">GPS</a>
                               </li>
                               <li>
-                                <a href="/category/162/?l-id=sg_privacy_shopbycat_7_11)">Mobile</a>
+                                <a href="http://www.rakuten.com.sg/category/161/?l-id=sg_privacy_shopbycat_7_11">Telephone &amp; FAX</a>
                               </li>
                               <li>
-                                <a href="/category/164/?l-id=sg_privacy_shopbycat_7_12)">Batteries</a>
+                                <a href="http://www.rakuten.com.sg/category/162/?l-id=sg_privacy_shopbycat_7_12">Mobile</a>
                               </li>
                               <li>
-                                <a href="/category/165/?l-id=sg_privacy_shopbycat_7_13)">Cables</a>
+                                <a href="http://www.rakuten.com.sg/category/163/?l-id=sg_privacy_shopbycat_7_13">Remote Control</a>
                               </li>
                               <li>
-                                <a href="/category/166/?l-id=sg_privacy_shopbycat_7_14)">Antennas</a>
+                                <a href="http://www.rakuten.com.sg/category/164/?l-id=sg_privacy_shopbycat_7_14">Batteries</a>
                               </li>
                               <li>
-                                <a href="/category/167/?l-id=sg_privacy_shopbycat_7_15)">Storage Media</a>
+                                <a href="http://www.rakuten.com.sg/category/165/?l-id=sg_privacy_shopbycat_7_15">Cables</a>
+                              </li>
+                              <li>
+                                <a href="http://www.rakuten.com.sg/category/166/?l-id=sg_privacy_shopbycat_7_16">Antennas</a>
+                              </li>
+                              <li>
+                                <a href="http://www.rakuten.com.sg/category/167/?l-id=sg_privacy_shopbycat_7_17">Storage Media</a>
                               </li>
                         </ul>
                       </li>
                       <li class="b-dropdown-submenu">
-                        <a href="/category/168/?l-id=shopbycat_8">Home &amp; Living</a>
+                        <a href="http://www.rakuten.com.sg/category/168/?l-id=shopbycat_8">Home &amp; Living</a>
                         <ul class="b-dropdown-menu">
                               <li>
-                                <a href="/category/169/?l-id=sg_privacy_shopbycat_8_1)">Kitchenware</a>
+                                <a href="http://www.rakuten.com.sg/category/169/?l-id=sg_privacy_shopbycat_8_1">Kitchenware</a>
                               </li>
                               <li>
-                                <a href="/category/173/?l-id=sg_privacy_shopbycat_8_2)">Bathroom</a>
+                                <a href="http://www.rakuten.com.sg/category/173/?l-id=sg_privacy_shopbycat_8_2">Bathroom</a>
                               </li>
                               <li>
-                                <a href="/category/175/?l-id=sg_privacy_shopbycat_8_3)">Cleaning &amp; Laundry</a>
+                                <a href="http://www.rakuten.com.sg/category/175/?l-id=sg_privacy_shopbycat_8_3">Cleaning &amp; Laundry</a>
                               </li>
                               <li>
-                                <a href="/category/178/?l-id=sg_privacy_shopbycat_8_4)">Gardening</a>
+                                <a href="http://www.rakuten.com.sg/category/181/?l-id=sg_privacy_shopbycat_8_4">Fire Heating</a>
                               </li>
                               <li>
-                                <a href="/category/180/?l-id=sg_privacy_shopbycat_8_5)">Home Fragrance</a>
+                                <a href="http://www.rakuten.com.sg/category/178/?l-id=sg_privacy_shopbycat_8_5">Gardening</a>
                               </li>
                               <li>
-                                <a href="/category/176/?l-id=sg_privacy_shopbycat_8_6)">Lighting</a>
+                                <a href="http://www.rakuten.com.sg/category/180/?l-id=sg_privacy_shopbycat_8_6">Home Fragrance</a>
                               </li>
                               <li>
-                                <a href="/category/183/?l-id=sg_privacy_shopbycat_8_7)">Party Items</a>
+                                <a href="http://www.rakuten.com.sg/category/176/?l-id=sg_privacy_shopbycat_8_7">Lighting</a>
                               </li>
                               <li>
-                                <a href="/category/184/?l-id=sg_privacy_shopbycat_8_8)">Religious Items</a>
+                                <a href="http://www.rakuten.com.sg/category/183/?l-id=sg_privacy_shopbycat_8_8">Party Items</a>
                               </li>
                               <li>
-                                <a href="/category/179/?l-id=sg_privacy_shopbycat_8_9)">Safety</a>
+                                <a href="http://www.rakuten.com.sg/category/184/?l-id=sg_privacy_shopbycat_8_9">Religious Items</a>
                               </li>
                               <li>
-                                <a href="/category/174/?l-id=sg_privacy_shopbycat_8_10)">Sleeping</a>
+                                <a href="http://www.rakuten.com.sg/category/179/?l-id=sg_privacy_shopbycat_8_10">Safety</a>
                               </li>
                               <li>
-                                <a href="/category/177/?l-id=sg_privacy_shopbycat_8_11)">Storage &amp; Organisation</a>
+                                <a href="http://www.rakuten.com.sg/category/174/?l-id=sg_privacy_shopbycat_8_11">Sleeping</a>
+                              </li>
+                              <li>
+                                <a href="http://www.rakuten.com.sg/category/182/?l-id=sg_privacy_shopbycat_8_12">Smoking Items</a>
+                              </li>
+                              <li>
+                                <a href="http://www.rakuten.com.sg/category/177/?l-id=sg_privacy_shopbycat_8_13">Storage &amp; Organisation</a>
                               </li>
                         </ul>
                       </li>
                       <li class="b-dropdown-submenu">
-                        <a href="/category/185/?l-id=shopbycat_9">Furniture &amp; Décor</a>
+                        <a href="http://www.rakuten.com.sg/category/185/?l-id=shopbycat_9">Furniture &amp; Décor</a>
                         <ul class="b-dropdown-menu">
                               <li>
-                                <a href="/category/190/?l-id=sg_privacy_shopbycat_9_1)">Chairs</a>
+                                <a href="http://www.rakuten.com.sg/category/190/?l-id=sg_privacy_shopbycat_9_1">Chairs</a>
                               </li>
                               <li>
-                                <a href="/category/192/?l-id=sg_privacy_shopbycat_9_2)">Clocks</a>
+                                <a href="http://www.rakuten.com.sg/category/192/?l-id=sg_privacy_shopbycat_9_2">Clocks</a>
                               </li>
                               <li>
-                                <a href="/category/193/?l-id=sg_privacy_shopbycat_9_3)">Décor</a>
+                                <a href="http://www.rakuten.com.sg/category/193/?l-id=sg_privacy_shopbycat_9_3">Décor</a>
                               </li>
                               <li>
-                                <a href="/category/187/?l-id=sg_privacy_shopbycat_9_4)">Desks &amp; Tables</a>
+                                <a href="http://www.rakuten.com.sg/category/187/?l-id=sg_privacy_shopbycat_9_4">Desks &amp; Tables</a>
                               </li>
                               <li>
-                                <a href="/category/197/?l-id=sg_privacy_shopbycat_9_5)">Facility</a>
+                                <a href="http://www.rakuten.com.sg/category/197/?l-id=sg_privacy_shopbycat_9_5">Facility</a>
                               </li>
                               <li>
-                                <a href="/category/196/?l-id=sg_privacy_shopbycat_9_6)">Flooring, Carpet, &amp; Rugs</a>
+                                <a href="http://www.rakuten.com.sg/category/196/?l-id=sg_privacy_shopbycat_9_6">Flooring, Carpet, &amp; Rugs</a>
                               </li>
                               <li>
-                                <a href="/category/191/?l-id=sg_privacy_shopbycat_9_7)">Furniture Sets</a>
+                                <a href="http://www.rakuten.com.sg/category/191/?l-id=sg_privacy_shopbycat_9_7">Furniture Sets</a>
                               </li>
                               <li>
-                                <a href="/category/194/?l-id=sg_privacy_shopbycat_9_8)">Interior Fabric</a>
+                                <a href="http://www.rakuten.com.sg/category/194/?l-id=sg_privacy_shopbycat_9_8">Interior Fabric</a>
                               </li>
                               <li>
-                                <a href="/category/189/?l-id=sg_privacy_shopbycat_9_9)">Panels &amp; Partitions</a>
+                                <a href="http://www.rakuten.com.sg/category/189/?l-id=sg_privacy_shopbycat_9_9">Panels &amp; Partitions</a>
                               </li>
                               <li>
-                                <a href="/category/195/?l-id=sg_privacy_shopbycat_9_10)">Window Coverings</a>
+                                <a href="http://www.rakuten.com.sg/category/195/?l-id=sg_privacy_shopbycat_9_10">Window Coverings</a>
                               </li>
                               <li>
-                                <a href="/category/188/?l-id=sg_privacy_shopbycat_9_11)">Sofas, Beds &amp; Mattresses</a>
+                                <a href="http://www.rakuten.com.sg/category/188/?l-id=sg_privacy_shopbycat_9_11">Sofas, Beds &amp; Mattresses</a>
                               </li>
                               <li>
-                                <a href="/category/186/?l-id=sg_privacy_shopbycat_9_12)">Storage Furniture</a>
+                                <a href="http://www.rakuten.com.sg/category/186/?l-id=sg_privacy_shopbycat_9_12">Storage Furniture</a>
                               </li>
                         </ul>
                       </li>
                       <li class="b-dropdown-submenu">
-                        <a href="/category/198/?l-id=shopbycat_10">Service &amp; Housing</a>
+                        <a href="http://www.rakuten.com.sg/category/198/?l-id=shopbycat_10">Service &amp; Housing</a>
                         <ul class="b-dropdown-menu">
                               <li>
-                                <a href="/category/199/?l-id=sg_privacy_shopbycat_10_1)">Service</a>
+                                <a href="http://www.rakuten.com.sg/category/199/?l-id=sg_privacy_shopbycat_10_1">Service</a>
                               </li>
                               <li>
-                                <a href="/category/200/?l-id=sg_privacy_shopbycat_10_2)">Housing</a>
+                                <a href="http://www.rakuten.com.sg/category/200/?l-id=sg_privacy_shopbycat_10_2">Housing</a>
                               </li>
                         </ul>
                       </li>
                       <li class="b-dropdown-submenu">
-                        <a href="/category/201/?l-id=shopbycat_11">Pets</a>
+                        <a href="http://www.rakuten.com.sg/category/201/?l-id=shopbycat_11">Pets</a>
                         <ul class="b-dropdown-menu">
                               <li>
-                                <a href="/category/202/?l-id=sg_privacy_shopbycat_11_1)">Pet Supplies</a>
+                                <a href="http://www.rakuten.com.sg/category/202/?l-id=sg_privacy_shopbycat_11_1">Pet Supplies</a>
                               </li>
                               <li>
-                                <a href="/category/203/?l-id=sg_privacy_shopbycat_11_2)">Pet Items</a>
+                                <a href="http://www.rakuten.com.sg/category/203/?l-id=sg_privacy_shopbycat_11_2">Pet Items</a>
                               </li>
                         </ul>
                       </li>
                       <li class="b-dropdown-submenu">
-                        <a href="/category/208/?l-id=shopbycat_12">Plants</a>
+                        <a href="http://www.rakuten.com.sg/category/208/?l-id=shopbycat_12">Plants</a>
                         <ul class="b-dropdown-menu">
                               <li>
-                                <a href="/category/209/?l-id=sg_privacy_shopbycat_12_1)">Natural Plants</a>
+                                <a href="http://www.rakuten.com.sg/category/209/?l-id=sg_privacy_shopbycat_12_1">Natural Plants</a>
                               </li>
                               <li>
-                                <a href="/category/210/?l-id=sg_privacy_shopbycat_12_2)">Artificial Plants</a>
+                                <a href="http://www.rakuten.com.sg/category/210/?l-id=sg_privacy_shopbycat_12_2">Artificial Plants</a>
                               </li>
                         </ul>
                       </li>
                       <li class="b-dropdown-submenu">
-                        <a href="/category/211/?l-id=shopbycat_13">Books</a>
+                        <a href="http://www.rakuten.com.sg/category/211/?l-id=shopbycat_13">Books</a>
                         <ul class="b-dropdown-menu">
                               <li>
-                                <a href="/category/212/?l-id=sg_privacy_shopbycat_13_1)">Books</a>
+                                <a href="http://www.rakuten.com.sg/category/212/?l-id=sg_privacy_shopbycat_13_1">Books</a>
                               </li>
                               <li>
-                                <a href="/category/217/?l-id=sg_privacy_shopbycat_13_2)">Photo &amp; Art Books</a>
+                                <a href="http://www.rakuten.com.sg/category/217/?l-id=sg_privacy_shopbycat_13_2">Photo &amp; Art Books</a>
                               </li>
                               <li>
-                                <a href="/category/218/?l-id=sg_privacy_shopbycat_13_3)">Magazines</a>
+                                <a href="http://www.rakuten.com.sg/category/218/?l-id=sg_privacy_shopbycat_13_3">Magazines</a>
                               </li>
                               <li>
-                                <a href="/category/220/?l-id=sg_privacy_shopbycat_13_4)">Manuals &amp; Programmes</a>
+                                <a href="http://www.rakuten.com.sg/category/219/?l-id=sg_privacy_shopbycat_13_4">Newspapers</a>
                               </li>
                               <li>
-                                <a href="/category/222/?l-id=sg_privacy_shopbycat_13_5)">Musical Scores</a>
+                                <a href="http://www.rakuten.com.sg/category/220/?l-id=sg_privacy_shopbycat_13_5">Manuals &amp; Programmes</a>
+                              </li>
+                              <li>
+                                <a href="http://www.rakuten.com.sg/category/221/?l-id=sg_privacy_shopbycat_13_6">Calendars &amp; Posters</a>
+                              </li>
+                              <li>
+                                <a href="http://www.rakuten.com.sg/category/222/?l-id=sg_privacy_shopbycat_13_7">Musical Scores</a>
                               </li>
                         </ul>
                       </li>
                       <li class="b-dropdown-submenu">
-                        <a href="/category/223/?l-id=shopbycat_14">Artwork &amp; Autographs</a>
+                        <a href="http://www.rakuten.com.sg/category/223/?l-id=shopbycat_14">Artwork &amp; Autographs</a>
                         <ul class="b-dropdown-menu">
                               <li>
-                                <a href="/category/224/?l-id=sg_privacy_shopbycat_14_1)">Artwork</a>
+                                <a href="http://www.rakuten.com.sg/category/224/?l-id=sg_privacy_shopbycat_14_1">Artwork</a>
                               </li>
                               <li>
-                                <a href="/category/225/?l-id=sg_privacy_shopbycat_14_2)">Autographs</a>
+                                <a href="http://www.rakuten.com.sg/category/225/?l-id=sg_privacy_shopbycat_14_2">Autographs</a>
                               </li>
                         </ul>
                       </li>
                       <li class="b-dropdown-submenu">
-                        <a href="/category/226/?l-id=shopbycat_15">Tools &amp; Supplies</a>
+                        <a href="http://www.rakuten.com.sg/category/226/?l-id=shopbycat_15">Tools &amp; Supplies</a>
                         <ul class="b-dropdown-menu">
                               <li>
-                                <a href="/category/231/?l-id=sg_privacy_shopbycat_15_1)">Crafts &amp; Tools</a>
+                                <a href="http://www.rakuten.com.sg/category/231/?l-id=sg_privacy_shopbycat_15_1">Crafts &amp; Tools</a>
                               </li>
                               <li>
-                                <a href="/category/228/?l-id=sg_privacy_shopbycat_15_2)">Paper Products</a>
+                                <a href="http://www.rakuten.com.sg/category/228/?l-id=sg_privacy_shopbycat_15_2">Paper Products</a>
                               </li>
                               <li>
-                                <a href="/category/232/?l-id=sg_privacy_shopbycat_15_3)">Photography</a>
+                                <a href="http://www.rakuten.com.sg/category/232/?l-id=sg_privacy_shopbycat_15_3">Photography</a>
                               </li>
                               <li>
-                                <a href="/category/229/?l-id=sg_privacy_shopbycat_15_4)">Presentation Supplies</a>
+                                <a href="http://www.rakuten.com.sg/category/229/?l-id=sg_privacy_shopbycat_15_4">Presentation Supplies</a>
                               </li>
                               <li>
-                                <a href="/category/234/?l-id=sg_privacy_shopbycat_15_5)">Professional Devices</a>
+                                <a href="http://www.rakuten.com.sg/category/234/?l-id=sg_privacy_shopbycat_15_5">Professional Devices</a>
                               </li>
                               <li>
-                                <a href="/category/227/?l-id=sg_privacy_shopbycat_15_6)">Writing &amp; Painting Items</a>
+                                <a href="http://www.rakuten.com.sg/category/227/?l-id=sg_privacy_shopbycat_15_6">Writing &amp; Painting Items</a>
                               </li>
                               <li>
-                                <a href="/category/233/?l-id=sg_privacy_shopbycat_15_7)">Building Materials &amp; Hardware</a>
+                                <a href="http://www.rakuten.com.sg/category/233/?l-id=sg_privacy_shopbycat_15_7">Building Materials &amp; Hardware</a>
                               </li>
                               <li>
-                                <a href="/category/230/?l-id=sg_privacy_shopbycat_15_8)">Calculation &amp; Measuring</a>
+                                <a href="http://www.rakuten.com.sg/category/230/?l-id=sg_privacy_shopbycat_15_8">Calculation &amp; Measuring</a>
                               </li>
                         </ul>
                       </li>
                       <li class="b-dropdown-submenu">
-                        <a href="/category/235/?l-id=shopbycat_16">Finance</a>
+                        <a href="http://www.rakuten.com.sg/category/235/?l-id=shopbycat_16">Finance</a>
                         <ul class="b-dropdown-menu">
                               <li>
-                                <a href="/category/236/?l-id=sg_privacy_shopbycat_16_1)">Financial Instruments</a>
+                                <a href="http://www.rakuten.com.sg/category/236/?l-id=sg_privacy_shopbycat_16_1">Financial Instruments</a>
+                              </li>
+                              <li>
+                                <a href="http://www.rakuten.com.sg/category/239/?l-id=sg_privacy_shopbycat_16_2">Stamps</a>
                               </li>
                         </ul>
                       </li>
                       <li class="b-dropdown-submenu">
-                        <a href="/category/241/?l-id=shopbycat_17">Automobile</a>
+                        <a href="http://www.rakuten.com.sg/category/240/?l-id=shopbycat_17">Musical Instruments</a>
+                        <ul class="b-dropdown-menu">
+                        </ul>
+                      </li>
+                      <li class="b-dropdown-submenu">
+                        <a href="http://www.rakuten.com.sg/category/241/?l-id=shopbycat_18">Automobile</a>
                         <ul class="b-dropdown-menu">
                               <li>
-                                <a href="/category/242/?l-id=sg_privacy_shopbycat_17_1)">Vehicles</a>
+                                <a href="http://www.rakuten.com.sg/category/242/?l-id=sg_privacy_shopbycat_18_1">Vehicles</a>
                               </li>
                               <li>
-                                <a href="/category/243/?l-id=sg_privacy_shopbycat_17_2)">Car Accessories</a>
+                                <a href="http://www.rakuten.com.sg/category/243/?l-id=sg_privacy_shopbycat_18_2">Car Accessories</a>
                               </li>
                         </ul>
                       </li>
                       <li class="b-dropdown-submenu">
-                        <a href="/category/244/?l-id=shopbycat_18">Movies &amp; Music</a>
+                        <a href="http://www.rakuten.com.sg/category/244/?l-id=shopbycat_19">Movies &amp; Music</a>
                         <ul class="b-dropdown-menu">
                               <li>
-                                <a href="/category/245/?l-id=sg_privacy_shopbycat_18_1)">Movies</a>
+                                <a href="http://www.rakuten.com.sg/category/245/?l-id=sg_privacy_shopbycat_19_1">Movies</a>
                               </li>
                               <li>
-                                <a href="/category/248/?l-id=sg_privacy_shopbycat_18_2)">Music</a>
+                                <a href="http://www.rakuten.com.sg/category/248/?l-id=sg_privacy_shopbycat_19_2">Music</a>
                               </li>
+                        </ul>
+                      </li>
+                      <li class="b-dropdown-submenu">
+                        <a href="http://www.rakuten.com.sg/category/249/?l-id=shopbycat_20">Tickets</a>
+                        <ul class="b-dropdown-menu">
+                        </ul>
+                      </li>
+                      <li class="b-dropdown-submenu">
+                        <a href="http://www.rakuten.com.sg/category/250/?l-id=shopbycat_21">Others</a>
+                        <ul class="b-dropdown-menu">
                         </ul>
                       </li>
                   </ul>
@@ -522,12 +686,16 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <option value="223">Artwork &amp; Autographs</option>
 <option value="226">Tools &amp; Supplies</option>
 <option value="235">Finance</option>
+<option value="240">Musical Instruments</option>
 <option value="241">Automobile</option>
-<option value="244">Movies &amp; Music</option></select>
+<option value="244">Movies &amp; Music</option>
+<option value="249">Tickets</option>
+<option value="250">Others</option></select>
                 <span class="b-dropdown-toggle" id="search_header_label"><span class="b-selected-label">All Categories</span><b class="b-caret"></b></span>
               </div>
               <div class="b-input-field">
-                <input autocomplete="off" class="b-input-text b-active" data-lid="sg_privacy_search" data-suggest-cl="sgpmall" data-suggest-h="6" data-suggest-sid="69" data-suggest-url="http://api.suggest.search.rakuten.co.jp/suggest" id="k" maxlength="100" name="k" placeholder="Search by keywords" type="text">
+                <input autocomplete="off" class="b-input-text b-active" data-lid="sg_privacy_search" data-suggest-cl="sgpmall" data-suggest-h="10" data-suggest-sid="69" data-suggest-url="http://api.suggest.search.rakuten.co.jp/suggest" id="k" maxlength="100" name="k" placeholder="Search by keywords" type="text">
+
                 <input class="header_param" id="c" name="c" type="hidden">
                 <button id="header_search_btn" type="submit" value="" class="b-btn-search"><i class="b-icon-search"></i></button>
               </div>
@@ -617,11 +785,12 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
       <div style="width:185px; float:left;">
       <dl class="b-nav-category-list">
         <dt>Singapore Online Shopping</dt>
-        <dd><a href="http://www.rakuten.com.sg/event/supersale/">Super Sale</a></dd>
-        <dd><a href="http://www.rakuten.com.sg/event/top-100/">100 Best Sellers</a></dd>
-        <dd><a href="http://www.rakuten.com.sg/event/supersale/women/">Women Fashion Sale</a></dd>
-                <dd><a href="http://www.rakuten.com.sg/event/supersale/healthbeauty/">Beauty Sale</a></dd>
-        <dd><a href="http://www.rakuten.com.sg/event/supersale/electronics/">Electronics Sale</a></dd>
+        <dd><a href="http://www.rakuten.com.sg/event/healthbeauty/?l-id=sg_top_footer_col1_01">Health &amp; Beauty</a></dd>
+        <dd><a href="http://www.rakuten.com.sg/event/electronics/?l-id=sg_top_footer_col1_02">Electronics</a></dd>
+        <dd><a href="http://www.rakuten.com.sg/event/women/?l-id=sg_top_footer_col1_03">Women's Fashion</a></dd>
+        <dd><a href="http://www.rakuten.com.sg/event/fooddrinks/?l-id=sg_top_footer_col1_04">Food &amp; Beverages</a></dd>
+		  <dd><a href="http://www.rakuten.com.sg/event/kidsbabies/?l-id=sg_top_footer_col1_05">Kids &amp; Baby</a></dd>
+		  <dd><a href="http://www.rakuten.com.sg/event/travelliving/?l-id=sg_top_footer_col1_06">Travel &amp; Living</a></dd>
       </dl>
     </div>
     <div style="width:175px; float:left;">
@@ -630,7 +799,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         <dd><a href="http://www.rakuten.com.sg/help/guide/">Shopping Guide</a></dd>
         <dd><a href="http://support.rakuten.com.sg/">FAQ</a></dd>
         <dd><a href="http://www.rakuten.com.sg/info/ec/">Open Your Online Store</a></dd>
-        <dd><a href="http://www.rakuten.com.sg/info/shopdirectory/">Shop Directory</a></dd>
+        <dd><a href="http://www.rakuten.com.sg/event/fashionshops/">Fashion Shop Directory</a></dd>
+        <dd><a href="http://www.rakuten.com.sg/event/sitemap/">Site Map</a></dd>
       </dl>
     </div>
         <div style="width:175px; float:left;">
@@ -716,18 +886,29 @@ click <a href="https://rms.rakuten.com.sg/inquiry">here</a></dd>
 --></ul>
 </div>
 
+
     <div class="b-footnavbar-child">
-      <b class="b-definition">
-        <a href="http://www.rakuten.com.sg/policy/privacy/?l-id=sg_privacy_footer_privacy">Privacy Policy</a>&nbsp;
-      </b>
-      <small class="b-copyright">Copyright © 1997-2014 Rakuten, Inc. All Rights Reserved.</small>
+      <div class="tagline b-block">
+        <i class="b-sprite-icon-tagline"></i>
+      </div>
+
+      <small class="b-copyright b-float-left">
+        Copyright © 1997-2015 Rakuten, Inc. All Rights Reserved.
+      </small>
+
+      <div class="b-right">
+        <b><a href="http://www.rakuten.com.sg/policy/privacy/?l-id=sg_privacy_footer_privacy" id="footer_privacy_policy_link">Privacy Policy</a></b>
+      </div>
+
     </div>
+
   </div>
 </div>
 
+
     </div>
-    <script src="/assets/application-b1a57c3be21b04582177bd0e037b43cc.js" type="text/javascript"></script>
-      <script src="/assets/application_static-d1f7920c648890ed71cf91e1053e94be.js" type="text/javascript"></script>
+    <script src="/assets/application-3c51f576fd798fdcfb2c9f2919f0a01a.js" type="text/javascript"></script>
+      <script src="/assets/application_static-7343577ff258cd05db659e31aefee75f.js" type="text/javascript"></script>
     
     <script type="text/javascript">
   var trackingParam = {};
@@ -736,7 +917,8 @@ click <a href="https://rms.rakuten.com.sg/inquiry">here</a></dd>
 </script>
 
 <!-- SiteCatalyst(start) -->
-  <script src="/assets/application_sitecatalyst-0562803acfb8ab9dbd69750d5cf8bce8.js" type="text/javascript"></script>
+<!-- Loading SiteCatalyst Js files (excepted JP) -->
+  <script src="/assets/application_sitecatalyst-a1b3288140637b4969e564b568897bd0.js" type="text/javascript"></script>
 
 <script type="text/javascript">
 //<![CDATA[
@@ -751,7 +933,23 @@ click <a href="https://rms.rakuten.com.sg/inquiry">here</a></dd>
   I18n.hostNormal    = "www.rakuten.com.sg";
 </script>
 
+    <form id="ralForm" name="ralForm" style="display:none;">
+  <input type="hidden" name="ratAccountId" id="ratAccountId" value="7">
+  <input type="hidden" name="ratServiceId" id="ratServiceId" value="14">
+</form>
+<script type="text/javascript" src="//a.ichiba.jp.rakuten-static.com/com/rat/js/ral-basic.js"></script>
+
     
+      <div ng-controller="memberCouponController" ng-init="init('https://secure.rakuten.com.sg/mycoupons')">
+  <div class="b-container b-mod-panel b-color-safe b-text-safe b-center b-panel-popup ng-cloak" ng-cloak="" ng-show="displayMessage">
+    <p>
+      <em>
+        <em ng-bind-html="message"></em>
+        <em close-message=""></em>
+      </em>
+    </p>
+  </div>
+</div>
   
 
 </body></html>
