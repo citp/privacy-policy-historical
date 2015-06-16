@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the msi.eu privacy policy that was archived on 2014-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140617165610id_/http%3A//eu.msi.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the msi.eu privacy policy that was archived on 2015-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150616031733id_/http%3A//eu.msi.com/page/privacy-policy) for the most accurate reproduction.*
 
 # MSI Europe - Computer, Laptop, Notebook, Desktop, Mainboard, Graphics and more
 
 MSI takes your privacy seriously. Please read the following to learn more about our privacy policy and how we treat personal information that we collect and receive. MSI reserves the right to change the Privacy Policy from time to time at its sole discretion.
 
-###  Collection of personal information
+##  Collection of personal information
 
 MSI collects personal information through various means, such as through Web site cookies, your purchase of MSI products, and your response to MSI surveys.
 
@@ -12,7 +12,7 @@ When you register with MSI as a member or when you register MSI product, during 
 
 In addition to membership and product registration, MSI may collect personal information you provided in, including but not limited to Events, Promotion, Competition, On-line survey held by MSI or MSI partners.
 
-###  How your personal information is used
+##  How your personal information is used
 
 To provide better services to our customers is the primary goal of MSI when collecting personal information.
 
@@ -20,7 +20,7 @@ MSI processes and researches collected personal information from various sources
 
 Unless you actively choose not to receive information from MSI, we will send you information periodically, such as product release, membership benefits, and MSI Newsletter.
 
-###  Protection of your personal information
+##  Protection of your personal information
 
 MSI does not rent, sell, or share personal information about you with other people or nonaffiliated companies except to provide products or services you've requested
 
@@ -28,7 +28,7 @@ MSI may share your information with MSI partners and we may send you information
 
 If you do not want to receive promotional materials regarding MSI partners' products or services, and you indicate this preference when you provide your personal information to MSI, MSI will honor your preference by not providing your information to MSI partners.
 
-###  Use of cookies
+##  Use of cookies
 
 In order to improve our site, we use "cookies" to track your visit. A "cookie" is a small piece of information which a web server can store temporarily with your web browser. This is useful for having your browser remember some specific information which the web server can later retrieve.
 
@@ -41,7 +41,7 @@ In general, MSI uses cookies to:
 
 
 
-###  Announcements & Changes
+##  Announcements & Changes
 
 MSI reserves the right to update or change this Policy at any time. MSI will notify you about significant changes by sending a notice to your email address recorded in our customer database or by placing a prominent notice on our web site.
 
