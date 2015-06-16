@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the manageflitter.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231161918id_/http%3A//manageflitter.com/content/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the manageflitter.com privacy policy that was archived on 2015-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150616195130id_/https%3A//manageflitter.com/content/privacy) for the most accurate reproduction.*
 
 # Privacy - ManageFlitter
 
@@ -36,7 +36,7 @@ User who connect their Twitter account with 89n should be aware that this provid
 
 ManageFlitter may republish public information you provide in another public forum. This includes information about your Twitter account to provide influence ranking tools. We will never republish private information publicly and will always abide by Twitter's rules regarding Third Party Developers. 
 
-Many people use our service to [answer the question who unfollowed me on Twitter?](http://manageflitter.com/twitter-unfollow/who-unfollowed-me) You can do this without a subscription to a paid account. 
+Many people use our service to [answer the question who unfollowed me on Twitter?](https://manageflitter.com/twitter-unfollow/who-unfollowed-me) You can do this without a subscription to a paid account. 
 
 You can, at any time, revoke 89n's access to your Twitter account from your settings page on Twitter. You can also contact us and request we remove any information we have cached about you. 
 
