@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the 8tracks.com privacy policy that was archived on 2014-12-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141218222748id_/http%3A//8tracks.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the 8tracks.com privacy policy that was archived on 2015-06-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150617015551id_/http%3A//8tracks.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml" xml:lang="en" lang="en"><head><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">
 if (window.console && typeof(window.console.log) == 'function') {
@@ -40,11 +40,12 @@ if (window.console && typeof(window.console.log) == 'function') {
 
   
 
-    <link href="//dmuuhinfkryqs.cloudfront.net/assets/application-b310dcf72bac6dc219a5e9fe8f349203.css" media="screen" rel="stylesheet" type="text/css">
+    <link href="//dmuuhinfkryqs.cloudfront.net/assets/application-68e857282a9e80c4d55200563c94153e.css" media="screen" rel="stylesheet" type="text/css">
 
 
-  <link href="//dmuuhinfkryqs.cloudfront.net/assets/_help-20b825b87f4f9553788cf48e1d0d5615.css" media="screen" rel="stylesheet" type="text/css">
+  <link href="//dmuuhinfkryqs.cloudfront.net/assets/_help-8b119a118b53f8ce4832cc8fbba43bc4.css" media="screen" rel="stylesheet" type="text/css">
 
+  <meta name="p:domain_verify" content="bd4e0544263cc36b5f9aae7840920ca2">
 </head>
 
 
@@ -64,6 +65,7 @@ if (window.console && typeof(window.console.log) == 'function') {
     MIXPANEL_API_KEY = 'dadf933344ddfcca08de04377cbaf811';
     PREROLL_ENABLED  = true;
     MASTHEAD_ENABLED = true;
+    IMGIX_PREFERRED_SIZES =  [56, 100, 200, 320, 400, 640, 750, 960, 1024, 1280, 1536, 2048];
 
     App = {
       Collections : {},
@@ -82,29 +84,40 @@ if (window.console && typeof(window.console.log) == 'function') {
   //window.devicePixelRatio = 2;
   window.dpr = window.devicePixelRatio;
 
-  if (window.dpr <= 0.75) {
-    window.dpr = 0.75;
-  } else if (window.dpr <= 1) {
+  if (window.dpr <= 1) {
     window.dpr = 1;
-  } else if (window.dpr <= 1.25) {
-    window.dpr = 1.25;
-  } else if (window.dpr <= 1.33) {
-    window.dpr = 1.33;
-  } else if (window.dpr <= 1.5) {
-    window.dpr = 1.5;
   } else if (window.dpr <= 2) {
     window.dpr = 2;
-  } else if (window.dpr <= 3) {
+  } else if (window.dpr > 2) {
     window.dpr = 3;
-  } else if (window.dpr <= 4) {
-    window.dpr = 4;
   } else {
     window.dpr = 1;
   }
 
-  imgix_img = function(src, class_attr, name, onload) {
-    if (src.match('imgix') && window.dpr !== 1) {
-      src += '&dpr=' + window.dpr;
+  imgix_img = function(src, class_attr, name, onload, max_size) {
+    if (src.match(/images\.8tracks\.com|imgix/) && (window.dpr == 2 || window.dpr == 3)) {
+      var preferred_sizes =  IMGIX_PREFERRED_SIZES; // TODO use different sizes for avatars and last.fm images
+      var w = src.match(/w=(\d+)/i);
+
+      if (w) {
+        var w_dpr = w[1] * window.dpr;
+        var i = 0;
+        while (i < IMGIX_PREFERRED_SIZES.length) {
+          if ( IMGIX_PREFERRED_SIZES[i] >= w_dpr || (i == IMGIX_PREFERRED_SIZES.length - 1) ){
+            w_dpr = IMGIX_PREFERRED_SIZES[i];
+            break;
+          }
+          i += 1;
+        }
+
+        if (max_size && (w_dpr > max_size)) {
+          //show original if we're requesting something larger
+          src = src.replace('w='+w[1], '').replace('h='+w[1], '');
+        } else {
+          //use smallest preferred size at least as big as DPR'd image size
+          src = src.replace('w='+w[1], 'w='+w_dpr).replace('h='+w[1], 'h='+w_dpr);
+        }
+      }
     }
 
     var os = (onload ? ' onload="' + onload + '"' : '');
@@ -152,7 +165,7 @@ if (window.console && typeof(window.console.log) == 'function') {
   <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js" type="text/javascript"></script>
 
 
-<script src="http://dmuuhinfkryqs.cloudfront.net/assets/libs-f40f07e301444279a3a47c9970bd47cb.js" type="text/javascript"></script>
+<script src="http://dmuuhinfkryqs.cloudfront.net/assets/libs-aa9119ba76f2585c738b298d9c36675f.js" type="text/javascript"></script>
 <script>
   // Defines the configuration options, these must be set before you load
   // the plusone.js file.
@@ -176,8 +189,8 @@ if (window.console && typeof(window.console.log) == 'function') {
 <script src="//apis.google.com/js/client:plusone.js?onload=firstGooglePlusLoad"></script> 
 
 
-        <script>var require = {"baseUrl":"/assets","paths":{"global_trax":"http://dmuuhinfkryqs.cloudfront.net/assets/global_trax-256c1c5dd56169a54be34a8a74d12fcf","initializer":"http://dmuuhinfkryqs.cloudfront.net/assets/initializer-08699ac4ce10c321c9f8a4224d14fb7a","pages/favorite_tracks":"http://dmuuhinfkryqs.cloudfront.net/assets/pages/favorite_tracks-2154138730b19517c26efef6ffc791ef","pages/reviews":"http://dmuuhinfkryqs.cloudfront.net/assets/pages/reviews-bb6413630b0fd7821edd17bb6d13ddba","pages/follows_users":"http://dmuuhinfkryqs.cloudfront.net/assets/pages/follows_users-0bf9cdcf320ca8003ea63c60c99eda5d","pages/home_first_time":"http://dmuuhinfkryqs.cloudfront.net/assets/pages/home_first_time-8435c6ddf90d94f7eca141efbecc428a","pages/home_returning":"http://dmuuhinfkryqs.cloudfront.net/assets/pages/home_returning-021fd4c412263b0feaa409110ccf93bb","pages/home_logged_in":"http://dmuuhinfkryqs.cloudfront.net/assets/pages/home_logged_in-2f6f0ea516b2084534590abb4f62c354","pages/mixes_index":"http://dmuuhinfkryqs.cloudfront.net/assets/pages/mixes_index-996f92fc9e6f4895e96fd2c291d0d06a","pages/mixes_show":"http://dmuuhinfkryqs.cloudfront.net/assets/pages/mixes_show-234f708d54da181aa6af316077510466","pages/mixes_stats":"http://dmuuhinfkryqs.cloudfront.net/assets/pages/mixes_stats-e0c54b84e8e58ee1f2f542e47b883995","pages/collection_edit":"http://dmuuhinfkryqs.cloudfront.net/assets/pages/collection_edit-113141b6a181538fadbf85a353ce0097","pages/users_edit":"http://dmuuhinfkryqs.cloudfront.net/assets/pages/users_edit-00368e4a70ee9cf6483834b6b3d6fe0a","pages/users_show":"http://dmuuhinfkryqs.cloudfront.net/assets/pages/users_show-c1d8f29b89b42202c1de3104e2a40c46","pages/iphone":"http://dmuuhinfkryqs.cloudfront.net/assets/pages/iphone-d127181d3f33184ae2b8bca319860fd2","pages/android":"http://dmuuhinfkryqs.cloudfront.net/assets/pages/android-a861d9678a885e77d887770342dda89a","pages/track":"http://dmuuhinfkryqs.cloudfront.net/assets/pages/track-e0d163de2bf3e5b06cb5ed4a82be922e","pages/player":"http://dmuuhinfkryqs.cloudfront.net/assets/pages/player-b25c4223c189408bd823b55a41b1063e","pages/news_feed":"http://dmuuhinfkryqs.cloudfront.net/assets/pages/news_feed-052ef725c9f6a2cb7d288309e8c722c2","pages/notifications":"http://dmuuhinfkryqs.cloudfront.net/assets/pages/notifications-2a1b751a5964f9a7dcc7bca87a09fa26","pages/sonos_house_party":"http://dmuuhinfkryqs.cloudfront.net/assets/pages/sonos_house_party-cd047dacf9078e31215376510a3c51e5","pages/search_results":"http://dmuuhinfkryqs.cloudfront.net/assets/pages/search_results-61b42229d840b2e8f6e42d0187836862","pages/mixmadness":"http://dmuuhinfkryqs.cloudfront.net/assets/pages/mixmadness-65adc3c6fdab46fb35aeab7fb454e425","pages/mobile_tips":"http://dmuuhinfkryqs.cloudfront.net/assets/pages/mobile_tips-e792e7347a9114561677f3a216d29625","pages/mix_set_debug":"http://dmuuhinfkryqs.cloudfront.net/assets/pages/mix_set_debug-a65cc5f58de2af7cdf52caebc663228d","views/moderator_view":"http://dmuuhinfkryqs.cloudfront.net/assets/views/moderator_view-438152fded0dd9ea8e53f62d32cdcc42","views/mix_edit_view":"http://dmuuhinfkryqs.cloudfront.net/assets/views/mix_edit_view-c4919bee5ae95ee6bb5531a2751b55b7","views/embed_mix_lightbox_view":"http://dmuuhinfkryqs.cloudfront.net/assets/views/embed_mix_lightbox_view-f382acce6361401ec78891db30827938","views/faq_view":"http://dmuuhinfkryqs.cloudfront.net/assets/views/faq_view-9f9e56d034298898afd917a0a60b3075","views/signup_view":"http://dmuuhinfkryqs.cloudfront.net/assets/views/signup_view-884007e67f751da88b5447b215eead48","views/troubleshoot_view":"http://dmuuhinfkryqs.cloudfront.net/assets/views/troubleshoot_view-de260a46aaec63950aa371ece7c75a65","views/basic_upload_view":"http://dmuuhinfkryqs.cloudfront.net/assets/views/basic_upload_view-5936feaf2c17d7baf1c5ebe83f4410fe","views/google_plus_view":"http://dmuuhinfkryqs.cloudfront.net/assets/views/google_plus_view-c416cf98955cdf3ff788e3cf36305a17","views/mix_recommend_view":"http://dmuuhinfkryqs.cloudfront.net/assets/views/mix_recommend_view-085156cba91cbfbad609a1dbf3fde8b4","views/preroll_view":"http://dmuuhinfkryqs.cloudfront.net/assets/views/preroll_view-56551db65b95c2147236bf63323370af","views/autocomplete_view":"http://dmuuhinfkryqs.cloudfront.net/assets/views/autocomplete_view-0615952da5a0d21e521883303938264a","views/mix_stats_view":"http://dmuuhinfkryqs.cloudfront.net/assets/views/mix_stats_view-21395cda08b6916682e78e567f363025","views/8888_view":"http://dmuuhinfkryqs.cloudfront.net/assets/views/8888_view-e0cf4347ac3afc7d1c05119d335a00e5","views/admin/users_admin_view":"http://dmuuhinfkryqs.cloudfront.net/assets/views/admin/users_admin_view-ea69aea0e58ae55defd012dd47889b6b","views/admin/admin_tag_searches_view":"http://dmuuhinfkryqs.cloudfront.net/assets/views/admin/admin_tag_searches_view-428260c6719b847741e635563d182860","views/admin/admin_tag_mappings_view":"http://dmuuhinfkryqs.cloudfront.net/assets/views/admin/admin_tag_mappings_view-53f3ec0c20e2d5190bd6c9e435020ad6","views/admin/explore_filters_view":"http://dmuuhinfkryqs.cloudfront.net/assets/views/admin/explore_filters_view-e113669f1615bec83f3a915a59bbda44","views/admin/admin_identified_tracks_view":"http://dmuuhinfkryqs.cloudfront.net/assets/views/admin/admin_identified_tracks_view-6274ea1fe5b277a47c3bb2a310dee46c","views/admin/reviews_view":"http://dmuuhinfkryqs.cloudfront.net/assets/views/admin/reviews_view-b5a5b1c76f2055719014672726d556ed","views/admin/translations_view":"http://dmuuhinfkryqs.cloudfront.net/assets/views/admin/translations_view-f7949a1ea5ecb45a1f635f67379d54db","views/admin/faq_edit_view":"http://dmuuhinfkryqs.cloudfront.net/assets/views/admin/faq_edit_view-6a42890e901c9f905f587703bf234806","views/admin/reports_view":"http://dmuuhinfkryqs.cloudfront.net/assets/views/admin/reports_view-4168b4f49714921987cfe2f10af2a2a0","views/admin/orders_view":"http://dmuuhinfkryqs.cloudfront.net/assets/views/admin/orders_view-4e01569d0aa8be28600c741282d9894c","views/admin/page_optimizations_view":"http://dmuuhinfkryqs.cloudfront.net/assets/views/admin/page_optimizations_view-1c3ac88a6119f1f130656bee4c1fff36","views/admin/soundcloud_identifier_view":"http://dmuuhinfkryqs.cloudfront.net/assets/views/admin/soundcloud_identifier_view-9752921bcdcf1a47b3aee48c725ca05f","views/nsfw_view":"http://dmuuhinfkryqs.cloudfront.net/assets/views/nsfw_view-f6f6e4ebf2f9c6a610ceda379c0bb84e","views/next_mix_view":"http://dmuuhinfkryqs.cloudfront.net/assets/views/next_mix_view-ea3f3650ae69c0948671c54874551adc","views/tshirt_view":"http://dmuuhinfkryqs.cloudfront.net/assets/views/tshirt_view-cced877218aafe01299143f96f996432","views/checkout_view":"http://dmuuhinfkryqs.cloudfront.net/assets/views/checkout_view-cbcfaa92cae345220405497aff60fd96","views/fb_player_iframe_view":"http://dmuuhinfkryqs.cloudfront.net/assets/views/fb_player_iframe_view-bb39ac4a881e05c9f8b8e8ff83b25472","ima":"https://s0.2mdn.net/instream/html5/ima3"},"shim":{"jquery_ui":{"deps":["vendor/jquery/jquery-migrate-1.0.0.min","jquery_ui_easing"]},"jquery_ui_interactions":{"deps":["jquery_ui"]},"jquery.textboxlist.autocomplete":{"deps":["jquery.class"]},"jquery.class":{"exports":"window.Class"},"facebox":{"exports":"jQuery.facebox"},"highcharts":{"exports":"Highcharts"},"vendor/soundcloud":{"exports":"SC"}},"waitSeconds":60};</script>
-      <script src="http://dmuuhinfkryqs.cloudfront.net/assets/require-b72e6df48e8869231a56b0d5e767bb74.js"></script>
+        <script>var require = {"baseUrl":"/assets","paths":{"global_trax":"http://dmuuhinfkryqs.cloudfront.net/assets/global_trax-10d7b157766fdf5746f3f42fa6690488","initializer":"http://dmuuhinfkryqs.cloudfront.net/assets/initializer-ac7b78d09c7a896cd0ea634d92e41e1d","pages/favorite_tracks":"http://dmuuhinfkryqs.cloudfront.net/assets/pages/favorite_tracks-b23c94766eeb3d040889e1cd13d8049e","pages/reviews":"http://dmuuhinfkryqs.cloudfront.net/assets/pages/reviews-d04dcba1a623275cb6d942263e2070fa","pages/follows_users":"http://dmuuhinfkryqs.cloudfront.net/assets/pages/follows_users-00c8a821f023caf43c21d9af7839837a","pages/home_first_time":"http://dmuuhinfkryqs.cloudfront.net/assets/pages/home_first_time-f3e02035f46e20f76678ee8b3401746d","pages/home_returning":"http://dmuuhinfkryqs.cloudfront.net/assets/pages/home_returning-ac9b0fc5900c27dfecc048e6ba1fa703","pages/home_logged_in":"http://dmuuhinfkryqs.cloudfront.net/assets/pages/home_logged_in-e57341c3dd3c2daf80040179d789ec3a","pages/mixes_index":"http://dmuuhinfkryqs.cloudfront.net/assets/pages/mixes_index-4e45f87f245e6bec49045f748bde5c1d","pages/mixes_show":"http://dmuuhinfkryqs.cloudfront.net/assets/pages/mixes_show-7332461a7dbbd0b47121bc7e5d4f4cef","pages/mixes_stats":"http://dmuuhinfkryqs.cloudfront.net/assets/pages/mixes_stats-a582968313ee146fffcf0902e06be652","pages/collection_edit":"http://dmuuhinfkryqs.cloudfront.net/assets/pages/collection_edit-c2b754fbdfe098a9b9056ef5ecbbe345","pages/users_edit":"http://dmuuhinfkryqs.cloudfront.net/assets/pages/users_edit-eb4f832c8c6931dfa659b3a77670db95","pages/users_show":"http://dmuuhinfkryqs.cloudfront.net/assets/pages/users_show-1f1cc2ff9212d56509937631fd1abb7c","pages/iphone":"http://dmuuhinfkryqs.cloudfront.net/assets/pages/iphone-47ac568c4a1caf9bf1d413e3c21b1d0b","pages/android":"http://dmuuhinfkryqs.cloudfront.net/assets/pages/android-74ac9af519bd64c05e922c6e916abfb7","pages/track":"http://dmuuhinfkryqs.cloudfront.net/assets/pages/track-26ffbef55e341891fe24cd89030b239e","pages/player":"http://dmuuhinfkryqs.cloudfront.net/assets/pages/player-fb23de9492d8c7baca0e22b524d114ff","pages/news_feed":"http://dmuuhinfkryqs.cloudfront.net/assets/pages/news_feed-3729233a749f9676cb90772fe7346947","pages/notifications":"http://dmuuhinfkryqs.cloudfront.net/assets/pages/notifications-426c6c55de1eb35bf3c7cbba2a25a7f5","pages/search_results":"http://dmuuhinfkryqs.cloudfront.net/assets/pages/search_results-d8821beb0062702e1212d52ea022b73a","pages/mixmadness":"http://dmuuhinfkryqs.cloudfront.net/assets/pages/mixmadness-d1b85f7addfc50de2e0d77d0535d7361","pages/mobile_tips":"http://dmuuhinfkryqs.cloudfront.net/assets/pages/mobile_tips-12adb079896d03b94a32cc602eb0362b","pages/mix_set_debug":"http://dmuuhinfkryqs.cloudfront.net/assets/pages/mix_set_debug-7b81a08577986d80ca6588e00dd99702","views/moderator_view":"http://dmuuhinfkryqs.cloudfront.net/assets/views/moderator_view-1f9f0033f8300b3955084af73934fdf2","views/mix_edit_view":"http://dmuuhinfkryqs.cloudfront.net/assets/views/mix_edit_view-eb805c65e3a03ed9883c65e5be38afe0","views/embed_mix_lightbox_view":"http://dmuuhinfkryqs.cloudfront.net/assets/views/embed_mix_lightbox_view-7605defe209b91fa18507ca280436e45","views/faq_view":"http://dmuuhinfkryqs.cloudfront.net/assets/views/faq_view-e25f6f835fc285923b286fae79b82d09","views/signup_view":"http://dmuuhinfkryqs.cloudfront.net/assets/views/signup_view-5657352d076731b625cbfea4debbb795","views/troubleshoot_view":"http://dmuuhinfkryqs.cloudfront.net/assets/views/troubleshoot_view-eb570554bf81735e86af673c809c59f4","views/basic_upload_view":"http://dmuuhinfkryqs.cloudfront.net/assets/views/basic_upload_view-4ffe26aeed37919d0f578d85e8ead44f","views/google_plus_view":"http://dmuuhinfkryqs.cloudfront.net/assets/views/google_plus_view-449969fa6074996a0a8a4ae4859d082f","views/mix_recommend_view":"http://dmuuhinfkryqs.cloudfront.net/assets/views/mix_recommend_view-a4011a1aaa27af0a2ee81142cfacad99","views/preroll_view":"http://dmuuhinfkryqs.cloudfront.net/assets/views/preroll_view-01315d9230a2ced903f5793491fed5b0","views/autocomplete_view":"http://dmuuhinfkryqs.cloudfront.net/assets/views/autocomplete_view-4abdf409601008f45c0585be6941a6fd","views/mix_stats_view":"http://dmuuhinfkryqs.cloudfront.net/assets/views/mix_stats_view-1bdb73d5be5b29ed8906df2f8bb4a7b7","views/8888_view":"http://dmuuhinfkryqs.cloudfront.net/assets/views/8888_view-53f2790841a197d7e85c98b67fc2e395","views/admin/users_admin_view":"http://dmuuhinfkryqs.cloudfront.net/assets/views/admin/users_admin_view-9f5e5cabd41a351fd65be0b120f8b210","views/admin/admin_tag_searches_view":"http://dmuuhinfkryqs.cloudfront.net/assets/views/admin/admin_tag_searches_view-040dee6a7f609a42f0ddf7af8589265d","views/admin/admin_tag_mappings_view":"http://dmuuhinfkryqs.cloudfront.net/assets/views/admin/admin_tag_mappings_view-911228baf5455a9a280b8af5120f87ec","views/admin/explore_filters_view":"http://dmuuhinfkryqs.cloudfront.net/assets/views/admin/explore_filters_view-c4773faafb689e4f5982b1b69cc81065","views/admin/admin_identified_tracks_view":"http://dmuuhinfkryqs.cloudfront.net/assets/views/admin/admin_identified_tracks_view-46efc60959fa30132254d5cc1302a7d1","views/admin/reviews_view":"http://dmuuhinfkryqs.cloudfront.net/assets/views/admin/reviews_view-e324221c4c032ca9452f6b3f4f35ae15","views/admin/translations_view":"http://dmuuhinfkryqs.cloudfront.net/assets/views/admin/translations_view-c0eb48be732750e3960d0293ac808a67","views/admin/faq_edit_view":"http://dmuuhinfkryqs.cloudfront.net/assets/views/admin/faq_edit_view-f057572c9cea1df655a0098b55e93f5a","views/admin/reports_view":"http://dmuuhinfkryqs.cloudfront.net/assets/views/admin/reports_view-73542df6a7394591227d8560ee701248","views/admin/orders_view":"http://dmuuhinfkryqs.cloudfront.net/assets/views/admin/orders_view-26867b996addef377bcca37a4bde2f43","views/admin/page_optimizations_view":"http://dmuuhinfkryqs.cloudfront.net/assets/views/admin/page_optimizations_view-d08198394743e124c83e34a99f666627","views/admin/soundcloud_identifier_view":"http://dmuuhinfkryqs.cloudfront.net/assets/views/admin/soundcloud_identifier_view-08858f6e393729240f11a6256c637e08","views/nsfw_view":"http://dmuuhinfkryqs.cloudfront.net/assets/views/nsfw_view-378e3e25d520f22ecbc7d69c91c75aa6","views/next_mix_view":"http://dmuuhinfkryqs.cloudfront.net/assets/views/next_mix_view-e158d15720949f267baa7da9e4a1cf16","views/tshirt_view":"http://dmuuhinfkryqs.cloudfront.net/assets/views/tshirt_view-2c134927263121abdc9b6ed946d46552","views/checkout_view":"http://dmuuhinfkryqs.cloudfront.net/assets/views/checkout_view-0bb5b214c61773eb07a221f4092f1b2d","views/fb_player_iframe_view":"http://dmuuhinfkryqs.cloudfront.net/assets/views/fb_player_iframe_view-ee8032d90b25f845e31fb01775d21339","ima":"https://s0.2mdn.net/instream/html5/ima3"},"shim":{"jquery_ui":{"deps":["vendor/jquery/jquery-migrate-1.0.0.min","jquery_ui_easing"]},"jquery_ui_interactions":{"deps":["jquery_ui"]},"jquery.textboxlist.autocomplete":{"deps":["jquery.class"]},"jquery.class":{"exports":"window.Class"},"facebox":{"exports":"jQuery.facebox"},"select2":{"exports":"jQuery.select2"},"highcharts":{"exports":"Highcharts"},"vendor/soundcloud":{"exports":"SC"}},"waitSeconds":60};</script>
+      <script src="http://dmuuhinfkryqs.cloudfront.net/assets/require-cb453b006abf29cbab54a285599aa7bd.js"></script>
 
 
 
@@ -264,7 +277,7 @@ if (window.console && typeof(window.console.log) == 'function') {
 <ul type="disc">
   <li>We may use your email address, without further consent, for administrative communications such as notifying you of major 8tracks Platform updates, for customer service purposes, and to send privacy or security related notices.
   </li><li>8tracks uses all of the information that we collect to understand the usage trends and preferences of our Users, to improve the way the 8tracks Platform works and looks, and to create new features and functionality.
-  </li><li>tracks may use "Automatically Collected" information and "Cookies" information to: (a) automatically update the 8tracks application on your system; (b) remember your information so that you will not have to re-enter it during your visit or the next time you access the 8tracks Platform; (c) provide customized third-party advertisements, content and information both on and off the 8tracks Platform; (d) monitor and report on the effectiveness of third-party marketing campaigns; (e) monitor and report aggregate usage metrics such as total number of visitors and pages accessed; and (d) track your entries, submissions, and status in any promotions or other activities; and (e) track and enforce any programming limitations adopted by the Service, including by way of example and not limitation, how frequently you may listen to a particular playlist within a defined time period.</li>
+  </li><li>8tracks may use "Automatically Collected" information and "Cookies" information to: (a) automatically update the 8tracks application on your system; (b) remember your information so that you will not have to re-enter it during your visit or the next time you access the 8tracks Platform; (c) provide customized third-party advertisements, content and information both on and off the 8tracks Platform; (d) monitor and report on the effectiveness of third-party marketing campaigns; (e) monitor and report aggregate usage metrics such as total number of visitors and pages accessed; and (d) track your entries, submissions, and status in any promotions or other activities; and (e) track and enforce any programming limitations adopted by the Service, including by way of example and not limitation, how frequently you may listen to a particular playlist within a defined time period.</li>
 </ul>
 
 
@@ -343,9 +356,9 @@ if (window.console && typeof(window.console.log) == 'function') {
   <h6>8tracks elsewhere</h6>
 
   <div class="indent featherweight">
-    <p><a href="http://twitter.com/8tracks" class="elsewhere"><img alt="Logo.square.twitter" src="//dmuuhinfkryqs.cloudfront.net/assets/logo/logo.square.twitter-1906ab82b1380b77f138c69433333dc4.png"> Follow us on twitter</a></p>
-    <p><a href="http://facebook.com/8tracks" class="elsewhere"><img alt="Logo.square.facebook" src="//dmuuhinfkryqs.cloudfront.net/assets/logo/logo.square.facebook-61ecfc35ff10a51061493e7eab6dc14b.png"> Like us on facebook</a></p>
-    <p><a href="http://8tracks.tumblr.com" class="elsewhere"><img alt="Logo.square.tumblr" src="//dmuuhinfkryqs.cloudfront.net/assets/logo/logo.square.tumblr-21d5069aeeb73092cf0f7e7f6b5ffa20.png"> Follow us on tumblr</a></p>
+    <p><a href="http://twitter.com/8tracks" class="elsewhere"><img alt="Logo.square.twitter" src="//dmuuhinfkryqs.cloudfront.net/assets/logo/logo.square.twitter-d98edebec9e0973c306ac184ccbada5d.png"> Follow us on twitter</a></p>
+    <p><a href="http://facebook.com/8tracks" class="elsewhere"><img alt="Logo.square.facebook" src="//dmuuhinfkryqs.cloudfront.net/assets/logo/logo.square.facebook-aed049cc1425886f04cc49ba2dadc8b4.png"> Like us on facebook</a></p>
+    <p><a href="http://8tracks.tumblr.com" class="elsewhere"><img alt="Logo.square.tumblr" src="//dmuuhinfkryqs.cloudfront.net/assets/logo/logo.square.tumblr-3916f5d5f9d1183b3b14e21b9ce80f04.png"> Follow us on tumblr</a></p>
   </div>
   
   <p></p><hr><p></p>
@@ -355,7 +368,7 @@ if (window.console && typeof(window.console.log) == 'function') {
   <div class="indent featherweight">
     <p>
       <strong>General inquiry</strong><br>
-      <a href="mailto:info@8tracks.com">info@8tracks.com</a>
+      <a href="mailto:support@8tracks.com">support@8tracks.com</a>
     </p>
     <p>
       <strong>Troubleshooting</strong><br>
@@ -363,6 +376,7 @@ if (window.console && typeof(window.console.log) == 'function') {
     </p>
   </div>
 </div>
+
 
         </div>
       </div>
@@ -401,10 +415,10 @@ if (window.console && typeof(window.console.log) == 'function') {
 			</div>
 		</div>
 
-		<div class="mobile_links">
-			<a href="http://ad.apps.fm/bH-pq_81c0cdF3UBCRec7hM8G1T_LUvoWYXredpuoYCY8xPhuYVtBKjDKjYh4VBzdc0Sl1II8eUHSdM8AdXZ_9gC_QhCfgp5Phv8Lf__PPM" class="apple_appstore" rel="external" target="_blank" title="iPhone app"></a>
-			<a href="https://play.google.com/store/apps/details?id=com.e8tracks&amp;referrer=utm_source%3D8tracks.com%26utm_medium%3Dreferral%26utm_content%3Dfooter%26utm_campaign%3DDownloads%2520from%2520Site" class="android_appstore" rel="external" target="_blank" title="Get our Android app on Google Play"></a>
-			<a href="http://apps.microsoft.com/windows/en-US/app/8tracks-radio/956c13b6-fd21-419e-98a6-be86500523a8" class="windows_appstore" rel="external" target="_blank" title="Available on the Windows Store"></a>
+		<div class="mobile_links col-xs-9 col-md-6">
+			<a href="https://bnc.lt/8tracks-ios" class="apple_appstore" rel="external" target="_blank" title="iPhone app"></a>
+			<a href="https://bnc.lt/8tracks-android" class="android_appstore" rel="external" target="_blank" title="Get our Android app on Google Play"></a>
+			<a href="https://bnc.lt/8tracks-windows" class="windows_appstore" rel="external" target="_blank" title="Available on the Windows Store"></a>
 		</div>
 
 		<div class="facebook_like">
@@ -418,7 +432,6 @@ if (window.console && typeof(window.console.log) == 'function') {
 			<li class="label">Extras</li>
 			<li><a href="/apps">Apps</a></li>
 			<li><a href="/plus">Ad free</a></li>
-			<li><a href="/store">Merchandise</a></li>
 			<li><a href="/developers">Developer API</a></li>
 			<li><a href="/tags">Tag map</a></li>
 			<li class="p p_admin off"><a href="/settings/1">[Admin]</a></li>
@@ -434,7 +447,7 @@ if (window.console && typeof(window.console.log) == 'function') {
 		</ul>
 		<ul class="toe">
 			<li class="label">Help</li>
-			<li><a href="/contact_us">Contact us</a></li>
+			<!--li><a href="/contact_us">Contact us</a></li-->
 			<li><a href="/faq">FAQ</a></li>
 			<li><a href="/troubleshoot" target="_blank">Troubleshoot</a></li>
 			<li><a href="/create_playlist" target="_blank">Create a playlist</a></li>
@@ -458,10 +471,12 @@ if (window.console && typeof(window.console.log) == 'function') {
 
 	<div id="tagline" class="clear">
 		Listen to handcrafted internet radio. Share your own playlist online.
-		©8tracks Inc. 2014
+		©8tracks Inc. 2015
 
 		<div id="quote">
-			<a href="https://www.youtube.com/watch?v=ZeKaHBMKows" target="_blank">how could you ever walk away</a>
+			<a href="http://www.youtube.com/watch?v=WmCfmNjzFPQ" target="_blink">
+your love to me is gold
+</a>
 		</div>
 
 		<div class="afs_ads">&nbsp;</div>
@@ -512,7 +527,6 @@ if (window.console && typeof(window.console.log) == 'function') {
 <script type="text/javascript" src="//www.gstatic.com/cv/js/sender/v1/cast_sender.js"></script>
 <script>
   window.__onGCastApiAvailable = function (loaded, errorInfo) {
-    console.log('cast api available')
     if (!App.cast) {
       var args = arguments;
       setTimeout(function() { return args.callee(loaded, errorInfo)}, 1000);
