@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mybsn.com.my privacy policy that was archived on 2014-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140812052533id_/http%3A//www.mybsn.com.my/content.xhtml%3FcontentId%3D253) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mybsn.com.my privacy policy that was archived on 2015-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150617000829id_/http%3A//www.mybsn.com.my/content.xhtml%3FcontentId%3D253) for the most accurate reproduction.*
 
 # myBSN : bsn_privacy_policy
 
@@ -87,17 +87,11 @@ However, we reserve the right to decline to process any requests which may jeopa
 Customer Complaints
 
   
-For any queries, concerns or complaints relating to your personal information, please write to us by mail, fax or e-mail.
+For any queries, concerns or complaints relating to your personal information, please write to us by email or fax.
 
 **  
 Customer Service Centre (24 hours)**  
 Tel: 1300 88 1900 or +603-2613 1900 (Overseas)  
 Fax: 03-2613 1888 (General)  
-Email:  [servicemanager@bsn.com.my](mailto:servicemanager@bsn.com.my) (General)   
-        :  [mybsncontact@bsn.com.my](mailto:mybsncontact@bsn.com.my) (Internet & SMS Banking)
-
-**  
-Mailing Address:**  
-Wisma BSN  
-117, Jalan Ampang  
-50450 Kuala Lumpur
+Email:  [customercare@bsn.com.my](mailto:customercare@bsn.com.my)  
+       
