@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fashionbombdaily.com privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227162321id_/http%3A//fashionbombdaily.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fashionbombdaily.com privacy policy that was archived on 2015-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150617003242id_/http%3A//fashionbombdaily.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy ‹ The Fashion Bomb Blog : Celebrity Fashion, Fashion News, What To Wear, Runway Show ReviewsThe Fashion Bomb Blog : Celebrity Fashion, Fashion News, What To Wear, Runway Show Reviews
+# Privacy Policy - The Fashion Bomb Blog : Celebrity Fashion, Fashion News, What To Wear, Runway Show ReviewsThe Fashion Bomb Blog : Celebrity Fashion, Fashion News, What To Wear, Runway Show Reviews
 
 Privacy Policy
 
