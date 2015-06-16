@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uniblue.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230104951id_/http%3A//www.uniblue.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uniblue.com privacy policy that was archived on 2015-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150616225516id_/http%3A//www.uniblue.com/privacy) for the most accurate reproduction.*
 
 # Uniblue Privacy Policy
 
@@ -42,8 +42,6 @@ These are advertising networks used to deliver interactive advertising campaigns
 **Electronic notices** \- We may provide you with information and notices regarding the Uniblue products, surveys, promotional emails, offers or other information which may be of use or interest to You, via the email address you designate in the payment process, when you sign up for our newsletter or when you sign up to some of our free services. We may also send you transactional, technical or other service notifications from time to time. These messages are sent only to individuals who have purchased our products or services and are essential to maintain the functionality of same, so there is no opt-out available for this type of notifications. 
 
 **Uniblue Products** \- Whilst in use, the Uniblue product may collect some information from your computer (e.g. frequency of use, system name, Windows version and browser type, IP address, installed devices and date of installation). In some products, we also make use of in-product analytics services provided by third parties. These third parties may collect some information regarding your activity when making use of the Uniblue Products but will not collect any personally identifiable information about you. 
-
-While, we will only use this information to improve our products and services, we understand that you may wish to stop sending us usage information. If you would like to opt out from sending Uniblue this information, access the Manage tab in the Uniblue products. This opt-out is available only in those products that collect usage information. 
 
 When you purchase a Uniblue product from this Website, you will be required to provide personal information (including your credit card details) to one of our trusted third party retailers. Information you provide to the retailer will be processed in accordance with its privacy policy and you are therefore advised to review such policy prior to purchase. The retailer may share your personal information with us, including but not limited to details on the purchase and any other personal information necessary for authentication of license, statistical, notification, as well as support and payment-related services. You may also access your purchase details remotely by submitting a request on our Support Website. 
 
