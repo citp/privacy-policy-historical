@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spreadex.com privacy policy that was archived on 2014-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141111210708id_/http%3A//www.spreadex.com/sports/terms-agreements/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spreadex.com privacy policy that was archived on 2015-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150616220548id_/http%3A//www.spreadex.com/sports/terms-agreements/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Spreadex | Terms & Agreements
 
@@ -7,7 +7,21 @@ Protecting the security and privacy of your personal information is important to
 
   **Spreadex Commitment to Data Privacy Protection**  
 Through our websites, Spreadex will not collect any personally identifiable information about you (e.g. your name, address, telephone number or e-mail address ("personal information")), unless you voluntarily choose to provide it to us (e.g. by registration, email enquiry, survey). If you do not want your personal information collected, please do not submit it to us.   
-When you do provide us with personal information, we usually use it to respond to your enquiry, or provide you access to specific account information, and to support our customer relationship with you.  
+When you do provide us with personal information, we usually use it to respond to your enquiry, or provide you access to specific account information, and to support our customer relationship with you.
+
+We may disclose your personal information to our employees, officers, insurers, professional advisers, agents, suppliers or subcontractors insofar as reasonably necessary for the purposes set out in this policy.
+
+We may disclose your personal information:
+
+(a) to the extent that we are required to do so by law (including, but not limited to, other regulatory bodies and/or law enforcement agencies);
+
+(b) in connection with any ongoing or prospective legal proceedings;
+
+(c) in order to establish, exercise or defend our legal rights (including providing information to others for the purposes of fraud prevention and reducing credit risk);
+
+(d) to any person who we reasonably believe may apply to a court or other competent authority for disclosure of that personal information where, in our reasonable opinion, such court or authority would be reasonably likely to order disclosure of that personal information.
+
+  
 We may store and process personal information and share it within the Spreadex group of companies to better understand your business needs and how we can improve our products and services; or we (or a third party on our behalf) may use Personal Information to contact you about a Spreadex offer in support of your business needs or to conduct online surveys to understand better our customers' needs and profiles.  
 If you choose not to have your personal information used to support our customer relationship programmes (especially direct-marketing or market-research), we will respect your choice. We do not now (and do not intend to in the future) sell, rent or otherwise market your personal information to third parties.  
 When you open an account with Spreadex, depending on your stated trading preference on your application, you will be opted in to receive either a weekly financial market update email or regular sports emails highlighting key events or matches. We may also send you occasional emails on product improvements and special offers.    
