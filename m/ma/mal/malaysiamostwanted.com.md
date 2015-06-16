@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the malaysiamostwanted.com privacy policy that was archived on 2014-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141224044649id_/http%3A//food.malaysiamostwanted.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the malaysiamostwanted.com privacy policy that was archived on 2015-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150616094912id_/http%3A//food.malaysiamostwanted.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Malaysia Food & Restaurant Reviews
 
