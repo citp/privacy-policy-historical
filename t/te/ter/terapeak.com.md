@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the terapeak.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230105352id_/http%3A//www.terapeak.com/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the terapeak.com privacy policy that was archived on 2015-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150616234118id_/http%3A//www.terapeak.com/policies/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,7 +6,7 @@ Last Updated: 2014-12-15
 
 Terapeak Inc., a Delaware company, Terapeak (Canada) Inc., a Canadian company, Terapeak GmbH, a German company, and their affiliates and subsidiaries (collectively “Terapeak”) are committed to protecting the privacy of users of the website terapeak.com (the "Website") and our online products and services (the “Products and Services”) in accordance with the requirements of Canadian federal and provincial privacy laws.
 
-**Terapeak has been awarded TRUSTe's Privacy Seal signifying that this privacy policy (the “Privacy Policy”) and practices have been reviewed by TRUSTe for compliance with[TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program covers only information that is collected through the website [http://www.terapeak.com](http://www.terapeak.com/) and does not cover information that may be collected through downloadable software. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding this Privacy Policy or our practices with respect to privacy, please contact us via email at [privacy@terapeak.com](mailto:privacy@terapeak.com) or telephone at 1.866.959.8372 . If you are not satisfied with our response you can [contact TRUSTe here ](http://watchdog.truste.com/pvr.php?page=complaint).**
+**Terapeak has been awarded TRUSTe's Privacy Seal signifying that this privacy policy (the “Privacy Policy”) and practices have been reviewed by TRUSTe for compliance with[TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program covers only information that is collected through the website [http://www.terapeak.com](http://www.terapeak.com/) and does not cover information that may be collected through downloadable software. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding this Privacy Policy or our practices with respect to privacy, please contact us via email at [privacy@terapeak.com](mailto:privacy@terapeak.com) or telephone at 1.866.959.8372 . If you are not satisfied with our response you can [contact TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint)** ** ** **.**
 
 ## PURPOSE
 
@@ -50,7 +50,7 @@ We automatically track certain information based on the user's use of the Websit
 
 
 
-We use this information, which does not identify individual users, to analyze trends, to administer the site, to track users’ movements around the site and to gather demographic information about our user base as a whole.
+We use this information, which does not identify individual users, to analyze trends, to administer the site, to track users’ movements around the site and to gather demographic information about our user base as a whole. 
 
 We do not link this automatically-collected data to personally identifiable information.
 
@@ -60,11 +60,11 @@ We collect unsolicited information posted by users on the Website including blog
 
 ## Links
 
-The Website contain links to other websites. This Privacy Policy applies solely to the Website and the Products and Services. We are not responsible for the privacy practices of other websites. We encourage you to read the privacy policy of any such website prior to submitting your personal information.
+The Website contain links to other website. This Privacy Policy applies solely to the Website and the Products and Services. We are not responsible for the privacy practices of other websites. We encourage you to read the privacy policy of any such website prior to submitting your personal information.
 
 ## Social Media Features
 
-Our Website includes Social Media Features, such as the Facebook Like button. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by  third parties . Your interactions with these Features are governed by the privacy policy of the company providing it.
+Our Website includes Social Media Features, such as the Facebook Like button. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by  third parties . Your interactions with these Features are governed by the privacy policy of the company providing it. 
 
 ## USE OF INFORMATION
 
@@ -84,7 +84,7 @@ We use the information obtained through the tracking of our users activities to 
 
 Technologies such as: cookies, beacons, tags and scripts are used by Terapeak and our marketing partners. These technologies are used in analyzing trends, administering the site, tracking users’ movements around the site and to gather demographic information about our user base as a whole.
 
-We use cookies to remember users’ settings (e.g. language preference, for authentication and tracking users’ movements around the site). Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our site, but your ability to use some features or areas of our site may be limited.
+We use cookies to remember users’ settings (e.g. language preference, for authentication and tracking users’ movements around the site. Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our site, but your ability to use some features or areas of our site may be limited.
 
 We use Local Storage Objects (LSOs) such as HTML5 to store user information and preferences. Third parties with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity use LSOs such as HTML 5 to collect and store information.
 
@@ -92,7 +92,7 @@ Various browsers may offer their own management tools for removing HTML5 LSOs. T
 
 ### Behavioral Targeting / Re-Targeting
 
-We partner with a third party ad network to either display advertising on our Web site or to manage our advertising on other sites.  Our ad network partner uses cookies and Web beacons to collect non-personally identifiable information about your activities on this and other Web sites to provide you targeted advertising based upon your interests.  If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by clicking <http://preferences-mgr.truste.com/> . Please note this does not opt you out of being served advertising.  You will continue to receive generic ads.
+We partner with a third party ad network to either display advertising on our Web site or to manage our advertising on other sites.  Our ad network partner uses cookies and Web beacons to collect non-personally identifiable information about your activities on this and other Web sites to provide you targeted advertising based upon your interests.  If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by clicking <http://preferences-mgr.truste.com/>  .;Please note this does not opt you out of being served advertising.  You will continue to receive generic ads.
 
 ### Testimonials
 
@@ -158,7 +158,7 @@ You acknowledge and agree that we cannot ensure or guarantee your secure access 
 
 You may choose to refuse or withdraw consent to our use of your personal information as provided herein by refusing to provide personal information or withdrawing such consent, subject to any applicable notice provisions, by emailing [privacy@terapeak.com](mailto:privacy@terapeak.com).
 
-If you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving these communications by following instructions given in the footer of the email or emailing [privacy@terapeak.com](mailto:privacy@terapeak.com)
+If you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving these communications by following instructions given in the footer of the email or emailing [[privacy@terapeak.com](mailto:privacy@terapeak.com)](http://mailto:privacy@terapeak.com/)
 
 ## ACCESSING AND UPDATING YOUR PERSONAL INFORMATION
 
@@ -178,11 +178,9 @@ Notwithstanding any changes to our Privacy Policy, we will use personal informat
 
 If you have any questions, concerns or suggestions regarding this Privacy Policy or our privacy practices, please contact us at:
 
-_**Terapeak Inc.**  
+**Terapeak Inc.**  
 200 – 1019 Wharf St.  
 Victoria, BC, Canada V8W 2Y9  
 Phone: 1 (866) 959-8372
 
 Email: [privacy@terapeak.com](mailto:privacy@terapeak.com)
-
-_
