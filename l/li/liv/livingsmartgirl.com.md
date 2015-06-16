@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the livingsmartgirl.com privacy policy that was archived on 2014-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141107021249id_/http%3A//www.livingsmartgirl.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livingsmartgirl.com privacy policy that was archived on 2015-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150617014602id_/http%3A//www.livingsmartgirl.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Living Smart Girl
 
@@ -80,8 +80,7 @@ This policy was last modified on 07/11/11
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-http://www.livingsmartgirl.com
-
+http://www.livingsmartgirl.com  
 Living Smart Girl  
 8847 Pequaywan Lake Road  
 Duluth, Mn 55803  
