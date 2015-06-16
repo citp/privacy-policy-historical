@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the downloadpipe.com privacy policy that was archived on 2014-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141126034729id_/http%3A//www.downloadpipe.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the downloadpipe.com privacy policy that was archived on 2015-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150616082007id_/http%3A//www.downloadpipe.com/privacy.html) for the most accurate reproduction.*
 
 # DownloadPipe.com Privacy Policy
 
@@ -32,15 +32,15 @@ RECOMMENDED
 
 Top Downloads
 
-  1. 1[ TextPipe Standard](http://www.downloadpipe.com/Windows/system-utilities-text-document-editors/review-TextPipe-Standard-51068) 392,744 downloads
-  2. 2[ Internet Download Manager](http://www.downloadpipe.com/Windows/network-internet-browsers/review-Internet-Download-Manager-1210217) 67,062 downloads
-  3. 3[ Cleanup Assistant](http://www.downloadpipe.com/Windows/ebooks/review-Cleanup-Assistant-1224398) 23,755 downloads
-  4. 4[ Magic Photo Editor](http://www.downloadpipe.com/Windows/graphic-apps-editors/review-Magic-Photo-Editor-556575) 23,489 downloads
-  5. 5[ Anonymous Forum Buddy](http://www.downloadpipe.com/Windows/network-internet-tools-utilities/review-Anonymous-Forum-Buddy-1054673) 22,873 downloads
-  6. 6[ DetachPipe Free](http://www.downloadpipe.com/Windows/communications-other-e-mail-tools/review-DetachPipe-Free-474119) 15,990 downloads
-  7. 7[ WordPipe Search and Replace for Word](http://www.downloadpipe.com/Windows/business-word-processing/review-WordPipe-Search-and-Replace-for-110782) 14,550 downloads
-  8. 8[ eyeBeam 1.5 Basic For Windows](http://www.downloadpipe.com/Windows/network-internet-communications/review-eyeBeam-1.-5-Basic-For-924290) 14,216 downloads
-  9. 9[ Nero](http://www.downloadpipe.com/Windows/audio-multimedia-dvd/review-Nero-1180032) 12,913 downloads
-  10. 10[ Easy WiFi Radar Pro](http://www.downloadpipe.com/Windows/network-internet-dial-up-connectivity/review-Easy-WiFi-Radar-Pro-1090036) 11,756 downloads
+  1. 1[ TextPipe Standard](http://www.downloadpipe.com/Windows/system-utilities-text-document-editors/review-TextPipe-Standard-51068.html) 392,703 downloads
+  2. 2[ 3D-Driving-School Europe-Edition](http://www.downloadpipe.com/Windows/education-teaching-training-tools/review-3D-Driving-School-Europe-Edition-71242.html) 148,397 downloads
+  3. 3[ Quick Heal Total Security 2013 Windows 2000/XP/Vista/2008 (1 year)](http://www.downloadpipe.com/Windows/security-privacy-anti-virus-tools/review-Quick-Heal-Total-Security-Windows-1222954.html) 75,716 downloads
+  4. 4[ Quick Heal Antivirus Pro 2013 Windows 2000/XP/Vista (1 year)](http://www.downloadpipe.com/Windows/security-privacy-anti-virus-tools/review-Quick-Heal-Antivirus-Pro-Windows-1222953.html) 42,534 downloads
+  5. 5[ Advanced Forum](http://www.downloadpipe.com/Windows/network-internet-tools-utilities/review-Advanced-Forum-1057876.html) 39,034 downloads
+  6. 6[ Yahoo Pool Aimer](http://www.downloadpipe.com/Windows/network-internet-browser-tools/review-Yahoo-Pool-Aimer-84699.html) 37,101 downloads
+  7. 7[ Flash Player Mobile](http://www.downloadpipe.com/Windows/business-applications/review-Flash-Player-Mobile-653194.html) 31,979 downloads
+  8. 8[ Driver Test](http://www.downloadpipe.com/Windows/education-teaching-training-tools/review-Driver-Test-1214375.html) 28,560 downloads
+  9. 9[ Cleanup Assistant](http://www.downloadpipe.com/Windows/ebooks/review-Cleanup-Assistant-1224398.html) 23,804 downloads
+  10. 10[ Magic Photo Editor](http://www.downloadpipe.com/Windows/graphic-apps-editors/review-Magic-Photo-Editor-556575.html) 23,644 downloads
 
 
