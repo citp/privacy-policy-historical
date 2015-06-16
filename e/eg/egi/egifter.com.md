@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the egifter.com privacy policy that was archived on 2014-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141204051638id_/https%3A//www.egifter.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the egifter.com privacy policy that was archived on 2015-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150616215647id_/https%3A//www.egifter.com/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | eGifter
 
@@ -64,7 +64,7 @@ Access to Information.
 All users who provide their Information to the Site may modify and correct such Information by accessing their profiles within the Control Center.
 
 Your California Privacy Rights.   
-California Civil Code Section 1798.83 permits users of the Site who are California residents to request certain information regarding eGifter's disclosure of personal information to third parties for such third parties' direct marketing purposes. To make such a request, please write to eGifter, Inc. 445 Broad Hollow Road Suite 25, Melville NY 11747 **.**
+California Civil Code Section 1798.83 permits users of the Site who are California residents to request certain information regarding eGifter's disclosure of personal information to third parties for such third parties' direct marketing purposes. To make such a request, please write to eGifter, Inc. 315 Main Street 2nd Floor, Huntington, NY 11743 **.**
 
 Changes to this Privacy Policy.
 
