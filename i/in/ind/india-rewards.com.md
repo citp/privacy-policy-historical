@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the india-rewards.com privacy policy that was archived on 2014-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140830235817id_/http%3A//www.india-rewards.com/cgi-bin/global.pl%3Ftodo%3Dshow_page%26ident%3Ddatenschutz%26wingame_pk%3D42%26freetest_pk%3D12) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the india-rewards.com privacy policy that was archived on 2015-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150616034410id_/http%3A//www.india-rewards.com/cgi-bin/global.pl%3Ftodo%3Dshow_page%26ident%3Ddatenschutz%26wingame_pk%3D42%26freetest_pk%3D12) for the most accurate reproduction.*
 
 # Data Protection
 
