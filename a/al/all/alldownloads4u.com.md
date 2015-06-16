@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alldownloads4u.com privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227093204id_/http%3A//alldownloads4u.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alldownloads4u.com privacy policy that was archived on 2015-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150617013923id_/http%3A//alldownloads4u.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Alldownloads4u.Com
 
