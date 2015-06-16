@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the 4umf.com privacy policy that was archived on 2014-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141224172721id_/http%3A//4umf.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 4umf.com privacy policy that was archived on 2015-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150616071539id_/http%3A//www.4umf.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | » 4umf
+# Privacy Policy
 
 **Privacy Policy**
 
