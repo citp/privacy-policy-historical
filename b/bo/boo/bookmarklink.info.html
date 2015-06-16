@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the bookmarklink.info privacy policy that was archived on 2014-11-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141120215016id_/http%3A//www.bookmarklink.info/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bookmarklink.info privacy policy that was archived on 2015-06-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150616104657id_/http%3A//www.bookmarklink.info/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en" dir="ltr"><head>
 <title>Privacy Policy</title>
@@ -29,10 +29,10 @@ html div.ow_console_list_wrapper
 <div class="ow_console clearfix">
     <div class="ow_console_body clearfix">
         <div style="ow_floatright">
-                            <div id="console_item_546e621868d29" class="ow_console_item ">
+                            <div id="console_item_557ffea166f7b" class="ow_console_item ">
     <span class="ow_signin_label">Sign In</span>
     </div>
-                            <div id="console_item_546e621868f42" class="ow_console_item ow_console_button">
+                            <div id="console_item_557ffea167165" class="ow_console_item ow_console_button">
     <a href="http://www.bookmarklink.info/join" onclick="">Sign up</a>
     </div>
                     </div>
@@ -53,8 +53,8 @@ html div.ow_console_list_wrapper
 					<div class="ow_content">
 						<div style="display:none"><div id="base_cmp_floatbox_ajax_signin"><div class="ow_sign_in_wrap">
 <h2>BookMark Link </h2>
-<form id="form_91794629" method="post" action="http://www.bookmarklink.info/base/user/ajax-sign-in/" name="sign-in">
-<input name="form_name" id="input_4799353" type="hidden" value="sign-in">
+<form id="form_68468668" method="post" action="http://www.bookmarklink.info/base/user/ajax-sign-in/" name="sign-in">
+<input name="form_name" id="input_89868574" type="hidden" value="sign-in">
 
      <div class="clearfix">
         <div class="ow_sign_in">
@@ -69,16 +69,16 @@ html div.ow_console_list_wrapper
 
 
                 <div class="ow_user_name">
-                    <input name="identity" id="input_55169094" type="text" value="Username/Email" class="invitation">
+                    <input name="identity" id="input_62107421" type="text" value="Username/Email" class="invitation">
                 </div>
                 <div class="ow_password">
-                    <input name="password" id="input_71100885" type="password" value="password" class="invitation">
+                    <input name="password" id="input_94052524" type="password" value="password" class="invitation">
                 </div>
                 <div class="ow_form_options clearfix">
                     <div class="ow_right">
-                        <span class="ow_button"><span class=" ow_positive"><input type="submit" value="Sign In" id="input_29571011" class="ow_positive" name="submit"></span></span>
+                        <span class="ow_button"><span class=" ow_positive"><input type="submit" value="Sign In" id="input_79476622" class="ow_positive" name="submit"></span></span>
                     </div>
-                    <p class="ow_remember_me"><input name="remember" id="input_80982015" type="checkbox" checked="checked"><label for="input_80982015">Remember me</label></p>
+                    <p class="ow_remember_me"><input name="remember" id="input_93216055" type="checkbox" checked="checked"><label for="input_93216055">Remember me</label></p>
                     <p class="ow_forgot_pass"><a href="http://www.bookmarklink.info/forgot-password">Forgot Password</a></p>
                 </div>
             
@@ -239,11 +239,11 @@ OW.Users = new OW_UsersApi();
 </script>
 <script type="text/javascript">
 $(function () {
-(function(_scope) { var form = new OwForm({"id":"form_91794629","name":"sign-in","reset":false,"ajax":true,"ajaxDataType":"json","validateErrorMessage":"Please fill the form properly"});window.owForms[form.name] = form;
+(function(_scope) { var form = new OwForm({"id":"form_68468668","name":"sign-in","reset":false,"ajax":true,"ajaxDataType":"json","validateErrorMessage":"Please fill the form properly"});window.owForms[form.name] = form;
 			
-var formElement = new OwFormElement("input_4799353", "form_name");
+var formElement = new OwFormElement("input_89868574", "form_name");
 form.addElement(formElement);
-var formElement = new OwTextField("input_55169094", "identity", "Username\/Email");formElement.addValidator({
+var formElement = new OwTextField("input_62107421", "identity", "Username\/Email");formElement.addValidator({
         	validate : function( value ){
                 if(  $.isArray(value) ){ if(value.length == 0  ) throw "Required"; return;}
                 else if( !value || $.trim(value).length == 0 ){ throw "Required"; }
@@ -251,7 +251,7 @@ var formElement = new OwTextField("input_55169094", "identity", "Username\/Email
         	getErrorMessage : function(){ return "Required" }
         });
 form.addElement(formElement);
-var formElement = new OwTextField("input_71100885", "password", "password");formElement.addValidator({
+var formElement = new OwTextField("input_94052524", "password", "password");formElement.addValidator({
         	validate : function( value ){
                 if(  $.isArray(value) ){ if(value.length == 0  ) throw "Required"; return;}
                 else if( !value || $.trim(value).length == 0 ){ throw "Required"; }
@@ -259,7 +259,7 @@ var formElement = new OwTextField("input_71100885", "password", "password");form
         	getErrorMessage : function(){ return "Required" }
         });
 form.addElement(formElement);
-var formElement = new OwCheckboxField("input_80982015", "remember");
+var formElement = new OwCheckboxField("input_93216055", "remember");
 form.addElement(formElement);
 
 
@@ -272,7 +272,7 @@ form.addElement(formElement);
     			);
 			}
 		form.bind('success', function(data){if( data.result ){OW.info(data.message);setTimeout(function(){window.location.reload();}, 1000);}else{OW.error(data.message);}});})(window);
-(function(_scope) {OW.Console = new OW_Console({"pingInterval":30000},{"console":{"time":1416520216},"invitation":{"counter":{"all":"0","new":"0"}},"mailbox":{"counter":{"all":0,"new":0}},"friend_requests":{"counter":{"all":"0","new":"0"}},"notification":{"counter":{"all":"0","new":"0"}}});
+(function(_scope) {OW.Console = new OW_Console({"pingInterval":30000},{"console":{"time":1434451617},"invitation":{"counter":{"all":"0","new":"0"}},"mailbox":{"counter":{"all":0,"new":0}},"friend_requests":{"counter":{"all":"0","new":"0"}},"notification":{"counter":{"all":"0","new":"0"}}});
 })(window);
 (function(_scope) {OW.bindAutoClicks();OW.bindTips($('body'));})(window);
 (function(_scope) {OW.registerLanguageKey('base', 'ajax_floatbox_users_title', "Users");})(window);
@@ -280,7 +280,7 @@ form.addElement(formElement);
 (function(_scope) {OW.registerLanguageKey('base', 'delete_user_confirmation_label', "Delete confirmation");})(window);
 (function(_scope) {OW.registerLanguageKey('admin', 'edit_language', "Edit Language");})(window);
 (function(_scope) {
-                $('#console_item_546e621868d29').click(function(){new OW_FloatBox({ $contents: $('#base_cmp_floatbox_ajax_signin')});});
+                $('#console_item_557ffea166f7b').click(function(){new OW_FloatBox({ $contents: $('#base_cmp_floatbox_ajax_signin')});});
             })(window);
 (function(_scope) {
     DND_InterfaceFix.fix('.ow_sidebar');
