@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mynews3.com privacy policy that was archived on 2014-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141126095514id_/http%3A//www.mynews3.com/content/termsofuse/default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mynews3.com privacy policy that was archived on 2015-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150617002252id_/http%3A//www.news3lv.com/content/termsofuse/default.aspx) for the most accurate reproduction.*
 
-# Privacy Policy - Las Vegas MyNews3 - KSNV
+# Privacy Policy - News3LV
 
 Privacy Notice and User Guidelines   
 Updated as of April 13, 2009
