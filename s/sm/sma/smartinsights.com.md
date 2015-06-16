@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smartinsights.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230110902id_/http%3A//www.smartinsights.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartinsights.com privacy policy that was archived on 2015-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150616224156id_/http%3A//www.smartinsights.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Smart Insights Digital Marketing Advice
 
@@ -28,15 +28,15 @@ When you become a Basic or Expert member of SmartInsights.com you give consent t
 
 This section gives comprehensive information on how we use cookies on SmartInsights.com
 
-A cookie consists of a piece of text sent by a web server to your web browser, which is then stored by your browser. The information is then sent back to our web server each time your browser requests a page from the server. This enables the web server to identify individual web browsers. It does not contain personally identifiable information such as your name or other personal details – simply a unique identifier relevant to you.
+A cookie consists of a piece of text sent by a web server to your web browser, which is then stored by your browser. The information is then sent back to our web server each time your browser requests a page from the server. This enables the web server to identify individual web browsers. It does not contain personally identifiable information such as your name or other personal details - simply a unique identifier relevant to you.
 
 _Accessing our free blog content_
 
-When you can access our free blog posts, a cookie is placed on your computer by our content management system (CMS) WordPress, which uses a session cookie. This temporary cookie is not used for tracking purposes, it’s an essential, “strictly necessary” part of providing content to you through our CMS.
+When you can access our free blog posts, a cookie is placed on your computer by our content management system (CMS) WordPress, which uses a session cookie. This temporary cookie is not used for tracking purposes, it's an essential, "strictly necessary" part of providing content to you through our CMS.
 
-_Accessing our member content – cookies are used to remember you are logged-in so you can download documents_
+_Accessing our member content - cookies are used to remember you are logged-in so you can download documents_
 
-We use persistent cookies to enable our website to recognise you when you return to our site – this makes our site easier to use, since if you are a basic or expert member you won’t need to login each time you return to the site to access member content to download. The cookies are set when you log-in and expire two weeks after which point you will need to login again. These cookies are essential to use of our web service and as such are permitted by law.
+We use persistent cookies to enable our website to recognise you when you return to our site - this makes our site easier to use, since if you are a basic or expert member you won't need to login each time you return to the site to access member content to download. The cookies are set when you log-in and expire two weeks after which point you will need to login again. These cookies are essential to use of our web service and as such are permitted by law.
 
 Our customer relationship management system Office AutoPilot also uses cookies set by a domain http://tracking.moon-ray.com to review which content is accessed by which users. This allows us to review which content is popular and recommend relevant content, e.g. via Email.
 
@@ -46,7 +46,7 @@ We also use other web services provided by other companies to improve the experi
 
 The services we use are:
 
-i. _Google Analytics_. We use Google Analytics to analyse the use of this website.  Google Analytics generates anonymous statistical and other information about website use by means of cookies, which are stored on users’ computers.  The information generated relating to our website is used to create reports about the use of the website. Google will store this information.  Google’s privacy policy is available at: http://www.google.com/privacypolicy.html 
+i. _Google Analytics_. We use Google Analytics to analyse the use of this website.  Google Analytics generates anonymous statistical and other information about website use by means of cookies, which are stored on users' computers.  The information generated relating to our website is used to create reports about the use of the website. Google will store this information.  Google's privacy policy is available at: http://www.google.com/privacypolicy.html 
 
 ii. _GetClicky_. This is a service similar to Google Analytics that enables us to review usage statistics and also to track the path of individuals as they use the site.
 
