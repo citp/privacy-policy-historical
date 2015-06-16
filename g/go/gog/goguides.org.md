@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goguides.org privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120163616id_/http%3A//www.goguides.org/info/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goguides.org privacy policy that was archived on 2015-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150616064817id_/http%3A//www.goguides.org/info/privacy.html) for the most accurate reproduction.*
 
 # GoGuides - Privacy Policy
 
@@ -10,7 +10,10 @@ Upon your first visit to GoGuides, GoGuides may send a "cookie" to your computer
 
 Most internet browser are set up to accept cookies. Although it is possible to reset your computer settings to inform you of cookie or to reject cookies, such actions may interfere with your searches at GoGuides.
 
-Third party vendors, including Google, use cookies to serve ads based on a user's prior visits to GoGuides. Google's use of the DoubleClick cookie enables it and its partners to serve ads to you based on visits to GoGuides and/or other sites on the Internet. Users may opt out of the use of the DoubleClick cookie for interest-based advertising by visiting [Ads Settings](http://www.google.com/ads/preferences/). You can also opt out of a third-party vendor's use of cookies for interest based advertising by visiting [aboutads.info](http://www.aboutads.info/). 
+Third party vendors, including Google, use cookies to serve ads based on a user's prior visits to GoGuides.  
+Google's use of the DoubleClick cookie enables it and its partners to serve ads to you based on visits to GoGuides and/or other sites on the Internet.   
+Users may opt out of the use of the DoubleClick cookie for interest-based advertising by visiting [Ads Settings](http://www.google.com/ads/preferences/).  
+You can also opt out of a third-party vendor's use of cookies for interest based advertising by visiting [aboutads.info](http://www.aboutads.info/). 
 
 What Information Do We Collect?
 
