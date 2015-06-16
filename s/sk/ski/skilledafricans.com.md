@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the skilledafricans.com privacy policy that was archived on 2014-07-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140729191735id_/http%3A//www.skilledafricans.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skilledafricans.com privacy policy that was archived on 2015-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150616053632id_/http%3A//skilledafricans.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy policy - SkilledAfricans
 
@@ -48,14 +48,10 @@ We will make any legally-required disclosures of any breach of the security, con
 
 Our Site contains links to other websites. The fact that we link to a website is not an endorsement, authorization or representation of our affiliation with that third party. We do not exercise control over third party websites. These other websites may place their own cookies or other files on your computer, collect data or solicit personally identifiable information from you. Other sites follow different rules regarding the use or disclosure of the personally identifiable information you submit to them. We encourage you to read the privacy policies or statements of the other websites you visit. 
 
-Thousands of new job offers in Africa
+Create your online professional profile and learn to enhance your professional skills and career aspirations. Get advice from our experts and partners.
 
-Thousands of registered companies
+Take online courses and get certified. Take online personality and aptitude tests and attend real-world classroom courses in major African cities.
 
-Online tutorials and classroom training in Africa
+Chat with any of our 750,000 registered professionals and increase your chances to find new professional opportunies in Africa and in the rest of the world.
 
-Job request posting service
-
-Professional discussion groups
-
-Hundreds of career tips and advice
+Thousands of Africa based companies looking to hire staff in Africa have signed up on Skilledafricans.com. Use our services to become more recruitable.
