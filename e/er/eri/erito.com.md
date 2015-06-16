@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the erito.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121014323id_/http%3A//www.erito.com/docs/pp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the erito.com privacy policy that was archived on 2015-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150616094538id_/http%3A//www.erito.com/docs/pp) for the most accurate reproduction.*
 
 # Privacy Policy
 
