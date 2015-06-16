@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ecns.cn privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121093053id_/http%3A//www.ecns.cn/privacy-policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ecns.cn privacy policy that was archived on 2015-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150616052143id_/http%3A//www.ecns.cn/privacy-policy.shtml) for the most accurate reproduction.*
 
 # Privacy Policy - Headlines, stories and photos from ecns.cn
 
