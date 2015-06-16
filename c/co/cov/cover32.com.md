@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cover32.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121094453id_/http%3A//cover32.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cover32.com privacy policy that was archived on 2015-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150616152259id_/http%3A//cover32.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | cover32
 
@@ -44,7 +44,7 @@ Ads appearing on our site may be delivered to Users by advertising partners, who
 
 Changes to this privacy policy
 
-cover32 has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
+cover32 has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. Pay a visit to the one service where [essay help online](http://college-essay-help.org/) is given on free bases. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
 
 Your acceptance of these terms
 
