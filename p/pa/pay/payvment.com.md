@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the payvment.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230042534id_/http%3A//www.ecwid.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the payvment.com privacy policy that was archived on 2015-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150616225909id_/http%3A//www.ecwid.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -35,6 +35,10 @@ We do not store the following information in the regular course of our bus
   * credit card information and billing addresses.
 
 
+
+## Do Not Track
+
+Ecwid does not support Do Not Track technology. 
 
 ## Our Use of Your Information
 
