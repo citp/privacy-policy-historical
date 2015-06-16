@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trafficpunk.com privacy policy that was archived on 2014-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141111225137id_/http%3A//www.trafficpunk.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trafficpunk.com privacy policy that was archived on 2015-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150616053722id_/http%3A//www.trafficpunk.com/privacy.php) for the most accurate reproduction.*
 
 # Manual Traffic Exchange, Increase Website Traffic - TrafficPunk.com
 
