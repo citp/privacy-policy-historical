@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 4tubemate.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230053440id_/http%3A//www.4tubemate.com/privacy.html%3F) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 4tubemate.com privacy policy that was archived on 2015-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150616183723id_/http%3A//www.4tubemate.com/privacy.html%3F) for the most accurate reproduction.*
 
 # 4Tubemate - Privacy Policy
 
@@ -50,4 +50,4 @@ The address for correspondence by post is
 ICF Technology, Inc.  
 PO Box 21508  
 Seattle, WA 98111  
-USA 
+USA
