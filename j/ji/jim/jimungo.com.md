@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jimungo.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120010210id_/http%3A//dreamteam.nzherald.co.nz/content/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jimungo.com privacy policy that was archived on 2015-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150616110030id_/http%3A//dreamteam.nzherald.co.nz/content/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Dream Team
 
