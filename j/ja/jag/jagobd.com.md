@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jagobd.com privacy policy that was archived on 2014-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141127140619id_/http%3A//jagobd.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jagobd.com privacy policy that was archived on 2015-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150617015542id_/http%3A//jagobd.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Jagobd.com
 
