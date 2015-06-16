@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nerdr.com privacy policy that was archived on 2014-02-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140219020135id_/http%3A//nerdr.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nerdr.com privacy policy that was archived on 2015-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150616234700id_/http%3A//nerdr.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Nerdr.com Privacy Policy
 
