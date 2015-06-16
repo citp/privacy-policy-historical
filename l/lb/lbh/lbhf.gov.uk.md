@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lbhf.gov.uk privacy policy that was archived on 2014-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141129171144id_/http%3A//www.lbhf.gov.uk/Directory/Links/40888_Privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lbhf.gov.uk privacy policy that was archived on 2015-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150617000621id_/http%3A//www.lbhf.gov.uk/Directory/Links/40888_Privacy_policy.asp) for the most accurate reproduction.*
 
 # Privacy policy and cookies - Hammersmith & Fulham
 
@@ -65,7 +65,7 @@ Use of personal information
 
 You can find more information about how we use personal information in our entry in the Information Commissioner’s Office Register of Data Controllers. We must renew this annually and update it whenever we are going to use personal information in a new way.
 
-[» Visit the ICO Registration of Data Controllers web page](http://www.ico.gov.uk/tools_and_resources/register_of_datacontrollers.aspx) (opens new window)   
+[» Visit the ICO Registration of Data Controllers web page](https://ico.org.uk/about-the-ico/what-we-do/register-of-data-controllers/) (opens new window)   
 Our Registration Number is Z5124889
 
 ###  **_  
