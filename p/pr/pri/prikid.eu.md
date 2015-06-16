@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the prikid.eu privacy policy that was archived on 2014-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141207131640id_/http%3A//prikid.eu/privacy-and-refund-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prikid.eu privacy policy that was archived on 2015-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150616061924id_/http%3A//prikid.eu/privacy-and-refund-policy) for the most accurate reproduction.*
 
 # Privacy and Refund Policy
 
