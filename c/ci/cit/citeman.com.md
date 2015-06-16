@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the citeman.com privacy policy that was archived on 2014-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141126210223id_/http%3A//www.citeman.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the citeman.com privacy policy that was archived on 2015-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150616043333id_/http%3A//www.citeman.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy-Policy
 
