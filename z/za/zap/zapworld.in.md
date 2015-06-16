@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zapworld.in privacy policy that was archived on 2014-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141128031238id_/http%3A//zapworld.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zapworld.in privacy policy that was archived on 2015-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150616135323id_/http%3A//zapworld.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Zapworld| Zapworld
 
@@ -58,10 +58,8 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 Contacting us
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
-Zapworld
-
-http://zapworld.in/
-
+Zapworld  
+http://zapworld.in/  
 Defence Colony kankarbagh Patna-20  
 9654650520  
 justify107@gmail.com
