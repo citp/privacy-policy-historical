@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the diylol.com privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123075451id_/http%3A//diylol.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the diylol.com privacy policy that was archived on 2015-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150616045521id_/http%3A//diylol.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - DIY LOL
 
