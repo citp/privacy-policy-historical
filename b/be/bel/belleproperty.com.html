@@ -1,11 +1,12 @@
-<!--The following is the downloaded HTML source of the belleproperty.com privacy policy that was archived on 2014-06-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140607071957id_/http%3A//www.belleproperty.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the belleproperty.com privacy policy that was archived on 2015-06-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150616125143id_/http%3A//www.belleproperty.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
-<title>Privacy in Belle Property Australasia specialises in real estate in New South Wales (NSW)</title>
+<title>Privacy in Belle Property Australasia | belleproperty.com.au</title>
 <meta charset="utf-8">
 
 <meta name="format-detection" content="telephone=no">
+
 
 <meta http-equiv="x-rim-auto-match" content="none">
 <meta name="viewport" content="width=device-width, initial-scale=1;">
@@ -14,16 +15,21 @@
 <link rel="apple-touch-icon-precomposed" href="http://www.belleproperty.com/img/apple-touch-icon.png">
 
 
-<meta name="description" content="Privacy in Belle Property Australasia.">
-
-
 
 <meta name="keywords" content="privacy">
+
+
 
 <link rel="stylesheet" type="text/css" href="http://necolas.github.com/normalize.css/2.0.1/normalize.css" media="screen, projection, print">
 <link rel="stylesheet" type="text/css" href="/system/abmin/g=css-1-64" media="screen, projection, print">
 
+
+
+
+
 <script type="text/javascript">
+	if (!window.console) window.console = {};
+	if (!window.console.log) window.console.log = function () { };
 
 	var SITE_PATH = 'http://www.belleproperty.com/';
 
@@ -43,6 +49,72 @@
 <!--[if lte IE 9]><link rel="stylesheet" type="text/css" href="http://www.belleproperty.com/css/globalIE8.css" media="screen, projection" /><![endif]-->
 
 <!--[if lt IE 10]><script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+
+
+<script>
+// last load the zoom
+
+adjust_scale = 1.0;
+$(document).ready(function () {
+	var scale = (window.screen.availHeight>window.screen.availWidth ? 
+
+		(((window.screen.availWidth-120)*1.0) / (658.0)) :
+
+		(((window.screen.availHeight-120)*1.0) / (658.0)));
+	if (scale > 1.15) {
+		
+
+		//scale = scale - 0.05;
+		//if (scale > 1.3) {
+			scale = 1.3;
+		//}
+		if ($("body.listings").length > 0) {
+			scale = 1.2;
+		}
+		
+		adjust_scale = scale;
+
+		$("#wrapper").css("transform", "translate(0%, "+((scale-1.0)*50)+"%) scale("+scale+")" );
+		
+
+		$(".map-canvas").css("transform", "translate("+(((1.0/scale)-1.0)*50)+"%, "+(((1.0/scale)-1.0)*50)+"%) scale("+(1.0/scale)+")");
+
+		$('.map-canvas:not(".tab-menu-content")').css("height", (($(".result-map-right, .community-content").height() - $("#result-map").height())*scale) + "px");
+
+		$('.map-canvas:not(".tab-menu-content")').css("width", ($(".result-map-right, .community-content").width()*scale) + "px");
+
+		$("#mapview-canvas").css("height", "100%");
+		
+		// office
+		$("body.office .map-canvas").css("width", "906px");
+		$("body.office .map-canvas").css("height", "454px");
+		$("body.office .map-canvas #google-canvas").css("height", "454px");
+		
+		// details
+		$("body.details .map-canvas").css("width", "906px");
+		$("body.details .map-canvas").css("height", "565px");
+		$("body.details .top-bar").css("width", "906px");
+		$("body.details .floorplan .floorplan-canvas").css("height", "565px");
+		$("body.details .map-canvas.location").css("height", "593px");
+		
+		$("body.details [name=walkscore]").attr("rev","906x555");
+		
+		
+		$(".details .tab-container .tab-content #google-canvas, .details .tab-container .tab-content #streetview-canvas, .details .tab-container .tab-content #walkscore-canvas").css("height","557px")
+
+		$("img").each(function () {changeImageSize(this); });
+
+        document.addEventListener ('DOMNodeInserted', function (e) { 
+			if (e.target instanceof HTMLImageElement) {
+				changeImageSize(e.target);
+			}
+		}, false);
+		
+		
+	}
+	$("body").css("visibility","visible");
+});
+</script>
 
 </head>
 
@@ -72,10 +144,13 @@
 					<div>
 						<input type="radio" name="fs_type" value="buying/residential-map-listings.php" checked="checked">
 	    				<input id="fsearch" name="Keyword" type="text" placeholder="Suburb, Postcode, Prop ID" title="Property id, Suburb, Postcode">
+						<input name="sround_suburb" type="hidden" value="1">
 
     					<input id="suburb_id" type="hidden" value="" name="suburb_id">
 
 		    			<input type="submit" class="go_btn curvy-all" value="Search">
+						
+						<img width="25" src="/img/new_homepage/nh_search.png" class="nh-search-icon" style="pointer-events: none; position: absolute; right: 20px; top: 8px;">
 
 					</div>
 
@@ -114,7 +189,9 @@
 <li><a href="https://www.facebook.com/belle.property1" target="_blank">Facebook</a></li><li><a href="https://twitter.com/bellepropertyHQ" target="_blank">Twitter</a></li><li><a href="http://au.linkedin.com/company/belle-property-australasia" target="_blank">Linked In</a></li>
 </ul>
 			</li>
-					<li class="last"><a href="http://vimeopro.com/belleproperty/belle-property-network-of-success" target="_blank">Our Video Library</a>
+					<li><a href="http://vimeopro.com/belleproperty/belle-property-network-of-success" target="_blank">Our Video Library</a>
+						</li>
+					<li class="last"><a href="http://www.belleproperty.com/contact/contact.php">Contact Us</a>
 						</li>
 				</ul>
 			</li>
@@ -288,6 +365,7 @@
 				<li><a href="http://www.belleproperty.com/about/our-team.php">our team</a></li>
 				<li><a href="http://www.belleproperty.com/about/our-network.php">our network</a></li>
 				<li><a href="http://www.belleproperty.com/about/join-us.php">join us...</a></li>
+				<li><a href="http://www.belleproperty.com/contact/contact.php">contact us</a></li>
 			</ul>
 		</div>
 	</div>
@@ -296,11 +374,11 @@
 	<a href="#"><div class="cta-item"><span>belle property<br> magazine</span><img src="http://www.belleproperty.com/img/cta02.png"></div></a>
 	<div class="magazine-wrap block">
 		<div class="magazine-inner">
-			<div class="magazine1"><a href="http://www.belleproperty.com/about/belle-magazine.php"><img src="http://www.belleproperty.com/img/pop_up/img1.png" alt=""></a></div>
+			<div class="magazine1"><a href="http://www.belleproperty.com/about/belle-magazine.php"><img height="113" width="91" src="http://www.belleproperty.com/img/pop_up/img1.png" alt=""></a></div>
 			<p class="style-mag">learn more about australasia's leading design magazine</p>
 			<a href="http://www.belleproperty.com/about/belle-magazine.php"><div class="style-magazine-play"></div></a>
 			<div class="clear"></div>
-			<div class="magazine2"><a href="http://www.belleproperty.com/about/belle-property-magazine.php"><img src="http://www.belleproperty.com/img/pop_up/img2.png" alt=""></a></div>
+			<div class="magazine2"><a href="http://www.belleproperty.com/about/belle-property-magazine.php"><img height="113" width="91" src="http://www.belleproperty.com/img/pop_up/img2.png" alt=""></a></div>
 			<p>view our e-magazine showcasing our lifestyle property</p>
 			<a href="http://www.belleproperty.com/about/belle-property-magazine.php"><div class="magazine-play"></div></a>
 		</div>
@@ -369,7 +447,7 @@
 
     	<div class="footer-inner">
 
-	    	<div class="copyright">© Belle Property Australasia 2013 | <a href="http://www.belleproperty.com/privacy">Privacy</a> | <a href="http://www.belleproperty.com/sitemap">Site Plan</a>
+	    	<div class="copyright">© Belle Property Australasia 2013 | <a href="http://www.belleproperty.com/privacy">Privacy</a> | <a href="http://www.belleproperty.com/sitemap-pages.xml">Site Plan</a>
 						<!--  | <a href="#">Translate</a> --></div>
 
 	    	<div class="date-time"></div>
@@ -382,7 +460,7 @@
 
 
 	<input type="hidden" id="nav_active" value="">
-<script type="text/javascript">var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script><script type="text/javascript">try {var pageTracker = _gat._getTracker("UA-10990064-1");pageTracker._trackPageview();} catch(err) {}</script>
+<script type="text/javascript">var gaJsHost = (("https:" == document.location.protocol) ?  "https://" : "http://");document.write(unescape("%3Cscript src='" + gaJsHost + "stats.g.doubleclick.net/dc.js' type='text/javascript'%3E%3C/script%3E"));</script><script src="https://stats.g.doubleclick.net/dc.js" type="text/javascript"></script><script type="text/javascript">try {var pageTracker = _gat._getTracker("UA-10990064-1");pageTracker._trackPageview();} catch(err) {}</script>
 <script type="text/javascript">
 /* <![CDATA[ */
 var google_conversion_id = 1015107273;
