@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the museumvictoria.com.au privacy policy that was archived on 2014-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141203142156id_/http%3A//museumvictoria.com.au/footer-links/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the museumvictoria.com.au privacy policy that was archived on 2015-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150616070158id_/http%3A//museumvictoria.com.au/footer-links/privacy) for the most accurate reproduction.*
 
 # Privacy: Museum Victoria
 
@@ -20,10 +20,10 @@ You can access and browse our website without disclosing personal information. W
 
 This site does not collect or use personal information except that which you choose to provide:
 
-  * on online forms through 'Contact Us', through 'E-news', to subscribe to our online newsletter using online subscription services to join programs such as MVteachers or Making History
+  * on online forms through 'Contact Us', through 'E-news', to subscribe to our online newsletter using online subscription services to join programs such as MV Teachers or Making History
   * in e-mail messages, to make a booking or an enquiry
   * in comments
-  * when using online transaction services to purchase goods or services such as tickets, MV memberships, retail products or make donations.
+  * when using online transaction services to purchase goods or services such as tickets, memberships, retail products or make donations.
 
 
 
@@ -56,12 +56,12 @@ For MV Shop purposes, Museum Victoria collects and uses your personal informatio
 
 
   
-For MV Members purposes, in order to process MV Memberships online, Museum Victoria collects:
+For Museum Members purposes, in order to process memberships online, Museum Victoria collects:
 
   * Your name, date of birth and gender for validation purposes
   * Your email address for correspondence
   * Your contact address and phone number as a back up contact and for hard copy mail outs
-  * Your postcode and country details for understanding visitor demographics as part of the Museum visitor research program
+  * Your postcode and country details for understanding visitor demographics as part of the museum visitor research program
   * If you do not wish to sign up for or renew your membership online, please use the ['how to renew or join' link](http://museumvictoria.com.au/about/members/how-to-join/) to read about how to do so in person, by phone or mail.
 
 
@@ -76,13 +76,13 @@ For online donations, for administration, fundraising and recordkeeping, Museum 
 
 
   
-Museum Victoria stores the above personal information on our systems. Access to this data is security controlled.Museum Victoria may occasionally use third party services to sell goods and services. We will communicate such offers to our contact lists as appropriate to the offer (eg, an offer may be limited to MV Members). In this case, the third party's Privacy Policy will also apply.
+Museum Victoria stores the above personal information on our systems. Access to this data is security controlled. Museum Victoria may occasionally use third party services to sell goods and services. We will communicate such offers to our contact lists as appropriate to the offer (eg, an offer may be limited to Museum Members). In this case, the third party's Privacy Policy will also apply.
 
 Your credit card transactions are processed by Payment Card Industry Data Security Standard (PCIDSS) compliant hosted services. For further information relating to PCIDSS please refer to: [PCI Security Standards Organisation](https://www.pcisecuritystandards.org/).
 
 If you do not wish to receive updates and invitations from Museum Victoria you may select this option on the online form or via the 'unsubscribe' option on newsletter emails. You may also request not to receive further updates or invitations at any time.
 
-We won't send you any e-mails unless you tell us you want them (either directly or as part of the condition of a subscription service, eg, MVteachers).
+We won't send you any e-mails unless you tell us you want them (either directly or as part of the condition of a subscription service, eg, MV Teachers).
 
 We may not be able to provide the full range of services through the Museum Victoria website if we are not provided with the information outlined above.
 
