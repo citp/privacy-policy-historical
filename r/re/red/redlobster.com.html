@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the redlobster.com privacy policy that was archived on 2014-12-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141222203557id_/http%3A//www.redlobster.com/legal/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the redlobster.com privacy policy that was archived on 2015-06-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150616041429id_/http%3A//www.redlobster.com/legal/privacy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
     <meta http-equiv="content-type" content="text/html; charset=iso-8859-1">
@@ -28,7 +28,7 @@
 <!--[if lte IE 6]><link rel="stylesheet" type="text/css" media="screen, projection" href="/assets/styles/ie6.css" /><![endif]-->
 
 <!-- JQUERY -->
-<script async="" src="//web.archive.org/web/20140915101306/http://www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.6.1/jquery.min.js"></script>
+<script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js"></script><script async="" src="//web.archive.org/web/20140915101306/http://www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.6.1/jquery.min.js"></script>
 
 <!-- SELECTIVIZR -->
 <!--[if (gte IE 6)&(lte IE 8)]>
@@ -95,6 +95,28 @@
 
   
 <script type="text/javascript" src="/js/ga.js"></script>
+
+<script>
+  window.fbAsyncInit = function() {
+  FB.init({
+  appId      : '120972614657635',
+  xfbml      : true,
+  version    : 'v2.1'
+  });
+  FB.Event.subscribe('edge.create', function(targetUrl) {
+    sendAnalytics("Homepage Bottom", "Facebook", "Like Icon");
+  });
+  };
+
+  (function(d, s, id){
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) {return;}
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js";
+  fjs.parentNode.insertBefore(js, fjs);
+  }(document, 'script', 'facebook-jssdk'));
+
+</script>
 
 <!--  ////////// END PAGE BOTTOM INCLUDE FILE \\\\\\\\\\ -->
 
@@ -247,7 +269,7 @@
                 
 
                 <p>
-                    Effective Date: July 28, 2014
+                    Effective Date: March 2, 2015
                 </p>
                 <p>
                     We at Red Lobster Management LLC, along with our affiliates (collectively, "Red Lobster"), respect your concerns about privacy.  This Privacy Notice applies to personal information we collect on the Red Lobster websites on which we have posted this Privacy Notice (collectively, the "Sites").
@@ -387,14 +409,16 @@ information.  We also describe the measures we take to safeguard the information
                 <a name="how-to-contact"></a>
                 <h2>How To Contact Us </h2>
                 <p>
-                    If you have any questions about this Privacy Notice, or if you would like us to update information we have about you or your preferences, please contact us by e-mail at <a href="mailto:ComplianceEthics@RedLobster.com">ComplianceEthics@RedLobster.com</a>.  You also may write to us at:
+                    If you have any questions about this Privacy Notice, or if you would like us to update information we have about you or your preferences, please contact us by e-mail at <a href="mailto:ComplianceEthics@RedLobster.com">ComplianceEthics@RedLobster.com</a> or by phone at 844-755-3425, ext. 2.
                 </p>
                 <p>
-                    Red Lobster Management LLC<br>
-                    Attention:  Compliance and Ethics Office<br>
-                    1000 Darden Center Drive<br>
-                    Orlando, FL 32837<br>
-                    Phone: 844-755-3425, ext. 2
+                    You may also write to us at:
+                    <span style="padding-left: 60px; display: block;">
+                        Red Lobster Management LLC<br>
+                        Attn: Compliance and Ethics Office<br>
+                        450 S. Orange Ave., Suite 800<br>
+                        Orlando, FL 32801-3383
+                    </span>
                 </p>
             </div>
 
@@ -426,7 +450,7 @@ information.  We also describe the measures we take to safeguard the information
 		                <a href="http://www.facebook.com/RedLobster" class="visit">Visit our Facebook page</a>
 	                </div>
 	                <![endif]-->
-    <iframe src="//www.facebook.com/plugins/like.php?href=http%3A%2F%2Ffacebook.com%2Fredlobster&amp;send=false&amp;layout=standard&amp;width=450&amp;show_faces=false&amp;font&amp;colorscheme=light&amp;action=like&amp;height=35&amp;appId=120972614657635" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:450px; height:35px;" allowtransparency="true"></iframe>
+      <div style="overflow: hidden;" class="fb-like" data-href="https://www.facebook.com/redlobster" data-layout="standard" data-action="like" data-show-faces="false" data-share="false"></div>
     </div>
 <div class="nav_wrap nav_wrap_footer_primary">
         <ul id="footer_primary_nav">
@@ -504,7 +528,7 @@ information.  We also describe the measures we take to safeguard the information
           <br>
           </li>
           <li class="last">
-            <span>© Red Lobster Hospitality LLC. All rights reserved</span>
+            <span>2015 © Red Lobster Hospitality LLC. All Rights Reserved.</span>
           </li>
         </ul>
                     </div>
