@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the dudamobile.com privacy policy that was archived on 2014-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141221050441id_/http%3A//www.dudamobile.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dudamobile.com privacy policy that was archived on 2015-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150616221556id_/https%3A//www.dudamobile.com/legal/privacy) for the most accurate reproduction.*
 
-# Privacy Policies | Duda
+# Privacy Policies
 
 #### 1\. General
 
 We at Duda, Inc. (“ **Duda** ”, “ **we** ”, “ **our** ”, or “ **us** ”) very much respect your privacy, are committed to protecting it and want you to be informed about the ways we protect, use and share the information that we collect.
 
 This Privacy Policy (“Policy”) serves to inform you of our policies and procedures regarding the collection, use and disclosure of the information we receive when you visit [www.dudaone.com](http://www.dudaone.com/) or [www.dudamobile.com](http://www.dudamobile.com/) (together, our “Site”) and when you use any part of our service available through the Site or other related websites, toolbars, conversion technology, widgets, applications or distribution channels we may operate from (the “Service”). This Policy applies to information that you provide to us through the Site or the Service, when you access or use any content appearing on the Site or made available through the Service, or that we collect on your behalf as part of the Service.  
-This Policy is an integral part of our [Terms of Service](http://www.dudamobile.com/terms) (the “ **Terms of Service** ”). 
+This Policy is an integral part of our [Terms of Service](https://web.archive.org/terms) (the “ **Terms of Service** ”). 
 
 ##### Changes to this Policy.
 
@@ -37,7 +37,7 @@ In this Policy, we refer to all information collected from or about you, includi
 
 #### 3\. How We Use Your Information
 
-Your Information is used for, but is not limited to, the following purposes: (i) to provide the Service, (ii) to administer your use of the Service and any accounts you may have with us, (iii) to personalize your experience, (iv) to provide to you service announcements, (v) to provide you with further information and offers from us or third parties that we believe you may find useful or interesting, such as newsletters, marketing or promotional materials, (vi) on behalf of and according to instructions of a third party, such as our advertising partners, (vii) to enforce our [Terms of Service](http://www.dudamobile.com/terms), (viii) to resolve any disputes between users of the Site or between such users and us, and (ix) to contact you to obtain feedback from you regarding the Site and the Service.
+Your Information is used for, but is not limited to, the following purposes: (i) to provide the Service, (ii) to administer your use of the Service and any accounts you may have with us, (iii) to personalize your experience, (iv) to provide to you service announcements, (v) to provide you with further information and offers from us or third parties that we believe you may find useful or interesting, such as newsletters, marketing or promotional materials, (vi) on behalf of and according to instructions of a third party, such as our advertising partners, (vii) to enforce our [Terms of Service](https://web.archive.org/terms), (viii) to resolve any disputes between users of the Site or between such users and us, and (ix) to contact you to obtain feedback from you regarding the Site and the Service.
 
 **If you decide at any time that you no longer wish to receive such contact, announcements, information or offers, please follow the unsubscribe instructions provided in the communication.**  
 We use Non-Personal Information for the above purposes and in addition in order to (i) monitor and analyze use of the Service and for the technical administration of the Site, (ii) improve the Site and the Service, (iii) generate and derive useful data and information concerning the interests, characteristics and website use behavior of our users, and (iv) verify that users of the Service meet the criteria required to process their requests.
