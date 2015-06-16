@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the download32.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120112228id_/http%3A//www.download32.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the download32.com privacy policy that was archived on 2015-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150616034307id_/http%3A//www.download32.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Statement - Download32 Software Archive - Free Software Downloads, Shareware, Freeware for Windows, Macintosh, Palm OS and Linux
 
@@ -17,4 +17,4 @@ In the course of serving advertisements to this site, our third-party advertiser
   
  
 
-| All software information on this site, is solely based on what our users submit. Download32.com disclaims that any right and responsibility for the information go to the user who submit the software, games, drivers. Some software may not have details explanation or their price, program version updated. You should contact the provider/actual author of the software for any questions. There are also user reviews/comments posted about various software downloads, please contact us if you believe someone has posted copyrighted information contained on this web site.   Copyright © 1996-2014 Download 32.
+| All software information on this site, is solely based on what our users submit. Download32.com disclaims that any right and responsibility for the information go to the user who submit the software, games, drivers. Some software may not have details explanation or their price, program version updated. You should contact the provider/actual author of the software for any questions. There are also user reviews/comments posted about various software downloads, please contact us if you believe someone has posted copyrighted information contained on this web site.   Copyright © 1996-2015 Download 32.
