@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tune-up.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230043033id_/http%3A//www.tune-up.com/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tune-up.com privacy policy that was archived on 2015-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150616225337id_/http%3A//www.tune-up.com/company/privacy) for the most accurate reproduction.*
 
 # TuneUp Utilities 2014 - Company - Privacy Policy
 
@@ -9,7 +9,7 @@ This privacy policy is designed to inform users of TuneUp websites about how Tun
 If you believe that TuneUp has not complied with this Privacy Policy, or if you have any other complaint with regard to collection, use or disclosure of personal information by TuneUp, you may send a written notice of complaint to: 
 
 TuneUp Software GmbH.  
-Robert-Bosch-Str. 20-22, 64293 Darmstadt  
+Eschenheimer Anlage 1, 60316 Frankfurt am Main  
 Germany  
 [Contact us](http://www.tune-up.com/support/)
 
