@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the beforward.jp privacy policy that was archived on 2014-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141226100255id_/http%3A//www.beforward.jp/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beforward.jp privacy policy that was archived on 2015-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150616091616id_/http%3A//www.beforward.jp/privacy) for the most accurate reproduction.*
 
 # Japanese Used Cars | BE FORWARD | Privacy Policy
 
