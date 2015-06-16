@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the tripinfo.com privacy policy that was archived on 2014-12-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141209200145id_/http%3A//www.tripinfo.com/privacy_policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the tripinfo.com privacy policy that was archived on 2015-06-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150616135220id_/http%3A//www.tripinfo.com/privacy_policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><!-- #BeginTemplate "/Templates/template.dwt" --><!-- DW6 --><head>
     <link rel="shortcut icon" href="favicon.ico">
@@ -13,8 +13,9 @@
 
     <meta http-equiv="Pragma" content="no-cache">
     <meta http-equiv="Expires" content="-1">
+    <meta name="viewport" content="width=1065">
 
-    <style type="text/css">
+    <style type="text/css">      
       body {font-family:Helvetica, Arial, sans-serif;}
       p { font-family: Helvetica, Arial, sans-serif; }
       td img {display: block;}
@@ -67,7 +68,7 @@
       .toolbar8 {font-family: Helvetica, Arial, sans-serif; font-size: 11pt; color: #393939;}
       .toolbar9 {font-family: Helvetica, Arial, sans-serif; font-size: 11pt; color: #393939;}
       .toolbar10 {font-family: Helvetica, Arial, sans-serif; font-size: 9pt; font-weight: normal; color: #393939;}
-      .toolbar10-spacer {margin-left:30px;}
+      .toolbar10-spacer {margin-left:24px;}
       .toolbar10-spacer-sm {margin-left:35px;}
       .toolbar11 {font-family: Helvetica, Arial, sans-serif; font-size: 9pt; font-weight: bold; color: #393939;}
       .toolbar12 {font-family: Helvetica, Arial, Helvetica, sans-serif; font-size: 9pt; font-weight: bold; color: #393939;}
@@ -77,15 +78,7 @@
         height:23px;
         width:23px;
       }
-      .search-bar {
-        padding: 0 10px;
-        width:500px;
-        -moz-box-shadow:    inset 0 0 5px #999;
-        -webkit-box-shadow: inset 0 0 5px #999;
-        box-shadow:         inset 0 0 5px #999;
-        border: 1px solid #d8d8d8;
-        height:32px;
-      }
+      
       .newsletter-form {
         padding: 0 10px;
         width: 250px;
@@ -127,12 +120,14 @@
         margin-left: 3px;
       }
 
-      .tagline-text {
+      .tagline-text {        
+        float: right;
         color: #ab2a40;
         font-style: italic;
-        line-height: 280%;
+        line-height: 140%;
         font-family: Arial, sans-serif;
-        font-size: 10pt;
+        font-size: 14pt;
+        margin-top: 7px;
       }
 
       .quarter-line {
@@ -879,8 +874,92 @@
       .center-51 {
         padding-left: 50px;
       }
+
+      .newsletter-btn {
+        cursor: pointer;
+        padding: 10px;
+        border-radius: 4px;
+        background: white;
+        border: 1px solid #888;
+      }
+
+      .newsletter-btn:hover {
+        background-color: #efefef;
+      }
+
+      button:focus {outline:0;}
+      input:focus, textarea:focus {
+        outline: none;
+      }     
+
+      @media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
+        .header-social-nav {
+          right: -80px;     
+        }
+      }
+
+      .header-social-nav {
+        position: absolute;
+        background: #bcbec0;
+        color: white;
+        height: 40px;
+        top: 0;
+        left: 0;
+        right: 0px;
+        margin-right: 0;
+        display: block;
+      }
+
+      .social-bar {
+        font-size: 14px;
+      }
+
+      .search-bar {
+        padding: 0px 10px;
+        width: 180px;        
+        border: 1px solid #d8d8d8;
+        border-top-right-radius: 0px;
+        border-bottom-right-radius: 0px;
+        border-top-left-radius: 12px;
+        border-bottom-left-radius: 12px;
+        height:26px;
+        margin-top: 5px;
+        position: absolute;
+        top: 0px;
+        right: 55px;
+      }
+
+      .search-btn {
+        border-top-left-radius: 0px;        
+        border-bottom-left-radius: 0px;        
+        border-top-right-radius: 12px;        
+        border-bottom-right-radius: 12px;        
+        border: 1px solid #c3c3c3;
+        margin-left:-6px;
+        font-family: Tahoma;
+        background: #eeeeee;        
+        height:28px;
+        padding: 0 15px;
+        position: absolute;
+        top: 5px;
+        right: 15px;
+      }
+
+      .search-btn:hover { 
+        background: #999;
+        color: white;
+      }
+
+      .social-icons-header {
+        position: absolute;
+        width: 550px;
+        left: 50%;
+        margin-left: -300px;
+        top: 15px;
+      }
+
     </style>
-    <link href="http://maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet">
+    <link href="http://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet">
 
     <!-- Start Alexa Certify Javascript -->
     <!-- End Alexa Certify Javascript -->
@@ -901,71 +980,57 @@
   </head>
 
   <body bgcolor="#ffffff">
-    <table width="1051" border="0" align="center" cellpadding="0" cellspacing="0">
+    <div class="header-social-nav main_text_lg social-bar">
+      <div style="position: relative;">        
+          <!-- Search Google -->   
+            <form method="get" action="http://www.google.com/cse">
+              <input type="text" name="q" size="25" maxlength="255" class="main_text_grey search-bar" placeholder="Search">
+              <button type="submit" name="sa" class="search-btn" style="cursor:pointer;"><i class="fa fa-search"></i></button>
+              <input type="hidden" name="sitesearch" value="TRIPinfo.com">
+              <input type="hidden" name="cof" value="S:http://www.tripinfo.com;GL:0;VLC:330099;AH:left;BGC:white;LH:65;LC:blue;ALC:blue;LW:222;T:330099;AWFID:6a02f580a5a7e643;">
+            </form> 
+      </div>   
+        <!-- Search Google close -->  
+      <div class="social-icons-header">
+        <a style="color: #747474;" href="mailto:info@TRIPinfo.com" title="Email Us" alt="Email Us"><i class="fa fa-envelope fa-lg" style="float:right; padding-left: 5px; padding-right: 5px; margin-top:-2px; color: #006f2f;"></i></a>   
+        <span style="font-size:11; color: #006f2f;padding-right:2px;padding-left:10px;text-transform:uppercase; font-weight: 600;float: right;">Email Us</span>  
+
+        <a href="http://www.tripinfo.com/business/mailing2.htm" target="_blank" title="Subscribe to eNewsletter &amp; Digital Edition" alt="Subscribe to eNewsletter &amp; Digital Edition" style="color: purple;"><i class="fa fa-newspaper-o fa-lg space-right" style="float: right;margin-top:-2px;margin-left: 5px;color: #9628ae;"></i></a>    
+        <span style="font-size:11; color: #9628ae;padding-right:2px;padding-left:10px;text-transform:uppercase; font-weight: 600;float: right;">Subscribe To</span>
+        
+        <a href="http://tripinfo.com/cgi-bin/airport/linktrack.cgi?https://www.linkedin.com/company/tripinfo-com" target="_blank" title="Follow Us On LinkedIn" alt="Follow Us On LinkedIn" style="color: #3b97ca;"><img src="http://www.tripinfo.com/images/linkedin.png" style="float: right;margin-left: 5px; margin-top: -4px;" width="17" border="0"></a>
+        <a href="http://tripinfo.com/cgi-bin/airport/linktrack.cgi?https://twitter.com/TRIPinfodotcom" target="_blank" title="Follow Us On Twitter" alt="Follow Us On Twitter" style="color: #16a8d4;"><img src="http://www.tripinfo.com/images/twitter.png" width="17" border="0" style="float: right; margin-top: -4px;padding-left: 5px;"></a>
+        <span style="font-size:11; color: #1f79b7;padding-right:2px;padding-left:10px;text-transform:uppercase; font-weight: 600;float:right;">Follow Us On</span>
+
+        <a href="http://www.tripinfo.com/mediakit/video/Preview.html" target="_blank" style="color: #ea5d2d; padding-right:5px;" title="Watch Our Preview Video" alt="Watch Our Preview Video"><i class="fa fa-play-circle fa-lg" style="float: right;margin-top:-2px;"></i></a>
+        <a href="http://www.tripinfo.com/mediakit/video/Preview.html" target="_blank" style="color: #ea5d2d;padding-right:2px;text-transform:uppercase; font-weight: 600;float:right;">Preview</a>
+             
+      </div>    
+    </div>
+    <table width="1051" border="0" align="center" cellpadding="0" cellspacing="0" style="margin-top: 55px;">
       <tbody><tr>
         <td>
           <map name="map-header">
                 <area shape="rect" coords="5,3,215,63" href="http://www.tripinfo.com">
               </map><table width="1050" border="0" align="center" cellpadding="0" cellspacing="0">
             <tbody><tr>
-              <td width="500">
+              <td width="220">
                 <div align="left">
                   <img src="/images/tripinfo-logo.png" alt="TRIPinfo.com logo" width="219" height="66" border="0" usemap="#map-header">
                 </div>
               </td>
-
-              <td width="550" align="right" valign="baseline" class="social-media">
-                <div style="display:inline">
-                  <span class="main_text_lg">
-                    <a href="http://www.tripinfo.com/mediakit/video/Preview.html" style="color: orange;padding-right:2px;">Preview</a>
-                    <a href="http://www.tripinfo.com/mediakit/video/Preview.html" style="color: orange; padding-right:18px;" title="TRIPinfo.com Preview Video" alt="TRIPinfo.com Preview Video"><i class="fa fa-play-circle fa-lg space-right"></i></a>
-                    <a class="addthis_button_facebook" style="color: #2b5793;"><i class="fa fa-facebook-square fa-lg space-right"></i></a>
-                    <a class="addthis_button_twitter" style="color: #16a8d4;"><i class="fa fa-twitter-square fa-lg space-right"></i></a>
-                    <a class="addthis_button_linkedin" style="color: #3b97ca;"><i class="fa fa-linkedin-square fa-lg space-right"></i></a>
-                    <a class="addthis_button_google_plusone_share" style="color: #d14d34;"><i class="fa fa-google-plus-square fa-lg space-right"></i></a>
-                    <a class="addthis_button_compact" style="color: #747474;"><i class="fa fa-plus-square fa-lg space-right"></i></a>
-                    <a class="addthis_button_email" style="color: #747474;"><i class="fa fa-envelope fa-lg space-right"></i></a>
-                    <a class="addthis_button_print" style="color: #747474;"><i class="fa fa-print fa-lg space-right"></i></a>
-                    <a href="http://tripinfo.com/cgi-bin/airport/linktrack.cgi?https://www.linkedin.com/company/tripinfo-com" target="_blank" style="color: #3b97ca;padding-left:18px;">Follow Us on LinkedIn</a>
-                    <a href="http://tripinfo.com/cgi-bin/airport/linktrack.cgi?https://www.linkedin.com/company/tripinfo-com" target="_blank" style="color: #3b97ca;"><i class="fa fa-linkedin-square fa-lg space-left" alt="LinkedIn" width="20" height="20" style="float: right;"></i></a>
-                  </span>
-                  <br>
-                  <span class="tagline-text">Travel Professionals Spend More Time on TRIPinfo.com Than Any Travel Site</span>
+              <!-- Start AddThis button -->
+              <td width="780" align="right" valign="baseline" class="social-media">
+                <div class="tagline-text">                  
+                  Travel Professionals Spend More Time On TRIPinfo.com Than Any Travel Site
                 </div>
               </td>
-              <script type="text/javascript">var addthis_config = {"data_track_addressbar":false};</script>
-              <script type="text/javascript" src="http://s7.addthis.com/js/300/addthis_widget.js#pubid=tripinfo"></script>
+              <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=tripinfo" async="async"></script>
+              <!-- End AddThis Button -->
 
               
             </tr>
-          </tbody></table>
-          <table width="1050" height="40" border="0" align="center" cellpadding="0" cellspacing="0" style="margin:10px 0 15px 0;">
-            <tbody><tr>
-              <td>
-              <!-- Search Google -->
-                <div id="Searchbar" align="left">
-                  <form method="get" action="http://www.google.com/cse">
-                    <input type="text" name="q" size="25" maxlength="255" class="main_text_grey search-bar" value="I'm looking for...">
-                    <button type="submit" name="sa" class="header-btn" style="cursor:pointer;"><i class="fa fa-search"></i> Search TRIPinfo</button>
-                    <input type="hidden" name="sitesearch" value="TRIPinfo.com">
-                    <input type="hidden" name="cof" value="S:http://www.tripinfo.com;GL:0;VLC:330099;AH:left;BGC:white;LH:65;LC:blue;ALC:blue;LW:222;T:330099;AWFID:6a02f580a5a7e643;">
-                  </form>
-                </div>
-              <!-- Search Google close -->
-              </td>
-              <td>
-                <!-- eNewsletter Signup -->
-                <div id="Newsletter" align="right">
-                  <form method="post" action="http://www.tripinfo.com/cgi-bin/CSMailto/CSMailto.cgi">
-                    <input type="hidden" name="form-name" value="Contact">
-                    <input name="email_address" type="text" class="main_text_grey newsletter-form" id="email_address" size="25" value="My email address is...">
-                    <button name="submit_contact" type="submit" id="submit_contact" class="header-btn" style="cursor:pointer;"><i class="fa fa-book"></i> Get e-Newsletter</button>
-                  </form>
-                </div>
-                <!-- eNewsletter Signup close -->
-              </td>
-            </tr>
-          </tbody></table>
+          </tbody></table>          
           <table width="1044" border="0" align="center" cellpadding="0" cellspacing="4" style="margin-bottom: 30px;">
             <tbody><tr>
               <td width="87" align="center">
@@ -1163,44 +1228,44 @@
                       var leftbanner = $("#leftbanner"), pos = leftbanner.offset();
 
                       $(window).scroll(function() {
-                      	var Verticaltop = pos.top - ($(window).height()-635)/2;
-                      	var Verticalbottom = $(document).height() + ($(window).height()-635)/2-$(window).height();
-                      	var windowpos = $(window).scrollTop();
-                      	var windowbottom = $(window).scrollTop() + $(window).height();
-                      	var windowheight = $(window).height();
+                        var Verticaltop = pos.top - ($(window).height()-635)/2;
+                        var Verticalbottom = $(document).height() + ($(window).height()-635)/2-$(window).height();
+                        var windowpos = $(window).scrollTop();
+                        var windowbottom = $(window).scrollTop() + $(window).height();
+                        var windowheight = $(window).height();
 
-                  		if (windowpos >= Verticaltop && windowheight >= 670 )
-                   		{
-                  			$(leftbanner).css('position',  'static');
-                  			$(leftbanner).css('top', '50%');
-                   			var Offset = windowpos - Verticaltop;
-                  			$(leftbanner).css('margin-top', Offset);
-                  		}
-                  		else
-                  		{
-                  			$(leftbanner).css('position', 'static');
-                  			$(leftbanner).css('top', '');
-                  			$(leftbanner).css('margin-top', '');
-                  		}
-                  		if (windowpos >= Verticaltop && windowbottom <= Verticalbottom && windowheight <= 670)
-                  		{
-                         		$(leftbanner).css('position',  'static');
-                        		$(leftbanner).css('top', '50%');
-                        		var Offset = windowpos - Verticaltop;
-                         		$(leftbanner).css('margin-top', Offset);
-                      	}
-                      	else if(windowpos < Verticaltop)
-                      	{
-                      	    $(leftbanner).css('position', 'static');
-                         		$(leftbanner).css('top', '');
-                         		$(leftbanner).css('margin-top', '');
-                      	}
-                      	else if(windowbottom > Verticalbottom)
-                      	{
-                        		$(leftbanner).css('position', 'fixed');
-                         		$(leftbanner).css('top', ($(window).height()-635)/2);
-                         		$(leftbanner).css('margin-top', '');
-                  		}
+                      if (windowpos >= Verticaltop && windowheight >= 670 )
+                      {
+                        $(leftbanner).css('position',  'static');
+                        $(leftbanner).css('top', '50%');
+                        var Offset = windowpos - Verticaltop;
+                        $(leftbanner).css('margin-top', Offset);
+                      }
+                      else
+                      {
+                        $(leftbanner).css('position', 'static');
+                        $(leftbanner).css('top', '');
+                        $(leftbanner).css('margin-top', '');
+                      }
+                      if (windowpos >= Verticaltop && windowbottom <= Verticalbottom && windowheight <= 670)
+                      {
+                            $(leftbanner).css('position',  'static');
+                            $(leftbanner).css('top', '50%');
+                            var Offset = windowpos - Verticaltop;
+                            $(leftbanner).css('margin-top', Offset);
+                        }
+                        else if(windowpos < Verticaltop)
+                        {
+                            $(leftbanner).css('position', 'static');
+                            $(leftbanner).css('top', '');
+                            $(leftbanner).css('margin-top', '');
+                        }
+                        else if(windowbottom > Verticalbottom)
+                        {
+                            $(leftbanner).css('position', 'fixed');
+                            $(leftbanner).css('top', ($(window).height()-635)/2);
+                            $(leftbanner).css('margin-top', '');
+                      }
                       })
 
                     }
@@ -1218,6 +1283,7 @@
                           <td width="729" height="20" align="center" valign="top">
                             <a href="http://www.tripinfo.com/staff.html" class="toolbar10 subnav">About Us</a>
                             <a href="http://www.tripinfo.com/submissions/index.html" class="toolbar10 toolbar10-spacer subnav">Add / Edit</a>
+                            <a href="http://www.tripinfo.com/magazine/index.html" class="toolbar10 toolbar10-spacer subnav">Magazine</a>
                             <a href="http://www.tripinfo.com/mediakit/index.html" class="toolbar10 toolbar10-spacer subnav">Media Kit</a>
                             <a href="http://www.tripinfo.com/ITM/index.html" class="toolbar10 toolbar10-spacer subnav">Newsletter</a>
                             <a href="http://www.tripinfo.com/business/mailing2.htm" class="toolbar10 toolbar10-spacer subnav">Subscribe</a>
@@ -1235,16 +1301,6 @@
                       <br>
 
                       <!-- #BeginEditable "body" -->
-<!-- Compete XL Code -->
-<script type="text/javascript">
-__compete_code = 'dd791bbd65933961d7b88dfc97bd0d5c';
-/* Set control variables below this line. */ 
-</script>
-<script type="text/javascript" src="//c.compete.com/bootstrap/s/dd791bbd65933961d7b88dfc97bd0d5c/tripinfo-com/bootstrap.js"></script>
-<noscript>
-    <img width="1" height="1" src="https://ssl-tripinfo-com-dd791b.c-col.com"/>
-</noscript>
-<!-- End Compete XL Code -->
 
 <!-- Start of StatCounter Code for Dreamweaver -->
 <script type="text/javascript">
@@ -1333,7 +1389,7 @@ We may also share customer information with consumer reporting agencies and with
 • International Festivals &amp; Events Association (IFEA)<br>
 • National Association of Reciprocal Museums (NARM)
 <br>
-• Southeast Tourism Society</span><br>
+• Travel Spike</span><br>
 <br>
 <span class="small_head">EMAIL US WITH QUESTIONS OR CONCERNS ABOUT OUR PRIVACY POLICY:</span><br>
 <span class="main_text"><a href="mailto: info@TRIPmediagroup.com">info@TRIPmediagroup.com</a></span></div>
@@ -1343,7 +1399,7 @@ We may also share customer information with consumer reporting agencies and with
                   <tr>
                     <td align="center" valign="top">
                       <br class="half-line">
-                        <hr>
+                        <hr width="710">
                         <a href="http://www.tripinfo.com/submissions/index.html" class="toolbar10 toolbar10 subnav">Add / Edit</a>
                         <a href="http://www.tripinfo.com/content.html" class="toolbar10 toolbar10-spacer-sm subnav">Add to Your Site</a>
                         <a href="http://www.tripinfo.com/careers/careers_index.html" class="toolbar10 toolbar10-spacer-sm subnav">Careers</a>
@@ -1354,8 +1410,9 @@ We may also share customer information with consumer reporting agencies and with
                         <a href="http://www.tripinfo.com/products/index.html" class="toolbar10 toolbar10-spacer-sm subnav">Products</a>
                       <br>
                       <br>
-                      <span class="fine_print">TRIPinfo.com - your trip starts here - Go There, Places to Go, Things to Do, Featured Places to Stay &amp; Meet.</span>
-                      <span class="fine_print_neutral"><br>Optimized for mobile devices. 1996-2014 TRIPmedia Group, Inc. All Rights Reserved.</span>
+                      <span class="fine_print">TRIPinfo.com - group trips start here - Go There, Places to Go, Things to Do, Featured Places to Stay &amp; Meet.</span>
+                      <span class="fine_print_neutral"><br>
+                      Optimized for mobile devices. 1996-2015 TRIPmedia Group, Inc. All Rights Reserved.</span>
                     </td>
                   </tr>
                 </tbody></table>
@@ -1410,44 +1467,44 @@ We may also share customer information with consumer reporting agencies and with
                       var rightbanner = $("#rightbanner"), pos = rightbanner.offset();
 
                       $(window).scroll(function() {
-                      	var Verticaltop = pos.top - ($(window).height()-635)/2;
-                      	var Verticalbottom = $(document).height() + ($(window).height()-635)/2-$(window).height();
-                      	var windowpos = $(window).scrollTop();
-                      	var windowbottom = $(window).scrollTop() + $(window).height();
-                      	var windowheight = $(window).height();
+                        var Verticaltop = pos.top - ($(window).height()-635)/2;
+                        var Verticalbottom = $(document).height() + ($(window).height()-635)/2-$(window).height();
+                        var windowpos = $(window).scrollTop();
+                        var windowbottom = $(window).scrollTop() + $(window).height();
+                        var windowheight = $(window).height();
 
-                  		if (windowpos >= Verticaltop && windowheight >= 670 )
-                   		{
-                  			$(rightbanner).css('position',  'static');
-                  			$(rightbanner).css('top', '50%');
-                   			var Offset = windowpos - Verticaltop;
-                  			$(rightbanner).css('margin-top', Offset);
-                  		}
-                  		else
-                  		{
-                  			$(rightbanner).css('position', 'static');
-                  			$(rightbanner).css('top', '');
-                  			$(rightbanner).css('margin-top', '');
-                  		}
-                  		if (windowpos >= Verticaltop && windowbottom <= Verticalbottom && windowheight <= 670)
-                  		{
-                         		$(rightbanner).css('position',  'static');
-                        		$(rightbanner).css('top', '50%');
-                        		var Offset = windowpos - Verticaltop;
-                         		$(rightbanner).css('margin-top', Offset);
-                      	}
-                      	else if(windowpos < Verticaltop)
-                      	{
-                      	    $(rightbanner).css('position', 'static');
-                         		$(rightbanner).css('top', '');
-                         		$(rightbanner).css('margin-top', '');
-                      	}
-                      	else if(windowbottom > Verticalbottom)
-                      	{
-                        		$(rightbanner).css('position', 'fixed');
-                         		$(rightbanner).css('top', ($(window).height()-635)/2);
-                         		$(rightbanner).css('margin-top', '');
-                  		}
+                      if (windowpos >= Verticaltop && windowheight >= 670 )
+                      {
+                        $(rightbanner).css('position',  'static');
+                        $(rightbanner).css('top', '50%');
+                        var Offset = windowpos - Verticaltop;
+                        $(rightbanner).css('margin-top', Offset);
+                      }
+                      else
+                      {
+                        $(rightbanner).css('position', 'static');
+                        $(rightbanner).css('top', '');
+                        $(rightbanner).css('margin-top', '');
+                      }
+                      if (windowpos >= Verticaltop && windowbottom <= Verticalbottom && windowheight <= 670)
+                      {
+                            $(rightbanner).css('position',  'static');
+                            $(rightbanner).css('top', '50%');
+                            var Offset = windowpos - Verticaltop;
+                            $(rightbanner).css('margin-top', Offset);
+                        }
+                        else if(windowpos < Verticaltop)
+                        {
+                            $(rightbanner).css('position', 'static');
+                            $(rightbanner).css('top', '');
+                            $(rightbanner).css('margin-top', '');
+                        }
+                        else if(windowbottom > Verticalbottom)
+                        {
+                            $(rightbanner).css('position', 'fixed');
+                            $(rightbanner).css('top', ($(window).height()-635)/2);
+                            $(rightbanner).css('margin-top', '');
+                      }
                       })
 
                     }
