@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the internwise.co.uk privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121011829id_/http%3A//www.internwise.co.uk/index.php%3Fm%3Dpages%26p%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the internwise.co.uk privacy policy that was archived on 2015-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150616082436id_/http%3A//www.internwise.co.uk/index.php%3Fm%3Dpages%26p%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy Policy | Internwise.co.uk
 
