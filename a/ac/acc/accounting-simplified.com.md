@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the accounting-simplified.com privacy policy that was archived on 2014-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140923011312id_/http%3A//accounting-simplified.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the accounting-simplified.com privacy policy that was archived on 2015-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150616081458id_/http%3A//accounting-simplified.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy
 
