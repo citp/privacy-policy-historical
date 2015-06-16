@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uswitch.com privacy policy that was archived on 2014-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141202063817id_/http%3A//www.uswitch.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uswitch.com privacy policy that was archived on 2015-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150616203251id_/http%3A//www.uswitch.com/about-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -10,7 +10,13 @@ uSwitch.com is committed to protecting your privacy. We use the information that
 
 The site is operated by uSwitch Limited; a company incorporated in England and Wales (registration number 03612689), the registered office of which is Notcutt House, 36 Southwark Bridge Road, London, SE1 9EU ("uSwitch.com"). uSwitch.com complies with all applicable UK Data Protection legislation currently in force in relation to its treatment of personal information. 
 
-The Car insurance comparison service is provided by uSwitch Limited, Company No 03612689 registered in the UK having its registered office at Notcutt House, 36 Southwark Bridge Road, SE1 9EU. uSwitch Limited is authorised and regulated by the Financial Conduct Authority. Home insurance comparisons and insurance comparisons, specifically for those with medical conditions and vehicles with modifications are provided by Seopa Ltd, registered in Northern Ireland, Registration Number NI46322. Seopa Ltd has its registered office at 5 Dogleap Road, Limavady, Co Londonderry, N.Ireland. BT49 9NN. Seopa Ltd is authorised and regulated by the Financial Conduct Authority (FCA) (Registration number: 313860). All other aspects of the insurance comparison service are provided by uSwitch Limited. The following terms and conditions apply to uSwitch’s insurance comparison service. By using this system you are also agreeing to Seopa’s [Terms & Conditions](http://www.quotezone.co.uk/seopa-legal.htm) and [Privacy Policy](http://www.quotezone.co.uk/seopa-privacy-policy.htm)
+The Home insurance comparison service is provided by Autonet Insurance Services Ltd, registered in England No. 3642372. Autonet Insurance Services Ltd has its registered office at Nile Street, Burslem, Stoke-on-Trent ST6 2BA United Kingdom. Autonet Insurance Services Ltd is authorised and regulated by the Financial Conduct Authority (FCA) (Registration number: 308213). By using this system you are also agreeing to AutoNet's [Terms & Conditions](https://assets0.uswitch.com/s3/uswitch-assets-eu/home-insurance/terms-of-business.pdf) and [Privacy Policy](https://assets0.uswitch.com/s3/uswitch-assets-eu/home-insurance/privacy-policy.pdf)
+
+The Life insurance comparisons service is provided by ActiveQuote Ltd who are authorised and regulated by the Financial Conduct Authority (501109). Registered Office; Cambrian Buildings, Mount Stuart Square, Cardiff CF10 5FL. By using this system you are also agreeing to ActiveQuote [Terms and Conditions](https://www.uswitch.com/life-insurance/terms-no-header.aspx) and [Privacy Policy](https://www.uswitch.com/life-insurance/privacy-no-header.aspx). 
+
+The Health insurance comparisons service is provided by ActiveQuote Ltd who are authorised and regulated by the Financial Conduct Authority (501109). Registered Office; Cambrian Buildings, Mount Stuart Square, Cardiff CF10 5FL. By using this system you are also agreeing to ActiveQuote [Terms and Conditions](https://www.uswitch.com/health-insurance/terms-no-header.aspx) and [Privacy Policy](https://www.uswitch.com/health-insurance/privacy-no-header.aspx). 
+
+The Car insurance comparison service is provided by uSwitch Limited, Company No 03612689 registered in the UK having its registered office at Notcutt House, 36 Southwark Bridge Road, SE1 9EU. uSwitch Limited is authorised and regulated by the Financial Conduct Authority. The following terms and conditions apply to uSwitch’s Car insurance comparison service. [Click for Terms and Conditions.](https://web.archive.org/about-us/terms-and-conditions#insurance_terms)
 
 This privacy statement sets out the policy in relation to how any personal information collected from you through your use of this site is used. 
 
@@ -118,8 +124,6 @@ In the course of serving our advertisements to you, a unique third-party cookie 
 These web beacons enable our ad server, on our behalf or on behalf of our agent, to recognize a browser's cookie when a browser visits this site, and to learn which banner ads bring users to our website. 
 
 Our third-party ad server is performing its functions on our behalf or on behalf of our agent, and we may, directly or indirectly, instruct such ad server to enable other service providers to receive information about our site related to our online advertising. 
-
-To learn more about our third-party ad-serving partner, cookies, and how to "opt-out" please [click here](http://webmedia.uswitch.com/optout.html) . 
 
 **b) Personalised gas & electricity results advertisements**
 
