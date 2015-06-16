@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the keepthetailwagging.com privacy policy that was archived on 2013-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131103003054id_/http%3A//www.keepthetailwagging.com/keep-the-tail-wagging-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the keepthetailwagging.com privacy policy that was archived on 2015-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150616132748id_/http%3A//www.keepthetailwagging.com/keep-the-tail-wagging-privacy-policy) for the most accurate reproduction.*
 
-# Keep the Tail Wagging | Dog Care Tips from a Fur Mom
+# Keep the Tail Wagging Privacy Policy | Keep the Tail Wagging
 
-[](http://www.hupso.com/share/)
+DepositPhoto/DameDeeso
 
 PRIVACY STATEMENT
 
@@ -11,6 +11,8 @@ Your privacy is important to me. This privacy statement provides information abo
 **Personal information collection**
 
 Keep the Tail Wagging may collect and use the following kinds of personal information: _y_ _our first and last name and your email address_
+
+A cookie may be added to your browser by Google to help me better manage this site and provide better content for my readers.
 
 **Using personal information**
 
@@ -26,7 +28,7 @@ MailChimp will store all the personal information you provide [on its secure ser
 
 **Guest article submissions**
 
-Any personal information included within guest article submissions will be published on the website and the internet and may be available around the world.  Please take care in what information you share within your guest articles.  By submitted guest articles, you are agreeing that your content will be published on the website and the internet.
+Keep the Tail Wagging no longer accepts guest content, so your information will never be collected through this venue.
 
 **Updating this statement**
 
@@ -51,8 +53,3 @@ If you have any questions about this privacy policy or Kimberly Gauthier’s tre
 Kimberly Gauthier
 
 E | [kimberly@keepthetailwagging.com](http://www.keepthetailwagging.com/contact-kimberly/ "Contact Kimberly")
-
-  
-
-
-[](http://www.hupso.com/share/)
