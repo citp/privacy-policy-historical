@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the keralahousedesigns.com privacy policy that was archived on 2014-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140703193514id_/http%3A//www.keralahousedesigns.com/2009/02/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the keralahousedesigns.com privacy policy that was archived on 2015-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150616150108id_/http%3A//www.keralahousedesigns.com/2009/02/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Kerala home design and floor plans
 
@@ -30,3 +30,30 @@ www.keralahousedesigns.com has no access to or control over these cookies that a
 You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. www.keralahousedesigns.com's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
 
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites. 
+
+[](http://www.keralahousedesigns.com/2009/02/submit-your-house-design-works.html)
+
+## Popular Posts - All Time
+
+  * [ ](http://www.keralahousedesigns.com/2009/05/beautiful-house-elevation-designs.html)
+
+An orthographic view of some vertical feature of a house. (Front, rear, side, interior elevation)in other words exterior face of a building ...
+
+  * [ ](http://www.keralahousedesigns.com/2010/07/kerala-style-single-floor-house-plan.html)
+
+Ground Floor Plan - 1155.51 Sq. Feet Total Built Uo Area - 1155.51 Sq. Feet Designer:Shiju Kottathazha EIDC Muscat / Calicut Click on e...
+
+  * [ ](http://www.keralahousedesigns.com/2010/01/9-beautiful-home-interior-designs.html)
+
+These Beautiful Home interior designs got as email. So don't know the sources. 
+
+  * [ ](http://www.keralahousedesigns.com/2009/03/some-beautiful-house-designs.html)
+
+  * [ ](http://www.keralahousedesigns.com/2009/03/some-unique-house-designs.html)
+
+Some Western Style House Exterior Design 
+
+
+
+
+[ ](https://www.blogger.com/rearrange?blogID=3311046394034755814&widgetType=PopularPosts&widgetId=PopularPosts2&action=editWidget&sectionId=main "Edit")
