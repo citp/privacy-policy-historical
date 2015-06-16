@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the john-carlton.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626102105id_/http%3A//www.john-carlton.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the john-carlton.com privacy policy that was archived on 2015-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150616151541id_/http%3A//www.john-carlton.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | The RANT
+# Privacy Policy
 
 We have created this privacy statement in order to demonstrate our firm and continuing commitment to the privacy of personal information provided by those visiting and interacting with this web site. We hold the privacy of your personal information in the highest regard. The following discloses our information gathering and dissemination practices for this website. 
 
@@ -62,7 +62,7 @@ You may request access to all your personally identifiable information that we c
 
 **What About Legally Compelled Disclosure of Information?**
 
-We may disclose information when legally compelled to do so, in other words, when we, in good faith, believe that the law requires it or for the protection of our legal rights. We may also disclose account information when we have reason to believe that disclosing this information is necessary to identify, [contact](http://www.john-carlton.com/contact/ "contact") or bring legal action against someone who may be violating our Terms of Service or to protect the safety of our users and the Public. 
+We may disclose information when legally compelled to do so, in other words, when we, in good faith, believe that the law requires it or for the protection of our legal rights. We may also disclose account information when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be violating our Terms of Service or to protect the safety of our users and the Public. 
 
 **What About Other Web Sites Linked to Our Web Site?**
 
