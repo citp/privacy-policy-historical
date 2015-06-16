@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the youwin.com privacy policy that was archived on 2013-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130807051141id_/http%3A//www.youwin.com/en/help/general/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the youwin.com privacy policy that was archived on 2015-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150616124825id_/http%3A//www.youwin.com/en/help/general/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - best online betting odds | Youwin.com
 
@@ -9,7 +9,7 @@ _Date: 15.03.2012_
   * **1** The aim of this policy is to tell you how we will use any personal data that you provide through this Website. Please read it carefully before you provide us with any personal data.
   * **2** We collect the following personal data from you in order that you may register and use this Website and our Games: your name, title, date of birth and your contact details including the country where you live and your email address.
   * **3** We will also ask for your payment details but these will be held by our third party payment providers. We do not have access to your payment details.
-  * **4** We use your personal information to invite you to join our Website and play our Games. Where you have asked to receive information from us we will use your personal information to send you newsletters or other information about us. You will be able to unsubscribe from the newsletters at any stage from clicking the unsubscribe button mandatory on all our emails. 
+  * **4** We use your personal information to invite you to join our Website and play our Games. Where you have asked to receive information from us we will use your personal information to send you newsletters or other information about us. You will be able to unsubscribe from the newsletters at any stage from clicking the unsubscribe button mandatory on all our emails.
   * **5** We may share your personal data with any member of our group, which means our subsidiaries, our ultimate holding company and its subsidiaries. By submitting your personal information to this Website, you consent to such transfers taking place.
   * **6** We may disclose your personal information to third parties: 
     * **i** in the event that we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our Terms and Conditions and other agreements; or to protect our rights or property (this includes exchanging information with other companies and organizations for the purposes of verification, fraud protection and credit risk reduction)
@@ -28,18 +28,18 @@ _Date: 15.03.2012_
 
 Registration No. C 35409
 
-Registered Office and Business Address:   
-Level 1   
-271, Tower Road   
-Sliema SLM 1600   
-Malta   
+Registered Office and Business Address:  
+Level 1  
+271, Tower Road  
+Sliema SLM 1600  
+Malta  
 [info@youwin.com](mailto:info@youwin.com)  
 www.youwin.com  
 Tel: 00356 2326 1300
 
-Winunited Limited is authorised and regulated by the Malta Lotteries and Gaming Authority (LGA) under LGA License numbers LGA/CL1/349/2007, LGA/CL2/195/2004 and LGA/CL3/349/2007.
+Winunited Limited is authorised and regulated by the Malta Gaming Authority (MGA) under MGA License numbers MGA/CL1/349/2007 and MGA/CL2/195/2004
 
-For further information regarding LGA, please go to www.lga.org.mt.
+For further information regarding MGA, please go to www.mga.org.mt.
 
 
 
