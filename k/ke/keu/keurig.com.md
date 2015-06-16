@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the keurig.com privacy policy that was archived on 2014-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141221160420id_/http%3A//www.keurig.com/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the keurig.com privacy policy that was archived on 2015-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150616132100id_/http%3A//www.keurig.com/content/privacy-policy) for the most accurate reproduction.*
 
 # Keurig
+
+Last Updated: September 2014
 
 This Privacy Policy applies to the information Keurig Green Mountain, Inc., or its affiliates* (referred to in this policy as “we”, “us” or “our”) collect on Keurig.com, Keurig.ca, kgm.com, timothys.ca, vanhoutte.com, baristaprima.ca and any other websites, including mobile sites, that are owned and operated by us, that display this Privacy Policy. 
 
@@ -23,7 +25,7 @@ _We also collect information about you from other companies, such as demographic
 We collect information about you and your use of our sites in different ways: 
 
 • Some information you provide directly to us, such as when you register your brewer or provide account information.   
-  Other information we collect about you through Cookies and Other Similar Technologies to help us operate our sites effectively and provide you the best products, services and site experiences that we can. • We also collect information about you from other companies (for example by purchasing demographic data about you or through social media sites such as Facebook and Twitter). • When you access our sites through any means, including a mobile device or smartphone, we may collect information about you, including your geographic location.
+• Other information we collect about you through Cookies and Other Similar Technologies to help us operate our sites effectively and provide you the best products, services and site experiences that we can. • We also collect information about you from other companies (for example by purchasing demographic data about you or through social media sites such as Facebook and Twitter). • When you access our sites through any means, including a mobile device or smartphone, we may collect information about you, including your geographic location.
 
 **Personal and Non-Personal Information**
 
@@ -162,9 +164,9 @@ We do not knowingly sell or ship any products ordered on our sites to anyone we 
 
 _If you do not wish to receive marketing and promotional communications from us, please follow the opt-out instructions provided in our communication or contact us._
 
-If you do not wish to receive marketing and promotional communications from us, please follow the opt-out instructions provided in our communications, or, if you have an account with us, you can access your communication options here. Alternatively, you can contact us as described below and speak directly with a Consumer Care representative who can answer any questions you may have and update your account accordingly. Please know that we will still contact you for transactional purposes (for example, to communicate with you about an online order).
+If you do not wish to receive marketing and promotional communications from us, please follow the opt-out instructions provided in our communications, or, if you have an account with us, you can access your communication options in the profile tab within the My Account page. Alternatively, you can contact us as described below and speak directly with a Consumer Care representative who can answer any questions you may have and update your account accordingly. Please know that we will still contact you for transactional purposes (for example, to communicate with you about an online order).
 
-You can also access and edit your account information online, including your name, email address, postal address, and phone number. To help prevent others from viewing your account information, you must first sign into your account.
+You can also access and edit your account information under My Account page, including your name, email address, postal address, and phone number. To help prevent others from viewing your account information, you must first sign into [your account.](http://www.keurig.com/login)
 
 You may request access to personal information we have about you by contacting us as described below.
 
