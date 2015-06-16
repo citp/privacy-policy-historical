@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ksb.com privacy policy that was archived on 2014-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140415084420id_/http%3A//www.ksb.com/ksb-en/Legal_Information/Privacy-Statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ksb.com privacy policy that was archived on 2015-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150616034340id_/http%3A//www.ksb.com/ksb-en/Legal_Information/Privacy-Statement) for the most accurate reproduction.*
 
 # KSB - Legal Information - Privacy Statement
 
@@ -29,22 +29,6 @@ Users have the right to receive free of charge information about the personal in
 ## Security
 
 KSB uses appropriate state-of-the-art technical security policies and procedures to protect the data and information provided from unintentional or intentional manipulation, loss, damage or unauthorised access. When personal information is collected and processed, the information is encrypted for data transmission.
-
-##  **Cookies**
-
-Cookies are small text files that are sent to your computer from the Internet along with the data or information you actually requested. The cookie data is stored on your computer so that it can be retrieved again later.
-
-We use cookies in some areas. Cookies may also be used on linked pages without us specifically informing you in advance.
-
-In some cases, including but not limited to the login process, session cookies are required, which we use for reasons of user friendliness.
-
-The login information assigned to you (user name, user rights and validity of the session) is also stored in a cookie for access control purposes. You can consider this as a kind of supplementary login information. Instead of requesting your login information again, the server reads the cookie (if available) and accepts it as proof of your identity.
-
-## Validity
-
-The validity of the cookies is limited exclusively to your visit to our portal. When you close your browser, the cookies are deleted automatically only if you have configured your browser accordingly in your personal settings. Your personal information is not stored in cookies.
-
-Most browsers are configured to accept cookies automatically. You can, however, refuse to accept cookies in general or configure your browser in such a way that you receive notification as soon as a cookie is set.
 
 ## Links to Other Web Sites
 
