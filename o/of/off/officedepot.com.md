@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the officedepot.com privacy policy that was archived on 2014-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141001014440id_/http%3A//www.officedepot.com/a/customerservice/privacy/%3Bjsessionid%3D0000Bc6WDe7btY8w7Zf3lAgZ6hP%3A17h4h7dlm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the officedepot.com privacy policy that was archived on 2015-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150616183425id_/http%3A//www.officedepot.com/a/customerservice/privacy) for the most accurate reproduction.*
 
-# Office Supplies, Furniture, Technology at Office Depot
+# Customer Service at Office Depot
 
 Updated: August 14, 2014
 
