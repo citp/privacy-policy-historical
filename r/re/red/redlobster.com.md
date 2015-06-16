@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the redlobster.com privacy policy that was archived on 2014-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141222203557id_/http%3A//www.redlobster.com/legal/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redlobster.com privacy policy that was archived on 2015-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150616041429id_/http%3A//www.redlobster.com/legal/privacy.asp) for the most accurate reproduction.*
 
 # Red Lobster: Online Privacy Notice
 
-Effective Date: July 28, 2014 
+Effective Date: March 2, 2015 
 
 We at Red Lobster Management LLC, along with our affiliates (collectively, "Red Lobster"), respect your concerns about privacy. This Privacy Notice applies to personal information we collect on the Red Lobster websites on which we have posted this Privacy Notice (collectively, the "Sites"). 
 
@@ -119,10 +119,9 @@ This Privacy Notice may be updated periodically and without prior notice to you 
 
 ## How To Contact Us 
 
-If you have any questions about this Privacy Notice, or if you would like us to update information we have about you or your preferences, please contact us by e-mail at [ComplianceEthics@RedLobster.com](mailto:ComplianceEthics@RedLobster.com). You also may write to us at: 
+If you have any questions about this Privacy Notice, or if you would like us to update information we have about you or your preferences, please contact us by e-mail at [ComplianceEthics@RedLobster.com](mailto:ComplianceEthics@RedLobster.com) or by phone at 844-755-3425, ext. 2. 
 
-Red Lobster Management LLC  
-Attention: Compliance and Ethics Office  
-1000 Darden Center Drive  
-Orlando, FL 32837  
-Phone: 844-755-3425, ext. 2 
+You may also write to us at:  Red Lobster Management LLC  
+Attn: Compliance and Ethics Office  
+450 S. Orange Ave., Suite 800  
+Orlando, FL 32801-3383 
