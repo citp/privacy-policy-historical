@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the artofproblemsolving.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120210952id_/http%3A//www.artofproblemsolving.com/Company/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the artofproblemsolving.com privacy policy that was archived on 2015-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150616152553id_/http%3A//www.artofproblemsolving.com/company/privacy) for the most accurate reproduction.*
 
-# Privacy
+# Art of Problem Solving
 
 AOPS INCORPORATED PRIVACY POLICY 
 
-Please click here for our information practices with regards to children under 13 (also listed at the end of this document). 
+Please [click here](https://web.archive.org/company/privacy.php#coppa) for our information practices with regards to children under 13 (also listed at the end of this document). 
 
 We take the privacy of our participants very seriously; therefore, we only collect the information necessary to provide our services efficiently. 
 
@@ -30,13 +30,13 @@ We also allow cookies to be placed on your computer by a third party for the pur
 
 
 
-## Teachers using our Schola teachers' tools
+## Teachers using our Teacher Tools
 
-Teachers using our Schola teacher tools on our website must first be members of the Art of Problem Solving community. We collect certain additional information from teachers wishing to use the Schola teacher tools. We collect: your name, your school's name and address, a contact phone number and email address, and your school's website URL. We use this information to verify that you are a teacher at a legitimate educational institution or homeschool, and to contact you regarding the Schola tools. We may request from you other proof of school affiliation, as necessary, to determine your eligibility to use our teacher tools. We will not share this information with any third party (except as may be required by law) and will not use this information for marketing or any other purposes. Teachers may enroll students in their classes using the Schola teachers tools. In the case that such a student is under the age of 13, teachers agree that they, or their school, are acting as the student's parents' agent in providing consent for the online collection of students' personal information within the school context. (Please see [ http://business.ftc.gov/documents/Complying-with-COPPA-Frequently-Asked-Questions#Schools](http://business.ftc.gov/documents/Complying-with-COPPA-Frequently-Asked-Questions#Schools) for more details about this provision.) 
+Teachers using our Teacher Tools on our website must first be members of the Art of Problem Solving community. We collect certain additional information from teachers wishing to use the Teacher Tools. We collect: your name, your school's name and address, a contact phone number and email address, and your school's website URL. We use this information to verify that you are a teacher at a legitimate educational institution or homeschool, and to contact you regarding the Teacher Tools. We may request from you other proof of school affiliation, as necessary, to determine your eligibility to use our teacher tools. We will not share this information with any third party (except as may be required by law) and will not use this information for marketing or any other purposes. Teachers may enroll students in their classes using the Teacher Tools. In the case that such a student is under the age of 13, teachers agree that they, or their school, are acting as the students' parents' agent in providing consent for the online collection of students' personal information within the school context. (Please see [ this website from the Federal Trade Commission](http://www.ftc.gov/tips-advice/business-center/guidance/complying-coppa-frequently-asked-questions#Schools) for more details about this provision.) 
 
-##  Students enrolling in a Schola class within his or her school, established by a registered teacher using our Schola teachers' tools 
+##  Students enrolling in a class within his or her school, established by a registered teacher using our Teacher Tools 
 
-Students who enroll in a Schola class set up by a registered teacher do not need to be members of the Art of Problem Solving community. We will collect your name, and you will also have to choose a unique username and password, which are both needed to log on. (If you are already a member of the Art of Problem Solving community, we will use your already-existing username and password, but you may have to additionally provide your real name.) Your real name and username, along with other data that we have collected including (but not necessarily limited to) any data collected during your use of our Alcumus online educational system, will be shared with the teacher in whose class you are enrolling. We take reasonable steps to protect your name, username, password, and other information from anyone who is not authorized to have such information. We cannot be held responsible for an unauthorized person illegally obtaining that information. We will not use this information for any other purpose, and will not share this information with any other third party (except as may be required by law). 
+Students who enroll in a class set up by a registered teacher using our Teacher Tools do not need to be members of the Art of Problem Solving community. We will collect your name, and you will also have to choose a unique username and password, which are both needed to log on. (If you are already a member of the Art of Problem Solving community, we will use your already-existing username and password, but you may have to additionally provide your real name.) Your real name and username, along with other data that we have collected including (but not necessarily limited to) any data collected during your use of our Alcumus online educational system, will be shared with the teacher in whose class you are enrolling. We take reasonable steps to protect your name, username, password, and other information from anyone who is not authorized to have such information. We cannot be held responsible for an unauthorized person illegally obtaining that information. We will not use this information for any other purpose, and will not share this information with any other third party (except as may be required by law). 
 
 ## Customers purchasing a product or service
 
@@ -47,8 +47,8 @@ We collect certain information from a customer who is purchasing a product and/o
 If you have any questions about this privacy statement or the practices of this site, you can contact us by email: [privacy@artofproblemsolving.com](mailto:privacy@artofproblemsolving.com) or by mail at: 
 
 AoPS Incorporated  
-10865 Rancho Bernardo Rd Ste 100  
-San Diego, CA 92127-2102  
+10865 Rancho Bernardo Rd, Ste 100  
+San Diego, CA 92127  
 
 
 ## Disclaimer of other sites' practices
@@ -90,6 +90,6 @@ Questions or comments about this policy, or requests pursuant to item #2(b) abov
 
 AoPS Incorporated  
 10865 Rancho Bernardo Rd Ste 100  
-San Diego, CA 92127-2102  
+San Diego, CA 92127  
 (858) 675-4555  
 privacy@artofproblemsolving.com 
