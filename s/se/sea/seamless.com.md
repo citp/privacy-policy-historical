@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seamless.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231025621id_/http%3A//www.seamless.com/business/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seamless.com privacy policy that was archived on 2015-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150616191548id_/http%3A//www.seamless.com/business/privacy.html) for the most accurate reproduction.*
 
 # GrubHub Holdings : Privacy Policy
 
@@ -8,7 +8,7 @@ We are concerned about privacy issues and want you to be familiar with how we co
 
 By accessing and/or using the Sites, you agree to all the terms and conditions of this Privacy Policy. If you do not agree to all the terms and conditions of this Privacy Policy, do not use the Sites. We may change this Privacy Policy from time to time and without prior notice. If we make a change to this Privacy Policy, it will be effective as soon as we post it, and the most current version of this Privacy Policy will always be posted under the Privacy Policy tab of the Seamless website. If we make a material change to this Privacy Policy, we may notify you. You agree that you will check out this Privacy Policy periodically. By continuing to access and/or use the Sites after we make changes to this Privacy Policy, you agree to be bound by the revised Privacy Policy. You agree that if you do not agree to the new terms of the Privacy Policy, you will stop using the Sites.
 
-For individuals in the UK, you should be aware that your personal information may be transferred to and stored in the United States. We abide by the Safe Harbor framework agreed to by the U.S. Department of Commerce and the European Union (EU) with respect to Personally Identifiable Information collected by Seamless Europe, Limited and transferred to us in the United States. Please review our [Safe Harbor Privacy Policy](https://web.archive.org/web/20141231025621id_/http%3A//www.seamless.com/business/privacySafeHarbor.html) for further information.
+For individuals in the UK, you should be aware that your personal information may be transferred to and stored in the United States. We abide by the Safe Harbor framework agreed to by the U.S. Department of Commerce and the European Union (EU) with respect to Personally Identifiable Information collected by Seamless Europe, Limited and transferred to us in the United States. Please review our [Safe Harbor Privacy Policy](https://web.archive.org/web/20150616191548id_/http%3A//www.seamless.com/business/privacySafeHarbor.html) for further information.
 
 ## 1\. What Types of Information Do We and Our Third Party Service Providers Collect From You?
 
@@ -74,7 +74,7 @@ We and our third party service providers may disclose PII:
 
 **Disclaimer**. If you choose to access the Sites, you do so at your own risk, and are responsible for complying with all local laws, rules and regulations. We may limit the availability of the Sites, in whole or in part, to any person, geographic area and/or jurisdiction we choose, at any time and in our sole discretion. By using the Sites and submitting any PII, you consent to the transfer of PII to other countries, such as the United States, which may provide a different level of data security than your country of residence provides.
 
-**Contacting Us**. If you have any questions regarding this Privacy Policy, please contact us by e-mail at [privacy@seamless.com](mailto:privacy@seamless.com), or please write to the following address:
+**Contacting Us**. If you have any questions regarding this Privacy Policy, please contact us by e-mail at [privacy@grubhub.com](mailto:privacy@grubhub.com), or please write to the following address:
 
 > GrubHub Holdings Inc.  
 >  Attention: Privacy Team  
