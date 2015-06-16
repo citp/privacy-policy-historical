@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the smodv.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230145456id_/http%3A//resources.smodv.com/p/legal/smod_privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smodv.com privacy policy that was archived on 2015-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150616090715id_/http%3A//smodv.com/p/legal/smod_privacy_policy) for the most accurate reproduction.*
 
-# sMod Privacy Policy | Legal | Resources
+# Angry Frog! Privacy Policy | Legal | Resources
 
-This web site is owned and operated by sMod and will be referred to as "We", "our" and "us" in this Internet Privacy Policy. By using this site, you agree to the Internet Privacy Policy of this web site ("the web site"), which is set out on this web site page. The Internet Privacy Policy relates to the collection and use of personal information you may supply to us through your conduct on the web site.
+This web site is owned and operated by Angry Frog! and will be referred to as "We", "our" and "us" in this Internet Privacy Policy. By using this site, you agree to the Internet Privacy Policy of this web site ("the web site"), which is set out on this web site page. The Internet Privacy Policy relates to the collection and use of personal information you may supply to us through your conduct on the web site.
 
 We reserve the right, at our discretion, to modify or remove portions of this Internet Privacy Policy at any time. This Internet Privacy Policy is in addition to any other terms and conditions applicable to the web site. We do not make any representations about third party web sites that may be linked to the web site.
 
@@ -64,4 +64,4 @@ This aggregate, non-personal information is collated and provided to us to assis
 
 17.    For more information about privacy issues in Australia and protecting your privacy, visit the Australian Federal Privacy Commissioner's web site; <http://www.privacy.gov.au/>
 
-###### _Last updated 2013-12-16 11:53:09_
+_Last Updated: Tue Apr 14 11:34:04 2015_
