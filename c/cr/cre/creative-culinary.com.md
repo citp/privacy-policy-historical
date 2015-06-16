@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the creative-culinary.com privacy policy that was archived on 2014-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141221020245id_/http%3A//www.creative-culinary.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the creative-culinary.com privacy policy that was archived on 2015-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150616091255id_/http%3A//www.creative-culinary.com/about/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Creative Culinary Recipes
+# Privacy Policy | Creative Culinary
 
 ## General Statement About Privacy on Creative Culinary
 
