@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blazelead.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120063642id_/http%3A//www.blazelead.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blazelead.com privacy policy that was archived on 2015-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150617001221id_/http%3A//blazelead.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Blazelead - Privacy Policy
 
