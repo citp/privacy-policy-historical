@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the usedregina.com privacy policy that was archived on 2014-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141109172738id_/http%3A//www.usedregina.com/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usedregina.com privacy policy that was archived on 2015-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150616124502id_/http%3A//www.usedregina.com/PrivacyPolicy) for the most accurate reproduction.*
 
-# Used stuff in Regina for sale - UsedRegina.com - buy and sell free classified ads
+# Privacy Policy - Used stuff in Regina for sale - UsedRegina.com - buy and sell free classified ads
 
-This Policy was last modified on September 2, 2014.
+This Policy was last modified on June 11, 2015.
 
 * ### Introduction
 
@@ -98,7 +98,7 @@ There are times when we disclose your Personal Information to other persons or o
 
 * ### Cookies
 
-Cookies are small files placed on your computer when you visit websites. Most websites use cookies to improve their functionality and we are no exception. We may use data from cookies stored on your computer for such purposes as:
+Cookies, web beacons and similar technologies ("Cookies") are small files placed on your computer to record information when you visit or interact with a website. Most websites use Cookies to improve web functionality and we are no exception. We may use data from Cookies stored on your computer for such purposes as:
 
   1. Analyzing our website traffic;
   2. Identifying returning users or account holders and ensuring account security;
@@ -108,9 +108,11 @@ Cookies are small files placed on your computer when you visit websites. Most we
 
 
 
-We may contract with certain third parties, such as DoubleClick or Google Analytics, to place cookies or similar files on our websites, but we do not permit them to collect your Personal Information. Such third parties assist us in operating our websites and they may provide you with additional products and services.
+We may contract with certain third parties, such as DoubleClick or Google Analytics, to place Cookies on our websites, but we do not permit them to collect your Personal Information. Such third parties assist us in operating our websites and they may provide you with additional products and services.
 
-By visiting our websites or using our Services, you consent to our use of cookies as explained above. If you do not wish for us to use cookies, you can delete cookies from your hard drive and disable cookies in your browser at any time. Please note that disabling cookies may affect the functionality of our Services.
+By visiting our websites or using our Services, you consent to our use of Cookies as explained above. If you do not wish for us to use Cookies, you can delete Cookies from your hard drive and disable Cookies in your browser at any time. Please note that disabling Cookies may affect the functionality of our Services.
+
+You may also opt out of specific networks being able to provide personalized advertising by going to [http://www.networkadvertising.org/managing/opt_out.asp.](http://www.networkadvertising.org/managing/opt_out.asp)
 
 * ### Protecting and Retaining Your Personal Information
 
