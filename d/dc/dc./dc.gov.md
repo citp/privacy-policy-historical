@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dc.gov privacy policy that was archived on 2014-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141130030648id_/http%3A//dc.gov/page/privacy-and-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dc.gov privacy policy that was archived on 2015-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150616055504id_/http%3A//dc.gov/page/privacy-and-security) for the most accurate reproduction.*
 
 # Privacy and Security | DC
 
