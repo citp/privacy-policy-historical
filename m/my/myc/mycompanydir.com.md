@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the mycompanydir.com privacy policy that was archived on 2014-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141223224625id_/http%3A//www.mycompanydir.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mycompanydir.com privacy policy that was archived on 2015-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150616172550id_/http%3A//www.mycompanydir.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - myCompanyDir.com | corporate directory services
 
 ###  Privacy Policy - myCompanyDir.com 
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at info@myCompanyDir.com. 
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at myCompanyDir@gmail.com. 
 
 At www.myCompanyDir.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.myCompanyDir.com and how it is used. 
 
