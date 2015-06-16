@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the fespa.com privacy policy that was archived on 2014-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141022011949id_/http%3A//www.fespa.com/info/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fespa.com privacy policy that was archived on 2015-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150617004558id_/http%3A//www.fespa.com/info/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy policy
+# Privacy policy - FESPA
 
 This privacy notice tells you what to expect when FESPA collects personal information.
 
-## Visitors to our websites
+## Visitors to our websites 
 
 When someone visits [www.fespa.com](http://www.ico.org.uk/) we collect standard internet log information and details of visitor behaviour patterns. We do this to find out things such as the number of visitors to the various parts of the site. We collect this information in a way which does not identify anyone.
 
@@ -12,7 +12,9 @@ We do not make any attempt to find out the identities of those visiting either o
 
 ## E-newsletter
 
-We use a third party provider to deliver our monthly e-newsletter. We gather statistics around email opening and clicks using industry standard technologies including clear gifs to help us monitor and improve our e-newsletter.
+We use a third party provider to deliver our monthly e-newsletter. We gather statistics around email opening and clicks using industry standard technologies including gifs to help us monitor and improve our e-newsletter.
+
+All contacts on our marketing database may change their email preferences using the links at the bottom of every email we send, we also include a single-click unsubscribe link which will permanently block all further marketing emails from being sent.
 
 ## Security and performance
 
@@ -42,7 +44,7 @@ Once a person has taken up employment with FESPA, we will compile a file relatin
 
 FESPA tries to meet the highest standards when collecting and using personal and business information. For this reason, we take any complaints we receive about this very seriously. We encourage people to bring it to our attention if they think that our collection or use of information is unfair, misleading or inappropriate. We would also welcome any suggestions for improving our procedures.
 
-This privacy notice was drafted with brevity and clarity in mind. It does not provide exhaustive detail of all aspects of FESPA’s collection and use of personal information. However, we are happy to provide any additional information or explanation needed. Any requests for this should be sent to the address below.
+This privacy notice was drafted with brevity and clarity in mind. It does not provide exhaustive detail of all aspects of FESPA’s collection and use of personal information. However, we are happy to provide any additional information or explanation needed. Any requests for this should be sent to the postal address below.
 
 ## Links to other websites
 
@@ -50,4 +52,20 @@ This privacy notice does not cover the links within this site linking to other w
 
 ## Changes to this privacy notice
 
-We keep our privacy notice under regular review. This privacy notice was last updated on 8 August 2014.
+We keep our privacy notice under regular review. This privacy notice was last updated on 9 December 2014.
+
+## Contact us by post:
+
+FESPA Ltd
+
+Bancroft Place
+
+10 Bancroft Road
+
+Reigate
+
+Surrey
+
+United Kingdom
+
+RH1 3AU
