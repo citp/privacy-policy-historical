@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the ameinfo.com privacy policy that was archived on 2014-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141218182019id_/http%3A//ameinfo.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ameinfo.com privacy policy that was archived on 2015-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150617003422id_/http%3A//ameinfo.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Statement |
-
-#### Last Update on Saturday, September 21 - 2013 @ 05:58
+# Privacy Policy « AMEInfo
 
 This Privacy Policy sets out the policy of Mediaquest FZ LLC of PO Box 72184, Zee Tower, Office 206, Dubai Media City, United Arab Emirates (“AMEinfo.com”), who controls this website (www.ameinfo.com) (“the Website”). The terms of this Privacy Policy apply in addition to the Terms of Use for the Website and any other additional terms that may be provided in connection with any particular service offered on the Website.
 
@@ -179,17 +177,17 @@ We follow generally accepted industry standards to protect the personal informat
 
 #### Why is my personal information collected?
 
-This notice applies to all information, collected or submitted, on  _AME Info_ and applications for iPhone, iPad, iPod, and other devices and platforms, hereafter referred to as simply  _AME Info_.
+This notice applies to all information, collected or submitted, on _AME Info_ and applications for iPhone, iPad, iPod, and other devices and platforms, hereafter referred to as simply _AME Info_.
 
-_AME Info  _occasionally needs to collect information for convenience, practicality, or technical requirements. This includes:
+_AME Info_ occasionally needs to collect information for convenience, practicality, or technical requirements. This includes:
 
-  * Your current subscription status and basic information,  **not including**  credit-card numbers or other payment details.
+  * Your current subscription status and basic information, **not including** credit-card numbers or other payment details.
   * Anonymous usage statistics.
-  * Information supplied to  _AME Info  _by Apple, which may include your name, email address, and ZIP code if you opted into the collection of this information upon subscribing.
+  * Information supplied to _AME Info_ by Apple, which may include your name, email address, and ZIP code if you opted into the collection of this information upon subscribing.
 
 
 
-Like most websites,  _AME Info  _also collects and stores information automatically and through the use of electronic tools that may be transparent to visitors. For example, we may log the name of your Internet Service Provider, your IP address, and information provided by and about your Internet browser. As we adopt additional technology, we may also gather similar information through other means. We may also use “cookie” technology for your convenience as we see fit, such as to keep you logged in between visits if we add a login feature.
+Like most websites, _AME Info_ also collects and stores information automatically and through the use of electronic tools that may be transparent to visitors. For example, we may log the name of your Internet Service Provider, your IP address, and information provided by and about your Internet browser. As we adopt additional technology, we may also gather similar information through other means. We may also use “cookie” technology for your convenience as we see fit, such as to keep you logged in between visits if we add a login feature.
 
 We use Emarsys to manage our mailing list. Emarsys says this about its usage of information about our subscribers:
 
@@ -197,9 +195,9 @@ _Your subscriber lists are stored on a secure_ Emarsys _server. We don’t, unde
 
 #### How is my personal information used?
 
-We use the information you provide to operate  _AME Info_  and its various features.
+We use the information you provide to operate _AME Info_ and its various features.
 
-We use non-identifying and aggregate information to better design  _AME Info_. For instance, we may make feature decisions based on the percentage of our readership using a certain device or operating system.
+We use non-identifying and aggregate information to better design _AME Info_. For instance, we may make feature decisions based on the percentage of our readership using a certain device or operating system.
 
 We may also share non-identifying and aggregate statistics with potential future advertisers and partners. For instance, we may tell an advertiser or partner how many people visited a certain area on our website, used a certain feature of the application, or viewed a certain issue or article. When information is used in this or a similar manner, we do not disclose anything that could be used to identify the individuals on whom the information is based.
 
@@ -211,11 +209,11 @@ In the future, we may sell, buy, merge, or partner with other companies or busin
 
 #### External Services
 
-External services beyond  _AME Info_  ’s control are integrated with  _AME Info_  where necessary, such as [Google Analytics](http://www.google.com/analytics/) for traffic measurement and tracking.  _AME Info_  makes reasonable efforts to ensure that all integrated external services are trustworthy and reputable, but we cannot be held responsible for data collection and usage by such services. ****
+External services beyond _AME Info_ ‘s control are integrated with _AME Info_ where necessary, such as [Google Analytics](http://www.google.com/analytics/) for traffic measurement and tracking. _AME Info_ makes reasonable efforts to ensure that all integrated external services are trustworthy and reputable, but we cannot be held responsible for data collection and usage by such services. ****
 
 **Will Mediaquest sell or give my personal information to third parties?**
 
-We do not share this information with outside parties except to the extent necessary to accomplish  _AME Info_ ’s functionality.
+We do not share this information with outside parties except to the extent necessary to accomplish _AME Info_ ‘s functionality.
 
 We use return email addresses to answer the email we receive. Such addresses are not used for any other purpose and are not shared with outside parties.
 
@@ -225,11 +223,11 @@ To prevent unauthorized access, maintain data accuracy, and ensure the correct u
 
 **How do I unsubscribe from Mediaquest communications I no longer wish to receive?**
 
-**Marketing provided by Mediaquest.**  From time to time we may send you promotional materials on behalf of Mediaquest and/or third parties. You shall receive emails according the preference selected in your account. You can opt for daily, weekly or catagorised news at point of registration. __ If you want us to stop sending you promotional materials to your email, you may follow the unsubscribe instructions in the email or manage your preferences at [E](http://hearst.ed4.net/profile/login.cfm)marsys.
+**Marketing provided by Mediaquest.** From time to time we may send you promotional materials on behalf of Mediaquest and/or third parties. You shall receive emails according the preference selected in your account. You can opt for daily, weekly or catagorised news at point of registration. __ If you want us to stop sending you promotional materials to your email, you may follow the unsubscribe instructions in the email or manage your preferences at [E](http://hearst.ed4.net/profile/login.cfm)marsys.
 
-**Exceptions.**  If you have opted-out as described above, and thereafter you elect to use a service or promotion that requires us to contact you or share your information with a third party (e.g., you enter into a contest or sweepstakes or use an ecommerce service after opting-out), then your previous opt-out preferences will not apply to such service. Despite your indicated preferences, we may send you service-related communications, including notices about your subscription, and we may continue disclosing your information to third parties under the Service Provider Exception, Legal Exceptions, and Acquisition Exception described above.
+**Exceptions.** If you have opted-out as described above, and thereafter you elect to use a service or promotion that requires us to contact you or share your information with a third party (e.g., you enter into a contest or sweepstakes or use an ecommerce service after opting-out), then your previous opt-out preferences will not apply to such service. Despite your indicated preferences, we may send you service-related communications, including notices about your subscription, and we may continue disclosing your information to third parties under the Service Provider Exception, Legal Exceptions, and Acquisition Exception described above.
 
-**Device Settings.**  Our digital applications may provide you alerts and you can change your preferences regarding these alerts through your device settings.
+**Device Settings.** Our digital applications may provide you alerts and you can change your preferences regarding these alerts through your device settings.
 
 #### How can I contact Mediaquest if I have a privacy question or complaint?
 
@@ -237,15 +235,15 @@ If you have any concerns or questions about any aspect of this policy, you may c
 
 Mediaquest Corp
 
-Address: ​P.O. BOX 72184 Dubai Media City, Zee Tower, Office 206 | United Arab Emirates
+Address: ​P.O. BOX 72184 Dubai Media City, Zee Tower, Office 206 | United Arab Emirates
 
-T: +971 4 446 53 01 | F: +971 4 390 87 37
+T: +971 4 446 53 01 | F: +971 4 390 87 37
 
-Email: [info@mediaquestcorp.com](mailto:info@mediaquestcorp.com)
+Email: [info@mediaquestcorp.com](mailto:info@mediaquestcorp.com)
 
 **How will I know if the Privacy Policy has been updated?** __
 
-_AME Info_  reserves the right to change this policy at any time. Please check this page periodically for changes. Your continued use of  _AME Info_  following the posting of changes to this policy will mean you accept those changes.
+_AME Info_ reserves the right to change this policy at any time. Please check this page periodically for changes. Your continued use of _AME Info_ following the posting of changes to this policy will mean you accept those changes.
 
 #### Send content to a colleague
 
