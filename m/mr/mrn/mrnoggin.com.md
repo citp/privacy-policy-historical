@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the mrnoggin.com privacy policy that was archived on 2014-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141116053100id_/http%3A//www.mrnoggin.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mrnoggin.com privacy policy that was archived on 2015-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150616193713id_/http%3A//www.mrnoggin.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - MrNoggin.com
 
-At OnScoop.com, we respect your privacy, and we understand the importance of the information you entrust to us. This Privacy Policy describes our practices concerning the information collected by the OnScoop family of companies consisting of OnScoop (“OnScoop”, “we”, “us”, “our”) through the use of (i) our websites (the “Website”), (ii) our OnScoop mobile applications and (iii) “Search Applications,”  a search box on an application or site from which you can access our search services, specifically provided by OnScoop (collectively the “Services”).
+At MrNoggin.com, we respect your privacy, and we understand the importance of the information you entrust to us. This Privacy Policy describes our practices concerning the information collected by the MrNoggin family of companies consisting of MrNoggin  (“MrNoggin”, “we”, “us”, “our”) through the use of (i) our websites (the “Website”), (ii) our MrNoggin mobile applications and (iii) “Search Applications,”  a search box on an application or site from which you can access our search services, specifically provided by MrNoggin (collectively the “Services”).
 
 Below we describe what information we collect when you use our Services, how we protect that information, how long we retain it, with whom we share it, and what your privacy options are.  By using the Services, you consent to our collection and use of your information as described in this Privacy Policy.
 
@@ -75,7 +75,7 @@ We may also generate, use and disclose aggregated and/or anonymized information 
 We will not share the personal information we collect about you with any third party for their own marketing purposes without your consent.  We will share your information in the following ways:
 
   * **_Our suppliers, subcontractors and business partners (“service providers”):_** We may share your data with our services providers who process your personal information to provide services to us or on our behalf.  We have contracts with our service providers that prohibit them from sharing the information about you that they collect or that we provide to them with anyone else, or using it for other purposes.
-  * **_Companies within the OnScoop Group of Companies:_** __ We may share your information with our affiliates, which are entities under common ownership or control of our site owner.
+  * **_Companies within the MrNoggin  Group of Companies:_** __ We may share your information with our affiliates, which are entities under common ownership or control of our site owner.
   * **_Our Search Application partners:_** __ If you have installed a Search Application, our Search Application partners may collect / receive information about you including the queries you submit via the Services, the Search Application functionality and / or website, the version of your Search Application or your browser settings, the search results and ads you click on, and the address of the web pages you previously visited. **  **
   * **_Fraud prevention:_** We may disclose the personal information we collect about our users when we believe disclosure is necessary to investigate, prevent, or respond to suspected illegal or fraudulent activity or to protect the safety, rights, or property of us, our users, or others.
   * **_Law enforcement purposes:_** If requested or required by government authorities, such as law enforcement authorities, courts, or regulators, or otherwise to comply with the law, we may disclose any information we have about our users. We also may disclose information collected about you in order to exercise or protect legal rights or defend against legal claims.
@@ -92,7 +92,7 @@ There are two broad categories of cookies: (1) first party cookies, served direc
 
 **_____________________________________________________________________________**
 
-Most browsers allow you to change your cookie settings. Users can usually set their browsers to block all third-party cookies (which are those set by third-party companies collecting information on websites operated by other companies), block all cookies (including first-party cookies such as the ones OnScoop uses to collect search activity information about its users), or block specific cookies.  These settings will typically be found in the “options” or “preferences” menu of your browser. In order to understand these settings, the following links may be helpful, otherwise you should use the “Help” option in your browser for more details.
+Most browsers allow you to change your cookie settings. Users can usually set their browsers to block all third-party cookies (which are those set by third-party companies collecting information on websites operated by other companies), block all cookies (including first-party cookies such as the ones MrNoggin uses to collect search activity information about its users), or block specific cookies.  These settings will typically be found in the “options” or “preferences” menu of your browser. In order to understand these settings, the following links may be helpful, otherwise you should use the “Help” option in your browser for more details.
 
   * [Cookie settings in Internet Explorer](http://support.microsoft.com/kb/196955)
   * [Cookie settings in Firefox](http://support.mozilla.com/en-US/kb/Cookies)
@@ -111,9 +111,9 @@ Please bear in mind that there are many more companies listed on these sites tha
 
 **5.          Reviewing, changing or deleting information**
 
-If you would like to review, change or delete personal information we have collected from you, please contact OnScoop :
+If you would like to review, change or delete personal information we have collected from you, please contact MrNoggin :
 
-If you would like to permanently delete your OnScoop.com account, please access Your Account.
+If you would like to permanently delete your MrNoggin.com account, please access Your Account.
 
 **Do Not Track.**   Do Not Track (“DNT”) is a privacy preference that users can set in certain web browsers. DNT is a way for users to inform websites and services that they do not want certain information about their webpage visits collected over time and across websites or online services.
 
