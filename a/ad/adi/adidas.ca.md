@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adidas.ca privacy policy that was archived on 2014-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141206005302id_/http%3A//www.adidas.ca/en/help-topics-privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adidas.ca privacy policy that was archived on 2015-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150616184828id_/http%3A//www.adidas.ca/en/help-topics-privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -15,7 +15,7 @@ adidas Canada Ltd, 8100, Highway #27, Woodbridge, Ontario, L4H 3N2,  (adidas, w
 All our activities are based on stringent ethical principles and we are committed to providing a good level of protection for the privacy of all visitors to our website and our (mobile) applications. For this reason, the way in which we collect and store information is dependent on how our website and related services are used.
 
   
-To register with adidas, you only need to enter your e-mail address, a password and your date of birth. We collect the date of birth in order to prevent children under the age of 16 from registering with adidas.  
+To register with adidas, you only need to enter your e-mail address and a password, and confirm that you are over the age of 16. We may request your birth date for the purpose of sending you special offers on your birhday, but it is optional for you to provide this infomration to us.  
  
 
 ### 2.1 Data collected by automated means
@@ -64,7 +64,7 @@ Web beacons (also known as pixel tags and clean GIFs) involve graphics that are 
 ### 2.1.5 Web analytics
 
   
-Web analytics is the term given to a method for collecting and assessing the behaviour of visitors to websites and (mobile) applications. This includes the analysis of traffic patterns in order, for example, to determine the frequency of visits to certain parts of a website or (mobile) application, or to find out what information and services our visitors are most interested in. For these purposes, we primarily make use of click-stream data and the other techniques listed above. Web analytics are carried out by Coremetrics and/or other selected parties. You can find out more information about the processing of web analytics data by Coremetrics in subsection 9 below.  
+Web analytics is the term given to a method for collecting and assessing the behaviour of visitors to websites and (mobile) applications. This includes the analysis of traffic patterns in order, for example, to determine the frequency of visits to certain parts of a website or (mobile) application, or to find out what information and services our visitors are most interested in. For these purposes, we primarily make use of click-stream data and the other techniques listed above. Web analytics are carried out by Adobe Site Catalyst and/or other selected parties. You can find out more information about the processing of web analytics data by Adobe Site Catalyst in subsection 9 below.  
  
 
 ### 2.2 Personal Information/Data provided by you  
@@ -73,7 +73,7 @@ Web analytics is the term given to a method for collecting and assessing the beh
 Besides the data collected by automated means, we also process data which you have provided to us. This includes, but is not limited to:  
  
 
-• your contact information, including your (first and last) name, (billing or delivery) address, birthdate and email address and, optionally, your telephone number. We need your e-mail address and (optionally) telephone number so that we may contact you if we have questions or information for you regarding your order;   
+• your contact information, including your (first and last) name, (billing or delivery) address, birthday and email address and, optionally, your telephone number. We need your e-mail address and (optionally) telephone number so that we may contact you if we have questions or information for you regarding your order;   
 • other information required to be able to process your order, such as information concerning the products you have ordered, the billing and delivery address, banking and/or credit card details;  
 • if you have created an online profile, the preferences and interests stored in this profile (please see below for further information concerning the profiles);  
 • if you have contacted customer service, the details of this contact and the contact history.  
@@ -101,10 +101,10 @@ If you contact customer service, we will use your personal information/data (inc
 When you provide us with your personal information/data for purposes relating to your order or in relation to a promotion, event, application, etc, we assume that you consent to the collection of your personal information and its use for these purposes.   
  
 
-You have given your consent to receive our newsletters, therefore we will send them to you. If you have given us your personal information/data during the sale of a product or service, we will inform you about similar products and services. We may also contact you to ask for your feedback after the sale of a product or service. In case of an interrupted sales process we will send you a reminder. You can immediately unsubscribe from any of these notifications at any time at no cost by clicking on a link in the corresponding e-mail or other message (see further below in parapraph 5).  
+If you have given us your personal information/data during the sale of a product or service, we may contact if an interrupted sales process we will send you a reminder. If you have opted-in to receive our newsletters and promotional emails, then we will send them to you. You can immediately unsubscribe from any of these notifications at any time at no cost by clicking on a link in the corresponding e-mail or other message (see further below in paragraph 5).  
  
 
-If you have consented to be contacted we may contact you per regular mail, e-mail, per SMS, per telephone or any other electronic means for marketing, advertising and opinion research purposes of the adidas Group. This includes for example information related to products of the adidas Group, ecommerce activities, special offers, promotions as well as information on local store openings, local store activities of the adidas Group or sporting events. In order to be able to contact you with information which is of special interest for you, your overall interaction with adidas and adidas AG (such as but not limited to your shopping behaviour in e-shops, in adidas physical stores,  your use of loyalty programmes, your ratings and reviews of products, your contact history with our customer service, your newsletter clicks/ opening results, your surfing behaviour (web tracking), the newsletter types you are subscribed to, your participation in promotions or events, your interactions with mi coach and your use of (mobile) applications), will be combined analysed and used. We may provide your contact data to adidas AG for marketing, advertising and opinion research purposes. Please find in section 5 information on your rights and especially how you can withdraw your consent.  
+If we have consent to contact you (whether express or implied as required by applicable law), we may contact you per regular mail, e-mail, per SMS, per telephone or any other electronic means for marketing, advertising and opinion research purposes of the adidas Group. This includes for example information related to products of the adidas Group, ecommerce activities, special offers, promotions as well as information on local store openings, local store activities of the adidas Group or sporting events. In order to be able to contact you with information which is of special interest for you, your overall interaction with adidas and adidas AG (such as but not limited to your shopping behaviour in e-shops, in adidas physical stores,  your use of loyalty programmes, your ratings and reviews of products, your contact history with our customer service, your newsletter clicks/ opening results, your surfing behaviour (web tracking), the newsletter types you are subscribed to, your participation in promotions or events, your interactions with mi coach and your use of (mobile) applications), will be combined analysed and used. We may provide your contact data to adidas AG for marketing, advertising and opinion research purposes. Please find in section 5 information on your rights and especially how you can withdraw your consent.  
  
 
 ### 4. Disclosure of information  
@@ -113,7 +113,9 @@ If you have consented to be contacted we may contact you per regular mail, e-mai
 One of our core principles states that your personal information/data will be treated with confidentiality. We will not sell your data to third parties. If required by law your data will be disclosed to third parties. Where personal information is stored or processed outside of Canada (whether by the adidas Group or a service provider or data processor as outlined below), it is subject to the laws of that foreign jurisdiction, and may be accessible to that jurisdiction’s governments, courts or law enforcement or regulatory agencies. If required due to business requirements and provided that it is allowed under applicable law, we will transfer your data to other companies of the adidas Group. In all other cases data will not be transferred without obtaining your prior consent.  
  
 
-We may use service providers and data processors working on behalf of adidas. The services can include hosting and maintenance services, analysis services, e-mail messaging services, delivery services, handling of payment transactions, solvency check and address check, etc. These third parties are granted access to such personal data they require in order to be able to carry out the particular service.
+We may use service providers and data processors working on behalf of adidas. The services can include hosting and maintenance services, analysis services, e-mail messaging services, delivery services, handling of payment transactions, solvency check, address check, administration of games and promotions, etc. These third parties may be authorized to collect personal data on behalf of adidas and are granted access to such personal data they require in order to be able to carry out the particular service.
+
+ 
 
 The service providers and data processors are contractually obliged to treat such information in the strictest confidence. It is also contractually forbidden for them to use the data in any other way than required. The necessary steps are taken to ensure that our service providers and the processors working on behalf of adidas protect confidentiality of your data.   
  
@@ -202,29 +204,29 @@ For further information on Bing Maps and their Privacy Policy please read their 
 Bing Maps: <http://privacy.microsoft.com/en-us/fullnotice.mspx>  
  
 
-### 10. Web analytics by Coremetrics   
+### 10. Web analytics by Adobe Site Catalyst   
  
 
-The web analytic services on our website and (mobile) applications are provided by Coremetrics ([www.coremetrics.com](http://www.coremetrics.com/)). This means that when you visit our website or (mobile) applications, a cookie by Coremetrics will be stored on your computer or mobile device, except when your browser settings don’t allow for such cookies (see 2.1.2 before).   
+The web analytic services on our website and (mobile) applications are provided by Adobe Site Catalyst ([www.adobe.com](http://www.adobe.com/)). This means that when you visit our website or (mobile) applications, a cookie by Adobe Site Catalyst will be stored on your computer or mobile device, except when your browser settings don’t allow for such cookies (see 2.1.2 before).   
  
 
-This further means that when you visit our website or (mobile) application, the web analytics data described above in chapter 2 – including the “click-stream data”, the data from “web beacons and tracking links” and information stored in Coremetrics’ cookies – will be sent to Coremetrics for analysis for and on behalf of adidas. Please note that if you have created an online profile at our website or (mobile) application and if you are logged on in this profile, a unique number identifying this profile is also being sent to Coremetrics in order to be able to match the web analytics data to this profile.   
+This further means that when you visit our website or (mobile) application, the web analytics data described above in chapter 2 – including the “click-stream data”, the data from “web beacons and tracking links” and information stored in Adobe Site Catalyst’ cookies – will be sent to Adobe Site Catalyst for analysis for and on behalf of adidas. Please note that if you have created an online profile at our website or (mobile) application and if you are logged on in this profile, a unique number identifying this profile is also being sent to Adobe Site Catalyst in order to be able to match the web analytics data to this profile.   
  
 
-Coremetrics acts as an agent to adidas, which means that adidas solely determines the purposes for which the data is being used and that Coremetrics will not disclose the information to any third parties (except when required to do so by law or court order). In privacy terms, this means that adidas is the “controller” and Coremetrics the “processor”. You can find out more about the relationships between adidas and Coremetrics in the Coremetric’s privacy policy under “Privacy Policy for Our Provision of Services” at <http://www.coremetrics.com/company/privacy.php#services>.  
+Adobe Site Catalyst acts as an agent to adidas, which means that adidas solely determines the purposes for which the data is being used and that Adobe Site Catalyst will not disclose the information to any third parties (except when required to do so by law or court order). In privacy terms, this means that adidas is the “controller” and Adobe Site Catalyst the “processor”. You can find out more about the relationships between adidas and Adobe Site Catalyst in the Adobe’s privacy policy under “Adobe Hosted Services” at <http://www.adobe.com/privacy/policy.html>.  
  
 
-If you do not wish information about your behaviour at our website or (mobile) application being collected and assessed by Coremetrics, you can apply for a visitor opt-out. This means that Coremetrics will, depending on the type of opt-out you choose, either anonymise the information it collects (but keeps collecting the data) or stop collecting information about your visit at all. This visitor opt-out requires you to accept a cookie being stored on your computer by Coremetrics. You can apply for the visitor opt-out on the link in the privacy policy section of the Coremetrics website (<http://www.coremetrics.com/company/privacy.php#services>).   
+If you do not wish information about your behaviour at our website or (mobile) application being collected and assessed by Adobe Site Catalyst, you can apply for a visitor opt-out. This means that Adobe Site Catalyst will, depending on the type of opt-out you choose, either anonymise the information it collects (but keeps collecting the data) or stop collecting information about your visit at all. This visitor opt-out requires you to accept a cookie being stored on your computer by Adobe Site Catalyst. You can apply for the visitor opt-out on the link in the privacy policy section of the Adobe Site Catalyst website (<http://www.adobe.com/privacy/policy.html>).   
  
 
 ### 11. Re-targeting Technologies  
  
 
 Our website and (mobile) application use re-targeting technologies within the internet. This enables us to show our visitors, who were already interested in our shop and our products, advertisements from us on partner websites. We believe that the display of a personalised, interest-based advertising is more interesting for our customers than advertising that does not have a personal connection.  
-We also work with other companies who use tracking technologies to serve ads on our behalf across the Internet. These companies may collect non-personally identifiable information about your visits to our websites or (mobile) applications and your interaction with our communications, including advertising.  
+We also work with other companies who use tracking technologies to serve ads on our behalf across the Internet. These companies may collect non-personally identifiable information about your visits to our websites or (mobile) applications and your interaction with our communications, including advertising. You can opt out of receiving these advertisements by following the instructions available here: http:/www.criteo.com/privacy/.  
  
 
-Re-targeting technologies analyse your cookies and display advertisement based on your past surfing behaviour. For further information on cookies, please refer to section 2 of this privacy policy.   
+Re-targeting technologies analyse your cookies and display advertisement based on your past surfing behaviour. You can use your browser settings to block cookies. For further information on cookies, please refer to section 2 of this privacy policy.   
  
 
 We do not store any personal information data about you with this technology and the usage of our retargeting technology is in compliance with applicable privacy laws.   
