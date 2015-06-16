@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the babbel.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230105050id_/http%3A//www.babbel.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the babbel.com privacy policy that was archived on 2015-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150616223932id_/http%3A//www.babbel.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Babbel.com
 
@@ -124,4 +124,8 @@ Please note that due to caching systems, search engines, the interposition of pr
 
 The trust of our users is important to us. Lesson Nine therefore wishes to provide its users with full information on the processing of their personal data at all times. If any queries remain unanswered by this privacy statement or if more detailed information is required on any point, please contact the following address at any time:
 
-Lesson Nine GmbH · Bergmannstr. 5 · 10961 Berlin · Germany · E-mail: [privacy@babbel.com](mailto:privacy@babbel.com)
+Lesson Nine GmbH  
+Bergmannstr. 5  
+10961 Berlin  
+Germany  
+E-mail: [privacy@babbel.com](mailto:privacy@babbel.com)
