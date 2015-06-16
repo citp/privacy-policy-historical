@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blackberryempire.com privacy policy that was archived on 2014-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140927095224id_/http%3A//blackberryempire.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blackberryempire.com privacy policy that was archived on 2015-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150616092758id_/http%3A//blackberryempire.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - BlackBerry Empire
 
