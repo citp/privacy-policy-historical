@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bagborroworsteal.com privacy policy that was archived on 2014-07-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140706035038id_/http%3A//www.bagborroworsteal.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bagborroworsteal.com privacy policy that was archived on 2015-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150616035525id_/http%3A//www.bagborroworsteal.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,7 +6,7 @@
 
 **Bag Borrow or Steal Online Privacy Policy**
 
-This privacy policy applies to Web sites owned and operated by Bag Borrow or Steal, Inc. ("Bag Borrow or Steal"), including BagBorrowOrSteal.com and BBOSPrivateSale.com (each, a "Site," and collectively, the "Sites"). 
+This privacy policy applies to Web sites owned and operated by Bag Borrow or Steal, Inc. ("Bag Borrow or Steal"), including BagBorrowOrSteal.com and formerly "BBOSPrivateSale.com" (each, a "Site," and collectively, the "Sites"). 
 
 **Your privacy is important to us.**
 
@@ -92,6 +92,6 @@ Certain personal information in your Bag Borrow or Steal account is password-pro
 We want you to enjoy your use of our Sites. If you have any questions about this privacy policy or our practices, or believe that a violation of this policy may have occurred, please let us know by contacting us at customerservice@BagBorrowOrSteal.com.
 
 Updated February 6, 2012  
-©Copyright 2006-2014 Bag Borrow or Steal, Inc. All Rights Reserved  
+©Copyright 2006-2015 Bag Borrow or Steal, Inc. All Rights Reserved  
   
 ---|---
