@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the letstango.com privacy policy that was archived on 2014-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141124155432id_/http%3A//www.letstango.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the letstango.com privacy policy that was archived on 2015-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150616184143id_/http%3A//www.letstango.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -33,7 +33,7 @@ LetsTango.com collects and uses Users personal information for the following pur
 
 How we protect your information
 
-We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.
+We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site. All credit/debit cards details or information will NOT be stored, sold, shared, rented or leased to any third parties.
 
 Sensitive and private data exchange between the Site and its Users happens over a SSL secured communication channel and is encrypted and protected with digital signatures. Our Site is also in compliance with PCI vulnerability standards in order to create as secure of an environment as possible for Users.
 
