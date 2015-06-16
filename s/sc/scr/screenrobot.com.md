@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the screenrobot.com privacy policy that was archived on 2014-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141202191955id_/http%3A//screenrobot.com/about-us) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the screenrobot.com privacy policy that was archived on 2015-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150616105602id_/http%3A//screenrobot.com/about-us) for the most accurate reproduction.*
 
-# About Us/Privacy Policy | Screen Robot
+# About Us/Privacy Policy - Screen Robot
 
 Screen Robot is a site made for humans who spend too much time in front of screens.
 
