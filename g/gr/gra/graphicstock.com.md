@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the graphicstock.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230042519id_/http%3A//www.graphicstock.com/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the graphicstock.com privacy policy that was archived on 2015-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150616224806id_/http%3A//www.graphicstock.com/page/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Download Unlimited Stock Images and Graphics
 
