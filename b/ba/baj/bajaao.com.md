@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bajaao.com privacy policy that was archived on 2014-07-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140722032837id_/http%3A//www.bajaao.com/privacy-policy-bajaao-music-private-ltd) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bajaao.com privacy policy that was archived on 2015-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150616094700id_/http%3A//www.bajaao.com/pages/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | BAJAAO.COM
 
 At BAJAAO Music Private Limited ("BAJAAO"), we are committed to protecting the privacy of our customers and users of our web site located at www.bajaao.com (the "Site") . This privacy policy ("Privacy Policy") gives you details of our privacy practices, including (a) what information we collect about you when you use the Site; (b) how the information will be used or disclosed; and (c) your rights with respect to our collection and use of your data. We may modify these policies from time to time and will provide notice of any major changes by posting such notice on the Site.
 
@@ -18,7 +18,7 @@ As well as using information about you for the specific purposes set out above, 
 
 If you communicate with us, we may retain this correspondence to improve our products, services, and the Site, and for other disclosed purposes. We may use information you provide to us in order to send you updates, such as notifications of changes to the terms of our services or important information about our services and products.
 
-For print catalog customers, BAJAAO may occasionally share a portion of its mailing list with other reputable organizations. If you do not want your name and address shared with other organizations, or do not wish to receive our catalogs, please contact us at 800-449-9128. You may also contact us online.
+For print catalog customers, BAJAAO may occasionally share a portion of its mailing list with other reputable organizations. If you do not want your name and address shared with other organizations, or do not wish to receive our catalogs, please contact us at 1-800-200-6930. You may also contact us online.
 
 BAJAAO may disclose information about individual users to third parties who provide services to BAJAAO and who agree to maintain the confidentiality of such information in accordance with this Privacy Policy. These third parties provide a variety of services to BAJAAO, including, without limitation, fulfilling product orders, managing or hosting the Site, helping create new content and promotions for the Site, and sending or coordinating the sending of marketing communications to users who have consented to receive such materials. In situations where you have supplied your information in connection with a question or request for information about a product or service offered by one of our business partners, we may also send the information you have supplied to the business partners that offer such products or services.
 
@@ -32,7 +32,7 @@ If BAJAAO is acquired by or merged with another company, BAJAAO may transfer per
 
 **Opt Out:** From time to time, we may notify you of special promotions, changes to our Site, new product lines or new service offerings, or products that we think may be of special interest to you. If you decide you no longer want to be notified of this information, you can un-subscribe at any time.
 
-**Mailing List:** BAJAAO may occasionally share a portion of its mailing list with other reputable organizations. If you do not want your name and address shared with other organizations, or do not wish to receive our catalogs, please contact us at 91-22-65223453. You may also contact us by email at helpdesk (at) bajaao (dot) com.
+**Mailing List:** BAJAAO may occasionally share a portion of its mailing list with other reputable organizations. If you do not want your name and address shared with other organizations, or do not wish to receive our catalogs, please contact us at 1-800-200-6930. You may also contact us by email at helpdesk@bajaao.com
 
 Please note that requested changes may take up to eight (8) weeks to take effect, particularly if we are removing your name from our postal mailings.
 
