@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the mb104.com privacy policy that was archived on 2014-12-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141215201257id_/http%3A//www.maxbounty.com/privacy.cfm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mb104.com privacy policy that was archived on 2015-06-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150617040408id_/http%3A//www.maxbounty.com/privacy.cfm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -10,10 +10,64 @@
    <title>MaxBounty - Best CPA network for affiliate marketing programs</title>
    <link rel="P3Pv1" href="http://www.maxbounty.com/P3P/p3p.xml">
    <link href="css/index.css" rel="stylesheet" type="text/css">
-   
+
+   <link rel="stylesheet" href="jquery/jquery-ui.min.css" type="text/css">
+   <link rel="stylesheet" href="lightbox/css/lightbox.css" type="text/css">
+   <link rel="stylesheet" href="css/ar-style.css" type="text/css">
+      
    
 
    <script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=6966070854"></script><script type="text/javascript" src="js/utils.js"></script>
+
+   <script src="js/jquery-1.11.2.min.js"></script>
+   <script src="jquery/jquery-ui.min.js"></script>
+   <script src="lightbox/js/lightbox.min.js"></script>
+   <script src="jquery/leanModal.min.js"></script>
+   <script>
+	$(document).ready(function() {
+         $("#tabsar").tabs({show: 'fade', hide: 'fade'});
+     });
+   </script>
+
+   <script>
+	$(document).ready(function() {
+		//Progress Bar
+		//Day Number (http://www.onlineconversion.com/day_week_number.htm)
+		//Current day (http://www.devcurry.com/2011/08/javascript-find-day-of-year.html)
+
+		var startDate = 91;  // update this with the link above
+		var endDate = 273;	// update this with the link above
+		
+		var timestmp = new Date().setFullYear(new Date().getFullYear(), 0, 1);
+		var yearFirstDay = Math.floor(timestmp / 86400000);
+		var today = Math.ceil((new Date().getTime()) / 86400000);
+		var dayofYear = today - yearFirstDay;
+		var currentDate = dayofYear - startDate;
+
+		var totalDate = (endDate - startDate);
+
+		var percentage = (currentDate / totalDate) * 100;
+
+		$( "#progressbar" ).progressbar({
+			value: (percentage)
+		});
+	});
+   </script>
+
+
+   <script>
+	$(document).ready(function() {
+         $("#trigger").leanModal({ top : 200, overlay:0.7, closeButton: ".modal_close"});
+
+  		setTimeout(function(){
+  			$("#trigger").click();
+  		}, 2000);
+
+  		$('.modal_close').click(function(e) {
+		    e.preventDefault();
+		});         
+     });
+   </script>
 </head>
 
 <body>
@@ -62,7 +116,8 @@
    <li><a href="http://www.maxbounty.com/faq.cfm" hidefocus="true"><img src="images/bFAQ.png" id="bFAQ" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('bFAQ','','images/hov_bFAQ.png',1)"></a></li>
    <li><a href="http://blog.maxbounty.com" hidefocus="true" target="_blank"><img src="images/bBlog.png" id="bBlog" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('bBlog','','images/hov_bBlog.png',1)"></a></li>
    <li><a href="http://www.maxbounty.com/showoffers.cfm" hidefocus="true"><img src="images/bCampaigns.png" id="bCampaigns" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('bCampaigns','','images/hov_bCampaigns.png',1)"></a></li>
-   <li style="margin-left: 227px; margin-top: 5px;"><div class="fb-like" data-href="http://www.facebook.com/maxbounty" data-layout="button_count" data-action="like" data-show-faces="false" data-share="false"></div></li>
+   <li><a href="http://www.maxbounty.com/rewards.cfm" hidefocus="true"><img class="aflink" src="ARimages/aflink.png"></a></li>
+   <li style="margin-left: 70px; margin-top: 5px;"><div class="fb-like" data-href="http://www.facebook.com/maxbounty" data-layout="button_count" data-action="like" data-show-faces="false" data-share="false"></div></li>
    </ul>
 </div>
 
@@ -165,7 +220,7 @@
 
 <div id="footer">
     
-    <div id="maxlogo"><img src="images/max-bounty.png"></div><div id="copyright">© 2014 All Rights Reserved</div>
+    <div id="maxlogo"><img src="images/max-bounty.png"></div><div id="copyright">© 2015 All Rights Reserved</div>
 	<div class="links"><a href="http://www.maxbounty.com/privacy.cfm" target="_blank" hidefocus="true">privacy policy</a></div>
 	<div class="links"><a href="http://www.maxbounty.com/contact.cfm" hidefocus="true">contact us</a></div>
 	<div class="links"><a href="http://www.maxbounty.com/res.cfm" hidefocus="true">resources</a></div>
@@ -173,4 +228,4 @@
 
 
 
-	  </body></html>
+	  <div id="lightboxOverlay" class="lightboxOverlay" style="display: none;"></div><div id="lightbox" class="lightbox" style="display: none;"><div class="lb-outerContainer"><div class="lb-container"><img class="lb-image" src=""><div class="lb-nav"><a class="lb-prev" href=""></a><a class="lb-next" href=""></a></div><div class="lb-loader"><a class="lb-cancel"></a></div></div></div><div class="lb-dataContainer"><div class="lb-data"><div class="lb-details"><span class="lb-caption"></span><span class="lb-number"></span></div><div class="lb-closeContainer"><a class="lb-close"></a></div></div></div></div><div id="lean_overlay"></div></body></html>
