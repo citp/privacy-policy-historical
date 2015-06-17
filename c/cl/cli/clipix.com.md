@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clipix.com privacy policy that was archived on 2014-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141015051523id_/https%3A//www.clipix.com/PrivacyStatement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clipix.com privacy policy that was archived on 2015-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150617031606id_/https%3A//www.clipix.com/PrivacyStatement.aspx) for the most accurate reproduction.*
 
 # Clipix | Privacy Statement
 
