@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the blocksi.net privacy policy that was archived on 2014-11-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141124133327id_/http%3A//www.blocksi.net/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the blocksi.net privacy policy that was archived on 2015-06-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150617064406id_/http%3A//www.blocksi.net/privacy.php) for the most accurate reproduction.-->
 
 <html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -10,11 +10,9 @@
 <meta name="author" content="">
 <link href="http://fonts.googleapis.com/css?family=Lato:400,300,400italic,700,700italic" rel="stylesheet" type="text/css">
 <link href="http://fonts.googleapis.com/css?family=Alef:400,700" rel="stylesheet" type="text/css">
-<link href="http://blocksi.net/css/main.css" rel="stylesheet" type="text/css">
-<link href="http://blocksi.net/css/validationEngine.jquery.css" rel="stylesheet" type="text/css">
+<link href="http://blocksi.net/css/common.css" rel="stylesheet" type="text/css">
 <script async="" charset="utf-8" src="//v2.zopim.com/?2PMhSxgueC9yE3AVeRusMXc7pRW75oSw" type="text/javascript"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script src="http://blocksi.net/js/jquery-1.8.js" type="text/javascript"></script>
 <!--For Login Popup-->
-<link rel="stylesheet" href="http://blocksi.net/css/general.css" type="text/css" media="screen">
 <script src="http://blocksi.net/js/popup.js" type="text/javascript"></script>
 <!--For Video Popup-->
 <script type="text/javascript" src="http://blocksi.net/js/jquery.simplemodal.js"></script>
@@ -59,7 +57,50 @@ m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
 ga('create', 'UA-53994890-1', 'auto');
 ga('send', 'pageview');
 
+</script><script>
+document.onkeydown = function(e) {
+        if (e.ctrlKey && 
+            (e.keyCode === 67 || 
+             e.keyCode === 86 || 
+             e.keyCode === 85 || 
+             e.keyCode === 117)) {
+            return false;
+        } else {
+            return true;
+        }
+};
+</script><script language="JavaScript">
+var message="Function Disabled!";
+
+///////////////////////////////////
+function clickIE4(){
+if (event.button==2){
+return false;
+}
+}
+
+function clickNS4(e){
+if (document.layers||document.getElementById&&!document.all){
+if (e.which==2||e.which==3){
+return false;
+}
+}
+}
+
+if (document.layers){
+document.captureEvents(Event.MOUSEDOWN);
+document.onmousedown=clickNS4;
+}
+else if (document.all&&!document.getElementById){
+document.onmousedown=clickIE4;
+}
+
+document.oncontextmenu=new Function("return false")
+
+// --> 
 </script></head>
+
+
 
 
 
@@ -96,9 +137,13 @@ ga('send', 'pageview');
             <li><a href="#" class="">Products</a>
             	<ul>
                 	<li><a href="blocksi-router.php">Blocksi Router</a></li>
-					<li><a href="blocksi-phone.php">Blocksi Phone</a></li>
+					<li><a href="blocksi-manager-pro.php">Blocksi Manager Pro</a></li>
+					<li><a href="blocksi-manager-residential.php">Blocksi Manager Residential</a></li>
+					<!--<li><a href="blocksi-phone.php">Blocksi Phone</a></li>-->
                     <li><a href="chromebook-filtering.php">Chromebook Filtering</a></li>
-                </ul>
+					<li><a href="blocksi-extension.php">Blocksi Extension</a></li>
+					<!--<li><a href="blocksi-api.php">Blocksi API</a></li>-->
+                </ul>	
             </li>
             <!--<li><a href="how-to-buy.php">Buy </a></li>-->
             <li><a href="#" class="">Support</a>
@@ -109,12 +154,13 @@ ga('send', 'pageview');
 					<li><a href="BlocksiRouterLicence.pdf" target="_blank">Terms of Service</a></li>
                </ul>
 			</li>
-			<li><a href="http://blocksi.net/faq.php" class="">&nbsp;FAQ &nbsp;</a>
+			<li><a href="#" class="">Questions</a>
 			<ul>
 				<li><a href="http://blocksi.net/forum/ucp.php?mode=login" target="_blank">Forum</a></li>
-				<li><a href="#">Blog</a></li> 
-				<li><a href="BlocksiGPLLicence.pdf" target="_blank">Documentation</a></li>
-				<li><a href="http://blocksi.net//gpl.php">GPL</a></li>
+				<li><a href="http://blocksi.net/blog">Blog</a></li> 
+				<li><a href="documentation.php">Documentation</a></li>
+				<li><a href="http://blocksi.net/faq.php">Faq</a></li>
+				<!--<li><a href="/gpl.php">GPL</a></li>-->
 			</ul>
 			</li>
             <li><a href="#" class="">About Us </a>
@@ -128,16 +174,9 @@ ga('send', 'pageview');
 			</li>
            
 						<li><a href="http://blocksi.net/login.php" class="">Login</a></li>
-			            <li class="login_area"><a href="http://blocksi-router.appspot.com" target="_blank" class="active">Dashboard</a></li>
+			            <li class="login_area"><a href="home-dashboard.php" class="active">Dashboard</a></li>
           </ul>
-          <div id="popupContact">
-            <form action="" method="post">
-              <input name="" type="text" onfocus="if(this.value==this.defaultValue)this.value='';" onblur="if(this.value=='')this.value=this.defaultValue;" value="Email">
-              <input name="" type="password" onfocus="if(this.value==this.defaultValue)this.value='';" onblur="if(this.value=='')this.value=this.defaultValue;" value="password">
-              <input name="" type="submit">
-              <a href="#" class="forgot">Forgot password ?</a>
-            </form>
-          </div>
+          
           <div id="backgroundPopup"></div>
         </div>
       </div>
@@ -314,7 +353,7 @@ type='text/javascript';e.parentNode.insertBefore($,e)})(document,'script');
     <div class="footer">
       <div class="foot_top">
         <p><img src="images/foot-mail-icon.png" alt=""></p>
-        <p><a href="mailto:sales@blocksi.net">sales@blocksi.net</a> | <a href="mailto:support@blocksi.si">support@blocksi.net</a></p>
+        <p><a href="mailto:sales@blocksi.net">sales@blocksi.net</a> | <a href="mailto:support@blocksi.net">support@blocksi.net</a></p>
       </div>
       <div class="foot_bot" style="position:relative;">
 	  
