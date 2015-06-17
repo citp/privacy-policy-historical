@@ -1,51 +1,91 @@
-> *The following text is extracted and transformed from the oshatrain.org privacy policy that was archived on 2014-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141002180006id_/http%3A//www.oshatrain.org/pages/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oshatrain.org privacy policy that was archived on 2015-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150617133517id_/http%3A//www.oshatrain.org/pages/privacy-policy.html) for the most accurate reproduction.*
 
-# OSHAcademy | Free Online OSHA Health and Safety Training - 132 Hour OSH Professional Program
+# OSHAcademy - OSHAcademy Privacy Policy
 
-This notice provides highlights of the full OSHAcademy Privacy Statement. This notice and the full statement apply to all Geigle Safety Group, Inc. websites and services.
+Privacy Policy
 
-## **Personal Information**
+### INTRODUCTION
 
-When you enroll and complete online courses, OSHAcademy will ask you to provide personal information. OSHAcademy will _not_ use cookies and other technologies to keep track of your interactions with our online training services. If you choose to purchase a product (such as certificates, workbooks, etc.), you will be redirected to [PayPal](http://www.paypal.com/) to transact the purchase. [PayPal](http://www.paypal.com/) is widely used and is a trusted partner for the purpose of transacting online purchases. Geigle Safety Group, Inc., or it's partner websites does not collect personal financial information.
+This privacy policy discloses the privacy practices for Geigle Safety Group (geiglesafety.com) and our family of divisions, OSHAcademy (oshatrain.org) and Quality Safety Training (qualitysafetytraining.com). This privacy policy applies solely to information collected by these web sites. This policy will notify you of the following:
 
-## **Uses of Information**
-
-OSHAcademy uses the information collected to help us provide online training services you request. Our services may include the display of advertising. OSHAcademy may use your information to inform you of other products or services offered by Geigle Safety Group, Inc., and to send you relevant survey invitations related to our services. OSHAcademy will not sell, rent, or lease our customer lists to third parties. We may send service communications such as welcome letters, information on service issues, and security announcements. We may also occasionally send you product surveys or promotional mailings to inform you of other products or services available from Geigle Safety Group, Inc., and its affiliates.
-
-Microsoft may access and/or disclose your personal information if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on Geigle Communications or the site; (b) protect and defend the rights or property of Geigle Safety Group, Inc., including its partner websites; or (c) act in urgent circumstances to protect the personal safety of users of Geigle Safety Group, Inc., services. 
-
-Personal information collected on this site is stored and processed in the United States at Geigle Safety Group, Inc., home office in Portland, Oregon.
-
-## **Control of your Personal Information**
-
-We offer you choices for the collection, use and sharing of your personal information. You may choose not to receive marketing material from Geigle Safety Group, Inc.. You may also stop the delivery of future e-mail from Geigle Safety Group, Inc., by following the specific instructions in the e-mail you receive.
-
-You may subscribe and unsubscribe to Geigle Safety Group, Inc., newsletters. Each newsletter you receive will have instructions on how to unsubscribe prominently mentioned in it.
-
-You may have the ability to view or edit your personal information. If you wish to update your personal information or change a password, please inform us via email.
-
-## **Use of Cookies**
-
-Geigle Safety Group, Inc., or its partner websites does not use "cookies." A cookie is a small text file that is placed on your hard disk by a Web page server. Cookies contain information that can later be read by a web server in the domain that issued the cookie to you. Cookies cannot be used to run programs or deliver viruses to your computer.
-
-Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to sign in or use other interactive features of MSN and Windows Live sites and services that depend on cookies. 
-
-## **Enforcement of this Privacy Statement**
-
-If you have questions regarding this statement, contact Geigle Safety Group, Inc. via [email](https://web.archive.org/web/20141002180006id_/http%3A//www.oshatrain.org/pages/444php/contact444.php) or by calling 971.327.4103.
-
-## **Changes to this Statement**
-
-We will occasionally update this Privacy Statement to reflect changes in our services and customer feedback. When we post changes to this Statement, you will see the word "updated" next to the Privacy Statement link on the front pages of Geigle Safety Group, Inc., partner websites. If there are material changes to this Statement or in how Microsoft will use your personal information, we will prominently post such changes prior to implementing the change. We encourage you to periodically review this Statement to be informed of how Microsoft is protecting your information.
-
-## **Contact Information**
-
-Geigle Safety Group, Inc., welcomes your comments regarding this Privacy Statement. If you have questions about this Statement or believe that we have not adhered to it, please contact us via mail, email, or phone.
-
-Geigle Safety Group, Inc.   
-1915 NW Amberglen Parkway  
-Suite #400  
-Beaverton, OR 97006  
+  1. What personally identifiable information is collected from you through the web site, how it is used and with whom it may be shared.
+  2. What choices are available to you regarding the use of your data.
+  3. The security procedures in place to protect the misuse of your information.
+  4. How you can correct any inaccuracies in the information.
 
 
-971.327.4103
+
+### INFORMATION COLLECTION, USE, AND SHARING
+
+We are the sole owners of the information collected on this site. We only have access to information that you voluntarily give us via email or other direct contact from you.
+
+We will not sell or rent this information to anyone.
+
+We will use your information to respond to you, regarding the reason you contacted us. We will not share your information with any third party outside of our organization, other than as necessary to fulfill your request, e.g. to ship an order, submit transcripts, or inform your employer of your training status.
+
+### YOUR ACCESS TO AND CONTROL OF YOUR INFORMATION
+
+You may opt out of any future contacts from us at any time.
+
+You can do the following at any time by contacting us via the email address or phone number given on our website:
+
+  * See what data we have about you, if any.
+  * Change/correct any data we have about you. 
+    * We do require verification before making a formal name change. This helps ensure the documents produced by our websites are accurate.
+  * Request us to delete any inaccurate information we have about you.
+  * Request a release of your student transcript to a university or employer
+  * Express any concern you have about our use of your data.
+
+
+
+### SECURITY
+
+We take precautions to protect your information. When you submit sensitive information via the website, your information is protected both online and offline.
+
+Wherever we collect sensitive information (such as transaction data), that information is encrypted and transmitted to us in a secure way. You can verify this by looking for a closed lock icon at the bottom of your web browser, or looking for "https" at the beginning of the web page address.
+
+We do not collect or store any credit card data locally on our computer systems or in paper form. All credit card data collected over the phone is stored in an encrypted form by our credit card processor.
+
+While we use encryption to protect sensitive information transmitted online, we also protect your information offline. Only employees who need the information to perform a specific job (for example, billing or customer service) are granted access to personally identifiable information. The computers/servers in which we store personally identifiable information are kept in a secure environment.
+
+### REGISTRATION
+
+In order to use some functions of our website, a user must first complete the registration form. During registration, a user is required to give certain information (such as name and email address). This information is used to contact you about the products/services on our site in which you have expressed interest. We also require address information for shipping and to help confirm your identity when you contact us.
+
+### ORDERS
+
+We request information from you on our order form. To buy from us, you must provide contact information, such as name and shipping address. You will also be asked for financial information, such as credit card number, expiration date. This information is used for billing purposes and to fill your orders. If we have trouble processing an order, we'll use this information to contact you.
+
+We use an outside shipping company to ship orders. We also use a credit card processing company to bill users for goods and services. These companies do not retain, share, store or use personally identifiable information for any secondary purposes beyond filling your order.
+
+### COOKIES
+
+We use "cookies" on our sites. A cookie is a piece of data stored on your hard drive. We use cookies to help us improve your access to our site, e.g. allowing you to login once and access multiple pages. The cookies we use are destroyed (deleted) when your browser session has ended. We do not store any long term cookies on your computer.
+
+Some of our business partners may use cookies on our site (for example, google and advertisers). We use google analytics to learn how vistors use our website and what their general interests are. This allows us to improve our site content to meet the needs of our customers.
+
+[Click here to learn how to opt-out of google analytics cookie tracking.](https://tools.google.com/dlpage/gaoptout/)
+
+### LINKS
+
+This web site contains links to other sites. We are not responsible for the content or privacy practices of other sites. We encourage our users to read the privacy statements of any site that collects personally identifiable information.
+
+### SURVEYS & CONTESTS
+
+From time-to-time our site requests information via surveys or contests. Participation in these surveys or contests is completely voluntary, and you may choose whether or not to participate and disclose this information.
+
+Information requested may include contact information (such as name and shipping address), and demographic information (such as zip code, age level). Contact information will be used to notify the winners and award prizes.
+
+Survey information may be used for purposes of monitoring or improving the use and satisfaction of this site.
+
+### UPDATES
+
+Geigle Safety Group reserves the right to modify these Privacy Policies at any time without advance notice. Any changes to these Privacy Policies will be effective immediately upon posting on this page, with an updated effective date. By accessing this site after any changes have been made, you signify your agreement on a prospective basis to the modified Privacy Policy and all of the changes. Be sure to return to this page periodically to ensure familiarity with the most current version of these Privacy Policies.
+
+### CONTACT INFORMATION
+
+If you feel that we are not abiding by this privacy policy, you should contact us immediately via telephone at 971-217-8721 or by email at [instructor@oshatrain.org](mailto:instructor@oshatrain.org).
+
+**Effective Date:** September 1st, 2014.
+
+**Last Updated:** March 17th, 2015.
