@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the proioxis.com privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217181120id_/http%3A//ceoworld.biz/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the proioxis.com privacy policy that was archived on 2015-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150617221201id_/http%3A//ceoworld.biz/privacy) for the most accurate reproduction.*
 
-# CEOWORLD Magazine Privacy Policy - CEOWORLD magazine
+# CEOWORLD Magazine Privacy Policy » CEOWORLD Magazine
 
 This Privacy Policy describes the policies and procedures of Lucentbyte Media Technologies Limited (“we”, “our” or “us”) on the collection, use and disclosure of your information on [ceoworld.biz](http://ceoworld.biz/ "Link: http://ceoworld.biz") (the “Site”) and the services, features, content or applications we offer (collectively with the Site, the “Services”). We receive information about you from various sources, including: (i) if you register for the Site and the Services, through your user account on the Services (your “Account”); (ii) your use of the Services generally; and (iii) from third party websites and services. When you use the Services, you are consenting to the collection, transfer, manipulation, storage, disclosure and other uses of your information as described in this Privacy Policy.
 
