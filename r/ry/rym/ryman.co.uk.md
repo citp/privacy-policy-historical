@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ryman.co.uk privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123080200id_/http%3A//www.ryman.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ryman.co.uk privacy policy that was archived on 2015-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150617175321id_/http%3A//www.ryman.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -10,10 +10,11 @@ We are totally committed to ensuring that your online shopping experience is com
 
   * Site Security 
   * Privacy Promise 
+  * Benefits For You 
   * What information we collect 
   * Credit Card Fraud Prevention 
   * Phishing 
-  * [Find out more about how Ryman use of cookies](https://web.archive.org/web/20141123080200id_/http://www.ryman.co.uk/privacy-policy/cookie-policy)
+  * [Find out more about how Ryman use of cookies](https://web.archive.org/web/20150617175321id_/http://www.ryman.co.uk/privacy-policy/cookie-policy)
 
 
 
@@ -34,6 +35,10 @@ We promise that:
 
 When you make a purchase from the Ryman website we collect certain personal information from you. All this information is held on secure servers and Ryman fully complies with all obligations required of the data protection act and current consumer legislation. 
 
+## Benefits For You
+
+By subscribing with us you will receive weekly all the latest news and special offers with great savings. If you provide your details for a competition your information will be held until the end of the offer unless specified otherwise. 
+
 ## What information we collect
 
 **We may collect the following information:**   
@@ -53,7 +58,7 @@ We require this information to understand your needs and provide you with a bett
 • We may use the information to customise the website according to your interests 
 
 **Email marketing services**   
-From time to time, we may contact you regarding offers and updates on our products and services. These emails may be personalised to contain your name for promotional reasons. We use some third party institutions to handle the processing and fulfilment of your order. They receive the information needed to do this and all such institutions are under strict contractual obligations to keep your personal information secure and private. 
+From time to time, we may contact you regarding offers and updates on our products and services. These emails may be personalised to contain your name for promotional reasons. We use some third party institutions to handle the processing and fulfilment of your order. They receive (address and contact numbers to contact your regarding the delivery of your order) the information needed to do this and all such institutions are under strict contractual obligations to keep your personal information secure and private. 
 
 For full details on our Privacy Policy, please see the section incorporated into our [Terms and Conditions](http://www.ryman.co.uk/terms-and-conditions/) of use. 
 
@@ -73,19 +78,19 @@ Find out more here:
 ## Phishing emails or calls – do not share your personal information
 
 Phishing is the process of tricking someone into passing over personal or sensitive information. This can be done in an email format or through a phone call from someone pretending to be from an official and legitimate source.   
-Do not share your personal information with anyone claiming to be from Ryman. If we need to take an alternative payment method or other personal information from you, we will ask you to call us back on our main customer services number.   
+Do not share your personal information with anyone claiming to be from The Theo Paphitis Retail Group. If we need to take an alternative payment method or other personal information from you, we will ask you to call us back on our main customer services number.   
 If you think someone is attempting to deceive you into passing over your details, please let us know immediately. 
 
-**Ryman Ltd**   
+**Ryman Stationery Ltd**   
 Ryman House   
 Savoy Rd   
 Crewe   
 Cheshire   
 CW1 6NA 
 
-Email: [email queries@ryman.co.uk](mailto:email%20queries@ryman.co.uk)
+Email: [queries@ryman.co.uk](mailto:queries@ryman.co.uk)
 
 Tel: 0800 801 901 
 
 **Unsubscribing from marketing emails**   
-To unsubscribe from our mailings, please click the link found at the bottom of each email or update your account preferences. If you have any questions or need our help, please contact our customer service team (Contact details mentioned above). 
+To unsubscribe from our mailings, please click the link found at the bottom of each email or update your account preferences. If you have any questions or need our help, please contact our customer service team 0800 801 901. Once you contact us to unsubscribe this may take up to 5 working days. 
