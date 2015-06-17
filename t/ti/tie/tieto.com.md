@@ -1,91 +1,105 @@
-> *The following text is extracted and transformed from the tieto.com privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217025329id_/http%3A//www.tieto.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tieto.com privacy policy that was archived on 2015-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150617174922id_/http%3A//www.tieto.com/privacy-statement) for the most accurate reproduction.*
 
 # Tieto website privacy statement
 
-Tieto is committed to protecting your privacy and personal data. This privacy statement ("Privacy Statement") explains how Tieto Corporation and its authorized partners and affiliates ("Tieto") process personal data in connection with Tieto.com and other Tieto Corporation web sites ("Website").
+The term “personal data”, as used in this Privacy Statement, refers to any information about you which can be used to personally identify you, such as your name, address, telephone number, e-mail address, or any other personal information you might supply.
 
-As used in this Privacy Statement, the term "personal data” means any information about you which is personally identifiable like your name, address, telephone number, e-mail address or any other personal information that may be supplied by you.
-
-Please read this Privacy Statement carefully prior to accessing the Website. If you do not agree with this Privacy Statement, we expect you to leave this Website.
+Please read this Privacy Statement carefully prior to accessing the Website. If you do not agree with the terms of our Privacy Statement, please do not provide us with personal data and leave the Website.
 
 ## Personal data
 
-Tieto processes your personal data in accordance with [EC Data Protection Directive 95/46/EC](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31995L0046:EN:HTML) and national personal data legislation implementing the directive.
+Tieto processes your personal data in accordance with the [EC Data Protection Directive 95/46/EC](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31995L0046:EN:HTML) and the national personal data legislation implementing the directive.
 
-Tieto may collect personal information that you voluntarily submit while using the Website. By using this Website or by submitting your personal data you agree to Tieto’s processing of personal data as further described herein.
+### What personal information does Tieto collect?
 
-Tieto always provides you with notification when it is collecting personal data through the Website.
+Our primary goal in collecting information is to provide you with a friendly, customised and efficient experience. We collect the following types of information:
 
-Personal data which is collected through the site consists of general contact and personal information, such as name, address, email, phone, organization of the subscriber, information about the persons' contact requests, information required for recruitment and HR-purposes as well as other information required to manage the Website and to provide the services therein.
+#### Information you volunteer to us
+
+Tieto collects identifying information when you use the Website (including, but not limited to, any Tieto landing page). For example, we may require customers who use the Website to provide us with personal data such as their name, company name, address, phone number, and e-mail address.
+
+We may also ask for additional types of personal data, such as your title, department name, or other additional information in order to provide you with a more personalised experience. Information that you provide to us will be kept as a record of your interaction with our Website.
+
+#### Automatic information
+
+When you visit our Website, Tieto collects your internet protocol (“IP”) addresses in order to track and aggregate non-personal information as you use the Website.
+
+In addition, Tieto automatically receives and stores certain traffic data on our server logs, including your IP address, Tieto cookie information, your communication with Tieto and your interactions on the Website. Tieto uses this data only to diagnose technical problems, analyse trends and administer the Website.
 
 ## Purpose of processing
 
 Personal data collected through the Website is processed for the purpose of
 
   * customer, investor and media relationship management and communication,
-
-  * handling contact requests and course subscriptions,
-
-  * providing marketing information
-
-  * recruitment and HR-purposes, and
-
+  * offering services on our Website,
+  * providing marketing information via targeted e-mails or interpersonal communication
+  * recruitment and human resource purposes
   * handling other matters related to the management and development of the Website and the services provided therein.
 
 
 
+We will not hold it for any longer than legally permissible and necessary for these purposes.
 
-We will not hold it for any longer than is legally permissible necessary for these purposes.
+## Transfer of personal data
 
-## Transfers of personal data
+Personal data may be transferred within the Tieto group of companies. Authorised third-party service providers may be used to process personal data on behalf of Tieto companies with respect to Tieto´s business needs. 
 
-Personal data may be transferred within the Tieto group of companies. Authorized third party service providers may be used to process personal data on behalf of Tieto group companies regarding Tieto´s business needs.
+Personal data may be transferred to countries outside the EU or the EEA. Such transfers are conducted in accordance with the EC Data Protection Directive and the national personal data legislation implementing the directive. The model clauses approved by the European Commission form the basis for the transfer.
 
-Personal data may be transferred to countries outside the EU or the EEA. Such transfers are conducted in accordance with the [EC Data Protection Directive](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31995L0046:EN:HTML) and national personal data legislation implementing the directive. Basis for the transfer are the EC Commission approved model clauses.
+By submitting your personal data, you agree to this transfer, storing and processing. Tieto will take all reasonable steps necessary to ensure that your data is treated securely and in accordance with this Privacy Statement.
 
-By submitting your personal data, you agree to this transfer, storing or processing. Tieto will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy.  Tieto reserves the right to transfer personal data when required by mandatory law or authorities. Tieto may provide aggregate statistics about its customers, sales, traffic patterns, and other related Website information to reputable third parties, but these statistics will include no personal data.
+Tieto reserves the right to transfer personal data when required by mandatory laws or authorities. Tieto may provide aggregate statistics about its customers, sales, traffic patterns, and other related Website information to third parties, but these statistics do not include personally identifiable data.
 
-## Your rights
+### Your rights
 
-You have the right to know what personal data we hold about you. You may contact Tieto in order to review the accuracy of the personal data related to you. Upon your request Tieto will rectify or erase any incomplete, inaccurate or outdated personal data.
+You have the right to know what personal data we hold about you. You may contact Tieto in order to review the accuracy of the personal data related to you. Upon your request, Tieto will rectify or delete any incomplete, inaccurate or outdated personal data.
 
-You may withdraw you consent for processing of your personal data. As processing of your personal data is necessary for us to be able to provide you with our services, revoking your consent may lead to a situation where we cannot provide you with some or all of the services.
+You may withdraw your consent for processing of your personal data. As the processing of your personal data is necessary in order for us to be able to provide you with our services, revoking your consent may lead to a situation in which we cannot provide you with some or all of the services.
 
-## IP addresses, cookies and other tools
+## Cookies and other tools
 
-Tieto may collect information about your computer, including where available your IP address, operating system and browser type and for system administration This is statistical data about Tieto’s users' browsing actions and patterns, and does not identify any individual.
+### Cookies
 
-For the same reason, Tieto may obtain information about your Tieto Website usage by using a cookie file which is stored on the hard drive of your computer. Cookies contain information that is transferred to your computer's hard drive. They help us to improve our site and to deliver a better and more personalized service. They enable us:
+When you visit our Website, we may employ cookies that contain information (such as a unique cookie ID) used to track your usage of our Website. This enables our systems to recognise your browser and tell us how, when and which pages in our Website are visited and by how many people, and also enables us to recognise a return visitor as a unique user. Cookies placed by the Website cannot access, read or modify any other data on a computer.
 
-  * To estimate our audience size and usage pattern.
+Our Website may contain links to other websites and services which serve third-party cookies outside our control and are not covered by this Privacy Statement. You should review any privacy policies, services and applications found on such websites to understand how your information may be collected and used.
 
-  * To store information about your preferences, and so allow us to customize our site according to your individual interests.
+#### Marketing automation
 
-  * To speed up your searches.
+The Website employs marketing automation programs from vendors operating on Tieto’s behalf, which use third-party cookies to track Website use.
 
-  * To recognise you when you return to our site.
+When a user visits our Website, the cookie stores traffic data linked to the unique ID of the cookie in the browser. If the user identifies himself by volunteering personal data, e.g. by filling in a contact form or clicking on links in an e-mail sent by Tieto, the cookie’s unique user ID is linked to the personal data volunteered by the user.
 
+This enables Tieto to supply a more personalised experience on its Website and in communications with customers and users of the Website. Tieto does not sell, rent or give away personal data that identifies individuals to any external party, except to parties who process data on Tieto’s behalf. By using this Website, you consent to the processing of data about you in the manner and for the purposes set out above.
 
+#### Electronic marketing
 
+We may use your e-mail address to send you electronic marketing information. You can opt out of being contacted via e-mail using the [unsubscribe](http://pages.tieto.com/UnsubscribePage.html) function in e-mails sent by Tieto.
 
-You may refuse to accept cookies by activating the setting on your browser which allows you to refuse the setting of cookies. However, if you select this setting you may be unable to access certain parts of the Website. Unless you have adjusted your browser setting so that it will refuse cookies, Tieto’s system will issue cookies when you log on to our site.
+Tieto uses third-party service providers to display advertisements on behalf of Tieto across the Internet. These service providers may use cookies to collect information about your visits to our Website in order to display ads while you are visiting other websites; this information cannot be used to identify you individually. Such information is anonymous; however, your IP address may be collected. 
 
-## Google Analytics
+#### Website analytics
 
-This Website uses Google Analytics, a web analytics service provided by Google Inc. ("Google"). The information generated by the cookie about your use of the Website (including your IP address) will be transmitted to and stored by Google on servers in the United States.
+This Website uses services such as Google Analytics, a web analytics service provided by Google Inc. Data collected by cookies about your use of the Website (including your IP address) will be transmitted to and stored by Google and other website analytics service providers, on behalf of Tieto.
 
-Google will use this information for the purpose of evaluating your use of the website, compiling reports on website activity for Website operators and providing other services relating to Website activity and internet usage. Google may also transfer this information to third parties where required to do so by law, or where such third parties process the information on Google's behalf.
+Tieto use website analytics for the purpose of evaluating website usage, compiling reports on website activity for Website operators and providing other services relating to website activities and internet usage.
 
-Google will not associate your IP address with any other data held by Google. You may refuse the use of cookies by selecting the appropriate settings on your browser, however please note that if you do this you may not be able to use the full functionality of this website. By using this website, you consent to the processing of data about you by Google in the manner and for the purposes set out above.
+#### Other third-party services
+
+Our Website may contain links to other websites and “share” buttons (such as Twitter or Facebook) that are not operating on Tieto’s behalf. Such websites, service or application providers may place their own third-party cookies on users’ computers, collect data, or solicit personal information. 
+
+Issuers of such third-party cookies have their own strict privacy policies. You should refer to any privacy policies from such websites, service or application providers to better understand how your information may be collected and used.
+
+### How do I disable cookies?
+
+You may block cookies by activating the setting on your browser that allows you to refuse accepting cookies. However, if you select this setting, you may be unable to access certain parts of the Website. Unless you have adjusted your browser setting so that it will refuse cookies, Tieto will issue cookies when you access our Website.
 
 ## File descriptions and contacting Tieto
 
-If you have any questions regarding this Privacy Statement or if you are concerned about how your personal data is processed by Tieto, please send an e-mail to [webmaster@tieto.com](mailto:webmaster@tieto.com?subject=Privacy%20statement%20-%20Weblink) or contact [Tommy Änst](mailto:tommy.anst@tieto.com?subject=Privacy%20statement%20-%20Weblink).
+If you have any questions regarding this Privacy Statement or if you are concerned about how your personal data is processed by Tieto, please send an e-mail to [webmaster@tieto.com](mailto:webmaster@tieto.com) or contact Calle Lindahl.
 
-File description related to the processing of personal data under this Website for marketing and communication purposes is available in the right field of this page.
-
-File description related to processing of personal data under this Website for recruitment and HR purposes is available in the right field of this page.
+File descriptions related to processing of personal data under this Website for [marketing](http://www.tieto.com/sites/default/files/files/description-of-the-file-marketing.pdf), [recruitment and human resources](http://www.tieto.com/sites/default/files/atoms/files/file_description_careers_recruitment.pdf) purposes are available on this page.
 
 ## Changes to the Privacy Statement
 
-Tieto reserves the right to amend this Privacy Statement at any time and the linked File Description. You must review this Privacy Statement from time to time for any amendments.
+Tieto reserves the right to amend this Privacy Statement and the linked file descriptions at any time. You must review this Privacy Statement from time to time for any amendments.
