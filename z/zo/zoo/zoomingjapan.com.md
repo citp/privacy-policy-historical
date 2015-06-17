@@ -1,56 +1,162 @@
-> *The following text is extracted and transformed from the zoomingjapan.com privacy policy that was archived on 2014-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141209115721id_/http%3A//zoomingjapan.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zoomingjapan.com privacy policy that was archived on 2015-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150617220724id_/http%3A//zoomingjapan.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy of Zooming Japan
 
-83 
+Here on “[Zooming Japan](http://zoomingjapan.com/)” (in the following also refered to as “my / this blog / website”), the **privacy of my visitors** is of extreme importance to me. **Your personal data** (e.g. title, name, e-mail address, but also your personal preferences, hobbies etc.) are processed by Zooming Japan only in accordance with current **data privacy laws** of most countries.
 
-**Zooming Japan respects your privacy.**
+The following provisions describe the type, scope and purpose of collecting, processing and utilizing personal data. This data privacy policy applies only to my web pages. If links on my pages route you to other pages, please inquire **there** about how your data are handled in such cases.
 
-Any personal information you provide to Zooming Japan including and similar to your name, address, telephone number and e-mail address will not be released, sold, or rented to any entities or individuals outside of Zooming Japan.
+Please be aware that **data transfer via the internet is subject to security risks** and, therefore, complete protection against third-party access to transferred data cannot be ensured.
 
 If you require any more information or have any questions about my privacy policy, please feel free to [contact me](http://zoomingjapan.com/contact/ "Contact Zooming Japan").
 
-At my blog, the privacy of my visitors is of extreme importance to me. This privacy policy document outlines the types of personal information is received and collected by Zooming Japan and how it is used.
+## Server data / L **og Files**
 
-Zooming Japan will **never** ask for Credit Card details and request that you do not enter it on any of the forms on this blog.
+For technical reasons, data such as the following, which your internet browser transmits to me or to my web space provider (so-called server log files), is collected:
 
-**Log Files**
-
-Like many other websites,  Zooming Japan makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
-
-**Cookies and Web Beacons**
-
-A “cookie” is a small data text file that is placed in your browser and allows Zooming Japan to recognize you each time you visit this site.  Zooming Japan does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize webpage content based on visitors browser type or other information that the visitor sends via their browser. Cookies may also be used by 3rd party content providers such as newsfeeds (see below for details).
-
-**DoubleClick DART Cookie**
-
-**Google** , as a third party vendor, uses cookies to serve ads on Zooming Japan.  
-Google’s use of the DART cookie enables it to serve ads to users based on their visit to this blog and other sites on the Internet.  
-Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html "Google Privacy Policy").
-
-Some of Zooming Japan’s advertising partners may use cookies and web beacons on this blog. Current advertising partners include:
-
-  * **[Google Adsense](http://www.google.com/adsense/ "Google Adsense")**
-  * **[Amazon](https://affiliate-program.amazon.com/ "Amazon.com Affiliate Program")**
-  * **Direct or Third Party Advertising**
+  * type and version of the browser you use
+  * operating system
+  * websites that linked you to my site (referrer URL)
+  * websites that you visit
+  * date and time of your visit
+  * your Internet Protocol (IP) address.
 
 
 
-These third-party ad servers or ad networks use technology to the advertisements and links that appear on **zoomingjapan.com** send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
+This anonymous data is stored separately from any personal information you may have provided, thereby making it impossible to connect it to any particular person. The data is used for statistical purposes in order to improve Zooming Japan.
 
-Zooming Japan has **no access** to **or control** over these cookies that are used by third-party advertisers.
+## Cookies
 
-You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. **Zooming Japan’s privacy policy** does not apply to, and we cannot control the activities of, such other advertisers or web sites.
+Zooming Japan makes use of so-called cookies in order to recognize repeat use of my website by the same user/internet connection subscriber. Cookies are small text files that your internet browser downloads and stores on your computer. _(No, unfortunately it’s not something to eat!) _  
+They are used to improve my blog and services. In most cases these are so-called “session cookies” that are deleted once you leave my website.
 
-If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
+To an extent, however, these cookies also pass along information used to automatically recognize you. Recognition occurs through an IP address saved to the cookies. The information thereby obtained is used to improve my services and to expedite your access to the website.
 
-**External Sites**
+You can **prevent cookies from being installed** by adjusting the settings on your browser software accordingly. You should be aware, however, that by doing so you may not be able to make full use of all the functions of my blog.
 
-Zooming Japan is not responsible for the content of external internet sites. You are advised to read the privacy policy of external sites before disclosing any personal information.  
-**Remember The Risks Whenever You Use The Internet!**  
-While I do my best to protect your personal information, I cannot guarantee the security of any information that you transmit to Zooming Japan and you are solely responsible for maintaining the secrecy of any passwords or other account information. In addition other Internet sites or services that may be accessible through Zooming Japan have separate data and privacy practices independent of Zooming Japan, and therefore I **disclaim any responsibility** or liability for their policies or actions.
+You can manage most online cookies from companies using this [US website](http://www.aboutads.info/choices/) or this [EU website](http://www.youronlinechoices.com/uk/your-ad-choices/).
 
-This policy is valid from **February 25th, 2013** and is subject to change at anytime.  
+## Use of Google Analytics with anonymization
 
+This website uses Google Analytics, a **web analytics service provided by Google** , Inc. (“Google”). Google Analytics uses “cookies”, which are text files placed on your computer, to help the website analyze how users use the site. The information generated by the cookie about your use of the website will be transmitted to and stored by Google on servers in the United States .
 
-[About](http://zoomingjapan.com/about/ "About Zooming Japan") – [Terms and Conditions](http://zoomingjapan.com/terms-and-conditions/ "Terms and Conditions of Zooming Japan") – [Credits](http://zoomingjapan.com/credits/ "Credits \(Material that is not copyrighted by Zooming Japan\)") – [Contact](http://zoomingjapan.com/contact/ "Contact Zooming Japan") – [FAQ](http://zoomingjapan.com/faq/ "Frequently Asked Questions")
+In case IP-anonymisation is activated on this website, your IP address will be truncated within the area of Member States of the European Union or other parties to the Agreement on the European Economic Area. Only in exceptional cases the whole IP address will be first transferred to a Google server in the USA and truncated there. **The IP-anonymisation is active on this website.**
+
+Google will use this information on behalf of the operator of this website for the purpose of evaluating your use of the website, compiling reports on website activity for website operators and providing them other services relating to website activity and internet usage.
+
+The IP-address, that your browser conveys within the scope of Google Analytics, will not be associated with any other data held by Google. You may **refuse the use of cookies** by selecting the **appropriate settings on your browser** , however please note that if you do this you may not be able to use the full functionality of this website. You can also opt-out from being tracked by Google Analytics with effect for the future by downloading and installing [Google Analytics Opt-out Browser Addon](http://tools.google.com/dlpage/gaoptout?hl=en) for your current web browser.
+
+As an alternative to the browser Addon or within browsers on mobile devices, you can click this link in order to opt-out from being tracked by Google Analytics within this website in the future (the opt-out applies only for the browser in which you set it and within this domain). An opt-out cookie will be stored on your device, which means that you’ll have to click this link again, if you delete your cookies.
+
+## **Jetpack / WordPress.com-Stats**
+
+This website uses [WordPress.com-Stats](http://jetpack.me/support/wordpress-com-stats/), a web analytics software provided by [Automattic](http://automattic.com/) Inc., 60 29th Street #343, San Francisco, CA 94110-4929, USA, using tracking technology by [Quantcast](http://www.quantcast.com/) Inc., 201 3rd St, Floor 2, San Francisco, CA 94103-3153, USA.
+
+WordPress.com-Stats uses “cookies”, which are text files placed on your computer, to help the website analyze how users use this blog. The information generated by the cookie about your use of the website (including your IP address anonymized prior to its storage) will be stored on the server in the USA. You may refuse the use of cookies by selecting the appropriate settings on your browser, however please note that if you do this you may not be able to use the full functionality of this website. You can [opt-out from being tracked by Quantcast](http://www.quantcast.com/opt-out) with effect for the future by setting an opt-out cookie in your browser. If you delete your browser’s cookies, you’ll have to set this opt-out cookie again.
+
+## Use of Google+ recommendation components
+
+This website employs the “+1“-button from Google+ belonging to Google Inc., 1600 Amphitheatre Parkway, Mountain View, CA 94043 USA, hereinafter referred to as “Google“.
+
+Each time this blog receives an access request equipped with a “+1“ component, the component prompts your browser to download an image of this component from Google. Through this process, Google is informed precisely which page of my website is being visited.  
+As specified by Google, your visit undergoes additional analysis in the event you are not logged into your Google account.
+
+If you access this site **while logged into Google** and press the “+1″ button, Google can collect information about your Google account, websites you recommend as well as your IP address, along with other browser-related information.  
+This allows your “+1“ recommendation to be stored and publicized. Your Google “+1“ recommendation can then appear as a reference in other Google services, such as search results, your Google account or other places, such as on websites and ads in the internet, together with your account name and, if applicable, a picture you provided to Google. Furthermore, Google can link your visit to this website with data stored by Google. Google also records this information for the purpose of further improving Google services.
+
+If you wish to **minimize the collection of information by Google** as previously described, you must **log out of your Google account before visiting Zooming Japan**.
+
+You can access Google‘s data protection policies relating to the “+1“ button together with all relevant information on the collection, transfer and use of data by Google, your rights in this regard as well as your profile settings options [here](https://developers.google.com/+/web/buttons-policy). Also check out their [FAQ section](http://www.google.com/intl/en/+/learnmore/+1/).
+
+## Social plugins and components from Facebook
+
+This blog employs components such as social plugins from facebook.com, operated by Facebook Inc., 1601 S. California Ave, Palo Alto, CA 94304, USA, hereinafter referred to as “Facebook“.
+
+Each time Zooming Japan receives an access request equipped with a Facebook component, the component prompts your browser to download an image of this Facebook component. Through this process, Facebook is informed precisely which page of this blog is being visited.
+
+When you access this website while logged into Facebook, Facebook uses information gathered by this component to identify the precise page you are viewing and associates this information to your personal account on Facebook. Whenever you click on the “Like“ button, for example, or enter a comment, this information is transmitted to your personal account on Facebook and stored there. In addition, Facebook is informed of your visit to Zooming Japan. This occurs regardless of whether you click on a component or not.
+
+If you wish to prevent the transfer to and storage of data by Facebook about you and your interaction with my blog, you must first **log out of Facebook before visiting** this website. The data protection [policies](http://www.facebook.com/policy.php) of Facebook provide [additional information](https://www.facebook.com/about/privacy/), in particular about the collection and use of data by Facebook, your rights in this regard as well as the options available to you for protecting your privacy.
+
+In addition, [tools are freely available](http://webgraph.com/resources/facebookblocker/) on the market that can be used to block Facebook social plugins with addons from being added to all commonly used browsers.
+
+You can find an overview of Facebook plugins [here](https://developers.facebook.com/docs/plugins/).
+
+## Social plugins from Twitter
+
+This blog employs components (eg. tweet, retweet functions) provided by Twitter. Twitter is a service of Twitter Inc., 795 Folsom St., Suite 600, San Francisco, CA 94107, USA.
+
+Each time Zooming Japan receives an access request equipped with a Twitter component, the component prompts your browser to download an image of this component from Twitter. Through this process, Twitter is informed precisely which page of my website is being visited.  
+**I have no control over the data that Twitter collects** in the process, or over the extent of the data that Twitter collects. To the best of my knowledge, Twitter collects the URL of each website accessed as well as the IP address of the user, but does so solely for the purpose of displaying Twitter components. Additional information may be obtained from the [Twitter data privacy policy](http://twitter.com/privacy).
+
+You may change your data privacy settings in your [Twitter account settings](http://twitter.com/account/settings).
+
+## Use of Pinterest
+
+Zooming Japan employs the services of pinterest.com. Pinterest.com is a service of Pinterest, Inc., 808 Brannan St, San Francisco, CA 94103, USA.
+
+Through the “Pin it“ button integrated into my blog, Pinterest is informed that you have accessed that particular page of Zooming Japan. If you are logged into Pinterest, Pinterest can associate your visit to my blog with your Pinterest account and thereby create a link to the data collected. Pinterest stores the data that is transferred through clicks on “Pin it“ buttons. You can find more information with respect to the purpose and extent of data collected, how it is processed and used as well as your rights in this regard and what settings you can use to protect your privacy by consulting the [Pinterest data protection policy](http://pinterest.com/about/privacy/).
+
+To prevent Pinterest from associating your visit to my website to your Pinterest account, you must first **log out of your Pinterest account before visiting my blog**.
+
+## Newsletter
+
+I offer you the opportunity to [subscribe to a newsletter](http://eepurl.com/xOZtj). The newsletter provides you periodically with information about Japan and this blog. To receive the “Zooming Japan Newsletter”, a valid email address is required. I will review the email address you provide for the purpose of determining whether you are in fact the owner of the email address provided or whether the actual owner of said address is authorized to receive the newsletter. When subscribing to our newsletter, your IP address will be stored as well as the date and time you subscribed. This serves to protect me in the event a third party improperly and without your knowledge makes use of your email address to subscribe to the newsletter. **I won’t collect any other data.**
+
+The data thereby collected is used solely for the purpose of receiving the newsletter. No data is transferred to third parties. Nor is any of this information matched to any information that other components of my blog may collect.  
+Cancellation of the newsletter is possible at any time by [clicking here](http://zoomingjapan.us5.list-manage1.com/unsubscribe?u=93dc71f4047346b8422027c05&id=da7b3f3210&e=ce57782f30&c=350663584b). There’s also a link to do so at the very end of each newsletter you receive.
+
+As newsletter provider “Mailchimp” is used, so you might also want to check out their [privacy policy](http://mailchimp.com/legal/privacy/).
+
+## Contacting Me
+
+You have the opportunity to contact me, either by [email](mailto:admin@zoomingjapan.com) and/or by using a [contact form](http://zoomingjapan.com/contact/). In such event, information provided by the user is stored for the purpose of facilitating communications with the user. No data is transferred to third parties. Nor is any of this information matched to any information that may be collected by other components of this website.
+
+## Posting Comments
+
+You can post comments on individual blog articles here on Zooming Japan. For this purpose, the IP address of the user/internet connection subscriber is stored. This information is stored for my security in the event the author through his/her comments infringes against third party rights and/or unlawful content is entered. Consequently, I have a direct interest in the author’s stored data, particularly since I may be potentially liable for such violations. No data is transferred to third parties. Nor is any of this information matched to any information that may be collected by other components of my blog.
+
+## Subscribing to Comments
+
+This blog offers you the opportunity to subscribe to subsequent comments of a blog article which you intend to comment on. When you choose this option, you will receive a confirmation email which is used to determine if you are actually the owner of the email address entered. You may at any time revoke your decision to subscribe to such follow-on comments. You will find additional details in the confirmation email. No data hereby obtained is transferred to third parties. Nor is any of this information matched to any information that may be collected by other components of this website.
+
+## Use of the Amazon Partner program
+
+Zooming Japan participates in the Amazon Partner Program, which was designed to provide a medium for websites, by which reimbursement of advertising costs can be earned through the placement of ads and links to [Amazon.com](http://www.amazon.com/). In order to track an order, Amazon uses cookies that allow them to know that you have clicked on a partner link on Zooming Japan. You can find more information about the use of data by Amazon in the company’s [data protection policy](http://www.amazon.com/gp/help/customer/display.html/ref=footer_privacy?ie=UTF8&nodeId=468496).
+
+## Use of Google AdSense
+
+This blog employs Google AdSense. Google AdSense is a service of Google Inc., 1600 Amphitheatre Parkway, Mountain View, CA 94043 USA, for incorporating advertisements.
+
+Google-AdSense uses so-called “ **cookies** “, text files, that are stored to your computer and which provide analysis of the use of this website. Furthermore, Google AdSense uses so-called “ **web beacons** “. Web beacons allow Google to analyze information, such as visitor traffic to Zooming Japan. This information, along with your IP address and the ad format displayed, is transmitted to Google in the US where it is stored and may be transferred by Google to contracting partners. However, Google does not merge your IP-address with other stored data on you.
+
+You can **prevent cookies from being installed** by adjusting the settings on your browser software accordingly. You should be aware, however, that by doing so you may not be able to make full use of all the functions of this blog.
+
+By using Zooming Japan you declare that **you agree to the processing of data collected about you by Google** in the manner previously described and for the purposes there specified.
+
+## Use of affilinet tracking cookies
+
+There might be times when Zooming Japan employs affilinet tracking cookies in order to correctly record sales and/or leads. Cookies are small text files that are saved to your computer when you visit a website. These affilinet tracking cookies do not store personal data of any kind. Instead, it only collects the identification number of the intermediary partner as well as the reference number of the advertising material that was clicked on by the visitor to the website. This information is required in order to process the payment transaction between the website operator and the advertiser. The partner identification number serves to designate the intermediary partner to which a commission is to be paid once a transaction has been concluded.  
+You can prevent cookies from being installed by adjusting the settings on your browser software accordingly. You should be aware, however, that by doing so you may not be able to make full use of all the functions of this website.
+
+## Implementation of Contents and Services from Third Parties
+
+This blog sometimes embeds contents of third parties such as YouTube videos, Google-Maps, RSS feeds or graphics from other websites. This means that those third parties will recognize your IP address which is necessary for the correct presentation of the contents. I’m trying to provide only those services that use the IP addresses solely to deliver content. However, it’s out of my control if a third party saves the IP address, e.g. for statistics.
+
+## External Sites (Other Websites that link to Zooming Japan)
+
+Zooming Japan is not responsible for the content of external internet sites. You are advised to read the privacy policy of external sites before disclosing any personal information.
+
+**Remember The Risks Whenever You Use The Internet!**
+
+While I do my best to protect your personal information, I cannot guarantee the security of any information that you transmit to Zooming Japan and you are solely responsible for maintaining the secrecy of any passwords or other account information. In addition, other Internet sites or services that may be accessible through Zooming Japan have **separate data and privacy practices independent of Zooming Japan** , and therefore I disclaim any responsibility or liability for their policies or actions.
+
+## Your Consent / Cancellation / Deletion
+
+**By using this site you consent to the collection and use of your personal information as described in this Privacy Policy.** If I change the privacy policy, I’ll post those changes on this site to keep you aware of what information I collect, how I use it and under what circumstances I may disclose it.
+
+On the basis of the Federal Data Protection Act, you may contact me at no cost if you have questions relating to the collection, processing or use of your personal information, if you wish to request the correction, blocking or deletion of the same, or if you wish to cancel explicitly granted consent. Please note that you have the right to have incorrect data corrected or to have personal data deleted, where such claim is not barred by any legal obligation to retain this data.
+
+This privacy policy is valid from **May 7th, 2015** and is subject to change at anytime.
+
+[About](http://zoomingjapan.com/about/ "About Zooming Japan") – [Terms of Use](http://zoomingjapan.com/terms-and-conditions/ "Privacy Policy of Zooming Japan") – [Credits](http://zoomingjapan.com/credits/ "Credits \(Material that is not copyrighted by Zooming Japan\)") – [Contact](http://zoomingjapan.com/contact/ "Contact Zooming Japan") – [FAQ](http://zoomingjapan.com/faq/ "Frequently Asked Questions")
