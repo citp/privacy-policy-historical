@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mycountry955.com privacy policy that was archived on 2014-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141216015735id_/http%3A//mycountry955.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mycountry955.com privacy policy that was archived on 2015-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150617133807id_/http%3A//mycountry955.com/privacy) for the most accurate reproduction.*
 
 # My Country 95.5 – Casper's Hometown Country Station – Casper Country Radio
 
