@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the systranet.com privacy policy that was archived on 2014-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141229183246id_/http%3A//www.systransoft.com/systran/corporate-profile/policies/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the systranet.com privacy policy that was archived on 2015-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150617215639id_/http%3A//www.systransoft.com/systran/corporate-profile/policies/privacy-policy) for the most accurate reproduction.*
 
 # SYSTRAN Privacy Policy | SYSTRAN – Translation Technologies
 
