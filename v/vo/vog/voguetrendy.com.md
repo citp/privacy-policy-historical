@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the voguetrendy.com privacy policy that was archived on 2014-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141206142043id_/http%3A//www.voguetrendy.com/index.php/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the voguetrendy.com privacy policy that was archived on 2015-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150617221809id_/http%3A//www.voguetrendy.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
