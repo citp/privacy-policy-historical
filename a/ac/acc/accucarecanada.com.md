@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the accucarecanada.com privacy policy that was archived on 2014-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141221124308id_/http%3A//www.accucarecanada.com/cms.php%3Fid%3D5) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the accucarecanada.com privacy policy that was archived on 2015-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150617031231id_/http%3A//www.accucarecanada.com/cms.php%3Fid%3D5) for the most accurate reproduction.*
 
 # Privacy Policy
 
