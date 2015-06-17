@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the timpaplr.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122080929id_/http%3A//timpaplr.com/terms/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the timpaplr.com privacy policy that was archived on 2015-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150617070411id_/http%3A//timpaplr.com/terms/privacy-statement) for the most accurate reproduction.*
 
-# Privacy Statement | Timpa PLR
+# Privacy Statement - Timpa PLR
 
 Your privacy is important to me. To better protect your privacy I provide this notice explaining my online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, I make it available on my homepage and at every point where personally identifiable information may be requested.
 
