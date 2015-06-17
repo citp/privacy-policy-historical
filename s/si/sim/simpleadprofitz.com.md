@@ -1,6 +1,9 @@
-> *The following text is extracted and transformed from the simpleadprofitz.com privacy policy that was archived on 2014-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141211101608id_/http%3A//simpleadprofitz.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simpleadprofitz.com privacy policy that was archived on 2015-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150618014308id_/http%3A//www.simpleadprofitz.com/privacy.php) for the most accurate reproduction.*
 
 # Simple Ad Profitz! Free Traffic Exchange | Free Advertising Free Web Traffic
+
+[](http://simpleadprofitz.com/bannerclick.php?id=39980&clickcode=906fec3cca7ccc130fa2b1844aa10126)  
+
 
 Simple Ad Profitz Privacy Policy
 
