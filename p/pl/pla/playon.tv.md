@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the playon.tv privacy policy that was archived on 2014-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141020004722id_/http%3A//www.playon.tv/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the playon.tv privacy policy that was archived on 2015-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150618014808id_/http%3A//www.playon.tv/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | PlayOn
 
@@ -34,7 +34,9 @@ Any passwords to third-party sites that you provide will be stored encrypted on 
 
 #### Tracking:
 
-Our software sends installation tracking to our servers, which is used to calculate the raw total numbers of licensed and trial installations of our products. License keys for licensed installations are also validated by our server.
+Our software sends installation tracking to our servers, which is used to calculate the raw total numbers of licensed and trial installations of our products. License keys for licensed installations are also validated by our server
+
+Our software additionally tracks video browsing and playback metadata for statistical purposes. We do not divulge this information from individual customers to third parties, and typically only use it for analysis of aggregate data. We will, from time to time, use it to inform customers of content or special offers that may be of interest to them. We may also use it to detect errors with playback of certain titles or channels.
 
 #### Support Requests:
 
@@ -48,6 +50,10 @@ Support requests send a copy of diagnostic logs that enable us to assess the pro
 
 
 Without this information, we cannot support your PlayOn or PlayLater installation.
+
+#### Other
+
+Some pages on the PlayOn website collect demographic data about visitors. PlayOn is unable to link this data to individuals and is only able to see aggregate data through Google reporting. This data can be used by Google to serve targeted internet advertisements to customers. If you wish to opt out of this tracking you may do so here: <https://tools.google.com/dlpage/gaoptout/>
 
 ### Use of Information
 
