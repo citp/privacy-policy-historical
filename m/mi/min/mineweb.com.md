@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mineweb.com privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227091723id_/http%3A//www.mineweb.com/mineweb-2/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mineweb.com privacy policy that was archived on 2015-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150617162239id_/http%3A//www.mineweb.com/mineweb-2/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - Mineweb
 
