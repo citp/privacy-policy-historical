@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bingocabin.com privacy policy that was archived on 2014-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141208124808id_/http%3A//www.bingocabin.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bingocabin.com privacy policy that was archived on 2015-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150617232855id_/http%3A//www.bingocabin.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy - Bingo Cabin
 
