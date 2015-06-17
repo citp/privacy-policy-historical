@@ -1,67 +1,86 @@
-> *The following text is extracted and transformed from the pushbuttonmoney.com privacy policy that was archived on 2014-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140215073032id_/http%3A//pushbuttonmoney.com/privacy.txt) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pushbuttonmoney.com privacy policy that was archived on 2015-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150617095622id_/http%3A//secretsoftwarerobots.com/admin/privacy-policy.html) for the most accurate reproduction.*
 
 # 
 
+PRIVACY POLICY
 
-    Waymaker Labs LTD. and our affiliated companies worldwide are committed to respecting your online privacy and recognize your need for appropriate protection and management of any personally identifiable information (“Personal Information”) you share with us.
-    
-    Waymaker Labs LTD. (hereinafter “Company”) has established this Online Privacy Policy so that you can understand the care with which we intend to treat your Personal Information.
-    
-    Personal Information means any information that may be used to identify an individual, including, but not limited to, a first and last name, a home or other physical address and an email address or other contact information, whether at work or at home. In general, you can visit COMPANY Web pages without telling us who you are or revealing any Personal Information about yourself.
-    
-    COMPANY strives to comply with all applicable laws around the globe that are designed to protect your privacy. Although legal requirements may vary from country to country, COMPANY intends to adhere to the principles set forth in this Online Privacy Policy even if, in connection with the above, we transfer your Personal Information from your country to countries that may not require an “adequate” level of protection for your Personal Information. In other words, our goal is to provide protection for your Personal Information no matter where that Personal Information is collected, transferred, or retained.
-    
-    Cookies and Other Tracking Technologies
-    
-    Some of our Web pages utilize “cookies” and other tracking technologies. A “cookie” is a small text file that may be used, for example, to collect information about Web site activity. Some cookies and other technologies may serve to recall Personal Information previously indicated by a Web user. Most browsers allow you to control cookies, including whether or not to accept them and how to remove them.
-    
-    You may set most browsers to notify you if you receive a cookie, or you may choose to block cookies with your browser, but please note that if you choose to erase or block your cookies, you will need to re-enter your original user ID and password to gain access to certain parts of the Web site as well as break the tracking to affiliate commissions.
-    
-    Tracking technologies may record information such as Internet domain and host names; Internet protocol (IP) addresses; browser software and operating system types; click-stream patterns; and dates and times that our site is accessed. Our use of cookies and other tracking technologies allows us to improve our Web site and your Web experience. We may also analyze information that does not contain Personal Information for trends and statistics.
-    
-    To protect your privacy, we have adopted the following principles:
-        * Notice
-        * Choice
-        * Securit
-        * Access/Accuracy
-        * Third party vendors, including Google, show your ads on sites on the internet.
-        * Third party vendors, including Google, use cookies to serve ads based on a user's prior visits to your website.
-        * Users may opt out of Google's use of cookies by visiting the Google advertising opt-out page at http://www.google.com/privacy_ads.html  (Alternatively you can point users to opt out of a third party vendor's use of cookies by visiting the Network Advertising Initiative opt out page. at http://www.networkadvertising.org/managing/opt_out.asp )
-    
-    Notice
-    
-    Where COMPANY collects Personal Information on the web, we intend to post a purpose statement that explains why Personal Information will be collected and whether we plan to share such Personal Information outside of COMPANY or those working on COMPANY behalf. COMPANY reserves the right to transfer Personal Information to 3rd party enties for the purpose of bringing you relavent offers.   
-    
-    Choice
-    
-    You may choose whether or not to provide Personal Information to COMPANY. The notice we intend to provide where COMPANY collects Personal Information on the Web should help you to make this choice. If you choose not to provide the Personal Information we request, you can still visit most of COMPANY Web sites, but you may be unable to access certain options, offers, and services that involve our interaction with you.
-    
-    If you chose to have a relationship with COMPANY, such as a contractual or other business relationship or partnership, we will naturally continue to contact you in connection with that business relationship.
-    
-    Security
-    
-    Wherever your Personal Information may be held within COMPANY or on its behalf, we intend to take reasonable and appropriate steps to protect the Personal Information that you share with us from unauthorized access or disclosure.
-    
-    Access/Accuracy
-    
-    To the extent that you do provide us with Personal Information, COMPANY wishes to maintain accurate Personal Information. Where we collect Personal Information from you on the Web, our goal is to provide a means of contacting COMPANY should you need to update or correct that Information. If for any reason those means are unavailable or inaccessible, you may send updates and corrections about your Personal Information to support@videomarketingqueen.com and we will make reasonable efforts to incorporate the changes in your Personal Information that we hold as soon as practicable.
-    
-    Third Party Services
-    
-    Third parties provide certain services available on pushbuttonmoney.com on COMPANY behalf. COMPANY may provide information, including Personal Information, which COMPANY collects on the Web to third-party service providers to help us deliver programs, products, information, and services. Service providers are also an important means by which COMPANY maintains its Web site and mailing lists. COMPANY will take reasonable steps to ensure that these third-party service providers are obligated to protect Personal Information on behalf of COMPANY.
-    
-    Children’s Privacy
-    
-    pushbuttonmoney.com is not structured to attract children. Accordingly, we do not intend to collect Personal Information from anyone we know to be under 18 years of age although we currently do not take steps to verify the user to that extent.
-    
-    Commitment
-    
-    We are committed to privacy are actively involved in and support current industry initiatives to preserve individual privacy rights on the Internet. Protecting your privacy online is an evolving area, and COMPANY Web sites are constantly evolving to meet these demands.
-    
-    If you have any comments or questions regarding our Online Privacy Policy, please contact us at support@pushbuttonmoney.com.
-    
-    While we cannot guarantee privacy perfection, we will address any issue to the best of our abilities as soon as possible.
-    
-    Your Consent
-    
-    By using this Web site, you consent to the terms of our Online Privacy Policy, Terms and Conditions of Use, and to COMPANY processing of Personal Information for the purposes given above as well as those explained where COMPANY collects Personal Information on the Web. Should the Online Privacy Policy change, we intend to take every reasonable step to ensure that these changes are brought to your attention by posting all changes prominently on our web site for a reasonable period of time.
+Your privacy is very important to us. We want to make your experience on the Internet as enjoyable and rewarding as possible, and we want you to use the Internet's vast array of information, tools, and opportunities with complete confidence.
+
+We have created this Privacy Policy to demonstrate our firm commitment to privacy and security. This Privacy Policy describes how our company collects information from all end users of our Internet services (the "Services")-those who access some of our Services but do not have accounts ("Visitors") as well as those who may purchase Products -what we do with the information we collect, and the choices Visitors have concerning the collection and use of such information. We request that you read this Privacy Policy carefully.
+
+**Personal Information Our Company Collects and How It Is Used**
+
+Introduction. Our company collects information in different ways from Visitors who access the various parts of our Services and the network of Web sites accessible through our Service.
+
+Registration: Members may be asked to provide certain personal information when they sign up for our Products or Services including name, address, telephone number, billing information (such as a credit card number), and the type of personal computer being used to access the Services. The personal information collected from Members during the registration process is used to manage each Member's account (such as for billing purposes). This information may be shared with third parties, as stated herein, or in special circumstances.
+
+However, in instances where our company and a partner jointly promote our Services, we may provide the partner certain personal information, such as the name, address, and username of persons who subscribed to the Services as a result of the joint promotion for the purpose of offering you other products and services.
+
+In this instance, personal information may not be used by the partner for any other purpose. We may also generate non-identifying and aggregate profiles from personal information Members provide during registration (such as the total number, but not the names, of Members). As explained in more detail below, we may use this aggregated and non-identifying information to sell advertisements that appear on the Services.
+
+Also, with purchases, we supply our member's contact information, to our business partners, who then may contact the member by telephone after the member purchase. Sales proceeds are collected by the that business partner company. We also may supply other companies with contact information, for mail offers we believe would be of interest to our members, with or without compensation from those companies. At times we may send an advertisement for a third party product, where we collect the sales proceeds, and forward the purchaser's information to that third party.
+
+Our Company Partners and Sponsors: Some products and services may be offered to Visitors and Members in conjunction with an affiliate, independent contractor seller or non-affiliated partner. To provide Visitors and Members some of these products and services, the partner may need to collect and maintain personal information.
+
+Online Shopping: At some Web sites, you can purchase products and services or register to receive materials, such as a newsletter, catalog or new product and service updates. In many cases, you may be asked to provide contact information, such as your name, address, email address, phone number, and credit/debit card information.
+
+If you complete an order for someone else, such as an online gift order sent directly to a recipient, you may be asked to provide information about the recipient, such as the recipient's name, address, and phone number. Our company has no control over the third parties' use of any personal information you provide when placing such an order. Please exercise care when doing so.
+
+If you order services or products directly from our company, we use the personal information you provide to process that order. We do share this information with outside parties that we do business with.
+
+Online Advertisements: Our company may display our online advertisements. In those cases we share information about our Visitors and Members collected through the registration process as well as through online surveys and promotions with these advertisers.
+
+Additionally, in some instances, we use this information to deliver tailored advertisements or joint ventures. For instance, an advertiser or joint venture company tells us the audience they want to reach and provides us an advertisement tailored to the audience. Based upon the information we have collected, we may then display or send the advertisement to the intended audience. Our company does share personal information about its Visitors or Members with these advertisers or joint venture companies.
+
+Responses to Email Inquiries: When Visitors or Members send email inquiries to our company, the return email address is used to answer the email inquiry we receive.
+
+Voluntary Customer Surveys: We may periodically conduct both business and individual customer surveys. We encourage our customers to participate in these surveys because they provide us with important information that helps us to improve the types of products and services we offer and how we provide them to you.
+
+We may take the information we receive from individuals responding to our Customer Surveys and combine (or aggregate) it with the responses of other customers we may have, to create broader, generic responses to the survey questions (such as gender, age, residence, hobbies, education, employment, industry sector, or other demographic information). We then use the aggregated information to improve the quality of our services to you, and to develop new services and products. This aggregated, non-personally identifying information may be shared with third parties.
+
+Promotions: Our company may offer polls, contests, sweepstakes, drawings, games, content, or other promotions that are sponsored by or cobranded with third parties. You may be entered in a sweepstakes, contest, or other promotion, simply by making a purchase from us or by providing us with personally identifiable information for some other reason or purpose. Due to these third party relationships, the third parties may obtain personally identifiable information that visitors voluntarily submit to our company. Our company has no control over third parties' use of this information.
+
+Additionally, personally identifiable information may be collected when you order products, enter contests, vote in polls or otherwise express an opinion, subscribe to one of our services such as our online newsletters, or participate in one of our online forums or communities. The types of personally identifiable information that may be collected at these pages include but may not be limited to: name, address, e-mail address, telephone number, fax number, credit card information, and information about your interests in and use of various products, programs, and services. Our sponsors or third parties may send you material that relates to our company's services, products or activities.
+
+Special Cases: It is our company's policy to use or share the personal information about Visitors or Members in ways described herein without additional notice or means to opt out or otherwise prohibit such unrelated uses.
+
+Also, we may disclose personal information about Visitors or Members, or information regarding your use of the Services or Web sites accessible through our Services, for any reason if, in our sole discretion, we believe that it is reasonable to do so, including: credit agencies, collection agencies, merchant database agencies, law enforcement, or to satisfy laws, such as the Electronic Communications Privacy Act, the Child Online Privacy Act, regulations, or governmental or legal requests for such information; to disclose information that is necessary to identify, contact, or bring legal action against someone who may be violating our Acceptable Use Policy or Terms Of Service, or other user policies; to operate the Services properly; or to protect our company and our Members.
+
+Notice of Compliance to California Residents - Your California Privacy Rights Under The California Online Privacy Protection Act and the California Business and Professions Code
+
+This privacy policy identifies the categories of personally identifiable information that our company collects through our Web site or online service, about individual consumers who use or visit our company's commercial Web site or online service and the categories of third-party persons or entities with whom our company may share that personally identifiable information.
+
+Our company does not maintain a process for an individual consumer who uses or visits our commercial Web site or online service to review and request changes to any of his or her personally identifiable information that is collected through our Web site or online service.
+
+See the section below entitled "Revisions To This Policy" for a description of the process by which our company notifies consumers who use or visit our commercial Web site or online service of material changes to our company's privacy policy for this Web site or online service.
+
+The effective date of this privacy policy is listed at the end of this privacy policy under the heading, "Last updated."
+
+For the purposes of this policy and California compliance the following definitions apply:  
+Depending on the visitor's activity, in our commercial Web site or online service, the following "personally identifiable information" may be collected, in addition to information set forth in other sections of this document.  
+The term "personally identifiable information" means individually identifiable information about an individual consumer collected online by our company from an individual and maintained  
+by our company in an accessible form, and may include any of the following:  
+(1) A first and last name.  
+(2) A home or other physical address, including street name and name of a city or town.  
+(3) An e-mail address.  
+(4) A telephone number.  
+(5) A social security number.  
+(6) Any other identifier that permits the physical or online contacting of a specific individual.  
+(7) Information concerning a user that the Web site or online service collects online, from the user, and maintains in personally identifiable form, in combination with an identifier described within this privacy policy.  
+Under California Law SB 27, California residents have the right to receive, once a year, information about third parties with whom we have shared information about you or your family for their marketing purposes during the previous calendar year, and a description of the categories of personal information shared. To make such a request, please send an email to Privacy@PrivacyRequest.com and please include the phrase "California Privacy Request" in the subject line, the domain name of the Web site you are inquiring about, along with your name, address and email address. We will respond to you within thirty days of receiving such a request.
+
+"Cookies" and How Our Company Uses Them. A "cookie" is a small data file that can be placed on your hard drive when you visit certain Web sites. Our company may use cookies to collect, store, and sometimes track information for purposes stated herein as well as for statistical purposes to improve the products and services we provide and to manage our telecommunications networks.
+
+Advertisers and partners may also use their own cookies. We do not control use of these cookies and expressly disclaim responsibility for information collected through them.
+
+Our Company Commitment to Children's Privacy. Protecting children's privacy is especially important to us. It is our policy to comply with the Children's Online Privacy Protection Act of 1998 and all other applicable laws. Therefore we restrict our Web site to persons eighteen years or older.
+
+YOU MUST BE EIGHTEEN (18) YEARS OR OLDER TO ACCESS THIS WEB SITE. IF YOU ARE UNDER EIGHTEEN YEARS OF AGE, YOU ARE NOT PERMITTED TO ACCESS THIS WEB SITE FOR ANY REASON. DUE TO THE AGE RESTRICTIONS FOR USE OF THIS WEB SITE, NO INFORMATION OBTAINED BY THIS WEB SITE, FALLS WITHIN THE CHILDREN'S ONLINE PRIVACY PROTECTION ACT (COPPA) AND IS NOT MONITORED AS DOING SO.
+
+Public Forums: Please remember that any information you may disclose in any Member Directory, or other public areas of our Web sites or the Internet, becomes public information. You should exercise caution when deciding to disclose personal information in these public areas.
+
+Our Company's Commitment to Data Security: Services and Web sites we sponsor have security measures in place to protect the loss, misuse, and alteration of the information under our control. While we make every effort to ensure the integrity and security of our network and systems, we cannot guarantee that our security measures will prevent third-party "hackers" from illegally obtaining this information.
+
+Where to Direct Questions About Our Privacy Policy: If you have any questions about this Privacy Policy or the practices described herein, you may contact us through the contact information provided on this Web site.
+
+Revisions to This Policy: Our company reserves the right to revise, amend, or modify this policy, our Terms Of Service agreement, and our other policies and agreements at any time and in any manner, by updating this posting. Your use of this site after such changes are implemented constitutes your acknowledgement and acceptance of these changes. Please consult this privacy statement prior to every use for any changes.
