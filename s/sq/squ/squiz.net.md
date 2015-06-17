@@ -1,45 +1,35 @@
-> *The following text is extracted and transformed from the squiz.net privacy policy that was archived on 2014-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141105075611id_/http%3A//www.squiz.net/us/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the squiz.net privacy policy that was archived on 2015-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150617031436id_/http%3A//www.squiz.net/us/privacy) for the most accurate reproduction.*
 
 # Squiz's Privacy Policy
 
 Squiz takes its responsibilities regarding privacy seriously and complies with all laws and regulations to the extent they apply in the jurisdictions in which Squiz conducts business. A summary of the key elements of Squiz's privacy policy is shown below.
 
-## Squiz Privacy Policy
-
 Squiz is strongly committed to protecting your privacy when you use our services or interact with us.
 
-This Privacy Policy explains:
-
-  * when this Privacy Policy applies;
-  * what information we collect and why we collect it;
-  * our use of cookies to collect information and how you can control or delete these cookies;
-  * how we may disclose that information;
-  * how you can access and update the information we hold about you;
-  * how we protect your information.
-
-
-  1.  **Application of this Privacy Policy**
+*  **Application of this Privacy Policy**
 
 This Privacy Policy applies to personal information collected by Squiz.
 
-  2.  **What personal information we collect and why we collect it**
+*  **What personal information we collect and why we collect it**
 
 We collect personal information like your name, email address, telephone number and your organisation's name and location.
 
 We collect information about you because:
 
-    * you have provided it to us – for example, if you contact us to ask us questions or make comments or participate in a community forum;
-    * we need it to provide a product or service that you have requested – for example, if you receive support services from us;
-    * we would like to improve our services – for example, through the collection and analysis of statistical and research data and use of cookies;
-    * you register to attend a Squiz event;
-    * you apply for a job with us;
-    * you work for us; or
-    * for purposes directly related to the above.
-  3.  **How we collect information**
+  * you have provided it to us – for example, if you contact us to ask us questions or make comments or participate in a community forum;
+  * we need it to provide a product or service that you have requested – for example, if you receive support services from us;
+  * we would like to improve our services – for example, through the collection and analysis of statistical and research data and use of cookies;
+  * you register to attend a Squiz event;
+  * you apply for a job with us;
+  * you work for us; or
+  * for purposes directly related to the above.
+
+
+*  **How we collect information**
 
 Broadly, there are two types of information or data we collect:
 
-    1.  _Information that you specifically give us_
+  1.  _Information that you specifically give us_
 
 In some instances, you must provide personal information if you wish to receive a particular service or participate in an activity.
 
@@ -49,7 +39,7 @@ If you provide us with unsolicited information that we do not require or which i
 
 In some instances, you will be asked to confirm that you agree to a particular activity such as expressly agreeing that you would like to receive our newsletter or other marketing communications. You can always opt out of receiving emails from us by clicking on the unsubscribe link at the bottom of the email or by visiting our email subscription management page here (www.squiz.net/unsubscribe).
 
-    2.  _Automatic collection_
+  2.  _Automatic collection_
 
 We may use a feature of your browser called a cookie to assign your computer a 'User ID'. Cookies do not contain information by which we can identify you – they only identify your computer to our servers.
 
@@ -57,11 +47,21 @@ Cookies are used by our website to enable certain functionality, to remember the
 
 Generally, these cookies expire at the end of each browsing session. You may, however, restrict or block those cookies through your browser settings. Please refer to your browser's 'Help' function or visit [www.aboutcookies.org](http://www.aboutcookies.org/)for detailed information about how to do this on a wide variety of browsers. Please note that if you disable any, or all, cookies you may have a degraded user experience.
 
-  4.  **Cookies used on this site**
+
+
+*  **Cookies used on this site**
 
  _Google Analytics TM_
 
 We use Google Analytics _TM_ to measure which pages on our site attract the most interest and to inform our content strategy so we can ensure we deliver the best quality content possible.
+
+To opt out of Google Analytics, please click [here](https://tools.google.com/dlpage/gaoptout/ "Google Analytics"). To find out more information about the Google Analytics security and privacy principles please click [here](https://support.google.com/analytics/answer/6004245 "Google Analytics Security").
+
+We use Remarketing with Google Analytics to advertise online, making adverts more relevant for users. Remarketing cookies will be used by third parties (including Google) to show our adverts on websites other than our own.
+
+Squiz and third parties (such as Google) will use Remarketing cookies to serve more relevant ads to users based on their past visit to or website, whether those users are on our website or other websites.
+
+To opt-out of Remarketing and alter your ad preferences, please visit [here](https://www.google.com/settings/u/0/ads?hl=en&sig=ACi0TCio5pe-7wtBNhOffaFcCWhVvwQhXEolJTr8m1RoVDDvO9fx7dDwrpdW-acy_S_BRQfCu-KfwV9impsymy5HveF2yHjHfjfrD9n1k3LpL2S81o0gWINEzoLmfJBce7sDi615YqYPx0sNa5cab4yLkRtaen6WwjZIyr77cBp-yCTmamsqipg "Remarketing preferences"). Remarketing cookies expire 90 days from the time the cookies are set or updated (whichever is later).
 
  _Marketo®_
 
@@ -75,35 +75,34 @@ This is similar to Google Analytics _TM_ in that it allows us to track how you m
 
 We have built a personalisation feature that tailors content to your country and the industry it appears you might be from. We do this by using your IP address and map that to a country to serve up local content like case studies and the contact details of your nearest office.
 
-  5.  **Disclosure of information**
+*  **Disclosure of information**
 
 We may share your personal information within the wider Squiz group of companies (the "Squiz Group").
 
 Otherwise, we do not share personal information with other companies, organisations and individuals unless one of the following circumstances applies:
 
-    * with your consent – we will share your personal information when we have your consent to do so; or
-    * for legal reasons.
-  6.  **Accessing your information**
+  * with your consent – we will share your personal information when we have your consent to do so; or
+  * for legal reasons.
+
+
+*  **Accessing your information**
 
 You can request us to provide you with access to the personal information we hold about you by sending us an email to [privacy@squiz.net](mailto:privacy@squiz.net) or your Account Manager or Business Development Manager.
 
 If particular circumstances apply, we are permitted by the Privacy Act to deny your request for access or limit the access we provide. We will let you know why your request is denied or limited.
 
-  7.  **Protecting your information**
+*  **Protecting your information**
 
 We are committed to keeping secure the personal information you provide to us. We take all reasonable precautions to protect the personal information we hold about you from misuse and loss and from unauthorised access, modification or disclosure.
 
 Our web site may contain links to third party web sites. Whilst such links are provided for your convenience, you should be aware that the information handling practices of the linked web sites might not be the same as ours.
 
-  8.  **Changes to our Privacy Policy**
+*  **Changes to our Privacy Policy**
 
 We may, from time to time, review and update this Privacy Policy. All information held by us will be governed by the most recently updated policy.
 
-  9.  **Who to contact**
+*  **Who to contact**
 
 If you have any questions or concerns in relation to our Privacy Policy, please contact us by sending an email to [privacy@squiz.net](mailto:privacy@squiz.net).
-
-
-
 
 Google Analytics is a trade mark of Google Inc. Marketo is a registered trade mark of Marketo Inc.
