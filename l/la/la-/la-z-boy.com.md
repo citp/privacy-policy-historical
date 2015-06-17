@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the la-z-boy.com privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430072219id_/http%3A//www.la-z-boy.com/Privacy-Policy/%3FWT.ac%3Dprivacy%40FooterMenu) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the la-z-boy.com privacy policy that was archived on 2015-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150617190453id_/http%3A//www.la-z-boy.com/Privacy-Policy/%3FWT.ac%3Dprivacy%40FooterMenu) for the most accurate reproduction.*
 
 # Online Shopping Security & Privacy - Official La-Z-Boy Website
 
-## May 8, 2012
+## March 26, 2015
 
 By visiting [la-z-boy.com](http://www.la-z-boy.com/), you are accepting the practices described in this Privacy Policy. This Policy is subject to change without notice and you should revisit this site frequently for the most current version of our policy.
 
@@ -12,11 +12,13 @@ La-Z-Boy respects your privacy. We do not sell, rent, loan or transfer any perso
 
 You may choose to provide us with access to certain personal information stored by third parties through social media sites (such as Facebook and Twitter). The information we have access to varies by site and is controlled by your privacy settings on that site and your authorization. By authorizing La-Z-Boy to have access to this information, you agree that La-Z-Boy may collect, store and use this information in accordance with this Privacy Policy.
 
-We work to protect the security of your information during transmission by using Secure Sockets Layer (SSL) software, which encrypts information you input. We reveal only the last four digits of your credit card numbers when confirming any orders placed through our Web site. Of course, we transmit the entire credit card number to the appropriate credit card company during order processing. 
+We work to protect the security of your information during transmission by using Secure Sockets Layer (SSL) software, which encrypts information you input. We reveal only the last four digits of your credit card numbers when confirming any orders placed through our Web site. Of course, we transmit the entire credit card number to the appropriate credit card company during order processing.
 
 ## Use of Your Information
 
-Authorized La-Z-Boy employees internally use information collected on our Web site for three main purposes. First, we collect information to figure out how to improve our site by seeing which areas' features and products are most popular. Second, we collect information in order to personalize the site for our customers. For example, in the future, we may recommend products or features you may like based on what you have liked in the past. Last, we collect information to enable customers to participate in sweepstakes, contests and other activities on our Web site. If we collect any such information, we will only collect enough information to enable you to participate in the activity and no more. If we want to collect information for other purposes, we will inform you when we collect the information. Occasionally, La-Z-Boy may also share non-personal, summary information regarding our customers with unrelated third parties (for example, we publicly disclose the aggregate number of registered users of our Web site). However, La-Z-Boy does not share any personal information about any particular customer with unrelated third parties. (We may do so in the unlikely event that we bybelieve that disclosure of such information is reasonably necessary to (i) satisfy any applicable law, regulation, legal process or enforceable governmental request, (ii) detect, prevent, or otherwise address fraud, security or technical issues, or (iii) protect against harm to the rights, property or safety of La-Z-Boy, its users or the public.) If you do not want to receive e-mail from us and currently do, please reply to an e-mail that we have sent to you and insert "unsubscribe" in the subject line.
+Authorized La-Z-Boy employees internally use information collected on our Web site for three main purposes. First, we collect information to figure out how to improve our site by seeing which areas' features and products are most popular. Second, we collect information in order to personalize the site for our customers. For example, in the future, we may recommend products or features you may like based on what you have liked in the past. Last, we collect information to enable customers to participate in sweepstakes, contests and other activities on our Web site. If we collect any such information, we will only collect enough information to enable you to participate in the activity and no more. If we want to collect information for other purposes, we will inform you when we collect the information. Occasionally, La-Z-Boy may also share non-personal, summary information regarding our customers with unrelated third parties (for example, we publicly disclose the aggregate number of registered users of our Web site). However, La-Z-Boy does not share any personal information about any particular customer with unrelated third parties. (We may do so in the unlikely event that we believe that disclosure of such information is reasonably necessary to (i) satisfy any applicable law, regulation, legal process or enforceable governmental request, (ii) detect, prevent, or otherwise address fraud, security or technical issues, or (iii) protect against harm to the rights, property or safety of La-Z-Boy, its users or the public). If you do not want to receive e-mail from us and currently do, please reply to an e-mail that we have sent to you and insert "unsubscribe" in the subject line, or click the "Unsubscribe" link at the bottom of any of our emails.
+
+We do not knowingly collect or use personal information from children under 13, or equivalent minimum age in the relevant jurisdiction, without verifiable parental consent. If we learn that we have collected the personal information of a child under 13, or equivalent minimum age depending on jurisdiction, without first receiving verifiable parental consent, we will take steps to delete the information as soon as possible.
 
 Please contact us at the address below for any additional questions about the management or use of personal data.
 
@@ -38,11 +40,11 @@ Our site contains links to other sites whose information practices and privacy p
 
 ## Questions and Comments
 
-We regularly review our compliance with this Privacy Policy. If you have any questions or concerns regarding this Privacy Policy or La-Z-Boy’s treatment of personal information, or if you see anything on our Web site that you feel is inappropriate, please contact us by clicking here or at: 
+We regularly review our compliance with this Privacy Policy. If you have any questions or concerns regarding this Privacy Policy or La-Z-Boy’s treatment of personal information, or if you see anything on our Web site that you feel is inappropriate, please contact us by clicking [clicking here](mailto:webmaster@la-z-boy.com) or at: 
 
 **La-Z-Boy Incorporated**  
-1284 N. Telegraph Road  
-Monroe, MI 48162-3390
+One La-Z-Boy Drive  
+Monroe, MI 48162 
 
 When we receive formal written complaints at this address, it is our policy to contact the complaining user regarding his or her concerns. We will cooperate with any appropriate regulatory authorities in resolving any complaints that cannot be resolved between La-Z-Boy and you. 
 
