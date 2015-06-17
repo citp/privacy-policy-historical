@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sotwesoora.tv privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120075005id_/http%3A//www.sotwesoora.tv/index.php%3Fview%3Dinfo_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sotwesoora.tv privacy policy that was archived on 2015-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150617030953id_/http%3A//www.sotwesoora.tv/index.php%3Fview%3Dinfo_privacy) for the most accurate reproduction.*
 
 # Sotwesoora Watch Egyptian Arabic Movies and TV Series online FREE - Information
 
