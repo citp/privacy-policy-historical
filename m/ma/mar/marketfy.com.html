@@ -1,449 +1,347 @@
-<!--The following is the downloaded HTML source of the marketfy.com privacy policy that was archived on 2014-12-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141229120840id_/http%3A//marketfy.com/page/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the marketfy.com privacy policy that was archived on 2015-06-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150617071728id_/http%3A//marketfy.com/page/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js" lang="en"><!--<![endif]--><head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"><script type="text/javascript" src="https://pi.pardot.com/pd.js"></script><script async="" src="//d36io9znxl3bhq.cloudfront.net/static/js/tracker.js"></script><script type="text/javascript" async="" src="https://d2dq2ahtl5zl1z.cloudfront.net/analytics.js/v1/fnbgmde/analytics.min.js"></script><script type="text/javascript" async="" src="//widget.uservoice.com/bgLbJRDGrdTa6gRk6vyNWQ.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UAIBVFJADQIBUldVBQ=="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),u=c.length,f=i(a,o,r),d=0;u>d;d++)c[d].apply(f,n);return f}function a(t,e){u[t]=s(t).concat(e)}function s(t){return u[t]||[]}function c(){return n(e)}var u={};return{on:a,emit:e,create:c,listeners:s,_events:u}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(u){try{r("ierr",[u,(new Date).getTime(),!0])}catch(f){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(4),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(u){"stack"in u&&(t(5),t(3),"addEventListener"in window&&t(1),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(2),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:4,2:7,3:5,4:18,5:6,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],4:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:18,2:19,ee:"QJf3ax",gos:"7eSDFh"}],5:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:19,2:18,ee:"QJf3ax"}],6:[function(t,e){function n(t,e,n){var r=t[0];"string"==typeof r&&(r=new Function(r)),t[0]=o(r,"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:19,2:18,ee:"QJf3ax"}],7:[function(t,e){function n(){c.inPlace(this,d,"fn-")}function r(t,e){c.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}var i=t("ee").create(),a=t(1),s=t(2),c=s(i),u=s(a),f=window.XMLHttpRequest,d=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=i,window.XMLHttpRequest=function(t){var e=new f(t);try{i.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",function(t,e){return e}),e.addEventListener("readystatechange",n,!1)}catch(r){try{i.emit("internal-error",[r])}catch(o){}}return e},window.XMLHttpRequest.prototype=f.prototype,c.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),i.on("send-xhr-start",r),i.on("open-xhr-start",r)},{1:4,2:19,ee:"QJf3ax"}],8:[function(t){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,u="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(u);if(f&&(r.rxSize=f),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(n.cat=d.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r,this.startTime])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,u=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var u=e(o);u&&(r.txSize=u)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",[e])}catch(r){}}};for(var f=0;c>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:9,3:7,4:4,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],9:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&c&&c.body){p.proto="https"===d.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=c.createElement("script");e.src=p.proto+t.agent,c.body.appendChild(e)}}function r(){"complete"===c.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,c=s.document,u="addEventListener",f="attachEvent",d=(""+location).split("?")[0],p=e.exports={offset:i(),origin:d,features:{}};c[u]?(c[u]("DOMContentLoaded",o,!1),s[u]("load",n,!1)):(c[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],18:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],19:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,u;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){f([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return u=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,u],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,u(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,u="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,u?s+o:o,i,s,t))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){f([o,e,n,r])}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){f([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function f(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:18,ee:"QJf3ax"}]},{},["G9z0Bl",3,8]);</script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-1.newrelic.com","queueTime":0,"licenseKey":"e7d2fb793a","agent":"js-agent.newrelic.com/nr-476.min.js","transactionName":"YgRWZkIDWRZXW0EKWVtOckdeAUMMWVYaAFlbFVFcRExBDFNPRllAXARD","applicationID":"5116672","errorBeacon":"bam.nr-data.net","applicationTime":91}</script>
-  <title>Privacy Policy | Marketfy</title>
+  
 
+  
+  
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"><script type="text/javascript" src="https://pi.pardot.com/pd.js"></script><script src="https://js-agent.newrelic.com/nr-632.min.js"></script><script type="text/javascript" async="" src="//widget.uservoice.com/bgLbJRDGrdTa6gRk6vyNWQ.js"></script><script async="" src="//d36io9znxl3bhq.cloudfront.net/static/js/tracker.1ddae00a0366.js"></script><script type="text/javascript" async="" src="https://d2dq2ahtl5zl1z.cloudfront.net/analytics.js/v1/fnbgmde/analytics.min.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UAIBVFJADQIBUldVBQ=="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:23,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(5),window.onerror=e;try{throw new Error}catch(f){"stack"in f&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&t(4),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:10,2:9,3:7,4:11,5:3,6:24,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t){t("loader").features.ins=!0},{loader:"G9z0Bl"}],6:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(1),i=t(2);t("loader").features.stn=!0,t(3),n.on("fn-start",function(t){var e=t[0];e instanceof Event&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof Event&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),i.on("fn-start",function(){this.bstStart=Date.now()}),i.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1),window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:10,2:9,3:8,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],7:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:24,2:25,ee:"QJf3ax",gos:"7eSDFh"}],8:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState"],"-")},{1:25,2:24,ee:"QJf3ax"}],9:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:25,2:24,ee:"QJf3ax"}],10:[function(t,e){function n(t,e,n){t[0]=o(t[0],"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:25,2:24,ee:"QJf3ax"}],11:[function(t,e){function n(){f.inPlace(this,p,"fn-")}function r(t,e){f.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),f=c(a),u=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,f.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:7,2:25,ee:"QJf3ax"}],12:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=n(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(e.cat=d.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,o("xhr",[e,r,this.startTime])}}}function n(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=e,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,e){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=n(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{a.emit("internal-error",[n])}catch(r){}}};for(var u=0;c>u;u++)e.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:13,3:11,4:7,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],13:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],14:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:23,2:24,handle:"D5DuLP"}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info,e=f.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){e in t||(t[e]=n)});var n="https"===u.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=(t(2),window),f=c.document,u=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-632.min.js"},p=e.exports={offset:i(),origin:u,features:{}};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(f.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()])},{1:23,2:14,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],23:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],24:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],25:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:24,ee:"QJf3ax"}]},{},["G9z0Bl",4,12,6,5]);</script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","queueTime":0,"licenseKey":"e7d2fb793a","agent":"js-agent.newrelic.com/nr-632.min.js","transactionName":"YgRWZkIDWRZXW0EKWVtOckdeAUMMWVYaAFlbFVFcRExBDFNPRllAXARD","applicationID":"5116672","errorBeacon":"bam.nr-data.net","applicationTime":29}</script>
+  <meta name="viewport" content="initial-scale=1, maximum-scale=1 user-scalable=no">
   <meta name="description" content="">
   <meta name="author" content="">
-  <meta name="google-site-verification" content="-YQQ00Mcmb4nZfbTBz9UEKp3uNUIeilMyOCOut3TqFI">
-  <meta name="viewport" content="width=device-width ">
   
 
-  <link href="//d36io9znxl3bhq.cloudfront.net/static/css/stylesheet.ac6ccbcd198e.css" rel="stylesheet" type="text/css">
-  <link href="//d36io9znxl3bhq.cloudfront.net/static/css/marketfy-plus.db88b52ede7d.css" rel="stylesheet" type="text/css">
+  
+  <title>
+    
+      Follow traders, Mirror their trades, Elevate your future
+    
+    | Marketfy
+  </title>
 
   
+  
+  
+  <link href="//d36io9znxl3bhq.cloudfront.net/static/css/marketfy-v3.517ffac87c4e.css" rel="stylesheet" type="text/css">
+  
+  <link href="//d36io9znxl3bhq.cloudfront.net/static/css/page.1dcd79ded207.css" rel="stylesheet" type="text/css">
 
-  <link href="//get.pictos.cc/fonts/2968/1" rel="stylesheet" type="text/css">
 
+  
   
     <link rel="shortcut icon" type="image/x-icon" href="//d36io9znxl3bhq.cloudfront.net/static/images/brand/favicon.d8bd5f9ee798.ico">
   
 
-  <link rel="apple-touch-icon" href="//d36io9znxl3bhq.cloudfront.net/static/images/icon.ea3af2e6efdb.png">
-  <link rel="stylesheet" href="//d36io9znxl3bhq.cloudfront.net/static/css/jquery.mmenu.all.d40cb0e18e9d.css">
-  <link rel="stylesheet" type="text/css" href="//d36io9znxl3bhq.cloudfront.net/static/fonts/generic-font.0cd5b7fa7e34.css">
-
-  <link href="//fonts.googleapis.com/css?family=Open+Sans:300,400italic,400,600,700" rel="stylesheet" type="text/css">
-
+  
+  
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
   <script type="text/javascript" src="//use.typekit.net/sst1tfc.js"></script>
-  <script type="text/javascript">try {
-    Typekit.load();
-  } catch (e) {
-  }</script>
-  <script src="//d36io9znxl3bhq.cloudfront.net/static/js/libs/modernizr.min.99812c1ad535.js"></script>
-
   <script type="text/javascript">
-    var logged_in = false;
-    var realtime_server = '';
-    var alerts_server = '';
+    try { Typekit.load();} catch (e) { }
     
       var currentUser = null;
     
   </script>
   
-<script data-cfasync="false" type="text/javascript">
-      /*{literal}<![CDATA[*/
-      window.olark || (function (c) {
-        var f = window, d = document, l = f.location.protocol == "https:" ? "https:" : "http:", z = c.name, r = "load";
-        var nt = function () {
-          f[z] = function () {
-            (a.s = a.s || []).push(arguments)
-          };
-          var a = f[z]._ = {}, q = c.methods.length;
-          while (q--) {
-            (function (n) {
-              f[z][n] = function () {
-                f[z]("call", n, arguments)
-              }
-            })(c.methods[q])
-          }
-          a.l = c.loader;
-          a.i = nt;
-          a.p = {0: +new Date};
-          a.P = function (u) {
-            a.p[u] = new Date - a.p[0]
-          };
-          function s() {
-            a.P(r);
-            f[z](r)
-          }
-
-          f.addEventListener ? f.addEventListener(r, s, false) : f.attachEvent("on" + r, s);
-          var ld = function () {
-            function p(hd) {
-              hd = "head";
-              return["<", hd, "></", hd, "><", i, ' onl' + 'oad="var d=', g, ";d.getElementsByTagName('head')[0].", j, "(d.", h, "('script')).", k, "='", l, "//", a.l, "'", '"', "></", i, ">"].join("")
-            }
-
-            var i = "body", m = d[i];
-            if (!m) {
-              return setTimeout(ld, 100)
-            }
-            a.P(1);
-            var j = "appendChild", h = "createElement", k = "src", n = d[h]("div"), v = n[j](d[h](z)), b = d[h]("iframe"), g = "document", e = "domain", o;
-            n.style.display = "none";
-            m.insertBefore(n, m.firstChild).id = z;
-            b.frameBorder = "0";
-            b.id = z + "-loader";
-            if (/MSIE[ ]+6/.test(navigator.userAgent)) {
-              b.src = "javascript:false"
-            }
-            b.allowTransparency = "true";
-            v[j](b);
-            try {
-              b.contentWindow[g].open()
-            } catch (w) {
-              c[e] = d[e];
-              o = "javascript:var d=" + g + ".open();d.domain='" + d.domain + "';";
-              b[k] = o + "void(0);"
-            }
-            try {
-              var t = b.contentWindow[g];
-              t.write(p());
-              t.close()
-            } catch (x) {
-              b[k] = o + 'd.write("' + p().replace(/"/g, String.fromCharCode(92) + '"') + '");d.close();'
-            }
-            a.P(2)
-          };
-          ld()
-        };
-        nt()
-      })({loader: "static.olark.com/jsclient/loader0.js", name: "olark", methods: ["configure", "extend", "declare", "identify"]});
-      /* custom configuration goes here (www.olark.com/documentation) */
-      olark.identify('6195-893-10-4800');
-      /*]]>{/literal}*/
-      
-    </script>
-  
 
   
-<script id="pap_x2s6df8d" type="text/javascript" src="https://benzinga.postaffiliatepro.com/scripts/trackjs.js"></script><script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
-
-<body class="page" id="skrollr-body"><div id="olark" style="display: none;"><olark><iframe frameborder="0" id="olark-loader"></iframe></olark></div>
-<input type="hidden" name="csrfmiddlewaretoken" value="aJuhfNurEy5ZnHsCyyvYt50DaJDYY25l">
-
-  <!-- Prompt IE 6 users to install Chrome Frame. Remove this if you support IE 6.
-     chromium.org/developers/how-tos/chrome-frame-getting-started -->
-  <!--[if lt IE 7]><p class=chromeframe>Your browser is <em>ancient!</em> <a href="http://browsehappy.com/">Upgrade to a different browser</a> or
-    	<a href="http://www.google.com/chromeframe/?redirect=true">install Google Chrome Frame</a> to experience this site.</p>
+  <!--[if lt IE 9]>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.2/html5shiv.min.js"></script>
+    <script src="//s3.amazonaws.com/nwapi/nwmatcher/nwmatcher-1.2.5-min.js"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/selectivizr/1.0.2/selectivizr-min.js"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/respond.js/1.4.0/respond.js"></script>
   <![endif]-->
-  <div id="layout-wrap">
   
 
-    
+<script id="pap_x2s6df8d" type="text/javascript" src="https://benzinga.postaffiliatepro.com/scripts/trackjs.js"></script><script async="" src="//static.hotjar.com/c/hotjar-9939.js?sv=3"></script><script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
 
 
-  <nav class="marketfy-bar">
-    <div class="wrapper clearfix">
+<body class="with-navbar navbar-closed page"><div id="olark" style="display: none;"><olark><iframe frameborder="0" id="olark-loader"></iframe></olark></div>
 
-      
-
-      
-        <h1 class="logo">
-          <a href="/">
-            <img src="//d36io9znxl3bhq.cloudfront.net/static/images/theme/v2/logo.f7dfa5edd148.png" alt="Marketfy" width="191" height="30">
-          </a>
-        </h1>
-      
-
-      
-
+  
+  
+  
+<a href="#" class="burger">
+  <span class="slice1"></span>
+  <span class="slice2"></span>
+  <span class="slice3"></span>
+</a>
+<div class="navbar-outer">
+  <nav class="navbar-inner" role="navigation">
+    <a href="/" class="navbar-inner__logo">
+      <span>Marketfy</span>
+    </a>
+    <ul class="navbar-list">
+      <li class="navbar-list__item navbar-list__item--search">
+        <input class="typeahead" type="text" id="search" placeholder="Search" spellcheck="false"><button type="submit"></button>
+      </li>
         
-
-        
-        <div class="nav-search">
-          <input class="typeahead" type="text" placeholder="Search" id="search" spellcheck="false">
-          <button type="submit" class="search sprite"></button>
-        </div>
-        
-
-        
-
-        <ul class="nav">
-
-          
-
-          
-           <li class="sign-up-link">
-              <a href="/account/signup/?next=/page/privacy/" data-toggle="modal" data-keyboard="true">
-                Sign Up <span class="sprite check"></span>
-              </a>
-            </li>
-            <li class="login-link">
-              <a href="/account/login/?next=/page/privacy/" data-toggle="modal" data-keyboard="true">
-                Login <span class="sprite user"></span>
-              </a>
-            </li>
-          
-
-        <!--[if (!IE) | (gt IE 8) ]> -->
-          <li class="mobile-user-menu-trigger">
-            <a href="#offcanvasnav" class="menu-icon-right">Menu</a>
-          </li>
-        <!-- <![endif]-->
-
+      <li class="navbar-list__item">
+        <a href="/account/signup/?next=/page/privacy/">Sign Up</a>
+      </li>
+      <li class="navbar-list__item">
+        <a href="/account/login/?next=/page/privacy/">Login</a>
+      </li>
+      
+      <li class="navbar-list__item"><a href="/store/browse/">Browse</a></li>
+      <li class="navbar-list__item navbar-list__item--footer">
+        <ul>
+          <li><a href="/">Home</a></li>
+          <li><a href="/page/about/">About</a></li>
+          <li class="navbar-mobile-link"><a href="/page/about/#contact">Contact</a></li>
+          <li class="navbar-mobile-link"><a href="/account/logout/?next=/page/privacy/">Log Off</a></li>
         </ul>
-
-      
-
-    </div>
-  </nav>
-
-
-    
-
-    <div id="layout-container">
-
-      
-        <div class="container content">
-          <div class="container">
-            
-
-<div class="container-header">
-    <h1>About <span class="container-header-split">/</span> <span class="container-header-page">Privacy Policy</span></h1>
-</div>
-
-<div class="side-menu">
-    <ul>
-        <li><a href="/page/about">About</a></li>
-        <li><a href="/page/verification">Verification</a></li>
-        <li><a href="/page/maven">Become a Maven</a></li>
-        <li class="active"><a href="/page/privacy">Privacy Policy</a></li>
-        <li><a href="/page/terms">Terms of Service</a></li>
-        <li><a href="/page/contact">Contact</a></li>
+      </li>
     </ul>
+  </nav>
 </div>
 
-<div class="container-padding">
+  
 
-    <h2>Privacy Policy</h2>
+  
+  <!--[if lt IE 8]>
+  <div class="upgrade-browser-banner">
+    Whoops! Your browser is really out-of-date.
+    Please consider <a href="http://browsehappy.com/">upgrading it</a> to avoid
+    potential compatibility issues. We apologize for the inconvenience.
+  </div>
+  <![endif]-->
 
-<p>At Benzinga, we want you to know that we value your personal information and that we respect your privacy. Please read our Privacy Policy below for more information.</p>
+  
+  
+<div class="page__wrapper">
 
+    <div class="page__header">
+        <h1>
+            
+            Privacy Policy
+            
+        </h1>
+    </div>
 
-<h3>Your Consent</h3>
-<p>By using Benzinga, Benzinga Pro, Benzinga.com, pro.benzinga.com, Marketfy.com and any subdomain or premium service offered by Benzinga, you consent to our Privacy Policy.</p>
+    <nav class="page__side-menu">
+        <ul>
+            
+            
+            <li><a href="/page/about">About Marketfy</a></li>
+            
+            <li class="active"><a href="/page/privacy">Privacy Policy</a></li>
+            <li><a href="/page/terms">Terms of Service</a></li>
+        </ul>
+    </nav>
 
+    <div class="page-content">
+        
 
-<h3>Collected Information</h3>
-<p>We collect information from you when you register with Benzinga or fill out a form.</p>
-<p>When ordering or registering on our site, you may be asked to enter your name, number, e-mail address, and/or other personally identifiable information. However, those who wish to visit the site anonymously may continue to do so.</p>
+        
+        <section>
+            <h1>Privacy Policy</h1>
 
+            <p>
+                At Benzinga, we want you to know that we value your personal information and that we respect your privacy. Please read our Privacy Policy below for more information.
+            </p>
+            <h2>Your Consent</h2>
+            <p>
+                By using Benzinga, Benzinga Pro, Benzinga.com, pro.benzinga.com, Marketfy.com and any subdomain or premium service offered by Benzinga, you consent to our Privacy Policy.
+            </p>
+            <h2>Collected Information</h2>
+            <p>
+                We collect information from you when you register with Benzinga or fill out a form.
+            </p>
+            <p>
+                When ordering or registering on our site, you may be asked to enter your name, number, e-mail address, and/or other personally identifiable information. However, those who wish to visit the site anonymously may continue to do so.
+            </p>
+            <h2>Use Of Information</h2>
+            <p>
+                Any and all information that we collect from you may be used in any of the following ways:
+            </p>
+            <ul>
+                <li>To personalize your experience (your information helps us to better respond to your individual needs).</li>
+                <li>To improve our website (we continually strive to improve our website offerings based on the information and feedback we receive from you).</li>
+                <li>To improve customer service (your information helps us to more effectively respond to your customer service requests and support needs).</li>
+                <li>To process transactions.</li>
+                <li>To administer a contest, promotion, survey or other site feature.</li>
+                <li>To send periodic e-mails. (The e-mail address that you provide to Benzinga may be used to send you information and updates pertaining to your order, in addition to receiving occasional company news, updates, and/or related product or service information, etc.)</li>
+            </ul>
+            <h2>Information Protection</h2>
+            <p>
+                We implement a variety of security measures to maintain the safety of your personal information when you enter, submit, or access your personal information.
+            </p>
+            <p>
+                We use SSL Encryption to ensure that your transactions are secure, and store your information securely. We do not store your credit card information on Benzinga.com.
+            </p>
+            <h2>Cookies</h2>
+            <p>
+                Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information.
+            </p>
+            <p>
+                We use cookies to understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
+            </p>
+            <p>
+                The cookie itself does not contain Personal Information, although it will enable us to relate your use of this site to information that you have specifically and knowingly provided to us. A cookie cannot read data from your hard disk or read cookie files created by other sites.
+            </p>
+            <p>
+                You can refuse cookies by turning them off in your browser. If you've set your browser to warn you before accepting cookies, you will receive the warning message with each cookie. You do not need to have cookies turned on to use this site. However, to access all of the features at Benzinga, and to use the site as it was intended, you must have cookies enabled in your browser.
+            </p>
+            <h2>Information Disclosure</h2>
+            <p>
+                We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+            </p>
+            <h2>Third-party Links</h2>
+            <p>
+                Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+            </p>
+            <h2>California Online Privacy Protection Act Compliance</h2>
+            <p>
+                Because we value your privacy, we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent. As part of the California Online Privacy Protection Act, all users of our site may make any changes to their information at anytime by logging into their account page and going to the 'Edit Account' page.
+            </p>
+            <h2>Childrens Online Privacy Protection Act Compliance</h2>
+            <p>
+                We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act). We do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
+            </p>
+            <h2>Online Privacy Policy</h2>
+            <p>
+                This online Privacy Policy applies only to information collected through our website and not to information collected offline.
+            </p>
+            <h2>Changes To Our Privacy Policy</h2>
+            <p>
+                If we decide to change our Privacy Policy, we will post those changes on this page, send an email notifying you of any changes, and/or update the Privacy Policy modification date below.
+            </p>
+            <p>
+                This policy was last modified on 07/9/2012.
+            </p>
+        </section>
+        
 
-<h3>Use Of Information</h3>
-<p>Any and all information that we collect from you may be used in any of the following ways:</p>
-<ul>
-<li>To personalize your experience (your information helps us to better respond to your individual needs).</li>
-<li>To improve our website (we continually strive to improve our website offerings based on the information and feedback we receive from you).</li>
-<li>To improve customer service (your information helps us to more effectively respond to your customer service requests and support needs).</li>
-<li>To process transactions.</li>
-<li>To administer a contest, promotion, survey or other site feature.</li>
-<li>To send periodic e-mails. (The e-mail address that you provide to Benzinga may be used to send you information and updates pertaining to your order, in addition to receiving occasional company news, updates, and/or related product or service information, etc.)</li>
-</ul>
-
-<h3>Information Protection</h3>
-<p>We implement a variety of security measures to maintain the safety of your personal information when you enter, submit, or access your personal information.</p>
-<p>We use SSL Encryption to ensure that your transactions are secure, and store your information securely. We do not store your credit card information on Benzinga.com.</p>
-
-
-<h3>Cookies</h3>
-<p>Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information.</p>
-
-<p>We use cookies to understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.</p>
-
-<p>The cookie itself does not contain Personal Information, although it will enable us to relate your use of this site to information that you have specifically and knowingly provided to us. A cookie cannot read data from your hard disk or read cookie files created by other sites.</p>
-
-<p>You can refuse cookies by turning them off in your browser. If you've set your browser to warn you before accepting cookies, you will receive the warning message with each cookie. You do not need to have cookies turned on to use this site. However, to access all of the features at Benzinga, and to use the site as it was intended, you must have cookies enabled in your browser.</p>
-
-
-<h3>Information Disclosure</h3>
-<p>We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.</p>
-
-
-<h3>Third-party Links</h3>
-<p>Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.</p>
-
-
-<h3>California Online Privacy Protection Act Compliance</h3>
-<p>Because we value your privacy, we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
-As part of the California Online Privacy Protection Act, all users of our site may make any changes to their information at anytime by logging into their account page and going to the 'Edit Account' page.</p>
-
-
-<h3>Childrens Online Privacy Protection Act Compliance</h3>
-<p>We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act). We do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.</p>
-
-
-<h3>Online Privacy Policy</h3>
-<p>This online Privacy Policy applies only to information collected through our website and not to information collected offline.</p>
-
-<h3>Changes To Our Privacy Policy</h3>
-<p>If we decide to change our Privacy Policy, we will post those changes on this page, send an email notifying you of any changes, and/or update the Privacy Policy modification date below.</p>
-<p>This policy was last modified on 07/9/2012.</p>
-    
+        
+                    
+    </div>
 
 </div>
 
 
-          </div>
-        </div> <!-- /container -->
-      
+  
+  
+  
 
-    </div> <!-- #layout-container -->
+<div class="mkfy-footer">
+  <div class="container">
+    <ul class="footer-col">
+      <li><img src="//d36io9znxl3bhq.cloudfront.net/static/images/brand/marketfy-logo-no-text.f695b72ec5f2.png" alt="Marketfy" width:"72"="" height:"27"=""></li>
+      <li>
+        <address>24471 West 10 Mile Road<span>Southfield, MI 48033</span>
+        </address>
+      </li>
+      <li><a href="tel:+1-877-440-9464">+1 877 440 9464</a></li>
+    </ul>
+    <ul class="footer-col">
+      <li><h4 class="footer-col__header">Popular Pages:</h4></li>
+      <li><a href="/store/browse/">Browse Products</a></li>
+      <li><a href="/page/about/#become-a-maven">Become a Maven</a></li>
+      <li><a href="http://benzinga.postaffiliatepro.com/affiliates/index.php">Become an Affiliate</a></li>
+      <li><a href="/page/about/">About Us</a></li>
+    </ul>
+    <ul class="footer-col">
+      <li><h4 class="footer-col__header">Get Help:</h4></li>
+      <li><a href="/page/terms/">Terms of Service</a></li>
+      <li><a href="/page/privacy/">Privacy Policy</a></li>
+      <li><a href="http://www.sec.gov/investor/pubs/autotrading.htm">SEC Disclosure</a></li>
+      <li><a href="/page/about/#contact">Contact Us</a></li>
+    </ul>
+    <ul class="footer-col">
+      <li><h4 class="footer-col__header">Connect With Us:</h4></li>
+      <li><a href="https://www.facebook.com/Marketfy">Facebook</a></li>
+      <li><a href="https://twitter.com/marketfy">Twitter</a></li>
+      <li><a href="https://www.linkedin.com/company/marketfy">LinkedIn</a></li>
+      <li><a href="http://blog.marketfy.com/">Blog</a></li>
+    </ul>
+    <ul class="mobile-links">
+      <li><a href="/store/">Store</a></li>
+      <li><a href="http://benzinga.postaffiliatepro.com/affiliates/">Become an Affiliate</a></li>
+      <li><a href="/page/about/#become-a-maven">Become a Maven</a></li>
+      <li><a href="/page/about/#contact">Contact Us</a></li>
+      <li class="tablet"><a href="/page/about/">About</a></li>
+      <li class="tablet"><a href="/page/terms/">Terms of Service</a></li>
+      <li class="tablet"><a href="/page/privacy/">Privacy Policy</a></li>
+      <li class="tablet"><a href="http://www.sec.gov/investor/pubs/autotrading.htm" target="_blank">SEC Disclosure</a></li>
+    </ul>
+    <div class="footer-tray">
+      <div class="footer-tray__col">
+        Built by
+        <a href="http://www.benzinga.com" target="_blank">
+          <img src="//d36io9znxl3bhq.cloudfront.net/static/images/brand/benzinga-logo-100.4b42edfa9acf.png" alt="benzinga" width="100" height="35">
+        </a>
+      </div>
+      <div class="footer-tray__col footer-tray__col--show">© 2013-2015 Marketfy</div>
+      <div class="footer-tray__col footer-tray__col--right">
+        <a href="https://mixpanel.com/f/partner">
+          <img src="//cdn.mxpnl.com/site_media/images/partner/badge_light.png" alt="Mobile Analytics">
+        </a>
+      </div>
+    </div>
+  </div>
+  
+</div>
 
+  
 
-
+  <!-- Typeahead.js is used to display the auto-completion menu -->
+<script src="//cdnjs.cloudflare.com/ajax/libs/typeahead.js/0.10.4/typeahead.bundle.min.js"></script>
+<!-- Hogan.js is used to render the hits using Mustache.js templating -->
+<script src="//cdn.jsdelivr.net/hogan.js/3.0.0/hogan.common.js"></script>
+<!-- Algolia -->
+<script src="//cdn.jsdelivr.net/algoliasearch/3/algoliasearch.min.js"></script>
+<script type="text/javascript">
+  $(function () {
+    var siteSearch = algoliasearch('MMYKC0E170', '36dcc9fef1338bfbbe68e22ed5eb7d0a');
     
       
-        <footer class="marketfy-footer">
-          <div class="wrapper">
-
-            
-
-              
-              <div class="footer-nav">
-
-                <div class="footer-links marketfy-links">
-                  <h4>Marketfy</h4>
-                  <ul class="marketfy">
-                    <li><a href="/store/">Store</a></li>
-                    <li><a href="http://benzinga.postaffiliatepro.com/affiliates/">Affiliates Club</a></li>
-                    <li><a href="/page/maven/">Become a Maven</a></li>
-                    <li><a href="/page/contact">Contact Us</a></li>
-                  </ul>
-                </div>
-
-                <div class="footer-links info-links">
-                  <h4>Info</h4>
-                  <ul>
-                    <li><a href="/page/about/">About</a></li>
-                    <li><a href="/page/terms/">Terms of Service</a></li>
-                    <li><a href="/page/privacy/">Privacy Policy</a></li>
-                    <li><a href="http://www.sec.gov/investor/pubs/autotrading.htm" target="_blank">SEC Disclosure</a>
-                    </li>
-                  </ul>
-                </div>
-
-
-                <div class="footer-links follow-links">
-                  <h4>Follow Us</h4>
-                  <ul class="follow">
-                    <li>
-                      <a href="http://facebook.com/marketfy" target="_blank">
-                        <span class="sprite fbicon"></span> Facebook
-                      </a>
-                    </li>
-                    <li>
-                      <a href="http://twitter.com/marketfy" target="_blank">
-                        <span class="sprite twicon"></span> Twitter
-                      </a>
-                    </li>
-                    <li>
-                      <a href="http://www.linkedin.com/company/marketfy" target="_blank">
-                        <span class="sprite linkedinicon"></span> LinkedIn
-                      </a>
-                    </li>
-                    <li>
-                      <a href="http://blog.marketfy.com" target="_blank">
-                        <span class="sprite rssicon"></span>Blog
-                      </a>
-                    </li>
-                  </ul>
-                </div>
-
-              </div>
-
-              <div class="footer-partners">
-                <h4>Our Partners</h4>
-                <img src="//d36io9znxl3bhq.cloudfront.net/static/images/brand/partners/partners-block.a1052b12000d.png">
-              </div>
-
-            
-
-            
-            <div class="footer-tray">
-              <span class="built-by">
-                Built by
-                <a href="http://www.benzinga.com" target="_blank">
-                  <img src="//d36io9znxl3bhq.cloudfront.net/static/images/brand/benzinga-logo-100.4b42edfa9acf.png" alt="benzinga" width="100" height="35">
-                </a>
-              </span>
-              <span class="copyright">© 2013-2014 Marketfy</span>
-              <span class="phone">Call us at <a href="tel:8774409464" target="_blank">877.440.9464</a></span>
-              <a href="https://mixpanel.com/f/partner" class="footer-mixpanel">
-                <img src="//cdn.mxpnl.com/site_media/images/partner/badge_light.png" alt="Mobile Analytics">
-              </a>
-            </div>
-          </div>
-        </footer>
+      var prefix = 'prod';
       
     
+    var content = siteSearch.initIndex(prefix + '_content');
+    var products = siteSearch.initIndex(prefix + '_products');
 
-  
-  </div> <!-- #layout-wrap -->
+    var templateContent = Hogan.compile('<div class="result-post">' +
+        '<div class="result-title">\{\{\{ _highlightResult.title.value \}\}\}</div>' +
+        '<div class="result-author">\{\{\{ _highlightResult.author.name.value \}\}\}</div>' +
+        '</div>');
+    var templateProduct = Hogan.compile('<div class="result-product">' +
+        '<div class="result-title">\{\{\{ _highlightResult.name.value \}\}\}</div>' +
+        '<div class="result-author">\{\{\{ _highlightResult.author.name.value \}\}\}</div>' +
+        '</div>');
 
-  
-    
-      <!-- UserVoice JavaScript SDK (only needed once on a page) -->
-      <script>(function () {
-        var uv = document.createElement('script');
-        uv.type = 'text/javascript';
-        uv.async = true;
-        uv.src = '//widget.uservoice.com/bgLbJRDGrdTa6gRk6vyNWQ.js';
-        var s = document.getElementsByTagName('script')[0];
-        s.parentNode.insertBefore(uv, s)
-      })()</script>
-
-      <!-- A tab to launch the Classic Widget -->
-      <script>
-        UserVoice = window.UserVoice || [];
-        UserVoice.push(['showTab', 'classic_widget', {
-          mode: 'full',
-          primary_color: '#406284',
-          link_color: '#000655',
-          default_mode: 'support',
-          forum_id: 194047,
-          topic_id: 41861,
-          tab_label: 'Feedback & Support',
-          tab_color: '#406284',
-          tab_position: 'middle-left',
-          tab_inverted: false
-        }]);
-      </script>
-    
-  
-
-  
-    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
-    <script src="//d36io9znxl3bhq.cloudfront.net/static/js/libs/jquery.mmenu.min.all.47178858dc9d.js"></script>
-    <script src="//cdn.pubnub.com/pubnub-3.6.4.min.js"></script>
-
-    <script type="text/javascript">
-      $(document).ready(function () {
-        $("#offcanvasnav").mmenu({
-          offCanvas: {
-            position: "right",
-            zposition: "front"
+    // typeahead.js initialization
+    $('#search').typeahead({ hint: false }, [
+      {
+        source: products.ttAdapter({
+          hitsPerPage: 3
+        }),
+        displayKey: 'title',
+        templates: {
+          header: '<div class="search-category">Products</div>',
+          suggestion: function (hit) {
+            return templateProduct.render(hit);
           }
-        });
-      });
-    </script>
-
-    
-
-    <script type="text/javascript" src="//d36io9znxl3bhq.cloudfront.net/static/js/libs/bootstrap.f546c1059309.js" charset="utf-8"></script>
-
-    <script src="//d36io9znxl3bhq.cloudfront.net/static/js/plugins.6a9e693999e3.js"></script>
-    <script src="//d36io9znxl3bhq.cloudfront.net/static/js/base.5a4b901ab2c7.js"></script>
-    <script src="//d36io9znxl3bhq.cloudfront.net/static/js/store/search.14e2bbb999f5.js"></script>
-
-    
-
-  
+        }
+      },
+      {
+        source: content.ttAdapter({
+          hitsPerPage: 2,
+          numericFilters: "public=1"
+        }),
+        displayKey: 'title',
+        templates: {
+          header: '<div class="search-category">Content</div>',
+          suggestion: function (hit) { return templateContent.render(hit); }
+        }
+      }
+    ]).bind('typeahead:selected', function (obj, datum, name) {
+      window.location = datum.url;
+    });
+  });
+</script>
 
   
 
@@ -471,11 +369,14 @@ As part of the California Online Privacy Protection Act, all users of our site m
     }());
   </script>
 
+
+    
     <!-- Segment.io Tracking  -->
     <script type="text/javascript">
       var analytics=analytics||[];analytics.load=function(e){var t=document.createElement("script");t.type="text/javascript",t.async=!0,t.src=("https:"===document.location.protocol?"https://":"http://")+"d2dq2ahtl5zl1z.cloudfront.net/analytics.js/v1/"+e+"/analytics.min.js";var n=document.getElementsByTagName("script")[0];n.parentNode.insertBefore(t,n);var r=function(e){return function(){analytics.push([e].concat(Array.prototype.slice.call(arguments,0)))}},i=["identify","track","trackLink","trackForm","trackClick","trackSubmit","pageview","ab","alias"];for(var s=0;s<i.length;s++)analytics[i[s]]=r(i[s])};
       analytics.load("fnbgmde");
     </script>
+    
 
     <!-- Tracking for Pardot -->
     <script type="text/javascript">
@@ -513,135 +414,213 @@ As part of the California Online Privacy Protection Act, all users of our site m
     </script>
 
 
+    <!-- Hotjar -->
+    <script>
+      (function(f,b){
+        var c;
+        f.hj=f.hj||function(){(f.hj.q=f.hj.q||[]).push(arguments)};
+        f._hjSettings={hjid:9939, hjsv:3};
+        c=b.createElement("script");c.async=1;
+        c.src="//static.hotjar.com/c/hotjar-9939.js?sv=3";
+        b.getElementsByTagName("head")[0].appendChild(c);
+      })(window,document);
+    </script>
+
+
+
 
 
 
 
 <script type="text/javascript">
-!function(e,t,n,r,i,s,o,u,a,f){e[i]=e[i]||{};e[i][s]=e[i][s]||function(e){f=e};a=function(){MarketfyToolkit.startSession(f, 'marketfy.com')};o=t.createElement(n);o.async=1;o.src=r;o.onload=a;u=t.getElementsByTagName(n)[0];u.parentNode.insertBefore(o,u)}(window,document,"script","//d36io9znxl3bhq.cloudfront.net/static/js/tracker.js","_mkfy","track");
+!function(e,t,n,r,i,s,o,u,a,f){e[i]=e[i]||{};e[i][s]=e[i][s]||function(e){f=e};a=function(){MarketfyToolkit.startSession(f, 'marketfy.com')};o=t.createElement(n);o.async=1;o.src=r;o.onload=a;u=t.getElementsByTagName(n)[0];u.parentNode.insertBefore(o,u)}(window,document,"script","//d36io9znxl3bhq.cloudfront.net/static/js/tracker.1ddae00a0366.js","_mkfy","track");
   _mkfy.track();
 </script>
-  <!-- Typeahead.js is used to display the auto-completion menu -->
-<script src="//cdnjs.cloudflare.com/ajax/libs/typeahead.js/0.10.4/typeahead.bundle.min.js"></script>
-<!-- Hogan.js is used to render the hits using Mustache.js templating -->
-<script src="//cdn.jsdelivr.net/hogan.js/3.0.0/hogan.common.js"></script>
-<!-- Algolia -->
-<script src="//cdn.jsdelivr.net/algoliasearch/latest/algoliasearch.min.js"></script>
-<script type="text/javascript">
-  $(function () {
-    var algolia = new AlgoliaSearch('MMYKC0E170', '36dcc9fef1338bfbbe68e22ed5eb7d0a');
-    
-      
-      var prefix = 'prod';
-      
-    
-    var posts = algolia.initIndex(prefix + '_blog');
-    var lessons = algolia.initIndex(prefix + '_lessons');
-    var products = algolia.initIndex(prefix + '_products');
 
-    var templatePost = Hogan.compile('<div class="result-post">' +
-        '<div class="result-title">\{\{\{ _highlightResult.title.value \}\}\}</div>' +
-        '<div class="result-author">\{\{\{ _highlightResult.author.name.value \}\}\}</div>' +
-        '</div>');
-    var templateLesson = Hogan.compile('<div class="result-lesson">' +
-        '<div class="result-title">\{\{\{ _highlightResult.title.value \}\}\}</div>' +
-        '<div class="result-author">\{\{\{ _highlightResult.author.name.value \}\}\}</div>' +
-        '</div>');
-    var templateProduct = Hogan.compile('<div class="result-product">' +
-        '<div class="result-title">\{\{\{ _highlightResult.name.value \}\}\}</div>' +
-        '<div class="result-author">\{\{\{ _highlightResult.author.name.value \}\}\}</div>' +
-        '</div>');
 
-    // typeahead.js initialization
-    $('#search').typeahead({ hint: false }, [
-      {
-        source: products.ttAdapter({
-          hitsPerPage: 3
-        }),
-        displayKey: 'title',
-        templates: {
-          header: '<div class="search-category">Products</div>',
-          suggestion: function (hit) {
-            return templateProduct.render(hit);
-          }
-        }
-      },
-      {
-        source: posts.ttAdapter({
-          hitsPerPage: 2,
-          numericFilters: "public=1"
-        }),
-        displayKey: 'title',
-        templates: {
-          header: '<div class="search-category">Posts</div>',
-          suggestion: function (hit) { return templatePost.render(hit); }
-        }
-      },
-      {
-        source: lessons.ttAdapter({
-          hitsPerPage: 2,
-          numericFilters: "public=1"
-        }),
-        displayKey: 'title',
-        templates: {
-          header: '<div class="search-category">Videos</div>',
-          suggestion: function (hit) {
-            return templateLesson.render(hit);
-          }
-        }
-      }
-    ]).bind('typeahead:selected', function (obj, datum, name) {
-      window.location = datum.url;
+  
+<script>
+    var sections = [],
+        links = $('.scroll-link');
+
+    $('section').each(function(i) {
+        sections.push($(this).offset().top);
     });
-  });
-</script>
-
-
-  
-  
-  
     
+    links.on('click', function(e) {
+        e.preventDefault();
 
+        var target = $($('section')[$(this).data('scroll')]);
 
-
-  
-
-<script type="text/javascript">
-    Modernizr.load([
-        // Presentational polyfills
-        {
-            // Border-radius and such
-            test : Modernizr.boxshadow && Modernizr.borderradius,
-            // Modernizr.load loads css and javascript by default
-            nope : ['//d36io9znxl3bhq.cloudfront.net/static/js/polyfills/css3.3d5c90150cdc.js'],
-            complete: function(){
-                $(function(){
-                    if (window.PIE) {
-                        $('.css3').each(function() {
-                            PIE.attach(this);
-                        });
-                    }
-                });
-            }
-        },
-        {
-            test: Modernizr.input.placeholder,
-            nope: [
-                '//d36io9znxl3bhq.cloudfront.net/static/css/placeholder.polyfill.ed219e0dcc41.css',
-                '//d36io9znxl3bhq.cloudfront.net/static/js/polyfills/placeholder.27e343cb1386.js'
-            ],
-            complete: function () {
-                if (!Modernizr.input.placeholder) {
-                    $('input, textarea').placeholder();
-                }
-
-            }
+        if (!$('body').is(':animated')) {
+            $('body').animate({
+              scrollTop: target.offset().top - 50
+            }, 700);
         }
-    ]);
+    });
+    $(window).scroll( function () {
+        var scrollpos = $(window).scrollTop() + 50,
+            navbox = $('.page__side-menu').offset().top - 20,
+            isfixed = $('.page__side-menu').hasClass('page__side-menu--fixed'),
+            currentHash = '#about';
+
+        if ( scrollpos >= navbox && !isfixed ){
+            $('.page__side-menu').addClass('page__side-menu--fixed');
+        }
+        else if( scrollpos < navbox && isfixed ){
+            $('.page__side-menu').removeClass('page__side-menu--fixed');
+        }
+
+
+        if (scrollpos < sections[1] && !$(links[0]).hasClass('active')) {
+            links.removeClass('active');
+            $(links[0]).addClass('active');
+        }
+        else if (scrollpos < sections[2] && scrollpos >= sections[1] && !$(links[1]).hasClass('active')) {
+            links.removeClass('active');
+            $(links[1]).addClass('active');
+        }
+        else if (scrollpos < sections[3] && scrollpos >= sections[2] && !$(links[2]).hasClass('active')) {
+            links.removeClass('active');
+            $(links[2]).addClass('active');
+        }
+        else if (scrollpos >= sections[3] && !$(links[3]).hasClass('active')) {
+            links.removeClass('active');
+            $(links[3]).addClass('active');
+        }
+
+        $('.hash').each(function () {
+            var distance = scrollpos - $(this).offset().top + 50;
+            var hash = $(this).attr('id');
+
+            if (distance < 30 && distance > -30 && currentHash != hash) {
+                if(history.replaceState) {
+                    history.replaceState(null, null, "#" + hash);
+                }
+                else {
+                    window.location.hash = hash;
+                }
+                currentHash = hash;
+            }
+        });
+
+    });
+
 </script>
 
 
+  
+  <script data-cfasync="false" type="text/javascript">
+  /*{literal}<![CDATA[*/
+  window.olark || (function (c) {
+    var f = window, d = document, l = f.location.protocol == "https:" ? "https:" : "http:", z = c.name, r = "load";
+    var nt = function () {
+      f[z] = function () {
+        (a.s = a.s || []).push(arguments)
+      };
+      var a = f[z]._ = {}, q = c.methods.length;
+      while (q--) {
+        (function (n) {
+          f[z][n] = function () {
+            f[z]("call", n, arguments)
+          }
+        })(c.methods[q])
+      }
+      a.l = c.loader;
+      a.i = nt;
+      a.p = {0: +new Date};
+      a.P = function (u) {
+        a.p[u] = new Date - a.p[0]
+      };
+      function s() {
+        a.P(r);
+        f[z](r)
+      }
+
+      f.addEventListener ? f.addEventListener(r, s, false) : f.attachEvent("on" + r, s);
+      var ld = function () {
+        function p(hd) {
+          hd = "head";
+          return["<", hd, "></", hd, "><", i, ' onl' + 'oad="var d=', g, ";d.getElementsByTagName('head')[0].", j, "(d.", h, "('script')).", k, "='", l, "//", a.l, "'", '"', "></", i, ">"].join("")
+        }
+
+        var i = "body", m = d[i];
+        if (!m) {
+          return setTimeout(ld, 100)
+        }
+        a.P(1);
+        var j = "appendChild", h = "createElement", k = "src", n = d[h]("div"), v = n[j](d[h](z)), b = d[h]("iframe"), g = "document", e = "domain", o;
+        n.style.display = "none";
+        m.insertBefore(n, m.firstChild).id = z;
+        b.frameBorder = "0";
+        b.id = z + "-loader";
+        if (/MSIE[ ]+6/.test(navigator.userAgent)) {
+          b.src = "javascript:false"
+        }
+        b.allowTransparency = "true";
+        v[j](b);
+        try {
+          b.contentWindow[g].open()
+        } catch (w) {
+          c[e] = d[e];
+          o = "javascript:var d=" + g + ".open();d.domain='" + d.domain + "';";
+          b[k] = o + "void(0);"
+        }
+        try {
+          var t = b.contentWindow[g];
+          t.write(p());
+          t.close()
+        } catch (x) {
+          b[k] = o + 'd.write("' + p().replace(/"/g, String.fromCharCode(92) + '"') + '");d.close();'
+        }
+        a.P(2)
+      };
+      ld()
+    };
+    nt()
+  })({loader: "static.olark.com/jsclient/loader0.js", name: "olark", methods: ["configure", "extend", "declare", "identify"]});
+  /* custom configuration goes here (www.olark.com/documentation) */
+  olark.identify('6195-893-10-4800');
+  /*]]>{/literal}*/
+  
+</script>
+  
+
+  
+  
+
+  <!-- UserVoice JavaScript SDK (only needed once on a page) -->
+  <script>(function () {
+    var uv = document.createElement('script');
+    uv.type = 'text/javascript';
+    uv.async = true;
+    uv.src = '//widget.uservoice.com/bgLbJRDGrdTa6gRk6vyNWQ.js';
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(uv, s)
+  })()</script>
+
+  <!-- A tab to launch the Classic Widget -->
+  <script>
+    UserVoice = window.UserVoice || [];
+    UserVoice.push(['showTab', 'classic_widget', {
+      mode: 'full',
+      primary_color: '#406284',
+      link_color: '#000655',
+      default_mode: 'support',
+      forum_id: 194047,
+      topic_id: 41861,
+      tab_label: 'Feedback & Support',
+      tab_color: '#406284',
+      tab_position: 'middle-left',
+      tab_inverted: false
+    }]);
+  </script>
+
+  
+  
+  <!-- Leave this here for now -->
+  <script type="text/javascript" src="//d36io9znxl3bhq.cloudfront.net/static/js/v3/navbar.c9dff11088ef.js"></script>
+  <script type="text/javascript" src="//d36io9znxl3bhq.cloudfront.net/static/js/v3/marketfy.821aa67e5de9.js"></script>
 
 
-
-<script src="https://js-agent.newrelic.com/nr-476.min.js"></script></body></html>
+</body></html>
