@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the exchangeserverpro.com privacy policy that was archived on 2014-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141204140324id_/http%3A//exchangeserverpro.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exchangeserverpro.com privacy policy that was archived on 2015-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150617040407id_/http%3A//exchangeserverpro.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
