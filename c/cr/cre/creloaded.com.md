@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the creloaded.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120123800id_/http%3A//loadedcommerce.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the creloaded.com privacy policy that was archived on 2015-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150618004034id_/http%3A//loadedcommerce.com/privacy-statement) for the most accurate reproduction.*
 
 # Loaded Commerce | Privacy Statement - Loaded Commerce
 
