@@ -1,13 +1,10 @@
-> *The following text is extracted and transformed from the johnstonefitness.com privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123050858id_/http%3A//www.johnstonefitness.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the johnstonefitness.com privacy policy that was archived on 2015-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150617021850id_/http%3A//www.johnstonefitness.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | John Stone Fitness
 
 You are here: [Home](http://www.johnstonefitness.com/) / Privacy Policy
 
 ### Privacy Policy
-
-  
-
 
 We recognize that privacy of your personal information is important. Below you will find detailed information on what types of personal information we receive and collect when you use and visit johnstonefitness.com, and how we safeguard your information. We never sell your personal information to third parties.
 
