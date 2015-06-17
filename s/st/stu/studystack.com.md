@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the studystack.com privacy policy that was archived on 2014-07-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140712194308id_/http%3A//www.studystack.com/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the studystack.com privacy policy that was archived on 2015-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150617144206id_/http%3A//www.studystack.com/privacy.jsp) for the most accurate reproduction.*
 
 # Study Stack - Privacy
 
@@ -8,11 +8,11 @@ StudyStack reserves the right to modify this policy statement at any time withou
 
 ## Personally Identifiable Information (PII)
 
-When a user signs up to join StudyStack, StudyStack will store the e-mail address entered into our database of users. StudyStack will not share your email address with any other company. However, by providing your email address, StudyStack will be able to contact you if necessary with information about the StudyStack web site. Your email address is primarily used for resetting your password if you ever forget it.
+When a user signs up to join StudyStack, StudyStack will store the e-mail address entered into our database of users. StudyStack will not sell your email address to any other company. However, by providing your email address, StudyStack will be able to contact you if necessary with information about the StudyStack web site. Your email address is primarily used for resetting your password if you ever forget it.
 
 The only time StudyStack requests a name to be entered is if a user upgrades to [StudyStack's PRO plan](https://web.archive.org/upgrade). This Upgrade page is not accessible to accounts that registerd as being 12 or younger. The information entered while subscribing to the PRO plan is not sent to studystack's servers but is transmitted to stripe.com for payment processing.
 
-StudyStack reserves the right to collect information regarding who entered what data. This allows StudyStack to notify the individual who entered a certain piece of information if it suspects that the information is incorrect.
+StudyStack reserves the right to collect information regarding who entered what data. This allows StudyStack to notify the individual who entered a certain piece of information if it suspects that the information is incorrect. If a copyright holder claims that information you entered infringes on their copyright, StudyStack may share your email address with them. 
 
 If you use facebook to connect to studystack, your name and facebook profile picture will be displayed on flashcard pages that you create. If you do not want this data displayed, do not use facebook to connect to studystack. 
 
