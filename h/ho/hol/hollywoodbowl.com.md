@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hollywoodbowl.com privacy policy that was archived on 2014-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140924063311id_/http%3A//www.hollywoodbowl.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hollywoodbowl.com privacy policy that was archived on 2015-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150618003007id_/http%3A//www.hollywoodbowl.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Hollywood Bowl
 
