@@ -1,100 +1,96 @@
-> *The following text is extracted and transformed from the bidderplace.com privacy policy that was archived on 2012-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121225102936id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bidderplace.com privacy policy that was archived on 2015-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150617034141id_/http%3A//www.bidderplace.com/privacy) for the most accurate reproduction.*
 
-# Legal Agreement
+# Privacy policy
 
-**Go Daddy Respects Your Privacy**
+**Effective Date: 01/01/2015**
 
-**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
+This privacy policy applies to www.bidderplace.com owned and operated by Bidderplace GmbH. BidderPlace (“we”, “us”) is committed to protecting the privacy of your personally identifiable information. We provide this privacy policy (“Privacy Policy”) in order to explain our online information practices and the choices you can make about the way your information is used by us. You must agree to this Privacy Policy, in its entirety, including our use of cookies in order to: register an account (“Account”) with the BidderPlace marketplace (“Marketplace”) and log-into your Account as member of the Marketplace. Your acceptance of both this Privacy Policy and our use of cookies on the Site shall be deemed a blanket acceptance of such Privacy Policy and cookie usage for all future attempts to log in and access your Account. If you do not agree to this Privacy Policy in its entirety, you are not authorized to register for an Account on the Marketplace.
 
-**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
+Privacy Policies Used in Connection with Your Subscription. When you register for an Account on the Marketplace, we use a password-protected third party portal to store your personal information, and we may share your personal information with such third party (“Third Party Agent”) as is necessary for the performance of your Account and the Marketplace.
 
-**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
+**Personally Identifiable Information**
 
-**Information Collection and Use**
+We collect personally identifiable information when you register for an Account or otherwise choose to provide personally identifiable information to us. Personally identifiable information is any information that can be used to identify or locate a particular person or entity. This may include, but is not limited to: business entity name and/or your title with the applicable business entity, as well as your personal and/or business entity related e-mail address, mailing address, daytime and/or cellular telephone numbers, fax number, account information (or other information that we require in order to pay any amounts due to you under the Marketplace) and/or any other information requested on the applicable Subscriber registration form. For purposes of this Privacy Policy, your account information shall be considered “Sensitive Information.”
 
-Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
+**Non-Personally Identifiable Information**
 
-We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
+We may collect certain non-personally identifiable information about you when you visit certain pages of this Site and/or register for an Account on the Marketplace, such as the type of browser you are using (e.g., Firefox, Internet Explorer, etc.), the type of operating system you are using, (e.g., Windows 8 or Mac OS) and the domain name of your Internet service provider (e.g., America Online, Earthlink), and share such information with our Third Party Agent. We use the non-personally identifiable information that we collect to improve the design and content of the Site and to enable us to personalize your Internet experience. We also may use this information in the aggregate to analyze Site usage. We do link this automatically-collected data to personally identifiable information.
 
-We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
+**Cookies and Other Tracking Technologies**
 
-We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
+To enhance your experience with the Site, we use “cookies.” You cannot register to the Subscription or log-in to the Marketplace without agreeing to accept the cookies that we use with the Site. For more specific information on the cookies we use, please see Exhibit A, below. Cookies are small packets of data stored on your computer. Cookies are used by your computer’s browser to store your preferences. Cookies, by themselves, do not tell us your email address or other personally identifiable information. We use both session ID cookies and persistent cookies. A session ID cookie expires when you close your browser. We use session cookies to understand Site usage and to improve the content and offerings on the Site. A persistent cookie remains on your hard drive for an extended period of time. [We set a persistent cookie to store your passwords, so you don’t have to enter it more than once if you so choose]. You may set your browser to warn you that cookies are in use, or to block the use of cookies. Most browsers are set to accept cookies. If your browser is not set to accept cookies, certain uses of the Site may require you to go to your browser user preferences to enable cookies. Each browser is different, so check the “Help” menu of your browser to learn how to change your cookie preferences. If you change computers, operating systems or browsers, or use multiple computers or browsers, you will need to repeat this process for each computer and each browser. To find out more about cookies, please visit www.cookiecentral.com.  
+We may additionally collect information using Web beacons, which are commonly referred to in the industry as web bugs, pixel tags or Clear GIFs. Web beacons are electronic images that may be used on the Site, in your Account, or in our emails to deliver cookies, count visits and determine if an email has been opened and acted upon. We tie the information gathered by clear gifs to our customers’ personally identifiable information.
 
-We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
+**End User Information**
 
-Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
+We do not collect personally identifiable information about your end users. However, we do use cookies and other cookie-less tracking methods to track anonymous traffic data about your end users. When end users who visit member affiliate sites click on the advertisement(s) they have chosen to display through their Accounts on the Marketplace, we will utilize cookies and/or postbacks to track such end users activities at our advertiser site(s).
 
-This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
+**Use of Information**
+
+We use your personally identifiable information: (a) to send you information regarding your Account and the Marketplace; (b) to track your compliance with the Terms and Conditions (“Terms and Conditions”); and/or (c) for validation, suppression, content improvement and feedback purposes. You agree that we, or our Third Party Agent, may contact you at any time with updates and/or any other information that we may deem appropriate for you to receive in connection with your Account on the Marketplace.
+
+**Information Sharing**
+
+As a general rule, and other than in connection with the limited exceptions set forth below, we will not sell, share or rent your personally identifiable information to or with others. Notwithstanding the foregoing, we may, from time to time, provide such information to certain third-party administrative vendors for efficiency purposes in providing administrative or program management services in connection with your Account. Any third-party vendor so used has agreed to protect the confidentiality of information provided by us and to use your personally identifiable information only as necessary to provide these services to us. Further, we reserve the right to share your personally identifiable information: (a) where required by law, such as to comply with a subpoena, or similar legal process or requested by a court of competent jurisdiction; (b) in the event of any reorganization, merger, sale, joint venture, assignment, transfer or other disposition of all or any portion of our business, assets or stock, you will be notified via email and/or a prominent notice on our Site of any change in ownership or uses of your personally identifiable information, as well as any choices you may have regarding your personally identifiable information; (c) where you are in violation of this Privacy Policy, the Terms and Conditions and/or Services Agreement; (d) in the case of a dispute; or (e) where we determine, in our sole discretion, that such disclosure is necessary to protect our rights and/or a third party, or necessary to protect us from liability of any kind, investigate fraud, or respond to a government request. The aforementioned includes exchanging information with other companies and organizations for fraud protection.
+
+**International Transfer of Data**
+
+As part of your membership in the Marketplace, we may transfer information that we collect about you and your end users, including personally identifiable information, to affiliated entities, or to other third parties across borders and from your country or jurisdiction to other countries or jurisdictions around the world. If you or your end users are located in the European Union or other regions with laws governing data collection and use that may differ from U.S. law, please note that you are transferring information and permitting the transfer of information, including personally identifiable information, to a country and jurisdiction that does not have the same data protection laws as your jurisdiction. You consent to the transfer of your information to the United States and the use and disclosure of information about you and your end users, including personally identifiable information, as described in this Privacy Policy.
+
+**Data Retention**
+
+Subject to any mandatory obligations to delete data, your information may be retained by us and in our Third Party Agent portal, server logs, databases and records indefinitely.
+
+**Third Party Links**
+
+The Site may contain links to third-party websites (“Third Party Websites”). Please be aware that we are not responsible for the privacy practices of Third Party Websites. We encourage you to be aware when you leave the Site and to read the privacy policies of each and every website that collects personally identifiable information. This Privacy Policy applies solely to information collected by the Site. 
+
+**Your Employees**
+
+Your acceptance of the terms of this Privacy Policy, in their entirety, shall extend to your employees, if any. You agree that any of your employees that access your Account, or visit the Site under the scope of their employment with you agree to the terms of this Privacy Policy.
+
+**Minors**
+
+We encourage parents and guardians to spend time online with their children and to participate and monitor the interactive activities of their children. We will never knowingly collect any personally identifiable information about individuals under eighteen (18) years of age. If we obtain actual knowledge that it we have collected personally identifiable information about an individual under eighteen (18) years of age, that information will be immediately deleted from its database.
 
 **Security**
 
-This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
+We endeavor to safeguard and protect our Account holders’ information. When Account holders submit personally identifiable information to the Marketplace, their personally identifiable information is protected both online and offline. When our registration process asks registrants to submit Sensitive Information (such as bank account information and/or credit card information), and when we transmit such Sensitive Information, that Sensitive Information is encrypted and protected with SSL encryption software. While we use SSL encryption to protect Sensitive Information online, we protect all other user information online and offline. The Third Party Agent servers that we utilize to store personally identifiable information in are kept in a secure physical environment. The Third Party Agent has security measures in place to protect the loss, misuse and alteration of personally identifiable information stored on its servers. Please be advised that, although we take every reasonable precaution available to protect your data, no data transmission over the Internet can be guaranteed to be 100% secure. Therefore, we cannot warrant that your information will be absolutely secure. Any transmission of data at or through our Site is at your own risk. However, access to your personally identifiable information is strictly limited, and not accessible to the public. Only employees, and third party agents, that need the information to perform a specific job are granted access to personally identifiable information. Our employees are dedicated to ensuring the security and privacy of all user information. Employees not adhering to our written firm policies are subject to disciplinary action. In compliance with applicable federal and state laws, we shall notify you and any applicable regulatory agencies in the event that we learn of an information security breach with respect to your personally identifiable information. You will be notified via email in the event of such a breach. Please be advised that notice may be delayed in order to address the needs of law enforcement, determine the scope of network damage, and to engage in remedial measures. You acknowledge that you provide your personally identifiable information to us with knowledgeable consent and at your own risk.
 
-**Updating Your Information**
+**Deleting and Updating Your Information**
 
-You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
+If you would like to delete or update the personally identifiable information that we have collected from you, simply email us at: hello@bidderplace.com. We will process your request, where possible and subject to the terms and conditions contained herein, within a reasonable period of time after receipt. To protect your privacy and security, we will take reasonable steps to help verify your identity before granting access or making corrections.
 
-        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
+**Opting Out of Receiving E-mail**
 
-       ii.      You may send mail to Go Daddy at the following postal address:   
-               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
+You may at any time choose to stop receiving emails containing general information or newsletters regarding BidderPlace by following the instructions at the end of each such email or by contacting us at hello@bidderplace.com. Should you be contacted by our Third Party Agent through email, you can follow the instructions at the end of each such email to stop receiving such emails. There may be a short delay of up to several business days while your request is being verified, deployed and processed across our servers. Notwithstanding the foregoing, we may continue to contact you for the purpose of communicating information relating to your Account, as well as to respond to any inquiry or request made by you.
 
-      iii.      You may call us at: (480) 505-8800
+**Notification of Changes**
 
-       iv.      You may fax us at: (480) 505-8844
+We reserve the right to change or update this Privacy Policy at any time by posting a clear and conspicuous notice on the Site explaining that we are changing our Privacy Policy. All Privacy Policy changes will take effect immediately upon their posting on the Site. Please check the Site periodically for any changes. Your continued use of the Site and/or acceptance of our email communications following the posting of changes to this Privacy Policy will constitute your acceptance of any and all changes. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices. 
 
-**Sending Emails**
+**Contact Us**
 
-We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
+If you have any questions regarding this Privacy Policy, or would like more information on our privacy practices, please contact us at: hello@bidderplace.com.
 
-The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
+#### **Exhibit A** More about cookies on www.bidderplace.com
 
-**Compliance with Laws and Law Enforcement**
+Using www.bidderplace.com requires the use of cookies. If you have do not want to accept the cookies for www.bidderplace.com or from any of our third parties, you won’t be able to use our service. We use a cookie to remember your cookie preferences this has a couple of consequences: If you delete all your cookies you will have to update your preferences with us again. If you use a different device, computer profile or browser you will have to tell us your preferences again. The cookies used on www.bidderplace.com are based on the International Chamber ofCommerce guide for cookie categories: Strictly necessary Performance Functionality For more information about cookies see the Further Reading link below.
 
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
+**Strictly Necessary**
 
-**Third Party Service Providers**
+‘Strictly Necessary’ cookies let you move around the website and log in to your secure account. These cookies don’t gather any information about you that could be used for marketing or remembering where you’ve been on the internet. We use these Strictly Necessary cookies to identify you as being logged in to www.bidderplace.com Remember things like information you’ve entered on forms when you navigate to different pages in a single web browser session. Help you use specific features like testing tracking links. Make sure you connect to the right service on our website when we make any changes to the way the website works ‘Strictly Necessary’ cookies will NOT be used to gather information that could be used to advertise products or services to you to remember your preferences or username beyond your current visit
 
-We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
+Accepting these cookies is a condition of using the website, so if you prevent these cookies we can’t guarantee your security or predict how our website will perform during your visit. Here is a list of the cookies we have defined as ‘strictly necessary’. www.bidderplace.com cookies: rack.session
 
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
+Cookies provided by 3rd parties: BidderPlace does not currently employ any strictly necessary cookies by third parties.
 
-**Supplementation of Information**
+Performance ‘Performance’ cookies collect information about how you use our website e.g. which pages you visit, and if you experience any errors. These cookies don’t collect any information that could identify you – all the information collected is anonymous and is only used to help us improve how our website works, understand what interests our users and measure how effective our advertising is. We use performance cookies to provide statistics on how our website is used. See how effective our adverts are (we don’t use this information to target adverts to you when you visit other websites Provide feedback to partners that one of our visitors also visited their website. This can include details of any products bought. This lets our partners improve their website, but we don’t allow our partners to reuse this information for further advertising Help us improve the website by measuring any errors that occur Test different designs of our website Cookies we have defined as ‘Performance’ cookies will NOT be used to remember your preferences or username beyond your current visit In some cases, some of these cookies are managed for us by third parties, but we don’t allow the third party to use the cookies for any purpose other than those listed above. Using our site indicates that you accept the use of ‘Performance’ cookies. Accepting these cookies is a condition of using the website, so if you prevent them we cannot guarantee how our site will perform for you. Here is a list of the cookies we have defined as ‘Performance’ www.bidderplace.com cookies _gat, _ga, _dc_gtm_UA-55683432-1.
 
-In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
+**Cookies provided by 3rd parties**
 
-**Contests/Surveys**
+BidderPlace currently employs performance cookies provided by third parties
 
-From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
+**Further Reading**
 
-We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
-
-**Tell-A-Friend**
-
-If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
-
-**What Happens to my Personal Information if I Opt Out?**
-
-If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information as necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
-
-**Transfer of Data Abroad**
-
-If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
-
-**Changes in Our Practices**
-
-We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
-
-If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
-
-**Contacting Our Site**
-
-If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
-
-* * *
-
-Go Daddy   
-ATTN: Web Team   
-14455 North Hayden Rd.   
-Suite 219   
-Scottsdale, AZ, 85260, U.S.A.
+Useful information about cookies can be found at: All about cookies: http://www.allaboutcookies.org Internet Advertising Bureau – A guide to behavioral advertising and online privacy has been produced by the internet advertising industry which can be found at: http://www.youronlinechoices.eu International Chamber of Commerce United Kingdom – Information on the icc (uk) uk cookie guide can be found on the icc website section: http://www.international-chamber.co.uk/our-expertise/digitaleconomy
