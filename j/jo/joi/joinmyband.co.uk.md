@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the joinmyband.co.uk privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702113425id_/http%3A//www.joinmyband.co.uk/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joinmyband.co.uk privacy policy that was archived on 2015-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150617125159id_/http%3A//www.joinmyband.co.uk/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Musicians Wanted Ads at Join My Band
 
