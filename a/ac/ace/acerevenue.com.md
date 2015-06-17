@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the acerevenue.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120105518id_/http%3A//www.acerevenue.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acerevenue.com privacy policy that was archived on 2015-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150617022321id_/http%3A//www.acerevenue.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Ace Revenue Online Casino Affiliate Privacy Policy
 
@@ -10,7 +10,7 @@ When opening an account, modifying an account or otherwise submitting informatio
 
 ## Web Site Usage
 
-Web site usage information, including the visitor's IP address, is automatically collected and stored when any of our online services are accessed. This information helps us evaluate how our visitors and subscribers use and navigate our content, including length of visit, frequency of visitors, site navigation, etc. Ace Revenue also uses “cookies�? to deliver faster and more convenient service to our partners as well as to detect and stop fraudulent transactions. A cookie is defined as any data that is automatically stored on a computer upon access to a website. All Ace Revenue cookies are under 5KB in size, do not contain any personal information and are only visible to our proprietary servers. 
+Web site usage information, including the visitor's IP address, is automatically collected and stored when any of our online services are accessed. This information helps us evaluate how our visitors and subscribers use and navigate our content, including length of visit, frequency of visitors, site navigation, etc. Ace Revenue also uses to deliver faster and more convenient service to our partners as well as to detect and stop fraudulent transactions. A cookie is defined as any data that is automatically stored on a computer upon access to a website. All Ace Revenue cookies are under 5KB in size, do not contain any personal information and are only visible to our proprietary servers. 
 
 **Ace Revenue may use the information collected in the following ways:**
 
