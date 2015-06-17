@@ -1,25 +1,85 @@
-<!--The following is the downloaded HTML source of the hotter.com privacy policy that was archived on 2014-12-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141228022621id_/http%3A//www.hotter.com/gb/en/info/FAQ-Privacy-Security) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the hotter.com privacy policy that was archived on 2015-06-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150618001238id_/https%3A//www.hotter.com/us/en/info/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" xml:lang="en"><head>
-	<!-- BEGIN CommonJSToInclude.jspf -->
+	<!-- BEGIN CommonJSToInclude.jspf --><!-- BEGIN RawEspotContent.jsp for Espot:tag_spot_head -->
 
-<script type="text/javascript" charset="UTF-8" src="/wcsstore7.00.00.375/dojo18/dojo/dojo.js" djconfig="parseOnLoad: true, isDebug: false,  modulePaths: {storetext: '/wcsstore7.00.00.375/HotterStorefrontAssetStore/'}, useCommentedJson: true,locale: 'en-gb' "></script>
-<script type="text/javascript" charset="UTF-8" src="/wcsstore7.00.00.375/dojo18/dojo/dojodesktop.js" djconfig="parseOnLoad: true, isDebug: false,  modulePaths: {storetext: '/wcsstore7.00.00.375/HotterStorefrontAssetStore/'}, useCommentedJson: true,locale: 'en-gb' "></script>
+<script src="//www.google-analytics.com/cx/api.js"></script>
+
+<script>
+   //random number between 0 and 9
+   function PPErandom()
+   {
+	   var min = 0;
+	   var max = 9;
+	   PPchoice = Math.floor(Math.random() * (max - min + 1)) + min;
+	   if (PPchoice == 9)
+	   {
+		   PPchoice = 0
+	   }
+	   else
+	   {
+		   PPchoice = 1
+	   }
+   }
+   
+  // 2. Choose the Variation for the Visitor
+  function PAYPAL_ON_OFF(variationpath)
+	{
+		if (variationpath == '1')
+			{
+				PPOnOff = 'On'
+			}
+		if (variationpath == '0')
+			{
+				PPOnOff = 'Off'
+			}
+		if (variationpath < '0' || variationpath > '1')
+			{
+				
+				PPErandom()
+				if (PPchoice == '1')
+					{
+						cxApi.setChosenVariation(1, 'jLim2LkwQ7CBXWQZhytdZA');
+						PPOnOff = 'On'
+					}
+				if (PPchoice == '0')
+					{
+						cxApi.setChosenVariation(0, 'jLim2LkwQ7CBXWQZhytdZA');
+						PPOnOff = 'Off'
+					}
+			}
+	}
+	
+	
+	var PPOnOff = 'NoData';
+	var PPchoice = 'NoData';
+	// Check if user has a variation and set if not
+	if(document.URL.indexOf("AjaxOrderItemDisplayView") >= 0 || document.URL.indexOf("OrderPaymentView") >= 0){ 
+		var variation = cxApi.getChosenVariation('jLim2LkwQ7CBXWQZhytdZA');
+		PAYPAL_ON_OFF(variation);
+	}
+</script>
+
+        
+<!-- END RawEspotContent.jsp -->
+
+<script type="text/javascript" charset="UTF-8" src="/wcsstore7.00.00.480/dojo18/dojo/dojo.js" djconfig="parseOnLoad: true, isDebug: false,  modulePaths: {storetext: '/wcsstore7.00.00.480/HotterStorefrontAssetStore/'}, useCommentedJson: true,locale: 'en-us' "></script>
+<script type="text/javascript" charset="UTF-8" src="/wcsstore7.00.00.480/dojo18/dojo/dojodesktop.js" djconfig="parseOnLoad: true, isDebug: false,  modulePaths: {storetext: '/wcsstore7.00.00.480/HotterStorefrontAssetStore/'}, useCommentedJson: true,locale: 'en-us' "></script>
 
 
 
-<meta name="CommerceSearch" content="storeId_10151">
+<meta name="CommerceSearch" content="storeId_10152">
 
 
-<link rel="shortcut icon" href="/wcsstore7.00.00.375/HotterStorefrontAssetStore/images/favicon.ico" mce_href="/wcsstore7.00.00.375/HotterStorefrontAssetStore/images/favicon.ico">
+<link rel="shortcut icon" href="/wcsstore7.00.00.480/HotterStorefrontAssetStore/images/favicon.ico" mce_href="/wcsstore7.00.00.480/HotterStorefrontAssetStore/images/favicon.ico">
 
 <script type="text/javascript">
 	// Convert the WCParam object which contains request properties into javascript object
 	var WCParamJS = {
-		"storeId":'10151',
-		"catalogId":'11551',
-		"langId":'44',
+		"storeId":'10152',
+		"catalogId":'12051',
+		"langId":'-1',
 		"pageView":'',
 		"orderBy":'',
 		"orderByContent":'',
@@ -27,7 +87,7 @@
 		"pageSize":''
 	};
 	var absoluteURL = "http://www.hotter.com/webapp/wcs/stores/servlet/";
-	var imageDirectoryPath = "/wcsstore7.00.00.375/HotterStorefrontAssetStore/";
+	var imageDirectoryPath = "/wcsstore7.00.00.480/HotterStorefrontAssetStore/";
 	var styleDirectoryPath = "images/colors/color1/";
 	var supportPaymentTypePromotions = false;
 	
@@ -42,7 +102,7 @@
 	
 	
 	// Store the amount of time of inactivity before a re-login is required, this value is retrieved from wc-server.xml, default is 30 mins
-	var inactivityTimeout = 1800000;
+	var inactivityTimeout = 0;
 	
 	// Store the amount of time the inactivity warning dialog will be displayed before it closes itself, default is 20 seconds
 	var inactivityWarningDialogDisplayTimer = 20000;
@@ -95,8 +155,8 @@
 	}
 </script>
 
-<script type="text/javascript" src="/wcsstore7.00.00.375/HotterStorefrontAssetStore/javascript/MessageHelper.js"></script>
-<script type="text/javascript" src="/wcsstore7.00.00.375/HotterStorefrontAssetStore/javascript/StoreCommonUtilities.js"></script>
+<script type="text/javascript" src="/wcsstore7.00.00.480/HotterStorefrontAssetStore/javascript/MessageHelper.js"></script>
+<script type="text/javascript" src="/wcsstore7.00.00.480/HotterStorefrontAssetStore/javascript/StoreCommonUtilities.js"></script>
 <script>
 	dojo.require("wc.service.common");
 	dojo.require("dojo.number");
@@ -116,7 +176,7 @@
 	 ie6 = (navigator.userAgent.toLowerCase().indexOf("msie 6.0") > -1); 
  }
  if (location.href.indexOf('UnsupportedBrowserErrorView') == -1 && ie6) {
-	 document.write('<meta http-equiv="Refresh" content="0;URL=http://www.hotter.com/shop/UnsupportedBrowserErrorView?catalogId=10001&amp;langId=44&amp;storeId=10151"/>');
+	 document.write('<meta http-equiv="Refresh" content="0;URL=http://www.hotter.com/shop/UnsupportedBrowserErrorView?catalogId=10001&amp;langId=-1&amp;storeId=10152"/>');
  }
 </script>
 
@@ -124,41 +184,39 @@
 
 <script type="text/javascript">
 	dojo.addOnLoad(function() { 
-		shoppingActionsJS.setCommonParameters('44','10151','11551','G','&pound;');
+		shoppingActionsJS.setCommonParameters('-1','10152','12051','G','$');
 	});
 </script>
 <!-- END CommonJSToInclude.jspf -->
-<script type="text/javascript" src="/wcsstore7.00.00.375/HotterStorefrontAssetStore/jquery/jquery-1.9.1.min.js"></script>
+<script type="text/javascript" src="/wcsstore7.00.00.480/HotterStorefrontAssetStore/jquery/jquery-1.9.1.min.js"></script>
 
   
-	<script type="text/javascript" src="/wcsstore7.00.00.375/HotterStorefrontAssetStore/jquery/jquery.elevatezoom.min.js"></script>
-    <script type="text/javascript" src="/wcsstore7.00.00.375/HotterStorefrontAssetStore/jquery/jquery-ui.js"></script>
-    <script type="text/javascript" src="/wcsstore7.00.00.375/HotterStorefrontAssetStore/jquery/jquery.jcarousel.min.js"></script>
+	<script type="text/javascript" src="/wcsstore7.00.00.480/HotterStorefrontAssetStore/jquery/jquery.elevatezoom.min.js"></script>
+    <script type="text/javascript" src="/wcsstore7.00.00.480/HotterStorefrontAssetStore/jquery/jquery-ui.js"></script>
+    <script type="text/javascript" src="/wcsstore7.00.00.480/HotterStorefrontAssetStore/jquery/jquery.jcarousel.min.js"></script>
   
 
-<script type="text/javascript" src="/wcsstore7.00.00.375/HotterStorefrontAssetStore/jquery/jquery.megamenu.js"></script>
-<script type="text/javascript" src="/wcsstore7.00.00.375/HotterStorefrontAssetStore/jquery/jquery.hotter.js"></script>
+<script type="text/javascript" src="/wcsstore7.00.00.480/HotterStorefrontAssetStore/jquery/jquery.megamenu.js"></script>
+<script type="text/javascript" src="/wcsstore7.00.00.480/HotterStorefrontAssetStore/jquery/jquery.hotter.js"></script>
 
 
 	
-	<link rel="stylesheet" href="/wcsstore7.00.00.375/HotterStorefrontAssetStore/css/common1_1.css" type="text/css">
-	<script type="text/javascript" src="/wcsstore7.00.00.375/HotterStorefrontAssetStore/javascript/Widgets/Search.js"></script>
-	<script type="text/javascript" src="/wcsstore7.00.00.375/HotterStorefrontAssetStore/javascript/Widgets/MiniShopCartDisplay/MiniShopCartDisplay.js"></script>
-	<script type="text/javascript" src="/wcsstore7.00.00.375/HotterStorefrontAssetStore/javascript/Widgets/Department/Department.js"></script>		
-	<script type="text/javascript" src="/wcsstore7.00.00.375/HotterStorefrontAssetStore/javascript/Common/ShoppingActions.js"></script>	
+	<link rel="stylesheet" href="/wcsstore7.00.00.480/HotterStorefrontAssetStore/css/common1_1.css" type="text/css">
+	<script type="text/javascript" src="/wcsstore7.00.00.480/HotterStorefrontAssetStore/javascript/Widgets/Search.js"></script>
+	<script type="text/javascript" src="/wcsstore7.00.00.480/HotterStorefrontAssetStore/javascript/Widgets/MiniShopCartDisplay/MiniShopCartDisplay.js"></script>
+	<script type="text/javascript" src="/wcsstore7.00.00.480/HotterStorefrontAssetStore/javascript/Widgets/Department/Department.js"></script>		
+	<script type="text/javascript" src="/wcsstore7.00.00.480/HotterStorefrontAssetStore/javascript/Common/ShoppingActions.js"></script>	
 			
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 	
 	<!-- BEGIN ESpotTitle_UI.jspf --><!-- END ESpotTitle_UI.jspf -->
 
-	</head><body><div id="FAQ-Privacy-SecurityCenter_Content_Metadata_50908" class="widget_height">
-		<title>Hotter Shoes UK - FAQ - Frequently Asked Questions - Privacy &amp; Security</title>
-<meta name="description" content="Hotter Shoes UK - FAQ - Frequently Asked Questions - Privacy &amp; Security">
-<meta name="keyword" content="FAQ, stylish shoes, shoe collection, comfort, Hotter Shoes, Privacy &amp; Security">
-<meta name="pageName" content="FAQ Privacy &amp; Security">
-<link rel="canonical" href="http://www.hotter.com/gb/en/info/FAQ-Privacy-Security">
-<link rel="alternate" hreflang="en-GB" href="http://www.hotter.com/gb/en/info/FAQ-Privacy-Security">
-<link rel="alternate" hreflang="en-US" href="http://www.hotter.com/us/en/info/FAQ-Privacy-Security">
+	</head><body><div id="privacy-policyCenter_Content_Metadata_91902" class="widget_height">
+		<title>Hotter Shoes USA - Privacy Policy</title>
+<meta name="description" content="Hotter Shoes USA - Privacy Policy<">
+<meta name="keyword" content=" stylish shoes, shoe collection, comfort, Hotter Shoes, Privacy &amp; Security, privacy policy">
+<meta name="pageName" content="Hotter Shoes USA - Privacy Policy">
+<link rel="canonical" href="http://www.hotter.com/us/en/info/privacy-policy">
 		<div class="clear_both"></div>
 	</div>
 	
@@ -168,13 +226,17 @@
 
 
 
-<!-- BEGIN CommonJSPFToInclude.jspf --><!-- BEGIN ProgressBar.jspf -->
+<!-- BEGIN CommonJSPFToInclude.jspf --><!-- BEGIN RawEspotContent.jsp for Espot:tag_spot_body -->
+
+
+        
+<!-- END RawEspotContent.jsp --><!-- BEGIN ProgressBar.jspf -->
 <div id="progress_bar_dialog" dojotype="dijit.Dialog" style="display: none;">
 	<div id="progress_bar">
 		<div id="loading_popup">
 		    <div class="bodyarea" id="WC_StoreCommonUtilities_div_4">
 				<div class="bodycontent" id="WC_StoreCommonUtilities_div_5">
-					<img src="/wcsstore7.00.00.375/HotterStorefrontAssetStore/images/colors/color1/loading.gif" border="0" alt="Your request is being processed.">
+					<img src="/wcsstore7.00.00.480/HotterStorefrontAssetStore/images/colors/color1/loading.gif" border="0" alt="Your request is being processed.">
 			    </div>
 			</div>
 		</div>
@@ -195,8 +257,8 @@
 		
 		<div class="message">
 			<div class="message_icon">
-				<img id="error_icon" style="display:none;" class="error_icon" src="/wcsstore7.00.00.375/HotterStorefrontAssetStore/images/colors/color1/error_icon.png" alt="">
-				<img id="success_icon" style="display:none;" class="error_icon" src="/wcsstore7.00.00.375/HotterStorefrontAssetStore/images/colors/color1/success_icon.png" alt="">
+				<img id="error_icon" style="display:none;" class="error_icon" src="/wcsstore7.00.00.480/HotterStorefrontAssetStore/images/colors/color1/error_icon.png" alt="">
+				<img id="success_icon" style="display:none;" class="error_icon" src="/wcsstore7.00.00.480/HotterStorefrontAssetStore/images/colors/color1/success_icon.png" alt="">
 			</div>
 			<div class="message_text" role="region" aria-required="true" aria-labelledby="MessageArea">
 				<span id="ErrorMessageText">
@@ -277,11 +339,11 @@
 			<div class="content_left_border">
 				<div class="content_right_border">
 					<div class="content">
-						<a role="button" id="inactivityWarningPopup_close" class="close_acce" title="CLOSE" href="javascript:void(0);" onclick="dijit.byId('inactivityWarningPopup').hide(); if (dialogTimeoutTracker != null) {clearTimeout(dialogTimeoutTracker);}"><img role="button" onmouseover="this.src='/wcsstore7.00.00.375/HotterStorefrontAssetStore/images/colors/color1/close_hover.png'" onmouseout="this.src='/wcsstore7.00.00.375/HotterStorefrontAssetStore/images/colors/color1/close_normal.png'" src="/wcsstore7.00.00.375/HotterStorefrontAssetStore/images/colors/color1/close_normal.png" class="closeImg" alt="CLOSE"></a>
+						<a role="button" id="inactivityWarningPopup_close" class="close_acce" title="CLOSE" href="javascript:void(0);" onclick="dijit.byId('inactivityWarningPopup').hide(); if (dialogTimeoutTracker != null) {clearTimeout(dialogTimeoutTracker);}"><img role="button" onmouseover="this.src='/wcsstore7.00.00.480/HotterStorefrontAssetStore/images/colors/color1/close_hover.png'" onmouseout="this.src='/wcsstore7.00.00.480/HotterStorefrontAssetStore/images/colors/color1/close_normal.png'" src="/wcsstore7.00.00.480/HotterStorefrontAssetStore/images/colors/color1/close_normal.png" class="closeImg" alt="CLOSE"></a>
 						<div class="clear_float"></div>
 						<div id="inactivityWarningPopup_body" class="body">
 							<div class="message_icon left">
-								<img class="error_icon" src="/wcsstore7.00.00.375/HotterStorefrontAssetStore/images/colors/color1/warning_icon.png" alt="Warning">
+								<img class="error_icon" src="/wcsstore7.00.00.480/HotterStorefrontAssetStore/images/colors/color1/warning_icon.png" alt="Warning">
 							</div>
 							
 							
@@ -348,12 +410,571 @@
 							<div id="widget_masthead_logo1">
 								<!-- BEGIN ESpotTitle_UI.jspf --><!-- END ESpotTitle_UI.jspf -->
 
-	<div id="ems_hotter_logo_17902" class="widget_height">
-		<script type="text/javascript">
-	 document.write('<a href="http://' + document.location.hostname + '/gb/en" ><img src="/wcsstore/HotterStorefrontAssetStore/content/images/homepage/Header/Hotter-Logo-RED.jpg" /></a>');
-</script><a href="http://web.archive.org/gb/en"><img src="/wcsstore/HotterStorefrontAssetStore/content/images/homepage/Header/Hotter-Logo-RED.jpg"></a>
+	<div id="ems_hotter_logo_25401" class="widget_height">
+		<style type="text/css">
+
+#payapalCheckout {display:none;}
+#pay_by_paypal {display:none;}
+
+/*body {
+background-image:url(/wcsstore/HotterStorefrontAssetStore/content/images/homepage/Header/Dark-Grey-1p.gif), url(/wcsstore/HotterStorefrontAssetStore/content/images/homepage/Header/bck-test-light.gif), url(/wcsstore/HotterStorefrontAssetStore/content/images/homepage/Header/bck-b1aba9.gif);
+background-repeat:no-repeat;
+background-color:#ffffff;
+background-size: 100% 96px, 100% 133px, 100% 158px;
+}*/
+
+body {
+background-image:url(/wcsstore/HotterStorefrontAssetStore/content/images/homepage/Header/full-bck.gif);
+/*background-repeat:no-repeat;*/
+background-repeat:repeat-x;
+background-color:#ffffff;
+/*background-size:100% 158px;*/
+}
+
+
+#masthead > .content {
+    height: 80px;
+    position: relative;
+    width: 100%;
+	background-color:#7e7675;
+}
+
+div#widget_masthead_links div.masthead_links span.masthead_links_container span.masthead_links_item a {
+    color: #ffffff;
+    font-size: 11px;
+    text-decoration: none;
+}
+
+#widget_minishopcart div.miniShopCarttitle a {
+    color: #ffffff;
+    font-family: "Times New Roman",Times,serif;
+    font-size: 18px;
+    font-weight: normal;
+    text-transform: none;
+}
+#minishopcart_total, #minishopcart_subtotal{
+	color:#ffffff;
+}
+
+
+div#widget_masthead_links div.masthead_links span.masthead_links_container span.masthead_links_item {
+    color: #ffffff;
+    display: inline;
+}
+
+
+.jsEnabled #masthead > .navigation {
+    padding-bottom: 26px;
+    padding-top: 16px;
+    background-color: #7e7675;
+}
+#masthead > .navigation {
+    height: 11px;
+	padding-bottom: 26px;
+    padding-top: 16px;
+    /*padding: 16px 0px 18px;*/
+    width: 930px;
+	background-color: #7e7675;
+}
+ul.megamenu {
+    padding: 0 0 0 68px;
+    list-style: outside none none;
+    background: none repeat scroll 0% 0% #efefef;
+}
+
+ul.megamenu li.mm-item {
+    margin-top: -6px;
+    color: #ffffff;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:13px;
+}
+ul.megamenu a.mm-item-link:link, ul.megamenu a.mm-item-link:visited {
+    position: relative;
+    display: inline-block;
+    color: #7e7675;
+    margin: 0px;
+    text-decoration: none;
+    z-index: 10;
+    font-size: 14px;
+}
+div#widget_search > div.left_border {
+    float: left;
+    height: 25px;
+    width: 4px;
+	background-color:#ffffff;
+}
+div#widget_search > div.right_border {
+    float: left;
+    height: 25px;
+    width: 5px;
+	background-color:#ffffff;
+}
+div#widget_search {
+    border: 1px solid #CCC;
+    height: 25px;
+	background-color:#ffffff;
+}
+div#widget_minishopcart > div.content > div.info > .cart {
+    font-size: 12px;
+    vertical-align: middle;
+    line-height: 16px;
+}
+div#widget_minishopcart > div.content > div.info > .subtotal {
+    color: #58595B;
+    font-size: 12px;
+    line-height: 16px;
+    margin-left: 3px;
+    vertical-align: middle;
+}
+#miniShopCartBody .info div.goToCheckout {
+    display: block;
+    padding-top: 2px;
+    width: 100px;
+    float: right;
+}
+div#widget_masthead_links div.masthead_social {
+    height: 63px;
+    padding: 5px 20px 5px 0px;
+    position: absolute;
+    right: 200px;
+    top: 32px;
+    z-index: 100;
+}
+div#widget_minishopcart {
+	background:none;
+}
+
+div.widget_masthead_logo_position {
+    left: 0px;
+    position: absolute;
+    top: 8px;
+}
+div#widget_minishopcart > div.content > div.info {
+    margin-top: 5px;
+}
+/*Added March 2015*/
+div.widget_search_position {
+    bottom: 18px;
+    height: 32px;
+    position: absolute;
+    right: 344px;
+}
+
+.jsEnabled div.widget_search_position {
+    bottom: 55px;
+    height: 32px;
+    position: absolute;
+    right: 344px;
+}
+div.widget_departments_position a {
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:13px;
+	padding-top: 14px;
+}
+
+ul.megamenu li span.divider {
+    margin: 0px 14px 0px 14px;
+    color: #efefef;
+}
+.button_add_to_cart > .button_text, .button_text {
+    background: none repeat scroll 0px 0px #a5c842;
+}
+div#widget_search > div.content .all_departments {
+    display: none;
+}
+div#widget_search > div.content {
+    min-width: 200px;
+}
+#miniShopCartBody .info div.goToCheckout .button_text {
+    text-transform: uppercase;
+}
+
+ul.megamenu a.mm-item-link-hover:link, ul.megamenu a.mm-item-link-hover:visited {
+  color: #444;
+  background:url(../images/dropDownArrow.jpg) 50% 24px no-repeat;
+  background:none;
+}
+div#widget_search > div.content input.search_input {
+    width: 200px;
+}
+.button_add_to_cart:hover > .button_text {
+    background: none repeat scroll 0px 0px #a5c842;
+    color: #FFF;
+}
+.button_add_to_cart:hover > .left_border {
+    background: none repeat scroll 0px 0px #a5c842;
+}
+
+.button_add_to_cart:hover > .right_border {
+    background: none repeat scroll 0px 0px #a5c842;
+}
+.button_add_to_cart > .left_border {
+    background: none repeat scroll 0px 0px #a5c842;
+    float: left;
+    height: 41px;
+    width: 2px;
+}
+.button_add_to_cart > .right_border {
+    background: none repeat scroll 0px 0px #a5c842;
+    float: left;
+    height: 41px;
+    width: 2px;
+}
+/*#ui-id-3
+{
+	display:none;
+}
+.ui-state-default, .ui-widget-content .ui-state-default, .ui-widget-header .ui-state-default {
+    background: none repeat scroll 0% 0% #ffffff;
+    font-weight: normal;
+    color: #58595B;
+}*/
+#autoSuggest_Result_div
+{
+position: relative;
+top: -54px;
+left: -323px;
+}
+</style>
+
+<script type="text/javascript">
+//jQuery(".button_text:contains('Checkout >')").css("background-color","#a5c842");
+//jQuery(".button_text:contains('Checkout >')").css("color","#ffffff");
+</script><script src="/wcsstore/HotterStorefrontAssetStore/content/js/ouibounce-modUS.js"></script>
+
+<style type="text/css">
+#ouibounce-modal {
+  font-family: 'Open Sans', sans-serif;
+  display: none;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index:11000;
+}
+#ouibounce-modal .underlay {
+  width: 100%;
+  height: 100%;
+  position: fixed;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  left: 0px;
+  background-color: rgba(0,0,0,0.5);
+  cursor: pointer;
+  -webkit-animation: fadein 0.5s;
+  animation: fadein 0.5s;
+  z-index: 11009;
+  
+}
+#ouibounce-modal .modal {
+  width: 647px;
+  height: 472px;
+  z-index: 1;
+  position: absolute;
+  margin: auto;
+  top: 0;
+  right: 0;
+  left: 0;
+  bottom: 0;
+  border-radius: 0px;
+  -webkit-animation: popin 0.3s;
+  animation: popin 0.3s;
+  z-index: 11010;
+}
+@-webkit-keyframes fadein {
+  0% {
+    opacity: 0;
+  }
+
+  100% {
+    opacity: 1;
+  }
+}
+@-ms-keyframes fadein {
+  0% {
+    opacity: 0;
+  }
+
+  100% {
+    opacity: 1;
+  }
+}
+@keyframes fadein {
+  0% {
+    opacity: 0;
+  }
+
+  100% {
+    opacity: 1;
+  }
+}
+@-webkit-keyframes popin {
+  0% {
+    -webkit-transform: scale(0);
+    transform: scale(0);
+    opacity: 0;
+  }
+
+  85% {
+    -webkit-transform: scale(1.05);
+    transform: scale(1.05);
+    opacity: 1;
+  }
+
+  100% {
+    -webkit-transform: scale(1);
+    transform: scale(1);
+    opacity: 1;
+  }
+}
+@-ms-keyframes popin {
+  0% {
+    -ms-transform: scale(0);
+    transform: scale(0);
+    opacity: 0;
+  }
+
+  85% {
+    -ms-transform: scale(1.05);
+    transform: scale(1.05);
+    opacity: 1;
+  }
+
+  100% {
+    -ms-transform: scale(1);
+    transform: scale(1);
+    opacity: 1;
+  }
+}
+@keyframes popin {
+  0% {
+    -webkit-transform: scale(0);
+    -ms-transform: scale(0);
+    transform: scale(0);
+    opacity: 0;
+  }
+
+  85% {
+    -webkit-transform: scale(1.05);
+    -ms-transform: scale(1.05);
+    transform: scale(1.05);
+    opacity: 1;
+  }
+
+  100% {
+    -webkit-transform: scale(1);
+    -ms-transform: scale(1);
+    transform: scale(1);
+    opacity: 1;
+  }
+}
+
+#ExitBox { width:647px; height:472px;}
+.EBoxCopyHold {width:647px; height:431px; background-image:url(/wcsstore/HotterStorefrontAssetStore/content/images/StaticPages/ExitPop/Sign-Up-box-back.jpg); clear:both;}
+EBoxCopy {}
+#control_EMAIL {
+	background-image:url(/wcsstore/HotterStorefrontAssetStore/content/images/StaticPages/ExitPop/emailbox2.png);
+    width: 224px;
+    height: 35px;
+    background-repeat: no-repeat;
+    background-color: transparent;
+    line-height: 35px;
+    color: #58595B;
+    border: 0px solid #FFF;
+    display: block;
+    float: left;
+}
+.Eboxclose {cursor:pointer;}
+.hidei { position:absolute; top:-1px; left:-1px; width:1px; height:1px; }
+</style>
+
+<script type="text/javascript">
+function echeck(str) {
+
+		var at="@"
+		var dot="."
+		var lat=str.indexOf(at)
+		var lstr=str.length
+		var ldot=str.indexOf(dot)
+		if (str.indexOf(at)==-1){
+		   jQuery('.EBoxCopy').html('<img style="padding:27px 0 20px 32px" src="/wcsstore/HotterStorefrontAssetStore/content/images/StaticPages/ExitPop/oops.png" alt="Oops" height="190" width="292">')
+		   //alert("Invalid Email Address")
+		   return false
+		}
+
+		if (str.indexOf(at)==-1 || str.indexOf(at)==0 || str.indexOf(at)==lstr){
+			jQuery('.EBoxCopy').html('<img style="padding:27px 0 20px 32px" src="/wcsstore/HotterStorefrontAssetStore/content/images/StaticPages/ExitPop/oops.png" alt="Oops" height="190" width="292">')
+		   //alert("Invalid Email Address")
+		   return false
+		}
+
+		if (str.indexOf(dot)==-1 || str.indexOf(dot)==0 || str.indexOf(dot)==lstr){
+			jQuery('.EBoxCopy').html('<img style="padding:27px 0 20px 32px" src="/wcsstore/HotterStorefrontAssetStore/content/images/StaticPages/ExitPop/oops.png" alt="Oops" height="190" width="292">')
+		    //alert("Invalid Email Address")
+		    return false
+		}
+
+		 if (str.indexOf(at,(lat+1))!=-1){
+			 jQuery('.EBoxCopy').html('<img style="padding:27px 0 20px 32px" src="/wcsstore/HotterStorefrontAssetStore/content/images/StaticPages/ExitPop/oops.png" alt="Oops" height="190" width="292">')
+		    //alert("Invalid Email Address")
+		    return false
+		 }
+
+		 if (str.substring(lat-1,lat)==dot || str.substring(lat+1,lat+2)==dot){
+			 jQuery('.EBoxCopy').html('<img style="padding:27px 0 20px 32px" src="/wcsstore/HotterStorefrontAssetStore/content/images/StaticPages/ExitPop/oops.png" alt="Oops" height="190" width="292">')
+		    //alert("Invalid Email Address")
+		    return false
+		 }
+
+		 if (str.indexOf(dot,(lat+2))==-1){
+			 jQuery('.EBoxCopy').html('<img style="padding:27px 0 20px 32px" src="/wcsstore/HotterStorefrontAssetStore/content/images/StaticPages/ExitPop/oops.png" alt="Oops" height="190" width="292">')
+		    //alert("Invalid Email Address")
+		    return false
+		 }
+		
+		 if (str.indexOf(" ")!=-1){
+			 jQuery('.EBoxCopy').html('<img style="padding:27px 0 20px 32px" src="/wcsstore/HotterStorefrontAssetStore/content/images/StaticPages/ExitPop/oops.png" alt="Oops" height="190" width="292">')
+		    //alert("Invalid Email Address")
+		    return false
+		 }
+
+ 		 return true					
+	}
+	
+function submitIfFormComplete()
+{
+  if (ValidateForm())
+  {
+	  
+	  jQuery( "#Eboxnewsform" ).submit();
+	  pageTracker._trackEvent("Form Submission", "Email Signup", "Exit Intent Box", 0, true);
+	  setTimeout(
+  function() 
+  {
+    	  jQuery('.EBoxSignup').html('<a href="/us/en/forms/CatalogRequest"><img src="/wcsstore/HotterStorefrontAssetStore/content/images/StaticPages/ExitPop/requestbro.png" alt="Request a Catalogue" width="223" height="35" border="0" style="margin:0px 0 0px 32px"></a>')
+	      jQuery('.EBoxCopy').html('<img style="padding:27px 0 20px 32px" src="/wcsstore/HotterStorefrontAssetStore/content/images/StaticPages/ExitPop/thankyou.png" alt="Thank You" height="201" width="405">')
+  }, 2000);
+  }
+}
+
+function ValidateForm(){
+	var emailID=document.getElementById("control_EMAIL")
+	
+	if ((emailID.value==null)||(emailID.value=="")){
+		jQuery('.EBoxCopy').html('<img style="padding:27px 0 20px 32px" src="/wcsstore/HotterStorefrontAssetStore/content/images/StaticPages/ExitPop/oops.png" alt="Oops" height="190" width="292">')
+		//alert("Please Enter your Email Address")
+		emailID.focus()
+		return false
+	}
+	if (echeck(emailID.value)==false){
+		emailID.value=""
+		emailID.focus()
+		return false
+	}
+	
+	return true
+ }
+</script>
+<iframe name="hiddenFrame" class="hidei"></iframe>
+<!-- OuiBounce Modal -->
+    <div id="ouibounce-modal">
+      <div class="underlay"></div>
+      <div class="modal">
+        
+        
+        <div id="ExitBox">
+	<div class="Eboxclose">
+    	<div style="float:left;"><img src="/wcsstore/HotterStorefrontAssetStore/content/images/StaticPages/ExitPop/Close-1.png" width="542" height="41" alt="Close"></div>
+        <div style="float:left;"><img src="/wcsstore/HotterStorefrontAssetStore/content/images/StaticPages/ExitPop/Close-2.jpg" width="105" height="41" alt="Close"></div>
+    </div>
+    <div class="EBoxCopyHold">
+    	<div class="EBoxCopy"><img style="padding:27px 0 20px 32px" src="/wcsstore/HotterStorefrontAssetStore/content/images/StaticPages/ExitPop/signupc.png" width="351" height="174" alt="Sign Up"></div>
+        <div class="EBoxSignup">
+        <form method="post" action="http://www.pages04.net/beaconsfield-footwear/popsignuk/SignUpExitUK" pageid="19562933" siteid="409240" parentpageid="19562932" id="Eboxnewsform" target="hiddenFrame">
+            <div style="float:left; margin-left:32px; height:35px; width:11px; line-height:35px;"><img style="margin-top:0px" src="/wcsstore/HotterStorefrontAssetStore/content/images/StaticPages/ExitPop/emailboxEND.png" width="11" height="35"></div>
+			<input onfocus="this.value='';" value="Enter your email address" type="text" name="Email" id="control_EMAIL" label="Email" class="textInput defaultText" style="height: 35px; width: 213px;">
+            <input type="hidden" name="Country Code" id="control_COLUMN9" label="Country Code" value="US" class="textInput defaultText">
+			<input type="hidden" name="Mailable" id="control_COLUMN20" label="Mailable" value="1" class="textInput defaultText">
+			<input type="hidden" name="Subscriber Flag" id="control_COLUMN43" label="Subscriber Flag" value="1" class="textInput defaultText">  
+            <input type="hidden" name="SingleClickNews" id="control_COLUMN45" label="SingleClickNews" value="Exit Box US" class="textInput defaultText">         
+        	<input style="float:left; position:relative; left:-2px" type="image" src="/wcsstore/HotterStorefrontAssetStore/content/images/StaticPages/ExitPop/signup.png" onclick="submitIfFormComplete(); return false;" value="">
+			<input type="hidden" name="formSourceName" value="StandardForm"><input type="hidden" name="sp_exp" value="yes">
+    	</form>
+        </div>
+    </div>
+</div>
+        
+        
+      </div>
+    </div>
+
+<!-- Example page JS        -->
+    <!-- Used to fire the modal -->
+    <script type="text/javascript">
+      var ExitBoxOnOff = 'NoData';
+	  var EBchoice = 'NoData';
+	  var variationEB = '1';
+	  //var variationEB = cxApi.getChosenVariation('xzBOKQFERNeqUjRXfbQ36A');
+	  console.log('variationEB pre js = ' + variationEB);
+	  jQuery( document ).ready(function() {
+	  
+	  //alert(variationEB)
+	  //var variationEB = -1
+	  // if you want to use the 'fire' or 'disable' fn,
+      // you need to save OuiBounce to an object	
+	  
+	  var checklog = 'Sign In/Register'
+      if (jQuery('#SignInLink').html() == checklog)
+	  {
+	  	var _ouibounce = ouibounce(document.getElementById('ouibounce-modal'), {
+        	aggressive: false,
+        	timer: 1500,
+			cookieExpire: 30,
+        	callback: function() 
+				{
+					pageTracker._trackEvent("Light Box", "Exit Intent Box Display", "Newsletter Signup", 0, false);
+					console.log('ouibounce fired!');
+					//alert('Call back function ON/OFF = ' + ExitBoxOnOff)
+					if (ExitBoxOnOff == 'On')
+					{
+						//cxApi.setChosenVariation(1, 'xzBOKQFERNeqUjRXfbQ36A');
+						console.log('cxApi On! 1');
+					}
+					if (ExitBoxOnOff == 'Off')
+					{
+						//cxApi.setChosenVariation(0, 'xzBOKQFERNeqUjRXfbQ36A');
+						console.log('cxApi Off! 0');
+					}
+				}
+      	});
+	  }  
+	  
+	  });
+	  
+	  
+	  
+	  jQuery('.Eboxclose').on('click', function() {
+		jQuery('#ouibounce-modal').hide();
+      });
+	  
+      jQuery('body').on('click', function() {
+        jQuery('#ouibounce-modal').hide();
+      });
+
+      jQuery('#ouibounce-modal .modal-footer').on('click', function() {
+        jQuery('#ouibounce-modal').hide();
+      });
+
+      jQuery('#ouibounce-modal .modal').on('click', function(e) {
+        e.stopPropagation();
+      });
+    </script><script type="text/javascript">
+	 document.write('<a href="http://' + document.location.hostname + '/us/en" ><img src="/wcsstore/HotterStorefrontAssetStore/content/images/homepage/Header/Hotter-Logo-lgrv2.png" /></a>');
+</script><a href="http://web.archive.org/us/en"><img src="/wcsstore/HotterStorefrontAssetStore/content/images/homepage/Header/Hotter-Logo-lgrv2.png"></a>
 <noscript>
-     <a href="/gb/en" ><img src="/wcsstore/HotterStorefrontAssetStore/content/images/homepage/Header/Hotter-Logo-RED.jpg" /></a>
+     <a href="/us/en" ><img src="/wcsstore/HotterStorefrontAssetStore/content/images/homepage/Header/Hotter-Logo-lgrv2.png" /></a>
 </noscript>
 		<div class="clear_both"></div>
 	</div>
@@ -371,20 +992,40 @@
 									<div class="masthead_links">
 										<div class="content">
 											<span class="masthead_links_container">
-												<span class="masthead_links_item"><a id="" href="http://www.hotter.com/shop/TopCategoriesDisplay?storeId=10151&amp;urlRequestType=Base&amp;langId=44&amp;catalogId=11551">Home</a></span> |
-												<span class="masthead_links_item"><a id="SignInLink" href="https://www.hotter.com/shop/LogonForm?catalogId=11551&amp;myAcctMain=1&amp;langId=44&amp;storeId=10151">Sign In/Register</a></span> |
-												<span class="masthead_links_item"><a id="" href="https://www.hotter.com/shop/AjaxLogonForm?catalogId=11551&amp;myAcctMain=1&amp;langId=44&amp;storeId=10151">My Account</a></span> |
+												<span class="masthead_links_item"><a id="" href="http://www.hotter.com/us/en">Home</a></span> |
+												
+												<span class="masthead_links_item">
+													<span id="AjaxLoginLogoutLinks"></span>
+
+<script type="text/javascript">
+	dojo.xhrGet({
+		url: getAbsoluteURL() + "AjaxLoginLogoutLinksView",				
+		handleAs: "text",
+		content: WCParamJS,
+		load: function (data) {
+			
+			document.getElementById("AjaxLoginLogoutLinks").innerHTML = data;
+		},
+		error: function(errObj,ioArgs) {
+			console.debug("LoginLogoutLink: Unexpected error occurred during an xhrGet request.");
+		}
+	});
+</script>
+												</span> 
+												
+												|
+												<span class="masthead_links_item"><a id="" href="https://www.hotter.com/shop/AjaxLogonForm?catalogId=12051&amp;myAcctMain=1&amp;langId=-1&amp;storeId=10152">My Account</a></span> |
 												 
 												
 												<span class="masthead_links_item ems_country">
 												<!-- BEGIN ESpotTitle_UI.jspf --><!-- END ESpotTitle_UI.jspf -->
 
-	<div id="ems_country_11253" class="widget_height">
+	<div id="ems_country_15409" class="widget_height">
 		<style type="text/css">
 .Topmaincopy {line-height: 1.2em;}
 #Section_Head_WRoound {float:left; margin:0 0 0 14px;}
 
-#flagdrop {display:none; width:52px; z-index:9999; position:relative; background-color:#ffffff;}
+#flagdrop {display:none; width:52px; z-index:9998; position:absolute; background-color:#ffffff;}
 .dropperflags {padding:0 0 0 0; vertical-align:top;}
 .headpipesep {font-family:Arial, Helvetica, sans-serif;}
 #UKFlag { cursor:pointer;}
@@ -395,23 +1036,26 @@ div#widget_masthead_links div.masthead_links span.masthead_links_container {
     margin-top: 3px;
 }
 
+.widget_masthead_links_position
+{
+	z-index:9999;
+}
 
 </style>
 
-<div id="linkflaghold">
-	<a href="http://web.archive.org/gb/en/info/AboutUs">About Us</a><span style="color:#D9DEDF;"> | </span>
-    <a href="http://web.archive.org/gb/en/forms/CatalogRequest?utm_source=MainSite&amp;utm_medium=Link&amp;utm_campaign=CatReqTopHead">Request a Catalogue</a><span style="color:#D9DEDF;"> | </span>
-    <a href="http://web.archive.org/gb/en/info/Contact-Us">Contact Us</a><span style="color:#D9DEDF;"> | </span>
-    <a href="http://web.archive.org/webapp/wcs/stores/servlet/AjaxStoreLocatorDisplayView?catalogId=11551&amp;langId=44&amp;storeId=10151">Store Locator</a><span style="color:#D9DEDF;"> | </span>
-    <span style="color:#58595B; font-size:11px;">Select Country:</span>
+<div id="linkflaghold" style="line-height:none; z-index:9999">
+	<a href="http://web.archive.org/us/en/info/AboutUs">About Us</a><span style="color:#D9DEDF;"> | </span>
+    <a href="http://web.archive.org/us/en/forms/CatalogRequest?utm_source=MainSite&amp;utm_medium=Link&amp;utm_campaign=CatReqTopHead">Request a Catalogue</a><span style="color:#D9DEDF;"> | </span>
+    <a href="http://web.archive.org/us/en/info/Contact-Us">Contact Us</a><span style="color:#D9DEDF;"> | </span>
+    <span style="color:#ffffff; font-size:11px;">Select Country:</span>
     
-    <div id="flags" style="margin-left:5px; width:52px; float:right; position:relative; top:-3px;">
+    <div id="flags" style="margin-left:5px; width:52px; position:relative; z-index:9999;">
 
-<div id="UKFlag"><img onclick="dropcookflag('UK')" src="/wcsstore/HotterStorefrontAssetStore/content/images/homepage/Header/Flags/Sept/UK-on.png" alt="UK" width="52" height="24"></div>
+<div id="USAFlag"><img onclick="dropcookflag('USA')" src="/wcsstore/HotterStorefrontAssetStore/content/images/homepage/Header/Flags/USA-on.png" alt="USA" width="52" height="24"></div>
 
   <div id="flagdrop">
-
-		<div id="USAFlag" class="dropperflags"><a href="http://web.archive.org/us/en"><img style="margin:0 0 0 0;" src="/wcsstore/HotterStorefrontAssetStore/content/images/homepage/Header/Flags/Sept/USA.png" alt="USA" width="52" height="20" border="0" onclick="dropcookflag('USA')"></a></div>
+        
+        <div id="UKFlag" class="dropperflags"><a href="http://web.archive.org/gb/en"><img style="margin:0 0 0 0;" src="/wcsstore/HotterStorefrontAssetStore/content/images/homepage/Header/Flags/Sept/UK.png" alt="UK" width="52" height="20" border="0" onclick="dropcookflag('UK')"></a></div>
 
 		<div id="DEFlag" class="dropperflags"><a href="http://web.archive.org/de/de"><img style="margin:0 0 0 0;" src="/wcsstore/HotterStorefrontAssetStore/content/images/homepage/Header/Flags/Sept/DE.png" alt="DE" width="52" height="20" border="0" onclick="dropcookflag('DE')"></a></div>
         
@@ -424,6 +1068,11 @@ div#widget_masthead_links div.masthead_links span.masthead_links_container {
 </div>
 
 <script type="text/javascript">
+
+var flagabpos = jQuery("#USAFlag").position();
+var flagabposC = jQuery("#flagdrop").position();
+var flagabposT = flagabpos.top + 21;
+jQuery("#flagdrop").css({top: flagabposT, left: flagabpos.left, position:'absolute'});
 
 function dropcookflag(prefflag)
 {
@@ -450,7 +1099,7 @@ function dropcookflag(prefflag)
 }
 
 	var clicker = '0';
-	jQuery("#UKFlag").click(function() {
+	jQuery("#USAFlag").click(function() {
 
 	if (clicker == '0')
 	{
@@ -490,10 +1139,10 @@ for (var flagtlinki = 0; flagtlinki < flaglinkch.length; flagtlinki++) {
 											
 											<!-- BEGIN ESpotTitle_UI.jspf --><!-- END ESpotTitle_UI.jspf -->
 
-	<div id="ems_call_today_11254" class="widget_height">
-		<div style="width:150px; position:relative; top:-5px;">
-	<div style="font-family:'Times New Roman', Times, serif; font-size:24px; color:#58595b; text-align:right; line-height:0.8em;"><img src="/wcsstore/HotterStorefrontAssetStore/content/images/contentspots/call-today.gif" width="150" height="27" alt="Call today"><br>0800 083 8490</div>
-</div>
+	<div id="ems_call_today_14910" class="widget_height">
+		<!--<div style="width:150px; position:relative; top:-5px;">
+	<div style="font-family:'Times New Roman', Times, serif; font-size:24px; color:#58595b; text-align:right; line-height:0.8em;"><img src="/wcsstore/HotterStorefrontAssetStore/content/images/contentspots/call-today.gif" width="150" height="27" alt="Call today"><br />1 866 378 7811</div>
+</div>-->
 		<div class="clear_both"></div>
 	</div>
 	
@@ -543,7 +1192,7 @@ for (var flagtlinki = 0; flagtlinki < flaglinkch.length; flagtlinki++) {
 			</div>
 			
 			<div class="goToCheckout">
-				<a tabindex="1" class="button_primary" href="http://www.hotter.com/shop/OrderCalculate?calculationUsageId=-1&amp;updatePrices=1&amp;catalogId=11551&amp;errorViewName=AjaxOrderItemDisplayView&amp;orderId=.&amp;langId=44&amp;storeId=10151&amp;URL=https%3A%2F%2Fwww.hotter.com%2Fshop%2FAjaxOrderItemDisplayView%3F">
+				<a tabindex="1" class="button_primary" href="http://www.hotter.com/shop/OrderCalculate?calculationUsageId=-1&amp;updatePrices=1&amp;catalogId=12051&amp;errorViewName=AjaxOrderItemDisplayView&amp;orderId=.&amp;langId=-1&amp;storeId=10152&amp;URL=https%3A%2F%2Fwww.hotter.com%2Fshop%2FAjaxOrderItemDisplayView%3F">
 					<div class="button_text">Checkout &gt;</div>
 				</a>
 			</div>
@@ -578,7 +1227,7 @@ for (var flagtlinki = 0; flagtlinki < flaglinkch.length; flagtlinki++) {
 								
 							</div>
 							<div class="go_to_cart">
-								<a id="GotoCartButton2" href="http://www.hotter.com/shop/OrderCalculate?calculationUsageId=-1&amp;updatePrices=1&amp;catalogId=11551&amp;errorViewName=AjaxOrderItemDisplayView&amp;orderId=.&amp;langId=44&amp;storeId=10151&amp;URL=https%3A%2F%2Fwww.hotter.com%2Fshop%2FAjaxOrderItemDisplayView%3F" class="button_primary" tabindex="0">
+								<a id="GotoCartButton2" href="http://www.hotter.com/shop/OrderCalculate?calculationUsageId=-1&amp;updatePrices=1&amp;catalogId=12051&amp;errorViewName=AjaxOrderItemDisplayView&amp;orderId=.&amp;langId=-1&amp;storeId=10152&amp;URL=https%3A%2F%2Fwww.hotter.com%2Fshop%2FAjaxOrderItemDisplayView%3F" class="button_primary" tabindex="0">
 									<div class="left_border"></div>
 									<div class="button_text">Go to Checkout</div>
 									<div class="right_border"></div>
@@ -607,8 +1256,8 @@ for (var flagtlinki = 0; flagtlinki < flaglinkch.length; flagtlinki++) {
 
 <input type="hidden" id="currentOrderQuantity" value="0">
 <input type="hidden" id="currentOrderAmount" value="0.00">
-<input type="hidden" id="currentOrderCurrency" value="GBP">
-<input type="hidden" id="currentOrderLanguage" value="44">
+<input type="hidden" id="currentOrderCurrency" value="USD">
+<input type="hidden" id="currentOrderLanguage" value="-1">
 <input type="hidden" id="currentOrderId" value="">
 											
 
@@ -619,10 +1268,10 @@ for (var flagtlinki = 0; flagtlinki < flaglinkch.length; flagtlinki++) {
 
 <script type="text/javascript">
   dojo.addOnLoad(function() {
-		setMiniShopCartControllerURL(getAbsoluteURL()+'MiniShopCartDisplayView?storeId=10151&catalogId=11551&langId=44');
-		wc.render.getRefreshControllerById("MiniShopCartContentsController").url = getAbsoluteURL()+'MiniShopCartDisplayView?storeId=10151&catalogId=11551&langId=44&page_view=dropdown';
+		setMiniShopCartControllerURL(getAbsoluteURL()+'MiniShopCartDisplayView?storeId=10152&catalogId=12051&langId=-1');
+		wc.render.getRefreshControllerById("MiniShopCartContentsController").url = getAbsoluteURL()+'MiniShopCartDisplayView?storeId=10152&catalogId=12051&langId=-1&page_view=dropdown';
 		if(dojo.byId('MiniShoppingCart') != null){
-			loadMiniCart("GBP","44");
+			loadMiniCart("USD","-1");
 		}		
 	});
 </script>
@@ -647,849 +1296,75 @@ for (var flagtlinki = 0; flagtlinki < flaglinkch.length; flagtlinki++) {
 								
 									
 										<li>
-											<a class="navfirstitem" href="http://www.hotter.com/gb/en/womens">Women</a> 										
+											<a class="navfirstitem" href="http://www.hotter.com/us/en/womens">Women</a> 										
 												
 											<!-- Creating eSpot for each TopCategory -->
 											<div class="menuEspot" style="display:none;">
-												<!-- BEGIN ESpotTitle_UI.jspf --><!-- END ESpotTitle_UI.jspf -->
-
-	<div id="ems_Women_14251" class="widget_height">
-		<style type="text/css">
-#navigation, #navigation * {
-	margin:			0;
-	padding:		0;
-	list-style:		none;
-	text-transform:none;
-	width:180px;
-	float:left;
-	font-family:Arial, Helvetica, sans-serif;
-	
-	
-}
-
-#navigation2, #navigation2 * {
-	margin:			0;
-	padding:		0;
-	list-style:		none;
-	text-transform:none;
-	float:left;
-	font-family:Arial, Helvetica, sans-serif;
-	
-	
-}
-
-.subCategory { clear:both; text-transform:none; font-family:Arial, Helvetica, sans-serif;}
-
-#navigation li { border-top:0px solid #eaeaea; width:160px; margin:0 10px 0 10px; color:#58595b;}
-
-#navigation2 li { border-top:0px solid #eaeaea; margin:0 0 0 0; color:#58595b;}
-
-#navigation li:hover, li.sfhover  {background-color:#ffffff; color:#77787b; text-decoration:underline;}
-
-#navigation a {display:block;}
-
-ul.megamenu div.mm-item-content {min-width: 0px;}
-.subCategoryfirst {border-top:0px solid #eaeaea; width:160px; font-size:18px;}
-.subCategorysec {border-top:0px solid #eaeaea; width:160px; font-size:18px;}
-.nonmenucopy {font-size:14px; font-family:Arial, Helvetica, sans-serif; color:#58595b; cursor:pointer;}
-.nonmenucopy:hover {background-color:#ffffff; display:block;}
-</style>
-
-<div id="MM_Navhold" class="MMnavhollk">
-
-<ul id="navigation">					
-						<li class="subCategoryfirst">
-							<a href="/gb/en/womens" title="Shop by Category">
-								<span style="font-size:18px; margin:16px 0 5px 0; font-family:'Times New Roman', Times, serif; color:#58595b;">Shop by Category</span>
-							</a>
-						</li> 
-                        <br>
-						<li class="subCategory">
-							<a href="/gb/en/womens-shoes" title="Shoes">
-								Shoes
-							</a>
-						</li> 
-                        <br>
-						<li class="subCategory">
-							<a href="/gb/en/womens-boots" title="Boots">
-								Boots
-							</a>
-						</li> 
-                         <br>
-						<li class="subCategory">
-							<a href="/gb/en/womens-party-shoes" title="Party Shoes">
-								Party Shoes
-							</a>
-						</li> 
-                        <br>
-                        <li class="subCategory">
-							<a href="/gb/en/womens-slippers" title="Slippers">
-								Slippers
-							</a>
-						</li> 
-                        <br>
-						<li class="subCategory">
-							<a href="/gb/en/GORE-TEX-Womens" title="GORE-TEX®">
-								GORE-TEX®
-							</a>
-						</li>
-                        <br>
-                        <li class="subCategory">
-							<a href="/gb/en/womens-heels" title="Heels">
-								Heels
-							</a>
-						</li> 
-                         <br>
-						<li class="subCategory">
-							<a href="/gb/en/womens-active" title="Active">
-								Active
-							</a>
-						</li>
-                        <br>
-						<li class="subCategory">
-							<a href="/gb/en/womens-wedges" title="Wedges">
-								Wedges
-							</a>
-						</li>
-                        <br>
-						<li class="subCategory">
-							<a href="/gb/en/womens-jackets" title="Jackets">
-								Jackets
-							</a>
-						</li>  
-                        <br>
-						<li class="subCategory">
-							<a href="/gb/en/womens-sandals" title="Sandals">
-								Sandals
-							</a>
-						</li>     
-</ul>
-
-<ul id="navigation">
-						<li class="subCategoryfirst">
-							<a href="/gb/en/womens-gift-ideas" title="Shop for Gifts">
-								<span style="font-size:18px; margin:16px 0 5px 0; font-family:'Times New Roman', Times, serif; color:#58595b;">Shop for Gifts</span>
-							</a>
-						</li> 
-                        <br>
-						<li class="subCategory">
-							<a href="/gb/en/womens-gift-ideas" title="Gifts for Her">
-								Gifts for Her
-							</a>
-						</li> 
-                        <br>
-                        <li class="subCategory">
-							<a href="/gb/en/accessories-gift-vouchers" title="Gift Vouchers">
-								Gift Vouchers
-							</a>
-						</li>
-                        <br>
-                        
-					
-						<li class="subCategoryfirst">
-							<a href="/gb/en/womens" title="Hotter Highlights">
-								<span style="font-size:18px; margin:16px 0 5px 0; font-family:'Times New Roman', Times, serif; color:#58595b;">Hotter Highlights</span>
-							</a>
-						</li> 
-                        <br>
-						<li class="subCategory">
-							<a style="color:#bd1836;" href="/gb/en/viewallwomens" title="New Arrivals">
-								SALE
-							</a>
-						</li> 
-                        <br>
-						<li class="subCategory">
-							<a href="/gb/en/womens-new-this-season" title="New Arrivals">
-								New Arrivals
-							</a>
-						</li> 
-                        <br>
-						<li class="subCategory">
-							<a href="/gb/en/womens-best-sellers" title="Best Sellers">
-								Best Sellers
-							</a>
-						</li> 
-                        <!--<br />
-						<li class="subCategory">
-							<a href="/gb/en/womens-holiday-sho" title="Holiday Shop">
-								Holiday Shop
-							</a>
-						</li>-->
-                        
-                        <br>
-						<li class="subCategory">
-							<a href="/gb/en/womens-sale" title="Sale">
-								<span>Last Chance</span>
-							</a>
-						</li> 
-                        <div style="height:13px;">&nbsp;</div>
-                        <li class="subCategorysec">
-							<a href="/gb/en" title="SHOP BY FIT">
-								<span style="font-size:18px; margin:5px 0 5px 0; font-family:'Times New Roman', Times, serif; color:#58595b;">Shop by Fit</span>
-							</a>
-						</li> 
-                        <br>
-                        <li class="subCategory">
-                        	<a href="/gb/en/womens" title="Standard">
-                            	Standard
-                            </a>
-                        </li>
-                        <br>
-						<li class="subCategory">
-							<a href="/gb/en/extrawide" title="Extra Wide">
-								Extra Wide
-							</a>
-						</li> 
-                        <br>
-						<li class="subCategory">
-							<a href="/gb/en/eee-shoes" title="EEE">
-								EEE
-							</a>
-						</li> 
-                        <!--<br />
-						<li class="subCategory">
-							<a href="/gb/en/slim-fit-shoes" title="Slim Fit">
-								Slim
-							</a>
-						</li> -->
-                       
-</ul>
-
-<ul id="navigation">					
-						<li class="subCategoryfirst">
-							<a href="/gb/en/info/Collections" title="Shop by Collection">
-								<span style="font-size:18px; margin:16px 0 5px 0; font-family:'Times New Roman', Times, serif; color:#58595b;">Shop by Collection</span>
-							</a>
-						</li> 
-                        <br>
-						<li class="subCategory">
-							<a href="/gb/en/womens-boots" title="Boots">
-								Boots
-							</a>
-						</li> 
-                        <br>
-						<li class="subCategory">
-							<a href="/gb/en/womens-moccasins" title="Moccasins">
-								Loafers &amp; Moccasins
-							</a>
-						</li>
-                        <br>
-                        <li class="subCategory">
-							<a href="/gb/en/collection-classics" title="Classics">
-								Classics
-							</a>
-						</li>
-                        <br>
-						<li class="subCategory">
-							<a href="/gb/en/GORE-TEX-Womens" title="GORE-TEX">
-								GORE-TEX®
-							</a>
-						</li> 
-                        <br>
-                        <li class="subCategory">
-							<a href="/gb/en/collection-trends" title="Trends">
-								Trends
-							</a>
-						</li> 
-                        <br>
-						<li class="subCategory">
-							<a href="/gb/en/collection-signature" title="Signature">
-								Signature
-							</a>
-						</li> 
-                        <br>
-						<li class="subCategory">
-							<a href="/gb/en/Signature-Heels" title="Signature Heels">
-								Signature Heels
-							</a>
-						</li> 
-                        <br>
-                        <li class="subCategory">
-							<a href="/gb/en/Classic-Heels" title="Classic Heels">
-								Classic Heels
-							</a>
-						</li> 
-                        
-                         
-</ul>
-
-<ul id="navigation2">					
-						<li class="subCategoryPic">
-							<a href="/gb/en/info/Offers?MMBW=10off" title="£10 off all styles">
-								<img style="margin:20px 0 0 0;" src="/wcsstore/HotterStorefrontAssetStore/content/images/homepage/MegaMenu/UK-MM-spot-AW5.jpg" alt="£10 off all styles">
-							</a>
-		
-        				</li>                      
-</ul>
-
-<!--
-<ul id="navigation2">					
-						<li class="subCategoryPic">
-							<img style="margin:20px 0 0 0;" src="/wcsstore/HotterStorefrontAssetStore/content/images/homepage/MegaMenu/US-MM-spot-AW1-a.jpg" alt="Save">
-						</li>                      
-</ul>
--->
-
-<div style="clear:both;">
-<div>&nbsp;</div>
-<div class="nonmenucopy" style="margin:0 0 20px 5px; height:20px; width:250px;"><a style="font-size:14px; font-family:Arial, Helvetica, sans-serif; text-transform:none; color:#58595b; cursor:pointer;" href="/gb/en/viewallwomens">See All Womens</a></div>
-</div>
-
-
-</div>
-
-
-
-
-		<div class="clear_both"></div>
-	</div>
-	
-
+												
 											</div>
 										</li>
 									
 								
 									
 										<li>
-											<span class="divider">|</span><a class="" href="http://www.hotter.com/gb/en/mens">Men</a> 										
+											<span class="divider">|</span><a class="" href="http://www.hotter.com/us/en/mens">Men</a> 										
 												
 											<!-- Creating eSpot for each TopCategory -->
 											<div class="menuEspot" style="display:none;">
-												<!-- BEGIN ESpotTitle_UI.jspf --><!-- END ESpotTitle_UI.jspf -->
-
-	<div id="ems_Men_19901" class="widget_height">
-		<div class="MMnavhollk">
-<ul id="navigation">					
-						<li class="subCategoryfirst">
-							<a href="/gb/en/mens" title="Shop by Category">
-								<span style="font-size:18px; margin:16px 0 5px 0; font-family:'Times New Roman', Times, serif; color:#58595b;">Shop by Category</span>
-							</a>
-						</li> 
-                        <br>
-						<li class="subCategory">
-							<a href="/gb/en/mens-shoes" title="Shoes">
-								Shoes
-							</a>
-						</li> 
-                        <br>
-                        <!--<li class="subCategory">
-							<a href="/gb/en/mens-sandals" title="Sandals">
-								Sandals
-							</a>
-						</li> 
-                        <br />-->
-                        <li class="subCategory">
-							<a href="/gb/en/men-active" title="Active">
-								Active
-							</a>
-						</li>  
-                        <br>
-                        <li class="subCategory">
-							<a href="/gb/en/mens-boots" title="Boots">
-								Boots
-							</a>
-						</li>
-                        <br>
-                        <li class="subCategory">
-							<a href="/gb/en/mens-slippers" title="Slippers">
-								Slippers
-							</a>
-						</li> 
-                        <br>
-						<li class="subCategory">
-							<a href="/gb/en/GORE-TEX-Mens" title="GORE-TEX®">
-								GORE-TEX®
-							</a>
-						</li> 
-</ul>
-
-<ul id="navigation">		
-
-						<li class="subCategoryfirst">
-							<a href="/gb/en/mens-gift-ideas" title="Shop for Gifts">
-								<span style="font-size:18px; margin:16px 0 5px 0; font-family:'Times New Roman', Times, serif; color:#58595b;">Shop for Gifts</span>
-							</a>
-						</li> 
-                        <br>
-						<li class="subCategory">
-							<a href="/gb/en/mens-gift-ideas" title="Gifts for Him">
-								Gifts for Him
-							</a>
-						</li> 
-                        <br>
-                        <li class="subCategory">
-							<a href="/gb/en/accessories-gift-vouchers" title="Gift Vouchers">
-								Gift Vouchers
-							</a>
-						</li>
-                        <br>
-                        			
-						<li class="subCategoryfirst">
-							<a href="/gb/en/mens" title="Hotter Highlights">
-								<span style="font-size:18px; margin:16px 0 5px 0; font-family:'Times New Roman', Times, serif; color:#58595b;">Hotter Highlights</span>
-							</a>
-						</li> 
-                        <br>
-						<li class="subCategory">
-							<a style="color:#bd1836;" href="/gb/en/viewallmens" title="SALE">
-								SALE
-							</a>
-						</li> 
-                        <br>
-						<li class="subCategory">
-							<a href="/gb/en/mens-new-this-season" title="New Arrivals">
-								New Arrivals
-							</a>
-						</li> 
-                        <br>
-						<li class="subCategory">
-							<a href="/gb/en/mens-best-sellers" title="Best Sellers">
-								Best Sellers
-							</a>
-						</li> 
-						<!--<br />
-                        <li class="subCategory">
-							<a href="/gb/en/mid-season-offers-men's" title="Mid Season Offers">
-								Mid Season Offers
-							</a>
-						</li>--> 
-						<br>
-						<li class="subCategory">
-							<a href="/gb/en/men-sale" title="Sale">
-								<span>Last Chance</span>
-							</a>
-						</li> 
-</ul>
-
-<ul id="navigation">					
-						<li class="subCategoryfirst">
-							<a href="/gb/en/info/Collections" title="Shop by Collection">
-								<span style="font-size:18px; margin:16px 0 5px 0; font-family:'Times New Roman', Times, serif; color:#58595b;">Shop by Collection</span>
-							</a>
-						</li> 
-                        <br>
-						<li class="subCategory">
-							<a href="/gb/en/men-active" title="Active">
-								Active
-							</a>
-						</li> 
-                        <br>
-						<li class="subCategory">
-							<a href="/gb/en/collection-mens-casuals" title="Casuals">
-								Casuals
-							</a>
-						</li> 
-                        <br>
-                        <li class="subCategory">
-							<a href="/gb/en/collection-mens-classics" title="Classics">
-								Classics
-							</a>
-						</li>
-                        <br>
-                        <li class="subCategory">
-							<a href="/gb/en/mens-lifestyle" title="Lifestyle">
-								Lifestyle
-							</a>
-						</li>
-                        <br>
-						<li class="subCategory">
-							<a href="/gb/en/GORE-TEX-Mens" title="GORE-TEX">
-								GORE-TEX®
-							</a>
-						</li> 
-                        <br>
-						<li class="subCategory">
-							<a href="/gb/en/mens-trend" title="Trends">
-								Trends
-							</a>
-						</li> 
-</ul>
-<ul id="navigation2">					
-						<li class="subCategoryPic">
-							<a href="/gb/en/info/Offers?MMBW=10off" title="£10 off all styles">
-								<img style="margin:20px 0 0 0;" src="/wcsstore/HotterStorefrontAssetStore/content/images/homepage/MegaMenu/UK-MM-spot-AW5.jpg" alt="£10 off all styles">
-							</a>
-		
-        				</li>                      
-</ul>
-
-<div style="clear:both;">
-<div>&nbsp;</div>
-<div class="nonmenucopy" style="margin:0 0 20px 5px; height:20px; width:250px;"><a style="font-size:14px; font-family:Arial, Helvetica, sans-serif; text-transform:none; color:#58595b; cursor:pointer;" href="/gb/en/viewallmens">See All Mens</a></div>
-</div>
-</div>
-		<div class="clear_both"></div>
-	</div>
-	
-
+												
 											</div>
 										</li>
 									
 								
 									
 										<li>
-											<span class="divider">|</span><a class="" href="http://www.hotter.com/gb/en/extrawide">Extra Wide</a> 										
+											<span class="divider">|</span><a class="" href="http://www.hotter.com/us/en/extrawide">Extra Wide</a> 										
 												
 											<!-- Creating eSpot for each TopCategory -->
 											<div class="menuEspot" style="display:none;">
-												<!-- BEGIN ESpotTitle_UI.jspf --><!-- END ESpotTitle_UI.jspf -->
-
-	<div id="ems_ExtraWide_77902" class="widget_height">
-		<div class="MMnavhollk">
-<ul id="navigation">					
-						<li class="subCategoryfirst">
-							<a href="/gb/en/extrawide" title="Extra Wide">
-								<span style="font-size:18px; margin:16px 0 5px 0; font-family:'Times New Roman', Times, serif; color:#58595b;">Shop by Category</span>
-							</a>
-						</li> 
-                        <br>
-						<li class="subCategory">
-							<a href="/gb/en/extra-wide-shoes" title="Extra Wide Shoes">
-								Extra Wide Fit Shoes
-							</a>
-						</li> 
-                        <br>
-                        <li class="subCategory">
-							<a href="/gb/en/extra-wide-sandals" title="Extra Wide Sandals">
-								Extra Wide Fit Sandals
-							</a>
-						</li> 
-                        <br>
-						<li class="subCategory">
-							<a href="/gb/en/extra-wide-heels" title="Extra Wide Heels">
-								Extra Wide Fit Heels
-							</a>
-						</li> 
-                         <br>
-						<li class="subCategory">
-							<a href="/gb/en/extra-wide-boots" title="Extra Wide Boots">
-								Extra Wide Fit Boots
-							</a>
-						</li> 
-                        <br>
-                        <li class="subCategory">
-							<a href="/gb/en/eee-shoes" title="EEE Shoes">
-								EEE Fit Shoes
-							</a>
-						</li> 
-                        <br>
-						<li class="subCategory">
-							<a href="/gb/en/eee-sandals" title="EEE Sandals">
-								EEE Fit Sandals
-							</a>
-						</li>
-                        <br>
-						<li>
-								&nbsp;
-						</li>
-                        <br>
-                        <li>
-                        <a href="/shop/SearchDisplay?searchTerm=allextrawideshoes&amp;categoryId=&amp;storeId=10151&amp;catalogId=11551&amp;langId=44&amp;pageSize=15&amp;beginIndex=0&amp;sType=SimpleSearch&amp;resultCatEntryType=2&amp;showResultsPage=true&amp;searchSource=Q&amp;pageView=" title="See all Extra Wide">
-								See all Extra Wide
-							</a>
-                        </li>
-</ul>
-
-<ul id="navigation2">					
-						<li class="subCategoryPic">
-							<a href="/gb/en/info/Offers?MMBW=10off" title="£10 off all styles">
-								<img style="margin:20px 0 0 0;" src="/wcsstore/HotterStorefrontAssetStore/content/images/homepage/MegaMenu/UK-MM-spot-AW5.jpg" alt="£10 off all styles">
-							</a>
-		
-        				</li>                       
-</ul>
-
-<div style="clear:both; margin:0 0 0 0">&nbsp;</div>
-</div>
-		<div class="clear_both"></div>
-	</div>
-	
-
+												
 											</div>
 										</li>
 									
 								
 									
 										<li>
-											<span class="divider">|</span><a class="" href="http://www.hotter.com/gb/en/goretex">GORE-TEX®</a> 										
+											<span class="divider">|</span><a class="" href="http://www.hotter.com/us/en/GORE-TEX">GORE-TEX®</a> 										
 												
 											<!-- Creating eSpot for each TopCategory -->
 											<div class="menuEspot" style="display:none;">
-												<!-- BEGIN ESpotTitle_UI.jspf --><!-- END ESpotTitle_UI.jspf -->
-
-	<div id="ems_GORE-TEX®_30409" class="widget_height">
-		<div id="MM_Navhold" class="MMnavhollk">
-
-<ul id="navigation">					
-						<li class="subCategoryfirst">
-							<a href="/gb/en/gore-tex-reg%3B" title="Shop by Category">
-								<span style="font-size:18px; margin:16px 0 5px 0; font-family:'Times New Roman', Times, serif; color:#58595b;">Shop by Category</span>
-							</a>
-						</li> 
-                        <br>
-						<li class="subCategory">
-							<a href="/gb/en/GORE-TEX-Womens" title="Women's GORE-TEX">
-								Women's GORE-TEX®
-							</a>
-						</li> 
-                        <br>
-						<li class="subCategory">
-							<a href="/gb/en/GORE-TEX-Mens" title="Men's GORE-TEX">
-								Men's GORE-TEX®
-							</a>
-						</li> 
-</ul>
-
-
-<ul id="navigation2">					
-						<li class="subCategoryPic">
-							<a href="/gb/en/info/Offers?MMBW=10off" title="£10 off all styles">
-								<img style="margin:20px 0 0 0;" src="/wcsstore/HotterStorefrontAssetStore/content/images/homepage/MegaMenu/UK-MM-spot-AW5.jpg" alt="£10 off all styles">
-							</a>
-		
-        				</li>                      
-</ul>
-<div style="clear:both; margin:0 0 0 0">&nbsp;</div>
-</div>
-		<div class="clear_both"></div>
-	</div>
-	
-
+												
 											</div>
 										</li>
 									
 								
 									
 										<li>
-											<span class="divider">|</span><a class="" href="http://www.hotter.com/gb/en/Hotter-accessories">Accessories</a> 										
+											<span class="divider">|</span><a class="" href="http://www.hotter.com/us/en/Accessories">Accessories</a> 										
 												
 											<!-- Creating eSpot for each TopCategory -->
 											<div class="menuEspot" style="display:none;">
-												<!-- BEGIN ESpotTitle_UI.jspf --><!-- END ESpotTitle_UI.jspf -->
-
-	<div id="ems_Accessories_20402" class="widget_height">
-		<div class="MMnavhollk">
-<ul id="navigation">					
-						<li class="subCategoryfirst">
-							<a href="/gb/en/Hotter-accessories" title="Shop by Catagory">
-								<span style="font-size:18px; margin:16px 0 5px 0; font-family:'Times New Roman', Times, serif; color:#58595b;">Shop by Category</span>
-							</a>
-						</li> 
-                        <br>
-						<li class="subCategory">
-							<a href="/gb/en/accessories-handbags" title="Handbags">
-								Handbags
-							</a>
-						</li> 
-                        <br>
-                        <li class="subCategory">
-							<a href="/gb/en/accessories-purses" title="Purses">
-								Purses
-							</a>
-						</li> 
-                        <br>
-                        <li class="subCategory">
-							<a href="/gb/en/accessories-socks" title="Sock">
-								Socks
-							</a>
-						</li> 
-                        <br>
-                        <li class="subCategory">
-							<a href="/gb/en/accessories-umbrellas" title="Umbrellas">
-								Umbrellas
-							</a>
-						</li> 
-                        <br>
-                        <li class="subCategory">
-							<a href="/gb/en/womens-jackets" title="Jackets">
-								Jackets
-							</a>
-						</li> 
-                        <br>
-                        <li class="subCategory">
-							<a href="/gb/en/accessories-shoe-care" title="Shoecare">
-								Shoecare
-							</a>
-						</li> 
-                        <br>
-						<li class="subCategory">
-							<a href="/gb/en/accessories-travel" title="Travel">
-								Travel
-							</a>
-						</li> 
-                        <br>
-						<li class="subCategory">
-							<a href="/gb/en/accessories-gifts" title="Gifts">
-								Gifts
-							</a>
-						</li> 
-                        <!--<br />
-                        <li class="subCategory">
-							<a href="/gb/en/accessories-gift-vouchers" title="Gift Vouchers">
-								Gift Vouchers
-							</a>
-						</li>--> 
-                        <!--<br />
-                        <li class="subCategory">
-							<a href="/gb/en/mid-season-offers-accessories" title="Mid Season Offers">
-								Mid Season Offers
-							</a>
-						</li>-->
-                        <br>
-                        <li class="subCategory">
-							<a href="/gb/en/accessories-sale" title="Last Chance">
-								Last Chance
-							</a>
-						</li>
-</ul>
-
-<ul id="navigation">					
-						<li class="subCategoryfirst">
-							<a href="/gb/en/Hotter-accessories" title="Hotter Highlights">
-								<span style="font-size:18px; margin:16px 0 5px 0; font-family:'Times New Roman', Times, serif; color:#58595b;">Hotter Highlights</span>
-							</a>
-						</li> 
-						<br>
-						<li class="subCategory">
-							<a href="/shop/SearchDisplay?searchTerm=allwomensaccessories&amp;categoryId=&amp;storeId=10151&amp;catalogId=11551&amp;langId=44&amp;pageSize=15&amp;beginIndex=0&amp;sType=SimpleSearch&amp;resultCatEntryType=2&amp;showResultsPage=true&amp;searchSource=Q&amp;pageView=">
-								Womens Accessories
-							</a>
-						</li> 
-                        <br>
-						<li class="subCategory">
-							<a href="/shop/SearchDisplay?searchTerm=allmensaccessories&amp;categoryId=&amp;storeId=10151&amp;catalogId=11551&amp;langId=44&amp;pageSize=15&amp;beginIndex=0&amp;sType=SimpleSearch&amp;resultCatEntryType=2&amp;showResultsPage=true&amp;searchSource=Q&amp;pageView=&#10;">
-								Mens Accessories
-							</a>
-						</li> 
-</ul>
-<div style="clear:both; margin:0 0 0 0">&nbsp;</div>
-</div>
-
-
-		<div class="clear_both"></div>
-	</div>
-	
-
+												
 											</div>
 										</li>
 									
 								
 									
 										<li>
-											<span class="divider">|</span><a class="" href="http://www.hotter.com/gb/en/sale">Sale</a> 										
+											<span class="divider">|</span><a class="" href="http://www.hotter.com/us/en/sale">Last Chance</a> 										
 												
 											<!-- Creating eSpot for each TopCategory -->
 											<div class="menuEspot" style="display:none;">
-												<!-- BEGIN ESpotTitle_UI.jspf --><!-- END ESpotTitle_UI.jspf -->
-
-	<div id="ems_Sale_65901" class="widget_height">
-		<div class="MMnavhollk">
-<ul id="navigation">					
-						<li class="subCategoryfirst">
-							<a href="/gb/en/viewallwomens" title="Sale">
-								<span style="font-size:18px; margin:16px 0 5px 0; font-family:'Times New Roman', Times, serif; color:#58595b;">Sale</span>
-							</a>
-						</li> 
-                        <br>
-						<li class="subCategory">
-							<a href="/gb/en/viewallwomens" title="Women's Sale">
-								Women
-							</a>
-						</li> 
-                        <br>
-                        <li class="subCategory">
-							<a href="/gb/en/viewallmens" title="Men's Sale">
-								Men
-							</a>
-						</li> 
-                        
-</ul>
-
-
-
-<div style="clear:both; margin:0 0 0 0">&nbsp;</div>
-</div>
-		<div class="clear_both"></div>
-	</div>
-	
-
+												
 											</div>
 										</li>
 									
 								
 									<li>
-										<span class="divider">|</span><a href="/gb/en/comfort-club/ComfortClubHome">Comfort Club</a> 										
+										<span class="divider">|</span><a href="/us/en/comfort-club/ComfortClubHome">Comfort Club</a> 										
 										<!-- Creating eSpot for comfort club sub menu -->
 										<div class="menuEspot" style="display:none;">
-											<!-- BEGIN ESpotTitle_UI.jspf --><!-- END ESpotTitle_UI.jspf -->
-
-	<div id="ComfortClubHomeHoverCenter_Content_27403" class="widget_height">
-		<div class="MMnavhollk">
-<ul id="navigation">					
-						<li class="subCategoryfirst">
-							<a href="/gb/en/comfort-club/ComfortClubHome" title="New This Season">
-								<span style="font-size:18px; margin:16px 0 5px 0; font-family:'Times New Roman', Times, serif; color:#58595b;">Join us today</span>
-							</a>
-						</li> 
-                        <br>
-						<li class="subCategory">
-							<a href="/gb/en/info/Comfort-Since-1959" title="Comfort Since 1959">
-								Comfort Since 1959
-							</a>
-						</li> 
-                        <br>
-                        <li class="subCategory">
-							<a href="/gb/en/info/Hotter-Shopping-Guide" title="Hotter Shopping Guide">
-								Hotter Shopping Guide
-							</a>
-						</li> 
-                        <br>
-						<li class="subCategory">
-							<a href="/gb/en/info/Healthy-Happy-Feet" title="Foot care Advice">
-								Foot care Advice
-							</a>
-						</li> 
-                        <br>
-						<li class="subCategory">
-							<a href="/gb/en/info/As-Seen-In" title="As Seen In">
-								As Seen In
-							</a>
-						</li> 
-                        <br>
-                        <li class="subCategory">
-							<a href="/gb/en/info/Comfort-Club-Editions" title="Comfort Club Magazines">
-								Comfort Club Magazines
-							</a>
-						</li> 
-                        <li class="subCategory">
-							<a href="/webapp/wcs/stores/servlet/AjaxStoreLocatorDisplayView?catalogId=11551&amp;langId=44&amp;storeId=10151" title="Our Stores">
-								Our Stores
-							</a>
-						</li>
-                        <li class="subCategory">
-							<a href="/gb/en/comfort-club/ComfortClubHome" title="Latest News">
-								Latest News
-							</a>
-						</li>
-</ul>
-
-<div style="clear:both; margin:0 0 0 0">&nbsp;</div>
-</div>
-
-<script type="text/javascript">
-if ("https:" == document.location.protocol) {
-var MMlinkch = jQuery('.MMnavhollk a');
-for (var MMtlinki = 0; MMtlinki < MMlinkch.length; MMtlinki++) {
-	var MMlinkstr = MMlinkch[MMtlinki].toString();
-	var MMlinkres = MMlinkstr.replace("https", "http"); 
-	MMlinkch[MMtlinki].href = MMlinkres;
-	}
-}
-</script>
-		<div class="clear_both"></div>
-	</div>
-	
-
+											
 										</div>
 									</li>
 								</ul>
@@ -1501,13 +1376,13 @@ for (var MMtlinki = 0; MMtlinki < MMlinkch.length; MMtlinki++) {
 							<!-- BEGIN Search.jsp -->
 
 
-		<meta name="CommerceSearch" content="storeId_10151">
+		<meta name="CommerceSearch" content="storeId_10152">
 		<!-- Begin Search Widget -->
 		<script type="text/javascript">
 				dojo.addOnLoad(function(){
 					SearchJS.init();
-					SearchJS.setCachedSuggestionsURL('SearchComponentCachedSuggestionsView?langId=44&amp;storeId=10151&amp;catalogId=11551');
-					SearchJS.setAutoSuggestURL('SearchComponentAutoSuggestView?coreName=MC_10001_CatalogEntry_en_GB&amp;serverURL=http%3a%2f%2fsearch.hotter.com%3a9080%2fsolr%2fMC_10001_CatalogEntry_en_GB&amp;langId=44&amp;storeId=10151&amp;catalogId=11551');
+					SearchJS.setCachedSuggestionsURL('SearchComponentCachedSuggestionsView?langId=-1&amp;storeId=10152&amp;catalogId=12051');
+					SearchJS.setAutoSuggestURL('SearchComponentAutoSuggestView?coreName=MC_10001_CatalogEntry_en_US&amp;serverURL=http%3a%2f%2fsearch.hotter.com%3a9080%2fsolr%2fMC_10001_CatalogEntry_en_US&amp;langId=-1&amp;storeId=10152&amp;catalogId=12051');
 				});
 
 				// The primary Array to hold all static search suggestions
@@ -1547,17 +1422,17 @@ for (var MMtlinki = 0; MMtlinki < MMlinkch.length; MMtlinki++) {
 								<ul id="searchDepartmentList_root">
 									<li><a href="#" id="searchDepartmentList_0" role="menuitem" onkeypress="SearchJS.searchDepartmentKeyPressed(event, 0, 6, '', this);" onmousedown="SearchJS.searchDepartmentSelect('', this)" onmouseover="this.className='enabled'" onfocus="this.className='enabled'" onblur="this.className='disabled'" onmouseout="this.className='disabled'">All Departments</a></li>
 									
-										<li><a href="#" id="searchDepartmentList_1" role="menuitem" onkeypress="SearchJS.searchDepartmentKeyPressed(event, 1, 6, '13101', this);" onmousedown="SearchJS.searchDepartmentSelect('13101', this)" onfocus="this.className='enabled'" onblur="this.className='disabled'" onmouseover="this.className='enabled'" onmouseout="this.className='disabled'">Women</a></li>
+										<li><a href="#" id="searchDepartmentList_1" role="menuitem" onkeypress="SearchJS.searchDepartmentKeyPressed(event, 1, 6, '16601', this);" onmousedown="SearchJS.searchDepartmentSelect('16601', this)" onfocus="this.className='enabled'" onblur="this.className='disabled'" onmouseover="this.className='enabled'" onmouseout="this.className='disabled'">Women</a></li>
 									
-										<li><a href="#" id="searchDepartmentList_2" role="menuitem" onkeypress="SearchJS.searchDepartmentKeyPressed(event, 2, 6, '13106', this);" onmousedown="SearchJS.searchDepartmentSelect('13106', this)" onfocus="this.className='enabled'" onblur="this.className='disabled'" onmouseover="this.className='enabled'" onmouseout="this.className='disabled'">Men</a></li>
+										<li><a href="#" id="searchDepartmentList_2" role="menuitem" onkeypress="SearchJS.searchDepartmentKeyPressed(event, 2, 6, '17101', this);" onmousedown="SearchJS.searchDepartmentSelect('17101', this)" onfocus="this.className='enabled'" onblur="this.className='disabled'" onmouseover="this.className='enabled'" onmouseout="this.className='disabled'">Men</a></li>
 									
-										<li><a href="#" id="searchDepartmentList_3" role="menuitem" onkeypress="SearchJS.searchDepartmentKeyPressed(event, 3, 6, '28101', this);" onmousedown="SearchJS.searchDepartmentSelect('28101', this)" onfocus="this.className='enabled'" onblur="this.className='disabled'" onmouseover="this.className='enabled'" onmouseout="this.className='disabled'">Extra Wide</a></li>
+										<li><a href="#" id="searchDepartmentList_3" role="menuitem" onkeypress="SearchJS.searchDepartmentKeyPressed(event, 3, 6, '28601', this);" onmousedown="SearchJS.searchDepartmentSelect('28601', this)" onfocus="this.className='enabled'" onblur="this.className='disabled'" onmouseover="this.className='enabled'" onmouseout="this.className='disabled'">Extra Wide</a></li>
 									
-										<li><a href="#" id="searchDepartmentList_4" role="menuitem" onkeypress="SearchJS.searchDepartmentKeyPressed(event, 4, 6, '13108', this);" onmousedown="SearchJS.searchDepartmentSelect('13108', this)" onfocus="this.className='enabled'" onblur="this.className='disabled'" onmouseover="this.className='enabled'" onmouseout="this.className='disabled'">GORE-TEX&amp;reg;</a></li>
+										<li><a href="#" id="searchDepartmentList_4" role="menuitem" onkeypress="SearchJS.searchDepartmentKeyPressed(event, 4, 6, '17103', this);" onmousedown="SearchJS.searchDepartmentSelect('17103', this)" onfocus="this.className='enabled'" onblur="this.className='disabled'" onmouseover="this.className='enabled'" onmouseout="this.className='disabled'">GORE-TEX&amp;reg;</a></li>
 									
-										<li><a href="#" id="searchDepartmentList_5" role="menuitem" onkeypress="SearchJS.searchDepartmentKeyPressed(event, 5, 6, '13109', this);" onmousedown="SearchJS.searchDepartmentSelect('13109', this)" onfocus="this.className='enabled'" onblur="this.className='disabled'" onmouseover="this.className='enabled'" onmouseout="this.className='disabled'">Accessories</a></li>
+										<li><a href="#" id="searchDepartmentList_5" role="menuitem" onkeypress="SearchJS.searchDepartmentKeyPressed(event, 5, 6, '17104', this);" onmousedown="SearchJS.searchDepartmentSelect('17104', this)" onfocus="this.className='enabled'" onblur="this.className='disabled'" onmouseover="this.className='enabled'" onmouseout="this.className='disabled'">Accessories</a></li>
 									
-										<li><a href="#" id="searchDepartmentList_6" role="menuitem" onkeypress="SearchJS.searchDepartmentKeyPressed(event, 6, 6, '22101', this);" onmousedown="SearchJS.searchDepartmentSelect('22101', this)" onfocus="this.className='enabled'" onblur="this.className='disabled'" onmouseover="this.className='enabled'" onmouseout="this.className='disabled'">Sale</a></li>
+										<li><a href="#" id="searchDepartmentList_6" role="menuitem" onkeypress="SearchJS.searchDepartmentKeyPressed(event, 6, 6, '22601', this);" onmousedown="SearchJS.searchDepartmentSelect('22601', this)" onfocus="this.className='enabled'" onblur="this.className='disabled'" onmouseover="this.className='enabled'" onmouseout="this.className='disabled'">Last Chance</a></li>
 									
 								</ul>
 							</div>
@@ -1574,7 +1449,7 @@ for (var MMtlinki = 0; MMtlinki < MMlinkch.length; MMtlinki++) {
 					</div>
 				</div>
 				
-				<!--<input id="search_submit" class="search_submit" type="image" onmouseout="javascript: this.src='/wcsstore7.00.00.375/HotterStorefrontAssetStore/images/colors/color1/widget_search/search_submit.png'" onmouseover="javascript: this.src='/wcsstore7.00.00.375/HotterStorefrontAssetStore/images/colors/color1/widget_search/search_submit_hover.png'" onblur="javascript: this.src='/wcsstore7.00.00.375/HotterStorefrontAssetStore/images/colors/color1/widget_search/search_submit.png'" onfocus="javascript: this.src='/wcsstore7.00.00.375/HotterStorefrontAssetStore/images/colors/color1/widget_search/search_submit_hover.png'" alt="Search" src="/wcsstore7.00.00.375/HotterStorefrontAssetStore/images/colors/color1/widget_search/search_submit.png"  value="Search" />-->
+				<!--<input id="search_submit" class="search_submit" type="image" onmouseout="javascript: this.src='/wcsstore7.00.00.480/HotterStorefrontAssetStore/images/colors/color1/widget_search/search_submit.png'" onmouseover="javascript: this.src='/wcsstore7.00.00.480/HotterStorefrontAssetStore/images/colors/color1/widget_search/search_submit_hover.png'" onblur="javascript: this.src='/wcsstore7.00.00.480/HotterStorefrontAssetStore/images/colors/color1/widget_search/search_submit.png'" onfocus="javascript: this.src='/wcsstore7.00.00.480/HotterStorefrontAssetStore/images/colors/color1/widget_search/search_submit_hover.png'" alt="Search" src="/wcsstore7.00.00.480/HotterStorefrontAssetStore/images/colors/color1/widget_search/search_submit.png"  value="Search" />-->
 				<input id="search_submit" class="search_submit" type="button" title="Search">
 
 			</div> <!-- content -->
@@ -1636,9 +1511,9 @@ for (var MMtlinki = 0; MMtlinki < MMlinkch.length; MMtlinki++) {
 	</div>
 
 	
-	<input type="hidden" name="storeId" value="10151">
-	<input type="hidden" name="catalogId" value="11551">
-	<input type="hidden" name="langId" value="44">
+	<input type="hidden" name="storeId" value="10152">
+	<input type="hidden" name="catalogId" value="12051">
+	<input type="hidden" name="langId" value="-1">
 	<input type="hidden" name="pageSize" value="15">
 	<input type="hidden" name="beginIndex" value="0">
 	<input type="hidden" name="sType" value="SimpleSearch">
@@ -1656,170 +1531,482 @@ for (var MMtlinki = 0; MMtlinki < MMlinkch.length; MMtlinki++) {
 					<div class="header_espot_container">		
 						<!-- BEGIN ESpotTitle_UI.jspf --><!-- END ESpotTitle_UI.jspf -->
 
-	<div id="ems_generic_11256" class="widget_height">
+	<div id="ems_generic_15412" class="widget_height">
 		<style type="text/css">
-body {
-background-image: url(/wcsstore/HotterStorefrontAssetStore/content/images/homepage/backgrounds/1370white.gif);
-background-size:990px 1px;
-background-repeat:repeat-y;
-background-position:top center;
-background-color:#f6f6f6;
-}
-
-#headerss12 {background:#bd1836; width:930px; height:25px; margin:3px 0 7px 0;}
-#hlinks {font-family:Arial, Helvetica, sans-serif; font-size:13px; color:#fff; text-decoration:none; cursor:pointer; text-align:center;}
-#hlinks:hover {text-decoration:underline;}
-.hlinks2 {font-family:Arial, Helvetica, sans-serif; font-size:13px; color:#fff;}
-#headcp1 {float:left; width:400px;}
-#headcp2 {float:left; width:1px;}
-#headcp3 {float:left; width:528px;}
-#headcp4 {float:left; width:1px;}
-#headcp5 {float:left; width:540px;}
-
-#USPGeneric {display:block;}
-#USPCC {display:none;}
-#USPvouch {display:none;}
-
-#USPtrends {display:none;}
-
-#headcp33 {float:left; width:464px;}
-#headcp44 {float:left; width:1px;}
-#headcp55 {float:left; width:464px;}
 .quick_info_toggle {display: none;}
 .product_listing_container .grid_mode .product > .product_image {height: 200px;}
-#headcp555 {float:left; width:930px;}
+#miniShopCartBody .info div.goToCheckout .button_text {
+    background-color:#97c222;
+}
+/*Remove standard Navigation START*/
+.widget_departments_position {display:none;}
+.navigation {padding:0px; margin:0px; border:none; margin-top:-1px; margin-bottom:-1px;}
+.jsEnabled #masthead > .navigation {
+    padding-bottom: 0px;
+    padding-top: 0px;
+	margin-top:-1px;
+	margin-bottom:-1px;
+}
+.jsEnabled #masthead > .navigation {
+    padding-bottom: 0px;
+    padding-top: 0px;
+}
+#masthead > .navigation {
+    height: 11px;
+    padding-bottom: 26px;
+    padding-top: 16px;
+    width: 930px;
+}
+#masthead > .navigation {
+    height: px;
+    padding: 0px;
+    width: 930px;
 
+}
+div.widget_search_position {
+    bottom: 0px;
+    height: 32px;
+    position: absolute;
+    right: 344px;
+}
+.jsEnabled div.widget_search_position {
+    bottom: 0px;
+    height: 32px;
+    position: absolute;
+    right: 344px;
+}
+#autoSuggest_Result_div
+{
+position: relative;
+top: 0px;
+left: -323px;
+}
+div#widget_minishopcart > div.content {
+  height: 70px;
+}
+/*Remove standard Navigation END*/
+
+/*USP BAR*/
+#USPControl {background:#b1abaa; width:930px; height:25px; margin:0px 0 7px 0; font-weight:bold; text-transform:uppercase; vertical-align:middle; line-height:25px;}
+.hlinks {font-family:Arial, Helvetica, sans-serif; font-size:13px; color:#fff; text-decoration:none; cursor:pointer; text-align:center;}
+.hlinks:hover {text-decoration:underline;}
+.headcp1 {float:left;}
+.headcp2 {float:left; width:1px; font-family:Arial, Helvetica, sans-serif; font-size:13px; color:#fff;}
+.headcp3 {float:left;}
+.headcp4 {float:left; width:1px; font-family:Arial, Helvetica, sans-serif; font-size:13px; color:#fff;}
+.headcp5 {float:left;}
+.headnolink {float:left; padding:0; display:inline-block; text-align:center; font-family:Arial, Helvetica, sans-serif; font-size:13px; color:#fff; text-decoration:none; text-align:center; line-height:25px;}
+.headlink {float:left; padding:0; display:inline-block; text-align:center;}
+
+#USPGeneric {display:block;}
+
+#USPControl {background:#b1abaa; width:930px; height:25px; margin:0px 0 7px 0; font-weight:bold; text-transform:uppercase; vertical-align:middle; line-height:25px; display:none;}
+#USPVar1 {background:#b1abaa; width:930px; height:25px; margin:0px 0 7px 0; font-weight:bold; text-transform:uppercase; vertical-align:middle; line-height:25px; display:block;}
+#USPVar2 {background:#b1abaa; width:930px; height:25px; margin:0px 0 7px 0; font-weight:bold; text-transform:uppercase; vertical-align:middle; line-height:25px; display:none;}
+
+/*Menu System*/
+#menu {
+    list-style:none;
+    width:930px;
+    height:37px;
+	padding:0px;
+	margin:0px;
+    background: #efefef;
+	text-align:center;
+}
+ 
+#menu li {
+    float:left;  
+    border:none;
+	border: 0px solid #efefef;
+	line-height:37px;
+	text-align:center;
+}
+ 
+#menu li:hover {
+    border: 0px solid #777777;
+    color:#7e7675;
+	text-decoration:none;
+	background-repeat:no-repeat;
+	background-position:center;
+	padding-bottom:0px;
+	white-space:nowrap;
+	background:url(/wcsstore/HotterStorefrontAssetStore/content/images/homepage/MegaMenu/touchunderline.gif);
+	background-size:100% 100%;
+	background-clip:content-box;
+}
+ 
+#menu li a {
+    font-size:14px; 
+    color: #7e7675;
+    display:block;
+    outline:0;
+    text-decoration:none;
+}
+ 
+#menu li:hover a {
+    color:#7e7675;
+}
+
+.dropdownunderlay
+{
+	display: none;
+	/*background-color: #000000;*/
+	position:fixed;
+	top:155px;
+	right:0;
+	bottom:0;
+	left:0;
+	width: 100%;
+	height: 100%;
+	z-index:1001;
+	/*-moz-opacity: 0.80;
+	opacity:.80;
+	filter: alpha(opacity=80);
+	cursor:pointer;*/
+	background-color: rgba(0,0,0,0.5);
+}
+
+.dropdown_1column
+{
+	width:930px;
+	width:100%;
+    position:absolute;
+    text-align:left;
+    border-bottom:4px solid #efefef;
+	border-top:1px solid #7e7675;
+    background:#ffffff;
+	left:0;
+	right:0;
+	margin-right:auto;
+	margin-left:auto;
+	line-height:normal;
+	display:none;
+    max-height: 500px;            
+	z-index:1002;
+
+}
+#menu li:hover .dropdown_1column
+{
+  display:block;
+}
+#menu li:hover .dropdownunderlay
+{
+  display:block;
+}
+
+.topitem {font-family:Arial, Helvetica, sans-serif; padding-right:20px; padding-left:20px;}
+.MMCols {width:930px; position:relative; left:0; right:0; margin: 0 auto; text-align:left;}
+.MMCol1, .MMCol2, .MMCol3, .MMCol4, .MMCol5 {float:left; width:186px; text-align:left;}
+.MMCol45 {float:left; width:372px; text-align:left;}
+.MMCol1CC {padding-left:0px; float:left; padding-top:0px; width:231px;}
+.MMCol2CC {float:left; padding-left:1px; display:block; padding-top:25px;}
+.MMCol3CC {float:left; padding-left:25px; display:block; padding-top:25px;}
+.MMCol4CC {float:left; padding-left:25px; display:block; padding-top:25px;}
+.MMCCtiles {font-size:13px; text-transform:uppercase; padding-top:13px; padding-bottom:25px;}
+.MMCCtiles2 {font-size:13px; text-transform:uppercase; padding-top:13px; padding-bottom:25px;}
+.bottombuffer {clear:both; padding-top:0px; line-height:9px; background-color:#ffffff;}
+.bottombufferCC {clear:both; padding-top:0px; line-height:0px; background-color:#ffffff;}
+.subCategoryfirst {font-family:Arial, Helvetica, sans-serif; font-size:15px; font-weight:bold; color:#58595b; padding-top:25px; padding-bottom:12px;}
+.subCategorysec {font-family:Arial, Helvetica, sans-serif; font-size:15px; font-weight:bold; color:#58595b; padding-top:22px; padding-bottom:12px;}
+.subCategory {text-transform:none; font-family:Arial, Helvetica, sans-serif; font-size:13px; color:#58595b; padding-bottom:8px;}
 </style>
 
-<div id="USPGeneric">
-<div id="headerss12">
-<div id="headcp1">
-<div style="float:left; padding:0px 0 0 0; width:400px; display:inline-block; text-align:center;"><a id="hlinks" href="http://web.archive.org/gb/en/womens-boots">
-Shop Up to 50% Off Boots Sale <img style="margin:0 0 0 2px;" src="/wcsstore/HotterStorefrontAssetStore/content/images/homepage/Header/headarr-sale.gif" border="0"></a></div>
-<div style="float:left; padding:5px 0 0 5px;"></div>
+<div id="Gnavslicespace" style="height:7px; background-color:#7e7675;">&nbsp;</div>
+<ul id="menu">
+<div class="dropdownunderlay"></div>
+
+    <li class="topitem" style="margin-left:79px;"><a href="/us/en/womens">WOMEN</a>
+        <div class="dropdown_1column">
+        	<div class="MMCols">
+        		<div class="MMCol1">
+					<div class="subCategoryfirst"><a href="/us/en/womens" title="View All">View All</a></div>
+					<div class="subCategory"><a href="/us/en/viewallwomens" title="View All Women's">View All Women's</a></div>
+					<div class="subCategory"><a href="/us/en/viewallextrawide" title="View All Extra Extra Wide">View All Extra Extra Wide</a></div>
+					<div class="subCategorysec"><a href="/us/en/womens" title="Shop by Category">Shop by Category</a></div>
+                    <div class="subCategory"><a href="/us/en/womens-sandals" title="Sandals">Sandals</a></div>
+                	<div class="subCategory"><a href="/us/en/womens-shoes" title="Shoes">Shoes</a></div>
+                    <div class="subCategory"><a href="/us/en/Active" title="Active">Active</a></div>
+                    <div class="subCategory"><a href="/us/en/womens-heels" title="Heels">Heels</a></div>
+                    <div class="subCategory"><a href="/us/en/womens-flats" title="Flats">Flats</a></div>
+                	<div class="subCategory"><a href="/us/en/womens-boots" title="Boots">Boots</a></div>
+                	<div class="subCategory"><a href="/us/en/GORE-TEX-womens" title="GORE-TEX®">GORE-TEX®</a></div>
+                	<div class="subCategory"><a href="/us/en/womens-slippers" title="Slippers">Slippers</a></div>
+                	<div class="subCategory"><a href="/us/en/accessories-handbags" title="Purses">Purses</a></div>
+            	</div>
+            	<div class="MMCol2">
+					<div class="subCategoryfirst"><a href="/us/en/womens" title="Hotter Highlights">Hotter Highlights</a></div>
+                	<div class="subCategory"><a href="/us/en/womens-new-this-season" title="New In">New In</a></div>
+                	<div class="subCategory"><a href="/us/en/womens-best-sellers" title="Best Sellers">Best Sellers</a></div>
+                	<div class="subCategory"><a href="/us/en/womens-sale" title="Sale">Last Chance</a></div>
+                	<div class="subCategorysec"><a href="/us/en/womens" title="Shop by Style"><span>Shop by Style</span></a></div>
+                	<div class="subCategory"><a href="/us/en/womens-casual-shoes" title="Casual Shoes">Casual Shoes</a></div>
+                	<div class="subCategory"><a href="/us/en/womens-flat-shoes" title="Flat Shoes">Flat Shoes</a></div>
+                	<div class="subCategory"><a href="/us/en/womens-loafers" title="Loafers">Loafers</a></div>
+                	<div class="subCategory"><a href="/us/en/womens-wedges" title="Wedges">Wedges</a></div>
+                	<div class="subCategory"><a href="/us/en/womens-formal-shoes" title="Formal Shoes">Formal Shoes</a></div>
+                	<div class="subCategory"><a href="/us/en/womens-heels" title="Heels">Heels</a></div>
+                	<div class="subCategory"><a href="/us/en/womens-flat-sandals" title="Flat Sandals">Flat Sandals</a></div>
+                	<div class="subCategory"><a href="/us/en/Active" title="Active">Active</a></div>
+                	<div class="subCategory"><a href="/us/en/GORE-TEX-womens" title="GORE-TEX®">GORE-TEX®</a></div>
+            	</div>
+            	<div class="MMCol3">
+					<div class="subCategoryfirst"><a href="/us/en/womens" title="Shop by Fit">Shop by Fit</a></div>
+                	<div class="subCategory"><a href="/us/en/extra-wide-shoes" title="Extra Extra Wide Shoes">Extra Extra Wide Shoes</a></div>
+                	<div class="subCategory"><a href="/us/en/extra-wide-sandals" title="Extra Extra Wide Sandals">Extra Extra Wide Sandals</a></div>
+                	<div class="subCategory"><a href="/us/en/extra-wide-boots" title="Extra Extra Wide Boots">Extra Extra Wide Boots</a></div>
+                	<div class="subCategory"><a href="/us/en/eee-shoes" title="EEE Shoes">EEE Shoes</a></div>
+                	<div class="subCategory"><a href="/us/en/eee-sandals" title="EEE Sandals">EEE Sandals</a></div>
+                	<div class="subCategory"><a href="/us/en/womens-slim-fit" title="Slim fit">Slim fit (New)</a></div>
+                	<div class="subCategory"><a href="/us/en/womens-size-35" title="Size 3.5">Size 3.5 (New)</a></div>
+                    <div class="subCategorysec"><a href="/us/en/womens" title="Shop by Trend">Shop by Trend</a></div>
+                	<div class="subCategory"><a href="/us/en/womens-canvas-classic" title="Canvas Classics">Canvas Classics</a></div>
+                    <div class="subCategory"><a href="/us/en/power-flowers" title="Power Flowers">Power Flowers</a></div>
+                	<div class="subCategory"><a href="/us/en/womens-moccasins-loafers" title="Moccasins &amp; Loafers">Moccasins &amp; Loafers</a></div>
+                	<div class="subCategory"><a href="/us/en/womens-colour-pops" title="Colour Pops">Colour Pops</a></div>
+                	<div class="subCategory"><a href="/us/en/nautical" title="Natical">Nautical</a></div>
+                	<div class="subCategory"><a href="/us/en/tuxedo" title="Tuxedo">Tuxedo</a></div>
+            	</div>
+            	<div class="MMCol4">
+
+                	<div class="subCategoryfirst"><a href="/us/en/womens" title="Shop by Occasion">Shop by Occasion</a></div>
+                    <div class="subCategory"><a href="/us/en/womens-vacation-store" title="Vacation Store">Vacation Store</a></div>
+                    <div class="subCategory"><a href="/us/en/wedding" title="Wedding">Wedding</a></div>
+                    <div class="subCategory"><a href="/us/en/womens-garden-party" title="Garden Party">Garden Party</a></div>
+                    <div class="subCategory"><a href="/us/en/leisure" title="Leisure">Leisure</a></div>
+                	<div class="subCategory"><a href="/us/en/womens-party" title="Party">Party</a></div>
+                	<div class="subCategory"><a href="/us/en/womens-on-the-beach" title="On The Beach">On The Beach</a></div>
+                	<div class="subCategory"><a href="/us/en/womens-formal" title="Formal">Formal</a></div>
+            	</div>
+                <div class="MMCol5">
+                	<div class="subCategoryfirst"><img src="/wcsstore/HotterStorefrontAssetStore/content/images/homepage/MegaMenu/us-mm-womens.jpg" width="186" height="380" alt="Womens"></div>
+                </div>
+            	<div class="bottombuffer">&nbsp;</div>
+            </div>
+        </div>
+    </li>
+    
+    <li class="topitem"><a href="/us/en/mens" class="drop">MEN</a>
+        <div class="dropdown_1column">
+        	<div class="MMCols">
+        		<div class="MMCol1">
+                	<div class="subCategoryfirst"><a href="/us/en/mens" title="Shop by Category">View All</a></div>
+                    <div class="subCategory"><a href="/us/en/viewallmens" title="Shoes">View All Men's</a></div>
+            		<div class="subCategorysec"><a href="/us/en/mens" title="Shop by Category">Shop by Category</a></div>
+                    <div class="subCategory"><a href="/us/en/mens-shoes" title="Shoes">Shoes</a></div>
+                    <div class="subCategory"><a href="/us/en/mens-sandals" title="Sandals">Sandals</a></div>
+                    <div class="subCategory"><a href="/us/en/mens-boots" title="Boots">Boots</a></div>
+                    <div class="subCategory"><a href="/us/en/GORE-TEX-mens" title="GORE-TEX®">GORE-TEX®</a></div>
+                    <div class="subCategory"><a href="/us/en/mens-slippers" title="Slippers">Slippers</a></div>
+            	</div>
+            	<div class="MMCol2">
+            		<div class="subCategoryfirst"><a href="/us/en/mens" title="Hotter Highlights">Hotter Highlights</a></div>
+                    <div class="subCategory"><a href="/us/en/mens-new-arrivals" title="New Arrivals">New In</a></div>
+                    <div class="subCategory"><a href="/us/en/mens-best-sellers" title="Best Sellers">Best Sellers</a></div>
+                    <div class="subCategory"><a href="/us/en/men-sale" title="Sale">Last Chance</a></div>
+                    <div class="subCategorysec"><a href="/us/en/mens" title="Shop by Style">Shop by Style</a></div>
+                    <div class="subCategory"><a href="/us/en/Mens-Casuals" title="Casuals">Casuals</a></div>
+                    <div class="subCategory"><a href="/us/en/mens-formals" title="Formal">Formal</a></div>
+                    <div class="subCategory"><a href="/us/en/Mens-Classics" title="Classics">Hotter Classics</a></div>
+                    <div class="subCategory"><a href="/us/en/mens-vacation-store" title="Vacation Store">Vacation Store</a></div>
+                    <div class="subCategory"><a href="/us/en/GORE-TEX-mens" title="GORE-TEX">GORE-TEX®</a></div>
+                </div>
+                <div class="MMCol3">
+                	<div class="subCategoryfirst"><a href="/us/en/info/dual-fit" title="Shop by Fit">Shop by Fit</a></div>
+                    <div class="subCategory"><a href="/us/en/info/dual-fit" title="Dual Fit">Dual Fit (Wide Fit)</a></div>
+                </div>
+                <div class="MMCol45">
+                	<div class="subCategoryfirst"><img src="/wcsstore/HotterStorefrontAssetStore/content/images/homepage/MegaMenu/us-mm-mens.jpg" width="372" height="259" alt="Mens"></div>
+                </div>
+                <div class="bottombuffer">&nbsp;</div>
+            </div>
+        </div>
+    </li>
+    <li class="topitem"><a href="/us/en/extrawide" class="drop">EXTRA WIDE</a>
+        <div class="dropdown_1column">
+        	<div class="MMCols">
+        		<div class="MMCol1">
+                	<div class="subCategoryfirst"><a href="/us/en/viewallextrawide" title="View All">View All</a></div>
+                    <div class="subCategory"><a href="/us/en/viewallextrawide" title="View All Extra Wide">View All Extra Wide</a></div>
+            		<div class="subCategorysec"><a href="/us/en/extrawide" title="Shop Extra Wide">Shop Extra Wide</a></div>
+                    <div class="subCategory"><a href="/us/en/extra-wide-shoes" title="Extra Wide Shoes">Extra Wide Shoes</a></div>
+                    <div class="subCategory"><a href="/us/en/extra-wide-sandals" title="Extra Wide Sandals">Extra Wide Sandals</a></div>
+                    <div class="subCategory"><a href="/us/en/extra-wide-flats" title="Extra Wide Flats">Extra Wide Flats</a></div>
+                    <div class="subCategory"><a href="/us/en/extra-wide-heels" title="Extra Wide Heels">Extra Wide Heels</a></div>
+                    <div class="subCategory"><a href="/us/en/extra-wide-active" title="Extra Wide Active">Extra Wide Active</a></div>
+                    <div class="subCategory"><a href="/us/en/info/dual-fit" title="Men's Dual Fit">Men's Dual Fit</a></div>
+            	</div>
+            	<div class="MMCol2">
+            		<div class="subCategoryfirst"><a href="/us/en/extrawide" title="Shop EEE Fit">Shop EEE Fit</a></div>
+                    <div class="subCategory"><a href="/us/en/eee-shoes" title="EEE Shoes">EEE Shoes</a></div>
+                    <div class="subCategory"><a href="/us/en/eee-sandals" title="EEE Sandals">EEE Sandals</a></div>
+                    <div class="subCategorysec"><a href="/us/en/extrawide" title="Shop Slim Fit NEW">Shop Slim Fit NEW</a></div>
+                    <div class="subCategory"><a href="/us/en/womens-slim-fit" title="Slim Fit Shoes">Slim Fit Shoes</a></div>
+                </div>
+                <div class="MMCol3">
+                	&nbsp;
+                </div>
+                <div class="MMCol45">
+                	<div class="subCategoryfirst"><img src="/wcsstore/HotterStorefrontAssetStore/content/images/homepage/MegaMenu/us-mm-widefit.jpg" width="372" height="236" alt="Extra Wide"></div>
+                </div>
+                <div class="bottombuffer">&nbsp;</div>
+            </div>
+        </div>
+    </li>
+    <li class="topitem"><a href="/us/en/GORE-TEX" class="drop">GORE-TEX®</a>
+        <div class="dropdown_1column">
+        	<div class="MMCols">
+            	<div class="MMCol1">
+                	<div class="subCategoryfirst"><a href="/us/en/GORE-TEX" title="Shop by Category">Shop by Category</a></div>
+                    <div class="subCategory"><a href="/us/en/GORE-TEX-womens" title="Women's GORE-TEX">Women's GORE-TEX®</a></div>
+                    <div class="subCategory"><a href="/us/en/GORE-TEX-mens" title="Men's GORE-TEX">Men's GORE-TEX®</a></div>
+                </div>
+                <div class="MMCol2">
+                	&nbsp;
+                </div>
+                <div class="MMCol3">
+                	&nbsp;
+                </div>
+                <div class="MMCol45">
+                	<div class="subCategoryfirst"><img src="/wcsstore/HotterStorefrontAssetStore/content/images/homepage/MegaMenu/us-mm-goretex.jpg" width="372" height="236" alt="Gore-Tex"></div>
+                </div>
+                <div class="bottombuffer">&nbsp;</div>
+            </div>
+        </div>
+    </li>
+    <li class="topitem"><a href="/us/en/Accessories" class="drop">ACCESSORIES</a>
+        <div class="dropdown_1column">
+        	<div class="MMCols">
+            	<div class="MMCol1">
+                	<div class="subCategoryfirst"><a href="/us/en/viewallaccessories" title="View All">View All</a></div>
+                    <div class="subCategory"><a href="/us/en/viewallaccessories" title="View All Accessories">View All Accessories</a></div>
+                    <div class="subCategory"><a href="/us/en/viewallaccessorieswomens" title="Women's Accessories">Women's Accessories</a></div>
+                    <div class="subCategory"><a href="/us/en/viewallaccessoriesmens" title="Men's Accessories">Men's Accessories</a></div>
+                </div>
+        		<div class="MMCol2">
+                	<div class="subCategoryfirst"><a href="/us/en/Accessories" title="Shop by Catagory">Shop by Category</a></div>
+                    <div class="subCategory"><a href="/us/en/accessories-purses" title="Purses">Purses</a></div>
+                    <div class="subCategory"><a href="/us/en/accessories-wallets" title="Wallets">Wallets</a></div>
+                    <div class="subCategory"><a href="/us/en/accessories-shoe-care" title="Shoecare">Shoecare</a></div>
+                    <div class="subCategory"><a href="/us/en/accessories-socks" title="Socks">Socks</a></div>
+                    <div class="subCategory"><a href="/us/en/accessories-umbrellas" title="Umbrellas">Umbrellas</a></div>
+                    <div class="subCategory"><a href="/us/en/accessories-gift-vouchers" title="Gift Vouchers">Gift Vouchers</a></div>
+                </div>
+            	<div class="MMCol3">
+					<div class="subCategoryfirst"><a href="/us/en/Accessories" title="Shop by Catagory">Hotter Highlights</a></div>
+                    <div class="subCategory"><a href="/us/en/accessories-new-this-season" title="New In">New In</a></div>
+                    <div class="subCategory"><a href="/us/en/accessories-best-sellers" title="Best Sellers">Best Sellers</a></div>
+                    <div class="subCategory"><a href="/us/en/Accessories-last-chance" title="Last Chance">Last Chance</a></div>
+            	</div>
+              <div class="MMCol45">
+                	<div class="subCategoryfirst"><img src="/wcsstore/HotterStorefrontAssetStore/content/images/homepage/MegaMenu/us-mm-accessories.jpg" width="372" height="236" alt="Accessories"></div>
+              </div>
+            	<div class="bottombuffer">&nbsp;</div>
+            </div>
+        </div>
+    </li>
+    <li class="topitem"><a href="/us/en/sale" class="drop">SALE</a>
+        <div class="dropdown_1column">
+        	<div class="MMCols">
+        		<div class="MMCol1">
+            		<div class="subCategoryfirst"><a href="/us/en/sale" title="Mid Season Sale">Mid Season Sale</a></div>
+                    <div class="subCategory"><a href="/us/en/womens-sale" title="Women's Mid Season Sale">Women's Mid Season Sale</a></div>
+                    <div class="subCategory"><a href="/us/en/men-sale" title="Men's Mid Season Sale">Men's Mid Season Sale</a></div>
+                    <!--<div class="subCategory"><a href="/us/en/Accessories-last-chance" title="Men's Sale">Accessories Last Chance</a></div>-->
+            	</div>
+                <div class="MMCol2">
+                	&nbsp;
+                </div>
+                <div class="MMCol3">
+                	&nbsp;
+                </div>
+                <div class="MMCol45">
+                	<div class="subCategoryfirst"><img src="/wcsstore/HotterStorefrontAssetStore/content/images/homepage/MegaMenu/us-mm-midseason.jpg" width="372" height="236" alt="Mid Season Sale"></div>
+                </div>
+            	<div class="bottombuffer">&nbsp;</div>
+            </div>
+        </div>
+    </li>
+    <li class="topitem"><a href="/us/en/comfort-club/ComfortClubHome" class="drop">COMFORT CLUB</a>
+        <div class="dropdown_1column">
+        	<div class="MMCols">
+        		<div class="MMCol1CC">
+					<div>
+            		<div class="subCategoryfirst"><a href="/us/en/comfort-club/ComfortClubHome" title="New This Season">Join us today</a></div>
+                    <div class="subCategory"><a href="/us/en/info/Comfort-Since-1959" title="Comfort Since 1959">Comfort Since 1959</a></div>
+                    <div class="subCategory"><a href="/us/en/info/Hotter-Shopping-Guide" title="Hotter Shopping Guide">Hotter Shopping Guide</a></div>
+                    <div class="subCategory"><a href="/us/en/info/Healthy-Happy-Feet" title="Foot care Advice">Foot care Advice</a></div>
+                    <div class="subCategory"><a href="/us/en/info/As-Seen-In" title="As Seen In">As Seen In</a></div>
+                    <div class="subCategory"><a href="/us/en/info/Comfort-Club-Editions" title="Comfort Club Magazines">Comfort Club Magazines</a></div>
+                    <div class="subCategory"><a href="/webapp/wcs/stores/servlet/AjaxStoreLocatorDisplayView?catalogId=11551&amp;langId=44&amp;storeId=10151" title="Our Stores">Our Stores</a></div>
+                    <div class="subCategory"><a href="/us/en/comfort-club/ComfortClubHome" title="Latest News">Latest News</a></div>
+                    </div>
+                </div>
+              
+              <div class="MMCol2CC">
+					<div><a href="/us/en/comfort-club/0615-all-white"><img src="/wcsstore/HotterStorefrontAssetStore/content/images/homepage/MegaMenu/mm-cc-1.jpg" alt="On the beach" width="216" height="131" border="0"></a>
+                        <div class="MMCCtiles"><a style="text-decoration:none;" href="/us/en/comfort-club/0615-all-white">All White</a></div>
+                    </div>
+					<div>
+                    	<a href="/us/en/comfort-club/0415-Hotter-loves-mums"><img src="/wcsstore/HotterStorefrontAssetStore/content/images/homepage/MegaMenu/mm-cc-4.jpg" width="216" height="131" alt="Style Notes"></a>
+                    	<div class="MMCCtiles2"><a style="text-decoration:none;" href="/us/en/comfort-club/0415-Hotter-loves-mums">Hotter Loves Mums</a></div>
+                    </div>
+              </div>
+              
+              <div class="MMCol3CC">
+					<div>
+                    	<a href="/us/en/comfort-club/0615-usa-gets-hotter"><img src="/wcsstore/HotterStorefrontAssetStore/content/images/homepage/MegaMenu/mm-cc-2.jpg" width="216" height="131" alt="Comfort Testing Vets"></a>
+                    	<div class="MMCCtiles"><a style="text-decoration:none;" href="/us/en/comfort-club/0615-usa-gets-hotter">The USA Gets Hotter!</a></div>
+                    </div>
+					<div>
+                    	<a href="/us/en/comfort-club/1214-fromfirstsketch"><img src="/wcsstore/HotterStorefrontAssetStore/content/images/homepage/MegaMenu/mm-cc-5.jpg" width="216" height="131" alt="Let's get Creative"></a>
+                        <div class="MMCCtiles2"><a style="text-decoration:none;" href="/us/en/comfort-club/1214-fromfirstsketch">From First Sketch</a></div>
+                    </div>
+              </div>
+              
+              <div class="MMCol4CC">
+					<div>
+                    	<a href="/us/en/comfort-club/0615-focus-on-mens"><img src="/wcsstore/HotterStorefrontAssetStore/content/images/homepage/MegaMenu/mm-cc-3.jpg" width="216" height="131" alt="If the shoes fits"></a>
+                    	<div class="MMCCtiles"><a style="text-decoration:none;" href="/us/en/comfort-club/00615-focus-on-mens">Packed With Performance</a></div>
+                    </div>
+                    <div>
+                    	<a href="/us/en/comfort-club/Lets-Get-Technical"><img src="/wcsstore/HotterStorefrontAssetStore/content/images/homepage/MegaMenu/mm-cc-6.jpg" width="216" height="131" alt="Hotter Loves Mums"></a>
+                    	<div class="MMCCtiles2"><a style="text-decoration:none;" href="/us/en/comfort-club/Lets-Get-Technical">Let's Get Technical</a></div>
+                    </div>
+              </div>
+              
+                <div class="bottombufferCC">&nbsp;</div>
+            </div>
+        </div>
+    </li>
+</ul>
+
+
+<div style="clear:both;"></div>
+
+<div id="USPGeneric"> 
+    
+    <div id="USPVar1">
+
+		<div class="headcp1">
+			<div class="headlink" style="width:230px;"><a class="hlinks" href="http://web.archive.org/us/en/info/The-Comfort-Concept">The Comfort Concept® &gt;</a></div>
+		</div>
+
+		<div class="headcp2">|</div>
+    
+		<div class="headcp3">
+			<div class="headlink" style="width:488px;"><a class="hlinks" href="http://web.archive.org/us/en/info/Offers">20% off  plus free shipping* Use code: <span id="Toffercode">MMETWN</span> See terms &gt;</a></div>
+		</div>
+
+		<div class="headcp4">|</div>
+    
+		<div class="headcp5">
+        	<div class="headnolink" style="width:210px;">Call Us: 1 866 378 7811</div>
+		</div>
+
+	</div>
+        
 </div>
-
-
-<div class="hlinks2" id="headcp2">|</div>
-<div id="headcp3">
-<div style="float:left; padding:0px 0 0 0; width:528px; display:inline-block; text-align:center;"><a id="hlinks" href="http://web.archive.org/gb/en/info/Offers">
-FREE UK Delivery On Your Next Order! Use Code <span id="Toffercode">MLMFPP</span>&nbsp;&nbsp;See Terms <img style="margin:0 0 0 2px;" src="/wcsstore/HotterStorefrontAssetStore/content/images/homepage/Header/headarr-sale.gif" border="0"></a></div>
-<div style="float:left; padding:5px 0 0 5px;"></div>
-</div>
-
-<!--<div class="hlinks2" id="headcp4">|</div>
-<div id="headcp5">
-<div style="float:left; padding:0px 0 0 0; width:540px; display:inline-block; text-align:center;"><a id="hlinks" href="/gb/en/info/Offers">
-&pound;10 off every style plus FREE UK Delivery. Quote Offer Code <span id="Toffercode">MLETPD</span>&nbsp;&nbsp;See Terms <img style="margin:0 0 0 2px;" src="/wcsstore/HotterStorefrontAssetStore/content/images/homepage/Header/headarr-sale.gif"  border="0"/></a></div>
-
-<div id="headswitchdefaultarr" style="float:left; padding:5px 0 0 5px; "></div>
-</div>--></div>
-</div>
-
-
-<div id="USPvouch">
-<div id="headerss12">
-<div id="headcp555">
-<div id="headswitchdefault" style="padding:0px 0 0 0; width:930px; display:inline-block; text-align:center; font-family:Arial, Helvetica, sans-serif; font-size:13px; color:#fff;">Enjoy £10 off your next purchase - Use Code RAXTPD</div>
-
-<div id="headswitchdefaultarr" style="float:left; padding:5px 0 0 5px; "></div>
-</div></div>
-</div>
-
-<div id="USPtrends">
-<div id="headerss12">
-<div id="headcp555">
-<div id="headswitchdefault" style="padding:0px 0 0 0; width:930px; display:inline-block; text-align:center; font-family:Arial, Helvetica, sans-serif; font-size:13px; color:#fff;">20% off plus FREE UK Delivery on your first order - Use Code MLATWN &gt;</div>
-
-<div id="headswitchdefaultarr" style="float:left; padding:5px 0 0 5px; "></div>
-</div></div>
-</div>
-
-<script type="text/javascript">
-
-//Get URL Parameter
-function GetURLforswitch(switchParam)
-{
-	var switchURL = window.location.search.substring(1);
-	var switchURLsplit = switchURL.split('&');
-	for (var iswch = 0; iswch < switchURLsplit.length; iswch++)
-	{
-		var switchParamName = switchURLsplit[iswch].split('=');
-		if (switchParamName[0] == switchParam)
-		{
-			return switchParamName[1];
-		}
-	}
-}
-
-var whatsmyParam = GetURLforswitch('otrack');
-
-//Drop Cookie for var
-if (whatsmyParam=="email")
-  {
-  document.cookie = 'switchcodecookie = email; path=/';
-  }
-if (whatsmyParam=="cpc")
-  {
-  document.cookie = 'switchcodecookie = cpc; path=/';
-  }
-if (whatsmyParam=="aff")
-  {
-  document.cookie = 'switchcodecookie = aff; path=/';
-  }
-if (whatsmyParam=="gdn" || whatsmyParam=="criteo")
-  {
-  document.cookie = 'switchcodecookie = gdncrit; path=/';
-  }
-if (whatsmyParam=="shpch")
-  {
-  document.cookie = 'switchcodecookie = shpch; path=/';
-  }
-
-//Get cookie data
-if(typeof String.prototype.trim !== 'function') {
-  String.prototype.trim = function() {
-    return this.replace(/^\s+|\s+$/g, ''); 
-  }
-}
-
-function getCookieOfferT(cnameoffer)
-{
-var cnameofferA = cnameoffer + "=";
-var getallcooks = document.cookie.split(';');
-for(var icok=0; icok<getallcooks.length; icok++)
-	{
-	var trimedcooks = getallcooks[icok].trim();
-	if (trimedcooks.indexOf(cnameofferA)==0) return trimedcooks.substring(cnameofferA.length,trimedcooks.length);
-	}
-return "";
-}
-
-var whatsmyParamCookie=getCookieOfferT('switchcodecookie');
-
-//set USP bar
-if (whatsmyParamCookie=="email")
-  {
-  document.getElementById('Toffercode').innerHTML = 'LLMFPP';
-  }
-if (whatsmyParamCookie=="cpc")
-  {
-  document.getElementById('Toffercode').innerHTML = 'ZLMFPP';
-  }
-if (whatsmyParamCookie=="aff")
-  {
-  document.getElementById('Toffercode').innerHTML = 'XLMFPP';
-  }
-if (whatsmyParamCookie=="gdncrit")
-  {
-  document.getElementById('Toffercode').innerHTML = 'YLMFPP';
-  }
-if (whatsmyParamCookie=="shpch")
-  {
-  document.getElementById('Toffercode').innerHTML = 'MLMFPP';
-  }
-
-</script>
 
 <script type="text/javascript">
 if ("https:" == document.location.protocol) {
@@ -1831,6 +2018,134 @@ for (var USPtlinki = 0; USPtlinki < USPlinkch.length; USPtlinki++) {
 	}
 }
 </script>
+
+<script type="text/javascript">
+if ("https:" == document.location.protocol) {
+var MMlinkch = jQuery('.topitem a');
+for (var MMtlinki = 0; MMtlinki < MMlinkch.length; MMtlinki++) {
+	var MMlinkstr = MMlinkch[MMtlinki].toString();
+	var MMlinkres = MMlinkstr.replace("https", "http"); 
+	MMlinkch[MMtlinki].href = MMlinkres;
+	}
+}
+</script>
+
+<script type="text/javascript">
+function isTouchDevice(){
+    return typeof window.ontouchstart !== 'undefined';
+}
+
+jQuery(document).ready(function(){
+    /* If mobile browser, prevent click on parent nav item from redirecting to URL */
+	//alert(isTouchDevice())
+    if(isTouchDevice()) {
+        // 1st click, add "clicked" class, preventing the location change. 2nd click will go through.
+        jQuery(".topitem > a").click(function(event) {
+            // Perform a reset - Remove the "clicked" class on all other menu items
+            jQuery(".topitem > a").not(this).removeClass("clicked");
+            jQuery(this).toggleClass("clicked");
+            if (jQuery(this).hasClass("clicked")) {
+                event.preventDefault();
+            }
+        });
+    }
+});
+</script>
+
+<script type="text/javascript">
+jQuery( document ).ready(function() {
+jQuery( "#menu li" ).mouseenter(function() {
+  jQuery('.dropdownunderlay').css('display','block')
+});
+
+jQuery( "#menu li" ).mouseleave(function() {
+  jQuery('.dropdownunderlay').css('display','none')
+});
+});
+</script>
+
+<script type="text/javascript">
+function Defaultrandom()
+   {
+	   var min = 1;
+	   var max = 100;
+	   PercentChoice = Math.floor(Math.random() * (max - min + 1)) + min;
+   }
+
+function CAPTUREPLUS_ON_OFF(variationpath)
+	{
+		if (variationpath == 1)
+			{
+				captureplusYN = 'On'
+			}
+		if (variationpath == 0)
+			{
+				captureplusYN = 'Off'
+			}
+		if (variationpath < '0' || variationpath > '1')
+			{
+				
+				Defaultrandom()
+				if (PercentChoice > 50)
+					{
+						cxApi.setChosenVariation(1, 'fJCvE4epTX2pAgXs7FYZcg');
+						captureplusYN = 'On'
+					}
+				if (PercentChoice < 51)
+					{
+						cxApi.setChosenVariation(0, 'fJCvE4epTX2pAgXs7FYZcg');
+						captureplusYN = 'Off'
+					}
+			}
+	}
+	
+function CapturePlusOff()
+{
+	jQuery(window).load(function(){
+		jQuery('.HForm').css('display','none');
+		jQuery('.HAddress_Finder').css('display','none');
+		jQuery.fx.off = true;
+		if (document.getElementById('HAddressFinderAlternate')) 
+			{
+  				jQuery('#HAddressFinderAlternate')[0].click();
+			}
+		jQuery.fx.off = false;
+
+		if (document.getElementById('WC_UserRegistrationAddForm_NameEntryForm_FormInput_personTitle_1')) 
+			{
+			var TitleremoverDDList=document.getElementById('WC_UserRegistrationAddForm_NameEntryForm_FormInput_personTitle_1');
+			TitleremoverDDList.remove(8);
+			TitleremoverDDList.remove(7);   
+			TitleremoverDDList.remove(6);
+			TitleremoverDDList.remove(5);  
+			}
+	});
+}
+
+
+if(document.URL.indexOf("GuestWelcomeView") == -1){
+
+		CapturePlusOff()
+		console.log('Capture Plus Off - Not Guest Welcome');
+
+}
+else
+{
+	var captureplusYN = 'No Data';
+	var variationCP = cxApi.getChosenVariation('fJCvE4epTX2pAgXs7FYZcg');
+	//var variationCP = -1
+	CAPTUREPLUS_ON_OFF(variationCP);
+	console.log('Capture Plus Yes/No = ' + captureplusYN);
+	if (captureplusYN == 'Off')
+		{
+			CapturePlusOff()
+			console.log('Capture Plus Off - Guest Welcome ' + captureplusYN);
+		}
+}
+</script>
+
+
+
 		<div class="clear_both"></div>
 	</div>
 	
@@ -1866,91 +2181,177 @@ for (var USPtlinki = 0; USPtlinki < USPlinkch.length; USPtlinki++) {
 							<div class="main_content">
 								<!-- Start Main Content --><!-- Static Page Content --><!-- BEGIN ESpotTitle_UI.jspf --><!-- END ESpotTitle_UI.jspf -->
 
-	<div id="FAQ-Privacy-SecurityCenter_Content_29906" class="widget_height">
+	<div id="privacy-policyCenter_Content_91901" class="widget_height">
 		<style type="text/css">
-.AW13Titles {font-family:"Times New Roman", Times, serif; font-size:21px; color:#58595b; padding:10px 0 15px 0;}
-.AW13SubTitles {font-family:"Times New Roman", Times, serif; font-weight:normal; font-size:18px; color:#58595b; padding:20px 0 5px 0;}
-.AW13BodyCopy {font-family:Arial, Helvetica, sans-serif; font-size:12px; color:#58595b;}
-#faq_menu {width:200px; float:left; color:#58595b; padding:5px 0 0 0;}
-#right_content {width:730px; float:left;}
-.FAQlinks {font-family:'Times New Roman', Times, serif; color:#58595b; font-size:12px; margin:0 0 3px 0;}
-.AW13Titles {font-family:"Times New Roman", Times, serif; font-size:21px; color:#58595b;}
-#block,#block2,#block3,#block4,#block5,#block6,#block7,#block8,#block9{font-family:Arial, Helvetica, sans-serif; font-size:11px; color:#58595b; padding:10px 0 0 5px; font-style:italic;}
-</style> 
+#maincontent {Width: 100% !important;}
+.tctitlemain {font-family:"Times New Roman", Times, serif; font-weight:normal; font-size:21px; color:#58595b; padding:20px 0 5px 0;}
+.tctitle {font-family:"Times New Roman", Times, serif; font-weight:normal; font-size:18px; color:#58595b; padding:20px 0 5px 0;}
+.tccopy {font-family:Arial, Helvetica, sans-serif; font-size:12px; color:#58595b;}
+.greylink {font-family:Arial, Helvetica, sans-serif; font-size:12px; color:#58595b;}
+li.toc {font-family:Arial, Helvetica, sans-serif; font-size:12px; color:#58595b; margin-left:15px; padding-left:5px; text-decoration:none;}
+li.list1 {font-family:Arial, Helvetica, sans-serif; font-size:12px; color:#58595b; margin-left:15px; padding-left:5px;}
+</style>
 
-<div style="line-height:1em">
+<div style="line-height:1em;">
 
-<div id="faq_menu">
-	<div><a class="FAQlinks" href="/gb/en/info/FAQ">››&nbsp;FAQ</a></div>
-    <div><a class="FAQlinks" href="/gb/en/info/FAQ-Fittings">››&nbsp;Fitting</a></div>
-    <div><a class="FAQlinks" href="/gb/en/info/FAQ-Gift-Vouchers">››&nbsp;Gift Vouchers</a></div>
-    <div><a class="FAQlinks" href="/gb/en/info/FAQ-Ordering">››&nbsp;Ordering Information</a></div>
-    <div><a class="FAQlinks" href="/gb/en/info/FAQ-our-service">››&nbsp;Our Services</a></div>
-    <div><a class="FAQlinks" href="/gb/en/info/FAQ-Privacy-Security">››&nbsp;Privacy and Security</a></div>
-    <div><a class="FAQlinks" href="/gb/en/info/FAQ-product-information">››&nbsp;Product Information</a></div>
-    <div><a class="FAQlinks" href="/gb/en/info/FAQ-purchasing-online">››&nbsp;Purchasing Online</a></div>
-    <div><a class="FAQlinks" href="/gb/en/info/FAQ-returning-goods">››&nbsp;Returning Goods</a></div>
-    <div><a class="FAQlinks" href="/gb/en/webapp/wcs/stores/servlet/AjaxStoreLocatorDisplayView?catalogId=11551&amp;langId=44&amp;storeId=10151">››&nbsp;Hotter Stores</a></div>
-    <div><a class="FAQlinks" href="/gb/en/info/FAQ-international-orders">››&nbsp;International Orders</a></div>
-    <div><a class="FAQlinks" href="/gb/en/info/FAQ-Contact-Us">››&nbsp;Contact Us</a></div>
-    <div><a class="FAQlinks" href="/gb/en/info/Glossary">››&nbsp;Glossary</a></div>
-</div>
+<div class="tctitlemain">III. Our Privacy Policy <!--(Last Revised 09/08/2014)--></div>
 
-<div id="right_content">
-<a id="top" name="top"></a>
-<div class="AW13Titles">Privacy and Security</div>
-<div style="float: left; width: 500px; font-size:14px;">
-<ul style="padding-right: 0px; padding-left: 0px; padding-bottom: 0px; margin: 0px; color: #666666; line-height: 15px; padding-top: 0px; list-style-type: none">
-<li style="padding-right: 5px; padding-left: 0px; padding-bottom: 5px; padding-top: 5px; border-bottom: #666666 1px solid"><a onmouseover="this.style.textDecoration = 'underline'" style="color: #58595b; text-decoration: none" onmouseout="this.style.textDecoration = 'none'" href="#safely">How do I know I can order safely?</a></li>
-<li style="padding-right: 5px; padding-left: 0px; padding-bottom: 5px; padding-top: 5px; border-bottom: #666666 1px solid"><a onmouseover="this.style.textDecoration = 'underline'" style="color: #58595b; text-decoration: none" onmouseout="this.style.textDecoration = 'none'" href="#personal">How will you use my personal information?</a></li> 
-<li style="padding-right: 5px; padding-left: 0px; padding-bottom: 5px; padding-top: 5px; border-bottom: #666666 1px solid"><a onmouseover="this.style.textDecoration = 'underline'" style="color: #58595b; text-decoration: none" onmouseout="this.style.textDecoration = 'none'" href="#thawte">What is GeoTrust?</a></li>
-<li style="padding-right: 5px; padding-left: 0px; padding-bottom: 5px; padding-top: 5px; border-bottom: #666666 1px solid"><a onmouseover="this.style.textDecoration = 'underline'" style="color: #58595b; text-decoration: none" onmouseout="this.style.textDecoration = 'none'" href="#personal">Is my personal information confidential?</a></li>
-<li style="padding-right: 5px; padding-left: 0px; padding-bottom: 5px; padding-top: 5px; border-bottom: #666666 1px solid"><a onmouseover="this.style.textDecoration = 'underline'" style="color: #58595b; text-decoration: none" onmouseout="this.style.textDecoration = 'none'" href="#privacy">Do you have a privacy policy?</a></li>
-<li style="padding-right: 5px; padding-left: 0px; padding-bottom: 5px; padding-top: 5px; border-bottom: #666666 1px solid"><a onmouseover="this.style.textDecoration = 'underline'" style="color: #58595b; text-decoration: none" onmouseout="this.style.textDecoration = 'none'" href="#cookie">Do you use cookies?</a> </li></ul>
-<br>
+<div class="tccopy">At Hotter USA we value our customers and respect your privacy. Accordingly, we want you to understand what information we collect about you, how we use it, and the safeguards we have in place to protect it. This policy describes the personal information we collect about you, why we collect it, how we use it, and when we share it with third parties. Our policy also describes the choices you can make about how we collect and use your information. If our policy changes, we will post an updated policy on the Website. You can tell if the policy has changed by checking the revision date that appears above.</div>
 
-<div class="AW13SubTitles">How do I know I can order safely?<a id="safely" name="safely"></a></div>
-<div class="AW13BodyCopy">At Hotter Comfort Concept, we are committed to protecting the security and confidentiality of your personal information by providing you with a safe and secure environment. <br><br>
- www.hotter.com uses a server certificate (GeoTrust) to assure you of our identity and a SSL (Secure Sockets Layer) to encrypt all data to and from the site. You can check our security and certificate by double clicking on the padlock icon at the bottom of the page.</div>
-<div id="block">Was this helpful? <a onclick="hide('block', 0)" href="#&amp;utm_source=HottershoesFAQ&amp;utm_medium=FaqPrivacy&amp;utm_campaign=Q1PrivacyYes">Yes</a> / <a onclick="hide('block', 1)" href="#&amp;utm_source=HottershoesFAQ&amp;utm_medium=FaqPrivacy&amp;utm_campaign=Q1PrivacyNo">No</a></div>
-<div style="clear: both; float: right; margin-bottom: 10px; width: 40px; padding-top: 2px; height: 20px; text-align: center"><a style="color: #58595b; font-family: Arial, Helvetica, sans-serif" href="#top">^TOP</a></div><br>
+<div class="tctitle">Table of Contents</div>
+  <ul>
+    <li class="toc"><a class="greylink" href="#title1">The Information We Collect</a></li>
+    <li class="toc"><a class="greylink" href="#title2">Using the Information We Collect</a></li>
+    <li class="toc"><a class="greylink" href="#title3">Information We Share with Others</a></li>
+    <li class="toc"><a class="greylink" href="#title4">Safeguarding the Information We Collect</a></li>
+    <li class="toc"><a class="greylink" href="#title5">Your Choices Regarding the Use</a></li>
+    <li class="toc"><a class="greylink" href="#title6">Postal Mail</a></li>
+    <li class="toc"><a class="greylink" href="#title7">Emails</a></li>
+    <li class="toc"><a class="greylink" href="#title8">Sharing with Other Companies</a></li>
+    <li class="toc"><a class="greylink" href="#title9">Notice to California Residents - Your California Privacy Rights</a></li>
+    <li class="toc"><a class="greylink" href="#title10">Updating your Contact Information</a></li>
+    <li class="toc"><a class="greylink" href="#title11">Hotter USA Customers' Privacy</a></li>
+    <li class="toc"><a class="greylink" href="#title12">Online Security</a></li>
+    <li class="toc"><a class="greylink" href="#title13">Unauthorized Charges</a></li>
+    <li class="toc"><a class="greylink" href="#title14">Cookies and Pixel Tags</a></li>
+    <li class="toc"><a class="greylink" href="#title15">Aggregate Information</a></li>
+    <li class="toc"><a class="greylink" href="#title16">Children's Privacy</a></li>
+    <li class="toc"><a class="greylink" href="#title17">Links to Third-Party Sites</a></li>
+    <li class="toc"><a class="greylink" href="#title18">Changes to this Policy</a></li>
+</ul>
+    
+<div class="tccopy">You can navigate directly to any of the above topics by clicking on it in the Table of Contents above.</div>
 
 
-<div class="AW13SubTitles">How will you use my personal information?<a id="personal" name="personal"></a></div>
-<div class="AW13BodyCopy">You can be confident  that Hotter Comfort Concept will only use your personal information for:<br>
-• The processing and supply of the goods and services we offer, research, evaluation and &nbsp;&nbsp;planning of future promotions and activities. <br>
-• To let you know via email, post or phone about new Hotter Comfort Concept products or &nbsp;&nbsp;services which may be of interest to you.<br>
-• We may also pass this information to other carefully selected third parties who may use &nbsp;&nbsp;it to tell you about other goods and services which they think you may be interested in. <br>
-• We may pass on non-personal aggregated information about sales and website usage &nbsp;&nbsp;to reputable organisations for research or analysis purposes. <br>
-• By using hottershoes.com you consent to the information you provide being used for any &nbsp;&nbsp;of the above purposes, except where you have decided to opt out of being contacted by &nbsp;&nbsp;third parties or receiving our newsletter during the registration process. To change your &nbsp;&nbsp;preferences please write to us at Customer Services, Beaconsfield Footwear Ltd, 2 Peel &nbsp;&nbsp;Road, West Pimbo, Skelmserdale, Lancashire WN8 9PT.</div>
-<div id="block2">Was this helpful? <a onclick="hide('block2', 0)" href="#&amp;utm_source=HottershoesFAQ&amp;utm_medium=FaqPrivacy&amp;utm_campaign=Q2PrivacyYes">Yes</a> / <a onclick="hide('block2', 1)" href="#&amp;utm_source=HottershoesFAQ&amp;utm_medium=FaqPrivacy&amp;utm_campaign=Q2PrivacyNo">No</a></div>
-<div style="clear: both; float: right; margin-bottom: 10px; width: 40px; padding-top: 2px; height: 20px; text-align: center"><a style="color: #58595b; font-family: Arial, Helvetica, sans-serif" href="#top">^TOP</a></div><br>
+<a name="title1"><div class="tctitle">The Information We Collect</div></a>
+<div class="tccopy">When you place an order on the Website we obtain from you the information we need to complete your transaction and other information you share that may be useful and enhance your experience as a customer. This information may include your name, address, telephone number, email address, alternate delivery address, shoe size, date of birth, mailing preferences and information concerning your manner of payment, such as credit or debit card numbers and banking information.<br><br>
+If you register with Hotter USA, we will collect the information you submit on-line in connection with that process.<br><br>
+We may, from time to time, run promotions, programs, surveys, contests or sweepstakes on the Website. If you chose to participate in any of these events we may collect additional information about you in connection with that participation.<br><br>
+We may obtain information about the specific products or services you use, or your product or service preferences from your transactions and other interactions with us.<br><br>
+We also may sometimes obtain information from you about other people. For example, if you have an item shipped directly to a third party, we may obtain that party's name, address, telephone number and email address.<br><br>
+We may also collect consumer information from third-party providers to improve the accuracy of our customer database or increase our understanding of our customers. For example, we may contract with services such as the National Change of Address Service, licensed by the U.S. Postal Service, to assist us in having correct addresses for our customers.</div>
+<div class="tccopy">We may combine some or all of the above information with information that we acquire about you from third parties or affiliates.</div>
 
 
-<div class="AW13SubTitles">What is GeoTrust?<a id="thawte" name="thawte"></a></div>
-<div class="AW13BodyCopy">GeoTrust is a certificate of authority; it gives customers peace of mind and trust when purchasing products on the web. It proves the identity of the website owner and also lets them know that personal information entered into the website will be safe and secure.</div>
-<div id="block3">Was this helpful? <a onclick="hide('block3', 0)" href="#&amp;utm_source=HottershoesFAQ&amp;utm_medium=FaqPrivacy&amp;utm_campaign=Q3PrivacyYes">Yes</a> / <a onclick="hide('block3', 1)" href="#&amp;utm_source=HottershoesFAQ&amp;utm_medium=FaqPrivacy&amp;utm_campaign=Q3PrivacyNo">No</a></div>
-<div style="clear: both; float: right; margin-bottom: 10px; width: 40px; padding-top: 2px; height: 20px; text-align: center"><a style="color: #58595b; font-family: Arial, Helvetica, sans-serif" href="#top">^TOP</a></div><br>
+<a name="title2"><div class="tctitle">Using the Information We Collect</div></a>
+<div class="tccopy">We may use the information we collect for various purposes, including:</div>
+<ul>
+    <li class="list1">To process and fulfill your order, including to send you emails to confirm your order status and shipment</li>
+    <li class="list1">To provide any services you request</li>
+    <li class="list1">To respond to your customer service inquiries or requests</li>
+    <li class="list1">To notify you of product recalls or provide other information concerning products you have purchased</li>
+    <li class="list1">To help protect against fraudulent use of your personal information or protect the security or integrity of the Website and our business</li>
+    <li class="list1">To send you our catalogs or other direct mail offerings</li>
+    <li class="list1">To administer and fulfill our customer recognition programs, sweepstakes, contests and similar promotions</li>
+    <li class="list1">To identify your product and service preferences to inform you of new or additional products, services, or promotions that might be of interest to you</li>
+    <li class="list1">To analyze trends and statistics</li>
+    <li class="list1">To invite you to participate in surveys</li> 
+    <li class="list1">To enhance your shopping experience in various ways, such as improving merchandise selections or customer service</li>
+</ul>
 
 
-<div class="AW13SubTitles">Is my personal information confidential?<a id="personal" name="personal"></a></div>
-<div class="AW13BodyCopy">Shopping online with us is safe, and we take the utmost care to ensure your personal and credit/debit card details remain private. When you go to the checkout, sign-in or enter the account management area, you are taken through our secure server. Our secure server encrypts all of your personal information including your credit/debit card number, account number, name and address, and all other personal information so that it cannot be accessed or read as the information travels over the Internet.</div>
-<div id="block4">Was this helpful? <a onclick="hide('block4', 0)" href="#&amp;utm_source=HottershoesFAQ&amp;utm_medium=FaqPrivacy&amp;utm_campaign=Q4PrivacyYes">Yes</a> / <a onclick="hide('block4', 1)" href="#&amp;utm_source=HottershoesFAQ&amp;utm_medium=FaqPrivacy&amp;utm_campaign=Q4PrivacyNo">No</a></div>
-<div style="clear: both; float: right; margin-bottom: 10px; width: 40px; padding-top: 2px; height: 20px; text-align: center"><a style="color: #58595b; font-family: Arial, Helvetica, sans-serif" href="#top">^TOP</a></div><br>
+<a name="title3"><div class="tctitle">Information We Share With Others</div></a>
+<div class="tccopy">We may share your personal information in the following ways:</div>
+<ul>
+	<li class="list1">We may provide information to affiliated companies or to other companies that provide support services that help us bring you the products and services we offer, market our products and services, process your transactions, fulfill promotions, contests or sweepstakes, or conduct surveys.</li>
+    <li class="list1">We may provide information to certain outside companies that may use the information to let you know about their products or services, which may include providing special offers to you, although we never disclose your payment details to such companies.</li>
+    <li class="list1">We may be required to disclose information we collect pursuant to lawful requests, such as subpoenas or court orders, or in compliance with applicable laws. We may also disclose that information when we believe disclosure is appropriate to protect the rights, interests and property of Hotter USA or others, and to protect the safety of customers, employees or others. This may include sharing information with other companies, attorneys, credit bureaus, agents or governmental agencies in connection with issues related to fraud, credit or debt collection. </li>
+    <li class="list1">If the ownership of all or part of the business of Hotter USA, its parent or affiliates were to change, information about customers pertinent to that business's or business segment's operations might be transferred to, or licensed for use by, the new owner. Hotter USA might also retain some or all of the information. In addition, parties exploring a potential transaction described above that is not consummated might be granted access to some information for purposes of evaluation of the transaction pursuant to a suitable confidentiality agreement.</li>
+</ul>
 
 
-<div class="AW13SubTitles">Do you have a privacy policy?<a id="privacy" name="privacy"></a></div>
-<div class="AW13BodyCopy">Yes, our privacy policy can be found on our <a href="/gb/en/info/Terms-Conditions">‘Terms and Conditions page</a>’.</div>
-<div id="block5">Was this helpful? <a onclick="hide('block5', 0)" href="#&amp;utm_source=HottershoesFAQ&amp;utm_medium=FaqPrivacy&amp;utm_campaign=Q5PrivacyYes">Yes</a> / <a onclick="hide('block5', 1)" href="#&amp;utm_source=HottershoesFAQ&amp;utm_medium=FaqPrivacy&amp;utm_campaign=Q5PrivacyNo">No</a></div>
-<div style="clear: both; float: right; margin-bottom: 10px; width: 40px; padding-top: 2px; height: 20px; text-align: center"><a style="color: #58595b; font-family: Arial, Helvetica, sans-serif" href="#top">^TOP</a></div><br>
+<a name="title4"><div class="tctitle">Safeguarding the Information We Collect</div></a>
+<div class="tccopy">Protecting your personal information is important to us. Accordingly, we have appropriate and reasonable physical, technical and procedural safeguards in place to secure the personal information we collect from you. Among other security protection measures, we protect the information you provide us by:</div>
+<ul>
+	<li class="list1">Placing your order through an advanced secure server which encrypts all the information you input before it is sent to us.</li>
+	<li class="list1">Encrypting credit card numbers both before an order is processed and when stored on the database.</li>
+</ul>
+<div class="tccopy">We also limit the information we provide to outside companies to only information we believe is appropriate to enable them to carry out their responsibilities under our contracts or to offer you their products and services.</div>
 
 
-<div class="AW13SubTitles">Do you use cookies?<a id="cookie" name="cookie"></a></div>
-<div class="AW13BodyCopy">Yes, in common with other websites we use "cookies". These are small files that our website puts on your hard drive so that it can remember information about you at a later date. Our online ordering system uses a cookie to record a unique reference on your computer so that we can keep track of your order and retain the contents in your shopping basket. Our cookie information can be found within our <a href="/gb/en/info/Hotter-Cookie-Policy">full Cookie information page</a>.</div>
-<div id="block6">Was this helpful? <a onclick="hide('block6', 0)" href="#&amp;utm_source=HottershoesFAQ&amp;utm_medium=FaqPrivacy&amp;utm_campaign=Q6PrivacyYes">Yes</a> / <a onclick="hide('block6', 1)" href="#&amp;utm_source=HottershoesFAQ&amp;utm_medium=FaqPrivacy&amp;utm_campaign=Q6PrivacyNo">No</a></div>
-<div style="clear: both; float: right; margin-bottom: 10px; width: 40px; padding-top: 2px; height: 20px; text-align: center"><a style="color: #58595b; font-family: Arial, Helvetica, sans-serif" href="#top">^TOP</a></div></div>
+<a name="title5"><div class="tctitle">Your Choices Regarding the Use of the Information We Collect</div></a>
+<div class="tccopy">You may use any of the following methods to advise us of choices you wish to make concerning use of information about you:</div>
 
-</div>
+
+<a name="title6"><div class="tctitle">Postal Mail</div></a>
+<div class="tccopy">If you do not want to receive catalogues or other promotional mail (e.g., postcards) from Hotter USA, you may:</div>
+<ul>
+	<li class="list1">write to us at USA Customer Services, Hotter Comfort Concept, 2 Peel Road, West Pimbo, Skelmersdale WN8 9PT, United Kingdom</li>
+	<li class="list1">call Toll Free 1 866 378 7811</li>
+	<li class="list1">email us at <a class="greylink" href="mailto:customerenquiries@hottercomfortshoes.com">customerenquiries@hottercomfortshoes.com</a></li>
+</ul>
+
+
+<a name="title7"><div class="tctitle">Emails</div></a>
+<div class="tccopy">If you have subscribed to receive promotional email offers and updates, you may unsubscribe at any time.</div> 
+<ul>
+    <li class="list1">You can click on the "unsubscribe" hyperlink shown in all Hotter USA email offers and follow the instructions</li>
+	<li class="list1">You may also write to us at USA Customer Services, Hotter Comfort Concept, 2 Peel Road, West Pimbo, Skelmersdale WN8 9PT, United Kingdom</li>
+	<li class="list1">call us Toll Free at 1 866 378 7811</li>
+	<li class="list1">email us at <a class="greylink" href="mailto:customerenquiries@hottercomfortshoes.com">customerenquiries@hottercomfortshoes.com</a></li>
+</ul>
+<div class="tccopy">Please note that even if you opt out from promotional email offers and updates, information about your order status will continue to be provided via email when you purchase through the Website.</div>
+
+
+<a name="title8"><div class="tctitle">Sharing with Other Companies</div></a>
+<div class="tccopy">If you prefer that we NOT share information about you with any of the companies not affiliated with Hotter USA that we have authorized to contact you regarding their products or services, please let us know by:</div>
+<ul>
+    <li class="list1">writing to us at USA Customer Services, Hotter Comfort Concept, 2 Peel Road, West Pimbo, Skelmersdale WN8 9PT, United Kingdom</li>
+    <li class="list1">calling us Toll Free at 1 866 378 7811</li>
+    <li class="list1">emailing us at <a class="greylink" href="mailto:customerenquiries@hottercomfortshoes.com">customerenquiries@hottercomfortshoes.com</a></li>
+</ul>
+
+
+<a name="title9"><div class="tctitle">Notice to California Residents - Your California Privacy Rights</div></a>
+<div class="tccopy">Under California Civil Code § 1798.83, a California resident with whom Hotter USA has an established relationship has the right to request certain information concerning the types of personal information Hotter USA has shared with third parties for their direct marketing purposes, and the identities of those third parties, within the immediately preceding calendar year (i.e., requests made in 2010 will receive information regarding information shared in 2009), subject to certain exceptions. All requests for such information must be in writing and sent by mail to: USA Customer Services, Hotter Comfort Concept, 2 Peel Road, West Pimbo, Skelmersdale WN8 9PT, United Kingdom or by email to: <a class="greylink" href="mailto:customerservices@hottercomfortshoes.com">customerservices@hottercomfortshoes.com</a>.<br><br>
+This same California law permits Hotter USA to provide you, in response to your written request, with a cost-free means to choose not to have your information shared rather than providing the above described information. You may exercise that choice by any of the means described under "Sharing with Other Companies" above.</div>
+
+
+<a name="title10"><div class="tctitle">Updating Your Contact Information</div></a>
+<div class="tccopy">You can update or correct your name, address, telephone number, email address or other information by logging into 'My Account' and making the relevant changes.</div>
+
+
+<a name="title11"><div class="tctitle">The Privacy of Hotter USA Customers</div></a>
+
+
+<a name="title12"><div class="tctitle">Online Security</div></a>
+<div class="tccopy">We use Secure Socket Layering (SSL) technology to encrypt (scramble) your credit or debit card information, including the account number, while it is transmitted over the Internet between your computer and our website servers. SSL is an industry standard technology for secure online transactions</div>
+
+
+<a name="title13"><div class="tctitle">Unauthorized Charges</div></a>
+<div class="tccopy">If unauthorized charges (as determined by your card issuer) are made on your credit or debit card as a result of purchases made on the Website utilizing our secure servers, under the Fair Credit Billing Act, your credit card provider cannot hold you liable for more than $50 of unauthorized charges on a credit card. Your liability for unauthorized use of a debit card may be higher, but many debit card issuers voluntarily apply the $50 limit to their cards as well. You need to determine for yourself whether your debit card issuer has such a policy.<br><br>
+It is important to remember that in the event of unauthorized use of your credit or debit card, you must promptly notify the card issuer pursuant to its reporting rules and procedures.</div>
+
+
+<a name="title14"><div class="tctitle">Use of Cookies</div></a>
+<div class="tccopy">In common with many other websites, the Website uses "cookies" to allow us to understand how customers use the site and to enhance or personalize your browsing and shopping experience. A cookie is a small data file that can be stored on your computer. It allows a website to recognize users when they return to a site. Our online ordering system uses a cookie to record a unique reference on your computer so that we can keep track of your order and retain the contents in your shopping basket. Cookies help us to learn more about how frequently particular pages are visited and to determine the most popular areas of the Website, which will then help us to improve your shopping experience. We use cookies to monitor and facilitate usage of the Website. We also use cookies to help us target our marketing and to personalize your visit and make it more user-friendly, for example by allowing us to save your user name and/or password so that you do not have to re-enter this information on every visit from the same computer.<br><br>
+You can set your browser not to accept cookies or to notify you when you are sent a cookie, giving you the opportunity to decide whether or not to accept it. You may also disable cookies at any time. However, if you do not accept cookies or disable them, some features of the Website will not function properly and may not be available.<br><br>
+We may also use technologies, such as our own cookies, to provide you with personalized online display advertising tailored to your interests.  To opt out of our cookies used for this online advertising, <a class="greylink" href="http://dtmc.hotter.com/adinfo/adchoices_fpc.html?cid=2825&amp;cname=HotterComfortShoes&amp;cmagic=3fc2c6&amp;clogo=hotter.jpg">click here</a>.</div>
+
+
+<a name="title15"><div class="tctitle">Aggregate Information</div></a>
+<div class="tccopy">We may collect non-personal information about how users navigate through the Website. We may aggregate this information to improve our site, and we may share this information with our affiliates or other outside companies. This aggregated information does not include individual names or personal data, so it does not identify you or any other customer.<br><br>
+We may use the services of third parties to collect and use anonymous information about your visits to and interactions with our website through the use of technologies such as cookies to personalize advertisements for goods and services. To learn more, or to opt-out of receiving advertisements tailored to your interests by our third party partners, visit the Digital Advertising Alliance at http://www.aboutads.info/choices/ or the European Interactive Digital Advertising Alliance at http://youronlinechoices.eu/.</div>
+
+
+
+<a name="title16"><div class="tctitle">Children's Privacy</div></a>
+<div class="tccopy">We do not knowingly collect personally identifiable information from children under the age of 13 on the Website.</div>
+
+
+<a name="title17"><div class="tctitle">Links to Other Sites</div></a>
+<div class="tccopy">For your convenience and information, the Website may include links to other sites operated by third-parties. Such linked sites have their own privacy policies, which may differ significantly from ours. Information you submit to linked sites is subject to the privacy policies of those sites, and Hotter USA is not responsible for the content or practices of any linked site. We recommend that you review the privacy policy of any site that you access through the Website.</div>
+
+
+<a name="title18"><div class="tctitle">Changes to this Policy</div></a>
+<div class="tccopy">We may change our privacy policy from time to time. If we change our privacy policy in the future, we will let you know by posting the updated policy at this website. We encourage you to check our policy periodically. You can tell if it has changed by checking the revision date that appears at the beginning of the policy. If you would like further information, or have any questions about our privacy policy:</div>
+<ul>
+    <li class="list1">please write to us at USA Customer Services, Hotter Comfort Concept, 2 Peel Road, West Pimbo, Skelmersdale WN8 9PT, United Kingdom</li>
+    <li class="list1">call us Toll Free at 1 866 378 7811</li>
+    <li class="list1">email us at <a class="greylink" href="mailto:customerenquiries@hottercomfortshoes.com">customerenquiries@hottercomfortshoes.com</a></li>
+</ul>
+<div class="tccopy">© 2014 Hotter USA<br>
+All Rights Reserved.</div>
 
 </div>
 		<div class="clear_both"></div>
@@ -1981,8 +2382,119 @@ for (var USPtlinki = 0; USPtlinki < USPlinkch.length; USPtlinki++) {
 				
 				<!--Start Footer Content --><!-- BEGIN ESpotTitle_UI.jspf --><!-- END ESpotTitle_UI.jspf -->
 
-	<div id="ems_footer_11252" class="widget_height">
-		<style type="text/css">
+	<div id="ems_footer_15410" class="widget_height">
+		<script type="text/javascript">
+function echeckhome(str) {
+
+		var at="@"
+		var dot="."
+		var lat=str.indexOf(at)
+		var lstr=str.length
+		var ldot=str.indexOf(dot)
+		if (str.indexOf(at)==-1){
+		   jQuery('#homesign-modal').show();
+		   return false
+		}
+
+		if (str.indexOf(at)==-1 || str.indexOf(at)==0 || str.indexOf(at)==lstr){
+		   jQuery('#homesign-modal').show();
+		   return false
+		}
+
+		if (str.indexOf(dot)==-1 || str.indexOf(dot)==0 || str.indexOf(dot)==lstr){
+			jQuery('#homesign-modal').show();
+		    return false
+		}
+
+		 if (str.indexOf(at,(lat+1))!=-1){
+			jQuery('#homesign-modal').show();
+		    return false
+		 }
+
+		 if (str.substring(lat-1,lat)==dot || str.substring(lat+1,lat+2)==dot){
+			jQuery('#homesign-modal').show();
+		    return false
+		 }
+
+		 if (str.indexOf(dot,(lat+2))==-1){
+			jQuery('#homesign-modal').show();
+		    return false
+		 }
+		
+		 if (str.indexOf(" ")!=-1){
+			jQuery('#homesign-modal').show();
+		    return false
+		 }
+
+ 		 return true					
+	}
+	
+function submitIfFormCompleteHome(num)
+{
+  //alert(num)
+  if (ValidateFormHome(num))
+  {
+	  
+	if (num == '2')
+	{
+	 jQuery( "#Homenewsform2" ).submit();
+	 pageTracker._trackEvent("Form Submission", "Email Signup", "Oops Box", 0, true);
+	}
+	if (num == '3')
+	{
+	 jQuery( "#Homenewsform3" ).submit();
+	 pageTracker._trackEvent("Form Submission", "Email Signup", "Homepage Box", 0, true);
+	}
+	if (num == '4')
+	{
+	 jQuery( "#Footernewsform" ).submit();
+	 pageTracker._trackEvent("Form Submission", "Email Signup", "Footer Box", 0, true);
+	}
+	  
+	 
+  jQuery('#homesign-modal').hide();
+	
+  setTimeout(
+  	function() 
+  	{
+     jQuery('#homeboxsignup2').html('<a href="/us/en/forms/CatalogRequest"><img src="/wcsstore/HotterStorefrontAssetStore/content/images/homepage/NewsletterBox/ReqCatMidHome.png" width="930" height="67" alt="Request Catalogue"></a>')
+	 jQuery('#footerboxsignup2').html('<a href="/us/en/forms/CatalogRequest"><img style="margin-top:9px;" src="/wcsstore/HotterStorefrontAssetStore/content/images/homepage/NewsletterBox/ReqCatFoot.png" width="698" height="27" alt="Request Catalogue"></a>')
+  }, 2000);  
+  }
+}
+
+function ValidateFormHome(num){
+	//alert(num)
+	if (num == '2')
+	{
+	var emailID=document.getElementById("control_EMAIL2")
+	}
+	if (num == '3')
+	{
+	var emailID=document.getElementById("control_EMAIL3")
+	}
+	if (num == '4')
+	{
+	var emailID=document.getElementById("control_EMAIL4")
+	}
+	//alert(emailID.value)
+	
+	if ((emailID.value==null)||(emailID.value=="")){
+		jQuery('#homesign-modal').show();
+		emailID.focus()
+		return false
+	}
+	if (echeckhome(emailID.value)==false){
+		emailID.value=""
+		emailID.focus()
+		return false
+	}
+	
+	return true
+ }
+</script>
+
+<style type="text/css">
 #footer1bck { background:#f8f8f2; background-repeat:no-repeat; height:45px; width:930px; margin:15px 0 0 0;}
 #newsboxf {padding:10px 0 0 128px;}
 #newsboxfl,#newsboxfr, #actbtnfr, #socialicons {float:left;}
@@ -1994,18 +2506,18 @@ for (var USPtlinki = 0; USPtlinki < USPlinkch.length; USPtlinki++) {
 #jointcopy {float:left; color:#58595b; font-family:Arial, Helvetica, sans-serif; font-size:12px; padding:5px 9px 0 14px;}
 #ft1copy {float:left; color:#58595b; font-family:"Times New Roman", Times, serif; font-size:14px; padding:9px 15px 0 7px;}
 .sociallink {float:left; color:#58595b; text-decoration:none;}
-#footer2links {background:#fff; width:930px; float:left; padding:20px 0 0 0;}
+#footer2links {background:#fff; width:930px; float:left; padding:15px 0 0 0;}
 #footerlinksheaders {font-family:Arial, Helvetica, sans-serif; font-size:12px; color:#58595b; padding:0 0 7px 0; text-transform:uppercase;}
 .footerbullets {float:left; margin:0;}
 #footlinksa {padding:0 0 0 0; float:left; width:176px;}
 #footlinksb {float:left; width:176px;}
-#footlinksc {float:left; width:223px;}
+#footlinksc {float:left; width:176px;}
 #footlinksa ul, #footlinksb ul, #footlinksc ul {font-family:Arial, Helvetica, sans-serif; font-size:12px;}
 #footlinksa li, #footlinksb li, #footlinksc li {font-family:Arial, Helvetica, sans-serif; line-height:19px; font-size:12px; margin:0 0 0 0px; padding:0 0 0 10px; background:url(/wcsstore/HotterStorefrontAssetStore/content/images/homepage/2013/AW13/footerbullet.gif) no-repeat; list-style-type:none; cursor:pointer;}
 .ftr {color:#58595b;}
 #footer3 {background:#fff; width:930px; min-height:37px;}
-#footer3copy {font-family:Arial, Helvetica, sans-serif; font-size:11px; color:#58595b; padding:10px 0px 0 0px; background:none;}
-#logosfoot { width:930px; background-color:#f7f6f1; float:left; text-align:center; background:none;}
+#footer3copy {font-family:Arial, Helvetica, sans-serif; font-size:11px; color:#58595b; padding:10px 0px 0 0px; background:#fff;}
+#logosfoot { width:930px; background-color:#f7f6f1; float:left; text-align:center; background:#fff;}
 </style>
 
 <style type="text/css">
@@ -2014,25 +2526,165 @@ for (var USPtlinki = 0; USPtlinki < USPlinkch.length; USPtlinki++) {
 #footnews {float:left; margin:10px 0 0 10px;}
 #NewsletterSignupEmailAddress {background-image:url(/wcsstore/HotterStorefrontAssetStore/content/images/homepage/2013/AW13/footer-search.gif); width:239px; height:23px; background-repeat:no-repeat; background-color:transparent; border:none; line-height:23px; color:#58595b; border:0px solid white; display:block; float:left;}
 #footnlbtn {background-image:url(/wcsstore/HotterStorefrontAssetStore/content/images/homepage/Footer/submit-btn.gif); width:58px; height:23px; background-repeat:no-repeat; background-color:transparent; border:none; text-indent:-999em; float:left;}
-#footsocial {line-height:45px; float:left; margin:0 6px 0 27px; font-family:'Times New Roman', Times, serif; font-size:12px; color:#58595b;}
-.deloptiontitle {font-family:Arial, Helvetica, sans-serif; font-size:12px; color:#58595b; text-transform:uppercase; background:none;}
-.deloption {font-family:Arial, Helvetica, sans-serif; font-size:12px; color:#58595b; background:none;}
+#footsocial {line-height:45px; float:left; margin:0 6px 0 11px; font-family:'Times New Roman', Times, serif; font-size:12px; color:#58595b;}
+
+input {
+   -webkit-appearance: none;
+   -webkit-border-radius:0px;
+   padding:0px;
+   margin:0px;
+}
+#homesign-modal {
+  font-family: 'Open Sans', sans-serif;
+  display: none;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index:11000;
+}
+#homesign-modal .homesignunderlay {
+  width: 100%;
+  height: 100%;
+  position: fixed;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  left: 0px;
+  background-color: rgba(0,0,0,0.5);
+  cursor: pointer;
+  -webkit-animation: fadein 0.5s;
+  animation: fadein 0.5s;
+  z-index: 11009;
+  
+}
+#homesign-modal .homesignmodal {
+  width: 647px;
+  height: 472px;
+  z-index: 1;
+  position: absolute;
+  margin: auto;
+  top: 0;
+  right: 0;
+  left: 0;
+  bottom: 0;
+  border-radius: 0px;
+  -webkit-animation: popin 0.3s;
+  animation: popin 0.3s;
+  z-index: 11010;
+}
+
+#homesignBox { width:647px; height:472px;}
+.homesignCopyHold {width:647px; height:431px; background-image:url(/wcsstore/HotterStorefrontAssetStore/content/images/homepage/NewsletterBox/Sign-Up-box-back.jpg); float:none;}
+
+#control_EMAIL3 {
+	background-image:url(/wcsstore/HotterStorefrontAssetStore/content/images/homepage/NewsletterBox/SignUpBox.png);
+    width: 222px;
+    height: 29px;
+    background-repeat: no-repeat;
+    background-color: transparent;
+    line-height: 29px;
+    color: #58595B;
+    border: 0px solid #FFF;
+    display: block;
+    float: left;
+}
+
+#control_EMAIL2 {
+	background-image:url(/wcsstore/HotterStorefrontAssetStore/content/images/homepage/NewsletterBox/emailbox2.png);
+    width: 213px;
+    height: 35px;
+    background-repeat: no-repeat;
+    background-color: transparent;
+    line-height: 35px;
+    color: #58595B;
+    border: 0px solid #FFF;
+    display: block;
+    float: left;
+}
+
+#control_EMAIL4 {
+	background-image:url(/wcsstore/HotterStorefrontAssetStore/content/images/homepage/NewsletterBox/SignUpBoxFoot.png);
+    width: 190px;
+    height: 27px;
+    background-repeat: no-repeat;
+    background-color: transparent;
+    line-height: 27px;
+    color: #58595B;
+    border: 0px solid #FFF;
+    display: block;
+    float: left;
+}
+.homesignclose {cursor:pointer; height:41px;}
+.hidei2 { position:absolute; top:-1px; left:-1px; width:1px; height:1px; }
 </style>
+
+<iframe name="hiddenFrame2" class="hidei2"></iframe>
+
+<div id="homesign-modal">
+	<div class="homesignunderlay"></div>
+  <div class="homesignmodal">        
+    	<div id="homesignBox">
+            <div class="homesignclose">
+    			<div style="float:left;"><img src="/wcsstore/HotterStorefrontAssetStore/content/images/homepage/NewsletterBox/Close-1.png" width="542" height="41" alt="Close"></div>
+        		<div style="float:left;"><img src="/wcsstore/HotterStorefrontAssetStore/content/images/homepage/NewsletterBox/Close-2.jpg" width="105" height="41" alt="Close"></div>
+    		</div>
+    		
+            <div class="homesignCopyHold">
+    			
+                <div class="EBoxCopy"><img style="padding:27px 0 20px 32px" src="/wcsstore/HotterStorefrontAssetStore/content/images/homepage/NewsletterBox/oops.png" width="292" height="190" alt="Sign Up"></div>
+        		
+                <div class="EBoxSignup">
+					<form method="post" action="http://www.pages04.net/beaconsfield-footwear/popsignuk/SignUpExitUK" pageid="19562933" siteid="409240" parentpageid="19562932" id="Homenewsform2" target="hiddenFrame2">
+						<div style="float:left; margin-left:29px;"><img src="/wcsstore/HotterStorefrontAssetStore/content/images/homepage/NewsletterBox/emailboxEND.png" width="11" height="35"></div>
+			            <input onfocus="this.value='';" value="Enter your email address" type="text" name="Email" id="control_EMAIL2" label="Email" class="textInput defaultText" style="height: 35px; width: 213px; background-image:url(/wcsstore/HotterStorefrontAssetStore/content/images/homepage/NewsletterBox/emailbox2.png);">
+			            <input type="hidden" name="Country Code" id="control_COLUMN9" label="Country Code" value="US" class="textInput defaultText">
+						<input type="hidden" name="Mailable" id="control_COLUMN20" label="Mailable" value="1" class="textInput defaultText">
+						<input type="hidden" name="Subscriber Flag" id="control_COLUMN43" label="Subscriber Flag" value="1" class="textInput defaultText">  
+            			<input type="hidden" name="SingleClickNews" id="control_COLUMN45" label="SingleClickNews" value="Homepage Box UK oops" class="textInput defaultText">        
+			        	<input style="float:left; position:relative; left:-2px;" type="image" src="/wcsstore/HotterStorefrontAssetStore/content/images/homepage/NewsletterBox/signup.png" onclick="submitIfFormCompleteHome('2'); return false;" value="">
+						<input type="hidden" name="formSourceName" value="StandardForm"><input type="hidden" name="sp_exp" value="yes">
+    				</form>
+        		</div>
+			
+            </div>
+		</div>
+	</div>
+</div>
 
 <div id="footcs1">
 
 	<!--<div id="footcs1copy">Enjoy exclusive offers and news - <span style="color:#58595b; font-family:'Times New Roman', Times, serif;">Sign up today</span><img style="margin:17px 0 0 4px;" src="/wcsstore/HotterStorefrontAssetStore/content/images/homepage/2013/AW13/footer-arrow.gif" width="7" height="10"></div>
     
   <div id="footnews">
-  	<form name="NewsletterSignup" action="/gb/en/forms/NewsletterSignup" method="post" id="NewsletterSignupForm" >
-    <input type="text" style="padding:0 0 0 3px; font-style:italic; font-size:12px;" value="Enter your email address" name="emailAddress" id="NewsletterSignupEmailAddress" border="0" onfocus="if ( this.value == this.defaultValue ) this.value = '';" onblur="if ( this.value == '' ) this.value = this.defaultValue" /><input type="image" id="footnlbtn" src="/wcsstore/HotterStorefrontAssetStore/content/images/homepage/Footer/submit-btn.gif" border="0" /></form>
+  	<form name="NewsletterSignup" action="/us/en/forms/NewsletterSignup" method="post" id="NewsletterSignupForm" >
+    <input style="padding:0 0 0 3px; font-style:italic; font-size:12px;" type="text" value="Enter your email address" name="emailAddress" id="NewsletterSignupEmailAddress" border="0" onFocus="if ( this.value == this.defaultValue ) this.value = '';" onBlur="if ( this.value == '' ) this.value = this.defaultValue" /><input type="image" id="footnlbtn" src="/wcsstore/HotterStorefrontAssetStore/content/images/homepage/Footer/submit-btn.gif" border="0" /></form>
   </div>-->
   
-  <div style="float:left;"><a href="/gb/en/forms/NewsletterSignup"><img style="margin:8px 0 0 0;" src="/wcsstore/HotterStorefrontAssetStore/content/images/homepage/2014/AW14/signuptoday-ft.gif" alt="Sign up today" width="721" height="28" border="0"></a></div>
+  <div style="float:left;">
+  
+    <div id="footerboxsignup2" style="width:721px;">
+	<div style="float:left; margin-top:9px;"><img src="/wcsstore/HotterStorefrontAssetStore/content/images/homepage/NewsletterBox/SignUpfooter.png" width="436" height="27" alt="Sign UP"></div>
+    <div style="float:left; padding-top:0px; vertical-align:central; position:relative; margin-top:9px; top:0; bottom:0;">
+            <form method="post" action="http://www.pages04.net/beaconsfield-footwear/popsignuk/SignUpExitUK" pageid="19562933" siteid="409240" parentpageid="19562932" id="Footernewsform" target="hiddenFrame2">
+			<div style="float:left; margin-left:15px;"><img src="/wcsstore/HotterStorefrontAssetStore/content/images/homepage/NewsletterBox/SignUpBoxEndFoot.png" width="9" height="27"></div>
+            <input onfocus="this.value='';" value="Enter your email address" type="text" name="Email" id="control_EMAIL4" label="Email" class="textInput defaultText">
+            <input type="hidden" name="Country Code" id="control_COLUMN9" label="Country Code" value="US" class="textInput defaultText">
+			<input type="hidden" name="Mailable" id="control_COLUMN20" label="Mailable" value="1" class="textInput defaultText">
+			<input type="hidden" name="Subscriber Flag" id="control_COLUMN43" label="Subscriber Flag" value="1" class="textInput defaultText">  
+            <input type="hidden" name="SingleClickNews" id="control_COLUMN45" label="SingleClickNews" value="Homepage Box UK" class="textInput defaultText">        
+        	<input style="float:left; position:relative; left:-2px;" type="image" src="/wcsstore/HotterStorefrontAssetStore/content/images/homepage/NewsletterBox/SignUpFoot_btn.png" onclick="submitIfFormCompleteHome('4'); return false;" value="">
+			<input type="hidden" name="formSourceName" value="StandardForm"><input type="hidden" name="sp_exp" value="yes">
+    	</form>
+    </div>
+</div>
+  
+  </div>
     
   <div>
-  	<div id="footsocial">Follow Hotter:</div>
-    <div style="float:left;"><a href="http://www.facebook.com/pages/Hotter-Comfort-Concept-Shoes/319676225045" target="_blank"><img src="/wcsstore/HotterStorefrontAssetStore/content/images/homepage/Footer/facebook-2.gif" alt="Facebook" width="22" height="22" border="0" id="facebook" style="margin:10px 0 0 4px;"></a><a href="http://www.twitter.com/hottershoes" target="_blank"><img src="/wcsstore/HotterStorefrontAssetStore/content/images/homepage/Footer/twitter-2.gif" alt="Twitter" width="22" height="22" border="0" id="twitter" style="margin:0 0 0 4px;"></a><a href="https://plus.google.com/114623364013557316653/posts" target="_blank"><img src="/wcsstore/HotterStorefrontAssetStore/content/images/homepage/Footer/google-2.gif" alt="Google +" width="22" height="22" border="0" id="google" style="margin:0 0 0 4px;"></a><a href="http://pinterest.com/officialhotter/" target="_blank"><img src="/wcsstore/HotterStorefrontAssetStore/content/images/homepage/Footer/pintrest-2.gif" alt="Pinterest" width="22" height="22" border="0" id="pintrest" style="margin:0 0 0 4px;"></a></div>
+  	<div id="footsocial">Follow Us:</div>
+    <div style="float:left;"><a href="http://www.twitter.com/hottershoes" target="_blank"><img src="/wcsstore/HotterStorefrontAssetStore/content/images/homepage/Footer/Social/twitter.gif" alt="Twitter" width="30" height="23" border="0" id="twitter" style="margin:0 0 0 4px;"></a><a href="http://www.facebook.com/pages/Hotter-Comfort-Concept-Shoes/319676225045" target="_blank"><img src="/wcsstore/HotterStorefrontAssetStore/content/images/homepage/Footer/Social/facebook.gif" alt="Facebook" width="22" height="23" border="0" id="facebook" style="margin:10px 0 0 4px;"></a><a href="https://plus.google.com/114623364013557316653/posts" target="_blank"><img src="/wcsstore/HotterStorefrontAssetStore/content/images/homepage/Footer/Social/google.gif" alt="Google +" width="22" height="23" border="0" id="google" style="margin:0 0 0 4px;"></a><a href="http://pinterest.com/officialhotter/" target="_blank"><img src="/wcsstore/HotterStorefrontAssetStore/content/images/homepage/Footer/Social/pintrest.gif" alt="Pinterest" width="22" height="22" border="0" id="pintrest" style="margin:0 0 0 4px;"></a><a href="http://instagram.com/hottershoes/" target="_blank"><img src="/wcsstore/HotterStorefrontAssetStore/content/images/homepage/Footer/Social/instagram.gif" alt="Instagram" width="22" height="23" border="0" id="pintrest" style="margin:0 0 0 4px;"></a></div>
   </div>
 	
 </div>
@@ -2045,51 +2697,43 @@ for (var USPtlinki = 0; USPtlinki < USPlinkch.length; USPtlinki++) {
 	<div id="footlinksa">
     <div id="footerlinksheaders">About Us</div>
     <ul>
-    <li><a href="http://web.archive.org/gb/en/info/AboutUs"><span class="ftr">About Us</span></a><br></li>
-    <li><a href="http://web.archive.org/gb/en/info/Hotter-Timeline"><span class="ftr">Our History</span></a><br></li>
-    <li><a href="http://web.archive.org/gb/en/info/The-Comfort-Concept"><span class="ftr">The Comfort Concept</span></a><br></li>
-    <li><a href="http://web.archive.org/gb/en/comfort-club/ComfortClubHome"><span class="ftr">Comfort Club</span></a><br></li>
-    <li><a href="http://web.archive.org/gb/en/info/As-Seen-In"><span class="ftr">As Seen In</span></a><br></li>
-    <li><a href="http://web.archive.org/gb/en/info/Hotter-Press-Releases"><span class="ftr">Press Releases</span></a><br></li>
-    <li><a href="http://web.archive.org/gb/en/info/Affiliates"><span class="ftr">Affiliates</span></a><br></li>
-    <li><a href="http://web.archive.org/gb/en/info/Contact-Us"><span class="ftr">Contact Us</span></a><br></li>
+    <li><a href="http://web.archive.org/us/en/info/AboutUs"><span class="ftr">About Us</span></a><br></li>
+    <li><a href="http://web.archive.org/us/en/info/Hotter-Timeline"><span class="ftr">Our History</span></a><br></li>
+    <li><a href="http://web.archive.org/us/en/info/The-Comfort-Concept"><span class="ftr">The Comfort Concept</span></a><br></li>
+    <li><a href="http://web.archive.org/us/en/info/As-Seen-In"><span class="ftr">As Seen In</span></a><br></li>
+    <li><a href="http://web.archive.org/us/en/info/Affiliates"><span class="ftr">Affiliates</span></a><br></li>
+    <li><a href="http://web.archive.org/us/en/info/Contact-Us"><span class="ftr">Contact Us</span></a><br></li>
     </ul>
     </div>
     
     <div id="footlinksb">
     <div id="footerlinksheaders">Shopping with Hotter</div>
     <ul>
-    <li><a href="http://web.archive.org/gb/en/info/Hotter-Shoes-Fitting-Guide"><span class="ftr">Fitting Guide</span></a><br></li>
-    <li><a href="http://web.archive.org/gb/en/info/Hotter-Shoes-Guarantee"><span class="ftr">100% Happy Guarantee</span></a><br></li>
-    <li><a href="http://web.archive.org/gb/en/info/Foot-Care-Advice"><span class="ftr">Foot Care Advice</span></a><br></li>
-    <li><a href="http://web.archive.org/gb/en/forms/HHF"><span class="ftr">Healthy Feet Guide</span></a><br></li>
-    <li><a href="http://web.archive.org/webapp/wcs/stores/servlet/AjaxStoreLocatorDisplayView?catalogId=11551&amp;langId=44&amp;storeId=10151"><span class="ftr">Store Locator</span></a><br></li>
-    <li><a href="http://web.archive.org/gb/en/info/Ordering-information"><span class="ftr">Ordering Info</span></a><br></li>
-    <li><a href="http://web.archive.org/gb/en/forms/CatalogRequest"><span class="ftr">Request a Catalogue</span></a><br></li>
-    <li><a href="http://web.archive.org/gb/en/forms/RAF"><span class="ftr">Recommend a Friend</span></a><br></li>
-    <li><a href="http://web.archive.org/gb/en/info/FAQ"><span class="ftr">FAQ</span></a></li>
+    <li><a href="http://web.archive.org/us/en/info/Hotter-Shoes-US-Fitting-Guide"><span class="ftr">Fitting Guide</span></a><br></li>
+    <li><a href="http://web.archive.org/us/en/info/Hotter-Shoes-Guarantee"><span class="ftr">Hassle Free Returns</span></a><br></li>
+    <li><a href="http://web.archive.org/us/en/info/Foot-Care-Advice"><span class="ftr">Foot Care Advice</span></a><br></li>
+    <li><a href="http://web.archive.org/us/en/forms/HHF"><span class="ftr">Healthy Feet Guide</span></a><br></li>
+    <li><a href="http://web.archive.org/us/en/info/Ordering-information"><span class="ftr">Ordering Info</span></a><br></li>
+    <li><a href="http://web.archive.org/us/en/forms/CatalogRequest"><span class="ftr">Request a Catalogue</span></a><br></li>
+    <li><a href="http://web.archive.org/us/en/forms/RAF"><span class="ftr">Recommend a Friend</span></a><br></li>
+    <li><a href="http://web.archive.org/us/en/info/FAQ"><span class="ftr">FAQ</span></a></li>
     </ul>
     </div>
     
     <div id="footlinksc">
     <div id="footerlinksheaders">Popular Searches</div>
     <ul>
-    <li><a href="http://web.archive.org/gb/en/womens"><span class="ftr">Women's Shoes</span></a><br></li>
-    <li><a href="http://web.archive.org/gb/en/info/extrawide"><span class="ftr">Wide Fitting</span></a><br></li>
-    <li><a href="http://web.archive.org/gb/en/goretex"><span class="ftr">Weatherproof GORE-TEX®</span></a><br></li>
-    <li><a href="http://web.archive.org/gb/en/womens-shoes"><span class="ftr">Comfortable Shoes</span></a></li>
+    <li><a href="http://web.archive.org/us/en/womens-shoes"><span class="ftr">Women's Shoes</span></a><br></li>
+    <li><a href="http://web.archive.org/us/en/womens-boots"><span class="ftr">Women's Boots</span></a><br></li>
+    <li><a href="http://web.archive.org/us/en/mens-shoes"><span class="ftr">Men's Shoes</span></a><br></li>
+    <li><a href="http://web.archive.org/us/en/GORE-TEX"><span class="ftr">Weatherproof GORE-TEX®</span></a><br></li>
+    <li><a href="http://web.archive.org/us/en/womens-shoes"><span class="ftr">Comfortable Shoes</span></a></li>
+    <li><a href="http://web.archive.org/us/en/womens-slim-fit"><span class="ftr">Slim Fit</span></a></li>
     </ul>
-    
-    <a style="text-decoration:none; cursor:pointer; border:none;" href="http://web.archive.org/gb/en/info/Ordering-information"><div style="padding:16px 0 0 0; line-height:20px;">
-    <div class="deloptiontitle">DELIVERY OPTIONS</div>
-    <div class="deloption">UK Standard Delivery - £3.95</div>
-    <div class="deloption">UK Click &amp; Collect - FREE</div>
-    <div class="deloption">International Delivery - £12.50 Per Item</div>
-    </div></a>
     </div>
     
-<div><a href="http://web.archive.org/gb/en/info/Hotter-Shoes-Guarantee"><img style="margin:0 0 0 0px;" src="/wcsstore/HotterStorefrontAssetStore/content/images/homepage/2013/AW13/100-Happy-Guarantee.jpg" alt="Happy Guarantee" border="0"></a>
-<img style="margin:55px 0 0 133px;" src="/wcsstore/HotterStorefrontAssetStore/content/images/homepage/Footer/we-accept.jpg" alt="We Accept">
+<div><a href="http://web.archive.org/us/en/info/Hotter-Shoes-Guarantee"><img style="margin:0 0 0 47px;" src="/wcsstore/HotterStorefrontAssetStore/content/images/homepage/2013/AW13/100-Happy-Guarantee.jpg" alt="Happy Guarantee" border="0"></a>
+<img style="margin:55px 0 0 156px;" src="/wcsstore/HotterStorefrontAssetStore/content/images/homepage/Footer/we-accept-R-USA.jpg" alt="We Accept" height="29px">
 
 </div>
 
@@ -2101,8 +2745,9 @@ for (var USPtlinki = 0; USPtlinki < USPlinkch.length; USPtlinki++) {
 <div><img src="/wcsstore/HotterStorefrontAssetStore/content/images/homepage/2012/AW12/AW1/footline.jpg"></div>
 
 <div id="footer3">
-<div style="float:left;" id="footer3copy">© Hotter Comfort Concept Shoes - All rights reserved 2014 | <a href="/gb/en/info/Terms-Conditions"><span class="ftr">Terms &amp; Conditions</span></a> | <a href="/gb/en/info/FAQ-Privacy-Security"><span class="ftr">Privacy Policy</span></a> | <a href="/gb/en/info/Hotter-Cookie-Policy"><span class="ftr">Cookie Policy</span></a> | <a href="/gb/en/info/Site-Map"><span class="ftr">Site Map</span></a></div>
+<div style="float:left;" id="footer3copy">© Hotter Comfort Concept Shoes - All rights reserved 2015 | <a href="/us/en/info/Terms-Conditions"><span class="ftr">Terms &amp; Conditions</span></a> | <a href="/us/en/info/privacy-policy"><span class="ftr">Privacy Policy</span></a> | <a href="/us/en/info/Site-Map"><span class="ftr">Site Map</span></a></div>
 </div>
+
 
 <div style="text-align:center; width:930px; padding-top:15px; height:81px;">
 <script type="text/javascript" src="https://seal.thawte.com/getthawteseal?host_name=www.hotter.com&amp;size=L&amp;lang=en"></script>
@@ -2112,14 +2757,27 @@ for (var USPtlinki = 0; USPtlinki < USPlinkch.length; USPtlinki++) {
 <img style="padding:0 5px 0 5px;" src="/wcsstore/HotterStorefrontAssetStore/content/images/homepage/Header/sm_ccsafe_check1.gif" alt="SecurityMetrics for PCI Compliance, QSA, IDS, Penetration Testing, Forensics, and Vulnerability Assessment" border="0"></a>
 
 <a href="https://www.securitymetrics.com/site_certificate.adp?s=162%2e13%2e69%2e180&amp;i=1152229" target="_blank">
-<img style="padding:0 5px 0 5px;" src="/wcsstore/HotterStorefrontAssetStore/content/images/homepage/Header/identity_theft_protected.gif" alt="SecurityMetrics for PCI Compliance, QSA, IDS, Penetration Testing, Forensics, and Vulnerability Assessment" border="0"></a></div>
+<img style="padding:0 5px 0 5px;" src="/wcsstore/HotterStorefrontAssetStore/content/images/homepage/Header/identity_theft_protected.gif" alt="SecurityMetrics for PCI Compliance, QSA, IDS, Penetration Testing, Forensics, and Vulnerability Assessment" border="0"></a>
+
+<a href="/us/en/info/queens-award">
+<img style="padding:0 5px 0 5px;" src="/wcsstore/HotterStorefrontAssetStore/content/images/homepage/Header/qa-footer-logo.gif" alt="The Queen's Awards for Enterprise" border="0"></a></div>
+
+
+
+<!--<div style="text-align:center; width:930px; padding-top:15px; height:81px;">
+
+<script language="JavaScript" type="text/javascript" src="//smarticon.geotrust.com/si.js" ></script>
+
+</div>
+-->
+
 
 <!--Fudged CSS Gary START-->
 <style type="text/css">
 
 
 div#widget_masthead_links div.masthead_links span.masthead_links_container span.masthead_links_item a {
-    color: #58595b;
+    color: #ffffff;
     font-size: 11px;
     text-decoration: none;
 }
@@ -2127,7 +2785,6 @@ div#widget_masthead_links div.masthead_links span.masthead_links_container span.
 div.widget_left_nav > div.content_left_border > div.content_right_border > div.content div.content_section div.section_list ul li.singleFacet input:enabled + label .swatch img:hover {
     border: 0px solid rgb(255, 97, 0);
 }
-
 
 div.widget_left_nav > div.content_left_border > div.content_right_border > div.content div.content_section div.section_list ul li label .swatch img {
     border: 0px solid rgb(181, 182, 140);
@@ -2157,7 +2814,6 @@ div.widget_tab_container {
 .quantity_input {
     border: 1px solid #eeeeee;
 }
-
 div.footer_wrapper {
     float: left;
     margin-top: 0px;
@@ -2165,26 +2821,32 @@ div.footer_wrapper {
     width: 100%;
 }
 
+
+
 /*sign in page move img down*/
 .sign_in_registration {
 	width: 71%;
 }
 .ems_my_account_sign-in_1 sign_in_eSpot { 
+
+
+
 	position:relative;
 	margin-top:47px;
 }
 
-#ems_my_account_sign-in_1_12315 {
+#ems_my_account_sign-in_1_15914 {
 	margin-top:47px;
 }
+
 
 .widget_product_listing > .middle > .left_border > .right_border > .content > .header_bar > .results_control {
     width: 200px;
 }
 
 </style>
-
 <!--Fudged CSS Gary START-->
+
 <script type="text/javascript">
 function resetGalleryImages(skuImageId) {		}
 </script>
@@ -2194,13 +2856,32 @@ if ("https:" == document.location.protocol) {
 var footlinkch = document.getElementById('footer2links').getElementsByTagName('a');
 for (var footlinki = 0; footlinki < footlinkch.length; footlinki++) {
 	var footlinkstr = footlinkch[footlinki].toString();
-	//alert (footlinkstr)
 	var footlinkres = footlinkstr.replace("https", "http"); 
-	//alert (res)
 	footlinkch[footlinki].href = footlinkres;
-	//alert(footlinkch[footlinki])
 	}
 }
+
+jQuery(window).load(function () {
+jQuery(".drop:contains('SALE')").html('<span style="color:#c11a36;">SALE</span>');
+});
+</script>
+
+<script type="text/javascript">
+	  jQuery('.homesignclose').on('click', function() {
+		jQuery('#homesign-modal').hide();
+      });
+	  
+      jQuery('.homesignunderlay').on('click', function() {
+        jQuery('#homesign-modal').hide();
+      });
+
+      jQuery('#homesign-modal .homesignmodal-footer').on('click', function() {
+        jQuery('#homesign-modal').hide();
+     });
+
+      jQuery('#homesign-modal .homesignmodal').on('click', function(e) {
+        e.stopPropagation();
+      });
 </script>
 
 		<div class="clear_both"></div>
@@ -2240,16 +2921,20 @@ for (var footlinki = 0; footlinki < footlinkch.length; footlinki++) {
 	</div>
 	<!-- Footer End -->
 </div>
-<!-- Tracker page identifier: StaticContentPageFAQ-Privacy-Security --><!-- Google Analytics -->
+<!-- BEGIN RawEspotContent.jsp for Espot:tag_spot_footer -->
+
+
+        
+<!-- END RawEspotContent.jsp --><!-- Tracker page identifier: StaticContentPageprivacy-policy --><!-- Google Analytics -->
 		<script type="text/javascript">
 			var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
 			document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
 		</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
 	
 		<script type="text/javascript">
-			var pageTracker = _gat._getTracker("UA-43175179-1");
+			var pageTracker = _gat._getTracker("UA-43175179-2");
 			pageTracker._initData();
-                        pageTracker._setSiteSpeedSampleRate(8);
+			pageTracker._setSiteSpeedSampleRate(8);
 			pageTracker._trackPageview();
 		</script>
 	
@@ -2262,13 +2947,13 @@ for (var footlinki = 0; footlinki < footlinkch.length; footlinki++) {
 				<script type="text/javascript" src="/wcsstore/HotterStorefrontAssetStore/javascript/cmcustom.js"></script>
 				<script type="text/javascript">cmSetupNormalization("krypto-_-krypto");</script>
 				<script type="text/javascript">
-				//  send data to TEST 
-				// cmSetClientID ("60358478", false, "testdata.coremetrics.com" ,"hotter.com"); 
+				// send data to TEST 
+				// cmSetClientID ("60375724", false, "testdata.coremetrics.com" ,"hotter.com"); 
 				// send data to PRODUCTION (commented out)
-				 cmSetClientID ("90358478", true, "data.coremetrics.com", "hotter.com");  
+				 cmSetClientID ("90375724", true, "data.coremetrics.com", "hotter.com");  
 				</script><script language="JavaScript1.1" type="text/JavaScript">
 <!--
-cmCreatePageviewTag("ComfortClubPage", "6", null, null, "10151");
+cmCreatePageviewTag("ComfortClubPage", "6", null, null, "10152");
 //-->
 </script>
 </div>
