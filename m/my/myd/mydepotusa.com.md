@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mydepotusa.com privacy policy that was archived on 2014-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141105084253id_/http%3A//mydepotusa.com/privacy-policy-en) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mydepotusa.com privacy policy that was archived on 2015-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150617070727id_/http%3A//mydepotusa.com/privacy-policy-en) for the most accurate reproduction.*
 
-# Privacy Policy
+# MyUSWarehouse - Privacy Policy
 
 ### **Privacy Policy**
 
