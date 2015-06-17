@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bestbuy.ca privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230142814id_/http%3A//www.bestbuy.ca/en-CA/help/privacy-policy/hc1139.aspx%3Fpath%3D190119f7bb3221f7ec2b377835be7b8aen06%26HelpTitleId%3DHC1139) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestbuy.ca privacy policy that was archived on 2015-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150617134430id_/http%3A//www.bestbuy.ca/en-CA/help/privacy-policy/hc1139.aspx%3Fpath%3D190119f7bb3221f7ec2b377835be7b8aen06%26HelpTitleId%3DHC1139) for the most accurate reproduction.*
 
 # Privacy Policy - Best Buy Canada
 
@@ -76,7 +76,7 @@ Top
   * track and confirm online orders; 
   * deliver or install products; 
   * manage our Reward Zone program; 
-  * process Best Buy credit card or Reward Zone Visa applications; 
+  * process Best Buy credit card applications; 
   * track and analyze your purchases and preferences to better understand your product and service needs and eligibility; 
   * market and advertise products and services; 
   * communicate things like special events, promotions and surveys; 
@@ -107,9 +107,6 @@ Top
 
 **Applying for the Best Buy Credit Card  
 **When you apply for a Best Buy credit card, certain contact and financial information is collected and reviewed by our credit card provider, JPMorgan Chase & Co. ("Chase"), to approve, establish and maintain credit card accounts. Chase has its own privacy policy, available at <https://www.chase.com/online/canada/privacy-en.htm>, which governs its relationship with you. We also encourage you to read their privacy statement provided with your credit card application.
-
-**Applying for a Reward Zone VISA Credit Card  
-**When you apply for a Reward Zone VISA, certain contact and financial information is collected and reviewed by our credit card provider, JPMorgan Chase & Co. ("Chase") to approve, establish and maintain your VISA account. Chase has its own privacy policy, available at <https://www.chase.com/online/canada/privacy-en.htm>, which governs its relationship with you. We also encourage you to read their privacy statement provided with your credit card application terms and conditions.
 
 **ReClaim Insurance Replacement  
 **When working with our ReClaim Consultants to replace goods that are covered under your insurance policy, we will need some basic information, such as your contact information, insurance claim number, and the name of your claim adjuster, so we can process your quote in a timely manner and bill your insurance company directly for you. 
