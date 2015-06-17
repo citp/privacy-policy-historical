@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the commissionfactory.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120115550id_/http%3A//www.commissionfactory.com/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the commissionfactory.com privacy policy that was archived on 2015-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150617022430id_/http%3A//www.commissionfactory.com/PrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -92,7 +92,7 @@ Read the [CreditorWatch Privacy Policy](https://creditorwatch.com.au/page/privac
 
 ##  Commission Factory does not store Your credit card details 
 
-If You choose to pay for the Service by credit card, Your credit card details are not stored by the Service and cannot be accessed by Commission Factory staff. Your credit card details are encrypted and securely stored by Direct Payments Solutions Limited to enable Commission Factory to automatically bill your credit card on a recurring basis. You should review [Direct Payment Solutions Limited’s Privacy Policy](http://www.paymentexpress.com/About/About_DPS/Privacy_Policy) to ensure you are happy with it. 
+If You choose to pay for the Service by credit card, Your credit card details are not stored by the Service and cannot be accessed by Commission Factory staff. Your credit card details are encrypted and securely stored by Stripe Australia Pty Ltd to enable Commission Factory to automatically bill your credit card on a recurring basis. You should review [Stripe Australia Pty Ltd’s Privacy Policy](https://stripe.com/au/privacy) to ensure you are happy with it. 
 
 ##  You may request access to Your personal information 
 
