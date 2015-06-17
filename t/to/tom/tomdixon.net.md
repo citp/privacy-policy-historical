@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tomdixon.net privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122042340id_/http%3A//www.tomdixon.net/uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tomdixon.net privacy policy that was archived on 2015-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150618000711id_/http%3A//www.tomdixon.net/us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -50,7 +50,7 @@ When becoming a new customer online with Tom Dixon or purchasing goods online we
 
 Opting out of Email Updates from Tom Dixon
 
-Tom Dixon will periodically send you marketing emails only if you opt-in using the sign up forms online or in the Tom Dixon showroom. If you no longer wish to receive Email updates from Tom Dixon you can unsubscribe by clicking on the link in the footer of the email or using the ‘unsubscribe from all’ link within the email preference centre accessible through the emails. Alternatively you can contact customers services on +44 (0)203 696 4950 or email [customerservice@tomdixon.net](mailto:customerservice@tomdixon.net)
+Tom Dixon will periodically send you marketing emails only if you opt-in using the sign up forms online or in the Tom Dixon showroom. If you no longer wish to receive Email updates from Tom Dixon you can unsubscribe by clicking on the link in the footer of the email or using the ‘unsubscribe from all’ link within the email preference centre accessible through the emails. Alternatively you can contact customers services on +44 (0)203 696 4950 or email [shop@tomdixon.net](mailto:shop@tomdixon.net) 
 
 ## New Customer Forms
 
@@ -66,4 +66,4 @@ This site gives users the following options for changing and modifying informati
 
 ## Contacting the Web Site
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this web site, you can contact [customerservice@tomdixon.net](mailto:customerservice@tomdixon.net)
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this web site, you can contact [shop@tomdixon.net](mailto:shop@tomdixon.net) 
