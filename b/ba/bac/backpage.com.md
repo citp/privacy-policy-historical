@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the backpage.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230080127id_/http%3A//www.backpage.com/classifieds/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the backpage.com privacy policy that was archived on 2015-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150617062735id_/http%3A//www.backpage.com/classifieds/PrivacyPolicy) for the most accurate reproduction.*
 
 # backpage.com
 
 **Privacy Policy  
-Last Revised: _January 9, 2014_**
+Last Revised: _June 1, 2015_**
 
-backpage.com and its affiliates (collectively, the “Site”) respect your privacy. Here is our Privacy Policy for this Site:
+Backpage.com and its affiliates (collectively, the “Site”) respect your privacy. Here is our Privacy Policy for this Site:
 
 **Acceptance of Privacy Policy**
 
@@ -13,7 +13,7 @@ Each time you access, use, post, submit a post or reply, or browse the Site, you
 
 **Collection and Use of Personal Information**
 
-We collect personal information about you whenever you engage in commerce transactions on the Site, use the Site’s products or services, request information or materials, create or update account information, place orders or make purchases, communicate with us, or visit the Site. The personal information we collect and store about you may include without limitation your first and last name, email address, credit or debit card number,billing and shipping information, order history, and other non-public information about you.
+We collect personal information about you whenever you engage in commerce transactions on the Site, use the Site’s products or services, request information or materials, create or update account information, place orders or make purchases, communicate with us, or visit the Site. The personal information we collect and store about you may include without limitation your first and last name, email address, credit or debit card number, telephone numbers, billing and shipping information, order history, and other non-public information about you.
 
 We may use the information we collect to: 
 
@@ -28,15 +28,15 @@ We may use the information we collect to:
 
 
 
-You authorize the Site to transmit email to you to respond to your communications and administer Activities.
+You authorize the Site to transmit email to you to respond to your communications and administer Activities. If you choose to receive mobile notifications, you authorize and agree that the Site may send text messages to your mobile phone, and you will be responsible for any message or data charges that may apply..
 
  **Disclosure of Personal Information to Third Parties**
 
 We may disclose your personal information to agents and operators under confidentiality or similar agreements, including shippers, vendors, payment processors, and advertisers, who we believe reasonably need to come into contact with that information: (i) to provide products or services to you; (ii) to administer our business or the Site, including fulfilling and shipping orders; (iii) to provide customer service; (iv) to update account information; (v) to forward updates, announcements, and newsletters; (vi) to respond to your communications, and communicate with you about the Site and other activities related to the Site; (vii) in the event of any reorganization, merger, sale, joint venture, assignment, transfer or disposition of all or any portion of the Site’s business or operations (including without limitation in connection with bankruptcy or any similar proceedings); or (viii) as otherwise authorized by you. 
 
-**Disclosure in Special Circumstances**
+**Disclosure in Other Circumstances**
 
-We may disclose also your name, email address, or other information about you, including personal information, if (i) required to do so by law, court order or subpoena, or as requested by other government, law enforcement, or investigative authority, (ii) we in good faith believe that such disclosure is necessary or advisable, including without limitation to protect the rights or properties of the Site, (iii) we have reason to believe that disclosing your personal information is necessary to identify, contact or bring legal action against someone who may be causing interference with our rights or properties, or has breached an agreement, or if anyone else could be harmed by such activities or interference, (iv) if we determine an ad posted violates our Terms of Use or the rights of a third party, or (v) there is an emergency involving personal danger.  We may also provide information about you if we believe it is necessary to share information in order to investigate, prevent or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, or as otherwise required or permitted by law. 
+We may also disclose your name, email address, telephone numbers, or other information about you, including personal information if (i) required to do so by law, court order or subpoena, or as requested by other government, law enforcement, or investigative authority, (ii) we in good faith believe that such disclosure is necessary or advisable, including without limitation to protect the rights or properties of the Site, (iii) we have reason to believe that disclosing your personal information is necessary to identify, contact or bring legal action against someone who may be causing interference with our rights or properties, or has breached an agreement, or if anyone else could be harmed by such activities or interference, (iv) if we determine an ad posted violates our Terms of Use or the rights of a third party, or (v) there is an emergency involving personal danger.  We may also provide information about you if we believe it is necessary to share information in order to investigate, prevent or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, or as otherwise required or permitted by law. 
 
 Please note that if you post any of your personal information on the Site, such information may be collected and used by others over whom the Site has no control. The Site is not responsible for the use by third parties of information you post or otherwise make public.
 
@@ -60,7 +60,7 @@ If you are a California resident and have provided personal information to the S
 
 We will not share your personal information with third parties for their direct marketing purposes if you request that we do not do so.  You may make such a request by sending us an email at [support@backpage.com](mailto:support@backpage.com) or mailing your request to:
 
-backpage.com LLC  
+Backpage.com LLC  
 PO Box 192307   
 Dallas, TX 75219 USA
 
@@ -70,7 +70,7 @@ The East Stable Thrales End Farm
 Harpenden, United Kingdom, AL5 3NS
 
 Payment Solutions BV.  
-Strawinskylaan 601, 1077XX,  
+Zuidplein 116 - 1077XV,  
 Amsterdam, Netherlands 
 
 When contacting us, please indicate your name, address, email address, and what personal information you do not want us to share with third parties for their direct marketing purposes. Please note that there is no charge for controlling the sharing of your personal information or for processing this request. 
