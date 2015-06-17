@@ -1,6 +1,13 @@
-> *The following text is extracted and transformed from the trynbuyindia.com privacy policy that was archived on 2014-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140823212253id_/http%3A//www.trynbuyindia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trynbuyindia.com privacy policy that was archived on 2015-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150617104331id_/http%3A//www.trynbuyindia.com/privacy-policy) for the most accurate reproduction.*
 
 # Trynbuy India | Privacy Policy
+
+  * [Home](http://www.trynbuyindia.com/)
+  * Trynbuy India | Privacy Policy
+
+
+
+## Privacy  Policy
 
 ### Trynbuy India
 
