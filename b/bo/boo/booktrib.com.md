@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the booktrib.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120105046id_/http%3A//booktrib.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the booktrib.com privacy policy that was archived on 2015-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150618003915id_/http%3A//booktrib.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – BookTrib
 
@@ -78,4 +78,4 @@ If we change our privacy policies and procedures, we will post those changes on 
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this website, please contact us at privacy@BookTrib.com, or send mail to:
 
-BookTrib 155 Post Road East – Ste 8 Westport, Ct 06880
+BookTrib 99 Saugatuck Ave. Westport, Ct 06880
