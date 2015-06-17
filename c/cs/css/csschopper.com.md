@@ -1,6 +1,12 @@
-> *The following text is extracted and transformed from the csschopper.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122031858id_/http%3A//www.csschopper.com/privacy-policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the csschopper.com privacy policy that was archived on 2015-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150617212841id_/http%3A//www.csschopper.com/privacy-policy.shtml) for the most accurate reproduction.*
 
 # CSSChopper's Privacy Policy
+
+__
+
+Save Your Website From
+
+**Whack** by Updating It to **Mobile Friendly.** [See Details](http://www.csschopper.com/blog/googles-new-update-make-website-mobile-friendly-complete-guide)
 
 The Privacy Policy (“Privacy Statement”) owned by CSSChopper reflects its commitment and transparency towards the privacy sustained for its customers and visitors, who interact with CSSChopper.com anyhow. Our privacy section highlights that we might use the IP address of our site visitors in order to administer and assist them in analyzing the problems using our web servers. For this reason, we require the personal and/ or contact information about the site users in order to provide effective information to them about the company. 
 
@@ -46,3 +52,25 @@ The information provided by you is incomplete, incorrect or updated, then please
 Sparx IT Solutions Pvt. Ltd. A-2, sector 63, Noida, UP (India)   
 Phone: +91­ 120 4735100   
 Email: [sales@csschopper.com](mailto:sales@csschopper.com)
+
+**SUBSCRIBE for discounts & news **
+
+### From the blog
+
+[Magento E-commerce Website Development – Best Features of E-Commerce Opensource](http://www.csschopper.com/blog/magento-e-commerce-website-development-best-features-of-e-commerce-opensource "Magento E-commerce Website Development – Best Features of E-Commerce Opensource")
+
+In the cutthroat e-commerce market, Magento e-commerce website development is a key to fulfill diverse business needs. Nowadays, it is challenging task to figure out that... [ read more](http://www.csschopper.com/blog/magento-e-commerce-website-development-best-features-of-e-commerce-opensource)
+
+[Google’s New Update To Make Website Mobile-friendly](http://www.csschopper.com/blog/googles-new-update-make-website-mobile-friendly-complete-guide "Google’s New Update To Make Website Mobile-friendly")
+
+Effective from April 21st, 2015, Google’s recent announcement to have mobile-friendly websites is urging business owners to convert their non mobile-friendly websites... [ read more](http://www.csschopper.com/blog/googles-new-update-make-website-mobile-friendly-complete-guide)
+
+### CLIENT ASKED QUESTIONS
+
+#### How good are you in mobile application development?
+
+#### Are all the stats on your website true?
+
+#### Is it possible to meet your representative in the USA?
+
+INDUSTRY NEWS: The WordPress.com’s parent company, Automattic has recently bought popular wooCommerce plugin for converting WordPress to e-store easily. http://goo.gl/TNBKPd
