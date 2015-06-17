@@ -1,100 +1,66 @@
-> *The following text is extracted and transformed from the shippit.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627154744id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shippit.com privacy policy that was archived on 2015-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150618014508id_/http%3A//www.shippit.com/privacy) for the most accurate reproduction.*
 
-# Legal Agreement
+# Shippit
 
-**Go Daddy Respects Your Privacy**
+### Shippits' Privacy Policy
 
-**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
+It is Shippit's intention to make every effort possible to safeguard the integrity of your personal details and correspondence. Shippit have implemented a comprehensive "Privacy Policy" in order to facilitate its ability to protect the integrity of the information that it possesses. However, certain circumstances may arise where Shippit cannot ensure that all of your private communications and other personally identifiable information will never be disclosed in ways not otherwise described in this Privacy Policy. By way of example (without limiting the foregoing), Shippit may be legally forced to disclose information to the government or third parties under certain circumstances, or third parties may unlawfully and without its knowledge intercept or access transmissions or private communications. Shippit can (and you authorise it to) disclose any information about you to law enforcement or other governmental officials as Shippit, in its sole discretion, believe necessary or appropriate, in connection any legal requirement to do with an investigation of fraud, intellectual property infringements, piracy or any other activity that is illegal or may expose Shippit and/or its offices to legal liability.
 
-**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
+Therefore, although Shippit shall endeavour to take every reasonable step possible in accordance with the Privacy Act and industry standards to protect your privacy, Shippit do not promise, and you should not expect, that your personally identifiable information or private communications will remain private.
 
-**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
+  
 
-**Information Collection and Use**
 
-Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
+#### Procedures
 
-We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
+As part of Shippit's normal operation to provide you with a courier service, Shippit needs to collect some information about you. Specifically, your name & address (Both billing and pick-up address) and other criteria specific to your special conditions required of Shippit to provide you with a service that meets your expectations. This information is used only to enable Shippit to service your courier needs and subsequent financial transactions (eg. invoicing). Shippit does not sell, rent or distribute your information to any third party or contractor, or use this information for any other reason than as a means for Shippit to identify you for the purposes of providing an efficient courier service and invoicing.
 
-We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
+You should be aware that Shippit shall give your Pick-up address details and other pertinent information to its sub-contracted couriers. However, Shippit only furnishes its sub-contracted couriers with sufficient information to do the job and all historical or other information that it has collected about you is for Shippit's use only and is not given to its sub-contracted couriers.
 
-We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
+Shippit may use your email address, your mailing address, and phone number(s) to contact you regarding administrative notices, new product offerings, and communications relevant to your use of Shippit Courier's products and services. If you do not wish to receive these communications, you have the ability to request, either by fax, email or letter, that Shippit cease communicating with your organisation on all matters unrelated to accounting matters. (Refer below for address details and procedures for Access)
 
-We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
+In addition to your address details, Shippit maintains a history of your courier job details and relevant commentary from yourself, Shippit's couriers or its operation's staff pertaining to any aspect, both good or bad, that have a bearing on a particular courier job or Shippit's service in general. Shippit use this information and other information it obtains from your current and past activities at Shippit, to resolve disputes, trouble-shoot problems and enforce Shippit's commitment to provide a consistent courier service to you and your organisation.
 
-Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
+  
 
-This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
 
-**Security**
+#### Internet & Cookies
 
-This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
+If you choose to use Shippit's Internet booking facility, you should be aware that Shippit uses cookies. These cookies are innocuous in that they are only transient or session cookies. In other words they are automatically deleted when you terminate the booking session with Shippit or close your browser. The only thing that is stored in this cookie is your Login ID and password. The reason why Shippit uses cookies is that cookies allow you to only have to enter your Login ID & password once during a session. This is unfortunately necessary to guarantee your privacy throughout the Internet booking procedure. However, if you do not wish to use cookies, then it is suggested that you use the telephone booking facility on 136331 instead, as there is no provision to provide a viable Internet Booking facility that does not incorporate cookies. Furthermore, Shippit does not use your cookie to track your activity or record any information about you.
 
-**Updating Your Information**
+  
 
-You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
 
-        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
+#### Data Security
 
-       ii.      You may send mail to Go Daddy at the following postal address:   
-               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
+To further protect you while utilising Shippit's Internet Booking facility, it, has implemented an encryption mechanism (SSL - Secure Socket Layer) so that all information on its Web site and Internet Bookings facility is automatically encrypted, providing a level of security to its clients. 
 
-      iii.      You may call us at: (480) 505-8800
+We use eWay or PayPal to process your credit card infomation. This data is not seen or stored by our systems.
 
-       iv.      You may fax us at: (480) 505-8844
+Your Information is stored on Shippit's server located at its premise at Mosman. Shippit uses industry standards in its efforts to safeguard the confidentiality of your personal identifiable information, such as firewalls and Secure Socket Layers. However, "perfect security" does not exist on the Internet. Additionally, Shippit removes copies of your information "off site" as part of its "Tape Backup Procedure". These tapes are held in a secure location overnight, in the custody of senior management and are returned to Shippit during the day.
 
-**Sending Emails**
+If you send Shippit personal correspondence, such as emails or letters, or if other users or third parties send it correspondence about your activities, Shippit may collect such information into a file specific to you.
 
-We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
+  
 
-The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
 
-**Compliance with Laws and Law Enforcement**
+#### Access
 
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
+To ensure that all requests relating to the Privacy Act, are handled expeditiously and with the upmost confidentiality, Shippit will only accept requests in writing. Therefore, should you wish to examine your information and or make corrections to it or register a complaint relating to the Privacy Policy, then you must present this request in writing to Shippit. You should address it to:
 
-**Third Party Service Providers**
+ **The Privacy Manager**  
+Shippit Pty Ltd  
+Suite 44, Jones Bay Wharf, 26-32 Pirrama Rd, Pyrmont, NSW 2009  
+-
 
-We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
+or alternatively via email at: [info@shippit.com](mailto:info@shippit.com)
 
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
+In accordance with the Privacy Act, upon written request, Shippit will provide you with access to your relevant information, via a computer terminal on the premises of Shippit's office at Mosman. You will be provided with adequate privacy and convenience of access, to enable you to peruse your information. You will not be charged for this facility.
 
-**Supplementation of Information**
+However, if you require a different means to access this information or that it be presented in a different format to the way that it is stored or displayed, then Shippit will charge you for any materials or time that is necessary to compile your information in the format that you have requested.
 
-In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
+If you believe that the information that Shippit has about you is incorrect, then you may submit a written request that it be rectified. If Shippit agree with your request, then this information will be updated accordingly. However, if Shippit dispute your claim that the information it has relating to you is incorrect, then at your request, Shippit will take reasonable steps to associate with the information of your claim to this effect. (ie Shippit will put a mark or a note on the information to indicate that the statement exists and where it can be found.) Furthermore, Shippit will tell you in writing the reasons for refusing to correct your personal information.
 
-**Contests/Surveys**
+Under certain circumstances, Shippit may refuse your request to access your information for such reason as but not limited to; access to personal information about them if giving access would be unlawful, if required or authorised by law, if it would prejudice an investigation, if it would prejudice activities of enforcement bodies or cause damage to security of Australia In this situation Shippit will tell you in writing any reasons it has for denying access to information.
 
-From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
-
-We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
-
-**Tell-A-Friend**
-
-If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
-
-**What Happens to my Personal Information if I Opt Out?**
-
-If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information if necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
-
-**Transfer of Data Abroad**
-
-If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
-
-**Changes in Our Practices**
-
-We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
-
-If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
-
-**Contacting Our Site**
-
-If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
-
-* * *
-
-Go Daddy   
-ATTN: Web Team   
-14455 North Hayden Rd.   
-Suite 219   
-Scottsdale, AZ, 85260, U.S.A.
+These reasons will be presented to you in writing, explaining the reasons for denying access or refusing to attach a correction statement. Included in this letter will be the details covering any process Shippit had for reviewing the decision and the process you may follow if you wish to make a complaint about the decision, either to the federal Privacy Commissioner or the relevant code adjudicator.
