@@ -1,34 +1,32 @@
-> *The following text is extracted and transformed from the fcall.in privacy policy that was archived on 2013-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130406181508id_/http%3A//www.fcall.in/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fcall.in privacy policy that was archived on 2015-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150617020643id_/http%3A//fcall.in/Privacy.aspx) for the most accurate reproduction.*
 
-# Fcall.in - India's first free calling website
+# Free Calls, Recharge Website, Online Mobile Recharge, Unlimited Calling Anyhere In India, Earn Easy Recharge And Talktime, Make Calls on Internet VOIP, fcall.in
 
-Privacy Policy
+Fcall takes your privacy seriously. Please read the following to learn more about our privacy policy.You are advised to please read the Privacy Policy carefully. By accessing the services provided by Fcall you agree to the collection and use of your data by Fcall in the manner provided in this Privacy Policy.
 
-fcall.in takes your privacy seriously. Please read the following to learn more about our privacy policy.You are advised to please read the Privacy Policy carefully. By accessing the services provided by fcall.in you agree to the collection and use of your data by fcall.in in the manner provided in this Privacy Policy.
-
-if you have questions or concerns regarding this statement, you should contact fcall Customer Support Desk at [support@fcall.in](mailto:support@fcall.in)
+if you have questions or concerns regarding this statement, you should contact Fcall Customer Support Desk at 
 
 **What this Privacy Policy Covers**
 
-  * This Privacy Policy covers **fcall.in** treatment of personally identifiable information that fcall.in collects when you are on the site, and when you use services provided by fcall.in. This policy also covers fcall.inâ€™s treatment of any personally identifiable information that fcall.inâ€™s business partners share with fcall.in .
-  * This policy does not apply to the practices of companies that fcall.in does not own or control, or to people that fcall.in does not employ or manage. 
+  * This Privacy Policy covers **Fcall** treatment of personally identifiable information that Fcall collects when you are on the site, and when you use services provided by Fcall. This policy also covers Fcall's treatment of any personally identifiable information that Fcall's business partners share with Fcall .
 
 
 
 **What information is or may be collected from you**
 
-We will automatically receive and collect certain anonymous information in standard usage logs through our Web server, including computer-identification information obtained from "cookies," sent to your browser from: 
+We will automatically receive and collect certain anonymous information in standard usage logs through our Server, including computer-identification information obtained from "cookies" sent to your browser from: 
 
   * an IP address, assigned to the computer which you use 
-  * destination number to which you are making call 
+  * Source and destination number to which you are making call 
+  * What sms or call conversation made (if any complaint got by as against you)
 
 
 
 We may collect the following personally identifiable information about you: 
 
-  * name including first and last name 
-  * email address 
-  * mobile phone number and contact details 
+  * name including first and last name and preferably middle name.
+  * email address and ip address.
+  * mobile phone number and contact details .
 
 
 
@@ -37,10 +35,7 @@ We may collect the following personally identifiable information about you:
 We use your email address to send you: 
 
   * Password reminder and registration confirmation 
-  * Special offers 
-  * News letters 
   * Changes in the service's policy or terms of use 
-  * Event based communications such as order information, renewal notices, invites, reminders etc. 
 
 
 
@@ -89,7 +84,7 @@ Generally, we use anonymous traffic information to:
 
 We do not share or rent your email addresses or Mobile number with third parties except our alliance partners.
 
-fcall.in will send personally identifiable information about you to other companies or people when: 
+Fcall will send personally identifiable information about you to other companies or people when: 
 
   * We have your consent to share the information; 
   * We need to share your information to provide the product or service you have requested; 
