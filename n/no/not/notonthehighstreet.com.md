@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the notonthehighstreet.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230122341id_/http%3A//www.notonthehighstreet.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the notonthehighstreet.com privacy policy that was archived on 2015-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150617031853id_/http%3A//www.notonthehighstreet.com/about/privacy) for the most accurate reproduction.*
 
 # privacy and data security | notonthehighstreet.com
 
@@ -140,7 +140,7 @@ Category | Party | Purpose
 Strictly necessary | notonthehighstreet.com | notonthehighstreet.com uses cookies to enable some of the basic functionality that is required for you to browse and shop on our website, such as remembering which products you have added to your basket. The information collected through these cookies is only used for this purpose and is never shared or sold on to third parties.  
 Performance | Criteo; Struq | notonthehighstreet.com work with 3rd party agencies Criteo and Struq to display our banner advertising on other selected websites based on pages already viewed on notonthehighstreet.com. The cookies used by Criteo and Struq help us to monitor and improve the effectiveness of our banner advertising and to refine the targeting of these campaigns so that we are displaying the most relevant content for each individual. The date collected through these cookies is anonymous, does not collect specific customer data and is never shared with other third parties  
 Performance | Google Adwords; MSN/Bing; Double Click; Yahoo (Right Media) | Google Adwords, MSN/Bing, Double Click and Yahoo use cookies (or, if applicable, anonymous identifiers) to track our own paid advertising activity. We use the information collected by these cookies to help us determine where our ads will be most effective online. Each individual advertiser uses its own tracking cookies and the data taken is not confidential data or interchangeable.  
-Performance | Google Analytics | Google Analytics use cookies (or, if applicable, anonymous identifiers) to collect data that helps us understand how people are using the site. We use this information to identify how and where we can improve the customer experience. The data collected through these cookies is anonymous, does not collect specific customer data and is never shared with other third parties.  
+Performance | Google Analytics (including Universal Analytics and Google Analytics for Display Advertisers) | Google Analytics use cookies (or, if applicable, anonymous identifiers) to collect data that helps us understand how people are using the site. We use this information to identify how and where we can improve the customer experience, and to help us determine where our ads will be most effective online. The data collected through these cookies is anonymous, does not collect specific customer data and is never shared with other third parties, other than Double Click Campaign Manager, which is a fully owned Google product.  
 Performance | Maxymiser | notonthehighstreet.com work with 3rd party Maxymiser to test and find the optimal content and experience for our users. The cookies used by Maxymiser enable us to identify which experiences visitors to our site have seen so that we can ensure we serve them with the same experience again should they return to our site. The data collected through these cookies is anonymous, does not collect specific customer data and is never shared with other third parties.  
 Performance | Peerius | Peerius use cookies to track the activity of customers on the site in order to help us provide the most relevant product recommendations to you based on the products you have previously viewed or purchased and the categories in which you have previously expressed an interest.  
 Functionality | Share This | Share This allows customers to share content, products and web pages from our website with other websites and social networking sites. The cookies used by Share This allow us to track the type of content, products and pages that our users are sharing to help us better understand which content is most engaging for our customers so that we can improve the content and customer experience in other areas of the website.  
@@ -191,8 +191,9 @@ If cookies aren't enabled on your computer, it will mean that your shopping expe
   * [Mozilla Firefox](http://support.mozilla.org/en-US/kb/cookies-information-websites-store-on-your-computer)
   * [Safari](http://support.apple.com/kb/HT1677)
   * [Opera](http://www.opera.com/help/tutorials/security/privacy/)
+  * [Google Analytics Opt Out](https://tools.google.com/dlpage/gaoptout/)
 
-Last amended 10 December 2014
+Last amended 26 March 2015
 
 
 
