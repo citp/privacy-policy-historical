@@ -1,9 +1,9 @@
-<!--The following is the downloaded HTML source of the babybunting.com.au privacy policy that was archived on 2014-11-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141105110908id_/http%3A//www.babybunting.com.au/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the babybunting.com.au privacy policy that was archived on 2015-06-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150617184735id_/http%3A//www.babybunting.com.au/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><script src="https://dnn506yrbagrg.cloudfront.net/pages/scripts/0018/5299.js?438989" async="" type="text/javascript"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VgMGU1BSGwICXFVTAQI="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),u=c.length,f=i(a,o,r),d=0;u>d;d++)c[d].apply(f,n);return f}function a(t,e){u[t]=s(t).concat(e)}function s(t){return u[t]||[]}function c(){return n(e)}var u={};return{on:a,emit:e,create:c,listeners:s,_events:u}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(u){try{r("ierr",[u,(new Date).getTime(),!0])}catch(f){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(4),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(u){"stack"in u&&(t(5),t(3),"addEventListener"in window&&t(1),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(2),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:4,2:7,3:5,4:18,5:6,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],4:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:18,2:19,ee:"QJf3ax",gos:"7eSDFh"}],5:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:19,2:18,ee:"QJf3ax"}],6:[function(t,e){function n(t,e,n){var r=t[0];"string"==typeof r&&(r=new Function(r)),t[0]=o(r,"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:19,2:18,ee:"QJf3ax"}],7:[function(t,e){function n(){c.inPlace(this,d,"fn-")}function r(t,e){c.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}var i=t("ee").create(),a=t(1),s=t(2),c=s(i),u=s(a),f=window.XMLHttpRequest,d=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=i,window.XMLHttpRequest=function(t){var e=new f(t);try{i.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",function(t,e){return e}),e.addEventListener("readystatechange",n,!1)}catch(r){try{i.emit("internal-error",[r])}catch(o){}}return e},window.XMLHttpRequest.prototype=f.prototype,c.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),i.on("send-xhr-start",r),i.on("open-xhr-start",r)},{1:4,2:19,ee:"QJf3ax"}],8:[function(t){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,u="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(u);if(f&&(r.rxSize=f),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(n.cat=d.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r,this.startTime])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,u=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var u=e(o);u&&(r.txSize=u)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",[e])}catch(r){}}};for(var f=0;c>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:9,3:7,4:4,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],9:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&c&&c.body){p.proto="https"===d.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=c.createElement("script");e.src=p.proto+t.agent,c.body.appendChild(e)}}function r(){"complete"===c.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,c=s.document,u="addEventListener",f="attachEvent",d=(""+location).split("?")[0],p=e.exports={offset:i(),origin:d,features:{}};c[u]?(c[u]("DOMContentLoaded",o,!1),s[u]("load",n,!1)):(c[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],18:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],19:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,u;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){f([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return u=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,u],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,u(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,u="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,u?s+o:o,i,s,t))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){f([o,e,n,r])}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){f([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function f(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:18,ee:"QJf3ax"}]},{},["G9z0Bl",3,8]);</script>
-<title>Privacy Policy | The One Stop Baby Shop | Baby Bunting</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><script src="https://js-agent.newrelic.com/nr-632.min.js"></script><script async="" charset="utf-8" src="//v2.zopim.com/?2uYKxW1ppNUVazo5adivF78vfwRfejSJ" type="text/javascript"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o?o:n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({QJf3ax:[function(e,n){function t(e){function n(n,t,a){e&&e(n,t,a),a||(a={});for(var u=c(n),f=u.length,s=i(a,o,r),p=0;f>p;p++)u[p].apply(s,t);return s}function a(e,n){f[e]=c(e).concat(n)}function c(e){return f[e]||[]}function u(){return t(n)}var f={};return{on:a,emit:n,create:u,listeners:c,_events:f}}function r(){return{}}var o="nr@context",i=e("gos");n.exports=t()},{gos:"7eSDFh"}],ee:[function(e,n){n.exports=e("QJf3ax")},{}],3:[function(e,n){function t(e){return function(){r(e,[(new Date).getTime()].concat(i(arguments)))}}var r=e("handle"),o=e(1),i=e(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(e,n){window.NREUM[n]=t("api-"+n)}),n.exports=window.NREUM},{1:12,2:13,handle:"D5DuLP"}],"7eSDFh":[function(e,n){function t(e,n,t){if(r.call(e,n))return e[n];var o=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return e[n]=o,o}var r=Object.prototype.hasOwnProperty;n.exports=t},{}],gos:[function(e,n){n.exports=e("7eSDFh")},{}],handle:[function(e,n){n.exports=e("D5DuLP")},{}],D5DuLP:[function(e,n){function t(e,n,t){return r.listeners(e).length?r.emit(e,n,t):(o[e]||(o[e]=[]),void o[e].push(n))}var r=e("ee").create(),o={};n.exports=t,t.ee=r,r.q=o},{ee:"QJf3ax"}],id:[function(e,n){n.exports=e("XL7HBI")},{}],XL7HBI:[function(e,n){function t(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:i(e,o,function(){return r++})}var r=1,o="nr@id",i=e("gos");n.exports=t},{gos:"7eSDFh"}],G9z0Bl:[function(e,n){function t(){var e=d.info=NREUM.info,n=f.getElementsByTagName("script")[0];if(e&&e.licenseKey&&e.applicationID&&n){c(p,function(n,t){n in e||(e[n]=t)});var t="https"===s.split(":")[0]||e.sslForHttp;d.proto=t?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=d.proto+e.agent,n.parentNode.insertBefore(r,n)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=e("handle"),c=e(1),u=(e(2),window),f=u.document,s=(""+location).split("?")[0],p={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-632.min.js"},d=n.exports={offset:i(),origin:s,features:{}};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),u.addEventListener("load",t,!1)):(f.attachEvent("onreadystatechange",r),u.attachEvent("onload",t)),a("mark",["firstbyte",i()])},{1:12,2:3,handle:"D5DuLP"}],loader:[function(e,n){n.exports=e("G9z0Bl")},{}],12:[function(e,n){function t(e,n){var t=[],o="",i=0;for(o in e)r.call(e,o)&&(t[i]=n(o,e[o]),i+=1);return t}var r=Object.prototype.hasOwnProperty;n.exports=t},{}],13:[function(e,n){function t(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(0>o?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=t},{}]},{},["G9z0Bl"]);</script>
+<title>Privacy Policy | Baby Bunting</title>
 <meta name="description" content="Everything baby from the one stop baby shop. Prams, strollers, car seats, furniture, manchester, clothing, cots and more. Buy online, by phone or in-store.">
 <meta name="keywords" content="privacy, policy">
 <meta name="robots" content="INDEX,FOLLOW">
@@ -17,7 +17,8 @@
 //]]>
 </script>
 <![endif]-->
-<link rel="stylesheet" type="text/css" href="http://www.babybunting.com.au/media/css/4402da997d86e2e8063479edaa8ed098.css" media="all">
+<link rel="stylesheet" type="text/css" href="http://www.babybunting.com.au/media/css/4b06c8dc4ed75f4e208c75f8a0856b5e.css">
+<link rel="stylesheet" type="text/css" href="http://www.babybunting.com.au/media/css/a5195c5ab94cc0452e0208ca1a8a946b.css" media="all">
 <link rel="stylesheet" type="text/css" href="http://www.babybunting.com.au/media/css/7f380c79425f5d166f93dd95f325c134.css" media="print">
 <script type="text/javascript" src="http://www.babybunting.com.au/js/prototype/prototype.js"></script>
 <script type="text/javascript" src="http://www.babybunting.com.au/js/lib/ccard.js"></script>
@@ -33,8 +34,10 @@
 <script type="text/javascript" src="http://www.babybunting.com.au/js/mage/translate.js"></script>
 <script type="text/javascript" src="http://www.babybunting.com.au/js/mage/cookies.js"></script>
 <script type="text/javascript" src="http://www.babybunting.com.au/js/aw_onsale/onsale.js"></script>
+<script type="text/javascript" src="http://www.babybunting.com.au/js/amasty/amlanding/amlanding.js"></script>
 <script type="text/javascript" src="http://www.babybunting.com.au/js/mageworx/modalbox.js"></script>
 <script type="text/javascript" src="http://www.babybunting.com.au/js/mageworx/downloads.js"></script>
+<script type="text/javascript" src="http://www.babybunting.com.au/js/solrsearch/autocomplete.js"></script>
 <script type="text/javascript" src="http://www.babybunting.com.au/js/temando/autocomplete.js"></script>
 <script type="text/javascript" src="http://www.babybunting.com.au/js/temando/avs.js"></script>
 <script type="text/javascript" src="http://www.babybunting.com.au/js/temando/datepicker.js"></script>
@@ -68,27 +71,47 @@ Mage.Cookies.domain   = '.www.babybunting.com.au';
 optionalZipCountries = ["HK","IE","MO","PA"];
 //]]>
 </script>
-<script type="text/javascript">//<![CDATA[
-        var Translator = new Translate([]);
-        //]]></script></head>
-<body class=" cms-page-view cms-privacy-policy">
  
 <script type="text/javascript">
-//<![CDATA[
-    var _gaq = _gaq || [];
-    
-_gaq.push(['_setAccount', 'UA-13247472-2']);
-_gaq.push(['_trackPageview']);
-    
-    (function() {
-        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-    })();
+        //<![CDATA[
+            (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+            })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
-//]]>
+            
+ga('create', 'UA-13247472-2', 'auto');
+
+ga('send', 'pageview');
+            
+        //]]>
+        </script>
+ 
+ 
+<script type="text/javascript">
+var _vwo_code=(function(){
+var account_id=145877,
+settings_tolerance=2000,
+library_tolerance=1500,
+use_existing_jquery=false,
+// DO NOT EDIT BELOW THIS LINE
+f=false,d=document;return{use_existing_jquery:function(){return use_existing_jquery;},library_tolerance:function(){return library_tolerance;},finish:function(){if(!f){f=true;var a=d.getElementById('_vis_opt_path_hides');if(a)a.parentNode.removeChild(a);}},finished:function(){return f;},load:function(a){var b=d.createElement('script');b.src=a;b.type='text/javascript';b.innerText;b.onerror=function(){_vwo_code.finish();};d.getElementsByTagName('head')[0].appendChild(b);},init:function(){settings_timer=setTimeout('_vwo_code.finish()',settings_tolerance);this.load('//dev.visualwebsiteoptimizer.com/j.php?a='+account_id+'&u='+encodeURIComponent(d.URL)+'&r='+Math.random());var a=d.createElement('style'),b='body{opacity:0 !important;filter:alpha(opacity=0) !important;background:none !important;}',h=d.getElementsByTagName('head')[0];a.setAttribute('id','_vis_opt_path_hides');a.setAttribute('type','text/css');if(a.styleSheet)a.styleSheet.cssText=b;else a.appendChild(d.createTextNode(b));h.appendChild(a);return settings_timer;}};}());_vwo_settings_timer=_vwo_code.init();
+</script><script src="//dev.visualwebsiteoptimizer.com/j.php?a=145877&amp;u=https%3A%2F%2Fweb.archive.org%2Fweb%2F20150617184735id_%2Fhttp%3A%2F%2Fwww.babybunting.com.au%2Fprivacy-policy%2F&amp;r=0.3281775274131986" type="text/javascript"></script>
+ 
+<script type="text/javascript">//<![CDATA[
+        var Translator = new Translate({"Out of Stock":"Please contact your local store for stock availability"});
+        //]]></script>
+ 
+<script type="text/javascript">
+window.$zopim||(function(d,s){var z=$zopim=function(c){z._.push(c)},$=z.s=
+d.createElement(s),e=d.getElementsByTagName(s)[0];z.set=function(o){z.set.
+_.push(o)};z._=[];z.set._=[];$.async=!0;$.setAttribute("charset","utf-8");
+$.src="//v2.zopim.com/?2uYKxW1ppNUVazo5adivF78vfwRfejSJ";z.t=+new Date;$.
+type="text/javascript";e.parentNode.insertBefore($,e)})(document,"script");
 </script>
  
+</head>
+<body class=" cms-page-view cms-privacy-policy">
 <div class="wrapper">
 <noscript>
 <div class="global-site-notice noscript">
@@ -112,7 +135,7 @@ You must have JavaScript enabled in your browser to utilize the functionality of
 </div>
 <div class="quick-access">
 <div class="checkout-link"><ul class="links">
-<li class="first last"><a href="https://www.babybunting.com.au/onestepcheckout/" title="Checkout" class="top-link-onestepcheckout">Checkout</a></li>
+<li class="first last"><a href="https://www.babybunting.com.au/checkout/" title="Checkout" class="top-link-checkout">Checkout</a></li>
 </ul>
 </div>
  
@@ -134,7 +157,8 @@ You have no items in your shopping cart. </p>
     // Enterprise.TopCart.showCart(7);
 </script>
 </div>
-  <div class="account-link"><ul class="links">
+ 
+<div class="account-link"><ul class="links">
 <li class="first"><a href="https://www.babybunting.com.au/customer/account/login/" title="Login">Login</a></li>
 <li class="my-account"><a href="https://www.babybunting.com.au/customer/account/" title="My Account">My Account</a></li>
  <li class=" last"><a href="https://www.babybunting.com.au/wishlist/" title="My Wishlist">My Wishlist</a></li>
@@ -147,26 +171,25 @@ You have no items in your shopping cart. </p>
 </li>
 <li><a href="http://www.babybunting.com.au/contacts/">Contact Us</a></li>
 </ul>
-</div>            <form id="search_mini_form" action="http://www.babybunting.com.au/catalogsearch/result/" method="get">
-<div class="form-search">
-    <label for="search">Search site:</label>
-    <input id="search" type="text" name="q" value="" class="input-text">&nbsp;<button type="submit" title="Go" class="button"><span><span>Go</span></span></button>
-    <div id="search_autocomplete" class="search-autocomplete"></div>
-    <script type="text/javascript">
-    //<![CDATA[
-        var searchForm = new Varien.searchForm('search_mini_form', 'search', 'Enter search keyword');
-        searchForm.initAutocomplete('http://www.babybunting.com.au/catalogsearch/ajax/suggest/', 'search_autocomplete');
-    //]]>
-    </script>
-    
-    <div id="search-running" style="display: none; position: absolute; right: 50px; top: 11px; z-index: 100;">
-        <img alt="" src="http://www.babybunting.com.au/skin/frontend/enterprise/babybunting/images/loading.gif">
-    </div>
 </div>
-<a href="http://www.babybunting.com.au/catalogsearch/advanced/" class="advancedsearch">Advanced Search</a>
+            <form id="search_mini_form" action="http://www.babybunting.com.au/search/" method="get">
+    <div class="form-search">
+        <label for="search">Search:</label>
+        <input id="search" type="text" name="q" value="" class="input-text">
+        <button type="submit" title="Search" class="button"><span><span>Search</span></span></button>
+        <div id="search_autocomplete" class="search-autocomplete"></div>
+        <script type="text/javascript">
+        //<![CDATA[
+            var searchForm = new Varien.searchForm('search_mini_form', 'search', 'Search entire store here...');
+            var SolrBridgeAutocomplete = new SolrBridgeSearch('search',{id:'autocomplete',target:'#search_mini_form',inputid:'search',containerid:'search_mini_form',boxWidth:469,searchTextPlaceHolder:'Search entire store here...',currencySign:'&nbsp;$&nbsp;',currencycode:'AUD',ajaxBaseUrl:'http://www.babybunting.com.au',searchResultUrl:'http://www.babybunting.com.au/search',viewAllResultText:'View all search results for %s',categoryText:'Categories',viewAllCategoryText:'View all categories >>',viewAllBrandsText:'View all brands >>',keywordsText:'Keywords',productText:'product',productsText:'products',brandText:'Brands',storetimestamp:'1434602854',storeid:'1',customergroupid:'0',categoryRedirect:'0',showBrand:'0',showBrandAttributeCode:'manufacturer',displaykeywordsuggestion:'true',displayResultOfText:'Search results for %s',displayResultOfInsteadText:'Search results for %s instead',currencyPos:'before',displayThumb:'1',allowFilter:'1',categoryLimit:'3',brandLimit:'3',fromPriceText:'from',ajaxprice:0});
+        //]]>
+        </script>
+    </div>
 </form>
         </div>
+
     </div>
+
     <div class="nav-container">
     <ul id="nav">
         <li class="level0 nav-1 level-top first">
@@ -203,7 +226,10 @@ You have no items in your shopping cart. </p>
 </a>
 </li>    </ul>
 </div>
-    </div>
+
+    
+</div>
+
         <div class="main col2-left-layout">
 			<!--{GLOBAL_MESSAGES_aae3749ba9c2e308ffa9c240ac185959}--><!--/{GLOBAL_MESSAGES_aae3749ba9c2e308ffa9c240ac185959}-->      			            <div class="col-main">
                 
@@ -220,11 +246,8 @@ You have no items in your shopping cart. </p>
 <p>Baby Bunting is bound by privacy laws, which regulate how we may collect, use, disclose and store personal information.&nbsp; These laws also specify how individuals may access and correct personal information held about them.</p>
 <p>“Personal Information” means information or an opinion about an identified individual (or an individual who is reasonably identifiable), whether true or not, or recorded in a material form or not. For example, these types of information could include your name, contact details, age and other information.</p>
 <p>In this policy ‘we’, ‘us’, ‘our’ and ‘Baby Bunting’ refers to Baby Bunting Pty Ltd (ACN 128 546 154).</p>
-<p>If you have any questions regarding Baby Bunting’s Privacy Policy, please contact us via email to <a href="mailto:enquiries@babybunting.com.au">enquiries@babybunting.com.au<script type="text/javascript">
-/* <![CDATA[ */
-(function(){try{var s,a,i,j,r,c,l,b=document.getElementsByTagName("script");l=b[b.length-1].previousSibling;a=l.getAttribute('data-cfemail');if(a){s='';r=parseInt(a.substr(0,2),16);for(j=2;a.length-j;j+=2){c=parseInt(a.substr(j,2),16)^r;s+=String.fromCharCode(c);}s=document.createTextNode(s);l.parentNode.replaceChild(s,l);}}catch(e){}})();
-/* ]]> */
-</script></a>.&nbsp; If you would like Baby Bunting to send you a copy of this policy, please contact us and we will do so. By visiting our websites and/or providing your personal information to us, you consent to the terms and conditions in this Privacy Policy, unless you tell us to the contrary by contacting our <a href="http://www.babybunting.com.au/contacts/">Privacy Contact Officer</a>.</p>
+<p>If you have any questions regarding Baby Bunting’s Privacy Policy, please contact us via email to <a href="mailto:enquiries@babybunting.com.au">enquiries@babybunting.com.au<script cf-hash="f9e31" type="text/javascript">
+/* <![CDATA[ */!function(){try{var t="currentScript"in document?document.currentScript:function(){for(var t=document.getElementsByTagName("script"),e=t.length;e--;)if(t[e].getAttribute("cf-hash"))return t[e]}();if(t&&t.previousSibling){var e,r,n,i,c=t.previousSibling,a=c.getAttribute("data-cfemail");if(a){for(e="",r=parseInt(a.substr(0,2),16),n=2;a.length-n;n+=2)i=parseInt(a.substr(n,2),16)^r,e+=String.fromCharCode(i);e=document.createTextNode(e),c.parentNode.replaceChild(e,c)}}}catch(u){}}();/* ]]> */</script></a>.&nbsp; If you would like Baby Bunting to send you a copy of this policy, please contact us and we will do so. By visiting our websites and/or providing your personal information to us, you consent to the terms and conditions in this Privacy Policy, unless you tell us to the contrary by contacting our <a href="http://www.babybunting.com.au/contacts/">Privacy Contact Officer</a>.</p>
 <p>This privacy policy is effective from March 2014. From time to time, our privacy policies and procedures will be reviewed and, if appropriate, updated.&nbsp; If any changes are made to this policy these will be posted on our websites.</p>
 <p>&nbsp;</p>
 <h2>How and why does Baby Bunting collect and hold your personal information?</h2>
@@ -307,11 +330,8 @@ You have no items in your shopping cart. </p>
 <li>allow you to request not to receive direct marketing communications (also known as ‘opting-out’); and</li>
 <li>comply with your request to ‘opt-out’ of receiving further communications within a reasonable timeframe.</li>
 </ul>
-<p>If you do not wish to be contacted by Baby Bunting, please contact us via email to <a href="mailto:enquiries@babybunting.com.au">enquiries@babybunting.com.au<script type="text/javascript">
-/* <![CDATA[ */
-(function(){try{var s,a,i,j,r,c,l,b=document.getElementsByTagName("script");l=b[b.length-1].previousSibling;a=l.getAttribute('data-cfemail');if(a){s='';r=parseInt(a.substr(0,2),16);for(j=2;a.length-j;j+=2){c=parseInt(a.substr(j,2),16)^r;s+=String.fromCharCode(c);}s=document.createTextNode(s);l.parentNode.replaceChild(s,l);}}catch(e){}})();
-/* ]]> */
-</script></a>.</p>
+<p>If you do not wish to be contacted by Baby Bunting, please contact us via email to <a href="mailto:enquiries@babybunting.com.au">enquiries@babybunting.com.au<script cf-hash="f9e31" type="text/javascript">
+/* <![CDATA[ */!function(){try{var t="currentScript"in document?document.currentScript:function(){for(var t=document.getElementsByTagName("script"),e=t.length;e--;)if(t[e].getAttribute("cf-hash"))return t[e]}();if(t&&t.previousSibling){var e,r,n,i,c=t.previousSibling,a=c.getAttribute("data-cfemail");if(a){for(e="",r=parseInt(a.substr(0,2),16),n=2;a.length-n;n+=2)i=parseInt(a.substr(n,2),16)^r,e+=String.fromCharCode(i);e=document.createTextNode(e),c.parentNode.replaceChild(e,c)}}}catch(u){}}();/* ]]> */</script></a>.</p>
 <p>&nbsp;</p>
 <h2>Does Baby Bunting disclose your personal information to overseas recipients?</h2>
 <p>In some circumstances, Baby Bunting may disclose your personal information to overseas recipients. If this occurs, we take steps as are reasonable in the circumstances to ensure that the overseas recipient does not breach the relevant privacy laws in relation to that information.</p>
@@ -327,11 +347,8 @@ You have no items in your shopping cart. </p>
 <p>The personal information that we collect about you is stored on our database server managed by Baby Bunting Pty Ltd, and its collection, storage, use and disclosure is governed by the terms of the <em>Privacy Act 1988.</em></p>
 <p>This includes a range of systems and communication security measures, as well as the secure storage of any hard copy documents. In addition, access to your personal information will be restricted to those properly authorised to have access.</p>
 <p>We keep your personal information for as long as it is required to provide you with the products you requested from us and to comply with legal requirements. If we no longer require your personal information for any purpose, including legal purposes, we will take reasonable steps to securely destroy or de-identify your personal information.</p>
-<p>If you believe that your personal information is not accurate, complete or up to date, please contact us via email to <a href="mailto:enquiries@babybunting.com.au">enquiries@babybunting.com.au<script type="text/javascript">
-/* <![CDATA[ */
-(function(){try{var s,a,i,j,r,c,l,b=document.getElementsByTagName("script");l=b[b.length-1].previousSibling;a=l.getAttribute('data-cfemail');if(a){s='';r=parseInt(a.substr(0,2),16);for(j=2;a.length-j;j+=2){c=parseInt(a.substr(j,2),16)^r;s+=String.fromCharCode(c);}s=document.createTextNode(s);l.parentNode.replaceChild(s,l);}}catch(e){}})();
-/* ]]> */
-</script></a>.</p>
+<p>If you believe that your personal information is not accurate, complete or up to date, please contact us via email to <a href="mailto:enquiries@babybunting.com.au">enquiries@babybunting.com.au<script cf-hash="f9e31" type="text/javascript">
+/* <![CDATA[ */!function(){try{var t="currentScript"in document?document.currentScript:function(){for(var t=document.getElementsByTagName("script"),e=t.length;e--;)if(t[e].getAttribute("cf-hash"))return t[e]}();if(t&&t.previousSibling){var e,r,n,i,c=t.previousSibling,a=c.getAttribute("data-cfemail");if(a){for(e="",r=parseInt(a.substr(0,2),16),n=2;a.length-n;n+=2)i=parseInt(a.substr(n,2),16)^r,e+=String.fromCharCode(i);e=document.createTextNode(e),c.parentNode.replaceChild(e,c)}}}catch(u){}}();/* ]]> */</script></a>.</p>
 <p>&nbsp;</p>
 <h2>Website usage</h2>
 <p>Our website is professionally hosted and operates in a secure environment. You should however be aware that there is always an inherent risk in transmitting your personal information via the Internet.</p>
@@ -346,31 +363,22 @@ You have no items in your shopping cart. </p>
 <p>If you complete an online form on our website, the information that you enter on that form will only be collected if you actually submit the form to us. If you change your mind and do not submit the information, any information you have entered up to that point will not be collected by our system and will be discarded (note that if your browser has an “auto complete” function, it might automatically fill in the form again the next time you visit that page).</p>
 <p>Any personal information that you actually submit to us using our website or in an e-mail will only be used in accordance with this privacy policy.</p>
 <p>Baby Bunting endeavours to ensure the accuracy of our website pricing and content.&nbsp; In the case of a technical based pricing or content error, we reserve the right to cancel or refund the mistaken purchase price to you. &nbsp;If an order is rejected on our website we will endeavour to notify you within a reasonable time after the order has been submitted.</p>
-<p>If you come across what you believe to be a technical error or inaccuracy of our content please notify us at&nbsp;<a href="mailto:enquiries@babybunting.com.au">enquiries@babybunting.com.au<script type="text/javascript">
-/* <![CDATA[ */
-(function(){try{var s,a,i,j,r,c,l,b=document.getElementsByTagName("script");l=b[b.length-1].previousSibling;a=l.getAttribute('data-cfemail');if(a){s='';r=parseInt(a.substr(0,2),16);for(j=2;a.length-j;j+=2){c=parseInt(a.substr(j,2),16)^r;s+=String.fromCharCode(c);}s=document.createTextNode(s);l.parentNode.replaceChild(s,l);}}catch(e){}})();
-/* ]]> */
-</script></a>.</p>
+<p>If you come across what you believe to be a technical error or inaccuracy of our content please notify us at&nbsp;<a href="mailto:enquiries@babybunting.com.au">enquiries@babybunting.com.au<script cf-hash="f9e31" type="text/javascript">
+/* <![CDATA[ */!function(){try{var t="currentScript"in document?document.currentScript:function(){for(var t=document.getElementsByTagName("script"),e=t.length;e--;)if(t[e].getAttribute("cf-hash"))return t[e]}();if(t&&t.previousSibling){var e,r,n,i,c=t.previousSibling,a=c.getAttribute("data-cfemail");if(a){for(e="",r=parseInt(a.substr(0,2),16),n=2;a.length-n;n+=2)i=parseInt(a.substr(n,2),16)^r,e+=String.fromCharCode(i);e=document.createTextNode(e),c.parentNode.replaceChild(e,c)}}}catch(u){}}();/* ]]> */</script></a>.</p>
 <p>&nbsp;</p>
 <h2>Links to third party sites</h2>
 <p>Whilst links to third party websites are provided on our website, we are not responsible for the content or practices of these third party websites.</p>
 <p>These links are provided for your convenience and do not represent Baby Bunting's endorsement of any linked third party website. We recommend that you check the privacy policies of these third parties prior to providing them with your personal information.</p>
-<p>No links may be made to this website without our prior written consent. Applications for consent must be made to <a href="mailto:enquiries@babybunting.com.au">enquiries@babybunting.com.au<script type="text/javascript">
-/* <![CDATA[ */
-(function(){try{var s,a,i,j,r,c,l,b=document.getElementsByTagName("script");l=b[b.length-1].previousSibling;a=l.getAttribute('data-cfemail');if(a){s='';r=parseInt(a.substr(0,2),16);for(j=2;a.length-j;j+=2){c=parseInt(a.substr(j,2),16)^r;s+=String.fromCharCode(c);}s=document.createTextNode(s);l.parentNode.replaceChild(s,l);}}catch(e){}})();
-/* ]]> */
-</script></a>.</p>
+<p>No links may be made to this website without our prior written consent. Applications for consent must be made to <a href="mailto:enquiries@babybunting.com.au">enquiries@babybunting.com.au<script cf-hash="f9e31" type="text/javascript">
+/* <![CDATA[ */!function(){try{var t="currentScript"in document?document.currentScript:function(){for(var t=document.getElementsByTagName("script"),e=t.length;e--;)if(t[e].getAttribute("cf-hash"))return t[e]}();if(t&&t.previousSibling){var e,r,n,i,c=t.previousSibling,a=c.getAttribute("data-cfemail");if(a){for(e="",r=parseInt(a.substr(0,2),16),n=2;a.length-n;n+=2)i=parseInt(a.substr(n,2),16)^r,e+=String.fromCharCode(i);e=document.createTextNode(e),c.parentNode.replaceChild(e,c)}}}catch(u){}}();/* ]]> */</script></a>.</p>
 <p>&nbsp;</p>
 <h2>How you can access or correct your personal information</h2>
 <p>You can request access to the personal information we hold about you at any time, and we will</p>
 <p>provide you with that information unless we are prevented by law from giving it to you.</p>
 <p>If we are unable to give you access to the information you have requested, we will give you reasons for this decision when we respond to your request.</p>
 <p>You will not be charged for accessing your information, although we might have to charge the reasonable cost of processing your request, including photocopying, administration and postage. We will advise you of any fee payable before we process your request.</p>
-<p>If you believe that your personal information is not accurate, complete or up to date, please contact us via email to <a href="mailto:enquiries@babybunting.com.au">enquiries@babybunting.com.au<script type="text/javascript">
-/* <![CDATA[ */
-(function(){try{var s,a,i,j,r,c,l,b=document.getElementsByTagName("script");l=b[b.length-1].previousSibling;a=l.getAttribute('data-cfemail');if(a){s='';r=parseInt(a.substr(0,2),16);for(j=2;a.length-j;j+=2){c=parseInt(a.substr(j,2),16)^r;s+=String.fromCharCode(c);}s=document.createTextNode(s);l.parentNode.replaceChild(s,l);}}catch(e){}})();
-/* ]]> */
-</script></a>. and we will take reasonable steps to correct this information.&nbsp;</p>
+<p>If you believe that your personal information is not accurate, complete or up to date, please contact us via email to <a href="mailto:enquiries@babybunting.com.au">enquiries@babybunting.com.au<script cf-hash="f9e31" type="text/javascript">
+/* <![CDATA[ */!function(){try{var t="currentScript"in document?document.currentScript:function(){for(var t=document.getElementsByTagName("script"),e=t.length;e--;)if(t[e].getAttribute("cf-hash"))return t[e]}();if(t&&t.previousSibling){var e,r,n,i,c=t.previousSibling,a=c.getAttribute("data-cfemail");if(a){for(e="",r=parseInt(a.substr(0,2),16),n=2;a.length-n;n+=2)i=parseInt(a.substr(n,2),16)^r,e+=String.fromCharCode(i);e=document.createTextNode(e),c.parentNode.replaceChild(e,c)}}}catch(u){}}();/* ]]> */</script></a>. and we will take reasonable steps to correct this information.&nbsp;</p>
 <p>&nbsp;</p>
 <h2>How you can notify us of a privacy concern or contact our Privacy Contact Officer</h2>
 <p>If you:</p>
@@ -378,11 +386,8 @@ You have no items in your shopping cart. </p>
 <li>have queries, concerns or complaints about the manner in which your personal information has been collected or handled by Baby Bunting; or</li>
 <li>would like to request access to or correction of the personal information we hold about you:</li>
 </ul>
-<p><strong>Please Email</strong>: &nbsp;&nbsp;&nbsp; please contact us via email to <a href="mailto:enquiries@babybunting.com.au">enquiries@babybunting.com.au<script type="text/javascript">
-/* <![CDATA[ */
-(function(){try{var s,a,i,j,r,c,l,b=document.getElementsByTagName("script");l=b[b.length-1].previousSibling;a=l.getAttribute('data-cfemail');if(a){s='';r=parseInt(a.substr(0,2),16);for(j=2;a.length-j;j+=2){c=parseInt(a.substr(j,2),16)^r;s+=String.fromCharCode(c);}s=document.createTextNode(s);l.parentNode.replaceChild(s,l);}}catch(e){}})();
-/* ]]> */
-</script></a>.</p>
+<p><strong>Please Email</strong>: &nbsp;&nbsp;&nbsp; please contact us via email to <a href="mailto:enquiries@babybunting.com.au">enquiries@babybunting.com.au<script cf-hash="f9e31" type="text/javascript">
+/* <![CDATA[ */!function(){try{var t="currentScript"in document?document.currentScript:function(){for(var t=document.getElementsByTagName("script"),e=t.length;e--;)if(t[e].getAttribute("cf-hash"))return t[e]}();if(t&&t.previousSibling){var e,r,n,i,c=t.previousSibling,a=c.getAttribute("data-cfemail");if(a){for(e="",r=parseInt(a.substr(0,2),16),n=2;a.length-n;n+=2)i=parseInt(a.substr(n,2),16)^r,e+=String.fromCharCode(i);e=document.createTextNode(e),c.parentNode.replaceChild(e,c)}}}catch(u){}}();/* ]]> */</script></a>.</p>
 <p>or</p>
 <p><strong>&nbsp;</strong><strong>Write to</strong>: Baby Bunting’s Privacy Contact Officer, 955 Taylors Rd, Dandenong South VIC 3175.&nbsp;</p>
 <p>If you consider your privacy concerns have not been resolved satisfactorily by us, or you wish to obtain more information on privacy requirements, you can contact The Office of the Australian Information Commissioner on 1300 363 992 or visit their website at <a href="http://www.oaic.gov.au/">www.oaic.gov.au</a>.</p>
@@ -405,17 +410,20 @@ You have no items in your shopping cart. </p>
   <div class="block-content connect">
     <h2 class="conn">Connect with Baby Bunting</h2>
     <ul class="left-social-links">
-      <li><a href="http://www.babybunting.com.au/subscribe-newsletter/" class="social-email"><span>Email</span></a></li>
-      <li><a href="http://www.facebook.com/BabyBuntingAus" class="social-facebook" target="_blank"><span>Facebook</span></a></li>
-      <li><a href="http://www.twitter.com/BabyBuntingAus" class="social-twitter" target="_blank"><span>Twitter</span></a></li>
-      <li><a href="http://www.youtube.com/babybuntingaustralia" class="social-youtube" target="_blank"><span>YouTube</span></a></li>
+      <li><a href="http://www.babybunting.com.au/subscribe-newsletter/" class="social-email" alt="Email"><span>Email</span></a></li>
+      <li><a href="http://www.facebook.com/BabyBuntingAus" class="social-facebook" target="_blank" alt="Facebook"><span>Facebook</span></a></li>
+      <li><a href="http://www.twitter.com/BabyBuntingAus" class="social-twitter" target="_blank" alt="Twitter"><span>Twitter</span></a></li>
+      <li><a href="http://www.youtube.com/babybuntingaustralia" class="social-youtube" target="_blank" alt="YouTube"><span>YouTube</span></a></li>
     </ul>
   </div>
 </div>
 </div>
         </div>
-                <div class="footer-container">
+                
+<div class="footer-container">
+
     <div class="footer">
+
 		  <div class="cols babybunting">
 <h3>Baby Bunting</h3>
 <ul class="links">
@@ -440,6 +448,7 @@ You have no items in your shopping cart. </p>
 <li><a href="http://www.babybunting.com.au/privacy-policy/">Privacy Policy</a></li>
 <li><a href="http://www.babybunting.com.au/refunds-and-exchanges/">Refunds &amp; Exchanges</a></li>
 <li><a href="/t-c-policy">Policy</a></li>
+<li><a href="/promotions-notices">Notices &amp; Promotions</a></li>
 </ul>
 </div>
 <!-- End of cols -->
@@ -451,6 +460,7 @@ You have no items in your shopping cart. </p>
 <li><a href="http://www.babybunting.com.au/catalogsearch/term/popular/">Search Terms</a></li>
 <li><a href="http://www.babybunting.com.au/catalogsearch/advanced/">Advanced Search</a></li>
 <li><a href="http://www.babybunting.com.au/catalog/seo_sitemap/category/">Sitemap</a></li>
+<li><a title="Clearance Products" href="/clearance.html" target="_self">Clearance</a></li>
 </ul>
 </div>
 <!-- End of cols -->
@@ -467,28 +477,31 @@ You have no items in your shopping cart. </p>
 <div class="cols connect">
 <h3>Connect</h3>
 <ul class="social-links">
-<li><a class="social-facebook" href="http://www.facebook.com/BabyBuntingAus" target="_blank"><span>Facebook</span></a></li>
-<li><a class="social-twitter" href="http://www.twitter.com/BabyBuntingAus" target="_blank"><span>Twitter</span></a></li>
-<li><a class="social-youtube" href="https://www.youtube.com/user/BabyBuntingAustralia" target="_blank"><span>Youtube</span></a></li>
-<li><a class="social-pinterest" href="http://pinterest.com/BabyBuntingAus/" target="_blank"><span>Pintrest</span></a></li>
+<ul class="social-links">
+<li><a href="https://www.facebook.com/BabyBuntingAus"><img src="http://www.babybunting.com.au/media/social/fb.jpg" alt="Facebook"></a></li>
+<li><a href="https://instagram.com/baby.bunting/"><img src="http://www.babybunting.com.au/media/social/ig.jpg" alt="Instagram"></a></li>
+<li><a href="http://pinterest.com/BabyBuntingAus/"><img src="http://www.babybunting.com.au/media/social/pn.jpg" alt="Pinterest"></a></li>
 </ul>
-<img class="secure-pay" src="http://www.babybunting.com.au/skin/frontend/enterprise/babybunting/images/SecurePayLogo.png" alt=""> <img class="secure-pay" src="http://www.babybunting.com.au/skin/frontend/enterprise/babybunting/images/paypalLogo.png" alt=""></div>
-<div>
-<script type="text/javascript">// <![CDATA[
-setTimeout(function(){var a=document.createElement("script");
-var b=document.getElementsByTagName("script")[0];
-a.src=document.location.protocol+"//dnn506yrbagrg.cloudfront.net/pages/scripts/0018/5299.js?"+Math.floor(new Date().getTime()/3600000);
-a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
-// ]]></script>
-</div>    </div>
+<ul class="social-links">
+<li><a href="https://www.youtube.com/user/BabyBuntingAustralia"><img src="http://www.babybunting.com.au/media/social/yt.jpg" alt="Youtube"></a> </li>
+<li><a href="http://www.twitter.com/BabyBuntingAus"><img src="http://www.babybunting.com.au/media/social/tw.jpg" alt="Twitter"></a> </li>
+<li><a href="https://plus.google.com/+BabybuntingAus/"><img src="http://www.babybunting.com.au/media/social/gp.jpg" alt="Google Plus"></a> </li>
+</ul>
+<img class="secure-pay" src="http://www.babybunting.com.au/skin/frontend/enterprise/babybunting/images/SecurePayLogo.png" alt="Secure Pay"> <img class="secure-pay" src="http://www.babybunting.com.au/skin/frontend/enterprise/babybunting/images/paypalLogo.png" alt="Paypal"></ul></div>
+    </div>
+
     <address class="copyright">© 2013 Baby Bunting All rights reserved.</address>
+
     <div id="di">
+
             <div id="diLogo">
 <a class="text_link" href="http://www.di.net.au/?utm_source=Baby%20Bunting&amp;utm_medium=Website&amp;utm_campaign=Baby%20Bunting" target="_blank">Web Development by</a> &nbsp;
 <a class="singleRollover" href="http://www.di.net.au/?utm_source=Baby%20Bunting&amp;utm_medium=Website&amp;utm_campaign=Baby%20Bunting" target="_blank">
 Design Industries
 </a>
-</div>    </div>
+</div>
+    </div>
+
 </div>        <!--{WISHLISTS_d6769d83192e1c77ec5198ac3fec7a63}--><!--/{WISHLISTS_d6769d83192e1c77ec5198ac3fec7a63}--><script type="text/javascript">
 
 new Avs(
@@ -509,11 +522,11 @@ new Avs(
     </div>
     
 </div>
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-3.newrelic.com","licenseKey":"5f035b0fce","applicationID":"1284163","transactionName":"NVQHZUFXV0ZWUEFaDAweJFJHX1ZbGFBYQEwSUAJUHEBQUEA=","queueTime":0,"applicationTime":724,"atts":"GRMEEwlNREg=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-476.min.js"}</script><script type="text/javascript">
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"5f035b0fce","applicationID":"5927659","transactionName":"NVQHZUFXV0ZWUEFaDAweJkRAQlZYGFBYQEwSUAJUHEBQUEA=","queueTime":0,"applicationTime":707,"atts":"GRMEEwlNREg=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-632.min.js"}</script><script type="text/javascript">
 /* <![CDATA[ */
-(function(){try{var s,a,i,j,r,c,l=document.getElementsByTagName("a"),t=document.createElement("textarea");for(i=0;l.length-i;i++){try{a=l[i].getAttribute("href");if(a&&"/cdn-cgi/l/email-protection"==a.substr(0 ,27)){s='';j=28;r=parseInt(a.substr(j,2),16);for(j+=2;a.length-j&&a.substr(j,1)!='X';j+=2){c=parseInt(a.substr(j,2),16)^r;s+=String.fromCharCode(c);}j+=1;s+=a.substr(j,a.length-j);t.innerHTML=s.replace(/</g,"&lt;").replace(/>/g,"&gt;");l[i].setAttribute("href","mailto:"+t.value);}}catch(e){}}}catch(e){}})();
+(function(){try{var s,a,i,j,r,c,l=document.getElementsByTagName("a"),t=document.createElement("textarea");for(i=0;l.length-i;i++){try{a=l[i].getAttribute("href");if(a&&a.indexOf("/cdn-cgi/l/email-protection") > -1  && (a.length > 28)){s='';j=27+ 1 + a.indexOf("/cdn-cgi/l/email-protection");if (a.length > j) {r=parseInt(a.substr(j,2),16);for(j+=2;a.length>j&&a.substr(j,1)!='X';j+=2){c=parseInt(a.substr(j,2),16)^r;s+=String.fromCharCode(c);}j+=1;s+=a.substr(j,a.length-j);}t.innerHTML=s.replace(/</g,"&lt;").replace(/>/g,"&gt;");l[i].setAttribute("href","mailto:"+t.value);}}catch(e){}}}catch(e){}})();
 /* ]]> */
 </script>
 
 
-<script src="https://js-agent.newrelic.com/nr-476.min.js"></script></body></html>
+</body></html>
