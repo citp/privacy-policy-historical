@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mobilejury.com privacy policy that was archived on 2014-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140921065102id_/http%3A//www.mobilejury.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobilejury.com privacy policy that was archived on 2015-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150617113304id_/http%3A//www.mobilejury.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
