@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mycenturylink.com privacy policy that was archived on 2014-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141226213629id_/http%3A//www.centurylink.com/Pages/AboutUs/Legal/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mycenturylink.com privacy policy that was archived on 2015-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150617104225id_/http%3A//www.centurylink.com/Pages/AboutUs/Legal/PrivacyPolicy) for the most accurate reproduction.*
 
 # CenturyLink | Privacy Policy
 
@@ -6,7 +6,7 @@
 
 Like most companies, we have certain information about our customers and use it to provide our services. We also share it as needed to meet our business goals or fulfill our legal obligations. We protect the information we have about our customers, and we require those we share it with to protect it too.
 
-The purpose of this overview is to describe the information we have, how we use and share it, the choices you have about our use and sharing, and the steps we take to protect it. This overview summarizes the relevant sections of our full Privacy Policy and gives you direct links to those sections, which you can find here. To see answers to frequently asked questions (FAQs) about our practices, [click here](https://web.archive.org/web/20141226213629id_/http://www.centurylink.com/Pages/AboutUs/Legal/PrivacyPolicy/faq.jsp).
+The purpose of this overview is to describe the information we have, how we use and share it, the choices you have about our use and sharing, and the steps we take to protect it. This overview summarizes the relevant sections of our full Privacy Policy and gives you direct links to those sections, which you can find here. To see answers to frequently asked questions (FAQs) about our practices, [click here](https://web.archive.org/web/20150617104225id_/http://www.centurylink.com/Pages/AboutUs/Legal/PrivacyPolicy/faq.jsp).
 
   * What information does CenturyLink have?
   * How does CenturyLink use customer information?
@@ -15,11 +15,12 @@ The purpose of this overview is to describe the information we have, how we use 
   * What access do customers have to information about themselves?
   * How long does CenturyLink retain customer information?
   * How does CenturyLink secure customer information?
+  * Does CenturyLink participate in the US-EU and US-Swiss Safe Harbor Program to enable the transfer of personal information to the US?
   * Contacting us
 
 
 
-[Frequently Asked Questions (FAQs)](https://web.archive.org/web/20141226213629id_/http://www.centurylink.com/Pages/AboutUs/Legal/PrivacyPolicy/faq.jsp)
+[Frequently Asked Questions (FAQs)](https://web.archive.org/web/20150617104225id_/http://www.centurylink.com/Pages/AboutUs/Legal/PrivacyPolicy/faq.jsp)
 
 What information does CenturyLink have?
     
@@ -103,13 +104,24 @@ We take the security of our customer information seriously. We do several things
 
 
 
-You can get more detail about how CenturyLink secures customer information by clicking here.
+Like most companies, while we have security measures and policies in place to protect against the unauthorized access, misuse and disclosure of information under our control, we cannot guarantee that your information will never be disclosed in a manner inconsistent with our policies and practices or that our safeguards will prohibit all attempts to defeat these measures. If you think information about you or others has been disclosed without proper authorization, please contact us at [Privacy@CenturyLink.com](mailto:Privacy@CenturyLink.com), or write us at:
+
+PRIVACY GROUP  
+CENTURYLINK LEGAL  
+100 CENTURYLINK DRIVE  
+MONROE LA 71203 
+
+Top of overview
+Does CenturyLink participate in the US-EU and US-Swiss Safe Harbor Program to enable the transfer of personal information to the US?
+    
+
+Yes. CenturyLink Technology Solutions is committed to following the Safe Harbor Principles for personal information within the scope of the Safe Harbor Privacy Notice. You can get more detail about the Safe Harbor Privacy Notice by [ clicking here. ](https://web.archive.org/static/PDF/AboutUs/Legal/Safe_Harbor_Privacy_Notice_English_US4305SMG_4132015.pdf)
 
 Top of overview
 Contacting us
     
 
-If you have questions about this policy or our practices, please email us at [Privacy@CenturyLink.com](mailto:Privacy@CenturyLink.com), or write us at:
+If you have questions about this policy, our practices, or wish to request a change or deletion of information from our active databases, please email us at [Privacy@CenturyLink.com](mailto:Privacy@CenturyLink.com), or write us at:
 
 PRIVACY GROUP  
 CENTURYLINK LEGAL  
@@ -148,17 +160,17 @@ Top of overview
 
 ### General practices – gathering
 
-**Signing up and ordering services.** When customers sign up for service, we ask for their name, street address, email address, how they want their listing to appear in phone directories and directory assistance, and contact information. We may ask for date of birth, social security or driver's license numbers (to confirm identity or determine creditworthiness), billing information including whether bills should be sent by mail or set up for online access, and bank account or credit card information if a customer elects to pay electronically. We may keep some of this information and use it for future marketing purposes even if a customer does not complete an order with us. We also keep notes of contacts we have with our customers.
+**Signing up and ordering services.** When customers sign up for service, we ask for their name, street address, email address, how they want their listing to appear in phone directories and directory assistance, and contact information. We may ask for date of birth, social security or driver's license numbers (to confirm identity or determine creditworthiness), billing information including whether bills should be sent by mail or set up for online access, and bank account or credit card information if a customer elects to pay electronically. We may keep some of this information and use it for future marketing purposes even if a customer does not complete an order with us and your submission of that information is deemed consent to our use of the information as contemplated in this privacy policy. We also keep notes of contacts we have with our customers.
 
 **Recording, reviewing or monitoring of your interactions with CenturyLink.** For quality assurance and training, we sometimes review email correspondence and record or listen to calls made to or from our customer service and repair personnel, sales offices, and business account managers. We also save the text of "click to chat" sessions with our online sales and service consultants, and may save screen shots when customers give our repair personnel remote access to their computers for technical support.
 
 **Network recording of service usage.** We record information about usage of our networks or systems. For example, we may log dates and times and the telephone numbers of calls to and from our customers, especially when the information is necessary for toll billing. Generally, we do not retain any call information for local landline calls. If a customer activates a "call trace" feature, we will record the number of the calling party. And when we are your Internet service provider (ISP), we maintain logs of the total volume of data a user transmits, and the date, time and length of time that a user accessed the Internet through our services, including the user's IP address at the time. For more about information we gather see the section below entitled When CenturyLink is your Internet Service Provider.
 
-**Information gathered when visiting CenturyLink websites.** When a user visits a CenturyLink website (such as CenturyLink.com or CenturyLink.net), we receive information about the user's operating system and its browser, the site accessed immediately before accessing our website, pages the user goes to within our website and sometimes the website accessed after leaving it. We also get the user's Internet Protocol (IP) address,* including the city and state of its location. That lets us customize product availability and pricing for that community. We receive most of this information through the normal operation of the web, and generally this information does not identify any specific user. We may also retain information entered by users on our online order pages, even if the customer does not complete an order.
+**Information gathered when visiting CenturyLink websites.** When a user visits a CenturyLink website (such as CenturyLink.com or CenturyLink.net), we receive information about the user's operating system and its browser, the site accessed immediately before accessing our website, pages the user goes to within our website, average time spent on our site, and sometimes the website accessed after leaving it along with other relevant statistics. We also get the user's Internet Protocol (IP) address,* including the city and state of its location. That lets us customize product availability and pricing for that community. We receive most of this information through the normal operation of the web, and generally this information does not identify any specific user. We may also retain information entered by users on our online order pages, even if the customer does not complete an order and your submission of that information is deemed consent to our use of the information as contemplated in this privacy policy.
 
 *An IP address is assigned to a user's browser by the user's ISP. The IP address identifies users on the Internet by a number, and part of that number usually identifies the user's city and state. Your IP address stays the same while you're connected to the Internet, but a new one may get assigned between Internet sessions.
 
-**When other companies advertise on CenturyLink websites.** When other companies advertise on our websites like CenturyLink.net, the ad networks and advertisers we work with may put a cookie or web beacon on your computer. The ad networks use these cookies and web beacons to keep track of what ads are displayed and whether users click on the ads (both as required by their relationships with advertisers), and to better understand the ads that users like. The ad networks or advertisers who advertise on our sites are not allowed to place or use existing cookies or web beacons in order to gather information that identifies users individually or builds profiles about their web use. And consistent with best practices in Internet advertising, the ad networks we work with enable you to opt-out of their use of cookies or web beacons. **To learn more** about cookies and web beacons go to our [Frequently Asked Questions](https://web.archive.org/web/20141226213629id_/http://www.centurylink.com/Pages/AboutUs/Legal/PrivacyPolicy/faq.jsp#advertise).
+**When other companies advertise on CenturyLink websites.** When other companies advertise on our websites like CenturyLink.net, the ad networks and advertisers we work with may put a cookie or web beacon on your computer. The ad networks use these cookies and web beacons to keep track of what ads are displayed and whether users click on the ads (both as required by their relationships with advertisers), and to better understand the ads that users like. The ad networks or advertisers who advertise on our sites are not allowed to place or use existing cookies or web beacons in order to gather information that identifies users individually or builds profiles about their web use. And consistent with best practices in Internet advertising, the ad networks we work with enable you to opt-out of their use of cookies or web beacons. **To learn more** about cookies and web beacons go to our [Frequently Asked Questions](https://web.archive.org/web/20150617104225id_/http://www.centurylink.com/Pages/AboutUs/Legal/PrivacyPolicy/faq.jsp#advertise).
 
 **Information obtained when clicking on CenturyLink ads on other websites.** When we place ads on others' websites, the ad networks we work with provide general information about users who click on our ads, including the types of browsers they use and their city and state. The ad networks we work with may use that information to predict what CenturyLink ads may be most effective in a location.
 
@@ -170,7 +182,7 @@ Top of full policy
 
 ### General practices – use
 
-**Routine business uses of personal information.** We use information that we obtain from customers or generate while providing our services to set up and maintain accounts, provide and repair our services and equipment, respond to customers' questions and concerns, bill and collect for our services, plan for future development of our network and services, to market our services, and communicate with our customers and others about our services. We also use our customer information, and information we obtain from third parties, to determine our customers' creditworthiness and predict what new services our customers may want. We do not resell customer information that we buy from third parties.
+**Routine business use of personal information.** We use information that we obtain from customers or generate while providing our services to set up and maintain accounts, provide and repair our services and equipment, respond to customers' questions and concerns, bill and collect for our services, plan for future development of our network and services, to market our services, and communicate with our customers and others about our services. We also use our customer information, and information we obtain from third parties, to determine our customers' creditworthiness and predict what new services our customers may want. We do not resell customer information that we buy from third parties.
 
 ### When CenturyLink provides voice service
 
@@ -198,7 +210,7 @@ We will not look into the content of your email, websites visited or other commu
 
 When we provide you television service, we obtain and use information as outlined above under General Practices. We also obtain and retain information about programming watched, recorded or accessed through your account, and times at which you turn on and off the television set-top box through which this service is provided. Additionally, when you receive service via your mobile device through the Prism TV APP, we may also periodically collect and use technical data and related information, such as technical information about your device, system and application (APP) software and peripherals, to facilitate the provision of software updates, product support, and other services related to the Prism TV APP. Information collected may also be used for billing customers, paying those who provide the content we deliver, product planning, developing or offering viewing recommendations and to understand the network capacity needed to deliver service.
 
-For information on our other cable offerings, visit [CenturyLink Choice™ TV](http://qc.centurylink.com/privacy/choice_privacy.html) and [CenturyTel TeleVideo and Teleview](https://web.archive.org/static/PDF/AboutUs/Legal/CTL_TeleVideoTeleviewSubscriberPrivacyNotice.pdf).
+For information on our other cable offerings, visit [CenturyTel TeleVideo and Teleview](https://web.archive.org/static/PDF/AboutUs/Legal/CTL_TeleVideoTeleviewSubscriberPrivacyNotice.pdf).
 
 ### When we provide you alarm monitoring services 
 
@@ -206,19 +218,19 @@ In addition to the information described above under General Practices we provid
 
 ### When you visit a CenturyLink website
 
-**Cookies and similar technologies.** We maintain a variety of websites, some for general audiences (such as CenturyLink.net) and some for specific customer segments such as large businesses. When a user visits one of these sites, our systems use cookies, or similar tracking files that provide information about the user's operating system and its browser, the site accessed immediately before accessing our website and sometimes the website accessed after leaving it. To learn more about cookies and other Internet information technologies visit our [Frequently Asked Questions](https://web.archive.org/web/20141226213629id_/http://www.centurylink.com/Pages/AboutUs/Legal/PrivacyPolicy/faq.jsp#cookies).
+**Cookies and similar technologies.** We maintain a variety of websites, some for general audiences (such as CenturyLink.net) and some for specific customer segments such as large businesses. When a user visits one of these sites, our systems use cookies, or similar tracking files that provide information about the user's operating system and its browser, the site accessed immediately before accessing our website and sometimes the website accessed after leaving it along with other relevant statistics. To learn more about cookies and other Internet information technologies visit our [Frequently Asked Questions](https://web.archive.org/web/20150617104225id_/http://www.centurylink.com/Pages/AboutUs/Legal/PrivacyPolicy/faq.jsp#cookies).
 
 We also obtain information about users when they interact with our sites, such as which pages they visit and any ads they click on. We use this information to analyze and manage our sites so we can keep making them better. To improve our visitors' experiences, we may store preferences or other information they volunteer to personalize service offerings and ads. For example, we may use a stored telephone number and location to show local product availability and pricing.
 
 We also use information gathered from our sites for security purposes, such as to detect unauthorized intrusions, prevent malicious attacks, and help ensure a safe online experience for our customers.
 
-We may also keep information entered by users on our online order pages, even if the customer does not complete an order. We may use this information for marketing purposes.
+We may also keep information entered by users on our online order pages, even if the customer does not complete an order and your submission of that information is deemed consent to our use of the information as contemplated in this privacy policy. We may use this information for marketing purposes.
 
 **Obtaining information from children under 13.** Unless otherwise indicated, our websites are intended for general audiences and not directed to children. We do not knowingly collect personal information from children under 13. Note that other providers' web pages are accessible through links on many of our websites, and those providers may have different practices on collecting and using information from children under 13. If you are concerned about those sites, please review them and their privacy policies.
 
 ### When we advertise on others' websites
 
-We work with ad networks to place our ads on other companies' websites. This process could involve the use of cookies or other Internet information technologies by the ad networks. **To learn more** about cookies and other Internet information technologies visit our [Frequently Asked Questions](https://web.archive.org/web/20141226213629id_/http://www.centurylink.com/Pages/AboutUs/Legal/PrivacyPolicy/faq.jsp#cookies_advertisements). Ad networks also give us feedback about the effectiveness of our ads.
+We work with ad networks to place our ads on other companies' websites. This process could involve the use of cookies or other Internet information technologies by the ad networks. **To learn more** about cookies and other Internet information technologies visit our [Frequently Asked Questions](https://web.archive.org/web/20150617104225id_/http://www.centurylink.com/Pages/AboutUs/Legal/PrivacyPolicy/faq.jsp#cookies_advertisements). Ad networks also give us feedback about the effectiveness of our ads.
 
 Top of full policy
 
@@ -228,15 +240,15 @@ Top of full policy
 
 **Providing information when lawfully permitted and necessary.** Like other businesses, we may share information: (1) to comply with laws or to respond to lawful demands such as subpoenas or court orders; (2) to assert or defend our legal rights or the rights of our employees, agents, contractors, or customers; (3) to investigate and protect against fraud, harassment, threats to our network, or other types of unlawful activity involving us, other providers we do business with, or our customers; (4) to protect our property, including our networks, or the property or networks of others; or (5) as otherwise permitted by law. 
 
-**Sharing information when merging, selling or transferring part of our business, or acquiring another business.** . If we decide to merge, sell or transfer a part of our business to or with another company, or to acquire part or all of another company, customer information may be shared or transferred as part of the decision process or as a result of the sale. We might also provide customer information to another company if we decide to stop providing a service. This information may be about the characteristics of our business and groups of customers, or it could include information about specific customers.
+**Sharing information when merging, selling or transferring part of our business, or acquiring another business.** If we decide to merge, sell or transfer a part of our business to or with another company, or to acquire part or all of another company, customer information may be shared or transferred as part of the decision process or as a result of the sale. We might also provide customer information to another company if we decide to stop providing a service. This information may be about the characteristics of our business and groups of customers, or it could include information about specific customers.
 
 **Providing information when customers ask.** Upon customer request and subject to proper authentication, we will disclose account information to third parties. Please see the Customer Support information at the top of this page for the numbers to call.
 
-**Caller ID.** We disclose customer information through call-identifying products and services like Caller ID. In some instances, you can block that disclosure. For more information about call-identifying features and how to block disclosure of that information go to our [Frequently Asked Questions](https://web.archive.org/web/20141226213629id_/http://www.centurylink.com/Pages/AboutUs/Legal/PrivacyPolicy/faq.jsp#number).
+**Caller ID.** We disclose customer information through call-identifying products and services like Caller ID. In some instances, you can block that disclosure. For more information about call-identifying features and how to block disclosure of that information go to our [Frequently Asked Questions](https://web.archive.org/web/20150617104225id_/http://www.centurylink.com/Pages/AboutUs/Legal/PrivacyPolicy/faq.jsp#number).
 
-**Sharing of Customer Proprietary Network Information (CPNI).** CPNI is a subcategory of protected customer information defined by federal law as information about a consumer's account, including usage and billing of telecommunications services. Those services are offered by providers of traditional local, long distance, and wireless services, as well as providers of Voice over Internet Protocol (VoIP) services to consumers. CPNI includes what services you subscribe to, how you use them, and what you are charged for them. It does not include your name, address, telephone number, or other types of information such as information about your telephone equipment or Internet access services. Communications companies are required to treat CPNI confidentially, and we do. The FCC regulates when and how CPNI can be shared and used. To find out more about the FCC's CPNI rules go to our [Frequently Asked Questions](https://web.archive.org/web/20141226213629id_/http://www.centurylink.com/Pages/AboutUs/Legal/PrivacyPolicy/faq.jsp#FCC).
+**Sharing of Customer Proprietary Network Information (CPNI).** CPNI is a subcategory of protected customer information defined by federal law as information about a consumer's account, including usage and billing of telecommunications services. Those services are offered by providers of traditional local, long distance, and wireless services, as well as providers of Voice over Internet Protocol (VoIP) services to consumers. CPNI includes what services you subscribe to, how you use them, and what you are charged for them. It does not include your name, address, telephone number, or other types of information such as information about your telephone equipment or Internet access services. Communications companies are required to treat CPNI confidentially, and we do. The FCC regulates when and how CPNI can be shared and used. To find out more about the FCC's CPNI rules go to our [Frequently Asked Questions](https://web.archive.org/web/20150617104225id_/http://www.centurylink.com/Pages/AboutUs/Legal/PrivacyPolicy/faq.jsp#FCC).
 
-Subject to the exceptions described below, we share customer information with third parties for their own use only where the law requires it or customers have consented to it. For the most part, federal law covers the release of information in these circumstances.
+Subject to the exceptions described below, we share customer information with third parties for their own use only where the law requires it or customers have consented to it. For the most part, federal law covers the release of information in these circumstances. From time to time we may contact you on behalf of an external business partner about a particular offering that may be of interest to you. In those cases, your personal information is not transferred to the third party.
 
 **Providing information to other carriers and service providers.** In certain circumstances, we share customer information with carriers and other service providers, including competing local and long distance companies, VoIP providers, Internet service providers, and billing companies so that they can accurately provide and bill for their services. This exchange of information is often legally required, and is also consistent with industry standards. In some cases the customer whose information is being provided is a customer of both CenturyLink and the other provider. In other cases, the other provider has told us that it has the customer's permission to receive the information. And we will also share information with another provider if we suspect fraud, harassment, a threat to their networks, or some other unlawful activity.
 
@@ -260,7 +272,7 @@ If you have elected to have your name, address and telephone number published in
 
 Our websites contain links to websites of other businesses. We are not responsible for information those sites collect. If you are concerned about the information collected by these other sites, please review their privacy policies.
 
-When other companies advertise on CenturyLink websites such as CenturyLink.net, the ad networks and advertisers we work with to place ads there may put a cookie or web beacon on your computer. The ad networks use these cookies and web beacons to keep track of what ads are displayed and whether users click on the ads (both as required by their relationships with advertisers), and to better understand the ads that users like. The ad networks or advertisers who advertise on our sites are not allowed to place or use existing cookies or web beacons in order to gather information that identifies users individually or builds profiles about their web use. And consistent with best practices in Internet advertising, all of the ad networks we work with enable you to opt-out of their use of cookies or web beacons. **To learn more** about cookies and web beacons go to our [Frequently Asked Questions](https://web.archive.org/web/20141226213629id_/http://www.centurylink.com/Pages/AboutUs/Legal/PrivacyPolicy/faq.jsp#advertise).
+When other companies advertise on CenturyLink websites such as CenturyLink.net, the ad networks and advertisers we work with to place ads there may put a cookie or web beacon on your computer. The ad networks use these cookies and web beacons to keep track of what ads are displayed and whether users click on the ads (both as required by their relationships with advertisers), and to better understand the ads that users like. The ad networks or advertisers who advertise on our sites are not allowed to place or use existing cookies or web beacons in order to gather information that identifies users individually or builds profiles about their web use. And consistent with best practices in Internet advertising, all of the ad networks we work with enable you to opt-out of their use of cookies or web beacons. **To learn more** about cookies and web beacons go to our [Frequently Asked Questions](https://web.archive.org/web/20150617104225id_/http://www.centurylink.com/Pages/AboutUs/Legal/PrivacyPolicy/faq.jsp#advertise).
 
 **Responding to lawful process.** We may provide customer information to the government in response to a subpoena, warrant or court order. Among the information we might be asked to provide are a customer's name, address, telephone number, account number, any Internet Protocol or network address that we assigned to the customer, records of service usage (including interactive session times and durations), how long the customer has subscribed to our services (including start date and the types of services used), and the means and source of customer payment (including any credit card or bank account number used to pay for our services). In response to a search warrant or court order, we may be required to disclose to law enforcement agencies the content of and records relating to telephone calls, email messages (including attachments), Internet usage, and data we may store on your behalf if we provide you cloud computing or managed hosting services. We do not provide notice to our customers of law enforcement demands for information. But our usual policy is to provide notice and the opportunity to object when we receive requests related to civil lawsuits whether from the government or private parties. For additional information regarding requests from the government for customer information, [click here](https://web.archive.org/static/Pages/AboutUs/Legal/LawEnforcement/).
 
@@ -312,13 +324,13 @@ Residential customers who don't want to receive our marketing telephone calls ma
 
 **Direct mail.** If you want to stop direct mail marketing, including the receipt of catalogs, from companies other than CenturyLink, you should contact them directly or go to the Direct Marketing Association (DMA) website at [https://www.dmachoice.org](https://www.dmachoice.org/) for more information.
 
-[If you do not want to receive our direct mail marketing, you must expressly tell us by clicking here](https://web.archive.org/help/privacy/optout_en.html) by contacting Customer Support located at the top this page. We will stop sending you direct mail marketing for two years from the date of your request.
+[If you do not want to receive our direct mail marketing, you must expressly tell us by clicking here](https://web.archive.org/help/privacy/optout_en.html) or by contacting Customer Support located at the top this page. We will stop sending you direct mail marketing for two years from the date of your request.
 
 **Email marketing.** To stop receiving commercial emails from us, follow the "unsubscribe" instructions on the email message, [click here](https://web.archive.org/help/privacy/optout_en.html), or call us. Please see the Customer Support information at the top of this page for the numbers to call.
 
 Customers who use My Account may also go to their account profile to change their email preferences.
 
-**Please note** that it may take up to thirty days for your choices regarding marketing contacts from us to become effective. If you are our customer, you will still receive billing and service related emails from us even if you choose not to receive marketing contacts. 
+**Please note** in most cases it may take up to thirty days for your choices regarding marketing contacts to become effective. In certain circumstances involving direct mail, it may take longer to implement your choice. We appreciate your patience as you may receive a few more marketing communications from us while we update your preferences. If you are our customer, you will still receive billing and service related emails from us even if you choose not to receive marketing contacts.
 
 Top of full policy
 
@@ -340,9 +352,7 @@ Top of full policy
 
 **Employee and vendor training.** We require employees to protect customers' information. We train our employees on those policies when they are hired, and we update that training periodically. When necessary, we train vendors on our policies as well.
 
-**Proactively protecting your own information.** We encourage our customers to actively protect their personal information. Don't give identifying information to strangers or others unless you're certain they have a right to or a need for the information. Also, protect the security of personal information you transmit over home networks, wireless routers, Wi-Fi networks, and similar devices by using encryption and other techniques to prevent unauthorized interception.
-
-If you think information about you or others has been disclosed without proper authorization, please contact us at [Privacy@CenturyLink.com](mailto:Privacy@CenturyLink.com), or write us at:
+Although we have security measures in place to protect against the access, misuse and disclosure of information under our control we cannot guarantee that your information will never be disclosed in a manner inconsistent with our policies and practices or that our safeguards will prohibit all attempts to defeat these measures. If you think information about you or others has been disclosed without proper authorization, please contact us at [Privacy@CenturyLink.com](mailto:Privacy@CenturyLink.com), or write us at:
 
 PRIVACY GROUP  
 CENTURYLINK LEGAL  
@@ -358,7 +368,7 @@ We update this privacy policy from time to time to reflect evolving technology a
 
 Top of full policy
 
-For questions about this policy or our practices, please email us at [Privacy@CenturyLInk.com](mailto:Privacy@CenturyLink.com), or write us at:
+If you have questions about this policy, our practices, or wish to request a change or deletion of information from our active databases, please email us at [Privacy@CenturyLink.com](mailto:Privacy@CenturyLink.com), or write us at:
 
 PRIVACY GROUP  
 CENTURYLINK LEGAL  
