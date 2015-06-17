@@ -1,26 +1,12 @@
-> *The following text is extracted and transformed from the thecount.com privacy policy that was archived on 2014-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141126055302id_/http%3A//thecount.com/disclaimer) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thecount.com privacy policy that was archived on 2015-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150617221422id_/http%3A//thecount.com/disclaimer) for the most accurate reproduction.*
 
 # Privacy | Contact TheCount - TheCount.com
 
-Anyone viewing TheCount.com does so at their own risk. The following information is provided only as a convenience.
+Anyone viewing TheCount.com does so at their own risk. The information included in or available through TheCount.com, sites/services may include inaccuracies or typographical errors.
 
-The information included in or available through TheCount.com, sites/services may include inaccuracies or typographical errors.
+This privacy policy may change from time to time. This privacy policy discloses the privacy practices for [TheCount.com](http://thecount.com/ "thecount.com killer gossip"). This privacy policy applies solely to information collected by this website. It will notify you of the following:
 
-This site may contain links to other web sites operated by third parties (“linked sites”). You acknowledge that TheCount.com and its sponsors neither endorse nor are affiliated with the linked site and are not responsible for any content of any linked site or any link contained in a link site, or any changes or updates to such sites. You also acknowledge that TheCount.com is providing these links to you only as a convenience.
-
-You specifically agree that TheCount.com is not responsible or liable for any threatening, defamatory, obscene, offensive or illegal content or conduct of any other party or any infringement of another’s rights, including intellectual property rights. You specifically agree that TheCount.com is not responsible for any content sent using and/or included in a sites/service by any third party.
-
-In no event shall TheCount.com be liable for any direct, indirect, punitive, incidental, special, consequential damages or any damages whatsoever including, without limitation, damages for loss of use, data or profits, arising out of or in any way connected with the use or performance of the TheCount.com sites/services, with the delay or inability to use the TheCount.com sites/services or related services, the provision of or failure to provide services, or for any information, software, products, services and graphics obtained through the TheCount.com sites/services, or otherwise arising out of the use of the TheCount.com sites/services, whether based on contract, tort, negligence, strict liability or otherwise. TheCount.com does not endorse in anyway any advertisers/ contents of advertisers on its webpages. please therefore verify the veracity of all information on your own before undertaking reliance and actioning thereupon. TheCount.com shall not be responsible nor liable for any consequential damages arising on account of your relying on the contents of the advertisement.
-
-All the pictures on this web-site are assumed to be taken from public domain and or credited appropriately, unless otherwise specified. The copyright (if any) of these pictures belongs to their original publisher / photographer / copyright holder as the case may be.
-
-If you have located an error or feel there is something appearing in error on TheCount.com, simply [write us](https://web.archive.org/contact) detailing your issue. We value our readers’ opinions and always work quickly to resolve any concerns or inaccuracies.
-
-Any links provided or advertisements displayed on our site are for informational purposes only and we are not responsible for any damages or consequences. However, if you find any unsuitable link / advertisement, then please [contact us](https://web.archive.org/contact/ "contact us") giving detail of such links etc.
-
-This privacy policy discloses the privacy practices for [THECOUNT.COM](https://web.archive.org/ "thecount.com killer gossip"). This privacy policy applies solely to information collected by this web site. It will notify you of the following:
-
-  1. What personally identifiable information is collected from you through the web site, how it is used and with whom it may be shared.
+  1. What personally identifiable information is collected from you through the website, how it is used and with whom it may be shared.
 
   2. What choices are available to you regarding the use of your data.
 
@@ -30,6 +16,16 @@ This privacy policy discloses the privacy practices for [THECOUNT.COM](https://
 
 
 
+
+This site may contain links to other websites operated by third parties (“linked sites”). You acknowledge that TheCount.com and its sponsors neither endorse nor are affiliated with the linked site and are not responsible for any content of any linked site or any link contained in a link site, or any changes or updates to such sites. You also acknowledge that TheCount.com is providing these links to you only as a convenience.
+
+You specifically agree that TheCount.com is not responsible or liable for any threatening, defamatory, obscene, offensive or illegal content or conduct of any other party or any infringement of another’s rights, including intellectual property rights. You specifically agree that TheCount.com is not responsible for any content sent using and/or included in a sites/service by any third party.
+
+In no event shall TheCount.com be liable for any direct, indirect, punitive, incidental, special, consequential damages or any damages whatsoever including, without limitation, damages for loss of use, data or profits, arising out of or in any way connected with the use or performance of the TheCount.com sites/services, with the delay or inability to use the TheCount.com sites/services or related services, the provision of or failure to provide services, or for any information, software, products, services and graphics obtained through the TheCount.com sites/services, or otherwise arising out of the use of the TheCount.com sites/services, whether based on contract, tort, negligence, strict liability or otherwise. TheCount.com does not endorse in anyway any advertisers/ contents of advertisers on its webpages. please therefore verify the veracity of all information on your own before undertaking reliance and actioning thereupon. TheCount.com shall not be responsible nor liable for any consequential damages arising on account of your relying on the contents of the advertisement.
+
+Images appearing on this website are assumed to be taken from public domain and or credited appropriately, unless otherwise specified. The copyright (if any) of an image belongs to their original publisher / photographer / copyright holder as the case may be. If you feel an image appearing on this website is not appropriately credited or appears in error, please [contact us](http://thecount.com/contact "http://thecount.com/contact").
+
+Any links provided or advertisements displayed on our site are for informational purposes only and we are not responsible for any damages or consequences. However, if you find any unsuitable link / advertisement, then please contact us above giving detail of such material.
 
 **Information Collection, Use, and Sharing**  
 We are the sole owners of the information collected on this site. We only have access to/collect information that you voluntarily give us via email or other direct contact from you. We will not sell or rent this information to anyone.
@@ -56,8 +52,6 @@ Wherever we collect sensitive information (such as credit card data), that infor
 
 While we use encryption to protect sensitive information transmitted online, we also protect your information offline. Only employees who need the information to perform a specific job (for example, billing or customer service) are granted access to personally identifiable information. The computers/servers in which we store personally identifiable information are kept in a secure environment.
 
-**Updates**
-
 Our Privacy Policy may change from time to time and all updates will be posted on this page.
 
 **Cookies**  
@@ -73,8 +67,4 @@ We share aggregated demographic information with our partners and advertisers. T
 Partners: We partner with another party to provide specific services. When the user signs up for these services, we will share names, or other contact information that is necessary for the third party to provide these services. These parties are not allowed to use personally identifiable information except for the purpose of providing these services.
 
 **Links**  
-This web site contains links to other sites. Please be aware that we are not responsible for the content or privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of any other site that collects personally identifiable information.
-
-**If you feel that we are not abiding by this privacy policy, you should contact us immediately via  [via email](https://thecoun.com/contact "thecount.com contact").**
-
-TheCount.com
+This website contains links to other sites. Please be aware that we are not responsible for the content or privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of any other site that collects personally identifiable information.
