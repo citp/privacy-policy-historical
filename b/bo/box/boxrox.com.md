@@ -1,54 +1,85 @@
-> *The following text is extracted and transformed from the boxrox.com privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123090524id_/http%3A//www.boxrox.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boxrox.com privacy policy that was archived on 2015-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150617184728id_/http%3A//www.boxrox.com/privacy-policy) for the most accurate reproduction.*
 
-# » Privacy policy | BOXROX
+# Privacy Policy | BOXROX
 
-**General Information**  
-We care about the safety of your data. We won’t knowingly allow anyone to use your identifying information.  
-If you opt-in to any services, we’ll inform you what happens to your data. If you have any doubts or questions, don’t hesitate to get in touch with us.
+**What is it  for?**
 
-**Collection of Information**  
-In some cases, we may collect personal identifying information from you when you visit our website(s) or through e-mail interaction. We also collect personal identifying information during transactions, sponsored events and contests.  
-personal identifying information can include your name, postal address, e-mail address, telephone and cell phone numbers, wireless service provider, and all other information that identifies you.
+This privacy policy is for this website [wwww.boxrox.com](http://www.boxrox%2Ccom/) and served by eCom 360 UG and governs the privacy of its users who choose to use it.
 
-We may collect information about your interaction with BOXROX or related services. For example, we may use website analytics tools on our site to retrieve information from your browser, including the site you came from, the search engine(s) and the keywords you used to find our site, the pages you view within our site, your browser add-ons, and your browser’s width and height. We may also use technologies, such as cookies and web beacons (described below), to collect information about the pages you view, the links you click and other actions you take on our sites and services. Additionally, we may collect certain standard information that your browser sends to every website you visit, such as your IP address, browser type and language, access times and referring website addresses.
+The policy sets out the different areas where user privacy is concerned and outlines the obligations & requirements of the users, the website and website owners. Furthermore the way this website processes, stores and protects user data and information will also be detailed within this policy.
 
-When you receive newsletters or promotional e-mail from BOXROX, we may use web beacons, customized links or similar technologies to determine whether the e-mail has been opened and which links you click in order to provide you more focused e-mail communications or other information.
+**The Website**
 
-In order to offer you a more consistent and personalized experience in your interactions with BOXROX, information collected through one of our sites or related services may be combined with information obtained through other BOXROX sites, applications or services. We may also supplement the information we collect with information obtained from other companies.
+This website and its owners take a proactive approach to user privacy and ensure the necessary steps are taken to protect the privacy of its users throughout their visiting experience. This website comply’s to all German national laws and requirements for user privacy.
 
-**What do we do with these information?**  
-The information we collect allows us to customize the content and/or layout of our sites and applications for you and each other visitor. Plus, it enables us to notify you about updates to our websites and applications, contact you with special offers of interest, and customize your experience.
+**Use of Cookies**
 
-In addition, BOXROX may make certain personal identifying information and other information available to trusted third parties that work with us to provide products and services to our customers, that help us with marketing campaigns, or that intend to market products and services to you directly. These companies are obligated to protect the information they receive.
+This website uses cookies to better the users experience while visiting the website. Where applicable this website uses a cookie control system allowing the user on their first visit to the website to allow or disallow the use of cookies on their computer / device. This complies with recent legislation requirements for websites to obtain explicit consent from users before leaving behind or reading files such as cookies on a user’s computer / device.
 
-**Updating Your Account and Contact Information**  
-Upon request, we will update your personal account information (e.g., customer number), access your account status (outstanding balance), and update your contact information (i.e., name, address, phone number). For more information or to update an account, please visit [www.boxrox.com/contact](http://www.boxrox.com/contact "contact form").
+Cookies are small files saved to the user’s computers hard drive that track, save and store information about the user’s interactions and usage of the website. This allows the website, through its server to provide the users with a tailored experience within this website.  
+Users are advised that if they wish to deny the use and saving of cookies from this website on to their computers hard drive they should take necessary steps within their web browsers security settings to block all cookies from this website and its external serving vendors.
 
-**What if I don’t want commercial/promotional e-mail from BOXROX?**  
-If you do not want to receive commercial/promotional e-mail or online newsletters that you have subscribed to, please let us know by telling us over the [contact form](http://www.boxrox.com/contact "contact form") or simply unsubscribe over the link provided within the newsletter.
+This website uses tracking software to monitor its visitors to better understand how they use it. This software is provided by Google Analytics which uses cookies to track visitor usage. The software will save a cookie to your computers hard drive in order to track and monitor your engagement and usage of the website, but will not store, save or collect personal information. You can read Google’s privacy policy here for further information [ <http://www.google.com/privacy.html> ].
 
-**What about “Cookies” and “Web Beacons”?**  
-In order to provide better service when you return to our site, BOXROX may use Cookies and Web Beacons to store your preferences and information about such things as items added to your shopping cart, purchases you have made with us, what pages you visit, and past activity at a site. Rodale may also employ Web Beacons from third parties in order to help us compile aggregated statistics regarding the effectiveness of our promotional campaigns or other operations of our sites.
+The owner of this website is a participant in the Amazon PartnerNet/ Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to platforms including, but not limited to, amazon.com, amazon.co.uk, amazon.de, amazon.fr, amazon.ca, amazon.it and amazon.es.
 
-“Cookies” are tiny pieces of information stored by your browser on your computer’s hard drive. Cookies are also used to ensure that you are not repeatedly sent the same banner ads and to customize webpage content based on your browser type (Netscape or Microsoft Explorer, for example). Most browsers are initially set to accept cookies.
+Other cookies may be stored to your computers hard drive by external vendors and affiliate programs when this website uses referral programs, sponsored links or adverts. Such cookies are used for conversion and referral tracking and typically expire after 30 days, though some may take longer. No personal information is stored, saved or collected.
 
-Web Beacons – sometimes called single-pixel gifs or clear gifs – are used to assist in delivering cookies on our sites and allow us to count users who have visited those pages and to deliver co-branded services. We may include Web Beacons in promotional e-mail messages or our newsletters in order to determine whether messages have been opened and acted upon.
+**Contact and Communication**
 
-If you want to disable cookies, there is a simple procedure in most Internet browsers that allows you to turn off cookies. Please remember, however, that cookies may be required to allow you to use certain features of our sites.
+Users contacting this website and/or its owners do so at their own discretion and provide any such personal details requested at their own risk. Your personal information is kept private and stored securely until a time it is no longer required or has no use, as detailed in the Data Protection Acts of the German federal states. Every effort has been made to ensure a safe and secure form to email submission process but advise users using such form to email processes that they do so at their own risk.
 
-**Third Party Advertising**  
-We may use third-party advertising, data analytics and online targeting companies to serve ads when you visit our sites or use our applications. We may also provide certain personal identifying information and other information to these third-parties to allow them to more effectively target advertising to you. These companies are obligated to protect your information.
+This website and its owners use any information submitted to provide you with further information about the products / services they offer or to assist you in answering any questions or queries you may have submitted. This includes using your details to subscribe you to any email newsletter program the website operates but only if this was made clear to you and your express permission was granted when submitting any form to email process. Or whereby you the consumer have previously purchased from or enquired about purchasing from the company a product or service that the email newsletter relates to. This is by no means an entire list of your user rights in regard to receiving email marketing material. Your details are not passed on to any third parties.
 
-When advertisements are displayed to you on our sites and applications, one or more persistent cookies may be placed on your computer or device by us or a third party. Some of these third parties may use information about your visits to this site and other websites and usage of applications in order to provide data and targeting recommendations based on which you may receive advertisements about goods and services of interest to you.
+**Email Newsletter**
 
-**Links**  
-BOXROX may, on occasion, contain links to other sites with information gathering practices different from our own. Visitors should consult privacy policies for all other sites, as BOXROX has no control over information submitted to or collected by such third parties.
+This website operates an email newsletter program, used to inform subscribers about products and services supplied by this website. Users can subscribe through an online automated process should they wish to do so but do so at their own discretion. Some subscriptions may be manually processed through prior written agreement with the user.
 
-BOXROX sites sometimes offer contests, sweepstakes, or promotions sponsored or co-sponsored by third parties. These third parties may obtain information that visitors voluntarily submit to participate in the contest, sweepstakes, or promotion. BOXROX has no control over the third-party sponsor’s use of this information. The BOXROX site will notify you at the time of requesting personal information if third-party sponsors will be provided with such information.
+Subscriptions are taken in compliance with German Spam Laws. All personal details relating to subscriptions are held securely and in accordance with the Data Protection Acts of the German federal states. No personal details are passed on to third parties nor shared with companies / people outside of the company that operates this website. Under the Data Protection Acts of the German federal states you may request a copy of personal information held about you by this website’s email newsletter program. A small fee will be payable. If you would like a copy of the information held on you please write to the business address at the bottom of this policy.
 
-**Changes to the Privacy Policy**  
-BOXROX may need to change this privacy policy from time to time in order to address new issues, evolving technologies, changes on our sites, or business practices. BOXROX will post those changes so you will always know what information we gather and how we might use that information. Please refer back to this policy regularly.
+Email marketing campaigns published by this website or its owners may contain tracking facilities within the actual email. Subscriber activity is tracked and stored in a database for future analysis and evaluation. Such tracked activity may include; the opening of emails, forwarding of emails, the clicking of links within the email content, times, dates and frequency of activity [this is by no far a comprehensive list].  
+This information is used to refine future email campaigns and supply the user with more relevant content based around their activity.
 
-**Any questions, advices or problems?**  
-If you have any questions regarding this privacy policy statement or if you feel that this site has not followed its stated information policy, feel free to contact us.  
-Use the [contact form](http://www.boxrox.com/contact "contact form") or send us an email to [contact@boxrox.com](mailto:contact@boxrox.com "contact").
+In compliance with German Spam Laws subscribers are given the opportunity to un-subscribe at any time through an automated system. This process is detailed at the footer of each email campaign. If an automated un-subscription system is unavailable clear instructions on how to un-subscribe will by detailed instead.
+
+**External Links**
+
+Although this website only looks to include quality, safe and relevant external links users should always adopt a policy of caution before clicking any external web links mentioned throughout this website.
+
+The owners of this website cannot guarantee or verify the contents of any externally linked website despite their best efforts. Users should therefore note they click on external links at their own risk and this website and its owners cannot be held liable for any damages or implications caused by visiting any external links mentioned.
+
+**Adverts and Sponsored Links**
+
+This website may contain sponsored links and adverts. These will typically be served through our advertising partners, to whom may have detailed privacy policies relating directly to the adverts they serve.
+
+Clicking on any such adverts will send you to the advertisers website through a referral program which may use cookies and will tracks the number of referrals sent from this website. This may include the use of cookies which may in turn be saved on your computers hard drive. Users should therefore note they click on sponsored external links at their own risk and this website and its owners cannot be held liable for any damages or implications caused by visiting any external links mentioned.  
+Social Media Platforms
+
+Communication, engagement and actions taken through external social media platforms that this website and its owners participate on are custom to the terms and conditions as well as the privacy policies held with each social media platform respectively.
+
+Users are advised to use social media platforms wisely and communicate / engage upon them with due care and caution in regard to their own privacy and personal details. This website nor its owners will ever ask for personal or sensitive information through social media platforms and encourage users wishing to discuss sensitive details to contact them through primary communication channels such as by telephone or email.
+
+This website may use social sharing buttons which help share web content directly from web pages to the social media platform in question. Users are advised before using such social sharing buttons that they do so at their own discretion and note that the social media platform may track and save your request to share a web page respectively through your social media platform account.
+
+**Shortened Links in Social Media**
+
+This website and its owners through their social media platform accounts may share web links to relevant web pages. By default some social media platforms shorten lengthy urls [web addresses] (this is an example: <http://bit.ly/1uzNyEf>).
+
+Users are advised to take caution and good judgement before clicking any shortened urls published on social media platforms by this website and its owners. Despite the best efforts to ensure only genuine urls are published many social media platforms are prone to spam and hacking and therefore this website and its owners cannot be held liable for any damages or implications caused by visiting any shortened links.
+
+**Resources and further Information**
+
+[BDSG – Federal Data Protection Act](http://www.bfdi.bund.de/bfdi_wiki/index.php/Bundesdatenschutzgesetz)  
+[Data Protection Acts of the German federal states](http://www.datenschutz-berlin.de/attachments/960/BlnDSG_2012_ENGL.pdf?1373274363)  
+[Twitter Privacy Policy](https://twitter.com/privacy)  
+[Facebook Privacy Policy](https://www.facebook.com/note.php?note_id=%20322194465300)  
+[Google Privacy Policy](http://www.google.com/policies/privacy/)  
+[Mailchimp Privacy Policy](http://mailchimp.com/legal/privacy/)
+
+Free Website Privacy Policy – © 2013 – v.2.0 April 2013 |  
+Edited & customised by:
+
+**eCom 360 UG (haftungsbeschränkt)**  
+Wichertstrasse 5  
+10439 Berlin  
+Germany
