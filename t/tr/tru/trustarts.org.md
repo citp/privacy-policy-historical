@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trustarts.org privacy policy that was archived on 2014-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141101232630id_/http%3A//www.trustarts.org/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trustarts.org privacy policy that was archived on 2015-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150617104538id_/http%3A//trustarts.org/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Pittsburgh Cultural Trust
 
