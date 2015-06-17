@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quizony.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230155432id_/http%3A//www.quizony.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quizony.com privacy policy that was archived on 2015-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150617092306id_/http%3A//www.quizony.com/privacy.html) for the most accurate reproduction.*
 
 # Quizony - privacy policy
 
@@ -153,4 +153,4 @@ We also agree to the individual redress principle, which requires that individua
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-Last Edited on 2014-09-29 
+Last Edited on 2014-09-29. 
