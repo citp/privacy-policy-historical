@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gfusa.org privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702103933id_/http%3A//www.gfusa.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gfusa.org privacy policy that was archived on 2015-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150617025705id_/http%3A//www.grameenfoundation.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Grameen Foundation | Connecting the World's Poor to Their Potential
 
@@ -84,7 +84,7 @@ Grameen Foundation
 1101 15th Street NW, 3rd floor  
 Washington, DC 20005  
 (toll free) 1-888-764-3872 x125 or outside the U.S. (202) 628-3560 x125  
-development [at] grameenfoundation [dot] org (Contact us by email)
+development [at] grameenfoundation.org (Contact us by email)
 
 In addition, if you signed up to receive any of our online newsletters or communications, you received a welcome message immediately after you signed up. It contains a web address where you can access and update your online account information. If you do allow others, including family or household members, to access Grameen Foundation members-only services, please understand that you are responsible for the actions of those individuals.
 
