@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adconductor.com privacy policy that was archived on 2014-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141215063853id_/http%3A//www.adconductor.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adconductor.com privacy policy that was archived on 2015-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150617073200id_/http%3A//www.adconductor.com/privacy) for the most accurate reproduction.*
 
 # Privacy | AdConductor
 
@@ -6,15 +6,11 @@
 
 ### Effective date: March 21, 2014
 
-[](https://privacy.truste.com/privacy-seal/Burst-Media-Corporation/validation?rid=2ef225e1-dc2e-42bc-af91-000a89eb5f26 "TRUSTe European Safe Harbor certification")
-
-Fundamentally, the privacy of web users must be protected and the most effective way to preserve that privacy is to confine their data to the site level. Burst Media as well as adConductor collect no personally identifiable data, and therefore, protect user privacy. Burst’s TRUSTe license verifies this privacy stance.
+Fundamentally, the privacy of web users must be protected and the most effective way to preserve that privacy is to confine their data to the site level. Burst Media as well as adConductor collect no personally identifiable data, and therefore, protect user privacy.
 
 This privacy policy applies to http://www.burstmedia.com, http://ads.addesktop.com, http://www.burstnet.com and http://www.AdConductor.com owned and operated by Burst Media Corporation (“Burst Media” or “Burst”). This privacy policy describes how Burst Media collects and uses the personal information you provide on our web sites:  http://www.burstmedia.com, http://ads.addesktop.com, http://www.burstnet.com and [http://www.AdConductor.com](http://www.adconductor.com/).
 
 It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
-
-Internet user privacy and confidentiality is of the utmost importance to Burst, our web publisher members, and our advertiser clients. Our reputation and integrity are directly related to how we serve our clients and customers. Please find a description below of how Burst strives to protect the privacy of Internet users and maintain the Internet as a highly credible medium.
 
 ### Data Collection of User Information
 
@@ -44,7 +40,7 @@ Burst Media collects this information via our technology and it may be stored fo
 
 We do not link the information we store in cookies to any personally identifiable information you submit while on our site or our member sites. We may obtain anonymous information about you – such as sites you have visited or products you have researched – from third-party sources, and combine it with data that we have collected to better target advertising that match your interests. Most Web browsers automatically accept cookies, but you can usually change your browser to prevent that use if you desire.
 
-In an effort to respect your privacy, Burst Media gives all internet users the choice to opt-out of receiving Burst Media cookies. If you would like to opt out, please visit our Cookie Opt-out Program at [www.burstmedia.com/company/opt-out](https://web.archive.org/web/20141215063853id_/http%3A//www.adconductor.com/index.php/company/opt-out). Alternatively, you may also choose to opt out of receiving Burst Media cookies through the Network Advertising Initiative’s [Consumer Opt-Out Program](http://www.networkadvertising.org/managing/opt_out.asp).
+In an effort to respect your privacy, Burst Media gives all internet users the choice to opt-out of receiving Burst Media cookies. If you would like to opt out, please visit our Cookie Opt-out Program at [www.burstmedia.com/company/opt-out](https://web.archive.org/web/20150617073200id_/http://www.adconductor.com/privacy/index.php/company/opt-out). Alternatively, you may also choose to opt out of receiving Burst Media cookies through the Network Advertising Initiative’s [Consumer Opt-Out Program](http://www.networkadvertising.org/managing/opt_out.asp).
 
 ### Third-Party Measurement Services
 
@@ -72,13 +68,11 @@ We do not link the information we store in cookies to any personally identifiabl
 
 ### FOR PUBLISHERS WHO ARE MEMEBERS OF Burst OR ADCONDUCTOR CLIENTS:
 
-This confirms that Burst Media is a licensee of the TRUSTe Privacy Program. Burst Media also complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Burst Media has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Burst Media’s certification, please visit <http://export.gov/safeharbor/>.
+Burst Media also complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Burst Media has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Burst Media’s certification, please visit <http://export.gov/safeharbor/>.
 
 For Burst Publishers the privacy statement discloses the privacy practices for www.Burstmedia.com and [www.Burstnet.com](http://www.burstnet.com/).
 
 For AdConductor Customers this privacy statement discloses the privacy practices for [www.adConductor.com](http://www.adconductor.com/) and ads.adConductor.com.
-
-Burst Media has been awarded TRUSTe’s Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe’s program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe’s mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at privacy@Burstmedia.com. If you are not satisfied with our response you can contact [TRUSTe by clicking here](http://watchdog.truste.com/pvr.php?page=complaint).
 
 ### Third-Party Measurement Services
 
