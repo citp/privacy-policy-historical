@@ -1,136 +1,94 @@
-> *The following text is extracted and transformed from the samplesandsavings.com privacy policy that was archived on 2009-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090518022913id_/http%3A//samplesandsavings.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the samplesandsavings.com privacy policy that was archived on 2015-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150617220825id_/http%3A//samplesandsavings.com/index.php/signup%3Fid%3D528) for the most accurate reproduction.*
 
-# Home
+# Privacy Policy
 
-[**Click Here  
-**](https://web.archive.org/web/20090518022913id_/http%3A//samplesandsavings.com/subscribe.html) **To subscribe to my  
-Samples & Savings   
-newsletter.  Don't   
-miss any of the good   
-stuff!  
-**
+**Privacy Policy**
 
-**Sub Topic** Additional information   
-could go here.  
+www.SamplesAndSavings.com
+
+**Policy Last Revised: August 27, 2014**
+
+The following outlines our policy (Policy) for collecting and using information that is personally identifiable to a user  (“PII”) and non-PII from our website, www.SamplesAndSavings.com
+
+and the affiliated websites we (Reward Zone USA LLC) operate (collectively, “Websites”).   For purposes of this Policy, PII and non-PII will be referred to as “Information.”  We also describe additional rights that California users have under the California “Shine the Light” law.   
+
+**HOW INFORMATION IS COLLECTED**
+
+Here are some of the ways we collect Information from users:
+
+  * Registration forms and surveys;
+  * By tracking users’ online behavior on our Websites;
+  * Emails, telephone calls, faxes and other contacts with users;
+  * Through the use of “cookies” (small text files placed on a user’s computer that track online behavior), single-pixel GIF image files (also called “web beacons”) and other technological means; and
+  *  Information provided to claim a Free Sample Package.
 
 
-**Sub Topic** Additional information   
-could go here.  
+
+We place and permit third parties to place advertising and other content, including links to other websites, on our Websites and to promote our Websites.  These third parties may collect Information that you provide and may also use cookies, tracking pixels or other technological means of collecting Information.  We are not responsible for the Information they collect or for their use of this Information or for the privacy practices of other websites that are linked to our Websites.
+
+**TYPES OF INFORMATION WE COLLECT**
+
+Here are some of the types of Information we collect from users:
+
+  * Name                                  • Postal address                                • E-mail address
+  * Telephone number            • Cell/landline phone number         • Gender and date of birth
+  * IP Address • Survey responses                            • Device ID & location
 
 
-**Get the latest travel  
-bargains sent to   
-your inbox once a   
-week.  **[ **Sign up**](https://web.archive.org/web/20090518022913id_/http%3A//samplesandsavings.com/traveldeals.html) **for  
-my Deals & Steals   
-travel newsletter  
-**
 
-At Samplesandsavings.com,
+**Children and Non-Residents** : We don’t knowingly collect or retain information from the Websites from children under the age of 13. The Websites are intended for use by U.S. residents who are not minors. If you are a minor, not a U.S. resident (Canadian residents are not permitted) or don’t agree with this Policy’s terms, please don’t access or use our Websites.
 
-We are committed to providing both clients and end-users with the utmost   
-in privacy and security. We abide by all industry guidelines and   
-consistently monitor our management and operating methods in order to   
-maintain our valued reputation and integrity. This is our promise to our   
-clients, and end-users.
+  **USE AND SHARING OF INFORMATION**
 
-Type of Information Collected
+We may use Information and share it with third parties in many ways and for many purposes including the following:
 
-Samplesandsavings.com is a site offering entertainment.; Each offer is   
-sponsored by one of our advertisers. Information is collected from the   
-consumer through an online form. Applicants submit their name, address,   
-title, e-mail address, and age along with other demographic information   
-and optional questions chosen by the advertiser.
+  * To fulfill a Free Sample Package;
+  * To maintain suppression or opt-out lists that we may share with third parties so that you are not contacted when you have asked not to be;
+  * For site operation;
+  * To provide users with information and/or offers for products or services from us or third parties;     
+  * To track online behavior for behavioral advertising and other marketing purposes. Behavioral advertising enables us and our third party marketing partners to deliver to users what is hoped to be more relevant information and/or offers for products or services.  We may share this and other Information we collect with our third party marketing partners who compensate may us.  If you entered your registration information on the www.samplesandsavings.com Website, your email address will only be shared with our mailing partner All Inbox, LLC who may send relevant third party emails on a daily basis;
+  * If we are acquired by or merged with another company, we may transfer our users’ information to the acquirer;
+  * To respond to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims or when we determine it is necessary to comply with applicable laws or regulations; and
+  * To assist with site operation and other communication services, we may share Information with third parties, including vendors and contractors who provide services to us.  We will use commercially reasonable efforts to limit use of the Information by these third parties as necessary for the purposes set forth above. 
 
-Use of Collected Information
 
-Information is collected by Samplesandsavings.com but is the sole   
-property of the advertiser and is shared only with the advertiser. Each   
-advertiser individually controls what is done with the information collected.   
-We host ads and collect the information from consumers on behalf of our   
-client. We only use this information to audit accuracy. We guarantee   
-unique users to our clients, and the auditing procedure ensures that   
-promise.
 
-Member Contact
+**SECURITY OF YOUR INFORMATION**
 
-If the opt-in box is selected on the entry form, we have permission to   
-contact the applicant via electronic or postal mail regarding information,   
-savings, or special offers that relate directly to the information, savings,   
-or special offers that relate directly to the information they have provided.   
-This is opt-in only, meaning that the applicant has complete control in   
-allowing us to contact them. Applicant must opt-in to receive secondary   
-communication from Samplesandsavings.com but the policies of our   
-clients may differ.
+We use commercially reasonable efforts to prevent unauthorized access or disclosure, or accidental loss or destruction of your Information. We currently do not encrypt Information that we store.  Given the nature of the Internet, your Information passes through entities that we are unable to control.  Therefore, we cannot guarantee that our security measures or those of third parties who access or transmit your Information will prevent your Information from being illegally accessed, stolen or altered.
 
-Cookies
+**OPTING-OUT**
 
-Cookies are only used to keep track of log-in names and passwords. A   
-user's e-mail address is automatically logged in when they revisit the site   
-and they do not have to reenter profile information. This is to keep track   
-of preferences and to better tailor the site to the visitor's needs while   
-providing the most effective service to our clients. Information such as IP   
-address internal session ID, user's domain, type of Internet browser,   
-domain of Web site are collected and used only for traffic auditing and   
-analyzing trends.
+Users may opt-out from receiving future offers from us by following the Opt-Out instructions contained in the marketing communication or by [clicking here](http://contact.samplesandsavings.com/unsub.aspx).  If you receive offers or other communications from our third party marketing partners and would like to opt-out from future communications from them, you should contact them directly.  A third party’s use of Information is subject to their privacy policy and  we have no control or responsibility over their use.
 
-Security
+**ACCESS TO INFORMATION**
 
-In order to ensure security and protection of collected information, all   
-employees are aware of our security policy and practices. Web security is   
-constantly reviewed. Access to the information is limited and only obtained   
-through codenames and passwords. Any loss, misuse, or alteration of   
-information is prohibited followed by appropriate action and termination of   
-employee. This is to uphold our promise to our clients, affiliate members,   
-and property users.
+All users who provide their Information to us may modify and correct their Information.  To update or delete your Information, please contact the Privacy Officer by submitting form [here](http://contact.samplesandsavings.com/contact.aspx).
 
-Delete/Deactivate
+**YOUR CALIFORNIA PRIVACY RIGHTS**
 
-&quot;Deactivating&quot; refers to the process by which Personally   
-Identifiable Information, upon request, is removed. Because of backups   
-and records of deletions, it may be impossible to delete a consumer's   
-entry without some residual information. An individual who requests to   
-have Personally Identifiable Information deactivated will be functionally   
-deleted. We will not sell, transfer, or use the information relating to a   
-deleted individual in any way. To deactivate your account, please e-mail:
+The California “Shine the Light” law permits users who are California residents to request information regarding our disclosure of their Information to third parties including the categories of Information shared and a list of the names and addresses of third parties with whom the Information was shared.  If you are a California resident and would like a copy of this notice, please submit a written request to the following address: www.SamplesAndSavings.com – Privacy Officer, 128 Court Street, 3rd Floor, White Plains, NY  10601.  In your request, please specify that you want "Your www.SamplesAndSavings.com
 
-steve@Samplesandsavings.com
+ California Privacy Rights Notice."  Please allow 30 days for a response. 
 
-Correct and Update Information
+  **Browser “Do Not Track” Signals:   **Most browsers contain a “do-not-track” setting.  In general, when a “do-not-track” setting is active, the user’s browser notifies other websites that the user does not want their personal information and online behavior to be tracked and used, for example, for behavioral advertising.  As required by recent Shine the Light law amendments we are required to inform you that, as is the case with most websites, we do not honor or alter our behavior when a user to our Site has activated the “do-not-track” setting on his/her browser.
 
-Personal information collected through Samplesandsavings.com may be   
-corrected or updated through various methods. All information must be   
-updated by contacting Samplesandsavings.com admin either through   
-e-mail or postal mail. All changes may be sent to   
-samplesandsavings.com by sending e-mails to   
-steve@Samplesandsavings.com or you may also contact us by writing:
+  **CHANGES TO THIS PRIVACY POLICY**
 
-Samplesandsavings.com  
-1451 Glenmoor Rd  
-Evansville, IN47715
+We may change this Policy at any time. If we make material changes to this Policy, we will post a notice on our Websites and update the revision date which is at the top.  Revisions that expand the types or the scope of our use of the Information we collect will be effective 30 days after posting to a Website and will apply to all Information we collect after the effective date.  Your access and use of a Website following a revision will be deemed your acceptance of such revision. Users should periodically visit this page to review the current policies with regard to Information.
 
-To receive written confirmation of this change, please send a   
-self-addressed stamped envelope to the mailing address listed above.
+**Questions, Suggestions or to Contact Us:**   If you have any questions, comments, complaints, or suggestions regarding our Privacy Policy or our website, please contact us at [Contact US page](http://contact.samplesandsavings.com/contact.aspx) or www.SamplesAndSavings.com  – Privacy Officer, 128 Court Street, 3rd Floor, White Plains, NY  10601.
 
-Notification Of Changes
+Cookies are small text files placed in your browser. Cookies transmit information such as session ID, user ID, and conversion data. This information helps website providers recognize a browser or mobile device and helps us gather information such as how many users have visited our site and which pages and advertisements have been seen and clicked on. We use first-party cookies and third-party cookies together to report ad impressions, other uses of ad services, and interactions with ad impressions related to your visit to our Site.
 
-In the event that there is a change in the privacy practices of   
-Samplesandsavings.com all members of Samplesandsavings.com will be   
-contacted via the e-mail address on record. If this e-mail address is not   
-valid, a written notice will be sent to the street address on record.
+_Third-Party Analytics._  We may collect certain information via third-party analytics services, which may collect your non-sensitive user information. This may include: the information you provide us, your session ID, your user ID, and conversion data. This information provides us with tools to calculate the numbers and frequency of visitors on the Site and to understand how you and other users use the Site so to improve your experience.
 
-Contact Information
+_Google Analytics._  We enable Google Analytics to support Display Advertising. We have implemented the following Google Analytics features to support Display Advertising: Remarketing, Google Display Network Impression Reporting, DoubleClick Campaign Manager Integration, Google Analytics Demographics and Interest Reporting. You may opt out of Google Analytics for Display Advertising and customize Google Display Network advertisements at [www.google.com/settings/ads](http://www.google.com/settings/ads)
 
-This website abides by the laws and guidelines of the Internet. We   
-welcome any inquiries as to the use of collected information and cookies,   
-product capabilities, or company methods and practices. If you have any   
-questions, comments or corrections regarding personally identifiable   
-information obtained through us, please e-mail:   
-steve@Samplesandsavings.com  
-or contact us at:
+  * _Remarketing with Google Analytics._ We use Remarketing with Google Analytics to advertise online. Third-party vendors, including Google, may show our ads on sites across the Internet. Both ourselves and third-party vendors, including Google, use first-party cookies (such as the Google Analytics cookie) and third-party cookies (such as the DoubleClick cookie) together to inform, optimize, and serve ads based on your past visits to our website.
+  * _Google Display Network Impression Reporting and DoubleClick Campaign Manager integration._ Both ourselves and third-party vendors, including Google, use first-party cookies (such as the Google Analytics cookie) and third-party cookies (such as the DoubleClick cookie) together to report how our ad impressions, other uses of ad services, and interactions with these ad impressions and ad services are related to visits to our site.
+  * _Google Analytics Demographics and Interest Reporting._ We use data from Google’s Interest-based advertising or third-party audience data (such as age, gender, and interests) with Google Analytics to match you with the right message and show you advertisements that are more relevant to your interests.
 
-Samplesandsavings.com  
-1451 Glenmoor Rd  
-Evansville, IN  47715
 
-Thank you!!
+
+Policy Last Revised: August 27, 2014
