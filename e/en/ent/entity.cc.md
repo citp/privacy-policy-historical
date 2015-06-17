@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the entity.cc privacy policy that was archived on 2014-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141130080247id_/http%3A//www.allfreeclipart.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the entity.cc privacy policy that was archived on 2015-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150617022147id_/http%3A//www.allfreeclipart.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - AllFreeClipart.com
 
@@ -26,6 +26,18 @@ AllFreeClipart.com Web sites may use session cookies for technical purposes such
 
 At no time is your private information, whether stored in persistent cookies or elsewhere, shared with third parties who have no right to that information. If you do not wish to have session or persistent cookies stored on your machine, you can turn them off in your browser. 
 
+Some third-party advertisements may be provided by Google, which uses cookies to serve ads on this site. Google uses the DART cookie, which enables it to serve ads to our users based on their visits to this site and other sites on the Web. You may opt out of the use of the DART cookie by visiting the [ Google ad and content network privacy policy](http://www.google.com/policies/technologies/ads/). 
+
+Browsers can be set to accept or reject cookies or notify you when a cookie is being sent. Privacy software can be used to override web beacons. Taking either of these actions shouldn't cause a problem with our site, should you so choose. 
+
+Third party ad-serving by Google:
+
+Google serves ads on this site, and certifies vendors for third party ads. You can find a list of these vendors and ad networks here - <https://www.google.com/adsense/support/bin/answer.py?answer=94149>
+
+You may visit those websites to opt out of cookies (if the vendor or ad network offers this capability). 
+
+You can opt out of some, but not all, of these cookies in one location at the Network Advertising Initiative opt-out website at <http://www.networkadvertising.org/choices/>
+
 Personal Information  
 If you choose to provide us with personal information, through such methods as completing a form or sending us an email, we will use that information to respond to your message and to help us get you the information or services you have requested. 
 
@@ -36,6 +48,3 @@ Linking Policy and Disclaimer of Endorsement
 AllFreeClipart.com links to many Web sites. AllFreeClipart.com provides links to these sites as a service to our users. The presence of a link is not a AllFreeClipart.com endorsement of the site. 
 
 When users follow a link to an outside Web site, they are leaving AllFreeClipart.com and are subject to the privacy and security policies of the owners/sponsors of the outside Web site(s). AllFreeClipart.com is not responsible for the information collection practices of those sites. 
-
-
-
