@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bankexamsindia.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230163442id_/http%3A//www.bankexamsindia.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bankexamsindia.com privacy policy that was archived on 2015-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150618005356id_/http%3A//www.bankexamsindia.com/p/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
