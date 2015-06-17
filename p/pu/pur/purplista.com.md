@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the purplista.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120135355id_/http%3A//www.purplista.com/policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the purplista.com privacy policy that was archived on 2015-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150617032205id_/http%3A//www.purplista.com/policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - Purplista
 
