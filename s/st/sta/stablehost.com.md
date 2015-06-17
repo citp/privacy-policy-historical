@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the stablehost.com privacy policy that was archived on 2014-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141222105635id_/http%3A//www.stablehost.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stablehost.com privacy policy that was archived on 2015-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150617022715id_/http%3A//www.stablehost.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy | StableHost
 
   * ### Effective July 8th, 2011
 
-We, StableHost, LLC., are committed to protecting any data that we collect concerning you. By using our services you agree to the use of the data that we collect in accordance with this Privacy Policy. We, additionally, are firmly committed to the principles of the EU-US and US-Swiss Safe Harbor program setup by United States Department of Commerce, the European Union (.EU.), and Switzerland. StableHost, LLC has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. StableHost's Safe Harbor Certification can be found here https://www.export.gov/safehrbr/list.aspx. More information about Safe Harbor principles can be found here http://www.export.gov/safeHarbor/.
+We, StableHost, LLC., are committed to protecting any data that we collect concerning you. By using our services you agree to the use of the data that we collect in accordance with this Privacy Policy. 
 
   * ### We are committed to protecting your privacy
 
@@ -44,7 +44,7 @@ StableHost.com uses technical security measures to prevent the loss, misuse, alt
 
   * ### Data and Information Submitted to Another Person or Entity on Our Network
 
-As mentioned above, StableHost.com collects certain data and confidential information from customers relating to our web site hosting and domain registration services, and this Privacy Policy applies only to that data and confidential information submitted to us. This Privacy Policy does not apply to, nor does StableHost.com certify EU Safe Harbor compliance regarding, data or confidential information that is submitted to another person or entity for whom StableHost.com may provide hosting or domain name registration services, but regarding which we exercise no authority or control. An independent evaluation of that person or entity's own privacy policy and EU Safe Harbor compliance should be made before submitting data or confidential information to them.
+As mentioned above, StableHost.com collects certain data and confidential information from customers relating to our web site hosting and domain registration services, and this Privacy Policy applies only to that data and confidential information submitted to us. This Privacy Policy does not apply to data or confidential information that is submitted to another person or entity for whom StableHost.com may provide hosting or domain name registration services, but regarding which we exercise no authority or control. An independent evaluation of that person or entity's own privacy policy compliance should be made before submitting data or confidential information to them.
 
   * ### Compliance with Laws and Law Enforcement
 
@@ -56,17 +56,16 @@ Any changes to our Privacy Policy will be placed here and will supersede this ve
 
   * ### Enforcement and Dispute Resolution
 
-StableHost.com has established internal mechanisms to verify its ongoing adherence to its privacy policy, including the Safe Harbor Principles. StableHost also encourages individuals covered by this privacy policy to raise any concerns about our processing of personal information by contacting StableHost.com at the address below.
+StableHost.com has established internal mechanisms to verify its ongoing adherence to its privacy policy. StableHost also encourages individuals covered by this privacy policy to raise any concerns about our processing of personal information by contacting StableHost.com at the address below.
 
 StableHost, LLC   
-3941 E. Chandler Blvd, #106-211   
-Phoenix, AZ 85048
-
-StableHost will seek to resolve any concerns. StableHost has also agreed to participate in the dispute resolution program provided by the European Data Protection Authorities.
+1530 E. Williams Field Road  
+Suite #201-20  
+Gilbert, AZ 85295
 
   * ### Contacting Us
 
-If you have any questions about our Privacy Policy, or if you want to know what information we have collected about you, please email us at privacy@stablehost.com. You can also correct any factual errors in that information or require us to remove your details from any list under our control. You can also email us at privacy@stablehost.com.
+If you have any questions about our Privacy Policy, or if you want to know what information we have collected about you, please email us at privacy@stablehost.com. 
 
 
 
