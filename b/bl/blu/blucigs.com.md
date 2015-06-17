@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blucigs.com privacy policy that was archived on 2014-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141224181854id_/http%3A//www.blucigs.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blucigs.com privacy policy that was archived on 2015-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150617020905id_/http%3A//www.blucigs.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | blu eCigs®
 
