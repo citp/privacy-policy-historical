@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hellobc.com privacy policy that was archived on 2014-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140622232559id_/http%3A//www.hellobc.com/british-columbia/about-bc/destination-bc-information/legal-privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hellobc.com privacy policy that was archived on 2015-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150617054712id_/http%3A//www.hellobc.com/british-columbia/about-bc/destination-bc-information/legal-privacy-policy.aspx) for the most accurate reproduction.*
 
 # Legal & Privacy Policy | British Columbia | Destination BC - Official Site
 
@@ -8,7 +8,7 @@ Please read these terms and conditions of website use carefully before using the
 
 #### Booking Accommodation
 
-For room-only (non-package) offers, prices quoted are per room for a single night's standard room accommodation based on double occupancy unless otherwise stated. Prices are quoted in Canadian dollars and are subject to change. All offers subject to availability. Please check the cancellation policy of each accommodation carefully. Note: in some cases offers advertised on HelloBC.com are advertisements only and not available to be booked on this website; clicking on such offers takes the visitor directly to the subject property's own website, the terms and conditions of which will apply, and Destination British Columbia has no further involvement or responsibility.
+Destination BC may provide links to tourism businesses that provide accommodations on our Web site. Clicking on such links takes the visitor directly to the subject businesses own Web site, the terms and conditions of which will apply, and Destination British Columbia has no further involvement or responsibility.
 
 #### Endorsment
 
