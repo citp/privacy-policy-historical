@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the sportrelief.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230122211id_/http%3A//www.sportrelief.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportrelief.com privacy policy that was archived on 2015-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150617043835id_/http%3A//www.sportrelief.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Sport Relief
 
-## Statement Of Intent
+#### Statement Of Intent
 
 When you supply any personal information to Comic Relief, we have legal obligations under the Data Protection Act 1998 in the way we deal with that information. In particular, we must:
 
@@ -14,7 +14,7 @@ When you supply any personal information to Comic Relief, we have legal obligati
 
 We are committed to protecting and respecting your privacy. Whenever you provide personal information we will treat your information in accordance with this privacy policy, and in accordance with the Data Protection Act 1998.
 
-## Information We May Collect From You
+#### Information We May Collect From You
 
 When you donate, register online, contact us, or interact with us in any other way, Comic Relief may sometimes receive personal information about you, such as your:
 
@@ -28,11 +28,11 @@ When you donate, register online, contact us, or interact with us in any other w
 
 When you visit our site, we also sometimes use cookies, and collect information about your visit. For more details, please see the ‘Cookies’ and ‘How we use your information’ sections below.
 
-## How We Use Your Information
+#### How We Use Your Information
 
 We use your information in a number of ways, such as:
 
-  * sending you information about Comic Relief, our supporters and beneficiaries for marketing purposes
+  * sending you information about Comic Relief, our supporters and beneficiaries for marketing purposes, including via Facebook
   * processing a donation that you have made
   * processing an order from our online shop
   * dealing with entries into competitions
@@ -49,7 +49,7 @@ If you have consented to receive marketing, we may occasionally contact you to a
 
 When you visit our site, we sometimes collect information that enables us to identify you and provide you with a more personalised service. We also aggregate statistics about our supporters to enable us to operate more effectively, but these statistics do not include information which can identify individuals.
 
-## Disclosure of your information
+#### Disclosure of your information
 
 We will keep your personal information confidential, and will not supply it to any third party without your consent, unless we are obliged or permitted by law to do so. Where we work with partner organisations, we may need to refer your questions to them in order to respond fully.
 
@@ -59,7 +59,7 @@ Some of our service providers may be located outside Europe, such as the U.S. or
 
 By providing personal information to us, you consent that we may transfer your information within Comic Relief’s group of companies, and that your personal information may be transferred to a third party in the event of a reorganisation or merger of Comic Relief.
 
-## Cookies
+#### Cookies
 
 Cookies are small pieces of information (in the form of text files) which are sent from our website to your computer or mobile phone and which are stored on your device's hard drive. They help you use our site more effectively, and help us assess how our site is used.
 
@@ -73,7 +73,7 @@ During your visits to our site you may notice some cookies that are not related 
 
 Here are a list of the main cookies that we use on this site, and what they do. By using this site, you agree that we can place these cookies on your device:
 
-**Our cookies**
+#### Our cookies
 
 Cookie name
 
@@ -137,9 +137,9 @@ respimg_ratio
 
 This is used when resizing the image whether to keep its ratio or not. It is set to 1 on this site.  
   
-**Third Party cookies**
+#### Third Party cookies
 
-_Worldpay_  
+ _Worldpay_  
   
 ---  
   
@@ -149,15 +149,13 @@ Cookie name
 
 Cookie description  
   
-JSESSIONID
+JSESSIONID / machine
 
 | 
 
-If you make a donation or payment on our site, these cookies are used by Worldpay to enable your visit to be identified between page loads, and to make sure that at the payment point only your specific computer can continue with payment. These cookies are destroyed each time you close your browser.  
+If you make a donation or payment on our site, these cookies are used by Worldpay to enable your visit to be identified between page loads, and to make sure that at the payment point only your specific computer can continue with payment. These cookies are destroyed each time you close your browser  
   
-machine  
-  
-_Google Analytics_  
+ _Google Analytics_  
   
 ---  
   
@@ -167,7 +165,7 @@ Cookie name
 
 Cookie description  
   
-___utma_
+__utma
 
 | 
 
@@ -177,41 +175,30 @@ Google Analytics also provides high level visitor demographics and interests dat
 
 For more information about these cookies, please visit: <http://code.google.com/apis/analytics/docs/concepts/gaConceptsCookies.html>  
   
-___utmb_  
-  
-___utmc_  
-  
-_utmv  
-  
-_utmx  
-  
-___utmz_  
-  
-## Children
+#### Children
 
 If you are under 16, please make sure you have your parent or guardian's permission before you provide us with any personal information. Children under 16 must not provide us with personal information without this permission.
 
-## Third Party Websites
+#### Third Party Websites
 
 This website may contain links to third party websites. This policy only applies to this website so if you follow a link to a third party site, please make sure you read the privacy policy on that site. We do not accept any responsibility for third party sites.
 
-## Unsubscribe
+#### Unsubscribe
 
 You can opt-out of receiving direct marketing from us at any time. Simply follow the ‘unsubscribe’ links on our emails to change your preferences, or you can email or write to us at the following address with your request:
 
-CRM Manager  
-Comic Relief UK  
-89 Albert Embankment  
-London  
+CRM Manager   
+Comic Relief UK   
+89 Albert Embankment   
+London   
 SE1 7TP
 
-Email: [info@comicrelief.com](mailto:info@comicrelief.com)  
+Email: [info@comicrelief.com](mailto:info@comicrelief.com)
+
 Phone: 020 7820 2000
 
-## Who We Are
+#### Who We Are
 
 This site is owned and operated by Comic Relief whose place of business is 89 Albert Embankment, London, SE1 7TP, UK. Comic Relief is the operating name of Charity Projects, a charity registered in England & Wales with number 326568 and in Scotland with number SC039730, and a company limited by guarantee registered in England with number 1806414. Comic Relief Limited is a subsidiary of Charity Projects and a limited company registered in England with number 1967154. Our registered offices are Hanover House, 14 Hanover Square, London W1S 1HP. Our VAT number is 773865187.
 
 Any changes we make to this privacy policy will be posted on this page, so please check back from time to time.
-
- _Last updated: June 2013_
