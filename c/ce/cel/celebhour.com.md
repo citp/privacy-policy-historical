@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the celebhour.com privacy policy that was archived on 2014-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141108232228id_/http%3A//celebhour.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the celebhour.com privacy policy that was archived on 2015-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150617032744id_/http%3A//celebhour.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-> ****Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
+> Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
 
 **Cookies & 3rd Party Advertisements**
 
@@ -16,7 +16,7 @@
 
 **Collection of Personal Information**
 
-> ****When visiting Pakearning.com, the IP address used to access the site will be logged along with the dates and times of access. This information is purely used to analyze trends, administer the site, track users movement and gather broad demographic information for internal use. Most importantly, any recorded IP addresses are not linked to personally identifiable information.
+> When visiting Pakearning.com, the IP address used to access the site will be logged along with the dates and times of access. This information is purely used to analyze trends, administer the site, track users movement and gather broad demographic information for internal use. Most importantly, any recorded IP addresses are not linked to personally identifiable information.
 
 **Links to third party Websites**
 
