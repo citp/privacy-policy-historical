@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the bestreviews.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120130356id_/http%3A//bestreviews.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestreviews.com privacy policy that was archived on 2015-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150617220059id_/http%3A//bestreviews.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 We take our users' privacy very seriously. If you have any questions regarding our Privacy Policy, please contact us.
 
-BestReviews is wholly owned and operated by Customizely Corporation.
+BestReviews is wholly owned and operated by BestReviews Inc.
 
-By using BestReviews content, you accept our Terms and Conditions which includes this Privacy Policy. If you do not want to be bound by BestReviews’s Privacy Policy, or Terms and Conditions, your only remedy is to stop using BestReviews’s content.
+By using BestReviews content, you accept our Terms and Conditions which includes this Privacy Policy. If you do not want to be bound by BestReviews’s Privacy Policy, or Terms and Conditions, your only remedy is to stop using BestReviews’ content.
 
 Information Sharing
 
@@ -52,7 +52,7 @@ Contact Us
 
 If you have any questions about our Privacy Policy, feel free to contact us by email, or in writing to the following address:
 
-Customizely Corporation   
+BestReviews Inc    
 re: BestReviews Privacy Policy   
 PO Box 2130   
 Sparks, NV 89432   
