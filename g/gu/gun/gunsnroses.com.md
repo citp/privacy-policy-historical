@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gunsnroses.com privacy policy that was archived on 2014-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141218010555id_/http%3A//www.gunsnroses.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gunsnroses.com privacy policy that was archived on 2015-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150617020250id_/http%3A//gunsnroses.com/privacy) for the most accurate reproduction.*
 
 # Home : Guns N' Roses
 
