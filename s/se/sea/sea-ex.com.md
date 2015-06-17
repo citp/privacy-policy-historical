@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sea-ex.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625115148id_/http%3A//www.sea-ex.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sea-ex.com privacy policy that was archived on 2015-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150618010701id_/http%3A//www.sea-ex.com/privacypolicy.htm) for the most accurate reproduction.*
 
-# privacypolicy
+# Sea-Ex Privacy Policy
 
 Sea-Ex want our users to always be aware of any information we collect, how we use it and under what circumstances, if any, we disclose it.
 
