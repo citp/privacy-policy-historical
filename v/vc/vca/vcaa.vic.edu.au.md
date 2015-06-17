@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vcaa.vic.edu.au privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220105937id_/http%3A//www.vcaa.vic.edu.au/Pages/footer/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vcaa.vic.edu.au privacy policy that was archived on 2015-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150617101346id_/http%3A//www.vcaa.vic.edu.au/Pages/footer/privacy.aspx) for the most accurate reproduction.*
 
 # Pages - Privacy
 
@@ -45,7 +45,5 @@ Australia
 ### Related Information
 
   * [Privacy Policy](https://web.archive.org/Pages/aboutus/policies/privacypolicy.aspx)
-  * [Privacy Notice for Students](https://web.archive.org/Pages/aboutus/policies/privacystudent.aspx)
-  * [Student Consent to Disclosure of Information to other Organisations](https://web.archive.org/Pages/aboutus/policies/privacysupport.aspx)
 
 
