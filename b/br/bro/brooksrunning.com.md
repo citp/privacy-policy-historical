@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the brooksrunning.com privacy policy that was archived on 2014-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141211002538id_/http%3A//www.brooksrunning.com/en_us/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brooksrunning.com privacy policy that was archived on 2015-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150617050620id_/http%3A//www.brooksrunning.com/en_us/privacy-policy.html) for the most accurate reproduction.*
 
 # Brooks Sports, Inc. Privacy Policy
 
 Brooks Sports, Inc. Privacy Policy
 
-**Last Updated: September 18, 2014**
+**Last Updated: December 23, 2014**
 
 This Privacy Policy describes how information about you is collected, used, and disclosed by Brooks Sports, Inc., and its subsidiaries (collectively, "Brooks" or "we"). This Privacy Policy applies to information we collect when you access or use our websites or other online or mobile services or applications ("Services"), shop in our stores, or otherwise interact with us.
 
@@ -77,6 +77,10 @@ We take reasonable measures, including administrative, technical, and physical s
 We may allow third parties to serve advertisements on our behalf across the Internet and to provide analytics services. These third parties may use cookies, web beacons, and other technologies to collect information, such as your IP addresses, identifiers associated with your mobile device or applications on the device, web browsers, pages viewed, time spent on pages, links clicked, and conversion information. This information may be used by Brooks and other companies to analyze and track data, determine the popularity of certain content, deliver advertising and content targeted to your interests, and better understand your usage. This Privacy Policy does not apply to third-party cookies, web beacons, or other tracking technologies, and we encourage you to check the privacy policies of these third parties to learn more about their privacy practices. For more information about Internet-based ads, or to opt out of having your web browsing information used for behavioral advertising purposes, please visit [www.aboutads.info/choices](http://www.aboutads.info/choices).
 
 We also use a third party to "power" product reviews on our Services. When you submit a product review, you become subject to the terms of use and privacy policy of this third party and the reviews you submit may be posted on our Services and on third party sites.
+
+## U.S.-EU and U.S.-Swiss Safe Harbor
+
+Brooks Sports, Inc. complies with the U.S.-EU Safe Harbor framework and the U.S.-Swiss Safe Harbor framework developed by the U.S. Department of Commerce (collectively, "Safe Harbor") in connection with its processing of personal data about EU and Swiss data subjects. With respect to this data, Brooks Sports, Inc. has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Brooks Sports, Inc.’s certification, please visit [www.export.gov/safeharbor](http://www.export.gov/safeharbor).
 
 ## Your Privacy Choices
 
