@@ -1,11 +1,6 @@
-> *The following text is extracted and transformed from the techonthenet.com privacy policy that was archived on 2014-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140826022911id_/http%3A//www.techonthenet.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techonthenet.com privacy policy that was archived on 2015-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150617092409id_/http%3A//www.techonthenet.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
-
-  1. [Home](https://web.archive.org/index.php) >
-  2. Privacy Policy
-
-
 
 We do not collect any personally identifiable information about you such as name, address, phone number, or e-mail address. However, we do obtain some types of non-personally identifiable information such as the Internet Service Provider people use to connect to the Internet, your browser type, or the type of computer operating system you use (Macintosh or Windows, for example). This helps us to determine what our pages will look like on your browser. This information is collected in general categories and are not specific to individual users.
 
