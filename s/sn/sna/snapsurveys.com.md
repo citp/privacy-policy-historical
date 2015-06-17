@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the snapsurveys.com privacy policy that was archived on 2014-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141228094835id_/http%3A//www.snapsurveys.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the snapsurveys.com privacy policy that was archived on 2015-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150617021346id_/http%3A//www.snapsurveys.com/privacy-policy-us) for the most accurate reproduction.*
 
 # Privacy Policy » Snap Survey Software
 
@@ -12,16 +12,16 @@ For the purposes of the Data Protection Act 1988, the data controller is Snap Su
 
 [](https://privacy.truste.com/privacy-seal/Snap-Surveys,-Ltd/validation?rid=bcb4b8db-4339-4fe8-a10d-c29d3d439ac6 "TRUSTe European Safe Harbor certification")
 
-Snap Surveys Limited has been awarded TRUSTe’s Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe’s program requirements](http://www.truste.com/privacy-program-requirements/ "TRUSTe's program requirements") including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. This privacy statement covers the website www.snapsurveys.com. TRUSTe’s mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions.
+Snap Surveys Limited has been awarded TRUSTe’s Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe’s program requirements](http://www.truste.com/privacy-program-requirements/ "TRUSTe's program requirements") including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. This privacy statement covers the website www.snapsurveys.com. TRUSTe’s mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions.
 
 If you have questions, comments or complaints regarding our privacy policy or practices, please contact us at one of the following addresses;
 
   * **UK address** : 5 Mead Court, Cooper Road, Thornbury, Bristol BS35 3UW, UK
-  * **US address** : 210 Commerce Way, Suite 200, Portsmouth, NH 03801, USA
+  * **US address** : 210 Commerce Way, Suite 200, Portsmouth, NH 03801, USA
 
 
 
-or at [privacy@snapsurveys.com](mailto:privacy@snapsurveys.com). If you are not satisfied with our response you can contact [TRUSTe here](https://feedback-form.truste.com/watchdog/request "TRUSTe").
+or at [privacy@snapsurveys.com](mailto:privacy@snapsurveys.com). If you are not satisfied with our response you can contact [TRUSTe here](https://feedback-form.truste.com/watchdog/request "TRUSTe").
 
 Snap Surveys Limited complies with the U.S. – E.U. Safe Harbor framework and the U.S. – Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland. Snap Surveys Limited has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Snap Surveys Limited certification, please visit <http://www.export.gov/safeharbor/>
 
@@ -92,7 +92,7 @@ We may also disclose your personal information:
 
   * if we are under a duty to disclose or share your personal data in order to comply with any legal obligation or respond to a request from the government or a regulatory body
   * in order to enforce or apply our website terms of use, software licences or other agreements, and to protect the rights (including intellectual property rights), property or safety of Snap Surveys Limited or Snap Surveys NH, Inc., our customers or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction
-  * if we are involved in a merger, acquisition, or sale of all or a portion of our assets,  you will be notified via email and/or a prominent notice on our website of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information. If we or a substantial proportion of our assets are acquired by a third party, personal data held by us about our clients will be one of the transferred assets
+  * if we are involved in a merger, acquisition, or sale of all or a portion of our assets, you will be notified via email and/or a prominent notice on our website of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information. If we or a substantial proportion of our assets are acquired by a third party, personal data held by us about our clients will be one of the transferred assets
   * if you choose to make your survey responses public
   * to any other third party with your prior consent to do so.
 
@@ -112,7 +112,7 @@ Please note that as our clients control their survey data, if you are a responde
 
 ### Cookies
 
-Our website uses cookies to distinguish you from other users of our website. This helps us to improve our website’s performance and your experience of using our website. For detailed information on the cookies we use and the purposes for which we use them see [‘A guide to cookies on this site’](http://www.snapsurveys.com/cookies/ "A guide to cookies on this site").
+Our website uses cookies to distinguish you from other users of our website. This helps us to improve our website’s performance and your experience of using our website. For detailed information on the cookies we use and the purposes for which we use them see [‘Cookies used by Snap Surveys’](http://www.snapsurveys.com/cookies/ "Cookies used by Snap Surveys").
 
 ### Web Beacons
 
@@ -126,7 +126,7 @@ We employ a web-tracking system to track visitor traffic patterns throughout the
 
 ### Forums/Private Messages
 
-If you use the forums or Private Messages on this website, you should be aware that any personally identifiable information you submit there can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit in these forums or private messages. Please note that you have the ability to hide your e-mail address within the forum section by clicking on “Board Settings” and then going to “privacy settings”. To request removal of your personal information from our blog or community forum, contact us at [privacy@snapsurveys.com](mailto:privacy@snapsurveys.com). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
+If you use the forums or Private Messages on this website, you should be aware that any personally identifiable information you submit there can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit in these forums or private messages. Please note that you have the ability to hide your e-mail address within the forum section by clicking on “Board Settings” and then going to “privacy settings”. To request removal of your personal information from our blog or community forum, contact us at [privacy@snapsurveys.com](mailto:privacy@snapsurveys.com). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
 
 You have the option of receiving email notifications each time someone replies to the threads or boards you add to your notify list. If you no longer wish to receive these types of notifications simply login to your forum account and modify your notifications.
 
@@ -144,10 +144,10 @@ The information that we collect from you may be transferred to, and stored at, a
 
 All information that you provide to us is stored on secure servers. When you enter personal information within the customer login area of the site, we encrypt that information using secure socket layer technology (SSL). Where you use a password to access certain areas of our website you are responsible for keeping this password confidential and must not share it with anyone.
 
-We follow generally accepted industry standards to protect the personally identifiable information and data submitted to us, both during transmission and once we receive it.  No method of transmission over the internet, or method of electronic storage, is 100% secure, however.  Therefore, while we will do our best to protect your personal information, we cannot guarantee its absolute security, and any transmission of data to our website is at your own risk. Once we have received your information, we wil use strict procedures and security features to try to prevent unauthorised access.
+We follow generally accepted industry standards to protect the personally identifiable information and data submitted to us, both during transmission and once we receive it. No method of transmission over the internet, or method of electronic storage, is 100% secure, however. Therefore, while we will do our best to protect your personal information, we cannot guarantee its absolute security, and any transmission of data to our website is at your own risk. Once we have received your information, we wil use strict procedures and security features to try to prevent unauthorised access.
 
 ### Changes to Our Privacy Policy
 
 Any changes we may make to this policy in the future will be posted on this page and, where the changes are material, notified to you by email or by means of a notice on our home page, prior to the changes becoming effective. Please check back frequently to see any updates or changes to our privacy policy. You will be deemed to have expressly consented to any change if you continue to use our website and services after the date on which the change becomes effective.
 
-Last Updated 26th February 2014
+Last Updated 26th February 2014
