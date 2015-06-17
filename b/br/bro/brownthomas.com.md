@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brownthomas.com privacy policy that was archived on 2014-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141028111250id_/http%3A//www.brownthomas.com/about-brown-thomas/privacy%2Bcookie-policy/page/brownthomasprivacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brownthomas.com privacy policy that was archived on 2015-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150617192914id_/http%3A//www.brownthomas.com/about-brown-thomas/privacy%2Bcookie-policy/page/brownthomasprivacypolicy) for the most accurate reproduction.*
 
 # Privacy & Cookie Policy at Brown Thomas
 
@@ -52,8 +52,11 @@ These cookies show us how you found our website and which website you came from.
 **_AJAXA Cookie_**  
 We use this to determine if your web browser supports some of the features of our checkout that make checkout quicker and easier to complete.
 
-**__utma, _utmz_**  
+**__utma, _utmz, _ga, _gat_**  
 These cookies enable the function of Google Analytics Software. This software helps us to take and analyse visitor information such as browser usage, new visitor numbers, response to marketing activity and shopping times. That information helps us to improve the website and your shopping experience, and to make our marketing campaigns relevant.The data stored by these cookies can be seen only by the relevant teams at Brown Thomas and Google and never shows any confidential information. 
+
+**_peerius_ct, peerius_rid, peerius_sess, peerius_user_**  
+These cookies enable Peerius software. This software allows us to make recommendations of products that we think might be of interest to you, based on what you and other visitors have viewed and purchased.
 
 **_locn_**  
 This cookie appears on all originating pages with first party access, it is used to collect region codes and setting user regions. It never expires.
