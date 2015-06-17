@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the papaki.com privacy policy that was archived on 2012-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121219013720id_/http%3A//www.papaki.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the papaki.com privacy policy that was archived on 2015-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150617030656id_/http%3A//www.papaki.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy | papaki.com
 
 The management and protection of all personal information of the users/visitors that use Papaki.com services are met according to the European beneficiary (guidelines 95/46/EK and 97/66/EK). The current legislations take into consideration the vast and rapid increase of technology and specifically Internet regarding privacy policies. For that apparent reason, in case of any changes or modifications, Papaki.com will adjust accordingly. Papaki.com has the right and privilege to change and modify these terms and inform all of its visitors and users in the same time. If someone does not agree to the privacy terms and conditions, he/she should not use the services provided by this site.
 
-Personal information which Papaki.com requests are:
+ **Personal information which Papaki.com requests are:**
 
- **Personal Data:** Each visitor can visit and look into the site without having to provide any personal information. However, if someone decides to buy one of our products he/she will have to provide his/her email address and password.
+Personal Data: Each visitor can visit and look into the site without having to provide any personal information. However, if someone decides to buy one of our products he/she will have to provide his/her email address and password.
 
 Information regarding the sale of services and products: The mandatory information for your every transaction is first and last name, telephone number, full address (street number and name, city, zip code) type of receipt, normal receipt or invoice. Sometimes we might ask you for your mobile phone number or fax number just in case we need to contact you as soon as possible.
 
- **Invoice data:** In case you request an invoice, the information you will have to provide to us are: name of company, VAT number, and address of the company.
+Invoice data: **** In case you request an invoice, the information you will have to provide to us are: name of company, VAT number, and address of the company.Contact via Live Chat: When contacting Papaki.gr via live chat, the information we collect is your name, address email, the IP, the date and time of the communication and the text exchanged in this communication. These data are collected for better customer service and for security purposes.
 
  **Links**
 
