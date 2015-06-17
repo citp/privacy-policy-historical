@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the creativeskillset.org privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122080252id_/http%3A//creativeskillset.org/privacy_and_cookie_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the creativeskillset.org privacy policy that was archived on 2015-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150617050502id_/http%3A//creativeskillset.org/privacy_and_cookie_policy) for the most accurate reproduction.*
 
 # Privacy and cookie policy - Creative Skillset
 
@@ -52,7 +52,7 @@ Email: [info@creativeskillset.org](mailto:info@creativeskillset.org "info@creati
 
 ## Privacy policy for Creative Skillset
 
-This statement covers the website [www.creativeskillset.org](http://www.creativeskillset.org/ "Creative Skillset website"), its sub-sites and all other websites owned and operated by Creative Skillset. Creative Skillset is fully committed to protecting your personal information and conducts all its business in compliance with the Data Protection Act 1998. For the purpose of the Data Protection Act 1998 our data controller is Ryan Bright, Systems Analyst, available at [ryanb@creativeskillset.org](mailto:ryanb@creativeskillset.org).
+This statement covers the website [www.creativeskillset.org](http://www.creativeskillset.org/ "Creative Skillset website"), its sub-sites and all other websites owned and operated by Creative Skillset. Creative Skillset is fully committed to protecting your personal information and conducts all its business in compliance with the Data Protection Act 1998. For the purpose of the Data Protection Act 1998 our data controller is Reiz Evans, Head of Operations, available at [reize@creativeskillset.org](mailto:reize@creativeskillset.org).
 
 Creative Skillset collects and uses personal data for a range of purposes in support of its core objectives. This information is processed in accordance with the eight enforceable principles of good practice, which state that information collected should:
 
@@ -159,9 +159,9 @@ You will find links to third party websites on our website. These websites shoul
 
 ### 7\. Access to information
 
-The Data Protection Act 1998 gives you the right to know whether we hold information about you, and also to access that information and require it to be corrected if it is inaccurate. To request access to your information, or if you wish to be removed from our database at any time, please contact Ryan Bright, Systems Analyst at [ryanb@creativeskillset.org](mailto:ryanb@creativeskillset.org).
+The Data Protection Act 1998 gives you the right to know whether we hold information about you, and also to access that information and require it to be corrected if it is inaccurate. To request access to your information, or if you wish to be removed from our database at any time, please contact Reiz Evans, Head of Operations at [reize@creativeskillset.org](mailto:reize@creativeskillset.org).
 
-Anyone subscribing to receive information from Creative Skillset can unsubscribe from receiving such information at any time, either by following the unsubscribe instructions sent with all electronic communications, or by e-mailing [ryanb@creativeskillset.org](mailto:ryanb@creativeskillset.org)
+Anyone subscribing to receive information from Creative Skillset can unsubscribe from receiving such information at any time, either by following the unsubscribe instructions sent with all electronic communications, or by e-mailing [reize@creativeskillset.org](mailto:reize@creativeskillset.org).
 
 ### 8\. Freedom of information
 
@@ -176,4 +176,4 @@ The Act covers any recorded information that is held by a public authority in En
 
 Creative Skillset is not a public body, and therefore is not directly subject to the act. The list of public bodies covered by the act can be [found here](http://www.legislation.gov.uk/ukpga/2000/36/section/3). We will respond to requests for information from members of the public, where the provision of information in response to such an enquiry does not adversely affect Creative Skillset or its stakeholders. This is entirely at the discretion of Creative Skillset, and we are in no way compelled by the Freedom of Information Act to respond to such requests.
 
-All Freedom of Information requests should be sent to Ryan Bright, Systems Analyst at [ryanb@creativeskillset.org](mailto:ryanb@creativeskillset.org).
+All Freedom of Information requests should be sent to Reiz Evans, Head of Operations at [reize@creativeskillset.org](mailto:reize@creativeskillset.org).
