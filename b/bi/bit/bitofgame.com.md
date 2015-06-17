@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the bitofgame.com privacy policy that was archived on 2014-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141210232743id_/http%3A//bitofgame.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bitofgame.com privacy policy that was archived on 2015-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150617052714id_/http%3A//bitofgame.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Bit of Game
 
-**General Policy.**
+**General policy.**
 
 **Log Files**  
 Like many other Web sites, BitofGame.com makes use of log files. The information inside the log files includes Internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
@@ -41,6 +41,7 @@ DoubleClick DART Cookie
 
 Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include:   
 ADinPlay  
+GTBurst  
 Ad4Game  
 CPMStar
 
