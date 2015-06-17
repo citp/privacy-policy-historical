@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the anthonyhayes.me privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121123323id_/http%3A//anthonyhayes.me/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anthonyhayes.me privacy policy that was archived on 2015-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150617024837id_/http%3A//anthonyhayes.me/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -80,8 +80,3 @@ This policy was last modified on July, 2010
  **Contacting Us**
 
 If there are any questions regarding this privacy policy you may contact us using the information below. 
-
-Category:  Product #: Regular price:$ (Sale ends !) Available from: Condition:  Good  ! Order now!  
-
-
-Reviewed by  on. Rating: 
