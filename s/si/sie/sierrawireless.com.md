@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sierrawireless.com privacy policy that was archived on 2014-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141223010903id_/http%3A//www.sierrawireless.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sierrawireless.com privacy policy that was archived on 2015-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150617133513id_/http%3A//www.sierrawireless.com/privacy) for the most accurate reproduction.*
 
 # Sierra Wireless - Privacy Statement
 
