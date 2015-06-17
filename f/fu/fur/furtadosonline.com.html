@@ -1,531 +1,1625 @@
-<!--The following is the downloaded HTML source of the furtadosonline.com privacy policy that was archived on 2014-06-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140625075502id_/http%3A//www.furtadosonline.com/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the furtadosonline.com privacy policy that was archived on 2015-06-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150618012639id_/http%3A//www.furtadosonline.com/privacyPolicy.php) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><link rel="stylesheet" href="http://www.furtadosonline.com/css/colorbox.css"><link rel="stylesheet" href="http://www.furtadosonline.com/css/header.css"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="keywords" content="Furtados,Music store,Musical Instruments,Indian Instruments,Pianos,Acoustic piano,Grand piano, Digital piano,Guitars,Acoustic guitars,Classical guitars,Electric guitars,Basses,Drums,Digital Drums,Percussion,Cymbals,Crash,Hi-hat,Ride,Keyboard,Synths,Processors,Trumpet,Cello,Viola,Violins,Harmonicas,Accordions,Brass,Flutes,Wind instrument,Bowed strings,Tablas,Strings,Mandolins,Guitars Amps,Effects,Metronomes,Saxophones,Clarinets,Vocal, World music,Workshop,Examination music,Sheet music,Music teachers,Ensemble,Fretted strings,Music notation,Indian classical vocal">
 <meta name="description" content="India's leading retailers of all types of Musical Instruments &amp; Sheet music - Buy Musical Instruments online - Indian instruments - Western instruments"><title>Furtadosonline.com : Privacy Policy</title>
-<script type="text/javascript" language="javascript" src="/js/functions.js"></script>
-<script type="text/javascript" language="javascript" src="/js/jquery-1.2.6.min.js"></script>
-<script type="text/javascript" language="javascript" src="/js/jquery.blockUI.js"></script>
-<script type="text/javascript" language="javascript" src="/js/share.js"></script>
+<link href="css/style1.css" rel="stylesheet" type="text/css">
 
-<link rel="stylesheet" href="/css/style.css" type="text/css" media="screen">
-<link rel="shorcut icon" href="/images/favicon.ico">
-<!--<a title="Web Analytics" href="http://getclicky.com/66479209"><img alt="Web Analytics" src="//static.getclicky.com/media/links/badge.gif" border="0" /></a>
-<script src="//static.getclicky.com/js" type="text/javascript"></script>
-<script type="text/javascript">try{ clicky.init(66479209); }catch(e){}</script>
-<noscript><p><img alt="Clicky" width="1" height="1" src="//in.getclicky.com/66479209ns.gif" /></p></noscript>
---></head>
+<link href="http://www.furtadosonline.com/css/bootstrap.css" rel="stylesheet" type="text/css">
+<link href="http://www.furtadosonline.com/css/style.css" rel="stylesheet" type="text/css">
+<link href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+<link href="http://www.furtadosonline.com/css/colorbox.css" rel="stylesheet" type="text/css">
+<link href="http://www.furtadosonline.com/css/header.css" rel="stylesheet" type="text/css">
+<link href="http://www.furtadosonline.com/css/furtados.css" rel="stylesheet" type="text/css">
+<link href="http://www.furtadosonline.com/css/floating.css" rel="stylesheet" type="text/css">
+<script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=179278142167220"></script><script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js" type="text/javascript">	</script>
+<script src="http://code.jquery.com/jquery-migrate-1.2.1.min.js" type="text/javascript"></script> 
+<!--===================================Category================================================-->
+ 	
+</head>
 
 <body>
-<div class="mcont">
-	 <script>
-function suggest(inputString){
-		if(inputString.length == 0) {
-			$('#suggestions').fadeOut();
-		} else {
-		$('#searchText').addClass('load');
-			$.post("/autosuggest.php", {'return_type':1,'pageType':1,'queryString': ""+inputString+""}, function(data){
-				if(data.length >0) {
-					$('#suggestions').fadeIn();
-					$('#suggestionsList').html(data);
-					$('#searchText').removeClass('load');
-				}
-			});
-		}
-	}
-
-function fill(thisValue) {		
-	$('#searchText').val(thisValue);	//alert(thisValue);
-	//document.getElementById('searchText').value = thisValue;
-	// Autosuggest - Cat + Brand
-	$.post("/autosuggest.php", {'return_type':2,'pageType':1,'queryString': ""+thisValue+""}, function(data){	//alert(data);
-		var temp = data.split('|');
-		$('#catid').val(temp[0]);
-		$('#brandid').val(temp[1]);
-		//$('#catid').val(1121);
-
-		setTimeout("$('#suggestions').fadeOut();", 600);
-		$('#formSearch').submit();
-	});
-		
-	
-}
-
-</script>
-<style>
-#result {
-	height:20px;
-	font-size:16px;
-	font-family:Arial, Helvetica, sans-serif;
-	color:#333;
-	padding:5px;
-	margin-bottom:10px;
-	background-color:#FFFF99;
-}
-#country{
-	padding:3px;
-	border:1px #CCC solid;
-	font-size:17px;
-}
-.suggestionsBox {
-	position: absolute;
-	top:65px;
-	margin: 52px 0px 0px 0px;
-	width: 200px;
-	padding:0px;
-	background-color: #000;
-	border-top: 3px solid #000;
-	color: #fff;
-	z-index:1000;
-	height:300px;
-	overflow:auto; 
-}
-.suggestionList {
-	margin: 0px;
-	padding: 0px;
-}
-.suggestionList ul li {
-	list-style:none;
-	margin: 0px;
-	padding: 6px;
-	border-bottom:1px dotted #666;
-	cursor: pointer;
-}
-.suggestionList ul li:hover {
-	background-color: #FC3;
-	color:#000;
-}
-
-.load{
-background-image:url(loader.gif);
-background-position:right;
-background-repeat:no-repeat;
-}
-
-#suggest {
-	position:relative;
-}
-
-</style>
-
-<div class="tcont">
-  <div class="FL" style="padding:39px 0px 0px 32px;"> <a href="/" title="Furtadosonline.com � Online Music Instrument Store"><img src="/images/logo.jpg" width="260" height="56" border="0" alt="Furtadosonline.com – Online Music Instrument Store"></a> </div>
-  <div class="FL">
-  	<div style="padding:10px 0px 0px 0px; .padding:10px 20px 0px 0px; _padding:10px 20px 0px 0px;">
-    		<div class="FL w_16" style="padding-left:100px;"><strong>Need Help? &nbsp;&nbsp;<img src="/images/telphone.jpg" border="0" alt="Need Help Call us">&nbsp;&nbsp; 91 22 - 42875050 / 42875060</strong></div>
-        	<a href="http://twitter.com/furtados" target="_blank" title="Follow us on Twitter"><img src="/images/twitter.jpg" border="0" height="20" width="20" class="FR" alt="Follow us on Twitter"></a>
-            <a href="http://www.youtube.com/furtadosmusicindia" target="_blank" title="Subscribe to Youtube"><img src="/images/youtube.jpg" border="0" height="20" width="20" class="FR PR5" alt="Subscribe to Youtube"></a>
-            <a href="http://www.facebook.com/FurtadosMusic" target="_blank" title="Join Facebook Comunnity"><img src="/images/facebook.jpg" border="0" height="20" width="20" class="FR PR5" alt="Join Facebook Comunnity"></a>            
-            <div class="CL"></div>
-        </div>
-        <div style="padding:11px 0px 0px 500px; .padding:11px 20px 0px 500px; _padding:11px 20px 0px 500px;  height:15px;" class="gL_11">
-		<a href="/shopping-cart.html" class="w_11">Shopping Cart</a> &nbsp;|&nbsp; 
-		<a href="/login.php" class="w_11">Sign In</a> &nbsp;|&nbsp; 
-	<a href="/registration.html" class="w_11">New User</a> </div>
-    	<form name="formSearch" id="formSearch" method="post" action="/searchresult.php">
-	  <div style="padding:13px 0px 0px 40px;">
-	  <script type="text/javascript" language="javascript">
-function free_shipping(){		
-	show_fsh_form('fsh')
-	return false;
-}
-</script>
-
-<div id="fshdoc" style="display:none;background:#fff;">
-  <div style="padding:10px; text-align:left; cursor:default;">
-    <div class="hd_brd_b MB10 PB3">
-      <h3 class="FL">FREE Shipping Offer<span style="display:none;" class="gD_12"></span></h3>
-      <div class="FR" onclick="$.unblockUI();" style="cursor:pointer;"> <img src="/images/signup_close.gif" border="0" alt="Close"></div>
-      <div class="CL"></div>
-    </div>
-    <div id="fsh_msg">
-     <script type="text/javascript" language="javascript">
-function validate_pin_data(){	
-
-	var pcode = trim(document.getElementById("pinvalue").value); //alert('hh='+pcode);
-	if(pcode == ""){
-		alert("Please enter Pincode.");	
-		document.getElementById("pinvalue").value = "";
-		document.getElementById("pinvalue").focus();
-		return false;
-	}else if(pcode != ""){
-		if(isNaN(pcode)){		
-			alert("Please enter valid Pincode.");	
-			document.getElementById("pinvalue").value = "";
-			document.getElementById("pinvalue").focus();
-			return false;
-		}
-	}
-
-
-	$.post(PREFIX+"checkpincode.php", {'pcode':pcode, 'type':2},
-		function(data){		//alert(data);
-			$('#pincodeMsgPop').html(data);
-			/*
-			if(data == 1){
-				//$('#pincodeMsgPop').html("<b style='color:#339900'>Yes, we ship this product to this pincode.</b>");
-			}else if(data == 2){
-				$('#pincodeMsgPop').html("<b style='color:#FF0000'>Sorry, Currently we are unable to ship the product to this pincode.<br /><br /><a href='javascript:void(0);' class='bl_12' onclick='pincodePopup();'><b>Enter your Pincode here to verify if dispatch is available to that location</b></a></b>");
-			}else if(data == 3 || data == 4){
-				$('#pincodeMsgPop').html("<b style='color:#FF0000'>Sorry, Currently we are unable to ship the product to this pincode.</b>");
-			}
-			*/
-	});	
-}//EOF validate_pin_data
-
-function pincodePopup()
-{		
-	show_pin_form('pin')
-	return false;
-}//EOF forgot_password
-</script>
-
-<div id="pindoc" style="display:none;background:#fff;">
-  <div style="padding:10px; text-align:left; cursor:default;">
-    <div class="hd_brd_b MB10 PB3">
-      <h3 class="FL">Check Serviceable Pincode<span style="display:none;" class="gD_12"></span></h3>
-      <div class="FR" onclick="$.unblockUI();" style="cursor:pointer;"> <img src="/images/signup_close.gif" alt="Close"></div>
-      <div class="CL"></div>
-    </div>
-    <div id="pin_msg">
-     
-        <table width="370" cellpadding="0" cellspacing="3" border="0" class="form1">
-          <tbody><tr>
-            <td class="gD_12">Please enter your pincode to check if we can deliver in that area.</td>
-          </tr>
-		  <tr>
-		  	<td height="10"></td>
-		  </tr>
-          <tr>
-            <td width="300"><strong>Pincode :</strong> <input type="text" name="pinvalue" id="pinvalue" maxlength="6"></td>
-          </tr>
-          <tr>
-            <td height="10"></td>
-          </tr>
-		   <tr>
-            <td id="pincodeMsgPop"></td>
-          </tr>
-		  <tr>
-            <td height="10"></td>
-          </tr>
-          
-          <tr>
-            <td align="center"><input type="button" value="Search" class="btn" style="width:80px;" onclick="validate_pin_data();"></td>
-          </tr>
-        </tbody></table>
-     
-    </div>
-  </div>
-</div>
-
-<script language="javascript" type="text/javascript">
-	var fp = $('#pindoc');
-	function show_pin_form(strreturn){
-			$.blockUI(fp, {width:'400px'});
-	}
-	function show_pin_unblock(){
-		$.unblockUI();
-	}
-</script>        <table width="100%" cellpadding="0" cellspacing="10" border="0">
-          <tbody><tr>
-            <td class="gD_12 PL10 PR10" align="left">
-				<ul type="disc">
-	            	<li style="list-style-type:disc">This offer is applicable on all orders received online through <a href="http://www.furtadosonline.com" class="bl_12">www.furtadosonline.com</a></li>
-					<li style="list-style-type:disc">Free shipping offer is not applicable on any discounted products</li>
-                	<li style="list-style-type:disc">Furtados will waive ALL shipping charges for a combined bill purchase of a minimum of Rs. 2000/- in a single shipment.</li>
-	                <li style="list-style-type:disc">This offer is applicable for ALL locations we ship to across India.  To find out if your location is serviceable please <a href="javascript:void(0);" onclick="pincodePopup();" class="bl_12">click here.</a></li>
-                    <li style="list-style-type:disc">This offer is not applicable on Pianos.</li>
-                    <li style="list-style-type:disc">Furtados reserves the right to withdraw this offer at any point of time at its sole discretion.</li>
-                    <li style="list-style-type:disc">Under the free shipping offer Furtados undertakes to provide shipping to the customer's location by Standard Shipping Mode. All entry taxes (Octroi, etc) and requirement for entry forms, if applicable, remain the obligation of the customer.</li>
-                    <li style="list-style-type:disc">The customer, if he/she so desires, may opt for an alternate shipping mode at his/her own cost which is not subsidized nor provided free under this offer.</li>
-                </ul>
-                
-			</td>
-          </tr>
-        </tbody></table>
-      
-    </div>
-  </div>
-</div>
-<script language="javascript" type="text/javascript">
-	var fsh = $('#fshdoc');
-	function show_fsh_form(strreturn){
-			$.blockUI(fsh, {width:'600px'});
-	}
-	function show_fsh_unblock(){
-		$.unblockUI();
-	}
-</script>     <div class="FL">
-      
-<a href="javascript:void(0)" class="bl_12" onclick="javascript:free_shipping();" title="Click to read Terms &amp; Conditions"><img src="/images/free_shipping_banner_2000.jpg" border="0" height="48" alt="Free Shipping on all orders above Rs. 2000/-"></a></div>
-      <div class="FL" style="padding-left:55px;">
-      	      <div class="FL">
-        <input type="text" name="searchText" id="searchText" class="search" style="width:130px;" maxlength="200" value="">
-				<div class="suggestionsBox" id="suggestions" style="display: none;">
-                    <div class="suggestionList" id="suggestionsList"></div>
-                    <div class="CL"></div>
-                  </div>
-                </div>
-              <div class="FL PA3">
-				<input type="hidden" name="catid" id="catid">
-				<input type="hidden" name="brandid" id="brandid">
-                <input type="image" src="/images/searchbtn.jpg" onclick="return checkSearch()" title="Search">
+ 
+<div class="f24">
+        <div class="f25" style=" "></div>   
+    </div>		<div style="overflow:hidden!important; width:1010px; margin:0 auto;"><!-----------------------------MAIN WRAPPER-------------------->
+        <div id="wrapper">
+        <div class="head1">
+<div class="login_cont">
+        	<ul class="head2">
+                 <li><a href="http://www.furtadosonline.com/registration.php">Sign up</a></li><li>&nbsp;|&nbsp;</li>            	 <li><a href="http://www.furtadosonline.com/popupLogin.php" class="ajax">Login</a> </li><li>&nbsp;|&nbsp;</li>
+                <li><a href="http://www.furtadosonline.com/myOrders.php">Track Order</a></li><li></li>
+            </ul>
+            <div class="clear"></div>
+            			 <div>
+           				 <h3 class="call_us" style="margin-right:10px;">Call us : 022 - 42875050/60</h3>
+          				 </div>
+             </div>
+            
+        	 <div class="logo"><a href="http://www.furtadosonline.com/index.php" title="Furtadosonline.com – Online Music Instrument Store">
+                                <img src="http://www.furtadosonline.com/images/logo_1.jpg" alt="Furtadosonline.com – Online Music Instrument Store">
+                           </a></div>
+              <div class="login_cont" style="position:absolute; right:27%; font-size:15px; font-weight:bold; color:#1D7B87;"> 
               </div>
-        <script type="text/javascript" language="javascript">
-function searchtips(){		
-	show_st_form('st')
-	return false;
-}
-</script>
+            <form name="formSearch" method="get" action="http://www.furtadosonline.com/searchResult.php">  
+              <div class="search_bar">
+                         <div class="select-style">
+                          <select title="Search in" name="search_category" class="searchSelec" id="select_drop" onclick="test3()">
+                           <!-- <option value="" selected="selected" class="small">Select</option>-->
+									<option value="Musical Instruments" title="Musical Instruments">Musical Instruments</option>
+									<option value="Music Books" title="Music Books">Music Books</option>
+									<option value="Pro Audio" title="Pro Audio">Pro Audio</option>	
+                          </select>
+                        </div>
+					<div class="nav-searchfield-outer nav-sprite">
+						<input type="text" autocomplete="off" name="searchText" id="twotabsearchtextbox" style="padding-right: 1px 5px;font-weight:normal;position:relative;background-color:#FFFFFF;" onkeyup="suggestKeywords(this.value, 1);" oninput="test()" value="">
+                        <div class="suggestionsBox" id="suggestions" style="display: none;">
+                            <div class="suggestionList" id="suggestionsList"></div>
+                            <div style="clear:both;"></div>
+                        </div>
+					</div>
+					<div class="nav-submit-button">
+					  <input type="submit" title="Go" class="nav-submit-input" value="" onclick="return chkSearchType();">
+					</div>
+                    
+             <!-- Sticky header start -->
 
-<div id="stdoc" style="display:none;background:#fff;">
-  <div style="padding:10px; text-align:left; cursor:default;">
-    <div class="hd_brd_b MB10 PB3">
-      <h3 class="FL">Search Tips<span style="display:none;" class="gD_12"></span></h3>
-      <div class="FR" onclick="$.unblockUI();" style="cursor:pointer;"> <img src="/images/signup_close.gif" border="0" alt="Close"></div>
-      <div class="CL"></div>
-    </div>
-    <div id="st_msg">
-     
-        <table width="400" cellpadding="0" cellspacing="10" border="0">
-          <tbody><tr>
-            <td class="gD_12 PL10 PR10" align="left">
-				<ul type="disc">
-					<li style="list-style-type:decimal">Limit your search to as few terms as possible. Using many terms will narrow your search results.</li>
-					<li style="list-style-type:decimal">If entering Item Number enter the number only. This will restrict your search to that item. If you add additional terms it will show you items pertaining to the terms too.</li>
-					<li style="list-style-type:decimal">Search terms are not case sensitive and can be written in lowercase or upper case.</li>
-					<li style="list-style-type:decimal">Refrain from using signs like -, /, |,_, etc as these may affect your search results</li>
-				</ul>	
-			</td>
-          </tr>
-        </tbody></table>
-      
-    </div>
-  </div>
-</div>
-<script language="javascript" type="text/javascript">
-	var st = $('#stdoc');
-	function show_st_form(strreturn){
-			$.blockUI(st, {width:'400px'});
-	}
-	function show_st_unblock(){
-		$.unblockUI();
-	}
-</script>	  
-              <div class="FL r_11 PT5" style="display:block;width:160px;"><a href="javascript:void(0)" class="r_10 UL" onclick="searchtips();">Search Tips</a>&nbsp;|&nbsp;<a href="/advance-search-1.html" class="r_10 UL">Advanced Search</a></div>
-              <div class="CL"></div>
-      </div>
-      	      
-      <div class="CL"></div>
-    </div>
-	</form>
-  </div>
-  <div class="CL"></div>
-</div>
-<div class="mcont">
-  <div style="background:#CC0E2A; padding:0px 8px 0px 7px;">
-    <div style="background:url(/images/tcurvbg1.jpg) repeat-x; height:83px;">
-      <div class="FL"><img src="/images/tcurv1.jpg" width="13" height="83" alt=""></div>
-      <div class="FL" style="width:958px;">
-        <div style="padding-left:40px;">
-          <div id="parent_music" class="tmenu_h" style="width:200px;"><span>
-            <div class="crv">
-              <div class="tm_icon2"></div>
-              <div class="FL"><a href="javascript:void(0);" onclick="changeMainCategory(1,'index.html');"><h1>MUSICAL INSTRUMENTS</h1></a></div>
-            </div></span>
-           </div>
-          <div id="parent_book" class="tmenu_n" style="width:158px;"><span>
-            <div class="crv">
-              <div class="tm_icon3"></div>
-              <div class="FL"><a href="javascript:void(0);" onclick="changeMainCategory(2,'index.html');"><h3>MUSIC BOOKS</h3></a></div>
-            </div></span>
+
+	<div class="sticky-header" style=" ">
+		<div style="width:990px; margin:0 auto; position:relative;"> 
+        	
+        	<div class="logo" style="margin:10px 0px 20px 10px !important; padding:0 !important;"><a href="http://www.furtadosonline.com/index.php">
+            
+                               <img src="http://www.furtadosonline.com/images/logo_1.jpg" alt="Furtadosonline.com – Online Music Instrument Store">
+                          
+            </a></div>
+            <div class="search_bar1">
+				<table width="100%" cellpadding="0" cellspacing="0" style="margin:0!important; padding:0!important;">
+                	<tbody><tr>
+                    	<td>
+                        	<div class="select-style fix" style="display:inline-block!important;">
+                          <select title="Search in" name="search_category1" class="searchSelec" id="select_drop1" onclick="test4()">
+                            <!--<option value="" selected="selected" class="small">Select</option>-->
+									<option value="Musical Instruments" title="Musical Instruments">Musical Instruments</option>
+									<option value="Music Books" title="Music Books">Music Books</option>
+									<option value="Pro Audio" title="Pro Audio">Pro Audio</option>	
+                          </select>
+                        </div>
+                        </td>
+                    	<td><input type="text" autocomplete="off" class="box" name="searchText1" onkeyup="suggestKeywords(this.value, 2);" id="twotabsearchtextbox1" oninput="test1()" value="" style="background-color:#FFFFFF;"></td>
+                        <td><input type="submit" value="" class="sbmt_btn_srch" onclick="return chkSearchType();"></td>
+                    </tr>
+                </tbody></table>
+               
+			</div>
+<input type="hidden" name="getCategory" id="searchCategoryId" value="">
+<input type="hidden" name="getBrand" id="searchBrandId" value="">
+
+			<a href="http://www.furtadosonline.com/shoppingCart.php">
+                <div class="cart_gradient">
+                    <table width="100%" cellpadding="5px" style="margin-left:5px!important;">
+                        <tbody><tr>
+                            <td valign="middle"><img src="http://www.furtadosonline.com/images/new_cart.png" alt="Cart Icon"></td>
+                            <td><span style="font-size:15px; color:#b30000; text-align:right;">Cart <b>0</b></span></td>
+                        </tr>
+                    </tbody></table>
+              </div>
+          </a>
+    	</div>       
+	</div>                   
+<!-- Sticky header end -->                    
+               
+                    <div class="clear"></div>
+			</div>
+            </form>
+                <div class="clear"></div>
+				<!-- Top Menu : Start -->                
+                <div class="nav-collapse collapse">
+                <ul class="navigation_bar">
+                	
+<li class="nav_11 first f8" id="idTop1">
+    <a class="dropdown-toggle active first" data-toggle="dropdown" href="#">Musical Instruments</a>
+    <div class="underline"></div>
+    <div class="shadow"></div>
+    <ul class="dropdown-menu f29" role="menu">
+        <li class="dropdown-submenu" data-submenu-id="Cat_212">
+            <a href="http://www.furtadosonline.com/Pianos-212--0">Pianos</a>
+            <div id="Cat_212" class="popover">
+                <div class="popover-left" style="background:url(http://www.furtadosonline.com/uploads/category/2014/Oct/piano_menu_1413886286.jpg) no-repeat bottom right #fff;height:380px;">
+                <div class="device-name">
+                    <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                    	<tbody><tr>
+<td valign="top" width="25%">    
+	             					<p class="c1"><a href="http://www.furtadosonline.com/Acoustic-pianos-1106--0"><b>Acoustic Pianos</b></a></p>
+	    
+	             					<p class="c1"><a href="http://www.furtadosonline.com/Digital-pianos-1107--0"><b>Digital Pianos</b></a></p>
+	    
+	             					<p class="c1"><a href="http://www.furtadosonline.com/Piano-accessories-1128--0"><b>Piano Accessories</b></a></p>
+	</td>	
+	        			<!-- Promotional -->
+                        <td valign="top" align="right" width="25%" class="f35">
+                          	
+                        </td>
+                        
+        				</tr>							
+                    </tbody></table>
+                </div>
+                
+                <div class="clear"></div>
+                </div>
             </div>
-		 <div id="parent_pro" class="tmenu_n" style="width:158px;"><span>
-            <div class="crv">
-              <div class="tm_icon5"></div>
-              <div class="FL"><a href="javascript:void(0);" onclick="changeMainCategory(3,'index.html');"><h3>PRO AUDIO</h3></a></div>
-            </div></span>
+        </li>
+        <li class="dropdown-submenu" data-submenu-id="Cat_206">
+            <a href="http://www.furtadosonline.com/Guitars--bass-206--0">Guitars &amp; Bass</a>
+            <div id="Cat_206" class="popover">
+                <div class="popover-left" style="background:url(http://www.furtadosonline.com/uploads/category/2014/Nov/temp_guitar_1415170539.jpg) no-repeat bottom right #fff;height:380px;">
+                <div class="device-name">
+                    <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                    	<tbody><tr>
+<td valign="top" width="25%">    
+	             					<p class="c1"><a href="http://www.furtadosonline.com/Acoustic-guitar-1084--0"><b>Acoustic Guitar</b></a></p>
+	    
+	             					<p class="c1"><a href="http://www.furtadosonline.com/Electric-guitars-1088--0"><b>Electric Guitars</b></a></p>
+	    
+	             					<p class="c1"><a href="http://www.furtadosonline.com/Classical-guitars-1087--0"><b>Classical Guitars</b></a></p>
+	    
+	             					<p class="c1"><a href="http://www.furtadosonline.com/Basses-1086--0"><b>Basses</b></a></p>
+	    
+	             					<p class="c1"><a href="http://www.furtadosonline.com/Guitar-amps-1079--0"><b>Guitar Amps</b></a></p>
+	    
+	             					<p class="c1"><a href="http://www.furtadosonline.com/Guitar-accessories-1078--0"><b>Guitar Accessories</b></a></p>
+		
+									<p class="p_style1"><a href="http://www.furtadosonline.com/Guitar-strings-10087--0">Guitar Strings</a></p>
+			
+									<p class="p_style1" style="margin-top:10px;"><a href="http://www.furtadosonline.com/Guitar-picks-10085--0">Guitar Picks</a></p>
+			
+									<p class="p_style1" style="margin-top:10px;"><a href="http://www.furtadosonline.com/Guitar--bass-straps-10082--0">Guitar &amp; Bass Straps</a></p>
+			
+									<p class="p_style1" style="margin-top:10px;"><a href="http://www.furtadosonline.com/Guitar-capos-10083--0">Guitar Capos</a></p>
+			
+									<p class="p_style1" style="margin-top:10px;"><a href="http://www.furtadosonline.com/Guitar-slides-10086--0">Guitar Slides</a></p>
+			
+									<p class="p_style1" style="margin-top:10px;"><a href="http://www.furtadosonline.com/Guitar-maintenance-10084--0">Guitar Maintenance</a></p>
+			
+									<p class="p_style1" style="margin-top:10px;"><a href="http://www.furtadosonline.com/Guitar--bass-hardware-10080--0">Guitar &amp; Bass Hardware</a></p>
+			
+									<p class="p_style1" style="margin-top:10px;"><a href="http://www.furtadosonline.com/Guitar--bass-bags--cases-10079--0">Guitar &amp; Bass Bags &amp; Cases</a></p>
+			
+									<p class="p_style1" style="margin-top:10px;"><a href="http://www.furtadosonline.com/Guitar--bass-misc-accessories-10081--0">Guitar &amp; Bass Misc Accessories</a></p>
+		    
+	             					<p class="c2"><a href="http://www.furtadosonline.com/Guitar-cables-1080--0"><b>Guitar Cables</b></a></p>
+	</td><td valign="top" width="25%">    
+	             					<p class="c1"><a href="http://www.furtadosonline.com/Guitar-stands-1082--0"><b>Guitar Stands</b></a></p>
+	    
+	             					<p class="c1"><a href="http://www.furtadosonline.com/Guitar-pick-ups-1081--0"><b>Guitar Pick-ups</b></a></p>
+	    
+	             					<p class="c1"><a href="http://www.furtadosonline.com/Pedals--processors-1083--0"><b>Pedals &amp; Processors</b></a></p>
+		
+									<p class="p_style1"><a href="http://www.furtadosonline.com/Voice-processors-10107--0">Voice Processors</a></p>
+			
+									<p class="p_style1" style="margin-top:10px;"><a href="http://www.furtadosonline.com/Guitar-processors-10091--0">Guitar Processors</a></p>
+			
+									<p class="p_style1" style="margin-top:10px;"><a href="http://www.furtadosonline.com/Guitar--bass-processor-acc-10090--0">Guitar &amp; Bass Processor Acc</a></p>
+			
+									<p class="p_style1" style="margin-top:10px;"><a href="http://www.furtadosonline.com/Guitar--bass-pedals-10089--0">Guitar &amp; Bass Pedals</a></p>
+			
+									<p class="p_style1" style="margin-top:10px;"><a href="http://www.furtadosonline.com/Bass-processors-10088--0">Bass Processors</a></p>
+		    
+	             					<p class="c2"><a href="http://www.furtadosonline.com/Banjos--ukeleles-1085--0"><b>Banjos &amp; Ukeleles</b></a></p>
+	<p class="b_12 f32">Related</p><p class="f33"><a href="http://www.furtadosonline.com/promotion.php?id=115">Greg Bennett Guitars - Flat 30% on select models.</a></p><p class="f33"><a href="http://www.furtadosonline.com/promotion.php?id=117">Taylor Guitars - Flat 10% discount on selected model.</a></p></td>	
+	        			<!-- Promotional -->
+                        <td valign="top" align="right" width="25%" class="f35">
+   
+                    
+                    <a href="http://www.furtadosonline.com/promotion.php?id=121" title="Digitech offer (flat 0% off)">
+                    
+    					<span class="f36">Digitech Flat 25% off</span>                	
+                        
+                    </a>
+                    
+                          	
+                        </td>
+                        
+        				</tr>							
+                    </tbody></table>
+                </div>
+                
+                <div class="clear"></div>
+                </div>
             </div>
+        </li>
+        <li class="dropdown-submenu" data-submenu-id="Cat_209">
+            <a href="http://www.furtadosonline.com/Keyboards--dmi-209--0">Keyboards &amp; Dmi</a>
+            <div id="Cat_209" class="popover">
+                <div class="popover-left" style="background:url(http://www.furtadosonline.com/uploads/category/2014/Nov/keyboard_menu_1416801082.jpg) no-repeat bottom right #fff;height:380px;">
+                <div class="device-name">
+                    <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                    	<tbody><tr>
+<td valign="top" width="25%">    
+	             					<p class="c1"><a href="http://www.furtadosonline.com/Keyboards-1102--0"><b>Keyboards</b></a></p>
+	    
+	             					<p class="c1"><a href="http://www.furtadosonline.com/Synths-etc-1104--0"><b>Synths, Etc</b></a></p>
+	    
+	             					<p class="c1"><a href="http://www.furtadosonline.com/Keyboard-amps-1101--0"><b>Keyboard Amps</b></a></p>
+	    
+	             					<p class="c1"><a href="http://www.furtadosonline.com/Keyboard-accessories-1100--0"><b>Keyboard Accessories</b></a></p>
 		
-          <div class="FR" style="padding-top:6px"><img src="/images/tmimg1.gif" width="277" height="29" alt=""></div>
-          <div class="CL"></div>
-        </div>
+									<p class="p_style1"><a href="http://www.furtadosonline.com/Keyboard-stands-10097--0">Keyboard Stands</a></p>
+			
+									<p class="p_style1" style="margin-top:10px;"><a href="http://www.furtadosonline.com/Keyboard-power-adaptors-10096--0">Keyboard Power Adaptors</a></p>
+			
+									<p class="p_style1" style="margin-top:10px;"><a href="http://www.furtadosonline.com/Keyboard-cases-10093--0">Keyboard Cases</a></p>
+			
+									<p class="p_style1" style="margin-top:10px;"><a href="http://www.furtadosonline.com/Keyboard-controllers--pedals-10094--0">Keyboard Controllers &amp; Pedals</a></p>
+			
+									<p class="p_style1" style="margin-top:10px;"><a href="http://www.furtadosonline.com/Exp-boards--storage-acc-10092--0">Exp Boards &amp; Storage Acc</a></p>
+			
+									<p class="p_style1" style="margin-top:10px;"><a href="http://www.furtadosonline.com/Keyboard-misc-accessories-10095--0">Keyboard Misc Accessories</a></p>
+		    
+	             					<p class="c2"><a href="http://www.furtadosonline.com/Modules-1103--0"><b>Modules</b></a></p>
+	    
+	             					<p class="c1"><a href="http://www.furtadosonline.com/Organs-1129--0"><b>Organs</b></a></p>
+	</td>	
+	        			<!-- Promotional -->
+                        <td valign="top" align="right" width="25%" class="f35">
+                          	
+                        </td>
+                        
+        				</tr>							
+                    </tbody></table>
+                </div>
+                
+                <div class="clear"></div>
+                </div>
+            </div>
+        </li>
+        <li class="dropdown-submenu" data-submenu-id="Cat_202">
+            <a href="http://www.furtadosonline.com/Drums--percussion-202--0">Drums &amp; Percussion</a>
+            <div id="Cat_202" class="popover">
+                <div class="popover-left" style="background:url(http://www.furtadosonline.com/uploads/category/2014/Oct/drums_menu_1413886573.jpg) no-repeat bottom right #fff;height:380px;">
+                <div class="device-name">
+                    <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                    	<tbody><tr>
+<td valign="top" width="25%">    
+	             					<p class="c1"><a href="http://www.furtadosonline.com/Drum-sets-1067--0"><b>Drum Sets</b></a></p>
 		
-			<div id="is_music" style="display:block">
-			  <div class="FL">
-				<ul class="smlist">
-				  <li><a href="/productlisting-cat/Pianos-212.html">PIANOS</a></li>
-					  <li><a href="/productlisting-cat/Keyboards--dmi-209.html">KEYBOARDS &amp; DMI</a></li>
-					  <li><a href="/productlisting-cat/Guitars--bass-206.html">GUITARS &amp; BASS</a></li>
-					  <li><a href="/productlisting-cat/Drums--percussion-202.html">DRUMS &amp; PERCUSSION</a></li>
-					  <li><a href="/productlisting-cat/Harmonicas--accordions-215.html">HARMONICAS &amp; ACCORDIONS</a></li>
-					  <li><a href="/productlisting-cat/Bowed-strings-214.html">BOWED STRINGS</a></li>
-					  <li><a href="/productlisting-cat/Wind-instruments-216.html">WIND INSTRUMENTS</a></li>
+									<p class="p_style1"><a href="http://www.furtadosonline.com/Toms-10118--0">Toms</a></p>
+			
+									<p class="p_style1" style="margin-top:10px;"><a href="http://www.furtadosonline.com/Snare-drums-10117--0">Snare Drums</a></p>
+			
+									<p class="p_style1" style="margin-top:10px;"><a href="http://www.furtadosonline.com/Bass-drums-10116--0">Bass Drums</a></p>
+			
+									<p class="p_style1" style="margin-top:10px;"><a href="http://www.furtadosonline.com/Acoustic-drum-set-10115--0">Acoustic Drum Set</a></p>
+		    
+	             					<p class="c2"><a href="http://www.furtadosonline.com/Digital-drums-1063--0"><b>Digital Drums</b></a></p>
+	    
+	             					<p class="c1"><a href="http://www.furtadosonline.com/Cymbals-1062--0"><b>Cymbals</b></a></p>
+		
+									<p class="p_style1"><a href="http://www.furtadosonline.com/Effects-cymbals-10126--0">Effects Cymbals</a></p>
+			
+									<p class="p_style1" style="margin-top:10px;"><a href="http://www.furtadosonline.com/Crash-ride-cymbals-10125--0">Crash-ride Cymbals</a></p>
+			
+									<p class="p_style1" style="margin-top:10px;"><a href="http://www.furtadosonline.com/Splash-cymbals-10124--0">Splash Cymbals</a></p>
+			
+									<p class="p_style1" style="margin-top:10px;"><a href="http://www.furtadosonline.com/Ride-cymbals-10123--0">Ride Cymbals</a></p>
+			
+									<p class="p_style1" style="margin-top:10px;"><a href="http://www.furtadosonline.com/Hi-hat-cymbals-10122--0">Hi-hat Cymbals</a></p>
+			
+									<p class="p_style1" style="margin-top:10px;"><a href="http://www.furtadosonline.com/Crash-cymbals-10121--0">Crash Cymbals</a></p>
+			
+									<p class="p_style1" style="margin-top:10px;"><a href="http://www.furtadosonline.com/Cymbal-packs-10120--0">Cymbal Packs</a></p>
+		    
+	             					<p class="c2"><a href="http://www.furtadosonline.com/Drum-hardware-1065--0"><b>Drum Hardware</b></a></p>
+		
+									<p class="p_style1"><a href="http://www.furtadosonline.com/Drum-clamps--holders-10145--0">Drum Clamps &amp; Holders</a></p>
+		</td><td valign="top" width="25%">    
+	             					<p class="c1"><a href="http://www.furtadosonline.com/Drum-heads-1066--0"><b>Drum Heads</b></a></p>
+		
+									<p class="p_style1"><a href="http://www.furtadosonline.com/Resonant-heads-10137--0">Resonant Heads</a></p>
+			
+									<p class="p_style1" style="margin-top:10px;"><a href="http://www.furtadosonline.com/Bass-drum-heads-10136--0">Bass Drum Heads</a></p>
+			
+									<p class="p_style1" style="margin-top:10px;"><a href="http://www.furtadosonline.com/Snare-heads-10135--0">Snare Heads</a></p>
+			
+									<p class="p_style1" style="margin-top:10px;"><a href="http://www.furtadosonline.com/Tom-heads-10134--0">Tom Heads</a></p>
+			
+									<p class="p_style1" style="margin-top:10px;"><a href="http://www.furtadosonline.com/Drum-head-packs-10133--0">Drum Head Packs</a></p>
+		    
+	             					<p class="c2"><a href="http://www.furtadosonline.com/Drum-accessories-1064--0"><b>Drum Accessories</b></a></p>
+		
+									<p class="p_style1"><a href="http://www.furtadosonline.com/Digital-drum-accessories-10170--0">Digital Drum Accessories</a></p>
+			
+									<p class="p_style1" style="margin-top:10px;"><a href="http://www.furtadosonline.com/Drum-hardware-accessories-10167--0">Drum Hardware Accessories</a></p>
+			
+									<p class="p_style1" style="margin-top:10px;"><a href="http://www.furtadosonline.com/Drum-mutes-10166--0">Drum Mutes</a></p>
+			
+									<p class="p_style1" style="margin-top:10px;"><a href="http://www.furtadosonline.com/Drum-stick-bags--accessories-10165--0">Drum Stick Bags &amp; Accessories</a></p>
+			
+									<p class="p_style1" style="margin-top:10px;"><a href="http://www.furtadosonline.com/Drum-cases-10164--0">Drum Cases</a></p>
+			
+									<p class="p_style1" style="margin-top:10px;"><a href="http://www.furtadosonline.com/Cymbal-cases--accessories-10163--0">Cymbal Cases &amp; Accessories</a></p>
+			
+									<p class="p_style1" style="margin-top:10px;"><a href="http://www.furtadosonline.com/Practice-pads-10128--0">Practice Pads</a></p>
+			
+									<p class="p_style1" style="margin-top:10px;"><a href="http://www.furtadosonline.com/Misc-drum-accessories-10127--0">Misc Drum Accessories</a></p>
+		    
+	             					<p class="c2"><a href="http://www.furtadosonline.com/Drum-sticks-1068--0"><b>Drum Sticks</b></a></p>
+		
+									<p class="p_style1"><a href="http://www.furtadosonline.com/Other-drumsticks-10169--0">Other Drumsticks</a></p>
+		</td><td valign="top" width="25%">    
+	             					<p class="c1"><a href="http://www.furtadosonline.com/Percussion-1069--0"><b>Percussion</b></a></p>
+		
+									<p class="p_style1"><a href="http://www.furtadosonline.com/Indian-percussion-10171--0">Indian Percussion</a></p>
+			
+									<p class="p_style1" style="margin-top:10px;"><a href="http://www.furtadosonline.com/Small-percussion-10147--0">Small Percussion</a></p>
+			
+									<p class="p_style1" style="margin-top:10px;"><a href="http://www.furtadosonline.com/Tambourines-10148--0">Tambourines</a></p>
+			
+									<p class="p_style1" style="margin-top:10px;"><a href="http://www.furtadosonline.com/Cowbells-10149--0">Cowbells</a></p>
+			
+									<p class="p_style1" style="margin-top:10px;"><a href="http://www.furtadosonline.com/Timbales-10150--0">Timbales</a></p>
+			
+									<p class="p_style1" style="margin-top:10px;"><a href="http://www.furtadosonline.com/Cajons-10151--0">Cajons</a></p>
+			
+									<p class="p_style1" style="margin-top:10px;"><a href="http://www.furtadosonline.com/Bongos-10152--0">Bongos</a></p>
+			
+									<p class="p_style1" style="margin-top:10px;"><a href="http://www.furtadosonline.com/Djembes-10153--0">Djembes</a></p>
+			
+									<p class="p_style1" style="margin-top:10px;"><a href="http://www.furtadosonline.com/Blocks-10154--0">Blocks</a></p>
+			
+									<p class="p_style1" style="margin-top:10px;"><a href="http://www.furtadosonline.com/Shakers-10155--0">Shakers</a></p>
+			
+									<p class="p_style1" style="margin-top:10px;"><a href="http://www.furtadosonline.com/Chimes-10156--0">Chimes</a></p>
+			
+									<p class="p_style1" style="margin-top:10px;"><a href="http://www.furtadosonline.com/Stands--hardware-10157--0">Stands &amp; Hardware</a></p>
+			
+									<p class="p_style1" style="margin-top:10px;"><a href="http://www.furtadosonline.com/Other-percussion-10158--0">Other Percussion</a></p>
+			
+									<p class="p_style1" style="margin-top:10px;"><a href="http://www.furtadosonline.com/Maraccas-10159--0">Maraccas</a></p>
+			
+									<p class="p_style1" style="margin-top:10px;"><a href="http://www.furtadosonline.com/Triangles-10160--0">Triangles</a></p>
+		</td><td valign="top" width="25%">    
+	             					<p class="c1"><a href="http://www.furtadosonline.com/Tuned-percussion-1132--0"><b>Tuned Percussion</b></a></p>
+	    
+	             					<p class="c1"><a href="http://www.furtadosonline.com/Marching-percussion-1131--0"><b>Marching Percussion</b></a></p>
+	</td>	
+	        			<!-- Promotional -->
+                        <td valign="top" align="right" width="25%" class="f35">
+                          	
+                        </td>
+                        
+        				</tr>							
+                    </tbody></table>
+                </div>
+                
+                <div class="clear"></div>
+                </div>
+            </div>
+        </li>
+        <li class="dropdown-submenu" data-submenu-id="Cat_215">
+            <a href="http://www.furtadosonline.com/Harmonicas--accordions-215--0">Harmonicas &amp; Accordions</a>
+            <div id="Cat_215" class="popover">
+                <div class="popover-left" style="background:url(http://www.furtadosonline.com/uploads/category/2014/Oct/harmo_menu_1413886609.jpg) no-repeat bottom right #fff;height:380px;">
+                <div class="device-name">
+                    <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                    	<tbody><tr>
+<td valign="top" width="25%">    
+	             					<p class="c1"><a href="http://www.furtadosonline.com/Harmonicas-1122--0"><b>Harmonicas</b></a></p>
+	    
+	             					<p class="c1"><a href="http://www.furtadosonline.com/Accordions-1121--0"><b>Accordions</b></a></p>
+	</td>	
+	        			<!-- Promotional -->
+                        <td valign="top" align="right" width="25%" class="f35">
+                          	
+                        </td>
+                        
+        				</tr>							
+                    </tbody></table>
+                </div>
+                
+                <div class="clear"></div>
+                </div>
+            </div>
+        </li>
+        <li class="dropdown-submenu" data-submenu-id="Cat_214">
+            <a href="http://www.furtadosonline.com/Bowed-strings-214--0">Bowed Strings</a>
+            <div id="Cat_214" class="popover">
+                <div class="popover-left" style="background:url(http://www.furtadosonline.com/uploads/category/2014/Oct/bowed_strings_menu_1413886718.jpg) no-repeat bottom right #fff;height:380px;">
+                <div class="device-name">
+                    <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                    	<tbody><tr>
+<td valign="top" width="25%">    
+	             					<p class="c1"><a href="http://www.furtadosonline.com/Violins-1119--0"><b>Violins</b></a></p>
+	    
+	             					<p class="c1"><a href="http://www.furtadosonline.com/Violas-1117--0"><b>Violas</b></a></p>
+	    
+	             					<p class="c1"><a href="http://www.furtadosonline.com/Cellos--double-bass-1115--0"><b>Cellos &amp; Double Bass</b></a></p>
+	    
+	             					<p class="c1"><a href="http://www.furtadosonline.com/Violin-accessories-1118--0"><b>Violin Accessories</b></a></p>
+		
+									<p class="p_style1"><a href="http://www.furtadosonline.com/Violin-bows-10072--0">Violin Bows</a></p>
+			
+									<p class="p_style1" style="margin-top:10px;"><a href="http://www.furtadosonline.com/Violin-strings-10078--0">Violin Strings</a></p>
+			
+									<p class="p_style1" style="margin-top:10px;"><a href="http://www.furtadosonline.com/Violin-rosin-10076--0">Violin Rosin</a></p>
+			
+									<p class="p_style1" style="margin-top:10px;"><a href="http://www.furtadosonline.com/Violin-shoulder-rests-10077--0">Violin Shoulder Rests</a></p>
+			
+									<p class="p_style1" style="margin-top:10px;"><a href="http://www.furtadosonline.com/Violin-cases-10074--0">Violin Cases</a></p>
+			
+									<p class="p_style1" style="margin-top:10px;"><a href="http://www.furtadosonline.com/Violin-bridges-10073--0">Violin Bridges</a></p>
+			
+									<p class="p_style1" style="margin-top:10px;"><a href="http://www.furtadosonline.com/Violin-misc-accessories-10075--0">Violin Misc Accessories</a></p>
+		    
+	             					<p class="c2"><a href="http://www.furtadosonline.com/Viola-accessories-1116--0"><b>Viola Accessories</b></a></p>
+	    
+	             					<p class="c1"><a href="http://www.furtadosonline.com/Cello--bass-accessories-1113--0"><b>Cello &amp; Bass Accessories</b></a></p>
+	</td>	
+	        			<!-- Promotional -->
+                        <td valign="top" align="right" width="25%" class="f35">
+                          	
+                        </td>
+                        
+        				</tr>							
+                    </tbody></table>
+                </div>
+                
+                <div class="clear"></div>
+                </div>
+            </div>
+        </li>
+        <li class="dropdown-submenu" data-submenu-id="Cat_216">
+            <a href="http://www.furtadosonline.com/Wind-instruments-216--0">Wind Instruments</a>
+            <div id="Cat_216" class="popover">
+                <div class="popover-left" style="background:url(http://www.furtadosonline.com/uploads/category/2014/Oct/wind_menu_1413886830.jpg) no-repeat bottom right #fff;height:380px;">
+                <div class="device-name">
+                    <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                    	<tbody><tr>
+<td valign="top" width="25%">    
+	             					<p class="c1"><a href="http://www.furtadosonline.com/Woodwind-1126--0"><b>Woodwind</b></a></p>
+		
+									<p class="p_style1"><a href="http://www.furtadosonline.com/Saxophones-10104--0">Saxophones</a></p>
+			
+									<p class="p_style1" style="margin-top:10px;"><a href="http://www.furtadosonline.com/Other-woodwind-instruments-10103--0">Other Woodwind Instruments</a></p>
+			
+									<p class="p_style1" style="margin-top:10px;"><a href="http://www.furtadosonline.com/Flutes-10102--0">Flutes</a></p>
+			
+									<p class="p_style1" style="margin-top:10px;"><a href="http://www.furtadosonline.com/Clarinets-10101--0">Clarinets</a></p>
+		    
+	             					<p class="c2"><a href="http://www.furtadosonline.com/Brass-1124--0"><b>Brass</b></a></p>
+		
+									<p class="p_style1"><a href="http://www.furtadosonline.com/Trumpets--cornets-10100--0">Trumpets &amp; Cornets</a></p>
+			
+									<p class="p_style1" style="margin-top:10px;"><a href="http://www.furtadosonline.com/Other-brass-instruments-10099--0">Other Brass Instruments</a></p>
+		    
+	             					<p class="c2"><a href="http://www.furtadosonline.com/Woodwind-accessories-1127--0"><b>Woodwind Accessories</b></a></p>
+	    
+	             					<p class="c1"><a href="http://www.furtadosonline.com/Brass-accessories-1125--0"><b>Brass Accessories</b></a></p>
+	</td>	
+	        			<!-- Promotional -->
+                        <td valign="top" align="right" width="25%" class="f35">
+                          	
+                        </td>
+                        
+        				</tr>							
+                    </tbody></table>
+                </div>
+                
+                <div class="clear"></div>
+                </div>
+            </div>
+        </li>
+        <li class="dropdown-submenu" data-submenu-id="Cat_203">
+            <a href="http://www.furtadosonline.com/Education-203--0">Education</a>
+            <div id="Cat_203" class="popover">
+                <div class="popover-left" style="background:url(http://www.furtadosonline.com/uploads/category/2014/Jul/education_1404974745.jpg) no-repeat bottom right #fff;height:380px;">
+                <div class="device-name">
+                    <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                    	<tbody><tr>
+<td valign="top" width="25%">    
+	             					<p class="c1"><a href="http://www.furtadosonline.com/Education-instruments-1072--0"><b>Education Instruments</b></a></p>
+	    
+	             					<p class="c1"><a href="http://www.furtadosonline.com/Notation-stands-1075--0"><b>Notation Stands</b></a></p>
+	    
+	             					<p class="c1"><a href="http://www.furtadosonline.com/Pitch-pipes--tuners-1076--0"><b>Pitch Pipes &amp; Tuners</b></a></p>
+	    
+	             					<p class="c1"><a href="http://www.furtadosonline.com/Metronomes-1074--0"><b>Metronomes</b></a></p>
+	    
+	             					<p class="c1"><a href="http://www.furtadosonline.com/Education-accessories-1071--0"><b>Education Accessories</b></a></p>
+	</td>	
+	        			<!-- Promotional -->
+                        <td valign="top" align="right" width="25%" class="f35">
+                          	
+                        </td>
+                        
+        				</tr>							
+                    </tbody></table>
+                </div>
+                
+                <div class="clear"></div>
+                </div>
+            </div>
+        </li>
+        <li class="dropdown-submenu" data-submenu-id="Cat_208">
+            <a href="http://www.furtadosonline.com/Indian-instruments-208--0">Indian Instruments</a>
+            <div id="Cat_208" class="popover">
+                <div class="popover-left" style="background:url(http://www.furtadosonline.com/uploads/category/2014/Jul/indian_1404987050.jpg) no-repeat bottom right #fff;height:380px;">
+                <div class="device-name">
+                    <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                    	<tbody><tr>
+<td valign="top" width="25%">    
+	             					<p class="c1"><a href="http://www.furtadosonline.com/Tablas-1098--0"><b>Tablas</b></a></p>
+	    
+	             					<p class="c1"><a href="http://www.furtadosonline.com/-1092--0"><b></b></a></p>
+	    
+	             					<p class="c1"><a href="http://www.furtadosonline.com/Harmoniums-1093--0"><b>Harmoniums</b></a></p>
+	    
+	             					<p class="c1"><a href="http://www.furtadosonline.com/Indian-string-instruments-1096--0"><b>Indian String Instruments</b></a></p>
+	    
+	             					<p class="c1"><a href="http://www.furtadosonline.com/Indian-wind-instruments-1097--0"><b>Indian Wind Instruments</b></a></p>
+	    
+	             					<p class="c1"><a href="http://www.furtadosonline.com/Indian-percussion-1095--0"><b>Indian Percussion</b></a></p>
+	</td>	
+	        			<!-- Promotional -->
+                        <td valign="top" align="right" width="25%" class="f35">
+                          	
+                        </td>
+                        
+        				</tr>							
+                    </tbody></table>
+                </div>
+                
+                <div class="clear"></div>
+                </div>
+            </div>
+        </li>
+        <li class="dropdown-submenu" data-submenu-id="Cat_217">
+            <a href="http://www.furtadosonline.com/Musician-essentials-217--0">Musician Essentials</a>
+            <div id="Cat_217" class="popover">
+                <div class="popover-left" style="background:url(http://www.furtadosonline.com/uploads/category/2014/Jul/essential_1404988358.jpg) no-repeat bottom right #fff;height:380px;">
+                <div class="device-name">
+                    <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                    	<tbody><tr>
+			<td valign="top" width="25%">
+				<p class="f34"><a href="http://www.furtadosonline.com/Musician-essentials-217--0"><b>Musician Essentials</b></a></p>
+			                
+                
+             </td>
 	
-				</ul>
-			  </div>
-
-			  <div class="CL"></div>
-			</div>
-		
-			<div id="is_book" style="display:none">
-			  <div class="FL">
-				<ul class="smlist">
-				  <li><a href="/productlisting-cat/Examination-music-106.html">EXAMINATION MUSIC</a></li>
-					  <li><a href="/productlisting-cat/Fretted-strings-107.html">FRETTED STRINGS</a></li>
-					  <li><a href="/productlisting-cat/Bowed-strings-101.html">BOWED STRINGS</a></li>
-					  <li><a href="/productlisting-cat/Drums--percussion-102.html">DRUMS &amp; PERCUSSION</a></li>
-					  <li><a href="/productlisting-cat/Voice-114.html">VOICE</a></li>
-					  <li><a href="/productlisting-cat/Wind-115.html">WIND</a></li>
-					  <li><a href="/productlisting-cat/Educational-103.html">EDUCATIONAL</a></li>
+	        			<!-- Promotional -->
+                        <td valign="top" align="right" width="25%" class="f35">
+                          	
+                        </td>
+                        
+        				</tr>							
+                    </tbody></table>
+                </div>
+                
+                <div class="clear"></div>
+                </div>
+            </div>
+        </li>
+        <li class="dropdown-submenu" data-submenu-id="Cat_207">
+            <a href="http://www.furtadosonline.com/Other-fretted-instruments-207--0">Other Fretted Instruments</a>
+            <div id="Cat_207" class="popover">
+                <div class="popover-left" style="background:url(http://www.furtadosonline.com/uploads/category/2014/Jul/mandolin_1404990112.jpg) no-repeat bottom right #fff;height:380px;">
+                <div class="device-name">
+                    <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                    	<tbody><tr>
+<td valign="top" width="25%">    
+	             					<p class="c1"><a href="http://www.furtadosonline.com/Mandolins--accessories-1090--0"><b>Mandolins &amp; Accessories</b></a></p>
+	</td>	
+	        			<!-- Promotional -->
+                        <td valign="top" align="right" width="25%" class="f35">
+                          	
+                        </td>
+                        
+        				</tr>							
+                    </tbody></table>
+                </div>
+                
+                <div class="clear"></div>
+                </div>
+            </div>
+        </li>
+        <li class="dropdown-submenu" data-submenu-id="Cat_201">
+            <a href="http://www.furtadosonline.com/Computer-music-201--0">Computer Music</a>
+            <div id="Cat_201" class="popover">
+                <div class="popover-left" style="background:url(http://www.furtadosonline.com/uploads/category/2014/Dec/computer_music_1417500397.jpg) no-repeat bottom right #fff;height:380px;">
+                <div class="device-name">
+                    <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                    	<tbody><tr>
+			<td valign="top" width="25%">
+				<p class="f34"><a href="http://www.furtadosonline.com/Computer-music-201--0"><b>Computer Music</b></a></p>
+			                
+                
+             </td>
 	
-				</ul>
-			  </div>
+	        			<!-- Promotional -->
+                        <td valign="top" align="right" width="25%" class="f35">
+                          	
+                        </td>
+                        
+        				</tr>							
+                    </tbody></table>
+                </div>
+                
+                <div class="clear"></div>
+                </div>
+            </div>
+        </li>
+        
+    </ul>
+</li>
 
-			  <div class="CL"></div>
-			</div>
+<li class="nav_11" id="idTop2">
+    <a class="dropdown-toggle active" data-toggle="dropdown" href="#">Music Books</a>
+    <div class="underline"></div>
+    <div class="shadow" style="display:none; height:400px;"></div>
+    <ul class="dropdown-menu" role="menu" style="height:390px;">
+        <li class="dropdown-submenu" data-submenu-id="Cat_106">
+            <a href="http://www.furtadosonline.com/Examination-music-106--0">Examination Music</a>
+            <div id="Cat_106" class="popover">
+                <div class="popover-left" style="background:url(http://www.furtadosonline.com/uploads/category/2014/Dec/books_back_1418712053.jpg) no-repeat bottom right #fff;height:398px;">
+                <div class="device-name">
+                 	<table border="0" cellpadding="0" cellspacing="0" width="100%">
+                    	<tbody><tr>
+<td valign="top" width="35%">					<p class="c1"><a href="http://www.furtadosonline.com/Trinity-guildhall-1022--0"><b>Trinity Guildhall</b></a></p>
+                    
 		
-			<div id="is_pro" style="display:none">
-			  <div class="FL">
-				<ul class="smlist">
-				  <li><a href="/productlisting-cat/Mixers-406.html">MIXERS</a></li>
-					  <li><a href="/productlisting-cat/Computer-interfaces-407.html">COMPUTER INTERFACES</a></li>
-					  <li><a href="/productlisting-cat/Keyboard-controllers-408.html">KEYBOARD CONTROLLERS</a></li>
-					  <li><a href="/productlisting-cat/Microphones-409.html">MICROPHONES</a></li>
-					  <li><a href="/productlisting-cat/Stage-monitors-404.html">STAGE MONITORS</a></li>
+									<p class="p_style1"><a href="http://www.furtadosonline.com/Drums--percussion--trinity-guildhall-10114--0">Drums &amp; Percussion - Trinity Guildhall</a></p>
+			
+									<p class="p_style1" style="margin-top:10px;"><a href="http://www.furtadosonline.com/Guitar--trinity-guildhall-10019--0">Guitar - Trinity Guildhall</a></p>
+			
+									<p class="p_style1" style="margin-top:10px;"><a href="http://www.furtadosonline.com/Woodwind--trinity-guildhall-10109--0">Woodwind - Trinity Guildhall</a></p>
+			
+									<p class="p_style1" style="margin-top:10px;"><a href="http://www.furtadosonline.com/Strings--trinity-guildhall-10018--0">Strings - Trinity Guildhall</a></p>
+			
+									<p class="p_style1" style="margin-top:10px;"><a href="http://www.furtadosonline.com/Keyboard--trinity-guildhall-10020--0">Keyboard - Trinity Guildhall</a></p>
+			
+									<p class="p_style1" style="margin-top:10px;"><a href="http://www.furtadosonline.com/Brass--trinity-guildhall-10021--0">Brass - Trinity Guildhall</a></p>
+			
+									<p class="p_style1" style="margin-top:10px;"><a href="http://www.furtadosonline.com/Theory--trinity-guildhall-10022--0">Theory - Trinity Guildhall</a></p>
+			
+									<p class="p_style1" style="margin-top:10px;"><a href="http://www.furtadosonline.com/Other-books--trinity-guildhall-10108--0">Other Books - Trinity Guildhall</a></p>
+			
+									<p class="p_style1" style="margin-top:10px;"><a href="http://www.furtadosonline.com/Voice--trinity-guildhall-10110--0">Voice - Trinity Guildhall</a></p>
+			
+									<p class="p_style1" style="margin-top:10px;"><a href="http://www.furtadosonline.com/Piano--trinity-guildhall-10017--0">Piano - Trinity Guildhall</a></p>
+							<p class="c2"><a href="http://www.furtadosonline.com/Trinity-rock--pop-1130--0"><b>Trinity Rock &amp; Pop</b></a></p>
+                    
+						<p class="c1"><a href="http://www.furtadosonline.com/Abrsm-1020--0"><b>Abrsm</b></a></p>
+                    
+		
+									<p class="p_style1"><a href="http://www.furtadosonline.com/Other-books--abrsm-10111--0">Other Books - Abrsm</a></p>
+			
+									<p class="p_style1" style="margin-top:10px;"><a href="http://www.furtadosonline.com/Theory--abrsm-10028--0">Theory - Abrsm</a></p>
+			
+									<p class="p_style1" style="margin-top:10px;"><a href="http://www.furtadosonline.com/Strings--abrsm-10025--0">Strings - Abrsm</a></p>
+		</td><td valign="top" width="35%">					<p class="c1"><a href="http://www.furtadosonline.com/Rockschool-1021--0"><b>Rockschool</b></a></p>
+                    
+	</td>	
+	        			<!-- Promotional -->
+                        <td valign="top" align="right" width="25%" class="f35">
+   
+                    
+                    <a href="http://www.furtadosonline.com/promotion.php?id=104" title="50 % Flat (flat 0% off)">
+						<img src="http://www.furtadosonline.com/uploads/promotion/2014/Nov/50_top_1416917167.jpg" alt="50 % Flat on Examination Book" border="0">
+                        
+                    </a>
+                    
+                          	
+                        </td>
+                        
+        				</tr>							
+                    </tbody></table>	   
+                </div>
+                
+                <div class="clear"></div>
+                </div>
+            </div>
+        </li>
+        <li class="dropdown-submenu" data-submenu-id="Cat_110">
+            <a href="http://www.furtadosonline.com/Keyboard-110--0">Keyboard</a>
+            <div id="Cat_110" class="popover">
+                <div class="popover-left" style="background:url(http://www.furtadosonline.com/uploads/category/2014/Dec/books_back_1418712508.jpg) no-repeat bottom right #fff;height:398px;">
+                <div class="device-name">
+                 	<table border="0" cellpadding="0" cellspacing="0" width="100%">
+                    	<tbody><tr>
+<td valign="top" width="35%">					<p class="c1"><a href="http://www.furtadosonline.com/Piano-1045--0"><b>Piano</b></a></p>
+                    
+		
+									<p class="p_style1"><a href="http://www.furtadosonline.com/Piano-sight-reading-10005--0">Piano Sight Reading</a></p>
+			
+									<p class="p_style1" style="margin-top:10px;"><a href="http://www.furtadosonline.com/Piano-technique--exercises-10004--0">Piano Technique &amp; Exercises</a></p>
+			
+									<p class="p_style1" style="margin-top:10px;"><a href="http://www.furtadosonline.com/Piano-tutors-10003--0">Piano Tutors</a></p>
+							<p class="c2"><a href="http://www.furtadosonline.com/Harp-1133--0"><b>Harp</b></a></p>
+                    
+						<p class="c1"><a href="http://www.furtadosonline.com/Electronic-keyboard-1043--0"><b>Electronic Keyboard</b></a></p>
+                    
+		
+									<p class="p_style1"><a href="http://www.furtadosonline.com/Electronic-keyboard-technique-10007--0">Electronic Keyboard Technique</a></p>
+			
+									<p class="p_style1" style="margin-top:10px;"><a href="http://www.furtadosonline.com/Electronic-keyboard-tutors-10006--0">Electronic Keyboard Tutors</a></p>
+							<p class="c2"><a href="http://www.furtadosonline.com/Piano-chords-1046--0"><b>Piano Chords</b></a></p>
+                    
+						<p class="c1"><a href="http://www.furtadosonline.com/Piano-scales-1047--0"><b>Piano Scales</b></a></p>
+                    
+						<p class="c1"><a href="http://www.furtadosonline.com/Organ-1044--0"><b>Organ</b></a></p>
+                    
+						<p class="c1"><a href="http://www.furtadosonline.com/Accordion-1042--0"><b>Accordion</b></a></p>
+                    
+	</td>	
+	        			<!-- Promotional -->
+                        <td valign="top" align="right" width="25%" class="f35">
+                          	
+                        </td>
+                        
+        				</tr>							
+                    </tbody></table>	   
+                </div>
+                
+                <div class="clear"></div>
+                </div>
+            </div>
+        </li>
+        <li class="dropdown-submenu" data-submenu-id="Cat_107">
+            <a href="http://www.furtadosonline.com/Fretted-strings-107--0">Fretted Strings</a>
+            <div id="Cat_107" class="popover">
+                <div class="popover-left" style="background:url(http://www.furtadosonline.com/uploads/category/2014/Dec/books_back_1418712566.jpg) no-repeat bottom right #fff;height:398px;">
+                <div class="device-name">
+                 	<table border="0" cellpadding="0" cellspacing="0" width="100%">
+                    	<tbody><tr>
+<td valign="top" width="35%">					<p class="c1"><a href="http://www.furtadosonline.com/Guitar-1027--0"><b>Guitar</b></a></p>
+                    
+		
+									<p class="p_style1"><a href="http://www.furtadosonline.com/Guitar-technique-10061--0">Guitar Technique</a></p>
+			
+									<p class="p_style1" style="margin-top:10px;"><a href="http://www.furtadosonline.com/Guitar-tutors-10060--0">Guitar Tutors</a></p>
+							<p class="c2"><a href="http://www.furtadosonline.com/Classical-guitar-1026--0"><b>Classical Guitar</b></a></p>
+                    
+		
+									<p class="p_style1"><a href="http://www.furtadosonline.com/Classical-guitar--technqiue-10059--0">Classical Guitar - Technqiue</a></p>
+			
+									<p class="p_style1" style="margin-top:10px;"><a href="http://www.furtadosonline.com/Classical-guitar-tutors-10058--0">Classical Guitar Tutors</a></p>
+							<p class="c2"><a href="http://www.furtadosonline.com/Bassm-1025--0"><b>Bassm</b></a></p>
+                    
+		
+									<p class="p_style1"><a href="http://www.furtadosonline.com/Bass-guitar-technique-10063--0">Bass Guitar Technique</a></p>
+			
+									<p class="p_style1" style="margin-top:10px;"><a href="http://www.furtadosonline.com/Bass-guitar-tutors-10062--0">Bass Guitar Tutors</a></p>
+							<p class="c2"><a href="http://www.furtadosonline.com/Guitar-chords--arpeggios-1028--0"><b>Guitar Chords &amp; Arpeggios</b></a></p>
+                    
+						<p class="c1"><a href="http://www.furtadosonline.com/Guitar-scales-1029--0"><b>Guitar Scales</b></a></p>
+                    
+						<p class="c1"><a href="http://www.furtadosonline.com/Mandolin-1030--0"><b>Mandolin</b></a></p>
+                    
+						<p class="c1"><a href="http://www.furtadosonline.com/Banjo--ukelele-1024--0"><b>Banjo &amp; Ukelele</b></a></p>
+                    
+	</td>	
+	        			<!-- Promotional -->
+                        <td valign="top" align="right" width="25%" class="f35">
+                          	
+                        </td>
+                        
+        				</tr>							
+                    </tbody></table>	   
+                </div>
+                
+                <div class="clear"></div>
+                </div>
+            </div>
+        </li>
+        <li class="dropdown-submenu" data-submenu-id="Cat_101">
+            <a href="http://www.furtadosonline.com/Bowed-strings-101--0">Bowed Strings</a>
+            <div id="Cat_101" class="popover">
+                <div class="popover-left" style="background:url(http://www.furtadosonline.com/uploads/category/2014/Dec/books_back_1418712566.jpg) no-repeat bottom right #fff;height:398px;">
+                <div class="device-name">
+                 	<table border="0" cellpadding="0" cellspacing="0" width="100%">
+                    	<tbody><tr>
+<td valign="top" width="35%">					<p class="c1"><a href="http://www.furtadosonline.com/Violin-1004--0"><b>Violin</b></a></p>
+                    
+		
+									<p class="p_style1"><a href="http://www.furtadosonline.com/Violin-technique-10065--0">Violin Technique</a></p>
+			
+									<p class="p_style1" style="margin-top:10px;"><a href="http://www.furtadosonline.com/Violin-tutors-10064--0">Violin Tutors</a></p>
+							<p class="c2"><a href="http://www.furtadosonline.com/Viola-1003--0"><b>Viola</b></a></p>
+                    
+						<p class="c1"><a href="http://www.furtadosonline.com/Cello-1001--0"><b>Cello</b></a></p>
+                    
+						<p class="c1"><a href="http://www.furtadosonline.com/Double-bass-1002--0"><b>Double Bass</b></a></p>
+                    
+	</td>	
+	        			<!-- Promotional -->
+                        <td valign="top" align="right" width="25%" class="f35">
+                          	
+                        </td>
+                        
+        				</tr>							
+                    </tbody></table>	   
+                </div>
+                
+                <div class="clear"></div>
+                </div>
+            </div>
+        </li>
+        <li class="dropdown-submenu" data-submenu-id="Cat_102">
+            <a href="http://www.furtadosonline.com/Drums--percussion-102--0">Drums &amp; Percussion</a>
+            <div id="Cat_102" class="popover">
+                <div class="popover-left" style="background:url(http://www.furtadosonline.com/uploads/category/2014/Dec/books_back_1418712566.jpg) no-repeat bottom right #fff;height:398px;">
+                <div class="device-name">
+                 	<table border="0" cellpadding="0" cellspacing="0" width="100%">
+                    	<tbody><tr>
+<td valign="top" width="35%">					<p class="c1"><a href="http://www.furtadosonline.com/Drum-tutor-1007--0"><b>Drum Tutor</b></a></p>
+                    
+						<p class="c1"><a href="http://www.furtadosonline.com/Drum-technique-1006--0"><b>Drum Technique</b></a></p>
+                    
+						<p class="c1"><a href="http://www.furtadosonline.com/Percussion-1008--0"><b>Percussion</b></a></p>
+                    
+	</td>	
+	        			<!-- Promotional -->
+                        <td valign="top" align="right" width="25%" class="f35">
+                          	
+                        </td>
+                        
+        				</tr>							
+                    </tbody></table>	   
+                </div>
+                
+                <div class="clear"></div>
+                </div>
+            </div>
+        </li>
+        <li class="dropdown-submenu" data-submenu-id="Cat_114">
+            <a href="http://www.furtadosonline.com/Voice-114--0">Voice</a>
+            <div id="Cat_114" class="popover">
+                <div class="popover-left" style="background:url(http://www.furtadosonline.com/uploads/category/2014/Dec/books_back_1418712566.jpg) no-repeat bottom right #fff;height:398px;">
+                <div class="device-name">
+                 	<table border="0" cellpadding="0" cellspacing="0" width="100%">
+                    	<tbody><tr>
+<td valign="top" width="35%">					<p class="c1"><a href="http://www.furtadosonline.com/Voice-tutors-1056--0"><b>Voice Tutors</b></a></p>
+                    
+						<p class="c1"><a href="http://www.furtadosonline.com/Voice-technique-1055--0"><b>Voice Technique</b></a></p>
+                    
+						<p class="c1"><a href="http://www.furtadosonline.com/Choral-1054--0"><b>Choral</b></a></p>
+                    
+		
+									<p class="p_style1"><a href="http://www.furtadosonline.com/Choral-technique-10071--0">Choral Technique</a></p>
+			
+									<p class="p_style1" style="margin-top:10px;"><a href="http://www.furtadosonline.com/Choral-scores-10070--0">Choral Scores</a></p>
+			
+									<p class="p_style1" style="margin-top:10px;"><a href="http://www.furtadosonline.com/Choral-repertoire-10069--0">Choral Repertoire</a></p>
+		</td>	
+	        			<!-- Promotional -->
+                        <td valign="top" align="right" width="25%" class="f35">
+                          	
+                        </td>
+                        
+        				</tr>							
+                    </tbody></table>	   
+                </div>
+                
+                <div class="clear"></div>
+                </div>
+            </div>
+        </li>
+        <li class="dropdown-submenu" data-submenu-id="Cat_113">
+            <a href="http://www.furtadosonline.com/Repertoire--albums-113--0">Repertoire &amp; Albums</a>
+            <div id="Cat_113" class="popover">
+                <div class="popover-left" style="background:url(http://www.furtadosonline.com/uploads/category/2014/Dec/books_back_1418712566.jpg) no-repeat bottom right #fff;height:398px;">
+                <div class="device-name">
+                 	<table border="0" cellpadding="0" cellspacing="0" width="100%">
+                    	<tbody><tr>
+<td valign="top" width="35%">					<p class="c1"><a href="http://www.furtadosonline.com/Classical-1049--0"><b>Classical</b></a></p>
+                    
+		
+									<p class="p_style1"><a href="http://www.furtadosonline.com/Voice-collections--repertoire-10034--0">Voice Collections &amp; Repertoire</a></p>
+			
+									<p class="p_style1" style="margin-top:10px;"><a href="http://www.furtadosonline.com/Classical-guitar-collections--repertoire-10033--0">Classical Guitar Collections &amp; Repertoire</a></p>
+			
+									<p class="p_style1" style="margin-top:10px;"><a href="http://www.furtadosonline.com/Piano-collections--repertoire-10032--0">Piano Collections &amp; Repertoire</a></p>
+			
+									<p class="p_style1" style="margin-top:10px;"><a href="http://www.furtadosonline.com/Wind-collections--repertoire-10031--0">Wind Collections &amp; Repertoire</a></p>
+			
+									<p class="p_style1" style="margin-top:10px;"><a href="http://www.furtadosonline.com/Violin-collections--repertoire-10029--0">Violin Collections &amp; Repertoire</a></p>
+			
+									<p class="p_style1" style="margin-top:10px;"><a href="http://www.furtadosonline.com/Strings-collections--repertoire-10030--0">Strings Collections &amp; Repertoire</a></p>
+							<p class="c2"><a href="http://www.furtadosonline.com/Personalitierecorders--groups-1052--0"><b>Personalitierecorders &amp; Groups</b></a></p>
+                    
+		
+									<p class="p_style1"><a href="http://www.furtadosonline.com/Latin-personalities-10041--0">Latin Personalities</a></p>
+			
+									<p class="p_style1" style="margin-top:10px;"><a href="http://www.furtadosonline.com/Metal-personalities-10040--0">Metal Personalities</a></p>
+			
+									<p class="p_style1" style="margin-top:10px;"><a href="http://www.furtadosonline.com/Country-personalities-10039--0">Country Personalities</a></p>
+			
+									<p class="p_style1" style="margin-top:10px;"><a href="http://www.furtadosonline.com/R-b-personalities-10038--0">R&amp;b Personalities</a></p>
+			
+									<p class="p_style1" style="margin-top:10px;"><a href="http://www.furtadosonline.com/Pop-personalities-10036--0">Pop Personalities</a></p>
+			
+									<p class="p_style1" style="margin-top:10px;"><a href="http://www.furtadosonline.com/Rock-personalities-10035--0">Rock Personalities</a></p>
+			
+									<p class="p_style1" style="margin-top:10px;"><a href="http://www.furtadosonline.com/Rap--hip-hop-personalities-10042--0">Rap &amp; Hip-hop Personalities</a></p>
+			
+									<p class="p_style1" style="margin-top:10px;"><a href="http://www.furtadosonline.com/Jazz-personalities-10037--0">Jazz Personalities</a></p>
+		</td><td valign="top" width="35%">					<p class="c1"><a href="http://www.furtadosonline.com/Collections--folios-1050--0"><b>Collections &amp; Folios</b></a></p>
+                    
+		
+									<p class="p_style1"><a href="http://www.furtadosonline.com/Violin--string-folios-10113--0">Violin &amp; String Folios</a></p>
+			
+									<p class="p_style1" style="margin-top:10px;"><a href="http://www.furtadosonline.com/Love-song-folios-10049--0">Love Song Folios</a></p>
+			
+									<p class="p_style1" style="margin-top:10px;"><a href="http://www.furtadosonline.com/Children-s-folios-10043--0">Children's Folios</a></p>
+			
+									<p class="p_style1" style="margin-top:10px;"><a href="http://www.furtadosonline.com/Christmas-folios-10044--0">Christmas Folios</a></p>
+			
+									<p class="p_style1" style="margin-top:10px;"><a href="http://www.furtadosonline.com/Country-folios-10045--0">Country Folios</a></p>
+			
+									<p class="p_style1" style="margin-top:10px;"><a href="http://www.furtadosonline.com/Folk-music-folios-10046--0">Folk Music Folios</a></p>
+			
+									<p class="p_style1" style="margin-top:10px;"><a href="http://www.furtadosonline.com/Latin-folios-10048--0">Latin Folios</a></p>
+			
+									<p class="p_style1" style="margin-top:10px;"><a href="http://www.furtadosonline.com/Metal-folios-10050--0">Metal Folios</a></p>
+			
+									<p class="p_style1" style="margin-top:10px;"><a href="http://www.furtadosonline.com/Mixed-folios-10051--0">Mixed Folios</a></p>
+			
+									<p class="p_style1" style="margin-top:10px;"><a href="http://www.furtadosonline.com/Pop-folios-10052--0">Pop Folios</a></p>
+			
+									<p class="p_style1" style="margin-top:10px;"><a href="http://www.furtadosonline.com/R-b-folios-10053--0">R&amp;b Folios</a></p>
+			
+									<p class="p_style1" style="margin-top:10px;"><a href="http://www.furtadosonline.com/Rock-folios-10055--0">Rock Folios</a></p>
+			
+									<p class="p_style1" style="margin-top:10px;"><a href="http://www.furtadosonline.com/Sacred-folios-10056--0">Sacred Folios</a></p>
+			
+									<p class="p_style1" style="margin-top:10px;"><a href="http://www.furtadosonline.com/Wind-instrument-folios-10057--0">Wind Instrument Folios</a></p>
+			
+									<p class="p_style1" style="margin-top:10px;"><a href="http://www.furtadosonline.com/Jazz-folios-10047--0">Jazz Folios</a></p>
+		</td><td valign="top" width="35%">					<p class="c1"><a href="http://www.furtadosonline.com/Movie--stage-1051--0"><b>Movie &amp; Stage</b></a></p>
+                    
+	</td>	
+	        			<!-- Promotional -->
+                        <td valign="top" align="right" width="25%" class="f35">
+                          	
+                        </td>
+                        
+        				</tr>							
+                    </tbody></table>	   
+                </div>
+                
+                <div class="clear"></div>
+                </div>
+            </div>
+        </li>
+        <li class="dropdown-submenu" data-submenu-id="Cat_115">
+            <a href="http://www.furtadosonline.com/Wind-115--0">Wind</a>
+            <div id="Cat_115" class="popover">
+                <div class="popover-left" style="background:url(http://www.furtadosonline.com/uploads/category/2014/Dec/books_back_1418712566.jpg) no-repeat bottom right #fff;height:398px;">
+                <div class="device-name">
+                 	<table border="0" cellpadding="0" cellspacing="0" width="100%">
+                    	<tbody><tr>
+<td valign="top" width="35%">					<p class="c1"><a href="http://www.furtadosonline.com/Woodwind-1060--0"><b>Woodwind</b></a></p>
+                    
+		
+									<p class="p_style1"><a href="http://www.furtadosonline.com/Oboe-10011--0">Oboe</a></p>
+			
+									<p class="p_style1" style="margin-top:10px;"><a href="http://www.furtadosonline.com/Flute-10008--0">Flute</a></p>
+			
+									<p class="p_style1" style="margin-top:10px;"><a href="http://www.furtadosonline.com/Saxophone-10010--0">Saxophone</a></p>
+			
+									<p class="p_style1" style="margin-top:10px;"><a href="http://www.furtadosonline.com/Clarinet-10009--0">Clarinet</a></p>
+							<p class="c2"><a href="http://www.furtadosonline.com/Brass-1058--0"><b>Brass</b></a></p>
+                    
+		
+									<p class="p_style1"><a href="http://www.furtadosonline.com/Other-brass-instruments-10112--0">Other Brass Instruments</a></p>
+			
+									<p class="p_style1" style="margin-top:10px;"><a href="http://www.furtadosonline.com/Tuba-10016--0">Tuba</a></p>
+			
+									<p class="p_style1" style="margin-top:10px;"><a href="http://www.furtadosonline.com/Trumpet-10012--0">Trumpet</a></p>
+			
+									<p class="p_style1" style="margin-top:10px;"><a href="http://www.furtadosonline.com/Trombone-10013--0">Trombone</a></p>
+							<p class="c2"><a href="http://www.furtadosonline.com/Harmonica-1059--0"><b>Harmonica</b></a></p>
+                    
+	</td>	
+	        			<!-- Promotional -->
+                        <td valign="top" align="right" width="25%" class="f35">
+                          	
+                        </td>
+                        
+        				</tr>							
+                    </tbody></table>	   
+                </div>
+                
+                <div class="clear"></div>
+                </div>
+            </div>
+        </li>
+        <li class="dropdown-submenu" data-submenu-id="Cat_108">
+            <a href="http://www.furtadosonline.com/General-108--0">General</a>
+            <div id="Cat_108" class="popover">
+                <div class="popover-left" style="background:url(http://www.furtadosonline.com/uploads/category/2014/Dec/books_back_1418712566.jpg) no-repeat bottom right #fff;height:398px;">
+                <div class="device-name">
+                 	<table border="0" cellpadding="0" cellspacing="0" width="100%">
+                    	<tbody><tr>
+<td valign="top" width="35%">					<p class="c1"><a href="http://www.furtadosonline.com/Theory-1040--0"><b>Theory</b></a></p>
+                    
+		
+									<p class="p_style1"><a href="http://www.furtadosonline.com/Textbooks--theory-10002--0">Textbooks - Theory</a></p>
+			
+									<p class="p_style1" style="margin-top:10px;"><a href="http://www.furtadosonline.com/Workbooks--theory-10001--0">Workbooks - Theory</a></p>
+							<p class="c2"><a href="http://www.furtadosonline.com/Conducting-1036--0"><b>Conducting</b></a></p>
+                    
+						<p class="c1"><a href="http://www.furtadosonline.com/Aural-training-1033--0"><b>Aural Training</b></a></p>
+                    
+						<p class="c1"><a href="http://www.furtadosonline.com/Textbooks-1039--0"><b>Textbooks</b></a></p>
+                    
+						<p class="c1"><a href="http://www.furtadosonline.com/Composing--arranging-1035--0"><b>Composing &amp; Arranging</b></a></p>
+                    
+						<p class="c1"><a href="http://www.furtadosonline.com/Improvisation-1041--0"><b>Improvisation</b></a></p>
+                    
+						<p class="c1"><a href="http://www.furtadosonline.com/Biographies-1034--0"><b>Biographies</b></a></p>
+                    
+						<p class="c1"><a href="http://www.furtadosonline.com/Analysis-1032--0"><b>Analysis</b></a></p>
+                    
+						<p class="c1"><a href="http://www.furtadosonline.com/Repairs--maintenance-1037--0"><b>Repairs &amp; Maintenance</b></a></p>
+                    
+						<p class="c1"><a href="http://www.furtadosonline.com/Technology-1038--0"><b>Technology</b></a></p>
+                    
+	</td>	
+	        			<!-- Promotional -->
+                        <td valign="top" align="right" width="25%" class="f35">
+                          	
+                        </td>
+                        
+        				</tr>							
+                    </tbody></table>	   
+                </div>
+                
+                <div class="clear"></div>
+                </div>
+            </div>
+        </li>
+        <li class="dropdown-submenu" data-submenu-id="Cat_103">
+            <a href="http://www.furtadosonline.com/Educational-103--0">Educational</a>
+            <div id="Cat_103" class="popover">
+                <div class="popover-left" style="background:url(http://www.furtadosonline.com/uploads/category/2014/Dec/books_back_1418712566.jpg) no-repeat bottom right #fff;height:398px;">
+                <div class="device-name">
+                 	<table border="0" cellpadding="0" cellspacing="0" width="100%">
+                    	<tbody><tr>
+<td valign="top" width="35%">					<p class="c1"><a href="http://www.furtadosonline.com/Recorder-1012--0"><b>Recorder</b></a></p>
+                    
+						<p class="c1"><a href="http://www.furtadosonline.com/Operettas-1011--0"><b>Operettas</b></a></p>
+                    
+						<p class="c1"><a href="http://www.furtadosonline.com/Games--activities-1010--0"><b>Games &amp; Activities</b></a></p>
+                    
+						<p class="c1"><a href="http://www.furtadosonline.com/Teaching-children-1099--0"><b>Teaching Children</b></a></p>
+                    
+	</td>	
+	        			<!-- Promotional -->
+                        <td valign="top" align="right" width="25%" class="f35">
+                          	
+                        </td>
+                        
+        				</tr>							
+                    </tbody></table>	   
+                </div>
+                
+                <div class="clear"></div>
+                </div>
+            </div>
+        </li>
+        <li class="dropdown-submenu" data-submenu-id="Cat_105">
+            <a href="http://www.furtadosonline.com/Ensemble-105--0">Ensemble</a>
+            <div id="Cat_105" class="popover">
+                <div class="popover-left" style="background:url(http://www.furtadosonline.com/uploads/category/2014/Dec/books_back_1418712566.jpg) no-repeat bottom right #fff;height:398px;">
+                <div class="device-name">
+                 	<table border="0" cellpadding="0" cellspacing="0" width="100%">
+                    	<tbody><tr>
+<td valign="top" width="35%">					<p class="c1"><a href="http://www.furtadosonline.com/Duets-1015--0"><b>Duets</b></a></p>
+                    
+		
+									<p class="p_style1"><a href="http://www.furtadosonline.com/Wind-duets-10068--0">Wind Duets</a></p>
+			
+									<p class="p_style1" style="margin-top:10px;"><a href="http://www.furtadosonline.com/String-duets-10067--0">String Duets</a></p>
+			
+									<p class="p_style1" style="margin-top:10px;"><a href="http://www.furtadosonline.com/Piano-duets-10066--0">Piano Duets</a></p>
+							<p class="c2"><a href="http://www.furtadosonline.com/Quartets-1017--0"><b>Quartets</b></a></p>
+                    
+						<p class="c1"><a href="http://www.furtadosonline.com/Trios-1018--0"><b>Trios</b></a></p>
+                    
+						<p class="c1"><a href="http://www.furtadosonline.com/Band-music-1014--0"><b>Band Music</b></a></p>
+                    
+						<p class="c1"><a href="http://www.furtadosonline.com/Orchestral-music-1016--0"><b>Orchestral Music</b></a></p>
+                    
+	</td>	
+	        			<!-- Promotional -->
+                        <td valign="top" align="right" width="25%" class="f35">
+                          	
+                        </td>
+                        
+        				</tr>							
+                    </tbody></table>	   
+                </div>
+                
+                <div class="clear"></div>
+                </div>
+            </div>
+        </li>
+        <li class="dropdown-submenu" data-submenu-id="Cat_104">
+            <a href="http://www.furtadosonline.com/English-speech-drama-104--0">English Speech/drama</a>
+            <div id="Cat_104" class="popover">
+                <div class="popover-left" style="background:url(http://www.furtadosonline.com/uploads/category/2014/Dec/books_back_1418712566.jpg) no-repeat bottom right #fff;height:398px;">
+                <div class="device-name">
+                 	<table border="0" cellpadding="0" cellspacing="0" width="100%">
+                    	<tbody><tr>
+           
+            <td valign="top" width="25%">
+				<p class="f34"><a href="http://www.furtadosonline.com/English-speech-drama-104--0"><b>English Speech/drama</b></a></p>	
+				
+			                
+                
+             </td>
+            
 	
-				</ul>
-			  </div>
+	        			<!-- Promotional -->
+                        <td valign="top" align="right" width="25%" class="f35">
+                          	
+                        </td>
+                        
+        				</tr>							
+                    </tbody></table>	   
+                </div>
+                
+                <div class="clear"></div>
+                </div>
+            </div>
+        </li>
+        <li class="dropdown-submenu" data-submenu-id="Cat_111">
+            <a href="http://www.furtadosonline.com/Miscellaneous-books-111--0">Miscellaneous Books</a>
+            <div id="Cat_111" class="popover">
+                <div class="popover-left" style="background:url(http://www.furtadosonline.com/uploads/category/2014/Dec/books_back_1418712566.jpg) no-repeat bottom right #fff;height:398px;">
+                <div class="device-name">
+                 	<table border="0" cellpadding="0" cellspacing="0" width="100%">
+                    	<tbody><tr>
+           
+            <td valign="top" width="25%">
+				<p class="f34"><a href="http://www.furtadosonline.com/Miscellaneous-books-111--0"><b>Miscellaneous Books</b></a></p>	
+				
+			                
+                
+             </td>
+            
+	
+	        			<!-- Promotional -->
+                        <td valign="top" align="right" width="25%" class="f35">
+                          	
+                        </td>
+                        
+        				</tr>							
+                    </tbody></table>	   
+                </div>
+                
+                <div class="clear"></div>
+                </div>
+            </div>
+        </li>
+        <li class="dropdown-submenu" data-submenu-id="Cat_109">
+            <a href="http://www.furtadosonline.com/Indian-instruments-109--0">Indian Instruments</a>
+            <div id="Cat_109" class="popover">
+                <div class="popover-left" style="background:url(http://www.furtadosonline.com/uploads/category/2014/Dec/books_back_1418712566.jpg) no-repeat bottom right #fff;height:398px;">
+                <div class="device-name">
+                 	<table border="0" cellpadding="0" cellspacing="0" width="100%">
+                    	<tbody><tr>
+           
+            <td valign="top" width="25%">
+				<p class="f34"><a href="http://www.furtadosonline.com/Indian-instruments-109--0"><b>Indian Instruments</b></a></p>	
+				
+			                
+                
+             </td>
+            
+	
+	        			<!-- Promotional -->
+                        <td valign="top" align="right" width="25%" class="f35">
+                          	
+                        </td>
+                        
+        				</tr>							
+                    </tbody></table>	   
+                </div>
+                
+                <div class="clear"></div>
+                </div>
+            </div>
+        </li>
+        <li class="dropdown-submenu" data-submenu-id="Cat_112">
+            <a href="http://www.furtadosonline.com/Music-magazines-112--0">Music Magazines</a>
+            <div id="Cat_112" class="popover">
+                <div class="popover-left" style="background:url(http://www.furtadosonline.com/uploads/category/2014/Dec/books_back_1418712566.jpg) no-repeat bottom right #fff;height:398px;">
+                <div class="device-name">
+                 	<table border="0" cellpadding="0" cellspacing="0" width="100%">
+                    	<tbody><tr>
+           
+            <td valign="top" width="25%">
+				<p class="f34"><a href="http://www.furtadosonline.com/Music-magazines-112--0"><b>Music Magazines</b></a></p>	
+				
+			                
+                
+             </td>
+            
+	
+	        			<!-- Promotional -->
+                        <td valign="top" align="right" width="25%" class="f35">
+                          	
+                        </td>
+                        
+        				</tr>							
+                    </tbody></table>	   
+                </div>
+                
+                <div class="clear"></div>
+                </div>
+            </div>
+        </li>
+        
+    </ul>
+</li>
 
-			  <div class="CL"></div>
-			</div>
-      </div>
-      <div class="FR"><img src="/images/tcurv2.jpg" width="13" height="83" alt=""></div>
-      <div class="CL"></div>
-    </div>
-  </div>
-</div>	<div style="background:#CC0E2A; padding:3px 7px 8px 7px;">
-		<div class="PB5 PL5 PR5" style="width:865px;">
-  <div class="FL w_11">
-    <a href="/" class="w_11"><u>Home</u></a> &nbsp;»&nbsp;<label class="w_11">Privacy Policy</label>  </div>
-  <div class="CL"></div>
-</div>		<div style="background:#fff; width:986px;">
-			<div style="background:url(/images/wcurv1.gif) no-repeat left #fff;height:8px;"><img src="/images/wcurv2.gif" width="8" height="8" align="right" alt=""></div>
-			<table cellpadding="0" cellspacing="0" border="0"><tbody><tr valign="top">
-				<td width="198" style="border-right:1px #ccc solid;">
-					<div style="padding:0px 5px 15px 7px;">
-<div style="background:url(/images/visitbg.jpg) no-repeat; width:186px; height:73px;">
-  <div style="padding:37px 10px 0px 10px;">
-<script language="javascript" type="text/javascript">
-function showstore(val){	
-	if(val == 0){	
-		//window.location = 'storelisting.php';
-		window.location = '/store-listing.html';
-		return true;
-	}else{
-		//window.location = 'storelisting_city.php?id='+val;
+<li class="nav_11" id="idTop3">
+<a class="dropdown-toggle active" data-toggle="dropdown" href="#">Pro Audio</a>
+<div class="underline"></div>
+<div class="shadow" style=" height:478px; display:none;"></div>
+    <ul class="dropdown-menu" role="menu" style="height:468px;">
+        <li class="dropdown-submenu" data-submenu-id="Cat_405">
+            <a href="http://www.furtadosonline.com/Desktop-monitors-405--0">Desktop Monitors</a>
+            <div id="Cat_405" class="popover">
+                <div class="popover-left" style="background:url(http://www.furtadosonline.com/uploads/category/2014/Nov/stage_monitors_1416832544.jpg) no-repeat bottom right #fff;height:476px;">
+                <div class="device-name">
+                 	<table border="0" cellpadding="0" cellspacing="0" width="100%" style="overflow:hidden!important;">
+                    	<tbody><tr>
+            <td valign="top" width="25%">
+				<p class="f34"><a href=""><b>Desktop Monitors</b></a></p>	
+			                
+                
+             </td>
+            
+	
+	        			<!-- Promotional -->
+                        <td valign="top" align="right" width="25%" class="f35">
+                          	
+                        </td>
+                        
+        				</tr>							
+                    </tbody></table>   
+                </div>
+                
+                <div class="clear"></div>
+                </div>
+            </div>
+        </li>
+        <li class="dropdown-submenu" data-submenu-id="Cat_407">
+            <a href="http://www.furtadosonline.com/Computer-interfaces-407--0">Computer Interfaces</a>
+            <div id="Cat_407" class="popover">
+                <div class="popover-left" style="background:url(http://www.furtadosonline.com/uploads/category/2014/Nov/computer_interfaces_1416828399.jpg) no-repeat bottom right #fff;height:476px;">
+                <div class="device-name">
+                 	<table border="0" cellpadding="0" cellspacing="0" width="100%" style="overflow:hidden!important;">
+                    	<tbody><tr>
+            <td valign="top" width="25%">
+				<p class="f34"><a href=""><b>Computer Interfaces</b></a></p>	
+			                
+                
+             </td>
+            
+	
+	        			<!-- Promotional -->
+                        <td valign="top" align="right" width="25%" class="f35">
+                          	
+                        </td>
+                        
+        				</tr>							
+                    </tbody></table>   
+                </div>
+                
+                <div class="clear"></div>
+                </div>
+            </div>
+        </li>
+        <li class="dropdown-submenu" data-submenu-id="Cat_409">
+            <a href="http://www.furtadosonline.com/Microphones-409--0">Microphones</a>
+            <div id="Cat_409" class="popover">
+                <div class="popover-left" style="background:url(http://www.furtadosonline.com/uploads/category/2014/Nov/microphone_1416828490.jpg) no-repeat bottom right #fff;height:476px;">
+                <div class="device-name">
+                 	<table border="0" cellpadding="0" cellspacing="0" width="100%" style="overflow:hidden!important;">
+                    	<tbody><tr>
+<td valign="top" width="25%">					<p class="sub-menu11"><a href="http://www.furtadosonline.com/Wired--vocal-4014--0"><b>Wired - Vocal</b></a></p>
+						<p class="sub-menu11"><a href="http://www.furtadosonline.com/Wired--instrument-4015--0"><b>Wired - Instrument</b></a></p>
+						<p class="sub-menu11"><a href="http://www.furtadosonline.com/Wireless--vocal-4016--0"><b>Wireless - Vocal</b></a></p>
+						<p class="sub-menu11"><a href="http://www.furtadosonline.com/Wireless--instrument-4017--0"><b>Wireless - Instrument</b></a></p>
+						<p class="sub-menu11"><a href="http://www.furtadosonline.com/Recording-4018--0"><b>Recording</b></a></p>
+	</td>	
+	        			<!-- Promotional -->
+                        <td valign="top" align="right" width="25%" class="f35">
+                          	
+                        </td>
+                        
+        				</tr>							
+                    </tbody></table>   
+                </div>
+                
+                <div class="clear"></div>
+                </div>
+            </div>
+        </li>
+        <li class="dropdown-submenu" data-submenu-id="Cat_410">
+            <a href="http://www.furtadosonline.com/Headphones-410--0">Headphones</a>
+            <div id="Cat_410" class="popover">
+                <div class="popover-left" style="background:url(http://www.furtadosonline.com/uploads/category/2014/Nov/headphones2_1416828566.jpg) no-repeat bottom right #fff;height:476px;">
+                <div class="device-name">
+                 	<table border="0" cellpadding="0" cellspacing="0" width="100%" style="overflow:hidden!important;">
+                    	<tbody><tr>
+            <td valign="top" width="25%">
+				<p class="f34"><a href=""><b>Headphones</b></a></p>	
+			                
+                
+             </td>
+            
+	
+	        			<!-- Promotional -->
+                        <td valign="top" align="right" width="25%" class="f35">
+                          	
+                        </td>
+                        
+        				</tr>							
+                    </tbody></table>   
+                </div>
+                
+                <div class="clear"></div>
+                </div>
+            </div>
+        </li>
+        <li class="dropdown-submenu" data-submenu-id="Cat_412">
+            <a href="http://www.furtadosonline.com/Cables--accessories-412--0">Cables &amp; Accessories</a>
+            <div id="Cat_412" class="popover">
+                <div class="popover-left" style="background:url(http://www.furtadosonline.com/uploads/category/2014/Jul/pro_1396867122_1404298013.jpg) no-repeat bottom right #fff;height:476px;">
+                <div class="device-name">
+                 	<table border="0" cellpadding="0" cellspacing="0" width="100%" style="overflow:hidden!important;">
+                    	<tbody><tr>
+<td valign="top" width="25%">					<p class="sub-menu11"><a href="http://www.furtadosonline.com/Cables--connectors-4019--0"><b>Cables &amp; Connectors</b></a></p>
+						<p class="sub-menu11"><a href="http://www.furtadosonline.com/Stands-4020--0"><b>Stands</b></a></p>
 		
-		$.post("/findCity.php", { 'val':val},
-		function(data){		//alert(data);
-			window.location = '/stores/'+data+'-'+val+'.html';;	
-		});	
+									<p class="p_style1"><a href="">Other Stands</a></p>
+			
+									<p class="p_style1" style="margin-top:10px;"><a href="">Speaker Stands, Mounts &amp; Rigs</a></p>
+			
+									<p class="p_style1" style="margin-top:10px;"><a href="">Microphone Stands</a></p>
+							<p class="sub-menu11"><a href="http://www.furtadosonline.com/Misc-accessories-4021--0"><b>Misc Accessories</b></a></p>
+	</td>	
+	        			<!-- Promotional -->
+                        <td valign="top" align="right" width="25%" class="f35">
+                          	
+                        </td>
+                        
+        				</tr>							
+                    </tbody></table>   
+                </div>
+                
+                <div class="clear"></div>
+                </div>
+            </div>
+        </li>
+        <li class="dropdown-submenu" data-submenu-id="Cat_414">
+            <a href="http://www.furtadosonline.com/Portable-recording-devices-414--0">Portable Recording Devices</a>
+            <div id="Cat_414" class="popover">
+                <div class="popover-left" style="background:url(http://www.furtadosonline.com/uploads/category/2014/Jul/pro_1396867122_1404298013.jpg) no-repeat bottom right #fff;height:476px;">
+                <div class="device-name">
+                 	<table border="0" cellpadding="0" cellspacing="0" width="100%" style="overflow:hidden!important;">
+                    	<tbody><tr>
+            <td valign="top" width="25%">
+				<p class="f34"><a href=""><b>Portable Recording Devices</b></a></p>	
+			                
+                
+             </td>
+            
+	
+	        			<!-- Promotional -->
+                        <td valign="top" align="right" width="25%" class="f35">
+                          	
+                        </td>
+                        
+        				</tr>							
+                    </tbody></table>   
+                </div>
+                
+                <div class="clear"></div>
+                </div>
+            </div>
+        </li>
+        <li class="dropdown-submenu" data-submenu-id="Cat_403">
+            <a href="http://www.furtadosonline.com/Software-403--0">Software</a>
+            <div id="Cat_403" class="popover">
+                <div class="popover-left" style="background:url(http://www.furtadosonline.com/uploads/category/2014/Nov/software_1416828872.jpg) no-repeat bottom right #fff;height:476px;">
+                <div class="device-name">
+                 	<table border="0" cellpadding="0" cellspacing="0" width="100%" style="overflow:hidden!important;">
+                    	<tbody><tr>
+            <td valign="top" width="25%">
+				<p class="f34"><a href=""><b>Software</b></a></p>	
+			                
+                
+             </td>
+            
+	
+	        			<!-- Promotional -->
+                        <td valign="top" align="right" width="25%" class="f35">
+                          	
+                        </td>
+                        
+        				</tr>							
+                    </tbody></table>   
+                </div>
+                
+                <div class="clear"></div>
+                </div>
+            </div>
+        </li>
+        <li class="dropdown-submenu" data-submenu-id="Cat_402">
+            <a href="http://www.furtadosonline.com/Speakers-402--0">Speakers</a>
+            <div id="Cat_402" class="popover">
+                <div class="popover-left" style="background:url(http://www.furtadosonline.com/uploads/category/2014/Nov/speakers_1416828648.jpg) no-repeat bottom right #fff;height:476px;">
+                <div class="device-name">
+                 	<table border="0" cellpadding="0" cellspacing="0" width="100%" style="overflow:hidden!important;">
+                    	<tbody><tr>
+<td valign="top" width="25%">					<p class="sub-menu11"><a href="http://www.furtadosonline.com/Passive-speakers-4002--0"><b>Passive Speakers</b></a></p>
+						<p class="sub-menu11"><a href="http://www.furtadosonline.com/Active-speakers-4001--0"><b>Active Speakers</b></a></p>
+	</td>	
+	        			<!-- Promotional -->
+                        <td valign="top" align="right" width="25%" class="f35">
+                          	
+                        </td>
+                        
+        				</tr>							
+                    </tbody></table>   
+                </div>
+                
+                <div class="clear"></div>
+                </div>
+            </div>
+        </li>
+        <li class="dropdown-submenu" data-submenu-id="Cat_417">
+            <a href="http://www.furtadosonline.com/Dj-417--0">Dj</a>
+            <div id="Cat_417" class="popover">
+                <div class="popover-left" style="background:url(http://www.furtadosonline.com/uploads/category/2014/Nov/dj_1416828701.jpg) no-repeat bottom right #fff;height:476px;">
+                <div class="device-name">
+                 	<table border="0" cellpadding="0" cellspacing="0" width="100%" style="overflow:hidden!important;">
+                    	<tbody><tr>
+<td valign="top" width="25%">					<p class="sub-menu11"><a href="http://www.furtadosonline.com/Dj-production-tools-4013--0"><b>Dj Production Tools</b></a></p>
+	</td>	
+	        			<!-- Promotional -->
+                        <td valign="top" align="right" width="25%" class="f35">
+                          	
+                        </td>
+                        
+        				</tr>							
+                    </tbody></table>   
+                </div>
+                
+                <div class="clear"></div>
+                </div>
+            </div>
+        </li>
+        <li class="dropdown-submenu" data-submenu-id="Cat_419">
+            <a href="http://www.furtadosonline.com/Live-sound-419--0">Live Sound</a>
+            <div id="Cat_419" class="popover">
+                <div class="popover-left" style="background:url(http://www.furtadosonline.com/uploads/category/) no-repeat bottom right #fff;height:476px;">
+                <div class="device-name">
+                 	<table border="0" cellpadding="0" cellspacing="0" width="100%" style="overflow:hidden!important;">
+                    	<tbody><tr>
+<td valign="top" width="25%">					<p class="sub-menu11"><a href="http://www.furtadosonline.com/Amplifiers-4022--0"><b>Amplifiers</b></a></p>
+						<p class="sub-menu11"><a href="http://www.furtadosonline.com/Speakers-4023--0"><b>Speakers</b></a></p>
 		
-		return true;
-	}
+									<p class="p_style1"><a href="">Stage Monitors</a></p>
+			
+									<p class="p_style1" style="margin-top:10px;"><a href="">Analog Mixers</a></p>
+			
+									<p class="p_style1" style="margin-top:10px;"><a href="">Usb Mixers</a></p>
+			
+									<p class="p_style1" style="margin-top:10px;"><a href="">Passive Speakers</a></p>
+			
+									<p class="p_style1" style="margin-top:10px;"><a href="">Active Speakers</a></p>
+							<p class="sub-menu11"><a href="http://www.furtadosonline.com/Mixers-4024--0"><b>Mixers</b></a></p>
+						<p class="sub-menu11"><a href="http://www.furtadosonline.com/Signal-processors-4025--0"><b>Signal Processors</b></a></p>
+						<p class="sub-menu11"><a href="http://www.furtadosonline.com/Portable-pa-4026--0"><b>Portable Pa</b></a></p>
+	</td>	
+	        			<!-- Promotional -->
+                        <td valign="top" align="right" width="25%" class="f35">
+                          	
+                        </td>
+                        
+        				</tr>							
+                    </tbody></table>   
+                </div>
+                
+                <div class="clear"></div>
+                </div>
+            </div>
+        </li>
+        <li class="dropdown-submenu" data-submenu-id="Cat_420">
+            <a href="http://www.furtadosonline.com/Home-studio-420--0">Home Studio</a>
+            <div id="Cat_420" class="popover">
+                <div class="popover-left" style="background:url(http://www.furtadosonline.com/uploads/category/) no-repeat bottom right #fff;height:476px;">
+                <div class="device-name">
+                 	<table border="0" cellpadding="0" cellspacing="0" width="100%" style="overflow:hidden!important;">
+                    	<tbody><tr>
+<td valign="top" width="25%">					<p class="sub-menu11"><a href="http://www.furtadosonline.com/Audio-midi-interfaces-4027--0"><b>Audio/midi Interfaces</b></a></p>
+		
+									<p class="p_style1"><a href="">Midi Interfaces</a></p>
+			
+									<p class="p_style1" style="margin-top:10px;"><a href="">Firewire Interfaces</a></p>
+			
+									<p class="p_style1" style="margin-top:10px;"><a href="">Usb Interfaces</a></p>
+							<p class="sub-menu11"><a href="http://www.furtadosonline.com/Monitors-4028--0"><b>Monitors</b></a></p>
+						<p class="sub-menu11"><a href="http://www.furtadosonline.com/Controllers-4029--0"><b>Controllers</b></a></p>
+	</td>	
+	        			<!-- Promotional -->
+                        <td valign="top" align="right" width="25%" class="f35">
+                          	
+                        </td>
+                        
+        				</tr>							
+                    </tbody></table>   
+                </div>
+                
+                <div class="clear"></div>
+                </div>
+            </div>
+        </li>
+        
+    </ul>
+ </li>    
+                    
+                     <li class="nav_11"><a href="http://www.furtadosonline.com/clearance.php" class="active">Clearance Sale</a></li>
+                     <li class="nav_11"><a href="http://www.furtadosonline.com/storeListing.php" class="active">Our Stores</a></li>
+                     <li class="nav_61" onmouseover="show();" onmouseout="hide();"><a href="#" class="show-cart"><b>0    </b> items in cart<img src="http://www.furtadosonline.com/images/cart.png" alt="Cart" class="nav_cart"></a></li>
+    				<li class="nav_61" style="margin-right:10px; padding-right:10px; border-right:1px solid #770001;"><a href="http://www.furtadosonline.com/popupShippingPolicy.php" class="ajax">FREE SHIPPING*</a></li>
+                </ul>
+                <!--<div class="underline" style=" height:5px; background:#fff; margin-top:1px; margin:1px 5px;"></div>-->
+			</div>	
+        		<!-- Top Menu : Start -->
+	
+
+                <div id="cart-data" onmouseover="show();" onmouseout="hide();" style="position:absolute;right:-2px; overflow-y: auto; width:358px;background:#fff;min-height:35px;z-index:99999;border:1px solid #999999; top:120px; display: none;font-size:12px;padding:3px; -webkit-box-shadow: 0px 3px 5px 0px rgba(50, 50, 50, 0.56);
+-moz-box-shadow:    0px 3px 5px 0px rgba(50, 50, 50, 0.56);
+box-shadow:         0px 3px 5px 0px rgba(50, 50, 50, 0.56);">
+                
+				 <div style="padding-top:10px;" align="center"><b>Your shopping cart is empty.</b></div>                </div>
+</div>                
+<script type="text/javascript"> 
+var csss = ['http://www.furtadosonline.com/css/colorbox.css', 'http://www.furtadosonline.com/css/header.css'];
+var cb = function() {
+for(var i = 0; i < csss.length; i++){
+var l = document.createElement('link'); l.rel = 'stylesheet';
+l.href = csss[i];
+var h = document.getElementsByTagName('head')[0]; h.parentNode.insertBefore(l, h);
 }
-</script>
-      <select class="txtinput1" style="width:160px;" name="store_state" id="store_state" onchange="showstore(this.value)">
-        <option value="">Select Store</option>
-		<option value="0">View all Stores</option>
-        <option value="7">Ahmedabad</option>
-        <option value="139">Bangalore</option>
-        <option value="58">Chandigarh</option>
-        <option value="155">Chennai</option>
-        <option value="377">Dimapur</option>
-        <option value="151">Hyderabad</option>
-        <option value="156">Mangalore</option>
-        <option value="27">Margao</option>
-        <option value="1">Mumbai</option>
-        <option value="60">New Delhi</option>
-        <option value="5">Panjim</option>
-        <option value="160">Pondicherry</option>
-        <option value="6">Pune</option>
-      </select>
-  </div>
-</div>  <div class="PT15 PB15">
-  
-	<div id="left_instruments">
-  	<div style="background:url(/images/leftm_bg1.jpg) repeat-x; height:31px;">
-      <p class="FL PL5 PR5"><img src="/images/leftm_icon1.jpg" width="28" height="31" alt=""></p>
-      <p class="FL w_12" style="padding-top:7px;"><b>INSTRUMENTS</b></p>
-      <p class="CL"></p>
-    </div>
-	
-	    <div class="lmlist">
-		  <ul>
-				<li><a href="/productlisting-cat/Pianos-212.html">PIANOS</a></li>
-				<li><a href="/productlisting-cat/Keyboards--dmi-209.html">KEYBOARDS &amp; DMI</a></li>
-				<li><a href="/productlisting-cat/Guitars--bass-206.html">GUITARS &amp; BASS</a></li>
-				<li><a href="/productlisting-cat/Drums--percussion-202.html">DRUMS &amp; PERCUSSION</a></li>
-				<li><a href="/productlisting-cat/Harmonicas--accordions-215.html">HARMONICAS &amp; ACCORDIONS</a></li>
-				<li><a href="/productlisting-cat/Bowed-strings-214.html">BOWED STRINGS</a></li>
-				<li><a href="/productlisting-cat/Wind-instruments-216.html">WIND INSTRUMENTS</a></li>
-				<li><a href="/productlisting-cat/Education-203.html">EDUCATION</a></li>
-				<li><a href="/productlisting-cat/Indian-instruments-208.html">INDIAN INSTRUMENTS</a></li>
-				<li><a href="/productlisting-cat/Musician-essentials-217.html">MUSICIAN ESSENTIALS</a></li>
-				<li><a href="/productlisting-cat/Other-fretted-instruments-207.html">OTHER FRETTED INSTRUMENTS</a></li>
-				<li><a href="/productlisting-cat/Audio-cds-218.html">AUDIO CDS</a></li>
-				<li><a href="/productlisting-cat/Computer-music-201.html">COMPUTER MUSIC</a></li>
-				<li><a href="/productlisting-cat/Instrument-bundles-219.html">INSTRUMENT BUNDLES</a></li>
-			  </ul>
-		</div>
-	</div>
-
- 
-  </div>
-
-	<div class="PT10" style="width:185px;">
-	<div class="" style="border:1px #CFCFCF solid; background:#F8F3E5;">
-  <div style="background:url(/images/h_r_bg1.jpg) repeat-x; padding:5px 8px;" class="w_14"><b>Testimonials</b></div>
-  <div class="PA10">
- 
-	
-	
-    <p class="g_12">The experience with Furtados totally blew my mind. top marks for customer satisfaction. I look forward to more purchases from here. Its a brand you can trust blindly.</p>
-	<p class="PT10 bl_11"><b>Saiprasad </b></p>
-	<p class="PT5 bl_11">Feedback on - Feb, 2013</p>
-	<p class="PT5" style="border-bottom:1px dotted #999999"></p>
-	
-
-    <div align="right">
-		<!--<a href="testimonial.php" class="morer">Write Testimonial &raquo;</a>--><span style="padding-left:17px;"></span>
-		<a href="testimonial_listing.php" class="morer">» more</a>
-	</div>
-  </div>
-</div>
-</div>
-<div class="PT10"><a href="http://www.furtadosonline.com/newsletter/PAGE1.html" target="_blank" title="Feedback The Furtados Newsletter"><img src="/images/FEEDBACK.jpg" border="0" alt="Feedback The Furtados Newsletter"></a></div>
-
-	<div class="PT10"><a href="http://fsm.net.in/" target="_blank" title="Furtados School of Music"><img src="/images/fsm_banner.jpg" border="0" alt="Furtados School of Music"></a></div>
-	
-</div>				</td>
-				<td width="593">
-					<div style="padding:0px 5px 15px 7px;">
-						<div style="width:560px; height:46px; background:url(/images/red_strip.jpg) no-repeat top left; font:bold 26px arial; color:#fff; padding:8px 0px 0px 5px; margin-left:7px;">Privacy Policy</div>
-						<div class="PA10 PT10">
-						  <div class="PB15">
-						    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+};
+var raf = requestAnimationFrame || mozRequestAnimationFrame ||
+webkitRequestAnimationFrame || msRequestAnimationFrame;
+if (raf) raf(cb);
+else window.addEventListener('load', cb);
+</script>                 <div><p class="navigation_txt"><a href="http://www.furtadosonline.com/index.php" title="Home">Home</a> &gt; <a href="privacyPolicy.php" title="Privacy Policy">Privacy Policy</a>  </p></div>
+                
+         		<div class="sign_up_content">
+               <div class="my_account"><p class="my_account_txt">Privacy Policy</p></div>
+               <div class="sign_up_div" style="font-size:12px;margin-right:5px;" align="justify">
+              	<table width="100%" border="0" cellspacing="0" cellpadding="0">
 							  <tbody><tr>
 		                         <td valign="top"><br>
-										The security of personal information about you is our priority. We protect this information by maintaining physical, electronic, and procedural safeguards that meet applicable law. We train our employees in the proper handling of personal information. We do not sell or rent your personal information to third parties for their marketing purposes without your explicit consent. Please read this privacy policy to learn more about the ways in which we use and protect your personal information.
+										The security of personal information about you is our priority. We protect this information by maintaining physical, electronic, and procedural safeguards that meet applicable law. We train our employees in the proper handling of personal information. We do not sell or rent your personal information to third parties for their marketing purposes without your explicit consent. Please read this privacy policy to learn more about the ways in which we use and protect your personal information. 
 <br><br>
 <label class="bl_14"><b>How we use your Information</b></label>
 <br><br>
-Furtados uses your personal information to provide you with services and to help us better understand your needs and interests. Specifically, we use your information to help you complete a transaction or order, to communicate with you, to provide service and support, to update you on services and benefits, to personalize promotional offers. Occasionally we may also use your information to contact you for market research regarding Furtados products or services. Credit card information is used only for payment processing and fraud prevention. 
-
-Furtados has built for itself a reputation of trust worthiness with a strong emphasis on quality and customer service, business processes, management structures, and technical systems that cross borders. Our privacy practices are designed to provide protection for your personal information, all over the world. 
+Furtados uses your personal information to provide you with services and to help us better understand your needs and interests. Specifically, we use your information to help you complete a transaction or order, to communicate with you, to provide service and support, to update you on services and benefits, to personalize promotional offers. Occasionally we may also use your information to contact you for market research regarding Furtados products or services. Credit card information is used only for payment processing and fraud prevention. Furtados has built for itself a reputation of trust worthiness with a strong emphasis on quality and customer service, business processes, management structures, and technical systems that cross borders. Our privacy practices are designed to provide protection for your personal information, all over the world. 
 <br><br>
 <label class="bl_14"><b>Access to and accuracy of your information</b></label>
 <br><br>
@@ -533,146 +1627,248 @@ Furtados strives to keep your personal information accurate. We have implemented
 <br><br>
 <label class="bl_14"><b>Links to Non-Furtados websites</b></label>
 <br><br>
-The Furtadosonline websites may provide links to third-party websites for your convenience and information. If you access those links, you will leave the Furtados website. Furtados does not control those sites or their privacy practices, which may differ from us. We do not endorse or make any representations about third-party websites. The personal data you choose to give to third parties is not covered by the Furtados Privacy Statement. We encourage you to review the privacy policy of any company before submitting your personal information. Some third-party companies may choose to share their personal data with Furtados; that sharing is governed by that third-party company's privacy policy.
-
+The Furtadosonline websites may provide links to third-party websites for your convenience and information. If you access those links, you will leave the Furtados website. Furtados does not control those sites or their privacy practices, which may differ from us. We do not endorse or make any representations about third-party websites. The personal data you choose to give to third parties is not covered by the Furtados Privacy Statement. We encourage you to review the privacy policy of any company before submitting your personal information. Some third-party companies may choose to share their personal data with Furtados; that sharing is governed by that third-party company's privacy policy. 
 <br><br>
 <label class="bl_14"><b>Children's Privacy</b></label>
 <br><br>
-We encourage children and minors (under the age of 18) to use our site for information and material. However, if you are under the age of 18, you cannot purchase any product on the site. If you wish to purchase a product on the site such purchase may be made by your legal guardian or parents who have registered as users of the site.
-<br>
+We encourage children and minors (under the age of 18) to use our site for information and material. However, if you are under the age of 18, you cannot purchase any product on the site. If you wish to purchase a product on the site such purchase may be made by your legal guardian or parents who have registered as users of the site. <br>
 <br>
 <label class="bl_14"><b>Keeping your information secure</b></label>
 <br><br>
-Furtados is committed to protecting the information you provide us. To prevent unauthorized access or disclosure, to maintain data accuracy, and to ensure the appropriate use of the information, Furtadosonline has in place appropriate physical and managerial procedures to safeguard the information we collect.
-<br><br>
+Furtados is committed to protecting the information you provide us. To prevent unauthorized access or disclosure, to maintain data accuracy, and to ensure the appropriate use of the information, Furtadosonline has in place appropriate physical and managerial procedures to safeguard the information we collect. <br><br>
 <label class="bl_14"><b>Security</b></label>
 <br><br>
-Furtadosonline Secure Shopping Guarantee protects you every time you shop at Furtados so that you never have to worry about the safety of your credit card information. We use the industry standard encryption protocol known as Secure Socket Layer (SSL) to keep your order information secure. This security measure is working when you see either the symbol of an unbroken key or closed lock (depending on your browser) on the bottom of your browser window.
+Furtadosonline Secure Shopping Guarantee protects you every time you shop at Furtados so that you never have to worry about the safety of your credit card information. We use the industry standard encryption protocol known as Secure Socket Layer (SSL) to keep your order information secure. This security measure is working when you see either the symbol of an unbroken key or closed lock (depending on your browser) on the bottom of your browser window. 
 
-Credit card numbers are used only for processing payment and are not used for other purposes. We guarantee that every transaction you make at furtadosonline will be safe and secure.
+Credit card numbers are used only for processing payment and are not used for other purposes. We guarantee that every transaction you make at furtadosonline will be safe and secure. 
 <br><br>
 <label class="bl_14"><b>Modifications to Privacy Statement</b></label>
 <br><br>
-The privacy practices of this statement apply to our services available under the domain of www.furtadosonline.com. By visiting our website you agree to be bound by the terms and conditions of this Privacy Policy. If you do not agree please do not use or register with our site Furtadosonline may modify this privacy statement at any time. If a material change is made to this Privacy Policy and/or the way we use our users’ personally identifiable information, then we will post prominent notice of the nature of such change on the first page of this Privacy Policy. You are responsible for reviewing this Privacy Policy periodically to ensure that you are aware of any changes to it. Your continued use of the Site indicates your assent to any changes to this Privacy Policy. 
-							 
+The privacy practices of this statement apply to our services available under the domain of www.furtadosonline.com. By visiting our website you agree to be bound by the terms and conditions of this Privacy Policy. If you do not agree please do not use or register with our site Furtadosonline may modify this privacy statement at any juncture. If a material change is made to this Privacy Policy and/or the way we use our users' personally identifiable information, then we will post prominent notice of the nature of such change on the first page of this Privacy Policy. You are responsible for reviewing this Privacy Policy periodically to ensure that you are aware of any changes to it. Your continued use of the Site indicates your assent to any changes to this Privacy Policy.							 
 								</td>
                               </tr>
                             </tbody></table>
-						  </div>
-						</div>
-				</div></td>
-				<td>
-					<div style="padding:0px 7px 15px 3px;">
-  <div><select name="quick_links" id="quick_links" class="txtinput1" style="width:180px;" onchange="javascript:window.location=this.value;">
-	<option value="">Quick Links</option>
-	<option value="/news.html">News</option>
-	<option value="/events-archive-1.html">Events</option>
-</select></div>
-  <div class="PT15">
-    <div class="MB5" style="background:url(/images/h_br_bg1.jpg) repeat-x;width:183px;">
-      <p class="FL"><img src="/images/h_br_icon4.jpg" width="33" height="26" alt=""></p>
-      <p class="FL PT5"><a href="whatsnewlisting.php" class="w_11"><b>What’s New?</b></a></p>
-      <p class="CL"></p>
+               <br><br>
+               </div>
+               </div>
+                            <div id="mrova-feedback">
+    <div id="mrova-form">
+         <div class="PT5"><img src="http://www.furtadosonline.com/images/bank_strip.jpg" alt="Bank"></div>
+         <div class="PT5 g_12">
+    	<ul>
+        	<li style="margin-left: 15px;list-style-position: initial;list-style-type: disc;">Select EMI options from 6 banks- available for online purchase.</li>
+            <li style="margin-left: 15px;list-style-position: initial;list-style-type: disc;">EMI amount is calculated on total value of the order at the time of payment.</li>
+            <li style="margin-left: 15px;list-style-position: initial;list-style-type: disc;">For availing the EMI payment option the Minimum Order Value is Rs.5,000.</li>
+            <li style="margin-left: 15px;list-style-position: initial;list-style-type: disc;">A processing fee may be charged for availing EMI payment option.</li>
+            <li style="margin-left: 15px;list-style-position: initial;list-style-type: disc;">In an instance of refund in an EMI transaction, interest already billed in a particular transaction will not be refundable under any circumstances.</li>
+            <li style="margin-left: 15px;list-style-position: initial;list-style-type: disc;">EMI options are only available on Credit Cards</li>
+        </ul>
+        <div align="center" style="padding-top: 12px;"><a href="http://www.furtadosonline.com/staticpage_Emi.php"><span style="font-size:12px; font-weight:bold">Take me to EMI calculator»</span></a></div>
     </div>
-    <!--<div class="MB5" style="background:url(/images/h_br_bg1.jpg) repeat-x;width:183px;">
-      <p class="FL"><img src="/images/h_br_icon4.jpg" width="33" height="26" alt="" /></p>
-      <p class="FL PT5"><a href="featuredlisting.php" class="w_11"><b>Featured Deals</b></a></p>
-      <p class="CL"></p>
-    </div>-->
-	
-
-	<div class="MT15" style="border:1px #CFCFCF solid; background:#F8F3E5; width:181px;">
-  <div style="background:url(/images/h_r_bg1.jpg) repeat-x; padding:5px 8px;" class="w_14"><b>Product Spotlight</b></div>
-  <div class="PA10">
-    <p><a href="/product/Mighty-bright-music-light-hammerhead-black-54810-205383.html" title="Mighty Bright, Music Light, HammerHead -Black 54810"><img src="http://www.furtadosonline.com/media/instrument/217/205383_1_mighty_bright_music_light_hammerhead_black_54810_100x75.jpg" width="100" height="75" border="0" class="imgbrd" alt="Mighty Bright, Music Light, HammerHead -Black 54810"></a></p>
-    <p class="PT5 PB10"><a href="/product/Mighty-bright-music-light-hammerhead-black-54810-205383.html" class="b_12"><b>Mighty Bright, Music Light, HammerHead -Black 54810</b></a></p>
-    <div style="border-top:1px #999 dotted;" class="hlist1">
-      <ul>
-        <li><a href="/product/Granada-violin-spruce-top-full-size-complete-d21-4-4-204293.html" class="b_11">Granada, Violin, Spruce Top, Full Size/Complete D21-4/4</a></li>
-        <li><a href="/product/Mapex-practice-pad-multi-hardness-12-30-48-cm--prpd-12-ma-pd12-202659.html" class="b_11">Mapex, Practice Pad, Multi-Hardness, 12"(30.48 cm), PRPD-12 MA-PD12</a></li>
-      </ul>
+    <div style="clear:both"></div>
     </div>
-	
-    <div align="right"><a href="/productlisting-spotlight.html" class="morer">» more</a></div>
-  </div>
-</div>  </div>
-    <div class="PT15 PB10"><a href="feedback.html"><img src="/images/askus.jpg" width="182" height="97" alt="Feedback" border="0"></a></div>
-<form name="newsletter_subscription" id="newsletter_subscription" method="post" action="newsletter_subscription2db.php">
-  <div id="newsletter">
-    <div style="background:url(/images/signupbg.jpg) no-repeat; width:181px; height:189px;">
-      <div style="padding:10px 0px 5px 10px;">
-        <input type="text" name="emailID" id="emailID" value="Enter Your Email ID here.." style="font:11px arial; color:#999; padding:4px; border:1px #333 solid; width:150px;" onclick="if(this.value == 'Enter Your Email ID here..'){this.value = '';}" maxlength="100">
-      </div>
-      <div class="PL10" style="padding-left:100px; padding-top:27px;">
-	  <a href="javascript:void(0);" onclick="return subscribe();">
-	  	<img src="/images/subscribe.jpg" border="0" alt="Subscribe" title="Suscribe to Newsletter" width="76" height="28">
-	  </a>
-	  </div>
-    </div>
-  </div>
-</form></div>				</td>
-			</tr></tbody></table>
-			<div style="margin:0px 10px;border-top:1px #ccc solid; padding:10px;" class="g_12" align="center"> 
-<table width="100%" border="0" cellspacing="0" cellpadding="0" align="center">
-  <tbody><tr align="left" class="bl_12">
-    <td height="30" class="PR5"><img src="/images/shop_by_cat.jpg" width="37" height="39" border="0"></td>
-	<td colspan="2"><b><u>Shop by Category</u></b></td>
-    <td class="PR5"><img src="/images/about_us.jpg" width="31" height="39" border="0"></td>
-	<td width="11%"><b><u>About us</u></b></td>
-	<td class="PR5"><img src="/images/policies.jpg" width="38" height="39" border="0"></td>
-    <td width="14%"><b><u>Policies</u></b></td>
-	<td class="PR5"><img src="/images/help.jpg" width="38" height="39" border="0"></td>
-    <td width="10%"><b><u>Help</u></b></td>
-	<td class="PR5"><img src="/images/pg_help.jpg" width="46" height="39" border="0"></td>
-    <td width="15%"><b><u>Payment Help</u></b></td>
-  </tr>
-  <tr align="left" class="g_12">
-    <td width="3%" valign="top">&nbsp;</td>
-    <td width="18%" valign="top"><a href="/brand-listing.html" class="g_12">Browse by Brand</a> <br>
-		<a href="/productlisting-cat/Pianos-212.html" class="g_12">Pianos</a> <br>
-		<a href="/productlisting-cat/Keyboards--dmi-209.html" class="g_12">Keyboards &amp; Dmi</a> <br>
-		<a href="/productlisting-cat/Guitars--bass-206.html" class="g_12">Guitars &amp; Bass</a> <br>
-		<a href="/productlisting-cat/Drums--percussion-202.html" class="g_12">Drums &amp; Percussion</a> <br>
-		<a href="/productlisting-cat/Harmonicas--accordions-215.html" class="g_12">Harmonicas &amp; Accordions</a> <br>
-		<a href="/productlisting-cat/Bowed-strings-214.html" class="g_12">Bowed Strings</a> <br>
-	</td>
-	<td width="16%" valign="top">
-		<a href="/productlisting-cat/Wind-instruments-216.html" class="g_12">Wind Instruments</a> <br>
-		<a href="/productlisting-cat/Education-203.html" class="g_12">Education</a> <br>
-		<a href="/productlisting-cat/Indian-instruments-208.html" class="g_12">Indian Instruments</a> <br>
-		<a href="/productlisting-cat/Musician-essentials-217.html" class="g_12">Musician Essentials</a> <br>
-		<a href="/productlisting-cat/Other-fretted-instruments-207.html" class="g_12">Other Fretted Instruments</a> <br>
-		<a href="/productlisting-cat/Audio-cds-218.html" class="g_12">Audio Cds</a> <br>
-		<a href="/productlisting-cat/Computer-music-201.html" class="g_12">Computer Music</a> <br>
-		<a href="/productlisting-cat/Instrument-bundles-219.html" class="g_12">Instrument Bundles</a> <br>
-	</td>
-
-	<td width="3%" valign="top">&nbsp;</td>
-	
-    <td valign="top"><a href="/about-us.html" class="g_12">Introduction</a> <br>
-		<a href="/jobs.html" class="g_12">Careers</a>	</td>
-	<td width="3%" valign="top">&nbsp;</td>
-	
-    <td valign="top"><a href="/shipping-policy.html" class="g_12">Shipping Policy</a> <br>
-		<a href="/return-policy.html" class="g_12">Return Policy</a> <br>
-		<a href="/privacy-policy.html" class="g_12">Privacy Policy</a> <br>
-		<a href="/assurance-program.html" class="g_12">Assurance Program</a> <br>
-		<a href="/terms.html" class="g_12">Terms</a> <br>	</td>
-	<td width="3%" valign="top">&nbsp;</td>
-    <td valign="top"><a href="/contact-us.html" class="g_12">Contact us</a> <br>
-		<a href="/feedback.html" class="g_12">Feedback</a> <br>
-		<a href="/sitemap.html" class="g_12">Sitemap</a>	</td>
-	<td width="4%" valign="top">&nbsp;</td>
-    <td valign="top"><a href="/payment-help.html#cc" class="g_12">Credit / Debit Card</a> <br>
-		<a href="/payment-help.html#nb" class="g_12">Net Banking</a> <br>
-		<a href="/payment-help.html#chq" class="g_12">Cheque / Demand Draft</a> <br>
-		<!--<a href="/payment-help.html#cod" class="g_12">Cash on Delivery</a> <br />-->
-		<a href="/payment-help.html#neft" class="g_12">NEFT / RTGS</a>	</td>
-  </tr>
-</tbody></table>
-<br>
-Copyright © 2014 Furtadosonline.com
+    <div id="mrova-img-control"></div>
 </div>
+<div class="footer">
+	<div class="g_12 f26" align="center"> 
+            <table width="100%" border="0" cellspacing="0" cellpadding="0" align="center">
+			  <tbody><tr align="left" class="bl_12">
+				<td height="30" class="PR5" valign="top"><img src="http://www.furtadosonline.com/images/footer_icons/f_INSTRUMENT.png" alt="Musical Instruments" width="66" height="66" border="0"></td>
+				<td colspan="2" valign="top">
+				<b>Musical Instruments</b><br><br>
+                    
+					<a href="http://www.furtadosonline.com/-0--0" class="g_12"></a> <br>
+                    
+					<a href="http://www.furtadosonline.com/Pianos-212--0" class="g_12">Pianos</a> <br>
+                    
+					<a href="http://www.furtadosonline.com/Guitars--bass-206--0" class="g_12">Guitars &amp; Bass</a> <br>
+                    
+					<a href="http://www.furtadosonline.com/Keyboards--dmi-209--0" class="g_12">Keyboards &amp; Dmi</a> <br>
+                    
+					<a href="http://www.furtadosonline.com/Drums--percussion-202--0" class="g_12">Drums &amp; Percussion</a> <br>
+                    
+					<a href="http://www.furtadosonline.com/Harmonicas--accordions-215--0" class="g_12">Harmonicas &amp; Accordions</a> <br>
+                    
+					<a href="http://www.furtadosonline.com/Bowed-strings-214--0" class="g_12">Bowed Strings</a> <br>
+                    
+					<a href="http://www.furtadosonline.com/Wind-instruments-216--0" class="g_12">Wind Instruments</a> <br>
+                    
+					<a href="http://www.furtadosonline.com/Education-203--0" class="g_12">Education</a> <br>
+                    
+					<a href="http://www.furtadosonline.com/Indian-instruments-208--0" class="g_12">Indian Instruments</a> <br>
+                    
+					<a href="http://www.furtadosonline.com/Musician-essentials-217--0" class="g_12">Musician Essentials</a> <br>
+                    
+					<a href="http://www.furtadosonline.com/Other-fretted-instruments-207--0" class="g_12">Other Fretted Instruments</a> <br>
+                    
+					<a href="http://www.furtadosonline.com/Computer-music-201--0" class="g_12">Computer Music</a> <br>
+                    
+				</td>
+				<td class="PR5" valign="top"><img src="http://www.furtadosonline.com/images/footer_icons/f_AUDIO_BOOK.png" alt="Music Books" width="66" height="66" border="0"></td>
+				<td width="11%" valign="top">
+				<b>Music Books</b><br><br>
+                    
+					<a href="http://www.furtadosonline.com/Examination-music-106--0" class="g_12">Examination Music</a> <br>
+                    
+					<a href="http://www.furtadosonline.com/Keyboard-110--0" class="g_12">Keyboard</a> <br>
+                    
+					<a href="http://www.furtadosonline.com/Fretted-strings-107--0" class="g_12">Fretted Strings</a> <br>
+                    
+					<a href="http://www.furtadosonline.com/Bowed-strings-101--0" class="g_12">Bowed Strings</a> <br>
+                    
+					<a href="http://www.furtadosonline.com/Drums--percussion-102--0" class="g_12">Drums &amp; Percussion</a> <br>
+                    
+					<a href="http://www.furtadosonline.com/Voice-114--0" class="g_12">Voice</a> <br>
+                    
+					<a href="http://www.furtadosonline.com/Repertoire--albums-113--0" class="g_12">Repertoire &amp; Albums</a> <br>
+                    
+					<a href="http://www.furtadosonline.com/Wind-115--0" class="g_12">Wind</a> <br>
+                    
+					<a href="http://www.furtadosonline.com/General-108--0" class="g_12">General</a> <br>
+                    
+					<a href="http://www.furtadosonline.com/Educational-103--0" class="g_12">Educational</a> <br>
+                    
+					<a href="http://www.furtadosonline.com/Ensemble-105--0" class="g_12">Ensemble</a> <br>
+                    
+					<a href="http://www.furtadosonline.com/English-speech-drama-104--0" class="g_12">English Speech/drama</a> <br>
+                    
+					<a href="http://www.furtadosonline.com/Miscellaneous-books-111--0" class="g_12">Miscellaneous Books</a> <br>
+                    
+					<a href="http://www.furtadosonline.com/Indian-instruments-109--0" class="g_12">Indian Instruments</a> <br>
+                    
+					<a href="http://www.furtadosonline.com/Music-magazines-112--0" class="g_12">Music Magazines</a> <br>
+				</td>
+				<td class="PR5" valign="top"><img src="http://www.furtadosonline.com/images/footer_icons/f_PRO_AUDIO.png" alt="Pro Audio" width="66" height="66" border="0"></td>
+				<td width="14%" valign="top">
+				<b>Pro Audio</b><br><br>
+                    
+					<a href="http://www.furtadosonline.com/Desktop-monitors-405--0" class="g_12">Desktop Monitors</a> <br>
+                    
+					<a href="http://www.furtadosonline.com/Computer-interfaces-407--0" class="g_12">Computer Interfaces</a> <br>
+                    
+					<a href="http://www.furtadosonline.com/Keyboard-controllers-408--0" class="g_12">Keyboard Controllers</a> <br>
+                    
+					<a href="http://www.furtadosonline.com/Microphones-409--0" class="g_12">Microphones</a> <br>
+                    
+					<a href="http://www.furtadosonline.com/Headphones-410--0" class="g_12">Headphones</a> <br>
+                    
+					<a href="http://www.furtadosonline.com/Cables--accessories-412--0" class="g_12">Cables &amp; Accessories</a> <br>
+                    
+					<a href="http://www.furtadosonline.com/Home-sound-415--0" class="g_12">Home Sound</a> <br>
+                    
+					<a href="http://www.furtadosonline.com/Portable-recording-devices-414--0" class="g_12">Portable Recording Devices</a> <br>
+                    
+					<a href="http://www.furtadosonline.com/Software-403--0" class="g_12">Software</a> <br>
+                    
+					<a href="http://www.furtadosonline.com/Speakers-402--0" class="g_12">Speakers</a> <br>
+                    
+					<a href="http://www.furtadosonline.com/Dj-417--0" class="g_12">Dj</a> <br>
+                    
+					<a href="http://www.furtadosonline.com/Live-sound-419--0" class="g_12">Live Sound</a> <br>
+                    
+					<a href="http://www.furtadosonline.com/Home-studio-420--0" class="g_12">Home Studio</a> <br>
+				
+				</td>
+				<td class="PR5" valign="top">
+                	<table width="100%" border="0" cellspacing="0" cellpadding="0">
+                      <tbody><tr>
+                        <td valign="top" height="130"><img src="http://www.furtadosonline.com/images/footer_icons/f_HELPP.png" alt="Help" width="66" height="66" border="0"></td>
+                      </tr>
+                      <tr>
+                        <td valign="top"><img src="http://www.furtadosonline.com/images/footer_icons/f_ABOUT_US.png" alt="About us" width="66" height="66" border="0"></td>
+                      </tr>
+                    </tbody></table>
+
+                </td>
+				<td width="10%" valign="top">
+                 <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <tbody><tr>
+                    <td valign="top" height="130">
+                    	<b>Help</b><br><br>
+                            <a href="http://www.furtadosonline.com/contact-us.html" class="g_12">Contact us</a> <br>
+                            <a href="http://www.furtadosonline.com/feedback.php" class="g_12">Feedback</a> <br>
+                            <a href="http://www.furtadosonline.com/sitemap.php" class="g_12">Sitemap</a>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td valign="top">
+                    	<b>About us</b><br><br>
+                        <a href="http://www.furtadosonline.com/aboutUs.php" class="g_12">Introduction</a> <br>
+                        <a href="http://www.furtadosonline.com/jobs_listing.php" class="g_12">Careers</a>
+                    </td>
+                  </tr>
+                </tbody></table>
+   
+                    
+				</td>
+				<td class="PR5" valign="top">
+                	<table width="100%" border="0" cellspacing="0" cellpadding="0">
+                      <tbody><tr>
+                        <td valign="top" height="130"><img src="http://www.furtadosonline.com/images/footer_icons/f_PAY.png" alt="Payment Help" width="66" height="66" border="0"></td>
+                      </tr>
+                      <tr>
+                        <td valign="top"><img src="http://www.furtadosonline.com/images/footer_icons/f_POLC.png" alt="Policies" width="66" height="66" border="0"></td>
+                      </tr>
+                    </tbody></table>
+                    
+                </td>
+				<td width="15%" valign="top">
+                	<table width="100%" border="0" cellspacing="0" cellpadding="0">
+                      <tbody><tr>
+                        <td valign="top" height="130">
+                        	<b>Payment Help</b><br><br>
+                            <a href="http://www.furtadosonline.com/paymentHelp.php#cc" class="g_12">Credit / Debit Card</a> <br>
+                                <a href="http://www.furtadosonline.com/paymentHelp.php#nb" class="g_12">Net Banking</a> <br>
+                                <a href="http://www.furtadosonline.com/paymentHelp.php#chq" class="g_12">Cheque / Demand Draft</a> <br>
+                                <a href="http://www.furtadosonline.com/paymentHelp.php#neft" class="g_12">NEFT / RTGS</a>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td valign="top">
+                        	<b>Policies</b><br><br>
+                            <a href="http://www.furtadosonline.com/shippingPolicy.php" class="g_12">Shipping Policy</a> <br>
+                            <a href="http://www.furtadosonline.com/returnPolicy.php" class="g_12">Return Policy</a> <br>
+                            <a href="http://www.furtadosonline.com/privacyPolicy.php" class="g_12">Privacy Policy</a> <br>
+                            <a href="http://www.furtadosonline.com/assuranceProgram.php" class="g_12">Assurance Program</a> <br>
+                            <a href="http://www.furtadosonline.com/terms.php" class="g_12">Terms</a>
+                        </td>
+                      </tr>
+                    </tbody></table>
+
+                
+				</td>
+			  </tr>
+	 <tr>
+        <td colspan="11" align="left" valign="top">
+        	<div id="footer-btm">
+                <div class="f-left">
+                    <p>For any query write us on : <a href="mailto:responseATfurtadosonlineDOTcom" onclick="this.href=this.href.replace(/AT/,'@').replace(/DOT/,'.')" class="bl_12_bold">response@furtadosonline.com</a></p>
+                    <a href="https://www.facebook.com/FurtadosMusic" target="_blank"><span class="f-fb"></span></a>
+                    <a href="https://twitter.com/furtados" target="_blank"><span class="f-twit"></span></a>
+                    <a href="https://www.youtube.com/user/furtadosmusicindia" target="_blank"><span class="f-you"></span></a>
+                    <div class="clear"></div>
+                </div>
+                <div class="f-right"><a href="http://www.furtadosonline.com/jobs_listing.php"><img src="http://www.furtadosonline.com/images/footer-btm-img.jpg" border="0" alt="Jobs / Careers"></a></div>
+                <div class="clear"></div>
+ 			</div>
+        </td>
+      </tr>
+      <tr>
+        <td colspan="11" align="center">Copyright © 2015 Furtadosonline.com</td>
+      </tr>			
+</tbody></table>
+	</div>
+</div>
+<script type="text/javascript" language="javascript">
+	(function(d, s, id) {
+	  var js, fjs = d.getElementsByTagName(s)[0];
+	  if (d.getElementById(id)) {return;}
+	  js = d.createElement(s); js.id = id;
+	  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=179278142167220";
+	  fjs.parentNode.insertBefore(js, fjs);
+	}(document, 'script', 'facebook-jssdk'));
+</script>
+
 <script type="text/javascript">
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
 document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
@@ -682,9 +1878,39 @@ try {
 var pageTracker = _gat._getTracker("UA-16232700-1");
 pageTracker._trackPageview();
 } catch(err) {}</script>
-		</div>
-	</div>
-</div>
 
+<script>
+$('#mrova-img-control').on('click', function(){
+    $(this).toggleClass('slide_open');
+	
+});
+
+$("#mrova-img-control").hover(function () {
+    $(this).toggleClass("slide_open");
+ });
+</script>
+  
+        </div>
+    </div><!---------------------------------MAIN WRAPPER END------------------------------->
+    
+<!--===================================Home================================================-->
+<script type="text/javascript" language="javascript" src="http://www.furtadosonline.com/minify-java/jquery.colorbox.js"></script>
+<script type="text/javascript" language="javascript" src="http://www.furtadosonline.com/minify-java/organictabs.jquery.js"></script>
+<script type="text/javascript" language="javascript" src="http://www.furtadosonline.com/minify-java/jquery.carouFredSel-6.2.1-packed.js"></script>
+<!--<script type="text/javascript" language="javascript" src="minify-java/jquery.mousewheel.min.js"></script>
+<script type="text/javascript" language="javascript" src="minify-java/jquery.transit.min.js"></script>-->
+<!--===================================Header================================================-->
+<script src="http://www.furtadosonline.com/minify-java/jquery.menu-aim.js" type="text/javascript" language="javascript"></script>
+<script src="http://www.furtadosonline.com/minify-java/bootstrap.min.js" type="text/javascript" language="javascript"></script>
+<!--<script src="http://www.furtadosonline.com/minify-java/bootstrap-hover-dropdown.js" type="text/javascript"></script>-->
+<script src="http://www.furtadosonline.com/js/header-js.js" type="text/javascript" language="javascript"></script>
+<!--===================================Footer================================================-->
+<script type="text/javascript" language="javascript" src="http://www.furtadosonline.com/js/functions.js"></script>
+<script type="text/javascript" language="javascript" src="http://www.furtadosonline.com/js/footer-js.js"></script>
+<!--===================================Category================================================-->
+<script src="http://www.furtadosonline.com/js/json2.js" type="text/javascript" language="javascript"></script>
+<script src="http://www.furtadosonline.com/js/jquery.collapse.js" type="text/javascript" language="javascript"></script> 
+<script src="http://www.furtadosonline.com/js/floating.js" type="text/javascript"></script>
+ 
 
 </body></html>
