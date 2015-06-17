@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the heliguy.com privacy policy that was archived on 2014-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141211000430id_/http%3A//www.heliguy.com/pg/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the heliguy.com privacy policy that was archived on 2015-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150617050525id_/http%3A//www.heliguy.com/pg/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -79,3 +79,5 @@ International: +44 (0)191 296 1024
 
 
 
+
+Please wait...
