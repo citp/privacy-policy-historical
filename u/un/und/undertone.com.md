@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the undertone.com privacy policy that was archived on 2014-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141226231505id_/http%3A//www.undertone.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the undertone.com privacy policy that was archived on 2015-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150617073238id_/http%3A//www.undertone.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Undertone
 
@@ -85,6 +85,10 @@ To opt-out of IBA, please use our [opt-out tool](http://undertone.com/opt-out-to
 Please note that the above opt-out link is applicable to Undertone IBA activities only. To opt-out of IBA by Upfront Media/Legolas Media, please use the following [opt-out](http://www.thinkupfront.com/opt-out-tool/). You may also opt-out of IBA by Undertone/Legolas Media and other member companies of the Network Advertising Initiative (NAI), by visiting the NAI website [here.](http://www.networkadvertising.org/managing/opt_out.asp) Or you may opt-out of IBA by Undertone/Legolas Media and other member companies of the Digital Advertising Alliance (DAA), by visiting the DAA website [here](http://www.aboutads.info/choices/).
 
 Please report any problems related to the opt-out process to [privacy@undertone.com](mailto:privacy@undertone.com).
+
+### European Union
+
+Undertone adheres to the Interactive Advertising Bureau Europe’s OBA Framework and participates in the European Interactive Digital Advertising Alliance’s self-regulatory initiative. Accordingly, in addition to the opt-out options above, users can learn more about IBA and opt-out through the industry page [www.youronlinechoices.eu](http://www.youronlinechoices.eu/). Further, Undertone does not collect or use for the purpose of IBA, data that is considered personal data or sensitive personal data under the respective national implementations of the EU Directive 95/46/EC.
 
 ### Children’s Privacy
 
