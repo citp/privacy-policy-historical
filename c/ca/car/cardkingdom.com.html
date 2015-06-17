@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the cardkingdom.com privacy policy that was archived on 2014-10-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141028015949id_/http%3A//www.cardkingdom.com/static/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the cardkingdom.com privacy policy that was archived on 2015-06-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150617042518id_/http%3A//www.cardkingdom.com/static/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "https://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="https://www.w3.org/1999/xhtml"><head>
 
@@ -9,9 +9,47 @@
 <meta name="robots" content="index, follow">
 <meta name="GOOGLEBOT" content="INDEX, FOLLOW">
 <meta name="google-site-verification" content="mG_HnQSIpvWtvlgoloS5nWbuB7wNauY3RlU6dEmTLec">
+<link rel="alternate" media="only screen and (max-width: 640px)" href="http://m.cardkingdom.com/static/privacy">
 
 <title>
 Magic The Gathering, magic cards, singles, card lists, deck ideas.</title>
+
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
+    // Used to detect whether the users browser is an mobile browser
+    function isMobile() {
+        var mobile = ['iphone','ipad','android','blackberry','nokia','opera mini','windows mobile','windows phone','iemobile']; 
+        for (var i in mobile) if (navigator.userAgent.toLowerCase().indexOf(mobile[i].toLowerCase()) > 0) return true;
+
+        // nothing found.. assume desktop
+        return false;
+    }
+
+    function getCookie(c_name) {
+        var i, x, y, ARRcookies = document.cookie.split(";");
+        for (i = 0; i < ARRcookies.length; i++) {
+            x = ARRcookies[i].substr(0, ARRcookies[i].indexOf("="));
+            y = ARRcookies[i].substr(ARRcookies[i].indexOf("=") + 1);
+            x = x.replace(/^\s+|\s+$/g, "");
+            if (x == c_name) {
+                return unescape(y);
+            }
+        }
+    }
+
+    //alert("http://m.cardkingdom.com" + '/' + window.location.pathname.substring(1));
+    if (getCookie('site') == 'mobile')
+    {
+         x = "http://m.cardkingdom.com" + '/' + window.location.pathname.substring(1);
+         //alert(x);
+         window.location = x;
+    }
+    if (isMobile() && getCookie('site') != 'full')
+    {
+         x = "http://m.cardkingdom.com" + '/' + window.location.pathname.substring(1);
+         //alert(x);
+         window.location = x;
+    }
+</script>
   
 <!-- 
 This site discusses these topics:
@@ -21,7 +59,7 @@ Magic The Gathering, magic cards, singles, card lists, deck ideas. -->
 <link rel="stylesheet" type="text/css" href="http://www.cardkingdom.com/shared/media/css/cart.css" media="screen, print">
 <link rel="stylesheet" type="text/css" href="http://www.cardkingdom.com/media/css/cardkingdom.css" media="screen, print">
 
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
 
 <link rel="stylesheet" type="text/css" href="http://www.cardkingdom.com/media/packages/fancybox/css/ckgallery.css" media="screen, print">
 <link rel="stylesheet" type="text/css" href="http://www.cardkingdom.com/media/packages/fancybox/css/fancybox.css" media="screen, print">
@@ -33,7 +71,7 @@ Magic The Gathering, magic cards, singles, card lists, deck ideas. -->
 <!-- Autocomplete -->
 <link rel="stylesheet" type="text/css" href="https://ajax.googleapis.com/ajax/libs/jqueryui/1.9.0/themes/base/jquery-ui.css" media="screen, print">
 <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.9.1/jquery-ui.min.js"></script>
-<script src="/media/packages/autocomplete/js/magic_20140913.js"></script>
+<script src="/media/packages/autocomplete/js/magic_20150528.js"></script>
 
 <!--
 <link rel="stylesheet" type="text/css" href="/shared/media/js/ext-3.2.1/resources/css/ext-all.css" />
@@ -222,6 +260,7 @@ Magic The Gathering, magic cards, singles, card lists, deck ideas. -->
     </form>
 </div>
 
+
 <!--
 <div style='text-align:center; border-top:1px solid #000; border-bottom:1px solid #000; background-color:#eee; padding:5px;'>
     <form action=/catalog/view>
@@ -289,7 +328,7 @@ enforcement agencies, or other relevant groups.
 <div id="footer"><br>
 
 <div style="text-align:center;">
-    Copyright © 1999-2014 Card Kingdom, Inc.<br><br>
+    Copyright © 1999-2015 Card Kingdom, Inc.<br><br>
     <a href="http://www.cardkingdom.com/">Card Kingdom Home</a> | <a href="http://www.cardkingdom.com/static/privacy">Privacy Policy</a> | <a href="http://www.cardkingdom.com/static/support">Contact Us</a>    <br><br>
     <img src="http://www.cardkingdom.com/media/images/web/wizmark.gif"></div></div>
 
