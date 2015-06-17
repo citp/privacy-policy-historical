@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the trippy.com privacy policy that was archived on 2014-12-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141215213937id_/http%3A//www.trippy.com/about/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the trippy.com privacy policy that was archived on 2015-06-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150617052009id_/http%3A//www.trippy.com/about/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
 <meta charset="utf-8">
@@ -9,7 +9,7 @@
 
 
 <meta http-equiv="Cache-Control" content="public, s-maxage=300">
-<meta http-equiv="Expires" content="Mon, 15 Dec 2014 21:44:37 GMT">
+<meta http-equiv="Expires" content="Wed, 17 Jun 2015 05:25:08 GMT">
 
 <title>Privacy | Trippy</title>
 
@@ -20,8 +20,8 @@
 
 
 
-<script type="text/javascript" async="" src="//doug1izaerwt3.cloudfront.net/5f14b82794463aee07b73b4cceb254a02dc7da5e.1.js"></script><script type="text/javascript" async="" src="//i.kissmetrics.com/i.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">    
-    var imJSPath='http://assets3.trippy.com/js/3.8.6.9/'; var imFileCheck=[]; var imAllScripts = []; var imScripts=[];
+<iframe src="javascript:false" title="" style="width: 0px; height: 0px; border: 0px; display: none;"></iframe><script type="text/javascript" async="" src="//doug1izaerwt3.cloudfront.net/5f14b82794463aee07b73b4cceb254a02dc7da5e.1.js"></script><script type="text/javascript" async="" src="//i.kissmetrics.com/i.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">    
+    var imJSPath='http://www.trippy.com/js/3.9.7.6/'; var imFileCheck=[]; var imAllScripts = []; var imScripts=[];
     function addAsyncScripts(src) {(function() {var s = document.createElement('script'), s1 = document.getElementsByTagName('script')[0];s.type = 'text/javascript';s.async = true;s.src = src;s1.parentNode.insertBefore(s, s1);})();}    
     
 
@@ -79,6 +79,37 @@ _gaq.push(['_trackPageview','GoOgLeTaG/PrivacyPagePageView"']);
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
   })();
 
+
+  
+(function(){
+  if(window.BOOMR && window.BOOMR.version){return;}
+  var dom,doc,where,iframe = document.createElement('iframe');
+  iframe.src = "javascript:false";
+  iframe.title = ""; iframe.role="presentation";
+  (iframe.frameElement || iframe).style.cssText = "width:0;height:0;border:0;display:none;";
+  where = document.getElementsByTagName('script')[0];
+  where.parentNode.insertBefore(iframe, where);
+
+  try {
+    doc = iframe.contentWindow.document;
+  } catch(e) {
+    dom = document.domain;
+    iframe.src="javascript:var d=document.open();d.domain='"+dom+"';void(0);";
+    doc = iframe.contentWindow.document;
+  }
+  doc.open()._l = function() {
+    var js = this.createElement("script");
+    if(dom) this.domain = dom;
+    js.id = "boomr-if-as";
+    js.src = '//c.go-mpulse.net/boomerang/' +
+    'ML55W-ZRJ7K-F89FR-4DSV6-S7MM2';
+    BOOMR_lstart=new Date().getTime();
+    this.body.appendChild(js);
+  };
+  doc.write('<body onload="document._l();">');
+  doc.close();
+})();
+   
     
     var _ctq = _ctq || [];
     var _kiq = _kiq || [];
@@ -120,7 +151,7 @@ _gaq.push(['_trackPageview','GoOgLeTaG/PrivacyPagePageView"']);
 	}
 	
 	function isTrackingParam(param) {
-		var validPrefixes = ['utm_', 'campaign', 'medium', 'source', 'hscpid', 'petTravelMode'];
+		var validPrefixes = ['utm_', 'campaign', 'medium', 'source', 'hscpid', 'intentbuy', 'petTravelMode'];
 		for (var i=0; i < validPrefixes.length; i++) {
 			if (param.indexOf(validPrefixes[i])>-1) {
 				return true;
@@ -219,7 +250,10 @@ _gaq.push(['_trackPageview','GoOgLeTaG/PrivacyPagePageView"']);
 		checkSource();
 	
 		eraseCookie(cookieName);
-		createCookie(cookieName, makeCookieString(), 1);
+		var trackingCookieValue = makeCookieString();
+		if(trackingCookieValue && trackingCookieValue.length > 0) {
+			createCookie(cookieName, trackingCookieValue, 1);	
+		}
 	} catch (e) {
 		//nothing
 	}
@@ -233,7 +267,7 @@ _gaq.push(['_trackPageview','GoOgLeTaG/PrivacyPagePageView"']);
 <link rel="stylesheet" type="text/css" href="http://yui.yahooapis.com/combo?3.10.3/app-transitions-css/app-transitions-css-min.css&amp;3.10.3/cssreset/cssreset-min.css&amp;3.10.3/cssfonts/cssfonts-min.css&amp;3.10.3/cssgrids/cssgrids-min.css&amp;3.10.3/widget-base/assets/skins/sam/widget-base.css&amp;3.10.3/autocomplete-list/assets/skins/sam/autocomplete-list.css&amp;3.10.3/cssgrids-responsive/cssgrids-responsive-min.css">
 
 
-	<link rel="stylesheet" type="text/css" href="http://assets4.trippy.com/generated/css/3.8.6.9/aggregated/dr2zdt3937353bc7an95eh.css">
+	<link rel="stylesheet" type="text/css" href="http://www.trippy.com/generated/css/3.9.7.6/aggregated/e12ze33937353bcfat9ber.css">
 
 	
 	
@@ -263,8 +297,8 @@ _gaq.push(['_trackPageview','GoOgLeTaG/PrivacyPagePageView"']);
 
 	
 		
-		<!--[if lt IE 9]><script src="http://assets3.trippy.com/js/3.8.6.9/html5shiv/html5shiv.js"></script><![endif]-->
-		<!--[if lt IE 10]><script src="http://assets3.trippy.com/js/3.8.6.9/thirdParty/placeholders.min.js"></script><![endif]-->
+		<!--[if lt IE 9]><script src="http://www.trippy.com/js/3.9.7.6/html5shiv/html5shiv.js"></script><![endif]-->
+		<!--[if lt IE 10]><script src="http://www.trippy.com/js/3.9.7.6/thirdParty/placeholders.min.js"></script><![endif]-->
 		
 </head>
 
@@ -282,7 +316,7 @@ _gaq.push(['_trackPageview','GoOgLeTaG/PrivacyPagePageView"']);
 	<div class="l-frame-wrapper yui3-g">
 
 		<div class="yui3-u-1-8">
-			<a href="/"><img alt="trippy" src="http://assets2.trippy.com/img/3.8.6.9/trippy-logo.png" width="80" height="30"></a>
+			<a href="/"><img alt="trippy" src="http://www.trippy.com/img/3.9.7.6/trippy-logo.png" width="80" height="30"></a>
 		</div>
 
 		<div class="yui3-u-7-8">
@@ -437,7 +471,7 @@ _gaq.push(['_trackPageview','GoOgLeTaG/PrivacyPagePageView"']);
 
 		<ul class="m-footer-menu m-footer-menu-left">
 			<li>
-				<span class="m-footer-view-copy">Ⓒ</span>Trippy.com 2014
+				<span class="m-footer-view-copy">Ⓒ</span>Trippy.com 2015
 			</li>
 			<li><strong>·</strong></li>
 			<li>
@@ -537,16 +571,16 @@ _gaq.push(['_trackPageview','GoOgLeTaG/PrivacyPagePageView"']);
 <script src="http://yui.yahooapis.com/combo?3.10.3/history-hash/history-hash-min.js&amp;3.10.3/history-hash-ie/history-hash-ie-min.js&amp;3.10.3/router/router-min.js&amp;3.10.3/event-delegate/event-delegate-min.js&amp;3.10.3/node-event-delegate/node-event-delegate-min.js&amp;3.10.3/view/view-min.js&amp;3.10.3/classnamemanager/classnamemanager-min.js&amp;3.10.3/pjax-base/pjax-base-min.js&amp;3.10.3/app-base/app-base-min.js&amp;3.10.3/querystring-stringify-simple/querystring-stringify-simple-min.js&amp;3.10.3/io-base/io-base-min.js&amp;3.10.3/pjax-content/pjax-content-min.js&amp;3.10.3/app-content/app-content-min.js&amp;3.10.3/parallel/parallel-min.js&amp;3.10.3/color-base/color-base-min.js&amp;3.10.3/dom-style/dom-style-min.js&amp;3.10.3/node-style/node-style-min.js&amp;3.10.3/transition/transition-min.js&amp;3.10.3/app-transitions/app-transitions-min.js&amp;3.10.3/escape/escape-min.js&amp;3.10.3/json-parse/json-parse-min.js&amp;3.10.3/model/model-min.js&amp;3.10.3/array-invoke/array-invoke-min.js&amp;3.10.3/arraylist/arraylist-min.js&amp;3.10.3/model-list/model-list-min.js" type="text/javascript"></script>
 <script src="http://yui.yahooapis.com/combo?3.10.3/lazy-model-list/lazy-model-list-min.js&amp;3.10.3/json-stringify/json-stringify-min.js&amp;3.10.3/model-sync-rest/model-sync-rest-min.js&amp;3.10.3/view-node-map/view-node-map-min.js&amp;3.10.3/handlebars-base/handlebars-base-min.js&amp;3.10.3/handlebars-compiler/handlebars-compiler-min.js&amp;3.10.3/app-transitions-native/app-transitions-native-min.js&amp;3.10.3/event-focus/event-focus-min.js&amp;3.10.3/event-valuechange/event-valuechange-min.js&amp;3.10.3/autocomplete-base/autocomplete-base-min.js&amp;3.10.3/autocomplete-sources/autocomplete-sources-min.js&amp;3.10.3/intl-base/intl-base-min.js&amp;3.10.3/intl/intl-min.js&amp;3.10.3/autocomplete-list/lang/autocomplete-list.js&amp;3.10.3/event-resize/event-resize-min.js&amp;3.10.3/dom-screen/dom-screen-min.js&amp;3.10.3/node-screen/node-screen-min.js&amp;3.10.3/selector-css2/selector-css2-min.js&amp;3.10.3/selector-css3/selector-css3-min.js&amp;3.10.3/pluginhost-base/pluginhost-base-min.js&amp;3.10.3/pluginhost-config/pluginhost-config-min.js&amp;3.10.3/node-pluginhost/node-pluginhost-min.js" type="text/javascript"></script>
 <script src="http://yui.yahooapis.com/combo?3.10.3/shim-plugin/shim-plugin-min.js&amp;3.10.3/attribute-complex/attribute-complex-min.js&amp;3.10.3/base-pluginhost/base-pluginhost-min.js&amp;3.10.3/widget-base/widget-base-min.js&amp;3.10.3/widget-htmlparser/widget-htmlparser-min.js&amp;3.10.3/widget-skin/widget-skin-min.js&amp;3.10.3/widget-uievents/widget-uievents-min.js&amp;3.10.3/widget-position/widget-position-min.js&amp;3.10.3/widget-position-align/widget-position-align-min.js&amp;3.10.3/autocomplete-list/lang/autocomplete-list_en.js&amp;3.10.3/autocomplete-list/autocomplete-list-min.js&amp;3.10.3/autocomplete-list-keys/autocomplete-list-keys-min.js&amp;3.10.3/autocomplete-plugin/autocomplete-plugin-min.js&amp;3.10.3/event-mouseenter/event-mouseenter-min.js&amp;3.10.3/event-hover/event-hover-min.js" type="text/javascript"></script>
-<script src="http://assets3.trippy.com/generated/js/3.8.6.9/aggregated/9i7ededfdhdg6p8i7s8zf21h.js" type="text/javascript"></script>
+<script src="http://www.trippy.com/generated/js/3.9.7.6/aggregated/9j7edfdgdidh6p8i7s8zf51h.js" type="text/javascript"></script>
 <script type="text/javascript">
 TR.Constants.LOGGED_IN = false;
 TR.Constants.DEVELOPMENT_MODE = false;
 TR.Constants.TRACK_PREFIX =''; 
 TR.Constants.COOKIE_NAME = "tr.uid";
 
-TR.Constants.IMG_PATH = "http://assets3.trippy.com/img/3.8.6.9/";
-TR.Constants.JS_PATH = "http://assets3.trippy.com/js/3.8.6.9/";           
-TR.Constants.CSS_PATH = "http://assets4.trippy.com/css/3.8.6.9/";
+TR.Constants.IMG_PATH = "http://www.trippy.com/img/3.9.7.6/";
+TR.Constants.JS_PATH = "http://www.trippy.com/js/3.9.7.6/";           
+TR.Constants.CSS_PATH = "http://www.trippy.com/css/3.9.7.6/";
     			
 TR.Global.pageName = 'PrivacyPage';
 TR.Global.useCDN = false;
