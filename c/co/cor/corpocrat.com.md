@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the corpocrat.com privacy policy that was archived on 2014-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141125020729id_/http%3A//corpocrat.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the corpocrat.com privacy policy that was archived on 2015-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150617025418id_/http%3A//corpocrat.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Corpocrat
-
-  *   *   *   * [](https://www.pinterest.com/pin/create/button/)
-  *   * 
-
 
 **PRIVACY POLICY**
 
@@ -45,7 +41,3 @@ We also use outside ad companies to display ads on our site. These ads may conta
 We encourage our users to check back our privacy policy frequently as it may change from time to time. 
 
 We encourage our users to check back our privacy policy frequently as it may change from time to time.
-
-  *   *   *   * [](https://www.pinterest.com/pin/create/button/)
-  *   * 
-
