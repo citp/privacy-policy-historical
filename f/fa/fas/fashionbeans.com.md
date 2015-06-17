@@ -1,14 +1,22 @@
-> *The following text is extracted and transformed from the fashionbeans.com privacy policy that was archived on 2014-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141210192214id_/http%3A//www.fashionbeans.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fashionbeans.com privacy policy that was archived on 2015-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150617050400id_/http%3A//www.fashionbeans.com/privacy-policy) for the most accurate reproduction.*
 
 # FashionBeans.com Official Privacy Policy
 
-BeansPublishing Limited. (“We”) are committed to protecting and respecting your privacy. FashionBeans.com is operated and run by BeansPublishing Limited, which is registered in England and Wales with Company No. 7740652 and VAT Registration 939 2582 86.
+BeansPublishing Limited. (“we”, “our”, “us”) are committed to protecting and respecting your privacy. FashionBeans.com (“website”, “FashionBeans”, “FashionBeans.com”) is operated and run by BeansPublishing Limited, which is registered in England and Wales with Company No. 7740652 and VAT Registration 939 2582 86.
 
-This privacy policy (together with our website [terms and conditions](http://www.fashionbeans.com/terms-and-conditions/) that apply to your use of our website) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. This Privacy Policy explains our data processing practices and your options regarding the ways in which your personal data is used. If you have any requests concerning your personal information or any queries with regard to our processing please contact us at [here](https://web.archive.org/contact-us/).
+This privacy policy (together with our website [terms and conditions](http://www.fashionbeans.com/terms-and-conditions/) that apply to your use of our website) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. This Privacy Policy explains our data processing practices and your options regarding the ways in which your personal data is used. If you have any requests concerning your personal information or any queries with regard to our processing please contact us at [privacy@beanspublishing.com](https://web.archive.org/web/20150617050400id_/http%3A//www.fashionbeans.com/mailto@privacy@beanspublishing.com).
 
 For the purpose of the Data Protection Act 1998 (the Act), the data controller is BeansPublishing Limited. of Ventura House, Ventura Park Road, Tamworth, Staffordshire, B78 3HL.
 
-##### Information Collected
+### Introduction
+
+By visiting FashionBeans, submitting information or using any of our products and services, you are accepting the practices outlined in this Privacy Policy.
+
+This Privacy Policy may be modified from time to time so check back often. Continued access of FashionBeans by you will constitute your acceptance of the changes or revisions to the Privacy Policy.
+
+This Privacy Policy is written to better explain how we collect and use your information. This Privacy Policy is a binding contract and you must agree to it to the same extent as our Terms and Conditions in order to use our services.
+
+### Information Collected
 
 When you participate in, access or sign up to any of the FashionBeans.com’s services, activities or online content, such as newsletters, competitions, article comments, comment subscription services or message boards, we may receive personal information about you. This can consist of information such as your name, email address or date of birth, depending on the activity.
 
@@ -18,7 +26,7 @@ We also monitor customer traffic patterns and site use (see the section on cooki
 
 We may collect and process the following data about you:
 
-  * Information that you provide by filling in forms on our site www.FashionBeans.com (the Website). This includes information provided at the time of registering for our newsletter, posting comments on our articles, registering for our forum or contacting us.
+  * Information that you provide by filling in forms on our site FashionBeans.com (the Website). This includes information provided at the time of registering for our newsletter, posting comments on our articles, registering for our forum or contacting us.
   * If you contact us, we may keep a record of that correspondence.
   * If you enter one of our competitions, we will keep a copy of the data you submit to us.
   * Details of your visits to our Website, including, but not limited to, traffic data, location data and other communication data and the resources that you access.
@@ -27,9 +35,9 @@ We may collect and process the following data about you:
 
 If you are aged 16 or under, please get your parent/guardian’s permission before you provide any personal information to FashionBeans.com. Users without this consent are not allowed to provide us with personal information.
 
-##### Cookies
+### Cookies
 
-A cookie is a small amount of data, which often includes a unique identifier that is sent to your computer or mobile phone (referred to here as a “device”) browser from a website’s computer and is stored on your device’s hard drive. Each website can send its own cookie to your browser if your browser’s preferences allow it, but (to protect your privacy) your browser only permits a website to access the cookies it has already sent to you, not the cookies sent to you by other websites. Many websites do this whenever a user visits their website in order to track online traffic flows. You can find out more about the way cookies work on <http://www.aboutcookies.org/>.
+A cookie is a small amount of data, which often includes a unique identifier that is sent to your computer, tablet or mobile phone (referred to here as a “device”) browser from a website’s computer and is stored on your device’s hard drive. Each website can send its own cookie to your browser if your browser’s preferences allow it, but (to protect your privacy) your browser only permits a website to access the cookies it has already sent to you, not the cookies sent to you by other websites. Many websites do this whenever a user visits their website in order to track online traffic flows. You can find out more about the way cookies work on <http://www.aboutcookies.org/>.
 
 FashionBeans.com uses cookies for a number of purposes, for instance to enable us to simplify the logging on process for registered users, to help ensure the security and authenticity of registered users, to track affiliate sales, to serve the correct advertising to visitors and to monitor traffic.
 
@@ -42,15 +50,15 @@ Cookies also help us to improve our website and to deliver a better and more per
 
 
 
-To read more about how FashionBeans.com utilises cookies on its website, please read our official cookies policy, which can be found here: <http://www.fashionbeans.com/cookies/>
+To read more about how FashionBeans.com utilises cookies on its website, please read our official cookies policy, which can be found here: [fashionbeans.com/cookies/](http://www.fashionbeans.com/cookies/)
 
 Most browsers allow you to turn off the cookie function. If you want to know how to do this please look at the help menu on your browser. This will impact on the functionality of the FashionBeans website, and the FashionBeans.com services you can use however.
 
 ##### Use Of Your Information
 
-We will use your information to provide and personalise our service. We will also use your contact details to communicate our bi-weekly newsletter with you **only if you have opted in**. We may use your information to send you offers and news about BeansPublishing.com products and services. _We will never sell your information to third parties (WE HATE SPAM)_. We may contact you by email for these purposes stated above.
+We will use your information to provide and personalise our service. We will also use your contact details to communicate our weekly newsletter with you only if you have opted in. We may use your information to send you offers and news about BeansPublishing Limited products and services. We will never sell your information to third parties without your prior consent. We may contact you by email for these purposes stated above.
 
-If you have subscribed to FashionBeans.com newsletter (or any Beanspublishing Limited website), you will be provided with an unsubscribe link in every mail we send you; which can be used if the mailing does not suit your personal taste or requirements.
+If you have subscribed to FashionBeans.com newsletter (or any BeansPublishing Limited website), you will be provided with an unsubscribe link in every mail we send you; which can be used if the mailing does not suit your personal taste or requirements.
 
 We like to hear your views to help us improve our service. From time to time, we may contact you by email. Again, if you do not want to be contacted for this purpose, you can unsubscribe at any time.
 
@@ -58,7 +66,7 @@ Please note that there may be instances where it may be necessary for us to comm
 
 To summarise, we may use information held about you in the following ways:
 
-  * To ensure that content from our Website is presented in the most effective manner for you, your computer or mobile device.
+  * To ensure that content from FashionBeans is presented in the most effective manner for you, your computer or mobile device.
   * To use IP addresses to identify the location of users, to block disruptive use, to establish the number of visits from different countries and to determine whether you are accessing the website from the UK or not.
   * To provide our basic services, activities or online content and to deal with your requests and enquiries.
   * To provide you with information, products or services that you request from us or which we feel may interest you, where you have consented to be contacted for such purposes (such as signing up for our newsletter or subscribing to our RSS feed).
@@ -75,7 +83,7 @@ We may contact you in these circumstances:
 
   * In relation to any service, activity or online content you have signed up for in order to ensure that we can deliver these services to you.
   * Where you have opted to receive further correspondence.
-  * In relation to any contribution you have submitted on the FashionBeans.com, e.g. on the FashionBeans forums, leaving product reviews or commenting on our articles.
+  * In relation to any contribution you have submitted on the FashionBeans.com, e.g. on the FashionBeans forums, leaving reviews or commenting on our articles.
 
 
 
@@ -91,7 +99,7 @@ We will keep your information confidential except where disclosure is required o
 
 If you post or send offensive, inappropriate or objectionable content anywhere on or to the BeansPublishing Limited websites or engage in any disruptive behaviour on any BeansPublishing Limited service, we may use your personal information to stop such behaviour.
 
-Where we reasonably believe that you are or may be in breach of any of the laws of England and Wales (or the law of Scotland if you live there), the BBC may use your personal information to inform relevant third parties such as your employer, school email/internet provider or law enforcement agencies about the content and your behaviour.
+Where we reasonably believe that you are or may be in breach of any of the laws of England and Wales (or the law of Scotland if you live there), BeansPublishing Limited may use your personal information to inform relevant third parties such as your employer, school email/internet provider or law enforcement agencies about the content and your behaviour.
 
 ##### Where We Store Your Personal Data
 
@@ -115,13 +123,13 @@ You can exercise your right to prevent such processing by checking certain boxes
 
 ###### Access To Information Held About You
 
-Under the Data Protection Act you have the right to request a copy of the personal information BeansPublishing Limited holds about you and to have any inaccuracies corrected. Any access request will be subject to a fee of £10 to meet our costs in providing you with details of the information we hold about you, and we will require you to prove your identity with 2 pieces of approved identification. We will use reasonable efforts to supply, correct or delete personal information about you on our files.
+Under the Data Protection Act you have the right to request a copy of the personal information BeansPublishing Limited holds about you and to have any inaccuracies corrected. Any access request will be subject to a fee of £10 to meet our costs in providing you with details of the information we hold about you, and we will require you to prove your identity with two (2) pieces of approved identification. We will use reasonable efforts to supply, correct or delete personal information about you on our files.
 
 ###### Newsletter Opt-out Process
 
-To unsubscribe from our newsletter please just follow this link and enter the email address you signed up with: [Unsubscribe To FashionBeans.com Newsletter](http://fashionbeans.us2.list-manage.com/unsubscribe?u=19047d6d4ac13d22514b86af8&id=af2c91e31b)
+To unsubscribe from the FashionBeans newsletter please just follow this link and enter the email address you signed up with: [Unsubscribe From FashionBeans Newsletter](http://fashionbeans.us2.list-manage.com/unsubscribe?u=19047d6d4ac13d22514b86af8&id=af2c91e31b)
 
-Alternatively you can reply to one of our Newsletters with ‘UNSUBSCRIBE’ in the subject line, or click the unsubscribe link (located at both the top and bottom) in any of our recent newsletter e-mails.
+Alternatively you can click the unsubscribe link (located at both the top and bottom) in any of our recent newsletter e-mails.
 
 ##### Changes To Our Privacy Policy
 
@@ -139,3 +147,5 @@ Ventura Park Road,
 Tamworth,  
 Staffordshire,  
 B78 3HL
+
+Alternatively, you can email us at: [privacy@beanspublishing.com](https://web.archive.org/web/20150617050400id_/http%3A//www.fashionbeans.com/mailto@privacy@beanspublishing.com).
