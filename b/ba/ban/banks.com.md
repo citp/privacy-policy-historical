@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the banks.com privacy policy that was archived on 2014-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141215124517id_/http%3A//www.banks.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the banks.com privacy policy that was archived on 2015-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150617055203id_/http%3A//www.banks.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Banks.com
 
