@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the codedwebmaster.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120050547id_/http%3A//www.codedwebmaster.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the codedwebmaster.com privacy policy that was archived on 2015-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150618010041id_/http%3A//www.codedwebmaster.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Web Design Training – Web Design in Nigeria, Web Hosting, Web Design Company in Nigeria
+# Privacy Policy | Web Design in Nigeria
 
 **The privacy of our visitors to codedwebmaster.com is important to us.**
 
