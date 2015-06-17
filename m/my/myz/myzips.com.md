@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the myzips.com privacy policy that was archived on 2014-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141126085829id_/http%3A//www.myzips.com/privacy.phtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myzips.com privacy policy that was archived on 2015-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150617070210id_/http%3A//www.myzips.com/privacy.phtml) for the most accurate reproduction.*
 
 # Myzips.com Privacy Policy
-
-  
-  
-[Home](http://www.myzips.com/) | [Top 10](http://www.myzips.com/top10.phtml) | [Advertise](http://www.myzips.com/advertise.phtml) | [New Software](http://www.myzips.com/new.phtml?days=7) | [Add Software](http://www.myzips.com/regform.phtml) | Bookmark | [Link Us](http://www.myzips.com/linktous.phtml) | [Blog](http://www.myzips.com/blog/)
 
 **Information Collection & Usage**  
 Our site will not share, sell, or otherwise divulge any information gathered on this site with unauthorized parties. 
@@ -26,6 +22,3 @@ In the course of serving advertisements to this site, our third-party advertiser
 
 **Managing Cookies**  
 You can adjust your own personal cookie settings in your browser. Please access your browsers "Help" section and search for "cookie" to manage how your browser handles cookies. You should be able to do everything from allowing all cookies to blocking all cookies. 
-
-  
-
