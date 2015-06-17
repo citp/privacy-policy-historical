@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dotblock.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120170424id_/http%3A//www.dotblock.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dotblock.com privacy policy that was archived on 2015-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150618011812id_/http%3A//www.dotblock.com/privacy.php) for the most accurate reproduction.*
 
 # DotBlock Privacy Policy | by DotBlock
 
@@ -22,7 +22,7 @@ DotBlock.com will not read or disclose to any third parties private e-mail or ot
 
 DotBlock.com is committed to providing secure and reliable service and has security measures in place to ensure no personally identifiable information may be obtained from outside parties. However, the end-user must always practice caution whenever using the public Internet and acknowledges the risks involved when sharing personal information online. 
 
-DotBlock.com has zero tolerance for spam. Please see the [Terms of Service](http://wwww.dotblock.com/terms.php) to read about DotBlock.com’s infractions against those who are found guilty of using our services for spam.
+DotBlock.com has zero tolerance for spam. Please see the [Terms of Service](https://web.archive.org/terms.php) to read about DotBlock.com’s infractions against those who are found guilty of using our services for spam.
 
 ### Deletion of Accounts
 
@@ -32,7 +32,7 @@ DotBlock.com will delete all private information on cancelled accounts unless ob
 
 DotBlock.com reserves the right to change, modify, add, or remove portions from this policy at any time. Customers will be notified only if the change affects the usage of personal information that was obtained before the policy change. You accept such changes by continuing use of our services.
 
-[Click here to view our Terms of Service](http://www.dotblock.com/terms.php)
+[Click here to view our Terms of Service](https://web.archive.org/terms.php)
 
 ### Contact
 
