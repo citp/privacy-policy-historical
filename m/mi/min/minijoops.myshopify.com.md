@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the minijoops.myshopify.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625054958id_/http%3A//minijoops.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the minijoops.myshopify.com privacy policy that was archived on 2015-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150617233834id_/http%3A//minijoops.com/pages/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Offering Quality Children’s Apparel and Fashion Clothes For Kids
+
+## Privacy Policy
 
 ### PRIVACY STATEMENT
 
