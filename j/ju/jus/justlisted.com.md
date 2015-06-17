@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the justlisted.com privacy policy that was archived on 2014-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141119235718id_/http%3A//www.marketleader.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the justlisted.com privacy policy that was archived on 2015-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150618000926id_/http%3A//www.marketleader.com/privacy) for the most accurate reproduction.*
 
 # Real estate marketing software for prospects, client management, websites | Market Leader
 
