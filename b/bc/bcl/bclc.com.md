@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bclc.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625225607id_/http%3A//corporate.bclc.com/customer-support/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bclc.com privacy policy that was archived on 2015-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150618011734id_/http%3A//corporate.bclc.com/customer-support/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -128,8 +128,8 @@ PO Box 9038, Stn. Prov. Govt.
 Victoria, BC V8W 9A4
 
 Location:  
-3rd Floor, 756 Fort Street  
-Victoria, BC V8W 1H2
+4th Floor, 947 Fort Street  
+Victoria, BC V8V 3K3
 
 Telephone: (250) 387-5629
 
