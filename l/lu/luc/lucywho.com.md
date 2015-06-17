@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lucywho.com privacy policy that was archived on 2014-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141007022238id_/http%3A//members.famousfix.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lucywho.com privacy policy that was archived on 2015-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150617105113id_/http%3A//www.famousfix.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# FamousFix.com
 
 ## 1\. General
 
