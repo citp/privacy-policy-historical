@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the earticleblog.com privacy policy that was archived on 2014-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141021133506id_/http%3A//www.earticleblog.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the earticleblog.com privacy policy that was archived on 2015-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150617223546id_/http%3A//www.earticleblog.com/p/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy | 3G Tricks October 2014, Free recharge, Coupons, Fileice Bypass - EarticleBlog.com
+# Privacy Policy | Free recharge tricks, 3G Tricks June 2015, Coupons, Fileice Bypass,paytm coupons
 
 Privacy Policy -EarticleBlog   
 
@@ -41,4 +41,28 @@ If you wish to disable cookies, you may do so through your individual browser op
   
   
 **About us**  
-**we are only sharing this tweaks for information and educational purpous only .We are not promoting any hacks & fraudulent activity.  **
+we are only sharing this tweaks for information and educational purpous only.We are not promoting any hacks & fraudulent activity.    
+**Disclaimer :-**
+
+This is a promotional SITE only,  
+All files placed here are for introducing purpose only.- Please, buy original games/ contents from author or developer site!  
+\- All The Tricks,moding software and Tips are Not my site creation it is taking by some Useful internet resources.so I am not responsible any thing.
+
+\- If you do not agree to all the terms, please disconnect from this site now itself. 
+
+\- By remaining at this site, you affirm your understanding and compliance of the above disclaimer and absolve this site of any responsibility henceforth 
+
+-All files found on this site have been collected from various sources across the web and are believed to be in the "public domain".
+
+\- All the logos and stuff are the property of their respective owners.
+
+-If you are the rightful owner of any contents posted here, and object to them being displayed or If you are one of representatives of copy rights department and you don't like our conditions of store, Please Contact Us with Proper legal data's.We will remove it in 24 hour!
+
+  
+
+
+## **Privacy Policy**
+
+* * *
+
+* * *
