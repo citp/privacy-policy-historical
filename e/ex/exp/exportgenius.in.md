@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the exportgenius.in privacy policy that was archived on 2014-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141109141018id_/http%3A//www.exportgenius.in/company/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exportgenius.in privacy policy that was archived on 2015-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150617193118id_/http%3A//www.exportgenius.in/company/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy | Export Genius | Export Import | Custom duty
 
