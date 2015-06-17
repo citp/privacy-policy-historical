@@ -1,8 +1,9 @@
-> *The following text is extracted and transformed from the experience.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122010244id_/http%3A//www.experience.com/entry-level-jobs/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the experience.com privacy policy that was archived on 2015-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150617050247id_/http%3A//www.experience.com/entry-level-jobs/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Experience™
 
-[Social Buttons](http://dev.linksku.com/sharepost/index.htm "Social bookmarking button WordPress Plugin") by [Linksku](http://linksku.com/ "Discover the best links on the web")
+  *   *   * 
+
 
 Experience, Inc. (“Experience,” “we” or “us”) is committed to maintaining the privacy of personal information of users (“you” or “User”) of the Experience Network (the “Experience Network” or the “Site”). Since we collect certain types of information about our Users, we want you to understand the terms and conditions surrounding the capture and use of that information. This privacy statement discloses what information we collect, how we use it and how to correct and change it.
 
