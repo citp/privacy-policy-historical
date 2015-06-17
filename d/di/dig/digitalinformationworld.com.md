@@ -1,52 +1,33 @@
-> *The following text is extracted and transformed from the digitalinformationworld.com privacy policy that was archived on 2013-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130425235255id_/http%3A//www.digitalinformationworld.com/p/blog-page.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digitalinformationworld.com privacy policy that was archived on 2015-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150617042129id_/http%3A//www.digitalinformationworld.com/p/privacy-policy.html) for the most accurate reproduction.*
 
-# Digital Information World: Privacy Policy
+# Privacy Policy
 
-[Blogpad - Digital World](http://ipadfour.blogspot.com/) is committed to protecting your privacy.  
-This privacy policy describes the privacy practices for the Blogpad - Digital World (the "Site"), at **_http://ipadfour.blogspot.com_** as these polices are extreme important to us.
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at irfanahmad1989@gmail.com.
 
-###  Information we collect
+At [www.digitalinformationworld.com](http://www.digitalinformationworld.com/), the privacy of our visitors is of extreme importance to us. This privacy policy page outlines the types of personal information is received and collected by www.digitalinformationworld.com and how it is used.
 
-We may collect the following information when your register on or fill out a [Contact form](http://ipadfour.blogspot.com/p/write-for-us.html) (or for Guest Post) on our site:
+**_Log Files_**  
+Like many other Web sites, www.digitalinformationworld.com makes use of log files. The information inside the log files includes internet protocol (IP) addresses, type of browser, Internet Service Provider (ISP), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
 
-  1. First name and/or last name
-  2. E-mail address
+**_Cookies and Web Beacons  _**  
+www.digitalinformationworld.com does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser.
 
-  
+**_DoubleClick DART Cookie  _**  
+• Google, as a third party vendor, uses cookies to serve ads on www.digitalinformationworld.com.  
+• Google's use of the DART cookie enables it to serve ads to users based on their visit to www.digitalinformationworld.com and other sites on the Internet.  
+• Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL: <http://www.google.com/privacy_ads.html>
 
+Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include:
 
-###  Collected information uses
-
-Any information provided by you is used to understand your needs and provide a better service. We may use your information for the following reasons:
-
-  1. To send periodic e-mails and to contact you for market research purposes
-  2. To personalize your website experience according to your interests
-  3. To improve our products or services based on your needs
-
-  
+  * Google Adsense
+  * BuySellAds
 
 
-###  Collected information security
 
-In order to prevent any unauthorised access or disclosure of the personal information that we gather, we have in place electronic and managerial procedures to secure and guard these information.
+These third-party ad servers or ad networks use technology to the advertisements and links that appear on www.digitalinformationworld.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies (such as cookies or JavaScript) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
 
-###  Usage of cookies
+www.digitalinformationworld.com has no access to or control over these cookies that are used by third-party advertisers.
 
-A cookie is a small file which asks permission to be placed on your computer hard drive. Cookies allows websites to respond to you as an individual. ipadfour.blogspot.com does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser.   
-You may choose to accept or decline cookies. Disabling cookies preferences may limit the full experience of our site.
+You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. www.digitalinformationworld.com's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
 
-###  **DoubleClick DART Cookie**
-
-.:: Google, as a third party vendor, uses cookies to serve ads on ipadfour.blogspot.com.  
-.:: Google's use of the DART cookie enables it to serve ads to users based on their visit to ipadfour.blogspot.com and other sites on the Internet.   
-.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - http://www.google.com/privacy_ads.html 
-
-Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include...
-
-Google Adsense
-
-###  **Log Files**
-
-Like many other Web sites, ipadfour.blogspot.com makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
-
-If you have any question related to our privacy policy contact us by email : _irfanahmad1989@gmail.com_
+If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites.
