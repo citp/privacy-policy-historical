@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kia-buzz.com privacy policy that was archived on 2014-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141116144140id_/http%3A//kia-buzz.com%3Fpage_id%3D17) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kia-buzz.com privacy policy that was archived on 2015-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150617025014id_/http%3A//kia-buzz.com%3Fpage_id%3D17) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -46,7 +46,7 @@ Kia-BUZZ contains links to third party sites not controlled by KMC or covered by
 
 Protecting your privacy online is an evolving area, and KMC’s Web sites and their affiliate’s websites are constantly evolving to meet these demands.
 
-If you have any comments or questions regarding our Policy, or KMC’s treatment of personal information, please contact [Kia-BUZZ editor](mailto:jeet.dhindsa@kia.co.kr). **While we cannot guarantee privacy perfection, we will address any issue to the best of our abilities.** When we receive written complaints, it is our policy to contact the complaining user regarding his or her concerns.  We will cooperate with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints regarding the transfer of personal data that cannot be resolved between KMC and an individual.
+If you have any comments or questions regarding our Policy, or KMC’s treatment of personal information, please contact [Kia-BUZZ editor](mailto:jiwonhan@kia.com). **While we cannot guarantee privacy perfection, we will address any issue to the best of our abilities.** When we receive written complaints, it is our policy to contact the complaining user regarding his or her concerns.  We will cooperate with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints regarding the transfer of personal data that cannot be resolved between KMC and an individual.
 
 **Changes to This Policy**
 
