@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techbucket.org privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121110757id_/http%3A//www.techbucket.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techbucket.org privacy policy that was archived on 2015-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150618153637id_/http%3A//www.techbucket.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Tech Bucket
 
@@ -8,7 +8,7 @@
 
 **Privacy Policy for www.techbucket.org**
 
-If you require any more information or have any questions about our privacy policy, please feel free to [contact us](http://www.techbucket.org/contact-us "contact us") by email at vishalgaikar@gmail.com.
+If you require any more information or have any questions about our privacy policy, please feel free to [contact us](http://www.techbucket.org/contact-us) by email at vishalgaikar@gmail.com.
 
 At www.techbucket.org, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.techbucket.org and how it is used.
 
@@ -19,7 +19,7 @@ Like many other Web sites, www.techbucket.org makes use of log files. The inform
 www.techbucket.org does not use cookies.
 
 **DoubleClick DART Cookie**  
-.:: [Google](http://www.techbucket.org/category/internet/gmail "Google"), as a third party vendor, uses cookies to serve ads on www.techbucket.org.  
+.:: [Google](http://www.techbucket.org/category/internet/gmail), as a third party vendor, uses cookies to serve ads on www.techbucket.org.  
 .:: Google’s use of the DART cookie enables it to serve ads to users based on their visit to www.techbucket.org and other sites on the Internet.  
 .:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – http://www.google.com/privacy_ads.html
 
