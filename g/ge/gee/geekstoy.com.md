@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the geekstoy.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122045235id_/http%3A//www.geekstoy.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geekstoy.com privacy policy that was archived on 2015-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150618035100id_/http%3A//www.geekstoy.com/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Geeks Toy
 
@@ -21,11 +21,11 @@ For the purposes of account management and technical support, we may collect the
 
 
 
-In very limited circumstances when you contact us for support, we may ask you for your Betfair or Betdaq user name to enable us to identify you or communicate with the exchange to resolve your issue.
+In very limited circumstances when you contact us for support, we may ask you for your Betfair, Betdaq or Matchbook user name to enable us to identify you or communicate with the exchange to resolve your issue.
 
 ## What we do not collect
 
-We do not collect any personal information held by Betfair or Betdaq including but not limited to passwords, account balances, betting activity, email addresses or payment info. We do not collect any files or personal information from your system other than items specified above.
+We do not collect any personal information held by Betfair, Betdaq or Matchbook including but not limited to passwords, account balances, betting activity, email addresses or payment info. We do not collect any files or personal information from your system other than items specified above.
 
 ## Security
 
@@ -39,7 +39,7 @@ We will process your Personal Information in order to allow you access and make 
 
 Your Personal Information may for the purposes described above, be transferred subject to appropriate agreement to third parties, for the processing of that Personal Information on our behalf. From time to time, we may retain third parties to process your Personal Information for the purposes listed above and such processing will be governed by a contract in the form required by law.
 
-Where required by law, your Personal Information may also be disclosed to an applicable governmental, regulatory, sporting or enforcement authority. For the purposes of support, where we deem it appropriate, your Personal Information may be disclosed to Betfair or Betdaq. We may also at our discretion either contact you, or disclose your details to business associates within the industry where we have been provided specific evidence of anonymous abuse or libel on your part.
+Where required by law, your Personal Information may also be disclosed to an applicable governmental, regulatory, sporting or enforcement authority. For the purposes of support, where we deem it appropriate, your Personal Information may be disclosed to Betfair, Betdaq or Matchbook. We may also at our discretion either contact you, or disclose your details to business associates within the industry where we have been provided specific evidence of anonymous abuse or libel on your part.
 
 We will not sell, or disclose your information to third parties for any purpose other than specified above.
 
