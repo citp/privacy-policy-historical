@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the hermo.my privacy policy that was archived on 2014-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141108203945id_/http%3A//www.hermo.my/privacy.html%3Fucf%3Dfooter) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hermo.my privacy policy that was archived on 2015-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150619012540id_/http%3A//www.hermo.my/privacy.html%3Fucf%3Dfooter) for the most accurate reproduction.*
 
 # Hermo is Beauty Collection. Turning beauty in a click
 
-#### Privacy Statement
+## Privacy Statement
 
 At Hermo.my, we take your privacy seriously! Please read this Statement of Privacy to be more aware about our policy on collecting, using and disclosing personal information. Hermo.my occasionally update this Statement of Privacy to reflect company and user feedback. We encourage you to review this Statement periodically to be informed of how we are protecting your personal information.
 
