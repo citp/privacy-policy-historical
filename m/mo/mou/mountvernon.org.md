@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mountvernon.org privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220102420id_/http%3A//www.mountvernon.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mountvernon.org privacy policy that was archived on 2015-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150618042318id_/http%3A//www.mountvernon.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy · George Washington's Mount Vernon
 
