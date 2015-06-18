@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ncr.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230175923id_/http%3A//www.ncr.com/home/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ncr.com privacy policy that was archived on 2015-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150618053638id_/http%3A//www.ncr.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | NCR.com | NCR
+# Privacy Policy
 
 ### **NCR Privacy Policy**
 
@@ -60,7 +60,7 @@ In certain circumstances, NCR may use or release Personal Information to third p
 
 #### Setting Your Privacy Preferences and Opting Out
 
-We will provide mechanisms for opting out of mass marketing communications directed to you. In addition, you may indicate to us that you no longer wish to receive emailed marketing communications from us by following the unsubscribe instructions included in the email communications we may provide to you, and you may always **contact us** directly as set forth in this Privacy Policy. 
+We will provide mechanisms for opting out of mass marketing communications directed to you. In addition, you may indicate to us that you no longer wish to receive emailed marketing communications from us by following the unsubscribe instructions included in the email communications we may provide to you, and you may always **contact us** directly as set forth in this Privacy Policy.
 
 #### Accessing and Maintaining the Accuracy of Your Personal Information
 
@@ -88,17 +88,17 @@ Web Links _._   Emails from NCR may contain links that are designed to take you
 
 Local Shared Objects (“Flash Cookies”).  NCR may use Adobe Flash Player® to deliver multimedia content, such as a video, to you.  To improve your user experience, NCR may use Flash local shared objects (LSOs) – sometimes called “flash cookies” – to store your flash content information and preferences, similar to other types of cookies NCR employs.  You can manage flash cookies by accessing the following link on Adobe’s website:  
 **<http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html>**  
-In addition, users of the Mozilla Firefox browser can install an extension that detects and deletes flash cookies.  You may obtain this add-on by accessing the following link:   
+In addition, users of the Mozilla Firefox browser can install an extension that detects and deletes flash cookies.  You may obtain this add-on by accessing the following link:  
 **<https://addons.mozilla.org/en-US/firefox/addon/betterprivacy/>**
 
-Online Advertising _._ Third parties do not advertise on NCR’s websites.  NCR, however, may contract with third parties who collect information about your online activities over time and across different websites (including NCR websites).  We engage with these third parties to help us deliver targeted advertisements about NCR on other websites you visit. These third parties use cookies or web beacons across multiple websites, including NCR’s websites, to collect certain information about you to provide you with targeted ads based on your interests. Your name, address, and other contact information are not collected. **** You have several choices to control the delivery of targeted ads to you.
+Online Advertising _._ Third parties do not advertise on NCR’s websites.  NCR, however, may contract with third parties who collect information about your online activities over time and across different websites (including NCR websites).  We engage with these third parties to help us deliver targeted advertisements about NCR on other websites you visit. These third parties use cookies or web beacons across multiple websites, including NCR’s websites, to collect certain information about you to provide you with targeted ads based on your interests. Your name, address, and other contact information are not collected. You have several choices to control the delivery of targeted ads to you.
 
-  * You may turn off cookies in your browser. For more information about this choice, please refer to the “ **Use of Cookies and Other Technologies** ” section of this Privacy Policy. 
-  * Some browsers permit users to adjust browser settings or may contain add-ons to help you manage your ad choices.  Please refer to the online help offered with your browser or to the manufacturer’s website. 
+  * You may turn off cookies in your browser. For more information about this choice, please refer to the “ **Use of Cookies and Other Technologies** ” section of this Privacy Policy.
+  * Some browsers permit users to adjust browser settings or may contain add-ons to help you manage your ad choices.  Please refer to the online help offered with your browser or to the manufacturer’s website.
   * You may opt out of the third party’s advertising network.  We have provided the following information to help you with this choice: 
     * The Network Alliance Initiative and the Digital Advertising Alliance websites offer opt-out tools to assist you in managing your choices for participating companies. For more information about these tools please visit **[NAI Opt-Out Page](http://www.networkadvertising.org/managing/opt_out.asp) **and **[DAA Opt-Out Page.](http://www.aboutads.info/choices/)**
-    * You may opt out of Google's use of cookies by visiting Google's **[AdsSettings](http://www.google.com/settings/ads)**. 
-    * You may opt out of DoubleClick's use of cookies by visiting the **[DoubleClick Opt-Out Page](https://www.google.com/settings/ads/onweb#display_optout)** or the **[NAI Opt-Out Page](http://www.networkadvertising.org/managing/opt_out.asp)**.
+    * You may opt out of Google’s use of cookies by visiting Google’s **[AdsSettings](http://www.google.com/settings/ads)**.
+    * You may opt out of DoubleClick’s use of cookies by visiting the **[DoubleClick Opt-Out Page](https://www.google.com/settings/ads/onweb#display_optout)** or the **[NAI Opt-Out Page](http://www.networkadvertising.org/managing/opt_out.asp)**.
     * You may opt out of Bizo’s use of cookies by visiting the **[Bizo Opt-Out Page](http://www.bizo.com/businessProfessionals/opt_out)**.
 
 
@@ -109,11 +109,11 @@ NCR websites do not respond to Web browser “do not track” browser header (or
 
 #### Protection of Your Personal Information
 
-NCR takes data security seriously. **** We have implemented reasonable and appropriate physical, technical, and organizational measures that are designed to protect Personal Information covered by this Privacy Policy, including Contract Data, from loss, misuse, and unauthorized access, disclosure, alteration, and destruction. NCR is not responsible for, nor can it guarantee, the security of any Personal Information transmitted over the Internet. There is no guarantee that Personal Information may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or organizational measures. It is your responsibility to protect the security of your login information.
+NCR takes data security seriously. We have implemented reasonable and appropriate physical, technical, and organizational measures that are designed to protect Personal Information covered by this Privacy Policy, including Contract Data, from loss, misuse, and unauthorized access, disclosure, alteration, and destruction. NCR is not responsible for, nor can it guarantee, the security of any Personal Information transmitted over the Internet. There is no guarantee that Personal Information may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or organizational measures. It is your responsibility to protect the security of your login information.
 
 #### U.S. – EU and U.S. – Switzerland Safe Harbor
 
-In connection with providing the Aptra e-Marketing for Retail SaaS offering NCR has certified that offering’s compliance with the U.S. – E.U. and U.S. – Switzerland Safe Harbor Frameworks with respect to Personal Information that NCR operations in the E.U. and Switzerland transfer to NCR operations in the U.S **.   **Please click **[here](http://www.ncr.com/products/gm/marketing/aptra-emarketing-retail/privacy-policy) **to review the NCR’s safe harbor statement for this offering.
+In connection with providing the Aptra e-Marketing for Retail SaaS offering NCR has certified that offering’s compliance with the U.S. – E.U. and U.S. – Switzerland Safe Harbor Frameworks with respect to Personal Information that NCR operations in the E.U. and Switzerland transfer to NCR operations in the U.S **.   **Please click **[here](http://www.ncr.com/wp-content/uploads/Aptra_eMarketing_for_Retail_SaaS_offering_Safe_Harbor_Policy.pdf) **to review the NCR’s safe harbor statement for this offering.
 
 #### Children’s Information
 
@@ -127,8 +127,8 @@ If we update this Privacy Policy we will notify you by posting a new Privacy Pol
 
 We want to address any concerns you may have. You may send any comments or questions regarding this Privacy Policy or NCR’s handling of your Personal Information by email to **[NCR Corporation](mailto:ce230007@ncr.com?subject=NCR%20Privacy%20Policy%20Inquiry)** , or by mail to:
 
-NCR Corporation   
-Attn: Global Privacy Office, Law Department                                                     
-3097 Satellite Boulevard   
-Duluth, GA 30096   
+NCR Corporation  
+Attn: Global Privacy Office, Law Department  
+3097 Satellite Boulevard  
+Duluth, GA 30096  
 USA
