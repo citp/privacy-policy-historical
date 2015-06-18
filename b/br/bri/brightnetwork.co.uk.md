@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brightnetwork.co.uk privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217030335id_/http%3A//www.brightnetwork.co.uk/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brightnetwork.co.uk privacy policy that was archived on 2015-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150618102846id_/http%3A//www.brightnetwork.co.uk/content/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Bright Network
 
@@ -65,4 +65,4 @@ In the first instance, should you wish to check or change your data choices, you
 
 Should you have any problems in doing this, you can contact us either by logging onto the Website, emailing us at hello@brightnetwork.co.uk, calling the Bright Network offices or writing to us at our registered office address.
 
-Bright London (UK) Limited is registered with the ICO as entry Z1258381.
+Bright Network (UK) Limited is registered with the ICO as entry Z1258381.
