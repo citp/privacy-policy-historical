@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the culturekings.com.au privacy policy that was archived on 2014-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141224112329id_/http%3A//www.culturekings.com.au/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the culturekings.com.au privacy policy that was archived on 2015-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150618060446id_/http%3A//www.culturekings.com.au/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
 
 # Privacy Policy | Culture Kings Online Store
 
@@ -54,9 +54,6 @@ When you visit Culture Kings, our company servers will automatically record info
 
 This information is collected for analysis and evaluation in order to help us improve our site and the services and products we provide. This data will not be used in association with any other personal information.
 
-  
-
-
 ## Google Analytics & Google AdWords Remarketing
 
 Culture Kings use Analytics Remarketing with Google Analytics, and AdWords Remarketing with Google AdWords to advertise online. Third-party vendors, including Google, may show Culture Kings ads on sites across the Internet. This could mean that we advertise to previous visitors who haven’t completed a task on our site, for example using the contact form to make an enquiry. This could be in the form of an advertisement on the Google search results page, or a site in the Google Display Network. Third-party vendors, including Google, use cookies to serve ads based on someone’s past visits to the Culture Kings website.
@@ -68,9 +65,6 @@ Any data collected will be used in accordance with our own privacy policy and Go
 You can opt-out of Google Analytics for Display Advertising and customise Google Display Network ads [HERE](https://www.google.com/settings/ads).
 
 You can also use this Analytics opt out tool [HERE](https://tools.google.com/dlpage/gaoptout/).
-
-  
-
 
 ## Do we disclose any information to outside parties?
 
@@ -89,6 +83,10 @@ This online privacy policy applies only to information collected through our web
 ## Your Consent 
 
 By using our site, you consent to our privacy policy.
+
+## Unsubscribing
+
+Unsubscribing can be initiated at the link at the footer of each email,  by contacting us at [info@culturekings.com.au,](https://web.archive.org/web/20150618060446id_/http://www.culturekings.com.au/privacy-policy-cookie-restriction-mode/info@culturekings.com.au,) or by entering your email into <http://www.culturekings.com.au/unsubscribe> 
 
 ## Changes to our Privacy Policy
 
