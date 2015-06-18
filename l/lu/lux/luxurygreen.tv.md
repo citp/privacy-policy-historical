@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the luxurygreen.tv privacy policy that was archived on 2014-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141226134521id_/http%3A//www.luxurygreen.tv/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the luxurygreen.tv privacy policy that was archived on 2015-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150618221202id_/http%3A//www.luxurygreen.tv/privacy-policy) for the most accurate reproduction.*
 
 # LuxuryGreen | Privacy Policy
 
