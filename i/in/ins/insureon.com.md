@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the insureon.com privacy policy that was archived on 2014-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141228200532id_/http%3A//www.insureon.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insureon.com privacy policy that was archived on 2015-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150618105710id_/http%3A//www.insureon.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Statement | Disclosures | Insureon
 
@@ -42,7 +42,7 @@ We may also combine your information with the information of other users so that
 **5\. DISCLOSURE OF YOUR INFORMATION TO THIRD PARTIES.** We will not sell or lease your information to, or exchange your information with, third parties without first obtaining your express consent, except that we may share your information with the following third parties: 
 
   * Insurance Companies: If you request an insurance quote through the Service, or otherwise use the Service to purchase insurance coverage, we may share the information you provide through the Service with insurance companies. We will only share your information with insurance companies as necessary to provide you with the products or services you have requested through the Service. If you elect to proceed with purchasing insurance from a particular insurance company, that insurance company may seek additional information about you, including by contacting you directly by email, postal mail or telephone or running a credit check about you. We will obtain your prior consent if an insurance company intends to conduct a credit check about you. Insurance companies are only permitted to contact you directly in order to provide you with the products or services you have requested through the Service. 
-  * Third Party Marketing Partners: If you opt-in to receive marketing communications from third parties, we may, from time to time, share your name, email address and postal mailing address with a few carefully selected third party marketing partners that we believe offer products or services that may be of interest to you. If you would like us to stop providing this information to our third party marketing partners, you may opt-out by emailing us at [support@insureon.com](mailto:support@insureon.com), calling us at (800) 668-7020 or writing to us at 1301 Central Expressway South, Suite 115, Allen, Texas 75013.
+  * Third Party Marketing Partners: If you opt-in to receive marketing communications from third parties, we may, from time to time, share your name, email address and postal mailing address with a few carefully selected third party marketing partners that we believe offer products or services that may be of interest to you. If you would like us to stop providing this information to our third party marketing partners, you may opt-out by emailing us at [support@insureon.com](mailto:support@insureon.com), calling us at (800) 688-1984 or writing to us at 30 N LaSalle St., Suite 2500, Chicago, IL 60602.
   * Our Service Providers: We may share your information with third party contractors or service providers who provide certain services to us or on our behalf, such as operating and supporting the Service. These service providers will only have access to the information needed to perform these limited functions on our behalf and are required to provide your information with at least the same level of protection and security as we use with regard to your information. 
   * Our Affiliates: We may share some or all of your information with our subsidiaries and corporate affiliates, joint venturers, or other companies under common control with us. We will require these entities to comply with the terms of this Privacy Policy with regard to their use of your information. 
   * Companies that Acquire Our Business or Assets: If our company or our assets are acquired by, transferred to or merged with another company, that company may acquire the information about you collected by us. We will require the applicable company to assume the rights and obligations that are applicable to your information at the time of the acquisition, transfer or merger.
@@ -62,7 +62,7 @@ Some third-party advertising companies may provide a mechanism to opt-out of the
 
 **9\. USE OF INFORMATION OUTSIDE OF YOUR COUNTRY OF RESIDENCE.** The Service is directed to users located in those states in the United States in which insureon or any of its affiliates are licensed insurance agents or brokers. The Service is not intended as a solicitation for insurance in any state where insureon or any of its affiliates are not licensed. If you are located outside of the United States and choose to use the Service or provide your information to us, your information will be transferred, processed and stored in the United States. U.S. privacy laws may not be as protective as those in your jurisdiction. Your agreement to the terms of this Privacy Policy followed by your submission of information represents your agreement to this practice. If you do not want your information transferred to or processed or stored in the United States, you should not use the Service.
 
-**10\. UPDATING AND DELETING INFORMATION.** If you create an account through the Service, you can access, change and update the information that you provide through the Service by emailing us at [support@insureon.com](mailto:support@insureon.com), calling us at (800) 668-7020 or writing to us at 1301 Central Expressway South, Suite 115, Allen, Texas 75013.
+**10\. UPDATING AND DELETING INFORMATION.** If you create an account through the Service, you can access, change and update the information that you provide through the Service by emailing us at [support@insureon.com](mailto:support@insureon.com), calling us at (800) 688-1984 or writing to us at 30 N LaSalle St., Suite 2500, Chicago, IL 60602.
 
 **11\. OPT-OUT OF MARKETING EMAIL.** From time to time we may send you marketing communications about our products and services using the email you provide as part of the registration process. You may elect not to receive these email communications from us by either following the link provided in the applicable email communication or contacting us at [support@insureon.com](mailto:support@insureon.com).
 
@@ -72,7 +72,7 @@ Some third-party advertising companies may provide a mechanism to opt-out of the
 
 **14\. NOTIFICATION OF CHANGES.** We will notify you of material changes to this Privacy Policy by posting the amended terms on the Site at least thirty (30) days before the effective date of the changes. You may cancel your account prior to the end of the applicable thirty (30) day period by contacting us using the contact information in Section 15 below. If you choose to cancel your account within this thirty (30) day period, you will not be bound by the new terms.
 
-**15\. CONTACT INFORMATION.** If you have any questions about this Privacy Policy you may contact us by email at [support@insureon.com](mailto:support@insureon.com) or by telephone at (800) 668-7020.
+**15\. CONTACT INFORMATION.** If you have any questions about this Privacy Policy you may contact us by email at [support@insureon.com](mailto:support@insureon.com) or by telephone at (800) 688-1984.
 
 ## How do we protect your customer information?
 
@@ -91,10 +91,10 @@ If at some point in the future, there is a change to our information usage pract
 You can correct and update pertinent information by email, phone, or postal mail.
 
 Insureon  
-1301 Central Expy. South, Suite 115 
-
-Allen, TX 75013  
-800 655-1714  
+30 N LaSalle St.  
+Suite 2500  
+Chicago, IL 60602  
+(800) 688-1984  
 [info@insureon.com](mailto:info@insureon.com)
 
 ## How secure is my information?
@@ -113,4 +113,4 @@ The U.S. Federal Trade Commission offers an overview of privacy protection.
 
 Be sure to check the privacy policies of each site you visit. If you have questions or comments regarding Insureon privacy practices, please send an email to [info@insureon.com](mailto:info@insureon.com)
 
-We hope you have found this information helpful. If you have any questions or would like more information, please contact customer services at 800 668 7020.
+We hope you have found this information helpful. If you have any questions or would like more information, please contact customer services at (800) 688-1984.
