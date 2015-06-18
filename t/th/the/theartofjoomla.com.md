@@ -1,44 +1,67 @@
-> *The following text is extracted and transformed from the theartofjoomla.com privacy policy that was archived on 2014-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140923131621id_/http%3A//www.theartofjoomla.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theartofjoomla.com privacy policy that was archived on 2015-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150618051549id_/http%3A//theartofjoomla.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy
+# Privacy & Disclosure Policy – Eddify.me
 
-**Our Commitment To Privacy**
+This is my personal website written and edited by me. For questions about this site, please [contact me](https://web.archive.org/contact.html). All content provided is for informational purposes only. The writings and posts on this website are my own and don’t necessarily represent the positions, strategies, or opinions of my employer or its subsidiaries. I make no representations as to the accuracy or completeness of any information found here or by following any links. I will not be liable for any errors or omissions in this information nor for the availability of this information. I will not be liable for any losses, injuries, or damages from the display or use of this information.
 
-Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
+## Privacy Policy
 
-**The Information We Collect**
+The privacy of my visitors is extremely important. This Privacy Policy outlines the types of personal information that is received and collected and how it is used.
 
-This notice applies to all information collected or submitted on this website. On some pages, you can contact us. The types of personal information collected at these pages includes:
+First and foremost, I will never share your email address or any other personal information to anyone without your direct consent. Period.
 
-Name  
-Email address
+### Log Files
 
-**The Way We Use Information**
+Like many other websites, this website uses log files to help learn about when, from where and how often traffic flows to this site. The information in the log files include:
 
-We use the information you provide about yourself when responding to queries. Except for public information supplied to be displayed in our directory, we do not share this information with outside parties except to the extent necessary to respond.
+  * Internet Protocol addresses (IP)
+  * Types of browser
+  * Internet Service Provider (ISP)
+  * Date and time stamp
+  * Referring and exit pages
+  * Number of clicks
 
-We use return email addresses to answer the email we receive. Such addresses are not used for any other purpose and are not shared with outside parties.
 
-We use non-identifying and aggregate information to better design our website and to share with advertisers. For example, we may tell an advertiser that X number of individuals visited a certain area on our website, or that Y number of men and Z number of women filled out our registration form, but we would not disclose anything that could be used to identify those individuals.
 
-Finally, we never use or share the personally identifiable information provided to us online in ways unrelated to the ones described above without also providing you an opportunity to opt-out or otherwise prohibit such unrelated uses.
+All of this information is not linked to anything that is personally identifiable.
 
-**Our Commitment To Data Security**
+### Cookies and web beacons
 
-To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online.
+Like nearly all Websites, this website stores “convenience” cookies on your computer whenever you leave a comment. These cookies record the name, and email address that you enter when you submit a comment so that you wont have to re-type that information the next time you leave a comment.
 
-**Our Commitment To Children's Privacy**
+Third-party advertisers may also place and read cookies on your browser and/or use web beacons to collect information. This website has no access or control over these cookies. You should review the respective privacy policies on any and all third-party ad servers for more information regarding their practices and how to opt-out.
 
-Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our website from those we actually know are under 13, and no part of our website is structured to attract anyone under 13.
+If you wish to disable cookies, you may do so through your web browser options.
 
-**How You Can Access Or Correct Your Information**
+Instructions for doing so and for other cookie-related management can be found on the specific web browsers’ websites.
 
-You can access all your personally identifiable information that we collect online and maintain by calling us or sending us an email.. We use this procedure to better safeguard your information.
+#### Google Adsense
 
-You can correct factual errors in your personally identifiable information by sending us a request that credibly shows error.
+Google Adsense, a third party affiliate marketing network, uses cookies to help make sure I get a commission when you buy a product after clicking on a link or ad banner that takes you to the site of one of their merchants. You can read [Google Adsense Privacy Policy](http://support.google.com/adsense/bin/answer.py?hl=en&answer=48182).
 
-To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections.
+#### Google Analytics
 
-**How To Contact Us**
+Google Analytics is a web analytics tool I use to help understand how visitors engage with this website. It reports website trends using cookies and web beacons without identifying individual visitors. You can read [Google Analytics Privacy Policy](http://www.google.com/analytics/learn/privacy.html).
 
-Should you have other questions or concerns about these privacy policies, please contact us using our online form.
+## Disclosure Policy
+
+I make money on this site through affiliate programs. If you click an affiliate link or ad banner and buy the product, you help support this site because I’ll get a percentage of that sale.
+
+Currently I’m an affiliate for Google Adsense.
+
+What this means for you:
+
+  * I do not and will not recommend a product just because I’m an affiliate.
+  * I became an affiliate to earn some revenue towards the costs of running and maintaining this site. Where I have direct control over which ads are served on this site I offer only products that are directly related to the topic of this site and products that a reader/subscriber would have a genuine interest in or need of.
+  * I do not recommend products just for the sake making money.
+  * I recommend products because I think they are valuable to my readers.
+  * I do not let the compensation I receive influence the content, topics, posts, or opinions expressed on this blog.
+  * I respect and value my readers too much to write anything other than my own genuine and objective opinions and advice.
+
+
+
+Just like this site, my Disclosure Policy is a work in progress. As the revenue streams evolve, so will this page.
+
+Your use of this site, in any and all forms, constitutes an acceptance of this Privacy Policy. This Privacy Policy is reviewed and revised from time to time. You will want to revisit it regularly. 
+
+**Last Updated:** November 14, 2014.
