@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the kayak.com.au privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121013838id_/http%3A//www.kayak.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kayak.com.au privacy policy that was archived on 2015-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150618032156id_/http%3A//www.kayak.com.au/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - KAYAK
+# Privacy Policy – KAYAK
 
 _Effective as of 26 September 2013_
 
