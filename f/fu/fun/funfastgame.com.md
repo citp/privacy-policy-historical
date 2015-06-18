@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the funfastgame.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220044142id_/http%3A//www.funfastgame.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the funfastgame.com privacy policy that was archived on 2015-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150618082618id_/http%3A//www.funfastgame.com/privacy-policy) for the most accurate reproduction.*
 
 # FUNFASTGAME PRIVACY POLICY | Free Online Games
 
