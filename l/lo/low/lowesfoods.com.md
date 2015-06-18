@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the lowesfoods.com privacy policy that was archived on 2014-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141219094228id_/http%3A//www.lowesfoods.com/aboutus/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lowesfoods.com privacy policy that was archived on 2015-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150618142131id_/http%3A//www.lowesfoods.com/aboutus/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Lowes Foods
 
 ###### Privacy Commitment
 
-Lowe’s Food Stores, Inc. (LFS) places the highest value on the information you share with us and we are committed to protecting your privacy. This Privacy Policy, which reaffirms LFS’ commitment to maintaining your privacy, discloses the privacy practices governing this site, including how LFS collects, protects and uses your information. For the purpose of this Privacy Policy, "User Information" means any information gathered by LFS about an identified individual, including, but not limited to, name, E-mail address, and telephone number. User Information does not include information that is publicly available.
+Lowes Foods, LLC. (LFS) places the highest value on the information you share with us and we are committed to protecting your privacy. This Privacy Policy, which reaffirms LFS’ commitment to maintaining your privacy, discloses the privacy practices governing this site, including how LFS collects, protects and uses your information. For the purpose of this Privacy Policy, "User Information" means any information gathered by LFS about an identified individual, including, but not limited to, name, E-mail address, and telephone number. User Information does not include information that is publicly available.
 
 ###### Scope of Policy
 
