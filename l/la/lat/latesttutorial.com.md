@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the latesttutorial.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120210457id_/http%3A//www.latesttutorial.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the latesttutorial.com privacy policy that was archived on 2015-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150618103413id_/http%3A//www.latesttutorial.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -34,13 +34,12 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 
 ## Contacting us
 
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
-LatestTutorial
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:
 
-http://latesttutorial.com
+ **facebook.com/waqas97**
 
-LatestTutorial  
-+92 344 2176465  
-waqas_ahm97@yahoo.com
+ **twitter.com/waqasahmad97**
 
-This document was last updated on August 13, 2013
+ **waqasahmadpk97 [at] gmail.com**
+
+This document was last updated on May 16, 2015
