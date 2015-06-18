@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brainbashers.com privacy policy that was archived on 2014-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141209195922id_/http%3A//www.brainbashers.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brainbashers.com privacy policy that was archived on 2015-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150618053921id_/http%3A//www.brainbashers.com/privacy.asp) for the most accurate reproduction.*
 
 # BrainBashers : Privacy
 
@@ -11,7 +11,7 @@ The BrainBashers and BrainBashers Games websites use cookies, more information i
 
 We may modify or revise the privacy policy at any time by updating this web page. You should therefore visit this page periodically to review the details.
 
-The BrainBashers website uses third party vendors, including Google, for some of its adverts, and as a third-party vendor, they use cookies to serve ads on the BrainBashers website based on user's prior visits to the BrainBashers website and other sites. Google's use of the DoubleClick DART cookie enables it and its partners to serve ads to you based on your visit to the BrainBashers website and/or other sites on the Internet. You may opt out of the use of the DoubleClick DART cookie for interest-based advertising by visiting [Google Ads Settings](http://www.google.com/ads/preferences/).
+The BrainBashers website uses third party vendors, including Google, for some of its adverts, and as a third-party vendor, they use cookies to serve ads on the BrainBashers website based on user's prior visits to the BrainBashers website and other sites. Google's use of the DoubleClick DART cookie enables it and its partners to serve ads to you based on your visit to the BrainBashers website and/or other sites on the internet. You may opt out of the use of the DoubleClick DART cookie for interest-based advertising by visiting [Google Ads Settings](http://www.google.com/ads/preferences/).
 
 The BrainBashers website also uses other third-party advertising networks certified by Google (a list of which can be seen here <https://www.google.com/adsense/support/bin/answer.py?answer=94149>). You may visit any of those websites to opt out of the cookies used in interest-based advertising, if the vendor or ad network offers this capability. You can opt out of some third-party vendors' use of cookies for interest-based advertising by visiting [aboutads.info](http://www.aboutads.info/).
 
@@ -27,12 +27,14 @@ Any information submitted to us via the feedback form may be quoted to a third p
 
 We may also use this information to determine website user demographics or to contact you with information that we deem relevant to your enquiry. Unsolicited, unrelated emails will never be sent.
 
-As part of the registration process we collect your name, email address and country. Your email address will only be used to send an optional daily email and the occasional, optional, email containing news about BrainBashers or BrainBashers Games, and any emails required as part of the registration/confirmation process. You are under no obligation to enter your real name or country. When you log in, your IP address is stored.
+As part of the registration process we collect your name, email address and country. To the best of our ability this data is stored securely, however, we are not experts. Your email address will only be used to send an optional daily email and the occasional, optional, email containing news about BrainBashers or BrainBashers Games, and any emails required as part of the registration/confirmation process. You are under no obligation to enter your real name or country. When you log in, your IP address is stored.
 
 The names, countries and answers of competition entrants may be posted to the website or public newsgroups at our discretion. Search engines may then index the site and your name appear in their listings. Entry into a contest indicates your permission to use your details in this way. Entry into a contest permits us to send a limited number of emails regarding the contest and related activities, including entry confirmation, contest results and reminders. Subscription to the Daily Gubbins gives us permission to send a daily email that contains, amongst other things, a puzzle, a Sudoku, a game link, and occasional extra items of interest.
 
 Any geographical information posted to us via a postcard or Christmas card may appear on the BrainBashers or BrainBashers Games website, however, this will not include your name or full address, simply your town and country.
 
+The Question Of The Week is provided as an amusement and is not statistically significant, or representative. It only reflect the views of those who have chosen to answer, and not necessarily our views.
+
 We never sell any of your personal information to third parties. However we will disclose any required information if legally obligated.
 
-**The BrainBashers team - November 2014**
+**This privacy policy section was last updated in June 2015.**
