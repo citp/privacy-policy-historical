@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tekkaus.com privacy policy that was archived on 2014-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140905080051id_/http%3A//www.tekkaus.com/2010/10/tekkauscom-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tekkaus.com privacy policy that was archived on 2015-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150618235714id_/http%3A//www.tekkaus.com/2010/10/tekkauscom-privacy-policy.html) for the most accurate reproduction.*
 
 # Tekkaus.com Privacy Policy | Tekkaus
 
