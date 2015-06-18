@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the minitake.com privacy policy that was archived on 2014-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140213000408id_/http%3A//help.minitake.com/en/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the minitake.com privacy policy that was archived on 2015-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150619013059id_/http%3A//help.minitake.com/privacy-notice) for the most accurate reproduction.*
 
 # Privacy Notice - MiniTake
 
@@ -28,25 +28,24 @@ You always have the option to view your account to make sure the information we 
 
 #### CAN I OPT OUT OF HAVING CERTAIN INFORMATION COLLECTED?
 
-have the option of disabling your computer's ability to accept or transmit cookies. This will prevent us from gathering certain non-personally identifiable information from you. You also have the option of removing yourself from any email distribution list that you may have signed up for.
+have the option of disabling your computer’s ability to accept or transmit cookies. This will prevent us from gathering certain non-personally identifiable information from you. You also have the option of removing yourself from any email distribution list that you may have signed up for.
 
 #### NOTICE OF CHANGES TO THIS PRIVACY POLICY
 
 We reserve the right to change this privacy policy at any time. However, if any changes do occur, we will publish the changes to our web site and post a notice on the home page that a new privacy policy has been implemented. We will also take reasonable steps to contact you personally to let you know of the new changes. Should the company be bought or sold to someone else, we will take reasonable steps to notify you personally. You will then be given the option to keep your account open or to terminate.
 
-**ABOUT  MINITAKE NEWSLETTER**
+**ABOUT MINITAKE NEWSLETTER**
 
-MiniTake Newsletter will be send out regularly, with the latest updates on new arrivals, recent hottest deals, special offers and bargains, as well as the exclusive coupons and discounts to our email subscribers. [We respect your privacy](http://www.dealsdirect.com.au/privacy/) and will not disclose your details to any third party. You can [click here](http://help.minitake.com/unsubscribe) to [unsubscribe](http://www.dealsdirect.com.au/newsletter/unsubscribe/) MiniTake newsletter at any time when you feel they are not needed. In every newsletter, there is an unsubscription button, which you are free to click.
+MiniTake Newsletter will be send out regularly, with the latest updates on new arrivals, recent hottest deals, special offers and bargains, as well as the exclusive coupons and discounts to our email subscribers. [We respect your privacy](http://www.dealsdirect.com.au/privacy/) and will not disclose your details to any third party. You can click on the unsubscribe link on each email to unsubscribe MiniTake at any time.
 
-#### QUESTIONS OR CONCERNS
+**QUESTIONS OR CONCERNS**
 
-Questions regarding our Privacy Policy, or other policy related material can be directed to our support staff by clicking on the "[Contact Us](http://help.minitake.com/contact-us)" link in the side menu. Or through the following ways:   
-Tel: (+86) 755-2919 4488  
-Email: [sales@minitake.com  
-](mailto:sales@tinydeal.com)
+Questions regarding our Privacy Policy, or other policy related material can be directed to our support staff by clicking on the "[Contact Us](http://help.minitake.com/contact-us)" link in the side menu. Or through the following ways: 
+
+Tel: (+86) 755-2919 4488     
+
+Email: [sales@minitake.com](mailto:sales@minitake.com)
 
 Contact Address:
 
-031-111, ShenNanZhong YouJu, ShenZhen, 
-
-GuangDong 518031 CHINA
+P.O. Box No.1225, Tsuen Wan Post Office, Hong Kong 
