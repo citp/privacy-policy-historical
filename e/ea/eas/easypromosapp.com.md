@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the easypromosapp.com privacy policy that was archived on 2014-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141218010404id_/https%3A//easypromosapp.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easypromosapp.com privacy policy that was archived on 2015-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150618214716id_/http%3A//www.easypromosapp.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Create promotions and contests | Easypromos
 
