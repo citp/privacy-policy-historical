@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the storyjumper.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702152555id_/http%3A//www.storyjumper.com/main/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the storyjumper.com privacy policy that was archived on 2015-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150618104013id_/http%3A//www.storyjumper.com/main/privacy) for the most accurate reproduction.*
 
-# StoryJumper: Publish and read children's story books
+# StoryJumper Privacy Policy
 
 This Privacy Policy was last updated: Oct. 1, 2009
 
