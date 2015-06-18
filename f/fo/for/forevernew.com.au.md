@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the forevernew.com.au privacy policy that was archived on 2014-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141226113121id_/http%3A//www.forevernew.com.au/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forevernew.com.au privacy policy that was archived on 2015-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150618155416id_/http%3A//www.forevernew.com.au/policy) for the most accurate reproduction.*
 
 # Privacy Policy | Forever New
 
@@ -28,6 +28,7 @@ Forever New collects personal information in the normal course of providing serv
   * Using Forever New social media;
   * Processing gift cards purchases;
   * Entering Forever New online and in store competitions;
+  * Using of social media pages and log-in (which may be hosted by third parties);
   * Recording customer accident details; and
   * Processing cash refunds.
 
@@ -39,7 +40,7 @@ Forever New may also collect personal information for recruitment and employment
 
 In most circumstances personal information will be collected directly from you.  Forever New may use your personal information to keep you up to date with Forever New’s product ranges, specials, promotions and offers that you may be interested in including for direct marketing.  Specifically, you authorise Forever New to contact you regarding your purchase and use of our online store.
 
-Any information collected is safely and securely stored and only used for the purposes for which it was collected. We restrict access to your personal information, maintain technology products to prevent unauthorised computer access and use  SSL (secure sockets layer) encryption technology when processing your financial details at our online store.
+Any information collected is safely and securely stored and only used for the purposes for which it was collected. We restrict access to your personal information, maintain technology products to prevent unauthorised computer access and use  SSL (secure sockets layer) encryption technology when processing your financial details at our online store. The majority of personal information collected is stored within Australia, however several third parties that we contract with may host this data in a cloud based system or in America.
 
 Forever New does not sell or trade any personal information collected.  However, we may share some of the personal information we collect with our related corporations and service providers, contractors who help us provide services, or trading partners. We often need to share your information with companies who perform parts of our service delivery.  This may include:
 
@@ -57,7 +58,7 @@ Forever New may also publish some of your personal information on our website or
 
 **Linking to Third-Party Websites**
 
-When you click on links and banners on our site that take you to third-party websites, you will be subject to that third-party's privacy policies. While we support the protection of privacy on the Internet, Forever New is not responsible for the actions of any third-party web sites.
+When you click on links and banners on our site that take you to third-party websites, you will be subject to that third-party's privacy policies. While we support the protection of privacy on the Internet, Forever New is not responsible for the actions of any third-party web sites. We encourage you to be aware when you leave our site and to read the privacy statements of each and every website that collects personally identifiable information. This privacy statement applies only to information collected by us.
 
 **Cookies**
 
