@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ukpandi.com privacy policy that was archived on 2014-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141203230257id_/http%3A//www.ukpandi.com/cookie-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ukpandi.com privacy policy that was archived on 2015-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150619015052id_/http%3A//www.ukpandi.com/cookie-privacy-policy) for the most accurate reproduction.*
 
 # Cookie & Privacy policy - UK P&I
 
@@ -12,14 +12,18 @@ This privacy policy relates to
 
 
 
-It does not relate to information about companies held and processed by us.
+It does not relate to information about companies held and processed by us. 
+
+## 2\. Definitions
 
 In this privacy policy references to
 
-  * “we”, "us" or "our" are to the UK P&I Club whose website is managed on their behalf by Thomas Miller P&I (Europe) Ltd.; registered in England & Wales number: 2920387; registered address is at 90 Fenchurch Street, London EC3M 4ST, England;
+  * “we”, "us" or "our" are to the UK P&I Club whose website is managed on their behalf by Thomas Miller P&I (Europe) Ltd.; registered in England & Wales number: 2920387; registered address is at 90 Fenchurch Street, London EC3M 4ST, England; 
   * “the Website” are to [www.ukpandi.com](http://www.ukpandi.com/) and any other website owned or operated by us. 
 
 
+
+## 3\. Information we collect
 
 The information which we collect may include 
 
@@ -27,7 +31,7 @@ a. Any personal details about you as an individual which you provide to us throu
 
 b. Your preferences and use of email updates, as recorded by emails that we send you (if you elect to receive email updates on our products and offers). 
 
-c. Your IP Address, a string of numbers unique to your computer that is recorded by our web server when you request any page or component of the Website. This information may be used to monitor your usage of the Website.
+c. Your IP Address, a string of numbers unique to your computer that is recorded by our web server when you request any page or component of the Website. This information may be used to monitor your usage of the Website. 
 
 ## 4. Use of your information 
 
@@ -45,7 +49,9 @@ f. We will not sell or pass on your personal information to any other person, ex
 
 g. Under no circumstances will we hold payment details such as your card number, expiry date and security code. Where payments are handled through an accredited payment bureau, you should visit their website to view their privacy policy. 
 
-h. In order to effectively process credit or debit card transactions it may be necessary for the bank or card processing agency to verify your personal information for authorisation with an entity outside the EEA. Such information will not be transferred out of the EEA for any other purpose.
+h. In order to effectively process credit or debit card transactions it may be necessary for the bank or card processing agency to verify your personal information for authorisation with an entity outside the EEA. Such information will not be transferred out of the EEA for any other purpose. 
+
+## 5\. Cookies
 
 a. Cookies may be used by the Website to allow us to recognise you and your preferred settings e.g. to store your ID and password for future sessions. This saves you from re-entering information on return visits to the Website. You have the option not to use this feature, in which event no cookies will be retained on your computer. 
 
@@ -57,7 +63,7 @@ d. Your browser may be capable of being programmed to reject cookies, or to warn
 
 For an explanation of cookies see: <http://www.webopedia.com/TERM/c/cookie.html>
 
-Below is a table of all cookies on this website – their name, type and purpose:
+Below is a table of all cookies on this website – their name, type and purpose: 
 
 Cookie Type| Cookie Name | Cookie Purpose  
 ---|---|---  
@@ -68,4 +74,4 @@ We use third party companies as suppliers for some of our functions. Their use o
 
 ## 6\. Other Websites
 
-This privacy policy only covers the Website. Any other websites which may be linked to by the Website may be subject to their own privacy policy, which may differ from ours and we are not responsible for the content provided on any third party web sites. 
+This privacy policy only covers the Website. Any other websites which may be linked to by the Website may be subject to their own privacy policy, which may differ from ours and we are not responsible for the content provided on any third party web sites.
