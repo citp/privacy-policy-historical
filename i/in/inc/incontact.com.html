@@ -1,10 +1,10 @@
-<!--The following is the downloaded HTML source of the incontact.com privacy policy that was archived on 2014-12-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141230151810id_/http%3A//www.incontact.com/call-center-software-company/legal/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the incontact.com privacy policy that was archived on 2015-06-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150618051612id_/http%3A//www.incontact.com/call-center-software-company/legal/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" dir="ltr" prefix="fb: http://ogp.me/ns/fb# og: http://ogp.me/ns# article: http://ogp.me/ns/article# book: http://ogp.me/ns/book# profile: http://ogp.me/ns/profile# video: http://ogp.me/ns/video#"><!--<![endif]--><head profile="http://www.w3.org/1999/xhtml/vocab">
-  <meta charset="utf-8"><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-574SK4"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UAYCV19bGwABVlZWBgU="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),u=c.length,f=i(a,o,r),d=0;u>d;d++)c[d].apply(f,n);return f}function a(t,e){u[t]=s(t).concat(e)}function s(t){return u[t]||[]}function c(){return n(e)}var u={};return{on:a,emit:e,create:c,listeners:s,_events:u}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(u){try{r("ierr",[u,(new Date).getTime(),!0])}catch(f){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(4),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(u){"stack"in u&&(t(5),t(3),"addEventListener"in window&&t(1),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(2),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:4,2:7,3:5,4:18,5:6,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],4:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:18,2:19,ee:"QJf3ax",gos:"7eSDFh"}],5:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:19,2:18,ee:"QJf3ax"}],6:[function(t,e){function n(t,e,n){var r=t[0];"string"==typeof r&&(r=new Function(r)),t[0]=o(r,"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:19,2:18,ee:"QJf3ax"}],7:[function(t,e){function n(){c.inPlace(this,d,"fn-")}function r(t,e){c.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}var i=t("ee").create(),a=t(1),s=t(2),c=s(i),u=s(a),f=window.XMLHttpRequest,d=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=i,window.XMLHttpRequest=function(t){var e=new f(t);try{i.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",function(t,e){return e}),e.addEventListener("readystatechange",n,!1)}catch(r){try{i.emit("internal-error",[r])}catch(o){}}return e},window.XMLHttpRequest.prototype=f.prototype,c.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),i.on("send-xhr-start",r),i.on("open-xhr-start",r)},{1:4,2:19,ee:"QJf3ax"}],8:[function(t){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,u="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(u);if(f&&(r.rxSize=f),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(n.cat=d.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r,this.startTime])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,u=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var u=e(o);u&&(r.txSize=u)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",[e])}catch(r){}}};for(var f=0;c>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:9,3:7,4:4,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],9:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&c&&c.body){p.proto="https"===d.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=c.createElement("script");e.src=p.proto+t.agent,c.body.appendChild(e)}}function r(){"complete"===c.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,c=s.document,u="addEventListener",f="attachEvent",d=(""+location).split("?")[0],p=e.exports={offset:i(),origin:d,features:{}};c[u]?(c[u]("DOMContentLoaded",o,!1),s[u]("load",n,!1)):(c[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],18:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],19:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,u;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){f([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return u=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,u],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,u(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,u="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,u?s+o:o,i,s,t))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){f([o,e,n,r])}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){f([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function f(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:18,ee:"QJf3ax"}]},{},["G9z0Bl",3,8]);</script>
+		<meta charset="utf-8"><script src="//d37gvrvc0wt4s1.cloudfront.net/js/v1.1/rollbar.min.js" async=""></script><script src="https://js-agent.newrelic.com/nr-632.min.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-574SK4"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UAYCV19bGwABVlZWBgU="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),u=c.length,f=i(a,o,r),d=0;u>d;d++)c[d].apply(f,n);return f}function a(t,e){u[t]=s(t).concat(e)}function s(t){return u[t]||[]}function c(){return n(e)}var u={};return{on:a,emit:e,create:c,listeners:s,_events:u}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:20,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(u){try{r("ierr",[u,(new Date).getTime(),!0])}catch(f){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(3),window.onerror=e;try{throw new Error}catch(u){"stack"in u&&(t(4),t(5),"addEventListener"in window&&t(1),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&t(2),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:8,3:3,4:7,5:6,6:21,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:21,2:22,ee:"QJf3ax",gos:"7eSDFh"}],6:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:22,2:21,ee:"QJf3ax"}],7:[function(t,e){function n(t,e,n){t[0]=o(t[0],"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:22,2:21,ee:"QJf3ax"}],8:[function(t,e){function n(){u.inPlace(this,p,"fn-")}function r(t,e){u.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),u=c(a),f=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),f.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,u.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:5,2:22,ee:"QJf3ax"}],9:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var a=t.responseType,u="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=n(u);if(f&&(r.rxSize=f),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(e.cat=d.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,o("xhr",[e,r,this.startTime])}}}function n(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,u=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=e,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,e){var r=this.metrics,o=t[0],i=this;if(r&&o){var u=n(o);u&&(r.txSize=u)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{a.emit("internal-error",[n])}catch(r){}}};for(var f=0;c>f;f++)e.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:10,3:8,4:5,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],10:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],11:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:20,2:21,handle:"D5DuLP"}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info,e=u.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){e in t||(t[e]=n)});var n="https"===f.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=u.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=(t(2),window),u=c.document,f=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-632.min.js"},p=e.exports={offset:i(),origin:f,features:{}};u.addEventListener?(u.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(u.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()])},{1:20,2:11,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],20:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],21:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],22:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,u;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){f([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return u=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,u],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,u(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,u="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,u?s+o:o,i,s))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){f([o,e,n,r])}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){f([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function f(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:21,ee:"QJf3ax"}]},{},["G9z0Bl",4,9]);</script>
 <link rel="shortcut icon" href="http://www.incontact.com/sites/default/files/favicon_0.ico" type="image/vnd.microsoft.icon">
-<link rel="shortlink" href="http://www.incontact.com/node/467">
+<link rel="shortlink" href="/node/467">
 <meta name="description" content="To see our Safe Harbor Policy, Click Here.">
 <link rel="canonical" href="http://www.incontact.com/call-center-software-company/legal/privacy-policy">
 <meta property="og:title" content="Privacy Policy">
@@ -22,183 +22,260 @@
 <meta name="dcterms.date" content="2013-02-13T20:21-07:00">
 <meta name="dcterms.modified" content="2014-11-30T13:08-07:00">
 <meta name="dcterms.language" content="und">
-  <title>Privacy Policy | inContact</title>
+		<script>
+				var _rollbarConfig = {
+						accessToken: "c55926a305d84ebba334c6f4cc6bfcca",
+						captureUncaught: true,
+						ignoredMessages: ["Bodie is not defined"],
+						payload: {
+								environment: "production"
+						}
+				};
+				!function(a,b){function c(b){this.shimId=++h,this.notifier=null,this.parentShim=b,this.logger=function(){},a.console&&void 0===a.console.shimId&&(this.logger=a.console.log)}function d(b,c,d){a._rollbarWrappedError&&(d[4]||(d[4]=a._rollbarWrappedError),d[5]||(d[5]=a._rollbarWrappedError._rollbarContext),a._rollbarWrappedError=null),b.uncaughtError.apply(b,d),c&&c.apply(a,d)}function e(b){var d=c;return g(function(){if(this.notifier)return this.notifier[b].apply(this.notifier,arguments);var c=this,e="scope"===b;e&&(c=new d(this));var f=Array.prototype.slice.call(arguments,0),g={shim:c,method:b,args:f,ts:new Date};return a._rollbarShimQueue.push(g),e?c:void 0})}function f(a,b){if(b.hasOwnProperty&&b.hasOwnProperty("addEventListener")){var c=b.addEventListener;b.addEventListener=function(b,d,e){c.call(this,b,a.wrap(d),e)};var d=b.removeEventListener;b.removeEventListener=function(a,b,c){d.call(this,a,b&&b._wrapped?b._wrapped:b,c)}}}function g(a,b){return b=b||this.logger,function(){try{return a.apply(this,arguments)}catch(c){b("Rollbar internal error:",c)}}}var h=0;c.init=function(a,b){var e=b.globalAlias||"Rollbar";if("object"==typeof a[e])return a[e];a._rollbarShimQueue=[],a._rollbarWrappedError=null,b=b||{};var h=new c;return g(function(){if(h.configure(b),b.captureUncaught){var c=a.onerror;a.onerror=function(){var a=Array.prototype.slice.call(arguments,0);d(h,c,a)};var g,i,j="EventTarget,Window,Node,ApplicationCache,AudioTrackList,ChannelMergerNode,CryptoOperation,EventSource,FileReader,HTMLUnknownElement,IDBDatabase,IDBRequest,IDBTransaction,KeyOperation,MediaController,MessagePort,ModalWindow,Notification,SVGElementInstance,Screen,TextTrack,TextTrackCue,TextTrackList,WebSocket,WebSocketWorker,Worker,XMLHttpRequest,XMLHttpRequestEventTarget,XMLHttpRequestUpload".split(",");for(g=0;g<j.length;++g)i=j[g],a[i]&&a[i].prototype&&f(h,a[i].prototype)}return a[e]=h,h},h.logger)()},c.prototype.loadFull=function(a,b,c,d,e){var f=g(function(){var a=b.createElement("script"),e=b.getElementsByTagName("script")[0];a.src=d.rollbarJsUrl,a.async=!c,a.onload=h,e.parentNode.insertBefore(a,e)},this.logger),h=g(function(){var b;if(void 0===a._rollbarPayloadQueue){var c,d,f,g;for(b=new Error("rollbar.js did not load");c=a._rollbarShimQueue.shift();)for(f=c.args,g=0;g<f.length;++g)if(d=f[g],"function"==typeof d){d(b);break}}"function"==typeof e&&e(b)},this.logger);g(function(){c?f():a.addEventListener?a.addEventListener("load",f,!1):a.attachEvent("onload",f)},this.logger)()},c.prototype.wrap=function(b,c){try{var d;if(d="function"==typeof c?c:function(){return c||{}},"function"!=typeof b)return b;if(b._isWrap)return b;if(!b._wrapped){b._wrapped=function(){try{return b.apply(this,arguments)}catch(c){throw c._rollbarContext=d(),c._rollbarContext._wrappedSource=b.toString(),a._rollbarWrappedError=c,c}},b._wrapped._isWrap=!0;for(var e in b)b.hasOwnProperty(e)&&(b._wrapped[e]=b[e])}return b._wrapped}catch(f){return b}};for(var i="log,debug,info,warn,warning,error,critical,global,configure,scope,uncaughtError".split(","),j=0;j<i.length;++j)c.prototype[i[j]]=e(i[j]);var k="//d37gvrvc0wt4s1.cloudfront.net/js/v1.1/rollbar.min.js";_rollbarConfig.rollbarJsUrl=_rollbarConfig.rollbarJsUrl||k;var l=c.init(a,_rollbarConfig);l.loadFull(a,b,!1,_rollbarConfig)}(window,document);
+		</script>
 
-      <meta name="MobileOptimized" content="width">
-    <meta name="HandheldFriendly" content="true">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta http-equiv="cleartype" content="on">
-<link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:200,300,400,700,400italic|Lato:400,700,400italic" rel="stylesheet" type="text/css">
-<meta name="google-site-verification" content="izqioKIE5QVlTssgVFDYKrHyJsakRmuVodBQO6VNyj4">
-  <link type="text/css" rel="stylesheet" href="http://www.incontact.com/sites/default/files/css/css_791YXBaKKm1ORM_7huSKEsIV9tSWq6wmRkERhuXpN6w.css" media="all">
-<link type="text/css" rel="stylesheet" href="http://www.incontact.com/sites/default/files/css/css_ugmd-SSDbm1OKE5izFKyWoDlN0VLzOd_7qwRN49enDo.css" media="all">
-<link type="text/css" rel="stylesheet" href="http://www.incontact.com/sites/default/files/css/css_Mfe8WBsNF7ps55Gy3e9Tflks9XbsS-Av7pIggu8V5nY.css" media="all">
-<link type="text/css" rel="stylesheet" href="http://www.incontact.com/sites/default/files/css/css_g_UneL04I_By-JV5ryZJJWsDW1p5XeBj7jW6RhipZ48.css" media="all">
-<link type="text/css" rel="stylesheet" href="http://www.incontact.com/sites/default/files/css/css_Tyq1neR7E5H8FScgTlISPx0_3-h2yYw50AlcEAO5SwA.css" media="all">
+		<title>Privacy Policy | inContact</title>
 
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+				<meta name="MobileOptimized" content="width">
+		<meta name="HandheldFriendly" content="true">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+				<meta http-equiv="cleartype" content="on">
+		<link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:200,300,400,700,400italic|Lato:400,700,400italic" rel="stylesheet" type="text/css">
+		<meta name="google-site-verification" content="izqioKIE5QVlTssgVFDYKrHyJsakRmuVodBQO6VNyj4">
+		<style>@import url("http://www.incontact.com/modules/system/system.base.css?nq05dj");
+@import url("http://www.incontact.com/modules/system/system.messages.css?nq05dj");
+@import url("http://www.incontact.com/modules/system/system.theme.css?nq05dj");</style>
+<style>@import url("http://www.incontact.com/sites/all/modules/jquery_update/replace/ui/themes/base/minified/jquery.ui.core.min.css?nq05dj");
+@import url("http://www.incontact.com/sites/all/modules/jquery_update/replace/ui/themes/base/minified/jquery.ui.theme.min.css?nq05dj");
+@import url("http://www.incontact.com/sites/all/modules/jquery_update/replace/ui/themes/base/minified/jquery.ui.tabs.min.css?nq05dj");</style>
+<style>@import url("http://www.incontact.com/sites/all/modules/calendar/css/calendar_multiday.css?nq05dj");
+@import url("http://www.incontact.com/sites/all/modules/date/date_api/date.css?nq05dj");
+@import url("http://www.incontact.com/sites/all/modules/date/date_popup/themes/datepicker.1.7.css?nq05dj");
+@import url("http://www.incontact.com/sites/all/modules/date/date_repeat_field/date_repeat_field.css?nq05dj");
+@import url("http://www.incontact.com/modules/field/theme/field.css?nq05dj");
+@import url("http://www.incontact.com/modules/node/node.css?nq05dj");
+@import url("http://www.incontact.com/modules/search/search.css?nq05dj");
+@import url("http://www.incontact.com/modules/user/user.css?nq05dj");
+@import url("http://www.incontact.com/sites/all/modules/views/css/views.css?nq05dj");
+@import url("http://www.incontact.com/sites/all/modules/ckeditor/css/ckeditor.css?nq05dj");</style>
+<style>@import url("http://www.incontact.com/sites/all/modules/ctools/css/ctools.css?nq05dj");
+@import url("http://www.incontact.com/sites/all/modules/panels/css/panels.css?nq05dj");</style>
+<style>@import url("http://www.incontact.com/sites/all/themes/spirezen_incontact/css/normalize.css?nq05dj");
+@import url("http://www.incontact.com/sites/all/themes/spirezen_incontact/css/wireframes.css?nq05dj");
+@import url("http://www.incontact.com/sites/all/themes/spirezen_incontact/css/responsive.css?nq05dj");
+@import url("http://www.incontact.com/sites/all/themes/spirezen_incontact/css/tabs.css?nq05dj");
+@import url("http://www.incontact.com/sites/all/themes/spirezen_incontact/css/pages.css?nq05dj");
+@import url("http://www.incontact.com/sites/all/themes/spirezen_incontact/css/blocks.css?nq05dj");
+@import url("http://www.incontact.com/sites/all/themes/spirezen_incontact/css/navigation.css?nq05dj");
+@import url("http://www.incontact.com/sites/all/themes/spirezen_incontact/css/views-styles.css?nq05dj");
+@import url("http://www.incontact.com/sites/all/themes/spirezen_incontact/css/nodes.css?nq05dj");
+@import url("http://www.incontact.com/sites/all/themes/spirezen_incontact/css/comments.css?nq05dj");
+@import url("http://www.incontact.com/sites/all/themes/spirezen_incontact/css/forms.css?nq05dj");
+@import url("http://www.incontact.com/sites/all/themes/spirezen_incontact/css/fields.css?nq05dj");
+@import url("http://www.incontact.com/sites/all/themes/spirezen_incontact/css/print.css?nq05dj");
+@import url("http://www.incontact.com/sites/all/themes/spirezen_incontact/css/better-exposed-filters.css?nq05dj");
+@import url("http://www.incontact.com/sites/all/themes/spirezen_incontact/css/table.css?nq05dj");
+@import url("http://www.incontact.com/sites/all/themes/spirezen_incontact/css/jquery-tabs.css?nq05dj");
+@import url("http://www.incontact.com/sites/all/themes/spirezen_incontact/css/dare-compare.css?nq05dj");
+@import url("http://www.incontact.com/sites/all/themes/spirezen_incontact/css/flipCard.css?nq05dj");
+@import url("http://www.incontact.com/sites/all/themes/spirezen_incontact/css/component.css?nq05dj");
+@import url("http://www.incontact.com/sites/all/themes/spirezen_incontact/css/colorbox.css?nq05dj");</style>
+
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
 <script>window.jQuery || document.write("<script src='/sites/all/modules/jquery_update/replace/jquery/1.10/jquery.min.js'>\x3C/script>")</script><script src="/sites/all/modules/jquery_update/replace/jquery/1.10/jquery.min.js"></script>
 <script src="http://www.incontact.com/misc/jquery.once.js?v=1.2"></script>
-<script src="http://www.incontact.com/misc/drupal.js?ngsdtp"></script>
+<script src="http://www.incontact.com/misc/drupal.js?nq05dj"></script>
 <script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.10.2/jquery-ui.min.js"></script>
-<script>window.jQuery.ui || document.write("<script src='/sites/all/modules/jquery_update/replace/ui/ui/minified/jquery-ui.min.js'>\x3C/script>")</script>
-<script src="http://www.incontact.com/sites/all/modules/admin_menu/admin_devel/admin_devel.js?ngsdtp"></script>
-<script src="http://www.incontact.com/sites/all/modules/incontact_misc/js/incontact_misc.js?ngsdtp"></script>
-<script src="http://www.incontact.com/sites/all/themes/spirezen_incontact/js/jquery.videoBG.js?ngsdtp"></script>
-<script src="http://www.incontact.com/sites/all/themes/spirezen_incontact/js/jquery.colorbox-min.js?ngsdtp"></script>
-<script src="http://www.incontact.com/sites/all/themes/spirezen_incontact/js/script.js?ngsdtp"></script>
-<script src="http://www.incontact.com/sites/all/themes/spirezen_incontact/js/flipCard.js?ngsdtp"></script>
-<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"spirezen_incontact","theme_token":"tQB0xIr0tXMHy6_15k7rKuvI-kuKvLUHBenpWcamZrU","js":{"0":1,"https:\/\/ajax.googleapis.com\/ajax\/libs\/jquery\/1.10.2\/jquery.min.js":1,"1":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"https:\/\/ajax.googleapis.com\/ajax\/libs\/jqueryui\/1.10.2\/jquery-ui.min.js":1,"2":1,"sites\/all\/modules\/admin_menu\/admin_devel\/admin_devel.js":1,"sites\/all\/modules\/incontact_misc\/js\/incontact_misc.js":1,"sites\/all\/themes\/spirezen_incontact\/js\/jquery.videoBG.js":1,"sites\/all\/themes\/spirezen_incontact\/js\/jquery.colorbox-min.js":1,"sites\/all\/themes\/spirezen_incontact\/js\/script.js":1,"sites\/all\/themes\/spirezen_incontact\/js\/flipCard.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"misc\/ui\/jquery.ui.core.css":1,"misc\/ui\/jquery.ui.theme.css":1,"misc\/ui\/jquery.ui.tabs.css":1,"sites\/all\/modules\/calendar\/css\/calendar_multiday.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"sites\/all\/modules\/date\/date_repeat_field\/date_repeat_field.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/panels\/css\/panels.css":1,"sites\/all\/themes\/spirezen_incontact\/system.menus.css":1,"sites\/all\/themes\/spirezen_incontact\/css\/normalize.css":1,"sites\/all\/themes\/spirezen_incontact\/css\/wireframes.css":1,"sites\/all\/themes\/spirezen_incontact\/css\/responsive.css":1,"sites\/all\/themes\/spirezen_incontact\/css\/page-backgrounds.css":1,"sites\/all\/themes\/spirezen_incontact\/css\/tabs.css":1,"sites\/all\/themes\/spirezen_incontact\/css\/pages.css":1,"sites\/all\/themes\/spirezen_incontact\/css\/blocks.css":1,"sites\/all\/themes\/spirezen_incontact\/css\/navigation.css":1,"sites\/all\/themes\/spirezen_incontact\/css\/views-styles.css":1,"sites\/all\/themes\/spirezen_incontact\/css\/nodes.css":1,"sites\/all\/themes\/spirezen_incontact\/css\/comments.css":1,"sites\/all\/themes\/spirezen_incontact\/css\/forms.css":1,"sites\/all\/themes\/spirezen_incontact\/css\/fields.css":1,"sites\/all\/themes\/spirezen_incontact\/css\/print.css":1,"sites\/all\/themes\/spirezen_incontact\/css\/better-exposed-filters.css":1,"sites\/all\/themes\/spirezen_incontact\/css\/table.css":1,"sites\/all\/themes\/spirezen_incontact\/css\/jquery-tabs.css":1,"sites\/all\/themes\/spirezen_incontact\/css\/dare-compare.css":1,"sites\/all\/themes\/spirezen_incontact\/css\/flipCard.css":1,"sites\/all\/themes\/spirezen_incontact\/css\/component.css":1,"sites\/all\/themes\/spirezen_incontact\/css\/colorbox.css":1}},"incontact_menu_moduleToken":"rahyfTTNmq5XKg1p3tE2CvVsfz8JvvkFq9vseYycxEE","is_incontact_menu_module_add":false,"is_incontact_menu_module_edit":false,"is_incontact_menu_module_delete":false});</script>
-      <!--[if lt IE 9]>
-    <script src="/sites/all/themes/zen/js/html5-respond.js"></script>
-    <![endif]-->
-  
-  <script type="text/javascript">
-    var _elqQ = _elqQ || [];
-    _elqQ.push(['elqSetSiteId', '2134']);
-    _elqQ.push(['elqTrackPageView']);
-    _elqQ.push(['elqUseFirstPartyCookie', 'app.response.incontact.com']); 
-  </script>
-  <script type="text/javascript" src="https://img.en25.com/i/elqCfg.min.js"></script>
-<link href="/sites/all/themes/spirezen_incontact/css/bootstrap.css" rel="stylesheet" type="text/css">
-<link href="/sites/all/themes/spirezen_incontact/css/bootstrap-responsive.css" rel="stylesheet" type="text/css">
-<link href="/sites/all/themes/spirezen_incontact/css/flat-ui.css" rel="stylesheet" type="text/css">
-<link href="/sites/all/themes/spirezen_incontact/css/icon-font.css" rel="stylesheet" type="text/css">
-<link href="/sites/all/themes/spirezen_incontact/css/font-awesome.css" rel="stylesheet" type="text/css">
-<link href="/sites/all/themes/spirezen_incontact/css/style.css" rel="stylesheet" type="text/css">
-<link href="/sites/all/themes/spirezen_incontact/css/custom.css" rel="stylesheet" type="text/css">
+<script>window.jQuery.ui || document.write("<script src='/sites/all/modules/jquery_update/replace/ui/ui/minified/jquery-ui.min.js'>\x3C/script>")</script><script src="/sites/all/modules/jquery_update/replace/ui/ui/minified/jquery-ui.min.js"></script>
+<script src="http://www.incontact.com/sites/all/modules/admin_menu/admin_devel/admin_devel.js?nq05dj"></script>
+<script src="http://www.incontact.com/sites/all/modules/incontact_misc/js/incontact_misc.js?nq05dj"></script>
+<script src="http://www.incontact.com/sites/all/themes/spirezen_incontact/js/jquery.videoBG.js?nq05dj"></script>
+<script src="http://www.incontact.com/sites/all/themes/spirezen_incontact/js/jquery.colorbox-min.js?nq05dj"></script>
+<script src="http://www.incontact.com/sites/all/themes/spirezen_incontact/js/script.js?nq05dj"></script>
+<script src="http://www.incontact.com/sites/all/themes/spirezen_incontact/js/flipCard.js?nq05dj"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"spirezen_incontact","theme_token":"hDOf4Mz7fCRCPYCuFBUYVXxFIXTYfe0UDCag_7BLQu4","js":{"0":1,"https:\/\/ajax.googleapis.com\/ajax\/libs\/jquery\/1.10.2\/jquery.min.js":1,"1":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"https:\/\/ajax.googleapis.com\/ajax\/libs\/jqueryui\/1.10.2\/jquery-ui.min.js":1,"2":1,"sites\/all\/modules\/admin_menu\/admin_devel\/admin_devel.js":1,"sites\/all\/modules\/incontact_misc\/js\/incontact_misc.js":1,"sites\/all\/themes\/spirezen_incontact\/js\/jquery.videoBG.js":1,"sites\/all\/themes\/spirezen_incontact\/js\/jquery.colorbox-min.js":1,"sites\/all\/themes\/spirezen_incontact\/js\/script.js":1,"sites\/all\/themes\/spirezen_incontact\/js\/flipCard.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"misc\/ui\/jquery.ui.core.css":1,"misc\/ui\/jquery.ui.theme.css":1,"misc\/ui\/jquery.ui.tabs.css":1,"sites\/all\/modules\/calendar\/css\/calendar_multiday.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"sites\/all\/modules\/date\/date_repeat_field\/date_repeat_field.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/panels\/css\/panels.css":1,"sites\/all\/themes\/spirezen_incontact\/system.menus.css":1,"sites\/all\/themes\/spirezen_incontact\/css\/normalize.css":1,"sites\/all\/themes\/spirezen_incontact\/css\/wireframes.css":1,"sites\/all\/themes\/spirezen_incontact\/css\/responsive.css":1,"sites\/all\/themes\/spirezen_incontact\/css\/page-backgrounds.css":1,"sites\/all\/themes\/spirezen_incontact\/css\/tabs.css":1,"sites\/all\/themes\/spirezen_incontact\/css\/pages.css":1,"sites\/all\/themes\/spirezen_incontact\/css\/blocks.css":1,"sites\/all\/themes\/spirezen_incontact\/css\/navigation.css":1,"sites\/all\/themes\/spirezen_incontact\/css\/views-styles.css":1,"sites\/all\/themes\/spirezen_incontact\/css\/nodes.css":1,"sites\/all\/themes\/spirezen_incontact\/css\/comments.css":1,"sites\/all\/themes\/spirezen_incontact\/css\/forms.css":1,"sites\/all\/themes\/spirezen_incontact\/css\/fields.css":1,"sites\/all\/themes\/spirezen_incontact\/css\/print.css":1,"sites\/all\/themes\/spirezen_incontact\/css\/better-exposed-filters.css":1,"sites\/all\/themes\/spirezen_incontact\/css\/table.css":1,"sites\/all\/themes\/spirezen_incontact\/css\/jquery-tabs.css":1,"sites\/all\/themes\/spirezen_incontact\/css\/dare-compare.css":1,"sites\/all\/themes\/spirezen_incontact\/css\/flipCard.css":1,"sites\/all\/themes\/spirezen_incontact\/css\/component.css":1,"sites\/all\/themes\/spirezen_incontact\/css\/colorbox.css":1}},"incontact_menu_moduleToken":"UsdsOTajvC4XO1CMNgt93KIPuRTqvFFpFH-KDFfKkT4","is_incontact_menu_module_add":false,"is_incontact_menu_module_edit":false,"is_incontact_menu_module_delete":false});</script>
+				<!--[if lt IE 9]>
+<script src="/sites/all/themes/zen/js/html5-respond.js"></script>
+<![endif]-->
 		
+	<script type="text/javascript">
+		var _elqQ = _elqQ || [];
+		_elqQ.push(['elqSetSiteId', '2134']);
+		_elqQ.push(['elqTrackPageView']);
+		_elqQ.push(['elqUseFirstPartyCookie', 'app.response.incontact.com']); 
+	</script>
+	<script type="text/javascript" src="https://img.en25.com/i/elqCfg.min.js"></script>
+	<script src="/outdatedbrowser/outdatedbrowser.min.js"></script>
+	<script type="text/javascript">
+		jQuery( document ).ready(function() {
+			outdatedBrowser({
+				bgColor: '#f25648',
+				color: '#ffffff',
+				lowerThan: 'transform',
+				languagePath: '/outdatedbrowser/lang/en.html'
+			});
+		});
+	</script>
+	<link href="/sites/all/themes/spirezen_incontact/css/bootstrap.css" rel="stylesheet" type="text/css">
+	<link href="/sites/all/themes/spirezen_incontact/css/bootstrap-responsive.css" rel="stylesheet" type="text/css">
+	<link href="/sites/all/themes/spirezen_incontact/css/flat-ui.css" rel="stylesheet" type="text/css">
+	<link href="/sites/all/themes/spirezen_incontact/css/icon-font.css" rel="stylesheet" type="text/css">
+	<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+	<link href="/sites/all/themes/spirezen_incontact/css/style.css" rel="stylesheet" type="text/css">
+	<link href="/sites/all/themes/spirezen_incontact/css/custom.css" rel="stylesheet" type="text/css">
+	<link type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/jQuery.mmenu/5.0.4/css/jquery.mmenu.all.css" rel="stylesheet">
+	<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jQuery.mmenu/5.0.4/js/jquery.mmenu.min.all.js"></script>
+	<!-- Fire the plugin onDocumentReady -->
+	<script type="text/javascript">
+		jQuery(document).ready(function($) {
+			$("#header-nav").mmenu({
+				"extensions": [
+					"effect-slide",
+					"pageshadow"
+				],
+				"offCanvas": {
+					"position": "right"
+				},
+				"searchfield": true
+			}, {
+				clone: true
+			});
+		});
+	</script>
 </head>
-<body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-467 node-type-page i18n-en section-call-center-software-company">
-<!-- Google Tag Manager -->
-<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-574SK4"
-height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-})(window,document,'script','dataLayer','GTM-574SK4');</script>
-<!-- End Google Tag Manager -->
-      <p id="skip-link">
-      <a href="#main-menu" class="element-invisible element-focusable">Jump to navigation</a>
-    </p>
-      
+<body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-467 node-type-page section-call-center-software-company" style="">
+	<div>
+		<!-- Google Tag Manager -->
+		<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-574SK4"
+						  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+		<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+															  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+	j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+		'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+									})(window,document,'script','dataLayer','GTM-574SK4');</script>
+		<!-- End Google Tag Manager -->
+				<p id="skip-link">
+				<a href="#main-menu" class="element-invisible element-focusable">Jump to navigation</a>
+		</p>
+						
 <!-- #newheader -->
 <header class="header-10" id="header" role="banner">
-		<div class="container">
-				<div class="navbar span12">
-						<div class="navbar-inner">
-								<div class="upper-navbar">
-										<ul id="top-nav">
-												<li class="telephone"><a href="tel:18669657227">1.866.965.7227</a></li>
-												<li class="support"><a href="https://service.incontact.com/" target="_blank">Support</a></li>
-												<li><a href="https://login.incontact.com/">Login</a></li>
-												<li class="search-box">
-														<form action="/call-center-software-company/legal/privacy-policy" method="post" id="search-block-form" accept-charset="UTF-8"> <input class="input-field form-text" placeholder="How can we help you?" type="text" id="result" name="search_block_form" value="" size="15" maxlength="128">
-<input type="hidden" name="form_build_id" value="form-GCgkW2QjMnE-YDjYJOCc3yKA-FR7Arkw07k7dhft65U">
+	<div class="container">
+		<div class="navbar span12">
+			<a id="nav-link" href="#header-nav"><i class="fa fa-bars fa-2x"></i></a>
+			<div class="navbar-inner">
+				<div class="upper-navbar">
+					<ul id="top-nav">
+						<li class="telephone"><a href="tel:18669657227">1.866.965.7227</a></li>
+						<li class="support"><a href="https://support.incontact.com" target="_blank">Support</a></li>
+						<li><a href="https://login.incontact.com/">Login</a></li>
+						<li class="search-box">
+							<form action="/call-center-software-company/legal/privacy-policy" method="post" id="search-block-form" accept-charset="UTF-8"> <input class="input-field form-text" placeholder="How can we help you?" type="text" id="result" name="search_block_form" value="" size="15" maxlength="128">
+<input type="hidden" name="form_build_id" value="form-xPV35eGptDAZZTzioDg3SpsXnnR7gOpiYZJ7gV8Yvjg">
 <input type="hidden" name="form_id" value="search_block_form">
 <button type="submit" style="background: none;border: 0;font-size: 14px;"><i class="search-submit fa fa-search"></i></button><div class="form-actions form-wrapper" id="edit-actions--2"><input type="submit" id="edit-submit--3" name="op" value="Search" class="form-submit"></div></form>
-												</li>
-										</ul>
-								</div>
-								<a class="brand" href="/"><img src="/sites/all/themes/spirezen_incontact/images/inContact-logo.png"></a>
-								<div class="nav-collapse collapse pull-right">
-										<nav id="header-nav">
-												<ul class="nav main-menu-1"><li class="first dropdown parent" data-menu-parent="main-menu-1"><a class="menu__link nolink">Products</a><ul class="dropdown dropdown-two-column products-dropdown main-menu-2"><li class="first parent" data-menu-parent="main-menu-2" data-menu-parent-title="Products"><a href="http://www.incontact.com/call-center-software/multi-channel-acd" class="menu__link">Automatic Call Distribution (ACD)</a></li>
-<li class="parent" data-menu-parent="main-menu-2" data-menu-parent-title="Products"><a href="http://www.incontact.com/call-center-software/interactive-voice-response-ivr" class="menu__link">Interactive Voice Response (IVR)</a></li>
-<li class="parent" data-menu-parent="main-menu-2" data-menu-parent-title="Products"><a href="http://www.incontact.com/call-center-software/workforce-optimization" class="menu__link">Workforce Optimization</a></li>
-<li class="parent" data-menu-parent="main-menu-2" data-menu-parent-title="Products"><a href="http://www.incontact.com/call-center-software/workforce-management-wfm" class="menu__link">Workforce Management Software</a></li>
-<li class="parent" data-menu-parent="main-menu-2" data-menu-parent-title="Products"><a href="http://www.incontact.com/call-center-software/incontact-cloud-contact-center-platform" class="menu__link">Cloud Contact Center Platform</a></li>
-<li class="parent" data-menu-parent="main-menu-2" data-menu-parent-title="Products"><a href="http://www.incontact.com/call-center-software/personal-connection-outbound-solution" class="menu__link">Personal Connection™ Dialer</a></li>
-<li class="parent" data-menu-parent="main-menu-2" data-menu-parent-title="Products"><a href="http://www.incontact.com/call-center-software/echo-customer-survey" class="menu__link">Customer Satisfaction Surveys</a></li>
-<li class="parent" data-menu-parent="main-menu-2" data-menu-parent-title="Products"><a href="http://www.incontact.com/call-center-software/mobile-apps" class="menu__link">Supervisor On-The-Go™</a></li>
-<li class="bottom parent" data-menu-parent="main-menu-2" data-menu-parent-title="Products"><a href="http://www.incontact.com/call-center-software/analytics-driven-quality" class="menu__link">Speech &amp; Desktop Analytics</a></li>
-<li class="top parent" data-menu-parent="main-menu-2" data-menu-parent-title="Products"><a href="http://www.incontact.com/call-center-software/inview-customer-dashboards" class="menu__link">inView™ Performance Dashboards</a></li>
-<li class="parent" data-menu-parent="main-menu-2" data-menu-parent-title="Products"><a href="http://www.incontact.com/call-center-software/cloud-pbx" class="menu__link">Cloud PBX</a></li>
-<li class="parent" data-menu-parent="main-menu-2" data-menu-parent-title="Products"><a href="http://www.incontact.com/call-center-software/workforce-intelligent-contact-center" class="menu__link">Workforce-Intelligent Contact Center</a></li>
-<li class="parent" data-menu-parent="main-menu-2" data-menu-parent-title="Products"><a href="http://www.incontact.com/call-center-software/crm-integrations" class="menu__link">CRM Integrations</a></li>
-<li class="parent" data-menu-parent="main-menu-2" data-menu-parent-title="Products"><a href="http://www.incontact.com/call-center-software/incloud-solutions" class="menu__link">inCloud Apps</a></li>
-<li class="parent" data-menu-parent="main-menu-2" data-menu-parent-title="Products"><a href="http://www.incontact.com/call-center-software/blended-predictive-dialer" class="menu__link">Blended Predictive Dialer</a></li>
-<li class="parent" data-menu-parent="main-menu-2" data-menu-parent-title="Products"><a href="http://www.incontact.com/call-center-software/quality-management" class="menu__link">Quality Management</a></li>
-<li class="parent" data-menu-parent="main-menu-2" data-menu-parent-title="Products"><a href="http://www.incontact.com/call-center-software/network-connectivity" class="menu__link">Network Connectivity</a></li>
-<li class="last parent" data-menu-parent="main-menu-2" data-menu-parent-title="Products"><a href="http://www.incontact.com/call-center-software/incontact-developer-community" class="menu__link">Developer Community</a></li>
+						</li>
+					</ul>
+				</div>
+				<a class="brand logo_desktop" href="/"><img src="/sites/all/themes/spirezen_incontact/images/inContact-logo.png"></a>
+				<a class="brand logo_mobile" href="/"><img src="/sites/all/themes/spirezen_incontact/images/inContact-logo-stacked-2.png"></a>
+				<div class="nav-collapse collapse pull-right">
+					<nav id="header-nav">
+							<ul class="nav main-menu-1"><li class="first dropdown parent" data-menu-parent="main-menu-1"><a class="menu__link nolink">Products</a><ul class="dropdown dropdown-two-column products-dropdown main-menu-2"><li class="first parent" data-menu-parent="main-menu-2" data-menu-parent-title="Products"><a href="/call-center-software/multi-channel-acd" class="menu__link">Automatic Call Distribution (ACD)</a></li>
+<li class="parent" data-menu-parent="main-menu-2" data-menu-parent-title="Products"><a href="/call-center-software/interactive-voice-response-ivr" class="menu__link">Interactive Voice Response (IVR)</a></li>
+<li class="parent" data-menu-parent="main-menu-2" data-menu-parent-title="Products"><a href="/call-center-software/workforce-optimization" class="menu__link">Workforce Optimization</a></li>
+<li class="parent" data-menu-parent="main-menu-2" data-menu-parent-title="Products"><a href="/call-center-software/workforce-management-wfm" class="menu__link">Workforce Management Software</a></li>
+<li class="parent" data-menu-parent="main-menu-2" data-menu-parent-title="Products"><a href="/call-center-software/incontact-cloud-contact-center-platform" class="menu__link">Cloud Contact Center Platform</a></li>
+<li class="parent" data-menu-parent="main-menu-2" data-menu-parent-title="Products"><a href="/call-center-software/personal-connection-outbound-solution" class="menu__link">Personal Connection™ Dialer</a></li>
+<li class="parent" data-menu-parent="main-menu-2" data-menu-parent-title="Products"><a href="/call-center-software/echo-customer-survey" class="menu__link">Customer Satisfaction Surveys</a></li>
+<li class="parent" data-menu-parent="main-menu-2" data-menu-parent-title="Products"><a href="/call-center-software/mobile-apps" class="menu__link">Supervisor On-The-Go™</a></li>
+<li class="bottom parent" data-menu-parent="main-menu-2" data-menu-parent-title="Products"><a href="/call-center-software/analytics-driven-quality" class="menu__link">Speech &amp; Desktop Analytics</a></li>
+<li class="top parent" data-menu-parent="main-menu-2" data-menu-parent-title="Products"><a href="/call-center-software/inview-customer-dashboards" class="menu__link">inView™ Performance Dashboards</a></li>
+<li class="parent" data-menu-parent="main-menu-2" data-menu-parent-title="Products"><a href="/call-center-software/workforce-intelligent-contact-center" class="menu__link">Workforce-Intelligent Contact Center</a></li>
+<li class="parent" data-menu-parent="main-menu-2" data-menu-parent-title="Products"><a href="/call-center-software/crm-integrations" class="menu__link">CRM Integrations</a></li>
+<li class="parent" data-menu-parent="main-menu-2" data-menu-parent-title="Products"><a href="/call-center-software/incloud-solutions" class="menu__link">inCloud Apps</a></li>
+<li class="parent" data-menu-parent="main-menu-2" data-menu-parent-title="Products"><a href="/call-center-software/blended-predictive-dialer" class="menu__link">Blended Predictive Dialer</a></li>
+<li class="parent" data-menu-parent="main-menu-2" data-menu-parent-title="Products"><a href="/call-center-software/quality-management" class="menu__link">Quality Management</a></li>
+<li class="parent" data-menu-parent="main-menu-2" data-menu-parent-title="Products"><a href="/call-center-software/network-connectivity" class="menu__link">Network Connectivity</a></li>
+<li class="last parent" data-menu-parent="main-menu-2" data-menu-parent-title="Products"><a href="/call-center-software/incontact-developer-community" class="menu__link">Developer Community</a></li>
 </ul></li>
-<li class="dropdown parent" data-menu-parent="main-menu-1"><a href="http://www.incontact.com/call-center-software" class="menu__link main-menu-columns">Solutions</a><ul class="dropdown solutions-dropdown main-menu-2"><li class="first bottom dropdown parent" data-menu-parent="main-menu-2" data-menu-parent-title="Solutions"><a class="menu__link nolink">Industries</a><ul class="menu main-menu-3"><li class="first parent" data-menu-parent="main-menu-3"><a href="http://www.incontact.com/call-center-software/healthcare" class="menu__link">Healthcare</a></li>
-<li class="bottom parent" data-menu-parent="main-menu-3"><a href="http://www.incontact.com/call-center-software/bpo" class="menu__link">Business Process Outsourcers</a></li>
-<li class="last top parent" data-menu-parent="main-menu-3"><a href="http://www.incontact.com/call-center-software/financial" class="menu__link">Financial</a></li>
+<li class="dropdown parent" data-menu-parent="main-menu-1"><a href="/call-center-software" class="menu__link main-menu-columns">Solutions</a><ul class="dropdown solutions-dropdown main-menu-2"><li class="first bottom dropdown parent" data-menu-parent="main-menu-2" data-menu-parent-title="Solutions"><a class="menu__link nolink">Industries</a><ul class="menu main-menu-3"><li class="first parent" data-menu-parent="main-menu-3"><a href="/call-center-software/bpo" class="menu__link">Business Process Outsourcers</a></li>
+<li class="bottom parent" data-menu-parent="main-menu-3"><a href="/call-center-software/financial" class="menu__link">Financial Services</a></li>
+<li class="last top parent" data-menu-parent="main-menu-3"><a href="/call-center-software/healthcare" class="menu__link">Healthcare</a></li>
 </ul></li>
-<li class="last top dropdown parent" data-menu-parent="main-menu-2" data-menu-parent-title="Solutions"><a class="menu__link nolink">Solutions</a><ul class="menu dropdown-two-column main-menu-3"><li class="first parent" data-menu-parent="main-menu-3" data-menu-parent-title="Solutions-Solutions"><a href="http://www.incontact.com/call-center-software/inbound-contact-center" class="menu__link">Inbound Contact Center</a></li>
-<li class="parent" data-menu-parent="main-menu-3" data-menu-parent-title="Solutions-Solutions"><a href="http://www.incontact.com/call-center-software/outbound-contact-center" class="menu__link">Outbound Contact Center</a></li>
-<li class="parent" data-menu-parent="main-menu-3" data-menu-parent-title="Solutions-Solutions"><a href="http://www.incontact.com/call-center-software/contact-center-management" class="menu__link">Contact Center Management</a></li>
-<li class="parent" data-menu-parent="main-menu-3" data-menu-parent-title="Solutions-Solutions"><a href="http://www.incontact.com/call-center-software/customer-service" class="menu__link">Customer Service Solutions</a></li>
-<li class="parent" data-menu-parent="main-menu-3" data-menu-parent-title="Solutions-Solutions"><a href="http://www.incontact.com/call-center-software/manage-enterprise-contact-center" class="menu__link">Enterprise Call Center</a></li>
-<li class="parent" data-menu-parent="main-menu-3" data-menu-parent-title="Solutions-Solutions"><a href="http://www.incontact.com/call-center-software/reporting-analytics" class="menu__link">Reporting &amp; Analytics</a></li>
-<li class="bottom parent" data-menu-parent="main-menu-3" data-menu-parent-title="Solutions-Solutions"><a href="http://www.incontact.com/call-center-software/learn-about-security-cloud" class="menu__link">Security Cloud</a></li>
-<li class="top parent" data-menu-parent="main-menu-3" data-menu-parent-title="Solutions-Solutions"><a href="http://www.incontact.com/call-center-software/help-desk-tech-support" class="menu__link">Help Desk Support</a></li>
-<li class="parent" data-menu-parent="main-menu-3" data-menu-parent-title="Solutions-Solutions"><a href="http://www.incontact.com/call-center-software/sales-fundraising" class="menu__link">Sales Fundraising</a></li>
-<li class="parent" data-menu-parent="main-menu-3" data-menu-parent-title="Solutions-Solutions"><a href="http://www.incontact.com/call-center-software/collections" class="menu__link">Collections</a></li>
-<li class="parent" data-menu-parent="main-menu-3" data-menu-parent-title="Solutions-Solutions"><a href="http://www.incontact.com/call-center-software/ensure-compliance" class="menu__link">Contact Center Compliance</a></li>
-<li class="parent" data-menu-parent="main-menu-3" data-menu-parent-title="Solutions-Solutions"><a href="http://www.incontact.com/call-center-software/disaster-recovery" class="menu__link">Disaster Recovery</a></li>
-<li class="parent" data-menu-parent="main-menu-3" data-menu-parent-title="Solutions-Solutions"><a href="http://www.incontact.com/call-center-software/drive-loyalty" class="menu__link">Customer Loyalty</a></li>
-<li class="last parent" data-menu-parent="main-menu-3" data-menu-parent-title="Solutions-Solutions"><a href="http://www.incontact.com/call-center-software/customer-experience-executive" class="menu__link">Customer Experience</a></li>
+<li class="last top dropdown parent" data-menu-parent="main-menu-2" data-menu-parent-title="Solutions"><a class="menu__link nolink">Solutions</a><ul class="menu dropdown-two-column main-menu-3"><li class="first parent" data-menu-parent="main-menu-3" data-menu-parent-title="Solutions-Solutions"><a href="/call-center-software/inbound-contact-center" class="menu__link">Inbound Contact Center</a></li>
+<li class="parent" data-menu-parent="main-menu-3" data-menu-parent-title="Solutions-Solutions"><a href="/call-center-software/outbound-contact-center" class="menu__link">Outbound Contact Center</a></li>
+<li class="parent" data-menu-parent="main-menu-3" data-menu-parent-title="Solutions-Solutions"><a href="/call-center-software/contact-center-management" class="menu__link">Contact Center Management</a></li>
+<li class="parent" data-menu-parent="main-menu-3" data-menu-parent-title="Solutions-Solutions"><a href="/call-center-software/customer-service" class="menu__link">Customer Service Solutions</a></li>
+<li class="parent" data-menu-parent="main-menu-3" data-menu-parent-title="Solutions-Solutions"><a href="/call-center-software/manage-enterprise-contact-center" class="menu__link">Enterprise Call Center</a></li>
+<li class="parent" data-menu-parent="main-menu-3" data-menu-parent-title="Solutions-Solutions"><a href="/call-center-software/reporting-analytics" class="menu__link">Reporting &amp; Analytics</a></li>
+<li class="bottom parent" data-menu-parent="main-menu-3" data-menu-parent-title="Solutions-Solutions"><a href="/call-center-software/learn-about-security-cloud" class="menu__link">Security Cloud</a></li>
+<li class="top parent" data-menu-parent="main-menu-3" data-menu-parent-title="Solutions-Solutions"><a href="/call-center-software/help-desk-tech-support" class="menu__link">Help Desk Support</a></li>
+<li class="parent" data-menu-parent="main-menu-3" data-menu-parent-title="Solutions-Solutions"><a href="/call-center-software/sales-fundraising" class="menu__link">Sales Fundraising</a></li>
+<li class="parent" data-menu-parent="main-menu-3" data-menu-parent-title="Solutions-Solutions"><a href="/call-center-software/collections" class="menu__link">Collections</a></li>
+<li class="parent" data-menu-parent="main-menu-3" data-menu-parent-title="Solutions-Solutions"><a href="/call-center-software/ensure-compliance" class="menu__link">Contact Center Compliance</a></li>
+<li class="parent" data-menu-parent="main-menu-3" data-menu-parent-title="Solutions-Solutions"><a href="/call-center-software/disaster-recovery" class="menu__link">Disaster Recovery</a></li>
+<li class="parent" data-menu-parent="main-menu-3" data-menu-parent-title="Solutions-Solutions"><a href="/call-center-software/drive-loyalty" class="menu__link">Customer Loyalty</a></li>
+<li class="last parent" data-menu-parent="main-menu-3" data-menu-parent-title="Solutions-Solutions"><a href="/call-center-software/customer-experience-executive" class="menu__link">Customer Experience</a></li>
 </ul></li>
 </ul></li>
-<li class="dropdown parent" data-menu-parent="main-menu-1"><a class="menu__link nolink">Services</a><ul class="dropdown services-dropdown main-menu-2"><li class="first parent" data-menu-parent="main-menu-2" data-menu-parent-title="Services"><a href="http://www.incontact.com/virtual-call-center-services/business-consulting" class="menu__link">Business Consulting</a></li>
-<li class="bottom parent" data-menu-parent="main-menu-2" data-menu-parent-title="Services"><a href="http://www.incontact.com/virtual-call-center-services/consultants" class="menu__link">Professional Services</a></li>
-<li class="top parent" data-menu-parent="main-menu-2" data-menu-parent-title="Services"><a href="http://www.incontact.com/virtual-call-center-services/customer-support" class="menu__link">Customer Support</a></li>
-<li class="last parent" data-menu-parent="main-menu-2" data-menu-parent-title="Services"><a href="http://www.incontact.com/virtual-call-center-services/call-center-training" class="menu__link">Training</a></li>
+<li class="dropdown parent" data-menu-parent="main-menu-1"><a class="menu__link nolink">Services</a><ul class="dropdown services-dropdown main-menu-2"><li class="first parent" data-menu-parent="main-menu-2" data-menu-parent-title="Services"><a href="/virtual-call-center-services/business-consulting" class="menu__link">Business Consulting</a></li>
+<li class="bottom parent" data-menu-parent="main-menu-2" data-menu-parent-title="Services"><a href="/virtual-call-center-services/consultants" class="menu__link">Professional Services</a></li>
+<li class="top parent" data-menu-parent="main-menu-2" data-menu-parent-title="Services"><a href="/virtual-call-center-services/customer-support" class="menu__link">Customer Support</a></li>
+<li class="last parent" data-menu-parent="main-menu-2" data-menu-parent-title="Services"><a href="/virtual-call-center-services/call-center-training" class="menu__link">Training</a></li>
 </ul></li>
-<li class="dropdown parent" data-menu-parent="main-menu-1"><a class="menu__link nolink">Resources</a><ul class="dropdown dropdown-two-column resources-dropdown main-menu-2"><li class="first parent" data-menu-parent="main-menu-2" data-menu-parent-title="Resources"><a href="http://www.incontact.com/call-center-resource-finder" class="menu__link">Resource Finder</a></li>
-<li class="parent" data-menu-parent="main-menu-2" data-menu-parent-title="Resources"><a href="http://www.incontact.com/call-center-resource-finder?tid=3" class="menu__link">Best Practice Videos</a></li>
-<li class="parent" data-menu-parent="main-menu-2" data-menu-parent-title="Resources"><a href="http://www.incontact.com/call-center-resource-finder?tid=8" class="menu__link">Case Studies</a></li>
-<li class="parent" data-menu-parent="main-menu-2" data-menu-parent-title="Resources"><a href="http://www.incontact.com/call-center-resource-finder?tid=9" class="menu__link">Data Sheets</a></li>
-<li class="parent" data-menu-parent="main-menu-2" data-menu-parent-title="Resources"><a href="http://www.incontact.com/call-center-resource-finder?tid=4" class="menu__link">Demo Videos</a></li>
-<li class="bottom parent" data-menu-parent="main-menu-2" data-menu-parent-title="Resources"><a href="http://www.incontact.com/call-center-resource-finder?tid=6" class="menu__link">eBooks</a></li>
-<li class="top parent" data-menu-parent="main-menu-2" data-menu-parent-title="Resources"><a href="http://www.incontact.com/call-center-resource-finder?tid=26" class="menu__link">Road Tour Videos</a></li>
-<li class="parent" data-menu-parent="main-menu-2" data-menu-parent-title="Resources"><a href="http://www.incontact.com/call-center-resource-finder?tid=5" class="menu__link">Video Testimonials</a></li>
-<li class="parent" data-menu-parent="main-menu-2" data-menu-parent-title="Resources"><a href="http://www.incontact.com/call-center-resource-finder?tid=27" class="menu__link">Webcasts</a></li>
-<li class="parent" data-menu-parent="main-menu-2" data-menu-parent-title="Resources"><a href="http://www.incontact.com/call-center-resource-finder?tid=28" class="menu__link">Webinars (Archived)</a></li>
-<li class="parent" data-menu-parent="main-menu-2" data-menu-parent-title="Resources"><a href="http://www.incontact.com/call-center-resource-finder?tid=7" class="menu__link">White Papers</a></li>
+<li class="dropdown parent" data-menu-parent="main-menu-1"><a class="menu__link nolink">Resources</a><ul class="dropdown dropdown-two-column resources-dropdown main-menu-2"><li class="first parent" data-menu-parent="main-menu-2" data-menu-parent-title="Resources"><a href="/call-center-resource-finder" class="menu__link">Resource Finder</a></li>
+<li class="parent" data-menu-parent="main-menu-2" data-menu-parent-title="Resources"><a href="/call-center-resource-finder?tid=3" class="menu__link">Best Practice Videos</a></li>
+<li class="parent" data-menu-parent="main-menu-2" data-menu-parent-title="Resources"><a href="/call-center-resource-finder?tid=8" class="menu__link">Case Studies</a></li>
+<li class="parent" data-menu-parent="main-menu-2" data-menu-parent-title="Resources"><a href="/call-center-resource-finder?tid=9" class="menu__link">Data Sheets</a></li>
+<li class="parent" data-menu-parent="main-menu-2" data-menu-parent-title="Resources"><a href="/call-center-resource-finder?tid=4" class="menu__link">Demo Videos</a></li>
+<li class="bottom parent" data-menu-parent="main-menu-2" data-menu-parent-title="Resources"><a href="/call-center-resource-finder?tid=6" class="menu__link">eBooks</a></li>
+<li class="top parent" data-menu-parent="main-menu-2" data-menu-parent-title="Resources"><a href="/call-center-resource-finder?tid=26" class="menu__link">Road Tour Videos</a></li>
+<li class="parent" data-menu-parent="main-menu-2" data-menu-parent-title="Resources"><a href="/call-center-resource-finder?tid=5" class="menu__link">Video Testimonials</a></li>
+<li class="parent" data-menu-parent="main-menu-2" data-menu-parent-title="Resources"><a href="/call-center-resource-finder?tid=27" class="menu__link">Webcasts</a></li>
+<li class="parent" data-menu-parent="main-menu-2" data-menu-parent-title="Resources"><a href="/call-center-resource-finder?tid=28" class="menu__link">Webinars (Archived)</a></li>
+<li class="parent" data-menu-parent="main-menu-2" data-menu-parent-title="Resources"><a href="/call-center-resource-finder?tid=7" class="menu__link">White Papers</a></li>
 <li class="last parent" data-menu-parent="main-menu-2" data-menu-parent-title="Resources"><a href="http://www.incontact.com/call-center-software/incontact-developer-community" class="menu__link">inContact Developer Portal</a></li>
 </ul></li>
-<li class="dropdown parent" data-menu-parent="main-menu-1"><a class="menu__link nolink">Partners</a><ul class="dropdown partners-dropdown main-menu-2"><li class="first bottom dropdown parent" data-menu-parent="main-menu-2" data-menu-parent-title="Partners"><a class="menu__link nolink">Business Partners</a><ul class="menu main-menu-3"><li class="first parent" data-menu-parent="main-menu-3"><a href="http://www.incontact.com/become-business-partner" class="menu__link">Become a Business Partner</a></li>
-<li class="bottom parent" data-menu-parent="main-menu-3"><a href="http://www.incontact.com/partner-login" class="menu__link">Business Partner Login</a></li>
-<li class="last top parent" data-menu-parent="main-menu-3"><a href="http://www.incontact.com/call-center-software-partners/systems-integrators" class="menu__link">Certified Implementation Partner</a></li>
+<li class="dropdown parent" data-menu-parent="main-menu-1"><a class="menu__link nolink">Partners</a><ul class="dropdown partners-dropdown main-menu-2"><li class="first bottom dropdown parent" data-menu-parent="main-menu-2" data-menu-parent-title="Partners"><a class="menu__link nolink">Business Partners</a><ul class="menu main-menu-3"><li class="first parent" data-menu-parent="main-menu-3"><a href="/become-business-partner" class="menu__link">Become a Business Partner</a></li>
+<li class="bottom parent" data-menu-parent="main-menu-3"><a href="/partner-login" class="menu__link">Business Partner Login</a></li>
+<li class="last top parent" data-menu-parent="main-menu-3"><a href="/call-center-software-partners/systems-integrators" class="menu__link">Certified Implementation Partner</a></li>
 </ul></li>
-<li class="last top dropdown parent" data-menu-parent="main-menu-2" data-menu-parent-title="Partners"><a class="menu__link nolink">inCloud Alliance Partners</a><ul class="menu main-menu-3"><li class="first parent" data-menu-parent="main-menu-3"><a href="http://www.incontact.com/incloud-app-showcase" class="menu__link">inCloud App Showcase</a></li>
-<li class="bottom parent" data-menu-parent="main-menu-3"><a href="http://www.incontact.com/call-center-software-partners/incloud-directory" class="menu__link">inCloud Partner Directory</a></li>
-<li class="last top parent" data-menu-parent="main-menu-3"><a href="http://www.incontact.com/become-incloud-partner" class="menu__link">Become an inCloud Partner</a></li>
+<li class="last top dropdown parent" data-menu-parent="main-menu-2" data-menu-parent-title="Partners"><a class="menu__link nolink">inCloud Alliance Partners</a><ul class="menu main-menu-3"><li class="first parent" data-menu-parent="main-menu-3"><a href="/incloud-app-showcase" class="menu__link">inCloud App Showcase</a></li>
+<li class="bottom parent" data-menu-parent="main-menu-3"><a href="/call-center-software-partners/incloud-directory" class="menu__link">inCloud Partner Directory</a></li>
+<li class="last top parent" data-menu-parent="main-menu-3"><a href="/become-incloud-partner" class="menu__link">Become an inCloud Partner</a></li>
 </ul></li>
 </ul></li>
-<li class="dropdown parent" data-menu-parent="main-menu-1"><a class="menu__link nolink">Company</a><ul class="dropdown company-dropdown main-menu-2"><li class="first parent" data-menu-parent="main-menu-2" data-menu-parent-title="Company"><a href="http://www.incontact.com/call-center-software-company/about-us" class="menu__link">About Us</a></li>
-<li class="parent" data-menu-parent="main-menu-2" data-menu-parent-title="Company"><a href="http://www.incontact.com/call-center-software-company/articles" class="menu__link">Articles</a></li>
-<li class="parent" data-menu-parent="main-menu-2" data-menu-parent-title="Company"><a href="http://www.incontact.com/call-center-software-company/careers" class="menu__link">Careers</a></li>
-<li class="bottom parent" data-menu-parent="main-menu-2" data-menu-parent-title="Company"><a href="http://www.incontact.com/contact" class="menu__link">Contact Us</a></li>
-<li class="top parent" data-menu-parent="main-menu-2" data-menu-parent-title="Company"><a href="http://www.incontact.com/call-center-software-company/event-calendar" class="menu__link">Event Calendar</a></li>
+<li class="dropdown parent" data-menu-parent="main-menu-1"><a class="menu__link nolink">Company</a><ul class="dropdown company-dropdown main-menu-2"><li class="first parent" data-menu-parent="main-menu-2" data-menu-parent-title="Company"><a href="/call-center-software-company/about-us" class="menu__link">About Us</a></li>
+<li class="parent" data-menu-parent="main-menu-2" data-menu-parent-title="Company"><a href="/call-center-software-company/articles" class="menu__link">Articles</a></li>
+<li class="parent" data-menu-parent="main-menu-2" data-menu-parent-title="Company"><a href="/call-center-software-company/careers" class="menu__link">Careers</a></li>
+<li class="bottom parent" data-menu-parent="main-menu-2" data-menu-parent-title="Company"><a href="/contact" class="menu__link">Contact Us</a></li>
+<li class="top parent" data-menu-parent="main-menu-2" data-menu-parent-title="Company"><a href="/call-center-software-company/event-calendar" class="menu__link">Event Calendar</a></li>
 <li class="parent" data-menu-parent="main-menu-2" data-menu-parent-title="Company"><a href="http://investor.incontact.com" class="menu__link">Investor Relations</a></li>
-<li class="parent" data-menu-parent="main-menu-2" data-menu-parent-title="Company"><a href="http://www.incontact.com/call-center-software-company/press-releases" class="menu__link">Press Releases</a></li>
-<li class="last parent" data-menu-parent="main-menu-2" data-menu-parent-title="Company"><a href="http://www.incontact.com/call-center-software-company/trust-office" class="menu__link">Trust Office</a></li>
+<li class="parent" data-menu-parent="main-menu-2" data-menu-parent-title="Company"><a href="/call-center-software-company/press-releases" class="menu__link">Press Releases</a></li>
+<li class="last parent" data-menu-parent="main-menu-2" data-menu-parent-title="Company"><a href="/call-center-software-company/trust-office" class="menu__link">Trust Office</a></li>
 </ul></li>
 <li class="last parent" data-menu-parent="main-menu-1"><a href="http://www.incontact.com/blog" class="menu__link">Blog</a></li>
-</ul>										</nav>
-										<form class="navbar-form pull-left">
-												<a class="btn bg-nephritis" href="/contact">Contact Us</a>
-										</form>
-								</div>
-						</div>
+</ul>					</nav>
+					<form class="navbar-form pull-left">
+						<a class="btn bg-nephritis" href="/contact">Contact Us</a>
+					</form>
 				</div>
+				<a class="telephone btn bg-nephritis" href="tel:18669657227">1.866.965.7227</a>
+			</div>
 		</div>
+	</div>
 </header>
 <!-- /#newheader -->
 
 <div id="page">
 
-		<div id="main">
+	<div id="main">
 
-				<div id="content" class="column" role="main">
-						<nav class="breadcrumb" role="navigation"><h2 class="element-invisible">You are here</h2><ol><li><a href="http://www.incontact.com/">Home</a> ›› </li></ol></nav>												<a id="main-content"></a>
-																		<h1 class="title" id="page-title">Privacy Policy</h1>
-																																										
+		<div id="content" class="column" role="main">
+			<nav class="breadcrumb" role="navigation"><h2 class="element-invisible">You are here</h2><ol><li><a href="/">Home</a> ›› </li></ol></nav>						<a id="main-content"></a>
+									<h1 class="title" id="page-title">Privacy Policy</h1>
+																					
 
 
 <article class="node-467 node node-page view-mode-full clearfix">
@@ -271,74 +348,73 @@ Midvale, UT 84047.&nbsp; &nbsp;</p>
 </div></div></div><div id="pressrelease-content"></div>
   
   
-</article><!-- /.node -->
-										</div><!-- /#content -->
-
-				
-				
-		</div><!-- /#main -->
+</article><!-- /.node -->					</div><!-- /#content -->
 
 		
+		
+	</div><!-- /#main -->
+
+	
 </div><!-- /#page -->
 
 <!-- #newfooter -->
 <footer class="footer-3">
-		<div class="container">
-				<div class="row">
-						<div class="span3 footer-products">
-								<h3>Products</h3>
-								<a href="/call-center-software/multi-channel-acd">Automatic Call Distributor (ACD)</a><br>
-								<a href="/call-center-software/interactive-voice-response-ivr">Interactive Voice Response (IVR)</a><br>
-								<a href="/call-center-software/workforce-optimization">Workforce Optimization (WFO)</a><br>
-								<a href="/call-center-software/workforce-management">Workforce Management (WFM)</a><br>
-								<a href="/call-center-software/incontact-cloud-contact-center-platform">Cloud Contact Center Platform</a><br>
-								<a href="/call-center-software/echo-customer-survey">ECHO Customer Survey</a><br>
-								<a href="/call-center-software">Call Center Software</a><br>
-						</div>
-						<div class="span2 footer-services">
-								<h3>Services</h3>
-								<a href="/virtual-call-center-services/business-consulting">Business Consulting</a><br>
-								<a href="/virtual-call-center-services/consultants">Professional Services</a><br>
-								<a href="/virtual-call-center-services/customer-support">Customer Support Packages</a><br>
-								<a href="/virtual-call-center-services/call-center-training">Training and Education</a><br>
-								<a href="/call-center-software-company/trust-office">Trust Office</a><br>
-								<a href="/call-center-software-partners/incloud-directory">Partner Directory</a><br>
-						</div>
-						<div class="span2 footer-resources">
-								<h3>Resources</h3>
-								<a href="/call-center-resource-finder?tid=3">Best Practice Videos</a><br>
-								<a href="/call-center-resource-finder?tid=4">Product Demos</a><br>
-								<a href="/call-center-resource-finder?tid=7">Whitepapers</a><br>
-								<a href="/call-center-resource-finder?tid=28">Recorded Webinars</a><br>
-								<a href="/call-center-resource-finder">Resource Finder</a><br>
-								<a href="/call-center-resource-finder?tid=5">Testimonials</a><br>
-								<a href="/call-center-resource-finder?tid=8">Case Studies</a><br>
-						</div>
-						<div class="span2 footer-company">
-								<h3>Company</h3>
-								<a href="/call-center-software-company/about-us">About Us</a><br>
-								<a href="/call-center-software-company/event-calendar">Events</a><br>
-								<a href="/call-center-software-company/careers">Careers</a><br>
-								<a href="/call-center-software-company/articles">Articles</a><br>
-								<a href="/call-center-software-company/press-releases">Press Releases</a><br>
-								<a href="/call-center-software-company/legal/privacy-policy">Privacy Policy</a><br>
-								<a href="/call-center-software-company/legal">Legal</a><br>
-						</div>
-						<div class="span2 footer-connect">
-								<h3>Connect</h3>
-								<a href="/blog">Blog</a><br>
-								<a href="/contact">Contact Us</a><br>
-								<a href="http://www.facebook.com/incontact">Facebook</a><br>
-								<a href="http://www.twitter.com/incontact">Twitter</a><br>
-								<a href="http://www.linkedin.com/groups?gid=2847749&amp;trk=myg_ugrp_ovr">LinkedIn</a><br>
-								<a href="https://plus.google.com/104519180988793172473/posts">Google+</a><br>
-								<a href="https://www.youtube.com/user/incontact">YouTube</a><br>
-						</div>
-				</div>
+	<div class="container">
+		<div class="row">
+			<div class="span3 footer-products">
+				<h3>Products<span class="ui-icon ui-icon-carat-1-e ui-icon-white"></span></h3>
+				<a href="/call-center-software/multi-channel-acd">Automatic Call Distributor (ACD)</a><br>
+				<a href="/call-center-software/interactive-voice-response-ivr">Interactive Voice Response (IVR)</a><br>
+				<a href="/call-center-software/workforce-optimization">Workforce Optimization (WFO)</a><br>
+				<a href="/call-center-software/workforce-management">Workforce Management (WFM)</a><br>
+				<a href="/call-center-software/incontact-cloud-contact-center-platform">Cloud Contact Center Platform</a><br>
+				<a href="/call-center-software/echo-customer-survey">ECHO Customer Survey</a><br>
+				<a href="/call-center-software">Call Center Software</a><br>
+			</div>
+			<div class="span2 footer-services">
+				<h3>Services<span class="ui-icon ui-icon-carat-1-e ui-icon-white"></span></h3>
+				<a href="/virtual-call-center-services/business-consulting">Business Consulting</a><br>
+				<a href="/virtual-call-center-services/consultants">Professional Services</a><br>
+				<a href="/virtual-call-center-services/customer-support">Customer Support Packages</a><br>
+				<a href="/virtual-call-center-services/call-center-training">Training and Education</a><br>
+				<a href="/call-center-software-company/trust-office">Trust Office</a><br>
+				<a href="/call-center-software-partners/incloud-directory">Partner Directory</a><br>
+			</div>
+			<div class="span2 footer-resources">
+				<h3>Resources<span class="ui-icon ui-icon-carat-1-e ui-icon-white"></span></h3>
+				<a href="/call-center-resource-finder?tid=3">Best Practice Videos</a><br>
+				<a href="/call-center-resource-finder?tid=4">Product Demos</a><br>
+				<a href="/call-center-resource-finder?tid=7">Whitepapers</a><br>
+				<a href="/call-center-resource-finder?tid=28">Recorded Webinars</a><br>
+				<a href="/call-center-resource-finder">Resource Finder</a><br>
+				<a href="/call-center-resource-finder?tid=5">Testimonials</a><br>
+				<a href="/call-center-resource-finder?tid=8">Case Studies</a><br>
+			</div>
+			<div class="span2 footer-company">
+				<h3>Company<span class="ui-icon ui-icon-carat-1-e ui-icon-white"></span></h3>
+				<a href="/call-center-software-company/about-us">About Us</a><br>
+				<a href="/call-center-software-company/event-calendar">Events</a><br>
+				<a href="/call-center-software-company/careers">Careers</a><br>
+				<a href="/call-center-software-company/articles">Articles</a><br>
+				<a href="/call-center-software-company/press-releases">Press Releases</a><br>
+				<a href="/call-center-software-company/legal/privacy-policy">Privacy Policy</a><br>
+				<a href="/call-center-software-company/legal">Legal</a><br>
+			</div>
+			<div class="span2 footer-connect">
+				<h3>Connect<span class="ui-icon ui-icon-carat-1-e ui-icon-white"></span></h3>
+				<a href="/blog">Blog</a><br>
+				<a href="/contact">Contact Us</a><br>
+				<a href="http://www.facebook.com/incontact">Facebook</a><br>
+				<a href="http://www.twitter.com/incontact">Twitter</a><br>
+				<a href="http://www.linkedin.com/groups?gid=2847749&amp;trk=myg_ugrp_ovr">LinkedIn</a><br>
+				<a href="https://plus.google.com/104519180988793172473/posts">Google+</a><br>
+				<a href="https://www.youtube.com/user/incontact">YouTube</a><br>
+			</div>
 		</div>
-		<p style="margin:0;font-size: smaller;display: inline;float: right;height: 20px;">© 2014 inContact Inc.</p>
+	</div>
+	<p style="margin:0;font-size: smaller;display: inline;float: right;height: 20px;">© 2015 inContact Inc.</p>
 </footer>
-<!-- /#newfooter -->  <script>
+<!-- /#newfooter -->		<script>
 		jQuery(document).ready(function(){
 			jQuery("<select />").appendTo("nav#header-nav");
 
@@ -362,6 +438,8 @@ jQuery("nav#header-nav select").change(function() {
 });
 		});
 		</script>
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-6.newrelic.com","licenseKey":"b13c217217","applicationID":"3127414","transactionName":"ZAdRYEUACBIEWhdaWF1NcldDCAkPSlcMV1JsElJTUj4QCABO","queueTime":0,"applicationTime":240,"atts":"SEBSFg0aGxw=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-476.min.js"}</script>
+<div id="outdated"></div>
+	</div>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"b13c217217","applicationID":"3127414","transactionName":"ZAdRYEUACBIEWhdaWF1NcldDCAkPSlcMV1JsElJTUj4QCABO","queueTime":0,"applicationTime":216,"atts":"SEBSFg0aGxw=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-632.min.js"}</script>
 
-<script src="https://js-agent.newrelic.com/nr-476.min.js"></script></body></html>
+</body></html>
