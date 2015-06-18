@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adaptiveinsights.com privacy policy that was archived on 2014-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141211195541id_/http%3A//www.adaptiveinsights.com/online-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adaptiveinsights.com privacy policy that was archived on 2015-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150618055906id_/http%3A//www.adaptiveinsights.com/online-privacy-policy) for the most accurate reproduction.*
 
 # Online Privacy Policy - Budgeting Software, Forecasting Software, Corporate Performance Management (CPM) - Adaptive Insights
 
