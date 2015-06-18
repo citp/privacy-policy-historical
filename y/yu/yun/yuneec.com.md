@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the yuneec.com privacy policy that was archived on 2014-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141016040943id_/http%3A//www.yuneec.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yuneec.com privacy policy that was archived on 2015-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150618060812id_/http%3A//store.yuneec.com/privacy-policy) for the most accurate reproduction.*
 
-# Yuneec - Privacy Policy
+# Privacy Policy
 
 This privacy policy sets out how Yuneec uses and protects any information that you give Yuneec when you use this website. Yuneec is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement. Yuneec may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes.
 
@@ -49,7 +49,7 @@ Our website may contain links to other websites of interest. However, once you h
 You may choose to restrict the collection or use of your personal information in the following ways:
 
   * whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes
-  * if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at noreply@yuneec.com
+  * if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at cs@yuneec.com
 
 
 
