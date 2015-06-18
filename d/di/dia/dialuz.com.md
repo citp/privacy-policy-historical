@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the dialuz.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122200507id_/http%3A//india.dialus.com/Dialus/Information/Company/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dialuz.com privacy policy that was archived on 2015-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150618040348id_/http%3A//india.dialus.com/Dialus/Information/Company/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy- Local Business Directory, india Local Search Engine -Dialus.com
 
-#### Privacy Policy
-
-In the course of registering for and availing various services we provide from time to time through our website http://india.dialus.com/IN.html (“Website”, telephone search, SMS and any other medium in which Dialuz may provide services (collectively referred to as "Media") you may be required to give your name, residence address, workplace address, email address, date of birth, educational qualifications and similar personal Information (“Personal Information”). The personal information is used for three general purposes: to customize the content you see, to fulfill your requests for certain services, and to contact you about our services. Unless otherwise stated explicitly, this Policy applies to Personal Information as disclosed on any of the Media. 
+In the course of registering for and availing various services we provide from time to time through our website http://india.dialus.com/IN.html (â€œWebsiteâ€, telephone search, SMS and any other medium in which Dialuz may provide services (collectively referred to as "Media") you may be required to give your name, residence address, workplace address, email address, date of birth, educational qualifications and similar personal Information (â€œPersonal Informationâ€). The personal information is used for three general purposes: to customize the content you see, to fulfill your requests for certain services, and to contact you about our services. Unless otherwise stated explicitly, this Policy applies to Personal Information as disclosed on any of the Media. 
 
 We are committed to protecting the privacy and confidentiality of all Personal Information that you may share as a user of Media In furtherance thereof, we have this policy to demonstrate our good faith. This policy does not apply to the practices of organizations that we do not own or to people that we do not employ or manage.
 
@@ -19,7 +17,7 @@ In furtherance of the confidentiality with which we treat Personal Information w
 
 We give you the ability to edit your account information and preferences at any time, including whether you want us to contact you about new services. To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections. 
 
-You acknowledge that you are disclosing Personal Information voluntarily. Prior to the completion of any registration process on our website or prior to availing of any services offered on our website if you wish not to disclose any Personal Information you may refrain from doing so; however if you don’t provide information that is requested it is possible that the registration process would be incomplete and/or you would not be able to avail of the our services .
+You acknowledge that you are disclosing Personal Information voluntarily. Prior to the completion of any registration process on our website or prior to availing of any services offered on our website if you wish not to disclose any Personal Information you may refrain from doing so; however if you donâ€™t provide information that is requested it is possible that the registration process would be incomplete and/or you would not be able to avail of the our services .
 
   
 
