@@ -1,19 +1,6 @@
-> *The following text is extracted and transformed from the nigelohara.com privacy policy that was archived on 2011-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111207211037id_/http%3A//www.nigelohara.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nigelohara.com privacy policy that was archived on 2015-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150618183243id_/http%3A//www.nigelohara.com/privacy.aspx) for the most accurate reproduction.*
 
-# Nigel O'Hara - Diamond Jeweller - Privacy
-
-[](https://web.archive.org/diamonds/)
-
-[](https://web.archive.org/designer-watches/)
-
-[](https://web.archive.org/designer-watches/)   
-[Accurist](https://web.archive.org/accurist-watches/), [Citizen](https://web.archive.org/citizen-watches/), [D&G](https://web.archive.org/dg-watches/), [Guess](https://web.archive.org/guess-watches/), [Ice Watch](https://web.archive.org/ice-watch/), [POLICE](https://web.archive.org/police-watches/), [Seksy](https://web.archive.org/seksy-watches/), [Seiko](https://web.archive.org/seiko-watches/), [Sekonda](https://web.archive.org/sekonda-watches/), [Timex](https://web.archive.org/timex-watches/), [Tissot ](https://web.archive.org/tissot-watches/), [designer watches](https://web.archive.org/designer-watches/)
-
-[](https://web.archive.org/jewellery/)
-
-[](https://web.archive.org/wedding/)
-
-[](https://web.archive.org/gifts/)
+# Privacy - Nigel O'Hara
 
 We recognize that privacy is important. This Policy applies to all of the products, services and websites offered by nigelohara.com. 
 
