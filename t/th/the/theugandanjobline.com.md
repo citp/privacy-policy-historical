@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the theugandanjobline.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702014130id_/http%3A//www.theugandanjobline.com/p/this-privacy-policy-sets-out-how-uses.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theugandanjobline.com privacy policy that was archived on 2015-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150618224304id_/http%3A//www.theugandanjobline.com/p/this-privacy-policy-sets-out-how-uses.html) for the most accurate reproduction.*
 
 # PRIVACY POLICY ~ Ugandan Jobline Jobs - The Best Uganda Jobs
 
-This privacy policy sets out how  **Ugandan Jobline Jobs** uses and protects any information that you give  **Ugandan Jobline Jobs** when you use this website.  **Ugandan Jobline Jobs** is very ** _COMMITTED_** to ensuring that your privacy is protected. In case we ask you to provide certain information by which you can be identified when using this website, please rest assured that we will only be use it only accordance with this privacy statement.  **Ugandan Jobline Jobs** may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 8th of April, 2013.
+This privacy policy sets out how  **Ugandan Jobline Jobs** uses and protects any information that you give  **Ugandan Jobline Jobs** when you use this website.  **Ugandan Jobline Jobs** is very ** _COMMITTED_** to ensuring that your privacy is protected. In case we ask you to provide certain information by which you can be identified when using this website, please rest assured that we will only use it only accordance with this privacy statement.  **Ugandan Jobline Jobs** may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 8th of April, 2013.
 
 **_What we collect:_**
 
