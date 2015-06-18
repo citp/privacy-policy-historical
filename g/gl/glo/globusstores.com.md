@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the globusstores.com privacy policy that was archived on 2014-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141203124911id_/http%3A//www.globusstores.com/pages/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globusstores.com privacy policy that was archived on 2015-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150618211325id_/http%3A//www.globusstores.com/privacy-policy) for the most accurate reproduction.*
 
-# INCOM PRIVACY POLICY | Globus Stores Pvt. Ltd.
+# Privacy Policy
 
-Thank you for visiting this website [www.globusstores.com](http://www.globusstores.com/), an Online store which is operated by INCOM Services Private Limited, exclusively for selling Globus products in India as Globus’s online retailer / dealer.
+Thank you for visiting this website [www.globusstores.com](http://www.globusstores.com/), an Online store which is operated by INCOM Services Private Limited, exclusively for selling Globus products in India as Globus’s online retailer / dealer.
 
 Your visit to this website is subject to this Privacy Policy and other Terms and Conditions available here in this website.
 
@@ -18,7 +18,7 @@ The use of this information is purely for the use of conducting the transaction 
 
 We (i.e. INCOM and / or Globus may also call you on the telephone number provided by you in the information for such purpose and as an existing customer will not specifically refer to the Do Not Call Registry for this purpose. By purchasing products from GlobusWebsite, you are deemed to be a customer of Globus and we may contact you on phone, email, mail and face to face to conduct our business with you or to resolve matters related to our business, if any with you. However in the event you no more intend to receive the emails, call etc from us, please write to the Compliance and Legal Officer on the communication address provided herein this policy. Further, when you register with the Website and / or subscribe to any of our newsletters, or opt-in to receive special offers and new releases sent to your email address, your contact information (including your name, address and e-mail address as requested) is added to our secure database access of which is limited to authorized persons.
 
-Data so collected by us is stored on secure servers provided by third parties and they take every precaution to ensure that this information is kept in a secure fashion. However any loss of data by the third parties is not our liability and in the eventuality it happens we will inform you accordingly via your registered email address within 48 hours of us being notified by such third party. 
+Data so collected by us is stored on secure servers provided by third parties and they take every precaution to ensure that this information is kept in a secure fashion. However any loss of data by the third parties is not our liability and in the eventuality it happens we will inform you accordingly via your registered email address within 48 hours of us being notified by such third party.
 
 We may pass your name and address on to a third party in order to make delivery of the product to you (for example to our courier or supplier).
 
@@ -34,9 +34,9 @@ You agree that neither INCOM nor Globus receives any information / data with res
 
 **COOKIES**
 
-The acceptance of cookies is not a requirement for visiting the Site. However we would like to point out that the some functionality on the Site and ordering is only possible with the activation of cookies. Cookies are tiny text files which identify your computer to our server as a unique user when you visit certain pages on the Site and they are stored by your Internet browser on your computer's hard drive. Cookies can be used to recognize your Internet Protocol address, saving you time while you are on, or want to enter, the Site. We only use cookies for your convenience in using the Site (for example to remember who you are when you want to amend your shopping cart without having to re-enter your email address) and not for obtaining or using any other information about you (for example targeted advertising). Your browser can be set to not accept cookies, but this would restrict your use of the Site. Please accept our assurance that our use of cookies does not contain any personal or private details and are free from viruses. If you want to find out more information about cookies, go to [http://www.allaboutcookies.org](http://www.allaboutcookies.org/) or to find out about removing them from your browser, go to <http://www.allaboutcookies.org/manage-cookies/index.html>.
+The acceptance of cookies is not a requirement for visiting the Site. However we would like to point out that the some functionality on the Site and ordering is only possible with the activation of cookies. Cookies are tiny text files which identify your computer to our server as a unique user when you visit certain pages on the Site and they are stored by your Internet browser on your computer's hard drive. Cookies can be used to recognize your Internet Protocol address, saving you time while you are on, or want to enter, the Site. We only use cookies for your convenience in using the Site (for example to remember who you are when you want to amend your shopping cart without having to re-enter your email address) and not for obtaining or using any other information about you (for example targeted advertising). Your browser can be set to not accept cookies, but this would restrict your use of the Site. Please accept our assurance that our use of cookies does not contain any personal or private details and are free from viruses. If you want to find out more information about cookies, go to[http://www.allaboutcookies.org](http://www.allaboutcookies.org/) or to find out about removing them from your browser, go to <http://www.allaboutcookies.org/manage-cookies/index.html>.
 
-The Site uses technology from Google Analytics and Webtrekk GmbH ([www.webtrekk.de](https://web.archive.org/web/20141203124911id_/http%3A//www.globusstores.com/pages/www.webtrekk.de)) through which data is collected and stored for marketing and optimization purposes and data use profiles are prepared under a pseudonym. Cookies may be used for this. The cookies enable recognition of the Internet browser. The data collected with these technologies is not used, without separate authorization by the person concerned, to personally identify the visitors to this website and is not collated with personal data on the pseudonym holder. The permission for data recording and storage may at any time be cancelled with on-going effect.
+The Site uses technology from Google Analytics and Webtrekk GmbH ([www.webtrekk.de](http://www.globusstores.com/pages/www.webtrekk.de)) through which data is collected and stored for marketing and optimization purposes and data use profiles are prepared under a pseudonym. Cookies may be used for this. The cookies enable recognition of the Internet browser. The data collected with these technologies is not used, without separate authorization by the person concerned, to personally identify the visitors to this website and is not collated with personal data on the pseudonym holder. The permission for data recording and storage may at any time be cancelled with on-going effect.
 
 **SECURITY**
 
@@ -46,7 +46,7 @@ If you have any concerns about your privacy or need to report any issues relatin
 
 The Compliance and Legal Officer  
 INCOM Services Pvt Ltd  
-B-702 Mangalya  Bldg.   
+B-702 Mangalya  Bldg.   
 Marol Maroshi Road,  
 Andheri East,  
 Mumbai 400093  
