@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the lakelovers.co.uk privacy policy that was archived on 2014-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141004030807id_/http%3A//www.lakelovers.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lakelovers.co.uk privacy policy that was archived on 2015-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150618192959id_/https%3A//www.lakelovers.co.uk/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy and terms - Lakelovers
+# Privacy Policy - Lakelovers
 
-### Lakelovers Privacy Policy
+## Lakelovers Privacy Policy
 
 By registering on this site, you consent to the collection and use of your information under the terms of this policy.
 
