@@ -1,33 +1,32 @@
-> *The following text is extracted and transformed from the dminc.com privacy policy that was archived on 2014-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141223084823id_/http%3A//dminc.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dminc.com privacy policy that was archived on 2015-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150618092632id_/http%3A//dminc.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Customer Privacy Policy - DMI
 
-Customer Privacy Policy  
-  
----  
-**Applicable To** : All customers and visitors to DMI websites | **Approval Date** : 06/24/2014  
-  
-AUTHORIZED DOCUMENTS ARE PUBLISHED ONLINE ONLY. VERIFY ANY COPY AGAINST THE ONLINE SYSTEM BEFORE USE.  
-  
-## **Overview**
+Applicable To: All customers and visitors to DMI websites
+
+Approval Date: 06/24/2014
+
+AUTHORIZED DOCUMENTS ARE PUBLISHED ONLINE ONLY. VERIFY ANY COPY AGAINST THE ONLINE SYSTEM BEFORE USE.
+
+## Overview
 
 This policy describes how Digital Management, Inc. (DMI), and its successors, subsidiaries, affiliates, divisions, and groups (collectively “DMI”), collects, uses, and discloses certain personal information or personal data (“Personal Information”) that it receives in both the United States and the European Union (EU). In particular, DMI recognizes that the EU has established strict protections regarding the handling of EU Personal Data, and DMI therefore has elected to adhere to the U.S.-EU Safe Harbor Privacy Principles (the “Safe Harbor”) with respect to such Personal Information that it receives. DMI is committed to protecting the privacy and security of its online and offline visitors by maintaining the highest standards of confidentiality and security for all data collected from (i) website visitors, (ii) clients, (iii) subcontractors, (iv) business partners, and (v) end users of clients (“users”). This privacy policy describes how DMI collects information and how it is used.
 
 This privacy policy applies to all visitors to the DMI corporate website and affiliated websites ([www.dminc.com](http://www.dminc.com/), [www.kalvin.com](http://www.kalvin.com/), [www.goldengekko.com](http://www.goldengekko.com/)), and information collected through our service platform and offline through other means. The use of Personal Information collected through DMI’s service shall be limited to the purpose of providing the service for which the user has engaged DMI.
 
-DMI has received TRUSTe’s Privacy Seal signifying that this privacy policy and our practices have been reviewed for compliance with the TRUSTe program. The seal is viewable on the reference validation page by clicking the TRUSTe seal on the DMI website. The TRUSTe certification only covers our sites [www.dminc.com](http://www.dminc.com/), [www.kalvin.com](http://www.kalvin.com/), [http://www.goldengekko.com](http://www.goldengekko.com/).
+DMI has received TRUSTe’s Privacy Seal signifying that this privacy policy and our practices have been reviewed for compliance with the TRUSTe program. The seal is viewable on the reference validation page by clicking the TRUSTe seal on the DMI website. The TRUSTe certification only covers our sites [www.dminc.com](http://www.dminc.com/), [www.kalvin.com](http://www.kalvin.com/), [www.goldengekko.com](http://www.goldengekko.com/).
 
 If you have questions or concerns regarding DMI’s privacy policy or practices, contact us at [privacy@dminc.com](mailto:privacy@dminc.com).
 
-## **Policy**
+## Policy
 
 The following subsections detail the customer privacy policies.
 
-### **Collecting Information**
+### Collecting Information
 
 Users may choose to provide Personal Information through DMI websites. The ways in which users may provide the Personal Information, and the types of information users may submit, are as follows:
 
-  **NOTE** : DMI will not knowingly collect or use Personal Information from children younger than 13 years of age without parental consent.
+**NOTE** : DMI will not knowingly collect or use Personal Information from children younger than 13 years of age without parental consent.
 
   * **Contact DMI** : If a user communicates with DMI through the “Contact Us” link on DMI websites, DMI may ask for information such as name, email address, and telephone number. This allows DMI to respond to user questions and comments.
   * **Request Technical Support** : If a user requests technical support online, DMI will ask for information necessary to complete the transaction, such as name, location, and information about computer hardware, software, and the nature of the problem the user is experiencing. DMI may retain non-personal information concerning technical issues to provide the user with continuing support. This information may be made available to technical specialists in order to improve service for similar technical issues encountered by end users.
@@ -44,9 +43,9 @@ Users may choose to provide Personal Information through DMI websites. The ways 
 
 
 
-**  NOTE**: DMI also collects business information such as legal name of the business, address, network, and storage system information.
+**NOTE** : DMI also collects business information such as legal name of the business, address, network, and storage system information.
 
-### **Using Information**
+### Using Information
 
 The Personal Information users provide DMI may be used for the following purposes:
 
@@ -65,11 +64,11 @@ The Personal Information users provide DMI may be used for the following purpose
 
 
 
-### **Preventing Marketing Communication**
+### Preventing Marketing Communication
 
 If users do not want DMI to use Personal Information data to distribute marketing communication, users can exercise the right to prevent such processing by selecting/clearing (as applicable) certain check boxes on the web pages and/or forms on which DMI collects user Personal Information for this purpose. Also, to the extent that users receive marketing communications from DMI, and wish to unsubscribe or otherwise stop receiving such communications, users can do so from the unsubscribe link on the email itself, or use the [DMI Unsubscribe Page](http://go.dminc.com/u/829FLA30500005d000jcW00).
 
-### **Accessing Collected Information**
+### Accessing Collected Information
 
 If users would like to have access to the Personal Information that DMI retains to correct inaccuracies or request removal of Personal Information from the blog, testimonials, or community forums, users may contact DMI at [privacy@dminc.com](mailto:privacy@dminc.com). DMI will respond with an acknowledgement to the user’s access requests within 30 days.
 
@@ -77,7 +76,7 @@ In some cases, DMI may not be able to remove users Personal Information. In such
 
 For users with an existing relationship with one of DMI’s clients, and with whom DMI has no direct relationship, refer to the client’s website and contact the client with any such requests. DMI will cooperate as appropriate with requests from clients to assist with such responses. If the client requests that DMI remove the data, DMI will respond with an acknowledgement to the request within 30 days.
 
-### **Sharing Information**
+### Sharing Information
 
 DMI may share user’s Personal Information with third parties in the following scenarios:
 
@@ -92,7 +91,7 @@ DMI may share user’s Personal Information with third parties in the following 
 
 DMI will share users Personal Information only in ways described in this privacy policy. DMI does not sell users Personal Information to third parties.
 
-### **Collecting Non-Personal Information**
+### Collecting Non-Personal Information
 
 The Personal Information users provide DMI may be used for the following purposes:
 
@@ -103,7 +102,7 @@ The Personal Information users provide DMI may be used for the following purpose
 
 DMI does not link this automatically-collected data to users Personal Information.
 
-### **Using Cookies**
+### Using Cookies
 
 A cookie is a small text file that is stored on a user’s computer for record-keeping purposes. DMI uses cookies to make it easier for users to navigate the website, so DMI can see which pages were viewed most, and to track and target the interest of users to enhance the experience. DMI does not link the information stored in cookies to any Personal Information submit while on the website.
 
@@ -117,7 +116,7 @@ DMI’s policy regarding the use of cookies is as follows:
 
 
 
-**  NOTE**: Disabling cookies may prevent the use of specific features on DMI sites and other websites, such as maintaining an online account.
+**NOTE** : Disabling cookies may prevent the use of specific features on DMI sites and other websites, such as maintaining an online account.
 
 Cookies associated with the Flash Player may be removed by managing settings with Adobe. To learn more about flash cookies, including how to delete or prevent placement of flash cookies, visit: <http://www.adobe.com/products/flashplayer/security/>.
 
@@ -126,7 +125,7 @@ Cookies associated with the Flash Player may be removed by managing settings wit
 
 
 
-### **Accessing Other Sites via Links**
+### Accessing Other Sites via Links
 
 The DMI website contains links to other sites that are not owned or controlled by DMI. Be aware that DMI is not responsible for the privacy practices of such other sites.
 
@@ -144,41 +143,41 @@ Some of DMI’s websites provide employees access to personnel and benefits info
 
 
 
-### **Protecting Personal Information**
+### Protecting Personal Information
 
 DMI has global hosting centers that store and process Personal Information in various locations in Europe and the United States. DMI takes reasonable precautions to protect Personal Information in these centers and in other locations in the United States from loss, misuse, unauthorized access, disclosure, alteration, and destruction. DMI also makes reasonable efforts to keep Personal Information reliable for its intended use, accurate, current, and complete. When DMI collects sensitive Personal Information on websites or through services, DMI encrypts the transmission of that information using Secure Sockets Layer (SSL) technology. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, DMI cannot guarantee its absolute security.
 
-### **Retaining Personal Information**
+### Retaining Personal Information
 
 DMI will retain any Personal Information collected, as described in section 2.1 of this policy, for a maximum of 5 years or as needed to provide users services. If users wish to request that DMI no longer uses Personal Information to provide services, contact DMI at [privacy@dminc.com](mailto:privacy@dminc.com). DMI will retain and use Personal Information as necessary to comply with legal obligations, resolve disputes, and enforce agreements.
 
 DMI will retain Personal Information processed on behalf of clients for as long as needed to provide services to the clients. DMI will retain and use this Personal Information as necessary to comply with legal obligations, resolve disputes, and enforce agreements.
 
-### **Modifying the Privacy Policy**
+### Modifying the Privacy Policy
 
 DMI may update this privacy policy to reflect changes to information practices. If DMI makes any material changes, DMI will notify users by email (sent to the e-mail address specified in the account) or by means of a notice on this website prior to the change becoming effective. DMI encourages users to periodically review this page for the latest information on privacy practices.
 
-### **Adhering to the Safe Harbor Framework**
+### Adhering to the Safe Harbor Framework
 
 DMI complies with the U.S.-EU Safe Harbor framework and the U.S.-Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from EU member countries and Switzerland. DMI adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view DMI’s certification, visit <http://www.export.gov/safeharbor/>.
 
-## **Contact**
+## Contact
 
 The following subsections provide contact information.
 
-### **Contacting Digital Management, Inc.**
+### Contacting Digital Management, Inc.
 
 For questions or suggestions regarding DMI’s privacy policy, contact DMI by email at: [privacy@dminc.com](mailto:privacy@dminc.com) or by mail to: Digital Management, Inc., 6550 Rock Spring Drive, 7th Floor, Bethesda, MD 20817.
 
-### **Contacting TRUSTe**
+### Contacting TRUSTe
 
 For unresolved privacy or data use concerns that DMI has not addressed satisfactorily, contact TRUSTe at <https://feedback-form.truste.com/watchdog/request>.
 
-## **Quality Oversight**
+## Quality Oversight
 
 Quality assurance (QA) representatives are responsible for performing independent reviews and/or audits throughout the lifecycle of the project to ensure process compliance. The Quality Center of Excellence (QCoE) is responsible for maintaining this policy. Suggestions for improvement may be submitted to the QCoE at [QA@dminc.com](mailto:QA@dminc.com).
 
-## **Definitions of Acronyms and Terms**
+## Definitions of Acronyms and Terms
 
 The following table defines terms related to this policy.
 
