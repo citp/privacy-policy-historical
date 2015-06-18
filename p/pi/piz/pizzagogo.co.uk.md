@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pizzagogo.co.uk privacy policy that was archived on 2014-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141204054635id_/http%3A//www.pizzagogo.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pizzagogo.co.uk privacy policy that was archived on 2015-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150618072456id_/http%3A//www.pizzagogo.co.uk/privacy) for the most accurate reproduction.*
 
 # Privacy Statement | Pizza GoGo
 
