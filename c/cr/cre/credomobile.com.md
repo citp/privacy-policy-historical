@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the credomobile.com privacy policy that was archived on 2014-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141205231804id_/http%3A//www.credomobile.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the credomobile.com privacy policy that was archived on 2015-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150618045256id_/http%3A//www.credomobile.com/privacy) for the most accurate reproduction.*
 
 # Privacy : CREDO Mobile
 
@@ -35,7 +35,8 @@ San Francisco, California 94105
   5. CREDO may place small pieces of computer code on our site pages and in our emails to facilitate personalized transactions.
   6. Additional protections apply for certain information CREDO collects and maintains about the telecommunications services you obtain from CREDO and how you use those services. This information is categorized by the federal government as Customer Proprietary Network Information or CPNI. Specific laws govern CREDO’s use and sharing of CPNI.
   7. To protect the security of your credit card information, we use SSL software, which encrypts provided and transmitted information.
-  8. Whenever CREDO handles information that you enter on its sites or on its apps, regardless of where this occurs, we take steps to ensure that your information is treated securely and in accordance with the relevant Terms of Service and this Privacy & Security Policy. Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. As a result, while we strive to protect your personal information, CREDO cannot ensure or warrant the security of any information you transmit to us or from our online products or services or on our apps, and you do so at your own risk. Once we receive your transmission, we make our best effort to ensure its security on our systems. 
+  8. CREDO retains customer name, address, phone number, email address, and product type information for historical purposes. CREDO stores individually-identifiable customer billing data for three years unless longer storage is needed for tax, business, accounting, or legal purposes. CREDO does not receive or store precise handset location information or IP addresses. CREDO does not receive or store the content of customer communications sent using our services except customer communications directed to us for customer service purposes. 
+  9. Whenever CREDO handles information that you enter on its sites or on its apps, regardless of where this occurs, we take steps to ensure that your information is treated securely and in accordance with the relevant Terms of Service and this Privacy & Security Policy. Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. As a result, while we strive to protect your personal information, CREDO cannot ensure or warrant the security of any information you transmit to us or from our online products or services or on our apps, and you do so at your own risk. Once we receive your transmission, we make our best effort to ensure its security on our systems. 
 
 
 
@@ -49,6 +50,6 @@ San Francisco, California 94105
 
 
 
-To view CREDO’s transparency report, click [here](https://web.archive.org/web/20141205231804id_/http%3A//www.credomobile.com/transparency).
+To view CREDO’s transparency report, click [here](https://web.archive.org/web/20150618045256id_/http%3A//www.credomobile.com/transparency).
 
-Effective September 10, 2014.
+Effective April 2, 2015.
