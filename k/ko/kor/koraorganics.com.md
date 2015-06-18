@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the koraorganics.com privacy policy that was archived on 2014-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140511090619id_/http%3A//www.koraorganics.com/us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the koraorganics.com privacy policy that was archived on 2015-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150618081940id_/http%3A//www.koraorganics.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 ## PRIVACY POLICY
 
-This privacy policy (this "Privacy Policy") applies to your use of the [www.koraorganics.com](http://www%2Ckoraorganics.com/) website (the "Website"), which is owned and operated by [KORA Organics by Miranda Kerr Pty Ltd.] ("KORA", "us", "our" or "we"). Your privacy and security are important to us. Please read this Privacy Policy carefully to understand how we will use and protect the personal information you provide us. We will not share your personal information with anyone except as described in this Privacy Policy. We do reserve the right to make changes to this Privacy Policy from time to time, so please check back periodically.
+This privacy policy (this "Privacy Policy") applies to your use of the [www.koraorganics.com](http://www.koraorganics.com/) website (the "Website"), which is owned and operated by [KORA Organics by Miranda Kerr Pty Ltd.] ("KORA", "us", "our" or "we"). Your privacy and security are important to us. Please read this Privacy Policy carefully to understand how we will use and protect the personal information you provide us. We will not share your personal information with anyone except as described in this Privacy Policy. We do reserve the right to make changes to this Privacy Policy from time to time, so please check back periodically.
 
 #### 1\. WHAT INFORMATION WE COLLECT FROM YOU.
 
