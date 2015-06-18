@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fora.tv privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630133328id_/http%3A//fora.tv/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fora.tv privacy policy that was archived on 2015-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150618181520id_/http%3A//fora.tv/privacy) for the most accurate reproduction.*
 
-# FORA.tv - Privacy Policy
+# Privacy Policy - FORA.tv
 
 > **Updated _June 6, 2013_**
 > 
