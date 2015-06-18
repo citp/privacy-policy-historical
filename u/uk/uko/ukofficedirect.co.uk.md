@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the ukofficedirect.co.uk privacy policy that was archived on 2014-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141203194444id_/http%3A//www.ukofficedirect.co.uk/help/topic/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ukofficedirect.co.uk privacy policy that was archived on 2015-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150618055956id_/http%3A//www.ukofficedirect.co.uk/help/topic/PrivacyPolicy) for the most accurate reproduction.*
 
 # What is UK Office Direct's privacy policy?
 
 ####  Who we are
 
-In this privacy policy references to "we", "us" and "our" are to UK Office Direct Ltd. References to "our Website" or "the Website" are to [www.ukofficedirect.co.uk](https://web.archive.org/web/20141203194444id_/http%3A//www.ukofficedirect.co.uk/help/topic/www.ukofficedirect.co.uk).
+In this privacy policy references to "we", "us" and "our" are to UK Office Direct Ltd. References to "our Website" or "the Website" are to [www.ukofficedirect.co.uk](https://web.archive.org/web/20150618055956id_/http%3A//www.ukofficedirect.co.uk/help/topic/www.ukofficedirect.co.uk).
 
 ####  What information we collect and how
 
