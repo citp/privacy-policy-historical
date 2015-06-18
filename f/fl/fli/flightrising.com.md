@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flightrising.com privacy policy that was archived on 2014-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141229193112id_/http%3A//www1.flightrising.com/site/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flightrising.com privacy policy that was archived on 2015-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150618103319id_/http%3A//www1.flightrising.com/site/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Flight Rising
 
