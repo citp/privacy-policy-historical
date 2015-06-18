@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the iphonehelp.in privacy policy that was archived on 2014-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141029063253id_/http%3A//iphonehelp.in/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iphonehelp.in privacy policy that was archived on 2015-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150618211306id_/http%3A//iphonehelp.in/privacy) for the most accurate reproduction.*
 
-# Privacy - iPhoneHelp
+# Privacy - iPhone Help
 
 Privacy Policy for iPhoneHelp.in
 
