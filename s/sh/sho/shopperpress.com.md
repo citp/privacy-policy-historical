@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the shopperpress.com privacy policy that was archived on 2014-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141202124204id_/http%3A//shopperpress.com/support/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shopperpress.com privacy policy that was archived on 2015-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150618060556id_/http%3A//shopperpress.com/support/privacy) for the most accurate reproduction.*
 
-# - Wordpress Shopping Cart
+# Privacy Policy - Wordpress Shopping Cart
 
 Your privacy is important to us. We want you to feel comfortable using ShopperPress services. Because we gather certain types of information about the users of ShopperPress services, we feel you should fully understand what information we gather and how we use that information. ShopperPress employees are required to familiarize themselves with this privacy policy as a condition of their employment, and any employee violating the policy is subject to disciplinary action.
 
