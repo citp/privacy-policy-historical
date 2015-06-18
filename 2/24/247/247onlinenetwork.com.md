@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the 247onlinenetwork.com privacy policy that was archived on 2014-07-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140730182230id_/http%3A//privacy.247onlinenetwork.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 247onlinenetwork.com privacy policy that was archived on 2015-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150619015707id_/https%3A//privacy.247onlinenetwork.com) for the most accurate reproduction.*
 
 # Privacy Statement | 247OnlineNetwork
 
-## This privacy statement is applicable to 247onlineNetwork.com and its affiliate sites.
+## This privacy statement is applicable to 247onlineNetwork.com.
 
 247onlineNetwork.com does not collect information that personally identifies individuals except when individuals provide such specific information on a voluntary basis. There may be occasions where specific personal information is requested before an individual can utilize the site. For example, information is requested when a client purchases a listing or focus page or someone requests information about other advertising or business programs. 
 
@@ -17,3 +17,17 @@ The ads appearing on this Web site may be delivered to you by a number of affili
 ### Third Party Cookies
 
 In the course of serving advertisements to this site, a third-party advertiser may place or recognize a unique cookie on your browser. 
+
+### Financial Instruments
+
+In the event that an online financial transaction is made, the 247onlineNetwork will connect you to a secure and trusted payment gateway such as PayPal or 2Checkout.   
+At no time do we possess or store any financial information such as credit or debit card numbers or other account information.
+
+  
+
+
+### SSL (https) Access / Certified Site
+
+[ ](http://www.alphassl.com/ssl-certificates/wildcard-ssl.html "SSL Certificates")
+
+The 247onlineNetwork.com site is served exclusively using the https protocol. This means that ALL communication between your browser and the certified 247onlineNetwork servers is encrypted and secure. 
