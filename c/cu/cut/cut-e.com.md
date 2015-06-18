@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cut-e.com privacy policy that was archived on 2014-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141130002557id_/http%3A//www.cut-e.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cut-e.com privacy policy that was archived on 2015-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150618032749id_/http%3A//www.cut-e.com/privacy) for the most accurate reproduction.*
 
 # cut-e: Privacy
 
