@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the livelaw.in privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626012205id_/http%3A//www.livelaw.in/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livelaw.in privacy policy that was archived on 2015-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150619001116id_/http%3A//www.livelaw.in/privacy-statement) for the most accurate reproduction.*
 
-# Privacy Statement | Live Law
+# Privacy Statement - Live Law
 
 [](http://www.hupso.com/share/)
 
@@ -25,3 +25,5 @@
   * We reserve the right to update, change or modify this Privacy Statement at any time. The Statement shall come to effect from the date of such update, change or modification.
 
 
+
+[](http://www.lexisnexis.in/the-indian-penal-code-as-amended-by-the-criminal-law-amendment-act-2013.htm)
