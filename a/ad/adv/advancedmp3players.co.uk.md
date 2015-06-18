@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the advancedmp3players.co.uk privacy policy that was archived on 2014-08-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140827160053id_/http%3A//www.advancedmp3players.co.uk/shop/info/Privacy_Policy___Cookie_Policy.13.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the advancedmp3players.co.uk privacy policy that was archived on 2015-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150619013302id_/http%3A//www.advancedmp3players.co.uk/shop/info/Privacy_Policy___Cookie_Policy.13.html) for the most accurate reproduction.*
 
 # Security & Privacy – The Privacy Policy of Advanced Headphones
 
@@ -43,7 +43,7 @@ Cookies are small text files that are placed on your computer by websites that y
 
 This website uses the following cookies:
 
-| Item| Cookies| Purpose| More information  
+Item| Cookies| Purpose| More information  
 ---|---|---|---  
  **amp3sid**|  amp3sid| This cookie is a session identifier, it allows things like your shopping basket data to be saved and for each visit to our website to be identified individually.|   
  **Javascript cookies**|  Occassional/Possible| Unrecognised Javascript _probably_  sets a cookie, but this can't be confirmed automatically.|   
