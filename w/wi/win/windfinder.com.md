@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the windfinder.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220103602id_/http%3A//www.windfinder.com/contact/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the windfinder.com privacy policy that was archived on 2015-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150618055805id_/http%3A//www.windfinder.com/contact/privacy_policy.htm) for the most accurate reproduction.*
 
 # Windfinder - Privacy policy
 
