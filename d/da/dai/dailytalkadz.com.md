@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dailytalkadz.com privacy policy that was archived on 2014-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140826171524id_/http%3A//dailytalkadz.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailytalkadz.com privacy policy that was archived on 2015-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150618224255id_/http%3A//dailytalkadz.com/privacy.php) for the most accurate reproduction.*
 
 # Daily Talk Adz Privacy Policy
 
