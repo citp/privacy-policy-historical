@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the toprooms.com privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227074514id_/http%3A//www.toprooms.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toprooms.com privacy policy that was archived on 2015-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150618222732id_/http%3A//www.toprooms.com/Privacy) for the most accurate reproduction.*
 
-# Privacy - toprooms.com
+# Privacy - Toprooms.Com
 
 1\. Your consent
 
@@ -58,7 +58,7 @@ Back to top
 
 We do our best to ensure that all information held relating to you is kept up-to-date, accurate and complete.  
 Data populated by you (including your personal details entered in any fields) is your sole responsibility and any changes to any aspect of your personal data should be updated directly by you.  
-If you have any questions or comments about our Privacy Policy, please contact us on [info@eviivo.com](mailto:info@eviivo.com "email for information") and we will endeavour to respond as soon as possible. All of our processes and data storage methods have been approved by the Information Commissioner’s Office ( [www.informationcommissioner.gov.uk](http://www.informationcommissioner.gov.uk/ "Information Commissioner") ) and our registration number is Z1431368.
+If you have any questions or comments about our Privacy Policy, please contact us on [enquiries@toprooms.com](mailto:enquiries@toprooms.com "email for information") and we will endeavour to respond as soon as possible. All of our processes and data storage methods have been approved by the Information Commissioner’s Office ( [www.informationcommissioner.gov.uk](http://www.informationcommissioner.gov.uk/ "Information Commissioner") ) and our registration number is Z1431368.
 
 Back to top
 
@@ -73,16 +73,16 @@ Back to top
 10\. Complaints procedure
 
 If you wish to make a complaint about eviivo, our services or any associated matter, you may contact us by telephone, email, letter or fax. We do not require complaints to be in writing. Wherever possible, complaints will be dealt with promptly, and you will receive a response within14 working days.  
-If you are dissatisfied with the outcome of your complaint, you may choose to escalate the complaint internally by contacting our Customer Support Manager, [info@eviivo.com](mailto:info@eviivo.com "email for information"). A response to an escalated complaint will also be made within 7 working days.
+If you are dissatisfied with the outcome of your complaint, you may choose to escalate the complaint internally by contacting our Customer Support Manager, [enquiries@toprooms.com](mailto:enquiries@toprooms.com "email for information"). A response to an escalated complaint will also be made within 7 working days.
 
 Back to top
 
 11\. Company details
 
- **eviivo Limited**  
+**eviivo Limited**  
 The Grimaldi Building, 154 Pentonville Road, London N1 9JE  
- **E-mail:** info@eviivo.com  
- **Telephone:** +44 (0)844 880 3000  
- **Fax:** +44 (0)844 880 3000
+**E-mail:** enquiries@eviivo.com  
+**Telephone:** +44 (0)844 880 3000  
+**Fax:** +44 (0)844 880 3000
 
 Back to top
