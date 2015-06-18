@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rocketboard.it privacy policy that was archived on 2014-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140921010501id_/http%3A//www.rocketboard.it/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rocketboard.it privacy policy that was archived on 2015-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150618162248id_/http%3A//www.rocketboard.it/privacy) for the most accurate reproduction.*
 
-# Rocketboard
+# Rocketboard – Privacy
 
 ROCKETBOARD PRIVACY POLICY
 
