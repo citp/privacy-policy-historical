@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the sicas.cn privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601032545id_/http%3A//sicas.cn/AboutUs/Info/Content_111110165913945.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sicas.cn privacy policy that was archived on 2015-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150618154113id_/http%3A//www.sicas.cn/AboutUs/Info/Content_111110165913945.shtml) for the most accurate reproduction.*
 
 # Privacy Statement
 
-Privacy Statement **  
+Privacy Statement  **  
 Introduction**[www.sicas.cn](http://www.sicas.cn/) (“Website”) is an internet property of EduChinaLink Co., Ltd. and its affiliates (“SICAS,” ”we,” “our,” or “us”). This privacy policy is given on behalf of SICAS. We are providing this Privacy Policy to you so that you can learn about our information collection and sharing practices. SICAS put the security of our users' personally identifiable information high on our priority list. This Privacy Policy applies to personally identifiable information collected by Qingdao EduChinaLink Co., Ltd on its Web site at [www.sicas.cn](http://www.sicas.cn/).  We also outsource information to colleges, universities, nonprofits, and other organizations (hereinafter in this policy as our "clients"). When our clients collect information about you through the use of our websites or services, their use and reveal of that information is governed by their relative policies or practices. 
 
 **This Privacy Policy will tell you the following:**
