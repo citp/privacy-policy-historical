@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the viking-direct.co.uk privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227180155id_/http%3A//www.viking-direct.co.uk/specialLinks.do%3FID%3Drb_legaldocs) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viking-direct.co.uk privacy policy that was archived on 2015-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150618212551id_/http%3A//www.viking-direct.co.uk/specialLinks.do%3FID%3Drb_legaldocs) for the most accurate reproduction.*
 
 # Looking for inspiration for your office? Find all your office supplies at Viking from ink cartridges and paper supplies to Office Furniture and Tech. Viking - all the inspiration your office needs!
 
