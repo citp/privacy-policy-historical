@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the gamejolt.com privacy policy that was archived on 2014-12-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141228061656id_/http%3A//gamejolt.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the gamejolt.com privacy policy that was archived on 2015-06-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150618232751id_/http%3A//gamejolt.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://opengraphprotocol.org/schema/"><head>
 
@@ -11,23 +11,24 @@
 		<link href="//fonts.googleapis.com/css?family=Open+Sans:400,300,700" rel="stylesheet" type="text/css">
 		<link href="//fonts.googleapis.com/css?family=Lato:400,700" rel="stylesheet" type="text/css">
 
-		<link rel="stylesheet" type="text/css" href="http://s.gjcdn.net/compressor/css_common/643">
+		<link rel="stylesheet" type="text/css" href="https://b6d3e9q9.ssl.hwcdn.net/compressor/css_common/656">
 
-					<link rel="stylesheet" type="text/css" href="http://s.gjcdn.net/compressor/css_chat_v3/643">
+					<link rel="stylesheet" type="text/css" href="https://b6d3e9q9.ssl.hwcdn.net/compressor/css_chat_v3/656">
 		
 		<!--[if lte IE 7]>
-			<link rel="stylesheet" type="text/css" href="http://s.gjcdn.net/compressor/css_ie/643">
+			<link rel="stylesheet" type="text/css" href="https://b6d3e9q9.ssl.hwcdn.net/compressor/css_ie/656">
 		<![endif]-->
 
 		<title>Privacy Policy | Game Jolt</title>
 
 		
 		
-		<link rel="shortcut icon" href="http://s.gjcdn.net/img/favicon-1.png">
+		<link rel="shortcut icon" href="https://b6d3e9q9.ssl.hwcdn.net/img/favicon-1.png">
 
 		
-		<meta name="hostname" value="web-01.gamejolt.com">
+		<meta name="hostname" value="web-02.gamejolt.com">
 
+		<!-- FB -->
 					<meta property="og:title" content="Privacy Policy">
 		
 					<meta property="og:url" content="http://gamejolt.com/privacy/">
@@ -41,6 +42,9 @@
 		<meta property="fb:admins" content="1070315546">
 
 		
+		<!-- Twitter Cards -->
+		<meta name="twitter:site" content="@gamejolt">
+										
 		<script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script language="javascript" type="text/javascript">
 
 	var DOMAIN      = "http://gamejolt.com";
@@ -48,7 +52,7 @@
 	var LEGATO   	= "/js/legato";
 
 </script>
-		<script type="text/javascript" src="http://s.gjcdn.net/compressor/js_top/643"></script>
+		<script type="text/javascript" src="https://b6d3e9q9.ssl.hwcdn.net/compressor/js_top/656"></script>
 
 		
 		
@@ -63,7 +67,7 @@
 
 											ga('set', 'type1', 'visitor');
 										
-					ga('set', 'ip_address3', '204.236.235.245');
+					ga('set', 'ip_address3', '207.241.237.229');
 
 					ga('send', 'pageview');
 				</script>
@@ -107,7 +111,7 @@
 				<div id="header">
 					<div id="inner-header">
 						<div id="outer-logo">
-															<a href="/" id="logo"><img src="http://s.gjcdn.net/img/logo-3.png"></a>
+															<a href="/" id="logo"><img src="https://b6d3e9q9.ssl.hwcdn.net/img/logo-3.png"></a>
 													</div>
 													<div id="user-box" class="new-type">
 
@@ -381,11 +385,11 @@
 							<a href="http://twitter.com/gamejolt" class="i-button sparse ga-event ga-event-newwindow" data-ga-event="Social:Twitter:Footer Icon"><i class="jolticon jolticon-twitter-bird"></i></a>
 						</div>
 						
-						<div>© 2014 Lucent Web Creative, LLC</div>
+						<div>© 2015 Lucent Web Creative, LLC</div>
 					</div>
 					
 					<div class="left">
-						<a href="/?ref=footer_logo"><img src="http://s.gjcdn.net/img/logo-small-3.png" alt="Game Jolt Small Logo" title="Game Jolt - This is Indie"></a>
+						<a href="/?ref=footer_logo"><img src="https://b6d3e9q9.ssl.hwcdn.net/img/logo-small-3.png" alt="Game Jolt Small Logo" title="Game Jolt - This is Indie"></a>
 					</div>
 
 					<div class="clear"></div>
@@ -393,277 +397,10 @@
 			</div>
 		</div>
 
-							<div class="new-type chat-ctrl" id="ng-app" ng-app="app" ng-controller="ChatCtrl">
-
-	<script type="text/ng-template" id="/chat/tmpl/user-list.html">
-		<ul class="chat-list" ng-show="list.length">
-			<li ng-repeat="user in list track by user.user_id" 
-				ng-show="!filter || user.chat_name.toLowerCase().indexOf( filter.toLowerCase() ) != -1"
-				bindonce>
-
-				<h4>
-					<a bo-href="user.profile_url" 
-						ng-click="userClick( $event, user )">
-
-						<span class="status-blip"
-							ng-class="{ online: (user.is_online == undefined || user.is_online) }"><span></span></span>
-
-						<span class="notifications-tag"
-							ng-if="user.notifications"
-							ng-bind="user.notifications"></span>
-						
-						<span class="chat-name"
-							bo-html="user.chat_name"></span>
-					</a>
-				</h4>
-
-				<div class="chat-user-meta">
-					<span bo-if="user.currently_playing" bindonce>
-						Playing <a bo-href="user.currently_playing.game_url" ng-click="openUrl( $event, user.currently_playing.game_url );" bo-html="user.currently_playing.game"></a>
-					</span>
-					<span bo-if="!user.currently_playing && user.active_page" bindonce>
-						Viewing <a bo-href="user.active_page.uri" ng-click="openUrl( $event, user.active_page.uri );" bo-html="user.active_page.title"></a>
-					</span>
-					<span bo-if="!user.currently_playing && !user.active_page">
-						&nbsp;
-					</span>
-				</div>
-			</li>
-		</ul>
-	</script>
-
-	<div id="chat" ng-if="chat.visible">
-
-		<!-- 
-			This is the sidebar.
-			We show the user's friends list as well as the general rooms here.
-		-->
-		<div class="chat-sidebar">
-			<div class="chat-sidebar-scrollable ng-cloak" ng-cloak="" chat-slim-scroll="">
-
-				<!-- Public Chat Rooms -->
-				<div class="chat-rooms-list">
-					<div class="chat-list-heading">
-						<h4>Public Chat Rooms</h4>
-					</div>
-
-					<ul class="chat-list disable-animations">
-						<li ng-repeat="room in client.rooms">
-							<h4>
-								<a href="#" ng-click="chat.clickPublicRoom( room._id ); $event.preventDefault()">
-									{{room.title}}
-									<small>({{room.userCount}})</small>
-									<span class="notifications-tag" ng-if="client.roomId == room._id &amp;&amp; chat.roomNotifications" ng-bind="chat.roomNotifications"></span>
-								</a>
-							</h4>
-						</li>
-					</ul>
-				</div>
-
-				<!-- Friends List -->
-				<!-- Only include if not a guest -->
-				<div class="chat-friends-list" ng-if="client.permissionLevel != -1">
-
-					<!-- Filter Friends List -->
-					<div class="chat-list-filter">
-						<input class="search-filter" type="text" placeholder="Filter friends..." ng-model="filterFriendsList">
-					</div>
-
-					<!-- Friends -->
-					<div class="chat-list-heading">
-						<h4>Friends <small><span ng-class="{ 'count-highlight': client.onlineFriendsCount }">{{client.onlineFriendsCount}}</span>/{{client.offlineFriendsCount}}</small></h4>
-					</div>
-					<div ng-class="{ 'disable-animations': !client.animateFriends }">
-						<div chat-user-list="" list="client.friendsList" filter="filterFriendsList" show-pm="true"></div>
-					</div>
-				</div>
-
-			</div>
-			<div class="chat-sidebar-total-online chat-list-heading ng-cloak" ng-cloak="">
-				<h4>People Online: <span class="count-highlight" ng-bind="client.allCount"></span></h4>
-			</div>
-		</div>
-
-		<!-- A chat window for either room based chats or user to user chats -->
-		<div class="chat-window ng-cloak" ng-cloak="" ng-class="{ 'window-general-room': client.room.type == ChatConfig.ROOM_TYPE_GENERAL, 'window-user': client.room.type == ChatConfig.ROOM_TYPE_PM }" ng-if="client.room &amp;&amp; !chat.roomMinimized">
-
-			<div class="window-inner">
-
-				<!-- Window Header -->
-				<div class="window-header">
-					<div ng-if="client.targetUser">
-						<div class="avatar" ng-if="client.targetUser.avatar">
-							<img ng-src="{{client.targetUser.avatar}}" alt="">
-						</div>
-						<h2 ng-bind-html="client.targetUser.chat_name"></h2>
-						<!-- <h4>Playing: <a href="#">Crazy Christmas Courier Chucks Charity into Chimneys</a></h4> -->
-					</div>
-
-					<div ng-if="!client.targetUser">
-						<h2 ng-bind-html="client.room.title"></h2>
-					</div>
-
-					<div class="window-header-actions">
-
-						<!-- we only show if this is a general room and they're logged in -->
-						<a href="#" class="i-button window-minimize" ng-if="client.currentUser &amp;&amp; client.room.type == ChatConfig.ROOM_TYPE_GENERAL" ng-click="chat.minimizeRoom(); $event.preventDefault()"><i class="jolticon jolticon-minimize"></i> minimize</a>
-
-						<a href="#" class="i-button window-close" ng-click="client.leaveRoom(); $event.preventDefault();"><i class="jolticon jolticon-remove"></i> close</a>
-					</div>
-				</div>
-
-				<!-- Linkbar (for user chats) -->
-				<div class="window-linkbar" ng-if="client.room.type == ChatConfig.ROOM_TYPE_PM">
-					<ul>
-						<li><a ng-href="{{client.targetUser.profile_url}}">View Profile</a></li>
-					</ul>
-				</div>
-
-				<!-- Room Users -->
-				<div class="window-users" ng-if="client.room.type == ChatConfig.ROOM_TYPE_GENERAL">
-
-					<!-- Filter Friends List -->
-					<div class="chat-list-filter">
-						<input class="search-filter" type="text" placeholder="Filter users..." ng-model="filterRoomUsers">
-					</div>
-
-					<div class="chat-list-heading" ng-show="client.onlineFriendsCount">
-						<h4>Room Users <small ng-class="{ 'count-highlight': client.usersOnline.length }">{{client.usersOnline.length}}</small></h4>
-					</div>
-					<div class="chat-list-scrollable" chat-slim-scroll="" ng-class="{ 'disable-animations': !client.animateRoomUsers }">
-						<div chat-user-list="" list="client.usersOnline" filter="filterRoomUsers"></div>
-					</div>
-
-				</div>
-
-				<!-- Chat Messages -->
-				<div class="window-messages">
-
-					<div class="chat-output" ng-class="{ 'chat-output-general': client.room.type == ChatConfig.ROOM_TYPE_GENERAL, 'chat-output-pm': client.room.type == ChatConfig.ROOM_TYPE_PM }" chat-auto-scroll="$parent.client.messages.length">
-
-						<div ng-if="client.room.type == ChatConfig.ROOM_TYPE_GENERAL">
-							<p ng-repeat="msg in client.messages" bindonce="" bo-class="{ 'chat-msg-type-normal': msg.type == ChatConfig.MSG_NORMAL, 'chat-msg-type-system': msg.type == ChatConfig.MSG_SYSTEM }">
-
-								<em bo-if="msg.type == ChatConfig.MSG_NORMAL" bindonce="" bo-text="msg.hours + ':' + msg.minutes"></em>
-								<strong bo-html="msg.user"></strong>:
-								<span bo-html="msg.content"></span>
-							</p>
-						</div>
-
-						<div ng-if="client.room.type == ChatConfig.ROOM_TYPE_PM">
-
-							<div class="message" ng-repeat="msg in client.messages" bindonce="" bo-class="{ 'chat-msg-type-normal': msg.type == ChatConfig.MSG_NORMAL, 'chat-msg-type-system': msg.type == ChatConfig.MSG_SYSTEM, 'us': msg.userId == client.currentUser.user_id, 'them': msg.userId != client.currentUser.user_id, 'new-group': !!msg.avatar, 'no-user-id': !msg.userId }">
-
-								<div class="message-avatar" ng-if="msg.avatar">
-									<img ng-src="{{msg.avatar}}" alt="">
-								</div>
-
-								<div class="message-inner">
-									<div class="message-timestamp" bindonce="" bo-text="msg.hours + ':' + msg.minutes"></div>
-
-									<!--
-										Some old messages don't have user IDs on them (just names). If that's the case,
-										we show things a little differently. Put the name here since there won't be an avatar.
-									-->
-									<div ng-if="!msg.userId" class="message-user" bindonce="" bo-text="msg.user"></div>
-
-									<div class="message-content" bo-html="msg.content"></div>
-								</div>
-							</div>
-						</div>
-
-					</div>
-
-				</div>
-
-				<!-- Message Sending -->
-				<div class="window-send">
-
-					<textarea id="chat-message" placeholder="Enter message..." ui-keypress="{ 'enter': 'chat.sendMessage( $event )' }" ng-style="client.orientation == 'vertical' ? { width: (client.width - 92 + 'px') } : {}"></textarea>
-
-					<input type="button" class="submit" id="chat-message-send" value="Send" ng-click="chat.sendMessage( $event )">
 				
-				</div>
-			</div>
-		</div>
+		<script type="text/javascript" src="https://b6d3e9q9.ssl.hwcdn.net/compressor/js_bottom/656"></script>
 
-		<div class="chat-window-minimized ng-cloak" ng-cloak="" ng-class="{ 'window-general-room': client.room.type == ChatConfig.ROOM_TYPE_GENERAL, 'window-user': client.room.type == ChatConfig.ROOM_TYPE_PM }" ng-if="client.room &amp;&amp; chat.roomMinimized" ng-click="chat.maximizeRoom()">
-
-			<div ng-if="client.targetUser">
-				<div class="avatar" ng-if="client.targetUser.avatar">
-					<img ng-src="{{client.targetUser.avatar}}" alt="">
-				</div>
-				<h2 ng-bind-html="client.targetUser.chat_name"></h2>
-				<span class="notifications-tag" ng-if="client.targetUser.notifications" ng-bind="client.targetUser.notifications"></span>
-			</div>
-
-			<div ng-if="!client.targetUser">
-				<h2 ng-bind-html="client.room.title"></h2>
-				<span class="notifications-tag" ng-if="chat.roomNotifications" ng-bind="chat.roomNotifications"></span>
-			</div>
-		</div>
-	</div>
-</div>
-
-
-	<div class="modal new-type" id="chat-sign-up-modal">
-		<div class="modal-header well fill-dark-gray">
-			<h2>You must be logged in...</h2>
-			<p>...to chat</p>
-		</div>
-		<div class="modal-body">
-			<h3>Log in immediately through...</h3>
-			<div style="margin-left: 30px;">
-							<div class="row-fluid" style="padding: 15px 0;">
-				<div class="span3" style="text-align: center;">
-					<a href="/auth/social-login/facebook/" class="facebook-login ga-event" data-ga-event="Social Login:Chat - Sign Up:Facebook">
-						<span class="i-button big sparse">
-							<i class="jolticon jolticon-facebook"></i>
-						</span>
-						<span style="display: block; padding-top: 10px;"> Facebook</span>
-					</a>
-				</div>
-				<div class="span1" style="text-align: center; padding-top: 12px;"><em>- or -</em></div>
-				<div class="span3" style="text-align: center;">
-					<a href="/auth/social-login/twitter/" class="twitter-login ga-event" data-ga-event="Social Login:Chat - Sign Up:Twitter">
-						<span class="i-button big sparse">
-							<i class="jolticon jolticon-twitter-bird"></i>
-						</span>
-						<span style="display: block; padding-top: 10px;"> Twitter</span>
-					</a>
-				</div>
-									<div class="span1" style="text-align: center; padding-top: 12px;"><em>- or -</em></div>
-					<div class="span3" style="text-align: center;">
-						<a href="/auth/sign-up/" class="gamejolt-create ga-event" data-ga-event="Social Login:Chat - Sign Up:Game Jolt">
-							<span class="i-button big sparse">
-								<i class="jolticon jolticon-gamejolt"></i>
-							</span>
-							<span style="display: block; padding-top: 10px;">Create an Account</span>
-						</a>
-					</div>
-							</div>
-						</div>
-		</div>
-	</div>
-
-
-<script type="text/javascript">
-
-			var chatPermissionLevel = -1;
-	
-	var chatSettings = {
-		allow_vert: true,
-		hide_room_description: false	};
-
-</script>
-							<script src="//ajax.googleapis.com/ajax/libs/angularjs/1.2.6/angular.min.js"></script>
-				<script src="//ajax.googleapis.com/ajax/libs/angularjs/1.2.6/angular-sanitize.min.js"></script>
-					
-		<script type="text/javascript" src="http://s.gjcdn.net/compressor/js_bottom/643"></script>
-
-											<script src="//ajax.googleapis.com/ajax/libs/angularjs/1.2.6/angular-animate.min.js"></script>
-				<script type="text/javascript" src="http://s.gjcdn.net/compressor/js_chat_v3/643"></script>
-					
+				
 		
 	
 
