@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the roadrouteindia.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121035843id_/http%3A//www.roadrouteindia.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roadrouteindia.com privacy policy that was archived on 2015-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150618071212id_/http%3A//www.roadrouteindia.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
 Weat roadrouteindia.com are committed to protect personal information/data of our customers to maintain the privacy of their personal information, which may collect and provide our approach towards handling or dealing with the same. Its Privacy Policy describes the personal information, is designed and developed to address the privacy and security of your personal information provided to us. 
 
-Fundamentally, �Personal information� is any piece of information that could be used to distinctively identify a person, contact him/her, or locate an individual, or could be used with information available from other sources to uniquely identify a user. For the purpose of this policy, your sensitive personal data or information has been given due consideration as a part of personal information. Your privacy is important to us. 
+Fundamentally, "Personal information" is any piece of information that could be used to distinctively identify a person, contact him/her, or locate an individual, or could be used with information available from other sources to uniquely identify a user. For the purpose of this policy, your sensitive personal data or information has been given due consideration as a part of personal information. Your privacy is important to us. 
 
 The personal information is purely used to analyze trends, study the site and track movement of users to gather broad demographic information for internal use. We have included links on this site for reference. We are not responsible for the privacy policies on these websites. The contents of this statement may be altered at any time at our discretion. 
 
