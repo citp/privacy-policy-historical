@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the panopta.com privacy policy that was archived on 2014-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141107001451id_/http%3A//www.panopta.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the panopta.com privacy policy that was archived on 2015-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150619005744id_/http%3A//www.panopta.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Panopta
+# Privacy Policy - Panopta
 
 At Panopta, we take your privacy and the security of the information you share with us very seriously. If you have any questions about the policy or how it applies to your data, please contact us at [privacy@panopta.com](mailto:privacy@panopta.com).
 
