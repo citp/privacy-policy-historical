@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onewayfurniture.com privacy policy that was archived on 2014-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141001101214id_/http%3A//www.onewayfurniture.com/ccprv.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onewayfurniture.com privacy policy that was archived on 2015-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150618082043id_/http%3A//www.onewayfurniture.com/ccprv.html) for the most accurate reproduction.*
 
 # Help
 
