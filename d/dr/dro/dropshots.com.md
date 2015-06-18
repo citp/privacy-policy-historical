@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dropshots.com privacy policy that was archived on 2014-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141223053304id_/http%3A//dropshots.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dropshots.com privacy policy that was archived on 2015-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150618231425id_/http%3A//www.dropshots.com/privacy.php) for the most accurate reproduction.*
 
 # DropShots™ - Free Video Hosting & Photo Sharing; No Advertising. Upload Now!
 
