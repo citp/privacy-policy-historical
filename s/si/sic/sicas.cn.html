@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the sicas.cn privacy policy that was archived on 2013-06-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130601032545id_/http%3A//sicas.cn/AboutUs/Info/Content_111110165913945.shtml) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the sicas.cn privacy policy that was archived on 2015-06-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150618154113id_/http%3A//www.sicas.cn/AboutUs/Info/Content_111110165913945.shtml) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -13,7 +13,7 @@
 <link type="text/css" rel="stylesheet" href="/style/classmain.css">
 <link type="text/css" rel="stylesheet" href="/style/index_c.css">
 <link type="text/css" rel="stylesheet" href="/style/jiangxuejin.css">
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/js/jquery-1.7.1.js"></script>
+<script async="" charset="utf-8" src="//v2.zopim.com/?2WiQhGdFxXTysTXpEJq1g9u2VU1md5DX" type="text/javascript"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" src="//static.getkudos.me/widget.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/js/jquery-1.7.1.js"></script>
 <script type="text/javascript" src="/script/top.js"></script>
 <script type="text/javascript">
 var preid=5;
@@ -37,31 +37,34 @@ var name2 = "Privacy Policy";
 </script>
 </head>
 <body style="color:#555;">
-
-<div class="head center">
-      <div class="topad">
-    <a href="/"><img src="/images/banner02.jpg"></a>
-  </div>
-      <div class="logo">
-    <a href="/"><img src="/images/logo.gif" title="sicas" alt="sicas - logo"></a>
+﻿<div class="head center">
+      <div class="topad" id="topbannerad">
+                    
+                    </div>
+                       <script type="text/javascript">
+                           $.post("http://www.sicas.cn/ajax/getad.aspx", {_aid:"13"},function(data) { $("#topbannerad").html(data) }, "html");
+                    </script>
+  <div class="logo">
+    <a href="http://www.sicas.cn" title="Study in China"><img src="/images/logo.gif" title="sicas" alt="Study in China"></a>
   </div>
     </div>
-<!--nav��ʼ-->
+ <div class="link17" style="width:980px; font-family: 微软雅黑; font-size: 13px; padding: 2px 0; margin: 0px auto 2px;"><span>Email:<a style="font-size: 13px;" target="_blank" href="mailto:service@sicas.cn">service@sicas.cn</a></span><i style="margin:0 10px;font-style:normal">|</i><span>Skype:SICAS-China</span><i style="margin:0 10px;font-style:normal">|</i><span>Tel./Whatsapp: +86-15318861816</span><a style="float:right" href="http://blog.sicas.cn/" target="_blank">SICAS Blog</a></div>
+<!--nav开始-->
 <div class="nav2 center">      
 <div class="left">
     <div class="tab">
         <table width="624" border="0" cellpadding="0" cellspacing="0">
             <tbody>
                 <tr>
-                    <td><a href="/index.html" onmouseover="showMenu(1)" onmouseout="outMenu(1)">
+                    <td><a href="http://www.sicas.cn" rel="nofollow" onmouseover="showMenu(1)" onmouseout="outMenu(1)">
                         <img src="/images/top_1_white.gif" id="src1" alt="index"></a></td>
-                    <td><a href="/Students/index.aspx" onmouseover="showMenu(2)" onmouseout="outMenu(2)">
+                    <td><a href="/Students/index.aspx" rel="nofollow" onmouseover="showMenu(2)" onmouseout="outMenu(2)">
                         <img src="/images/top_2_white.gif" id="src2" alt="student"></a></td>
-                    <td><a href="/Consultant/index.aspx" onmouseover="showMenu(3)" onmouseout="outMenu(3)">
+                    <td><a href="/Consultant/index.aspx" rel="nofollow" onmouseover="showMenu(3)" onmouseout="outMenu(3)">
                         <img src="/images/top_3_white.gif" id="src3" alt="consultant"></a></td>
-                    <td><a href="/SchoolLogin.aspx" onmouseover="showMenu(4)" onmouseout="outMenu(4)">
+                    <td><a href="/SchoolLogin.aspx" rel="nofollow" onmouseover="showMenu(4)" onmouseout="outMenu(4)">
                         <img src="/images/top_4_white.gif" id="src4" alt="uc staff"></a></td>
-                    <td><a href="/About/index.aspx" onmouseover="showMenu(5)" onmouseout="outMenu(5)">
+                    <td><a href="/About/index.aspx" rel="nofollow" onmouseover="showMenu(5)" onmouseout="outMenu(5)">
                         <img src="/images/top_5_white.gif" id="src5" alt="ablout us"></a></td>
                 </tr>
             </tbody>
@@ -94,12 +97,7 @@ var name2 = "Privacy Policy";
         {
             $.post("/ajax/checkindex.aspx", function(data) { $("#loginxx").html(data) }, "html");
         }
-        window.onload = function()
-        {
-        showMenu(preid);
-            //showMenu(0);
-            checkindex();
-        }
+       
         function loginout()
         {
               window.location.href='/logout.aspx';
@@ -109,10 +107,10 @@ var name2 = "Privacy Policy";
 </script>
 
  <script type="text/javascript">
-     function checkfindfaq()
+      function checkfindfaq_top()
      {
-         var url = "/faq/faq_l.aspx?s=pf";
-         var faqkey = document.getElementById("key").value;
+         var url ="/faq/faq_l.aspx?s=pf";
+         var faqkey = document.getElementById("textkey").value;
          if (faqkey != "")
              url += "&fkey=" + encodeURI(faqkey);
          window.location.href = url;
@@ -129,6 +127,20 @@ var name2 = "Privacy Policy";
   
     </div>
 <!--navend-->
+<script type="text/javascript">
+    function checkmsgclose() {
+        $(".meg_div_info").hide();
+    }
+</script>
+    <div class="meg_div_info" style="display:none;border:1px solid #f01e46;background:#fffada;line-height:15px;padding:5px;position:absolute;top:162px;left:855.5px;z-index:100" id="meg_div">
+    	 <a href="###" onclick="checkmsgclose()" style="position:absolute;right:0;top:0; margin-right:1px">X</a>
+            <p style="text-align:left;width:260px;">
+                You&nbsp;don't&nbsp;have&nbsp;to&nbsp;complete&nbsp;your&nbsp;application<br>&nbsp;procedure&nbsp;all&nbsp;at&nbsp;once.It&nbsp;can&nbsp;be&nbsp;partially<br>&nbsp;completed&nbsp;on&nbsp;SICAS,&nbsp;i.e.,&nbsp;you&nbsp;can&nbsp;continue&nbsp;<br>it&nbsp;later&nbsp;in
+                <a href="/Students/WelcomeStudent.aspx" target="_self" style="color: #116BC0;">My&nbsp;SICAS</a>&nbsp;&gt;
+                <a href="/Students/MyApplications.aspx" target="_self" style="color: #116BC0;">My&nbsp;Applications.</a>
+            </p>
+        </div>
+
 <!--main-->
 <div class="main center"><!--main left-->
 
@@ -137,7 +149,20 @@ var name2 = "Privacy Policy";
     <div class="right1">
         <div class="bread"><span class="f_r" style="padding-top:5px;"><img src="/images/icon11.jpg" align="middle"> <span class="link1"><a href="/">Return Home</a></span></span><span class="link4"><a href="/AboutUs/">About Us</a>&nbsp;-&gt;&nbsp;<a href="/AboutUs/Info/Content_111110165913945.shtml">Privacy Policy</a></span></div>
         <div style="padding:10px;" class="content">
-      <span class="pagetitle clear" id="wrapper">Privacy Statement</span>
+      <span class="pagetitle clear" id="wrapper">Privacy Statement
+
+ <div style="width:200px; padding:10px 0 10px 6px;float:right">
+                <div class="addthis_toolbox addthis_default_style "> 
+<a class="addthis_button_preferred_1"></a> 
+<a class="addthis_button_preferred_2"></a> 
+<a class="addthis_button_preferred_3"></a> 
+<a class="addthis_button_preferred_4"></a> 
+<a class="addthis_button_compact"></a> 
+<a class="addthis_counter 
+
+addthis_bubble_style"></a> </div>
+                </div>
+</span>
     <span style="color:#f00;"><span style="font-size:14px;"><strong><br>
 Introduction<br>
 <br>
@@ -212,7 +237,22 @@ You should not open an account with us if you are under 13 years old; neither sh
 <br>
 <span style="color:#f00;"><span style="font-size:14px;"><strong>Contacting the Website<br>
 </strong></span></span><br>
-On any circumstances you want to ask questions or make comments, please feel free to contact us directly. We will read every message or e-mail sent to us, and do our best to reply promptly to every one of them. You may call us at 0532-88893256, or you can mail to us at <a href="http://www.sicas.cn">www.sicas.cn</a> </div></div>
+On any circumstances you want to ask questions or make comments, please feel free to contact us directly. We will read every message or e-mail sent to us, and do our best to reply promptly to every one of them. You may call us at 0532-88893256, or you can mail to us at <a href="http://www.sicas.cn">www.sicas.cn</a> </div>
+
+<div style="width:360px; padding:10px 0 10px 6px;">
+                <div class="addthis_toolbox addthis_default_style "> 
+<a class="addthis_button_preferred_1"></a> 
+<a class="addthis_button_preferred_2"></a> 
+<a class="addthis_button_preferred_3"></a> 
+<a class="addthis_button_preferred_4"></a> 
+<a class="addthis_button_compact"></a> 
+<a class="addthis_counter 
+
+addthis_bubble_style"></a> </div>
+                <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=xa-4dfd67601df6be49"></script>
+              </div>
+</div>
+
     <div class="foot-content">
  <ul id="content-extras">
 <li class="back-to-top"><a href="#wrapper">Back to top</a></li>
@@ -220,12 +260,287 @@ On any circumstances you want to ask questions or make comments, please feel fre
 </ul>
 </div>
 </div>
-<div class="mianleft">﻿<div class="leftnav2"><img src="/images/08pic001.jpg"><div class="link1 linkbt2"><a href="/About/index.aspx" style="font-size: 14px;">About us</a></div><ul><li><a href="/AboutUs/Info/Content_11062410500189.shtml">About SICAS</a></li><div class="navzk" style="display:none"><ul><li><a href="/AboutUs/Info/Content_110827161252691.shtml">Get to Know SICAS</a></li><li><a href="/AboutUs/Info/Content_110827162215595.shtml">What SICAS Does</a></li><li><a href="/AboutUs/Info/Content_120530161025347.shtml">SICAS Guarantee &amp; Tenet</a></li><li><a href="/AboutUs/Info/Content_120601160414812.shtml">SICAS Standard Service</a></li><li><a href="/AboutUs/Info/Content_120601170104239.shtml">SICAS One-for-One Service</a></li><li><a href="/Power_Page.aspx">Who Authorizes SICAS?</a></li></ul></div><li><a href="/AboutUs/Info/Content_120601153217733.shtml">Events</a></li><li><a href="/AboutUs/Info/Content_120601153318910.shtml">SICAS Family</a></li><li><a href="/AboutUs/Info/Content_120609122737739.shtml">Legal Support</a></li><li><a href="/AboutUs/Info/Content_111110165723610.shtml">Terms of Use</a></li><li><a href="/AboutUs/Info/Content_111110165913945.shtml">Privacy Policy</a></li><li><a href="/AboutUs/Info/Content_111110170146826.shtml">Contact Us</a></li><li><a href="/AboutUs/Info/Content_111110170425344.shtml">Links</a></li></ul></div><div style="background-color:#FFF;  overflow:hidden;"><img src="/images/08pic004.jpg"></div>
+<div class="mianleft"><div class="leftnav2"><img src="/images/08pic001.jpg"><div class="link1 linkbt2"><a href="/About/index.aspx" style="font-size: 14px;">About us</a></div><ul><li><a href="/AboutUs/Info/Content_11062410500189.shtml">About SICAS</a></li><div class="navzk" style="display:none"><ul><li><a href="/AboutUs/Info/Content_110827161252691.shtml">Get to Know SICAS</a></li><li><a href="/AboutUs/Info/Content_110827162215595.shtml">What SICAS Does</a></li><li><a href="/AboutUs/Info/Content_120530161025347.shtml">Guarantee &amp; Tenet</a></li><li><a href="http://www.sicas.cn/AboutUs/Info/Content_130725135950903.shtml">Standard Service Package (SSP)</a></li><li><a href="/AboutUs/Info/Content_130806164800389.shtml">Plus Service Package (PSP)</a></li><li><a href="/AboutUs/Info/Content_130807151108355.shtml">Why “Plus Service Package"</a></li><li><a href="/Power_Page.aspx">Who Authorizes SICAS?</a></li><li><a href="/AdmissionLetter.aspx">Admission Letters</a></li></ul></div><li><a href="/AboutUs/Info/Content_120601153217733.shtml">Events</a></li><li><a href="/AboutUs/Info/Content_120601153318910.shtml">SICAS Family</a></li><li><a href="/AboutUs/Info/Content_120609122737739.shtml">Legal Support</a></li><li><a href="/AboutUs/Info/Content_111110165723610.shtml">Terms of Use</a></li><li><a href="/AboutUs/Info/Content_111110165913945.shtml">Privacy Policy</a></li><li><a href="/AboutUs/Info/Content_111110170146826.shtml">Contact Us</a></li><li><a href="/AboutUs/Info/Content_111110170425344.shtml">Links</a></li></ul></div><div style="background-color:#FFF;  overflow:hidden;"><img src="/images/08pic004.jpg"></div><ul style="width:189px;height:280px;margin-top:6px;overflow:hidden" id="school_adul">
+<li><a href="/Students/Info/Content_150226164250700.shtml" target="_blank"><img src="/AdSicas/scholarships_ad.jpg"></a></li>
+<li style="display:none"><a href="/AdmissionLetter.aspx" target="_blank"><img src="/AdSicas/letter_ad.jpg"></a></li>
+<li style="display:none"><a href="/Students/Info/Content_150211145322861.shtml" target="_blank"><img src="/AdSicas/mbbs_ad.jpg"></a></li>
+<li style="display:none"><a href="/Students/Info/Content_150318170057118.shtml" target="_blank"><img src="/AdSicas/enginer_ad.jpg"></a></li>
+<li style="display:none"><a href="/Students/Info/Content_150325181636424.shtml" target="_blank"><img src="/AdSicas/business_ad.jpg"></a></li>
+</ul>
+<script type="text/javascript">
+var sadindex = 1;
+var timerSchool = null;
+function checkSchoolAd() {
+if (sadindex > 4)
+sadindex = 0;
+$("#school_adul").find("li").hide().eq(sadindex).fadeIn("normal");
+sadindex++;
+}
+timerSchool = window.setInterval("checkSchoolAd()", 3000);
+</script>
+
 </div>
 </div>
 
 <!--mainend-->
 <!--foot-->
+﻿ <link href="/images/gl.css" rel="stylesheet" type="text/css">
+ <link href="/images/style.css" rel="stylesheet" type="text/css">
+ <link href="/images/search.css" rel="stylesheet" type="text/css">
+ <!-- 固定搜索条 -->  
+  <div id="header"> 
+      <div class="inner cf">
+      <div class="searchlogo"><a href="http://www.sicas.cn"><img src="/images/logo.png" height="30"></a></div>
+          <div class="sub_search">
+          <div id="search-form-top">
+          <input id="texttopsearch" class="shuru" type="text" placeholder="Enter the name of a course" data-keywords="true">				 
+          <input class="btnbtn22" type="button">
+         </div>
+      </div>
+      <div class="sub_list f_r">
+                <ul>
+                    <li class="page_login f_l" id="page_loginli">
+                       <a id="toploigina" href="javascript:;" class="a1">Sign In</a>
+                        <div class="theme-popover sign_in">
+                            <div class="theme-popover_3"></div>
+                            <div class="theme-poptit">
+                                <a href="javascript:;" title="CLOSE" class="close1">×</a>
+                            </div>
+                            <h1><strong>Sign In</strong></h1>
+                            <h4>Don't have an account? <a href="/reg_student.aspx" class="sign_up">Sign up</a></h4>
+                            <div class="middle mg_10">
+                                <div class="length mg_30"></div>
+                                <i class="or">OR</i><div class="length"></div>
+                            </div>
+                            <div class="theme-popbod dform">
+                                <div class="theme-signin" id="top_login_2">
+                                    <ol><li id="top_login_error" style="color:red;display: none;"></li>
+                                        <li>
+                                            <input class="ipt" type="text" id="top_login_email" placeholder="E-mail"></li>
+                                        <li>
+                                            <input class="ipt" type="password" id="top_login_password" placeholder="Password"></li>
+                                        <li>
+                                            <h6><a href="/StuFindPwd.aspx" class="find">Forgot password?</a> </h6>
+                                        </li>
+                                        <li><input class="btn" type="button" name="button" onclick="checkfixlogin()" value="SIGN IN"></li>
+                                    </ol>
+                                </div>
+                            </div>
+                        </div>
+                    </li>
+                    <li class="page_about f_l">
+                        <a href="javascript:;" class="a2">About Us</a>
+                        <dl class="theme-popover aboutus">
+                            <dd><a href="/AboutUs/Info/Content_11062410500189.shtml" target="_blank">About us</a></dd>
+                            <dd><a href="/Students/Info/Content_110625102317316.shtml" target="_blank">How to apply</a></dd>
+                            <dd><a href="/AboutUs/Info/Content_130725135950903.shtml" target="_blank">SICAS Standard Service Package</a></dd>
+                            <dd><a href="/AboutUs/Info/Content_130806164800389.shtml" target="_blank">SICAS Plus Service Package</a></dd>
+                           
+                            <dd><a href="/Students/Info/Content_130724145746129.shtml" target="_blank">Ways of payment</a></dd>
+                            <dd><a href="/AboutUs/Info/Content_111110170146826.shtml" target="_blank">Contact us</a></dd>
+                             <dd><a href="/Students/Info/Content_110625143752276.shtml" target="_blank">Students Stories</a></dd>
+                        </dl>
+                    </li>
+                    
+                </ul>
+            </div>
+      </div><!-- end header -->
+  </div>
+
+<script src="/js/jquery.autocomplete.min.js"></script>
+<script src="/js/jquery.cookie.js"></script>
+<script type="text/javascript">
+    var furl = window.location.pathname.toLowerCase();
+    var _loginleft = 0;
+    var _logintop = 0;
+
+    $(document).ready(function () {
+    	   var scoke = $.cookie("Student");
+    	    if (typeof (scoke) != "undefined") {
+            $(".meg_div_info").css({ top: _logintop, left: _loginleft + "px", position: "absolute" });
+            $("#meg_div").show(); $("#toploigina").html("My SICAS").removeAttr("id")
+        }
+        $.post("/ajax/checkindex.aspx", function (data) {
+            $("#loginxx").html(data)
+            if (typeof (scoke) != "undefined") {
+                var offset = $("#loginxx img[alt='Login']").eq(0).offset();
+                _loginleft = offset.left; _logintop = offset.top + 16;
+                $(".meg_div_info").css({ top: _logintop, left: _loginleft + "px", position: "absolute" });
+                $("#meg_div").show(); $("#toploigina").html("My SICAS").removeAttr("id")
+            }
+        }, "html");
+       $('#toploigina').mouseover(function () {
+            $('.sign_in').show();
+        })
+        $('.theme-poptit .close1').click(function (e) {
+            $('.sign_in').hide();
+ e.stopPropagation();
+        })
+        $('.sub_list li.page_about').mouseover(function () {
+            $(this).find("dl").show();
+        })
+        $('.sub_list li.page_about').mouseout(function () {
+            $(this).find("dl").hide();
+        })
+  
+        if (furl.indexOf("degreelistsearch.aspx") == -1 && furl.indexOf("schoollistsearch.aspx") == -1)
+        {
+            $("#texttopsearch").autocomplete({
+                serviceUrl: '/ajax/ajax_autocomplete.ashx',
+                maxHeight: 600,
+                width: 435,
+                zIndex: 9999,
+                groupBy: 'category',
+                showNoSuggestionNotice: true, autoSelectFirst: true, tabDisabled: true, forceFixPosition: true,
+                onSelect: function (suggestion) {
+                       var url = "/School/" + suggestion.fid + "/Course_" + suggestion.cid + ".shtml";
+                           $(this).val(suggestion._val);
+                    window.location.href = url;
+                },
+                onHint: function (hint) {
+                },
+                onInvalidateSelection: function () {
+                },
+                onSearchComplete: function (query) {
+                    var _query = $(this).val();
+                    _query = query.replace(/\-/gi, "麒");
+                    _query = _query.replace("&", "麟");
+                    _query = encodeURIComponent(_query.replace("&", "麟"))
+                    var url = '/DegreeSearch/0-' + _query + '-0-0-0-0-0-0-0-0-0-1.html';
+                    $(".autocomplete-suggestion").last().after("<div class=\"autocomplete-more\"><a href='" + url + "'>More...</a></div>");
+                },
+                transformResult: function (response) {
+                    var obj = $.parseJSON(response);
+                    return {
+                        suggestions: $.map(obj.suggestions, function (arg) {
+                            return { value: arg.value + "<span style='float:right'>(Starting Date:" + arg.kxrq + ")</span>", data: arg.data, cid: arg.cid, fid: arg.fid, _val:arg.value  };
+                        })
+                    };
+                }
+            })
+        }
+        else
+        {
+            $("#texttopsearch").attr("placeholder", "please search course on bottom").attr("readonly", "readonly");
+        }
+
+        //搜索按钮事件
+        $(".btnbtn22").click(function () {
+             var selectval = $("#texttopsearch").val();
+            if (selectval != "")
+            {
+                selectval = selectval.replace(/\-/gi, "麒");
+                var cou = encodeURIComponent(selectval.replace("&", "麟"));
+                window.location.href = '/DegreeSearch/0-' + cou + '-0-0-0-0-0-0-0-0-0-1.html';
+            }
+            else {
+                alert('No results');
+            }
+        });
+ 				$("#top_login_password").keydown(function (e) {
+            if (e.which == 13) {
+                checkfixlogin();
+            }
+        });
+        $("#texttopsearch").keydown(function (e) {
+            if (e.which == 13) {
+                $(".btnbtn22").click();
+            }
+        });
+    });
+    
+    $(document).scroll(function () {
+        //  console.log($(this).scrollTop());
+        if (furl.indexOf("degreelistsearch.aspx") == -1 && furl.indexOf("schoollistsearch.aspx") == -1)
+        {
+            if ($(this).scrollTop() >= 150)
+            {
+                $("#header").show(); $(".autocomplete-suggestions").show();
+                var loginleft = $("#page_loginli .a1").offset();
+                $(".meg_div_info").css({ top: "62px", left: (loginleft.left - 150) + "px",position:"fixed" });
+            } else
+            {
+                $("#header").hide(); $(".autocomplete-suggestions").hide();
+                $(".meg_div_info").css({ top: _logintop, left: _loginleft + "px", position: "absolute" });
+            }
+        }
+       
+    });
+    function checkfixlogin() {
+        var email = document.getElementById("top_login_email").value;
+        if (email == "") {
+            $("#top_login_error").html(" This E-mail is required").show();
+            return false;
+        }
+        else { $("#top_login_error").hide(); }
+        if (!istopEmail(email)) {
+            $("#top_login_error").html(" This E-mail is error format").show();
+            return false;
+        }
+        else {
+            $("#top_login_error").hide();
+        }
+        var userpwd = document.getElementById("top_login_password").value;
+        if (userpwd == "") {
+            $("#top_login_error").html(" This password is required").show();
+            return false;
+        }
+        else {
+            $("#top_login_error").hide();
+        }
+        settopCookie("suser", email);
+        $.ajax({
+            type: "POST",
+            url: "/ajax/userlogin.aspx",
+            dataType: "json",
+            data: { "eMail": email, "Pwd": userpwd },
+            beforeSend: function () {
+                $("#top_login_error").html("Verifying...").show();
+            },
+            success: function (data) {
+                $("#top_login_error").html(data.info).show();
+                if (data.sta == "2") {
+                    $("#top_login_email").focus();
+                }
+                if (data.sta == "1") {
+                    window.location.href = "/Students/WelcomeStudent.aspx";
+                }
+            },
+            complete: function (XMLHttpRequest, textStatus) {
+                // $("#cwdiv1").hide();
+            },
+            error: function (jqXHR, textStatus, errorThrown) {
+                //请求出错处理
+            }
+        });
+    }
+    function istopEmail(s) {
+        var patrn = /^\w+([-+.']\w+)*@\w+([-.]\w+)*\.\w+([-.]\w+)*$/;
+        if (!patrn.exec(s)) return false;
+        return true;
+    }
+    function settopCookie(c_name, value) {
+        var Days = 1000;
+        var exp = new Date();
+        exp.setTime(exp.getTime() + Days * 24 * 60 * 60 * 1000);
+        document.cookie = c_name + "=" + escape(value) + ";expires=" + exp.toGMTString();
+    }
+
+</script>
+<style type="text/css">
+    
+.autocomplete-suggestions { overflow: auto; border: 1px solid #CBD3DD; background: #FFF; box-shadow: 2px 2px 8px #333;text-align:left}
+.autocomplete-suggestion { overflow: hidden; padding:3px 12px; white-space: nowrap;cursor:pointer;height:20px;line-height:20px }
+.autocomplete-selected { background: #F0F0F0; }
+.autocomplete-suggestions strong { color: #029cca; font-weight: normal; }
+.autocomplete-no-suggestion {overflow: hidden; padding:2px 12px 3px 12px; white-space: nowrap;cursor:pointer;height:20px;line-height:20px}
+.autocomplete-group { padding: 5px 6px 2px 6px;height:20px;line-height:20px;overflow: hidden;}
+.autocomplete-group strong { font-weight: bold; font-size:12px; color: #000; display: block; }
+.autocomplete-more { padding: 5px 6px 2px 6px;height:20px;line-height:20px;overflow: hidden;  background:#f1eded}
+.autocomplete-more a { font-weight: bold; font-size:14px; color: #ff0000; display: block; }
+.autocomplete-more a:hover {  color:#029cca;  }
+</style>
+
 <div class="footer center">
     <div class="fq-nav">
         <dl>
@@ -281,26 +596,8 @@ On any circumstances you want to ask questions or make comments, please feel fre
                 <a href="#">Twitter</a></dd>
         </dl>
     </div>
-    <div class="foot">
-        SICAS copyright 2011,<span>
-            EduChinaLINK Co.,Ltd.</span> All Rights Reserved. &nbsp;&nbsp;³ICP��12014969 
-    </div>
+    <div class="foot"> SICAS copyright 2007-2015,<span>  EduChinaLINK Co.,Ltd.</span> All Rights Reserved. &nbsp;&nbsp;鲁ICP备09044070    <script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_1254188149'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s4.cnzz.com/z_stat.php%3Fid%3D1254188149%26show%3Dpic' type='text/javascript'%3E%3C/script%3E"));</script><span id="cnzz_stat_icon_1254188149"></span><script src=" https://s4.cnzz.com/z_stat.php?id=1254188149&amp;show=pic" type="text/javascript"></script> </div>
 </div>
-<script type="text/javascript">
-
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-32132901-1']);
-  _gaq.push(['_trackPageview']);
-
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
-
-</script>
-
-<!--footend-->
 <!-- Google Code for &#20877;&#33829;&#38144;&#20195;&#30721; -->
 <!-- Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. For instructions on adding this tag and more information on the above requirements, read the setup guide: google.com/ads/remarketingsetup -->
 <script type="text/javascript">
@@ -311,13 +608,62 @@ var google_custom_params = window.google_tag_params;
 var google_remarketing_only = true;
 /* ]]> */
 </script>
-<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+<!-- Start of GetKudos Script -->
+<script>
+    (function(w, t, gk, d, s, fs)
+    {
+        if (w[gk]) return; d = w.document; w[gk] = function()
+        {
+            (w[gk]._ = w[gk]._ || []).push(arguments)
+        }; s = d.createElement(t); s.async = !0;
+        s.src = '//static.getkudos.me/widget.js'; fs = d.getElementsByTagName(t)[0];
+        fs.parentNode.insertBefore(s, fs)
+    })(window, 'script', 'getkudos');
+
+    getkudos('create', 'SICASOnline');
+</script>
+<!-- End of GetKudos Script --><script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
 </script>
 <noscript>
 <div style="display:inline;">
 <img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/994252109/?value=0&amp;label=Ue73COPYmQQQzaqM2gM&amp;guid=ON&amp;script=0"/>
 </div>
 </noscript>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-35079102-1', 'sicas.cn');
+  ga('send', 'pageview');
+
+</script>
+
+<link href="http://www.sicas.cn/css/to_top.css" rel="stylesheet" type="text/css">
+<script src="http://www.sicas.cn/js/lrtk.js" type="text/javascript"></script>
+<!-- 代码 开始 -->
+<div class="s_scroll" style="display:none;">
+		Top
+	</div>
+<!-- 代码 结束 -->
+<!--Start of Zopim Live Chat Script-->
+<script type="text/javascript">
+    window.$zopim || (function(d, s)
+    {
+        var z = $zopim = function(c) { z._.push(c) }, $ = z.s =
+d.createElement(s), e = d.getElementsByTagName(s)[0]; z.set = function(o)
+{
+    z.set.
+_.push(o)
+}; z._ = []; z.set._ = []; $.async = !0; $.setAttribute('charset', 'utf-8');
+        $.src = '//v2.zopim.com/?2WiQhGdFxXTysTXpEJq1g9u2VU1md5DX'; z.t = +new Date; $.
+type = 'text/javascript'; e.parentNode.insertBefore($, e)
+    })(document, 'script');
+</script>
+<!--End of Zopim Live Chat Script-->
+
+<!--footend-->
 
 
 
