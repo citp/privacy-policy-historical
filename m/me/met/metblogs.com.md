@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the metblogs.com privacy policy that was archived on 2014-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141006205130id_/http%3A//www.metblogs.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metblogs.com privacy policy that was archived on 2015-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150618055841id_/http%3A//www.metblogs.com/privacy) for the most accurate reproduction.*
 
-# Metblogs: » Privacy Policy
+# Privacy Policy | Metblogs
 
 Metroblogging.com’s privacy policy is to respect the privacy of its users.
 
@@ -30,9 +30,9 @@ We collect information through our Web site relating to traffic levels on our We
 This aggregated information, which does not personally identify you, is helpful to us for improving the services we offer and for marketing purposes. We may share aggregated information with our advertisers, business partners, or other companies, and may post it online with the intention of rubbing our kick ass numbers in the faces of lesser trafficked Web Sites.
 
 **PUBLIC FORUMS/COMMENTS/CHATS**  
-We make discussion areas and chat forums available to our users. Please remember that any information that is disclosed in these areas including your name, e-mail address, or other personal information becomes public information, and you should exercise caution when deciding to disclose your personal information. No matter how enticing the offer sounds, posting your banking info to a message board is never, NEVER a good idea. 
+We make discussion areas and chat forums available to our users. Please remember that any information that is disclosed in these areas including your name, e-mail address, or other personal information becomes public information, and you should exercise caution when deciding to disclose your personal information. No matter how enticing the offer sounds, posting your banking info to a message board is never, NEVER a good idea.
 
-And remember – **the Internet never forgets** : Whatever you post will stay online until the last server fails and the lights go out on planet earth. 
+And remember – **the Internet never forgets** : Whatever you post will stay online until the last server fails and the lights go out on planet earth.
 
 **LINKS TO THIRD PARTY SITES**  
 Users should be aware that when you are on Metblogs.com, you could be directed to other sites that are beyond our control. This includes links from advertisers, sponsors, and partners. These other sites may send their own cookies to users, collect data or solicit personal information. Metblogs.com has no responsibility for these cookies. There are millions of Web Sites on the internet and if you think we are responsible for what goes on on any other Web Site you must be smoking crack.
