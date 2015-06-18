@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lovemydress.net privacy policy that was archived on 2014-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140805005732id_/http%3A//www.lovemydress.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lovemydress.net privacy policy that was archived on 2015-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150618044505id_/http%3A//www.lovemydress.net/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Love My Dress® UK Wedding Blog
 
@@ -6,7 +6,7 @@
 
 This policy (together with our [terms of use](http://lovemydress.net/terms-of-use "Terms of Use") and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
 
-We keep certain basic information when you visit our website and recognise the importance of keeping that information secure and letting you know what we will do with it. For the purpose of the Data Protection Act 1998 (the Act), the data controller is Love My Dress&reg; of 48 Carr Hill Lane, Briggswath, Whitby, North Yorkshire, United Kingdom. This policy only applies to our site. If you leave our site via a link or otherwise, you will be subject to the policy of that website provider. We have no control over that policy or the terms of the website and you should check their policy before continuing to access the site.
+We keep certain basic information when you visit our website and recognise the importance of keeping that information secure and letting you know what we will do with it.
 
 #### INFORMATION WE MAY COLLECT FROM YOU
 
