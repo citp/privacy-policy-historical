@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the phlearn.com privacy policy that was archived on 2014-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141124221221id_/http%3A//phlearn.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phlearn.com privacy policy that was archived on 2015-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150618061319id_/http%3A//phlearn.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -40,7 +40,7 @@ IF YOU DO NOT AGREE TO ALL OF OUR LEGAL NOTICES, YOU MUST NOT USE OUR WEBSITE OR
 
 ### PHLEARN.COM “KIDS” NOTICE
 
-PHLEARN will not solicit and does not intend to collect personal information from people under eighteen (18) years of age. We will specifically instruct people under eighteen (18) not to submit personal information on the Web Site. If a person under eighteen (18) provides us with personal information and that person’s parent or guardian wants it removed from our records, the parent or guardian should contact us by sending an email to [info@phlearn.com](mailto:info@phlearn.com). We will use reasonable efforts to delete the person’s information from our existing files. For additional information about parental control tools, please consult the “Consumer Assistance” page of the Direct Marketing Association home page ([www.the-dma.org).](http://www.the-dma.org/)
+PHLEARN will not solicit and does not intend to collect personal information from people under eighteen (18) years of age. We will specifically instruct people under eighteen (18) not to submit personal information on the Web Site. If a person under eighteen (18) provides us with personal information and that person’s parent or guardian wants it removed from our records, the parent or guardian should contact us by sending an email to [info@phlearn.com](mailto:info@phlearn.com). We will use reasonable efforts to delete the person’s information from our existing files. For additional information about parental control tools, please consult the “Consumer Assistance” page of the Direct Marketing Association home page ([www.the-dma.org).](http://phlearn.com/wp-content/uploads/2012/02/www.the-dma.org)
 
 PHLEARN reserves the right to change this Privacy Policy at any time but will use reasonable efforts to post a notice of such modifications within the Web Site.
 
