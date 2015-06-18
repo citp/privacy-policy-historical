@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hairboutique.com privacy policy that was archived on 2014-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141125124718id_/http%3A//www.hairboutique.com/static/static.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hairboutique.com privacy policy that was archived on 2015-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150618083601id_/http%3A//www.hairboutique.com/static/static.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
 # HairBoutique Privacy Policy
 
@@ -47,7 +47,7 @@ Contacting the Web Site
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact
 
 HairBoutique.com  
-651 N. Plano Rd., Suite 401  
-Richardson, TX 75081  
+1846 E. Rosemeade Pkwy #293  
+Carrollton, TX 75007  
 webmaster@hairboutique.com  
 
