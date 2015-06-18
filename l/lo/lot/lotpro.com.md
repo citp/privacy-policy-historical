@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lotpro.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701194456id_/http%3A//www.lotpro.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lotpro.com privacy policy that was archived on 2015-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150618183054id_/http%3A//www.lotpro.com/privacy) for the most accurate reproduction.*
 
 # LotPro.com Website Privacy Statement.
 
@@ -232,7 +232,7 @@ Companies related by common ownership or control. They can be financial and nonf
 
 Companies not related by common ownership or control. They can be financial and nonfinancial companies.
 
-_Nonaffiliates we share with can include lending institutions such as Santander, their direct and indirect affiliates, as well as other consumer finance companies; financial service providers including insurance companies and motor vehicle dealers and their lending partners; nonfinancial companies such as retailers, aftermarket product providers, co-branded partners, direct marketers, and advertisers._  
+_Nonaffiliates we share with can include lending institutions named below, their direct and indirect affiliates, as well as other consumer finance companies; financial service providers including insurance companies and motor vehicle dealers and their lending partners; nonfinancial companies such as retailers, aftermarket product providers, co-branded partners, direct marketers, and advertisers._  
   
 **Joint marketing**
 
@@ -244,7 +244,7 @@ _Our joint marketing partners include companies such as lending institutions, fi
   
 #### Your Application Submission
 
-When you complete and submit the application form, you certify that all of the statements in the application are true and complete and are made for the purpose of obtaining credit. You authorize LotPro.com to share your application and related information with its lending partner(s) in order to complete the processing of your application. You authorize LotPro.com and its lending partners to retain and rely on your application and to access your credit report in order to evaluate your credit application. In addition, you acknowledge that you have read the state-specific notices related to your application and agree to receive Electronic Documents. You further authorize LotPro.com’s lending partner(s) to disclose any credit decision and related credit decision details to LotPro.com and other lending partners. By clicking the 'Submit' button at the bottom of the form, you authorize third-party lending institutions to share information in your application, and any other credit information they obtain, with other third parties who may be able to offer or arrange for a direct loan and/or dealer financing. LotPro.com, and up to five participating dealers, lenders and other third parties may contact me on any number provided, using automated telephone dialing systems, text and/or pre-recorded messages to expedite my request and present other relevant offers. By clicking the submit button, I am consenting to these methods of contact. Consent is not required as a condition of the services. 
+When you complete and submit the application form, you certify that all of the statements in the application are true and complete and are made for the purpose of obtaining credit. You authorize LotPro.com to share your application and related information with its lending partner(s) and Finance Lending Institutions in order to complete the processing of your application. You authorize LotPro.com its lending partners and Finance Lending Institutions to retain and rely on your application, to access your credit report in order to evaluate your credit application and to verify the information in your application, including income and employment. In addition, you acknowledge that you have read the state-specific notices related to your application and agree to receive Electronic Documents. You further authorize LotPro.com’s lending partner(s) and Finance Lending Institutions to disclose any credit decision and related credit decision details to LotPro.com and other lending partners. By clicking the 'Submit' button at the bottom of the form, you authorize third-party lending institutions and Finance Lending Institutions to share information in your application, and any other credit information they obtain, with other third parties who may be able to offer or arrange for a direct loan and/or dealer financing. LotPro.com, it's Finance Lending Institutions and up to five participating dealers, lenders and other third parties may contact me on any number provided, using automated telephone dialing systems, text and/or pre-recorded messages to expedite my request and present other relevant offers. By clicking the submit button, I am consenting to these methods of contact. Consent is not required as a condition of the services. 
 
 #### Email Opt-Out Information
 
@@ -292,6 +292,22 @@ Please see the LotPro.com Consumer Privacy Notice for information on how Persona
 
 Other Information is any information other than Personal Information that does not reveal your specific identity or does not directly relate to an individual, such as browser information, information collected through cookies, pixel tags and other technologies, demographic information, other information provided by you such as your date of birth or household income, and aggregated and de-identified data.
 
+#### Consent for Electronic Documents under the Electronic Signatures in Global and National Commerce Act
+
+I have read the Consent to Electronic Records below and agree to conduct transactions and receive records electronically. 
+
+To the extent permitted by law, the Finance Lending Institutions will provide all disclosures and notices to you in electronic form including, but not limited to, any notices (e.g., adverse action notice and privacy policy notice) required by the Equal Credit Opportunity Act, Gramm-Leach-Bliley Act, other federal law, and any implementing regulations. For purposes of this consent, these disclosures and notices are referred to as Records.
+
+This Consent to Electronic Records informs you of your rights when Records will be provided to you electronically. By consenting, you acknowledge receipt of this Consent to Electronic Records and agree to the electronic delivery of the Records. 
+
+Hardware and Software Requirements. The Records will be provided to you either on the Finance Lending Institution’s website, in an email message, or as an attachment to an email message sent to the email address you provide as part of your request, application, or registration. To access the Records, you will need Adobe Acrobat Reader version 7 or higher, and a personal computer or other access device which is capable of accessing the Internet. To retain the Record, your access device must have the ability to either download the Records to your computer’s hard drive or print the Records. 
+
+Right to Withdraw Consent, Procedures for Withdrawal and Updating Information. You may withdraw your consent to receive the Records electronically at any time, or update your contact information at any time. You may withdraw consent or update information from CarFinance Capital LLC by emailing ElectronicRecords@CarFinance.com and withdrawing your consent or providing your updated contact information. You may withdraw consent or update information from Santander by calling 855-563-5635 and withdrawing your consent or providing your updated contact information. 
+
+Consent Applies to Transaction. Your Consent to Electronic Records applies to the transaction you've requested which may give rise to the obligation to provide the Records and to any other dealings or transactions you may have with Finance Lending Institutions. 
+
+Right to Paper Records and Copies of Records. You have the right to have the Records provided to you in paper form, rather than electronic form. If you wish to obtain the Records in paper form from Car Finance Capital, LLC contact CarFinance by emailing ElectronicRecords@CarFinance.com. If you wish to obtain Records in paper form from Santander contact Santander by calling 855-563-5635. A paper copy of the Record will be provided to you at no charge. 
+
 #### How We Collect and Use Other Information
 
 We and our third-party service providers may collect and use Other Information in a variety of ways, including:
@@ -308,12 +324,17 @@ We and our third-party service providers may collect and use Other Information i
 
 **Lender Specific Information**
 
-Your Finance Application may be shared with the following consumer finance lending institutions:
+Your Finance Application may be shared with the following consumer Finance Lending Institutions:
 
+CarFinance Capital LLC  
+7525 Irvine Center Drive  
+Suite 250  
+Irvine, CA 92618
 Santander  
 8585 N. Stemmons Freeway  
 Suite 1100 - North  
 Dallas, TX 75247
+Other Finance Lending Institutions used to provide direct or indirect loans to consumers.
 
 
 **Electronic Documentation Consent and Acknowledgement**
@@ -373,7 +394,7 @@ This Online Privacy Notice is subject to change. Please review it periodically. 
 
 #### State-Specific Notices
 
-California | Vermont | Maine | New York | Ohio | Wisconsin | Delaware
+California | Vermont | Maine | New York | Ohio | Rhode Island | Wisconsin | Delaware | 
 
 **For California Applicants**
 
@@ -399,6 +420,11 @@ The Ohio laws against discrimination require that all creditors make credit equa
 
 
 Wisconsin law provides that no provision of a marital property agreement, a unilateral statement under the marital property law, or a court decree, will adversely affect a creditor?s interests unless the creditor, prior to the time the credit is granted, is furnished with a copy of the agreement, statement or decree or has actual knowledge of the adverse provision. If you are making this application individually and not jointly with your spouse, you understand that Wisconsin law requires that your spouse be given notice of this credit obligation.
+
+**For Rhode Island Applicants**  
+
+
+Credit Reports may be obtained in connection with this application for credit
 
 **For Delaware Applicants**
 
@@ -446,7 +472,7 @@ Notification - Every licensee shall furnish to every applicant, a copy of this r
     14. prepayment penalties - a charge in such amount or amounts as the agreement so provides imposed in connection with the payoff and termination of a revolving credit plan or closed end loan secured by real estate; 
     15. notwithstanding the provisions of this item (3)(c) of this regulation, licensed Lenders who are making mortgage loans pursuant to the rules, regulations, guidelines and/or loan forms established by the State of Delaware or federal governmental or quasi-governmental entity (including, without limitation, the Federal Housing Administration, the Government National Mortgage Association, the Federal National Mortgage Association and the Federal Home Loan Mortgage Corporation) shall be permitted to charge and collect any fees, charges or sums prescribed to be charged and collected in connection with a mortgage loan originated pursuant to a lending program conducted or supervised by any such entity. 
 
-Copyright © 2003-2013 LotPro.com ® and its licensors; all rights reserved.
+Copyright © 2003-2014 LotPro.com ® and its licensors; all rights reserved.
 
 
 
