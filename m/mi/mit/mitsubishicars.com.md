@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mitsubishicars.com privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217225313id_/http%3A//www.mitsubishicars.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mitsubishicars.com privacy policy that was archived on 2015-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150618062357id_/http%3A//www.mitsubishicars.com/privacy) for the most accurate reproduction.*
 
 # Privacy / Mitsubishi Motors
 
@@ -97,7 +97,7 @@ Our Sites may contain links to third party websites. This privacy policy does no
 
 ### Contact Us
 
-If you have any questions or concerns about this privacy policy, please contact MMNA by calling 1-888-MITSU2014 (1-888-648-7820).
+If you have any questions or concerns about this privacy policy, please contact MMNA by calling 1-888-MITSU (1-888-648-7820).
 
 ### Privacy Policy Effective Date
 
