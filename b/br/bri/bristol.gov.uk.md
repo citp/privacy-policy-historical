@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bristol.gov.uk privacy policy that was archived on 2014-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141224204914id_/http%3A//www.bristol.gov.uk/page/council-and-democracy/privacy-statement-what-we-do-your-personal-data) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bristol.gov.uk privacy policy that was archived on 2015-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150618085223id_/http%3A//www.bristol.gov.uk/page/council-and-democracy/privacy-statement-what-we-do-your-personal-data) for the most accurate reproduction.*
 
 # Privacy statement: what we do with your personal data | Bristol City Council
 
@@ -16,21 +16,39 @@ Your service from the council will not be affected if you decide not to allow yo
 
 We collect your personal details when you fill in a form on our websites or send us an email. When you give us your information, you also agree to:
 
-1\. Allow your details to be used for other council services and combined into one single record containing your basic details and information about your transactions.  
-This will help you because you won’t have to repeat the same basic information all the time. It also helps us to deal with your requests more quickly and tailor our services to meet your needs.  
-Only basic customer data will be shared across the council. This will be your title, name, address, gender, date of birth and preferred contact details; email, home or mobile phone.
+1\. Allow your details to be used for other council services and combined into one single record containing your basic details and information about your transactions.
 
-2\. Allow us to give your details to contractors who work for us to deal with your request for the council.  
-These contractors use the same security standards as the council.
+  * This will help you because you won’t have to repeat the same basic information all the time. It also helps us to deal with your requests more quickly and tailor our services to meet your needs.
+  * Only basic customer data will be shared across the council. This will be your title, name, address, gender, date of birth and preferred contact details; email, home or mobile phone.
 
-3\. Allow us to share your information with other councils and organisations.  
-You will be told about this or asked to agree to this first, if we decide to share services with these organisations.
 
-4\. We may also give your data to the Audit Commission and other bodies so they can use it to match against computer records held by other public bodies.  
-This data is usually your personal information. Data matching allows them to spot potentially fraudulent claims and payments.  
-[Find out about the Audit Commission, National Fraud Initiative and other data matching initiatives](https://web.archive.org/page/council-and-democracy/data-matching).
 
-5\. We may also share your information without asking you if:
+2\. Allow us to give your details to contractors who work for us to deal with your request for the council.
+
+  * These contractors use the same security standards as the council.
+
+
+
+3\. Allow us to share your information with other councils and organisations.
+
+  * You will be told about this or asked to agree to this first, if we decide to share services with these organisations.
+
+
+
+4\. We may also give your data to the Audit Commission and other bodies so they can use it to match against computer records held by other public bodies.
+
+  * This data is usually your personal information. Data matching allows them to spot potentially fraudulent claims and payments.
+  * Find out about the [Audit Commission, National Fraud Initiative and other data matching initiatives](https://web.archive.org/page/council-and-democracy/data-matching).
+
+
+
+5\. We may also use your data to identify, understand and meet the needs of individuals and families who will benefit from a multi- agency response.
+
+  * Find out more about our ‘[Think Family](https://web.archive.org/page/community-and-safety/troubled-families-programme-think-family)’ group who use data to support families in Bristol.
+
+
+
+6\. We may also share your information without asking you if:
 
   * the law says we must
   * there is a risk of serious harm or threat to life.
@@ -43,9 +61,11 @@ We will always ask you before we use it for any other reason or for marketing.
 
 [Request to opt out of the sharing of your basic details](https://web.archive.org/form/request-opt-out-sharing-your-basic-details)
 
+If you've already opted out then you don't need to request again.
+
 ## Why the privacy statement has changed
 
-Information about why the privacy statement has changed in our [frequently asked questions (pdf, 67 KB)(opens new window)](http://www.bristol.gov.uk/sites/default/files/documents/homepage/privacy/privacy-notice-frequently-asked-questions_0.pdf).
+Information about why the privacy statement has changed in our [frequently asked questions (pdf, 282 KB)(opens new window)](http://www.bristol.gov.uk/sites/default/files/documents/homepage/privacy/privacy-notice-frequently-asked-questions_v1.02.pdf).
 
 ## Web statistics
 
@@ -79,7 +99,7 @@ You may view the council's Data Protection Notification by searching for our reg
 
 ## Contact the data protection officer
 
-Email: [foi@bristol.gov.uk](mailto:foi@bristol.gov.uk)
+Email: [data.protection@bristol.gov.uk](mailto:data.protection@bristol.gov.uk)
 
 Post:  
 Data Protection Officer  
