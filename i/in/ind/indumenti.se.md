@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indumenti.se privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121113739id_/http%3A//www.indumenti.se/pages/privacy-policy/7) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indumenti.se privacy policy that was archived on 2015-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150618064128id_/http%3A//www.indumenti.se/pages/privacy-policy/7) for the most accurate reproduction.*
 
 # Security and Privacy Policy | Swedish Mens Shirts and Suits At indumenti
 
@@ -55,4 +55,4 @@ For further information regarding privacy issues please write to:
 
 **Privacy Department**  
 Indumenti  
-Email: [customerservice@indumenti.se](mailto:customerservice@indumenti.se)
+Email: a.indumenti@gmail.com
