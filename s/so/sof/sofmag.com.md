@@ -1,28 +1,26 @@
-> *The following text is extracted and transformed from the sofmag.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122000942id_/http%3A//www.sofmag.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sofmag.com privacy policy that was archived on 2015-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150618121554id_/https%3A//www.sofmag.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Soldier of Fortune Magazine
 
-[Printer Friendly Version](http://www.sofmag.com/print/privacy-policy "Display a printer-friendly version of this page.")[Send to a Friend](http://www.sofmag.com/printmail/2186 "Send this page by email.")
-
- **What information do we collect?**  
+**What information do we collect?**  
 We collect information from you when you register on our site, place an order, subscribe to our newsletter, respond to a survey or fill outa form.
 
 When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number or credit card information. You may, however, visit our site anonymously.
 
-Google, as a third party vendor, uses cookies to serve ads on your site. Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy..
+Google, as a third party vendor, uses cookies to serve ads on your site. Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy..
 
 **What do we use your information for?**  
 Any of the information we collect from you may be used in one of the following ways:  
-_\- To personalize your experience_  
+– To personalize your experience  
 (your information helps us to better respond to your individual needs)  
-_\- To improve our website_  
+– To improve our website  
 (we continually strive to improve our website offerings based on the information and feedback we receive from you)  
-_\- To improve customer service_  
+– To improve customer service  
 (your information helps us to more effectively respond to your customer service requests and support needs)  
-_\- To process transactions_  
+– To process transactions  
 Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.  
-_\- To administer a contest, promotion, survey or other site feature_  
-_\- To send periodic emails_  
+– To administer a contest, promotion, survey or other site feature  
+– To send periodic emails  
 The email address you provide for order processing, may be used to send you information and updates pertaining to your order, in addition to receiving occasional company news, updates, related product or service information, etc.
 
 Note: If at any time you would like to unsubscribe from receiving  
@@ -61,12 +59,9 @@ If we decide to change our privacy policy, we will update the Privacy Policy mod
 This policy was last modified on 6/11/10
 
 **Refund / Replacement Policy**  
-ALL magazine subscription sales (including Digital Content) are final. We do not offer refunds on these products.   
+ALL magazine subscription sales (including Digital Content) are final. We do not offer refunds on these products.  
 If you are not satisfied with any merchandise purchased from our store, you have 30 days from the date of purchase to return the unused product for a full refund or replacement. Buyer is responsible for the shipping costs.  
 Customer satisfaction is our primary goal. If you have questions or suggestions, please contact us.
 
 **Contacting Us**  
 If there are any questions regarding this privacy policy you may contact us using the information below.
-
-[www.sofmag.com](http://www.sofmag.com/)  
-Boulder, CO [privacy@sofmag.com](mailto:privacy@sofmag.com)
