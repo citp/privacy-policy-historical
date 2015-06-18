@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fortumo.com privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123145656id_/http%3A//fortumo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fortumo.com privacy policy that was archived on 2015-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150619001515id_/https%3A//fortumo.com/privacy) for the most accurate reproduction.*
 
-# Mobile Payments in 81 Countries | Fortumo.com
+# Mobile Payments in 89 Countries | Fortumo.com
 
 Effective as of 15 January 2014
 
@@ -13,7 +13,7 @@ Effective as of 15 January 2014
     1. Fortumo collects your information using two approaches. Firstly when voluntarily submitted by you on the Site, in the process of using the Services or provided by you in any communication (e.g. e-mails) to Fortumo and secondly when obtained by Fortumo independently when you use the Site or the Services. The latter includes information which can be legally obtained using current technologies, for example information regarding your operating system, web browser, mobile operator, network connection, the mobile device you use, the mobile payment services that you use, how you use the mobile payment services etc. 
     2. The information that Fortumo collects differs between end users of the Services and merchants (e.g. publishers and developers). For example, from end users Fortumo collects information such as phone number, e-mail address, mobile network provider, type of mobile phone, operating system, payment behavior etc. From merchants Fortumo collects information such as names of representatives, identification details, country of residence, address, e-mail address, phone number, banking details etc. 
     3. Fortumo may collect and process (including automatically process) i) your personal or corporate information (e.g. the names of representatives of merchants, identification data of merchants) primarily to identify you; ii) your contact information (e.g. phone number, e-mail address, preferred language etc.) primarily to provide to you information and offers; iii) your transaction information (e.g. what product or service you purchased, banking details of merchants etc.) primarily to correctly process your transactions; iv) information regarding your preferences (e.g. what products or services you have most frequently purchased) primarily to be able to offer you related products or services and v) information regarding your trustworthiness (e.g. data about payment behavior and violations) primarily for proper risk assessment. 
-    4. Additionally, Fortumo may collect and process the aforementioned information, information related to it and other information regarding you for the following purposeli: 
+    4. Additionally, Fortumo may collect and process the aforementioned information, information related to it and other information regarding you for the following purposes: 
       * deciding whether and on what terms to provide Services;
       * provision of Services and customer support;
       * processing and monitoring of transactions, the payment and billing thereof, and performance of other agreed tasks;
