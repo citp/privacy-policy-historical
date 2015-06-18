@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jetpack.com privacy policy that was archived on 2014-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141228031726id_/http%3A//www.jetpack.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jetpack.com privacy policy that was archived on 2015-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150618082410id_/http%3A//jetpack.com/privacy) for the most accurate reproduction.*
 
 # Jetpack
 
@@ -73,8 +73,6 @@ Although Jetpack does not currently target Jetpack ads based on any known Person
  
 
 If a Viewer changes his or her mind after opting out (because he or she decides receiving tailored advertising is preferable to receiving generic ads), the Viewer can opt in by clicking the Opt-In link below.
-
-Opt-out  
 
 This Opt-Out process provides a Jetpack opt-out cookie to the user's browser. Therefore, if cookies are disabled, erased, or altered, or browser and/or machine software is changed, then the results of this opt-out process may be undone, and the Opt-Out will need to be performed again.
 
