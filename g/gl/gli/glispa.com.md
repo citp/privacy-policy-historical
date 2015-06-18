@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the glispa.com privacy policy that was archived on 2014-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141229173023id_/http%3A//www.glispa.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the glispa.com privacy policy that was archived on 2015-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150618150525id_/http%3A//www.glispa.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy | ‘The Global leader in Performance Marketing for the Digital Entertainment industry
+# Privacy Policy | glispa is a global mobile marketing company that guarantees results
 
 Welcome to the website of glispa (“Site”). We are owned and operated by glispa GmbH (“glispa”). We can be reached via email at privacy@glispamedia.com.
 
