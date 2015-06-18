@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tanga.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627201844id_/https%3A//www.tanga.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tanga.com privacy policy that was archived on 2015-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150618225825id_/https%3A//www.tanga.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Tanga's Privacy Policy - Tanga
 
@@ -27,7 +27,7 @@ From time to time, we may need to make additions or changes to this privacy poli
 If you have comments or questions about our privacy policy, please send them to Tanga at service@tanga.com, or contact:
 
 Tanga.com, LLC  
-2350 E Germann Road  
-Suite 22  
-Chandler, AZ 85286  
+25 S Arizona Place  
+Suite 410  
+Chandler, AZ 85225  
 phone: 435-688-9595
