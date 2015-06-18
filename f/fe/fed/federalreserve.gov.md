@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the federalreserve.gov privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231075015id_/http%3A//www.federalreserve.gov/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the federalreserve.gov privacy policy that was archived on 2015-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150618191825id_/http%3A//www.federalreserve.gov/privacy.htm) for the most accurate reproduction.*
 
 # FRB: Privacy
 
@@ -124,7 +124,7 @@ The Board complies with the E-Government Act of 2002. The Act requires an agency
 
 [CHAT Suite of Analysis Tools (PDF)](https://web.archive.org/files/pia_chat.pdf)
 
-[Consumer Advisory Council Web Nomination System (PDF)](https://web.archive.org/files/pia_cac_wns.pdf)
+[Community Advisory Council Systems (PDF)](https://web.archive.org/files/pia_cac_wns.pdf)
 
 [Consumer Complaint and Inquiry Systems (PDF)](https://web.archive.org/files/pia-ccis.pdf)
 
