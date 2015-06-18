@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wide-wallpapers.net privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227023247id_/http%3A//wide-wallpapers.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wide-wallpapers.net privacy policy that was archived on 2015-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150619012126id_/http%3A//wide-wallpapers.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy widescreen wallpaper | Wide-Wallpapers.NET
 
