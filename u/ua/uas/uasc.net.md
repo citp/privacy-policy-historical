@@ -1,17 +1,13 @@
-> *The following text is extracted and transformed from the uasc.net privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702185459id_/http%3A//www.uasc.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uasc.net privacy policy that was archived on 2015-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150618210312id_/http%3A//www.uasc.net/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | UASC
-
-## You are here
-
-[Home](https://web.archive.org/) » Privacy Policy
 
 [www.uasc.net](http://www.uasc.net/) is the official website of United Arab Shipping Company, S.A.G. (“UASC”)   
 The statements below embody UASC's privacy and data protection policy.
 
   1. When you register at [www.uasc.net](http://www.uasc.net/) UASC collects personal details about you. Personal information such as your name, address, email address and other relevant information is collected via the registration forms.   
 When you visit the site, we also collect web site usage information, information about your computer and internet connection, including your computer's IP address, the type and version of your browser and the operating system you use, your internet domain and, if you arrived at the UASC website via a link from another website, the URL of the linking page.   
-The above information will be used to : 
+The above information will be used to :
     * fulfil orders
     * notify you of relevant new services offered by UASC and additional features introduced in the website from time to time
     * personalize the content and advertising you will see based on your personal characteristics and preferences
