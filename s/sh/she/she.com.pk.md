@@ -1,41 +1,31 @@
-> *The following text is extracted and transformed from the she.com.pk privacy policy that was archived on 2013-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131122102811id_/http%3A//www.she.com.pk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the she.com.pk privacy policy that was archived on 2015-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150618044914id_/http%3A//shes.pk/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | It's All About Girls.
 
-If you need more information about She.com.pk , please Contact Us  
-Any personal information you (“You”/”Member”) give us is treated confidentially and held with care and security.  
-Please read the following statement to understand how we use your personal information. This policy may change from time to time so please check back on a regular basis.  
-**How we gather information:**
+Privacy Policy for she.com.pk
 
-****  
-We will NEVER release your personal information to any other third party without your express permission except for the sole purpose of data verification and supplementation.  
-When we give information to the advertisers, agencies or other companies that participate in the Service, it is in the form of grouped statistics based on members’ information while participating in the Service. The Service is designed to make it impossible for outside companies to extract personal information without your consent.  
-We follow rigorous security protocols within our company to safeguard any personal information you share with us.  
-**How We Use Information:**
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at admin@she.com.pk.
 
-****  
-The personal information you provide is used to customize the Service to your needs. For example, if you select cinema and music as interests, only advertisers with promotions relevant to these interests will be interested in sending you any information on their offering or events.  
-Advertising partners will be able to plan marketing campaigns using aggregate profile data. For example, they could choose to send a promotion to all users of the Service living in Dubai, interested in music and arts. However, they will not be able to access any individual profile data unless you’ve stated so.  
-We may do research and provide reports on our users’ demographics, interests and behavior based on the information provided to us upon registration. This research and reports only relates to groups in general and will never identify you individually. We may share these general statistics with advertisers or partners to enable them to better provide advertisements or offers to members in their areas of interest.  
-How We Share Information  
-We do not sell or rent your information to anyone. Your personal information will not be released to any third party without your express permission except in special circumstances such as when the law requires it or under the circumstances described below.  
-Some advertisements or promotions sent to you as part of the Service may contain options to interact with the sender (e.g. a call back function or a link to a Web site). When you provide information while visiting partner sites, it’s the partner site that collects your personal information. The information practices of these partner companies, advertisers and web sites linked to the She.com.pk Service are not covered by this privacy statement. Please note that the privacy policies of partner sites may differ from those of the Service. We may share our group statistical research and reports with advertisers or partner  
-In the event that this business is sold or integrated with another business your details may be disclosed to our advisers and any prospective purchaser’s advisers and will be passed on to the new owners of the business.
+At she.com.pk, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by she.com.pk and how it is used.
 
-**  
-Changing, Correcting and Updating Information**  
-Members opt-in to receive advertisements and promotions at registration. At any time, you may adjust messages received by updating your personal profile in the Profile section on the website.  
-You can opt-in to receive promotions or offers from advertisers and partners via several technical platforms (e.g. Email, Web). At any time during participation in the Service, you can enable or disable any such platform by updating your personal profile in the Profile section on the Service website.  
-Member Choices For Use Of Information  
-Members can update their own personal account information at any time by updating their personal profile in the Profile section on the Service website.  
-**Consent**  
-By disclosing your personal information on the Service web site, you consent to the collection, storage and processing of your personal information by the Service in the manner set out in this privacy statement.  
-She.com.pk reserves the right to change this Statement, and/or any part thereof, at any time. Any change to the Statement shall be effective upon posting the modified Statement on the Service web site under Privacy Statement and She.com.pk notifying the posting of the modified agreement on the Service web page for a period of 30 days. Member’s non-termination or continued use of Service after this period shall be deemed acceptance of the modified Statement.  
-**Advertisers**  
-We use an outside ad company to display ads on our site. These ads may contain cookies. While we use cookies in other parts of our Web site, cookies received with banner ads are collected by our ad company, and we do not have access to this information.  
-External Links  
-This site contains links to other sites. She.com.pk is not responsible for the privacy practices or the content of such Web sites.  
-**Contacting the Web Site**
+ **Log Files**  
+Like many other Web sites, she.com.pk makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses and other such information are not linked to any information that is personally identifiable.
 
-****  
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can Contact Us
+ **Cookies and Web Beacons**  
+she.com.pk does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser.
+
+ **DoubleClick DART Cookie**  
+.:: Google, as a third party vendor, uses cookies to serve ads on she.com.pk.  
+.:: Google’s use of the DART cookie enables it to serve ads to users based on their visit to she.com.pk and other sites on the Internet.  
+.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – http://www.google.com/privacy_ads.html
+
+Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include ….  
+Google Adsense
+
+These third-party ad servers or ad networks use technology to the advertisements and links that appear on she.com.pk send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
+
+she.com.pk has no access to or control over these cookies that are used by third-party advertisers.
+
+You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. she.com.pk’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
+
+If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
