@@ -1,8 +1,7 @@
-> *The following text is extracted and transformed from the salaryexplorer.com privacy policy that was archived on 2014-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140912115301id_/http%3A//www.salaryexplorer.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the salaryexplorer.com privacy policy that was archived on 2015-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150619015242id_/http%3A//www.salaryexplorer.com/privacy.php) for the most accurate reproduction.*
 
 # Salary Explorer Privacy Policy | Salary Comparison
 
-  
 At Salary Explorer we value your privacy and we realize how sensitive especially when it comes to your earnings. The list below explains how we deal with the information submitted with regards to your privacy. If you have further enquiries please do not hesitate to contact us.
 
 1) Salary Explorer does not collect personal information what so ever. During your visit to our site, you will never be asked for info that could reveal your true identity. 
@@ -13,7 +12,13 @@ At Salary Explorer we value your privacy and we realize how sensitive especially
 
 Security is provided by [ULTSEC](http://www.ultsec.com/)
 
-Nice Stuff, Let's Share 
-
   
+[
 
+Free Business English Course    
+  
+Write better english and boost your career! 
+
+www.lettersandtemplates.com 
+
+](http://www.lettersandtemplates.com/business-english-course.php)
