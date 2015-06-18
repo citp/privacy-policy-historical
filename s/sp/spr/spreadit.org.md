@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the spreadit.org privacy policy that was archived on 2014-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140227081319id_/http%3A//www.spreadit.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spreadit.org privacy policy that was archived on 2015-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150618104849id_/http%3A//www.spreadit.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Spreadit.org
+# Privacy Policy - Breaking Viral News and Opinion on SpreadIt
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at info@spreadit.org.
 
