@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trust-guard.com privacy policy that was archived on 2014-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141129070052id_/http%3A//www.trust-guard.com/terms_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trust-guard.com privacy policy that was archived on 2015-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150618110820id_/http%3A//www.trust-guard.com/terms_privacy.asp) for the most accurate reproduction.*
 
 # Trust Guard Privacy Policy
 
