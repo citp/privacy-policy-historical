@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the linkury.com privacy policy that was archived on 2014-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141224133405id_/http%3A//www.linkury.com/index-8_privacy-html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linkury.com privacy policy that was archived on 2015-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150618040302id_/http%3A//www.linkury.com/index-8_privacy-html) for the most accurate reproduction.*
 
 # Linkury
-
-[](http://clicktoverify.truste.com/pvr.php?page=validate&softwareProgramId=478&sealid=112)
 
 We at Linkury, Inc. and its wholly owned subsidiaries (“Linkury”) are committed to providing web sites and software products that respect the privacy of its visitors and users respectively. This page summarizes the privacy policy and practices for all Linkury Web Sites, as well as for the Linkury software products.
 
