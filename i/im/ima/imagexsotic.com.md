@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the imagexsotic.com privacy policy that was archived on 2014-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141221130743id_/http%3A//imagexsotic.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imagexsotic.com privacy policy that was archived on 2015-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150618020924id_/http%3A//imagexsotic.com/privacy-policy) for the most accurate reproduction.*
 
 # imagexsotic.com HD Images In And Privacy Policy
 
