@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the filma24-al.com privacy policy that was archived on 2014-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140909041451id_/http%3A//www.filma24-al.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the filma24-al.com privacy policy that was archived on 2015-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150618041830id_/http%3A//www.filma24-al.com/privacy-policy.htm) for the most accurate reproduction.*
 
-# None
+# Privacy Policy
 
 ****Personal Information**  
 **[Filma24-Al.com](http://www.filma24-al.com/)**** is committed to protecting your privacy online.   
@@ -46,4 +46,4 @@ and therefore we disclaim any responsibility or liability for their policies or 
 
 Please contact those vendors and others directly if you have any questions about their privacy policies.
 
-**Copyright** © 2013 - 2014 | **Filma24-Al.com** \- Filma dhe Seriale HD
+**Copyright** © 2013 - 2015 | **Filma24-Al.com** \- Filma dhe Seriale HD
