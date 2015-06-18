@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the epcc.edu privacy policy that was archived on 2014-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141218122845id_/http%3A//epcc.edu/Site/Pages/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the epcc.edu privacy policy that was archived on 2015-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150618094825id_/http%3A//epcc.edu/Site/Pages/Privacy.aspx) for the most accurate reproduction.*
 
 # El Paso Community College
 
