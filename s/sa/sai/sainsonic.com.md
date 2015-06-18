@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sainsonic.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625081524id_/http%3A//www.sainsonic.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sainsonic.com privacy policy that was archived on 2015-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150619015354id_/http%3A//www.sainsonic.com/privacy) for the most accurate reproduction.*
 
-# Specialized in Bluetooth, Ultrasonic, IR technologies. Privacy makes from 3D Glasses, Smartphone Accessories, Thermometer to Beauty Machine
+# Privacy
 
 **What information do we collect?**
 
