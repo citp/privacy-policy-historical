@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mycorporation.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627063200id_/http%3A//www.mycorporation.com/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mycorporation.com privacy policy that was archived on 2015-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150619015304id_/http%3A//www.mycorporation.com/privacy.jsp) for the most accurate reproduction.*
 
-# Privacy | MyCorporation®
+# Privacy Policy | MyCorporation®
 
 ## Get more information about our privacy policies.
 
@@ -72,5 +72,3 @@ Should we sell, merge or transfer any part of our business, part of the sale may
 We may use sources outside of MyCorporation to supplement the information you give us. For example, we may validate your address using other sources. We use this data to help us maintain accuracy and provide you with better service.
 
 MyCorporation Business Services Inc. may exchange information about your transactions to fulfill your requests. We may also provide you information about products or services we believe you may be interested in unless you have asked us not to contact you. We offer you the opportunity to review privacy practices at our subsidiaries' Web sites. Please visit Intuit for additional information on our subsidiaries.
-
-Back To Top
