@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sleeknote.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121153531id_/http%3A//sleeknote.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sleeknote.com privacy policy that was archived on 2015-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150618153754id_/http%3A//sleeknote.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | Sleeknote
 
