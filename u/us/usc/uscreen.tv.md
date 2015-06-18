@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the uscreen.tv privacy policy that was archived on 2014-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141012212212id_/http%3A//www.uscreen.tv/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uscreen.tv privacy policy that was archived on 2015-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150618075301id_/http%3A//www.uscreen.tv/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | uScreen
+# Privacy Policy | Uscreen
 
 This privacy policy is intended to inform you about the information and data gathered by X (“us”, “we”) when you use this service, how we store your information, information we collect and to the degree your information may be used.
 
