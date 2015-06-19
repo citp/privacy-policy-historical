@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the abc.net.au privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231193740id_/http%3A//about.abc.net.au/abc-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abc.net.au privacy policy that was archived on 2015-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150619092358id_/http%3A//about.abc.net.au/abc-privacy-policy) for the most accurate reproduction.*
 
 # ABC Privacy Policy | About the ABC
 
@@ -191,9 +191,9 @@ Most cookies are easy to delete, and the Help function within your browser shoul
 
 The ABC uses the following types of cookies:
 
-**Session Computer Browser Cookies -** Session cookies let you move from page to page without the need to repeatedly sign in. For instance, these cookies are used by the ABC Shop website to keep track of things such as what you put in your shopping cart. A session browser cookie is stored in the browser and deleted when the browser shuts down.
+**Session Computer Browser Cookies –** Session cookies let you move from page to page without the need to repeatedly sign in. For instance, these cookies are used by the ABC Shop website to keep track of things such as what you put in your shopping cart. A session browser cookie is stored in the browser and deleted when the browser shuts down.
 
-**Persistent Cookies -** Persistent cookies are used to help us monitor the performance of our digital services by recording your browsing behaviour within the particular digital service.
+**Persistent Cookies –** Persistent cookies are used to help us monitor the performance of our digital services by recording your browsing behaviour within the particular digital service.
 
 These browser cookies can only be read by the company that places the cookies on the computer. Persistent cookies are saved to the hard drive until they expire. Unlike session browser cookies, they are not deleted when the browser is shut down.
 
