@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the waleg.com privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227175105id_/http%3A//www.waleg.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the waleg.com privacy policy that was archived on 2015-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150619070635id_/http%3A//www.waleg.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Waleg.com
 
