@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the code-industry.net privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625090529id_/http%3A//code-industry.net/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the code-industry.net privacy policy that was archived on 2015-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150619094618id_/http%3A//code-industry.net/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy. Code Industry Ltd, Document Conversion Software
 
