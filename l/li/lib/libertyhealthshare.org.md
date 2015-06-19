@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the libertyhealthshare.org privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626014854id_/http%3A//www.libertyhealthshare.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the libertyhealthshare.org privacy policy that was archived on 2015-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150619084758id_/http%3A//www.libertyhealthshare.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Liberty HealthShare
 
@@ -53,10 +53,10 @@
 
 If you have questions or need further assistance regarding this Notice, you may contact:
 
-Liberty HealthShare, Inc.  
+Liberty HealthShareSM  
 Attn: Privacy Request  
-6100 Oak Tree Blvd., Suite 200, Independence, OH 44131  
-(216) 643-2746 or (855) 585-4237, Monday though Friday, 8:30 a.m. to 5 p.m. EST  
+4845 Fulton Dr. NW, Canton, OH 44718  
+(855) 585-4237, Monday though Friday, 8:30 a.m. to 5 p.m. EST  
 
 
 **EFFECTIVE DATE**  
