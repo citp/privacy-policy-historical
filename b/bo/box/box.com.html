@@ -1,7 +1,15 @@
-<!--The following is the downloaded HTML source of the box.com privacy policy that was archived on 2014-10-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141023184748id_/https%3A//www.box.com/legal/privacypolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the box.com privacy policy that was archived on 2015-06-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150619220015id_/https%3A//www.box.com/legal/privacypolicy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ og: http://ogp.me/ns# rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema#"><!--<![endif]--><head>
+<!DOCTYPE html><html lang="en" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ og: http://ogp.me/ns# rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema#"><!--<![endif]--><!--[if gte IE 9]>
+  <style type="text/css">
+    .bg-gray,
+    .main-banner .banner-shadow,
+    .main-banner-content .banner-shadow {
+       filter: none;
+    }
+  </style>
+<![endif]--><head>
   <script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-27GS&amp;l=google_tag_manager_data"></script><script>
 //The following was taken from MSDN: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/indexOf
 if (!Array.prototype.indexOf) {
@@ -70,11 +78,7 @@ if (!Array.prototype.indexOf) {
 </script>  <script>
   window.box_server_domain_tld = "box.com";
   window.box_server = "https://app.box.com";
-</script>    <script>
-var init_redirect_curr_url_lang = "en";
-var init_redirect_language_mapping = {"en":"","en-gb":"en_GB","fr":"fr_FR","de":"de_DE","it":"it_IT","ja":"ja_JP","es":"es_ES"};
 
-(function(){
   function readCookie(name) {
     var nameEQ = name + "=";
     var ca = document.cookie.split(';');
@@ -85,6 +89,7 @@ var init_redirect_language_mapping = {"en":"","en-gb":"en_GB","fr":"fr_FR","de":
     }
     return null;
   }
+
   function createCookie(name,value,days,domain,path) {
     var date = new Date();
     date.setTime(date.getTime()+(days*24*60*60*1000));
@@ -96,8 +101,33 @@ var init_redirect_language_mapping = {"en":"","en-gb":"en_GB","fr":"fr_FR","de":
     if(!path){
       var path = "/";
     }
-    document.cookie = name+"="+value+"; expires="+expires+"; domain="+domain+"; path="+path;
+    document.cookie = name+"="+value+"; expires="+expires+"; domain="+domain+"; path="+path+";secure";
   }
+  window.analyticsData = {};
+</script>    <script>
+var init_redirect_curr_url_lang = "en";
+var init_redirect_language_mapping = {"en":"","en-gb":"en_GB","fr":"fr_FR","de":"de_DE","it":"it_IT","ja":"ja_JP","es":"es_ES"};
+
+(function(){
+
+  function redirectToLocale(langKey,createCookieBool){
+    var langKeyArray = ['en','en-gb','es','fr','it','de','ja']; //ordered to match up with LocaleArray.
+    var localeArray = ['en_US','en_GB','es_ES', 'fr_FR', 'it_IT', 'de_DE', 'ja_JP'];
+    if(langKeyArray.indexOf(langKey) > -1){
+      var locale = localeArray[langKeyArray.indexOf(langKey)];
+      if(createCookieBool){
+        var cookieDomain = document.domain.match(/box\.com$/) ? "box.com" : false;
+        createCookie('box_locale',locale,61,cookieDomain);
+        createCookie('lang',locale.replace('_','-'),61,cookieDomain);      
+      }
+      //do redirection if we aren't already on correct language:
+      if(typeof init_redirect_translation_urls != 'undefined' && typeof init_redirect_translation_urls[langKey] != 'undefined' && init_redirect_curr_url_lang != langKey){
+        window.location.href = init_redirect_translation_urls[langKey];
+        document.getElementsByTagName("html")[0].setAttribute("style","visibility:hidden;");
+      }
+    }                            
+  }
+
   //check for box_locale cookie and redirect to locale if necessary.
   var box_locale_cookie = readCookie('box_locale');
   if (box_locale_cookie){
@@ -110,13 +140,9 @@ var init_redirect_language_mapping = {"en":"","en-gb":"en_GB","fr":"fr_FR","de":
             language_key = 'en';
         }
     }
-    if (language_key != init_redirect_curr_url_lang && typeof init_redirect_translation_urls != 'undefined' && typeof init_redirect_translation_urls[language_key] != 'undefined') {
-      window.location.href = init_redirect_translation_urls[language_key]; 
-      document.getElementsByTagName("html")[0].setAttribute("style","visibility:hidden;");           
-    }    
+    redirectToLocale(language_key, false);
   }
-  else{
-    
+  else{    
     //if the user was not hitting a language-url path, set box_locale cookie based on their accept_language headers using ajax request
     var xmlhttp;
     if (window.XMLHttpRequest){// code for IE7+, Firefox, Chrome, Opera, Safari
@@ -127,60 +153,41 @@ var init_redirect_language_mapping = {"en":"","en-gb":"en_GB","fr":"fr_FR","de":
     }
     xmlhttp.onreadystatechange=function(){
       if (xmlhttp.readyState==4 && xmlhttp.status==200 && xmlhttp.responseText){
-        var primaryLang = xmlhttp.responseText.substring(0,5).toLowerCase();
+        var headers = JSON.parse(xmlhttp.responseText);
+        var primaryLang = headers.acceptLanguage.substring(0,5).toLowerCase();
         var primaryLangStart = primaryLang.substring(0,2);
-        var langArray = ['en_US', 'es_ES', 'fr_FR', 'it_IT', 'de_DE', 'ja_JP']; //neglecting Britain becasue it is handled individually below. All other enlish speaking should set US as box_locale cookie
-        var langStarts = ['en','es','fr','it','de','ja']; //orderd to match up with LangArray.
-        if(primaryLang == 'en-gb'){
-          createCookie('box_locale','en_GB',61,document.domain.match(/box.com/) ? "box.com" : false);
-          createCookie('lang','en-GB',61,document.domain.match(/box.com/) ? "box.com" : false);
-          //do redirection if we aren't already on correct language:
-          if(typeof init_redirect_translation_urls != 'undefined' && typeof init_redirect_translation_urls[primaryLang] != 'undefined' && init_redirect_curr_url_lang != 'en-gb'){
-            window.location.href = init_redirect_translation_urls[primaryLang];
-          }                            
+        var langStarts = ['en','es','fr','it','de','ja'];
+        var countryCode = headers.countryCode;
+        //countryCode.match(/^[A-Z]{2}$/) ? createCookie('CTRY', countryCode, 5, document.domain) : createCookie('CTRY', 'US', 5, document.domain);
+        var euroNonFIGSCountries = ['GB', 'AL','AD','AM','AT','AZ','BY','BE','BA','BG','HR','CY','CZ','DK','EE','FI','GE','GR','VA','HU','IS','IE','XK',
+                                     'LV','LI','LT','LU','MK','MT','MD','MC','ME','NL','NO','PL','PT','RO','RU','SM','RS','SK','SI','SE','CH','TR','UA'];  
+        if(primaryLang == 'en-gb' || (countryCode && euroNonFIGSCountries.indexOf(countryCode) > -1)){
+          redirectToLocale('en-gb', true);
         }
         else if(langStarts.indexOf(primaryLangStart) > -1){
-          createCookie('box_locale',langArray[langStarts.indexOf(primaryLangStart)],61,document.domain.match(/box.com/) ? "box.com" : false);
-          createCookie('lang',langArray[langStarts.indexOf(primaryLangStart)].replace('_','-'),61,document.domain.match(/box.com/) ? "box.com" : false);          
-          //do redirection if we aren't already on correct language:
-          if(typeof init_redirect_translation_urls != 'undefined' && typeof init_redirect_translation_urls[primaryLangStart] != 'undefined' && init_redirect_curr_url_lang != primaryLangStart){
-            window.location.href = init_redirect_translation_urls[primaryLangStart];
-            document.getElementsByTagName("html")[0].setAttribute("style","visibility:hidden;");
-          }          
+          redirectToLocale(primaryLangStart, true);
         }
       }
     }
     xmlhttp.open("GET","/headers.php",true); //true for asynchronous
     xmlhttp.send();
-
-    //check if a language url is being used. If so, simply set the box_locale cookie to that url and don't do a redirect
-    if (init_redirect_language_mapping[init_redirect_curr_url_lang]) {
-      box_locale_cookie = init_redirect_language_mapping[init_redirect_curr_url_lang];
-    } else {
-      box_locale_cookie = 'en_US';
-    }
-    createCookie('box_locale',box_locale_cookie,61,document.domain.match(/box.com/) ? "box.com" : false);
-    createCookie('lang',box_locale_cookie.replace('_','-'),61,document.domain.match(/box.com/) ? "box.com" : false);
-
-
   }
 })();
 </script>
-  <meta charset="utf-8">
-<meta name="generator" content="Drupal 7 (http://drupal.org)">
-<link rel="canonical" href="https://www.box.com/legal/privacypolicy/">
-<link rel="shortcut icon" href="https://ak3.boxcdn.net/cdn/farfuture/QdmgfvzSQDvOM4iM0-SSPSeCt_ZpRo6PdAMEa7zI1Cc/mtime:1407813871/sites/all/themes/at-box/favicon.ico?v1" type="image/vnd.microsoft.icon">
-<meta about="/legal/privacypolicy/" property="sioc:num_replies" content="0" datatype="xsd:integer">
-<meta name="description" content="You are viewing the Privacy Policy for the following region: United States - English. Select your region and preferred language: United States - English日本 - 日本語EnglishFrançaisItalianoEspañolDeutsch &nbsp;">
-<meta content="Box Privacy Policy" about="/legal/privacypolicy/" property="dc:title">
-<link rel="dns-prefetch" href="//ak1.boxcdn.net">
-<meta http-equiv="x-dns-prefetch-control" content="on">
-<link rel="dns-prefetch" href="//ak3.boxcdn.net">
+  <!--[if IE]><![endif]-->
+<meta charset="utf-8">
+<meta name="globalsign-domain-verification" content="wkrz5xJJd5bhADw6W3WazRXrhUTL4c0MuYp3frvlrt"><link rel="dns-prefetch" href="//ak3.boxcdn.net">
 <link rel="dns-prefetch" href="//ak2.boxcdn.net">
+<meta http-equiv="x-dns-prefetch-control" content="on">
+<link rel="dns-prefetch" href="//ak1.boxcdn.net">
+<link rel="shortcut icon" href="https://ak3.boxcdn.net/cdn/farfuture/ziZa699K0AlNGLVTqwORF87YSXDKBs8TC1z7ZQhpp1E/mtime:1430128929/sites/all/themes/at-box/favicon.ico?v1" type="image/vnd.microsoft.icon">
+<meta name="description" content="You are viewing the Privacy Policy for the following region: United States - English. Select your region and preferred language: United States - English日本 - 日本語EnglishFrançaisItalianoEspañolDeutsch &nbsp;">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="MobileOptimized" content="width">
 <meta name="HandheldFriendly" content="true">
 <meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="generator" content="Drupal 7 (http://drupal.org)">
+<link rel="canonical" href="https://www.box.com/legal/privacypolicy/">
   <meta name="format-detection" content="telephone=no">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="msvalidate.01" content="F8FE1761F555F2445E3932D23C0B2BB6">
@@ -188,35 +195,31 @@ var init_redirect_language_mapping = {"en":"","en-gb":"en_GB","fr":"fr_FR","de":
 <!--   <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1.0, maximum-scale=1.0"> -->
   <title>
     Box Privacy Policy | Box  </title>
-  <link type="text/css" rel="stylesheet" href="https://ak2.boxcdn.net/cdn/farfuture/TzSKx7SaT26Ir3FxEnYd0TPkiHQel9o4Vh3Umd5waDY/mtime:1411884033/sites/default/files/cdn/css/http/css_mhGj6N2cEjI-irTOnjQDCNtP9tAGqNtYZcKU1SqKdYY.css" media="all">
-<link type="text/css" rel="stylesheet" href="https://ak2.boxcdn.net/cdn/farfuture/sWePgVvn2jmsMwF9bAWnqA84uaIk8mpJ5fAtd6rzlJY/mtime:1413871232/sites/default/files/cdn/css/http/css_Ai6CA0PFH70COfg7qdg8UWju3oIYtKB5xSSx76jSMq8.css" media="all">
-<link type="text/css" rel="stylesheet" href="https://ak2.boxcdn.net/cdn/farfuture/ycd6qPwmduK0iV2BMgV15EjzPF5KRd4THgWFgnewlts/mtime:1413424858/sites/default/files/cdn/css/http/css_oZPBXdVYGzgKutiNdmJegwMrc9QcPS0pMYEAPC5lKgE.css" media="screen">
-<link type="text/css" rel="stylesheet" href="https://ak2.boxcdn.net/cdn/farfuture/7G4DKx4A9VYH7dseg7O-co5x-aNxM_PWUii9mLFxPsY/mtime:1411714828/sites/default/files/cdn/css/http/css_xONfwmiEK4GM8JiiITyxWLvZ_RmiOqAiPiIjQU7GBT0.css" media="only screen">
+  <link type="text/css" rel="stylesheet" href="https://ak2.boxcdn.net/sites/default/files/advagg_css/css__iGa4nbmQCXBHA3NPF2G3x6UGyp9pWa6gI1EvtmJWWxo__UYFWJU2uQHCJjVtW5jWXGuOKM6O_PVVGOwrryiVIR3I__5FXfPZbC7efPyUPKDgAk9BI0OuVt_du_3p-PhwKf7ac.css" media="all">
+<link type="text/css" rel="stylesheet" href="https://ak2.boxcdn.net/sites/default/files/advagg_css/css__4vcbKTMuIueK2PN1_E-yXGXrKZdMysbsGnI7enqUls8__oG9DYcHNclWPyJGHLzIyfl-3XO-MULhfjqfVdHU4J48__5FXfPZbC7efPyUPKDgAk9BI0OuVt_du_3p-PhwKf7ac.css" media="screen">
+<link type="text/css" rel="stylesheet" href="https://ak2.boxcdn.net/sites/default/files/advagg_css/css__47lYumeniBsq6_K2cVuMNzbdLWlyaQLB5v2tQVcxpwI__dA4R_7tk2PTALUM03cwWVxf_3YKwfepKuoPkcwM8R2k__5FXfPZbC7efPyUPKDgAk9BI0OuVt_du_3p-PhwKf7ac.css" media="only screen">
 
 <!--[if (lt IE 9)&(!IEMobile 7)]>
-<link type="text/css" rel="stylesheet" href="https://ak2.boxcdn.net/cdn/farfuture/jVVACttO1PXaeWtGSmYMY7WWbhNDvgvFDikio-j5KhA/mtime:1411714828/sites/default/files/cdn/css/http/css_0ga0v-GSQbkQbYK37gzN-k3ZnS3LdLFiqsHJiKmMpqs.css" media="screen" />
+<link type="text/css" rel="stylesheet" href="https://ak2.boxcdn.net/sites/default/files/advagg_css/css__IgNisRtOvuFOR5bGRRHh8-bp9wT9bZ9Fd7FluohzDmA__KYbzxu9qMnc6aWAC2DSMQVkLwUjrTtFgkjtu5guILrE__5FXfPZbC7efPyUPKDgAk9BI0OuVt_du_3p-PhwKf7ac.css" media="screen" />
 <![endif]-->
-<link type="text/css" rel="stylesheet" href="https://ak2.boxcdn.net/cdn/farfuture/poeVVM4u6C7GMVblARDQwOlKlVLEkUUI-uMfjDEaPmk/mtime:1413060879/sites/default/files/cdn/css/http/css_RqO_Yw9t_8UPDqdumL5z-NERElIJw7m-8vO_xsPFev8.css" media="all">
-  <script src="https://ak1.boxcdn.net/cdn/farfuture/wbldhS_UuV3JeTrOMckDG7qShYjMIJooriTUInBaZiM/mtime:1411622305/sites/default/files/js/js_YG98FuAkznGpfUVD7la3EObWLhNr4zOIqZcdXzZxHVI.js"></script>
-<script src="https://ak1.boxcdn.net/cdn/farfuture/fsLkSuHuuZ2_p3rjwqF8UGdb6uLCN-0ms1pnQC90Bpw/mtime:1411622305/sites/default/files/js/js_MgXaJQm0CGlCfpKQobpNudA7bRlOxVd3S12qTGfC5-o.js"></script>
-<script src="https://ak1.boxcdn.net/cdn/farfuture/F7vHrB9IBGK_1qXhSiH9S-OSyGiyk7MUJ45Q3SfA8SQ/mtime:1412648830/sites/default/files/js/js_JP9o0BS_eSUHvcz5QS9kx4oDB-Bdi6sw9sANa6eKyfE.js"></script>
-<script src="https://ak1.boxcdn.net/cdn/farfuture/bfJm6WIBM3wY5IFlB3IekCK3DO-Osu6sk00SB0KMk0s/mtime:1411696850/sites/default/files/js/js_Saep0soi5WjtI8PnwMbKJN_QsOQ-ole7hw0TBCIEhyc.js"></script>
-<script src="https://ak1.boxcdn.net/cdn/farfuture/yQpCJkKYll8rcq2AEPT771olgsrkdC5GuFLyo0CEKJw/mtime:1411622511/sites/default/files/js/js_jTKMJbC9MiCf-Y9U0e1CwWcD_vwgPummrtPWu_WdI2o.js"></script>
-<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"at_box","theme_token":"A1AYhkV8VGqsUCvhIgvEm7V2CU-G66ghJ_sitamRvKg","js":{"profiles\/spark\/modules\/contrib\/jquery_update\/replace\/jquery\/1.8\/jquery.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/contrib\/administration\/admin_menu\/admin_devel\/admin_devel.js":1,"sites\/all\/modules\/contrib\/media\/om_maximenu\/js\/om_maximenu.js":1,"sites\/all\/modules\/custom\/be\/js\/countrycookie.js":1,"profiles\/spark\/modules\/contrib\/panels\/js\/panels.js":1,"sites\/all\/themes\/at-box\/scripts\/libs\/modernizr-2.5.3.min.js":1,"sites\/all\/themes\/at-box\/scripts\/jquery.menudropdown.js":1,"sites\/all\/themes\/at-box\/scripts\/sub-nav.js":1,"sites\/all\/themes\/at-box\/scripts\/jquery.bxslider.min.js":1,"sites\/all\/themes\/at-box\/scripts\/jquery.slides.min.js":1,"sites\/all\/themes\/at-box\/scripts\/google-analytic-global.js":1,"sites\/all\/themes\/at-box\/scripts\/ga-header-footer.js":1,"sites\/all\/themes\/at-box\/scripts\/components-control.js":1,"sites\/all\/themes\/at-box\/scripts\/libs\/jquery.cookie.js":1,"sites\/all\/themes\/at-box\/scripts\/page-blank.js":1,"sites\/all\/themes\/at-box\/scripts\/libs\/utility.js":1,"sites\/all\/themes\/at-box\/scripts\/custom.js":1},"css":{"sites\/all\/modules\/contrib\/fields\/date\/date_api\/date.css":1,"sites\/all\/modules\/contrib\/fields\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/contrib\/media\/om_maximenu\/css\/om_maximenu.css":1,"sites\/all\/modules\/contrib\/fields\/unlimitedfield_remove\/unlimitedfield_remove.css":1,"profiles\/spark\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/custom\/be\/css\/eu_cookie_compliance.css":1,"profiles\/spark\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/spark\/modules\/contrib\/panels\/css\/panels.css":1,"sites\/all\/modules\/contrib\/media\/om_maximenu\/skin\/bubble\/bubble.css":1,"sites\/all\/themes\/adaptivetheme\/at_core\/css\/at.layout.css":1,"sites\/all\/themes\/at-box\/css\/global.base.css":1,"sites\/all\/themes\/at-box\/css\/global.styles.css":1,"sites\/all\/themes\/at-box\/css\/global.buttons.css":1,"sites\/all\/themes\/at-box\/css\/footer.css":1,"sites\/all\/themes\/at-box\/css\/global.banner.css":1,"sites\/all\/themes\/at-box\/css\/menu-language.css":1,"public:\/\/adaptivetheme\/at_box_files\/at_box.responsive.layout.css":1,"public:\/\/adaptivetheme\/at_box_files\/at_box.responsive.styles.css":1,"public:\/\/adaptivetheme\/at_box_files\/at_box.lt-ie9.layout.css":1,"sites\/all\/themes\/at-box\/css\/page-blank.css":1,"sites\/all\/themes\/at-box\/css\/global.fonts.css":1,"sites\/all\/themes\/at-box\/css\/custom.css":1}},"home_urls":{"en":"https:\/\/www.box.com\/","en-gb":"https:\/\/www.box.com\/en_GB\/","fr":"https:\/\/www.box.com\/fr_FR\/","de":"https:\/\/www.box.com\/de_DE\/","it":"https:\/\/www.box.com\/it_IT\/","ja":"https:\/\/www.box.com\/ja_JP\/","es":"https:\/\/www.box.com\/es_ES\/"},"curr_language":"en","language_mapping":{"en":"","en-gb":"en_GB","fr":"fr_FR","de":"de_DE","it":"it_IT","ja":"ja_JP","es":"es_ES"}});</script>
+<link type="text/css" rel="stylesheet" href="https://ak2.boxcdn.net/sites/default/files/advagg_css/css__C0BB8eKmbJhECPQx4ARcv0dZwA08YZwe7aGTlmTGTvE__-nyTKP23qkXRQNozM0MwYVbRESzJ3hNUDZpxeFXSlVk__5FXfPZbC7efPyUPKDgAk9BI0OuVt_du_3p-PhwKf7ac.css" media="all">
+  <script src="https://ak1.boxcdn.net/sites/default/files/advagg_js/js__jGfr-z48ZirLL12EDvReR-YRbZ4N6vPtvjD3lseF4Qk__vo45cxcOoDarkBTYGEh39VuZFoopE760nvo0rswn-qI__5FXfPZbC7efPyUPKDgAk9BI0OuVt_du_3p-PhwKf7ac.js"></script>
+<script>document.createElement("picture");</script>
+<script src="https://ak1.boxcdn.net/sites/default/files/advagg_js/js__6rZEEuiAV5lIb9C4YE4qIx5TVAhl-Hvsx5yDGo-iCvM__oMP1WIwpAUjaZe1ARUSMQkJKLG-aR-R3iHxCS5ZPAKY__5FXfPZbC7efPyUPKDgAk9BI0OuVt_du_3p-PhwKf7ac.js"></script>
+<script>jQuery.extend(Drupal.settings,{"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"at_box","theme_token":"WaDxUm16KnnpNIa272Mct0a09kdY7INglXYKjKpEl3U","css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/comment\/comment.css":1,"sites\/all\/modules\/contrib\/fields\/date\/date_api\/date.css":1,"sites\/all\/modules\/contrib\/fields\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"sites\/all\/modules\/contrib\/media\/om_maximenu\/css\/om_maximenu.css":1,"sites\/all\/modules\/contrib\/picture\/picture_wysiwyg.css":1,"modules\/search\/search.css":1,"sites\/all\/modules\/contrib\/fields\/unlimitedfield_remove\/unlimitedfield_remove.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/contrib\/panels\/css\/panels.css":1,"sites\/all\/modules\/contrib\/fields\/wysiwyg_linebreaks\/wysiwyg_linebreaks.css":1,"sites\/all\/modules\/contrib\/media\/om_maximenu\/skin\/bubble\/bubble.css":1,"sites\/all\/themes\/adaptivetheme\/at_core\/css\/at.layout.css":1,"sites\/all\/themes\/at-box\/css\/global.base.css":1,"sites\/all\/themes\/at-box\/css\/global.styles.css":1,"sites\/all\/themes\/at-box\/css\/global.buttons.css":1,"sites\/all\/themes\/at-box\/css\/footer.css":1,"sites\/all\/themes\/at-box\/css\/global.banner.css":1,"sites\/all\/themes\/at-box\/css\/menu-language.css":1,"public:\/\/adaptivetheme\/at_box_files\/at_box.responsive.layout.css":1,"public:\/\/adaptivetheme\/at_box_files\/at_box.responsive.styles.css":1,"public:\/\/adaptivetheme\/at_box_files\/at_box.lt-ie9.layout.css":1,"sites\/all\/themes\/at-box\/css\/page-blank.css":1,"sites\/all\/themes\/at-box\/css\/global.fonts.css":1,"sites\/all\/themes\/at-box\/css\/custom.css":1},"js":{"sites\/all\/modules\/contrib\/picture\/picturefill2\/picturefill.min.js":1,"sites\/all\/modules\/contrib\/picture\/picture.min.js":1,"sites\/all\/modules\/custom\/be_snapengage\/js\/snapengage.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/jquery\/1.8\/jquery.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/contrib\/administration\/admin_menu\/admin_devel\/admin_devel.js":1,"sites\/all\/modules\/contrib\/media\/om_maximenu\/js\/om_maximenu.js":1,"sites\/all\/themes\/at-box\/scripts\/libs\/modernizr-2.5.3.min.js":1,"sites\/all\/themes\/at-box\/scripts\/jquery.menudropdown.js":1,"sites\/all\/themes\/at-box\/scripts\/sub-nav.js":1,"sites\/all\/themes\/at-box\/scripts\/jquery.bxslider.min.js":1,"sites\/all\/themes\/at-box\/scripts\/jquery.slides.min.js":1,"sites\/all\/themes\/at-box\/scripts\/google-analytic-global.js":1,"sites\/all\/themes\/at-box\/scripts\/ga-header-footer.js":1,"sites\/all\/themes\/at-box\/scripts\/components-control.js":1,"sites\/all\/themes\/at-box\/scripts\/libs\/jquery.cookie.js":1,"sites\/all\/themes\/at-box\/scripts\/page-blank.js":1,"sites\/all\/themes\/at-box\/scripts\/libs\/utility.js":1,"sites\/all\/themes\/at-box\/scripts\/custom.js":1}},"home_urls":{"en":"https:\/\/www.box.com\/","en-gb":"https:\/\/www.box.com\/en_GB\/","fr":"https:\/\/www.box.com\/fr_FR\/","de":"https:\/\/www.box.com\/de_DE\/","it":"https:\/\/www.box.com\/it_IT\/","ja":"https:\/\/www.box.com\/ja_JP\/","es":"https:\/\/www.box.com\/es_ES\/"},"curr_language":"en","language_mapping":{"en":"","en-gb":"en_GB","fr":"fr_FR","de":"de_DE","it":"it_IT","ja":"ja_JP","es":"es_ES"}});</script>
   <!--[if lte IE 9]>
-<script src="https://ak1.boxcdn.net/cdn/farfuture/aHax5vVXaMFmnbVw5D3F4qycn2bDyXMeFRx6GwBHcBo/mtime:1407813871/sites/all/themes/at-box/scripts/libs/css3-mediaqueries.js?ndiunf"></script>
-<script src="https://ak1.boxcdn.net/cdn/farfuture/yMXkqcqyqkfHyTuPbxskRzj2-0cLMY7PccUB4S_yU10/mtime:1407813871/sites/all/themes/at-box/scripts/libs/oocss.js?ndiunf"></script>
-<script src="https://ak1.boxcdn.net/cdn/farfuture/2WvOC09zdmnnZ-METroszpq-S7NU43zl1OPi5v_z2kQ/mtime:1407813871/sites/all/themes/at-box/scripts/resizeIE8.js?ndiunf"></script>
+<script src="https://ak1.boxcdn.net/cdn/farfuture/1vGvrcUncmuQXlVf9FYyIjRNOMEaXKpaxXgIZ2gKVqI/mtime:1430128929/sites/all/themes/at-box/scripts/libs/css3-mediaqueries.js?nq5m41"></script>
+<script src="https://ak1.boxcdn.net/cdn/farfuture/sIXyJwlGcBpJdogZ9nUR488ORjfERjsmzUpRikcKZAE/mtime:1430128929/sites/all/themes/at-box/scripts/libs/oocss.js?nq5m41"></script>
+<script src="https://ak1.boxcdn.net/cdn/farfuture/rhZqDl0GRIf4fR6iQe94GmHZ20uPSpulYJYBa5zRLi8/mtime:1430128929/sites/all/themes/at-box/scripts/resizeIE8.js?nq5m41"></script>
 <![endif]-->
 
 <!--[if lt IE 9]>
-<script src="https://ak1.boxcdn.net/cdn/farfuture/LWWAaC0jOJdTTx9e2hhPqi3Y2g3ZN5yNMmSj39HYnd4/mtime:1407813871/sites/all/themes/adaptivetheme/at_core/scripts/html5.js?ndiunf"></script>
+<script src="https://ak1.boxcdn.net/cdn/farfuture/l5uXvsLYUuyuDWLfDHwS5pmLdp5RyGwehsZs2fXw004/mtime:1430128929/sites/all/themes/adaptivetheme/at_core/scripts/html5.js?nq5m41"></script>
 <![endif]-->
-  
-</head>
+    <script src="https://assets.adobedtm.com/1faedc806e38f986c51b7dc7c5cb49a40708fdca/satelliteLib-3f6f7433334fd8e721141048ec39aefe3aad2129.js"></script></head>
 <body class="html not-front not-logged-in one-sidebar sidebar-first page-node page-node- page-node-3246 node-type-page-blank i18n-en">
 
-  <!-- Google Tag Manager -->
+    <!-- Google Tag Manager -->
   <script>
     var google_tag_manager_data = [];
   </script>
@@ -274,6 +277,7 @@ var init_redirect_language_mapping = {"en":"","en-gb":"en_GB","fr":"fr_FR","de":
 					<li>33 Across - <a href="http://optout.33across.com/">http://optout.33across.com/</a></li>
 					<li>App Nexus – <a href="http://appnexus.com/platform-policy">http://appnexus.com/platform-policy</a></li>
 					<li>Google AdSense - <a href="http://www.google.com/policies/technologies/ads/">http://www.google.com/policies/technologies/ads/</a></li>
+					<li>Bizo - <a href="http://www.bizo.com/opt-out/">http://www.bizo.com/opt-out/</a></li>
 				</ul>
 			</li>
 		</ul>
@@ -302,7 +306,7 @@ var init_redirect_language_mapping = {"en":"","en-gb":"en_GB","fr":"fr_FR","de":
 		<ul>
 			<li><strong>Vendors, Consultants and Other Service Providers:</strong> We may share your information with third-party vendors, consultants and other service providers who are working on our behalf and require access to your information to carry out that work, such as to process billing, provide customer support, etc.</li>
 			<li><strong>Corporate Account:</strong> If you are an individual Box registered user and the domain of the primary email address associated with your Box account is owned by your employer and was assigned to you as an employee of that organization, and such organization wishes to establish a Box corporate account, then certain information concerning past use of your individual account may become accessible to that organization’s administrator including your email address.</li>
-			<li><strong>For Collaboration:</strong> We may share your information, including when you choose to use collaboration features in the Box Services that by their nature support sharing with third parties who you choose. Your name, email address, information from your profile and online account (including your photo), and any Content you choose to share will be shared with such third parties, and such third parties may communicate with you (such as by posting comments or emailing you) in connection with your use of the collaboration features of the Box Services. For example, third parties who you invite to collaborate with you as "Editors" using the collaboration features of the Box Services may also modify Content that you have shared, upload documents and photos to Content you have shared, share such Content outside of the Box Services, and provide other third parties with rights to view the Content you have shared.</li>
+			<li><strong>For Collaboration:</strong> We may share your information, including when you choose to use collaboration features in the Box Services that by their nature support sharing with third parties who you choose. Your name, email address, information from your profile and online account (including your photo), and any Content you choose to share will be shared with such third parties, and such third parties may communicate with you (such as by posting comments or emailing you) in connection with your use of the collaboration features of the Box Services. For example, third parties who you invite to collaborate with you as &amp;quot;Editors&amp;quot; using the collaboration features of the Box Services may also modify Content that you have shared, upload documents and photos to Content you have shared, share such Content outside of the Box Services, and provide other third parties with rights to view the Content you have shared.</li>
 			<li><strong>Third Party Applications:</strong> Box provides you with opportunities to connect with third-party applications or services, such as through our Box One Cloud or Box application partner ecosystem. If you choose to use any such third-party applications or services, we may share information about you including your username and any Content you choose to use in connection with those applications and services, and such third parties may contact you directly as necessary. This Privacy Policy does not apply to your use of such third-party applications and services, and we are not responsible for how those third parties collect, use and disclose your information and Content. We encourage you to review the privacy policies of those third parties before connecting to or using their applications or services to learn more about their information and privacy practices.</li>
 			<li><strong>Compliance with Laws:</strong> We may disclose your information to a third party if (a) we believe that disclosure is reasonably necessary to comply with any applicable law, regulation, legal process or governmental request, (b) to enforce our agreements, policies and Terms of Service, (c) to protect the security or integrity of the Box Services, (d) to protect Box, our customers or the public from harm or illegal activities, or (e) to respond to an emergency which we believe in the good faith requires us to disclose information to assist in preventing the death or serious bodily injury of any person.</li>
 			<li><strong>Business Transfers:</strong> We may share or transfer your information in connection with, or during negotiations of, any merger, sale of company assets, financing, or acquisition of all or a portion of our business to another company.</li>
@@ -310,6 +314,8 @@ var init_redirect_language_mapping = {"en":"","en-gb":"en_GB","fr":"fr_FR","de":
 		</ul>
 		<h3>Collaboration and Sharing Features</h3>
 		<p>The Box Services offers collaboration features or other integrated tools, which allow you to share your Content through the Box Services. As a function of the collaborative nature of the Box Services and based on the permissions and settings you choose, the use of such features enables the sharing of Content with people you want to collaborate with or with the public. You can choose to change your settings at any time for a file or folder through your account. For more information about such collaboration and sharing features, we encourage you to review the information provided on <a href="https://support.box.com">support.box.com</a>.</p>
+		<p>&nbsp;</p>
+		<p>&nbsp;</p>
 		<h3>Privacy Seals</h3>
 		<div id="f3a8f8a9-6b49-458e-ae96-61f7c69091d1" style="float:left; margin-right:20px"><a href="https://privacy.truste.com/privacy-seal/Box,-Inc-/validation?rid=b06d92fc-f973-4e45-9644-4214cb807f59" target="_blank" title="TRUSTe European Safe Harbor certification"><img alt="TRUSTe European Safe Harbor certification" src="https://privacy-policy.truste.com/privacy-seal/Box,-Inc-/seal?rid=b06d92fc-f973-4e45-9644-4214cb807f59" style="border: none"></a></div>
 		<div id="b3cda421-a2a1-4119-a54f-d897f21b2f58"><script type="text/javascript" src="//privacy-policy.truste.com/privacy-seal/Box,-Inc-/asc?rid=b3cda421-a2a1-4119-a54f-d897f21b2f58"></script><a href="//privacy.truste.com/privacy-seal/Box,-Inc-/validation?rid=952e4c76-53c4-40d2-a5f5-b10978285b93" target="_blank" title="Validate TRUSTe privacy certification"><img alt="Validate TRUSTe privacy certification" src="//privacy-policy.truste.com/privacy-seal/Box,-Inc-/seal?rid=952e4c76-53c4-40d2-a5f5-b10978285b93" style="border: none"></a></div>
@@ -349,7 +355,9 @@ var init_redirect_language_mapping = {"en":"","en-gb":"en_GB","fr":"fr_FR","de":
 	</div>
 </div>
 <p>&nbsp;</p>
-</div>          </div>
+</div>      <script src="https://ak1.boxcdn.net/sites/default/files/advagg_js/js__GM3GJPR36rRIz0TRkjC5OQwrioSyN9aoYRivDhCO_AM__JZCpPakXkFLYjJg3kTnhVF9WBCB5h0gPtdX48zoqqIc__5FXfPZbC7efPyUPKDgAk9BI0OuVt_du_3p-PhwKf7ac.js" async="async"></script>
+<script src="https://ak1.boxcdn.net/sites/default/files/advagg_js/js__CZHjQbuAehq8LjMXowCwxnblK2mzq5oC7W2cw0ZSrV0__FE46RQOWCIP9Zmv9Vfc7EnY7OcUROlpeX_RorAgnXpw__5FXfPZbC7efPyUPKDgAk9BI0OuVt_du_3p-PhwKf7ac.js"></script>
+    </div>
   </div>
-  
+    
 </body></html>
