@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the neamb.com privacy policy that was archived on 2014-11-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141121182833id_/http%3A//www.neamb.com/privacy-policy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the neamb.com privacy policy that was archived on 2015-06-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150619063915id_/http%3A//www.neamb.com/privacy-policy.htm) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class=" js no-touch svg inlinesvg svgclippaths no-ie8compat js no-touch svg inlinesvg svgclippaths no-ie8compat" lang="en" style=""><!--<![endif]--><head><!-- PageID 3817 - published by Open Text Web Solutions 10.1 - 10.1.2.365 - 37052 -->
         <title>
@@ -20,7 +20,7 @@
 <!--[if lt IE 9]>
     <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
 <![endif]-->
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script src="/assets/javascripts/modernizr.foundation.js"></script>
+<script type="text/javascript" async="" src="https://www.google.com/cse/cse.js?cx=005976631982810751451:cnccsv6rnzu"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script src="/assets/javascripts/modernizr.foundation.js"></script>
 <!-- Included JS Files (Compressed) -->
 <script src="/assets/javascripts/jquery.js"></script>
 <script src="/assets/javascripts/foundation.min.js"></script>
@@ -59,6 +59,39 @@
                 <div class="row top-header">
                     
 
+        <div style="display:none;">    
+            <!-- init load sso iframes -->
+            <iframe id="ifb-academyssso" src="http://www.neaacademy.org/ls/dynaments/ssosessionlogin.xml?ssosid=undefined&amp;jsessionid=undefined"></iframe>
+            <iframe id="ifb-mbsso-main" src="http://www.neamb.com/xchg/neamb/dynaments/ssosessionlogin.xml?ssosid=undefined&amp;jsessionid=undefined"></iframe>
+            <iframe id="ifb-mbsso-mobile" src="http://m.neamb.com/xchg/neamb/dynaments/ssosessionlogin.xml?ssosid=undefined&amp;jsessionid=undefined"></iframe>
+            <iframe id="ifb-mbsso-secure" src=" https://secure.neamb.com/xchg/neamb/dynaments/ssosessionlogin.xml?ssosid=undefined&amp;jsessionid=undefined"></iframe>
+            <iframe id="ifb-mbsso-secure-mobile" src="https://m.secure.neamb.com/xchg/neamb/dynaments/ssosessionlogin.xml?ssosid=undefined&amp;jsessionid=undefined"></iframe>
+            <script>
+function loadSSOFrames(){
+    var jid = read_cookie('JSESSIONID');
+    var rid = read_cookie('RDLSID_neamb');
+    var academy_url = 'http://www.neaacademy.org/ls/dynaments/ssosessionlogin.xml';
+    var url_main = 'http://www.neamb.com/xchg/neamb/dynaments/ssosessionlogin.xml';
+    var url_mobile = 'http://m.neamb.com/xchg/neamb/dynaments/ssosessionlogin.xml';
+    var url_secure = ' https://secure.neamb.com/xchg/neamb/dynaments/ssosessionlogin.xml';
+    var url_secure_mobile = 'https://m.secure.neamb.com/xchg/neamb/dynaments/ssosessionlogin.xml';
+    var append = '?ssosid=' + rid + '&jsessionid=' + jid;
+    $('#ifb-academyssso').attr('src', academy_url + append);
+    $('#ifb-mbsso-main').attr('src', url_main + append);
+    $('#ifb-mbsso-mobile').attr('src', url_mobile + append);
+    $('#ifb-mbsso-secure').attr('src', url_secure + append);
+    $('#ifb-mbsso-secure-mobile').attr('src', url_secure_mobile + append); 
+}
+                            
+$(document).ready(function(){
+    setTimeout(loadSSOFrames, 100);
+    setTimeout(loadSSOFrames, 2000);
+    setTimeout(loadSSOFrames, 5000);
+    setTimeout(loadSSOFrames, 10000);
+});
+            </script>
+        </div>
+        
         <!-- false, other pages-->
         <!-- ########## Google Analytics ########## -->
         <script type="text/javascript">
@@ -107,9 +140,7 @@
     
   
                      <div id="share-bar" class="social-media right">    
-                        <div class="addthis_toolbox addthis_default_style addthis_32x32_style">
-                        <a title="Facebook" href="https://www.facebook.com/NEADeals" target="_blank"><img alt="" src="/assets/images/template/top-facebook.png"></a> <a title="Tweet" href="https://twitter.com/NEADeals" target="_blank"><img alt="" src="/assets/images/template/top-twitter.png"></a> <a title="LinkedIn" href="http://www.linkedin.com/groups?mostPopular=&amp;gid=3845884" target="_blank"><img alt="" src="/assets/images/template/top-in.png"></a>
-                        </div>
+                        <a title="Facebook" onclick="ga_event('header', 'click', 'facebook');" href="https://www.facebook.com/NEADeals" target="_blank"><img alt="Facebook NEA Member Benefits" src="/assets/images/template/top-facebook.png" width="40" height="40"></a> <a title="Twitter" onclick="ga_event('header', 'click', 'twitter');" href="https://twitter.com/NEADeals" target="_blank"><img alt="Twitter NEA Member Benefits" src="/assets/images/template/top-twitter.png" width="40" height="40"></a> <a title="LinkedIn" onclick="ga_event('header', 'click', 'linkedin');" href="https://www.linkedin.com/company/nea-member-benefits" target="_blank"><img alt="LinkedIn NEA Member Benefits" src="/assets/images/template/top-in.png" width="40" height="40"></a>
                     </div>
             
  
@@ -325,7 +356,7 @@
                 <div class="left  right-content">
                     <h3>NEA<sup>®</sup> Cash Rewards Card</h3>
 <p>Ready to cash in on cash rewards? The NEA Cash Rewards Card has all the features that really matter.</p>
-<p><a class="right link-arrow-blue" onclick="ga_event('top navigation promo', 'click', 'finance > nea cash rewards card');" href="http://www.neamb.com/finance/cash-rewards-credit-card-visa-bank-of-america.htm">Apply now</a></p>
+<p><a class="right link-arrow-blue" onclick="ga_event('top navigation promo', 'click', 'finance > nea cash rewards card');" href="http://www.neamb.com/finance/cash-rewards-credit-card-bank-of-america.htm">Apply now</a></p>
                 </div>
             </li>
             
@@ -341,7 +372,7 @@
                                 <h6>Products</h6>                                
                         
                                     <ul>
-<li class="row"><img class="left small-image" src="/assets/images/product/cash-rewards-credit-card-bank-of-america_50x50.jpg"> <a onclick="ga_event('top navigation', 'click', 'finance > credit cards > nea cash rewards card');" href="http://www.neamb.com/finance/cash-rewards-credit-card-visa-bank-of-america.htm">NEA<sup>®</sup> Cash Rewards Card </a></li>
+<li class="row"><img class="left small-image" src="/assets/images/product/cash-rewards-credit-card-bank-of-america_50x50.jpg"> <a onclick="ga_event('top navigation', 'click', 'finance > credit cards > nea cash rewards card');" href="http://www.neamb.com/finance/cash-rewards-credit-card-bank-of-america.htm">NEA<sup>®</sup> Cash Rewards Card </a></li>
 <li class="row"><img class="left small-image" src="/assets/images/product/worldpoints-rewards-credit-card-bank-of-america_50x50.jpg"> <a onclick="ga_event('top navigation', 'click', 'finance > credit cards > nea credit card with rewards');" href="http://www.neamb.com/finance/rewards-credit-card-bank-of-america.htm">NEA Credit Card<sup>SM</sup> with Rewards </a></li>
 <li class="row"><img class="left small-image" src="/assets/images/product/ratesmart-credit-card-bank-of-america_50x50.jpg"> <a onclick="ga_event('top navigation', 'click', 'finance > credit cards > nea ratesmart card');" href="http://www.neamb.com/finance/ratesmart-credit-card-bank-of-america.htm">NEA RateSmart<sup>®</sup> Card </a></li></ul>
                                                                                                                      
@@ -357,6 +388,32 @@
 <li class="row"><a onclick="ga_event('top navigation', 'click', 'finance > credit cards > the secret travel benefit you didn’t know you had');" href="http://www.neamb.com/finance/secret-travel-benefit-you-didnt-know-you-had.htm">The Secret Travel Benefit You Didn’t Know You Had</a> </li>
 <li class="row"><a onclick="ga_event('top navigation', 'click', 'finance > credit cards > with a better credit score, you can afford more');" href="http://www.neamb.com/finance/boost-credit-score-to-maximize-buying-power.htm">With a Better Credit Score, You Can Afford More</a> </li>
 <li class="row"><a onclick="ga_event('top navigation', 'click', 'finance > credit cards > the secret to reducing debt painlessly');" href="http://www.neamb.com/finance/the-secret-to-reducing-debt-painlessly.htm">The Secret to Reducing Debt Painlessly</a></li></ul><a class="right link-arrow-blue" onclick="ga_event('top navigation', 'click', 'finance > credit cards > view all articles');" href="http://www.neamb.com/finance/credit-cards.htm"><strong>View All</strong></a>
+                            </div>
+                        
+                </div>
+                </li>
+            
+                <li>
+                            
+                        <a href="http://www.neamb.com/finance/prepaid-cards.htm">
+                            Prepaid Cards
+                        </a>                        
+                    
+                <div class="lvl3 col2">
+            
+                            <div class="inner-1col">
+                                <h6>Products</h6>                                
+                        
+                                    <ul>
+<li class="row"><img class="left small-image" src="/assets/images/product/nea-visa-prepaid-card_50x50.jpg"> <a onclick="ga_event('top navigation', 'click', 'finance > prepaid cards > nea visa prepaid card');" href="http://www.neamb.com/finance/nea-visa-prepaid-card.htm">NEA<sup>®</sup> Visa<sup>®</sup> Prepaid Card</a></li></ul>
+                                
+                                </div>
+                        
+                            <div class="inner-1col" style="border: none;">
+                                <h6>Articles, Tools and Guides</h6>
+<ul>
+<li class="row"><a onclick="ga_event('top navigation', 'click', 'finance > credit cards > with a better credit score, you can afford more');" href="http://www.neamb.com/finance/boost-credit-score-to-maximize-buying-power.htm">With a Better Credit Score, You Can Afford More</a> </li>
+<li class="row"><a onclick="ga_event('top navigation', 'click', 'finance > credit cards > the secret to reducing debt painlessly');" href="http://www.neamb.com/finance/the-secret-to-reducing-debt-painlessly.htm">The Secret to Reducing Debt Painlessly</a></li></ul>
                             </div>
                         
                 </div>
@@ -466,7 +523,7 @@
                         
                                     <ul>
 <li class="row"><img class="left small-image" src="/assets/images/product/retirement-center_50x50.jpg"> <a onclick="ga_event('top navigation', 'click', 'finance > retirement > retirement planning center');" href="http://www.neamb.com/retirement-center.htm">Retirement Planning Center</a> </li>
-<li class="row"><img class="left small-image" src="/assets/images/product/nea-valuebuilder-retirement-savings_50x50.jpg"> <a onclick="ga_event('top navigation', 'click', 'finance > retirement > nea valuebuilder program');" href="http://www.neamb.com/finance/nea-valuebuilder-retirement-savings.htm">NEA Valuebuilder Program </a></li></ul>
+<li class="row"><img class="left small-image" src="/assets/images/product/nea-retirement-program_50x50.jpg"> <a onclick="ga_event('top navigation', 'click', 'finance > retirement > nea retirement program');" href="http://www.neamb.com/finance/nea-retirement-program.htm">NEA Retirement Program</a></li></ul>
                                 
                                 </div>
                         
@@ -720,8 +777,8 @@
                         
                                     <ul>
 <li class="row"><img class="left small-image" src="/assets/images/product/nea-click-and-save-retail-discounts_50x50.jpg"><a onclick="ga_event('top navigation', 'click', 'shopping-discounts > everyday discounts > nea click &amp; save');" href="http://www.neamb.com/shopping-discounts/nea-click-and-save-retail-discounts.htm">NEA Click &amp; Save </a></li>
-<li class="row"><img class="left small-image" alt="small image" src="/assets/images/product/nea-discount-magazine-subscription_50x50.jpg"> <a onclick="ga_event('top navigation', 'click', 'shopping-discounts > everyday discounts > nea magazine service');" href="http://www.neamb.com/shopping-discounts/nea-discount-magazine-subscription.htm">NEA Magazine Service </a></li>
-<li class="row"><img class="left small-image" src="/assets/images/product/nea-discount-1800flowers_50x50.jpg"><a onclick="ga_event('top navigation', 'click', 'shopping-discounts > everyday discounts > 1800flowers.com');" href="http://www.neamb.com/shopping-discounts/nea-discount-1800flowers.htm">1800Flowers.com</a></li></ul>
+<li class="row"><img class="left small-image" src="/assets/images/product/nea-wireless_50x50.jpg"><a onclick="ga_event('top navigation', 'click', 'shopping-discounts > everyday discounts > nea wireless');" href="http://www.neamb.com/shopping-discounts/nea-wireless.htm">NEA Wireless</a> </li>
+<li class="row"><img class="left small-image" alt="small image" src="/assets/images/product/nea-discount-magazine-subscription_50x50.jpg"> <a onclick="ga_event('top navigation', 'click', 'shopping-discounts > everyday discounts > nea magazine service');" href="http://www.neamb.com/shopping-discounts/nea-discount-magazine-subscription.htm">NEA Magazine Service </a><!--<LI class=row><IMG class="left small-image" src="/assets/images/product/nea-discount-1800flowers_50x50.jpg"><A onclick="ga_event('top navigation', 'click', 'shopping-discounts > everyday discounts > 1800flowers.com');" href="http://www.neamb.com/shopping-discounts/nea-discount-1800flowers.htm">1800Flowers.com</A></LI>--></li></ul>
                                                                                                                      
                                             <a class="right link-arrow-blue" href="http://www.neamb.com/shopping-discounts/everyday-discounts.htm">
                                                 <strong>View All Everyday Discounts</strong>
@@ -754,7 +811,7 @@
                                 <h6>Products</h6>                                
                                                             
                                     <ul>
-<li class="row"><img class="left small-image" alt="small image" src="/assets/images/product/smilemakers-discount-teacher-store_50x50.jpg"> <a onclick="ga_event('top navigation', 'click', 'professional-resources > classroom resources > smilemakers');" href="http://www.neamb.com/professional-resources/smilemakers-discount-teacher-store.htm">SmileMakers </a></li>
+<li class="row"><img class="left small-image" alt="small image" src="/assets/images/product/nea-gps-network-collaboration-tools_50x50.jpg"> <a onclick="ga_event('top navigation', 'click', 'professional-resources > classroom resources > gps network – collaboration tools');" href="http://www.neamb.com/professional-resources/nea-gps-network-collaboration-tools.htm">GPS Network – Collaboration Tools</a> </li>
 <li class="row"><img class="left small-image" alt="small image" src="/assets/images/product/corwin_50x50.jpg"><a onclick="ga_event('top navigation', 'click', 'professional-resources > classroom resources > corwin - professional learning resources');" href="http://www.neamb.com/professional-resources/corwin.htm">Corwin - Professional Learning Resources</a> </li>
 <li class="row"><img class="left small-image" alt="small image" src="/assets/images/product/school-library-journal_50x50.jpg"> <a onclick="ga_event('top navigation', 'click', 'professional-resources > classroom resources > school library journal');" href="http://www.neamb.com/professional-resources/school-library-journal.htm">School Library Journal</a> </li></ul>
                                                                                        
@@ -861,6 +918,34 @@
             
                 <li>
                             
+                        <a href="http://www.neamb.com/travel/guided-vacations.htm">
+                            Guided Vacations
+                        </a>                        
+                    
+                <div class="lvl3 col2">
+            
+                            <div class="inner-1col">
+                                <h6>Products</h6>                                
+                        
+                                    <ul>
+<li class="row"><img class="left small-image" alt="small image" src="/assets/images/product/trafalgar-guided-vacations-discount_50x50.jpg"> <a onclick="ga_event('top navigation', 'click', 'travel > guided vacations > trafalgar guided vacations');" href="http://www.neamb.com/travel/trafalgar-guided-vacations-discount.htm">Trafalgar Guided Vacations </a></li>
+<li class="row"><img class="left small-image" alt="small image" src="/assets/images/product/g-adventures-guided-vacations-discount_50x50.jpg"> <a onclick="ga_event('top navigation', 'click', 'travel > guided vacations > g adventures');" href="http://www.neamb.com/travel/g-adventures-guided-vacations-discount.htm">G Adventures</a></li></ul>
+                                
+                                </div>
+                        
+                            <div class="inner-1col" style="border: none;">
+                                <h6>Articles, Tools and Guides</h6>
+<ul>
+<li class="row"><a onclick="ga_event('top navigation', 'click', 'travel > guided vacations > take the stress out of tipping while traveling');" href="http://www.neamb.com/travel/take-the-stress-out-of-tipping-while-traveling.htm">Take the Stress Out of Tipping While Traveling</a> </li>
+<li class="row"><a onclick="ga_event('top navigation', 'click', 'travel > guided vacations > 7 things you must do before your next international trip');" href="http://www.neamb.com/travel/international-travel-checklist.htm">7 Things You Must Do Before Your Next International Trip</a> </li>
+<li class="row"><a onclick="ga_event('top navigation', 'click', 'travel > guided vacations > how should you pay when the bill isn't in dollars');" href="http://www.neamb.com/travel/best-way-to-pay-abroad.htm">How Should You Pay When the Bill Isn’t in Dollars?</a> </li></ul>
+                            </div>
+                        
+                </div>
+                </li>
+            
+                <li>
+                            
                         <a href="http://www.neamb.com/travel/travel-discounts.htm">
                             Travel Discounts
                         </a>                        
@@ -888,34 +973,6 @@
 
 <LI class=row><A onclick="ga_event('top navigation', 'click', 'travel > travel discounts > your next vacation could be a teaching tool');" href="http://www.neamb.com/travel/your-next-vacation-could-be-a-teaching-tool.htm">Your Next Vacation Could Be a Teaching Tool</A> </LI>
 <LI class=row><A onclick="ga_event('top navigation', 'click', 'travel > travel discounts > find your perfect winter wellness getaway');" href="http://www.neamb.com/travel/find-your-perfect-winter-wellness-getaway.htm">Find Your Perfect Winter Wellness Getaway</A> </LI>--></li></ul><a class="right link-arrow-blue" onclick="ga_event('top navigation', 'click', 'travel > travel discounts > view all articles');" href="http://www.neamb.com/travel/travel-discounts.htm"><strong>View All</strong></a>
-                            </div>
-                        
-                </div>
-                </li>
-            
-                <li>
-                            
-                        <a href="http://www.neamb.com/travel/guided-vacations.htm">
-                            Guided Vacations
-                        </a>                        
-                    
-                <div class="lvl3 col2">
-            
-                            <div class="inner-1col">
-                                <h6>Products</h6>                                
-                        
-                                    <ul>
-<li class="row"><img class="left small-image" alt="small image" src="/assets/images/product/trafalgar-guided-vacations-discount_50x50.jpg"> <a onclick="ga_event('top navigation', 'click', 'travel > guided vacations > trafalgar guided vacations');" href="http://www.neamb.com/travel/trafalgar-guided-vacations-discount.htm">Trafalgar Guided Vacations </a></li>
-<li class="row"><img class="left small-image" alt="small image" src="/assets/images/product/g-adventures-guided-vacations-discount_50x50.jpg"> <a onclick="ga_event('top navigation', 'click', 'travel > guided vacations > g adventures');" href="http://www.neamb.com/travel/g-adventures-guided-vacations-discount.htm">G Adventures</a></li></ul>
-                                
-                                </div>
-                        
-                            <div class="inner-1col" style="border: none;">
-                                <h6>Articles, Tools and Guides</h6>
-<ul>
-<li class="row"><a onclick="ga_event('top navigation', 'click', 'travel > guided vacations > take the stress out of tipping while traveling');" href="http://www.neamb.com/travel/take-the-stress-out-of-tipping-while-traveling.htm">Take the Stress Out of Tipping While Traveling</a> </li>
-<li class="row"><a onclick="ga_event('top navigation', 'click', 'travel > guided vacations > 7 things you must do before your next international trip');" href="http://www.neamb.com/travel/international-travel-checklist.htm">7 Things You Must Do Before Your Next International Trip</a> </li>
-<li class="row"><a onclick="ga_event('top navigation', 'click', 'travel > guided vacations > how should you pay when the bill isn't in dollars');" href="http://www.neamb.com/travel/best-way-to-pay-abroad.htm">How Should You Pay When the Bill Isn’t in Dollars?</a> </li></ul>
                             </div>
                         
                 </div>
@@ -950,7 +1007,7 @@
                                 <h6>Products</h6>                                
                         
                                     <ul>
-<li class="row"><img class="left small-image" alt="small image" src="/assets/images/product/smilemakers-discount-teacher-store_50x50.jpg"> <a onclick="ga_event('top navigation', 'click', 'professional-resources > classroom resources > smilemakers');" href="http://www.neamb.com/professional-resources/smilemakers-discount-teacher-store.htm">SmileMakers </a></li>
+<li class="row"><img class="left small-image" alt="small image" src="/assets/images/product/nea-gps-network-collaboration-tools_50x50.jpg"> <a onclick="ga_event('top navigation', 'click', 'professional-resources > classroom resources > gps network – collaboration tools');" href="http://www.neamb.com/professional-resources/nea-gps-network-collaboration-tools.htm">GPS Network – Collaboration Tools</a> </li>
 <li class="row"><img class="left small-image" alt="small image" src="/assets/images/product/corwin_50x50.jpg"><a onclick="ga_event('top navigation', 'click', 'professional-resources > classroom resources > corwin - professional learning resources');" href="http://www.neamb.com/professional-resources/corwin.htm">Corwin - Professional Learning Resources</a> </li>
 <li class="row"><img class="left small-image" alt="small image" src="/assets/images/product/school-library-journal_50x50.jpg"> <a onclick="ga_event('top navigation', 'click', 'professional-resources > classroom resources > school library journal');" href="http://www.neamb.com/professional-resources/school-library-journal.htm">School Library Journal</a> </li></ul>
                                                                                                                      
@@ -1031,14 +1088,49 @@
     </li>
 
                     </ul>
-                    <div id="search-container" class="left">
-                        <form id="searchForm" method="get" action="/xchg/neamb/xsl/hs.xsl/-/home/searchResults.htm">
-                          <input id="inputSearch" name="search-text" maxlength="120" size="50" type="text" class="search-field left text-field-filled" placeholder="Search" autocomplete="OFF">
-                          <input type="image" onclick="submitSearch();" class="left" src="/assets/images/template/icon-search-button.png" name="searchButton" id="searchButton" alt="Search" value="Search">
-                        </form>
-                        <script type="text/javascript" language="JavaScript" src="/assets/javascripts/search_ajax.js"></script>
-                        <script type="text/javascript" language="JavaScript" src="/assets/javascripts/search_autocomplete.js"></script><div id="smartInputFloater" class="floater"><div id="smartInputFloaterContent"></div></div>                 
-                    </div>
+
+                    <!-- ADD SEARCH BOX -->
+                    <!-- NEW SEARCH -->
+<style type="text/css">
+  .gsc-input-box {
+     margin-left:15px !important;
+     margin-top:-5px !important;
+     border:none !important;
+  }
+  input.gsc-input {height:30px !important;font-size:12px !important;box-shadow:none !important}
+  td.gsc-input {padding-right:0px !important}
+
+  .gsc-search-box td {padding:0px;height:30px;background-color:#FFFFFF !important}
+
+  input.gsc-search-button {
+     width:auto !important;
+     height:auto !important;
+     padding:6px 10px !important;
+ }
+.gsc-search-button {padding:2px 5px 0px 5px !important}
+.gsc-cursor-page {font-size:12px !important}
+.gsc-above-wrapper-area-container {margin-bottom:0px !important}
+.gsc-completion-selected td {color:#FFFFFF !important;background-color:#005DAA !important;cursor: pointer !important}
+
+</style>
+
+<div style="width:255px;display:inline-block;float:right;margin-right:6px">
+<script>
+  (function() {
+    var cx = '005976631982810751451:cnccsv6rnzu';
+    var gcse = document.createElement('script');
+    gcse.type = 'text/javascript';
+    gcse.async = true;
+    gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+        '//www.google.com/cse/cse.js?cx=' + cx;
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(gcse, s);
+  })();
+</script>
+<gcse:searchbox-only resultsurl="http://www.neamb.com/searchResults.htm" enableautocomplete="true"></gcse:searchbox-only>
+</div>
+
+
                 </div>
                 <!-- End Top Navigaton -->
             </div>
@@ -1254,8 +1346,8 @@
         
           
         
-                <a title="Home" onclick="ga_event('footer', 'click', 'home');" href="http://www.neamb.com/home.htm">Home</a>&nbsp;|&nbsp;<a title="About" onclick="ga_event('footer', 'click', 'about');" href="http://www.neamb.com/about.htm">About</a>&nbsp;|&nbsp;<a title="Careers" onclick="ga_event('footer', 'click', 'careers');" href="http://www.neamb.com/careers.htm">Careers</a>&nbsp;|&nbsp;<a title="Advertising" onclick="ga_event('footer', 'click', 'advertising');" href="http://www.neamb.com/advertising.htm">Advertising</a>&nbsp;|&nbsp;<a title="Privacy Policy" onclick="ga_event('footer', 'click', 'privacy policy');" href="http://www.neamb.com/privacy-policy.htm">Privacy Policy</a>&nbsp;|&nbsp;<a title="FAQs" onclick="ga_event('footer', 'click', 'faqs');" href="http://www.neamb.com/faqs.htm">FAQs</a>&nbsp;|&nbsp;<a title="Español" onclick="ga_event('footer', 'click', 'español');" href="http://www.neamb.com/spanish.htm">Español</a>&nbsp;|&nbsp;<a title="Contact Us" onclick="ga_event('footer', 'click', 'contact us');" href="https://secure.neamb.com/contactus.htm">Contact Us</a>&nbsp;|&nbsp;<a title="National Education Association" onclick="ga_event('footer', 'click', 'national education association');" href="http://www.nea.org" target="_blank">nea.org</a>&nbsp;|&nbsp;<a title="State Affiliate Sites" onclick="ga_event('footer', 'click', 'state affiliate sites');" href="http://www.nea.org/home/49809.htm" target="_blank">State Affiliate Sites</a> 
-<p><font size="1">© 2014 NEA’s Member Benefits Corp. NEA, NEA Member Benefits and the NEA Member Benefits logo are registered service marks of NEA’s Member Benefits Corporation.</font></p><br>  
+                <a title="Home" onclick="ga_event('footer', 'click', 'home');" href="http://www.neamb.com/home.htm">Home</a>&nbsp;|&nbsp;<a title="Sitemap" onclick="ga_event('footer', 'click', 'sitemap');" href="http://www.neamb.com/sitemap.htm">Sitemap</a>&nbsp;|&nbsp;<a title="About" onclick="ga_event('footer', 'click', 'about');" href="http://www.neamb.com/about.htm">About</a>&nbsp;|&nbsp;<a title="Careers" onclick="ga_event('footer', 'click', 'careers');" href="http://www.neamb.com/careers.htm">Careers</a>&nbsp;|&nbsp;<a title="Advertising" onclick="ga_event('footer', 'click', 'advertising');" href="http://www.neamb.com/advertising.htm">Advertising</a>&nbsp;|&nbsp;<a title="Privacy Policy" onclick="ga_event('footer', 'click', 'privacy');" href="http://www.neamb.com/privacy-policy.htm">Privacy</a>&nbsp;|&nbsp;<a title="FAQs" onclick="ga_event('footer', 'click', 'faqs');" href="http://www.neamb.com/faqs.htm">FAQs</a>&nbsp;|&nbsp;<a title="Español" onclick="ga_event('footer', 'click', 'español');" href="http://www.neamb.com/spanish.htm">Español</a>&nbsp;|&nbsp;<a title="Contact Us" onclick="ga_event('footer', 'click', 'contact us');" href="https://secure.neamb.com/contactus.htm">Contact Us</a>&nbsp;|&nbsp;<a title="National Education Association" onclick="ga_event('footer', 'click', 'national education association');" href="http://www.nea.org" target="_blank">nea.org</a>&nbsp;|&nbsp;<a title="State Affiliates" onclick="ga_event('footer', 'click', 'state affiliates');" href="http://www.nea.org/home/49809.htm" target="_blank">State Affiliates</a> 
+<p><font size="1">© 2015 NEA’s Member Benefits Corp. NEA, NEA Member Benefits and the NEA Member Benefits logo are registered service marks of NEA’s Member Benefits Corporation.</font></p><br>  
             
         
 
@@ -1278,7 +1370,7 @@
         <div class="addthis_toolbox addthis_default_style addthis_32x32_style">
               
             
-                    <a title="Facebook" onclick="ga_event('footer', 'click', 'facebook ');" href="https://www.facebook.com/NEADeals" target="_blank"><img alt="Facebook NEA Member Benefits" src="/assets/images/template/footer-facebook.png" width="20" height="20"> </a><a title="Twitter" onclick="ga_event('footer', 'click', 'twitter');" href="https://twitter.com/NEADeals" target="_blank"><img alt="Twitter NEA Member Benefits" src="/assets/images/template/footer-twitter.png" width="20" height="20"></a> <a title="LinkedIn" onclick="ga_event('footer', 'click', 'linkedin');" href="https://www.linkedin.com/company/nea-member-benefits" target="_blank"><img alt="LinkedIn NEA Member Benefits" src="/assets/images/template/footer-in.png" width="20" height="20"></a> <a title="Email" onclick="ga_event('footer', 'click', 'email');" href="https://secure.neamb.com/contactus.htm"><img alt="Contact Us" src="/assets/images/template/footer-mail.png" width="20" height="20"></a>   
+                    <a title="Facebook" onclick="ga_event('footer', 'click', 'facebook');" href="https://www.facebook.com/NEADeals" target="_blank"><img alt="Facebook NEA Member Benefits" src="/assets/images/template/footer-facebook.png" width="20" height="20"> </a><a title="Twitter" onclick="ga_event('footer', 'click', 'twitter');" href="https://twitter.com/NEADeals" target="_blank"><img alt="Twitter NEA Member Benefits" src="/assets/images/template/footer-twitter.png" width="20" height="20"></a> <a title="LinkedIn" onclick="ga_event('footer', 'click', 'linkedin');" href="https://www.linkedin.com/company/nea-member-benefits" target="_blank"><img alt="LinkedIn NEA Member Benefits" src="/assets/images/template/footer-in.png" width="20" height="20"></a> <a title="Email" onclick="ga_event('footer', 'click', 'email');" href="https://secure.neamb.com/contactus.htm"><img alt="Contact Us" src="/assets/images/template/footer-mail.png" width="20" height="20"></a>   
                 
             
         </div>
