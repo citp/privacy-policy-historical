@@ -1,32 +1,32 @@
-> *The following text is extracted and transformed from the gs1.org privacy policy that was archived on 2014-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141219131848id_/http%3A//www.gs1.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gs1.org privacy policy that was archived on 2015-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150619094145id_/http%3A//www.gs1.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy | GS1 - The global language of business
+# Privacy Policy | GS1
 
-To use most of this web site, you do not need to provide us with any personal data.   However, we do collect personal data with your consent when you: 
+To use most of this web site, you do not need to provide us with any personal data. However, we do collect personal data with your consent when you:
 
   * Subscribe to our newsletters
-  * Send a query to our help desk 
+  * Send a query to our help desk
   * Register to join our Community Room and working groups
   * Register for one of our online training courses
-  * Register for a GS1 conference or event  
-  * Reply to Job Offers announced on this site 
+  * Register for a GS1 conference or event
+  * Reply to Job Offers announced on this site
 
 
 
-Your personal data will only be used by GS1 to administer the service that you have requested. If necessary, to respond more effectively to your request, we may pass your information to one of our GS1 offices.  When you provide personal information to GS1 for any of the above reasons, we will take all necessary steps and use the best security measures to protect your personal data against loss, misuse and alteration. GS1 will not give away or sell your personal data to third parties.   
+Your personal data will only be used by GS1 to administer the service that you have requested. If necessary, to respond more effectively to your request, we may pass your information to one of our GS1 offices.  When you provide personal information to GS1 for any of the above reasons, we will take all necessary steps and use the best security measures to protect your personal data against loss, misuse and alteration. GS1 will not give away or sell your personal data to third parties.
 
-## Cookies 
+## Cookies
 
 Cookies are small files stored on your computer when you access our website. They have many different functions including allowing you to navigate smoothly between pages, remembering your preferences and improving the overall experience of the website. GS1 uses the following cookies on this website:
 
-  * Persistent cookies: these allow us to improve how the website collects information, enhancing your experience of the site over time. 
+  * Persistent cookies: these allow us to improve how the website collects information, enhancing your experience of the site over time.
   * Session cookies: These store information about your current browsing session, helping you to navigate between pages.
 
 
 
 You can enable or disable cookies by modifying the settings in your browser. You can find out how to do this and obtain more information on cookies at: [www.allaboutcookies.org](http://www.allaboutcookies.org/ "www.allaboutcookies.org")
 
-## Links 
+## Links
 
 This site contains links to other websites. GS1 is not responsible for the privacy practices or the content of such websites.
 
