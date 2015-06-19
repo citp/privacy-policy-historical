@@ -1,82 +1,45 @@
-> *The following text is extracted and transformed from the toolkit.com privacy policy that was archived on 2014-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140923040307id_/http%3A//www.bizfilings.com/toolkit/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toolkit.com privacy policy that was archived on 2015-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150619055002id_/http%3A//www.bizfilings.com/service/privacy-policy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy | BizFilings Toolkit
+# Privacy Policy | BizFilings
 
-This Website is owned and operated by BizFilings. Your privacy on the Internet is of the utmost importance to us. We respect the privacy of the users of our products, services, and Website, and we want to make your experience online satisfying and safe. Because we gather certain types of information about our users, we feel you should fully understand our policy and the terms and conditions surrounding the capture and use of that information. To that effect, we have instituted the following Privacy Policy, which discloses what information we gather and how we use it:
+Our Privacy Policy explains how we collect your personal and business information, how we handle and protect this information, and what you can do to help protect this information. We may change this Privacy Policy from time to time to accurately reflect how we gather and manage your information. All changes to this Privacy Policy are effective upon posting to this Website without notice to you.
 
-By using this Website, you agree with the terms of this Privacy Policy. Whenever you submit information via this Website, you consent to the collection, use, and disclosure of that information in accordance with this Privacy Policy. We may change this Privacy Policy from time to time to reflect how we gather and manage your information. All changes to this Privacy Policy are effective upon posting to this Website without notice to you. You are responsible for regularly reviewing this Privacy Policy.
+### Collection of Information
 
-## Gathered and Tracked Information
+To effectively process your order, BizFilings needs to collect some personally identifiable information, such as your name, email address, mailing address, telephone number, and credit card number ("PII"). For the purpose of forming your corporation or limited liability company ("LLC") we need to know some information about your business such as the name you want your business entity to have, a brief description of the purpose of your business, the name and address of the corporation or LLC's registered agent, the name and address of the directors and officers of your corporation, or members or managers for your LLC, how many shares of stock your corporation will be authorized to issue, and the par value of such stock ("Business Information").
 
-We gather the following types of information about users:
+Filings made with a state and/or county become a matter of public record, meaning the information included in that filing is accessible to the public. Some of the Business Information we collect from you, such as the name of your business, the legal address of the business, the registered agent name and address, names and addresses of directors and/or managers will become a matter of public record once your formation or other state/county filing documents are filed with the applicable state/county agency. If you have questions about which Business Information will become part of the public record, please contact us Monday – Friday from 8:00 AM to 7:00 PM at 800-981-7183 or 608-827-5300.
 
-  * Information that users provide through optional, voluntary submissions. We collect information when users voluntarily register, opt to receive our electronic newsletters, choose to e-mail content to a friend, or participate in polls and surveys.
-  * Information gathered through aggregated tracking is derived mainly by tallying page views throughout this Website. This information allows us to better tailor our content to users' needs and to help us and our advertisers and sponsors better understand the demographics of our audience. As discussed below, we share certain aggregated data with our advertisers, sponsors, and partners.
-  * Anonymous and non-personal information collected via "cookies" and other devices (as described below).
+Our Website is set up to automatically collect anonymous information about visitors. For example, our Website automatically gathers a visitor’s Internet Protocol address, which Internet Service Provider our visitors use, statistics about how visitors navigate through and use our Website, and information gathered through the use of “cookies.” We use cookies to help us understand our visitors and traffic patterns to our site; to know when visitors have accessed our site from one of our paid advertisements, an affiliate website, or a strategic partner website; and to populate the order contact information for our registered resellers into our order forms to simplify their order process. We also compile statistics that show the daily number of visitors to our site, the daily requests we receive for particular files on our Website, and from which countries those requests come. These aggregated statistics are used internally to better provide services to the public and may also be provided to others, but again, the statistics contain no PII or Business Information and cannot be used to gather such information. Our Website is not set up to automatically track, collect or distribute PII about our Website visitors.
 
-  
+Solely for the purposes of confirming valid traffic from certain pay-per-click search engines, IP addresses for such visitors are monitored, and may be compared to the records of that search engine.
 
+### How We Protect and Use Your Personally Identifiable Information
 
-## Electronic Newsletters Policy
+Except as provided in this Privacy Policy, all PII and Business Information entered into our secure online order form is encrypted with secure server software to protect it from unauthorized access. Your PII, including your credit card information and username and password for accessing our Online Status Center will remain encrypted within our database. We work to protect the security of your information during transmission by using Secure Sockets Layer (SSL) software, which encrypts information you input. We reveal only the last four digits of your credit card number when confirming an order, although we do transmit the entire credit card number to our credit card processor during order processing.
 
-_BizFilings Business Owner's Toolkit_ offers a free electronic newsletter to users who choose to subscribe. Users may remove themselves from this mailing list by following the link provided in every newsletter, which directs users to the subscription management page.
+BizFilings uses the PII and the Business Information you provide to fulfill your order and respond to customer service or support questions. We may employ other companies and individuals to perform functions on our behalf. Examples include fulfilling certain portions of orders, delivering packages, sending postal mail and email, providing marketing assistance, processing credit card payments, and providing customer service for certain portions of orders. They have access to the PII and Business Information only as necessary to perform their functions, and may not access or use it for any other purpose.
 
-## "E-mail This to a Friend" Policy
+Sometimes, BizFilings will work with businesses we do not control to present you with a special offer for goods or services. If you order or sign up for a special offer through our Website where the goods or services are sold directly to you or directly fulfilled by another business, we will give your PII and/or Business Information to that business only as necessary to fulfill the offer and complete that order. BizFilings will not transmit your credit card information. You will be able to tell when another business is involved in a transaction. Our order form will state the name of the business that will fulfill the special offer, and you will have the chance to cancel the order before any of your PII or Business Information is transmitted to that business.
 
-_BizFilings Business Owner's Toolkit_ users can choose to electronically forward a link, page, or document to another party by clicking "e-mail this to a friend". In order to electronically forward the content, the user must provide his/her e-mail address and the email address of the recipient. This information is only used for transmission errors and, of course, to let the recipient know who sent the e-mail. The information is not used for any other purpose.
+When users type information into our secure online order form, but do not complete the order process, that information, including PII, credit card information, and Business Information, is temporarily stored for three months in our encrypted database, and then permanently deleted.
 
-## Polling
+We have appropriate security measures in place within our database and in our physical facilities to protect against the loss, misuse, or alteration of information that we have collected from you on our Website. The measures include limiting the number of people who have physical access to our database servers as well as electronic security systems and password protections, which guard against unauthorized access.
 
-_BizFilings Business Owner's Toolkit_ may offer interactive polls to users so they can easily share their opinions with other users and see what our audience thinks about important issues. Opinions or other responses to polls are aggregated and are not identifiable to any particular user. We may use a system to "tag" users after they have voted, so they can vote only once on a particular question. Voting information is not used for any other purpose and is not correlated with information about individual users.
+BizFilings will not sell, rent or trade any of your PII, credit card or payment information, Business Information, or any other information collected during the ordering and fulfillment process to any third party for any purpose whatsoever.
 
-## Surveys
+BizFilings utilizes email to communicate with customers regarding their orders and regarding features of certain products/services that were ordered. BizFilings may occasionally use your PII to notify you of its new services and special offers via periodic mailings or e-mail updates. Customers may opt-out of these communications. For all email-based marketing communications, BizFilings utilizes a double opt-in policy in which individuals must explicitly request our e-newsletter and email-based promotions not specific to their orders and then respond to a confirmation email to receive them. If you are receiving these materials (either in electronic form or hard copy) and would like to be removed from our list, please send an email to [marketing@BizFilings.com](mailto:marketing@bizfilings.com).
 
-This Website may occasionally conduct user surveys to better target our content to our audience. We may share the aggregated demographic information collected in these surveys with our sponsors and advertisers. We never share any individual user survey information with third parties.
+### Disclosures
 
-## Protection of Personally Identifiable Information
+If we are required by law or legal process, we will disclose or provide access to your PII or Business Information to such government or judicial authority as specified by such law or legal process.
 
-Except as provided in this Privacy Policy, all personally identifiable information provided when users register is encrypted with secure server software to protect such information from unauthorized access. Your personally identifiable information, including your username and password, will remain encrypted within our database. We continually work to protect the security of your information during transmission by using Secure Sockets Layer (SSL) software, which encrypts information you input. 
+### Options
 
-We take reasonable steps to protect your personally identifiable information as you transmit your information from your computer to our Website and to protect such information from loss, misuse, unauthorized access, disclosure, alteration or destruction. You should keep in mind that no Internet transmission is ever 100% secure or error-free. In particular, e-mail sent to or from this site may not be secure, and you should therefore take special care in deciding what information you send to us via e-mail. Moreover, it is your responsibility to safeguard your passwords, ID numbers, or other special features used to access this Website.
+Upon request we will provide customers with access to their own records. Customers can access and correct their PII or Business Information by emailing us Monday – Friday from 8:00 AM – 7:00 PM at [info@BizFilings.com](mailto:info@bizfilings.com), calling us at (800) 981-7183 or 608-827-5300, or by updating certain PII and Business Information within the [Online Status Center](https://web.archive.org/login.html), 24/7, using the username and password provided during ordering.
 
-## User Tracking
+### California Privacy Rights
 
-_BizFilings Business Owner's Toolkit_ automatically tracks user traffic patterns throughout the entire site; however, we do not correlate this information with data about individual users. We break down overall usage statistics according to a user's domain name, browser type, and MIME type by reading this information from the browser string (information contained in every user's browser).
+California Civil Code Section 1798.83 permits customers of BizFilings who are California residents to request certain information regarding the disclosure of any personal information, including PII and Business Information, to third parties for their direct marketing purposes. To make such a request, please send an email to [info@BizFilings.com](mailto:info@bizfilings.com).
 
-_BizFilings Business Owner's Toolkit_ occasionally tracks and catalogs the search terms that users enter in our Search function to determine which areas of our sites users like and don't like based on traffic to those areas. We never track searches of individual users or what individual users read. Instead, we track how well each page performs overall, which helps us continue to improve services for you.
-
-We also compile statistics that show the daily number of visitors to our site, the daily requests we receive for particular files or services, whether visitors access the site from paid advertisements, and from which countries those requests originate.
-
-## Cookies
-
-We may place a text file called a "cookie" in the browser files of your computer, which enables us to relate your use of this site to information that you have specifically and knowingly provided. The only personal information a cookie can contain is information you supply to _BizFilings Business Owner's Toolkit_. A cookie can't read data off your hard disk or read cookie files created by other sites. Toolkit.com uses cookies to track user traffic patterns (as described above) and third-party companies may use cookies to serve ads and/or collect certain anonymous information (as described below).
-
-You can refuse cookies by turning them off in your browser. If you've set your browser to warn you before accepting cookies, you will receive a warning message with each cookie. You do not need to have cookies turned on to use this site. However, you may need cookies to participate actively in message boards, forums, polling and surveys.
-
-## Use of Information
-
-_BizFilings Business Owner's Toolkit_ uses information voluntarily given by our users to enhance their experience, whether to provide interactive or personalized elements on the site or to better prepare future content based on the interests of our users.
-
-As described above, we use information that users voluntarily provide in order to send out our electronic newsletter and to enable users to participate in polls, surveys, message boards and forums. We send out newsletters to subscribers monthly, and may send out special editions when we think subscribers might be particularly interested in something we are doing or that has happened.
-
-As described above, we use tracking information to determine which areas of our site users like and don't like based on traffic to those areas. We track how well each page performs overall. This helps us continue to build a better service for you. We do not track what individual users read. In addition, we track search terms entered in our search function as one of many measures of what interests our users, but this tracking is never associated with individual users and we don't track which search terms a particular user enters.
-
-We create aggregate reports on user demographics and traffic patterns. These aggregated statistics are used internally to better provide services to our users and may also be provided to advertisers, sponsors, and partners but again, they contain no individual personal or business information and cannot be used to gather such information. This allows our advertisers, partners, and sponsors to advertise more effectively, and allows our users to receive advertisements that are pertinent to their needs. Because we don't track the usage patterns of individual users, an advertiser, partner, or sponsor will never know that a specific user clicked their ad. We will not disclose any information about any individual user except to comply with applicable law, valid legal process, court order, government regulation, or to protect the personal safety of our users or the public or otherwise in accordance with this Privacy Policy.
-
-We allow third-party companies to serve ads and/or collect certain anonymous information when you visit this Website. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit http://www.networkadvertising.org.
-
-## Sharing of the Information
-
-We use the above-described information to tailor our content to suit your needs and help our advertisers, sponsors, and partners better understand our audience's demographics. This is essential to keeping certain services free to our users. Except as described above, we will not share information about individual users with any third party, except to comply with applicable law or valid legal process or to protect the personal safety of our users or the public or otherwise in accordance with this Privacy Policy.
-
-## Consent
-
-By using this site, you consent to the collection and use of the information as described in this Privacy Policy. If we decide to change our Privacy Policy, we will post such changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it.
-
-## California Privacy Rights
-
-YOUR PRIVACY RIGHTS - California Civil Code Section 1798.83 permits users who are California residents to request certain information regarding the disclosure of any personal information to third parties for their direct marketing purposes. To make such a request, please send an e-mail to info@bizfilings.com.
-
-## Contact Us
-
-If you feel that this Website is not following its stated Privacy Policy, please [contact us](http://www.bizfilings.com/toolkit/contact-us.aspx?contact=JohnDuoba "Please complete contact us form") or call Mon-Fri from 8:00 AM - 7:00 PM CT at 866-981-2677.
+If you feel that this Website is not following its stated Privacy Policy, you may contact us Monday – Friday from 8:00 AM – 7:00 PM at 800-981-7183 or 608-827-5300 or via email at [info@BizFilings.com](mailto:info@bizfilings.com).
