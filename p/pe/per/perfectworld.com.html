@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the perfectworld.com privacy policy that was archived on 2014-12-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141224171236id_/http%3A//www.arcgames.com/en/about/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the perfectworld.com privacy policy that was archived on 2015-06-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150619094548id_/http%3A//www.arcgames.com/en/about/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="wf-loading"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -13,15 +13,14 @@
 <meta http-equiv="content-language" content="en">
 <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
 
-<link rel="stylesheet" href="http://images-cdn.perfectworld.com/arcportal_static/css/thirdparty.min.css?v=9b70402def9a">
-<link rel="stylesheet" href="http://images-cdn.perfectworld.com/arcportal_static/css/style.min.css?v=9b70402def9a">
-<link rel="stylesheet" href="http://images-cdn.perfectworld.com/arcportal_static/css/style.en.min.css?v=9b70402def9a">
+<link rel="stylesheet" href="http://images-cdn.perfectworld.com/arcportal_static/css/thirdparty.min.css?v=2fc2a5f6">
+<link rel="stylesheet" href="http://images-cdn.perfectworld.com/arcportal_static/css/style.min.css?v=2fc2a5f6">
+<link rel="stylesheet" href="http://images-cdn.perfectworld.com/arcportal_static/css/style.en.min.css?v=2fc2a5f6">
 <!--arc client-->
 <!--arc overlay-->
-<!--[if lt IE 9]> <script src="http://images-cdn.perfectworld.com/arcportal_static/js/html5.min.js?v=9b70402def9a"></script> <![endif]-->
-<script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script src="/js/webfont.min.js" type="text/javascript" async=""></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js"></script><script src="http://images-cdn.perfectworld.com/arcportal_static/dist/js/script.min.js?v=9b70402def9a"></script>
+<!--[if lt IE 9]> <script src="http://images-cdn.perfectworld.com/arcportal_static/js/html5.min.js?v=2fc2a5f6"></script> <![endif]-->
 
-<script>
+<script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script src="http://images-cdn.perfectworld.com/arcportal_static/js/webfont.min.js?v=2fc2a5f6" type="text/javascript" async=""></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js"></script><script>
 	var arrScripts = [];
 
 	if(!pageInfo) var pageInfo = {};
@@ -36,6 +35,7 @@
 	pageInfo['controller'] = "about";
 		pageInfo['redirect_after_login'] = "";
 		pageInfo['iovationUrl'] = "https:\/\/mpsnare.iesnare.com\/snare.js";
+	pageInfo['JSON2'] = "http:\/\/images-cdn.perfectworld.com\/arcportal_static\/easyXDM\/json2.js?v=2fc2a5f6";
 
 	var gameInfo = {};
 	
@@ -60,7 +60,10 @@
 	messages.requirements.password = "Please create a password for your account. It must be 6-14 characters long, and is case sensitive.";
 
     var billingCartUrl = "https:\/\/billing.arcgames.com\/en";
+    var recaptchaSiteKey = "6Lc7EQATAAAAAHVqJRWd6jG2iw51yGKG6GoZnJpu";
 </script>
+<script src="http://images-cdn.perfectworld.com/arcportal_static/dist/js/script.min.js?v=2fc2a5f6"></script>
+<script src="https://www.google.com/recaptcha/api.js?onload=onloadRecaptchaCallback&amp;render=explicit&amp;hl=en" async="" defer=""></script>
  
 </head>
 <body>
@@ -81,7 +84,7 @@ var FBLogin = {
 			var xhrXDM = new easyXDM.Rpc({
 				local: '/easyXDM/name.html',
 				swf: '/easyXDM/easyxdm.swf',
-				remote: REMOTE + '/easyXDM/cors/index.html',
+				remote: REMOTE + '/xdm/cors/index.html',
 				remoteHelper: REMOTE + 'easyXDM/name.html'
 			}, {
 				remote: {
@@ -97,6 +100,15 @@ var FBLogin = {
 				postData['src'] = pageInfo.redirect_after_login;	
 			}
 		
+			var showError = function(msg){
+				var js_facebookError = $('#js_facebookError');
+				js_facebookError.show().addClass('in').find('p').html(msg);
+				js_facebookError.on('click', '.close', function(e){
+					e.stopPropagation();
+					js_facebookError.hide().removeClass('in');
+				});
+			};
+			
 			setStatus('spinner', $('#fb-load-info'));
 			xhrXDM.request({
 				url: '/' + pageInfo.lang + '/sign/fb',
@@ -114,14 +126,14 @@ var FBLogin = {
 					FBLogin.loggedIn = true; 
 					window.location.href = "https://www.arcgames.com/en/sign/link?src=" + location.href;
 				}
+				else if(r.data){
+					if(r.data.show_defender){
+						r.data.show_error ? showError(r.msg) : webDefender($('#js_verifyCredentials'));
+					}
+				}
 				else { 
 					//setStatus("Failure: " + r.msg, $('#fb-load-info'));
-					var js_facebookError = $('#js_facebookError');
-					js_facebookError.show().addClass('in').find('p').html(r.msg);
-					js_facebookError.on('click', '.close', function(e){
-						e.stopPropagation();
-						js_facebookError.hide().removeClass('in');
-					});
+					showError(r.msg);
     		    }
     		});
 		} else { 
@@ -152,16 +164,8 @@ var FBLogin = {
 		}
 	},
 	logOut: function() {
-		FB.getLoginStatus(function(response) {
-			if (response.status && response.status == 'connected') {
-				FB.logout(function(r) {
-					window.location.href = "https://www.arcgames.com/en/sign/out";
-				});
-			} else {
-				window.location.href = "https://www.arcgames.com/en/sign/out";
-			}
-			return ;
-		});
+		window.location.href = "https://www.arcgames.com/en/sign/out";
+		return ;
 	},
 	init: function() { 
   		window.fbAsyncInit = function() {
@@ -203,17 +207,24 @@ FBLogin.init();
 <header class="header">
 	<div class="user-bar">
 		<div class="user-bar-inner clearfix">
+			<a href="/en/about/client" class="install-arc btn-install-disabled" style="display: none" data-ga-event-options="{&quot;eventLabel&quot;: &quot;install arc&quot;, &quot;eventValue&quot;: 1}">
+				<span>Install Arc </span>
+			</a>
 			<ul>
-                <li class="shopping-cart" id="js_shopping_cart_icon"><a href="https://billing.arcgames.com/en/cart/view"><span style="display:none"><b></b></span></a></li>
-												<li class="welcome dropdown">
+				<li class="welcome dropdown">
 					<div id="fb-load-container"><div id="fb-load-info"></div></div>
-					<a href="#" id="js_user_login" class="user-login" data-toggle="dropdown">
-						<i class="ico-user"></i>
-						<span class="un_logined">Sign in</span>
-					</a>
+					<span id="js_user_login" class="user-login " data-toggle="">
+						<a href="https://www.arcgames.com/en/sign/in" class="un_logined">
+							<i class="ico-user"></i>
+							<span>Sign in</span>
+						</a> 
+						or 
+						<a href="https://www.arcgames.com/en/sign/up" class="un_logined">Register</a>
+					</span> 
+
 					<div class="user-infos dropdown-menu" id="user-info-dropdown">
-												<!-- before login -->
-						<div class="user-before-login">
+																					<!-- before login -->
+								<div class="user-before-login">
 	 
 		<div class="user-facebook-group">
 			<p>Login with Facebook</p>
@@ -225,27 +236,20 @@ FBLogin.init();
 			</div> 
 		</div>
 	 
-	<form class="form-horizontal form-sign-in-header" method="post" autocomplete="on" action="https://www.arcgames.com/en/sign/in">
+		<form class="form-horizontal form-sign-in-header" method="post" autocomplete="on" action="https://www.arcgames.com/en/sign/in">
 		<div class="user-input">
 			<div class="js_sign_in_error_header"></div> 
 			<div class="control-group">
-				<input name="sudskafXATDn" type="text" placeholder="User Name / Email" class="text display-header-sign-in" autocomplete="username">
+				<input name="syetskzGBYACPn" type="text" placeholder="User Name / Email" class="text display-header-sign-in" autocomplete="username">
 			</div>
 			<div class="control-group">
-				<input name="sFFHTgrinywn" type="password" placeholder="Password" class="text password-header-sign-in" autocomplete="current-password">
+				<input name="sLXIPEGQAkshjn" type="password" placeholder="Password" class="text password-header-sign-in" autocomplete="current-password">
 			</div>
-			<div class="login_captcha_group" style="display:none;">
-				<div class="control-group">
-					<p>Captcha<span class="icon-refresh js_refresh_captcha"></span></p>
-					<img src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs%3D" class="captcha-image">
-				</div>
-				<div class="control-group">
-					<label class="control-label" for="captcha-header-sign-in"> Enter the code above </label>
-					<input name="captcha" type="text" class="captcha-header-sign-in">
-				</div>
+			<div class="control-group login_captcha_group" style="display:none;">
+				<div id="js_recaptcha_login_widget"></div>
 			</div>
 			<div class="clearfix">
-				<label class="checkbox pull-left"> <input type="checkbox" name="sEWvgAXMSUZcbnsJRfaXZnbveXBn">Stay signed in</label>
+				<label class="checkbox pull-left"> <input type="checkbox" name="sRHuuTZhkfovqn">Stay signed in</label>
 				<button type="submit" class="btn-common pull-right js_sign_in_header" data-url="https://www.arcgames.com/en/sign/in">Sign in</button>
 			</div>
 		</div>
@@ -258,9 +262,60 @@ FBLogin.init();
 		</div>
 	</form>
 </div>
+<div style="display:none;"> 
+	<div id="js_verifyCredentials"> 
+		<section class="web-defender-wrap">
+	<div class="web-defender">
+    	<h2 class="defender-title">Verify Your Credentials</h2>
+        <div class="defender-line"></div>
+        <div class="defender-content">
+        	<div class="arc-defender">
+                <img src="http://images-cdn.perfectworld.com/arcportal_static/images/web-defender/arc-defender.png?v=2fc2a5f6">
+                <h3>Arc Defender</h3>
+            </div>
+            <p class="overview">Looks like you are logging in with a new computer or browser. For your security, please verify your account prior to logging in. We have emailed you a pin to verify you are the owner of this account.</p>
+            <p class="error"></p>
+            <input class="search-text" type="text" name="pin" value="" maxlength="5">
+            <p class="overview overview-pin">Please enter the pin we emailed you above</p>
+            <p class="error"></p>
+            <a class="btn-common btn-submit-pin" href="#~" data-url="/en/web-defender/validate-pin"><span>Submit My Pin</span></a>
+            <p class="error"></p>
+            <a class="bg-btn btn-where-pin" href="#~" data-url="/en/web-defender/resend-pin"><span>Where is My Pin?</span></a>
+            <p class="email-link"><a href="http://support.arcgames.com/app/answers/detail/a_id/4597/p/96">What is this and why am I seeing it?</a></p>
+            <div class="defender-line"></div>
+            <a class="bg-btn btn-cancel" href="#~"><span>Cancel</span></a>
+        </div>
+    </div>
+</section>
+<script>
+	var pin_error = "The PIN must be 5 characters long, and contain only letters or numbers.";
+</script>
+	</div> 
+	<div id="js_verifyCredentialsSuccess"> 
+		<section class="web-defender-wrap">
+	<div class="web-defender">
+    	<h2 class="defender-title">Account Verification Successful</h2>
+        <div class="defender-line"></div>
+        <div class="defender-content">
+        	<div class="arc-defender">
+                <img src="http://images-cdn.perfectworld.com/arcportal_static/images/web-defender/arc-defender.png?v=2fc2a5f6">
+                <h3>Arc Defender</h3>
+            </div>
+            <p class="overview">Great! We have verified that you have appropriate access to this account.</p>
+            <p class="error"></p>
+            <a class="btn-common btn-continue-arc" href="#~" data-url="/en/web-defender/continue"><span>Continue to Arcgames</span></a>
+            <p class="email-link"><a href="http://support.arcgames.com/app/answers/detail/a_id/4597/p/96">What is this and why am I seeing it?</a></p>
+        </div>
+    </div>
+</section>
+	</div> 
+</div>
  
-						<!-- Registration Form-->
-						 
+								<!-- Registration Form-->
+								<script>
+	var isSplash = false;
+</script>
+ 
 
 <div class="user-register" style="display: none;">
 	 
@@ -274,28 +329,28 @@ FBLogin.init();
 			<span class="bar-45-right"></span>
 		</div> 
 	</div> 
-			<form class="form-horizontal header-register-form" method="post" autocomplete="on" action="https://www.arcgames.com/en/sign/up">
-					<input class="bb" type="hidden" name="sCSccQHAWfcPPplbnXRBWHscbzp">
+				<form class="form-horizontal header-register-form" method="post" autocomplete="on" action="https://www.arcgames.com/en/sign/up">
+					<input class="bb" type="hidden" name="sISSCYPxppzp">
 			 
 			<div class="user-input">
 				<div class="js_sign_up_error_header"></div> 
 				<div class="control-group">
-					<input name="sUNHCdvYSgwqbDBSSVAdwUEDNaqmsMMBWKBwjNTvrgrjpizSUKXjwntydBWkvineqMCp" type="text" placeholder="Email Address" class="text email-header" data-url="https://www.arcgames.com/en/validate/email" autocomplete="email">
+					<input name="sghsakkEEHFEEGssugNTgqnwnzdvlVDVKp" type="text" placeholder="Email Address" class="text email-header" data-url="https://www.arcgames.com/en/validate/email" autocomplete="email">
 				</div>
 				<div class="control-group">
-					<input name="sjlAWbXMTUSKMJjukwFKp" type="text" placeholder="Display Name" class="text display-header" data-url="https://www.arcgames.com/en/validate/nickname" autocomplete="username">
+					<input name="saeGURHscp" type="text" placeholder="Display Name" class="text display-header" data-url="https://www.arcgames.com/en/validate/nickname" autocomplete="username">
 				</div>
 				<div class="control-group">
-					<input name="skaeopzRJp" type="password" placeholder="Password" class="text password-header" maxlength="14" autocomplete="current-password">
+					<input name="sPOxhiqgap" type="password" placeholder="Password" class="text password-header" maxlength="14" autocomplete="current-password">
 				</div>
 							<div class="control-group">
-					<input name="sDGAWqmVLlwFLmztpNAmop" type="password" placeholder="Confirm Password" class="text confirm-header" maxlength="14" autocomplete="current-password">
+					<input name="spfbgiuSALHYOp" type="password" placeholder="Confirm Password" class="text confirm-header" maxlength="14" autocomplete="current-password">
 				</div>
 				<div class="control-group dates">
 					<p>Date of Birth</p>
-        	        <div class="controls">
+					<div class="controls">
 						<div class="birth-header clearfix">
-														<select name="sAFxisSYMRLQrwglFXFZp" class="birth-month-register">
+														<select name="solDJKDQQXAJSuwp" class="birth-month-register">
 								<option value="invalid">MM</option>
 																	<option value="1">01</option>
 																	<option value="2">02</option>
@@ -311,7 +366,7 @@ FBLogin.init();
 																	<option value="12">12</option>
 								 
 							</select>
-														<select name="sCMSVjgFSNXp" class="birth-day-register">
+														<select name="sEONYCNMFLYpmp" class="birth-day-register">
 								<option value="invalid">DD</option>
 																	<option value="1">01</option>
 																	<option value="2">02</option>
@@ -346,8 +401,9 @@ FBLogin.init();
 																	<option value="31">31</option>
 								 
 							</select>
-														<select class="year birth-year-register" name="sFZbyoiDIrwCPLDQTuycvp">
+														<select class="year birth-year-register" name="svmGhdQRwkURuqBRndp">
 								<option value="invalid">YYYY</option>
+																	<option value="2002">2002</option>
 																	<option value="2001">2001</option>
 																	<option value="2000">2000</option>
 																	<option value="1999">1999</option>
@@ -455,20 +511,13 @@ FBLogin.init();
 						</div>
 					</div>
 				</div>
-								<div class="register_captcha_group" style="display:none;">
-					<div class="control-group">
-						<p>Captcha<span class="icon-refresh js_refresh_captcha"></span></p>
-						<img src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs%3D" class="captcha-image">
-					</div>
-					<div class="control-group">
-						<label class="control-label" for="captcha-header-sign-up"> Enter the code above </label>
-						<input name="captcha" type="text" class="text captcha-header-sign-up">
-					</div>
+								<div class="control-group register_captcha_group" style="display:none;">
+					<div id="js_recaptcha_register_widget" class="recaptcha-register-widget"></div>
 				</div>
 				<div class="clearfix">
-									<label class="checkbox"> <input type="checkbox" class="terms-header" name="sGSjtbhNCHNotvoPOp">
+									<label class="checkbox"> <input type="checkbox" class="terms-header" name="saiXVYXawLDAProSPQSihepp">
 						I agree to the <a href="http://www.arcgames.com/en/about/terms">Terms of Service</a>					</label>
-					<label class="checkbox"> <input type="checkbox" name="sgpexXBVKpyp"> Opt out of our mailing list</label>
+					<label class="checkbox"> <input type="checkbox" name="stgbzrfouvtacSEp"> Opt out of our mailing list</label>
 								</div>
 					<a class="btn-register btn-black-new js_register controller-about" href="#" data-url="https://www.arcgames.com/en/sign/up">Register</a>
 			</div>
@@ -480,10 +529,15 @@ FBLogin.init();
 	</form>
 	<div class="register-footer"></div> 
 </div>
+<script>
+   if(isSplash || $('.js_register').hasClass('controller-steam')){
+	  $('.recaptcha-register-widget:eq(0)').attr('id', 'js_recaptcha_register_widget_splash');
+   }
+</script>
  
-											</div>
+																		</div>
 				</li>
-				<li class="languages dropdown"><div class="current-language" data-toggle="dropdown">
+																<li class="languages dropdown"><div class="current-language" data-toggle="dropdown">
 	<a href="#" class="ico-language ico-en">
 		<span>English</span>
 		<i>down</i>
@@ -497,8 +551,9 @@ FBLogin.init();
 		<dd><a class="ico-language ico-ru" lang="ru" href="/ru/about/privacy">Pусский</a></dd>
 		<dd><a class="ico-language ico-tr" lang="tr" href="/tr/about/privacy">Türkçe</a></dd>
 		<dd><a class="ico-language ico-it" lang="it" href="/it/about/privacy">Italiano</a></dd>
+		<dd><a class="ico-language ico-pl" lang="pl" href="/pl/about/privacy">Polski</a></dd>
 	</dl>
-</li>
+</li>				
 			</ul>
 		</div>
 	</div>
@@ -524,16 +579,20 @@ FBLogin.init();
 				<li><a href="http://billing.arcgames.com/en/"> CHARGE </a></li>
 			</ul>
 		</nav>
+		<!--
 		<dl class="install-arc-client" style="display:block">
 			<dt>
-				<a href="http://www.arcgames.com/en/about/client" id="js_whatIsArc" class="highlight">What is Arc?</a>
+			
+			<a href="http://www.arcgames.com/en/about/client" id="js_whatIsArc" class="highlight">What is Arc?</a>
+			
+				
 			</dt>
 			<dd>
-				<a href="/download" class="btn-all btn-install-disabled js-gaEventTracking" style="display: none" data-ga-event-options="{&quot;eventLabel&quot;: &quot;install arc&quot;, &quot;eventValue&quot;: 1}">
+				<a href="/download" class="btn-all btn-install-disabled js-gaEventTracking" style="display: none" data-ga-event-options='{"eventLabel": "install arc", "eventValue": 1}'>
 					<span>Install Arc </span>
 				</a>
 			</dd>
-		</dl>
+		</dl> -->
 	</div>
 </div>
 		<div class="notification" id="js_emailkey_notification" style="display: none">
@@ -548,12 +607,20 @@ FBLogin.init();
         
         	<div class="item-service">
                 <h1>Privacy Policy</h1>
-                <p>Date of Last Revision: November 15, 2014</p>
+                <p>Date of Last Revision: February 12, 2015</p>
             </div>
             <div class="item-privacy">
             	<p><strong>PLEASE READ THIS PRIVACY POLICY CAREFULLY.  IT DESCRIBES DETAILS ABOUT HOW WE COLLECT, USE AND DISCLOSE PERSONAL INFORMATION.  IF YOU ARE UNDER 18, DO NOT PROVIDE ANY INFORMATION UNLESS YOU HAVE FIRST OBTAINED YOUR PARENT’S OR GUARDIAN’S PERMISSION.</strong></p>
-            	<p>Thank you for reading our Privacy Policy and visiting our website <a href="/en">www.arcgames.com</a>. Perfect World Entertainment, Inc. (“Perfect World,” “we,” “us”) uses and maintains this Privacy Policy (“Policy”) that summarizes when and how your personal information is collected, used, safeguarded and disclosed in connection with your use of the <a href="/en">www.arcgames.com</a>, any other website operated by Perfect World, and any micro-site, mobile site or subdomains of such sites (collectively, the “Website”), any games, mobile games and game platforms, clients or servers operated by Perfect World through the Website (the “Games”), and all features, functions, software and services offered through the Website. The Website, the Games and the features, functions, software and services offered through the Website collectively constitute the “Service.” We reserve the right to change the provisions of this Policy at any time. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Website prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.</p>
-                <p>Perfect World complies with the U.S. – E.U. Safe Harbor framework and the U.S. - Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of data from the European Union and Switzerland respectively. Information regarding the both the E.U. and Swiss Safe Harbor Frameworks can be found at: <a href="http://export.gov/safeharbor">http://export.gov/safeharbor</a>.</p>
+            	<p>Thank you for reading our Privacy Policy and visiting our website <a href="/en">www.arcgames.com</a>. Perfect World Entertainment Inc. (“Perfect World,” “we,” “us”) uses and maintains this Privacy Policy (“Policy”) that summarizes when and how your personal information is collected, used, safeguarded and disclosed in connection with your use of the <a href="/en">www.arcgames.com</a>, any other website operated by Perfect World, and any micro-site, mobile site or subdomains of such sites (collectively, the “Website”), any games, mobile games and game platforms, clients or servers operated by Perfect World through the Website (the “Games”), and all features, functions, software and services offered through the Website. The Website, the Games and the features, functions, software and services offered through the Website collectively constitute the “Service.” We reserve the right to change the provisions of this Policy at any time. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Website prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.</p>
+                <p>Perfect World complies with the US-EU Safe Harbor Framework and US-Swiss Safe Harbor Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland.  Perfect World has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement.  To learn more about the Safe Harbor program, and to view our certification page, please visit <a href="http://www.export.gov/safeharbor/">http://www.export.gov/safeharbor/</a>.</p>
+                <p>In compliance with the US-EU and US-Swiss Safe Harbor Principles, Perfect World commits to resolve complaints about your privacy and our collection or use of your personal information.  European Union or Swiss citizens with inquiries or complaints regarding this privacy policy should first contact Perfect World at:</p>
+                <p>
+                	Perfect World Entertainment Inc. <br>
+                    Attn:  Legal Department PWE Safe Harbor <br>
+                    101 Redwood Shores Parkway, Suite 400 <br>
+                    Redwood City, CA 94065
+                </p>
+                <p>Perfect World has further committed to refer unresolved privacy complaints under the US-EU and US-Swiss Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by Perfect World please visit the BBB EU SAFE HARBOR web site at <a href="http://www.bbb.org/council/eusafeharbor/bbb-eu-safe-harbor-dispute-resolution-program">www.bbb.org/us/safe-harbor-complaints</a> for more information and to file a complaint.</p>
             </div>
             <div class="item-privacy">
                 <h2>What is personal information?</h2>
@@ -568,7 +635,7 @@ FBLogin.init();
 				</div>
                 <div class="about-person-infos">
                     <h3><span class="round"></span>Facebook Connect</h3>
-                    <p>You can log in to our Service using Facebook’s sign-in service (“Facebook Connect”). This service will authenticate your identity and provide you the option to share certain personal information with us such as your name and email address to pre-populate our sign up form. We may also collect other information from Facebook, including, but not limited to, the user ID associated with your account, an access token necessary to access that service, any information that you have permitted Facebook to share with us, and any information you have made public on Facebook. If you allow us access to your friends list, your friends’ user IDs, and your connection to those friends, may be used and stored to make your experience more social, and to allow you to invite your friends to use our Service as well as provide you with updates if and when your friends join our Service. You should always review, and if necessary, adjust your privacy settings on Facebook before linking or connecting them to our Website or Service. You may also unlink your Facebook account from the Service by adjusting your Facebook settings. You may also have the option to post information about your activities on this Service to your Facebook profile page to share with others within your network.   </p>
+                    <p>You can log in to our Service using Facebook’s sign-in service (“Facebook Connect”). This service will authenticate your identity and provide you the option to share certain personal information with us such as your name and email address to pre-populate our sign up form. We may also collect other information from Facebook, including, but not limited to, the user ID associated with your account, an access token necessary to access that service, any information that you have permitted Facebook to share with us, and any information you have made public on Facebook. If you allow us access to your friends list, your friends’ user IDs, and your connection to those friends, may be used and stored to make your experience more social, and to allow you to invite your friends to use our Service as well as provide you with updates if and when your friends join our Service. You should always review, and if necessary, adjust your privacy settings on Facebook before linking or connecting them to our Website or Service. You may also unlink your Facebook account from the Service by adjusting your Facebook settings. You may also have the option to post information about your activities on this Service to your Facebook profile page to share with others within your network. </p>
 				</div>
                 
                 <div class="about-person-infos">
@@ -691,7 +758,7 @@ FBLogin.init();
             </div>
             <div class="item-privacy">
             	<h2>International users</h2>
-                <p>Perfect World is a United States based company and our servers and business operations are located primarily is the State of California. By using our Service and providing us with information, you are consenting to the transferring, storing and processing of your information on computers located in the United States of America in the manner described in this Policy. You acknowledge and understand that the laws regarding personal information in the United States may be less stringent than the laws of your country and may not offer the same protections or rights as those laws. If you object to your personal information being transferred or used as described in this Policy, please do not use this Service.</p>
+                <p>Perfect World is a United States based company and our servers and business operations are located primarily is the State of California. By using our Service and providing us with information, you are consenting to the transferring, storing and processing of your information on computers located in the United States of America in the manner described in this Policy, except in the case of data transfers from the European Economic Area, which are covered under the EU Safe Harbor Framework, and except in the case of data transfer from Switzerland, which are covered under the Swiss Safe Harbor Framework. You acknowledge and understand that the laws regarding personal information in the United States may be less stringent than the laws of your country and may not offer the same protections or rights as those laws. If you object to your personal information being transferred or used as described in this Policy, please do not use this Service.</p>
             </div>
             <div class="item-privacy">
             	<h2>Contact Us</h2>
@@ -721,6 +788,7 @@ FBLogin.init();
 		<dd><a class="ico-language ico-ru" lang="ru" href="/ru/about/privacy">Pусский</a></dd>
 		<dd><a class="ico-language ico-tr" lang="tr" href="/tr/about/privacy">Türkçe</a></dd>
 		<dd><a class="ico-language ico-it" lang="it" href="/it/about/privacy">Italiano</a></dd>
+		<dd><a class="ico-language ico-pl" lang="pl" href="/pl/about/privacy">Polski</a></dd>
 	</dl>
 </div>
 		<div class="footer-nav pull-right">
@@ -730,13 +798,13 @@ FBLogin.init();
 					<li><a href="http://www.arcgames.com/en/about/terms">Terms of Service</a></li>
 					<li><a href="http://www.arcgames.com/en/about/privacy">Privacy Policy</a></li>
 					<li><a href="http://www.arcgames.com/en/about/cookie">Cookie Policy</a></li>
-                    <li class="uninstall"><a href="https://support.perfectworld.com/app/answers/detail/a_id/4302">Uninstall</a></li>
+                    <li class="uninstall"><a href="https://support.arcgames.com/app/answers/detail/a_id/4302">Uninstall</a></li>
 					<li><a href="http://www.pwe-inc.com/contact">Contact Us</a></li>
 					<li><a href="http://www.pwe-inc.com/career">Career</a></li>
 				</ul>
 			</nav>
 			<p>
-				Copyright © 2014. Perfect World Entertainment Inc, All Rights Reserved.			</p>
+				Copyright © 2015. Perfect World Entertainment Inc, All Rights Reserved.			</p>
 		</div>
 	</div>
 </footer>
@@ -755,7 +823,7 @@ WebFontConfig = {
 
 (function() {
 	var wf = document.createElement('script');
-	wf.src = '/js/webfont.min.js';
+	wf.src = 'http://images-cdn.perfectworld.com/arcportal_static/js/webfont.min.js?v=2fc2a5f6';
 	wf.type = 'text/javascript';
 	wf.async = 'true';
 	var s = document.getElementsByTagName('script')[0];
@@ -796,18 +864,21 @@ if(!Modernizr.mq('only all') && !$.cookie("pushDownBrowserMessage_status")){
 Modernizr.load([
 	{
 		test: window.matchMedia,
-		nope: 'http://images-cdn.perfectworld.com/arcportal_static/js/media.match.min.js?v=9b70402def9a'
+		nope: 'http://images-cdn.perfectworld.com/arcportal_static/js/media.match.min.js?v=2fc2a5f6'
 	},
 	{
 		test: Modernizr.input.placeholder,
-		nope: 'http://images-cdn.perfectworld.com/arcportal_static/js/jquery.placeholder.min.js?v=9b70402def9a',
+		nope: 'http://images-cdn.perfectworld.com/arcportal_static/js/jquery.placeholder.min.js?v=2fc2a5f6',
 		callback: function(){
 			$('input[type="text"]').placeholder();
 			$('#user-info-dropdown input[type="password"]').placeholder();
 		}
 	},
 	{
-		load: 'http://images-cdn.perfectworld.com/arcportal_static/js/enquire.min.js?v=9b70402def9a',
+		load: 'http://images-cdn.perfectworld.com/arcportal_static/js/colorbox/jquery.colorbox.js?v=2fc2a5f6',
+	},
+	{
+		load: 'http://images-cdn.perfectworld.com/arcportal_static/js/enquire.min.js?v=2fc2a5f6',
 		complete: function () {
       		var topMenu = $('.header .dropdown-content');
       		enquire
@@ -823,6 +894,7 @@ Modernizr.load([
 	}
 ].concat(arrScripts));
 </script>
+
 
 
 
