@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sailthru.com privacy policy that was archived on 2014-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141208134328id_/http%3A//www.sailthru.com/legal/%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sailthru.com privacy policy that was archived on 2015-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150619205400id_/http%3A//www.sailthru.com/legal/%23privacy) for the most accurate reproduction.*
 
 # Legal | Sailthru.com
 
@@ -76,7 +76,7 @@ Like many companies, we use cookies and other technologies on our Site and throu
 
 ##### What We Do
 
-Sailthru partners with its Account Holders to analyze traffic and other end user activity on behalf of such Account Holders to improve their visitors’and subscribers’ experiences. Sailthru usescookies, web beacons, Javascript and other technology on its Account Holders’ sites, on the Site and if you receive an email from us or through our Service. If you are a subscriber to one of our Account Holders, we rely on your subscription and the Account Holder’s privacy practices to provide the Service. If you don’t want your browser data to be collected by Sailthru when you visit sites that use Sailthru, you can see the section below entitled "How to Control Cookies".
+Sailthru partners with its Account Holders to analyze traffic and other end user activity on behalf of such Account Holders to improve their visitors’and subscribers’ experiences. Sailthru uses cookies, web beacons, Javascript and other technology on its Account Holders’ sites, on the Site and if you receive an email from us or through our Service. If you are a subscriber to one of our Account Holders, we rely on your subscription and the Account Holder’s privacy practices to provide the Service. If you don’t want your browser data to be collected by Sailthru when you visit sites that use Sailthru, you can see the section below entitled "How to Control Cookies".
 
 Sailthru may use web server log files and tracking technologies to collect and analyze certain types of technical information, such as cookies, IP addresses, device type and usage information including time spent on particular pages or number of clicks.
 
@@ -101,6 +101,13 @@ Web beacons also allow ad networks to provide anonymized, aggregated auditing, r
 Web beacons are often used in combination with cookies; however unlike cookies, web beacons cannot be declined when delivered via a regular web page. However, they can be refused when delivered via email. If you do not wish to receive this technology via email, configure your email software to disable HTML images or refuse HTML emails (selecting the option for text only viewing). Setting your browser to decline cookies or to prompt you for an opt-in response before cookies are set will also reduce web beacons' functionality.
 
 Sailthru uses Third Party Services includingGoogle Analytics, to collect information about how visitors use the Site in order to optimize visitor experiences. Google Analytics uses web beacons and cookies in order totrack visitor page views and clicks within pages, length of time spent on our Site, and the search term or referring site that brought a visitor to our Site.
+
+##### Do Not Track
+
+Since there is no uniform technological standard for "Do Not Track", our Site does not respond to browser "Do Not Track" signals.
+
+For more information:  
+[http://www.allaboutdnt.com/.](http://www.allaboutdnt.com/)
 
 ##### Defined Terms
 
@@ -243,13 +250,11 @@ Sailthru participates in the EU and Swiss Safe Harbor Privacy Framework as set f
 
 ##### Privacy Statement Last Updated
 
-December 10, 2013
+March 12, 2015
 
 _What did we change?_
 
-We last updated our Privacy Statement and Cookie Statement on December 10, 2013. We made changes to reflect our use of third party advertising and marketing services that drive traffic to our Site and display ads to visitors of our Sitewhen they visit other websites.
-
-We also attempted to make the Cookie Statement and Privacy Statement a little easier to read and to provide some more transparency into our practices, particularly about who we share information with and how we collect it. 
+We last updated our Privacy Statement and Cookie Statement on March 12th 2015. We made changes to explain our Site's policy regarding Do Not Track signals.
 
 ## Prohibited Content Policy
 
