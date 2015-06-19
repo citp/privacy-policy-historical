@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the metrostyle.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120225451id_/http%3A//www.metrostyle.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metrostyle.com privacy policy that was archived on 2015-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150619064715id_/http%3A//www.metrostyle.com/privacy) for the most accurate reproduction.*
 
 # MetroStyle
 
 Privacy Policy
 
-Last updated on: 05/01/2013
+Last updated on: 01/07/2015
 
 Please Read this Policy and our [Terms of Use](https://web.archive.org/terms.asp) Carefully Before Using This Site (California Residents-Click [HERE](https://web.archive.org/privacyAndSecurity.asp#californiaPrivacyRights) for your California Privacy Rights)
 
@@ -112,9 +112,9 @@ metrostyle®
 
 Do Chadwicks and metrostyle Send Unsolicited Promotional Emails?
 
-No. We only send marketing e-mail offers to our current customers who agree to receive them. Our on-line order form contains a pre-checked box signifying your consent to receive promotional e-mails from us. If you do not wish to receive such e-mails, please un-check the box.
+If you have supplied us your e-mail address, we may use your e-mail address to communicate with you updates to the status of your order. We may also send you e-mails regarding special sales, exclusive offers, and other valuable promotions.  does not share or sell email addresses or any other personal information.
 
-If you are not placing an order and would like to request occasional promotional e-mail offers, notifying you of special deals, web-only offers and product previews, you may sign up for E-mail Offers on this website, or call, fax or write us at the addresses listed above. To remove your name from any e-mail offer list, click the unsubscribe link in any of our marketing e-mails you receive, login to the Account Settings under the My Account section of the website in question, or contact our Customer Service Center. Your choice to opt-in or opt-out of promotional e-mails will not affect the order status and registration service. We may offer from time to time referral programs that permit you to submit information about other persons (each, a "Referred Person"), including, without limitation, email addresses, names, street addresses and other contact information so that they may receive information and/or promotional offers. We will use and store any such information that we collect from you about a Referred Person only to the extent necessary to carry out your request, and we will not use any such information for any other purpose unless the Referred Person consents to the use for such other purpose. We do not rent, sell or exchange your e-mail address with third parties to send you unsolicited e-mail offers.
+To remove your name from any e-mail offer list at any time, __[click here](http://www.metrostyle.com/ContactUs)__ _._ __ You may also use the unsubscribe link in any of our marketing e-mails you receive, or contact our Customer Service Center. Your choice to opt-in or opt-out of promotional e-mails will not affect the order status and registration service. We may offer from time to time referral programs that permit you to submit information about other persons (each, a "Referred Person"), including, without limitation, email addresses, names, street addresses and other contact information so that they may receive information and/or promotional offers. We will use and store any such information that we collect from you about a Referred Person only to the extent necessary to carry out your request, and we will not use any such information for any other purpose unless the Referred Person consents to the use for such other purpose. We do not rent, sell or exchange your e-mail address with third parties to send you unsolicited e-mail offers.
 
 How is the Information Collected Safeguarded?
 
