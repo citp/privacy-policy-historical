@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lds.org privacy policy that was archived on 2014-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141022205030id_/https%3A//www.lds.org/legal/privacy%3Flang%3Deng) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lds.org privacy policy that was archived on 2015-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150619114200id_/https%3A//www.lds.org/legal/privacy%3Flang%3Deng) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -76,7 +76,7 @@ E-mail:             [DataPrivacyOfficer@ldschurch.org](mailto:DataPri
 Fax:                 1-801-240-1187  
 Address:          Data Privacy Office  
                        50 E. North Temple St.  
-                       Salt Lake City, UT 84150-0018
+                       Salt Lake City, UT 84150-0013
 
 _12\. Children's Privacy_ **.** We do not knowingly collect information from children under the age of 13 on most of our sites. Any of our sites that collect children’s information will do so only with the prior express and informed consent of the child’s parent or guardian in compliance with applicable law. We strongly recommend that minors under the age of 18 ask their parents for permission before sending any personal information to anyone over the Internet, and we encourage parents to teach their children about safe Internet use practices.
 
