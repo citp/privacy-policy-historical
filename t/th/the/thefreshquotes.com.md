@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thefreshquotes.com privacy policy that was archived on 2014-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141229100104id_/http%3A//www.thefreshquotes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thefreshquotes.com privacy policy that was archived on 2015-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150619080858id_/http%3A//www.thefreshquotes.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy ⋆ TheFreshQuotes
+# Privacy Policy - Quotes and Sayings
 
 This Privacy Policy governs the manner in which TheFreshQuotes collects, uses, maintains and discloses information collected from users (each, a “User”) of the [www.TheFreshQuotes.com](http://www.generateprivacypolicy.com/account/policies/edit/www.TheFreshQuotes.com) website (“Site”). This privacy policy applies to the Site and all products and services offered by TheFreshQuotes.
 
@@ -28,16 +28,16 @@ Our Site may use “cookies” to enhance User experience. User’s web browser 
 
 TheFreshQuotes may collect and use Users personal information for the following purposes:
 
-_\- To improve customer service_  
+_– To improve customer service_  
 Information you provide helps us respond to your customer service requests and support needs more efficiently.
 
-_\- To personalize user experience_  
+_– To personalize user experience_  
 We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
 
-_\- To improve our Site_  
+_– To improve our Site_  
 We may use feedback you provide to improve our products and services.
 
-_\- To send periodic emails_  
+_– To send periodic emails_  
 We may use the email address to respond to their inquiries, questions, and/or other requests.
 
   * **How we protect your information**
@@ -77,8 +77,10 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
-[TheFreshQuotes](http://www.generateprivacypolicy.com/account/policies/edit/www.TheFreshQuotes.com)  
-[www.TheFreshQuotes.com](http://www.generateprivacypolicy.com/account/policies/edit/www.TheFreshQuotes.com)  
-boxhigh@gmail.com
+[TheFreshQuotes](http://www.generateprivacypolicy.com/account/policies/edit/www.TheFreshQuotes.com)
 
-This document was last updated on November 06, 2014
+Owner: Nanno – Pawandeep Kaur  
+[www.TheFreshQuotes.com](http://www.generateprivacypolicy.com/account/policies/edit/www.TheFreshQuotes.com)  
+E-mail: boxhigh@gmail.com
+
+This document was last updated on January 01, 2015
