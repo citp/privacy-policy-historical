@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the technotification.com privacy policy that was archived on 2014-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141221104949id_/http%3A//www.technotification.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the technotification.com privacy policy that was archived on 2015-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150619143237id_/http%3A//www.technotification.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policies
+# Privacy Policies | Technotification
 
 technotification.com respects the privacy concerns of the users of its Internet Sites (“Sites”), and has created this privacy statement to explain what information we gather from your visit to our Sites, and how such information may be used.
 
