@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tipsinfopark.net privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120125702id_/http%3A//www.tipsinfopark.net/p/this-privacy-policy-was-last-modified.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tipsinfopark.net privacy policy that was archived on 2015-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150619034502id_/http%3A//www.tipsinfopark.net/p/this-privacy-policy-was-last-modified.html) for the most accurate reproduction.*
 
-# Privacy Policy - Tipsinfopark | Tips Info Park
+# Privacy Policy - Tipsinfopark
 
 ###  Private Policy - Tipsinfopark:-
 
