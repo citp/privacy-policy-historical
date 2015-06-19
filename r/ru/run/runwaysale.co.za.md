@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the runwaysale.co.za privacy policy that was archived on 2014-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141112112108id_/http%3A//www.runwaysale.co.za/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the runwaysale.co.za privacy policy that was archived on 2015-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150619184627id_/http%3A//www.runwaysale.co.za/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,7 +6,7 @@ RUNWAYSALE.co.za, referred to below as RunwaySale, is an online retailer of cons
 
 RunwaySale values our relationship with you and the other users of this website. We recognize that you may be concerned about our collection, use, and disclosure of your personally identifiable information that we may collect when you use the Web Site. Accordingly, we have implemented this Privacy Policy to inform you of the information that we collect from you, how we collect this information, and what we do with it after we collect it. If you have any questions or comments regarding this Privacy Policy, please contact us via our contact us page.
 
-  * **RUNWAYSALE's Commitment to Online Security**
+  * **RunwaySale's Commitment to Online Security**
 
 
 
@@ -30,7 +30,7 @@ Our site's registration form requires you to provide us contact information and 
 
 You are responsible for all actions taken with your user name, email address and password. Therefore we do not recommend that you disclose your RunwaySale password to any third parties. If you choose to share your user name, email address and password or your information with third parties to provide you additional services, you are responsible for all actions taken with this information and therefore you should review that third party's privacy policy.
 
-RUNWAYSALE uses NetCash to provide a secure environment for the authorisation of credit card and charge card transactions. Confidential information including card details are encrypted using industry standard SSL 128-bit encryption technology.
+RunwaySale uses NetCash to provide a secure environment for the authorisation of credit card and charge card transactions. Confidential information including card details are encrypted using industry standard SSL 128-bit encryption technology.
 
 Cookies are small pieces of information that are stored in a browser-related file on your computer's hard drive when you use our Web site. We use cookies to improve the member experience. We also use them to deliver information and fresh content specific to your interests. Cookies are widely used on most major Web sites. 
 
