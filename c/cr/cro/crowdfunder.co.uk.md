@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crowdfunder.co.uk privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121101751id_/http%3A//www.crowdfunder.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crowdfunder.co.uk privacy policy that was archived on 2015-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150619131317id_/http%3A//www.crowdfunder.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -12,7 +12,7 @@ This policy contains fifteen sections. You can view each section by selecting th
 
 4 INFORMATION SHARING AND DISCLOSURE
 
-5 GOCARDLESS
+5 PAYMENT PROVIDERS
 
 6 USING INFORMATION ABOUT OTHER Crowdfunder.co.uk MEMBERS
 
@@ -52,24 +52,26 @@ _When creating an account and joining the Crowdfunder.co.uk community, we collec
 ** to manage and communicate with you about your access to, or use of, Crowdfunder.co.uk, as well as to inform you of updates to your account;
 
 
-  1. if you choose to support a project, we provide your e-mail address to the creator of the project (‘Project creator’) to enable you to have direct discussions with him/her about     the project;
+  1. if you choose to support a project, we provide your e-mail address to the creator of the project (‘Project Owner’) once the project you have backed is successful to enable you to have direct discussions with him/her about the project;
   2. to send you e-alerts when there is activity on a project that you have created, are supporting or are watching;
   3. to send you newsletters from time to time containing news regarding activity and content on Crowdfunder.co.uk, unless you indicate that you do not wish to receive these emails at the time you enter your details on the registration page for Crowdfunder.co.uk.  If you wish to stop receiving these newsletters, or e-alerts, you can do so at any time, by following the instructions in clause 11 ‘Editing your settings and unsubscribing from Crowdfunder.co.uk emails’;
   4. ask you about your Crowdfunder.co.uk successes (e.g. if you successfully completed a Project). Any responses to such requests will be purely on a voluntary basis;
   5. reply to any correspondence you send to us; and for any other reasonable purposes related to Crowdfunder.co.uk or your membership.
 
 
-  * ****Your name. This is not displayed publicly on the Crowdfunder.co.uk unless you choose to display your name, rather than your username, when you support a Project. If the project you choose to support is successful in reaching its target funding within the target timescale, then your name (as shown on your bank account) is given to the Project creator by our payment processor, Gocardless, when your funds are debited from your account** **.****
+  * ****Your name. This is not displayed publicly on the Crowdfunder.co.uk unless you choose to display your name, rather than your username, when you support a Project. If the project you choose to support is successful in reaching its target funding within the target timescale, then, unless you pledge anonymously, your name (as shown on your bank account) is given to the Project Owne by our payment processors, GoCardless and Stripe, when your funds are taken from your account** **.****
+  * ****By pledging you agree that your personal details given to the Project Owner may be used as relevant for reward fulfilment (i.e. your name on a wall of fame). If your details are used for anything else please contact the Project Owner. Please see our[Terms and Conditions](http://www.crowdfunder.co.uk/terms-conditions) for the contract between you and the project owner.****
 
 
-  * Your username – we ask you to provide a username by which you can be identified publicly.Please note that your username should not feature your last name or contain any other personal information that could be used to identify you (e.g. your address).  If your username with Facebook (or any other third party authentication provider) contains personal information, we recommend you do not use such third party facilities to link to Crowdfunder.co.uk and instead create a Crowdfunder.co.uk account in the standard way.  We reserve the right to reject usernames that are offensive, defamatory or which we otherwise think are unsuitable. If the project you choose to support is successful in reaching its target funding within the target timescale, then we will provide your username to the Project creator so that they can contact you to arrange for your reward.
+  * Your username – we ask you to provide a username by which you can be identified publicly. Please note that your username should not feature your last name or contain any other personal information that could be used to identify you (e.g. your address).  If your username with Facebook (or any other third party authentication provider) contains personal information, we recommend you do not use such third party facilities to link to Crowdfunder.co.uk and instead create a Crowdfunder.co.uk account in the standard way.  We reserve the right to reject usernames that are offensive, defamatory or which we otherwise think are unsuitable. If the project you choose to support is successful in reaching its target funding within the target timescale, then we will provide your username to the Project Owner so that they can contact you to arrange for your reward.
 
 
-  * Your postcode –Your postcode will not be disclosed to the public, except in the circumstances noted in the first paragraph below. We use your postcode:
+  * Your postcode – Your postcode will not be disclosed to the public, except in the circumstances noted in the first paragraph below. We use your postcode:
 
 
-  1. if you are a Project creator, to identify the location on the Crowdfunder.co.uk map in which your project is taking place, in order for Community Members to search for projects near a postcode; and
+  1. if you are a Project Owner, to identify the location on the Crowdfunder.co.uk map in which your project is taking place, in order for Community Members to search for projects near a postcode; and
   2. to provide you with information (including content and projects) that you might find interesting based on your location, (e.g. projects local to you).
+  3. If you have pledged on a reward which requires an address your address will be given to the Project Owner when the project is successful for use during reward fulfilment.
 
 
   * Any personal information you choose to include in your ‘My Profile’ page (e.g. your photo). We use this information:
@@ -101,7 +103,7 @@ _When creating an account and joining the Crowdfunder.co.uk community, we collec
 
 ### 4 Information sharing and disclosure
 
-**4.1** We share your personal information with selected third parties for the purpose of managing and administering the accounts and services provided to you through Crowdfunder.co.uk.  We may further share and disclose this information with (i) other services that we own and/or operate; and (iii) third party sites that are affiliated to Crowdfunder.co.uk for example energyshare (“Sister Services”), in order to better integrate those services with Crowdfunder.co.uk.
+**4.1** We share your personal information with selected third parties for the purpose of managing and administering the accounts and services provided to you through Crowdfunder.co.uk.  We may further share and disclose this information with (i) other services that we own and/or operate; and (ii) third party sites that are affiliated to Crowdfunder.co.uk for example energyshare (“Sister Services”), in order to better integrate those services with Crowdfunder.co.uk.
 
 **4.2** We do not sell or rent your personal information. We may, however, disclose information about you to the following, for the express purposes set out below:
 
@@ -133,13 +135,15 @@ _Legal requests:_
 
 
 
-### 5 GoCardless and PayPal
+### 5 Payment providers
 
 **5.1** If you decide to support a Project by making a financial contribution to it using GoCardless, you will be directed to the payment processor GoCardless to process your payment. You will be invited to set-up a Direct Debit mandate with GoCardless. If the Project is successful in reaching 100% of its target funding within its target timescale, GoCardless will execute a one-off direct debit from your account only.
 
 **5.2** GoCardless operates a secure server to process your payments details. They encrypt the account information you provide and once a Project has successfully reached its target funding within its target timescale, will authorise the debit from your account directly. This means that your account details are never revealed to us. Please read their privacy policy at [[GoCardless privacy policy]](https://gocardless.com/privacy)to see what security measures they have in place and how they treat your information.
 
 **5.3** If you decide to support a Project by making a financial contribution to it using PayPal you will be directed to the payment processor PayPal to process your payment. Please read PayPal's [privacy policy](https://www.paypal.com/cgi-bin/webscr?cmd=p/gen/ua/policy_privacy_pop-outside&popup=1&country.x=US) to learn your privacy rights regarding PayPal's collection, use, storage, sharing and protection of your personal information.
+
+**5.4** If you decide to support a Project by making a financial contribution to it using Stripe you will be prompted to enter your: Full Name, Credit/Debit Card Details & Billing Address in order to process your payment. Please read Stripe’s [privacy policy](https://stripe.com/gb/privacy) to learn what policies Stripe has to manage and protect your personal information.
 
 ### 6 Using information about other Crowdfunder.co.uk users
 
@@ -224,6 +228,6 @@ _Your right to see your personal information_
 
 KEO PF.it Ltd's registered company number is 07831511.
 
-If you have any queries about this Privacy Policy, please contact us at [support@Crowdfunder.co.uk](mailto:support@Crowdfunder.co.uk).
+If you have any queries about this Privacy Policy, please [contact us](http://www.crowdfunder.co.uk/contact).
 
-Posted: [26 - June - 2014]
+Posted: [28 - May - 2015]
