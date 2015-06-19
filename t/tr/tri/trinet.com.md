@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trinet.com privacy policy that was archived on 2014-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140826023737id_/http%3A//www.trinet.com/company/terms.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trinet.com privacy policy that was archived on 2015-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150619070758id_/http%3A//www.trinet.com/company/terms.htm) for the most accurate reproduction.*
 
 # Terms of Use and Privacy Policy | TriNet
 
