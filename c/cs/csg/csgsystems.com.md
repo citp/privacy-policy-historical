@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the csgsystems.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231012846id_/http%3A//www.csgi.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the csgsystems.com privacy policy that was archived on 2015-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150619135248id_/http%3A//www.csgi.com/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy / CSG International
 
@@ -34,6 +34,17 @@ Ron Lambert
 Chief Counsel and Director Business Development  
 Telephone: 312-660-5627  
 [ron.lambert@csgi.com](mailto:ron.lambert@csgi.com)
+
+**U.S.  – EU and U.S. – Swiss Safe Harbor Participation for CSG Systems International, Inc.**
+
+CSG Systems International, Inc. (" **CSG** ") recognizes that the European Union (" **EU** ") has an "ominbus" data protection regime established pursuant to the European Data Protection Directive (95/46/EC) (the " **Directive** ") and that Switzerland has adopted a data protection law (together, " **Data Privacy Laws** "). Among other things, the Data Privacy Laws generally require "adequate protection" for the transfer of personally identifiable information about individuals located in the EU and Switzerland to CSG’s operations in the United States. In connection with providing services to CSG’s customers, CSG Systems may access personally identifiable information about CSG’s customers' consumers in the EU and Switzerland (" **European Consumers** ") (" **European Consumer Data** "). CSG accordingly adheres to the requirements of the US/EU and US/Swiss Safe Harbor Privacy Principles published by the US Department of Commerce (" **Safe Harbor** ") with respect to certain European Consumer Data received in the United States about European Consumers. Our customers act as the data controller for any European Consumer Data collected in the EU and Switzerland and subsequently transferred to CSG in the US. CSG acts as a data processor on behalf of our customers with respect to such European Consumer Data and accordingly only carries out the instructions of such customers with regard to the collection, processing, and protection of European Consumer Data. For more information about Safe Harbor please refer to the US Department of Commerce website at <http://www.export.gov/safeharbor/>. European Consumers may first wish to contact the customer with questions regarding European Consumer Data shared with CSG, as this may be the most efficient means of addressing such access requests. European Consumers may contact the CSG Safe Harbor Privacy Contact identified below to review the European Consumer Data that CSG Systems holds about them. Any European Consumer who cannot resolve his or her issue directly with the customer or CSG can contact the local data protection authority for further information and assistance. 
+
+If you have any questions about our Safe Harbor participation, please contact: 
+
+Gregory Cannon  
+Associate General Counsel and Chief Compliance Officer  
+Telephone: 303-804-4906  
+[Gregory.Cannon@csgi.com](mailto:Gregory.Cannon@csgi.com)
 
 **Customer Concerns**  
 If you have any questions about this privacy policy, the practices of this Site, or your dealings with this Site, you can contact:
