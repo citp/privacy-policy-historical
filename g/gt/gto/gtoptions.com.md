@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gtoptions.com privacy policy that was archived on 2014-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141224073002id_/https%3A//www.gtoptions.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gtoptions.com privacy policy that was archived on 2015-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150619074046id_/http%3A//www.gtoptions.com/privacy) for the most accurate reproduction.*
 
 # Binary Options | Your Privacy is Secure with GTOptions - Binary Options | GTOptions the world's leading binary options trading platform
 
