@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the linksys.com privacy policy that was archived on 2014-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141221041916id_/http%3A//www.belkin.com/us/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linksys.com privacy policy that was archived on 2015-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150619175129id_/http%3A//www.belkin.com/us/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -197,7 +197,3 @@ Should you have any privacy-related questions or comments related to this Privac
 If you have complaints or concerns about this Privacy Policy, please contact us at the above email. We treat all complaints about a breach of the privacy laws seriously. Someone from Belkin will investigate your complaint and respond to you within a reasonable time.
 
 Updated October 20, 2014
-
-**Belkin Privacy Policy Updates**
-
-Updates to the Belkin Privacy Policy reflect recent changes to law and practices relating to sharing information with certain Belkin partners and service providers. These changes have been made throughout the Privacy Policy, primarily under “Sharing Information”, “Where We Store Your Information” and “Accessing and Updating Your Personal Information”. Please review and familiarize yourself with this updated Privacy Policy.
