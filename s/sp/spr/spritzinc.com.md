@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spritzinc.com privacy policy that was archived on 2014-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141119205023id_/http%3A//www.spritzinc.com/online-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spritzinc.com privacy policy that was archived on 2015-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150619065059id_/http%3A//www.spritzinc.com/online-privacy-policy) for the most accurate reproduction.*
 
 # Online Privacy Policy | Spritz
 
@@ -164,4 +164,4 @@ Salt Lake City, Utah 84106
 
 Please note that email communications are not always secure; so please do not include credit card information or sensitive information in your emails to us.
 
-Copyright © 2014 Spritz, all rights reserved. "Spritz", "Powered by Spritz", "Reading Reimagined", and the Spritz logo are registered trademarks of Spritz.
+Copyright © 2015 Spritz, all rights reserved. View our [trademarks](https://web.archive.org/trademarks) page for more information.
