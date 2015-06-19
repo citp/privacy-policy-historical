@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the memolink.com privacy policy that was archived on 2014-12-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141204090949id_/http%3A//www.memolink.com/index.cfm/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the memolink.com privacy policy that was archived on 2015-06-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150619055647id_/http%3A//www.memolink.com/index.cfm/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" class="stylish-select"><head>
 			<meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -19,8 +19,8 @@
 
 			<link rel="stylesheet" href="/assets/css/reset.css" type="text/css" media="screen, projection">
 			<link rel="stylesheet" href="/assets/css/jquery.autocomplete.css" type="text/css" media="screen, projection">
-			<link rel="stylesheet" href="/assets/css/style2.css?v=12.1" type="text/css" media="screen, projection">
-			<link rel="stylesheet" href="/assets/css/slider.css" type="text/css" media="screen, projection">
+			<link rel="stylesheet" href="/assets/css/style2.css?v=15.1" type="text/css" media="screen, projection">
+			<link rel="stylesheet" href="/assets/css/slider.css?vs=1" type="text/css" media="screen, projection">
 
 			
 				<link rel="stylesheet" href="/assets/css/form.css" type="text/css" media="screen, projection">
@@ -189,6 +189,26 @@
 				};
 
 				
+					var toolbarArray = new Array();
+
+					function ToolBarInit(toolbar) {
+						var inArray = false;
+
+						for (i = 0; i < toolbarArray.length; i++) {
+							if (toolbar.UserID == toolbarArray[i].UserID) {
+								inArray = true;
+							};
+						};
+
+						if (!inArray) {
+							toolbarArray.push(toolbar);
+
+							if (toolbar.toolid == 100723) {
+								toolbar.Options.Authenticated("merle2@msn.com", "1", "1", true); toolbar.Reload()
+							};
+						};
+					};
+				
 
 				function freecauseSearch() {
 					// alert("here");
@@ -317,13 +337,472 @@
 
 		<body>
 			
+
+	<div id="navBar3">
+		<div class="navBar3Container">
+			<ul>
+				
+				<li>
+					<a href="/index.cfm/shop.allstores?originID=20&amp;originDetail=11_top-shop" class="noLinkUnderline navBarText">shop</a>
+					<ul>
+						<li>
+							<a href="#"><span class="spanLeft">Shop Categories</span></a>
+							<ul>
+								<li>
+								<a href="/index.cfm/shop.category/60/?originid=20originDetail=11_category-ASOTV"><span class="spanLeft">As Seen on TV</span></a>
+								
+								</li>
+								<li>
+									<a href="/index.cfm/shop.category/6/?originid=20&amp;originDetail=11_category-Baby"><span class="spanLeft">Baby &amp; Children</span></a>
+									<ul>
+										<li><a href="/index.cfm/shop.category/17/?originid=20&amp;originDetail=11_category-Baby-Clothing"><span class="spanLeft">Clothing &amp; Accessories</span></a></li>
+										<li><a href="/index.cfm/shop.category/18/?originid=20&amp;originDetail=11_category-Baby-Toys"><span class="spanLeft">Toys &amp; Games</span></a></li>
+										<li><a href="/index.cfm/shop.category/6/?originid=20&amp;originDetail=11_category-Baby-All"><span class="spanLeft">All Baby &amp; Children Stores</span></a></li>
+										<li><a href="/index.cfm//index.cfm/search.guides/?guidecategory=6&amp;guideSearchType=2&amp;guide=baby%20and%20children&amp;originid=20&amp;originDetail=11_category-Baby-Coupons"><span class="spanLeft">All Baby &amp; Children Coupons</span></a></li>
+										
+									</ul>
+								</li>
+
+								<li>
+									<a href="/index.cfm/shop.category/7/?originid=20&amp;originDetail=11_category-Books"><span class="spanLeft">Books &amp; Media</span></a>
+									<ul>
+										<li><a href="/index.cfm/shop.category/20/?originid=20&amp;originDetail=11_category-Books-Magazines"><span class="spanLeft">Books &amp; Magazines</span></a></li>
+										<li><a href="/index.cfm/shop.category/21/?originid=20&amp;originDetail=11_category-Books-Movies"><span class="spanLeft">Movies, Music &amp; Gaming</span></a></li>
+										<li><a href="/index.cfm/shop.category/7/?originid=20&amp;originDetail=11_category-Books-All"><span class="spanLeft">All Books &amp; Media Stores</span></a></li>
+										<li><a href="/index.cfm//index.cfm/search.guides/?guidecategory=7&amp;guideSearchType=2&amp;guide=books%20and%20media?originid=20&amp;originDetail=11_category-Books-Coupons"><span class="spanLeft">All Books &amp; Media Coupons</span></a></li>
+										
+									</ul>
+								</li>
+								<li>
+									<a href="/index.cfm/shop.category/8/?originid=20&amp;originDetail=11_category-Clothing"><span class="spanLeft">Clothing &amp; Accessories</span></a>
+									<ul>
+										<li><a href="/index.cfm/shop.category/23/?originid=20&amp;originDetail=11_category-Clothing-Womens"><span class="spanLeft">Womens Clothes</span></a></li>
+										<li><a href="/index.cfm/shop.category/24/?originid=20&amp;originDetail=11_category-Clothing-Mens"><span class="spanLeft">Mens Clothes</span></a></li>
+										<li><a href="/index.cfm/shop.category/25/?originid=20&amp;originDetail=11_category-Clothing-Shoes"><span class="spanLeft">Shoes &amp; Handbags</span></a></li>
+										<li><a href="/index.cfm/shop.category/26/?originid=20&amp;originDetail=11_category-Clothing-Plus"><span class="spanLeft">Plus Size Clothes</span></a></li>
+										<li><a href="/index.cfm/shop.category/27/?originid=20&amp;originDetail=11_category-Clothing-Jewelry"><span class="spanLeft">Jewelry &amp; Accessories</span></a></li>
+										<li><a href="/index.cfm/shop.category/61/?originid=20&amp;originDetail=11_category-Clothing-Active"><span class="spanLeft">Active Wear</span></a></li>
+										<li><a href="/index.cfm/shop.category/8/?originid=20&amp;originDetail=11_category-Clothing-All"><span class="spanLeft">All Clothing &amp; Accessories Stores</span></a></li>
+										<li><a href="/index.cfm//index.cfm/search.guides/?guidecategory=8&amp;guideSearchType=2&amp;guide=clothing%20and%20accessories&amp;originid=20&amp;originDetail=11_category-Clothing-Coupons"><span class="spanLeft">All Clothing &amp; Accessories Coupons</span></a></li>
+										
+									</ul>
+								</li>
+								<li>
+									<a href="/index.cfm/shop.category/9/?originid=20&amp;originDetail=11_category-Computers"><span class="spanLeft">Computers &amp; Electronics</span></a>
+									<ul>
+										<li><a href="/index.cfm/shop.category/30/?originid=20&amp;originDetail=11_category-Computers-Accessories"><span class="spanLeft">Computers &amp; Accessories</span></a></li>
+										<li><a href="/index.cfm/shop.category/29/?originid=20&amp;originDetail=11_category-Computers-Camera"><span class="spanLeft">Camera, Photo &amp; Speakers</span></a></li>
+										<li><a href="/index.cfm/shop.category/31/?originid=20&amp;originDetail=11_category-Computers-Cellphone"><span class="spanLeft">Cell Phone &amp; Service</span></a></li>
+										<li><a href="/index.cfm/shop.category/9/?originid=20&amp;originDetail=11_category-Computers-All"><span class="spanLeft">All Computers &amp; Electronics Stores</span></a></li>
+										<li><a href="/index.cfm//index.cfm/search.guides/?guidecategory=9&amp;guideSearchType=2&amp;guide=computers%20and%20electronics&amp;originid=20&amp;originDetail=11_category-Computers-Coupons"><span class="spanLeft">All Electronics Coupons</span></a></li>
+										
+									</ul>
+								</li>
+								<li>
+									<a href="/index.cfm/shop.category/62/?originid=20&amp;originDetail=11_category-DailyDeals"><span class="spanLeft">Daily Deals</span></a>
+									
+
+								</li>
+								<li>
+									<a href="/index.cfm/shop.category/3/?originid=20&amp;originDetail=11_category-DepartmentStores"><span class="spanLeft">Department Stores</span></a>
+									
+								</li>
+
+								<li>
+									<a href="/index.cfm/shop.category/10/?originid=20&amp;originDetail=11_category-Gifts"><span class="spanLeft">Gifts &amp; Personalization</span></a>
+									<ul>
+										<li><a href="/index.cfm/shop.category/33/?originid=20&amp;originDetail=11_category-Gifts-Flowers"><span class="spanLeft">Flowers &amp; Gifts</span></a></li>
+										<li><a href="/index.cfm/shop.category/35/?originid=20&amp;originDetail=11_category-Gifts-Food"><span class="spanLeft">Food, Wine &amp; Coffee</span></a></li>
+										<li><a href="/index.cfm/shop.category/36/?originid=20&amp;originDetail=11_category-Gifts-Cards"><span class="spanLeft">Gift Cards</span></a></li>
+										<li><a href="/index.cfm/shop.category/37/?originid=20&amp;originDetail=11_category-Gifts-Personalized"><span class="spanLeft">Personalized Gifts</span></a></li>
+										<li><a href="/index.cfm/shop.category/10/?originid=20&amp;originDetail=11_category-Gifts-All"><span class="spanLeft">All Gifts &amp; Personalization</span></a></li>
+										<li><a href="/index.cfm//index.cfm/search.guides/?guidecategory=10&amp;guideSearchType=2&amp;guide=gifts%20and%20personalization&amp;originid=20&amp;originDetail=11_category-Gifts-Coupons"><span class="spanLeft">All Gifts &amp; Personalization Coupons</span></a></li>
+										
+									</ul>
+								</li>
+								<li>
+									<a href="/index.cfm/shop.category/11/?originid=20&amp;originDetail=11_category-Health"><span class="spanLeft">Health &amp; Beauty</span></a>
+									<ul>
+										<li><a href="/index.cfm/shop.category/38/?originid=20&amp;originDetail=11_category-Health-Beauty"><span class="spanLeft">Beauty &amp; Fragrances</span></a></li>
+										<li><a href="/index.cfm/shop.category/39/?originid=20&amp;originDetail=11_category-Health-Diet"><span class="spanLeft">Diet &amp; Weight Loss</span></a></li>
+										<li><a href="/index.cfm/shop.category/40/?originid=20&amp;originDetail=11_category-Health-Wellness"><span class="spanLeft">Health &amp; Wellness</span></a></li>
+										<li><a href="/index.cfm/shop.category/11/?originid=20&amp;originDetail=11_category-Health-All"><span class="spanLeft">All Health &amp; Beauty Stores</span></a></li>
+										<li><a href="/index.cfm//index.cfm/search.guides/?guidecategory=11&amp;guideSearchType=2&amp;guide=health%20and%20beauty&amp;originid=20&amp;originDetail=11_category-Health-Coupons"><span class="spanLeft">All Health &amp; Beauty Coupons</span></a></li>
+										
+									</ul>
+								</li>
+								<li>
+									<a href="/index.cfm/shop.category/12/?originid=20&amp;originDetail=11_category-Home"><span class="spanLeft">Home &amp; Garden</span></a>
+									<ul>
+										<li><a href="/index.cfm/shop.category/42/?originid=20&amp;originDetail=11_category-Home-Auto"><span class="spanLeft">Auto &amp; Tools</span></a></li>
+										<li><a href="/index.cfm/shop.category/44/?originid=20&amp;originDetail=11_category-Home-Garden"><span class="spanLeft">Garden &amp; Outdoors</span></a></li>
+										<li><a href="/index.cfm/shop.category/45/?originid=20&amp;originDetail=11_category-Home-Housewares"><span class="spanLeft">Housewares &amp; Décor</span></a></li>
+										<li><a href="/index.cfm/shop.category/12/?originid=20&amp;originDetail=11_category-Home-All"><span class="spanLeft">All Home &amp; Garden Stores</span></a></li>
+										<li><a href="/index.cfm//index.cfm/search.guides/?guidecategory=12&amp;guideSearchType=2&amp;guide=home%20and%garden&amp;originid=20&amp;originDetail=11_category-Home-Coupons"><span class="spanLeft">All Home &amp; Garden Coupons</span></a></li>
+										
+									</ul>
+								</li>
+								<li>
+									<a href="/index.cfm/shop.category/99/?originid=20&amp;originDetail=11_category-Office"><span class="spanLeft">Office</span></a>
+									<ul>
+										<li><a href="/index.cfm/shop.category/116/?originid=20&amp;originDetail=11_category-Office-Ink"><span class="spanLeft">Ink</span></a></li>
+										<li><a href="/index.cfm/shop.category/101/?originid=20&amp;originDetail=11_category-Office-Supplies"><span class="spanLeft">Office Supplies</span></a></li>
+										<li><a href="/index.cfm/shop.category/70/?originid=20&amp;originDetail=11_category-Office-SmallBusiness"><span class="spanLeft">Small Business</span></a></li>
+										<li><a href="/index.cfm/shop.category/99/?originid=20&amp;originDetail=11_category-Office-All"><span class="spanLeft">All Office Stores</span></a></li>
+										<li><a href="/index.cfm//index.cfm/search.guides/?guidecategory=99&amp;guideSearchType=2&amp;guide=office&amp;originid=20&amp;originDetail=11_category-Office-Coupons"><span class="spanLeft">All Office Coupons</span></a></li>
+										
+									</ul>
+								</li>
+								<li>
+									<a href="/index.cfm/shop.category/13/?originid=20&amp;originDetail=11_category-Services"><span class="spanLeft">Services</span></a>
+									<ul>
+										<li><a href="/index.cfm/shop.category/47/?originid=20&amp;originDetail=11_category-Services-Dating"><span class="spanLeft">Dating &amp; Relationships</span></a></li>
+										<li><a href="/index.cfm/shop.category/48/?originid=20&amp;originDetail=11_category-Services-Finance"><span class="spanLeft">Finance</span></a></li>
+										<li><a href="/index.cfm/shop.category/13/?originid=20&amp;originDetail=11_category-Services-All"><span class="spanLeft">All Services Stores</span></a></li>
+										<li><a href="/index.cfm//index.cfm/search.guides/?guidecategory=13&amp;guideSearchType=2&amp;guide=services&amp;originid=20&amp;originDetail=11_category-Services-Coupons"><span class="spanLeft">All Services Coupons</span></a></li>
+										
+									</ul>
+								</li>
+								<li>
+									<a href="/index.cfm/shop.category/14/?originid=20&amp;originDetail=11_category-Fitness"><span class="spanLeft">Sports &amp; Fitness</span></a>
+									<ul>
+										<li><a href="/index.cfm/shop.category/50/?originid=20&amp;originDetail=11_category-Fitness-Exercise"><span class="spanLeft">Fitness &amp; Exercise</span></a></li>
+										<li><a href="/index.cfm/shop.category/51/?originid=20&amp;originDetail=11_category-Fitness-SportingGoods"><span class="spanLeft">Sporting Goods</span></a></li>
+										<li><a href="/index.cfm/shop.category/14/?originid=20&amp;originDetail=11_category-Fitness-All"><span class="spanLeft">All Sports &amp; Fitness Stores</span></a></li>
+										<li><a href="/index.cfm//index.cfm/search.guides/?guidecategory=14&amp;guideSearchType=2&amp;guide=sports%20and%20fitness&amp;originid=20&amp;originDetail=11_category-Fitness-Coupons"><span class="spanLeft">All Sports &amp; Fitness Coupons</span></a></li>
+										
+									</ul>
+								</li>
+								<li>
+									<a href="/index.cfm/shop.category/15/?originid=20&amp;originDetail=11_category-Travel"><span class="spanLeft">Travel &amp; Vacation</span></a>
+									<ul class="travelVacation">
+										<li><a href="/index.cfm//index.cfm/search.guides/?guidecategory=15&amp;guideSearchType=2&amp;guide=travel%20and%20vacation&amp;originid=20&amp;originDetail=11_category-Travel-Coupons"><span class="spanLeft">All Travel &amp; Vacation Coupons</span></a></li>
+										
+										<li><a href="/index.cfm/shop.category/15/?originid=20&amp;originDetail=11_category-Travel-All"><span class="spanLeft">All Travel &amp; Vacation Stores</span></a></li>
+										<li><a href="/index.cfm/shop.category/117/?originid=20&amp;originDetail=11_category-Travel-Luggage"><span class="spanLeft">Luggage &amp; Accessories</span></a></li>
+										<li><a href="/index.cfm/shop.category/54/?originid=20&amp;originDetail=11_category-Travel-Hotels"><span class="spanLeft">Hotels</span></a></li>
+										<li><a href="/index.cfm/shop.category/74/?originid=20&amp;originDetail=11_category-Travel-CarRental"><span class="spanLeft">Car Rentals</span></a></li>
+										<li><a href="/index.cfm/shop.category/53/?originid=20&amp;originDetail=11_category-Travel-Airfare"><span class="spanLeft">Airfare</span></a></li>
+									</ul>
+								</li>
+								<li>
+									<a href="/index.cfm/shop.category/16/?originid=20originDetail=11_category-MoreStores"><span class="spanLeft">More Stores</span></a>
+									<ul class="moreStores">
+										<li><a href="/index.cfm/shop.category/56/?originid=20originDetail=11_category-MoreStores-Crafts"><span class="spanLeft">Crafts &amp; Hobbies</span></a></li>
+										<li><a href="/index.cfm/shop.category/57/?originid=20originDetail=11_category-MoreStores-Pets"><span class="spanLeft">Pets</span></a></li>
+										<li><a href="/index.cfm//index.cfm/search.guides/?guidecategory=16&amp;guideSearchType=2&amp;guide=Pets%20and%20other%20stores&amp;originid=20&amp;originDetail=11_category-MoreStores-Coupons"><span class="spanLeft">Pet &amp; Other Store Coupons</span></a></li>
+										<li><a href="/index.cfm/shop.category/58/?originid=20originDetail=11_category-MoreStores-All"><span class="spanLeft">All Other Stores</span></a></li>
+										
+									</ul>
+								</li>
+
+							</ul>
+						</li>
+						<li><a href="/index.cfm/shop.allstores/?originID=20&amp;originDetail=11_allstores"><span class="spanLeft">Shop All Stores</span></a></li>
+						<li><a href="/index.cfm/shop.category/75/?originID=20&amp;originDetail=11_featured"><span class="spanLeft">Shop Featured Stores</span></a>
+							
+						</li>
+						
+					<li><a href="#"><span class="spanLeft">Shopping Guides</span></a>
+					<ul>
+											
+						<li><a href="/index.cfm/shopping_baby?originID=20&amp;originDetail=11_guide-Baby"><span class="spanLeft">Baby Shopping Guide</span></a></li>
+											
+						<li><a href="/index.cfm/shop.FathersDayCoupons?originID=20&amp;originDetail=11_guide-Father" s'=""><span class="spanLeft">Father's Day Coupons </span></a></li>
+											
+						<li><a href="/index.cfm/shop.GraduationGifts?originID=20&amp;originDetail=11_guide-Graduation"><span class="spanLeft">Graduation Gift Guide &amp; Coupons</span></a></li>
+											
+						<li><a href="/index.cfm/shop.TeamSports?originID=20&amp;originDetail=11_guide-Sports"><span class="spanLeft">Sports Shopping Guide</span></a></li>
+											
+						<li><a href="/index.cfm/wedding-registries?originID=20&amp;originDetail=11_guide-Wedding"><span class="spanLeft">Wedding Shopping Guide</span></a></li>
+					
+					</ul>
+					</li>
+				
+
+						<li>
+							<a href="/index.cfm/business.category/70/?originID=20&amp;originDetail=11_category-SmallBusiness"><span class="spanLeft">Small Business Center</span></a>
+							<ul>
+								<li><a href="/index.cfm/business.category/99/?originID=20&amp;originDetail=11_category-SB-Office"><span class="spanLeft">Office</span></a>
+									<ul class="office">
+										<li>
+											<a href="/index.cfm/business.category/100/?originID=20&amp;originDetail=11_category-SB-Office-AllInOne"><span class="spanLeft">All-In-One Shops</span></a>
+											
+										</li>
+										<li>
+											<a href="/index.cfm/business.category/101/?originID=20&amp;originDetail=11_category-SB-Office-Supplies"><span class="spanLeft">Office Supplies</span></a>
+											
+										</li>
+										<li>
+											<a href="/index.cfm/business.category/102/?originID=20&amp;originDetail=11_category-SB-Office-PC"><span class="spanLeft">PC &amp; Accessories</span></a>
+											
+										</li>
+										<li>
+											<a href="/index.cfm/business.category/103/?originID=20&amp;originDetail=11_category-SB-Office-Software"><span class="spanLeft">Software</span></a>
+											
+										</li>
+
+										<li>
+											<a href="/index.cfm/business.category/105/?originID=20&amp;originDetail=11_category-SB-Office-BreakRoom"><span class="spanLeft">Break Room &amp; Cleaning</span></a>
+											
+										</li>
+										<li>
+											<a href="/index.cfm/business.category/106/?originID=20&amp;originDetail=11_category-SB-Office-Calendar"><span class="spanLeft">Calendar &amp; Planners</span></a>
+											
+										</li>
+										<li>
+											<a href="/index.cfm/business.category/107/?originID=20&amp;originDetail=11_category-SB-Office-Furniture"><span class="spanLeft">Office Furniture</span></a>
+											
+										</li>
+										<li>
+											<a href="/index.cfm/business.category/108/?originID=20&amp;originDetail=11_category-SB-Office-WholeSale"><span class="spanLeft">Wholesale Merchandise</span></a>
+											
+										</li>
+
+									</ul>
+								</li>
+								<li><a href="/index.cfm/business.category/94/?originID=20&amp;originDetail=11_category-SB-Printing"><span class="spanLeft">Printing</span></a>
+									<ul class="printing">
+										<li>
+											<a href="/index.cfm/business.category/95/?originID=20&amp;originDetail=11_category-SB-Printing-Copy"><span class="spanLeft">Copy &amp; Print</span></a>
+											
+										</li>
+										<li>
+											<a href="/index.cfm/business.category/96/?originID=20&amp;originDetail=11_category-SB-Printing-Ink"><span class="spanLeft">Ink &amp; Toner</span></a>
+											
+										</li>
+										<li>
+											<a href="/index.cfm/business.category/97/?originID=20&amp;originDetail=11_category-SB-Printing-Paper"><span class="spanLeft">Paper &amp; Mailings</span></a>
+											
+										</li>
+										<li>
+											<a href="/index.cfm/business.category/98/?originID=20&amp;originDetail=11_category-SB-Printing-Promotional"><span class="spanLeft">Promotional Products</span></a>
+											
+										</li>
+										
+									</ul>
+								</li>
+								<li><a href="/index.cfm/business.category/109/?originID=20&amp;originDetail=11_category-SB-Marketing"><span class="spanLeft">Marketing</span></a>
+									<ul class="printing">
+										<li>
+											<a href="/index.cfm/business.category/111/?originID=20&amp;originDetail=11_category-SB-Marketing-Design"><span class="spanLeft">Design</span></a>
+											
+										</li>
+										<li>
+											<a href="/index.cfm/business.category/110/?originID=20&amp;originDetail=11_category-SB-Marketing-EmailMarketing"><span class="spanLeft">Email Marketing</span></a>
+											
+										</li>
+										<li>
+											<a href="/index.cfm/business.category/112/?originID=20&amp;originDetail=11_category-SB-Marketing-OnlineMarketing"><span class="spanLeft">Online Marketing</span></a>
+											
+										</li>
+										<li>
+											<a href="/index.cfm/business.category/113/?originID=20&amp;originDetail=11_category-SB-Marketing-Press"><span class="spanLeft">Press Release Distribution</span></a>
+											
+										</li>
+										<li>
+											<a href="/index.cfm/business.category/114/?originID=20&amp;originDetail=11_category-SB-Marketing-SearchEngine"><span class="spanLeft">Search Engine Marketing</span></a>
+											
+										</li>
+										<li>
+											<a href="/index.cfm/business.category/115/?originID=20&amp;originDetail=11_category-SB-Marketing-SocialMedia"><span class="spanLeft">Social Media Marketing</span></a>
+											
+										</li>
+
+										
+									</ul>
+								</li>
+								<li><a href="/index.cfm/business.category/15/?originID=20&amp;originDetail=11_category-SB-BusinessTravel"><span class="spanLeft">Business Travel</span></a>
+									<ul class="printing">
+										<li>
+											<a href="/index.cfm/business.category/53/?originID=20&amp;originDetail=11_category-SB-BusinessTravel-Airfare"><span class="spanLeft">Airfare</span></a>
+											
+										</li>
+										<li>
+											<a href="/index.cfm/business.category/74/?originID=20&amp;originDetail=11_category-SB-BusinessTravel-CarRentals"><span class="spanLeft">Car Rentals</span></a>
+											
+										</li>
+										<li>
+											<a href="/index.cfm/business.category/54/?originID=20&amp;originDetail=11_category-SB-BusinessTravel-Hotels"><span class="spanLeft">Hotels</span></a>
+											
+										</li>
+										
+									</ul>
+								</li>
+								<li><a href="/index.cfm/business.category/13/?originID=20&amp;originDetail=11_category-SB-Services"><span class="spanLeft">Services</span></a>
+									<ul class="services">
+										<li>
+											<a href="/index.cfm/business.category/88/?originID=20&amp;originDetail=11_category-SB-Services-Data/Cloud"><span class="spanLeft">Data/Cloud Backup</span></a>
+											
+											
+										</li>
+										<li>
+											<a href="/index.cfm/business.category/89/?originID=20&amp;originDetail=11_category-SB-Srvices-FinancialServices"><span class="spanLeft">Financial Services</span></a>
+											
+										</li>
+										<li>
+											<a href="/index.cfm/business.category/90/?originID=20&amp;originDetail=11_category-SB-Services-PhonesInternet"><span class="spanLeft">Phones &amp; Internet</span></a>
+											
+										</li>
+										<li>
+											<a href="/index.cfm/business.category/91/?originID=20&amp;originDetail=11_category-SB-Services-ProductivityTools"><span class="spanLeft">Productivity Tools</span></a>
+											
+										</li>
+										<li>
+											<a href="/index.cfm/business.category/92/?originID=20&amp;originDetail=11_category-SB-Services-WebsiteHosting"><span class="spanLeft">Websites/Hosting</span></a>
+											
+										</li>
+										<li>
+											<a href="/index.cfm/business.category/93/?originID=20&amp;originDetail=11_category-SB-Services-Other"><span class="spanLeft">Other Business Services</span></a>
+											
+										</li>
+										
+									</ul>
+								</li>
+
+							</ul>
+						</li>
+
+						
+						<li><a href="/index.cfm/shop.morePoints?originID=20&amp;originDetail=11_pointincrease"><span class="spanLeft">Stores with Point Increases</span></a></li>
+						
+						
+						<li><a href="/index.cfm/shop.WhatsNew?originID=20&amp;originDetail=11_whatsnew"><span class="spanLeft">What's New</span></a></li>
+					</ul>
+				</li>
+
+				
+
+				<li>
+					<a href="/index.cfm/search.guides/?guidecategory=4&amp;guideSearchType=1&amp;guide=Free%20Shipping&amp;originID=20&amp;originDetail=12_top-coupons" class="noLinkUnderline navBarText">coupons</a>
+					<ul>
+						<li><a href="/index.cfm/search.guides/?guidecategory=4&amp;guideSearchType=1&amp;guide=Free%20Shipping&amp;originID=20&amp;originDetail=12_free"><span class="spanLeft">Free Shipping Coupons</span></a></li>
+						<li><a href="/index.cfm/search.guides/?guidecategory=5&amp;guideSearchType=1&amp;guide=Stores%20with%20Point%20Increases&amp;originID=20&amp;originDetail=12_pointincreasecpn"><span class="spanLeft">Stores with Point Increases</span></a></li>
+						
+						<li><a href="/index.cfm/search.guides/?guidecategory=3&amp;guideSearchType=2&amp;guide=Department%20Stores&amp;originID=20&amp;originDetail=12_dept"><span class="spanLeft">Department Store Coupons</span></a></li>
+						<li><a href="/index.cfm/search.guides/?guidecategory=6&amp;guideSearchType=2&amp;guide=Baby%20and%20Children&amp;originID=20&amp;originDetail=12_baby"><span class="spanLeft">Baby &amp; Children Coupons</span></a></li>
+						<li><a href="/index.cfm/search.guides/?guidecategory=7&amp;guideSearchType=2&amp;guide=Books%20and%20Media&amp;originID=20&amp;originDetail=12_books"><span class="spanLeft">Books &amp; Media Coupons</span></a></li>
+						<li><a href="/index.cfm/search.guides/?guidecategory=8&amp;guideSearchType=2&amp;guide=Clothing%20and%20Accessories&amp;originID=20&amp;originDetail=12_clothing"><span class="spanLeft">Clothing &amp; Accessories Coupons</span></a></li>
+						<li><a href="/index.cfm/search.guides/?guidecategory=9&amp;guideSearchType=2&amp;guide=Computers%20and%20Electronics&amp;originID=20&amp;originDetail=12_computers"><span class="spanLeft">Computers &amp; Electronics Coupons</span></a></li>
+						<li><a href="/index.cfm/search.guides/?guidecategory=10&amp;guideSearchType=2&amp;guide=Gifts%20and%20Personalization&amp;originID=20&amp;originDetail=12_gifts"><span class="spanLeft">Gifts &amp; Personalization Coupons</span></a></li>
+						<li><a href="/index.cfm/search.guides/?guidecategory=11&amp;guideSearchType=2&amp;guide=Health%20and%20Beauty&amp;originID=20&amp;originDetail=12_health"><span class="spanLeft">Health &amp; Beauty Coupons</span></a></li>
+						<li><a href="/index.cfm/search.guides/?guidecategory=12&amp;guideSearchType=2&amp;guide=Home%20and%20Garden&amp;originID=20&amp;originDetail=12_home"><span class="spanLeft">Home &amp; Garden Coupons</span></a></li>
+						<li><a href="/index.cfm/search.guides/?guidecategory=2&amp;guideSearchType=1&amp;guide=Kids%20and%20Baby&amp;originID=20&amp;originDetail=12_kids"><span class="spanLeft">Kids and Baby Coupons</span></a></li>
+						<li><a href="/index.cfm/search.guides/?guidecategory=99&amp;guideSearchType=2&amp;guide=Office&amp;originID=20&amp;originDetail=12_office"><span class="spanLeft">Office Coupons</span></a></li>
+						<li><a href="/index.cfm/search.guides/?guidecategory=16&amp;guideSearchType=2&amp;guide=Pets%20and%20other%20stores&amp;originID=20&amp;originDetail=12_pets"><span class="spanLeft">Pets &amp; Other Stores Coupons</span></a></li>
+						<li><a href="/index.cfm/search.guides/?guidecategory=13&amp;guideSearchType=2&amp;guide=Services&amp;originID=20&amp;originDetail=12_services"><span class="spanLeft">Services Coupons</span></a></li>
+						<li><a href="/index.cfm/search.guides/?guidecategory=14&amp;guideSearchType=2&amp;guide=Sports%20and%20Fitness&amp;originID=20&amp;originDetail=12_sports"><span class="spanLeft">Sports &amp; Fitness Coupons</span></a></li>
+						<li><a href="/index.cfm/search.guides/?guidecategory=15&amp;guideSearchType=2&amp;guide=Travel%20and%20Vacation&amp;originID=20&amp;originDetail=12_travel"><span class="spanLeft">Travel &amp; Vacation Coupons</span></a></li>
+						<li><a href="/index.cfm/search.guides/?guidecategory=3&amp;guideSearchType=1&amp;guide=Wedding&amp;originID=20&amp;originDetail=12_wedding"><span class="spanLeft">Wedding Coupons</span></a></li>
+					</ul>
+				</li>
+
+				
+				<li>
+					<a href="/index.cfm/survey.list/?originID=20&amp;originDetail=13_top-surveys" class="noLinkUnderline navBarText">surveys</a>
+					<ul>
+						<li><a href="/index.cfm/survey.list/?originID=20&amp;originDetail=13_surveylist"><span class="spanLeft">My Survey List</span></a></li>
+						<li><a href="/index.cfm/earn.link/ct/9olnn7d28/userid/1795521?originID=20&amp;originDetail=13_s4info" title="Complete Search for Information for 5 free points every day" target="_blank"><span class="spanLeft">Search for Information</span></a></li>
+						<li class="liPanel">
+							<a href="#"><span class="spanLeft">Panels</span></a>
+							<ul>
+								
+									<li>
+										<a href="/index.cfm/earn.link/ct/9o4ohgqph/userid/1795521&amp;originID=20&amp;originDetail=13_panel" target="_blank"><span class="spanLeft">NPD</span></a>
+									</li>
+								
+							</ul>
+						</li>
+					</ul>
+				</li>
+				
+				<li>
+					<a href="/index.cfm/earn.easyPoints?originID=20&amp;originDetail=14_top-freebies" class="noLinkUnderline navBarText">freebies</a>
+					<ul>
+						<li><a href="/index.cfm/shop.toolbar?originID=20&amp;originDetail=14_download"><span class="spanLeft">Download Toolbar</span></a></li>
+						<li><a href="/index.cfm/shop.category/79/?originID=20&amp;originDetail=14_freetrial"><span class="spanLeft">Free Trials</span></a></li>
+						<li><a href="/index.cfm/shop.category/77/?originID=20&amp;originDetail=14_games"><span class="spanLeft">Games &amp; Downloads</span></a></li>
+
+						<li><a href="/index.cfm/earn.crowdFlower?originID=20&amp;originDetail=14_tasks"><span class="spanLeft">Memolink Tasks</span></a></li>
+						<li><a href="/index.cfm/shop.category/123/?originID=20&amp;originDetail=14_mobile"><span class="spanLeft">Mobile Apps &amp; Offers</span></a></li>
+						
+							<li><a href="/index.cfm/earn.trivia?originID=20&amp;originDetail=14_trivia"><span class="spanLeft">Play Trivia</span></a></li>
+						
+						<li><a href="/index.cfm/shop.category/83/?originID=20&amp;originDetail=14_polls"><span class="spanLeft">Polls and Quizzes</span></a></li>
+						<li><a href="/index.cfm/shop.category/81/?originID=20&amp;originDetail=14_reg"><span class="spanLeft">Registrations</span></a></li>
+						<li><a href=" /index.cfm/shop.store/TossaPaper?sod=TossaPaper/?originID=20&amp;originDetail=14_SOD"><span class="spanLeft">Site of the Day</span></a></li>
+						<li><a href="/index.cfm/about-memogold?originID=20&amp;originDetail=14_beGOLD"><span class="spanLeft">Become MemolinkGOLD</span></a></li>
+						<li><a target="_1689" href="/index.cfm/track.click/merchant/340/offer/340/?originID=20&amp;originDetail=14_Fbfan"><span class="spanLeft">Become A Facebook Fan</span></a></li>
+
+					</ul>
+				</li>
+
+				
+
+				<li>
+					<a href="/index.cfm/shop.category/78/?originID=20&amp;originDetail=15_top-offers" class="noLinkUnderline navBarText">offers</a>
+					<ul>
+						<li><a href="/index.cfm/shop.category/60/?originID=20&amp;originDetail=15_ASOTV"><span class="spanLeft">As Seen on TV</span></a></li>
+						<li><a href="/index.cfm/shop.category/85?originID=20&amp;originDetail=15_grocery"><span class="spanLeft">Grocery Coupons</span></a></li>
+						<li><a href="/index.cfm/track.click/merchant/247/offer/248?originID=20&amp;originDetail=15_peanut"><span class="spanLeft">Peanut Labs</span></a></li>
+						<li><a href="/index.cfm/track.click/merchant/3365/offer/28357622?originID=20&amp;originDetail=15_personaly"><span class="spanLeft">Persona.ly Video &amp; Offers</span></a></li>
+						<li><a href="/index.cfm/shop.category/78/?originID=20&amp;originDetail=15_mloffers"><span class="spanLeft">Top Offers</span></a></li>
+						<li><a href="/index.cfm/track.click/merchant/1297/offer/2484?originID=20&amp;originDetail=15_wallopoints"><span class="spanLeft">Wall o' Points</span></a></li>
+					</ul>
+				</li>
+
+				
+				<li>
+					<a href="/index.cfm/share.home?originID=20&amp;originDetail=16_top-refer" class="noLinkUnderline navBarText">refer</a>
+				</li>
+
+				
+				<li class="rewards ">
+					<a href="/index.cfm/earn.rewardlist?originID=20&amp;originDetail=17_top-rewards" class="noLinkUnderline navBarText">redeem</a>
+				</li>
+			</ul>
+
+			<div style="display:inline-block;width:450px;">
+				<div id="tripleDrop" style="margin:12px 10px 10px 80px;float:left;">
+					<div class="formInput">
+						<select id="formActions" name="formActions" onchange="buildForm();" style="font-size:17px;font-weight:none;height:27px;width:120px;">
+							<option value="stores" selected="">Stores</option>
+							<option value="coupons">Coupons</option>
+							<option value="products">Products</option>
+
+						</select>
+					</div>
+				</div>
+
+				<div id="storeSearch" class="searchForm" style="float:left;margin-right:0px;">
+					<div>
+						<form name="merchantSearch" id="merchantSearch" method="post" action="/index.cfm/shop.merchantAlias/?originID=20&amp;originDetail=18_stores" style="margin-top:-4px;margin-right:0px;height:27px;" onsubmit="return validateSearch(this)">
+							<input type="text" name="merchant" id="merchant" style="width:198px;font-size:14px;padding-top:1px;" class="searchInput ac_input" onclick="validateSearch(this)" onfocus="clearText(this,'searchInput','storeSearchInputGreyText')" onblur="clearText(this,'storeSearchInputGreyText','searchInput')" value="Search &amp; Save" autocomplete="off"><input type="submit" name="submit" id="submit" value="" class="searchButton twoTop">
+						</form>
+					</div>
+				</div>
+				 <div id="productSearch" class="searchForm" style="float:left;margin-right:0px;visibility:hidden;display:none;">
+					<form name="productForm" id="productForm" method="get" action="/index.cfm/search.results/?originID=20&amp;originDetail=18_product" class="searchForm" style="margin-top:-4px;margin-right:0px;">
+						<input type="text" name="keywords" id="searchField" style="width:198px;font-size:14px;padding-top:1px;" class="searchInput" onfocus="clearText(this,'storeSearchInputBlackText','storeSearchInputGreyText')" onblur="clearText(this,'storeSearchInputBlackText','storeSearchInputGreyText')" value="Search Stores and Products"><input type="submit" name="submit" id="submit" value="" class="searchButton twoTop">
+					</form>
+				</div>
+
+				<div id="couponSearch" class="searchForm" style="float:left;margin-right:0px;visibility:hidden;display:none;">
+					<form name="brandSearch" id="brandSearch" method="post" action="/index.cfm/search.merchantKeywords/?originID=20&amp;originDetail=18_coupons" style="margin-top:-4px;margin-right:0px;">
+						<input type="text" name="keywords" id="searchField" style="width:198px;font-size:14px;padding-top:1px;" class="searchInput" onfocus="clearText(this,'searchInput','storeSearchInputGreyText')" onblur="clearText(this,'storeSearchInputGreyText','searchInput')" value="Search by brand or keyword"><input type="submit" name="submit" id="submit" value="" class="searchButton twoTop">
+					</form>
+				</div>
+			</div>
+		</div>
+	</div>
+ 
 			<div id="wrap">
 				<div id="header" style="padding-bottom:2px;">
-					<div id="logo">
+					<div id="logo" style="margin-bottom:8px;">
 						<a href="/" class="noLinkUnderline">
 
 							
-										<img src="/assets/images/memolinkLogoTrademark.png" height="55" width="176" alt="Memolink" title="Memolink">
+										<img src="/assets/images/memolinkLogoTrademark2.png" height="55" width="176" alt="Memolink" title="Memolink">
 									
 						</a>
 					</div>
@@ -331,473 +810,53 @@
 					<div style="width:400px; float:right;">
 						<div id="accountInfo">
 							
-								<div id="userNoLine">
-									<span class="username">guest</span><br>
+								<div id="user">
 									
-									<a id="regLightBox8" href="/xhr/gLogin.cfm?campID=19">login</a>
+										<span class="username">merle2@msn....</span><br>
+									
+									<a href="/index.cfm/profile.verify">profile</a>  |  <a href="/index.cfm/loggedOut.fbConnectLogout">logout</a><br>
+									<span style="color:#666666;">
+										
+										  8,234 Pts
+										
+									</span>
+								</div>
+
+								<div id="cash">
+									<div style="width:10px;">&nbsp;</div>
+									<div>
+										
+										
+
+										<div class="rewardsMeterContainer">
+											<span class="rewardsMeterText">
+												Rewards Meter
+											</span>
+											<div class="rewardsMeterImageContainer">
+												<img src="http://images.memolink.com/creative-pics/meter.gif" title="Rewards Meter" class="rewardsMeterImage" style="background:#e3f1fe url(http://images.memolink.com/creative-pics/rewardBackgroundm2.gif); background-position:57.1145833333%; 0pt">
+											</div>
+											<div class="amounts">
+												<span class="left">$2</span>
+												<span class="left" style="font-weight:bold; width:30px; font-size:13px; margin-left:35px; text-align:center;">$7</span>
+												<span class="right" style="margin-left:5px;">$10</span>
+											</div>
+										</div>
+									</div>
 								</div>
 							
 						</div>
 						<div class="clear"></div>
 					</div>
 					<div class="clear"></div>
-					
-	<div id="navBar3">
-		<ul>
-			
-			<li>
-				<a href="/index.cfm/shop.allstores" class="noLinkUnderline"><img src="/assets/images/shopIcon.png" title="shop" alt="shop" width="81" height="50"></a>
-				<ul>
-					<li>
-						<a href="#">Shop Categories</a>
-						<ul>
-							<li>
-							<a href="/index.cfm/shop.category/60/?originDetail=LNS">As Seen on TV</a>
-							
-							</li>
-							<li>
-								<a href="/index.cfm/shop.category/6/?originDetail=LNS">Baby &amp; Children</a>
-								<ul>
-									<li><a href="/index.cfm/shop.category/17/?originDetail=LNS">Clothing &amp; Accessories</a></li>
-									<li><a href="/index.cfm/shop.category/18/?originDetail=LNS">Toys &amp; Games</a></li>
-									<li><a href="/index.cfm/shop.category/6/?originDetail=LNS">All Baby &amp; Children Stores</a></li>
-									<li><a href="/index.cfm//index.cfm/search.guides/?guidecategory=6&amp;guideSearchType=2&amp;guide=baby%20and%20children">All Baby &amp; Children Coupons</a></li>
-									
-								</ul>
-							</li>
-
-							<li>
-								<a href="/index.cfm/shop.category/7/?originDetail=LNS">Books &amp; Media</a>
-								<ul>
-									<li><a href="/index.cfm/shop.category/20/?originDetail=LNS">Books &amp; Magazines</a></li>
-									<li><a href="/index.cfm/shop.category/21/?originDetail=LNS">Movies, Music &amp; Gaming</a></li>
-									<li><a href="/index.cfm/shop.category/7/?originDetail=LNS">All Books &amp; Media Stores</a></li>
-									<li><a href="/index.cfm//index.cfm/search.guides/?guidecategory=7&amp;guideSearchType=2&amp;guide=books%20and%20media">All Books &amp; Media Coupons</a></li>
-									
-											<li class="liBorderTop">
-												
-
-					<a target="_5490" href="/index.cfm/track.click/merchant/3220/offer/25724735/?originID=1&amp;originDetail=LNS"><span class="aHover">Barnes &amp; Noble</span>, up to   48 points/$</a>
-					<br>
-					<a href="/index.cfm/shop.store/Barnes&amp;Noble/?originID=1&amp;originDetail=LNS">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;see all <span class="aHover">Barnes &amp; Noble coupons</span></a>
-
-				
-											</li>
-										
-								</ul>
-							</li>
-							<li>
-								<a href="/index.cfm/shop.category/8/?originDetail=LNS">Clothing &amp; Accessories</a>
-								<ul>
-									<li><a href="/index.cfm/shop.category/23/?originDetail=LNS">Womens Clothes</a></li>
-									<li><a href="/index.cfm/shop.category/24/?originDetail=LNS">Mens Clothes</a></li>
-									<li><a href="/index.cfm/shop.category/25/?originDetail=LNS">Shoes &amp; Handbags</a></li>
-									<li><a href="/index.cfm/shop.category/26/?originDetail=LNS">Plus Size Clothes</a></li>
-									<li><a href="/index.cfm/shop.category/27/?originDetail=LNS">Jewelry &amp; Accessories</a></li>
-									<li><a href="/index.cfm/shop.category/61/?originDetail=LNS">Active Wear</a></li>
-									<li><a href="/index.cfm/shop.category/8/?originDetail=LNS">All Clothing &amp; Accessories Stores</a></li>
-									<li><a href="/index.cfm//index.cfm/search.guides/?guidecategory=8&amp;guideSearchType=2&amp;guide=clothing%20and%20accessories">All Clothing &amp; Accessories Coupons</a></li>
-									
-								</ul>
-							</li>
-							<li>
-								<a href="/index.cfm/shop.category/9/?originDetail=LNS">Computers &amp; Electronics</a>
-								<ul>
-									<li><a href="/index.cfm/shop.category/30/?originDetail=LNS">Computers &amp; Accessories</a></li>
-									<li><a href="/index.cfm/shop.category/29/?originDetail=LNS">Camera, Photo &amp; Speakers</a></li>
-									<li><a href="/index.cfm/shop.category/31/?originDetail=LNS">Cell Phone &amp; Service</a></li>
-									<li><a href="/index.cfm/shop.category/9/?originDetail=LNS">All Computers &amp; Electronics Stores</a></li>
-									<li><a href="/index.cfm//index.cfm/search.guides/?guidecategory=9&amp;guideSearchType=2&amp;guide=computers%20and%20electronics">All Computers &amp; Electronics Coupons</a></li>
-									
-								</ul>
-							</li>
-							<li>
-								<a href="/index.cfm/shop.category/62/?originDetail=LNS">Daily Deals</a>
-								
-									<ul>
-									
-											<li>
-										
-
-					<a target="_4448" href="/index.cfm/track.click/merchant/3024/offer/23062345/?originID=1&amp;originDetail=LNS"><span class="aHover">LivingSocial</span>, up to  134 points/$</a>
-					<br>
-					<a href="/index.cfm/shop.store/LivingSocial/?originID=1&amp;originDetail=LNS">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;see all <span class="aHover">LivingSocial coupons</span></a>
-
-				
-										</li>
-									
-									</ul>
-								
-							</li>
-							<li>
-								
-								<a href="/index.cfm/shop.category/3/?originDetail=LNS">Department Stores</a>
-							</li>
-							
-							<li>
-								<a href="/index.cfm/shop.category/10/?originDetail=LNS">Gifts &amp; Personalization</a>
-								<ul>
-									<li><a href="/index.cfm/shop.category/33/?originDetail=LNS">Flowers &amp; Gifts</a></li>
-									<li><a href="/index.cfm/shop.category/35/?originDetail=LNS">Food, Wine &amp; Coffee</a></li>
-									<li><a href="/index.cfm/shop.category/36/?originDetail=LNS">Gift Cards</a></li>
-									<li><a href="/index.cfm/shop.category/37/?originDetail=LNS">Personalized Gifts</a></li>
-									<li><a href="/index.cfm/shop.category/10/?originDetail=LNS">All Gifts &amp; Personalization</a></li>
-									<li><a href="/index.cfm//index.cfm/search.guides/?guidecategory=10&amp;guideSearchType=2&amp;guide=gifts%20and%20personalization">All Gifts &amp; Personalization Coupons</a></li>
-									
-								</ul>
-							</li>
-							<li>
-								<a href="/index.cfm/shop.category/11/?originDetail=LNS">Health &amp; Beauty</a>
-								<ul>
-									<li><a href="/index.cfm/shop.category/38/?originDetail=LNS">Beauty &amp; Fragrances</a></li>
-									<li><a href="/index.cfm/shop.category/39/?originDetail=LNS">Diet &amp; Weight Loss</a></li>
-									<li><a href="/index.cfm/shop.category/40/?originDetail=LNS">Health &amp; Wellness</a></li>
-									<li><a href="/index.cfm/shop.category/11/?originDetail=LNS">All Health &amp; Beauty Stores</a></li>
-									<li><a href="/index.cfm//index.cfm/search.guides/?guidecategory=11&amp;guideSearchType=2&amp;guide=health%20and%20beauty">All Health &amp; Beauty Coupons</a></li>
-									
-								</ul>
-							</li>
-							<li>
-								<a href="/index.cfm/shop.category/12/?originDetail=LNS">Home &amp; Garden</a>
-								<ul>
-									<li><a href="/index.cfm/shop.category/42/?originDetail=LNS">Auto &amp; Tools</a></li>
-									<li><a href="/index.cfm/shop.category/44/?originDetail=LNS">Garden &amp; Outdoors</a></li>
-									<li><a href="/index.cfm/shop.category/45/?originDetail=LNS">Housewares &amp; Décor</a></li>
-									<li><a href="/index.cfm/shop.category/12/?originDetail=LNS">All Home &amp; Garden Stores</a></li>
-									<li><a href="/index.cfm//index.cfm/search.guides/?guidecategory=12&amp;guideSearchType=2&amp;guide=home%20and%garden">All Home &amp; Garden Coupons</a></li>
-									
-								</ul>
-							</li>
-							<li>
-								<a href="/index.cfm/.category/99/?originDetail=LNS">Office</a>
-								<ul>
-									<li><a href="/index.cfm/shop.category/116/?originDetail=LNS">Ink</a></li>
-									<li><a href="/index.cfm/shop.category/101/?originDetail=LNS">Office Supplies</a></li>
-									<li><a href="/index.cfm/shop.category/70/?originDetail=LNS">Small Business</a></li>
-									<li><a href="/index.cfm/shop.category/99/?originDetail=LNS">All Office Stores</a></li>
-									<li><a href="/index.cfm//index.cfm/search.guides/?guidecategory=12&amp;guideSearchType=2&amp;guide=office">All Office Coupons</a></li>
-									
-								</ul>
-							</li>
-							<li>
-								<a href="/index.cfm/shop.category/13/?originDetail=LNS">Services</a>
-								<ul>
-									<li><a href="/index.cfm/shop.category/47/?originDetail=LNS">Dating &amp; Relationships</a></li>
-									<li><a href="/index.cfm/shop.category/48/?originDetail=LNS">Finance</a></li>
-									<li><a href="/index.cfm/shop.category/13/?originDetail=LNS">All Services Stores</a></li>
-									<li><a href="/index.cfm//index.cfm/search.guides/?guidecategory=13&amp;guideSearchType=2&amp;guide=services">All Services Coupons</a></li>
-									
-								</ul>
-							</li>
-							<li>
-								<a href="/index.cfm/shop.category/14/?originDetail=LNS">Sports &amp; Fitness</a>
-								<ul>
-									<li><a href="/index.cfm/shop.category/50/?originDetail=LNS">Fitness &amp; Exercise</a></li>
-									<li><a href="/index.cfm/shop.category/51/?originDetail=LNS">Sporting Goods</a></li>
-									<li><a href="/index.cfm/shop.category/14/?originDetail=LNS">All Sports &amp; Fitness Stores</a></li>
-									<li><a href="/index.cfm//index.cfm/search.guides/?guidecategory=14&amp;guideSearchType=2&amp;guide=sports%20and%20fitness">All Sports &amp; Fitness Coupons</a></li>
-									
-								</ul>
-							</li>
-							<li>
-								<a href="/index.cfm/shop.category/15/?originDetail=LNS">Travel &amp; Vacation</a>
-								<ul class="travelVacation">
-									<li><a href="/index.cfm//index.cfm/search.guides/?guidecategory=15&amp;guideSearchType=2&amp;guide=travel%20and%20vacation">All Travel &amp; Vacation Coupons</a></li>
-									
-									<li><a href="/index.cfm/shop.category/15/?originDetail=LNS">All Travel &amp; Vacation Stores</a></li>
-
-									<li><a href="/index.cfm/shop.category/117/?originDetail=LNS">Luggage &amp; Accessories</a></li>
-									<li><a href="/index.cfm/shop.category/54/?originDetail=LNS">Hotels</a></li>
-									<li><a href="/index.cfm/shop.category/74/?originDetail=LNS">Car Rentals</a></li>
-									<li><a href="/index.cfm/shop.category/53/?originDetail=LNS">Airfare</a></li>
-								</ul>
-							</li>
-							<li>
-								<a href="/index.cfm/shop.category/16/?originDetail=LNS">More Stores</a>
-								<ul class="moreStores">
-									<li><a href="/index.cfm//index.cfm/search.guides/?guidecategory=16&amp;guideSearchType=2&amp;guide=Pets%20and%20other%20stores">Pet &amp; Other Store Coupons</a></li>
-									
-									<li><a href="/index.cfm/shop.category/58/?originDetail=LNS">All Other Stores</a></li>
-									<li><a href="/index.cfm/shop.category/57/?originDetail=LNS">Pets</a></li>
-									<li><a href="/index.cfm/shop.category/56/?originDetail=LNS">Crafts &amp; Hobbies</a></li>
-								</ul>
-							</li>
-						</ul>
-					</li>
-					<li><a href="/index.cfm/shop.allstores/?originID=6&amp;originDetail=TN-3"><span>Shop All Stores</span></a></li>
-					<li>
-						<a href="/index.cfm/shop.category/75/?originDetail=LNS">Shop Featured Stores</a>
-
-							
-					</li>
-					
-					<li><a href="#">Shop Gift Guides</a>
-					<ul>
-											
-						<li><a href="/index.cfm/shop.TeamSports">Sports Shopping Guide</a></li>
-											
-						<li><a href="/index.cfm/wedding-registries">Wedding Shopping Guide</a></li>
-											
-						<li><a href="/index.cfm/shopping_baby">Baby Shopping Guide</a></li>
-					
-					</ul>
-					</li>
-				
-
-					<li>
-						<a href="/index.cfm/business.category/70/?originDetail=LNS">Small Business Center</a>
-						<ul>
-							<li><a href="/index.cfm/business.category/99/?originDetail=LNS">Office</a>
-								<ul class="office">
-									<li>
-										<a href="/index.cfm/business.category/100/?originDetail=LNS">All-In-One Shops</a>
-										
-									</li>
-									<li>
-										<a href="/index.cfm/business.category/101/?originDetail=LNS">Office Supplies</a>
-										
-									</li>
-									<li>
-										<a href="/index.cfm/business.category/102/?originDetail=LNS">PC &amp; Accessories</a>
-										
-									</li>
-									<li>
-										<a href="/index.cfm/business.category/103/?originDetail=LNS">Software</a>
-										
-									</li>
-
-									<li>
-										<a href="/index.cfm/business.category/105/?originDetail=LNS">Break Room &amp; Cleaning</a>
-										
-									</li>
-									<li>
-										<a href="/index.cfm/business.category/106/?originDetail=LNS">Calendar &amp; Planners</a>
-										
-									</li>
-									<li>
-										<a href="/index.cfm/business.category/107/?originDetail=LNS">Office Furniture</a>
-										
-									</li>
-									<li>
-										<a href="/index.cfm/business.category/108/?originDetail=LNS">Wholesale Merchandise</a>
-										
-									</li>
-
-								</ul>
-							</li>
-							<li><a href="/index.cfm/business.category/94/?originDetail=LNS">Printing</a>
-								<ul class="printing">
-									<li>
-										<a href="/index.cfm/business.category/95/?originDetail=LNS">Copy &amp; Print</a>
-										
-									</li>
-									<li>
-										<a href="/index.cfm/business.category/96/?originDetail=LNS">Ink &amp; Toner</a>
-										
-									</li>
-									<li>
-										<a href="/index.cfm/business.category/97/?originDetail=LNS">Paper &amp; Mailings</a>
-										
-									</li>
-									<li>
-										<a href="/index.cfm/business.category/98/?originDetail=LNS">Promotional Products</a>
-										
-									</li>
-									
-								</ul>
-							</li>
-							<li><a href="/index.cfm/business.category/109/?originDetail=LNS">Marketing</a>
-								<ul class="printing">
-									<li>
-										<a href="/index.cfm/business.category/111/?originDetail=LNS">Design</a>
-										
-									</li>
-									<li>
-										<a href="/index.cfm/business.category/110/?originDetail=LNS">Email Marketing</a>
-										
-									</li>
-									<li>
-										<a href="/index.cfm/business.category/112/?originDetail=LNS">Online Marketing</a>
-										
-									</li>
-									<li>
-										<a href="/index.cfm/business.category/113/?originDetail=LNS">Press Release Distribution</a>
-										
-									</li>
-									<li>
-										<a href="/index.cfm/business.category/114/?originDetail=LNS">Search Engine Marketing</a>
-										
-									</li>
-									<li>
-										<a href="/index.cfm/business.category/115/?originDetail=LNS">Social Media Marketing</a>
-										
-									</li>
-									
-								</ul>
-							</li>
-							<li><a href="/index.cfm/business.category/15/?originDetail=LNS">Business Travel</a>
-								<ul class="printing">
-									<li>
-										<a href="/index.cfm/business.category/53/?originDetail=LNS">Airfare</a>
-										
-									</li>
-									<li>
-										<a href="/index.cfm/business.category/74/?originDetail=LNS">Car Rentals</a>
-										
-									</li>
-									<li>
-										<a href="/index.cfm/business.category/54/?originDetail=LNS">Hotels</a>
-										
-									</li>
-									
-								</ul>
-							</li>
-							<li><a href="/index.cfm/business.category/13/?originDetail=LNS">Services</a>
-								<ul class="services">
-									<li>
-										<a href="/index.cfm/business.category/88/?originDetail=LNS">Data/Cloud Backup</a>
-										
-									</li>
-									<li>
-										<a href="/index.cfm/business.category/89/?originDetail=LNS">Financial Services</a>
-										
-									</li>
-									<li>
-										<a href="/index.cfm/business.category/90/?originDetail=LNS">Phones &amp; Internet</a>
-										
-									</li>
-									<li>
-										<a href="/index.cfm/business.category/91/?originDetail=LNS">Productivity Tools</a>
-										
-									</li>
-									<li>
-										<a href="/index.cfm/business.category/92/?originDetail=LNS">Websites/Hosting</a>
-										
-									</li>
-									<li>
-										<a href="/index.cfm/business.category/93/?originDetail=LNS&#9;">Other Business Services</a>
-										
-									</li>
-									
-								</ul>
-							</li>
-
-						</ul>
-					</li>
-					<li><a href="/index.cfm/search.guides/?guidecategory=5&amp;guideSearchType=1&amp;guide=Stores with Point Increases">Search Coupons</a></li>
-					<li><a href="/index.cfm/search.guides/?guidecategory=4&amp;guideSearchType=1&amp;guide=Free%20Shipping">Free Shipping Coupons</a></li>
-					
-
-					
-					<li><a href="/index.cfm/shop.twelvedaysofsaving">See All Point Increases</a></li>
-
-					<li><a href="/index.cfm/shop.WhatsNew">What's New</a></li>
-				</ul>
-			</li>
-
-			
-			
-			<li>
-				<a href="/index.cfm/survey.list/"><img src="/assets/images/surveysIcon.png" title="surveys" alt="surveys" width="102" height="50"></a>
-				<ul>
-					<li><a href="/index.cfm/survey.list/">My Survey List</a></li>
-					<li><a href="/index.cfm/earn.link/ct/9olnn7d28/userid/0" title="Complete Search for Information for 5 free points every day" target="_blank">Search for Information</a></li>
-					<li class="liPanel">
-						<a href="#">Panels</a>
-						<ul>
-							
-								<li><a href="#">None Available</a></li>
-							
-						</ul>
-					</li>
-				</ul>
-			</li>
-			
-			<li>
-				<a href="/index.cfm/earn.easyPoints"><img src="/assets/images/easyPointsIcon.png" title="easy points" alt="easy points"></a>
-				<ul>
-					<li><a href="/index.cfm/shop.category/76/?originDetail=LNS">Memolink's' Easiest Offers</a></li>
-					<li><a href="/index.cfm/track.click/merchant/247/offer/248?originDetail=LNS">Peanut Labs</a></li>
-					<li><a href="/index.cfm/track.click/merchant/1297/offer/2484?originDetail=LNS">Wall o' Points</a></li>
-					<li><a href="/index.cfm/share.home?originDetail=LNS">Invite Your Friends</a></li>
-					<li><a href="/index.cfm/earn.crowdFlower?originDetail=LNS">Memolink Tasks</a></li>
-					
-						<li><a href="/index.cfm/earn.trivia">Trivia</a></li>
-					
-
-					<li><a href="/index.cfm/shop.category/85?originDetail=LNS">Grocery Coupons</a></li>
-					<li><a target="_7119" href="/index.cfm/track.click/merchant/340/offer/340?originDetail=LNS">Become A Facebook Fan</a></li>
-					<li><a href="/index.cfm/about-memogold?originDetail=LNS">Become MemolinkGOLD</a></li>
-					<li><a href="/index.cfm/earn.easyPoints?originDetail=LNS">See all Easy Points</a></li>
-
-				</ul>
-			</li>
-
-			
-			<li class="rewards ">
-				<a href="/index.cfm/earn.rewardlist" class="noLinkUnderline"><img src="/assets/images/rewardsIcon.png" title="share" alt="share" width="114" height="50"></a>
-			</li>
-		</ul>
-
-		<div style="display:inline-block;width:380px;">
-			<div id="tripleDrop" style="margin:12px 10px 10px 10px;float:left;">
-				<div class="formInput">
-					<select id="formActions" name="formActions" onchange="buildForm();" style="font-size:17px;font-weight:none;height:27px;width:120px;">
-						<option value="stores" selected="">Stores</option>
-						<option value="coupons">Coupons</option>
-						<option value="products">Products</option>
-
-					</select>
-				</div>
-			</div>
-
-			<div id="storeSearch" class="searchForm" style="float:left;margin-right:0px;">
-				<div>
-					<form name="merchantSearch" id="merchantSearch" method="post" action="/index.cfm/shop.merchantAlias/" style="margin-top:-4px;margin-right:0px;height:27px;" onsubmit="return validateSearch(this)">
-						<input type="text" name="merchant" id="merchant" style="width:198px;font-size:14px;padding-top:1px;" class="searchInput ac_input" onclick="validateSearch(this)" onfocus="clearText(this,'searchInput','storeSearchInputGreyText')" onblur="clearText(this,'storeSearchInputGreyText','searchInput')" value="Search &amp; Save" autocomplete="off"><input type="submit" name="submit" id="submit" value="" class="searchButton twoTop">
-					</form>
-				</div>
-			</div>
-			 <div id="productSearch" class="searchForm" style="float:left;margin-right:0px;visibility:hidden;display:none;">
-				<form name="productForm" id="productForm" method="get" action="/index.cfm/search.results/" class="searchForm" style="margin-top:-4px;margin-right:0px;">
-					<input type="text" name="keywords" id="searchField" style="width:198px;font-size:14px;padding-top:1px;" class="searchInput" onfocus="clearText(this,'storeSearchInputBlackText','storeSearchInputGreyText')" onblur="clearText(this,'storeSearchInputBlackText','storeSearchInputGreyText')" value="Search Stores and Products"><input type="submit" name="submit" id="submit" value="" class="searchButton twoTop">
-				</form>
-			</div>
-
-			<div id="couponSearch" class="searchForm" style="float:left;margin-right:0px;visibility:hidden;display:none;">
-				<form name="brandSearch" id="brandSearch" method="post" action="/index.cfm/search.merchantKeywords/" style="margin-top:-4px;margin-right:0px;">
-					<input type="text" name="keywords" id="searchField" style="width:198px;font-size:14px;padding-top:1px;" class="searchInput" onfocus="clearText(this,'searchInput','storeSearchInputGreyText')" onblur="clearText(this,'storeSearchInputGreyText','searchInput')" value="Search by brand or keyword"><input type="submit" name="submit" id="submit" value="" class="searchButton twoTop">
-				</form>
-			</div>
-		</div>
-	</div>
-</div> 
 
 				<div class="clear"></div>
 				
-					<div id="socialBlueJoinBar">
-						<div id="blueJoinPrivacy">
-							By joining Memolink, you agree to our <a href="/index.cfm/terms-conditions" target="_blank"> <span style="text-decoration:underline; color:white;">terms</span></a> and <a href="/index.cfm/privacy-policy" target="_blank"> <span style="text-decoration:underline;color:white;">privacy</span></a> policy.
-						</div>
-
 						<div>
-							<a id="regLightBox5" href="/xhr/gRegistration.cfm?campID=19"><img src="/assets/images/joinBar/socialJoinLoginBar.png" style="position:absolute; z-index:11;margin:15px 0px 0px 335px;cursor:pointer;"></a>
+							
+								<a href="http://www.memolink.com/index.cfm/shop.morePoints"><img src="/assets/images/TopBanner_Half.png" width="480" height="60" alt="Fathers Day" style="margin-top:8px;"></a><a href="http://www.memolink.com/index.cfm/shop.FathersDayGifts"><img src="/assets/images/FathersDay_TopBanner_Half.png" width="480" height="60" alt="Fathers Day" style="margin-top:8px;"></a>
+							
 						</div>
-
-						<div>
-							<a id="regLightBox6" href="/xhr/gRegistration.cfm?campID=19"><img src="/assets/images/joinBar/socialJoinBarPreview.jpg" style="position:absolute; z-index:11;margin:0px 0px 0px 500px;cursor:pointer;"></a>
-						</div>
-
-						<div>
-							<a id="regLightBox7" href="/xhr/gLogin.cfm?campID=19"><img src="/assets/images/joinBar/socialLoginJoinBar.png" style="position:absolute; z-index:11;margin:28px 0px 0px 765px;cursor:pointer;"></a>
-						</div>
-
-						<div style="clear:both;"></div>
-
-						<div id="loginBox"></div>
-					</div>
-
-				
+					
 
 				<div id="joinErrors" style="padding-bottom:0px;">
 					
@@ -806,82 +865,70 @@
 				
 				<div id="contentWrap"> 
 					<div id="content"> 
-
-<!--Privacy Statement 1.5.2012 rm-->
-
-Last Updated February 1, 2012
+<!--Privacy Statement 3.11.2015 amt-->
+Last Updated March 11, 2015
+<span style="line-height:1.4em">
 <hr>
 
 <br>
-<font-size:14px; text-align:left;"=""><div class="headline"><b>Memolink.com Privacy Statement Highlights</b></div>
+<font-size:14px; text-align:left;"=""><div class="headline"><b>Memolink.com Privacy Statement Highlights</b></div><br>
 
-<div class="openPara">Have you ever wondered what we do with the information you  give us, but maybe you didn’t want to take the time to read through a long,  legal document to find out?  Well, we’ve  made a change that will make understanding how we collect, use, and protect  your information easier and less time consuming.   We’re proud of how we adhere to best  practices when it comes to your information and we want you to feel good about  it too.  Below are the highlights of the  full Memolink.com Privacy Statement.  Click  into any section to read additional details. </div>
+<div class="openPara">Have you ever wondered what we do with the information you give us, but maybe you didn’t want to take the time to read through a long, legal document to find out? Well, we’ve made a change that will make understanding how we collect, use, and protect your information easier and less time consuming. We’re proud of how we adhere to best practices when it comes to your information and we want you to feel good about it too. Below are the highlights of the full Memolink.com Privacy Statement. Click into any section to read additional details. </div>
 
 <br>
 
-<div class="headline1"><b>Personal Information</b> 
+<div class="headline1"><b>Personal Information</b> <u><a href="#personalInfo">More Details</a></u><br><br>
+<ul><li><span style="margin-left:2em">•<span style="margin-left:.5em">  When you register for Memolink.com we will ask you to provide various personal and other information.</span></span></li><li><span style="margin-left:2em">•<span style="margin-left:.5em">  If you join using a social login and provide consent, we may collect certain social information including your interests, email address, birthday, city, and likes.</span></span></li>
 
-<u><a href="#personalInfo">More Details</a></u><br>
-
- 
-
-<ul>
-
-  <li><span class="list1">When you register for Memolink.com we will ask  you to provide various personal and other information.</span></li>
-
-  <li><span class="list1">The information we collect may be combined with  information obtained from Memolink Surveys and other business partners.</span></li>
-
-  <li><span class="list1">We use cookies and other technologies to keep  track of your point-earning actions so we can credit Memolink Points to your  account and to offer a customized experience.</span></li>
+  <li><span style="margin-left:2em">•<span style="margin-left:.5em">  The information we collect may be combined with information obtained from Memolink Surveys and other business partners.</span></span></li>
+  
+  <li><span style="margin-left:2em">•<span style="margin-left:.5em">  We use cookies and other technologies to keep track of your point-earning actions so we can credit Memolink Points to your account and to offer a<br><span style="margin-left:2em"><span style="margin-left:1em">customized experience.</span></span></span></span></li>
 
 </ul>
 
- 
-<br>
-<div class="headline1"><b>Uses of Information</b>  <u><a href="#useInfo">More Details</a></u><br>
-
- 
+ <br>
+<div class="headline1"><b>Uses of Information</b>  <u><a href="#useInfo">More Details</a></u><br><br>
 
 <ul>
+  <li><span style="margin-left:2em">•<span style="margin-left:.5em">  We use the information we collect to provide the Memolink.com rewards program service. Our services may include providing you with personalized content based<br><span style="margin-left:2em">&nbsp;&nbsp; &nbsp;&nbsp;on the information we have about you and your interests.</span></span></span></li>
 
-  <li><span class="list1">We use the information we collect to provide the  Memolink.com rewards program service.   Our services may include the display of personalized content.</span></li>
+  <li><span style="margin-left:2em">•<span style="margin-left:.5em">  We use your information to inform you of other products or services offered by Memolink.com and its business partners, and to send you relevant survey invitations.</span></span></li>
 
-  <li><span class="list1">We use your information to inform you of other  products or services offered by Memolink.com and its business partners, and to  send you relevant survey invitations.</span></li>
-
-  <li><span class="list1">We do not sell, rent, or lease our member lists  to third parties.  In order to help  provide our services, we may occasionally provide information to other  companies that work on our behalf.</span></li>
-
-</ul>
+  <li><span style="margin-left:2em">•<span style="margin-left:.5em">  We do not sell, rent, or lease your information; however, in order to help provide our services, we may occasionally provide your non-personally identifiable<br><span style="margin-left:2em">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;information to other companies that work on our behalf and are bound by confidentiality obligations to protect your information.</span></span></span></li>
+  <li><span style="margin-left:2em">•<span style="margin-left:.5em">  With respect to any information that we collect from your social login:
+  <ul>
+  	  <li><span style="margin-left:3em">•<span style="margin-left:1em">  We will not sell your data or your friend’s data</span></span></li>
+  	  <li><span style="margin-left:3em">•<span style="margin-left:1em">  We will not post on your behalf without your permission</span></span></li>
+  	  <li><span style="margin-left:3em">•<span style="margin-left:1em">  We will not send messages to your friends without your permission</span></span></li>
+  	  <li><span style="margin-left:3em">•<span style="margin-left:1em">  We will not spam you with unsolicited emails</span></span></li>
+</ul></span></span></li></ul>
 <br>
-<div class="headline1"><b>Your Choices</b> <span class="revisedDate"><a href="#commPrefs">More Details</a></span></div>
-
+<div class="headline1"><b>Your Choices</b> <span class="revisedDate"><a href="#commPrefs">More Details</a></span></div><br>
 <ul>
+  <li><span class="list1">To stop receiving promotion email, please follow the instructions in any email. See the <a href="#commPrefs">email communication section</a> of the full  privacy statement for additional details.</span></li>
 
-  <li><span class="list1">To stop receiving promotion email follow the instructions in any email. See the <a href="#email">email communication section</a> of the full  privacy statement for additional details.</span></li>
-
-  <li><span class="list1">To view and edit your personal information, go  to the <a href="#accesspersonal">access section</a> of the full  privacy statement.</span></li>
+  <li><span class="list1">To view and edit your personal information, go to the <a href="#accesspersonal">access section</a> of the full  privacy statement.</span></li>
 
 </ul>
-<br>
-<div class="headline1"><b>How to Contact Us</b></div>
+<br><div class="headline1"><b>How to Contact Us</b></div><br>
 
   <ul><div class="list1">For more information about our privacy practices contact us <a href="mailto:support@memolink.com">here</a>.  </div>
 
-  </ul><br>
+  </ul>
 
-  <div class="headline1"><b>Consumer Protection Information</b></div>
-
-  <ul><div class="list1">Learn how one simple update can <a href="http://www.memolink.com/index.cfm/Consumer-Protection-Info" target="new">protect your privacy</a> online. </div>
+  <br><div class="headline1"><b>Consumer Protection Information</b></div><br>
+  <ul><div class="list1">Learn how one simple update can <a href="http://www.memolink.com/index.cfm/consumer-protection-info" target="new">protect your privacy</a> online. </div>
 
   </ul>
-<br>
+
 </div>
 
 
-<div class="headline"><b>Memolink.com Privacy  Statement</b></div>
+<br><div class="headline"><b>Memolink.com Privacy  Statement</b></div><br>
 
 <div class="list1">
   	
-	<u><a href="#personalInfo">Collection of Your Personal Information</a></u>
-<br>
+	<u><a href="#personalInfo">Collection of Your Personal Information</a></u><br>
     <u><a href="#useInfo">Use of Your Personal Information</a></u><br>
     <u><a href="#sharing">Sharing of Your Personal Information</a></u><br>
     <u><a href="#accesspersonal">Accessing Your Personal Information</a></u><br>
@@ -893,129 +940,112 @@ Last Updated February 1, 2012
 	<u><a href="#contact">Contacting Us</a></u></div>
 
 <br>
-It is important that you fully understand what happens to  the information we gather from you through the use of our Website located at,  or linked to, <a href="http://www.memolink.com" target="new">www.memolink.com</a>. Please read this Privacy Statement carefully to  understand how we will use and protect your personal information.
+It is important that you fully understand what happens to the information we gather from you through the use of our Website located at, or linked to, <a href="http://www.memolink.com" target="new">www.memolink.com</a>. Please read this Privacy Statement carefully to understand how we will use and protect your personal information.
 <br>
 <br>
-  We will use your personal information only as described in  this Statement. Each time you use Memolink.com, the current version of the  Privacy Statement will apply. Accordingly, when you use Memolink.com, you  should check the date of this Statement and review any changes since the last  version. 
+We will use your personal information only as described in this Statement. Each time you use Memolink.com, the current version of the Privacy Statement will apply. Accordingly, when you use Memolink.com, you should check the date of this Statement and review any changes since the last version. 
 
 
 <br>
 <br>
 <div class="headline1"><a name="personalInfo" id="personalInfo"></a>
-<b>Collection of Your  Personal Information</b></div>
-  Upon registration we will ask a user to provide personal  information such as name, email address, physical mailing address, and phone  number(s).  We may also collect other information  about you known as demographic and profile data, such as your zip code, annual  income, preferences, or age. After registration we may ask for additional personal  information from you, such as shipping address and proof of address. By  completing Memolink surveys, you will be providing us with additional personal  information or data.<br>
-     
-  <br>
-  Occasionally we may ask our business partners to provide  additional information about you, such as purchases you made, products ordered,  order number, the date and time of the purchase, and the email address used for  the purchase. <br> 
-  <br>
-  When you receive email from Memolink.com, we may use <a href="#beacons">Web beacons</a> and customized links (or similar  technologies) to determine whether the email has been opened and whether you  clicked on a link in the email.<br>
-  <br>
-  Information collected through registration may be combined  with demographic information that you provide through completion of Memolink surveys. 
-  We may collect information about your interaction with our  Site and services. For example, we may use website analytics tools on our Site to  retrieve information from your browser, including the site you came from, the  search engine(s) and the keywords you used to find our Site, the pages you view  within our Site, your browser add-ons, and your browser's width and height. We  may also use technologies, such as <a href="#cookies">cookies</a> and <a href="#beacons">Web beacons</a>, to collect  information about the pages you view, the links you click and other actions you  take on our Sites and services. Additionally, we collect certain standard  information that your browser sends to every website you visit, such as your IP  address, browser type and language, access times and referring Web site  addresses.
-  <br>
-
-
-<span style="float:right">
-<a href="#top"><img src="http://images.memolink.com/creative-pics/back_to_top.gif" border="0" alt="Memolink privacy policy: back to top"></a>
-</span>
+<b>Collection of Your Personal Information</b></div><br>
+  Upon registration, we will ask a user to provide personal information such as name, email address, physical mailing address, and phone number(s). We may also collect other information about you, known as demographic and profile data, such as your zip code, annual income, preferences, or age. After registration, we may ask for additional personal information from you, such as shipping address and proof of address. By completing Memolink surveys, you will be providing us with additional personal information or data.<br><br>
+  <ul>
+  <li><span style="margin-left:2em">•<span style="margin-left:.5em">&nbsp;If a user joins using a social login, such as Facebook or Twitter and provides consent, we may collect social information including your interests, email address, <br> <span style="margin-left:3em">birthday, city, and likes.  Memolink utilizes this information to personalize your experience to show you the most relevant content, such as displaying or emailing<br> <span style="margin-left:3em">deals from your favorite stores, surveys targeted to your age or city, and displaying or emailing offers that may be of more interest to you.  </span></span></span></span></li>
+<br></ul>
+We may ask our business partners to provide additional information about you, such as purchases you made, products ordered, order number, the date and time of the purchase, and the email address used for the purchase. 
 <br>
 <br>
-  
-<div class="headline1"><a name="useInfo" id="useInfo"></a><b>Use of Your Personal  Information</b></div>
-  Memolink.com collects and uses your personal information and  other data to operate and improve our Site and services.  These uses may include providing you with  more effective member support service; making our Site easier to use; performing  research and analysis aimed at improving our Site and services; and providing  you with content and communication that are relevant to your interests and  preferences, such as an alert that a coupon is available for one of your  favorite stores.<br>
-  <br>
-  We also use your personal information to communicate with  you. We may contact you via email with important account information critical  to your membership with us, with offerings or surveys from our business  partners, or with responses to your member support inquiries.  We may use the physical address and proof of  address that you provide to ship rewards and to prevent fraud.  For more information about the use of  information for communication, see the <a href="#commPrefs">Communication  Preference</a> section below.<br>
+ When you receive email from Memolink.com, we may use <a href="#beacons">Web beacons</a> and customized links (or similar technologies) to determine whether the email has been opened and whether you clicked on a link in the email, so we can award you memolink points.
+ <br>
+ <br>
+Information collected through registration may be combined with demographic information that you provide through completion of Memolink surveys. We may collect information about your interaction with our Site and services. For example, we may use website analytics tools on our Site to retrieve information from your browser, including the site you came from, the search engine(s) and the keywords you used to find our Site, the pages you view within our Site, your browser add-ons, and your browser's width and height. We may also use technologies, such as <a href="#cookies">cookies</a> and <a href="#beacons">Web beacons</a>, to collect information about the pages you view, the links you click and other actions you take on our Sites and services. Additionally, we collect certain standard information that your browser sends to every website you visit, such as your IP address, browser type and language, access times and referring Web site addresses. 
+<br><span style="float:right">
+<a href="#top"><img src="http://images.memolink.com/creative-pics/back_to_top.gif" border="0" alt="Memolink privacy policy: back to top"></a></span><br><br>
+ <div class="headline1"><a name="useInfo" id="useInfo"></a>
+<b>Use of Your Personal Information</b></div><br>
+Memolink.com collects and uses your personal information and other data to operate and improve our Site and services. These uses may include providing you with more effective member support service; making our Site easier to use; performing research and analysis aimed at improving our Site and services; and providing you with content and communication that are relevant to your interests and preferences, such as an alert that a coupon is available for one of your favorite stores.
+<br><br>
+We also use your personal information to communicate with you. We may contact you via email with important account information critical to your membership with us, with offerings or surveys from our business partners, or with responses to your member support inquiries. We may use the physical address and proof of address that you provide to ship rewards and to prevent fraud. For more information about the use of information for communication, see the <a href="#commPrefs">Communication Preferences</a> section below.
+<br><br>
+The following protections apply to any information that we obtain from your social login:
+<ul>
+    <li><span style="margin-left:2em">•  We will not sell the social profile data of users or their friends to third parties. This includes not sharing any social profile data with a third party unless the third party<br><span style="margin-left:2em">&nbsp; acts on our behalf (for example, as a vendor or service provider).</span></span></li>
+    <li><span style="margin-left:2em">•  We will not publicly post to a user’s social network account on behalf of a user without the user’s explicit permission.</span></li>
+    <li><span style="margin-left:2em">•  We will not use personal information obtained via social login to send newsletters or promotional emails unless users have opted-in to such notifications. You can <br><span style="margin-left:2em">&nbsp;&nbsp;opt out of newsletters at any time.</span></span></li>
+    <li><span style="margin-left:2em">•  We will not send private messages to a user’s friend(s) unless prompted by the user.</span></li>
+    <li><span style="margin-left:2em">•  We will not spam you with unsolicited emails.</span></li>
+    <li><span style="margin-left:2em">•  We will delete all of your information obtained from a social login (including friend data) if you ask us to delete such information, unless we are required to keep it<br><span style="margin-left:2em">&nbsp;&nbsp; by law, regulation or separate agreement (however, we may keep aggregate data if no information indentifying a specific person could be inferred or created from it).  </span></span></li>
+</ul><br><span style="float:right"><a href="#top"><img src="http://images.memolink.com/creative-pics/back_to_top.gif" border="0" alt="Memolink privacy policy: back to top"></a></span><br>  
 
-<span style="float:right">
-<a href="#top"><img src="http://images.memolink.com/creative-pics/back_to_top.gif" border="0" alt="Memolink privacy policy: back to top"></a>
-</span><br>
-  <br>
-  <div class="headline1"><a name="cookies" id="cookies"></a><b>Use of Cookies</b></div>
-  A “cookie” is a small piece of data we store on your hard  drive. When you logon to our Site using your email address and password, we  store a unique session ID number in a cookie on your hard drive.  A cookie is used to help us keep track of the points  you earn during a visit to our Site.  For  convenience, a cookie is also used to allow you to move from page to page  without having to login again on each page.   Once you logout from our Site, these cookies are deleted from your  computer. You have the ability to accept or decline cookies. Most Web browsers  automatically accept cookies, but, if you prefer, you can usually change your  browser setting to decline cookies. If you choose to decline cookies on our  Site, you may still use our Site, however you will be prompted to logon  multiple times and you risk not receiving credit for the points you have earned.<br>
-    <br>
-  Cookies are specific to the server that created them and  cannot be accessed by other servers, which means they <u>cannot</u> be used to  track your movements around the Web. <br>
-
-<span style="float:right"><a href="#top"><img src="http://images.memolink.com/creative-pics/back_to_top.gif" border="0" alt="Memolink privacy policy: back to top"></a></span><br>
-  <br>
-  <div class="headline1"><a name="beacons" id="beacons"></a><b>Use of Web Beacons</b></div>
-  Memolink.com Web pages or email communication may contain  tiny electronic images known as Web beacons, also known as clear gifs, single-pixel  gifs, pixel tags, or action tags. Similar in function to cookies, a Web beacon may  be used to track your movement from page to page on our Site and to let us know  if you have opened an email that we sent you.<div class="headline1"></div>
-    <br>
-    
-  We use Web beacons to help us manage content on our Site by  informing us of what content is most viewed by our users, and to help us measure  advertising effectiveness. 
-  <br>
-  <br>
-  We may also employ Web beacons  from third parties in order to help us compile aggregated statistics regarding  the effectiveness of our content, advertising, or other operations of our Site.  We prohibit Web beacons on our Site from being used by third parties to collect  or access your personal information.<br>
-  <span style="float:right">
-<a href="#top"><http: images.memolink.com="" creative-pics="" back_to_top.gif"="" border="0" alt="Memolink privacy policy: back to top"></http:></a></span>
+<div class="headline1"><a name="cookies" id="cookies"></a>
+<b>Use of Cookies</b></div><br>
+A “cookie” is a small piece of data we store on your hard drive. When you logon to our Site using your email address and password or social login, we store a unique session ID number in a cookie on your hard drive. A cookie is used to help us keep track of the points you earn during a visit to our Site. For convenience, a cookie is also used to allow you to move from page to page without having to login again on each page. You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but, if you prefer, you can usually change your browser setting to decline cookies. If you choose to decline cookies on our Site, you may still use our Site, however you will be prompted to logon multiple times and you risk not receiving credit for the points you have earned.
+<br><span style="float:right"><a href="#top"><img src="http://images.memolink.com/creative-pics/back_to_top.gif" border="0" alt="Memolink privacy policy: back to top"></a></span><br> 
+<br>
+<div class="headline1"><a name="beacons" id="beacons"></a>
+<b>Use of Web Beacons</b></div><br>
+Memolink.com Web pages or email communication may contain tiny electronic images known as Web beacons, also known as clear gifs, single-pixel gifs, pixel tags, or action tags. Similar in function to cookies, a Web beacon may be used to track your movement from page to page on our Site and to let us know if you have opened an email that we sent you.
+<br><br>
+We use Web beacons to help us manage content on our Site by informing us of what content is most viewed by our users, and to help us measure advertising effectiveness. 
+<br><br>
+We may also employ Web beacons from third parties in order to help us compile aggregated statistics regarding the effectiveness of our content, advertising, or other operations of our Site. We prohibit Web beacons on our Site from being used by third parties to collect or access your personal information.
+<br><span style="float:right"><a href="#top"><img src="http://images.memolink.com/creative-pics/back_to_top.gif" border="0" alt="Memolink privacy policy: back to top"></a></span><br>  
 <br>
 
-
-  <br>  
-  <div class="headline1"><a name="sharing" id="sharing"></a><b>Sharing of Your Personal Information</b></div>
-
-    Except as described in this statement, we will not disclose your personal  information outside of Memolink.com without your consent.  Memolink may  disclose personal information if required to do so by law or if it believes  that such action is necessary to protect and defend the rights, property or  personal safety of Memolink and its website, visitors to the website and  members of our services.   Your personal  information may be transferred in connection with a business transition, such  as a merger, acquisition, insolvency, or asset sale.      
-    In order to provide our products and services, we may hire  other companies to provide limited services on our behalf, such as to send  email, to perform statistical analysis of our services, to provide member  support, or to carry out reward fulfillment. These service providers will be  permitted to obtain only the personal information they need to perform their  functions. They are required to maintain the confidentiality of the information  and are prohibited from using it for any other purpose. <br>
-  <br>
-  Our website contains links to the sites of third  parties.  When you visit these sites, please  consult those sites' individual privacy statements in order to determine how  they treat user information.  Memolink is  not responsible for the privacy statements or the content of such sites, and  the privacy practices of other Websites and companies are not covered by this  statement. Memolink requests that users report any and all concerns about our business  partners' privacy practices directly to us as outlined in the <a href="http://www.memolink.com/index.cfm/privacy-policy#contact">Contacting Us</a> section below.<br>
-
-
-
-  <span style="float:right"><a href="#top"><img src="http://images.memolink.com/creative-pics/back_to_top.gif" border="0" alt="Memolink privacy policy: back to top"></a></span><br>
-  <br>
-  <div class="headline1"><a name="accesspersonal" id="accesspersonal"></a><b>Accessing Your  Personal Information</b></div>
- Memolink users are able to change their personal information  at any time, with the exception of first and last name. Members wishing to  change first or last name must contact us and have a valid reason for the  change (such as marriage). The fastest way to change personal information is to  logon to Memolink.com and go to the Edit Profile section of the My Account  area, then click “Edit Personal Info.”  If  for some reason this page does not work, or you have any questions, you may  contact us as outlined in the <a href="#contact">Contacting Us</a> section below.<br>
-
-
-<span style="float:right">
-<a href="#top"><img src="http://images.memolink.com/creative-pics/back_to_top.gif" border="0" alt="Memolink privacy policy: back to top"></a></span><br>  
-  <br>
-  <div class="headline1"><a name="commPrefs" id="commPrefs"></a><b>Communication  Preferences</b></div>
-  You may choose whether you would like to receive marketing communications  and offers promoted by Memolink.com or our third party business partners. If  you do not wish to receive marketing communications from us, you may opt out at  any time.  These choices do not apply to  the receipt of specific administrative notices that are required by law,  regulation, or as needed to service your account.<br>
+<div class="headline1"><a name="sharing" id="sharing"></a>
+<b>Sharing of Your Personal Information</b></div><br>
+Except as described in this statement, we will not disclose your personal information outside of Memolink.com without your consent. Memolink may disclose personal information if required to do so by law or if it believes that such action is necessary to protect and defend the rights, property or personal safety of Memolink and its website, visitors to the website and members of our services. Your personal information may be transferred in connection with a business transition, such as a merger, acquisition, insolvency, or asset sale. In order to provide our products and services, we may hire other companies to provide limited services on our behalf, such as to send email, to perform statistical analysis of our services, to provide member support, or to carry out reward fulfillment. These service providers will be permitted to obtain only the personal information they need to perform their functions. They are required to maintain the confidentiality of the information and are prohibited from using it for any other purpose. 
+<br><br>
+Our website contains links to the sites of third parties. When you visit these sites, please consult those sites' individual privacy statements in order to determine how they treat user information. Memolink is not responsible for the privacy statements or the content of such sites, and the privacy practices of other Websites and companies are not covered by this statement. Memolink requests that users report any and all concerns about our business partners' privacy practices directly to us as outlined in the <a href="#contact">Contacting Us</a> section below.
+<br><span style="float:right"><a href="#top"><img src="http://images.memolink.com/creative-pics/back_to_top.gif" border="0" alt="Memolink privacy policy: back to top"></a></span><br>  
 <br>
 
-<div class="headline2"><a name="email" id="email"></a><b>Email  Communication</b></div>
-Because email is integral part of the program, you sign up  to receive email targeted to your interests at the time of registration.  If you do not wish to receive email messages,  known as Memolink Emails, you may opt out by updating your Email Preferences at any  time on the Memolink.com Site, or by clicking on the “Unsubscribe” link at the  bottom of any Memolink Emails.  Your other  unsubscribe options also include sending an unsubscribe request in the mail to  the physical address contained in every Memolink Emails or by sending an unsubscribe  request to our Member Support department.   Whatever method you choose, you will be removed from our mailing list within  no more than 3 business days, but usually within 24 hours.
-  <br>
+<div class="headline1"><a name="accessPersonal" id="accessPersonal"></a>
+<b>Accessing Your Personal Information</b></div><br>
+Memolink users are able to change their personal information at any time, The fastest way to change personal information is to logon to Memolink.com and go to the Edit Profile section of the My Account area, then click “Edit Personal Info.” If for some reason this page does not work, or you have any questions, you may contact us as outlined in the <a href="#contact">Contacting Us</a> section below.
+<br><span style="float:right"><a href="#top"><img src="http://images.memolink.com/creative-pics/back_to_top.gif" border="0" alt="Memolink privacy policy: back to top"></a></span><br>  
+<br>
 
-<span style="float:right">
-<a href="#top">
-<img src="http://images.memolink.com/creative-pics/back_to_top.gif" border="0" alt="Memolink privacy policy: back to top"></a></span>
-  <br>
-  <br>
-  <div class="headline1"><a name="security" id="security"></a><b>Security</b></div>
-  Memolink is committed to protecting the security of your  personal information.  We use a variety  of security technologies and procedures to protect your personal information  from unauthorized access, use, or disclosure.   For example, we store your personal information on computer systems with  limited access, which are stored in a secure environment.   All of your information is restricted in our  offices too. Only employees who need the information to perform a specific job  (for example, our Member Support department) are granted access to your  personal information. Our employees must use password-protected screen-savers  when they leave their desks. When they return, they must re-enter their  password to regain access.<br>
-  <br>
-  A password is used to help protect your account and personal  information.  It is your responsibility  to keep your password confidential. Do not share this information with anyone.  If you are sharing a computer with anyone you should always logout before  leaving our Site or service to protect access to your information from  subsequent users.  If you feel your  password has been compromised, you should change it immediately. After you have  finished using our Site, you should log out of your Memolink.com account and close  your browser so that no unauthorized persons can use our Site under your name  and account information.<br>  
+<div class="headline1"><a name="commPrefs" id="commPrefs"></a>
+<b>Communication Preferences</b></div><br>
+You may choose whether you would like to receive marketing communications and offers promoted by Memolink.com or our third party business partners. If you do not wish to receive marketing communications from us, you may opt out at any time. These choices do not apply to the receipt of specific administrative notices that are required by law, regulation, or as needed to service your account.
+<br><br>
 
+<div class="headline1"><b>Email Communication</b></div><br>
+Because email is integral part of the program, you sign up to receive email targeted to your interests at the time of registration. If you do not wish to receive email messages, known as Memolink Emails, you may opt out by updating your Email Preferences at any time on the Memolink.com Site, or by clicking on the “Unsubscribe” link at the bottom of any Memolink Emails. Your other unsubscribe options also include sending an unsubscribe request in the mail to the physical address contained in every Memolink Emails or by sending an unsubscribe request to our Member Support department. Whatever method you choose, you will be removed from our mailing list within no more than 7 business days, but usually within 24 hours. 
+<br><span style="float:right"><a href="#top"><img src="http://images.memolink.com/creative-pics/back_to_top.gif" border="0" alt="Memolink privacy policy: back to top"></a></span><br>  
+<br>
 
-<span style="float:right"><a href="#top"><img src="http://images.memolink.com/creative-pics/back_to_top.gif" border="0" alt="Memolink privacy policy: back to top"></a></span><br>
-  <br>
-  <div class="headline1"><a name="changes" id="changes"></a><b>Changes to This  Privacy Statement</b></div>
-We will occasionally update this Privacy Statement to  reflect changes in our services and customer feedback. When we post changes to  this Statement, we will revise the "last updated" date at the top of  this statement. If there are material changes to this statement regarding how Memolink.com  will use or share your personal information, we will notify you either by  prominently posting a notice of such changes prior to implementing the change  or by directly sending you a notification. We encourage you to periodically  
-review this statement to be informed of how Memolink.com is protecting your  information.<br>
-
-
-<span style="float:right">
-<a href="#top">
-<img src="http://images.memolink.com/creative-pics/back_to_top.gif" border="0" alt="Memolink privacy policy: back to top"></a></span>
+<div class="headline1"><a name="security" id="security"></a>
+<b>Security</b></div><br>
+Memolink is committed to protecting the security of your personal information. We use a variety of security technologies and procedures to protect your personal information from unauthorized access, use, or disclosure. For example, we store your personal information on computer systems with limited access, which are stored in a secure environment. All of your information is restricted in our offices too. Only employees who need the information to perform a specific job (for example, our Member Support department) are granted access to your personal information. Our employees must use password-protected screen-savers when they leave their desks. When they return, they must re-enter their password to regain access.
 <br>
 <br>
-  <div class="headline1"><a name="contact" id="contact"></a><b>Contacting Us</b></div>
-  If you have any questions or concerns about your privacy at  Memolink.com, please contact us at support@memolink.com or you may contact us in writing at:<div class="headline1"></div>
-  <br>
-  <div class="headline1">Adperio</div>
-  Memolink.com Member Support – Security &amp; Privacy<br>
-  2000 S. Colorado Blvd.<br>
-  Tower 1, Suite 7000<br>
-  Denver, CO 80222<br>
- 
-</div> 
-<!--Pixel for Automatic Survey Login-->
+A password is used to help protect your account and personal information. It is your responsibility to keep your password confidential. Do not share this information with anyone. If you are sharing a computer with anyone you should always logout before leaving our Site or service to protect access to your information from subsequent users. If you feel your password has been compromised, you should change it immediately. After you have finished using our Site, you should log out of your Memolink.com account and close your browser so that no unauthorized persons can use our Site under your name and account information.
+<br><span style="float:right"><a href="#top"><img src="http://images.memolink.com/creative-pics/back_to_top.gif" border="0" alt="Memolink privacy policy: back to top"></a></span><br>  
+<br>
+
+<div class="headline1"><a name="changes" id="changes"></a>
+<b>Changes to This Privacy Statement</b></div><br>
+We will occasionally update this Privacy Statement to reflect changes in our services and customer feedback. When we post changes to this Statement, we will revise the "last updated" date at the top of this statement. If there are material changes to this statement regarding how Memolink.com will use or share your personal information, we will notify you either by prominently posting a notice of such changes prior to implementing the change or by directly sending you a notification. We encourage you to periodically review this statement to be informed of how Memolink.com is protecting your information.
+<br><span style="float:right"><a href="#top"><img src="http://images.memolink.com/creative-pics/back_to_top.gif" border="0" alt="Memolink privacy policy: back to top"></a></span><br>  
+<br>
+
+<div class="headline1"><a name="contact" id="contact"></a>
+<b>Contacting Us</b></div><br>
+If you have any questions or concerns about your privacy at Memolink.com, please contact us at <a href="mailto:support@memolink.com">support@memolink.com</a> or you may contact us in writing at:
+<br><br>
+Memolink.com Member Support – Security &amp; Privacy<br>
+2000 S. Colorado Blvd.<br>
+Tower 1, Suite 7000<br>
+Denver, CO 80222<br> 
 
 						<div class="clear"></div>
-					</font-size:14px;></div>
+					</div>
 					<div id="contentBottom"></div>
-				</div>
+				</font-size:14px;></span></div>
 				
 
 				<script type="text/javascript">
@@ -1035,7 +1065,7 @@ review this statement to be informed of how Memolink.com is protecting your  inf
 						<div class="footerContent3of5">
 							<ul>
 								<li>
-									Copyright © 2014
+									Copyright © 2015
 								</li>
 								<li>
 									Memolink.com, LLC
@@ -1109,17 +1139,39 @@ review this statement to be informed of how Memolink.com is protecting your  inf
 					</div>
 					<img id="followUsOn" src="/assets/images/followUsOn.png">
 				</div>
-
+					
 			</div>
 			
 
 			
 			
+				 <img src="http://px.owneriq.net/sp?id%5B%5D=33532294&amp;id%5B%5D=33532189&amp;id%5B%5D=33532299" width="1" height="1" style="display: none;">
+			
 
-			<input type="hidden" id="userID" name="userID" value="0">
+			<input type="hidden" id="userID" name="userID" value="1795521">
 			
-				<input type="hidden" id="userKey" name="userKey" value="50A2706E4CDF2DFDC6E44ED95071D0D6">
+				<input type="hidden" id="userKey" name="userKey" value="9D33C94726B27E7B712D8E1A9877CD97">
 			
+
+					
+					<script type="text/javascript" src="http://astatic.peanutlabs.com/js/alert/main.js"></script>
+					<script type="text/javascript">
+
+							try{
+								var args = {
+								userId:"1795521-4558-cc1693202a",
+								iframeURL:"http://www.memolink.com/index.cfm/track.click/merchant/247/offer/248",
+								position_ver:"bottom",
+								position_hor:"right",
+								hideTimer:"true"
+								};
+									peanut.initialize(args);
+								}
+							catch(e){}
+
+					</script>
+
+					
 			<!-- google_rm -->
 			<script type="text/javascript">
 			/* <![CDATA[ */
@@ -1138,4 +1190,6 @@ review this statement to be informed of how Memolink.com is protecting your  inf
 			</noscript>
 		
 	
-<div id="fancybox-tmp"></div><div id="fancybox-loading"><div></div></div><div id="fancybox-overlay"></div><div id="fancybox-wrap"><div id="fancybox-outer"><div class="fancy-bg" id="fancy-bg-n"></div><div class="fancy-bg" id="fancy-bg-ne"></div><div class="fancy-bg" id="fancy-bg-e"></div><div class="fancy-bg" id="fancy-bg-se"></div><div class="fancy-bg" id="fancy-bg-s"></div><div class="fancy-bg" id="fancy-bg-sw"></div><div class="fancy-bg" id="fancy-bg-w"></div><div class="fancy-bg" id="fancy-bg-nw"></div><div id="fancybox-inner"></div><a id="fancybox-close"></a><a href="javascript:;" id="fancybox-left"><span class="fancy-ico" id="fancybox-left-ico"></span></a><a href="javascript:;" id="fancybox-right"><span class="fancy-ico" id="fancybox-right-ico"></span></a></div></div></body></html>
+	<!--Pixel for Automatic Survey Login-->
+
+</div></div><div id="fancybox-tmp"></div><div id="fancybox-loading"><div></div></div><div id="fancybox-overlay"></div><div id="fancybox-wrap"><div id="fancybox-outer"><div class="fancy-bg" id="fancy-bg-n"></div><div class="fancy-bg" id="fancy-bg-ne"></div><div class="fancy-bg" id="fancy-bg-e"></div><div class="fancy-bg" id="fancy-bg-se"></div><div class="fancy-bg" id="fancy-bg-s"></div><div class="fancy-bg" id="fancy-bg-sw"></div><div class="fancy-bg" id="fancy-bg-w"></div><div class="fancy-bg" id="fancy-bg-nw"></div><div id="fancybox-inner"></div><a id="fancybox-close"></a><a href="javascript:;" id="fancybox-left"><span class="fancy-ico" id="fancybox-left-ico"></span></a><a href="javascript:;" id="fancybox-right"><span class="fancy-ico" id="fancybox-right-ico"></span></a></div></div></body></html>
