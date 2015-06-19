@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the finishline.com privacy policy that was archived on 2014-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140826035539id_/http%3A//www.finishline.com/store/customer_service/privacy_policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the finishline.com privacy policy that was archived on 2015-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150619075723id_/http%3A//www.finishline.com/store/customer_service/privacy_policy.jsp) for the most accurate reproduction.*
 
-# Customer Care | Finish Line |
+# Customer Care | Finish Line
 
 Last Updated: June 25, 2008
 
