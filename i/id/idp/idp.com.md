@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the idp.com privacy policy that was archived on 2014-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140919025310id_/http%3A//www.idp.com/global/footerlinks/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the idp.com privacy policy that was archived on 2015-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150619112953id_/http%3A//www.idp.com/global/footerlinks/privacypolicy) for the most accurate reproduction.*
 
 # PrivacyPolicy
 
@@ -204,3 +204,12 @@ Data collected from this analysis include:
 **Cookies**  
 Cookies are small data files that are sent from a website and stored in a user’s web browser. IDP's websites use cookies to improve the user’s web browsing experience (e.g. language preference or selected locality).  
 If you wish to disable the cookies on this website you will need to follow the steps required for your preferred browser (e.g. In Internet Explorer 10 and 11 this can be found in the Privacy tab under Internet Options).
+
+We currently advertise with Third party vendors, including Google, displaying ads on sites on the internet. These third party vendors, including Google use cookies to serve ads based on a user's prior visits to our website. Some of the information gathered such as age, gender and interests might be used for marketing purposes. Users may opt out of Google's use of cookies by visiting the **Google advertising opt-out page   ****à** **link to**<http://www.google.com/settings/ads>
+
+  
+
+
+This site uses cookies
+
+Like most websites IDP Education Pty Ltd uses cookies, in order to deliver a personalised, responsive service and to improve the website. We remember and store information about how you use the website. This is done using simple text files called cookies which sit on your computer. These cookies are completely safe and secure and will never contain any sensitive information.
