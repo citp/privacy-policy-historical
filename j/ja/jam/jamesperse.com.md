@@ -1,8 +1,24 @@
-> *The following text is extracted and transformed from the jamesperse.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120045109id_/http%3A//www.jamesperse.com/customerservice/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jamesperse.com privacy policy that was archived on 2015-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150619061205id_/http%3A//www.jamesperse.com/customerservice/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | James Perse Los Angeles
 
 Last updated September 16, 2014
+
+  * Introduction
+  * Information We Collect From You
+  * Information Automatically Collected
+  * Cookies And Other Tracking Technology
+  * Third Party Analytics And Advertising
+  * How We Use Information
+  * Information We Share
+  * How We Secure Your Information
+  * Third Party Sites And Stores
+  * Access / Your Choices
+  * Children's Privacy
+  * Contact Us
+  * Browser Advisory
+
+
 
 **Introduction**
 
@@ -97,16 +113,11 @@ JamesPerse.com is not directed to children under the age of thirteen and we do n
 
 If you have any questions or requests relating to this Privacy Policy and our practices with respect to personal information, please contact us at: privacy@jamesperse.com. You may also contact us using the following information:
 
-James Perse
-
-7373 Flores Street
-
-Downey California 90242
-
-Attn: Customer Service
-
-Phone: 866 466 0668
-
+James Perse  
+7373 Flores Street  
+Downey California 90242  
+Attn: Customer Service  
+Phone: 866 466 0668  
 Fax: 310 464 3552
 
 **Browser Advisory**
