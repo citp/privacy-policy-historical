@@ -1,30 +1,32 @@
-> *The following text is extracted and transformed from the blingjewelry.com privacy policy that was archived on 2014-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141206002828id_/http%3A//www.blingjewelry.com/privacy-policy-i-3.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blingjewelry.com privacy policy that was archived on 2015-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150619204051id_/http%3A//www.blingjewelry.com/privacy-policy-i-3.html) for the most accurate reproduction.*
 
 # Privacy Policy - Find Out Which Information We Collect & for What Purposes
 
-**Order Processing**
+#### Sharing Information
 
-When you place an order, we ask for some pretty standard contact and billing details such as name, phone number, email address, shipping address, and credit card information. Though this information is required to process a purchase, we promise that it remains privately with us. When placing an order, your info is used for credit card verification, order processing, and anonymous traffic monitoring. It’s also crucial for us to have a way to get in touch regarding an order so that nothing surprising happens!
+BlingJewelry.com will not sell, share, or rent your information to third parties in any manner that differs from what is disclosed in this statement. While BlingJewelry.com uses third party credit card processing companies to bill users for goods and services, these companies do not retain, share, store or use your personal information for any secondary purposes.
 
-**Promotional Marketing & Canadian Anti-Spam laws.**
+BlingJewelry.com partners with PayPal to allow for a safe, secure, and speedy checkout process. International customers should use PayPal as the faster way to get orders processed. Shipping and billing address must match the address on the PayPal account. Read PayPal’s privacy policy here.
 
-Subscribing to our newsletter means consenting to be contacted by Bling Jewelry via E-mail or social media. In other words—if you want to hear from us, we will definitely stay in touch! From time to time, you may find Bling Jewelry promotions and special offers in the mail or through email. You are free to opt out of our mailing list at any time if you don’t want these communications. And for the record, BlingJewelry.com will never sell, lease, or rent your email address without permission.
+#### Promotional Marketing & Canadian Anti-Spam laws.
 
-**Changing Your Subscription Preferences**
+Subscribing to our newsletter means consenting to be contacted by Bling Jewelry via email or social media. In other words—if you want to hear from us, we will definitely stay in touch! From time to time, you may find Bling Jewelry promotions and special offers in the mail or through email. You are free to opt out of our mailing list at any time if you don’t want these communications. And for the record, BlingJewelry.com will never sell, lease, or rent your email address without permission.
+
+#### Changing Your Subscription Preferences
 
 As a registered user, you can log in to change the preferences to (or to not) receive communications. If you don’t want to be contacted about Bling promotions and special offers, select the option and we will respect your wishes.
 
 If you really don’t want to hear from us, you can stop the newsletters and other info by following the ‘unsubscribe’ link in our emails. However, Bling Jewelry may continue to use your personal information to contact you to service your account or as otherwise authorized by law. If you have communicated with us using more than one name or email address, you may still get our emails until these accounts are associated with an opt-out request.
 
-#### **Checkout Partners**
+#### Checkout Partners
 
- BlingJewelry.com partners with PayPal to allow for a safe, secure, and speedy checkout process. International customers should use PayPal as the faster way to get orders processed. Shipping and billing address must match the address on the PayPal account. Read PayPal’s privacy policy here.
+BlingJewelry.com partners with PayPal to allow for a safe, secure, and speedy checkout process. International customers should use PayPal as the faster way to get orders processed. Shipping and billing address must match the address on the PayPal account. Read PayPal’s privacy policy here.
 
- BlingJewelry.com partners with Amazon Payments to allow for a safe, secure, and speedy checkout process. If you have an Amazon USA account you can now pay with your Amazon Account. Read  Amazon Payments’ Privacy Policy [here](https://payments.amazon.com/sdui/sdui/about?nodeId=82974).
+BlingJewelry.com partners with Amazon Payments to allow for a safe, secure, and speedy checkout process. If you have an Amazon USA account you can now pay with your Amazon Account. Read Amazon Payments’ Privacy Policy [here](https://payments.amazon.com/sdui/sdui/about?nodeId=82974).
 
 #### Third Party Advertising
 
- BlingJewelry.com uses Remarketing with Google Analytics to advertise online.
+BlingJewelry.com uses Remarketing with Google Analytics to advertise online.
 
 Third-party vendors, including Google, show our ads on sites across the Internet.
 
@@ -34,10 +36,6 @@ If you want to, you can opt-out of Google Analytics for Display Advertising and 
 
 BlingJewelry.com may engage third party advertising companies to advertise products or services to you online. These companies may employ cookies and action tags (also known as single pixel) to measure advertising effectiveness. They may also use this technology to serve specialized or relevant advertising content and / or recommendations to you on our website or on a third party’s website. Any information that these third parties collect via cookies and action tags is completely anonymous and does not contain any personally identifiable information. If you would like more information about this practice and your choices, including how to opt-out [click here](http://www.networkadvertising.org/managing/opt_out.asp).
 
-**Sharing Information**
+#### Order Processing
 
-BlingJewelry.com will not sell, share, or rent your information to third parties in any manner that differs from what is disclosed in this statement. While BlingJewelry.com uses third party credit card processing companies to bill users for goods and services, these companies do not retain, share, store or use your personal information for any secondary purposes.
-
-BlingJewelry.com partners with PayPal to allow for a safe, secure, and speedy checkout process. International customers should use PayPal as the faster way to get orders processed. Shipping and billing address must match the address on the PayPal account. Read PayPal’s privacy policy here.
-
-All email address are stored on our secure server and never shared for any kind of advertising. We use bronto email service for sending out our email to better serving our customer. For any further information please contact us at pals@blingjewelry.com
+When you place an order, we ask for some pretty standard contact and billing details such as name, phone number, email address, shipping address, and credit card information. Though this information is required to process a purchase, we promise that it remains privately with us. When placing an order, your info is used for credit card verification, order processing, and anonymous traffic monitoring. It’s also crucial for us to have a way to get in touch regarding an order so that nothing surprising happens!
