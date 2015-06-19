@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bbr.com privacy policy that was archived on 2014-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141124120348id_/http%3A//www.bbr.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bbr.com privacy policy that was archived on 2015-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150619080500id_/http%3A//www.bbr.com/about/privacy) for the most accurate reproduction.*
 
 # Berry Bros & Rudd - Privacy and Security
 
