@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vivastreet.co.uk privacy policy that was archived on 2014-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141030180458id_/http%3A//www.vivastreet.co.uk/privacy-policy-s00) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vivastreet.co.uk privacy policy that was archived on 2015-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150619110449id_/http%3A//www.vivastreet.co.uk/privacy-policy-s00) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -23,7 +23,7 @@
 
 **Contact Information:**  
 Email: [team-uk@sitemail.vivastreet.com](mailto:team-uk@sitemail.vivastreet.com)  
-Telephone: +44 (0) 207 514 5061   
+Telephone: +44 (0) 203.695.8755   
 Fax: 0207 292 3390  
 Website: ["http://www.w3corporate.com/](http://www.w3corporate.com/)  
 Location: 1 – 4 Warwick Street  
@@ -48,7 +48,7 @@ For example, we use cookies to store your login details so that it's easier for 
 
 [Click here to view Vivastreet's Cookie list and to find out more about how to minimise the number you receive](http://www.vivastreet.co.uk/cookies-s00).
 
-To find out more about cookies visit [www.allaboutcookies.org](https://web.archive.org/web/20141030180458id_/http%3A//www.vivastreet.co.uk/www.allaboutcookies.org)
+To find out more about cookies visit [www.allaboutcookies.org](https://web.archive.org/web/20150619110449id_/http%3A//www.vivastreet.co.uk/www.allaboutcookies.org)
 
 **Consent**
 
