@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kithnyc.com privacy policy that was archived on 2014-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141103014330id_/http%3A//kithnyc.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kithnyc.com privacy policy that was archived on 2015-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150620001743id_/http%3A//kithnyc.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Kith NYC
 
@@ -22,7 +22,7 @@ If we ask for your personal information for a secondary reason, like marketing, 
 
 How do I withdraw my consent?
 
-If after you opt-in, you change your mind, you may withdraw your consent for us to contact you, for the continued collection, use or disclosure of your information, at anytime, by contacting us at andy@kithnyc.com or mailing us at: Kith NYC 644 Broadway New York New York USA 10012
+If after you opt-in, you change your mind, you may withdraw your consent for us to contact you, for the continued collection, use or disclosure of your information, at anytime, by contacting us at customerservice@kithnyc.com or mailing us at: Kith NYC 644 Broadway New York New York USA 10012
 
 _SECTION 3 - DISCLOSURE_
 
@@ -96,7 +96,7 @@ If our store is acquired or merged with another company, your information may be
 
  _QUESTIONS AND CONTACT INFORMATION_
 
-If you would like to: access, correct, amend or delete any personal information we have about you, register a complaint, or simply want more information contact our Privacy Compliance Officer at andy@kithnyc.com or by mail at Kith NYC
+If you would like to: access, correct, amend or delete any personal information we have about you, register a complaint, or simply want more information contact our Privacy Compliance Officer at customerservice@kithnyc.com or by mail at Kith NYC
 
 [Re: Privacy Compliance Officer]
 
