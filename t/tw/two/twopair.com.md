@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the twopair.com privacy policy that was archived on 2014-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141225080152id_/http%3A//www.americasbest.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twopair.com privacy policy that was archived on 2015-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150619080747id_/http%3A//www.americasbest.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy: America’s Best Contacts & Eyeglasses
 
@@ -60,6 +60,12 @@ America's Best Contacts & Eyeglasses may share your information provided with yo
 
 Top
 
+## Your DITTO
+
+If you create a DITTO (a video of you from your webcam, mobile camera or our store kiosk that enables you to virtually try on glasses), we receive and store your DITTO even if you have not established an on-line account. Your DITTO may be used by the Company for internal quality control purposes only, which may include sharing your DITTO, but no other personal information, with third party service providers. Your DITTO will not be shared publicly, including advertising and marketing, without your express permission.
+
+Top
+
 ## Links to 3rd Party Sites
 
 Our site may include links to other Web sites whose privacy practices may differ from those of America's Best Contacts & Eyeglasses. If you submit personal information to any of those sites, your information is governed by their privacy policies. We encourage you to carefully read the privacy policy of any Web site you visit.
@@ -117,7 +123,8 @@ America's Best does not track its customers over time and across third party web
 ## Mailing Address
 
   
-America's Best Contacts & EyeglassesCorporate Headquarters296 Grayson HighwayLawrenceville, GA 30046 USA  
+America's Best Contacts & EyeglassesCorporate Headquarters2345 Commerce Ave, Building 2200  
+Duluth, GA 30096 USA  
   
 America's Best Contacts & EyeglassesOnline Contact Lens Orders  
 4265 Diplomacy Dr Columbus, OH  43228 USA
@@ -128,7 +135,7 @@ Top
 
 The California Transparency in Supply Chains Act of 2010 requires that applicable manufacturers and retailers such as National Vision, Inc. (“NVI”) disclose their efforts to eradicate slavery and human trafficking from the supply chain.
 
-NVI is committed to conducting business in accordance with ethical, legal and socially responsible rules and principles. These standards and commitments are outlined in the Company’s Code of Conduct (the “Code”) which is provided to every NVI Associate upon hire and annually during the course of their employment. Consistent with the Code, we respect the personal dignity of every individual and comply with all applicable human rights laws. Failure to comply with the standards of the Code subjects violators, regardless of position, to disciplinary action up to and including termination of employment.
+NVI is committed to conducting business in accordance with ethical, legal and socially responsible rules and principles. These standards and commitments are outlined in the Company’s Code of Conduct (the “Code”) which every NVI Associate is trained on upon hire and is distributed annually during the course of their employment. Consistent with the Code, we respect the personal dignity of every individual and comply with all applicable human rights laws. Failure to comply with the standards of the Code subjects violators, regardless of position, to disciplinary action up to and including termination of employment.
 
 With respect to our supply chain partners, we expect the same commitment to high ethical standards and compliance with applicable laws, as detailed in the Code. NVI monitors the standards of our supply chain partners for quality, safety and employment standards by conducting annual scheduled on-site audits of our major vendors and laboratory manufacturers. When entering into written contracts with suppliers, NVI requires suppliers to comply with all applicable laws which include those that prohibit slavery and human trafficking. Failure to comply with all applicable laws subjects supplier to breach and possible termination of contract.
 
