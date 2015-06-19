@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vincheckpro.com privacy policy that was archived on 2014-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141203184528id_/http%3A//www.vincheckpro.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vincheckpro.com privacy policy that was archived on 2015-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150619031640id_/http%3A//www.vincheckpro.com/privacy) for the most accurate reproduction.*
 
 # VINCheckPro.com Privacy Policy
 
@@ -9,7 +9,7 @@
 This policy covers how VINCheckPro.com owned and operated by Segmentic Ltd. ("Website", "we", "us", "our") handles any and all personal information received, which includes but is not limited to past usage of the site and/or additional products and services. Personal information regards to information about you that is identifiable such as your name, residence, debit or credit number, e-mail address, contact phone number which otherwise may not be available publicly. The policy does not cover practices of companies or 3rd parties that are not owned or controlled by us or the action of people that are not employed or managed by VINCheckPro.com. This policy does not apply or relate to the information stored relating to our people search databases. 
 
 Segmentic Ltd. has received TRUSTe's Privacy Seal signifying that this privacy statement and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal.  
-The TRUSTe program does not cover information that may be collected through downloadable software. The TRUSTe program covers only information that is collected through this Web site, www.vincheckpro.com.
+The TRUSTe program does not cover information that may be collected through downloadable software. The TRUSTe program covers only information that is collected through this web site, www.vincheckpro.com.
 
 If you have an unresolved privacy or data use concern that we have not addressed satisfactorily 
 
@@ -43,7 +43,7 @@ We do not sell, rent or share personal information regarding your person with ot
 ## Cookies
 
   * Cookies on your local end machine may be set and accessed by us. We may use cookies, for example, to keep track of your preferences and profile information.
-  * Companies that display advertisements on our pages may set and access their cookies on your local end machine. Other companies that store cookies on your machine are subject to their privacy policy, not ours. Such companies do not gain access to our cookies. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by clicking [Here](http://preferences-mgr.truste.com/). Please note this does not opt you out of being served advertising. You will continue to receive generic ads.
+  * Companies that display advertisements on our pages may set and access their cookies on your local end machine. Other companies that store cookies on your machine are subject to their privacy policy, not ours. Such companies do not gain access to our cookies. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by clicking [here](http://preferences-mgr.truste.com/). Please note this does not opt you out of being served advertising. You will continue to receive generic ads.
   * Our third party partners employ clear gifs (a.k.a. Web Beacons/Web Bugs), images, and scripts that help them better manage content on our site. We do not tie the information gathered to our Customers’ or Users’ personal information.
   * Information that can be used to identify your person, such as names, residence, passwords and such will not be stored in our cookies.
 
@@ -53,7 +53,7 @@ We do not sell, rent or share personal information regarding your person with ot
 
   * You may edit or delete information regarding your account within our member’s area, by simply clicking on the "My Account" and then followed by clicking "Make Changes".
   * To remove yourself from any commercial e-mails or alerts sent to you by us, you can simply do so by following the unsubscribe link provided by any and all commercial messages sent to your e-mail.
-  * We reserve the right to send you information and communication relating to our service, such as service announcements, administration related messages, customer receipts and so forth without providing an opt-out option of receiving them. If you wish to no longer receive these emails please contact us by clicking here or at [support@vincheckpro.com](mailto:support@vincheckpro.com). We provide an option of opting-out of our living people searches completely free. Simply contact our [support staff](https://web.archive.org/web/20141203184528id_/http%3A//www.vincheckpro.com/support) to do so.
+  * We reserve the right to send you information and communication relating to our service, such as service announcements, administration related messages, customer receipts and so forth without providing an opt-out option of receiving them. If you wish to no longer receive these emails please contact us by clicking here or at [support@vincheckpro.com](mailto:support@vincheckpro.com). We provide an option of opting-out of our living people searches completely free. Simply contact our [support staff](https://web.archive.org/web/20150619031640id_/http%3A//www.vincheckpro.com/support) to do so.
 
 
 
@@ -69,13 +69,13 @@ We do not sell, rent or share personal information regarding your person with ot
 
 We will retain and use your information for as long as your account is active or as need to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. 
 
-## Links to Other Web Sites
+## Links to Other web Sites
 
-Our Site includes links to other Web sites whose privacy practices may differ from those of VINCheckPro.com. If you submit personal information to any of those sites, your information is governed by their privacy statements. We encourage you to carefully read the privacy statement of any Web site you visit. 
+Our Site includes links to other web sites whose privacy practices may differ from those of VINCheckPro.com. If you submit personal information to any of those sites, your information is governed by their privacy statements. We encourage you to carefully read the privacy statement of any web site you visit. 
 
 ## Social Media Widgets
 
-Our Web site includes Social Media Features, such as the Facebook button and Widgets, such as the Twitter button or interactive mini-programs that run on our site. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it. 
+Our web site includes Social Media Features, such as the Facebook button and Widgets, such as the Twitter button or interactive mini-programs that run on our site. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it. 
 
 ## Changes to this Privacy Policy
 
