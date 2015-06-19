@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dotmailer.co.uk privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220135108id_/http%3A//www.dotmailer.com/terms/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dotmailer.co.uk privacy policy that was archived on 2015-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150619031540id_/http%3A//www.dotmailer.com/terms/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | dotmailer
 
@@ -54,11 +54,27 @@ You may request details of personal information which we hold about you under th
 
 We are concerned about guarding the security of your personal information and the details of any transactions.  We take appropriate organisational and technical security measures to protect your data against unauthorised disclosure or processing. We use a secure server to store the information you give us when you register or make an order (including your credit card details and any password) and any personal data you send us on-line is securely encrypted. 
 
+### Safe Harbour
+
+dotmailer complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland.  dotmailer has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement.  To learn more about the Safe Harbor program, and to view dotmailer’s certification, please visit <http://www.export.gov/safeharbor/>.
+
+### SMS
+
+Users based in the United States agree to the following with relation to SMS messages for the purposes of activation and validation codes. SMS messages are sent by [BulkSMS.com](http://bulksms.com/). Message and data rates may apply. One message per request.
+
+Text HELP to 67082 for further information and help.
+
+Text STOP to 67082 to cancel.
+
+[BulkSMS.com](http://bulksms.com/) customer care: (US) 0877 260 3952
+
+Terms and Conditions: [http://usa.bulksms.com/w/terms_and_conditions.htm](http://usa.bulksms.com/w/terms_and_conditions.htm) (see section 5.7)
+
 ### Changes to this statement
 
 dotmailer’s privacy statement is subject to change at any time.  dotmailer will post changes to this statement on our websites prior to implementing any major changes. 
 
-Last modified: Nov, 2009.
+Last modified: Jan, 2015.
 
 ### Contact
 
