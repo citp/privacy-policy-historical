@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dallascounty.org privacy policy that was archived on 2014-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141017074152id_/http%3A//www.dallascounty.org/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dallascounty.org privacy policy that was archived on 2015-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150619200505id_/http%3A//www.dallascounty.org/privacypolicy.php) for the most accurate reproduction.*
 
 # Welcome to Dallas County
 
