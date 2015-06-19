@@ -1,8 +1,9 @@
-> *The following text is extracted and transformed from the bookworld.com.au privacy policy that was archived on 2014-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141019065736id_/http%3A//www.bookworld.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bookworld.com.au privacy policy that was archived on 2015-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150619140621id_/https%3A//www.bookworld.com.au/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Bookworld
 
-**Background**  
+**Background**
+
 Pearson Australia Group rebranded Borders Online which now operates as Bookworld, an online retail business. 
 
 As a result of its purchase of Borders, Pearson Australia Group collected and held the personal information of Borders customers and visitors to what is now the Bookworld website. This information includes the customer lists contained in databases. These databases contain details of loyalty program members, gift card recipients and individuals who have signed up to marketing mail-outs, Border’s email program and other promotional advertisements from Borders.
@@ -10,6 +11,11 @@ As a result of its purchase of Borders, Pearson Australia Group collected and he
 On 1 July 2013 Penguin and Random House officially united to create Penguin Random House, the world’s first truly global trade book publisher. As a result Penguin Australia Pty Ltd became a local subsidiary, and Bookworld became a division of Penguin Australia Pty Ltd Any personal information that Penguin Australia Pty Ltd now holds as a result the purchase of Borders, or that it will collect through the Bookworld site in the future, will be used, disclosed, managed and stored in accordance with Penguin Australia Pty Ltd’ privacy policy and you consent to Penguin Australia Pty Ltd handling your information as provided for in this policy.
 
 Below is a summary of Penguin Australia Pty Ltd privacy policy as it applies to the Bookworld business.
+
+**  
+Bookworld Citizens**
+
+Upon registering as a Citizen will be automatically opted-in to receive communications from us. You will be given the opportunity to "opt out" from receiving communications from us or from third parties that send communications to you in accordance with the Privacy Act and other applicable privacy laws. For example, you will be given the option to unsubscribe to emails or newsletters sent by us. 
 
 **Privacy Policy**
 
@@ -123,6 +129,38 @@ If you wish to access, update or correct any personal information that we hold a
 The Privacy Officer  
 Penguin Australia Pty Ltd  
 Melbourne VIC 3008  
-Email: [privacy.officer@penguinrandomhouse.com.au](https://web.archive.org/web/20141019065736id_/http%3A//www.bookworld.com.au/mail%20to:%20privacy.officer@penguinrandomhouse.com.au)
+Email: [privacy.officer@penguinrandomhouse.com.au](https://web.archive.org/web/20150619140621id_/https%3A//www.bookworld.com.au/mail%20to:%20privacy.officer@penguinrandomhouse.com.au)
 
-Last Updated: 23 June 2014
+  1. **Why we collect your personal information**
+
+Penguin Australia Pty Ltd ABN 21 162 605 745 (“ **we** ”, “ **us** ” or “ **our** ”) collects personal information of an entrant (“ **you** ” or “ **your** ”) to include you in our Citizen’s database, to offer you promotions and offers, confirm or verify your identity, age, residential address or meet our legal or regulatory obligations. If you are under 18 years of age, we may collect the personal information of your parent or legal guardian to confirm or verify their identity or their consent. You will be given the opportunity to "opt out" from receiving such communications from us
+
+  2. **Consequences of not providing your personal information**
+
+If you do not (or, where you are under 18 years of age, your parent or legal guardian does not) provide us with all or some of the personal information that we request in connection with the Citizen’s database, we may not be able to offer you special promotions, offers and discounts.
+
+  3. **How we disclose your personal information**
+
+We may disclose your personal information, and you consent to us disclosing your personal information, to third parties:
+
+    * engaged by us to perform functions or provide products or services on our behalf, such as provision of technical and product support, mailouts, marketing, research and advertising;
+    * that are our agents, business partners or joint venture entities or partners;
+    * that sponsor or promote any competition or promotion that we conduct;
+    * authorised by you to receive information held by us;
+    * as part of any investigation in relation to you or your activity which we suspect to be a breach of any of our terms and conditions (including, without limitation, any provision in the Conditions of Entry for the promotion), serious misconduct or unlawful (including disclosure to the police, any relevant authority or enforcement body, or your Internet Service Provider or network administrator);
+    * that are our external advisers or potential or actual bidders or their external advisers as part of a sale (or proposed sale) of all or part of our business; and/or
+    * as required or permitted by any law or regulation (including the Privacy Act).
+  4. **Our Privacy Policy**
+
+Our Privacy Policy is available on our website at <http://www.bookworld.com.au/privacy> and contains details about: (i) how you may access your personal information that is held by us and seek the correction of such information; and (ii) how you may complain about a breach of the Australian Privacy Principles contained in the Privacy Act 1988 (Cth) or any other applicable privacy law in respect of our handling of your personal information and how we will deal with such a complaint.
+
+To the extent of any inconsistency between this Privacy Collection Statement and our Privacy Policy, this Privacy Collection Statement prevails.
+
+  5. **Our contact details**
+
+If you have any questions about our handling of your personal information, please contact the Privacy Officer by email to: privacy.officer@penguinrandomhouse.com.au, or by mail to: Penguin Australia Pty Ltd, 707 Collins Street, Docklands, Victoria 3008
+
+
+
+
+Last Updated: 15 June 2015
