@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the oneonlinegames.com privacy policy that was archived on 2014-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140911105554id_/http%3A//www.oneonlinegames.com/privacy-policy-and-copyrights) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oneonlinegames.com privacy policy that was archived on 2015-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150619084718id_/http%3A//www.oneonlinegames.com/privacy-policy-and-copyrights) for the most accurate reproduction.*
 
-# Privacy Policy & Copyrights Free Games Download
+# Privacy Policy and Copyrights Free Games Download
 
 **Your Privacy at OneOnlineGames.com**
 
@@ -51,3 +51,7 @@ Reference in this website to any specific commercial products, processes, or ser
 * Google, as a third party vendor, uses cookies to serve ads on your site. * Google's use of the DART cookie enables it and its partners to serve ads to your users based on their visit to your sites and/or other sites on the Internet. * Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
 
 "WEBSITE/PUBLISHER NAME" uses third-party advertising companies to serve ads when you visit our Website. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, go to: <http://www.networkadvertising.org/managing/opt_out.asp>
+
+**Mollom**
+
+Some forms(comments, contact us, etc) are protected by Mollom (3rd party), please see their [Mollom privacy policy](http://mollom.com/web-service-privacy-policy)
