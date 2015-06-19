@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the 99bitcoins.com privacy policy that was archived on 2014-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141205135209id_/http%3A//99bitcoins.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 99bitcoins.com privacy policy that was archived on 2015-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150619132320id_/http%3A//99bitcoins.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - 99 Bitcoins
+# Privacy Policy | 99 Bitcoins
 
 ### **What information do we collect?**
 
@@ -60,8 +60,7 @@ This policy was last modified on Sep. 1st 2013
  **Contacting Us**  
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-http://99bitcoins.com
-
-4 Rimalt st  
-Ramat Gan, na 52281  
+http://99bitcoins.com  
+5 Bezalel st  
+Ramat Gan,  
 Israel
