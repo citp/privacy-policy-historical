@@ -1,27 +1,81 @@
-> *The following text is extracted and transformed from the criminalrecords.com privacy policy that was archived on 2004-07-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040721220624id_/http%3A//www.rapsheets.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the criminalrecords.com privacy policy that was archived on 2015-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150619122422id_/http%3A//criminalrecords.com/privacypolicy) for the most accurate reproduction.*
 
-# Rapsheets :: Privacy Policy
+# Privacy Policy - CriminalRecords.com
 
-### Investigation Technologies LLC and Rapsheets Privacy Statement
+CriminalRecords.com is committed to your right to privacy. This statement discloses the information practices for the web pages associated with the domain www.CriminalRecords.com (the "Website"), including descriptions of the types of personal information we gather and track, how we use this personal information, and with whom we share the personal information. 
 
-| What personal information is collected from customers as part of the registration process?  
----  
-Investigation Technologies, LLC, dba, Rapsheets collects the domain name of e-mail addresses (when possible) of users who access our website; the e-mail addresses of those who communicate with us via-email; aggregate information regarding which pages consumers access or visit; and information volunteered by the consumer such as survey information, requests for information and/or site registrations.  
-   
-What personal information is collected about the individuals included in our searchable public record databases?  
-Personally identifiable information is gathered from public records provided by state, county and municipal governments. This information may include name, date of birth, race, sex, social security numbers, addresses and criminal record information.   
-   
-How is customer information used and with whom is it shared?  
-Personal information collected from our customers is used to improve the content of our web site; to notify consumers about updates to the web site; and to notify users about problems with their request. The information is not shared with other companies or organizations for commercial purposes; except when qualified customers use public records information for employment screening, tenant screening, collections of business and consumer debt, research in business transactions, insurance purposes and other legitimate purposes as described in the Fair Credit Reporting Act.  
-   
-What choices are available to users regarding the collection, use and distribution of the public record and how can are inaccuracies corrected?  
-Customer service procedures are in place to accept and promptly resolve phone, email or written requests to correct or delete inaccurate information. Customer service phone numbers and email addresses are available on the web site.  
-If you do not want to receive future emails from Rapsheets, please notify us via email or by written request mailed to 2600 Thousand Oaks Suite 3000, Memphis, Tenn. 38118. Note: We do not make the email addresses of those who access our site available to other organizations or companies.   
-If you provide us with your postal address, you may receive periodic notices from Rapsheets regarding information on new products and services or upcoming events. If you do not wish to receive these mailings, please notify us via email or by written request mailed to 2600 Thousand Oaks Suite 3000, Memphis, Tenn. 38118. Be sure to include your exact name and postal address to ensure your name is removed from future mailings.  
-If you provide us with your telephone and/or fax number, you may receive telephone or fax contact from Rapsheets regarding problems you’re your account or requests for information. Please provide correct phone number and fax information so we can contact you in the event there is a problem with your account. If our privacy practices change in the future, the information will be posted on our website.  
-   
-What security procedures are in place to protect the loss, misuse or alteration of personal information under the control of Investigation Technologies, LLC, dba, Rapsheets?  
-Rapsheets values your business and is committed to taking every possible measure to make our online process 100 percent secure. We house all our records in a secured facility and have the latest firewall appliances protecting our computers from unauthorized intrusion. Using secure credit card processing technology provided by Maximized Software and ECHOLine, in addition to special security features built into popular browser software, Rapsheets provides you with advanced online security. When our servers submit charges to your credit card over the Internet, your credit card information is strongly encrypted by industry-standard protocol, through industry-leading VeriSign, which uses SSL (Secure Sockets Layer).  
-   
-If you are still unsure of giving your credit card over the Internet, please feel free to phone, fax, or mail your information to us. For telephone support or assistance, please call 901-528-8124.   
-Our fax number for orders is 901-528-8114.
+Please read this Privacy Policy carefully when using our web site or services, or when transacting business with us. By using our web site, including, without limitation, signing up for offers and/or continuing to receive information from CriminalRecords.com, you are accepting the practices described in this Privacy Policy, and you are acknowledging that we are not providing you with a consumer report, and are certifying that you will not use the information obtained from us for any purpose covered by the Fair Credit Reporting Act (15 U.S.C. §1681, et seq.). 
+
+If you have any questions about our privacy practices, please refer to the end of this Privacy Policy for information on how to contact us.
+
+### Personal Information
+
+In general, you can visit us on the Internet without telling us who you are and without giving any personal information about yourself. However, you may choose to give us personal information in a variety of situations. For example, you may want to give us information such as your name and address, phone number or e-mail address so we may correspond with you, process an order, or provide you with a subscription or service. You may give us your credit card details to buy a product or service from us, or provide us a description of your education and work experience in connection with a job opening at CriminalRecords.com for which you wish to be considered. The purpose of this Policy is to inform you of how we will use your information, before you provide it. If you tell us that you do not want us to use this information in this manner or to make further contact with you beyond fulfilling your requests, we will respect your wishes. If you give us personal information about somebody else, such as a spouse or associate, we will assume that you have their permission to do so. 
+
+### How we Use and Share Personal Information
+
+The following paragraphs describe in more detail how we may use the personal information you provide to us and with whom we may share it. 
+
+### Communications from Us
+
+When you request something from this Website, we will send you transactional emails related to your service request. You cannot opt out of receiving these communications. However, you can opt in to receive promotional and newsletter emails from us. If you later choose to opt out of receiving these emails, you can unsubscribe by clicking on the link included in the email or logging into your account and changing your preferences. 
+
+### Fulfilling your Transaction Request
+
+If you request something from this Website, for example, a product or service, we will use the information you provide to fulfill your request. To help us do this, we will share information with service providers to help us bring you the products and services we offer, either directly as the provider of such product or service, or indirectly such as financial institutions for credit card processing, email service providers, outsourced customer service providers, survey providers, or postal service providers. These third parties are prohibited from using your personally identifiable information for any other purpose. We also require these third parties to maintain your personal information in the strictest confidence. In addition, we will give the information you provide to our advertisers from whom you have indicated you want to purchase a product or service. 
+
+### Marketing Use
+
+The information you provide to us on this Website will also be used, with your permission, by us and selected third parties for marketing purposes. Before we use it, we will offer you the opportunity to choose whether or not to have your information used for this purpose. Otherwise, we do not share, sell, rent, or trade your personal information with third parties for their promotional purposes. In addition, like many websites, we gather certain information automatically (including cookies and log files). This information includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp and click stream data. We use this information, which does not identify individual users, to analyze trends, to administer this Website, to track users' movements around this Website and to gather demographic information about our user base as a whole. 
+
+### Third Party Monitoring
+
+In addition, service providers and other third parties such as advertisers may also use information gathering technologies on this Website (including cookies and beacons) in connection with their services to collect anonymous information. Shared and/or collected information, as described above, is controlled by the relevant affiliated company or third party and is not controlled by us; specifically, (i) such information is governed by the privacy policy and terms of use of the relevant other party and (ii) we will in no way be responsible or liable to you for any data breach by such other party that compromises or otherwise affects your information. 
+
+###  Cookies and Other Web Technologies 
+
+We collect non-identifiable information from visits to our Web sites to help us provide better customer service. For example, we keep track of the domains from which people visit, and we also measure visitor activity on CriminalRecords.com Web sites, but we do so in ways that keep our visitors' identities anonymous. CriminalRecords.com uses this data to analyze trends and statistics and to help us provide better customer service. 
+
+We collect the information we mentioned in the previous paragraphs through the use of various technologies, including one called "cookies". A cookie is a piece of data that a Web site can send to your browser, which is then be stored on your computer as an anonymous tag that identifies your computer but not you. Some CriminalRecords.com pages use cookies, sent by CriminalRecords.com or its third party vendors, or other technologies to better serve you when you return to the Web site. You can set your browser to notify you before you receive a cookie, giving you the chance to decide whether to accept it. You also can set your browser to turn off cookies. If you do so, however, some Web sites may not work properly. Our CriminalRecords.com cookies are linked to personal information; however our third party vendor cookies only collect data in the aggregate. 
+
+### Online Advertising
+
+Certain companies help us deliver interactive on-line advertising. These companies collect and use information about customers to help us better understand the offers, promotions, and types of advertising that are most appealing to our customers. After the information is collected, it is aggregated so it is not identifiable to a specific individual. 
+
+### Other Voluntary Information
+
+If you use a blog or submit to a testimonial on our website, you should be aware that any personally identifiable information you submit there can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit in these forums. 
+
+### Disclosures Required By Law
+
+We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or comply with a judicial proceeding, court order or legal process served on our website. 
+
+### Links to Non-CriminalRecords.com Websites
+
+This website contains links to other third party websites. We are not responsible for the privacy practices or the content of those other websites.
+
+### Access to your Account
+
+If you would like to update your personal information in your account such as your name, address or email address, you can do so by logging into your account and updating your personal information. 
+
+### Information Security
+
+The security of your personal information is important to us. When you enter sensitive information (such as credit card number and/or social security number) on our registration or order forms, we encrypt that information using secure socket layer technology (SSL). 
+
+We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet or method of electronic storage is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security. 
+
+### How to Remove your Information from the CriminalRecords.com Public Records Databases
+
+Public records are available from the official public records custodian or repository to anyone who requests them. In order for any database of public records to be useful, the databases must contain all of the information in the public records offices. If you have a compelling privacy or security issue, you may wish to contact the official custodians of those public records that contain sensitive information about you, such as your county's land records office, to determine how to remove your information from the public record. (The process of having public records sealed typically requires a court order.) This process will ensure that the information is not available to the public, to us, or to any other public records information provider.
+
+In addition to public records, personal information may be publicly or commercially available. Publicly available information consists of online and offline information that is generally available but is not maintained by a government agency, such as names, addresses and telephone numbers of individuals and businesses, professional licensing and trade organization information, press releases and newspaper articles and content from blogs or social networking sites. Commercial records consist of information that is maintained by enterprises and is available for purchase, such as marketing and telemarketing lists, phone connect and disconnect information, and business profile data.
+
+As a courtesy we allow you to opt out your personal information from our Website. What this means is that your name as it appears in a particular record and the associated identifying information such as your address and phone number will be suppressed if you request this in the manner described below. However, please note that any time your identifying information appears in a public record or in a publicly or commercially available manner, in a way that is different from the particular record you opted out, it will again appear on our Website. For example, if your address or area code changes, your new information -- including other associated identifying information -- will again appear unless you opt out the new record. Similarly, if the way in which your name or address appears in a record differs from a record you opted out (e.g., "Robert" instead of "Bob," or "1601 Fourth AVE NE" instead of "1601-4th Avenue Northeast"), we may include the differing record. Please also note that there may be more than one record on our Website associated with your personal information. Opting out one particular record will not opt out other record(s).In addition to this Website, there are many other companies offering public records search services, and your request that we opt out your information from this Website will not prevent your information from appearing on these other services. 
+
+In order for us to suppress or opt out your personal information from appearing on our Website, we need to verify your identity. To do this, we require faxed or mailed proof of identity. Proof of identity can be a state issued ID card or driver's license. When sending your request, we require that you cross out the photo and the driver's license number. We only need to see the name, address and date of birth. We will only use this information to process your removal request. Please allow 7-14 business days for this request to be processed. To submit your removal request, please submit by fax to 213-402-8105. 
+
+### Changes to this Policy
+
+If we decide to change this Policy, we will post the changes to this Policy, the home page link, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. 
+
+We reserve the right to modify this Policy at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, or by means of a notice on our home page. 
