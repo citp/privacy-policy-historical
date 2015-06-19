@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sumdog.com privacy policy that was archived on 2014-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141222195541id_/http%3A//www.sumdog.com/en/Privacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sumdog.com privacy policy that was archived on 2015-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150619113930id_/http%3A//www.sumdog.com/en/Privacy_Policy) for the most accurate reproduction.*
 
 # Sumdog Teacher Portal - Privacy Policy and Cookies
 
@@ -30,7 +30,7 @@ If you are under 18,
 
 
 
-If we discover that we have collected personal information from anyone under 18 without permission from someone with the authority to give permission, we will delete that information as quickly as possible. If you believe that this has happened, please contact us at privacy@sumdog.com.
+If we discover that we have collected personal information from anyone under 18 without permission from someone with the authority to give permission, we will delete that information as quickly as possible. If you believe that this has happened, please contact us at [privacy@sumdog.com](mailto:privacy@sumdog.com).
 
 ### Information users give us
 
@@ -88,7 +88,7 @@ Teacher Users may then enter information about their students:
 
 In the future, we may ask teachers to enter the date of birth of students. If we do this, it will always be optional.
 
-Teacher Users may also invite other teachers, by entering their names and email addresses. 
+Teacher Users may also invite other teachers, by entering their names and email addresses.
 
 **All Users**
 
@@ -213,7 +213,7 @@ Where we believe in good faith that you are or may be in breach of any law, or t
 
 By using Sumdog, you give your consent for us to transfer your data to, and process it in, the United States of America. If, by using Sumdog, you would break any applicable laws, we must unfortunately revoke your right to do so.
 
-We comply with the US-EU Safe Harbor Framework for the collection and use of personal data from EU countries. 
+We comply with the US-EU Safe Harbor Framework for the collection and use of personal data from EU countries.
 
 ### Third parties
 
@@ -241,6 +241,6 @@ We may change this Privacy Policy from time to time. How we use the information 
 
 ### **How to contact us**
 
-If you have any query regarding this Privacy Policy or your Personal Information on Sumdog, please e-mail privacy@sumdog.com. Alternatively, please write to Sumodg Inc, 902 Broadway, New York, NY NY 10010, or call 877-9786364. Outside of North America, please write to Sumdog Ltd, 43 Queensferry Street Lane, Edinburgh, EH2 4PF, UK or call +44 (0)1312261511.
+If you have any query regarding this Privacy Policy or your Personal Information on Sumdog, please e-mail [privacy@sumdog.com](mailto:privacy@sumdog.com). Alternatively, please write to Sumodg Inc, 902 Broadway, New York, NY NY 10010, or call 877-9786364. Outside of North America, please write to Sumdog Ltd, 43 Queensferry Street Lane, Edinburgh, EH2 4PF, UK or call +44 (0)1312261511.
 
 Under the Data Protection Act in the UK, Parent Users have the right to request a copy of the personal information we hold about you and to have any inaccuracies corrected. (We may charge for information requests and will require you to prove your identity with 2 pieces of approved photographic identification). We will use reasonable efforts to supply, correct or delete personal information about you on our files. Please send requests by post to the Data Protection Manager at the address above.
