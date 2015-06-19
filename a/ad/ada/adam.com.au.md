@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adam.com.au privacy policy that was archived on 2014-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141228085412id_/http%3A//www.adam.com.au/about/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adam.com.au privacy policy that was archived on 2015-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150619180851id_/http%3A//www.adam.com.au/about/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Statement | Legal | Adam Internet | Connecting SA
 
@@ -17,7 +17,7 @@ Adam Internet usually collects personal information about you directly. For exam
 We may also collect information about you indirectly, including from:
 
   * our employees, agents, contractors or suppliers;
-  * third parties such as our related companies, [credit reporting bodies](https://web.archive.org/web/20141228085412id_/http%3A//www.adam.com.au/about/legal/credit-reporting-explained) and credit providers;
+  * third parties such as our related companies, [credit reporting bodies](https://web.archive.org/web/20150619180851id_/http%3A//www.adam.com.au/about/legal/credit-reporting-explained) and credit providers;
   * third parties such as sporting clubs and community organisations that we partner with;
   * third parties such as utility aggregators who provide product comparison services for telecommunications market;
   * our customer's authorised representatives;
@@ -75,9 +75,20 @@ We may need to share your personal information to organisations outside Adam Int
 
 We keep customer information on controlled systems, which are secure against unauthorised access. Proof of identity is always required before personal information is disclosed to any person, including the specific customer. We take particular care with credit card details, which are not stored unencrypted in Adam Internet systems.
 
-## Our websites
+## Our websites, cookies & online advertising
 
-We may also collect information about visits to our websites for marketing and statistical purposes to improve the way we interact with you. We may use cookies or other similar technology for these purposes. You can usually remove or block cookies (by using the settings in your browser), but it may affect your ability to use the website. 
+We may also collect information about visits to our websites for marketing and statistical purposes to improve the way we interact with you.  We may use cookies (small files that are stored in your web browser) or other similar technology for these purposes. Some examples of cookies that we use or collect are:
+
+  * Web Analytics Cookies – to understand anonymous and aggregated website behaviour such as how many visitors are using our websites, length of visit, where visitors are navigating, and what pages have been visited.
+  * Online Advertising Cookies – to ensure our online advertising is more relevant to you and keep you from repeatedly seeing the same advertising from us.
+
+
+
+The data collected from cookies (or similar technology) our websites use is anonymous and is not matched to any identified individual. You can usually remove or block cookies and opt-out of interest based tracking by using the settings in your web browser application or mobile device, however it may affect your ability to use the website.
+
+Our websites use Google Analytics Advertising Features (including Remarking and Impression Reporting). These features make use of cookies and similar technology. In addition to making the advertisements you see interest based, these features also allow our advertisements to be displayed to you when you are visiting other websites on the Google Display Network. Our use of these features does not result in Google or any other third party obtaining any of your personal information. 
+
+The [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout/) can be used to make sure your data isn’t being captured by Google Analytics, and you can also [opt-out from interest based advertising](https://support.google.com/ads/answer/2662922?hl=en-AU) when using Google products. If you opt out you will still see advertising when using Google products but it will not be interest based advertising.
 
 ## How to access & correct your personal information
 
@@ -85,10 +96,10 @@ Your personal information can be accessed via your secure [toolbox](https://web.
 
 We maintain and update the personal information we hold as it becomes necessary, for example when our customers inform us that their personal information has changed. A customer can request to opt-out of certain communications and make changes to their personal information directly through their Toolbox, or by contacting us at [help@adam.com.au](mailto:help@adam.com.au) or by calling (08) 8423 4000.
 
-Please [contact us](https://web.archive.org/web/20141228085412id_/http%3A//www.adam.com.au/about/legal/contact) if you wish to access or correct personal information that we hold about you.
+Please [contact us](https://web.archive.org/web/20150619180851id_/http%3A//www.adam.com.au/about/legal/contact) if you wish to access or correct personal information that we hold about you.
 
 ## Contact us about our privacy statement
 
-If you have any queries concerning this privacy statement, please [contact us](https://web.archive.org/web/20141228085412id_/http%3A//www.adam.com.au/about/legal/contact) by calling support on (08) 8423 4000 or email [help@adam.com.au](mailto:help@adam.com.au). Any privacy complaints will be handled in accordance with our [complaint process](https://web.archive.org/web/20141228085412id_/http%3A//www.adam.com.au/about/legal/privacy?complaints).
+If you have any queries concerning this privacy statement, please [contact us](https://web.archive.org/web/20150619180851id_/http%3A//www.adam.com.au/about/legal/contact) by calling support on (08) 8423 4000 or email [help@adam.com.au](mailto:help@adam.com.au). Any privacy complaints will be handled in accordance with our [complaint process](https://web.archive.org/web/20150619180851id_/http%3A//www.adam.com.au/about/legal/privacy?complaints).
 
-Date: 11 March 2014
+Date: 20 February 2015
