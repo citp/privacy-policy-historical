@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the honda.co.uk privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630013936id_/http%3A//www.honda.co.uk/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the honda.co.uk privacy policy that was archived on 2015-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150619075149id_/http%3A//www.honda.co.uk/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | Honda (UK)
 
 Personal Information and Transfers of such information gathered by Honda.co.uk is controlled by Honda (UK), a division of Honda Motor Europe Limited, located at:
 
-470 London Road  
-Slough  
+Cain Road  
+Bracknell  
 Berkshire  
-SL3 8QY
+RG12 1HL
 
 **Information Collection and Use**  
 Honda (UK) is the sole owner of the information collected on this Web site. Data that you provide will only be shared by Honda, its associated companies, [authorised dealers](https://web.archive.org/dealers/ "Click to view a full list of Honda Car and Honda Power Equipment Dealers") or third parties working on behalf of Honda. We or they may wish to contact you regarding our products, services, offers, technical developments or your opinions which may be used for marketing, research or analysis purposes. 
@@ -57,7 +57,7 @@ Back to top
 
 ### Subject Access Requests
 
-If you would like to access the personal information that Honda holds about you, please write to us at 470 London Road, Slough , Berkshire, SL3 8QY for the attention of the Company Solicitor. Please include a payment of £10 payable to Honda (UK) to cover administration and processing costs.  
+If you would like to access the personal information that Honda holds about you, please write to us at Cain Road, Bracknell, Berkshire, RG12 1HL for the attention of the Company Solicitor. Please include a payment of £10 payable to Honda (UK) to cover administration and processing costs.  
 Back to top
 
 **Choice/Opt-in and Opt-out**  
@@ -67,7 +67,7 @@ If you no longer wish to receive email or other promotional materials from us, y
 
   * by replying to the email with ‘unscubscribe’ in the subject line
   * by using the opt out boxes on the response form and submitting it
-  * by writing to the Database Manager, Honda (UK), 470 London Road, Slough, Berkshire, SL3 8QY
+  * by writing to the Database Manager, Honda (UK), Cain Road, Bracknell, Berkshire, RG12 1HL, United Kingdom
   * by calling us on 0845 200 800
 
 
