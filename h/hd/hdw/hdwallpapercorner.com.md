@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hdwallpapercorner.com privacy policy that was archived on 2014-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141207231327id_/http%3A//hdwallpapercorner.com/read/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hdwallpapercorner.com privacy policy that was archived on 2015-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150619205831id_/http%3A//hdwallpapercorner.com/read/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Free Download HD Wallpaper For Mobile And Desktop
 
