@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the floraqueen.com privacy policy that was archived on 2014-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141214002735id_/http%3A//www.floraqueen.com/sending-flowers/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the floraqueen.com privacy policy that was archived on 2015-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150619161733id_/http%3A//www.floraqueen.com/sending-flowers/privacy) for the most accurate reproduction.*
 
 # Privacy and Legal - Flower deliveries
 
@@ -87,18 +87,18 @@ Occasionally, FloraQueen may also use the information we collect to notify you a
 
 Smiles Guaranteed
 
->  **Jack (United Kingdom)**
+>  **Shinjini (India)**
 > 
-> I searched a lot to find a good online service for sending flowers. Your site was the best I have come up with so far! User friendly approach and easy-to-use service. I just want to thank you for putting so much effort into your work and making people happy!
+> Thanks a ton for the service you provided. :)
 
-[ ](https://web.archive.org/sending-flowers/beautiful-blooming-basket)
+[ ](https://web.archive.org/sending-flowers/cheery-morning-bouquet)
 
-Rated 3.8 out of 5 by 5231 reviewers 
+Rated 4.2 out of 5 by 6215 reviewers 
 
-  * [International Christmas Flower Delivery](https://web.archive.org/christmas-flowers "International Christmas Flower Delivery")
-  * [New Year’s Flowers](https://web.archive.org/new-years-flowers "New Year’s Flowers")
-  * [Neighbour day](https://web.archive.org/flowers-neighbour-day "Neighbour day")
-  * [International Valentine's Day Flower Delivery](https://web.archive.org/valentines-flowers "International Valentine's Day Flower Delivery")
+  * [Neighbour Day](https://web.archive.org/international-flower-delivery/neighbour-day "Neighbour Day")
+  * [Grandparents Day](https://web.archive.org/international-flower-delivery/grandparents-day "Grandparents Day")
+  * [World Peace Day](https://web.archive.org/international-flower-delivery/world-peace-day "World Peace Day")
+  * [Rosh Hashanah Flowers](https://web.archive.org/international-flower-delivery/rosh-hashanah "Rosh Hashanah Flowers")
 
 
 
