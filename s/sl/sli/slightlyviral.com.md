@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the slightlyviral.com privacy policy that was archived on 2014-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141130054322id_/http%3A//www.slightlyviral.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the slightlyviral.com privacy policy that was archived on 2015-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150619150711id_/http%3A//slightlyviral.com/privacy-policy) for the most accurate reproduction.*
 
 # Our Privacy Policy | Slightly Viral
 
@@ -33,5 +33,3 @@ We currently work with several advertising networks and companies. If you have a
 **Webmaster Contact Information**
 
 If you have any questions or suggestions regarding the http://www.SlightlyViral.com privacy policy, please feel free to contact us at:  SlightlyViral@gmail.com.
-
-Want more awesome stories just like this one? Like us on FB. You won't regret it.
