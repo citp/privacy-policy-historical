@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the happyjar.com privacy policy that was archived on 2014-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141203031141id_/http%3A//www.happyjar.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the happyjar.com privacy policy that was archived on 2015-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150619092106id_/http%3A//www.happyjar.com/privacy) for the most accurate reproduction.*
 
-# Happy Jar | Happy Jar - Privacy Policy
+# Happy Jar | Privacy Policy
 
 This privacy document outlines the types of personal information that is received and collected by happyjar.com and how it is used.
 
