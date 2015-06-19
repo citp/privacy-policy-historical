@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the finishline.com privacy policy that was archived on 2014-08-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140826035539id_/http%3A//www.finishline.com/store/customer_service/privacy_policy.jsp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the finishline.com privacy policy that was archived on 2015-06-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150619075723id_/http%3A//www.finishline.com/store/customer_service/privacy_policy.jsp) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class=""><head>
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -7,13 +7,14 @@
 <!--  end of Search Results -->
 			<!--  end of Search Results -->
 			<!-- This is for Product Detail Page -->
-				<title>Customer Care&nbsp;| Finish Line | </title>
+				<title>Customer Care | Finish Line</title>
 
 				<meta name="Description" content="The Customer Care - Shop Finish Line today!  &amp; more colors. Reviews, in-store pickup &amp; free shipping on select items.">
 
 				<meta name="Keywords" content="">
 							<link rel="canonical" href="">
-					 	<link rel="apple-touch-icon" href="/media/images/icons/apple-touch-icon.png">
+						 	<link rel="alternate" href="">
+						 		<link rel="apple-touch-icon" href="/media/images/icons/apple-touch-icon.png">
 <meta name="author" content="The Finish Line">
 <meta name="copyright" content="These documents are copyright 2009; The Finish Line, finishline.com">
 <meta name="rating" content="general">
@@ -27,14 +28,10 @@
 
 
     <!-- tealeaf interation -->
-			<script type="text/javascript" src="/store/assets/scripts/tealeaf/TealeafSDKConfig.js"></script>
-			<script type="text/javascript" src="/store/assets/scripts/tealeaf/TealeafSDK.js"></script>
+			<script async="" type="text/javascript" src="/store/assets/scripts/tealeaf/TealeafSDKConfig.js"></script>
+			<script async="" type="text/javascript" src="/store/assets/scripts/tealeaf/TealeafSDK.js"></script>
 		<script>
         (function(B,C){B[C]=B[C].replace(/\bno-js\b/,'js');if(!/*@cc_on!@*/0)return;var e = "abbr,article,aside,audio,canvas,datalist,details,dialog,eventsource,figure,footer,header,hgroup,mark,menu,meter,nav,output,progress,red,section,time,video,error,line".split(','),i=e.length;while(i--){document.createElement(e[i])}})(document.documentElement,'className');
-    </script>
-
-    <script>
-        (function(w,d,s,sr,c){w[sr]=w[sr]||[]; var f=d.getElementsByTagName(s)[0],j=d.createElement(s);j.async=true;j.src= d.location.protocol+'//dhxtx5wtu812h.cloudfront.net/js/'+c+'.js';f.parentNode.insertBefore(j,f); })(window,document,'script','_smtr','finishline')
     </script>
 
 
@@ -57,7 +54,7 @@
         </style>
 
 
-    <script async="">
+    <script>
 		window.FL = window.FL || {};
 		FL.setup = FL.setup || {};
 		FL.siteSection = "";
@@ -65,27 +62,32 @@
 	</script>
 
 
-	<script src="/store/assets/scripts/one-offs/console.init.js"></script>
+
+    <script>
+        (function(w,d,s,sr,c){w[sr]=w[sr]||[]; var f=d.getElementsByTagName(s)[0],j=d.createElement(s);j.async=true;j.src= d.location.protocol+'//dhxtx5wtu812h.cloudfront.net/js/'+c+'.js';f.parentNode.insertBefore(j,f); })(window,document,'script','_smtr','finishline')
+    </script>
+
+    <script src="/store/assets/scripts/one-offs/console.init.js"></script>
 
 
 
 
 
 	<!-- set up environment -->
-	<script async="">
+	<script>
 		FL.environment = "production";
 	</script>
-	<script async="">
+	<script>
 				FL.environment = "www";
 			</script>
-		<script async="">
+		<script>
 		/* Right now many of these properties are used by the DOTOMI pixel. These
 			can be utilized in any JS. Probably will be used for other tracking pixels */
 
 		FL.setup.specificScript = "";
 		FL.setup.specificPage = "";
 		FL.setup.doProductDetails = false;
-		FL.setup.customerId = "-1921189434";
+		FL.setup.customerId = "-1181241570";
 		FL.setup.category = "";
 		FL.setup.categoryId = "";
 		FL.setup.subCategory = "";
@@ -105,8 +107,13 @@
 	</script>
 
 
-	<!-- Replaced scriplet with Droplet -->
-<script id="hiconversion_head_script" type="text/javascript">
+	<!-- Add better gigya reporting to existing gigyaTracker params -->
+<!-- Replaced scriplet with Droplet -->
+<script>
+			var _smtr = _smtr || window._smtr || []; 
+			_smtr.push(["pageView", { "pageType": "other"}]);
+		</script>
+	<script id="hiconversion_head_script" type="text/javascript">
     var hiconversion_load = new Date();
     function hiconversion_head_load() {
         var external ="";
@@ -230,7 +237,11 @@
 
 		<p class="finalSubtotal"><strong>Subtotal:</strong> <span class="finalSubtotalAmount">{{= Subtotal}}</span></p>
 		
-		<a href="/store/checkout/cart.jsp" id="dynamicCartCheckoutButton" class="btn btn-primary btn-large btn-block btn-caret-right">View Cart and Checkout</a>
+		{{if Promotion != ''}}
+			<div id="dcPromotion"></div>
+		{{/if}}
+		
+		<a href="/store/checkout/cart.jsp" id="dynamicCartCheckoutButton" class="btn btn-primary btn-block btn-primary-blue">View Cart and Checkout <span></span></a>
 		
 		<div id="dcEndImage" class="bottom">
 			{{if ClosenessQualifier != ''}}
@@ -238,6 +249,122 @@
 			{{/if}}
 		</div>
 	</div>
+</script><script type="text/x-jquery-tmpl" id="dynamicCartRWD_tmpl">
+	<div class="row cart-nav">
+	<div class="cart_wrapper">
+		<div class="small-12 cart-content">
+		<div class="carttop"></div>
+			{{if data}}
+				{{each(i, product) data.products}}
+					<div class="row product-row" id="product{{= i}}" data-equalizer>
+						<div class="small-4 imageWidth" data-equalizer-watch>
+							<a href="/store/catalog/product.jsp?productId={{= product.productId}}" title="View {{= product.name}}">
+								<img src="{{= product.thumbnail}}" alt="{{= product.name}}" title="{{= product.name}}" class="stretch">
+							</a>
+						</div>
+						<div class="small-8 imageData" data-equalizer-watch>
+							{{if i == 0}}
+								{{if message}}
+									{{if message.display}}
+										<div class="message fade in">{{= message.text}}</div>
+									{{/if}}
+								{{/if}}
+							{{/if}}
+
+							<div class="small-12">
+								<a class="bold description" href="/store/catalog/product.jsp?productId={{= product.productId}}" title="View {{= product.name}}">
+									{{= product.name}}
+								</a>
+							</div>
+
+							{{if product.salesText}}
+								<p class="salesText">{{= product.salesText}}</p>
+							{{/if}}
+							
+							<p class="color-description">{{= product.color}}</p>
+							<div class="sizeandship">
+								<div class="small-4 heading sizeColumn">
+
+									Size: <span class="bold">{{= product.size}}</span><br>
+									QTY: <span class="bold">{{= product.quantity}}</span>
+								
+								</div>
+								<!-- <div class="small-8 text-right columns product-price">
+						
+									{{if product.listPrice == product.originalPrice}}
+										<p class="value price"></p>
+									{{/if}}
+									{{if product.listPrice < product.originalPrice}}
+										<p class="value price sale">{{= product.listPrice}}</p>
+									{{/if}}
+									{{if product.listPrice > product.originalPrice}}
+										<p class="value price"></p>
+									{{/if}}
+								
+								</div> -->
+							
+								<div class="small-4 shipsection">
+									<div class="small-8 text-right columns product-price">
+										{{if product.isFreeShipping === true}}
+											<img class="free-shipping-icon messaging-icon" src="/media/images/products/free-shipping-icon.png" alt="This item is eligible for free shipping!">
+										{{/if}}
+										{{if product.isFressShipping == '2w4'}}
+											<p class="dcClosenessQualifierText">This item available for half off shipping!</p>
+										{{/if}}
+										{{if product.listPrice == product.originalPrice}}
+											{{if product.isFreeShipping === true}}
+												<span class="value price">{{= product.listPrice}}</span>
+											{{/if}}
+											{{if product.isFreeShipping != true}}
+												<span class="value price widthoutShip">{{= product.listPrice}}</span>
+											{{/if}}
+										{{/if}}
+										{{if product.listPrice < product.originalPrice}}
+											{{if product.isFreeShipping === true}}
+												<span class="value price original">{{= product.originalPrice}}</span>
+											{{/if}}
+											{{if product.isFreeShipping != true}}
+												<span class="value price widthoutShip">{{= product.listPrice}}</span>
+											{{/if}}
+										{{/if}}
+										{{if product.listPrice > product.originalPrice}}
+											{{if product.isFreeShipping === true}}
+												<span class="value price">{{= product.listPrice}}</span>
+											{{/if}}
+											{{if product.isFreeShipping != true}}
+												<span class="value price widthoutShip">{{= product.listPrice}}</span>
+											{{/if}}
+										{{/if}}
+									
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				{{/each}}
+			{{/if}}
+	</div>
+</div>
+			<div class="row cartBottomSection">
+			<div class="cartBottomWrapper">
+				<div class="small-12 columns text-right total-price">
+					Subtotal: <span class="total-price-amount">{{= Subtotal}}</span>
+				</div>
+				<div class="small-12 columns text-center">
+					<a href="/store/checkout/cart.jsp" class="blue-button">View Cart and Checkout <span></span></a>
+				</div>
+				
+				<!-- <div id="dcEndImage" class="bottom"> -->
+					{{if ClosenessQualifier != ''}}
+						<div class="small-12 columns">
+							<!-- <div id="dcCQ"> {{= ClosenessQualifier}} </div> -->
+						</div>
+					{{/if}}
+				<!-- </div> -->
+			</div>
+			</div>
+		</div>
+	
 </script><script type="text/x-jquery-tmpl" id="dialog_tmpl">
 	<div id="{{= id }}"></div>
 </script>
@@ -254,7 +381,7 @@
 	<script src="/store/assets/scripts/library/jquery.jshowoff.js"></script>
 
 
-	<script src="/store/assets/scripts/min/26b78ad00ef62cf5cd978054376820d7.alpha.min.js"></script>
+	<script src="/store/assets/scripts/min/79d7692c9dd69a9064ee9519b6fe47a2.alpha.min.js"></script>
 				<!--[if lte IE 8]>
 		<script src="/store/assets/scripts/patches/if.lte.ie8.adds-first-and-last-child-classes.js"></script>
 	<![endif]-->
@@ -266,27 +393,27 @@
 	<![endif]-->
 
 
-	<script src="//www.google.com/jsapi" type="text/javascript"></script>
+	<script async="" src="//www.google.com/jsapi" type="text/javascript"></script>
 
-	<script src="/store/assets/scripts/alpha/960.sayt.js"></script>
-  		<script src="//www.gstatic.com/commercesearch/sayt/sayt.js" type="text/javascript" charset="UTF-8"></script>
+	<script async="" src="/store/assets/scripts/alpha/960.sayt.js"></script>
+  		<script async="" src="//www.gstatic.com/commercesearch/sayt/sayt.js" type="text/javascript" charset="UTF-8"></script>
 	<script src="//cdn.gigya.com/JS/socialize.js?apikey=2_OnD3JG0Zquc6MKvfNAnOEXWTKUptFsUTAeqD2fkRMFd-YKdrjggls0cUKxtUgtmY"></script>
-<link href="/media/globalpromo/backtoschoolcarousel/css/styles.css" rel="stylesheet" type="text/css"><script src="/media/globalpromo/backtoschoolcarousel/scripts/script.js"></script>
-<link href="/media/globalpromo/plugins/carousel/owl.carousel.css" rel="stylesheet" type="text/css"><script src="/media/globalpromo/plugins/carousel/owl.carousel.js"></script><!--[if lt IE 9]>
+<script src="//assets.adobedtm.com/ee4e4c4812a81337949ec84aecd379fd84062911/satelliteLib-b424be1e822460881499a23c708e484470f73423.js"></script>
+		<!--[if lt IE 9]>
         <link href="/store/assets/styles/css/conditional/ie_fixes/iehacks.css" rel="stylesheet" type="text/css" >
     <![endif]-->
-</head>
+<meta class="foundation-data-attribute-namespace"><meta class="foundation-mq-xxlarge"><meta class="foundation-mq-xlarge"><meta class="foundation-mq-large"><meta class="foundation-mq-medium"><meta class="foundation-mq-small"><style></style></head>
 
 
 
     <!--[if IE 8 ]>		
-    	<body id="" class="  normalLayout  no-landingPage         spring-2013 addToCartModal lp-promo-editor-skin  debug-off ie ie8 "> 
+    	<body id="" class="  normalLayout  no-landingPage          spring-2013 addToCartModal   lp-promo-editor-skin  debug-off ie ie8 "> 
     <![endif]-->
     <!--[if IE 9 ]>		
-    	<body id="" class="  normalLayout  no-landingPage         spring-2013 addToCartModal lp-promo-editor-skin  debug-off ie9 "> 
+    	<body id="" class="  normalLayout  no-landingPage          spring-2013 addToCartModal   lp-promo-editor-skin  debug-off ie9 "> 
     <![endif]-->
     <!--[if !IE]><!-->
-    	<body id="" class="  normalLayout  no-landingPage         spring-2013 addToCartModal lp-promo-editor-skin  debug-off ">
+    	<body id="" class="  normalLayout  no-landingPage          spring-2013 addToCartModal   lp-promo-editor-skin  debug-off ">
     <!--<![endif]-->
         <!-- doAnalytics: true -->
         <script type="text/javascript">
@@ -320,7 +447,7 @@
             "order_store" : "",
             "order_promo_code" : "",
             "order_promo_amount" : "",
-            "order_customer_id" : "-1921189434",
+            "order_customer_id" : "-1181241570",
             "order_customer_email" : "",
             "order_customer_city" : "",
             "order_customer_state" : "",
@@ -365,6 +492,7 @@
                                     <div id="topnav" class="nav">
 		                                    <ul class="topNavOptions">
 		                                     <li class="help"><a href="/store/customer_service/contact_us.jsp" class="help">Help</a></li>
+		                                     <li class="giftCards"><a href="/giftcards">Gift Cards</a></li>
                                             <li class="trackOrder"><a id="showOrderInquiry" class="popup_dialog" href="/store/global/fragments/order_inquiry.jsp?orderId=&amp;zip=" data-dialog="{&quot;id&quot; : &quot;order_inquiry&quot;, &quot;height&quot; : 600, &quot;width&quot; : 800, &quot;title&quot; : &quot;Order Inquiry&quot;, &quot;style&quot;:&quot;global-modal&quot;, &quot;load&quot; : &quot;iframe&quot;}">Track Your Order</a></li>
                                             <li class="storeLocator"><a href="/store/storelocator/storelocator.jsp">Store Locator</a></li>
                                             <li class="winnerCircle"><a href="/store/my_account/wc_main.jsp">Winners Circle</a></li>
@@ -372,14 +500,21 @@
 		                                    </div>
 		                                    <div id="topnav" class="nav pull-right secRowNavOptions">
 		                                    <ul>
-		                                    <li class="freeShipping"><a href="#">Free Shipping on Thousands of Styles and Orders Over $75</a></li><li class="details"><a href="/store/global/promos/shipforfree.jsp" data-dialog="{&quot;title&quot;:&quot;Shipping Details&quot;, &quot;height&quot;:500, &quot;width&quot;:600, &quot;id&quot;:&quot;dialog_privacy_policy&quot;, &quot;load&quot;:&quot;iframe&quot;}" class="popup_dialog"> Details </a>
+		                                    <li class="freeShipping"><a href="#">Free Shipping on Thousands of Styles. Every Day.</a></li><li class="details"><a href="/store/global/promos/shipforfree.jsp" data-dialog="{&quot;title&quot;:&quot;Shipping Details&quot;, &quot;height&quot;:500, &quot;width&quot;:600, &quot;id&quot;:&quot;dialog_privacy_policy&quot;, &quot;load&quot;:&quot;iframe&quot;}" class="popup_dialog"> Details </a>
                                      			 </li>
 	                                            <li class="myaccount">
 	                                            	<span><a href="/store/my_account/signin.jsp">MY ACCOUNT</a></span>
 	                                                	<ul class="popmenu">
-	                                                    	<li><a href="/store/my_account/signin.jsp;jsessionid=51224A5200282018DA7C0B21CE4228F3.FLP10405">Sign In</a></li>
-	                                                        <li><a href="/store/my_account/register.jsp">Register</a></li>
-	                                                        <li><a href="/store/gifts/wishlist_landing.jsp">Wish List</a></li>
+	                                                    	<li><a href="/store/my_account/signin.jsp"><span>&gt;</span>Sign In</a></li>
+	                                                        <li><a href="/store/my_account/register.jsp?isWinnerCircleRegistration=true"><span>&gt;</span>Register</a></li>
+	                                                        <li><a href="/wishlist"><span>&gt;</span>Wish List</a></li>
+                                                            <li class="winnerscircle">
+                                                                <a href="/store/my_account/wc_main.jsp">
+                                                                <div class="wc_logo"></div>
+                                                                <div class="message">Score kicks. Score points. Get rewards.</div>
+                                                                    <div class="link">Learn More</div>
+                                                                </a>
+                                                            </li>
 	                                                    </ul>
 	                                             </li>
 	
@@ -424,7 +559,7 @@
                                                 <a id="navigation" name="navigation"></a>
                                                 <div class="list horizontal">
 													<div class="contentWrapper">                                                
-                                                    <ul id="menu">
+                                                    <ul id="menu" class="drp-nav-list">
 	<li class="first-level ">
 				<a href="/store/shop/men/_/N-33id5?categoryId=cat301552&amp;mnid=men">
 					<span>Men</span>
@@ -448,6 +583,8 @@
 													
 													<li><a class="sub" href="/store/shop/men/shoes/boots/_/N-33idb?categoryId=cat301587&amp;mnid=men_shoes_boots">Boots</a></li>
 													
+													<li><a class="sub" href="/store/shop/men/shoes/_/N-33id6/Nf-P_Size%7CBTWN+14+18?categoryId=cat306340">Sizes 14-18</a></li>
+													
 													<li><a class="sub" href="/store/shop/men/shoes/_/N-33id6?categoryId=cat301564&amp;mnid=men_shoes">All Shoes</a></li>
 								</ul>
 								</li>
@@ -456,15 +593,15 @@
 								<li class="subheader "><a href="/store/shop/men/apparel/_/N-33ide?categoryId=cat301570&amp;mnid=men_apparel">Apparel</a></li>
 										<li><a class="sub" href="/store/shop/men/apparel/shirts/_/N-33idh?categoryId=cat301799&amp;mnid=men_apparel_shirts">Shirts</a></li>
 													
-													<li><a class="sub" href="/store/shop/men/apparel/_/N-33ideZ33itc?categoryId=cat400028&amp;mnid=men_apparel_tanks">Tanks</a></li>
+													<li><a class="sub" href="/store/shop/men/apparel/tanks/_/N-33kps?categoryId=cat305596&amp;mnid=men_apparel_tanks">Tanks</a></li>
+													
+													<li><a class="sub" href="/store/shop/men/apparel/sweatshirts/_/N-33idg?categoryId=cat301595&amp;mnid=men_apparel_sweatshirts">Sweatshirts</a></li>
+													
+													<li><a class="sub" href="/store/shop/men/apparel/jackets-vests/_/N-33idf?categoryId=cat301593&amp;mnid=men_apparel_jacketsandvests">Jackets &amp; Vests</a></li>
 													
 													<li><a class="sub" href="/store/shop/men/apparel/shorts/_/N-33idj?categoryId=cat301600&amp;mnid=men_apparel_shorts">Shorts</a></li>
 													
 													<li><a class="sub" href="/store/shop/men/apparel/pants/_/N-33idi?categoryId=cat301598&amp;mnid=men_apparel_pants">Pants</a></li>
-													
-													<li><a class="sub" href="/store/shop/men/apparel/hoodies-sweatshirts/_/N-33idg?categoryId=cat301595&amp;mnid=men_apparel_sweatshirts">Sweatshirts</a></li>
-													
-													<li><a class="sub" href="/store/shop/men/apparel/jackets-vests/_/N-33idf?categoryId=cat301593&amp;mnid=men_apparel_jacketsandvests">Jackets &amp; Vests</a></li>
 													
 													<li><a class="sub" href="/store/shop/fan-gear/_/N-33ixd?categoryId=cat301841&amp;mnid=men_apparel_fangear">Fan Gear</a></li>
 													
@@ -480,13 +617,15 @@
 													
 													<li><a class="sub" href="/store/shop/men/accessories/sunglasses/_/N-33idn?categoryId=cat301608&amp;mnid=men_accessories_sunglasses">Sunglasses</a></li>
 													
+													<li><a class="sub" href="/store/shop/men/accessories/hats/_/N-33ids?categoryId=cat301618&amp;mnid=men_accessories_hats">Hats</a></li>
+													
 													<li><a class="sub" href="/store/shop/men/accessories/watches/_/N-33idp?categoryId=cat301612&amp;mnid=men_accessories_watches">Watches</a></li>
 													
-													<li><a class="sub" href="/store/shop/men/accessories/sports-equipment/_/N-33idq?categoryId=cat301614&amp;mnid=men_accessories_sportsequipment">Sports Equipment</a></li>
+													<li><a class="sub" href="/store/shop/men/accessories/fitness-trackers/_/N-33k1g?categoryId=cat305210&amp;mnid=men_accessories_fitnesstrackers">Fitness Trackers</a></li>
 													
-													<li><a class="sub" href="/store/shop/men/accessories/shoe-accessories/_/N-33idr?categoryId=cat301616&amp;mnid=men_accessories_shoeaccessories">Insoles &amp; Laces</a></li>
+													<li><a class="sub" href="/store/shop/men/accessories/sports-equipment/_/N-33idq?categoryId=cat301614&amp;mnid=men_accessories_sportsequipment">Sports Gear</a></li>
 													
-													<li><a class="sub" href="/store/shop/men/accessories/hats/_/N-33ids?categoryId=cat301618&amp;mnid=men_accessories_hats">Hats</a></li>
+													<li><a class="sub" href="/store/shop/men/accessories/insoles-laces/_/N-33idr?categoryId=cat301616&amp;mnid=men_accessories_shoeaccessories">Insoles &amp; Laces</a></li>
 													
 													<li><a class="sub" href="/store/shop/men/accessories/gloves/_/N-33ido?categoryId=cat301610&amp;mnid=men_accessories_gloves">Gloves</a></li>
 													
@@ -498,11 +637,9 @@
 	<ul>
 		<li class="subheader featuredHeading"><a href="javascript:void(0);">FEATURED</a></li>
 		<li><a class="sub featured first-child" href="/store/shop/_/N-33iut/Ne-33id3Z33icsZ3Z33icuZ6Z4Z33icwZ33icx/Nf-P_DaysOld%7CLTEQ+14/Ns-P_DaysOld?categoryId=cat302308&amp;mnid=men_newarrivals&amp;sort=sort%3Anew%20arrivals">New Arrivals</a></li>
-		<li><a class="sub featured" href="/store/shop/_/N-33iut/Ne-33id3Z33icsZ3Z33icuZ6Z4Z33icxZ33id0/Ns-P_BestSellers%7C1/Ntt-WOS?mnid=men_online+exclusives" title="Check out our Online Exclusives!">Web Exclusives</a></li>
-		<li><a class="sub featured" href="/store/shop/promos/mens-apparel-best-sellers/_/N-33jln?categoryId=cat302676&amp;mnid=men_hot+sellers" title="The Latest Hot Selling Apparel">Apparel Hot Sellers</a></li>
+		<li><a class="sub featured" href="/store/shop/_/N-33iut/Ne-33id3Z33icsZ3Z33icuZ6Z4Z33icxZ33id0/Ns-P_DaysOld/Ntt-WOS?mnid=men_online+exclusives&amp;sort=sort%3Anew%20arrivals" title="Check out our Online Exclusives!">Web Exclusives</a></li>
 		<li><a href="/store/shop/promos/top-trending-products/_/N-33jq0?categoryId=cat303198#/store/shop/promos/top-trending-products/_/N-33jq0Z33iut/Ne-33id3Z33icsZ3Z33icuZ6Z4Z33icwZ33icxZ33id0/Ns-P_ManualSortSequence|0||P_BestSellers|1||P_DaysOld|0?categoryId=cat303198&amp;mnid=mens_top+trending">Top Trending</a></li>
-		<li><a href="/store/shop/promos/white/_/N-33jiq?categoryId=cat302497#/store/shop/promos/white/_/N-33jiqZ33iut/Ne-33id3Z33icsZ3Z33icuZ6Z4Z33icwZ33icxZ33id0/Ns-P_ManualSortSequence%7C0%7C%7CP_BestSellers%7C1%7C%7CP_DaysOld%7C0?categoryId=cat302497&amp;mnid=men_white+collection" title="White-On-White Products">White Collection</a></li>
-		<li><a class="sub featured" href="/shoe-release-calendar?mnid=men_shoe+release+dates" title="Upcoming sneaker release dates">Launch Calendar</a></li>
+		<li><a class="sub featured" href="/shoe-release-calendar?mnid=men-sneaker-release-dates" title="Upcoming sneaker release dates">Sneaker Release Dates</a></li>
 	</ul>
 	</li>
 </ul><div class="clear"></div>
@@ -529,7 +666,7 @@
 													
 													<li><a class="sub" href="/store/shop/women/shoes/sandals/_/N-33idy?categoryId=cat301632&amp;mnid=women_shoes_sandals">Sandals</a></li>
 													
-													<li><a class="sub" href="/store/shop/women/shoes/_/N-33iduZ33jmz?categoryId=cat301637">Sneaker Wedges</a></li>
+													<li><a class="sub" href="/store/shop/women/shoes/volleyball/_/N-33jwb?categoryId=cat301639&amp;mnid=women_shoes_volleyball">Volleyball</a></li>
 													
 													<li><a class="sub" href="/store/shop/women/shoes/_/N-33idu?categoryId=cat301620&amp;mnid=women_shoes">All Shoes</a></li>
 								</ul>
@@ -541,17 +678,17 @@
 													
 													<li><a class="sub" href="/store/shop/women/apparel/tanks/_/N-33jpa?categoryId=cat303116&amp;mnid=women_apparel_tanks">Tanks</a></li>
 													
-													<li><a class="sub" href="/store/shop/women/apparel/shorts/_/N-33ie5?categoryId=cat301644&amp;mnid=women_apparel_shorts">Shorts</a></li>
-													
-													<li><a class="sub" href="/store/shop/women/apparel/_/N-33ie0Z33iteZ33ise?categoryId=cat302736&amp;mnid=women_apparel_leggings">Leggings</a></li>
-													
-													<li><a class="sub" href="/store/shop/women/apparel/bottoms/_/N-33ie4?categoryId=cat301642&amp;mnid=women_apparel_bottoms">Bottoms</a></li>
-													
 													<li><a class="sub" href="/store/shop/women/apparel/sports-bras/_/N-33joy?categoryId=cat303098&amp;mnid=women_apparel_sportsbras">Sports Bras</a></li>
 													
-													<li><a class="sub" href="/store/shop/women/apparel/hoodies-sweatshirts/_/N-33ie2?categoryId=cat301638&amp;mnid=women_apparel_sweatshirts">Sweatshirts</a></li>
+													<li><a class="sub" href="/store/shop/women/apparel/sweatshirts/_/N-33ie2?categoryId=cat301638&amp;mnid=women_apparel_sweatshirts">Sweatshirts</a></li>
 													
 													<li><a class="sub" href="/store/shop/women/apparel/jackets-vests/_/N-33ie1?categoryId=cat301636&amp;mnid=women_apparel_jacketsandvests">Jackets &amp; Vests</a></li>
+													
+													<li><a class="sub" href="/store/shop/women/apparel/shorts/_/N-33ie5?categoryId=cat301644&amp;mnid=women_apparel_shorts">Shorts</a></li>
+													
+													<li><a class="sub" href="/store/shop/women/apparel/leggings/_/N-33kpt?categoryId=cat305594&amp;mnid=women_apparel_leggings">Leggings</a></li>
+													
+													<li><a class="sub" href="/store/shop/women/apparel/pants/_/N-33ie4?categoryId=cat301642&amp;mnid=women_apparel_bottoms">Pants</a></li>
 													
 													<li><a class="sub" href="/store/shop/fan-gear/_/N-33ixd?categoryId=cat301841&amp;mnid=women_apparel_fangear">Fan Gear</a></li>
 													
@@ -569,30 +706,30 @@
 													
 													<li><a class="sub" href="/store/shop/women/accessories/watches/_/N-33ied?categoryId=cat301658&amp;mnid=women_accessories_watches">Watches</a></li>
 													
-													<li><a class="sub" href="/store/shop/women/accessories/sports-equipment/_/N-33iee?categoryId=cat301660&amp;mnid=women_accessories_sportsequipment">Sports Equipment</a></li>
+													<li><a class="sub" href="/store/shop/women/accessories/fitness-trackers/_/N-33k1f?categoryId=cat305208&amp;mnid=women_accessories_fitnesstrackers">Fitness Trackers</a></li>
 													
-													<li><a class="sub" href="/store/shop/women/accessories/shoe-accessories/_/N-33ief?categoryId=cat301662&amp;mnid=women_accessories_shoeaccessories">Insoles &amp; Laces</a></li>
+													<li><a class="sub" href="/store/shop/women/accessories/sports-equipment/_/N-33iee?categoryId=cat301660&amp;mnid=women_accessories_sportsequipment">Sports Gear</a></li>
 													
-													<li><a class="sub" href="/store/shop/women/accessories/hats/_/N-33ieg?categoryId=cat301664&amp;mnid=women_accessories_hats">Hats &amp; Scarves</a></li>
+													<li><a class="sub" href="/store/shop/women/accessories/insoles-laces/_/N-33ief?categoryId=cat301662&amp;mnid=women_accessories_shoeaccessories">Insoles &amp; Laces</a></li>
 													
-													<li><a class="sub" href="/store/shop/women/accessories/gloves/_/N-33iec?categoryId=cat301656&amp;mnid=women_accessories_gloves">Gloves</a></li>
+													<li><a class="sub" href="/store/shop/women/accessories/headbands/_/N-33ksg?categoryId=cat307006&amp;mnid=women_accessories_headbands">Headbands</a></li>
+													
+													<li><a class="sub" href="/store/shop/women/accessories/hats/_/N-33ieg?categoryId=cat301664&amp;mnid=women_accessories_hats">Hats &amp; Gloves</a></li>
 													
 													<li><a class="sub" href="/store/shop/women/accessories/_/N-33ie8?categoryId=cat301624&amp;mnid=women_accessories">All Accessories</a></li>
 								</ul>
 								</li>
 						<ul>
- 	<li class="column">
- 	<ul>
- 		<li class="subheader featuredHeading"><a href="javascript:void(0);">FEATURED</a></li>
- 		<li><a class="sub featured first-child" href="/store/shop/_/N-33iuu/Nf-P_DaysOld|LTEQ+14?categoryId=cat302308&amp;mnid=women_newarrivals">New Arrivals</a></li>
- 		<li><a class="sub featured" href="/store/shop/_/N-33iuu/Ne-33id3Z33icsZ3Z33icuZ6Z4Z33icxZ33id0/Ns-P_BestSellers%7C1/Ntt-WOS?mnid=women_online+exclusives" title="Check out our Online Exclusives!">Web Exclusives</a></li>
- 		<li><a class="sub featured" href="/store/shop/promos/womens-apparel-best-sellers/_/N-33jlo?categoryId=cat302678&amp;mnid=women_hot+sellers" title="The Latest Hot Selling Apparel">Apparel Hot Sellers</a></li>
- 		<li><a href="/store/shop/promos/top-trending-products/_/N-33jq0?categoryId=cat303198#/store/shop/promos/top-trending-products/_/N-33jq0Z33iuu/Ne-33id3Z33icsZ3Z33icuZ6Z4Z33icwZ33icxZ33id0/Ns-P_ManualSortSequence|0||P_BestSellers|1||P_DaysOld|0?categoryId=cat303198&amp;mnid=women_top+trending">Top Trending</a></li>
- 		<li><a href="/store/shop/promos/white/_/N-33jiq?categoryId=cat302497#/store/shop/promos/white/_/N-33jiqZ33iuu/Ne-33id3Z33icsZ3Z33icuZ6Z4Z33icwZ33icxZ33id0/Ns-P_ManualSortSequence%7C0%7C%7CP_BestSellers%7C1%7C%7CP_DaysOld%7C0?categoryId=cat302497&amp;mnid=women_white+collection" title="White-On-White Products">White Collection</a></li>
- 		<li><a class="sub featured" href="/shoe-release-calendar?mnid=women_shoe+release+dates" title="Upcoming sneaker release dates">Launch Calendar</a></li>
- 	</ul>
- 	</li>
- </ul><div class="clear"></div>
+	<li class="column">
+	<ul>
+		<li class="subheader featuredHeading"><a href="javascript:void(0);">FEATURED</a></li>
+		<li><a class="sub featured first-child" href="/store/shop/_/N-33iuu/Nf-P_DaysOld|LTEQ+14?categoryId=cat302308&amp;mnid=women_newarrivals">New Arrivals</a></li>
+		<li><a class="sub featured" href="/store/shop/_/N-33iuu/Ne-33id3Z33icsZ3Z33icuZ6Z4Z33icxZ33id0/Ns-P_DaysOld/Ntt-WOS?mnid=women_online+exclusives&amp;sort=sort%3Anew%20arrivals" title="Check out our Online Exclusives!">Web Exclusives</a></li>
+		<li><a href="/store/shop/promos/top-trending-products/_/N-33jq0?categoryId=cat303198#/store/shop/promos/top-trending-products/_/N-33jq0Z33iuu/Ne-33id3Z33icsZ3Z33icuZ6Z4Z33icwZ33icxZ33id0/Ns-P_ManualSortSequence|0||P_BestSellers|1||P_DaysOld|0?categoryId=cat303198&amp;mnid=women_top+trending">Top Trending</a></li>
+		<li><a class="sub featured" href="/shoe-release-calendar?mnid=women-sneaker-release-dates" title="Upcoming sneaker release dates">Sneaker Release Dates</a></li>
+	</ul>
+	</li>
+</ul><div class="clear"></div>
 				 </div>
 				</ul>
 
@@ -622,11 +759,13 @@
 						<li class="column">
 							<ul>
 								<li class="subheader "><a href="/store/shop/kids/boys-apparel/_/N-33ien?categoryId=cat301670&amp;mnid=kids_boysapparel">Boys' Apparel</a></li>
-										<li><a class="sub" href="/store/shop/kids/boys-apparel/tops/_/N-33ieq?categoryId=cat301686&amp;mnid=kids_boysapparel_shirts">Shirts</a></li>
+										<li><a class="sub" href="/store/shop/kids/boys-apparel/shirts/_/N-33ieq?categoryId=cat301686&amp;mnid=kids_boysapparel_shirts">Shirts</a></li>
 													
-													<li><a class="sub" href="/store/shop/kids/boys-apparel/shorts/_/N-33ies?categoryId=cat301690&amp;mnid=kids_boysapparel_shorts">Shorts &amp; Pants</a></li>
+													<li><a class="sub" href="/store/shop/kids/boys-apparel/sweatshirts-jackets/_/N-33iep?categoryId=cat301684&amp;mnid=kids_boysapparel_sweatshirts">Sweatshirts &amp; Jackets</a></li>
 													
-													<li><a class="sub" href="/store/shop/kids/boys-apparel/hoodies/_/N-33iep?categoryId=cat301684&amp;mnid=kids_boysapparel_sweatshirts">Sweatshirts &amp; Jackets</a></li>
+													<li><a class="sub" href="/store/shop/kids/boys-apparel/shorts-pants/_/N-33ies?categoryId=cat301690&amp;mnid=kids_boysapparel_shorts">Shorts &amp; Pants</a></li>
+													
+													<li><a class="sub" href="/store/shop/kids/boys-apparel/toddler/_/N-33jt2?categoryId=cat303434&amp;mnid=kids_boysapparel_toddler">Toddler (2T-4T)</a></li>
 													
 													<li><a class="sub" href="/store/shop/kids/boys-apparel/infant/_/N-33iv8?categoryId=cat301942&amp;mnid=kids_boysapparel_infantsets">Infant (0-24M)</a></li>
 													
@@ -640,13 +779,15 @@
 						<li class="column">
 							<ul>
 								<li class="subheader "><a href="/store/shop/kids/girls-shoes/_/N-33iev?categoryId=cat301672&amp;mnid=kids_girlsshoes">Girls' Shoes</a></li>
-										<li><a class="sub" href="/store/shop/kids/girls-shoes/girls-3-5-7/_/N-33iew?categoryId=cat301696&amp;mnid=kids_girlsshoes_357">Girls' 3.5-7</a></li>
+										<li><a class="sub" href="/store/shop/kids/girls-shoes/girls-7-5-9-5/_/N-33k0i?categoryId=cat304962&amp;mnid=kids_girlsshoes_7595">Girls' 7.5-9.5</a></li>
+													
+													<li><a class="sub" href="/store/shop/kids/girls-shoes/girls-3-5-7/_/N-33iew?categoryId=cat301696&amp;mnid=kids_girlsshoes_357">Girls' 3.5-7</a></li>
 													
 													<li><a class="sub" href="/store/shop/kids/girls-shoes/girls-10-5-3/_/N-33iex?categoryId=cat301698&amp;mnid=kids_girlsshoes_1053">Girls' 10.5-3</a></li>
 													
 													<li><a class="sub" href="/store/shop/kids/girls-shoes/girls-2-12/_/N-33iey?categoryId=cat301700&amp;mnid=kids_girlsshoes_212">Girls' 2-12</a></li>
 													
-													<li><a class="sub" href="/store/shop/kids/girls-shoes/girls-crib/_/N-33iez?categoryId=cat301702&amp;mnid=kids_girlsshoes_infant">Girls' Infant</a></li>
+													<li><a class="sub" href="/store/shop/kids/girls-shoes/girls-infant/_/N-33iez?categoryId=cat301702&amp;mnid=kids_girlsshoes_infant">Girls' Infant</a></li>
 													
 													<li><a class="sub" href="/store/shop/kids/girls-shoes/_/N-33iev?categoryId=cat301672&amp;mnid=kids_girlsshoes">All Girls' Shoes</a></li>
 								</ul>
@@ -656,9 +797,13 @@
 								<li class="subheader "><a href="/store/shop/kids/girls-apparel/_/N-33if0?categoryId=cat301674&amp;mnid=kids_girlsapparel">Girls' Apparel</a></li>
 										<li><a class="sub" href="/store/shop/kids/girls-apparel/tops/_/N-33if3?categoryId=cat301708&amp;mnid=kids_girlsapparel_tops">Tops</a></li>
 													
-													<li><a class="sub" href="/store/shop/kids/girls-apparel/shorts/_/N-33if5?categoryId=cat301712&amp;mnid=kids_girlsapparel_shorts">Bottoms</a></li>
+													<li><a class="sub" href="/store/shop/kids/girls-apparel/sweatshirts-jackets/_/N-33if2?categoryId=cat301706&amp;mnid=kids_girlsapparel_sweatshirts">Sweatshirts &amp; Jackets</a></li>
 													
-													<li><a class="sub" href="/store/shop/kids/girls-apparel/hoodies/_/N-33if2?categoryId=cat301706&amp;mnid=kids_girlsapparel_sweatshirts">Sweatshirts &amp; Jackets</a></li>
+													<li><a class="sub" href="/store/shop/kids/girls-apparel/bottoms/_/N-33if5?categoryId=cat301712&amp;mnid=kids_girlsapparel_shorts">Bottoms</a></li>
+													
+													<li><a class="sub" href="/store/shop/kids/girls-apparel/preschool/_/N-33ksf?categoryId=cat307004&amp;mnid=kids_girlsapparel_preschool">Pre-School (4-7)</a></li>
+													
+													<li><a class="sub" href="/store/shop/kids/girls-apparel/toddler/_/N-33jt1?categoryId=cat303436&amp;mnid=kids_girlsapparel_toddler">Toddler (2T-4T)</a></li>
 													
 													<li><a class="sub" href="/store/shop/kids/girls-apparel/infant/_/N-33iv9?categoryId=cat301944&amp;mnid=kids_girlsapparel_infantsets">Infant (0-24M)</a></li>
 													
@@ -670,24 +815,22 @@
 								</ul>
 								</li>
 						<ul>
- 	<li class="column" style="width:140px;">
- 	<ul>
- 		<li class="subheader featuredHeading"><a href="javascript:void(0);">FEATURED</a></li>
- 		<li><a class="sub featured first-child" href="/store/shop/_/N-33iuvZ33iuw/Nf-P_DaysOld|LTEQ+14?categoryId=cat302308&amp;mnid=kids_newarrivals">New Arrivals</a></li>
- 		<li><a class="sub featured" href="/store/shop/_/N-33iuwZ33iuv/Ne-33id3Z33icsZ3Z33icuZ6Z4Z33icxZ33id0/Ns-P_BestSellers%7C1/Ntt-WOS?mnid=kids_online+exclusives" title="Check out our Online Exclusives!">Web Exclusives</a></li>
- 		<li><a class="sub featured" href="/store/shop/promos/kids-apparel-best-sellers/_/N-33jlp?categoryId=cat302680&amp;mnid=kids_hot+sellers" title="The Latest Hot Selling Apparel">Apparel Hot Sellers</a></li>
- 		<li><a href="/store/shop/promos/top-trending-products/_/N-33jq0?categoryId=cat303198#/store/shop/promos/top-trending-products/_/N-33jq0Z33iuvZ33iuw/Ne-33id3Z33icsZ3Z33icuZ6Z4Z33icwZ33icxZ33id0/Ns-P_ManualSortSequence|0||P_BestSellers|1||P_DaysOld|0?categoryId=cat303198&amp;mnid=kids_top+trending">Top Trending</a></li>
- 		<li><a href="/store/shop/promos/white/_/N-33jiq?categoryId=cat302497#/store/shop/promos/white/_/N-33jiqZ33iuvZ33iuw/Ne-33id3Z33icsZ3Z33icuZ6Z4Z33icwZ33icxZ33id0/Ns-P_ManualSortSequence%7C0%7C%7CP_BestSellers%7C1%7C%7CP_DaysOld%7C0?categoryId=cat302497&amp;mnid=kids_white+collection" title="White-On-White Products">White Collection</a></li>
- 		<li><a class="sub featured" href="/shoe-release-calendar?mnid=kids_shoe+release+dates" title="Upcoming sneaker release dates">Launch Calendar</a></li>
- 	</ul>
- 	</li>
- </ul><div class="clear"></div>
+	<li class="column" style="width:140px;">
+	<ul>
+		<li class="subheader featuredHeading"><a href="javascript:void(0);">FEATURED</a></li>
+		<li><a class="sub featured first-child" href="/store/shop/_/N-33iuvZ33iuw/Nf-P_DaysOld|LTEQ+14?categoryId=cat302308&amp;mnid=kids_newarrivals">New Arrivals</a></li>
+		<li><a class="sub featured" href="/store/shop/_/N-33iuwZ33iuv/Ne-33id3Z33icsZ3Z33icuZ6Z4Z33icxZ33id0/Ns-P_DaysOld/Ntt-WOS?mnid=kids_online+exclusives&amp;sort=sort%3Anew%20arrivals" title="Check out our Online Exclusives!">Web Exclusives</a></li>
+		<li><a href="/store/shop/promos/top-trending-products/_/N-33jq0?categoryId=cat303198#/store/shop/promos/top-trending-products/_/N-33jq0Z33iuvZ33iuw/Ne-33id3Z33icsZ3Z33icuZ6Z4Z33icwZ33icxZ33id0/Ns-P_ManualSortSequence|0||P_BestSellers|1||P_DaysOld|0?categoryId=cat303198&amp;mnid=kids_top+trending">Top Trending</a></li>
+		<li><a class="sub featured" href="/shoe-release-calendar?mnid=kids-sneaker-release-dates" title="Upcoming sneaker release dates">Sneaker Release Dates</a></li>
+	</ul>
+	</li>
+</ul><div class="clear"></div>
 				 </div>
 				</ul>
 
 </li>
 		<li class="first-level ">
-				<a href="/store/shop/sale/_/N-33if8?categoryId=cat301558&amp;mnid=sale">
+				<a href="/store/shop/new-sale/_/N-33k4e?categoryId=cat306004&amp;mnid=sale">
 					<span>Sale</span>
 					<span class="bottompart"></span>
 				</a>
@@ -696,50 +839,124 @@
 				<div class="submenuWrapper">
 					<li class="column">
 							<ul>
-								<li class="subheader "><a href="/store/shop/sale/mens-sale/_/N-33if9?categoryId=cat301719&amp;mnid=sale_men">Men</a></li>
-										<li><a class="sub" href="/store/shop/sale/mens-sale/mens-shoes-on-sale/_/N-33ifa?categoryId=cat301728&amp;mnid=sale_men_shoes">Shoes</a></li>
+								<li class="subheader "><a href="/store/shop/new-sale/mens-shoes/_/N-33k4f?categoryId=cat306006&amp;mnid=sale_mensshoes">Men's Shoes</a></li>
+										<li><a class="sub" href="/store/shop/new-sale/mens-shoes/running/_/N-33k4h?categoryId=cat306010&amp;mnid=sale_mensshoes_running">Running</a></li>
 													
-													<li><a class="sub" href="/store/shop/sale/mens-sale/mens-apparel-on-sale/_/N-33ifb?categoryId=cat301730&amp;mnid=sale_men_apparel">Apparel</a></li>
+													<li><a class="sub" href="/store/shop/new-sale/mens-shoes/basketball/_/N-33k4g?categoryId=cat306008&amp;mnid=sale_mensshoes_basketball">Basketball</a></li>
 													
-													<li><a class="sub" href="/store/shop/sale/mens-sale/mens-accessories-on-sale/_/N-33ifc?categoryId=cat301732&amp;mnid=sale_men_accessories">Accessories</a></li>
+													<li><a class="sub" href="/store/shop/new-sale/mens-shoes/casual/_/N-33k4i?categoryId=cat306012&amp;mnid=sale_mensshoes_casual">Casual</a></li>
 													
-													<li><a class="sub" href="/store/shop/sale/mens-sale/_/N-33if9?categoryId=cat301719&amp;mnid=sale_men">All Men</a></li>
+													<li><a class="sub" href="/store/shop/new-sale/mens-shoes/training/_/N-33k4j?categoryId=cat306014&amp;mnid=sale_mensshoes_training">Training</a></li>
+													
+													<li><a class="sub" href="/store/shop/new-sale/mens-shoes/sandals/_/N-33k4k?categoryId=cat306016&amp;mnid=sale_mensshoes_sandals">Sandals</a></li>
+													
+													<li><a class="sub" href="/store/shop/new-sale/mens-shoes/boots/_/N-33k4l?categoryId=cat306018&amp;mnid=sale_mensshoes_boots">Boots</a></li>
+													
+													<li><a class="sub" href="/store/shop/new-sale/mens-shoes/size-14-18/_/N-33k4m?categoryId=cat306020&amp;mnid=sale_mensshoes_sizes1418">Sizes 14-18</a></li>
+													
+													<li><a class="sub" href="/store/shop/new-sale/mens-shoes/_/N-33k4f?categoryId=cat306006&amp;mnid=sale_mensshoes">All Men's Shoes</a></li>
 								</ul>
 								</li>
 							<li class="column">
 							<ul>
-								<li class="subheader "><a href="/store/shop/sale/womens-sale/_/N-33ifd?categoryId=cat301721&amp;mnid=sale_women">Women</a></li>
-										<li><a class="sub" href="/store/shop/sale/womens-sale/womens-shoes-on-sale/_/N-33ife?categoryId=cat301734&amp;mnid=sale_women_shoes">Shoes</a></li>
+								<li class="subheader "><a href="/store/shop/new-sale/mens-apparel/_/N-33k4o?categoryId=cat306024&amp;mnid=sale_mensapparel">Men's Apparel</a></li>
+										<li><a class="sub" href="/store/shop/new-sale/mens-apparel/shirts/_/N-33k4r?categoryId=cat306030&amp;mnid=sale_mensapparel_shirts">Shirts</a></li>
 													
-													<li><a class="sub" href="/store/shop/sale/womens-sale/womens-apparel-on-sale/_/N-33iff?categoryId=cat301736&amp;mnid=sale_women_apparel">Apparel</a></li>
+													<li><a class="sub" href="/store/shop/men/apparel/_/N-33k4oZ33itc?categoryId=cat306032&amp;mnid=sale_mensapparel_tanks">Tanks</a></li>
 													
-													<li><a class="sub" href="/store/shop/sale/womens-sale/womens-accessories-on-sale/_/N-33ifg?categoryId=cat301738&amp;mnid=sale_women_accessories">Accessories</a></li>
+													<li><a class="sub" href="/store/shop/sale/mens-apparel/sweatshirts/_/N-33k4q?categoryId=cat306028&amp;mnid=sale_mensapparel_sweatshirts">Sweatshirts</a></li>
 													
-													<li><a class="sub" href="/store/shop/sale/womens-sale/_/N-33ifd?categoryId=cat301721&amp;mnid=sale_women">All Women</a></li>
+													<li><a class="sub" href="/store/shop/new-sale/mens-apparel/jackets/_/N-33k4p?categoryId=cat306026&amp;mnid=sale_mensapparel_jackets">Jackets &amp; Vests</a></li>
+													
+													<li><a class="sub" href="/store/shop/new-sale/mens-apparel/shorts/_/N-33k4u?categoryId=cat306036&amp;mnid=sale_mensapparel_shorts">Shorts</a></li>
+													
+													<li><a class="sub" href="/store/shop/new-sale/mens-apparel/pants/_/N-33k4t?categoryId=cat306034&amp;mnid=sale_mensapparel_pants">Pants</a></li>
+													
+													<li><a class="sub" href="/store/shop/fan-gear/_/N-33ixdZ33iut?categoryId=cat306038&amp;mnid=sale_mensapparel_fangear">Fan Gear</a></li>
+													
+													<li><a class="sub" href="/store/shop/new-sale/mens-apparel/socks/_/N-33k4w?categoryId=cat306040&amp;mnid=sale_mensapparel_socks">Socks</a></li>
+													
+													<li><a class="sub" href="/store/shop/new-sale/mens-apparel/accessories/_/N-33k4x?categoryId=cat306042&amp;mnid=sale_mensapparel_accessories">Accessories</a></li>
+													
+													<li><a class="sub" href="/store/shop/new-sale/mens-apparel/_/N-33k4o?categoryId=cat306024&amp;mnid=sale_mensapparel">All Men's Apparel</a></li>
 								</ul>
 								</li>
 							<li class="column">
 							<ul>
-								<li class="subheader "><a href="/store/shop/sale/boys-sale/_/N-33ifh?categoryId=cat301723&amp;mnid=sale_boys">Boys</a></li>
-										<li><a class="sub" href="/store/shop/sale/boys-sale/boys-shoes-on-sale/_/N-33ifi?categoryId=cat301741&amp;mnid=sale_boys_shoes">Shoes</a></li>
+								<li class="subheader "><a href="/store/shop/new-sale/womens-shoes/_/N-33k4z?categoryId=cat306046&amp;mnid=sale_womensshoes">Women's Shoes</a></li>
+										<li><a class="sub" href="/store/shop/new-sale/womens-shoes/running/_/N-33k50?categoryId=cat306048&amp;mnid=sale_womensshoes_running">Running</a></li>
 													
-													<li><a class="sub" href="/store/shop/sale/boys-sale/boys-apparel-on-sale/_/N-33ifj?categoryId=cat301743&amp;mnid=sale_boys_apparel">Apparel</a></li>
+													<li><a class="sub" href="/store/shop/new-sale/womens-shoes/casual/_/N-33k52?categoryId=cat306052&amp;mnid=sale_womensshoes_casual">Casual</a></li>
 													
-													<li><a class="sub" href="/store/shop/sale/boys-sale/boys-accessories-on-sale/_/N-33ifk?categoryId=cat301745&amp;mnid=sale_boys_accessories">Accessories</a></li>
+													<li><a class="sub" href="/store/shop/new-sale/womens-shoes/training/_/N-33k51?categoryId=cat306050&amp;mnid=sale_womensshoes_training">Training</a></li>
 													
-													<li><a class="sub" href="/store/shop/sale/boys-sale/_/N-33ifh?categoryId=cat301723&amp;mnid=sale_boys">All Boys</a></li>
+													<li><a class="sub" href="/store/shop/new-sale/womens-shoes/sandals/_/N-33k53?categoryId=cat306054&amp;mnid=sale_womensshoes_sandals">Sandals</a></li>
+													
+													<li><a class="sub" href="/store/shop/new-sale/womens-shoes/_/N-33k4z?categoryId=cat306046&amp;mnid=sale_womensshoes">All Women's Shoes</a></li>
 								</ul>
 								</li>
 							<li class="column">
 							<ul>
-								<li class="subheader "><a href="/store/shop/sale/girls-sale/_/N-33ifl?categoryId=cat301725&amp;mnid=sale_girls">Girls</a></li>
-										<li><a class="sub" href="/store/shop/sale/girls-sale/girls-shoes-on-sale/_/N-33ifm?categoryId=cat301747&amp;mnid=sale_girls_shoes">Shoes</a></li>
+								<li class="subheader "><a href="/store/shop/new-sale/womens-apparel/_/N-33k55?categoryId=cat306058&amp;mnid=sale_womensapparel">Women's Apparel</a></li>
+										<li><a class="sub" href="/store/shop/new-sale/womens-apparel/tops/_/N-33k58?categoryId=cat306064&amp;mnid=sale_womensapparel_tops">Tops</a></li>
 													
-													<li><a class="sub" href="/store/shop/sale/girls-sale/girls-apparel-on-sale/_/N-33ifn?categoryId=cat301749&amp;mnid=sale_girls_apparel">Apparel</a></li>
+													<li><a class="sub" href="/store/shop/new-sale/womens-apparel/sweatshirts/_/N-33k57?categoryId=cat306062&amp;mnid=sale_womensapparel_sweatshirts">Sweatshirts</a></li>
 													
-													<li><a class="sub" href="/store/shop/sale/girls-sale/girls-accessores-on-sale/_/N-33ifo?categoryId=cat301751&amp;mnid=sale_girls_accessories">Accessories</a></li>
+													<li><a class="sub" href="/store/shop/new-sale/womens-apparel/jackets/_/N-33k56?categoryId=cat306060&amp;mnid=sale_womensapparel_jackets_vests">Jackets &amp; Vests</a></li>
 													
-													<li><a class="sub" href="/store/shop/sale/girls-sale/_/N-33ifl?categoryId=cat301725&amp;mnid=sale_girls">All Girls</a></li>
+													<li><a class="sub" href="/store/shop/new-sale/womens-apparel/shorts/_/N-33k5a?categoryId=cat306068&amp;mnid=sale_womensapparel_shorts">Shorts</a></li>
+													
+													<li><a class="sub" href="/store/shop/new-sale/womens-apparel/leggings/_/N-33ie0Z33ite?categoryId=cat306070&amp;mnid=sale_womensapparel_leggings">Leggings</a></li>
+													
+													<li><a class="sub" href="/store/shop/new-sale/womens-apparel/pants/_/N-33k59?categoryId=cat306066&amp;mnid=sale_womensapparel_pants">Pants</a></li>
+													
+													<li><a class="sub" href="/store/shop/fan-gear/_/N-33ixdZ33iuu?categoryId=cat306072&amp;mnid=sale_womensapparel_fangear">Fan Gear</a></li>
+													
+													<li><a class="sub" href="/store/shop/new-sale/womens-apparel/socks/_/N-33k5d?categoryId=cat306074&amp;mnid=sale_womensapparel_socks">Socks</a></li>
+													
+													<li><a class="sub" href="/store/shop/new-sale/womens-apparel/accessories/_/N-33k5e?categoryId=cat306076&amp;mnid=sale_womensapparel_accessories">Accessories</a></li>
+													
+													<li><a class="sub" href="/store/shop/new-sale/womens-apparel/_/N-33k55?categoryId=cat306058&amp;mnid=sale_womensapparel">All Women's Apparel</a></li>
+								</ul>
+								</li>
+							<li class="column">
+							<ul>
+								<li class="subheader "><a href="/store/shop/new-sale/boys/_/N-33k5g?categoryId=cat306080&amp;mnid=sale_boys">Boys</a></li>
+										<li><a class="sub" href="/store/shop/new-sale/boys/shoes-3-5-7/_/N-33k5h?categoryId=cat306082&amp;mnid=sale_boys_shoes357">Shoes 3.5-7</a></li>
+													
+													<li><a class="sub" href="/store/shop/new-sale/boys/shoes-10-5-3/_/N-33k5i?categoryId=cat306084&amp;mnid=sale_boys_shoes1053">Shoes 10.5-3</a></li>
+													
+													<li><a class="sub" href="/store/shop/new-sale/boys/shoes-2-12/_/N-33k5j?categoryId=cat306086&amp;mnid=sale_boys_shoes212">Shoes 2-12</a></li>
+													
+													<li><a class="sub" href="/store/shop/new-sale/boys/infant-shoes/_/N-33k5k?categoryId=cat306088&amp;mnid=sale_boys_infantshoes">Infant Shoes</a></li>
+													
+													<li><a class="sub" href="/store/shop/new-sale/boys/apparel/_/N-33k5l?categoryId=cat306090&amp;mnid=sale_boys_apparel">Apparel</a></li>
+													
+													<li><a class="sub" href="/store/shop/new-sale/boys/accessories/_/N-33k5m?categoryId=cat306092&amp;mnid=sale_boys_accessories">Accessories</a></li>
+													
+													<li><a class="sub" href="/store/shop/fan-gear/_/N-33ixdZ33iuv?categoryId=cat306094&amp;mnid=sale_boys_fangear">Fan Gear</a></li>
+													
+													<li><a class="sub" href="/store/shop/new-sale/boys/_/N-33k5g?categoryId=cat306080&amp;mnid=sale_boys">All Boys</a></li>
+								</ul>
+								</li>
+							<li class="column">
+							<ul>
+								<li class="subheader "><a href="/store/shop/new-sale/girls/_/N-33k5p?categoryId=cat306098&amp;mnid=sale_girls">Girls</a></li>
+										<li><a class="sub" href="/store/shop/new-sale/girls/shoes-3-5-7/_/N-33k5r?categoryId=cat306102&amp;mnid=sale_girls_shoes357">Shoes 3.5-7</a></li>
+													
+													<li><a class="sub" href="/store/shop/new-sale/girls/shoes-10-5-3/_/N-33k5s?categoryId=cat306104&amp;mnid=sale_girls_shoes1053">Shoes 10.5-3</a></li>
+													
+													<li><a class="sub" href="/store/shop/new-sale/girls/shoes-2-12/_/N-33k5t?categoryId=cat306106&amp;mnid=sale_girls_shoes212">Shoes 2-12</a></li>
+													
+													<li><a class="sub" href="/store/shop/new-sale/girls/infant-shoes/_/N-33k5u?categoryId=cat306108&amp;mnid=sale_girls_infantshoes">Infant Shoes</a></li>
+													
+													<li><a class="sub" href="/store/shop/new-sale/girls/apparel/_/N-33k5v?categoryId=cat306110&amp;mnid=sale_girls_apparel">Apparel</a></li>
+													
+													<li><a class="sub" href="/store/shop/new-sale/girls/accessories/_/N-33k5w?categoryId=cat306112&amp;mnid=sale_girls_accessories">Accessories</a></li>
+													
+													<li><a class="sub" href="/store/shop/fan-gear/_/N-33ixdZ33iuw?categoryId=cat306114&amp;mnid=sale_girls_fangear">Fan Gear</a></li>
+													
+													<li><a class="sub" href="/store/shop/new-sale/girls/_/N-33k5p?categoryId=cat306098&amp;mnid=sale_girls">All Girls</a></li>
 								</ul>
 								</li>
 							<div class="clear"></div>
@@ -756,15 +973,9 @@
 	<div class="subNavTop"></div>
 	<div class="submenuWrapper fanGear">
 	<li class="feature ">
-					<a href="/store/shop/fan-gear/college/_/N-33ixe?categoryId=cat301843&amp;mnid=fangear_college">
-							<img class="off-image" src="/media/images/teams/fan-gear/league_college_OFF.jpg">
-							<img class="on-image" src="/media/images/teams/fan-gear/league_college_ON.jpg">
-						</a>
-					</li>
-				<li class="feature ">
-					<a href="/store/shop/fan-gear/nfl/_/N-33j8q?categoryId=cat301849&amp;mnid=fangear_nfl">
-							<img class="off-image" src="/media/images/teams/fan-gear/league_0003_nfl_OFF.jpg">
-							<img class="on-image" src="/media/images/teams/fan-gear/league_0003_nfl_ON.jpg">
+					<a href="/store/shop/fan-gear/nba/_/N-33j7v?categoryId=cat301847&amp;mnid=fangear_nba">
+							<img class="off-image" src="/media/images/teams/fan-gear/league_0001_nba_OFF.jpg">
+							<img class="on-image" src="/media/images/teams/fan-gear/league_0001_nba_ON.jpg">
 						</a>
 					</li>
 				<li class="feature ">
@@ -774,15 +985,27 @@
 						</a>
 					</li>
 				<li class="feature ">
-					<a href="/store/shop/fan-gear/nba/_/N-33j7v?categoryId=cat301847&amp;mnid=fangear_nba">
-							<img class="off-image" src="/media/images/teams/fan-gear/league_0001_nba_OFF.jpg">
-							<img class="on-image" src="/media/images/teams/fan-gear/league_0001_nba_ON.jpg">
+					<a href="/store/shop/fan-gear/mls/_/N-33ko1?categoryId=cat305461&amp;mnid=fangear_mls">
+							<img class="off-image" src="/media/images/teams/fan-gear/league_mls_OFF.png">
+							<img class="on-image" src="/media/images/teams/fan-gear/league_mls_ON.png">
 						</a>
 					</li>
-				<li class="feature lastColumn">
+				<li class="feature ">
 					<a href="/store/shop/fan-gear/nhl/_/N-33jai?categoryId=cat301851&amp;mnid=fangear_nhl">
 							<img class="off-image" src="/media/images/teams/fan-gear/league_0002_nhl_OFF.jpg">
 							<img class="on-image" src="/media/images/teams/fan-gear/league_0002_nhl_ON.jpg">
+						</a>
+					</li>
+				<li class="feature ">
+					<a href="/store/shop/fan-gear/college/_/N-33ixe?categoryId=cat301843&amp;mnid=fangear_college">
+							<img class="off-image" src="/media/images/teams/fan-gear/league_college_OFF.jpg">
+							<img class="on-image" src="/media/images/teams/fan-gear/league_college_ON.jpg">
+						</a>
+					</li>
+				<li class="feature lastColumn">
+					<a href="/store/shop/fan-gear/nfl/_/N-33j8q?categoryId=cat301849&amp;mnid=fangear_nfl">
+							<img class="off-image" src="/media/images/teams/fan-gear/league_0003_nfl_OFF.jpg">
+							<img class="on-image" src="/media/images/teams/fan-gear/league_0003_nfl_ON.jpg">
 						</a>
 					</li>
 				<div class="clearfix"></div>
@@ -804,10 +1027,16 @@
 							<img class="on-image" src="/media/images/brands/brand_nike_ON.jpg" alt="Nike">
 						</a>
 					</li>
-				<li class="brands Jordan">
-						<a href="/store/shop/jordan/_/N-1z140mf?categoryId=cat301811&amp;mnid=brands_jordan">
-							<img class="off-image" src="/media/images/brands/brand_jordan_OFF.jpg" alt="Jordan">
-							<img class="on-image" src="/media/images/brands/brand_jordan_ON.jpg" alt="Jordan">
+				<li class="brands Nike Track Club">
+						<a href="/niketrackclub">
+							<img class="off-image" src="/media/images/brands/brand_NTC_OFF.jpg" alt="Nike Track Club">
+							<img class="on-image" src="/media/images/brands/brand_NTC_ON.jpg" alt="Nike Track Club">
+						</a>
+					</li>
+				<li class="brands Jordan ">
+						<a href="/jordan">
+							<img class="off-image" src="/media/images/brands/brand_jordan_OFF.jpg" alt="Jordan ">
+							<img class="on-image" src="/media/images/brands/brand_jordan_ON.jpg" alt="Jordan ">
 						</a>
 					</li>
 				<li class="brands adidas">
@@ -846,6 +1075,12 @@
 							<img class="on-image" src="/media/images/brands/brand_puma_ON.jpg" alt="Puma">
 						</a>
 					</li>
+				<li class="brands Timberland">
+						<a href="/store/shop/timberland/_/N-1z141yi?categoryId=cat304041&amp;mnid=brands_timberland">
+							<img class="off-image" src="/media/images/brands/brand_timberland_OFF.jpg" alt="Timberland">
+							<img class="on-image" src="/media/images/brands/brand_timberland_ON.jpg" alt="Timberland">
+						</a>
+					</li>
 				<li class="brands Asics">
 						<a href="/store/shop/asics/_/N-1z141vu?categoryId=cat304027&amp;mnid=brands_asics">
 							<img class="off-image" src="/media/images/brands/brand_asics_OFF.jpg" alt="Asics">
@@ -876,22 +1111,10 @@
 							<img class="on-image" src="/media/images/brands/brand_mizuno_ON.jpg" alt="Mizuno">
 						</a>
 					</li>
-				<li class="brands Lacoste">
-						<a href="/store/shop/lacoste/_/N-1z141wm?categoryId=cat304037&amp;mnid=brands_lacoste">
-							<img class="off-image" src="/media/images/brands/brand_lacoste_OFF.jpg" alt="Lacoste">
-							<img class="on-image" src="/media/images/brands/brand_lacoste_ON.jpg" alt="Lacoste">
-						</a>
-					</li>
 				<li class="brands The North Face">
 						<a href="/store/shop/the-north-face-inc/_/N-1z141vr?categoryId=cat304029&amp;mnid=brands_northface">
 							<img class="off-image" src="/media/images/brands/brand_thenorthface_OFF.jpg" alt="The North Face">
 							<img class="on-image" src="/media/images/brands/brand_thenorthface_ON.jpg" alt="The North Face">
-						</a>
-					</li>
-				<li class="brands Oakley">
-						<a href="/store/results/index.jsp?N=4294967232&amp;categoryId=cat304031&amp;mnid=brands_oakley">
-							<img class="off-image" src="/media/images/brands/logos-BrandNav-Oakley_OFF.png" alt="Oakley">
-							<img class="on-image" src="/media/images/brands/logos-BrandNav-Oakley_ON.png" alt="Oakley">
 						</a>
 					</li>
 				<li class="brands subnavViewAll">
@@ -923,32 +1146,7 @@
 	<!-- DisplaySpecialSkin:  -->
 	<!-- SpecialSkinName:  -->
 
-	<!-- #globalPromo -->
-                                <div id="Site_Hero"><div id="globalPromoWrapper" class=" defaultExpanded">
-			<div id="globalPromoSpacer">
-				<div id="globalPromo" class="closed">
-					<div id="globalContent">
-						<div id="globalExpandCollapse" class="btn btn-mini btn-flat btn-caret-down expand">&nbsp;</div>	
-						<div id="globalHeader"><img alt="" src="/media/globalpromo/backtoschoolcarousel/images/global-collapsed.jpg"></div>
-						<div id="globalBody"><div class="owl-carousel owl-theme" id="btsCarousel">
-<div class="item"><img src="/media/globalpromo/backtoschoolcarousel/images/bts-hp-promo-expanded-1.jpg" usemap="#pgSlide1"></div>
-
-<div class="item"><img src="/media/globalpromo/backtoschoolcarousel/images/bts-hp-promo-expanded-2.jpg" usemap="#pgSlide2"></div>
-
-<div class="item"><img src="/media/globalpromo/backtoschoolcarousel/images/bts-hp-promo-expanded-3.jpg" usemap="#pgSlide3"></div>
-
-<div class="item"><img src="/media/globalpromo/backtoschoolcarousel/images/bts-hp-promo-expanded-4.jpg" usemap="#pgSlide4"></div>
-</div>
-<map name="pgSlide1"><area alt="Get Inspired" coords="520,220,645,260" href="http://blog.finishline.com/2014/07/28/therealtblakes-back-to-school-sneaker-picks?icid=global-promo+august-bts-14+08-22-14+blake" shape="rect" title="Get Inspired"> <area alt="Shop Our Favs" coords="660,220,798,260" href="/store/shop/promos/2015-back-to-school/_/N-33jrc?categoryId=cat303368&amp;icid=global-promo+august-bts-14+08-22-14+shop-now" shape="rect" title="Shop Our Favs"></map><map name="pgSlide2"><area alt="Get Inspired" coords="600,200,724,242" href="http://blog.finishline.com/2014/07/26/streetstylechis-back-to-school-sneaker-picks?icid=global-promo+august-bts-14+08-22-14+streetstyle" shape="rect" title="Get Inspired"> <area alt="Shop Our Favs" coords="737,200,878,242" href="/store/shop/promos/2015-back-to-school/_/N-33jrc?categoryId=cat303368&amp;icid=global-promo+august-bts-14+08-22-14+shop-now" shape="rect" title="Shop Our Favs"></map><map name="pgSlide3"><area alt="Get Inspired" coords="112,200,238,242" href="http://blog.finishline.com/2014/07/22/atothebeds-5-back-to-school-sneaker-picks?icid=global-promo+august-bts-14+08-22-14+anna" shape="rect" title="Get Inspired"> <area alt="Shop Our Favs" coords="252,200,390,242" href="/store/shop/promos/2015-back-to-school/_/N-33jrc?categoryId=cat303368&amp;icid=global-promo+august-bts-14+08-22-14+shop-now" shape="rect" title="Shop Our Favs"></map><map name="pgSlide4"><area alt="Get Inspired" coords="110,200,237,242" href="http://blog.finishline.com/2014/08/01/sevyn-lord-tells-us-what-the-best-kids-back-to-school-sneakers-are?icid=global-promo+august-bts-14+08-22-14+sevyn" shape="rect" title="Get Inspired"> <area alt="Shop Our Favs" coords="250,200,390,242" href="/store/shop/promos/2015-back-to-school/_/N-33jrc?categoryId=cat303368&amp;icid=global-promo+august-bts-14+08-22-14+shop-now" shape="rect" title="Shop Our Favs"></map></div>
-					</div>
-				</div>
-			</div>
-		</div>
-
-	</div>
-                                <!-- /#globalPromo -->
-
-                                <!-- #search -->
+	<!-- #search -->
                                 <div id="search" class="">
     </div>
  <!-- below code is used to display employee banner for employee order -->
@@ -956,8 +1154,25 @@
                                       </div>
                                 <!-- /#search -->
 
-                                <div id="mainWrapper" class="">
-                                    <div id="main" class="container">
+                                <!-- #globalPromo -->
+                                <div id="Site_Hero"><div id="globalPromoWrapper" class=" gpHiddenWrapper" data-type="">
+				<div id="globalPromoSpacer">
+					<div id="globalPromoHidden" class="closed">
+						<div id="globalContent">
+							<div id="globalExpandCollapse" class="btn btn-mini btn-flat btn-caret-down expand">&nbsp;</div>
+							<div id="globalHeader"><div id="globalCollapseImage"></div></div>
+							<div id="globalBody"><div id="globalBodyContent"></div></div>
+						</div>
+					</div>
+				</div>
+			</div>
+
+		</div>
+                                <!-- /#globalPromo -->
+                                <div class="mainWrapperThird ">											
+                                           	</div>
+										<div id="mainWrapper" class="">
+                                	<div id="main" class="container">
                                         <div>
 
                                             <div id="col1" class="aside column">
@@ -1161,17 +1376,20 @@ We may share your information with third parties in the following circumstances:
         									</div><!-- /#col3 -->
 
 										</div>
-								    </div><!-- /.main -->
+								    </div>
+								    <!-- /.main -->
 								</div><!-- /#mainWrapper -->
 
 
 
                                 <div id="footer">
-                                            <div class="email-signup">
+                                            <!-- KnowledgePath ORIGINAL Footer -->
+
+<div class="email-signup">
 	    	<div class="contentWrapper">
 				<div class="signupwrap" id="demographicfooterForm">
 						<fieldset>
-							<label class="emailSignupEmail" for="emailSignupEmail">Sign up for sweet deals and high fives</label>
+							<label class="emailSignupEmail" for="emailSignupEmail">Sneaker drops, sweet deals, and more in your inbox. Sign up now.</label>
 							<div class="signupbox">
 								<input class="signup-input" type="text" name="dealsEmail" id="signupEmail" maxlength="50" placeholder="Email" value="Email">
 								<button value="" title="submit" class="signupbtn" type="submit" id="EmailsButton"></button>
@@ -1181,155 +1399,94 @@ We may share your information with third parties in the following circumstances:
 				</div>
 			</div>	
 		</div>
-       		<div class="footerbottom">
-			<div class="multicol">
-				<div class="footercol">
-					<a href="/store/storelocator/storelocator.jsp"></a>
-					<h3>
-						<a href="/store/storelocator/storelocator.jsp">Store Locator</a>
-					</h3><a href="/store/storelocator/storelocator.jsp"></a>
-					<div class="footer-icon-wrap">
-						<a href="/store/storelocator/storelocator.jsp"></a>
-						<div class="miscicon storefind"></div>
-						<div class="desc">
-							<a href="/store/storelocator/storelocator.jsp"></a>
-							<p>
-								Find a Finish Line store near you
-							</p>
-						</div>
-					</div>
-					<div class="brdrwrap"></div>
-				</div>
-				<div class="footercol">
-					<a href="/store/my_account/wc_main.jsp"></a>
-					<h3>
-						<a href="/store/my_account/wc_main.jsp">Be Rewarded</a>
-					</h3><a href="/store/my_account/wc_main.jsp"></a>
-					<div class="footer-icon-wrap">
-						<a href="/store/my_account/wc_main.jsp"></a>
-						<div class="miscicon reward"></div>
-						<div class="desc">
-							<a href="/store/my_account/wc_main.jsp"></a>
-							<p>
-								Learn more about all the perks we want to give you
-							</p>
-						</div>
-					</div>
-					<div class="brdrwrap"></div>
-				</div>
-				<div class="clear"></div>
-				<div class="secRow footercol">
-					<h3>
-						Connect with us
-					</h3>
-					<ul class="socialicons">
-						<li>
-							<a href="https://www.facebook.com/finishline" class="fb">facebook</a>
-						</li>
-						<li>
-							<a href="https://twitter.com/finishline" class="twt">twitter</a>
-						</li>
-						<li>
-							<a href="http://pinterest.com/finishlineusa/" class="pin">pinintrest</a>
-						</li>
-						<li>
-							<a href="https://plus.google.com/+finishline/" class="gplus">gplus</a>
-						</li>
-						<li>
-							<a href="http://blog.finishline.com" class="fblog">finishlineblog</a>
-						</li>
-					</ul>
-				</div>
-				<div class="secRow footercol">
-					<a href="/giftcards"></a>
-					<h3>
-						<a href="/giftcards">Gift cards</a>
-					</h3><a href="/giftcards"></a>
-					<div class="footer-icon-wrap">
-						<a href="/giftcards"></a>
-						<div class="miscicon giftcard"></div>
-						<div class="desc giftcard">
-							<a href="/giftcards">
-							<p>
-								Buy Gift Cards
-							</p></a><a href="/giftcards">
-							<p>
-								Check Your Balance
-							</p></a>
-						</div>
+       <div class="footerbottom">
+	<div class="multicol">
+		<div class="footercol">
+			<a href="/store/storelocator/storelocator.jsp"></a>
+			<h3><a href="/store/storelocator/storelocator.jsp">STORE LOCATOR</a></h3>
+			<a href="/store/storelocator/storelocator.jsp">
+				<div class="footer-icon-wrap">
+					<div class="miscicon storefind"></div>
+					<div class="desc">
+						<p>Find a Finish Line store near you.</p>
 					</div>
 				</div>
-				<div class="clear"></div>
-			</div>
-			<div class="multicol45w">
-				<div class="footercol">
-					<a href="/store/customer_service/contact_us.jsp"></a>
-					<h3>
-						<a href="/store/customer_service/contact_us.jsp">Customer Care</a>
-					</h3><a href="/store/customer_service/contact_us.jsp"></a>
-					<ul>
-						<li>
-							<a href="/store/customer_service/faq_topic.jsp?categoryId=1600002&amp;topicId=1600008">Track Your Order</a>
-						</li>
-						<li>
-							<a href="/store/customer_service/contact_us.jsp">FAQs</a>
-						</li>
-						<li>
-							<a href="/store/customer_service/faq_topic.jsp?categoryId=1600002&amp;topicId=1600006">Shipping Rates &amp; Policies</a>
-						</li>
-						<li>
-							<a href="/store/customer_service/faq_topic.jsp?categoryId=1600004&amp;topicId=1600012">Return Policy</a>
-						</li>
-						<li>
-							<a href="/store/customer_service/faq_topic.jsp?categoryId=1600004&amp;topicId=1600010">Cancel an Order</a>
-						</li>
-						<li>
-							<a href="/store/customer_service/contact_us.jsp">Contact Us</a>
-						</li>
-						<li>1.888.777.3949
-						</li>
-					</ul>
+				<div class="brdrwrap"></div>
+			</a>
+		</div>
+		<div class="footercol">
+			<h3><a href="/store/my_account/wc_main.jsp">BE REWARDED</a></h3>
+			<a href="/store/my_account/wc_main.jsp">
+				<div class="footer-icon-wrap">
+					<div class="miscicon reward"></div>
+					<div class="desc">
+						<p>Score Kicks.</p>
+						<p>Score Points.</p>
+						<p>Get Rewards.</p>
+					</div>
 				</div>
-				<div class="footercol lastcol">
-					<a href="/store/corporate_info/ourcompany.jsp"></a>
-					<h3>
-						<a href="/store/corporate_info/ourcompany.jsp">Get to know us</a>
-					</h3><a href="/store/corporate_info/ourcompany.jsp"></a>
-					<ul>
-						<li>
-							<a href="/store/corporate_info/ourcompany.jsp">Our Company</a>
-						</li>
-						<li>
-							<a href="/store/youthfoundation/youthfoundation.jsp">Youth Foundation</a>
-						</li>
-						<li>
-							<a href="/store/corporate_info/employment.jsp">Careers</a>
-						</li>
-						<li>
-							<a href="http://phx.corporate-ir.net/phoenix.zhtml?c=81647&amp;amp;p=irol-irhome">Investor Relations</a>
-						</li>
-						<li>
-							<a href="http://cli.linksynergy.com/cli/publisher/programs/advertiser_detail.php?oid=265726&amp;amp;mid=37731&amp;amp;offerNid=1&amp;amp;controls=1:1:0:1:1:0">Affiliate Program</a>
-						</li>
-						<li>
-							<a href="/store/customer_service/privacy_policy.jsp">Privacy Policy</a>
-						</li>
-						<li>
-							<a href="/store/customer_service/faq_topic.jsp?categoryId=1600010&amp;topicId=1600014">Security</a>
-						</li>
-						<li>
-							<a href="/store/corporate_info/terms.jsp">Terms of Use</a>
-						</li>
-						<li>
-							<a href="/store/global/site_map.jsp">Site Map</a>
-						</li>
-					</ul>
+				<div class="brdrwrap"></div>
+			</a>
+		</div>
+		<div class="clear"></div>
+		<div class="secRow footercol">
+			<h3>Connect with us</h3>
+			<ul class="socialicons">
+				<li><a href="https://www.facebook.com/finishline" class="fb" target="blank">facebook</a></li>
+				<li><a href="https://twitter.com/finishline" class="twt" target"blank"="">twitter</a></li>
+				<li><a href="http://pinterest.com/finishlineusa/" class="pin" target="blank">pinintrest</a></li>
+				<li><a href="https://plus.google.com/+finishline/" class="gplus" target="blank">gplus</a></li>
+				<li><a href="http://blog.finishline.com" class="fblog" target="blank">finishlineblog</a></li>
+			</ul>
+		</div>
+		<div class="secRow footercol">
+			<h3><a href="/giftcards">GIFT CARDS</a></h3>
+			<a href="/giftcards">
+				<div class="footer-icon-wrap">
+					<div class="miscicon giftcard"></div>
+					<div class="desc giftcard">
+						<p>Buy Gift Cards</p>
+						<p>Check Your Balance</p>
+					</div>
 				</div>
-				<div class="clear clearfix"></div>
-			</div>
-			<div class="clear clearfix"></div>
-		</div><div class="footer-copyright">
-  		<p>© 2014 The Finish Line, Inc.</p>
+			</a>
+		</div>
+		<div class="clear"></div>
+	</div>
+	<div class="multicol45w">
+		<div class="footercol">
+			<a href="/store/customer_service/contact_us.jsp"></a>
+			<h3><a href="/store/customer_service/contact_us.jsp">CUSTOMER CARE</a></h3>
+			<ul>
+				<li><a href="/store/customer_service/faq_topic.jsp?faqcategoryId=1600002&amp;topicId=1600008">Track Your Order</a></li>
+				<li><a href="/store/customer_service/contact_us.jsp">FAQs</a></li>
+				<li><a href="/store/customer_service/faq_topic.jsp?faqcategoryId=1600002&amp;topicId=1600006">Shipping Rates &amp; Policies</a></li>
+				<li><a href="/store/customer_service/faq_topic.jsp?faqcategoryId=1600004&amp;topicId=1600012">Return Policy</a></li>
+				<li><a href="/store/customer_service/faq_topic.jsp?faqcategoryId=1600004&amp;topicId=1600010">Cancel an Order</a></li>
+				<li><a href="/store/customer_service/contact_us.jsp">Contact Us</a></li>
+				<li>1.888.777.3949</li>
+			</ul>
+		</div>
+		<div class="footercol lastcol">
+			<a href="/store/corporate_info/ourcompany.jsp"></a>
+			<h3><a href="/store/corporate_info/ourcompany.jsp">GET TO KNOW US</a></h3>
+			<ul>
+				<li><a href="/store/corporate_info/ourcompany.jsp">Our Company</a></li>
+				<li><a href="/store/youthfoundation/youthfoundation.jsp">Youth Foundation</a></li>
+				<li><a href="/store/corporate_info/employment.jsp">Careers</a></li>
+				<li><a href="http://corporate.finishline.com">Investor Relations</a></li>
+				<li><a href="/affiliate-program">Affiliate Program</a></li>
+				<li><a href="/store/customer_service/privacy_policy.jsp">Privacy Policy</a></li>
+				<li><a href="/store/customer_service/faq_topic.jsp?faqcategoryId=1600010&amp;topicId=1600014">Security</a></li>
+				<li><a href="/store/corporate_info/terms.jsp">Terms of Use</a></li>
+				<li><a href="/store/global/site_map.jsp">Site Map</a></li>
+			</ul>
+		</div>
+		<div class="clear clearfix"></div>
+	</div>
+	<div class="clear clearfix"></div>
+</div><div class="footer-copyright">
+  		<p>© 2015 The Finish Line, Inc.</p>
   	</div>
 </div><!-- /#footer -->
                                     <!-- 
@@ -1341,8 +1498,8 @@ We may share your information with third parties in the following circumstances:
         </div>/.wall-tile-1 -->
 
         <!-- 
-<link rel="stylesheet" type="text/css" href="/store/global/css/popup-style.css;jsessionid=51224A5200282018DA7C0B21CE4228F3.FLP10405" />
-<link rel="stylesheet" type="text/css" href="/store/global/css/subModal.css;jsessionid=51224A5200282018DA7C0B21CE4228F3.FLP10405" />
+<link rel="stylesheet" type="text/css" href="/store/global/css/popup-style.css" />
+<link rel="stylesheet" type="text/css" href="/store/global/css/subModal.css" />
 -->
 
 <div id="popupMask" onclick="maskClicked();">&nbsp;</div>
@@ -1356,7 +1513,7 @@ We may share your information with third parties in the following circumstances:
 	</div>
 </div>
 <!-- omega -->
-	<script src="/store/assets/scripts/min/ef9ebb1a66a388bf62b3231e1ded5833.omega.min.js"></script>
+	<script src="/store/assets/scripts/min/fbaa4dd7b076dab14c127b0a9ce9e7fb.omega.min.js"></script>
 				<!-- dynamic cart info -->
 		<script>
 			FL.DynamicCart.pageLoadInfo = {
@@ -1365,7 +1522,8 @@ We may share your information with third parties in the following circumstances:
     "totalQuantity": "",
     "subtotal": "$0.00"
   },
-  "closenessQualifier": "You can earn 0 Winners Circle points with this order! Select Winners Circle on Checkout."
+  "closenessQualifier": "You can earn 0 Winners Circle points with this order! Select Winners Circle on Checkout.",
+  "promotion": ""
 };
 		</script>
 		<!-- doAnalytics: true -->
@@ -1391,11 +1549,10 @@ We may share your information with third parties in the following circumstances:
 			, top2: '100000'
 			, top1: '100000'
 			, appid: 'finishline01'
-			, customerid: '-1921189434'
 			
 		});
 
-		var resx = {};
+		var resx = resx || {};
 
 		jQuery.each(FL.recommendations.postVars, function(key, value) {
 			//console.info("key; // " + key);
@@ -1407,8 +1564,10 @@ We may share your information with third parties in the following circumstances:
 
 	<!-- Resonance code resxclsa.js v3.x Copyright 2004-2011 Certona Corporation www.certona.com -->
 	<script type="text/javascript" src="/store/assets/scripts/certona/resxclsa.js"></script>
-
-<!-- omniture_tagger -->
+	<script>
+		certonaResx.run();
+	</script>
+	<!-- omniture_tagger -->
 				<!-- SiteCatalyst code version: H.15.1.
 			Copyright 1997-2008 Omniture, Inc. More info available at
 			http://www.omniture.com -->
@@ -1421,44 +1580,49 @@ We may share your information with third parties in the following circumstances:
 
 			/* You may give each page an identifying name, server, and channel on
 			the next lines. */
-			s.pageName="FAQ: Privacy Policy"
-			s.server="www.finishline.com"
-			s.channel="Customer Service"
-			s.pageType=""
-			s.prop1="FAQ: Privacy Policy"
-			s.prop2="FAQ: Privacy Policy"
-			s.prop3="Content Page"
-			s.prop4=""
-			s.prop5=""
-			s.prop13=""
+			s.pageName="FAQ: Privacy Policy";
+			s.server="www.finishline.com";
+			s.channel="Customer Service";
+			s.pageType="";
+			s.prop1="FAQ: Privacy Policy";
+			s.prop2="FAQ: Privacy Policy";
+			s.prop3="Content Page";
+			s.prop4="";
+			s.prop5="";
+			s.prop13="";
+			s.prop27="";
+			s.prop28="";
 			/* Conversion Variables */
-			s.campaign=""
-			s.state=""
-			s.zip=""
-			s.events=""
-			s.products=""
-			s.purchaseID=""
-			s.transactionID=""
-			s.eVar1=""
-			s.eVar2=""
-			s.eVar3=""
-			s.eVar4=""
-			s.eVar5=""
-			s.eVar6=""
-			s.eVar18=""
-			s.eVar24=""
-			s.eVar25=""
-			s.eVar26=""
-			s.eVar28=""
-			s.eVar29=""
-			s.eVar30=""
-			s.eVar31=""
-			s.eVar32=""
-			s.eVar36=""
-			s.eVar47=""
+			s.campaign="";
+			s.state="";
+			s.zip="";
+			s.events="";
+			s.products="";
+			s.purchaseID="";
+			s.transactionID="";
+			s.eVar1="";
+			s.eVar2="";
+			s.eVar3="";
+			s.eVar4="";
+			s.eVar5="";
+			s.eVar6="";
+			s.eVar18="";
+			s.eVar24="";
+			s.eVar25="";
+			s.eVar26="";
+			s.eVar28="";
+			s.eVar29="";
+			s.eVar30="";
+			s.eVar31="";
+			s.eVar32="";
+			s.eVar36="";
+			s.eVar47="";
 
 			/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
 			
+			(function(){ window.dtm_layer = {}; for(key in s) {dtm_layer[key] = s[key];} })();
+			_satellite.pageBottom();
+
 			var s_code=s.t();if(s_code)document.write(s_code);
 			</script>
 			<script language="JavaScript" type="text/javascript"><!--
@@ -1474,8 +1638,48 @@ We may share your information with third parties in the following circumstances:
 	<![endif]-->
 
 
+    <script src="/store/js/src/init.js"></script>
+	<script src="/store/js/src/foundation.min.js"></script> 
+
+	<!-- foundation -->
+	<script src="/store/js/src/foundation/foundation.accordion.js"></script>
+	<script src="/store/js/src/foundation/foundation.equalizer.js"></script>
+	<script src="/store/js/src/foundation/foundation.offcanvas.js"></script>
+	<!-- 
+	<script src="js/src/foundation/foundation.tooltip.js"></script>
+	<script src="js/src/foundation/foundation.orbit.js"></script>
+	<script src="js/src/foundation/foundation.interchange.js"></script>
+	<script src="js/src/foundation/foundation.abide.js"></script>
+	<script src="js/src/foundation/foundation.alerts.js"></script>
+	<script src="js/src/foundation/foundation.clearing.js"></script>
+	<script src="js/src/foundation/foundation.cookie.js"></script>
+	<script src="js/src/foundation/foundation.dropdown.js"></script>
+	<script src="js/src/foundation/foundation.forms.js"></script>
+	<script src="js/src/foundation/foundation.joyride.js"></script>
+	<script src="js/src/foundation/foundation.magellan.js"></script>
+	<script src="js/src/foundation/foundation.reveal.js"></script>
+	<script src="js/src/foundation/foundation.section.js"></script>
+
+	<script src="js/src/foundation/foundation.placeholder.js"></script>
+	-->
+
+	<!-- javascript plugins -->
+	<script src="/store/js/src/plugins/jquery.rwdImageMaps.js"></script>
+
+	<!-- initialize foundation javascripts -->
+	<script>$(document).foundation();</script>
+
+	<!-- include fl javascripts -->
+	<script src="/store/js/src/finishline/fl.bottom.js"></script>
+
     <div id="dialog_privacy_policy" class="popup-content-on-load">
-		<span style="color:#000000;"><strong><span style="background: none repeat scroll 0% 0% rgb(252, 253, 253);">Free Shipping on Orders Over $75. </span></strong></span>This offer for free shipping applies to Economy shipping only.&nbsp; Minimum order value of $75.00 for free shipping to be applicable.&nbsp; Offer cannot be combined with any other promotional offer, exchange, group sale, nor is this promotional offer valid on previous purchases.&nbsp; Shipping offer is available for a limited time only. Finish Line reserves the right to modify or discontinue this offer at any time.&nbsp; Shipping offer begins 8/13/2014 at 9am ET and is valid through 9/2/14 at 8am ET.&nbsp; Offer valid on online purchases only.&nbsp; Not valid on Launch product, PayPal Express Orders or on orders shipped to Alaska and Hawaii.&nbsp; Shipping surcharges still apply. <span style="color:#000000;">Please refer to our</span><a href="/store/customer_service/shipping_info.jsp"><span style="color:#0000FF;"> shipping rates and policies </span></a><span style="color:#000000;">for more information</span>.</div>
+		<h2 style="font-family: &quot;Knockout 49 4r&quot;,&quot;HelveticaNeue-CondensedBold&quot;,&quot;Arial Narrow&quot;,&quot;Helvetica Neue&quot;,Helvetica,Arial,sans-serif; color: rgb(0, 0, 0); text-transform: uppercase; text-align: center;"><br>
+Free Shipping on Thousands of Styles. Every Day.</h2>
+
+<p style="font-family:Arial, sans-serif; color:#666; font-size:15px; line-height:18px;"><br>
+<span class="s1">*Promotional offer only valid on eligible items. Look for the "free shipping" text on eligible items. Other items in your shopping cart that are not eligible are subject to shipping charges. This promotional offer cannot be combined with any other promotional offer, exchange, group sale, nor is this promotional offer valid on previous purchases. Promotional offer excludes resellers, wholesalers and diverters. Only applies to orders to be shipped via Free Economy Shipping to a valid address in the United States, excluding Alaska and Hawaii. This promotional offer is not available for shipments to APO/FPO addresses or P.O. boxes. Additional exclusions may apply. Customer responsible for all shipping costs on returned merchandise. Promotional offer is not valid on out-of-stock or cancelled merchandise. Shipping will be automatically deducted at checkout. This promotional offer is only available at FinishLine.com. &nbsp;Please refer to our&nbsp;</span><span class="s2"><b><a href="/store/customer_service/faq_topic.jsp?categoryId=1600002&amp;topicId=1600006">Shipping Rates and Policies</a></b></span><a href="/store/customer_service/faq_topic.jsp?categoryId=1600002&amp;topicId=1600006" style="color: rgb(0, 0, 255);">&nbsp;</a>for more information.<br>
+&nbsp;</p>
+</div>
 <!-- javascriptForHead -->
         
     
