@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the littlepassports.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231074156id_/http%3A//www.littlepassports.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the littlepassports.com privacy policy that was archived on 2015-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150619140548id_/http%3A//www.littlepassports.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
