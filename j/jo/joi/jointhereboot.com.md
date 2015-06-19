@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jointhereboot.com privacy policy that was archived on 2014-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141216070750id_/http%3A//www.rebootwithjoe.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jointhereboot.com privacy policy that was archived on 2015-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150619171419id_/http%3A//www.rebootwithjoe.com/privacy-policy) for the most accurate reproduction.*
 
 # Reboot with Joe Privacy Policy | Reboot With Joe
 
@@ -179,7 +179,7 @@ At any time, you may update Personal Information that is stored on the Reboot we
 
   1. If you have an account on the Reboot web site, you can log in and update or change your account information
   2. You may unsubscribe to any of our email updates, posts, newsletters or products by following the unsubscribe instructions in the body of any message
-  3. You may contact us at kari@rebootwithjoe.com
+  3. You may contact us at help@rebootwithjoe.com
 
 
 
@@ -222,11 +222,11 @@ Your Personal Information may be stored and processed in any country where Reboo
 
 **How to Contact Us**
 
-If you have questions about our Privacy Policy, please contact us at kari@rebootwithjoe.com. You can also contact Reboot’s Privacy Office at:
+If you have questions about our Privacy Policy, please contact us at alex@rebootwithjoe.com. You can also contact Reboot’s Privacy Office at:
 
 99 University Place 3rd Floor  
 New York, NY 10003  
-Attn: Kari Thorstensen
+Attn: Alex Tibbetts
 
 **Changes to this Privacy Policy**
 
