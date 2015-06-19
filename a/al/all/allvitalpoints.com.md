@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allvitalpoints.com privacy policy that was archived on 2014-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141009035648id_/http%3A//www.allvitalpoints.com/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allvitalpoints.com privacy policy that was archived on 2015-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150619091632id_/http%3A//www.allvitalpoints.com/about-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -41,9 +41,3 @@ http://www.allvitalpoints.com/terms-conditions/
  **If you need to contact us, please send email to:**
 
  **angela.taylor@allvitalpoints.com**
-
-[](http://pinterest.com/pin/create/button/?url=http%3A%2F%2Fwww.allvitalpoints.com%2Fabout-us%2Fprivacy-policy%2F&media=)
-
-Category:  Product #: Regular price:$ (Sale ends !) Available from: Condition:  Good  ! Order now!
-
-Reviewed by  on. Rating: 
