@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the tumblebooklibrary.com privacy policy that was archived on 2014-07-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140712053534id_/http%3A//www.tumblebooks.com/library/asp/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tumblebooklibrary.com privacy policy that was archived on 2015-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150619131236id_/http%3A//www.tumblebooklibrary.com/privacy.aspx) for the most accurate reproduction.*
 
 # TumbleBooks - eBooks for eKids!
-
-**TumbleBooks Inc. Privacy Policy**
 
 **Commitment  
 **TumbleBooks Inc. is committed to principles of Internet safety and respect for your privacy. We share this commitment with our affiliate enterprises KidContent Inc., Tumbleweed Press, and 10belowzero.com, all of which subscribe to the same Internet Privacy and Safety Policy, set out below. In fact, one of our earliest publications is _Surfing Safely_ , a story designed to teach children (and adults) about Internet safety. We recommend that users of all ages take a few minutes and view this TumbleBook™ title in our TumbleKids section and heed the advice contained in it.
