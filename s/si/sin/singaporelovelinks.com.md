@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the singaporelovelinks.com privacy policy that was archived on 2014-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141003114411id_/http%3A//www.singaporelovelinks.com/Privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the singaporelovelinks.com privacy policy that was archived on 2015-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150619115445id_/http%3A//www.singaporelovelinks.com/en/general/privacystatement) for the most accurate reproduction.*
 
 # Privacy Statement | SingaporeLoveLinks.com
 
