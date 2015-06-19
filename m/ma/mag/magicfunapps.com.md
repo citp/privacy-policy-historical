@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the magicfunapps.com privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227105204id_/http%3A//zoopid.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the magicfunapps.com privacy policy that was archived on 2015-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150619162257id_/http%3A//zoopid.com/privacy.php) for the most accurate reproduction.*
 
-# Zoopid - Fun Apps for Facebook
+# TheLiveApps - Fun Apps for Facebook
 
-## zoopid.com - Privacy Policy
+## theliveapps.pw - Privacy Policy
 
-The text below shows Privacy Policy for the Apps that you use on zoopid.com. This privacy policy sets out how Zoopid uses and protects any information that you give for Zoopid Applications when you use them. Zoopid is committed to ensuring that your privacy is protected. When we ask you to provide certain information while authenticating the app and issuing certain permission by which you can be identified while using Applications, then you can be assured that it will only be used in accordance with this privacy statement. 
+The text below shows Privacy Policy for the Apps that you use on theliveapps.pw. This privacy policy sets out how TheLiveApps uses and protects any information that you give for TheLiveApps Applications when you use them. TheLiveApps is committed to ensuring that your privacy is protected. When we ask you to provide certain information while authenticating the app and issuing certain permission by which you can be identified while using Applications, then you can be assured that it will only be used in accordance with this privacy statement. 
 
-Zoopid may change this policy from time to time by updating this section. This privacy policy was last updated on 2nd June 2013. If we make any material changes to our policies, then we will either put message on our website or you need to check this section in order to comply with our policies. 
+TheLiveApps may change this policy from time to time by updating this section. This privacy policy was last updated on 2nd June 2013. If we make any material changes to our policies, then we will either put message on our website or you need to check this section in order to comply with our policies. 
 
 #### _What Data we collect?_
 
@@ -37,7 +37,7 @@ We ensures at it best to keep your information secure. The use of this informati
 #### _Do we disclose any information to outside parties?_
 
 We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. None of your informations are stored in our database.   
-zoopid.com will not be responsible for any illegal activities on facebook. We never upload any data to facebook. By using our site, you consent to our privacy policy. 
+theliveapps.pw will not be responsible for any illegal activities on facebook. We never upload any data to facebook. By using our site, you consent to our privacy policy. 
 
 #### _3rd Party Advertisements and their Cookies:_
 
@@ -61,7 +61,7 @@ We allow third-party companies to serve ads and/or collect certain anonymous inf
 
 #### _Contact:_
 
-If you have any questions regarding privacy policy or queries please contact us via email at admin@zoopid.com
+If you have any questions regarding privacy policy or queries please contact us via email at admin@theliveapps.pw
 
 ##### **Last Updated: 2nd June 2013**
 
