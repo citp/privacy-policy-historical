@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the independentlivingnews.com privacy policy that was archived on 2014-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141219163705id_/http%3A//www.independentlivingnews.com/privacy-policy.stml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the independentlivingnews.com privacy policy that was archived on 2015-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150619103535id_/http%3A//www.independentlivingnews.com/privacy-policy.stml) for the most accurate reproduction.*
 
 # Privacy Policy | Independent Living News
 
