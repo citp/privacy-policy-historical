@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the techtrickhome.com privacy policy that was archived on 2014-12-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141223125837id_/http%3A//www.techtrickhome.com/p/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the techtrickhome.com privacy policy that was archived on 2015-06-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150619155248id_/http%3A//www.techtrickhome.com/p/privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xmlns:b="http://www.google.com/2005/gml/b" xmlns:data="http://www.google.com/2005/gml/data" xmlns:expr="http://www.google.com/2005/gml/expr"><head>
 <!-- Facebook OpenGraphMetaTags For Blogger Start -->
@@ -89,15 +89,13 @@ WebFontConfig = {
   font-family: sans-serif;
 }
 </style>
-<link type="text/css" rel="stylesheet" href="https://www.blogger.com/static/v1/widgets/2435745617-widget_css_bundle.css">
-<link type="text/css" rel="stylesheet" href="https://www.blogger.com/dyn-css/authorization.css?targetBlogID=5814925388934263993&amp;zx=0a38af33-df32-4744-b744-19fd440fce0d">
+<link type="text/css" rel="stylesheet" href="https://www.blogger.com/static/v1/widgets/1943648796-widget_css_bundle.css">
+<link type="text/css" rel="stylesheet" href="https://www.blogger.com/dyn-css/authorization.css?targetBlogID=5814925388934263993&amp;zx=d947081b-470f-48da-873a-7df9c0ed0d21">
 <style id="page-skin-1" type="text/css"><!--
 /*
 -----------------------------------------------
 Blogger Template Style
 Author: Debarpan Mukherjee
-URL3:   http://www.conicl.com
-URL4:   http://www.exeguide.com
 ----------------------------------------------- */
 <Variable name="keycolor" description="Main Color" type="color" default="#539bcd"/>
 <Group description="Page Text" selector="body">
@@ -917,7 +915,7 @@ border: 1px solid #DDD;
 margin: 40px 10px 40px;
 }
 .sidebar h2 {
-font-size: 18px;
+font-size: 15px;
 font-weight: normal;
 text-transform: none;
 background: #015996;
@@ -931,7 +929,7 @@ box-shadow: inset 0px 0px 0px 1px #0C4D94;
 }
 .sidebar .widget {
 clear: both;
-font-size: 16px;
+font-size: 14px;
 line-height: 26px;
 margin-bottom: 25px;
 background: #FFF;
@@ -1047,11 +1045,17 @@ Hiding Header Date and Feed Links
 ******************************************/
 h2.date-header,span.blog-admin{display:none!important;}
 #HTML3{display:none!important;}
+/*****************************************
+Disable Print
+******************************************/
 @media print {
 body {
 Display: none;
 }
 }
+/*****************************************
+Scrollbar
+******************************************/
 ::-webkit-scrollbar {
 background:#fff;
 width:10px;
@@ -1061,6 +1065,74 @@ width:10px;
 background-image: -webkit-linear-gradient(top,#3498DB  10%, #0C94D5 51%);
 }
 ::-webkit-scrollbar-track {
+}
+/*****************************************
+Multitabber
+******************************************/
+.tabberlive{
+margin:0;
+padding:5px;
+clear:both;
+background:#f8f8f8;
+border:1px solid #FCFEFF;
+}
+.tabbernav {
+margin:0;
+padding: 3px 0;
+font-size:15px;
+font-weight:normal;
+display:block;
+text-align: center;
+}
+.tabbernav li {
+list-style:none;
+margin:0;
+display:inline;
+text-transform:none;
+}
+.tabbernav li a {
+padding:6px 0.5em;
+margin-right:1px;
+border:1px solid #FCFEFF;
+border-bottom:none;
+background:#2893E9;
+text-decoration:none;
+color:#ffffff;
+}
+.tabbernav li a:hover {
+color:#fff;
+background:#015996;
+border:1px solid #FCFEFF;
+text-decoration:none;
+-webkit-transition: all .4s ease-in-out;
+-moz-transition: all .4s ease-in-out;
+-ms-transition: all .4s ease-in-out;
+-o-transition: all .4s ease-in-out;
+transition: all .4s ease-in-out;
+}
+.tabbernav li.tabberactive a, .tabbernav li.tabberactive a:hover {
+background:#015996;
+color:#fff;
+border-bottom: 0px solid #ffffff;
+}
+.tabberlive .tabbertab {
+padding:5px;
+border:0px solid #FCFEFF;
+border-top:0;
+background:#ffffff;
+}
+.tabberlive .tabbertab h2,
+.tabberlive .tabbertabhide {
+display:none;
+}
+.tabbertab .widget-content ul{
+list-style:none;
+margin:0 0 10px 0;
+padding:0;
+}
+.tabbertab .widget-content li {
+border-bottom:1px solid #FCFEFF;
+padding:2px 0 5px 0;
 }
 
 --></style>
@@ -1252,6 +1324,226 @@ user-select: none;
     }
     //]]>
 </script>
+<script type="text/javascript"> 
+//<![CDATA[ 
+document.write('<style type="text/css">.tabber{display:none;}<\/style>'); 
+function tabberObj(argsObj) 
+{ 
+  var arg; 
+  this.div = null; 
+  this.classMain = "tabber"; 
+  this.classMainLive = "tabberlive"; 
+  this.classTab = "tabbertab"; 
+  this.classTabDefault = "tabbertabdefault"; 
+  this.classNav = "tabbernav"; 
+  this.classTabHide = "tabbertabhide"; 
+  this.classNavActive = "tabberactive"; 
+  this.titleElements = ['h2','h3','h4','h5','h6']; 
+  this.titleElementsStripHTML = true; 
+  this.removeTitle = true; 
+  this.addLinkId = false; 
+  this.linkIdFormat = '<tabberid>nav<tabnumberone>'; 
+  for (arg in argsObj) { this[arg] = argsObj[arg]; } 
+  this.REclassMain = new RegExp('\\b' + this.classMain + '\\b', 'gi'); 
+  this.REclassMainLive = new RegExp('\\b' + this.classMainLive + '\\b', 'gi'); 
+  this.REclassTab = new RegExp('\\b' + this.classTab + '\\b', 'gi'); 
+  this.REclassTabDefault = new RegExp('\\b' + this.classTabDefault + '\\b', 'gi'); 
+  this.REclassTabHide = new RegExp('\\b' + this.classTabHide + '\\b', 'gi'); 
+  this.tabs = new Array(); 
+  if (this.div) { 
+    this.init(this.div); 
+    this.div = null; 
+  } 
+} 
+tabberObj.prototype.init = function(e) 
+{ 
+  var 
+  childNodes, 
+  i, i2, 
+  t, 
+  defaultTab=0, 
+  DOM_ul, 
+  DOM_li, 
+  DOM_a, 
+  aId, 
+  headingElement; 
+  if (!document.getElementsByTagName) { return false; } 
+  if (e.id) { 
+    this.id = e.id; 
+  } 
+  this.tabs.length = 0; 
+  childNodes = e.childNodes; 
+  for(i=0; i < childNodes.length; i++) { 
+    if(childNodes[i].className && 
+       childNodes[i].className.match(this.REclassTab)) { 
+      t = new Object(); 
+      t.div = childNodes[i]; 
+      this.tabs[this.tabs.length] = t; 
+      if (childNodes[i].className.match(this.REclassTabDefault)) { 
+    defaultTab = this.tabs.length-1; 
+      } 
+    } 
+  } 
+  DOM_ul = document.createElement("ul"); 
+  DOM_ul.className = this.classNav; 
+  for (i=0; i < this.tabs.length; i++) { 
+    t = this.tabs[i]; 
+    t.headingText = t.div.title; 
+    if (this.removeTitle) { t.div.title = ''; } 
+    if (!t.headingText) { 
+      for (i2=0; i2<this.titleElements.length; i2++) { 
+    headingElement = t.div.getElementsByTagName(this.titleElements[i2])[0];
+    if (headingElement) { 
+      t.headingText = headingElement.innerHTML; 
+      if (this.titleElementsStripHTML) { 
+        t.headingText.replace(/<br>/gi," "); 
+        t.headingText = t.headingText.replace(/<[^>]+>/g,""); 
+      } 
+      break; 
+    } 
+      } 
+    } 
+    if (!t.headingText) { 
+      t.headingText = i + 1; 
+    } 
+    DOM_li = document.createElement("li"); 
+    t.li = DOM_li; 
+    DOM_a = document.createElement("a"); 
+    DOM_a.appendChild(document.createTextNode(t.headingText)); 
+    DOM_a.href = "javascript:void(null);"; 
+    DOM_a.title = t.headingText; 
+    DOM_a.onclick = this.navClick; 
+    DOM_a.tabber = this; 
+    DOM_a.tabberIndex = i; 
+    if (this.addLinkId && this.linkIdFormat) { 
+      aId = this.linkIdFormat; 
+      aId = aId.replace(/<tabberid>/gi, this.id); 
+      aId = aId.replace(/<tabnumberzero>/gi, i); 
+      aId = aId.replace(/<tabnumberone>/gi, i+1); 
+      aId = aId.replace(/<tabtitle>/gi, t.headingText.replace(/[^a-zA-Z0-9\-]/gi, '')); 
+      DOM_a.id = aId; 
+    } 
+    DOM_li.appendChild(DOM_a); 
+    DOM_ul.appendChild(DOM_li); 
+  } 
+  e.insertBefore(DOM_ul, e.firstChild); 
+  e.className = e.className.replace(this.REclassMain, this.classMainLive); 
+  this.tabShow(defaultTab); 
+  if (typeof this.onLoad == 'function') { 
+    this.onLoad({tabber:this}); 
+  } 
+  return this; 
+}; 
+tabberObj.prototype.navClick = function(event) 
+{ 
+  var 
+  rVal, 
+  a, 
+  self, 
+  tabberIndex, 
+  onClickArgs; 
+  a = this; 
+  if (!a.tabber) { return false; } 
+  self = a.tabber; 
+  tabberIndex = a.tabberIndex; 
+  a.blur(); 
+  if (typeof self.onClick == 'function') { 
+    onClickArgs = {'tabber':self, 'index':tabberIndex, 'event':event}; 
+    /* IE uses a different way to access the event object */ 
+    if (!event) { onClickArgs.event = window.event; } 
+    rVal = self.onClick(onClickArgs); 
+    if (rVal === false) { return false; } 
+  } 
+  self.tabShow(tabberIndex); 
+  return false; 
+}; 
+tabberObj.prototype.tabHideAll = function() 
+{ 
+  var i; 
+  for (i = 0; i < this.tabs.length; i++) { 
+    this.tabHide(i); 
+  } 
+}; 
+tabberObj.prototype.tabHide = function(tabberIndex) 
+{ 
+  var div; 
+  if (!this.tabs[tabberIndex]) { return false; } 
+  div = this.tabs[tabberIndex].div; 
+  if (!div.className.match(this.REclassTabHide)) { 
+    div.className += ' ' + this.classTabHide; 
+  } 
+  this.navClearActive(tabberIndex); 
+  return this; 
+}; 
+tabberObj.prototype.tabShow = function(tabberIndex) 
+{
+  var div; 
+  if (!this.tabs[tabberIndex]) { return false; } 
+  this.tabHideAll(); 
+  div = this.tabs[tabberIndex].div; 
+  div.className = div.className.replace(this.REclassTabHide, ''); 
+  this.navSetActive(tabberIndex); 
+  if (typeof this.onTabDisplay == 'function') { 
+    this.onTabDisplay({'tabber':this, 'index':tabberIndex}); 
+  } 
+  return this; 
+}; 
+tabberObj.prototype.navSetActive = function(tabberIndex) 
+{
+  this.tabs[tabberIndex].li.className = this.classNavActive; 
+  return this; 
+}; 
+tabberObj.prototype.navClearActive = function(tabberIndex) 
+{
+  this.tabs[tabberIndex].li.className = ''; 
+  return this; 
+}; 
+function tabberAutomatic(tabberArgs) 
+{ 
+  var 
+    tempObj, 
+    divs, 
+    i; 
+  if (!tabberArgs) { tabberArgs = {}; } 
+  tempObj = new tabberObj(tabberArgs); 
+  divs = document.getElementsByTagName("div"); 
+  for (i=0; i < divs.length; i++) { 
+    if (divs[i].className && 
+    divs[i].className.match(tempObj.REclassMain)) { 
+      tabberArgs.div = divs[i]; 
+      divs[i].tabber = new tabberObj(tabberArgs); 
+    } 
+  } 
+  return this; 
+} 
+function tabberAutomaticOnLoad(tabberArgs) 
+{ 
+  var oldOnLoad; 
+  if (!tabberArgs) { tabberArgs = {}; } 
+  oldOnLoad = window.onload; 
+  if (typeof window.onload != 'function') { 
+    window.onload = function() { 
+      tabberAutomatic(tabberArgs); 
+    }; 
+  } else { 
+    window.onload = function() { 
+      oldOnLoad(); 
+      tabberAutomatic(tabberArgs); 
+    }; 
+  } 
+} 
+/* Run tabberAutomaticOnload() unless the "manualStartup" option was specified */ 
+if (typeof tabberOptions == 'undefined') { 
+    tabberAutomaticOnLoad(); 
+} else { 
+  if (!tabberOptions['manualStartup']) { 
+    tabberAutomaticOnLoad(tabberOptions); 
+  } 
+} 
+//]]>
+</script><style type="text/css">.tabber{display:none;}</style>
+<style>
+#ContactForm1{ display:none!important;}   </style>
 <script type="text/javascript">var a="indexOf",b="&m=1",e="(^|&)m=",f="?",g="?m=1";function h(){var c=window.location.href,d=c.split(f);switch(d.length){case 1:return c+g;case 2:return 0<=d[1].search(e)?null:c+b;default:return null}}var k=navigator.userAgent;if(-1!=k[a]("Mobile")&&-1!=k[a]("WebKit")&&-1==k[a]("iPad")||-1!=k[a]("Opera Mini")||-1!=k[a]("IEMobile")){var l=h();l&&window.location.replace(l)};
 </script><script type="text/javascript">
 if (window.jstiming) window.jstiming.load.tick('headEnd');
@@ -1472,16 +1764,62 @@ PRIVACY POLICY
 <div class="sidebar section" id="sidebar"><div class="widget HTML" id="HTML1">
 <h2 class="title">Search Here</h2>
 <div class="widget-content">
-<style type="text/css">
-#w2b-searchbox{background:url(http://1.bp.blogspot.com/-ZvJAoEGuhKM/U3AvryogKsI/AAAAAAAAAbE/DA02WjBfH-w/s1600/tth+search.png) no-repeat scroll center center transparent;width:282px;height:50px;disaply:block;}
-form#w2b-searchform{display: block;padding: 12px;margin:0;}
-form#w2b-searchform #s{padding: 6px 6px 6px 26px;margin:0;width: 190px;font-size:14px;vertical-align: top;border:none;background:transparent;}
-form#w2b-searchform #sbutton{margin:0;padding:0;height:30px;width:30px;vertical-align: top;border:none;background:transparent;}
-</style>   
-<div id="w2b-searchbox">
-<form id="w2b-searchform" action="/search" method="get">
-    <input type="text" id="s" name="q" value="">
-    <input type="image" src="http://img1.blogblog.com/img/blank.gif" id="sbutton">
+<style>
+#search-box {
+position: relative;
+width: 100%;
+margin: 0;
+}
+
+#search-form 
+{
+height: 40px;
+border: 1px solid #999;
+-webkit-border-radius: 5px;
+-moz-border-radius: 5px;
+border-radius: 5px;
+background-color: #fff;
+overflow: hidden;
+}
+#search-text 
+{
+font-size: 14px;
+color: #ddd;
+border-width: 0;
+background: transparent;
+}
+
+#search-box input[type="text"]
+{
+width: 90%;
+padding: 11px 0 12px 1em;
+color: #333;
+outline: none;
+}
+
+#search-button {
+position: absolute;
+top: 0;
+right: 0;
+height: 42px;
+width: 80px;
+font-size: 14px;
+color: #fff;
+text-align: center;
+line-height: 42px;
+border-width: 0;
+background-color: #2EB0EC;
+-webkit-border-radius: 0px 5px 5px 0px;
+-moz-border-radius: 0px 5px 5px 0px;
+border-radius: 0px 5px 5px 0px;
+cursor: pointer;
+}
+</style>
+
+<div id="search-box">
+<form action="/search" id="search-form" method="get" target="_top">
+<input id="search-text" name="q" placeholder="" type="text">
+<button id="search-button" type="submit"><span>Search</span></button>
 </form>
 </div>
 </div>
@@ -1489,12 +1827,12 @@ form#w2b-searchform #sbutton{margin:0;padding:0;height:30px;width:30px;vertical-
 <span class="widget-item-control">
 <span class="item-control blog-admin">
 <a class="quickedit" href="//www.blogger.com/rearrange?blogID=5814925388934263993&amp;widgetType=HTML&amp;widgetId=HTML1&amp;action=editWidget&amp;sectionId=sidebar" onclick="return _WidgetManager._PopupConfig(document.getElementById(&quot;HTML1&quot;));" target="configHTML1" title="Edit">
-<img alt="" height="18" src="http://img1.blogblog.com/img/icon18_wrench_allbkg.png" width="18">
+<img alt="" height="18" src="//img1.blogblog.com/img/icon18_wrench_allbkg.png" width="18">
 </a>
 </span>
 </span>
 <div class="clear"></div>
-</div><div class="widget HTML" id="HTML2">
+</div><div class="widget HTML" id="HTML8">
 <h2 class="title">Join Us</h2>
 <div class="widget-content">
 <style>
@@ -1580,7 +1918,6 @@ transition: all 0.5s ease-in-out;
    }
 
 </style>
-
 <br>
 <div class="subscribebtrix">
 <div align="center" style="color: #333; font: 22px Verdana; font-weight: bold;  margin: 0px 0px 15px 0px; padding: 10px 0 10px;">
@@ -1589,11 +1926,11 @@ Stay Connected</div>
 <br>
 <center>
 <div style="margin: -30px 0 20px 0;">
-<a href="https://www.facebook.com/TechTrickHome" rel="nofollow" target="_blank" title="Follow us on Facebook"><img alt="facebook" src="http://3.bp.blogspot.com/-bMWNQbM4EOQ/U3Avq0wfkXI/AAAAAAAAAak/yLv_2PUwJCY/s1600/facebookicon.png"></a>
-<a href="https://twitter.com/TechTrickHome" rel="nofollow" target="_blank" title="Follow us on Twitter"><img alt="twitter" src="http://1.bp.blogspot.com/-WESkDPGG7Gk/U3AvsIrSd8I/AAAAAAAAAas/OxWOrVoJVwc/s1600/twitter.png"></a>
-<a href="http://www.youtube.com/user/techtrickhome" rel="nofollow" target="_blank" title="Follow us on Youtube"><img alt="gplus" src="http://4.bp.blogspot.com/-CBVkBXFPy_8/U3Ax5pieXQI/AAAAAAAAAbQ/N3ha2Y4i9Hs/s1600/ytube.png"></a>
-<a href="http://pinterest.com/techtrickhome" rel="nofollow" target="_blank" title="Follow us on Pinterest"><img alt="pinterest" src="http://1.bp.blogspot.com/-o8VNCM8vi1U/U3Avqz2m_EI/AAAAAAAAAac/f48Gh2rg3cE/s1600/pinteresticon.png"></a>
-<a href="http://feeds.feedburner.com/techtrickhome" rel="nofollow" target="_blank" title="Subscribe to RSS"><img alt="rss" src="http://1.bp.blogspot.com/-AMOk-Q6Tkko/U3AvrMwe7CI/AAAAAAAAAag/GQtUnsZeUmw/s1600/rssicon.png"></a>
+<a href="https://www.facebook.com/TechTrickHome" rel="nofollow" target="_blank" title="Join us on Facebook"><img alt="facebook" src="http://3.bp.blogspot.com/-WB4lTB-mvCA/UaY2s0v_16I/AAAAAAAACRA/2nTsz2MDXNw/s1600/facebookicon.png"></a>
+<a href="https://twitter.com/TechTrickHome" rel="nofollow" target="_blank" title="Follow us on Twitter"><img alt="twitter" src="http://2.bp.blogspot.com/-6qU1aFjwCg4/UaXyx78Nn7I/AAAAAAAACQs/PQptFExz_GY/s1600/twitter.png"></a>
+<a href="https://plus.google.com/+DebarpanMukherjee" rel="nofollow" target="_blank" title="Follow us on Google+"><img alt="gplus" src="http://1.bp.blogspot.com/-mZl-W3SlIxg/UaY3zFBaiMI/AAAAAAAACRY/vZf9BWb5paQ/s1600/google-plus-icon.png"></a>
+<a href="http://www.pinterest.com/techtrickhome" rel="nofollow" target="_blank" title="Follow us on Pinterest"><img alt="pinterest" src="http://2.bp.blogspot.com/-r1k8ZCsdq8o/UaY2s8qpFRI/AAAAAAAACRE/NV1QQ9UbKx8/s1600/pinteresticon.png"></a>
+<a href="http://feeds.feedburner.com/techtrickhome" rel="nofollow" target="_blank" title="Subscribe to RSS"><img alt="rss" src="http://3.bp.blogspot.com/-tGHuz4uXJkQ/UaY2s6sZcuI/AAAAAAAACQ8/yHJoKq3MAc0/s1600/rssicon.png"></a>
 </div>
 </center>
 
@@ -1610,25 +1947,50 @@ Stay Connected</div>
 <div class="clear"></div>
 <span class="widget-item-control">
 <span class="item-control blog-admin">
-<a class="quickedit" href="//www.blogger.com/rearrange?blogID=5814925388934263993&amp;widgetType=HTML&amp;widgetId=HTML2&amp;action=editWidget&amp;sectionId=sidebar" onclick="return _WidgetManager._PopupConfig(document.getElementById(&quot;HTML2&quot;));" target="configHTML2" title="Edit">
-<img alt="" height="18" src="http://img1.blogblog.com/img/icon18_wrench_allbkg.png" width="18">
+<a class="quickedit" href="//www.blogger.com/rearrange?blogID=5814925388934263993&amp;widgetType=HTML&amp;widgetId=HTML8&amp;action=editWidget&amp;sectionId=sidebar" onclick="return _WidgetManager._PopupConfig(document.getElementById(&quot;HTML8&quot;));" target="configHTML8" title="Edit">
+<img alt="" height="18" src="//img1.blogblog.com/img/icon18_wrench_allbkg.png" width="18">
 </a>
 </span>
 </span>
 <div class="clear"></div>
-</div><div class="widget PopularPosts" id="PopularPosts2">
+</div><div class="widget HTML" id="HTML7">
+<div class="clear"></div>
+<span class="widget-item-control">
+<span class="item-control blog-admin">
+<a class="quickedit" href="//www.blogger.com/rearrange?blogID=5814925388934263993&amp;widgetType=HTML&amp;widgetId=HTML7&amp;action=editWidget&amp;sectionId=sidebar" onclick="return _WidgetManager._PopupConfig(document.getElementById(&quot;HTML7&quot;));" target="configHTML7" title="Edit">
+<img alt="" height="18" src="//img1.blogblog.com/img/icon18_wrench_allbkg.png" width="18">
+</a>
+</span>
+</span>
+<div class="clear"></div>
+</div></div>
+<div style="clear:both;"></div>
+<div class="tabberlive"><ul class="tabbernav"><li class="tabberactive"><a href="javascript:void(null);" title="Popular Posts">Popular Posts</a></li><li class=""><a href="javascript:void(null);" title="Categories">Categories</a></li><li class=""><a href="javascript:void(null);" title="Support Us">Support Us</a></li></ul>
+<div class="tabbertab section " id="tab1" title=""><div class="widget PopularPosts" id="PopularPosts2">
 <h2>Popular Posts</h2>
 <div class="widget-content popular-posts">
 <ul>
 <li>
 <div class="item-content">
 <div class="item-thumbnail">
-<a href="http://www.techtrickhome.com/2014/01/12-essential-tips-before-you-start-your.html" target="_blank">
-<img alt="" border="0" height="72" src="http://4.bp.blogspot.com/-SrHIHAvm_RM/UrBuKZmVIpI/AAAAAAAAD-A/mfgwmWq3QxY/s72-c/To-Do-List.jpg" width="72">
+<a href="http://www.techtrickhome.com/2013/03/add-comment-counter-on-blogger-threaded.html" target="_blank">
+<img alt="" border="0" height="72" src="http://4.bp.blogspot.com/-TEQoQ9LfnVg/URUppnq7uaI/AAAAAAAABxU/e3bK2zreU88/s72-c/Capture.PNG" width="72">
 </a>
 </div>
-<div class="item-title"><a href="http://www.techtrickhome.com/2014/01/12-essential-tips-before-you-start-your.html">12 Essential Tips Before You Start Your Blog</a></div>
-<div class="item-snippet">    Without proper preparation it’s hard to perform well whether it’s exam or building an online business like blogging .So if you have deci...</div>
+<div class="item-title"><a href="http://www.techtrickhome.com/2013/03/add-comment-counter-on-blogger-threaded.html">Add Comment Counter on Blogger Threaded Comment </a></div>
+<div class="item-snippet">       After waiting several times we got threaded comment system for blogger just like wordpress ,but still we&nbsp;&nbsp;all know blogger comment sy...</div>
+</div>
+<div style="clear: both;"></div>
+</li>
+<li>
+<div class="item-content">
+<div class="item-thumbnail">
+<a href="http://www.techtrickhome.com/2013/02/add-auto-read-more-with-thumbnail-on.html" target="_blank">
+<img alt="" border="0" height="72" src="http://4.bp.blogspot.com/-dsMnmdWCozc/UdOtQoajfOI/AAAAAAAAC-A/K500iq-2eWU/s72-c/images+(1).png" width="72">
+</a>
+</div>
+<div class="item-title"><a href="http://www.techtrickhome.com/2013/02/add-auto-read-more-with-thumbnail-on.html">Add Auto Read More with Thumbnail on Blogger</a></div>
+<div class="item-snippet">     Blogger auto read more with thumbnail hack is one of &nbsp;the best template &nbsp;hack available for blogger.Almost every pro- blogger  done tha...</div>
 </div>
 <div style="clear: both;"></div>
 </li>
@@ -1646,73 +2008,8 @@ Stay Connected</div>
 </li>
 <li>
 <div class="item-content">
-<div class="item-thumbnail">
-<a href="http://www.techtrickhome.com/2013/03/high-pr-instant-approval-blog-directory.html" target="_blank">
-<img alt="" border="0" height="72" src="http://4.bp.blogspot.com/-yC2AuSAbeZo/UVNG0AG2KhI/AAAAAAAACW8/OfhPCqpQwaM/s72-c/1.PNG" width="72">
-</a>
-</div>
-<div class="item-title"><a href="http://www.techtrickhome.com/2013/03/high-pr-instant-approval-blog-directory.html">High PR Instant Approval Blog Directory</a></div>
-<div class="item-snippet">     If you want to see your blog on top of SERP on Google Search Result,then you must have to get some quality backlink.That is the only wa...</div>
-</div>
-<div style="clear: both;"></div>
-</li>
-<li>
-<div class="item-content">
-<div class="item-thumbnail">
-<a href="http://www.techtrickhome.com/2014/01/add-table-of-contents-widget-for-blogger.html" target="_blank">
-<img alt="" border="0" height="72" src="http://4.bp.blogspot.com/-LLLJzOOyiHw/UrbhRRkiyAI/AAAAAAAAEDw/xNO7_ioBmKw/s72-c/5.jpg" width="72">
-</a>
-</div>
-<div class="item-title"><a href="http://www.techtrickhome.com/2014/01/add-table-of-contents-widget-for-blogger.html">Add Table of Contents Widget for Blogger</a></div>
-<div class="item-snippet"> Adding a table of contents&nbsp; widge t into your blog is a great idea.It's also called as sitemap page of your entire blog.It'll show ...</div>
-</div>
-<div style="clear: both;"></div>
-</li>
-<li>
-<div class="item-content">
-<div class="item-thumbnail">
-<a href="http://www.techtrickhome.com/2014/03/7-must-to-do-things-with-new-smart-phone.html" target="_blank">
-<img alt="" border="0" height="72" src="http://1.bp.blogspot.com/-vJ8LjQKZQBY/Uv4aUnoGnTI/AAAAAAAAERE/llD9ugnzsHg/s72-c/Must+To+Do+Things+With+A+New+Mobile+Phone.png" width="72">
-</a>
-</div>
-<div class="item-title"><a href="http://www.techtrickhome.com/2014/03/7-must-to-do-things-with-new-smart-phone.html">7 Must To Do Things With A New Smart Phone</a></div>
-<div class="item-snippet">      This is era of smartphone.People love to have smartphones these days.So, did you get a brand new Smartphone in &nbsp;this year?Or you may p...</div>
-</div>
-<div style="clear: both;"></div>
-</li>
-<li>
-<div class="item-content">
-<div class="item-thumbnail">
-<a href="http://www.techtrickhome.com/2013/02/what-is-do-follow-blog.html" target="_blank">
-<img alt="" border="0" height="72" src="http://3.bp.blogspot.com/-6TJXjalkl_w/UGMxqeBJRWI/AAAAAAAAATg/im1jc5ITLLk/s72-c/dofollow+and+nofollow+links.jpg" width="72">
-</a>
-</div>
-<div class="item-title"><a href="http://www.techtrickhome.com/2013/02/what-is-do-follow-blog.html">What is do-follow Blog?</a></div>
-<div class="item-snippet">    Many Webmasters and Bloggers would have heard of&nbsp; DoFollow&nbsp; and&nbsp; NoFollow &nbsp;Blogs.But many don't know what it is exactly.. So the que...</div>
-</div>
-<div style="clear: both;"></div>
-</li>
-<li>
-<div class="item-content">
-<div class="item-thumbnail">
-<a href="http://www.techtrickhome.com/2013/02/insert-hyperlink-on-blogger-comments.html" target="_blank">
-<img alt="" border="0" height="72" src="http://3.bp.blogspot.com/-9Z8NCmXtoFY/UdL2OU-zm0I/AAAAAAAAC9A/somwRI3vEGo/s72-c/16.PNG" width="72">
-</a>
-</div>
-<div class="item-title"><a href="http://www.techtrickhome.com/2013/02/insert-hyperlink-on-blogger-comments.html">Insert Hyperlink on Blogger Comments</a></div>
-<div class="item-snippet">   Commenting on other's blog is always a good way &nbsp;to interact with other fellow bloggers as well as build traffic for your newly made ...</div>
-</div>
-<div style="clear: both;"></div>
-</li>
-<li>
-<div class="item-content">
-<div class="item-thumbnail">
-<a href="http://www.techtrickhome.com/2013/01/how-to-enable-autoplay-youtube-embed.html" target="_blank">
-<img alt="" border="0" height="72" src="http://3.bp.blogspot.com/-eeet5tFJgOw/UJ58V6jGq1I/AAAAAAAAA4c/8SexKZdDBNk/s72-c/24509-1.jpg" width="72">
-</a>
-</div>
-<div class="item-title"><a href="http://www.techtrickhome.com/2013/01/how-to-enable-autoplay-youtube-embed.html">How to Enable Autoplay  YouTube Embed videos</a></div>
-<div class="item-snippet">    &nbsp;We all know that Youtube is world's most popular video sharing website along with a great alexa rank , Over 3 billion videos watche...</div>
+<div class="item-title"><a href="http://www.techtrickhome.com/2015/06/hound-and-future-of-voice-technology.html">'Hound' and the Future of Voice Technology</a></div>
+<div class="item-snippet">   This Tuesday saw incredibly exciting news from Santa Clara-based mobile device service SoundHound Inc. , as they announced the fruition o...</div>
 </div>
 <div style="clear: both;"></div>
 </li>
@@ -1731,12 +2028,60 @@ Stay Connected</div>
 <li>
 <div class="item-content">
 <div class="item-thumbnail">
-<a href="http://www.techtrickhome.com/2014/12/best-5-bitcoin-accepting-web-host.html" target="_blank">
-<img alt="" border="0" height="72" src="http://4.bp.blogspot.com/-o58DqTvA4xg/VGdgDECuVUI/AAAAAAAAFnU/mQc_yMEX0YQ/s72-c/bitcoin-web-hosting.png" width="72">
+<a href="http://www.techtrickhome.com/2013/06/add-customized-contact-us-form-on.html" target="_blank">
+<img alt="" border="0" height="72" src="http://1.bp.blogspot.com/-UpOa7VP26Ws/UbADSZNRArI/AAAAAAAACh8/8eKSmuU6tk4/s72-c/05.jpg" width="72">
 </a>
 </div>
-<div class="item-title"><a href="http://www.techtrickhome.com/2014/12/best-5-bitcoin-accepting-web-host.html">Best 5 Bitcoin Accepting Web Host</a></div>
-<div class="item-snippet">  The rise of Bitcoin as a digital currency or crypto currency has changed the idea of online payment. This cryptocurrency is growing &nbsp;very ...</div>
+<div class="item-title"><a href="http://www.techtrickhome.com/2013/06/add-customized-contact-us-form-on.html">Add Customized Contact Us Form On Blogger</a></div>
+<div class="item-snippet">        &nbsp;Blogger just recently launched their contact form by which you can easily contact and send your questions and queries to the admin ...</div>
+</div>
+<div style="clear: both;"></div>
+</li>
+<li>
+<div class="item-content">
+<div class="item-thumbnail">
+<a href="http://www.techtrickhome.com/2013/02/insert-hyperlink-on-blogger-comments.html" target="_blank">
+<img alt="" border="0" height="72" src="http://3.bp.blogspot.com/-9Z8NCmXtoFY/UdL2OU-zm0I/AAAAAAAAC9A/somwRI3vEGo/s72-c/16.PNG" width="72">
+</a>
+</div>
+<div class="item-title"><a href="http://www.techtrickhome.com/2013/02/insert-hyperlink-on-blogger-comments.html">Insert Hyperlink on Blogger Comments</a></div>
+<div class="item-snippet">   Commenting on other's blog is always a good way &nbsp;to interact with other fellow bloggers as well as build traffic for your newly made ...</div>
+</div>
+<div style="clear: both;"></div>
+</li>
+<li>
+<div class="item-content">
+<div class="item-thumbnail">
+<a href="http://www.techtrickhome.com/2013/03/high-pr-instant-approval-blog-directory.html" target="_blank">
+<img alt="" border="0" height="72" src="http://4.bp.blogspot.com/-yC2AuSAbeZo/UVNG0AG2KhI/AAAAAAAACW8/OfhPCqpQwaM/s72-c/1.PNG" width="72">
+</a>
+</div>
+<div class="item-title"><a href="http://www.techtrickhome.com/2013/03/high-pr-instant-approval-blog-directory.html">High PR Instant Approval Blog Directory</a></div>
+<div class="item-snippet">     If you want to see your blog on top of SERP on Google Search Result,then you must have to get some quality backlink.That is the only wa...</div>
+</div>
+<div style="clear: both;"></div>
+</li>
+<li>
+<div class="item-content">
+<div class="item-thumbnail">
+<a href="http://www.techtrickhome.com/2013/05/how-to-create-blogroll-on-blogger.html" target="_blank">
+<img alt="" border="0" height="72" src="http://3.bp.blogspot.com/-o9bZkVs4RKA/UIzzuD5MlKI/AAAAAAAAAsQ/eid7msGtFzc/s72-c/blogroll211.jpg" width="72">
+</a>
+</div>
+<div class="item-title"><a href="http://www.techtrickhome.com/2013/05/how-to-create-blogroll-on-blogger.html">How to Create Blogroll on Blogger</a></div>
+<div class="item-snippet">    As a bloger, we usually added our Friends link on our blog to stay connected with their blog as well as stay updated too.It's almost...</div>
+</div>
+<div style="clear: both;"></div>
+</li>
+<li>
+<div class="item-content">
+<div class="item-thumbnail">
+<a href="http://www.techtrickhome.com/2012/09/automatically-submit-your-blog-to.html" target="_blank">
+<img alt="" border="0" height="72" src="http://3.bp.blogspot.com/-ef_UaDcdSuU/UdWrdgsW92I/AAAAAAAADB8/sxbJZwRCvDc/s72-c/search-engine-submission.jpg" width="72">
+</a>
+</div>
+<div class="item-title"><a href="http://www.techtrickhome.com/2012/09/automatically-submit-your-blog-to.html">Automatically Submit Your Blog to Millions of Search Engines</a></div>
+<div class="item-snippet">       When it came to serious blogging it's do need take special care about our blog as well as blogging strategy.To competite in the p...</div>
 </div>
 <div style="clear: both;"></div>
 </li>
@@ -1744,24 +2089,25 @@ Stay Connected</div>
 <div class="clear"></div>
 <span class="widget-item-control">
 <span class="item-control blog-admin">
-<a class="quickedit" href="//www.blogger.com/rearrange?blogID=5814925388934263993&amp;widgetType=PopularPosts&amp;widgetId=PopularPosts2&amp;action=editWidget&amp;sectionId=sidebar" onclick="return _WidgetManager._PopupConfig(document.getElementById(&quot;PopularPosts2&quot;));" target="configPopularPosts2" title="Edit">
-<img alt="" height="18" src="http://img1.blogblog.com/img/icon18_wrench_allbkg.png" width="18">
+<a class="quickedit" href="//www.blogger.com/rearrange?blogID=5814925388934263993&amp;widgetType=PopularPosts&amp;widgetId=PopularPosts2&amp;action=editWidget&amp;sectionId=tab1" onclick="return _WidgetManager._PopupConfig(document.getElementById(&quot;PopularPosts2&quot;));" target="configPopularPosts2" title="Edit">
+<img alt="" height="18" src="//img1.blogblog.com/img/icon18_wrench_allbkg.png" width="18">
 </a>
 </span>
 </span>
 <div class="clear"></div>
 </div>
-</div><div class="widget Label" id="Label2">
-<h2>We Write About This</h2>
+</div></div>
+<div class="tabbertab section tabbertabhide" id="tab2" title=""><div class="widget Label" id="Label2">
+<h2>Categories</h2>
 <div class="widget-content list-label-widget-content">
 <ul>
 <li>
 <a dir="ltr" href="http://www.techtrickhome.com/search/label/Blogger">Blogger</a>
-<span dir="ltr">(138)</span>
+<span dir="ltr">(140)</span>
 </li>
 <li>
 <a dir="ltr" href="http://www.techtrickhome.com/search/label/Blogging">Blogging</a>
-<span dir="ltr">(56)</span>
+<span dir="ltr">(58)</span>
 </li>
 <li>
 <a dir="ltr" href="http://www.techtrickhome.com/search/label/Gadgets">Gadgets</a>
@@ -1769,7 +2115,7 @@ Stay Connected</div>
 </li>
 <li>
 <a dir="ltr" href="http://www.techtrickhome.com/search/label/Internet%20Tricks">Internet Tricks</a>
-<span dir="ltr">(28)</span>
+<span dir="ltr">(32)</span>
 </li>
 <li>
 <a dir="ltr" href="http://www.techtrickhome.com/search/label/Online%20Money">Online Money</a>
@@ -1777,7 +2123,7 @@ Stay Connected</div>
 </li>
 <li>
 <a dir="ltr" href="http://www.techtrickhome.com/search/label/Review">Review</a>
-<span dir="ltr">(15)</span>
+<span dir="ltr">(21)</span>
 </li>
 <li>
 <a dir="ltr" href="http://www.techtrickhome.com/search/label/SEO">SEO</a>
@@ -1785,7 +2131,7 @@ Stay Connected</div>
 </li>
 <li>
 <a dir="ltr" href="http://www.techtrickhome.com/search/label/Tech">Tech</a>
-<span dir="ltr">(58)</span>
+<span dir="ltr">(69)</span>
 </li>
 <li>
 <a dir="ltr" href="http://www.techtrickhome.com/search/label/Templates">Templates</a>
@@ -1797,11 +2143,12 @@ Stay Connected</div>
 </li>
 <li>
 <a dir="ltr" href="http://www.techtrickhome.com/search/label/Wordpress">Wordpress</a>
-<span dir="ltr">(16)</span>
+<span dir="ltr">(17)</span>
 </li>
 </ul>
 </div>
-</div><div class="widget HTML" id="HTML12">
+</div></div>
+<div class="tabbertab section tabbertabhide" id="tab3" title=""><div class="widget HTML" id="HTML12">
 <h2 class="title">Support Us</h2>
 <div class="widget-content">
 <center><div class="widget-content">
@@ -1816,35 +2163,75 @@ Stay Connected</div>
 <div class="clear"></div>
 <span class="widget-item-control">
 <span class="item-control blog-admin">
-<a class="quickedit" href="//www.blogger.com/rearrange?blogID=5814925388934263993&amp;widgetType=HTML&amp;widgetId=HTML12&amp;action=editWidget&amp;sectionId=sidebar" onclick="return _WidgetManager._PopupConfig(document.getElementById(&quot;HTML12&quot;));" target="configHTML12" title="Edit">
-<img alt="" height="18" src="http://img1.blogblog.com/img/icon18_wrench_allbkg.png" width="18">
+<a class="quickedit" href="//www.blogger.com/rearrange?blogID=5814925388934263993&amp;widgetType=HTML&amp;widgetId=HTML12&amp;action=editWidget&amp;sectionId=tab3" onclick="return _WidgetManager._PopupConfig(document.getElementById(&quot;HTML12&quot;));" target="configHTML12" title="Edit">
+<img alt="" height="18" src="//img1.blogblog.com/img/icon18_wrench_allbkg.png" width="18">
 </a>
 </span>
 </span>
 <div class="clear"></div>
-</div><div class="widget HTML" id="HTML7">
+</div></div>
+</div>
+<div class="sidebar2 section" id="sidebar2"><div class="widget HTML" id="HTML9">
 <div class="widget-content">
-<a href="http://dayquoteswishes.com/" rel="noindex">happy new year quotes wishes</a><div><br><a href="http://www.happynewyear2015quoteswishes.com/" rel="noindex">happy new year 2015 quotes wishes</a></div><div><br><a href="http://moviearning.com/" rel="noindex">merry christmas 2014 images</a></div><div><br><a href="http://www.merrychristmaswishesx.com/merry-christmas-images-hd-images-facebook-whatsapp-wechat-viber-images.html" rel="noindex">merry christmas images</a></div><div><br><a href="http://merrychristmas2014greetings.com/best-merry-christmas-2014-greeting-pictures-kids-tumblr.html/" rel="noindex">merry christmas greetings</a></div>
+<a href="http://www.happyholi2015pictures.com/2015/05/happy-fathers-day-presents-2015.html" style="font-style: normal;">Unique Fathers Day Presents</a><br>
 </div>
 <div class="clear"></div>
 <span class="widget-item-control">
 <span class="item-control blog-admin">
-<a class="quickedit" href="//www.blogger.com/rearrange?blogID=5814925388934263993&amp;widgetType=HTML&amp;widgetId=HTML7&amp;action=editWidget&amp;sectionId=sidebar" onclick="return _WidgetManager._PopupConfig(document.getElementById(&quot;HTML7&quot;));" target="configHTML7" title="Edit">
-<img alt="" height="18" src="http://img1.blogblog.com/img/icon18_wrench_allbkg.png" width="18">
+<a class="quickedit" href="//www.blogger.com/rearrange?blogID=5814925388934263993&amp;widgetType=HTML&amp;widgetId=HTML9&amp;action=editWidget&amp;sectionId=sidebar2" onclick="return _WidgetManager._PopupConfig(document.getElementById(&quot;HTML9&quot;));" target="configHTML9" title="Edit">
+<img alt="" height="18" src="//img1.blogblog.com/img/icon18_wrench_allbkg.png" width="18">
+</a>
+</span>
+</span>
+<div class="clear"></div>
+</div><div class="widget ContactForm" id="ContactForm1">
+<h2 class="title">Contact Form</h2>
+<div class="contact-form-widget">
+<div class="form">
+<form name="contact-form">
+<p></p>
+Name
+<br>
+<input class="contact-form-name" id="ContactForm1_contact-form-name" name="name" size="30" type="text" value="">
+<p></p>
+Email
+<span style="font-weight: bolder;">*</span>
+<br>
+<input class="contact-form-email" id="ContactForm1_contact-form-email" name="email" size="30" type="text" value="">
+<p></p>
+Message
+<span style="font-weight: bolder;">*</span>
+<br>
+<textarea class="contact-form-email-message" cols="25" id="ContactForm1_contact-form-email-message" name="email-message" rows="5"></textarea>
+<p></p>
+<input class="contact-form-button contact-form-button-submit" id="ContactForm1_contact-form-submit" type="button" value="Send">
+<p></p>
+<div style="text-align: center; max-width: 222px; width: 100%">
+<p class="contact-form-error-message" id="ContactForm1_contact-form-error-message"></p>
+<p class="contact-form-success-message" id="ContactForm1_contact-form-success-message"></p>
+</div>
+</form>
+</div>
+</div>
+<div class="clear"></div>
+<span class="widget-item-control">
+<span class="item-control blog-admin">
+<a class="quickedit" href="//www.blogger.com/rearrange?blogID=5814925388934263993&amp;widgetType=ContactForm&amp;widgetId=ContactForm1&amp;action=editWidget&amp;sectionId=sidebar2" onclick="return _WidgetManager._PopupConfig(document.getElementById(&quot;ContactForm1&quot;));" target="configContactForm1" title="Edit">
+<img alt="" height="18" src="//img1.blogblog.com/img/icon18_wrench_allbkg.png" width="18">
 </a>
 </span>
 </span>
 <div class="clear"></div>
 </div><div class="widget HTML" id="HTML3">
-<h2 class="title">Ads</h2>
+<h2 class="title">IP Block</h2>
 <div class="widget-content">
 <!-- Begin IP-Blocker Code --><script src="http://www.toolator.com/ban/banned/?member=imdeb" type="text/javascript"></script><!-- End Ip-Blocker Code-->
 </div>
 <div class="clear"></div>
 <span class="widget-item-control">
 <span class="item-control blog-admin">
-<a class="quickedit" href="//www.blogger.com/rearrange?blogID=5814925388934263993&amp;widgetType=HTML&amp;widgetId=HTML3&amp;action=editWidget&amp;sectionId=sidebar" onclick="return _WidgetManager._PopupConfig(document.getElementById(&quot;HTML3&quot;));" target="configHTML3" title="Edit">
-<img alt="" height="18" src="http://img1.blogblog.com/img/icon18_wrench_allbkg.png" width="18">
+<a class="quickedit" href="//www.blogger.com/rearrange?blogID=5814925388934263993&amp;widgetType=HTML&amp;widgetId=HTML3&amp;action=editWidget&amp;sectionId=sidebar2" onclick="return _WidgetManager._PopupConfig(document.getElementById(&quot;HTML3&quot;));" target="configHTML3" title="Edit">
+<img alt="" height="18" src="//img1.blogblog.com/img/icon18_wrench_allbkg.png" width="18">
 </a>
 </span>
 </span>
@@ -1929,7 +2316,7 @@ box-shadow: 1px 1px 4px #000;
 <span class="widget-item-control">
 <span class="item-control blog-admin">
 <a class="quickedit" href="//www.blogger.com/rearrange?blogID=5814925388934263993&amp;widgetType=HTML&amp;widgetId=HTML5&amp;action=editWidget&amp;sectionId=footer1" onclick="return _WidgetManager._PopupConfig(document.getElementById(&quot;HTML5&quot;));" target="configHTML5" title="Edit">
-<img alt="" height="18" src="http://img1.blogblog.com/img/icon18_wrench_allbkg.png" width="18">
+<img alt="" height="18" src="//img1.blogblog.com/img/icon18_wrench_allbkg.png" width="18">
 </a>
 </span>
 </span>
@@ -1941,109 +2328,43 @@ box-shadow: 1px 1px 4px #000;
 <div class="widget-content">
 <div id="Followers1-wrapper">
 <div style="margin-right:2px;">
+<div><script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
+<div id="followers-iframe-container"></div>
 <script type="text/javascript">
-        if (!window.google || !google.friendconnect) {
-          document.write('<script type="text/javascript"' +
-              'src="//www.google.com/friendconnect/script/friendconnect.js">' +
-              '</scr' + 'ipt>');
+    window.followersIframe = null;
+    function followersIframeOpen(url) {
+      gapi.load("gapi.iframes", function() {
+        if (gapi.iframes && gapi.iframes.getContext) {
+          window.followersIframe = gapi.iframes.getContext().openChild({
+            url: url,
+            where: document.getElementById("followers-iframe-container"),
+            messageHandlersFilter: gapi.iframes.CROSS_ORIGIN_IFRAMES_FILTER,
+            messageHandlers: {
+              '_ready': function(obj) {
+                window.followersIframe.getIframeEl().height = obj.height;
+              },
+              'reset': function() {
+                window.followersIframe.close();
+                followersIframeOpen("https://www.blogger.com/followers.g?blogID\x3d5814925388934263993\x26origin\x3dhttp://www.techtrickhome.com/\x26colors\x3dCgt0cmFuc3BhcmVudBILdHJhbnNwYXJlbnQaBjAwMDAwMCIGMDAwMDAwKgZGRkZGRkYyBjAwMDAwMDoGMDAwMDAwQgYwMDAwMDBKBjAwMDAwMFIGRkZGRkZGWgt0cmFuc3BhcmVudA%3D%3D");
+              },
+              'open': function(url) {
+                window.followersIframe.close();
+                followersIframeOpen(url);
+              }
+            }
+          });
         }
-      </script><script type="text/javascript" src="//www.google.com/friendconnect/script/friendconnect.js"></script>
-<script type="text/javascript">
-      if (!window.registeredBloggerCallbacks) {
-        window.registeredBloggerCallbacks = true;
-
-        
-
-        
-        gadgets.rpc.register('requestReload', function() {
-          document.location.reload();
-        });
-
-        
-        gadgets.rpc.register('requestSignOut', function(siteId) {
-          
-          google.friendconnect.container.openSocialSiteId = siteId;
-          google.friendconnect.requestSignOut();
-        });
-      }
-    </script>
-<script type="text/javascript">
-    
-    function registerGetBlogUrls() {
-      gadgets.rpc.register('getBlogUrls', function() {
-        var holder = {};
-        
-          
-          
-          
-            holder.postFeed = "http://www.blogger.com/feeds/5814925388934263993/posts/default";
-          
-          
-          
-            holder.commentFeed = "http://www.blogger.com/feeds/5814925388934263993/comments/default";
-          
-          holder.currentBlogUrl = "http://www.techtrickhome.com/";
-          holder.currentBlogId = "5814925388934263993";
-        
-        return holder;
       });
     }
-  </script>
-<script type="text/javascript">
-  if (!window.registeredCommonBloggerCallbacks) {
-    window.registeredCommonBloggerCallbacks = true;
-
-    gadgets.rpc.register('resize_iframe', function(height) {
-      var el = document.getElementById(this['f']);
-      if (el) {
-        el.style.height = height + 'px';
-      }
-    });
-
-    
-    gadgets.rpc.register('set_pref', function() {});
-
-    registerGetBlogUrls();
-  }
-  </script>
-<div id="div-1tlsfw4yb60fb" style="width: 100%; "></div>
-<script type="text/javascript">
-    var skin = {};
-    skin['FACE_SIZE'] = '32';
-    skin['HEIGHT'] = "260";
-    skin['TITLE'] = "Followers";
-    skin['BORDER_COLOR'] = "transparent";
-    skin['ENDCAP_BG_COLOR'] = "transparent";
-    skin['ENDCAP_TEXT_COLOR'] = "#000000";
-    skin['ENDCAP_LINK_COLOR'] = "#000000";
-    skin['ALTERNATE_BG_COLOR'] = "transparent";
-    
-    skin['CONTENT_BG_COLOR'] = "transparent";
-    skin['CONTENT_LINK_COLOR'] = "#000000";
-    skin['CONTENT_TEXT_COLOR'] = "#000000";
-    skin['CONTENT_SECONDARY_LINK_COLOR'] = "#FFFFFF";
-    skin['CONTENT_SECONDARY_TEXT_COLOR'] = "#000000";
-    skin['CONTENT_HEADLINE_COLOR'] = "#000000";
-    skin['FONT_FACE'] = "normal normal 16px \x27Trebuchet MS\x27, Trebuchet, sans-serif";
-    google.friendconnect.container.setParentUrl("/");
-    google.friendconnect.container["renderMembersGadget"](
-    {id: "div-1tlsfw4yb60fb",
-     height: 260,
-     
-     
-     
-     site: "07607685788232222240",
-     
-     locale: 'en_GB' },
-     skin);
-  </script>
+    followersIframeOpen("https://www.blogger.com/followers.g?blogID\x3d5814925388934263993\x26origin\x3dhttp://www.techtrickhome.com/\x26colors\x3dCgt0cmFuc3BhcmVudBILdHJhbnNwYXJlbnQaBjAwMDAwMCIGMDAwMDAwKgZGRkZGRkYyBjAwMDAwMDoGMDAwMDAwQgYwMDAwMDBKBjAwMDAwMFIGRkZGRkZGWgt0cmFuc3BhcmVudA%3D%3D");
+  </script></div>
 </div>
 </div>
 <div class="clear"></div>
 <span class="widget-item-control">
 <span class="item-control blog-admin">
 <a class="quickedit" href="//www.blogger.com/rearrange?blogID=5814925388934263993&amp;widgetType=Followers&amp;widgetId=Followers1&amp;action=editWidget&amp;sectionId=footer2" onclick="return _WidgetManager._PopupConfig(document.getElementById(&quot;Followers1&quot;));" target="configFollowers1" title="Edit">
-<img alt="" height="18" src="http://img1.blogblog.com/img/icon18_wrench_allbkg.png" width="18">
+<img alt="" height="18" src="//img1.blogblog.com/img/icon18_wrench_allbkg.png" width="18">
 </a>
 </span>
 </span>
@@ -2080,7 +2401,7 @@ var urlMyAvatar = '';
 var urlMyProfile = '';
 var cropAvatar = true;
 var sizeAvatar = 40;
-var urlNoAvatar = "http://2.bp.blogspot.com/-4L1srdefKCQ/U3NkOlmMosI/AAAAAAAAAbs/eDqg5E3Q7Qw/s1600/Gravatar+(1).jpg"; 
+var urlNoAvatar = "http://3.bp.blogspot.com/-oivPlkvBNBY/T6ZoNQhfAII/AAAAAAAACGY/3gem5DBmmQ8/s1600/blogger-user.png"; 
 var urlAnoAvatar = 'http://www.gravatar.com/avatar/00000000000000000000000000000000?d=mm&s=' + sizeAvatar;
 var txtMore = '';
 var txtWrote = ':';
@@ -2269,7 +2590,7 @@ document.write('<script type="text/javascript" src="http://'+window.location.hos
 <span class="widget-item-control">
 <span class="item-control blog-admin">
 <a class="quickedit" href="//www.blogger.com/rearrange?blogID=5814925388934263993&amp;widgetType=HTML&amp;widgetId=HTML6&amp;action=editWidget&amp;sectionId=footer3" onclick="return _WidgetManager._PopupConfig(document.getElementById(&quot;HTML6&quot;));" target="configHTML6" title="Edit">
-<img alt="" height="18" src="http://img1.blogblog.com/img/icon18_wrench_allbkg.png" width="18">
+<img alt="" height="18" src="//img1.blogblog.com/img/icon18_wrench_allbkg.png" width="18">
 </a>
 </span>
 </span>
@@ -2284,7 +2605,7 @@ document.write('<script type="text/javascript" src="http://'+window.location.hos
 <span class="widget-item-control">
 <span class="item-control blog-admin">
 <a class="quickedit" href="//www.blogger.com/rearrange?blogID=5814925388934263993&amp;widgetType=HTML&amp;widgetId=HTML4&amp;action=editWidget&amp;sectionId=footer4" onclick="return _WidgetManager._PopupConfig(document.getElementById(&quot;HTML4&quot;));" target="configHTML4" title="Edit">
-<img alt="" height="18" src="http://img1.blogblog.com/img/icon18_wrench_allbkg.png" width="18">
+<img alt="" height="18" src="//img1.blogblog.com/img/icon18_wrench_allbkg.png" width="18">
 </a>
 </span>
 </span>
@@ -2295,7 +2616,7 @@ document.write('<script type="text/javascript" src="http://'+window.location.hos
 </div><!-- footer -->
 <div class="footer-credits">
 <div class="ct-wrapper">
-<p style="float:left">Copyright 2014 <a href="http://www.techtrickhome.com/">TechTrickHome</a></p><p style="float:right">SEO by <a href="http://www.viralseotips.com">Viral SEO Tips</a> | <a href="#">Back to Top</a></p>
+<p style="float:left">Copyright 2015 <a href="http://www.techtrickhome.com/">TechTrickHome</a></p><p style="float:right">Powered By <a href="http://www.exeguide.com">EXEGUIDE</a> | <a href="#">Back to Top</a></p>
 </div><!-- /ct-wrapper -->
 </div><!-- footer-credits -->
 <script type="text/javascript">
@@ -2333,7 +2654,7 @@ $('a:not(:has(img))').filter(function() { return this.hostname && this.hostname 
 <script>$('.comment-content a.external[rel$=nofollow]').replaceWith(function(){return ($(this).text());});</script>
 <script>
 $("img[src='http://img2.blogblog.com/img/b36-rounded.png']")
-.attr('src', 'http://2.bp.blogspot.com/-4L1srdefKCQ/U3NkOlmMosI/AAAAAAAAAbs/eDqg5E3Q7Qw/s1600/Gravatar+(1).jpg')
+.attr('src', 'http://3.bp.blogspot.com/-oivPlkvBNBY/T6ZoNQhfAII/AAAAAAAACGY/3gem5DBmmQ8/s1600/blogger-user.png')
 .ssyby('blank')
 </script>
 <script type="text/javascript">
@@ -2343,21 +2664,23 @@ var infolinks_wsid = 3;
 <script src="http://resources.infolinks.com/js/infolinks_main.js" type="text/javascript"></script>
 <script type="text/javascript">
 if (window.jstiming) window.jstiming.load.tick('widgetJsBefore');
-</script><script type="text/javascript" src="https://www.blogger.com/static/v1/widgets/3739804914-widgets.js"></script>
+</script><script type="text/javascript" src="https://www.blogger.com/static/v1/widgets/584669920-widgets.js"></script>
 <script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
 <script type="text/javascript">
 if (typeof(BLOG_attachCsiOnload) != 'undefined' && BLOG_attachCsiOnload != null) { window['blogger_templates_experiment_id'] = "templatesV1";window['blogger_blog_id'] = '5814925388934263993';BLOG_attachCsiOnload('static_page_'); }_WidgetManager._Init('//www.blogger.com/rearrange?blogID\x3d5814925388934263993','//www.techtrickhome.com/p/privacy-policy.html','5814925388934263993');
-_WidgetManager._SetDataContext([{'name': 'blog', 'data': {'blogId': '5814925388934263993', 'bloggerUrl': 'http://www.blogger.com', 'title': 'TechTrickHome', 'pageType': 'static_page', 'pageId': '3233259580551942429', 'url': 'http://www.techtrickhome.com/p/privacy-policy.html', 'canonicalUrl': 'http://www.techtrickhome.com/p/privacy-policy.html', 'canonicalHomepageUrl': 'http://www.techtrickhome.com/', 'homepageUrl': 'http://www.techtrickhome.com/', 'blogspotFaviconUrl': 'http://www.techtrickhome.com/favicon.ico', 'enabledCommentProfileImages': true, 'adultContent': false, 'disableAdSenseWidget': false, 'analyticsAccountNumber': 'UA-46357974-1', 'searchLabel': '', 'searchQuery': '', 'pageName': 'PRIVACY POLICY', 'pageTitle': 'TechTrickHome: PRIVACY POLICY', 'metaDescription': '', 'encoding': 'UTF-8', 'locale': 'en_GB', 'localeUnderscoreDelimited': 'en_gb', 'isPrivate': false, 'isMobile': false, 'isMobileRequest': false, 'mobileClass': '', 'isPrivateBlog': false, 'languageDirection': 'ltr', 'feedLinks': '\74link rel\75\42alternate\42 type\75\42application/atom+xml\42 title\75\42TechTrickHome - Atom\42 href\75\42http://www.techtrickhome.com/feeds/posts/default\42 /\76\n\74link rel\75\42alternate\42 type\75\42application/rss+xml\42 title\75\42TechTrickHome - RSS\42 href\75\42http://www.techtrickhome.com/feeds/posts/default?alt\75rss\42 /\76\n\74link rel\75\42service.post\42 type\75\42application/atom+xml\42 title\75\42TechTrickHome - Atom\42 href\75\42http://www.blogger.com/feeds/5814925388934263993/posts/default\42 /\76\n', 'meTag': '', 'openIdOpTag': '', 'googleProfileUrl': 'https://plus.google.com/108681385985031118860', 'latencyHeadScript': '\74script type\75\42text/javascript\42\76(function() { var b\75window,f\75\42chrome\42,g\75\42tick\42,k\75\42jstiming\42;(function(){function d(a){this.t\75{};this.tick\75function(a,d,c){var e\75void 0!\75c?c:(new Date).getTime();this.t[a]\75[e,d];if(void 0\75\75c)try{b.console.timeStamp(\42CSI/\42+a)}catch(h){}};this[g](\42start\42,null,a)}var a;b.performance\46\46(a\75b.performance.timing);var n\75a?new d(a.responseStart):new d;b.jstiming\75{Timer:d,load:n};if(a){var c\75a.navigationStart,h\75a.responseStart;0\74c\46\46h\76\75c\46\46(b[k].srt\75h-c)}if(a){var e\75b[k].load;0\74c\46\46h\76\75c\46\46(e[g](\42_wtsrt\42,void 0,c),e[g](\42wtsrt_\42,\42_wtsrt\42,h),e[g](\42tbsd_\42,\42wtsrt_\42))}try{a\75null,\nb[f]\46\46b[f].csi\46\46(a\75Math.floor(b[f].csi().pageT),e\46\0460\74c\46\46(e[g](\42_tbnd\42,void 0,b[f].csi().startE),e[g](\42tbnd_\42,\42_tbnd\42,c))),null\75\75a\46\46b.gtbExternal\46\46(a\75b.gtbExternal.pageT()),null\75\75a\46\46b.external\46\46(a\75b.external.pageT,e\46\0460\74c\46\46(e[g](\42_tbnd\42,void 0,b.external.startE),e[g](\42tbnd_\42,\42_tbnd\42,c))),a\46\46(b[k].pt\75a)}catch(p){}})();b.tickAboveFold\75function(d){var a\0750;if(d.offsetParent){do a+\75d.offsetTop;while(d\75d.offsetParent)}d\75a;750\76\75d\46\46b[k].load[g](\42aft\42)};var l\75!1;function m(){l||(l\75!0,b[k].load[g](\42firstScrollTime\42))}b.addEventListener?b.addEventListener(\42scroll\42,m,!1):b.attachEvent(\42onscroll\42,m);\n })();\74/script\076', 'mobileHeadScript': '', 'view': '', 'dynamicViewsCommentsSrc': '//www.blogblog.com/dynamicviews/4224c15c4e7c9321/js/comments.js', 'dynamicViewsScriptSrc': '//www.blogblog.com/dynamicviews/76f25a6f2e06af76', 'plusOneApiSrc': 'https://apis.google.com/js/plusone.js', 'sf': 'n'}}, {'name': 'skin', 'data': {'vars': {'post_title_text_hover_color': '#1977b4', 'post_title_font': 'normal normal 20px Oswald', 'keycolor': '#539bcd', 'body_font': 'normal normal 16px \47Trebuchet MS\47, Trebuchet, sans-serif', 'post_title_text_color': '#3b91d8', 'header_font': 'normal normal 50px Oswald'}, 'override': '@media print {\n  body {\n    Display: none;\n  }\n}\n\n::-webkit-scrollbar {\nbackground:#fff;\nwidth:10px;\n}\n::-webkit-scrollbar-thumb {\n-webkit-box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.5);\nbackground-image: -webkit-linear-gradient(top,#3498DB  10%, #0C94D5 51%);\n}\n::-webkit-scrollbar-track {\n}\n\n\n\n\n'}}, {'name': 'view', 'data': {'classic': {'name': 'classic', 'url': '?view\75classic'}, 'flipcard': {'name': 'flipcard', 'url': '?view\75flipcard'}, 'magazine': {'name': 'magazine', 'url': '?view\75magazine'}, 'mosaic': {'name': 'mosaic', 'url': '?view\75mosaic'}, 'sidebar': {'name': 'sidebar', 'url': '?view\75sidebar'}, 'snapshot': {'name': 'snapshot', 'url': '?view\75snapshot'}, 'timeslide': {'name': 'timeslide', 'url': '?view\75timeslide'}}}]);
+_WidgetManager._SetDataContext([{'name': 'blog', 'data': {'blogId': '5814925388934263993', 'bloggerUrl': 'http://www.blogger.com', 'title': 'TechTrickHome', 'pageType': 'static_page', 'pageId': '3233259580551942429', 'url': 'http://www.techtrickhome.com/p/privacy-policy.html', 'canonicalUrl': 'http://www.techtrickhome.com/p/privacy-policy.html', 'canonicalHomepageUrl': 'http://www.techtrickhome.com/', 'homepageUrl': 'http://www.techtrickhome.com/', 'blogspotFaviconUrl': 'http://www.techtrickhome.com/favicon.ico', 'enabledCommentProfileImages': true, 'adultContent': false, 'disableAdSenseWidget': false, 'analyticsAccountNumber': 'UA-46357974-1', 'searchLabel': '', 'searchQuery': '', 'pageName': 'PRIVACY POLICY', 'pageTitle': 'TechTrickHome: PRIVACY POLICY', 'metaDescription': '', 'encoding': 'UTF-8', 'locale': 'en_GB', 'localeUnderscoreDelimited': 'en_gb', 'isPrivate': false, 'isMobile': false, 'isMobileRequest': false, 'mobileClass': '', 'isPrivateBlog': false, 'languageDirection': 'ltr', 'feedLinks': '\74link rel\75\42alternate\42 type\75\42application/atom+xml\42 title\75\42TechTrickHome - Atom\42 href\75\42http://www.techtrickhome.com/feeds/posts/default\42 /\76\n\74link rel\75\42alternate\42 type\75\42application/rss+xml\42 title\75\42TechTrickHome - RSS\42 href\75\42http://www.techtrickhome.com/feeds/posts/default?alt\75rss\42 /\76\n\74link rel\75\42service.post\42 type\75\42application/atom+xml\42 title\75\42TechTrickHome - Atom\42 href\75\42http://www.blogger.com/feeds/5814925388934263993/posts/default\42 /\76\n', 'meTag': '', 'openIdOpTag': '', 'googleProfileUrl': 'https://plus.google.com/108681385985031118860', 'latencyHeadScript': '\74script type\75\42text/javascript\42\76(function() { var b\75window,f\75\42chrome\42,g\75\42tick\42,k\75\42jstiming\42;(function(){function d(a){this.t\75{};this.tick\75function(a,d,c){var e\75void 0!\75c?c:(new Date).getTime();this.t[a]\75[e,d];if(void 0\75\75c)try{b.console.timeStamp(\42CSI/\42+a)}catch(h){}};this[g](\42start\42,null,a)}var a;b.performance\46\46(a\75b.performance.timing);var n\75a?new d(a.responseStart):new d;b.jstiming\75{Timer:d,load:n};if(a){var c\75a.navigationStart,h\75a.responseStart;0\74c\46\46h\76\75c\46\46(b[k].srt\75h-c)}if(a){var e\75b[k].load;0\74c\46\46h\76\75c\46\46(e[g](\42_wtsrt\42,void 0,c),e[g](\42wtsrt_\42,\42_wtsrt\42,h),e[g](\42tbsd_\42,\42wtsrt_\42))}try{a\75null,\nb[f]\46\46b[f].csi\46\46(a\75Math.floor(b[f].csi().pageT),e\46\0460\74c\46\46(e[g](\42_tbnd\42,void 0,b[f].csi().startE),e[g](\42tbnd_\42,\42_tbnd\42,c))),null\75\75a\46\46b.gtbExternal\46\46(a\75b.gtbExternal.pageT()),null\75\75a\46\46b.external\46\46(a\75b.external.pageT,e\46\0460\74c\46\46(e[g](\42_tbnd\42,void 0,b.external.startE),e[g](\42tbnd_\42,\42_tbnd\42,c))),a\46\46(b[k].pt\75a)}catch(p){}})();b.tickAboveFold\75function(d){var a\0750;if(d.offsetParent){do a+\75d.offsetTop;while(d\75d.offsetParent)}d\75a;750\76\75d\46\46b[k].load[g](\42aft\42)};var l\75!1;function m(){l||(l\75!0,b[k].load[g](\42firstScrollTime\42))}b.addEventListener?b.addEventListener(\42scroll\42,m,!1):b.attachEvent(\42onscroll\42,m);\n })();\74/script\076', 'mobileHeadScript': '', 'view': '', 'dynamicViewsCommentsSrc': '//www.blogblog.com/dynamicviews/4224c15c4e7c9321/js/comments.js', 'dynamicViewsScriptSrc': '//www.blogblog.com/dynamicviews/cda3ddef07a85452', 'plusOneApiSrc': 'https://apis.google.com/js/plusone.js', 'sf': 'n'}}, {'name': 'skin', 'data': {'vars': {'post_title_text_hover_color': '#1977b4', 'post_title_font': 'normal normal 20px Oswald', 'keycolor': '#539bcd', 'body_font': 'normal normal 16px \47Trebuchet MS\47, Trebuchet, sans-serif', 'post_title_text_color': '#3b91d8', 'header_font': 'normal normal 50px Oswald'}, 'override': ''}}, {'name': 'view', 'data': {'classic': {'name': 'classic', 'url': '?view\75classic'}, 'flipcard': {'name': 'flipcard', 'url': '?view\75flipcard'}, 'magazine': {'name': 'magazine', 'url': '?view\75magazine'}, 'mosaic': {'name': 'mosaic', 'url': '?view\75mosaic'}, 'sidebar': {'name': 'sidebar', 'url': '?view\75sidebar'}, 'snapshot': {'name': 'snapshot', 'url': '?view\75snapshot'}, 'timeslide': {'name': 'timeslide', 'url': '?view\75timeslide'}}}]);
 _WidgetManager._RegisterWidget('_HeaderView', new _WidgetInfo('Header1', 'header', null, document.getElementById('Header1'), {}, 'displayModeFull'));
 _WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML99', 'navigation', null, document.getElementById('HTML99'), {}, 'displayModeFull'));
 _WidgetManager._RegisterWidget('_BlogView', new _WidgetInfo('Blog1', 'content', null, document.getElementById('Blog1'), {'cmtInteractionsEnabled': false}, 'displayModeFull'));
 _WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML1', 'sidebar', null, document.getElementById('HTML1'), {}, 'displayModeFull'));
-_WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML2', 'sidebar', null, document.getElementById('HTML2'), {}, 'displayModeFull'));
-_WidgetManager._RegisterWidget('_PopularPostsView', new _WidgetInfo('PopularPosts2', 'sidebar', null, document.getElementById('PopularPosts2'), {}, 'displayModeFull'));
-_WidgetManager._RegisterWidget('_LabelView', new _WidgetInfo('Label2', 'sidebar', null, document.getElementById('Label2'), {}, 'displayModeFull'));
-_WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML12', 'sidebar', null, document.getElementById('HTML12'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML8', 'sidebar', null, document.getElementById('HTML8'), {}, 'displayModeFull'));
 _WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML7', 'sidebar', null, document.getElementById('HTML7'), {}, 'displayModeFull'));
-_WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML3', 'sidebar', null, document.getElementById('HTML3'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_PopularPostsView', new _WidgetInfo('PopularPosts2', 'tab1', null, document.getElementById('PopularPosts2'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_LabelView', new _WidgetInfo('Label2', 'tab2', null, document.getElementById('Label2'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML12', 'tab3', null, document.getElementById('HTML12'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML9', 'sidebar2', null, document.getElementById('HTML9'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_ContactFormView', new _WidgetInfo('ContactForm1', 'sidebar2', null, document.getElementById('ContactForm1'), {'contactFormMessageSendingMsg': 'Sending...', 'contactFormMessageSentMsg': 'Your message has been sent.', 'contactFormMessageNotSentMsg': 'Message could not be sent. Please try again later.', 'contactFormInvalidEmailMsg': 'A valid email address is required.', 'contactFormEmptyMessageMsg': 'Message field cannot be empty.', 'title': 'Contact Form', 'blogId': '5814925388934263993', 'contactFormNameMsg': 'Name', 'contactFormEmailMsg': 'Email', 'contactFormMessageMsg': 'Message', 'contactFormSendMsg': 'Send', 'submitUrl': 'https://www.blogger.com/contact-form.do'}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML3', 'sidebar2', null, document.getElementById('HTML3'), {}, 'displayModeFull'));
 _WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML5', 'footer1', null, document.getElementById('HTML5'), {}, 'displayModeFull'));
 _WidgetManager._RegisterWidget('_FollowersView', new _WidgetInfo('Followers1', 'footer2', null, document.getElementById('Followers1'), {}, 'displayModeFull'));
 _WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML6', 'footer3', null, document.getElementById('HTML6'), {}, 'displayModeFull'));
