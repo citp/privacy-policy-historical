@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the videobam.com privacy policy that was archived on 2014-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141226165733id_/http%3A//videobam.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the videobam.com privacy policy that was archived on 2015-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150619162942id_/http%3A//videobam.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - VideoBam
 
