@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the jobjet.in privacy policy that was archived on 2014-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141201232054id_/http%3A//jobjet.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobjet.in privacy policy that was archived on 2015-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150619104546id_/http%3A//jobjet.in/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - jobjet.in
+# Privacy Policy
 
 jobjet.in is website designed as a resource to help students and all to know about latest Employment News, Govt Jobs, Private Jobs, Exams, Career, Online Test and Tutorials etc. The site mainly concentrated on Employment News, Govt Jobs, Private Jobs, Exams, Career and more. jobjet.in aims to be a great platform for Job hunters without getting involved in legal suits. So, here is the privacy policy for www.jobjet.in
 
