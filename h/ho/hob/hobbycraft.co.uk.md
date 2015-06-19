@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hobbycraft.co.uk privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120203658id_/http%3A//www.hobbycraft.co.uk/pages/privacy%2520policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hobbycraft.co.uk privacy policy that was archived on 2015-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150619065205id_/http%3A//www.hobbycraft.co.uk/pages/privacy%2520policy) for the most accurate reproduction.*
 
 # 
 
