@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the power.com privacy policy that was archived on 2014-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141126075808id_/http%3A//www.power.com/company/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the power.com privacy policy that was archived on 2015-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150619043825id_/http%3A//www.power.com/legal/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | PI Corporate
+# Privacy Policy | Power Integrations
 
 Power Integrations, Inc. ("Company") has created this privacy policy in order to demonstrate our commitment to privacy. Your privacy on Company’s web site (the "Site") is of great importance to us. Because we gather important information from our users, we have established a means to communicate to our users how we use and handle the information collected. This Privacy Policy discloses our information gathering and dissemination practices.
 
