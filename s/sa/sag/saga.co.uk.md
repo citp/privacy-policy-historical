@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the saga.co.uk privacy policy that was archived on 2014-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141203215155id_/http%3A//www.saga.co.uk/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the saga.co.uk privacy policy that was archived on 2015-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150619062612id_/http%3A//www.saga.co.uk/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Saga Group Data Protection Privacy Policy - Saga
 
@@ -6,7 +6,7 @@
 
 When it comes to your privacy we never compromise. We will always be clear about why we need the details we ask for, and ensure your personal information is kept as secure as possible. How we do this is explained below.
 
-**Last updated:  October 2014**
+**Last updated: June 2015**
 
   * Introduction
   * How we use the information you provide us
@@ -40,7 +40,9 @@ Saga plc., together with its subsidiaries, being the various groups of companies
 
 Companies within the Saga group (“Saga”) use a variety of well-known brand and trading names including, but not limited to, Saga, Titan Travel, Allied Healthcare, Nestor, Direct Choice Insurance Services Limited, Claimfast, and Metromail. Details of the relevant companies can be obtained from the Group Data Protection Officer at Enbrook Park, Sandgate, Kent CT20 3SE.
 
-Saga ("we","us") are committed to protecting your privacy. We comply with the principles of the Data Protection Act 1998 and aim to maintain best-practice standards in our processing of personal and/or sensitive personal data." Back to top 
+Saga ("we","us") are committed to protecting your privacy. We comply with the principles of the Data Protection Act 1998 and aim to maintain best-practice standards in our processing of personal and/or sensitive personal data."   
+**  
+****Back to top**
 
 ### How we use your information   
 
@@ -57,9 +59,12 @@ Any new information you provide us may be used to update an existing record we h
 
 To help us prevent fraud and money laundering, your details may be submitted to fraud prevention agencies and other organisations where your records may be searched. We will also conduct a search with a credit reference bureau to assist us in providing a quote, and to check which payment options we can make available to you. A copy of this search will be left on your credit file but will not affect your credit score. Where we are providing a motor insurance quotation this search will be noted on your credit file and may be reflected in your credit score.
 
+We will make checks on the full and open registers of the electoral role and public data provided to us by credit reference agencies and other third parties in order to assess financial and insurance risks including premium payment rates at quote and renewal, to assist with credit applications and to assist with identity checks in order to prevent money laundering.  
+
+
 Third parties may deliver some of our products to you, or provide all or part of the service requested by you. In these instances, while the information you provide will be disclosed to them, it will only be used for the administration of the service provided (including for example verification of any quote given to you and claims processing), underwriting and pricing purposes as appropriate, testing, and to maintain management information for business analysis.
 
-If you apply for the Saga Credit Card or the AA Credit Card, we, or the supplier of the card, will search your record at a credit reference agency. If you apply for other financial services and/or products, a check of your details with fraud prevention agencies may be necessary. The precise nature of these processes is explained fully when you apply.
+If you apply for the Saga Credit Card, we, or the supplier of the card, will search your record at a credit reference agency. If you apply for other financial services and/or products, a check of your details with fraud prevention agencies may be necessary. The precise nature of these processes is explained fully when you apply.
 
 We ask for your home, mobile phone number, and email address to enable us to contact you in relation to an enquiry you have made, to contact you about relevant products or services, to contact you if there is a problem with your order, or there is another genuine reason for doing so.
 
@@ -102,14 +107,14 @@ In the event of phone calls from you, we also reserve the right to ask security 
 
 If you contact us electronically we may collect your electronic identifier, eg Internet protocol (IP) address or phone number supplied by your service provider. This is to identify any repeat website visits, fraudulent behaviour or mystery shoppers using our websites.
 
-Back to top   
+**Back to top** ****  
 
 
 ## 
 
 ### Your consent 
 
-Before you provide any data to us we will endeavour to make it clear why we need it. Sometimes we may need sensitive personal data (examples may be past medical history or motoring convictions). When this is required we will obtain your consent first. Otherwise, by providing us with information, either orally or in writing, or by using our website, you consent to the collection, use and processing of the information we obtain from or about you as a result of our dealings with you (including any data we obtain from third parties) by Saga to provide and send you information about goods and/or services which we believe may be of interest to you.
+Before you provide any data to us we will endeavour to make it clear why we need it. Sometimes we may need sensitive personal data (examples may be past medical history or motoring convictions). When this is required we will obtain your consent first. Otherwise, by providing us with information, either orally or in writing, or by using our website, you consent to the collection, use and processing of the information we obtain from or about you as a result of our dealings with you (including any data we obtain from third parties) by Saga to provide and send you information about goods and/or services which we believe may be of interest to you. It may also be used for market research, offering renewals and statistical purposes. 
 
 A customer may properly give their spouse's or partner's consent over the phone or via the website providing the customer confirms they have permission to do so. If the consent is written, the spouse must independently endorse such consent.
 
@@ -119,7 +124,7 @@ It is worth noting, however, that some non-EEA countries do not afford the same 
 
 Subsequent to your purchase of a product or service, we may enter into an arrangement for that service to be provided by a new third party. If this happens, the terms and conditions of your contract with us will provide that you consent to the transfer and processing of personal and/or sensitive personal data to the new provider, subject to the requirement of the Data Protection Act 1998 and associated regulations.
 
-Back to top 
+**Back to top**
 
 ### Cookies
 
@@ -132,7 +137,7 @@ Other cookies can tell us if you come back. These are ‘persistent cookies’, 
 Some cookies enable sites to work, while others help us learn about what people are browsing for.   
 
 
-Back to top  
+**Back to top   **
 
 ### How we use cookies 
 
@@ -158,7 +163,7 @@ Rest assured that the cookies we use do not store personal details, such as paym
 **4\. Targeting or advertising cookies**  
 **In brief** These cookies collect anonymous information about your browsing habits which are then used to make advertising relevant to you. They remember if you have visited a website and share this information with advertisers.
 
-**For example  **These may be used by third parties to serve advertisements on our behalf across the internet based on your interaction with Saga's website through cookies and other technologies. This information may be used by us and our third parties to analyse and track data, as well as to deliver advertising and content that is based on your interests. These services are provided by our carefully selected and monitored partners, and we are committed to ensuring any information is used appropriately.
+**For example  **These may be used by third parties to serve advertisements on our behalf across the internet based on your interaction with Saga's website through cookies, quizzes and other technologies. This information may be used by us and our third parties to analyse and track data, as well as to deliver advertising, marketing and content that is based on your interests. These services are provided by our carefully selected and monitored partners, and we are committed to ensuring any information is used appropriately.
 
 Back to top  
 
@@ -167,7 +172,7 @@ Back to top  
 We often link off to other sites to help provide you with extra information or services. For example, to make it easy for you to share information with your family and friends, we provide links to Twitter, Facebook and other popular social media or book-marking sites. But remember, these sites may use cookies that we do not control. So be sure to check how they use your information.   
 
 
-Back to top  
+**Back to top   **
 
 ### How you can control cookies 
 
@@ -183,16 +188,16 @@ How you manage your cookies depends on your browser. To find out which browser y
 
 If you would prefer to restrict or block cookies and/or delete any you may already have, then follow the how-to guide, which covers the most popular browsers, below:
 
-  * [How to accept cookies](http://www.saga.co.uk/privacy-policy.aspx#_Toc368658488)
-  * [How to view cookies](http://www.allaboutcookies.org/manage-cookies/)
-  * [How to delete cookies](http://www.saga.co.uk/privacy-policy.aspx#_Toc368658489)
-  * [Mobile and Tablet accepting and deleting cookies](http://www.saga.co.uk/privacy-policy.aspx#_Toc368658499)
+  * **[How to accept cookies](http://www.saga.co.uk/privacy-policy.aspx#_Toc368658488)**
+  * **[How to view cookies](http://www.allaboutcookies.org/manage-cookies/)**
+  * **[How to delete cookies](http://www.saga.co.uk/privacy-policy.aspx#_Toc368658489)**
+  * **[Mobile and Tablet accepting and deleting cookies](http://www.saga.co.uk/privacy-policy.aspx#_Toc368658499)**
 
 
 
- If you would like to know more about cookies you can visit [www.allaboutcookies.org](http://www.allaboutcookies.org/) which explains in detail how they can work and can be managed.
+ If you would like to know more about cookies you can visit **[www.allaboutcookies.org](http://www.allaboutcookies.org/)** which explains in detail how they can work and can be managed.
 
-Back to top  
+**Back to top   **
 
 ## 
 
@@ -276,7 +281,7 @@ Back to top  
 
 
 
-Back to top  
+**Back to top   **
 
 ## 
 
@@ -376,7 +381,7 @@ To remove cookies follow the steps in this section. Do not try to edit the cooki
 
 If you are not using any of the above browsers, then select 'cookies' in the 'Help' function for information on where to find your cookie folder.
 
-Back to top  
+**Back to top   **
 
   
 
@@ -474,7 +479,7 @@ These are only for the built in browsers on phones and tablets. Please refer to 
 
 
 
-Back to top 
+**Back to top  **
 
   
 
@@ -495,7 +500,7 @@ We may of course be obliged at law to pass on your information to the police or 
 
 See also **How we use the information you provide us** above for information on how we may exchange personal data with third parties to help us prevent fraud and money laundering, to assist us in providing a quote, or to check which payment options we can make available to you. 
 
-Back to top  
+**Back to top   **
 
 ## 
 
@@ -503,7 +508,7 @@ Back to top  
 
 Personal and/or sensitive personal data of an employee and his or her spouse or partner who take out a product and/or service may be shared to any group company for the purpose of operation of the product or service or for administrative reasons (including but not limited to claim administration, which may be assisted by the employee's department personnel). By accepting or purchasing the product or service the employee and his or her spouse or partner provide the necessary consent for this transfer of data.
 
-Back to top  
+**Back to top   **
 
 ## 
 
@@ -513,7 +518,7 @@ Saga groups of companies have adopted the following procedure in gaining your co
 
 When you first make an enquiry of or buy a product from Saga Group you consent to receiving marketing about other products and services from us. Your details are placed on our marketing list for the group and a 'questionnaire' will be sent to you; it may be sent electronically. This questionnaire gives a list of all the products of the group, and the option of choosing which products you would or would not like to receive information about. You can also choose not to receive any marketing from us. Once you have chosen what you would like to receive we ask you to return the completed form back to us. The marketing selections will be administered where applicable.
 
-Back to top  
+**Back to top   **
 
 ## 
 
@@ -521,7 +526,7 @@ Back to top  
 
 Please advise us in writing as to any changes in your circumstances. Obviously it is preferable for us to retain up to date information. We will amend details as required. We are, however, obliged and permitted by law and regulation to retain certain types of data for a minimum period of time. The minimum period of time tends to be for six years but can be longer if the statute or regulation requires.
 
-Back to top  
+**Back to top   **
 
 ## 
 
@@ -534,7 +539,7 @@ Requests relating to Allied Healthcare should be made to the branch manager of y
 We will not administer Subject Access Requests by a third party unless accompanied by a written authority of the individual who is the subject of the request.  
  
 
-Back to top  
+**Back to top   **
 
 ## 
 
@@ -542,7 +547,7 @@ Back to top  
 
 You may change the type of material sent to you at any time. Saga allows you to select which products you wish to receive information about, and to cancel any previous expressions of interest in particular areas. If you wish to take advantage of this, for Saga products please write to Information Processing at The Saga Building, Enbrook Park, Sandgate, Kent CT20 3SE.
 
-Back to top
+**Back to top**
 
 ## 
 
@@ -550,7 +555,7 @@ Back to top
 
 If we decide to change our privacy policy, we will update all relevant documentation and post any changes on our websites so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it.
 
-Back to top 
+**Back to top  **
 
 ## 
 
@@ -560,7 +565,7 @@ We welcome your questions and comments about privacy.
 
 Please write to The Group Data Protection Officer, The Saga Building, Enbrook Park, Sandgate, Kent CT20 3SE.
 
-Back to top 
+**Back to top  **
 
 ## 
 
