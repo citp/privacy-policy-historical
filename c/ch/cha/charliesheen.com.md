@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the charliesheen.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231024704id_/http%3A//www.whosay.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the charliesheen.com privacy policy that was archived on 2015-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150619070724id_/http%3A//www.whosay.com/privacy) for the most accurate reproduction.*
 
 # WhoSay - Privacy Policy
 
