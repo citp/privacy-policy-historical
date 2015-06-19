@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the downloadsf.com privacy policy that was archived on 2014-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141212201225id_/http%3A//downloadsf.com/en/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the downloadsf.com privacy policy that was archived on 2015-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150619164836id_/http%3A//downloadsf.com/en/policy) for the most accurate reproduction.*
 
 # downloadsf.com
 
@@ -8,7 +8,7 @@ This website collects some Personal Data of its Users.
 
 Information rights and express consent
 
-According to what is set forth in current Privacy Policy, ADVERTISO GMBH, as owner of the Website, informs the User that files containing personal data from users and customers have been created by Downloadsf, which accepts responsibility for the files, duly filed with the corresponding public entity.
+According to what is set forth in current Privacy Policy, Advertiso GmbH, as owner of the Website, informs the User that files containing personal data from users and customers have been created by Downloadsf, which accepts responsibility for the files, duly filed with the corresponding public entity.
 
 Downloadsf does not sell or rent its users' personal data to third parties with commercial purposes without the user' prior consent. However, Downloadsf is enabled to disclose personal data in order to (i) fulfill a legal requirement, (ii) demand the fulfillment of our policies, (iii) answer claims regarding the breach or protection of any third party's rights or its property or security, in the event they are affected by advertisements or contents. Downloadsf is enabled, as well, to share or transfer your personal information to:
 
@@ -20,10 +20,10 @@ Parties processing the data
 
 Owner of the Data Processing System
 
-ADVERTISO GMBH   
+Advertiso GmbH   
 Pappelallee 28   
-22081 Hamburg   
-Email: kontakt @ advertiso.de
+22089 Hamburg   
+Email: kontakt@u3media.de
 
 Kinds of Data
 
@@ -221,13 +221,10 @@ The User is entitled to access this information, correct it if there are mistake
 
 Users can exercise these rights via the configuration menu in their personal profile, which they can access using their email address and password. If users experience problems while exercising their online rights or if they have doubts or questions related to our Personal Data Protection Policy they can contact us directly at: 
 
-ADVERTISO GMBH
-
-Kiebitzhof 1a
-
-22081, Hamburg
-
-Email: kontakt @ advertiso.de
+Advertiso GmbH   
+Pappelallee 28   
+22089 Hamburg   
+Email: kontakt@u3media.de
 
 Modification of the Data Protection Policy
 
