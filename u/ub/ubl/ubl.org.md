@@ -1,14 +1,6 @@
-> *The following text is extracted and transformed from the ubl.org privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702063615id_/https%3A//www.ubl.org/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ubl.org privacy policy that was archived on 2015-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150619053724id_/https%3A//www.ubl.org/privacy.aspx) for the most accurate reproduction.*
 
 # Universal Business Listing | List, Manage, Grow
-
-  * [Check Your Visibility!](http://search.ubl.org/)
-  * [Choose a Package](https://web.archive.org/web/20140702063615id_/https%3A//www.ubl.org/compare.aspx?newlisting=true)
-  * Services
-  * Resellers
-  * Help
-
-
 
 This Privacy Policy relates to the general website use. Please also see our [Terms and Conditions](https://web.archive.org/terms.aspx) and be advised that the data submitted to UBL for distribution to search engines is by its nature public; for this reason, users should not provide any information that is deemed private or copyrighted. Exceptions include any account login or password information and payment information used to order or manage the profile data itself.
 
