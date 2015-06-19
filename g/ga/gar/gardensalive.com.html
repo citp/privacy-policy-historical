@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the gardensalive.com privacy policy that was archived on 2014-12-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141221011654id_/http%3A//www.gardensalive.com/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the gardensalive.com privacy policy that was archived on 2015-06-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150619174458id_/http%3A//www.gardensalive.com/privacy_policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><!-- META TAGS/CSS/JS INCLUDES --><head>
  <title>Gardens Alive! - Environmentally Friendly Products that Work</title>
@@ -38,7 +38,9 @@
  <![endif]-->
 
    
-   
+    
+ 
+
   <link rel="stylesheet" href="//ajax.googleapis.com/ajax/libs/jqueryui/1.9.2/themes/base/jquery-ui.css" type="text/css">
  <script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-5P2CFS"></script><script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
  <script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.9.2/jquery-ui.min.js"></script>
@@ -102,19 +104,21 @@
 <script type="text/javascript" src="/left_slider_js.js"></script>
 
 
+
 <script src="//murdoog.cachefly.net/js/ucx-mgx-1.1k.min.js"></script>
 <script>MGX.AccessKey = "864A1E69"; MGX.Keycode = ""; MGX.Uid = "";</script>
 <script>
 var ucCommit = MGX.Commit;
 MGX.Commit = function(e) {
     var i = ucCommit(e);
-    var u = i.replace("apis.murdoog.com/mgx_1_1","api.universalcookie.com");
-    jQuery.getJSON(u);
+    var u = i.replace("apis.murdoog.com/mgx_1_1","api.universalcookie.com");     
+    var o = jQuery.getJSON(u);
+    setTimeout(function() {
+        "undefined" != typeof o && o.abort()
+    }, 3000); 
     return u;
 }
 </script>
-
-
 
 <script>
 dataLayer = [{
@@ -741,12 +745,12 @@ $(function() {
     <li>
    <a href="/category/tools">Tools</a>
     </li>
-                                                                                                                                                            
+                                                                                                                                                                                                  
 </ul>
 </aside><aside class="mid_tiles div_239 ga_midtile">
                     <h2 class="mid_title bubble">New!</h2>
                     <div class="mid_discription">
-                        <img src="http://cdn.gardensalive.com/images/NewandFeatured/4911.jpg" alt="" class="left">
+                        <img src="http://cdn.gardensalive.com/images/NewandFeatured/4880.jpg" alt="" class="left">
                         <span>See What’s NEW! this Season!<br><br>
                         <a href="/category/new-items"><input type="button" value="Shop Now" class="button_orange"></a>
                         </span>
@@ -843,26 +847,106 @@ If you would like to give us your feedback regarding our privacy policy and prac
         
         <section class="join_email">
             <div class="left" style="margin:0 10px;">
-            	<h3 class="f18">Join the Email List</h3>
-                <ul class="Ullinks">
-                	<li class="join_email_form">
-                            <section id="newsletter">
-<form method="post" action="/newsletter_request" name="newsletter" onsubmit="if (newsletter.add_email.value=='Enter email address') newsletter.add_email.value='';"> 
-    <input type="hidden" name="method" value="emailsignup">
-  <input type="hidden" name="to_email" value="me@domain.com">
-  <input type="hidden" name="from_email" value="info@domain.com">
-  <input required="" type="email" name="add_email" value="Enter email address" size="15" onfocus="if (this.value=='Enter email address') this.value='';" onblur="if (this.value=='') this.value='Enter email address';">  <input type="hidden" name="marketing_cat" value="Newsletter Requests">
-
-  <input type="submit" name="submit" value="Go" class="button_red">
- </form>
-</section>
+            	                <ul class="Ullinks">
+                	
+                    		
 
 
 
+<script type="text/javascript">
+  function check_keycode(){
+
+  
+          $.post("promo_message_test", {
+                  p: "0165702"
+          }, function(response){
+                  
+          });
+          return false;
+  }
+
+</script>  
+ 
 
 
 
-                                                </li>
+
+
+
+
+
+<!-- HERO OFFER BOX FORMAT ON HOMEPAGE -->
+
+
+<!-- OFFER BOX FORMAT ON DROPDOWNS -->
+
+<!-- BANNER FORMAT ON CATEGORY PAGES -->
+
+<!-- TEXT FORMAT ON PRODUCT PAGES -->
+
+
+<!-- BANNER FORMAT ON NEWSLETTER PAGE -->
+
+
+
+<!-- BANNER FORMAT ON FOOTER -->
+
+    
+      <!-- EMAIL SIGNUP -->
+    <div id="promomsgnewsltrcont">
+    
+    <li class="join_email_form">
+        <form method="post" id="promomsgnewsltrf" action="/newsletter" name="promomsgnewsltrf" onsubmit="return promomsgnewsltr_set_email('footer:promo_message')">
+        <h3 class="f18">Join the Email List</h3>
+          <input type="hidden" name="method" value="emailsignup">
+          <input type="hidden" name="to_email" value="me@domain.com">
+          <input type="hidden" name="from_email" value="info@domain.com">
+          <input type="hidden" name="location" value="email_offer::footer">          
+          <input required="" type="email" name="add_email" value="Enter email address" size="15" onfocus="if (this.value=='Enter email address') this.value='';" onblur="if (this.value=='') this.value='Enter email address';">          
+          <input type="hidden" name="marketing_cat" value="Newsletter Requests">
+          
+          <input type="submit" name="submit" value="Go" class="button_red">        
+        </form>
+        </li>
+    </div>
+    <div id="promomsgnewsltrfthanks" style="display:none; width:100%; text-align:center;">
+      <li class="join_email_form"><div align="left"><h3 class="f18">Thank you!</h3>
+      <p>Your offer has been applied.</p></div></li>
+    </div>
+    
+    
+
+<script>
+
+function promomsgnewsltr_set_email(form){
+  var aEmail = $('#promomsgnewsltr').find('input[name="add_email"]').val();
+  var fEmail = $('#promomsgnewsltr').find('input[name="from_email"]').val();
+  var tEmail = $('#promomsgnewsltr').find('input[name="to_email"]').val();  
+  var bEmail = $('#promomsgnewsltrf').find('input[name="add_email"]').val(); 
+  if((aEmail.length <= 0) || (aEmail=="Enter Your Email Address Here")) {
+    $("#promomsgnewsltrerr").show();
+    alert("Email address is required");
+    return false;
+  }
+  else {
+    $("#promomsgnewsltrerr").hide();
+    $.post("index.php", { action: "NewsletterRequest", to_email: tEmail, from_email: fEmail, add_email: aEmail } );
+    $.post("/newsletter_request", { method: "emailsignup", to_email: tEmail, from_email: fEmail, add_email: aEmail, location: "email_offer::banner" } );
+    //UCX.LogContact("864A1E69", "", aEmail, "", "email_offer:privacy_policy:banner", "");
+    windowshade_setCookie('emailCollected','true',15);
+    $('#promomsgnewsltrcont').hide();
+    $('#promomsgnewsltrthanks').show(); 
+	$('#promomsgnewsltrf').hide(); 
+    $('#promomsgnewsltrfthanks').show(); 
+    return false;
+  }
+    
+  return false;
+}  
+
+</script><!--
+<promo_code></promo_code>-->
+                                                                                              
                     <li><strong>Order By Phone: (513) 354-1482</strong></li>
                     <li>5100 Schenley Place</li>
                     <li>Lawrenceburg, Indiana 47025</li>
@@ -884,7 +968,7 @@ If you would like to give us your feedback regarding our privacy policy and prac
         <section class="copyright">
         	<img class="left" src="http://cdn.gardensalive.com/images/footer_checkout_images-new.png" alt="Gardens Alive Payment" title="Gardens Alive Payment">
             <div class="right copyright_div">
-            	© 2014 by Gardens Alive! Inc, All Rights Reserved <br>Gardens Alive! trademarks are registered trademarks of Gardens Alive! Inc.
+            	© 2015 by Gardens Alive! Inc, All Rights Reserved <br>Gardens Alive! trademarks are registered trademarks of Gardens Alive! Inc.
             </div>
         </section>
     </footer>
