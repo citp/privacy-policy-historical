@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the winzipsystemtools.com privacy policy that was archived on 2014-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141224093329id_/http%3A//www.winzip.com/win/en/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the winzipsystemtools.com privacy policy that was archived on 2015-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150619132045id_/http%3A//www.winzipsystemtools.com/privacy.htm) for the most accurate reproduction.*
 
-# WinZip® - Privacy Statement
+# WinZip® Privacy Statement
 
 At WinZip, we recognize and value our customers' privacy. As such, WinZip Computing S.L., a Corel company, is committed to ensuring that its customers are informed how their personal information will be used and kept secure. This privacy policy applies to information collected by WinZip and its affiliates ("WinZip") through the websites, products and services that display this privacy policy, including products and services that may be provided by WinZip off-line. This privacy policy applies to all WinZip products and services currently offered by WinZip.
 
-WinZip will not contact you for marketing purposes unless you have opted to be contacted. If you prefer not to receive email from WinZip, or if you've changed your email address, [click here](https://web.archive.org/win/en/mailchange.htm).
+WinZip will not contact you for marketing purposes unless you have opted to be contacted. If you prefer not to receive email from WinZip, or if you've changed your email address, [click here](http://www.winzip.com/win/en/mailchange.htm).
 
 Except as set forth in Section 2, Section 6, Section 7 and Section 16 of this privacy policy, WinZip will not share any of your personal information with third parties without first obtaining your consent.
 
@@ -26,7 +26,7 @@ You may provide us with personal information when you telephone or email us to r
 
 **Email/Direct Mail Campaigns That You Approved**
 
-From time to time we may contact you directly by mail, email or telephone informing you about upgrades, new products, promotions or special offers that you told us you were interested in receiving. When responding to one of these campaigns, you may provide us with personal information. If you want to stop receiving promotional and information materials from us, you can follow the unsubscribe instructions at the bottom of each email, contact us at help@winzip.com or [click here](https://web.archive.org/win/en/mailchange.htm).
+From time to time we may contact you directly by mail, email or telephone informing you about upgrades, new products, promotions or special offers that you told us you were interested in receiving. When responding to one of these campaigns, you may provide us with personal information. If you want to stop receiving promotional and information materials from us, you can follow the unsubscribe instructions at the bottom of each email, contact us at help@winzip.com or [click here](http://www.winzip.com/win/en/mailchange.htm).
 
 **Registration of Products**
 
@@ -158,7 +158,7 @@ WinZip's website is a general audience site that is neither designed nor intende
 
 We take reasonable steps to ensure that the information that we receive from you is accurate and kept up to date. You have the right to access your personal information, to verify its accuracy, and to correct inaccurate information.
 
-If you do not want to be contacted for product, service or marketing initiatives, or if you would like to be removed from any direct marketing initiatives, corporate surveys, telemarketing or direct mail or e-mail lists, or if you would otherwise like to limit our use or disclosure of your personal information, please contact us at [help@winzip.com](mailto:help@winzip.com) or [click here](https://web.archive.org/win/en/mailchange.htm).
+If you do not want to be contacted for product, service or marketing initiatives, or if you would like to be removed from any direct marketing initiatives, corporate surveys, telemarketing or direct mail or e-mail lists, or if you would otherwise like to limit our use or disclosure of your personal information, please contact us at [help@winzip.com](mailto:help@winzip.com) or [click here](http://www.winzip.com/win/en/mailchange.htm).
 
 Some of our products display dynamic on-line communications (for example, through a message center), and you may elect not to receive these communications (e.g. such as product updates) by altering your message preferences in the specific product. However, any alterations you make to these product-specific message preferences will not change your general user preferences with regard to the collection and use of your personal information by WinZip. Alternatively, altering your general user preferences with regard to the collection and use of your personal information by WinZip will not change your product-specific message preferences.
 
@@ -190,6 +190,6 @@ We are always looking for ways to improve our business and our practices. Conseq
 
 Any requests for access to your information, modification of your information or questions in respect of this policy should be sent to the following email address [help@winzip.com](mailto:help@winzip.com).
 
-WinZip offers you other methods to opt out of receiving communications generated by WinZip. For example, you may "unsubscribe" from emails by following the process listed in the email to unsubscribe. If you prefer not to receive email from WinZip, or if you've changed your email address, [click here](https://web.archive.org/win/en/mailchange.htm).
+WinZip offers you other methods to opt out of receiving communications generated by WinZip. For example, you may "unsubscribe" from emails by following the process listed in the email to unsubscribe. If you prefer not to receive email from WinZip, or if you've changed your email address, [click here](http://www.winzip.com/win/en/mailchange.htm).
 
 Last Updated: August 2011
