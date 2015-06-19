@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mandrill.com privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227072819id_/http%3A//mandrill.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mandrill.com privacy policy that was archived on 2015-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150619020411id_/http%3A//www.mandrill.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Mandrill
 
@@ -28,8 +28,8 @@ If you have any questions or comments, or if you want to update, delete, or chan
 
 MailChimp  
 Privacy Department  
-512 Means St. Suite 404  
-Atlanta, GA 30318 
+675 Ponce De Leon Ave NE, Suite 5000  
+Atlanta, GA 30308 
 
 If you’re not satisfied with our response you can [contact TRUSTe](https://feedback-form.truste.com/watchdog/request).
 
