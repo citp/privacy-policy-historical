@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the fifthsun.com privacy policy that was archived on 2014-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140410014223id_/http%3A//www.fifthsun.com/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fifthsun.com privacy policy that was archived on 2015-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150619201623id_/http%3A//www.fifthsun.com/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
 
-# Privacy Policy
+# Fifth Sun - Privacy Policy
 
 ## WEBSITE PRIVACY POLICY EFFECTIVE DATE: March 21, 2013
 
-1\. INTRODUCTION. Fifth Sun ("us," "we," "Company," or TT") is committed to respecting the privacy rights of its customers, visitors, and other users of the Company Website ("the Site") at www.toptees.com and the services provided through the Site (the "Services"). We created this Website Privacy Policy ("Privacy Policy") to give you confidence as you visit and use the Site, and to demonstrate our commitment to fair information practices and the protection of privacy. This Privacy Policy is only applicable to the Site, and not to any other websites that you may be able to access from the Site, each of which may have data collection, storage, and use practices and policies that differ materially from this Privacy Policy.
+1\. INTRODUCTION. ("us," "we," "Company," or TT") is committed to respecting the privacy rights of its customers, visitors, and other users of the Company Website ("the Site") at www.toptees.com and the services provided through the Site (the "Services"). We created this Website Privacy Policy ("Privacy Policy") to give you confidence as you visit and use the Site, and to demonstrate our commitment to fair information practices and the protection of privacy. This Privacy Policy is only applicable to the Site, and not to any other websites that you may be able to access from the Site, each of which may have data collection, storage, and use practices and policies that differ materially from this Privacy Policy.
 
 BY USING THE SITE, YOU AGREE TO BE BOUND BY THE TERMS OF THIS PRIVACY POLICY. IF YOU DO NOT AGREE WITH THESE TERMS, PLEASE DO NOT USE THE SITE.
 
@@ -20,7 +20,7 @@ We use commercially reasonable efforts to ensure that the collection of Personal
 
 (2.3) POSTING. We store and may publicly display the information that you submit or post to the Site for public display, such as product reviews.
 
-(2.4) CONTACTING Fifth Sun. If you contact us to provide feedback, register a complaint, or ask a question, we will record any Personal Information and other content that you provide in your communication so that we can effectively respond to your communication. Any such contact with Fifth Sun should be made pursuant to Section 9, below.
+(2.4) CONTACTING . If you contact us to provide feedback, register a complaint, or ask a question, we will record any Personal Information and other content that you provide in your communication so that we can effectively respond to your communication. Any such contact with should be made pursuant to Section 9, below.
 
 (2.5) ENFORCEMENT. We may use the information we collect in connection with your use of the Site or Services in order to investigate, enforce, and apply our Terms of Use and Privacy Policy.
 
@@ -34,7 +34,7 @@ If you do not want us to share your Contact Data with third parties unrelated to
 
 4\. CONFIDENTIALITY AND SECURITY OF PERSONAL INFORMATION. Except as otherwise provided in this Privacy Policy, we will keep your Personal Information private and will not share it with third parties, unless such disclosure is necessary to: (a) comply with a court order or other legal process; (b) protect our rights or property; or (c) enforce our Terms of Use. Your Personal Information is stored on secure servers that are not accessible by third parties. We provide you with the capability to transmit you Personal Information via secured and encrypted channels if you use a similarly equipped web browser.
 
-Furthermore, your account is password protected. We limit the access to your Personal Information to those employees and contractors who need access to perform their job function. If you have any questions about the security on the Site, please contact us at service@designbyhumans.com. Although we take appropriate measures to safeguard against unauthorized disclosures of information, we cannot assure you that your Personal Information will never be disclosed in a manner that is inconsistent with this Privacy Policy. YOU HEREBY ACKNOWLEDGE THAT Fifth Sun IS NOT RESPONSIBLE FOR ANY SUCH INADVERTENT DISCLOSURES OR ANY INTERCEPTED INFORMATION SENT VIA THE INTERNET, AND YOU HEREBY RELEASE US FROM ANY AND ALL CLAIMS ARISING OUT OF OR RELATED TO THE USE OF INTERCEPTED INFORMATION IN ANY UNAUTHORIZED MANNER.
+Furthermore, your account is password protected. We limit the access to your Personal Information to those employees and contractors who need access to perform their job function. If you have any questions about the security on the Site, please contact us at service@designbyhumans.com. Although we take appropriate measures to safeguard against unauthorized disclosures of information, we cannot assure you that your Personal Information will never be disclosed in a manner that is inconsistent with this Privacy Policy. YOU HEREBY ACKNOWLEDGE THAT IS NOT RESPONSIBLE FOR ANY SUCH INADVERTENT DISCLOSURES OR ANY INTERCEPTED INFORMATION SENT VIA THE INTERNET, AND YOU HEREBY RELEASE US FROM ANY AND ALL CLAIMS ARISING OUT OF OR RELATED TO THE USE OF INTERCEPTED INFORMATION IN ANY UNAUTHORIZED MANNER.
 
 5\. USER ABILITY TO ACCESS, UPDATE, AND CORRECT PERSONAL INFORMATION. We maintain a procedure in order to help you confirm that your Personal Information remains correct and up-to-date. At any time, you may visit your account information at the "My Account" webpage on the Site. Through your "My Account" webpage you may: (a) review and update your Personal Information that we have already collected; (b) choose whether or not you wish us to send you information about our company, or promotional material from third parties.
 
@@ -46,10 +46,10 @@ Furthermore, your account is password protected. We limit the access to your Per
 
 9\. SECURE SHOPPING. Although all Financial Data shall be collected by our third party business partners, we use Secure Socket Layer (SSL) encryption technology, the industry-standard authentication and encryption technology, to protect personal information that we collect. With SSL implemented on both the client and server, information transmitted over the Internet will remain unaltered and secure. In order for SSL security to work, you must use an SSL enabled browser. Most Netscape and Explorer browsers, version 3.x and later, support SSL. If you still have any concerns about ordering electronically, feel free to contact us to place your order over the phone. Please note that email is not encrypted and is not considered a secure means of transmitting credit card numbers. We will never ask for sensitive information via email.
 
-10\. METHOD OF CONTACT. If you have a question or concern regarding this Privacy Policy, believe that this Privacy Policy has been violated, you may e-mail Fifth Sun at service@toptees.com or write to the Fifth Sun at the following address:
+10\. METHOD OF CONTACT. If you have a question or concern regarding this Privacy Policy, believe that this Privacy Policy has been violated, you may e-mail at service@toptees.com or write to the at the following address:
 
-Privacy Policy Agent   
-Fifth Sun  
+Privacy Policy Agent 
+
 1262 Humboldt Ave.  
 Chico, CA 95928
 
