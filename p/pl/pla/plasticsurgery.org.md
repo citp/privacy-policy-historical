@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the plasticsurgery.org privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122155206id_/http%3A//www.plasticsurgery.org/privacy-.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plasticsurgery.org privacy policy that was archived on 2015-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150619201609id_/http%3A//www.plasticsurgery.org/privacy-.html) for the most accurate reproduction.*
 
 # Privacy on the ASPS Website
 
@@ -37,6 +37,8 @@ ASPS may use Remarketing with Google Analytics to advertise online. Third-party 
 ASPS and third-party vendors, including Google, may use first-party cookies (such as the Google Analytics cookie) and/or third-party cookies (such as the DoubleClick cookie), alone or together, to report how ASPS ad impressions, other uses of ad services, and interactions with these ad impressions and ad services are related to visits to this site.
 
 ASPS may use data from Google’s Interest-based advertising or third-party audience data (such as age, gender, and interests) with Google Analytics to analyze how visitors use the site, to provide general profiles about visitors to the site, to analyze trends and statistics, and to improve design, content and marketing of this web site, its services and products.
+
+ASPS may use the “conversion tracking pixel” provided by Facebook.com (“Facebook”) to record the efficacy of Facebook’s advertisements for statistical and market research purposes. This tool allows ASPS to gather information on your actions after you are redirected to a third party’s website by clicking on a Facebook advertisement on this web site. The data ASPS collects using this tool are anonymous and not personally identifiable by ASPS. However, Facebook may save and process the collected data and may connect data to your Facebook account to use for Facebook’s advertising purposes in accordance with Facebook’s Data Policy (available at: <https://www.facebook.com/about/privacy/>). Facebook and its partners may use this data to show you advertisements on both Facebook.com and other third party websites. Facebook or its partners may use a cookie to facilitate the display of advertisements.
 
 ### Other sites
 
