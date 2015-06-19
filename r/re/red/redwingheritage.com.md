@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the redwingheritage.com privacy policy that was archived on 2014-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141018212641id_/http%3A//www.redwingheritage.com/USD/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redwingheritage.com privacy policy that was archived on 2015-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150619202851id_/http%3A//www.redwingheritage.com/USD/page/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Red Wing Heritage
 
-This Red Wing Heritage Privacy Policy (this or the **"Privacy Policy")** explains our practices, defines our users' (" **you** " or " **your** ") privacy options and describes how your information is collected and used by Red Wing Shoe Company, Inc. (" **we** ," " **us** ," " **our** ," or " **Red Wing** "). 
+This Red Wing Heritage Privacy Policy (this or the **"Privacy Policy")** explains our practices, defines our users' (" **you** " or " **your** ") privacy options and describes how your information is collected and used by Red Wing Brands of America, Inc. (" **we** ," " **us** ," " **our** ," or " **Red Wing** ").
 
 **By using the Red Wing Heritage website or any of our products, services, features, tools, or resources you agree to the terms of this Privacy Policy and our Terms of Use.**
 
@@ -10,7 +10,7 @@ We reserve the right to modify this policy from time to time and will mark new v
 
 This Privacy Policy, along with our **Terms of Use** , governs your use of the Red Wing Heritage website at [www.redwingheritage.com](http://www.redwingheritage.com/) (" **Site** ") and any other links through social media platforms such as Facebook or Twitter. For the purposes of this Privacy Policy, we will refer to all of these access points as the Red Wing Heritage system (" **System** "). 
 
-Our Site may contain links to other websites. Except for direct links to our suppliers when clicking the "Where to Buy" link, these links are not endorsements of any products or services on such websites. These websites may have privacy policies different than our Privacy Policy.
+Our Site may contain links to other websites. Except for direct links to our product suppliers, these links are not endorsements of any products or services on such websites. These websites may have privacy policies different than our Privacy Policy.
 
 **What Information is Collected?**  
 We may collect personal information from you on our Site or through any other digital or personal communication with you in the System. Information collected by us is voluntarily provided by you and may include information such as your name, email address, and physical address. **** Our Site may also collect general information about your technology interface or preferences (such as the type of browser used or the files requested). Additionally, we may collect information regarding the retailers you visit and other information, as described in this Privacy Policy.
@@ -18,6 +18,7 @@ We may collect personal information from you on our Site or through any other di
 The information we may collect includes, but may not be limited to:
 
   * Your contact information to register to receive updates, promotions and catalogues from us, such as your first name, last name, and email address;
+  * Information to process your purchases, such as your name, credit card information, shipping information and products purchased;
   * Your transaction history relating to the use of our products and services ;
   * Information regarding your browser and other technical specifications required to use our Site;
   * If we offer alternative sign ins, we may collect certain sign on information you have provided to third parties, such as Facebook or Twitter, when you sign on to use our Site or System through these third parties **;**
@@ -33,9 +34,11 @@ Our Site and System are not designed for children and we do not knowingly collec
 **How is User Information Used and Shared?**  
 We collect information about you in order to provide you with services and products and also collect information that is necessary for our Site to work properly. We use personal information about our users for a variety of purposes related to our business, including but not limited to:
 
+  * Processing your product purchase, including the processing of payment information, product information and responses regarding specific questions on availability;
   * Allowing you to receive information from us regarding Red Wing Heritage products;
   * Adding information from social media platforms to our Site where you discuss our products or use a hashtag related to our products;
   * Tracking information about your visits to our Site to allow us to provide better service;
+  * Tracking information regarding your specific purchases, back-orders, return and order status;
   * Using certain online preferences in the aggregate across all users to evaluate our Site and develop additional products and services to offer;
   * Sending or initiating direct marketing programs, such as newsletters or information about new products or services we (or any of our affiliated companies) are offering;
   * Contacting you regarding an inquiry on our Site that you have initiated;
@@ -52,7 +55,7 @@ We may provide user information to third-party service providers or vendors for 
 We may also use third-party vendors, such as Google Analytics, to advertise to our users online. These third-party vendors may display Red Wing Heritage or other Red Wing product advertisements on other websites based on your internet usage. More specifically, these vendors use first-party cookies (such as the Google Analytic cookie) and third-party cookies (such as the DoubleClick cookie) together to inform, optimize, and serve ads based on your past visits to the Site or another site affiliated with Red Wing products. Any information that these third parties collect via cookies is not linked to any personally identifiable information (name, address, email address, or phone number) we collect or you provide on the website. You can opt-out of Google Analytics for Display Advertising by using Google's Ads Settings.
 
 **How is User Information Protected?**  
-We maintain administrative, physical, and technical safeguards for all user information collected in our System. All Red Wing Heritage products you purchase are from third-party sites, so we do not receive your financial account information for purchases from online retailers made in connection with our products.
+We maintain administrative, physical, and technical safeguards for all user information collected in our System. We maintain an SSL Certificate through Symantec for all customer transactions.
 
 **How Can Users Limit Information Collected?**  
 By providing information to us or browsing our Site, you are consenting to our use of your data as outlined in this Privacy Policy.
@@ -71,6 +74,6 @@ California Civil Code Section § 1798.83 permits users of our Site that are Cali
 **Contacting Us**  
 For additional information pertaining to our Privacy Policy, please contact: 
 
-**Red Wing Shoe Company, Inc.**  
+**Red Wing Brands of America, Inc.**  
 **314 Main St  
 Red Wing MN 55066**
