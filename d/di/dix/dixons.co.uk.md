@@ -1,50 +1,53 @@
-> *The following text is extracted and transformed from the dixons.co.uk privacy policy that was archived on 2014-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141203124457id_/http%3A//www.currys.co.uk/gbuk/privacy-on-currys-321-commercial.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dixons.co.uk privacy policy that was archived on 2015-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150619080614id_/http%3A//www.currys.co.uk/gbuk/privacy-on-currys-321-commercial.html) for the most accurate reproduction.*
 
 # Cookie Guide & Privacy Information | Currys
 
   * [Home](http://www.currys.co.uk/gbuk/index.html)
   * [Kitchen Appliances](http://www.currys.co.uk/gbuk/household-appliances-35-u.html)
-    * [Hosting this Christmas?](http://www.currys.co.uk/gbuk/household-appliances-35-u.html)
     * [Laundry](http://www.currys.co.uk/gbuk/household-appliances/laundry-dishwashers-332-c.html)
     * [Dishwashers](http://www.currys.co.uk/gbuk/household-appliances/laundry-dishwashers/dishwashers/332_3123_30210_xx_xx/xx-criteria.html)
     * [Refrigeration](http://www.currys.co.uk/gbuk/household-appliances/refrigeration-333-c.html)
     * [Cooking](http://www.currys.co.uk/gbuk/household-appliances/cooking-335-c.html)
     * [Built-in Appliances](http://www.currys.co.uk/gbuk/built-in-appliances-60-u.html)
-    * Cooking Accessories
+    * [Cooking Accessories](http://www.currys.co.uk/gbuk/household-appliances/small-kitchen-appliances/kitchen-accessories/336_3166_30254_xx_xx/xx-criteria.html)
     * Brand shops
     * [Services](http://www.currys.co.uk/gbuk/knowhow-household-608-commercial.html)
     * [Buying for business?](http://www.currys.co.uk/gbuk/pc-world-business-1262-commercial.html?intcmp=business-nav-kitchen-appliances)
   * [Small Appliances](http://www.currys.co.uk/gbuk/home-appliances-36-u.html)
     * [Floorcare](http://www.currys.co.uk/gbuk/home-appliances/vacuum-cleaners-337-c.html)
     * [Ironing](http://www.currys.co.uk/gbuk/home-appliances/ironing-338-c.html)
+    * [Sewing machines](http://www.currys.co.uk/gbuk/home-appliances/sewing-machines/sewing-machines/470_4135_31889_xx_xx/xx-criteria.html)
     * [Health & beauty](http://www.currys.co.uk/gbuk/home-appliances/health-beauty-341-c.html)
     * [Small kitchen appliances](http://www.currys.co.uk/gbuk/household-appliances/small-kitchen-appliances-336-c.html)
     * [Fans & heaters](http://www.currys.co.uk/gbuk/home-appliances/fans-air-conditioning-340-c.html)
     * [Microwaves](http://www.currys.co.uk/gbuk/household-appliances/cooking/microwaves/335_3152_32014_xx_xx/xx-criteria.html)
     * Brand shops
-    * [Clearance](http://www.currys.co.uk/gbuk/clearance-household-appliances-1846-commercial.html)
+    * [Clearance](http://www.currys.co.uk/gbuk/search-keywords/xx_xx_xx_xx_xx/-clearance-/xx-criteria.html)
     * [Services](http://www.currys.co.uk/gbuk/care-plans-kitchen-appliances-279-commercial.html)
     * [Buying for business?](http://www.currys.co.uk/gbuk/pc-world-business-1262-commercial.html?intcmp=business-nav-small-appliances)
   * [TV & Entertainment](http://www.currys.co.uk/gbuk/tv-dvd-blu-ray-31-u.html)
-    * [Entertainment this Christmas](http://www.currys.co.uk/gbuk/tv-dvd-blu-ray-31-u.html)
     * [Televisions](http://www.currys.co.uk/gbuk/tv-dvd-blu-ray/televisions-301-c.html)
     * [TV accessories](http://www.currys.co.uk/gbuk/tv-dvd-blu-ray/tv-accessories-302-c.html)
     * [DVD, Blu-ray & home cinema](http://www.currys.co.uk/gbuk/tv-dvd-blu-ray/dvd-blu-ray-home-cinema-303-c.html)
     * [Digital set top boxes](http://www.currys.co.uk/gbuk/tv-dvd-blu-ray/digital-tv-services-304-c.html)
     * [Gaming](http://www.currys.co.uk/gbuk/gaming-34-u.html)
+    * [Projectors](http://www.currys.co.uk/gbuk/computing/monitors-and-projectors/projectors-3715-m.html)
     * Brand shops
-    * [Clearance](http://www.currys.co.uk/gbuk/clearance-tv-dvd-blu-ray-1865-commercial.html)
+    * Learn more about
+    * [Clearance](http://www.currys.co.uk/gbuk/search-keywords/xx_xx_xx_xx_xx/-clearance-/xx-criteria.html)
     * [Services](http://www.currys.co.uk/gbuk/knowhow-tv-609-commercial.html)
     * [Buying for business?](http://www.currys.co.uk/gbuk/pc-world-business-1262-commercial.html?intcmp=business-nav-tv-entertainment)
   * [Cameras](http://www.currys.co.uk/gbuk/cameras-38-u.html)
     * [Cameras](http://www.currys.co.uk/gbuk/cameras/digital-cameras-344-c.html)
     * [Camcorders](http://www.currys.co.uk/gbuk/cameras/digital-camcorders/digital-camcorders-3213-m.html)
-    * [Binoculars & telescopes](http://www.currys.co.uk/gbuk/cameras/accessories/binoculars/346_3797_31507_xx_xx/xx-criteria.html)
+    * [CCTV](http://www.currys.co.uk/gbuk/computing-accessories/networking/networking/home-security-automation/321_4000_31794_xx_ba00010226-bv00308115%7Cbv00308116/xx-criteria.html)
     * [Bags, cases and straps](http://www.currys.co.uk/gbuk/cameras/accessories/cases-3205-m.html)
     * [Memory Cards & Readers](http://www.currys.co.uk/gbuk/cameras/accessories/memory-cards-readers-3295-m.html)
+    * [Binoculars & telescopes](http://www.currys.co.uk/gbuk/cameras/accessories/binoculars/346_3797_31507_xx_xx/xx-criteria.html)
     * [Photography accessories](http://www.currys.co.uk/gbuk/cameras/accessories-346-c.html)
     * Brand shops
-    * [Clearance](http://www.currys.co.uk/gbuk/clearance-photography-1902-commercial.html)
+    * Learn more about
+    * [Clearance](http://www.currys.co.uk/gbuk/search-keywords/xx_xx_xx_xx_xx/-clearance-/xx-criteria.html)
     * [Services](http://www.currys.co.uk/gbuk/care-plans-cameras-camcorders-318-commercial.html)
     * [Buying for business?](http://www.currys.co.uk/gbuk/pc-world-business-1262-commercial.html?intcmp=business-nav-cameras)
   * [Audio](http://www.currys.co.uk/gbuk/audio-32-u.html)
@@ -52,53 +55,57 @@
     * [Hi-Fi & speaker docks ](http://www.currys.co.uk/gbuk/audio/hi-fi-speaker-docks-290-c.html)
     * [Headphones](http://www.currys.co.uk/gbuk/audio/headphones/headphones-3919-m.html)
     * [Radios](http://www.currys.co.uk/gbuk/audio/radios-309-c.html)
-    * [Sat Nav ](http://www.currys.co.uk/gbuk/phones-broadband-gps/sat-nav-systems-403-c.html)
     * [Portable audio](http://www.currys.co.uk/gbuk/audio/portable-audio-313-c.html)
     * [iPods](http://www.currys.co.uk/gbuk/audio/ipods-306-c.html)
-    * [Dictation](http://www.currys.co.uk/gbuk/audio/dictation/dictation/312_3041_30041_xx_xx/xx-criteria.html)
-    * [Phones & broadband](http://www.currys.co.uk/gbuk/phones-broadband-gps/mobile-phones-and-broadband/mobile-phones-3412-m.html)
+    * [Dictaphones](http://www.currys.co.uk/gbuk/audio/dictation/dictation/312_3041_30041_xx_xx/xx-criteria.html)
+    * [Sat nav ](http://www.currys.co.uk/gbuk/phones-broadband-gps/sat-nav-systems-403-c.html)
     * Brand shops
-    * [Clearance](http://www.currys.co.uk/gbuk/clearance-audio-1886-commercial.html)
+    * [Clearance](http://www.currys.co.uk/gbuk/search-keywords/xx_xx_xx_xx_xx/-clearance-/xx-criteria.html)
     * [Services](http://www.currys.co.uk/gbuk/care-plans-portable-audio-319-commercial.html)
     * [Buying for business?](http://www.currys.co.uk/gbuk/pc-world-business-1262-commercial.html?intcmp=business-nav-audio)
   * [Computing](http://www.currys.co.uk/gbuk/computing-33-u.html)
-    * [New tech this Christmas](http://www.currys.co.uk/gbuk/computing-33-u.html)
     * [Laptops](http://www.currys.co.uk/gbuk/computing/laptops-315-c.html)
     * [iPad, tablets and eReaders](http://www.currys.co.uk/gbuk/computing/ipad-tablets-and-ereaders-149-c.html)
     * [Desktop PCs](http://www.currys.co.uk/gbuk/computing/desktop-pcs-317-c.html)
     * [Monitors and projectors](http://www.currys.co.uk/gbuk/computing/monitors-and-projectors-354-c.html)
-    * [Printers & ink](http://www.currys.co.uk/gbuk/computing-accessories/printers-ink-319-c.html)
+    * [Printers, scanners & ink](http://www.currys.co.uk/gbuk/computing-accessories/printers-ink-319-c.html)
     * Brand shops
-    * [Clearance](http://www.currys.co.uk/gbuk/clearance-computing-1885-commercial.html)
+    * Learn more about
+    * [Clearance](http://www.currys.co.uk/gbuk/search-keywords/xx_xx_xx_xx_xx/-clearance-/xx-criteria.html)
     * [Services](http://www.currys.co.uk/gbuk/knowhow-computing-607-commercial.html)
     * [Buying for business?](http://www.currys.co.uk/gbuk/pc-world-business-1262-commercial.html?intcmp=business-nav-computing)
   * [PC Accessories](http://www.currys.co.uk/gbuk/computing-accessories-40-u.html)
     * [Print, ink & office](http://www.currys.co.uk/gbuk/computing-accessories/printers-ink-319-c.html)
     * [Tablet & PC accessories](http://www.currys.co.uk/gbuk/computing-accessories/accessories-and-bags-318-c.html)
-    * [Bags, cases & sleeves](http://www.currys.co.uk/gbuk/computing-accessories/accessories-and-bags/laptop-bags-cases-3059-m.html)
+    * [Bags, cases & sleeves](http://www.currys.co.uk/gbuk/computing-accessories/accessories-and-bags/laptop-bags-and-cases/318_3059_30067_xx_xx/xx-criteria.html)
     * [PC gaming](http://www.currys.co.uk/gbuk/gaming/pc-gaming-accessories-330-c.html)
     * [Hard drives & storage](http://www.currys.co.uk/gbuk/computing-accessories/data-storage-355-c.html)
     * [Components & upgrades](http://www.currys.co.uk/gbuk/computing-accessories/components-upgrades-324-c.html)
     * [Software](http://www.currys.co.uk/gbuk/computing-accessories/software-323-c.html)
     * [Internet & networking](http://www.currys.co.uk/gbuk/computing-accessories/networking-321-c.html)
+    * Brand shops
+    * Learn more about
     * [Knowhow services](http://www.currys.co.uk/gbuk/other-knowhow-services-1941-theme.html)
-    * [Clearance](http://www.currys.co.uk/gbuk/clearance-computer-accessories-1887-commercial.html)
+    * [Clearance](http://www.currys.co.uk/gbuk/search-keywords/xx_xx_xx_xx_xx/-clearance-/xx-criteria.html)
     * [Buying for business?](http://www.currys.co.uk/gbuk/pc-world-business-1262-commercial.html?intcmp=business-nav-pcaccessories)
-  * [Mobiles](http://www.currys.co.uk/gbuk/phones-broadband-gps/mobile-phones-and-broadband/mobile-phones-3412-m.html)
+  * [Phones](http://www.currys.co.uk/gbuk/phones-broadband-gps/mobile-phones-and-broadband/mobile-phones-3412-m.html)
     * [Mobile phones](http://www.currys.co.uk/gbuk/phones-broadband-gps/mobile-phones-and-broadband/mobile-phones-3412-m.html)
     * [Mobile phone accessories](http://www.currys.co.uk/gbuk/phones-broadband-gps/mobile-phones-and-broadband/mobile-phone-accessories/362_3413_32042_xx_xx/xx-criteria.html)
     * [Mobile broadband ](http://www.currys.co.uk/gbuk/phones-broadband-gps/mobile-phones-and-broadband/mobile-broadband/362_3257_30350_xx_xx/xx-criteria.html)
     * [Home phones](http://www.currys.co.uk/gbuk/phones-broadband-gps/home-phones-343-c.html)
     * [Fax machines](http://www.currys.co.uk/gbuk/phones-broadband-gps/home-phones/fax-machines/343_3196_32043_xx_xx/xx-criteria.html)
-    * [Two-way radios](http://www.currys.co.uk/gbuk/phones-broadband-gps/home-phones/two-way-radios/343_3197_30294_xx_xx/xx-criteria.html)
     * [Sat nav ](http://www.currys.co.uk/gbuk/phones-broadband-gps/sat-nav-systems-403-c.html)
     * [Smart Tech](http://www.currys.co.uk/gbuk/smart-tech/smart-tech-551-c.html)
+    * Learn more about
   * [Smart Tech](http://www.currys.co.uk/gbuk/smart-tech/smart-tech-551-c.html)
     * [Smart watches & fitness](http://www.currys.co.uk/gbuk/smart-tech/smart-tech-551-c.html)
     * [Smart health](http://www.currys.co.uk/gbuk/smart-tech/smart-tech-551-c.html)
+    * [Smartphones](http://www.currys.co.uk/gbuk/phones-broadband-gps/mobile-phones-and-broadband/mobile-phones/sim-free-phones/362_3412_32041_xx_xx/xx-criteria.html)
     * [Smart home](http://www.currys.co.uk/gbuk/computing-accessories/networking/networking/home-security-automation/321_4000_31794_xx_xx/xx-criteria.html)
-    * [Smart toys & gadgets](http://www.currys.co.uk/gbuk/computing/ipad-tablets-and-ereaders/tablets/tablet-accessories/149_3396_31424_xx_ba00008464-bv00307489/0_xx-criteria.html)
+    * [Smart toys & gadgets](http://www.currys.co.uk/gbuk/parrot-computing/ipad-tablets-and-ereaders/tablets/tablet-accessories/149_3396_31424_1368_xx/xx-criteria.html)
     * [Sat nav](http://www.currys.co.uk/gbuk/phones-broadband-gps/sat-nav-systems-403-c.html)
+    * Brand shops
+    * Learn more about
 
 
 
@@ -110,7 +117,7 @@
   * [ Audio](http://www.currys.co.uk/gbuk/audio-32-u.html)
   * [ Computing](http://www.currys.co.uk/gbuk/computing-33-u.html)
   * [ PC Accessories](http://www.currys.co.uk/gbuk/computing-accessories-40-u.html)
-  * [ Mobiles](http://www.currys.co.uk/gbuk/phones-broadband-gps/mobile-phones-and-broadband/mobile-phones-3412-m.html)
+  * [ Phones](http://www.currys.co.uk/gbuk/phones-broadband-gps/mobile-phones-and-broadband/mobile-phones-3412-m.html)
   * [ Smart Tech](http://www.currys.co.uk/gbuk/smart-tech/smart-tech-551-c.html)
 
 
@@ -258,6 +265,10 @@ AD2ONE | We use DoubleClick (Google) for the use of the DART cookie which enable
 Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy. 
 
 Click [here](http://www.google.co.uk/intl/en/policies/privacy/) for the Google privacy policy.  
+  
+TouchCommerce Live Chat | TouchCommerce is our live chat supplier, which uses three cookies to ensure that the live chat is fully funcational and our chat invitations are offered to the right customers at the right time. It is important to note that these cookies do not collect any personal information about our customers.
+
+The inqState cookie is a persistent cookie used to track state-related customer information, such as whether the customer has visited the site before and how much time the customer has spent browsing our site. The inqSession cookie is a session cookie that tracks events, such as when customers navigate to other pages, when a customer interacts with one of our chat agents, and when an agent interacts with one of our customers. Lastly, the inqVital cookie is a persistent cookie which contains vital information associated with the chat itself, such as the customer ID and the status of the chat.  
   
 These are all the cookies currently used by our website and our approved suppliers. Hopefully it is clear that all of our cookies are used ultimately to improve the journey for our customers online or to help us present a better website experience online. 
 
@@ -466,7 +477,7 @@ Last updated: 07.08.2012
 
 Who we are
 
-In this Privacy Policy references to ‘we’ and ‘us’ are to DSG Retail Limited trading as Currys, Dixons, PC World and Knowhow, company number 504877, registered office Maylands Avenue, Hemel Hempstead, Hertfordshire HP2 7TG.
+In this Privacy Policy references to ‘we’ and ‘us’ are to DSG Retail Limited trading as Currys, PC World and Knowhow, company number 504877, registered office Maylands Avenue, Hemel Hempstead, Hertfordshire HP2 7TG.
 
 What information we collect and how
 
@@ -484,7 +495,7 @@ What we do with your information
 
 Any personal information we collect from you will be used in accordance with the Data Protection Act 1998 and other applicable laws. The details we collect will be used: 
 
-(1) to process your order, to process any application for finance or a mobile phone contract etc, to maintain guarantee records and to provide after-sales service (we may pass your details to another organisation to supply/deliver products or services you have purchased and/or to provide after-sales service); and 
+(1) to process your order, to process any application for finance or a mobile phone contract etc, to maintain guarantee records and to provide pre and after-sales service (we may pass your details to another organisation to supply/deliver products or services you have purchased and/or to provide pre or after-sales service). We make use of the TouchCommerce system to provide our web chat functionality. Data provided via web chat may be stored on servers based in the United States under a "safe harbour agreement". This means that the data will be managed to similar standards to those required under UK Data Protection legislation; and 
 
 (2) to carry out security checks (this may involve passing your details to our Identity Verification partner, currently 192.com, who will check details we give them against public and private databases - this helps to protect you and us from fraudulent transactions); and 
 
