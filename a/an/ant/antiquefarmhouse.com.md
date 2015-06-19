@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the antiquefarmhouse.com privacy policy that was archived on 2014-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141110010711id_/http%3A//www.antiquefarmhouse.com/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the antiquefarmhouse.com privacy policy that was archived on 2015-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150619072444id_/http%3A//www.antiquefarmhouse.com/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
 
 # Privacy Policy Antique Farm House
 
@@ -47,6 +47,10 @@ We may display advertising to you. When we display online advertisements to you,
 **Re-Marketing**
 
 We engage in remarketing efforts with third-parties such as Google.  To engage in remarketing, we may add a small piece of code to specific pages of our site that reads a user’s cookie and adds that cookie to a remarketing list.  For example, we may add this code to our homepage so that when people visit our homepage, their cookie ID is added to the remarketing list.  Using that list, we may create ad campaigns with a specific message for people who have visited our homepage while they browse other sites.
+
+**DoubleClick**
+
+We use Google Analytics remarketing codes to log when users view specific pages or take specific actions on a website. This allows us to provide targeted advertising in the future. If you do not wish to receive this type of advertising from us in the future you can opt out using the DoubleClick opt-out page or the Network Advertising Initiative opt-out page.
 
 **Use of Cookies**
 
