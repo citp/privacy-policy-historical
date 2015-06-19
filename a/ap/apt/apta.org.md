@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the apta.org privacy policy that was archived on 2014-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141207162112id_/http%3A//www.apta.org/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apta.org privacy policy that was archived on 2015-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150619183052id_/http%3A//www.apta.org/PrivacyPolicy) for the most accurate reproduction.*
 
 # APTA Websites, Mobile Applications and Forums Privacy Policy
 
