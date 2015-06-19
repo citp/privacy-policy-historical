@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whatsonjinan.com privacy policy that was archived on 2014-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141204211717id_/http%3A//www.whatsonjinan.com/policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whatsonjinan.com privacy policy that was archived on 2015-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150619162618id_/http%3A//www.whatsonjinan.com/policy.php) for the most accurate reproduction.*
 
 # Policy - What's On Jinan
 
