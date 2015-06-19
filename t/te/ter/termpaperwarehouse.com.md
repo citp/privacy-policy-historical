@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the termpaperwarehouse.com privacy policy that was archived on 2014-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140911214907id_/http%3A//www.termpaperwarehouse.com/about/your-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the termpaperwarehouse.com privacy policy that was archived on 2015-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150619040626id_/http%3A//www.termpaperwarehouse.com/about/your-privacy) for the most accurate reproduction.*
 
 # Privacy Policy - TermPaperWarehouse.com
 
@@ -76,9 +76,9 @@ privacy@termpaperwarehouse.com
 
 TermPaperWarehouse.com
 
-8939 1/2 Santa Monica Blvd
+1680 Vine Street Suite 1200
 
-West Hollywood, CA 90069 USA
+Hollywood, CA 90028
 
 #### If You Are a Resident of California
 
@@ -90,7 +90,7 @@ If you are a California resident, in addition to the rights set forth above, you
 
 
 
-You are entitled to receive a copy of this information in a standardized format and the information will not be specific to you individually. Our designated email address for such requests is privacyTerm Paper Warehousetermpaperwarehouse.com.
+You are entitled to receive a copy of this information in a standardized format and the information will not be specific to you individually. Our designated email address for such requests is privacy@termpaperwarehouse.com.
 
 #### Changes
 
