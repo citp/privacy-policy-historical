@@ -1,6 +1,12 @@
-> *The following text is extracted and transformed from the emailhelpr.com privacy policy that was archived on 2014-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141216232926id_/http%3A//emailhelpr.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emailhelpr.com privacy policy that was archived on 2015-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150619173908id_/http%3A//emailhelpr.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Gmail Login and Gmail Sign in Information
+
+  * Views 0
+  * Likes 1
+  * Rating 12345
+
+
 
 Privacy Policy
 
@@ -44,4 +50,4 @@ We have included links on this site for your reference. We are not responsible f
 
 Alterations to this Privacy Statement
 
-The content of this statement may be altered at any time -
+The content of this statement may be altered at any time –
