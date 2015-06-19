@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the imusicport.com privacy policy that was archived on 2014-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141023075951id_/http%3A//imusicport.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imusicport.com privacy policy that was archived on 2015-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150619070606id_/http%3A//www.imusicport.com/privacy) for the most accurate reproduction.*
 
 # Privacy – imusicport.com
 
@@ -67,3 +67,7 @@ We ask that all parents spend time with their children and monitor what sites th
 **Changes to this Privacy Policy**
 
 We will occasionally update this Privacy Policy. When we do, we will also revise the “last updated” date at the bottom of the Privacy Policy. For material changes to this Privacy Policy, we will notify you by placing a prominent notice on the Site.
+
+  *   *   *   *   * [Share on Tumblr](http://www.tumblr.com/share/link?url=http%3A%2F%2Fwww.imusicport.com%2Fprivacy%2F&name=INSERT_NAME_HERE&description=INSERT_DESCRIPTION_HERE "Share on Tumblr")
+
+
