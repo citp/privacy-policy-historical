@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the themastercleanse.org privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220180048id_/http%3A//themastercleanse.org/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themastercleanse.org privacy policy that was archived on 2015-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150619092101id_/http%3A//themastercleanse.org/legal/privacy-policy) for the most accurate reproduction.*
 
 # The Master Cleanse and The Lemonade Diet
 
@@ -29,10 +29,8 @@ Children
 The TheMasterCleanse.org does not knowingly collect or solicit Personally Identifiable Information from or about children under 13 except as permitted by law. If we discover we have received any information from a child under 13 in violation of this policy, we will delete that information immediately. If you believe The TheMasterCleanse.org has any information from or about anyone under 13, please contact us at the address listed below.  
 Contacting Us.
 
-We can be reached by contacting:
-
-http://themastercleanse.org
-
+We can be reached by contacting:  
+http://themastercleanse.org  
 Email: legal@themastercleanse.org  
 Phone: 1-778-855-5549
 
