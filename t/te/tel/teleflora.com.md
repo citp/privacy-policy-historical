@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the teleflora.com privacy policy that was archived on 2014-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141228005005id_/http%3A//www.teleflora.com/securityprivacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teleflora.com privacy policy that was archived on 2015-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150619094121id_/http%3A//www.teleflora.com/securityprivacy.asp) for the most accurate reproduction.*
 
 # Security and Privacy Policy | Teleflora
 
-Effective date: September 1, 2011
+Effective date: January 5, 2015
 
-Your privacy is important to Teleflora LLC ("we" or "us"). To better protect your privacy, we provide this notice explaining our privacy practices and the choices you can make about the ways in which information about you is collected and used at www.teleflora.com. We encourage you to read and review the terms of this Privacy Policy before using our Web site. By using our Web site, you agree to accept the terms of our Privacy Policy. If you do not agree with any part of this Privacy Policy, please do not use our Web site.
+Your privacy is important to Teleflora LLC ("we" or "us"). To better protect your privacy, we provide this notice explaining our privacy practices and the choices you can make about the ways in which information about you is collected and used at www.teleflora.com. We encourage you to read and review the terms of this Privacy Policy before using our Web site. **By using our Web site, you agree to accept the terms of our Privacy Policy. If you do not agree with any part of this Privacy Policy, please do not use our Web site.**
 
 ## Information We Collect
 
@@ -30,18 +30,18 @@ We use your personally identifiable information to provide the requested informa
 
 We use the information that you provide about others to enable us to send them your gifts or information. From time to time, we also may use this information to offer our products, programs, or services to them.
 
-We may combine the information we collect with information available from other sources, including information received from promotional partners or other third parties.  
+We may combine the information we collect with information available from other sources, including information received from promotional partners or other third parties.
+
 Agents and contractors who have access to personally identifiable information are required to protect this information in a manner that is consistent with this Privacy Policy by, for example, not using the information for any purpose other than to carry out the services they are performing for us.
 
-We utilize a third-party application called Talent Management Suite to process our online employment applications and submissions; however, the handling of personal information shall be governed by this Privacy Policy.
-
+We utilize a third-party application called Talent Management Suite to process our online employment applications and submissions; however, the handling of personal information shall be governed by this Privacy Policy.  
 Although we take appropriate measures to safeguard against unauthorized disclosures of information, we cannot assure you that personally identifiable information that we collect will never be disclosed in a manner that is inconsistent with this Privacy Policy.
 
 ## Information Sharing
 
 We may, from time to time, share personally identifiable information with other companies affiliated with us and unrelated third parties (e.g., retailers, marketers) to enable them to provide users with opportunities to learn of products or services in which they may be interested. You should also be aware that this means that we may transfer information to any country in the world, including the United States and other countries that may not offer the same level of data protection as the country where you reside. Please see the "Your Choices" section below for more information on how you can express your preferences regarding our sharing of information.
 
-We also may disclose personally identifiable information in the following instances:
+**_We also may disclose personally identifiable information in the following instances:_**
 
 _Legal Action:_ We may disclose information about our users, including personally identifiable information, when legally required to do so, at the request of governmental authorities conducting an investigation, to verify or enforce compliance with the policies governing our Web site or applicable laws, or to protect against misuse or unauthorized use of our Web site. We also may disclose user information whenever we believe disclosure is necessary to limit our legal liability; to protect or defend our rights or property; or protect the safety, rights, or property of our users.
 
@@ -59,7 +59,7 @@ As also noted above, we may, from time to time, share personally identifiable in
 
 To enhance your experience with our site, many of our Web pages use "cookies." Cookies are text files we place in your computer's browser to store your preferences. Cookies, by themselves, do not tell us your e-mail address or other personally identifiable information unless you choose to provide this information to us by, for example, registering at our site. However, once you choose to furnish the site with personally identifiable information, this information may be linked to the data stored in the cookie.
 
-We use cookies to understand site usage and to improve the content and offerings on our site. For example, we may use cookies to personalize your experience at our Web pages (e.g., to recognize you by name when you return to our site), save your password in password-protected areas, and enable you to use shopping carts on our sites. We also may use cookies to offer you products, programs, or services.
+We use cookies to understand site usage and to improve the content and offerings on our site. For example, we may use cookies to personalize your experience at our Web pages (e.g., to recognize you by name when you return to our site), save your password in password-protected areas, and enable you to use shopping carts on our sites. We also may use cookies to offer you products, programs, or services. We may also use technologies, such as our own cookies, to provide you with personalized online display advertising tailored to your interests. To opt out of our cookies used for this online advertising, [click here](http://dtmc.teleflora.com/adinfo/choice/prod/?type=fpc&cid=2881&cname=Teleflora&cmagic=445e10&clogo=teleflora.png&loc=us&lang=en-us). 
 
 Cookies do not cause damage to your computer systems or files, and only the website that transferred a particular cookie to you can read, modify or delete such cookie. You always have the option of disabling cookies using your browser preferences. Most browsers allow you to delete existing cookies, to automatically decline cookies or to be given the choice of declining or accepting the transfer of particular cookies to your computer. However, please be aware that some features of our Web site may not function properly or may be slower if you refuse cookies. We do not control cookies that you may occasionally get from third-party sites.
 
@@ -71,7 +71,7 @@ We may, from time to time, offer content (e.g., contests, sweepstakes, or promot
 
 We may use a reputable third party to present or serve the advertisements that you may see at our Web pages. These third-party ad servers may use cookies, Web beacons, clear .gifs, or similar technologies to help present such advertisements, and to help measure and research the advertisements’ effectiveness. The use of these technologies by these third-party ad servers is subject to their own privacy policies and is not covered by our Privacy Policy.
 
-We and our advertisers may use third parties to serve or present the ads that appear on our site and to conduct research about the advertisements. For more information about third-party ad servers, please visit: [www.networkadvertising.org](http://www.networkadvertising.org/). 
+We and our advertisers may use third parties to serve or present the ads that appear on our site and to conduct research about the advertisements. For more information about third-party ad servers and how to opt-out of receiving online display advertisements tailored to your interests by our third party partners, please visit: [www.networkadvertising.org/choices](http://www.networkadvertising.org/choices). 
 
 ## Links to Other Sites
 
@@ -85,7 +85,8 @@ We have put in place physical, electronic, and managerial procedures to safeguar
 
 If you have previously provided any personally identifiable information to us by way of our Web site, you retain the right to review, correct, update, delete or otherwise modify such information.
 
-To access the personally identifiable information that we have collected about you that we maintain, or to correct factual errors in such information, simply log into your account using your e-mail address and password to update your information. Or you may also contact us at the “Contact” address, telephone number or e-mail provided below.  
+To access the personally identifiable information that we have collected about you that we maintain, or to correct factual errors in such information, simply log into your account using your e-mail address and password to update your information. Or you may also contact us at the “Contact” address, telephone number or e-mail provided below.
+
 To protect your privacy and security, we will take reasonable steps to help verify your identity before granting access or making corrections.
 
 ## International Visitors
