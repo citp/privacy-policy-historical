@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myblogu.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230221032id_/http%3A//myblogu.com/blog/myblogu-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myblogu.com privacy policy that was archived on 2015-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150619064746id_/http%3A//myblogu.com/blog/myblogu-privacy-policy) for the most accurate reproduction.*
 
 # MyBlogU Privacy Policy | MyBlogU
 
@@ -17,4 +17,4 @@ We do not allow advertising companies to collect data through our service for ad
 We take reasonable steps to secure your personally identifiable information against unauthorized access or disclosure. We encrypt transmission of data on pages where you provide payment information. However, no security or encryption method can be guaranteed to protect information from hackers or human error.
 
 If you have any questions or concerns about our privacy policies, please contact us:  
-seosmarty AT gmail
+info AT myblogu DOT com
