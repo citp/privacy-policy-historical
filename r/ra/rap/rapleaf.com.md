@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rapleaf.com privacy policy that was archived on 2014-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141208172251id_/http%3A//www.rapleaf.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rapleaf.com privacy policy that was archived on 2015-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150619070436id_/http%3A//intelligence.towerdata.com/privacy) for the most accurate reproduction.*
 
 # Email Intelligence From TowerData - Privacy Policy
 
