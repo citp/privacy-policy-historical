@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the financially-blonde.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122200651id_/http%3A//financially-blonde.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the financially-blonde.com privacy policy that was archived on 2015-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150619071353id_/http%3A//financially-blonde.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Financially Blonde
 
@@ -91,5 +91,3 @@ By using the Website, you agree to the terms of this Privacy Policy. Financially
 **Contact Us**
 
 If you have any questions, comments or concerns about our Privacy Policy, please contact us at the address provided on the Website from which you “clicked” via an authorized link to arrive at this Privacy Policy. If you’d like to contact us about our Privacy Policy, please email us at: info@finblonde.com.
-
-Shannon is a financial planner who left a "traditional" financial services firm to start her own company, NextGen Financial, because she felt traditional financial services firms did not have the tools or resources to help people in their 20s and 30s who are starting out and trying to build assets while also managing debt. She realized that the key to long term personal financial success is a commitment to financial fitness and making smart financial choices. Through this blog, her books and her company, Shannon is committed to making financial fitness fun, easy and accessible for others.
