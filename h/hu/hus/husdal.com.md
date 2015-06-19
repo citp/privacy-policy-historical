@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the husdal.com privacy policy that was archived on 2014-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141010233416id_/http%3A//www.husdal.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the husdal.com privacy policy that was archived on 2015-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150619085842id_/http%3A//www.husdal.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy • Supply Chain Risk | Business Continuity | Transport Vulnerability
 
