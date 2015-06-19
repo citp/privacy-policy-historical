@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ezdia.com privacy policy that was archived on 2014-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141202101535id_/http%3A//www.ezdia.com/store/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ezdia.com privacy policy that was archived on 2015-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150619051359id_/http%3A//www.ezdia.com/store/privacy.htm) for the most accurate reproduction.*
 
 # Privacy | eZdia
 
