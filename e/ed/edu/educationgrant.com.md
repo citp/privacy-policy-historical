@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the educationgrant.com privacy policy that was archived on 2014-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141228081129id_/http%3A//www.educationgrant.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the educationgrant.com privacy policy that was archived on 2015-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150619051511id_/http%3A//www.educationgrant.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | EducationGrant.com
 
@@ -6,9 +6,9 @@
 
 EducationGrant.com PRIVACY POLICY (this “Policy”) Effective Date: December 3, 2008
 
-This privacy statement covers the web site www.EducationGrant.com (the “Site”) and is applicable to all information about you (”you”) collected through the Site.
+This privacy statement covers the web site www.EducationGrant.com (the “Site”) and is applicable to all information about you (“you”) collected through the Site.
 
-EducationGrant.com (”EducationGrant”, “we,” “us,” or “our”) discloses the information collection and usage practices applicable to the Site in this Policy. This Policy describes the types of information that EducationGrant gathers from you and the other people who visit the Site (the “Users”) and how we may use that information. By providing any information, you agree to our use of that information consistent with this Policy. This Privacy Policy may change from time to time as our business model changes. You should check for changes on the Site whenever you visit.
+EducationGrant.com (“EducationGrant”, “we,” “us,” or “our”) discloses the information collection and usage practices applicable to the Site in this Policy. This Policy describes the types of information that EducationGrant gathers from you and the other people who visit the Site (the “Users”) and how we may use that information. By providing any information, you agree to our use of that information consistent with this Policy. This Privacy Policy may change from time to time as our business model changes. You should check for changes on the Site whenever you visit.
 
 EducationGrant collects personally identifiable information from our Users at several different points on our Site.
 
