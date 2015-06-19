@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the istanto.net privacy policy that was archived on 2014-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141221184706id_/http%3A//www.istanto.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the istanto.net privacy policy that was archived on 2015-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150619173304id_/http%3A//www.istanto.net/privacy-policy) for the most accurate reproduction.*
 
 # PRIVACY POLICY - Istanto Blog – Online Business, Short Reviews, Computers and Internet, Tips and Trick, Make Money Online. - Online Business, Short Reviews, Computers and Internet, Tips and Trick, Make Money Online.
 
@@ -18,7 +18,7 @@ www.istanto.net does use cookies to store information about visitors preferences
 
 Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include ….
 
-  * Google Adsense
+  * Adversal
 
 
 
