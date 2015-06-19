@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the abrsm.org privacy policy that was archived on 2014-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141222011248id_/http%3A//us.abrsm.org/en/policies/website-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abrsm.org privacy policy that was archived on 2015-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150619144112id_/http%3A//us.abrsm.org/en/policies/website-privacy-policy) for the most accurate reproduction.*
 
 # ABRSM: Website Privacy Policy
 
@@ -176,3 +176,33 @@ While we use SSL encryption to protect sensitive information online, we also do 
 If we decide to change our privacy policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We will use information in accordance with the privacy policy under which the information was collected. 
 
 If, however, we are going to use users’ personally identifiable information in a manner different from that stated at the time of collection we will notify users where possible via email. Users will have a choice as to whether or not we use their information in this different manner. However, if users have opted out of all communication with the site, or deleted/deactivated their account, then they will not be contacted, nor will their personal information be used in this new manner.
+
+##  [Subject Access requests](http://us.abrsm.org/en/policies/website-privacy-policy/#collapse_6)
+
+ABRSM respects the right of individuals to access and check the accuracy of any personal data that is being kept by them, either on computer or in a relevant filing system, as defined in the Data Protection Act 1988. Under the act, individuals have the right to know what information is held about them. This is known as a subject access request.
+
+Subject Access requests should be addressed to the Personal Assistant to the Executive Director: Finance and Administration. ABRSM will respond within 40 days.
+
+  * [Contact the Personal Assistant to the Executive Director: Finance and Administration](http://us.abrsm.org/en/contact-us/?peopleId=14523)
+
+
+
+In making a Subject Access request an individual must: 
+
+  * Make the request in writing (this includes email, fax and social media)
+  * Supply information to prove their identify
+  * Supply appropriate information to help ABRSM locate the information they require
+
+
+
+It is also possible for the request to be made by a third party and in addition to the above the third party representative should provide evidence of this entitlement.
+
+ABRSM is entitled to charge up to £10 to cover administration costs in responding to the request, however in most cases we will waive this fee. The charge may be made in the following cases:
+
+  * Where the data is difficult to locate or is held in multiple locations
+  * There are large volumes of data to be supplied
+  * Consent from several parties is required
+
+
+
+In cases where the fee is charged, ABRSM will respond within 40 days from receipt of the fee.
