@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usdeception.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120115653id_/http%3A//www.usdeception.com/statics/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usdeception.com privacy policy that was archived on 2015-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150619202738id_/http%3A//www.usdeception.com/statics/privacy.php) for the most accurate reproduction.*
 
 # Conquering the Coming Collapse
 
@@ -64,7 +64,7 @@ This online privacy policy applies only to information collected through our web
 
 **Terms and Conditions**
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [Terms and Conditions](https://web.archive.org/web/20141120115653id_/http%3A//www.usdeception.com/statics/termsandconditions.php)
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [Terms and Conditions](https://web.archive.org/web/20150619202738id_/http%3A//www.usdeception.com/statics/termsandconditions.php)
 
 **Your Consent**
 
