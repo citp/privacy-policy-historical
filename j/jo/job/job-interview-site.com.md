@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the job-interview-site.com privacy policy that was archived on 2014-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141214031230id_/http%3A//www.job-interview-site.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the job-interview-site.com privacy policy that was archived on 2015-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150619162647id_/http%3A//www.job-interview-site.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -24,6 +24,7 @@ Some of our advertising partners may use cookies and web beacons on our site. Ou
   * Google Adsense
   * Tribal Fusion
   * PulsePoint
+  * Sovrn
 
 
 
