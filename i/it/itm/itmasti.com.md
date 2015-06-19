@@ -1,46 +1,69 @@
-> *The following text is extracted and transformed from the itmasti.com privacy policy that was archived on 2011-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110614213223id_/http%3A//privacy-policyonline.com/%3Ftmp%3Dprivacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itmasti.com privacy policy that was archived on 2015-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150619182940id_/http%3A//itmasti.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | ITMasti.COM
 
-Updated: April 20, 2009
+This Privacy Policy governs the manner in which Computer Video Tutorials collects, uses, maintains and discloses information collected from users (each, a “User”) of the http://www.itmasti.com website (“www.itmasti.com”). This privacy policy applies to the Site and all products and services offered by Computer Video Tutorials.
 
-Your privacy is important to us, so we have created the following Privacy Policy to let you know what information we collect when you visit our web sites and when we serve advertisements on our network of websites, why we collect it and how it is used.
+**Personal identification information**
 
-Please read this privacy policy carefully since by visiting this site you agree to be bound by the terms and conditions of this Privacy Policy and our website Terms and Conditions.
+We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, fill out a form, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, name, email address. Users may, however, visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
 
-During your visit to the Site, we and/or our third party vendors may collect certain information, as follows.  
+**Non-personal identification information**
 
+We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.
 
-## Personally Identifiable Information
+**Web browser cookies**
 
-We do not collect "Personally Identifiable Information" or"PII" on any of our websites.  PII means any information that may be used to identify an individual, including first and last name, physical address, email address, or telephone number.
+Our Site may use “cookies” to enhance User experience. User’s web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
 
-## Non-Personally Identifiable Information
+**How we use collected information**
 
-We automatically receive and record anonymous information that your browser sends whenever you visit our website. We use log files to collect Internet protocol (IP) addresses, browser type, Internet service provider (ISP), referring/exit pages, platform type, date/time stamp, one or more cookies that may uniquely identify your browser, and responses by a web surfer to an advertisement delivered by us. This information may be stored on our systems for about one year. We use technology, including technology from its third party advertising vendors, which includes cookies, "web beacons" and/or "action tags." A "cookie" is a small text file stored by your browser on your computer when you visit our Network. A "web beacon" or "action tag" is a small image (usually 1x1 pixel) embedded in a web page or email. We use cookies, web beacons and action tags to collect non-personally identifiable data to provide better and more relevant services and messages to that user. Cookies, web beacons and action tags permit us to recognize users and avoid repetitive requests for the same information.
+ITMati.COM may collect and use Users personal information for the following purposes:
 
-As a rule, non-personally identifiable information is anonymous and is not used to identify a specific person.
+– To improve customer service  
+Information you provide helps us respond to your customer service requests and support needs more efficiently.  
+– To improve our Site  
+We may use feedback you provide to improve our products and services.  
+– To send periodic emails  
+If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
 
-Web surfers may elect not to provide non-personally identifiable information by following the cookie opt-out procedures set forth below.
+**How we protect your information**
 
-## Personally identifiable information
+We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.
 
-We do not collect PII.
+Sensitive and private data exchange between the Site and its Users happens over a SSL secured communication channel and is encrypted and protected with digital signatures.
 
-## Non-personally identifiable information
+**Sharing your personal information**
 
-We may use your non-personal information in order to better target advertisements, to provide aggregate reporting to advertisers and clients, and to improve our advertising systems and products. We use the information to analyze site usage, administer the site, understand usage and navigation trends in aggregate, and determine the relevance of content.  We may also share non-personally identifiable information with our subsidiaries and third party partners for similar use. 
+We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.
 
-We do not collect PII.
+**Third party websites**
 
-We employ commercially reasonable security measures to ensure the security of all data. We cannot, however, ensure or warrant the security of any information you transmit to us and you do so at your own risk. Once we receive your transmission of information, we make commercially reasonable efforts to ensure the security of our systems. However, please note that this is not a guarantee that such information may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards.
+Users may find advertising or other content on our Site that link to the sites and services of our partners, suppliers, advertisers, sponsors, licencors and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that website’s own terms and policies.
 
-## Non-personally identifiable information
+**Advertising**
 
-Our advertising partners may be members of the [Network Advertising Initiative](http://www.networkadvertising.org/) and work with industry leading companies to address important privacy and consumer protection issues in online advertising.
+Ads appearing on our site may be delivered to Users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile non personal identification information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This privacy policy does not cover the use of cookies by any advertisers.
 
-If you prefer not to receive behavioral ads you may opt-out of this anonymous ad targeting. Please note that if you opt-out ad companies may continue to collect non-personal information in connection with ad serving for limited reporting and auditing purposes. Examples of these include but are not limited to reporting overall advertising performance, geographic activity, and other similar analyses.  Most browsers will accept cookies unless you change your browser settings to refuse them and opt-out of the use of cookies and those of our third party advertising technology vendors. For more information on cookies and how to manage and delete them, please visit [www.aboutcookies.org](http://www.aboutcookies.org/).
+Google Adsense
 
-We are very sensitive to the issue of children's privacy and make every effort to protect the privacy of children using the Internet. Our website, products, and services are not developed for or directed at children under 13. For that reason, we does not knowingly collect or maintain information on the websites from persons under 13 years of age. If you are under 13 years of age, please do not use or access the websites at any time or in any manner.
+Some of the ads may be served by Google. Google’s use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses “non personally identifiable information” and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at http://www.google.com/privacy_ads.html
 
-We may find it necessary or be legally obligated to update this Privacy Policy from time to time. When we do, we will post those changes on this page and update the effective date so that you are always aware of the information we collect, how we use it, and under what circumstances we disclose it.  For all other changes, it is your responsibility to review this Privacy Policy frequently and remain informed about any changes to it, so we encourage you to visit this page often. Your continued use of this website constitutes your agreement to this Privacy Policy and any updates.
+Adroll
+
+AdRoll’s Privacy Policy is broken out into two sections. Section I explains AdRoll’s privacy policies regarding the collection, use, and sharing of data from visitors to our website and the online advertising AdRoll displays across various websites. Section II covers AdRoll’s privacy policies with regard to customer accounts.
+
+AdRoll uses technologies such as cookies and pixels to keep track of your activities on our website and our Advertiser’s websites, and to serve you more relevant advertisements. A cookie is a small text file that is stored on your device for record-keeping purposes. Session cookies expire when you close your browser. Persistent cookies remain on your device for an extended period of time. We and our third party partners use session cookies and persistent cookies to make it easier for you to navigate and enhance the experience of our site, and to monitor and evaluate our website’s operation and use.
+
+**Changes to this privacy policy**
+
+Computer Video Tutorials has the discretion to update this privacy policy at any time. When we do, we will send you an email. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
+
+Your acceptance of these terms
+
+By using this Site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
+
+**Contacting us**
+
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
+sohailgcu@gmail.com
