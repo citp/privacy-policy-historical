@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the designsoak.com privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123154837id_/http%3A//www.designsoak.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the designsoak.com privacy policy that was archived on 2015-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150619203047id_/http%3A//www.designsoak.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Design Soak Magazine
 
@@ -14,7 +14,7 @@ The Privacy Policy is located further down this page.
 
 Cookies allow us to provide you with a more personal and interactive experience on our websites.
 
-[http://www.designsoak.com](https://web.archive.org/web/20141123154837id_/http://www.designsoak.com/) does use persistent cookies, which stay on your computer or mobile media device even after you have gone offline.
+[http://www.designsoak.com](https://web.archive.org/web/20150619203047id_/https://www.designsoak.com/) does use persistent cookies, which stay on your computer or mobile media device even after you have gone offline.
 
 Design Soak Magazine will use different types of cookies at various different pages of your use of our websites, these types of cookies include:
 
@@ -36,7 +36,9 @@ You have the ability to accept or decline cookies using your web browser, but pl
 
 ———————————————-
 
-This Privacy Policy governs the manner in which Soak Design Magazine collects, uses, maintains and discloses information collected from users (each, a “User”) of the [http://www.designsoak.com/](https://web.archive.org/web/20141123154837id_/http://www.designsoak.com/) website (“Site”). This privacy policy applies to the Site and all products and services offered by Soak Design Magazine.
+## DESIGN SOAK PRIVACY POLICY
+
+This Privacy Policy governs the manner in which Soak Design Magazine collects, uses, maintains and discloses information collected from users (each, a “User”) of the [http://www.designsoak.com/](https://web.archive.org/web/20150619203047id_/https://www.designsoak.com/) website (“Site”). This privacy policy applies to the Site and all products and services offered by Soak Design Magazine.
 
 **Personal identification information**
 
@@ -54,13 +56,13 @@ Our Site may use “cookies” to enhance User experience. User’s web browser 
 
 Soak Design Magazine collects and uses Users personal information for the following purposes:
 
-  * _\- To personalize user experience_  
+  * _– To personalize user experience_  
 We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
-  * _\- To improve our Site_  
+  * _– To improve our Site_  
 We continually strive to improve our website offerings based on the information and feedback we receive from you.
-  * _\- To improve customer service_  
+  * _– To improve customer service_  
 Your information helps us to more effectively respond to your customer service requests and support needs.
-  * _\- To send periodic emails_  
+  * _– To send periodic emails_  
 If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email or User may contact us via our Site.
 
 
@@ -96,8 +98,8 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 **Contacting us**
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
-[Soak Design Magazine](https://web.archive.org/web/20141123154837id_/http://www.designsoak.com/)  
-[http://www.designsoak.com/](https://web.archive.org/web/20141123154837id_/http://www.designsoak.com/)  
+[Soak Design Magazine](https://web.archive.org/web/20150619203047id_/https://www.designsoak.com/)  
+[http://www.designsoak.com/](https://web.archive.org/web/20150619203047id_/https://www.designsoak.com/)  
 DesignSoak {at} andrewkelsall {.dot} om
 
 This document was last updated on June 13, 2011
