@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mommybunch.com privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123223400id_/http%3A//mommybunch.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mommybunch.com privacy policy that was archived on 2015-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150619025651id_/http%3A//mommybunch.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Mommy Bunch
 
