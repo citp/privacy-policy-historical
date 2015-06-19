@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the digitalkickstart.com privacy policy that was archived on 2014-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141117042831id_/http%3A//digitalkickstart.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digitalkickstart.com privacy policy that was archived on 2015-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150619060735id_/http%3A//digitalkickstart.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - DigitalKickstart™
+# Privacy Policy | DigitalKickstart™
 
 **PRIVACY POLICY**  
-Effective Date: November 22nd, 2013
+Effective Date: November 15th, 2013
 
 To review material modifications and their effective dates scroll to the bottom of the page.
 
@@ -105,9 +105,9 @@ If you have any questions regarding this Privacy Policy, please contact the owne
 
 Digital Kickstart  
 Attn: Privacy Policy Officer  
-8607 Lasilla Way  
-Raleigh, NC, 27616  
-Email:  compliance.officer-at-digitalkickstart.com  
+PO Box 58033  
+Raleigh, NC 27658 USA  
+Email:  support[at]digitalkickstart.com  
 Telephone: 919-339-1667  
 —  
-Material Modifications Since November 22nd, 2013:  none.
+Material Modifications Since December 15th, 2014:  none.
