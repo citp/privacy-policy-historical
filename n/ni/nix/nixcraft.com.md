@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nixcraft.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231165426id_/http%3A//www.cyberciti.biz/tips/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nixcraft.com privacy policy that was archived on 2015-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150619123447id_/http%3A//www.cyberciti.biz/tips/privacy) for the most accurate reproduction.*
 
-# Privacy policy - nixCraft
+# Privacy policy
 
 This site http://www.cyberciti.biz and http://nixcraft.com [ our forum ] ("nixCraft") hosts the project, documents, and tutorials related to open source software's, Linux, FreeBSD and UNIX (Solaris) etc., largely compiled and maintained by Vivek Gite or by project contributors. We do not ask for any registration except registration is compulsory only if:
 
