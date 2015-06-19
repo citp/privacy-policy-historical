@@ -1,8 +1,7 @@
-> *The following text is extracted and transformed from the whiteflowerfarm.com privacy policy that was archived on 2014-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141028211244id_/http%3A//www.whiteflowerfarm.com/security.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whiteflowerfarm.com privacy policy that was archived on 2015-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150619143931id_/http%3A//www.whiteflowerfarm.com/security.html) for the most accurate reproduction.*
 
 # Online Privacy & Security - White Flower Farm
 
-  
 **Your Privacy**
 
 White Flower Farm respects the privacy of every individual who shops via our print or online gardening catalog. Our privacy policy was updated on June 17, 2014. 
