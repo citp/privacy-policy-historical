@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the msy.com.au privacy policy that was archived on 2014-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141205123302id_/https%3A//www.msy.com.au/content/25-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the msy.com.au privacy policy that was archived on 2015-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150619033654id_/https%3A//www.msy.com.au/content/25-privacy-policy) for the most accurate reproduction.*
 
 # Privacy Statement - MSY Online
 
