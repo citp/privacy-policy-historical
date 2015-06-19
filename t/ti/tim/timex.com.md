@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the timex.com privacy policy that was archived on 2014-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141219092544id_/http%3A//www.timex.com/info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the timex.com privacy policy that was archived on 2015-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150619170725id_/http%3A//www.timex.com/info/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Timex
+# Privacy Policy | Casual, Dress, and Sport Watches for Women & Men
 
 **Privacy Statement**
 
@@ -18,5 +18,8 @@ Other websites that may be linked to/from the Timex.com website may have differe
 
 We may amend this Privacy Policy at any time by posting the amended terms on the Timex.com website. All amended terms shall automatically be effective 30 days after they are initially posted on the website.
 
-**Secure Ordering**  
+**Secure Ordering**
+
 Protecting your order information is our first concern. Timex.com makes every effort to protect your online order information by using Secure Sockets Layer (SSL) technology, with a digital certificate provided by VeriSign.
+
+Effective Date: April 27, 2015
