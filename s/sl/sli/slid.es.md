@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the slid.es privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227180249id_/http%3A//slides.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the slid.es privacy policy that was archived on 2015-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150619122717id_/http%3A//slides.com/privacy) for the most accurate reproduction.*
 
 # Slides
 
