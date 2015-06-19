@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the petra.com privacy policy that was archived on 2014-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141226174334id_/http%3A//www.petra.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the petra.com privacy policy that was archived on 2015-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150619083527id_/http%3A//www.petra.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy
 
