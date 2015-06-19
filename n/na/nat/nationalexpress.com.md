@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nationalexpress.com privacy policy that was archived on 2014-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141020213730id_/http%3A//www.nationalexpress.com/Footer-pages/privacy-and-cookies.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationalexpress.com privacy policy that was archived on 2015-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150619034352id_/http%3A//www.nationalexpress.com/Footer-pages/privacy-and-cookies.aspx) for the most accurate reproduction.*
 
-# Privacy and cookies
+# Privacy and Cookies | National Express Coaches
 
 **1 st December 2011 Version**
 
