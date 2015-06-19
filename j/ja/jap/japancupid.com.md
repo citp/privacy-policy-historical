@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the japancupid.com privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217225251id_/http%3A//www.japancupid.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the japancupid.com privacy policy that was archived on 2015-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150619092637id_/http%3A//www.japancupid.com/en/general/privacystatement) for the most accurate reproduction.*
 
 # Privacy Statement | JapanCupid.com
 
