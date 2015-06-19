@@ -1,11 +1,22 @@
-> *The following text is extracted and transformed from the wysada.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220195035id_/http%3A//wysada.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wysada.com privacy policy that was archived on 2015-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150619220756id_/http%3A//wysada.com/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - WYSADA
+
+  
+
 
 **What information we collect:**   
 We collect information from you when you register on our site, place an order, subscribe to our newsletter, respond to a survey, fill out a form or Facebook profile. 
 
 When ordering or registering on our site, you may be asked to enter your name, e-mail address, phone number or country. You may, however, visit our site anonymously. 
+
+We implement Google Analytics features based on Display Advertising (e.g. Remarketing, Google Display Network Impression Reporting, DoubleClick Campaign Manager Integration, or Google Analytics Demographics and Interest Reporting.) 
+
+You can opt-out of Google Analytics for Display Advertising. To prevent your data from being used by Google Analytics, go to [Google Analytics opt-out page.](https://tools.google.com/dlpage/gaoptout/)
+
+We use data from Google's Internet-based advertising or third-party audience data (such as age, gender and interest) with Google Analytics. We, along with third-party vendors (including Google), use first-party cookies (such as the Google Analytics cookies) and third-party cookies (such as the DoubleClick cookies) to report how your ad viewings and other interactions with these ads are related to visits to our website. 
+
+You can read more about the cookies used by Google Analytics advertising features, by going to the [Google Analytics Privacy Policy page.](http://www.google.com/policies/technologies/ads/)
 
 **What we use your information for:**   
 Any of the information we collect from you may be used in one of the following ways:
