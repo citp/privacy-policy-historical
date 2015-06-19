@@ -1,23 +1,23 @@
-<!--The following is the downloaded HTML source of the devolutions.net privacy policy that was archived on 2014-10-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141022182200id_/http%3A//devolutions.net/Home/PrivacyPolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the devolutions.net privacy policy that was archived on 2015-06-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150619122546id_/http%3A//devolutions.net/Home/PrivacyPolicy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns:fb="http://ogp.me/ns/fb#" xmlns="http://www.w3.org/1999/xhtml"><head><title>
+<!DOCTYPE html><html xmlns:fb="http://ogp.me/ns/fb#" xmlns="http://www.w3.org/1999/xhtml"><head><title>
 	
             Privacy Policy - Devolutions
             
 </title>
-        <link href="/App_Themes/Devolutions/fonts.css?1010141409" rel="stylesheet" type="text/css">  
+        <link href="/App_Themes/Devolutions/fonts.css?0607151151" rel="stylesheet" type="text/css">  
 
   
-            <link href="/App_Themes/Devolutions/reset.css?1010141431" rel="stylesheet" type="text/css">
-            <link href="/App_Themes/Devolutions/cssScreen.css?1021142107" rel="stylesheet" type="text/css">  
+            <link href="/App_Themes/Devolutions/reset.css?0607151151" rel="stylesheet" type="text/css">
+            <link href="/App_Themes/Devolutions/cssScreen.css?0618151528" rel="stylesheet" type="text/css">  
 
 
         <link rel="icon" type="image/x-icon" href="/favicon.ico">
         <!--[if IE]><link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" /><![endif]-->
-        <meta name="viewport" content="width=1024"><meta name="msapplication-TileImage" content="http://images.devolutions.net/tileimage/DEVO144.png"><meta name="msapplication-TileColor" content="#0069C3">
+        <meta name="viewport" content="width=1024"><meta name="msapplication-TileImage" content="http://blob.devolutions.net/images/tileimage/DEVO144.png"><meta name="msapplication-TileColor" content="#0069C3">
             <meta name="description" content="Developing innovative enterprise software that helps users cost-effectively, simply and effectively achieve their network management and security goals">
-            <meta name="keywords" content="Devolutions, Devolution, Remote Desktop Manager, Password Vault Manager, Remote Desktop Manager Online, Remote Desktop Manager Server"> 
+            <meta name="keywords" content="Devolutions, Devolution, Remote Desktop Manager, Password Vault Manager, Devolutions Cloud, Devolutions Server"> 
         
 
     <script async="" charset="utf-8" src="//v2.zopim.com/?1wrc66u3nBBa0rAOEtcTSgjfDcHU7dEk" type="text/javascript"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-K2QBJ5"></script><script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js">
@@ -116,25 +116,11 @@
                     $(window).scroll(adjustFooter);
                 }
 
-                $(".NavArrow").click(function() {
-                    return false;
-                });
-
-                function adjustFooter() {
-                    if (!$("#ctl00_footerHolder").isOnScreen()) {
-                        $("#footer").addClass("floating");
-                    } else {
-                        $("#footer").removeClass("floating");
-                    }
-
-                    $('.footer.floating').css('left', -$(window).scrollLeft());
-                }
-
                 if ((navigator.userAgent.match(/iPhone/i)) || (navigator.userAgent.match(/iPod/i)) /* || (window.navigator.msPointerEnabled)*/ || (navigator.userAgent.match(/iPad/i))) {
 
                     $('.hover').bind("click touchstart MSPointerDown", function() {
                         if (!$(this).hasClass("hovering")) {
-                            $('#MainMenu li').removeClass('hovering');
+                            $('#MMenu_holder li').removeClass('hovering');
                         }
 
                         $(this).toggleClass('hovering');
@@ -149,6 +135,16 @@
                     });
                 }
             });
+
+                function adjustFooter() {
+                    if (!$("#ctl00_footerHolder").isOnScreen()) {
+                        $("#footer").addClass("floating");
+                    } else {
+                        $("#footer").removeClass("floating");
+                    }
+
+                    $('.footer.floating').css('left', -$(window).scrollLeft());
+                }
 
             function resizeFancyBox() {
                 var iFrameContentHeight = $("#fancybox-frame").contents().find("body").height();
@@ -244,46 +240,100 @@
 <div id="header">
     <div id="MMenu_holder">
     <ul class="MMenu left">
-        <li id="mm-devo"><a href="http://devolutions.net/">Devolutions</a></li>
+        <li id="mm-devo"><a href="http://devolutions.net">Devolutions</a></li>
     </ul>
     <ul class="MMenu right">
-        <li class="hover" aria-haspopup="true" id="mm-products"><a href="http://devolutions.net/">Products</a>
+        <li class="hover" aria-haspopup="true" id="mm-products"><a href="http://devolutions.net">Products</a>
             <div class="submenu">
                 <div class="submenuHolder" style="padding: 0;">
-                    <ul id="MMproducts">
-                        <li id="smm-rdm"><a class="rdmforwin" href="http://remotedesktopmanager.com/">Remote Desktop Manager</a><a class="rdmformac" href="http://mac.remotedesktopmanager.com/">Remote Desktop Manager For Mac</a></li>
-                        <li id="smm-rdmo"><a href="http://remotedesktopmanageronline.com/">Remote Desktop Manager Online</a></li>
-                        <li id="smm-rdms"><a href="http://remotedesktopmanagerserver.com/">Remote Desktop Manager Server</a></li>
-                        <li id="smm-pvm"><a class="pvmforwin" href="http://passwordvaultmanager.com/">Password Vault Manager</a><a class="pvmformac" href="http://mac.passwordvaultmanager.com/">Password Vault Manager For Mac</a></li>
-                    </ul>
+                    <div class="mm-product mm-box">
+                        <div class="mm-title-sm">
+                            <div class="mm-title-sm-text"><span class="devoicon-User"></span>Client</div>
+                        </div>
+                        <ul>
+                            <li>
+                                <a href="http://remotedesktopmanager.com"><span class="mm-rdm">Remote Desktop Manager</span><span class="iconos devoicon-Windows"></span></a>
+                                <a href="http://mac.remotedesktopmanager.com"><span class="iconos devoicon-Apple"></span></a>
+                                <a href="http://remotedesktopmanager.com/Home/AndroidBeta"><span class="iconos devoicon-Android"></span></a>
+                            </li>
+                            <li>
+                                <a href="http://jump.remotedesktopmanager.com"><span class="mm-jump">Remote Desktop Manager Jump</span><span class="iconos devoicon-Windows"></span></a>
+                            </li>
+                            <li>
+                                <a href="http://passwordvaultmanager.com"><span class="mm-pvm">Password Vault Manager</span><span class="iconos devoicon-Windows"></span></a>
+                                <a href="http://mac.passwordvaultmanager.com"><span class="iconos devoicon-Apple"></span></a>
+                                <a href="http://passwordvaultmanager.com/Home/AndroidBeta"><span class="iconos devoicon-Android"></span></a>
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="mm-product mm-box mm-border">
+                        <div class="mm-title-sm">
+                            <div class="mm-title-sm-text"><span class="devoicon-Server"></span>Server</div>
+                        </div>
+                        <ul>
+                            <li><a href="http://server.devolutions.net"><span class="mm-server">Devolutions Server</span><span class="iconos devoicon-Windows"></span></a></li>
+                            <li><p class="mm-server-desc">Store and share your remote connection settings, virtual machine connections and any other sensitive data. 
+                                Used in combination with the Remote Desktop Manager Client, it extends its capabilities to create an Enterprise wide high-end data store.</p></li>
+                        </ul>
+                    </div>
+                    <div class="mm-product mm-box mm-border">
+                        <div class="mm-title-sm">
+                            <div class="mm-title-sm-text"><span class="devoicon-Cloud"></span>Cloud</div>
+                        </div>
+                        <ul>
+                            <li><a href="https://cloud.devolutions.net"><span class="mm-cloud">Devolutions Cloud</span><span class="iconos devoicon-Online2"></span></a></li>
+                            <li class="mm-default"><a href="https://cloud.devolutions.net">Customer Portal</a></li>
+                            <li class="mm-default"><a href="https://cloud.devolutions.net">Online Database</a></li>
+                            <li class="mm-default"><a href="https://cloud.devolutions.net">Online Drive</a></li>
+                            <li class="mm-default"><a href="https://cloud.devolutions.net">Online Backup</a></li>
+                            <li class="mm-default"><a href="https://cloud.devolutions.net">Custom Installer</a></li>
+                        </ul>
+                    </div>
                 </div>
             </div>
         </li>
         <li class="hover" aria-haspopup="true" id="mm-buy">
-            <a title="Buy" href="http://remotedesktopmanager.com/Buy/Store">Buy</a>
+            <a href="https://store.devolutions.net">Buy</a>
             <div class="submenu">
-                <div class="submenuHolder">
-                    <div class="mm-block vldivider" style="padding-right: 30px; margin-left: 28px;">
-                        <a href="http://remotedesktopmanager.com/Buy/Store" style="margin-top: 12px;" class="big buy button"><span class="text">Buy</span></a>
-                        <div style="font-family: verdana; padding: 0 2px; font-size: 11px;">
-                            <a style="font-weight: normal" href="http://remotedesktopmanager.com/Buy/Quote">Request Quote</a> | <a style="font-weight: normal" href="http://remotedesktopmanager.com/Home/RequestDemo">Request Live Demo</a>
+                <div class="submenuHolder" style="padding: 0;">
+                    <div class="mm-buy mm-box">
+                        <div class="mm-title-sm">
+                            <div class="mm-title-sm-text"><span class="devoicon-Buy"></span>Buy</div>
                         </div>
-                    </div>
-                    <div class="mm-block vldivider">
-                        <a href="http://remotedesktopmanager.com/Buy/Store">Online Store</a>
                         <ul>
-                            <li><a href="http://remotedesktopmanager.com/Buy/Store">Online Store</a></li>
-                            <li><a href="http://remotedesktopmanager.com/Buy/Pricing">Price List</a></li>
-                            <li><a href="http://remotedesktopmanager.com/Buy/Quote">Request Quote</a></li>
-                            <li><a href="http://remotedesktopmanager.com/Support/FAQ">FAQ</a></li> 
+                            <li class="box-sizing">
+                                <a href="https://store.devolutions.net" class="btn btn-grn btn-block btn-center btn-lg lg-icon devoicon-Buy">
+                                    <span>Buy</span>
+                                </a>
+                            </li>
+                            <li class="mm-default"><a href="https://store.devolutions.net/Pricing#PoStore">Buy with P.O.</a></li>
+                            <li class="mm-default"><a href="/Home/RequestDemo">Request Live Demo</a></li>
                         </ul>
                     </div>
-                    <div class="mm-block">
-                        <a href="/Buy/ResellerList">Resellers</a>
+                    <div class="mm-buy mm-box mm-border">
+                        <div class="mm-title-sm">
+                            <div class="mm-title-sm-text"><span class="devoicon-Price"></span>Shop</div>
+                        </div>
                         <ul>
-                            <li><a href="/Buy/ResellerList">Find a Reseller</a></li>
-                            <li><a href="http://remotedesktopmanager.com/Buy/Reseller">Become a Reseller</a></li>
-                            <li><a href="http://remotedesktopmanager.com/Partners/Affiliates">Affiliate Program</a></li>
+                            <li class="box-sizing">
+                                <a href="https://store.devolutions.net" class="btn btn-blu btn-block right-icon lg-icon devoicon-Check">
+                                    <span>Online Store</span>
+                                </a>
+                            </li>
+                            <li class="mm-default"><a href="https://store.devolutions.net/Pricing#Pricing">Pricing</a></li>
+                            <li class="mm-default"><a href="https://store.devolutions.net/Quote">Request Quote</a></li>
+                            <li class="mm-default"><a href="/Support/FAQ">FAQ</a></li>
+                        </ul>
+                    </div>
+                    <div class="mm-buy mm-box mm-border">
+                        <div class="mm-title-sm">
+                            <div class="mm-title-sm-text"><span class="devoicon-Enterprise"></span>Resellers</div>
+                        </div>
+                        <ul>
+                            <li class="box-sizing">
+                                <a href="/Buy/ResellerList" class="btn btn-blu btn-block right-icon lg-icon devoicon-Search"><span class="text">Find your Reseller</span></a>
+                            </li>
+                            <li class="mm-default"><a href="/Buy/Reseller">Become a Reseller</a></li>
                         </ul>
                     </div>
                 </div>
@@ -291,83 +341,123 @@
         </li>
         <li class="hover" aria-haspopup="true" id="mm-support"><a href="/Support">Support</a>
             <div class="submenu">
-                <div class="submenuHolder">
-                    <div class="mm-block vldivider" style="margin-left: 28px;">
-                        <div style="width: 210px; float: left; margin-bottom: 20px;">
-                            <a style="float: left;" href="/Home/FollowUs">Communities</a>
-                            <a style="float: left; clear: left" target="_blank" title="Visit our Forum" class="forum" href="http://forum.devolutions.net/">Visit our Forum</a>
-                            <div class="mm-socialblock">
-                                <a target="_blank" title="Find us on Spiceworks" class="spice" href="http://spice.devolutions.net/">Find us on Spiceworks</a>
-                                <a target="_blank" title="Find us on Facebook" class="facebook" href="http://facebook.devolutions.net/">Find us on Facebook</a>
-                                <a target="_blank" title="Find us on Twitter" class="twitter" href="http://twitter.devolutions.net/">Find us on Twitter</a>
-                                <a target="_blank" title="Visit our Blog" class="blog" href="http://blog.devolutions.net/">Visit our Blog</a>
-                                <a target="_blank" title="Find us on Google+" class="gplus" href="https://plus.google.com/+DevolutionsNet/">Find us on Google+</a>
-                                <a target="_blank" title="Find us on YouTube" class="youtube" href="http://youtube.devolutions.net/">Find us on YouTube</a>
-                            </div>
+                <div class="submenuHolder" style="padding: 0;">
+                    <div class="mm-title-lg">
+                        <div class="mm-title-lg-text"><span class="devoicon-Info"></span>Resources</div>
+                    </div>
+                    <div class="mm-support mm-box" style="margin-top: 0;">
+                        <ul>
+                            <li class="box-sizing">
+                                <a href="http://forum.devolutions.net" class="btn btn-grn btn-block right-icon lg-icon devoicon-Forum" style="margin-bottom: 6px;"><span>Forum</span></a>
+                                <a href="http://help.devolutions.net" class="btn btn-blu btn-block right-icon lg-icon devoicon-OnlineHelp"><span>Online Help</span></a>
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="mm-support mm-box" style="margin-top: 0;">
+                        <ul>
+                            <li class="mm-default"><a href="http://blog.devolutions.net">Blog</a></li>
+                            <li class="mm-default"><a href="/Support/Video">Videos</a></li>
+                            <li class="mm-default"><a href="/Contact">Contact us</a></li>
+                        </ul>
+                    </div>
+                    <div class="mm-support mm-box" style="margin-top: 0;">
+                        <ul>
+                            <li style="text-align: center;">
+                                <a target="_blank" class="mm-social devoicon-Spiceworks" title="Spiceworks" href="http://spice.devolutions.net"></a>
+                                <a target="_blank" class="mm-social devoicon-Facebook" title="Facebook" href="http://facebook.remotedesktopmanager.com"></a>
+                                <a target="_blank" class="mm-social devoicon-Twitter" title="Twitter" href="http://twitter.remotedesktopmanager.com"></a>
+                                <a target="_blank" class="mm-social devoicon-Linkedin" title="Linkedin" href="http://linkedin.remotedesktopmanager.com"></a>
+                                <a target="_blank" class="mm-social devoicon-Blog" title="Blog" href="http://blog.devolutions.net"></a>
+                                <a target="_blank" class="mm-social devoicon-YouTube" title="Youtube" href="http://youtube.remotedesktopmanager.com"></a>
+                                <a target="_blank" class="mm-social devoicon-Google" title="Google+" href="https://plus.google.com/+Remotedesktopmanager"></a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </li>
+        <li id="mm-blog" class="hover" aria-haspopup="true"><a href="http://blog.devolutions.net">Blog</a>
+             <div class="submenu">
+                <div class="submenuHolder" style="padding: 0;">
+                    <div class="mm-blog mm-box" style="width: 255px;">
+                        <div class="mm-title-xs">
+                            <div class="mm-title-xs-text"><span class="devoicon-General"></span>General</div>
+                        </div>
+                        <ul>
+                            <li class="mm-default"><a href="http://blog.devolutions.net/category/news">News</a></li>
+                            <li class="mm-default"><a href="http://blog.devolutions.net/category/funlifestyle">Fun &amp; Lifestyle</a></li>
+                            <li class="mm-default"><a href="http://blog.devolutions.net/category/poll">Poll</a></li>
+                            <li class="mm-default"><a href="http://blog.devolutions.net/category/review">Review</a></li>
+                        </ul>
+                    </div>
+                    <div class="mm-blog mm-box mm-border" style="width: 255px;">
+                        <div class="mm-title-xs">
+                            <div class="mm-title-xs-text"><span class="devoicon-Product"></span>Products</div>
+                        </div>
+                        <ul>
+                            <li class="mm-default"><a href="http://blog.devolutions.net/category/products">Products</a></li>
+                            <li class="mm-default"><a href="http://blog.devolutions.net/category/mac">Mac</a></li>
+                            <li class="mm-default"><a href="http://blog.devolutions.net/category/case-study">Case Study</a></li>
+                            <li class="mm-default"><a href="http://blog.devolutions.net/category/add-on">Add-on</a></li>
+                        </ul>
+                    </div>
+                    <div class="mm-blog mm-box mm-border" style="width: 255px;">
+                        <div class="mm-title-xs">
+                            <div class="mm-title-xs-text"><span class="devoicon-FAQ"></span>FAQ</div>
+                        </div>
+                        <ul>
+                            <li class="mm-default"><a href="http://blog.devolutions.net/category/tipstricks">Tips &amp; Tricks</a></li>
+                            <li class="mm-default"><a href="http://blog.devolutions.net/category/knowledge-base">Knowledge Base</a></li>
+                            <li class="mm-default"><a href="http://blog.devolutions.net/category/licensing">License</a></li>
+                        </ul>
+                    </div>
+                    <div class="mm-blog mm-box mm-border" style="width: 255px;">
+                        <div class="mm-title-xs">
+                            <a href="http://blog.devolutions.net/category/sysadminotaur" class="sysadminotaur-img">Sysadminotaur</a>
                         </div>
                     </div>
-                    <div class="mm-block">
-                        <div style="width: 112px; float: left;"><a href="/Support">Support</a>
+                </div>
+            </div>
+        </li>
+        <li class="hover" aria-haspopup="true" id="mm-contact"><a href="/Contact">Contact</a>
+            <div class="submenu">
+                <div class="submenuHolder" style="padding: 0;">
+                    <div class="mm-contact mm-box">
+                        <div class="mm-title-sm">
+                            <div class="mm-title-sm-text"><span class="devoicon-Contact"></span>Contact</div>
+                        </div>
+                        <ul>
+                            <li class="mm-default"><a title="Information" href="/Contact">Information</a></li>
+                            <li class="mm-default"><a title="Phones and Emails" href="/Contact#phonesandemails">Phones and Emails</a></li>
+                            <li class="mm-default"><a title="Leave a Message" href="/Contact#leaveamessage">Leave a Message</a></li>
+                            <li class="mm-default"><a title="Chat with us" href="javascript:$zopim.livechat.window.toggle()">Chat with us</a></li>
+                        </ul>
+                    </div>
+                    <div class="left">
+                        <div class="mm-title-md mm-border">
+                            <div class="mm-title-md-text"><span class="devoicon-Enterprise"></span>Company Information</div>
+                        </div>
+                        <div class="mm-contact mm-box mm-border" style="margin-top: 0;">
                             <ul>
-                                <li><a target="_blank" title="Visit our Forum" href="http://forum.devolutions.net/">Forum</a></li>
-                                <li><a href="http://remotedesktopmanager.com/Support/Video">Videos</a></li>
-                                <li><a target="_blank" title="Visit our Blog" href="http://blog.devolutions.net/">Blog</a></li>
+                                <li class="mm-default"><a href="/Company/AboutUs">About Us</a></li>
+                                <li class="mm-default"><a href="/Company/Team">Team</a></li>
+                                <li class="mm-default"><a href="/Company/Media">Media</a></li>
+                                <li class="mm-default"><a href="/Company/Careers">Careers</a></li>
+                            </ul>
+                        </div>
+                        <div class="mm-contact mm-box" style="margin-top: 0;">
+                            <ul>
+                                <li class="mm-default"><a href="/Company/Newsletters">Newsletters</a></li>
+                                <li class="mm-default"><a href="/Company/PressReleases">Press Releases</a></li>
+                                <li class="mm-default"><a href="http://forum.devolutions.net">Forum</a></li>
+                                <li class="mm-default"><a title="Social Media" href="/Home/FollowUs">Social Media</a></li>
                             </ul>
                         </div>
                     </div>
                 </div>
             </div>
         </li>
-        <li id="mm-blog"><a href="http://blog.devolutions.net/" title="Blog">Blog</a></li>
-        <li class="hover" aria-haspopup="true" id="mm-contact"><a title="Contact" href="/Contact">Contact</a>
-            <div class="submenu">
-                <div class="submenuHolder">
-                    <div class="mm-block vldivider" style="margin-left: 28px;">
-                        <h2 style="font-family: Trebuchet MS, Helvetica, sans-serif; font-size: 15px; font-weight: bold; margin-bottom: 10px; margin-top: 5px;">Devolutions inc.</h2>
-                        <p style="font-size: 11px; line-height: 14px; margin-bottom: 2px;">
-                            <strong style="line-height: 28px;">Head office</strong><br>
-                            199, Rang du Golf<br>
-                            Lavaltrie, QC J5T 3C6<br>
-                            Canada
-                        </p>
-                        <p style="font-size: 11px; line-height: 14px; margin-bottom: 25px;">
-                            <strong style="line-height: 28px;">Branch office</strong><br>
-                            6774, Sherbrooke East, #100<br>
-                            Montreal, QC H1N 1E1<br>
-                            Canada
-                        </p>
-                    </div>
-                    <div class="mm-block vldivider">
-                        <a href="/Contact">Contact</a>
-                        <ul>
-                            <li><a title="Information" href="/Contact">Information</a></li>
-                            <li><a title="Phones and Emails" href="/Contact#phonesandemails">Phones and Emails</a></li>
-                            <li><a title="Leave a Message" href="/Contact#leaveamessage">Leave a Message</a></li>
-                            <li class="custom-chat"><a title="Chat with us" href="javascript:$zopim.livechat.window.toggle()">Chat with us</a></li>
-                        </ul>
-                    </div>
-                    <div class="mm-block" style="width: 295px;">
-                        <a style="float: left;" href="/Company/AboutUs">Company</a>
-                        <ul style="float: left; clear: left">
-                            <li><a href="/Company/AboutUs">About Us</a></li>
-                            <li><a href="/Company/Team">Team</a></li>
-                            <li><a href="/Company/ManagementTeam">Management Team</a></li>
-                            <li><a href="/Company/PressReleases">Press Releases</a></li>
-                            <li><a href="/Company/Media">Media</a></li>
-                            <li><a href="/Company/Careers">Careers</a></li>
-                        </ul>
-
-                        <ul style="left: 60px; overflow: hidden; position: relative; float: left">
-                            <li><a href="/Company/Newsletters">Newsletters</a></li>
-                            <li><a href="http://blog.devolutions.net/">Blog</a></li>
-                            <li><a href="http://forum.devolutions.net">Forum</a></li>
-                            <li><a title="Social Media" href="/Home/FollowUs">Social Media</a></li> 
-                        </ul>
-                    </div>
-                </div>
-            </div>
-        </li>
-        <li id="mm-lang"><a title="Français" href="http://fr.devolutions.net/Home/PrivacyPolicy">Français</a></li>	
+        <li id="mm-lang"><a href="http://fr.devolutions.net/Home/PrivacyPolicy">Français</a></li>	
     </ul>
         </div>
 </div>
@@ -507,128 +597,55 @@ Canada</td>
             
 
             
+
 <script type="text/javascript">
     $(document).ready(function () {
         var i = 0;
         $("#SocialBar").click(
         function () {
-            $(this).width(i == 0 ? 392 : 24);
+            $(this).width(i == 0 ? 392 : 30);
+            $(this).css("background-color", i == 0 ? "#3d99eb" : "transparent");
+            $(this).css("background-color", i == 0 ? "rgba(61, 153, 235, 0.9)" : "transparent");
             i = i == 0 ? 1 : 0;
-            loadSocialMediaButton();
         }).hover(function () {
             $(this).width(392);
-            loadSocialMediaButton();
+            $(this).css({ "background-color": "#3d99eb" });
+            $(this).css({ "background-color": "rgba(61, 153, 235, 0.9)" });
             i = 1;
         }, function () {
-            $(this).width(24);
-            loadSocialMediaButton();
+            $(this).width(30);
+            $(this).css({ 'background-color': "transparent" });
             i = 0;
         });
     });
-    
-    
-    function loadSocialMediaButton() {
-        // auto-destruct
-        loadSocialMediaButton = Function("");
-        
-        // facebook
-        if ($(".fb-like").length > 0) {
-            if (typeof (FB) != 'undefined') {
-                FB.XFBML.parse();
-            } else {
-                $.getScript("//connect.facebook.net/en_US/all.js#xfbml=1", function () {
-                    FB.init({ status: true, cookie: true, xfbml: true });
-                });
-            }
-        }
-
-        // Twitter 
-        if ($(".twitter-follow-button").length > 0) {
-            if (typeof (twttr) != 'undefined') {
-                twttr.widgets.load();
-            } else {
-                $.getScript('//platform.twitter.com/widgets.js');
-            }
-        }
-
-        //Google plus
-        var gbuttons = $(".g-plusone");
-        if (gbuttons.length > 0) {
-            if (typeof (gapi) != 'undefined') {
-                gbuttons.each(function () {
-                    gapi.plusone.go($(this).get(0));
-                });
-            } else {
-                $.getScript('https://apis.google.com/js/plusone.js');
-            }
-        }
-
-        //Linked-in
-        if (typeof (IN) != 'undefined') {
-            IN.parse();
-        } else {
-            $.getScript("//platform.linkedin.com/in.js");
-        }
-    }   
-    
 </script>
 
-<div id="fb-root"></div>
-    <ul id="SocialBar">
-        <li>
-            <span class="title">Follow us</span>
-            <ul>
-                <li id="facebookButton">
+<ul id="SocialBar">
+    <li class="clearfix">
+        <span class="title">Follow us</span>
+        <div class="social-box">
+            <h3>Follow Us!</h3>
+            
+                <a target="_blank" class="mm-social devoicon-Spiceworks" title="Spiceworks" href="http://spice.devolutions.net"></a>
+            
                 
-                    <a target="_blank" title="Find us on Facebook" class="facebook" href="http://facebook.devolutions.net/">Find us on Facebook</a>
-                    <div style="position: relative; right: -41px; top: -74px;" class="fb-like" data-href="https://www.facebook.com/devolutionsinc" data-layout="box_count" data-send="false" data-show-faces="false" data-width="63"></div>
+                    <a target="_blank" class="mm-social devoicon-Facebook" title="Facebook" href="http://facebook.devolutions.net"></a>
+                    <a target="_blank" class="mm-social devoicon-Twitter" title="Twitter" href="http://twitter.devolutions.net"></a>
+                    <a target="_blank" class="mm-social devoicon-Linkedin" title="Linkedin" href="http://linkedin.devolutions.net"></a>
                 
-                </li>
-                <li id="twitterButton">
+            
+            <a target="_blank" class="mm-social devoicon-Blog" title="Blog" href="http://blog.devolutions.net"></a>
+            
                 
-                    <a target="_blank" title="Find us on Twitter" class="twitter" href="http://twitter.remotedesktopmanager.com/">Find us on Twitter</a>
-                    <a href="https://twitter.com/remotedeskman" class="twitter-follow-button" data-show-count="true" data-width="97px" data-lang="en" data-show-screen-name="false">Follow @remotedeskman</a>
+                    <a target="_blank" class="mm-social devoicon-YouTube" title="Youtube" href="http://youtube.devolutions.net"></a>
                 
-                    <style type="text/css">
-                        #SocialBar .twitter-follow-button { position: absolute; right: 6px; bottom: 32px; }
-                    </style>
-                </li>
-                <li id="linkedinButton">
+                    <a target="_blank" class="mm-social devoicon-Google" title="Google+" href="https://plus.google.com/+DevolutionsNet"></a>
                 
-                    <a target="_blank" title="Follow us on LinkedIn" class="linkedin" href="http://linkedin.devolutions.net/">Follow us on LinkedIn</a>
-                
-                    <style type="text/css">
-                        #SocialBar .IN-widget { position: absolute; right: 10px; top: 16px; width: 83px; }
-                    </style>
-                    <script type="IN/FollowCompany" data-id="1533251" data-counter="top">
-                    </script>
-                </li>
-                <li id="youtubeButton">
-                
-                    <a target="_blank" title="Find us on YouTube" class="youtube" href="http://youtube.devolutions.net/">Find us on YouTube</a>
-                
-                </li>
-                <li id="forumButton"><a target="_blank" title="Visit our Forum" class="forum" href="http://forum.devolutions.net/">Visit our Forum</a></li>
-                <li id="gplusButton">
-                    <style type="text/css">
-                        #SocialBar #___plusone_0, #SocialBar #___plusone_1, #SocialBar .g-plusone { position: absolute; right: 28px; top: 16px; }
-                    </style>
-
-                
-                    <a target="_blank" title="Find us on Google+" class="gplus" href="https://plus.google.com/+DevolutionsNet/">Find us on Google+</a>
-
-                    <div class="g-plusone" data-href="http://devolutions.net/" data-size="tall">
-                        <a class="googleplus" href="https://plusone.google.com/_/+1/confirm?hl=en&amp;url=http%3A%2F%2Fdevolutions.net" target="_blank" rel="nofollow">Google Plus</a>
-                    </div>
-                
-                </li>
-                <li id="blogButton"><a target="_blank" title="Visit our Blog" class="blog" href="http://blog.devolutions.net/">Visit our Blog</a></li>
-                <li id="spiceButton"><a target="_blank" title="Find us on Spiceworks" class="spice" href="http://spice.devolutions.net/">Find us on Spiceworks</a></li>
-
-                
-            </ul>
-        </li>
-    </ul>
+            
+            <a target="_blank" class="mm-social devoicon-ForumSocial" title="Forum" href="http://forum.devolutions.net"></a>
+        </div>
+    </li>
+</ul>
             
 
 <script type="text/javascript">
@@ -648,19 +665,19 @@ Canada</td>
                         <li style="width: 223px; margin-left: 27px">
                             <a href="/Home">Home</a>
                             <ul>
-                                <li><a target="_blank" href="http://download.devolutions.net/Documents/Product-Comparison-Guide.pdf">Product Comparison</a></li>
+                                <li><a target="_blank" href="http://cdn.devolutions.net/download/Documents/Product-Comparison-Guide.pdf">Product Comparison</a></li>
                                 <li><a href="http://remotedesktopmanager.com/Home/RequestDemo">Request Live Demo</a></li>
                                 <li><a href="http://remotedesktopmanager.com">Remote Desktop Manager</a></li>
                                 <li><a href="http://passwordvaultmanager.com">Password Vault Manager</a></li>
-                                <li><a href="http://remotedesktopmanageronline.com">Remote Desktop Manager Online</a></li>
-                                <li><a href="http://remotedesktopmanagerserver.com">Remote Desktop Manager Server</a></li>
+                                <li><a href="https://cloud.devolutions.net">Devolutions Cloud</a></li>
+                                <li><a href="http://server.devolutions.net">Devolutions Server</a></li>
                             </ul>
                         </li>
                         <li>
-                            <a href="https://store.devolutions.net/">Buy</a>
+                            <a href="https://store.devolutions.net">Buy</a>
                             <ul>
-                                <li><a href="https://store.devolutions.net/">Online Store</a></li>
-                                <li><a href="https://store.devolutions.net/Pricing#Pricing">Pricing</a></li>
+                                <li><a href="https://store.devolutions.net">Online Store</a></li>
+                                <li><a href="https://store.devolutions.net/Pricing#Pricing">Price List</a></li>
                                 <li><a href="https://store.devolutions.net/Quote">Request Quote</a></li>
                                 <li><a href="/Buy/ResellerList">Find a Reseller</a></li>
                                 <li><a href="http://remotedesktopmanager.com/Support/FAQ">FAQ</a></li>
@@ -670,7 +687,6 @@ Canada</td>
                             <a href="/Partners">Partners</a>
                             <ul>
                                 <li><a href="/Partners/TechPartners">Information</a></li>
-                                <li><a href="/Partners/Affiliates">Affiliate Program</a></li>
                                 <li><a href="/Buy/Reseller">Reseller Program</a></li>
                             </ul>
                         </li>
@@ -678,8 +694,9 @@ Canada</td>
                             <a href="/Company/AboutUs">Company</a>
                             <ul>
                                 <li><a href="/Company/AboutUs">About Us</a></li>
-                                <li><a href="/Company/ManagementTeam">Team</a> | <a href="/Company/Team">All</a></li>
-                                <li><a href="http://blog.devolutions.net/">Blog</a></li>
+                                <li><a href="/Company/ManagementTeam">Management</a></li>
+				                <li><a href="/Company/Team">Team</a></li>
+                                <li><a href="http://blog.devolutions.net">Blog</a></li>
                                 <li><a href="/Company/PressReleases">Press Releases</a></li>
                                 <li><a href="/Company/Newsletters">Newsletters</a></li>
                                 <li><a href="/Company/Media">Media</a></li>
@@ -688,25 +705,26 @@ Canada</td>
                         </li>
                         <li style="margin-left: 51px; position: relative; width: 152px; top: -5px;">
                         
-                            <script type="text/javascript" src="http://www.google.com/jsapi"> </script>
+                            <script type="text/javascript" src="//www.google.com/jsapi"> </script>
                             <form autocomplete="off" action="/Search/Result" id="g-search-box">
                                 <div class="searchbox">
                                     <input class="sbox" type="text" name="q" id="q" size="31">
                                     <input class="sbut" src="/Images/search.jpg" type="image">
                                 </div>
                             </form>
-                            <script type="text/javascript" src="http://www.google.com/cse/brand?form=cse-search-box&amp;lang=en&amp;sitesearch=true"> </script>
-
-                            <a class="small facebook left" title="Find us on Facebook" href="http://facebook.remotedesktopmanager.com" target="_blank">Find us on Facebook</a> 
-                            <a class="small linkedin left" title="Follow us on LinkedIn" href="http://linkedin.remotedesktopmanager.com" target="_blank">Follow us on LinkedIn</a> 
-                            <a class="small twitter left" title="Find us on Twitter" href="http://twitter.remotedesktopmanager.com" target="_blank">Find us on Twitter</a>
-                            <a class="small youtube left" title="Find us on YouTube" href="http://youtube.remotedesktopmanager.com" target="_blank">Find us on YouTube</a>
-                            <a class="small spice left" title="Find us on Spiceworks" href="http://spice.devolutions.net" target="_blank">Find us on Spiceworks</a>
-                            <a class="small blog left" title="Visit our Blog" href="http://blog.devolutions.net/" target="_blank">Visit our Blog</a>  
-                            <a class="small gplus left" title="Find us on Google+" href="https://plus.google.com/+DevolutionsNet" target="_blank">Find us on Google+</a>
+                            <script type="text/javascript" src="//cse.google.com/brand?form=cse-search-box&amp;lang=en&amp;sitesearch=true"> </script>
+                            <div class="social-box">
+                                <a target="_blank" class="mm-social xs-social devoicon-Spiceworks" title="Spiceworks" href="http://spice.devolutions.net"></a>
+                                <a target="_blank" class="mm-social xs-social devoicon-Facebook" title="Facebook" href="http://facebook.remotedesktopmanager.com"></a>
+                                <a target="_blank" class="mm-social xs-social devoicon-Twitter" title="Twitter" href="http://twitter.remotedesktopmanager.com"></a>
+                                <a target="_blank" class="mm-social xs-social devoicon-Linkedin" title="Linkedin" href="http://linkedin.remotedesktopmanager.com"></a>
+                                <a target="_blank" class="mm-social xs-social devoicon-Blog" title="Blog" href="http://blog.devolutions.net"></a>
+                                <a target="_blank" class="mm-social xs-social devoicon-YouTube" title="Youtube" href="http://youtube.remotedesktopmanager.com"></a>
+                                <a target="_blank" class="mm-social xs-social devoicon-Google" title="Google+" href="https://plus.google.com/+DevolutionsNet"></a>
+                            </div>
                         
-                            <a class="devolutions" href="http://devolutions.net/">Devolutions Inc.</a>
-                            <span class="copyright">© 2014</span>
+                            <a class="devolutions" href="http://devolutions.net">Devolutions Inc.</a>
+                            <span class="copyright">© 2015</span>
                             <ul class="termsprivacy">
                                 <li><a href="/Home/TermsOfUse">Terms of Use</a></li>
                                 <li><a href="/Home/PrivacyPolicy">Privacy Policy</a></li>
