@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the cheapoair.com privacy policy that was archived on 2014-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141216074208id_/https%3A//www.cheapoair.com/travel/travel_resources/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cheapoair.com privacy policy that was archived on 2015-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150619162050id_/https%3A//www.cheapoair.com/travel/travel_resources/privacy.asp) for the most accurate reproduction.*
 
 # CheapOair.com Privacy Policy
 
-|    Privacy Policy (Effective Date: November 13, 2013) | [](http://clicktoverify.truste.com/pvr.php?page=validate&url=www.cheapoair.com&sealid=101)  
+|    Privacy Policy (Effective Date: November 13, 2013) | [](https://clicktoverify.truste.com/pvr.php?page=validate&url=www.cheapoair.com&sealid=101)  
 ---|---  
 CheapOair.com is strongly committed to protecting your privacy.  
   
-Cheapoair has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions.
+Cheapoair has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](https://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions.
 
 Please read this privacy policy ("Privacy Policy") to learn about our information collection and dissemination practices in connection with the CheapOair.com website and mobile application (collectively, the "Site"). By visiting any section of the Sites you agree to the practices described herein. If you do not agree to this Privacy Policy, you should not use the Site.
 
-If you have questions or concerns regarding our privacy policy, you should first contact customer service at [Feedback@CheapOair.com ](mailto:Feedback@CheapOair.com). If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at [http://watchdog.truste.com/](http://watchdog.truste.com/pvr.php?page=complaint). TRUSTe will then serve as a liaison with us to resolve your concerns.
+If you have questions or concerns regarding our privacy policy, you should first contact customer service at [Feedback@CheapOair.com ](mailto:Feedback@CheapOair.com). If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at [//watchdog.truste.com/](https://watchdog.truste.com/pvr.php?page=complaint). TRUSTe will then serve as a liaison with us to resolve your concerns.
 
 Cheapoair.com use of your private information.
 
@@ -58,7 +58,7 @@ Like many other sites, this Site uses cookies to personalize your experience by 
 
 A cookie may be placed on your browser by our advertising server. These cookies are used only for purposes of tracking the effectiveness of advertising served by us on our Site.Â  No personal information about you is gathered by the use of these cookies.Â  Anonymous cookies may be placed on your browser by our third-party advertising companies who may use aggregated statistics about your visits to this and other web sites in order to provide advertisements about travel-related goods and services that you may be interested in.Â  The information collected does not include your personal information. We are not responsible for the cookies used by third parties whose link is provided on the Site, nor are we to be held liable in any way with regards to the information you share with third parties whose link is provided on our Site.
 
-For more information about our third-party advertiser, or to learn more about the choices available to you regarding this anonymous information, please [click here](http://preferences.truste.com/truste/). Please note this does not opt you out of being served advertising. You will continue to receive generic ads.  
+For more information about our third-party advertiser, or to learn more about the choices available to you regarding this anonymous information, please [click here](https://preferences.truste.com/truste/). Please note this does not opt you out of being served advertising. You will continue to receive generic ads.  
   
   
 **THIRD PARTY TRACKING TECHNOLOGIES**  
@@ -78,7 +78,7 @@ We use mobile analytics software to allow us to better understand the functional
   
 **SECURITY**  
 ---  
-The security of your personal information is important to us. When you enter sensitive information (such as a credit card number) on our registration or order forms, we encrypt that information using secure socket layer technology (SSL). [To learn more about SSL, follow this link <http://www.verisign.com/ssl/ssl-information-center/how-ssl-security-works/index.html>]  
+The security of your personal information is important to us. When you enter sensitive information (such as a credit card number) on our registration or order forms, we encrypt that information using secure socket layer technology (SSL). [To learn more about SSL, follow this link [//www.verisign.com/ssl/ssl-information-center/how-ssl-security-works/index.html](https://www.verisign.com/ssl/ssl-information-center/how-ssl-security-works/index.html)]  
 
 
 All of our secure servers use a high-grade encryption key (AES with 128 and 256 bit secret key) While secure mode provides SSL encryption, pages will take longer to download. Most users choose to sign up or sign in using standard mode to achieve quicker response time.
@@ -96,7 +96,7 @@ We reserve the right to disclose your personally identifiable information as req
 
 We may amend this Privacy Policy at any time. All amended terms automatically take effect as of the date this Privacy Policy is updated and published on the Site. Your continued use of the Site following the posting of changes to this Privacy Policy will mean that you accept those changes. **If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a prominent notice on this Site prior to the change becoming effective.**
 
-ll the terms used herein are to be interpreted as defined under our [Terms and Conditions](http://www.cheapoair.com/travel/travel_resources/terms.asp).  
+ll the terms used herein are to be interpreted as defined under our [Terms and Conditions](https://www.cheapoair.com/travel/travel_resources/terms.asp).  
   
   
 **ACCESS TO PERSONALLY IDENTIFIABLE INFORMATION**  
@@ -121,7 +121,7 @@ CheapOair understands the importance of protecting children's privacy in the int
 ---  
 We provide you the opportunity to 'opt-out' of having your personally identifiable information used for certain purposes when we ask for this information. For example, if you purchase a travel product, but do not wish to receive any additional marketing material from us, you can indicate your preference in our order form. However, we will still use your personally identifiable information to provide you with the services and products you purchased through our Site, including but not limited to sending you reservation and confirmation communications or vouchers.
 
-If you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter or communication, or by contacting us at the address below, or by [UnSubscribe Here](http://www.cheapoair.com/travel/travel_resources/nl-unsubscribe.asp).
+If you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter or communication, or by contacting us at the address below, or by [UnSubscribe Here](https://www.cheapoair.com/travel/travel_resources/nl-unsubscribe.asp).
 
 You will be notified when your personal information is collected by any third party that is not our agent/service provider, so you can make an informed choice as to whether or not to share your information with that party.
 
@@ -135,7 +135,7 @@ New York, NY 10020
   
   
    
-If you do not receive acknowledgement of your inquiry or your inquiry has not been addressed to your satisfaction, please contact [TRUSTe](http://watchdog.truste.com/pvr.php?page=complaint). TRUSTe will serve as a liaison with us to resolve your concerns.  
+If you do not receive acknowledgement of your inquiry or your inquiry has not been addressed to your satisfaction, please contact [TRUSTe](https://watchdog.truste.com/pvr.php?page=complaint). TRUSTe will serve as a liaison with us to resolve your concerns.  
   
    
    
