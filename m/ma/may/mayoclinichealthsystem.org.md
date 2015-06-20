@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mayoclinichealthsystem.org privacy policy that was archived on 2014-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141225205054id_/http%3A//mayoclinichealthsystem.org/%7E/media/National%2520Files/Documents/Notice%2520of%2520Privacy%2520Practices.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mayoclinichealthsystem.org privacy policy that was archived on 2015-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150621011331id_/http%3A//mayoclinichealthsystem.org/%7E/media/National%2520Files/Documents/Notice%2520of%2520Privacy%2520Practices.pdf) for the most accurate reproduction.*
 
 # Notice of Privacy Practices
 
