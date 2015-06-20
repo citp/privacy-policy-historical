@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the arlingtontoyota.com privacy policy that was archived on 2013-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131104064127id_/http%3A//arlingtontoyota.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arlingtontoyota.com privacy policy that was archived on 2015-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150620020731id_/http%3A//arlingtontoyota.com/privacy-policy) for the most accurate reproduction.*
 
-# Arlington Toyota - Privacy Policy
+# BayState Chrysler Jeep Dodge Ram Cares About Your Privacy | Privacy Policy
 
-Last Updated: Monday, February 28th 2011
+Last Updated: November 1, 2014
 
 ## Disclaimer:
 
-While every effort has been made to ensure display of accurate data, the vehicle listings within this web site may not reflect all accurate vehicle items. All inventory listed is subject to prior sale. The vehicle photo displayed may be an example only, especially if the photo in question is not clearly photographed against the backdrop of the dealership. Stock photography is used for vehicles that are pending delivery or in service. Pricing throughout the web site does not include any options that may have been installed at the dealership. There may be other dealer preparation or service fees not shown within pricing documents obtained from the web site, which represents costs and profit to dealer for items such as cleaning, inspecting, adjusting vehicles and preparing documents related to the sale. This notice applies to all information collected or submitted on ArlingtonToyota.com and its hosted pages. Please visit or otherwise contact the dealer for details.
+While every effort has been made to ensure display of accurate data, the vehicle listings within this web site may not reflect all accurate vehicle items. All inventory listed is subject to prior sale. The vehicle photo displayed may be an example only, especially if the photo in question is not clearly photographed against the backdrop of the dealership. Stock photography is used for vehicles that are pending delivery or in service. Pricing throughout the web site does not include any options that may have been installed at the dealership. There may be other dealer preparation or service fees not shown within pricing documents obtained from the web site, which represents costs and profit to dealer for items such as cleaning, inspecting, adjusting vehicles and preparing documents related to the sale. This notice applies to all information collected or submitted on arlingtontoyota.com and its hosted pages. Please visit or otherwise contact the dealer for details.
 
 ## Our Commitment to Privacy:
 
@@ -14,7 +14,7 @@ Your privacy is important to us. To better protect your privacy we provide this 
 
 ## The Information We Collect:
 
-On some pages, you can make requests for contact and register to receive materials. The types of personal information collected at these pages are: Automotive Dealership Name, Name, Address, Email address, Phone number, Preferred Contact Method. On Employment Opportunity forms, the following information may be collected: Position Desired, Objectives, Desired Compensation, Dealership assumes all responsibility for complying with all applicable Federal, State, and local laws and ordinances pertaining to Equal Opportunity Employment and all other personnel practices. 
+On some pages, you can make requests for contact and register to receive materials. The types of personal information collected at these pages are: Automotive Dealership Name, Name, Address, Email Address, Phone Number, Preferred Contact Method. On Employment Opportunity forms, the following information may be collected: Position Desired, Objectives, Desired Compensation, Dealership assumes all responsibility for complying with all applicable Federal, State, and local laws and ordinances pertaining to Equal Opportunity Employment and all other personnel practices. 
 
 ## Information the Dealership may Collect:
 
@@ -79,7 +79,7 @@ All links from Dealership sites to third-party vendors have had every reasonable
 
 ## Your Right to Opt Out:
 
-If you prefer that we not disclose nonpublic personal information about you to nonaffiliated third parties, you may elect to opt-out of these disclosures (other than disclosures permitted by law). If you wish to exercise your opt-out option, you may do so by mailing in the attached form at the bottom of this notice.
+If you prefer that we not disclose nonpublic personal information about you to nonaffiliated third parties, you may elect to opt-out of these disclosures (other than disclosures permitted by law). If you wish to exercise your opt-out option, you may do so by contacting Arlington Toyota via the [contact form.](https://web.archive.org/general-contact)
 
 ## Information Security:
 
@@ -88,5 +88,3 @@ We restrict access to nonpublic personal information about you to those individu
 ## Changes to the Policy:
 
 We reserve the right to modify or supplement this privacy policy. If material changes are made, we will provide a revised policy to all current customers. 
-
-## Opt Out Request Form:
