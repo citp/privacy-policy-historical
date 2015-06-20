@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the justhost.com privacy policy that was archived on 2014-12-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141230032021id_/http%3A//www.justhost.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the justhost.com privacy policy that was archived on 2015-06-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150620224528id_/http%3A//www.justhost.com/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html class="js_on" lang="en"><!--<![endif]--><!--~ff1b7d02a2e7f01fea163c9e3c08ae14~--><head>
+<!DOCTYPE html><html class="js_on" lang="en"><!--<![endif]--><!--~357331d4ba6631f06b16f9c8a5104d1e~--><head>
         <script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-W8G9BZ"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://sb.monetate.net/js/1/a-685a7abb/p/justhost.com/438987/g"></script><script>var monetateT = new Date().getTime();(function() {var p = document.location.protocol;if (p == "http:" || p == "https:") {var m = document.createElement('script'); m.type = 'text/javascript'; m.async = true; m.src = (p == "https:" ? "https://s" : "http://") + "b.monetate.net/js/1/a-685a7abb/p/justhost.com/" + Math.floor((monetateT + 1160123) / 3600000) + "/g";var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(m, s);}})();</script>
         <script>var d=document.documentElement;d.className=d.className.replace('no_js','js_on');</script>
         <title>Privacy Policy | Just Host</title>
@@ -36,7 +36,7 @@
             var _gaq = _gaq || [];
             _gaq.push(
                 ['_setAccount', 'UA-9156498-5'],
-                ['_setDomainName', '.justhost.com'],
+                ['_setDomainName', 'justhost.com'],
                 ['_trackPageview', "/privacy_policy.html"]
             );
             (function() {
@@ -48,12 +48,12 @@
             
         </script>
         
-<script>dataLayer = [{"pageId":"www:privacy-policy","vType":"v"}];</script>
+<script>dataLayer = [{"currency":"USD","pageId":"www:privacy-policy","vType":"v","vpv":"/privacy_policy.html"}];</script>
     <script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
     <body class="jh">
         
 <!-- Google Tag Manager -->
-<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-W8G9BZ&vType=v&pageId=www%3Aprivacy-policy&uid=&no-js=1" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-W8G9BZ&currency=USD&pageId=www%3Aprivacy-policy&vType=v&vpv=%2Fprivacy_policy.html&no-js=1" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start': new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0], j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src= '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f); })(window,document,'script','dataLayer','GTM-W8G9BZ');</script>
 <!-- End Google Tag Manager -->
         
@@ -509,6 +509,7 @@
                     </section>
             </article>
                 
+            
             </section></section>
         <footer id="footer">
             <section class="container">
@@ -528,18 +529,17 @@
                         <li><a href="/cplogin">Control Panel Login</a></li>
                     </ul>
                 </nav>
-                <p id="bottom" class="copyright">© 2008-2014 Just Host. All rights reserved.</p>
+                <p id="bottom" class="copyright">© 2008-2015 Just Host. All rights reserved.</p>
             </section>
         </footer>
-        <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
-        <script>window.jQuery || document.write('<script src="//justhost-cdn.com/media/shared/general/jquery/jquery-1.10.2.min.js"><\/script>');</script><script src="//justhost-cdn.com/media/shared/general/jquery/jquery-1.10.2.min.js"></script>
+        <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+        <script>window.jQuery || document.write('<script src="//justhost-cdn.com/media/shared/general/jquery/jquery-1.11.2.min.js"><\/script>');</script><script src="//justhost-cdn.com/media/shared/general/jquery/jquery-1.11.2.min.js"></script>
         <script src="//justhost-cdn.com/media/shared/general/cookies.js"></script>
         <script src="//justhost-cdn.com/media/shared/general/common.js"></script>
         <script src="//justhost-cdn.com/media/shared/general/bootstrap/3.0.0/bootstrap.min.js"></script>
         <script>
             var cur_cookie = getCookie('currency') || 'USD';
             var price_script = "/cgi/price/script";
-            $('html').removeClass('usd gbp eur aud cad').addClass(cur_cookie.toLowerCase());
             $('.js_country_select').val(cur_cookie).change(function() {set_currency(this.value)});
             update_currency(cur_cookie);
             function set_currency(currency) {
@@ -547,6 +547,7 @@
                 $.getScript(price_script).always(function() {update_currency(currency)});
             }
             function update_currency(currency) {
+                $('html').removeClass('usd gbp eur aud cad').addClass(currency.toLowerCase());
                 set_show_vat(currency);
                 set_support_phone(currency);
                 set_adwords_disclaimer(currency);
@@ -581,7 +582,8 @@
                 } else {
                     $(this).attr('onclick','window.open(\''+$(this).attr('href')+'\'); return false; ')
                 }
-            });        
+            });
+        
             $(function() {
                 $('.terms li[id]').each(function() {
                     $(this).addClass('has-content-link');
@@ -613,6 +615,7 @@
         }());
         </script>
     
+
 
 
 
