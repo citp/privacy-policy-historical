@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the nuigalway.ie privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121093553id_/http%3A//www.nuigalway.ie/footer-links/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nuigalway.ie privacy policy that was archived on 2015-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150621015842id_/http%3A//nuigalway.ie/footer-links/privacy.html) for the most accurate reproduction.*
 
-# Privacy: National University of Ireland, Galway (NUI Galway)
+# Privacy - NUI Galway
+
+##  Privacy Statement for the NUI Galway Web site
 
 The National University of Ireland, Galway fully respects your right to privacy and takes every appropriate measure to secure the privacy of any information shared with the university.
 
