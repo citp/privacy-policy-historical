@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the peacehealth.org privacy policy that was archived on 2014-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141130123857id_/http%3A//www.peacehealth.org/Documents/2015NPPEnglishFinal.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the peacehealth.org privacy policy that was archived on 2015-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150620235931id_/http%3A//www.peacehealth.org/Documents/2015NPPEnglishFinal.pdf) for the most accurate reproduction.*
 
-# Joint Notice of Privacy Practices
+# Notice of Privacy Practices
 
-                                                                                                     1
-                           Joint Notice of Privacy Practices
-                                    Effective Date: September 1, 2014
+                                                                                                       1
+                               Notice of Privacy Practices
+                                      Effective Date: January 1, 2015
 This notice describes how medical information about you may be used and disclosed
 and how you can get access to this information. Please review it carefully.
 Our Duties: We are required by law to protect the privacy of your health information and to notify
@@ -14,31 +14,29 @@ practices with regard to your health information.
   Who is Subject to this Notice:
   PeaceHealth, which includes its employees, student/trainees, volunteers and workforce
        members at:
-  PeaceHealth Oregon Network:
-   Sacred Heart Medical Center at                     PeaceHealth Columbia Network:
-       RiverBend                                           St. John Medical Center
-   Sacred Heart Medical Center at                         Southwest Medical Center
-       University District                             PeaceHealth Northwest Network:
+  PeaceHealth Oregon Network:                           PeaceHealth Columbia Network:
+   Sacred Heart Medical Center at                          St. John Medical Center
+       RiverBend                                            Southwest Medical Center
+   Sacred Heart Medical Center at                      PeaceHealth Northwest Network:
+       University District                                  St. Joseph Medical Center
    Cottage Grove Community Medical
-                                                           St. Joseph Medical Center
+                                                            Peace Island Medical Center
        Center
-   Peace Harbor Medical Center                            Peace Island Medical Center
-PeaceHealth Laboratories                                   United General Medical Center
-PeaceHealth Medical Group                                  Ketchikan Medical Center
-   In all networks                                        New Horizons Transitional Care Unit
+   Peace Harbor Medical Center                             United General Medical Center
+PeaceHealth Laboratories                                    Ketchikan Medical Center
+PeaceHealth Medical Group                                   New Horizons Transitional Care Unit
+   In all networks
  PeaceHealth employee assistance programs, workplace wellness centers, chemical dependency
    programs, home health agencies, hospices, and retail pharmacies
- Oregon Imaging Centers (“OIC”), which includes its employees, students, trainees’ volunteers and
-   workforce members
- Medical staff members when providing services at or through PeaceHealth or OIC
+ Medical staff members when providing services at or through PeaceHealth
  This Notice covers only the health information collected, created and maintained by, through or at
-   PeaceHealth, or OIC. “We,” “us,” and “our” in this Notice refer to the parties listed above. This
-   Notice does not cover the care that you may receive from independent providers outside
-   PeaceHealth, OIC or actions by any health plan including the PeaceHealth health plan for
-   PeaceHealth employees and their covered family members.
- PeaceHealth and OIC also are not responsible for the acts of the other entities who may provide
-   information to us that becomes a part of your health information nor are PeaceHealth or OIC
-   responsible for the acts of each other.
+   PeaceHealth. “We,” “us,” and “our” in this Notice refer to the parties listed above. This Notice does
+   not cover the care that you may receive from independent providers outside PeaceHealth or
+   actions by any health plan including the PeaceHealth health plan for PeaceHealth employees and
+   their covered family members.
+ PeaceHealth is not responsible for the acts of the other entities that may provide information to us
+   that becomes a part of your health information.
+                                                1
 
 
                                                                                                           2
@@ -54,8 +52,8 @@ Use and Disclosure of Your Health Information for Treatment, Payment
 and Operations:
 Treatment: We may use and disclose your health information to give you care and to coordinate
 and manage your treatment or other services. For example, we also may disclose your health
-information to other health care providers who are not employed by PeaceHealth or OIC who is
-seeing you in his or her office.
+information to other health care providers who are not employed by PeaceHealth who are seeing you
+in his or her office.
 Payment: We may use and disclose your health information to bill and collect payment from you or
 your health plan for services you received. For example, we may give information about your surgery
 to your health plan so your health plan will pay us or reimburse you for the treatment.
@@ -70,7 +68,7 @@ members of the clergy, whether or not they ask for you by name. This is so famil
 may visit you and generally know how you are doing. If you wish to opt out of the directory, please
 notify the Admitting or Patient Registration Department. If you opt out, then we will not tell callers or
 visitors that you are a patient, and we may return letters and deliveries (such as flowers) addressed
-to you at PeaceHealth or OIC.
+to you at PeaceHealth.
 Individuals Involved in Your Care or for Notification: We may disclose to a family member,
 close personal friend, or other person you identify certain health information that is needed for that
 person’s involvement in your care or payment for your care. Except in limited situations, such as an
@@ -78,12 +76,13 @@ emergency, we will ask you or determine if you object. We may use professional j
 experience when allowing a person to pick up prescriptions, medical supplies, x-rays, or other similar
 health information on your behalf. We also may disclose your health information, directly or through a
 disaster relief entity, to find and tell those close to you of your location or condition.
-
-
-                                                                                                          3
 Uses and Disclosures We May Make Without Your Authorization:
 As Required by Law: We will disclose your health information when required to do so by federal,
 state or local law.
+                                                    2
+
+
+                                                                                                          3
 Fundraising: We may use, or disclose to a foundation related to PeaceHealth or to a business
 associate, limited health information about you to raise money for PeaceHealth. They may tell you
 about PeaceHealth as well as sending you fundraising materials. The fundraising materials will tell
@@ -123,13 +122,14 @@ research purposes. Most of the time, the provider conducting the research or Pea
 for your authorization.
 To Avert a Serious or Imminent Threat to Health or Safety: We may use and disclose your
 health information when we reasonably believe it is necessary to prevent a serious or imminent
-
-
-                                                                                                         4
 threat to the health and safety of you, the public or another person. The disclosure would only be to
 someone who is likely to help prevent the threat such as law enforcement.
 Workers’ Compensation: We may disclose your health information for workers’ compensation or
 similar programs.
+                                                    3
+
+
+                                                                                                         4
 National Security, Intelligence Activities, Protective Services and Military Personnel:
 We may disclose your health information to authorized federal officials for intelligence,
 counterintelligence, special investigations, and other national security activities authorized by law or
@@ -147,7 +147,7 @@ Affiliated Covered Entities: We may share health information with providers who 
 covered entities” of PeaceHealth. These are entities with which PeaceHealth has common ownership
 or control.
 Incidental Disclosures: Certain incidental disclosures of your health information may occur as a
-by- product of permitted uses and disclosures. For example, a roommate may inadvertently overhear
+by-product of permitted uses and disclosures. For example, a roommate may inadvertently overhear
 a discussion about your care if you share a room.
 De-identified Information and Limited Data Sets: We may use and disclose your health
 information that has been “de-identified” by removing certain identifiers (such as name and address)
@@ -159,7 +159,7 @@ individual’s privacy rights.
 Uses and Disclosures We May Make with Authorization:
 Your Authorization: Other uses and disclosures of your health information not covered by this
 Notice or permitted by law will be made only with your written authorization. These types of uses and
-disclosure include psychotherapy notes, or uses or disclosures for the purposes of marketing or for
+disclosures include psychotherapy notes, or uses or disclosures for the purposes of marketing or for
 the sale of your health information. You may revoke your authorization, in writing, at any time,
 (unless you are told otherwise at the time you sign the authorization). If you revoke your
 authorization, then we will no longer use or disclose your health information for the reasons covered
@@ -170,11 +170,12 @@ Specially Protected Health Information: Unless otherwise required or permitted b
 may need your authorization to disclose your health information regarding treatment for
 AIDS/HIV/ARC, mental health, drug addiction, alcoholism, and other substance abuse treatment,
 developmental disabilities, and/or genetic information or records.
+YOUR HEALTH INFORMATION RIGHTS
+You have the rights described below:
+                                                 4
 
 
                                                                                                          5
-YOUR HEALTH INFORMATION RIGHTS
-You have the rights described below:
 Right to Inspect and Copy: You have the right to inspect and obtain copies of health information
 that we may use to make decisions about your care. You also have the right to inspect and obtain
 copies of completed laboratory reports or results directly from PeaceHealth laboratories in
@@ -212,19 +213,20 @@ Right to a Copy of this Notice: You have the right to receive a written copy of 
 you agreed to receive this Notice electronically). Copies of the Notice are available from the
 Admitting/Patient Registration Department or Privacy Officer. You may print a copy of this Notice
 from our website at www.peacehealth.org.
+CHANGES TO THIS NOTICE
+We reserve the right to change this Notice. The revised Notice will be effective for information we
+already have about you as well as any information we receive in the future. Unless required by law,
+the revised Notice will be effective on the new effective date of the Notice. The current Notice will be
+available in our registration areas or on our websites and will be posted in our facilities. The Notice
+will state an effective date.
+                                                  5
 
 
-                                                                                                           6
-  CHANGES TO THIS NOTICE
-  We reserve the right to change this Notice. The revised Notice will be effective for information we
-  already have about you as well as any information we receive in the future. Unless required by law,
-  the revised Notice will be effective on the new effective date of the Notice. The current Notice will be
-  available in our registration areas or on our websites and will be posted in our facilities. The Notice
-  will state an effective date.
+                                                                                                            6
   COMPLAINTS
   If you believe that your privacy rights have been violated, you may complain to the Privacy Officer by
-  calling the PeaceHealth Integrity Line (toll free) at (877) 261-8031, by emailing to
-  OIDepartment@peacehealth.org, or by faxing your complaint to (360) 729-1795.
+  calling the PeaceHealth Integrity Line (toll free) at (877) 261-8031 or by faxing your complaint to
+  (360) 729-1795.
   You also may contact your Privacy Officer at PeaceHealth facilities as follows:
                                 PeaceHealth Networks and Facilities
    St. Joseph Medical Center                          PeaceHealth Laboratories
@@ -233,22 +235,20 @@ from our website at www.peacehealth.org.
    2901 Squalicum Parkway                             Telephone: (541) 687-2134
    Bellingham, WA 98225-1898
    Telephone: (360) 734-5400
-   Peace Harbor Medical Center                        Oregon Imaging Centers
-   400 Ninth Street                                   Physician & Surgeons South
-   Florence, OR 97439                                 1200 Hilyard St., Suite S-330
-   Telephone: (541) 997-3377                          Eugene, OR 97401
-                                                      Telephone: (541) 687-7134
-   Ketchikan Medical Center                           St. John Medical Center
-   3100 Tongass Avenue                                1615 Delaware Street
-   Ketchikan, AK 99901                                Longview, WA 98632-0302
-   Telephone: (907) 225-5171                          Telephone: (360) 414-2000
-   Sacred Heart Medical Center(s)                     Southwest Medical Center
-   Cottage Grove Community Medical Center             400 NE Mother Joseph Place
-   1255 Hilyard Street                                Vancouver, WA 98664
-   Eugene, OR 97401                                   Telephone: (360) 256-2000
-   Telephone: (541) 686-7300
-                                           PeaceHealth Medical Group
-                        Refer to the community in its physical location from the list above
+   Peace Harbor Medical Center                         St. John Medical Center
+   400 Ninth Street                                   1615 Delaware Street
+   Florence, OR 97439                                 Longview, WA 98632-0302
+   Telephone: (541) 997-3377                          Telephone: (360) 414-2000
+   Ketchikan Medical Center                           Sacred Heart Medical Center(s)
+   3100 Tongass Avenue                                Cottage Grove Community Medical Center
+   Ketchikan, AK 99901                                1255 Hilyard Street
+   Telephone: (907) 225-5171                          Eugene, OR 97401
+                                                      Telephone: (541) 686-7300
+   Southwest Medical Center                           PeaceHealth Medical Group
+   400 NE Mother Joseph Place                         Refer to the community in its physical location from the
+   Vancouver, WA 98664                                list above
+   Telephone: (360) 256-2000
 In addition, you may file a complaint with the federal Office for Civil Rights, Secretary of the
 Department of Health and Human Services. The Privacy Officer can give you information about filing
 a complaint. You will not be penalized for filing a complaint.
+                                                    6
