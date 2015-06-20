@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the beyondbeyond.co.uk privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230114032id_/http%3A//beyondbeyond.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beyondbeyond.co.uk privacy policy that was archived on 2015-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150620065709id_/http%3A//beyondbeyond.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Beyond Beyond ™ Wedding Blog - UK Wedding Blog & Wedding Magazine| International Wedding Blog | Free iPad Wedding Magazine | Photography, Style, Design & Inspiration
 
-This Privacy Policy governs the manner in which Beyond Beyond & Beyond The Magazine collects, uses, maintains and discloses information collected from users (each, a “User”) of the [www.beyondbeyond.co.uk](http://www.generateprivacypolicy.com/account/policies/edit/www.beyondbeyond.co.uk) website (“Site”). This privacy policy applies to the Site and all products and services offered by Beyond Beyond & Beyond The Magazine.
+This [Privacy Policy](http://beyondbeyond.co.uk/privacy-policy/) governs the manner in which Beyond Beyond & Beyond The Magazine collects, uses, maintains and discloses information collected from users (each, a “User”) of the [www.beyondbeyond.co.uk](http://www.generateprivacypolicy.com/account/policies/edit/www.beyondbeyond.co.uk) website (“Site”). This privacy policy applies to the Site and all products and services offered by Beyond Beyond & Beyond The Magazine.
 
 **Personal identification information**
 
@@ -20,10 +20,10 @@ Our Site may use “cookies” to enhance User experience. User’s web browser 
 
 Beyond Beyond & Beyond The Magazine may collect and use Users personal information for the following purposes:
 
-  * _\- To run a promotion, contest, survey or other Site feature_  
+  * _– To run a promotion, contest, survey or other Site feature_  
 To send Users information they agreed to receive about topics we think will be of interest to them.
-  * _\- To send periodic emails_  
-If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email or User may contact us via our Site.
+  * _– To send periodic emails_  
+If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email or User may [contact](http://beyondbeyond.co.uk/contact/) us via our Site.
 
 
 
