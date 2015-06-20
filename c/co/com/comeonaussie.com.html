@@ -1,87 +1,191 @@
-<!--The following is the downloaded HTML source of the comeonaussie.com privacy policy that was archived on 2014-11-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141121111837id_/http%3A//www.comeonaussie.net/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the comeonaussie.com privacy policy that was archived on 2015-06-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150620044733id_/http%3A//www.comeonaussie.net/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head profile="http://gmpg.org/xfn/11">
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<meta name="distribution" content="global">
-<meta name="robots" content="follow, all">
-<meta name="language" content="en, sv">
-<meta name="p:domain_verify" content="98afc3a677f592b57a1ef7e0a0f6ce54">
-
 <title>  Privacy Policy for Come On Aussie Internet Services : Come On Aussie</title>
-
-<link rel="Shortcut Icon" href="http://www.comeonaussie.net/wp-content/themes/coanet/images/favicon.ico" type="image/x-icon">
+<meta name="robots" content="index, follow, all">
+<meta name="HandheldFriendly" content="true">
+<meta name="MobileOptimized" content="width">
+<meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=2.0, user-scalable=yes">
+<link rel="Shortcut Icon" href="http://www.comeonaussie.net/wp-content/themes/coais-wpbs-hybrid-wide/images/favicon.ico" type="image/x-icon">
 <link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="http://www.comeonaussie.net/feed/">
 <link rel="pingback" href="http://www.comeonaussie.net/xmlrpc.php">
+<link type="text/css" media="screen" rel="stylesheet" href="http://www.comeonaussie.net/wp-content/themes/coais-wpbs-hybrid-wide/bs/bootstrap.min.css">
+<style type="text/css" media="screen"><!-- @import url( http://www.comeonaussie.net/wp-content/themes/coais-wpbs-hybrid-wide/style.css ); --></style>
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"http:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"wpemoji":"http:\/\/www.comeonaussie.net\/wp-includes\/js\/wp-emoji.js?ver=4.2.2","twemoji":"http:\/\/www.comeonaussie.net\/wp-includes\/js\/twemoji.js?ver=4.2.2"}};
+			( function( window, document, settings ) {
+	var src, ready;
 
-<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.comeonaussie.net/xmlrpc.php?rsd">
-<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.comeonaussie.net/wp-includes/wlwmanifest.xml"> 
-<meta name="generator" content="WordPress 4.0.1">
-<link rel="canonical" href="http://www.comeonaussie.net/privacy-policy/">
-<link rel="shortlink" href="http://www.comeonaussie.net/?p=52">
+	/**
+	 * Detect if the browser supports rendering emoji or flag emoji. Flag emoji are a single glyph
+	 * made of two characters, so some browsers (notably, Firefox OS X) don't support them.
+	 *
+	 * @since 4.2.0
+	 *
+	 * @param type {String} Whether to test for support of "simple" or "flag" emoji.
+	 * @return {Boolean} True if the browser can render emoji, false if it cannot.
+	 */
+	function browserSupportsEmoji( type ) {
+		var canvas = document.createElement( 'canvas' ),
+			context = canvas.getContext && canvas.getContext( '2d' );
 
-<style type="text/css" media="screen"><!-- @import url( http://www.comeonaussie.net/wp-content/themes/coanet/style.css ); --></style>
-
-<script type="text/javascript"><!--//--><![CDATA[//><!--
-
-sfHover = function() {
-
-	if (!document.getElementsByTagName) return false;
-	var sfEls = document.getElementById("nav").getElementsByTagName("li");
-
-	for (var i=0; i<sfEls.length; i++) {
-		sfEls[i].onmouseover=function() {
-			this.className+=" sfhover";
+		if ( ! context || ! context.fillText ) {
+			return false;
 		}
 
-		sfEls[i].onmouseout=function() {
-			this.className=this.className.replace(new RegExp(" sfhover\\b"), "");
+		/*
+		 * Chrome on OS X added native emoji rendering in M41. Unfortunately,
+		 * it doesn't work when the font is bolder than 500 weight. So, we
+		 * check for bold rendering support to avoid invisible emoji in Chrome.
+		 */
+		context.textBaseline = 'top';
+		context.font = '600 32px Arial';
+
+		if ( type === 'flag' ) {
+			/*
+			 * This works because the image will be one of three things:
+			 * - Two empty squares, if the browser doesn't render emoji
+			 * - Two squares with 'G' and 'B' in them, if the browser doesn't render flag emoji
+			 * - The British flag
+			 *
+			 * The first two will encode to small images (1-2KB data URLs), the third will encode
+			 * to a larger image (4-5KB data URL).
+			 */
+			context.fillText( String.fromCharCode( 55356, 56812, 55356, 56807 ), 0, 0 );
+			return canvas.toDataURL().length > 3000;
+		} else {
+			/*
+			 * This creates a smiling emoji, and checks to see if there is any image data in the
+			 * center pixel. In browsers that don't support emoji, the character will be rendered
+			 * as an empty square, so the center pixel will be blank.
+			 */
+			context.fillText( String.fromCharCode( 55357, 56835 ), 0, 0 );
+			return context.getImageData( 16, 16, 1, 1 ).data[0] !== 0;
 		}
 	}
+
+	function addScript( src ) {
+		var script = document.createElement( 'script' );
+
+		script.src = src;
+		script.type = 'text/javascript';
+		document.getElementsByTagName( 'head' )[0].appendChild( script );
+	}
+
+	settings.supports = {
+		simple: browserSupportsEmoji( 'simple' ),
+		flag:   browserSupportsEmoji( 'flag' )
+	};
+
+	settings.DOMReady = false;
+	settings.readyCallback = function() {
+		settings.DOMReady = true;
+	};
+
+	if ( ! settings.supports.simple || ! settings.supports.flag ) {
+		ready = function() {
+			settings.readyCallback();
+		};
+
+		if ( document.addEventListener ) {
+			document.addEventListener( 'DOMContentLoaded', ready, false );
+			window.addEventListener( 'load', ready, false );
+		} else {
+			window.attachEvent( 'onload', ready );
+			document.attachEvent( 'onreadystatechange', function() {
+				if ( 'complete' === document.readyState ) {
+					settings.readyCallback();
+				}
+			} );
+		}
+
+		src = settings.source || {};
+
+		if ( src.concatemoji ) {
+			addScript( src.concatemoji );
+		} else if ( src.wpemoji && src.twemoji ) {
+			addScript( src.twemoji );
+			addScript( src.wpemoji );
+		}
+	}
+
+} )( window, document, window._wpemojiSettings );
+		</script><script src="http://www.comeonaussie.net/wp-includes/js/twemoji.js?ver=4.2.2" type="text/javascript"></script><script src="http://www.comeonaussie.net/wp-includes/js/wp-emoji.js?ver=4.2.2" type="text/javascript"></script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
 }
-if (window.attachEvent) window.attachEvent("onload", sfHover);
-//--><!]]></script>
-
+</style>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.comeonaussie.net/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.comeonaussie.net/wp-includes/wlwmanifest.xml"> 
+<meta name="generator" content="WordPress 4.2.2">
+<link rel="canonical" href="http://www.comeonaussie.net/privacy-policy/">
+<link rel="shortlink" href="http://www.comeonaussie.net/?p=52">
 </head>
-
 <body>
+<!-- begin header -->
 
-<div id="header">
+<div class="fullwidth">
+	<div class="row">
+		<div class="col-xs-12">
 
-	<div class="headerleft">
 
-		<a href="http://www.comeonaussie.net/"><img src="http://www.comeonaussie.net/wp-content/themes/coanet/images/logo.jpg" alt="Come On Aussie"></a>
+<div id="topheader">
+<div class="row">
 
+	<div class="col-xs-12 col-sm-8">
+		<div class="headerleft">
+		<center><a href="http://www.comeonaussie.net/"><img src="http://www.comeonaussie.net/wp-content/themes/coais-wpbs-hybrid-wide/images/logo.jpg" alt="Come On Aussie"></a></center>
+		</div>
+	</div>
+	
+	<div class="hidden-xs col-sm-4">
+		<div class="headerright">
+		<p>
+		<a href="http://www.comeonaussie.net/feed/rss/">Blog RSS</a><a href="http://www.comeonaussie.net/feed/rss/"><img style="vertical-align:middle" src="http://www.comeonaussie.net/wp-content/themes/coais-wpbs-hybrid-wide/images/rss.gif" width="16" height="16" alt="Subscribe to Come On Aussie"></a><br>
+		
+		<a href="https://www.facebook.com/ComeOnAussie">Facebook</a><a href="https://www.facebook.com/ComeOnAussie"><img style="vertical-align:middle" src="http://www.comeonaussie.net/wp-content/themes/coais-wpbs-hybrid-wide/images/facebook.png" width="16" height="16" alt="Come On Aussie Facebook Wall"></a><br>
+		
+		<a href="https://plus.google.com/110295980786994414699/">Google+</a><a href="https://plus.google.com/110295980786994414699/"><img style="vertical-align:middle" src="http://www.comeonaussie.net/wp-content/themes/coais-wpbs-hybrid-wide/images/gplus.png" width="16" height="16" alt="Come On Aussie Google +"></a><br>
+
+		<a href="http://twitter.com/coais">Twitter</a><a href="http://twitter.com/coais"><img style="vertical-align:middle" src="http://www.comeonaussie.net/wp-content/themes/coais-wpbs-hybrid-wide/images/twitter.png" width="16" height="16" alt="Come On Aussie Twitter Page"></a><br>
+	
+		<a href="http://www.youtube.com/user/ComeOnAussieDotCom">YouTube</a>
+		<a href="http://www.youtube.com/user/ComeOnAussieDotCom"><img style="vertical-align:middle" src="http://www.comeonaussie.net/wp-content/themes/coais-wpbs-hybrid-wide/images/youtube.png" width="16" height="16" alt="Come On Aussie Youtube Channel"></a>
+		</p>
+		</div>
 	</div>
 
-	<div class="headerright">
+</div>
+</div>
 
-		<p>
-		<a href="http://www.comeonaussie.net/feed/rss/">Blog RSS</a><a href="http://www.comeonaussie.net/feed/rss/"><img style="vertical-align:middle" src="http://www.comeonaussie.net/wp-content/themes/coanet/images/rss.gif" width="16" height="16" alt="Subscribe to Come On Aussie"></a><br>
-		
-		<a href="https://www.facebook.com/ComeOnAussie">Facebook</a><a href="https://www.facebook.com/ComeOnAussie"><img style="vertical-align:middle" src="http://www.comeonaussie.net/wp-content/themes/coanet/images/facebook.png" width="16" height="16" alt="Come On Aussie Facebook Wall"></a><br>
-		
-		<a href="https://plus.google.com/110295980786994414699/">Google+</a><a href="https://plus.google.com/110295980786994414699/"><img style="vertical-align:middle" src="http://www.comeonaussie.net/wp-content/themes/coanet/images/gplus.png" width="16" height="16" alt="Come On Aussie Google +"></a><br>
 
-		<a href="http://twitter.com/coais">Twitter</a><a href="http://twitter.com/coais"><img style="vertical-align:middle" src="http://www.comeonaussie.net/wp-content/themes/coanet/images/twitter.png" width="16" height="16" alt="Come On Aussie Twitter Page"></a><br>
-		
-		
-		<a href="http://www.youtube.com/user/ComeOnAussieDotCom">YouTube</a>
-		<a href="http://www.youtube.com/user/ComeOnAussieDotCom"><img style="vertical-align:middle" src="http://www.comeonaussie.net/wp-content/themes/coanet/images/youtube.png" width="16" height="16" alt="Come On Aussie Youtube Channel"></a>
-		</p>
-
+		</div>
 	</div>
 </div>
 
 
-<div id="navbar">
+<div class="fullwidth">
+	<div class="row">
+		<div class="col-xs-12">
 
+
+<div id="topnavbar">
+<div class="row">
+	<div class="col-xs-12 col-sm-8">
 	<div id="navbarleft">
-
-		<ul id="nav">
-
-			<li><a href="http://www.comeonaussie.net/">Home</a></li>
-
+		<ul id="wpnav">
 			<li class="page_item page-item-71 page_item_has_children"><a href="http://www.comeonaussie.net/about/">About</a>
 <ul class="children">
 	<li class="page_item page-item-40"><a href="http://www.comeonaussie.net/about/our-network/">Our Network</a></li>
@@ -99,34 +203,39 @@ if (window.attachEvent) window.attachEvent("onload", sfHover);
 </ul>
 </li>
 <li class="page_item page-item-492"><a href="http://www.comeonaussie.net/blog/">Blog</a></li>
-<li class="page_item page-item-58"><a href="http://www.comeonaussie.net/support/">Support</a></li>
 <li class="page_item page-item-31"><a href="http://www.comeonaussie.net/contact/">Contact</a></li>
-
-			<li><a href="http://m.comeonaussie.net">Mobile</a></li>
-
-
 		</ul>
 	</div>
-
+	</div>
+	
+	<div class="col-xs-12 col-sm-4">
 	<div id="navbarright">
-
-		<form id="searchform" method="post" action="http://www.comeonaussie.com/cgi-bin/search_toolbar.cgi">
-
+		<center><form id="searchform" method="post" action="http://www.comeonaussie.com/cgi-bin/search_toolbar.cgi">
 		<input type="hidden" name="engine" value="coa"><input type="text" value="Search Australian Businesses..." name="query" id="query" onfocus="if (this.value == 'Search Australian Businesses...') {this.value = '';}" onblur="if (this.value == '') {this.value = 'Search Australian Businesses...';}">
+		<input type="submit" id="sbutt" value="GO"></form></center>
+	</div>
+	</div>
+</div>
+</div>
 
-		<input type="submit" id="sbutt" value="GO"></form>
+	<div style="clear:both;"></div> <!--needed -->
 
 	</div>
 </div>
+</div>
+<!-- end header -->
 
+<div id="wrap" class="container">
 
-<div id="wrap">
+<!-- start content -->
 <div id="content">
+<div class="row">
 
+	<div class="col-xs-12 col-sm-8">
 	<div id="contentleft">
-	
-				
-		<br>
+
+		
+		<!-- no headline -->
 
 		<p>The privacy of our visitors to all sites managed by Come On Aussie Internet Services is important to us.</p>
 <p>Here is information on the types of personal information we receive and collect when you use and visit sites belonging to Come On Aussie Internet Services, and how we safeguard your information.</p>
@@ -152,59 +261,45 @@ if (window.attachEvent) window.attachEvent("onload", sfHover);
 <p>Deleting cookies does not mean you are permanently opted out of any advertising program.  Unless you have settings that disallow cookies, the next time you visit a site running the advertisements, a new cookie will be added.</p>
 <p><i>AdSense Privacy Policy Provided by <a href="http://www.JenSense.com" target="_blank">JenSense</a></i></p>
 		
+		<div style="clear:both;"></div>
+		
+	 			
+		
+		<!--navigation-->
+						
+		<!--do not delete-->
 				
+		
+	<!-- end content left-->
 	</div>
-			
-	<!-- begin r_sidebar -->
+	</div>
 
-<div id="r_sidebar">
-
-<br>
-
-	<ul id="r_sidebarwidgeted">
-
-	
+	<div class="col-xs-12 col-sm-4">
+		<!-- begin sidebar -->
+<div id="sidebar">
+	<ul id="sidebarwidgeted">
 
 
 		<li id="recent-posts">
-
 		<h2>Recent Blog Items</h2>
-
 			<ul>
-
-					<li><a href="http://www.comeonaussie.net/rwd-json-well-worth-it/">RWD &amp; JSON… Well Worth The Learning Curve</a></li>
+					<li><a href="http://www.comeonaussie.net/busy-time-for-wordpress-community/">Busy Time For WordPress Community</a></li>
+	<li><a href="http://www.comeonaussie.net/whats-google-trying-to-tell-you-now/">What’s Google Trying To Tell You Now?</a></li>
+	<li><a href="http://www.comeonaussie.net/new-api-helps-you-to-search-locally/">Our New API Helps You To “Search Locally”</a></li>
+	<li><a href="http://www.comeonaussie.net/rwd-json-well-worth-it/">RWD &amp; JSON… Well Worth The Learning Curve</a></li>
 	<li><a href="http://www.comeonaussie.net/how-secure-is-your-web-server/">How secure IS your web server?</a></li>
-	<li><a href="http://www.comeonaussie.net/no-april-fools-joke/">No April Fools Joke</a></li>
-	<li><a href="http://www.comeonaussie.net/move-to-paid-submission/">Move to Paid Submission</a></li>
-	<li><a href="http://www.comeonaussie.net/voppie-new-possibilities-for-online-businesses/">Voppie –&gt; New Options For OnLine Businesses</a></li>
-	<li><a href="http://www.comeonaussie.net/mobile-website-predictions/">Mobile Website Predictions…</a></li>
-	<li><a href="http://www.comeonaussie.net/whats-your-website-look-like-on-a-smartphone/">What’s Your Website Look Like On A Smartphone?</a></li>
-	<li><a href="http://www.comeonaussie.net/is-it-time-for-you-to-get-a-mobile-website/">Is It Time For You To Get A Mobile Website?</a></li>
-	<li><a href="http://www.comeonaussie.net/weve-gone-mobile/">We’ve Gone Mobile</a></li>
-	<li><a href="http://www.comeonaussie.net/getting-seo-wrong-right-from-the-start/">Getting SEO Wrong, Right From The Start!</a></li>
+			<li><a href="/blog/"><b>More Blog Posts</b></a><br><br></li>
 
-			<li><a href="/blog/"><b>More Blog Posts</b></a><br><br>
+			<li><a href="http://www.comeonaussie.net/sites/"><img src="http://www.comeonaussie.net/images/surf_aus.gif" style="vertical-align:middle;float:right;margin-left:5px" alt="Surf Australia First">Latest Aussie Websites</a><br><br></li>
 
-
-			</li><li><a href="/sites/"><img src="http://www.comeonaussie.net/images/surf_aus.gif" style="vertical-align:middle;float:right;left-margin:5px">
-Latest Aussie Websites</a>
-
-
-			<br><br></li><li><a href="/why-come-on-aussie/"><b>Why Come On Aussie?</b></a>
-
-			</li></ul>
-
-
+			<li><a href="http://www.comeonaussie.net/why-come-on-aussie/"><b>Why Come On Aussie?</b></a><br clear="right"><br></li>
+			</ul>
 		</li>
 
-<br clear="right"><br>	
 
 		<li id="links">
-
 		<h2>Our Aussie Network</h2>
-
 			<ul>
-
 				<li><a href="http://www.advanceaustraliafair.com/" rel="me" title="Flying the Flag!" target="_blank">Advance Australia Fair</a> - Flying the Flag!</li>
 <li><a href="http://www.careersonline.com.au/" rel="me" title="Career &amp; Work Advice" target="_blank">Careers OnLine</a> - Career &amp; Work Advice</li>
 <li><a href="http://www.comeonaussie.com/" rel="me" title="Aussie Web Directory" target="_blank">Come On Aussie</a> - Aussie Web Directory</li>
@@ -214,99 +309,65 @@ Latest Aussie Websites</a>
 <li><a href="http://www.latestsites.com/" rel="me" title="Free Submit Your URL" target="_blank">Latest Sites</a> - Free Submit Your URL</li>
 <li><a href="http://onlinemarketingfundamentals.com/" rel="me" target="_blank">Online Marketing Fundamentals</a></li>
 <li><a href="http://www.ozsmallbiz.net/" rel="me" title="Small Business Help" target="_blank">OzSmallBiz</a> - Small Business Help</li>
-
+<li><a href="http://searchlocally.com.au" rel="me" title="NEW –  Local Web Search Redefined!" target="_blank">Search Locally</a> - NEW –  Local Web Search Redefined!</li>
 			</ul>
+		<br></li>
 
-		</li>
-
-<br>	
-		<li id="links">
-
+		<li id="pages">
 		<h2>Our Mobile Sites</h2>
-
 			<ul>
-
 				<li><a href="http://m.comeonaussie.net">Come On Aussie</a></li>
 <li><a href="http://mobile.comeonaussie.com" title="this site">Aussie Website Directory</a></li>
-
 			</ul>
+		<br></li>
 
-		</li>
-
-<br>	
-		<li id="links">
-
+		<li id="meta">
 		<h2>Sponsored Links</h2>
-
 			<ul>
-
-				<li><a href="http://mistletoewines.com.au" rel="friend" target="_blank">Premium Aussie Wines</a></li>
-<li><a href="http://storage-murwillumbah.comeonaussie.com/" rel="friend" target="_blank">Murwillumbah Self Storage</a></li>
-
+				<li><a href="http://electronicfix.com.au/data-recovery/" title="Need Data Recovery Now?" target="_blank">Data Recovery Brisbane</a></li>
+<li><a href="http://storage-murwillumbah.comeonaussie.com/" rel="friend" title="Self Storage Units near Tweed Heads/Gold Coast" target="_blank">Murwillumbah Self Storage</a></li>
 			</ul>
-
 		</li>
 
 
-	
 	</ul>
-
-			
-
 </div>
+<!-- end sidebar -->	</div>
 
-<!-- end r_sidebar -->
+		
+<!-- end content  -->
 </div>
-
-<!-- The main column ends  -->
+</div>
 
 <!-- begin footer -->
 
-
-
-<div style="clear:both;"><br></div>
-
-
+<div style="clear:both;"></div>
 
 </div>
+<!-- end wrap -->
 
+<div class="fullwidth" style="border-top:1px solid #f9cd36;">
+<div class="row">
+	<div class="col-xs-12">
+	<div id="pagefooter">
 
-
-<div id="footer">
-
-	
+<center>
 
 <p>Copyright © 
-
-		
-
 <script language="JavaScript" type="text/javascript">
-
 var today = new Date()
-
 var year = today.getYear()
-
-if (year < 1900)
-
-{
-
-year = year + 1900;
-
-}
-
+if (year < 1900) {year = year + 1900;}
 document.write(year)
+</script>2020
+ <a href="http://www.comeonaussie.net">Come On Aussie Internet Services</a> · PO Box 269 Tweed Heads 2485 · <a href="http://www.comeonaussie.net/privacy-policy/">Privacy</a> · <a href="http://www.comeonaussie.net/contact/">Contact</a></p>
+ </center>
 
- </script>2020
-
-		
-
-		 · All Rights Reserved · <a href="http://www.comeonaussie.net">Come On Aussie Internet Services</a> PO Box 269 Tweed Heads 2485 Australia · <a href="/privacy-policy/">Privacy</a> · <a href="/contact/">Contact</a></p>
-
-		
-
+	</div>
+	</div>
 </div>
-
-
+</div>
+<!-- end footer -->
 
 <script type="text/javascript">
 if(window.location.hash == '#r=off') {
@@ -319,9 +380,5 @@ if(window.location.hash == '#r=off') {
     }
 }
 </script>
-
-
-
-
 
 </body></html>
