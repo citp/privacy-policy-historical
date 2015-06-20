@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the crosscountrytrains.co.uk privacy policy that was archived on 2014-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141213082353id_/http%3A//www.crosscountrytrains.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crosscountrytrains.co.uk privacy policy that was archived on 2015-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150620040734id_/http%3A//www.crosscountrytrains.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | CrossCountry
 
+[Home](https://web.archive.org/) / Privacy policy 
+
 ## At CrossCountry, we're committed to protecting and respecting your privacy.
 
-This policy outlines the personal data we collect from you, or that you provide to us and how we will process it. Please read it carefully as it should help you understand how we collect and use your personal information..
+This policy outlines the personal data we collect from you, or that you provide to us and how we will process it. Please read it carefully as it should help you understand how we collect and use your personal information.
 
 We may collect and process the following data about you:
 
@@ -68,10 +70,6 @@ Useful information about cookies can be found in our [Cookie policy](https://w
 
 #####  Your favourite journeys 
 
-[**Register with us**](http://www.buytickets.crosscountrytrains.co.uk/registercustomer.aspx) and save your journey as a favourite when booking. 
+[**Register with us**](https://www.buytickets.crosscountrytrains.co.uk/registercustomer.aspx) and save your journey as a favourite when booking. 
 
 Sign in and your favourites will be shown here. 
-
-###  Your recent searches
-
-Buy again quickly and easily. Your most recent journey searches on this site will be shown here. 
