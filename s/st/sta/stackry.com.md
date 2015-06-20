@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stackry.com privacy policy that was archived on 2014-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141019211736id_/http%3A//www.stackry.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stackry.com privacy policy that was archived on 2015-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150620083328id_/http%3A//www.stackry.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | Stackry - US shopping, global shipping
 
@@ -97,3 +97,5 @@ Questions Regarding the Privacy Policy and Conditions of Use
 If you have any questions about our Privacy Policy or any concern about privacy at the Stackry or the use of this Site in general, please contact us in one of the ways provided above.
 
 Last Modified: March 13, 2012
+
+[ ](http://www.sitejabber.com/reviews/www.stackry.com?sort=rating&direction=desc#reviews)
