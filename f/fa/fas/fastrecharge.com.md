@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fastrecharge.com privacy policy that was archived on 2014-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140921134802id_/http%3A//www.fastrecharge.com/prepaid_privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fastrecharge.com privacy policy that was archived on 2015-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150620022740id_/http%3A//www.fastrecharge.com/prepaid_privacy.aspx) for the most accurate reproduction.*
 
 # FASTRECHARGE.COM :: Privacy policy
 
@@ -26,6 +26,6 @@ If at any point the Site decides to use personally identifiable information in a
 
 Users will have a choice to allow/disallow the Site the use of their information in this different manner, and the Site will then use information in accordance with the privacy policy under which the information was collected. The Site encourages you to periodically review this page for the latest information on Site's privacy practices.
 
-[](https://web.archive.org/web/20140921134802id_/http%3A//www.fastrecharge.com/default.aspx)   
+[](https://web.archive.org/web/20150620022740id_/http%3A//www.fastrecharge.com/default.aspx)   
   
 
