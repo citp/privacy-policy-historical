@@ -1,22 +1,32 @@
-> *The following text is extracted and transformed from the elearners.com privacy policy that was archived on 2014-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141211023749id_/http%3A//www.elearners.com/help/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elearners.com privacy policy that was archived on 2015-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150620053348id_/http%3A//www.elearners.com/help/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
 [](https://privacy.truste.com/privacy-seal/EducationDynamics,-LLC/validation?rid=bb73c301-e204-47d9-b804-58e6ba2d6d8f "TRUSTe online privacy certification")
 
-eLearners.com, a part of the Student Prospecting Division of EducationDynamics, LLC, is a licensee of the TRUSTe Privacy Program.eLearners.com has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html "TRUSTe's program requirements") including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [privacy@elearners.com](mailto:privacy@elearners.com "privacy@elearners.com"). If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint "TRUSTe here").
+This is the privacy policy ("Privacy Policy") for the Web site ("Site") for eLearners ("EL") [www.eLearners.com](http://www.elearners.com/) owned and operated by EducationDynamics, LLC (“EducationDynamics”). This Privacy Policy describes how we treat personal information received about you when you visit our Site.
 
-eLearners.com believes that all the information that we gather about you should be used solely to assist you in locating, comparing, purchasing, registering or inquiring about courses, degrees, professional training or related services. Although other companies may seek to purchase information regarding our users, eLearners.com will not sell your personal information to other companies other than in aggregated form.
+Please read this Privacy Policy carefully, because by visiting or using this Site, you agree to its terms.
 
-###  Information Collection and Use
+We may revise this Privacy Policy from time to time. When we make any material change to this Privacy Policy, we will inform you by posting a notice on the home page [www.eLearners.com](http://www.elearners.com/) or by e-mail of this Site that the policy has been updated prior to the change becoming effective and by changing the date on this page noting when the policy was last updated. If you see a notice of change, please check the Privacy Policy, because your continued use of the Site after we post the change means you have agreed to the new terms.
 
-EducationDynamics will not disclose your personally identifiable information except as described below:
+**Collection of Your Data**
 
-If you use our site or if you post on our blogs, forums, message boards, or chat rooms, some personally identifiable information may be seen by other members or users. This includes, but is not limited to, the poster's name, date of post, comments, IP address, survey responses, and other information. This information may also be transferred to any outside entity, including the press or other media that visits our site.
+Personal Data. When you fill out a "Student Matching Profile", our Self-Assessment, our Financial Aid Estimator, and at other times, we ask for some information about you, such as your name, age, email address, postal address, and phone number, level of education, desired level of educational program, areas of interest, current occupation, military status (if any), governmental loan status. We do not knowingly collect information from children under the age of 13.
+
+Anonymous Data. As is true of most web sites, we gather certain information automatically and store it in log files. We automatically collect IP addresses and Web site usage information from you when you visit the Site. This information helps us evaluate how our visitors use and navigate the Site on an aggregate basis, including the number and frequency of visitors to each Web page, and the length of their visits. We may combine this automatically collected log information with other information we collect about you. We do this to improve services we offer you, to improve marketing, analytics, or site functionality.
+
+**How We Use Your Information and How We Share Your Data**
+
+EducationDynamics will not sell or disclose your personally identifiable information except as described below:
+
+If you use our site or if you post on our blogs, forums, message boards, or chat rooms, some personally identifiable information may be seen by other members or users. This includes, but is not limited to, the poster's name, date of post, comments, IP address, survey responses, and other information. This information may also be transferred to any outside entity, including the press or other media that visits our site. To request removal of your personal information from our blog or forum, contact us at [info@eLearners.com](mailto:info@eLearners.com). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
 
 We use the information we automatically collect (such as contact information, IP address and basic browser and system details) to help us optimize our sites and the services we currently offer on the sites and may offer in the future. We also collect personal information and share it with trusted third parties to analyze and provide us with feedback, suggestions and strategies to improve our business processes and the services we provide. If you elect to provide us with personally identifiable information, such information may also be used for marketing purposes, and may result in follow-up communications from EducationDynamics, our affiliated properties and services, and institutions of higher education about opportunities, programs and other services that are related to education. In addition, from time to time, we may share personally identifiable information (such as e-mail addresses and other contact information such as name, email address and phone number) with carefully selected third parties, so they may offer goods and services that we believe may be of interest to our customers.
 
-EducationDynamics shares your personal information with the educational institutions you selected and, if you use one of our matching services, those institutions which we have matched your profile so that these institutions may contact you with information about their programs. Use of your personal information by these educational institutions is not governed by this Privacy Policy. For further information on such institution’s use of your information, please visit the applicable privacy policy of such institution. Educational institutions have separate policy practices for which EducationDynamics has no responsibility or liability.
+EducationDynamics shares your personal information (such as your name, age, whether not you are a U.S. citizen, address, phone number, e-mail address, military affiliation, educational background, and years of work experience), with the educational institutions you selected and, if you use one of our matching services, those institutions which we have matched your profile so that these institutions may contact you with information about their programs. EducationDynamics maintains business relationships with these institutions, which pay to be featured on this website. Use of your personal information by these educational institutions is not governed by this Privacy Policy. For further information on such institution’s use of your information, please visit the applicable privacy policy of such institution. Educational institutions have separate policy practices for which EducationDynamics has no responsibility or liability.
+
+We may provide your personal information to companies that provide services to help us with our business activities such as offering customer service. These companies are authorized to use your personal information only as necessary to provide these services to us.
 
 If you submit information to an advertiser or other third party that is made available on or through EducationDynamics, the information obtained during your visit to that advertiser’s website, and the information you give to the advertiser will be governed by the advertiser’s privacy policy. For further information on such advertiser’s use of your information, please visit the applicable privacy policy of such advertisers. Advertisers made available on this site have separate policy practices for which EducationDynamics has no responsibility or liability.
 
@@ -26,136 +36,94 @@ Additionally, EducationDynamics uses your information to provide you with a cust
 
 We cannot ensure that all of your private communications and other personal information will never be disclosed in ways not otherwise described in this Policy. For example, we may be forced to disclose information to the government or third parties under certain circumstances, third parties may unlawfully intercept or access transmissions or private communications, or users may abuse or misuse your personal information that they unlawfully collect from the Site. We will try to protect your privacy, however, we do not promise, and you should not expect, that your personal information or private communications will always remain private.
 
-###  Registration
+**Newsletter Subscription**
 
-In order to request information from many of our educational partners, a user must first complete a form with contact information. These forms vary across partners but can include name, email address, mailing address, day and night phone number, education level, and income range. eLearners.com and our partners use this information to contact users about services, courses, or training for which they have requested information or expressed interest. We do not sell or make available this information for any other reason. In rare cases, the receiving partner may already have the users information on file. When this occurs, the users information may be sent to a similar education provider that has the degree program, the course or the training that suits the users needs. Users may also choose to make the information provided to our educational partners available to other third parties. Please refer to the partner's privacy statement in these instances.
+If you wish to subscribe to our newsletter(s), we will use your name and email address to send the newsletter to you. Out of respect for your privacy, we provide you a way to unsubscribe. Please see the “Choice and Opt-out” section.
 
-###  Cookies
+**Choice and Opt-out**
 
-A cookie is a piece of data stored on the user's computer tied to information about the user. Cookie data may be linked to personally identifiable information for data analysis and quality assurance purposes, but individual cookie data is never shared with or sold to any third parties. We use session ID cookies and persistent cookies with a life up to 60 days. For the session ID cookie, once users close the browser, the cookie simply terminates. A persistent cookie is a small text file stored on the user's hard drive for an extended period of time.
+You can let us know that you do not wish us to share your information with third parties for marketing purposes or to notify you about our own products and services and special offers by opting out at the time that you submit your Student Matching Profile or by sending us a written request either by email to [unsubscribe@eLearners.com](mailto:unsubscribe@eLearners.com) or via postal mail.
 
-eLearners.com uses cookies to track which areas of our site are most visited for the purpose of better optimization and user experience. If users reject the cookie, they may still use our site. Persistent cookies enable us to track and target the interests of our users to enhance the experience on our site. See the "Profile" section.
+If you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter or communication or by clicking on the following link to add your email address and/or telephone number directly to our Unsubscribe/Do Not Call lists. Please address postal mail requests to:
 
-Some of our business partners use cookies on our site (for example, advertisers). However, we have no access to or control over these cookies, once we have given permission for them to set cookies for advertising. This privacy statement covers the use of cookies by eLearners.com only and does not cover the use of cookies by any advertisers.
+Attn: Unsubscribe  
+EducationDynamics, LLC  
+5 Marine View Plaza, Suite 212  
+Hoboken, NJ 07030
 
-We use clear gifs in our email communications. We use clear gifs within our email communications so that we may monitor how many emails have been opened.
+Please be aware that we do not control the activities of the educational institutions with which we match your profile or any third parties to whom we have provided your information for marketing purposes. If you wish them to stop contacting you, you will need to notify them of this fact separately.
 
-###  Profile
+Technologies such as: cookies, beacons, tags and scripts are used by EducationDynamics and our marketing partners, affiliates, or analytics. These technologies are used in analyzing trends, administering the site, tracking users’ movements around the site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis.
 
-We store information that we collect through cookies, log files, clear gifs, and/or third parties to create a profile of our users. A profile is stored information that we keep on individual users that details their viewing preferences. This information is not tied to the users personally identifiable information. We do not share your profile with other third parties.
+We use cookies for remember users’ settings, for authentication, and for remarketing. Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our site, but your ability to use some features or areas of our site may be limited.
 
-###  Log Files
+We use Local Storage Objects (LSOs) such as HTML5 or Flash to store content information and preferences. Third parties with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity use LSOs such as HTML5 or Flash to collect and store information.
 
-Like most standard website servers we use log files. This includes Internet protocol (IP) addresses, browser type, Internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, track user's movement in the aggregate, and gather broad demographic information for aggregate use. IP addresses, etc. are not linked to personally identifiable information.
+Various browsers may offer their own management tools for removing HTML5 LSOs. To manage Flash LSOs please click here: <http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html>
 
-###  Clear Gifs (Web Beacons/Web Bugs)
+**Supplementation of Information**
 
-We and our third party advertising companies employ a software technology called clear gifs (a.k.a. Web Beacons/Web Bugs), that help us better manage content on our site by informing us what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. The main difference between the two is that clear gifs are invisible on the page and are much smaller, about the size of the period at the end of this sentence. Clear gifs are not tied to users' personally identifiable information.
+In order to provide accurate school matching services to you, we may on occasion supplement the personally identifiable information you submitted to us with information from third party sources.
 
-Clear Gifs can "work with" existing cookies on a computer if they are both from the same website or advertising company. That means, for example, that if a person visited "[www.companyX.com,"](http://www.companyx.com%2C%22/) which uses an advertising company's clear gif, the website or advertising company would match the clear gif's identifier and the advertising company's cookie ID number, to show the past online behavior for that computer. This collected information would then be given to the advertising company or website.
+**Address and Phone Number Verification**
 
-###  Third Party Advertising
+We use TargusInfo validation to verify your address and phone number, in order to accurately match you to your chosen course of study and school program.
 
-The ads appearing on this website are delivered to users by third party web servers selected by our advertisers. Information about users' visit to this site, such as number of times they have viewed an ad (but not user name, address, or other personal information), is used to serve ads to users on this site.
+**Share with a Friend Feature**
 
-###  eLearners Advertising
+If you choose to use our referral service to email a friend or bookmark a page, about our site, we will ask you for your friend’s name and email address. We will automatically send your friend a one-time email inviting him or her to visit the site. Addthis.com functionality does not store this information for the sole purpose of sending this one-time email.
 
-We do a wide variety of online advertising, in various places over the Internet, and always intend for our efforts to protect users privacy and to obey relevant marketing laws. We abhor SPAM and make reasonable efforts to ensure that our marketing communications are not considered SPAM. eLearners will purchase marketing lists, but only from those vendors and partners that acquire the users opt-in consent and uphold strict privacy standards. Those users individuals that receive our marketing communications, but no longer wish to these receive marketing communications from eLearners may opt-out by sending an email to our Marketing Department. If you have any complaints about any eLearners advertisement, please contact us using the contact information in the last section of this document.
+**Customer Testimonials**
 
-###  Co-Branded Sites
+We post customer testimonials on our web site which may contain personally identifiable information like a video along with their first and last name. We do obtain the customer's consent via email or via other means prior to posting the testimonial to post their name and video along with their testimonial.
 
-We partner with a wide range of websites by sharing our site content in the form of a co-branded education portal section of the partner's site. All co-branded portals powered by eLearners.com will have a URL in the form of " _<http://partnername.elearners.com/>_ " and will have our name and a link to this privacy policy in the footer. The content and data are all stored on our servers as with our main website eLearners.com. The co-branded versions of eLearners.com may incorporate any and all aspects of this website, and as a result those co-branded portals are covered by this entire privacy policy. No personally identifiable information is shared by eLearners with our co-branding partners.
+**Behavioral targeting/Re-targeting**
 
-###  Affiliate Marketing Programs
+We partner with a third party to either display advertising on our Web site or to manage our advertising on other sites. Our third party partner may use technologies such as cookies to gather information about your activities on this site and other sites in order to provide you advertising based upon your browsing activities and interests. If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking [here](http://preferences-mgr.truste.com/). Please note this does not opt you out of being served ads. You will continue to receive generic ads.
 
-eLearners does collect business information data and PII for businesses and sole proprietors that join the Affiliate Marketing Program. eLearners does not share any business information or PII collected from businesses or sole proprietors that join its Affiliate Marketing Program. eLearners also places display and text advertising on select "affiliate" websites. Each link or display ad directs users to eLearners.com or its specific affiliate website at the URL of " _<http://select.elearners.com/>_." Every page will have our name and a link to this privacy policy in the footer. The content and data are all stored on eLearners.com servers. No personally identifiable information is shared by eLearners with our affiliate marketing partners.
+**Social Media Features and Widgets**
 
-###  Special Offers and Updates
+Our Web site includes Social Media Features, such as the Facebook Like button and Widgets, such as the Share this button or interactive mini-programs that run on our site. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it.
 
-From time to time, members who have requested information from our partners may receive information on products, services, special deals, and a newsletter from them and us. Out of respect for the privacy of our users we present the option to not receive these types of communications. Please see the Choice and Opt-out sections.
+**Links to Other Web Sites**
 
-###  Newsletter
+If you click on a link to a third party site, including on an advertisement, you will leave the [www.eLearners.com](http://www.elearners.com/) site you are visiting and go to the site you selected. Because we cannot control the activities of third parties, we cannot accept responsibility for any use of your personally identifiable information by such third parties, and we cannot guarantee that they will adhere to the same privacy practices as [www.eLearners.com](http://www.elearners.com/). We encourage you to review the privacy statements of any other service provider from whom you request services. If you visit a third party website that is linked to a [www.eLearners.com](http://www.elearners.com/) site, you should read that site’s privacy statement before providing any personally identifiable information.
 
-If a user wishes to subscribe to our newsletter, we ask for contact information such as name and email address. Out of respect for our users privacy we provide a way to opt-out of these communications. Please see the Choice and Opt-out sections.
+**Transfer to the United States**
 
-###  Service Announcements
+If you are located outside of the United States, please note that the personal data you provide to us will be transferred to the United States. Whenever you submit any personal data to us, you consent to this transfer.
 
-On rare occasions it is necessary to send out a strictly service related announcement. For instance, if our service is temporarily suspended for maintenance we might send users an email. Generally, users may not opt-out of these communications, though they can deactivate their account. However, these communications are not promotional in nature. Users may opt-out of these communications. Please see our Choice and Opt-out section.
+**Review and Correction**
 
-###  Customer Service
+You may review, update and delete the personal data you have provided to us contacting us via e-mail at [info@eLearners.com](mailto:info@eLearners.com) or by sending us written notice via postal mail to:
 
-We communicate with users on a regular basis to provide requested services and in regards to issues relating to their account we reply via email or phone, in accordance with the users wishes.
+Attn: Information Inquiry or Update  
+EducationDynamics, LLC  
+5 Marine View Plaza, Suite 212  
+Hoboken, NJ 07030
 
-###  Legal Disclaimer
+Any revisions you provide to your personal data will be applied in our own records but will not be updated in the records of the educational institutions to which we have already provided your data. If you would like to review and correct the personal data that has been provided to educational institutions, you will need to contact them separately.
 
-Though we make every effort to preserve user privacy, we may need to disclose personal information when required by law wherein we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order or legal process served on our website.
+We will retain your information for as long as your account is active or as needed to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
-###  Aggregate Information (non-personally identifiable)
+**Security Practices**
 
-We share aggregated demographic information with our partners and advertisers. This is not linked to any personally identifiable information.
+We follow generally accepted industry standards to protect the personally identifiable information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
 
-###  Service Providers
+If you have any questions about security on our Web site, you can send email us at [info@eLearners.com](mailto:info@eLearners.com).
 
-We partner with other third parties to provide specific services (e.g., student loans, text books, and other education-related products and services). When the user signs up for these particular services, we share names, or other contact information that is necessary for the third party to provide these services. Service provider forms may ask for contact information (such as name, email, address) and sensitive information (such as date of birth and social security number) for in order to perform their service (such as to verify previous student loans). These third parties are not allowed to use personally identifiable information except for the purpose of providing these services.
+**Business Transfers**
 
-###  Business Transitions
+In the event that someone buys or acquires us or substantially all of our assets, our information about you and your use of our services will likely be one of the acquired assets. You will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information.
 
-In the event eLearners.com goes through a business transition, such as a merger, being acquired by another company, or selling a portion of its assets, users' personal information will, in most instances, be part of the assets transferred. Users will be notified via email prior to a change of ownership or control of their personal information. If as a result of the business transition, the users' personally identifiable information will be used in a manner different from that stated at the time of collection they will be given choice consistent with our notification of changes section.
+**Legal Disclaimer**
 
-###  Choice/Opt-out
+We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or comply with a judicial proceeding, court order, or legal process served on our Web site.
 
-Users who no longer wish to receive any communication from eLearners.com may unsubscribe and opt out at the following address:  
-<http://www.elouttrust.com/o-dntcf-d21-6f21a7f53a0e4879ecbb65c6d4be7060>.  
-If users are receiving newsletter communications, users can opt out by clicking on the unsubscribe link in the newsletter.
+**Truste Privacy**
 
-Users of our site are always notified when their information is being collected by any outside parties. We do this so our users can make an informed choice as to whether or not they should proceed with services that require an outside party.
+EducationDynamics, LLC has received TRUSTe's Privacy Seal signifying that this privacy statement and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal. The TRUSTe program covers only information that is collected through this Web site, [www.eLearners.com](http://www.elearners.com/).
 
-###  Links
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe at <https://feedback-form.truste.com/watchdog/request>.
 
-This website contains links to other sites. Please be aware that we, eLearners.com, are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every website that collects personally identifiable information. This privacy statement applies solely to information collected by this website. Certain links on eLearners.com may be i-framed, in an RSS feed or in a redirect form for tracking purposes only. If a URL appears to be masked, it is done to ensure our internal tracking systems log activity. eLearners does not condone nor tolerate deceptive link building.
-
-###  Surveys & Contests
-
-From time-to-time our site requests information from users via surveys or contests. Participation in these surveys or contests is completely voluntary and the user therefore has a choice whether or not to disclose this information. The requested information typically includes contact information (such as name and shipping address), and demographic information (such as zip code). Contact information will be used to notify the winners and award prizes. Anonymous Survey information will be used for purposes of monitoring or improving the use and satisfaction of this site. Users' personally identifiable information is not shared with third parties unless we give prior notice and choice. Though we may use an intermediary to conduct these surveys or contests, they may not use users' personally identifiable information for any secondary purposes.
-
-###  Tell a Friend Service
-
-Throughout the site, users are able to "tell a friend" about eLearners.com or a particular course, program or related service offered by eLearners. To facilitate this service, eLearners collects the sending parties email address, name and a brief comment (optional) as well as the receiving parties email address and name. This information is gathered for the purpose of notifying sending a one-time invitation to the visitor's friend(s) and the visitor of eLearners services. This information is not sold or given to any third party source. Should eLearners desire to contact the sending or receiving parties to notify both parties of new eLearners related services or for other related purposes, we will first send a one-time email message to these individuals to solicit Opt-In consent.
-
-###  Security
-
-eLearners.com takes every precaution to protect our users' personal information and email address. When users submit sensitive information via the website, their information is protected both online and offline.
-
-All school request information forms are encrypt data using SSL (Secure Socket Layer) encryption. SSL is industry standard and it enables users to enter Personally Identifiable Information in a safe and secure manner.
-
-While we use SSL encryption to protect sensitive information online, we also do everything in our power to protect user-information offline. All of our users' information, not just the sensitive information mentioned above, is restricted in our offices. Only employees who need the information to perform a specific job (for example, our billing clerk or a customer service representative) are granted access to personally identifiable information. Employees must also use password-protected screen-savers when they leave their desk. When they return, they must re-enter their password to re-gain access to user information. Furthermore, ALL employees are kept up-to-date on our security and privacy practices. Every month, as well as any time policies are added, our employees are notified and/or reminded about the importance we place on privacy, and what they can do to ensure our users' information is protected. Finally, the servers that store personally identifiable information are in a secure environment. If users have any questions about the security at our website, users can send an email to [privacy@elearners.com](mailto:privacy@elearners.com "privacy@elearners.com").
-
-###  Modifications to Submitted Information
-
-Users that conduct the following actions: submit an information request from a school; join the eLearners Community; register for special offers and promotions; and/or sign up for the eLearners Newsletter can modify their information by emailing [privacy@elearners.com](mailto:privacy@elearners.com "privacy@elearners.com") to change or modify any PII, including email address. Users who have joined the eLearners community who need to change their user name and password can do so by checking the FAQ page on the eLearners Community.
-
-eLearners may also append user data with data obtained from third parties for internal marketing and targeting purposes. The company shall refrain from sharing any appended data collected from third parties with subsequent third parties.
-
-###  Blogs and Forums
-
-If you use blogs and forums on this site, you should be aware that any personally identifiable information you submit there can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit in these forums. In addition, all users of our blogs and forums must adhere to the eLearners Member Conduct listed below:
-
-###  Member Conduct
-
-You understand that all information, data, text, messages, or other materials ("Content"), whether publicly posted or privately transmitted, are the sole responsibility of the person from whom such Content originated. This means that you, and not eLearners, are entirely responsible for all Content that you upload, post, email, transmit or otherwise make available via the Service. eLearners does not control the Content posted via the Service and, as such, does not guarantee the accuracy, integrity or quality of such Content. You understand that by using the Service, you may be exposed to Content that is offensive, indecent or objectionable. Under no circumstances will eLearners be liable in any way for any Content, including, but not limited to: any errors or omissions in any Content; any loss or damage of any kind incurred as a result of the use of any Content posted, emailed, transmitted or otherwise made available via the Service.
-
-The full _Terms of Service_ can be found here: <http://community.elearners.com/content/termsofservice.aspx>.
-
-###  Notification of Changes
-
-If we decide to change our privacy policy or email practices, we will post those changes to this privacy statement, the home page, and other places we deem appropriate so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We will use information in accordance with the privacy policy under which the information was collected.
-
-If, however, we are going to use users' personally identifiable information or email address in a manner different from that stated at the time of collection we will notify users via email. Users will have a choice as to whether or not we use their information in this different manner.
-
-###  Contact Information
-
-If users have any questions or suggestions regarding our privacy policy, please contact us at:  
-E-mail: [privacy@elearners.com](mailto:privacy@elearners.com "privacy@elearners.com")  
-Postal Address: 5 Marine View Plaza, Suite 212, Hoboken, NJ 07030
-
-This updated policy is effective as of October 24, 2012
+**Last Updated on May 18, 2015**. This Privacy Policy is effective immediately for new users after that date and will become effective on June 1, 2015 for pre-existing users. To review the previous policy, please click [here](http://content.educationdynamics.com/privacypolicy/elearners_Privacy_Policy.pdf).
