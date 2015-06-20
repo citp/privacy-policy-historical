@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the evaninsurance.co.uk privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630212511id_/http%3A//www.evaninsurance.co.uk/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the evaninsurance.co.uk privacy policy that was archived on 2015-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150620064711id_/http%3A//www.evaninsurance.co.uk/privacy.php) for the most accurate reproduction.*
 
 # eVan - Privacy and Security
 
@@ -32,9 +32,9 @@ back to top
 
 We will endeavour to treat all your personal information as private and confidential. Other than under the terms of this privacy statement we will not disclose any of your information to anyone. We would like to bring your attention to our obligations to disclose information in the following exceptional cases permitted by law. These are: 
 
-  * Where we are legally forced to 
-  * Where there is a duty to the public to disclose information 
-  * Where you have given permission to disclose information 
+  * Where we are legally forced to
+  * Where there is a duty to the public to disclose information
+  * Where you have given permission to disclose information
   * Where we have to protect our interest 
 
 
@@ -55,7 +55,13 @@ back to top
 
 ## 5\. How Your Information Will Be Used
 
-Your information will be used for a number of purposes which include automatically processing your quotation, managing and administering your policy, claims handling and responding to complaints or policy enquiries. eVan and carefully selected third parties may use your information to keep you informed by post, telephone or email of products or services which maybe of interest to you. We will also contact you to remind you your insurance is due for renewal.
+Your information will be used for a number of purposes which include automatically processing your quotation, managing and administering your policy, claims handling and responding to complaints or policy enquiries. We'll also contact you to remind you that your insurance is due for renewal
+
+From time to time, we'd like to get in touch with you by phone, email, SMS or post to tell you about the other products, services and special offers available from Brightside Group.
+
+Your details are safe with us because we won't share your details with anyone else for marketing purposes.
+
+If you don't want to hear from us, simply opt out of receiving marketing communications by writing to our Marketing Department at: eGroup Insurance, Brightside Park, Aust, Bristol, BS35 4BL or email them at [marketing@egroupltd.co.uk ](mailto:marketing@egroupltd.co.uk "marketing@egroupltd.co.uk").
 
 back to top
 
@@ -65,13 +71,13 @@ You can write to us at any time to obtain details of the information we hold abo
     
     
       Data Protection Officer
-      eVan
-      MMT Centre
+      eGroup Insurance
+      Brightside Park
       Severn Bridge
       Aust
       Bristol
       BS35 4BL
-      
+    
 
 Please quote your name, postal address and email address along with the details of your requirement. We will take reasonable steps to confirm your identity before providing you with details of any personal information we may hold about you. Therefore we would be grateful if you could provide two forms of identification such as a copy of a passport or driving licence and a copy of a utility bill to confirm address. In accordance with the Data Protection Act, 1998 we are entitled to charge £10 to cover the administration costs involved with this process. Please make cheques payable to “Brightside Insurance Services Limited”.
 
@@ -96,7 +102,7 @@ There are two main categories of cookies:
 
 #### Essential cookies
 
-Essential cookies are technical cookies that are required for the operation of our sites. Without essential cookies our web site can’t operate properly. Essential cookies include, for example, cookies that enable you to log into secure areas. 
+Essential cookies are technical cookies that are required for the operation of our sites. Without essential cookies our web site can't operate properly. Essential cookies include, for example, cookies that enable you to log into secure areas. 
 
 #### Performance cookies
 
