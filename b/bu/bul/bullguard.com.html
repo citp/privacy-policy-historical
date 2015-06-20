@@ -1,15 +1,23 @@
-<!--The following is the downloaded HTML source of the bullguard.com privacy policy that was archived on 2014-11-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141122183723id_/http%3A//www.bullguard.com/about/privacy-policy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bullguard.com privacy policy that was archived on 2015-06-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150620032429id_/http%3A//www.bullguard.com/about/privacy-policy.aspx) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml"><head><link rel="icon" type="image/png" href="//www.bullguard.com/favicon.png"><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><link rel="alternate" hreflang="en" href="http://www.bullguard.com/about/privacy-policy.aspx">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" style="" class=" js flexbox flexboxlegacy canvas canvastext webgl geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths"><head><link rel="icon" type="image/png" href="//www.bullguard.com/favicon.png"><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><link rel="alternate" hreflang="en" href="http://www.bullguard.com/about/privacy-policy.aspx">
 <meta http-equiv="content-language" content="en"><meta content="privacy policy" name="keywords"><meta content="BullGuard Ltd. is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent organisation whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the site www.bullguard.com. Because this web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe." name="description"><meta name="pingdom" content="site verification"><title>
 	BullGuard - Privacy Policy
 </title><link rel="publisher" href="https://plus.google.com/102909736483892980240">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  
   <link href="/css/master.ws30.css" rel="stylesheet" type="text/css" media="screen,handheld">
+  <link media="screen" type="text/css" rel="stylesheet" href="/css/mobile.css">
   
   <link rel="apple-touch-icon" href="/favicon-apple.png">
-  <script src="https://dnn506yrbagrg.cloudfront.net/pages/scripts/0012/0747.js?439029" async="" type="text/javascript"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-TS82NQ"></script><script type="text/javascript" src="/js/jquery162min.js"></script>
+  <script src="https://dnn506yrbagrg.cloudfront.net/pages/scripts/0012/0747.js?439013" async="" type="text/javascript"></script><script src="https://secure.quantserve.com/aquant.js?a=p-e63Wnergpaayr" async="" type="text/javascript"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-TS82NQ"></script><script type="text/javascript" src="/js/jquery162min.js"></script>
   <script type="text/javascript" src="/js/languagechecker.js"></script>
+  
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+  <script>var $j = jQuery.noConflict(true);</script>
+  <script type="text/javascript" src="/scripts/mobile.js"></script>
+  
   
   
   
@@ -46,8 +54,6 @@
                           'Monaco',
                           'Luxembourg',
                           'Slovenia'];
-    var POTA_Countries= ['United Kingdom',
-                          'United States'];
     
     
     $(function () {
@@ -65,28 +71,7 @@
       
     var isSET = document.cookie.indexOf("eucookie");
      var isSETCountry = document.cookie.indexOf("DetectedCountry");
-    var isSETPota = document.cookie.indexOf("POTA");
-      if(isSETPota == -1){
-         $.ajax({
-                type: "GET",
-                url: "/getcountry.ashx",
-                data: { },
-                contentType: "text/plain",
-                success: function (countryName) {
-                  if (countryName != null && countryName != undefined && countryName != ''){
-                      var date = new Date();
-                    date.setTime(date.getTime() + (24 * 60 * 60 * 1000));
-                     document.cookie = "POTA=" + countryName + ";expires=" + date.toGMTString() ;
-                     CheckPota();
-                  }
-                },
-                error: function (jqXHR, textStatus, errorThrown) {
-                }
-             });
-      }
-      else{
-        CheckPota();
-      }
+    
       if (isSET != -1) {
          $("#cookies").hide(); 
       }
@@ -140,74 +125,7 @@
       window.location='/search.aspx?search='+val;
       }
     }
-    function CheckPota(){
-      try{
-        
-         $(".potaUK").hide();
-       $(".potaUS").hide();
-        $(".pota").hide();
-        
-        return;
-  
-       var countryName  = getEUCookie("POTA");
-      var myStylesLocation = "";
-      if(window.location.pathname == "/"){
-         $('<link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Oswald:300" >').appendTo("body");
-      }
-      
-       if (countryName !=null && countryName != "" && $.inArray(countryName, POTA_Countries)!= -1) {
-        if (countryName == 'United Kingdom') {
-          if(window.location.pathname=="/"){
-           myStylesLocation = "/css/potaTakeOverMainUK.css";
-          }
-             else {
-               myStylesLocation = "/css/potaTakeOverUK.css";
-             }
-         $(".potaUK").show();
-           $(".potaUS").hide();
-          $(".pota").show();
-        }
-        if (countryName == 'United States') {
-          if(window.location.pathname=="/"){
-           myStylesLocation = "/css/potaTakeOverMainUS.css";
-          }
-             else {
-               myStylesLocation = "/css/potaTakeOverUS.css";
-             }
-        $(".potaUS").show();
-           $(".potaUK").hide();
-          $(".pota").show();
-        }
-         if(navigator.appName.indexOf("Internet Explorer")!=-1){     
-              var lowVersion=(
-                  navigator.appVersion.indexOf("MSIE 9")==-1 &&   //v9 is ok
-                  navigator.appVersion.indexOf("MSIE 1")==-1  //v10, 11, 12, etc. is fine too
-              );
-          
-              if(lowVersion){
-                  var head  = document.getElementsByTagName('head')[0];
-                  var link  = document.createElement('link');
-                  link.rel  = 'stylesheet';
-                  link.type = 'text/css';
-                  link.href = myStylesLocation;
-                  head.appendChild(link);
-              }
-              else{
-                $('<link rel="stylesheet" type="text/css" href="'+myStylesLocation+'" >').appendTo("head");
-              }
-          }
-        else{
-          $('<link rel="stylesheet" type="text/css" href="'+myStylesLocation+'" >').appendTo("head");
-        }
-      }
-      else{
-       $(".potaUK").hide();
-       $(".potaUS").hide();
-        $(".pota").hide();
-    }
-    }
-    catch(err) {}
-    }   
+    
     
      var setEUCookie = function () {  
         $("#cookies").animate({opacity: 0}, 200);
@@ -284,9 +202,47 @@
       });
   // ]]>
   </script>
+         <link media="screen" type="text/css" rel="stylesheet" href="/css/easter2015.css">
+         <script src="/scripts/countdown.js"></script>
+    <script>
+  var promoDate = new Date("9 february 2015 13:00:00");
+  var endDate = new Date("17 february 2015 14:00:00");
+  var currentDate = new Date();
+      var timerDate = new Date("17 february 2015 12:00:00");
+      var css = '';
+      if(currentDate < promoDate){
+          css = '/css/christmas2014.css';
+      }
+      else if(currentDate  >=promoDate && currentDate < endDate ){
+          timerDate = new Date("17 february 2015 12:00:00");
+          css = '/css/valentines2015.css';
+      }
+        
+      if(css != ''){
+        $('head').append( $('<link rel="stylesheet" type="text/css" media="screen,handheld" />').attr('href', css) );
+      }
+      
+    $(document).ready(function(){
  
-       
- 
+  //countDown
+      /*$(".countdownTimer").countdown({
+    date: timerDate,
+    format: "on"
+    });*/
+  
+  //close sticky
+  $('.closeSticky').click(function() {
+    $('#stickyBottom').hide();
+  });
+  
+  //close logo tool tip
+  $('.closeLogoTip').click(function() {
+    $('#logoTooltip').hide();
+  });
+  
+});
+    </script>
+        
   
 </head>
       <body>  
@@ -345,14 +301,42 @@ if(aff=="")
     });
     </script>
         <!-- End of IndexTools Code -->
-        <form name="aspnetForm" method="post" action="/about/privacy-policy.aspx" id="aspnetForm">
+        <form method="post" action="/about/privacy-policy.aspx" id="aspnetForm">
 <div>
+<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="">
+<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUENTM4MWRkJ3ywKYia5g7Fm4ewizscW6knJEU=">
 </div>
 
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['aspnetForm'];
+if (!theForm) {
+    theForm = document.aspnetForm;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
+
+
+<script src="/WebResource.axd?d=WumPbSvktoGgCtU-PC8_dA2&amp;t=635295180254197539" type="text/javascript"></script>
+
 
 <script src="/ScriptResource.axd?d=fUmf-OcCGgtRjWxVmSjrb94Ukydzs7FdGuzWYAwv3j-envYO3lJRS-7zfGy48D_SF2mDqCFMCDjw0R9sgn-RCzz9C_jY-Y_LAOOg2UQI8hs1&amp;t=2e2045e2" type="text/javascript"></script>
-          
+<script src="/ScriptResource.axd?d=fUmf-OcCGgtRjWxVmSjrb94Ukydzs7FdGuzWYAwv3j-envYO3lJRS-7zfGy48D_S8QBwp_QOQuTtSm_uRHbjkbVzBfn_oyCvedd34JzbVtg1&amp;t=2e2045e2" type="text/javascript"></script>
+          <script type="text/javascript">
+//<![CDATA[
+Sys.WebForms.PageRequestManager._initialize('ctl00$ctl00$ctl00$ctl00$ctl00$ContentPlaceHolderDefault$scriptmanager', document.getElementById('aspnetForm'));
+Sys.WebForms.PageRequestManager.getInstance()._updateControls([], [], [], 90);
+//]]>
+</script>
+
           
   
 <script type="text/javascript">
@@ -383,14 +367,7 @@ if(aff=="")
 </script>
 
    
- <!-- 
- <div id="cookies">
-    We use cookies to ensure that we give you the best experience on our website. By
-    continuing to browse, we are assuming that you have no objection in accepting cookies.
-    You can <a style="color: #fff;" href="/about/cookie-policy.aspx">change your cookie
-        settings</a> at any time.<input type="button" onclick="javascript:setEUCookie();" />
-</div> -->
-  
+ 
  <div id="cookies">
     We use cookies to ensure that we give you the best experience on our website. By
     continuing to browse, we are assuming that you have no objection in accepting cookies.
@@ -398,6 +375,14 @@ if(aff=="")
         settings</a> at any time.<input type="button" onclick="javascript:setEUCookie();">
 </div>
    
+  
+     <!-- black friday -->
+      
+
+    
+      <!-- black friday -->
+      
+      
   <div id="top">
     <a title="BullGuard" id="logoTop" href="/" onclick="try {dataLayer.push({'event':'siteEvent', 'siteEvtCateg': 'HeaderTabs', 'siteEvtAction': 'Logo', 'siteEvtLabel': document.location.pathname});} catch(err){}"></a>
     <ul id="menu" style="display:none;">
@@ -436,14 +421,27 @@ if(aff=="")
 
        </li>
     </ul>
+  
+  
+  <!-- meniu, language, search responsive START -->
+  
+  <button type="button" class="button-menu hidden" id="menu-trigger" data-menu-state="collapsed">
+      <span></span>
+      <span></span>
+      <span></span>
+    </button>
+  
+  <div class="menu-right" id="menuR">
+  
     <div style="float: left; text-align: center;width: 621px; position: relative; z-index: 9999 !important;">
-    <ul id="menu2Levs" class="">
+    <ul id="menu2Levs" class="nojs">
     <li class="hasDropdown">
-      <a title="PRODUCTS" href="/products.aspx" onclick="try {dataLayer.push({'event':'siteEvent', 'siteEvtCateg': 'HeaderTabs', 'siteEvtAction': 'Products', 'siteEvtLabel': document.location.pathname});} catch(err){}" class="">
+      <a title="PRODUCTS" href="/products.aspx" onclick="try {dataLayer.push({'event':'siteEvent', 'siteEvtCateg': 'HeaderTabs', 'siteEvtAction': 'Products', 'siteEvtLabel': document.location.pathname});} catch(err){}" class="no-click">
       PRODUCTS
       </a>
      <div class="dropDownMenu">
     <em></em>
+  <a class="mobile-only" href="/products.aspx">All products</a>
     <p>Security Products<img src="/media/1260199/menuarrows.png" style="position: absolute; bottom: 0px; left: 8px;" alt=""></p>
     <a href="/products/bullguard-premium-protection.aspx" title="Premium Protection">Premium Protection</a>
     <a href="/products/bullguard-internet-security.aspx" title="Internet Security">Internet Security</a>
@@ -457,7 +455,7 @@ if(aff=="")
      </div>
     </li>
     <li class="hasDropdown">
-    <a title="DOWNLOADS" href="/downloads.aspx" onclick="try {dataLayer.push({'event':'siteEvent', 'siteEvtCateg': 'HeaderTabs', 'siteEvtAction': 'Downloads', 'siteEvtLabel': document.location.pathname});} catch(err){}" class="">
+    <a title="DOWNLOADS" href="/downloads.aspx" onclick="try {dataLayer.push({'event':'siteEvent', 'siteEvtCateg': 'HeaderTabs', 'siteEvtAction': 'Downloads', 'siteEvtLabel': document.location.pathname});} catch(err){}" class="no-click">
      
      DOWNLOADS
      </a>
@@ -474,7 +472,7 @@ if(aff=="")
      </div>
     </li>
     <li class="hasDropdown">
-    <a title="SHOP" href="https://www.bullguard.com/shop" onclick="try {dataLayer.push({'event':'siteEvent', 'siteEvtCateg': 'HeaderTabs', 'siteEvtAction': 'Shop', 'siteEvtLabel': document.location.pathname});} catch(err){}">
+    <a title="SHOP" href="https://www.bullguard.com/shop" onclick="try {dataLayer.push({'event':'siteEvent', 'siteEvtCateg': 'HeaderTabs', 'siteEvtAction': 'Shop', 'siteEvtLabel': document.location.pathname});} catch(err){}" class="no-click">
              SHOP
            </a>
      <div class="dropDownMenu">
@@ -503,7 +501,7 @@ if(aff=="")
          </div>
     </li>
     <li class="hasDropdown">
-      <a title="SUPPORT" href="/support.aspx" onclick="try {dataLayer.push({'event':'siteEvent', 'siteEvtCateg': 'HeaderTabs', 'siteEvtAction': 'Support', 'siteEvtLabel': document.location.pathname});} catch(err){}" class="">
+      <a title="SUPPORT" href="/support.aspx" onclick="try {dataLayer.push({'event':'siteEvent', 'siteEvtCateg': 'HeaderTabs', 'siteEvtAction': 'Support', 'siteEvtLabel': document.location.pathname});} catch(err){}" class="no-click">
              SUPPORT
            </a>
      <div class="dropDownMenu">
@@ -530,8 +528,8 @@ if(aff=="")
     </li>
 </ul>
   </div>
-  <div style="float: right; margin: 22px 28px 0 0;">
-    <div id="lang"><p class="floatL" style="line-height: 13px;"><a id="languageSel" href="http://www.bullguard.com/language-chooser.aspx?from=%2fabout%2fprivacy-policy.aspx">English</a></p><ul id="menu2Levs" class="floatL" style="margin-top: 0px;"><li class="hasDropdown" style="margin-left: 0; display: block"><a href="http://www.bullguard.com/language-chooser.aspx?from=%2fabout%2fprivacy-policy.aspx" style=""><img style="border: 1px solid #fff; margin-bottom: -1px;" src="/img/languages1.png" alt=""></a><div class="dropDownMenu"><em>&nbsp;</em><a href="http://www.bullguard.com/da/about/privacy-policy.aspx" title="">Dansk</a><a href="http://www.bullguard.com/de/about/privacy-policy.aspx" title="">German</a><a href="http://www.bullguard.com/en/about/privacy-policy.aspx" title="">English</a><a href="http://www.bullguard.com/es/about/privacy-policy.aspx" title="">Español</a><a href="http://www.bullguard.com/fr/about/privacy-policy.aspx" title="">Français</a><a href="http://www.bullguard.com/nl/about/privacy-policy.aspx" title="">Nederlands</a><a href="http://www.bullguard.com/nb-no/about/privacy-policy.aspx" title="">Norsk</a><a href="http://www.bullguard.com/pt-BR/about/privacy-policy.aspx" title="">Português do Brasil</a><a href="http://www.bullguard.com/sv/about/privacy-policy.aspx" title="">Svenska</a><a href="http://www.bullguard.com/zh-cn/about/privacy-policy.aspx" title="">中文</a><a href="http://www.bullguard.com/zh-tw/about/privacy-policy.aspx" title="">中文（繁體）</a></div></li></ul><p></p></div>
+  <div style="float: right; margin: 22px 28px 0 0;" class="src-lang">
+    <div id="lang"><p class="floatL" style="line-height: 13px;"><a id="languageSel" href="http://www.bullguard.com/language-chooser.aspx?from=%2fabout%2fprivacy-policy.aspx">English</a></p><ul id="menu2Levs" class="nojs floatL" style="margin-top: 0px;"><li class="hasDropdown" style="margin-left: 0; display: block"><a href="http://www.bullguard.com/language-chooser.aspx?from=%2fabout%2fprivacy-policy.aspx" style=""><img style="border: 1px solid #fff; margin-bottom: -1px;" src="/img/languages1.png" alt=""></a><div class="dropDownMenu"><em>&nbsp;</em><a href="http://www.bullguard.com/da/about/privacy-policy.aspx" title="">Dansk</a><a href="http://www.bullguard.com/de/about/privacy-policy.aspx" title="">German</a><a href="http://www.bullguard.com/en/about/privacy-policy.aspx" title="">English</a><a href="http://www.bullguard.com/es/about/privacy-policy.aspx" title="">Español</a><a href="http://www.bullguard.com/fr/about/privacy-policy.aspx" title="">Français</a><a href="http://www.bullguard.com/nl/about/privacy-policy.aspx" title="">Nederlands</a><a href="http://www.bullguard.com/nb-no/about/privacy-policy.aspx" title="">Norsk</a><a href="http://www.bullguard.com/pt-BR/about/privacy-policy.aspx" title="">Português do Brasil</a><a href="http://www.bullguard.com/sv/about/privacy-policy.aspx" title="">Svenska</a><a href="http://www.bullguard.com/zh-cn/about/privacy-policy.aspx" title="">中文</a><a href="http://www.bullguard.com/zh-tw/about/privacy-policy.aspx" title="">中文（繁體）</a></div></li></ul><p></p></div>
     <p class="clearfix"></p>
   <div id="searchDiv">
     <fieldset class="search">
@@ -541,14 +539,12 @@ if(aff=="")
     </fieldset>
   </div>
   </div>
+  
+  </div>
+  <!-- meniu, language, search responsive END -->
 
   </div>
-  
-     
-      <!--
-      -->
-      
-        <div id="container" class="rel">
+  <div id="container" class="rel">
     
     <div id="breadcrumbs">
       
@@ -616,14 +612,8 @@ if(aff=="")
         <a href="/about/privacy-policy.aspx">Privacy Policy &amp; Cookies</a>
       </div>
     </div>
-             
-      <div class="potaUK" style="display:none">
-       <a href="http://www.bullguard.com/landing-pages/pota.aspx" id="potaBanTop"></a>
-      </div>
-      <div class="potaUS" style="display:none">
-      <a href="http://www.bullguard.com/landing-pages/pota-us.aspx" id="potaBanTop"></a>
-      </div>
-      
+            
+    
   
 
     
@@ -649,7 +639,7 @@ if(aff=="")
 </div>
 <div class="webtermscontentDiv">
 <p class="webtermscontentPTitle">The information we collect and how we collect it</p>
-<p class="webtermscontentP">We store all the information you enter on our Web site to customise services for you, improve our Web site, and communicate with you in regards to special offers, bonuses, sales and related marketing information and activities. 		<br> <br> If you do not wish to receive information from BullGuard you can always indicate this in your account settings at: <a href="https://www.bullguard.com/my-account.aspx" target="_blank">https://www.bullguard.com/my-account.aspx</a> <br> You can also choose not to receive information from BullGuard by using the function "Unsubscribe" in the case of the Newsletter or the "Do not show this again" function in the application windows. 		<br> <br> Personal information is requested when you place an order, register an account or in our forums, correspond with us or use the services offered on our Web site. These are the categories of data we request: Name, mailing address, e-mail address, phone number and credit card details. If you choose to use our referral service to tell a friend about our site, we will ask you for your friend's name and email address. We will automatically send your friend a one-time email inviting him or her to visit the site. BullGuard stores this information for the sole purpose of sending this one-time email and tracking the success of our referral programme. 		<br> <br> Your friend may contact us at <a href="mailto:support@bullguard.com">support@bullguard.com</a> to request that we remove this information from our database.</p>
+<p class="webtermscontentP">We store all the information you enter on our Web site to customise services for you, improve our Web site, and communicate with you in regards to special offers, bonuses, sales and related marketing information and activities. 		<br> <br> If you do not wish to receive information from BullGuard you can always indicate this in your account settings at: <a target="_blank" href="https://www.bullguard.com/my-account.aspx">https://www.bullguard.com/my-account.aspx</a> <br> You can also choose not to receive information from BullGuard by using the function "Unsubscribe" in the case of the Newsletter or the "Do not show this again" function in the application windows. 		<br> <br> Personal information is requested when you place an order, register an account or in our forums, correspond with us or use the services offered on our Web site. These are the categories of data we request: Name, mailing address, e-mail address, phone number and credit card details. If you choose to use our referral service to tell a friend about our site, we will ask you for your friend's name and email address. We will automatically send your friend a one-time email inviting him or her to visit the site. BullGuard stores this information for the sole purpose of sending this one-time email and tracking the success of our referral programme. 		<br> <br> Your friend may contact us at <a href="mailto:support@bullguard.com">support@bullguard.com</a> to request that we remove this information from our database.</p>
 </div>
 <div class="webtermscontentDiv">
 <p class="webtermscontentPTitle">Cookies</p>
@@ -661,7 +651,7 @@ if(aff=="")
 </div>
 <div class="webtermscontentDiv">
 <p class="webtermscontentPTitle">Behavioral Targeting / Re-Targeting</p>
-<p class="webtermscontentP">We partner with a third party ad network to either display advertising on our Web site or to manage our advertising on other sites.  Our ad network partner uses cookies and Web beacons to collect non-personal information about your activities on this and other Web sites to provide you targeted advertising based upon your interests.  If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by clicking <a target="_blank" rel="nofollow" href="http://preferences-mgr.truste.com">here</a>.  Please note this does not opt you out of being served advertising.  You will continue to receive generic ads. Social Media Widgets Our Web site includes Social Media Features, such as the Facebook Like button [and Widgets, such as the Share this button or interactive mini-programs that run on our site]. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it.</p>
+<p class="webtermscontentP">We partner with a third party ad network to either display advertising on our Web site or to manage our advertising on other sites.  Our ad network partner uses cookies and Web beacons to collect non-personal information about your activities on this and other Web sites to provide you targeted advertising based upon your interests.  If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by clicking <a href="http://preferences-mgr.truste.com" rel="nofollow" target="_blank">here</a>.  Please note this does not opt you out of being served advertising.  You will continue to receive generic ads. Social Media Widgets Our Web site includes Social Media Features, such as the Facebook Like button [and Widgets, such as the Share this button or interactive mini-programs that run on our site]. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it.</p>
 </div>
 <div class="webtermscontentDiv">
 <p class="webtermscontentPTitle">What we do with the information</p>
@@ -669,7 +659,7 @@ if(aff=="")
 </div>
 <div class="webtermscontentDiv">
 <p class="webtermscontentPTitle">Communication from BullGuard</p>
-<p class="webtermscontentP">Opt-in: 		<br> <br> - The BullGuard newsletter. You have to opt-in to receive our newsletter and you can unsubscribe at any time, either by clicking the unsubscribe link in the newsletter or by visiting <a href="https://www.bullguard.com/inside/signoff.aspx" target="_blank">/inside/signoff.aspx</a> <br> <br> Opt-out: 		<br> <br> - BullGuard reminder emails. When you are approaching the end of your subscription, we send you a variable number of emails reminding you of the approaching expiry. You can unsubscribe from reminder emails by clicking the unsubscribe link in the reminder emails or by visiting <a href="https://www.bullguard.com/inside/signoff.aspx" target="_blank">/inside/signoff.aspx</a> <br> <br> - BullGuard promotion/survey emails. We will sporadically promote new BullGuard products, features or services in an email to our users and we sometimes send out surveys to get customer feedback on our products. You can unsubscribe from these by clicking the unsubscribe link in the email or by visiting <a href="https://www.bullguard.com/inside/signoff.aspx" target="_blank">/inside/signoff.aspx</a>. We use a third party service provider to conduct these surveys or contests; that company is prohibited from using our users’ personal information for any other purpose. We will not share the personal information you provide through a contest or survey with other third parties unless we give you prior notice and choice.  - Support. We will communicate with you to respond to support requests. This communication takes the form you select (e.g. chat, email).</p>
+<p class="webtermscontentP">Opt-in: 		<br> <br> - The BullGuard newsletter. You have to opt-in to receive our newsletter and you can unsubscribe at any time, either by clicking the unsubscribe link in the newsletter or by visiting <a target="_blank" href="https://www.bullguard.com/inside/signoff.aspx">/inside/signoff.aspx</a> <br> <br> Opt-out: 		<br> <br> - BullGuard reminder emails. When you are approaching the end of your subscription, we send you a variable number of emails reminding you of the approaching expiry. You can unsubscribe from reminder emails by clicking the unsubscribe link in the reminder emails or by visiting <a target="_blank" href="https://www.bullguard.com/inside/signoff.aspx">/inside/signoff.aspx</a> <br> <br> - BullGuard promotion/survey emails. We will sporadically promote new BullGuard products, features or services in an email to our users and we sometimes send out surveys to get customer feedback on our products. You can unsubscribe from these by clicking the unsubscribe link in the email or by visiting <a target="_blank" href="https://www.bullguard.com/inside/signoff.aspx">/inside/signoff.aspx</a>. We use a third party service provider to conduct these surveys or contests; that company is prohibited from using our users’ personal information for any other purpose. We will not share the personal information you provide through a contest or survey with other third parties unless we give you prior notice and choice.  - Support. We will communicate with you to respond to support requests. This communication takes the form you select (e.g. chat, email).</p>
 </div>
 <div class="webtermscontentDiv">
 <p class="webtermscontentPTitle">The security of your information</p>
@@ -677,7 +667,7 @@ if(aff=="")
 </div>
 <div class="webtermscontentDiv">
 <p class="webtermscontentPTitle">How you can change your information</p>
-<p class="webtermscontentP">You can update, change or delete your personal information by: 		<br> <br> - accessing your user account at <a href="https://www.bullguard.com/my-account.aspx" target="_blank">https://www.bullguard.com/my-account.aspx</a> <br> <br> - by email to <a href="mailto:support@bullguard.com">support@bullguard.com</a> <br> <br> - by regular mail to the following address: 		<br> <br> BullGuard Ltd. 		<br> Customer Relations Dept. 		<br> 823 Salisbury House 		<br> 29 Finsbury Circus 		<br> EC2M 5QQ 		<br> London 		<br> <br> United Kingdom 		<br> <br></p>
+<p class="webtermscontentP">You can update, change or delete your personal information by: 		<br> <br> - accessing your user account at <a target="_blank" href="https://www.bullguard.com/my-account.aspx">https://www.bullguard.com/my-account.aspx</a> <br> <br> - by email to <a href="mailto:support@bullguard.com">support@bullguard.com</a> <br> <br> - by regular mail to the following address: 		<br> <br> BullGuard Ltd. 		<br> Customer Relations Dept. 		<br> 9 Devonshire Square<br> EC2M 4YF<br> London 		<br> <br> United Kingdom 		<br> <br></p>
 <br> <br> <br> We will retain your information for as long as your account is active or as needed to provide you services.  We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. We will retain the data you backed up to our servers for 30 more days from the moment your account expired. 	<br> <br> ----- 	<br> <br> BullGuard does not sell products for purchase by children.
 <p>&nbsp;</p>
 </div>
@@ -724,7 +714,7 @@ if(aff=="")
     <br>
     <div id="footerShadow"></div>
 <div id="footer">
-<div class="footPart"><a class="footPartHeading logoFooter" href="/"></a></div>
+<div class="footPart"><a href="/" class="footPartHeading logoFooter"></a></div>
 <div class="footPart">
 <p class="footPartHeading">Products</p>
 </div>
@@ -739,12 +729,12 @@ if(aff=="")
 <br>
 <div class="footPart"><a href="/about.aspx">About Us</a> <a href="/press/product-images.aspx">Press</a> <a href="/resellers-2012.aspx">Partner Lounge</a> <a href="/contact-bullguard.aspx">Contact Us</a></div>
 <div class="footPart"><a href="/products/bullguard-premium-protection.aspx">BullGuard Premium Protection</a> <a href="/products/bullguard-internet-security-old.aspx">BullGuard Internet Security</a> <a href="/products/bullguard-antivirus.aspx">BullGuard Antivirus</a> <a href="/products/bullguard-identity-protection.aspx">BullGuard Identity Protection</a> <a href="/products/bullguard-android-mobile-security.aspx">BullGuard Mobile Security</a></div>
-<div class="footPart"><a href="/products/bullguard-internet-security-2013.aspx">Internet Security</a> <a href="https://play.google.com/store/apps/details?id=com.bullguard.mobile.mobilesecurity" target="_blank">Mobile Security</a> <a href="/downloads.aspx">More downloads</a></div>
+<div class="footPart"><a href="/products/bullguard-internet-security-2013.aspx">Internet Security</a> <a target="_blank" href="https://play.google.com/store/apps/details?id=com.bullguard.mobile.mobilesecurity">Mobile Security</a> <a href="/downloads.aspx">More downloads</a></div>
 <div class="footPart"><a href="/support.aspx">Help Centre</a> <a href="/support/product-guides.aspx">Product Guides</a> <a href="http://forum.bullguard.com">Forums</a> <a href="/support/support-schedule.aspx">Live Technical Support</a></div>
 <p class="clearfix">&nbsp;</p>
-<div class="footerBar" style="margin: 20px 0 20px 0;"></div>
+<div style="margin: 20px 0 20px 0;" class="footerBar"></div>
 <div class="clearfix"><br>
-<div class="socialMediaBox"><strong>Follow Us</strong> <a onclick="window.open('http://www.facebook.com/BullGuard','fbwindow'); return false; " href="http://www.facebook.com/BullGuard" rel="nofollow" title="facebook"><span>Facebook</span></a> <a class="twBtn" onclick="window.open('http://www.twitter.com/BullGuard','fbwindow'); return false;" href="http://www.twitter.com/BullGuard" rel="nofollow" title="twitter"><span>Twitter</span></a> <a class="gPlustBtn" href="https://plus.google.com/102909736483892980240?prscr=3" onclick="window.open('https://plus.google.com/102909736483892980240?prscr=3','fbwindow'); return false;" rel="nofollow" title="googlePlus"><span>Google+</span></a> <a class="liBtn" href="http://www.linkedin.com/company/bullguard?trk=tabs_biz_home" rel="nofollow" onclick="window.open('http://www.linkedin.com/company/bullguard?trk=tabs_biz_home','lnkwindow'); return false; " title="LinkedIn"><span>Linkedin</span></a></div>
+<div class="socialMediaBox"><strong>Follow Us</strong> <a title="facebook" rel="nofollow" href="http://www.facebook.com/BullGuard" onclick="window.open('http://www.facebook.com/BullGuard','fbwindow'); return false; "><span>Facebook</span></a> <a title="twitter" rel="nofollow" href="http://www.twitter.com/BullGuard" onclick="window.open('http://www.twitter.com/BullGuard','fbwindow'); return false;" class="twBtn"><span>Twitter</span></a> <a title="googlePlus" rel="nofollow" onclick="window.open('https://plus.google.com/102909736483892980240?prscr=3','fbwindow'); return false;" href="https://plus.google.com/102909736483892980240?prscr=3" class="gPlustBtn"><span>Google+</span></a> <a title="LinkedIn" onclick="window.open('http://www.linkedin.com/company/bullguard?trk=tabs_biz_home','lnkwindow'); return false; " rel="nofollow" href="http://www.linkedin.com/company/bullguard?trk=tabs_biz_home" class="liBtn"><span>Linkedin</span></a></div>
 </div>
 </div>
   </div>
@@ -752,13 +742,9 @@ if(aff=="")
       <div class="lastImg"></div>
       <p id="copyright">
         © 2002 – 2014 BullGuard. All Rights Reserved. <a href="/about/privacy-policy.aspx">Privacy Policy &amp; Cookies</a>
-           
-        </p><div class="pota" style="text-align: center;margin: -35px 0 40px 0;display:none">
-      Planet of the Apes @ 2014 Twentieth Century Fox Film Corporation. All rights reserved.
-     <img id="foxLogo" src="/img/potaTakeOver/logo_fox.png" alt="fox logo">
-       </div>
-      
-        <p></p>
+        <a href="/about/legal-terms.aspx">Legal Terms</a>
+
+        </p>
     
     </div>
   
@@ -786,7 +772,46 @@ Sys.Application.initialize();
 
 
         
-        
+         <!--  Quantcast Tag -->
+<script>
+  qcdata = {} || qcdata;
+       (function(){
+       var elem = document.createElement('script');
+       elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://pixel") + ".quantserve.com/aquant.js?a=p-e63Wnergpaayr";
+       elem.async = true;
+       elem.type = "text/javascript";
+       var scpt = document.getElementsByTagName('script')[0];
+       scpt.parentNode.insertBefore(elem,scpt);
+     }());
+
+
+   var qcdata = {qacct: 'p-e63Wnergpaayr',
+                        orderid: '',
+                        revenue: ''
+                        };
+</script>
+ <noscript>
+    <img src="//pixel.quantserve.com/pixel/p-e63Wnergpaayr\.gif?labels=_fp.event.Default;" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/>
+  </noscript>
+<script>
+        if(window.location.pathname.endsWith('thankyou.aspx')){
+        var queries = {};
+        $.each(document.location.search.substr(1).split('&'), function(c,q){
+            var i = q.split('=');
+            queries[i[0].toString()] = i[1].toString();
+        });
+        var pid = '';
+        if( typeof queries['pid'] != 'undefined'){
+          pid = queries['pid'];
+        }
+        if( typeof smarttagdata == 'undefined'){
+          smarttagdata = {};
+        }
+        smarttagdata.labels='_fp.channel.'+pid;
+    }
+</script>
+
+<!-- End Quantcast Tag -->      
           
 <script type="text/javascript">
   //<![CDATA[
