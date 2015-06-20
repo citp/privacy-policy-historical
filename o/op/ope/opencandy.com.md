@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the opencandy.com privacy policy that was archived on 2014-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141223044831id_/http%3A//www.opencandy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the opencandy.com privacy policy that was archived on 2015-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150621014750id_/http%3A//opencandy.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - OpenCandy
 
