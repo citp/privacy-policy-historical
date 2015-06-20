@@ -1,36 +1,104 @@
-> *The following text is extracted and transformed from the hesaa.org privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122023054id_/http%3A//www.hesaa.org/Pages/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hesaa.org privacy policy that was archived on 2015-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150620231759id_/http%3A//www.hesaa.org/Documents/PrivacyNotice.pdf) for the most accurate reproduction.*
 
-# Privacy Policy
+# FACTS
 
-**NEW JERSEY HIGHER EDUCATION STUDENT ASSISTANCE AUTHORITY**
+	  
+                                                                                                                                  Rev. 10/2014
+	  
+	  
+	  
+	                                 	  
+	                                                                                            	  
+	  
+	  
+	  
+          FACTS                    WHAT DOES: NJ Higher Education Student Assistance Authority (“HESAA”)
+                                   DO WITH YOUR PERSONAL INFORMATION?
+	  
+          Why?                     Financial companies choose how they share your personal information. Federal law gives
+                                   consumers the right to limit some but not all sharing. Federal law also requires us to tell you
+                                   how we collect, share, and protect your personal information. Please read this notice carefully to
+                                   understand what we do.
+     	                      	   The types of personal information we collect and share depend on the product or service you
+          What?
+                                   have with us. This information can include:
+                                        § Social Security number, income and assets
+                                        § Account balances and payment history
+                                        § Account transactions, credit scores and credit history
+                              	  
+                                   When you are no longer our customer, we continue to share your information as described in this
+                                   notice.
+     	                      	   All financial companies need to share customers’ personal information to run their everyday
+          How?
+                                   business. In the section below, we list the reasons financial companies can share their
+                                   customers’ personal information; the reasons HESAA chooses to share; and whether you
+                                   can limit this sharing.
+	  
+     	                                                                                                  	  
+          Reasons we can share your personal information                     Does HESAA share?                Can you limit this sharing?
+          For our everyday business purposes—                                            	                                 	  
+          such as to process your transactions, maintain
+          your account(s), respond to court orders and legal                           YES	                               No	  
+          investigations, or report to credit bureaus
+          For our marketing purposes—                                                  YES	                               No	  
+          to offer our products and services to you
+          For joint marketing with other financial companies                           YES	                               No	  
+          For our affiliates’ everyday business purposes—                              YES	                               No	  
+          information about your transactions and experiences
+          For our affiliates’ everyday business purposes—                              No	                        We	  Don’t	  Share	  
+          information about your creditworthiness
+          For nonaffiliates to market to you                                           No	                        We	  Don’t	  Share	  
+          Questions?                    Call (609) 584-4480 or go to www.hesaa.org	  
+                                          	  
 
-**NOTICE OF PRIVACY POLICY**
 
-The New Jersey Higher Education Student Assistance Authority's (HESAA) mission includes, in part, providing New Jersey students and families with financial resources such as loans, grants, scholarships and college savings programs to assist students in achieving their educational goals.
-
-Protecting the privacy of your personal information is important to us at HESAA. We respect your right to privacy and recognize our obligation to keep information about you secure and confidential.  We do not sell or share information about you with outside marketers.
-
-Federal legislation requires us to provide you with this notice about our privacy policy. This means personal Information about you which identifies you, and that is not available from public sources.
-
-**HESAA's Privacy Policy**
-
-  * We collect and receive nonpublic personal information about you.  This includes information such as your name, Social Security Number, birth date, assets, and income. We collect this information from the following sources: information we receive from you on loan applications, promissory notes, NJBEST account applications, correspondence, communications and other forms;
-  * Information about your transactions with us or others with respect to your student loan from parties such as your lender(s), loan servicers and the U.S. Department of Education and their agents;
-  * Information received from schools you attend or formerly attended, or to which you have applied for admission; and
-  * Information received from credit reporting agencies and public record, used to verify your identity, to assess creditworthiness, or to better understand your need for products or services.  
-
-
-
-  1. We do not disclose any nonpublic personal information about you or our other current or former customers to anyone, except as permitted by law (we do share such information with our contractors and agents, and to schools, lenders and the U.S. Department of Education, as needed, to administer our programs in conformity with applicable laws and regulations, including Gramm Leach Bliley Act, 15 U.S.C.A. 6801, et seq.).
-  2. We restrict access to nonpublic personal information about you to our employees, contractors, and agents who need to know the information in order to provide service to you, such as servicing and recordkeeping for your account and collecting your student loan. We maintain physical, electronic, and procedural safeguards in compliance with federal regulations to safeguard your nonpublic personal information.
-  3. We do not sell, trade, or disclose nonpublic personal information about you to any unauthorized non-affiliated third parties. However, we may share your information with outside companies that provide essential services like data processing or servicing accounts; when the disclosure is legally required; or when you have authorized the disclosure of information.
-  4. Protecting the confidentiality of and securing your nonpublic personal information is very important to us. Therefore, we have implemented several security measures to protect your personally identifying information from loss, misuse, or alteration. We are in compliance with the applicable provisions of the Fair and Accurate Credit Transactions Act of 2003 and the detection and prevention of identity theft provisions of the Federal Trade Commission’s Red Flag Policy Regulations of 2008.
-  5. We use physical, electronic, and procedural safeguards to protect your information including firewalls, data encryptions, password and authenticated access to internal databases; we enforce physical access control to our buildings and our files; we authorize access to personal information only for those employees who require it to fulfill their job responsibilities.
-  6. We destroy any nonpublic personal information in our possession once it becomes unnecessary.
-  7. We notify all customers of any security breach regarding nonpublic personal information.
-
-
-
-Our Privacy Policy may be revised from time to time as necessary to reflect changes in our law or our policies. As changes are made, you will receive a revised Notice.
-
-Effective Date: December 1, 2008
+          Page 2
+	  
+          Who we are
+     	                                         This Privacy Notice is being provided by the State of New Jersey Higher
+          Who is providing this notice?         Education Student Assistance Authority.
+     	  
+          What we do
+          How does HESAA                         To protect your personal information from unauthorized access
+          protect my personal information?       and use, we use security measures that comply with federal law.
+                                                 These measures include computer safeguards and secured files
+                                                 and buildings.
+                                           	  
+          How does HESAA                         We collect your personal information, for example, when you:
+          collect my personal information? 	  
+                                                 n  Apply for a loan or give us your contact information
+                                                 n  Open an account or pay your bills
+                                                 n Provide employment information
+                                                 We also collect your personal information from others, such as credit
+                                                 bureaus, affiliates, or other companies.
+                                           	  
+          Why can’t I limit all sharing?         Federal law gives you the right to limit only:
+                                           	  
+                                                 n   sharing for affiliates’ everyday business purposes—information
+                                                      about your creditworthiness
+                                                 n   affiliates from using your information to market to you
+                                                 n   sharing for nonaffiliates to market to you
+                                           	  
+                                                 State laws and individual companies may give you additional rights to
+                                                 limit sharing.
+     	  
+          Definitions
+          Affiliates                             Companies related by common ownership or control. They can be
+                                                 financial and nonfinancial companies.
+                                           	  
+                                                 n  Our affiliates include other State of New Jersey government agencies,
+                                                 authorities, boards and commissions; financial and nonfinancial
+                                                 companies such as contractors, agents, schools, lenders and the U.S.
+                                                 Department of Education.
+          Nonaffiliates                          Companies not related by common ownership or control. They can be
+                                                 financial and nonfinancial companies.
+                                           	  
+                                                 n  HESAA does not share with nonaffiliates so they can market to you.
+          Joint marketing                        A formal agreement between nonaffiliated financial companies that
+                                                 together market financial products or services to you.
+                                           	  
+                                                 n  Our joint marketing partners include our contractors, agents and
+                                                 schools.
+          Other important information
+     	  
+	  
