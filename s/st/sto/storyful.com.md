@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the storyful.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120060925id_/http%3A//storyful.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the storyful.com privacy policy that was archived on 2015-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150620182231id_/http%3A//storyful.com/privacy-policy) for the most accurate reproduction.*
 
-# Storyful | Privacy Policy
-
-## Privacy Policy
+# Privacy Policy | Storyful.
 
 Storyful is committed to protecting your privacy. We won’t share your information with anyone without your prior explicit consent.
 
