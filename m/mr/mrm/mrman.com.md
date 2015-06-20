@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mrman.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626120804id_/http%3A//www.mrman.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mrman.com privacy policy that was archived on 2015-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150620182910id_/http%3A//www.mrman.com/privacy-policy) for the most accurate reproduction.*
 
-# Nude Male Celebs in Pics, Clips, and HD Movies | Mr. Man
+# Nude Male Celebs in Pics, Clips, and HD Movies | Mr Man
 
 ## Privacy Policy
 
