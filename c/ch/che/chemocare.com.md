@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chemocare.com privacy policy that was archived on 2014-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141130032004id_/http%3A//chemocare.com/docs/npp.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chemocare.com privacy policy that was archived on 2015-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150621011523id_/http%3A//chemocare.com/docs/npp.pdf) for the most accurate reproduction.*
 
 # 
 
