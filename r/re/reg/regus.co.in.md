@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the regus.co.in privacy policy that was archived on 2014-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140922081550id_/http%3A//www.regus.co.in/images/APAC_PrivacyPolicy_tcm310-42145.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the regus.co.in privacy policy that was archived on 2015-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150620235040id_/http%3A//www.regus.co.in/images/APAC_PrivacyPolicy_tcm310-42145.pdf) for the most accurate reproduction.*
 
 # Privacy Policy of Regus Group
 
