@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the fullpunch.com privacy policy that was archived on 2014-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141117074239id_/http%3A//www.fullpunch.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fullpunch.com privacy policy that was archived on 2015-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150620074350id_/http%3A//www.fullpunch.com/privacy-policy) for the most accurate reproduction.*
 
-# PRIVACY POLICY | Full Punch
+# PRIVACY POLICY | EverydayKiss
 
-At Full Punch, our job is to provide you with the best stuff to Entertain you. All images on FullPunch.com are readily available and believed to be in public domain, if you find anything here that violates your copyright you may [contact us here](http://www.fullpunch.com/contact-us/)
+At Full Punch, our job is to provide you with the best stuff to Entertain you. All images on FullPunch.com are readily available and believed to be in public domain, if you find anything here that violates your copyright you may [contact us here](http://www.everydaykiss.comcontact-us/)
 
-At [www.fullpunch.com](https://web.archive.org/web/20141117074239id_/http://www.fullpunch.com/privacy-policy/www.fullpunch.com), the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by [www.fullpunch.com](https://web.archive.org/web/20141117074239id_/http://www.fullpunch.com/privacy-policy/www.fullpunch.com) and how it is used.
+At [www.fullpunch.com](https://web.archive.org/web/20150621051545id_/http://www.everydaykiss.com/privacy-policy/www.fullpunch.com), the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by [www.fullpunch.com](https://web.archive.org/web/20150621051545id_/http://www.everydaykiss.com/privacy-policy/www.fullpunch.com) and how it is used.
 
 ### Third Party Advertising
 
@@ -17,11 +17,9 @@ Google, as a third party vendor, uses cookies to serve ads on your site. Googleâ
 
 ### How To Contact Us
 
-If you have other questions or concerns about this privacy policy, please send us an email using the [contact form here](http://www.fullpunch.com/contact-us/).
+If you have other questions or concerns about this privacy policy, please send us an email using the [contact form here](http://www.everydaykiss.comcontact-us/).
 
 If you enjoyed this post, please Like FullPunch & become a fan! 
 
-  
-**Popular Stories Around The Web:**  
-  
+Sponsors:  
 
