@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tucia.com privacy policy that was archived on 2014-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140816174448id_/http%3A//www.tucia.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tucia.com privacy policy that was archived on 2015-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150620040916id_/http%3A//www.tucia.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Tucia Photo Editing Services
 
