@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zalebs.com privacy policy that was archived on 2014-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141229021341id_/http%3A//www.zalebs.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zalebs.com privacy policy that was archived on 2015-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150620232932id_/http%3A//www.zalebs.com/privacy-policy) for the most accurate reproduction.*
 
 # Zalebs
 
@@ -177,6 +177,16 @@ We may amend this policy from time to time to have regard for changes in the law
 This policy is governed by the law of the Republic of South Africa and any legal action instituted in connection with this policy shall be instituted in the Republic of South Africa. We and you hereby consent to the non-exclusive jurisdiction of the South Gauteng High Court, Johannesburg, for any proceedings arising out of or in connection with this agreement.
 
 Each provision of this privacy policy shall apply to the maximum extent permitted by any law, including the Consumer Protection Act No. 68 of 2008 (as may be amended from time to time).
+
+## Online advertising
+
+ZAlebs engages third parties that help it deliver its banner advertisements and other online communications. The third parties may collect and use information about ZAlebs customers to help us understand the offers, promotions, and types of advertising that are most appealing to its customers. The personal information they collect is aggregated and cannot be linked to a person. If you do not wish your personal information to be used in this way, please notify us.
+
+·         Third party vendors, including Google and DoubleClick, show ZAlebs ads on sites on the internet.
+
+·         Third party vendors, including Google and DoubleClick, use cookies to serve ads based on a user's prior visits to  ZAlebs website.
+
+·         Users may opt out of Google and DoubleClick's use of cookies by visiting the [Google advertising opt-out page](http://www.google.com/policies/privacy/ads/) or by visiting the [Network Advertising Initiative opt out page](http://www.networkadvertising.org/managing/opt_out.asp).
 
 **How To Contact Us**
 
