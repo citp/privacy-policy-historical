@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the catchthatbus.com privacy policy that was archived on 2014-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141216171818id_/http%3A//catchthatbus.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the catchthatbus.com privacy policy that was archived on 2015-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150620045042id_/http%3A//www.catchthatbus.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - CatchThatBus.com
 
@@ -8,7 +8,7 @@ When you purchase something from our store, as part of the buying and selling pr
 
 When you browse our store, we also automatically receive your computer's internet protocol (IP) address in order to provide us with information that helps us learn about your browser and operating system. 
 
-Email marketing (if applicable): With your permission, wemay send you emails about our store, new products and other updates.
+Email marketing (if applicable): With your permission, wemay send you emails about our store, new products and other updates. 
 
 Consent
 
