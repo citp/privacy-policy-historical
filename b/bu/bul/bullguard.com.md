@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bullguard.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122183723id_/http%3A//www.bullguard.com/about/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bullguard.com privacy policy that was archived on 2015-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150620032429id_/http%3A//www.bullguard.com/about/privacy-policy.aspx) for the most accurate reproduction.*
 
 # BullGuard - Privacy Policy
 
@@ -82,9 +82,8 @@ You can update, change or delete your personal information by:
 
 BullGuard Ltd.   
 Customer Relations Dept.   
-823 Salisbury House   
-29 Finsbury Circus   
-EC2M 5QQ   
+9 Devonshire Square  
+EC2M 4YF  
 London 
 
 United Kingdom 
