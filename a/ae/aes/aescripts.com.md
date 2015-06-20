@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aescripts.com privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123000313id_/http%3A//aescripts.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aescripts.com privacy policy that was archived on 2015-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150620073858id_/http%3A//aescripts.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy / Terms of Use - aescripts + aeplugins - aescripts.com
 
