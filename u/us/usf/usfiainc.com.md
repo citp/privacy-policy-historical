@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usfiainc.com privacy policy that was archived on 2014-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140514125320id_/http%3A//frontend.usfiainc.com/Pages/Files/Privacy%2520Policy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usfiainc.com privacy policy that was archived on 2015-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150620234514id_/http%3A//www.usfiainc.com/Pages/Files/Privacy%2520Policy.pdf) for the most accurate reproduction.*
 
 # Privacy Policy
 
