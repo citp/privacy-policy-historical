@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clientcampaigns.com privacy policy that was archived on 2014-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141008145950id_/http%3A//acquisio.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clientcampaigns.com privacy policy that was archived on 2015-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150620182256id_/http%3A//acquisio.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Acquisio
 
