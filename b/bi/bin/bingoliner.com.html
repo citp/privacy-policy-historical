@@ -1,11 +1,11 @@
-<!--The following is the downloaded HTML source of the bingoliner.com privacy policy that was archived on 2014-11-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141114000728id_/http%3A//www.bingoliner.com/privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bingoliner.com privacy policy that was archived on 2015-06-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150621005730id_/http%3A//www.bingoliner.com/privacy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml"><head id="page_head"><link href="App_Themes/site/dd.css" type="text/css" rel="stylesheet"><link href="App_Themes/site/style.css" type="text/css" rel="stylesheet"><meta http-equiv="Content-Type" content="text/html;"><meta name="robots" content="follow,index"><link id="link_Icon" rel="shortcut icon" type="image/x-icon" href="App_Themes/site/Icons/favicon.ico">
     
 <script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-KXCFV2"></script><script type="text/javascript" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://ajax.aspnetcdn.com/ajax/jQuery/jquery-1.4.2.min.js"></script><title>
 	Privacy - Bingo Liner
-</title><script charset="UTF-8" src="https://lptag.liveperson.net/tag/tag.js?site=45813911"></script></head>
+</title></head>
 <body id="htmlbody">    
     <form method="post" action="privacy.aspx" id="form1">
 <div class="aspNetHidden">
@@ -19,7 +19,16 @@
     <div id="container">
         <a name="top"></a>
         <script src="/App_Resources/Js/jquery.pngFix.pack.js" type="text/javascript"></script>
+        <script src="/App_Resources/Js/offer-download.js" type="text/javascript"></script>
         <script type="text/javascript">
+            function downloadClick() {
+                showDownload();
+                _gaq.push(['_trackPageview', '/download/click/privacy Play Now - On the Right Edge (on side)']);
+                location.href = "/software/downloadfile.aspx";
+                return true;
+            }
+         </script> 
+         <script type="text/javascript">
             $(document).ready(function () {
                 if (isFlashEnabled()) {
                     $("#header-flash").html("<object id='Object3' classid='clsid:D27CDB6E-AE6D-11cf-96B8-444553540000' width='860' height='166'><param name='movie' value='/App_Themes/site/Flash/header.swf' /><param name='wmode' value='transparent' /><EMBED src='/App_Themes/site/Flash/header.swf' quality='high' WIDTH='860' HEIGHT='166' NAME='myMovieName' TYPE='application/x-shockwave-flash' PLUGINSPAGE='http://www.macromedia.com/go/getflashplayer' wmode='transparent'></EMBED></object>");
@@ -240,7 +249,7 @@
 		    </div>	  
             <div id="main-top">
 			    <div id="breadcrumb">
-				    <span id="siteMapPath"><a href="#siteMapPath_SkipLink"><img alt="Skip Navigation Links" src="/WebResource.axd?d=vKiYxPTv5KpImk1w9jQw5oomATdo2-MI4v9gYtpUdtpyGYh0uOkXFmBGmqixG2YgHgN_xHEoy85M9ho8rV5vjtaoPsc1&amp;t=635418460260000000" width="0" height="0" style="border-width:0px;"></a><span><a title="Home" href="/default.aspx" style="color:White;">Home</a></span><span> &gt; </span><span style="color:White;font-weight:bold;">Privacy</span><a id="siteMapPath_SkipLink"></a></span>				
+				    <span id="siteMapPath"><a href="#siteMapPath_SkipLink"><img alt="Skip Navigation Links" src="/WebResource.axd?d=vKiYxPTv5KpImk1w9jQw5oomATdo2-MI4v9gYtpUdtpyGYh0uOkXFmBGmqixG2YgHgN_xHEoy85M9ho8rV5vjtaoPsc1&amp;t=635586452020000000" width="0" height="0" style="border-width:0px;"></a><span><a title="Home" href="/default.aspx" style="color:White;">Home</a></span><span> &gt; </span><span style="color:White;font-weight:bold;">Privacy</span><a id="siteMapPath_SkipLink"></a></span>				
 			    </div>
 		    </div>                    
             <div id="main">
@@ -380,13 +389,15 @@ In this Privacy Policy, as in the General terms and conditions, references to th
                 <img src="App_Themes/site/images/logo_itechlabs.gif" alt="iTech Labs">&nbsp;<img src="App_Themes/site/images/logo_verisign.gif" alt="VeriSign">&nbsp;<img src="App_Themes/site/images/logo_18.gif" alt="No under 18s" class="noborder">&nbsp;<img src="App_Themes/site/images/logo_usa.gif" alt="We Do Not Accept USA Players" class="noborder">&nbsp;<img src="App_Themes/site/images/logo_safe.gif" alt="Certified Safe Download">
                 <p>
                     ©2013 Bingo Liner – Also try our partner sites at <a href="http://www.jetbingo.com/" target="_blank">Jet Bingo</a> and <a href="http://www.bingocafe.com/" target="_blank">Bingo Café</a>. 
-                </p> 
-				<p>Wilhelminalaan 13, Curacao, Netherlands Antilles</p>               
+                </p>   
+                <p>
+                    Wilhelminalaan 13, Curacao, Netherlands Antilles
+                </p>             
             </div>
         </div>
     </div>
     
-    <a href="download.aspx" id="sidePlayNow">    
+    <a id="sidePlayNow" onclick="downloadClick()">    
 	    <div id="side-playnow">			
 	    </div>
 	</a>
@@ -403,8 +414,43 @@ _gaq.push(function(){checkSEO('http://www.bingoliner.com/','BLCID',13080958,'BLS
 $(document).ready(function(){ $('#country-dd').msDropDown(); });//]]>
 </script>
 </form>
-    <!-- One Tag Conditional Container: Uber Interactive (4103) | BingoLiner_oneTag (3008) -->
+     <!-- install -->
+    <div id="pop-up-container-install" style="height:570px;background-image:url(../App_Themes/site/Images/LandingPages/Captain2/D30/pop-up-bg-new.jpg);background-repeat:no-repeat;background-position:0px 25px;">
+        <div id="pop-up-heading"><img src="/app_themes/combo/images/download-icon.png" width="40" height="26"><strong>Save file to play with your $30 Free!</strong></div>
 
+        <div id="pop-up-sub-heading">
+        <img src="/App_Themes/site/Images/LandingPages/Captain2/D30/secure-logos.jpg">
+        <br>    
+        Your free BingoLiner download should start automatically within seconds.<br>
+        If it doesn't, <strong><a href="javascript:downloadClick();" style="color:#2B9ADF">restart free download</a></strong></div>
+
+        <div id="pop-up-heading-2">You are 3 steps away from hours of fun!</div>
+
+        <!-- close -->
+        <div class="close"></div>
+
+        <!-- chrome -->
+            
+
+        <!-- ff -->
+            
+
+        <!-- ie -->
+        <div id="ie" class="pop-up-steps">
+            <div class="pop-up-step"><img src="/app_themes/combo/images/pop-up-step-1.jpg" width="192" height="118"><br>
+            <br><strong>1. Run the BingoLiner Installer.</strong><br>Click on "Run" in the yellow box at the bottom of the page.</div>
+  
+            <div class="pop-up-step"><img src="/app_themes/combo/images/pop-up-step-2.jpg" width="192" height="118"><br>
+            <br><strong>2. Register your details</strong><br>Enter your details and choose a username to play with.</div>
+  
+            <div class="pop-up-step"><img src="/app_themes/combo/images/pop-up-step-3.jpg" width="192" height="118"><br>
+            <br><strong>3. Start playing!</strong><br>Double click the icon on your desktop to launch BingoLiner.</div>       
+        </div>
+
+        <!-- mac -->
+        
+    </div>
+    <!-- One Tag Conditional Container: Uber Interactive (4103) | BingoLiner_oneTag (3008) -->
     <script type="text/javascript">
         var ft_onetag_3008 = {
             ft_vars: {
@@ -463,7 +509,7 @@ $(document).ready(function(){ $('#country-dd').msDropDown(); });//]]>
             }
         }
         ft_onetag_3008.ot_init();
-    </script><iframe style="position:absolute; visibility:hidden; width:1px; height:1px;" src="https://servedby.flashtalking.com/container/4103;24707;3008;iframe/?ft_referrer=https%3A//web.archive.org/web/20141114000728id_/http%253A//www.bingoliner.com/privacy.aspx&amp;ns=&amp;cb=936047.7289567682"></iframe>
+    </script><iframe style="position:absolute; visibility:hidden; width:1px; height:1px;" src="https://servedby.flashtalking.com/container/4103;24707;3008;iframe/?ft_referrer=https%3A//web.archive.org/web/20150621005730id_/http%253A//www.bingoliner.com/privacy.aspx&amp;ns=&amp;cb=962201.8689025784"></iframe>
 
     <!-- Google Tag Manager -->
     <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-KXCFV2"
@@ -477,13 +523,66 @@ $(document).ready(function(){ $('#country-dd').msDropDown(); });//]]>
     '//www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
     })(window, document, 'script', 'dataLayer', 'GTM-KXCFV2');</script>
     <!-- End Google Tag Manager -->
+    <script type="text/javascript">
+        $(function () {
+            $('#pop-up-container-install').css({
+                'position': 'absolute',
+                'left': '50%',
+                'top': '50%',
+                'margin-left': -($('#pop-up-container-install').width() / 2) + 12,
+                'margin-top': -$('#pop-up-container-install').height() / 2
+            });
 
+            $('.close').css({
+                'position': 'relative',
+                'left': '-105px',
+                'top': '-310px'
+            });
+        });
+        $(window).resize(function () {
+            if ($(window).height() < 570) {
+                $(function () {
+                    $('#pop-up-container-install').css({
+                        'position': 'absolute',
+                        'left': '50%',
+                        'top': '50%',
+                        'margin-left': -($('#pop-up-container-install').width() / 2) + 12,
+                        'margin-top': -($('#pop-up-container-install').height() / 2) + 85
+                    });
+
+                    $('.close').css({
+                        'position': 'relative',
+                        'left': '-105px',
+                        'top': '-310px'
+                    });
+                });
+            }
+            else {
+                $(function () {
+                    $('#pop-up-container-install').css({
+                        'position': 'absolute',
+                        'left': '50%',
+                        'top': '50%',
+                        'margin-left': -($('#pop-up-container-install').width() / 2) + 12,
+                        'margin-top': -$('#pop-up-container-install').height() / 2
+                    });
+
+                    $('.close').css({
+                        'position': 'relative',
+                        'left': '-105px',
+                        'top': '-310px'
+                    });
+
+                });
+            }
+        });
+    </script>
+    <script type="text/javascript">
+        $(document).ready(function () {
+            $(".close").bind('click', function () { $('#pop-up-container-install').hide(); $('#pop-up-container-preview').hide(); $('.close').hide(); $('.overlay').hide(); });
+        });
+    </script>
     <noscript><p>Javascript is required to use this website. Please enable it.</p></noscript>
-    <!-- BEGIN LivePerson Monitor. -->
-<script type="text/javascript">
-    window.lpTag = window.lpTag || {}; if (typeof window.lpTag._tagCount === 'undefined') { window.lpTag = { site: '45813911', section: lpTag.section || '', autoStart: lpTag.autoStart === false ? false : true, ovr: lpTag.ovr || {}, _v: '1.5.1', _tagCount: 1, protocol: location.protocol, events: { bind: function (app, ev, fn) { lpTag.defer(function () { lpTag.events.bind(app, ev, fn) }, 0) }, trigger: function (app, ev, json) { lpTag.defer(function () { lpTag.events.trigger(app, ev, json) }, 1) } }, defer: function (fn, fnType) { if (fnType == 0) { this._defB = this._defB || []; this._defB.push(fn) } else if (fnType == 1) { this._defT = this._defT || []; this._defT.push(fn) } else { this._defL = this._defL || []; this._defL.push(fn) } }, load: function (src, chr, id) { var t = this; setTimeout(function () { t._load(src, chr, id) }, 0) }, _load: function (src, chr, id) { var url = src; if (!src) { url = this.protocol + '//' + ((this.ovr && this.ovr.domain) ? this.ovr.domain : 'lptag.liveperson.net') + '/tag/tag.js?site=' + this.site } var s = document.createElement('script'); s.setAttribute('charset', chr ? chr : 'UTF-8'); if (id) { s.setAttribute('id', id) } s.setAttribute('src', url); document.getElementsByTagName('head').item(0).appendChild(s) }, init: function () { this._timing = this._timing || {}; this._timing.start = (new Date()).getTime(); var that = this; if (window.attachEvent) { window.attachEvent('onload', function () { that._domReady('domReady') }) } else { window.addEventListener('DOMContentLoaded', function () { that._domReady('contReady') }, false); window.addEventListener('load', function () { that._domReady('domReady') }, false) } if (typeof (window._lptStop) == 'undefined') { this.load() } }, start: function () { this.autoStart = true }, _domReady: function (n) { if (!this.isDom) { this.isDom = true; this.events.trigger('LPT', 'DOM_READY', { t: n }) } this._timing[n] = (new Date()).getTime() }, vars: lpTag.vars || [], dbs: lpTag.dbs || [], ctn: lpTag.ctn || [], sdes: lpTag.sdes || [], ev: lpTag.ev || [] }; lpTag.init() } else { window.lpTag._tagCount += 1 }
-</script>
-<!-- END LivePerson Monitor. -->
 
 
 
