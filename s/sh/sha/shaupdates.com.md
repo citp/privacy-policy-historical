@@ -1,71 +1,108 @@
-> *The following text is extracted and transformed from the shaupdates.com privacy policy that was archived on 2014-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141224054448id_/http%3A//www.shaupdates.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shaupdates.com privacy policy that was archived on 2015-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150620034210id_/http%3A//www.shaupdates.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-This Privacy Policy governs the manner in which shaupdates.com collects, uses, maintains and discloses information collected from users (each, a “User”) of the http://www.shaupdates.com website (“Site”). This privacy policy applies to the Site and all products and services offered by shaupdates.com.
+This Privacy Policy governs the exact manner in which our site **SHAupdates** uses, collects, maintains and discloses the information gathered from the readers (each, a “User”) of the http://www.SHAupdates.com website (“Site”). This privacy policy applies to the entire website and all products and services offered by the SHAupdates.
 
-**Personal  identification information**
+**What information do we gather from our readers?**
 
-We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, register on the site, subscribe to the newsletter, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, name, email address, mailing address. Users may, however, visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities. Tribal Fusion cookies do NOT collect personally identifiable information.
+We may collect personal identification information from readers in a variety of ways, including, but not limited to, when Users visit our site, subscribe to the newsletter, fill out a form, and in connection with other activities, services, features or resources we make available on our Site.
 
-**Non-personal  identification information**
+Readers may be specifically asked for, as appropriate, name, email address, phone number. Users may, however, visit our website anonymously. We will solely collect/gather personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
 
-We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.
+**What do we use such information for?**
 
-**Web browser cookies**
+Any of the information we collect from you may be used in one of the following ways:
 
-Our Site may use “cookies” to enhance User experience. User’s web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
+  * In order to personalize your experience
 
-**How we use collected information**
 
-shaupdates.com may collect and use Users personal information for the following purposes:
 
-– To improve customer service  
-Information you provide helps us respond to your customer service requests and support needs more efficiently.  
-– To personalize user experience  
-We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.  
-– To improve our Site  
-We may use feedback you provide to improve our products and services.  
-– To process payments  
-We may use the information Users provide about themselves when placing an order only to provide service to that order. We do not share this information with outside parties except to the extent necessary to provide the service.  
-– To send periodic emails  
-We may use the email address to send them information and updates pertaining to their order.
+(Your information helps us to better respond to your individual needs)
 
-**How we protect your information**
+  * In order to improve our core website
 
-We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.
 
-**Sharing your personal information**
 
-We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.
+(We continually strive to improve our website offerings based on the information and feedback we receive from you)
 
-**Third party websites**
+  * In order to improve customer service
 
-Users may find advertising or other content on our Site that link to the sites and services of our partners, suppliers, advertisers, sponsors, licencors and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that website’s own terms and policies.
+
+
+(Your information helps us to more effectively respond to your customer service requests and support needs)
+
+  * In order to administer a contest, promotion, giveaway or other site features
+
+
+  * In order to send periodic emails
+
+
+
+(The email address you provide may be used to send you information, respond to inquiries, and/or other requests or questions.)
+
+**Do we use cookies in this website?**
+
+Yes!! (Cookies are small files that a site or its service provider transfers to your computer’s hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information.
+
+We use cookies to help us remember, understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.
+
+If you prefer, you can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies via your browser settings. Like most websites, if you turn your cookies off, some of our services may not function properly. However, you can still access all the services by contacting us via  **Contact Form.**
+
+**How do we ensure protection of your information?**
+
+We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information and data stored on our website.
+
+**Do we disclose any information to outside 3 rd parties?**
+
+We do not sell, trade, or rent our beloved readers personal identification information to others. We may occasionally share several generic aggregated demographic information which are not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.
+
+We may also use third party service providers to help us operate our business and the Site or administer activities on our behalf, such as sending out newsletters or surveys. We may share your information with these third parties for those limited purposes provided that you have given us your permission.
+
+**Third party links**
+
+Occasionally, at our discretion, we may include or offer third party products or services on our website. All of these third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
 
 **Advertising**
 
-Ads appearing on our site may be delivered to Users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile non personal identification information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This privacy policy does not cover the use of cookies by any advertisers. However, Tribal Fusion cookies do NOT collect personally identifiable information. This site adheres to NAI’s Self-Regulatory Principles, the CAN-SPAM Act of 2003 , the COPPA Act of 2000 and IASH Terms and Conditions.
+Ads appearing on our site may be delivered to Users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile non personal identification information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This privacy policy does not cover the use of cookies by any advertisers.
 
-**Changes to this privacy policy**
+**Google Adsense**
 
-shaupdates.com  has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page and send you an email. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
+Some of the ads may be served by Google. Google’s use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses “non personally identifiable information” and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by simply giving a visit to the dedicated Google ad and content network privacy policy at <http://www.google.com/privacy_ads.html>
+
+**Google Analytics**
+
+This blog uses the Google Analytics Advertising Features which may help us and a few third party vendors to use various important first party cookies such as the Google Analytics cookie or few other first-party identifiers, and third-party cookies (such as the DoubleClick cookie) or other third-party identifiers together.
+
+As a visitor you have all the rights to opt out from the Google Analytics Advertising Features which has been in use on this blog through various Ads Settings or Ad Settings for mobile apps, or any other available means whatsoever. You may visit **[this official link](https://tools.google.com/dlpage/gaoptout/)** for that.
+
+**California Online Privacy Protection Act Compliance**
+
+Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
+
+**Online Privacy Policy Only**
+
+This online privacy policy applies only to information collected through our website and not to information collected offline.
+
+**Changes to our Privacy Policy**
+
+SHAupdates has the discretion to update this privacy policy at any time whatsoever. But whenever we do that, we will surely revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You are acknowledging and also agreeing that it is your responsibility to review this privacy policy periodically and become aware of all the latest modifications.
 
 **Your acceptance of these terms**
 
-By using this Site, you signify your acceptance of this policy and terms of service. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
+By using this website, you signify your full acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
 
-**Contacting us**
+**Contact Us**
 
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
-shaupdates.com
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:
+
+**SHAupdates**
 
 http://www.shaupdates.com
 
+Delhi, India
+
 contact@shaupdates.com
 
-#### Incoming search terms:
-
-  * PrivacyPolicy
-
-
+This document was last updated on April 03, 2015.
