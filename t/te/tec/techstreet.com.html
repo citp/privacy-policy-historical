@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the techstreet.com privacy policy that was archived on 2014-12-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141216061549id_/http%3A//www.techstreet.com/pages/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the techstreet.com privacy policy that was archived on 2015-06-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150620041555id_/http%3A//www.techstreet.com/pages/privacy_policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js" lang="en"><!--<![endif]--><head>
   <meta charset="utf-8">
@@ -10,17 +10,17 @@
   <title>Privacy Policy &amp; Practices</title>
   <meta name="viewport" content="width=device-width">
 
-  <link href="/assets/techstreet/application-4f3196967de83cdf1c1e98a096eb133c.css" media="screen" rel="stylesheet" type="text/css">
-  <link href="/assets/techstreet/common-265b21b23bd8fbb3ec3ff01a37f61959.css" media="screen" rel="stylesheet" type="text/css">
+  <link href="/assets/techstreet/application-69d92e728e8f25268e142a79ec1fd761.css" media="screen" rel="stylesheet" type="text/css">
+  <link href="/assets/techstreet/common-10b4c41e49a218fe7c404ea335e5663f.css" media="screen" rel="stylesheet" type="text/css">
   <link href="/assets/techstreet/logos-378a41b9686e5a328e7da5fe1b6e6549.css" media="screen" rel="stylesheet" type="text/css">
-  <link href="/assets/common/print-46a35f08017b73e95a06a1738ffbb978.css" media="print" rel="stylesheet" type="text/css">
+  <link href="/assets/common/print-8ce465fc80cbc90983fd7a8587a963d0.css" media="print" rel="stylesheet" type="text/css">
   <link href="/assets/webfonts/ss-pika-4fb06ee98ae3b6176ca67ca593bb2d6d.css" media="screen" rel="stylesheet" type="text/css">
 
   <!--[if lte IE 6]><link href="/assets/ie-archaic-25f9db292478705701807458dbbab257.css" media="screen" rel="stylesheet" type="text/css" /><![endif]-->
   <!--[if IE 9]><link href="/assets/ie9-7270767b2a9e9fff880aa5de378ca791.css" media="screen" rel="stylesheet" type="text/css" /><![endif]-->
   <!--[if IE 7]><link href="/assets/ie7-a55f9c7815bf691e4dbaa578b3c38740.css" media="screen" rel="stylesheet" type="text/css" /><![endif]-->
   <!--[if lt IE 9]>
-    <link href="/assets/ielt9-610d13f1194db052ce277d00d38aad89.css" media="screen" rel="stylesheet" type="text/css" />
+    <link href="/assets/ielt9-ddb833068c9500421b67e2b94a9d6c1a.css" media="screen" rel="stylesheet" type="text/css" />
     <script src="/assets/ielt9/html5shiv-printshiv-b5ef016ae91a17cb00c7fa672d1b4f15.js" type="text/javascript"></script>
   <![endif]-->
 	<!-- Google Analytics -->
@@ -49,7 +49,7 @@
 </script>
 
   <meta content="authenticity_token" name="csrf-param">
-<meta content="jLG/9K+8NIy326terH5Aw6ESYXeOetzu524kVg4sWII=" name="csrf-token">
+<meta content="S7GfFAI8fc1IUFZ2Rf0skQ1gtcQUnqoP+oL3rPbHO0Y=" name="csrf-token">
 </head>
 <body class="pages ">
 <!--[if lte IE 6]>
@@ -135,7 +135,7 @@
 
       <li>
           
-<form accept-charset="UTF-8" action="/searches" class="new_search" id="new_search" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"><input name="authenticity_token" type="hidden" value="jLG/9K+8NIy326terH5Aw6ESYXeOetzu524kVg4sWII="></div>
+<form accept-charset="UTF-8" action="/searches" class="new_search" id="new_search" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"><input name="authenticity_token" type="hidden" value="S7GfFAI8fc1IUFZ2Rf0skQ1gtcQUnqoP+oL3rPbHO0Y="></div>
 
   <label><strong>Search</strong>for</label>
 
@@ -560,7 +560,7 @@ E-Mail: <a href="mailto:techstreet.service@thomsonreuters.com">techstreet.servic
           <h1>Site Information</h1>
           <ul>
             <li><a href="/pages/privacy_policy">Privacy Policy</a></li>
-            <li><a href="http://www.thomsonreuters.com">© 2014 Thomson Reuters</a></li>
+            <li><a href="http://www.thomsonreuters.com">© 2015 Thomson Reuters</a></li>
 						<li><a id="display_debug_info" href="#">System Information</a></li>
           </ul>
         </nav>
@@ -570,7 +570,7 @@ E-Mail: <a href="mailto:techstreet.service@thomsonreuters.com">techstreet.servic
     </footer>
 
 
-    <script src="/assets/application-b0c239414ab8630e314f68294787629a.js" type="text/javascript"></script>
+    <script src="/assets/application-ea2b623d303d7e834c44f7a50e424641.js" type="text/javascript"></script>
 
     <!--[if lt IE 9]>
 	    <script src="/assets/ielt9/common-ca3bf89ce5a53801e7615add2722b73a.js" type="text/javascript"></script>
@@ -584,9 +584,12 @@ E-Mail: <a href="mailto:techstreet.service@thomsonreuters.com">techstreet.servic
 //<![CDATA[
 
 			$(document).ready(function() {
-				$.get( "/pages/flag_content", function( data ) {
-  				$( "#flag_content" ).html( data );
-				});		
+				$.ajax({ 
+					url: '/pages/flag_content/',
+					type: 'get', 
+					success: function( data ) {
+  						$( "#flag_content" ).html( data );
+					}});		
 			});
 
 
@@ -596,7 +599,7 @@ E-Mail: <a href="mailto:techstreet.service@thomsonreuters.com">techstreet.servic
 		<tbody>
 			<tr>
 				<td class="textual"><strong>Device/OS:</strong></td>
-				<td class="textual"> Bot  </td>
+				<td class="textual">   </td>
 			</tr>
 			<tr>
 				<td class="textual"><strong>Browser:</strong></td>
@@ -636,7 +639,7 @@ E-Mail: <a href="mailto:techstreet.service@thomsonreuters.com">techstreet.servic
 			</tr>
 			<tr>
 				<td class="textual"><strong>Cart #:</strong></td>
-				<td class="textual"> 158916817</td>
+				<td class="textual"> 205655972</td>
 			</tr>
 			<tr>
 				<td class="textual"><strong>Order #:</strong></td>
