@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the papercraftsquare.com privacy policy that was archived on 2014-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140703185338id_/http%3A//www.papercraftsquare.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the papercraftsquare.com privacy policy that was archived on 2015-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150620231609id_/http%3A//www.papercraftsquare.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | PaperCraftSquare.com
+# Privacy Policy | PapercraftSquare.com
 
 Thank you for visiting our web site. This privacy policy tells you how we use personal information collected at this site. Please read this privacy policy before using the site or submitting any personal information. By using the site, you are accepting the practices described in this privacy policy. These practices may be changed, but any changes will be posted and changes will only apply to activities and information on a going forward, not retroactive basis.   
 You are encouraged to review the privacy policy whenever you visit the site to make sure that you understand how any personal information you provide will be used.   
@@ -31,22 +31,3 @@ If you have any questions, concerns, or comments about our privacy policy you ma
 By e-mail: Papercraftsquare@gmail.com  
 We reserve the right to make changes to this policy.   
 Any changes to this policy will be posted.
-
-For this paper model, we recommend that you use [the material](http://www.tkqlhce.com/click-5703839-10935756) ([Paper](http://www.amazon.com/s/?_encoding=UTF8&camp=1789&creative=390957&field-keywords=craft%20paper&linkCode=ur2&rh=i%3Aaps%2Ck%3Acraft%20paper&sepatfbtf=true&sprefix=craft%20pa%2Caps&tag=papercrafts07-20&tc=1367841412399&url=search-alias%3Daps), Paint, [Glue](http://www.amazon.com/s/?_encoding=UTF8&camp=1789&creative=390957&field-keywords=glue&linkCode=ur2&rh=i%3Aaps%2Ck%3Aglue&tag=papercrafts07-20&url=search-alias%3Daps), etc.) to make. Here are [Great Deals](http://www.dpbolvw.net/click-5703839-11192295), and here are [**100s of card making ideas**](http://www.dpbolvw.net/click-5703839-11044815). There is [FREE sewing patterns](http://www.tkqlhce.com/click-5703839-10881953) that you may need.
-
- **If you like this papercraft, please share it to others, thanks!**
-
-  * [](http://twitter.com/intent/tweet?text=Privacy%20Policy%20-%20http%3A%2F%2Fwww.papercraftsquare.com%2Fprivacy-policy%20%20%20SHARETAG "Twitter")
-  * [](http://www.facebook.com/share.php?u=http%3A%2F%2Fwww.papercraftsquare.com%2Fprivacy-policy&t=Privacy%20Policy "Facebook")
-  * [](https://mail.google.com/mail/?view=cm&fs=1&to&su=Privacy%20Policy&body=http%3A%2F%2Fwww.papercraftsquare.com%2Fprivacy-policy&ui=2&tf=1&shva=1 "email")
-  *   * [](http://www.stumbleupon.com/submit?url=http%3A%2F%2Fwww.papercraftsquare.com%2Fprivacy-policy&title=Privacy%20Policy "StumbleUpon")
-  * [](http://delicious.com/post?url=http%3A%2F%2Fwww.papercraftsquare.com%2Fprivacy-policy&title=Privacy%20Policy&notes=Thank%20you%20for%20visiting%20our%20web%20site.%20This%20privacy%20policy%20tells%20you%20how%20we%20use%20personal%20information%20collected%20at%20this%20site.%20Please%20read%20this%20privacy%20policy%20before%20using%20the%20site%20or%20submitting%20any%20personal%20information.%20By%20using%20the%20site%2C%20you%20are%20accept "Delicious")
-  * [](http://www.google.com/bookmarks/mark?op=edit&bkmk=http%3A%2F%2Fwww.papercraftsquare.com%2Fprivacy-policy&title=Privacy%20Policy&annotation=Thank%20you%20for%20visiting%20our%20web%20site.%20This%20privacy%20policy%20tells%20you%20how%20we%20use%20personal%20information%20collected%20at%20this%20site.%20Please%20read%20this%20privacy%20policy%20before%20using%20the%20site%20or%20submitting%20any%20personal%20information.%20By%20using%20the%20site%2C%20you%20are%20accept "Google Bookmarks")
-  * [](http://www.linkedin.com/shareArticle?mini=true&url=http%3A%2F%2Fwww.papercraftsquare.com%2Fprivacy-policy&title=Privacy%20Policy&source=PaperCraftSquare+Free+Papercrafts%2C+Paper+Models%2C+Paper+Toys+and+Origami+Download&summary=Thank%20you%20for%20visiting%20our%20web%20site.%20This%20privacy%20policy%20tells%20you%20how%20we%20use%20personal%20information%20collected%20at%20this%20site.%20Please%20read%20this%20privacy%20policy%20before%20using%20the%20site%20or%20submitting%20any%20personal%20information.%20By%20using%20the%20site%2C%20you%20are%20accept "LinkedIn")
-  * [](http://www.blinklist.com/index.php?Action=Blink/addblink.php&Url=http%3A%2F%2Fwww.papercraftsquare.com%2Fprivacy-policy&Title=Privacy%20Policy "BlinkList")
-  * [](http://www.tumblr.com/share?v=3&u=http%3A%2F%2Fwww.papercraftsquare.com%2Fprivacy-policy&t=Privacy%20Policy&s=Thank%20you%20for%20visiting%20our%20web%20site.%20This%20privacy%20policy%20tells%20you%20how%20we%20use%20personal%20information%20collected%20at%20this%20site.%20Please%20read%20this%20privacy%20policy%20before%20using%20the%20site%20or%20submitting%20any%20personal%20information.%20By%20using%20the%20site%2C%20you%20are%20accept "Tumblr")
-  * 
-
-
-  
-
