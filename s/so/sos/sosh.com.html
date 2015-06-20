@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the sosh.com privacy policy that was archived on 2014-11-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141108203345id_/http%3A//sosh.com/pages/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the sosh.com privacy policy that was archived on 2015-06-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150620231932id_/http%3A//sosh.com/pages/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://ogp.me/ns#" style="background-color: #303030;"><head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# soshdragon: http://ogp.me/ns/fb/soshdragon#">
         <meta charset="utf-8">
@@ -18,13 +18,13 @@
         <link href="//cloud.webtype.com/css/abde0de4-d420-48a5-acaf-d08feea1014d.css" rel="stylesheet" type="text/css">
 
         
-    <link rel="stylesheet" href="http://as.bso.sh/20141107.192614/css/1080-27-grid.css">
-    <link rel="stylesheet" href="http://as.bso.sh/20141107.192614/css/animate.css">
+    <link rel="stylesheet" href="https://d1d72q6km1mgkr.cloudfront.net/20150619.142829/css/1080-27-grid.css">
+    <link rel="stylesheet" href="https://d1d72q6km1mgkr.cloudfront.net/20150619.142829/css/animate.css">
     
         
             
                 
-                    <link rel="stylesheet" href="http://as.bso.sh/20141107.192614/packed/dragon.css">
+                    <link rel="stylesheet" href="https://d1d72q6km1mgkr.cloudfront.net/20150619.142829/packed/dragon.css">
                 
             
         
@@ -32,32 +32,32 @@
 
 
         <!--[if IE 9]>
-            <link rel="stylesheet" href="http://as.bso.sh/20141107.192614/css/ie9-hacks.css">
+            <link rel="stylesheet" href="https://d1d72q6km1mgkr.cloudfront.net/20150619.142829/css/ie9-hacks.css">
         <![endif]-->
 
         <!--[if IE 8]>
-            <link rel="stylesheet" href="http://as.bso.sh/20141107.192614/css/ie8-hacks.css">
+            <link rel="stylesheet" href="https://d1d72q6km1mgkr.cloudfront.net/20150619.142829/css/ie8-hacks.css">
         <![endif]-->
 
         <!--[if IE 7]>
-            <link rel="stylesheet" href="http://as.bso.sh/20141107.192614/css/ie7-hacks.css">
+            <link rel="stylesheet" href="https://d1d72q6km1mgkr.cloudfront.net/20150619.142829/css/ie7-hacks.css">
         <![endif]-->
 
-        <link rel="icon" href="http://as.bso.sh/20141107.192614/images/global/favicon_banner.png" type="image/png">
-        <link rel="shortcut icon" href="http://as.bso.sh/20141107.192614/favicon.ico">
+        <link rel="icon" href="https://d1d72q6km1mgkr.cloudfront.net/20150619.142829/images/global/favicon_banner.png" type="image/png">
+        <link rel="shortcut icon" href="https://d1d72q6km1mgkr.cloudfront.net/20150619.142829/favicon.ico">
         <link rel="search" type="application/opensearchdescription+xml" title="Sosh Search" href="/opensearch.xml">
 
-        <script src="http://as.bso.sh/20141107.192614/js/head.min.js"></script>
+        <script src="https://d1d72q6km1mgkr.cloudfront.net/20150619.142829/js/head.min.js"></script>
 
         <script type="text/javascript">
             var _gaq = _gaq || [], OFFLINE = OFFLINE || {};
 
             JS.js(
                 
-                    "http://as.bso.sh/20141107.192614/packed/libraries.js",
+                    "https://d1d72q6km1mgkr.cloudfront.net/20150619.142829/packed/libraries.js",
                 
                 
-                    "http://as.bso.sh/20141107.192614/packed/dragon.js"
+                    "https://d1d72q6km1mgkr.cloudfront.net/20150619.142829/packed/dragon.js"
                 
             );
 
@@ -75,6 +75,18 @@
                    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
                  })();
             
+
+            // Raven
+            JS.ready(function(){
+                var clientDSN = 'http://91cde7262f1f467991fcc69dd3d45b1f@sentry.offlinelabs.com/4';
+                Raven.config(clientDSN, {}).install();
+            });
+
+            // Experiments data object
+            OFFLINE.active_experiments_data = {
+                 'active_experiments': [],
+                 
+            }
         </script>
 
         <meta property="fb:app_id" content="162317857133616">
@@ -87,10 +99,15 @@
     </head>
 
     <body>
-        <input id="facebook-perms" type="hidden" value="email,friends_location,user_location,user_birthday,user_likes">
-
-
+        <span id="global-css-spinner" class="absolute-center spinner-circle-blue hide"></span>
         
+        <div class="md-content"></div>
+        <div class="md-overlay"></div>
+
+        <input id="facebook-perms" type="hidden" value="">
+
+        <div class="main-content-wrapper">
+            
     <div id="global-error" class="alert-banner red-banner"></div>
 
     
@@ -98,12 +115,12 @@
 
  <header id="global-header-wide-1080">
     <div id="header-content-wide-1080" class="clearfix">
+        <a id="header-logo-link" data-log-area="Header" data-log-message="Logo" href="/">
+            <div id="header-logo-container">
+                <div id="header-logo"></div>
+            </div>
+        </a>
         
-            <a id="header-logo-link" data-log-area="Header" data-log-message="Logo" href="/">
-                <div id="header-logo-container">
-                    <div id="header-logo"></div>
-                </div>
-            </a>
             
                 <div id="header-right">
                     <a href="/accounts/login/">
@@ -136,11 +153,12 @@
         
 
         
+
 <section id="flat-page-content" class="clearfix desktop ">
-    
+  
+  
 
     <link href="//api.tiles.mapbox.com/mapbox.js/v1.6.3/mapbox.css" rel="stylesheet">
-
 
 
 <div class="content-container">
@@ -151,15 +169,6 @@
         </h1>
         <h2>Effective June 28, 2011</h2>
     </div>
-    
-
-    
-        
-        <div class="cover-photo-container">
-            <div class="cover-photo" style="background-image: url(https://dm8upoct4laqm.cloudfront.net/thumbs/a9/c0/a9c0f02f197f8c97b108fd50c937e9cf.jpg);">
-            </div>
-        </div>
-        
     
 
     <div class="clearfix document-content">
@@ -206,7 +215,22 @@ San Francisco, CA 94103</p>
     
 </div>
 
+
+<script type="text/javascript">
+    JS.ready(function() {
+        OFFLINE.dragon.set_page("Flat Page", 11, "flat_page_id");
+        if ($('.collection-list').size() > 0){
+            $('#interactive-map').addClass('desktop');
+        }
+
+    });
+</script>
+
+
+
+
 </section>
+
 
     </div>
 
@@ -218,7 +242,7 @@ San Francisco, CA 94103</p>
         <div class="container_27 clearfix">
             <div class="grid_3">
                 <div class="footer-logo"></div>
-                <div class="headings" style="margin-top: 20px;color:#999;">COPYRIGHT 2014</div>
+                <div class="headings" style="margin-top: 20px;color:#999;">COPYRIGHT 2015</div>
                 <div class="headings" style="color:#999">OFFLINE LABS, INC.</div>
             </div>
             
@@ -246,6 +270,7 @@ San Francisco, CA 94103</p>
                 <div class="headings">KEEP IN TOUCH</div>
                 <hr>
                 <div class="footer-links">
+                    <a data-log-area="Footer" data-log-message="Customer Support" onclick="OFFLINE.dragon.showFeedback(1, false); return false;" href="#" target="_blank">Customer Support</a>
                     <a data-log-area="Footer" data-log-message="Blog" href="http://sosh.com/blog/" target="_blank">Blog</a>
                     <a data-log-area="Footer" data-log-message="Facebook" href="https://facebook.com/SoshDC" target="_blank">Facebook</a>
                     <a data-log-area="Footer" data-log-message="Twitter" href="http://twitter.com/SoshDC" target="_blank">Twitter</a>
@@ -256,7 +281,7 @@ San Francisco, CA 94103</p>
 
 
     
-    
+    <img class="deferred" src="" data-deferred-src="//api.nanigans.com/event.php?app_id=5543&amp;type=visit&amp;name=landing" height="1" width="1" style="position: absolute;">
 
     
 
@@ -297,7 +322,7 @@ San Francisco, CA 94103</p>
 
             BASE.environment = "PRODUCTION";
 
-            BASE.static_prefix = 'http://as.bso.sh/20141107.192614/';
+            BASE.static_prefix = 'https://d1d72q6km1mgkr.cloudfront.net/20150619.142829/';
 
             BASE.active_geography = 65;
 
@@ -312,31 +337,32 @@ San Francisco, CA 94103</p>
         });
     </script>
 
+        </div>
 
-        <div id="fb-root"><script async="" src="https://connect.facebook.net/en_US/all.js"></script></div>
+        <div id="fb-root"><script async="" src="https://connect.facebook.com/en_US/sdk.js"></script></div>
 <script>
   window.fbAsyncInit = function() {
-    FB.init({appId: '162317857133616', status: true, cookie: true,
+    FB.init({appId: '162317857133616', version: 'v2.2', status: true, cookie: true,
              xfbml: true, oauth: true});
   };
   (function() {
     var e = document.createElement('script'); e.async = true;
     e.src = document.location.protocol +
-      '//connect.facebook.net/en_US/all.js';
+      '//connect.facebook.com/en_US/sdk.js';
     document.getElementById('fb-root').appendChild(e);
   }());
 </script>
+
 
         
 <script type="text/javascript">
     JS.ready(function() {
         OFFLINE.dragon.set_page("Flat Page", 11, "flat_page_id");
-
         if ($('.collection-list').size() > 0){
             $(".header").prepend("<div class='num-items'>"+$('.formatted-list-item').size()+"</div>");
             $('#interactive-map').addClass('desktop');
         }
-
+        OFFLINE.base.maintainOriginalRef('#flat-page-content');
     });
 </script>
 
