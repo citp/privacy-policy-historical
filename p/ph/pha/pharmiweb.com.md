@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pharmiweb.com privacy policy that was archived on 2014-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141107015346id_/http%3A//www.pharmiweb.com/privacy/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pharmiweb.com privacy policy that was archived on 2015-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150620024603id_/http%3A//www.pharmiweb.com/privacy/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy | PharmiWeb.com
 
@@ -93,10 +93,10 @@ You have a right to access the personal data held about you. To obtain a copy of
 
 **
 
-This Site is owned and operated by PharmiWeb 2002 Limited trading as PharmiWeb Solutions, a company registered in England whose registered office is at Abbey House, Grenville Place, Bracknell, Berkshire, RG12 1BP. PharmiWeb Solutions’ company registration number is 4548862 and its VAT number is 819388977.
+This Site is owned and operated by PharmiWeb 2002 Limited trading as PharmiWeb Solutions, a company registered in England whose registered office is at Radius Court, 1st Floor, Eastern Road, Bracknell, RG12 2UP. PharmiWeb Solutions’ company registration number is 4548862 and its VAT number is 819388977.
 
 If you have any queries please contact [corporate@pharmiweb.com](mailto:corporate@pharmiweb.com)
 
 **
 
-See also [Privacy Policy](https://web.archive.org/web/20141107015346id_/http%3A//www.pharmiweb.com/privacy/privacy.asp), [Terms and Conditions](https://web.archive.org/web/20141107015346id_/http%3A//www.pharmiweb.com/legal/legal.asp), [Advertising Policy](https://web.archive.org/web/20141107015346id_/http%3A//www.pharmiweb.com/legal/advertising.asp)
+See also [Privacy Policy](https://web.archive.org/web/20150620024603id_/http%3A//www.pharmiweb.com/privacy/privacy.asp), [Terms and Conditions](https://web.archive.org/web/20150620024603id_/http%3A//www.pharmiweb.com/legal/legal.asp), [Advertising Policy](https://web.archive.org/web/20150620024603id_/http%3A//www.pharmiweb.com/legal/advertising.asp)
