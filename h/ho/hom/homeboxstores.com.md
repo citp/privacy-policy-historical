@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the homeboxstores.com privacy policy that was archived on 2014-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141208231700id_/http%3A//www.homeboxstores.com/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homeboxstores.com privacy policy that was archived on 2015-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150620073947id_/http%3A//www.homeboxstores.com/content/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Home Box
 
