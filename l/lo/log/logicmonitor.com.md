@@ -1,12 +1,14 @@
-> *The following text is extracted and transformed from the logicmonitor.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625154011id_/http%3A//www.logicmonitor.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the logicmonitor.com privacy policy that was archived on 2015-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150620183932id_/http%3A//www.logicmonitor.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy LogicMonitor
+# Privacy Policy | LogicMonitor
 
-(Updated: June 25, 2012)
+* * *
 
- **Information Collection & Use**
+## Title
 
- This policy describes the privacy practices for LogicMonitor, Inc. (“LogicMonitor,” “us,” “we”) and the ways we collect store, use and protect your personal and non-personal information on our web sites, which link to this Privacy Policy including, without limitation, LogicMonitor.com, Blog.LogicMonitor.com (the “web sites”), along with other sites that may be added to this Policy from time to time.
+**Information Collection & Use**
+
+This policy describes the privacy practices for LogicMonitor, Inc. (“LogicMonitor,” “us,” “we”) and the ways we collect store, use and protect your personal and non-personal information on our web sites, which link to this Privacy Policy including, without limitation, LogicMonitor.com, Blog.LogicMonitor.com (the “web sites”), along with other sites that may be added to this Policy from time to time.
 
 LogicMonitor offers web-based IT monitoring software solutions (the “services”). For questions or feedback on this policy or our privacy practices, please email us at info@LogicMonitor.com.
 
@@ -44,7 +46,7 @@ We reserve the right to disclose your personally identifiable information as req
 
  **Choice and Opt-out**
 
-If you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter or communication or by emailing us at info@LogicMonitor.com. You may also contact us by phone at 888.415.6442 or via postal mail: LogicMonitor, Inc., 901 Olive Street, Santa Barbara, CA 93101 to opt-out.
+If you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter or communication or by emailing us at info@LogicMonitor.com. You may also contact us by phone at 888.415.6442 or via postal mail: LogicMonitor, Inc., 12 E. Carrillo St., Santa Barbara, CA 93101 to opt-out.
 
  **Log Files**
 
@@ -94,4 +96,4 @@ Our web sites may contain links to third-party websites. These third party websi
 
  **Contact Us**
 
-If you have any questions or suggestions regarding our privacy policy, please contact us by emailing info@LogicMonitor.com, or by calling 888.415.6442 or via postal mail at: LogicMonitor, Inc., 901 Olive Street, Santa Barbara, CA 93101.
+If you have any questions or suggestions regarding our privacy policy, please contact us by emailing info@LogicMonitor.com, or by calling 888.415.6442 or via postal mail at: LogicMonitor, Inc., 12 E. Carrillo St., Santa Barbara, CA 93101.
