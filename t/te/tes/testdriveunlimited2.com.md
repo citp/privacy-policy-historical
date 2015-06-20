@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the testdriveunlimited2.com privacy policy that was archived on 2014-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141226140633id_/http%3A//www.atari.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the testdriveunlimited2.com privacy policy that was archived on 2015-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150620090653id_/http%3A//www.atari.com/privacy) for the most accurate reproduction.*
 
 # Atari - Privacy Policy
 
