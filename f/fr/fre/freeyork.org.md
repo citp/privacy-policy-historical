@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freeyork.org privacy policy that was archived on 2014-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141222161123id_/http%3A//freeyork.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeyork.org privacy policy that was archived on 2015-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150620235512id_/http%3A//freeyork.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -65,6 +65,6 @@ If there are any questions regarding this privacy policy you may contact us usin
 str. Balonowa 41  
 Wroclaw, Poland
 
-[freeyork.org@gmail.com](https://web.archive.org/web/20141222161123id_/http%3A//freeyork.org/freeyork.org@gmail.com)
+[freeyork.org@gmail.com](https://web.archive.org/web/20150620235512id_/http://freeyork.org/privacy-policy/freeyork.org@gmail.com)
 
 This policy is powered by Trust Guard PCI compliance scans.
