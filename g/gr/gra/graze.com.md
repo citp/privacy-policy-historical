@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the graze.com privacy policy that was archived on 2014-07-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140708092847id_/https%3A//www.graze.com/us/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the graze.com privacy policy that was archived on 2015-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150620064226id_/https%3A//www.graze.com/us/help/privacy) for the most accurate reproduction.*
 
 # graze | privacy policy
 
@@ -98,11 +98,11 @@ The principal purposes for which we collect and store your personal information 
 
 ### 5.1. Marketing and business development purposes
 
-Apart from using your personal information to process any orders you may place, if you provide us with an email address, it will automatically be entered into our regular email update service. From time to time, we may also contact you by mail with information on special offers or events regarding our products or services or those of trusted third parties that we think you may be interested in. If you do not wish to receive updates or marketing information, please change your maipng preferences in the [Preferences](https://www.graze.com/us/account/preferences) page of the "Your Account" section.
+Apart from using your personal information to process any orders you may place, if you provide us with an email address, it will automatically be entered into our regular email update service. From time to time, we may also contact you by mail with information on special offers or events regarding our products or services or those of trusted third parties that we think you may be interested in. If you do not wish to receive updates or marketing information, please change your mailing preferences in the [Preferences](https://web.archive.org/us/account/preferences) page of the "Your Account" section.
 
 If you do not object to receiving marketing material at the time the information was collected from you, but subsequently change your mind and no longer wish to receive such information, you may opt out of doing so. If you opt out you may continue to receive information for up to 7 days after the date on which you update your account.
 
-If you start to set up an account with us, via the Site, but do not complete the process or place any orders, then we may email you to find out if you need any help to complete the process. An unsubscribe pnk is given at the end of this email. You may also [unsubscribe from emails](https://www.graze.com/us/email/unsubscribe/e/).
+If you start to set up an account with us, via the Site, but do not complete the process or place any orders, then we may email you to find out if you need any help to complete the process. An unsubscribe pnk is given at the end of this email. You may also [unsubscribe from emails](https://web.archive.org/us/email/unsubscribe/e/).
 
 In addition, we may use an IP address to identify you and to gather broad demographic information about you, which we will use to assist in the detection of fraud, to help identify problems with our server and to administer the Site.
 
@@ -123,14 +123,17 @@ back to top ↑
 We are committed to protecting your personal information. We will not disclose your personally identifiable information to third parties without your consent except where: 
 
   * We are required by law to disclose information to third parties.
-  * It is necessary for the performance of our operations i.e. mail delivery, hosting services, protecting us from fraud, and payment of your account.
+  * It is necessary for the performance of our operations e.g. mail delivery, hosting services, protecting us from fraud, and payment of your account.
+  * We share your information with trusted third parties who perform services for us in relation to activities such as customer relationship management and product development purposes such as consumer behaviour analysis and improved product targeting.
   * We buy or sell subsidiaries or business units. In such transactions, customer information is one of the transferred assets, but would remain subject to the commitments made in any pre-existing Privacy Policy or equivalent.
 
 
 
+Where you have referred a new customer to us your first name and first initial of your surname will be shared with the person you referred to us and you agree to that sharing. 
+
 Companies and individuals registered in our Affiliate Program receive aggregate information about customers that they direct to us through links on their Site. No personally identifiable information is provided to affiliate members; the information collected from our affiliates is used strictly for the affiliates program and will not be used for general marketing purposes. 
 
-We also provide analyses of our customers in the aggregate to prospective partners, advertisers and other third parties. We do this so that we and our business partners can understand you better, and so we can keep bringing you first-rate services. We may also disclose, on an anonymous basis, literal statements made by our customers. At no time, however, will we disclose personal information about specific customers. 
+We also provide analyses of our customers in the aggregate to prospective partners, advertisers and other third parties (often known as 'Aggregated Data Analytics'). We do this so that we and our business partners can understand you better, and so we can keep bringing you first-rate services. We may also disclose, on an anonymous basis, literal statements made by our customers. At no time, however, will we disclose personal information about specific customers for the purpose of Aggregated Data Analytics. 
 
 Linked websites are not under our control and we are not responsible for the conduct of companies linked to our Site. Before disclosing your personal information on any other website we advise you to examine their terms and conditions of use. 
 
@@ -164,4 +167,4 @@ If you have questions or concerns regarding this Privacy Policy, please contact;
 
 back to top ↑
 
-* * *
+**This privacy policy is effective as of February 16th 2015**
