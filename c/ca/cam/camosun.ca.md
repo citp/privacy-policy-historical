@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the camosun.ca privacy policy that was archived on 2014-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141107005711id_/http%3A//camosun.ca/privacy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the camosun.ca privacy policy that was archived on 2015-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150621003327id_/http%3A//camosun.ca/privacy-statement.html) for the most accurate reproduction.*
 
 # Website Privacy Statement - Camosun College
 
