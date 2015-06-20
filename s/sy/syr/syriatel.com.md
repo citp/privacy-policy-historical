@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the syriatel.com privacy policy that was archived on 2014-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140819142832id_/http%3A//www.syriatel.sy/m/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the syriatel.com privacy policy that was archived on 2015-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150620234606id_/http%3A//www.syriatel.sy/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Syriatel
 
