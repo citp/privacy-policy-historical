@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adzquik.com privacy policy that was archived on 2014-07-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140719111245id_/http%3A//adzquik.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adzquik.com privacy policy that was archived on 2015-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150621014402id_/http%3A//adzquik.com/privacy.php) for the most accurate reproduction.*
 
 # Adz Quik Privacy Policy
 
