@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the highfashionhome.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702045118id_/http%3A//www.highfashionhome.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the highfashionhome.com privacy policy that was archived on 2015-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150620053545id_/http%3A//www.highfashionhome.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -25,8 +25,10 @@ If you have any questions about our privacy policy, you can always contact us us
 **By phone** : | 1.888.685.3838 713.528.3838 (Mon. thru Sat. 10 a.m. - 7 p.m. CST; Sun. 12 p.m. - 6 p.m. CST)  
 ---|---  
 **By mail** : | High Fashion Home 3100 Travis Street Houston, TX 77006  
-**By email** : | [info@highfashionhome.com](mailto:info@highfashionhome.com)  
+**By email** : | [support@highfashionhome.com](mailto:support@highfashionhome.com)  
   
 If our information practices change in the future, we'll post an updated policy on our website. 
 
-Last Updated: October 11, 2013
+Last Updated: April 20, 2015
+
+We carefully inspect all merchandise before shipment. We encourage you to inspect all merchandise for possible damages upon receipt. In the event that damages occur in transit, or if you discover any manufacturer defects, please contact us immediately at 1.888.685.3838. Upon return, your merchandise will be inspected and all proper refunds will be issued. 
