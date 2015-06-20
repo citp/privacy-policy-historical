@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the shopaccino.com privacy policy that was archived on 2014-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141223114054id_/http%3A//www.shopaccino.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shopaccino.com privacy policy that was archived on 2015-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150620041154id_/http%3A//www.shopaccino.com/privacy-policy.php) for the most accurate reproduction.*
 
-# Shopaccino Stores
+# Shopaccino Privacy Policy
 
 When you visit this website you may provide us with two types of information: personal information you knowingly choose to disclose that is collected on an individual basis, and website use information collected on an aggregate basis as you and others browse our website.
 
