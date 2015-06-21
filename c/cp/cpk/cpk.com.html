@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the cpk.com privacy policy that was archived on 2014-12-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141218040118id_/http%3A//www.cpk.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the cpk.com privacy policy that was archived on 2015-06-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150622010608id_/http%3A//www.cpk.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
 		<!-- =========== BEGIN MOBILE SNIPPET ================= -->
@@ -10,7 +10,7 @@
 		<title>California Pizza Kitchen - Privacy Policy</title>
 		<!--[if lt IE 10]><meta http-equiv="X-UA-Compatible" content="IE=EmulateIE8" /><![endif]-->
 		<!--[if gte IE 10]><meta http-equiv="X-UA-Compatible" content="IE=edge" /><![endif]-->
-		<meta name="p:domain_verify" content="fd66af7d7a9096f317ccc1765937cb67">
+		<meta name="p:domain_verify" content="cc7af9182136a053385fa893def06f69">
 		<meta name="keywords" content="California Pizza Kitchen, CPK, Privacy Policy">
 		<meta name="description" content="Your privacy is important to us.  View our privacy policy to learn how we keep your information safe.">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -102,9 +102,13 @@
 						<div id="location-panel" class="clearfix default-address">
 
 						
-							<div id="header-search">
+							<div id="header-search-wrap">
+								<div id="map-canvas"></div>
 								<form action="/locations/">
-									<input type="search" name="q" id="search" placeholder="Enter Zip Code, City or State"><input type="image" value="submit" src="http://d149n29we98a20.cloudfront.net/static/img/reskin/global/search-submit.png" id="search-submit">
+									<input type="search" id="header-bar" placeholder="Enter Zip Code, City or State" value="">
+									<input type="search" name="q" id="header-search" value="">
+									<input type="image" src="http://d149n29we98a20.cloudfront.net/static/img/reskin/global/search-submit.png" class="geoCodeIt" id="presearch-submit" data-bar-name="header">
+									<input type="image" value="submit" src="http://d149n29we98a20.cloudfront.net/static/img/reskin/global/search-submit.png" id="header-submit">
 								</form>
 							</div>
 						
@@ -117,7 +121,7 @@
 					<nav role="navigation">
 						<a id="home" href="/">CPK.com</a>
 						<ul>
-							<li><a href="/menu/" class="drop" data-nav-id="nav-menu" data-nav-height="342">Menus</a></li>
+							<li><a href="/menu/">Menus</a></li>
 							<li><a href="/locations/">Locations</a></li>
 							<li><a href="/catering/" class="drop" data-nav-id="nav-catering" data-nav-height="270">Catering</a></li>
 							<li><a class="drop" data-nav-id="nav-cards" data-nav-height="270">CPK Cards</a></li>
@@ -205,6 +209,7 @@
 							<li><a href="https://cpkstore.wgiftcard.com/">Gift Cards</a></li>
 							<li><a href="http://webhost.cpk.com/bog/">Be Our Guest Cards</a></li>
 							<li><a href="http://www.cpk.com/pizzadough/">Pizza Dough® Rewards Loyalty Cards</a></li>
+							<li><a href="http://webhost.cpk.com/promobalance/">$20 Promotional Card</a></li>
 						</ul>
 					</div>
 				</div>
@@ -214,7 +219,6 @@
 						<ul class="primary">
 							<li><a href="/catering/">Overview</a></li>
 							<li><a href="/catering/menu/">Catering Menu</a></li>
-							<li><a href="/catering/let-us-help/">Let Us Help</a></li>
 						</ul>
 						<ul class="secondary">
 							<li><a href="/catering/mobile-kitchen/">Mobile Kitchen &amp; <br>Special Events</a></li>
@@ -412,7 +416,7 @@
 						<a href="/privacy/">Privacy Policy</a>
 						<a href="/sitemap/">Site Map</a>
 						<p class="sosumi">
-							© Copyright 2014 California Pizza Kitchen, Inc. All rights reserved.
+							© Copyright 2015 California Pizza Kitchen, Inc. All rights reserved.
 						</p>
 					</nav>
 					
@@ -423,6 +427,7 @@
 		<!-- JavaScript at the bottom for fast page loading -->
 		<div class="hidden scripts">
 			<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+			<script type="text/javascript" src="//maps.googleapis.com/maps/api/js?v=3.exp&amp;signed_in=true"></script>
 			<script type="text/javascript" src="https://www.youtube.com/iframe_api"></script>
 
 			
@@ -447,6 +452,7 @@
 		<div id="bg">
 			<img src="http://d149n29we98a20.cloudfront.net/static/img/reskin/global/body2.jpg">
 		</div>
+		
 	
 
 </body></html>
