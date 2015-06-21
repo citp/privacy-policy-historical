@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the racgp.org.au privacy policy that was archived on 2014-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141129103935id_/http%3A//www.racgp.org.au/usage/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the racgp.org.au privacy policy that was archived on 2015-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150621094106id_/http%3A//www.racgp.org.au/usage/privacy) for the most accurate reproduction.*
 
 # RACGP - Privacy statement
 
@@ -58,7 +58,7 @@ For other individuals, personal information may be collected to respond to enqui
 
 We may also require limited disclosure to contractors we engage to act for us or on our behalf, such as IT service providers, in order to enable them to provide their services. All contractors engaged in this fashion are required to comply with this policy.
 
-Other than for administration or membership purposes, we will not use or disclose your personal information without your consent. Some permitted exceptions to this apply, including where we are legally required to disclose, or to protect the personal safety of any individual or the public.
+Other than for administration or membership purposes, or to confirm whether you have achieved Fellowship with the RACGP, we will not use or disclose your personal information without your consent. Some permitted exceptions to this apply, including where we are legally required to disclose, or to protect the personal safety of any individual or the public.
 
 We will not ordinarily disclose your personal information to anyone outside of Australia. However, we do share limited subsets of member’s personal information, to our engaged external contact centres to provide related business, marketing and support services. This provider is currently based in the United States of America. Any information disclosed is used strictly only for the intended purposes. We periodically review our engagement of such providers to ensure privacy compliance.
 
