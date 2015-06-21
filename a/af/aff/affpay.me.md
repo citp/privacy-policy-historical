@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the affpay.me privacy policy that was archived on 2014-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141117154454id_/http%3A//www.affpay.me/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the affpay.me privacy policy that was archived on 2015-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150621205538id_/http%3A//www.affpay.me/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy – Affpay.me
 
