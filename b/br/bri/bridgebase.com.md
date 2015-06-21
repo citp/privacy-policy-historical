@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the bridgebase.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702220039id_/http%3A//www.bridgebase.com/intro/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bridgebase.com privacy policy that was archived on 2015-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150621075802id_/http%3A//www.bridgebase.com/intro/privacy.php) for the most accurate reproduction.*
 
 # Bridge Base Online
 
 #### Bridge Base Online Privacy Statement
 
-_(last updated: Jan 2013)_
+_(last updated: Sep 2014)_
 
 Bridge Base Online ("BBO") is committed to protecting your privacy. This privacy statement applies to the data collected by BBO through the Bridge Base Online web pages and the original BBO program (collectively, the Site); it does not apply to data collected through other online or offline BBO sites, products or services. 
 
@@ -17,6 +17,8 @@ We will ask you for your username, password, and a valid email address during th
 You need not enter your real name in the registration form or your profile. The public portion of your profile (Name, country, skill level, other information) will be visible to every other member of the site. 
 
 If you choose to engage in commerce on our site, we may ask you for your real name, address, telephone number, and credit card details. You can opt to have us remember your name, address, and telephone number and credit card expiration date as a convenience for you. We will not store your credit card number or credit card security code. 
+
+From time to time we may request demographic information. 
 
 If you choose to play in tournaments sponsored by a National Bridge Organization ( "NBO" -- for example, the ACBL ) we will ask you for your player number in that NBO to allow us to report your results. 
 
@@ -43,6 +45,8 @@ Personal information collected on the Site may be stored and processed in the Un
 BBO may disclose personal information if required to do so by law or in the good faith belief that such action is necessary to (a) conform to the edicts of the law or comply with legal process served on BBO or the Site; (b) protect and defend the rights or property of BBO and our family of Web sites; or (c) act in urgent circumstances to protect the personal safety of users of BBO products or members of the public. 
 
 BBO may also disclose your personal information to cooperate with our partners in abuse-related investigations. For instance: ACBL requires that BBO report the names of players who have been banned from ACBL games. 
+
+Personally identifiable demographic information will not be shared except as specified above. From time to time, we may publish summaries of our demographic data. 
 
 #### Control of Your Personal Information
 
@@ -98,4 +102,4 @@ Las Vegas, NV
 USA 89117  
 
 
-© 1996-2014 All rights reserved 
+© 1996-2015 All rights reserved 
