@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sexchatster.com privacy policy that was archived on 2014-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141103161657id_/http%3A//www.sexchatster.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sexchatster.com privacy policy that was archived on 2015-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150622000931id_/http%3A//www.sexchatster.com/privacy) for the most accurate reproduction.*
 
 # Our Privacy Policy - We Care About Your Privacy! | Sexchatster
 
@@ -75,7 +75,7 @@ Occasionally, at our discretion, we may include or offer third party products or
   
 
 
-Google's advertising requirements can be summed up by Google's Advertising Principles. They are put in place to provide a positive experience for users. https://support.google.com/adwordspolicy/answer/1316548?hl=en 
+Google's advertising requirements can be summed up by Google's Advertising Principles. They are put in place to provide a positive experience for users. http://goo.gl/rxlLZ 
 
 We have not enabled Google AdSense on our site but we may do so in the future.
 
