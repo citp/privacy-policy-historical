@@ -1,12 +1,12 @@
-<!--The following is the downloaded HTML source of the ninewest.com privacy policy that was archived on 2014-12-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141231014457id_/http%3A//www.ninewest.com/Privacy/PRIVACY%2Cdefault%2Cpg.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ninewest.com privacy policy that was archived on 2015-06-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150622004237id_/http%3A//www.ninewest.com/Privacy/PRIVACY%2Cdefault%2Cpg.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 
-<title>Shoes for Women | Handbags for Women | Nine West</title>
+<title>Shoes &amp; Handbags for Women | Nine West</title>
 
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<meta property="og:title" content="Shoes for Women | Handbags for Women | Nine West">
+<meta property="og:title" content="Shoes &amp; Handbags for Women | Nine West">
 
 <meta property="fb:app_id" content="140495799295288">
 
@@ -25,33 +25,58 @@
 
 
 <script type="text/javascript">
-function partnerCustomFunctionOnSignIn(){}
-function partnerCustomFunctionOnSignUp(){}
-function partnerCustomFunctionOnSignOut(){}
+function partnerCustomFunctionOnSignIn(){
+sr_sign_in();
+//var t = setTimeout("sr_sign_in()", 250);
+}
+function partnerCustomFunctionOnSignUp(){
+var t = setTimeout("sr_sign_in()", 250);
+}
+function partnerCustomFunctionOnSignOut(){
+sr_sign_out();
+//var t = setTimeout("sr_sign_out()", 250);
+}
+function sr_sign_out() {
+jQuery.ajax({
+url: "/on/demandware.store/Sites-ninewest-Site/default/FluidCheckout-SRSignOut",
+context: document.body
+}).done(function() {
+window.location.reload();
+});
+}
+function sr_sign_in() {
+jQuery.ajax({
+url: "/on/demandware.store/Sites-ninewest-Site/default/FluidCheckout-AssignShippingMethodToBasket",
+data: { shippingMethodID: "34", token: jQuery('#ajaxToken').val() },
+context: document.body
+}).done(function() {
+window.location.reload();
+});
+}
 </script>
 <!--isinclude template="pagecomponents/shoprunner_initJS"-->
-<script type="text/javascript" src="http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-ninewest-Site/-/default/v1419916686127/js/edutl.js"></script>
+<script type="text/javascript" src="http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-ninewest-Site/-/default/v1434859261454/js/edutl.js"></script>
 
-<script src="http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-ninewest-Site/-/default/v1419916686127/lib/js/swfobject.js" type="text/javascript"></script>
-<script src="http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-ninewest-Site/-/default/v1419916686127/lib/js/jquery-1.5.1.min.js" type="text/javascript"></script>
-<script src="http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-ninewest-Site/-/default/v1419916686127/lib/js/jquery.dropdownPlain.js" type="text/javascript"></script>
-<script src="http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-ninewest-Site/-/default/v1419916686127/lib/js/jquery-ui-1.8.14.custom.min.js" type="text/javascript"></script>
+<script src="http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-ninewest-Site/-/default/v1434859261454/lib/js/swfobject.js" type="text/javascript"></script>
+<script src="http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-ninewest-Site/-/default/v1434859261454/lib/js/jquery-1.5.1.min.js" type="text/javascript"></script>
+<script src="http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-ninewest-Site/-/default/v1434859261454/lib/js/jquery.dropdownPlain.js" type="text/javascript"></script>
+<script src="http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-ninewest-Site/-/default/v1434859261454/lib/js/jquery-ui-1.8.14.custom.min.js" type="text/javascript"></script>
 
 <script type="text/javascript">
 jQuery.noConflict();
 </script>
-<script src="http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-ninewest-Site/-/default/v1419916686127/lib/js/prototype.js" type="text/javascript"></script>
-<script src="http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-ninewest-Site/-/default/v1419916686127/lib/js/scriptaculous.js?load=effects,builder" type="text/javascript"></script>
+<script src="http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-ninewest-Site/-/default/v1434859261454/lib/js/prototype.js" type="text/javascript"></script>
+<script src="http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-ninewest-Site/-/default/v1434859261454/lib/js/scriptaculous.js?load=effects,builder" type="text/javascript"></script>
 <script type="text/javascript">
-var staticRoot = 'http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-ninewest-Site/-/default/v1419916686127/';
-var staticLibraryRoot = 'http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-ninewest-Site/Sites-ninewest-Library/default/v1419916686127/';
+var staticRoot = 'http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-ninewest-Site/-/default/v1434859261454/';
+var staticLibraryRoot = 'http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-ninewest-Site/Sites-ninewest-Library/default/v1434859261454/';
 var predata = {};
 </script>
-<script src="http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-ninewest-Site/-/default/v1419916686127/js/searchsuggest.js" type="text/javascript"></script>
-<script src="http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-ninewest-Site/-/default/v1419916686127/js/app.js" type="text/javascript"></script>
-<script src="http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-ninewest-Site/-/default/v1419916686127/js/formutils.js" type="text/javascript"></script>
-<script src="http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-ninewest-Site/-/default/v1419916686127/js/topnavselections.js" type="text/javascript"></script>
-<script src="http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-ninewest-Site/-/default/v1419916686127/js/cookie.js" type="text/javascript"></script>
+<script src="http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-ninewest-Site/-/default/v1434859261454/js/searchsuggest.js" type="text/javascript"></script>
+<script src="http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-ninewest-Site/-/default/v1434859261454/js/app.js" type="text/javascript"></script>
+<script src="http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-ninewest-Site/-/default/v1434859261454/js/formutils.js" type="text/javascript"></script>
+<script src="http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-ninewest-Site/-/default/v1434859261454/js/topnavselections.js" type="text/javascript"></script>
+<script src="http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-ninewest-Site/-/default/v1434859261454/js/cookie.js" type="text/javascript"></script>
 
 
 <script type="text/javascript">
@@ -307,13 +332,17 @@ window.sociablefbjs = {
 		}
 };
 </script>
-<script type="text/javascript" src="http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-ninewest-Site/-/default/v1419916686127/js/sociablelogin.js"></script>
+<script type="text/javascript" src="http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-ninewest-Site/-/default/v1434859261454/js/sociablelogin.js"></script>
+
+
+<script src="//d3c3cq33003psk.cloudfront.net/opentag-122978-1648497.js" async="" defer=""></script>
+
 
 
 <script type="text/javascript">
 // PowerReview related settings
-var pr_zip_location = "http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-ninewest-Site/Sites-ninewest-catalog/default/v1419916686127";
-var pr_style_sheet = "http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-ninewest-Site/-/default/v1419916686127/css/reviews.css";
+var pr_zip_location = "http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-ninewest-Site/Sites-ninewest-catalog/default/v1434859261454";
+var pr_style_sheet = "http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-ninewest-Site/-/default/v1434859261454/css/reviews.css";
 var pr_merchant_id = "2381";
 </script>
 <script type="text/javascript">
@@ -503,7 +532,7 @@ arrayPageSize = new Array(pageWidth,pageHeight,windowWidth,windowHeight);
 return arrayPageSize;
 }
 </script>
-<script src="http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-ninewest-Site/-/default/v1419916686127/js/skuPicker.js" type="text/javascript"></script>
+<script src="http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-ninewest-Site/-/default/v1434859261454/js/skuPicker.js" type="text/javascript"></script>
 
 
 
@@ -556,10 +585,11 @@ jQuery(this).addClass('activeLink');
 
 	                                                                                                                                                                         
 	
-<link rel="icon" href="http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-ninewest-Site/-/default/v1419916686127/images/favicon.ico" type="image/x-icon">
-<link rel="shortcut icon" href="http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-ninewest-Site/-/default/v1419916686127/images/favicon.ico" type="image/x-icon">
+<link rel="icon" href="http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-ninewest-Site/-/default/dw0a9c2774/images/favicon.ico" type="image/x-icon">
+<link rel="shortcut icon" href="http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-ninewest-Site/-/default/dw0a9c2774/images/favicon.ico" type="image/x-icon">
 
-<script type="text/javascript" src="http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-ninewest-Site/-/default/v1419916686127/internal/jscript/dwac-14.8.js"></script>
+<script type="text/javascript" src="http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-ninewest-Site/-/default/v1434859261454/internal/jscript/dwac-14.8.js"></script>
+
 <link href="/on/demandware.store/Sites-ninewest-Site/default/Link-PageByDate?cid=CSS_PRIVACY" type="text/css" rel="stylesheet">
 
 
@@ -697,12 +727,12 @@ document.observe('dom:loaded', function() {
 <div id="countrySelectWidget">
 <div id="countrySelectHolder" class="countrySelectHolder">
 <span class="countrySelectLabel countryHeadingSpan">Shipping to</span>
-<span class="countrySelectLabel countryFlagSpan"><img src="http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-ninewest-Site/-/default/v1419916686127/images/flags/US.gif"></span>
+<span class="countrySelectLabel countryFlagSpan"><img src="http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-ninewest-Site/-/default/dwe9abb610/images/flags/US.gif"></span>
 <span style="display:none;" class="countrySelectLabel countryNameSpan">United States ()</span>
 </div>
 <div id="currencySelectHolder" class="currencySelectHolder">
 <form action="" method="get" name="currencyForm" id="currencyForm">
-<div id="currencyCloseHolder"><a href="#" id="currencyClose"><img src="http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-ninewest-Site/-/default/v1419916686127/images/productDetail/close_icon.gif" alt="Close"></a></div>
+<div id="currencyCloseHolder"><a href="#" id="currencyClose"><img src="http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-ninewest-Site/-/default/dwe4628c85/images/productDetail/close_icon.gif" alt="Close"></a></div>
 <div id="currencyHeader">
 
 
@@ -725,7 +755,7 @@ document.observe('dom:loaded', function() {
 <div id="countriesDD" class="countriesDD">
 <div id="countryLabelHolder">
 <span class="countrySelectLabel countryHeadSpan">Selected country:</span>
-<span class="countrySelectLabel countryFlagSpan"><img src="http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-ninewest-Site/-/default/v1419916686127/images/flags/US.gif"></span>
+<span class="countrySelectLabel countryFlagSpan"><img src="http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-ninewest-Site/-/default/dwe9abb610/images/flags/US.gif"></span>
 <span class="countrySelectLabel countryNameSpan">United States</span>
 </div>
 <div class="countrySelectList">
@@ -734,79 +764,79 @@ document.observe('dom:loaded', function() {
 
 
 
-<option value="AT" title="EUR" style="background-repeat:no-repeat; background-position:left center; background-image:url(http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-ninewest-Site/-/default/v1419916686127/images/flags/AT.gif);">Austria (EUR)</option>
+<option value="AT" title="EUR" style="background-repeat:no-repeat; background-position:left center; background-image:url(http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-ninewest-Site/-/default/dwe092b700/images/flags/AT.gif);">Austria (EUR)</option>
 
 
-<option value="BD" title="BDT" style="background-repeat:no-repeat; background-position:left center; background-image:url(http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-ninewest-Site/-/default/v1419916686127/images/flags/BD.gif);">Bangladesh (BDT)</option>
+<option value="BD" title="BDT" style="background-repeat:no-repeat; background-position:left center; background-image:url(http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-ninewest-Site/-/default/dw8415266c/images/flags/BD.gif);">Bangladesh (BDT)</option>
 
 
-<option value="BE" title="EUR" style="background-repeat:no-repeat; background-position:left center; background-image:url(http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-ninewest-Site/-/default/v1419916686127/images/flags/BE.gif);">Belgium (EUR)</option>
+<option value="BE" title="EUR" style="background-repeat:no-repeat; background-position:left center; background-image:url(http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-ninewest-Site/-/default/dwacda3813/images/flags/BE.gif);">Belgium (EUR)</option>
 
 
-<option value="BO" title="BOB" style="background-repeat:no-repeat; background-position:left center; background-image:url(http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-ninewest-Site/-/default/v1419916686127/images/flags/BO.gif);">Bolivia (BOB)</option>
+<option value="BO" title="BOB" style="background-repeat:no-repeat; background-position:left center; background-image:url(http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-ninewest-Site/-/default/dw1aaf3eaf/images/flags/BO.gif);">Bolivia (BOB)</option>
 
 
-<option value="BR" title="USD" style="background-repeat:no-repeat; background-position:left center; background-image:url(http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-ninewest-Site/-/default/v1419916686127/images/flags/BR.gif);">Brazil (USD)</option>
+<option value="BR" title="USD" style="background-repeat:no-repeat; background-position:left center; background-image:url(http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-ninewest-Site/-/default/dw40c70fcd/images/flags/BR.gif);">Brazil (USD)</option>
 
 
-<option value="BN" title="USD" style="background-repeat:no-repeat; background-position:left center; background-image:url(http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-ninewest-Site/-/default/v1419916686127/images/flags/BN.gif);">Brunei Darussalam (USD)</option>
+<option value="BN" title="USD" style="background-repeat:no-repeat; background-position:left center; background-image:url(http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-ninewest-Site/-/default/dwa6345748/images/flags/BN.gif);">Brunei Darussalam (USD)</option>
 
 
-<option value="DK" title="DKK" style="background-repeat:no-repeat; background-position:left center; background-image:url(http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-ninewest-Site/-/default/v1419916686127/images/flags/DK.gif);">Denmark (DKK)</option>
+<option value="DK" title="DKK" style="background-repeat:no-repeat; background-position:left center; background-image:url(http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-ninewest-Site/-/default/dw8be74885/images/flags/DK.gif);">Denmark (DKK)</option>
 
 
-<option value="EE" title="EUR" style="background-repeat:no-repeat; background-position:left center; background-image:url(http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-ninewest-Site/-/default/v1419916686127/images/flags/EE.gif);">Estonia (EUR)</option>
+<option value="EE" title="EUR" style="background-repeat:no-repeat; background-position:left center; background-image:url(http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-ninewest-Site/-/default/dwdb368f0b/images/flags/EE.gif);">Estonia (EUR)</option>
 
 
-<option value="FI" title="EUR" style="background-repeat:no-repeat; background-position:left center; background-image:url(http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-ninewest-Site/-/default/v1419916686127/images/flags/FI.gif);">Finland (EUR)</option>
+<option value="FI" title="EUR" style="background-repeat:no-repeat; background-position:left center; background-image:url(http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-ninewest-Site/-/default/dw6223b91d/images/flags/FI.gif);">Finland (EUR)</option>
 
 
-<option value="LV" title="EUR" style="background-repeat:no-repeat; background-position:left center; background-image:url(http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-ninewest-Site/-/default/v1419916686127/images/flags/LV.gif);">Latvia (EUR)</option>
+<option value="LV" title="EUR" style="background-repeat:no-repeat; background-position:left center; background-image:url(http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-ninewest-Site/-/default/dw980f280a/images/flags/LV.gif);">Latvia (EUR)</option>
 
 
-<option value="LI" title="CHF" style="background-repeat:no-repeat; background-position:left center; background-image:url(http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-ninewest-Site/-/default/v1419916686127/images/flags/LI.gif);">Liechtenstein (CHF)</option>
+<option value="LI" title="CHF" style="background-repeat:no-repeat; background-position:left center; background-image:url(http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-ninewest-Site/-/default/dwdf17ad22/images/flags/LI.gif);">Liechtenstein (CHF)</option>
 
 
-<option value="LT" title="EUR" style="background-repeat:no-repeat; background-position:left center; background-image:url(http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-ninewest-Site/-/default/v1419916686127/images/flags/LT.gif);">Lithuania (EUR)</option>
+<option value="LT" title="EUR" style="background-repeat:no-repeat; background-position:left center; background-image:url(http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-ninewest-Site/-/default/dw92f16086/images/flags/LT.gif);">Lithuania (EUR)</option>
 
 
-<option value="LU" title="EUR" style="background-repeat:no-repeat; background-position:left center; background-image:url(http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-ninewest-Site/-/default/v1419916686127/images/flags/LU.gif);">Luxembourg (EUR)</option>
+<option value="LU" title="EUR" style="background-repeat:no-repeat; background-position:left center; background-image:url(http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-ninewest-Site/-/default/dw3aeaccd6/images/flags/LU.gif);">Luxembourg (EUR)</option>
 
 
-<option value="MV" title="MVR" style="background-repeat:no-repeat; background-position:left center; background-image:url(http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-ninewest-Site/-/default/v1419916686127/images/flags/MV.gif);">Maldives (MVR)</option>
+<option value="MV" title="MVR" style="background-repeat:no-repeat; background-position:left center; background-image:url(http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-ninewest-Site/-/default/dw53654a2c/images/flags/MV.gif);">Maldives (MVR)</option>
 
 
-<option value="NL" title="EUR" style="background-repeat:no-repeat; background-position:left center; background-image:url(http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-ninewest-Site/-/default/v1419916686127/images/flags/NL.gif);">Netherlands (EUR)</option>
+<option value="NL" title="EUR" style="background-repeat:no-repeat; background-position:left center; background-image:url(http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-ninewest-Site/-/default/dw309d9f01/images/flags/NL.gif);">Netherlands (EUR)</option>
 
 
-<option value="NO" title="NOK" style="background-repeat:no-repeat; background-position:left center; background-image:url(http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-ninewest-Site/-/default/v1419916686127/images/flags/NO.gif);">Norway (NOK)</option>
+<option value="NO" title="NOK" style="background-repeat:no-repeat; background-position:left center; background-image:url(http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-ninewest-Site/-/default/dw70b4150d/images/flags/NO.gif);">Norway (NOK)</option>
 
 
-<option value="PY" title="PYG" style="background-repeat:no-repeat; background-position:left center; background-image:url(http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-ninewest-Site/-/default/v1419916686127/images/flags/PY.gif);">Paraguay (PYG)</option>
+<option value="PY" title="PYG" style="background-repeat:no-repeat; background-position:left center; background-image:url(http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-ninewest-Site/-/default/dw2590738f/images/flags/PY.gif);">Paraguay (PYG)</option>
 
 
-<option value="PL" title="PLN" style="background-repeat:no-repeat; background-position:left center; background-image:url(http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-ninewest-Site/-/default/v1419916686127/images/flags/PL.gif);">Poland (PLN)</option>
+<option value="PL" title="PLN" style="background-repeat:no-repeat; background-position:left center; background-image:url(http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-ninewest-Site/-/default/dw83bea4fc/images/flags/PL.gif);">Poland (PLN)</option>
 
 
-<option value="RO" title="RON" style="background-repeat:no-repeat; background-position:left center; background-image:url(http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-ninewest-Site/-/default/v1419916686127/images/flags/RO.gif);">Romania (RON)</option>
+<option value="RO" title="RON" style="background-repeat:no-repeat; background-position:left center; background-image:url(http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-ninewest-Site/-/default/dwd258b226/images/flags/RO.gif);">Romania (RON)</option>
 
 
-<option value="RU" title="RUB" style="background-repeat:no-repeat; background-position:left center; background-image:url(http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-ninewest-Site/-/default/v1419916686127/images/flags/RU.gif);">Russian Federation (RUB)</option>
+<option value="RU" title="RUB" style="background-repeat:no-repeat; background-position:left center; background-image:url(http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-ninewest-Site/-/default/dw3907b885/images/flags/RU.gif);">Russian Federation (RUB)</option>
 
 
-<option value="RE" title="EUR" style="background-repeat:no-repeat; background-position:left center; background-image:url(http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-ninewest-Site/-/default/v1419916686127/images/flags/RE.gif);">Réunion (EUR)</option>
+<option value="RE" title="EUR" style="background-repeat:no-repeat; background-position:left center; background-image:url(http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-ninewest-Site/-/default/dwaaec5293/images/flags/RE.gif);">Réunion (EUR)</option>
 
 
-<option value="LK" title="LKR" style="background-repeat:no-repeat; background-position:left center; background-image:url(http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-ninewest-Site/-/default/v1419916686127/images/flags/LK.gif);">Sri Lanka (LKR)</option>
+<option value="LK" title="LKR" style="background-repeat:no-repeat; background-position:left center; background-image:url(http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-ninewest-Site/-/default/dw34e382d2/images/flags/LK.gif);">Sri Lanka (LKR)</option>
 
 
-<option value="SE" title="SEK" style="background-repeat:no-repeat; background-position:left center; background-image:url(http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-ninewest-Site/-/default/v1419916686127/images/flags/SE.gif);">Sweden (SEK)</option>
+<option value="SE" title="SEK" style="background-repeat:no-repeat; background-position:left center; background-image:url(http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-ninewest-Site/-/default/dw546dc5e1/images/flags/SE.gif);">Sweden (SEK)</option>
 
 
-<option value="CH" title="CHF" style="background-repeat:no-repeat; background-position:left center; background-image:url(http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-ninewest-Site/-/default/v1419916686127/images/flags/CH.gif);">Switzerland (CHF)</option>
+<option value="CH" title="CHF" style="background-repeat:no-repeat; background-position:left center; background-image:url(http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-ninewest-Site/-/default/dw4fe358f1/images/flags/CH.gif);">Switzerland (CHF)</option>
 
 
-<option value="US" title="USD" style="background-repeat:no-repeat; background-position:left center; background-image:url(http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-ninewest-Site/-/default/v1419916686127/images/flags/US.gif);" selected="">United States (USD)</option>
+<option value="US" title="USD" style="background-repeat:no-repeat; background-position:left center; background-image:url(http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-ninewest-Site/-/default/dwe9abb610/images/flags/US.gif);" selected="">United States (USD)</option>
 
 </select>
 </div>
@@ -997,7 +1027,7 @@ var sShippingCountryCode = 'US';
 </div>
 
 
-<img class="topNavDivider" src="http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-ninewest-Site/-/default/v1419916686127/images/cart/topNavBar-divider.png" alt="">
+<img class="topNavDivider" src="http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-ninewest-Site/-/default/dw04a5ee44/images/cart/topNavBar-divider.png" alt="">
 
 
 <style type="text/css">
@@ -1064,14 +1094,14 @@ right:0; width:300px;
 Uncached Tracking Data:
 </div>
 <div style="float:left;width:100%;padding:10px 0;">
-<div style="width:100%;float:left;"><span style="color:green;width:50%;float:left;">user_anonymous</span><span style="color:blue;font-weight:bold;width:50%;float:left;">true</span></div><div style="width:100%;float:left;"><span style="color:green;width:50%;float:left;">user_authenticated</span><span style="color:blue;font-weight:bold;width:50%;float:left;">false</span></div><div style="width:100%;float:left;"><span style="color:green;width:50%;float:left;">user_registered</span><span style="color:blue;font-weight:bold;width:50%;float:left;">false</span></div><div style="width:100%;float:left;"><span style="color:green;width:50%;float:left;">customer_id</span><span style="color:blue;font-weight:bold;width:50%;float:left;">bcw6JC7eG1FaP96OWV71RLrxj5</span></div><div style="width:100%;float:left;"><span style="color:green;width:50%;float:left;">loyalty_status</span><span style="color:blue;font-weight:bold;width:50%;float:left;">noloyalty</span></div><div style="width:100%;float:left;"><span style="color:green;width:50%;float:left;">customer_email</span><span style="color:blue;font-weight:bold;width:50%;float:left;"></span></div><div style="width:100%;float:left;"><span style="color:green;width:50%;float:left;">campaign_id</span><span style="color:blue;font-weight:bold;width:50%;float:left;"></span></div>
+<div style="width:100%;float:left;"><span style="color:green;width:50%;float:left;">user_anonymous</span><span style="color:blue;font-weight:bold;width:50%;float:left;">true</span></div><div style="width:100%;float:left;"><span style="color:green;width:50%;float:left;">user_authenticated</span><span style="color:blue;font-weight:bold;width:50%;float:left;">false</span></div><div style="width:100%;float:left;"><span style="color:green;width:50%;float:left;">user_registered</span><span style="color:blue;font-weight:bold;width:50%;float:left;">false</span></div><div style="width:100%;float:left;"><span style="color:green;width:50%;float:left;">customer_id</span><span style="color:blue;font-weight:bold;width:50%;float:left;">adA45bRJnSW6SrXngMyKaeiuyz</span></div><div style="width:100%;float:left;"><span style="color:green;width:50%;float:left;">loyalty_status</span><span style="color:blue;font-weight:bold;width:50%;float:left;">noloyalty</span></div><div style="width:100%;float:left;"><span style="color:green;width:50%;float:left;">customer_email</span><span style="color:blue;font-weight:bold;width:50%;float:left;"></span></div><div style="width:100%;float:left;"><span style="color:green;width:50%;float:left;">campaign_id</span><span style="color:blue;font-weight:bold;width:50%;float:left;"></span></div>
 	
 	<script type="text/javascript">
 		predata.customer = {
   "user_anonymous": "true",
   "user_authenticated": "false",
   "user_registered": "false",
-  "customer_id": "bcw6JC7eG1FaP96OWV71RLrxj5",
+  "customer_id": "adA45bRJnSW6SrXngMyKaeiuyz",
   "loyalty_status": "noloyalty",
   "customer_email": "",
   "campaign_id": ""
@@ -1081,6 +1111,7 @@ Uncached Tracking Data:
 
 </div>
 </span>
+
 
 
 
@@ -1192,13 +1223,13 @@ Uncached Tracking Data:
 
 
 
-<img class="topNavDivider" src="http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-ninewest-Site/-/default/v1419916686127/images/cart/topNavBar-divider.png" alt="">
+<img class="topNavDivider" src="http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-ninewest-Site/-/default/dw04a5ee44/images/cart/topNavBar-divider.png" alt="">
 <div id="closet">
 <a id="shoppingBagAnchor" href="/on/demandware.store/Sites-ninewest-Site/default/Wishlist-Show">My Closet
 <span><span id="closetCount">(0</span>&nbsp;items)</span>
 </a>
 </div>
-<img class="topNavDivider" src="http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-ninewest-Site/-/default/v1419916686127/images/cart/topNavBar-divider.png" alt="">
+<img class="topNavDivider" src="http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-ninewest-Site/-/default/dw04a5ee44/images/cart/topNavBar-divider.png" alt="">
 <div id="shoppingBag">
 <a id="shoppingBagAnchor" href="http://www.ninewest.com/on/demandware.store/Sites-ninewest-Site/default/Cart-Show">
 My Bag
@@ -1244,7 +1275,7 @@ My Bag
 
 
 
-<input type="image" alt="Search" id="searchBtn" name="searchBtn" src="http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-ninewest-Site/Sites-ninewest-Library/default/v1419916686127/images/header/btn_search.gif">
+<input type="image" alt="Search" id="searchBtn" name="searchBtn" src="http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-ninewest-Site/Sites-ninewest-Library/default/dw3e3a5e06/images/header/btn_search.gif">
 
 
 
@@ -1315,11 +1346,11 @@ Search By Keyword
 <style>
 #theheaderpopup {display:none; float:left; height:0; left:0; position:absolute; top:0; z-index:999; width:100%;}
 #theheaderpopupIn {margin:auto; width:315px; padding-top:350px;}
-#theheaderpopupIn2 {background-color:#ffffff; border:solid 6px #cccccc; float:left; padding:5px; width:305px;}
+#theheaderpopupIn2 {background-color:#ffffff; border:solid 6px #cccccc; float:left; padding:5px; width:290px;}
 #theheaderpopupClose {float:left; width:100%;}
 #theheaderpopupClose a {color:#666666; float:right; font-size:11pt; font-weight:bold; padding:0 2px;}
-#theheaderpopupContent {color:#666666; float:left; font-size:10pt; margin:10px; text-align:justify; width:285px;}
-#topFreeShipImage {float:left; margin-top:-17px;}
+#theheaderpopupContent {color:#666666; float:left; font-size:10pt; margin:10px; text-align:justify; width:270px;}
+#topFreeShipImage {float:left; margin-top:0px;}
 </style>
 <script type="text/javascript">
 function showHeaderPopup(){
@@ -1330,9 +1361,9 @@ function closeHeaderPopup(){
 }
 </script>
 <div id="topFreeShipImage" style="float:left">
-	<img src="http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-ninewest-Site/Sites-ninewest-Library/default/v1419916686127/images/topNavGlobal/2014.11.12/freeShipping.jpg" usemap="#headerUI_Map">
+	<img src="http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-ninewest-Site/Sites-ninewest-Library/default/dw2baa91c6/images/topNavGlobal/2015.04.09/freeShipping_white.gif" usemap="#headerUI_Map">
 	<map name="headerUI_Map">
-		<area shape="rect" alt="" coords="179,1,240,33" href="javascript:showHeaderPopup();">
+		<area shape="rect" alt="see details" title="see details" coords="1,1,252,30" href="javascript:showHeaderPopup();">
 	</map>
 </div>
 <div id="theheaderpopup">
@@ -1340,10 +1371,10 @@ function closeHeaderPopup(){
 		<div id="theheaderpopupIn2">
 			<div id="theheaderpopupClose"><a href="javascript:closeHeaderPopup();">X</a></div>
 			<div id="theheaderpopupContent">				
-Free shipping on all orders is available for a limited time only. Offer is valid for 5-7 business day shipping within
-the 48 contiguous United States (excludes Alaska, Hawaii and U.S. Territories) for internet and phone orders only. 
-Qualifying purchase amount includes merchandise only, does not include taxes, gift cards or previous purchases
- and must be met after any coupons or discount are applied.
+Free shipping on orders of $75 or more is available for a limited time only. Offer is valid for 5-7 business
+day shipping within the 48 contiguous United States (excludes Alaska, Hawaii and U.S. Territories) for 
+internet and phone orders only. Qualifying purchase amount includes merchandise only, does not include
+taxes, gift cards or previous purchases and must be met after any coupons or discount are applied.
 			</div>
 		</div>
 	</div>
@@ -1398,7 +1429,7 @@ Qualifying purchase amount includes merchandise only, does not include taxes, gi
 
 
 
-<img src="http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-ninewest-Site/Sites-ninewest-Library/default/v1419916686127/images/header/top_nav/2014.08.01/logo.gif" alt="Shoes for women, Nine West" title="Shoes for women, Nine West" border="0">
+<img src="http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-ninewest-Site/Sites-ninewest-Library/default/dwcc6be1d7/images/header/top_nav/2015.02.18/logo.gif" alt="Shoes for Women, Handbags for Women at Nine West" title="Shoes for Women, Handbags for Women at Nine West" border="0">
 
 
 
@@ -1432,14 +1463,12 @@ When new items are added or removed the padding needs to be adjusted to keep the
 }
 #navHolder .submenu {
 	display:none;
-	background-color:#cdcdcd;
+	background-color:#ffffff;
 	position:absolute;
-	float:left;
-	left:0;
 	top:13px;
 	border-top:9px solid #FFFFFF;
-	padding:10px 15px 1px;
-	width:846px;
+	padding:10px 9px 1px 0px;
+	width:250px;
 	z-index:999;
 }
 #navHolder .submenu a {
@@ -1462,12 +1491,25 @@ When new items are added or removed the padding needs to be adjusted to keep the
 	width:220px;
 }
 .imgHolder {
-	float:right;
+	float:left;
 	width:624px;
 }
 .imgHolderShoe {
 	float:right;
-	width:406px;
+	width:403px;
+	padding-top:12px;
+}
+#navHolder #saleSubHolder {
+    padding-right:9px;
+}
+#saleSubHolder .imgHolderSale  {width:618px;}
+#navHolder #handbagsSubHolder {
+    padding-right: 0;
+    width: 300px;
+}
+#handbagsSubHolder .imgHolder {
+    float: right;
+    width: 632px;
 }
 .imgHolderBoots {
 	float:right;
@@ -1513,9 +1555,23 @@ When new items are added or removed the padding needs to be adjusted to keep the
 #shell #navHolder .submenu .sublevel1 {
 	padding-left:20px;
 }
-#shell #navHolder .submenu .sublevel2 {
-	padding-left:30px;
-}
+#shell #navHolder .submenu .sublevel1 {padding-left:20px;}
+#shell #navHolder .submenu .sublevel1 {color:#000000;}
+#shell #navHolder .submenu .sublevel1:hover {color:#999999;font-style:italic;}
+#shell #navHolder .submenu .sublevel1 .current {color:#000000;}
+#shell #navHolder .submenu .sublevel2 {padding-left:30px;}
+#shell #navHolder .submenu .sublevel2 {color:#000000;font-style:normal;}
+#shell #navHolder .submenu .sublevel2:hover {color:#999999;font-style:italic;}
+#shell #navHolder .submenu .sublevel2 .current {color:#000000;}
+#shell #navHolder .submenu .submenuLeft {color:#000000;}
+#shell #navHolder .submenu .submenuLeft:hover {color:#999999;font-style:italic;}
+#shell #navHolder .submenu .submenuLeft .current {color:#000000;}
+ul#topNavBar2 li#handbags .submenu a {color:#000000;}
+ul#topNavBar2 li#handbags .submenu a:hover {color:#999999;font-style:italic;}
+ul#topNavBar2 li#handbags .submenu a.current {color:#000000;}
+ul#topNavBar2 li#collections .submenu a {color:#000000;}
+ul#topNavBar2 li#collections .submenu a:hover {color:#999999;font-style:italic;}
+ul#topNavBar2 li#collections .submenu a.current {color:#000000;}
 #navHolder ul#topNavBar2 {padding-left:40px; width:812px;}
 ul#topNavBar2 li#holiday a {
 	color:#EC098C;
@@ -1523,99 +1579,80 @@ ul#topNavBar2 li#holiday a {
 ul#topNavBar2 li#holiday img {
 	padding-right:3px;
 }
+ul#topNavBar2 li .submenu a.current {text-decoration:none;}
+ul#topNavBar2 li a {font-style:normal;}
 </style>
 <div id="navHolder">
   <ul id="topNavBar2">
+  <!--
     <li id="holiday"><a class="mainCat" href="http://www.ninewest.com/Holiday-Shop/8851151,default,sc.html">HOLIDAY</a></li>
-    <li class="navSeparator">&nbsp;&nbsp;</li>
+    <li class="navSeparator">&nbsp;&nbsp;</li>-->
     <li id="new"><a class="mainCat" href="http://www.ninewest.com/New-Arrivals/8346239,default,sc.html">NEW ARRIVALS</a></li>
     <li class="navSeparator">&nbsp;&nbsp;</li>
     <li id="shoes"><a class="mainCat hasSubs" href="http://www.ninewest.com/shoes-for-women/10726902,default,sc.html">SHOES</a>
       <div id="shoesSubHolder" class="submenu">
         <div class="submenuLeft">
-          <div class="subHeader"><a class="subHeaderShoe" href="http://www.ninewest.com/shoes-for-women/10726902,default,sc.html">SHOES</a></div>
           <div id="subCol1">
+            <div><a class="sublevel1" href="http://www.ninewest.com/sandals-for-women/5241464,default,sc.html">Sandals</a></div>
             <div><a class="sublevel1" href="http://www.ninewest.com/womens-heels-and-pumps/7006,default,sc.html">Pumps</a></div>
-            <div><a class="sublevel2" href="http://www.ninewest.com/on/demandware.store/Sites-ninewest-Site/default/Search-Show?cgid=%208346252">All Pumps</a></div>
-            <div><a class="sublevel2" href="http://www.ninewest.com/Slingbacks/8346255,default,sc.html">Slingbacks</a></div>
-            <div><a class="sublevel2" href="http://www.ninewest.com/Mid-Heels/8346256,default,sc.html">Mid Heels</a></div>
-            <div><a class="sublevel2" href="http://www.ninewest.com/evening-shoes/8346258,default,sc.html">Evening</a></div>
-            <div><a class="sublevel2" href="http://www.ninewest.com/Wedges/8346254,default,sc.html">Wedges</a></div>
-            <div><a class="sublevel1" href="http://www.ninewest.com/boots-for-women/3227282,default,sc.html">Boots</a></div>
-            <div><a class="sublevel1" href="http://www.ninewest.com/booties-for-women/8346259,default,sc.html">Booties</a></div>
-          </div>
-          <div id="subCol2">
-            <div><a class="sublevel1" href="http://www.ninewest.com/Flats-And-Ballet-Flats/8346267,default,sc.html">Flats &amp; Ballerinas</a></div>
-            <div><a class="sublevel1" href="http://www.ninewest.com/Sandals-For-Women/5241464,default,sc.html">Sandals</a></div>
+            <div><a class="sublevel1" href="http://www.ninewest.com/Womens-flats-and-ballet-flats/8346267,default,sc.html">Flats &amp; Ballerinas</a></div>
              <div><a class="sublevel1" href="http://www.ninewest.com/womens-sneakers/9514956,default,sc.html">Sneakers</a></div>
+             <div><a class="sublevel1" href="http://www.ninewest.com/booties-for-women/8346259,default,sc.html">Boots &amp; Booties</a></div>
             <div><a class="sublevel1" href="http://www.ninewest.com/Platforms/2915395,default,sc.html">Platforms</a></div>
             <div><a class="sublevel1" href="http://www.ninewest.com/Wedges-For-Women/2989858,default,sc.html">Wedges</a></div>
             <div><a class="sublevel1" href="http://www.ninewest.com/peep-toe-pumps-and-high-heels/8346257,default,sc.html">Peep Toes</a></div>
           </div>
         </div>
-        <div class="imgHolderShoe"><img class="submenuImg" alt="High Heels and Pumps for Women" title="High Heels and Pumps for Women" src="http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-ninewest-Site/Sites-ninewest-Library/default/v1419916686127/images/header/top_nav/fall2014/2014.11.12/shoe.jpg"></div>
       </div>
     </li>
     
-    <!--Boots-->
-     <li class="navSeparator">&nbsp;&nbsp;</li>
-    <li id="boots"><a class="mainCat hasSubs" href="http://www.ninewest.com/boots-for-women/3227282,default,sc.html">BOOTS</a>
+     <!--Boots or Sandals slots-->
+    <li class="navSeparator">&nbsp;&nbsp;</li>
+    <li id="boots"><a class="mainCat hasSubs" href="http://www.ninewest.com/sandals-for-women/5241464,default,sc.html">SANDALS</a>
       <div id="bootsSubHolder" class="submenu">
         <div class="submenuLeft">
-          <div id="subCol1">
-			<div><a class="subHeaderBoots" href="http://www.ninewest.com/womens-boots/4426131,default,sc.html">BOOTS</a></div>
-           <!-- <div><a class="sublevel1" href="http://www.ninewest.com/boots-for-women/3227282,default,sc.html">Boots</a></div>-->
-            <div><a class="sublevel2" href="http://www.ninewest.com/on/demandware.store/Sites-ninewest-Site/default/Search-Show?cgid=%204426131">All Boots</a></div>
-            <div><a class="sublevel2" href="http://www.ninewest.com/tall-boots/4216631,default,sc.html">Tall Boots</a></div>
-            <div><a class="sublevel2" href="http://www.ninewest.com/flat-boots/4216629,default,sc.html">Flat Boots</a></div>
-            <div><a class="sublevel2" href="http://www.ninewest.com/dress-boots/4216628,default,sc.html">Dress Boots</a></div>
-            <div><a class="sublevel2" href="http://www.ninewest.com/riding-boots/13272691,default,sc.html">Riding Boots</a></div>
-             <div><a class="sublevel2" href="http://www.ninewest.com/over-the-knee-boots/15796529,default,sc.html">Over The Knee Boots</a></div>
+          <div id="subCol1">        
+            <div><a class="sublevel2" href="http://www.ninewest.com/sandals-women/10784527,default,sc.html">All Sandals</a></div>
+             <div><a class="sublevel2" href="http://www.ninewest.com/dress-sandals-women/5241466,default,sc.html">Dress Sandals</a></div>
+            <div><a class="sublevel2" href="http://www.ninewest.com/flat-sandals-women/5241467,default,sc.html">Flat Sandals</a></div>
+            <div><a class="sublevel2" href="http://www.ninewest.com/wedge-sandals/5241469,default,sc.html">Wedge Sandals</a></div>
+            <div><a class="sublevel2" href="http://www.ninewest.com/platform-sandals-women/5241465,default,sc.html">Platform Sandals</a></div>      
+            <div><a class="sublevel2" href="http://www.ninewest.com/gladiator-sandals-women/15008086,default,sc.html">Gladiator Sandals</a></div>
           </div>
-          <div id="subCol2">
-            <div><a class="subHeaderBoots" href="http://www.ninewest.com/booties-for-women/8346259,default,sc.html">BOOTIES</a></div>
-            <div><a class="sublevel1" href="http://www.ninewest.com/booties-for-women/8346260,default,sc.html">All Booties</a></div>
-            <div><a class="sublevel1" href="http://www.ninewest.com/platform-booties/8346261,default,sc.html">Platform Booties</a></div>
-            <div><a class="sublevel1" href="http://www.ninewest.com/wedge-booties/8346262,default,sc.html">Wedge Booties</a></div>
-            <div><a class="sublevel1" href="http://www.ninewest.com/flat-booties/8346263,default,sc.html">Flat Booties</a></div>
-            <div><a class="sublevel1" href="http://www.ninewest.com/dress-booties/8644424,default,sc.html">Dress Booties</a></div>
-          </div>
+         
         </div>
-        <div class="imgHolderBoots"><a href="http://www.ninewest.com/womens-boots/4426131,default,sc.html"><img class="submenuImg" alt="Boots &amp; Booties for Women " title="Boots &amp; Booties for Women " src="http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-ninewest-Site/Sites-ninewest-Library/default/v1419916686127/images/header/top_nav/fall2014/2014.09.19/boots.jpg"></a></div>
       </div>
     </li>
     <!--End Boots-->
     <!--End Boots-->
     
     <li class="navSeparator">&nbsp;&nbsp;</li>
-    <li id="handbags"> <a class="mainCat hasSubs" href="http://www.ninewest.com/handbags-and-accessories-for-women/8346270,default,sc.html">BAGS &amp; ACCESSORIES</a>
+    <li id="handbags"> <a class="mainCat hasSubs" href="http://www.ninewest.com/handbags-and-accessories-for-women/8346270,default,sc.html">HANDBAGS &amp; ACCESSORIES</a>
       <div id="handbagsSubHolder" class="submenu">
         <div class="submenuLeft">
           <div><a class="subCat" href="http://www.ninewest.com/handbags-and-accessories-for-women/8346270,default,sc.html">Handbags</a></div>
           <div><a class="subCat" href="http://www.ninewest.com/Accessories/12877352,default,sc.html">Accessories</a></div>
           <div><a class="subCat" href="http://www.ninewest.com/leather-handbags/12877354,default,sc.html">The City Chic Leather Collection </a></div>
         </div>
-        <div class="imgHolder"><a href="http://www.ninewest.com/GIFTS-UNDER-%2450/13678624,default,sc.html"> <img class="submenuImg" alt="Handbags &amp; Accessories for women. Shop gifts under $50" title="Handbags &amp; Accessories for women. Shop gifts under $50" src="http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-ninewest-Site/Sites-ninewest-Library/default/v1419916686127/images/header/top_nav/fall2014/2014.11.12/bags.jpg"></a></div>
       </div>
     </li>
     <li class="navSeparator">&nbsp;&nbsp;</li>
     <li id="collections"> <a class="mainCat hasSubs" href="http://www.ninewest.com/Collections/12881282,default,sc.html">COLLECTIONS</a>
       <div id="collectionsSubHolder" class="submenu">
         <div class="submenuLeft">
-          <div><a class="subCat" href="http://www.ninewest.com/InStyle/12877356,default,sc.html">Instyle For Nine West</a></div>
-          <div><a class="subCat" href="http://www.ninewest.com/Essentials-Shoes-For-Women/12510584,default,sc.html">Essentials</a></div>
-          <div><a class="subCat" href="http://www.ninewest.com/party-wedding-evening-shoes/9706265,default,sc.html">Party Shoes</a></div>
+        <!--  <div><a class="subCat" href="http://www.ninewest.com/InStyle/12877356,default,sc.html">Instyle For Nine West</a></div>-->
+         <div><a class="subCat" href="http://www.ninewest.com/Shoe-And-Handbag-Trends/504808,default,sc.html">Trends</a></div>
+          <div><a class="subCat" href="http://www.ninewest.com/Essentials-Shoes-For-Women/12510584,default,sc.html">Essentials</a></div>          
+          <div><a class="subCat" href="http://www.ninewest.com/party-wedding-evening-shoes/9706265,default,sc.html">Special Occasion</a></div>
           <div><a class="subCat" href="http://www.ninewest.com/As-Seen-on-Social/12925920,default,sc.html">As Seen On Social</a></div>
+          <div><a class="subCat" href="http://www.ninewest.com/The-Nine-List/18799570,default,sc.html">The Nine List</a></div>
           <div><a class="subCat" href="http://www.ninewest.com/Top-Rated-Handbags-And-Shoes-For-Women/10010735,default,sc.html">Top Rated</a></div>
-          <div><a class="subCat" href="http://www.ninewest.com/Editors-Picks-Shoes-And-Handbags-For-Women/3811159,default,sc.html">Editors’ Picks</a></div>
-        
-          <div><a class="subCat" href="http://www.ninewest.com/Shoe-And-Handbag-Trends/504808,default,sc.html">Trends</a></div>
-           <div><a class="subCat" href="http://www.ninewest.com/Shoe-Occasions/15768055,default,sc.html">Shoe Occasions</a></div>
-          
+          <div><a class="subCat" href="http://www.ninewest.com/Editors-Picks-Shoes-And-Handbags-For-Women/3811159,default,sc.html">Editor's Picks</a></div>  
           <div><a class="subCat" href="http://www.ninewest.com/Exclusive-Shoe-And-Handbag-Designs/8346251,default,sc.html">Exclusives</a></div>
-         
+          <div><a class="subCat" href="http://www.ninewest.com/Pre-Order/18500353,default,sc.html">Pre-Order</a></div>
+         <div><a class="subCat" href="http://www.ninewest.com/sweeps/RACQUELNATASHA,default,pg.html">The Blogger Getaway Edit</a></div>
+          <div><a class="subCat" href="http://www.ninewest.com/sweeps/SUMMERSWEEPS,default,pg.html">Get Vacation Ready Giveaway</a></div>
         </div>
-        <div class="imgHolderCollection"><a href="http://www.ninewest.com/party-wedding-evening-shoes/9706265,default,sc.html"><img class="submenuImg" alt="Women’s party shoes" title="Women’s party shoes" src="http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-ninewest-Site/Sites-ninewest-Library/default/v1419916686127/images/header/top_nav/fall2014/2014.11.12/collection.jpg"></a></div>
       </div>
     </li>
     <li class="navSeparator">&nbsp;&nbsp;</li>
@@ -1625,27 +1662,26 @@ ul#topNavBar2 li#holiday img {
           <div><a class="subCat" href="http://www.ninewest.com/Shoe-Sale-For-Women/526934,default,sc.html">Sale Shoes</a></div>
           <div><a class="subCat" href="http://www.ninewest.com/Handbag-Accessories-Sale/526935,default,sc.html">Sale HandBags &amp; Accessories</a></div>
         </div>
-        <div class="imgHolderSale"><img class="submenuImg" alt="" title="" src="http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-ninewest-Site/Sites-ninewest-Library/default/v1419916686127/images/header/top_nav/fall2014/2014.12.17/saleshoe.jpg" usemap="#SalesShoesMap">
-          <map name="SalesShoesMap">
-            <area shape="rect" coords="27,21,621,346" href="http://www.ninewest.com/Shoe-Sale-For-Women/526934,default,sc.html?ep_tag=sldro1" alt="Shoe Sale, Women’s Shoes" title="Shoe Sale, Women’s Shoes">
-            <!--shoesizes
-            <area shape="circle" coords="192,223,17" href="/Sale-Show/526934,default,sc.html?prefn1=catalog-id&prefv1=ninewest-catalog&prefn2=variantSize&prefv2=5&rfnd=true&ep_tag=sldro2" alt="Size 5" title="Size 5"/>
-            <area shape="circle"  coords="236,223,17" href="/Sale-Show/526934,default,sc.html?prefn1=catalog-id&prefv1=ninewest-catalog&prefn2=variantSize&prefv2=5.5&rfnd=true&ep_tag=sldro3" alt="Size 5.5" title="Size 5.5"/>
-            <area shape="circle" coords="281,223,17"  href="/Sale-Show/526934,default,sc.html?prefn1=catalog-id&prefv1=ninewest-catalog&prefn2=variantSize&prefv2=6&rfnd=true&ep_tag=sldro4" alt="Size 6" title="Size 6"/>
-            <area shape="circle" coords="325,223,17"  href="/Sale-Show/526934,default,sc.html?prefn1=catalog-id&prefv1=ninewest-catalog&prefn2=variantSize&prefv2=6.5&rfnd=true&ep_tag=sldro5" alt="Size 6.5" title="Size 6.5"/>
-            <area shape="circle" coords="370,223,17" href="/Sale-Show/526934,default,sc.html?prefn1=catalog-id&prefv1=ninewest-catalog&prefn2=variantSize&prefv2=7&rfnd=true&ep_tag=sldro6" alt="Size 7" title="Size 7"/>
-            <area shape="circle" coords="413,223,17" href="/Sale-Show/526934,default,sc.html?prefn1=catalog-id&prefv1=ninewest-catalog&prefn2=variantSize&prefv2=7.5&rfnd=true&ep_tag=sldro7" alt="Size 7.5" title="Size 7.5"/>
-            <area shape="circle" coords="459,223,17"  href="/Sale-Show/526934,default,sc.html?prefn1=catalog-id&prefv1=ninewest-catalog&prefn2=variantSize&prefv2=8&ep_tag=sldro8" alt="Size 8" title="Size 8"/>
-            <area shape="circle" coords="192,263,17" href="/Sale-Show/526934,default,sc.html?prefn1=catalog-id&prefv1=ninewest-catalog&prefn2=variantSize&prefv2=8.5&rfnd=true&ep_tag=sldro9" alt="Size 8.5" title="Size 8.5"/>
-            <area shape="circle"  coords="236,263,17" href="/Sale-Show/526934,default,sc.html?prefn1=catalog-id&prefv1=ninewest-catalog&prefn2=variantSize&prefv2=9&rfnd=true&ep_tag=sldro10" alt="Size 9" title="Size 9"/>
-            <area shape="circle" coords="280,263,17"  href="/Sale-Show/526934,default,sc.html?prefn1=catalog-id&prefv1=ninewest-catalog&prefn2=variantSize&prefv2=9.5&rfnd=true&ep_tag=sldro11" alt="Size 9.5" title="Size 9.5"/>
-            <area shape="circle"  coords="324,263,17" href="/Sale-Show/526934,default,sc.html?prefn1=catalog-id&prefv1=ninewest-catalog&prefn2=variantSize&prefv2=10&rfnd=true&ep_tag=sldro12" alt="Size 10" title="Size 10"/>
-            <area shape="circle" coords="369,263,17" href="/Sale-Show/526934,default,sc.html?prefn1=catalog-id&prefv1=ninewest-catalog&prefn2=variantSize&prefv2=10.5&rfnd=true&ep_tag=sldro13" alt="Size 10.5" title="Size 10.5"/>
-            <area shape="circle" coords="413,263,17" href="/Sale-Show/526934,default,sc.html?prefn1=catalog-id&prefv1=ninewest-catalog&prefn2=variantSize&prefv2=11&rfnd=true&ep_tag=sldro14" alt="Size 11" title="Size 11"/>
-            <area shape="circle"  coords="459,263,17" href="/Sale-Show/526934,default,sc.html?prefn1=catalog-id&prefv1=ninewest-catalog&prefn2=variantSize&prefv2=12&rfnd=true&ep_tag=sldro15" alt="Size 12" title="Size 12"/>
+          
+           <!--
+          
+            <area shape="circle" coords="190,211,21"  href="/Sale-Show/526934,default,sc.html?prefn1=catalog-id&prefv1=ninewest-catalog&prefn2=variantSize&prefv2=5&rfnd=true&ep_tag=sldro2" alt="Size 5" title="Size 5"/>
+            <area shape="circle"  coords="234,211,21" href="/Sale-Show/526934,default,sc.html?prefn1=catalog-id&prefv1=ninewest-catalog&prefn2=variantSize&prefv2=5.5&rfnd=true&ep_tag=sldro3" alt="Size 5.5" title="Size 5.5"/>
+            <area shape="circle" coords="281,211,21"  href="/Sale-Show/526934,default,sc.html?prefn1=catalog-id&prefv1=ninewest-catalog&prefn2=variantSize&prefv2=6&rfnd=true&ep_tag=sldro4" alt="Size 6" title="Size 6"/>
+            <area shape="circle" coords="322,211,21"  href="/Sale-Show/526934,default,sc.html?prefn1=catalog-id&prefv1=ninewest-catalog&prefn2=variantSize&prefv2=6.5&rfnd=true&ep_tag=sldro5" alt="Size 6.5" title="Size 6.5"/>
+            <area shape="circle" coords="367,211,21" href="/Sale-Show/526934,default,sc.html?prefn1=catalog-id&prefv1=ninewest-catalog&prefn2=variantSize&prefv2=7&rfnd=true&ep_tag=sldro6" alt="Size 7" title="Size 7"/>
+            <area shape="circle" coords="412,211,21" href="/Sale-Show/526934,default,sc.html?prefn1=catalog-id&prefv1=ninewest-catalog&prefn2=variantSize&prefv2=7.5&rfnd=true&ep_tag=sldro7" alt="Size 7.5" title="Size 7.5"/>
+            <area shape="circle" coords="459,211,21"  href="/Sale-Show/526934,default,sc.html?prefn1=catalog-id&prefv1=ninewest-catalog&prefn2=variantSize&prefv2=8&ep_tag=sldro8" alt="Size 8" title="Size 8"/>
+            <area shape="circle" coords="190,253,21" href="/Sale-Show/526934,default,sc.html?prefn1=catalog-id&prefv1=ninewest-catalog&prefn2=variantSize&prefv2=8.5&rfnd=true&ep_tag=sldro9" alt="Size 8.5" title="Size 8.5"/>
+            <area shape="circle"  coords="233,253,21" href="/Sale-Show/526934,default,sc.html?prefn1=catalog-id&prefv1=ninewest-catalog&prefn2=variantSize&prefv2=9&rfnd=true&ep_tag=sldro10" alt="Size 9" title="Size 9"/>
+            <area shape="circle" coords="279,253,21"  href="/Sale-Show/526934,default,sc.html?prefn1=catalog-id&prefv1=ninewest-catalog&prefn2=variantSize&prefv2=9.5&rfnd=true&ep_tag=sldro11" alt="Size 9.5" title="Size 9.5"/>
+            <area shape="circle"  coords="324,253,21" href="/Sale-Show/526934,default,sc.html?prefn1=catalog-id&prefv1=ninewest-catalog&prefn2=variantSize&prefv2=10&rfnd=true&ep_tag=sldro12" alt="Size 10" title="Size 10"/>
+            <area shape="circle" coords="367,253,21" href="/Sale-Show/526934,default,sc.html?prefn1=catalog-id&prefv1=ninewest-catalog&prefn2=variantSize&prefv2=10.5&rfnd=true&ep_tag=sldro13" alt="Size 10.5" title="Size 10.5"/>
+            <area shape="circle"  coords="412,253,21" href="/Sale-Show/526934,default,sc.html?prefn1=catalog-id&prefv1=ninewest-catalog&prefn2=variantSize&prefv2=11&rfnd=true&ep_tag=sldro14" alt="Size 11" title="Size 11"/>
+            <area shape="circle"  coords="457,253,21" href="/Sale-Show/526934,default,sc.html?prefn1=catalog-id&prefv1=ninewest-catalog&prefn2=variantSize&prefv2=12&rfnd=true&ep_tag=sldro15" alt="Size 12" title="Size 12"/>
             <!--end shoe sizes -->
-          </map>
-        </div>
+            
+ 
       </div>
     </li>
     <li class="navSeparator">&nbsp;&nbsp;</li>
@@ -1742,13 +1778,14 @@ jQuery("#topNavBar2 li").mouseleave(function() {hideSubs();});
 }
 </style>
 <!--
-<div id="globalTopPromoBarCouponPopup"> <img width="466"  height="139" src="http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-ninewest-Site/Sites-ninewest-Library/default/v1419916686127/images/shipping/freeShipping.gif" alt="NW"/> </div>-->
-<div id="globalTopPromoBar"> <img src="http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-ninewest-Site/Sites-ninewest-Library/default/v1419916686127/images/ui/2014.12.17/ui.jpg" alt="NW" usemap="#topPromoBarMap">
+<div id="globalTopPromoBarCouponPopup"> <img width="466"  height="139" src="http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-ninewest-Site/Sites-ninewest-Library/default/dw2c0615c7/images/shipping/freeShipping.gif" alt="NW"/> </div>-->
+<div id="globalTopPromoBar"> <img src="http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-ninewest-Site/Sites-ninewest-Library/default/dw397da542/images/ui/2015.06.17/ui.gif" alt="NW" usemap="#topPromoBarMap">
   <map name="topPromoBarMap">
-   
-    <area shape="rect" coords="6,4,290,43" href="https://ninewest.cashstar.com?ep_tag=UI1" target="_new" alt="The Perfect Last Minute Gift  " title="The Perfect Last Minute Gift  ">
-    <area shape="rect" coords="300,2,585,40" href="http://www.ninewest.com/Extra-20%25-off/12983987,default,sc.html?ep_tag=UI2" alt="Extra 20% Off Select Styles" title="Extra 20% Off Select Styles">
-    <area shape="rect" coords="592,4,875,40" href="http://www.ninewest.com/Shoe-Sale-For-Women/526934,default,sc.html?ep_tag=UI3" alt="Shoe Sale up to 60% off." title="Shoe Sale up to 60% off.">
+    <area shape="rect" coords="1,1,437,48" href="http://www.ninewest.com/sandals-for-women/5241464,default,sc.html?ep_tag=UI1" alt="Summer Sale – Extra 25% Off Sandals" title="Summer Sale – Extra 25% Off Sandals">
+    <area shape="rect" coords="439,1,876,48" href="http://www.ninewest.com/Shoe-Sale-For-Women/526934,default,sc.html?ep_tag=UI2" alt="Womens shoe sale up to 50% off" title="Womens shoe sale up to 50% off">
+<!--  <area shape="rect" coords="300,1,566,48" href="http://www.ninewest.com/Shoe-Sale-For-Women/526934,default,sc.html?ep_tag=UI2" alt="Shoe sale for women" title="Shoe sale for women">
+    <area shape="rect" coords="580,1,840,48" href="http://www.ninewest.com/sandals-for-women/5241464,default,sc.html?ep_tag=UI3" alt="Sandals for women" title="Sandals for women"/>
+-->
    </map>
 </div>
 
@@ -1922,8 +1959,8 @@ jQuery("#topNavBar2 li").mouseleave(function() {hideSubs();});
 			 We welcome your comments regarding this privacy policy. Please send any concerns to:
 			  <br><br>
 			 Nine West Customer Relations Privacy Policy<br>
-			 1129 Westchester Avenue<br>
-			 White Plains, NY 10604
+			 1411 Broadway<br>
+			 New York, NY 10018
 			</div>
 		</div>
 </div>
@@ -1985,21 +2022,15 @@ jQuery("#topNavBar2 li").mouseleave(function() {hideSubs();});
 
 
 
-<div id="footerSocialBanner">
-	<img src="http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-ninewest-Site/Sites-ninewest-Library/default/v1419916686127/images/footer/2014.08.01/footerSocialMap.jpg" border="0" usemap="#footerSocialLinks">
-	<map name="footerSocialLinks" id="footerSocialLinks">
-	  <area shape="circle" coords="32,26,16" href="https://www.facebook.com/ninewest?ep_tag=FBFTR" target="_blank" alt="Nine West on Facebook" title="Nine West on Facebook">
-	  <area shape="circle" coords="71,26,16" href="https://twitter.com/ninewest?ep_tag=TWRFTR" target="_blank" alt="Nine West on Twitter" title="Nine West on Twitter">
-	 
-	  <area shape="circle" coords="113,26,16" href="http://ninewest.tumblr.com/?ep_tag=FTRTBLR" target="_blank" alt="Nine West on Tumblr" title="Nine West on Tumblr">
-	  <area shape="circle" coords="154,26,16" href="http://instagram.com/ninewest?ep_tag=INSTAFTR" target="_blank" alt="Nine West on Instagram" title="Nine West on Instagram">
-      
-      
-	 
-      <area shape="circle" coords="193,26,16" href="https://plus.google.com/u/0/+NineWest/posts?ep_tag=GPLUSFTR " target="_blank" alt="Nine West on Google+" title="Nine West on Google+">
-       <area shape="circle" coords="234,26,16" href="http://pinterest.com/ninewestfashion/?ep_tag=PINFTR" target="_blank" alt="Nine West on Pinterest" title="Nine West on Pinterest">
-       <area shape="circle" coords="273,26,16" href="http://www.youtube.com/channelninenetwork?ep_tag=CH9fall " target="_blank" alt="Nine West on Youtube" title="Nine West on Youtube">
-	</map>
+<div id="footerSocialBanner"> <img src="http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-ninewest-Site/Sites-ninewest-Library/default/dwbe9a4ec7/images/footer/2015.02.18/footerSocialMap.jpg" border="0" usemap="#footerSocialLinks">
+  <map name="footerSocialLinks" id="footerSocialLinks">
+    <area shape="circle" coords="57,25,15" href="https://www.facebook.com/ninewest?ep_tag=FBFTR" target="_blank" alt="Nine West on Facebook" title="Nine West on Facebook">
+    <area shape="circle" coords="97,25,15" href="http://pinterest.com/ninewestfashion/?ep_tag=PINFTR" target="_blank" alt="Nine West on Pinterest" title="Nine West on Pinterest">
+    <area shape="circle" coords="138,26,15" href="http://instagram.com/ninewest?ep_tag=INSTAFTR" target="_blank" alt="Nine West on Instagram" title="Nine West on Instagram">
+    <area shape="circle" coords="177,26,15" href="https://twitter.com/ninewest?ep_tag=TWRFTR" target="_blank" alt="Nine West on Twitter" title="Nine West on Twitter">
+    <area shape="circle" coords="217,26,15" href="https://plus.google.com/u/0/+NineWest/posts?ep_tag=GPLUSFTR" target="_blank" alt="Nine West on Google+" title="Nine West on Google+">
+    <area shape="circle" coords="257,26,15" href="https://www.youtube.com/user/channelninenetwork?ep_tag=YTFTR" target="_blank" alt="Nine West on Youtube" title="Nine West on Youtube">
+  </map>
 </div>
 
 
@@ -2017,7 +2048,7 @@ jQuery("#topNavBar2 li").mouseleave(function() {hideSubs();});
 		<table id="optInTable">
 			<tbody><tr>
 				<td><input id="optInEmail" name="dwfrm_optin_email" class="textBox shellInput initialInputField" value="enter email address" maxlength="40" type="text"></td>
-				<td><input src="http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-ninewest-Site/-/default/v1419916686127/images/buttons/button_arrow.gif" name="emailBtn" id="emailBtn" type="image"></td>
+				<td><input src="http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-ninewest-Site/-/default/dwfa4cf19f/images/buttons/button_arrow.gif" name="emailBtn" id="emailBtn" type="image"></td>
 			</tr>
 		</tbody></table>
 	
@@ -2044,7 +2075,7 @@ jQuery("#topNavBar2 li").mouseleave(function() {hideSubs();});
         <!--<div class="footerLink"><a target="_new" href="http://www.jonesgroupinc.com/">The Jones Group Inc.</a></div>-->
 		<div class="footerLink"><a href="http://www.ninewest.com/Privacy/PRIVACY,default,pg.html">Privacy Policy</a></div>
         <div class="footerLink"><a href="http://www.ninewest.com/Terms/TERMS,default,pg.html">Terms of Use</a></div>
-        <div class="footerLink"><a target="_blank" href="http://www.jonesgroupinc.com/careers">Careers</a></div>
+        <div class="footerLink"><a target="_blank" href="http://careers.ninewest.com/">Careers</a></div>
 		<div class="footerLink"><a href="http://www.jonesgroupinc.com/images/JNY/documents/2014/california_transparency_nw_2014.pdf">California Transparency in Supply Chains Act Statement</a></div>
     </div>
 
@@ -2053,11 +2084,11 @@ jQuery("#topNavBar2 li").mouseleave(function() {hideSubs();});
         <div class="footerLink"><a href="http://www.ninewest.com/Easyreturns/EASYRETURNS,default,pg.html">Easy Online Returns</a></div>
 		<div class="footerLink"><a href="http://www.ninewest.com/on/demandware.store/Sites-ninewest-Site/default/Order-ShipTrackOrder">Shipping/Tracking</a></div>
          <div class="footerLink"><a href="http://www.ninewest.com/NW-size-chart/SIZE_CHART,default,pg.html">Size Chart</a></div>
-         <div class="footerLink"><a href="http://www.ninewest.com/BOOT-FIT-GUIDE/BOOT_FIT_GUIDE_LANDING,default,pg.html">Boot Fit Guide</a></div>
+         <!--<div class="footerLink"><a href="http://www.ninewest.com/BOOT-FIT-GUIDE/BOOT_FIT_GUIDE_LANDING,default,pg.html">Boot Fit Guide</a></div>-->
          <div class="footerLink"><a href="http://www.ninewest.com/Sitemap/SITEMAP,default,pg.html">Site Map</a></div>
         <div class="footerLink"><a href="http://www.ninewest.com/Shoe-Glossary/SHOE_GLOSSARY,default,pg.html">Glossary</a></div>
         <div class="footerLink"><a href="http://www.ninewest.com/Customer-Service/CONTACT_US,default,pg.html">Contact Us</a></div>
-        <div class="footerLink no51"><a>Order by Phone (800) 999-1877</a></div>
+       <!-- <div class="footerLink no51"><a>Order by Phone (800) 999-1877</a></div>-->
         <div class="footerLink no51">
 
 
@@ -2068,40 +2099,63 @@ jQuery("#topNavBar2 li").mouseleave(function() {hideSubs();});
 
 
 <span class="liveperson_footer" style="display:none;"><script type="text/javascript">
+var lpErr = '';
+var sSection = null;
+
 function callLpAddVars(scope,name,value) {
 	if(typeof(lpAddVars)!='undefined') lpAddVars(scope,name,value);
 }
+
 function callLpSendData(varscope,varname,varvalue) {
 	if(typeof(lpSendData)!='undefined') lpSendData(varscope,varname,varvalue);
 }
 
-if(sShippingCountry == 'United States') {
-	callLpAddVars('page','ShippingCountry',sShippingCountry); // set in fiftyone_countrySelect2.isml
-	callLpSendData('page','cartTotal',window.lpCurrentTotalCart); // set in minicartcontent.isml
-	
-	// get Section
-	var sSection = 'none';
-	if(typeof(forlpSection)!='undefined') sSection = forlpSection;
-	else if(typeof(staticPageName)!='undefined') sSection = staticPageName;
-	else if(jQuery('#homepageMain').size() > 0) sSection = 'Home';
-	else if(jQuery('#zoomImg').size() > 0) sSection = 'Product Detail';
-	else if(jQuery('#productsgallery').size() > 0) sSection = 'Product Category';
-	callLpAddVars('page','Section',sSection);
-	
+function checkErrors() {
+	lpErr = '';
 	// get ShoppingCartError
 	if(sSection == 'Shopping Bag') {
-		if(jQuery('#promoCodeError').text().length > 0 || jQuery('.errormessage').text().length > 0) callLpAddVars('page','ShoppingCartError','True');
+		jQuery('.error,.code-error').each(function() {
+			if(jQuery(this).is(":visible")) lpErr += jQuery(this).text();
+		});
+		if(lpErr.length > 0) callLpAddVars('page','ShoppingCartError','True');
 		else callLpAddVars('page','ShoppingCartError','False');
 	}
 	
 	// get CheckoutError
 	if(sSection == 'Checkout' || sSection == 'Checkout Summary' || sSection == 'Checkout Confirmation') {
-		if(jQuery('.errormessage').text().length > 0
-			|| jQuery('.errorMessages').text().length > 0
-			|| jQuery('.errorMessages2').text().length > 0) callLpAddVars('page','CheckoutError','True');
+		jQuery('.error,.code-error').each(function() {
+			if(jQuery(this).is(":visible")) lpErr += jQuery(this).text();
+		});
+		if(lpErr.length > 0) callLpAddVars('page','CheckoutError','True');
 		else callLpAddVars('page','CheckoutError','False');
 	}
+	//console.log('checkErrors(): lpErr = ' + lpErr);
+}
+
+//jQuery(document).ready(function() {
+if(sShippingCountry == 'United States') {
+	callLpAddVars('page','ShippingCountry',sShippingCountry); // set in fiftyone_countrySelect2.isml
+	callLpSendData('page','cartTotal',window.lpCurrentTotalCart); // set in minicartcontent.isml
 	
+	// get Section
+	sSection = 'none';
+	if(typeof(forlpSection)!='undefined') sSection = forlpSection;
+	else if(typeof(staticPageName)!='undefined') sSection = staticPageName;
+	else if(jQuery('#homepageMain,#homeImgHolder').size() > 0) sSection = 'Home';
+	else if(jQuery('#zoomImg').size() > 0) sSection = 'Product Detail';
+	else if(jQuery('#productsgallery').size() > 0) sSection = 'Product Category';
+	else if(jQuery('.fluid-templates-CartTemplate').size() > 0 || window.location.href.indexOf('RenderCart') > -1) sSection = 'Shopping Bag';
+	else if(jQuery('.fluid-templates-CheckoutTemplate').size() > 0) sSection = 'Checkout';
+	else if(jQuery('.fluid-templates-OrderConfirmationTemplate').size() > 0) sSection = 'Checkout Confirmation';
+	callLpAddVars('page','Section',sSection);
+	
+	if(sSection == 'Shopping Bag' || sSection == 'Checkout' || sSection == 'Checkout Summary' || sSection == 'Checkout Confirmation') {
+		jQuery('.secondary-button').click(function() {
+			checkErrors();
+			var lpWait = setTimeout(function() {checkErrors();},5000);
+		});
+	}
+
 	// get AccountLoginError
 	if(sSection == 'Checkout Login' || sSection == 'Account: Login') {
 		if(jQuery('#errorText').text().length > 0 || jQuery('.errormessage').text().length) callLpAddVars('page','AccountLoginError','True');
@@ -2134,6 +2188,7 @@ if(sShippingCountry == 'United States') {
 	var lpWait = setInterval(function() {lpTimer()},1000);
 	*/
 }
+//}
 </script></span>
 <!-- End LP Custom Variables-->
 
@@ -2162,7 +2217,7 @@ if(sShippingCountry == 'United States') {
         <h3>Services</h3>
 		<div class="footerLink"><a href="http://www.ninewest.com/nine-west-gift-cards/3,default,sc.html">Gift Cards/Check Balance</a></div>
         <div class="footerLink"><a href="http://www.ninewest.com/on/demandware.store/Sites-ninewest-Site/default/mHome-Show">Mobile</a></div>
-        <div id="footerCopyright">© 2014 Nine West. All rights reserved.</div>
+        <div id="footerCopyright">© 2015 Nine West. All rights reserved.</div>
     </div>
 </div>
 
@@ -2188,17 +2243,21 @@ window.location.assign("http://www.ninewest.com/Help/HELP,default,pg.html")
 
 
 
-<a href="http://www.ninewest.com/shoes-for-women/10726902,default,sc.html" class="link">Shoes for Women</a>
-<a href="http://www.ninewest.com/boots-for-women/3227282,default,sc.html" class="link">Boots</a>
-<a href="http://www.ninewest.com/booties-for-women/8346259,default,sc.html" class="link">Booties</a>
-<a href="http://www.ninewest.com/Wedges-For-Women/2989858,default,sc.html" class="link">Wedges</a>
-<a href="http://www.ninewest.com/Flats-And-Ballet-Flats/8346267,default,sc.html" class="link">Flat Shoes</a>
-<a href="http://www.ninewest.com/party-wedding-evening-shoes/9706265,default,sc.html" class="link">Evening Shoes</a>
-<a href="http://www.ninewest.com/Shoes/10726902,default,sc.html#prefn1=catalog-id&amp;prefv1=ninewest-catalog&amp;prefn2=variantSize&amp;prefv2=5&amp;rfnd=true" class="link">Size 5 shoes</a>
-<a href="http://www.ninewest.com/handbags-accessories/12877353,default,sc.html" class="link">Handbags</a>
-<a href="http://www.ninewest.com/Accessories/12877352,default,sc.html" class="link">Accessories </a>
-<a href="http://www.ninewest.com/Gift-Cards/3,default,sc.html" class="link">Gift Cards </a>
-<a href="http://www.ninewest.com/Shoe-Sale-For-Women/526934,default,sc.html" class="linkLast">Sale</a>
+<a href="http://www.ninewest.com/shoes-for-women/10726902,default,sc.html?ep_tag=SEOFT1" class="link">Shoes for Women</a>
+<a href="http://www.ninewest.com/sandals-for-women/5241464,default,sc.html?ep_tag=SEOFT2" class="link">Sandals</a>
+
+<a href="http://www.ninewest.com/booties-for-women/8346259,default,sc.html?ep_tag=SEOFT3" class="link">Booties</a>
+<a href="http://www.ninewest.com/Wedges-For-Women/2989858,default,sc.html?ep_tag=SEOFT4" class="link">Wedges</a>
+<a href="http://www.ninewest.com/Womens-flats-and-ballet-flats/8346267,default,sc.html?ep_tag=SEOFT5" class="link">Flat Shoes</a>
+<a href="http://www.ninewest.com/party-wedding-evening-shoes/9706265,default,sc.html?ep_tag=SEOFT6" class="link">Special Occasion</a>
+<a href="http://www.ninewest.com/animal-print-shoes-and-handbags/2951460,default,sc.html?ep_tag=SEOFT7" class="link">Animal Prints</a>
+
+
+<a href="http://www.ninewest.com/Shoes/10726902,default,sc.html#prefn1=catalog-id&amp;prefv1=ninewest-catalog&amp;prefn2=variantSize&amp;prefv2=5&amp;rfnd=true&amp;ep_tag=SEOFT8" class="link">Size 5 shoes</a>
+<a href="http://www.ninewest.com/handbags-accessories/12877353,default,sc.html?ep_tag=SEOFT9" class="link">Handbags</a>
+<a href="http://www.ninewest.com/Accessories/12877352,default,sc.html?ep_tag=SEOFT10" class="link">Accessories </a>
+<a href="http://www.ninewest.com/nine-west-gift-cards/3,default,sc.html?ep_tag=SEOFT11" class="link">Gift Cards </a>
+<a href="http://www.ninewest.com/Shoe-Sale-For-Women/526934,default,sc.html?ep_tag=SEOFT12" class="linkLast">Sale</a>
 
 
 
@@ -2328,7 +2387,7 @@ lpAddVars('session','Demandware','true');
 <td class="cellC" colspan="3">
 <div id="internalMiniBag">
 <div id="shopBagHeaderHolder">
-<div id="shopBagClose"><a title="Close" alt="Close" href="javascript:closeAddToBagPopUp();" class="evShopBagCloseHandle"><img src="http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-ninewest-Site/-/default/v1419916686127/images/productDetail/b_close_wText.gif" title="Close" alt="Close"></a></div>
+<div id="shopBagClose"><a title="Close" alt="Close" href="javascript:closeAddToBagPopUp();" class="evShopBagCloseHandle"><img src="http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-ninewest-Site/-/default/dw83b0e59d/images/productDetail/b_close_wText.gif" title="Close" alt="Close"></a></div>
 </div>
 <div id="ShopBagContent">
 </div>
@@ -2539,7 +2598,7 @@ a=b.getElementsByTagName(c)[0];a.parentNode.insertBefore(d,a);
 })();
 </script>
 
-<input type="hidden" name="ajaxToken" id="ajaxToken" value="yw8yqaunjyydhlf8xjwl">
+<input type="hidden" name="ajaxToken" id="ajaxToken" value="7fr4fg3m4hff8hl2ra1kdj">
 </div>
 
 
@@ -2574,7 +2633,9 @@ document.getElementById("cookietest").innerHTML = "<b>ATTENTION:</b> You need to
 </script>
 
 
-<!-- Demandware Analytics code 1.0 --><script type="text/javascript" src="http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-ninewest-Site/-/default/v1419916686127/internal/jscript/dwanalytics.js"></script><script type="text/javascript">//<!--
+<!-- Demandware Analytics code 1.0 -->
+<script type="text/javascript" src="http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-ninewest-Site/-/default/v1434859261454/internal/jscript/dwanalytics.js"></script>
+<script type="text/javascript">//<!--
 /* <![CDATA[ */
 try{
   var trackingUrl = "http://www.ninewest.com/on/demandware.store/Sites-ninewest-Site/default/__Analytics-Tracking";
@@ -2588,4 +2649,5 @@ try{
 /* ]]> */
 // -->
 </script>
+
 </body></html>
