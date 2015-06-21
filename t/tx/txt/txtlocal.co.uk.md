@@ -1,73 +1,95 @@
-> *The following text is extracted and transformed from the txtlocal.co.uk privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120005233id_/http%3A//www.textlocal.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the txtlocal.co.uk privacy policy that was archived on 2015-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150621112121id_/http%3A//www.textlocal.com/privacy) for the most accurate reproduction.*
 
-# Terms and Conditions by TextLocal Privacy Policy
+# Textlocal Privacy Policy
 
-Any personal information provided to Textlocal.com (Textlocal) is controlled primarily by Txtlocal Ltd.
+Unless the context otherwise requires, definitions in this Privacy Policy shall have the same meaning as those in Our Terms of Service.
 
-### 1.1) Personal Data
+TxtLocal Limited is committed to protecting and respecting your privacy.
 
-Personal Data is any data that identifies You or Your account. The Personal Data which You supply to Us You agree will be true, complete and accurate in all respects and You agree to notify Us immediately of any changes to that information within Txtlocal. We will deal with Your Personal Data in compliance with the current UK data protection legislation. Please note this applies only to the Txtlocal Internet not to other companies’ or organisations’ websites to which We link.
+This Privacy Policy is incorporated into Our Terms of Service which can be found on Our website, www.textlocal.comand sets out the basis on which any personal data We collect from You, or that You provide to Us (in relation to You only and not Your customers or clients), will be processed by Us. Please read the following carefully to understand Our views and practices regarding Your personal data and how We will treat it. By visiting [www.textlocal.com](http://www.textlocal.com/) You are accepting and consenting to the practices described in this Privacy Policy.
 
-### 1.2) Personal Data Collection
+For the purpose of the Data Protection Act 1998 (the Act), the data controller is TxtLocal Limited (company no. 5578161), having its registered office at 1 Cliveden Office Village, Cressex Business Park, Lancaster Road, High Wycombe, Buckinghamshire HP12 3YZ which trades as **Textlocal**.
 
-Personal Data will be collected, processed and used by Txtlocal for the purposes of providing the Internet services to You and the other purposes mentioned below.
+### INFORMATION WE MAY COLLECT FROM YOU
 
-### 1.3) Email & SMS Communication
+We may collect and process the following data about You:
 
-We only send email and text messages to You about new products and services which We consider may be of interest to You only if You have given Us permission to do so.
+  * **Information You give Us.** You may give Us information about You by filling in forms on Our website, www.textlocal.com, and any other website which We use to provide any of the Service ( **Site** ) or by corresponding with Us by phone, e-mail or otherwise. This includes information You provide when You register to use Our Site, subscribe to our Service, open an account with Us, place an order for Credits and when You report a problem with Our Site or Our Service. The information You give Us may include Your name, address, e-mail address and phone number, financial and credit card information, personal description and photograph.
+  * **Information We collect about You.** With regard to each of Your visits to Our Site We may automatically collect the following information: 
+    * technical information, including the Internet protocol ( **IP** ) address used to connect Your computer to the Internet, Your login information, browser type and version, time zone setting, browser plug-in types and versions, operating system and platform;
+    * information about Your visit, including the full Uniform Resource Locators ( **URL** ) clickstream to, through and from Our Site (including date and time); products you viewed or searched for; page response times, download errors, length of visits to certain pages, page interaction information (such as scrolling, clicks, and mouse-overs), and methods used to browse away from the page and any phone number used to call Our customer service number.
+    * **Information We receive from other sources.** We may receive information about You from any use of the Site and the Service. We are also working closely with third parties (including, for example, business partners, sub-contractors in technical, payment and delivery services, advertising networks, analytics providers, search information providers, credit reference agencies) and may receive information about You from them.
 
-### 1.4) Usage Data
 
-We may collect Personal Data about Your usage of the services on www.textlocal.com in order to provide a service to meet Your needs. However the data will only be disclosed on an anonymous and aggregated basis not in a way in which You will be identified.
 
-### 1.5) Personal Data Use
+### COOKIES
 
-We may hold Personal Data relating to the transactions You enter into with Us. We will disclose Personal Data to a party to the transaction, but only to assist your transaction. We may use Personal Data to let You know about products and services that may be of particular interest to You.
+Our Site uses cookies to distinguish You from other users of Our Site. This helps Us to provide You with a good experience when You browse Our Site and also allows Us to improve Our Site. For detailed information on the cookies We use and the purposes for which We use them see Our Cookie Policy which can be found on Our website, [www.textlocal.com](https://web.archive.org/cookie-policy).
 
-### 1.6) Personal Data Use - credit card details
+### USES MADE OF THE INFORMATION
 
-Card details are entered via encrypted connection into Sage Pay's web interface. We do not store any card details at Txtlocal. Please see Sage Pay security policy: https://www.sagepay.co.uk/policies/security-policy.
+We use information held about You in the following ways:
 
-### 1.7) Data Handling
+  * **Information You give to Us.** We will use this information: 
+    * to carry out Our obligations arising from any contracts entered into between You and Us and to provide You with the information, products and Service that you request from Us;
+    * to provide You with information other services We offer that are similar to those that You have already purchased or enquired about;
+    * to provide You, or permit selected third parties to provide You, with information about services We feel may interest You. If You are an existing customer, We will only contact You by electronic means (e-mail or SMS) with information about services similar to those which were the subject of a previous sale or negotiations of a sale to You. If You are a new customer, and where We permit selected third parties to use Your data, We (or they) will contact You by electronic means only if You have consented to this. If you do not want Us to use Your data in this way, or to pass Your details on to third parties for marketing purposes, please tick the relevant box when We collect Your data.
+    * to notify You about changes to the Service;
+    * to ensure that content from Our Site is presented in the most effective manner for You and for Your computer.
+  * **Information We collect about You.** We will use this information: 
+    * to administer Our Site and for internal operations, including troubleshooting, data analysis, testing, research, statistical and survey purposes;
+    * to improve Our Site to ensure that content is presented in the most effective manner for You and for Your computer;
+    * to allow You to participate in interactive features of the Service, when You choose to do so;
+    * as part of Our efforts to keep Our Site safe and secure;
+    * to measure or understand the effectiveness of advertising We serve to You and others, and to deliver relevant advertising to You;
+    * to make suggestions and recommendations to You and other users of Our Site about services that may interest You or them.
+  * **Information We receive from other sources.** We may combine this information with information You give to Us and information We collect about You. We may use this information and the combined information for the purposes set out above (depending on the types of information We receive).
 
-If You have any questions about the handling or protection of Your Personal Data or Your rights under this Online Agreement please contact privacy@txtlocal.co.uk.
 
-### 1.8) Data Disclosure to Legal Bodies
 
-Txtlocal may disclose Your Personal Data acting in good faith if it believes such action is necessary: to conform with a legal requirement or comply with the legal process, protect and defend the rights or property of Txtlocal, enforce this Online Agreement, act to protect the interests of its online account holders or others.
+### DISCLOSURE OF YOUR INFORMATION
 
-### 1.9) Cookies
+We may share Your personal information with any member of Our group, which means Our subsidiaries, Our ultimate holding company and its subsidiaries, as defined in section 1159 of the UK Companies Act 2006.
 
-#### 1.9.1) What is a Cookie?
+We may share Your information with selected third parties including:
 
-Some websites store information in a small text file called a "cookie," on Your hard disk. Cookies contain information about You and Your preferences. For example, it might contain a record of which pages within the site You visited, to help the site customise the view for You the next time You visit.
+  * Business partners, suppliers and sub-contractors for the performance of any contract We enter into with them or You.
+  * Advertisers and advertising networks that require the data to select and serve relevant adverts to You and others. We do not disclose information about identifiable individuals to Our advertisers, but We may provide them with aggregate information about Our users (for example, We may inform them that 500 men aged under 30 have clicked on their advertisement on any given day). We may also use such aggregate information to help advertisers reach the kind of audience they want to target (for example, women in SW1). We may make use of the personal data We have collected from You to enable Us to comply with Our advertisers' wishes by displaying their advertisement to that target audience.
+  * Analytics and search engine providers that assist Us in the improvement and optimisation of Our Site.
+  * Credit reference agencies for the purpose of assessing Your credit score where this is a condition of us entering into a contract with You.
 
-#### 1.9.2) How we use Cookies
 
-Only the information that You provide, or the choices You make while visiting a website, can be stored in a cookie. For example, the site cannot determine Your email name unless You choose to type it. Allowing a website to create a cookie does not give that or any other site access to the rest of Your computer, and only the site that created the cookie can read it.
 
-#### 1.9.3) How we use Cookies - Control
+We may disclose Your personal information to third parties:
 
-Txtlocal will only use the cookies created to personalise and secure Your experience. What this means is that when You use the site Txtlocal will be able to keep certain settings for you for when You return. It also means that You do not need to pass security details on every screen as We store them for You during the time You spend browsing our site, these cookies are deleted when You leave.
+  * In the event that We sell or buy any business or assets, in which case We may disclose Your personal data to the prospective seller or buyer of such business or assets.
+  * If Txtlocal Limited or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets.
+  * If We are under a duty to disclose or share Your personal data in order to comply with any legal obligation, or in order to enforce or apply Our Terms of Service which can be found on Our website, www.textlocal.comand other agreements; or to protect the rights, property, or safety of Txtlocal Limited, Our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
 
-### 1.10) Your Client Data
 
-#### 1.10.1) Ownership of Data
 
-Txtlocal does not claim ownership of Content you submit or make available for inclusion on the Service. However, with respect to Content you submit or make available for inclusion on publicly accessible areas of the Service, you grant Txtlocal the following world-wide, royalty free and non-exclusive license(s), as applicable: "Publicly accessible" areas of the Service are those areas of the Txtlocal that are intended by Txtlocal to be available to the general public. By way of example, publicly accessible areas of the Service would include the Txtlocal Feedback. However, publicly accessible areas of the Service would not include portions of Txtlocal that are limited to members.
+### WHERE WE STORE YOUR PERSONAL DATA
 
-#### 1.10.2) Data Policy
+The data that We collect from You may be transferred to, and stored at, a destination outside the European Economic Area ( **EEA** ). It may also be processed by staff operating outside the EEA who work for Us or for one of Our suppliers. Such staff maybe engaged in, among other things, the fulfilment of Your order, the processing of Your payment details and the provision of support services. By submitting Your personal data, You agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that Your data is treated securely and in accordance with this Privacy Policy.
 
-Txtlocal will never resell your stored data. Your personal details, your uploaded contact information, your captured mobile numbers will all be kept safe on our secure servers housed at Rackspace in Docklands, London. If we were to resell your data we would damage our hard earned reputation and lose all our customers. We do everything possible to keep your data safe and secure.
+All information You provide to Us is stored on Our secure servers. Where We have given You (or where You have chosen) a password which enables You to access certain parts of Our Site, You are responsible for keeping this password confidential. We ask You not to share a password with anyone.
 
-It is Your responsibility to read and accept the [Terms & Conditions](https://web.archive.org/terms) which are associated with this Privacy Policy.
+Unfortunately, the transmission of information via the internet is not completely secure. Although We will do our best to protect Your personal data, We cannot guarantee the security of Your data transmitted to Our Site; any transmission is at your Own risk. Once we have received Your information, We will use strict procedures and security features to try to prevent unauthorised access.
 
-### Notices
+### YOUR RIGHTS
 
-General notices regarding the Service are posted on www.textlocal.co.uk or www.textlocal.com or the Txtlocal partner websites or Your mobile operator’s web or WAP site if they are offering the Txtlocal Services (as applicable).
+You have the right to ask Us not to process Your personal data for marketing purposes. We will usually inform You (before collecting Your data) if We intend to use Your data for such purposes or if We intend to disclose Your information to any third party for such purposes. You can exercise Your right to prevent such processing by checking certain boxes on the forms We use to collect Your data. You can also exercise the right at any time by contacting Us at sales@textlocal.com.
 
-Inquiries from You may be sent to contact@txtlocal.com or through the Support area of the Web site.
+Our Site may, from time to time, contain links to and from the websites of Our partner networks, advertisers and affiliates. If You follow a link to any of these websites, please note that these websites have their own privacy policies and that We do not accept any responsibility or liability for these policies. Please check these policies before You submit any personal data to these websites.
 
-#### Events outside of Txtlocal's control
+### ACCESS TO INFORMATION
 
-We shall not be liable for any delay in performing or failure to perform any obligation hereunder by circumstances beyond our reasonable control including (without limitation) any technical problems beyond the control of Txtlocal such as (for example) defects, congestion or failures of capacity or otherwise in the public data or telephone or mobile telephone network or caused by atmospheric interference, Your mobile being turned off for an extended period of time so that messages are not retained, or Your being unable to obtain mobile network coverage.
+The Act gives You the right to access information held about You. Your right of access can be exercised in accordance with the Act. Any access request may be subject to a fee of £10 to meet Our costs in providing You with details of the information We hold about You.
+
+### CHANGES TO OUR PRIVACY POLICY
+
+Any changes We may make to this Privacy Policy in the future will be posted on this page. Please check back frequently to see any updates or changes to this Privacy Policy.
+
+### CONTACT
+
+Questions, comments and requests regarding this Privacy Policy are welcomed and should be addressed to sales@textlocal.com.
