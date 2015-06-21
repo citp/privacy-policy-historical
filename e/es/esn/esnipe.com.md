@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the esnipe.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231112227id_/http%3A//www.esnipe.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the esnipe.com privacy policy that was archived on 2015-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150621072753id_/http%3A//www.esnipe.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | eSnipe
 
@@ -21,4 +21,4 @@ Your personal information is protected by your password. Never share this passwo
 eSnipe stores a cookie on your computer to track you while you are on the site. The information in this cookie is a string of characters that is meaningless to everyone and everything except our server. No personal information or bid information is stored in the cookie. The information in the cookie can not be used by third parties to gain access to your account information. 
 
 **Still have questions?**  
-We realize everyone has a different view on privacy. We take your privacy very seriously. If you still have concerns, or are unclear about any aspect of our privacy policy, please [contact us](https://web.archive.org/web/20141231112227id_/http%3A//ContactUS/), and we will be happy to discuss the matter with you. 
+We realize everyone has a different view on privacy. We take your privacy very seriously. If you still have concerns, or are unclear about any aspect of our privacy policy, please [contact us](https://web.archive.org/web/20150621072753id_/http%3A//ContactUS/), and we will be happy to discuss the matter with you. 
