@@ -1,41 +1,68 @@
-> *The following text is extracted and transformed from the ppz.com privacy policy that was archived on 2013-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130509175215id_/http%3A//www.gets.cn/Privacy_Policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ppz.com privacy policy that was archived on 2015-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150621204909id_/http%3A//www.ppz.com/privacy-security) for the most accurate reproduction.*
 
-# Privacy Policy and Guarantee
+# Privacy & Security | PPZ.COM
 
-Milky Way Jewelry ( [Gets.cn](http://www.gets.cn/) ) is serious about privacy. How do we do this? Milky Way Jewelry uses a secure server (128-bit SSL encryption) to encrypt all of your personal information. We use strong security measures to prevent the loss, misuse and alteration of your information once it is in our records.
+This privacy policy explains what personal information is collected through this Web site, how that information is used, to whom it's disclosed, and how it's safeguarded. Unless indicated otherwise, this policy applies only to personal information collected through the Web site of PPZ, By "personal information" we mean your identifying information (like name, home address, and email address), and descriptive information (like tastes and preferences) if coupled with your identifying information. We may refer to PPZ as "we," "us," or "our" throughout this privacy policy.
 
-What exactly does Ironclad Guarantee mean? 
+ **This privacy policy answers these questions**  
 
-We operate a "no-quibbles" guarantee, which means that if for any reason you are unhappy with your purchase, simply return it to us in its original condition within 30 days from date of delivery. We will issue a full refund for the price you paid for the item.
 
-If the return is due to an error we have made we will gladly refund the delivery charges. 
+What personal information is collected and how is it used?
 
-If the item is either faulty or damaged please contact our Returns team who will arrange for a replacement or refund 。
+How do we secure your information on our site?
 
-Before returning goods, please contact us first to discuss the issues you are having ，We advise you [Submit a support ticket ](http://www.gets.cn/Submit_ticket.php)to get help .
+Where is personal information stored and processed?
 
-And here's all we ask… Returned items must be unaltered, in original packaging and must include the original invoice. It's that easy! Just remember to keep your invoices and store your items in their original packaging. 
+When was this policy last updated?
 
-How we use information? 
+ **What personal information is collected and how is it used?**
 
-Our site uses an order form allowing you to request information, products and services. Contact information (email address, telephone number, address, etc.) is also used to get in touch with you when necessary. Credit card number do not offer to Gets.cn. Gets.cn can not accept credit card ,If you want use credit card ,We advise you use Paypal.
+We collect personal information directly from Web sites, such as name, address, phone number, email address, personal preferences, credit card number, purchase and ordering information, responses to survey questions and sizing information. This information is collected at various places on our site: for instance, when you check out 
 
-We may use your IP address to help diagnose problems with our server and to administer our web site. Your IP address may also be used to gather broad demographic information and to recognize customer traffic patterns and site usage. This information assists us in developing the design and layout of the site.
+with your online order; subscribe to catalogs, and email offers.  
 
-To enhance your shopping experience, our site uses cookies. Cookies are alpha-numeric identifiers that are transferred to your computer's hard drive through your web browser. Cookies make it possible for us to recognize you when you visit. By doing this, we can personalize your return visits and save you time during checkout. For the most rewarding shopping experience, your browser must be set to accept cookies.
 
-You may, from time to time, receive information from us about new features, new services and special offers we think you'll find valuable. If you'd like to opt out of receiving future email offers from Fire Mountain Gems and Beads, please log in to your account. You will see a number of options for maintaining your account. Select “Change how often you wish to receive email offers.” You’ll see your current selection and a number of options for changing the frequency of emails or opting out. We may share your mailing address with reputable businesses that can provide you with valuable, relevant offers and information. If you do not wish to have your name shared with these carefully screened businesses, please call customer service at 86-10-67653322 or 86-10-67639955.
+ _We use personal information to do things like_
 
-This site may now, or in the future, contain links to other sites. Milky Way Jewelry ( Gets.cn )is not responsible for the privacy practices or content of such sites.
+  * process your online orders
 
-By using our web site or purchasing product from us, you agree to the collection and use of information as set forth in this privacy policy. This policy may be updated at any time. We will post any changes to our privacy policy on this page so that you are always aware of what information we collect and how we use it.
+  * open an online account at your request
 
-If, at any time, you have questions or concerns about Gets.cn privacy policy, please feel free to email us at: sales@gets.cn or call customer service, toll-free, at 86-10-67653322 or 86-10-67639955 to speak to one of our friendly Customer Service representatives.
+  * provide customer service, whether it's responding to a request or following up on an order
 
-Popups and Spam 
+  * include you in surveys and contests
 
-Gets.cn does not use any type of pop-up advertising on our web site. Our true feelings about this ugly advertising is that each of us should have the choice whether or not we want to view what is offered.
+  * enable you to post your content, such as comments or images
 
-The only pop-up messages on our web site are for help desk related issues, and these only pop-up if you request them. When you visit [Gets.cn](http://www.gets.cn/) , you are free from aggressive advertising.
+  * facilitate networks of online social activity centered around our products and services
 
-Gets.cn recommends safe-surfing online. To protect your computer from adware and popups, we suggest that you visit this page and begin using a safe-surfing program that is right for you.
+  * improve our website, improve the manner in which offers are made on our website, improve purchase decisions of our visitors and the interactions visitors have with our website
+
+
+
+
+ **How we use the information we collect?**
+
+Our Web site has the following types of security measures: limited access data-centers, firewall technology, and (for our e-Commerce sites through which you may place orders) secure-socket-layer (SSL) certificate authentication. SSL is encryption technology that provides security for information that's transmitted over the Internet.  
+
+
+While we implement the above security measures on our site, you should be aware that 100% security is not always possible.  
+
+
+We will not sell or share your personal information or email. Your information is only used to complete your order and for marketing purposes, if you have opted for this feature.  
+
+
+ **Where is personal information stored and processed?**
+
+PPZ Inc. is a global organization, with affiliated legal entities, business processes, management structures, and technical systems that cross borders. As the majority of our administrative and technical support functions are headquartered in the US we share, store and process personal information in the United States of America. Customers accessing and purchasing with our sales website will be interacting with servers and services provided from within the United States of America.  
+
+
+We may share or store your personal information among PPZ Inc. brands and transfer it to our business partners based in various countries in the world where we do business.  
+
+
+When we transfer your personal information internationally we will take steps to ensure that your personal information is treated lawfully in the manner we describe in this privacy policy.  
+
+
+ **When was this policy last updated?**
+
+This Privacy Statement is effective February 12, 2015.
