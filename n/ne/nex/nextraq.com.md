@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nextraq.com privacy policy that was archived on 2014-08-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140801033925id_/http%3A//www.nextraq.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nextraq.com privacy policy that was archived on 2015-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150621093624id_/http%3A//www.nextraq.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | NexTraq
 
