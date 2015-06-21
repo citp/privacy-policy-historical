@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wkf.com privacy policy that was archived on 2014-07-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140728193438id_/http%3A//www.wkf.com/disclaimer.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wkf.com privacy policy that was archived on 2015-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150621050237id_/http%3A//www.wkf.com/disclaimer.cfm) for the most accurate reproduction.*
 
-# Walter Knoll Florist - Saint Louis MO - Delivery Anywhere Your Personal, Florist Since 1883, Same Day Delivery
+# Walter Knoll Florist - Saint Louis Florist - Customer Service -Missouri, Flowers to St Louis MO
 
 This privacy notice discloses the privacy practices for ([www.wkf.com](http://wkf.com/)).  This privacy notice applies solely to information collected by this web site. 
 
