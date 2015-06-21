@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the trialpay.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121111235id_/http%3A//www.trialpay.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trialpay.com privacy policy that was archived on 2015-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150621061935id_/http%3A//www.trialpay.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - TrialPay
 
 ## TrialPay Privacy Policy
 
-Last modified: September 26, 2014
+Last modified: June 1, 2015
 
 We at TrialPay, Inc. and the subsidiaries we own or control (collectively, "TrialPay") respect your privacy. We are publishing this version of the TrialPay Privacy Policy (the "Policy") to clearly disclose our practices and approach to data privacy and data protection.
 
@@ -20,6 +20,8 @@ Privacy Officer
 TrialPay, Inc.  
 800 California Street, #300  
 Mountain View, California 94041 USA
+
+Please note that questions about our offerwall or missing credits should be emailed to our customer support team directly at [generalsupport@trialpay.com](mailto:generalsupport@trialpay.com)
 
 ## How We Collect Information
 
@@ -110,6 +112,8 @@ When you use our Services we may automatically collect and store certain informa
   * Page views within our Services.
 
 
+
+Many internet browsers allow users to send a "Do Not Track" signal to websites they visit.  Currently, there is no consensus on the meaning of "Do Not Track" or similar signals, and the Services have no mechanism to respond to such a signal.
 
 **Information collected with certain Services**
 
@@ -226,7 +230,7 @@ Palo Alto, CA 94304 USA
 
 If you have any complaints regarding our compliance with the Safe Harbor Principles, please contact us at the above.
 
-As part of our [participation](http://export.gov/safeharbor/) in the Safe Harbor Principles, we have agreed to TRUSTe dispute resolution for disputes relating to our compliance with the Safe Harbor Principles. If you have any complaints regarding our compliance with the Safe Harbor Principles you should first contact us as provided above. If contacting us does not resolve your complaint, you may raise your complaint with TRUSTe by [Internet here](https://feedback-form.truste.com/watchdog/request), fax to 415-520-3420, or mail to TRUSTe Safe Harbor Compliance Dept., [click for mailing address](http://www.truste.com/about_TRUSTe/contact_us.html). If you are faxing or mailing TRUSTe to lodge a complaint, you must include the following information: our name, the alleged privacy violation, your contact information, and whether you would like the particulars of your complaint shared with TrialPay. For information about TRUSTe or the operation of TRUSTe's dispute resolution process, click [here](http://www.truste.com/products-and-services/dispute-resolution-services/) or request this information from TRUSTe at any of the addresses listed above. The TRUSTe dispute resolution process shall be conducted in English.  For human resources data we have agreed to cooperate with applicable Data Protection Authorities.
+As part of our [participation](http://export.gov/safeharbor/) in the Safe Harbor Principles, we have agreed to TRUSTe dispute resolution for disputes relating to our compliance with the Safe Harbor Principles. If you have any complaints regarding our compliance with the Safe Harbor Principles you should first contact us as provided above. If contacting us does not resolve your complaint, you may raise your complaint with TRUSTe by [Internet here](https://feedback-form.truste.com/watchdog/request), fax to 415-520-3420, or mail to TRUSTe Safe Harbor Compliance Dept., [click for mailing address](http://www.truste.com/about-truste/contact-us/). If you are faxing or mailing TRUSTe to lodge a complaint, you must include the following information: our name, the alleged privacy violation, your contact information, and whether you would like the particulars of your complaint shared with TrialPay. For information about TRUSTe or the operation of TRUSTe's dispute resolution process, click [here](http://www.truste.com/products-and-services/dispute-resolution-services/) or request this information from TRUSTe at any of the addresses listed above. The TRUSTe dispute resolution process shall be conducted in English.  For human resources data we have agreed to cooperate with applicable Data Protection Authorities.
 
 ## Changes to this Policy
 
@@ -237,9 +241,10 @@ Please note that this Policy may change from time to time. We will post any Poli
 We are committed to privacy and are involved in current industry initiatives to promote privacy and protect personal information. Our privacy practices will evolve to meet new requirements, standards, technologies, and customer preferences. We welcome your opinions and insights on this evolution.
 
   
-V5.0  
-September 26, 2014
+V6.0  
+June 1, 2015
 
+  * [View V5.0 of Privacy Policy](http://www.trialpay.com/legal/privacy-policy/archive/9-26-2014)
   * [View V4.0 of Privacy Policy](http://www.trialpay.com/legal/privacy-policy/archive/1-13-2014)
   * [View V3.0 of Privacy Policy](http://www.trialpay.com/legal/privacy-policy/archive/3-14-2013)
 
