@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the godork.com privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227034605id_/http%3A//www.godork.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the godork.com privacy policy that was archived on 2015-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150621204751id_/http%3A//www.godork.com/privacy-policy) for the most accurate reproduction.*
 
 # GoDork.Com: Privacy Policy
 
@@ -47,6 +47,10 @@ Ads appearing on our site may be delivered to Users by advertising partners, who
 **Google Adsense**
 
 Some of the ads may be served by Google. Google’s use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses “non personally identifiable information” and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at <http://www.google.com/privacy_ads.html>
+
+**Third Party Advertising**
+
+If a user wishes to know more about this practice or would like to know more about his/her options, the user can visit the [Network Advertising Initiative (NAI)](http://www.networkadvertising.org/). The NAI is a cooperative of online advertising companies who are committed to responsible practices and consumer protection.
 
 **Changes to this privacy policy**
 
