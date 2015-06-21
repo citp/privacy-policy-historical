@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the culturedcode.com privacy policy that was archived on 2014-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141212174747id_/http%3A//culturedcode.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the culturedcode.com privacy policy that was archived on 2015-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150622011959id_/http%3A//culturedcode.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Cultured Code
 
