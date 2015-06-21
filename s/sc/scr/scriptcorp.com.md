@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scriptcorp.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121035942id_/http%3A//www.scriptcorp.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scriptcorp.com privacy policy that was archived on 2015-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150621031112id_/http%3A//www.scriptcorp.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -20,7 +20,3 @@ To protect the loss, misuse and alteration of information under our control, log
 
 **Contact Information**    
 If you have any questions about this privacy statement, please contact us at admin(at)Scriptcorp.com.
-
-[](http://www.scriptcorp.com/site-review/)
-
-Main Categories 
