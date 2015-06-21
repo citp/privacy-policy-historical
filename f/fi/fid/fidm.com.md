@@ -1,67 +1,82 @@
-> *The following text is extracted and transformed from the fidm.com privacy policy that was archived on 2014-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141128082546id_/http%3A//fidm.edu/en/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fidm.com privacy policy that was archived on 2015-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150621230827id_/http%3A//fidm.edu/en/about/privacy) for the most accurate reproduction.*
 
 # About | FIDM.edu
+
+#### Privacy Statement
 
 FIDM is committed to protecting your privacy. This FIDM Statement of Privacy applies to FIDM's family of websites and governs online data collection and usage at all FIDM sites and services. Please read the FIDM Statement of Privacy below and any supplementary information at the end of this statement for additional details about particular FIDM sites and services that you may use.
 
 The FIDM family of websites are geared toward a general audience above the age of thirteen. FIDM does not knowingly collect personal information from children under the age of thirteen. This Statement contains a section which details FIDM's special policy regarding the collection and use of children's personal information. [Click here](http://www.ftc.gov/privacy/privacyinitiatives/childrens.html) to read more.
 
+##### __Collection of your Personal Information
+
 At some sites, FIDM collects personal information, such as your email address, name, home or work address, or telephone number. There is also statistical information about your computer hardware and software that is automatically collected by FIDM and may be shared with other websites within the FIDM family of websites. This information may include: your IP address, which is a number used by computers on the network to identify your computer so that data can be transmitted to you, your browser type, domain names, the time you accessed our website, and referring website addresses. This information is used by FIDM for the operation of the website service, to maintain quality of the website service, and to provide general statistics regarding the use of FIDM websites.
 
-FIDM's family of websites uses anonymous "cookies" for the purpose of analyzing web traffic on our sites. On occasion, cookies will also be used to help personalize your online experience. A cookie is a text file that is placed on your hard disk by a web page server to help identify the user's computer and can be used to help FIDM recall your information on subsequent website visits. Cookies cannot be used to run programs or deliver viruses to your computer. In order to use certain secure areas of the site, cookies must be enabled. If you have questions about how to enable "cookie" settings, please visit [http://www.enablecookies.org](http://www.enablecookies.org/).
+##### __Use of Cookies
+
+FIDM's family of websites uses anonymous "cookies" for the purpose of analyzing web traffic on our sites. On occasion, cookies will also be used to help personalize your online experience. A cookie is a text file that is placed on your hard disk by a web page server to help identify the user's computer and can be used to help FIDM recall your information on subsequent website visits. Cookies cannot be used to run programs or deliver viruses to your computer. In order to use certain secure areas of the site, cookies must be enabled. If you have questions about how to enable "cookie" settings, please visit [http://www.enablecookies.org](http://www.enablecookies.org/).
+
+##### __The Use of Your Personal Information
 
 FIDM collects and uses your personal information to respond to or to deliver the information or services you have requested. For example, we gather your personally identifiable information when you send us email. We will use this information to respond to your email. FIDM may also use your personal information to inform you of other products or FIDM events.
 
 We also use your information to help operate the FIDM family of websites. For example, to help us improve our website and to ensure that we make every effort to provide you with information and offers that are of interest to you, we may merge your personally identifiable information with click-stream data and other data we have (including offline data). We may also develop a non-identifiable profile on you based on the pages within our site that you visit.
 
+##### __Sharing Your Information with Third Parties
+
 We only share your personally identifiable information (such as your email address) with select third parties including our agents. These companies are prohibited from using that information for any purpose other than the limited stated purpose for which FIDM has hired them.
 
-You may choose not to provide us with any contact information; however, you will be unable to use certain features of our sites. You also may choose to unsubscribe from any of our services or on-line mailing lists at any time. 
+##### __Control of Your Personal information
 
-To unsubscribe from any of our services send an email to [webmaster@fidm.com](mailto:webmaster@fidm.com). In the body of the message, please include the following information:
+You may choose not to provide us with any contact information; however, you will be unable to use certain features of our sites. You also may choose to unsubscribe from any of our services or on-line mailing lists at any time.
 
-You may also access the personal information we have collected about you and correct any inaccuracies by sending an email to [webmaster@fidm.com](mailto:webmaster@fidm.com). 
+To unsubscribe from any of our services send an email to [webmaster@fidm.com](mailto:webmaster@fidm.com). In the body of the message, please include the following information:
+
+  * Name of service or mailing list from which you wish to unsubscribe
+  * Your name
+  * Your email address
+
+
+
+You may also access the personal information we have collected about you and correct any inaccuracies by sending an email to [webmaster@fidm.com](mailto:webmaster@fidm.com).
+
+##### __Security of Your Personal information
 
 FIDM strictly protects the security of the personal information you provide. FIDM secures your personal information on computer servers in a controlled, secure environment that is only accessible by a limited number of authorized persons. When highly confidential information (such as a credit card number) is transmitted over the Internet, it is protected with encryption, such as the Secure Sockets Layer (SSL) protocol.
 
-The FIDM family of websites is intended for users above the age of thirteen. FIDM does not knowingly collect personally identifiable information from any child under the age of thirteen. When we do receive such information, we delete it as soon as we discover it and do not use it or share it with third parties. 
+##### __Collection and Use of Children's Personal Information
+
+The FIDM family of websites is intended for users above the age of thirteen. FIDM does not knowingly collect personally identifiable information from any child under the age of thirteen. When we do receive such information, we delete it as soon as we discover it and do not use it or share it with third parties.
+
+##### __Third Party Links
 
 This website contains links to other sites. Please be aware that we are not responsible for the privacy or merchant practices of such other sites. We encourage our users to read the privacy statements of each website that they visit. This privacy statement applies solely to information collected when you visit FIDM's family of websites.
 
+##### __Changes to this Statement of Privacy
+
 FIDM will occasionally update this Statement of Privacy to reflect student and customer feedback. When FIDM posts changes to this Statement, the date of the most recent update will appear at the top of the Privacy Statement page. If there are material changes to this Statement or in how FIDM will use your personal information, FIDM will prominently post such changes before implementing the change. FIDM encourages you to periodically review this statement to be informed of how FIDM is protecting your information.
+
+##### __Contact Information
 
 FIDM welcomes your comments regarding this Statement of Privacy. If you have any questions, please contact FIDM by email or postal mail.
 
+You may contact us by email at [webmaster@fidm.com](mailto:webmaster@fidm.com).
+
+You may contact us by postal mail at the following address:
+
 The FIDM Publications Department – Statement of Privacy  
 919 S. Grand Ave.  
-Los Angeles, CA 90015 USA 
+Los Angeles, CA 90015 USA
 
-All contents of this internet site (including design; information; audio; video; photographs and graphic elements) are copyrighted by FIDM. Information herein may not be reproduced, transmitted, rebroadcast, published, re-written or distributed in any form without the expressed written consent of FIDM. This website may not may be "deconstructed" and its elements used without the expressed written consent of the copyright holder. Other company's trademarks used on this site are the sole property of individual owners and may not be used without their expressed written consent. 
+##### __Copyright and Trademark Information
+
+All contents of this internet site (including design; information; audio; video; photographs and graphic elements) are copyrighted by FIDM. Information herein may not be reproduced, transmitted, rebroadcast, published, re-written or distributed in any form without the expressed written consent of FIDM. This website may not may be "deconstructed" and its elements used without the expressed written consent of the copyright holder. Other company's trademarks used on this site are the sole property of individual owners and may not be used without their expressed written consent.
+
+##### __SMS 57682 Shortcode Terms & Conditions
 
 Message and data rates may apply. To stop receiving messages from our SMS shortcode service, reply STOP to any message. To receive more information regarding the SMS shortcode service, reply HELP to any message. The SMS Gateway provider is MessageMedia and provides FIDM with the ability to send SMS messages to the subscribed number for the purpose of delivering opted-in subscribers the information requested. If you have questions regarding the service, you may contact FIDM at 1.800.642.1200 or MessageMedia at 1.866.751.8337. Under normal circumstances we expect to send up to (2) messages per month. The FIDM mobile text service is designed to notify the subscriber of FIDM events, scholarships, careers, and programs for which a subscriber may be interested in. It is not binding, and without guarantee of event availability, and is subject to change without notice. It is also first come, first serve. So if you receive a message, take action. This service may not be available on all carriers. To determine if your carrier is supported, please contact MessageMedia support at 1.866.751.8337.
 
-Supplementary Information for Particular FIDM Sites and Services
-
-Please click on the link below to view additional information about particular FIDM sites and services. Please note that this additional information is intended to supplement and be read in conjunction with the general provisions of the FIDM Statement of Privacy above.
-
-  * FIDM  
-
-  * Prom Advice  
-
-  * Fashion Club  
-
-  * Ask Fashion Girl  
-
-  * Ask FIDM Cybrarian  
-
-  * FIDM Student Portal
-  * Just for Educators
-
-
-
-Back to Top
-
-Especially about FIDM
+##### __Especially about FIDM
 
 When you submit a Contact FIDM Form, FIDM requests personal information such as your name and email address. A FIDM representative will contact you to answer your question. You may also receive information to announce new features, technical issue updates, and news about FIDM products and events.
 
@@ -71,19 +86,13 @@ When you apply to FIDM using the Online Application Form, FIDM requests personal
 
 When you submit an Information Request Form, FIDM requests personal information such as your name, address, telephone number, and email address, as well as demographic information such as high school or college graduation year. A FIDM representative will contact you to answer your question. You may also receive information to announce new features, technical issue updates, and news about FIDM products and events.
 
-Back to SUPPLEMENTARY INFORMATION
-
-Especially about Prom Advice
-
-##### Contests
+##### __Especially about Prom Advice Contests
 
 When you register for one of the contests hosted by Prom Advice, Prom Advice requests personal information such as your name and email address, as well as demographic information such as your date of birth, gender, and location. Prom Advice uses this information to notify you in the event that you are selected as a contest winner. Please see Prom Advice Contest Rules for more information. You may also receive information to announce new features, technical issue updates, and news about FIDM products and events.
 
-Back to SUPPLEMENTARY INFORMATION
+##### __Especially about Fashion Club
 
-Especially about Fashion Club 
-
-When you sign up for Fashion Club, we request personal information, such as your name, home address, telephone number and email address, as well as demographic information such as your birth date and the year you plan to graduate from high school . 
+When you sign up for Fashion Club, we request personal information, such as your name, home address, telephone number and email address, as well as demographic information such as your birth date and the year you plan to graduate from high school .
 
 Fashion Club will use the information collected during registration for the following purposes:
 
@@ -93,13 +102,13 @@ Fashion Club will use the information collected during registration for the foll
 
 
 
-##### Contests
+###### Contests
 
 When your register for one of the contests hosted by Fashion Club, Fashion Club requests personal information such as your name, home telephone number, home address, and email address, as well as demographic information such as your birth date and gender. Fashion Club uses this information to notify you in the event that you are selected as a winner. Please see Fashion Club Contest Rules for more information. You may also receive information to announce new features, technical issue updates, and news about FIDM products and events.
 
-##### Contact Us
+###### Contact Us
 
-For questions regarding the use of information collected on Fashion Club or for other concerns please contact: 
+For questions regarding the use of information collected on Fashion Club or for other concerns please contact:
 
 Vicki Paganini  
 Director of Marketing  
@@ -108,32 +117,36 @@ The Fashion Institute of Design & Merchandising
 Los Angeles, CA 90015  
 1.800.642.1200  
 or 213.624.1200  
-or contact by email at: vpaganini@fidm.com 
+or contact by email at: vpaganini@fidm.com
 
-Back to SUPPLEMENTARY INFORMATION
+##### __Especially about Ask Fashion Girl
 
-Especially about Ask Fashion Girl
+When you submit an Ask Fashion Girl Form, FIDM requests personal information such as your name, address, and email address, as well as demographic information such as age, gender, and location. A FIDM representative will contact you to answer your question. You may also receive information to announce new features, technical issue updates, and news about FIDM products and events.
 
-When you submit an Ask Fashion Girl Form, FIDM requests personal information such as your name, address, and email address, as well as demographic information such as age, gender, and location. A FIDM representative will contact you to answer your question. You may also receive information to announce new features, technical issue updates, and news about FIDM products and events. 
-
-Back to SUPPLEMENTARY INFORMATION
-
-Especially about Ask FIDM Cybrarian
+##### __Especially about Ask FIDM Cybrarian
 
 When you submit an Ask FIDM's Cybrarian Form, FIDM requests personal information such as your name, city, state, telephone number, fax, and email address. A FIDM representative will contact you to answer your question. You may also receive information to announce new features, technical issue updates, and news about FIDM products and events.
 
-Back to SUPPLEMENTARY INFORMATION
-
-FIDM Student Portal
+##### __FIDM Student Portal
 
 When you register for the FIDM Student Portal, FIDM requests that personal information such as your name, date of birth and email address be provided to register your account. You may also receive information to announce new features, technical issue updates, and news about FIDM products and events.
 
-Back to SUPPLEMENTARY INFORMATION 
-
-Especially about Just for Educators
+##### __Especially about Just for Educators
 
 When you visit Just for Educators, we may collect personal information such as your name, phone number, school, and email addresses. FIDM may use this information to contact you regarding presentations, grant applications, and contests. Please see specific grant and contest rules for more information. You may also receive information to announce new features, technical issue updates, and news about FIDM products and events.
 
-Every effort is made to ensure the accuracy of the information presented on Just for Educators. We sincerely regret any errors or omissions and request corrections be reported to [webmaster@fidm.edu](mailto:webmaster@fidm.edu). FIDM is not liable for damages caused by inaccuracies.
+Every effort is made to ensure the accuracy of the information presented on Just for Educators. We sincerely regret any errors or omissions and request corrections be reported to [webmaster@fidm.edu](mailto:webmaster@fidm.edu). FIDM is not liable for damages caused by inaccuracies.
 
-Back to SUPPLEMENTARY INFORMATION 
+#### Non-Discrimination Policy
+
+FIDM in compliance with Civil Rights Legislation does not discriminate in its educational programs or employment practices on the basis of race, religion, national or ethnic origin, gender, sexual orientation, age, veteran status, disability, pregnancy, or any other characteristic or condition protected by federal or state law. These practices include, but are not limited to, hiring, employment promotion and transfer, admissions policies, the administration of its scholarship and loan programs and participation in the benefits and services of educational programs or related activities sponsored by the College. This policy is in accordance to Title VI of the Civil Rights Act of 1964, Title IX of the Education Amendments of 1972, Section 504 of the Rehabilitation Act of 1973), Age Discrimination Act of 1975, California SB-195 Equity in Higher Education Act, and any other applicable federal, state and local law. Inquiries concerning FIDM's policy may be directed to the Title IX Coordinator at 213-624-1200 x3034.
+
+#### Harassment & Sexual Misconduct Policy
+
+FIDM is committed to providing a safe learning working environment for students and employees that is free of all forms of discrimination, harassment, exploitation, or intimidation. Sexual misconduct is a form of discrimination. All members of the college community should be aware that the college strongly opposes harassment and sexual misconduct and such behavior is prohibited by federal and state law and college policy. This policy applies to all FIDM community members, including students, faculty, administrators, staff, and third parties conducting business or having any official capacity with the college or on college property. FIDM is prepared to take prompt action to prevent and correct such behavior of individuals who engage in sexual harassment, as well as any other unlawful harassment based on factors such as race, ethnicity, religion, national origin, sexual orientation, gender identity, disability, or age. Violation of this harassment and sexual misconduct policy will not be tolerated and corrective action up to and including disqualification or termination may be taken. We encourage all students to report these incidents. FIDM is committed to protecting the privacy of all individuals involved in a report of sexual harassment, sexual misconduct, and sexual violence. Throughout the process of investigation of a report of harassment and sexual misconduct, every effort will be made to protect the privacy interests of all individuals, and respect and safeguard private information, to the extent possible consistent with the legal obligations of FIDM to investigate and respond effectively. Retaliation against a person who properly reports, complains about, or participates in the investigation of such harassment is strictly prohibited.
+
+FIDM's harassment and sexual misconduct policy and procedures are available in full on the FIDM Portal (under College Polies FAQs). Reports of sexual misconduct and inquiries concerning FIDM’s policy may be directed to the Title IX Coordinator at 213-624-1200 x3034.
+
+##### Bureau for Private Postsecondary Education
+
+[http://www.bppe.ca.gov](http://www.bppe.ca.gov/)
