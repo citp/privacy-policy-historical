@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the techblissonline.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121081235id_/http%3A//techblissonline.com/privacy-policy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techblissonline.com privacy policy that was archived on 2015-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150621175547id_/http%3A//techblissonline.com/privacy-policy-statement) for the most accurate reproduction.*
 
-# Privacy Policy Statement | Techblissonline.com
+# Private Policy Statement | Techblissonline.com
 
 ## Privacy Policy at Techblissonline
 
