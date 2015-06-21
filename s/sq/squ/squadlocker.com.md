@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the squadlocker.com privacy policy that was archived on 2014-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141208175251id_/http%3A//www.squadlocker.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the squadlocker.com privacy policy that was archived on 2015-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150621231107id_/http%3A//www.squadlocker.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -30,7 +30,8 @@ We use IP addresses to administer the site, track page views and the click-throu
 
 ****If we change our privacy policy, we will post those changes on our website so that users are always aware of what information we collect, how we use it, and under what circumstances we disclose it. Squadlocker can provide customers with the following information:What personally identifiable information is collected through our Web sites
 
-  * What personally identifiable information is collected through our Web sitesHow the information is used
+  * What personally identifiable information is collected through our Web sites
+  * How the information is used
   * With whom the information may be shared
   * What choices are available to the customer regarding collection, use and distribution of the information
   * The kind of security procedures that are in place to protect the loss, misuse or alteration of information under Squadlocker's control
