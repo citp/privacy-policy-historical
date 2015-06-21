@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the natgeotv.co.in privacy policy that was archived on 2011-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110528183446id_/http%3A//natgeotv.com/in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the natgeotv.co.in privacy policy that was archived on 2015-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150621225950id_/http%3A//natgeotv.com/in/privacy-policy) for the most accurate reproduction.*
 
 # PRIVACY POLICY - National Geographic Channel - India
 
