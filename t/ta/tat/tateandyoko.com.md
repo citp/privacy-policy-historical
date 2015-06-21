@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tateandyoko.com privacy policy that was archived on 2014-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141201162413id_/http%3A//tateandyoko.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tateandyoko.com privacy policy that was archived on 2015-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150621041843id_/http%3A//tateandyoko.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Tate + Yoko
 
@@ -18,7 +18,7 @@ If we ask for your personal information for a secondary reason, like marketing, 
 
 We may disclose your personal information if we are required by law to do so or if you violate our Terms of Service.
 
-**SECTION 4 -  PLATFORM**
+**SECTION 4 –  PLATFORM**
 
 Payment:
 
