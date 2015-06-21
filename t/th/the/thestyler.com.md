@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thestyler.com privacy policy that was archived on 2014-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140926151421id_/http%3A//www.thestyler.com/%3Fpage_id%3D214) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thestyler.com privacy policy that was archived on 2015-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150621212816id_/http%3A//www.thestyler.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | theStyler
+# Privacy Policy | The Styler - Your Guide to a Fashion Life
 
 Our team here at The Styler is fully committed to protecting all our users privacy online. By continuing to use this site, you acknowledge that you have read and agree to all terms stated in this policy.
 
@@ -30,3 +30,5 @@ Federal law mandates that we cannot collect any personally identifiable informat
 **Advertising**
 
 We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, <http://www.networkadvertising.org/managing/opt_out.asp>
+
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/choices/).
