@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the definitelyfilipino.com privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125155925id_/http%3A//definitelyfilipino.com/blog/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the definitelyfilipino.com privacy policy that was archived on 2015-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150621095933id_/http%3A//definitelyfilipino.com/blog/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Definitely Filipino
+# Privacy Policy » Definitely Filipino™
 
 **Your Privacy**
 
@@ -36,4 +36,4 @@ To read more on Google’s Advertising & Privacy policy, and/or to opt out of  
 
 **Questions and Feedback**
 
-If you have any questions or feedback related to our Privacy Policy, [please contact us](http://definitelyfilipino.com/blog/index.php/contact-us) .
+If you have any questions or feedback related to our Privacy Policy, [please contact us](http://definitelyfilipino.com/blog/index.php/contact-us).
