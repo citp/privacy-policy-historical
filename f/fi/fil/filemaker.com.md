@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the filemaker.com privacy policy that was archived on 2014-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141204063742id_/http%3A//www.filemaker.com/company/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the filemaker.com privacy policy that was archived on 2015-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150621162436id_/http%3A//www.filemaker.com/company/legal/privacy.html) for the most accurate reproduction.*
 
 # Legal: FileMaker Customer Privacy Policy
 
@@ -57,7 +57,9 @@ In some of our email messages, we use a "click-through URL" linked to content on
 
 Pixel tags enable us to send email messages in a format customers can read, and they tell us whether mail has been opened. We may use this information to reduce or eliminate messages sent to customers. 
 
-Learn more about [FileMaker's use of cookies](https://web.archive.org/company/legal/cookies.html). 
+Learn more about [FileMaker's use of cookies](https://web.archive.org/company/legal/cookies.html).
+
+Learn more about [Do Not Track Signals](https://web.archive.org/web/20150621162436id_/http%3A//www.filemaker.com/company/legal/do-not-track).
 
 ### Disclosure to Third Parties
 
