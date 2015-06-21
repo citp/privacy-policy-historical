@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the darveys.com privacy policy that was archived on 2014-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140901101319id_/http%3A//www.darveys.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the darveys.com privacy policy that was archived on 2015-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150621053252id_/http%3A//www.darveys.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
