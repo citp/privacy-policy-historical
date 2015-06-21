@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aclens.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122151750id_/http%3A//www.aclens.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aclens.com privacy policy that was archived on 2015-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150621030029id_/http%3A//www.aclens.com/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -72,6 +72,18 @@ All transactions occur through our Secure Server, protected by a Verisign® Secu
 
 Top
 
+## California Transparency in Supply Chains Act
+
+The California Transparency in Supply Chains Act of 2010 requires that applicable manufacturers and retailers such as AC Lens disclose their efforts to eradicate slavery and human trafficking from the supply chain.
+
+AC Lens is committed to conducting business in accordance with ethical, legal and socially responsible rules and principles. These standards and commitments are outlined in the Company's Code of Conduct (the Code) which every AC Lens Associate is trained on upon hire and is distributed annually during the course of their employment. Consistent with the Code, we respect the personal dignity of every individual and comply with all applicable human rights laws. Failure to comply with the standards of the Code subjects violators, regardless of position, to disciplinary action up to and including termination of employment.
+
+With respect to our supply chain partners, we expect the same commitment to high ethical standards and compliance with applicable laws, as detailed in the Code. AC Lens monitors the standards of our supply chain partners for quality, safety and employment standards by conducting annual scheduled on-site audits of our major vendors and laboratory manufacturers. When entering into written contracts with suppliers, AC Lens requires suppliers to comply with all applicable laws which include those that prohibit slavery and human trafficking. Failure to comply with all applicable laws subjects supplier to breach and possible termination of contract.
+
+At this time AC Lens does not engage independent auditors or require separate verifications/certifications from its suppliers relating to human trafficking and slavery. While AC Lens believes it conducts its business with suppliers that maintain high ethical standards, we are continuously evaluating additional programs as it relates to combating the tragedy of human trafficking and slavery. 
+
+Top
+
 ## TRUSTe Privacy Program
 
 [](https://privacy.truste.com/privacy-seal/Arlington-Contact-Lens-Service,-Inc/validation?rid=27cd68a3-14fa-4429-bf0d-44dc7f8804dc "TRUSTe online privacy certification")
@@ -88,6 +100,6 @@ We will retain your information for as long as your account is active or as need
 
 If you have additional questions about the privacy of your information, please contact AC Lens at [service@aclens.com](mailto:service@aclens.com) or call us at **1-888-248-5367**. 
 
-Last Updated on: 7/3/2014
+Last Updated on: 4/24/2015
 
 If we decide to change our privacy policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our homepage prior to the change becoming effective. 
