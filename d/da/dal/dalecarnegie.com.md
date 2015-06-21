@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dalecarnegie.com privacy policy that was archived on 2014-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141207085335id_/http%3A//www.dalecarnegie.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dalecarnegie.com privacy policy that was archived on 2015-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150621162739id_/http%3A//www.dalecarnegie.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy-Privacy Policy-Disclosure|Dale Carnegie
 
