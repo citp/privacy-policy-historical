@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the indochino.com privacy policy that was archived on 2014-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140704030243id_/http%3A//www.indochino.com/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indochino.com privacy policy that was archived on 2015-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150621222505id_/http%3A//www.indochino.com/help/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Last updated: Dec 30, 2009 
+Last updated: April 29, 2015 
 
 Indochino Apparel Inc. ("Indochino") is committed to protecting the privacy rights of visitors to [www.indochino.com](http://www.indochino.com/) Indochino knows that you care how information about you is used and shared, and we appreciate your trust.
 
@@ -22,7 +22,7 @@ By accessing, browsing or otherwise using this Website, you confirm that you hav
 
 ## Who We Are __
 
-Indochino is the pioneer and global leader in online customs suits, and the only retail company that will pay for all your alterations. With an innovative approach, not only do we provide stylish suits in fine fabrics at the best price with the fastest delivery time, we are revolutionizing the way men dress. Read reviews from the customers who love us and learn why Indochino makes the finest custom suits.
+Indochino is the pioneer and global leader in online customs suits. With an innovative approach, not only do we provide stylish suits in fine fabrics at the best price with the fastest delivery time, we are revolutionizing the way men dress. Read reviews from the customers who love us and learn why Indochino makes the finest custom suits.
 
 ## What Information Do We Collect? __
 
@@ -89,7 +89,7 @@ Indochino is very concerned about the privacy and safety of children when they u
 
 ## Policy Update __
 
-We keep our privacy policy under regular review and we will place any updates in this webpage. This privacy policy was last updated on 30th December 2009.
+We keep our privacy policy under regular review and we will place any updates in this webpage. This privacy policy was last updated on 29th April 2015.
 
 ## Your Feedback __
 
