@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indiareviewchannel.com privacy policy that was archived on 2014-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141126073943id_/http%3A//www.indiareviewchannel.com/general/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indiareviewchannel.com privacy policy that was archived on 2015-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150621170223id_/http%3A//www.indiareviewchannel.com/general/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # IndiaReviewChannel.com privacy policy
 
@@ -31,8 +31,4 @@ We use advertisements from third party companies. We try to avoid any kind of of
 As we continue to develop and grow our web site, we may sell IndiaReviewChannel.com or part of it. In such transactions, member information generally is one of the transferred business assets. 
 
   
-| 
 
-**Awards & Gifts**  
-  
----|---
