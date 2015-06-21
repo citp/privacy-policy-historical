@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the replayphotos.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625135421id_/http%3A//www.replayphotos.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the replayphotos.com privacy policy that was archived on 2015-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150621155342id_/http%3A//www.replayphotos.com/privacy.cfm) for the most accurate reproduction.*
 
-# Picture.com: Privacy Policy
+# Replay Photos: Privacy Policy
 
 **Lulu Privacy Policy**
 
-Lulu Press, Inc. ("Lulu," "we," "us") respects your privacy, including the privacy of your personal information. This Privacy Policy explains what information we collect through our website at [www.Picture.com](http://www.picture.com/), [www.replayphotos.com](http://www.replayphotos.com/) and [www.lulu.com](http://www.lulu.com/) (the "Site") and our other services, and how we use this information to provide outstanding service to you. By accessing and using the Site or other services owned and/or operated by Lulu, you agree to the terms and conditions of this Privacy Policy. If you do not agree to the terms and conditions of this Privacy Policy, do not use the Site. If you feel that Lulu is not abiding by this Privacy Policy, you should contact us. Lulu's offices are located at 3101 Hillsborough Street, Raleigh, NC 27607. We will do our best to resolve your inquiry.
+Lulu Press, Inc. ("Lulu," "we," "us") respects your privacy, including the privacy of your personal information. This Privacy Policy explains what information we collect through our website at [www.replayphotos.com](http://www.replayphotos.com/), [www.Picture.com](http://www.picture.com/)and [www.lulu.com](http://www.lulu.com/) (the "Site") and our other services, and how we use this information to provide outstanding service to you. By accessing and using the Site or other services owned and/or operated by Lulu, you agree to the terms and conditions of this Privacy Policy. If you do not agree to the terms and conditions of this Privacy Policy, do not use the Site. If you feel that Lulu is not abiding by this Privacy Policy, you should contact us. Lulu's offices are located at 3101 Hillsborough Street, Raleigh, NC 27607. We will do our best to resolve your inquiry.
 
-REVISED: February 6, 14 
+REVISED: August 20, 14
 
 **1\. Information Collected Through Our Site**
 
@@ -61,7 +61,7 @@ We gather two basic types of information through the Site: personally identifiab
 
 **4\. Protecting Your Content**
 
-Picture.com is designed to give you the ability to control who may access the Content and any associated information stored in your Lulu account. We seek not to make your Content publicly accessible, except by your explicit action, or as otherwise noted in this Privacy Policy (including in Section 3 of this Privacy Policy). In order to provide quality products, the Lulu employees and third-party service providers fulfilling your order or providing Customer Support to you may see your Content.
+Replayphotos.com is designed to give you the ability to control who may access the Content and any associated information stored in your Lulu account. We seek not to make your Content publicly accessible, except by your explicit action, or as otherwise noted in this Privacy Policy (including in Section 3 of this Privacy Policy). In order to provide quality products, the Lulu employees and third-party service providers fulfilling your order or providing Customer Support to you may see your Content.
 
 **5\. Updating Your Personal Information**
 
@@ -69,7 +69,7 @@ Lulu will make an effort to keep all your Personal Information up to date when y
 
 **6\. Opt-Out**
 
-You may unsubscribe to our notification services through your account profile on the Picture.com site. From time to time Lulu may share Personal Information with affiliates or third parties to allow them to contact you regarding products, programs, services and promotions that we believe may be of interest to you. If you would prefer that we do not share your Personal Information with affiliates and/or third parties for such affiliates' and/or third parties' direct marketing purposes, you may submit an opt-out request in your account profile. We will comply with your request as soon as reasonably practicable. Please note that we will not be able to remove your Personal Information from the databases of affiliates or third parties with which we have already shared your Personal Information as of the date that we implement your opt-out request. If you wish to cease receiving marketing-related e-mails from any such affiliates or third parties, please contact the affiliate or third party directly or use any opt-out mechanisms provided in its marketing-related e-mails or privacy policy.
+You may unsubscribe to our notification services through your account profile on the Replayphotos.com site. From time to time Lulu may share Personal Information with affiliates or third parties to allow them to contact you regarding products, programs, services and promotions that we believe may be of interest to you. If you would prefer that we do not share your Personal Information with affiliates and/or third parties for such affiliates' and/or third parties' direct marketing purposes, you may submit an opt-out request in your account profile. We will comply with your request as soon as reasonably practicable. Please note that we will not be able to remove your Personal Information from the databases of affiliates or third parties with which we have already shared your Personal Information as of the date that we implement your opt-out request. If you wish to cease receiving marketing-related e-mails from any such affiliates or third parties, please contact the affiliate or third party directly or use any opt-out mechanisms provided in its marketing-related e-mails or privacy policy.
 
 **7\. Security**
 
@@ -77,7 +77,7 @@ Lulu seeks to have reasonable security measures in place to help protect against
 
 **8\. Protecting the Privacy of Children**
 
-Our Site is not intended for use by children under the age of 13 and is not directed at such children. We do not knowingly collect Personal Information from children under the age of 13. Please do not register at Picture.com if you are under the age of 13.
+Our Site is not intended for use by children under the age of 13 and is not directed at such children. We do not knowingly collect Personal Information from children under the age of 13. Please do not register at Replayphotos.com if you are under the age of 13.
 
 **9\. Third Party Sites**
 
