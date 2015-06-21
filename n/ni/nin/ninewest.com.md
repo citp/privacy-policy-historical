@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ninewest.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231014457id_/http%3A//www.ninewest.com/Privacy/PRIVACY%2Cdefault%2Cpg.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ninewest.com privacy policy that was archived on 2015-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150622004237id_/http%3A//www.ninewest.com/Privacy/PRIVACY%2Cdefault%2Cpg.html) for the most accurate reproduction.*
 
-# Shoes for Women | Handbags for Women | Nine West
+# Shoes & Handbags for Women | Nine West
 
 This ninewest.com web site is a service of JAG Footwear, Accessories and Retail Corporation.
 
@@ -65,5 +65,5 @@ While you are using this website, you may be linked or directed to other third p
 We welcome your comments regarding this privacy policy. Please send any concerns to: 
 
 Nine West Customer Relations Privacy Policy  
-1129 Westchester Avenue  
-White Plains, NY 10604 
+1411 Broadway  
+New York, NY 10018 
