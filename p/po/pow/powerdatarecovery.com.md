@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the powerdatarecovery.com privacy policy that was archived on 2014-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141229232255id_/http%3A//www.powerdatarecovery.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the powerdatarecovery.com privacy policy that was archived on 2015-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150621073300id_/http%3A//www.powerdatarecovery.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy policy of MiniTool Solution Ltd.
-
-### Privacy
 
 [MiniTool Solution Ltd.](http://www.minitool.ca/) is committed to protecting your privacy. We will only collect your personal information for defined purposes. We do not distribute or share your personal information beyond what is strictly necessary to fulfill our obligations to you. We may share your information only with partners who adhere to MiniTool Solution Ltd.'s commitment to protecting your privacy. MiniTool Solution Ltd. will not sell your personal information in any manner whatsoever. 
 
