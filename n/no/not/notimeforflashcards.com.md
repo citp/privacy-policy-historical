@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the notimeforflashcards.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626171249id_/http%3A//www.notimeforflashcards.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the notimeforflashcards.com privacy policy that was archived on 2015-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150621094411id_/http%3A//www.notimeforflashcards.com/privacy) for the most accurate reproduction.*
 
 # Privacy - No Time For Flash Cards
 
@@ -31,3 +31,5 @@ If you wish to disable cookies, you may do so through your individual browser op
 We reserve the right to change this policy at any time without notice.
 
 [ ](https://www.linksalpha.com/social/mobile)
+
+[](https://www.pinterest.com/pin/create/button/?url=http%3A%2F%2Fwww.notimeforflashcards.com%2Fprivacy&media=&description=Privacy)
