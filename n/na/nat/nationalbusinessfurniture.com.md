@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nationalbusinessfurniture.com privacy policy that was archived on 2014-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141221143418id_/http%3A//www.nationalbusinessfurniture.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationalbusinessfurniture.com privacy policy that was archived on 2015-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150621043315id_/http%3A//www.nationalbusinessfurniture.com/Privacy.aspx) for the most accurate reproduction.*
 
 # National Business Furniture Privacy Policy
 
@@ -20,7 +20,7 @@ If you enter your credit card information to purchase items from NBF.com, that i
 
 We protect our databases using numerous physical, technical and procedural measures and restrict access to your information by unauthorized persons. Our information systems are preserved behind a software firewall to separate them from access by other networks connected to the Internet. All information transmitted through NBF.com is maintained on our secure server. Secure Sockets Layer (SSL) technology is the electronic commerce standard for securing information as it is sent over the Internet. SSL technology is formulated to encrypt your information, and thus prevent an unauthorized party from viewing and downloading this material. Your web browser should display a web address with an "https" prefix, signifying that the SSL technology is functioning when using specific portions of our site (such as the checkout process). 
 
-You can click on the VeriSign logo below to verify that our SSL Certificate is valid. 
+You can click on the Norton Secured logo below to verify that our SSL Certificate is valid. 
 
      
 
