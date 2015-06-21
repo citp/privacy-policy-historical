@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the proswimwear.co.uk privacy policy that was archived on 2014-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141207132926id_/http%3A//www.proswimwear.co.uk/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the proswimwear.co.uk privacy policy that was archived on 2015-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150621184347id_/http%3A//www.proswimwear.co.uk/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -74,7 +74,7 @@ CUSTOMER_AUTH | An indicator if you are currently logged into the store.
 CUSTOMER_INFO | An encrypted version of the customer group you belong to.  
 CUSTOMER_SEGMENT_IDS | Stores the Customer Segment ID  
 EXTERNAL_NO_CACHE | A flag, which indicates whether caching is disabled or not.  
-FRONTEND | You sesssion ID on the server.  
+FRONTEND | Your session ID on the server.  
 GUEST-VIEW | Allows guests to edit their orders.  
 LAST_CATEGORY | The last category you visited.  
 LAST_PRODUCT | The most recent product you have viewed.  
@@ -89,4 +89,8 @@ STORE | The store view or language you have selected.
 USER_ALLOWED_SAVE_COOKIE | Indicates whether a customer allowed to use cookies.  
 VIEWED_PRODUCT_IDS | The products that you have recently viewed.  
 WISHLIST | An encrypted list of products added to your Wishlist.  
-WISHLIST_CNT | The number of items in your Wishlist.
+WISHLIST_CNT | The number of items in your Wishlist.  
+  
+## Google Remarketing
+
+DoubleClick: We use Google remarketing codes to log when users view specific pages or take specific actions on our website. This allows us to provide targeted advertising in the future. If you do not wish to receive this type of advertising from us in the future you can opt out using the DoubleClick opt-out page or the Network Advertising Initiative opt-out page.
