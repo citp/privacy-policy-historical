@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kuow.org privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121003157id_/http%3A//kuow.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kuow.org privacy policy that was archived on 2015-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150621151839id_/http%3A//kuow.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | KUOW News and Information
 
@@ -6,7 +6,7 @@ We respect the privacy rights of all visitors to our website. The following info
 
 _Are you tracking my visit?_
 
-You browse KUOW's website anonymously. KUOW tracks overall traffic patterns and links clicked on our communications using Google Analytics and web cookies. We use this information to gauge public interest and to help us serve you better.
+You browse KUOW's website anonymously. KUOW tracks overall traffic patterns and links clicked on our communications using Google Analytics and Web cookies. We use this information to gauge public interest and to help us serve you better.
 
 _How will information submitted to KUOW's site be used?_
 
@@ -18,4 +18,4 @@ KUOW.org is a VeriSign Secure Site. All information sent to this site is encrypt
 
 _Contact KUOW_
 
-Thank you for your interest in KUOW and for visiting our Website. For more information about our privacy policies, please email webstaff@kuow.org.
+Thank you for your interest in KUOW and for visiting our website. For more information about our privacy policies, please email webstaff@kuow.org.
