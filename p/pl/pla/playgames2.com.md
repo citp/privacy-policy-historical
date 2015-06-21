@@ -1,11 +1,9 @@
-> *The following text is extracted and transformed from the playgames2.com privacy policy that was archived on 2014-08-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140802170842id_/http%3A//www.playgames2.com/index.php%3Fpageid%3D8) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the playgames2.com privacy policy that was archived on 2015-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150621195729id_/http%3A//www.playgames2.com/index.php%3Fpageid%3D8) for the most accurate reproduction.*
 
-# PLAY GAMES 2 - Privacy Policy
+# Privacy Policy
 
   
 
-
-## Privacy Policy
 
 **W** e have created this privacy statement in order to demonstrate our firm and continuing commitment to the privacy of personal information provided by those visiting and interacting with this web site. We hold the privacy of your personal information in the highest regard. The following discloses our information gathering and dissemination practices for this website.
 
