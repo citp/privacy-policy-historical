@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the gamblingsites.com privacy policy that was archived on 2014-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141226055651id_/http%3A//www.gamblingsites.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamblingsites.com privacy policy that was archived on 2015-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150621222958id_/http%3A//www.gamblingsites.com/privacy-policy) for the most accurate reproduction.*
 
 # GamblingSites.com Privacy Policy
 
-At GamblingSites.com we care about and respect the privacy of our users. When you access this website we will learn certain information about you, and we are committed to keeping all information private. This privacy policy details exactly how we handle any information that we have about our users. The following definitions apply.
+At GamblingSites.com we care about and respect the privacy of our users. When you access this website we’ll learn certain information about you, and we are committed to keeping all information private. This privacy policy details exactly how we handle any information that we have about our users. The following definitions apply.
 
   * http://www.gamblingsites.com – the “Site”
   * The owners of http://www.gamblingsites.com – the “Owners”
@@ -14,11 +14,11 @@ At GamblingSites.com we care about and respect the privacy of our users. When yo
 
 This Privacy Policy sets out the terms for how the site and/or the owners collects information from users and how that information is used.
 
-This Privacy Policy does not relate to how any third-party websites that may be linked from the collect and use will use the user information.
+This Privacy Policy doesn’t relate to how any third-party websites that may be linked from our pages will use the user information.
 
 **2\. Non-Personal Information**
 
-Certain non-personal information is collected and stored when users visit the site. This includes the browser being used, the type of computer being used, the domain being used, the date and time of access and other technical information. This information may collectively be used to analyze traffic to the site but is not linked in any way to individual users accessing the site.
+Certain non-personal information is collected and stored when users visit the site. This includes the browser being used, the type of computer being used, the domain being used, the date and time of access, and other technical information. This information may collectively be used to analyze traffic to the site, but it’s not linked in any way to individual users accessing the site.
 
 **3\. Personal Information**
 
@@ -30,7 +30,7 @@ Neither the site nor the owners will sell or disclose any personal information t
 
 **5\. Cookies**
 
-The site may use cookies for the purposes of improving user experience, tracking traffic coming from other websites and tracking traffic leaving to other websites. Cookies are not linked in any way to individual users accessing the site.
+The site may use cookies for the purposes of improving user experience, tracking traffic coming from other websites, and tracking traffic leaving to other websites. Cookies aren’t linked in any way to individual users accessing the site.
 
 **6\. Acceptance of Privacy Policy**
 
@@ -38,7 +38,7 @@ By using the site all users agree to accept the terms of this Privacy Policy.
 
 **7\. Questions Relating to Privacy Policy**
 
-If you as the user have any questions relating to these terms you may contact the site. Details of how to contact the site can be found on the following page – [Contact Us](http://www.gamblingsites.com/contact/).
+If you as the user have any questions relating to these terms you may contact the site. Details of how to contact the site can be found on the following page: [Contact Us](http://www.gamblingsites.com/contact/).
 
 **8\. Updating and Amending of Privacy Policy**
 
