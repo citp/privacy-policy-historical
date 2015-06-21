@@ -1,10 +1,11 @@
-> *The following text is extracted and transformed from the learningstrategies.com privacy policy that was archived on 2014-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141208064545id_/http%3A//www.learningstrategies.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the learningstrategies.com privacy policy that was archived on 2015-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150621160717id_/http%3A//learningstrategies.com/privacy.asp) for the most accurate reproduction.*
 
 # Learning Strategies | Privacy Policy
 
 Privacy Policy 
 
-Effective Date of Current Policy: August 21, 2008
+Effective Date of Current Policy: March 26, 2015  
+
 
 This is how we will handle information we learn about you from your visit to our website. It is based on how all of us at Learning Strategies Corporation want to be treated when we visit other websites. 
 
@@ -12,9 +13,11 @@ The information we receive depends upon what you do when visiting our site.
 
 If you visit our site to read or download information: 
 
-We collect and store only the following information about you: the name of the domain from which you access the Internet (for example, aol.com, if you are connecting from an America Online account, or princeton.edu if you are connecting from Princeton University's domain); the date and time you access our site; and the Internet address of the website from which you linked directly to our site. 
+We collect and store the following information: the name of the domain from which you access the Internet (for example, yahoo.com, if you are connecting from a Yahoo.com account, or princeton.edu if you are connecting from Princeton University's domain); the date and time you access our site; and the Internet address of the website from which you linked directly to our site. 
 
 We use the information we collect to measure the number of visitors to the different sections of our site, and to help us make our site more useful. 
+
+In some instances we use cookies to advertise online through third-party vendors, including Google and Facebook, to show our ads on sites across the Internet. These third-party vendors use cookies to serve ads based on someone's past visits to our website. You can opt out of Google's use of cookies by visiting [Google's Ads Settings](http://www.google.com/settings/ads). 
 
 If you identify yourself by sending an email or ordering from our site: 
 
