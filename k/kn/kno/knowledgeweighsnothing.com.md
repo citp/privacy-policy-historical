@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the knowledgeweighsnothing.com privacy policy that was archived on 2014-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141126094605id_/http%3A//knowledgeweighsnothing.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the knowledgeweighsnothing.com privacy policy that was archived on 2015-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150621232531id_/http%3A//knowledgeweighsnothing.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy/Disclosure |
+# Privacy Policy/Disclosure
 
 ## What is this Privacy Policy/Disclosure for?
 
