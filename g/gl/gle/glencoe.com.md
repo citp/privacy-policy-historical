@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the glencoe.com privacy policy that was archived on 2014-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140908224435id_/http%3A//mheonline.com/pages/display/privacynotice_view) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the glencoe.com privacy policy that was archived on 2015-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150621212201id_/http%3A//mheonline.com/pages/display/privacynotice_view) for the most accurate reproduction.*
 
 # McGraw-Hill Education PreK-12
 
