@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the contentreserve.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702051154id_/http%3A//company.overdrive.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the contentreserve.com privacy policy that was archived on 2015-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150621232508id_/http%3A//company.overdrive.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | OverDrive - Global distributor of digital eBooks, audiobooks, music & video for library, school & retail
 
@@ -12,29 +12,27 @@ We will continue to evaluate this Privacy Policy against new technologies, busin
 
 ### What is “Personal Information”?
 
-“Personal Information” describes information that can be associated with a specific user and used to identify that person, such as your name, email address, birthday, gender, location information, etc. Personal Information may be submitted by you in your interaction with OverDrive’s Services. Other information, that is not personally identifiable, may be collected automatically by visiting and/or using our Services.
+“Personal Information” describes information that can be associated with a specific user and used to identify that person, for example, full name (first and last); a home or other physical address including street name and city or town; telephone number; or online contact information such as an email address or screen name. Personal Information may be submitted by you in your interaction with the Services. Other information, that is not Personal Information, may be collected automatically by visiting and/or using our Services.
 
 ### Why does OverDrive collect information?
 
-OverDrive collects Personal Information and other information to improve the manner by which OverDrive operates and offers its products and Services and to improve how OverDrive communicates with you about those products and Services. To see OverDrive’s policy regarding the collection of information from children who are under 13 years old, [please click here to read OverDrive’s Privacy Policy for Children](https://web.archive.org/education/k-12-schools/privacy-policy-for-children/ "Privacy Policy for Children").
+OverDrive collects Personal Information and other information to improve the manner by which OverDrive operates and offers its products and Services and to improve how OverDrive communicates with you about those products and Services. To see OverDrive’s policy regarding the collection of Personal Information for an OverDrive Account, [please click here to read the OverDrive Account Privacy Policy.](https://www.overdrive.com/fine-print/account-privacy-policy) To see OverDrive’s policy regarding the collection of information from children who are under 13 years old, [please click here to read OverDrive’s Privacy Policy for Children](http://company.overdrive.com/education/k-12-schools/privacy-policy-for-children/). 
 
 ### How does OverDrive protect your Personal Information?
 
-OverDrive takes information security very seriously. We have implemented measures to protect against the loss, misuse, and alteration of your Personal Information. Any Personal Information that we collect is protected by physical, electronic, and procedural safeguards to prevent unauthorized disclosure. We encrypt the transmission of sensitive data we collect from visitors of our Services using secure sockets layer (SSL) technology. We use computer safeguards such as firewalls and data encryption and physical access controls to our buildings and files. We authorize access to Personal Information only for those employees who require it to fulfill their job responsibilities.
+OverDrive takes information security very seriously. We have implemented measures to protect against the loss, misuse, and alteration of your Personal Information. Any Personal Information that we collect is protected by physical, electronic, and procedural safeguards to prevent unauthorized disclosure. We encrypt the transmission of sensitive data we collect from visitors of our Services using secure sockets layer (SSL) technology. We use computer safeguards such as firewalls and data encryption and physical access controls to our buildings and files. We authorize access to Personal Information only for those employees who require it to fulfill their job responsibilities. 
 
-OverDrive does not guarantee error-free performance under this Privacy Policy. OverDrive will use commercially reasonable efforts to comply with this Privacy Policy and will take prompt corrective action if OverDrive learns of any failure to comply with it. OverDrive shall not be liable for any incidental, indirect, consequential or punitive damages or for loss of profit or opportunity, loss of use or other financial loss arising out of or relating to this Privacy Policy.
+OverDrive does not guarantee error-free performance under this Privacy Policy. OverDrive will use commercially reasonable efforts to comply with this Privacy Policy and will take prompt corrective action if OverDrive learns of any failure to comply with it. OverDrive shall not be liable for any incidental, indirect, consequential or punitive damages or for loss of profit or opportunity, loss of use or other financial loss arising out of or relating to this Privacy Policy. 
 
 ### What information does OverDrive collect?
 
-We may collect certain information about your interactions with us and information related to you and your use of our Services, including but not limited to, Personal Information, your online activity, digital content selections, reviews and ratings, as well as Internet Protocol addresses, device types, unique device data, such as device identifiers, and operating systems.
-
-Personal Information remains anonymous unless you explicitly identify yourself to us by creating and using an account with OverDrive and/or otherwise consenting to the sharing of information with us. Please be aware that some of our Services cannot be offered unless you identify yourself to us.
+We may collect certain information about your interactions with us and information related to you and your use of our Services, including but not limited to, Personal Information, your online activity, digital content selections, reviews and ratings, as well as Internet Protocol addresses, device types, unique device data, such as device identifiers, and operating systems. 
 
 ### Does OverDrive use “cookies” to collect information?
 
-Yes, when you view one of our websites, we may store some data on your computer in the form of a “cookie” to automatically recognize your device the next time you visit. Cookies allow us to improve your browsing experience in many ways.
+Yes, when you view one of our websites, we may store some data on your computer in the form of a “cookie” to automatically recognize your device the next time you visit. Cookies allow us to improve your browsing experience in many ways. 
 
-Some examples of how we use cookies include:
+Some examples of how we use cookies include: 
 
   * Keeping track of cart items;
   * Storing your password when browsing related websites during a single session;
@@ -48,7 +46,7 @@ Some examples of how we use cookies include:
 
 
 
-OverDrive may also use cookies on our websites that are supplied by third parties providing services for OverDrive. For more information on third party cookies, please [click here](https://web.archive.org/web/20140702051154id_/http://company.overdrive.com/privacy-policy/third-party-cookies). If you do not wish to receive cookies, please configure your Internet browser to erase all cookies from your computer’s hard drive, block all cookies or to receive a warning before a cookie is stored. If you choose to remove cookies or reject cookies, this could affect your ability to use or access some of our Services.
+OverDrive may also use cookies on our websites that are supplied by third parties providing services for OverDrive. For more information on third party cookies, please [click here](http://company.overdrive.com/third-party-cookies/). If you do not wish to receive cookies, please configure your Internet browser to block all cookies and erase all cookies from your computer’s hard drive. If you choose to block cookies or remove cookies, this could affect your ability to use or access some of our Services. 
 
 ### Does OverDrive use tracking technology?
 
@@ -62,7 +60,7 @@ Examples of information OverDrive tracks include, but are not limited to:
 
 
 
-OverDrive uses Google Analytics to track usage of its Services. For more information on Google Analytics, please visit <http://www.google.com/analytics/>.
+OverDrive uses Google Analytics, including the Google Analytics Demographics and Interest Reporting feature, and other software to track usage of its Services. For more information on Google Analytics, please visit <http://www.google.com/analytics/>. You can opt out of Google Analytics for Display Advertising and customize Google Display Network ads using the Ads Settings [(https://www.google.com/settings/u/0/ads)](https://www.google.com/settings/u/0/ads).
 
 ### How does OverDrive use information?
 
@@ -111,4 +109,4 @@ OverDrive complies with the U.S. – EU Safe Harbor Framework and the U.S. – S
 
 If you have questions or concerns regarding this Privacy Policy, please contact OverDrive via email at [privacy@overdrive.com](mailto:privacy@overdrive.com).
 
-This Privacy Policy is effective as of September 2012.
+This Privacy Policy is effective as of April 2015.
