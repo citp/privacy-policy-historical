@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the robotokyo.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230114912id_/http%3A//robotokyo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the robotokyo.com privacy policy that was archived on 2015-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150621222146id_/http%3A//robotokyo.com/privacy-policy) for the most accurate reproduction.*
 
 # RoboTokyo - Privacy Policy
 
@@ -26,7 +26,7 @@ Robotokyo may provide links from our Web sites to third party Web sites. We stro
 
 ## ADVERTISEMENTS ON ROBOTOKYO
 
-Robotokyo allows the use of advertising on Robotokyo.com by third party advertisers. Some of these advertising partners use cookies or similar technologies to better measure their campaign effectiveness, to target future campaigns and to better deliver a targeted experience to users. Advertisers must comply with personal data guidelines. All advertisers are instructed by Robotokyo not to display ads with sexual, violent or drug & alcohol related themes as well as anything that would be considered objectionable by societal norms. Should you find an inappropriate or offensive advertisement on Robotokyo, please notify us by emailing [contact@robotokyo.com](mailto:contact@robotokyo.com). Additionally, third parties may collect certain types of information about your visits to Robotokyo, including how you interact with the content on Robotokyo.
+Robotokyo allows the use of advertising on Robotokyo.com by third party advertisers. Some of these advertising partners use cookies or similar technologies to better measure their campaign effectiveness, to target future campaigns and to better deliver a targeted experience to users. Advertisers must comply with personal data guidelines. All advertisers are instructed by Robotokyo not to display ads with sexual, violent or drug & alcohol related themes as well as anything that would be considered objectionable by societal norms. Should you find an inappropriate or offensive advertisement on Robotokyo, please notify us by emailing [contactus@robotokyo.com](mailto:contactus@robotokyo.com) . Additionally, third parties may collect certain types of information about your visits to Robotokyo, including how you interact with the content on Robotokyo.
 
 For more information about best practices in Network Advertising, see [NAI code of conduct](http://www.networkadvertising.org/2013_Principles.pdf).
 
@@ -36,7 +36,7 @@ Some of the advertisements may be served by Google. Google’s use of the DART c
 
 ## GENERAL
 
-By using this site, you signify your assent to the Robotokyo.com Online Privacy Policy. If you do not agree to this Privacy Policy, please do not use this site. We reserve the right to make changes to this Privacy Policy. Please check the updates regularly so you are updated on these changes. Your continued use of this site will signify your acceptance. Our goal is that you have a great experience and we continue to deliver great content to you on Robotokyo. If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, feel free to approach us on [contact@robotokyo.com](mailto:contact@robotokyo.com).
+By using this site, you signify your assent to the Robotokyo.com Online Privacy Policy. If you do not agree to this Privacy Policy, please do not use this site. We reserve the right to make changes to this Privacy Policy. Please check the updates regularly so you are updated on these changes. Your continued use of this site will signify your acceptance. Our goal is that you have a great experience and we continue to deliver great content to you on Robotokyo. If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, feel free to approach us on [contactus@robotokyo.com](mailto:contactus@robotokyo.com) .
 
 [Robotokyo.com](http://robotokyo.com/)
 
