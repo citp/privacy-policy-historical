@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the commonlit.org privacy policy that was archived on 2014-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141225202013id_/http%3A//www.commonlit.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the commonlit.org privacy policy that was archived on 2015-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150621024421id_/http%3A//www.commonlit.org/privacy.html) for the most accurate reproduction.*
 
-# CommonLit
+# Commonlit
 
 Welcome to the CommonLit website, www.commonlit.org (the "Site"). The terms "CommonLit", "we", "us", and "our" refer to CommonLit, Inc. Your privacy is important to us and we are committed to respecting that privacy. This statement describes CommonLit's privacy practices for our Site, including what type of information is gathered and tracked, how the information is used, and with whom the information is shared.
 
