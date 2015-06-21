@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the windstreamonline.com privacy policy that was archived on 2014-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141223084232id_/http%3A//www.windstream.com/About-Us/Privacy-Policy-page) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the windstreamonline.com privacy policy that was archived on 2015-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150621093546id_/http%3A//www.windstream.com/About-Us/Privacy-Policy-page) for the most accurate reproduction.*
 
 # Privacy Policy | Digital TV | Home Phone | Windstream
 
@@ -7,6 +7,8 @@
 Privacy Statement
 
 Updated: February 2012
+
+The terms of this policy do not apply to any wholesale carrier arrangement with Windstream.
 
 This Privacy Statement describes how Windstream and its affiliates collects information from or about you, either as a customer or visitor to any Windstream website, when you order services from us, how we use the information we collect and the choices you have concerning the collection and use of such information. The goal of this Statement is to ensure that your Windstream experience is secure so that you may use our products and services with complete confidence. Please review this Statement carefully.
 
