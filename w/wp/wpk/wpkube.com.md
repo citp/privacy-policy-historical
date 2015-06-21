@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wpkube.com privacy policy that was archived on 2014-07-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140714135254id_/http%3A//www.wpkube.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wpkube.com privacy policy that was archived on 2015-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150621113551id_/http%3A//www.wpkube.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - WPKube
 
