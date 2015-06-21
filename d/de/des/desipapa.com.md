@@ -1,11 +1,6 @@
-> *The following text is extracted and transformed from the desipapa.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120111719id_/http%3A//www.desipapa.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the desipapa.com privacy policy that was archived on 2015-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150621054656id_/http%3A//desipapa.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
-
-YellowPlum Ltd.  
-Stasikratous, 16,   
-1065, Nicosia  
-Cyprus
 
 We can be reached via e-mail at [ support@247mg.com](mailto:support@247mg.com)
 
