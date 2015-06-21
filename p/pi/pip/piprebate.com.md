@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the piprebate.com privacy policy that was archived on 2014-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140925094633id_/http%3A//piprebate.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the piprebate.com privacy policy that was archived on 2015-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150621075517id_/https%3A//www.piprebate.com/privacypolicy.aspx) for the most accurate reproduction.*
 
 # PipRebate Ltd company Privacy Policy | PipRebate.com
 
