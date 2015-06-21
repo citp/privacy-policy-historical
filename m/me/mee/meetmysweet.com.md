@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the meetmysweet.com privacy policy that was archived on 2014-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140819194621id_/http%3A//www.meetmysweet.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the meetmysweet.com privacy policy that was archived on 2015-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150621123607id_/http%3A//www.meetmysweet.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
