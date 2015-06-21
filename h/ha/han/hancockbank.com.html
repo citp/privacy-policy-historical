@@ -1,7 +1,8 @@
-<!--The following is the downloaded HTML source of the hancockbank.com privacy policy that was archived on 2014-04-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140416232151id_/http%3A//www.hancockbank.com/home/privacy-policy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the hancockbank.com privacy policy that was archived on 2015-06-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150621113001id_/https%3A//www.hancockbank.com/home/privacy-policy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><!-- InstanceBegin template="/Templates/home_interior.dwt" codeOutsideHTMLIsLocked="false" --><head>
+
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 
 <meta http-equiv="Pragma" content="no-cache">
@@ -42,66 +43,13 @@ height: 22px;
 </style>
 <![endif]-->
 
-<script language="javascript">
-<!--
-<!-- The section below contains a Function that sets up the links in the upper right hand corner (Enroll - Sign On - Learn More) -->
-<!-- The links below are grouped by what will be selected in the pull-down menu (like Personal e-Banking). Link #1 is for Enroll. Link #2 is for Sign-On. Link #3 is for Learn More.  -->
-<!-- The IDs (areaEnroll, areaSignOn, areaLearn) will be containers for the selected links and be fed into the Map tag further down.  -->
 
-function change_ListMenu(v)
-{
-    //PERSONAL E-BANKING
-	if (document.selection_box.section.options[v].value == "OB")
-	{
-		document.getElementById("areaEnroll").href = "/personal/eBanking/e-banking-enroll.asp";
-		document.getElementById("areaLearn").href = "/personal/ebanking/learn.asp";	
-	}
-
-	//BUSINESS E-BANKING
-	if (document.selection_box.section.options[v].value == "BB")
-	{
-		document.getElementById("areaEnroll").href = "/small-business/eBanking/sb-ebanking-enroll.asp";
-		document.getElementById("areaLearn").href = "/small-business/eBanking/sb-business-e-banking.asp";	
-	}
-
-	//TREASURY SOLUTION
-	if (document.selection_box.section.options[v].value == "CM") window.location.href = "https://www.hwtreasurysolution.com/COLB/";
-
-	//TRUST AND ASSET MANAGEMENT
-	if (document.selection_box.section.options[v].value == "TA") window.location.href = "/home/bump-page-trust.asp";
-
-	//ONLINE TRUST 401K
-	if (document.selection_box.section.options[v].value == "OI") window.location.href = "/home/bump-page-401k.asp";
-
-	//INVESTMENT SERVICES
-	if (document.selection_box.section.options[v].value == "OT") window.location.href = "/home/bump-page-investment.asp";
-
-	//SHAREHOLDER SERVICES
-	if (document.selection_box.section.options[v].value == "SS") window.location.href = "https://www.hancockshareholder.com/hancock/mysignon.asp";
-}
-
-function validateURL()
-{
-    //PERSONAL E-BANKING
-	if (document.selection_box.section.options[document.selection_box.section.selectedIndex].value == "OB")
-	{
-		document.getElementById("areaEnroll").href = "/personal/eBanking/e-banking-enroll.asp";
-		document.getElementById("areaLearn").href = "/personal/ebanking/learn.asp";	
-	}
-
-	//BUSINESS E-BANKING
-	if (document.selection_box.section.options[document.selection_box.section.selectedIndex].value == "BB")
-	{
-		document.getElementById("areaEnroll").href = "/small-business/eBanking/sb-ebanking-enroll.asp";
-		document.getElementById("areaLearn").href = "/small-business/eBanking/sb-business-e-banking.asp";	
-	}
-}
-</script>
 
 <!-- InstanceBeginEditable name="head" -->
 <style type="text/css">
 <!--
 .style1 {font-size: 15px}
+.body_copy_white{color:#ffffff !important;}
 -->
 </style>
 <!-- InstanceEndEditable -->
@@ -118,313 +66,17 @@ function validateURL()
 </script>
 
 <!-- NOTRS - NEW JAVASCRIPT TO HANDLE LOGIN AND FORGOT PASSWORD -->
-<script type="text/javascript" src="/scripts/jquery-1.9.1.min.js"></script>
+
+<script type="text/javascript" src="/js/jquery-1.11.1.min.js"></script>
+<script type="text/javascript" src="/scripts/jquery-migrate-1.2.1.min.js"></script>
 <script type="text/javascript" src="/scripts/jquery.placeholder-enhanced.min.js"></script>
+<script type="text/javascript" src="/js/login-functions.js"></script>
 
 <style>
    .placeholder { color: #aaa; }
 </style>
 
-<script type="text/javascript">
 
-    $(document).ready(function () {
-        $(window).on("load resize", function () {
-            var offset = $(this).width() - 942;
-            offset = offset / 2;
-            offset = offset + 942 - $("#enroll-container").width() - 8;
-            $("#enroll-container").css('left', offset);
-        });
-        $(document).bind('keydown', function (e) {
-            if (e.keyCode == 13) {
-                if (document.getElementById("user").value.length > 0 && document.getElementById("PIN").value.length > 0) handleSignOnClick();
-            }
-        });
-    });
-
-    function handleSignOnClick() {
-
-        if (document.selection_box.section.selectedIndex == 0 || document.selection_box.section.selectedIndex == 1) {
-
-            if (document.getElementById("user").value.length == 0) {
-                alert("User ID cannot be empty. Please try again.");
-                document.getElementById("user").focus(); return; 
-            }
-
-            if (document.getElementById("PIN").value.length == 0) {
-                alert("Password cannot be empty. Please try again.");
-                document.getElementById("PIN").focus(); return; 
-            }
-
-            var form = document.createElement("form");
-
-            //Move the submit function to another variable so that it doesn't get overwritten.
-            form._submit_function_ = form.submit;
-
-            form.setAttribute("name", "frmLogin");
-            form.setAttribute("id", "frmLogin");
-
-            form.setAttribute("method", "POST");
-            form.setAttribute("action", "https://secure.hancockbank.com/SignOn/SignOn.asp");
-
-            var field1 = document.createElement("input");
-            field1.setAttribute("type", "hidden");
-            field1.setAttribute("name", "user");
-            field1.setAttribute("value", document.getElementById("user").value);
-            form.appendChild(field1);
-
-            var field2 = document.createElement("input");
-            field2.setAttribute("type", "hidden");
-            field2.setAttribute("name", "PIN");
-            field2.setAttribute("value", document.getElementById("PIN").value);
-            form.appendChild(field2);
-
-            var field3 = document.createElement("input");
-            field3.setAttribute("type", "hidden");
-            field3.setAttribute("name", "RemoteLogin");
-            field3.setAttribute("value", "true");
-            form.appendChild(field3);
-
-            var field5 = document.createElement("input");
-            field5.setAttribute("type", "hidden");
-            field5.setAttribute("name", "BankFIID");
-            field5.setAttribute("value", "Hancock");
-            form.appendChild(field5);
-
-            var field6 = document.createElement("input");
-            field6.setAttribute("type", "hidden");
-            field6.setAttribute("name", "BankFolder");
-            field6.setAttribute("value", "Hancock");
-            form.appendChild(field6);
-
-            if (document.selection_box.section.selectedIndex == 0) {
-
-                var field4 = document.createElement("input");
-                field4.setAttribute("type", "hidden");
-                field4.setAttribute("name", "ExitURL");
-                field4.setAttribute("value", "https://secure.hancockbank.com/online/Hancock/Consumer/login.asp");
-                form.appendChild(field4);
-
-                var field7 = document.createElement("input");
-                field7.setAttribute("type", "hidden");
-                field7.setAttribute("name", "BrandID");
-                field7.setAttribute("value", "1");
-                form.appendChild(field7);
-
-                var field8 = document.createElement("input");
-                field8.setAttribute("type", "hidden");
-                field8.setAttribute("name", "BrandFolder");
-                field8.setAttribute("value", "Consumer");
-                form.appendChild(field8);
-
-                var field9 = document.createElement("input");
-                field9.setAttribute("type", "hidden");
-                field9.setAttribute("name", "BrandType");
-                field9.setAttribute("value", "R");
-                form.appendChild(field9);
-            }
-
-            else if (document.selection_box.section.selectedIndex == 1) {
-
-                var field4 = document.createElement("input");
-                field4.setAttribute("type", "hidden");
-                field4.setAttribute("name", "ExitURL");
-                field4.setAttribute("value", "https://secure.hancockbank.com/online/Hancock/business/login.asp");
-                form.appendChild(field4);
-
-                var field7 = document.createElement("input");
-                field7.setAttribute("type", "hidden");
-                field7.setAttribute("name", "BrandID");
-                field7.setAttribute("value", "2");
-                form.appendChild(field7);
-
-                var field8 = document.createElement("input");
-                field8.setAttribute("type", "hidden");
-                field8.setAttribute("name", "BrandFolder");
-                field8.setAttribute("value", "Business");
-                form.appendChild(field8);
-
-                var field9 = document.createElement("input");
-                field9.setAttribute("type", "hidden");
-                field9.setAttribute("name", "BrandType");
-                field9.setAttribute("value", "B");
-                form.appendChild(field9);
-            }
-
-            var field10 = document.createElement("input");
-            field10.setAttribute("type", "hidden");
-            field10.setAttribute("name", "UserJavaPlatForm");
-            field10.setAttribute("value", navigator.platform);
-            form.appendChild(field10);
-
-            var field11 = document.createElement("input");
-            field11.setAttribute("type", "hidden");
-            field11.setAttribute("name", "UserJavaBrowser");
-            field11.setAttribute("value", navigator.appName);
-            form.appendChild(field11);
-
-            var field12 = document.createElement("input");
-            field12.setAttribute("type", "hidden");
-            field12.setAttribute("name", "UserJavaVersion");
-            field12.setAttribute("value", navigator.appVersion);
-            form.appendChild(field12);
-
-            var field13 = document.createElement("input");
-            field13.setAttribute("type", "hidden");
-            field13.setAttribute("name", "UserJavaCodeName");
-            field13.setAttribute("value", navigator.appCodeName);
-            form.appendChild(field13);
-
-            var field14 = document.createElement("input");
-            field14.setAttribute("type", "hidden");
-            field14.setAttribute("name", "UserJavaColorDepth");
-            field14.setAttribute("value", window.screen.colorDepth);
-            form.appendChild(field14);
-
-            var field15 = document.createElement("input");
-            field15.setAttribute("type", "hidden");
-            field15.setAttribute("name", "UserJavaColors");
-            field15.setAttribute("value", Math.pow(2, window.screen.colorDepth));
-            form.appendChild(field15);
-
-            var field16 = document.createElement("input");
-            field16.setAttribute("type", "hidden");
-            field16.setAttribute("name", "UserJavaCurrentResolution");
-            field16.setAttribute("value", window.screen.width + "x" + window.screen.height);
-            form.appendChild(field16);
-
-            var field17 = document.createElement("input");
-            field17.setAttribute("type", "hidden");
-            field17.setAttribute("name", "UserJavaMaxResolution");
-            field17.setAttribute("value", window.screen.availWidth + "x" + window.screen.availHeight);
-            form.appendChild(field17);
-
-            var field18 = document.createElement("input");
-            field18.setAttribute("type", "hidden");
-            field18.setAttribute("name", "UserJavaEnabled");
-            field18.setAttribute("value", navigator.javaEnabled() < 1 ? "No" : "Yes");
-            form.appendChild(field18);
-
-            var field19 = document.createElement("input");
-            field19.setAttribute("type", "hidden");
-            field19.setAttribute("name", "UserJavaAAFonts");
-            field19.setAttribute("value", window.screen.fontSmoothingEnabled ? "Yes" : "No");
-            form.appendChild(field19);
-
-            var plugIns = "";
-
-            for (var i = 0; i < navigator.plugins.length; i++) plugIns = plugIns + " " + navigator.plugins[i].name;
-
-            var field20 = document.createElement("input");
-            field20.setAttribute("type", "hidden");
-            field20.setAttribute("name", "UserJavaPlugins");
-            field20.setAttribute("value", plugIns);
-            form.appendChild(field20);
-
-            var field21 = document.createElement("input");
-            field21.setAttribute("type", "hidden");
-            field21.setAttribute("name", "UserJavaUTCOffset");
-            field21.setAttribute("value", new Date().getTimezoneOffset() / 60);
-            form.appendChild(field21);
-
-            document.body.appendChild(form);
-
-            //Call the renamed function.
-            form._submit_function_();
-        }
-    }
-
-    function handleResetPassword() {
-
-        var form = document.createElement("form");
-
-        //Move the submit function to another variable so that it doesn't get overwritten.
-        form._submit_function_ = form.submit;
-
-        form.setAttribute("name", "frmPasswordReset");
-        form.setAttribute("id", "frmPasswordReset");
-
-        form.setAttribute("method", "POST");
-        form.setAttribute("action", "https://secure.hancockbank.com/Signon/FPFrame.asp");
-
-        var field3 = document.createElement("input");
-        field3.setAttribute("type", "hidden");
-        field3.setAttribute("name", "RemoteLogin");
-        field3.setAttribute("value", "true");
-        form.appendChild(field3);
-
-        var field5 = document.createElement("input");
-        field5.setAttribute("type", "hidden");
-        field5.setAttribute("name", "BankFIID");
-        field5.setAttribute("value", "Hancock");
-        form.appendChild(field5);
-
-        var field6 = document.createElement("input");
-        field6.setAttribute("type", "hidden");
-        field6.setAttribute("name", "BankFolder");
-        field6.setAttribute("value", "Hancock");
-        form.appendChild(field6);
-
-        if (document.selection_box.section.selectedIndex == 0) {
-
-            var field4 = document.createElement("input");
-            field4.setAttribute("type", "hidden");
-            field4.setAttribute("name", "ExitURL");
-            field4.setAttribute("value", "https://secure.hancockbank.com/online/Hancock/Consumer/login.asp");
-            form.appendChild(field4);
-
-            var field7 = document.createElement("input");
-            field7.setAttribute("type", "hidden");
-            field7.setAttribute("name", "BrandID");
-            field7.setAttribute("value", "1");
-            form.appendChild(field7);
-
-            var field8 = document.createElement("input");
-            field8.setAttribute("type", "hidden");
-            field8.setAttribute("name", "BrandFolder");
-            field8.setAttribute("value", "Consumer");
-            form.appendChild(field8);
-
-            var field9 = document.createElement("input");
-            field9.setAttribute("type", "hidden");
-            field9.setAttribute("name", "BrandType");
-            field9.setAttribute("value", "R");
-            form.appendChild(field9);
-        }
-
-        else if (document.selection_box.section.selectedIndex == 1) {
-
-            var field4 = document.createElement("input");
-            field4.setAttribute("type", "hidden");
-            field4.setAttribute("name", "ExitURL");
-            field4.setAttribute("value", "https://secure.hancockbank.com/online/Hancock/business/login.asp");
-            form.appendChild(field4);
-
-            var field7 = document.createElement("input");
-            field7.setAttribute("type", "hidden");
-            field7.setAttribute("name", "BrandID");
-            field7.setAttribute("value", "2");
-            form.appendChild(field7);
-
-            var field8 = document.createElement("input");
-            field8.setAttribute("type", "hidden");
-            field8.setAttribute("name", "BrandFolder");
-            field8.setAttribute("value", "Business");
-            form.appendChild(field8);
-
-            var field9 = document.createElement("input");
-            field9.setAttribute("type", "hidden");
-            field9.setAttribute("name", "BrandType");
-            field9.setAttribute("value", "B");
-            form.appendChild(field9);
-        }
-
-        document.body.appendChild(form);
-
-        //Call the renamed function.
-        form._submit_function_();
-    }
-
-</script>
 
 <script type="text/javascript">
     (function () {
@@ -442,10 +94,14 @@ function validateURL()
     })();
 </script><script async="" type="text/javascript" src="https://ww7.hancockbank.com/32169/Zza.js"></script>
 <!-- END OF NOTRS - NEW JAVASCRIPT TO HANDLE LOGIN AND FORGOT PASSWORD -->
+<script type="text/javascript" src="/js/jquery.colorbox-min.js"></script>
+<script type="text/javascript" src="/js/overlay.js"></script>
+<link href="/css/colorbox.css" rel="stylesheet" type="text/css" media="all">
+
 
 </head>
 
-<body onload="P7_initTP(3,0)">
+<body onload="P7_initTP(3,0)"><div id="cboxOverlay" style="display: none;"></div><div id="colorbox" style="padding-bottom: 50px; padding-right: 50px; display: none;"><div id="cboxWrapper"><div><div id="cboxTopLeft" style="float: left;"></div><div id="cboxTopCenter" style="float: left;"></div><div id="cboxTopRight" style="float: left;"></div></div><div><div id="cboxMiddleLeft" style="float: left;"></div><div id="cboxContent" style="float: left;"><div id="cboxLoadedContent" class="" style="width: 0px; height: 0px; display: none;"></div><div id="cboxLoadingOverlay" class="" style="display: none;"></div><div id="cboxLoadingGraphic" class="" style="display: none;"></div><div id="cboxTitle" class="" style="display: none;"></div><div id="cboxCurrent" class="" style="display: none;"></div><div id="cboxSlideshow" class="" style="display: none;"></div><div id="cboxNext" class="" style="display: none;"></div><div id="cboxPrevious" class="" style="display: none;"></div><div id="cboxClose" class="" style="display: none;"></div></div><div id="cboxMiddleRight" style="float: left;"></div></div><div><div id="cboxBottomLeft" style="float: left;"></div><div id="cboxBottomCenter" style="float: left;"></div><div id="cboxBottomRight" style="float: left;"></div></div></div></div>
 <!--[if IE]><div id="IEroot"><![endif]-->
 <div id="pagewidth">
 	<div id="header" class="clearfix">
@@ -456,19 +112,7 @@ function validateURL()
                     <div id="search">
                    	  <p>
                       	<a href="/home/locate-us.asp">Locate Us</a> | <a href="/home/home-contact.asp">Contact Us</a> | <a href="http://www.hancockholdingcareers.com" target="_blank">Careers</a></p>
-                        
-                        
-                <!--<form action="http://hancockbank.com/search" method="get" name="gs" STYLE="margin-bottom:0">
-          			<input name="sort" value="date:D:L:d1" type="hidden">
-          			<input name="oe" value="UTF-8" type="hidden">
-          			<input name="ie" value="UTF-8" type="hidden">
-          			<input name="output" value="xml_no_dtd" type="hidden">
-          			<input name="site" value="hb" type="hidden">
-          			<input name="client" value="hb_frontend" type="hidden">
-          			<input name="proxystylesheet" value="hb_frontend" type="hidden">
-          			<input name="q" size="15" maxlength="255" value="Search" type="text" onfocus="if (this.value == 'Search') this.value = '';">
-        			<input name="btnG" type="submit" value="Search" class="form-submit">
-        		</form>-->
+                       
                 
                 <iframe class="searchFrame" src="/search/search-form.html" frameborder="0" allowtransparency="true"></iframe>
                 
@@ -491,7 +135,7 @@ function validateURL()
             <!-- NOTRS - NEW ENROLL CONTAINER -->
             <div id="enroll-container" name="enroll-container" style="left: 997px;">
                 <img usemap="#Map" src="/images/enroll-area-clear.png">
-            	<form action="#" method="post" name="selection_box" style="margin-bottom: 0">
+            	<form action="#" method="post" name="selection_box" style="margin-bottom: 0" autocomplete="off">
                     <table>
                         <tbody><tr>
                             <td>
@@ -527,6 +171,7 @@ function validateURL()
   		                <area shape="rect" coords="75,94,135,113" href="#" onclick="return handleSignOnClick();" alt="Sign On" id="areaSignOn">
 		                <area shape="rect" coords="11,117,135,136" href="http://www.hancockbank.com/personal/ebanking/learn.asp" onclick="validateURL();" alt="Learn More" id="areaLearn">
 	                </map>
+                                    <input type="hidden" name="csrf" id="csrf" value="85476">
                 </form>
             </div>
             <!-- END OF NEW NOTRS ENROLL CONTAINER-->
@@ -545,11 +190,11 @@ function validateURL()
           <tbody><tr>
             <td width="280"><h1><br>
             </h1></td>
-            <td width="320"><a href="HHC-Privacy-Notice.pdf" target="_blank"><br>
+            <td width="320"><a href="HHC_Privacy_Policy_000.pdf" target="_blank"><br>
             Download PDF Version<br>
               <br>
             </a></td>
-            <td width="67">Rev 3/2014</td>
+            <td width="67">Rev 1/2015</td>
           </tr>
         </tbody></table>
         
@@ -666,7 +311,7 @@ function validateURL()
           <td width="600"><table width="767" border="1" cellspacing="0" cellpadding="10">
    	          <tbody><tr>
    	            <td width="75" align="left" valign="top" bgcolor="#666666" class="body_copy_white"><strong>Questions?</strong></td>
-   	            <td width="525" align="left" valign="top" class="body_copy">Call 800-522-6542.<br></td>
+   	            <td width="525" align="left" valign="top" class="body_copy">Call toll-free 888-416-4502 and press "0" to speak with a representative.<br></td>
               </tr>
             </tbody></table></td>
         </tr>
@@ -829,7 +474,7 @@ as “Hancock  Bank” in Mississippi, Alabama and Florida), Hancock Investment 
     	    <tbody><tr>
     	      <td width="731" align="left" valign="bottom"><p><a href="/home/privacy-policy.asp">Privacy Policy</a> |<a href="/home/legal-notices.asp"> Legal Notices</a><br>
     	        “Hancock Bank” is the trade name used by Whitney Bank in Mississippi, Alabama and Florida.<!-- InstanceBeginEditable name="Additional" --><!-- InstanceEndEditable --><br>
-    	        © 2014 Whitney Bank<!-- InstanceBeginEditable name="Footer-Edit" -->, Member FDIC and Equal Housing Lender. All loans and accounts subject to credit approval. Terms and conditions apply.<!-- InstanceEndEditable --></p></td>
+    	        © 2015 Whitney Bank<!-- InstanceBeginEditable name="Footer-Edit" -->, Member FDIC and Equal Housing Lender. All loans and accounts subject to credit approval. Terms and conditions apply.<!-- InstanceEndEditable --></p></td>
     	      <td width="118" align="left" valign="bottom">&nbsp;</td>
     	      <td width="93" align="left" valign="bottom"><!-- InstanceBeginEditable name="ehl-logo" --><img src="/images/ehl-logo.jpg" width="93" height="56" alt="EHL"><!-- InstanceEndEditable --></td>
   	      </tr>
