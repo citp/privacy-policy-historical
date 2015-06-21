@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the vivaglammagazine.com privacy policy that was archived on 2014-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141221052054id_/http%3A//vivaglammagazine.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vivaglammagazine.com privacy policy that was archived on 2015-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150621235104id_/http%3A//vivaglammagazine.com/privacy) for the most accurate reproduction.*
 
-# Privacy – VIVA GLAM MAGAZINE
+# Privacy - VIVA GLAM MAGAZINE
 
 Protecting your private information is our priority. This Statement of Privacy applies to the www.vivaglammagazine.com and Viva Glam Magazine and governs data collection and usage. For the purposes of this Privacy Policy, unless otherwise noted, all references to Viva Glam Magazine include www.vivaglammagazine.com and VGM. The VGM website is a Online Magazine site. By using the VGM website, you consent to the data practices described in this statement.
 
-Collection of your Personal Information
+**Collection of your Personal Information**
 
 VGM may collect personally identifiable information, such as your name. If you purchase VGM’s products and services, we collect billing and credit card information. This information is used to complete the purchase transaction. VGM may also collect anonymous demographic information, which is not unique to you, such as your age, gender and Country. We may gather additional personal or non-personal information in the future.
 
@@ -26,7 +26,7 @@ VGM may keep track of the websites and pages our users visit within VGM, in orde
 
 VGM will disclose your personal information, without notice, only if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on VGM or the site; (b) protect and defend the rights or property of VGM; and, (c) act under exigent circumstances to protect the personal safety of users of VGM, or the public.
 
-Use of Cookies
+**Use of Cookies**
 
 The VGM website may use “cookies” to help you personalize your online experience. A cookie is a text file that is placed on your hard disk by a web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a web server in the domain that issued the cookie to you.
 
@@ -34,7 +34,7 @@ One of the primary purposes of cookies is to provide a convenience feature to sa
 
 You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to fully experience the interactive features of the VGM services or websites you visit.
 
-3rd Party Companies
+**3rd Party Companies**
 
 We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: http://www.networkadvertising.org/managing/opt_out.asp  
 Security of your Personal Information
@@ -47,7 +47,7 @@ Children Under Thirteen
 
 VGM does not knowingly collect personally identifiable information from children under the age of thirteen. If you are under the age of thirteen, you must ask your parent or guardian for permission to use this website.
 
-Opt-Out & Unsubscribe
+**Opt-Out & Unsubscribe**
 
 We respect your privacy and give you an opportunity to opt-out of receiving announcements of certain information. Users may opt-out of receiving any or all communications from VGM by contacting us here:
 
@@ -61,22 +61,18 @@ Changes to this Statement
 
 VGM will occasionally update this Statement of Privacy to reflect company and customer feedback. VGM encourages you to periodically review this Statement to be informed of how VGM is protecting your information.
 
-Contact Information
+**Contact Information**
 
 VGM welcomes your questions or comments regarding this Statement of Privacy. If you believe that VGM has not adhered to this Statement, please contact VGM at:
 
-Viva Glam Magazine
+**VIVA GLAM MAGAZINE**
 
-11275 Peach Grove Street
+4821 Lankershim Blvd., F-345
 
 North Hollywood, California 91601
 
-Email Address:
+Email Address: [info@vivaglammagazine.com ](mailto:info@vivaglammagazine.com%20)
 
-[info@vivaglammagazine.com ](mailto:info@vivaglammagazine.com%20)
-
-Telephone number:
-
-310-936-9894
+Telephone number: 310-936-9894
 
 Effective as of June 04, 2012
