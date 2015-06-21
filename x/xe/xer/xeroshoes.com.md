@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xeroshoes.com privacy policy that was archived on 2014-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141013193029id_/http%3A//xeroshoes.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xeroshoes.com privacy policy that was archived on 2015-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150621162521id_/http%3A//xeroshoes.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Xero Shoes
 
@@ -8,9 +8,15 @@ of personal information. The following outlines our Privacy Policy.
 
 **No SPAM!**
 
-If you share you email address with us for any reason we will not sell, rent, or otherwise make your email address available to any third parties for any reason. Nor will we barrage you with sales messages.
+If you share you email address with us for any reason we will not sell, rent, or  
+otherwise make your email address available to any third parties for any reason.  
+Nor will we barrage you with sales messages. By purchasing from us, you are  
+agreeing to receive emails about your order, about special events, and to receive  
+our newsletter.
 
-Should you choose to stop receiving email from us, there will be clear instructions at the bottom of each email for you to follow to “opt-out.”
+Should you choose to stop receiving email from us, there will be clear instructions at  
+the bottom of each email for you to follow to “opt-out.” Emails about specific orders  
+(e.g. shipping confirmation) will not have opt-out instructions.
 
 **General Information**
 
@@ -108,7 +114,8 @@ If you have any questions regarding this Policy, or your dealings with our
 web site, please contact us.
 
 Feel The World, Inc.  
-5470 Conestoga Ct.  
-Boulder, CO 80301  
+100 Technology Drive  
+Suite 315  
+Broomfield, CO 80021  
 303.447.3100  
 support@xeroshoes.com
