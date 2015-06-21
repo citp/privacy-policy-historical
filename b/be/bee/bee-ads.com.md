@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bee-ads.com privacy policy that was archived on 2014-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141124172620id_/http%3A//bee-ads.com/page-terms-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bee-ads.com privacy policy that was archived on 2015-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150621062745id_/http%3A//bee-ads.com/page-terms-privacy.html) for the most accurate reproduction.*
 
 # Bee-ads.com | Terms And Privacy Policy
 
@@ -59,6 +59,12 @@ This website may use social sharing buttons which help share web content directl
 This website and it's owners through their social media platform accounts may share web links to relevant web pages. By default some social media platforms shorten lengthy url's [web addresses]. 
 
 Users are advised to take caution and good judgement before clicking any shortened url's published on social media platforms by this website and it's owners. Despite the best efforts to ensure only genuine url's are published many social media platforms are prone to spam and hacking and therefore this website and it's owners cannot be held liable for any damages or implications caused by visiting any shortened links.
+
+#### Advertising
+
+Bee-ads.com is accepting any ads except those which may be illegal or considered harmful. Ads with sensitive or questionable content (or leading to website with such a content) will not be allowed to show.
+
+Any advertiser suspected of malicious intent will be permanently banned from bee-ads.com and all funds lodged to his/hers account will be forfeited.
 
 #### Invalid clicks and impressions
 
