@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dealercenter.net privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230064846id_/http%3A//www.dealercenter.net/en/Pages/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dealercenter.net privacy policy that was archived on 2015-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150621074653id_/http%3A//www.dealercenter.net/en/Pages/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Our Privacy Policy : Buy Here Pay Here Software : Car Dealer Software : DealerCenter.net
 
