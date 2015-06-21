@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the wadja.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625062537id_/http%3A//wadja.com/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D5%26Itemid%3D25) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wadja.com privacy policy that was archived on 2015-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150621031004id_/http%3A//wadja.com/index.php%3Fa%3Dpage%26b%3Dprivacy) for the most accurate reproduction.*
 
-# Privacy
+# Privacy - wadja
 
-Last Updated on Thursday, 21 February 2013 14:59 
+Last Updated on Thursday, 15 January 2015 14:59
 
-**About Wadja**
+#### About Wadja
 
 Wadja Media Limited develops services that make the message distribution process easier across multiple devices and platforms. Wadja Media is deeply committed to enhancing the communication and social messaging experience by providing mechanisms to deliver real time texts, images, video and other content across the web to one or more groups of people.
 
@@ -26,7 +26,7 @@ This service is strictly offered to Wadja members and as a Graphical User Interf
 
 Wadja’s SMS messaging service is strictly optional and Wadja is in no way liable or responsible for any misrepresentation or misuse of mobile phone numbers or wrong mobile numbers. Wadja will never use our SMS messaging service for SMS spamming or telemarketing. However, some SMS providers who offer free services in your region may be ad-supported. If you use these services you agree to their terms and conditions. Wadja may also include Message Ads within notifications and email alerts and private messaging between friends in and outside of the network. Any user sending SMS messages through the Wadja GUI interface understands that they are responsible, as senders, for any complaints or disputes that a recipient may have with the advertisements that accompany the message. Wadja users do not have to use the free service and understand that ad supported messaging provides them with free message sending rights.
 
-Keep in mind that you can make your mobile number invisible to your contact list, but still receive messages, since your contacts only see your Wadja ID as a ‘Send to’ option in their SMS contact list. Your mobile number will only be available to your contacts in your network through an ask or give request and approval. Wadja assumes no responsibility, nor is legally liable for any damage, whether personal or professional, for any late delivery or failed delivery of SMS messages.
+Keep in mind that you can make your mobile number invisible to your contact list, but still receive messages, since your contacts only see your Wadja ID as a ‘Send to’ option in their SMS contact list. Your mobile number will only be available to your contacts in your network through an ask or give request and approval. Wadja assumes no responsibility, nor is legally liable for any damage, whether personal or professional, for any late delivery or failed delivery of SMS messages.
 
 Should you decide to display your mobile phone number to your contact list, Wadja is in no way legally liable or responsible for any misuse or abuse of your displayed mobile phone number. You always have the choice to make your mobile number visible or invisible from the privacy settings offered with your account. Of course you can remove your number altogether, which would still let you send SMS to your contact list but not receive SMS from then in return through the Wadja interface. You can always select the types of SMS alerts you want to receive by going to ACCOUNT (My Account, Notify and Verify) section after you sign in, and choosing the check box alert notifications accordingly.
 
@@ -74,7 +74,7 @@ Ads appearing on this Web site may be delivered to users by Wadja or one of our 
 
 **Security**
 
-Wadja member accounts are secured by member-created passwords. Wadja takes precautions to ensure that member account information is kept private. We use reasonable measures to protect member information that is stored within our database, and we restrict access to member information to those employees who need access to perform their job functions, such as our customer service personnel and technical staff. Please note that we cannot guarantee the security of member account information. Unauthorized entry or use, hardware or software failure, and other factors may compromise the security of member information at any time. For any additional information about the security measures we use on Wadja , please contact us at [privacy@wadja.com](mailto:privacy@wadja.com).
+Wadja member accounts are secured by member-created passwords. Wadja takes precautions to ensure that member account information is kept private. We use reasonable measures to protect member information that is stored within our database, and we restrict access to member information to those employees who need access to perform their job functions, such as our customer service personnel and technical staff. Please note that we cannot guarantee the security of member account information. Unauthorized entry or use, hardware or software failure, and other factors may compromise the security of member information at any time. For any additional information about the security measures we use on Wadja , please contact us at [privacy@wadja.com](mailto:privacy@wadja.com).
 
 **Sharing and Disclosure of Information Wadja.com Collects**
 
@@ -82,8 +82,8 @@ Except as otherwise described in this privacy statement, Wadja will not disclose
 
 **Changes in Our Privacy Policy**
 
-From time to time we may make changes to our privacy policy. If we make changes, we will post them on our site to make users aware of what the changes are so users will always be aware of what information we collect, how we use it, and when we may disclose it.  A User is bound by any minor changes to the policy when she or he uses the site after those changes have been posted If, however, we are going to use users’ personally identifiable information in a manner materially different from that stated at the time of collection we will notify by posting a notice on our Web site for 30 days.
+From time to time we may make changes to our privacy policy. If we make changes, we will post them on our site to make users aware of what the changes are so users will always be aware of what information we collect, how we use it, and when we may disclose it. A User is bound by any minor changes to the policy when she or he uses the site after those changes have been posted If, however, we are going to use users’ personally identifiable information in a manner materially different from that stated at the time of collection we will notify by posting a notice on our Web site for 30 days.
 
 **Contacting the Web Site**
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, please contact us at: [privacy@wadja.com](mailto:privacy@wadja.com).
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, please contact us at: [privacy@wadja.com](mailto:privacy@wadja.com).
