@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onlinegamesquad.com privacy policy that was archived on 2014-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140604012200id_/http%3A//www.fgnova.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlinegamesquad.com privacy policy that was archived on 2015-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150621212803id_/http%3A//www.fgnova.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy
 
