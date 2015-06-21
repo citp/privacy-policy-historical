@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the a-dec.com privacy policy that was archived on 2014-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141214060421id_/http%3A//us.a-dec.com/en/Legal-Disclaimers/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the a-dec.com privacy policy that was archived on 2015-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150621151857id_/http%3A//us.a-dec.com/en/Legal-Disclaimers/Privacy-Policy) for the most accurate reproduction.*
 
 # A-dec Inc. - Dental Equipment Solutions
 
