@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kouponmania.com privacy policy that was archived on 2013-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130920030324id_/http%3A//kouponmania.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kouponmania.com privacy policy that was archived on 2015-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150621163104id_/http%3A//www.kouponmania.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Koupon Mania
 
