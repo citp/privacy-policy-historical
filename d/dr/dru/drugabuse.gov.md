@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the drugabuse.gov privacy policy that was archived on 2014-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141226160525id_/http%3A//www.drugabuse.gov/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drugabuse.gov privacy policy that was archived on 2015-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150621205216id_/http%3A//www.drugabuse.gov/privacy) for the most accurate reproduction.*
 
 # Privacy Notice | National Institute on Drug Abuse (NIDA)
 
@@ -8,7 +8,7 @@ Protecting your privacy is very important to us. We do not collect any personall
 
 Please [contact us](https://web.archive.org/about-nida/contact-nida). NIDA staff responds to the submissions. Only designated staff members requiring access to the emails to respond may view or answer them.
 
-##  Types of Information Collected
+## Types of Information Collected
 
 When you browse through any Web site, certain information about your visit can be collected. We automatically collect and temporarily store the following type of information about your visit:
 
@@ -23,7 +23,7 @@ When you browse through any Web site, certain information about your visit can b
 
 We use this information to measure the number of visitors to our site and its various sections and to help make our site more useful to visitors.
 
-##  How NIDA Collects Information
+## How NIDA Collects Information
 
 NIDA web sites use Google Analytics measurement software to collect the information in the bulleted list in the Types of Information Collected section above. Google Analytics collects information automatically and continuously. No personally identifiable information is collected. The NIDA staff conducts analyses and reports on the aggregated data from Google Analytics. The reports are only available to NIDA web staff, and other designated staff who require this information to perform their duties.
 
@@ -31,7 +31,7 @@ Information submitted through contact forms, including the _NIDA Feedback Form_ 
 
 NIDA retains this data as long as needed to support the mission of the NIDA web sites.
 
-##  How NIDA Uses Cookies
+## How NIDA Uses Cookies
 
 The Office of Management and Budget Memo [M-10-22, Guidance for Online Use of Web Measurement and Customization Technologies (PDF, 106KB)](http://www.whitehouse.gov//sites/default/files/omb/assets/memoranda_2010/m10-22.pdf) allows Federal agencies to use session and persistent cookies.
 
@@ -45,19 +45,19 @@ Session Cookies: We use session cookies for technical purposes such as to enable
 
 Persistent Cookies: We use persistent cookies to enable Google Analytics to differentiate between new and returning NIDA visitors. Persistent cookies remain on your computer between visits to NIDA web sites until they expire. The OMB Memo 10-22 Guidance defines our use of persistent cookies as Usage Tier 2 Multi-session without Personally Identifiable Information (PII). The policy says, This tier encompasses any use of multi-session Web measurement and customization technologies when no PII is collected.
 
-##  How to Opt Out or Disable Cookies
+## How to Opt Out or Disable Cookies
 
 If you do not wish to have session or persistent cookies placed on your computer, you can disable them using your Web browser. If you opt out of cookies, you will still have access to all information and resources at the NIDA web sites. Instructions for disabling or opting out of cookies in the most popular browsers are located at <http://www.usa.gov/optout-instructions.shtml> Please note that by following the instructions to opt-out of cookies, you will disable cookies from all sources, not just those from NIDA.
 
-##  How Personal Information Is Protected
+## How Personal Information Is Protected
 
 You do not have to give us personal information to visit the NIDA Web sites. However, if you choose to receive alerts or e-newsletters, we collect your email address to complete the subscription process.
 
 If you choose to provide us with personally identifiable information, that is, information that is personal in nature and which may be used to identify you, through an e-mail message, request for information, paper or electronic form, questionnaire, customer satisfaction survey, epidemiology research study, etc., we will maintain the information you provide only as long as needed to respond to your question or to fulfill the stated purpose of the communication.
 
-The NIDA Privacy policy is adapted from the NIH Privacy Policy. For further information about the NIH privacy policy, please contact the NIH Senior Official for Privacy at [privacy@mail.nih.gov](mailto:privacy@mail.nih.gov), call (301) 451-3426 or visit <http://oma.od.nih.gov/ms/privacy/privacyact.html>
+The NIDA Privacy policy is adapted from the NIH Privacy Policy. For further information about the NIH privacy policy, please contact the NIH Senior Official for Privacy at [privacy@mail.nih.gov](mailto:privacy@mail.nih.gov), call (301) 451-3426 or visit <http://oma.od.nih.gov/public/MS/privacy/Pages/default.aspx>
 
-##  Intrusion Detection
+## Intrusion Detection
 
 This site is maintained by the U.S. Government. It is protected by various provisions of Title 18, U.S. Code. Violations of Title 18 are subject to criminal prosecution in federal court.
 
