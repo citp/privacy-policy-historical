@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vibethemes.com privacy policy that was archived on 2014-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141110195502id_/http%3A//www.vibethemes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vibethemes.com privacy policy that was archived on 2015-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150621045500id_/http%3A//www.vibethemes.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - VibeThemes
 
