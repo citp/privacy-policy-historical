@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hancockbank.com privacy policy that was archived on 2014-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140416232151id_/http%3A//www.hancockbank.com/home/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hancockbank.com privacy policy that was archived on 2015-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150621113001id_/https%3A//www.hancockbank.com/home/privacy-policy.asp) for the most accurate reproduction.*
 
 # Hancock Bank: Privacy Policy
 
@@ -36,7 +36,7 @@ The types of personal information we collect and share depend on the product or 
 Please note: If you are a new customer, we can begin sharing your information _30_ days from the date we sent this notice. When you are _no longer_ our customer, we continue to share your information as described in this notice. However, you can contact us at any time to limit our sharing.  
 ---|---  
    
-| **Questions?** | Call 800-522-6542.  
+| **Questions?** | Call toll-free 888-416-4502 and press "0" to speak with a representative.  
   
 ---|---  
    
@@ -154,7 +154,7 @@ A cookie is a small piece of information about an Internet session that may be c
 
 
 
-* **Except for Online Banking**. Please refer to [Online Banking FAQ](https://web.archive.org/web/20140416232151id_/http%3A//www.hancockbank.com/personal/eBanking/e-banking-faq.asp) for more information regarding the use of Cookies with Online Banking.
+* **Except for Online Banking**. Please refer to [Online Banking FAQ](https://web.archive.org/web/20150621113001id_/https%3A//www.hancockbank.com/personal/eBanking/e-banking-faq.asp) for more information regarding the use of Cookies with Online Banking.
 
 ## Use of Information Collected
 
