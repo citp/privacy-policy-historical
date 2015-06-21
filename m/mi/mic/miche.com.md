@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the miche.com privacy policy that was archived on 2014-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141117221503id_/http%3A//www.miche.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the miche.com privacy policy that was archived on 2015-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150621024939id_/http%3A//www.miche.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
