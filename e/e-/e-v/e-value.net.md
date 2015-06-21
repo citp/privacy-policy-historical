@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the e-value.net privacy policy that was archived on 2014-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141219055114id_/http%3A//www.evaluehealthcare.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the e-value.net privacy policy that was archived on 2015-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150621101121id_/http%3A//www.evaluehealthcare.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
