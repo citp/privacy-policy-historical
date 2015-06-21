@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the babysavers.com privacy policy that was archived on 2014-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140906064506id_/http%3A//www.babysavers.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the babysavers.com privacy policy that was archived on 2015-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150621181912id_/http%3A//www.babysavers.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - BabySavers
 
@@ -10,11 +10,11 @@ Google, as a third party vendor, uses cookies to serve ads on www.babygoodbuys.c
 
 Other third-party advertising companies may be used to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you.
 
-If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.google.com/privacy_ads.html).  Baby GoodBuys has no access to or control over the information that may be collected via these cookies
+If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.google.com/privacy_ads.html).  BabySavers has no access to or control over the information that may be collected via these cookies
 
 **Collection of Personal Information**
 
-When visiting Baby GoodBuys, the IP address used to access the site will be logged along with the dates and times of access. This information is only used to analyze trends, administer the site, track users movement and gather broad demographic information for internal use. Most importantly, any recorded IP addresses are not linked to personally identifiable information.
+When visiting Babysavers, the IP address used to access the site will be logged along with the dates and times of access. This information is only used to analyze trends, administer the site, track users movement and gather broad demographic information for internal use. Most importantly, any recorded IP addresses are not linked to personally identifiable information.
 
 **Other Ad Network Privacy Information**
 
