@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rbytes.net privacy policy that was archived on 2014-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141201194515id_/http%3A//rbytes.net/software/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rbytes.net privacy policy that was archived on 2015-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150621210804id_/http%3A//rbytes.net/software/info/privacy) for the most accurate reproduction.*
 
 # Reviews and Downloads at rbytes.net - Information
 
