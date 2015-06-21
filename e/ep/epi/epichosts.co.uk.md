@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the epichosts.co.uk privacy policy that was archived on 2014-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141116090010id_/http%3A//www.epichosts.co.uk/legal.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the epichosts.co.uk privacy policy that was archived on 2015-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150621025447id_/http%3A//www.epichosts.co.uk/legal.htm) for the most accurate reproduction.*
 
 # EpicHosts - UK's #1 Budget Host :: Get ANYTHING hosted NOW! Games, Websites, Radio Stations, and more!
 
@@ -66,7 +66,7 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 
 This document was last updated on July 20, 2013.
 
-By placing an order with EpicHosts, in sole agreement upon transacting (once you press the 'Pay Now' button when using PayPal for example, or once a transaction is complete) and tick the agreement confirmation checkbox if applicible, you confirm that you are bound in agreement to the terms and conditions written below:
+By placing an order with EpicHosts, in sole agreement upon submitting a transaction (once you press the 'Pay Now' button when using PayPal for example, or once a transaction is complete) and tick the agreement confirmation checkbox if applicable, you confirm that you are bound in agreement to the terms and conditions written below:
 
 #### General Terms & Conditions
 
@@ -74,13 +74,13 @@ EpicHosts is relatively a non-profit business, used as a personal project for ex
 
 The service is run by Ben Gough / Terrum, and solely by HIM, with no intention to transfer ownership without clear consent or accept responsibility for any impersonation taking place regarding us or any of our staff. It is your responsibility to make sure you are at 'epichosts.co.uk' or 'www.epichosts.co.uk' for manual fraudulent checking so please check your address bar regularly. It is also your responsibility to ensure e-mails and other sorts of communication are made ONLY through the methods shown on the support page of our site.
 
-Our security method is trusted with a DDoS mitigation and protection feature, related to any sorts of large attacks from many sources. It is setup to saturate uploads from many sources within a timeframe, then eventually block the sources. However, we are not responsible for any damage to your server or services, and we do not provide free backups of our services. Critical data of such should be kept in customers' safety for easy accessibility of having a backup of your service. Automatic backups can be provided with our services for an extra cost. If we find that your service is sending/receiving abusive packets, your account and service(s) will be terminated and your ISP may be notified. Any received attacks that are not properly taken care of by the customer, which are affecting our services, will also have to be suspended temporarily or terminated permanently.
+Our security method is trusted with a DDoS mitigation and protection feature, related to any sorts of large attacks from many sources. It is setup to saturate uploads from many sources within a time frame, then eventually block the sources. However, we are not responsible for any damage to your server or services, and we do not provide free backups of our services. Critical data of such should be kept in customers' safety for easy accessibility of having a backup of your service. Automatic backups can be provided with our services for an extra cost. If we find that your service is sending/receiving abusive packets, your account and service(s) will be terminated and your ISP may be notified. Any received attacks that are not properly taken care of by the customer, which are affecting our services, will also have to be suspended temporarily or terminated permanently.
 
 The FTP Server is maintained by FileZilla, a highly secured and very lightweight server. For best use and compatibility, we recommend the FileZilla Client to connect to our FTP.
 
-The VPSes we host are unmanaged, unless the Managed VPS addon is purchased alongside with the VPS. Removal of the 'Terrum' account on your VPS, if applicable, is also a breach of our terms and can cause a suspension of your VPS. We require access to VPSes to perform security updates, network changes and other necessary changes that are either requested by the customer or our ISP.
+The VPSes we host are unmanaged, unless the Managed VPS addon is purchased alongside with the VPS. Removal of the 'Terrum' account on your VPS, if applicable, is also a breach of our terms and can cause a suspension of your VPS. We require access to VPSes to perform security updates, network changes and other necessary changes that are either requested by the customer or our ISP. The creation of more than one user account per VPS or service is prohibited unless permission given otherwise.
 
-All interactive chat web applications are strictly prohibited on our web hosting plans. This includes but is not limited to chat applications written in PHP, Perl, CGI, Python, Ruby, etc. in addition to IRC or IRC bots. Any web application that provides 'real-time' chat is not permitted. Shoutboxes, chatboxes, live chat/live help (such as but not limited to LiveZilla) and other web based chat programs are prohibited. Such terms are due to the heavy resource they put on the shared hosting and would easily go over any fair usage limits. Such applications will automatically be blocked by our servers if detected, and a possible suspension of service if found to be bypassing these automated detections.
+All interactive chat web applications are not allowed to be hosted on our web hosting plans, you are however authorised to use such applications pre-hosted but not on the web hosting server. This includes but is not limited to chat applications written in PHP, Perl, CGI, Python, Ruby, etc. in addition to IRC or IRC bots. Any web application that provides 'real-time' chat is not permitted. Shoutboxes, chatboxes, live chat/live help (such as but not limited to LiveZilla) and other web based chat programs are prohibited. Such terms are put into place due to these applications being more prone to easily going over any fair usage limits. Such applications will automatically be blocked by our servers if detected, and a possible suspension of service if found to be bypassing these automated detections or for multiple infringements. Web hosting plans are not for storage of data such as music or videos and should only be used for website hosting content.
 
 #### Refunds
 
@@ -117,13 +117,13 @@ It is our responsibility to ensure that any applied hosting package application 
 \- Payment is not cleared or received in full,  
 \- We believe the order, information or payment is fraudulent,  
 \- You have any funds outstanding with relation to any other account,  
-\- There is any other reason which we deem insatisfactory to our terms or beliefs, in which case we would explain within reason to you as soon as possible.
+\- There is any other reason which we deem unsatisfactory to our terms or beliefs, in which case we would explain within reason to you as soon as possible.
 
 #### Termination and Suspension
 
-You may terminate your hosting at any time by advising us via a method of contact that you wish to do so. We will only process a refund if we find it's applicible to your current service's state.
+You may terminate your hosting at any time by advising us via a method of contact that you wish to do so. We will only process a refund if we find it's applicable to your current service's state.
 
-We may suspend any or all of your services where we have reason to suspect a violation of our terms and conditions whilst we investigate the suspected violation. We may also suspend your services where we have reason to suspect any type of illegitimate activity including, but not limited to, copyright infringment, payment reversals, unfair usage and services affecting other customers or users on our servers. We reserve the full right to suspend a service at anytime with the decision of its final status.
+We may suspend any or all of your services where we have reason to suspect a violation of our terms and conditions whilst we investigate the suspected violation. We may also suspend your services where we have reason to suspect any type of illegitimate activity including, but not limited to, copyright infringement, payment reversals, unfair usage and services affecting other customers or users on our servers. We reserve the full right to suspend a service at any time with the decision of its final status.
 
 #### Violations
 
