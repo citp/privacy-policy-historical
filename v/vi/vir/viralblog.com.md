@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the viralblog.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121081227id_/http%3A//www.viralblog.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viralblog.com privacy policy that was archived on 2015-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150621062633id_/http%3A//www.viralblog.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - VIRALBLOG.COMVIRALBLOG.COM
+# Privacy Policy |
 
 #### Sign-up to get the content you like
 
@@ -10,9 +10,9 @@ Our readers can personalize ViralBlog in Zite alike ways, and **schedule e-mail 
 
 **Choose your sign-up method:**
 
-[](https://api.twitter.com/oauth/authenticate?oauth_token=exsSGPqPIzHKVjdaOJiYb6TCHnUpE4hm&oauth_callback)
+[](https://api.twitter.com/oauth/authenticate?oauth_token=zx50YAAAAAAAMiReAAABThTMB5A&oauth_callback)
 
-[](https://www.facebook.com/dialog/oauth?client_id=345764372178167&redirect_uri=http%3A%2F%2Fwww.viralblog.com%2Fcheck_social_login&state=16dc0cb79375cf6657a20431bdfeab7b&scope=read_stream%2C+friends_likes)
+[](https://www.facebook.com/dialog/oauth?client_id=345764372178167&redirect_uri=http%3A%2F%2Fwww.viralblog.com%2Fcheck_social_login&state=c8ad5bd75d69b77f18778a1f720b9ce0&scope=read_stream%2C+friends_likes)
 
 * * *
 
