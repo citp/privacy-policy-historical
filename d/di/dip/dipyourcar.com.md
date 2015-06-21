@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the dipyourcar.com privacy policy that was archived on 2014-07-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140729043840id_/https%3A//www.dipyourcar.com/Privacy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dipyourcar.com privacy policy that was archived on 2015-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150621151927id_/https%3A//www.dipyourcar.com/Privacy-statement.html) for the most accurate reproduction.*
 
 # DipYourCar.com -Plasti Dip For Your Car - Glossifier Blaze Pearlizer Metalizers Pro Car Kits Peel Coat
-
-## Privacy statement
 
 We respect your privacy!
 
