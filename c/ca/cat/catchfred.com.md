@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the catchfred.com privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227075916id_/http%3A//catchfred.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the catchfred.com privacy policy that was archived on 2015-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150621060205id_/http%3A//catchfred.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | catchFred
+# Privacy Policy - catchFred
 
-##  [ Privacy Policy](http://catchfred.com/privacy-policy/)
+**Privacy Policy**
 
 **catchFred.com** takes every step in safe-guarding and protecting your information and privacy. When using our site you can rest assured that catchFred uses the latest security measures to encrypt data while in transit and the best firewall security solutions while the data is stored.
 
@@ -28,15 +28,15 @@ catchFred uses the latest server technology located behind multiple state of the
 
 **contacting** **us** :
 
-the most efficient way to conact us is via email
+the most efficient way to contact us is via email
 
-cs  [at] catchFred [dot ]com
+cs  [at] catchFred [dot ] com
 
 ~or~
 
-if you prefer mail our address is:
+if you prefer mail, our address is:
 
-eMedia Group
+catchFred
 
 102 NE 2nd Street, Suite 330
 
@@ -44,26 +44,8 @@ Boca Raton, FL 33432
 
 **unsubscribing** :
 
-You can easily unsubscribe at any time. In any email you recieve from www.catchFred.com there will be an "unsubscribe" or "Opt-out" link in the footer of the email. Clicking on that link will take you immediately to a page where you can unsubscribe or globally opt-out from all email correspondence from www.catchFred.com.
+You can easily unsubscribe at any time. In any email you receive from www.catchFred.com there will be an “unsubscribe” or “Opt-out” link in the footer of the email. Clicking on that link will take you immediately to a page where you can unsubscribe or globally opt-out from all email correspondence from www.catchFred.com.
 
-Remember, all emails can be unsubscribed from immediately by clicking the "unsubscribe" or "opt-out" link in any email.
+Remember, all emails can be unsubscribed from immediately by clicking the “unsubscribe” or “opt-out” link in any email.
 
 Have other questions? Feel free to contact us any time, and if you have further questions about catchFred.com.
-
-Other Simular:
-
-[404 Error...](http://catchfred.com/404-error/ "404 Error, Article has been viewed 103039 times")  
-Not sure what happened but you can go back to the home page by clicking here -OR- {loadposition search404} ...  
-
-
-[Healthy Paws Insurance...](http://catchfred.com/healthy-paws-insurance/ "Healthy Paws Insurance, Article has been viewed 516236 times")  
-The Dog Insurance Center From diagnosing a bee sting to treating serious conditions like cancer, Healthy Paws helps you ensure your best friend recei...  
-
-
-[Terms of Use...](http://catchfred.com/terms-conditions/ "Terms of Use, Article has been viewed 232572 times")  
-CATCHFRED, ACCEPTANCE OF TERMS OF USE (updated March 11, 2013) By using this site (the "Site"), you ("you" or the "End User") agree to the terms and condition...  
-
-
-[Pomeranian....](http://catchfred.com/pomeranian/ "Pomeranian., Article has been viewed 14587 times")  
-Appearance The Pomeranian is a compact, short-backed, active toy dog of Nordic descent. The double coat consists of a short dense undercoat with a profuse hars...  
-
