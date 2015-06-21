@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the bigfishgames.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231175604id_/http%3A//www.bigfishgames.com/company/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigfishgames.com privacy policy that was archived on 2015-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150622000933id_/http%3A//www.bigfishgames.com/company/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Big Fish Games, Inc.
 
-Last modified: September 18th, 2014
+Last modified: April 9th, 2015
 
 We at Big Fish have created this Privacy Policy to describe how information is collected, used, and disclosed when you visit or use a Big Fish Offering.  **By accessing and/or using this Big Fish website or any Big Fish Offering, you are accepting the practices described in this Privacy Policy.**
 
@@ -12,7 +12,7 @@ The term **"Big Fish"** means Big Fish Games, Inc. and/or its Affiliates. The te
 
 ### Personally Identifiable Information:
 
-We may collect the following information when you sign up with a Big Fish Offering: first name, last name, email address, mailing address, phone number, credit or debit card information or other payment details, depending on your form of payment.
+We may collect the following information when you sign up with a Big Fish Offering: first name, last name, date of birth, email address, mailing address, phone number, credit or debit card information or other payment details, depending on your form of payment.
 
 ### Technical Information:
 
@@ -44,7 +44,7 @@ We may collect aggregated, anonymized information via Big Fish Offerings that do
 
 ## USE AND SECURITY OF COLLECTED INFORMATION
 
-We may use your username, email address, and password to uniquely identify you as a user on a Big Fish Offering, to provide you with services and to process transactions. We may use or display your username and icon or profile photo, if applicable, for the purposes of rankings, competitions or sweepstakes, chat identification, and/or game high scores.
+We may use your username, email address, and password to uniquely identify you as a user on a Big Fish Offering, to provide you with services and to process transactions. We may use or display your username and icon or profile photo, if applicable, for the purposes of rankings, competitions or sweepstakes, chat identification, and/or game high scores. We may use your date of birth to confirm your eligibility to participate in Big Fish Offerings.
 
 Subject to the terms of this Privacy Policy, we may use your contact information to process our promotional newsletters and/or email campaigns and to send you updates, security alerts, or administrative messages relating to Big Fish Offerings. Your contact information will allow us to notify you about new features, enhancements, resolution of Big Fish Offerings problems, handle and/or route your customer support questions and issues, and inform you of upgrade opportunities, sweepstakes, contests, prizes, and/or special events.
 
@@ -98,7 +98,7 @@ With respect to Social Games, you may manage your own social network privacy pre
 
 ## THIRD-PARTIES
 
-Big Fish Offerings may allow you to play or share information through social media (such as by logging in through a social media account or using a “Like” button”) or contain links to social media services or other third parties. The use of these features and links are subject to the privacy policies of those companies and your settings on those services. Big Fish has no control over, and is not responsible for, the information submitted to or collected by social networks or other third parties. We encourage you to review those third party privacy policies to understand the way your information may be collected and handled by such third parties.
+Big Fish Offerings may allow you to play or share information through social media (such as by logging in through a social media account or using a "Like" button") or contain links to social media services or other third parties. The use of these features and links are subject to the privacy policies of those companies and your settings on those services. Big Fish has no control over, and is not responsible for, the information submitted to or collected by social networks or other third parties. We encourage you to review those third party privacy policies to understand the way your information may be collected and handled by such third parties.
 
 ## CHAT & MESSAGING
 
@@ -106,7 +106,7 @@ Big Fish Offerings may operate message boards and/or chat areas where users can 
 
 ## CHILDREN
 
-Big Fish Offerings are designed to avoid the collection and use of “personal information” as defined in the Children’s Online Privacy Protection Act (“COPPA”) from children under 13 other than for support of internal operations. We do not knowingly collect personal information from children. If you are under 13, you may not register for an account or otherwise provide any personal information to us.
+Big Fish Offerings are designed to avoid the collection and use of "personal information" as defined in the Children’s Online Privacy Protection Act ("COPPA") from children under 13 other than for support of internal operations. We do not knowingly collect personal information from children. If you are under 13, you may not register for an account or otherwise provide any personal information to us.
 
 Big Fish respects the privacy of parents and children and is committed to complying with COPPA . If a parent believes that his or her child has submitted personal information to Big Fish, he or she can contact us via email at [privacy@bigfishgames.com](mailto:privacy@bigfishgames.com) or postal mail at: Big Fish Privacy Policy Department, 333 Elliott Avenue West, Suite 200, Seattle, WA 98119 USA. We will take steps to promptly delete the information upon learning that it relates to a child under the age of 13. We recognize the importance of safeguarding the privacy of children and encourage parents to check and monitor their children's use of online activities regularly.
 
