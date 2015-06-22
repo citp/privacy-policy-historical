@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the footballmanagerstory.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230054010id_/http%3A//www.footballmanagerstory.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the footballmanagerstory.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623004239id_/http%3A//www.footballmanagerstory.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy • FM Stories
 
