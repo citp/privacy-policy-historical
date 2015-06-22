@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the ruggable.com privacy policy that was archived on 2014-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141002223513id_/http%3A//www.ruggable.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ruggable.com privacy policy that was archived on 2015-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150622093338id_/http%3A//www.ruggable.com/privacy-policy) for the most accurate reproduction.*
 
 # Kitchen Rugs Washable - Large Area Rugs | Privacy Policy
 
-PLEASE NOTE that our privacy policy has changed, effective March 1, 2012.
+PLEASE NOTE that our privacy policy has changed, effective January 1, 2015.
 
 Product Bliss, LLC and its affiliates (collectively, “us”, “our” or “we”), own and operate the RUGGABLE® 2-peice rug system brand.  Product Bliss collects customer information to help us to serve you better. We respect your privacy and are committed to maintaining and using this information responsibly. This privacy policy addresses the use and disclosure of personal information we collect from you. By visiting our website, or providing your information to us, you are accepting the practices described in this privacy policy.
 
@@ -72,4 +72,4 @@ We may update our privacy policy from time to time. Whenever we make a change, w
 
 
 
-Effective as of July 31, 2012.
+Effective as of January 1, 2015.
