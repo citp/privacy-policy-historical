@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the quantum.com privacy policy that was archived on 2014-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141107034350id_/http%3A//www.quantum.com/privacypolicy/index.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quantum.com privacy policy that was archived on 2015-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150622213949id_/http%3A//www.quantum.com/privacypolicy/index.aspx) for the most accurate reproduction.*
 
 # Quantum Privacy Policy
 
 ## Quantum takes your privacy seriously. Please read the following to learn more about our privacy policy.
 
-[Last Version September 2012](https://web.archive.org/pdf/PrivacyPolicy-pre-9-26-2012.pdf)  
-Current Version November 2013
+[Last Version November 2013](https://iq.quantum.com/exLink.asp?26021766OB48G65I56280152)   
+Current Version January 2015
 
-  * [EU Privacy Policy](https://iq.quantum.com/exLink.asp?16512870OY84W57I46408898) 
-  * [EU Safe Harbor Policy](https://iq.quantum.com/exLink.asp?16501958OX28T81I46403797) 
+  * [EU Privacy Policy](https://iq.quantum.com/exLink.asp?16512870OY84W57I46408898)
+  * [EU Safe Harbor Policy](https://iq.quantum.com/exLink.asp?16501958OX28T81I46403797)
 
 
 
@@ -16,7 +16,7 @@ Current Version November 2013
 
   * This Privacy Policy applies with respect to information Quantum Corporation collects from Web sites on which a direct hyperlink to this "Privacy Policy" is posted. It describes the way we handle information learned about you from your visit to our Web sites.
   * This Privacy Policy applies to the practices of companies that Quantum owns and or controls, and the people that Quantum employs and manages.
-  * Quantum participates in the U.S.-EU Safe Harbor Framework developed by the U.S. Department of Commerce and the European Union as well as the U.S.-Swiss Safe Harbor Framework developed by the U.S. Department of Commerce and Switzerland. To view our certification, visit the [U.S. Department of Commerce's Safe Harbor Web site.](http://www.export.gov/safeharbor) 
+  * Quantum participates in the U.S.-EU Safe Harbor Framework developed by the U.S. Department of Commerce and the European Union as well as the U.S.-Swiss Safe Harbor Framework developed by the U.S. Department of Commerce and Switzerland. To view our certification, visit the [U.S. Department of Commerce’s Safe Harbor Web site.](http://www.export.gov/safeharbor/)
   * Other Web sites (including those we link to) not owned or operated by or for Quantum may have different data processing practices for which we do not vouch or assume responsibility.
 
 
@@ -32,11 +32,11 @@ If you have any questions, comments, or requests regarding privacy, please email
 
 ### Collection of Information
 
-##### General
+##### Personal Information
 
 We collect personal information about you that you voluntarily submit to us, such as by ordering products or services on our Web sites, filling out a form or survey, participating in webinars, entering a contest or sweepstakes, registering your email address with us or emailing us. We may also collect personal information from you at other points on our Web sites that state that personal information is being collected. Personal information that we collect from you may consist of your address, email address, or phone number, contact information, product purchase information or product usage information and other information that is not otherwise publicly available.
 
-We also collect statistical information about you, such as the pages visited on the Quantum Web sites, unique URLs visited within our Web sites, the domains from which people visit our Web sites, browser type and IP address. Generally, we do not link such information to any of your contact information (such as name, email address or user name). Most of this information is collected via cookies or other analysis technologies. Accepting the cookies used on our site does not give us access to your personal information, but we may use the cookies to identify your computer.
+We also collect statistical information about you, such as the pages visited on the Quantum Web sites, unique URLs visited within our Web sites, the domains from which people visit our Web sites, browser type and IP address. Generally, we do not link such information to any of your contact information (such as name, email address or user name). Most of this information is collected via cookies or other analysis technologies, such as Google Analytics. Accepting the cookies used on our site does not give us access to your personal information, but we may use the cookies to identify your computer. For more information on the kind of information Google Analytics provides us and how to safeguard your privacy when Google Analytics are used read here: <https://support.google.com/analytics/answer/6004245?hl=en>
 
 ##### Sensitive information
 
@@ -52,7 +52,7 @@ We are committed to protecting the privacy of children and we encourage parents 
 
 ##### Personal Information
 
-We do not sell, rent or share your personal information with nonaffiliated companies except to provide services or products you've requested, when we have your permission, as required by law, or under the following circumstances: (1) we may provide the information about you to trusted agents and or service providers who work on behalf of or with Quantum under contract including confidentiality agreements. These companies may be in the United States or in other parts of the world. (2) We may disclose information about you if Quantum is acquired by or merged with another company. In this event, Quantum will notify you before information about you is transferred and becomes subject to a different privacy policy. (3) We may disclose information in situations involving violations our terms and conditions posted on our Web sites, potential risks to the physical safety of any person, where we believe it is necessary to in order to investigate, prevent, or take action regarding suspected fraud or illegal activities, or as otherwise required by law.
+We do not sell, rent or share your personal information with nonaffiliated companies except to provide services or products you’ve requested, when we have your permission, as required by law, or under the following circumstances: (1) we may provide the information about you to trusted agents and or service providers who work on behalf of or with Quantum under contract and sign confidentiality agreements. These companies may be in the United States or in other parts of the world. (2) We may disclose information about you if Quantum is acquired by or merged with another company. In this event, Quantum will notify you before information about you is transferred and becomes subject to a different privacy policy. (3) We may disclose information in situations involving violations our terms and conditions posted on our Web sites, potential risks to the physical safety of any person, where we believe it is necessary to in order to investigate, prevent, or take action regarding suspected fraud or illegal activities, or as otherwise required by law.
 
 When you submit personal information to us during your visit to our Web sites, we will let you know how you can (a) prevent our use of this information for marketing purposes or, (b) if we are required to do so under applicable laws, prevent the disclosure of this information to third parties for marketing purposes, if you so choose.
 
@@ -60,33 +60,69 @@ When you submit personal information to us during your visit to our Web sites, w
 
 However, we might share your personally identifiable information and aggregated (non-personally identifiable) information with our affiliates, distributors and resellers if allowed to do so under applicable laws. The affiliated companies, distributors and resellers may be in the United States or in other parts of the world.
 
-### **Use of Information**
+##### Use of Information
 
-We use personal identifiable and non-identifiable information for our marketing and sales purposes, for Web site administration, and for such purposes as expressly stated when you provided your information. We will not use this information for other purposes, unless you consent to the new usage or if required or permitted by applicable law. Of course, if applicable, we do use personally identifiable information to perform the services for which such data was collected (i.e. if you order a product or service, we will deliver the product or provide the service as requested or if you sign up for an email newsletter, we will send the email newsletter to the address you provide us).
+We use personally identifiable and non-identifiable information for our marketing and sales purposes, for Web site administration, and for such purposes as expressly stated when you provided your information. We will not use this information for other purposes, unless you consent to the new usage or if required or permitted by applicable law. Of course, if applicable, we do use personally identifiable information to perform the services for which such data was collected (e.g., if you order a product or service, we will deliver the product or provide the service as requested or if you sign up for an email newsletter, we will send the email newsletter to the address you provide us).
 
-Occasionally, we will send you e-mail communications with information, which may be useful to you, including information about our products and services or about offerings from affiliates or business partners. When you first provide us with your e-mail address, you will be given the option of not receiving any such e-mail communications. We will include instructions in our e-mail messages on how to unsubscribe if you later decide you do not want to receive any future e-mail communications.
+Occasionally, we will send you e-mail communications with information which may be useful to you, including information about our products and services or about offerings from affiliates or business partners. When you first provide us with your e-mail address, you will be given the option of not receiving any such e-mail communications. We will include instructions in our e-mail messages on how to unsubscribe if you later decide you do not want to receive any future e-mail communications.
 
 From time-to-time, our Web sites request information from users via surveys or contests. Participation in these surveys or contests is completely voluntary and the user therefore has a choice whether or not to disclose the requested information. This information will be used for our marketing and sales purposes, for Web site administration and for such purposes as expressly stated in the survey or contest.
 
 Personal information given to us in one country may be transferred to a different country for the purpose of processing, data consolidation, storage and simplified customer information management, unless prohibited by applicable law.
 
-### **Use of employee and job applicant personal information**
+##### Use of employee and job applicant personal information
 
 Quantum uses personal information of its employees, contractors, and job applicants for a variety of human resources and similar functions, including job applications and hiring programs, compensation and benefit programs, performance appraisals, training, business travel, expense and tuition reimbursement, identification cards, access to Quantum facilities and computer networks, employee profiles, internal employee directories, human resources recordkeeping, compliance with legal requirements and other employment related purposes.
 
-### **Update your Quantum communication preferences**  
+##### Update your Quantum communication preferences
 
-You can choose which Quantum Corporation correspondence you want to receive. Please use this link to [update your communication preferences](http://quantum.mv.treehousei.com/unsubscribe.aspx).
+You can choose which Quantum Corporation correspondence you want to receive. Please use this link to [update your communication preferences](http://landing.quantum.com/unsubscribepage.html).
 
 ### **Cookies and other tracking methods**
 
-When you view our Web sites or advertisements, we might store some information on your computer. This information will be in the form of a "cookie" or similar file. Cookies are small pieces of information stored on your hard drive, not on our Web sites, to help you navigate a Web site as easily as possible. Cookies can help us to better understand how users use our Web sites, which in turn helps us focus our resources on features that are more popular with our users. If you prefer not to receive cookies while browsing our Web site, you can set your browser to warn you before accepting cookies. If your browser permits, you can refuse a cookie when your browser alerts you to its presence or generally refuse all cookies by turning them off in your browser, but some parts of our Web sites, including the portion which is targeted for our registered customers, may not work properly in that case.
+When you view our Web sites or advertisements, we might store some information on your computer. This information will be in the form of a "cookie" or similar file. Cookies are small pieces of information stored on your hard drive, not on our Web sites, to help you navigate a Web site as easily as possible. Cookies may uniquely identify your browser or your account, but they do not necessarily identify you personally. Cookies can also be used to help store personal information, for example where you ask us to “remember” you or keep you logged in. Cookies can help us to better understand how users use our Web sites, which in turn helps us focus our resources on features that are more popular with our users. If you prefer not to receive cookies while browsing our Web site, you can set your browser to warn you before accepting cookies. If your browser permits, you can refuse a cookie when your browser alerts you to its presence or generally refuse all cookies by turning them off in your browser, but some parts of our Web sites, including the portion that is targeted for our registered customers, may not work properly in that case. You can delete cookies from your browser; however, that means that any settings or preferences managed by those cookies will also be deleted and you may need to recreate them. Depending on your mobile device, you may not be able to control tracking technologies through settings.
 
-We employ a software technology known as Web Beacons that help us better manage content on our site by informing us what content is effective, and what kinds of offers our customers like to see. The type of information we collect includes the pages visited, navigation patterns, etc.
+To learn more about cookies and other automatic data collection tools, please visit <http://www.allaboutcookies.org/>
 
-### **Links to non-Quantum websites and third parties**
+Quantum also employs a software technology known as Web Beacons that help us better manage content on our site by informing us what content is effective, and what kinds of offers our customers like to see. The type of information we collect includes the pages visited, navigation patterns, etc. When we send you emails, they might include a web beacon or similar technology that lets us know if you received or opened the email and whether you clicked on any of the links in the email. You can opt-out of marketing emails that may use web beacons by going here: <http://forms.quantum.com/unsubscribe.aspx>
 
-The Quantum websites may provide links to third-party websites for your convenience and information. If you access those links, you will leave the Quantum web site. Quantum does not control those sites or their privacy practices, which may differ from Quantum's. We do not endorse or make any representations about third party websites. The personal data you choose to give to unrelated third parties is not covered by our Privacy Policy.
+Quantum has engaged one or more affiliated and unaffiliated third party service providers to track and analyze usage and volume statistical information from visitors to the Web site. The service provider(s) set cookies on behalf of Quantum. Quantum also uses other third party cookies to track the effectiveness of Quantum.com and to advertise Quantum’s products and services, as well as those of our partners and affiliates. Some of the providers that track visitors to our site are Google Analytics (http://www.google.com/intl/en/policies/privacy), Treehouse (<http://www.treehousei.com/privacy-policy.html>), and Crazyegg. (<http://www.crazyegg.com/privacy>)
+
+Examples of this information we track may include, but are not limited to:
+
+  * websites you visited that referred you to ours
+  * mobile apps you use (if you used a mobile app to come to our site)
+  * your IP address (for purposes of determining your general location)
+  * model of the device you used to reach our site, and browser information
+
+
+
+This information helps:
+
+  * ensure that appropriate advertising is shown in the application or on the website
+  * calculate and control the number of unique and repeat views of a given ad
+  * deliver ads that relate to your interests
+  * measure the relevancy of ad campaigns
+
+
+
+Some technology enables advertising to be temporarily uploaded onto your mobile device and then be replaced while you are online.
+
+Our ad partners deliver ads for us and may combine the information collected or obtained from us with other information they have independently collected from other websites and/or other online or mobile products and services relating to your browser's activities across their network of websites.
+
+You may opt out of the use of your information by ad partners by using the [Network Advertising Initiative tool](http://www.networkadvertising.org/). If you delete all cookies, use a different browser, or use a different computer, you will need to use the tool to renew your opt out choice. There are other things you can do to protect your privacy online. For example, you can anonymize your web browser for increased privacy.
+
+[Get more information about online advertising from the National Advertising Initiative](http://www.networkadvertising.org/understanding-online-advertising)
+
+##### Do not track signals
+
+Some web browsers may transmit "do-not-track" signals to websites with which the browser communicates. Because of differences in how web browsers incorporate and activate this feature, it is not always clear whether users intend for these signals to be transmitted, or whether they are even aware of them.
+
+Participants in the leading Internet standards-setting organization that is addressing this issue are in the process of determining what, if anything, Web sites should do when they receive such signals. Quantum currently does not take action in response to these signals. If and when a final standard is established and accepted, Quantum will reassess how to respond to these signals.
+
+##### Links to non-Quantum web sites and third parties
+
+The Quantum Web sites may provide links to third-party websites for your convenience and information. If you access those links, you will leave the Quantum web site. Quantum does not control those sites or their privacy practices, which may differ from Quantum’s. We do not endorse or make any representations about third party websites. The personal data you choose to give to unrelated third parties is not covered by our Privacy Policy.
 
 ### **Security**
 
@@ -94,9 +130,9 @@ We are committed to protecting the information you provide us. To prevent unauth
 
 ### **Choice/Opt-Out**
 
-We provide you the opportunity to 'opt-out' of having your personally identifiable information used for certain purposes, when we ask for this information. For example, if you purchase a product or service but do not wish to receive any additional marketing material from us, you can indicate your preference on our order form.
+We provide you the opportunity to ‘opt-out’ of having your personally identifiable information used for certain purposes, when we ask for this information. For example, if you purchase a product or service but do not wish to receive any additional marketing material from us, you can indicate your preference on our order form.
 
-If you want to opt-out of receiving communications such as e-mail newsletters, white papers or promotional communications, you may do so by selecting the "opt-out" or "unsubscribe" link in each email that you receive from us, by returning to the Web site where you originally submitted your information, if applicable, and following the opt-out instructions therein, by using the online form entitled "[Opt Out](http://quantum.mv.treehousei.com/unsubscribe.aspx)"
+If you want to opt-out of receiving communications such as e-mail newsletters, white papers or promotional communications, you may do so by selecting the "opt-out" or "unsubscribe" link in each email that you receive from us, by returning to the Web site where you originally submitted your information, if applicable, and following the opt-out instructions therein, by using the online form entitled "[Opt Out](http://landing.quantum.com/unsubscribepage.html)"
 
 ### **Changes in this Privacy Statement**
 
@@ -104,16 +140,18 @@ If we decide to change our privacy policy, we will post those changes to this pr
 
 We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page.
 
+For changes to this privacy policy that may be materially less restrictive on our use or disclosure of personal information that you have provided to us, we will obtain your consent before implementing the change.
+
 ### Contact Us
 
 If you have any questions or suggestions regarding our privacy policy, please contact us at:
 
-Quantum  
-141 Innovation Drive  
-Irvine , CA 92617  
-Tel (toll free): (800) 677-6268  
-Tel (local): (949) 856-7800  
-Fax: (949) 856-7799  
-www.Quantum.com
+Quantum Web Team   
+141 Innovation Drive   
+Irvine , CA 92617   
+Tel (toll free): (800) 677-6268   
+Tel (local): (949) 856-7800   
+Fax: (949) 856-7799   
+[webteam@quantum.com](mailto:webteam@quantum.com)
 
-Privacy Policy updated September 2012
+Privacy Policy updated April. 2015
