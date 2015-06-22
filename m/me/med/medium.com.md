@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the medium.com privacy policy that was archived on 2014-07-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140716143728id_/https%3A//medium.com/policy/f03bf92035c9) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the medium.com privacy policy that was archived on 2015-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150622052805id_/https%3A//medium.com/policy/f03bf92035c9) for the most accurate reproduction.*
 
 # Medium Privacy Policy — Medium Policy — Medium
 
@@ -136,7 +136,7 @@ Medium Services are intended for general audiences and are not directed to child
 
 Medium may periodically update this policy. We will notify you about significant changes in the way we treat personal information by sending a notice to the primary email address specified in your Medium account or by placing a prominent notice on our site before the changes take effect.
 
-The most current version of the policy will always be [here](https://medium.com/policy/f03bf92035c9) and we will archive former versions of the policy [here](https://github.com/Obvious/policy).
+The most current version of the policy will always be [here](https://medium.com/policy/f03bf92035c9) and we will archive former versions of the policy [here](http://github.com/Medium/policy).
 
 ####  **Questions**
 
