@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mytheresa.com privacy policy that was archived on 2014-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141219111758id_/http%3A//www.mytheresa.com/en-de/service/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mytheresa.com privacy policy that was archived on 2015-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150622201700id_/http%3A//www.mytheresa.com/en-de/service/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy, data protection and security - mytheresa.com
 
@@ -8,7 +8,7 @@ The protection of your personal data and your privacy is incredibly important to
 
 Data controller, data protection officer
 
-mytheresa.com GmbH, Einsteinring 37, 85609 Aschheim/Munich, Germany is responsible for your privacy protection and is the official service provider. If you have questions regarding our website, the following information, or if you would like to contact our privacy protection representative, please send us an email at [info@mytheresa.com](mailto:info@mytheresa.com). 
+mytheresa.com GmbH, Einsteinring 9, 85609 Aschheim/Munich, Germany is responsible for your privacy protection and is the official service provider. If you have questions regarding our website, the following information, or if you would like to contact our privacy protection representative, please send us an email at [info@mytheresa.com](mailto:info@mytheresa.com). 
 
 Definition of personal data
 
@@ -18,7 +18,7 @@ Collection and use of personal data
 
 During registration for your customer account, we collect and implement your personal data in order to finalize the order process, as well as customize your personal shopping experience. Your data will be transmitted to third parties only as required to perform the contract or for billing purposes. For example, the service providers we employ in the handling of orders (e.g., carriers, payment service providers, banks) will be provided with the data necessary for completing your order. 
 
-In subscribing for a newsletter you agree that mytheresa.com GmbH, Einsteinring 37, 85609 Aschheim/Munich may use the data you entered to inform you by e-mail about the contents and/or products selected by you. You may revoke your consent at any time with effect for the future, either by written notice to mytheresa.com GmbH, Einsteinring 37, 85609 Aschheim/Munich or by email to [info@mytheresa.com](mailto:info@mytheresa.com). You may also unsubscribe from any newsletter via the link provided at the end of each newsletter. We transfer your data to our service providers only for data administration and hosting purposes.
+In subscribing for a newsletter you agree that mytheresa.com GmbH, Einsteinring 9, 85609 Aschheim/Munich may use the data you entered to inform you by e-mail about the contents and/or products selected by you. You may revoke your consent at any time with effect for the future, either by written notice to mytheresa.com GmbH, Einsteinring 9, 85609 Aschheim/Munich or by email to [info@mytheresa.com](mailto:info@mytheresa.com). You may also unsubscribe from any newsletter via the link provided at the end of each newsletter. We transfer your data to our service providers only for data administration and hosting purposes.
 
 In connection with our newsletter mailings, we may utilise user data to create anonymous user profiles for purposes of market research, advertising or customised newsletter contents. As part of certain marketing activities, our service providers may obtain necessary data to process orders. They reserve the right to use this information only for their designated activities and are prohibited from sharing it with unauthorised third parties. You may object to any such use of your data by notice via post, fax, or email to [info@mytheresa.com](mailto:info@mytheresa.com), in no particular format.
 
@@ -84,4 +84,4 @@ Storage, correction, deletion and deactivation of your personal data
 
 You may at any time view, modify and delete the data in your customer account which you entered for your registration. Data that are still required to complete the services requested by you, especially the performance and completion of contracts, cannot be deleted. The data will be deactivated upon termination of the contract, and furthermore will be deleted once the applicable retention period provided by law or contract has expired. 
 
-To request information or any correction or deletion of data, please email to [info@mytheresa.com](mailto:info@mytheresa.com) or send a letter to mytheresa.com GmbH, Einsteinring 37, 85609 Aschheim/Munich, stating your name and your contact details. 
+To request information or any correction or deletion of data, please email to [info@mytheresa.com](mailto:info@mytheresa.com) or send a letter to mytheresa.com GmbH, Einsteinring 9, 85609 Aschheim/Munich, stating your name and your contact details. 
