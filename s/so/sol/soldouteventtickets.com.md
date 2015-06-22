@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the soldouteventtickets.com privacy policy that was archived on 2014-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141213101551id_/http%3A//www.getmein.com/PrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soldouteventtickets.com privacy policy that was archived on 2015-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150622063045id_/http%3A//www.getmein.com/PrivacyPolicy.html) for the most accurate reproduction.*
 
 # GET ME IN! Buy & Sell Concert Tickets, Theatre Tickets and Sports Tickets.
 
-**Privacy policy**
+**GET ME IN! Privacy Policy**
 
 As a leader in our industry, GET ME IN! realises that earning and retaining your trust is of paramount importance and it's a responsibility we take very seriously.
 
@@ -71,11 +71,11 @@ All personal information you provide to GET ME IN! is transmitted using SSL (Sec
 **What other information should I know about my privacy?**
 
 If you are a buyer, GET ME IN! will disclose your name, contact number and address details to sellers for order fulfillment purposes only.  
-We use a credit card processing company to bill you for goods and services. We will disclose your name, billing address and credit card information to these credit card companies. But these companies do not retain, share, store or use personally identifiable information for any other purposes other than the billing for good and services. Additionally your contact details may be used by the courier as part of their address label to facilitate delivery and enable them to contact you directly in the event of any delivery issues.
+We use a credit card processing company to bill you for goods and services. We will disclose your name, billing address and credit card information to these credit card companies. But these companies do not retain, share, store or use personally identifiable information for any other purposes other than the billing for good and services. Additionally your contact details may be used by the courier as part of their address label to facilitate delivery and enable them to contact you directly in the event of any delivery issues. If you are a seller GET ME IN! may disclose your registered address _to a buyer_ for the return of _incorrectly delivered_ tickets. This will only happen if the event is within 3 days of the delivery of incorrect tickets. See section 3.6 of the Seller Agreement for further information. 
 
 In addition to the circumstances described above, GET ME IN! may disclose client information if required to do so by law, court order, as requested by other government or law enforcement authority, or in the good faith belief that disclosure is otherwise necessary or advisable including, without limitation, to protect the rights or properties of GET ME IN! or its affiliated companies or when we have reason to believe that disclosing the information is necessary to identify, contact or bring legal action against someone who may be causing interference with our rights or properties, whether intentionally or otherwise, or when anyone else could be harmed by such activities. 
 
-This policy is effective as of March 1, 2007. Any material changes in the way GET ME IN! uses personal information will be described in future versions of this Privacy Statement. Of course, you may always submit concerns regarding our Privacy Statement or our privacy practices via email. GET ME IN! will attempt to respond to all reasonable concerns or inquiries within five business days of receipt.
+This policy is effective as of the publication date set out at the bottom of this page. Any material changes in the way GET ME IN! uses personal information will be described in future versions of this Privacy Statement. Of course, you may always submit concerns regarding our Privacy Statement or our privacy practices via email. GET ME IN! will attempt to respond to all reasonable concerns or inquiries within five business days of receipt.
 
 **Transfer of Your Personal Information and Financial Information Outside Of The EEA**
 
@@ -86,6 +86,8 @@ From time to time, GET ME IN may transfer your personal information and/or finan
 In the event that GET ME IN or Ticketmaster is sold, or some of their respective assets are transferred to another party, your personal information could be one of the transferred assets. If your personal information is transferred, use of your personal information will remain subject to this Privacy Policy. Your personal information will be passed on to a successor in interest in the event of a liquidation or administration of GET ME IN or Ticketmaster (as applicable).
 
 This policy is effective as of November 11, 2008. Any material changes in the way GET ME IN! uses personal information will be described in future versions of this Privacy Statement. Of course, you may always submit concerns regarding our Privacy Statement or our privacy practices via email, please contact us at legal@ticketmaster.co.uk.
+
+ _Effective 19th June 2015_
 
   
 
