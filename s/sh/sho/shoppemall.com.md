@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the shoppemall.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625110737id_/http%3A//www.shoppemall.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shoppemall.com privacy policy that was archived on 2015-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150622032435id_/http%3A//www.shoppemall.com/privacy_policy.php) for the most accurate reproduction.*
 
-# Shoppemall.com: Privacy Policy
+# Privacy Policy | shoppemall.com
 
 Protecting your privacy is very much substantial to us, for which we have commissioned highest of standards and follow the most stringent procedures to help protect the confidential information that is stored on our systems. We do not disclose, circulate or sell your personal details, facts or data to the other parties for their marketing purpose, your data is precious to us and we give utmost importance to your privacy, it will only be used for our promotional activities. We have committed ourselves to do everything we reasonably can to protect your rights of privacy on the systems and the Portal controlled by us. Please read this privacy policy thoroughly to learn more about the ways in which we use and safeguard your personal details, facts or data.
 
