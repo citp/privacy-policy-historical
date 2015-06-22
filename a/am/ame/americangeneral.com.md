@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the americangeneral.com privacy policy that was archived on 2014-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141101064218id_/http%3A//www.aig.com/policy_3789_537759.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americangeneral.com privacy policy that was archived on 2015-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150622082442id_/http%3A//www.aig.com/policy_3789_537759.html) for the most accurate reproduction.*
 
 # Privacy - American General Life Insurance Company
 
@@ -6,11 +6,11 @@ American General Life Insurance Company Privacy Notices
 
 This notice has been sent to certain customers under the Financial Services Act, commonly known as the Gramm-Leach-Bliley Act. It explains how nonpublic personal information about you is handled by the insurance company and other affiliates of American General Life Insurance Company.
 
-  * [Privacy Notice](https://web.archive.org/AmericanGeneral/internet/US/en/PrivacyPolicy_tcm3789-537768.pdf "PrivacyPolicy") 
+  * [Privacy Notice](https://web.archive.org/AmericanGeneral/internet/US/en/PrivacyPolicy_tcm3789-537768.pdf "PrivacyPolicy")  
 
 
 
- **  
+**  
 Website Privacy Policy**
 
 This policy explains what information we may gather through this Internet site and how that information is handled and used. 
