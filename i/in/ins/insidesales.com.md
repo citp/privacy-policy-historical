@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the insidesales.com privacy policy that was archived on 2014-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141009200411id_/http%3A//www.insidesales.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insidesales.com privacy policy that was archived on 2015-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150622142014id_/http%3A//www.insidesales.com/privacy_policy.php) for the most accurate reproduction.*
 
 # InsideSales.com Website Privacy Policy
 
@@ -22,17 +22,17 @@ For a fuller discussion of our privacy practices, please see the Frequently Aske
 
 Listing and Links to Frequently Asked Questions 
 
-1\. [What information do we collect from you?](http://www.insidesales.com/terms.php#1)  
-2\. [Where do we collect information from you?](http://www.insidesales.com/terms.php#2)  
-3\. [How do we use the personal information we collect from you?](http://www.insidesales.com/terms.php#3)   
-4\. [Who is collecting information?](http://www.insidesales.com/terms.php#4)   
-5\. [With whom do we share your information?](http://www.insidesales.com/terms.php#5)   
-6\. [What are my choices regarding collection, use, and distribution of my information?](http://www.insidesales.com/terms.php#6)   
-7\. [How can I update, correct, or delete my personally identifiable information?](http://www.insidesales.com/terms.php#7)  
-8\. [What security precautions are in place to protect the loss, misuse, or alteration of my information?](http://www.insidesales.com/terms.php#8)   
-9\. [What about the privacy of visitors who are 13 and under?](http://www.insidesales.com/terms.php#9)   
-10\. [What are cookies and how do they collect, use, and distribute information?](http://www.insidesales.com/terms.php#10)   
-11\. [Where can I find any changes to the Privacy Policy?](http://www.insidesales.com/terms.php#11)   
+1\. What information do we collect from you?  
+2\. Where do we collect information from you?  
+3\. How do we use the personal information we collect from you?   
+4\. Who is collecting information?   
+5\. With whom do we share your information?   
+6\. What are my choices regarding collection, use, and distribution of my information?   
+7\. How can I update, correct, or delete my personally identifiable information?  
+8\. What security precautions are in place to protect the loss, misuse, or alteration of my information?   
+9\. What about the privacy of visitors who are 13 and under?   
+10\. What are cookies and how do they collect, use, and distribute information?   
+11\. Where can I find any changes to the Privacy Policy?   
 **  
 Frequently Asked Questions  
 **  
