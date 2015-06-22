@@ -1,8 +1,9 @@
-> *The following text is extracted and transformed from the lovesove.com privacy policy that was archived on 2014-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141229083701id_/http%3A//www.lovesove.com/cards/contact-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lovesove.com privacy policy that was archived on 2015-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150622133630id_/http%3A//www.lovesove.com/cards/contact-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy/Disclaimer | LoveSove.com
 
-All Pictures uploaded on this page are taken from google or tumblr. Watermark on the images just represent that the pictures are collected by this page. They are not originally captured by us.
+All Pictures uploaded on this page are taken from google or tumblr. Watermark on the images just represent that the pictures are collected by this page. They are not originally captured by us.  
+24×7 Email: **support@lovesove.com**
 
 Some jealous people trying to put lovesove logo on copyrighted images and trying to discredit LoveSove.com.  If you found lovesove logo on any copyrighted image then feel free to tell us at “support@lovesove.com” we are always here to support you. And here are also many fake pages of LoveSove on facebook.com so beware from that pages.
 
@@ -21,5 +22,3 @@ Whatever images you are able to see in this site is get from the different sourc
 The information provided by users of the site including their email address is kept confidential and will not be disclosed what so ever.
 
 We use third-party advertising companies like google to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you.  These ads may contain cookies. While we use cookies in other parts of our Website, cookies delivered through banner ads are collected by our ad company, and we do not have access to this information. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here.](http://www.google.com/privacy_ads.html)
-
-You can also visit [www.networkadvertising.org](http://www.networkadvertising.org/).
