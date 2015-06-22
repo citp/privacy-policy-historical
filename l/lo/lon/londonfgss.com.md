@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the londonfgss.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120201916id_/http%3A//www.lfgss.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the londonfgss.com privacy policy that was archived on 2015-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150622085652id_/https%3A//www.lfgss.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | About
 
@@ -100,7 +100,7 @@ We may share your personal information with the following parties:
 
 **Service providers and advisors** : third parties who provide a service to us, for example, we use third party email provider to help us deliver your email notifications to you. These third parties will only be allowed to use your personal information in accordance with our instructions and will be required to keep your information secure.
 
-**Other users of the forum** : your comments and opinions, your user name, your profile picture, the description of yourself that you add to your profile and other user generated or supplied content will be available to other users of the forum.
+**Other users of the forum** : your comments and opinions, your user name, your profile picture, the description of yourself that you add to your profile and other user generated or supplied content will be available to other users of the forum. Some actions, such as declaring attendance of an event, may also grant other users of the forum access to your contact details.
 
 **Purchasers of our business** : personal information may be disclosed or transferred to buyers or perspective buyers of our business or any of our assets as part of the sale.
 
@@ -110,7 +110,7 @@ We do not disclose information about identifiable individuals to anyone else exc
 
 ### Marketing and Advertising
 
-**Email Marketing** \- From time to time we may contact you by email with information about our products and services. If you do not want us to send you email marketing, please let us know by sending an email to us at [david@buro9.com](https://web.archive.org/web/20141120201916id_/http://www.lfgss.com/about/privacy/david@buro9.com). You can also unsubscribe from our marketing emails by clicking on the unsubscribe link (where available) in the emails we send to you.
+**Email Marketing** \- From time to time we may contact you by email with information about our products and services. If you do not want us to send you email marketing, please let us know by sending an email to us at [david@buro9.com](mailto:david@buro9.com). You can also unsubscribe from our marketing emails by clicking on the unsubscribe link (where available) in the emails we send to you.
 
 **Email Notifications About Activity on the Forum** \- We will send you email notifications when certain actions take place on the forum. Such notifications will be sent in accordance with your notification settings under your user profile. If you want to stop or change the notifications you receive you can do so by amending your notification setting in your user profile.
 
