@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mobogenie.com privacy policy that was archived on 2014-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141203002240id_/http%3A//www.mobogenie.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobogenie.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623003040id_/http%3A//www.mobogenie.com/pr/privacy-policy.html) for the most accurate reproduction.*
 
 # Mobogenie: All-in-one Android Smartphone PC Manager
 
@@ -26,7 +26,7 @@ We use your Personal Information to: (a) operate the Website and provide the ser
 
 We may share Personal Information with our service providers who need access to such information in order to complete the work they have been engaged to do. In some cases, such service providers may directly collect Personal Information from you on our behalf. Although we require such service providers to safeguard any Personal Information received from us or collected on our behalf, we are not responsible or liable in any way for the acts or failure to act by any such service providers.
 
-If you opt-in to receive newsletters, announcements, or advertisements of any kind from our business partners, we may share your Personal Information with such third parties, so that they can directly contact you regarding such offers. You may opt-out of any marketing offers from us or our business partners by informing us during your account sign-up process or through communications to us via email atsupport@mobogenie.com Your opt-out does not apply to communications from The Company regarding any changes or updates to your account, or the non-marketing use of your Personal Information as described elsewhere in this Privacy Policy.
+If you opt-in to receive newsletters, announcements, or advertisements of any kind from our business partners, we may share your Personal Information with such third parties, so that they can directly contact you regarding such offers. You may opt-out of any marketing offers from us or our business partners by informing us during your account sign-up process or through communications to us via email atsupport@mobogenie.com�Your opt-out does not apply to communications from The Company regarding any changes or updates to your account, or the non-marketing use of your Personal Information as described elsewhere in this Privacy Policy.
 
 We may disclose your Personal Information without notice if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on us; (b) protect and defend the rights or property of The Company; and (c) act under exigent circumstances to protect the personal safety of users of the Website or the public.
 
