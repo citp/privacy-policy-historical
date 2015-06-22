@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cookdiaries.com privacy policy that was archived on 2014-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141127001317id_/http%3A//www.cookdiaries.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cookdiaries.com privacy policy that was archived on 2015-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150622031130id_/http%3A//www.cookdiaries.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | CookDiaries
 
