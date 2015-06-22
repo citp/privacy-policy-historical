@@ -1,71 +1,66 @@
-> *The following text is extracted and transformed from the hostgator.in privacy policy that was archived on 2014-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141219023245id_/http%3A//www.hostgator.in/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hostgator.in privacy policy that was archived on 2015-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150622052357id_/http%3A//hostgator.in/support/privacy.php) for the most accurate reproduction.*
 
-# HostGator.in - We Eat Up The Competition
+# Privacy Policy
 
-## Effective May 15, 2010
+At Hostgator India we recognize that privacy is important. This Privacy Policy applies to all products and services provided by us ("Endurance Web Solutions Pvt. Ltd").
 
-We, hostgator.in are committed to protecting any data that we collect concerning you. By using our services you agree to the use of the data that we collect in accordance with this Privacy Policy. 
+### Collection of Information
 
-## We are committed to protecting your privacy
+We collect various information when you register with Company, during your usage of our products and services, when you visit pages of our partners. We may combine information about you that we have with information we obtain from other partners or other companies in order to provide you a better experience or to improve the quality of our services. When you sign in to our services, you are not anonymous to us. We automatically receive and record information from your computer and browser, including your IP address, our cookie information, software and hardware attributes, the page you request and other standard browser parameters.
 
-We collect the minimum amount of information about you that is commensurate with providing you with a satisfactory service. This Policy indicates the type of processes that may result in data being collected about you. The purpose of this Privacy Policy to enable you to understand which personal identifying information ("PII", "Personal Information") of yours is collected, how and when we might use your information, who has access to this information, and how you can correct any inaccuracies in the information. To better protect your privacy, we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our website.
+When you use our services, we send one or more cookies - a small file containing a string of characters - to your device that uniquely identifies your browser. We use cookies to improve the quality of our service, including for storing user preferences, tracking user trends, and providing you with a better experience. We may set one or more cookies in your browser when you use our services or one of our partner's services. When you send messages, publish content, post material, transmit information or email through our services, we may retain the same in order to process your inquiries, respond to your requests and improve our services.
 
-## Information Collected
+Our infrastructure consists of servers deployed at multiple datacenters that are owned and operated by us or our partners. All information collected within our services resides on this network of servers.
 
-We may collect any or all of the information that via both automated means such as communications profiles and cookies. Personal Information you give us depends on the type of service, support, or sale inqury, and may include your name, address, telephone number, fax number and email address, dates of service provided, types of service provided, payment history, manner of payment, amount of payments, date of payments, domain name, credit card or other payment information. The financial information will be transferred only be used to bill you for the products and services you purchased. If you purchase by credit card, this information may be forwarded to your credit card provider. All sensitive information is collected on a secure server and data is transferred . When transferring personal information a security icon will appear in your browser.
+### Use of Information
 
-## Information Use
+We only use and process personal information for the purposes described in this Privacy Policy. In addition to the above, such purposes include:
 
-This information is used for billing and to provide service and support to our customers. We may also study this information to determine our customers needs and provide support for our customers. All reasonable precautions are taken to prevent unauthorised access to this information. This safeguard may require you to provide additional forms of identity should you wish to obtain information about your account details. HostGator may email its monthly newsletter to the primary contact e-mail on file, but customers are able to opt out of this newsletter at any time.
+  * Communicating with you
+  * Making the sites or services easier to use by eliminating the need for you to repeatedly enter the same information
+  * Providing our services
+  * Auditing, research and analysis in order to maintain, protect and improve our services
+  * Ensuring the technical functioning of our network
+  * Protecting our rights or property and that of our users
+  * Developing new services
+  * As described in the respective terms of service of each of our services and in the HostGator.in Customer Master Agreement
 
-## Log Files
 
-We use IP addresses to analyze trends, administer our site and servers, track access, and gather broad demographic information for aggregate use. IP addresses are not linked to personally identifiable information. It is possible that personal information about a customer may be included in the log files due to the normal functions of IP addresses and Web browsing.
 
-## Cookies
+### No-Spam Policy
 
-Your Internet browser has the in-built facility for storing small text files - "cookies" - that hold information which allows a website to recognize your account. We use cookies to save your preferences and login information, and provide personalized functionality. You can reject cookies by changing your browser settings, but be aware that this will disable some of the functionality on the Hostgator's website. More information about cookies can be found at <http://en.wikipedia.org/wiki/HTTP_cookie>.
+We have a strict No-Spam Policy prohibiting the use of any data collected to send spam. We will not sell any contact information to third parties.
 
-## Disclosing Information
+### Choices for Personal Information
 
-We do not disclose any personal information obtained about you from this website to third parties. We may use the information to keep in contact with you and inform you of developments associated with our business. You will be given the opportunity to opt out from any mailing list or similar device. However, we may disclose aggregate, anonymous data based on information collected from users to potential partners, our affiliates, and reputable third parties. We take all available measures to select affiliates and service providers that are ethical and provide similar privacy protection to their customers and the community. We do not make any representations about the practices and policies about these companies.
+When you sign up for a particular service that requires registration, we ask you to provide personal information. If we use this information in a manner different than the purpose defined herein and in the terms of the services offered then we will ask for your consent prior to such use. Most browsers are initially set up to accept cookies, but you can reset your browser to refuse all cookies or to indicate when a cookie is being sent. However, some of our features and services may not function properly if your cookies are disabled. You can decline to submit personal information to any of our services, in which case we may not be able to provide those services to you.
 
-## Correcting/Updating Personal Information
+### Information Sharing
 
-If a customer's personally identifiable information changes, or if a customer no longer desires our services, we will endeavor to provide a way to correct, update or remove that customer's personal data in our records. In most cases, this can be achieved via our billing system at https://www.hostgator.in/billing. Otherwise, please contact us at [sales@hostgator.in](mailto:sales@hostgator.in)
+We only share personal information with other companies or individuals in the following limited circumstances:
 
-## Opt Out & Modifications
+  * We have your consent
+  * Sharing the information with our subsidiaries, affiliated companies or other trusted businesses or persons for the purpose of processing personal information on our behalf. We require that these parties agree to process such information based on our instructions and in compliance with this Privacy Policy and any other appropriate confidentiality and security measures.
+  * We have a good faith belief that access, use, preservation or disclosure of such information is reasonably necessary to:  
+(a) satisfy any applicable law, regulation, legal process or enforceable governmental request,  
+(b) enforce applicable Terms of Service, including investigation of potential violations thereof,  
+(c) detect, prevent, or otherwise address fraud, security or technical issues, or  
+(d) protect against harm to rights, property or safety, of our users, us or the public as required or permitted by law.
+  * We may share with third parties certain pieces of aggregated, non-personal information, such as the number of users by demographic. Such information does not identify you individually.
+  * As permitted and described in the respective terms of service of each of our services and in the HostGator.in Customer Master Agreement
 
-By default, customers do receive any voluntary system updates, such as the newsletters, invoices, and mailings. Any customer who voluntarily receives these updates may unsubscribe at any time. Customers may not opt out of possibly receiving important system notifications, in the rare event that such notification would be necessary.
 
-## Security
 
-[hostgator.in](http://www.hostgator.in/) uses technical security measures to prevent the loss, misuse, alternation or unauthorized disclosure of information under our control. [hostgator.in](http://www.hostgator.in/) uses security measures including and not limited to: physical, electronic and managerial procedures to safeguard and secure the information we collect online. When we ask customers or users to provide financial information (such as a credit card number) that data is protected using Secure Sockets Layer ("SSL") technology.
+### Information Security
 
-## Data and Information Submitted to Another Person or Entity on Our Network
+We take appropriate security measures to protect against unauthorized access to or unauthorized alteration, disclosure or destruction of data. These include internal reviews of our data collection, storage and processing practices and security measures, as well as physical security measures to guard against unauthorized access to systems where we store personal data.
 
-As mentioned above, [hostgator.in](http://www.hostgator.in/) collects certain data and confidential information from customers relating to our web site hosting and domain registration services, and this Privacy Policy applies only to that data and confidential information submitted to us. This Privacy Policy does not apply to, nor does [hostgator.in](http://www.hostgator.in/) regarding, data or confidential information that is submitted to another person or entity for whom [hostgator.in](http://www.hostgator.in/) may provide hosting or domain name registration services, but regarding which we exercise no authority or control. An independent evaluation of that person or entity's own privacy policy e should be made before submitting data or confidential information to them.
+We restrict access to personal information to our employees, contractors and agents who need to know that information in order to operate, develop or improve our services. These individuals are bound by confidentiality obligations and may be subject to discipline, including termination and criminal prosecution, if they fail to meet these obligations.
 
-## Compliance with Laws and Law Enforcement
+### Accessing and Updating Personal Information
 
-We cooperate with government and law enforcement officials to enforce and comply with the law. We will disclose any information about Users upon valid request by government or law officials as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect your property and rights, or the property and rights of a third party, to protect the safety of the public or any person, or stop activity we consider illegal or unethical.
+When you use our services, we make good faith efforts to provide you with access to your personal information and to correct this data if it is inaccurate.
 
-## Changes to this Policy
+### Changes to this Privacy Policy
 
-Any changes to our Privacy Policy will be placed here and will supersede this version of our Policy. We will take reasonable steps to draw your attention to any changes in our Policy. However, to be on the safe side, we suggest that you read this document each time you use the website to ensure that it still meets with your approval.
-
-## Enforcement and Dispute Resolution
-
-[hostgator.in](http://www.hostgator.in/) has established internal mechanisms to verify its ongoing adherence to its privacy policy. Hostgator also encourages individuals covered by this privacy policy to raise any concerns about our processing of personal information by contacting [hostgator.in](http://www.hostgator.in/) at the address below.
-
-Glowtouch Technologies Pvt. Ltd  
-Near Kings Park Layout  
-Maryhill  
-Mangalore 575 015  
-Karnataka, India 
-
-Hostgator will seek to resolve any concerns. Hostgator has also agreed to participate in the dispute resolution program provided by the European Data Protection Authorities.
-
-## Contacting Us
-
-If you have any questions about our Privacy Policy, or if you want to know what information we have collected about you, please email us at [privacy@hostgator.in](mailto:privacy@hostgator.in). You can also correct any factual errors in that information or require us to remove your details from any list under our control. You can also email us at [privacy@hostgator.in](mailto:privacy@hostgator.in).
+Please note that this Privacy Policy may change from time to time.
