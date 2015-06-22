@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the v2cigs.com privacy policy that was archived on 2014-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141221234045id_/http%3A//www.v2cigs.com/ecigs/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the v2cigs.com privacy policy that was archived on 2015-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150622052943id_/http%3A//www.v2cigs.com/ecigs/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | V2 Cigs
 
@@ -25,6 +25,8 @@ Please take some time to familiarize yourself with the different ways that V2cig
 ### Non-personally identifiable information
 
 V2cigs.com uses non-personally identifiable information, such as your IP address and the pages that you visit on our Site, to help diagnose problems with our servers and to administer our Site and improve Site-related services and features. Your IP address and other non-personally identifiable information also may be used to gather broad demographic information and to recognize customer traffic patterns and Site usage trends. This information aids us in merchandising and in developing the design and layout of the Site.
+
+We use Google Analytics on our websites, across multiple platforms and different devices. The information gathered assists VMR to compile reports on web activity, internet usage, and to improve our websites. If you do not want your data reported by Google Analytics, you may opt-out by installing the Google Analytics opt-out browser add-on. This add-on instructs the Google Analytics JavaScript not to send your visit information to Google Analytics. Please note that the Google Analytics opt-out browser add-on does not prevent information from being sent to the website itself. Learn more about the Google Analytics opt-out browser add-on [here](https://support.google.com/analytics/answer/181881?hl=en).
 
 We also might share aggregated statistical data and other non-personally identifiable information with our current and potential business partners, and with our service providers to help them provide similar services.
 
