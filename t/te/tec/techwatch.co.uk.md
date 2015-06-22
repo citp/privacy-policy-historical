@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techwatch.co.uk privacy policy that was archived on 2014-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141207094438id_/http%3A//www.techwatch.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techwatch.co.uk privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623002041id_/http%3A//www.techwatch.co.uk/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Techwatch Tech News
 
@@ -13,5 +13,3 @@ All data collected on users is covered by the UK Data Protection act.
 However, please be advised that our [advertising](http://www.techwatch.co.uk/tag/advertising/ "advertising") partners, run through Google Adsense, may sometimes place a cookie on your machine after visiting this website, in order to display more relevant advertising to you on other third party websites.
 
 Again, this cookie does not collect personally identifiable information, but if you are concerned about your privacy on this issue, you can opt out of any such targeted advertising [directly with Google here](https://www.google.com/adsense/support/bin/request.py?contact=abg_afc&url=http://www.wpbeginner.com/beginners-guide/why-you-need-a-cdn-for-your-wordpress-blog-infographic/&hl=en&client=ca-pub-7626011231493911&adU=Fasthosts.co.uk&adT=VPS:+Award+Winner+2011&adU=Peer1Hosting.co.uk/Web_Servers&adT=PEER+1+UK+Web+Servers&adU=www.netservers.net.uk&adT=Windows+Server+%C2%A343.99+pcm&gl=GB).
-
-[ ](http://www.amazon.co.uk/Know-What-You-Last-Supper/dp/0749958871/ref=sr_1_1?ie=UTF8&qid=1363119597&sr=8-1)
