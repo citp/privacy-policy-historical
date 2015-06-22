@@ -1,152 +1,71 @@
-<!--The following is the downloaded HTML source of the companywiki.in privacy policy that was archived on 2014-11-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141127164407id_/http%3A//www.companywiki.in/wiki-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the companywiki.in privacy policy that was archived on 2015-06-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150622024222id_/http%3A//www.companywiki.in/wiki-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
-<title>Company Wiki - Wiki-Policy</title>
+ <title>Privacy-Policy | Companywiki</title>
 
 <base href="http://www.companywiki.in/">
 
 <meta charset="UTF-8">
-<meta http-equiv="Content-Language" content="en">
+<meta name="generator" content="Query time: 0.0015 s (1 Queries) // Parse time: 0.0612 s // Total time: 0.0627 s // Source: cache">
 <meta name="rating" content="mature">
 <meta name="author" content="companywiki.in">
-<meta name="copyright" content="Copyright ©2014 -CompanyWiki">
-<meta name="expires" content="never">
-<meta name="distribution" content="global">
 <meta name="robots" content="all,index,follow">
+<meta name="language" content="english">
 <meta name="googlebot" content="index,follow,archive">
-<meta name="description" content=""> 
-<meta name="keywords" content=""> 
+<meta name="description" content="">
+<meta name="keywords" content="company, company information, company contact, contact details, contact information, master data, company detail, basic details,find information about companies, company Search,find information about indian company,indian company, director search,director, director search, directors report, directors/partners details, company directors,corporate details of directors, email, company address, registered office, basic report, charge report, profile report, financial report, audit report, company balance-sheet | companywiki">
 <meta property="og:locale" content="en_US">
 <meta property="og:title" content="Find information about indian companies">
 <meta property="og:image" content="http://www.companywiki.in/assets/template/company-wiki/images/logo-2.png">
 <meta property="og:description" content="description goes here">
 <meta property="og:site_name" content="companywiki">
+<meta name="viewport" content="width=device-width; initial-scale=1.0; maximum-scale=1.0; user-scalable=no;">
 
+<!--<link rel="apple-touch-icon" sizes="76x76" href="assets/template/company-wiki/images/touch-icon-iphone.png">
+<link rel="apple-touch-icon" sizes="120x120" href="assets/template/company-wiki/images/touch-icon-iphone-retina.png">
+<link rel="apple-touch-icon" sizes="152x152" href="assets/template/company-wiki/images/touch-icon-ipad-retina.png">-->
 
-<link rel="icon" type="image/x-icon" href="/assets/icons/modx_favicon.png">
-
-<script async="" src="//www.google-analytics.com/analytics.js"></script><script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script> 
-<link href="assets/template/company-wiki/css/global.css" type="text/css" rel="stylesheet">
-<script type="text/javascript" src="assets/template/company-wiki/js/jquery.min.js"></script>
+<link href="assets/template/company-wiki/css/style.css?v=1.30" type="text/css" rel="stylesheet">
+<link href="assets/template/company-wiki/css/media.css?v=1.30" type="text/css" rel="stylesheet">
+<link href="http://fonts.googleapis.com/css?family=Oswald" rel="stylesheet" type="text/css">
 <link href="http://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet" type="text/css">
+<link rel="icon" type="image/x-icon" href="/assets/icons/modx_favicon.png">
+<link href="assets/template/company-wiki/jquery/jquery-ui-1.11.0/jquery-ui.css?v1.0" type="text/css" rel="stylesheet">
 
-<link href="assets/template/company-wiki/css/ui.totop.css" type="text/css" rel="stylesheet">
-<!-- easing plugin ( optional ) -->
-<script src="assets/template/company-wiki/js/easing.js" type="text/javascript"></script>
-<!-- UItoTop plugin -->
-<script src="assets/template/company-wiki/js/jquery.ui.totop.js" type="text/javascript"></script>
-<!-- Starting the plugin -->
+<!--boostrap -->
+<!--boostrap -->
+<link href="assets/template/company-wiki/css/ui.totop.css" rel="stylesheet">
+<link href="assets/template/company-wiki/css/bootstrap.min.css" rel="stylesheet">
+<link href="assets/template/company-wiki/css/bootstrap-theme.min.css" rel="stylesheet">
 
-<!--[if lt IE 9]>
-<script type="text/javascript" src="assets/template/company-wiki/js/html5shiv.js"></script>
-<![endif]-->
 
-<!-- Start the plugin for autocomplete-->
+<script async="" src="//www.google-analytics.com/analytics.js"></script><script src="assets/template/company-wiki/js/jquery.min.js" type="text/javascript"></script> 
 <script src="assets/template/company-wiki/jquery/jquery-ui-1.11.0/jquery-ui.js" type="text/javascript"></script>
 
-<link href="assets/template/company-wiki/jquery/jquery-ui-1.11.0/jquery-ui.css" type="text/css" rel="stylesheet">
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/js/bootstrap.min.js"></script>
+<script src="assets/template/company-wiki/js/ga.js" async="" type="text/javascript"></script>
+<script src="assets/template/company-wiki/js/modernizr.js"></script>
+<!--[if lt IE 9]>
+<script type="text/javascript" src="assets/template/company-wiki/js/html5shiv.js?v1.0"></script>
+<![endif]-->
 
-<script type="text/javascript">
-$(document).ready(function() {
 
-	$().UItoTop({ easingType: 'easeOutQuart' });
-
-	// Serach Suggestion Start Here
-
-	$("#topSearchInput").autocomplete({
-		source: function( request, response ) {
-			$.ajax({
-				url : "searchsuggetion.html",
-				dataType: "json",
-				data: {
-					value: request.term,
-					type: $('#topSearchSelect').val()
-				},
-				success: function( data ) {
-					response( $.map( data, function( item ) {
-						return {
-							label: item,
-							value: item
-						}
-					}));
-				},
-				error: function(xhr, status, error) {
-  					//var err = eval("(" + xhr.responseText + ")");
-				}
-			});
-		},
-		//	autoFocus: true,
-		minLength: 2
-	});//Search suggestion end
-
-});
-</script>
-
-<link rel="stylesheet" href="/assets/components/minishop2/css/web/default.css" type="text/css">
-<script type="text/javascript">
-miniShop2 = {};
-miniShop2Config = {
-	cssUrl: "/assets/components/minishop2/css/web/"
-	,jsUrl: "/assets/components/minishop2/js/web/"
-	,imagesUrl: "/assets/components/minishop2/images/web/"
-	,actionUrl: "/assets/components/minishop2/action.php"
-	,ctx: "web"
-	,close_all_message: "close all"
-	,price_format: [2, ".", " "]
-	,price_format_no_zeros: 1
-	,weight_format: [3, ".", " "]
-	,weight_format_no_zeros: 1
-	,callbacksObjectTemplate: function() {
-		return {
-			before: function() {/*return false to prevent send data*/}
-			,response: {success: function(response) {},error: function(response) {}}
-			,ajax: {done: function(xhr) {},fail: function(xhr) {},always: function(xhr) {}}
-		};
-	}
-};
-miniShop2.Callbacks = miniShop2Config.Callbacks = {
-	Cart: {
-		add: miniShop2Config.callbacksObjectTemplate()
-		,remove: miniShop2Config.callbacksObjectTemplate()
-		,change: miniShop2Config.callbacksObjectTemplate()
-		,clean: miniShop2Config.callbacksObjectTemplate()
-	}
-	,Order: {
-		add: miniShop2Config.callbacksObjectTemplate()
-		,getcost: miniShop2Config.callbacksObjectTemplate()
-		,clean: miniShop2Config.callbacksObjectTemplate()
-		,submit: miniShop2Config.callbacksObjectTemplate()
-		,getRequired: miniShop2Config.callbacksObjectTemplate()
-	}
-};
-</script>
-<script type="text/javascript" src="/assets/components/sekfancybox/lib/jquery-1.10.1.min.js"></script>
-<link rel="stylesheet" href="/assets/components/sekfancybox/source/jquery.fancybox.css?v=2.1.5" type="text/css">
-<script>
-$(document).ready(function() {
-	$("#homeSelect" ).change(function() {
-		var str = "";
-		$( "#homeSelect option:selected" ).each(function() {
-			str += $( this ).text();
+	<script type="text/javascript">
+		var counter = 0;
+		$(document).ready(function() {
+			if( counter == 0 ) {
+				counter = 1;
+				$("#onPaymentCartDiv").css({"display":"inline"});
+				$("#getPaymentInformation").css({"display":"none"});
+			}
 		});
+	</script>
+</head>
+<body>
 
-		if(str=="Company"){
-			$( "#homeSelectInput" ).attr("placeholder", "ENTER COMPANY NAME");
-		}
-		if(str=="Director"){
-			$( "#homeSelectInput" ).attr("placeholder", "ENTER DIRECTOR NAME");
-		}
-		if(str=="Din"){
-			$( "#homeSelectInput" ).attr("placeholder", "ENTER DIN NUMBER");
-		}
-		if(str=="Cin"){
-			$( "#homeSelectInput" ).attr("placeholder", "ENTER CIN NUMBER");
-		}
-	}).change();
-});
-</script>
-<script>
+<script type="text/javascript">
+
 $(document).ready(function() {
 	$("#topSearchSelect").change(function() {
 		var strValue = "";
@@ -169,31 +88,73 @@ $(document).ready(function() {
 
 	}).change();
 });
-</script>
-</head>
-<body>
 
-<div class="topFixed">
-<header class="topblack">
-	<div class="mainWidth clearfix">
-    <!--navigationg start-->
-    	<nav class="nav">	
-            <ul class="menu clearfix">
-                <li><a href="">Home</a></li>
-                <li><a href="javascript:void(0)">About</a>
-                    <ul>
-                        <li><a href="about-us.html">About Us</a></li>
-                        <li><a href="about-site.html">About Site</a></li>               
-                    </ul>
-                </li>
-                <li><a href="report-type.html">Reports</a>
-				</li>
-                <li><a href="subscription.html">Subscription</a></li>
-				<li><a href="knowledge.html">Knowledge</a></li>
-                <li><a href="contact-us.html">Contact Us</a></li>
-            </ul>
-		</nav>
-<script type="text/javascript">
+$(function() {
+	$("#topSearchInput").autocomplete({
+		source: function( request, response ) {
+			$.ajax({
+				url : "searchsuggetion",
+				dataType: "json",
+				data: {
+					value: request.term,
+					type: $('#topSearchSelect').val()
+				},
+				success: function(data) {
+					response( $.map( data.myData, function(item) {
+						return {
+							label: item.label,
+							value: item.value,
+							cin: item.companyCin,
+							title: item.companyTitle
+						}
+					}));
+				},
+				error: function(xhr, status, error) {
+
+				}
+			});
+		},
+		minLength: 2,
+		focus: function( event, ui ) {
+			$( "#topSearchInput" ).val( ui.item.label );
+				return false;
+		},
+		select: function(event,ui) {
+			var searchType = $('#topSearchSelect').val();
+
+			var delimeter = '/';
+			var splitted = ui.item.value.split(delimeter);
+
+			var companyCin = ui.item.cin;
+			var companyName = ui.item.title;
+
+			$('#topSearchSelect').val(ui.item.label);
+
+			if(searchType == "Company") {
+				window.location.href = "company/"+companyName+"/"+companyCin
+			}
+
+			if(searchType == "Director") {
+				window.location.href = "company/"+companyName+"/"+companyCin
+			}
+
+			if(searchType == "Din") {
+				window.location.href = "company/"+companyName+"/"+companyCin
+			}
+
+			if(searchType == "Cin") {
+				window.location.href = "company/"+companyName+"/"+companyCin
+			}
+
+			return false;
+		}
+	});
+
+	$( "#topSearchInput" ).autocomplete({ appendTo: ".inner_searchBox" });
+
+});
+
+
 $(document).on('click','.menu_myaccount ul  li',function() {
 	getID = $(this).attr("rel");
 	if($("leftTabing ul li[rel='"+getID+"']")) {
@@ -203,214 +164,340 @@ $(document).on('click','.menu_myaccount ul  li',function() {
 	$("html, body").animate({ scrollTop: 0 }, 600);
 });
 
-window.onload = function() {
+$(window).load(function() {
 	var url=document.URL;
 	var res = url.split("#");
-    getID = res[1];
-	if($("leftTabing ul li[rel='"+getID+"']")) {			
-		$( ".leftTabing ul li[rel='"+getID+"']" ).trigger( "click" );
+    var getID = res[1];
+	if($(".leftTabing ul li a[href='#"+getID+"']")) {
+		$(".leftTabing ul li a[href='#"+getID+"']").trigger("click");
 		return true;
 	}
-}
+});
 </script>
 
-<section class="topRight clearfix">
-	<section class="s-Icon">
-		<ul class="clearfix">
-			<li title="Cart" id="crt">
-				
+<header class="topblack topFixed">
+	<div class="mainWidth clearfix">
+    <div class="wikiheader"></div>
+		<div class="container_menu_header">
+        <div class="container">
+		<ul id="gn-menu" class="gn-menu-main">
+			<li class="gn-trigger">
+				<a class="gn-icon gn-icon-menu"></a>
+				<nav class="gn-menu-wrapper">
+					<div class="gn-scroller">
+						<ul class="gn-menu submenu_dropdown">
+							<li><a href=""><span class="wikicon glyphicon glyphicon-home"></span>Home</a></li>
+							<li>
+                             <a href="javascript:void(0)"><span class="wikicon glyphicon glyphicon-collapse-down"></span>About</a>
+                                <ul>
+                                 <li><a href="about-us"><span class="wikicon glyphicon glyphicon-exclamation-sign"></span>About us </a> </li>
+                                 <li><a href="about-site"><span class="wikicon glyphicon glyphicon-globe"></span>About Site</a> </li>
+                                </ul>
+                           	</li>
+							<li><a href="report-type"><span class="wikicon glyphicon glyphicon-file"></span>Reports</a></li>
+							<li><a href="subscription"><span class="wikicon glyphicon glyphicon glyphicon-usd"></span>Pricing</a></li>
+							<li><a href="knowledge"><span class="wikicon glyphicon glyphicon glyphicon-random"></span>Knowledge</a></li>
+							<li><a href="contact-us"><span class="wikicon glyphicon glyphicon-phone-alt"></span>Contact Us</a>
+							</li>
+						</ul>
+					</div>
+				</nav>
 			</li>
-			<a href="https://www.facebook.com/CompanyWiki.in" target="_blank"> <li title="Facebook" class="fb"> </li> </a>
-			<a href="https://twitter.com/CompanyWiki" target="_blank"><li class="twt" title="Twiter"></li></a><a href="https://twitter.com/CompanyWiki" target="_blank">
-			</a><a href="https://www.linkedin.com/company/companywiki-in" target="_blank"><li class="in" title="Linkedin"> </li></a>
+			<li></li>
 		</ul>
-	</section>
+	
 
-<nav class="nav">
-<ul class="menu_myaccount clearfix">
-	<li>
-		<a href="sign-up.html">Sign Up </a>
-	</li>
-	<li> <a href="login.html">Login</a> 
-	</li>
-</ul>
-</nav>
+	<div class="topRight clearfix">
+		<div class="s-Icon">
+			<ul class="clearfix">
+				<li title="Cart" id="crt">
+					
+					<span class="carticon3" onclick="div_show()"> </span> 
+					<span class="cartNum" onclick="div_show()"> 0 </span>
+				</li>
+				<li title="Facebook">
+					<a href="https://www.facebook.com/CompanyWiki.in" target="_blank">
+						<span class="fb"></span>
+					</a> 
+				</li>
+				<li title="Twitter">
+					<a href="https://twitter.com/CompanyWiki" target="_blank">
+						<span class="twt"></span>
+					</a>
+				</li>
+				<li title="Linkedin">
+					<a href="https://www.linkedin.com/company/companywiki-in" target="_blank">
+						<span class="in"></span>
+					</a>
+				</li>
 
-</section>
+				<li title="Blog">
+					<a target="_blank" href="http://blog.companywiki.in/">
+						<span class="cwblog"></span>
+					</a>
+				</li>
 
+			</ul>
+		</div>
+
+	     <nav class="nav">
+	       <ul id="sidemenuheader" class="menu_myaccount clearfix">
+		   <li><a href="sign-up" class="wikisignup glyphicon glyphicon-user" title="Sign Up"><span>Sign Up</span></a>
+		</li>
+			<li> <a href="login" class="wikilogin glyphicon glyphicon-lock" title="Login"><span>Login</span></a> 
+		</li>
+	     </ul>
+	  </nav>
+       </div>
     </div>
+  </div>
+</div>
 </header>
-
 
 <header class="topredStrip">
-  <div class="mainWidth clearfix">
-    <figure class="leftLogo"> 
-		<a title="http://www.companywiki.in/" href="http://www.companywiki.in/">
-			<img src="assets/template/company-wiki/images/small-logo.png" align="left" alt="Company Wiki" title="Company Wiki">
-		</a>
-	</figure>
-	<!-- msMiniCart --> 
-<section class="main-rightSearch clearfix">
-  <form action="search-result.html" method="post" class="form">
-	<section class="rightSearch ">
-		<select name="searchlist" id="topSearchSelect" class="top_search_select">
-			<option value="Company">Company</option><option value="Cin">Cin</option><option value="Director">Director</option><option value="Din">Din</option>
-		</select>
-		<input id="topSearchInput" type="text" name="SearchValue" value="" placeholder="ENTER COMPANY / CIN / DIN / DIRECTOR NAME">
-	</section>
-	<input type="hidden" name="start" value="search">
-	<input class="rightSearchbtn" type="submit" value="Search">
-  </form>
-</section>
-  </div>
-</header>
+<div class="container">
+<div class="mainWidth clearfix">
+<div class="leftLogo"><a href="http://www.companywiki.in/" title="http://www.companywiki.in/"><img alt="Company Wiki" src="assets/template/company-wiki/images/small-logo.png" title="Company Wiki"> </a></div>
+<!-- !OnChangeScript -->
+<div class="header_search_drop_down">
+	<div class="main-rightSearch clearfix">
+		<form action="search-result/" method="post" class="form">
+			<div class="rightSearch ">
+				<select name="searchlist" id="topSearchSelect" class="top_search_select">
+					<option value="Company">Company</option><option value="Cin">Cin</option><option value="Director">Director</option><option value="Din">Din</option>
+				</select>
+				<input id="topSearchInput" type="text" name="SearchValue" value="" placeholder="ENTER COMPANY / CIN / DIN / DIRECTOR NAME">
+			</div>
+			<div class="inner_searchBox"></div>
+			<input type="hidden" name="start" value="search">
+			<input class="rightSearchbtn" type="submit" value="Search">
+		</form>
+	</div>
+</div></div>
 </div>
+</header>
 
-<div class="mainWidth margin-top-150 clearfix">
-<h2 class="commonHeading">Privacy Policy</h2>
+<div class="header_fix_mr">&nbsp;</div>
+
+<div class="container">
+<div class="clearfix">
 <div class="innerContent">
- <p>
-This privacy policy sets out how <a href="http://www.companywiki.in/" title="companywiki"> companywiki.in </a> uses and protects any information that you give it when you use this website.
-<a href="http://www.companywiki.in/" title="companywiki"> companywiki.in </a> is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
-</p>
- <p>
-<a href="http://www.companywiki.in/" title="companywiki"> companywiki.in </a> may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 1st January 2013
-</p>
+<h2 class="footer_nav_heading">Privacy Policy</h2>
+
+<p>This privacy policy sets out how <a href="http://www.companywiki.in/" title="companywiki"> companywiki.in </a> uses and protects any information that you give it when you use this website. <a href="http://www.companywiki.in/" title="companywiki"> companywiki.in </a> is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.</p>
+
+<p><a href="http://www.companywiki.in/" title="companywiki">companywiki.in </a> may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 1st January 2013</p>
 
 <h3>What we collect</h3>
 
 <ul>
-    <li>We may collect the following information:</li>
-    <li>name , job title, organization</li>
-    <li>contact information including email address and mobile number</li>	
+	<li>We may collect the following information:</li>
+	<li>name , job title, organization</li>
+	<li>contact information including email address and mobile number</li>
 </ul>
 
 <h3>What we do with the information we gather</h3>
 
 <p>We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:</p>
-<ul>
-<li>Internal record keeping.</li>
 
-<li>We may use the information to improve our products and services.</li>
-<li>
-We may periodically send promotional emails about new products, special offers or other information which we think you may find interesting using the email address which you have provided.</li>
-<li>
-From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail. We may use the information to customise the website according to your interests.</li>
-<li>
-We will not share your information with any Third Party for any marketing related activity.</li>
-<li>
-We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. 
-</li>
-<li>
-We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen
-</li>
+<ul>
+	<li>Internal record keeping.</li>
+	<li>We may use the information to improve our products and services.</li>
+	<li>We may periodically send promotional emails about new products, special offers or other information which we think you may find interesting using the email address which you have provided.</li>
+	<li>From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail. We may use the information to customise the website according to your interests.</li>
+	<li>We will not share your information with any Third Party for any marketing related activity.</li>
+	<li>We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so.</li>
+	<li>We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen</li>
 </ul>
 
 <h3>Security</h3>
-<p>
-We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
-</p>
+
+<p>We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.</p>
 
 <h3>How we use cookies</h3>
-<p>
-A cookie is a small file which asks permission to be placed on your computer's hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.</p>
-<p>
-We use traffic log cookies to identify which pages are being used. This helps us analyse data about webpage traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system.
-</p>
-<p>
-Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us.
-</p>
-<p>
-You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
-</p>
+
+<p>A cookie is a small file which asks permission to be placed on your computer's hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.</p>
+
+<p>We use traffic log cookies to identify which pages are being used. This helps us analyse data about webpage traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system.</p>
+
+<p>Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us.</p>
+
+<p>You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.</p>
+
 <h3>Contacting Us</h3>
-<p>
-If there are any questions regarding this privacy policy you may contact us at the details given in our <a href="contact-us.html" title="Contact Us"> Contact Us </a> page.
-</p>
- 
+
+<p>If there are any questions regarding this privacy policy you may contact us at the details given in our <a href="contact-us" title="Contact Us"> Contact Us </a> page.</p>
+</div>
+</div>
 </div>
 
-	
-</div>
+<div class="bottom_fix_mr">&nbsp;</div>
+<script src="assets/template/company-wiki/js/jquery.ui.totop.js" type="text/javascript"></script><script type="text/javascript">
+$(document).ready(function() {
+	$().UItoTop({ easingType: 'easeOutQuart' });
+});
+</script>
 
-<div class="margin-Bottom-60"> &nbsp;</div>
-<!--<div class="margin-Bottom-60"> &nbsp;</div>-->
 <footer class="footer">
-	<div class="mainWidth clearfix">
-		<ul class="footerNavi clearfix">
-			<li><a href="http://www.companywiki.in/">Home</a></li>
-			<li><a href="wiki-policy.html">Privacy Policy</a></li>
-			<li><a href="shipping-and-delivery-policy.html">Shipping &amp; Refunds</a></li>
-			<li><a href="wiki-disclaimer.html">Disclaimer</a></li>
-			<li><a href="terms-and-conditions.html">Terms &amp; Conditions</a></li>
-			<li><a href="contact-us.html">Contact Us</a></li>
-		</ul>
-
-		<p class="copyrit"> © 2014 All Rights Reserved </p>
+	<div class="container clearfix">
+		<div class="footerNavi clearfix">
+			<a href="http://www.companywiki.in/">Home</a>
+			<a href="wiki-policy">Privacy Policy</a>
+			<a href="shipping-and-delivery-policy">Shipping &amp; Refunds</a>
+			<a href="wiki-disclaimer">Disclaimer</a>
+			<a href="terms-and-conditions">Terms &amp; Conditions</a>
+			<a href="contact-us">Contact Us </a>
+		</div>
+		<p class="copyrit">© 2014 All Rights Reserved </p>
 		<div class="brandLogo">
 			<a href="http://www.cpesolutions.in" target="_blank">
-				<img src="assets/template/company-wiki/images/cp_esolutions.jpg" alt="cpesolutions.in" title="Corporate Professionals eSolutions" width="120">
+				<img src="assets/template/company-wiki/images/cpesolutions.jpg" alt="cpesolutions.in" title="Corporate Professionals eSolutions" width="126" height="26">
 			</a>
 		</div>
 	</div>
 </footer>
 
+
+<div id="Popup_Cart">
+<div class="popup_fix">
+	<div id="popupContact">
+		<span class="cross_popup" onclick="cartValueUpdate()">X</span>
+	<div class="empty_cart clearfix">
+	<article style="text-align: center;"><h2 class="commonHeading fontSize-50"> Your cart is empty. </h2><br><br><div class="continue_empty empty-btn">
+<a href="http://www.companywiki.in/"> Continue Shopping </a>
+</div><br><br><br></article> </div><input type="hidden" id="selectedReportStr" name="selectedReportStr" value="">
+	</div>
+</div>
+</div>
+
+<!-- View Report Section end -->
+<script src="assets/template/company-wiki/js/classie.js"></script>
+<script src="assets/template/company-wiki/js/gnmenu.js"></script>
+
+
+<script type="text/javascript" src="assets/template/company-wiki/js/cookies.js"></script>
 <script type="text/javascript">
-$(document).on('click','.fancybox-close',function() {
+
+// Used For Menu Oprion Seleted
+$(document).ready(function() {
+
+    var index = Cookies.get('active'); 
+
+    $(".gn-menu").find('a').eq(index).addClass('active');
+	$('.gn-menu').on('click', 'li a', function (e) {
+       //e.preventDefault();
+        $('.gn-menu').find('a').removeClass('active');
+        $(this).addClass('active');
+        Cookies.set('active', $('.gn-menu a').index(this));
+    });
+
+});	
+</script>
+
+<script type="text/javascript">
+
+new gnMenu( document.getElementById( 'gn-menu' ) );
+
+function CheckToCartValue(Available) {
+	if(Available) {
+		window.location.href="";
+		return true;
+	} else {
+		alert("Please Add Product Before Check Out");
+		return false;
+	}
+}
+
+//function to display Popup
+
+function div_show() {
+	document.getElementById('Popup_Cart').style.display = "block";
+}
+
+//function to hide Popup
+function div_hide() {
+	document.getElementById('Popup_Cart').style.display = "none";
+}
+
+function contact_div_show() {
+	document.getElementById('Popup_Contact').style.display = "block";
+}
+
+function contact_div_close() {
+	document.getElementById('Popup_Contact').style.display = "none";
+}
+
+
+function cartRowDelete(rowID) {
+	dataString = 'removep='+ rowID;
 	$.ajax({
-		type: "POST",
-		url: "mini-cart.html",
+		type: "GET",
+		url: "cart-store",
+		data: dataString,
 		cache: false,
 		success: function(result) {
-			$(".cartNum").html(result);
+			$("#popupContact").html(result);
+		}
+	});
+}
+
+function clearWikiCart() {
+	var rowID = 1;
+	dataString = 'emptycart='+ rowID;
+	$.ajax({
+		type: "GET",
+		url: "cart-store",
+		data: dataString,
+		cache: false,
+		success: function(result) {
+			$("#popupContact").html(result);
+		}
+	});
+}
+
+
+function cartValueUpdate() {
+	div_hide();
+	$.ajax({
+		type: "POST",
+		url: "cart",
+		cache: false,
+		success: function(result) {
+			$(".cartNum").html(result);			
 		}
 	});
 
-	if(window.location == "order.html"){
+	if(window.location == "user-report-order") {
 		window.location.href = window.location;
 	}
+}
 
-});
 
 function myClickRefresh() {
 	$.ajax({
 		type: "POST",
-		url: "mini-cart.html",
+		url: "mini-cart",
 		cache: false,
 		success: function(result) {
 			$(".cartNum").html(result);
 		}
 	});
 
-	if(window.location == "order.html"){
+	if(window.location == "user-report-order"){
 		window.location.href = window.location;
 	}
 }
+
 </script>
 
-<!-- This Script Has Been Used For Google Analytics [Don't Delete This Script] -->
-<script>
+<script type="text/javascript">
 (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
 	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
 	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
 })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
 ga('create', 'UA-52129553-1', 'companywiki.in');
 ga('send', 'pageview');
 </script>
 
-<script type="text/javascript">
-	if(typeof jQuery == "undefined") {
-		document.write("<script src=\"/assets/components/minishop2/js/web/lib/jquery.min.js\" type=\"text/javascript\"><\/script>");
-	}
-</script><script src="/assets/components/minishop2/js/web/lib/jquery.min.js" type="text/javascript"></script>
-
-<script type="text/javascript" src="/assets/components/minishop2/js/web/default.js"></script>
-<script type="text/javascript" src="/assets/components/sekfancybox/source/jquery.fancybox.pack.js?v=2.1.5"></script>
-<script type="text/javascript">
-						$(document).ready(function() {
-							$('.fancybox').fancybox();
-						});
-					</script>
 
 </body></html>
