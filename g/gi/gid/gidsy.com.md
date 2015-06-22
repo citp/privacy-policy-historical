@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gidsy.com privacy policy that was archived on 2014-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141203232719id_/http%3A//www.getyourguide.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gidsy.com privacy policy that was archived on 2015-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150622223440id_/http%3A//www.getyourguide.com/privacy_policy.php) for the most accurate reproduction.*
 
 # GetYourGuide Privacy
 
@@ -8,7 +8,7 @@ _Last updated: August 16th, 2013_
 
 1\. Scope and amendments
 
-This policy (" **Privacy Policy** ") sets out how we process personal information that you share with us or that we may collect when you browse the Website. Capitalized terms in this Privacy Policy have the meanings defined in the [Terms of Use](https://web.archive.org/web/20141203232719id_/http%3A//www.getyourguide.com/terms_of_use.php).
+This policy (" **Privacy Policy** ") sets out how we process personal information that you share with us or that we may collect when you browse the Website. Capitalized terms in this Privacy Policy have the meanings defined in the [Terms of Use](https://web.archive.org/web/20150622223440id_/http%3A//www.getyourguide.com/terms_of_use.php).
 
 This Privacy Policy applies to any use of the Website. We may amend this Privacy Policy at any time and effective immediately, with effect for the future. If we make amendments, they apply as of the date of their publication on the Website. We expect you to regularly refer to this section to make sure you are familiar with the applicable Privacy Policy. 
 
@@ -24,7 +24,7 @@ Back to top
 
 3\. Account information and bookings
 
-When you register an account with us, you will transfer personal information to us, such as your name, address, date of birth, phone number and e-mail address, and information relating to booked activities. By registering your account, you provide consent for us to send you messages and documents through electronic means. By registering an account with us, you also permit us to send you our regular newsletters and updates about specials and other announcements. You can at any time unsubscribe from receiving such messages through an included link. When you book an activity, personal information will be transmitted to the relevant supplier, who may be located abroad including in countries without an adequate level of data protection. When you book an activity you also permit the relevant supplier to send you related information. For details, please see our [General Terms of Business](https://web.archive.org/web/20141203232719id_/http%3A//www.getyourguide.com/terms_of_business.php). When you pay for booked activities using a credit card, the payment will be processed by a payment solution provider we select in our sole discretion, currently Concardis ([http://www.concardis.com](http://www.concardis.com/)). We do not store credit card information. 
+When you register an account with us, you will transfer personal information to us, such as your name, address, date of birth, phone number and e-mail address, and information relating to booked activities. By registering your account, you provide consent for us to send you messages and documents through electronic means. By registering an account with us, you also permit us to send you our regular newsletters and updates about specials and other announcements. You can at any time unsubscribe from receiving such messages through an included link. When you book an activity, personal information will be transmitted to the relevant supplier, who may be located abroad including in countries without an adequate level of data protection. When you book an activity you also permit the relevant supplier to send you related information. For details, please see our [General Terms of Business](https://web.archive.org/web/20150622223440id_/http%3A//www.getyourguide.com/terms_of_business.php). When you pay for booked activities using a credit card, the payment will be processed by a payment solution provider we select in our sole discretion, currently Adyen ([https://www.adyen.com/home/](http://www.concardis.com/)). We do not store credit card information. 
 
 Back to top
 
@@ -77,6 +77,6 @@ Data transmitted through an open network such as the internet or an email servic
 Back to top
 
 GetYourGuide GmbH  
-Erich-Weinert-Straße 145  
+Erich-Weinert-Straße 145C  
 10409 Berlin  
 Germany
