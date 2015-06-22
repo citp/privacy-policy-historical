@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the truecheater.com privacy policy that was archived on 2014-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141221115618id_/http%3A//www.truecheater.com/site/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the truecheater.com privacy policy that was archived on 2015-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150622233229id_/http%3A//www.truecheater.com/site/privacy) for the most accurate reproduction.*
 
 # TrueCheater.com - Register now free for online dating and casual dates
 
