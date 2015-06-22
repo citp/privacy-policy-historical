@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the hypem.com privacy policy that was archived on 2014-12-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141224163924id_/http%3A//hypem.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the hypem.com privacy policy that was archived on 2015-06-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150622114308id_/http%3A//hypem.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# hype-machine: http://ogp.me/ns/fb/hype-machine#">
 
@@ -11,7 +11,7 @@
     <meta property="og:title" content="Privacy Policy / Hype Machine">
     <meta property="og:image" content="http://static.hypem.net/apple-touch-icon-iphone4.png">
     <meta property="og:site_name" content="Hype Machine">
-    <meta name="viewport" content="maximum-scale=1">
+    <meta name="viewport" content="maximum-scale=1, width=640, maximum-scale=1.0, user-scalable=1">
     <meta name="apple-mobile-web-app-capable" content="yes">
     <meta name="verify-v1" content="qwbaObdzdZWrdu9G4KvAUGD+eLPZj38HYoLP/rhlBYo=">
     <meta name="title" content="Privacy Policy / Hype Machine">
@@ -32,8 +32,8 @@
     
     <link rel="search" type="application/opensearchdescription+xml" href="/hypemachine.xml" title="Hype Machine">
 
-    <link rel="stylesheet" type="text/css" media="screen" href="http://static.hypem.net/rev_1419291214/css/stylish-cdn.css">
-    <link rel="stylesheet" type="text/css" media="screen" href="http://static.hypem.net/rev_1414650036/css/layout-wide.css">
+    <link rel="stylesheet" type="text/css" media="screen" href="http://static.hypem.net/rev_1434963659/css/stylish-cdn.css">
+    <!--<link rel="stylesheet" type="text/css" media="screen" href="http://static.hypem.net/rev_1424964527/css/layout-wide.css"/>-->
 
     
     <!-- chartbeat -->
@@ -45,12 +45,12 @@
     <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/2.0.0/jquery.min.js"></script>
 <script type="text/javascript">window.jQuery || document.write('<scr' + 'ipt src="/js/libs/jquery-2.0.0.min.js"><\/scr' + 'ipt>')</script><script src="/js/libs/jquery-2.0.0.min.js"></script>
 
-<script src="http://static.hypem.net/rev_1419291215/js/hype_functions_min.js" type="text/javascript"></script>
+<script src="http://static.hypem.net/rev_1434963663/js/hype_functions_min.js" type="text/javascript"></script>
 <script type="text/javascript">
 
 (function($) {
 
-    window.takeovers = [{"id":"topman","country_code":"CA","match":".*","start":1419444000,"end":1419447600,"background_color":"#fff","background_top":"0px","content-wrapper-margin-top":"162px","background":"\/images\/takeovers\/backgrounds\/VICE\/topman.jpg","target":"http:\/\/www.thebay.com\/webapp\/wcs\/stores\/servlet\/en\/thebay\/brand\/TOPMAN\/mens?utm_source=Vice&utm_medium=Display&utm_content=CustomUnit&utm_campaign=TopmanFall2014","order_id":"138310005"}]; // this is included prior to header_scripts.php, in header.php :/
+    window.takeovers = []; // this is included prior to header_scripts.php, in header.php :/
 
     /*
         INIT User-Agent info
@@ -167,17 +167,18 @@
             css_sheet.type = "text/css";
             css_sheet.rel = "stylesheet";
             css_sheet.id = "mobile_css";
-            css_sheet.href = 'http://static.hypem.net/rev_1419291213/css/mobile-cdn.css';
+            css_sheet.href = 'http://static.hypem.net/rev_1434963658/css/mobile-cdn.css';
             head.appendChild(css_sheet);
 
-            viewport = document.querySelector("meta[name=viewport]");
-            viewport.setAttribute('content', 'width=640, maximum-scale=1.0, user-scalable=1');
+            // make google happy and set viewport 
+            //viewport = document.querySelector("meta[name=viewport]");
+            //viewport.setAttribute('content', 'width=640, maximum-scale=1.0, user-scalable=1');
 
         }
     })();
 
     static_http_server = "http://static.hypem.net";
-    server_time = 1419439164;
+    server_time = 1434973388;
 
     window.custom_css = [
     {
@@ -305,11 +306,12 @@ $(document).ready(function() { // this attaches to outer document scope only and
     $.when(load_user_menu()).done(function(){
         page_url_state_init();
     });
+
 });
 
 
 })(jQuery);
-    </script>
+</script>
 
     <!-- facebook autoshare setup-->
     <script type="text/javascript">
@@ -323,6 +325,26 @@ $(document).ready(function() { // this attaches to outer document scope only and
 <div id="about-site">
 The best place to find new music on the web. Every day, thousands of people around the world write about music they love — and it all ends up here.
 </div>
+
+    <div id="top-notice" style="display:none;font-size:14px;padding:2px;height:23px;">
+
+        <div id="hide-this" style="top:0px;">
+            <a href="#" onclick="hide_notice('notice20150608'); return false;" class="close">
+                <img src="http://static.hypem.net/rev_1343249165/images/top-notice-close-button.png" alt="hide this"> hide
+            </a>
+        </div>
+
+        <span id="top-notice-msg" style="line-height: 23px;">
+            <a target="_blank" href="http://merch.hypem.com">Logo tees are back in stock, use TENYEARS for 10% off your order</a>
+        </span>
+
+    </div>
+    <script type="text/javascript">
+    if (!get_cookie('notice20150608') && !ua_info.is_mobile) {
+        jQuery('#player-container').css( {top: '67px'} );
+        jQuery('#top-notice').show();
+    }
+    </script>
 
 
 
@@ -372,7 +394,6 @@ The best place to find new music on the web. Every day, thousands of people arou
                                             <li><a href="/tags/funk">Funk</a></li>
                                             <li><a href="/tags/future+garage">Future Garage</a></li>
                                             <li><a href="/tags/hip+hop">Hip Hop</a></li>
-                                            <li><a href="/tags/christmas">Holiday</a></li>
                                             <li><a href="/tags/house">House</a></li>
                                             <li><a href="/tags/instrumental">Instrumental</a></li>
                                             <li><a href="/tags/lo-fi">Lo-Fi</a></li>
@@ -383,19 +404,20 @@ The best place to find new music on the web. Every day, thousands of people arou
             </li>
 
             <!--<li id="menu-item-directory" ><a href="/blogs" title="Directory of blogs that make up the site">Blogs</a></li>-->
+            <!--<li id="menu-item-hh"><a href="/hotel" title="Hype Hotel">Hype Hotel</a></li>-->
 
-            <li id="menu-item-zeitgeist"><a href="/zeitgeist" title="Zeitgeist"><span style="color:red;font-weight:bold;">★</span> Best of 2014</a></li>
 
             <li id="menu-item-more"><a href="/labs" title="More"><b>● ● ●</b></a>
                 <ul>
-                    <li id="menu-item-premiere"><a href="/premiere/" title="Listen to a full album before it's released!">Weekly Album Premiere</a></li>
+                    <li id="menu-item-premiere"><a href="/premiere/" title="Listen to a full album before it's released!">Premiere</a></li>
                     <li id="menu-item-directory"><a href="/blogs" title="Directory of blogs that make up the site">Blog Directory</a></li>
-                    <li id="menu-item-spy"><a href="/spy" title="View real-time site activity">Spy: Real-time Site Activity</a></li>
-                    <li id="menu-item-stack"><a href="/stack" title="Our weekly mix summarizing each week's music on Hype Machine">Stack: Weekly Mix Newsletter</a></li>
-                    <li id="menu-item-tv"><a href="/tv" title="Most blogged music videos">HMTV: Most blogged videos</a></li>
-                    <li id="menu-item-hh"><a href="/hotel" title="Hype Hotel 2014">Live at SXSW: Hype Hotel 2014</a></li>
-                    <li id="menu-item-zeitgeist"><a href="/zeitgeist" title="Zeitgeist">Zeitgeist: Best Music of the Year</a></li>
-                    <li id="menu-item-labs"><a href="/labs" title="Some newer things we are hacking together">Labs: Experimental products</a></li>
+                    <li id="menu-item-stack"><a href="/stack" title="Our weekly mix summarizing each week's music on Hype Machine">Stack</a></li>
+                    <li id="menu-item-spy"><a href="/spy" title="View real-time site activity">Spy</a></li>
+                    <li id="menu-item-hypeon"><a href="/hypeon" title="Festival updates from the Mazda #HypeON series"><span style="color:red">NEW</span> Mazda #HypeON</a></li>
+                    <li id="menu-item-zeitgeist"><a href="/special/ones-to-watch-2015">Ones to Watch 2015</a></li>
+                    <li id="menu-item-zeitgeist"><a href="/zeitgeist" title="Zeitgeist">Zeitgeist 2014</a></li>
+                    <!--<li id="menu-item-tv"><a href="/tv" title="Most blogged music videos">HMTV</a></li>-->
+                    <li id="menu-item-labs"><a href="/labs" title="Some newer things we are hacking together">Labs</a></li>
                     <li id="menu-item-merch"><a href="http://merch.hypem.com" title="Tees, stickers, stuff">Official Merch</a></li>
                     <li id="menu-item-blog"><a href="http://blog.hypem.com" title="Official Hype Machine Blog">Site News</a></li>
                     <li id="menu-item-contact"><a href="http://hypem.com/contact" title="Contact us">Contact</a></li>
@@ -406,21 +428,31 @@ The best place to find new music on the web. Every day, thousands of people arou
         </ul>
 
         
-        <span id="wrap_title">HYPE HOTEL 2014</span><!-- HYPE HOTEL WRAP -->
-        <div id="wrap_menu">       
-            <a href="" onclick="jQuery(window).scrollTop(jQuery('#wrap_about').offset().top - 75);return false;">ABOUT</a>
-            <a href="" onclick="jQuery(window).scrollTop(jQuery('#wrap_video').offset().top - 75);return false;">VIDEO</a>
-            <a href="" onclick="jQuery(window).scrollTop(jQuery('#wrap_photos').offset().top - 75);return false;">PHOTOS</a>
-            <a href="" onclick="jQuery(window).scrollTop(jQuery('#wrap_artists').offset().top - 75);return false;">ARTISTS</a>
-            <a href="" onclick="jQuery(window).scrollTop(jQuery('#wrap_fans').offset().top - 75);return false;">FANS</a>
-        </div><!-- END HYPE HOTEL WRAP -->
+        <div id="hh-header">
+            <span id="wrap_title">HYPE HOTEL</span><!-- HYPE HOTEL WRAP -->
+            <div id="wrap_menu">       
+                <a href="/hotel/2015/schedule">SCHEDULE</a>
+                <a href="/hypeon">HYPEON</a>
+            </div>
+        </div>
 
-        <div id="tv-controls"><!-- HMTV -->
+        <div id="hh-wrap-header">
+            <span id="wrap_title">HYPE HOTEL</span><!-- HYPE HOTEL WRAP -->
+            <div id="wrap_menu">       
+                <a href="" onclick="jQuery(window).scrollTop(jQuery('#wrap_about').offset().top - 75);return false;">ABOUT</a>
+                <a href="" onclick="jQuery(window).scrollTop(jQuery('#wrap_video').offset().top - 75);return false;">VIDEO</a>
+                <a href="" onclick="jQuery(window).scrollTop(jQuery('#wrap_photos').offset().top - 75);return false;">PHOTOS</a>
+                <a href="" onclick="jQuery(window).scrollTop(jQuery('#wrap_artists').offset().top - 75);return false;">ARTISTS</a>
+                <a href="" onclick="jQuery(window).scrollTop(jQuery('#wrap_fans').offset().top - 75);return false;">FANS</a>
+            </div><!-- END HYPE HOTEL WRAP -->
+        </div>
+
+        <div id="tv-controls"><!-- HMTV --><!--
             <h1 id="tv-title"></h1>
             <ul id="tv-channel">
                 <li><a id="tv-popular" href="/tv/popular">Popular</a></li>
                 <li><a id="tv-latest" href="/tv/latest">Latest</a></li>
-            </ul>
+            </ul>-->
         </div><!-- END HMTV -->
 
         <div id="stack-menu"><!-- STACK -->
@@ -430,7 +462,20 @@ The best place to find new music on the web. Every day, thousands of people arou
                 <a class="icon-facebook fire-share-modal" data-href="https://www.facebook.com/dialog/feed?app_id=149376585092829&amp;redirect_uri=&amp;link=&amp;picture=&amp;name="></a>
             </div>
 
-            <a id="subscribe-button" href="http://hypem.us7.list-manage.com/subscribe?u=e9e17a06a5cc8fcbf10aaddf3&amp;id=28a82e4150&amp;SIGNUP_SRC=stack_header" target="_blank" title="Subscribe to Stack, our music newsletter">SUBSCRIBE</a>
+            <!-- Begin MailChimp Signup Form -->
+            <div id="mc_embed_signup">
+                <form id="mc-embedded-subscribe-form" class="validate" action="http://hypem.us7.list-manage1.com/subscribe/post?u=e9e17a06a5cc8fcbf10aaddf3&amp;id=28a82e4150" method="post" name="mc-embedded-subscribe-form" novalidate="" target="_blank">
+                    <div class="mc-field-group" style="float:left;">
+                        <input id="mce-EMAIL" class="required email" name="EMAIL" type="email" value="">
+                        <input type="hidden" name="SIGNUP_SRC" id="SIGNUP_SRC" value="stack_header">
+                    </div>
+                
+                    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+                    <div style="position: absolute; left: -5000px;"><input tabindex="-1" name="b_e9e17a06a5cc8fcbf10aaddf3_28a82e4150" type="text" value=""></div>
+
+                    <input id="mc-embedded-subscribe" class="button" name="subscribe" type="submit" value="SUBSCRIBE">
+                </form>
+            </div><!--End mc_embed_signup-->
 
         </div><!-- END STACK -->
 
@@ -628,7 +673,7 @@ The best place to find new music on the web. Every day, thousands of people arou
 
             <div class="tsad-skin"></div>
     
-    <!-- PAGE TOTAL: 0.004s -->
+    <!-- PAGE TOTAL: 0.002s -->
 
 </div><!-- end content wrapper -->
 
@@ -642,7 +687,7 @@ The best place to find new music on the web. Every day, thousands of people arou
             <li><a target="_blank" href="http://blog.hypem.com">Site News</a></li>
             <li><a target="_blank" class="hide_mobile" href="/stack">Stack: Weekly Mix</a></li>
             <li><a target="_blank" class="hide_mobile" href="/premiere" title="Featured album premieres">Album Premiere of the Week</a></li>
-            <li><a href="/zeitgeist/2013" class="hide_mobile" title="Zeitgeist 2013: The very best music of the year, selected by the people in the know — music bloggers.">Zeitgeist: Best of 2013</a></li>
+            <li><a href="/zeitgeist/2014" class="hide_mobile" title="Zeitgeist 2013: The very best music of the year, selected by the people in the know — music bloggers.">Zeitgeist: Best of 2014</a></li>
             <li><a target="_blank" class="hide_mobile" href="http://merch.hypem.com/">Merch: Shirts &amp; More</a></li>
         </ul>
 
@@ -655,7 +700,7 @@ The best place to find new music on the web. Every day, thousands of people arou
     <div id="footer-inner" class="content-centered">
 
         <p>
-        Bottled in 2005, aged 9 years. Hype Machine is brewed in Brooklyn, NY<span class="hide_mobile"> by <a href="http://hypem.com/anthony" title="Anthony Volodkin">Anthony</a>, <a href="http://hypem.com/zoya" title="Zoya Feldman">Zoya</a>, <a href="http://hypem.com/scott" title="Scott Kidder">Scott</a>, <a href="http://hypem.com/dev" title="Dev Sherlock">Dev</a>, <a href="http://hypem.com/jrowe913" title="Josh Rowe">Josh</a> &amp; <a href="http://hypem.com/stadiumsshrines" title="Dave Sutton">Dave</a>. <abbr title="better together">лучше вместе</abbr></span>.
+        Bottled in 2005, aged 10 years. Hype Machine is brewed in Brooklyn, NY<span class="hide_mobile"> by <a href="http://hypem.com/anthony" title="Anthony Volodkin">Anthony</a>, <a href="http://hypem.com/zoya" title="Zoya Feldman">Zoya</a>, <a href="http://hypem.com/scott" title="Scott Kidder">Scott</a>, <a href="http://hypem.com/dev" title="Dev Sherlock">Dev</a>, <a href="http://hypem.com/jrowe913" title="Josh Rowe">Josh</a> &amp; <a href="http://hypem.com/stadiumsshrines" title="Dave Sutton">Dave</a>. <abbr title="better together">лучше вместе</abbr></span>.
         <br>
         <a href="/terms">Terms of Use</a> • <a href="/privacy">Privacy Policy</a> •
 
@@ -675,7 +720,7 @@ The best place to find new music on the web. Every day, thousands of people arou
     <p>Click <strong>Allow</strong> to get desktop notifications when Hype Machine is in the background.</p>
 </div>
 
-    <div id="fb-root"><script async="" src="https://connect.facebook.net/en_US/all.js"></script></div>
+    <div id="fb-root"><script async="" src="https://connect.facebook.net/en_US/sdk.js"></script></div>
     <script type="text/javascript">
       //<![CDATA[
         var channelUrl = window.location.protocol + '//' + window.location.hostname;
@@ -688,6 +733,7 @@ The best place to find new music on the web. Every day, thousands of people arou
 
           FB.init({
             appId: '149376585092829',
+            version: 'v2.0',
             status: true,
             cookie: true,
             xfbml: true,
@@ -707,7 +753,7 @@ The best place to find new music on the web. Every day, thousands of people arou
         (function() {
           var e = document.createElement('script');
           e.async = true;
-          e.src = window.location.protocol + '//connect.facebook.net/en_US/all.js';
+          e.src = window.location.protocol + '//connect.facebook.net/en_US/sdk.js';
           document.getElementById('fb-root').appendChild(e);
         }());
       //]]>
@@ -749,10 +795,9 @@ The best place to find new music on the web. Every day, thousands of people arou
 
         </script>
 
-   
         
+   
     <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/swfobject/2.2/swfobject.js"></script>
-    <script type="text/javascript" src="/js/tv.js"></script>
     
     <script type="text/javascript">/* FF_OS LACK OF VIEWPORT WORKAROUND */
         if (ua_info.is_ff_os) { ff_os_page_resize(); }
