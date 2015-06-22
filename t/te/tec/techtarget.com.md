@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techtarget.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231164106id_/http%3A//www.techtarget.com/html/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techtarget.com privacy policy that was archived on 2015-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150622044424id_/http%3A//www.techtarget.com/html/privacy_policy.html) for the most accurate reproduction.*
 
 # TechTarget Privacy Policy
 
