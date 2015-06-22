@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the iwatchgameofthrones.net privacy policy that was archived on 2014-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141018155630id_/http%3A//iwatchgameofthrones.net/privay-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iwatchgameofthrones.net privacy policy that was archived on 2015-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150622085353id_/http%3A//iwatchgameofthrones.net/privay-policy) for the most accurate reproduction.*
 
-# Privacy Policy - iWatchGameOfThrones.net
+# Privacy Policy » iWatchGameOfThrones.net
 
 This privacy policy sets out how  _iwatchgameofthrones.net_ uses and protects any information that you give  _iwatchgameofthrones.net_ when you use this website.
 
