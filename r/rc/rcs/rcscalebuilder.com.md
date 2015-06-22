@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rcscalebuilder.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702102208id_/http%3A//www.rcscalebuilder.com/page_display.asp%3Fpid%3D9) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rcscalebuilder.com privacy policy that was archived on 2015-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150622152016id_/http%3A//www.rcscalebuilder.com/page_display.asp%3Fpid%3D9) for the most accurate reproduction.*
 
 # RCSCALEBUILDER.COM
 
