@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the organogold.com privacy policy that was archived on 2014-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141219155856id_/http%3A//www.organogold.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the organogold.com privacy policy that was archived on 2015-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150622121938id_/http%3A//www.organogold.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Official Organo Gold Website
+# Privacy Policy - Organo Gold
 
 ## Website Privacy Policy
 
 We at OG have created this Privacy Policy to demonstrate our firm commitment to protecting your personal information and informing you about how we handle it. This Privacy Policy only applies to transactions and activities in which you engage, and data gathered, on the OG website. This Privacy Policy may be modified periodically, and was last revised on February 12th, 2013. Each time you visit the OG website or provide us with information, by doing so you are accepting the practices described in this Privacy Policy at that time.
 
-## OVERVIEW
+## Overview
 
 As part of the normal operation of our services we collect information about you. This Privacy Policy describes what information we collect about you and what may happen to that information. By accepting this Privacy Policy and our Terms and Conditions, you expressly consent to our use and disclosure of your personal information in the manner prescribed in this Privacy Policy. This Privacy Policy is incorporated into and subject to the terms of the OG website user agreement.
 
@@ -16,11 +16,11 @@ Anyone under 18 years of age is considered a minor and is not eligible to utiliz
 
 ## Your IP Address
 
-Like most e-commerce Websites, each time you visit the OG website, we automatically collect your IP address and the web page from which you came. In order to administer and optimize the OG website for you and to diagnose problems with the OG website, we use your IP address only to help identify you and to gather broad demographic information about you.
+Like most e-commerce Websites, each time you visit the OG website, we automatically collect your IP address and the web page from which you came. In order to administer and optimize the OG website for you and to diagnose problems with the OG website, we use your IP address only to help identify you and to gather broad demographic information about you. 
 
 ## Cookies
 
-Like most websites, the OG website uses cookies to keep track of your purchases and other activities on the OG website and enhance your overall experience on the OG website. “Cookies” are small harmless files saved on your Browser that assist us in saving your preferences. We use cookies to deliver content specific to your interests, and to help you to save your password, to save other personal and financial information so you do not have to reenter it each time you visit the OG website. Cookies are also used to assist us in measuring our traffic flow, and to assess promotional effectiveness. You have the option to decline our cookies easily by disabling them in your browser, although in that case you may not be able to access certain features on the OG website, as well as being required to reenter your private information more frequently during a session. Third party advertisers on the Site may also place or read cookies on your browser. We are not responsible for cookies from any third party.
+Like most websites, the OG website uses cookies to keep track of your purchases and other activities on the OG website and enhance your overall experience on the OG website. “Cookies” are small harmless files saved on your Browser that assist us in saving your preferences. We use cookies to deliver content specific to your interests, and to help you to save your password, to save other personal and financial information so you do not have to reenter it each time you visit the OG website. Cookies are also used to assist us in measuring our traffic flow, and to assess promotional effectiveness. You have the option to decline our cookies easily by disabling them in your browser, although in that case you may not be able to access certain features on the OG website, as well as being required to reenter your private information more frequently during a session. Third party advertisers on the Site may also place or read cookies on your browser. We are not responsible for cookies from any third party. 
 
 ## Collection of Information
 
@@ -66,15 +66,15 @@ OG will cooperate with law enforcement inquiries, as well as other third parties
 
 ## Our Security Precautions
 
-All of OG’s website user information is stored on secure servers within the United States, and protected by applicable Federal laws. OG has security measures in place to protect against the loss, misuse and alteration of the information under our control, and that which is exchanged on OG website. Our secure server software (SSL) is the industry high standard and among the best software available today for secure commerce transactions. We encrypt all of your personal and financial information as it travels over the Internet and we store your financial information on our servers in encrypted form.
+All of OG’s website user information is stored on secure servers within the United States, and protected by applicable Federal laws. OG has security measures in place to protect against the loss, misuse and alteration of the information under our control, and that which is exchanged on OG website. Our secure server software (SSL) is the industry high standard and among the best software available today for secure commerce transactions. We encrypt all of your personal and financial information as it travels over the Internet and we store your financial information on our servers in encrypted form. 
 
-## How you may use the Information of other Users. (For independent distributors only)
+How you may use the Information of other Users. (For independent distributors only)
 
 OG grants its independent distributors limited access to other distributors’ email, ID, and shipping information, in order to allow interaction among everyone within the OG community. Through the acceptance of OG’s Website User Agreement, you agree that you have authority to use other users’ personal information that you obtain through the OG site, through related communication, or any OG-facilitated transaction, only for using services offered through OG and communications that are not unsolicited commercial messages, or for any other purpose that a user expressly agrees to. Users must have an opportunity to have you remove any information you have collected about them. In addition, under no circumstances, you can disclose personal information about another user to any third party without our consent and the consent of that user. You agree that other users may use your personal information to communicate with you regarding OG related matters. Note that law enforcement personnel, and other rights holders are given different rights with respect to information they access.
 
 OG and its service providers do not tolerate “spam”. Therefore, you DO NOT have any authority or permission whatsoever to add any reference to “OG”, “Organo Gold” or to otherwise insinuate that any electronic message you communicate to third parties has any affiliation whatsoever with the Company. Regardless of whom it is you are communicating with — be it a purchaser, fellow Distributor, or even the Company itself — AND, regardless where the message originates from — be it from another Distributor, your business organization, or even the Company itself — ABSOLUTELY NO MESSAGES SENT BY to you or your e-mail address should include any reference, or insinuation of approbation of the communication by the Company.
 
-The Company has a ZERO TOLERANCE policy regarding any act which violates the above Policy. Be forewarned, if the above provision is not observed, then OG will take appropriate legal action.
+The Company has a ZERO TOLERANCE policy regarding any act which violates the above Policy. Be forewarned, if the above provision is not observed, then OG will take appropriate legal action. 
 
 ## How you can access and update your email preferences, personal information and public information
 
@@ -82,8 +82,8 @@ We give you the opportunity to alter or update the personal, financial, or demog
 
 These changes and deletions will not change or delete emails or information that we may have already forwarded to other users or credit card companies or any other third parties, all as provided above in this Privacy Policy.
 
-Upon your request, we will deactivate your account, contact information, billing information, shipping information, and financial information from our active databases. To make this request, please email [support@organogold.com](http://mailto:support@organogold.com/). It may be necessary for some of the personal information that you have requested to remove, to be retained by OG for the purpose of collecting any fees owed, diagnosing problems, assisting with any legal investigations, resolving disputes, preventing criminal activity, or enforcing our User Agreement. Therefore, you should not expect that all of your information will be completely removed from our files or databases in response to your requests. However, such personal information will only be available to select OG personal, and will no longer be accessible to other users or the public.
+Upon your request, we will deactivate your account, contact information, billing information, shipping information, and financial information from our active databases. To make this request, please email [support@organogold.com](mailto:support@organogold.com "Email Organo Gold Support"). It may be necessary for some of the personal information that you have requested to remove, to be retained by OG for the purpose of collecting any fees owed, diagnosing problems, assisting with any legal investigations, resolving disputes, preventing criminal activity, or enforcing our User Agreement. Therefore, you should not expect that all of your information will be completely removed from our files or databases in response to your requests. However, such personal information will only be available to select OG personal, and will no longer be accessible to other users or the public.
 
 ## Reminder:
 
-We maintain the right to alter this Policy at any time and we recommend that you review it periodically so that you will be aware of any updates. If you have any questions or concerns about this Privacy Policy, the practices of the Site, or your dealings with the OG website. Please contact us at [support@organogold.com](http://mailto:support@organogold.com/).
+We maintain the right to alter this Policy at any time and we recommend that you review it periodically so that you will be aware of any updates. If you have any questions or concerns about this Privacy Policy, the practices of the Site, or your dealings with the OG website. Please contact us at [support@organogold.com](mailto:support@organogold.com "Email Organo Gold Support").
