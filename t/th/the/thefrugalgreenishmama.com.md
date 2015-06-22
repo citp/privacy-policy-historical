@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thefrugalgreenishmama.com privacy policy that was archived on 2014-07-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140726000739id_/http%3A//thefrugalgreenishmama.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thefrugalgreenishmama.com privacy policy that was archived on 2015-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150622234251id_/http%3A//www.ourhomemadelife.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - The Frugal Greenish Mama
+# Privacy Policy - Our Homemade Life
 
 At www.thefrugalgreenishmama.com, we value our reader and your privacy is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.thefrugalgreenishmama.com and how it is used.
 
