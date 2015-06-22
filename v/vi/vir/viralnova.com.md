@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the viralnova.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231005215id_/http%3A//www.viralnova.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viralnova.com privacy policy that was archived on 2015-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150622184459id_/http%3A//www.viralnova.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# ViralNova.com
 
-This privacy policy sets out how ViralNova uses and protects any information that you give us when you use this website. ViralNova  is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement. ViralNova may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from May 18, 2013.
+This privacy policy sets out how ViralNova.com uses and protects any information that you give us when you use this website. ViralNova.com  is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement. ViralNova.com may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from May 18, 2013.
 
 **What we collect** We may ask to collect the following information:
 
-  * e-mail address (for use to send you the daily ViralNova newsletter, which you can unsubscribe from at any time
+  * e-mail address (for use to send you the daily ViralNova.com newsletter, which you can unsubscribe from at any time
 
 
 
@@ -16,14 +16,14 @@ Additionally, we collect non-personally identifiable information for aggregation
 
 **How we use cookies** A cookie is a small file which asks permission to be placed on your computer's hard drive. Once you agree, the file is added and the cookie helps analyze web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences. We use traffic log cookies to identify which pages are being used. This helps us analyze data about web page traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system. Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us. You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
 
-Additionally, ViralNova utilizes cookies to show our advertisements to you on various websites on the Internet.
+Additionally, ViralNova.com utilizes cookies to show our advertisements to you on various websites on the Internet.
 
 You may opt out of Google's use of cookies by visiting Google's [Ads Settings](http://www.google.com/settings/ads "Google Ads Settings"). 
 
 **Third Party Vendors**
 
   * Third party vendors, including Google, use cookies to serve ads based on a your prior web site visits.
-  * Google's use of the DoubleClick cookie enables it and its partners to serve ads to you based on your visits to ViralNova and/or other sites on the Internet.
+  * Google's use of the DoubleClick cookie enables it and its partners to serve ads to you based on your visits to ViralNova.com and/or other sites on the Internet.
   * You may opt out of the use of the DoubleClick cookie for interest-based advertising by visiting [Ads Settings](http://www.google.com/ads/preferences/). (or by visiting [aboutads.info](http://www.aboutads.info/).)
   * Third parties may use cookies, web beacons, and similar technologies to collect or receive information from your website and elsewhere on the internet and use that information to provide measurement services and target ads.
 
