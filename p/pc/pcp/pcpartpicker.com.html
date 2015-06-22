@@ -1,51 +1,39 @@
-<!--The following is the downloaded HTML source of the pcpartpicker.com privacy policy that was archived on 2014-12-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141203071631id_/http%3A//pcpartpicker.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the pcpartpicker.com privacy policy that was archived on 2015-06-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150623013916id_/http%3A//pcpartpicker.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VQQBVFRbGwEIUVJQBw=="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),u=c.length,f=i(a,o,r),d=0;u>d;d++)c[d].apply(f,n);return f}function a(t,e){u[t]=s(t).concat(e)}function s(t){return u[t]||[]}function c(){return n(e)}var u={};return{on:a,emit:e,create:c,listeners:s,_events:u}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(u){try{r("ierr",[u,(new Date).getTime(),!0])}catch(f){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(4),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(u){"stack"in u&&(t(5),t(3),"addEventListener"in window&&t(1),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(2),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:4,2:7,3:5,4:18,5:6,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],4:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:18,2:19,ee:"QJf3ax",gos:"7eSDFh"}],5:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:19,2:18,ee:"QJf3ax"}],6:[function(t,e){function n(t,e,n){var r=t[0];"string"==typeof r&&(r=new Function(r)),t[0]=o(r,"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:19,2:18,ee:"QJf3ax"}],7:[function(t,e){function n(){c.inPlace(this,d,"fn-")}function r(t,e){c.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}var i=t("ee").create(),a=t(1),s=t(2),c=s(i),u=s(a),f=window.XMLHttpRequest,d=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=i,window.XMLHttpRequest=function(t){var e=new f(t);try{i.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",function(t,e){return e}),e.addEventListener("readystatechange",n,!1)}catch(r){try{i.emit("internal-error",[r])}catch(o){}}return e},window.XMLHttpRequest.prototype=f.prototype,c.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),i.on("send-xhr-start",r),i.on("open-xhr-start",r)},{1:4,2:19,ee:"QJf3ax"}],8:[function(t){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,u="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(u);if(f&&(r.rxSize=f),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(n.cat=d.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r,this.startTime])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,u=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var u=e(o);u&&(r.txSize=u)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",[e])}catch(r){}}};for(var f=0;c>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:9,3:7,4:4,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],9:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&c&&c.body){p.proto="https"===d.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=c.createElement("script");e.src=p.proto+t.agent,c.body.appendChild(e)}}function r(){"complete"===c.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,c=s.document,u="addEventListener",f="attachEvent",d=(""+location).split("?")[0],p=e.exports={offset:i(),origin:d,features:{}};c[u]?(c[u]("DOMContentLoaded",o,!1),s[u]("load",n,!1)):(c[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],18:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],19:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,u;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){f([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return u=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,u],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,u(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,u="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,u?s+o:o,i,s,t))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){f([o,e,n,r])}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){f([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function f(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:18,ee:"QJf3ax"}]},{},["G9z0Bl",3,8]);</script>
-	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<!DOCTYPE html><html><head>
+    <meta charset="UTF-8">
+    <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 
-	<meta property="og:title" content="PCPartPicker Privacy Policy">
-	<meta property="og:type" content="article">
-	
-	<meta property="og:image" content="http://pcpartpicker.com/static/forever/images/logo_box_white.png">
-	
-	<meta property="og:url" content="http://pcpartpicker.com/privacy/">
-	<meta property="fb:app_id" content="128672553854009">
-	<meta property="og:site_name" content="PCPartPicker">
-	
+    <title>PCPartPicker Privacy Policy - PCPartPicker</title>
 
-	<meta itemprop="name" content="PCPartPicker Privacy Policy">
-	
-	<meta itemprop="image" content="http://pcpartpicker.com/static/forever/images/logo_box_white.png">
-	
-	
+    <meta name="description" content="">
+    <meta name="viewport" content="width=1280">
 
-	<title>PCPartPicker Privacy Policy - PCPartPicker</title>
+    <link rel="shortcut icon" href="/favicon.ico?v=2">
+    <link href="//fonts.googleapis.com/css?family=Source+Sans+Pro:400,700,400italic,700italic" rel="stylesheet" type="text/css">
+    <link href="//fonts.googleapis.com/css?family=Merriweather:400,700,400italic,700italic" rel="stylesheet" type="text/css">
 
-	<!-- XMX_ -->
-	<link rel="shortcut icon" href="/favicon.png">
-	
-	<link rel="stylesheet" type="text/css" href="//cdn.pcpartpicker.com/static/forever/hash/site-2f692a2aa90cdffa152a61131cfbae0e.css">
-	<script type="text/javascript" src="//cdn.pcpartpicker.com/static/forever/hash/site-0f5cb1b9c42bc160a6145a4d9ff41a58.js"></script>
-	<!--[if lte IE 8]>
-	<script language="javascript" type="text/javascript" src="/static/forever/js/flot-0.7/excanvas.min.js"></script>
-	<![endif]-->
-	
+    
+    <link rel="stylesheet" type="text/css" href="//cdn.pcpartpicker.com/static/forever/hash/site-4914b49707a9bded526fffb8a70b0420.css">
+    <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="//cdn.pcpartpicker.com/static/forever/hash/site-a75150f1488a6b86d6f40ca51724c9cb.js"></script>
+    
+    
 
-	<link rel="apple-touch-icon-precomposed" sizes="144x144" href="apple-touch-icon-144x144-precomposed.png">
-	<link rel="apple-touch-icon-precomposed" sizes="114x114" href="apple-touch-icon-114x114-precomposed.png">
-	<link rel="apple-touch-icon-precomposed" sizes="72x72" href="apple-touch-icon-72x72-precomposed.png">
-	<link rel="apple-touch-icon-precomposed" href="apple-touch-icon-precomposed.png">
 
-	
-	<!-- _XMX -->
-	<!--
-		Since you took the time to look at the page source,
-		here's an ascii art rendition of a famous spider (1).
-		And for what it's worth, PCPartPicker pays its server bills
-		on time and with real money rather than renditions of spiders.
-		Seriously, you're still reading this?
- 
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/apple-touch-icon-144x144-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="/apple-touch-icon-114x114-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="/apple-touch-icon-72x72-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" href="/apple-touch-icon-precomposed.png">
+
+    <!--
+        Since you took the time to look at the page source,
+        here's an ascii art rendition of a famous spider (1).
+        And for what it's worth, PCPartPicker pays its server bills
+        on time and with real money rather than renditions of spiders.
+        Seriously, you're still reading this?
+
                                            @@@@@@@@@@@
                                          @@
                               @@@@@@@@ @@       @@@@
@@ -61,264 +49,350 @@
                          @@         @
                         @@          @
                        @@           @
-                       @            @ 
-                       @            @ 
+                       @            @
+                       @            @
                                      @
                                      @
-		
-		(1) www.27bslash6.com/overdue.html
-	 -->
-	<script type="text/javascript">
-		$(document).ready(function() {
-			$('#secondary_menu_toggle').click(function() {
-				/* $('#header_expand').slideToggle(100, function() {}); */
-				$('#header_expand').toggle();
-				return false;
-			});
-			init_live_search();
-			init_common_buttons();
-			init_confirm_dialog();
-			$("#country_select").change(function(){
-				var ccabbr = $("#country_select").val();
-				if (ccabbr != "us") {
-					$('#form_country_select_url').val(window.location.pathname + window.location.search + window.location.hash);
-					$('#form_country_select').submit();
-				}
-			});
-			$(".ajax_post_link").click(function() { $(this).parent().submit(); return false; });
-			
-		});
 
-	</script>
-	<script type="text/javascript">
-		var _gaq = _gaq || [];
-		_gaq.push(['_setAccount', 'UA-16428016-1']);
-		_gaq.push(['_setDomainName', 'pcpartpicker.com']);
-		_gaq.push(['_trackPageview']);
-		(function() {
-			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-		})();
-	</script>
-</head>
-<body>
-	<div class="container_16" id="wrapper">	
-		<div class="grid_4" id="logo"><a href="/"><img src="/static/forever/images/logo.png" alt="PCPartPicker"></a></div>
-		<div class="grid_12" id="header_nav">
-			<div id="header_login">
+        (1) www.27bslash6.com/overdue.html
+     -->
 
-				<a href="/accounts/login/?next=/privacy/">Log In</a> | <a href="/accounts/register/">Register</a>
+    
+    <script>
+      var global_country_sign = '$';
+      $(document).ready(function(){
+        init_country_selector('us');
+        init_live_search();
+        init_confirm_dialog();
+        init_common_buttons();
+        make_drop_nav('.nav-parts', '.browse-parts-tray');
+        make_drop_nav('.search-parts', '.search-tray', function() {
+          $('#search_q').focus();
+        });
+        
+      });
+      
+    </script>
+    <script type="text/javascript">
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-16428016-1']);
+      _gaq.push(['_setDomainName', 'pcpartpicker.com']);
+      _gaq.push(['_trackPageview']);
+      (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+      })();
+    </script>
 
-				
-				| <form style="margin:0px;display:inline-block;" action="/qapi/switch_country/" method="post" id="form_country_select"><select id="country_select" name="cc">
-					
-					<option value="au">Australia</option>
-					
-					
-					
-					<option value="ca">Canada</option>
-					
-					
-					
-					<option value="de">Deutschland</option>
-					
-					<option value="es">España</option>
-					
-					
-					
-					<option value="it">Italia</option>
-					
-					
-					
-					<option value="nz">New Zealand</option>
-					
-					
-					
-					
-					
-					<option value="uk">United Kingdom</option>
-					
-					<option value="us" selected="selected">United States</option>
-					
-				</select><input type="hidden" name="url" value="/privacy/" id="form_country_select_url"><input type="hidden" name="csrfmiddlewaretoken" value="usSASIhPtmHBaWiSsY6Zti7XForxcIOz"></form>
-				
-			</div>
-			<div id="header_links">
+    <!-- [if lt IE 9]>
+      <script>
+        document.createElement("header")
+        document.createElement("nav");
+        document.createElement("main");
+        document.createElement("footer");
+      </script>
+    <![endif] -->
 
+  </head>
 
-				<a href="/guide/">Build Guides</a>
-				| <a href="/builds/">Completed Builds</a>
-				| <a href="/parts/pricedrop/">Price Drops</a>
-				| <a href="/trends/">Price Trends</a>
-				| <a href="/blog/">Blog</a>
-				| <form action="/search/" method="get" style="display:inline !important;">
-					<input type="hidden" name="cc" value="us">
-					<input id="search_q" type="text" name="q" size="16" autocomplete="off" style="display:inline !important;">
-					<input id="search_go" type="submit" value="Go">
-				</form>
-				<div id="search_result"></div>
-			</div>
-		</div>
-		<div class="grid_16" id="header">
-			<div class="menubar">
-				<ul class="group">
-					<li class="item firstandlast" style="margin-right:12px;"><a href="/parts/partlist/"><span class="outer"><span class="inner m_partlist">System Build</span></span></a></li>
-					<li class="item first"><a href="/parts/cpu/"><span class="outer"><span class="inner m_cpu">CPU</span></span></a></li>
-					<li class="item middle"><a href="/parts/motherboard/"><span class="outer"><span class="inner m_motherboard">Motherboard</span></span></a></li>
-					<li class="item middle"><a href="/parts/memory/"><span class="outer"><span class="inner m_memory">Memory</span></span></a></li>
-					<li class="item middle"><a href="/parts/internal-hard-drive/"><span class="outer"><span class="inner m_internalharddrive">Storage</span></span></a></li>
-					<li class="item middle"><a href="/parts/video-card/"><span class="outer"><span class="inner m_videocard">Video Card</span></span></a></li>
-					<li class="item middle"><a href="/parts/power-supply/"><span class="outer"><span class="inner m_powersupply">Power Supply</span></span></a></li>
-					<li class="item middle"><a href="/parts/case/"><span class="outer"><span class="inner m_case">Case</span></span></a></li>
-					<li class="item last" style="margin-right:12px;"><a id="secondary_menu_toggle" href="/parts/"><span class="outer"><span class="inner m_more">More</span></span></a></li>
-					<li class="item firstandlast" style="margin-right:12px;"><a href="/benchmarks/"><span class="outer"><span class="inner m_benchmarks">Benchmarks</span></span></a></li>
-					<li class="item firstandlast"><a href="/forums/"><span class="outer"><span class="inner m_forums">Forums</span></span></a></li>
-				</ul>
-			</div>
-		</div>
-		<div class="grid_16" id="header_expand" style="display:none;">
-			<div style="color:#fff;padding:12px;">
-				<div style="position:relative;left:50%;float:left;"><div style="position:relative;left:-50%;float:left;">
-					<div class="secondary_menugroup">
-						<b>Cooling</b>
-						<ul class="inside">
-							<li><a href="/parts/case-fan/">Case Fans</a></li>
-							<li><a href="/parts/cpu-cooler/">CPU Coolers</a></li>
-							<li><a href="/parts/fan-controller/">Fan Controllers</a></li>
-							<li><a href="/parts/thermal-paste/">Thermal Compound</a></li>
-						</ul>
-					</div>
-					<div class="secondary_menugroup">
-						<b>Drives</b>
-						<ul class="inside">
-							<li><a href="/parts/optical-drive/">Optical Drives</a></li>
-						</ul>
-					</div>
-					<div class="secondary_menugroup">
-						<b>Expansion</b>
-						<ul class="inside">
-							<li><a href="/parts/sound-card/">Sound Cards</a></li>
-							<li><a href="/parts/wired-network-card/">Wired Networking</a></li>
-							<li><a href="/parts/wireless-network-card/">Wireless Networking</a></li>
-						</ul>
-					</div>
-					<div class="secondary_menugroup">
-						<b>Software</b>
-						<ul class="inside">
-							<li><a href="/parts/os/">Operating Systems</a></li>
-						</ul>
-					</div>
-					<div class="secondary_menugroup">
-						<b>Displays</b>
-						<ul class="inside" style="margin-bottom:12px;">
-							<li><a href="/parts/monitor/">Monitors</a></li>
-						</ul>
-						<b>All-In-One</b>
-						<ul class="inside" style="margin-bottom:12px;">
-							<li><a href="/parts/all-in-one-chassis/">All-In-One Monitors/Chassis</a></li>
-						</ul>
-					</div>
-					<div class="secondary_menugroup_last">
-						<b>Peripherals</b>
-						<ul class="inside">
-							<li><a href="/parts/headphones/">Headphones</a></li>
-							<li><a href="/parts/keyboard/">Keyboards</a></li>
-							<li><a href="/parts/mouse/">Mice</a></li>
-							<li><a href="/parts/speakers/">Speakers</a></li>
-						</ul>
-					</div>
-					<div class="clear"></div>
-				</div></div>
-				<div class="clear"></div>
-			</div>
-		</div>
-		<div class="grid_16">
-			<div id="tabs">
-				 <div class="container" style="position:relative;">
-	
-					<h1 style="margin:0px;padding:0px;position:absolute;bottom:2px;left:10px;color:#fff;font-size:18px;">PCPartPicker Privacy Policy</h1>
-	
-	
-&nbsp;
-	
-					<div class="clear"></div>
-				</div>
-			</div>
-		</div>
-	
-		<div class="grid_16" id="content">
-	
+  <body>
+    <header>
+      <div class="page-container">
+        <div class="pcpp-header">
+          <a href="/"><h1>PCPartPicker</h1></a>
+          <ul class="user-nav">
+          
+            <li><a href="/accounts/login/">Log In</a></li>
+            <li><a href="/accounts/register/">Register</a></li>
+          
+            <li>
+              <form method="post" action="/qapi/switch_country/" id="form_country_select">
+              <input type="hidden" name="csrfmiddlewaretoken" value="XKzQnN6KwmOq1L5KLOmCzpmagUttymh2">
+              <select id="country_select" class="language-selector flag-us" name="cc">
+                
+                
+                <option value="au">Australia</option>
+                
+                
+                
+                
+                
+                <option value="ca">Canada</option>
+                
+                
+                
+                
+                
+                <option value="de">Deutschland</option>
+                
+                
+                
+                <option value="es">España</option>
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                <option value="it">Italia</option>
+                
+                
+                
+                
+                
+                
+                
+                <option value="nz">New Zealand</option>
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                <option value="uk">United Kingdom</option>
+                
+                
+                
+                <option value="us" selected="selected">United States</option>
+                
+                
+              </select>
+              <input type="hidden" name="url" value="/privacy/" id="form_country_select_url">
+              </form>
+            </li>
+          </ul>
+        </div>
+      </div>
+      <nav>
+        <div class="page-container">
+          <div class="nav-wrapper">
+            <div class="primary-nav">
+              <a href="/parts/partlist/" class="nav-build"><span>Start a</span>System Build</a><a href="/guide/" class="nav-guides"><span>View the</span>Build Guides</a><a href="/builds/" class="nav-builds"><span>See all</span>Completed Builds</a><a id="browse-parts-button" href="/parts/" class="nav-parts"><span>Browse by</span>Individual Parts<span class="nav-dropdown"></span></a>
+            </div>
+            <div class="secondary-nav">
+              <div class="sub-links">
+                <a href="/parts/pricedrop/">Price Drops</a><a href="/trends/">Price Trends</a><a href="/forums/">Forums</a><a href="/blog/">Blog</a>
+              </div>
+              <div class="search"><a href="/search/" class="search-parts"></a></div>
+            </div>
+          </div>
+        </div>
+      </nav>
+    </header>
+    <div>
+    
+<div class="privacy">
+  <div class="privacy-hero">
+    <div class="page-container">
+      <div class="title">
+        <h1>Privacy Policy</h1>
+      </div>
+    </div>
+  </div>
+  <div class="details">
+      <div class="page-container">
+        <div class="full-column">
+            <div class="block">
+                <p>Your privacy is important to us. At PCPartPicker we have a few fundamental principles:</p>
+                <ul>
+                    <li>We don’t ask you for personal information unless we truly need it.</li>
+                    <li>We don’t share your personal information with anyone except to comply with the law, develop our products, or protect our rights.</li>
+                    <li>We don’t send unsolicited email, nor do we share your email address with third parties.</li>
+                    <li>We don’t store personal information on our servers unless required for the on-going operation of one of our services.</li>
+                </ul>
+                <p>PCPartPicker, LLC (“PCPartPicker”) operates pcpartpicker.com. It is PCPartPicker’s policy to respect your privacy regarding any information we may collect while operating our website.</p>
+            </div>
+            <div class="block">
+                <h2>Website Visitors</h2>
+                <p>
+                Like most website operators, PCPartPicker collects non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request. PCPartPicker’s purpose in collecting non-personally identifying information is to better understand how PCPartPicker’s visitors use its website. From time to time, PCPartPicker may release non-personally-identifying information in the aggregate, e.g., by publishing a report on trends in the usage of its website.
+                </p>
+                <p>
+                PCPartPicker also collects potentially personally-identifying information like Internet Protocol (IP) addresses for logged in users and for users leaving comments on the PCPartPicker website. PCPartPicker only discloses logged in user and commenter IP addresses under the same circumstances that it uses and discloses personally-identifying information as described below, except that blog commenter IP addresses are visible and disclosed to the administrators of the PCPartPicker website.
+                </p>
+            </div>
+            <div class="block">
+                <h2>Gathering of Personally-Identifying Information</h2>
+                <p>
+                Certain visitors to PCPartPicker’s websites choose to interact with PCPartPicker in ways that require PCPartPicker to gather personally-identifying information. The amount and type of information that PCPartPicker gathers depends on the nature of the interaction. For example, we ask visitors who sign up for an account at the PCPartPicker website to provide a username and email address.  PCPartPicker collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor’s interaction with PCPartPicker. PCPartPicker does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.
+                </p>
+            </div>
+            <div class="block">
+                <h2>Aggregated Statistics</h2>
+                <p>
+                PCPartPicker may collect statistics about the behavior of visitors to its websites. PCPartPicker may display this information publicly or provide it to others. However, PCPartPicker does not disclose personally-identifying information other than as described below.
+                </p>
+            </div>
+            <div class="block">
+                <h2>Protection of Certain Personally-Identifying Information</h2>
+                <p>
+                PCPartPicker discloses potentially personally-identifying and personally-identifying information only to those of its employees, contractors and affiliated organizations that (i) need to know that information in order to process it on PCPartPicker’s behalf or to provide services available at PCPartPicker’s website, and (ii) that have agreed not to disclose it to others. Some of those employees, contractors and affiliated organizations may be located outside of your home country; by using PCPartPicker’s website, you consent to the transfer of such information to them. PCPartPicker will not rent or sell potentially personally-identifying and personally-identifying information to anyone. Other than to its employees, contractors and affiliated organizations, as described above, PCPartPicker discloses potentially personally-identifying and personally-identifying information only in response to a subpoena, court order or other governmental request, or when PCPartPicker believes in good faith that disclosure is reasonably necessary to protect the property or rights of PCPartPicker, third parties or the public at large. PCPartPicker takes all measures reasonably necessary to protect against the unauthorized access, use, alteration or destruction of potentially personally-identifying and personally-identifying information.
+                </p>
+            </div>
+            <div class="block">
+                <h2>Cookies</h2>
+                <p>
+                A cookie is a string of information that a website stores on a visitor’s computer, and that the visitor’s browser provides to the website each time the visitor returns. PCPartPicker uses cookies to help PCPartPicker identify and track visitors, their usage of PCPartPicker website, and their website access preferences. PCPartPicker visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using PCPartPicker’s websites, with the drawback that certain features of PCPartPicker’s websites may not function properly without the aid of cookies.
+                </p>
+            </div>
+            <div class="block">
+                <h2>Business Transfers</h2>
+                <p>
+                If PCPartPicker, or substantially all of its assets were acquired, or in the unlikely event that PCPartPicker goes out of business or enters bankruptcy, user information would be one of the assets that is transferred or acquired by a third party. You acknowledge that such transfers may occur, and that any acquirer of PCPartPicker may continue to use your personal information as set forth in this policy.
+                </p>
+            </div>
+            <div class="block">
+                <h2>Privacy Policy Changes</h2>
+                <p>
+                Although most changes are likely to be minor, PCPartPicker may change its Privacy Policy from time to time, and in PCPartPicker’s sole discretion. PCPartPicker encourages visitors to frequently check this page for any changes to its Privacy Policy. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
+                </p>
+            </div>
+        </div>
+      </div>
+  </div>
+</div>
 
-	<div class="grid_15" id="textcontent">
-<p>
-Your privacy is important to us. At PCPartPicker we have a few fundamental principles:
-</p>
-<p>
-</p><ul>
-<li>We don’t ask you for personal information unless we truly need it.</li>
-<li>We don’t share your personal information with anyone except to comply with the law, develop our products, or protect our rights.</li>
-<li>We don’t send unsolicited email, nor do we share your email address with third parties.</li>
-<li>We don’t store personal information on our servers unless required for the on-going operation of one of our services.</li>
-</ul><p></p>
-<p>
-PCPartPicker, LLC (“PCPartPicker”) operates pcpartpicker.com. It is PCPartPicker’s policy to respect your privacy regarding any information we may collect while operating our website.
-</p>
-<p>
-<b>Website Visitors</b>
-<br>
-Like most website operators, PCPartPicker collects non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request. PCPartPicker’s purpose in collecting non-personally identifying information is to better understand how PCPartPicker’s visitors use its website. From time to time, PCPartPicker may release non-personally-identifying information in the aggregate, e.g., by publishing a report on trends in the usage of its website.
-</p>
-<p>
-PCPartPicker also collects potentially personally-identifying information like Internet Protocol (IP) addresses for logged in users and for users leaving comments on the PCPartPicker website. PCPartPicker only discloses logged in user and commenter IP addresses under the same circumstances that it uses and discloses personally-identifying information as described below, except that blog commenter IP addresses are visible and disclosed to the administrators of the PCPartPicker website.
-</p>
-<p>
-<b>Gathering of Personally-Identifying Information</b>
-<br>
-Certain visitors to PCPartPicker’s websites choose to interact with PCPartPicker in ways that require PCPartPicker to gather personally-identifying information. The amount and type of information that PCPartPicker gathers depends on the nature of the interaction. For example, we ask visitors who sign up for an account at the PCPartPicker website to provide a username and email address.  PCPartPicker collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor’s interaction with PCPartPicker. PCPartPicker does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.
-</p>
-<p>
-<b>Aggregated Statistics</b>
-<br>
-PCPartPicker may collect statistics about the behavior of visitors to its websites. PCPartPicker may display this information publicly or provide it to others. However, PCPartPicker does not disclose personally-identifying information other than as described below.
-</p>
-<p>
-<b>Protection of Certain Personally-Identifying Information</b>
-<br>
-PCPartPicker discloses potentially personally-identifying and personally-identifying information only to those of its employees, contractors and affiliated organizations that (i) need to know that information in order to process it on PCPartPicker’s behalf or to provide services available at PCPartPicker’s website, and (ii) that have agreed not to disclose it to others. Some of those employees, contractors and affiliated organizations may be located outside of your home country; by using PCPartPicker’s website, you consent to the transfer of such information to them. PCPartPicker will not rent or sell potentially personally-identifying and personally-identifying information to anyone. Other than to its employees, contractors and affiliated organizations, as described above, PCPartPicker discloses potentially personally-identifying and personally-identifying information only in response to a subpoena, court order or other governmental request, or when PCPartPicker believes in good faith that disclosure is reasonably necessary to protect the property or rights of PCPartPicker, third parties or the public at large. PCPartPicker takes all measures reasonably necessary to protect against the unauthorized access, use, alteration or destruction of potentially personally-identifying and personally-identifying information.
-</p>
-<p>
-<b>Cookies</b>
-<br>
-A cookie is a string of information that a website stores on a visitor’s computer, and that the visitor’s browser provides to the website each time the visitor returns. PCPartPicker uses cookies to help PCPartPicker identify and track visitors, their usage of PCPartPicker website, and their website access preferences. PCPartPicker visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using PCPartPicker’s websites, with the drawback that certain features of PCPartPicker’s websites may not function properly without the aid of cookies.
-</p>
-<p>
-<b>Business Transfers</b>
-<br>If PCPartPicker, or substantially all of its assets were acquired, or in the unlikely event that PCPartPicker goes out of business or enters bankruptcy, user information would be one of the assets that is transferred or acquired by a third party. You acknowledge that such transfers may occur, and that any acquirer of PCPartPicker may continue to use your personal information as set forth in this policy.
-</p>
-<p>
-<b>Privacy Policy Changes</b>
-<br>Although most changes are likely to be minor, PCPartPicker may change its Privacy Policy from time to time, and in PCPartPicker’s sole discretion. PCPartPicker encourages visitors to frequently check this page for any changes to its Privacy Policy. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
-</p>
-	</div>
-	<div class="clear"></div>
+    </div>
+    <div class="drop">
+      <div id="browse-parts-tray-container">
+        <div class="page-container">
+          <div class="browse-parts-tray">
+            <div class="parts-tray-block-col core-parts">
+              <div>
+                <a href="/parts/cpu/" class="parts-tray-block parts-tray-heading"><img src="/static/forever/img/nav-cpu.png" alt="CPU">CPU</a>
+                <a href="/parts/cpu-cooler/" class="parts-tray-block parts-tray-heading"><img src="/static/forever/img/nav-cpucooler.png" alt="CPU Cooler">CPU Cooler</a>
+                <a href="/parts/motherboard/" class="parts-tray-block parts-tray-heading"><img src="/static/forever/img/nav-motherboard.png" alt="Motherboard">Motherboard</a>
+                <a href="/parts/memory/" class="parts-tray-block parts-tray-heading"><img src="/static/forever/img/nav-memory.png" alt="Memory">Memory</a>
+              </div>
+              <div>
+                <a href="/parts/internal-hard-drive/" class="parts-tray-block parts-tray-heading"><img src="/static/forever/img/nav-ssd.png" alt="Storage">Storage</a>
+                <a href="/parts/video-card/" class="parts-tray-block parts-tray-heading"><img src="/static/forever/img/nav-videocard.png" alt="Video Card">Video Card</a>
+                <a href="/parts/power-supply/" class="parts-tray-block parts-tray-heading"><img src="/static/forever/img/nav-powersupply.png" alt="Power Supply">Power Supply</a>
+                <a href="/parts/case/" class="parts-tray-block parts-tray-heading"><img src="/static/forever/img/nav-case.png" alt="Case">Case</a>
+              </div>
+            </div>
+            <div class="parts-tray-list-col parts-two">
+              <ul>
+                <li class="parts-tray-heading">Cooling</li>
+                <li><a href="/parts/case-fan/">Case Fans</a></li>
+                <li><a href="/parts/fan-controller/">Fan Controllers</a></li>
+                <li><a href="/parts/thermal-paste/">Thermal Compound</a></li>
+              </ul>
+              <ul>
+                <li class="parts-tray-heading">Software</li>
+                <li><a href="/parts/os/">Operating Systems</a></li>
+              </ul>
+            </div>
+            <div class="parts-tray-list-col parts-three">
+              <ul>
+                <li class="parts-tray-heading">Drives</li>
+                <li><a href="/parts/optical-drive/">Optical Drives</a></li>
+              </ul>
+              <ul>
+                <li class="parts-tray-heading">External Storage</li>
+                <li><a href="/parts/external-hard-drive/">External Hard Drives</a></li>
+              </ul>
+              <ul>
+                <li class="parts-tray-heading">Displays</li>
+                <li><a href="/parts/monitor/">Monitors</a></li>
+              </ul>
+            </div>
+            <div class="parts-tray-list-col parts-four">
+              <ul>
+                <li class="parts-tray-heading">Expansion</li>
+                <li><a href="/parts/sound-card/">Sound Cards</a></li>
+                <li><a href="/parts/wired-network-card/">Wired Networking</a></li>
+                <li><a href="/parts/wireless-network-card/">Wireless Networking</a></li>
+              </ul>
+              <ul>
+                <li class="parts-tray-heading">Peripherals</li>
+                <li><a href="/parts/headphones/">Headphones</a></li>
+                <li><a href="/parts/keyboard/">Keyboards</a></li>
+                <li><a href="/parts/mouse/">Mice</a></li>
+                <li><a href="/parts/speakers/">Speakers</a></li>
+              </ul>
+            </div>
+            <div class="parts-tray-col-clear"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="drop">
+      <div id="search-tray-container">
+        <div class="page-container">
+          <div class="search-tray search-box">
+            <form action="/search/" method="get">
+              <input type="hidden" name="cc" value="us">
+              <input id="search_q" type="text" name="q" size="32" autocomplete="off">
+              <input id="search_go" type="submit" value="Search">
+            </form>
+            <div id="search_result"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <footer>
+      <div class="page-container">
+        <div class="footer-branding">
+          <div class="copyright-notice">©2015 PCPartPicker, LLC.  All rights reserved.</div>
+          <div class="switch-to-mobile"><a href="?flavor=mobile">Switch to Mobile Version</a></div>
+          
+          
+          
+        </div>
+        <ul class="footer-nav">
+          <h4>Sections</h4>
+          <li><a href="/parts/partlist/">System Builds</a></li>
+          <li><a href="/guide/">Build Guides</a></li>
+          <li><a href="/builds/">Completed Builds</a></li>
+          <li><a href="/parts/">Individual Parts</a></li>
+        </ul>
+        <ul class="footer-nav">
+          <h4>PCPP</h4>
+          <li><a href="/parts/pricedrop/">Price Drops</a></li>
+          <li><a href="/trends/">Price Trends</a></li>
+          <li><a href="/forums/">Forums</a></li>
+          <li><a href="/blog/">PCPP Blog</a></li>
+        </ul>
+        <ul class="footer-nav">
+          <h4>PCPP</h4>
+          <li><a href="/about/">About</a></li>
+          <li><a href="/contact/">Contact &amp; Imprint</a></li>
+          <li><a href="/tos/">Terms of Use</a></li>
+          <li><a href="/privacy/">Privacy Policy</a></li>
+          <li><a href="/disclosure/">Disclosure</a></li>
+        </ul>
+        <ul class="footer-nav">
+          <h4>Elsewhere</h4>
+          <li><a href="https://twitter.com/pcpartpicker">Twitter</a></li>
+          <li><a href="https://www.youtube.com/user/pcpartpicker">YouTube</a></li>
+          <li><a href="https://www.facebook.com/pcpartpicker">Facebook</a></li>
+          <li><a href="https://plus.google.com/+pcpartpicker">Google+</a></li>
+          <!-- <li><a href="/disclosure/">Disclosure</a></li> -->
+        </ul>
+      </div>
+      
+    </footer>
+    <div id="default_dialog" class="hidden-dialog"></div>
+  
+  <script type="text/javascript" src="/static/js/jquery.fitvids.js"></script>
+  <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/gsap/1.15.1/TweenMax.min.js"></script>
+  <script type="text/javascript" src="/static/js/animations.js"></script>
 
-		</div>
-		<div class="clear"></div>
-		<div id="default_dialog" style="display:none;"></div>
-	</div>
-	<div class="container_16" id="footer">
-		<a href="/about/">About</a> | <a href="/contact/">Contact &amp; Imprint</a>
-		<br><a href="/tos/">Terms of Use</a> | <a href="/privacy/">Privacy Policy</a> | <a href="/disclosure/">Disclosure</a>
-		<br>&nbsp;
-		<br>©2014 PCPartPicker, LLC.  All rights reserved.
-		<br>&nbsp;
-		<p><a href="?flavor=mobile">Switch to Mobile Version</a></p>
+  <script>
+    $(document).ready(function(){
+      $(".left-column, .right-column").fitVids();
+      $('.language-selector').customSelect();
+      $('span.customSelect').css('width', '');
+      $('span.customSelectInner').css('width', '');
+    });
+  </script>
 
-
-
-	</div>
-	
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-1.newrelic.com","queueTime":0,"licenseKey":"e2df38885d","agent":"js-agent.newrelic.com/nr-476.min.js","transactionName":"Y1NWYkRSXUBRAkIMWVoZckNYUEdaXw8ZCE9HX0BTGEVaVkcSDBVEXUBVVU8=","applicationID":"285320","errorBeacon":"bam.nr-data.net","applicationTime":17}</script>
-
-<script src="https://js-agent.newrelic.com/nr-476.min.js"></script></body></html>
+</body></html>
