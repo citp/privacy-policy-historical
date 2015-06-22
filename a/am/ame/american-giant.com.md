@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the american-giant.com privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217023112id_/http%3A//www.american-giant.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the american-giant.com privacy policy that was archived on 2015-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150622071253id_/http%3A//www.american-giant.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | American Giant
 
@@ -7,7 +7,7 @@
 
 ## PRIVACY POLICY
 
-Date of Last Revision: Oct 14, 2013
+Date of Last Revision: April 24, 2015
 
 At American Giant ("AMERICAN GIANT," "we," or "us"), we are committed to the privacy of our customers. This Privacy Policy ("Policy") describes how personal information is collected from users of the AMERICAN GIANT website at [www.american-giant.com](http://www.american-giant.com/) (the "Site"), and how that information is used and disclosed. By using our Site, you consent to the terms of this Policy.
 
@@ -56,6 +56,8 @@ We encourage parents to take an active interest in their children's use of the I
 We use reasonable security measures in an effort to prevent loss, misuse, unauthorized access, disclosure, destruction and alteration of information while it is under our control. We cannot, however, guarantee the protection of information against such events, nor can we promise that your information may be not be disclosed or accessed by accidental circumstances or by the unauthorized acts of others.
 
 When you register for an account on the Site, we ask you to create a password. To protect the confidentiality of your personal information, you must keep your password confidential and not disclose it to any other person. You are responsible for all uses of the Site by any person using your password. Please advise us immediately if you believe your password has been misused or otherwise misappropriated.
+
+We maintain security standards that are designed to protect your information as it is transmitted from your computer to our network. This technology is called Secure Socket Layer (SSL). SSL is the leading security protocol for data transfer on the Internet and helps to protect the safety and confidentiality of your online banking information.
 
 ## CHOICE
 
