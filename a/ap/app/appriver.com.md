@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the appriver.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120164312id_/http%3A//www.appriver.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appriver.com privacy policy that was archived on 2015-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150622182645id_/http%3A//www.appriver.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # AppRiver Privacy Policy
 
@@ -298,4 +298,4 @@ Privacy Department
 1101 Gulf Breeze Pkwy, Suite 200  
 Gulf Breeze, FL. 32561
 
-Privacy Policy v4.0 | 03.29.12
+Privacy Policy v4.0 | 03.30.12
