@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nutrition.org.uk privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123214302id_/http%3A//www.nutrition.org.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nutrition.org.uk privacy policy that was archived on 2015-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150622042116id_/http%3A//www.nutrition.org.uk/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - British Nutrition Foundation
 
