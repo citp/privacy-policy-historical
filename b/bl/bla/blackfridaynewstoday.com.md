@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the blackfridaynewstoday.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120204804id_/http%3A//blackfridaynewstoday.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blackfridaynewstoday.com privacy policy that was archived on 2015-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150622033720id_/http%3A//blackfridaynewstoday.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Black Friday News Today
+# Privacy Policy - Black Friday News Today
 
 blackfridaynewstoday.com, has created this privacy statement to demonstrate our firm commitment to protecting your privacy. The following discloses our information gathering and dissemination practices for the [www.blackfridaynewstoday.com](http://www.blackfridaynewstoday.com/ "Reliableremodeler") site.
 
