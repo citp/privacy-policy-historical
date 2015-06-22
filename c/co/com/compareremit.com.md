@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the compareremit.com privacy policy that was archived on 2014-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141205083310id_/http%3A//www.compareremit.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the compareremit.com privacy policy that was archived on 2015-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150622064442id_/http%3A//www.compareremit.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -27,7 +27,7 @@ Some of the banner ads displayed in our Web sites are provided by outside compan
 Some of our Web pages may contain electronic images known as Web beacons, which are also called single-pixel gifs. These images allow us to count users who have visited those pages and to deliver co-branded services. We also may include Web beacons in promotional e-mail messages or newsletters in order to count how many messages have been opened and acted upon. Web beacons are not used to access your personally identifiable information but they are a technique we use to compile aggregated statistics about our Web site usage. Web beacons collect only a limited set of information including a cookie number, time and date of a page view and a description of the page on which the Web beacon resides. Some of our Web pages may also contain Web beacons placed there by our advertising partners to help us determine the effectiveness of our advertising campaigns.
 
 **CONTROLLING YOUR PERSONAL INFORMATION**  
-A user may, at any time, change, correct, modify or delete any personal information they may have provided to CompareRemit  by contacting CompareRemit  service.
+A user may, at any time, change, correct, modify or delete any personal information they may have provided to CompareRemit  by contacting CompareRemit  service. 
 
 Finally:
 
