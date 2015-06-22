@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the startupnation.com privacy policy that was archived on 2014-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140622182248id_/http%3A//www.startupnation.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the startupnation.com privacy policy that was archived on 2015-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150622035931id_/http%3A//www.startupnation.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy » StartupNation
 
