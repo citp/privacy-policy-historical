@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fark.com privacy policy that was archived on 2014-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141226103644id_/http%3A//www.fark.com/farq/legal) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fark.com privacy policy that was archived on 2015-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150622062156id_/http%3A//www.fark.com/farq/legal) for the most accurate reproduction.*
 
 # FARK.com: Frequently Asked Questions: Legal Stuff
 
