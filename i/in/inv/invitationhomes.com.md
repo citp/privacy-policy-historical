@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the invitationhomes.com privacy policy that was archived on 2014-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141228072917id_/http%3A//www.invitationhomesforrent.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the invitationhomes.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623005734id_/http%3A//www.invitationhomesforrent.com/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Homes | Invitation Homes
 
-Privacy Policy
+**Privacy Policy**
 
 PLEASE READ THIS PRIVACY POLICY CAREFULLY.
 
@@ -66,7 +66,8 @@ Please note that if you give out personal identification information online -- t
 
 14\. Transfer of Your Information. As we continue to develop our activities, we might acquire or buy other entities or assets. In such transactions, customer information generally is one of the transferred assets. Also, in the event that all or substantially all of our assets or a controlling interest in us are acquired, both personally identifiable and non-personally identifiable user and customer information will be one of the transferred assets.
 
-15\. Minors. This Website is directed toward and designed for use by persons aged 18 or the age of majority in the jurisdiction in which you reside. We will not approve applications of, or establish or maintain accounts or memberships for, any child that we knows to be under the age of 18.  We do not solicit or knowingly collect Personally Identifiable Information from children under the age of 18.  If we nevertheless discover that we have received Personally Identifiable Information from an individual who indicates that he or she is, or that we otherwise have reason to believe is, under the age of 18, we will promptly delete such information from our systems.  Additionally, a child’s parent or legal guardian may request that the child’s information be corrected or promptly deleted from our files by contacting our Privacy Coordinator at the telephone number or address set out below.
+15. Minors. This Website is directed toward and designed for use by persons aged 18 or the age of majority in the jurisdiction in which you reside. We will not approve applications of, or establish or maintain accounts or memberships for, any child that we know to be under the age of 18. We do not solicit or knowingly collect Personally Identifiable Information from children under the age of 18. If we nevertheless discover that we have received Personally Identifiable Information from an individual who indicates that he or she is, or that we otherwise have reason to believe is, under the age of 18, we will promptly delete such information from our systems. Additionally, a child’s parent or legal guardian may request that the child’s information be corrected or promptly deleted from our files by contacting our Privacy Coordinator at the telephone number or address set out below.  
+ 
 
 16\. Contact Us/Review Your Information/Opt-Out. If you have submitted personally identifiable information through this Website, or if someone else has submitted your personally identifiable information, and you would like to review, request changes or have that information deleted from our databases, please contact us via e-mail or send a letter to our Privacy Coordinator at the address indicated below. We will then use reasonable efforts to change or remove your personally identifiable information from our files, unless we are entitled or required to retain it pursuant to other agreements or by law. You may also contact us through either of the above methods to request or review the personally identifiable information that we have collected about you. We will use reasonable efforts to supply you with this information and correct any factual inaccuracies in this information. Our contact information is as follows:
 
@@ -78,7 +79,7 @@ Dallas, TX  75206
 
 Contact: Customer Service at [CustomerService@IHRent.com](mailto:CustomerService@IHRent.com)
 
-_DMCA Notice_
+_DMCA Notice_ __
 
 If you have a copyright infringement claim regarding any materials posted on our website, you are directed to file a copyright infringement notice with us by sending a written communication that includes substantially the following information (please consult your attorney or review § 512(c)(3) of the United States Copyright Act to confirm the accuracy of these requirements):
 
