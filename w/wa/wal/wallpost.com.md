@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the wallpost.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231044956id_/http%3A//www.wallpost.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wallpost.com privacy policy that was archived on 2015-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150622091903id_/https%3A//www.wallpost.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Wallpost | Privacy Policy
 
-Last updated: 18th April, 2012
+Last updated: 18th April, 2015
 
 Welcome to Wallpost. This privacy policy only covers Wallpost and it does not apply to any applications and websites using Wallpost as a Platform and those that Wallpost does not own or control.
 
