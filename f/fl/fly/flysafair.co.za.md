@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flysafair.co.za privacy policy that was archived on 2014-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141214024241id_/http%3A//www.flysafair.co.za/bottom-menu/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flysafair.co.za privacy policy that was archived on 2015-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150622045912id_/http%3A//www.flysafair.co.za/bottom-menu/privacy-policy) for the most accurate reproduction.*
 
 # 
 
