@@ -1,21 +1,21 @@
-> *The following text is extracted and transformed from the funatoz.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120225426id_/http%3A//funatoz.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the funatoz.com privacy policy that was archived on 2015-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150622023359id_/http%3A//funatoz.click/privacy.php) for the most accurate reproduction.*
 
-# FunAtoZ.com : Privacy
+# FunAtoZ : Privacy
 
   
 | 
 
-## www.funatoz.com : Privacy Notice
+## http://funatoz.click : Privacy Notice
 
-Welcome to our website **www.funatoz.com**. If you continue to browse and use this website, you are agreeing to comply with and be bound by the following terms and conditions of use. If you disagree with any part of these terms and conditions, please do not use our website.
+Welcome to our website **http://funatoz.click**. If you continue to browse and use this website, you are agreeing to comply with and be bound by the following terms and conditions of use. If you disagree with any part of these terms and conditions, please do not use our website.
 
 The use of this website is subject to the following terms of use:
 
   * The information contained in this website is for general information purposes only.
-  * The information is provided by **www.funatoz.com** and while we endeavour to keep the information up to date and correct, we make no representations or warranties of any kind, express or implied, about the completeness, accuracy, reliability, suitability, correctness or availability with respect to the website or the information, products, services, or related graphics contained on the website for any purpose.
+  * The information is provided by **http://funatoz.click** and while we endeavour to keep the information up to date and correct, we make no representations or warranties of any kind, express or implied, about the completeness, accuracy, reliability, suitability, correctness or availability with respect to the website or the information, products, services, or related graphics contained on the website for any purpose.
   * Your use of any information or materials on this website is entirely at your own risk, for which we shall not be liable. It shall be your own responsibility to ensure that any products, services or information available through this website meet your specific requirements.
   * Unauthorised use of this website may give rise to a claim for damages and/or be a criminal offence.
-  * Every effort is made to keep the website up and running smoothly. However, **www.funatoz.com** takes no responsibility for, and will not be liable for, the website being temporarily unavailable due to technical issues beyond our control.
+  * Every effort is made to keep the website up and running smoothly. However, **http://funatoz.click** takes no responsibility for, and will not be liable for, the website being temporarily unavailable due to technical issues beyond our control.
 
 
 
@@ -62,10 +62,10 @@ This online privacy policy applies only to information collected through our web
 
 **Terms and Conditions**
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [http://www.funatoz.com](http://funatoz.com/)
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [http://funatoz.click](http://funatoz.click/)
 
 **Your Consent**
 
-By using our site, you consent to our [websites privacy policy](https://web.archive.org/web/20141120225426id_/http%3A//funatoz.com/privacy.php).
+By using our site, you consent to our [websites privacy policy](https://web.archive.org/web/20150622023359id_/http%3A//funatoz.click/privacy.php).
 
 | 
