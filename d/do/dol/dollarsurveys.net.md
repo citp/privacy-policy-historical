@@ -1,12 +1,17 @@
-> *The following text is extracted and transformed from the dollarsurveys.net privacy policy that was archived on 2014-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141225180517id_/http%3A//www.dollarsurveys.net/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dollarsurveys.net privacy policy that was archived on 2015-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150622020239id_/http%3A//www.dollarsurveys.net/privacy.asp) for the most accurate reproduction.*
 
 # Paid Online Surveys for Free
+
+### We Respect Your Privacy.
 
 This privacy policy sets out how DollarSurveys.net uses and protects any information that you give DollarSurveys.net when you use this website. 
 
 DollarSurveys.net is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement. 
 
 DollarSurveys.net may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 7/14/2008. 
+
+**What we collect**   
+We may collect the following information: 
 
 * Email address   
 * Site usage information 
@@ -31,6 +36,8 @@ Overall, cookies help us provide you with a better website, by enabling us to mo
 
 You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
 
+Notwithstanding any other provision, we may also engage a data provider who may collect web log data from you (including IP address and information about your browser or operating system), or place or recognize a unique cookie on your browser to enable you to receive customized ads or content. These cookies contain no personally identifiable information. The cookies may reflect de-identified demographic or other data linked to data you voluntarily have submitted to us, e.g., your email address, that we may share with a data provider solely in hashed, non-human readable form. To opt-out of these data provider cookies, please go to <http://www.aboutads.info/choices>.
+
 **Links to other websites**  
 Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over the content of other websites. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
 
@@ -41,7 +48,7 @@ You may choose to restrict the collection or use of your personal information in
 * We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so.  
 * You may request details of personal information which we hold about you under the Data Protection Act 1998. If you would like a copy of the information held on you please write to  
 DollarSurveys.net Privacy  
-324 S Wilmington St #230  
-Raleigh, NC 27601
+22 Cortlandt St, 16th Floor  
+New York, NY 10007
 
 If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect. 
