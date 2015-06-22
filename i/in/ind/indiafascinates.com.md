@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the indiafascinates.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230192700id_/http%3A//indiafascinates.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indiafascinates.com privacy policy that was archived on 2015-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150622072410id_/http%3A//indiafascinates.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | India Fascinates
 
-This is the website of **India Fascinates**.
+This is the website of India Fascinates.
 
 ## Privacy Policy at India Fascinates
 
@@ -12,7 +12,7 @@ We have a strict no spam policy and do not send you any emails, unless you subsc
 
 ## Credit card and Financial details
 
-India Fascinates will never ask for Credit Card details and request you **_NOT_** to share it through any of the forms on India Fascinates.
+India Fascinates will never ask for Credit Card details and request you _NOT_ to share it through any of the forms on India Fascinates.
 
 ## External Sites
 
@@ -22,7 +22,7 @@ India Fascinates is not responsible for the content of external sites linked fro
 
 A "cookie" is a small data text file that is placed in your browser and allows India Fascinates to recognize you each time you visit this site. Cookies themselves do not contain any personal information, and India Fascinates does not use cookies to collect personal information. Our site and third parties such as advertisers may add a cookie to help analyze web traffic or to determine targeted advertisements based on your preferences. 
 
-We allow **third-party advertising companies** (like [Google Adsense](https://www.google.com/adsense/)) to serve ads when you visit our Web site. These third party ad vendors, may be placing and reading cookies on your users’ browsers, or using web beacons to collect information as a result of ad serving on our website. Google’s use of the [DART cookie](http://www.doubleclick.com/privacy/faq.aspx) enables it to serve ads to our users based on their visit to our sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
+We allow third-party advertising companies (like [Google Adsense](https://www.google.com/adsense/)) to serve ads when you visit our Web site. These third party ad vendors, may be placing and reading cookies on your users’ browsers, or using web beacons to collect information as a result of ad serving on our website. Google’s use of the [DART cookie](http://www.doubleclick.com/privacy/faq.aspx) enables it to serve ads to our users based on their visit to our sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
 
 Please note that these companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.google.com/privacy_ads.html).
 
