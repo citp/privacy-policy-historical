@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the drweb.com privacy policy that was archived on 2013-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130426095921id_/http%3A//company.drweb.com/policy/%3Flng%3Den) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drweb.com privacy policy that was archived on 2015-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150622034005id_/http%3A//company.drweb.com/policy/%3Flng%3Den) for the most accurate reproduction.*
 
 # Dr.Web - innovation anti-virus security technologies. Comprehensive protection from Internet threats.
 
