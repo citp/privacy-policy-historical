@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sinobiological.com privacy policy that was archived on 2014-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141118182105id_/http%3A//www.sinobiological.com/privacy-policy-a-02.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sinobiological.com privacy policy that was archived on 2015-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150622235711id_/http%3A//www.sinobiological.com/privacy-policy-a-02.html) for the most accurate reproduction.*
 
-# 
+# aboutTemplate模版
 
 ## Privacy Policy
 
