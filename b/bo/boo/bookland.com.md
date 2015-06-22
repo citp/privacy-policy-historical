@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bookland.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231022606id_/http%3A//www.bookland.com/eng/help/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bookland.com privacy policy that was archived on 2015-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150622080154id_/http%3A//bookland.com/eng/help/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy / Bookland
 
