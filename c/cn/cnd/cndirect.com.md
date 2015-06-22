@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cndirect.com privacy policy that was archived on 2014-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141107010754id_/http%3A//www.cndirect.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cndirect.com privacy policy that was archived on 2015-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150622052926id_/http%3A//www.cndirect.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -98,4 +98,4 @@ This Policy does not attempt to cover all possible offline methods of collecting
  **Where can I find updates to this policy?**  
 To keep you informed of what information we collect, use, and disclose, we will post any changes or updates to this Privacy Notice on this Site and encourage you to review this Privacy Notice from time to time. Please contact us with any questions about the Privacy Notice.
 
-If you wish to talk to a CNDirect.com customer representative please call +86-755-89619517 or +86-755-89619973 or write to: Customer Service Department, CNDirect.com, Yaoan industry Zone, XianTian Road, Xinsheng, Longgang District, Shenzhen, 518116, China. You can also email us at orders@cndirect.com.
+If you wish to talk to a CNDirect.com customer representative please call +86-755-89619517 or +86-755-89619973. You can also email us at orders@cndirect.com.
