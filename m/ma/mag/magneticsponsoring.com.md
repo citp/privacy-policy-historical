@@ -1,98 +1,89 @@
-> *The following text is extracted and transformed from the magneticsponsoring.com privacy policy that was archived on 2014-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140624104338id_/http%3A//www.magneticsponsoring.com/compliance/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the magneticsponsoring.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623003943id_/http%3A//magneticsponsoring.com/privacy-policy) for the most accurate reproduction.*
 
-# Earnings and Income Disclaimers
+# Magnetic Sponsoring » Privacy Policy
 
-**PRIVACY POLICY**
+PRIVACY POLICY
 
-This Privacy Policy describes how we handle your personal information for our services on our www.magneticsponsoring.com Web site (this "Site"). Our company, Magnetic Sponsoring, LLC, collects information from all end users of our services (the "Products" and/or "Services"), those who access some of our Services but do not have accounts ("Visitors"), as well as those who may purchase Products and/or Services ("Members"). We request that you read this Privacy Policy carefully. 
+Last Revised: February 8, 2014
 
-Personal Information Our Company Collects and How It Is Used 
+Thank you for visiting this web site owned by Mike Dillard Media LLC. We understand the importance that Internet users place on privacy, and this Privacy Policy describes how we use personal information that is collected at this web site.
 
-Introduction: Our company collects information in different ways from Visitors and Members who access the various parts of our Services and the network of Web sites accessible through our Services. 
+Please read this Privacy Policy before using this site or submitting any personal information. California residents, please also see the “Note To California Residents” Section for additional rights that apply to you.
 
-Registration: Members may be asked to provide certain personal information when they sign up for our Products or Services, including name, address, telephone number, billing information (such as a credit card number), and the type of personal computer being used to access the Services. The personal information collected from Members during the registration process is used to manage each Member's account (such as for billing purposes). This information may be shared with third parties, as stated herein, or in special circumstances. 
+By using this web site, you accept the privacy practices contained in this Privacy Policy. These privacy practices may change from time to time, but any changes will be posted. You are encouraged to review the Privacy Policy whenever you visit the web site to make sure you understand how any personal information you provide will be used.
 
-However, in instances where our company and a partner jointly promote our Services, we may provide the partner certain personal information, such as the name, address, and user name of persons who subscribe to the Services as a result of the joint promotion, for the purpose of offering you other products and services. 
+1\. Information We Collect
 
-In this instance, personal information may not be used by the partner for any other purpose. We may also generate non-identifying and aggregate profiles from personal information Members provide during registration (such as the total number, but not the names, of Members). As explained in more detail below, we may use this aggregated and non-identifying information to sell advertisements that appear on the Services. 
+A. Personally Identifiable Information
 
-Also, with purchases, we supply our Member's contact information to our business partners, who then may contact the Member by telephone after the Member’s purchase. Sales proceeds are collected by the business partner’s company. We also may supply other companies with contact information, for mail offers we believe would be of interest to our Members, with or without compensation from those companies. At times, we may send an advertisement for a third-party product, where we collect the sales proceeds, and forward the purchaser's information to that third party. 
+In order to serve our customers, we collect personally identifiable information, like names, addresses, phone numbers, email addresses, and sometimes credit card information when such information is voluntarily submitted by our visitors. We will only use your personal information for the following purposes: (1) to deliver the products and/or services to you that you have requested; (2) to validate your compliance with the terms and conditions; (3) for content improvement and feedback purposes; (4) to reach you, when necessary, regarding your use of the web site or product(s); and (5) for the few situations described below to better serve you.
 
-Consent to Automated Phone Calls
+In order to better serve our customers and to provide you with other offers that may interest you, we reserve the right to share your personally identifiable data with our commonly owned companies, including Mike Dillard Media LLC, Vault LLC d/b/a The Elevation Group, and Magnetic Sponsoring LLC.
 
-BY CLICKING THE ACCEPT BUTTON TO THIS PRIVACY POLICY, YOU HEREBY CONSENT THAT WE MAY PLACE AUTOMATED AND LIVE PHONE CALLS TO THE NUMBER YOU PROVIDE. FOR MORE INFORMATION, SEE SECTION 16 CFR 310 OR CONTACT www.magneticsponsoring.com/support.  
+We will NEVER share your personally identifiable information with third parties unless you have given us explicit permission to do so, such as in order to fulfill a third party offer that you have accepted from us. However, by permitting us to collect this information, you will be able to receive information on other products and services that may be of interest to you, including related third party offers that we may send directly to you. You also enable us to personalize your experience with us so that we can provide you with the highest quality of service.
 
+By submitting your email address on this web site, you agree to receive email from us (Mike Dillard Media LLC), as well as our other commonly owned companies: Vault LLC d/b/a The Elevation Group and Magnetic Sponsoring LLC. You can cancel your participation in any of these email lists at any time by clicking the opt-out link or other unsubscribe option that is included in the respective email. We only send emails to people who have authorized us to contact them, either directly, or through a third party. We do not send unsolicited commercial emails, because we hate spam as much as you do.
 
-Our Company Partners and Sponsors: Some products and services may be offered to Visitors and Members in conjunction with an affiliate, independent contractor, seller, or non-affiliated partner. To provide Visitors and Members some of these products and services, the partner may need to collect and maintain personal information. 
+By participating in one of our membership programs, you agree and understand that other members of the program may see the comments, questions, photos, and/or other documents that you post on the membership site, as well as any responses to you that are posted by Mike Dillard Media or other members. If you do not want your personal details revealed to other members of the program, then please do not post any such information through the membership site.
 
-Online Shopping: At some Web sites, you can purchase products and services or register to receive materials, such as a newsletter, catalog, or new product and service updates. In many cases, you may be asked to provide contact information, such as your name, address, e-mail address, phone number, and credit/debit card information. 
+In addition, you agree that by submitting your telephone contact information on this web site and/or registering to receive the product and/or service offered herein, such act constitutes a purchase, an inquiry, and/or an application for the purposes of the Amended Telemarketing Sales Rule (ATSR), 16 CFR ‘310 et seq. and any applicable state and local “do not call” regulations. We retain the right to contact you via telemarketing in accordance with the ATSR and the applicable state regulations.
 
-If you complete an order for someone else, such as an online gift order sent directly to a recipient, you may be asked to provide information about the recipient, such as the recipient's name, address, and phone number. Our company has no control over the third party’s use of any personal information you provide when placing such an order. Please exercise care when doing so. If you order Services or Products directly from our company, we use the personal information you provide to process that order. We do share this information with outside parties that we do business with.
+B. Non-Personally Identifiable Information
 
-Online Advertisements: Our company may display our online advertisements. In those cases, we share information about our Visitors and Members collected through the registration process as well as through online surveys and promotions with these advertisers. 
+We also may collect various types of non-personally identifiable information to help us make your experience more enjoyable, measure site activity to identify future improvements that should be made, and compile aggregate data to help serve site visitors better. 
 
-Additionally, in some instances, we use this information to deliver tailored advertisements or joint ventures. For instance, an advertiser or joint venture company tells us the audience it wants to reach and provides us an advertisement tailored to the audience. Based upon the information we have collected, we may then display or send the advertisement to the intended audience. Our company does share personal information about its Visitors or Members with these advertisers or joint venture companies. 
+For example, we may use session and persistent “cookies,” session logs, web beacons, GIF/pixel tags, banner ads, third-party click tracking analytics tools (such as Google Analytics), third party retargeting networks that may display our advertisements to you on other sites that you visit to remind you about us, and third party networks that serve user-requested emails (e.g., for a refer-a-friend email) to collect non-personally identifiable or other aggregated information about site visitors.
 
-Responses to E-mail Inquiries: When Visitors or Members send e-mail inquiries to our company, the return e-mail address is used to answer the e-mail inquiry we receive. 
+Cookies are text files that are used by your computer’s web browser to store your preferences, and enable us to enhance your user experience with our web site.
 
-Voluntary Customer Surveys: We may periodically conduct both business and individual customer surveys. We encourage our customers to participate in these surveys because they provide us with important information that helps us to improve the types of Products and Services we offer and how we provide them to you. 
+Emails or newsletters that we send electronically may use techniques such as web beacons or pixel tags to gather email metrics and information to improve the reader’s experience, such as the number of emails that are opened, whether they were forwarded or printed, the type of device from which they were opened, and the location (e.g. city, state, and county) associated with the applicable IP address.
 
-We may take the information we receive from individuals responding to our customer surveys and combine (or aggregate) it with the responses of other customers we may have to create broader, generic responses to the survey questions (such as gender, age, residence, hobbies, education, employment, industry sector, or other demographic information). We then use the aggregated information to improve the quality of our Services to you, and to develop new services and products. This aggregated, non-personally identifying information may be shared with third parties. 
+If you visit this site with an open ID (such as Facebook), you may also be sharing and integrating data with third-party social media sites, and we may track aggregate data about the number of visits to this site with an open ID, the number of items “liked” on this site, or items on this site that you choose to share with a third-party social media site.  
+Other parties such as advertising partners and analytics companies may also be collecting information about your online activity across various websites over time. The information collected by those third parties may include identifiers that allow those third parties to tailor the ads that they serve to your computer or other device.  
+Because there is not yet a common understanding of how to interpret web browser-based “Do Not Track” signals other than cookies, we do not currently respond to “Do Not Track” signals that are undefined.  
+Please note that you do have the option to configure most web browsers to NOT accept cookies. However, be aware that disabling cookies may keep you from having access to some functions or services on our web site or the web-hosted software that runs on our web site.
 
-Promotions: Our company may offer polls, contests, sweepstakes, drawings, games, content, or other promotions that are sponsored by or co-branded with third parties. You may be entered in a sweepstakes, contest, or other promotion simply by making a purchase from us or by providing us with personally identifiable information for some other reason or purpose. Due to these third-party relationships, the third parties may obtain personally identifiable information that Visitors voluntarily submit to our company. Our company has no control over third parties' use of this information. 
+2\. Third Party Actions
 
-Additionally, personally identifiable information may be collected when you order Products, enter contests, vote in polls or otherwise express an opinion, subscribe to one of our Services such as our online newsletters, or participate in one of our online forums or communities. The types of personally identifiable information that may be collected at these pages include, but may not be limited to, name, address, e-mail address, telephone number, fax number, credit card information, and information about your interests in and use of various Products, programs, and Services. Our sponsors or third parties may send you material that relates to our company's Services, Products, or activities. 
+We do not control and are not liable for the actions of any third parties who we may promote. We pride ourselves in working with quality companies, but have no control over the actions of those third parties. While we are not liable for any of the actions of those third parties, you should feel free to give us feedback from time to time on your experiences with any third parties to whom we work with so that we may enhance our future service to all customers.
 
-Special Cases: It is our company's policy to use or share the personal information about Visitors or Members in ways described herein without additional notice or means to opt out or otherwise prohibit such unrelated uses. 
+3\. Children’s Privacy
 
-Also, we may disclose personal information about Visitors or Members, or information regarding your use of the Services or Web sites accessible through our Services, for any reason if, in our sole discretion, we believe that it is reasonable to do so, including credit agencies, collection agencies, merchant database agencies, law enforcement, or to satisfy laws such as the Electronic Communications Privacy Act, the Child Online Privacy Act, regulations, or governmental or legal requests for such information; to disclose information that is necessary to identify, contact, or bring legal action against someone who may be violating our Acceptable Use Policy or Terms Of Service, or other user policies; to operate the Services properly; or to protect our company and our Members. 
+We do not knowingly intend to collect personally identifiable information from children under 18 years of age. If your minor child has provided us with personally identifiable information, you may contact us at the phone number or mailing address listed in Section 7 herein if you want this information deleted from our records. We will then make reasonable efforts to remove your child’s information from the database that stores the information.
 
-Notice of Compliance to California Residents.
+4\. IP Addresses
 
-This Privacy Policy identifies the categories of personally identifiable information that our company collects through our Web site or online service about individual consumers who use or visit our company's commercial Web site or online service and the categories of third-party persons or entities with whom our company may share that personally identifiable information. 
+We may use your IP address to help prevent fraud, to help diagnose problems with our server, to gather broad demographic information, and to offer you products and services.
 
-Our company does not maintain a process for an individual consumer who uses or visits our commercial Web site or online service to review and request changes to any of his or her personally identifiable information that is collected through our Web site or online service. 
+5\. Third Party Web Sites
 
-See the section below entitled "Revisions To This Policy" for a description of the process by which our company notifies consumers who use or visit our commercial Web site or online service of material changes to our company's Privacy Policy for this Web site or online service. 
+This web site and/or the products and/or services offered herein may direct you to web sites that are owned and/or controlled by third parties. We have no control over those third parties and are not responsible for the content or the privacy practices of those sites or companies.
 
-The effective date of this Privacy Policy is listed at the end of this Privacy Policy under the heading "Last updated." 
+6\. Commitment to Data Security
 
-For the purposes of this policy and California compliance, the following definitions apply: 
+All information collected from you is stored in a technically and physically secure environment. Furthermore, employees, contractors, and vendors who have access to your personally identifiable information in connection with providing services for us are required to keep the information confidential.
 
-Depending on the Visitor's activity in our commercial Web site or online service, the following "personally identifiable information" may be collected in addition to information set forth in other sections of this document. 
+We use SSL encryption to protect sensitive information online, and we do everything we can to protect user information offline. Unfortunately, no transmission over the Internet can be guaranteed to be 100% secure. As a result, while we take reasonable measures to protect your information, we cannot ensure or warrant the security of the information that you transmit to us, and you do so at your own risk.
 
-The term "personally identifiable information" means individually identifiable information about an individual consumer collected online by our company from an individual and maintained   
-by our company in an accessible form, and may include any of the following: 
+7\. Contacting Us
 
-(1) A first and last name.   
-(2) A home or other physical address, including street name and name of a city or town.   
-(3) An e-mail address.   
-(4) A telephone number.   
-(5) A Social Security number or EIN number.   
-(6) Any other identifier that permits the physical or online contacting of a specific individual.   
-(7) Information concerning a user that the Web site or online service collects online from the user and maintains in personally identifiable form in combination with an identifier described within this Privacy Policy. 
+If you need to contact us, you can submit a support ticket at http://www.mikedillard.com/support, email us at support@mikedillard.com, or send us a letter at: 3736 Bee Cave Road, #1-162, Westlake Hills, Texas 78746.
 
-Under California Law SB 27, California residents have the right to receive, once a   
-year, information about third parties with whom we have shared information about you   
-or your family for their marketing purposes during the previous calendar year, and a   
-description of the categories of personal information shared. To make such a request,   
-please send an e-mail to support@magneticsponsoring.com and please include the phrase   
-"California Privacy Request" in the subject line, the domain name of the Web site you are inquiring about, along with your name, address, and e-mail address. We will respond to you within thirty days of receiving such a request. 
+We strive to provide excellent products, along with equally excellent customer service. If you have any questions about this Privacy Policy or our practices, please feel free to contact us using one of the methods listed above.
 
-"Cookies" and How Our Company Uses Them. A "cookie" is a small data file that can be placed on your hard drive when you visit certain Web sites. Our company may use cookies to collect, store, and sometimes track information for purposes stated herein as well as for statistical purposes to improve the Products and Services we provide and to manage our telecommunications networks. 
+8\. Note To California Residents  
+If you live in the State of California, under the California Civil Code, you have the right to request that companies who conduct business in California provide you with a list of all third parties to which the company has disclosed Personal Information during the preceding year for direct marketing purposes.  
+Alternatively, the law provides that if a company has a Privacy Policy that gives either an opt-out (often referred to as “unsubscribe”) or opt-in choice for use of your Personal Information by third parties (such as advertisers or affiliated companies) for marketing purposes, that the company may instead provide you with information on how to exercise your disclosure choice options.
 
-Advertisers and partners may also use their own cookies. We do not control use of these cookies and expressly disclaim responsibility for information collected through them. 
+This Site qualifies for the alternative option; it has a comprehensive Privacy Policy and provides you with details on how you may either opt-out or opt-in to the use of your Personal Information by third parties for direct marketing purposes. Therefore, we are not required to maintain or disclose a list of the third parties that received your Personal Information for marketing purposes during the preceding year.
 
-Our Company Commitment to Children's Privacy: Protecting children's privacy is especially important to us. It is our policy to comply with the Children's Online Privacy Protection Act of 1998 and all other applicable laws. Therefore, we restrict our Web site to persons eighteen years or older. 
+If you are a California resident and want to request information about how to exercise your third party disclosure choices, you must send a request to the following address with a preference on how our response to your request should be sent (email or postal mail). Please send an email to the Privacy Administrator at support@mikedillard.com, or you may contact us via regular 
 
-YOU MUST BE EIGHTEEN (18) YEARS OR OLDER TO ACCESS THIS WEB SITE. IF YOU ARE UNDER EIGHTEEN (18) YEARS OF AGE, YOU ARE NOT PERMITTED TO ACCESS THIS WEB SITE FOR ANY REASON. DUE TO THE AGE RESTRICTIONS FOR USE OF THIS WEB SITE, NO INFORMATION OBTAINED BY THIS WEB SITE FALLS WITHIN THE CHILDREN'S ONLINE PRIVACY PROTECTION ACT ("COPPA") AND IS NOT MONITORED AS DOING SO. 
+mail at:  
+Mike Dillard Media LLC  
+3736 Bee Cave Road, #1-162  
+Westlake Hills, Texas 78746
 
-Public Forums: Please remember that any information you may disclose in any Member Directory, or other public areas of our Web sites or the Internet, becomes public information. You should exercise caution when deciding to disclose personal information in these public areas. 
+All requests sent via regular mail must be labeled “Your California Privacy Rights” on the envelope or post card and clearly stated on the actual request. For all requests, please include your name, street address, city, state, and zip code. Please include your zip code for our own recordkeeping.
 
-Our Company's Commitment to Data Security: Services and Web sites we sponsor have security measures in place to protect the loss, misuse, and alteration of the information under our control. While we make every effort to ensure the integrity and security of our network and systems, we cannot guarantee that our security measures will prevent third-party "hackers" from illegally obtaining this information. 
-
-Where to Direct Questions About Our Privacy Policy: If you have any questions about this Privacy Policy or the practices described herein, you may contact us through the contact information provided on this Web site. 
-
-Revisions to this Policy: Our company reserves the right to revise, amend, or modify this policy, our Terms Of Service agreement, and our other policies and agreements at any time and in any manner by updating this posting. Your use of this Site after such changes are implemented constitutes your acknowledgement and acceptance of these changes. Please consult this privacy statement prior to every use for any changes. 
-
-Last modified: October 9th 2009
+We do not accept requests via the telephone or by facsimile. We are not responsible for notices that are not labeled or sent properly, or do not have complete information. 
