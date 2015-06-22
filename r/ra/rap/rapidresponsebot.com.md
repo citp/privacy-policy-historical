@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rapidresponsebot.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120225211id_/http%3A//rapidresponsebot.com/rrrbprivacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rapidresponsebot.com privacy policy that was archived on 2015-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150622191247id_/http%3A//rapidresponsebot.com/rrrbprivacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy for RapidResponsebot.com
 
@@ -30,7 +30,7 @@ We use Personally Identifiable Information to customize the Site, to make approp
 Personally Identifiable Information about Authorized Customers may be shared with other Authorized Customers who wish to evaluate potential transactions with other Authorized Customers. We may share aggregated information about our Visitors, including the demographics of our Visitors and Authorized Customers, with our affiliated agencies and third party vendors. We also offer the opportunity to "opt out" of receiving information or being contacted by us or by any agency acting on our behalf. 
 
 **How is Personally Identifiable Information stored?**  
-Personally Identifiable Information collected by Rapid Response.com is securely stored and is not accessible to third parties or employees of Rapid Response.com except for use as indicated above.
+Personally Identifiable Information collected by Rapid Response.com is securely stored and is not accessible to third parties or employees of Rapid Response.com except for use as indicated above. 
 
 **What choices are available to Visitors regarding collection, use and distribution of the information?**  
 Visitors and Authorized Customers may opt out of receiving unsolicited information from or being contacted by us and/or our vendors and affiliated agencies by responding to emails as instructed, or by contacting us at [privacy@Rapid Response.com](mailto:privacy@rapidresponsebot.com)
