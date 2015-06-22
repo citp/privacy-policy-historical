@@ -1,100 +1,63 @@
-> *The following text is extracted and transformed from the callmylostphone.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627154744id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the callmylostphone.com privacy policy that was archived on 2015-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150622110318id_/http%3A//callspin.com/about-us/privacy-policy) for the most accurate reproduction.*
 
-# Legal Agreement
+# Privacy Policy | CallSpin.com
 
-**Go Daddy Respects Your Privacy**
+Über Systems believes that privacy is important to the success and use of the Internet. This statement sets forth Über Systems’s Privacy Statement and describes the practices that Über Systems will follow with respect to the privacy of users of this Site.
 
-**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
+**What is personally identifiable information?**
 
-**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
+“Customer identifiable information” is information which can be associated with a specific individual or entity, such as name, address, phone number, e-mail address, user ID, credit card number, social security number, and so on.
 
-**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
+**How is this information collected, used, and disclosed?**
 
-**Information Collection and Use**
+Recognition of a Customer’s Expectation of Privacy: At Über Systems, we believe the confidentiality and protection of customer information is one of our fundamental responsibilities. And while information is critical to providing quality service, we recognize one of our most important assets is our customers’ trust. Thus, the safekeeping of customer information is a priority for Über Systems.
 
-Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
+All personal information collected is stored indefinitely for abuse monitoring, statistical reporting, customer service needs and for the consumer’s own use. This data is available to the individual consumer and Über Systems’ employees and contractors only.
 
-We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
+If you have voluntarily provided information, you consented to the collection and use of your personally identifiable information as described in this Privacy Statement. We do not sell or rent personal information collected through this site to anyone. However, Über Systems may provide aggregate statistics about visitors to our Sites, such as volume, traffic patterns, and related site information to reputable third-party vendors, but these statistics will include no personally identifiable information. Über Systems may also disclose information in special cases when we have a good faith belief that such action is necessary to: (a) conform to legal requirements or comply with legal process; (b) protect and defend our rights or property; (c) enforce the Web site Terms and Conditions of Use; or (d) act to protect the interests of our users or others.
 
-We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
+If you are the recipient of a call and have not voluntarily provided personal information such as phone number, we store and use your information only for abuse monitoring, statistical reporting and customer service needs.
 
-We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
+Use, Collection and Retention of Customer Information: Über Systems limits the use, collection and retention of customer information to what we believe is necessary or useful to conduct our business, provide quality service, and offer products, services and other opportunities that may be of interest to our customers.
 
-We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
+Über Systems servers automatically gather information about which pages are visited within the Über Systems Web Site. We do not use that information except in the aggregate.
 
-Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
+Maintenance of Accurate Information: Über Systems recognizes that it must maintain accurate customer records. Therefore, Über Systems has established procedures to maintain the accuracy of customer information and to keep such information current and complete. These procedures include responding to requests to correct inaccurate information in a timely manner.
 
-This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
+Protection of Information via Established Security Procedures: Über Systems recognizes that a fundamental element of maintaining effective customer privacy procedures is to provide reasonable protection against the unauthorized access to customer information. Therefore, Über Systems has established appropriate security standards and procedures to guard access to customer information. Disclosure of Privacy Principles to Customers: Über Systems recognizes and respects the privacy expectations of our customers. We want our customers to understand our commitment to privacy in our use of customer information. As a result of our commitment, we have developed these Privacy Principles which are made readily available to our customers. Customers who have questions about these Privacy Principles or have a question about the privacy of their customer information should call Über Systems.
 
-**Security**
+**What about call recording?**
 
-This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
+It is illegal under the law of some states to record a telephone call without informing the receiving party that the call is being recorded. Before using the recording capability of any Callspin powered website, you should protect yourself from possible state criminal prosecution by informing the other party that you are recording the conversation. Any Callspin powered website cannot monitor every call to determine legal or illegal activity. Über Systems disclaims any and all liability or responsibility for your use of any Callspin powered website’ recording capability. Call recordings are stored for a limited time to allow the consumer to download the recordings before being deleted to save storage space and improve site performance.
 
-**Updating Your Information**
+**What are cookies and how are they used?**
 
-You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
+Some Über Systems Sites, like many other commercial web sites, may utilize a standard technology called “cookies” to collect information about how our site is used. Cookies were designed to help a web site operator determine that a particular user had visited the site previously and thus save and remember any preferences that may have been set while the user was browsing the site. Cookies are small strings of text that web sites can send to your browser. Cookies cannot retrieve any other data from your hard drive or obtain your e-mail address. If you are simply browsing a Über Systems informational site, a cookie may be used to identify your browser as one that has visited the site before.
 
-        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
+We may also make use of memory-based cookies in support of authenticating the user of certain Über Systems web applications. Similarly, if you are a registered user of a site providing service to Über Systems clients (and have a user ID and password), we may use cookies so that we can provide personalized information based on preferences you have indicated while using the site. Although you have the ability to modify your browser to either accept all cookies, notify you when a cookie is sent, or reject all cookies, it may not be possible to utilize Über Systems services which require registration if you reject cookies.
 
-       ii.      You may send mail to Go Daddy at the following postal address:   
-               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
+**What are your choices regarding collection, use, and distribution of your information?**
 
-      iii.      You may call us at: (480) 505-8800
+If you have voluntarily provided information, you consented to the collection and use of your personally identifiable information as described in this Privacy Statement. If, in connection with your use of a particular service, we ask to use your data in a way not described in this Privacy Statement and you do not wish to permit that use, you can choose not to use the particular service.
 
-       iv.      You may fax us at: (480) 505-8844
+If you have voluntarily provided personally identifiable information, we may, from time to time, send you mail or e-mail regarding products and services. If you do not want to receive such offers and mailings, you can easily indicate that by checking the appropriate box on the submission form.
 
-**Sending Emails**
+**How do we protect your information?**
 
-We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
+We exercise great care to protect your personally identifiable information. This includes, among other things, using industry standard techniques such as firewalls, encryption, intrusion detection and site monitoring. Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. As a result, while we strive to protect your personally identifiable information, we cannot ensure or warrant the security of any information you transmit to us or receive from us. This is especially true for information you transmit to us via e-mail. We have no way of protecting that information until it reaches us. Once we receive your transmission, we make our best effort to ensure its security on our servers.
 
-The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
+Internally, we will restrict access to your personally identifiable information to employees and contractors who need access to the information in order to do their jobs. These employees and contractors are limited in number and are committed to our privacy policies.
 
-**Compliance with Laws and Law Enforcement**
+We will review our security arrangements from time to time as we deem appropriate.
 
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
+**How can you help protect your information?**
 
-**Third Party Service Providers**
+If you are using an Über Systems web site for which you registered and chose a password, which may be utilized, we recommend that you do not divulge your password to anyone. We will never ask you for your password in an unsolicited phone call or in an unsolicited e-mail. Also remember to sign out of the registered site and close your browser window when you have finished your work. This is to ensure that others cannot access your personal information and correspondence if others have access to your computer.
 
-We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
+**Other sites**
 
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
+Über Systems Sites may contain links to other sites, including those of our business partners. While we seek to link only to sites that share our high standards and respect for privacy, we are not responsible for the privacy practices employed by other sites.
 
-**Supplementation of Information**
+_These Privacy Principles apply to individuals, and we reserve the right to change these Privacy Principles, and any of the policies or procedures described above, at any time without prior notice. These Privacy Principles are for general guidance and do not constitute a contract or create legal rights and do not modify or amend any agreements we have with our customers._
 
-In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
-
-**Contests/Surveys**
-
-From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
-
-We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
-
-**Tell-A-Friend**
-
-If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
-
-**What Happens to my Personal Information if I Opt Out?**
-
-If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information if necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
-
-**Transfer of Data Abroad**
-
-If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
-
-**Changes in Our Practices**
-
-We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
-
-If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
-
-**Contacting Our Site**
-
-If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
-
-* * *
-
-Go Daddy   
-ATTN: Web Team   
-14455 North Hayden Rd.   
-Suite 219   
-Scottsdale, AZ, 85260, U.S.A.
+If you have questions or concerns regarding this statement, please [contact us](http://callspin.com/contact-us/ "Contact Us").
