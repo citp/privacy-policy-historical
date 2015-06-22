@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sold.sg privacy policy that was archived on 2013-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130925034910id_/http%3A//auctions.sold.sg/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sold.sg privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623004535id_/http%3A//www.sold.sg/privacy) for the most accurate reproduction.*
 
-# Sold.sg -
+# Sold.sg
 
 * * *
 
@@ -146,5 +146,3 @@ Subject to applicable laws, the prevailing language of the Privacy Policy will b
 CONTACT US
 
 If you have comments or questions about this Privacy Policy statement, please contact us at **[info@sold.sg](mailto:info@sold.sg?Subject=Hello)** , titled “Privacy Policy”.
-
-You can also visit or call us at, 33 Mohamed Sultan Road, #02-05/06, Tel: +65 6521 6691.
