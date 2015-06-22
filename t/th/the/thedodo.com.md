@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thedodo.com privacy policy that was archived on 2014-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141229150054id_/https%3A//www.thedodo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thedodo.com privacy policy that was archived on 2015-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150622143949id_/http%3A//thedodo.com/privacy-policy) for the most accurate reproduction.*
 
-# The Dodo : For the Love of Animals
+# The Dodo
 
 Welcome to The Dodo! The Dodo.com, Inc. (“The Dodo”, “we”, “us”, or “our”) has prepared this Privacy Policy to describe to you our practices regarding the Personal Information (as defined below) we collect from users of our website, located at www.TheDodo.com (the “Site”) and online services (“Services”).
 
@@ -67,7 +67,7 @@ We also disclose certain Personal Information:
 
   * To third party vendors who help us provide the Services or the Site;
   * To third parties to whom you ask us to send Personal Information;
-  * To a parent company, any subsidiaries, joint ventures, or other companies under a common control (collectively, “Affiliates”), in which case we will require our Affiliates to honor this Privacy Policy; 
+  * To a parent company, any subsidiaries, joint ventures, or other companies under a common control (collectively, “Affiliates”), in which case we will require our Affiliates to honor this Privacy Policy;
   * In connection with or during negotiation of any merger, financing, acquisition or dissolution, transaction or proceeding involving sale, transfer, divestiture, or disclosure of all or a portion of our business or assets. In the event of an insolvency, bankruptcy, or receivership, Personal Information may also be transferred as a business asset. If another company acquires our company, business, or assets, that company will possess the Personal Information collected by us and will assume the rights and obligations regarding your Personal Information as described in this Privacy Policy; or
   * If we believe in good faith that such disclosure is necessary to (a) resolve disputes, investigate problems, or enforce our Terms of Use; (b) comply with relevant laws or to respond to requests from law enforcement or other government officials relating to investigations or alleged illegal activity, in which case we can (and you authorize us to) disclose Personal Information without subpoenas or warrants served on us; or (c) protect and defend our rights or property or the rights and property of you or third parties.
 
