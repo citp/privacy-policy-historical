@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usafis.org privacy policy that was archived on 2014-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141218203504id_/http%3A//www.usafis.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usafis.org privacy policy that was archived on 2015-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150622054700id_/http%3A//www.usafis.org/privacy-policy) for the most accurate reproduction.*
 
 # PRIVACY POLICY | USAFIS - Green Card DV Lottery Program
 
@@ -59,8 +59,8 @@ You may request a correction to or a copy of the personal information we hold ab
 
 Privacy Officer  
 Usafis Organization  
-2576 Broadway # 520  
-New York NY 10025  
+306 W. 38th Street, Suite 800  
+New York NY 10018  
 USA
 
 #### **Changes to this Policy**
