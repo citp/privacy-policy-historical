@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the 9news.com.au privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227021022id_/http%3A//mi9.com.au/article.aspx%3Fid%3D8363165) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 9news.com.au privacy policy that was archived on 2015-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150622115656id_/http%3A//mi9.com.au/article.aspx%3Fid%3D8363165) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Last Updated: 17 October 2014 
+Last Updated: 2 June 2015 
 
 ### Privacy Policy
 
@@ -68,7 +68,7 @@ NINEMSN will allow you to transact with it anonymously wherever that is reasonab
 
 ### Information we collect from other sources
 
-In order to offer you a more consistent and personalised experience in your interactions with NINEMSN, information collected through one NINEMSN service may be combined with information obtained through other NINEMSN services. We may access information about you from our Related Bodies Corporate and third-party sources and platforms (such as social networking sites, databases, online marketing companies, Microsoft Products, third party websites on the NINEMSN Network (such as Daily Mail Australia and Bauer Media websites) and ad targeting companies) and supplement the information we collect with information obtained from those third party sources. For example: 
+In order to offer you a more consistent and personalised experience in your interactions with NINEMSN, information collected through one NINEMSN service may be combined with information obtained through other NINEMSN services. We may access information about you from our Related Bodies Corporate and third-party sources and platforms (such as social networking sites, databases, online marketing companies, Microsoft Products, third party websites on the NINEMSN Network (such as Daily Mail Australia websites) and ad targeting companies) and supplement the information we collect with information obtained from those third party sources. For example: 
 
   * we may use services from other companies that enable us to derive a general geographic area based on your IP address in order to customise certain services to your geographic area.
   * we may collect anonymous information provided to Microsoft through your Windows Live ID account;
@@ -103,13 +103,13 @@ Generally, we only use personal information for the primary purpose for which we
 
 NINEMSN may state a more specific purpose at the point we collect your personal information. 
 
-**_You acknowledge and agree that any personal information submitted by you on the NINEMSN Network may be provided by ninemsn to its Related Bodies Corporate (including but not limited to Ticketek and Nine Network Australia) and Associated Entities (defined above) and used by those organisations for any of the purposes disclosed in this Privacy Policy._**
+**_You acknowledge and agree that any personal information submitted by you on the NINEMSN Network may be provided by ninemsn to its Related Bodies Corporate (including but not limited to Nine Network Australia) and Associated Entities (defined above) and used by those organisations for any of the purposes disclosed in this Privacy Policy._**
 
 Please contact the NINEMSN Privacy Officer via email at [privacyofficer@mi9.com.au](mailto:privacyofficer@mi9.com.au) if you wish to request that NINEMSN (or any of its Related Bodies Corporate) cease using your personal information for any or all of the purposes described under this Privacy Policy.
 
 ### DOES NINEMSN DISCLOSE PERSONAL INFORMATION TO THIRD PARTIES?
 
-Except as described in this Privacy Policy, NINEMSN will not disclose your personal information outside of NINEMSN and its Related Bodies Corporate (including Nine Entertainment Co, Ticketek Pty Limited and Nine Network Australia Pty Limited) and Associated Entities without your consent.
+Except as described in this Privacy Policy, NINEMSN will not disclose your personal information outside of NINEMSN and its Related Bodies Corporate (including Nine Entertainment Co and Nine Network Australia Pty Limited) and Associated Entities without your consent.
 
 NINEMSN may disclose personal information it collects about you to third parties for a variety of purposes in connection with NINEMSN providing its products, services and special offers to you (including to our agents, Related Bodies Corporate, Associated Entities and contractors). Personal information may be disclosed to third parties by NINEMSN in the following circumstances: 
 
@@ -125,8 +125,6 @@ We occasionally engage other companies to provide limited services on our behalf
 In addition to disclosures of the personal information you submit on the NINEMSN Network you agree to elsewhere in the privacy policy (including those described above in **How NINEMSN Uses Personal Information)** , Personal information collected by NINEMSN from an individual may be disclosed to a specified third party client or partner of NINEMSN if the individual has consented to such disclosure. 
 
 For example, if an individual provides personal information to NINEMSN when entering a competition sponsored by Ford on the NINEMSN Network, and the individual expressly checks a box prior to entering the competition which confirms they agree to have their personal information provided to Ford for the purpose of receiving marketing communications directly from Ford, NINEMSN will disclose this individual’s personal information to Ford for this purpose only. Any subsequent communications received by the individual from Ford will be subject to Ford’s privacy policy.
-
-Any personal information provided to ninemsn on the ninemsn Network for the purpose of the user subscribing to email newsletters from publications owned by Bauer Media Limited will be disclosed by ninemsn to Bauer Media Limited for this purpose (and subsequently subject to Bauer Media’s privacy policy). 
 
   3. _Disclosures required by law or NINEMSN policies._
 
