@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the zobello.com privacy policy that was archived on 2014-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141224222935id_/http%3A//www.zobello.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zobello.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623014310id_/http%3A//www.zobello.com/privacy-policy) for the most accurate reproduction.*
 
-# Zobello.com - Privacy Policy
+# Zobello Privacy Policy
 
 Zobello respects the privacy of all visitors to its website and is highly committed to maintaining the privacy of all online visitors to its website [www.zobello.com](http://www.zobello.com/).
 
