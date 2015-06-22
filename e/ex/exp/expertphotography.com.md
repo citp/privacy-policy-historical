@@ -1,23 +1,6 @@
-> *The following text is extracted and transformed from the expertphotography.com privacy policy that was archived on 2014-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140803061446id_/http%3A//www.expertphotography.com/privacy-delivery-refund-policies-and-contact) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the expertphotography.com privacy policy that was archived on 2015-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150622115727id_/http%3A//expertphotography.com/privacy-delivery-refund-policies-and-contact) for the most accurate reproduction.*
 
 # Privacy & Delivery Policies » Expert Photography
-
-## [Lightroom Presets by SLR Lounge](http://www.expertphotography.com/lrpresents)
-
-[ ](http://www.expertphotography.com/lrpresents)
-
-I do 98% of my processing with this package, here's why:
-
-• Over 300 presets to instantly transform your photos          • Simple video tutorials to make amazing adjustments easy • Get that  **'professionally processed look'** in seconds
-
-
-
-
-Enter ' **expertphotog** ' at the checkout to save 10%!
-
-[CLAIM MY DISCOUNT NOW!](http://www.expertphotography.com/lrpresents)
-
-###### $89
 
 ## Privacy Policy
 
@@ -77,20 +60,3 @@ Your product will be delivered to you digitally, immediately after purchase.
 You will be redirected to a sign up page, where you will gain access to a special membership site.
 
 It’s important that you check all of your emails, and confirm links, otherwise you may not be permitted access.
-
-## [Lightroom Presets by SLR Lounge](http://www.expertphotography.com/lrpresents)
-
-[ ](http://www.expertphotography.com/lrpresents)
-
-I do 98% of my processing with this package, here's why:
-
-• Over 300 presets to instantly transform your photos          • Simple video tutorials to make amazing adjustments easy • Get that  **'professionally processed look'** in seconds
-
-
-
-
-Enter ' **expertphotog** ' at the checkout to save 10%!
-
-[CLAIM MY DISCOUNT NOW!](http://www.expertphotography.com/lrpresents)
-
-###### $89
