@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the monginis.net privacy policy that was archived on 2014-08-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140827180004id_/http%3A//www.monginis.net/legal-info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the monginis.net privacy policy that was archived on 2015-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150622110359id_/http%3A//www.monginis.net/legal-info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Monginis Cake Shop in India - Monginis
 
-Monginis is the sole owner of the information collated on [www.monginis.net](https://web.archive.org/web/20140827180004id_/http://www.monginis.net/legal-info/). This privacy statement applies only to information collated by this Site.
+Monginis is the sole owner of the information collated on [www.monginis.net](https://web.archive.org/web/20150622110359id_/http%3A//www.monginis.net/). This privacy statement applies only to information collated by this Site.
 
 Communications from the Site
 
@@ -18,8 +18,11 @@ If you request to receive our press release(s) or newsletter(s), we will use you
 
 ## 3\. Service-related Announcements
 
-We will send you strictly service-related announcements on rare occasions when it is necessary to do so. For instance, if our service is temporarily suspended for maintenance, we might send you an email informing you of this.  
+We will send you strictly service-related announcements on rare occasions when it is necessary to do so. For instance, if our service is temporarily suspended for maintenance, we might send you an email informing you of this.
 
+## Communications 
+
+You consent to receive communications from us by e-mail, SMS or any other communication made electronically, verbally or physically through post. You agree that all agreements, notices, disclosures and other communications that MONGINIS provides to you by e-mail or in any other aforementioned mediums satisfy any legal requirement that such communications be in writing.
 
 ## 4\. Legal Disclaimer
 
