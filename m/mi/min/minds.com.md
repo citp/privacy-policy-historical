@@ -1,128 +1,60 @@
-> *The following text is extracted and transformed from the minds.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701144751id_/https%3A//www.minds.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the minds.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623000629id_/https%3A//www.minds.com/p/privacy) for the most accurate reproduction.*
 
 # Privacy | Minds
 
-1\.  The right to access and change the free and open source code powering the apps that you are interacting with.
+## Privacy
 
-2\.  The right to create an anonymous account and use proxy servers to connect to Minds.  This is essential for ensuring you aren't tracked or spied upon.
+Last updated 11/16/2014:
 
-3\.  The right to remix.  All content is licensed openly and Minds code is free and open source software.
+Your privacy is important to us, and it is Minds, Inc. (Minds) policy to respect the privacy of our users regarding any information we may collect while operating our websites. We have a few fundamental principles:
 
-4\.  The right to access all human knowledge.
+-We don’t ask you for personal information unless we truly need it.
 
-5\.  The right to vote on Internet evolution.
+-We don't store personal information on our servers unless we must to provide our services.
 
-6\.  The right to freedom of speech and the press.  Everything legal in the world is legal here.
+-We do not willfully disclose the personal information of our users to anyone except to comply to applicable law, provide the services of the website, or protect our rights.
 
-7\.  The right to have your voice heard.  Anyone in the world can be featured.
+-We will notify our users immediately if we believe their personal information is disclosed by Minds in any unauthorized way.
 
-8\.  The right to film, record and share your experience.
+-Encrypt everything
 
-9\.  The right to make money from your work.
+  *   *   *   *   * In our products, we aim to make it as simple as possible for you to control what’s visible to the public, seen by search engines, kept private, and permanently deleted. Below is our privacy policy which incorporates these goals: (Note, we’ve decided to make this privacy policy available under a[ Creative Commons Sharealike](http://creativecommons.org/licenses/by-sa/2.5/) license).
 
-10\.  The right to peaceful gatherings and protests.
 
-Welcome to the MINDS.com web site and online services.  MINDS values the privacy of our members and others who visit and use the MINDS.com Site (individually, "You" or collectively, "Users").  We take your privacy seriously and make it a priority to protect personally identifiable information that we obtain from and about individuals both online and offline.
 
-This Privacy Policy describes what information we gather from you, how we use that information, and what we do to protect it. By using the MINDS.com Site (whether or not you are a registered member), you expressly consent to the information handling practices described in this Privacy Policy. If you do not want information about you to be used in the manner set forth in this Privacy Policy, please do not use the MINDS.com Site.
 
-This Privacy Policy is incorporated into and is subject to the MINDS Terms of Service Your use of MINDS and any personal information you provide on the MINDS.com Site are subject to the terms of this Privacy Policy and the MINDS Terms of Service.
+If you have questions about deleting or correcting your personal data please [contact](https://minds.com/contact) us.
 
-We want MINDS to be a network based on openness and sharing.  We also want nothing more than to protect your universal rights to anonymity and privacy.  In order to satisfy both of these elements, we allow people the freedom to create eponymous or anonymous accounts.  Impersonation however is expressly prohibited on the MINDS.com Site.  Spread of private information has the ability to affect populations in dramatic ways.  For this reason Minds.com is heavily encrypted and we have implemented a wide spectrum of security certificates and privacy settings to make sure everyone is as safe and secure as possible. At the end of the day though, we cannot offer a 100% guarantee that your messages won't be hacked.
+Website Visitors
 
-Otherwise our mantra is "We have nothing to hide!" and all site data created here is licensed to the world under the[ Creative Commons](http://www.minds.com/web/20130806055502/http://creativecommons.org/licenses/)  and  [General Public License](http://www.minds.com/web/20130806055502/http://www.gnu.org/copyleft/gpl.html) because we think that people have a right to such accessibility that is generally not allowed by other networks.  The main purpose of the internet is to share information.  This is how it grows and evolves.  The internet can't exist if we don't share our data, and the truth is that it is next to impossible to use the web without sharing your tracks.  Everything is streaming and being recorded somewhere, and it is up to you to keep this in your mind and share responsibly.
+Like most website operators, Minds collects non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request. Minds’ purpose in collecting non-personally identifying information is to better understand how Minds’ visitors use its website. From time to time, Minds may release non-personally-identifying information in the aggregate, e.g., by publishing a report on trends in the usage of its website.
 
-### Information Minds Collects
+Minds also collects potentially personally-identifying information like Internet Protocol (IP) addresses for logged in users and for users leaving comments on Minds.com. Minds only discloses logged in user and commenter IP addresses under the same circumstances that it uses and discloses personally-identifying information as described below, except that blog commenter IP addresses and email addresses are visible and disclosed to the administrators of the blog where the comment was left.
 
-Information that you give us:  In order to use several of the services that we offer on MINDS, we require you to register an account.  When you register for the MINDS.com Site, we will ask you for a valid email address, a username, and some other basic information.
+Gathering of Personally-Identifying Information
 
-Information we get from your use of our services:  We may collect information about the services that you use and how you use them, like when you visit a website that uses our advertising services or you view and interact with our ads and content. This information includes:
+Certain visitors to Minds’ websites choose to interact with Minds in ways that require Minds to gather personally-identifying information. The amount and type of information that Minds gathers depends on the nature of the interaction. For example, we ask visitors who sign up to provide a username and email address. Those who engage in transactions with Minds are occasionally asked to provide additional information, including as necessary the personal and financial information required to process those transactions. In each case, Minds collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor’s interaction with Minds. Minds does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.
 
-  * Device information:  We may collect device-specific information (such as your hardware model, operating system version, unique device identifiers, and mobile network information including phone number).
+Aggregated Statistics
 
-  * Log information:  When you use our services or view content provided by MINDS, we may automatically collect and store certain information in[ server logs](http://www.minds.com/web/20130806055502/http://www.google.com/intl/en/policies/privacy/key-terms/#toc-terms-server-logs). This may include:details of how you used our service, such as your search queries.
+Minds may collect statistics about the behavior of visitors to its websites. For instance, Minds may monitor the most popular channels or sites on the Minds.com site. Minds may display this information publicly or provide it to others. However, Minds does not disclose personally-identifying information other than as described below.
 
-  * Internet protocol address.
+Protection of Certain Personally-Identifying Information
 
-  * Device event information such as crashes, system activity, hardware settings, browser type, browser language, the date/time of your request and referral URL.
+Minds discloses potentially personally-identifying and personally-identifying information only to those of its employees, contractors and affiliated organizations that (i) need to know that information in order to process it on Minds’ behalf or to provide services available at Minds’ websites, and (ii) that have agreed not to disclose it to others. Some of those employees, contractors and affiliated organizations may be located outside of your home country; by using MInds’ websites, you consent to the transfer of such information to them. Minds discloses potentially personally-identifying and personally-identifying information only in response to a subpoena, court order or other governmental request, or when Minds believes in good faith that disclosure is reasonably necessary to protect the property or rights of Minds, third parties or the public at large. If you are a registered user of a Minds website and have supplied your email address, Minds may occasionally send you an email to tell you about new features, solicit your feedback, or just keep you up to date with what’s going on with Minds and our products. If you send us a request (for example via a support email or via one of our feedback mechanisms), we reserve the right to publish it in order to help us clarify or respond to your request or to help us support other users. Minds takes all measures reasonably necessary to protect against the unauthorized access, use, alteration or destruction of potentially personally-identifying and personally-identifying information.
 
-  * Cookies that may uniquely identify your browser or your MINDS Account.
+Cookies
 
-  * Local storage:  We may collect and store information (including personal information) locally on your device using mechanisms such as browser web storage (including HTML 5) and application data caches.
+A cookie is a string of information that a website stores on a visitor’s computer, and that the visitor’s browser provides to the website each time the visitor returns. Minds uses cookies to help Minds identify and track visitors, their usage of Minds website, and their website access preferences. Minds visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using Minds’ websites, with the drawback that certain features of Minds’ websites may not function properly without the aid of cookies.
 
-  * Location information:  When you use a location-enabled MINDS service, we may collect and process information about your actual location, like GPS signals sent by a mobile device. We may also use various technologies to determine location, such as sensor data from your device that may, for example, provide information on nearby Wi-Fi access points and cell towers.
+Business Transfers
 
-  * Cookies and anonymous identifiers:  We use various technologies to collect and store information when you visit MINDS, and this may include sending one or more[ cookies](http://www.minds.com/web/20130806055502/http://www.google.com/intl/en/policies/privacy/key-terms/#toc-terms-cookie) or[ anonymous identifiers](http://www.minds.com/web/20130806055502/http://www.google.com/intl/en/policies/privacy/key-terms/#toc-terms-identifier) to your device. We also use cookies and anonymous identifiers when you interact with services we offer to our partners, such as advertising services or MINDS features that may appear on other sites.
+If Minds, or substantially all of its assets, were acquired, or in the unlikely event that Minds goes out of business or enters bankruptcy, user information would be one of the assets that is transferred or acquired by a third party. You acknowledge that such transfers may occur, and that any acquirer of Minds may continue to use your personal information as set forth in this policy.
 
+Ads
 
+Ads appearing on any of our websites may be delivered to users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This Privacy Policy covers the use of cookies by Minds and does not cover the use of cookies by any advertisers.
 
+Privacy Policy Changes
 
-### How MINDS uses your information
-
-  * MINDS collects personally identifiable information when you register as a member in order to establish and enhance our relationship with you. MINDS generally uses the information you provide or that we collect to operate, maintain, enhance, and provide all of the features and services found on the MINDS Site. We will use your email address, without further consent, for non-marketing or administrative purposes such as notifying you of major site updates.
-
-
-
-  * MINDS uses all of the information that we collect from Users to understand and analyze the usage trends and preferences of our Users, to improve the way the MINDS Site works and looks, and to create new features and functionality.
-
-
-
-  * MINDS may use "cookies" information to: (a) remember your information so that you will not have to re-enter it during your visit or the next time you visit the MINDS Site; (b) monitor aggregate site usage metrics such as total number of visitors and pages viewed; and (c) track your entries, submissions, and status in any promotions or other activities.
-
-
-
-  * MINDS will not share your personal information with advertisers or third parties.
-
-
-
-
-### How Minds shares your information
-
-We do not share personal information with companies, organizations and individuals outside of MINDS unless one of the following circumstances apply:
-
-  * We will share personal information with companies, organizations or individuals outside of MINDS only when we have your consent to do so.
-
-  * If your MINDS Account is managed for you by a[ domain administrator,](http://www.minds.com/web/20130806055502/http://support.google.com/a/bin/answer.py?hl=en&answer=178897) then your domain administrator and resellers who provide user support to your organization will have access to your MINDS Account information (including your email and other data). Your domain administrator may be able to:
-
-    * View statistics regarding your account, like statistics regarding applications you install.
-
-    * Change your account password.
-
-    * Suspend or terminate your account access.
-
-    * Access or retain information stored as part of your account.
-
-    * Receive your account information in order to satisfy applicable law, regulation, legal process or enforceable governmental request.
-
-    * Restrict your ability to delete or edit information or privacy settings.
-
-  * We will share personal information with companies, organizations or individuals outside of MINDS if we have a good-faith belief that access, use, preservation or disclosure of the information is reasonably necessary to:
-
-    * Meet any applicable law, regulation, legal process or enforceable governmental request.
-
-    * Enforce applicable Terms of Service, including investigation of potential violations.
-
-    * Detect, prevent, or otherwise address fraud, security or technical issues.
-
-    * Protect against harm to the rights, property or safety of MINDS, our users or the public as required or permitted by law.
-
-
-
-
-We may share aggregated, non-personally identifiable information publicly and with our partners – like publishers, advertisers or connected sites. For example, we may share information publicly to show trends about the general use of our services.
-
-If MINDS is involved in a merger, acquisition or asset sale, we will continue to ensure the confidentiality of any personal information or give affected users reasonable notice before personal information is transferred or becomes subject to a different privacy policy.
-
-### Access Levels
-
-Several features of the site offer users the ability to set access levels for their content.  It is the responsibilty to understand these options and choose the appropriate access level. When you select the ‘Public’ access level, your content will be viewable by everyone on the internet, and not just logged in users.  ‘Logged in Users’ will grant access to registered MINDS users, and your content will not be viewable by the general internet.  ‘Contacts’ will grant access only to those MINDS users who are on your contact list.  ‘Private’ will deny access to all other users.  You may also share content with particular groups that you are a member of.  Please understand these different access levels before posting content on MINDS.
-
-### International Visitors:
-
-The MINDS Site is hosted in the United States and is intended solely for visitors located within the United States.  If you nonetheless choose to use the MINDS Site from the European Union or other regions of the world with laws governing data collection and use that may differ from U.S. law, then please note that you are transferring your personally identifiable information outside of those regions to the United States and by providing your personally identifiable information on the MINDS Site you consent to that transfer.
-
-### Changes and Updates to this Privacy Policy:
-
-This Privacy Policy may be revised periodically without further notice to you and this will be reflected by a "Last Modified" date above. If we make a material change that would enable us to use any information previously collected under this Privacy Policy in a less restrictive manner we will take reasonable steps to obtain your consent to any such new use or disclosure. Please revisit this page to stay aware of any changes. Your continued use of the MINDS Site constitutes your agreement to this Privacy Policy and any future revisions.
-
-_Last Modified: March 9 , 2013_
+Although most changes are likely to be minor, Minds may change its Privacy Policy from time to time, and in Minds’ sole discretion. Minds encourages visitors to frequently check this page for any changes to its Privacy Policy. If you have a Minds.com account, you should also check your account’s dashboard for alerts to these changes. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
