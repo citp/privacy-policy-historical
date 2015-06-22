@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the theouterhaven.net privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120115603id_/http%3A//www.theouterhaven.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theouterhaven.net privacy policy that was archived on 2015-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150622220151id_/http%3A//www.theouterhaven.net/privacy-policy-2) for the most accurate reproduction.*
 
 # Privacy Policy - The Outerhaven
 
-## **Privacy Policy**
+**Privacy Policy**
 
 The following policy outlines the types of information that we gather about you and the way that way we use and don’t use this information.
 
@@ -22,4 +22,4 @@ We may use third-party advertising companies to serve ads when you visit our Web
 
 Questions on Privacy
 
-If you have questions or concerns about the children’s privacy statement, the privacy practices of the Outerhaven Productions, or your dealings with the Outerhaven, please [contact us](http://www.theouterhaven.net/contact-us-2/).
+If you have questions or concerns about the children’s privacy statement, the privacy practices of the Outerhaven Productions, or your dealings with the Outerhaven, please [contact us](http://new.theouterhaven.net/contact-us-2/).
