@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the serialreview.tv privacy policy that was archived on 2014-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141205154147id_/http%3A//www.serialreview.tv/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the serialreview.tv privacy policy that was archived on 2015-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150622165748id_/http%3A//www.serialreview.tv/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Serial Review
+# Privacy Policy - Serial Review
 
 Serial Review cares about how your personal information is used and shared, and we take your privacy seriously. Please read the following terms to learn more about our privacy policy. By registering to and creating account at SerialReview.tv you are accepting the practices outlined in this Privacy Policy.
 
