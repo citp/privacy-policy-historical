@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the briteverify.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120122629id_/http%3A//www.briteverify.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the briteverify.com privacy policy that was archived on 2015-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150622050726id_/http%3A//www.briteverify.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -74,7 +74,7 @@ We implement a variety of security measures to maintain the safety of your perso
 
 We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers’ database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential.
 
-Any credit card information supplied will be kept on file in order to process future payments for services rendered.  Credit card information may be deleted at any time should you choose to stop using BriteVerify services by logging into your account at [ http://www.briteverify.com](http://www.google.com/url?q=http%3A%2F%2Fwww.briteverify.com%2F&sa=D&sntz=1&usg=AFQjCNFSao9XZa8qP24TexxhQzvB65aZvQ), clicking on the account link, then clicking on the edit link.
+Any credit card information supplied will be kept on file in order to process future payments for services rendered.  Credit card information may be deleted at any time should you choose to stop using BriteVerify services by sending a written request to accounts@briteverify.com.
 
 We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it.  No method of transmission over the Internet, or method of electronic storage, is 100% secure, however.  Therefore, we cannot guarantee its absolute security. If you have any questions about security on our Website, you can contact [information@briteverfy.com](mailto:information@briteverfy.com).
 
