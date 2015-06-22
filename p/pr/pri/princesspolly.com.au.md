@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the princesspolly.com.au privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120164106id_/http%3A//www.princesspolly.com/help-faq/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the princesspolly.com.au privacy policy that was archived on 2015-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150622104957id_/http%3A//www.princesspolly.com/help-faq/privacy) for the most accurate reproduction.*
 
 # Your Privacy
 
-Princess Polly E-Boutique recognises and values the protection of your personal information. We are aware of our obligations under the Privacy Act 1988 (Cth) and we will ensure that we fulfil our obligations under that Act.
+Princess Polly recognises and values the protection of your personal information. We are aware of our obligations under the Privacy Act 1988 (Cth) and we will ensure that we fulfil our obligations under that Act.
 
 We also recognise that you may have concerns about our collection of your personal information via our website, which is located at [www.princesspolly.com.au](http://www.princesspolly.com.au/) (the  **Website** ) and how we may use that information.
 
@@ -62,7 +62,7 @@ Please note that no information transmitted over the Internet can be guaranteed 
 
 **Unsubscribing from our e-mail database**
 
-To unsubscribe from our e-mail database, please send an e-mail to[eshop@princesspolly.com.au](https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=eshop@princesspolly.com.au) with “UNSUBSCRIBE” typed into the subject line of the e-mail.
+To unsubscribe from our e-mail database, please send an e-mail to [eshop@princesspolly.com.au](https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=eshop@princesspolly.com.au) with “UNSUBSCRIBE” typed into the subject line of the e-mail.
 
 **Accessing, correcting and updating your information**
 
@@ -70,4 +70,4 @@ You have the right to access the information that you provide to us.
 
 If you wish to access, modify or remove any personal information that you have provided to us, please contact our Privacy Officer at [eshop@princesspolly.com.au](https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=eshop@princesspolly.com.au).
 
-We reserve our right to modify or amend this Privacy Policy at any time. Should any significant amendments occur, notification would be provided by publication on the Website. For further information about privacy, please refer to the Australian Privacy Commissioner’s website[www.privacy.gov.au](http://www.privacy.gov.au/).
+We reserve our right to modify or amend this Privacy Policy at any time. Should any significant amendments occur, notification would be provided by publication on the Website. For further information about privacy, please refer to the Australian Privacy Commissioner’s website [www.privacy.gov.au](http://www.privacy.gov.au/).
