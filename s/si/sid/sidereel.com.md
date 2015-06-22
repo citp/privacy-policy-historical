@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sidereel.com privacy policy that was archived on 2014-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141226101412id_/http%3A//www.sidereel.com/topic/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sidereel.com privacy policy that was archived on 2015-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150622053600id_/http%3A//www.sidereel.com/topic/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | SideReel
 
@@ -137,7 +137,7 @@ Back to top
  ** _YOUR RIGHTS_**
 
 **Your European Privacy Rights**  
-If you are located in Europe, some of the data that we process may be protected by data protection laws such as, in the United Kingdom, the Data Protection Act 1998 (the "Act"). Under the Act, you have certain rights to request information about, get access to or request the amendment of any such personal data. If you wish to exercise these rights, please contact us at [privacy@sidereel.com](mailto:privacy@sidereel.com "Email Privacy"). Please see the UK Information Commissioner's Office website at: <http://www.ico.gov.uk/> for further details.
+If you are located in Europe, some of the data that we process may be protected by data protection laws such as, in the United Kingdom, the Data Protection Act 1998 (the "Act"). Under the Act, you have certain rights to request information about, get access to or request the amendment of any such personal data. If you wish to exercise these rights, please contact us at [privacy@sidereel.com](mailto:privacy@sidereel.com "Email Privacy"). Please see the UK Information Commissioner's Office website at: [https://ico.org.uk](https://ico.org.uk/) for further details.
 
 **Your California Privacy Rights**  
 If you are a resident of the State of California, we provide you in this Privacy Policy with information on how to exercise your disclosure choice options such as your right to opt-out (or "unsubscribe") of our use and sharing of your Personal Information for marketing purposes. Therefore, pursuant to the California Civil Code, we are not required to maintain or disclose a list of the third parties that received your Personal Information for marketing purposes during the preceding year. 
