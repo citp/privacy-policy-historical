@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the jointhebreed.com privacy policy that was archived on 2014-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141205145347id_/http%3A//jointhebreed.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jointhebreed.com privacy policy that was archived on 2015-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150622185353id_/http%3A//jointhebreed.com/privacy-policy) for the most accurate reproduction.*
 
 # The Breed Privacy Policy
 
-This Privacy Policy governs the manner in which Jointhebreed.com collects, uses, maintains and discloses information collected from users (each, a “User”) of the www.jointhebreed.com website (“Site”). This privacy policy applies to the Site and all products and services offered by Site.
+This Privacy Policy governs the manner in which Jointhebreed.com collects, uses, maintains and discloses information collected from users (each, a "User") of the www.jointhebreed.com website ("Site"). This privacy policy applies to the Site and all products and services offered by Site.
 
 ### Personal identification information
 
@@ -12,7 +12,7 @@ We may collect personal identification information from Users in a variety of wa
 
 We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information. Web browser cookies
 
-Our Site may use “cookies” to enhance User experience. User’s web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
+Our Site may use "cookies" to enhance User experience. User's web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
 
 ### How we use collected information
 
@@ -33,7 +33,7 @@ Sensitive and private data exchange between the Site and its Users happens over 
 
 ### Third party websites
 
-Users may find advertising or other content on our Site that link to the sites and services of our partners, suppliers, advertisers, sponsors, licensors and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that website’s own terms and policies.
+Users may find advertising or other content on our Site that link to the sites and services of our partners, suppliers, advertisers, sponsors, licensors and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that website's own terms and policies.
 
 ### Advertising
 
