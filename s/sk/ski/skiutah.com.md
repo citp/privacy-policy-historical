@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the skiutah.com privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217201155id_/http%3A//www.skiutah.com/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skiutah.com privacy policy that was archived on 2015-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150622062309id_/https%3A//www.skiutah.com/Privacy-Policy) for the most accurate reproduction.*
 
 # Ski Utah - Privacy Policy
 
