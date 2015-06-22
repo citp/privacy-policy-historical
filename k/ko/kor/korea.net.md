@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the korea.net privacy policy that was archived on 2014-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141026091724id_/http%3A//www.korea.net/Others/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the korea.net privacy policy that was archived on 2015-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150622093554id_/http%3A//www.korea.net/Others/Privacy-Policy) for the most accurate reproduction.*
 
 # Korea.net : The official website of the Republic of Korea
 
