@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the slideteam.net privacy policy that was archived on 2014-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141126134431id_/http%3A//www.slideteam.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the slideteam.net privacy policy that was archived on 2015-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150622093254id_/http%3A//www.slideteam.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -24,6 +24,22 @@ The security of your personal information is important to us. All our Credit Car
 We may update this privacy statement to reflect changes to our information practices. We encourage visitors to and users of our site to regularly review our Privacy Policy. You can contact us about this privacy statement by writing or email us at support@slideteam.net
 
 
+
+
+
+
+## Our Addresses
+
+  * New York Office
+
+1350, Avenue of the Americas,  
+New York , 10019  
+Ph: 212-901-8618
+
+India Office
+
+170 Sector 6, Panchkula,  
+Haryana
 
 
 
