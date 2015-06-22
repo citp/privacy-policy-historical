@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jabongworld.com privacy policy that was archived on 2014-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141118182831id_/http%3A//www.jabongworld.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jabongworld.com privacy policy that was archived on 2015-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150622135050id_/http%3A//www.jabongworld.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
