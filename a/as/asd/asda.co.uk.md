@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the asda.co.uk privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217033505id_/http%3A//www.asda.com/help/privacy-policy.html%3Fitem%3Dbnf1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asda.co.uk privacy policy that was archived on 2015-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150622130430id_/http%3A//www.asda.com/help/privacy-policy.html%3Fitem%3Dbnf1) for the most accurate reproduction.*
 
-# ASDA.com - Privacy Policy
+# Privacy Policy | Asda
 
 ## **Our Privacy Mission Statement:**
 
@@ -13,8 +13,6 @@ Your privacy is really important to us, and we understand how important it is to
 This Privacy Policy regulates the use by ASDA and its partner companies of the information you provide when using ASDA websites. 
 
 This ASDA website is run by the ASDA group of companies and its partners (" **we** ", " **us** ", " **our** ") 
-
-We run this site in order to promote products and services and, where these are provided by our partners, to be the link between our customers and our partners. Our partners may have their own privacy policies which you should also look at. 
 
 We run this site in order to promote products and services and, where these are provided by our partners, to be the link between our customers and our partners. Our partners may have their own privacy policies which you should also look at. 
 
@@ -43,6 +41,9 @@ To be able to order from us we have to collect certain information from you. As 
 **Third party information** \- if you give us information about another person, (for example if someone else is taking delivery for you or is included in the purchase of a product) you confirm that you have identified ASDA to them and told them what we will use their information for, as set out in this Privacy Policy and that they have given permission for us to be able to use their personal information in the manner described. 
 
 **IP addresses** \- when you visit our site, we will automatically receive your IP address, a unique identifier for your computer or other access device. 
+
+**ASDA Money** \- We work with third parties to provide you with our ASDA Money products and services. These parties, our partners, help us by running our various ASDA Money websites and collecting your information to be able to provide you with quotes, information, and with the products and services you purchase.   
+Where you submit information on an ASDA Money website, our partners will collect this information and use it to provide you with the information requested, such as your quote, and then if you purchase a product or service our partner will use that information to administer that product or service for you. Their privacy policy will apply to their use of your information, and you will be able to able to find it on their website or in the product information. Our partner will also provide your information to us and we will use your information in accordance with this privacy policy, and where you have consented will use this information as set out below in the marketing section. 
 
 You may also provide us with personal information if you contact customer services, if you enter promotions or competitions run by us or if you get in touch with us in some other way, for example by way of an email facility provided on the website. 
 
@@ -168,7 +169,7 @@ If we decide to change our Privacy Policy, we will post these changes on this we
 
 ## **Feedback**
 
-We want to make sure we're giving you the information about privacy and security that you want - let us know what you think. If you have any feedback, questions or concerns, please [contact us.](https://asda.custhelp.com/app/helphome). 
+We want to make sure we're giving you the information about privacy and security that you want - let us know what you think. If you have any feedback, questions or concerns, please email us at [dataprotection@asda.co.uk](mailto:dataprotection@asda.co.uk). 
 
 ## **ASDA group of companies:**
 
@@ -179,7 +180,9 @@ Great Wilson Street
 Leeds   
 LS11 5AD   
 Registered in England & Wales, company No. 00464777   
-ICO registration no: Z7545987 
+ICO registration no: Z7545987   
+FCA No. 407914   
+VAT No. GB 362 0127 92 
 
 **Asda Financial Services Limited**   
 Asda House Southbank   
@@ -188,4 +191,5 @@ Leeds
 West Yorkshire   
 LS11 5AD   
 Registered in England & Wales, company No. 04562707   
-ICO registration no: Z1392501 
+ICO registration no: Z1392501   
+FCA No. 230174 
