@@ -1,15 +1,13 @@
-> *The following text is extracted and transformed from the topg.org privacy policy that was archived on 2014-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141226104140id_/http%3A//topg.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the topg.org privacy policy that was archived on 2015-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150622114707id_/http%3A//topg.org/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - TOPG
-
-LIMITED PROMOTION: Get XMas Special 25% discount to all Ads and **Premium 360 for only 179$**. Promotion available until 27 Dec 2014. Happy Holidays! 
+# Privacy Policy
 
 This portal, website, is operated by **S.C. SPREADBEYOND S.R.L.** (CUI 33082112), company located on street Aurel Vlaicu 66, Iași, România and registered as _Operator of personal data_ no: 32985 at ANSPDCP. ([ See online notification](https://web.archive.org/dataprotection)) 
 
 **What information do we collect?**
 
 We collect information from you when you register on our site, place an order or when you vote for a listed site or server.  
-When ordering or registering on our site, as appropriate, you may be asked to enter your: e-mail address. You may, however, visit our site anonymously. For European costumers that represent a company we also require a valid Business name, country and a VAT number before placing an order. When voting for a listed site or server we may collect your entered game user and IP address to prevent double-voting and also to validate your vote. 
+When registering on our site, as appropriate, you will be asked to enter your: e-mail address. You may, however, visit our site anonymously. When placing an order we will require your name and address. For European costumers that represent a company we may also require a valid Business name, Registration number and VAT before placing an order. When voting for a listed site or server we may collect your entered game user and IP address to prevent double-voting and also to validate your vote. 
 
 **What do we use your information for?**
 
@@ -57,6 +55,5 @@ This online privacy policy applies only to information collected through our web
 By using and accessing topg.org website, you consent to our privacy policy.
 
 Our privacy policy may change from time to time. If we make any material changes to our policies, we will place a prominent notice on our website or application. If the change materially affects registered users, we will send a notice to you by email, notification or text.   
-If you have any questions or concerns about our privacy policies, please [ __Contact Us](https://web.archive.org/contact)
-
+If you have any questions or concerns about our privacy policies, please [ __Contact Us](https://web.archive.org/contact)  
 Last updated on Aug 13, 2014
