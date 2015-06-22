@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 18andabused.com privacy policy that was archived on 2014-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141226101759id_/http%3A//www.18andabused.com/legal.php%3Fpg%3Dprivacy%26l%3D19396%26t%3D13064%26v%3Ddesktop%26lg%3Dus) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 18andabused.com privacy policy that was archived on 2015-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150622052733id_/http%3A//www.18andabused.com/legal.php%3Fpg%3Dprivacy%26l%3D19396%26t%3D13064%26v%3Ddesktop%26lg%3Dus) for the most accurate reproduction.*
 
 # LEGAL
 
