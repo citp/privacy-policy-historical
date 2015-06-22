@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the timothyoulton.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122161517id_/http%3A//www.timothyoulton.com/usa/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the timothyoulton.com privacy policy that was archived on 2015-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150622091429id_/http%3A//www.timothyoulton.com/privacy-policy) for the most accurate reproduction.*
 
-# Timothy Oulton || Privacy Policy
+# Privacy Policy | Timothy Oulton
 
 **Website Privacy and Cookie Policy  **
 
-Halo Creative & Design Limited, together with its subsidiaries and affiliates (“ **Halo** ”) and our brands, which include but are not limited to Timothy Oulton and Michael Yeung (“ **We** ”), value our customers and we are committed to protecting and respecting your privacy.  The purpose of this privacy and cookie policy (together with our [terms and conditions of use](http://www.timothyoulton.com/usa/en/to/terms-and-conditions/ "Terms and Conditions")) is to inform you what personal data we may collect from you, or that is provided to us, how we use such information, and the choices you have regarding our use of, and your ability to review and correct the information.
+Halo Creative & Design Limited, together with its subsidiaries and affiliates (“ **Halo** ”) and our brands, which include but are not limited to Timothy Oulton and Michael Yeung (“ **We** ”), value our customers and we are committed to protecting and respecting your privacy.  The purpose of this privacy and cookie policy (together with our [terms and conditions of use](http://www.timothyoulton.com/terms-and-conditions/ "Terms and Conditions")) is to inform you what personal data we may collect from you, or that is provided to us, how we use such information, and the choices you have regarding our use of, and your ability to review and correct the information.
 
 Halo is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy policy.
 
@@ -25,8 +25,8 @@ We may collect the following information:
 
 
 
-\- Technical information, including the Internet protocol (“IP”) address used to connect your computer to the Internet, your login information, browser type and version, time zone setting, browser plug-in types and versions, operating system and platform;  
-\- Information about your visit, including the full Uniform Resource Locators (“URL”) clickstream to, through and from our site (including date and time); products you viewed or searched for; page response times, download errors, length of visits to certain pages, page interaction information (such as scrolling, clicks, and mouse-overs), and methods used to browse away from the page and any phone number used to call our customer service number.
+– Technical information, including the Internet protocol (“IP”) address used to connect your computer to the Internet, your login information, browser type and version, time zone setting, browser plug-in types and versions, operating system and platform;  
+– Information about your visit, including the full Uniform Resource Locators (“URL”) clickstream to, through and from our site (including date and time); products you viewed or searched for; page response times, download errors, length of visits to certain pages, page interaction information (such as scrolling, clicks, and mouse-overs), and methods used to browse away from the page and any phone number used to call our customer service number.
 
   * **Information we receive from other sources** : We may receive information about you if you use any of the other websites we operate or the other services we provide. In this case we will have informed you when we collected that data that it may be shared internally and combined with data collected on this site. We are also working closely with third parties (including, for example, business partners, sub-contractors in technical, payment and delivery services, advertising networks, analytics providers, search information providers, credit reference agencies) and may receive information about you from them.
 
@@ -39,7 +39,7 @@ You may choose to restrict the collection or use of your personal information in
 
 
 
-We may share your personal information with companies within the Halo group for administrative and/or marketing purposes. We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. If we are under a duty to disclose or share your personal information in order to comply with any legal obligation, or in order to enforce or apply our [terms and conditions of use](http://www.timothyoulton.com/usa/en/to/terms-and-conditions/ "Terms and Conditions") and other agreements; or to protect the rights, property, or safety of Halo or any of its group companies, our customers, or others. This includes exchanging information with other companies and organizations for the purposes of fraud protection and credit risk reduction.
+We may share your personal information with companies within the Halo group for administrative and/or marketing purposes. We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. If we are under a duty to disclose or share your personal information in order to comply with any legal obligation, or in order to enforce or apply our [terms and conditions of use](http://www.timothyoulton.com/terms-and-conditions/ "Terms and Conditions") and other agreements; or to protect the rights, property, or safety of Halo or any of its group companies, our customers, or others. This includes exchanging information with other companies and organizations for the purposes of fraud protection and credit risk reduction.
 
 We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
 
