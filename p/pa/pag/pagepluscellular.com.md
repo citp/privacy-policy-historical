@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pagepluscellular.com privacy policy that was archived on 2014-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141006170129id_/https%3A//www.pagepluscellular.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pagepluscellular.com privacy policy that was archived on 2015-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150622120357id_/https%3A//www.pagepluscellular.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Page Plus Cellular
 
