@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the niftylivecharts.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120155437id_/http%3A//www.niftylivecharts.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the niftylivecharts.com privacy policy that was archived on 2015-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150622072759id_/http%3A//www.niftylivecharts.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - niftyLiveCharts.com
 
@@ -30,5 +30,5 @@ Please keep in mind that whenever you voluntarily disclose personal information 
 Ultimately, you are solely responsible for maintaining the secrecy of your passwords and/or any account or personal information. Please be careful and responsible whenever you’re online.
 
 By Accessing this site you agree to our Terms & conditions and Disclaimer Copyright © 2008 - 2015 NiftyLivecharts.com    
-[Cancellation/Refund](https://web.archive.org/web/20141120155437id_/http%3A//www.niftylivecharts.com/Cancellation-and-Refund.php) |  [Privacy Policy](https://web.archive.org/web/20141120155437id_/http%3A//www.niftylivecharts.com/privacy-policy.php) | [Terms &](https://web.archive.org/web/20141120155437id_/http%3A//www.niftylivecharts.com/terms-and-conditions.php)[ condition](https://web.archive.org/web/20141120155437id_/http%3A//www.niftylivecharts.com/terms-and-conditions.php) | [Disclaimer](https://web.archive.org/web/20141120155437id_/http%3A//www.niftylivecharts.com/disclaimer.php)  
+[Cancellation/Refund](https://web.archive.org/web/20150622072759id_/http%3A//www.niftylivecharts.com/Cancellation-and-Refund.php) |  [Privacy Policy](https://web.archive.org/web/20150622072759id_/http%3A//www.niftylivecharts.com/privacy-policy.php) | [Terms &](https://web.archive.org/web/20150622072759id_/http%3A//www.niftylivecharts.com/terms-and-conditions.php)[ condition](https://web.archive.org/web/20150622072759id_/http%3A//www.niftylivecharts.com/terms-and-conditions.php) | [Disclaimer](https://web.archive.org/web/20150622072759id_/http%3A//www.niftylivecharts.com/disclaimer.php)  
 Office Address : RG MALL Sector 9 Rohini New Delhi 110085
