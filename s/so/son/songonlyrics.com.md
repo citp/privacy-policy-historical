@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the songonlyrics.com privacy policy that was archived on 2014-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141010155540id_/http%3A//www.songonlyrics.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the songonlyrics.com privacy policy that was archived on 2015-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150622234836id_/http%3A//lyrics.songonlyrics.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
