@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the y-axis.com privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217082235id_/http%3A//www.y-axis.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the y-axis.com privacy policy that was archived on 2015-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150622092119id_/https%3A//www.y-axis.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy |
+# Privacy Policy -
 
 Y-Axis Overseas Careers recognize the importance of preserving complete confidentiality. Any personal information and/or business proprietary material that you might disclose to us is treated with strict confidence.
 
@@ -18,4 +18,4 @@ The Site provides links to web sites and access to content, products and service
 
 Our Privacy Policy and the Terms and Conditions may change from time to time. Clients should check our Web site frequently to see any recent changes. Our current Privacy Policy applies to all information that we have about you and your account, unless stated otherwise.
 
-For further details, please [ **Contact Us**](http://www.y-axis.com/contactus/) ** ** or you can e-mail us on [ **consult@y-axis.com**](mailto:consult@y-axis.com). One of our representatives will get back to you at the earliest.
+For further details, please [ **Talk to an expert**](https://www.y-axis.com/contactus/) ** ** or you can e-mail us on [ **Info@y-axis.com**](mailto:info@y-axis.com). One of our representatives will get back to you at the earliest.
