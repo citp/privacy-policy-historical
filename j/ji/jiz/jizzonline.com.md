@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jizzonline.com privacy policy that was archived on 2014-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140705221801id_/http%3A//www.jizzonline.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jizzonline.com privacy policy that was archived on 2015-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150622235904id_/http%3A//www.jizzonline.com/privacy.php) for the most accurate reproduction.*
 
 # The YouJizz Privacy Page
 
