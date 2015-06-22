@@ -1,0 +1,89 @@
+> *The following text is extracted and transformed from the goodgamestudios.com privacy policy that was archived on 2015-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150622154501id_/http%3A//www.goodgamestudios.com/privacy-policy) for the most accurate reproduction.*
+
+# Privacy Policy | Goodgame Studios
+
+Altigi GmbH – Goodgame Studios, Theodorstr. 42-90, 22761 Hamburg, and other companies of the Goodgame Studios Group ("Goodgame Studios"), take the protection of your personal information very seriously. The following privacy policy will provide you with information about the personal information that is collected and how it is processed and used.
+
+**1** | **Subject Matter of this Privacy Policy**  
+| 
+
+This Privacy Policy applies to all services offered on Goodgame Studios internet sites, in particular the Goodgame Studios portal at "www.goodgamestudios.com" and the individual online game sites.
+
+Unless stated otherwise, this Privacy Policy exclusively regulates how Goodgame Studios treats your personal information. In case you make use of services provided by third parties, the Privacy Policy conditions of these third parties apply exclusively. Goodgame Studios does not revise Privacy Policy conditions of third parties.  
+  
+**2** | **Responsible Contact**  
+| 
+
+Responsible contact according to the Federal Data Protection Act is Altigi GmbH – Goodgame Studios, Theodorstr. 42-90, 22761 Hamburg.
+
+In case you have any questions concerning privacy policy matters, please contact privacy@goodgamestudios.com. At this address, you can inquire about privacy issues, review, change or delete your personal information stored by Goodgame Studios. Alternatively, you can also contact us using the above postal address. Please – if possible – include the online or mobile game that you have played, the server and your player name.  
+  
+**3** | **Collection of Information**  
+| 
+
+Generally, you can access our internet offering without disclosing any personal information to us. It is always your choice whether or not to provide us with your personal information. We collect your information to be able to fulfill the user requirement. In addition to monitoring compliance with the terms and rules this includes in particular the proper handling of your payment arrangements.
+
+If you would like to register on our internet sites, participate in sweepstakes or subscribe to our newsletter it is necessary to provide personal information. This information includes, for example, your name, address, e-mail address and other personal information which Goodgame Studios may query in individual cases. In many cases it is possible to use Goodgame Studios’ services by using pseudonyms. Users are encouraged to make use of this feature.
+
+In addition, information such as the IP address, browser version and access times is automatically sent to us by your computer or mobile device and stored on our server. Information relating to kind of the mobile device and operating system being used is collected at the same time. Except for the purpose of prosecuting unauthorized use of our website, we only use this information to conduct statistical and performance analysis. Where possible, the information is anonymized. We reserve the right to carry out personalized campaigns using personal information which you have authorized to be shared by social networks with third parties. In this context we refer to the privacy policies of the social networks in question.
+
+In order to make the visit to our internet sites as pleasant as possible, we use, like many other companies, so-called cookies. After your visit to our website, these cookies are usually automatically deleted from your hard drive. Your Internet browser can be set to reject cookies generally. This can lead, for technical reasons, to restricted functioning of our Internet offerings.
+
+We gather, process and use personal information – unless already permitted by statutes – only with your consent. If this consent is made in an electronic manner in the context of our online offerings, we shall fulfill the legal requirements to inform you about it.
+
+We do not knowingly collect or solicit personal information from anyone under the age of 13 or knowingly allow such persons to use our Service. If you are under 13, please do not send any information about yourself to us, including your name, address, telephone number, or email address. No one under the age of 13 may provide any personal information. In the event that we learn that we have collected personal information from a child under age 13, we will delete that information as quickly as possible.  
+  
+**4** | **Google Analytics**  
+| 
+
+This website uses Google Analytics, a web analytics service provided by Google, Inc. (“Google”). Google Analytics uses “cookies”, which are text files placed on your computer, to help the website analyze how users use the site. The information generated by the cookie about your use of the website (including your IP address) will be transmitted to and stored by Google on servers in the United States. If, however, you activate the Anonymize IP option on this website, Google will remove the end of your IP address so it only locates you as within the member states of the European Union or other members of the European Economic Area. Only in rare cases will the complete IP address be transmitted to a Google server in the USA and then shortened there. Google will use this information for the purpose of evaluating your use of the website, compiling reports on website activity for website operators and providing other services relating to website activity and internet usage. Google will not associate your IP address as transmitted by Google Analytics with any other data held by Google. You may refuse the use of cookies by selecting the appropriate settings on your browser, however please note that if you do this you may not be able to use the full functionality of this website. Furthermore, you can prohibit Google from collecting and analysing the data generated by the cookie about your use of the website (including your IP address) by clicking here or by downloading and installing the browser plugin available here <http://tools.google.com/dlpage/gaoptout?hl=en>.  
+  
+5 | Facebook Conversion Tracking Pixel  
+| 
+
+With your permission, our website utilizes the “conversion tracking pixel” of Facebook Inc., 1601 S. California Ave., Palo Alto, CA 94304, USA (“Facebook”). This tool allows us to follow the actions of users after they are redirected to a provider’s website by clicking on a Facebook advertisement. We are thus able to record the efficacy of Facebook advertisements for statistical and market research purposes. The collected data are anonymous. This means that we cannot see the personal data of any individual user. However, the collected data are saved and processed by Facebook. We are informing you on this matter according to our information at this time. Facebook is able to connect the data with your Facebook account and use them for their own advertising purposes, in accordance with Facebook’s Data Use Policy found at: <https://www.facebook.com/about/privacy/>. Facebook conversion tracking also allows Facebook and its partners to show you advertisements on and outside Facebook. In addition, a cookie will be saved onto your computer for these purposes.
+
+Only users over 13 years of age may give their permission. If you are younger than this age, please consult your legal guardians.
+
+Please click here if you would like to revoke your permission: <https://www.facebook.com/ads/website_custom_audiences/>.  
+  
+**6** | **Use of your personal information**  
+| 
+
+We use your personal data in order to constantly improve our range of services and to satisfy users’ needs.
+
+Goodgame Studios uses your personal information for the establishment, processing and settlement of your user relationship with Goodgame Studios and the processing of payments.
+
+Furthermore, we use your information in order to communicate with you. This includes that we, as the case may be, inform you about novelties of our services via e-mail. We use your personal information in order to inform you about products, services or certain events which could be of interest to you on a regular basis. Each message contains the text “In order to stop receiving emails for this game account in the future, please click here”. After clicking on “here”, you will no longer receive messages regarding this game account.
+
+Finally, we use your information in order to protect our web pages and to trace unauthorized accesses.  
+  
+**7** | **Transmission of personal information**  
+| 
+
+As a matter of course, your data will not be sold to third parties. Goodgame Studios exclusively transmits your personal data to the following extent:   
+We work together with payment providers (e.g. credit card companies, banks, PayPal, mobile services, debt collection agencies, etc.) providers that create and compile statistical data, IT service providers (e.g. data centers, hosts, backup services, database services).
+
+These service providers only have access to your data to the extent which is necessary for the completion of their tasks. These service providers are obliged to treat you data according to this privacy policy and the relevant data protection statutes.
+
+In the case that Goodgame Studios, companies controlled by Goodgame Studios, particular affiliated companies or shares of the company are sold, your customer information will generally be passed on with the transmitted part of the company. Of course, in this case your data is also subject to this privacy policy and the relevant data protection statutes.  
+  
+**8** | **Deletion of data**  
+| 
+
+If your data is no longer necessary for the above-mentioned purposes including the settlement, for tax purposes or other legal reasons it will be deleted.  
+  
+**9** | **Security of your personal information**  
+| 
+
+We process the data collected from you according to the German Data Protection Act. All employees are obliged and have been advised to maintain data confidentiality and privacy obligations.
+
+When submitting payments the transfer of your information is protected by SSL encryption technology. Our SSL transfer is GoDaddy certified.  
+  
+Goodgame Studios is a branch of  
+Altigi GmbH  
+privacy@goodgamestudios.com  
++49 40 851 924 90  
+Theodorstr. 42-90  
+22761 Hamburg  
+Germany
