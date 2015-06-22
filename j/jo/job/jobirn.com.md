@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the jobirn.com privacy policy that was archived on 2014-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141202073544id_/http%3A//www.jobs2careers.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobirn.com privacy policy that was archived on 2015-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150622062411id_/http%3A//www.jobs2careers.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy | Jobs2Careers
-
-## Privacy Policy
 
 Last update on: August 30th, 2014
 
@@ -105,4 +103,9 @@ To stop receiving job alerts and marketing offers from Jobs2Careers.com, click [
 
 #### Contact Us
 
-If you have any questions or concerns about this Privacy Policy, please contact us at [privacy@jobs2careers.com](mailto:privacy@jobs2careers.com). or by mail to: InsidersReferral.com, Inc. 9606 N Mopac Expressway Suite 100 Austin, TX 78759. By phone: (512) 717-0630 
+If you have any questions or concerns about this Privacy Policy, please contact us at [privacy@jobs2careers.com](mailto:privacy@jobs2careers.com). or by mail to: InsidersReferral.com, Inc. 6433 Champion Grandview Way, Bldg 2, Suite 100, Austin, TX 78750. By phone: (512) 717-0630 
+
+Registration skipped. Redirecting to jobs... 
+
+**Please confirm your registration in Email.**  
+Remember to check your junk box. 
