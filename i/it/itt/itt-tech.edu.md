@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the itt-tech.edu privacy policy that was archived on 2014-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141102221349id_/http%3A//itt-tech.edu/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itt-tech.edu privacy policy that was archived on 2015-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150622071722id_/http%3A//www.itt-tech.edu/privacy.cfm) for the most accurate reproduction.*
 
 # ITT Tech: Privacy Policy
 
