@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pagetraffic.in privacy policy that was archived on 2014-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141204194549id_/http%3A//www.pagetraffic.in/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pagetraffic.in privacy policy that was archived on 2015-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150622020505id_/http%3A//www.pagetraffic.in/privacy-policy.php) for the most accurate reproduction.*
 
 # PageTraffic Privacy Policy - Search Engine Optimization & Web Promotion
 
