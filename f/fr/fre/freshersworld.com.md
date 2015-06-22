@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freshersworld.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230060011id_/http%3A//www.freshersworld.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freshersworld.com privacy policy that was archived on 2015-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150622160407id_/http%3A//www.freshersworld.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -47,7 +47,7 @@ FW does not rent, sell, or share personal information about you with other peopl
 
 Acceptance of Terms / Changes to Privacy Policy : Your use of this site indicates an acceptance of the terms of the Privacy Policy. FW reserves the right to update or amend this Privacy Policy at any time.
 
-We have contracted with ValueClick to monitor certain pages of our website for the purpose of reporting website traffic, statistics, advertisement 'click-throughs', and/or other activities on our website. Where authorized by us, ValueClick may use cookies, web beacons, and/or other monitoring technologies to compile anonymous statistics about our website visitors. No personally identifiable information is collected by or transferred to any party other than the Advertiser. For more information about how the information is collected and used by ValueClick, please see ValueClick's privacy policy at http://media.valueclick.com/privacy_consumer.shtml.
+We have contracted with ValueClick to monitor certain pages of our website for the purpose of reporting website traffic, statistics, advertisement 'click-throughs', and/or other activities on our website. Where authorized by us, ValueClick may use cookies, web beacons, and/or other monitoring technologies to compile anonymous statistics about our website visitors. No personally identifiable information is collected by or transferred to any party other than the Advertiser. For more information about how the information is collected and used by ValueClick, please see ValueClick's privacy policy [here](http://media.valueclick.com/privacy_consumer.shtml).
 
 **Contact Us**
 
