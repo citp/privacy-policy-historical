@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the organizeit.com privacy policy that was archived on 2014-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141204182130id_/http%3A//www.organizeit.com/privacy-and-security.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the organizeit.com privacy policy that was archived on 2015-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150622203928id_/http%3A//www.organizeit.com/privacy-and-security.asp) for the most accurate reproduction.*
 
 # Privacy and Security
 
