@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the connectandsell.com privacy policy that was archived on 2014-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141208073334id_/http%3A//connectandsell.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the connectandsell.com privacy policy that was archived on 2015-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150622153552id_/http%3A//connectandsell.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Sales Acceleration | Phone Dialer Software | Inside Sales Automation
 
