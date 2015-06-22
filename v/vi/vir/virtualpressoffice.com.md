@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the virtualpressoffice.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702070731id_/http%3A//www.virtualpressoffice.com/index.do%3FfooterLink%3Dprivacypolicy%26pageTitle%3DPrivacy%2520Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the virtualpressoffice.com privacy policy that was archived on 2015-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150622040429id_/http%3A//www.virtualpressoffice.com/index.do%3FfooterLink%3Dprivacypolicy%26pageTitle%3DPrivacy%2520Policy) for the most accurate reproduction.*
 
 # Virtual Press Office - Privacy Policy
 
