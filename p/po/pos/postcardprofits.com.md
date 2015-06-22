@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the postcardprofits.com privacy policy that was archived on 2014-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141105190310id_/http%3A//postcardprofits.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the postcardprofits.com privacy policy that was archived on 2015-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150622131243id_/http%3A//postcardprofits.com/privacy) for the most accurate reproduction.*
 
 # Postcard Profits Privacy Policy
 
