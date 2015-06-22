@@ -1,6 +1,20 @@
-> *The following text is extracted and transformed from the medstarhealth.org privacy policy that was archived on 2013-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131012143904id_/http%3A//www.medstarhealth.org/body.cfm%3Fid%3D385) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the medstarhealth.org privacy policy that was archived on 2015-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150622105902id_/http%3A//www.medstarhealth.org/mhs/privacy-policy) for the most accurate reproduction.*
 
-# MedStar Health Notice of Privacy Practices
+# Privacy Policy - MedStar Health System
+
+Our Notice of Privacy Practices is available in the following languages:
+
+  * [Amharic](http://ct1.medstarhealth.org/content/uploads/sites/16/2015/02/nopp_amharic.pdf)
+  * [Arabic](http://ct1.medstarhealth.org/content/uploads/sites/16/2015/02/nopp_arabic.pdf)
+  * [Chinese](http://ct1.medstarhealth.org/content/uploads/sites/16/2015/02/nopp_chinese.pdf)
+  * [Korean](http://ct1.medstarhealth.org/content/uploads/sites/16/2015/02/nopp_korean.pdf)
+  * [Russian](http://ct1.medstarhealth.org/content/uploads/sites/16/2015/02/nopp_russian.pdf)
+  * [Spanish](http://ct1.medstarhealth.org/content/uploads/sites/16/2015/02/nopp_spanish.pdf)
+  * [Vietnamese](http://ct1.medstarhealth.org/content/uploads/sites/16/2015/02/nopp_vietnamese.pdf)
+
+
+
+Download [Adobe Reader](http://get.adobe.com/reader/)
 
 _Effective date: October 1, 2009  
 Date Amended: September 23, 2013 _
@@ -9,7 +23,7 @@ This notice describes how medical information about you may be used and disclose
 
 Please review it carefully.
 
-#### WHO WILL FOLLOW THIS NOTICE
+#### Who Will Follow This Notice
 
 MedStar Health, Inc. and its affiliated entities and subsidiaries are separate legal entities. However, they are under common ownership and control, and thus have organized themselves as a single **Affiliated Covered Entity** ( **ACE** ) for the purposes of the HIPAA Privacy Rule. This status permits MedStar Health, its affiliated entities, and subsidiaries to maintain a single _Notice of Privacy Practices._ This notice describes the health information practices of the MedStar Health Inc, organization. All entities, sites and locations will follow the terms of this notice. In addition, these entities, sites and locations may share medical information with each other for treatment, payment and healthcare operations as described in this notice.
 
@@ -21,7 +35,7 @@ We collect information from you and use it to provide you with quality care, and
 
 This Notice covers the following sites and people: all health care professionals authorized to enter information into your chart, all volunteers authorized to help you while you are here, all of our associates and on- site contractors, all departments and units within the hospital, all health care students, all health care delivery facilities and providers within the MedStar Health system, and your personal doctor and others while they are providing care at this site. Your doctor may have different policies or notices about the health information that was created in his or her private office or clinic
 
-### HOW WE MAY USE AND DISCLOSE HEALTH INFORMATION
+#### How We May Use and Disclose Health Information
 
 **Treatment** : We may use and disclose your health information to provide treatment or services, to coordinate or manage your health care, or for medical consultations or referrals. We may use and disclose your health information among doctors, nurses, technicians, medical students and other personnel who are involved in taking care of you at our facilities or with such persons outside our facilities. We may use or share information about you to coordinate the different services you need, such as prescriptions, lab work and x-rays. We may disclose information about you to people outside our facility who may be involved in your care after you leave, such as family members, home health agencies, therapists, nursing homes, clergy, and others. We may give information to your health plan or another provider to arrange a referral or consultation.
 
@@ -107,17 +121,13 @@ top of page
 
 top of page
 
-### YOUR PRIVACY RIGHTS REGARDING YOUR HEALTH INFORMATION
+#### Your Privacy Rights Regarding Your Health Information
 
-#### Right to Obtain a Copy of This Notice of Privacy Practices
-
-We will post a copy of our current Notice in our facilities and on our website, www.medstarhealth.org. A copy of our current Notice will be available at our registration areas or upon request. To request a copy of our current Notice of Privacy Practices, please call 1-877-811-3411 (toll free).
+**Right to Obtain a Copy of This Notice of Privacy Practices** : We will post a copy of our current Notice in our facilities and on our website, www.medstarhealth.org. A copy of our current Notice will be available at our registration areas or upon request. To request a copy of our current Notice of Privacy Practices, please call 1-877-811-3411 (toll free).
 
 top of page
 
-#### Right to See and Copy Your Health Record
-
-You have the right to look at and receive a copy of your health record or your billing record. To do so, please contact the facility where you received treatment, or the Privacy Office listed below. You may be required to make your request in writing. You may request an electronic copy of this information, and we will provide access in the electronic form and format requested if it is readily reproducible in the requested format. If not, we will discuss the issue with you and provide a copy in a readable electronic form and format upon which we mutually agree, depending on the information and our capabilities at the time of the request. You may also request that we send your health information directly to a person you designate if your written request is signed, in writing and clearly identifies both the person designated and an address to send the requested information.
+**Right to See and Copy Your Health Record** : You have the right to look at and receive a copy of your health record or your billing record. To do so, please contact the facility where you received treatment, or the Privacy Office listed below. You may be required to make your request in writing. You may request an electronic copy of this information, and we will provide access in the electronic form and format requested if it is readily reproducible in the requested format. If not, we will discuss the issue with you and provide a copy in a readable electronic form and format upon which we mutually agree, depending on the information and our capabilities at the time of the request. You may also request that we send your health information directly to a person you designate if your written request is signed, in writing and clearly identifies both the person designated and an address to send the requested information.
 
 If you would like a copy of your health record, a fee may be charged for the cost of copying or mailing your record (and the electronic media if the request is to provide the information on portable electronic media), as permitted by law.
 
@@ -125,43 +135,31 @@ We will provide a copy of your health record usually within 30 days. In certain 
 
 top of page
 
-#### Right to Update Your Health Record
-
-If you believe that a piece of important information is missing from your health record, you have the right to request that we add an amendment to your record. Your request must be in writing, and it must contain the reason for your request. To submit your request, please contact the facility where you received treatment, or the Privacy Office listed below. We will make every effort to fulfill your request usually within 60 days. We may deny your request to amend your record if the information being amended was not created by us, if we believe that the information is already accurate and complete, or if the information is not contained in records that you would be permitted by law to see and copy. If we deny your request, you will be notified in writing usually within 60 days. Even if we accept your amendment, we will not delete any information already in your records.
+**Right to Update Your Health Record** : If you believe that a piece of important information is missing from your health record, you have the right to request that we add an amendment to your record. Your request must be in writing, and it must contain the reason for your request. To submit your request, please contact the facility where you received treatment, or the Privacy Office listed below. We will make every effort to fulfill your request usually within 60 days. We may deny your request to amend your record if the information being amended was not created by us, if we believe that the information is already accurate and complete, or if the information is not contained in records that you would be permitted by law to see and copy. If we deny your request, you will be notified in writing usually within 60 days. Even if we accept your amendment, we will not delete any information already in your records.
 
 top of page
 
-#### Right to Get a List of the Disclosures We Have Made
-
-You have the right to request a list of the disclosures that we have made of your health information. This list is not required to include disclosures made for treatment, payment, and health care operations, and certain other disclosure exceptions. Your request must be in writing and indicate in what form you want the list (for example, on paper, electronically). To request a list of disclosures, please contact the facility where you received treatment, or the Privacy Office listed below. The first list you request in a 12-month period is free. For additional lists, we may charge a fee, as permitted by law.
+**Right to Get a List of the Disclosures We Have Made** : You have the right to request a list of the disclosures that we have made of your health information. This list is not required to include disclosures made for treatment, payment, and health care operations, and certain other disclosure exceptions. Your request must be in writing and indicate in what form you want the list (for example, on paper, electronically). To request a list of disclosures, please contact the facility where you received treatment, or the Privacy Office listed below. The first list you request in a 12-month period is free. For additional lists, we may charge a fee, as permitted by law.
 
 top of page
 
-#### Right to Request a Restriction on Certain Uses or Disclosures
-
-You have a right to request a restriction on how we use and disclose your medical information for treatment, payment and health care operations, and to certain family members or friends identified by you who are involved in your care or the payment of your care. We are not required to agree to your request, and will notify you if we are unable to agree. Your request must be in writing and it must (1) describe what information you want to limit, (2) whether you want to limit our use, disclosure or both, and (3) to whom you want the limits to apply. In some instances, you may choose to pay for a healthcare item or service out of pocket rather than submit a claim to your insurance company. You may request that we not submit your medical information to a health plan or your insurance company, if you, or someone on your behalf, pays for the treatment or service out-of pocket in full. To request this restriction, you must make your request in writing prior to the treatment or service. In your request you must tell us (1) what information you want to restrict and (2) and to what health plan the restriction applies.
+**Right to Request a Restriction on Certain Uses or Disclosures** : You have a right to request a restriction on how we use and disclose your medical information for treatment, payment and health care operations, and to certain family members or friends identified by you who are involved in your care or the payment of your care. We are not required to agree to your request, and will notify you if we are unable to agree. Your request must be in writing and it must (1) describe what information you want to limit, (2) whether you want to limit our use, disclosure or both, and (3) to whom you want the limits to apply. In some instances, you may choose to pay for a healthcare item or service out of pocket rather than submit a claim to your insurance company. You may request that we not submit your medical information to a health plan or your insurance company, if you, or someone on your behalf, pays for the treatment or service out-of pocket in full. To request this restriction, you must make your request in writing prior to the treatment or service. In your request you must tell us (1) what information you want to restrict and (2) and to what health plan the restriction applies.
 
 top of page
 
-#### **Right to Breach Notification**
-
-You have the right under HIPAA, or as required by law, to be notified if there is a breach of your unsecured medical information. If requested, this notification may be provided to you electronically.
+**Right to Breach Notification** : You have the right under HIPAA, or as required by law, to be notified if there is a breach of your unsecured medical information. If requested, this notification may be provided to you electronically.
 
 top of page
 
-#### **Right to Choose a Representative**
-
-You have the right to choose someone to act on your behalf. If you have given someone medical power of attorney or if someone is your legal guardian, that person can exercise your rights and make choices about your health information. We will make efforts to verify the person you designate has this authority and can act for you before we take any action.
+**Right to Choose a Representative** : You have the right to choose someone to act on your behalf. If you have given someone medical power of attorney or if someone is your legal guardian, that person can exercise your rights and make choices about your health information. We will make efforts to verify the person you designate has this authority and can act for you before we take any action.
 
 top of page
 
-#### Right to Choose How You Receive Your Health Information
-
-You have the right to request that we communicate with you in a certain way, such as by mail or fax, or at a certain location, such as a home address or post office box. We will try to honor your request if we reasonably can. Your request must be in writing, and it must specify how or where you wish to be contacted. To submit a request, please contact the facility where you received treatment, or the Privacy Office listed below.
+**Right to Choose How You Receive Your Health Information** : You have the right to request that we communicate with you in a certain way, such as by mail or fax, or at a certain location, such as a home address or post office box. We will try to honor your request if we reasonably can. Your request must be in writing, and it must specify how or where you wish to be contacted. To submit a request, please contact the facility where you received treatment, or the Privacy Office listed below.
 
 top of page
 
-### CONTACT PERSON
+#### Contact Person
 
 If you believe your privacy rights have been violated, you may call or file a complaint in writing with the MedStar Health Privacy Office or the Department of Health and Human Services (please reference the contact information below). We will take no retaliatory action against you if you file a complaint about our privacy practices.
 
@@ -179,14 +177,10 @@ If you have questions about this Notice, or would like to exercise your Privacy 
 
 top of page
 
-### CHANGES TO THIS NOTICE OF PRIVACY PRACTICES
+#### Changes to This Notice of Privacy Practices
 
 We reserve the right to change this Notice. We reserve the right to make the revised Notice effective for medical information we already have about you as well as any information we receive in the future. We will post a copy of the current Notice in each MedStar facility and on our website. In addition, each time you register at, or are admitted to, the hospital for treatment or healthcare services as an inpatient or outpatient, we will offer you a copy of our current Notice in effect.
 
 **El Aviso sobre Prácticas de Privacidad está disponible en español.**
-
-  
-
-**Footnote** : _MedStar Health, Inc. located in Columbia, Maryland, is a non-profit community-based health care organization serving the greater Baltimore/Washington region. The health system is made up of a number of distinguished health care providers and other diversified health care entities. While these entities operate independently of one another and as separate employers, they also work toward common missions and values. The mission of MedStar Health is to serve our patients, those who care for them, and our communities and our vision is to be the trusted leader in caring for people and advancing health. In working to achieve this goal, it is the responsibility of each MedStar entity to enforce its privacy policies and to take appropriate disciplinary or other actions for employee violations. Please note that for purposes of this Notice of Privacy Practices, the MedStar Health parent company and all of its subsidiaries will be referred to collectively as "MedStar Health." For privacy purposes only, MedStar Health is organized as an Affiliated Covered Entity, as described in 45 CFR §164.504(d)(1); legally separate entities that are affiliated may designate themselves as a single covered entity._.
 
 top of page
