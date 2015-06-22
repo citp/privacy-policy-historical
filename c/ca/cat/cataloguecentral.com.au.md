@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cataloguecentral.com.au privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120133203id_/http%3A//www.cataloguecentral.com.au/Pages/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cataloguecentral.com.au privacy policy that was archived on 2015-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150622041606id_/http%3A//www.cataloguecentral.com.au/Pages/Privacy) for the most accurate reproduction.*
 
 # Catalogue Central's Privacy Policy
 
@@ -164,6 +164,6 @@ If you: (a) have any questions or comments on this policy; (b) would like to acc
   
 Privacy Officer  
 iNC Digital Media  
-Level 2, 31 Coventry Street  
-South Melbourne VIC 3205  
-Phone: (03) 9016 7943 
+Level 2, 21-31 Goodwood Street  
+Richmond VIC 3121  
+Phone: (03) 9420 1080 
