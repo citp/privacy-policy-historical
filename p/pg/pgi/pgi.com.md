@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pgi.com privacy policy that was archived on 2014-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141228032411id_/http%3A//www.pgi.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pgi.com privacy policy that was archived on 2015-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150622024718id_/http%3A//www.pgi.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | PGi
 
@@ -6,31 +6,27 @@ Premiere Global Services, Inc. and our subsidiaries (collectively, “PGi”) re
 
 **Scope**
 
-This Policy applies to all of the services offered by PGi (“PGi Services”) and all of PGi’s websites, including all PGi websites that link to this Policy (but not to those PGi websites that have their own privacy statement) (collectively, the “Websites”) and to all personal information that we directly collect or receive from you, whether manually or digitally processed. It does not apply to information our customers collect or receive from you.  While we take commercially reasonable measures to protect all personal information in our control or possession, we cannot guarantee or enforce the privacy policies of our customers. For this reason, we encourage you to review the privacy policies of our individual customers’ websites before disclosing any personal information to or through them.
+This Policy applies to all of the services offered by PGi (“PGi Services”) and all of PGi’s websites, including all PGi websites that link to this Policy (but not to those PGi websites that have their own privacy statement) (collectively, the “Websites”) and to all personal information that we directly collect or receive from you, whether manually or digitally processed. It does not apply to information our customers collect or receive from you. While we take commercially reasonable measures to protect all personal information in our control or possession, we cannot guarantee or enforce the privacy policies of our customers. For this reason, we encourage you to review the privacy policies of our individual customers’ websites before disclosing any personal information to or through them.
 
-**TRUSTe Certification**
+PGi has been awarded TRUSTe’s Privacy Seal signifying that this Policy and our practices have been reviewed by TRUSTe for compliance with[ TRUSTe’s Program Requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program covers information that may be collected through the Websites and does not cover information that may be collected through our mobile applications.
 
-[](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html)
-
-PGi has been awarded TRUSTe’s Privacy Seal signifying that this Policy and our practices have been reviewed by TRUSTe for compliance with [TRUSTe’s Program Requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program covers information that may be collected through the Websites and does not cover information that may be collected through our mobile applications.
-
-TRUSTe’s mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding this Policy or our practices, please contact us at privacy@pgi.com.  If you are not satisfied with our response you can contact TRUSTe [here](http://watchdog.truste.com/pvr.php?page=complaint%20).
+TRUSTe’s mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding this Policy or our practices, please contact us at privacy@pgi.com. If you are not satisfied with our response you can contact TRUSTe [here](http://watchdog.truste.com/pvr.php?page=complaint%20).
 
 **Information Collection**
 
-We may collect personal information from you on our Websites, including, but not limited to, the following: (a) to facilitate the delivery of PGi Services; (b) to provide you information you request, to give you a customized interactive experience; (c) to measure interest in various PGi Services; (d) to inform you about new PGi Services and features; and (e) to help us develop new services and features that meet your needs. The information we request may include personally identifiable information such as your name, billing and shipping address, telephone number, email address or credit card information. It is solely your choice whether or not you provide this information. However, should you choose not to provide the information, we may be unable to process an order, fulfill PGi Services or display certain content on the PGi Services.  To the extent we provide any location-based services, we may automatically collect, use and share location data when you use the Service and we will treat this data as non-personal information, except where we are required to do otherwise under applicable law.
+We may collect personal information from you on our Websites, including, but not limited to, the following: (a) to facilitate the delivery of PGi Services; (b) to provide you information you request, to give you a customized interactive experience; (c) to measure interest in various PGi Services; (d) to inform you about new PGi Services and features; and (e) to help us develop new services and features that meet your needs. The information we request may include personally identifiable information such as your name, billing and shipping address, telephone number, email address or credit card information. It is solely your choice whether or not you provide this information. However, should you choose not to provide the information, we may be unable to process an order, fulfill PGi Services or display certain content on the PGi Services. To the extent we provide any location-based services, we may automatically collect, use and share location data when you use the Service and we will treat this data as non-personal information, except where we are required to do otherwise under applicable law.
 
 **Use of Cookies and other Web Technologies**
 
-When you browse our Websites, you may do so anonymously as personal information is not collected during browsing. There is a technology called “cookies,” which can be used to provide you with tailored information. Like many websites, we may use cookies to provide you with better service.  Cookies are pieces of information that a website transfers to your computer’s hard disk for record-keeping purposes. Cookies can make a website more useful by storing information about your preferences for a particular site. The use of cookies is an industry standard and many major websites use them to provide useful features for their customers. Cookies in and of themselves do not personally identify users, although they do identify a user’s computer. Most browsers are initially set to accept cookies. If you prefer, you can set your browser to refuse cookies on our Websites. We treat any personal information that may be contained in cookies with the same level of protection as other personal information you provide to us.
+When you browse our Websites, you may do so anonymously as personal information is not collected during browsing. There is a technology called “cookies,” which can be used to provide you with tailored information. Like many websites, we may use cookies to provide you with better service. Cookies are pieces of information that a website transfers to your computer’s hard disk for record-keeping purposes. Cookies can make a website more useful by storing information about your preferences for a particular site. The use of cookies is an industry standard and many major websites use them to provide useful features for their customers. Cookies in and of themselves do not personally identify users, although they do identify a user’s computer. Most browsers are initially set to accept cookies. If you prefer, you can set your browser to refuse cookies on our Websites. We treat any personal information that may be contained in cookies with the same level of protection as other personal information you provide to us.
 
-To the extent our Website may include widgets, which are interactive mini-programs that run on our site to provide specific services from another company (e.g. displaying the news, opinions, music, etc), personal information, such as your email address, may be collected through the widget.  Information collected by this widget is governed by the privacy policy of the company that created it.
+To the extent our Website may include widgets, which are interactive mini-programs that run on our site to provide specific services from another company (e.g. displaying the news, opinions, music, etc), personal information, such as your email address, may be collected through the widget. Information collected by this widget is governed by the privacy policy of the company that created it.
 
-_Third Party Cookies_
+Third Party Cookies
 
-The use of cookies by third parties is not covered by this Policy.  We do not have access or control over these cookies.
+The use of cookies by third parties is not covered by this Policy. We do not have access or control over these cookies.
 
-_Other Third Party Tracking_
+Other Third Party Tracking
 
 To the extent clear gifs (a.k.a. Web Beacons/Web Bugs), images and/or scripts are employed on our Websites to manage content, we do not tie the information gathered to our Customers’ or Users’ personally identifiable information.
 
@@ -50,17 +46,16 @@ Individuals seeking access to their personal information that we collected direc
 
 We will retain your personal information to fulfill the purposes for which it was collected or as required for legitimate purposes or permitted by law.
 
-**Testimonials**
-
+**Testimonials**  
 To the extent PGi posts customer testimonials/comments/reviews on any of our Websites that contain personally identifiable information, we obtain any required consent(s) prior to posting the testimonial.
 
 **Public Forums**
 
-To the extent PGi offers certain publicly accessible blogs and/or community forums on our Websites, you should be aware that any information you provide in these areas may be broadly available to others, and can be read, collected, and used by others who access them, potentially inside or outside PGi.  This information could also be used to send you unsolicited messages.  Also, please recognize that individual blogs and/or forums may have additional rules and conditions.  Each participant’s opinion on a blog or forum is his or her own and should not be considered as reflecting the opinion of PGi. We are not responsible for the personal information or any other information you choose to submit in these forums.
+To the extent PGi offers certain publicly accessible blogs and/or community forums on our Websites, you should be aware that any information you provide in these areas may be broadly available to others, and can be read, collected, and used by others who access them, potentially inside or outside PGi. This information could also be used to send you unsolicited messages. Also, please recognize that individual blogs and/or forums may have additional rules and conditions. Each participant’s opinion on a blog or forum is his or her own and should not be considered as reflecting the opinion of PGi. We are not responsible for the personal information or any other information you choose to submit in these forums.
 
 **Security**
 
-We are committed to protecting the personal information you share with us and utilize a combination of industry-standard security technologies, procedures, and organizational measures to help protect your personal information from unauthorized access, use or disclosure. We recommend you to take every precaution in protecting your personal information when you are on the Internet. For example, change your passwords often, use a combination of letters and numbers when creating passwords, and make sure you use a secure browser.   No method of transmission over the Internet, or method of electronic storage is 100% secure, however.  Therefore, we cannot guarantee its absolute security.
+We are committed to protecting the personal information you share with us and utilize a combination of industry-standard security technologies, procedures, and organizational measures to help protect your personal information from unauthorized access, use or disclosure. We recommend you to take every precaution in protecting your personal information when you are on the Internet. For example, change your passwords often, use a combination of letters and numbers when creating passwords, and make sure you use a secure browser. No method of transmission over the Internet, or method of electronic storage is 100% secure, however. Therefore, we cannot guarantee its absolute security.
 
 **Children**
 
@@ -68,13 +63,13 @@ We do not knowingly collect any personally identifiable information from childre
 
 **European Union Safe Harbor Compliance Statement**
 
-Our subsidiary, American Teleconferencing Services, Ltd. d/b/a Premiere Global Services complies with the U.S. – E.U. Safe Harbor Framework and the U.S. – Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use and retention of personal data from the European Union member countries and Switzerland and has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view PGi’s certification, please visit <http://export.gov/safeharbor/>.
+Our subsidiary, American Teleconferencing Services, Ltd. d/b/a Premiere Global Services complies with the U.S. – E.U. Safe Harbor Framework and the U.S. – Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use and retention of personal data from the European Union member countries and Switzerland and has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view PGi’s certification, please visit <http://export.gov/safeharbor/>.
 
 **Types of cookies that may be used during your visit to this Website:**
 
 Our site uses web analytic cookies, including the use of Google Analytics, Remarketing with Google Analytics and Google Display Network Impression Reporting to advertise online. This website and third-party vendors, including Google, use first-party cookies (such as the Google Analytics cookie) and third-party cookies (such as the DoubleClick cookie) together to inform, optimize, and serve ads based on someone’s past visits to your website. This website also uses third-party vendors, including Google and third-party cookies (such as the DoubleClick cookie) together to report how your ad impressions, other uses of ad services, and interactions with these ad impressions and ad services are related to visits to our website. This helps us make our service to you better.
 
-Google analytics is provided by Google, Inc. and you can find out more about this service at <http://www.google.com/analytics> Google Analytics uses cookies, which are text files placed on your computer, to help the website analyze how users use the site. You may refuse the use of cookies by selecting the appropriate settings on your browser. You can opt-out of Google Analytics for Display Advertising [here](file:///C:/Users/Egusmus/AppData/Local/Microsoft/Windows/Temporary%20Internet%20Files/Content.Outlook/OWWX32OK/google.com/settings/ads). If you wish to opt-out of third-party vendors use of cookies, please visit the [Network Initiative opt-out page](http://www.networkadvertising.org/choices/).
+Google analytics is provided by Google, Inc. and you can find out more about this service at <http://www.google.com/analytics> Google Analytics uses cookies, which are text files placed on your computer, to help the website analyze how users use the site. You may refuse the use of cookies by selecting the appropriate settings on your browser. You can opt-out of Google Analytics for Display Advertising here. If you wish to opt-out of third-party vendors use of cookies, please visit the [Network Initiative opt-out page](http://www.networkadvertising.org/choices/).
 
 **Third Party Websites**
 
@@ -82,11 +77,11 @@ Our Websites may contain links to third-party websites. While we try to link onl
 
 **Review of Compliance**
 
-We review our compliance with this Policy on a periodic basis, and we reserve the right to update this Policy to reflect changes to our information practices at any time without notice. Please check this page periodically for changes.  If we make any material changes, we will notify you by posting a notice of such an update on this website prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.  Your continued use of our Websites following the posting of changes to this Policy constitutes acceptance of those changes.
+We review our compliance with this Policy on a periodic basis, and we reserve the right to update this Policy to reflect changes to our information practices at any time without notice. Please check this page periodically for changes. If we make any material changes, we will notify you by posting a notice of such an update on this website prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices. Your continued use of our Websites following the posting of changes to this Policy constitutes acceptance of those changes.
 
 **Consent to Transfer, Processing and Storage of Personal Information**
 
-As PGi is a global organization, we may transfer your personal information to PGi in the U.S. to any PGi subsidiary worldwide, or to third parties acting on our behalf, for the purposes of processing or storage.  By providing any personal information to us, you fully understand and unambiguously consent to the transfer, processing and storage of such information outside of your country of residence where data protection standards may be different.
+As PGi is a global organization, we may transfer your personal information to PGi in the U.S. to any PGi subsidiary worldwide, or to third parties acting on our behalf, for the purposes of processing or storage. By providing any personal information to us, you fully understand and unambiguously consent to the transfer, processing and storage of such information outside of your country of residence where data protection standards may be different.
 
 **Privacy Compliance Officer Contact Information**
 
@@ -96,10 +91,10 @@ Email: privacy@pgi.com
 
 Toll-free: 877-771-8283
 
-Contact Office:   Premiere Global Services, Inc.
+Contact Office: Premiere Global Services, Inc.
 
 3280 Peachtree Rd NE, Suite 1000
 
-Atlanta, GA  30305
+Atlanta, GA 30305
 
-_Last Revised April 3  2014._
+_Last Revised April 3 2014._
