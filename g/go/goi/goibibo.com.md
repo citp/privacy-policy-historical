@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goibibo.com privacy policy that was archived on 2014-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141226101549id_/http%3A//www.goibibo.com/common/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goibibo.com privacy policy that was archived on 2015-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150622052949id_/http%3A//www.goibibo.com/common/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Goibibo
 
@@ -40,7 +40,7 @@ Information, which is disclosed publicly, is also shared with our affiliates, th
 
 We are not liable to you or any third party for any damages (as defined in clause 14 of the Terms and Conditions of our Site.) that you or any third party may suffer howsoever arising from your disclosure of Personal Information in any public environment. You accordingly disclose information in a public environment at your own risk.
 
-If you are no longer interested in receiving e-mail announcements and other marketing information from us, or you want us to remove any PII that we have collected about you, please e-mail your request to [travel@goibibo.com](mailto:travel@goibibo.com).
+If you are no longer interested in receiving e-mail announcements and other marketing information from us, or you want us to remove any PII that we have collected about you, [Click here](http://www.goibibo.com/support/) to tell us your issue or go to [www.goibibo.com/support](http://www.goibibo.com/support/).
 
 We use third-party service providers to serve ads on our behalf across the Internet and sometimes on this site. They may collect anonymous information about your visits to our website, and your interaction with our products and services. They may also use information about your visits to this and other websites to target advertisements for goods and services. This anonymous information is collected through the use of a pixel tag, which is industry standard technology used by most major websites. No personally identifiable information is collected or used in this process. They do not know the name, phone number, address, email address, or any personally identifying information about the user.
 
