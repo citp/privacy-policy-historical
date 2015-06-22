@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the governmentcomputing.com privacy policy that was archived on 2014-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140905145731id_/http%3A//www.governmentcomputing.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the governmentcomputing.com privacy policy that was archived on 2015-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150622120448id_/http%3A//www.governmentcomputing.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Government Computing Network
 
@@ -7,9 +7,9 @@ At Government Computing Network we are dedicated to safeguarding and preserving 
 This Privacy Policy, together with our terms of use, provides an explanation as to what happens to any personal data that you provide to us, or that we collect from you. 
 
 This Policy is updated from time to time so please review this Policy regularly.  
-For the purpose of the Data Protection Act 1998, the data controller is Progressive Media Group Ltd. 
+For the purpose of the Data Protection Act 1998, the data controller is Progressive Media Group Limited. 
 
-Progressive Media Group Ltd is subject to the UK Data Protection Act 1998 and is registered in the UK with the Information Commissioner to process your personal information. 
+Progressive Media Group Limited is subject to the UK Data Protection Act 1998 and is registered in the UK with the Information Commissioner to process your personal information. 
 
 Information We Collect 
 
