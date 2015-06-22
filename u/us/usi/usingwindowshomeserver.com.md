@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usingwindowshomeserver.com privacy policy that was archived on 2014-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141028075435id_/http%3A//connecteddigitalworld.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usingwindowshomeserver.com privacy policy that was archived on 2015-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150622085505id_/http%3A//connecteddigitalworld.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
