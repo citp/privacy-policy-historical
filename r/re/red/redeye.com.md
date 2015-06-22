@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the redeye.com privacy policy that was archived on 2014-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141229071339id_/http%3A//www.redeye.com/company/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redeye.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623012718id_/http%3A//www.redeye.com/company/about-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - @RedEyeUK
 
