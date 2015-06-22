@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the collectplus.co.uk privacy policy that was archived on 2014-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141211192211id_/http%3A//www.collectplus.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the collectplus.co.uk privacy policy that was archived on 2015-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150622103759id_/http%3A//www.collectplus.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy :: CollectPlus Courier Services
 
@@ -103,4 +103,4 @@ You have a legal right under the Data Protection Act 1998 to a copy of all the p
 
 * ## Contacting us
 
-Please submit any questions, concerns or comments you have about this privacy policy or any requests concerning your personal data by [email](mailto:%69%6e%66%6f@%63%6f%6c%6c%65%63%74%70%6c%75%73.%63%6f.%75%6b). 
+Please submit any questions, concerns or comments you have about this privacy policy or any requests concerning your personal data by [email](mailto:info@collectplus.co.uk). 
