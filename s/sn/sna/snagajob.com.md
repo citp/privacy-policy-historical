@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the snagajob.com privacy policy that was archived on 2014-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141226150006id_/http%3A//www.snagajob.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the snagajob.com privacy policy that was archived on 2015-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150622111003id_/http%3A//www.snagajob.com/privacy) for the most accurate reproduction.*
 
 # SnagAJob.com Privacy Policy
 
@@ -119,6 +119,13 @@ After you complete a poll, you will be given access to the aggregate responses o
 We may use third parties to deliver incentives to you to participate in surveys or polls. If the delivery of incentives requires your contact information, you may be asked to provide Personal Information to the third party fulfilling the incentive offer, which will only be used for the purpose of delivering incentives and/or verifying your contact information. It is up to you whether you provide this information, or whether you desire to take advantage of an incentive.
 
 We will not disclose any Personal Information to any third parties in connection with the conduct of any polls or surveys. Your consent to use any Personal Information for the purposes set forth in the poll or survey will be explicitly requested by the party conducting it. You may opt-out of participating in surveys by changing your settings to stop receiving these inquiries and requests.
+
+### Web Analytics Service
+
+This site uses the Lucky Orange analytics system to help improve usability and the customer experience.  
+Lucky Orange may record mouse clicks, mouse movements and scrolling activity. Lucky Orange may record keystroke information that you voluntarily enter on this website.  
+Lucky Orange does not track this activity on any site that does not use the Lucky Orange system.  
+You can choose to disable the Lucky Orange Service at <http://www.luckyorange.com/disable.php>. Note, that doing so will disable other features of the Lucky Orange system that this site employs such as 1-to-1 support chat.
 
 ### “Cookies”
 
