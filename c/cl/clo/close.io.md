@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the close.io privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625140434id_/http%3A//close.io/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the close.io privacy policy that was archived on 2015-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150622044426id_/http%3A//close.io/privacy) for the most accurate reproduction.*
 
 # Close.io – Stop logging calls and emails and start making them instead.
 
