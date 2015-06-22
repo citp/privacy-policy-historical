@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the casinoroom.com privacy policy that was archived on 2014-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141204133449id_/http%3A//www.casinoroom.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the casinoroom.com privacy policy that was archived on 2015-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150622063923id_/http%3A//www.casinoroom.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Provision & Policy at Casino Room
 
@@ -22,7 +22,7 @@
 ### Usage of information
 
   * Most of SITE's use of personal information is necessary to provide the services requested by you.
-  * In addition personal information is used to customize the advertising and content you see and to improve the services provided. In improving the services provided, SITE may process personal information for customer relationship management purposes.
+  * In addition personal information is used to customize the advertising and content you see and to improve the services provided. In improving the services provided, SITE may process personal information for customer relationship management purposes. It may also be necessary to pass on UK Player's data to the UK Gambling Commission, in accordance with the UK Gambling Licence.
   * SITE may also use personal information for identification purposes and to prevent potential fraud.
   * SITE reserves the right to use personal information to inform you about new products and services provided by SITE and its co-operators.
 
