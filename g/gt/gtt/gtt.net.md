@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gtt.net privacy policy that was archived on 2014-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141224210704id_/http%3A//www.gtt.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gtt.net privacy policy that was archived on 2015-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150622052036id_/http%3A//www.gtt.net/policy/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - GTT
+# Privacy Policy - GTT Communications, Inc.
 
 **SAFE HARBOR PRIVACY POLICY**
 
@@ -8,19 +8,27 @@ This Safe Harbor Privacy Policy (the “Policy”) sets forth the privacy princi
 
 **SAFE HARBOR**
 
-The United States Department of Commerce and the European Commission have agreed on a set of data protection principles and frequently asked questions to enable U.S. companies to satisfy the requirement under European Union law that adequate protection be given to personal information transferred from the EEA to the United States (the "U.S.-EU Safe Harbor"). The EEA also has recognized the U.S.-EU Safe Harbor as providing adequate data protection. Consistent with its commitment to protect personal privacy, GTT adheres to the U.S.-EU Safe Harbor Framework.
+ **
+
+The United States Department of Commerce and the European Commission have agreed on a set of data protection principles and frequently asked questions to enable U.S. companies to satisfy the requirement under European Union law that adequate protection be given to personal information transferred from the EEA to the United States (the “U.S.-EU Safe Harbor”). The EEA also has recognized the U.S.-EU Safe Harbor as providing adequate data protection. Consistent with its commitment to protect personal privacy, GTT adheres to the U.S.-EU Safe Harbor Framework.
 
 **SCOPE**
 
+ **
+
 This Policy sets forth the privacy principles under which GTT manages the processing of personal information transferred over GTT’s network services (the “Services) and received by GTT as a processor in the United States from the EEA.
 
-DEFINITIONS
+**DEFINITIONS**
 
-For purposes of this Policy, the following definitions shall apply: “Agent” means any third party that collects or uses personal information under the instructions of, and solely for, GTT or to which GTT discloses personal information for use on GTT's behalf. “GTT” means GTT (Global Telecom and Technology) its predecessors, successors, subsidiaries, divisions and groups. “Personal information” means any information or set of information that identifies or could be used by or on behalf of GTT to identify an individual. Personal information does not include information that is encoded or anonymized, or publicly available information that has not been combined with non-public personal information. “Sensitive personal information” means personal information that reveals race, ethnic origin, political opinions, religious or philosophical beliefs, trade union membership, views or activities, that concerns health or sex life, information about social security benefits, or information on criminal or administrative proceedings and sanctions other than in the context of pending proceedings. In addition, GTT will treat as sensitive personal information any information received from a third party where that third party treats and identifies the information as sensitive.
+ **
+
+For purposes of this Policy, the following definitions shall apply: “Agent” means any third party that collects or uses personal information under the instructions of, and solely for, GTT or to which GTT discloses personal information for use on GTT’s behalf. “GTT” means GTT (Global Telecom and Technology) its predecessors, successors, subsidiaries, divisions and groups. “Personal information” means any information or set of information that identifies or could be used by or on behalf of GTT to identify an individual. Personal information does not include information that is encoded or anonymized, or publicly available information that has not been combined with non-public personal information. “Sensitive personal information” means personal information that reveals race, ethnic origin, political opinions, religious or philosophical beliefs, trade union membership, views or activities, that concerns health or sex life, information about social security benefits, or information on criminal or administrative proceedings and sanctions other than in the context of pending proceedings. In addition, GTT will treat as sensitive personal information any information received from a third party where that third party treats and identifies the information as sensitive.
 
 **PRIVACY PRINCIPLES**
 
-The privacy principles in this Policy have been developed based on the Safe Harbor Principles. NOTICE: When you use the Services, GTT operates under the assumption that it is your obligation as data controller to notify your customers about the purposes for which GTT collects personal information about them, the types of non-agent third parties to which GTT discloses that information, the choices and means, if any, GTT offers individuals for limiting the use and disclosure of personal information about them, and how to contact GTT. As the data processor, GTT makes available to you this Policy so that you can better understand GTT’s data practices and whether they are consistent with privacy notices you make available to your customers. CHOICE: When you use the Services, the U.S.-EU Safe Harbor requires that members offer your customers a choice to opt-out of uses and disclosures of their data that are incompatible with the purposes for which that data was originally collected or subsequently authorized. GTT operates under the assumption that it is generally your obligation as data controller to obtain from your customers the appropriate consent to transfer and process their data to GTT. As your data processor, GTT will not share, sell, rent, or trade with third parties for their marketing purposes any of your data or your customer's data collected by us, unless you direct us to do so and have the appropriate authorization to do so.
+ **
+
+The privacy principles in this Policy have been developed based on the Safe Harbor Principles. NOTICE: When you use the Services, GTT operates under the assumption that it is your obligation as data controller to notify your customers about the purposes for which GTT collects personal information about them, the types of non-agent third parties to which GTT discloses that information, the choices and means, if any, GTT offers individuals for limiting the use and disclosure of personal information about them, and how to contact GTT. As the data processor, GTT makes available to you this Policy so that you can better understand GTT’s data practices and whether they are consistent with privacy notices you make available to your customers. CHOICE: When you use the Services, the U.S.-EU Safe Harbor requires that members offer your customers a choice to opt-out of uses and disclosures of their data that are incompatible with the purposes for which that data was originally collected or subsequently authorized. GTT operates under the assumption that it is generally your obligation as data controller to obtain from your customers the appropriate consent to transfer and process their data to GTT. As your data processor, GTT will not share, sell, rent, or trade with third parties for their marketing purposes any of your data or your customer’s data collected by us, unless you direct us to do so and have the appropriate authorization to do so.
 
 DATA INTEGRITY: GTT will use personal information only in ways that are compatible with the purposes for which it was collected or subsequently authorized by you. GTT will take reasonable steps to ensure that personal information is relevant to its intended use, accurate, complete, and current.
 
@@ -36,4 +44,8 @@ DISPUTE RESOLUTION: Any questions or concerns regarding the use or disclosure of
 
 **LIMITATION ON APPLICATION OF PRINCIPLES**
 
+ **
+
 Adherence by GTT to these Safe Harbor Principles may be limited (a) to the extent required to respond to a legal or ethical obligation; (b) to the extent necessary to meet national security, public interest or law enforcement obligations; and (c) to the extent expressly permitted by an applicable law, rule or regulation. CONTACT INFORMATION Questions or comments regarding this Policy should be submitted to the GTT Privacy Office by mail to: GTT, 8484 Westpark Drive, Suite 720, McLean, VA 22102 Effective Date: May 14, 2013
+
+**********
