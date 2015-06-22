@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the android-kiosk.com privacy policy that was archived on 2014-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141223194033id_/http%3A//www.android-kiosk.com/privacy-and-cookie-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the android-kiosk.com privacy policy that was archived on 2015-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150622061630id_/http%3A//www.android-kiosk.com/privacy-and-cookie-policy) for the most accurate reproduction.*
 
-# Privacy and Cookies Policy - Kiosk Browser Software for Android
+# Privacy and Cookies Policy - Kiosk Browser Software for AndroidKiosk Browser Software for Android
+
+### Privacy and Cookies Policy
 
 At ProCo-STS Limited we are committed to safeguarding and preserving the privacy of our visitors. This Privacy Policy document (the “Policy”) has been provided by the legal resource [DIY Legals](http://www.diylegals.co.uk/ecommerce/website-privacy-policy/) and reviewed and approved by their solicitors.
 
