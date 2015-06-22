@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pingler.com privacy policy that was archived on 2014-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141218203252id_/https%3A//pingler.com/information/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pingler.com privacy policy that was archived on 2015-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150622055158id_/https%3A//pingler.com/information/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
