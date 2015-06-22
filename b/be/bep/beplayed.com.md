@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the beplayed.com privacy policy that was archived on 2012-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121204055200id_/http%3A//beplayed.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beplayed.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623002702id_/http%3A//beplayed.com/privacy.html) for the most accurate reproduction.*
 
 # BEPLAYED.COM WEB SITE PRIVACY STATEMENT
 
