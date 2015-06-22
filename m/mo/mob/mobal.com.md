@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mobal.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702023925id_/http%3A//www.mobal.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobal.com privacy policy that was archived on 2015-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150622160634id_/https%3A//www.mobal.com/privacy) for the most accurate reproduction.*
 
 # Mobal | Privacy Information
 
@@ -20,8 +20,10 @@ Non-identifiable Information – Some of The Mobell Group websites use "cookies"
 
 Any information that you supply to us is made available to the relevant staff members of The Mobell Group only. Any information you provide through the websites, once received, is stored within restricted areas. However, such is the nature of web systems, when customer information is being sent over the Internet it can go via routes out of The Mobell Group’s control. If information is accessed or lost during this period The Mobell Group cannot be held responsible.
 
-The Mobell Group websites contain links to other companies. We have no control over their content or how they use any information you choose to disclose. This is done entirely at your own risk. No customer information that has been submitted to The Mobell Group websites is shared or sold to any third parties.
+The Mobell Group websites contain links to other companies. We have no control over their content or how they use any information you choose to disclose. This is done entirely at your own risk. No customer information that has been submitted to The Mobell Group websites is shared or sold to any third parties for direct marketing to you.
 
 #### Right to amend privacy policy
 
 The Mobell Group reserves the right to amend this Privacy Policy in respect to changes in company practices and amendments to data protection laws.
+
+We reserve the right to use email addresses directly or through third parties for anonymized social media banner advertising.
