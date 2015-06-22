@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stlcop.edu privacy policy that was archived on 2014-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141229052014id_/http%3A//www.stlcop.edu/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stlcop.edu privacy policy that was archived on 2015-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150622050558id_/http%3A//www.stlcop.edu/policies/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
