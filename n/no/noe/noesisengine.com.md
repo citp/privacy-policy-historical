@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the noesisengine.com privacy policy that was archived on 2014-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140918210028id_/http%3A//noesisengine.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the noesisengine.com privacy policy that was archived on 2015-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150622034659id_/http%3A//www.noesisengine.com/privacy_policy.htm) for the most accurate reproduction.*
 
 # Noesis Technologies - Privacy Policy
 
