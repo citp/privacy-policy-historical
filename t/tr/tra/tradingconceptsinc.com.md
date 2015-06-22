@@ -1,20 +1,19 @@
-> *The following text is extracted and transformed from the tradingconceptsinc.com privacy policy that was archived on 2014-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140927083231id_/http%3A//tradingconceptsinc.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tradingconceptsinc.com privacy policy that was archived on 2015-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150622094218id_/http%3A//www.tradingconceptsinc.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Trading Concepts | E-Mini, Futures, Options & Stock Trading
-
-**PRIVACY POLICY**
+# Privacy Policy - Trading Concepts | E-Mini, Futures, Options & Stock Trading : Trading Concepts | E-Mini, Futures, Options & Stock Trading
 
 Your privacy is very important to us. We want to make your experience on the Internet as enjoyable and profitable as possible and want you to use the services and products we offer with complete confidence.
 
 We have created this Privacy Policy to demonstrate our commitment to privacy and security. This Privacy Policy describes how our company collects information from all the people who use our Internet services (the Services). Those who visit our site and may access some our Services without having accounts with us (Visitors) as well as those who purchase Products and pay a fee to subscribe to our Services (Members). It also sets out what we do with the information we collect and the choices Visitors and Members have concerning the collection and use of this information. We ask that you read this Privacy Policy carefully.
 
-**Personal Information Our Company Collects And How It Is Used**
+## Personal Information Our Company  
+Collects And How It Is Used
 
 **Introduction** Our company collects information in different ways from Visitors and Members who access the various parts of our Services on this or related web sites. We use this information mainly to provide a personalized experience as you use our Products and Services and generally do not share this information with third parties.
 
 However, we may disclose personal information collected, if we have received your prior permission, or in very special circumstances as when we believe disclosure is required by law and in the special cases described below.
 
-**Upon Registration** Members may be asked to provide certain personal information when they sign up for our Products and Services including name, address, telephone number, billing information, (such as credit card number), and the type of personal computer being used to access the Services. Personal information collected from Members during the registration process is used to manage each Member’s account (such as for billing purposes.) This information is not shared with third parties, except as specifically stated or in special circumstances.
+**Upon Registration** Members may be asked to provide certain personal information when they sign up for our free content and Products and Services including name, address, telephone number, billing information, (such as credit card number), and the type of personal computer being used to access the Services. Personal information collected from Members during the registration process is used to manage each Member’s account (such as for billing purposes. By providing your email address, you give and agree that you give explicit consent to receive commercial emails from Trading Concepts, whether sent directly from our own databases, a third-party sending an email on our behalf, or from any representative of our company. You may revoke this consent at any time by opting out of our communications. This information is not shared with third parties, except as specifically stated, as a way to facilitate an email send on our behalf, or in special circumstances.
 
 However in instances where our company and a partner jointly promote our Services, we may provide the partner some personal information like the name, address and user name of the persons who subscribed who subscribed to the Services as a result of the joint promotion solely for the purpose of allowing us and the partner to asses the results of the promotion.
 
@@ -48,7 +47,6 @@ If you are a Visitor or Member we may use cookies to save your settings and prov
 
 You must be eighteen (18) years of age or over to access this web site. If you are under eighteen (18) years of age, you are not permitted to access this web site for any reason. Due to the age restrictions, we do not monitor this web site for compliance with any applicable children privacy laws.
 
-**Our Company’s Commitment To Data Security** Services and Websites we sponsor have security measures in place to protect the loss, misuse and alteration of data under our control. While we take all reasonably necessary steps to protect the integrity and security of our data and networks, we cannot guarantee our security measures will prevent “  
-third party” hackers from illegally accessing our data.
+**Our Company’s Commitment To Data Security** Services and Websites we sponsor have security measures in place to protect the loss, misuse and alteration of data under our control. While we take all reasonably necessary steps to protect the integrity and security of our data and networks, we cannot guarantee our security measures will prevent ” third party” hackers from illegally accessing our data.
 
 **Revisions** Our Company reserves the right to revise, amend or modify this policy our Terms of Service Agreement and our other policies and agreements at any time and in any manner, by updating this posting.
