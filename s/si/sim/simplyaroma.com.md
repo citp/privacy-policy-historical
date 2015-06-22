@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the simplyaroma.com privacy policy that was archived on 2014-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141004062356id_/http%3A//www.simplyaroma.com/privacy-policy/index.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simplyaroma.com privacy policy that was archived on 2015-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150622141304id_/http%3A//simplyaroma.com/privacy-policy/index.aspx) for the most accurate reproduction.*
 
 # Privacy Policy @ Simply Aroma – Certified 100% Pure Therapeutic Grade Oils
 
