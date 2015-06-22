@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the yourdictionary.com privacy policy that was archived on 2014-12-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141210082417id_/http%3A//www.yourdictionary.com/about/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the yourdictionary.com privacy policy that was archived on 2015-06-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150622053657id_/http%3A//www.yourdictionary.com/about/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js" lang="en"><!--<![endif]--><head profile="http://a9.com/-/spec/opensearch/1.1/">
 <script id="twitter-wjs" src="https://platform.twitter.com/widgets.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script src="//cdn.optimizely.com/js/922510376.js"></script>
@@ -17,24 +17,27 @@
     <link rel="search" type="application/opensearchdescription+xml" href="http://www.yourdictionary.com/Definitions-Search.xml" title="YourDictionary.com">
 <!-- Foundation 3 for IE 8 and earlier -->
 <!--[if lt IE 9]>
-    <link rel="stylesheet" href="http://cf.ydcdn.net/1.0.1.26/css/foundation3/stylesheets/normalize.css">
-    <link rel="stylesheet" href="http://cf.ydcdn.net/1.0.1.26/css/foundation3/stylesheets/foundation.css">
-    <link rel="stylesheet" href="http://cf.ydcdn.net/1.0.1.26/css/foundation3/stylesheets/app.css">
+    <link rel="stylesheet" href="http://cf.ydcdn.net/1.0.1.34/css/foundation3/stylesheets/normalize.css">
+    <link rel="stylesheet" href="http://cf.ydcdn.net/1.0.1.34/css/foundation3/stylesheets/foundation.css">
+    <link rel="stylesheet" href="http://cf.ydcdn.net/1.0.1.34/css/foundation3/stylesheets/app.css">
 <![endif]-->
 <!-- Foundation 4 for IE 9 and earlier -->
 <!--[if gt IE 8]><!-->
-    <link rel="stylesheet" href="http://cf.ydcdn.net/1.0.1.26/css/normalize.css">
-    <link rel="stylesheet" href="http://cf.ydcdn.net/1.0.1.26/css/foundation.css">
+    <link rel="stylesheet" href="http://cf.ydcdn.net/1.0.1.34/css/normalize.css">
+    <link rel="stylesheet" href="http://cf.ydcdn.net/1.0.1.34/css/foundation.css">
 	<link rel="stylesheet" href="http://code.jquery.com/ui/1.10.4/themes/smoothness/jquery-ui.css">
 <!--<![endif]-->
-    <link rel="stylesheet" type="text/css" href="http://cf.ydcdn.net/1.0.1.26/fonts/fontawesome.css">
-<script src="http://cf.ydcdn.net/1.0.1.26/js/preload.js"></script>
+<!--[if lte IE 9]>
+  <link rel="stylesheet" type="text/css" href="http://cf.ydcdn.net/1.0.1.34/css/flash_card_ie9.css">
+<![endif]-->
+<link rel="stylesheet" href="/fonts/fontawesome.css">
+<script src="http://cf.ydcdn.net/1.0.1.34/js/preload.js"></script>
 <script async="" src="http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <script src="http://ajax.googleapis.com/ajax/libs/swfobject/2.2/swfobject.js"></script>
-<script src="http://cf.ydcdn.net/1.0.1.26/js/vendor/custom.modernizr.js" defer=""></script>
+<script src="http://cf.ydcdn.net/1.0.1.34/js/vendor/custom.modernizr.js" defer=""></script>
 <script src="http://code.jquery.com/jquery-latest.min.js"></script>
-<script src="http://cf.ydcdn.net/1.0.1.26/js/jquery.raty.min.js"></script>
-<script src="http://cf.ydcdn.net/1.0.1.26/js/jquery-ui-1.8.custom.min.js"></script>
+<script src="http://cf.ydcdn.net/1.0.1.34/js/jquery.raty.min.js"></script>
+<script src="http://cf.ydcdn.net/1.0.1.34/js/jquery-ui-1.8.custom.min.js"></script>
 <script type="text/javascript" async="" data-pin-hover="true" src="//assets.pinterest.com/js/pinit.js"></script>
 
 
@@ -56,7 +59,7 @@
   ga('newTracker.send', 'pageview');
 </script>
 <script type="text/javascript">
-var yd_cdn = 'http://cf.ydcdn.net/1.0.1.26';
+var yd_cdn = 'http://cf.ydcdn.net/1.0.1.34';
 var googletag = googletag || {};
 googletag.cmd = googletag.cmd || [];
   (function() {
@@ -78,7 +81,7 @@ var yd_ads = [
  },
  {
   n:'YD_Www_728_m',
-  i:'ad-super-www-m',
+  i:'ad-super-www',
   s:[
    {minw:1,maxw:764,c:[320,50]}
   ]
@@ -87,7 +90,13 @@ var yd_ads = [
   n:'YD_Www_300',
   i:'ad300-www',
   s:[
-   {minw:1025,maxw:9999,c:[[300,600],[300,250],[160,600],[300,1050]]},
+   {minw:1025,maxw:9999,c:[[300,600],[300,250],[160,600],[300,1050]]}
+  ]
+ },
+ {
+  n:'YD_Www_300_m',
+  i:'ad300-www',
+  s:[
    {minw:1,maxw:1024,c:[300,250]}
   ]
  },
@@ -106,40 +115,15 @@ var yd_ads = [
   ]
  }
 ];
-googletag.cmd.push(load_ads);
-
-function load_ads()
-{
-   var myWidth = window.innerWidth || document.documentElement.clientWidth;
-
-   for(var i = 0; i < yd_ads.length; i++)
-   {
-      var ad = yd_ads[i];
-      for(var j = 0; j < ad.s.length; j++)
-      {
-         var size = ad.s[j];
-         if(myWidth >= size.minw && myWidth <= size.maxw)
-         {
-            googletag.defineSlot('/1004147/' + ad.n, size.c, ad.i).addService(googletag.pubads());
-            googletag.cmd.push(function(){googletag.display(ad.i);});
-            break;
-         }
-      }
-   }
-   googletag.pubads().set("page_url", location.href);
-   googletag.pubads().collapseEmptyDivs();
-   googletag.pubads().enableSingleRequest();
-   googletag.enableServices();
-}
 </script>
-<script src="http://cf.ydcdn.net/1.0.1.26/js/ga_social_tracking.js"></script>
+<script src="http://cf.ydcdn.net/1.0.1.34/js/ga_social_tracking.js"></script>
 <script type="text/javascript" async="" src="//yourdictionaryltk.disqus.com/embed.js"></script></head>
 <body>
 <div id="fb-root"></div>
 <div id="content_top">
 <div id="article_main_content"><div id="article_pdf_div"></div><h3>Third Party Advertisers</h3><p>We use third-party advertising companies to serve our ads on the Internet. These third-party advertising companies employ cookie and 1x1 pixel .gif technology to measure and improve the effectiveness of ads for their clients. To do so, these companies may use anonymous information about your visits to our Web site and other Web sites. This information can include: date/time of banner ad shown, the banner ad that was shown, their cookie, the IP address. This information can also be used for online preference marketing purposes.</p><h3>Consumer Information</h3><p>During the process of delivering an ad to you, YourDictionary.com does not collect any personally identifiable information about you-such as name, address, phone number, or email address. However, YourDictionary does obtain some types of nonpersonally identifiable information-such as the Internet Service Provider you use to connect to the Internet, your browser type, or the type of computer operating system you use (Macintosh or Windows, for example). The information collected by YourDictionary is used for the purpose of targeting ads and measuring ad effectiveness on behalf of our advertisers. In some cases, you may voluntarily provide personal information in response to a specific ad (the advertiser may ask you to fill out a survey or provide your zip code). If this does occur, YourDictionary may collect this information on behalf of an advertiser. This information is used by an advertiser to respond to your request. In addition, YourDictionary may combine this information with other users' information and review it in an aggregate form to understand the type of people who view a specific type of ad or visit a particular kind of website.</p><h3>Registration</h3><p>The vast majority of our services do not require any form of customer registration. However, we do require registration for the use of a few services. During registration we will need certain information --such as, name or user name and email address. <em><strong>YourDictionary will never share the information that you provide us during registration with any third parties.</strong></em> During your use of our site and our services, we may collect demographic and profile data about you. We use this data to personalize your experience at our site, showing you content that we think you will be interested in, and displaying the content according to your preferences. <em><strong>We will never share this information with any other entity. </strong></em></p><h3>Public Forums</h3><p>YourDictionary makes comments and forums available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information.</p><h3>Cookies and Data Collection</h3><p>YourDictionary.com--as well as most sites on the Internet--use "cookies" to enhance your experience on the web.</p><ul><li><strong>What are cookies and why do we use them?</strong> First, YourDictionary.com cannot use these cookies to identify you personally in any way. A cookie is a unique number that is provided to you the first time you visit YourDictionary.com. This unique number, which is stored in a cookie file on your computer, helps YourDictionary target ads to you. This cookie can help YourDictionary ensure that we do not serve you the same ad multiple times and help our advertisers understand what you like and do not like about their offerings so they can cater better to your needs the next time you are interested in their products or services. While we believe cookies enhance your Internet experience by limiting the number of times you see the same ad and delivering more relevant content to you, they are not required for YourDictionary to deliver you an ad.</li></ul><p>If you do not want the benefit of cookies, there is a simple procedure to delete your cookies manually. Please consult your web browser's help documentation for more information or you may opt out of advertiser cookies <a href="http://www.networkadvertising.org/managing/opt_out.asp">here</a>.</p><h3>Legal Requirements</h3><p>We may disclose your personally identifiable information as well as your IP address and other information in order to comply with court orders, subpoenas, or regulatory obligations, or when otherwise required to do so by law. We also may disclose such information in compliance with a law enforcement or other governmental request, or where we believe disclosure is necessary to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, or violations of our Terms of Use</p><h3>Contacting Us</h3><p>If you have questions about this privacy policy or the practices of this site, please contact:  LoveToKnow Corp., 1325 Howard Ave., Suite 307, Burlingame, CA 94010  E-Mail: admin at yourdictionary.com</p><p><em>YourDictionary reserves the right to change this Privacy Policy at any time, with or without notice. All changes will be posted to this page. </em></p><p></p><p></p><div class="row">
     <div class="twelve large-12 columns">
-    <ul class="breadcrumbs right">
+    <ul class="breadcrumbs right link-cite-print">
           <li><a href="javascript:void(0);" class="link-cite"><i class="icon-link"></i>Link/Cite</a></li>
         </ul>
     </div>
@@ -153,7 +137,37 @@ function load_ads()
     })();
 </script>
 <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-<a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a></div>
+<a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a><script type="text/javascript">
+	$(function(){
+		$(window).resize(function() {
+			showArticleImages();
+		});
+		
+		$(window).load(function() {
+			showArticleImages();
+		});
+		
+		function showArticleImages(){
+			if($(window).width() <= 450)
+			{
+				if($(".article_pdf_file").length > 1)
+					{	
+						var count = 0;
+						$(".article_pdf_file").each(function(){
+							if($("h2:eq("+count+")").length > 0)
+							{
+								var dataToMove = $(this).clone();
+								$(this).remove();
+								dataToMove.insertBefore($("h2:eq("+count+")"));
+							}
+							count++;
+						});
+					}
+				
+			}
+		}
+	});
+</script></div>
 <script>
 window.fbAsyncInit = function() {
   FB.init({
@@ -168,7 +182,7 @@ window.fbAsyncInit = function() {
 <div class="reveal-modal" id="QuotePopup" data-reveal="">
 </div>
 <div class="row header-container" role="banner" id="ydHeaderContainer">
-  <div class="six large-6 columns logo-header" id="YdLogoContainer"><a href="http://www.yourdictionary.com/" onclick="ga('send', 'event', {eventCategory: 'Home page from logo',eventAction: 'Click'});"><img id="YdLogoImgTag" src="http://cf.ydcdn.net/1.0.1.26/images/yd-logo-02-md-base.png"></a></div>
+  <div class="six large-6 columns logo-header" id="YdLogoContainer"><a href="http://www.yourdictionary.com/" onclick="ga('send', 'event', {eventCategory: 'Home page from logo',eventAction: 'Click'});"><img id="YdLogoImgTag" src="http://cf.ydcdn.net/1.0.1.34/images/yd-logo-02-md-base.png"></a></div>
   <div class="six large-6 columns" id="YdSearchContainer">
     <div id="top-login" class="right login-section"></div>
     <div id="main-search-container" class="section-container auto" role="search" data-section="">
@@ -176,19 +190,16 @@ window.fbAsyncInit = function() {
             <form name="searchbox" id="searchbox" class="searchcontainer" action="/search/" method="post">
             <div class="ten small-10 columns main-search">
               <input placeholder="Search YourDictionary" name="ydQ" onkeypress="make_blank_about1();" onclick="make_blank_about1();" onfocus="make_blank_about1();" type="text" id="yd_search_bar" autocomplete="off">
-			  <img src="http://cf.ydcdn.net/1.0.1.26/images/searchclear.png" class="search-clear-icon">
+			  <img src="http://cf.ydcdn.net/1.0.1.34/images/searchclear.png" class="search-clear-icon">
             </div>
-            <div class="two small-2 columns main-search"><a href="##" onclick="javascript:document.getElementById('searchbox').submit();" class="button prefix"><i class="search_icon_symbol"><img src="http://cf.ydcdn.net/1.0.1.26/images/search-white.png"></i></a></div>
+            <div class="two small-2 columns main-search"><a href="##" onclick="javascript:document.getElementById('searchbox').submit();" class="button prefix"><i class="search_icon_symbol"><img src="http://cf.ydcdn.net/1.0.1.34/images/search-white.png"></i></a></div>
             </form>
         </div>
     </div>
   </div>
   <div class="row">
     <div class="twelve large-12 columns text-center" style="margin-bottom:1em;padding:0;" id="header-ad">
-        <div id="ad-super-www"><script type="text/javascript">googletag.cmd.push(function(){googletag.display('ad-super-www');});</script></div>
-        <div id="ad-super-www"><script type="text/javascript">googletag.cmd.push(function(){googletag.display('ad-super-www');});</script></div>
-		<ins class="adsbygoogle ad-top" style="display:inline-block;clear:both" data-ad-client="ca-pub-3619764495662405" data-reactive-ad-format="1" data-ad-channel="256"></ins>
-		<script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+        <div id="ad-super-www"></div>
     </div>
   </div>
 </div>
@@ -281,7 +292,7 @@ window.fbAsyncInit = function() {
                 <li class="divider"></li>
 					<li class="has-dropdown"><a href="http://wordfinder.yourdictionary.com/" onclick="ga('send', 'event', {eventCategory: 'Wordfinder from nav',eventAction: 'Click'});">Word&nbsp;Finder</a>
                     <ul class="dropdown">
-						<li id="main_page_wordfinder_id" class="main_page"><a href="http://wordfinder.yourdictionary.com/ " onclick="ga('send', 'event', {eventCategory: 'Scrabble Wordfinder from nav',eventAction: 'Click'});">Scrabble&nbsp;Word&nbsp;Finder</a></li>
+						<li id="main_page_wordfinder_id" class="main_page"><a href="http://wordfinder.yourdictionary.com/ " onclick="ga('send', 'event', {eventCategory: 'Scrabble Wordfinder from nav',eventAction: 'Click'});">Word&nbsp;Finder</a></li>
 						<li class="divider"></li>
 						<li><a href="http://wordfinder.yourdictionary.com/4pics/ " onclick="ga('send', 'event', {eventCategory: '4 Pics from nav',eventAction: 'Click'});">4 Pics 1 Word Answers</a></li>
                         <li class="divider"></li>
@@ -295,16 +306,18 @@ window.fbAsyncInit = function() {
 			</ul>
         </section>
 		<section class="socialbreadcrumbs" id="breadcrumbs_social" style="left:0% !important;">
-		  <li class="fb_social_nav_button" id="fb_icon_id">
-			<div class="fb-like" data-href="http://www.yourdictionary.com/" data-send="false" data-layout="button_count" data-width="80" data-show-faces="false"></div>
-		  </li>
-		  <li class="google_social_nav_button">
-			<div class="g-plusone" data-size="medium" data-annotation="bubble" data-href="http://www.yourdictionary.com/"></div>
-		  </li>
-		  <li class="twitter_social_nav_button">
-			<a href="https://twitter.com/share" class="twitter-share-button" data-via="YourDictionary" data-url="http://www.yourdictionary.com" data-text="YourDictionary - The Dictionary you can understand.">Tweet</a>
-			<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
-		  </li>
+			<ul id="socialIconsList">
+			  <li class="fb_social_nav_button" id="fb_icon_id">
+				<div class="fb-like" data-href="http://www.yourdictionary.com/" data-send="false" data-layout="button_count" data-width="80" data-show-faces="false"></div>
+			  </li>
+			  <li class="google_social_nav_button">
+				<div class="g-plusone" data-size="medium" data-annotation="bubble" data-href="http://www.yourdictionary.com/"></div>
+			  </li>
+			  <li class="twitter_social_nav_button">
+				<a href="https://twitter.com/share" class="twitter-share-button" data-via="YourDictionary" data-url="http://www.yourdictionary.com" data-text="YourDictionary - The Dictionary you can understand.">Tweet</a>
+				<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+			  </li>
+			</ul>
 		</section>
     </nav>
 	<script type="text/javascript">
@@ -316,43 +329,48 @@ window.fbAsyncInit = function() {
 		}
 	</script>    </div>
   </div>
-<div class="row definition_section ">
+<div class="row definition_section www_parent ">
 
   <!-- Main Blog Content -->
   <div class="nine large-9 columns" role="main">
-<div class="row">
-    <div class="nine large-10 columns">
-    <ul class="breadcrumbs" role="navigation">
-        <li><a href="http://www.yourdictionary.com/" onclick="ga('send', 'event', {eventCategory: 'Home page from crumbs',eventAction: 'Click'});">Home</a></li>
-      <li><a href="http://www.yourdictionary.com/about.html" target="_top">About</a></li><li class="current"><a href="#">Privacy Policy</a></li>    </ul>
-    </div>
-</div>
-<ul class="socialbreadcrumbs bumpup right">
+<div class="row" id="breadCrumbAndSocial">
+    		<ul id="articlesSocial" class="socialbreadcrumbs bumpup right">
   <li><div class="fb-like" data-send="false" data-layout="box_count" data-width="450" data-show-faces="false"></div></li>
   <li><div class="g-plusone" data-size="tall" data-annotation="bubble"></div></li>
   <li><a href="https://twitter.com/share" class="twitter-share-button" data-via="YourDictionary" data-count="vertical">Tweet</a><script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script></li>
-        </ul><h1 class="left-float AbbrParagraph_h1">Privacy Policy</h1>    <div id="dictionary-data-section" class="section-container auto tab-content" data-section="">
+        </ul>		<ul class="breadcrumbs" role="navigation">
+        <li><a href="http://www.yourdictionary.com/" onclick="ga('send', 'event', {eventCategory: 'Home page from crumbs',eventAction: 'Click'});">Home</a></li>
+      <li><a href="http://www.yourdictionary.com/about.html" target="_top">About</a></li><li class="current"><a href="#">Privacy Policy</a></li>    </ul>
+	
+</div>
+
+<h1 class="left-float AbbrParagraph_h1">Privacy Policy</h1>    <div id="dictionary-data-section" class="section-container auto tab-content" data-section="">
 <div id="content_placeholder"></div>
     </div>
     <!-- end Tabbed definition area -->
-	  <!-- End Main Content -->
+	<div id="mobile_section" class="mobileDivs">
+	</div>
+  <!-- End Main Content -->
 </div>
     <!-- Sidebar -->
 
-  <aside class="three large-3 columns" role="complementary">
-    <div class="row text-center bottomGraphicAdd1 wwwPageAd1" style="margin-bottom:2em;"><div id="ad300"><div id="ad300-www"><script type="text/javascript">googletag.cmd.push(function(){googletag.display('ad300-www');});</script></div></div></div>
+  <aside class="three large-3 columns" role="complementary" style="padding-left:4px;padding-right:4px;">
+    <div class="text-center bottomGraphicAdd1 wwwPageAd1"><div id="ad300"><div id="ad300-www"></div></div></div>
 
-<div id="UserWordList_container">
-</div>
-<div class="bottom_center_div"></div>
-<div class="row text-center bottomGraphicAdd2 wwwPageAd2"><div id="YD_Definitions_BTF"><script type="text/javascript">googletag.cmd.push(function(){googletag.display('YD_Definitions_BTF');});</script></div></div>
+    <div id="UserWordList_container">
+    </div>
+<script>
+    write('<div class="text-center bottomGraphicAdd2 wwwPageAd2"><div id="YD_Definitions_BTF"></div></div>');   
+</script>
 	<div style="width: 100%;clear: both;height: 0px;"></div>
         <div class="definitionSocialRight" style="width:300px;text-align:center">
+        <a href="http://grammar.yourdictionary.com/homework-help.html"><img src="http://cf.ydcdn.net/1.0.1.34/images/howeworkhelp-promo_small.png" width="242" height="128" border="0"></a>
+    </div><div class="definitionSocialRight" style="width:300px;text-align:center">
 <h3 class="follow_yourdictionary">Follow YourDictionary</h3>
-<a href="http://www.facebook.com/YourDictionary" target="_blank" style="font-size:1.6em;line-height:1.36em;vertical-align:top;padding:.1em .35em;"><i class="icon-facebook-sign"></i></a>
-<a href="//plus.google.com/112221546412856538251?prsrc=3" rel="publisher" target="_blank" style="text-decoration:none;font-size:1.6em;line-height:1.36em;vertical-align:top;"><i class="icon-google-plus-sign"></i></a>
-<a href="http://www.pinterest.com/YourDictionary" target="_blank" style="font-size:2.4em;line-height:1.36em;vertical-align:top;padding-left:8px;color:#cb2027"><i class="icon-pinterest-sign"></i></a>
-<a href="http://www.twitter.com/YourDictionary" target="_blank" style="font-size:2.4em;line-height:1.36em;vertical-align:top;padding-left:8px;"><i class="icon-twitter-sign"></i></a>
+<a href="http://www.facebook.com/YourDictionary" target="_blank" style="font-size:1.6em;line-height:1.36em;vertical-align:top;padding:.1em .35em;"><i class="fa icon-facebook-sign"></i></a>
+<a href="//plus.google.com/112221546412856538251?prsrc=3" rel="publisher" target="_blank" style="text-decoration:none;font-size:1.6em;line-height:1.36em;vertical-align:top;"><i class="fa icon-google-plus-sign"></i></a>
+<a href="http://www.pinterest.com/YourDictionary" target="_blank" style="font-size:2.4em;line-height:1.36em;vertical-align:top;padding-left:8px;color:#cb2027"><i class="fa icon-pinterest-sign"></i></a>
+<a href="http://www.twitter.com/YourDictionary" target="_blank" style="font-size:2.4em;line-height:1.36em;vertical-align:top;padding-left:8px;"><i class="fa icon-twitter-sign"></i></a>
 <div id="follow_anchor"></div>
 </div>
 <div class="socialscrabblebottom">
@@ -377,7 +395,7 @@ window.fbAsyncInit = function() {
 </a>
 <div class="reveal-modal" id="loginModal">
 </div>
-<div id="ad11"><script type="text/javascript">googletag.cmd.push(function(){googletag.display('ad11');});</script></div>
+<div id="ad11"></div>
 <!-- Footer -->
 <script>
 write('<footer class="row pagination-centered" role="contentinfo">'+
@@ -394,7 +412,7 @@ write('<footer class="row pagination-centered" role="contentinfo">'+
 '        <li><a href="http://www.yourdictionary.com/dictionary_tools.html" onClick="ga(\'send\', \'event\', {eventCategory: \'Tools page from footer\',eventAction: \'Click\'});">Tools</a></li>    '+
 '    </ul>'+
 '<div id="bottom-login" class="right login-section twelve large-12 columns"></div>'+
-'    <p class="text-center footer_content"><small>&copy; 1996-2014 LoveToKnow, Corp. All Rights Reserved. Audio pronunciation provided by LoveToKnow, Corp.</small></p>'+
+'    <p class="text-center footer_content"><small>&copy; 1996-2015 LoveToKnow, Corp. All Rights Reserved. Audio pronunciation provided by LoveToKnow, Corp.</small></p>'+
 '  </div>'+
 '</footer>');
 </script>
@@ -544,18 +562,17 @@ write('<div id="link-cite-box" class="pop-box" style="display:none;">\
     jQuery("#content_placeholder").replaceWith(jQuery("#content_top"));
 </script>
 <!--[if lt IE 9]>
-    <script src="http://cf.ydcdn.net/1.0.1.26/css/foundation3/javascripts/foundation.min.js"></script>
-    <script src="http://cf.ydcdn.net/1.0.1.26/css/foundation3/javascripts/app.js"></script>
+    <script src="http://cf.ydcdn.net/1.0.1.34/css/foundation3/javascripts/foundation.min.js"></script>
+    <script src="http://cf.ydcdn.net/1.0.1.34/css/foundation3/javascripts/app.js"></script>
 <![endif]-->
 <!--[if gt IE 8]><!-->
-    <script src="http://cf.ydcdn.net/1.0.1.26/js/foundation.min.js"></script>
+    <script src="http://cf.ydcdn.net/1.0.1.34/js/foundation.min.js"></script>
     <script>
     jQuery(function($){
         $(document).foundation();
     });
     </script>
 <!--<![endif]-->
-<script type="text/javascript">googletag.cmd.push(function(){googletag.display('ad11');});</script>
 <script type="text/javascript">
 function querystring(key) {
    var re=new RegExp('(?:\\?|&)'+key+'=(.*?)(?=&|$)','gi');
@@ -564,11 +581,15 @@ function querystring(key) {
    return r;
 }
 </script>
-<script src="http://cf.ydcdn.net/1.0.1.26/js/login.js"></script>
-<script src="http://cf.ydcdn.net/1.0.1.26/js/common.js"></script>
+<script src="http://cf.ydcdn.net/1.0.1.34/js/login.js"></script>
+<script src="http://cf.ydcdn.net/1.0.1.34/js/common.js"></script>
 <script type="text/javascript">
+var linkClicked=false;
+var slider = null;
+var activeElement="";
 function pop_info(src, id)
 {
+   linkClicked=true;
    var link = $(src);
    var pos = link.offset();
    var width = link.width();
@@ -576,12 +597,29 @@ function pop_info(src, id)
    var box = $('#' + id);
    box.css({"left": pos.left + "px", "top": (pos.top + height + 2) + "px"});
    box.mouseleave(function(){box.hide();});
-   box.show();
+   box.toggle();
+   setTimeout(function(){
+	linkClicked=false;
+   },500)
 }
+function recalculatePosition()
+{
+	var link = $('.link-cite');
+	var pos = link.offset();
+	var width = link.width();
+	var height = link.height();
+	var box = $('#link-cite-box');
+	box.css({"left": pos.left + "px", "top": (pos.top + height + 2) + "px"});
+}
+
 $(document).click(function(e) {
-    if(e.target.id != 'link-cite-box' && $(e.target).parents("#link-cite-box").length == 0){
-		$("#link-cite-box").hide();
-    }
+	
+	if(!linkClicked)
+	{
+		if(e.target.id != 'link-cite-box' && $(e.target).parents("#link-cite-box").length == 0){
+			$("#link-cite-box").hide();
+		}
+	}
 });
 
 jQuery(function($){
@@ -592,26 +630,85 @@ $('#print_link').click(function() {
     window.print();
     return false;
 });
-var panel = querystring('panel');
-if (panel == "synonyms")
-{
-    $("#synonyms_panel").addClass('active');
-}
-if (panel == "images")
-{
-    $("#images_panel").addClass('active');
-}
+
 
 
  jQuery(function($){
-
+	activeElement=$("p.title");
+	
+	$(activeElement).on("click",function(){
+		$("section.section").removeClass("active");
+	});
+	MakeBoxesSameSize(".nearby_all",".also_mention_box");
+	MakeBoxesSameSize(".quotesTables .quoteRightTable",".quotesTables .quoteLeftTable");
+	$(window).on("orientationchange",function(){
+		MakeBoxesSameSize(".nearby_all",".also_mention_box");
+		MakeBoxesSameSize(".quotesTables .quoteRightTable",".quotesTables .quoteLeftTable");
+	});
+	$(window).resize(function() {
+		MakeBoxesSameSize(".nearby_all",".also_mention_box");
+		MakeBoxesSameSize(".quotesTables .quoteRightTable",".quotesTables .quoteLeftTable");
+		if($('#link-cite-box').length > 0)
+		{
+			recalculatePosition();
+		}
+	});
+	
+	function MakeBoxesSameSize(firstBox,secondBox)
+	{
+		
+		if($(firstBox).length > 0 && $(secondBox).length > 0 && $(window).width() > 760)
+		{
+			$(firstBox).css("height","auto");
+			$(secondBox).css("height","auto");
+			var nearby_all = $(firstBox).outerHeight();
+			var also_mention_box = $(secondBox).outerHeight();
+			if(also_mention_box >= nearby_all)
+			{
+				$(firstBox).css("height",also_mention_box+"px");
+				$(secondBox).css("height",also_mention_box+"px");
+			}
+			else if(nearby_all >= also_mention_box)
+			{
+				$(firstBox).css("height",nearby_all+"px");
+				$(secondBox).css("height",nearby_all+"px");
+			}
+			else
+			{
+				$(firstBox).css("height","258px");
+				$(secondBox).css("height","258px");
+			}
+		}
+	}
+	
 	$(document).on('change','#selectQuote',function(){
 			if($(this).val() != '')
 			{
 				document.location.href=$(this).val();
 			}
 	});
-		if(!location.hostname.match('wordfinder.') && !location.hostname.match('quotes'))
+	
+	if($('.bxslider').length > 0)
+	{	
+		ControlBoxes();
+		$(window).on("orientationchange",function(){
+			$(".bx-default-pager").hide();
+			setTimeout(function(){
+				slider.destroySlider();
+				ControlBoxes();
+			}, 300);
+		});
+		$(window).resize(function() {
+			$(".bx-default-pager").hide();
+			setTimeout(function(){
+				slider.destroySlider();
+				ControlBoxes();
+			}, 300);
+		});
+	}
+	
+		  
+	if(!location.hostname.match('wordfinder.') && !location.hostname.match('quotes'))
 	{
 		getRecentWordList();
 	}
@@ -619,6 +716,8 @@ if (panel == "images")
 	{
 		var AuthorNavUrl="http://quotes.yourdictionary.com/authors_nav/"
 		var quotesUrl="http://quotes.yourdictionary.com/";
+		var quotesThemeUrl="http://quotes.yourdictionary.com/theme/";
+		
 		$.get(AuthorNavUrl,"",function(data){
 			$("#authorNavigation").html(data);
 			var selectArr=window.location.href.split("#");
@@ -631,7 +730,11 @@ if (panel == "images")
 
 		if(location.href == quotesUrl){
 			$('.bottom_center_div').remove();
-		}else{
+		} else if((location.href == quotesThemeUrl) || (location.href.indexOf("/theme/page/") > -1)){
+			var dataToMove = $(".definitionSocialRight").clone();
+			$(".definitionSocialRight").remove();
+			dataToMove.insertBefore($(".bottomGraphicAdd2 "));
+		} else {
 		    getQuoteByTheme();
 		}
 	}
@@ -695,6 +798,176 @@ if (panel == "images")
 	}
   });
 
+  function BrowseBoxCounter()
+	{
+		$(".bx-default-pager").show();
+		var totalBoxes= $(".bx-pager-item").length;
+		var boxesToFit = Math.round($(".bx-controls").width()/$(".bx-pager-item").width());
+		var lastItem=0;
+		if(totalBoxes > boxesToFit)
+		{
+			boxesToFit=(boxesToFit-2)
+			var Seprator= Math.round(totalBoxes/boxesToFit);
+			Seprator = (Seprator == 1) ? 2 : Seprator;
+			var bx_counter=0;
+			$(".bx-pager-item").hide();
+			$(".bx-pager-item").each(function(){
+			   if((bx_counter%Seprator) == 0 || (bx_counter == ($(".bx-pager-item").length-1)))
+			   {
+				   if(bx_counter == ($(".bx-pager-item").length-1))
+					{
+						$(this).show();
+						if($(".bx-pager-item:visible").length > boxesToFit)
+						{
+							lastItem.hide();
+						}
+
+					}
+					else
+					{
+						$(this).show();
+						lastItem=$(this);
+					}
+			   }
+			   bx_counter++;
+			});
+		}
+		
+		$('.bx-default-pager').css('margin-left','-22px');
+		$('.bx-default-pager').css('width',$('.bx-wrapper').width()+40+'px');
+		if($(".bx-pager-item").length <= 1)
+		{
+			$(".bx-pager-item").hide();
+			$(".bx-wrapper").css("margin-bottom","0");
+		}
+	}
+	
+	
+	function ControlBoxes()
+	{
+		if($('.bxslider').length > 0)
+		{
+			var singleItemWidth = 100;
+			var partialAdjust = 80;
+			
+			var ShowTotal = Math.round((($(".definitions_slider").width())-($(".bx-prev").width()*2))/singleItemWidth);
+			ShowTotal = (ShowTotal == 1) ? 1 : (ShowTotal-1);
+			slider = $('.bxslider').bxSlider({
+				infiniteLoop: false,
+				responsive: true,
+				maxSlides: ShowTotal,
+				slideWidth: singleItemWidth,
+				hideControlOnEnd: true,
+				moveSlides: ShowTotal,
+				onSliderLoad: function(currentIndex){
+					$(".slider_item").css("visibility","visible");
+					$(".bxSliderLoader").remove();
+					if($(".slider_item").length <= ShowTotal)
+					{
+						$(".bx-controls").hide();
+						$(".bx-wrapper").css("margin-bottom","0");
+					}
+					
+					var totalDot = $(".bx-pager-item").length;
+					var removeIndex = 0;
+					var lastFilled=2;
+					var breakLoop=false;
+					for(var i=1; i <= totalDot; i++)
+					{
+						lastFilled=(lastFilled-1);
+						for(var j=1; j <= ShowTotal; j++)
+						{
+							if(lastFilled == $(".slider_item").length)
+							{
+								breakLoop=true;
+							}
+							
+							if(breakLoop)
+							{
+								break;
+							}
+							
+							lastFilled++;
+						}
+						
+						if(breakLoop)
+						{
+							removeIndex=(i+1);
+							break;
+						}
+						
+					}
+					
+		
+					if(removeIndex > 1)
+					{
+						$(".bx-pager-item:nth-child("+removeIndex+")").remove();
+					}
+					
+				},
+				onSlideBefore: function($slideElement, oldIndex, newIndex){
+						$(".slider_item").css("visibility","visible");
+						$(".slider_item").removeClass('hidden');
+						$(".slider_item").removeClass('visible');
+						if ( !$('.bx-clone').is(":visible") ) {
+							$('.bx-clone').show();
+						}
+				},
+				onSlideAfter: function($slideElement, oldIndex, newIndex){
+					var mainOffsetLeft = $(".bx-viewport").offset().left;
+					var mainOffsetRight = mainOffsetLeft+$(".bx-viewport").width();
+					
+					$(".slider_item").css("visibility","visible");
+					$(".slider_item").each(function(){
+						var currItemOffsetLeft = $(this).offset().left;
+						var currItemOffsetRight = currItemOffsetLeft+partialAdjust;
+						if(((currItemOffsetLeft) < mainOffsetLeft) || (currItemOffsetRight > mainOffsetRight))
+						{
+							$(this).addClass('hidden');
+							$(this).css("visibility","hidden");
+						}
+						else
+						{
+							$(this).addClass('visible');
+						}
+					});
+					
+					var lastItem = $('.slider_item.visible:first').offset().left;
+					var nextItem = $(".bx-viewport").offset().left;
+					var setTransform= ((lastItem-mainOffsetLeft));
+					
+					// Replace with transform, if supported
+					if('WebkitTransform' in document.body.style) 
+					{
+						var CurrentTransformValue = eval($('.bxslider').css('transform'));
+						var transformVal= "translate3d(" + (CurrentTransformValue-setTransform) + "px, 0, 0)";
+						$('.bxslider').css('-webkit-transform',transformVal);
+					}
+					else if('transform' in document.body.style) 
+					{
+						var CurrentTransformValue = eval($('.bxslider').css('transform'));
+						var transformVal= "translate3d(" + (CurrentTransformValue-setTransform) + "px, 0, 0)";
+						$('.bxslider').css('transform',transformVal);
+						$('.bxslider').css('-ms-transform',transformVal);
+						$('.bxslider').css('-moz-transform',transformVal);
+					}
+					else
+					{
+						var CurrentTransformValue = $('.bxslider').css('left').replace("px","");
+						if($m('.slider_item.visible:first').offset().left != undefined)
+						{
+							$('.bxslider').css('left',(CurrentTransformValue)+"px");
+						}
+					}
+				}
+			});
+		}
+		BrowseBoxCounter();
+	}
+	
+	$(document).on('click','.bx-pager-item:last',function(){
+		$('.bx-next').addClass('disabled');
+	});
 
   (function(d){
 		var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
@@ -709,11 +982,61 @@ if (panel == "images")
 
 	}(document));
 
+    function load_ads()
+    {
+       var myWidth = window.innerWidth || document.documentElement.clientWidth;
+       
+       for(var i = 0; i < yd_ads.length; i++)
+       {
+          var ad = yd_ads[i];
+          for(var j = 0; j < ad.s.length; j++)
+          {
+             var size = ad.s[j];
+             if(myWidth >= size.minw && myWidth <= size.maxw)
+             {
+                 ad.display = true;
+                 googletag.defineSlot('/1004147/' + ad.n, size.c, ad.i).addService(googletag.pubads());
+                 break;
+             }
+          }
+       }
+       googletag.pubads().set("page_url", location.href);
+       googletag.pubads().collapseEmptyDivs();
+       googletag.pubads().enableSingleRequest();
+       googletag.enableServices();
+    }
+    function display_ads()
+    {
+       for(i = 0; i < yd_ads.length; i++)
+       {
+          var ad = yd_ads[i];
+          if(ad.display)
+          {
+             googletag.cmd.push(function(){googletag.display(ad.i);});
+          }
+       }
+    }    
 </script>
 <img id="myIFrame" src="" style="display:none;">
 <div class="fixed-top-flash-message"></div>
-<!-- CACHED Fri, 31 Oct 2014 05:44:14pm PDT -->
 <script type="text/javascript">
+    googletag.cmd.push(load_ads);
+</script>
+<script type="text/javascript">
+    googletag.cmd.push(display_ads);
+</script>
+<!-- CACHED Tue, 16 Jun 2015 07:33:34am PDT -->
+<script type="text/javascript">
+function detectBrowser(){
+	var N= navigator.appName;
+	var UA= navigator.userAgent;
+	var temp;
+	var browserVersion= UA.match(/(opera|chrome|safari|firefox|msie|Trident)\/?\s*(\.?\d+(\.\d+)*)/i);
+	if(browserVersion && (temp= UA.match(/version\/([\.\d]+)/i))!= null)
+	browserVersion[2]= temp[1];
+	browserVersion= browserVersion? [browserVersion[1]]: "";
+	return browserVersion.toString();
+};
 if($(window).width() < 700)
 {
 	//change mobile logo
@@ -722,6 +1045,27 @@ if($(window).width() < 700)
 	$("#YdLogoImgTag").attr('src',MobileSrc);
 }
 $(function(){
+        var myWidth = window.innerWidth || document.documentElement.clientWidth;   
+        if (myWidth < 764)
+        {
+            $('<div class="close">×</div>').appendTo('#header-ad').click(function(){$(this).parent().fadeOut()});
+        }
+		$('input').placeholder();
+		var browserName = detectBrowser();
+		
+		if(browserName.length < 15)
+		{
+			var BodyClassName = browserName.toLowerCase();
+			$("body").addClass(BodyClassName);
+		}
+		$(document).on("click",".ui-menu-item",function(){
+			if($(this).parents("ul").find(".author_li").length > 0)
+			{
+				setTimeout(function(){
+					$("#quote_Search_form").submit();
+				},300);
+			}
+		});
 		var is_touch_device = (!!('ontouchstart' in window) || !!('onmsgesturechange' in window));
 
 		if(is_touch_device)
@@ -733,10 +1077,10 @@ $(function(){
 			});
 		}
 
-		if($(window).width() < 700)
+        if(myWidth < 700)
 		{
 			var source = '#mobile_section';
-			var OrderBoxes=[".bottomGraphicAdd1",".examplesBox",".synonym_box",".quotesBox",".relatedArticles",".disqusBox",".bottomGraphicAdd2","#UserWordList_container",".definitionSocialRight",".socialscrabblebottom",".mentionedIn",".nearbyBox"];
+			var OrderBoxes=[".bottomGraphicAdd1",".socialscrabblebottom",".examplesBox",".synonym_box",".quotesBox",".relatedArticles",".disqusBox",".bottomGraphicAdd2","#UserWordList_container",".funny_quote_section",".definitionSocialRight",".mentionedIn",".nearbyBox"];
 			if($(source).length > 0) {
 				var MainBox="";
 				OrderBoxes.map(function(target){
@@ -748,6 +1092,13 @@ $(function(){
 					}
 				})
 			}
+			
+            if($('#first_definition_end').length > 0 && $('.bottomGraphicAdd2').length > 0)
+            {
+                var dataToMove = $(".bottomGraphicAdd2").clone();
+                $(".bottomGraphicAdd2").remove();
+                dataToMove.insertBefore($("#first_definition_end"));
+            }
 			if($('.examplesBox').length > 0 && $('.thesaurusPageAd1').length > 0)
 			{
 				var dataToMove = $(".thesaurusPageAd1").clone();
@@ -766,11 +1117,6 @@ $(function(){
 				$(".sentencePageAd1").remove();
 				dataToMove.appendTo($("#bottomSentencePageAd"));
 				$("#bottomSentencePageAd").show();
-			}
-			
-			if($('.definitionPageAd').length > 0)
-			{
-				$('.definitionPageAd').remove();
 			}
 			if($("#mobile-ad-quotes").length > 0)
 			{
@@ -808,14 +1154,14 @@ $(function(){
 		{
 			 $("#"+field+"").autocomplete({
 				source: function(request,response){
-					var searchedItem=$("#"+field+"").val();
-					if(searchedItem.length>2)
+					var searchedItem = $("#"+field+"").val();
+					if(searchedItem.length > 2)
 					{
 						if(field == "yd_search_bar")
 						{
 							$(".search-clear-icon").show();
 						}
-						$.getJSON("/keywordhelp/"+searchedItem+"/", function(data) {
+						$.getJSON("/keywordhelp/" + searchedItem + "/", function(data) {
 						var suggestions = [];
 						response( $.map( data, function( item ) {
 								return {
@@ -827,7 +1173,7 @@ $(function(){
 					}
 			},
 			minLength: 3,
-            delay: 500,
+            delay: 100,
 			select :function(e,ui) {
 			$("#"+field+"").val(ui.item.value);
 					if(field=="sub_dictionary_search")
@@ -850,10 +1196,10 @@ $(function(){
 			$('#search_term').autocomplete({
 				source: function(request,response){
 
-				var searchedItem = $('#search_term').val().trim();
+				var searchedItem = $('#search_term').val().trim().replace(/\./g, "|");
 				if(searchedItem.length > 2)
 				{
-					$.getJSON("/quote/keywords/"+searchedItem+"/", function(data) {
+                    $.getJSON("/quote/keywords/"+encodeURIComponent(searchedItem)+"/", function(data) {
 						var suggestions = [];
 						response( $.map( data, function( item ) {
 							return {
@@ -876,8 +1222,62 @@ $(function(){
 			   }
 			});
 		}
+		
+		GoogleCustomSearch();
+		$(".has-dropdown").click(function(){
+			if($(window).width() < 700)
+			{
+				setTimeout(function(){
+					if($(".top-bar li.moved").length > 0)
+					{
+						$("#breadcrumbs_social").css({"position":"absolute","z-index":"99"});
+						$("#breadcrumbs_social").css("top",$("li.last_index").position().top);
+						$("#breadcrumbs_social").css("left","");
+					}
+					else
+					{
+						$("#breadcrumbs_social").css({"position":"static","z-index":"99"});
+						$("#breadcrumbs_social").css("top",$("li.last_index").position().top);
+						$("#breadcrumbs_social").css("left","");
+					}
+				}, 500);
+			}
+		});	
 });
 
-</script>
+$(window).load( function() {
+	if($('.gsc-search-button .prefix').length == 0)
+	{
+		GoogleCustomSearch();
+	}
+});
+var myWidth = window.innerWidth || document.documentElement.clientWidth;
+if (myWidth <= 727) {
+    $('input, textarea').bind('focus', function(e) {
+        $("#header_ad").hide();
+    });
+    $('input, textarea').bind('blur', function(e) {
+        $("#header_ad").show();
+    });
+}
+function GoogleCustomSearch()
+{
+   if($('.gsc-search-box').length > 0)
+		{
+		   $('.prefix').clone().appendTo('.gsc-search-button');
+		   $('.gsc-search-button .prefix').css({'padding':'auto','height':'30px','width':'45px'});
+		   $('.gsc-search-button .prefix .search_icon_symbol img').css({'margin-top':'4px','width':'20px'});
+		   $('.gsc-search-button .prefix').attr('onClick','');
+		   $('.gsc-search-button .prefix').click(function(){
+			   $('.gsc-search-button .gsc-search-button').trigger('click');
+		   });
+		   $('.gsc-clear-button .gsc-clear-button').clone().appendTo('.gsc-input');
+		   $('.gsc-input .gsc-clear-button').css({'float':'right','margin-top':'-34px','cursor':'pointer','position':'relative'});
+		   $('.gsc-input .gsc-clear-button').click(function(){
+			  $('.gsc-clear-button .gsc-clear-button').trigger('click');
+		   });
+		}
+}
 
+</script>
 </body></html>
