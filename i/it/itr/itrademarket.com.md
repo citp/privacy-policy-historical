@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the itrademarket.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120124226id_/http%3A//www.itrademarket.com/help-0317.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itrademarket.com privacy policy that was archived on 2015-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150622220408id_/http%3A//www.itrademarket.com/help-0317.html) for the most accurate reproduction.*
 
 # Help Center - Itrademarket.com
 
