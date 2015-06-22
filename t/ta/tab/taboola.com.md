@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the taboola.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231021458id_/http%3A//www.taboola.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the taboola.com privacy policy that was archived on 2015-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150622194410id_/http%3A//www.taboola.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Taboola - Content you may like
+# Privacy Policy | Taboola | Drive Traffic and Monetize Your Site
 
 We take your privacy very seriously and are committed to being transparent with how we use your information.  This website is run by Taboola (collectively “We” or “us”).
 
@@ -112,4 +112,4 @@ Our website and associated services are hosted in the United States.  If you ar
 
 Our Privacy Policy may change from time to time. We will post any privacy policy changes on this page and, if the changes are significant, we will provide a more prominent notice (including, for certain services, email notification of privacy policy changes).
 
-You are currently:  Opt in You have **Opted in** to tracking, Taboola will serve you personalized recommendation based on your history. You have **Opted out** of tracking, Taboola will no longer collect personal information about you.
+You are currently: Opted In Opt in You have **Opted in** to tracking, Taboola will serve you personalized recommendation based on your history. You have **Opted out** of tracking, Taboola will no longer collect personal information about you.
