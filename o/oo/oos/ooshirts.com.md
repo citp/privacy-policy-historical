@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ooshirts.com privacy policy that was archived on 2014-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141219141451id_/http%3A//www.ooshirts.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ooshirts.com privacy policy that was archived on 2015-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150622110114id_/http%3A//www.ooshirts.com/privacy) for the most accurate reproduction.*
 
 # ooShirts Privacy Policy
 
@@ -72,7 +72,7 @@ We use emails and/or prominent notifications on our website as our primary means
 
  _Service-Related Announcements._
 
-When place an order at [http://ooshirts.com](http://www.ooshirts.com/), we use the email address provided during order placement to deliver important Service-related communications to you. These Service-related communications are considered a fundamental part the ooShirts Service, and you cannot opt-out of these email communications.
+When you place an order at [http://ooshirts.com](http://www.ooshirts.com/), we use the email address provided during order placement to deliver important Service-related communications to you. These Service-related communications are considered a fundamental part the ooShirts Service, and you cannot opt-out of these email communications.
 
 **On Our Website**
 
