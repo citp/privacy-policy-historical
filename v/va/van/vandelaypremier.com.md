@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vandelaypremier.com privacy policy that was archived on 2014-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141226030043id_/http%3A//vandelaydesign.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vandelaypremier.com privacy policy that was archived on 2015-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150622051707id_/http%3A//www.vandelaydesign.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Vandelay Design
 
