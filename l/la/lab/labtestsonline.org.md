@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the labtestsonline.org privacy policy that was archived on 2014-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141007000007id_/http%3A//labtestsonline.org/site/policies%3Fstart%3D4) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the labtestsonline.org privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623012225id_/http%3A//labtestsonline.org/site/policies%3Fstart%3D4) for the most accurate reproduction.*
 
 # Policies
 
@@ -9,7 +9,7 @@ This Privacy Policy ("Policy") describes our policies with respect to informatio
 By visiting the Website, you are accepting the practices described in this Policy.
 
 _Privacy Policy Support_  
-If you have an inquiry or concern about our Policy, please contact Beth Hampton at [bhampton@aacc.org](mailto:bhampton@aacc.org).
+If you have an inquiry or concern about our Policy, please contact Dominique Smith at [dsmith@aacc.org](mailto:dsmith@aacc.org).
 
 _Changes in this Policy_  
 AACC may amend this Policy at any time without notice. Your use of the Website after changes to this Policy means that you are accepting such changes. Please visit our Website to obtain current information about our Policy.
@@ -38,7 +38,7 @@ We may also transfer user or customer information, including personally identifi
 We may disclose specific information in response to a valid court order, subpoena, government investigation, or as otherwise required by law, to enforce our Website policies, or to protect our or others' rights, property, or safety. We reserve the right to report to law enforcement agencies any activities that we, in good faith, believe to be unlawful. We may share information to prevent illegal uses of the Website, or defend ourselves against third-party claims. We may also share information with companies assisting in fraud protection or investigation. We do not provide information to these agencies or companies for marketing or commercial purposes.
 
 _Opt Out or Change Information_  
-If you do not want to receive email from us, or you want to prevent your information from being used for purposes other than those for which it was originally collected, please let us know by sending an email to Beth Hampton at [bhampton@aacc.org](mailto:bhampton@aacc.org). Due to production, mailing, and system timelines, it may take some time to process your request. In addition, we may still use your information to communicate with you for other purposes, such as for customer service.
+If you do not want to receive email from us, or you want to prevent your information from being used for purposes other than those for which it was originally collected, please let us know by sending an email to Dominique Smith at [dsmith@aacc.org](mailto:dsmith@aacc.org). Due to production, mailing, and system timelines, it may take some time to process your request. In addition, we may still use your information to communicate with you for other purposes, such as for customer service.
 
 _Children_  
 We do not knowingly solicit or collect information from persons under the age of 18. We do not have a mechanism for determining the age of the visitors to our Website.
