@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the educationplanner.org privacy policy that was archived on 2014-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141212204110id_/http%3A//www.pheaa.org/about/privacy-policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the educationplanner.org privacy policy that was archived on 2015-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150622132148id_/http%3A//www.pheaa.org/about/privacy-policy.shtml) for the most accurate reproduction.*
 
 # Privacy Policy
 
