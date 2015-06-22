@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the humblebundle.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230042947id_/https%3A//www.humblebundle.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the humblebundle.com privacy policy that was archived on 2015-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150622051704id_/https%3A//www.humblebundle.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Effective Date: April 25, 2014 
+Effective Date: May 14, 2015 
 
 Your privacy is important, so Humble Bundle, Inc. ("Humble Bundle," "we," "us," or "our") has created the following Privacy Policy to let users of [humblebundle.com](https://web.archive.org/) or Humble Bundle’s mobile application (individually and collectively, the “Service”), know what information we collect when you visit the Service, why we collect it, and how it is used. This Privacy Policy explains the data collection and use practices of the Service; it does not apply to other online or offline Humble Bundle sites, products or services. The terms "you," "your," and "yours" refer to the customer/purchaser utilizing our Service. This Privacy Policy is governed by our [Terms and Conditions](https://web.archive.org/terms). By using the Service, you consent to the data practices prescribed in this Privacy Policy. We may periodically make changes to this Privacy Policy that we will include on this page. It is your responsibility to review this Privacy Policy and remain informed about any changes to it, so we encourage you to visit this page often. If a material change is made to this Privacy Policy, then Humble Bundle will post a notice on [humblebundle.com](https://web.archive.org/). Capitalized terms that are not defined in this Privacy Policy have the meaning given them in our [Terms and Conditions](https://web.archive.org/terms). 
 
