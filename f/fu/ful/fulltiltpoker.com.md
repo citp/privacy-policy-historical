@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the fulltiltpoker.com privacy policy that was archived on 2014-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140705043228id_/http%3A//www.fulltiltpoker.com/about-us/legal-information/terms/privacy-legal) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fulltiltpoker.com privacy policy that was archived on 2015-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150622064806id_/http%3A//www.fulltilt.com/about-us/legal-information/terms/privacy-legal) for the most accurate reproduction.*
 
 # Online Poker at Full Tilt Poker - Legal Information: Privacy
 
-Your privacy is very important to Rational FT Enterprises Limited (referred to herein as " **Full Tilt Poker** ", " **we** " or " **us** "), the owner and operator of the website located at www.fulltiltpoker.com (the " **Site** "). We are committed to maintaining the confidentiality of the personal information collected by us in order to allow you to enjoy playing poker online at the Site, by safeguarding it utilizing the best in class software and hardware architecture, techniques, methods and procedures. We will comply with the terms of the Isle of Man's Data Protection Act 2002 when processing your personal information.
+Your privacy is very important to Rational FT Enterprises Limited (referred to herein as " **Full Tilt** ", " **we** " or " **us** "), the owner and operator of the website located at www.fulltilt.com (the " **Site** "). We are committed to maintaining the confidentiality of the personal information collected by us in order to allow you to enjoy playing poker online at the Site, by safeguarding it utilizing the best in class software and hardware architecture, techniques, methods and procedures. We will comply with the terms of the Isle of Man's Data Protection Act 2002 when processing your personal information.
 
 * **Consent to Privacy Policy**
 
-By using the Service, you agree to the terms of this Privacy Policy. We reserve the right to amend this Privacy Policy and changes will come into effect immediately upon such change being notified on the Site. Your continued use of the Service constitutes your agreement to this Privacy Policy and any amendments. Our Terms & Conditions, see [www.fulltiltpoker.com/about-us/legal-information/terms](https://web.archive.org/about-us/legal-information/terms), take precedence over any conflicting provision of this Privacy Policy. Unless otherwise defined herein, capitalised terms shall have the meaning given to them in our Terms & Conditions.
+By using the Service, you agree to the terms of this Privacy Policy. We reserve the right to amend this Privacy Policy and changes will come into effect immediately upon such change being notified on the Site. Your continued use of the Service constitutes your agreement to this Privacy Policy and any amendments. Our Terms & Conditions, see [www.fulltilt.com/about-us/legal-information/terms](https://web.archive.org/about-us/legal-information/terms), take precedence over any conflicting provision of this Privacy Policy. Unless otherwise defined herein, capitalised terms shall have the meaning given to them in our Terms & Conditions.
 
 The purpose of this Privacy Policy is to enable you to understand how we collect, store, use and safeguard your personal information and for you to understand your rights in relation to that information.
 
@@ -15,6 +15,7 @@ The purpose of this Privacy Policy is to enable you to understand how we collect
   * Confidentiality
   * Limits of Confidentiality
   * Who receives your information?
+  * Direct Marketing
   * Your rights in relation to your information
   * Cookies
   * Who are we?
@@ -68,29 +69,33 @@ Users are able to change account details by selecting an account option in the d
 
 * **Deposit and withdrawal processing**
 
-In the course of making a deposit, Users will need to provide deposit method information (example: credit card number). This information in conjunction with your other personal information might be used to clear financial transactions executed by you with Full Tilt Poker. You are required to advise us of any relevant changes to your personal information.
+In the course of making a deposit, Users will need to provide deposit method information (example: credit card number). This information in conjunction with your other personal information might be used to clear financial transactions executed by you with Full Tilt. You are required to advise us of any relevant changes to your personal information.
 
 * **Confidentiality**
 
-Full Tilt Poker has undertaken substantial efforts to protect the confidentiality of the identity, preferences and other information it has collected about individual Users and will not knowingly allow access to this information to anyone outside Full Tilt Poker, other than to the User or as described in this Privacy Policy. Full Tilt Poker has made a substantial investment in its server, database, backup, firewall and encryption technologies to protect the information collected by Full Tilt Poker. These technologies are deployed as part of state of the art security architecture, see [www.fulltiltpoker.com/real-money-poker/security](https://web.archive.org/real-money-poker/security).
+Full Tilt has undertaken substantial efforts to protect the confidentiality of the identity, preferences and other information it has collected about individual Users and will not knowingly allow access to this information to anyone outside Full Tilt, other than to the User or as described in this Privacy Policy. Full Tilt has made a substantial investment in its server, database, backup, firewall and encryption technologies to protect the information collected by Full Tilt. These technologies are deployed as part of state of the art security architecture, see [www.fulltilt.com/real-money-poker/security](https://web.archive.org/real-money-poker/security).
 
 You should also do your part in protecting your information. Your Login Credentials are confidential and you are obliged to keep your Login Credentials secret and confidential at all times and to use your best efforts to protect their secrecy and confidentiality.
 
 * **Limits of Confidentiality**
 
-Legally Required Disclosures: Due to the legal, regulatory and security environment in which we operate, Full Tilt Poker may be required, under certain circumstances, to disclose personally identifiable information about our Users and we may not be permitted to inform you that we have done so. Full Tilt Poker will use reasonable endeavours to limit such disclosure to the following: where Full Tilt Poker believes in good faith that it is required to do so in response to a subpoena, warrant or other legal process; or where reasonably necessary to identify, contact or bring legal action against persons or entities to preserve and/or enforce Full Tilt Poker's rights. Further, we can, and you authorize us to, disclose your User identification, name, street address, city, state, post code, country, phone number, email, and company information plus details of financial instruments used to deposit and cashout to third party agents of Full Tilt Poker or official government bodies as we, in our sole discretion, believe necessary or appropriate in connection with an investigation of fraud, intellectual property infringement, piracy or other unlawful activity or activity that may expose us to legal liability.
+Legally Required Disclosures: Due to the legal, regulatory and security environment in which we operate, Full Tilt may be required, under certain circumstances, to disclose personally identifiable information about our Users and we may not be permitted to inform you that we have done so. Full Tilt will use reasonable endeavours to limit such disclosure to the following: where Full Tilt believes in good faith that it is required to do so in response to a subpoena, warrant or other legal process; or where reasonably necessary to identify, contact or bring legal action against persons or entities to preserve and/or enforce Full Tilt's rights. Further, we can, and you authorize us to, disclose your User identification, name, street address, city, state, post code, country, phone number, email, and company information plus details of financial instruments used to deposit and cashout to third party agents of Full Tilt or official government bodies as we, in our sole discretion, believe necessary or appropriate in connection with an investigation of fraud, intellectual property infringement, piracy or other unlawful activity or activity that may expose us to legal liability.
 
 * **Who receives your information?**
 
-In addition to legally required disclosures as explained in this Privacy Policy, we may disclose your personal information to our employees, employees of other companies in our corporate group, our agents and to third party service providers who use your personal information to provide services to us in respect of your being a User with Full Tilt Poker. 
+In addition to legally required disclosures as explained in this Privacy Policy, we may disclose your personal information to our employees, employees of other companies in our corporate group, our agents and to third party service providers who use your personal information to provide services to us in respect of your being a User with Full Tilt. 
 
-We may combine your personal information collected from your use of the Service in accordance with this Privacy Policy with other information collected from you using other services operated by Full Tilt Poker or any other member of the Group including, but not limited to online poker websites operated under the brands "Full Tilt Poker" (including the Site) and "PokerStars" as well as all products which are related or ancillary thereto, including mobile and social networking services. We will treat this combined information in accordance with, and will use it for the purposes set out in this Policy.
+We may combine your personal information collected from your use of the Service in accordance with this Privacy Policy with other information collected from you using other services operated by Full Tilt or any other member of the Group including, but not limited to online poker websites operated under the brands "Full Tilt", "Full Tilt Poker" (including the Site) and "PokerStars" as well as all products which are related or ancillary thereto, including mobile and social networking services. We will treat this combined information in accordance with, and will use it for the purposes set out in this Policy.
 
 All recipients of your personal information shall be bound by applicable data protection laws to keep your personal information private at no less a level than that by which we are bound.
 
+* **Direct Marketing**
+
+We may use your email address and phone number for the purpose of providing you with news, promotions and other marketing offers from our Group. We may also share your email address and phone number with our marketing partners for the purpose of providing you with marketing offers. Out of respect for your right to privacy we have provided you with an easy means by which you may stop receiving marketing offers via email and telephone from us or from our partners and affiliates. You may request at any time to no longer receive such offers by changing your subscriptions through the Email Control Panel in the My Promotions section of your downloaded software or by sending a blank message with the word "Remove" in the subject area to [support@fulltilt.com](mailto:support@fulltilt.com). If you request to discontinue receiving these offers we will remove your details from our marketing distribution lists and from any future lists we may share with our marketing partners. However, you may need to unsubscribe separately from marketing offers sent by partners who have received your contact details from us prior to your request to be removed from these lists.
+
 * **Your rights in relation to your information**
 
-We aim to keep our information about you as accurate as possible. You can write to us at any time to review, change, obtain a copy of your information or have your details altered or corrected in accordance with your rights under the Isle of Man's Data Protection Act 2002 and in this event we may require evidence of your identity. In order to contact us regarding your information please email [support@fulltiltpoker.com](mailto:support@fulltiltpoker.com). We may in certain circumstances levy a small charge to cover the cost of administration regarding any request made by you in this regard.
+We aim to keep our information about you as accurate as possible. You can write to us at any time to review, change, obtain a copy of your information or have your details altered or corrected in accordance with your rights under the Isle of Man's Data Protection Act 2002 and in this event we may require evidence of your identity. In order to contact us regarding your information please email [support@fulltilt.com](mailto:support@fulltilt.com). We may in certain circumstances levy a small charge to cover the cost of administration regarding any request made by you in this regard.
 
 * **Cookies**
 
@@ -108,4 +113,4 @@ King Edward Road
 Onchan  
 Isle of Man  
 IM3 1DZ  
-Privacy Policy last revised: 12 March 2013
+Privacy Policy last revised: 8 July 2014
