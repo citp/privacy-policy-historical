@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the junkmail.co.za privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630034626id_/http%3A//www.junkmail.co.za/help/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the junkmail.co.za privacy policy that was archived on 2015-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150622061314id_/http%3A//www.junkmail.co.za/help/privacy-policy) for the most accurate reproduction.*
 
-# Junk Mail Help - Privacy Policy | Junk Mail Help -
+# Junk Mail Help – Privacy Policy | Junk Mail Help -
 
 **Junk Mail Digital Privacy Statement**
 
 Junk Mail Digital is committed to protecting your privacy and developing technology that gives you a powerful and safe online experience. This Statement of Privacy applies to the Junk Mail Digital Web (www.junkmail.co.za) site and governs data collection and usage. By using the Junk Mail Digital website, you consent to the data practices described in this statement.
 
 **Collection of your Personal Information**  
-Junk Mail Digital collects personally identifiable information during the optional registration and ad placement processes, such as your e-mail address, name, home or work address or telephone number. Junk Mail Digital also collects anonymous demographic information, which is not unique to you, such as your postal code, age, gender, preferences, interests and favourites.
+Junk Mail Digital collects personally identifiable information during the optional registration, responding to adverts and advert placement processes, such as your e-mail address, name, home or work address or telephone number. Junk Mail Digital also collects anonymous demographic information, which is not unique to you, such as your postal code, age, gender, preferences, interests and favourites.
 
 There is also information about your computer hardware and software that is automatically collected by Junk Mail Digital. This information can include: your IP address, browser type, domain names, access times and referring Web site addresses. This information is used by Junk Mail Digital for the operation of the service, to maintain quality of the service, and to provide general statistics regarding use of the Junk Mail Digital Web site.
 
@@ -18,7 +18,7 @@ Junk Mail Digital encourages you to review the privacy statements of Web sites y
 **Use of your Personal Information**  
 Junk Mail Digital collects and uses your personal information to operate the Junk Mail Digital Web site and deliver the services you have requested. Junk Mail Digital also uses your personally identifiable information to inform you of other products or services available from Junk Mail Digital and its affiliates. Junk Mail Digital may also contact you via surveys to conduct research about your opinion of current services or of potential new services that may be offered.
 
-Junk Mail Digital does not sell, rent or lease its customer lists to third parties. Junk Mail Digital may, from time to time, contact you on behalf of external business partners about a particular offering that may be of interest to you. In those cases, your unique personally identifiable information (e-mail, name, address, telephone number) is not transferred to the third party. In addition, Junk Mail Digital may share data with trusted partners to help us perform statistical analysis, send you email or postal mail, provide customer support, or arrange for deliveries. All such third parties are prohibited from using your personal information except to provide these services to Junk Mail Digital, and they are required to maintain the confidentiality of your information.
+Junk Mail Digital does not sell, rent or lease its customer lists to third parties. Junk Mail Digital may, from time to time, contact you on behalf of external (third party) business partners about a particular offering that may be of interest to you. In those cases, your unique personally identifiable information (e-mail, name, address, telephone number) is not transferred to the third party. In addition, Junk Mail Digital may share data with trusted partners to help us perform statistical analysis, send you email or postal mail, provide customer support, or arrange for deliveries. All such third parties are prohibited from using your personal information except to provide these services to Junk Mail Digital, and they are required to maintain the confidentiality of your information.
 
 Junk Mail Digital does not use or disclose sensitive personal information, such as race, religion, or political affiliations, without your explicit consent.
 
