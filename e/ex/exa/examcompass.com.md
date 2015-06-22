@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the examcompass.com privacy policy that was archived on 2014-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141219003831id_/http%3A//www.examcompass.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the examcompass.com privacy policy that was archived on 2015-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150622142819id_/http%3A//www.examcompass.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -40,7 +40,7 @@ Third-party vendors may use cookies, JavaScript, or web beacons to collect data 
 
 Please note that the Site has no access to or control over the cookies that are used by third-parties. Please consult the respective privacy policies of these third-party vendors for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. This Policy does not apply to and We cannot control the activities of such other advertisers or websites.
 
-You can generally opt-out of cookies from third-party advertisers and ad networks by visiting their the Sites (if the advertiser or ad network offers this capability). It is also possible to opt out of some, but not all, of these cookies in one location at the [Network Advertising Initiative (NAI)](http://www.networkadvertising.org/managing/opt_out.asp), or [Digital Advertising Alliance (DAA)](http://www.aboutads.info/choices/) opt-out web pages.
+You can generally opt-out of cookies from third-party advertisers and ad networks by visiting their Sites (if the advertiser or ad network offers this capability). It is also possible to opt out of some, but not all, of these cookies in one location at the [Network Advertising Initiative (NAI)](http://www.networkadvertising.org/managing/opt_out.asp), or [Digital Advertising Alliance (DAA)](http://www.aboutads.info/choices/) opt-out web pages.
 
 If You wish to disable cookies, you may do so through individual Internet browser options. More detailed information about cookie management with specific web browsers can be found at [www.aboutcookies.org](http://www.aboutcookies.org/Default.aspx?page=1), or at the browsers' respective websites.
 
