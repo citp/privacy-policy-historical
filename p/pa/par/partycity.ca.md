@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the partycity.ca privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121104956id_/http%3A//www.partycity.ca/category/customer%2Bservice/privacy%2B%2526%2Bsecurity.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the partycity.ca privacy policy that was archived on 2015-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150622092923id_/http%3A//www.partycity.ca/category/customer%2Bservice/privacy%2B%2526%2Bsecurity.do) for the most accurate reproduction.*
 
 # Privacy & Security - Customer Service - Party City Canada
 
