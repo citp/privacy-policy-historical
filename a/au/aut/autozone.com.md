@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the autozone.com privacy policy that was archived on 2014-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141226030829id_/http%3A//www.autozone.com/termsandconditions/termsAndConditionsHome.jsp%3FleftNavPage%3DprivacyPolicy%26pageCategory%3DprivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autozone.com privacy policy that was archived on 2015-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150622052549id_/http%3A//www.autozone.com/termsandconditions/termsAndConditionsHome.jsp%3FleftNavPage%3DprivacyPolicy%26pageCategory%3DprivacyPolicy) for the most accurate reproduction.*
 
 # AutoZone.com | Privacy Policy
 
@@ -19,6 +19,7 @@ AutoZone transmits non-personally identifiable user information about visitors t
 AutoZone may share personal customer information provided to AutoZone with third parties who provide services and products to AutoZone. Examples of ways in which your information may be used include, but are not limited to, the following:
 
   * Order fulfillment
+  * Redeeming AutoZone Gift Cards or AutoZone Merchandise Credits
   * Marketing activities including direct mail, e-mail, database cleaning and maintenance, and analysis
   * Customer experience enhancements
   * Warranty management
@@ -47,4 +48,4 @@ From time to time, AutoZone may modify this Privacy Policy. AutoZone will notify
 
 #### How to Contact Us
 
-If you have questions about this privacy statement, the practices of this site or your dealings with this site, please contact AutoZone via [e-mail.](https://web.archive.org/contactus/contactUs.jsp;jsessionid=14E14AEF2AAE274E743222BC69451596.diyprod2-b2c3 "Contact Us")
+If you have questions about this privacy statement, the practices of this site or your dealings with this site, please contact AutoZone via [e-mail.](https://web.archive.org/contactus/contactUs.jsp "Contact Us")
