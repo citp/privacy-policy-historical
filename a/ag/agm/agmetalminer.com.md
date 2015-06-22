@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the agmetalminer.com privacy policy that was archived on 2013-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131216130934id_/http%3A//agmetalminer.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the agmetalminer.com privacy policy that was archived on 2015-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150622090634id_/http%3A//agmetalminer.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Steel, Aluminum, Copper, Stainless, Rare Earth, Metal Prices, Forecasting | MetalMiner
 
 This Web Site Privacy Statement (Privacy Statement) tells our visitors (You) about: a) The information Metal Miner and Azul Partners Inc. collects through our website(s), www.azulpartners.com, www.agmetalminer.com, www.spendmatters.com and related web sites (the Site(s)); b) Certain services available on our Site(s) including the diagnostic tools; c) How we use that information; and d) How You can choose to opt out of some of these practices.
 
