@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the appbrain.com privacy policy that was archived on 2014-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140624225425id_/http%3A//www.appbrain.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appbrain.com privacy policy that was archived on 2015-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150622051927id_/http%3A//www.appbrain.com/info/privacy) for the most accurate reproduction.*
 
 # AppBrain - Privacy Policy
 
@@ -53,6 +53,10 @@ For the fast web installer feature, we store a Google credential token on our se
 
 AppBrain offers a service for developers to gain more insight into users of their apps called AppBrain Insights. Protection of the privacy of users is of the utmost importance to us, and we have taken a number of precautions in presenting data to preserve the privacy of users. We only show data to about apps that have at least 20 active AppBrain users. Furthermore, we only show individual data entities (such as a country, age bucket or phone model), when it is present in at least 3 users for that app. 
 
+### Active App Tracking
+
+If active app tracking is enabled in the AppBrain Android app, we additionally collect the approximate usage times of the apps installed on the device. The collected data is used to improve our app recommendations. The (anonymized) data can be shared with research institutions for research purposes. The user can enable and disable active app tracking at any time in the app settings. 
+
 ### Privacy Policy Changes
 
 Although most changes are likely to be minor, AppBrain may change its Privacy Policy from time to time, and in AppBrain’s sole discretion. AppBrain encourages visitors to frequently check this page for any changes to its Privacy Policy. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
@@ -63,6 +67,7 @@ If you have questions about privacy or your personal data please contact our [su
 
 **Change log:**
 
+  * _Nov 11, 2014_ Added section about Active App Tracking
   * _Sept 19, 2011_ Clarified privacy policy, added fundamental principles
 
 
