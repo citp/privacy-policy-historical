@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sportsmansguide.com privacy policy that was archived on 2014-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141203070211id_/http%3A//www.sportsmansguide.com/ourcompany/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportsmansguide.com privacy policy that was archived on 2015-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150622160313id_/http%3A//www.sportsmansguide.com/ourcompany/privacypolicy) for the most accurate reproduction.*
 
 # Sportsman's Guide - Outdoor Gear, Military Surplus, Survival Gear and more
 
@@ -70,4 +70,4 @@ We use service providers to help gather and analyze information about our custom
 
 ###  Effective Date and Policy Changes 
 
-We may from time to time make changes to the Privacy Policy to reflect changes in the privacy practices. Accordingly, we reserve the right to revise or modify this Privacy Policy in whole or in part at any time. We will inform you of any update to our Privacy Policy by posting a notice on our Site. The effective date of the updated policy will be the date posted on the notice. The updated policy shall replace any prior policies and will be applicable to all current and past users of the Site. This Privacy Policy was last updated on January 15, 2013. 
+We may from time to time make changes to the Privacy Policy to reflect changes in the privacy practices. Accordingly, we reserve the right to revise or modify this Privacy Policy in whole or in part at any time. We will inform you of any update to our Privacy Policy by posting a notice on our Site. The effective date of the updated policy will be the date posted on the notice. The updated policy shall replace any prior policies and will be applicable to all current and past users of the Site. This Privacy Policy was last updated on January 28, 2015. 
