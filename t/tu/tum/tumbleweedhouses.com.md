@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tumbleweedhouses.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625055857id_/http%3A//www.tumbleweedhouses.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tumbleweedhouses.com privacy policy that was archived on 2015-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150622025830id_/http%3A//www.tumbleweedhouses.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
