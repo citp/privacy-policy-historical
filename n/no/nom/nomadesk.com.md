@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nomadesk.com privacy policy that was archived on 2014-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141013024849id_/http%3A//www.nomadesk.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nomadesk.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623012548id_/http%3A//www.nomadesk.com/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Nomadesk
 
@@ -83,7 +83,7 @@ Nomadesk employs DeltaSync technology to speed up the synchronization process by
 
 ## File Acces Settings
 
-Sharing data in a Vault means you see the same files and folders on your local drive as all others sharing the same Vault. In addition to viewing the files, however, each individual may be given different access rights to edit files, invites others to the Vault, or send the files to others.
+Sharing data in a Vault means you see the same files and folders on your local drive as all others sharing the same Vault, subject to the prevalent access settings. Each individual – accessing the Vault – may be given different rights to view/edit (therefore sync), invite others, send FileLinks or FolderLinks, etc.
 
 ## File Notifications
 
