@@ -1,8 +1,9 @@
-<!--The following is the downloaded HTML source of the xenforo.com privacy policy that was archived on 2014-12-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141226030410id_/https%3A//xenforo.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the xenforo.com privacy policy that was archived on 2015-06-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150622051903id_/https%3A//xenforo.com/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html id="XenForo" class="Public" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
+<!DOCTYPE html><html id="XenForo" class="Public Responsive" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
 	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<base href="https://xenforo.com/">
 	
 	<title>Privacy Policy | XenForo</title>
@@ -10,7 +11,7 @@
 	
 	
 	
-	<link rel="stylesheet" type="text/css" href="css.php?css=xenforo,form,public&amp;style=1&amp;d=1415787177">
+	<link rel="stylesheet" type="text/css" href="css.php?css=xenforo,form,public&amp;style=1&amp;d=1429286614">
 	 
 
 	<script async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
@@ -38,8 +39,30 @@
 
 <div class="wrapperXfSite">
 
-<div id="headerMover">
-	<div id="headerProxy"></div>
+<header>
+	<div id="header">
+		<div class="pageWidth">
+	<div class="pageContent ">
+		<div id="logo"><a href="">
+			<span></span>
+			<img src="styles/default/xenforo/logo.png" alt="XenForo">
+		</a></div>
+
+		<div class="navMenu" id="NavMenuToggle"><span>Menu</span></div>
+				
+		<nav>
+		<ol id="nav">
+			<li class=""><a href=".">Home</a></li>
+			<li class=""><a href="purchase/">Buy</a></li>
+			<li class=""><a href="help/">Help</a></li>
+			<li class=""><a href="customers/">Customers</a></li>
+			<li><a href="//xenforo.com/community/">Community</a></li>
+		</ol>
+		</nav>
+	</div>
+</div>
+	</div>
+</header>
 
 <div id="content" class="privacy_policy">
 	<div class="pageWidth">
@@ -50,7 +73,7 @@
 
 												
 							<!-- h1 title, description -->
-							<div class="titleBar">
+							<div class="titleBar ">
 							
 								<h1>Privacy Policy</h1>
 								
@@ -143,31 +166,6 @@
 	</div>
 </div>
 
-<header>
-	<div id="header">
-		<div class="pageWidth">
-	<div class="pageContent ">
-		<div id="logo"><a href="">
-			<span></span>
-			<img src="styles/default/xenforo/logo.png" alt="XenForo">
-		</a></div>
-				
-		<nav>
-		<ol id="nav">
-			<li class=""><a href=".">Home</a></li>
-			<li class=""><a href="purchase/">Buy</a></li>
-			<li class=""><a href="help/">Help</a></li>
-			<li class=""><a href="customers/">Customers</a></li>
-			<li><a href="//xenforo.com/community/">Community</a></li>
-		</ol>
-		</nav>
-	</div>
-</div>
-	</div>
-</header>
-
-</div><!-- / #headerMover -->
-
 </div><!-- / .wrapperXfSite -->
 
 <footer>
@@ -217,7 +215,7 @@
 		
 		<div class="bottomInfo">
 			
-			<span id="copyright">©2010-2014 XenForo Ltd.</span>
+			<span id="copyright">©2010-2015 XenForo Ltd.</span>
 			<a href="privacy-policy/" class="privacyPolicy">Privacy Policy</a>
 		</div>
 		
@@ -227,13 +225,22 @@
 
 <script type="text/javascript">
 <!--
+
+$(function()
+{
+	$('#NavMenuToggle').click(function()
+	{
+		$('#nav').toggleClass('is-active');
+	});
+});
+
 jQuery.extend(true, XenForo,
 {
 	serverTimeInfo:
 	{
-		now: 1419563050,
-		today: 1419552000,
-		todayDow: 5
+		now: 1434950343,
+		today: 1434927600,
+		todayDow: 1
 	},
 	_enableOverlays: "1",
 	_animationSpeedMultiplier: "1",
