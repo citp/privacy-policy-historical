@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the forumphim.com privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330234852id_/http%3A//forums.forumphim.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forumphim.com privacy policy that was archived on 2015-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150622070752id_/http%3A//www.forumphim.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy - www.forumphim.com
 
