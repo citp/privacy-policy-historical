@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shexy.nl privacy policy that was archived on 2014-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140925055301id_/http%3A//shexy.nl/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shexy.nl privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623011722id_/http%3A//www.shexy.nl/privacy-policy) for the most accurate reproduction.*
 
 # Shexy
 
