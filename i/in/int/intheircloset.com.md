@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the intheircloset.com privacy policy that was archived on 2014-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141118155235id_/http%3A//intheircloset.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intheircloset.com privacy policy that was archived on 2015-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150622075749id_/http%3A//intheircloset.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,6 +6,7 @@ This statement covers the website **[http://intheircloset.com.com](http://inthei
 
   * Information Collection
   * Comments
+  * Cookies
   * Third Party Cookies
   * Third Party Advertising
   * Log Files
@@ -24,6 +25,28 @@ The owner of InTheirCloset.com is the sole owner of the information collected on
 ### Comments
 
 In order to enhance their use of this website, users can choose to leave comments on particular articles of interest. To leave a comment, users must submit information including a valid email address. InTheirCloset.com uses this information to screen out users who leave comments prohibited by our terms and conditions of use, and will not pass this information to any other organization.
+
+### Cookies
+
+A cookie is a small information file that is sent to your computer, mobile or other device when you visit a website and it will recognise your device on future visits. These types of files do a number of different jobs such as remembering your preferences and chosen items, assisting you to improve your site experience as well as trying to ensure that the adverts or offers you see online are more relevant to you. These “cookies” can be divided into 4 types each of which is outlined below.
+
+Category 1: Strictly Necessary Cookies
+
+These cookies are essential in order to enable the site to provide services you have asked for.
+
+Category 2: Performance Cookies
+
+This type collect anonymous information on how people use the site and the data is merged with other users to enable us to improve how the site operates. For example we utilise Google Analytics cookies to help us understand how customers arrive at our site, browse or use our site and highlight areas where we can improve areas such as navigation, shopping experience and marketing campaigns. The data stored by these cookies never shows personal details from which your individual identity can be established.
+
+Category 3: Functionality Cookies
+
+These remember choices you make such as language, search parameters such as size, colour or product line. These can then be used to provide you with an experience more appropriate with your selections and make the visits more tailored and pleasant. The information is also merged with other users on an anonymous basis to enable us to improve how the site operates.
+
+Category 4: Targeting Cookies or Advertising Cookies
+
+These cookies collect information about your browsing habits in order to make advertising relevant to you and your interests. They remember the websites you have visited and that information is shared with other parties such as advertisers.
+
+You can change the settings on your browser to prevent cookies from being stored on your computer or mobile device without your explicit consent. Your browser help section will normally provide details on how to manage the cookie settings. Otherwise, read [here](http://www.aboutcookies.org/DEFAULT.ASPX?page=2) on how to delete cookies on your browser.
 
 ### Third Party Cookies
 
