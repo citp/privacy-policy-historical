@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the artanonymous.com privacy policy that was archived on 2014-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140818030335id_/http%3A//www.artanonymous.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the artanonymous.com privacy policy that was archived on 2015-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150622050724id_/http%3A//www.artanonymous.com/privacy) for the most accurate reproduction.*
 
 # ArtAnonymous | Privacy Policy
 
