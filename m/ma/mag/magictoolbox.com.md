@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the magictoolbox.com privacy policy that was archived on 2010-07-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100724175617id_/http%3A//www.magictoolbox.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the magictoolbox.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623233545id_/https%3A//www.magictoolbox.com/privacy) for the most accurate reproduction.*
 
 # Magic Toolbox - Privacy Policy
 
 Magic Toolbox takes your privacy seriously. This Privacy Policy explains what we do with the information collected through your use of this website.
 
-### Website Visitors
+## Website Visitors
 
 Like most websites, we collect non-personally-identifying information on the usage of our website such as the number of people that visit the website, what browsers are most common and what pages are most popular. From time to time, we may aggregate this data in a non personally-identifiable way to produce reports on the use of our website.
 
-### Personally-Identifying Information
+## Personally-Identifying Information
 
 Some visitors to the website provide personally-identifying information. For example, users of our support forum are asked to provide name and email address in order to post messages.
 
@@ -24,38 +24,26 @@ Magic Toolbox takes all measures reasonably necessary to protect against the una
 
 Our webservers are located in the United States. Any personally-identifiable information you enter into the website will be transferred out of your country and into the United States. You consent to such transfer through your use of the website. You also warrant that you have the right to transfer such information outside your country and into the United States.
 
-### Security
+## Security
 
 All information collected on this website is stored on restricted database servers.
 
-### Email Opt-out
+## Email Opt-out
 
 We send email newsletters to our customers and other people that have subscribed via the website. You may opt-out of this at any time on the [newsletter](https://web.archive.org/newsletter/) section of the website.
 
-### Cookies
+## Cookies
 
 A cookie is a string of information that a website stores on a visitor's computer, and that the visitor's browser provides to the website each time the visitor returns. Magic Toolbox uses cookies to help us identify and track visitors and their usage of the website. Users who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using the Magic Toolbox website.
 
-### Privacy Policy Updates
+## Privacy Policy Updates
 
 This privacy policy may be updated from time to time and changes will be posted on this page.
 
-### Review and Access
+## Review and Access
 
 Upon your request, we will provide you with a summary of the information we collect about you. You may correct, update, modify or delete this information by [contacting us](https://web.archive.org/contact/).
 
-### Contact Us
+## Contact Us
 
 If you have any questions about this policy or our site in general, please [contact us](https://web.archive.org/contact/).
-
-### Payment
-
-Pay by credit card or bank transfer, then download your product.
-
-### 100% Support
-
-30 minutes free technical [support](https://web.archive.org/support/).
-
-### Guarantee
-
-30 day money-back [guarantee](https://web.archive.org/guarantee/).
