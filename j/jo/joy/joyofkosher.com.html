@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the joyofkosher.com privacy policy that was archived on 2014-11-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141123164926id_/http%3A//www.joyofkosher.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the joyofkosher.com privacy policy that was archived on 2015-06-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150624001625id_/http%3A//www.joyofkosher.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html><head>
 <meta http-equiv="CACHE-CONTROL" content="NO-CACHE">
@@ -220,39 +220,46 @@ jQuery(document).ready(function(){
 
 
 
-jQuery(".autosearch").keyup(function() 
+jQuery(".autosearch").keyup(function(e) 
 {
-
+if(e.keyCode == 13)
+{
+	Searchclick();
+}
+else {
 //var searchbox = $('#search').val();
-var searchbox = document.getElementById('search').value;
+	var searchbox = document.getElementById('search').value;
 
-var dataString = 'searchword='+ searchbox;
+	var dataString = 'searchword='+ searchbox;
 
-if(searchbox=='')
-{
-}
-else
-{
-
-jQuery.ajax({
-type: "POST",
-url: "http://www.joyofkosher.com/wp-content/themes/kosher/searchdata.php",
-data: dataString,
-cache: false,
-success: function(html)
-{
-
-jQuery("#display").html(html).show();
-jQuery("#display").css("height","auto");
-jQuery('.hidemain').css('z-index','2');
-	bindevent();
-	
+	if(searchbox=='')
+	{
 	}
+	else
+	{
 
+		jQuery.ajax({
+		type: "POST",
+		url: "http://www.joyofkosher.com/wp-content/themes/kosher/searchdata.php",
+		data: dataString,
+		cache: false,
+		success: function(html)
+		{
+
+		jQuery("#display").html(html).show();
+		jQuery("#display").css("height","auto");
+		jQuery('.hidemain').css('z-index','2');
+			bindevent();
+			
+			}
+
+		});
+	}
+	
+	return false;    
+}	
 });
-}
-return false;    
-});
+
 });
 function bindevent()
 {
@@ -274,8 +281,7 @@ var gads = document.createElement('script');
 gads.async = true;
 gads.type = 'text/javascript';
 var useSSL = 'https:' == document.location.protocol;
-gads.src = (useSSL ? 'https:' : 'http:') + 
-'//www.googletagservices.com/tag/js/gpt.js';
+gads.src = (useSSL ? "https:" : "http:") + "//www.googletagservices.com/tag/js/gpt.js";
 var node = document.getElementsByTagName('script')[0];
 node.parentNode.insertBefore(gads, node);
 })();
@@ -292,6 +298,8 @@ googletag.defineSlot('/8098843/right2', [300, 250], 'div-gpt-ad-1367163762631-5'
 googletag.defineSlot('/8098843/right3', [300, 250], 'div-gpt-ad-1367163762631-6').addService(googletag.pubads());
 googletag.defineSlot('/8098843/right4', [300, 250], 'div-gpt-ad-1367862252973-0').addService(googletag.pubads());
 googletag.defineSlot('/8098843/topright', [728, 90], 'div-gpt-ad-1367163762631-9').addService(googletag.pubads());
+googletag.defineSlot('/8098843/topright2', [728, 90], 'div-gpt-ad-1367163762631-10').addService(googletag.pubads());
+googletag.defineSlot('/8098843/topright3', [728, 90], 'div-gpt-ad-1367163762631-11').addService(googletag.pubads());
 googletag.defineSlot('/8098843/Recipes_Left_Side', [160, 600], 'div-gpt-ad-1368200055167-0').addService(googletag.pubads());
 googletag.defineSlot('/8098843/Mid_Page_Recipes', [468, 60], 'div-gpt-ad-1373377751567-0').addService(googletag.pubads());
 googletag.pubads().setTargeting("remnant",["true", "false"]);
@@ -307,6 +315,367 @@ window[a_]={c:o,b:g,u:l};var s=a.createElement(h);s.src=l,e=a.getElementsByTagNa
 
 </head>
 <body class="page page-id-4267 page-template page-template-page-subscription-php" itemscope="" itemtype="http://schema.org/WebPage">
+
+<style type="text/css">
+/* New Home Page Changes */
+
+/* New Mockup Css Changes */
+.topadvertise_outer
+{
+width: 728px;
+margin: 0 auto;
+margin-top: 10px;
+}
+.srch_left
+{
+
+    float: right;
+    margin-left: 10px;
+    width: 28%;
+
+}
+.srch_right {
+    float: right;
+    margin-left: 10px;
+    margin-right: 12px;
+    margin-top: 16px;
+    width:185px;
+}
+.topadvertise div:first-child
+{
+margin: 0 auto;
+}
+.ratingspan
+{
+display: none;
+}
+.div_outer {
+clear: both;
+}
+.div_section_3 .inner_div_sections {
+float: left;
+width: 30%;
+margin-right:15px;
+}
+.div_section_2 .inner_div_sections:first-child {
+float: left;
+width: 70%;
+}
+.div_section_2 .inner_div_sections:nth-child(2) {
+float: left;
+width: 30%;
+}
+.recipe_image img
+{
+width: 300px;
+height: 250px;
+}
+.rating_cats
+{
+display:none;
+}
+.post_recipe_excerpt
+{
+display:none;
+}
+
+.recipe_text {
+    background: url("http://www.joyofkosher.com/wp-content/themes/kosher/images/box_bg.png") repeat scroll left top rgba(0, 0, 0, 0);
+    bottom: 0;
+    height: auto;
+    position: absolute;
+    transition: all 0.3s ease 0s;
+	-webkit-transition:all 0.3s ease 0s;
+    width: 300px;
+    z-index: 999;
+}
+.homeauthor {
+/* position: absolute; */
+/* margin-right: 15px; */
+float: right;
+margin-right: 25px;
+z-index: 999999;
+position: relative;
+top: -10px;
+/* border-radius: 15px; */
+}
+.homeauthor img {
+border-radius: 15px;
+}
+.hometitle
+{
+color: white;
+}
+.radiosub input
+{
+    padding-left: 0px;
+    margin-left: 0px;
+}
+.social_icons_menu {
+
+	/*background:url(images/bg/social-links-bg.gif) repeat-x left bottom;*/
+	background:url('http://www.joyofkosher.com/wp-content/themes/kosher/images/bg/social-links-bg.png') repeat-x left top;
+        border : 1px solid #E6E6E6; 
+		position: relative;
+    z-index: 3;       
+
+}
+
+.social_icons_menu UL {
+
+	/*background:url(images/bg/social-links-top.gif) no-repeat left top;*/
+	
+
+	float:left;
+
+	width:100%
+
+}
+
+.social_icons_menu UL LI {
+
+	float:left;
+
+	display:inline;
+
+	border:none;
+
+	/*background:url(images/bg/social-links-border.gif) no-repeat left bottom;*/
+	/*background:url(images/bg/social-links-border.png) no-repeat left bottom;*/
+
+	padding:0 0 0 7px;
+
+}
+
+.social_icons_menu UL LI.first {padding-left:0;margin-left: 2px;background:none;}
+
+.social_icons_menu UL LI A {
+
+	float:left;
+
+	width:50px;
+
+	text-align:center;
+
+	font-size:12px;
+
+	color:#fff;
+
+	/*text-shadow:1px 1px 1px #46423C;*/
+
+	height:48px;
+
+	font-weight:700
+
+}
+
+.social_icons_menu UL LI A IMG {
+
+	display:none;
+
+	margin:8px auto 0;
+	opacity:0;
+	filter: alpha(opacity=0);
+	-ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+
+}
+
+.social_icons_menu UL LI A SPAN {
+
+	display:block;
+
+	margin-top:5px;
+
+	line-height:25px;
+
+	cursor:pointer
+
+}
+.social_icons_menu UL LI A .social-listblock{ width:50px; float:left; height:48px;background: url("http://www.joyofkosher.com/wp-content/themes/kosher/images/social_icon.png") no-repeat left top;transition:all 0.3s ease-in 0s;-webkit-transition:all 0.3s ease-in 0s;}     
+.social_icons_menu UL LI A .social-listblock.fb{background-position:6px 5px;}
+.social_icons_menu UL LI A .social-listblock.twee{background-position:-42px 5px;}
+.social_icons_menu UL LI A .social-listblock.yout{background-position:-90px 5px;}
+.social_icons_menu UL LI A .social-listblock.rss{background-position:-138px 5px;}
+.social_icons_menu UL LI A .social-listblock.insta{background-position:-186px 5px;}
+.social_icons_menu UL LI A:hover .social-listblock.fb{background-position:6px -95px;}
+.social_icons_menu UL LI A:hover .social-listblock.twee{background-position:-42px -95px;}
+.social_icons_menu UL LI A:hover .social-listblock.yout{background-position:-90px -95px;}
+.social_icons_menu UL LI A:hover .social-listblock.rss{background-position:-138px -95px;}
+.social_icons_menu UL LI A:hover .social-listblock.insta{background-position:-186px -95px;}
+/* 06-02-15 */
+#headmain_menu .social_icons_ul { float: right; width: 288px; background:none; border:0 none;}
+#headmain_menu .dcjq-mega-menu { position:relative; height:48px; }
+#headmain_menu .dcjq-mega-menu .custom_menu { position:static; }
+.home_content { padding:0 10px;}
+.home_content .div_outer .inner_div_sections { overflow: hidden; width:31.3%; margin-right:29px;margin-bottom: 29px; position: relative;}
+.home_content .div_outer .inner_div_sections:last-child { margin-right:0px;}
+.home_content .div_section_2 .inner_div_sections:first-child { width:75.5%; margin-right:29px;margin-bottom: 29px;}
+.home_content .div_section_2 .inner_div_sections:last-child { width:21%; margin-right:0;margin-bottom: 29px;}
+.home_content .div_section_1 .inner_div_sections { width:100%; text-align: center;}
+.home_content .div_section_1 .inner_div_sections > div { margin:0 auto;}
+.home_content .div_outer .inner_div_sections .recipe_text span.post_recipe_author_name {
+font-size: 12px;
+/*float: right;*/
+margin-right: 6px;
+margin-top: 2px;
+color: #fff;display: inline-block;font-style: italic;padding-left: 5px;
+
+}
+.home_content .div_outer .inner_div_sections .recipe_text a.hometitle {color: #fff;display: block;font-size: 14px;height: 41px;margin-top: 15px;overflow: hidden;padding-left: 5px;}
+.home_content .div_outer .inner_div_sections .recipe_text a.hometitle:hover { color:#F58220; text-decoration:none;}
+.home_content .div_outer .inner_div_sections .recipe_text .category_recipe { color:#fff !important; font-size:14px; display:block; 
+ padding:4px 0 4px 5px;font-weight: bold; width:98.2%;background:url('http://www.joyofkosher.com/wp-content/themes/kosher/images/box_heading_bg.png') repeat left top;margin-top: 8px;}
+ .home_content .category_recipe a { color:#fff !important;  text-decoration:none !important; } 
+ .home_content .category_recipe a:hover { color:#fff !important; text-decoration:none !important; } 
+.home_content .div_outer .inner_div_sections .recipe_text .homeauthor {margin-right: 15px;position: absolute;right: 0;
+    top: -30px;}
+.home_content .div_outer .inner_div_sections .recipe_text .homeauthor img {  border:2px solid rgba(0,0,0, 0.5);border-radius:50%;-moz-border-radius: 50%;-webkit-border-radius: 50%;border-radius: 50%;	behavior: url(border-radius.htc);}
+#magazine_li .magazine_contestBrand li a { text-align:left;}         
+/* heder About Gammie */
+.login-area .srch_right2 { width:203px; float: left; margin-top: 16px; margin-left:25px; }
+.login-area .srch_right2 .about_gammie .about_img {float: left;height: 95px;margin-right: 1px;overflow: hidden;width: 95px;}
+.login-area .srch_right2 .about_gammie .about_gammie_detalis { width:107px; float:left; }
+.login-area .srch_right2 .about_gammie .about_gammie_detalis h2{ margin:0 auto;padding:5px 0 5px;color:#ff7a30;font-size:17px;}
+.login-area .srch_right2 .about_gammie .about_gammie_detalis p { margin-top: 0px !important; font-size: 11px !important; color: #231f20 !important;}
+.login-area .srch_right2 .about_gammie .about_img img { vertical-align: middle;/*height: 95px;*/overflow: hidden;/*width: 87px;*/}
+.login-area .srch_right2 .about_gammie { /*border: 1px solid #CBCACA;*/ overflow: hidden;}
+.twitter-share-button .btn i { background: none !important;}
+a.PIN_1423555604481_pin_it_button_en_20_gray {  background: none !important; }
+.about_gammie .links { display:inline-block; margin-top:5px;}
+.about_gammie .links a { color: #000000; display: block;font-size: 14px;margin-bottom: 10px;margin-right: 0;}
+.about_gammie .links a:hover { color:#f58220; text-decoration:none;}
+.about_gammie .links a:last-child { margin-right:0;}
+.srch_right .textwidget .header_text_sponser a{color:#000000;display:block;font-size:14px;margin-bottom:10px;margin-right:0;}
+.srch_right .textwidget .header_text_sponser a:hover { color: #ff7a30; text-decoration:none;}
+.srch_right .textwidget .header_text_sponser a:last-child { margin-right:0;}
+.srch_right > img {float: left;margin-right: 12px;width: auto;}
+.srch_right .textwidget {float: left;width: auto; margin-top:5px;}
+.srch_right img:first-child
+{
+	width: 77px;
+	height: 100px;
+}
+.home_content .inner_div_sections .recipe_text .sharing_home ul li{ width:45px !important; height:40px !important; float:left;}
+.home_content .inner_div_sections .recipe_text .sharing_home ul li a{ width:45px !important; height:40px !important; float:left;}
+.home_content .inner_div_sections .recipe_text .sharing_home ul li.home_facebook a{ background:url('http://www.joyofkosher.com/wp-content/themes/kosher/images/social_icon2.png') no-repeat left top; font-size:0; cursor:pointer;}
+.home_content .inner_div_sections .recipe_text .sharing_home ul li.home_facebook:hover a{ background-position:0 -100px;}       
+.home_content .inner_div_sections  .sharing_home ul li.custom-tweet-button a{ background:url('http://www.joyofkosher.com/wp-content/themes/kosher/images/social_icon2.png') no-repeat -45px top; float:left; font-size:0; cursor:pointer;}
+.home_content .inner_div_sections  .sharing_home ul li.custom-tweet-button:hover a{ background-position:-45px -100px;}
+.home_content .inner_div_sections  .sharing_home ul li.home_tumbler a{ background:url('http://www.joyofkosher.com/wp-content/themes/kosher/images/social_icon2.png') no-repeat -93px top; float:left; font-size:0; cursor:pointer;}
+.home_content .inner_div_sections  .sharing_home ul li.home_tumbler:hover a{ background-position:-93px -100px;}
+.home_content .inner_div_sections  .sharing_home ul li.home_pinterest a{ background:url('http://www.joyofkosher.com/wp-content/themes/kosher/images/social_icon2.png') no-repeat -141px top !important; float:left; font-size:0; cursor:pointer;}
+.home_content .inner_div_sections  .sharing_home ul li.home_pinterest:hover a{ background-position:-141px -100px !important;}
+.home_content .inner_div_sections .recipe_text .sharing_home {bottom: 5px;display: block;height: 0;left: 5px;margin-top: 0;opacity: 0;position: absolute;z-index: 999999;}
+.home_content .inner_div_sections  div:hover .recipe_text .sharing_home {bottom: 6px;display: block;height: 40px;opacity: 1;transition-duration: 0.2s;left:5px;}
+.inner_div_sections  div{font-size: 0;}
+.inner_div_sections  div:hover .recipe_text {padding-bottom: 55px;}
+#header .form-search {
+    width: 263px !important;
+}
+#header .form-search INPUT
+{
+	 background: none repeat scroll 0 0 rgba(0, 0, 0, 0);
+    border: 1px solid #c9c9c9;
+    color: #000;
+    display: inline;
+    float: left;
+    font-family: Arial;
+    font-size: 12px;
+    font-style: normal;
+    height: 43px;
+    padding-right: 45px;
+    position: absolute;
+    width: 209px;
+    margin: 0px;
+    padding-left: 7px;
+}
+
+#header .form-search BUTTON.button
+{
+	background: url("http://www.joyofkosher.com/wp-content/themes/kosher/images/search_icon.png") no-repeat scroll 6px 7px #f68723;
+    border: 0 none;
+    cursor: pointer;
+    float: right;
+    height: 36px;
+    margin-right: 11px;
+    margin-top: 4px;
+    text-indent: -10000px;
+    width: 37px;
+    z-index: 9999;
+    cursor: pointer;
+    position:relative;
+}
+#search-form > div
+{
+	width: auto;
+}
+#header .form-search
+{
+	background: none;
+}
+.radiomain {
+    float: left;
+    position: relative;
+    top: 5px;
+    width: 188px;
+    left: 0;
+}
+
+.logo a {
+    background: url("http://www.joyofkosher.com/wp-content/themes/kosher/images/logo_jok.png") no-repeat scroll center center rgba(0, 0, 0, 0);
+    float: left;
+    height: 104px;
+    width: 247px;
+    margin-top: 0px;
+}
+
+.logo {
+    float: left;
+    margin: 0;
+    padding: 15px 0 0 15px;
+}    
+#headmain_menu UL.custom_menu LI.dc-mega-li:last-child
+{
+	float: none;
+}
+#headmain_menu UL.custom_menu
+{
+	width: 685px;
+	float: left;
+}
+#headmain_menu UL.custom_menu LI.dc-mega-li
+{
+	 margin-left: 13px;
+    margin-right: 15px;
+}
+#display {
+    border-bottom: 1px solid #e0e0e0;
+    border-left: 1px solid #e0e0e0;
+    border-right: 1px solid #e0e0e0;
+    display: none;
+    float: right;
+    margin-right: 7px;
+    margin-top: 5px;
+    overflow: hidden;
+    width: 253px;
+}
+/* End New Home Page Changes */
+</style>
+
+<div class="topadvertise_outer">
+<div class="topadvertise">
+             
+        <!-- topright -->
+<div id="div-gpt-ad-1367163762631-9" style="width:728px; height:90px;">
+<script type="text/javascript"> googletag.pubads().setTargeting("remnant",["true", "false"]);
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1367163762631-9'); });
+</script>
+</div>     
+    </div>
+    </div>			
+    
+
+
 <div class="container">
 <div class="cut-holder">
 <div class="page-holder top">
@@ -320,7 +689,7 @@ window[a_]={c:o,b:g,u:l};var s=a.createElement(h);s.src=l,e=a.getElementsByTagNa
     <div class="header-bg">
       <div class="login-area">
         <div class="logo"><a href="http://www.joyofkosher.com"></a>
-<!--            <div class="countdown"> <div id="countdowntimer-2-dashboard" class="darth-dashboard"><div id="countdowntimer-2-bothtml" class="darth-bothtml countbothtml"><div class="botcont"><div class="botmsg"> Passover starts</div><div class="botdt">April 14, 2014</div></div><div id="countdowntimer-2-tophtml" class="darth-tophtml counttophtml" ><div class='topcont'><div class='topdt'>-22-3<span>days</span></div><div class="topmsg"> until Passover </div></div></div></div></div>            
+<!--            <div class="countdown"> <div id="countdowntimer-2-dashboard" class="darth-dashboard"><div id="countdowntimer-2-bothtml" class="darth-bothtml countbothtml"><div class="botcont"><div class="botmsg"> Passover starts</div><div class="botdt">April 14, 2014</div></div><div id="countdowntimer-2-tophtml" class="darth-tophtml counttophtml" ><div class='topcont'><div class='topdt'>-43-5<span>days</span></div><div class="topmsg"> until Passover </div></div></div></div></div>            
 			<script language="javascript" type="text/javascript">
 				jQuery(document).ready(function() {
 					jQuery('#countdowntimer-2-dashboard').countDown({	
@@ -331,8 +700,8 @@ window[a_]={c:o,b:g,u:l};var s=a.createElement(h);s.src=l,e=a.getElementsByTagNa
 							'hour': 	23,
 							'min': 	59,
 							'sec': 	59,
-							'localtime':	'11/23/2014 12:49:26',
-							'mysqltime':  '2014-11-23 12:49:26'
+							'localtime':	'6/23/2015 20:16:24',
+							'mysqltime':  '2015-06-23 20:16:24'
 						},
 						style: 'darth',
 						launchtarget: 'tophtml',
@@ -404,101 +773,127 @@ window[a_]={c:o,b:g,u:l};var s=a.createElement(h);s.src=l,e=a.getElementsByTagNa
               Join for Free/Login            </div>
           </div>
         </div>
-        <div class="form-search"> 
-          <form method="get" id="search-form" action="http://www.joyofkosher.com/">
-		 
-            <script language="javascript">
-						 //var dname='localhost/joyofkosher';
-                                                 var urlsite = 'http://www.joyofkosher.com'//);)
-                                                 var urlsitearr = urlsite.split("//");
-                                                
-						 var dname=  urlsitearr[1]; //'t1.joyofkosher.com';
-						function Searchclick()
-						{
-                                                   
-								var searchTextValue=" ";
-							if(((document.getElementById("search").value.trim()).indexOf("Search")<0) && ((document.getElementById("search").value.trim()).indexOf("Recipes")<0) && ((document.getElementById("search").value.trim()).indexOf("Articles")<0) && ((document.getElementById("search").value.trim()).indexOf("Members")<0) &&  ((document.getElementById("search").value.trim())!=("".trim())))							
-							 {
-								 searchTextValue=document.getElementById("search").value;
-						     }
-								//document.getElementById("search").value="";														
-										
-								if(document.getElementById("rbrecipe").checked==true)
+        
+        <div class="srch_left">
+				<div class="form-search"> 
+				  <form method="get" id="search-form" action="http://www.joyofkosher.com/">
+				 
+					<script language="javascript">
+								 //var dname='localhost/joyofkosher';
+														 var urlsite = 'http://www.joyofkosher.com'//);)
+														 var urlsitearr = urlsite.split("//");
+														
+								 var dname=  urlsitearr[1]; //'t1.joyofkosher.com';
+								function Searchclick()
 								{
-									document.getElementById("post_type").value=document.getElementById("rbrecipe").value;
-									//window.location="http://www.google.com";
-									
-									/*if(searchTextValue.contains("'"))
-									{
-										searchTextValue = "a";
-									} */
-									var t="http://"+dname+"/?"+"s="+encodeURIComponent(searchTextValue)+"&post_type=recipe&sort=d&sortcolumn=post_modified&pn=1&decideSort=1";
-									//;									
-									window.location=t;
-								}
-								if(document.getElementById("rbmember").checked==true)
-								{
-									
-									document.getElementById("post_type").value=document.getElementById("rbmember").value;																											
-									var t="http://"+dname+"/?"+"s="+encodeURIComponent(searchTextValue)+"&post_type=recipe&sort=d&sortcolumn=user_registered&pn=2&decideSort=1";	
-									// ;
-									window.location=t;
-								}
-								if(document.getElementById("rbarticle").checked==true)
-								{
-									document.getElementById("post_type").value=document.getElementById("rbarticle").value;
-									var t="http://"+dname+"/?"+"s="+encodeURIComponent(searchTextValue)+"&post_type=recipe&sort=d&sortcolumn=post_modified&pn=3&decideSort=1";
-									// ; 
-									window.location=t;
-								}
+														   
+										var searchTextValue=" ";
+									if(((document.getElementById("search").value.trim()).indexOf("Search")<0) && ((document.getElementById("search").value.trim()).indexOf("Recipes")<0) && ((document.getElementById("search").value.trim()).indexOf("Articles")<0) && ((document.getElementById("search").value.trim()).indexOf("Members")<0) &&  ((document.getElementById("search").value.trim())!=("".trim())))							
+									 {
+										 searchTextValue=document.getElementById("search").value;
+									 }
+										//document.getElementById("search").value="";														
+												
+										if(document.getElementById("rbrecipe").checked==true)
+										{
+											document.getElementById("post_type").value=document.getElementById("rbrecipe").value;
+											//window.location="http://www.google.com";
 											
+											/*if(searchTextValue.contains("'"))
+											{
+												searchTextValue = "a";
+											} */
+											var t="http://"+dname+"/?"+"s="+encodeURIComponent(searchTextValue)+"&post_type=recipe&sort=d&sortcolumn=post_modified&pn=1&decideSort=1";
+											//;									
+											window.location=t;
+										}
+										if(document.getElementById("rbmember").checked==true)
+										{
+											
+											document.getElementById("post_type").value=document.getElementById("rbmember").value;																											
+											var t="http://"+dname+"/?"+"s="+encodeURIComponent(searchTextValue)+"&post_type=recipe&sort=d&sortcolumn=user_registered&pn=2&decideSort=1";	
+											// ;
+											window.location=t;
+										}
+										if(document.getElementById("rbarticle").checked==true)
+										{
+											document.getElementById("post_type").value=document.getElementById("rbarticle").value;
+											var t="http://"+dname+"/?"+"s="+encodeURIComponent(searchTextValue)+"&post_type=recipe&sort=d&sortcolumn=post_modified&pn=3&decideSort=1";
+											// ; 
+											window.location=t;
+										}
+													
+										
+									//document.getElementById("divclear").innerHTML="";
+										
+								}
 								
-							//document.getElementById("divclear").innerHTML="";
-								
-						}
-						
-						jQuery(document).ready(function(){						
-							jQuery("#search").keypress(function(event){
-						  	if(event.which==13)
-							{
-								Searchclick();
-								return false;
-							}
-						  
-						});					   
-					});
-					</script>
-            <div style="overflow:hidden;" id="div_search"> <a class="button" href="http://www.joyofkosher.com/advanced-search/"><img src="http://www.joyofkosher.com/wp-content/themes/kosher/images/buttons/advance_new_26.png" alt="Advanced"></a>
-              <button type="button" class="button" onclick="Searchclick();">Search</button>
-		
-              <input type="text" class="autosearch input auto-hint" name="s" id="search" autocomplete="off" value="Search 6365 Recipes, 3207 Articles, 52037 Members" title="Search 6365 Recipes, 3207 Articles, 52037 Members">
-			 <div id="display" style="oveflow:hidden;position: relative;z-index: 9999999;background:#fff;"></div>
+								jQuery(document).ready(function(){						
+									jQuery("#search").keypress(function(event){
+									if(event.which==13)
+									{
+										Searchclick();
+										return false;
+									}
+								  
+								});					   
+							});
+							</script>
+					<div style="overflow:hidden;" id="div_search"> 
+											  <button type="button" class="button" onclick="Searchclick();">Search</button>
+				
+					  <input type="text" class="autosearch input auto-hint" name="s" id="search" autocomplete="off" value="Search" title="">
+					 <div id="display" style="oveflow:hidden;position: relative;z-index: 9999999;background:#fff;"></div>
 
-              <input type="hidden" name="post_type" id="post_type" value="recipe">
-		            </div>
-			
-          </form>
-          <!--
-						<form action="#"><div>
-							<a class="button" href="#"><img src="http://www.joyofkosher.com/wp-content/themes/kosher/images/buttons/btn-advanced.gif" alt="Advanced"/></a>
-							<button type="submit" class="button">Search</button>
-							<input type="text" value="Search 5800 recipes, 300 articles 400 members" title="Search 5800 recipes, 300 articles 400 members" class="auto-hint" />
-						</div></form>-->
-        </div>
-        <div class="radiomain" id="divclear" style="display:block;">
-          <div class="radiosub">
-            <input name="recipe" id="rbrecipe" type="radio" value="recipe" checked="checked">
-            <label for="recipe">Recipes</label>
-          </div>
-          <div class="radiosub">
-            <input name="recipe" id="rbarticle" type="radio" value="article">
-            <label for="Article">Articles</label>
-          </div>
-          <div class="radiosub">
-            <input name="recipe" id="rbmember" type="radio" value="member">
-            <label for="Member">Members</label>
-          </div>
-        </div>
+					  <input type="hidden" name="post_type" id="post_type" value="recipe">
+									</div>
+					
+				  </form>
+				  <!--
+								<form action="#"><div>
+									<a class="button" href="#"><img src="http://www.joyofkosher.com/wp-content/themes/kosher/images/buttons/btn-advanced.gif" alt="Advanced"/></a>
+									<button type="submit" class="button">Search</button>
+									<input type="text" value="Search 5800 recipes, 300 articles 400 members" title="Search 5800 recipes, 300 articles 400 members" class="auto-hint" />
+								</div></form>-->
+				</div>
+				<div class="radiomain" id="divclear" style="display:block;">
+				  <div class="radiosub">
+					<input name="recipe" id="rbrecipe" type="radio" value="recipe" checked="checked">
+					<label for="recipe">Recipes</label>
+				  </div>
+				  <div class="radiosub">
+					<input name="recipe" id="rbarticle" type="radio" value="article">
+					<label for="Article">Articles</label>
+				  </div>
+			<div class="radiosub" style="display:none;">
+					<input name="recipe" id="rbmember" type="radio" value="member">
+					<label for="Member">Members</label>
+				  </div> 
+				</div>
+	
+		</div>	
+      <div class="srch_right">
+		<img src="http://www.joyofkosher.com/wp-content/plugins/sam-images/lat spring mag cover.jpg">			<div class="textwidget"><div class="header_text_sponser">
+<a href="http://usastore.joyofkosher.com/">Subscribe</a>
+<a href="http://usastore.joyofkosher.com/gift-subscription/">Give a Gift</a>
+<a href="http://www.joyofkosher.com/magazine/">In this Issue </a>
+</div></div>
+		 
+		</div>
+		<div class="srch_right2">			
+			<div class="about_gammie">
+				<div class="about_img">
+					<img src="http://www.joyofkosher.com/wp-content/themes/kosher/images/about_gammie.png">
+				</div>
+				<div class="about_gammie_detalis">
+<div class="links">
+<a href="http://www.joyofkosher.com/meet-jamie/">Meet Jamie</a>
+<a href="http://www.joyofkosher.com/category/blogs/jamie-gellers-blog/">Jamie's Blog</a>
+<a href="http://www.amazon.com/Jamie-Geller/e/B001JS2GV8/ref=as_li_ss_til?tag=joyofkosher04-20&amp;camp=0&amp;creative=0&amp;linkCode=as4&amp;/ref=as_li_ss_til?tag=joyofkosher04-20&amp;camp=0&amp;creative=0&amp;linkCode=as4&amp;creativeASIN=B001JS2GV8&amp;adid=0QG3D32Q4T3NBCP17SX7">Jamie's Books</a>
+</div>
+				</div> 
+
+			</div>  		</div>
       </div>
     </div>
   </div>
@@ -531,12 +926,14 @@ window[a_]={c:o,b:g,u:l};var s=a.createElement(h);s.src=l,e=a.getElementsByTagNa
         <h3 class="tempu_h3">
 
          
-        <a href="http://www.joyofkosher.com/recipes/sausage-and-chicken-leg-roulade/"><img width="300" height="202" src="http://www.joyofkosher.com/wp-content/uploads/2014/11/sausage-and-chicken-leg-roulade-wide-300x202.jpg" class="attachment-medium wp-post-image" alt="sausage and chicken leg roulade wide" title="sausage and chicken leg roulade wide"></a>
+        <a href="http://www.joyofkosher.com/recipes/lentil-sausage-and-cabbage-slow-cooker-cholent/"><img width="300" height="202" src="http://www.joyofkosher.com/wp-content/uploads/2015/06/Cabbage-Lentil-and-Sausage-Stew-300x202.jpg" class="attachment-medium wp-post-image" alt="Cabbage Lentil and Sausage Slow Cooker Stew" title="Cabbage Lentil and Sausage Stew"></a>
 
         
-        <a href="http://www.joyofkosher.com/recipes/sausage-and-chicken-leg-roulade/">Sausage and Chicken Leg Roulade</a></h3>
+        <a href="http://www.joyofkosher.com/recipes/lentil-sausage-and-cabbage-slow-cooker-cholent/">Lentil, Sausage and Cabbage Slow Cooker Cholent</a></h3>
 
-        <p class="desc_menu">1. Heat a medium pot with&nbsp;1 tablespoon oil over medium-high heat. Add the shallots, carrots, and celery and cook, stirring often, until translucent. Add the garlic for 30 seconds. Stir in the rice and toast...</p>
+        <p class="desc_menu">In a 4- or 5-qt. slow cooker, combine all ingredients. Cover and cook on low for 8-10 hours or until ready to serve.
+
+&nbsp;</p>
 
         <!--<a href="#">hyper link</a>-->
 
@@ -897,14 +1294,19 @@ window[a_]={c:o,b:g,u:l};var s=a.createElement(h);s.src=l,e=a.getElementsByTagNa
       <div class="tempu" style="display:none;float:right;margin-right:10px;height:380px;">
 
         
-        <a href="http://www.joyofkosher.com/2014/11/cook-thanksgiving-in-an-hour/"><img width="300" height="202" src="http://www.joyofkosher.com/wp-content/uploads/2014/11/1-hour-thanksgiving-300x202.jpg" class="attachment-medium wp-post-image" alt="1 hour thanksgiving" title="1 hour thanksgiving"></a>
+        <a href="http://www.joyofkosher.com/2015/06/rsvp-for-goforthegolds-twitter-party-and-win/"><img width="300" height="202" src="http://www.joyofkosher.com/wp-content/uploads/2015/06/RSVP-GoForThe-Golds-Summer-Twitter-300x202.jpg" class="attachment-medium wp-post-image" alt="RSVP #GoForThe Golds Summer Twitter" title="RSVP #GoForThe Golds Summer Twitter"></a>
 
         
         <span>
 
-        <h3 class="tempu_h3"><a href="http://www.joyofkosher.com/2014/11/cook-thanksgiving-in-an-hour/">Cook Thanksgiving in an Hour</a></h3>
+        <h3 class="tempu_h3"><a href="http://www.joyofkosher.com/2015/06/rsvp-for-goforthegolds-twitter-party-and-win/">RSVP For #GoForTheGolds Twitter Party and WIN</a></h3>
 
-        <p class="desc_menu">I'm not kidding, it is possible to spend Thanksgiving outside of the kitchen! &nbsp;Each dish seems to add up to more and more hours in the kitchen, but with a good game plan and the recipes below you will...</p>
+        <p class="desc_menu">You’re invited to join our #GoForTheGolds Twitter chat!
+Hosted by @JoyofKosher and sponsored by @GoldPureFoods
+
+
+
+It's FINALLY summer! If you haven't already, you will soon be reaching for your...</p>
 
         <!--<a href="#">hyper link</a>-->
 
@@ -987,16 +1389,19 @@ window[a_]={c:o,b:g,u:l};var s=a.createElement(h);s.src=l,e=a.getElementsByTagNa
       <div class="tempu" style="display:none;float:right;margin-right:10px;">
 
         
-        <a href="http://www.joyofkosher.com/2014/11/make-desserts-better-with-one-simple-ingredient/"><img width="300" height="202" src="http://www.joyofkosher.com/wp-content/uploads/2014/04/Hazelnut-lace-cookies-300x202.jpg" class="attachment-medium wp-post-image" alt="almond lace cookies passover gluten free" title="almond lace cookies passover gluten free"></a>
+        <a href="http://www.joyofkosher.com/2015/06/rsvp-for-goforthegolds-twitter-party-and-win/"><img width="300" height="202" src="http://www.joyofkosher.com/wp-content/uploads/2015/06/RSVP-GoForThe-Golds-Summer-Twitter-300x202.jpg" class="attachment-medium wp-post-image" alt="RSVP #GoForThe Golds Summer Twitter" title="RSVP #GoForThe Golds Summer Twitter"></a>
 
         
         <span>
 
-        <h3 class="tempu_h3"><a href="http://www.joyofkosher.com/2014/11/make-desserts-better-with-one-simple-ingredient/">Make Desserts Better With One Simple Ingredient</a></h3>
+        <h3 class="tempu_h3"><a href="http://www.joyofkosher.com/2015/06/rsvp-for-goforthegolds-twitter-party-and-win/">RSVP For #GoForTheGolds Twitter Party and WIN</a></h3>
 
-        <p class="desc_menu">
+        <p class="desc_menu">You’re invited to join our #GoForTheGolds Twitter chat!
+Hosted by @JoyofKosher and sponsored by @GoldPureFoods
 
-I am a simple baker. I don't make fancy cakes or decorated cookies. You’ll never see my concoctions dressing up a bakery window and I’ve accepted this fact. I make bundt cakes, chewy chocolate...</p>
+
+
+It's FINALLY summer! If you haven't already, you will soon be reaching for your...</p>
 
         <!--<a href="#">hyper link</a>-->
 
@@ -1048,15 +1453,19 @@ I am a simple baker. I don't make fancy cakes or decorated cookies. You’ll nev
       <div class="tempu" style="display:none;float:right;margin-right:10px;">
 
         
-        <a href="http://www.joyofkosher.com/2014/11/winn-dixie-kosher-stores-within-a-store-giveaway/"><img width="300" height="173" src="http://www.joyofkosher.com/wp-content/uploads/2014/11/winn-dixie-promo-300x173.jpg" class="attachment-medium wp-post-image" alt="winn dixie promo" title="winn dixie promo"></a>
+        <a href="http://www.joyofkosher.com/2015/06/rsvp-for-goforthegolds-twitter-party-and-win/"><img width="300" height="202" src="http://www.joyofkosher.com/wp-content/uploads/2015/06/RSVP-GoForThe-Golds-Summer-Twitter-300x202.jpg" class="attachment-medium wp-post-image" alt="RSVP #GoForThe Golds Summer Twitter" title="RSVP #GoForThe Golds Summer Twitter"></a>
 
         
         <span>
 
-        <h3 class="tempu_h3"><a href="http://www.joyofkosher.com/2014/11/winn-dixie-kosher-stores-within-a-store-giveaway/">Winn-Dixie Kosher Stores Within A Store *Giveaway*</a></h3>
+        <h3 class="tempu_h3"><a href="http://www.joyofkosher.com/2015/06/rsvp-for-goforthegolds-twitter-party-and-win/">RSVP For #GoForTheGolds Twitter Party and WIN</a></h3>
 
-        <p class="desc_menu">
-HEYYYYYYYYYY! Watch my #WinnDixieKosher store-within-a-store tour in South Florida. I shopped till I dropped and after eating fresh hot pizza and sushi I capped it all off with a 250+ person demo and book...</p>
+        <p class="desc_menu">You’re invited to join our #GoForTheGolds Twitter chat!
+Hosted by @JoyofKosher and sponsored by @GoldPureFoods
+
+
+
+It's FINALLY summer! If you haven't already, you will soon be reaching for your...</p>
 
         <!--<a href="#">hyper link</a>-->
 
@@ -1097,15 +1506,15 @@ HEYYYYYYYYYY! Watch my #WinnDixieKosher store-within-a-store tour in South Flori
       <div class="tempu menu_magazine" style="display:none;float:right;margin-right:10px;text-align:center !important;"> <a href="http://www.joyofkosher.com/magazine/">
 
         
-        </a><a href="http://www.joyofkosher.com/magazine/"><img width="231" height="300" src="http://www.joyofkosher.com/wp-content/uploads/2014/11/Winter-2014-CoverS-231x300.jpg" class="attachment-medium wp-post-image" alt="Winter 2014 CoverS" title="Winter 2014 CoverS"></a>
+        </a><a href="http://www.joyofkosher.com/magazine/"><img width="231" height="300" src="http://www.joyofkosher.com/wp-content/uploads/2015/05/Late-Spring-2015-cover-S-231x300.jpg" class="attachment-medium wp-post-image" alt="Late Spring 2015 cover" title="Late Spring 2015 cover"></a>
 
         
         
          <span>
 
-        <h3 class="tempu_h3"> <a href="http://www.joyofkosher.com/2014/11/winter-2014//">Winter 2014</a> </h3>
+        <h3 class="tempu_h3"> <a href="http://www.joyofkosher.com/2015/05/shavuotlate-spring-2015//">Shavuot/Late Spring 2015</a> </h3>
 
-        <p class="desc_menu">This Chanukah we are going all out!! Get healthy frying tips and tons of latke recipes. Don't miss our Doughnut Cookies and gifts for every budget. We go crazy for olive oil and celebrate with a Chanukah...</p>
+        <p class="desc_menu">Check out our Shavuot/Late Spring issue - 100% Vegetarian with Mix &amp; Match Cheesecake options, The light side of Pasta - the Italian way, Cauliflower: The new Kale, Seaweed beyond Sushi, Summer Kosher...</p>
 
         <!--<a href="#">hyper link</a>-->
 
@@ -1191,14 +1600,23 @@ HEYYYYYYYYYY! Watch my #WinnDixieKosher store-within-a-store tour in South Flori
       </ul>
 
     </li>-->
-	<li class="dc-mega-li custom3"><a href="http://www.joyofkosher.com/category/blogs/kosher-travel/" class="dc-mega">Travel</a></li>
-	
-    <li class="dc-mega-li"><a href="http://thestore.joyofkosher.com/" class="dc-mega">The Store</a></li>
-
-<!--    <li class="dc-mega-li"><a class="dc-mega" href="http://usa.kosher.com/" target="_blank">Shops</a></li>-->
+        <!--    <li class="dc-mega-li"><a class="dc-mega" href="http://usa.kosher.com/" target="_blank">Shops</a></li>-->
 
   </ul>
-
+<div class="social_icons_ul social_icons_menu">
+				<div class="textwidget"><ul>
+           <li class="first"><a href="http://www.facebook.com/joyofkosher" target="_blank">
+              <div class="social-listblock fb"></div></a></li>
+           <li><a href="http://twitter.com/joyofkosher" target="_blank">
+             <div class="social-listblock twee"></div></a></li>
+           <li><a href="http://www.youtube.com/user/joyofkosher" target="_blank">
+            <div class="social-listblock yout"></div></a></li>
+           <li><a href="http://www.pinterest.com/joyofkosher/">
+              <div class="social-listblock rss"></div></a></li>
+           <li><a href="http://instagram.com/joyofkosher/" target="_blank">
+              <div class="social-listblock insta"></div></a></li>
+       </ul></div>
+		</div>
 </div>
 
 <!--end-->
@@ -1258,24 +1676,7 @@ jQuery(document).ready(function(){
 		jQuery('#breadcrumbs a:contains("Recipe")').html('Recipes');
 	} 
 </script>
-  </div>
-<div class="advertising_block">
-    <div class="firstadhome">
-<!-- JOKTOPLEFT -->
-<div id="div-gpt-ad-1367163762631-3" style="width:190px; height:90px;">
-<script type="text/javascript">
-googletag.cmd.push(function() { googletag.display('div-gpt-ad-1367163762631-3'); });
-</script>
-</div> </div>
-    <div class="secondadhome">
-                
-        <!-- topright -->
-<div id="div-gpt-ad-1367163762631-9" style="width:728px; height:90px;">
-<script type="text/javascript"> googletag.pubads().setTargeting("remnant",["true", "false"]);
-googletag.cmd.push(function() { googletag.display('div-gpt-ad-1367163762631-9'); });
-</script>
-</div>        </div>   
-</div>
+  </div> 
 <div class="relax">&nbsp;</div>
 <div id="custominvitefriend" style="display:none;position:absolute;z-index:100000;margin-left:174px;margin-top:-75px;width:642px;background-color:#3B5998;border:solid 2px #3B5998;">
   <div style="width:100%;clear:both;">
@@ -1396,7 +1797,8 @@ width:650px;
 <p><strong>Third Party Websites</strong></p>
 <p>Joyofkosher.com may contain links to other websites. &nbsp;If you choose to visit other websites, we are not responsible for the privacy practices or content of those other websites, and it is your sole responsibility to review the privacy policies at those other websites to confirm that you understand and agree with their policies.</p>
 <p><strong>Contacting Us</strong></p>
-<p>If you have any questions about this policy, our practices related to this site, please feel contact us at the following address: <a href="mailto:info@joyofkosher.com">info@joyofkosher.com</a>.</p>
+<p>If you have any questions about this policy, our practices related to this site, please feel contact us at the following address: <a href="mailto:info@joyofkosher.com">info@joyofkosher.com<script cf-hash="f9e31" type="text/javascript">
+/* <![CDATA[ */!function(){try{var t="currentScript"in document?document.currentScript:function(){for(var t=document.getElementsByTagName("script"),e=t.length;e--;)if(t[e].getAttribute("cf-hash"))return t[e]}();if(t&&t.previousSibling){var e,r,n,i,c=t.previousSibling,a=c.getAttribute("data-cfemail");if(a){for(e="",r=parseInt(a.substr(0,2),16),n=2;a.length-n;n+=2)i=parseInt(a.substr(n,2),16)^r,e+=String.fromCharCode(i);e=document.createTextNode(e),c.parentNode.replaceChild(e,c)}}}catch(u){}}();/* ]]> */</script></a>.</p>
 <p><strong>Updates and Changes</strong></p>
 <p>We reserve the right, at any time, to add to, change, update, or modify this Privacy Policy, simply by posting such change, update, or modification on joyofkosher.com and without any other notice to you. Any such change, update, or modification will be effective immediately upon posting on the site. &nbsp;It is your responsibility to review this Privacy Policy from time to time to ensure that you continue to agree with all of its terms.
 </p><div></div>
@@ -1474,12 +1876,12 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1367163762631-6');
                                                 </div>
                                                 <div class="bottom-area2 bg">
                                                     <div class="what_cook">
-                                                                                                                        <a href="http://www.joyofkosher.com/2011/11/shabbat-menu-toldot/" class="">
+                                                                                                                        <a href="http://www.joyofkosher.com/2012/06/shabbat-menu-lava-rocks/" class="">
                                                                 <div class="">
 
-                                                                                <img width="298" height="179" style="width: 298px !important;height: 179px !important" src="http://www.joyofkosher.com/wp-content/uploads/2011/11/red-lentil-soup-298x179.jpg" class="attachment-thumbnail wp-post-image" alt="Shabbat Menu - Red Lentil Stew" title="Shabbat Menu - Red Lentil Stew">								
+                                                                                <img width="298" height="179" style="width: 298px !important;height: 179px !important" src="http://www.joyofkosher.com/wp-content/uploads/2015/06/chocolate-lava-rocks-298x179.jpg" class="attachment-thumbnail wp-post-image" alt="Shabbat Menu - Chocolate Lava Rocks" title="Shabbat Menu - Chocolate Lava Rocks">								
                                                                         </div>
-                                                                <span class="title-text" style="width: auto !important">Shabbat Menu - Red Lentil Stew</span>
+                                                                <span class="title-text" style="width: auto !important">Shabbat Menu - Chocolate Lava Rocks</span>
                                                                  </a>
                                                         							</div>
                                                 </div>
@@ -1503,19 +1905,19 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1367862252973-0');
                                                 </div>
                                                 <div class="bottom-area2 bg">
                                                     <div class="what_cook">
-                                                                                                                        <a href="http://www.joyofkosher.com/recipes/osso-buco-with-gremolata/" class="show-most first">
+                                                                                                                        <a href="http://www.joyofkosher.com/recipes/mango-strawberry-soup/" class="show-most first">
                                                                 <div class="photobg">
 
-                                                                                <img style="width:150px !important;height:101px !important;margin-top: 0px !important;" width="150" height="101" src="http://www.joyofkosher.com/wp-content/uploads/2013/02/osso-bucco-298x179.jpg" class="attachment-thumbnail wp-post-image" alt="Osso Buco with Gremolata" title="Osso Buco with Gremolata">								
+                                                                                <img style="width:150px !important;height:101px !important;margin-top: 0px !important;" width="150" height="101" src="http://www.joyofkosher.com/wp-content/uploads/2011/04/mango-strawberry-soup-641-298x179.jpg" class="attachment-thumbnail wp-post-image" alt="Mango Strawberry Soup" title="Mango Strawberry Soup">								
                                                                         </div>
-                                                                <span class="title-text">Osso Buco with Gremolata</span>
+                                                                <span class="title-text">Mango Strawberry Soup</span>
                                                                  </a>
-                                                                                                                        <a href="http://www.joyofkosher.com/recipes/potato-cake-with-sweet-shallot-jam-and-thyme/" class="show-most first">
+                                                                                                                        <a href="http://www.joyofkosher.com/recipes/grilled-and-glazed-peachy-chicken/" class="show-most first">
                                                                 <div class="photobg">
 
-                                                                                <img style="width:150px !important;height:101px !important;margin-top: 0px !important;" width="150" height="101" src="http://www.joyofkosher.com/wp-content/uploads/2013/11/Prime-Grill-Potato-Cake-pg-150-298x179.jpg" class="attachment-thumbnail wp-post-image" alt="Potato Cake with Sweet Shallot Jam and Thyme" title="Potato Cake with Sweet Shallot Jam and Thyme">								
+                                                                                <img style="width:150px !important;height:101px !important;margin-top: 0px !important;" width="150" height="101" src="http://www.joyofkosher.com/wp-content/uploads/2013/10/grilled-peach-chicken-298x179.jpg" class="attachment-thumbnail wp-post-image" alt="Grilled and Glazed Peachy Chicken" title="Grilled and Glazed Peachy Chicken">								
                                                                         </div>
-                                                                <span class="title-text">Potato Cake with Sweet Shallot Jam and Thyme</span>
+                                                                <span class="title-text">Grilled and Glazed Peachy Chicken</span>
                                                                  </a>
                                                         							</div>
                                                 </div>
@@ -1524,7 +1926,9 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1367862252973-0');
 			<div class="relax">&nbsp;</div>
 		</div>
 
-<style type="text/css" media="all">#avatar_footer { display: none; } /* Change this in Users > Avatars. */ </style><div id="avatar_footer">Avatars by <a href="http://www.sterling-adventures.co.uk/blog/">Sterling Adventures</a></div>	<div class="relax">&nbsp;</div>
+<style type="text/css" media="all">#avatar_footer { display: none; } /* Change this in Users > Avatars. */ </style><div id="avatar_footer">Avatars by <a href="http://www.sterling-adventures.co.uk/blog/">Sterling Adventures</a></div>	<div class="ft" style="margin-top: 15px;margin-bottom: 15px; clear: both;"></div>
+	<div class="relax">&nbsp;</div>
+
 	</div></div></div>
 
 	<!-- Footer -->
@@ -1544,21 +1948,10 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1367862252973-0');
 <li id="menu-item-4312" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4312"><a href="http://www.joyofkosher.com/contests-brands/">Contests</a></li>
 <li id="menu-item-4313" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4313"><a href="/login/">Log In</a></li>
 <li id="menu-item-4314" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4314"><a href="/login/?action=register">Register</a></li>
-</ul></div><h4>Browse The Store</h4><div class="menu-browse-store-joyofkosher-com-container"><ul id="menu-browse-store-joyofkosher-com" class="menu"><li id="menu-item-68098" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-68098"><a href="http://thestore.joyofkosher.com/index.php/jamie-s-favorites.html">Jamie’s Faves</a></li>
-<li id="menu-item-68099" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-68099"><a href="http://thestore.joyofkosher.com/index.php/fine-foods.html">Food</a></li>
-<li id="menu-item-68100" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-68100"><a href="http://thestore.joyofkosher.com/index.php/kitchen.html">Kitchen</a></li>
-<li id="menu-item-68101" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-68101"><a href="http://thestore.joyofkosher.com/index.php/entertaining.html">Entertaining</a></li>
-<li id="menu-item-68102" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-68102"><a href="http://thestore.joyofkosher.com/index.php/holiday.html">Holidays</a></li>
-<li id="menu-item-68103" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-68103"><a href="http://thestore.joyofkosher.com/index.php/gifts.html/">Gifts</a></li>
-<li id="menu-item-68104" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-68104"><a href="http://thestore.joyofkosher.com/index.php/exclusives.html">Exclusives</a></li>
-<li id="menu-item-68105" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-68105"><a href="http://thestore.joyofkosher.com/index.php/sales/order/history/">Track Orders</a></li>
-<li id="menu-item-68106" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-68106"><a href="http://thestore.joyofkosher.com/index.php/checkout/cart/">View Cart</a></li>
-<li id="menu-item-68107" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-68107"><a href="http://thestore.joyofkosher.com/index.php/shipping_and_return_policy">Shipping and Return Policy</a></li>
 </ul></div><h4>Advertising &amp; Media</h4><div class="menu-advertising-media-container"><ul id="menu-advertising-media" class="menu"><li id="menu-item-68271" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-68271"><a href="http://www.joyofkosher.com/kmn-kit/">KMN Media Kit</a></li>
 <li id="menu-item-68086" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-68086"><a href="http://www.joyofkosher.com/israel-media-kit/">Joy of Israel Media Kit</a></li>
 <li id="menu-item-68084" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-68084"><a href="http://www.joyofkosher.com/digital-advertising/">Digital Advertising</a></li>
 <li id="menu-item-68085" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-68085"><a href="http://www.joyofkosher.com/magazine-advertise/">Magazine Advertising</a></li>
-<li id="menu-item-79188" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-79188"><a href="http://www.joyofkosher.com/magazine-kosher-food-bloggers-conference/">Kosher Food Bloggers Conference</a></li>
 <li id="menu-item-4329" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4329"><a href="http://www.joyofkosher.com/joyofkosher-press-room/">Joy of Kosher Press Room</a></li>
 <li id="menu-item-4328" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4328"><a href="http://www.joyofkosher.com/jamie-geller-press-room/">Jamie Geller Press Room</a></li>
 </ul></div><h4>Our Sites</h4><div class="menu-our-sites-container"><ul id="menu-our-sites" class="menu"><li id="menu-item-4276" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-4276"><a href="http://www.joyofkosher.com">Joyofkosher.com</a></li>
@@ -1572,21 +1965,21 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1367862252973-0');
 </ul></div>		
 			
 		</div>
-
-		
-            </div>
-             <div class="Advertising_Media_bottom">
-               <div class="">
+ <div class="">
 			<h4>About </h4><div class="menu-aamymenu-container"><ul id="menu-aamymenu" class="menu"><li id="menu-item-4295" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4295"><a href="http://www.joyofkosher.com/aboutus/">About Us</a></li>
 <li id="menu-item-4294" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4294"><a href="http://www.joyofkosher.com/terms-of-use/">Terms &amp; Conditions</a></li>
 <li id="menu-item-4293" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-4267 current_page_item menu-item-4293"><a href="http://www.joyofkosher.com/privacy-policy/">Privacy Policy</a></li>
-</ul></div><h4>Subscriptions</h4><div class="menu-subscriptions-container"><ul id="menu-subscriptions" class="menu"><li id="menu-item-4343" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4343"><a href="http://www.joyofkosher.com/magazine-subscription-center/">Magazine</a></li>
-<li id="menu-item-4342" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4342"><a href="http://www.joyofkosher.com/email-newsletter-subscription/">Email Newsletter</a></li>
 </ul></div>		
 			
 		</div>
+		
+            </div>
+             <div class="Advertising_Media_bottom">
+              
         <div class="last-lists">
-			<h4>Help</h4><div class="menu-help-container"><ul id="menu-help" class="menu"><li id="menu-item-4337" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4337"><a href="http://www.joyofkosher.com/faq/">FAQ</a></li>
+			<h4>Subscriptions</h4><div class="menu-subscriptions-container"><ul id="menu-subscriptions" class="menu"><li id="menu-item-4343" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4343"><a href="http://www.joyofkosher.com/magazine-subscription-center/">Magazine</a></li>
+<li id="menu-item-4342" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4342"><a href="http://www.joyofkosher.com/email-newsletter-subscription/">Email Newsletter</a></li>
+</ul></div><h4>Help</h4><div class="menu-help-container"><ul id="menu-help" class="menu"><li id="menu-item-4337" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4337"><a href="http://www.joyofkosher.com/faq/">FAQ</a></li>
 <li id="menu-item-4283" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4283"><a href="http://www.joyofkosher.com/contact-us/">Contact Us</a></li>
 </ul></div>			
 		</div>
@@ -1597,7 +1990,7 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1367862252973-0');
             <img alt="" src="http://www.joyofkosher.com/wp-content/themes/kosher/images/jamie_new.png">           
             <ul class="aboutslist">
              <li><a href="http://www.joyofkosher.com/meet-jamie/">Meet Jamie</a></li>
-             <li><a href="http://www.joyofkosher.com/category/blogs/jamie-gellers-blog/">Jamie Geller's Blog</a></li>
+             <li><a href="http://www.joyofkosher.com/category/blogs/jamie-gellers-blog/">Jamie's Blog</a></li>
              <li><a target="_blank" href="http://www.amazon.com/Jamie-Geller/e/B001JS2GV8/ref=as_li_ss_til?tag=joyofkosher04-20&amp;camp=0&amp;creative=0&amp;linkCode=as4&amp;/ref=as_li_ss_til?tag=joyofkosher04-20&amp;camp=0&amp;creative=0&amp;linkCode=as4&amp;creativeASIN=B001JS2GV8&amp;adid=0QG3D32Q4T3NBCP17SX7">Jamie's Books</a></li>
              <li><a href="http://www.joyofkosher.com/author/jamie-geller/">Jamie's Recipes</a></li>
             </ul>
@@ -1622,13 +2015,13 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1367862252973-0');
            <div class="services newsletter">
 						<div class="textwidget"></div>
 		<h3>Sign Up For Our Newsletter</h3><script src="http://www.joyofkosher.com/wp-content/plugins/g-lock-double-opt-in-manager/js/glock2.min.js"></script><script src="http://www.joyofkosher.com/wp-content/plugins/g-lock-double-opt-in-manager/js/gsom_s.min.js"></script><form name="gsom-optin" action="http://www.joyofkosher.com/" method="post">
-        <div class="gsom-optin-form" id="gsom-optin-form-14167613690">                  
+        <div class="gsom-optin-form" id="gsom-optin-form-14351049930">                  
         </div>                
         </form><noscript><a href="http://www.glockeasymail.com/wordpress-email-newsletter-plugin-for-double-opt-in-subscription/">G-Lock opt-in manager</a> for <a href="http://www.glockeasymail.com">bulk email software</a></noscript><script type="text/javascript">  
 		(function(){			
 		function rungsom() {
        var gsomForm = [{"label":"Email:","name":"gsom_email_field","oldName":"","value":"","type":"text"},{"label":"","name":"gsomsubscribe","oldName":"","value":"Subscribe","type":"submit"}];
-       gsomBuildForm({makeDivs: true, arr:gsomForm, place:"gsom-optin-form-14167613690"});    			
+       gsomBuildForm({makeDivs: true, arr:gsomForm, place:"gsom-optin-form-14351049930"});    			
 		}
       if (window.addEventListener) {
         window.addEventListener("load", rungsom, false);
@@ -1680,7 +2073,7 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1367862252973-0');
 
    
 
-      <input type="hidden" id="autoconnect_nonce" name="autoconnect_nonce" value="112be7264e"><input type="hidden" name="_wp_http_referer" value="/privacy-policy/">   
+      <input type="hidden" id="autoconnect_nonce" name="autoconnect_nonce" value="b395216cbc"><input type="hidden" name="_wp_http_referer" value="/privacy-policy/">   
     </form>
 <script type="text/javascript">//<!--
     jfb_js_login_callback();
@@ -1808,9 +2201,9 @@ jQuery(document).ready(function(){
    //append(jQuery(".foorte_top").children('.Advertising_Media').children('.Advertising_Media_bottom').children('div').children('h4').text());
 });
 </script>
-<div id="advert1" style="display:none">
+<div id="advert1" style="display:none;">
 <div class="advertbox advertfont">
-    <div style="">
+    <div style="width:728px;height:90px;margin:0 auto;">
        <!-- botleader -->
 <div id="div-gpt-ad-1367163762631-0" style="width:728px; height:90px;">
 <script type="text/javascript"> googletag.pubads().setTargeting("remnant",["true", "false"]);
@@ -1818,16 +2211,22 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1367163762631-0');
 </script>
 </div>    </div>
 </div>
-</div>
+</div> 
+<script type="text/javascript">	
+	//	jQuery('#footer').prev().find('#content').append("<div class='ft' style='margin-top: 15px;margin-bottom: 15px; clear: both;'></div>");
+	//jQuery('#content .relax').filter(':last').before("<div class='ft' style='padding-bottom: 26px;clear: both;margin-left: 2px;'></div>");
+	jQuery('.ft').append(jQuery('#advert1'));
+jQuery('#advert1').css("display","block");
+
+</script>
 <script type="text/javascript">
 if(jQuery('#recaptcha_table').length > 0)
 {
 jQuery('#recaptcha_table tr:eq(0) td:eq(2)').css("display","none");jQuery('#recaptcha_table tr:eq(1) td:eq(2)').css("display","none");
 }
 
-jQuery('#content .relax').filter(':last').before("<div class='ft' style='padding-bottom: 26px;clear: both;margin-left: 2px;'></div>");
-jQuery('.ft').append(jQuery('#advert1'));
-jQuery('#advert1').css("display","block");
+
+
 
 
 </script>
@@ -1846,6 +2245,11 @@ jQuery('#advert1').css("display","block");
 }
 </script>
 
+<script type="text/javascript">
+/* <![CDATA[ */
+(function(){try{var s,a,i,j,r,c,l=document.getElementsByTagName("a"),t=document.createElement("textarea");for(i=0;l.length-i;i++){try{a=l[i].getAttribute("href");if(a&&a.indexOf("/cdn-cgi/l/email-protection") > -1  && (a.length > 28)){s='';j=27+ 1 + a.indexOf("/cdn-cgi/l/email-protection");if (a.length > j) {r=parseInt(a.substr(j,2),16);for(j+=2;a.length>j&&a.substr(j,1)!='X';j+=2){c=parseInt(a.substr(j,2),16)^r;s+=String.fromCharCode(c);}j+=1;s+=a.substr(j,a.length-j);}t.innerHTML=s.replace(/</g,"&lt;").replace(/>/g,"&gt;");l[i].setAttribute("href","mailto:"+t.value);}}catch(e){}}}catch(e){}})();
+/* ]]> */
+</script>
 
 
 </body></html>
