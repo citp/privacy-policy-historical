@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zerista.com privacy policy that was archived on 2014-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141119040812id_/http%3A//zerista.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zerista.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623065505id_/http%3A//zerista.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Zerista
 
@@ -8,7 +8,9 @@ Zerista is committed to maintaining your confidence and trust with respect to th
 
 ### Collection and Registration of Personal Information
 
-We sometimes request users of the Site to provide personally identifiable information. For example, in order to become a registered user of the Site, you will be required to submit certain personally identifiable information. The information collected from you is strictly voluntary. You may decline to submit personally identifiable information, in which case we may not be able to provide certain services to you. The type of information collected during the registration process may include your contact information, such as your name, e-mail address, postal address, phone number and country of residence (“Registration Information”). You may choose to provide optional profile information such as your real name, photo, company/organization affiliation, profile description, tags, location and other information which may be collected and displayed on your public profile. It is your choice to post content (for example, company affiliation) and make it publicly available. You are solely responsible for the content you post.
+We sometimes request users of the Site to provide personally identifiable information. For example, in order to become a registered user of the Site, you will be required to submit certain personally identifiable information. The information collected from you is strictly voluntary. You may decline to submit personally identifiable information, in which case we may not be able to provide certain services to you. The type of information collected during the registration process may include your contact information, such as your name, e-mail address, postal address, phone number and country of residence (“Registration Information”). You may choose to provide optional profile information such as your real name, photo, company/organization affiliation, profile description, tags, location and other information which may be collected and displayed on your public profile. It is your choice to post content (for example, company affiliation) and make it publicly available. You are solely responsible for the content you post. We do not collect any financial information.
+
+Our Site is not meant to be used by children under the age of 13, and we do not knowingly collect personal information from children under 13. If you are under 13 years of age, please do not use our Site and do not provide any personal information to us. If we discover that a child under 13 has provided us with personal information, we will delete it.
 
 ### Use of Personal Information
 
@@ -18,30 +20,44 @@ Any personal information or other content that you voluntarily disclose online (
 
 We do not use your email address, phone number, or other personally identifiable information to send commercial or marketing messages without your consent or except as part of a specific program or feature for which you will have the ability to opt-in or opt-out. We may, however, use your email address without further consent for non-marketing or administrative purposes (such as notifying you of major Site changes or for customer service purposes).
 
-We use certain non-personally-identifiable information (such as anonymous usage data, cookies, IP addresses, browser type, clickstream data, and user location) to improve the quality and design of the Site and to create new features, promotions, functionality, and services by storing, tracking, and analyzing user preferences and trends. 
+We use certain non-personally-identifiable information (such as anonymous usage data, cookies, IP addresses, browser type, clickstream data, and user location) to improve the quality and design of the Site and to create new features, promotions, functionality, and services by storing, tracking, and analyzing user preferences and trends.
 
-We use cookies, clear gifs, and log file information to: (a) remember information so that you will not have to re-enter it during your visit or the next time you visit the Site; (b) provide custom, personalized content and information; (c) monitor the effectiveness of our service; (d) monitor aggregate metrics such as total number of visitors or pages viewed; and (e) track your posts, submissions, and status in promotions, sweepstakes, and contests. 
+We use cookies, clear gifs, and log file information to: (a) remember information so that you will not have to re-enter it during your visit or the next time you visit the Site; (b) provide custom, personalized content and information; (c) monitor the effectiveness of our service; (d) monitor aggregate metrics such as total number of visitors or pages viewed; and (e) track your posts, submissions, and status in promotions, sweepstakes, and contests.  A cookie is a very small text file that a website can save onto your computer’s hard disk to store your information and settings.
 
 ### Disclosure of Personal Information to Third Parties
 
-Access to your personal information is restricted to use by Zerista, and entities acting as our agents, representatives, or partners. We do share non-personally-identifiable information (such as anonymous usage data, referring / exit pages and URLs, platform types, number of clicks, and user location) with interested third-parties to assist with understanding the usage patterns for certain content, services, advertisements, promotions, and/or functionality for the Site. 
+Access to your personal information is restricted to use by Zerista, and entities acting as our agents, representatives, or partners. We do share non-personally-identifiable information (such as anonymous usage data, referring / exit pages and URLs, platform types, number of clicks, and user location) with interested third-parties to assist with understanding the usage patterns for certain content, services, advertisements, promotions, and/or functionality for the Site.
 
-We will not otherwise disclose any personal information without your consent except: in response to subpoenas, court orders, or legal process, or to establish or exercise our rights to defend against legal claims; and if we believe it is necessary to investigate, prevent, or take action regarding illegal activities, suspected fraud, safety of person or property, violation of our policies, or as otherwise required by law. 
+We will not otherwise disclose any personal information without your consent except: in response to subpoenas, court orders, or legal process, or to establish or exercise our rights to defend against legal claims; and if we believe it is necessary to investigate, prevent, or take action regarding illegal activities, suspected fraud, safety of person or property, violation of our policies, or as otherwise required by law.
 
 ### Access and Changes to Your Registration Information and Preferences
 
-You may update or correct your personal information and email preferences at any time. The accuracy of such information is solely your responsibility. 
+You may update or correct your personal information and email preferences at any time. The accuracy of such information is solely your responsibility.
 
-To help us make e-mails more useful and interesting for registered users, we may receive a confirmation when you open e-mail from the Site. We may also compare our registered user list to lists received from other companies, in an effort to avoid sending unnecessary messages to our registered users. 
+To help us make e-mails more useful and interesting for registered users, we may receive a confirmation when you open e-mail from the Site. We may also compare our registered user list to lists received from other companies, in an effort to avoid sending unnecessary messages to our registered users.
 
 ### Retention of Personal Information
 
-We retain the personal information we collect from you for as long as the information is relevant to our business purposes or until you request that we remove the data by contacting Zerista using the contact information provided below. 
+We retain the personal information we collect from you for as long as the information is relevant to our business purposes or until you request that we remove the data by contacting Zerista using the contact information provided below.
 
 ### Our Commitment to Data Security
 
-We recognize that your privacy is important to you, and therefore we endeavor to keep your personal information confidential. For example, to protect your privacy and security, we take reasonable steps (such as requesting a unique Password) to verify your identity before granting access to a user’s account or making changes to a user’s account information. However, we do not represent, warrant, or guarantee that your personal information will be protected against unauthorized access, loss, misuse, or alterations, and do not accept any liability for the security of the personal information submitted to us nor for your or third parties’ use or misuse of personal information. You are solely responsible for maintaining the secrecy of your unique Password and account information at all times. 
+We recognize that your privacy is important to you, and therefore we endeavor to keep your personal information confidential. For example, to protect your privacy and security, we take reasonable steps (such as requesting a unique Password) to verify your identity before granting access to a user’s account or making changes to a user’s account information. However, we do not represent, warrant, or guarantee that your personal information will be protected against unauthorized access, loss, misuse, or alterations, and do not accept any liability for the security of the personal information submitted to us nor for your or third parties’ use or misuse of personal information. You are solely responsible for maintaining the secrecy of your unique Password and account information at all times.
 
 ### In the Event of Merger, Sale, or Bankruptcy
 
-In the event that Zerista is acquired by or merged with a third party entity, we reserve the right, in any of these circumstances, to transfer or assign the information we have collected from our users as part of such merger, acquisition, sale, or other change of control. In the event of our bankruptcy, insolvency, reorganization, receivership, or assignment for the benefit of creditors, or the application of laws or equitable principles affecting creditors’ rights generally, we may not be able to control how your personal information is treated, transferred, or used. 
+In the event that Zerista is acquired by or merged with a third party entity, we reserve the right, in any of these circumstances, to transfer or assign the information we have collected from our users as part of such merger, acquisition, sale, or other change of control. In the event of our bankruptcy, insolvency, reorganization, receivership, or assignment for the benefit of creditors, or the application of laws or equitable principles affecting creditors’ rights generally, we may not be able to control how your personal information is treated, transferred, or used.
+
+### Safe Harbor
+
+In accordance with our commitment to protect personal privacy, Zerista complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Zerista has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. The seven principles and fifteen Frequently Asked Questions (FAQs) referred to in this policy constitute Safe Harbor privacy framework. These principles and FAQs may be found at: http://www.export.gov/safeharbor.
+
+### Dispute Resolution
+
+Any questions or concerns regarding the use or disclosure of personal information should be directed to Zerista at the email address given below. Zerista will investigate and attempt to resolve complaints and disputes regarding use and disclosure of personal information by reference to the principles contained in this Policy. In the event of a dispute, PrivacyTrust will be happy to act as your third party arbitrator.
+
+### Changes to the Privacy Policy
+
+We may make changes to this Privacy Policy from time to time, so please visit this Privacy Policy regularly. If we make changes which we believe are material, we will inform you through the Site. Your continued use of the Site thereafter constitutes acceptance of the changes. This privacy policy came into effect on March 28th, 2011 and was last updated on May 1st, 2015.
+
+[](http://www.etrust.org/cert/896780.html)
