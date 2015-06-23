@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the extremerestraints.com privacy policy that was archived on 2014-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141110031100id_/http%3A//www.extremerestraints.com/information/policies/privacy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the extremerestraints.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623115302id_/http%3A//www.extremerestraints.com/information/policies/privacy-statement.html) for the most accurate reproduction.*
 
 # privacy statement | Bondage Gear - Sex Toys - Fucking Machines
 
@@ -6,7 +6,7 @@ Categories
 
 [New Items](http://www.extremerestraints.com/products_new.php)
 
-[25% Off Top Sex Toys](http://www.extremerestraints.com/information/new/sextoys.html?utm_source=frontpage&utm_medium=banner&utm_campaign=14Nov5FPTopToysSidelink)
+[25% Off Strict Leather](http://www.extremerestraints.com/strict-leather_375/?utm_source=frontpage&utm_medium=banner&utm_campaign=15June8FPStrictLeatherSideLink)
 
 [Bondage Gear](http://www.extremerestraints.com/bondage-gear_10/)
 
