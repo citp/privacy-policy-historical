@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rbsworldpay.com privacy policy that was archived on 2014-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141103170409id_/http%3A//www.worldpay.com//content/privacy-policy-us-0) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rbsworldpay.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623191844id_/http%3A//www.worldpay.com//content/privacy-policy-us-0) for the most accurate reproduction.*
 
 # Privacy Policy US | Worldpay
 
@@ -38,7 +38,7 @@ When you send an e-mail to us, you are communicating with us electronically and 
 
 ### 4\. Personal Information on Children
 
-We respect the privacy of your children and encourage all parents to supervise their children’s computer usage. We do not knowingly collect or retain personal information from children under the age of thirteen. We advise all visitors to our Website under the age of 13 not to disclose or provide any personally identifiable information on our Website. To learn more about the Children’s Online Privacy Protect Act (COPPA) please visit the Federal Trade Commission’s website at [_www.ftc.gov/kidzprivacy_](http://www.ftc.gov/kidzprivacy).
+We respect the privacy of your children and encourage all parents to supervise their children’s computer usage. We do not knowingly collect or retain personal information from children under the age of thirteen. We advise all visitors to our Website under the age of 13 not to disclose or provide any personally identifiable information on our Website. To learn more about the Children’s Online Privacy Protect Act (COPPA) please visit the Federal Trade Commission’s website at [_http://www.business.ftc.gov/privacy-and-security/children's-privacy_](http://www.business.ftc.gov/privacy-and-security/children's-privacy).
 
 ### 5\. Third Party Websites
 
