@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lhsystems.com privacy policy that was archived on 2014-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140926121747id_/https%3A//www.lhsystems.com/siteinfo/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lhsystems.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623122857id_/https%3A//www.lhsystems.com/siteinfo/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy policy | Lufthansa Systems
+# Lufthansa Systems: Privacy policy
 
 ## Content of online offer
 
@@ -52,7 +52,7 @@ Lufthansa Systems uses technical and organizational security measures to protect
 
 ### Enforcement of and compliance with this privacy statement
 
-Lufthansa Systems AG is committed to complying with the articles of its data protection policy as described above. 
+Lufthansa Systems GmbH & CO. KG is committed to complying with the articles of its data protection policy as described above. 
 
 Should you have any questions regarding the handling of your personal information, please contact our Group Data Protection Manager .  Together with data protection staff, this manager is also your point of contact for requests for information, suggestions or complaints. 
 
@@ -62,7 +62,7 @@ Deutsche Lufthansa AG
 FRA DSB  
 60546 Frankfurt 
 
-[Register of proceedings of the data protection officer](https://www.lhsystems.com/siteinfo/privacy-policy/register-of-proceedings-of-the-data-protection-officer.html)
+[Register of proceedings of the data protection officer](http://www.lhsystems.com/siteinfo/privacy-policy/register-of-proceedings-of-the-data-protection-officer.html)
 
 ## Legal effectiveness of this liability disclaimer
 
