@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the modcloth.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230043809id_/http%3A//www.modcloth.com/storefront/main/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the modcloth.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623204552id_/http%3A//www.modcloth.com/storefront/main/privacy) for the most accurate reproduction.*
 
 # Privacy | Help & Support | ModCloth
 
@@ -115,8 +115,6 @@ No method of transmission over the Internet, or method of electronic storage, is
   4. **Accessing Your Personal Information & Preferences**
 
 You can access, update, or change your personal information and communication preferences by signing into your [ModCloth membership page](https://www.modcloth.com/customers/dashboard) and modifying your preferences at your discretion. If you wish to cancel your account, or request that we no longer use your information to provide services to you, contact us at [support@modcloth.com](mailto:support@modcloth.com). 
-
-You can choose not to provide us with any or all of the information we specify or request, but then you may not be able to create a membership with us or to take advantage of some or all of our features.
 
 We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at [support@modcloth.com](mailto:support@modcloth.com). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
