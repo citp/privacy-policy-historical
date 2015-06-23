@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the awrcloud.com privacy policy that was archived on 2014-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141201214057id_/http%3A//www.advancedwebranking.com/online/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the awrcloud.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623042554id_/http%3A//www.advancedwebranking.com/online/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy - AWR Cloud online rank tracker
+# Privacy Policy - Advanced Web Ranking Cloud
 
 ##  Privacy policy
 
@@ -37,7 +37,7 @@ We gather this information to provide you with a unique service account and to b
   * Internal record keeping in order to maintain and protect our services.
   * For marketing research purposes in order to improve our services or to create new ones.
   * Provide you with information about your subscription to the Service, including expiration, renewal or upgrade details. 
-  * To notify you about changes to our website or any products or services we offer or provide though it.
+  * To notify you about changes to our website or any products or services we offer or provide through it.
   * To send you, from time to time, promotional emails about special offers and new products that we think you may find interesting. You can always unsubscribe if you no longer wish to receive these messages. 
 
 
@@ -64,6 +64,6 @@ Refunds are usually processed within 7 business days from the date the refund re
 
 #### Cancelling the subscription 
 
-You can cancel your paid subscription at any time, after the initial 30 days. To do this,you need to log in your AWR Cloud account, go to Settings -> Subscription Details and click on the Cancel Account button.
+You can cancel your paid subscription at any time, after the initial 30 days. To do this, you need to log in your AWR Cloud account, go to Settings -> Subscription Details and click on the Cancel Account button.
 
 When you cancel your AWR Cloud account, your subscription will be cancelled and you will not be billed again. Also, your account will be permanently removed from our servers and you need to resubscribe if you wish to access our service again.
