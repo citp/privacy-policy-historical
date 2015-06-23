@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the savvyvegetarian.com privacy policy that was archived on 2014-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141223183231id_/http%3A//savvyvegetarian.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the savvyvegetarian.com privacy policy that was archived on 2015-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150624011115id_/http%3A//www.savvyvegetarian.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Savvy Vegetarian Privacy Policy
 
@@ -15,4 +15,4 @@
 
 [](https://web.archive.org/subscribe.php)
 
-Copyright© 2002-2014 The Savvy Vegetarian Inc.® All rights reserved.
+Copyright� 2002-2014 The Savvy Vegetarian Inc.® All rights reserved.
