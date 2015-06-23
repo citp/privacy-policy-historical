@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the hsselite.com privacy policy that was archived on 2014-12-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141202030102id_/https%3A//www.hsselite.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the hsselite.com privacy policy that was archived on 2015-06-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150623202926id_/https%3A//www.hsselite.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
   <meta http-equiv="content-type" content="text/html; charset=UTF-8">
@@ -14,50 +14,57 @@
   <meta name="description" content="Hotspot Shield Elite Privacy Notice describes what information is collected by us from any user of the subscription-based Hotspot Shield Elite Version as well as our use and disclosure of that information.">
   <meta name="keywords" content="hotspot shield elite privacy, hotspot shield elite privacy notice, hotspot shield elite privacy policy, hss elite privacy policy, hotspot shield elite web security, hss elite web security, anchorfree privacy, anchorfree privacy policy, anchorfree security, anchorfree commitments, anchorfree third party advertisers, hotspot shield elite security, anchorfree, anchorfree inc">
 
-  <script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript">
+      <script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
-	var _gaq = _gaq || [];
+    ga('create', 'UA-12476316-37', 'auto', {'allowLinker': true});
+    ga('require', 'linker');
 
-	_gaq.push(['_setAccount', 'UA-12476316-37']);
-			_gaq.push(['_setDomainName', 'hsselite.com']);
-		_gaq.push(['_setAllowLinker', true]);
+    // List of every domain to share linker parameters.
+    ga('linker:autoLink', ['hsselite.com', 'esellerate.net']);
 
-	_gaq.push(['_setCustomVar',
-		1,
-		'UserCountry',
-		'US',
-		1
-	]);
-	_gaq.push(['_setCustomVar',
-		2,
-		'Status',
-		'None',
-		1
-	]);
-	_gaq.push(['_setCustomVar',
-		3,
-		'Connected',
-		'no',
-		1
-	]);
-			_gaq.push(['_setAllowAnchor', true]);
-	_gaq.push(['_trackPageview']);
+    ga('set', 'dimension1', 'US');
+    ga('set', 'dimension2', 'None');
+    ga('set', 'dimension3', 'no');
 
-	(function() {
-		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-		ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
-		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-	})();
-</script>
+var linkerParam = null;
 
+ga(function(tracker) {
+    linkerParam = tracker.get('linkerParam');
+});
+//window.ga_debug = {trace: true};
+ga('send', 'pageview');
 
-                  <link rel="stylesheet" href="https://cdn.hsselite.com/elite/css/style_new_v3.css" type="text/css">
-            <link rel="stylesheet" href="https://cdn.hsselite.com/elite/css/country-list.css" type="text/css">
+var relocation = function(href) {
+    relocationURL = href;
+    if (linkerParam) {
+        if (relocationURL.indexOf('?') !== -1) {
+            relocationURL += '&';
+        } else {
+            relocationURL += '?';
+        }
+        relocationURL += linkerParam;
+    }
+    window.location = relocationURL;
+}
+
+var reportTracking = function(action, label, option) {
+    // Load GA click trackers
+    ga('send', 'event',  action, label, option);
+}
+
+    </script>
+
+                    <link rel="stylesheet" href="//cdn.hsselite.com/elite/css/style_new_v3.css" type="text/css">
+            <link rel="stylesheet" href="//cdn.hsselite.com/elite/css/country-list.css" type="text/css">
       
   <script type="text/javascript">
     var INSTALLED = false;
     var CONNECTED = false;
-    var CDN_URL = 'https://cdn.hsselite.com/elite';
+    var CDN_URL = '//cdn.hsselite.com/elite';
 
     function response(obj){
         INSTALLED = true;
@@ -113,6 +120,11 @@
 	    }
     });
 
+    // FIX FOR iPad
+    $(document).ready(function() {
+	    $( ".d-board, .th_lng_box" ).click(function(e){});
+    });
+
   </script>
 
   <link rel="icon" href="/favicon.ico" type="image/x-icon">
@@ -123,7 +135,7 @@
   <div style="background:#393d40; height:36px;"></div>
   <div class="head-bpx">
     <div class="head">
-      <a href="/"><img src="https://cdn.hsselite.com/elite/img/new/HotspotShield.png" width="230" height="80" alt="Hotspot Shield" class="logo"></a>
+      <a href="/"><img src="//cdn.hsselite.com/elite/img/new/HotspotShield.png" width="230" height="80" alt="Hotspot Shield" class="logo"></a>
       <ul id="menu">
         <li><a href="/why">Why Shield</a></li>
         <li><a href="/how-it-works">Learn</a></li>
@@ -139,39 +151,60 @@
 
 <div class="title_box">
     <h2>Privacy Notice</h2>
-    <div class="header_social">
+	<div class="header_social">
     <iframe src="//www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.facebook.com%2Fhotspotshield&amp;send=false&amp;layout=button_count&amp;width=100&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font=arial&amp;height=21&amp;appId=119900966802" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:120px; height:21px;" allowtransparency="true"></iframe>
     <iframe allowtransparency="true" frameborder="0" scrolling="no" src="//platform.twitter.com/widgets/follow_button.html?screen_name=HotspotShield&amp;show_screen_name=false" style="width:170px; height:20px;"></iframe>
-</div></div>
+</div>
+</div>
 <div class="single c">
-    <p>Last Modified: December 13, 2011</p>
-    <p>Welcome, and thank you for your interest in AnchorFree, Inc, AnchorFree GmbH and or Affiliates ("AnchorFree"), and its Hotspot Shield software ("Hotspot Shield"). This Privacy Notice describes what information is collected by us from any user of the Hotspot Shield Free Version (collectively or individually "User(s)"), as well as our use and disclosure of that information.</p>
-    <p>NOTE TO KIDS: HOTSPOT SHIELD IS NOT AVAILABLE TO PERSONS UNDER THE AGE OF 18. <u>If you are under 18 years of age, please do not use Hotspot Shield.</u></p>
+    <p>Last Modified: April 22, 2015</p>
+    <p>Welcome, and thank you for your interest in AnchorFree, Inc and AnchorFree GmbH (“AnchorFree,” “we,” or “us”), and our Web sites at hotspotshield.com, hsselite.com, anchorfree.com and other Web sites (the “Sites”), as well as all related web sites, networks, embeddable widgets, downloadable software and mobile applications, including our Hotspot Shield software in its “free” and “Elite” versions ("Hotspot Shield"), and other services provided by us and on which a link to this Privacy Notice (this “Notice”) is displayed (collectively, together with the Sites, our “Service”). This Privacy Notice describes what information is collected by us from any user of our Service (collectively or individually "User(s)"), as well as our use and disclosure of that information.</p>
+    <p>This Notice generally describes the information that we gather from you on the Service, the ways in which we use and disclose this information, and the steps we take to protect this information. By using the Service, you consent to the privacy practices described in this Notice.</p>
+    <p>This Notice is incorporated into and is subject to the AnchorFree <a href="/terms-of-use">Terms of Use</a>. Capitalized terms used but not defined in this Notice have the meaning given to them in the AnchorFree Terms of Use.</p>
 
 
     <p><span class="h4">Our Commitment to User Privacy:</span></p>
-    <p>AnchorFree does not collect any personally identifiable information on Hotspot Shield. Hotspot Shield automatically collects certain non-personally identifiable information from Users that is used in the aggregate only. AnchorFree does not collect, store, or share any permanent identifiers of Users, including IP addresses. Please note that Hotspot Shield only enables privacy and encrypts user Internet sessions when it is turned ON. Having Hotspot Shield on the desktop, without turning it ON does not do anything. Unless Users turn Hotspot Shield ON and opt into the service, Hotspot Shield will be completely idle.</p>
+    <p>Except as explained in this Notice, AnchorFree does not collect any Personal Information about you when you use the Service.  “Personal Information,” also referred to as personally identifiable information, is information that may be tied to a specific individual. Examples of Personal Information include name, email address, mailing address, mobile phone number, and credit card or other billing information.   Please note, however, that for purposes of this Privacy Notice, AnchorFree does not include your IP address or unique device identifier within the definition of Personal Information. AnchorFree’s practices regarding IP address and unique device identifiers are described separately in this Notice. If you purchase Hotspot Shield Elite, you will be required to provide certain Personal Information to a third party Payment Processor (as defined below).  The Personal Information you provide in connection with your purchase of the Elite version of Hotspot Shield is not associated with your online activities when you use Hotspot Shield.</p>
+    <p>We automatically collect certain non-Personal Information from Users. For instance, AnchorFree assigns a unique identifier to each User of the Service, but AnchorFree does not tie these unique identifiers to the Personal Information of Users.  Additionally, any browsing information or other similar information relating to your online activities transmitted by you to our servers when using Hotspot Shield is cleared after your VPN “session” is closed.  When you use the Service, AnchorFree will check your account information (which includes Personal Information) to determine the level of service you have signed up for before establishing your VPN connection.  Your account information is not associated with your online activities when using Hotspot Shield.</p>
 
     <p><span class="h4">Our Commitment to Web Security:</span></p>
-    <p>Hotspot Shield encrypts every page visited by our Users, thus protecting communications between each User and the Internet. AnchorFree Hotspot Shield employs certain physical, managerial, and technical safeguards to preserve the integrity and security of any information collected. We cannot, however, ensure or warrant that the safeguards will be uninterrupted or effective, or that any information you transmit to AnchorFree Hotspot Shield will remain secure, and you do so at your own risk. Once we receive your transmission of information, AnchorFree employs certain techniques and technologies to ensure the security of our systems. However, please note that this is not a guarantee that such information may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards. If AnchorFree learns of a security systems breach, we may post a notice on the AnchorFree website to notify Users. Please note that Hotspot Shield helps secure your Internet session, not your computer. Hotspot Shield does not protect your computer from viruses or malware. We recommend getting anti-virus/anti-malware solutions from one of our reputable partners in order to also help secure your computer.</p>
+    <p>AnchorFree employs certain physical, managerial, and technical safeguards to preserve the integrity and security of any information collected by the Service. We cannot, however, ensure or warrant that the safeguards will be uninterrupted or effective, or that any information you transmit to the Service will remain secure, and you transmit data through the Service at your own risk.  Once we receive your transmission of information, AnchorFree employs certain techniques and technologies intended to ensure the security of our systems. However, please note that this is not a guarantee that such information may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards.</p>
+    <p>Please note that the Service does not protect your computer from viruses or malware. We recommend that you obtain and use anti-virus/anti-malware solutions and keep them up to date.</p>
 
-    <p><span class="h4">The Information Hotspot Shield Collects:</span></p>
-    <p>"Cookies" Information. When you use Hotspot Shield, we may send one or more cookies - a small text file containing a string of alphanumeric characters - to your computer. Hotspot Shield uses both session cookies and persistent cookies. A persistent cookie remains after you close your browser and may be used by your browser on subsequent use of Hotspot Shield. These persistent types of cookies can be removed, but each web browser is a little different, so please look through your browser "Help" file to learn the correct way to modify your cookies set-up.<br>"Automatically Collected" Information. When you use the Hotspot Shield, we automatically record certain information from your web browser by using different types of proprietary technology, including cookies. The automatically-collected information does not identify a User personally, and AnchorFree only uses the automatically collected information in the aggregate for various purposes, including but not limited to monitoring the advertisements displayed on the Hotspot Shield.</p>
+    <p><span class="h4">The Information We May Collect:</span></p>
+    <p><b><i>User-provided Information</i></b>. In connection with the Service (such as in user forums or when registering for an account), you may provide us with various information, including Personal Information. You may also submit Personal Information in connection with purchasing Hotspot Shield Elite, which is collected through a company providing a payment mechanism (e.g., a payment processor, Apple’s iTunes, or a similar means of payment) (each, a “Payment Processor”) and is retained by the Payment Processor.  You may also provide us with certain email account related information, such as account and credential information, which we use to enable faster sign-in by allowing pre-population of account log-in credentials when you access certain features of our Service.  Your Personal Information is not associated with your online activities when you are using Hotspot Shield and AnchorFree does not require you to provide us with your Personal Information unless you decide to upgrade to Hotspot Shield Elite or to register for an account.  You may also provide AnchorFree with Personal Information in connection with your use of the Hotspot Shield Help Desk Forums (the “Help Forum”).  Any information you submit in connection with the Help Forum is not linked with data relating to your online activities.</p>
+    <p><b><i>Cookies</i></b>. When you use our Service, we may send one or more cookies - a small text file containing a string of alphanumeric characters - to your computer.  We use both session cookies and persistent cookies. A persistent cookie remains after you close your browser and may be used by your browser on subsequent use of our Service. These persistent types of cookies can be removed, but each web browser is a little different, so please look through your browser "Help" file to learn the correct way to modify your cookies set-up.</p>
+    <p><b><i>"Automatically Collected" Information</i></b>. When you use our Service, we may automatically record certain information from your web browser by using different types of proprietary technology (such as cookies), which may include your IP address or unique device ID.   For example, we may collect your IP address when you commence your use of the Service; we do not, however, store logs associating your IP address with your online activities that take place when you are using of the Service.  The automatically-collected information is used by AnchorFree only in the aggregate, in truncated form, or in order to generate a “hashed” or “virtual” IP Address.   AnchorFree may use automatically-collected information to identify your general location, improve the Service, or optimize advertisements displayed through the Service.</p>
 
-    <p><span class="h4">The Way AnchorFree Uses Information Collected from Hotspot Shield:</span></p>
-    <p>AnchorFree may use automatically-collected information in the aggregate to monitor the advertisements displayed on the Hotspot Shield, and for purposes of research or analysis. Please note that by having Hotspot Shield on your computer, but not turned on, no information is collected by AnchorFree. Anonymous web information may only be collected when you turn Hotspot Shield ON.</p>
+    <p><span class="h4">The Way AnchorFree Uses Information:</span></p>
+    <p>AnchorFree may use automatically-collected information to monitor the advertisements displayed on the Service, and for purposes of research or analysis.  Please note that by having Hotspot Shield on your computer, but not turned on, no information is collected by AnchorFree through Hotspot Shield. Anonymous web information may only be collected through Hotspot Shield when you turn Hotspot Shield ON.</p>
+    <p>AnchorFree will use information you choose to provide voluntarily to AnchorFree only as described in this Notice and for those uses to which you otherwise consent.  For example, if you provide AnchorFree with your phone number and agree to receive text messages from AnchorFree, AnchorFree may use your phone number to send you a link to download Hotspot Shield and occasional informational text messages.  You can always tell us you do not wish to receive such messages and we will stop sending them to you after a reasonable time to implement your request.  If you choose to register with AnchorFree and provide us with your email address, we will use your email address and password to identify you at log-in, and to send you a welcome message and occasional updates, offers, or other information relating to our Service.</p>
+    <p>We may use cookies and automatically-collected information we collect on our Service to:  (i) provide customized advertisements, content, and information; (ii) monitor and analyze the effectiveness of Service and third-party marketing activities; and (iii) monitor aggregate site usage metrics such as total number of visitors and pages viewed.</p>
 
-    <p><span class="h4">When AnchorFree Discloses Information Collected from Hotspot Shield:</span></p>
-    <p>AnchorFree may share anonymous data with a variety of third parties, including its affiliates, advertisers, and other current and prospective business partners. AnchorFree may use anonymous data collected for website administration, advertising, and promotional purposes, and may share such information with various affiliated and unaffiliated entities for such purposes. AnchorFree may also enter into agreements with outside companies that possess technology that allows us to customize the advertising and marketing messages Users receive while using the Hotspot Shield, and those outside companies may have access to anonymous data that we collect from Hotspot Shield users. AnchorFree may disclose automatically collected and other aggregate non-personally-identifiable information with interested third parties to assist such parties in understanding the usage, viewing, and demographic patterns for certain programs, content, services, advertisements, promotions, and/or functionality on the Hotspot Shield.</p>
+    <p><span class="h4">When AnchorFree Discloses Information: </span></p>
+    <p>Except as described in this Notice, we will not disclose information that we collect in connection with your use of the Service to third parties without your consent.  Please remember that, although AnchorFree assigns a unique identifier to each user of the Service, AnchorFree does not tie your unique identifiers to Personal Information about you, and all browsing information or other similar information relating to your online activities transmitted by you to our servers when using Hotspot Shield is cleared after your VPN “session” is closed.</p>
+    <p>We may disclose information to third parties if you consent to us doing so, as well as in the following circumstances:</p><ul>
+          <li>AnchorFree may share anonymous or aggregated data with third parties, including its affiliates, advertisers, and other current and prospective business partners. AnchorFree may use anonymous or aggregated data collected for website administration, advertising, and promotional purposes, and may share such information with affiliated and unaffiliated entities.</li>
+          <li>AnchorFree may enter into agreements with unaffiliated entities which possess technology that allows us to customize the advertising and marketing messages Users receive while using the Service, and these unaffiliated entities may have access to non-Personal Information that we collect from Users.</li>
+          <li>AnchorFree may provide Personal Information to third-party service providers who work for AnchorFree and who may contact you to notify you of occasional updates or other information relevant to our Service.</li>
+          <li>AnchorFree may disclose automatically collected and other aggregate non-Personal Information with interested third parties to assist such parties in understanding the usage, viewing, and demographic patterns for certain programs, content, services, advertisements, promotions, and/or functionality on the Service.</li>
+          <li>AnchorFree may disclose any information, including Personal Information provided by you, if required to do so by law or in the good-faith belief that such disclosure is necessary to comply with state, federal, or international laws (such as export control, copyright or criminal laws), in response to a court order, judicial or other government subpoena or warrant, or to otherwise cooperate with law enforcement or other governmental agencies.</li>
+          <li>AnchorFree also reserves the right to disclose any information, including Personal Information provided by you, that we believe in our sole discretion is appropriate or necessary to (i) take precautions against liability, (ii) protect ourselves or others from fraudulent, abusive, or unlawful uses or activity, (iii) investigate and defend ourselves against any third-party claims or allegations, (iv) protect the security or integrity of the Service and any facilities or equipment used to make the Service available, or (v) protect our property or other legal rights (including, but not limited to, enforcement of our agreements), or the rights, property, or safety of others.</li>
+          <li>Information about our users may be disclosed and otherwise transferred to a potential or actual acquirer, or successor or assignee as part of any merger, acquisition, debt financing, sale of assets, or similar transaction, as well as in the event of an insolvency, bankruptcy, or receivership in which information is transferred to one or more third parties as one of our business assets.</li>
+        </ul><p></p>
 
-    <p><span class="h4">Third-party Advertisers, Links to Other Sites on the Hotspot Shield:</span></p>
-    <p>AnchorFree allows other companies, called third-party ad servers or ad networks, to serve advertisements within Hotspot Shield. These third-party ad servers or ad networks use technology to send, directly to your browser, the advertisements and links that appear on the Hotspot Shield. Any third parties including advertisers may automatically receive the virtual IP Address assigned by AnchorFree. Your original IP address will not be collected or provided to any third parties by AnchorFree. Advertisers may also use other technologies (such as cookies, javascript, or web beacons) to measure the effectiveness of their advertisements and to personalize their advertising content. AnchorFree's Hotspot Shield Privacy Notice does not apply to, and we cannot control the activities of, such other advertisers or other web sites visited by Users. Please note that this Privacy Notice will not apply to your activities or any information you disclose while using any third-party products or services or otherwise interacting with third parties. How third parties handle and use your personal information related to their sites and services is governed by their security, privacy and other policies, if any, and not this Privacy Notice. AnchorFree has no responsibility for any third party's policies, or any third party's compliance with them. Anyone may opt out of the cookies as directed by NAI opt-out page, which is currently located at <a href="http://www.networkadvertising.org/managing/opt_out.asp">http://www.networkadvertising.org/managing/opt_out.asp</a></p>
+    <p><span class="h4">Third-party Advertisers and Web Sites:</span></p>
+    <p>AnchorFree allows other companies, called third-party ad servers or ad networks, to serve advertisements within the Service. These third-party ad servers or ad networks use technology to send, directly to your browser, the advertisements and links that appear on the Service. Any third parties, including advertisers, may automatically receive a virtual, proxy IP Address assigned to your device by AnchorFree when you are using Hotspot Shield on protected sites. Your original IP address will not be permanently stored or provided to any third parties by your use of Hotspot Shield.  As described in our Terms, however, we may not provide a virtual IP Address for every web site you may visit and third-party web sites may receive your original IP address when you are visiting those web sites. Third-party ad networks may also use other technologies (such as cookies, javascript, or web beacons) to measure the effectiveness of their advertisements and to personalize their advertising content, and may collect information about your online activities over time and across different web sites when you use our Service. This may include rough geographical data, data relating to the frequency at which advertisements are shown, whether you are a unique viewer of an advertisement or user of a web site, the domain on which the advertisement was shown, whether the advertisement was in view on your screen and whether you engaged with or clicked on the advertisement.  Advertisers may also be able to obtain data that you willingly submit after clicking on the advertisement or through the advertisement itself, and advertisers may be able to link certain information about your web-viewing habits while using the Service by cross-referencing existing cookies or other data about you.</p>
+    <p>This Notice does not apply to, and we cannot control the activities of third parties, such as advertisers or other web sites visited by Users. Please note that this Notice will not apply to your activities or any information you disclose directly to any third party, while using any third-party products or services, or while otherwise interacting with third parties. How third parties handle and use Personal Information related to their sites and services is governed by their security, privacy and other policies, if any, and not this Notice. AnchorFree has no responsibility for any third party's policies, or any third party's compliance with them. You may exercise choices with respect to certain third party cookies, including opting out of receiving such cookies, by visiting the Digital Advertising Alliance\’s Self-Regulatory Program for Online Behavioral Advertising at <a href="http://www.aboutads.info">www.aboutads.info</a>, or by visiting the Network Advertising Initiative at <a href="http://www.networkadvertising.org/managing/opt_out.asp">www.networkadvertising.org</a>.</p>
+
+    <p><span class="h4">Your California Privacy Rights:</span></p>
+    <p>Under California Civil Code Section 1798.83, California customers are entitled to request information relating to whether a business has disclosed Personal Information to any third parties for the third parties’ direct marketing purposes.  California customers who wish to request further information about our compliance with this statute or who have questions more generally about our Notice and our privacy commitments to our customers should not hesitate to contact us at privacy@anchorfree.com.</p>
 
     <p><span class="h4">Changes and Updates to this Hotspot Shield Privacy Notice:</span></p>
-    <p>This Hotspot Shield Privacy Notice may be revised periodically and this will be reflected by the "last modified" notice above. Please revisit this page to stay aware of any changes. Your continued use of the Hotspot Shield constitutes your agreement to this Hotspot Shield Privacy Notice and any future revisions.</p>
+    <p>Please revisit this page periodically to stay aware of any changes to this Notice, which we may update from time to time. If we modify this Notice, we will make it available through the Service, and indicate the date of the latest revision.  Your continued use of the Service after the revised Notice has become effective indicates that you have read, understood, and agreed to the current version of this Notice.  In the event that the modifications materially alter your rights or obligations hereunder, we will make reasonable efforts to notify you in advance of the change (e.g., through prominent notice on the Service, via contact information you may have provided to us, or through other reasonable means).</p>
 
     <p><span class="h4">AnchorFree Contact Information:</span></p>
-    <p>Please contact AnchorFree with any questions or comments about this Hotspot Shield Privacy Notice at info@anchorfree.com. Please note that if you contact AnchorFree, you will be disclosing your personal information, and the use of such personal information will be governed by the AnchorFree Privacy Policy.</p>
+    <p>Please contact AnchorFree with any questions or comments about this Notice or about our privacy practices by emailing us at info@anchorfree.com. Please note that if you contact AnchorFree, you will be disclosing Personal Information, and the use of such Personal Information will be governed by this Privacy Notice.</p>
 
 </div>
 
@@ -188,11 +221,11 @@
 		<ul class="f_menu">
 			<li><a href="/contact-us">contact us</a></li>
 			<li><a href="/about-us">about us</a></li>
-			<li><a class="current" href="/privacy">privacy</a></li>
+			<li><a href="/privacy">privacy</a></li>
 			<li><a href="/terms-of-use">terms of use</a></li>
 			<li><a href="/become-an-affiliate">become an affiliate</a></li>
 		</ul>
-		<p class="f_copy">Copyright © 2014 AnchorFree, Inc. All Rights Reserved</p>
+		<p class="f_copy">Copyright © 2015 AnchorFree, Inc. All Rights Reserved</p>
 		<a href="/pricing" class="f_payment_systems">Various payment options accepted</a>
 		<br clear="all">
 	</div>
@@ -237,20 +270,33 @@
       tabPosition: "Left"
     });
   }
-</script>
-<!-- Quantcast Tag -->
+</script><!-- Quantcast Tag -->
 <script type="text/javascript">
-var _qevents = _qevents || [];
+	var _qevents = _qevents || [];
 
-(function() { var elem = document.createElement('script'); elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js"; elem.async = true; elem.type = "text/javascript"; var scpt = document.getElementsByTagName('script')[0]; scpt.parentNode.insertBefore(elem, scpt); })();
+	function quantServeHandler() {
+		var elem = document.createElement('script');
+		elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+		elem.async = true;
+		elem.type = "text/javascript";
+		var scpt = document.getElementsByTagName('script')[0];
+		scpt.parentNode.insertBefore(elem, scpt);
+		_qevents.push({qacct: "p-9e__RkPdAnQgk"});
+	}
 
-_qevents.push({ qacct:"p-9e__RkPdAnQgk" });
+	if (window.addEventListener) {
+		document.addEventListener("DOMContentLoaded", quantServeHandler, true);
+	} else if (window.attachEvent) {
+		window.attachEvent('onload', quantServeHandler);
+	} else {
+		quantServeHandler();
+	}
 </script>
 
 <noscript>
-<div style="display:none;">
-<img src="//pixel.quantserve.com/pixel/p-9e__RkPdAnQgk.gif" border="0" height="1" width="1" alt="Quantcast"/>
-</div>
+	<div style="display:none;">
+		<img src="//pixel.quantserve.com/pixel/p-9e__RkPdAnQgk.gif" border="0" height="1" width="1" alt="Quantcast"/>
+	</div>
 </noscript>
 <!-- End Quantcast tag -->
 
