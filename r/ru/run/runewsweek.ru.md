@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the runewsweek.ru privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231171559id_/http%3A//www.newsweek.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the runewsweek.ru privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623173553id_/http%3A//www.newsweek.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
