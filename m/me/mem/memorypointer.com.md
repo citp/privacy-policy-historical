@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the memorypointer.com privacy policy that was archived on 2014-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141225004540id_/http%3A//memorypointer.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the memorypointer.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623125522id_/http%3A//memorypointer.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Programming, web, graphic resources and reviews
+# Privacy Policy - Programming, web, graphics resources and reviews
 
 **What information do we collect?**
 
