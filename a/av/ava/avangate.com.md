@@ -1,86 +1,84 @@
-> *The following text is extracted and transformed from the avangate.com privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217165105id_/http%3A//www.avangate.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the avangate.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623205700id_/http%3A//www.avangate.com/privacy.php) for the most accurate reproduction.*
 
 # Avangate.com - Security & Privacy
 
 ##  Privacy Policy 
 
-##  BEFORE SUBMITTING YOUR PERSONAL DATA PLEASE REVIEW THE FOLLOWING: 
+##  BEFORE SUBMITTING ANY PERSONAL INFORMATION VIA THIS WEBSITE PLEASE REVIEW THE FOLLOWING AVANGATE PRIVACY POLICY. 
 
-This website is owned and operated by Avangate and or its Affiliates. Avangate respects your privacy and is committed to protecting your personal information. 
+**Scope**
 
-###  Purpose of this Document 
+This Avangate Privacy Policy, as amended from time to time ("Privacy Policy"), applies to the information that We or Our designees collect via this Website or through other means. This Privacy Policy is a part of the [Avangate Terms and Conditions](https://web.archive.org/terms.php). This Privacy Policy does not apply to any unsolicited information that You may provide to Us through the Website or any other means (for example, by Your posting information to any public areas of the Website, or providing Us with ideas concerning Products). All unsolicited information provided by You shall be deemed non-confidential and You grant Avangate a nonexclusive, royalty-free, worldwide, perpetual, irrevocable, transferable and fully sublicensable right to use the unsolicited information for any lawful purpose and without limitation or attribution. 
 
-The purpose of this Privacy Policy is to explain to you our services, the types of data obtained through your visits to our website or when you buy products or services directly from us, to explain how we use these data and what protection do we offer to your data, whether we disclose them to others, and present you the options you have for managing your data. 
+**_Privacy Notices._** In an effort to alert You further concerning Avangate's privacy practices, Avangate may also collect, use or provide Your Personal Information as disclosed in a short "Privacy Notice" posted on the Website or provided to You in the process of placing Your Order. Such Privacy Notices are in addition to and not in lieu of this Privacy Policy. 
 
-_Avangate manages your personal data, complying with applicable data protection and privacy laws and offers notice, choice and consent regarding processing your personal data._
+###  I. What Information We Gather 
 
-Avangate provides eCommerce solutions for electronic software distribution, assisting software and shareware authors worldwide in successfully selling their products online. Avangate collects, processes and uses your personal data, only in connection with the fulfilment of your orders. Some of our services are provided through sites bearing our partners' and suppliers' names and trademarks and are not in our control. Also, some services may provide links from our website to the websites of third parties who may provide services to you directly or on our behalf. 
+**Personal Information**
 
-_All transactions made on these third parties sites are governed by their privacy policies that may be different from our own._
+"Personal Information" means individually identifiable information about an individual consumer collected from that individual by Avangate via the Website or other means (for example, by Your voluntarily submitting Personal Information to Us via the completion of an order form or registration form). The types of Personal Information that We may request include, without limitation, Your name, employer, job title, department, business mailing address, home mailing address, email address, telephone number, fax number, credit card number and other credit card details, geo-location data of Your mobile or other device, including GPS-based, Wi-Fi-based, or cell-based location information. 
 
-###  Personal Data 
+In order for You to purchase the Products or participate in other Website activities, You may be required to provide Us with Personal Information. Some of the information that We ask You to provide is identified as mandatory and some is identified as voluntary. If You do not provide the mandatory information, You will not be able to place Your Order. 
 
-Avangate collects processes and uses your personal data, such as but without limiting to your first and last name, mailing address, email address, employer, job title and department, telephone and fax numbers, credit card details, IDs and other personal information required to be collected in order for us to provide you with the type or nature of ordered products/services. Some of the information that we ask you to provide is identified as mandatory and some as voluntary. If you do not provide the mandatory data you will not be able to engage in any order activity. 
+**Accessing and Updating Your Personal Information**
 
-By submitting an order through which you communicate your personal data to Avangate you will explicitly acknowledge the terms of this Privacy Policy and consent to the processing and transfer to third parties of your personal data by Avangate in accordance with this Privacy Policy and the applicable legislation. 
+You may update Your Personal Information via [Avangate myAccount](https://web.archive.org/login/) at this Website. If You should become aware that Your Personal Information with Avangate is not complete and accurate, You shall promptly update Your Personal Information via [Avangate myAccount](https://web.archive.org/login/). 
 
-As a visitor to our Site, you can engage in many activities without providing any personal information, but in connection with other optional activities, Avangate may ask you to provide certain information by filling out and submitting an online form. All these information will be collected, processed and used by Avangate only for the specific activity that you are submitting to and according to this Privacy Policy and to the extend permitted by law. 
+**Cookies**
 
-###  Use of personal data 
+"Cookies" are small text files that are placed on Your computer by websites that You visit. They are widely used in order to make websites work, or work more efficiently. Avangate and its marketing partners or suppliers may use cookies or other technologies when You interact with the Website or use the Products. Avangate's "Cookie Policy" located at <http://www.avangate.com/cookie-policy.php> is hereby incorporated into this Privacy Policy by this reference. 
 
-_Personal data provided to Avangate are primarily processed and used on our servers located at Avangate headquarters._
+**Adult Audiences Only**
 
-Avangate is using your personal data in order: 
+The Website is intended for adult audiences and is not directed to children and other individuals under the age of majority in the individual's country, and We do not knowingly collect Personal Information or other information from such individuals. You agree to notify Us immediately, via [Avangate myAccount](https://web.archive.org/login/) or by writing to the applicable Avangate office identified in the "Contact Us" section of the Website, if You become aware that We have received information from any such individuals. 
 
-  1. to processes and approve an order from you and processes and accept the online payment, including notifying you about the status of the order; 
-  2. to invoice the products/services ordered by you; 
-  3. to deliver the products/services or the keys/access codes to your address; 
-  4. to assure the security of the transaction by applying anti fraud filters, to register your purchase to the manufacturer; 
-  5. to provide you with customer and technical support; to inform you about product upgrades, special offers, and other products and services and selected third parties if you have opted to receive such communications; 
-  6. to assure that the web page content is relevant to your needs; 
-  7. to deliver services you opted for; 
-  8. to support our intent to show you the most relevant content and to improve usability of the website; 
-  9. to maintain and improve the security of the services; 
-  10. to permit access to restricted areas of the websites. 
+**Third Party Sites**
 
+Some of Our services are provided through sites that bear Our partners' or suppliers' names and trademarks and are not in Our control, and this Website may contain links or other devices that take You to other websites that are also not in Our control. Certain of those other websites may provide products or services to You directly or on Our behalf. We are not responsible for any aspect of other websites, including, without limitation, the privacy practices, products, services, or content of such websites. This Privacy Policy will not apply to such other websites. Rather, Your activity and the information that You provide at such other websites will be subject to the privacy policy and other terms and conditions posted at such other websites. 
 
+###  II. How We Use the Personal Information We Gather 
 
-Some data such as the types of used services and how many users we receive daily may be used by Avangate for statistical, marketing or promotional purposes. This kind of information is collected in aggregate/statistical form, without identifying any user individually. 
+Personal Information provided to Avangate by You, the Vendors, or other third parties, is primarily processed and stored on the servers located at Our offices within The Netherlands and/or the United States. We may change the location of the servers from time to time to other countries and without prior notice to You; however, Personal Information will continue to be protected in accordance with this Privacy Policy. 
 
-###  Protection of personal data 
+Avangate may store and use Your Personal Information and, without further notice to You, provide Your Personal Information to Avangate affiliates or to third parties in order for Avangate, its affiliates or third parties: 
 
-Your personal data provided to Avangate while you are shopping on our site, with the exception of credit card details, is collected and stored on a secure server (SSL - Secure Socket Layers), using a firewall and a digital certificate issued by Verisign TM. Such secure servers make almost impossible any attempt of third parties to access and/or use your personal data without authorization. 
+A. to process an Order from You, including processing Your online payment and notifying You of the Order status;   
+B. to invoice You for the Products ordered by You;   
+C. to deliver the Products ordered by You;   
+D. to support Our intent to maintain and improve the security of Your Order and transactions (e.g., by applying antifraud filters);   
+E. to register Your purchase with the Vendor (for warranty, technical support, or other purposes);   
+F. to provide You with customer and technical support;   
+G. to inform You about Product upgrades; special offers; other products, services and information (including from third parties); market research; or completing surveys or evaluations; if You have opted to receive such communications;   
+H. to support Our intent to show You the most relevant content and improve usability of the Website;   
+I. to provide You with access to restricted areas of the Website;   
+J. to comply with legal requirements;   
+K. to enforce the terms and conditions of this Agreement, including the investigation of potential violations; or   
+L. for any other lawful purposes. 
 
-###  Sharing personal data 
+Some data, such as the types of used services and how many users We receive daily, may be used by Avangate for statistical, marketing, promotional, or any other lawful purposes. This kind of information is collected in aggregate/statistical form, without identifying any user individually. 
 
-When necessary, in order to fulfil our contractual obligations to you, the personal data that you provide to us may be transmitted to Avangate affiliates or third parties providing services to Avangate. Avangate may in same cases provide your personal data in order to register your purchase with the manufacturer or service provider for warranty, technical support, after sales service or similar purposes. Also, Avangate may hire other companies to provide services in connection with your transaction or after sales services. These companies may have access to personal data as required to permit them to perform their obligations to us in this regard, but only in connection to your order. 
+###  III. Protection of the Personal Information We Gather 
 
-Your personal data may be transferred to persons within the European Union or within third countries whose legislation may or may not ensure an adequate level of protection. Any transfer of personal data to a third party in a country whose legislation does not offer an adequate level of protection will be performed in strict compliance with the applicable legal requirements. 
+Avangate has implemented industry-standard measures to protect the security of the Personal Information We collect via the Website. For example, We use (SSL - Secure Socket Layers), a firewall and a digital certificate issued by VerisignTM to protect certain of Your Personal Information, and We are PCI DSS (Payment Card Industry Data Security Standard) certified. No one can guarantee, and We do not guarantee, that Your Personal Information is completely secure at all times. You are also responsible for maintaining the confidentiality of Your Personal Information to protect it against unauthorized access or use. 
 
-###  Your rights 
+Avangate may retain Your Personal Information for as long as You continue to use the Website or Products, and thereafter as permitted or required by applicable law. If We delete Your Personal Information, it may still be contained on backup media or other systems. 
 
-In accordance with the applicable law, you will be granted the right of access to your personal data, and, as appropriate, the right to intervene in respect of such data, the right not to be subject to an automated individual decision and the right of access to court. You may also be entitled to object to the processing of your personal data by Avangate or request the deletion of such data, in which case, if such information is mandatory, you will no longer be able to engage in that particular order activity. For the purpose of exercising your rights, you may submit a written request to Avangate in accordance with the applicable law to addresses/fax numbers mentioned in the contact field on [www.avangate.com](http://www.avangate.com/). In addition, if you believe that Avangate has not complied with this Privacy Policy with respect to your personal information, you may submit a complaint in this respect including sufficient detail with respect to the ways in which you believe that the Privacy Policy has not been complied with. We will investigate your complaint promptly and, if we consider it justified, we will take all measures necessary to remedy the issues outlined in your complaint. 
+Your Personal Information may be transferred to persons within the European Union or to persons within other countries whose legislation may or may not ensure an adequate level of protection. We shall endeavor to comply with the laws of the country from which Your Personal Information was transferred, if We consider the laws of the country to which Your Personal Information was transferred as not ensuring an adequate level of protection. 
 
-Avangate is doing its best to keep your personal data accurate and up-to-date, but if you find out that your personal data is not accurate please contact Avangate as soon as possible. 
+We participate in the United States - European Union Safe Harbor Framework and the United States - Switzerland Safe Harbor Framework. Please see Our "Safe Harbor Policy" at <http://www.avangate.com/safe-harbor-policy.php>. 
 
-###  Cookies 
+###  IV. Your Rights 
 
-Avangate uses "cookies" and other tracking methods in order to track your visit to our site. A cookie is a small amount of data that is transferred to your browser by a web server and can only be read by the server that gave it to you, but Avangate does not use this information to identify you personally. 
+In accordance with the applicable law, Avangate will provide You with access to Your Personal Information and, as appropriate, the right to intervene in respect of Your Personal Information. You may also be entitled to object to the processing of Your Personal Information by Avangate or to request the deletion of Your Personal Information, in which case, if Avangate in its sole discretion deems such Personal Information as mandatory, Avangate may no longer permit You to engage in certain activities. For the purpose of exercising Your rights, You shall submit a written request to Avangate in accordance with the applicable law to the applicable Avangate office identified in the "Contact Us" section of the Website or via [Avangate myAccount](https://web.archive.org/login/). In addition, if You believe that Avangate has not complied with this Privacy Policy with respect to Your Personal Information, please submit a sufficiently detailed complaint to info@avangate.com, or by mail to the applicable Avangate office identified in the "Contact Us" section of the Website. We will promptly investigate Your complaint. Thereafter, We will take all measures We deem necessary to remedy the issues outlined in Your complaint that We, in Our sole discretion, view as justified. 
 
-A cookie can't read data off your hard disk or read cookie files created by other websites. We may collect information from your web sessions by using cookies, to determine, for example, user traffic patterns, and the effectiveness of our navigational structure. 
+###  V. Your Choices 
 
-You can set your browser to notify you when you receive a cookie, giving you the chance to decide whether or not to accept it. ( _For some Web pages that require an authorization, cookies are not optional. Users choosing not to accept cookies will probably not be able to access those pages._ ) 
+You can decide if You want to provide Your Personal Information to Avangate, but if You do not provide certain Personal Information, You may not be able to make purchases, enlist services or access certain options at the Website or through other means. If You choose at the Website to receive communications regarding product information, special offers, or any other marketing or other information, We may add Your Personal Information to Our email database and use (or direct Our designees to use) Your Personal Information for providing such communications to You. You may later choose to unsubscribe from receiving such communications by following the unsubscribe directions in Our communications. If You provide Avangate with inconsistent privacy preferences at the Website (for example, by indicating on one occasion that We may provide You with marketing offers and on another occasion that We may not), Avangate will endeavor to update Your privacy preferences in Avangate's records with Your latest preference in a timely manner. 
 
-###  Your Choices 
+###  VI. Questions About this Privacy Policy; Changes to this Privacy Policy 
 
-You can decide if you want or not to provide personal data to Avangate, but if you do not provide personal data you may not be able to make purchases, enlist services or access certain options. When you are making a purchase we will offer you a choice to receive communications regarding product information, special offers or any other marketing information, but you may also choose to unsubscribe later at any time. If you choose not to receive these communications, we will not use your personal data for this purpose. If you provide Avangate with inconsistent privacy preferences (for example, by indicating on one occasion that we may provide you with marketing offers and on another occasion that we may not), Avangate will endeavour to update your privacy preferences in Avangate's records with the latest preference in a timely and accurate manner. 
+If You have any questions about this Privacy Policy, please send Your inquiry to info@avangate.com, or to the applicable Avangate office identified in the "Contact Us" section of the Website. 
 
-###  Modifications 
+Avangate reserves the right to change this Privacy Policy at any time by posting notice of the changes on the Website. For additional details concerning changes to this Privacy Policy, please see Section 18.3 of the Avangate Terms and Conditions. 
 
-Avangate reserves the right to change the Privacy Policy from time to time and will provide notice of material changes on our website. Your continued use of the Site, or any materials or services accessible through it, after such notice has been posted constitutes your acceptance of the changes. 
-
-###  Applicable Law 
-
-The present Privacy Policy and/or any dispute that might arise between Avangate and/or its affiliates and you are governed by the applicable law of Avangate, as the case may be. All the disputes will be handled initially on an amiable basis and in the event that such a dispute cannot be closed in 30 days the dispute shall be settled by the competent courts from the territorial jurisdiction of AVANGATE, as the case may be. 
-
-_Last update: September, 2011_
+_Last update: March 17, 2015_
