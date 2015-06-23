@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the twcc.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230064558id_/http%3A//www.twcc.com/privacy/web_privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twcc.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623183648id_/http%3A//www.twcc.com/privacy/web_privacy_policy) for the most accurate reproduction.*
 
 # Web Privacy Policy
 
