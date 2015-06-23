@@ -1,27 +1,25 @@
-<!--The following is the downloaded HTML source of the radaris.com privacy policy that was archived on 2014-12-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141230050343id_/https%3A//radaris.com/page/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the radaris.com privacy policy that was archived on 2015-06-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150623202952id_/https%3A//radaris.com/page/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html prefix="fb: http://www.facebook.com/2008/fbml"><head>
-<title>Radaris Privacy Policy</title>
+<!DOCTYPE html><html prefix="fb: http://www.facebook.com/2008/fbml" lang="en"><head>
+    <title>Radaris Privacy Policy</title>
 <link rel="apple-touch-icon" sizes="57x57" href="/img/apple-touch-icon-114.png">
 <link rel="apple-touch-icon" sizes="114x114" href="/img/apple-touch-icon-114.png">
 <link rel="apple-touch-icon" sizes="72x72" href="/img/apple-touch-icon-144.png">
 <link rel="apple-touch-icon" sizes="144x144" href="/img/apple-touch-icon-144.png">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="description" content="Radaris Privacy Policy">
-<link href="/css/bootstrap.css?nhcmyh" rel="stylesheet">
-<script async="" src="//www.google-analytics.com/analytics.js"></script><script src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script><script src="/js/rd.js?nflb6z"></script>
-<script>
+<link href="/css/bootstrap.min.css?nqe17m" rel="stylesheet">
+<link href="/css/bootstrap-theme.css?nqej2u" rel="stylesheet">
+<link href="/css/typeahead.css?nqe17m" rel="stylesheet">
+<script async="" src="//www.google-analytics.com/analytics.js"></script><script>
 (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
 (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
 m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
 })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
 ga('create', 'UA-22616707-1', 'radaris.com');
 ga('require', 'displayfeatures');
 ga('send', 'pageview');
-
- 
 </script>
 
 </head>
@@ -32,40 +30,93 @@ ga('send', 'pageview');
 
 
 
+
+<script>
+    function jsLoad(name, onload){
+        var s = document.createElement('script');
+        s.src = name;
+        if ("function" === typeof(onload)) {
+            s.onload = onload;
+        }
+        document.getElementsByTagName('head')[0].appendChild(s);
+    }
     
+    function cssLoad(name){
+        var l = document.createElement('link'); l.rel = 'stylesheet';
+        l.href = name;
+        document.getElementsByTagName('head')[0].appendChild(l);
+    }
+    
+    
+    function jqueryOnLoad() {
+                jsLoad("/js/rd.min.js?nqe17o", function(){ 
+            $(document).ready(function(){ rdfLoadEvents(); } );
+        });
+    }
+    
+    var rdfLoadEvents = function(){
+        jsLoad('/js/jquery.placeholder.min.js', function(){$(':input[placeholder]').placeholder(); });
+        
+        $("[rel='tooltip'],[data-toggle='tooltip']").tooltip({html: true});
+        
+                    };
+        function _$_(func) {
+        if ("complete" == document.readyState && "function" == typeof(jQuery) && "function" == typeof(Rdf)) {
+                        func();
+        } else {
+            
+            var oldonload = rdfLoadEvents;
+            rdfLoadEvents = function() {
+                if (oldonload) {
+                    oldonload();
+                }
+                                func();
+            }
+            
+        }
+    }
+    
+    
+</script>
 
-<div class="main-nav">
-    <nav>
-    <ul>
-<li><a href="https://radaris.com/">People Search</a></li><li><a href="https://radaris.com/background-check">Premium Data</a></li><li><a href="https://phones.radaris.com">Phone Lookup</a></li><li><a href="http://address.radaris.com">Address Lookup</a></li><li><a href="https://radaris.com/ratings-reviews">Ratings</a></li><li><a href="https://radaris.com/radar/">Radar</a></li><li><a href="http://radaris.com/sex-offenders/">Family Safety</a></li><li><a href="https://radaris.com/more/">more ...</a></li>
-                        
-                    <li class="my-acc"><a href="https://radaris.com/login">Login</a></li>
+<script async="" src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js" onload="jqueryOnLoad()"></script>
 
-                                        <li class="mob"><a href="https://radaris.com/page/mobile">Mobile Apps</a></li>
-    </ul>
-    </nav>
-</div><header class="header">
-<div class="header-bgr">
-<div class="header-wrapper">
 
-    <div class="logo">
-        <a href="https://radaris.com/" title="Radaris">Real People. Real References.</a>
+
+
+
+<nav class="main-nav">
+    <div class="size-wrapper">
+<ul><li><a id="peopleSearchTab" href="https://radaris.com/">People Search</a></li><li><a href="https://radaris.com/background-check">Background Check</a></li><li><a id="profSearchTab" href="http://professionals.radaris.com/">Professionals</a></li><li><a id="phoneSearchTab" href="https://phones.radaris.com">Phones</a></li><li><a id="addrSearchTab" href="http://address.radaris.com">Addresses</a></li><li><a href="http://radaris.com/sex-offenders/">Family Safety</a></li><li><a href="https://radaris.com/radar/">Radar</a></li><li><a href="https://radaris.com/more/">more ...</a></li></ul>            
+            
+    
+    <div class="login-block">
+        
+
+            <a class="mobile-apps" href="https://radaris.com/page/mobile"> Apps</a>
+                                            <div class="my-acc"><a href="https://radaris.com/login">Login</a></div>
+                            </div>
+    </div>
+</nav>
+<header class="header">
+    <div class="header-wrapper">
+
+        <div class="logo">
+            <a href="https://radaris.com/" title="Radaris"></a>
+        </div>
+        
+        
     </div>
 
-<div class="clear"></div>
-
-
-</div>
-</div>
-
-
-
+    
 </header>
+
+
 
 <div class="main-wrapper container">
         
 
-<h1>Radaris Privacy policy:</h1>
+<h1>Radaris Privacy Policy:</h1>
 <div class="celar"></div>
 <hr class="top-hr">
 
@@ -174,23 +225,56 @@ Except as otherwise described in this privacy statement, Radaris will NOT disclo
 
 <footer class="footer">
     <div id="footer_seals" class="footer-seals"><div class="seal"><a name="trustlink" href="http://secure.trust-guard.com/business/5780" rel="nofollow" target="_blank" onclick="var nonwin=navigator.appName!='Microsoft Internet Explorer'?'yes':'no'; window.open(this.href.replace(/https?/, 'https'),'welcome','location='+nonwin+',scrollbars=yes,width=517,height='+screen.availHeight+',menubar=no,toolbar=no'); return false;" oncontextmenu="var d = new Date(); alert('Copying Prohibited by Law - This image and all included logos are copyrighted by trust-guard \251 '+d.getFullYear()+'.'); return false;"><img name="trustseal" alt="Business Seals" style="border: 0;" src="//dw26xg4lubooo.cloudfront.net/seals/business/5780-small.gif"></a></div><div class="seal"><div title="Click to Verify - This site chose VeriSign Trust Seal to promote trust online with consumers.">
-<script type="text/javascript" src="https://seal.verisign.com/getseal?host_name=radaris.com&amp;size=L&amp;use_flash=NO&amp;use_transparent=NO&amp;lang=en"></script><!--br />
+<!--script type="text/javascript" src="https://seal.verisign.com/getseal?host_name=radaris.com&amp;size=L&amp;use_flash=NO&amp;use_transparent=NO&amp;lang=en"></script-->
+<script>
+dn="radaris.com";
+lang="en";
+tpt="opaque";
+vrsn_style="WW";
+splash_url="https://trustsealinfo.websecurity.norton.com";
+sslcenter_url="https://www.symantec.com/page.jsp?id=ssl-information-center";
+seal_url="https://seal.websecurity.norton.com";
+
+u1=splash_url+"/splash?form_file=fdf/splash.fdf&dn="+dn+"&lang="+lang;u2=seal_url+"/getseal?at=0&sealid=0&dn="+dn+"&lang="+lang;var u5=sslcenter_url;var sopener;function symcBuySSL(){var win=window.open(u5,'_blank');win.focus();}
+function vrsn_splash(){if(sopener&&!sopener.closed){sopener.focus();}else{tbar="location=yes,status=yes,resizable=yes,scrollbars=yes,width=560,height=500";var sw=window.open(u1,'VRSN_Splash',tbar);if(sw){sw.focus();sopener=sw;}}}
+var ver=-1;var v_ua=navigator.userAgent.toLowerCase();var re=new RegExp("msie ([0-9]{1,}[\.0-9]{0,})");if(re.exec(v_ua)!==null){ver=parseFloat(RegExp.$1);}
+var v_old_ie=(v_ua.indexOf("msie")!=-1);if(v_old_ie){v_old_ie=ver<5;}
+function v_mact(e){var s;if(document.addEventListener){s=(e.target.name=="seal");if(s){vrsn_splash();return false;}}else if(document.captureEvents){var tgt=e.target.toString();s=(tgt.indexOf("splash")!=-1);if(s){vrsn_splash();return false;}}
+return true;}
+function v_mDown(event){if(document.addEventListener){return true;}
+event=event||window.event;if(event){if(event.button==1){if(v_old_ie){return true;}
+else{vrsn_splash();return false;}}else if(event.button==2){vrsn_splash();return false;}}else{return true;}}
+document.write("<img name=\"seal\" src=\""+u2+"\" oncontextmenu=\"return false;\" border=\"0\" usemap=\"#sealmap_large\" alt=\"\" /> ");document.write("<map name=\"sealmap_large\" id=\"sealmap_large\" >");document.write("<area  alt=\"Click to Verify - This site has chosen an SSL Certificate to improve Web site security\" title=\"\" href=\"javascript:vrsn_splash()\" shape=\"rect\" coords=\"0,0,130,65\" tabindex=\"-1\" style=\"outline:none;\"  />");document.write("<area  alt=\"Click to Verify - This site has chosen an SSL Certificate to improve Web site security\" title=\"\" href=\"javascript:vrsn_splash()\" shape=\"rect\" coords=\"0,65,71,88\" tabindex=\"-1\" style=\"outline:none;\"  />");document.write("<area  alt=\"\" title=\"\" href=\"javascript:symcBuySSL()\" shape=\"rect\" coords=\"71,65,130,88\" style=\"outline:none;\" />");document.write("</map>");if((v_ua.indexOf("msie")!=-1)&&(ver>=7)){var plat=-1
+var re=new RegExp("windows nt ([0-9]{1,}[\.0-9]{0,})");if(re.exec(v_ua)!==null){plat=parseFloat(RegExp.$1);}
+if((plat>=5.1)&&(plat!=5.2)){document.write("<div style='display:none'>");document.write("<img src='https://extended-validation-ssl.verisign.com/dot_clear.gif'/>");document.write("</div>");}}
+if(document.addEventListener){document.addEventListener('mouseup',v_mact,true);}
+else{if(document.layers){document.captureEvents(Event.MOUSEDOWN);document.onmousedown=v_mact;}}
+function v_resized(){if(pageWidth!=innerWidth||pageHeight!=innerHeight){self.history.go(0);}}
+if(document.layers){pageWidth=innerWidth;pageHeight=innerHeight;window.onresize=v_resized;}
+</script><img name="seal" src="https://seal.websecurity.norton.com/getseal?at=0&amp;sealid=0&amp;dn=radaris.com&amp;lang=en" oncontextmenu="return false;" border="0" usemap="#sealmap_large" alt=""> <map name="sealmap_large" id="sealmap_large"><area alt="Click to Verify - This site has chosen an SSL Certificate to improve Web site security" title="" href="javascript:vrsn_splash()" shape="rect" coords="0,0,130,65" tabindex="-1" style="outline:none;"><area alt="Click to Verify - This site has chosen an SSL Certificate to improve Web site security" title="" href="javascript:vrsn_splash()" shape="rect" coords="0,65,71,88" tabindex="-1" style="outline:none;"><area alt="" title="" href="javascript:symcBuySSL()" shape="rect" coords="71,65,130,88" style="outline:none;"></map>
+<!--br />
 <a href="http://www.verisign.com/verisign-trust-seal" target="_blank" rel="nofollow"  style="color:#000000; text-decoration:none; font:bold 7px verdana,sans-serif; letter-spacing:.5px; text-align:center; margin:0px; padding:0px;">ABOUT TRUST ONLINE</a-->
-</div></div><div class="seal"><div id="twSeal"><script type="text/javascript" src="https://sealserver.trustwave.com/seal.js?code=e935b73dbd0d4dd4b3c3d26d87f0f416"></script></div></div></div>
+</div></div><div class="seal"><div id="twSeal"><!--script type="text/javascript" src="https://sealserver.trustwave.com/seal.js?code=e935b73dbd0d4dd4b3c3d26d87f0f416"></script-->
+<img id="trustwaveSealImage" src="https://sealserver.trustwave.com/seal_image.php?customerId=e935b73dbd0d4dd4b3c3d26d87f0f416&amp;size=105x54&amp;style=" border="0" style="cursor:pointer;" onclick="javascript:window.open('https://sealserver.trustwave.com/cert.php?customerId=e935b73dbd0d4dd4b3c3d26d87f0f416&amp;size=105x54&amp;style=', 'c_TW', 'location=no, toolbar=no, resizable=yes, scrollbars=yes, directories=no, status=no, width=615, height=720'); return false;" oncontextmenu="javascript:alert('Copying Prohibited by Law - Trusted Commerce is a Service Mark of TrustWave Holdings, Inc.'); return false;" alt="This site is protected by Trustwave's Trusted Commerce program" title="This site is protected by Trustwave's Trusted Commerce program">
+</div></div></div>
     <div class="footer-wrapper-bgr">
     <div class="footer-wrapper">
         <div class="footer-menus">
               <div class="nav">
                 <ul>
-              <li><a href="https://phones.radaris.com" title="Phone Directory">Phone Directory</a></li><li><a href="https://address.radaris.com" title="Address Directory">Address Directory</a></li><li><a href="https://radaris.com/US/" title="People Directory">People Directory</a></li><li><a href="https://radaris.com/public-records" title="Public Records">Public Records</a></li><li><a href="https://radaris.com/property-records" title="Property Records">Property Records</a></li><li><a href="https://radaris.com/email-lookup" title="Email lookup">Email lookup</a></li>                </ul>
+              <li><a href="https://radaris.com/" title="People Search">People Search</a></li><li><a href="https://radaris.com/background-check" title="Background Check">Background Check</a></li><li><a href="http://professionals.radaris.com" title="Professionals Search">Professionals Search</a></li><li><a href="https://phones.radaris.com" title="Reverse Phone">Reverse Phone</a></li><li><a href="https://address.radaris.com" title="Reverse Address">Reverse Address</a></li><li><a href="https://radaris.com/sex-offenders/" title="Family Safety">Family Safety</a></li><li><a href="https://radaris.com/radar/" title="Radar">Radar</a></li>                </ul>
               </div>
               <div class="nav">
               <ul>
-              <li><a href="https://radaris.com/page/terms" title="Terms of Service">Terms of Service</a></li><li><a href="https://radaris.com/page/cancellation-policy" title="Cancellation Policy">Cancellation Policy</a></li><li><a href="https://radaris.com/page/privacy" class="active" title="Privacy Policy">Privacy Policy</a></li><li><a href="http://blog.radaris.com/" title="Blog">Blog</a></li><li><a href="https://radaris.com/ratings-reviews" title="Ratings &amp; Reviews">Ratings &amp; Reviews</a></li><li><a href="https://radaris.com/page/regional" title="Regional sites">Regional sites</a></li>                </ul>
+              <li><a href="https://radaris.com/US/" title="People Directory">People Directory</a></li><li><a href="https://radaris.com/public-records" title="Public Records">Public Records</a></li><li><a href="https://radaris.com/property-records" title="Property Records">Property Records</a></li><li><a href="https://radaris.com/email-lookup" title="Email lookup">Email lookup</a></li><li><a href="https://radaris.com/page/mobile" title="Mobile Apps">Mobile Apps</a></li><li><a href="https://radaris.com/page/regional" title="Regional sites">Regional sites</a></li>                </ul>
               </div>
               <div class="nav">
               <ul>
-                <li><a href="https://radaris.com/page/about" title="About">About</a></li><li><a href="https://radaris.com/page/principles" title="Principles">Principles</a></li><li><a href="https://radaris.com/page/inthenews" title="In the news">In the news</a></li><li><a href="https://radaris.com/help" title="Help center">Help center</a></li><li><a href="https://radaris.com/page/affiliate-program" title="Affiliate Program">Affiliate Program</a></li><li><a href="https://radaris.com/contact" title="Contact">Contact</a></li>                </ul>
+                <li><a href="https://radaris.com/page/about" title="About">About</a></li><li><a href="https://radaris.com/page/principles" title="Principles">Principles</a></li><li><a href="https://radaris.com/page/terms" title="Terms of Service">Terms of Service</a></li><li><a href="https://radaris.com/page/cancellation-policy" title="Cancellation Policy">Cancellation Policy</a></li><li><a href="https://radaris.com/page/privacy" class="active" title="Privacy Policy">Privacy Policy</a></li>                </ul>
+              </div>
+            <div class="nav">
+              <ul>
+                <li><a href="https://radaris.com/page/inthenews" title="In the news">In the news</a></li><li><a href="http://blog.radaris.com/" title="Blog">Blog</a></li><li><a href="https://radaris.com/help" title="Help center">Help center</a></li><li><a href="https://radaris.com/page/affiliate-program" title="Affiliate Program">Affiliate Program</a></li><li><a href="https://radaris.com/contact" title="Contact">Contact</a></li>                </ul>
               </div>
 
                     </div>
@@ -210,7 +294,7 @@ Except as otherwise described in this privacy statement, Radaris will NOT disclo
   <a href="https://www.facebook.com/Radaris" rel="publisher">Facebook</a> ·
   <a href="https://twitter.com/radarisamerica" rel="publisher">Twitter</a>
 </div>
-             <p class="copy">© 2014 Radaris</p>
+             <p class="copy">© 2015 Radaris</p>
         </div>
         <div class="clear"></div>
             </div>
@@ -218,13 +302,10 @@ Except as otherwise described in this privacy statement, Radaris will NOT disclo
 </footer>
 
 
+        <img style="display:none" src="//radaris.com/login/a.ub_report?t=1435091392.5516">
 
-<script>
-        $(document).ready(function(){
-            Rdf.setAhm();
-        })
-</script>
-        <img style="display:none" src="https://radaris.com/login/a.ub_report?d=%ABV%2A-%CAT%B2R%8A%D1%2FHLO%05%92E%99e%89%C9%95J%3AJE%A9i%A9EE%A9E%40%C9%8C%92%92%02%AB%18%FD%18%FD%A2%C4%94%C4%A2%CCb%BD%E4%FC%DC%18%7D%A0%9A%92b%25%2BC%13CKKCS%0B%23c%3Dc3%0B%C3Z%00">
+        
+        
 
 
 
