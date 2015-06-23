@@ -1,163 +1,94 @@
-<!--The following is the downloaded HTML source of the smartbrief.com privacy policy that was archived on 2014-12-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141231152242id_/http%3A//smartbrief.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the smartbrief.com privacy policy that was archived on 2015-06-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150623230822id_/http%3A//smartbrief.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html class="no-js" lang="en" dir="ltr"><!--<![endif]--><head>
-  <meta http-equiv="Content-Type" content="text/html; charset=utf-8"><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UQcCVlFVGwEEVVlUBgk="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),u=c.length,f=i(a,o,r),d=0;u>d;d++)c[d].apply(f,n);return f}function a(t,e){u[t]=s(t).concat(e)}function s(t){return u[t]||[]}function c(){return n(e)}var u={};return{on:a,emit:e,create:c,listeners:s,_events:u}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(u){try{r("ierr",[u,(new Date).getTime(),!0])}catch(f){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(4),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(u){"stack"in u&&(t(5),t(3),"addEventListener"in window&&t(1),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(2),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:4,2:7,3:5,4:18,5:6,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],4:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:18,2:19,ee:"QJf3ax",gos:"7eSDFh"}],5:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:19,2:18,ee:"QJf3ax"}],6:[function(t,e){function n(t,e,n){var r=t[0];"string"==typeof r&&(r=new Function(r)),t[0]=o(r,"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:19,2:18,ee:"QJf3ax"}],7:[function(t,e){function n(){c.inPlace(this,d,"fn-")}function r(t,e){c.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}var i=t("ee").create(),a=t(1),s=t(2),c=s(i),u=s(a),f=window.XMLHttpRequest,d=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=i,window.XMLHttpRequest=function(t){var e=new f(t);try{i.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",function(t,e){return e}),e.addEventListener("readystatechange",n,!1)}catch(r){try{i.emit("internal-error",[r])}catch(o){}}return e},window.XMLHttpRequest.prototype=f.prototype,c.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),i.on("send-xhr-start",r),i.on("open-xhr-start",r)},{1:4,2:19,ee:"QJf3ax"}],8:[function(t){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,u="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(u);if(f&&(r.rxSize=f),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(n.cat=d.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r,this.startTime])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,u=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var u=e(o);u&&(r.txSize=u)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",[e])}catch(r){}}};for(var f=0;c>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:9,3:7,4:4,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],9:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&c&&c.body){p.proto="https"===d.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=c.createElement("script");e.src=p.proto+t.agent,c.body.appendChild(e)}}function r(){"complete"===c.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,c=s.document,u="addEventListener",f="attachEvent",d=(""+location).split("?")[0],p=e.exports={offset:i(),origin:d,features:{}};c[u]?(c[u]("DOMContentLoaded",o,!1),s[u]("load",n,!1)):(c[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],18:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],19:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,u;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){f([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return u=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,u],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,u(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,u="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,u?s+o:o,i,s,t))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){f([o,e,n,r])}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){f([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function f(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:18,ee:"QJf3ax"}]},{},["G9z0Bl",3,8]);</script>
-<meta property="twitter:creator:id" content="24167147">
-<meta property="twitter:creator" content="@smartbrief">
-<meta property="twitter:card" content="summary">
-<meta property="twitter:url" content="http://smartbrief.com/privacy">
-<meta property="twitter:title" content="Privacy">
-<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no">
-<link rel="shortcut icon" href="http://cdn.smartbrief.com/favicon.ico" type="image/vnd.microsoft.icon">
-<meta property="twitter:description" content="Privacy and Legal Information">
-<meta property="og:url" content="http://smartbrief.com/privacy">
-<meta property="og:image" content="http://www.smartbrief.com/sites/all/themes/smartbrief/images/smartbrief_logo_fb.png">
-<meta name="description" content="Privacy and Legal Information">
+<!DOCTYPE html><html class="no-js" lang="en" dir="ltr" prefix="og: http://ogp.me/ns# article: http://ogp.me/ns/article# book: http://ogp.me/ns/book# profile: http://ogp.me/ns/profile# video: http://ogp.me/ns/video#"><!--<![endif]--><head>
+  <title>Privacy | SmartBrief</title>
+  <meta charset="utf-8"><script src="https://js-agent.newrelic.com/nr-632.min.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UQcCVlFVGwEEVVlUBgk="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),u=c.length,f=i(a,o,r),d=0;u>d;d++)c[d].apply(f,n);return f}function a(t,e){u[t]=s(t).concat(e)}function s(t){return u[t]||[]}function c(){return n(e)}var u={};return{on:a,emit:e,create:c,listeners:s,_events:u}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:20,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(u){try{r("ierr",[u,(new Date).getTime(),!0])}catch(f){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(3),window.onerror=e;try{throw new Error}catch(u){"stack"in u&&(t(4),t(5),"addEventListener"in window&&t(1),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&t(2),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:8,3:3,4:7,5:6,6:21,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:21,2:22,ee:"QJf3ax",gos:"7eSDFh"}],6:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:22,2:21,ee:"QJf3ax"}],7:[function(t,e){function n(t,e,n){t[0]=o(t[0],"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:22,2:21,ee:"QJf3ax"}],8:[function(t,e){function n(){u.inPlace(this,p,"fn-")}function r(t,e){u.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),u=c(a),f=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),f.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,u.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:5,2:22,ee:"QJf3ax"}],9:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var a=t.responseType,u="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=n(u);if(f&&(r.rxSize=f),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(e.cat=d.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,o("xhr",[e,r,this.startTime])}}}function n(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,u=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=e,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,e){var r=this.metrics,o=t[0],i=this;if(r&&o){var u=n(o);u&&(r.txSize=u)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{a.emit("internal-error",[n])}catch(r){}}};for(var f=0;c>f;f++)e.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:10,3:8,4:5,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],10:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],11:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:20,2:21,handle:"D5DuLP"}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info,e=u.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){e in t||(t[e]=n)});var n="https"===f.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=u.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=(t(2),window),u=c.document,f=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-632.min.js"},p=e.exports={offset:i(),origin:f,features:{}};u.addEventListener?(u.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(u.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()])},{1:20,2:11,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],20:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],21:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],22:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,u;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){f([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return u=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,u],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,u(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,u="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,u?s+o:o,i,s))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){f([o,e,n,r])}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){f([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function f(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:21,ee:"QJf3ax"}]},{},["G9z0Bl",4,9]);</script>
+<link rel="apple-touch-icon-precomposed" href="http://cdn.smartbrief.com/sites/all/themes/omega/omega/apple-touch-icon-precomposed-114x114.png" sizes="114x114">
+<meta http-equiv="cleartype" content="on">
+<meta name="MobileOptimized" content="width">
+<link rel="profile" href="http://www.w3.org/1999/xhtml/vocab">
+<meta name="HandheldFriendly" content="true">
+<link rel="apple-touch-icon-precomposed" href="http://cdn.smartbrief.com/sites/all/themes/omega/omega/apple-touch-icon-precomposed-144x144.png" sizes="144x144">
 <link rel="dns-prefetch" href="//cdn.smartbrief.com">
 <meta http-equiv="x-dns-prefetch-control" content="on">
+<link rel="apple-touch-icon-precomposed" href="http://cdn.smartbrief.com/sites/all/themes/omega/omega/apple-touch-icon-precomposed-72x72.png" sizes="72x72">
+<link rel="shortlink" href="/node/21318">
+<link rel="apple-touch-icon-precomposed" href="http://cdn.smartbrief.com/sites/all/themes/omega/omega/apple-touch-icon-precomposed.png">
+<meta name="description" content="Privacy and Legal Information">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=2.0">
 <link rel="canonical" href="http://smartbrief.com/privacy">
-<link rel="shortlink" href="http://smartbrief.com/node/332524">
-<meta property="og:description" content="Privacy and Legal Information">
-<meta property="og:title" content="Privacy">
+<link rel="publisher" href="https://plus.google.com/114879267989830738998">
+<meta property="og:site_name" content="SmartBrief">
 <meta property="og:type" content="article">
-  <title>Privacy | SmartBrief</title>
-  <meta name="format-detection" content="telephone=no">
+<meta property="og:url" content="http://smartbrief.com/privacy">
+<meta property="og:title" content="Privacy">
+<meta property="og:description" content="Privacy and Legal Information">
+<meta property="og:updated_time" content="2015-01-16T13:55:14-05:00">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:site" content="@smartbrief">
+<meta name="twitter:site:id" content="24167147">
+<meta name="twitter:url" content="http://smartbrief.com/privacy">
+<meta name="twitter:title" content="Privacy">
+<meta name="twitter:description" content="Privacy and Legal Information">
+<meta property="article:published_time" content="2015-01-16T13:55:14-05:00">
+<meta property="article:modified_time" content="2015-01-16T13:55:14-05:00">
+  <link type="text/css" rel="stylesheet" href="http://smartbrief.com/sites/default/files/cdn/css/http/css_KAX1mGQGHaxwDu3Ao5H5PaA6NpdnZIjVBhXd5oshOok.css" media="all">
+<link type="text/css" rel="stylesheet" href="http://smartbrief.com/sites/default/files/cdn/css/http/css_x6zpiCxPnlbIlwxBRmvjN2xk60d8n7ImM0eI99SDOyQ.css" media="all">
+<link type="text/css" rel="stylesheet" href="http://smartbrief.com/sites/default/files/cdn/css/http/css_7yBrDnTx6g6z9sVBoQsQC-2qczT6Mm5uKmgvgOIg7ds.css" media="all">
 
-  <link type="text/css" rel="stylesheet" href="http://cdn.smartbrief.com/sites/default/files/cdn/css/http/css_JU5iGrDKTf2JHg4IcECcW9YBi6pRg3WfqEei7ihfLFQ.css" media="all">
-<link type="text/css" rel="stylesheet" href="http://cdn.smartbrief.com/sites/default/files/cdn/css/http/css_HzVtrYvloaylWcHHeJF_DCbTV60KP7x6A3pnHzLoV50.css" media="all">
-<link type="text/css" rel="stylesheet" href="http://cdn.smartbrief.com/sites/default/files/cdn/css/http/css_9DqknYSlz02aMQPPle2nHQv_GmlPMpObVXzqHZuYpKQ.css" media="all">
-<link type="text/css" rel="stylesheet" href="http://cdn.smartbrief.com/sites/default/files/cdn/css/http/css_UvVUHGn85Nn8W3dzQSXzsiwqSzdJK5K3CdFj-zHjw1Y.css" media="all">
-
-<!--[if (lt IE 9)&(!IEMobile)]>
-<link type="text/css" rel="stylesheet" href="http://cdn.smartbrief.com/sites/default/files/cdn/css/http/css_VYBGPgtSmE2SBMUW2Smmi2zClJAcn2MmC2G_BpFvz5o.css" media="all" />
+<!--[if lte IE 8]>
+<link type="text/css" rel="stylesheet" href="http://smartbrief.com/sites/default/files/cdn/css/http/css_56bsyVBio_xhv5dLlueDzxgnvavGiB54Sn5HUeRV5Hk.css" media="all" />
 <![endif]-->
+<link type="text/css" rel="stylesheet" href="http://smartbrief.com/sites/default/files/cdn/css/http/css_6tfJtP9ojtc4fqxJYm3TKg70ZfiWs8fPZnC1f2nHlnQ.css" media="all">
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+<script>window.jQuery || document.write("<script src='/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js'>\x3C/script>")</script><script src="/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js"></script>
+<script src="http://smartbrief.com/sites/default/files/js/js_y7Z7qhgFhSW1Z8cS7ezxj-wbiYjq1fgQN9cHoobsD3I.js"></script>
 
-<!--[if gte IE 9]><!-->
-<link type="text/css" rel="stylesheet" href="http://cdn.smartbrief.com/sites/default/files/cdn/css/http/css_rP4-oR8TnBNkeO2gEGCPVwlHKP2pRDRrMjnM6vIvCro.css" media="all">
-<!--<![endif]-->
-  <script type="text/javascript" src="http://cdn.smartbrief.com/sites/default/files/js/js_xAPl0qIk9eowy_iS9tNkCWXLUVoat94SQT48UBCFkyQ.js"></script>
-<script type="text/javascript" src="http://cdn.smartbrief.com/sites/default/files/js/js_4TpWCh40lU_pJIq8sJAOIuLK-TvEO3YbKpkrhab_uoY.js"></script>
-<script type="text/javascript" src="http://cdn.smartbrief.com/sites/default/files/js/js_32YlAcHprf1uVw4lsRBS8PPjFKevIclCNv1A4oKmEAs.js"></script>
-<script type="text/javascript" src="http://cdn.smartbrief.com/sites/default/files/js/js_lgAAOlplEun7p_8Pb-8dM079wtvnfwLZ0hAK0mH7Dto.js"></script>
-<script type="text/javascript">
-<!--//--><![CDATA[//><!--
-var _gaq = _gaq || [];_gaq.push(["_setAccount", "UA-379167-1"]);_gaq.push(["_trackPageview"]);(function() {var ga = document.createElement("script");ga.type = "text/javascript";ga.async = true;ga.src = ("https:" == document.location.protocol ? "https://ssl" : "http://www") + ".google-analytics.com/ga.js";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ga, s);})();
-//--><!]]>
-</script>
-<script type="text/javascript" src="http://cdn.smartbrief.com/sites/default/files/js/js_bULVfcDQp7C6XjdxYKyGBGc3m7nGNwYB4d9SqD9dJHI.js"></script>
-<script type="text/javascript" src="http://cdn.smartbrief.com/sites/default/files/js/js_-M7VME63Afwg0MiET_xjvA-CP44O26m_OuamtxFYtwg.js"></script>
-<script type="text/javascript" src="http://cdn.smartbrief.com/sites/default/files/js/js_43n5FBy8pZxQHxPXkf-sQF7ZiacVZke14b0VlvSA554.js"></script>
-<script type="text/javascript">
-<!--//--><![CDATA[//><!--
-jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"smartbrief","theme_token":"fr4tWoGLIkNwZRKA4znBjerpDEir4CbyxSHk0eXyzkE","js":{"sites\/all\/themes\/smartbrief\/js\/sb_pardot.js":1,"sites\/all\/themes\/smartbrief\/js\/sb_ads.js":1,"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"misc\/states.js":1,"sites\/all\/modules\/custom\/sbadvertising\/jquery.cookie.js":1,"sites\/all\/modules\/custom\/sbadvertising\/jquery.geturl.js":1,"sites\/all\/modules\/custom\/sbadvertising\/sbadvertising.js":1,"sites\/all\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"0":1,"sites\/all\/modules\/custom\/sbsearch\/sbsearch.js":1,"sites\/all\/themes\/smartbrief\/js\/sb_functions.js":1,"sites\/all\/themes\/omega\/omega\/js\/jquery.formalize.js":1,"sites\/all\/themes\/omega\/omega\/js\/omega-mediaqueries.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/aggregator\/aggregator.css":1,"sites\/all\/modules\/contrib\/date\/date_api\/date.css":1,"sites\/all\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"sites\/all\/themes\/omega\/alpha\/css\/alpha-reset.css":1,"sites\/all\/themes\/omega\/alpha\/css\/alpha-mobile.css":1,"sites\/all\/themes\/omega\/alpha\/css\/alpha-alpha.css":1,"sites\/all\/themes\/omega\/omega\/css\/formalize.css":1,"sites\/all\/themes\/omega\/omega\/css\/omega-branding.css":1,"sites\/all\/themes\/omega\/omega\/css\/omega-menu.css":1,"sites\/all\/themes\/omega\/omega\/css\/omega-visuals.css":1,"sites\/all\/themes\/smartbrief\/css\/global.css":1,"ie::normal::sites\/all\/themes\/smartbrief\/css\/smartbrief-alpha-default.css":1,"ie::normal::sites\/all\/themes\/smartbrief\/css\/smartbrief-alpha-default-normal.css":1,"ie::normal::sites\/all\/themes\/omega\/alpha\/css\/grid\/alpha_default\/normal\/alpha-default-normal-12.css":1,"narrow::sites\/all\/themes\/smartbrief\/css\/smartbrief-alpha-default.css":1,"narrow::sites\/all\/themes\/smartbrief\/css\/smartbrief-alpha-default-narrow.css":1,"sites\/all\/themes\/omega\/alpha\/css\/grid\/alpha_default\/narrow\/alpha-default-narrow-12.css":1,"normal::sites\/all\/themes\/smartbrief\/css\/smartbrief-alpha-default.css":1,"normal::sites\/all\/themes\/smartbrief\/css\/smartbrief-alpha-default-normal.css":1,"sites\/all\/themes\/omega\/alpha\/css\/grid\/alpha_default\/normal\/alpha-default-normal-12.css":1,"wide::sites\/all\/themes\/smartbrief\/css\/smartbrief-alpha-default.css":1,"wide::sites\/all\/themes\/smartbrief\/css\/smartbrief-alpha-default-wide.css":1,"sites\/all\/themes\/omega\/alpha\/css\/grid\/alpha_default\/wide\/alpha-default-wide-12.css":1}},"states":{"#edit-search-api-views-fulltext":{"visible":{":input[name=\u0022options[operator]\u0022],dummy-empty":{"!value":"empty"},":input[name=\u0022options[operator]\u0022],dummy-not-empty":{"!value":"not empty"}}}},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip","trackCrossDomains":["www.smartbrief.com"]},"sbsearch":{"length":"1","special_char_error":"Please enter a word of at least two letters in order to search.","length_error":"Please enter a word of at least two letters in order to search.","regex":"\/^(?=.*\\d)|(?=.*[a-zA-Z])\/"},"omega":{"layouts":{"primary":"normal","order":["narrow","normal","wide"],"queries":{"narrow":"all and (min-width: 740px) and (min-device-width: 740px), (max-device-width: 800px) and (min-width: 740px) and (orientation:landscape)","normal":"all and (min-width: 980px) and (min-device-width: 980px), all and (max-device-width: 1024px) and (min-width: 1024px) and (orientation:landscape)","wide":"all and (min-width: 1220px)"}}}});
-//--><!]]>
-</script>
-  <!--[if lt IE 9]><script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
-  <script type="text/javascript">
-   jQuery('html').removeClass('no-js').addClass('js');
-  </script>
+<!--[if (gte IE 6)&(lte IE 8)]>
+<script src="http://smartbrief.com/sites/default/files/js/js_ubdkgEvwPEtxIy9Ffv98YAhCJNaodoJTmD9QtE55zD4.js"></script>
+<![endif]-->
+<script src="http://smartbrief.com/sites/default/files/js/js_02NrTQptUiTAScX4rHZuIXBh-D4aWvOjYkmX7i2BTkw.js"></script>
+<script>(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-379167-1", {"cookieDomain":"auto"});ga("require", "displayfeatures");ga("set", "anonymizeIp", true);ga("send", "pageview");</script>
+<script src="http://smartbrief.com/sites/default/files/js/js_bg3_57-n9LkfrRnbXRjPAnZomRvuI66w768--PVmBNQ.js"></script>
+<script src="http://smartbrief.com/sites/default/files/js/js_NOZ5gIG80Uw07_FDVkTRQt5qNFMLMWjlD2Sv0jgT-hg.js"></script>
+<script src="http://smartbrief.com/sites/default/files/js/js_KYC9iw3flRcrUWuNeasXZkozeRIUTkWJ2JhU6bSKD24.js"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","responsive_menus":[{"selectors":["#block-superfish-4"],"trigger_txt":"\u003Cspan class=\u0022glyph glyph-bars m-menu-icon small-display-only\u0022\u003E\u003C\/span\u003E","side":"left","speed":"200","media_size":"1050","displace":"1","onOpen":"","onClose":"","responsive_menus_style":"sidr"}],"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"},"superfish":[{"id":"4","sf":{"pathClass":"active-trail","pathLevels":"0","animation":{"opacity":"show","height":"show"},"speed":"\u0027fast\u0027","autoArrows":false,"dropShadows":false,"disableHI":false},"plugins":{"supposition":true,"bgiframe":false,"supersubs":{"minWidth":"12","maxWidth":"27","extraWidth":1}}},{"id":"6","sf":{"animation":{"opacity":"show","height":"show"},"speed":"\u0027fast\u0027","autoArrows":false,"dropShadows":false,"disableHI":false},"plugins":{"supposition":true,"bgiframe":false,"supersubs":{"minWidth":"12","maxWidth":"27","extraWidth":1}}}]});</script>
 </head>
-<body class="html not-front not-logged-in page-node page-node- page-node-332524 node-type-page context-privacy">
-  <div id="skip-link">
-    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
-  </div>
-
-  <div class="region region-page-top" id="region-page-top">
-  <div class="region-inner region-page-top-inner">
-      </div>
-</div>  <div class="page clearfix" id="page">
-      <header id="section-header" class="section section-header">
-  <div id="zone-branding-wrapper" class="zone-wrapper zone-branding-wrapper clearfix">  
-  <div id="zone-branding" class="zone zone-branding clearfix container-12">
-    <div class="grid-12 region region-branding" id="region-branding">
-  <div class="region-inner region-branding-inner">
-        <div class="branding-data clearfix">
-            <div class="logo-img">
-        <a href="/" rel="home" title="SmartBrief"><img src="http://cdn.smartbrief.com/sites/default/files/sb_logo.png" alt="SmartBrief" id="logo"></a>      </div>
-                        <hgroup class="site-name-slogan">        
-                                <h2 class="site-name element-invisible"><a href="/" title="Home">SmartBrief</a></h2>
-                              </hgroup>
-          </div>
-          </div>
-</div>  </div>
-</div>  
-  <div id="zone-menu" class="zone zone-menu clearfix menu-zone-alt container-12">
-    <div class="grid-12 region region-menu" id="region-menu">
-  <div class="region-inner region-menu-inner">
-        <div class="block block-menu main-menu-alt block-menu-main-menu block-menu-menu-main-menu odd block-without-title" id="block-menu-menu-main-menu">
-  <div class="block-inner clearfix">
-                
-    <div class="content clearfix">
-      <ul class="menu"><li class="first leaf"><a href="/browse-topics" title="">Browse Topics</a></li>
-<li class="leaf"><a href="http://advertising.smartbrief.com/" title="Advertise">Advertise</a></li>
-<li class="leaf"><a href="/partners" title="">Partner</a></li>
-<li class="last leaf"><a href="/products-services" title="">Products &amp; Services</a></li>
-</ul>    </div>
-  </div>
-</div>  </div>
+<body class="html not-front not-logged-in page-node page-node- page-node-21318 node-type-page section-privacy">
+  <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+    <div class="sbweb-container"><!-- adv_header-->
+    <div class="l-page" role="main">
+        <div class="l-header about-pages-header" role="banner">
+            <div class="l-branding">
+                <div class="logo-container">
+                        <a href="/about/our-company" title="Home" rel="home" class="site-logo"><img src="/sites/all/themes/smartbrief_3/logo-white.png" alt="Home"></a>
+                                    </div>
+                <div class="about-pages-navigation">
+                      <div class="l-region l-region--about-pages-menu">
+    <div id="block-superfish-4" class="block block--superfish block--superfish-4">
+        <div class="block__content">
+    <ul id="superfish-4" class="menu sf-menu sf-menu-about-pages-menu sf-navbar sf-style-none sf-total-items-4 sf-parent-items-2 sf-single-items-2"><li id="menu-1801-4" class="first odd sf-item-1 sf-depth-1 sf-total-children-4 sf-parent-children-0 sf-single-children-4 menuparent"><a href="/about/our-company" title="" class="sf-depth-1 menuparent">Our Company</a><ul><li id="menu-1805-4" class="first odd sf-item-1 sf-depth-2 sf-no-children"><a href="/about/our-company/leadership" title="" class="sf-depth-2">Leadership</a></li><li id="menu-1806-4" class="middle even sf-item-2 sf-depth-2 sf-no-children"><a href="/about/our-company/press" title="" class="sf-depth-2">Press</a></li><li id="menu-1807-4" class="middle odd sf-item-3 sf-depth-2 sf-no-children"><a href="/about/our-company/contact" title="" class="sf-depth-2">Contact</a></li><li id="menu-1808-4" class="last even sf-item-4 sf-depth-2 sf-no-children"><a href="https://smartbriefcareers.silkroad.com/" title="" class="sf-depth-2">Careers</a></li></ul></li><li id="menu-1802-4" class="middle even sf-item-2 sf-depth-1 sf-no-children"><a href="/about/publishing-partnerships" title="" class="sf-depth-1">Publishing Partnerships</a></li><li id="menu-1803-4" class="middle odd sf-item-3 sf-depth-1 sf-total-children-3 sf-parent-children-0 sf-single-children-3 menuparent"><a href="/about/advertising" title="" class="sf-depth-1 menuparent">Advertising</a><ul><li id="menu-1811-4" class="first odd sf-item-1 sf-depth-2 sf-no-children"><a href="/about/advertising/industries" title="" class="sf-depth-2">Industries</a></li><li id="menu-1812-4" class="middle even sf-item-2 sf-depth-2 sf-no-children"><a href="/about/advertising/solutions" title="" class="sf-depth-2">Solutions</a></li><li id="menu-1813-4" class="last odd sf-item-3 sf-depth-2 sf-no-children"><a href="/about/advertising/products-specs" title="" class="sf-depth-2">Products &amp; Specs</a></li></ul></li><li id="menu-1804-4" class="last even sf-item-4 sf-depth-1 sf-no-children"><a href="/about/content-marketing" title="" class="sf-depth-1">Content Marketing</a></li></ul>  </div>
 </div>
-<div class="grid-12 region region-topics-dropdown topics-drop-down" id="region-topics-dropdown">
-  <div class="region-inner region-topics-dropdown-inner">
-    <div class="block block-block browse_topics_block block-12 block-block-12 odd block-without-title" id="block-block-12">
-  <div class="block-inner clearfix">
-                
-    <div class="content clearfix">
-      <p class="browse_topics"><a href="/browse-topics">Browse All Briefs by Topic</a></p>
-    </div>
   </div>
-</div><div class="block block-menu block-menu-industry-menu block-menu-menu-industry-menu even block-without-title" id="block-menu-menu-industry-menu">
-  <div class="block-inner clearfix">
-                
-    <div class="content clearfix">
-      <ul class="menu"><li class="first leaf"><a href="/industry/business" title="Business">Business</a></li>
-<li class="leaf"><a href="/industry/construction" title="Construction">Construction</a></li>
-<li class="leaf"><a href="/industry/education" title="Education">Education</a></li>
-<li class="leaf"><a href="/industry/energy-chemicals" title="Energy &amp; Chemicals">Energy &amp; Chemicals</a></li>
-<li class="leaf"><a href="/industry/finance" title="Finance">Finance</a></li>
-<li class="leaf"><a href="/industry/food-beverage" title="Food &amp; Beverage">Food &amp; Beverage</a></li>
-<li class="leaf"><a href="/industry/government-nonprofit" title="Government &amp; Nonprofit">Government &amp; Nonprofit</a></li>
-<li class="leaf"><a href="/industry/healthcare" title="Health Care">Health Care</a></li>
-<li class="leaf"><a href="/industry/media" title="Media">Media</a></li>
-<li class="leaf"><a href="/industry/retail" title="Retail">Retail</a></li>
-<li class="leaf"><a href="/industry/tech" title="Tech">Tech</a></li>
-<li class="leaf"><a href="/industry/transportation" title="Transportation">Transportation</a></li>
-<li class="last leaf"><a href="/industry/travel-hospitality" title="Travel &amp; Hospitality">Travel &amp; Hospitality</a></li>
-</ul>    </div>
-  </div>
-</div>  </div>
-</div>  </div>
-</header>    
-      <section id="section-content" class="section section-content">
-  <div id="zone-preface-wrapper" class="zone-wrapper zone-preface-wrapper clearfix">  
-  <div id="zone-preface" class="zone zone-preface clearfix three-column container-12">
-    <div class="grid-12 region region-preface-first" id="region-preface-first">
-  <div class="region-inner region-preface-first-inner">
-    <div class="block block-delta-blocks block-page-title block-delta-blocks-page-title odd block-without-title" id="block-delta-blocks-page-title">
-  <div class="block-inner clearfix">
-                
-    <div class="content clearfix">
-      <h1 id="page-title" class="title">Privacy</h1>    </div>
-  </div>
-</div>  </div>
-</div>  </div>
-</div><div id="zone-content-wrapper" class="zone-wrapper zone-content-wrapper clearfix">  
-  <div id="zone-content" class="zone zone-content clearfix three-column container-12">    
-        
-        <div class="grid-6 region region-content" id="region-content">
-  <div class="region-inner region-content-inner">
-    <a id="main-content"></a>
-                        <div class="block block-system block-main block-system-main odd block-without-title" id="block-system-main">
-  <div class="block-inner clearfix">
-                
-    <div class="content clearfix">
-      <article class="node node-page node-published node-not-promoted node-not-sticky author-drowden odd clearfix" id="node-page-332524">
-            
+                    <a href="/about/our-company/contact" class="btn btn-blue">Contact Us</a>
+                </div>
+            </div>
+            <div class="subheader-container"></div>
+        </div>  <div class="l-main">
+    <div class="l-content">
+            <a id="main-content"></a>
+                                          <div>
+              </div>
+      <div>
+      <article role="article" class="node node--page node--full node--page--full">
   
-  <div class="content clearfix">
-    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><h2>Privacy and Legal Information</h2>
-<p>SmartBrief, Inc. ("SmartBrief","we" or "us") is a media company offering content across 25 key industries. Some of our content is supported by advertising and offered in partnership with more than 100 leading trade associations, professional societies, nonprofits and corporations (in this document we collectively refer to these organizations, our advertisers and certain other parties as our "Business Partners"). We offer the following privacy policy to help you understand the information that we collect, and the choices we offer in how we collect and use that information. If you have any questions about our privacy practices, please contact us at <a href="mailto:privacy@smartbrief.com">privacy@smartbrief.com</a>.</p>
-<h3>Information Collection and Use</h3>
+  
+  <div class="node__content">
+    <div class="field field--name-body field--type-text-with-summary field--label-hidden"><div class="field__items"><div class="field__item even"><div class="privacy-page">
+<h1>Privacy and Legal Information</h1>
+<p>SmartBrief, Inc. ("SmartBrief","we" or "us") is a media company offering content across 25 key industries. Some of our content is supported by advertising and offered in partnership with more than 100 leading trade associations, professional societies, nonprofits and corporations (in this document we collectively refer to these organizations, our advertisers and certain other parties as our "Business Partners"). We offer the following privacy policy to help you understand the information that we collect, and the choices we offer in how we collect and use that information. If you have any questions about our privacy practices, please contact us at&nbsp;<a href="mailto:privacy@smartbrief.com">privacy@smartbrief.com</a>.</p>
+<h2>Information Collection and Use</h2>
 <p>SmartBrief collects and uses information about you in several different ways that are outlined in this document. We do so to:</p>
 <ul><li>provide relevant, personalized, targeted news and information.</li>
 <li>help target the advertising messages that are included in our e-mail newsletters and other communications, so that we are able to continue providing them to you at no cost.</li>
@@ -169,157 +100,58 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
 <p>SmartBrief also collects non-personally identifiable information from visitors to this website, from readers who have downloaded one of SmartBrief’s mobile apps, and from subscribers to our e-mail newsletters. Non-personally identifiable information is information that, by itself, cannot be used to identify a particular person or entity, such as your IP host address, pages viewed, browser or e-mail client type, Internet browsing and usage habits, Internet Service Provider, domain name, the time/date of your visit to this website, the referring URL and your computer’s operating system. Non-personally identifiable information is generally used to help us administer the website and other services we offer, and to improve our product offerings.</p>
 <p>We also aggregate information about our subscribers and the ways in which they use our products and services. This information does not identify you personally. We use this information for market research purposes and to improve the quality of the products and services we offer. We reserve the right to disclose aggregated, non-personally identifiable information we have collected to third parties for any purpose.</p>
 <h5>Cookies and Web Beacons</h5>
-<p>SmartBrief uses cookies, which are small text files maintained by your browser. Session cookies are generally used to aid navigation on our website, while persistent cookies allow us to maintain information between visits, such as the number of site visits, and user preferences, such as your user name. A persistent cookie remains on your hard drive for a limited time period, after which it expires and is deleted by your browser. We also allow third parties to place cookies onto your computer or mobile device. You can remove persistent cookies prior to their expiration by following directions provided in your Internet browser’s help file. For more information about cookies, please visit <a href="http://www.allaboutcookies.org/cookies/">http://www.allaboutcookies.org/cookies/</a>. If users reject the cookies, they still may use our website. However, please note that if you disable cookies, the functionality offered by the website may be limited as a result.</p>
+<p>SmartBrief uses cookies, which are small text files maintained by your browser. Session cookies are generally used to aid navigation on our website, while persistent cookies allow us to maintain information between visits, such as the number of site visits, and user preferences, such as your user name. A persistent cookie remains on your hard drive for a limited time period, after which it expires and is deleted by your browser. We also allow third parties to place cookies onto your computer or mobile device. You can remove persistent cookies prior to their expiration by following directions provided in your Internet browser’s help file. For more information about cookies, please visit&nbsp;<a href="http://www.allaboutcookies.org/cookies/" target="_blank">http://www.allaboutcookies.org/cookies/</a>. If users reject the cookies, they still may use our website. However, please note that if you disable cookies, the functionality offered by the website may be limited as a result.</p>
 <p>SmartBrief also uses web beacons. A web beacon is a tiny, opaque graphic image, usually no larger than 1 pixel x 1 pixel, which is placed on a website or in an e-mail that is used to monitor the behavior of the user.</p>
 <p>SmartBrief uses cookies and web beacons to understand browsing activities so that we can measure the success of online advertising and e-mail campaigns, and to deliver more relevant content and advertising to you and other readers. For more information, please scroll down to the section entitled “Advertising Choices.”</p>
-<h3>Information Sharing and Disclosure</h3>
+<h2>Information Sharing and Disclosure</h2>
 <p>On a periodic basis, we share information collected from you with trade associations and other Business Partners with whom we do business. As an example, if you subscribe to a SmartBrief sponsored by a trade association of which you are not a member, we may provide your information to that trade association, who might seek to contact you or invite you to participate in other association activities. We do not share personally identifiable information with advertisers, except in accordance with this policy or unless we believe you have given us permission to do so. If you supply information directly to SmartBrief or to a Business Partner via a registration form on a SmartBrief website as part of a promotion, contest, third-party subscription or similar activity, we may supply both the personally identifiable and non-personally identifiable information you provide directly to our Business Partner and deem that you have granted us that permission. In addition, when you provide such information, we may retain this information and use it to augment your subscriber profile for our records and possible later use as provided in this policy. If SmartBrief or a Business Partner is conducting a promotion in which your information will be shared in ways other than as set forth in this privacy policy, we will disclose such sharing prior to the transfer and you will be given the opportunity to request that your information not be shared. In some cases, you may not be able to participate in a particular promotion if you have chosen not to share personally identifiable information.</p>
 <p>SmartBrief does not rent, sell or share your personally identifiable information with nonaffiliated third parties without your consent. SmartBrief may, however, share personally identifiable information with trusted third-party contractors. These third-party contractors are prohibited from using the information for purposes other than performing services for SmartBrief.</p>
 <p>SmartBrief may disclose your information to third parties when obligated to do so by law and to investigate, prevent, or take action regarding suspected or actual prohibited activities, including but not limited to fraud and situations involving potential threats to the physical safety of any person. We reserve the right to disclose aggregated, non-personally identifiable information we have collected to third parties for any purpose.</p>
 <p>Finally, SmartBrief may transfer information, including any personally identifiable information, to a successor entity in connection with a corporate merger, consolidation, sale of assets, bankruptcy, or other corporate change. If SmartBrief is involved in a merger, acquisition or sale of all or a portion of its assets, you will be notified via e-mail and/or a prominent notice on our website of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information.&nbsp;</p>
-<h3>Security</h3>
+<h2>Security</h2>
 <p>SmartBrief has security measures in place to protect the loss, misuse and alteration of the information under our control. Our hardware infrastructure is housed in a controlled access facility that restricts access to authorized individuals with positive identification. The network infrastructure is protected by a firewall and traffic is monitored and logged both on the firewall and servers. Sensitive administrative activities are carried out over secure, encrypted links between our offices and hosting facility. Administrative access is limited not only to authorized employees but also to specific remote administration protocols and IP addresses. The information under our care is backed up daily to protect against accidental loss. All employees with access to personally identifiable information are trained in SmartBrief's security policies and practices. SmartBrief will continue to conduct internal audits of its security systems and make all necessary enhancements to ensure the safety of the website and its users. No method of transmission over the Internet or method of electronic storage is 100% secure; therefore, while SmartBrief strives to use commercially acceptable means to protect your information, we cannot guarantee absolute security.&nbsp;</p>
-<h3>Children's Privacy</h3>
+<h2>Children's Privacy</h2>
 <p>SmartBrief’s products and services are generally designed for those ages 18 and older. SmartBrief does not knowingly collect personally identifiable information from anyone younger than 13. If the company is made aware that it has received personally identifiable information from someone younger than 13, it will use reasonable efforts to remove that information from its records.</p>
-<h3>Advertising Choices and Subscription Preferences</h3>
-<p>As described above, SmartBrief collects non-personally identifiable information via our website and via the sites of our Business Partners and other third parties to help tailor content and advertising. We also enable Business Partners and other third parties to collect non-personally identifiable information from the SmartBrief website. Cookies and web beacons are typically used to help collect this information. We support the industry self-regulation program established for Online Behavioral Advertising (“OBA”). For more information about these practices, and to learn about the choices available to you regarding how this information is used, please visit <a href="http://www.AboutAds.info" target="_blank">www.AboutAds.info</a>. The site provides you with an option to opt out of some or all OBA as you prefer. Please note that preferences are stored separately for each browser and device you use, so you may have to repeat the opt-out process if you wish your preferences to apply universally.</p>
+<h2>Advertising Choices and Subscription Preferences</h2>
+<p>As described above, SmartBrief collects non-personally identifiable information via our website and via the sites of our Business Partners and other third parties to help tailor content and advertising. We also enable Business Partners and other third parties to collect non-personally identifiable information from the SmartBrief website. Cookies and web beacons are typically used to help collect this information. We support the industry self-regulation program established for Online Behavioral Advertising (“OBA”). For more information about these practices, and to learn about the choices available to you regarding how this information is used, please visit&nbsp;<a href="http://www.aboutads.info/" target="_blank">www.AboutAds.info</a>. The site provides you with an option to opt out of some or all OBA as you prefer. Please note that preferences are stored separately for each browser and device you use, so you may have to repeat the opt-out process if you wish your preferences to apply universally.</p>
 <p>Each non-transactional e-mail sent through the SmartBrief system contains an easy, automated way for you to stop receiving that newsletter. To unsubscribe, click the "unsubscribe" link in the footer of an e-mail from SmartBrief and follow the directions to communicate your preferences to us. Alternatively, you may reply to your SmartBrief e-mail and type the word "UNSUBSCRIBE" in the subject line.</p>
 <p>We also encourage you to participate in our referral program to share SmartBrief with a friend or colleague. When you provide us with a referral’s e-mail address, we store this information for the sole purpose of sending the referral a one-time e-mail inviting him or her to register on the SmartBrief website. We will not send newsletters or any additional e-mails until your referral has indicated to us that they desire to receive such material.</p>
-<h3>Correct/Update</h3>
-<p>SmartBrief gives users the option to change and modify personally identifiable information previously provided. To change such information, follow the link provided in the confirmation e-mail you received upon registering, or visit <a href="https://www.smartbrief.com/subscribertools/login.jsp">https://www.smartbrief.com/subscribertools/login.jsp</a> and log in with the credentials you provided when you first registered.</p>
-<h3>United States</h3>
+<h2>Correct/Update</h2>
+<p>SmartBrief gives users the option to change and modify personally identifiable information previously provided. To change such information, follow the link provided in the confirmation e-mail you received upon registering, or visit&nbsp;<a href="https://www.smartbrief.com/subscribertools/login.jsp">https://www.smartbrief.com/subscribertools/login.jsp</a>&nbsp;and log in with the credentials you provided when you first registered.</p>
+<h2>United States</h2>
 <p>Information collected or used by SmartBrief pursuant to this privacy policy may be transferred, used and stored anywhere in the United States. If you access the website or otherwise use our products and services, you consent to the capture, storage, transfer, use and processing of your information under the laws of the United States. You agree that all transactions relating to SmartBrief shall be deemed to have occurred in the United States, where we currently have our personnel and operations.</p>
-<h3>Changes to this Privacy Policy</h3>
-<p>This privacy policy is subject to change. If SmartBrief plans to make any substantive changes in the way we use the personally identifiable information under our control, we will post a clear and conspicuous notice on our website prior to the changes being made. We are happy to answer any questions you may have about our services or privacy policy. Feel free to e-mail questions to <a href="mailto:privacy@smartbrief.com">privacy@smartbrief.com</a>.</p>
+<h2>Changes to this Privacy Policy</h2>
+<p>This privacy policy is subject to change. If SmartBrief plans to make any substantive changes in the way we use the personally identifiable information under our control, we will post a clear and conspicuous notice on our website prior to the changes being made. We are happy to answer any questions you may have about our services or privacy policy. Feel free to e-mail questions to&nbsp;<a href="mailto:privacy@smartbrief.com">privacy@smartbrief.com</a>.</p>
 <p><em>Last updated on September 14, 2012</em></p>
-<h3>Legal Information</h3>
+<h2>Legal Information</h2>
 <p>Although we do everything within our power to protect the privacy of the information provided by the users of our site, we do reserve the right to share user information in the event it is necessary to comply with any subpoena, court orders or legal process. Copyright © 1999-2012 SmartBrief, Inc. All rights reserved. Protected by copyright laws of the United States and international treaties. Reproduction, copying or redistribution for commercial purposes is strictly prohibited without the express written permission of SmartBrief. SmartBrief contains links to third-party websites. The linked sites are not under the control of SmartBrief, and SmartBrief is not responsible for the contents, advertising, products, or any other materials or links contained in those linked sites. SmartBrief provides these links only as a convenience, and inclusion of a link does not imply endorsement of the linked site by SmartBrief, its Business Partners or its affiliates. Information, documents, and links included in SmartBrief are provided "as is" without any warranty. While SmartBrief uses reasonable efforts to include accurate information, it does not make any representation as to its accuracy or completeness. The material is available to users at their own risk and SmartBrief is not liable for any damages arising from the use of SmartBrief.</p>
+</div>
 </div></div></div>  </div>
-  
-  <div class="clearfix">
-          <nav class="links node-links clearfix"></nav>
-    
-      </div>
-</article>    </div>
-  </div>
-</div>      </div>
-</div><aside class="grid-2 region region-sidebar-first" id="region-sidebar-first">
-  <div class="region-inner region-sidebar-first-inner">
-    <div class="block block-menu block-menu-about-us block-menu-menu-about-us odd block-without-title" id="block-menu-menu-about-us">
-  <div class="block-inner clearfix">
-                
-    <div class="content clearfix">
-      <ul class="menu"><li class="first last expanded"><a href="/about" title="About Us">About Us</a><ul class="menu"><li class="first leaf"><a href="/about/management" title="Management Team">Management Team</a></li>
-<li class="leaf"><a href="/about/board-of-directors" title="Board of Directors">Board of Directors</a></li>
-<li class="leaf"><a href="/about/news" title="">In the Media</a></li>
-<li class="leaf"><a href="/about/press-releases" title="">Press Releases</a></li>
-<li class="last leaf"><a href="https://smartbriefcareers.silkroad.com/" title="Careers">Careers</a></li>
-</ul></li>
-</ul>    </div>
-  </div>
-</div><div class="block block-menu help-menu block-menu-help-support-menu block-menu-menu-help-support-menu even block-without-title" id="block-menu-menu-help-support-menu">
-  <div class="block-inner clearfix">
-                
-    <div class="content clearfix">
-      <ul class="menu"><li class="first expanded"><a href="/faq" title="Get Help with SmartBrief">Help/FAQ</a><ul class="menu"><li class="first last leaf"><a href="https://help.smartbrief.com/web/index.php?pg=request" title="Send us feedback">Send Feedback</a></li>
-</ul></li>
-<li class="last leaf"><a href="/contact" title="Contact SmartBrief">Contact SmartBrief</a></li>
-</ul>    </div>
-  </div>
-</div>  </div>
-</aside><aside class="grid-4 region region-sidebar-second" id="region-sidebar-second">
-  <div class="region-inner region-sidebar-second-inner">
-      </div>
-</aside>  </div>
-</div><div id="zone-postscript-wrapper" class="zone-wrapper zone-postscript-wrapper clearfix">  
-  <div id="zone-postscript" class="zone zone-postscript clearfix container-12">
-    <div class="grid-6 region region-postscript-first postscript-first-alt" id="region-postscript-first">
-  <div class="region-inner region-postscript-first-inner">
-    <div class="block block-views block--exp-solr-search-page block-views-exp-solr-search-page odd block-without-title" id="block-views-exp-solr-search-page">
-  <div class="block-inner clearfix">
-                
-    <div class="content clearfix">
-      <form class="search-api-search-form" action="/search" method="get" id="views-exposed-form-solr-search-page" accept-charset="UTF-8"><div><div class="views-exposed-form">
-  <div class="views-exposed-widgets clearfix">
-          <div id="edit-search-api-views-fulltext-wrapper" class="views-exposed-widget views-widget-filter-search_api_views_fulltext">
-                  <label for="edit-search-api-views-fulltext">
-            Search Terms          </label>
-                        <div class="views-widget">
-          <div class="form-item form-type-textfield form-item-search-api-views-fulltext">
- <input type="text" id="edit-search-api-views-fulltext" name="search_api_views_fulltext" value="" size="30" maxlength="128" class="form-text required error">
-</div>
-        </div>
-              </div>
-                    <div class="views-exposed-widget views-submit-button">
-      <input type="submit" id="edit-submit-solr-search" name="" value="Search" class="form-submit">    </div>
-      </div>
-</div>
-</div></form>    </div>
-  </div>
-</div><div class="block block-block header_social_links block-4 block-block-4 even block-without-title" id="block-block-4">
-  <div class="block-inner clearfix">
-                
-    <div class="content clearfix">
-      <p>Follow</p>
-<ul id="header_social_links"><li><a class="ir" href="http://www.facebook.com/smartbrief" rel="external">Facebook</a></li>
-<li><a class="ir" href="https://twitter.com/smartbrief" rel="external">Twitter</a></li>
-<li><a class="ir" href="http://www.linkedin.com/company/smartbrief/" rel="external">LinkedIn</a></li>
-</ul><!-- header_social_links -->    </div>
-  </div>
-</div><div class="block block-menu block-menu-meta-nav block-menu-menu-meta-nav odd block-without-title" id="block-menu-menu-meta-nav">
-  <div class="block-inner clearfix">
-                
-    <div class="content clearfix">
-      <ul class="menu"><li class="first leaf"><a href="/about" title="">About Us</a></li>
-<li class="leaf"><a href="http://smartblogs.com/" title="Smartblogs.com">Blogs</a></li>
-<li class="last leaf"><a href="https://www2.smartbrief.com/subscribertools/auth/myaccount.action" title="My Account">My Account</a></li>
-</ul>    </div>
-  </div>
-</div>  </div>
-</div><div class="grid-8 region region-postscript-second" id="region-postscript-second">
-  <div class="region-inner region-postscript-second-inner">
-    <div class="block block-block block-3 block-block-3 odd block-without-title" id="block-block-3">
-  <div class="block-inner clearfix">
-                
-    <div class="content clearfix">
-      <ul id="footer_social_links"><li><a class="ir facebook" title="Follow Us on Facebook" href="http://www.facebook.com/smartbrief" rel="external" target="_blank">Facebook</a></li><li><a class="ir twitter" title="Follow Us on Twitter" href="https://twitter.com/smartbrief" rel="external" target="_blank">Twitter</a></li><li><a class="ir linkedin" title="Follow Us on LinkedIn" href="http://www.linkedin.com/company/smartbrief/" rel="external" target="_blank">LinkedIn</a></li></ul><!-- footer_social_links --><ul id="footer_first_links"><li><a title="Frequently Asked Questions" href="/faq" target="_self">FAQ</a></li><li><a title="View Industry Topics and their Related Briefs" href="/browse-topics" target="_self">Topics &amp; Related Briefs</a></li><li><a title="Submit Press Release" href="http://www.smartbrief.com/press/" target="_self">Submit a Press Release</a></li><li><a title="Post a Job" href="https://jobs.smartbrief.com/index.jsp" target="_self">Post a Job</a></li><li><a title="Send Feedback" href="https://help.smartbrief.com/web/index.php?pg=request" target="_self">Feedback</a></li></ul><!-- footer_first_links -->    </div>
-  </div>
-</div>  </div>
-</div><div class="grid-4 region region-postscript-third" id="region-postscript-third">
-  <div class="region-inner region-postscript-third-inner">
-    <div class="block block-sbtheme block-sbtheme-copyright block-sbtheme-sbtheme-copyright odd block-without-title" id="block-sbtheme-sbtheme-copyright">
-  <div class="block-inner clearfix">
-                
-    <div class="content clearfix">
-      <p id="footer_logo_p"><a href="/"><img id="footer_logo" src="http://cdn.smartbrief.com/sites/default/files/sb_footer_logo.png" alt="SmartBrief" width="222" height="40"></a></p><p>©2014 SmartBrief</p>    </div>
-  </div>
-</div>  </div>
-</div>  </div>
-</div></section>    
-  
-      <footer id="section-footer" class="section section-footer">
- <div id="zone-footer-wrapper" class="zone-wrapper zone-footer-wrapper clearfix">  
-  <div id="zone-footer" class="zone zone-footer clearfix container-12">
-    <div class="grid-12 region region-footer-second" id="region-footer-second">
-  <div class="region-inner region-footer-second-inner">
-    <div class="block block-block block-2 block-block-2 odd block-without-title" id="block-block-2">
-  <div class="block-inner clearfix">
-                
-    <div class="content clearfix">
-      <ul id="footer_second_links_a"><li><a title="Privacy Policy" href="/privacy" target="_self">Privacy Policy</a></li>
-<li><a title="Terms of Use" href="/terms-use" target="_self">Terms of Use</a></li>
-</ul><!-- footer_second_links_a --><ul id="footer_second_links_b"><li><a title="About Us" href="/about" target="_self">About Us</a></li>
-<li><a href="https://smartbriefcareers.silkroad.com/">Careers</a></li>
-<li><a title="Contact Us" href="/contact" target="_self">Contact Us</a></li>
-<li><a title="Advertise with SmartBrief" href="http://advertising.smartbrief.com/" target="_self">Advertise</a></li>
-<li><a title="Partner with SmartBrief" href="/partners" target="_self">Partners</a></li>
-<li><a title="Products &amp; Services" href="/products-services" target="_self">Products &amp; Services</a></li>
-<li><a title="Press Releases" href="/about/press-releases" target="_self">Press Room</a></li>
-</ul><!-- footer_second_links_b -->    </div>
-  </div>
-</div>  </div>
-</div>  </div>
-</div></footer>  </div>  <script type="text/javascript" src="http://cdn.smartbrief.com/sites/default/files/js/js_wfaf_aN5jrbo51sUnNNFfVUloWTmJxBYCPoMzkExmHc.js"></script>
 
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-4.newrelic.com","licenseKey":"a6dfdddbaf","applicationID":"2418618","transactionName":"NgNXYkdRXkQDB0UPCg9JdFVBWV9ZTQpeAgA+FlRRUG9GXgcT","queueTime":0,"applicationTime":339,"ttGuid":"","agentToken":"","atts":"GkRUFA9LTUo=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-476.min.js"}</script>
-<script src="https://js-agent.newrelic.com/nr-476.min.js"></script></body></html>
+    </article>
+      </div>
+      <div>
+              </div>
+    </div>
+  </div>        <footer class="sb-footer about-pages-footer"><!-- adv_footer-->
+            <div class="footer-bottom-container">
+                <div class="footer-bottom">
+                    <div class="copyright">SmartBrief, Inc. ©2015</div>
+                    <div class="footer-menu">  <div class="l-region l-region--about-pages-footer">
+    <div id="block-superfish-6" class="block block--superfish block--superfish-6">
+        <div class="block__content">
+    <ul id="superfish-6" class="menu sf-menu sf-menu-about-pages-footer sf-horizontal sf-style-none sf-total-items-3 sf-parent-items-0 sf-single-items-3"><li id="menu-1885-6" class="active-trail first odd sf-item-1 sf-depth-1 sf-no-children"><a href="/privacy" title="" class="sf-depth-1 active">Privacy Policy</a></li><li id="menu-1886-6" class="middle even sf-item-2 sf-depth-1 sf-no-children"><a href="/terms-use" title="" class="sf-depth-1">Terms</a></li><li id="menu-1887-6" class="last odd sf-item-3 sf-depth-1 sf-no-children"><a href="/about/our-company/contact" title="" class="sf-depth-1">Contact</a></li></ul>  </div>
+</div>
+  </div>
+</div>
+                    <div class="website">
+                        <a href="/">Visit SmartBrief.com <span class="glyph glyph-chevron-right"></span></a>
+                    </div>
+                </div>
+            </div>
+        </footer>
+    </div>
+</div> <!-- End sbweb-container DIV-->
+  <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"a6dfdddbaf","applicationID":"2418618","transactionName":"NgNXYkdRXkQDB0UPCg9JdFVBWV9ZTQpeAgA+FlRRUG9GXgcT","queueTime":0,"applicationTime":186,"atts":"GkRUFA9LTUo=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-632.min.js"}</script>
+
+</body></html>
