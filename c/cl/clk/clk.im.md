@@ -1,89 +1,123 @@
-> *The following text is extracted and transformed from the clk.im privacy policy that was archived on 2011-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110925061215id_/http%3A//www.clk.im/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clk.im privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623071813id_/https%3A//clk.im/page/privacy) for the most accurate reproduction.*
 
-# Click-Immediate - A Short URL Cashier
+# Clk.im > Privacy
 
-_This statement was last updated February 26, 2011._
+### Privacy
 
-The term 'click-immediate' or 'us' or 'we' refers to the owner(s) of the website. The term 'you' refers to the user or viewer of our website. The term 'Content' refers to the website you are using in conjunction with the Service. 
+## **_Clk.im Website Privacy Policy_**
 
-We at Click-Immediate respect the privacy of our visitors and are committed to preserving your online safety by preserving your privacy at anytime you visit or communicate with our site. Our privacy policy has been provided and reviewed by the solicitors at Legal Centre who specialise in online internet contracts. 
+Last Revised: March 2, 2015
 
-Our Terms of Use and Privacy Policy offers you a thorough explanation regarding your personal data provided to us or any data we may collect from you. 
+Clk.im, Ltd. (“ **Clk.im** ", " **Company** ", “ **we** ” or " **us** ") respects the privacy of the users of its website at: <http://clk.im/> (including its sub-domains) (the " **Site** ") and Services ( **“User** ” or **“you** ”) and is committed to protect the personal information that its Users share with it. We believe that you have a right to know our practices regarding the information we may collect and use when you visit and/or use our Site and Services **.**
 
-This Privacy Policy is updated from time to time; therefore, it should be reviewed occasionally. 
+Capitalized terms which are not defined herein, shall have the meaning ascribed to them in our Terms of Use at <http://clk.im/page/terms> ( **"TOU"** ), into which this Privacy Policy is incorporated by reference.
 
-[For the purpose of the Data Protection Act 1998, Click-Immediate is our data controller.] 
+### **1.** ** _Your Consent (PLEASE READ CAREFULLY!)_**
 
-**1\. Collected Information**
+BY(A) ENTERING, CONNECTING TO, ACCESSING OR USING THE SITE, (B) OPENING AN ACCOUNT, (C) ACTIVELY USING THE SERVICES FOR THE PURPOSE OF SHORTENING URLS, MANAGING AND MONETIZING SUCH URLS BY USING ADS, AND/OR (D) EXPOSING YOURSELF TO URLS AND/OR TO ADS MADE AVAILABLE VIA THE SERVICES, YOU AGREE TO THE TERMS AND CONDITIONS SET FORTH IN THIS PRIVACY POLICY (THE " **PRIVACY POLICY** "), INCLUDING TO THE COLLECTION AND PROCESSING OF YOUR PERSONAL INFORMATION (AS DEFINED BELOW). IF YOU DISAGREE TO ANY TERM PROVIDED HEREIN, PLEASE DO NOT ENTER INTO, CONNECT TO, ACCESS OR USE THE SITE OR SERVICES.
 
-Data can be collected and processed during the operations of our website. The following are ways we may perform these actions: 
+### **2.** ** _Which information we may collect on our Users?_**
 
-1.1 Data regarding your visit(s) to our website and any resources used are collected. The following is included and not limited to: location data, weblogs, traffic data, and any other communication information. 
+We may collect two types of data and information from our Users:
 
-1.2 Any forms you filled out on our site allows us to collect data such as registering for information or when you complete a purchase. 
+a. The first type of information is non-identifiable and anonymous information (“ **Non-personal Information** ”). **We are not aware of the identity of the User from whom we have collected the Non-personal Information.** Non-Personal Information is any unconcealed information which does not enable identification of an individual User, and which is available to us while such User is entering and/or using the Site or Services. Non-personal Information which is being gathered consists of technical information, behavioral information and aggregated information, and may contain, among other things, the activity of the User on the Site or Services, type of operating system, User's 'click-stream' or searches on the Site or Services, type and version of browser or device, keyboard language, screen resolution, internet connectivity, details regarding User traffic and advertising delivery, etc. With respect to URLs, we may collect the following metrics: time and date of creation, the applicable User Account, referring websites or services, history of sharing the URLs via third party sites or services (including Social Networks), etc.
 
-1.3 If for any reason you communicate with our personnel or site we may collect information. 
+b. The second type of information is individually identifiable information ( **“Personal Information** ”). **This information may identify an individual or may be of a private and/or sensitive nature**.
 
-**2\. Cookie Usage**
+·Users of the Site or Services automatically provide their IP address (or Mac Address, as applicable) mainly for enhancing the User's experience and for geolocation and security purposes as further detailed below.
 
-There are instances where we may use cookies to gather information regarding our services in a mathematical collection for our website and our advertisers. 
+·Personal Information which is being gathered consists of any personal details provided consciously and voluntarily by the User. Users who are interested in opening an Account may be requested to provide the following details via the registration form: full name, e-mail and to choose a password.
 
-Any information collected will not have any identifying data. It is statistical data about our visitors and how they have used our site. No personal details will be shared that could identify you. 
+·Alternatively, the User can open an Account and signup to the Services via existing third party accounts (e.g., Facebook) used by him/her (" **Social Network Account** "). In the event that a User registers to the Services through his/her existing Social Network Account, then such Social Network Account provides us with access to certain information about such User as is stored in the User’s Social Network Account, namely, certain public information (e.g. full name, email, user ID and any other information which the User made public) and/or any other information which is detailed and displayed to the User in the notice which appears during the "Log in" with such Social Network Account process. Please read carefully such notice in order to understand what information is available to Clk.im via the Social Network Account. We may collect your login information and other relevant information necessary to enable us to access your Social Network Account (such as, Facebook UserID, User access token) in order to collect and/or store, to the extent legally permissible, your full name and e-mail. Other than the abovementioned information, we do not collect or store any other information made available to us through your Social Network Account. You hereby agree that such information will be stored even after the linkage to your Social Network Account expires, for any reason. 
 
-We may assemble information about your common internet use with a cookie file. When used, the cookies are downloaded to your computer automatically. The cookie is stored on the hard drive, with transferred information. The data sought by the cookie helps us improve our website and any service offered to you. 
+·The following information may be gathered from the User directly by Online Payment Services in order to facilitate the transactions made available by the Services: e-mail, ID/SSN, payment information (i.e. bank account number, credit card or debit card numbers). THE FINANCIAL INFORMATION DESCRIBED ABOVE IS NOT COLLECTED BY THE COMPANY.
 
-Your browser has the ability to decline cookies. This is done by setting your browser options to decline all cookies. Note: if you do decline the download of cookies, some aspects of our site may not work or allow you access. 
+·Personal Information may also be collected from the details the User may provide in the Contact Form on the Site, which includes the User's e-mail address and free text. Furthermore, the User may optionally provide his/her full name. Additional information may be requested in the future.
 
-Our advertisers may download cookies to which we have no control. If used, these cookies are downloaded by clicking on an advertisement found on our website. 
+For avoidance of doubt, any Non-Personal Information connected or linked to any Personal Information shall be deemed as Personal Information as long as such connection or linkage exists.
 
-**3\. Our Use of Your Information**
+**We do not collect any Personal Information from you or related to you without your approval, which is obtained, inter alia, through your active acceptance to the Terms of Use and the Privacy Policy.**
 
-Information stored or collected regarding you helps us improve and offer services you need. The following list contains how we might use your data: 
+### **3.** ** _How Do We Collect Information on Our Users?   _**
 
-3.1 Any request you make of our site or personnel allows us to use information you provided us with, relating to the products or services we have. We may also send information on products or services you may be interested in, as long as consent has been received. 
+There are two main methods we use:
 
-3.2 Contract Commitments: To meet any Commitment we make to you. 
+a. **We collect information through your entry and use of the Site or Services**. In other words, when you are using the Site or Services we are aware of it and may gather, collect and store the information relating to such usage, either independently or through the help of third-party service providers as detailed below.
 
-3.3 Changes or Improvements made to the site can warrant use of your information, with regard to notification of such changes. 
+b. **We collect information which you provide us voluntarily**. We collect Personal Information when you, at your discretion, decide to provide us when opening an Account. We may also collect Personal Information when you register and open an Account through your Social Network Account. When registering through your Social Network Account, you agree to grant us access to Personal Information stored in your Social Network Account, as detailed above. We may also collect Personal information which you voluntarily provide when you fill in the Contact Form on the Site. We may gather, collect and store the Personal Information either independently or through the help of our authorized third-party service providers as detailed below. 
 
-3.4 An existing customer may be contacted regarding products and services related to any item of previous sale you made on our site. 
+### **4.** ** _What are the Purposes of the Collection of Information?_**
 
-3.5 We may use data or allow third parties to use information that is not related to goods or services you may be interested in. We or third parties contact you only if consent has been provided by you at anytime, based on information we collected. 
+   We collect Non-personal Information and Personal Information in order to provide the Services.
 
-3.6 Any new customer can only be contacted by us or third parties if consent has been offered via our site. We only send communications you have consented to. 
+Non-personal Information is collected in order to, inter alia:  
 
-3.7 Anyone who does not wish to give consent for our site or third party use has the opportunity to decline. Once we receive your withhold for consent we will remove your details from any mailings or third party communications. 
+  * Use it for statistical and research purposes and for customization and improvement of our Services.
+  * Improve our metrics and the quality of the Services and gather statistics for commercial purposes.
 
-3.8 None of the information collected about you will offer identifiable characteristics. Information shared to a third party is statistical only. We will not reveal who you are, only mathematical information about our visitors. 
 
-**4\. Personal Data Storage**
 
-4.1 Locations outside the European Economic Area may be used for transferring data we collect about you. These data sites are for storing or processing of your information. The information we share outside the European Economic Area may be shared with staff based on the process and storage of said data. It may include such processes as processing a payment or offering support for your service or product needs. The staff processing or storing information may work for our suppliers outside the European Economic Area. By submitting your data to use you have agreed to this transfer and storage of data. We take all reasonable action to ensure the safety of your personal data in agreement with this Privacy Policy. 
+Personal Information is collected in order to:  
 
-4.2 Information we are provided will be stored on secure servers. Transaction data is encrypted for your safety. 
+  * Improve the quality of the Site or Services by formulating, customizing and enhancing the User's experience.
+  * Verify the User's identity when he/she signs in to the Services, as well as verifying User's identity for the purpose of dealing with fraudulent use of our Services.
+  * Be able to inform you regarding our products and services which may interest you, and to send to you other marketing material, transmitted to you through the contact information you provided us.
+  * Enable the User to use the Social Features.
+  * Be able to contact Users for the purpose of providing them with technical assistance and support.
+  * Determine general geolocation information (i.e., country) from which the User's computer or device is connected to the Internet in order to serve the Ads and Services to Users by location, as well as in order to safeguard our Site and Services. 
 
-4.3 You should understand data via online transmission is not completely secure. We cannot guarantee full protection and security data, only that we take all reasonable action to protect information sent to us electronically. Transmission of any data by you is at your own risk. Where applicable you may be given access to sections of our site that require a password. You are responsible for the passwords safety and confidentiality. 
 
-**5\. Information Disclosure**
 
-5.1 At times we may disclose personal information to persons in our group. This can include subsidiaries, holding companies, or any other subsidiaries involved in our business, if applicable. 
+### **5.** ** _Sharing Information with Third Parties_**
 
-5.2 Third Party disclosure may occur for the following reasons: 
+We may employ individuals and companies to perform functions on our behalf (e.g. processing credit card payments, analyzing data, providing Ads, etc.). We may share certain Personal Information with such third parties so they could perform their functions for the Company with respect to the Services.
 
-5.2.1 Selling any or all of our business to a third party may result in sharing your information. 
+ The Company may also share Personal Information in the following cases: (a) to satisfy any applicable law, regulation, legal process, subpoena or governmental request; (b) to enforce this Privacy Policy and/or the TOU, including investigation of potential violations thereof; (c) to detect, prevent, or otherwise address fraud, security or technical issues; (d) to respond to User's support requests; (e) respond to claims that any content available on the Site or Services violates the rights of third-parties; (f) to respond to claims that contact information (e.g. name, e-mail address, etc.) of a third-party has been posted or transmitted without their consent or as a form of harassment; (g) to protect the rights, property, or personal safety of the Company, its Users, or the general public; (h) when the Company is undergoing any change in control, including by means of merger, acquisition or purchase of all or substantially all of its assets; (i) to collect, hold, store and/or manage your Personal Information through the Company's authorized third parties service providers (including, as applicable, their affiliates as necessary to provide us with the requested services), as reasonable for business purposes, which may be located in a country that does not have the same data protection laws as your jurisdiction; (j) cooperate with third parties for the purpose of enhancing the User's experience; and/or (k) pursuant to your explicit approval prior to the disclosure.
 
-5.2.2 At any time when we are legally required to we may disclose information about you and your visits to our sites. 
+For avoidance of doubt, the Company may transfer and disclose _Non-personal Information_ to third parties at its own discretion.
 
-5.2.3 To prevent fraud and help in fraud protection in order to reduce credit risk, we may disclose information. 
+### **6.** ** _Deletion or Modification of Personal Information_**
 
-**6\. Third Party Links**
+If for any reason you wish to delete or modify your Personal Information please send us an e-mail with adequate detail of your request to [support@clkim.com](mailto:support@clkim.com) ** _,_** and we will make reasonable efforts to modify or delete any such Personal Information pursuant to any applicable privacy laws. Note that unless you instruct us otherwise we may retain your Personal Information for as long as reasonably required for the purposes of which such Personal Information was collected, including without limitation, for future analytics and analysis, in order to comply with our legal or business requirements or obligations and to resolve disputes or to enforce our Terms, all as permitted under any applicable privacy laws. Aggregated and/or anonymous information derived from your use of your Account, the Site and/or Services may remain on our servers indefinitely.
 
-Third party links may be discovered on our site. These third party links have their own privacy policy, which you agree to when you click on the link. We are not responsible nor do we accept responsibility for third party links. Our liability covers us only on our site, and thus we do not accept liability for third party links as we have no control over them. 
+We cannot ensure that third parties who gained access to the Personal Information deleted your Personal Information and cannot monitor their use of such information.
 
-**7\. Information Accessibility**
+### **7.** ** _Minors_**
 
-We cannot withhold data we collect about you, as per The Data Protection Act 1998. This act provides you with access to any information we may hold on you. If you wish to have access about our data collection on you please pay our fee of ?10. The fee covers our costs for processing your request and getting the data to you. Please use the contact details below to formulate your data access request. 
+The Site or Services are intended for Users over the age of thirteen (13). Therefore, the Company does not intend and does not knowingly collect Personal Information from children under the age of thirteen (13) and does not wish to do so. We reserve the right to request proof of age at any stage so that we can verify that minors under the age of thirteen (13) are not using the Site or Services. If we learn that we collected Personal Information from children under the age of thirteen (13) we will delete that information as quickly as possible. Please contact Clk.im at: [info@clkim.com](mailto:info@clkim.com) if you have reasons to suspect that we collected Personal Information from children under the age of thirteen (13) and will delete that information as quickly as possible.
 
-**8\. Contacting Us**
+### **8.** ** _Security_**
 
-Please feel free to contact us with queries, requests, or comments you may have about our Privacy Policy. We welcome any communication via our [contact form](https://web.archive.org/web/20110925061215id_/http%3A//www.clk.im/contact.php). 
+We take reasonable measures to maintain the security and integrity of our Site, Services and User information and prevent unauthorized access to it or use thereof through generally accepted industry standard technologies and internal procedures. Please note, however, that there are inherent risks in transmission of information over the Internet or other methods of electronic storage and we cannot guarantee that unauthorized access or use of your Personal Information will never occur.
+
+### **9.** ** _Payment_**
+
+Payments to or from the Company are processed via Online Payment Services. The use of the Online Payment Services is at your sole discretion and liability. IT IS YOUR RESPONSIBILITY TO ABIDE BY ALL THE TERMS SPECIFIED BY THE ONLINE PAYMENT SERVICES' PROVIDERS IN THEIR TERMS OF USE AND PRIVACY POLICIES, INCLUDING BUT NOT LIMITED TO ANY AGE RESTRICTIONS SPECIFIED THEREIN. You acknowledge that you are fully assuming the risks of conducting any transactions via the Online Payment Services in connection with the Services.
+
+### **10.** ** _Third Party Service Providers_**
+
+We may be using third party software or service, in order to collect, store and/or process the information detailed herein. Clk.im uses commercially reasonable efforts to engage with third parties that post a privacy policy governing their collection, processing and use of non-personal and personal information. Such software and service include without limitation: Google Analytics, which privacy policy is located at www.google.com/policies/privacy/partners/ and <http://www.google.com/intl/en/analytics/privacyoverview.html>, Clickbank which privacy policy is located at <https://accounts.clickbank.com/privacy.html> and Paypal which privacy policy is located at   <https://www.paypal.com/il/webapps/mpp/ua/legalhub-full> . However, Clk.im does not control such third party service providers. Please read their terms of use and privacy policies to understand their privacy practices.
+
+### **11.** ** _Tracking Technologies_**
+
+When you access or use the Site or Services, the Company may and may allow authorized third party service providers (e.g. third party advertisers) to place or recognize industry-wide technologies such as cookies and/or other tracking technologies (" **Tracking Technologies** "). Such Tracking Technologies are stored on your computer. Tracking Technologies may enable, inter alia, automatic activation of certain features, and make your experience and usage simpler, convenient and effortless. We and/or our authorized third party service providers may use both session cookies (which expire once you close the Site or leave the Services) and persistent cookies (which stay on User's device until he/she deletes them). It is easy to prohibit and/or delete the Tracking Technologies. For example, most browsers will allow you to erase cookies from your computer's hard drive, block acceptance of cookies, or receive a warning before a cookie is stored. However, if you block or erase Tracking Technologies, your online experience may be limited. Such Tracking Technologies may store non-personal information (such as the different pages viewed by a User within the Site) as well as User persistent identifier and geo-location data, which will be collected in accordance with the terms specified herein.
+
+### **12.** ** _Social Features_**
+
+Our Site may include social media features (" **Social Features** "), for example the Facebook Like and Share buttons. The Social Features are operated or allow for social integration with certain third party social networks or third party platforms (“ **Social Network** ” or “ **Platform** ”). These Social Networks and Platforms are created and maintained by third parties who are not affiliated with and/or controlled by the Company. If you enable this integration with such Social Networks and Platforms, your use of the Social Features is subject to the applicable third party Social Network’s or Platform’s terms of use and privacy policies. You should ensure that you read their terms of use and privacy policies to understand how they treat your information and in order to understand the methods for changing the privacy or sharing settings on such services. If you do not agree to the practices described in such terms you should not allow our Site or Services to interact with such Social Networks or Platforms, however you may find that you are not able to enjoy all the features that may be made available via our Site or Services. You understand that where you allow interaction with any third party Social Network or Platform, we may share data about you with your contacts (and vice versa) in order that you may enjoy social elements. This data may include, without limitation, your name and your social media profile picture. By using the Social Features you hereby agree and understand that the applicable Social Networks or Platforms may collect certain Personal Information, such as your IP address, Non-personal Information and may set cookies and/or other web tracking technologies to enable the functionality of the Social Features. The use of such features enables the sharing of information with your friends or the public, depending on the settings you establish with the third party that provides the Social Features. You hereby understand and agree that when you share content via Social Networks or Platforms that your content may become public and others may re-post-it.
+
+### **13.** ** _International Data Transfer_**
+
+We may transfer information collected about you, including Personal Information, to affiliated entities, or to other third party service provides (as provided herein) across borders and from your country or jurisdiction to other countries or jurisdictions around the world. Please note that we may transfer such information to a country and jurisdiction that does not have the same data protection laws as your jurisdiction, and you consent to such transfer of information.
+
+### **14.** ** _Direct Marketing_**
+
+You hereby agree that we may use your contact details you provided us with for the purpose of informing you regarding our products and services which may interest and to send to you advertisements and other marketing material, transmitted to the e-mail address you have provided. You may withdraw your consent via sending a written notice to Clk.im by e-mail to the following e-mail address: [support@clkim.com](mailto:support@clkim.com) or alternatively following the instructions for removing yourself from the mailing list which are available in the e-mail transmitted to you.
+
+### **15.** ** _Changes to the Privacy Policy_**
+
+The terms of this Privacy Policy will govern the use of the Site and Services and any information collected therein. The Company reserves the right to change this policy at any time, so please re-visit this page frequently. We will provide notice of substantial changes of this policy on the homepage of the Site and/or we will send you an e-mail regarding such changes to the e-mail address that you may have provided us with. Such substantial changes will take effect seven (7) days after such notice was provided on our Site or sent by e-mail, whichever is the earlier. Otherwise, all other changes to this Privacy Policy are effective as of the stated “Last Revised” date and your continued use of the Site or Services after the Last Revised date will constitute acceptance of, and agreement to be bound by, those changes. In the event that the Terms should be amended to comply with any legal requirements, the amendments may take effect immediately, or as required by the law and without any prior notice.
+
+### **16.** ** _Got any Questions?_**
+
+If you have any questions (or comments) concerning this Privacy Policy, you are most welcome to send us an email to the following address: [info@clkim.com](mailto:info@clkim.com) and we will make an effort to reply within a reasonable timeframe.
