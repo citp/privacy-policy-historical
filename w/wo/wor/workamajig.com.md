@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the workamajig.com privacy policy that was archived on 2014-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140803081640id_/http%3A//www.workamajig.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the workamajig.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623172707id_/http%3A//www.workamajig.com/privacy-policy) for the most accurate reproduction.*
 
 # Workamajig™ Platinum | About Us
 
