@@ -1,47 +1,77 @@
-<!--The following is the downloaded HTML source of the startpage.com privacy policy that was archived on 2014-12-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141231164528id_/https%3A//startpage.com/uk/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the startpage.com privacy policy that was archived on 2015-06-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150623204422id_/https%3A//startpage.com/uk/privacy-policy.html) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html><!--<![endif]--><head>                                                                                                                                                                                                      
-    <title> PRIVACY - Privacy Policy</title>
-    <link rel="shortcut icon" href="/favicon.ico">
-    <link href="/css/typography.css" type="text/css" media="all" rel="StyleSheet">
-    <link href="/css/reset.css" rel="stylesheet" type="text/css" media="all">
-    <link href="/css/about_pages_style.css?r=5" type="text/css" media="all" rel="StyleSheet">
-    <link href="/css/additional.css" type="text/css" media="all" rel="StyleSheet">
-<!--[if IE 6]>
-    <link href='/css/lt7.css' type='text/css' media="all"  rel='StyleSheet' />
-<![endif]-->
-<!--[if lt IE 8]>
-    <link href='/css/ie7.css' type='text/css' media="all"  rel='StyleSheet' />
-<![endif]-->
+<!DOCTYPE html><html><!--<![endif]--><head>     
+    <meta name="viewport" content="width=device-width,maximum-scale=1">
+    <meta name="format-detection" content="telephone=no">
+    <title> PRIVACY - Privacy Policy </title>
+    
+<link rel="icon" href="/sp-favicon.ico" type="image/x-icon">
+<link rel="shortcut icon" href="/sp-favicon.ico" type="image/x-icon">
+<link rel="apple-touch-icon" sizes="57x57" href="/graphics/favicon/sp-apple-touch-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/graphics/favicon/sp-apple-touch-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/graphics/favicon/sp-apple-touch-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/graphics/favicon/sp-apple-touch-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/graphics/favicon/sp-apple-touch-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/graphics/favicon/sp-apple-touch-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/graphics/favicon/sp-apple-touch-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/graphics/favicon/sp-apple-touch-icon-152x152.png">
+<link rel="icon" sizes="196x196" href="/graphics/favicon/sp-favicon-196x196.png" type="images/png">
+<link rel="icon" sizes="160x160" href="/graphics/favicon/sp-favicon-160x160.png" type="images/png">
+<link rel="icon" sizes="96x96" href="/graphics/favicon/sp-favicon-96x96.png" type="images/png">
+<link rel="icon" sizes="16x16" href="/graphics/favicon/sp-favicon-16x16.png" type="images/png">
+<link rel="icon" sizes="32x32" href="/graphics/favicon/sp-favicon-32x32.png" type="images/png">
+<link href="/graphics/favicon/sp-favicon-16x16.png" type="images/png" rel="shortcut icon">
+<meta name="msapplication-TileColor" content="#6589c7">
+<meta name="msapplication-TileColor" content="/graphics/favicon/sp-mstile-144x144.png">
 
-    <script language="javascript" type="text/javascript" src="/js/jquery-1.8.0.min.js"></script>                                                            
-    <script language="javascript" type="text/javascript" src="/js/bgiframe.js"></script>
-    <script language="javascript" type="text/javascript" src="/js/cufon.js"></script>
-    <script language="javascript" type="text/javascript" src="/js/cufon-fonts.js"></script>
-    <script language="javascript" type="text/javascript" src="/js/cufon-yui.js"></script>
-    <script language="javascript" type="text/javascript" src="/js/cufon-settings.js"></script>
-    <script language="javascript" type="text/javascript" src="/js/Helvetica_Neue_300.font.js"></script>
-    <script language="javascript" type="text/javascript" src="/js/respond.min.js"></script>
+    <link href="/css/retina_about_pages.css?v=5" type="text/css" media="all" rel="StyleSheet">
+    <!--[if lt IE 9]><link href='/css/lt_ie9.css?v=5' type='text/css' media="all"  rel='StyleSheet' /><![endif]-->
+    <!--[if lt IE 9]><style>.closeArea a {background-image: none;} 
+                    .closeArea a{filter: progid:DXImageTransform.Microsoft.AlphaImageLoader( src='/graphics/retina_bookmark_cross.png', sizingMethod='scale') !important;
+                    -ms-filter: "progid:DXImageTransform.Microsoft.AlphaImageLoader( src='/graphics/retina_bookmark_cross.png', sizingMethod='scale')" !important; }
+                    </style><![endif]-->
+    <script language="javascript" type="text/javascript" src="/js/retina_about_pages.js?v=5"></script>            
+    <!--[if lt IE 9]><script language='javascript' type='text/javascript' src='/js/less_than_ie9.js?v=5'></script><![endif]-->
+    <script>function setFocus() { var pageUrl = window.location.href; if (!pageUrl.match(/jump_to/)) { document.getElementById("query_top").focus(); } }</script>
     
 	<script>
-	$(document).ready(function() {
-		Cufon.replace("h2");
-		Cufon.replace(".footer_copy");
-	});
-   </script>
-	<script type="text/javascript">
-	$(document).ready(function(){
-		$('#left_menu .head').click(function(e){
+   	jQuery(window).load(function() {
+		jQuery('.accordionButton').click(function(e){
 			e.preventDefault();
-			$('div.content').slideUp();
-			$(this).closest('li').find('.content').not(':animated').slideToggle();
-	  });
+            var div_display = jQuery(this).next('.accordionContent').css('display');
+            if (div_display == 'block') {
+                jQuery(this).next('.accordionContent').slideUp();
+            } else {
+                jQuery('div.accordionContent').slideUp();
+                jQuery(this).next('.accordionContent').slideToggle();
+            }
+    	});
     });
+
+jQuery(window).load(function () {
+    jQuery('div[id^=tOoLtIp]').each(function() {
+        var obj = jQuery(this);
+        jQuery(this).addClass('sb-tooltip');
+        jQuery(this).find('*').removeAttr('bgcolor color face style');
+    });
+});
+
+function verifyChecked (form_obj) { 
+    var formname = form_obj.name; 
+    var orig_query = document[formname].query.value; 
+    if (orig_query == "") { 
+        return false; 
+    } 
+    form_obj.submit(); 
+
+    return false; 
+}
+      
     </script>
 	
     <script type="text/javascript">
-    jQuery(document).ready(function() {         
+    jQuery(window).load(function() {         
                                     concatParamToAllUrls(); 
 jQuery('.external').click(function(){
         var link = jQuery(this).attr('data-link');
@@ -58,16 +88,19 @@ jQuery('.external').click(function(){
         } 
         return false;
     });
-var page_url = document.URL;
-if( page_url.match("company-faq") || 
-    page_url.match("protect-privacy-qa") ) {
-    if (page_url.match(/.html#q/)) {
+jQuery(window).load(function () {
+    var page_url = document.URL;
+    if( page_url.match("company-faq") || 
+        page_url.match("protect-privacy-qa") || 
+        page_url.match("preferences.pl") ) {
+        if (page_url.match(/.html#q/) || page_url.match("jump_to")) {
+        } else { 
+          document.getElementById('query_top').focus();
+        }
     } else { 
-      document.getElementById('query_top').focus();
+        document.getElementById('query_top').focus();
     }
-} else { 
-      document.getElementById('query_top').focus();
-}
+});
 
 jQuery(function() {     
 //if(jQuery('.rightContent').height()<jQuery('.leftContent').height()){
@@ -262,166 +295,15 @@ loadImage();
     } 
 
 
-// BrowserDetect is a class which determines Browser version,
-// name and Operating System platform.
-var BrowserDetect = {
-    init: function() {
-        this.browser = this.searchString(this.dataBrowser) || 'An unknown browser';
-        this.version = this.searchVersion(navigator.userAgent) || this.searchVersion(navigator.appVersion) || 'an unknown version';
-        this.OS = this.searchString(this.dataOS) || 'an unknown OS';
-    },
-    // Search specific string from the given set of array.
-    searchString: function(data) {
-        for (var i = 0; i < data.length; i++) {
-            var dataString = data[i].string;
-            var dataProp = data[i].prop;
-            this.versionSearchString = data[i].versionSearch || data[i].identity;
-            if (dataString) {
-                if (dataString.indexOf(data[i].subString) != -1) return data[i].identity;
-            } else if (dataProp) return data[i].identity;
-        }
-    },
-    // Search specific version of browser.
-    searchVersion: function(dataString) {
-        var index = dataString.indexOf(this.versionSearchString);
-        if (index == -1) return;
-        return parseFloat(dataString.substring(index + this.versionSearchString.length + 1));
-    },
-    // Array containing information of various browsers.
-    dataBrowser: [{
-        string: navigator.userAgent,
-        subString: 'Mobile Safari',
-        identity: 'Mobile Safari'
-    }, {
-        string: navigator.vendor,
-        subString: 'Camino',
-        identity: 'Camino'
-    }, {
-        prop: window.opera,
-        identity: 'Opera'
-    }, {
-        string: navigator.userAgent,
-        subString: ' OPR/',
-        identity: 'Opera',
-        versionSearch: 'OPR'
-    }, {
-        string: navigator.userAgent,
-        subString: 'CriOS',
-        identity: 'Chrome'
-    }, {
-        string: navigator.userAgent,
-        subString: 'Chrome',
-        identity: 'Chrome'
-    }, {
-        string: navigator.userAgent,
-        subString: 'Epiphany',
-        identity: 'Epiphany'
-    }, {
-        string: navigator.userAgent,
-        subString: 'SeaMonkey',
-        identity: 'SeaMonkey',
-        versionSearch: 'rv'
-    }, {
-        string: navigator.userAgent,
-        subString: 'OmniWeb',
-        versionSearch: 'OmniWeb/',
-        identity: 'OmniWeb'
-    }, {
-        string: navigator.vendor,
-        subString: 'Apple',
-        identity: 'Safari',
-        versionSearch: 'Version'
-    }, {
-        string: navigator.vendor,
-        subString: 'iCab',
-        identity: 'iCab'
-    }, {
-        string: navigator.vendor,
-        subString: 'KDE',
-        identity: 'Konqueror'
-    }, {
-        string: navigator.userAgent,
-        subString: 'Firefox',
-        identity: 'Firefox'
-    }, {
-        string: navigator.userAgent,
-        subString: 'Iceweasel',
-        identity: 'Iceweasel',
-        versionSearch: 'Iceweasel'
-    }, {
-        string: navigator.userAgent,
-        subString: 'IceWeasel',
-        identity: 'Iceweasel',
-        versionSearch: 'IceWeasel'
-    }, {
-        string: navigator.userAgent,
-        subString: 'IceCat',
-        identity: 'Icecat',
-        versionSearch: 'IceCat'
-    }, {
-        // for newer Netscapes (6+)
-        string: navigator.userAgent,
-        subString: 'Netscape',
-        identity: 'Netscape'
-    }, {
-        string: navigator.userAgent,
-        subString: 'MSIE',
-        identity: 'Explorer',
-        versionSearch: 'MSIE'
-    }, { // for ie11, user-agent string has been modified 
-        string: navigator.userAgent,
-        subString: 'Trident/7.0;',
-        identity: 'Explorer',
-        versionSearch: 'rv'
-    }, {
-        string: navigator.userAgent,
-        subString: 'Gecko',
-        identity: 'Mozilla',
-        versionSearch: 'rv'
-    }, {
-        // for older Netscapes (4-)
-        string: navigator.userAgent,
-        subString: 'Mozilla',
-        identity: 'Netscape',
-        versionSearch: 'Mozilla'
-    }],
-    // Array containing information of various Operating system platforms.
-    dataOS: [{
-        string: navigator.userAgent,
-        subString: 'BB10',
-        identity: 'BB10'
-    }, {
-        string: navigator.platform,
-        subString: 'Win',
-        identity: 'Windows'
-    }, {
-        string: navigator.platform,
-        subString: 'Mac',
-        identity: 'Mac'
-    }, {
-        string: navigator.platform,
-        subString: 'Linux',
-        identity: 'Linux'
-    }]
-};
-BrowserDetect.init();
-var MY_BROWSER = BrowserDetect.browser;
-var MY_BROWSER_VERSION = BrowserDetect.version;
+        $(document).ready(function() {
 
+            if((BrowserDetect.OS.indexOf("BB10") != -1) && (navigator.userAgent.indexOf("Mobile Safari") != -1)) MY_BROWSER = "Browser";
+            if ( (MY_BROWSER == 'Chrome') && (MY_BROWSER_VERSION > 31) ) {
 
-
-$(document).ready(function() {
-
-   if((BrowserDetect.OS.indexOf("BB10") != -1) && (navigator.userAgent.indexOf("Mobile Safari") != -1)) MY_BROWSER = "Browser";
-   if ( (MY_BROWSER == 'Chrome') && (MY_BROWSER_VERSION > 31) ) {
-
-     document.blah1.action = '/do/metasearch.pl';
-
-   }
-
-});
-
-        jQuery(document).ready(function(){cpt_js_prgtr();});
+            actionUrl = document.blah1.action;
+            document.blah1.action = actionUrl.replace(/\/search$/, '/metasearch.pl'); }
+ });
+        jQuery(window).load(function(){cpt_js_prgtr();});
         function cpt_js_prgtr() {
             var urlParams;
             (window.onpopstate = function () {
@@ -437,15 +319,26 @@ $(document).ready(function() {
                 }
             })();
             var params = new Array ('vf', 'vft', 'fm', 'fmt');
+    
+            params[params.length] = 'prf';
+            params[params.length] = 'prfh';
+        
             var cpt_prms = '';
             var cpt_h = '';
+            var cpt_prms_no_hmb = '';
             jQuery.each(params, function(index, elem) {
                 if (urlParams[elem] != undefined) {
                     cpt_h += '<input value="'+urlParams[elem]+'" name="'+elem+'" type="hidden">';
                     cpt_prms += elem+'='+urlParams[elem]+'&';
+                    if(elem != 'hmb'){
+                        cpt_prms_no_hmb += elem+'='+urlParams[elem]+'&';
+                    }
                 }
             });
-
+            
+        cpt_prms +="hmb=1";
+        cpt_h += '<input value="1" name="hmb" type="hidden">';
+        
             if (cpt_prms) {
                 if (jQuery('.cpt_prgtr').length) {
                     jQuery('.cpt_prgtr').each(function() {
@@ -456,23 +349,24 @@ $(document).ready(function() {
                         }
                     });
                 }
-            }
-           
+            }           
+          
             var base_url = "http://startpage.com";
             base_url = base_url.replace('<!--KEEPTEL-->','');
             if (base_url != '') {
                 base_url = base_url.match(/^https?:\/\/[^/]+/)[0];
             }
             base_url_regexp = '^('+base_url+'.+?|\\/\\w.+?)(#.*)?$';
+            base_url_regexp = base_url_regexp.replace('http://', 'https?://');
             var jump_to_tag_regexp = new RegExp(base_url_regexp, 'g');
 	    
             jQuery("a").each(function() {
                 if (jQuery(this).hasClass('no-cpt-prgpt')) {
                     return;
                 } else {
+                    var old_inner_content = jQuery(this).html();
                     var href = jQuery(this).attr("href");
                     var pttrn = new RegExp('('+params.join('|')+')=');
-
                     if(href != undefined && !(pttrn.test(href)) && href.match(jump_to_tag_regexp)) {
                         var append_char = (href.match(/\?/)) ? "&" : "?";
                         var jump_to_tag = '';
@@ -484,9 +378,17 @@ $(document).ready(function() {
                         if (!jump_to_tag) {
                             jump_to_tag = '';
                         }
-                        href += append_char + cpt_prms + jump_to_tag;
-                        jQuery(this).attr("href", href);
+						if (cpt_prms || jump_to_tag) { 
+                            if(jQuery('.home-wrapper').length > 0 && jQuery(this).closest('#settings_lang_div').length && !window.location.href.match(/hmb=1/)){
+                                href += append_char + cpt_prms_no_hmb + jump_to_tag;
+                            }
+                            else{
+							    href += append_char + cpt_prms + jump_to_tag;
+                            }
+							jQuery(this).attr("href", href);
+						}
                     }
+                    jQuery(this).html(old_inner_content);
                 }
             });
         }
@@ -548,118 +450,173 @@ $(document).ready(function() {
     }
 highlight();
 
+jQuery(window).load(function () {
+ jQuery('#information-sharing-link').on('click',function () {
+         jQuery('#info-sharing-div').show();
+         jQuery('#loadingId').show();
+         blockPageScrolling('info-sharing-div');
+    });
+ jQuery('.closeArea a, #loadingId').on('click',function () {
+         jQuery('#info-sharing-div').hide();
+         jQuery('#loadingId').hide();
+         blockPageScrolling('info-sharing-div');
+    });
+ jQuery('#url_gen_link').on('click',function () {
+         jQuery('#url-generator-div').show();
+         jQuery('#loadingId').show();
+         blockPageScrolling('url-generator-div');
+    });
+ jQuery('.closeArea a, #loadingId').on('click',function () {
+         jQuery('#url-generator-div').hide();
+         jQuery('#loadingId').hide();
+         blockPageScrolling('url-generator-div');
+    });
+ jQuery(document).keyup(function(e) {
+  if (e.keyCode == 27) {
+     jQuery('#url-generator-div').hide();
+     jQuery('#info-sharing-div').hide();
+     blockPageScrolling('url-generator-div');
+     blockPageScrolling('info-sharing-div');
+     jQuery('#loadingId').hide();
+  }
+    });
+jQuery('#loadingId').doubletap(
+        /** doubletap-dblclick callback */
+        function(event){
+            event.preventDefault();
+        },
+        /** touch-click callback (touch) */
+        function(event){
+            jQuery('#url-generator-div').hide();
+            jQuery('#info-sharing-div').hide();
+            blockPageScrolling('url-generator-div');
+            blockPageScrolling('info-sharing-div');
+            jQuery('#loadingId').hide();
+        },
+        /** doubletap-dblclick delay (default is 500 ms) */
+        250
+    );
+});
+
     </script>
     </head>
 
-    <body onload="setFocus();">
-	<div class="main_container">
+    <body>
     
-<table border="0" cellspacing="0" cellpadding="0" width="99%" class="head_table">
-<tbody><tr valign="top"><td valign="top" style="height:120px">
-<div class="headerLogo" style="float: left;float:left; left:0; top:0;">
-<a href="/uk/"><img alt="Startpage.com" src="/graphics/startpage_logo.png"></a></div>
-<div class="searchBox ie6"><p id="no_search_error" style="display: none;">enter your search terms here</p>
-<form onsubmit="return verifyChecked(this);" id="search_form" name="blah1" method="POST" autocomplete="off" action="/do/search?">
-<table border="0" cellpadding="0" cellspacing="0" width="100%">
+    
+    <div id="wrapper">
+    <div class="navbar navbar-default nav-effect" role="navigation" style="margin-bottom: 0">
+    <div class="navbar-header">
+    <a class="navbar-brand " tabindex="0" href="/uk/?" target="_top"><img src="/graphics/no_tm_startpage_retina_results_page_logo.png" width="144" height="30"></a>
+    <a class="menu_anchor" href="/do/preferences.pl?language=english_uk&amp;language_ui=english_uk" tabindex="0" onclick="return slide_menu_action(event);"><div class="settings_cont inner-pages"><span id="menu-icon-id">Settings</span></div></a>
+    
+    
+	<div id="results_header">
+	<form action="/do/search" class="cpt_prgtr" autocomplete="off" method="POST" name="blah1" id="search_form" onsubmit="return verifyChecked(this);" target="_top">
+
+	<div id="search">
+	<table cellspacing="0" cellpadding="0" border="0" class="search_container">
+	<tbody><tr>
+	<td id="input_p"><!--[if IE 7]><div style="position:relative; width:300px; height:0;"></div><![endif]-->
+	<div class="search-field">
+	<div class="text-fields">
+    <div>
+    <span class="clear_search"></span>
+    <span class="no_text" style="display: none;">enter your search terms here</span>
+    <input type="hidden" value="english_uk" name="language">
+    <input type="hidden" name="nj" id="nj" value="1">
+	<input type="text" autocomplete="off" name="query" id="query_top" value="" queryterm="" onchange="checkContent();" onkeydown="checkContent();" onkeyup="if(!checkNullKeyPressed(event)){}checkContent();">
+	</div>
+    </div>
+    
+    <span class="small-go-btn" title="StartPage Web Search"><input type="submit" value="GO" id="submit1"></span>
+    
+    </div>
+	</td>
+    
+    
+    
+	<td></td>
+	<td><noscript></noscript></td>
+	</tr>
+	<tr>
+    <script> 
+    jQuery('#nj').attr('value', '0');
+    
+	</script>
+        </tr>	
+	</tbody>
+	</table>
+	</div>
+	</form>
+    
+</div>
+</div>
+</div>
+
+<style> ul.slide-menu *:focus,a#menu-icon-id:focus{outline:none;} </style><div class="slide-wrapper" id="menu-id" unselectable="on"><ul class="slide-menu"><li><a href="/uk/protect-privacy.html?" class="single right-arrow">Privacy</a></li><li><a href="/do/preferences.pl??language=english_uk&amp;language_ui=english_uk&amp;nj=0" class="single right-arrow">Settings</a></li><li><a href="https://support.startpage.com/index.php?/Knowledgebase/List" class="single right-arrow">Support</a></li><li><a>Community</a><ul class="slide-sub-menu"><li><a href="https://www.facebook.com/startpagesearch">Facebook</a></li><li><a href="https://twitter.com/startpagesearch">Twitter</a></li><li><a href="https://blog.startpage.com">Blog</a></li></ul></li><li><a href="/uk/aboutstartpage/?" class="single right-arrow">About Us</a></li><li class="no-mobile"><a>Add StartPage</a><ul class="slide-sub-menu"><li><a href="/uk/download-startpage-plugin.html?" id="my-browser-name">Add to Browser</a></li><li><a href="/uk/make-startpage-your-homepage.html?">Homepage</a></li><li><a href="/uk/mobile-app-qa.html?">Mobile Device</a></li><li><a href="/uk/download-startpage-toolbar.html?">Toolbar</a></li></ul></li><li class="list-box-opener"><a class="single open-box">Language</a><div class="menu-list-box" id="settings_lang_div">
+<table cellspacing="0" cellpadding="0" border="0" width="100%">
 <tbody><tr>
-<td width="100%">
-<style type="text/css">
-<!--[if lt IE 9]>
-.btn_submit{ padding-top:1px;}
-<![endif]-->
-</style>
-<p id="input_p" class="cpt_prgtr"><input type="hidden" value="web" name="cat"><input type="hidden" value="process_search" name="cmd"><input type="hidden" value="english_uk" name="language"><input type="hidden" value="v1all" name="engine0"><input type="text" id="query_top" name="query" style="width:100%;" autocomplete="ON"><script>function setFocus() { document.getElementById("query_top").focus(); }</script></p></td><td width="49" nowrap="nowrap" style="text-align:right"><p class="btn_submit" style="padding-left:14px; *padding-top:1px"><input type="image" style="width:35px;height:34px;" id="submit" class="search_top" src="/graphics/stp_search.gif" title="Ixquick Web Search"></p></td></tr></tbody></table>
-</form>
-</div>
-<div class="top_links">
-	<ul><li><a href="/uk/advanced-search.html" class="addsettings">Advanced</a></li>
-	<li><a href="/do/preferences.pl?language_ui=english_uk" class="addsettings">Settings</a></li>
-    <li><a href="/index.php?/Knowledgebase/List" target="_blank" class="addsettings">Support</a></li>
-	<li><a href="/do/preferences.pl?language_ui=english_uk" onmouseout="hideLang();" onmouseover="showLang();" id="lang" class="addsettings">Language</a></li></ul>
-</div>
-<div class="clear"></div></td></tr></tbody></table>
-<script>
-var timeoutId = -1;
-var no_search_left = 10;
-var no_search_top = 12;
-if ( $.browser.msie ) {
-	var ver = parseInt($.browser.version);
-	if ( ver == 6 || ver == 7 ) {
-		no_search_left = 8;
-		no_search_top = -6;
-	}
-	if ( ver == 8 ) {
-		no_search_left = 7;
-	}
-	if ( ver == 9 ) {
-		no_search_left = 6;
-	}
-}
-function positionNoSearchError() {
-     //Get offset for query input
-     var query_offset = $('#query_top').offset();
-     //Position search error
-	 $('#no_search_error').css('left', query_offset.left + no_search_left).css('top', query_offset.top - no_search_top);
-}
-$('#search_form').submit(function() {
-	if ( $.trim($('#query_top').val()) == "" ) {
-		$('#query_top').val('');
-		positionNoSearchError();
-		$('#no_search_error').stop(true, true).fadeTo(1, 1).show();
-		clearTimeout ( timeoutId );
-		timeoutId = setTimeout ( function() { $('#no_search_error').fadeOut(); }, 3000 );
-		return false;
-	}
-});
-$(window).resize(positionNoSearchError);
-$('#query_top').bind('focus keydown mousedown', function() {
-	$('#no_search_error').stop().hide();
-	clearTimeout( timeoutId );
-});
-$('#no_search_error').click(function() {
-	$(this).stop().hide();
-	clearTimeout( timeoutId );
-	$('#query_top').focus();
-});
+<td><a class="blue_link addsettings" onclick="prepareCookieUpdateParams('dansk', 'dan', 'startpage.com'); return retina_set_language('dansk', 'dan','startpage.com');" href="/dan/?">Dansk</a></td>
+<td><a class="blue_link addsettings" onclick="prepareCookieUpdateParams('deutsch', 'deu', 'startpage.com'); return retina_set_language('deutsch', 'deu','startpage.com');" href="/deu/?">Deutsch</a></td>
+</tr>
+<tr>
+<td><a class="blue_link addsettings" onclick="prepareCookieUpdateParams('english', 'eng', 'startpage.com'); return retina_set_language('english', 'eng','startpage.com');" href="/eng/?">English</a></td>
+<td><strong>English UK</strong></td>
+</tr>
+<tr>
+<td><a class="blue_link addsettings" onclick="prepareCookieUpdateParams('espanol', 'esp', 'startpage.com'); return retina_set_language('espanol', 'esp','startpage.com');" href="/esp/?">Español</a></td>
+<td><a class="blue_link addsettings" onclick="prepareCookieUpdateParams('francais', 'fra', 'startpage.com'); return retina_set_language('francais', 'fra','startpage.com');" href="/fra/?">Français</a></td>
+</tr>
+<tr>
+<td><a class="blue_link addsettings" onclick="prepareCookieUpdateParams('italiano', 'ita', 'startpage.com'); return retina_set_language('italiano', 'ita','startpage.com');" href="/ita/?">Italiano</a></td>
+<td><a class="blue_link addsettings" onclick="prepareCookieUpdateParams('nederlands', 'ned', 'startpage.com'); return retina_set_language('nederlands', 'ned','startpage.com');" href="/ned/?">Nederlands</a></td>
+</tr>
+<tr>
+<td><a class="blue_link addsettings" onclick="prepareCookieUpdateParams('norsk', 'nor', 'startpage.com'); return retina_set_language('norsk', 'nor','startpage.com');" href="/nor/?">Norsk</a></td>
+<td><a class="blue_link addsettings" onclick="prepareCookieUpdateParams('polski', 'pol', 'startpage.com'); return retina_set_language('polski', 'pol','startpage.com');" href="/pol/?">Polski</a></td>
+</tr>
+<tr>
+<td><a class="blue_link addsettings" onclick="prepareCookieUpdateParams('portugues', 'por', 'startpage.com'); return retina_set_language('portugues', 'por','startpage.com');" href="/por/?">Português</a></td>
+<td><a class="blue_link addsettings" onclick="prepareCookieUpdateParams('suomi', 'suo', 'startpage.com'); return retina_set_language('suomi', 'suo','startpage.com');" href="/suo/?">Suomi</a></td>
+</tr>
+<tr>
+<td><a class="blue_link addsettings" onclick="prepareCookieUpdateParams('svenska', 'sve', 'startpage.com'); return retina_set_language('svenska', 'sve','startpage.com');" href="/sve/?">Svenska</a></td>
+<td><a class="blue_link addsettings" onclick="prepareCookieUpdateParams('turkce', 'tur', 'startpage.com'); return retina_set_language('turkce', 'tur','startpage.com');" href="/tur/?">Türkçe</a></td>
+</tr>
+<tr>
+<td><a class="blue_link addsettings" onclick="prepareCookieUpdateParams('jiantizhongwen', 'jia', 'startpage.com'); return retina_set_language('jiantizhongwen', 'jia','startpage.com');" href="/jia/?">中文</a></td>
+<td><a class="blue_link addsettings" onclick="prepareCookieUpdateParams('nihongo', 'nih', 'startpage.com'); return retina_set_language('nihongo', 'nih','startpage.com');" href="/nih/?">日本語</a></td>
+</tr>
+<tr>
+<td><a class="blue_link addsettings" onclick="prepareCookieUpdateParams('fantizhengwen', 'fan', 'startpage.com'); return retina_set_language('fantizhengwen', 'fan','startpage.com');" href="/fan/?">繁體中文</a></td>
+<td><a class="blue_link addsettings" onclick="prepareCookieUpdateParams('hangul', 'han', 'startpage.com'); return retina_set_language('hangul', 'han','startpage.com');" href="/han/?">한글</a></td>
+</tr>
+</tbody></table>
 
-function verifyChecked (form_obj) { 
-	var formname = form_obj.name; 
-	var orig_query = document[formname].query.value; 
-	if (orig_query == "") { 
-		return false; 
-	} 
-	form_obj.submit(); 
-	return false; 
-}
+</div></li><li><a href="/uk/spread-the-word.html?" class="single right-arrow">Share</a></li><li class="list-box-opener"><a class="single open-box">Theme</a><div class="menu-list-box theme-box" id="settings_themes" style="white-space:nowrap;"><table class="slide-sub-menu" cellspacing="0" cellpadding="0"><tbody><tr><td><a onclick="change_theme('air', 'startpage.com');updateThemeClass('air-theme');updateDesignType(1, 'startpage.com')" name="air-new">Air</a></td></tr><tr><td><a onclick="change_theme('night', 'startpage.com');updateThemeClass('air-theme');updateDesignType(1, 'startpage.com')" name="night-new">Night</a></td></tr><tr><td><a onclick="change_theme('white', 'startpage.com');updateThemeClass('air-theme');updateDesignType(1, 'startpage.com')" name="white-new">White</a></td></tr><tr><td><a onclick="change_theme('black', 'startpage.com');updateThemeClass('air-theme');updateDesignType(1, 'startpage.com')" name="black-new">Black</a></td></tr><tr><td><a onclick="change_theme('air', 'startpage.com');updateDesignType(0, 'startpage.com');refreshCurrentPage()" name="air-retro">Air (Classic)</a></td></tr><tr><td><a onclick="change_theme('white', 'startpage.com');updateDesignType(0, 'startpage.com');refreshCurrentPage()" name="white-retro">White (Classic)</a></td></tr><tr><td><a onclick="change_theme('black', 'startpage.com');updateDesignType(0, 'startpage.com');refreshCurrentPage()" name="black-retro">Black (Classic)</a></td></tr></tbody></table></div></li></ul></div>
+<!--[if IE 9]><style>.ac_results{ width: 476px!important;}</style> <![endif]-->
+<script type="text/javascript">
+    if (typeof getAutoqueryService === 'function') {
+        getAutoqueryService('/do', 'english_uk', 'query_top', 'jquery.autocomplete.js', '');
+    }
 </script>
-<style>
-#no_search_error { position: absolute;margin-top: 21px;color: #999999; display:none;}
-@media (min-width: 1200px) {    
-    .content {/*width: 97%;*/} 
-} 
-@media (min-width: 980px) and (max-width: 1199px) { 
-    .content {width: 97%;} 
-} 
-@media (min-width: 800px) and (max-width: 979px) {  
-    .content {width: 97%;} 
-    /*input#query_top, .searchTxt { width: 80%;}*/
-} 
-@media (min-width: 200px) and (max-width: 800px) {  
-    .content {width: 720px;}    
-    /*input#query_top, .searchTxt { width: 417px;}*/    
-} 
-</style>
 
-    <!--div class="content" -->  
-    <!--div class="bodyContent" -->
-	<div class="bodymain_container">
-	<div class="main_left">
-    <div class="leftContent">
+
+    <div id="wrapper-inner" class="" style="max-width:999px">
+    <div class="row">
+      <div class="col-lg-12">
+        <div id="inner_content">
+          <table border="0" cellspacing="0" cellpadding="0" width="100%" class="bodyContent">
+            <tbody><tr>
+              <td class="left_column_td" nowrap="nowrap" valign="top">
+                <!--td class="left_column_td" nowrap="nowrap" style="padding-left:30px;"-->
+                <div class="leftContent" style="width:232px">
+    
     <div class="sidebar">
-<ul id="left_menu" style="width:200px;"><li><a class="head" href="/uk/protect-privacy.html" onclick="return false;">PRIVACY</a><div class="content" style="display: block;"><ul class="submenu_list"><li><a href="/uk/protect-privacy.html" class="addsettings">How we protect you</a></li><li><a href="/uk/protect-privacy-qa.html" class="addsettings">Q&amp;A</a></li><li class="selected"><a href="/uk/privacy-policy.html" class="addsettings">Our privacy policy</a><span class="menubg_right"></span></li></ul></div></li><li><a class="head" href="/do/preferences.pl?language_ui=english_uk" onclick="return false;">TOOLS</a><div class="content"><ul class="submenu_list"><li><a href="/do/preferences.pl?language_ui=english_uk" class="addsettings">Settings</a></li><li><a href="/uk/power-search-techniques.html" class="addsettings">Search tips</a></li><li><a href="/uk/download-startpage-plugin.html" class="addsettings">Add to Browser</a></li><li><a href="/uk/make-startpage-your-homepage.html" class="addsettings">Make homepage</a></li><li><a href="/uk/link-instructions.html" class="addsettings">On your website</a></li><li><a href="/uk/mobile-app-qa.html" class="addsettings">Mobile apps</a></li><li><a href="/uk/download-startpage-toolbar.html" class="addsettings">StartPage toolbar</a></li></ul></div></li><li><a style="color:#1371B1; cursor:pointer; text-decoration:none;" href="/index.php?/Knowledgebase/List">SUPPORT</a></li><li><a class="head" href="" onclick="return false;">COMMUNITY</a><div class="content"><ul class="submenu_list"><li><a href="" class="addsettings">Blog</a></li><li><a href="http://www.facebook.com/startpagesearch" class="addsettings">Facebook</a></li><li><a href="https://twitter.com/startpagesearch" class="addsettings">Twitter</a></li><li><a href="https://plus.google.com/111183570999932426802/posts" class="addsettings">Google+</a></li><li><a href="/uk/spread-the-word.html" class="addsettings">Spread the word</a></li></ul></div></li><li><a class="head" href="/uk/what-makes-startpage-special.html" onclick="return false;">ABOUT US</a><div class="content"><ul class="submenu_list"><li><a href="/uk/what-makes-startpage-special.html" class="addsettings">How we're different</a></li><li><a href="/uk/company-background.html" class="addsettings">Our History</a></li><li><a href="/uk/company-management-bio.html" class="addsettings">Our people</a></li><li><a href="/uk/company.html" class="addsettings">Company</a></li><li><a href="/uk/press-center.html" class="addsettings">Press center</a></li></ul></div></li></ul></div><br><br><br><br><br><br>
-    </div></div>
-	<div class="main_right">
-    <div id="borderLR">&nbsp;</div>
+<div class="accordionButton"><a href="/uk/protect-privacy.html" onclick="return false;"><span>PRIVACY</span></a></div><div class="accordionContent" style="display: block;"><ul><li><a href="/uk/protect-privacy.html">How we protect you</a></li><li><a href="/uk/protect-privacy-qa.html">Q&amp;A</a></li><li class="selected"><a href="/uk/privacy-policy.html">Our privacy policy</a><span class="menubg_right"></span></li></ul></div><script> $('#sidebar_browser_name').html(MY_BROWSER); </script><li><a style="color: #0952A1 !important; cursor:pointer; text-decoration:none;clear: both; padding-top:4px!important;padding-bottom: 4px!important;padding-left:9px!important;" href="/do/preferences.pl?language_ui=english_uk">SETTINGS</a></li><li><a style="color: #0952A1 !important; cursor:pointer; text-decoration:none;clear: both; padding-top:4px!important;padding-bottom: 4px!important;padding-left:9px!important;" href="https://support.startpage.com/index.php?/Knowledgebase/List">SUPPORT</a></li><div class="accordionButton"><a href="https://www.facebook.com/startpagesearch" onclick="return false;"><span>COMMUNITY</span></a></div><div class="accordionContent"><ul><li><a href="https://www.facebook.com/startpagesearch">Facebook</a></li><li><a href="https://twitter.com/startpagesearch">Twitter</a></li><li><a href="https://blog.startpage.com">Blog</a></li></ul></div><script> $('#sidebar_browser_name').html(MY_BROWSER); </script><div class="accordionButton"><a href="/uk/what-makes-startpage-special.html" onclick="return false;"><span>ABOUT</span></a></div><div class="accordionContent"><ul><li><a href="/uk/what-makes-startpage-special.html">How we're different</a></li><li><a href="/uk/company-background.html">Our history</a></li><li><a href="/uk/company-management-bio.html">Our people</a></li><li><a href="/uk/company.html">Company</a></li><li><a href="/uk/press-center.html">Press center</a></li></ul></div><script> $('#sidebar_browser_name').html(MY_BROWSER); </script><div class="accordionButton"><a href="/uk/download-startpage-plugin.html" onclick="return false;"><span>ADD STARTPAGE</span></a></div><div class="accordionContent"><ul><li><a href="/uk/download-startpage-plugin.html" id="sidebar_browser_name">Add to Browser</a></li><li><a href="/uk/make-startpage-your-homepage.html">Homepage</a></li><li><a href="/uk/mobile-app-qa.html">Mobile Device</a></li><li><a href="/uk/download-startpage-toolbar.html">Toolbar</a></li></ul></div><script> $('#sidebar_browser_name').html(MY_BROWSER); </script><li><a style="color: #0952A1 !important; cursor:pointer; text-decoration:none;clear: both; padding-top:4px!important;padding-bottom: 4px!important;padding-left:9px!important;" href="/uk/spread-the-word.html">SHARE</a></li></div><br><br><br><br><br><br>
+    </div></td>
+    <td>
     <div class="rightContent" id="content">
     <h1>Our privacy policy</h1><div class="pad_t20">
     <h3 class="cont">
@@ -667,173 +624,71 @@ function verifyChecked (form_obj) {
         <tbody>
             <tr>
                 <td valign="top" width="25%">In short:</td>
-                <td width="75%">StartPage does <span class="txt_green txt_i">not</span> collect or share <span class="txt_green txt_i">any</span> personal information!<br>Nada. Zilch. Nothing.</td>
+                <td width="75%">StartPage does not collect or share any personal information!<br>Nada. Zilch. Nothing.</td>
             </tr>
             <tr>
                 <td valign="top" width="25%">The longer version:</td>
                 <td width="75%">StartPage is strongly committed to protecting the privacy of its user community. This privacy policy details the - very limited and non-personal - information Startpage.com ("StartPage") may gather and our disclosure policy.</td>
             </tr>
         </tbody>
-    </table></h3><div class="pad_t30"><h2>IP Addresses</h2><h3 class="cont"><span class="txt_green txt_i mar_b10" style="display:inline-block;">The IP address that is associated with your search will NOT be recorded.</span><br>The only exception is for “abusive” (automated) queriers that rapidly submit many queries to StartPage in a very short time.</h3><br><br><h2>Data Collection</h2><h3 class="cont"><span class="txt_green txt_i mar_b10" style="display:inline-block;">We don't collect any personal information on our visitors. Nada. Zilch. Zero.</span><br>When you use StartPage, we do not record your IP address, we do not record which browser you are using (Internet Explorer, Safari, Firefox, Chrome etc.), we do not record your computer platform (Windows, Mac, Linux, etc.), and we do not record your search words or phrases. In fact, the only information we do record is an aggregate total of how many searches are performed on our website each day (a measure of overall traffic), and those overall traffic numbers broken down by language, and statistics on a purely aggregate level.<br><br><br><div class="pri_data" style="background:url('/graphics/img_privacy_policy_s.jpg') no-repeat right;width:100%;*width:728px;height:108px;"><div class="div1">Zero data collection policy.</div><div class="div2">IP</div><div class="div3">BROWSER</div><div class="div4">OS</div><div class="div5">SEARCHES</div></div><br><br>This zero data collection policy protects your privacy, since your IP address, browser, and platform information can be combined with other data to <a class="blue_link" href="https://panopticlick.eff.org" target="_blank">uniquely identify</a> your computer, your location, or you. It is also important not to record search terms, since they can convey personal information as well. (Think of someone entering their own name and/or social security number.)</h3><h2 class="pad_t30">Cookies</h2><h3 class="cont"><span class="txt_green txt_i mar_b10" style="display:inline-block;">StartPage does not use identifying cookies.</span><br><div class="pri_preferences"><div class="pre_cont">Preferences</div></div>Cookies are small pieces of data that are sent and saved to your computer's hard drive when visiting sites. StartPage uses only one anonymous cookie called "preferences". This cookie is to remember the search preferences you saved for your next visit. It expires after 90 days.<br><br>You can choose to accept or refuse cookies by changing the settings of your browser. It should be noted, however, that your Startpage.com preferences will not work properly if your cookies are turned off. It is possible to accept cookies from selected sites only.<br><br>You can periodically delete cookies from your computer's hard drive, clearing out all historical data that may have been saved from your previous web surfing. If you delete cookies, you will not be recognized as a repeat visitor or viewer when returning to a site.<br><br>To promote a cookie-free internet, StartPage has a <a class="blue_link" href="/uk/urlgenerator-details.html" target="_blank" onclick="window.open('/uk/urlgenerator-details.html','','directories=no,location=no,scrollbars=yes,status=no,toolbar=no,menubar=no,height=500,width=1003'); return false;">URL generator</a> which eradicates the need for setting a cookie. It remembers your settings in a privacy friendly manner. It can be found at the bottom of the <a class="blue_link" href="/do/preferences.pl?language=english_uk" target="_blank">SETTINGS</a> page.</h3><h2 class="pad_t30">External Links</h2><h3 class="cont"><span class="txt_green txt_i mar_b10" style="display:inline-block;">StartPage offers a proxy function that allows the users to see the information on external sites without disclosing their IP address to these sites.</span><br>As a search engine, and as an advertising publisher, you will find various links on our site, including but not limited to search results and sponsored results. These sites are owned and maintained by independent companies, over which StartPage has no control, and who are not covered by this privacy policy. StartPage is not liable or responsible for the content of these sites, or their collection of information and its use. Please note that this privacy policy applies only to the Startpage.com website. StartPage offers a proxy function that allows the users to see the information on external sites without disclosing their IP address to these sites.  Further information on this great privacy tool can be found <a class="blue_link" href="/proxy/uk/help.html" target="blank">here</a>. </h3><h2 class="pad_t30">Email addresses</h2><h3 class="cont"><span class="txt_green txt_i mar_b10" style="display:inline-block;">
-                         StartPage will not sell or disclose your contact information to any third parties.</span><br>When you send comments, questions, suggestions, or feedback to StartPage via email or through our support center, and include an email address and/or contact information, StartPage may use this information to respond to you. By submitting feedback you also allow us to detect which browser and operating system you are using, information that will exclusively be used for helping to better understand and solve any reported issues better. We will store your browser and operating system information for a maximum of 30 days and then delete it.   StartPage will not sell or disclose your contact information to any third parties. We may, however, very occasionally send emails to our users regarding StartPage company information. This service is opt-in and includes the option to unsubscribe.</h3><h2 class="pad_t30">Children Under 13 Years of Age</h2><h3 class="cont"><span style="display:inline-block;" class="txt_green txt_i mar_b10">Note that we do not collect any personal data at all.</span><br>As a consequence StartPage does not knowingly request, collect, or share personally identifiable information from users under the age of 13 either. We feel protecting children's privacy online is very important.</h3><h2 class="pad_t30">Information Sharing</h2><h3 class="cont"><span style="display:inline-block;" class="txt_green txt_i mar_b10">StartPage has no personal information to share.</span><br>StartPage does not share personal information with any third party search engine or the provider of its sponsored results. Click <a class="blue_link" href="/uk/information-sharing.html" target="_blank" onclick="window.open('/uk/information-sharing.html','','scrollbars=auto,width=500,height=400,toolbars=0,resizable=yes');return false;">here</a> for details.</h3><h2 class="pad_t30">Governmental requests</h2><h3 class="cont">StartPage is headquartered in The Netherlands, Europe. Any request or demand from any government (including the US) to deliver user data, will be thoroughly checked by our lawyers, and we will not comply unless the law which actually applies to us would undeniably require it from us. And even in that hypothetical situation, we would refer to the fact we have no personal user data to share. In the fourteen years we've been in business, we have never received such a request.<br><br>The only legitimate way that we see to make us start collecting personal information, is if there is a valid warrant or court order, obliging us to do so in relation to a specific user because that person is suspected to have committed a crime which is serious enough to warrant such a restriction of privacy.</h3><h2 class="pad_t30">Your privacy, our future</h2><h3 class="cont">We strongly believe that we have the legal right to safeguard the privacy of our users by encrypting and not collecting their personal information, and to keep doing so.<br><br>Given the strong protection of the right to privacy in Europe, European governments cannot just start forcing service providers like us to implement a blanket spying program on their users. If that ever changed, we would fight this to the end.</h3><br><br style="clear:both;"></div></div><div class="quote_txt txt_center">Privacy<br>It's not just our Policy - it's our Mission!</div><br><br><h2>Operator</h2><h3 class="cont">Startpage.com is owned and operated by Surfboard Holding BV, Postbus 1079,  3700 BB Zeist The Netherlands. Representative for the Privacy Policy is Robert E.G. Beens. <br>(<img src="/graphics/startpage_robert_email_black.gif">)</h3></div></div><div id="toPopup"><div class="close"></div><div id="popup_content"><div id="sm-video" style="position: relative; display: block; width: 639px; height: 360px;">Jwplayer Loading<div style="display: none;" id="sm-video_aspect"></div><div id="sm-video_jwpsrv" style="position: absolute; top: 0px; z-index: 10;"></div></div></div></div>
-    </div></div>
-    <div class="clear"></div>
-    <!-- /div -->
-    
-     
-    <br style="clear:both;">
-<div class="footer">
-<script>
-function dis(idname){
-setTimeout(function(){
-document.getElementById(idname).style.display = 'none';
-    },3000);
-}
-function myFunction(iname){
-document.getElementById(iname).style.display = 'block';
-$('.tooltipme').remove();
-dis(iname);
-}
-</script>
-
-<table align="center" cellpadding="0" cellspacing="0" border="0" style="padding-top:20px;margin-top:20px;margin-right:auto;margin-left:auto;">
-<tbody><tr>
-<td id="twitter_iframe" align="right" style="width:200px;text-align:right"><a href="javascript:void(0)" onmouseover="$('<div class=tw_tooltipme style=margin-top:-32px;margin-left:-150px/>' ).html('StartPage uses a <u> unique 2-step process</u> to prevent Twitter from spying on you.').prependTo('#twitter_iframe');return false;" onmouseout="$('.tw_tooltipme').remove()" onclick="updateTwitter(); myFunction(&quot;ovalthought2&quot;); return false;">
-<img src="/graphics/icon_twitter.png" alt="Twitter" border="0" width="67" height="20">
-</a>
-</td>
-<td>
-<blockquote id="ovalthought2" class="oval-thought" style="display:none; position:absolute; margin: -79px 0 0 -262px">
-<p></p><span style="position:absolute;z-index:100;width:200px; text-align:center;vertical-align:middle;margin:13px 10px 20px;display:inline-block">StartPage uses a <a class="blue_link" href="/index.php?/Knowledgebase/Article/View/974/0/does-startpagecom-use-the-facebook-and-twitter-social-widgets" target="_blank"><u>unique 2-step process</u></a> to prevent Twitter from spying on you.</span>
-<p></p>
-</blockquote>
-</td>
-
-    <td id="fb_iframe_footer" align="left" style="width:200px"><a href="javascript:void(0)" onmouseover="$('<div class=tooltipme/>').html('StartPage uses a <u> unique 2-step process</u> to prevent Facebook from spying on you.').prependTo('#fb_iframe_footer');return false;" onmouseout="$('.tooltipme').remove()" onclick="updateFacebook(); myFunction(&quot;ovalthought&quot;); return false;"><img src="/graphics/icon_like_fb.png" alt="Facebook" border="0" width="67" height="20"></a>
-</td>
-<td>
-<blockquote id="ovalthought" class="oval-thought" style="display:none; position:absolute; margin: -79px 0 0 -212px">
-<p></p>
-<span style="position:absolute;z-index:100;width:200px; text-align:center;vertical-align:middle;margin:13px 10px 20px;display:inline-block">StartPage uses a <a class="blue_link" href="/index.php?/Knowledgebase/Article/View/974/0/does-startpagecom-use-the-facebook-and-twitter-social-widgets" target="_blank"><u>unique 2-step process</u></a> to prevent Facebook from spying on you.</span>
-<p></p>
-</blockquote>
-</td>
-</tr></tbody></table>
-<br>
-<span class="footer_copy">© 2014 StartPage</span> 
-<script type="text/javascript" src="/js/jquery.autocomplete.js"></script>
-
-<script type="text/javascript" src="/js/jquery.hammer.min.js"></script>
-
-<script language="javascript" type="text/javascript">
-
-  function updateFacebook() {
-     document.getElementById('fb_iframe_footer').innerHTML = '<iframe src="//www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.facebook.com%2FStartPagesearch&amp;width=86&amp;height=80&amp;colorscheme=light&amp;layout=button_count&amp;show_faces=true" scrolling="no" frameborder="0" style="border:none; overflow:hidden; height:25px;width:86px;" allowTransparency="true"></iframe>';
-  }
-  function updateTwitter() {
-     document.getElementById('twitter_iframe').innerHTML = '<iframe allowtransparency="true" frameborder="0" scrolling="no" src="//platform.twitter.com/widgets/follow_button.html?screen_name=StartPageSearch&lang=en"  style="width:265px; height:20px;"></iframe>';
-  }
-  $(document).ready(function () {
-		$('#lang').hammer({
-		  prevent_default: true
-		  }).on("tap", function(ev) {
-			  ev.gesture.preventDefault();
-			  ev.gesture.stopPropagation();
-			  showLang();
-			  setTimeout('hideLang()', 400);
-		  });
-		$('#lang_div').hammer().on("tap", function(ev) {
-			ev.gesture.preventDefault();
-			ev.gesture.stopPropagation();
-		    isLangActive = true; clearTimeout(langTimeoutId);
-			showLang();
-		});
-		$('#lang_div').hammer().on("tap", '.addsettings', function(ev) {
-			ev.gesture.preventDefault();
-			ev.gesture.stopPropagation();
-			setTimeout('hideLang()', 100);
-		});
-
-    });
-
-</script>
+    </table></h3><div class="pad_t30"><h2>IP Addresses</h2><h3 class="cont"><span class="txt_green txt_i mar_b10" style="display:inline-block;">The IP address that is associated with your search will NOT be recorded.</span><br>The only exception is for “abusive” (automated) queriers that rapidly submit many queries to StartPage in a very short time.</h3><br><br><h2>Data Collection</h2><h3 class="cont"><span class="txt_green txt_i mar_b10" style="display:inline-block;">We don't collect any personal information on our visitors. Nada. Zilch. Zero.</span><br>When you use StartPage, we do not record your IP address, we do not record which browser you are using (Internet Explorer, Safari, Firefox, Chrome etc.), we do not record your computer platform (Windows, Mac, Linux, etc.), and we do not record your search words or phrases. In fact, the only information we do record is an aggregate total of how many searches are performed on our website each day (a measure of overall traffic), and those overall traffic numbers broken down by language, and statistics on a purely aggregate level.<br><br><br><div class="pri_data pri_uk" style="background:url('/graphics/retina_img_privacy_policy_s.jpg') no-repeat right;width:100%;*width:728px;height:108px;"><div class="div1">Zero data collection policy.</div><div class="div2">IP</div><div class="div3">BROWSER</div><div class="div4">OS</div><div class="div5">SEARCHES</div></div><br><br>This zero data collection policy protects your privacy, since your IP address, browser, and platform information can be combined with other data to <a class="blue_link" href="https://panopticlick.eff.org" target="_blank">uniquely identify</a> your computer, your location, or you. It is also important not to record search terms, since they can convey personal information as well. (Think of someone entering their own name and/or social security number.)</h3><h2 class="pad_t30">Cookies</h2><h3 class="cont"><span class="txt_green txt_i mar_b10" style="display:inline-block;">StartPage does not use identifying cookies.</span><br><div class="pri_preferences"><div class="pre_cont">Preferences</div></div><a class="blue_link" href="/uk/protect-privacy-qa.html#q11" target="_blank">Cookies</a> are small pieces of data that are sent and saved to your computer's hard drive when visiting sites. StartPage uses only one anonymous cookie called "preferences". This cookie is to remember the search preferences you saved for your next visit. It expires after not visiting StartPage for 90 days.<br><br>You can choose to accept or refuse cookies by changing the settings of your browser. It should be noted, however, that your Startpage.com preferences will not work properly if your cookies are turned off. It is possible to accept cookies from selected sites only.<br><br>You can periodically delete cookies from your computer's hard drive, clearing out all historical data that may have been saved from your previous web surfing. If you delete cookies, you will not be recognized as a repeat visitor or viewer when returning to a site.<br><br>To promote a cookie-free internet, StartPage has a <a class="blue_link" href="/uk/urlgenerator-details.html" target="_blank" onclick="return false;" id="url_gen_link">URL generator</a> which eradicates the need for setting a cookie. It remembers your settings in a privacy friendly manner. It can be found at the bottom of the <a class="blue_link" href="/do/preferences.pl?language_ui=english_uk" target="_blank">SETTINGS</a> page.</h3><h2 class="pad_t30">External Links</h2><h3 class="cont"><span class="txt_green txt_i mar_b10" style="display:inline-block;">StartPage offers a proxy function that allows the users to see the information on external sites without disclosing their IP address to these sites.</span><br>As a search engine, and as an advertising publisher, you will find various links on our site, including but not limited to search results and sponsored results. These sites are owned and maintained by independent companies, over which StartPage has no control, and who are not covered by this privacy policy. StartPage is not liable or responsible for the content of these sites, or their collection of information and its use. To fully protect our users from the privacy risks of the FB and Twitter social media plugins we have implemented a <a class="blue_link" href="https://support.startpage.com/index.php?/Knowledgebase/Article/View/974/0/does-startpagecom-use-the-facebook-and-twitter-social-widgets" target="_blank">unique two-step approach</a> to show these icons on our site. Please note that this privacy policy applies only to the Startpage.com website. StartPage offers a proxy function that allows the users to see the information on external sites without disclosing their IP address to these sites.  Further information on this great privacy tool can be found <a class="blue_link" href="/proxy/uk/help.html" target="blank">here</a>. </h3><h2 class="pad_t30">Email addresses</h2><h3 class="cont"><span class="txt_green txt_i mar_b10" style="display:inline-block;">
+                         StartPage will not sell or disclose your contact information to any third parties.</span><br>When you send comments, questions, suggestions, or feedback to StartPage via email or through our support center, and include an email address and/or contact information, StartPage may use this information to respond to you. By submitting feedback you also allow us to detect which browser and operating system you are using, information that will exclusively be used for helping to better understand and solve any reported issues better.   StartPage will not sell or disclose your contact information to any third parties. We may, however, very occasionally send emails to our users regarding StartPage company information. This service is opt-in and includes the option to unsubscribe.</h3><h2 class="pad_t30">Children Under 13 Years of Age</h2><h3 class="cont"><span style="display:inline-block;" class="txt_green txt_i mar_b10">Note that we do not collect any personal data at all.</span><br>As a consequence StartPage does not knowingly request, collect, or share personally identifiable information from users under the age of 13 either. We feel protecting children's privacy online is very important.</h3><h2 class="pad_t30">Information Sharing</h2><h3 class="cont"><span style="display:inline-block;" class="txt_green txt_i mar_b10">StartPage has no personal information to share.</span><br>StartPage does not share personal information with any third party search engine or the provider of its sponsored results. Click <a class="blue_link" href="/uk/information-sharing.html" target="_blank" onclick="return false;" id="information-sharing-link">here</a> for details.</h3><h2 class="pad_t30">Governmental requests</h2><h3 class="cont">StartPage is headquartered in The Netherlands, Europe. Any request or demand from any government (including the US) to deliver user data, will be thoroughly checked by our lawyers, and we will not comply unless the law which actually applies to us would undeniably require it from us. And even in that hypothetical situation, we would refer to the fact we have no personal user data to share. In the fourteen years we've been in business, we have never received such a request.<br><br>The only legitimate way that we see to make us start collecting personal information, is if there is a valid warrant or court order, obliging us to do so in relation to a specific user because that person is suspected to have committed a crime which is serious enough to warrant such a restriction of privacy.</h3><h2 class="pad_t30">The Right to be Forgotten</h2><h3 class="cont">Subject to certain conditions, citizens in the EU are given the right to request the deletion of their personal data when they are inaccurate, inadequate, or irrelevant or no longer relevant. More information can be found <a href="https://support.startpage.com/index.php?/Knowledgebase/Article/View/1000/0/how-does-startpage-handle-search-removal-requests-under-data-protection-law-in-europe-the-right-to-be-forgotten" class="blue_link">here</a>.</h3><h2 class="pad_t30">Your privacy, our future</h2><h3 class="cont">We strongly believe that we have the legal right to safeguard the privacy of our users by encrypting and not collecting their personal information, and to keep doing so.<br><br>Given the strong protection of the right to privacy in Europe, European governments cannot just start forcing service providers like us to implement a blanket spying program on their users. If that ever changed, we would fight this to the end.</h3><br><br style="clear:both;"></div></div><div class="quote_txt txt_center">Privacy<br>It's not just our Policy - it's our Mission!</div><br><br><h2>Operator</h2><h3 class="cont">Startpage.com is owned and operated by Surfboard Holding BV, Postbus 1079,  3700 BB Zeist The Netherlands. Representative for the Privacy Policy is Robert E.G. Beens. <br>(<img src="/graphics/startpage_robert_email_black.gif">)</h3><div class="about-page-popup" id="info-sharing-div" style="display: none;"><div class="cross_icon"> 
+ <p class="closeArea"><a></a></p> 
+ </div>
+<table width="100%" border="0" cellspacing="0" cellpadding="8"><tbody><tr><td><br>
+<h1>Information Sharing</h1><br><br>
+Some results pages on StartPage include a small number of clearly labeled sponsored links to cover operational costs. Those links are retrieved from platforms such as Google Adwords. The ads are NOT individually tailored to users, and StartPage does NOT record any personal information or share personal information with the providers of sponsored links at any time. Clicking on any search result without the use of the proxy will take the user to the third-party website and away from the protection of StartPage. This is the case with all external pages, including our sponsored links. Note: the proxy can help you visit all regular search results anonymously but as you can see, there is no such option for visiting the sponsored links, as the advertisers need means to detect click fraud scams.<br><br>
+StartPage's top priority is protecting the privacy of our users, while providing a quality service.
+<br><br></td></tr></tbody></table></div>
+<div class="about-page-popup" id="url-generator-div" style="display: none;"><div class="cross_icon"> 
+ <p class="closeArea"><a></a></p> 
+ </div>
+<br><h1>The URL-generator</h1><div><div class="cont_nor pad_t10"><h3>Save settings without cookies</h3></div><div class="pad_t25"><table width="100%" border="0" align="left" cellpadding="5" cellspacing="5"><tbody><tr><td><ul class="check_green_l_17 url_gen"><li>You can save your StartPage preferences by clicking on the "Save Setting" button on the "<a class="blue_link" target="_blank" href="/do/preferences.pl?language_ui=english_uk">Settings</a>" page.</li><li>This will save your settings on your computer in a 'cookie'- a small piece of data stored on your hard drive - called 'preferences'.</li><li>StartPage's 'preferences' cookie is a non-identifiable cookie and safe to accept, but cookies in general can pose a threat to your privacy.</li><li>People who prefer not to accept cookies or delete them regularly would not be able to keep their preferences this way.</li><li>For those people, StartPage has especially provided the "Generate URL" button at the bottom of the "<a class="blue_link" target="_blank" href="/do/preferences.pl?language_ui=english_uk">Settings</a>"  page.</li><li>Pushing that button a specific StartPage URL containing your selected settings will be generated.</li><li>It can be generated in readable or obfuscated form.</li><li>The generated URL can now be be directly set as your homepage or copied and used as a bookmark.</li><li>Using this URL all of your preferences will be used the next time you visit StartPage.</li><li id="customplugin" style="">For even more convenience you can hit 'Install Custom Plugin' after you created your URL.</li><li>This will install a search bar plugin that includes your settings.</li><li id="customplugin_ff" style="display:none;">You may need to delete previously saved versions first from the search bar's drop down list.</li><li id="customplugin_chrome" style="">Make sure the 'Keyword' you enter differs from the keyword you may have saved before.</li></ul><div class="cont_nor pad_t10"><b><b>StartPage continues to offer you privacy-enhancing features for searching the web safely!</b></b></div><br></td></tr></tbody></table>
 <script type="text/javascript">
-    function eId(text) {
-      return document.getElementById(text);
-    }  
-    function findPos(obj) {
-        var curleft = curtop = 0;
-        if (obj.offsetParent) {
-            curleft = obj.offsetLeft;
-            curtop = obj.offsetTop;
-            while (obj = obj.offsetParent) {
-                curleft += obj.offsetLeft; curtop += obj.offsetTop;
-            }
-        }
-        return [curleft,curtop];
-    }
-    function showLang() {
-     clearTimeout(langTimeoutId);
-     var lang = eId('lang');
-     var lang_div = eId('lang_div');
-     var offset = findPos(lang);
-     lang_div.style.left = (offset[0] + lang.offsetWidth - 150) + 'px';
-     lang_div.style.display = 'block';
-    }
-    var isLangActive = false;
-    var langTimeoutId;
-    function checkAndHideLang() {
-        if(!isLangActive) {
-            eId('lang_div').style.display = 'none';
-            isLangActive = false;
-        }
-    }
-    function hideLang() {
-        isLangActive = false;
-        langTimeoutId = setTimeout('checkAndHideLang()', 1000);
-    }
-</script><div id="lang_div" onmouseover="isLangActive=true; clearTimeout(langTimeoutId); " onmouseout="hideLang();" style="display : none;">
-<table cellspacing="0" cellpadding="0" border="0" width="100%">
-<tbody><tr>
-<td><a class="blue_link addsettings" href="/dan/privacy-policy.html">Dansk</a></td>
-<td><a class="blue_link addsettings" href="/deu/privacy-policy.html">Deutsch</a></td>
-</tr>
-<tr>
-<td><a class="blue_link addsettings" href="/eng/privacy-policy.html">English</a></td>
-<td><strong>English UK</strong></td>
-</tr>
-<tr>
-<td><a class="blue_link addsettings" href="/esp/privacy-policy.html">Español</a></td>
-<td><a class="blue_link addsettings" href="/fra/privacy-policy.html">Français</a></td>
-</tr>
-<tr>
-<td><a class="blue_link addsettings" href="/ita/privacy-policy.html">Italiano</a></td>
-<td><a class="blue_link addsettings" href="/ned/privacy-policy.html">Nederlands</a></td>
-</tr>
-<tr>
-<td><a class="blue_link addsettings" href="/nor/privacy-policy.html">Norsk</a></td>
-<td><a class="blue_link addsettings" href="/pol/privacy-policy.html">Polski</a></td>
-</tr>
-<tr>
-<td><a class="blue_link addsettings" href="/por/privacy-policy.html">Português</a></td>
-<td><a class="blue_link addsettings" href="/suo/privacy-policy.html">Suomi</a></td>
-</tr>
-<tr>
-<td><a class="blue_link addsettings" href="/sve/privacy-policy.html">Svenska</a></td>
-<td><a class="blue_link addsettings" href="/tur/privacy-policy.html">Türkçe</a></td>
-</tr>
-<tr>
-<td><a class="blue_link addsettings" href="/jia/privacy-policy.html">中文</a></td>
-<td><a class="blue_link addsettings" href="/nih/privacy-policy.html">日本語</a></td>
-</tr>
-<tr>
-<td><a class="blue_link addsettings" href="/fan/privacy-policy.html">繁體中文</a></td>
-<td><a class="blue_link addsettings" href="/han/privacy-policy.html">한글</a></td>
-</tr>
-</tbody></table>
-</div>
+    var agent = navigator.userAgent;
+    if ( (agent.indexOf('Firefox/') != -1) || (agent.indexOf('Chrome/') != -1) ||
+         (agent.indexOf('SeaMonkey/') != -1) || (agent.indexOf('MSIE 7') != -1) ||
+         (agent.indexOf('MSIE 8') != -1) ) {
 
+        document.getElementById('customplugin').style.display = '';
+        if (agent.indexOf('Firefox/') != -1) {
+            document.getElementById('customplugin_ff').style.display = '';
+        }
+        if (agent.indexOf('Chrome/') != -1) {
+            document.getElementById('customplugin_chrome').style.display = '';
+        }
+    }
+</script><input type="hidden" id="query_top" height="10"></div></div></div>
+<div id="loadingId"></div>
+</div><div id="toPopup"><div class="close"></div><div id="popup_content"><div id="sm-video" style="position: relative; display: block; width: 639px; height: 360px;">Jwplayer Loading<div style="display: none;" id="sm-video_aspect"></div><div id="sm-video_jwpsrv" style="position: absolute; top: 0px; z-index: 10;"></div></div></div></div>
+    
+    <div class="clear"></div>
+    </td>
+    </tr>
+</tbody>
+</table>
+    </div>
+    </div>
+    </div>
+    </div>
+    </div>
+    <div class="push"></div>
+    
+    
+	<div class="footer" id="footer">
+ 	<div class="copyright">
+  	© 2015 StartPage
+ 	</div>
+		
+ 	<div class="right_links"><a id="startmail" href="https://startmail.com/" style="text-decoration: none;">
+    <!--<span class="icon icon-small"><span class="icon-mail"></span></span>&nbsp;-->
+  	<span style="text-decoration: underline;">StartMail</span></a>
+  	<a id="privacy_policy" href="/uk/privacy-policy.html?">Privacy Policy</a>
+ 	</div>
+    <div class="imgavt"> </div>
+	</div>
+	
     <script type="text/javascript" charset="utf-8"> $(function() { $('body').hide().show(); });</script>
     
     
-</div></body></html>
+</body></html>
