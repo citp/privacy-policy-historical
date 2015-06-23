@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mymovieflix.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701075040id_/http%3A//www.mymovieflix.com/Private_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mymovieflix.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623135104id_/http%3A//www.mymovieflix.com/Private_policy.php) for the most accurate reproduction.*
 
 # Political News, Movie News, Reviews, Latest Gallery, Movie and Political Gossips - Mymovieflix
 
