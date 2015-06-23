@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tubidy.mobi privacy policy that was archived on 2011-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110205070058id_/http%3A//tubidy.mobi/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tubidy.mobi privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623192522id_/http%3A//tubidy.mobi/privacy_policy.php) for the most accurate reproduction.*
 
 # Tubidy Video Search - Privacy Policy
 
