@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the palmbeachgroup.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230130729id_/http%3A//palmbeachgroup.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the palmbeachgroup.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623170333id_/http%3A//palmbeachgroup.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Palm Beach Research Group
+# Privacy Policy - Palm Beach Research Group
 
 We take your privacy very seriously. If you have any questions on our privacy policy that we do not address below, contact customer service at (888) 501-2598, Monday through Friday, 9 a.m.-11 p.m. EST. You can also email them at [info@cspcustomerservice.com](mailto:info@cspcustomerservice.com).
 
