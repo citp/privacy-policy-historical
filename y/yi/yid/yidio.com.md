@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the yidio.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220025709id_/http%3A//www.yidio.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yidio.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623200923id_/http%3A//www.yidio.com/privacy) for the most accurate reproduction.*
 
 # Yidio Privacy Policy
 
-This Privacy Policy applies only to information we collect about you at [www.yidio.com](http://www.yidio.com/ "Yidio") (the "Website") and [games.yidio.com](http://games.yidio.com/ "games.yidio.com") and how we use this information.
+This Privacy Policy applies to information we collect about you at [www.yidio.com](http://www.yidio.com/ "Yidio") (the "Website") and Yidio applications and how we use this information.
 
 **Collection of your Yidio Information**
 
-Your "Yidio information" includes certain technical information gathered or received when you use Yidio. Some of the technical information that may be collected or received includes: the type of browser you are using (e.g., Netscape, Internet Explorer), the type of operating system you are using (e.g., Windows or Mac OS), CPU type, your manner of connecting to the Internet (e.g., connection speed through narrowband or broadband access); Internet protocol address; information about the version of service from an affiliate that you used prior to registering with the service; other information about your geographic location; and the domain name of your Internet service provider.
+Your "Yidio information" includes certain technical information gathered or received when you use Yidio. Some of the technical information that may be collected or received includes: the type of browser you are using (e.g., Netscape, Internet Explorer), the type of operating system you are using (e.g., Windows or Mac OS), CPU type, your manner of connecting to the Internet (e.g., connection speed through narrowband or broadband access); Internet protocol address; Apps Installed; information about the version of service from an affiliate that you used prior to registering with the service; other information about your geographic location; and the domain name of your Internet service provider.
 
 While registering to use most of the Yidio services is not required, there are a limited number of optional services (for example, saving a video list) that require an "account". Registration functionality for Yidio is provided by the Yidio Network. If you choose to "Register an Account", you will need to register with and provide information to Yidio. You will then obtain a Screen Name or other credential issued by Yidio (collectively, "Screen Name") in order to access and use these optional services, and your Screen Name and associated services account will be subject to the Yidio Terms of Service Agreement and Privacy Practices indicated in your registration process.
 
