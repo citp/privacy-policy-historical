@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sallyhansen.com privacy policy that was archived on 2014-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141216224317id_/http%3A//www.coty.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sallyhansen.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623030822id_/http%3A//www.coty.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Coty
 
@@ -50,7 +50,7 @@ Coty, or third parties on our behalf, may use the personal information that you 
 
 #### Cookies
 
-Subject to your prior explicit consent where such consent is required by the applicable law in your jurisdiction, Coty may place small data files on your computer, known as "cookies", in order to facilitate your browsing on the Coty Sites and improve the quality of the Coty Sites. A "cookie" primarily stores information concerning your visits and preferences as to your browsing on the Coty Sites, so you do not have to re-enter your settings when you come back to a Coty Site. 
+Subject to your prior explicit consent where such consent is required by the applicable law in your jurisdiction, Coty may place small data files on your computer, known as "cookies", in order to facilitate your browsing on the Coty Sites and improve the quality of the Coty Sites. A "cookie" primarily stores information concerning your visits and preferences as to your browsing on the Coty Sites, so you do not have to re-enter your settings when you come back to a Coty Site. Learn more about cookie settings [here](http://www.coty.com/cookie-policy). 
 
 You can prevent this storing by refusing the cookies when applicable, or by changing your browser settings. Most browsers will tell you how to stop accepting new cookies, how to be notified when you receive a new cookie, and how to disable existing cookies. However, please be aware that when you disable cookies, some features and services on the Coty Sites may not function properly. In addition, disabling cookies may cancel opt-outs that rely on cookies, such as web analytics.
 
