@@ -1,27 +1,84 @@
-> *The following text is extracted and transformed from the wpclassifieds.net privacy policy that was archived on 2011-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111127100917id_/http%3A//wpclassifieds.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wpclassifieds.net privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623225719id_/http%3A//www.elegantthemes.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Elegant Themes
 
-We take your right to privacy seriously and want you to feel comfortable using our web site.
+1\. Introduction
 
-This Privacy Policy deals with personally identifiable information (referred to as “Data” below) that may be collected by us on our site. This Policy does not apply to other entities that we do not own or control or persons that are not our employees, agents or within our control. Please take time to read our Terms of Use.
+Thank you for visiting ElegantThemes and, if applicable, choosing to use our Service. We try to make our Privacy Policy easy to understand so that you are informed as to how we use your information. This Privacy Policy, like our Terms of Service, is an integral part of using our Service; therefore you must completely agree to our Privacy Policy in order to use our Site or Service. If you are under 18 please stop using our Service immediately. 
 
-**Collection of Data.**
+3\. Information Collected
 
-We do not currently collect data via registrations, ecommerce or other methods. Like many web sites, we may however automatically receive general information that is contained in our server log files such as your IP address and cookie information. Information about how advertising may be served on this site (if at all) is set forth below.
+**Identifying Information Submitted by You**
 
-**Use of Data.**
+You will not be required to submit any information when visiting our Site. When creating an account, we may collect your name, email, address and country of origin. When purchasing any of our Services you will be required to submit information to our third party payment processors PayPal or Authorize.net. We will not collect any of your payment information, this information will solely be collected and stored by our third party processors. 
 
-We may use Data to customize and improve your user experience on this site. We will make efforts so that your Data will not be provided to third parties unless (i) provided for otherwise in this Privacy Policy; (ii) we obtain your consent, such as when you choose to opt-in or opt-out to the sharing of Data; (iii) a service provided on our site requires the interaction with or is provided by a third party, by way of example an Application Service Provider; (iv) pursuant to legal process or law enforcement; (v) we find that your use of this site violates our this Policy, Terms of Service, other usage guidelines or as deemed reasonably necessary by us to protect our legal rights and/or property; (vi) or (vi) this site is purchased by a third party whereby that third party will be able to use the Data in the same manner as we can as set forth in this Policy. In the event you choose to use links that appear on our site to visit other web sites, you are advised to read the privacy policies that appear on those sites.
+**Non-Identifying Information**
 
-**Cookies.**
+Whenever you visit our Site, we may collect non-identifying information from you, such as your IP address, interactions with the Site and Service, referring URL, browser, operating system, cookie information, usage, data transferred and Internet Service Provider. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party such as your wireless provider, this information alone cannot usually be used to identify you. 
 
-Like many web sites, we set and use cookies to enhance your user experience, such as retaining your personal settings. Advertisements may appear on our web site and, if so, may set and access cookies on your computer and is subject to the privacy policy of those parties providing the advertisement.
+4\. Use of Your Information
 
-However, the companies serving the advertising do not have access to our cookies. These companies usually use non-personally identifiable or anonymous codes to obtain information about your visits to our site. You can click here to find out more information about this practice and to find out about your options including from the following companies that may serve advertising on our site:
+We will never sell, transfer or give your information to a third party without your permission. However, you agree that we may use your information: 
 
-**Changes to this Privacy Policy.**
+  * To enhance or improve our users’ experiences.
+  * To provide our Service to you.
+  * To contact you and to respond to inquiries.
+  * To process transactions.
+  * To register an account and use our Service.
 
-We may make changes to this Policy from time to time. We will notify you of substantial changes to this Policy either by posting a prominent announcement on our site and/or by sending a message to the e-mail address you have provided to us that is contained within your user settings.
 
-The information contained on the site should not be taken as medical advice. Always consult a physician if you have a medical condition that could keep you from using this product.
+
+Additionally, we may give your information to law enforcement if we are compelled to by a court order, if there has been a violation of any US laws, EU laws or if a violation of the Terms of Service or Privacy Policy has occurred. 
+
+5\. Accessing, Editing, and Removing Your Information
+
+After creating an account you may be able to edit information submitted through our Site or Service. Simply access your account through the Site and edit any information. However, you will be unable to opt of our data collection practices. If you want your information to be removed from our database please contact us. We will generally endeavour to delete our database of user information at regular intervals, but we cannot guarantee that your information has been or will be deleted immediately. Although some changes may occur immediately, information may still be stored in a web browser’s cache. We take no responsibility for stored information in your cache, or in other devices that may store information, and disclaim all liability of such. 
+
+6\. Cookies
+
+We use cookies to save your preferences and to remember your shopping cart. For this reason, you must have cookies enabled in your browser to use our Site and Services. Additionally, some or all of our cookies may be accessible by third parties. 
+
+7\. Third Party Access to Your Information
+
+Although you are entering into an Agreement with ElegantThemes to disclose your information to us, we do use third party individuals and organizations to assist us, including contractors, web hosts, and others. Throughout the course of our provision of our Services to you, we may delegate our authority to collect, access, use, and disseminate your information. For example, when you submit a form with personally identifiable information to us, that information will be disseminated or forwarded through our Service to your local law enforcement agency. It is therefore necessary that you grant the third parties we may use in the course of our business the same rights that you afford us under this Privacy Policy. For this reason, you hereby agree that for every authorization which you grant to us in this Privacy Policy, you also grant to any third party that we may hire, contract, or otherwise retain the services of for the purpose of operating, maintaining, repairing, or otherwise improving or preserving our website or its underlying files or systems. You agree not to hold us liable for the actions of any of these third parties, even if we would normally be held vicariously liable for their actions, and that you must take legal action against them directly should they commit any tort or other actionable wrong against you. The following is a non-exhaustive list of other entities that we may store, share, or transfer your information with: 
+
+  * PayPal
+  * Authorize.net
+
+
+
+8\. Law Enforcement
+
+You agree that we may disclose your information to authorities if compelled to by a court order. Additionally, you agree that we may disclose your information if we reasonably believe that you have violated a US law or the terms of our Terms of Service or Privacy Policy or if we believe that a third party is at risk of bodily harm. In the event that we receive a subpoena affecting your privacy, we may elect to notify you to give you an opportunity to file a motion to quash the subpoena, or we may attempt to quash it ourselves, but we are not obligated to do either. We may also proactively report you and release your information without receiving any request to third parties where we believe that it is proper to do so for legal reasons, such as instances where we believe your publications violate any law of the United States or any other country having jurisdiction over us, our Site, Services, or our Terms of Service. You release us from any damages that may arise from or relate to the release of your information to a request from law enforcement agencies or private litigants. We may release your information under the conditions listed in this paragraph whether it is to individuals or entities and to any state or Federal authorities within the United States, or elsewhere. 
+
+9\. Commercial and Non-Commercial Communications
+
+By providing information to the Site that forms the basis of communication with you, such as contact information, you waive all rights to file complaints concerning unsolicited email from us, since you have agreed to such communication by providing your information to us. However, you may unsubscribe from certain communications by notifying ElegantThemes that you no longer wish to receive solicitations or information and we will endeavour to remove you from our database where you have the right to request this under our Agreement, Privacy Policy, or applicable law, or where we voluntarily decide to grant the request. 
+
+10\. Third Parties
+
+ElegantThemes may post links to third party websites on our Site or Service, which may include information that we have no control over. When accessing a third party site through our Site or Service, you acknowledge that you are aware that these third party websites are not screened for privacy or security issues by us, and you release us from any liability for the conduct of these third party websites. 
+
+Please be aware that this Privacy Policy, and any other policies in place, in addition to any amendments, does not create rights enforceable by third parties. ElegantThemes bears no responsibility for the information collected or used by any advertiser or third party website. You must review their Terms of Service and Privacy to understand how their information collection practices work. 
+
+11\. Security Measures
+
+We use SSL Certificates and vulnerability scanning to enhance the security of our Site and Services. However, we make no guarantees as to the security or privacy of your information. It is in our interest to keep our website secure, but we recommend that you use anti-virus software, routine credit checks, firewalls, and other precautions to protect yourself from security and privacy threats. 
+
+12\. Your California and European Privacy Rights
+
+ElegantThemes permits residents of the State of California to use its Service, and complies with the California Business and Professions Code §§ 22575-22579. If you are a California resident you may request certain information regarding our disclosure of personal information to any third parties for their direct marketing purposes. Various provisions throughout this Privacy Policy address requirements of the Californian privacy statutes. Although we do not disseminate your information to third parties without permission, you must presume that we collect electronic information from all visitors. You may contact us at support@ElegantThemes.com with any questions. 
+
+We also intend to comply with Directive 95/46/EC of the European Union. If you are a resident of any EU member countries please contact us at support@ElegantThemes.com with any privacy questions. 
+
+13\. Age Compliance
+
+We intend to fully comply with COPPA and international laws respecting children’s privacy. Therefore, we do not collect or process any information for any persons under the age of 18. If you are under 18 and using our Site or Service, please stop immediately and do not submit any information to us. 
+
+14\. International Transfer
+
+Your information may be transferred to - and maintained on - computers located outside of your state, province, country, or other governmental jurisdiction where the privacy laws may not be as protective as those in your jurisdiction. We may transfer personal information to the United States or elsewhere and process it there. Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer. 
+
+15\. Amendments
+
+Like our Terms of Service, we may amend this Privacy Policy from time to time. When we amend this Privacy Policy, we will place a note on our Site or we may contact you. You must agree to the amendments as a condition of your continued use of our Site and Service. If you do not agree, you must immediately cease using our Site and Service and notify us of your refusal to agree by e-mailing us at support@ElegantThemes.com. Last Modified: April 6, 2015 
