@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the netsize.com privacy policy that was archived on 2014-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141204180238id_/http%3A//www.netsize.com/terms-of-use) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netsize.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623074838id_/http%3A//www.netsize.com/terms-of-use) for the most accurate reproduction.*
 
 # Online privacy policy | Netsize
 
