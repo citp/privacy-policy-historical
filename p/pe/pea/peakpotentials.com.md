@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the peakpotentials.com privacy policy that was archived on 2014-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141229140343id_/http%3A//www.peakpotentials.com/terms/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the peakpotentials.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623193531id_/http%3A//www.peakpotentials.com/terms/privacy-policy) for the most accurate reproduction.*
 
-# Peak Potentials – Privacy Policy
+# Peak Potentials™ – Privacy Policy
 
 Your privacy is very important to us. We want to make your experience on the Internet as enjoyable and rewarding as possible, and we want you to use the Internet’s vast array of information, tools, and opportunities with complete confidence.
 
-We have created this Privacy Policy to demonstrate our firm commitment to privacy and security. This Privacy Policy describes how Peak Potentials Training (hereinafter “PPT”) collects information from all users of our website (the “Services”), including those who may register for programs (“Participants”) and those who do not register (“Visitors”). This Policy also explains what we do with the information we collect, and the choices Visitors and Participants have concerning the collection and use of such information. We request that you read this Privacy Policy carefully.
+We have created this Privacy Policy to demonstrate our firm commitment to privacy and security. This Privacy Policy describes how Peak Potentials™ Training (hereinafter “PPT”) collects information from all users of our website (the “Services”), including those who may register for programs (“Participants”) and those who do not register (“Visitors”). This Policy also explains what we do with the information we collect, and the choices Visitors and Participants have concerning the collection and use of such information. We request that you read this Privacy Policy carefully.
 
 Personal Information PPT Collects and How It Is Used
 
@@ -78,4 +78,4 @@ Services and Web sites we sponsor have security measures in place to protect the
 
 If you have any questions about this Privacy Policy or the practices described herein, you may contact us through the contact information provided on this Web site. We reserve the right to revise, amend, or modify this policy, our Terms Of Use & Service agreement, and our other policies and agreements at any time and in any manner, by updating this posting.
 
-© 2013 Peak Potentials Training, All Rights Reserved.
+© 2013 Peak Potentials™ Training, All Rights Reserved.
