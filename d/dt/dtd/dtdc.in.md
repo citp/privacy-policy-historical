@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dtdc.in privacy policy that was archived on 2014-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140510072844id_/http%3A//dtdc.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dtdc.in privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623200132id_/http%3A//dtdc.com/privacy.asp) for the most accurate reproduction.*
 
 # Welcome to DTDC
 
@@ -42,6 +42,23 @@ Cookies help DTDC with the capability to personalize information for certain seg
 
 Cookies can be removed from a user’s hard drive. Also, depending on what type of web browser and what browser version the user of the DTDC website is using, users may be able to change the properties on their cookie file so that cookies are not used or saved. Please check with the browser provider for more information on removing cookies.
 
+  6. **SECURITY ALERT- SPAM MAILS**
+
+**Fraudulent Email Alert:**  
+You may be receiving reports of fraudulent emails with the subject lines "Shipping Conformation," "Verify Info," Promotion gifts and cheques" "Some important information is missing" and "Please fulfill the documents attached to verify your identity." The fraudulent email may have an attached file that may contain a virus or other malware.
+
+If you receive a message matching this description below, do not open the email or click on the attachment. Delete the email immediately or forward it to the corporate IT team & Vigilance team.
+
+DTDC does not request, via unsolicited mail or e-mail, payment or personal information in return for goods in transit or in DTDC custody. If the fraudulent e-mail resulted in financial loss you should contact your banking institution immediately through the appropriate channels. DTDC is not responsible for any charges or costs incurred as a result of unauthorized or fraudulent activity that abuses the DTDC name, service marks and logos.
+
+**Common Warning Signs of Online Scams:**  
+
+
+    * Unexpected requests for money in return for delivery of a package, gifts from a promotion company ,often with a sense of urgency.
+    * Requests for personal and/or financial information.
+    * Links to misspelled or slightly altered Web-site addresses (DTDC ,Com, DT-DC.com, DTDC Express Inc..etc.)
+    * Spelling and grammatical errors or excessive use of capitalization and exclamation points.
+    * Claims that you have won a large sum of money in a lottery or settlement.
 
 
 
