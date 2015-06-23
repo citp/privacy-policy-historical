@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getalyric.com privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227100916id_/http%3A//www.getalyric.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getalyric.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623200651id_/http%3A//www.getalyric.com/privacy) for the most accurate reproduction.*
 
 # Getalyric.com - Privacy policy - Lyrics, Albums, Artists, DVD, Mp3, Concerts, Lyric, Video, Download
 
