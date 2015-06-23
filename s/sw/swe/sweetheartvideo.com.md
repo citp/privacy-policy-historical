@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sweetheartvideo.com privacy policy that was archived on 2014-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141029081951id_/http%3A//www.sweetheartvideo.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sweetheartvideo.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623092608id_/http%3A//www.sweetheartvideo.com/en/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Sweet Heart Video
 
