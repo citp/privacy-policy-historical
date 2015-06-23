@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the icontemplate.com privacy policy that was archived on 2014-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141126201746id_/http%3A//www.icontemplate.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icontemplate.com privacy policy that was archived on 2015-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150624002718id_/http%3A//www.icontemplate.com/privacy) for the most accurate reproduction.*
 
 # Privacy | iContemplate
 
