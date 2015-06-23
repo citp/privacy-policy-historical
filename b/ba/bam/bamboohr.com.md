@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the bamboohr.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220064004id_/http%3A//www.bamboohr.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bamboohr.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623120357id_/http%3A//www.bamboohr.com/privacy.php) for the most accurate reproduction.*
 
 # BambooHR Privacy Policy
 
-[](https://privacy.truste.com/privacy-seal/BambooHR/validation?rid=b94392fb-9f2c-4206-b4e1-7257dc58e08f "Validate TRUSTe privacy certification")
-
 Effective Date: 11/01/2013
 
-**BambooHR is committed to protect the privacy of our customers.** This privacy policy applies to [www.bamboohr.com](http://www.bamboohr.com/) owned and operated by BambooHR. This privacy policy describes how BambooHR collects and uses the personal information you provide on our web site: [www.bamboohr.com](http://www.bamboohr.com/) and our service BambooHR. It also describes the choices available to you regarding our use of your personal information and how you can access and update this information. The use of information collected through our service shall be limited to the purpose of providing the service for which the Client has engaged BambooHR.
+**BambooHR is committed to protect the privacy of our customers.** This privacy policy applies to [www.bamboohr.com](http://www.bamboohr.com/) and the BambooHR web application owned and operated by BambooHR. This privacy policy describes how BambooHR collects and uses the personal information you provide on our web site: [www.bamboohr.com](http://www.bamboohr.com/) and our service BambooHR. It also describes the choices available to you regarding our use of your personal information and how you can access and update this information. The use of information collected through our service shall be limited to the purpose of providing the service for which the Client has engaged BambooHR.
 
 BambooHR complies with the U.S. - E.U. Safe Harbor framework and the U.S. - Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland. BambooHR has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view BambooHR’s certification, please visit [www.export.gov/safeharbor/](http://www.export.gov/safeharbor/).
 
@@ -63,12 +61,6 @@ Phone: 801-724-6600
 
 
 
-BambooHR has received TRUSTe's Privacy Seal signifying that this privacy statement and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal.
-
-The TRUSTe certification covers our collection, use and disclosure of information we collect through our website [www.bamboohr.com](http://www.bamboohr.com/) and our service BambooHR and does not cover any information that is collected through our mobile applications. The use of information collected through our service shall be limited to the purpose of providing the service for which the Client has engaged BambooHR.
-
-If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe at [feedback-form.truste.com/watchdog/request](https://feedback-form.truste.com/watchdog/request).
-
 As part of our [participation](http://export.gov/safeharbor/) in the Safe Harbor Program, we have agreed to TRUSTe dispute resolution for disputes relating to our compliance with the Safe Harbor Privacy Framework. If you have any complaints regarding our compliance with the Safe Harbor you should first [contact us](https://web.archive.org/contact.php) (as provided above). If contacting us does not resolve your complaint, you may raise your complaint with TRUSTe by [Internet here](https://feedback-form.truste.com/watchdog/request), fax to 415-520-3420, or mail to TRUSTe Safe Harbor Compliance Dept., [click for mailing address](http://www.truste.com/about-TRUSTe/contact-us). If you are faxing or mailing TRUSTe to lodge a complaint, you must include the following information: the name of company, the alleged privacy violation, your contact information, and whether you would like the particulars of your complaint shared with the company. For information about TRUSTe or the operation of TRUSTe's dispute resolution process, [click here](http://www.truste.com/products-and-services/dispute-resolution-services/) or request this information from TRUSTe at any of the addresses listed above. The TRUSTe dispute resolution process shall be conducted in English.  For human resources data we have agreed to cooperate with Data Protection Authorities.
 
 Have more questions? We're here to help, so please [contact us.](https://web.archive.org/contact.php)
@@ -95,4 +87,8 @@ BambooHR has no direct relationship with the individuals whose personal data it 
 
 BambooHR will retain personal data we process on behalf of our Clients for as long as needed to provide services to our Client. BambooHR will retain and use this personal information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
+[
+
 Schedule Demo 
+
+](https://web.archive.org/live-demo.php)
