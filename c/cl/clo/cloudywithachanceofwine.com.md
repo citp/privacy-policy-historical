@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cloudywithachanceofwine.com privacy policy that was archived on 2013-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131216091209id_/http%3A//www.cloudywithachanceofwine.com/legal-stuff) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cloudywithachanceofwine.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623210057id_/http%3A//www.cloudywithachanceofwine.com/legal-stuff) for the most accurate reproduction.*
 
-# DISCLOSURE/PRIVACY POLICY
+# DISCLOSURE & PRIVACY POLICY - Cloudy, With a Chance of Wine
 
 **DISCLOSURE POLICY**
 
@@ -20,7 +20,7 @@ I use third-party advertising companies to serve ads when you visit my blog. The
 
 **PRIVACY POLICY**
 
-If you require any more information or have any questions about my privacy policy, please feel free to contact me by email at daniryanwrites [at] gmail [dot] com.
+If you require any more information or have any questions about my privacy policy, please feel free to contact me by email at chanceofwine [at] gmail [dot] com.
 
 At www.cloudywithachanceofwine.com, the privacy of my visitors is of extreme importance to me. This privacy policy document outlines the types of personal information that is received and collected by www.cloudywithachanceofwine.com and how it is used.
 
@@ -41,7 +41,9 @@ www.cloudywithachanceofwine.com does not use cookies.
 Some of my advertising partners may use cookies and web beacons on my site. My advertising partners include:
 
 -Google Adsense  
--Amazon
+-Amazon  
+-Advertising.com LLC and its affiliates  
+-iMedia Communications, Inc. 
 
 These third-party ad servers or ad networks use technology to the advertisements and links that appear on www.cloudywithachanceofwine.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
 
@@ -51,4 +53,6 @@ You should consult the respective privacy policies of these third-party ad serve
 
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
 
-Should you have any further questions, please contact me via email at daniryanwrites [at] gmail [dot] com.
+Cloudy, with a Chance of Wine is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to amazon.com.
+
+Should you have any further questions, please contact me via email at chanceofwine [at] gmail [dot] com.
