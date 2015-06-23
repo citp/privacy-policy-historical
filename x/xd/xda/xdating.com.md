@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the xdating.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231021618id_/http%3A//www.xdating.com/site/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xdating.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623195104id_/http%3A//www.xdating.com/site/privacy) for the most accurate reproduction.*
 
-# XDating.com - Free online Dating Sites & Service for casual dates
+# XDating.com - best dating online for free
 
 ### Table of Contents:
 
@@ -49,7 +49,7 @@ We reserve the right to disclose your personally identifiable information as req
 
 #### 5\. Your use of Other Users' Information
 
-You may not use other user's information for commercial purposes, to spam, to harass, or to make unlawful threats. We reserve the right to terminate those who misuse other user's information or who otherwise violate the [Terms of Service](https://web.archive.org/site/terms).
+You may not use other user's information for commercial purposes, to spam, to harass, or to make unlawful threats. We reserve the right to terminate those who misuse other user's information or who otherwise violate the .
 
 #### 6\. Control of Your Password
 
