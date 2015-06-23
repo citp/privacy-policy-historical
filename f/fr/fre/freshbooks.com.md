@@ -1,22 +1,22 @@
-> *The following text is extracted and transformed from the freshbooks.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231163301id_/http%3A//www.freshbooks.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freshbooks.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623204610id_/http%3A//www.freshbooks.com/policies/privacy) for the most accurate reproduction.*
 
-# Privacy Policy For FreshBooks Apps, Services and Web Site
+# FreshBooks – Privacy Policy
 
 ## Privacy Policy
 
-#### Last Updated: July 21, 2014
+#### Last Updated: January 8, 2015
 
 This is the Privacy Policy of the FreshBooks website (the “Site”), operated by 2NDSITE Inc. (together with our affiliates and subsidiaries, “FreshBooks”, “we”, “us”, “our” and terms of similar meaning) and our related products and services. It describes the information that we collect from you as part of the normal operation of our Site, and how we use and disclose this information.
 
-By accepting the Privacy Policy in registration or by visiting and using the Site, you expressly consent to our collection, use and disclosure of your personal information in accordance with this Privacy Policy. This Privacy Policy is incorporated into and subject to our [Terms of Use](https://web.archive.org/terms-of-service.php).
+By accepting the Privacy Policy in registration or by visiting and using the Site, you expressly consent to our collection, use and disclosure of your personal information in accordance with this Privacy Policy. This Privacy Policy is incorporated into and subject to our [Terms of Use](https://web.archive.org/policies/terms-of-service).
 
 In this Privacy Policy, we use the following terms to describe different types of visitors to our Site. Our customers are called “Subscribers” and our Subscribers’ customers are called “Customers”. We use the word “staff” to describe persons to whom Subscribers give “staff” access on the Site. Together with registered users of our forum or other interactive areas of the Site, these people are collectively described in this Privacy Policy as “Users” of our Site.
 
 ### How We Use Your Information
 
-We use personal information in the file we maintain about you, and other information we obtain from your current and past activities on the Site, to provide to you the services offered by the Site; resolve service and billing disputes; troubleshoot problems; bill any amounts due from you; measure consumer interest in our products and services, inform you about online and offline offers, products, services, events and updates; deliver information to you that, in some cases, is relevant to your interests, such as product news; customize your experience; detect and protect us against error, fraud and other criminal activity; enforce our [Terms of Use](https://web.archive.org/terms-of-service.php); provide you with system or administrative messages, and as otherwise described to you at the time of collection. On occasion we use email address or other contact information to contact our Users to ask them for their input on our services, to forward to them media opportunities, and even to invite them to dinner.
+We use personal information in the file we maintain about you, and other information we obtain from your current and past activities on the Site, to provide to you the services offered by the Site; resolve service and billing disputes; troubleshoot problems; bill any amounts due from you; measure consumer interest in our products and services, inform you about online and offline offers, products, services, events and updates; deliver information to you that, in some cases, is relevant to your interests, such as product news; customize your experience; detect and protect us against error, fraud and other criminal activity; enforce our [Terms of Use](https://web.archive.org/policies/terms-of-service); provide you with system or administrative messages, and as otherwise described to you at the time of collection. On occasion we use email address or other contact information to contact our Users to ask them for their input on our services, to forward to them media opportunities, and even to invite them to dinner.
 
-We may also use personal information about you to improve our marketing and promotional efforts, to analyze Site usage, to improve our content and product offerings, and to customize the Site's content, layout, and services. These uses improve the Site and better tailor it to meet your needs, so as to provide you with a smooth, efficient, safe and customized experience while using the Site.
+We may also use personal information about you to improve our marketing and promotional efforts, to analyze Site usage, to improve our content and product offerings, and to customize the Site’s content, layout, and services. These uses improve the Site and better tailor it to meet your needs, so as to provide you with a smooth, efficient, safe and customized experience while using the Site.
 
 If you wish to subscribe to our newsletters, we will use your name and email address to send the newsletter to you. Out of respect for your privacy, we provide you a way to unsubscribe in the email. If you wish to no longer receive our newsletters you may update the settings in your account, follow the instructions located in the email, or you may contact us at privacy@freshbooks.com.
 
@@ -32,13 +32,17 @@ You always have the option to not provide information by choosing not to become 
 
 If you are a Subscriber, we collect your credit card information for billing purposes. And if you are a Customer who wishes to pay amounts to a Subscriber on a recurring basis, we collect and store your credit card information for payment purposes.
 
-We also automatically track certain information about you based upon your behaviour on our Site. We use this information to do internal research on our users' demographics, interests, and behaviour to better understand, protect and serve you and our community. This information may include the URL that you just came from (whether this URL is on our Site or not), which URL you next go to (whether this URL is on our Site or not), your computer browser information, and your IP address. We may provide Customers' IP addresses to payment intermediaries in the course of the payment process.
+Some of our pages utilize framing techniques to serve content to from our partners while preserving the look and feel of our site. Please be aware that you are providing your personal information to these third parties and not to www.freshbooks.com.
 
-“Cookies” are small files placed on your hard drive that assist us in providing our services. We use cookies to allow you to enter your password less frequently during a session, and we use data collection devices (such as Google Analytics), including cookies, on certain pages of the Site to help analyze our web page flow, measure promotional effectiveness, and promote trust and safety, to offer certain features that are only available through the use of a cookie and to allow us to provide information that is targeted to your interests. We link the information we store in our cookies to personal information you submit when you create a FreshBooks account. We may use third-party service provides to assist us in monitoring your use of the Site. Information collected by these cookies is also governed by this privacy policy.
+We also automatically track certain information about you based upon your behaviour on our Site and store it through log files. We use this information to do internal research on our users’ demographics, interests, and behaviour to better understand, protect and serve you and our community. This information may include the URL that you just came from, which URL you next go, your computer browser information, and your IP address. We may provide Customers’ IP addresses to payment intermediaries in the course of the payment process.
 
-Following your registration on the Site, you can review and change your information in your account area. If you disclose personal information in any posting in our forum or blog and wish to have it removed, please contact us at the support contact information listed below, and posted on the Site.
+Technologies such as: cookies, beacons, tags and scripts are used by FreshBooks and our partners (e.g., advertising, marketing and analytics), affiliates, or other service providers. These technologies are used in analyzing trends, administering the site, tracking users’ movements around the site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis.
 
-We also use Google, as a third party vendor, to serve FreshBooks ads on other websites. Google uses what it calls a “DART cookie” to enable it to serve ads to users based on their visits to participating websites. As a result of our use of Google as a vendor and the use of DART cookies, the ads that you will be served on the internet may in some cases be based on your visit to our Site. You may opt out of the use of the DART cookie by visiting the Google site [here](http://www.google.com/privacy/ads/).
+We use cookies to remember users’ settings, store login addresses, authenticate users, run website experiments, and store analytics data. Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our site, but your ability to use some features or areas of our site may be limited.
+
+Third parties with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity use Local Storage Objects (LSOs) such as HTML 5 to collect and store information. Various browsers may offer their own management tools for removing HTML5 LSOs.
+
+We partner with a third party to either display advertising on our Web site or to manage our advertising on other sites. Our third party partner may use technologies such as cookies to gather information about your activities on this site and other sites in order to provide you advertising based upon your browsing activities and interests. If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking [here](http://preferences-mgr.truste.com/). Please note this does not opt you out of being served ads. You will continue to receive generic ads.
 
 ### Our Disclosure of Your Information
 
@@ -50,7 +54,9 @@ Payment Information. We use credit card and other personally identifiable inform
 
 Anonymized Aggregated Data. We aggregate and anonymize sales information including (but not limited to) industry type, number of invoices sent, average invoice size, method of sending invoices, percentage paid online, sales amounts and average sale per customer, and disclose such information in a non-personally identifiable manner to Subscribers. However, in these situations, we do not disclose any information that could be used to identify you personally.
 
-Forum. If you post on our forum or blog your username and other information you include is displayed in your postings or comments, and is therefore available to the public. All of your activities in the public areas of the forum will be identifiable to your User ID, and other people can see your published content.
+Forum. If you post on our forum or blog your username and other information you include is displayed in your postings or comments, and is therefore available to the public. All of your activities in the public areas of the forum will be identifiable to your User ID, and other people can see your published content. If you disclose personal information in any posting in our forum or blog and wish to have it removed, please contact us at the support contact information listed below, and posted on the Site.
+
+Our blog commenting system is also managed by a third party application that may require you to register to post a comment. You will need to contact or login into the third party application if you want the personal information that was posted to the comments section removed. To learn how the third party application uses your information, please review their privacy policy.
 
 Subsidiaries and Affiliates; Service Providers. We may from time to time use the services of affiliates, subsidiaries and unrelated service providers in the operation of the Site, and may disclose personal information to them in the course of our use of their services. For example, we may use the services of third-party hosting companies to host the operation of the Site. This may involve the hosting of data, including personal information, on servers operated by those hosting companies. We take care to use only service providers that we believe are reputable and able to live up to our and your expectations, including about the handling of confidential information. These companies are authorized to use your personal information only as necessary to provide these services to us.
 
@@ -58,13 +64,13 @@ Legal Requests and Business Transitions; Emergencies. FreshBooks may disclose yo
 
 ### Your Use of Other Persons’ Information
 
-In order to facilitate the services provided by the Site, the Site allows you in certain circumstances to give other Users limited access to the personal information of other persons. For example, if you are a Subscriber, you may use the Site to give access to a staff member to the personal information of your Customers. By entering into our [Terms of Use](https://web.archive.org/terms-of-service.php), you agree that, with respect to the personal information of other persons that you collect, use and disclose on the Site, you have all necessary consents and rights to collect, use and disclose that information as described in this Privacy Policy from time to time, and you agree that the indemnity you give to us in the [Terms of Use](https://web.archive.org/terms-of-service.php) applies to any non-compliance by you with the foregoing.
+In order to facilitate the services provided by the Site, the Site allows you in certain circumstances to give other Users limited access to the personal information of other persons. For example, if you are a Subscriber, you may use the Site to give access to a staff member to the personal information of your Customers. By entering into our [Terms of Use](https://web.archive.org/policies/terms-of-service), you agree that, with respect to the personal information of other persons that you collect, use and disclose on the Site, you have all necessary consents and rights to collect, use and disclose that information as described in this Privacy Policy from time to time, and you agree that the indemnity you give to us in the [Terms of Use](https://web.archive.org/policies/terms-of-service) applies to any non-compliance by you with the foregoing.
 
 If you choose to use our referral service to tell a friend about our site, we will ask you for your friend’s name and email address. We will automatically send your friend a one-time email inviting him or her to visit the site. FreshBooks stores this information for the sole purpose of sending this one-time email and tracking the success of our referral program. Your friend may contact us at privacy@freshbooks.com to request that we remove this information from our database.
 
 ### Security
 
-FreshBooks strives to protect your personal information. For security of transactions, we use the Secure Sockets Layer (SSL) protocol, which encrypts any information, such as credit card number and billing information, you send to us electronically. The encryption process protects your information, by scrambling it before it is sent to us from your computer. Once FreshBooks receives your transmission, we make commercially reasonable efforts to ensure its security on our system. Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. As a result, while we strive to protect your personal information, we cannot warrant the security of any information you transmit to us. More information about security is available on the Site and in our [Terms of Use](https://web.archive.org/terms-of-service.php).
+FreshBooks strives to protect your personal information. For security of transactions, we use the Secure Sockets Layer (SSL) protocol, which encrypts any information, such as credit card number and billing information, you send to us electronically. The encryption process protects your information, by scrambling it before it is sent to us from your computer. Once FreshBooks receives your transmission, we make commercially reasonable efforts to ensure its security on our system. Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. As a result, while we strive to protect your personal information, we cannot warrant the security of any information you transmit to us. More information about security is available on the Site and in our [Terms of Use](https://web.archive.org/policies/terms-of-service).
 
 ### Other Information Collectors
 
@@ -73,6 +79,16 @@ Except as otherwise expressly included in this Privacy Policy, this document onl
 ### Correcting and Updating Your Personal Information
 
 To review, delete and update your personal information to ensure it is accurate, you may login into your account to make the changes, or you may contact us at privacy@freshbooks.com.
+
+### Account Deletion
+
+FreshBooks is a complex business network that connects millions of users. FreshBooks manages a business eco system that brings together contractors, companies and customers. This network relies on the exchange and sharing of information that is important to others in your network. Tracked hours, sent invoices, paid invoices, contractor invoices are all vital to other people that work with you. These are the official history of work done and moneys paid.
+
+The complexity and connected nature of the system requires that this history exists in perpetuity to accommodate proper function and accounting for the other systems that you have connected to via contracting hours, invoices, estimates. FreshBooks cannot guarantee the deletion of all your information.
+
+When a customer chooses to close an account we will remove your information from our marketing and billing systems. This will ensure that there are not further mailings or billings directed towards the canceled user.
+
+As we continue to refine FreshBooks we will establish a method for the complete removal of all user information from the system without breaking accepted accounting principles for other connected FreshBooks accounts. This document will evolve as these new methods are defined and tested for permanent account deletion. Users wishing to be notified when this development is complete can indicate their wishes via support @ freshbooks.com or 1.866.303.6061.
 
 ### Data Retention
 
@@ -90,17 +106,7 @@ Our Web site includes Social Media Features, such as the Facebook and Twitter bu
 
 ### TRUSTe Privacy Seal
 
-FreshBooks has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](https://www.truste.com/privacy-program-requirements/) including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at privacy@freshbooks.com. If you are not satisfied with our response you can contact TRUSTe [here](https://feedback-form.truste.com/watchdog/request). The TRUSTe program covers only information that is collected through this Web site, and does not cover information that may be submitted by a Subscribers’ Customers & staff or collected through software downloaded from the site.
-
-### Account Deletion
-
-FreshBooks is a complex business network that connects millions of users. FreshBooks  manages a business eco system that brings together contractors, companies and customers. This network relies on the exchange and sharing of information that is important to others in your network. Tracked hours, sent invoices, paid invoices, contractor invoices are all vital to other people that work with you. These are the official history of work done and moneys paid.
-
-The complexity and connected nature of the system requires that this history exists in perpetuity to accommodate proper function and accounting for the other systems that you have connected to via contracting hours, invoices, estimates. FreshBooks cannot guarantee the deletion of all your information.
-
-When a customer chooses to close an account we will remove your information from our marketing and billing systems. This will ensure that there are not further mailings or billings directed towards the canceled user.
-
-As we continue to refine FreshBooks we will establish a method for the complete removal of all user information from the system without breaking accepted accounting principles for other connected FreshBooks accounts. This document will evolve as these new methods are defined and tested for permanent account deletion. Users wishing to be notified when this development is complete can indicate their wishes via support @ freshbooks.com or 1.866.303.6061.
+FreshBooks has been awarded TRUSTe’s Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe’s program requirements](https://www.truste.com/privacy-program-requirements/) including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe’s mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at privacy@freshbooks.com. If you are not satisfied with our response you can contact TRUSTe [here](https://feedback-form.truste.com/watchdog/request). The TRUSTe program covers only information that is collected through this Web site: www.freshbooks.com, and does not cover information that may be submitted by a Subscribers’ Customers & staff or collected through software downloaded from the site or our mobile application.
 
 ### Notification of Privacy Statement Changes
 
@@ -108,10 +114,10 @@ We may update this privacy statement to reflect changes to our information pract
 
 ### Questions?
 
-It is our goal to make our privacy practices easy to understand. If you have questions, concerns or if you would like more detailed information, please email our privacy officer at:  
+It is our goal to make our privacy practices easy to understand. If you have questions, concerns or if you would like more detailed information, please email our privacy officer at:
+
 FreshBooks  
 privacy@freshbooks.com  
-1655 Dupont St, Suite 250  
+1655 Dupont St. Suite 250  
 Toronto, ON  
-M6P 3T1 Canada  
-
+M6P 3T1 Canada
