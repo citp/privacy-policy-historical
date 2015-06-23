@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mckinseyquarterly.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220201046id_/http%3A//www.mckinsey.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mckinseyquarterly.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623201828id_/http%3A//www.mckinsey.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy policy | McKinsey & Company
 
@@ -6,11 +6,11 @@ McKinsey & Company (“McKinsey”, “us” or “we”) understands that your 
 
 ###### What personally-identifiable information is collected?
 
-McKinsey collects personally-identifiable information on certain areas of the Site when users register for or apply for jobs through the McKinsey Recruitment Portal, register for McKinsey.com newsletters and alerts, sign up for conferences and events, and participate in user posting areas (such as bulletin boards, discussion forums and surveys). The personally-identifiable information collected may consist of information that you provide, such as your name, mailing address, e-mail address, telephone number, fax number, and background information required to apply for a job. For recruiting purposes, the information collected may include other personally-identifiable information that you include on your resume and information that you submit as part of your application. In addition, McKinsey collects certain information that you do not visibly enter, such as your IP address, browsing pattern on the Site, click stream data, HTTP protocol elements, and the status of cookies placed on your computer by McKinsey. 
+McKinsey collects personally-identifiable information on certain areas of the Site when users register for or apply for jobs through the McKinsey Recruitment Portal, register for McKinsey.com newsletters and alerts, participate in our alumni activities, sign up for conferences and events, and participate in user posting areas (such as bulletin boards, discussion forums and surveys). The personally-identifiable information collected may consist of information that you provide, such as your name, mailing address, e-mail address, telephone number, fax number, and background information required to apply for a job. For recruiting purposes, the information collected may include other personally-identifiable information that you include on your resume and information that you submit as part of your application. In addition, McKinsey collects certain information that you do not visibly enter, such as your IP address, browsing pattern on the Site, click stream data, HTTP protocol elements, and the status of cookies placed on your computer by McKinsey. 
 
 ###### How may McKinsey use my personally-identifiable information? 
 
-McKinsey uses your personally-identifiable information to fulfill your requests for information, publish your letters to the editor or comments, process your requests to participate in conferences and events, evaluate any job applications, recruit personnel, distribute newsletters and alerts to you, and for such other purposes as you may initiate or request. We may keep any of your personally-identifiable information on file and use it to contact you. 
+McKinsey uses your personally-identifiable information to fulfill your requests for information, publish your letters to the editor or comments, process your requests to participate in conferences and events, evaluate any job applications, recruit personnel, distribute newsletters and alerts to you, personalize content that you view or receive, evaluate and improve our services, and for such other purposes as you may initiate or request. We may keep any of your personally-identifiable information on file and use it to contact you.
 
 ###### How are cookies used? 
 
@@ -39,8 +39,8 @@ More specifically, McKinsey places the following cookies:
 **Cookie** | **Cookie Purpose** | **Nature of the Cookies** | **Cookie Type** | **Approval Method**  
 ---|---|---|---|---  
 Web Analytics | Google Analytics: tracks each user's amount of visits, and the time of the first, the previous, and the current visit | First Party | Permanent | Implied Consent  
-Web Analytics | Google Analytics: tracks how long you stay on a site - when a visit starts and approximately ends  | First Party | Permanent | Implied Consent  
-Web Analytics | Google Analytics: tracks where a visitor came from (e.g. search engine, search keyword, link) | First Party | Permanent | Implied Consent  
+Web Analytics | Google Analytics: tracks how long you stay on a site - when a visit starts and approximately ends | First Party | Permanent | Implied Consent  
+Web Analytics | Google Analytics: tracks where a visitor came from | First Party | Permanent | Implied Consent  
 Web Analytics | Omniture SiteCatalyst: various reports on user activity | First Party | Permanent | Implied Consent  
 Device Identification | Identify your device (e.g. computer, phone, tablet PC) so that content is delivered in the correct format | First Party | Session | Strictly Necessary  
 Language Identification | Identify your language preferences when navigating the website | First Party | Session | Strictly Necessary  
@@ -50,8 +50,14 @@ User Identification | Identify the site User and grant access to the user's acco
 Print Specification | Identify what pages the user wants to print | First Party | Session | Strictly Necessary  
 Web Analytics | Used in connection with embedded videos delivered by Vimeo LLC to track anonymous information about the videos played, including the number of visitors and where visitors originated | Third Party | Temporary | Implied Consent  
 Session Tracking | Used in connection with embedded videos delivered by Vimeo LLC to track problems encountered with the video player and improve performance | Third Party | Session | Implied Consent  
+Web Analytics | Used in connection with embedded videos delivered by Brightcove to track anonymous information about the videos played, including the number of visitors and where visitors originated | Third Party | Session | Implied Consent  
+Session Tracking | Used in connection with embedded videos delivered by Brightcove to track problems encountered with the video player and improve performance | Third Party | Session | Implied Consent  
 Session Identification and Analytics | Pages on our websites may use a widget from ShareThis which facilitates users in sharing articles, links, and other information across various social media networks. The cookie uset determines whether a cookie has been set and the stid cookie tracks statistics related to use of the ShareThis widget. | Third Party | Temporary | Implied Consent  
 Session identification | Used in connection with identifying the user or organization using the Organizational Capacity Assessment Tool (OCAT) on McKinseyonSociety.com | Third Party | Session | Strictly Necessary  
+User Tracking | Optimizely uniquely identify users and track their measurable actions based on different content | First Party | Permanent | Implied Consent  
+User Tracking | Optimizely uniquely tracks users across domains related to measurable actions with the primary first party cookie | First Party | Permanent | Implied Consent  
+User Tracking | Pages on our website may use a widget from Twitter which facilitates interaction with its services. Twitter tracks users for authentication and security, user preferences, analytics and research, and to serve personalized content | First Party | Permanent | Implied Consent  
+Session Tracking | Used in connection with embedded videos delivered by YouTube to track anonymous Session Tracking information about the videos played, including the number of visitors and where visitors originated | Third Party | Temporary | Implied Consent  
   
 Definitions:
 
@@ -80,13 +86,13 @@ McKinsey frequently visits recruiting websites and social networks such as Linke
 
 In connection with applications that we make available for mobile devices, McKinsey may use third-party services to track and analyze nonpersonally identifiable user activity in order to fix errors, monitor usage, and improve the performance of the applications. In particular, UrbanAirship tracks whether a user opened an application in response to a specific push notification. Omniture tracks and reports on some of our mobile applications’ usage and browsing patterns, including information about the type of device used, articles accessed, and other events occurring within our apps. Crittercism tracks certain errors occurring within mobile applications. None of these third parties gathers information in a manner intended to identify any particular user personally.
 
-In addition, our McKinsey Insights app offers a personalized list of recommendations (called “Recommended for you”) pointing out McKinsey content we think you'll find interesting. Recommendations are based solely on what you've viewed in the Insights app. A unique user identifier that is generated by the app and does not contain (or link to) any personally identifiable information helps us track the articles you read. We do not share your viewing history or trends with other users or other sites.
+In addition, our McKinsey Insights app offers a personalized list of recommendations (called “Recommended for you”) pointing out McKinsey content we think you'll find interesting. Recommendations are based solely on what you've viewed in the Insights app. A unique user identifier that is generated by the app  helps by personalizing your experience and tracking the articles you read. We do not share your viewing history or trends with other users or any third parties.
 
 Our mobile applications may include integration with various social-networking sites, including Facebook, Google+, LinkedIn, and Twitter. If you enable and use these features within an application, the extent to which your activities and information are tracked is governed by the relevant user agreement you have in place with such a third party.
 
-###### Newsletters and Alerts 
+###### The Alumni Center, Newsletters, and Alerts 
 
-By registering for recurring McKinsey newsletters or alerts, you agree to receive on occasion other correspondence from McKinsey related to the subscribed newsletters and other McKinsey news and information that you consented to receive during registration. This type of information is shared externally only in anonymous, aggregated form for generalized user analysis or to enable third party agents to send e-mails to you on our behalf. You will be contacted by e-mail or otherwise only by McKinsey or it agents. 
+By registering with our Alumni Center or for recurring McKinsey newsletters or alerts, you agree to receive on occasion other correspondence from McKinsey related to the subscribed newsletters and other McKinsey news and information that you consented to receive during registration. This type of information is shared externally only in anonymous, aggregated form for generalized user analysis or to enable third party agents to send e-mails to you on our behalf. You will be contacted by e-mail or otherwise only by McKinsey or it agents. 
 
 We ask for your e-mail address at registration. We will send e-mails to this address to confirm your registration, to provide newsletters or alerts and to contact you for any other reason. In addition, we may contact you regarding your account status. If you sign up to receive any of our newsletters, alerts, or surveys, you may on occasion receive other correspondence from McKinsey. Your e-mail address will not be shared with any third party other than an agent who has agreed to send e-mails on our behalf. 
 
@@ -120,6 +126,8 @@ McKinsey has implemented generally accepted standards of technology and operatio
 
 Personally-identifiable information collected on the Site may be transferred from time to time to McKinsey offices or personnel, or to third parties, located throughout the world, and the Site may be viewed and hosted by McKinsey or its vendors anywhere in the world, including countries that may not have the same data protection laws than what is found in your country of residence. By using the Site and registering such information on it, you voluntarily consent to such transborder transfer and hosting of such information. 
 
+Without limiting the foregoing, in connection with client engagements involving specific services, McKinsey’s United States entities have certified to the US-EU Safe Harbor Framework and the US-Swiss Safe Harbor Framework with respect to certain personal information about its clients’ personnel located in the European Economic Area or Switzerland. For more information about the scope of McKinsey’s Safe Harbor certification and the process McKinsey follows, please visit our [Safe Harbor](https://web.archive.org/safe_harbor) page. 
+
 ###### Data Retention Policy
 
 McKinsey stores personally-identifiable information for various purposes as notified to you in this policy. For each of these different purposes, McKinsey only retains the personally-identifiable information for so long as it is serving its notified purpose.
@@ -140,7 +148,9 @@ McKinsey.com | Retain contact details for submitted customer service inquires | 
 McKinsey.com | Retain demographic information for members of the panelist program | Indefinitely – for research and survey analysis.  
 McKinsey.com | Retain contact details for submitted comments | Indefinitely – Any personally-identifiable information is either published with the article or stored with the article.  
 McKinseyonSociety.com | Retain contact details and data captured by the organization profile registration | Indefinitely – stores the user information and organization for posterity.  
+McKinsey Insights App | Retain contact details for personalized experience  | Indefinitely – Once registered, the user will be able to personalize knowledge topics and articles for all future sessions.  
 McKinsey Insights App | Retain contact details for submitted customer service inquiries | Indefinitely – information submitted in connection with an inquiry is stored with the relevant submission.  
+Alumni.McKinsey.com | Retain registration details and other information submitted by users  | Indefinitely – information submitted in connection with our Alumni Center may be kept for use in accordance with our privacy policy  
   
 ###### Children
 
@@ -148,7 +158,7 @@ McKinsey understands the importance of protecting children's privacy, especially
 
 ###### Consent; changes to privacy policy
 
-By using the Site, you consent to the collection, use, and storage of your information by us in the manner described in this Privacy Policy and elsewhere on the Site. We reserve the right to make changes to this Privacy Policy from time to time. We will alert you to any such changes by updating this Privacy Policy. This Privacy Policy was last updated on March 31, 2014.
+By using the Site, you consent to the collection, use, and storage of your information by us in the manner described in this Privacy Policy and elsewhere on the Site. We reserve the right to make changes to this Privacy Policy from time to time. We will alert you to any such changes by updating this Privacy Policy. This Privacy Policy was last updated on February 6, 2015.
 
 ###### Contact our privacy department
 
