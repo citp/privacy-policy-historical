@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the etutorialblog.com privacy policy that was archived on 2014-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141111055058id_/http%3A//www.etutorialblog.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the etutorialblog.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623061938id_/http%3A//www.etutorialblog.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -20,7 +20,7 @@ Our Site may use “cookies” to enhance User experience. User’s web browser 
 
 E Tutorial Blog may collect and use Users personal information for the following purposes:
 
-\- To improve our Site We may use feedback you provide to improve our products and services. – To send periodic emails We may use the email address to send them information and updates pertaining to their order.
+– To improve our Site We may use feedback you provide to improve our products and services. – To send periodic emails We may use the email address to send them information and updates pertaining to their order.
 
  **How we protect your information**
 
